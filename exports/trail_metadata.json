@@ -1,0 +1,4783 @@
+{
+  "format": "reverse1999-trail-metadata-v1",
+  "episode_count": 132,
+  "element_count": 167,
+  "resolved_language_key_count": 311,
+  "missing_address_count": 0,
+  "field_notes": {
+    "17": "小径标题",
+    "18": "小径补充描述",
+    "20": "小径交互提示",
+    "trigger_episode_id": "使这些小径出现在地图上的前置关卡",
+    "element_type": "小径实际所属的剧情关卡 ID"
+  },
+  "episodes": [
+    {
+      "trigger_episode_id": 10105,
+      "element_ids": [
+        1010602,
+        1010603
+      ],
+      "elements": [
+        {
+          "element_id": 1010602,
+          "element_type": 10106,
+          "unlock_condition": "EpisodeFinish=10105",
+          "title_key": "language_10004460",
+          "title": "小径② 新闻一则",
+          "description_key": "language_10004461",
+          "description": "一张皱巴巴的公告传单，标示着刚出炉的“新闻”。",
+          "action_key": "language_10004462",
+          "action": "阅读"
+        },
+        {
+          "element_id": 1010603,
+          "element_type": 10106,
+          "unlock_condition": "ChapterMapElement=1010602",
+          "title_key": "language_10004463",
+          "title": "小径③ 无名来客Ⅰ",
+          "description_key": "language_10004464",
+          "description": "一句充满活力的问候，但你想你们并不熟悉。",
+          "action_key": "language_10004465",
+          "action": "与其交流"
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 10107,
+      "element_ids": [
+        1010801
+      ],
+      "elements": [
+        {
+          "element_id": 1010801,
+          "element_type": 10108,
+          "unlock_condition": "EpisodeFinish=10107",
+          "title_key": "language_10004473",
+          "title": "小径① 你好，十四行诗",
+          "description_key": "language_10004474",
+          "description": "在这里，十四行诗与苏芙比经历了一场惊心动魄的相逢。",
+          "action_key": "language_10004475",
+          "action": "见证这一刻"
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 10108,
+      "element_ids": [
+        1010901,
+        1010902
+      ],
+      "elements": [
+        {
+          "element_id": 1010901,
+          "element_type": 10109,
+          "unlock_condition": "EpisodeFinish=10108",
+          "title_key": "language_10004480",
+          "title": "小径① 到另一座城堡",
+          "description_key": null,
+          "description": null,
+          "action_key": null,
+          "action": null
+        },
+        {
+          "element_id": 1010902,
+          "element_type": 10109,
+          "unlock_condition": "EpisodeFinish=10108",
+          "title_key": "language_10004481",
+          "title": "小径② 魔精的床单",
+          "description_key": "language_10004482",
+          "description": "魔精不通人言，常用道具传达心意。你面前的这只朋友，正盖着被单嘶叫舞蹈，意为挑衅。",
+          "action_key": "language_10004483",
+          "action": "让它安静点"
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 10110,
+      "element_ids": [
+        1011101,
+        1011102
+      ],
+      "elements": [
+        {
+          "element_id": 1011101,
+          "element_type": 10111,
+          "unlock_condition": "EpisodeFinish=10110",
+          "title_key": "language_10004487",
+          "title": "小径① 迷宫里的奇怪东西",
+          "description_key": "language_10004488",
+          "description": "吐真剂，管制药剂之一，可用于对应狡猾与谎言。",
+          "action_key": "language_10004489",
+          "action": "捡拾"
+        },
+        {
+          "element_id": 1011102,
+          "element_type": 10111,
+          "unlock_condition": "EpisodeFinish=10110",
+          "title_key": "language_10004491",
+          "title": "小径② 酒吧杂谈",
+          "description_key": "language_10004492",
+          "description": "一名重塑之手的成员徘徊在瓦尔登湖门口。他有一封信，你可以通过一些手段获得它。",
+          "action_key": "language_10004493",
+          "action": "拿来瞧瞧"
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 10111,
+      "element_ids": [
+        1011201,
+        1011202
+      ],
+      "elements": [
+        {
+          "element_id": 1011201,
+          "element_type": 10112,
+          "unlock_condition": "EpisodeFinish=10111",
+          "title_key": "language_10004495",
+          "title": "小径① 仪式蕴蓄",
+          "description_key": "language_10004496",
+          "description": "一段记载，有关于如何迅速获得激情。\n快速振作士气有助于尽快召唤至终的仪式，使战局更有利。",
+          "action_key": "language_10004458",
+          "action": "前往查看"
+        },
+        {
+          "element_id": 1011202,
+          "element_type": 10112,
+          "unlock_condition": "EpisodeFinish=10111",
+          "title_key": "language_10004498",
+          "title": "小径② 无名来客Ⅱ",
+          "description_key": "language_10004499",
+          "description": "一个年幼的孩子。\n暴雨阻碍了调查任务，外界的变动让独行变得危机重重。",
+          "action_key": "language_10004500",
+          "action": "与其同行"
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 10112,
+      "element_ids": [
+        1011301
+      ],
+      "elements": [
+        {
+          "element_id": 1011301,
+          "element_type": 10113,
+          "unlock_condition": "EpisodeFinish=10112",
+          "title_key": "language_10004504",
+          "title": "小径① 诗歌",
+          "description_key": "language_10004505",
+          "description": "一首无名诗。纸张褶皱且带有汗渍。",
+          "action_key": "language_10004462",
+          "action": "阅读"
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 10113,
+      "element_ids": [
+        1011401
+      ],
+      "elements": [
+        {
+          "element_id": 1011401,
+          "element_type": 10114,
+          "unlock_condition": "EpisodeFinish=10113",
+          "title_key": "language_10004506",
+          "title": "小径① 律动·其一",
+          "description_key": "language_10004507",
+          "description": "一段记载，关于如何调整旋律的刻度。\n有些时候，你的决定足以扭转战局。",
+          "action_key": "language_10004458",
+          "action": "前往查看"
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 10201,
+      "element_ids": [
+        1020101
+      ],
+      "elements": [
+        {
+          "element_id": 1020101,
+          "element_type": 10201,
+          "unlock_condition": "EpisodeFinish=10201",
+          "title_key": "language_10004516",
+          "title": "小径① 黑色星期四",
+          "description_key": "language_10004517",
+          "description": "送奶工曾路过此地，留下些许模糊片段。",
+          "action_key": "language_10004518",
+          "action": "观看"
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 10202,
+      "element_ids": [
+        1020201
+      ],
+      "elements": [
+        {
+          "element_id": 1020201,
+          "element_type": 10202,
+          "unlock_condition": "EpisodeFinish=10202",
+          "title_key": "language_10004519",
+          "title": "小径① 重塑之手",
+          "description_key": "language_10004520",
+          "description": "有关于你的敌人，有关于重塑之手，大部分人都知道的公开信息。",
+          "action_key": "language_10004521",
+          "action": "查看"
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 10205,
+      "element_ids": [
+        1020501
+      ],
+      "elements": [
+        {
+          "element_id": 1020501,
+          "element_type": 10205,
+          "unlock_condition": "EpisodeFinish=10205",
+          "title_key": "language_10004529",
+          "title": "小径① 人类吃金块的证据",
+          "description_key": "language_10004530",
+          "description": "在布满金块的地方，魔精的亲戚——另一只魔精靠近了你。它并无敌意，并希望得到你的帮助。",
+          "action_key": "language_10004531",
+          "action": "提供帮助"
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 10206,
+      "element_ids": [
+        1020601,
+        1020602
+      ],
+      "elements": [
+        {
+          "element_id": 1020601,
+          "element_type": 10206,
+          "unlock_condition": "EpisodeFinish=10206",
+          "title_key": "language_10004532",
+          "title": "小径① 残局",
+          "description_key": "language_10004533",
+          "description": "棘手的残局，酝酿自一场胶着已久的苦战。等待着正确的指引让他们得以解放。",
+          "action_key": "language_10004534",
+          "action": "清理残局"
+        },
+        {
+          "element_id": 1020602,
+          "element_type": 10206,
+          "unlock_condition": "EpisodeFinish=10206",
+          "title_key": "language_10004536",
+          "title": "小径② 澄清",
+          "description_key": "language_10004537",
+          "description": "等待着新消息的魔精。比先前更镇静。在布满金块的地方，他的表亲已阅读过他的传单。",
+          "action_key": null,
+          "action": null
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 10207,
+      "element_ids": [
+        1020701
+      ],
+      "elements": [
+        {
+          "element_id": 1020701,
+          "element_type": 10207,
+          "unlock_condition": "EpisodeFinish=10207",
+          "title_key": "language_10004541",
+          "title": "小径① 致小卡文迪许",
+          "description_key": "language_10004542",
+          "description": "告别",
+          "action_key": null,
+          "action": null
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 10208,
+      "element_ids": [
+        1020801
+      ],
+      "elements": [
+        {
+          "element_id": 1020801,
+          "element_type": 10208,
+          "unlock_condition": "EpisodeFinish=10208",
+          "title_key": "language_10004543",
+          "title": "小径① 漫漫长夜旅行",
+          "description_key": "language_10004544",
+          "description": "一场天主教的葬礼。",
+          "action_key": null,
+          "action": null
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 10209,
+      "element_ids": [
+        1020901
+      ],
+      "elements": [
+        {
+          "element_id": 1020901,
+          "element_type": 10209,
+          "unlock_condition": "EpisodeFinish=10209",
+          "title_key": "language_10004545",
+          "title": "小径① 苏芙比的药剂",
+          "description_key": "language_10004546",
+          "description": "美味嚼嚼幻剂Ⅱ，苏芙比有你所需的一切材料。",
+          "action_key": "language_10004547",
+          "action": "尝试解读"
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 10210,
+      "element_ids": [
+        1021001
+      ],
+      "elements": [
+        {
+          "element_id": 1021001,
+          "element_type": 10210,
+          "unlock_condition": "EpisodeFinish=10210",
+          "title_key": "language_10004549",
+          "title": "小径① 森林中的魔精",
+          "description_key": "language_10004550",
+          "description": "在前往焦木林途中，你遇到了它们。",
+          "action_key": "language_10004551",
+          "action": "清除威胁"
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 10211,
+      "element_ids": [
+        1021101,
+        1021102,
+        1021103,
+        1021104
+      ],
+      "elements": [
+        {
+          "element_id": 1021101,
+          "element_type": 10211,
+          "unlock_condition": "EpisodeFinish=10211",
+          "title_key": "language_10004553",
+          "title": "小径① 堵截车队·一",
+          "description_key": "language_10004554",
+          "description": "来自圣洛夫基金会的作战任务，拦截重塑之手的资源运输车队。",
+          "action_key": "language_10004555",
+          "action": "执行任务"
+        },
+        {
+          "element_id": 1021102,
+          "element_type": 10211,
+          "unlock_condition": "ChapterMapElement=1021101",
+          "title_key": "language_10004557",
+          "title": "小径② 堵截车队·二",
+          "description_key": "language_10004558",
+          "description": "一辆停在路边的运输车。驾驶者不知去向。藤蔓攀爬其上，向来人致以问候。",
+          "action_key": "language_10004559",
+          "action": "拨开藤蔓"
+        },
+        {
+          "element_id": 1021103,
+          "element_type": 10211,
+          "unlock_condition": "ChapterMapElement=1021102",
+          "title_key": "language_10004560",
+          "title": "小径③ 堵截车队·三",
+          "description_key": "language_10004554",
+          "description": "来自圣洛夫基金会的作战任务，拦截重塑之手的资源运输车队。",
+          "action_key": "language_10004555",
+          "action": "执行任务"
+        },
+        {
+          "element_id": 1021104,
+          "element_type": 10211,
+          "unlock_condition": "ChapterMapElement=1021103",
+          "title_key": "language_10004562",
+          "title": "小径④ 斗犬之隔",
+          "description_key": null,
+          "description": null,
+          "action_key": null,
+          "action": null
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 10212,
+      "element_ids": [
+        1021201,
+        1021202
+      ],
+      "elements": [
+        {
+          "element_id": 1021201,
+          "element_type": 10212,
+          "unlock_condition": "EpisodeFinish=10212",
+          "title_key": "language_10004563",
+          "title": "小径① 八卦杂志",
+          "description_key": "language_10004564",
+          "description": "一份随处可见的八卦杂志。记载着这座城市里人们关心的一切。其中包括瓦尔登湖酒吧与勿忘我先生。",
+          "action_key": "language_10004462",
+          "action": "阅读"
+        },
+        {
+          "element_id": 1021202,
+          "element_type": 10212,
+          "unlock_condition": "EpisodeFinish=10212",
+          "title_key": "language_10004565",
+          "title": "小径② 转角相逢Ⅰ",
+          "description_key": "language_10004566",
+          "description": "不期而遇的重塑人员，仍需要你的谨慎面对。",
+          "action_key": "language_10004567",
+          "action": "准备应对"
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 10213,
+      "element_ids": [
+        1021301,
+        1021302
+      ],
+      "elements": [
+        {
+          "element_id": 1021301,
+          "element_type": 10213,
+          "unlock_condition": "EpisodeFinish=10213",
+          "title_key": "language_10004569",
+          "title": "小径① 隐秘的经济运作",
+          "description_key": "language_10004570",
+          "description": "一些老故事，更多旧传闻。随处打听，都能得知。",
+          "action_key": "language_10004571",
+          "action": "捡拾报纸"
+        },
+        {
+          "element_id": 1021302,
+          "element_type": 10213,
+          "unlock_condition": "EpisodeFinish=10213",
+          "title_key": "language_10004572",
+          "title": "小径② 转角相逢Ⅱ",
+          "description_key": "language_10004566",
+          "description": "不期而遇的重塑人员，仍需要你的谨慎面对。",
+          "action_key": "language_10004567",
+          "action": "准备应对"
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 10301,
+      "element_ids": [
+        1030101,
+        1030102
+      ],
+      "elements": [
+        {
+          "element_id": 1030101,
+          "element_type": 10301,
+          "unlock_condition": "EpisodeFinish=10301",
+          "title_key": "language_10004573",
+          "title": "小径① 开放式三明治",
+          "description_key": "language_10004574",
+          "description": "一张摸起来有些滑腻的纸，似乎曾包裹过某种油脂丰富的食物。",
+          "action_key": "language_10004575",
+          "action": "捡起来"
+        },
+        {
+          "element_id": 1030102,
+          "element_type": 10301,
+          "unlock_condition": "EpisodeFinish=10301",
+          "title_key": "language_10004576",
+          "title": "小径② 一个梦Ⅰ",
+          "description_key": "language_10004577",
+          "description": "黑色的、尖锐的、跳跃的移动着。",
+          "action_key": "language_10004578",
+          "action": "触碰它"
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 10302,
+      "element_ids": [
+        1030201,
+        1030202
+      ],
+      "elements": [
+        {
+          "element_id": 1030201,
+          "element_type": 10302,
+          "unlock_condition": "EpisodeFinish=10302",
+          "title_key": "language_10004580",
+          "title": "小径① “时间表”",
+          "description_key": "language_10004581",
+          "description": "一片剪影，有关拉普拉斯康复中心的一天。",
+          "action_key": "language_10004582",
+          "action": "尝试理解"
+        },
+        {
+          "element_id": 1030202,
+          "element_type": 10302,
+          "unlock_condition": "EpisodeFinish=10302",
+          "title_key": "language_10004583",
+          "title": "小径② 又一个梦Ⅱ",
+          "description_key": "language_10004584",
+          "description": "一抹鲜亮的绿。圆润的独眼眨动着。它带来的声响无处不在。",
+          "action_key": "language_10004514",
+          "action": "带走它"
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 10305,
+      "element_ids": [
+        1030501
+      ],
+      "elements": [
+        {
+          "element_id": 1030501,
+          "element_type": 10305,
+          "unlock_condition": "EpisodeFinish=10305",
+          "title_key": "language_10004586",
+          "title": "小径① 为沉眠者",
+          "description_key": "language_10004587",
+          "description": "不知身在何处，漫无目的地游荡。他看见过一切，至今尚在梦中。",
+          "action_key": "language_10004588",
+          "action": "唤醒他"
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 10306,
+      "element_ids": [
+        1030601
+      ],
+      "elements": [
+        {
+          "element_id": 1030601,
+          "element_type": 10306,
+          "unlock_condition": "EpisodeFinish=10306",
+          "title_key": "language_10004593",
+          "title": "小径① 与筑城者",
+          "description_key": "language_10004594",
+          "description": "铅灰、羊毛与谷物，总有一个会对它们起点作用。",
+          "action_key": "language_10004595",
+          "action": "驱赶它们"
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 10307,
+      "element_ids": [
+        1030701
+      ],
+      "elements": [
+        {
+          "element_id": 1030701,
+          "element_type": 10307,
+          "unlock_condition": "EpisodeFinish=10307",
+          "title_key": "language_10004597",
+          "title": "小径① 浑圆强盗",
+          "description_key": "language_10004598",
+          "description": "食物的诱惑总是难以抵挡，它们也知晓炸鱼与薯条的美味。",
+          "action_key": "language_10004599",
+          "action": "保卫油脂"
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 10308,
+      "element_ids": [
+        1030801
+      ],
+      "elements": [
+        {
+          "element_id": 1030801,
+          "element_type": 10308,
+          "unlock_condition": "EpisodeFinish=10308",
+          "title_key": "language_10004605",
+          "title": "小径① 神秘学军事图鉴",
+          "description_key": "language_10004606",
+          "description": "悄然潜入的多足窃贼，但未能逃过猎隼的眼睛。",
+          "action_key": "language_10004607",
+          "action": "阻止它们"
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 10309,
+      "element_ids": [
+        1030901
+      ],
+      "elements": [
+        {
+          "element_id": 1030901,
+          "element_type": 10309,
+          "unlock_condition": "EpisodeFinish=10309",
+          "title_key": "language_10004609",
+          "title": "小径① 良药苦口",
+          "description_key": "language_10004610",
+          "description": "教师桌的抽屉里留有一册笔记，灰白的朋友们也对它充满兴趣。",
+          "action_key": "language_10004611",
+          "action": "那是我的"
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 10310,
+      "element_ids": [
+        1031001,
+        1031002
+      ],
+      "elements": [
+        {
+          "element_id": 1031001,
+          "element_type": 10310,
+          "unlock_condition": "EpisodeFinish=10310",
+          "title_key": "language_10004613",
+          "title": "小径① 减法",
+          "description_key": "language_10004614",
+          "description": "一个无名的方盒子，屹立在空地。",
+          "action_key": "language_10004615",
+          "action": "这是什么？"
+        },
+        {
+          "element_id": 1031002,
+          "element_type": 10310,
+          "unlock_condition": "EpisodeFinish=10310",
+          "title_key": "language_10004616",
+          "title": "小径② 绿意守卫",
+          "description_key": "language_10004617",
+          "description": "孩子们的低语消散后，它们复归此地，将拾获的珍宝藏于身侧。",
+          "action_key": "language_10004618",
+          "action": "看个究竟"
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 10312,
+      "element_ids": [
+        1031201
+      ],
+      "elements": [
+        {
+          "element_id": 1031201,
+          "element_type": 10312,
+          "unlock_condition": "EpisodeFinish=10312",
+          "title_key": "language_10004623",
+          "title": "小径① 十四行诗的笔记本",
+          "description_key": "language_10004624",
+          "description": "她的字迹工整，其中的几页格外详细。",
+          "action_key": "language_10004462",
+          "action": "阅读"
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 10313,
+      "element_ids": [
+        1031301,
+        1031302
+      ],
+      "elements": [
+        {
+          "element_id": 1031301,
+          "element_type": 10313,
+          "unlock_condition": "EpisodeFinish=10313",
+          "title_key": "language_10004629",
+          "title": "小径① 巷尾传言",
+          "description_key": "language_10004630",
+          "description": "一些传言，信或不信，全在于你。",
+          "action_key": "language_10001036",
+          "action": "侧耳倾听"
+        },
+        {
+          "element_id": 1031302,
+          "element_type": 10313,
+          "unlock_condition": "EpisodeFinish=10313",
+          "title_key": "language_10004631",
+          "title": "小径② 破壳之卵",
+          "description_key": "language_10004632",
+          "description": "它们本不该在此出现，伴随着惊惧与失落。",
+          "action_key": "language_10004595",
+          "action": "驱赶它们"
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 10314,
+      "element_ids": [
+        1031401,
+        1031402
+      ],
+      "elements": [
+        {
+          "element_id": 1031401,
+          "element_type": 10314,
+          "unlock_condition": "EpisodeFinish=10314",
+          "title_key": "language_10004634",
+          "title": "小径① 一张合影",
+          "description_key": "language_10004635",
+          "description": "一张不知从何处而来的老旧合影。",
+          "action_key": "language_10004636",
+          "action": "尝试回忆"
+        },
+        {
+          "element_id": 1031402,
+          "element_type": 10314,
+          "unlock_condition": "EpisodeFinish=10314",
+          "title_key": "language_10004637",
+          "title": "小径② 职责所在",
+          "description_key": "language_10004638",
+          "description": "还有那么多的病人在等待，没有喘息与伤感的机会。",
+          "action_key": "language_10004639",
+          "action": "履行职责"
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 10401,
+      "element_ids": [
+        1040101
+      ],
+      "elements": [
+        {
+          "element_id": 1040101,
+          "element_type": 10401,
+          "unlock_condition": "EpisodeFinish=10401",
+          "title_key": "language_10004644",
+          "title": "小径① 湿漉漉的信",
+          "description_key": "language_10004645",
+          "description": "一封贴有漂亮邮票的信件，被水珠沾湿。",
+          "action_key": "language_10004646",
+          "action": "展开它"
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 10404,
+      "element_ids": [
+        1040401
+      ],
+      "elements": [
+        {
+          "element_id": 1040401,
+          "element_type": 10404,
+          "unlock_condition": "EpisodeFinish=404",
+          "title_key": "language_10004648",
+          "title": "小径① 静置一旁的笔记本",
+          "description_key": "language_10004649",
+          "description": "一段工整的，详尽的，满怀憧憬的笔记。",
+          "action_key": "language_10004650",
+          "action": "翻阅它"
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 10407,
+      "element_ids": [
+        1040701
+      ],
+      "elements": [
+        {
+          "element_id": 1040701,
+          "element_type": 10407,
+          "unlock_condition": "EpisodeFinish=10407",
+          "title_key": "language_10004655",
+          "title": "小径① 遗落的评分表",
+          "description_key": "language_10004656",
+          "description": "职员们包围着你，也许他们没有听清刚才的宣言。",
+          "action_key": "language_10004657",
+          "action": "大声宣告"
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 10408,
+      "element_ids": [
+        1040801
+      ],
+      "elements": [
+        {
+          "element_id": 1040801,
+          "element_type": 10408,
+          "unlock_condition": "EpisodeFinish=10408",
+          "title_key": "language_10004659",
+          "title": "小径① 执著的访客",
+          "description_key": "language_10004660",
+          "description": "守卫在森林边缘徘徊，邀请你们回到高大的白色房子。",
+          "action_key": "language_10004661",
+          "action": "拒绝他们"
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 10409,
+      "element_ids": [
+        1040901
+      ],
+      "elements": [
+        {
+          "element_id": 1040901,
+          "element_type": 10409,
+          "unlock_condition": "EpisodeFinish=10409",
+          "title_key": "language_10004664",
+          "title": "小径① 麻烦邻居",
+          "description_key": "language_10004665",
+          "description": "吵闹，具有攻击性，且数量众多。",
+          "action_key": "language_10004666",
+          "action": "请它们离开"
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 10411,
+      "element_ids": [
+        1041101
+      ],
+      "elements": [
+        {
+          "element_id": 1041101,
+          "element_type": 10411,
+          "unlock_condition": "EpisodeFinish=411",
+          "title_key": "language_10004672",
+          "title": "小径① “无名垂钓者”记录",
+          "description_key": "language_10004673",
+          "description": "无处不在的传闻。有人将它们整理于此。",
+          "action_key": "language_10004674",
+          "action": "探究它"
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 10412,
+      "element_ids": [
+        1041201
+      ],
+      "elements": [
+        {
+          "element_id": 1041201,
+          "element_type": 10412,
+          "unlock_condition": "EpisodeFinish=10412",
+          "title_key": "language_10004675",
+          "title": "小径① 人工梦游使用规范",
+          "description_key": "language_10004676",
+          "description": "职员们有了新办法，许多仪器被架设在广场旁。",
+          "action_key": "language_10004677",
+          "action": "静观其变"
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 10414,
+      "element_ids": [
+        1041401
+      ],
+      "elements": [
+        {
+          "element_id": 1041401,
+          "element_type": 10414,
+          "unlock_condition": "EpisodeFinish=10414",
+          "title_key": "language_10004679",
+          "title": "小径① 高难演习",
+          "description_key": "language_10004680",
+          "description": "别浪费难得的机会，把难度调到最大。",
+          "action_key": "language_10004681",
+          "action": "按下按钮"
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 10416,
+      "element_ids": [
+        1041601,
+        1041602
+      ],
+      "elements": [
+        {
+          "element_id": 1041601,
+          "element_type": 10416,
+          "unlock_condition": "EpisodeFinish=416",
+          "title_key": "language_10004684",
+          "title": "小径① 球类游戏",
+          "description_key": null,
+          "description": null,
+          "action_key": null,
+          "action": null
+        },
+        {
+          "element_id": 1041602,
+          "element_type": 10416,
+          "unlock_condition": "EpisodeFinish=416",
+          "title_key": "language_10004685",
+          "title": "小径② 公平竞赛",
+          "description_key": "language_10004686",
+          "description": "几位职员正在球桌旁驻足，比赛即将开场。",
+          "action_key": "language_10004687",
+          "action": "拿起球拍"
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 10417,
+      "element_ids": [
+        1041701
+      ],
+      "elements": [
+        {
+          "element_id": 1041701,
+          "element_type": 10417,
+          "unlock_condition": "EpisodeFinish=10417",
+          "title_key": "language_10004689",
+          "title": "小径① 与火共舞",
+          "description_key": null,
+          "description": null,
+          "action_key": null,
+          "action": null
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 10418,
+      "element_ids": [
+        1041801
+      ],
+      "elements": [
+        {
+          "element_id": 1041801,
+          "element_type": 10418,
+          "unlock_condition": "EpisodeFinish=418",
+          "title_key": "language_10004690",
+          "title": "小径① 似曾相识",
+          "description_key": "language_10004691",
+          "description": "熟悉的色彩吸引着你的目光。",
+          "action_key": "language_10004692",
+          "action": "停下脚步"
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 10420,
+      "element_ids": [
+        1042001
+      ],
+      "elements": [
+        {
+          "element_id": 1042001,
+          "element_type": 10420,
+          "unlock_condition": "EpisodeFinish=420",
+          "title_key": "language_10004696",
+          "title": "小径① 聚光灯之外",
+          "description_key": null,
+          "description": null,
+          "action_key": null,
+          "action": null
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 10421,
+      "element_ids": [
+        1042101
+      ],
+      "elements": [
+        {
+          "element_id": 1042101,
+          "element_type": 10421,
+          "unlock_condition": "EpisodeFinish=421",
+          "title_key": "language_10004697",
+          "title": "小径① 被裁剪过的旧报纸",
+          "description_key": "language_10004698",
+          "description": "一则有关弃票的讨论。",
+          "action_key": "language_10004699",
+          "action": "阅读它"
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 10422,
+      "element_ids": [
+        1042201
+      ],
+      "elements": [
+        {
+          "element_id": 1042201,
+          "element_type": 10422,
+          "unlock_condition": "EpisodeFinish=10422",
+          "title_key": "language_10004700",
+          "title": "小径① 小狗儿之歌",
+          "description_key": "language_10004701",
+          "description": "节奏轻快，歌颂着某只小狗的勇气。",
+          "action_key": "language_10004702",
+          "action": "倾听它"
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 10506,
+      "element_ids": [
+        1050601,
+        1050602
+      ],
+      "elements": [
+        {
+          "element_id": 1050601,
+          "element_type": 10506,
+          "unlock_condition": "EpisodeFinish=506",
+          "title_key": "language_10004771",
+          "title": "小径① 何时与何处",
+          "description_key": null,
+          "description": null,
+          "action_key": null,
+          "action": null
+        },
+        {
+          "element_id": 1050602,
+          "element_type": 10506,
+          "unlock_condition": "EpisodeFinish=506",
+          "title_key": "language_10004772",
+          "title": "小径② 对峙的第三方",
+          "description_key": "language_10004773",
+          "description": "海豚们对陆上生物的交流无比好奇，它们尝试加入这场对峙。",
+          "action_key": "language_10004774",
+          "action": "再次驱赶"
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 10510,
+      "element_ids": [
+        1051001
+      ],
+      "elements": [
+        {
+          "element_id": 1051001,
+          "element_type": 10510,
+          "unlock_condition": "EpisodeFinish=510",
+          "title_key": "language_10004781",
+          "title": "小径① 美妙巧合",
+          "description_key": null,
+          "description": null,
+          "action_key": null,
+          "action": null
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 10512,
+      "element_ids": [
+        1051201,
+        1051202
+      ],
+      "elements": [
+        {
+          "element_id": 1051201,
+          "element_type": 10512,
+          "unlock_condition": "EpisodeFinish=512",
+          "title_key": "language_10004782",
+          "title": "小径① 恰好的停顿",
+          "description_key": null,
+          "description": null,
+          "action_key": null,
+          "action": null
+        },
+        {
+          "element_id": 1051202,
+          "element_type": 10512,
+          "unlock_condition": "EpisodeFinish=512",
+          "title_key": "language_10004783",
+          "title": "小径② 赛事回顾",
+          "description_key": "language_10004784",
+          "description": "发生在数字与数字之间，一场精彩的辩论赛。",
+          "action_key": "language_10004785",
+          "action": "回想"
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 10514,
+      "element_ids": [
+        1051401
+      ],
+      "elements": [
+        {
+          "element_id": 1051401,
+          "element_type": 10514,
+          "unlock_condition": "EpisodeFinish=514",
+          "title_key": "language_10004790",
+          "title": "小径① 第三条岔路",
+          "description_key": null,
+          "description": null,
+          "action_key": null,
+          "action": null
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 10515,
+      "element_ids": [
+        1051501
+      ],
+      "elements": [
+        {
+          "element_id": 1051501,
+          "element_type": 10515,
+          "unlock_condition": "EpisodeFinish=10515",
+          "title_key": "language_10004793",
+          "title": "小径① 堵截逃兵",
+          "description_key": "language_10004794",
+          "description": "面具脑袋又想从真理的课堂上逃走……拦住他们！",
+          "action_key": "language_10004795",
+          "action": "帮助37"
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 10518,
+      "element_ids": [
+        1051801
+      ],
+      "elements": [
+        {
+          "element_id": 1051801,
+          "element_type": 10518,
+          "unlock_condition": "EpisodeFinish=10518",
+          "title_key": "language_10004800",
+          "title": "小径① 格格不入者",
+          "description_key": null,
+          "description": null,
+          "action_key": null,
+          "action": null
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 10519,
+      "element_ids": [
+        1051901
+      ],
+      "elements": [
+        {
+          "element_id": 1051901,
+          "element_type": 10519,
+          "unlock_condition": "EpisodeFinish=519",
+          "title_key": "language_10004801",
+          "title": "小径① 返回出口",
+          "description_key": "language_10004802",
+          "description": "样貌奇异的怪物堵住了船长的去路。更多……更多阿其翁？",
+          "action_key": "language_10004803",
+          "action": "清理道路"
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 10609,
+      "element_ids": [
+        100609
+      ],
+      "elements": [
+        {
+          "element_id": 100609,
+          "element_type": 10609,
+          "unlock_condition": "EpisodeFinish=10609",
+          "title_key": "language_10034099",
+          "title": "小径① 破镜中的残影",
+          "description_key": "language_10034100",
+          "description": "一丝残存的神秘气息，一帘难以忘却的甜蜜梦境。",
+          "action_key": "language_10034101",
+          "action": "注视着它"
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 10613,
+      "element_ids": [
+        100613
+      ],
+      "elements": [
+        {
+          "element_id": 100613,
+          "element_type": 10613,
+          "unlock_condition": "EpisodeFinish=10613",
+          "title_key": "language_10034110",
+          "title": "小径① 维也纳咖啡",
+          "description_key": null,
+          "description": null,
+          "action_key": null,
+          "action": null
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 10615,
+      "element_ids": [
+        100614
+      ],
+      "elements": [
+        {
+          "element_id": 100614,
+          "element_type": 10615,
+          "unlock_condition": "EpisodeFinish=615",
+          "title_key": "language_10034111",
+          "title": "小径① 枪响前夜",
+          "description_key": null,
+          "description": null,
+          "action_key": null,
+          "action": null
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 10616,
+      "element_ids": [
+        100615
+      ],
+      "elements": [
+        {
+          "element_id": 100615,
+          "element_type": 10616,
+          "unlock_condition": "EpisodeFinish=10616",
+          "title_key": "language_10034112",
+          "title": "小径① 游离在外的小坏蛋",
+          "description_key": "language_10034113",
+          "description": "他们横行霸道，耀武扬威，很显然他们没有想过，站在他们面前的会是一个真家伙。",
+          "action_key": "language_10034114",
+          "action": "击败他们"
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 10618,
+      "element_ids": [
+        100616
+      ],
+      "elements": [
+        {
+          "element_id": 100616,
+          "element_type": 10618,
+          "unlock_condition": "EpisodeFinish=10618",
+          "title_key": "language_10034116",
+          "title": "小径① 雨天的老朋友",
+          "description_key": "language_10034117",
+          "description": "扶起伯爵的鼻子，捏出贵妇的耳朵。“大可丢掉雨衣和雨靴！”戴面具的朋友在门廊处热情地招呼你：“快来淋淋这场酣畅淋漓的雨吧！”",
+          "action_key": "language_10034118",
+          "action": "容我拒绝"
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 10701,
+      "element_ids": [
+        1070101
+      ],
+      "elements": [
+        {
+          "element_id": 1070101,
+          "element_type": 10701,
+          "unlock_condition": "EpisodeFinish=10701",
+          "title_key": "language_10039893",
+          "title": "象征动物",
+          "description_key": null,
+          "description": null,
+          "action_key": null,
+          "action": null
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 10706,
+      "element_ids": [
+        1070601
+      ],
+      "elements": [
+        {
+          "element_id": 1070601,
+          "element_type": 10706,
+          "unlock_condition": "EpisodeFinish=706",
+          "title_key": "language_10039903",
+          "title": "用火安全",
+          "description_key": null,
+          "description": null,
+          "action_key": null,
+          "action": null
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 10711,
+      "element_ids": [
+        1071101
+      ],
+      "elements": [
+        {
+          "element_id": 1071101,
+          "element_type": 10711,
+          "unlock_condition": "EpisodeFinish=10711",
+          "title_key": "language_10039908",
+          "title": "问与答",
+          "description_key": null,
+          "description": null,
+          "action_key": null,
+          "action": null
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 10712,
+      "element_ids": [
+        100701,
+        1071201
+      ],
+      "elements": [
+        {
+          "element_id": 100701,
+          "element_type": 10712,
+          "unlock_condition": "EpisodeFinish=712",
+          "title_key": "language_10017383",
+          "title": "幻境",
+          "description_key": null,
+          "description": null,
+          "action_key": null,
+          "action": null
+        },
+        {
+          "element_id": 1071201,
+          "element_type": 10712,
+          "unlock_condition": "ChapterMapElement=100701",
+          "title_key": "language_10039911",
+          "title": "酿酒时节",
+          "description_key": "language_10039912",
+          "description": "一段不知来处的诗句，记录于某只卷轴之上。",
+          "action_key": "language_10039913",
+          "action": "诵读它"
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 10713,
+      "element_ids": [
+        1071301
+      ],
+      "elements": [
+        {
+          "element_id": 1071301,
+          "element_type": 10713,
+          "unlock_condition": "EpisodeFinish=713",
+          "title_key": "language_10039914",
+          "title": "七年的霉运",
+          "description_key": null,
+          "description": null,
+          "action_key": null,
+          "action": null
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 10720,
+      "element_ids": [
+        1072001
+      ],
+      "elements": [
+        {
+          "element_id": 1072001,
+          "element_type": 10720,
+          "unlock_condition": "EpisodeFinish=720",
+          "title_key": "language_10039921",
+          "title": "林中的行迹",
+          "description_key": "language_10039922",
+          "description": "命运的预兆隐藏在字里行间，读吧，一个声音说，选择的时刻已至。",
+          "action_key": "language_10004699",
+          "action": "阅读它"
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 10721,
+      "element_ids": [
+        100702,
+        1072101
+      ],
+      "elements": [
+        {
+          "element_id": 100702,
+          "element_type": 10721,
+          "unlock_condition": "EpisodeFinish=10721",
+          "title_key": "language_10039891",
+          "title": "步入终局",
+          "description_key": null,
+          "description": null,
+          "action_key": null,
+          "action": null
+        },
+        {
+          "element_id": 1072101,
+          "element_type": 10721,
+          "unlock_condition": "ChapterMapElement=100702",
+          "title_key": "language_10039923",
+          "title": "子弹与微积分",
+          "description_key": null,
+          "description": null,
+          "action_key": null,
+          "action": null
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 10727,
+      "element_ids": [
+        1072701
+      ],
+      "elements": [
+        {
+          "element_id": 1072701,
+          "element_type": 10727,
+          "unlock_condition": "EpisodeFinish=10727",
+          "title_key": "language_10039933",
+          "title": "绳结的艺术",
+          "description_key": null,
+          "description": null,
+          "action_key": null,
+          "action": null
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 10805,
+      "element_ids": [
+        1080501
+      ],
+      "elements": [
+        {
+          "element_id": 1080501,
+          "element_type": 10805,
+          "unlock_condition": "EpisodeFinish=805",
+          "title_key": "language_10054159",
+          "title": "红腹锯脂鲤群",
+          "description_key": null,
+          "description": null,
+          "action_key": null,
+          "action": null
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 10807,
+      "element_ids": [
+        1080701
+      ],
+      "elements": [
+        {
+          "element_id": 1080701,
+          "element_type": 10807,
+          "unlock_condition": "EpisodeFinish=807",
+          "title_key": "language_10054162",
+          "title": "自救与拯救",
+          "description_key": null,
+          "description": null,
+          "action_key": null,
+          "action": null
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 10808,
+      "element_ids": [
+        1080802
+      ],
+      "elements": [
+        {
+          "element_id": 1080802,
+          "element_type": 10808,
+          "unlock_condition": "EpisodeFinish=10808",
+          "title_key": "language_10054165",
+          "title": "往日的分径-天使娜娜",
+          "description_key": null,
+          "description": null,
+          "action_key": null,
+          "action": null
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 10809,
+      "element_ids": [
+        1080902
+      ],
+      "elements": [
+        {
+          "element_id": 1080902,
+          "element_type": 10809,
+          "unlock_condition": "EpisodeFinish=809",
+          "title_key": "language_10054169",
+          "title": "往日的分径-德洛斯医生",
+          "description_key": null,
+          "description": null,
+          "action_key": null,
+          "action": null
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 10811,
+      "element_ids": [
+        1081101
+      ],
+      "elements": [
+        {
+          "element_id": 1081101,
+          "element_type": 10811,
+          "unlock_condition": "EpisodeFinish=811",
+          "title_key": "language_10054170",
+          "title": "往日的分径-邓肯先生",
+          "description_key": null,
+          "description": null,
+          "action_key": null,
+          "action": null
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 10812,
+      "element_ids": [
+        1081202
+      ],
+      "elements": [
+        {
+          "element_id": 1081202,
+          "element_type": 10812,
+          "unlock_condition": "EpisodeFinish=10812",
+          "title_key": "language_10054165",
+          "title": "往日的分径-天使娜娜",
+          "description_key": null,
+          "description": null,
+          "action_key": null,
+          "action": null
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 10814,
+      "element_ids": [
+        1081401
+      ],
+      "elements": [
+        {
+          "element_id": 1081401,
+          "element_type": 10814,
+          "unlock_condition": "EpisodeFinish=10814",
+          "title_key": "language_10054177",
+          "title": "牌桌礼仪",
+          "description_key": null,
+          "description": null,
+          "action_key": null,
+          "action": null
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 10815,
+      "element_ids": [
+        1081501
+      ],
+      "elements": [
+        {
+          "element_id": 1081501,
+          "element_type": 10815,
+          "unlock_condition": "EpisodeFinish=815",
+          "title_key": "language_10054178",
+          "title": "三声敲响",
+          "description_key": null,
+          "description": null,
+          "action_key": null,
+          "action": null
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 10817,
+      "element_ids": [
+        1081701
+      ],
+      "elements": [
+        {
+          "element_id": 1081701,
+          "element_type": 10817,
+          "unlock_condition": "EpisodeFinish=817",
+          "title_key": "language_10054165",
+          "title": "往日的分径-天使娜娜",
+          "description_key": null,
+          "description": null,
+          "action_key": null,
+          "action": null
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 10818,
+      "element_ids": [
+        1081801
+      ],
+      "elements": [
+        {
+          "element_id": 1081801,
+          "element_type": 10818,
+          "unlock_condition": "EpisodeFinish=818",
+          "title_key": "language_10054165",
+          "title": "往日的分径-天使娜娜",
+          "description_key": null,
+          "description": null,
+          "action_key": null,
+          "action": null
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 10819,
+      "element_ids": [
+        1081902
+      ],
+      "elements": [
+        {
+          "element_id": 1081902,
+          "element_type": 10819,
+          "unlock_condition": "EpisodeFinish=819",
+          "title_key": "language_10054170",
+          "title": "往日的分径-邓肯先生",
+          "description_key": null,
+          "description": null,
+          "action_key": null,
+          "action": null
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 10820,
+      "element_ids": [
+        1082001
+      ],
+      "elements": [
+        {
+          "element_id": 1082001,
+          "element_type": 10820,
+          "unlock_condition": "EpisodeFinish=820",
+          "title_key": "language_10054185",
+          "title": "往日的分径-洛佩拉",
+          "description_key": null,
+          "description": null,
+          "action_key": null,
+          "action": null
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 10822,
+      "element_ids": [
+        1082202,
+        1082201
+      ],
+      "elements": [
+        {
+          "element_id": 1082202,
+          "element_type": 10822,
+          "unlock_condition": "EpisodeFinish=10822",
+          "title_key": "language_10054169",
+          "title": "往日的分径-德洛斯医生",
+          "description_key": null,
+          "description": null,
+          "action_key": null,
+          "action": null
+        },
+        {
+          "element_id": 1082201,
+          "element_type": 10822,
+          "unlock_condition": "EpisodeFinish=10822",
+          "title_key": "language_10054189",
+          "title": "远见与筹划",
+          "description_key": null,
+          "description": null,
+          "action_key": null,
+          "action": null
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 10901,
+      "element_ids": [
+        1090101
+      ],
+      "elements": [
+        {
+          "element_id": 1090101,
+          "element_type": 10901,
+          "unlock_condition": "EpisodeFinish=901",
+          "title_key": "language_10070331",
+          "title": "回环的幽灵",
+          "description_key": null,
+          "description": null,
+          "action_key": null,
+          "action": null
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 10904,
+      "element_ids": [
+        1090401
+      ],
+      "elements": [
+        {
+          "element_id": 1090401,
+          "element_type": 10904,
+          "unlock_condition": "EpisodeFinish=10904",
+          "title_key": "language_10070342",
+          "title": "暗色带编织·卷一",
+          "description_key": "language_10070343",
+          "description": "黑暗无形，流动的视线无孔不入。",
+          "action_key": "language_10070344",
+          "action": "步入暗中"
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 10905,
+      "element_ids": [
+        1090501,
+        1090502
+      ],
+      "elements": [
+        {
+          "element_id": 1090501,
+          "element_type": 10905,
+          "unlock_condition": "EpisodeFinish=905",
+          "title_key": "language_10070348",
+          "title": "南方也存在",
+          "description_key": null,
+          "description": null,
+          "action_key": null,
+          "action": null
+        },
+        {
+          "element_id": 1090502,
+          "element_type": 10905,
+          "unlock_condition": "EpisodeFinish=905",
+          "title_key": "language_10070349",
+          "title": "暗色带编织·卷二",
+          "description_key": "language_10070350",
+          "description": "墙壁高耸，囚徒在深渊里描述天空。",
+          "action_key": "language_10070344",
+          "action": "步入暗中"
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 10906,
+      "element_ids": [
+        1090601
+      ],
+      "elements": [
+        {
+          "element_id": 1090601,
+          "element_type": 10906,
+          "unlock_condition": "EpisodeFinish=906",
+          "title_key": "language_10070351",
+          "title": "暗色带编织·卷三",
+          "description_key": "language_10070352",
+          "description": "铁锈弥漫，流亡的鸟找到了栖息的枝头。",
+          "action_key": "language_10070344",
+          "action": "步入暗中"
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 10907,
+      "element_ids": [
+        1090701
+      ],
+      "elements": [
+        {
+          "element_id": 1090701,
+          "element_type": 10907,
+          "unlock_condition": "EpisodeFinish=907",
+          "title_key": "language_10070356",
+          "title": "暗色带编织·卷四",
+          "description_key": "language_10070357",
+          "description": "宿命如镜，强有力的意象于岁月中显露轮廓。",
+          "action_key": "language_10070344",
+          "action": "步入暗中"
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 10910,
+      "element_ids": [
+        1091001
+      ],
+      "elements": [
+        {
+          "element_id": 1091001,
+          "element_type": 10910,
+          "unlock_condition": "EpisodeFinish=10910",
+          "title_key": "language_10070365",
+          "title": "命运豪赌",
+          "description_key": null,
+          "description": null,
+          "action_key": null,
+          "action": null
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 10911,
+      "element_ids": [
+        1091101
+      ],
+      "elements": [
+        {
+          "element_id": 1091101,
+          "element_type": 10911,
+          "unlock_condition": "EpisodeFinish=911",
+          "title_key": "language_10070369",
+          "title": "暗色带编织·卷五",
+          "description_key": "language_10070370",
+          "description": "边界破碎，一位占星者领悟了难以言说的真相。",
+          "action_key": "language_10070344",
+          "action": "步入暗中"
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 10917,
+      "element_ids": [
+        1091701
+      ],
+      "elements": [
+        {
+          "element_id": 1091701,
+          "element_type": 10917,
+          "unlock_condition": "EpisodeFinish=10917",
+          "title_key": "language_10070387",
+          "title": "文学兵役",
+          "description_key": null,
+          "description": null,
+          "action_key": null,
+          "action": null
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 10918,
+      "element_ids": [
+        1091801
+      ],
+      "elements": [
+        {
+          "element_id": 1091801,
+          "element_type": 10918,
+          "unlock_condition": "EpisodeFinish=918",
+          "title_key": "language_10070388",
+          "title": "愚人船",
+          "description_key": null,
+          "description": null,
+          "action_key": null,
+          "action": null
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 11001,
+      "element_ids": [
+        101001
+      ],
+      "elements": [
+        {
+          "element_id": 101001,
+          "element_type": 11001,
+          "unlock_condition": "EpisodeFinish=11001",
+          "title_key": "language_10080720",
+          "title": "南极登陆战",
+          "description_key": null,
+          "description": null,
+          "action_key": null,
+          "action": null
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 11009,
+      "element_ids": [
+        101009
+      ],
+      "elements": [
+        {
+          "element_id": 101009,
+          "element_type": 11009,
+          "unlock_condition": "EpisodeFinish=1009",
+          "title_key": "language_10080721",
+          "title": "忠诚的尺度",
+          "description_key": null,
+          "description": null,
+          "action_key": null,
+          "action": null
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 11011,
+      "element_ids": [
+        1010111
+      ],
+      "elements": [
+        {
+          "element_id": 1010111,
+          "element_type": 11011,
+          "unlock_condition": "EpisodeFinish=11011",
+          "title_key": "language_10080722",
+          "title": "《创世纪》隐喻",
+          "description_key": null,
+          "description": null,
+          "action_key": null,
+          "action": null
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 11012,
+      "element_ids": [
+        101012
+      ],
+      "elements": [
+        {
+          "element_id": 101012,
+          "element_type": 11012,
+          "unlock_condition": "EpisodeFinish=11012",
+          "title_key": "language_10080615",
+          "title": "户外实验",
+          "description_key": "language_10080745",
+          "description": "建议每一位科研工作者坚持运动，或者要求单位配备外骨骼。",
+          "action_key": "language_10080746",
+          "action": "前往实验场"
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 11018,
+      "element_ids": [
+        101018
+      ],
+      "elements": [
+        {
+          "element_id": 101018,
+          "element_type": 11018,
+          "unlock_condition": "EpisodeFinish=11018",
+          "title_key": "language_10080723",
+          "title": "宗教辩论",
+          "description_key": null,
+          "description": null,
+          "action_key": null,
+          "action": null
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 11023,
+      "element_ids": [
+        101023,
+        1010231
+      ],
+      "elements": [
+        {
+          "element_id": 101023,
+          "element_type": 11023,
+          "unlock_condition": "EpisodeFinish=11023",
+          "title_key": "language_10080612",
+          "title": "于洪流中",
+          "description_key": null,
+          "description": null,
+          "action_key": null,
+          "action": null
+        },
+        {
+          "element_id": 1010231,
+          "element_type": 11023,
+          "unlock_condition": "EpisodeFinish=11023 and ChapterMapElement=101023",
+          "title_key": "language_10080724",
+          "title": "腮呼吸",
+          "description_key": null,
+          "description": null,
+          "action_key": null,
+          "action": null
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 11024,
+      "element_ids": [
+        101024
+      ],
+      "elements": [
+        {
+          "element_id": 101024,
+          "element_type": 11024,
+          "unlock_condition": "EpisodeFinish=11024",
+          "title_key": "language_10080725",
+          "title": "再度呼吸",
+          "description_key": null,
+          "description": null,
+          "action_key": null,
+          "action": null
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 11203,
+      "element_ids": [
+        1120301
+      ],
+      "elements": [
+        {
+          "element_id": 1120301,
+          "element_type": 11203,
+          "unlock_condition": "EpisodeFinish=1203",
+          "title_key": "language_10105105",
+          "title": "铭印",
+          "description_key": null,
+          "description": null,
+          "action_key": null,
+          "action": null
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 11211,
+      "element_ids": [
+        1121101
+      ],
+      "elements": [
+        {
+          "element_id": 1121101,
+          "element_type": 11211,
+          "unlock_condition": "EpisodeFinish=1211",
+          "title_key": "language_10049229",
+          "title": "安眠",
+          "description_key": null,
+          "description": null,
+          "action_key": null,
+          "action": null
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 11224,
+      "element_ids": [
+        1122401
+      ],
+      "elements": [
+        {
+          "element_id": 1122401,
+          "element_type": 11224,
+          "unlock_condition": "EpisodeFinish=11224",
+          "title_key": "language_10105145",
+          "title": "非法入侵",
+          "description_key": null,
+          "description": null,
+          "action_key": null,
+          "action": null
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 11309,
+      "element_ids": [
+        1130901
+      ],
+      "elements": [
+        {
+          "element_id": 1130901,
+          "element_type": 11309,
+          "unlock_condition": "EpisodeFinish=11309",
+          "title_key": "language_10120879",
+          "title": "不变的变化",
+          "description_key": null,
+          "description": null,
+          "action_key": null,
+          "action": null
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 11310,
+      "element_ids": [
+        1133101
+      ],
+      "elements": [
+        {
+          "element_id": 1133101,
+          "element_type": 11310,
+          "unlock_condition": "EpisodeFinish=1310",
+          "title_key": null,
+          "title": null,
+          "description_key": null,
+          "description": null,
+          "action_key": null,
+          "action": null
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 11312,
+      "element_ids": [
+        1133102
+      ],
+      "elements": [
+        {
+          "element_id": 1133102,
+          "element_type": 11312,
+          "unlock_condition": "EpisodeFinish=11312",
+          "title_key": null,
+          "title": null,
+          "description_key": null,
+          "description": null,
+          "action_key": null,
+          "action": null
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 11313,
+      "element_ids": [
+        1133103
+      ],
+      "elements": [
+        {
+          "element_id": 1133103,
+          "element_type": 11313,
+          "unlock_condition": "EpisodeFinish=1313",
+          "title_key": null,
+          "title": null,
+          "description_key": null,
+          "description": null,
+          "action_key": null,
+          "action": null
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 11314,
+      "element_ids": [
+        1133104
+      ],
+      "elements": [
+        {
+          "element_id": 1133104,
+          "element_type": 11314,
+          "unlock_condition": "EpisodeFinish=1314",
+          "title_key": null,
+          "title": null,
+          "description_key": null,
+          "description": null,
+          "action_key": null,
+          "action": null
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 11316,
+      "element_ids": [
+        1131601
+      ],
+      "elements": [
+        {
+          "element_id": 1131601,
+          "element_type": 11316,
+          "unlock_condition": "EpisodeFinish=11316",
+          "title_key": "language_10120895",
+          "title": "行业竞争",
+          "description_key": null,
+          "description": null,
+          "action_key": null,
+          "action": null
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 11317,
+      "element_ids": [
+        1133105
+      ],
+      "elements": [
+        {
+          "element_id": 1133105,
+          "element_type": 11317,
+          "unlock_condition": "EpisodeFinish=11317",
+          "title_key": null,
+          "title": null,
+          "description_key": null,
+          "description": null,
+          "action_key": null,
+          "action": null
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 11318,
+      "element_ids": [
+        1133106
+      ],
+      "elements": [
+        {
+          "element_id": 1133106,
+          "element_type": 11318,
+          "unlock_condition": "EpisodeFinish=11318",
+          "title_key": null,
+          "title": null,
+          "description_key": null,
+          "description": null,
+          "action_key": null,
+          "action": null
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 11324,
+      "element_ids": [
+        1132401
+      ],
+      "elements": [
+        {
+          "element_id": 1132401,
+          "element_type": 11324,
+          "unlock_condition": "EpisodeFinish=11324",
+          "title_key": "language_10120905",
+          "title": "追悼会",
+          "description_key": null,
+          "description": null,
+          "action_key": null,
+          "action": null
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 31004,
+      "element_ids": [
+        3100401
+      ],
+      "elements": [
+        {
+          "element_id": 3100401,
+          "element_type": 31004,
+          "unlock_condition": "EpisodeFinish=31004",
+          "title_key": "language_10004809",
+          "title": "小径① 目所能及的雨",
+          "description_key": null,
+          "description": null,
+          "action_key": null,
+          "action": null
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 31006,
+      "element_ids": [
+        100622
+      ],
+      "elements": [
+        {
+          "element_id": 100622,
+          "element_type": 10601,
+          "unlock_condition": "EpisodeFinish=31006",
+          "title_key": "language_10034134",
+          "title": "小径① 剧场印象",
+          "description_key": null,
+          "description": null,
+          "action_key": null,
+          "action": null
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 1210102,
+      "element_ids": [
+        12101103
+      ],
+      "elements": [
+        {
+          "element_id": 12101103,
+          "element_type": 1210102,
+          "unlock_condition": "EpisodeFinish=1210102",
+          "title_key": "language_10004754",
+          "title": "陈旧的笔记",
+          "description_key": "language_10004755",
+          "description": "残破的纸张拼凑而出的笔记本，记录着绿湖中可怖的秘闻。",
+          "action_key": "language_10004756",
+          "action": "捡起"
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 1210104,
+      "element_ids": [
+        12101101,
+        12101011
+      ],
+      "elements": [
+        {
+          "element_id": 12101101,
+          "element_type": 1210104,
+          "unlock_condition": "EpisodeFinish=1210104",
+          "title_key": "language_10003840",
+          "title": "一处林地",
+          "description_key": "language_10004748",
+          "description": "枝叶更密，雨丝更疏。比起匆匆途经，许多生物选择在此驻足。",
+          "action_key": "language_10004749",
+          "action": "缓解堵塞"
+        },
+        {
+          "element_id": 12101011,
+          "element_type": 1210104,
+          "unlock_condition": "EpisodeFinish=1210104",
+          "title_key": "language_10004742",
+          "title": "修复木桥",
+          "description_key": null,
+          "description": null,
+          "action_key": null,
+          "action": null
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 1210106,
+      "element_ids": [
+        12101102
+      ],
+      "elements": [
+        {
+          "element_id": 12101102,
+          "element_type": 1210106,
+          "unlock_condition": "EpisodeFinish=1210106",
+          "title_key": "language_10003841",
+          "title": "交响乐团",
+          "description_key": "language_10004751",
+          "description": "雨声，碰撞声，轰隆巨响而后火焰哔剥。蠕动的乐手邀请你加入演奏。",
+          "action_key": "language_10004752",
+          "action": "拒绝它们"
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 1210112,
+      "element_ids": [
+        12101091
+      ],
+      "elements": [
+        {
+          "element_id": 12101091,
+          "element_type": 1210112,
+          "unlock_condition": "Act121Bonus=1",
+          "title_key": "language_10004747",
+          "title": "整理纸条，推理线索",
+          "description_key": null,
+          "description": null,
+          "action_key": null,
+          "action": null
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 1510106,
+      "element_ids": [
+        15104001
+      ],
+      "elements": [
+        {
+          "element_id": 15104001,
+          "element_type": 1510101,
+          "unlock_condition": "EpisodeFinish=1510106",
+          "title_key": "language_10004873",
+          "title": "研究的起点",
+          "description_key": "language_10004874",
+          "description": "导师对学生的教导。",
+          "action_key": "language_10004875",
+          "action": "进入对话"
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 1510107,
+      "element_ids": [
+        15103001
+      ],
+      "elements": [
+        {
+          "element_id": 15103001,
+          "element_type": 1510101,
+          "unlock_condition": "EpisodeFinish=1510107",
+          "title_key": "language_10004858",
+          "title": "项目清单",
+          "description_key": "language_10004859",
+          "description": "乌卢鲁运动会的体育项目清单。",
+          "action_key": "language_10004462",
+          "action": "阅读"
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 1510108,
+      "element_ids": [
+        15104002
+      ],
+      "elements": [
+        {
+          "element_id": 15104002,
+          "element_type": 1510101,
+          "unlock_condition": "ChapterMapElement=15104001 and EpisodeFinish=1510108",
+          "title_key": "language_10004877",
+          "title": "随带喷雾类用品清单",
+          "description_key": "language_10004878",
+          "description": "一张喷剂类用品的清单。",
+          "action_key": "language_10004462",
+          "action": "阅读"
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 1510109,
+      "element_ids": [
+        15104003,
+        15103002
+      ],
+      "elements": [
+        {
+          "element_id": 15104003,
+          "element_type": 1510101,
+          "unlock_condition": "ChapterMapElement=15104002 and EpisodeFinish=1510109",
+          "title_key": "language_10004170",
+          "title": "谣言的源头",
+          "description_key": "language_10004880",
+          "description": "一项复杂而庞大的文书填报工作。",
+          "action_key": "language_10004881",
+          "action": "开始填写"
+        },
+        {
+          "element_id": 15103002,
+          "element_type": 1510101,
+          "unlock_condition": "ChapterMapElement=15103001 and EpisodeFinish=1510109",
+          "title_key": "language_10004861",
+          "title": "《叮咚快报》周末特刊",
+          "description_key": "language_10004862",
+          "description": "来自本地报刊的恶意造谣。",
+          "action_key": "language_10004462",
+          "action": "阅读"
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 1510110,
+      "element_ids": [
+        15104004,
+        15103003
+      ],
+      "elements": [
+        {
+          "element_id": 15104004,
+          "element_type": 1510101,
+          "unlock_condition": "ChapterMapElement=15104003 and EpisodeFinish=1510110",
+          "title_key": "language_10004883",
+          "title": "研究笔记",
+          "description_key": "language_10004884",
+          "description": "一页关于白乳菇的研究笔记。",
+          "action_key": "language_10004462",
+          "action": "阅读"
+        },
+        {
+          "element_id": 15103003,
+          "element_type": 1510101,
+          "unlock_condition": "ChapterMapElement=15103002 and EpisodeFinish=1510110",
+          "title_key": "language_10004864",
+          "title": "《澳大利亚生物行为学报》",
+          "description_key": "language_10004865",
+          "description": "生物学期刊的研究报告。",
+          "action_key": "language_10004462",
+          "action": "阅读"
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 1510111,
+      "element_ids": [
+        15104005,
+        15103004
+      ],
+      "elements": [
+        {
+          "element_id": 15104005,
+          "element_type": 1510101,
+          "unlock_condition": "ChapterMapElement=15104004 and EpisodeFinish=1510111",
+          "title_key": "language_10004886",
+          "title": "沾满灰尘的门票",
+          "description_key": "language_10004887",
+          "description": "一张澳式橄榄球的门票。",
+          "action_key": "language_10004462",
+          "action": "阅读"
+        },
+        {
+          "element_id": 15103004,
+          "element_type": 1510101,
+          "unlock_condition": "ChapterMapElement=15103003 and EpisodeFinish=1510111",
+          "title_key": "language_10004867",
+          "title": "《热土运动编年史》节选",
+          "description_key": "language_10004868",
+          "description": "一张本地体育杂志的扉页。",
+          "action_key": "language_10004462",
+          "action": "阅读"
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 1510112,
+      "element_ids": [
+        15103005
+      ],
+      "elements": [
+        {
+          "element_id": 15103005,
+          "element_type": 1510101,
+          "unlock_condition": "ChapterMapElement=15103004 and EpisodeFinish=1510112",
+          "title_key": "language_10004870",
+          "title": "《乌卢鲁运动会珍藏影集》P-7",
+          "description_key": "language_10004871",
+          "description": "影集首页的一段留言。",
+          "action_key": "language_10004462",
+          "action": "阅读"
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 1810114,
+      "element_ids": [
+        1811401,
+        1811402
+      ],
+      "elements": [
+        {
+          "element_id": 1811401,
+          "element_type": 1810114,
+          "unlock_condition": "EpisodeFinish=1810114",
+          "title_key": "language_10037024",
+          "title": "装卸区域",
+          "description_key": "language_10037025",
+          "description": "故事由一支回荡在劳作区域半空中的歌儿开头。是的，这是新的一天。",
+          "action_key": "language_10037026",
+          "action": "搭把手"
+        },
+        {
+          "element_id": 1811402,
+          "element_type": 1810114,
+          "unlock_condition": "ChapterMapElement=1811401",
+          "title_key": "language_10028337",
+          "title": "加快脚步",
+          "description_key": "language_10028337",
+          "description": "加快脚步",
+          "action_key": null,
+          "action": null
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 1810115,
+      "element_ids": [
+        1811501,
+        1811502,
+        1811503
+      ],
+      "elements": [
+        {
+          "element_id": 1811501,
+          "element_type": 1810115,
+          "unlock_condition": "EpisodeFinish=1810115",
+          "title_key": "language_10037029",
+          "title": "分歧点",
+          "description_key": "language_10037029",
+          "description": "分歧点",
+          "action_key": null,
+          "action": null
+        },
+        {
+          "element_id": 1811502,
+          "element_type": 1810115,
+          "unlock_condition": "ChapterMapElement=1811501",
+          "title_key": "language_10036919",
+          "title": "团结的手",
+          "description_key": "language_10037030",
+          "description": "大伙儿已经有了应对这些邻居的经验，但多一个人总要多一份力量。",
+          "action_key": "language_10004595",
+          "action": "驱赶它们"
+        },
+        {
+          "element_id": 1811503,
+          "element_type": 1810115,
+          "unlock_condition": "ChapterMapElement=1811501",
+          "title_key": "language_10037032",
+          "title": "昨日的滋味",
+          "description_key": "language_10037032",
+          "description": "昨日的滋味",
+          "action_key": null,
+          "action": null
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 1810116,
+      "element_ids": [
+        1811601,
+        1811602,
+        1811603,
+        1811604,
+        1811605
+      ],
+      "elements": [
+        {
+          "element_id": 1811601,
+          "element_type": 1810116,
+          "unlock_condition": "EpisodeFinish=1810116",
+          "title_key": "language_10037033",
+          "title": "被留下的",
+          "description_key": "language_10037033",
+          "description": "被留下的",
+          "action_key": null,
+          "action": null
+        },
+        {
+          "element_id": 1811602,
+          "element_type": 1810116,
+          "unlock_condition": "ChapterMapElement=1811601",
+          "title_key": "language_10037034",
+          "title": "综合课堂",
+          "description_key": "language_10037035",
+          "description": "这是镇上领受过最多注目的建筑，白纸在此处被涂抹上亮色。",
+          "action_key": "language_10037026",
+          "action": "搭把手"
+        },
+        {
+          "element_id": 1811603,
+          "element_type": 1810116,
+          "unlock_condition": "ChapterMapElement=1811601",
+          "title_key": "language_10036920",
+          "title": "采掘者们",
+          "description_key": "language_10037036",
+          "description": "为了保证开采工作顺利进行，这场小小的冲突不可避免。",
+          "action_key": "language_10004595",
+          "action": "驱赶它们"
+        },
+        {
+          "element_id": 1811604,
+          "element_type": 1810116,
+          "unlock_condition": "ChapterMapElement=1811601",
+          "title_key": "language_10037038",
+          "title": "针脚与面包",
+          "description_key": "language_10037038",
+          "description": "针脚与面包",
+          "action_key": null,
+          "action": null
+        },
+        {
+          "element_id": 1811605,
+          "element_type": 1810116,
+          "unlock_condition": "ChapterMapElement=1811602",
+          "title_key": "language_10037039",
+          "title": "广场聚会",
+          "description_key": "language_10037040",
+          "description": "将一肚子的话儿都倒在这里，别担心它们结冰。",
+          "action_key": "language_10004692",
+          "action": "停下脚步"
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 1810117,
+      "element_ids": [
+        1811701,
+        1811702
+      ],
+      "elements": [
+        {
+          "element_id": 1811701,
+          "element_type": 1810117,
+          "unlock_condition": "EpisodeFinish=1810117 and ChapterMapElement=1811605",
+          "title_key": "language_10037041",
+          "title": "一如既往",
+          "description_key": "language_10037041",
+          "description": "一如既往",
+          "action_key": null,
+          "action": null
+        },
+        {
+          "element_id": 1811702,
+          "element_type": 1810117,
+          "unlock_condition": "ChapterMapElement=1811701",
+          "title_key": "language_10036921",
+          "title": "无管辖地带",
+          "description_key": "language_10037042",
+          "description": "人们离开之后，这里有了新的住户。它们并不热衷于交际。",
+          "action_key": "language_10037043",
+          "action": "“友好”交流"
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 2010102,
+      "element_ids": [
+        2010102
+      ],
+      "elements": [
+        {
+          "element_id": 2010102,
+          "element_type": 2010102,
+          "unlock_condition": "EpisodeFinish=2010102",
+          "title_key": "language_10045924",
+          "title": "被退回的信件",
+          "description_key": "language_10045925",
+          "description": "几封轻飘飘的信，被抖落了灰尘。其中的关切虽然溢于言表，但亦能看见克制的痕迹。",
+          "action_key": "language_10045926",
+          "action": "拾起瞧瞧"
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 2010121,
+      "element_ids": [
+        2010121
+      ],
+      "elements": [
+        {
+          "element_id": 2010121,
+          "element_type": 2010121,
+          "unlock_condition": "EpisodeFinish=2010121",
+          "title_key": "language_10045930",
+          "title": "“新纪元集市事件”述职报告",
+          "description_key": "language_10045931",
+          "description": "越危险，越褒扬——赞颂你的敌人，亦是赞颂自己。",
+          "action_key": "language_10045932",
+          "action": "瞥一眼"
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 2410105,
+      "element_ids": [
+        2410106
+      ],
+      "elements": [
+        {
+          "element_id": 2410106,
+          "element_type": 2410105,
+          "unlock_condition": "EpisodeFinish=2410105 and ChapterMapElement=2410105",
+          "title_key": "language_10062487",
+          "title": "身份危机",
+          "description_key": "language_10062488",
+          "description": "星锑在模仿摇滚海盗的比赛中荣获第一名。",
+          "action_key": "language_10062489",
+          "action": "怎么回事？！"
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 2410109,
+      "element_ids": [
+        2410109
+      ],
+      "elements": [
+        {
+          "element_id": 2410109,
+          "element_type": 2410109,
+          "unlock_condition": "EpisodeFinish=2410109",
+          "title_key": "language_10062490",
+          "title": "学术交流",
+          "description_key": "language_10062491",
+          "description": "交流归交流，竞争归竞争，不然还怎么进步？",
+          "action_key": "language_10062492",
+          "action": "友好讨论"
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 3210101,
+      "element_ids": [
+        3210401
+      ],
+      "elements": [
+        {
+          "element_id": 3210401,
+          "element_type": 3210101,
+          "unlock_condition": "EpisodeFinish=3210101",
+          "title_key": "language_10097991",
+          "title": "来说个故事吧",
+          "description_key": null,
+          "description": null,
+          "action_key": null,
+          "action": null
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 3210103,
+      "element_ids": [
+        3210402
+      ],
+      "elements": [
+        {
+          "element_id": 3210402,
+          "element_type": 3210103,
+          "unlock_condition": "EpisodeFinish=3210103",
+          "title_key": "language_10097992",
+          "title": "说到生意",
+          "description_key": null,
+          "description": null,
+          "action_key": null,
+          "action": null
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 3210105,
+      "element_ids": [
+        3210403
+      ],
+      "elements": [
+        {
+          "element_id": 3210403,
+          "element_type": 3210105,
+          "unlock_condition": "EpisodeFinish=3210105",
+          "title_key": "language_10097993",
+          "title": "预言之于人",
+          "description_key": null,
+          "description": null,
+          "action_key": null,
+          "action": null
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 3210109,
+      "element_ids": [
+        3210404
+      ],
+      "elements": [
+        {
+          "element_id": 3210404,
+          "element_type": 3210109,
+          "unlock_condition": "EpisodeFinish=3210109",
+          "title_key": "language_10097994",
+          "title": "说到这个名字……",
+          "description_key": null,
+          "description": null,
+          "action_key": null,
+          "action": null
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 3210115,
+      "element_ids": [
+        3210405
+      ],
+      "elements": [
+        {
+          "element_id": 3210405,
+          "element_type": 3210115,
+          "unlock_condition": "EpisodeFinish=3210115",
+          "title_key": "language_10097995",
+          "title": "现在伏笔都揭开了",
+          "description_key": null,
+          "description": null,
+          "action_key": null,
+          "action": null
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 3210117,
+      "element_ids": [
+        3210406
+      ],
+      "elements": [
+        {
+          "element_id": 3210406,
+          "element_type": 3210117,
+          "unlock_condition": "EpisodeFinish=3210117",
+          "title_key": "language_10097996",
+          "title": "多么可恨的命运",
+          "description_key": null,
+          "description": null,
+          "action_key": null,
+          "action": null
+        }
+      ]
+    },
+    {
+      "trigger_episode_id": 3210119,
+      "element_ids": [
+        3210407
+      ],
+      "elements": [
+        {
+          "element_id": 3210407,
+          "element_type": 3210119,
+          "unlock_condition": "EpisodeFinish=3210119",
+          "title_key": "language_10097997",
+          "title": "虽然并非皆大欢喜",
+          "description_key": null,
+          "description": null,
+          "action_key": null,
+          "action": null
+        }
+      ]
+    }
+  ],
+  "elements": [
+    {
+      "element_id": 100609,
+      "element_type": 10609,
+      "unlock_condition": "EpisodeFinish=10609",
+      "title_key": "language_10034099",
+      "title": "小径① 破镜中的残影",
+      "description_key": "language_10034100",
+      "description": "一丝残存的神秘气息，一帘难以忘却的甜蜜梦境。",
+      "action_key": "language_10034101",
+      "action": "注视着它"
+    },
+    {
+      "element_id": 100613,
+      "element_type": 10613,
+      "unlock_condition": "EpisodeFinish=10613",
+      "title_key": "language_10034110",
+      "title": "小径① 维也纳咖啡",
+      "description_key": null,
+      "description": null,
+      "action_key": null,
+      "action": null
+    },
+    {
+      "element_id": 100614,
+      "element_type": 10615,
+      "unlock_condition": "EpisodeFinish=615",
+      "title_key": "language_10034111",
+      "title": "小径① 枪响前夜",
+      "description_key": null,
+      "description": null,
+      "action_key": null,
+      "action": null
+    },
+    {
+      "element_id": 100615,
+      "element_type": 10616,
+      "unlock_condition": "EpisodeFinish=10616",
+      "title_key": "language_10034112",
+      "title": "小径① 游离在外的小坏蛋",
+      "description_key": "language_10034113",
+      "description": "他们横行霸道，耀武扬威，很显然他们没有想过，站在他们面前的会是一个真家伙。",
+      "action_key": "language_10034114",
+      "action": "击败他们"
+    },
+    {
+      "element_id": 100616,
+      "element_type": 10618,
+      "unlock_condition": "EpisodeFinish=10618",
+      "title_key": "language_10034116",
+      "title": "小径① 雨天的老朋友",
+      "description_key": "language_10034117",
+      "description": "扶起伯爵的鼻子，捏出贵妇的耳朵。“大可丢掉雨衣和雨靴！”戴面具的朋友在门廊处热情地招呼你：“快来淋淋这场酣畅淋漓的雨吧！”",
+      "action_key": "language_10034118",
+      "action": "容我拒绝"
+    },
+    {
+      "element_id": 100622,
+      "element_type": 10601,
+      "unlock_condition": "EpisodeFinish=31006",
+      "title_key": "language_10034134",
+      "title": "小径① 剧场印象",
+      "description_key": null,
+      "description": null,
+      "action_key": null,
+      "action": null
+    },
+    {
+      "element_id": 100701,
+      "element_type": 10712,
+      "unlock_condition": "EpisodeFinish=712",
+      "title_key": "language_10017383",
+      "title": "幻境",
+      "description_key": null,
+      "description": null,
+      "action_key": null,
+      "action": null
+    },
+    {
+      "element_id": 100702,
+      "element_type": 10721,
+      "unlock_condition": "EpisodeFinish=10721",
+      "title_key": "language_10039891",
+      "title": "步入终局",
+      "description_key": null,
+      "description": null,
+      "action_key": null,
+      "action": null
+    },
+    {
+      "element_id": 101001,
+      "element_type": 11001,
+      "unlock_condition": "EpisodeFinish=11001",
+      "title_key": "language_10080720",
+      "title": "南极登陆战",
+      "description_key": null,
+      "description": null,
+      "action_key": null,
+      "action": null
+    },
+    {
+      "element_id": 101009,
+      "element_type": 11009,
+      "unlock_condition": "EpisodeFinish=1009",
+      "title_key": "language_10080721",
+      "title": "忠诚的尺度",
+      "description_key": null,
+      "description": null,
+      "action_key": null,
+      "action": null
+    },
+    {
+      "element_id": 101012,
+      "element_type": 11012,
+      "unlock_condition": "EpisodeFinish=11012",
+      "title_key": "language_10080615",
+      "title": "户外实验",
+      "description_key": "language_10080745",
+      "description": "建议每一位科研工作者坚持运动，或者要求单位配备外骨骼。",
+      "action_key": "language_10080746",
+      "action": "前往实验场"
+    },
+    {
+      "element_id": 101018,
+      "element_type": 11018,
+      "unlock_condition": "EpisodeFinish=11018",
+      "title_key": "language_10080723",
+      "title": "宗教辩论",
+      "description_key": null,
+      "description": null,
+      "action_key": null,
+      "action": null
+    },
+    {
+      "element_id": 101023,
+      "element_type": 11023,
+      "unlock_condition": "EpisodeFinish=11023",
+      "title_key": "language_10080612",
+      "title": "于洪流中",
+      "description_key": null,
+      "description": null,
+      "action_key": null,
+      "action": null
+    },
+    {
+      "element_id": 101024,
+      "element_type": 11024,
+      "unlock_condition": "EpisodeFinish=11024",
+      "title_key": "language_10080725",
+      "title": "再度呼吸",
+      "description_key": null,
+      "description": null,
+      "action_key": null,
+      "action": null
+    },
+    {
+      "element_id": 1010111,
+      "element_type": 11011,
+      "unlock_condition": "EpisodeFinish=11011",
+      "title_key": "language_10080722",
+      "title": "《创世纪》隐喻",
+      "description_key": null,
+      "description": null,
+      "action_key": null,
+      "action": null
+    },
+    {
+      "element_id": 1010231,
+      "element_type": 11023,
+      "unlock_condition": "EpisodeFinish=11023 and ChapterMapElement=101023",
+      "title_key": "language_10080724",
+      "title": "腮呼吸",
+      "description_key": null,
+      "description": null,
+      "action_key": null,
+      "action": null
+    },
+    {
+      "element_id": 1010602,
+      "element_type": 10106,
+      "unlock_condition": "EpisodeFinish=10105",
+      "title_key": "language_10004460",
+      "title": "小径② 新闻一则",
+      "description_key": "language_10004461",
+      "description": "一张皱巴巴的公告传单，标示着刚出炉的“新闻”。",
+      "action_key": "language_10004462",
+      "action": "阅读"
+    },
+    {
+      "element_id": 1010603,
+      "element_type": 10106,
+      "unlock_condition": "ChapterMapElement=1010602",
+      "title_key": "language_10004463",
+      "title": "小径③ 无名来客Ⅰ",
+      "description_key": "language_10004464",
+      "description": "一句充满活力的问候，但你想你们并不熟悉。",
+      "action_key": "language_10004465",
+      "action": "与其交流"
+    },
+    {
+      "element_id": 1010801,
+      "element_type": 10108,
+      "unlock_condition": "EpisodeFinish=10107",
+      "title_key": "language_10004473",
+      "title": "小径① 你好，十四行诗",
+      "description_key": "language_10004474",
+      "description": "在这里，十四行诗与苏芙比经历了一场惊心动魄的相逢。",
+      "action_key": "language_10004475",
+      "action": "见证这一刻"
+    },
+    {
+      "element_id": 1010901,
+      "element_type": 10109,
+      "unlock_condition": "EpisodeFinish=10108",
+      "title_key": "language_10004480",
+      "title": "小径① 到另一座城堡",
+      "description_key": null,
+      "description": null,
+      "action_key": null,
+      "action": null
+    },
+    {
+      "element_id": 1010902,
+      "element_type": 10109,
+      "unlock_condition": "EpisodeFinish=10108",
+      "title_key": "language_10004481",
+      "title": "小径② 魔精的床单",
+      "description_key": "language_10004482",
+      "description": "魔精不通人言，常用道具传达心意。你面前的这只朋友，正盖着被单嘶叫舞蹈，意为挑衅。",
+      "action_key": "language_10004483",
+      "action": "让它安静点"
+    },
+    {
+      "element_id": 1011101,
+      "element_type": 10111,
+      "unlock_condition": "EpisodeFinish=10110",
+      "title_key": "language_10004487",
+      "title": "小径① 迷宫里的奇怪东西",
+      "description_key": "language_10004488",
+      "description": "吐真剂，管制药剂之一，可用于对应狡猾与谎言。",
+      "action_key": "language_10004489",
+      "action": "捡拾"
+    },
+    {
+      "element_id": 1011102,
+      "element_type": 10111,
+      "unlock_condition": "EpisodeFinish=10110",
+      "title_key": "language_10004491",
+      "title": "小径② 酒吧杂谈",
+      "description_key": "language_10004492",
+      "description": "一名重塑之手的成员徘徊在瓦尔登湖门口。他有一封信，你可以通过一些手段获得它。",
+      "action_key": "language_10004493",
+      "action": "拿来瞧瞧"
+    },
+    {
+      "element_id": 1011201,
+      "element_type": 10112,
+      "unlock_condition": "EpisodeFinish=10111",
+      "title_key": "language_10004495",
+      "title": "小径① 仪式蕴蓄",
+      "description_key": "language_10004496",
+      "description": "一段记载，有关于如何迅速获得激情。\n快速振作士气有助于尽快召唤至终的仪式，使战局更有利。",
+      "action_key": "language_10004458",
+      "action": "前往查看"
+    },
+    {
+      "element_id": 1011202,
+      "element_type": 10112,
+      "unlock_condition": "EpisodeFinish=10111",
+      "title_key": "language_10004498",
+      "title": "小径② 无名来客Ⅱ",
+      "description_key": "language_10004499",
+      "description": "一个年幼的孩子。\n暴雨阻碍了调查任务，外界的变动让独行变得危机重重。",
+      "action_key": "language_10004500",
+      "action": "与其同行"
+    },
+    {
+      "element_id": 1011301,
+      "element_type": 10113,
+      "unlock_condition": "EpisodeFinish=10112",
+      "title_key": "language_10004504",
+      "title": "小径① 诗歌",
+      "description_key": "language_10004505",
+      "description": "一首无名诗。纸张褶皱且带有汗渍。",
+      "action_key": "language_10004462",
+      "action": "阅读"
+    },
+    {
+      "element_id": 1011401,
+      "element_type": 10114,
+      "unlock_condition": "EpisodeFinish=10113",
+      "title_key": "language_10004506",
+      "title": "小径① 律动·其一",
+      "description_key": "language_10004507",
+      "description": "一段记载，关于如何调整旋律的刻度。\n有些时候，你的决定足以扭转战局。",
+      "action_key": "language_10004458",
+      "action": "前往查看"
+    },
+    {
+      "element_id": 1020101,
+      "element_type": 10201,
+      "unlock_condition": "EpisodeFinish=10201",
+      "title_key": "language_10004516",
+      "title": "小径① 黑色星期四",
+      "description_key": "language_10004517",
+      "description": "送奶工曾路过此地，留下些许模糊片段。",
+      "action_key": "language_10004518",
+      "action": "观看"
+    },
+    {
+      "element_id": 1020201,
+      "element_type": 10202,
+      "unlock_condition": "EpisodeFinish=10202",
+      "title_key": "language_10004519",
+      "title": "小径① 重塑之手",
+      "description_key": "language_10004520",
+      "description": "有关于你的敌人，有关于重塑之手，大部分人都知道的公开信息。",
+      "action_key": "language_10004521",
+      "action": "查看"
+    },
+    {
+      "element_id": 1020501,
+      "element_type": 10205,
+      "unlock_condition": "EpisodeFinish=10205",
+      "title_key": "language_10004529",
+      "title": "小径① 人类吃金块的证据",
+      "description_key": "language_10004530",
+      "description": "在布满金块的地方，魔精的亲戚——另一只魔精靠近了你。它并无敌意，并希望得到你的帮助。",
+      "action_key": "language_10004531",
+      "action": "提供帮助"
+    },
+    {
+      "element_id": 1020601,
+      "element_type": 10206,
+      "unlock_condition": "EpisodeFinish=10206",
+      "title_key": "language_10004532",
+      "title": "小径① 残局",
+      "description_key": "language_10004533",
+      "description": "棘手的残局，酝酿自一场胶着已久的苦战。等待着正确的指引让他们得以解放。",
+      "action_key": "language_10004534",
+      "action": "清理残局"
+    },
+    {
+      "element_id": 1020602,
+      "element_type": 10206,
+      "unlock_condition": "EpisodeFinish=10206",
+      "title_key": "language_10004536",
+      "title": "小径② 澄清",
+      "description_key": "language_10004537",
+      "description": "等待着新消息的魔精。比先前更镇静。在布满金块的地方，他的表亲已阅读过他的传单。",
+      "action_key": null,
+      "action": null
+    },
+    {
+      "element_id": 1020701,
+      "element_type": 10207,
+      "unlock_condition": "EpisodeFinish=10207",
+      "title_key": "language_10004541",
+      "title": "小径① 致小卡文迪许",
+      "description_key": "language_10004542",
+      "description": "告别",
+      "action_key": null,
+      "action": null
+    },
+    {
+      "element_id": 1020801,
+      "element_type": 10208,
+      "unlock_condition": "EpisodeFinish=10208",
+      "title_key": "language_10004543",
+      "title": "小径① 漫漫长夜旅行",
+      "description_key": "language_10004544",
+      "description": "一场天主教的葬礼。",
+      "action_key": null,
+      "action": null
+    },
+    {
+      "element_id": 1020901,
+      "element_type": 10209,
+      "unlock_condition": "EpisodeFinish=10209",
+      "title_key": "language_10004545",
+      "title": "小径① 苏芙比的药剂",
+      "description_key": "language_10004546",
+      "description": "美味嚼嚼幻剂Ⅱ，苏芙比有你所需的一切材料。",
+      "action_key": "language_10004547",
+      "action": "尝试解读"
+    },
+    {
+      "element_id": 1021001,
+      "element_type": 10210,
+      "unlock_condition": "EpisodeFinish=10210",
+      "title_key": "language_10004549",
+      "title": "小径① 森林中的魔精",
+      "description_key": "language_10004550",
+      "description": "在前往焦木林途中，你遇到了它们。",
+      "action_key": "language_10004551",
+      "action": "清除威胁"
+    },
+    {
+      "element_id": 1021101,
+      "element_type": 10211,
+      "unlock_condition": "EpisodeFinish=10211",
+      "title_key": "language_10004553",
+      "title": "小径① 堵截车队·一",
+      "description_key": "language_10004554",
+      "description": "来自圣洛夫基金会的作战任务，拦截重塑之手的资源运输车队。",
+      "action_key": "language_10004555",
+      "action": "执行任务"
+    },
+    {
+      "element_id": 1021102,
+      "element_type": 10211,
+      "unlock_condition": "ChapterMapElement=1021101",
+      "title_key": "language_10004557",
+      "title": "小径② 堵截车队·二",
+      "description_key": "language_10004558",
+      "description": "一辆停在路边的运输车。驾驶者不知去向。藤蔓攀爬其上，向来人致以问候。",
+      "action_key": "language_10004559",
+      "action": "拨开藤蔓"
+    },
+    {
+      "element_id": 1021103,
+      "element_type": 10211,
+      "unlock_condition": "ChapterMapElement=1021102",
+      "title_key": "language_10004560",
+      "title": "小径③ 堵截车队·三",
+      "description_key": "language_10004554",
+      "description": "来自圣洛夫基金会的作战任务，拦截重塑之手的资源运输车队。",
+      "action_key": "language_10004555",
+      "action": "执行任务"
+    },
+    {
+      "element_id": 1021104,
+      "element_type": 10211,
+      "unlock_condition": "ChapterMapElement=1021103",
+      "title_key": "language_10004562",
+      "title": "小径④ 斗犬之隔",
+      "description_key": null,
+      "description": null,
+      "action_key": null,
+      "action": null
+    },
+    {
+      "element_id": 1021201,
+      "element_type": 10212,
+      "unlock_condition": "EpisodeFinish=10212",
+      "title_key": "language_10004563",
+      "title": "小径① 八卦杂志",
+      "description_key": "language_10004564",
+      "description": "一份随处可见的八卦杂志。记载着这座城市里人们关心的一切。其中包括瓦尔登湖酒吧与勿忘我先生。",
+      "action_key": "language_10004462",
+      "action": "阅读"
+    },
+    {
+      "element_id": 1021202,
+      "element_type": 10212,
+      "unlock_condition": "EpisodeFinish=10212",
+      "title_key": "language_10004565",
+      "title": "小径② 转角相逢Ⅰ",
+      "description_key": "language_10004566",
+      "description": "不期而遇的重塑人员，仍需要你的谨慎面对。",
+      "action_key": "language_10004567",
+      "action": "准备应对"
+    },
+    {
+      "element_id": 1021301,
+      "element_type": 10213,
+      "unlock_condition": "EpisodeFinish=10213",
+      "title_key": "language_10004569",
+      "title": "小径① 隐秘的经济运作",
+      "description_key": "language_10004570",
+      "description": "一些老故事，更多旧传闻。随处打听，都能得知。",
+      "action_key": "language_10004571",
+      "action": "捡拾报纸"
+    },
+    {
+      "element_id": 1021302,
+      "element_type": 10213,
+      "unlock_condition": "EpisodeFinish=10213",
+      "title_key": "language_10004572",
+      "title": "小径② 转角相逢Ⅱ",
+      "description_key": "language_10004566",
+      "description": "不期而遇的重塑人员，仍需要你的谨慎面对。",
+      "action_key": "language_10004567",
+      "action": "准备应对"
+    },
+    {
+      "element_id": 1030101,
+      "element_type": 10301,
+      "unlock_condition": "EpisodeFinish=10301",
+      "title_key": "language_10004573",
+      "title": "小径① 开放式三明治",
+      "description_key": "language_10004574",
+      "description": "一张摸起来有些滑腻的纸，似乎曾包裹过某种油脂丰富的食物。",
+      "action_key": "language_10004575",
+      "action": "捡起来"
+    },
+    {
+      "element_id": 1030102,
+      "element_type": 10301,
+      "unlock_condition": "EpisodeFinish=10301",
+      "title_key": "language_10004576",
+      "title": "小径② 一个梦Ⅰ",
+      "description_key": "language_10004577",
+      "description": "黑色的、尖锐的、跳跃的移动着。",
+      "action_key": "language_10004578",
+      "action": "触碰它"
+    },
+    {
+      "element_id": 1030201,
+      "element_type": 10302,
+      "unlock_condition": "EpisodeFinish=10302",
+      "title_key": "language_10004580",
+      "title": "小径① “时间表”",
+      "description_key": "language_10004581",
+      "description": "一片剪影，有关拉普拉斯康复中心的一天。",
+      "action_key": "language_10004582",
+      "action": "尝试理解"
+    },
+    {
+      "element_id": 1030202,
+      "element_type": 10302,
+      "unlock_condition": "EpisodeFinish=10302",
+      "title_key": "language_10004583",
+      "title": "小径② 又一个梦Ⅱ",
+      "description_key": "language_10004584",
+      "description": "一抹鲜亮的绿。圆润的独眼眨动着。它带来的声响无处不在。",
+      "action_key": "language_10004514",
+      "action": "带走它"
+    },
+    {
+      "element_id": 1030501,
+      "element_type": 10305,
+      "unlock_condition": "EpisodeFinish=10305",
+      "title_key": "language_10004586",
+      "title": "小径① 为沉眠者",
+      "description_key": "language_10004587",
+      "description": "不知身在何处，漫无目的地游荡。他看见过一切，至今尚在梦中。",
+      "action_key": "language_10004588",
+      "action": "唤醒他"
+    },
+    {
+      "element_id": 1030601,
+      "element_type": 10306,
+      "unlock_condition": "EpisodeFinish=10306",
+      "title_key": "language_10004593",
+      "title": "小径① 与筑城者",
+      "description_key": "language_10004594",
+      "description": "铅灰、羊毛与谷物，总有一个会对它们起点作用。",
+      "action_key": "language_10004595",
+      "action": "驱赶它们"
+    },
+    {
+      "element_id": 1030701,
+      "element_type": 10307,
+      "unlock_condition": "EpisodeFinish=10307",
+      "title_key": "language_10004597",
+      "title": "小径① 浑圆强盗",
+      "description_key": "language_10004598",
+      "description": "食物的诱惑总是难以抵挡，它们也知晓炸鱼与薯条的美味。",
+      "action_key": "language_10004599",
+      "action": "保卫油脂"
+    },
+    {
+      "element_id": 1030801,
+      "element_type": 10308,
+      "unlock_condition": "EpisodeFinish=10308",
+      "title_key": "language_10004605",
+      "title": "小径① 神秘学军事图鉴",
+      "description_key": "language_10004606",
+      "description": "悄然潜入的多足窃贼，但未能逃过猎隼的眼睛。",
+      "action_key": "language_10004607",
+      "action": "阻止它们"
+    },
+    {
+      "element_id": 1030901,
+      "element_type": 10309,
+      "unlock_condition": "EpisodeFinish=10309",
+      "title_key": "language_10004609",
+      "title": "小径① 良药苦口",
+      "description_key": "language_10004610",
+      "description": "教师桌的抽屉里留有一册笔记，灰白的朋友们也对它充满兴趣。",
+      "action_key": "language_10004611",
+      "action": "那是我的"
+    },
+    {
+      "element_id": 1031001,
+      "element_type": 10310,
+      "unlock_condition": "EpisodeFinish=10310",
+      "title_key": "language_10004613",
+      "title": "小径① 减法",
+      "description_key": "language_10004614",
+      "description": "一个无名的方盒子，屹立在空地。",
+      "action_key": "language_10004615",
+      "action": "这是什么？"
+    },
+    {
+      "element_id": 1031002,
+      "element_type": 10310,
+      "unlock_condition": "EpisodeFinish=10310",
+      "title_key": "language_10004616",
+      "title": "小径② 绿意守卫",
+      "description_key": "language_10004617",
+      "description": "孩子们的低语消散后，它们复归此地，将拾获的珍宝藏于身侧。",
+      "action_key": "language_10004618",
+      "action": "看个究竟"
+    },
+    {
+      "element_id": 1031201,
+      "element_type": 10312,
+      "unlock_condition": "EpisodeFinish=10312",
+      "title_key": "language_10004623",
+      "title": "小径① 十四行诗的笔记本",
+      "description_key": "language_10004624",
+      "description": "她的字迹工整，其中的几页格外详细。",
+      "action_key": "language_10004462",
+      "action": "阅读"
+    },
+    {
+      "element_id": 1031301,
+      "element_type": 10313,
+      "unlock_condition": "EpisodeFinish=10313",
+      "title_key": "language_10004629",
+      "title": "小径① 巷尾传言",
+      "description_key": "language_10004630",
+      "description": "一些传言，信或不信，全在于你。",
+      "action_key": "language_10001036",
+      "action": "侧耳倾听"
+    },
+    {
+      "element_id": 1031302,
+      "element_type": 10313,
+      "unlock_condition": "EpisodeFinish=10313",
+      "title_key": "language_10004631",
+      "title": "小径② 破壳之卵",
+      "description_key": "language_10004632",
+      "description": "它们本不该在此出现，伴随着惊惧与失落。",
+      "action_key": "language_10004595",
+      "action": "驱赶它们"
+    },
+    {
+      "element_id": 1031401,
+      "element_type": 10314,
+      "unlock_condition": "EpisodeFinish=10314",
+      "title_key": "language_10004634",
+      "title": "小径① 一张合影",
+      "description_key": "language_10004635",
+      "description": "一张不知从何处而来的老旧合影。",
+      "action_key": "language_10004636",
+      "action": "尝试回忆"
+    },
+    {
+      "element_id": 1031402,
+      "element_type": 10314,
+      "unlock_condition": "EpisodeFinish=10314",
+      "title_key": "language_10004637",
+      "title": "小径② 职责所在",
+      "description_key": "language_10004638",
+      "description": "还有那么多的病人在等待，没有喘息与伤感的机会。",
+      "action_key": "language_10004639",
+      "action": "履行职责"
+    },
+    {
+      "element_id": 1040101,
+      "element_type": 10401,
+      "unlock_condition": "EpisodeFinish=10401",
+      "title_key": "language_10004644",
+      "title": "小径① 湿漉漉的信",
+      "description_key": "language_10004645",
+      "description": "一封贴有漂亮邮票的信件，被水珠沾湿。",
+      "action_key": "language_10004646",
+      "action": "展开它"
+    },
+    {
+      "element_id": 1040401,
+      "element_type": 10404,
+      "unlock_condition": "EpisodeFinish=404",
+      "title_key": "language_10004648",
+      "title": "小径① 静置一旁的笔记本",
+      "description_key": "language_10004649",
+      "description": "一段工整的，详尽的，满怀憧憬的笔记。",
+      "action_key": "language_10004650",
+      "action": "翻阅它"
+    },
+    {
+      "element_id": 1040701,
+      "element_type": 10407,
+      "unlock_condition": "EpisodeFinish=10407",
+      "title_key": "language_10004655",
+      "title": "小径① 遗落的评分表",
+      "description_key": "language_10004656",
+      "description": "职员们包围着你，也许他们没有听清刚才的宣言。",
+      "action_key": "language_10004657",
+      "action": "大声宣告"
+    },
+    {
+      "element_id": 1040801,
+      "element_type": 10408,
+      "unlock_condition": "EpisodeFinish=10408",
+      "title_key": "language_10004659",
+      "title": "小径① 执著的访客",
+      "description_key": "language_10004660",
+      "description": "守卫在森林边缘徘徊，邀请你们回到高大的白色房子。",
+      "action_key": "language_10004661",
+      "action": "拒绝他们"
+    },
+    {
+      "element_id": 1040901,
+      "element_type": 10409,
+      "unlock_condition": "EpisodeFinish=10409",
+      "title_key": "language_10004664",
+      "title": "小径① 麻烦邻居",
+      "description_key": "language_10004665",
+      "description": "吵闹，具有攻击性，且数量众多。",
+      "action_key": "language_10004666",
+      "action": "请它们离开"
+    },
+    {
+      "element_id": 1041101,
+      "element_type": 10411,
+      "unlock_condition": "EpisodeFinish=411",
+      "title_key": "language_10004672",
+      "title": "小径① “无名垂钓者”记录",
+      "description_key": "language_10004673",
+      "description": "无处不在的传闻。有人将它们整理于此。",
+      "action_key": "language_10004674",
+      "action": "探究它"
+    },
+    {
+      "element_id": 1041201,
+      "element_type": 10412,
+      "unlock_condition": "EpisodeFinish=10412",
+      "title_key": "language_10004675",
+      "title": "小径① 人工梦游使用规范",
+      "description_key": "language_10004676",
+      "description": "职员们有了新办法，许多仪器被架设在广场旁。",
+      "action_key": "language_10004677",
+      "action": "静观其变"
+    },
+    {
+      "element_id": 1041401,
+      "element_type": 10414,
+      "unlock_condition": "EpisodeFinish=10414",
+      "title_key": "language_10004679",
+      "title": "小径① 高难演习",
+      "description_key": "language_10004680",
+      "description": "别浪费难得的机会，把难度调到最大。",
+      "action_key": "language_10004681",
+      "action": "按下按钮"
+    },
+    {
+      "element_id": 1041601,
+      "element_type": 10416,
+      "unlock_condition": "EpisodeFinish=416",
+      "title_key": "language_10004684",
+      "title": "小径① 球类游戏",
+      "description_key": null,
+      "description": null,
+      "action_key": null,
+      "action": null
+    },
+    {
+      "element_id": 1041602,
+      "element_type": 10416,
+      "unlock_condition": "EpisodeFinish=416",
+      "title_key": "language_10004685",
+      "title": "小径② 公平竞赛",
+      "description_key": "language_10004686",
+      "description": "几位职员正在球桌旁驻足，比赛即将开场。",
+      "action_key": "language_10004687",
+      "action": "拿起球拍"
+    },
+    {
+      "element_id": 1041701,
+      "element_type": 10417,
+      "unlock_condition": "EpisodeFinish=10417",
+      "title_key": "language_10004689",
+      "title": "小径① 与火共舞",
+      "description_key": null,
+      "description": null,
+      "action_key": null,
+      "action": null
+    },
+    {
+      "element_id": 1041801,
+      "element_type": 10418,
+      "unlock_condition": "EpisodeFinish=418",
+      "title_key": "language_10004690",
+      "title": "小径① 似曾相识",
+      "description_key": "language_10004691",
+      "description": "熟悉的色彩吸引着你的目光。",
+      "action_key": "language_10004692",
+      "action": "停下脚步"
+    },
+    {
+      "element_id": 1042001,
+      "element_type": 10420,
+      "unlock_condition": "EpisodeFinish=420",
+      "title_key": "language_10004696",
+      "title": "小径① 聚光灯之外",
+      "description_key": null,
+      "description": null,
+      "action_key": null,
+      "action": null
+    },
+    {
+      "element_id": 1042101,
+      "element_type": 10421,
+      "unlock_condition": "EpisodeFinish=421",
+      "title_key": "language_10004697",
+      "title": "小径① 被裁剪过的旧报纸",
+      "description_key": "language_10004698",
+      "description": "一则有关弃票的讨论。",
+      "action_key": "language_10004699",
+      "action": "阅读它"
+    },
+    {
+      "element_id": 1042201,
+      "element_type": 10422,
+      "unlock_condition": "EpisodeFinish=10422",
+      "title_key": "language_10004700",
+      "title": "小径① 小狗儿之歌",
+      "description_key": "language_10004701",
+      "description": "节奏轻快，歌颂着某只小狗的勇气。",
+      "action_key": "language_10004702",
+      "action": "倾听它"
+    },
+    {
+      "element_id": 1050601,
+      "element_type": 10506,
+      "unlock_condition": "EpisodeFinish=506",
+      "title_key": "language_10004771",
+      "title": "小径① 何时与何处",
+      "description_key": null,
+      "description": null,
+      "action_key": null,
+      "action": null
+    },
+    {
+      "element_id": 1050602,
+      "element_type": 10506,
+      "unlock_condition": "EpisodeFinish=506",
+      "title_key": "language_10004772",
+      "title": "小径② 对峙的第三方",
+      "description_key": "language_10004773",
+      "description": "海豚们对陆上生物的交流无比好奇，它们尝试加入这场对峙。",
+      "action_key": "language_10004774",
+      "action": "再次驱赶"
+    },
+    {
+      "element_id": 1051001,
+      "element_type": 10510,
+      "unlock_condition": "EpisodeFinish=510",
+      "title_key": "language_10004781",
+      "title": "小径① 美妙巧合",
+      "description_key": null,
+      "description": null,
+      "action_key": null,
+      "action": null
+    },
+    {
+      "element_id": 1051201,
+      "element_type": 10512,
+      "unlock_condition": "EpisodeFinish=512",
+      "title_key": "language_10004782",
+      "title": "小径① 恰好的停顿",
+      "description_key": null,
+      "description": null,
+      "action_key": null,
+      "action": null
+    },
+    {
+      "element_id": 1051202,
+      "element_type": 10512,
+      "unlock_condition": "EpisodeFinish=512",
+      "title_key": "language_10004783",
+      "title": "小径② 赛事回顾",
+      "description_key": "language_10004784",
+      "description": "发生在数字与数字之间，一场精彩的辩论赛。",
+      "action_key": "language_10004785",
+      "action": "回想"
+    },
+    {
+      "element_id": 1051401,
+      "element_type": 10514,
+      "unlock_condition": "EpisodeFinish=514",
+      "title_key": "language_10004790",
+      "title": "小径① 第三条岔路",
+      "description_key": null,
+      "description": null,
+      "action_key": null,
+      "action": null
+    },
+    {
+      "element_id": 1051501,
+      "element_type": 10515,
+      "unlock_condition": "EpisodeFinish=10515",
+      "title_key": "language_10004793",
+      "title": "小径① 堵截逃兵",
+      "description_key": "language_10004794",
+      "description": "面具脑袋又想从真理的课堂上逃走……拦住他们！",
+      "action_key": "language_10004795",
+      "action": "帮助37"
+    },
+    {
+      "element_id": 1051801,
+      "element_type": 10518,
+      "unlock_condition": "EpisodeFinish=10518",
+      "title_key": "language_10004800",
+      "title": "小径① 格格不入者",
+      "description_key": null,
+      "description": null,
+      "action_key": null,
+      "action": null
+    },
+    {
+      "element_id": 1051901,
+      "element_type": 10519,
+      "unlock_condition": "EpisodeFinish=519",
+      "title_key": "language_10004801",
+      "title": "小径① 返回出口",
+      "description_key": "language_10004802",
+      "description": "样貌奇异的怪物堵住了船长的去路。更多……更多阿其翁？",
+      "action_key": "language_10004803",
+      "action": "清理道路"
+    },
+    {
+      "element_id": 1070101,
+      "element_type": 10701,
+      "unlock_condition": "EpisodeFinish=10701",
+      "title_key": "language_10039893",
+      "title": "象征动物",
+      "description_key": null,
+      "description": null,
+      "action_key": null,
+      "action": null
+    },
+    {
+      "element_id": 1070601,
+      "element_type": 10706,
+      "unlock_condition": "EpisodeFinish=706",
+      "title_key": "language_10039903",
+      "title": "用火安全",
+      "description_key": null,
+      "description": null,
+      "action_key": null,
+      "action": null
+    },
+    {
+      "element_id": 1071101,
+      "element_type": 10711,
+      "unlock_condition": "EpisodeFinish=10711",
+      "title_key": "language_10039908",
+      "title": "问与答",
+      "description_key": null,
+      "description": null,
+      "action_key": null,
+      "action": null
+    },
+    {
+      "element_id": 1071201,
+      "element_type": 10712,
+      "unlock_condition": "ChapterMapElement=100701",
+      "title_key": "language_10039911",
+      "title": "酿酒时节",
+      "description_key": "language_10039912",
+      "description": "一段不知来处的诗句，记录于某只卷轴之上。",
+      "action_key": "language_10039913",
+      "action": "诵读它"
+    },
+    {
+      "element_id": 1071301,
+      "element_type": 10713,
+      "unlock_condition": "EpisodeFinish=713",
+      "title_key": "language_10039914",
+      "title": "七年的霉运",
+      "description_key": null,
+      "description": null,
+      "action_key": null,
+      "action": null
+    },
+    {
+      "element_id": 1072001,
+      "element_type": 10720,
+      "unlock_condition": "EpisodeFinish=720",
+      "title_key": "language_10039921",
+      "title": "林中的行迹",
+      "description_key": "language_10039922",
+      "description": "命运的预兆隐藏在字里行间，读吧，一个声音说，选择的时刻已至。",
+      "action_key": "language_10004699",
+      "action": "阅读它"
+    },
+    {
+      "element_id": 1072101,
+      "element_type": 10721,
+      "unlock_condition": "ChapterMapElement=100702",
+      "title_key": "language_10039923",
+      "title": "子弹与微积分",
+      "description_key": null,
+      "description": null,
+      "action_key": null,
+      "action": null
+    },
+    {
+      "element_id": 1072701,
+      "element_type": 10727,
+      "unlock_condition": "EpisodeFinish=10727",
+      "title_key": "language_10039933",
+      "title": "绳结的艺术",
+      "description_key": null,
+      "description": null,
+      "action_key": null,
+      "action": null
+    },
+    {
+      "element_id": 1080501,
+      "element_type": 10805,
+      "unlock_condition": "EpisodeFinish=805",
+      "title_key": "language_10054159",
+      "title": "红腹锯脂鲤群",
+      "description_key": null,
+      "description": null,
+      "action_key": null,
+      "action": null
+    },
+    {
+      "element_id": 1080701,
+      "element_type": 10807,
+      "unlock_condition": "EpisodeFinish=807",
+      "title_key": "language_10054162",
+      "title": "自救与拯救",
+      "description_key": null,
+      "description": null,
+      "action_key": null,
+      "action": null
+    },
+    {
+      "element_id": 1080802,
+      "element_type": 10808,
+      "unlock_condition": "EpisodeFinish=10808",
+      "title_key": "language_10054165",
+      "title": "往日的分径-天使娜娜",
+      "description_key": null,
+      "description": null,
+      "action_key": null,
+      "action": null
+    },
+    {
+      "element_id": 1080902,
+      "element_type": 10809,
+      "unlock_condition": "EpisodeFinish=809",
+      "title_key": "language_10054169",
+      "title": "往日的分径-德洛斯医生",
+      "description_key": null,
+      "description": null,
+      "action_key": null,
+      "action": null
+    },
+    {
+      "element_id": 1081101,
+      "element_type": 10811,
+      "unlock_condition": "EpisodeFinish=811",
+      "title_key": "language_10054170",
+      "title": "往日的分径-邓肯先生",
+      "description_key": null,
+      "description": null,
+      "action_key": null,
+      "action": null
+    },
+    {
+      "element_id": 1081202,
+      "element_type": 10812,
+      "unlock_condition": "EpisodeFinish=10812",
+      "title_key": "language_10054165",
+      "title": "往日的分径-天使娜娜",
+      "description_key": null,
+      "description": null,
+      "action_key": null,
+      "action": null
+    },
+    {
+      "element_id": 1081401,
+      "element_type": 10814,
+      "unlock_condition": "EpisodeFinish=10814",
+      "title_key": "language_10054177",
+      "title": "牌桌礼仪",
+      "description_key": null,
+      "description": null,
+      "action_key": null,
+      "action": null
+    },
+    {
+      "element_id": 1081501,
+      "element_type": 10815,
+      "unlock_condition": "EpisodeFinish=815",
+      "title_key": "language_10054178",
+      "title": "三声敲响",
+      "description_key": null,
+      "description": null,
+      "action_key": null,
+      "action": null
+    },
+    {
+      "element_id": 1081701,
+      "element_type": 10817,
+      "unlock_condition": "EpisodeFinish=817",
+      "title_key": "language_10054165",
+      "title": "往日的分径-天使娜娜",
+      "description_key": null,
+      "description": null,
+      "action_key": null,
+      "action": null
+    },
+    {
+      "element_id": 1081801,
+      "element_type": 10818,
+      "unlock_condition": "EpisodeFinish=818",
+      "title_key": "language_10054165",
+      "title": "往日的分径-天使娜娜",
+      "description_key": null,
+      "description": null,
+      "action_key": null,
+      "action": null
+    },
+    {
+      "element_id": 1081902,
+      "element_type": 10819,
+      "unlock_condition": "EpisodeFinish=819",
+      "title_key": "language_10054170",
+      "title": "往日的分径-邓肯先生",
+      "description_key": null,
+      "description": null,
+      "action_key": null,
+      "action": null
+    },
+    {
+      "element_id": 1082001,
+      "element_type": 10820,
+      "unlock_condition": "EpisodeFinish=820",
+      "title_key": "language_10054185",
+      "title": "往日的分径-洛佩拉",
+      "description_key": null,
+      "description": null,
+      "action_key": null,
+      "action": null
+    },
+    {
+      "element_id": 1082201,
+      "element_type": 10822,
+      "unlock_condition": "EpisodeFinish=10822",
+      "title_key": "language_10054189",
+      "title": "远见与筹划",
+      "description_key": null,
+      "description": null,
+      "action_key": null,
+      "action": null
+    },
+    {
+      "element_id": 1082202,
+      "element_type": 10822,
+      "unlock_condition": "EpisodeFinish=10822",
+      "title_key": "language_10054169",
+      "title": "往日的分径-德洛斯医生",
+      "description_key": null,
+      "description": null,
+      "action_key": null,
+      "action": null
+    },
+    {
+      "element_id": 1090101,
+      "element_type": 10901,
+      "unlock_condition": "EpisodeFinish=901",
+      "title_key": "language_10070331",
+      "title": "回环的幽灵",
+      "description_key": null,
+      "description": null,
+      "action_key": null,
+      "action": null
+    },
+    {
+      "element_id": 1090401,
+      "element_type": 10904,
+      "unlock_condition": "EpisodeFinish=10904",
+      "title_key": "language_10070342",
+      "title": "暗色带编织·卷一",
+      "description_key": "language_10070343",
+      "description": "黑暗无形，流动的视线无孔不入。",
+      "action_key": "language_10070344",
+      "action": "步入暗中"
+    },
+    {
+      "element_id": 1090501,
+      "element_type": 10905,
+      "unlock_condition": "EpisodeFinish=905",
+      "title_key": "language_10070348",
+      "title": "南方也存在",
+      "description_key": null,
+      "description": null,
+      "action_key": null,
+      "action": null
+    },
+    {
+      "element_id": 1090502,
+      "element_type": 10905,
+      "unlock_condition": "EpisodeFinish=905",
+      "title_key": "language_10070349",
+      "title": "暗色带编织·卷二",
+      "description_key": "language_10070350",
+      "description": "墙壁高耸，囚徒在深渊里描述天空。",
+      "action_key": "language_10070344",
+      "action": "步入暗中"
+    },
+    {
+      "element_id": 1090601,
+      "element_type": 10906,
+      "unlock_condition": "EpisodeFinish=906",
+      "title_key": "language_10070351",
+      "title": "暗色带编织·卷三",
+      "description_key": "language_10070352",
+      "description": "铁锈弥漫，流亡的鸟找到了栖息的枝头。",
+      "action_key": "language_10070344",
+      "action": "步入暗中"
+    },
+    {
+      "element_id": 1090701,
+      "element_type": 10907,
+      "unlock_condition": "EpisodeFinish=907",
+      "title_key": "language_10070356",
+      "title": "暗色带编织·卷四",
+      "description_key": "language_10070357",
+      "description": "宿命如镜，强有力的意象于岁月中显露轮廓。",
+      "action_key": "language_10070344",
+      "action": "步入暗中"
+    },
+    {
+      "element_id": 1091001,
+      "element_type": 10910,
+      "unlock_condition": "EpisodeFinish=10910",
+      "title_key": "language_10070365",
+      "title": "命运豪赌",
+      "description_key": null,
+      "description": null,
+      "action_key": null,
+      "action": null
+    },
+    {
+      "element_id": 1091101,
+      "element_type": 10911,
+      "unlock_condition": "EpisodeFinish=911",
+      "title_key": "language_10070369",
+      "title": "暗色带编织·卷五",
+      "description_key": "language_10070370",
+      "description": "边界破碎，一位占星者领悟了难以言说的真相。",
+      "action_key": "language_10070344",
+      "action": "步入暗中"
+    },
+    {
+      "element_id": 1091701,
+      "element_type": 10917,
+      "unlock_condition": "EpisodeFinish=10917",
+      "title_key": "language_10070387",
+      "title": "文学兵役",
+      "description_key": null,
+      "description": null,
+      "action_key": null,
+      "action": null
+    },
+    {
+      "element_id": 1091801,
+      "element_type": 10918,
+      "unlock_condition": "EpisodeFinish=918",
+      "title_key": "language_10070388",
+      "title": "愚人船",
+      "description_key": null,
+      "description": null,
+      "action_key": null,
+      "action": null
+    },
+    {
+      "element_id": 1120301,
+      "element_type": 11203,
+      "unlock_condition": "EpisodeFinish=1203",
+      "title_key": "language_10105105",
+      "title": "铭印",
+      "description_key": null,
+      "description": null,
+      "action_key": null,
+      "action": null
+    },
+    {
+      "element_id": 1121101,
+      "element_type": 11211,
+      "unlock_condition": "EpisodeFinish=1211",
+      "title_key": "language_10049229",
+      "title": "安眠",
+      "description_key": null,
+      "description": null,
+      "action_key": null,
+      "action": null
+    },
+    {
+      "element_id": 1122401,
+      "element_type": 11224,
+      "unlock_condition": "EpisodeFinish=11224",
+      "title_key": "language_10105145",
+      "title": "非法入侵",
+      "description_key": null,
+      "description": null,
+      "action_key": null,
+      "action": null
+    },
+    {
+      "element_id": 1130901,
+      "element_type": 11309,
+      "unlock_condition": "EpisodeFinish=11309",
+      "title_key": "language_10120879",
+      "title": "不变的变化",
+      "description_key": null,
+      "description": null,
+      "action_key": null,
+      "action": null
+    },
+    {
+      "element_id": 1131601,
+      "element_type": 11316,
+      "unlock_condition": "EpisodeFinish=11316",
+      "title_key": "language_10120895",
+      "title": "行业竞争",
+      "description_key": null,
+      "description": null,
+      "action_key": null,
+      "action": null
+    },
+    {
+      "element_id": 1132401,
+      "element_type": 11324,
+      "unlock_condition": "EpisodeFinish=11324",
+      "title_key": "language_10120905",
+      "title": "追悼会",
+      "description_key": null,
+      "description": null,
+      "action_key": null,
+      "action": null
+    },
+    {
+      "element_id": 1133101,
+      "element_type": 11310,
+      "unlock_condition": "EpisodeFinish=1310",
+      "title_key": null,
+      "title": null,
+      "description_key": null,
+      "description": null,
+      "action_key": null,
+      "action": null
+    },
+    {
+      "element_id": 1133102,
+      "element_type": 11312,
+      "unlock_condition": "EpisodeFinish=11312",
+      "title_key": null,
+      "title": null,
+      "description_key": null,
+      "description": null,
+      "action_key": null,
+      "action": null
+    },
+    {
+      "element_id": 1133103,
+      "element_type": 11313,
+      "unlock_condition": "EpisodeFinish=1313",
+      "title_key": null,
+      "title": null,
+      "description_key": null,
+      "description": null,
+      "action_key": null,
+      "action": null
+    },
+    {
+      "element_id": 1133104,
+      "element_type": 11314,
+      "unlock_condition": "EpisodeFinish=1314",
+      "title_key": null,
+      "title": null,
+      "description_key": null,
+      "description": null,
+      "action_key": null,
+      "action": null
+    },
+    {
+      "element_id": 1133105,
+      "element_type": 11317,
+      "unlock_condition": "EpisodeFinish=11317",
+      "title_key": null,
+      "title": null,
+      "description_key": null,
+      "description": null,
+      "action_key": null,
+      "action": null
+    },
+    {
+      "element_id": 1133106,
+      "element_type": 11318,
+      "unlock_condition": "EpisodeFinish=11318",
+      "title_key": null,
+      "title": null,
+      "description_key": null,
+      "description": null,
+      "action_key": null,
+      "action": null
+    },
+    {
+      "element_id": 1811401,
+      "element_type": 1810114,
+      "unlock_condition": "EpisodeFinish=1810114",
+      "title_key": "language_10037024",
+      "title": "装卸区域",
+      "description_key": "language_10037025",
+      "description": "故事由一支回荡在劳作区域半空中的歌儿开头。是的，这是新的一天。",
+      "action_key": "language_10037026",
+      "action": "搭把手"
+    },
+    {
+      "element_id": 1811402,
+      "element_type": 1810114,
+      "unlock_condition": "ChapterMapElement=1811401",
+      "title_key": "language_10028337",
+      "title": "加快脚步",
+      "description_key": "language_10028337",
+      "description": "加快脚步",
+      "action_key": null,
+      "action": null
+    },
+    {
+      "element_id": 1811501,
+      "element_type": 1810115,
+      "unlock_condition": "EpisodeFinish=1810115",
+      "title_key": "language_10037029",
+      "title": "分歧点",
+      "description_key": "language_10037029",
+      "description": "分歧点",
+      "action_key": null,
+      "action": null
+    },
+    {
+      "element_id": 1811502,
+      "element_type": 1810115,
+      "unlock_condition": "ChapterMapElement=1811501",
+      "title_key": "language_10036919",
+      "title": "团结的手",
+      "description_key": "language_10037030",
+      "description": "大伙儿已经有了应对这些邻居的经验，但多一个人总要多一份力量。",
+      "action_key": "language_10004595",
+      "action": "驱赶它们"
+    },
+    {
+      "element_id": 1811503,
+      "element_type": 1810115,
+      "unlock_condition": "ChapterMapElement=1811501",
+      "title_key": "language_10037032",
+      "title": "昨日的滋味",
+      "description_key": "language_10037032",
+      "description": "昨日的滋味",
+      "action_key": null,
+      "action": null
+    },
+    {
+      "element_id": 1811601,
+      "element_type": 1810116,
+      "unlock_condition": "EpisodeFinish=1810116",
+      "title_key": "language_10037033",
+      "title": "被留下的",
+      "description_key": "language_10037033",
+      "description": "被留下的",
+      "action_key": null,
+      "action": null
+    },
+    {
+      "element_id": 1811602,
+      "element_type": 1810116,
+      "unlock_condition": "ChapterMapElement=1811601",
+      "title_key": "language_10037034",
+      "title": "综合课堂",
+      "description_key": "language_10037035",
+      "description": "这是镇上领受过最多注目的建筑，白纸在此处被涂抹上亮色。",
+      "action_key": "language_10037026",
+      "action": "搭把手"
+    },
+    {
+      "element_id": 1811603,
+      "element_type": 1810116,
+      "unlock_condition": "ChapterMapElement=1811601",
+      "title_key": "language_10036920",
+      "title": "采掘者们",
+      "description_key": "language_10037036",
+      "description": "为了保证开采工作顺利进行，这场小小的冲突不可避免。",
+      "action_key": "language_10004595",
+      "action": "驱赶它们"
+    },
+    {
+      "element_id": 1811604,
+      "element_type": 1810116,
+      "unlock_condition": "ChapterMapElement=1811601",
+      "title_key": "language_10037038",
+      "title": "针脚与面包",
+      "description_key": "language_10037038",
+      "description": "针脚与面包",
+      "action_key": null,
+      "action": null
+    },
+    {
+      "element_id": 1811605,
+      "element_type": 1810116,
+      "unlock_condition": "ChapterMapElement=1811602",
+      "title_key": "language_10037039",
+      "title": "广场聚会",
+      "description_key": "language_10037040",
+      "description": "将一肚子的话儿都倒在这里，别担心它们结冰。",
+      "action_key": "language_10004692",
+      "action": "停下脚步"
+    },
+    {
+      "element_id": 1811701,
+      "element_type": 1810117,
+      "unlock_condition": "EpisodeFinish=1810117 and ChapterMapElement=1811605",
+      "title_key": "language_10037041",
+      "title": "一如既往",
+      "description_key": "language_10037041",
+      "description": "一如既往",
+      "action_key": null,
+      "action": null
+    },
+    {
+      "element_id": 1811702,
+      "element_type": 1810117,
+      "unlock_condition": "ChapterMapElement=1811701",
+      "title_key": "language_10036921",
+      "title": "无管辖地带",
+      "description_key": "language_10037042",
+      "description": "人们离开之后，这里有了新的住户。它们并不热衷于交际。",
+      "action_key": "language_10037043",
+      "action": "“友好”交流"
+    },
+    {
+      "element_id": 2010102,
+      "element_type": 2010102,
+      "unlock_condition": "EpisodeFinish=2010102",
+      "title_key": "language_10045924",
+      "title": "被退回的信件",
+      "description_key": "language_10045925",
+      "description": "几封轻飘飘的信，被抖落了灰尘。其中的关切虽然溢于言表，但亦能看见克制的痕迹。",
+      "action_key": "language_10045926",
+      "action": "拾起瞧瞧"
+    },
+    {
+      "element_id": 2010121,
+      "element_type": 2010121,
+      "unlock_condition": "EpisodeFinish=2010121",
+      "title_key": "language_10045930",
+      "title": "“新纪元集市事件”述职报告",
+      "description_key": "language_10045931",
+      "description": "越危险，越褒扬——赞颂你的敌人，亦是赞颂自己。",
+      "action_key": "language_10045932",
+      "action": "瞥一眼"
+    },
+    {
+      "element_id": 2410106,
+      "element_type": 2410105,
+      "unlock_condition": "EpisodeFinish=2410105 and ChapterMapElement=2410105",
+      "title_key": "language_10062487",
+      "title": "身份危机",
+      "description_key": "language_10062488",
+      "description": "星锑在模仿摇滚海盗的比赛中荣获第一名。",
+      "action_key": "language_10062489",
+      "action": "怎么回事？！"
+    },
+    {
+      "element_id": 2410109,
+      "element_type": 2410109,
+      "unlock_condition": "EpisodeFinish=2410109",
+      "title_key": "language_10062490",
+      "title": "学术交流",
+      "description_key": "language_10062491",
+      "description": "交流归交流，竞争归竞争，不然还怎么进步？",
+      "action_key": "language_10062492",
+      "action": "友好讨论"
+    },
+    {
+      "element_id": 3100401,
+      "element_type": 31004,
+      "unlock_condition": "EpisodeFinish=31004",
+      "title_key": "language_10004809",
+      "title": "小径① 目所能及的雨",
+      "description_key": null,
+      "description": null,
+      "action_key": null,
+      "action": null
+    },
+    {
+      "element_id": 3210401,
+      "element_type": 3210101,
+      "unlock_condition": "EpisodeFinish=3210101",
+      "title_key": "language_10097991",
+      "title": "来说个故事吧",
+      "description_key": null,
+      "description": null,
+      "action_key": null,
+      "action": null
+    },
+    {
+      "element_id": 3210402,
+      "element_type": 3210103,
+      "unlock_condition": "EpisodeFinish=3210103",
+      "title_key": "language_10097992",
+      "title": "说到生意",
+      "description_key": null,
+      "description": null,
+      "action_key": null,
+      "action": null
+    },
+    {
+      "element_id": 3210403,
+      "element_type": 3210105,
+      "unlock_condition": "EpisodeFinish=3210105",
+      "title_key": "language_10097993",
+      "title": "预言之于人",
+      "description_key": null,
+      "description": null,
+      "action_key": null,
+      "action": null
+    },
+    {
+      "element_id": 3210404,
+      "element_type": 3210109,
+      "unlock_condition": "EpisodeFinish=3210109",
+      "title_key": "language_10097994",
+      "title": "说到这个名字……",
+      "description_key": null,
+      "description": null,
+      "action_key": null,
+      "action": null
+    },
+    {
+      "element_id": 3210405,
+      "element_type": 3210115,
+      "unlock_condition": "EpisodeFinish=3210115",
+      "title_key": "language_10097995",
+      "title": "现在伏笔都揭开了",
+      "description_key": null,
+      "description": null,
+      "action_key": null,
+      "action": null
+    },
+    {
+      "element_id": 3210406,
+      "element_type": 3210117,
+      "unlock_condition": "EpisodeFinish=3210117",
+      "title_key": "language_10097996",
+      "title": "多么可恨的命运",
+      "description_key": null,
+      "description": null,
+      "action_key": null,
+      "action": null
+    },
+    {
+      "element_id": 3210407,
+      "element_type": 3210119,
+      "unlock_condition": "EpisodeFinish=3210119",
+      "title_key": "language_10097997",
+      "title": "虽然并非皆大欢喜",
+      "description_key": null,
+      "description": null,
+      "action_key": null,
+      "action": null
+    },
+    {
+      "element_id": 12101011,
+      "element_type": 1210104,
+      "unlock_condition": "EpisodeFinish=1210104",
+      "title_key": "language_10004742",
+      "title": "修复木桥",
+      "description_key": null,
+      "description": null,
+      "action_key": null,
+      "action": null
+    },
+    {
+      "element_id": 12101091,
+      "element_type": 1210112,
+      "unlock_condition": "Act121Bonus=1",
+      "title_key": "language_10004747",
+      "title": "整理纸条，推理线索",
+      "description_key": null,
+      "description": null,
+      "action_key": null,
+      "action": null
+    },
+    {
+      "element_id": 12101101,
+      "element_type": 1210104,
+      "unlock_condition": "EpisodeFinish=1210104",
+      "title_key": "language_10003840",
+      "title": "一处林地",
+      "description_key": "language_10004748",
+      "description": "枝叶更密，雨丝更疏。比起匆匆途经，许多生物选择在此驻足。",
+      "action_key": "language_10004749",
+      "action": "缓解堵塞"
+    },
+    {
+      "element_id": 12101102,
+      "element_type": 1210106,
+      "unlock_condition": "EpisodeFinish=1210106",
+      "title_key": "language_10003841",
+      "title": "交响乐团",
+      "description_key": "language_10004751",
+      "description": "雨声，碰撞声，轰隆巨响而后火焰哔剥。蠕动的乐手邀请你加入演奏。",
+      "action_key": "language_10004752",
+      "action": "拒绝它们"
+    },
+    {
+      "element_id": 12101103,
+      "element_type": 1210102,
+      "unlock_condition": "EpisodeFinish=1210102",
+      "title_key": "language_10004754",
+      "title": "陈旧的笔记",
+      "description_key": "language_10004755",
+      "description": "残破的纸张拼凑而出的笔记本，记录着绿湖中可怖的秘闻。",
+      "action_key": "language_10004756",
+      "action": "捡起"
+    },
+    {
+      "element_id": 15103001,
+      "element_type": 1510101,
+      "unlock_condition": "EpisodeFinish=1510107",
+      "title_key": "language_10004858",
+      "title": "项目清单",
+      "description_key": "language_10004859",
+      "description": "乌卢鲁运动会的体育项目清单。",
+      "action_key": "language_10004462",
+      "action": "阅读"
+    },
+    {
+      "element_id": 15103002,
+      "element_type": 1510101,
+      "unlock_condition": "ChapterMapElement=15103001 and EpisodeFinish=1510109",
+      "title_key": "language_10004861",
+      "title": "《叮咚快报》周末特刊",
+      "description_key": "language_10004862",
+      "description": "来自本地报刊的恶意造谣。",
+      "action_key": "language_10004462",
+      "action": "阅读"
+    },
+    {
+      "element_id": 15103003,
+      "element_type": 1510101,
+      "unlock_condition": "ChapterMapElement=15103002 and EpisodeFinish=1510110",
+      "title_key": "language_10004864",
+      "title": "《澳大利亚生物行为学报》",
+      "description_key": "language_10004865",
+      "description": "生物学期刊的研究报告。",
+      "action_key": "language_10004462",
+      "action": "阅读"
+    },
+    {
+      "element_id": 15103004,
+      "element_type": 1510101,
+      "unlock_condition": "ChapterMapElement=15103003 and EpisodeFinish=1510111",
+      "title_key": "language_10004867",
+      "title": "《热土运动编年史》节选",
+      "description_key": "language_10004868",
+      "description": "一张本地体育杂志的扉页。",
+      "action_key": "language_10004462",
+      "action": "阅读"
+    },
+    {
+      "element_id": 15103005,
+      "element_type": 1510101,
+      "unlock_condition": "ChapterMapElement=15103004 and EpisodeFinish=1510112",
+      "title_key": "language_10004870",
+      "title": "《乌卢鲁运动会珍藏影集》P-7",
+      "description_key": "language_10004871",
+      "description": "影集首页的一段留言。",
+      "action_key": "language_10004462",
+      "action": "阅读"
+    },
+    {
+      "element_id": 15104001,
+      "element_type": 1510101,
+      "unlock_condition": "EpisodeFinish=1510106",
+      "title_key": "language_10004873",
+      "title": "研究的起点",
+      "description_key": "language_10004874",
+      "description": "导师对学生的教导。",
+      "action_key": "language_10004875",
+      "action": "进入对话"
+    },
+    {
+      "element_id": 15104002,
+      "element_type": 1510101,
+      "unlock_condition": "ChapterMapElement=15104001 and EpisodeFinish=1510108",
+      "title_key": "language_10004877",
+      "title": "随带喷雾类用品清单",
+      "description_key": "language_10004878",
+      "description": "一张喷剂类用品的清单。",
+      "action_key": "language_10004462",
+      "action": "阅读"
+    },
+    {
+      "element_id": 15104003,
+      "element_type": 1510101,
+      "unlock_condition": "ChapterMapElement=15104002 and EpisodeFinish=1510109",
+      "title_key": "language_10004170",
+      "title": "谣言的源头",
+      "description_key": "language_10004880",
+      "description": "一项复杂而庞大的文书填报工作。",
+      "action_key": "language_10004881",
+      "action": "开始填写"
+    },
+    {
+      "element_id": 15104004,
+      "element_type": 1510101,
+      "unlock_condition": "ChapterMapElement=15104003 and EpisodeFinish=1510110",
+      "title_key": "language_10004883",
+      "title": "研究笔记",
+      "description_key": "language_10004884",
+      "description": "一页关于白乳菇的研究笔记。",
+      "action_key": "language_10004462",
+      "action": "阅读"
+    },
+    {
+      "element_id": 15104005,
+      "element_type": 1510101,
+      "unlock_condition": "ChapterMapElement=15104004 and EpisodeFinish=1510111",
+      "title_key": "language_10004886",
+      "title": "沾满灰尘的门票",
+      "description_key": "language_10004887",
+      "description": "一张澳式橄榄球的门票。",
+      "action_key": "language_10004462",
+      "action": "阅读"
+    }
+  ]
+}

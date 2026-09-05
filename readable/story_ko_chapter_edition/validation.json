@@ -1,0 +1,108 @@
+{
+  "format": "reverse1999-multilingual-chapter-edition-v1",
+  "locale": "ko",
+  "formal_chapters": 76,
+  "formal_episodes": 998,
+  "formal_body_nodes": 103599,
+  "category_counts": {
+    "mainline": {
+      "chapters": 13,
+      "episodes": 288
+    },
+    "activity": {
+      "chapters": 21,
+      "episodes": 393
+    },
+    "character": {
+      "chapters": 17,
+      "episodes": 135
+    },
+    "anecdote": {
+      "chapters": 25,
+      "episodes": 182
+    }
+  },
+  "empty_formal_episodes": [
+    3810101,
+    3810102,
+    3810103,
+    3810104,
+    3810105,
+    3810106,
+    3810107,
+    3810108,
+    3810109,
+    3810110,
+    3810111,
+    3810112,
+    3810113,
+    3810114,
+    3810115,
+    3810116,
+    3810117,
+    3810118,
+    3810119,
+    3810120,
+    3810121,
+    3810122
+  ],
+  "chapters_with_generic_title": [
+    38101
+  ],
+  "omitted_zh_cn_fallback_subtitles": [
+    191806,
+    1910101,
+    1910102,
+    1910103,
+    1910104,
+    1910105
+  ],
+  "title_card_recovered_episode_titles": [
+    229110,
+    229111,
+    229112,
+    229113,
+    229114,
+    229115,
+    229116,
+    229117,
+    229118
+  ],
+  "missing_localized_episode_titles": [
+    1910107
+  ],
+  "explicit_localized_episode_titles": [
+    1910101,
+    1910102,
+    1910103,
+    1910104,
+    1910105,
+    1910106
+  ],
+  "omitted_trail_elements": 160,
+  "trails_included": false,
+  "appendix_families": 0,
+  "appendix_scripts": 0,
+  "missing_appendix_script_ids": [],
+  "dropped_duplicate_segments": [
+    {
+      "episode_id": 10101,
+      "script_id": "100023",
+      "internal_title": "第一章1-1.5（图鉴1.3－新手引导湖泊场景）",
+      "duplicate_of_script_id": "100014",
+      "similarity": 1.0
+    },
+    {
+      "episode_id": 10101,
+      "script_id": "100024",
+      "internal_title": "第一章1-1.6（图鉴1.4－新手引导湖泊场景）",
+      "duplicate_of_script_id": "100013",
+      "similarity": 0.9647
+    }
+  ],
+  "missing_formal_sources": [],
+  "chapters_with_at_most_two_episodes": [],
+  "structural_passed": true,
+  "localized_body_complete": false,
+  "passed": false
+}

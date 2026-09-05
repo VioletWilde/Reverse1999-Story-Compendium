@@ -1,0 +1,6717 @@
+{
+  "format": "reverse1999-runtime-story-metadata-selection-v1",
+  "manifest_key_count": 365,
+  "resolved_key_count": 364,
+  "selected_key_count": 364,
+  "unresolved_key_count": 1,
+  "applied_use_counts": {
+    "chapter_title": 70,
+    "episode_title": 209,
+    "episode_subtitle": 87
+  },
+  "character_map_size": 1876,
+  "decisions": [
+    {
+      "key": "language_10000018",
+      "uses": [
+        {
+          "kind": "chapter_title",
+          "chapter_id": 11101,
+          "expected": "雷米特杯失窃案"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "雷米特杯失窃案"
+      ],
+      "selected": "雷米特杯失窃案",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10000027",
+      "uses": [
+        {
+          "kind": "chapter_title",
+          "chapter_id": 12101,
+          "expected": "绿湖噩梦"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "绿湖噩梦",
+        "请输入你的签名#请输入你的签名#请输入你的签名"
+      ],
+      "selected": "绿湖噩梦",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10000041",
+      "uses": [
+        {
+          "kind": "chapter_title",
+          "chapter_id": 13101,
+          "expected": "行至摩卢旁卡"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "登录失败。\n服务器在线用户已满",
+        "行至摩卢旁卡"
+      ],
+      "selected": "行至摩卢旁卡",
+      "method": "expected_text_similarity",
+      "score": 0.8571
+    },
+    {
+      "key": "language_10000054",
+      "uses": [
+        {
+          "kind": "chapter_title",
+          "chapter_id": 105,
+          "expected": "洞穴的囚徒"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "{征集规则}\n<color=#B65223>【▩1%s】</color>为永久性角色征集活动，面向新晋玩家开启。其中可邀请角色为特别指定，具体可邀请角色见概率详情。\n\n▪  在此征集活动中，每10次征集必会获得至少1名4星或以上角色。\n▪  此征集存在次数上限，最高为<color=#B65223>30次</color>，获得6星角色后此征集活动界面\n   将关闭。\n▪  一般情况下所有角色均适用基础概率，如触发概率UP、保底等以具\n   体规则为准。\n{征集概率说明}\n在【▩1%s】征集活动中，\n6<sprite name=\"zhengji_xingxing\">角色征集的基础概率为<color=#B65223>▩3%s</color>；\n5<sprite name=\"zhengji_xingxing\">角色征集的基础概率为<color=#B65223>▩4%s</color>；\n4<sprite name=\"zhengji_xingxing\">角色征集的基础概率为<color=#B65223>▩5%s</color>；\n3<sprite name=\"zhengji_xingxing\">角色征集的基础概率为<color=#B65223>▩6%s</color>；\n2<sprite name=\"zhengji_xingxing\">角色征集的基础概率为<color=#B65223>▩7%s</color>。\n\n▪  最多<color=#B65223>▩8%s</color>次征集必定能通过保底获取6星角色。\n{获得重复角色}\n无论通过何种方式（包含但不限于征集、银行兑换、系统赠送等）\n\n▪  获取相同6星角色时：第2～6次，每次将转化为<color=#B65223>1</color>个对应角色的人物\n   造像和<color=#B65223>12</color>个大容量迷途之声；第7次及之后，每次将仅转化成<color=#B65223>28</color>个大\n   容量迷途之声。\n\n▪  获取相同5星角色时：第2～6次，每次将转化为<color=#B65223>1</color>个对应角色的人物\n   造像和<color=#B65223>3</color>个大容量迷途之声；第7次及之后，每次将仅转化成<color=#B65223>7</color>个大容\n   量迷途之声。\n\n▪  获取相同4星角色时：第2～6次，每次将转化为<color=#B65223>1</color>个对应角色的人物\n   造像和<color=#B65223>8</color>个迷途之声；第7次及之后，每次将仅转化成<color=#B65223>12</color>个迷途之\n   声。\n\n▪  获取相同3星角色时：第2～6次，每次将转化为<color=#B65223>1</color>个对应角色的人物\n   造像和<color=#B65223>4</color>个迷途之声；第7次及之后，每次将仅转化成<color=#B65223>7</color>个迷途之声。\n\n▪  获取相同2星角色时：第2～6次，每次将转化为<color=#B65223>1</color>个对应角色的人物\n   造像和<color=#B65223>3</color>个迷途之声；第7次及之后，每次将仅转化成<color=#B65223>5</color>个迷途之声。",
+        "洞穴的囚徒"
+      ],
+      "selected": "洞穴的囚徒",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10000077",
+      "uses": [
+        {
+          "kind": "chapter_title",
+          "chapter_id": 15101,
+          "expected": "复兴！乌卢鲁运动会"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "复兴！乌卢鲁运动会",
+        "幸运咒语"
+      ],
+      "selected": "复兴！乌卢鲁运动会",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10000097",
+      "uses": [
+        {
+          "kind": "chapter_title",
+          "chapter_id": 16601,
+          "expected": "Light to the Tavern"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "兽涎典全章",
+        "曲香蒙求"
+      ],
+      "selected": "曲香蒙求",
+      "method": "explicit_context",
+      "score": 1.0
+    },
+    {
+      "key": "language_10000099",
+      "uses": [
+        {
+          "kind": "chapter_title",
+          "chapter_id": 16603,
+          "expected": "Flowing in the Wind"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "交错的战栗",
+        "天下有风"
+      ],
+      "selected": "天下有风",
+      "method": "explicit_context",
+      "score": 1.0
+    },
+    {
+      "key": "language_10003354",
+      "uses": [
+        {
+          "kind": "chapter_title",
+          "chapter_id": 101,
+          "expected": "在我们的时代里"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "在我们的时代里",
+        "木柴堆·蓝"
+      ],
+      "selected": "在我们的时代里",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10003356",
+      "uses": [
+        {
+          "kind": "chapter_title",
+          "chapter_id": 102,
+          "expected": "夜色温柔"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "夜色温柔",
+        "食草动物·橙"
+      ],
+      "selected": "夜色温柔",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10003357",
+      "uses": [
+        {
+          "kind": "chapter_title",
+          "chapter_id": 103,
+          "expected": "故事一无所有"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "故事一无所有",
+        "食草动物·金"
+      ],
+      "selected": "故事一无所有",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10003358",
+      "uses": [
+        {
+          "kind": "chapter_title",
+          "chapter_id": 104,
+          "expected": "老虎的金黄"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "老虎的金黄",
+        "食草动物·蓝"
+      ],
+      "selected": "老虎的金黄",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10003386",
+      "uses": [
+        {
+          "kind": "chapter_title",
+          "chapter_id": 16101,
+          "expected": "朔日手记"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "朔日手记",
+        "美餐佳肴·蓝"
+      ],
+      "selected": "朔日手记",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10003387",
+      "uses": [
+        {
+          "kind": "chapter_title",
+          "chapter_id": 1905,
+          "expected": "Pulp Comedy Dirges"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "庸碌喜剧",
+        "美餐佳肴·绿"
+      ],
+      "selected": "庸碌喜剧",
+      "method": "explicit_context",
+      "score": 1.0
+    },
+    {
+      "key": "language_10003388",
+      "uses": [
+        {
+          "kind": "chapter_title",
+          "chapter_id": 1906,
+          "expected": "Back to Earth"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "最后的愿望·橙",
+        "重返人间"
+      ],
+      "selected": "重返人间",
+      "method": "explicit_context",
+      "score": 1.0
+    },
+    {
+      "key": "language_10003794",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 1210101,
+          "chapter_id": 12101,
+          "expected": "陌生人来信"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "已应用选中的荒原方案",
+        "陌生人来信"
+      ],
+      "selected": "陌生人来信",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10003795",
+      "uses": [
+        {
+          "kind": "episode_subtitle",
+          "episode_id": 1210101,
+          "chapter_id": 12101,
+          "expected": "The start of a tragedy, or maybe the beginning of an adventure."
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "一场惨案的开端，又或者一段冒险的伊始。",
+        "当前孤屿上限不足，无法应用该方案"
+      ],
+      "selected": "一场惨案的开端，又或者一段冒险的伊始。",
+      "method": "explicit_context",
+      "score": 1.0
+    },
+    {
+      "key": "language_10004140",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 1510104,
+          "chapter_id": 15101,
+          "expected": "后手直拳"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "后手直拳",
+        "攀登装备·主锁"
+      ],
+      "selected": "后手直拳",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10004141",
+      "uses": [
+        {
+          "kind": "episode_subtitle",
+          "episode_id": 1510104,
+          "chapter_id": 15101,
+          "expected": ""
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "不可或缺的安全装置，攀登者的生命所系。\n顶绳攀爬系统中的关键。在征服岩壁之前，你必须掌握如何使用它，了解如何排除故障。",
+        "漂亮的一击，那火焰必定避无可避。"
+      ],
+      "selected": "漂亮的一击，那火焰必定避无可避。",
+      "method": "explicit_context",
+      "score": 1.0
+    },
+    {
+      "key": "language_10004287",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 1660101,
+          "chapter_id": 16601,
+          "expected": "曲娘玩法剧情01"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "三与九",
+        "该节段视频尚未解锁"
+      ],
+      "selected": "三与九",
+      "method": "explicit_context",
+      "score": 1.0
+    },
+    {
+      "key": "language_10004288",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 1660102,
+          "chapter_id": 16601,
+          "expected": "曲娘玩法剧情02"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "升级物品不足",
+        "百样事"
+      ],
+      "selected": "百样事",
+      "method": "explicit_context",
+      "score": 1.0
+    },
+    {
+      "key": "language_10004289",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 1660103,
+          "chapter_id": 16601,
+          "expected": "曲娘玩法剧情03"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "探险途中无法升级装备",
+        "闲时节"
+      ],
+      "selected": "闲时节",
+      "method": "explicit_context",
+      "score": 1.0
+    },
+    {
+      "key": "language_10004290",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 1660104,
+          "chapter_id": 16601,
+          "expected": "曲娘玩法剧情04"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "“▩1%s”\n陈列风格已升阶",
+        "存身之处"
+      ],
+      "selected": "存身之处",
+      "method": "explicit_context",
+      "score": 1.0
+    },
+    {
+      "key": "language_10004291",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 1660105,
+          "chapter_id": 16601,
+          "expected": "曲娘玩法剧情05"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "去岁如山",
+        "需解锁“复兴！乌卢鲁运动会”▩1%s ▩2%s 前置章节"
+      ],
+      "selected": "去岁如山",
+      "method": "explicit_context",
+      "score": 1.0
+    },
+    {
+      "key": "language_10004292",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 1660106,
+          "chapter_id": 16601,
+          "expected": "曲娘玩法剧情06"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "结新彩",
+        "角色须洞悉自身以开启觉察"
+      ],
+      "selected": "结新彩",
+      "method": "explicit_context",
+      "score": 1.0
+    },
+    {
+      "key": "language_10004293",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 1660107,
+          "chapter_id": 16601,
+          "expected": "曲娘玩法剧情07"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "106#飞跃红沙#Leap Over Red Sands",
+        "行路难"
+      ],
+      "selected": "行路难",
+      "method": "explicit_context",
+      "score": 1.0
+    },
+    {
+      "key": "language_10004294",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 1660108,
+          "chapter_id": 16601,
+          "expected": "曲娘玩法剧情08"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "且尽余杯",
+        "荒丘列车"
+      ],
+      "selected": "且尽余杯",
+      "method": "explicit_context",
+      "score": 1.0
+    },
+    {
+      "key": "language_10004299",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 1660301,
+          "chapter_id": 16603,
+          "expected": "葛天玩法剧情01"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "更漏长",
+        "烈日霓虹"
+      ],
+      "selected": "更漏长",
+      "method": "explicit_context",
+      "score": 1.0
+    },
+    {
+      "key": "language_10004300",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 1660302,
+          "chapter_id": 16603,
+          "expected": "葛天玩法剧情02"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "小憩庭园",
+        "流水今日"
+      ],
+      "selected": "小憩庭园",
+      "method": "explicit_context",
+      "score": 1.0
+    },
+    {
+      "key": "language_10004301",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 1660303,
+          "chapter_id": 16603,
+          "expected": "葛天玩法剧情03"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "有所求",
+        "红岩瀑布"
+      ],
+      "selected": "有所求",
+      "method": "explicit_context",
+      "score": 1.0
+    },
+    {
+      "key": "language_10004302",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 1660304,
+          "chapter_id": 16603,
+          "expected": "葛天玩法剧情04"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "不同谋",
+        "沙地轨道"
+      ],
+      "selected": "不同谋",
+      "method": "explicit_context",
+      "score": 1.0
+    },
+    {
+      "key": "language_10004303",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 1660305,
+          "chapter_id": 16603,
+          "expected": "葛天玩法剧情05"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "烈阳红沙Ⅰ",
+        "身非木石"
+      ],
+      "selected": "身非木石",
+      "method": "explicit_context",
+      "score": 1.0
+    },
+    {
+      "key": "language_10004304",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 1660306,
+          "chapter_id": 16603,
+          "expected": "葛天玩法剧情06"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "壶中天",
+        "烈阳红沙Ⅱ"
+      ],
+      "selected": "壶中天",
+      "method": "explicit_context",
+      "score": 1.0
+    },
+    {
+      "key": "language_10004305",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 1660307,
+          "chapter_id": 16603,
+          "expected": "葛天玩法剧情07"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "歧路无多",
+        "绿洲秘密Ⅰ"
+      ],
+      "selected": "歧路无多",
+      "method": "explicit_context",
+      "score": 1.0
+    },
+    {
+      "key": "language_10004306",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 1660308,
+          "chapter_id": 16603,
+          "expected": "葛天玩法剧情08"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "平芜尽处",
+        "绿洲秘密Ⅱ"
+      ],
+      "selected": "平芜尽处",
+      "method": "explicit_context",
+      "score": 1.0
+    },
+    {
+      "key": "language_10005336",
+      "uses": [
+        {
+          "kind": "chapter_title",
+          "chapter_id": 1911,
+          "expected": "小春雀兒"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "小春雀儿",
+        "火种"
+      ],
+      "selected": "小春雀儿",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10017928",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 192208,
+          "chapter_id": 1922,
+          "expected": "貝蒂"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "行动时每损失4%血量，本次行动攻击力提高1%；回合开始时若血量高于80%，则本回合受到治疗效果降低100%",
+        "贝蒂"
+      ],
+      "selected": "贝蒂",
+      "method": "expected_text_similarity",
+      "score": 0.6
+    },
+    {
+      "key": "language_10024711",
+      "uses": [
+        {
+          "kind": "chapter_title",
+          "chapter_id": 1912,
+          "expected": "塞梅爾維斯"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "塞梅尔维斯",
+        "魔精成长"
+      ],
+      "selected": "塞梅尔维斯",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10033897",
+      "uses": [
+        {
+          "kind": "chapter_title",
+          "chapter_id": 106,
+          "expected": "今夜星光灿烂"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "今夜星光灿烂",
+        "自我吟诵，进入【超算分析<id:1>】状态1回合，使【结构分析<id:1>】【频率分析<id:1>】持续时间延长1回合，获得30点【电能】并注入至多30点【电能】到【涌动电场】中"
+      ],
+      "selected": "今夜星光灿烂",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10033898",
+      "uses": [
+        {
+          "kind": "chapter_title",
+          "chapter_id": 17701,
+          "expected": "小房間"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "小房间",
+        "自我吟诵，进入【超算分析<id:2>】状态1回合，使【结构分析<id:2>】【频率分析<id:2>】持续时间延长1回合，获得30点【电能】并注入至多30点【电能】到【涌动电场】中"
+      ],
+      "selected": "小房间",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10033899",
+      "uses": [
+        {
+          "kind": "chapter_title",
+          "chapter_id": 17703,
+          "expected": "燈塔集"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "灯塔集",
+        "自我吟诵，进入【超算分析<id:3>】状态1回合，使【结构分析<id:2>】【频率分析<id:2>】持续时间延长1回合，获得30点【电能】并注入至多30点【电能】到【涌动电场】中"
+      ],
+      "selected": "灯塔集",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10033900",
+      "uses": [
+        {
+          "kind": "chapter_title",
+          "chapter_id": 1907,
+          "expected": "第九條美德"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "第九条美德",
+        "获得【电涌增幅<id:310701>】；\n进入战斗时，获得20点【电能】；\n回合开始时若不处于任意等级的【涌动电场】下时，布设【涌动电场lv1】；\n回合结束时，获得5点【电能】并注入至多15点【电能】到【涌动电场】中；\n回合结束时，释放1次【峰电位<id:1>】；\n至终的仪式不占己方咒语获取数量上限"
+      ],
+      "selected": "第九条美德",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10033901",
+      "uses": [
+        {
+          "kind": "chapter_title",
+          "chapter_id": 1908,
+          "expected": "齒輪的意志"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "回合结束时，己方全体本回合每注入过1次【电能】，使{name}的【结构分析<id:1>】【频率分析<id:1>】【超算分析<id:1>】都各获得1组【密钥】并获得5点【电能】",
+        "齿轮的意志"
+      ],
+      "selected": "齿轮的意志",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10034014",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 1770101,
+          "chapter_id": 17701,
+          "expected": "狗門"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "单体增强，使己方单体获得【新血<id:62801>】状态，持续3回合；之后使己方全体造成伤害提升30%，处于【新血<id:62801>】状态的目标造成伤害额外提升20%，持续3回合",
+        "狗门"
+      ],
+      "selected": "狗门",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10034015",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 1770102,
+          "chapter_id": 17701,
+          "expected": "一百次湯匙"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "一百次汤匙",
+        "群体攻击，对敌方全体造成80%的现实创伤，额外以自身最大生命*30%替代攻击附加100%现实创伤，并使【薪血】+2"
+      ],
+      "selected": "一百次汤匙",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10034016",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 1770103,
+          "chapter_id": 17701,
+          "expected": "愚神的春日"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "愚神的春日",
+        "群体攻击，对敌方全体造成120%的现实创伤，额外以自身最大生命*30%替代攻击附加100%现实创伤，并使【薪血】+2"
+      ],
+      "selected": "愚神的春日",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10034017",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 1770104,
+          "chapter_id": 17701,
+          "expected": "淚水如明鏡"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "泪水如明镜",
+        "群体增强，使己方全体失去20%当前生命，并布设术阵【血红之域<id:61901>】，持续3回合；同时自身进入【野性<id:62801>】状态，持续3回合"
+      ],
+      "selected": "泪水如明镜",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10034018",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 1770105,
+          "chapter_id": 17701,
+          "expected": "兩顆灰石子"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "两颗灰石子",
+        "群体增强，使己方全体失去20%当前生命，并布设术阵【血红之域<id:61902>】，持续3回合；同时自身进入【野性<id:62801>】状态，持续3回合"
+      ],
+      "selected": "两颗灰石子",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10034019",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 1770106,
+          "chapter_id": 17701,
+          "expected": "簾上的啟明星"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "帘上的启明星",
+        "群体增强，使己方全体失去20%当前生命，并布设术阵【血红之域<id:61902>】，持续3回合；同时自身进入【野性<id:62802>】状态，持续3回合"
+      ],
+      "selected": "帘上的启明星",
+      "method": "expected_text_similarity",
+      "score": 0.8571
+    },
+    {
+      "key": "language_10034020",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 1770107,
+          "chapter_id": 17701,
+          "expected": "尋常之門"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "寻常之门",
+        "群体增强，使己方全体失去20%当前生命，并布设术阵【血红之域<id:62801>】，持续3回合；同时自身进入【野性<id:62801>】状态，持续3回合"
+      ],
+      "selected": "寻常之门",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10034021",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 1770108,
+          "chapter_id": 17701,
+          "expected": "一把金鑰匙"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "一把金钥匙",
+        "群体增强，使己方全体失去20%当前生命，并布设术阵【血红之域<id:62802>】，持续3回合；同时自身进入【野性<id:62801>】状态，持续3回合"
+      ],
+      "selected": "一把金钥匙",
+      "method": "expected_text_similarity",
+      "score": 0.83
+    },
+    {
+      "key": "language_10034022",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 1770301,
+          "chapter_id": 17703,
+          "expected": "週期性掙扎"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "周期性挣扎",
+        "群体增强，使己方全体失去20%当前生命，并布设术阵【血红之域<id:62802>】，持续3回合；同时自身进入【野性<id:62802>】状态，持续3回合"
+      ],
+      "selected": "周期性挣扎",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10034023",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 1770302,
+          "chapter_id": 17703,
+          "expected": "孤鳥或灰白犬"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "免疫所有【属性削弱】；每次行动后,获得2层【变大】,回合结束时使敌方全体失去慢慢吞最大生命*0.3%的本源创伤",
+        "孤鸟或灰白犬"
+      ],
+      "selected": "孤鸟或灰白犬",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10034024",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 1770303,
+          "chapter_id": 17703,
+          "expected": "三面島嶼"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "三面岛屿",
+        "进入战斗时获得30层【再生】；受到普通咒语/仪式攻击后，分别失去1/5层【再生】"
+      ],
+      "selected": "三面岛屿",
+      "method": "expected_text_similarity",
+      "score": 0.79
+    },
+    {
+      "key": "language_10034025",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 1770304,
+          "chapter_id": 17703,
+          "expected": "關於詐騙犯"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "关于诈骗犯",
+        "回合开始时，若不足2个友方，则召唤1只捕食雕像"
+      ],
+      "selected": "关于诈骗犯",
+      "method": "expected_text_similarity",
+      "score": 0.6743
+    },
+    {
+      "key": "language_10034026",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 1770305,
+          "chapter_id": 17703,
+          "expected": "主角們"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "主角们",
+        "进入战斗及回合开始时，自身获得1层【荨麻披甲<id:1>】"
+      ],
+      "selected": "主角们",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10034027",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 1770306,
+          "chapter_id": 17703,
+          "expected": "創作自白"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "创作自白",
+        "死亡后，其他友方获得1层【协作退场】"
+      ],
+      "selected": "创作自白",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10034028",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 1770307,
+          "chapter_id": 17703,
+          "expected": "頒獎辭"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "单体攻击，造成200%精神创伤，并赋予目标2层【悚惧】",
+        "颁奖辞"
+      ],
+      "selected": "颁奖辞",
+      "method": "expected_text_similarity",
+      "score": 0.725
+    },
+    {
+      "key": "language_10034029",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 1770308,
+          "chapter_id": 17703,
+          "expected": "小小調查員"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "单体攻击，造成300%精神创伤，并赋予目标2层【悚惧】",
+        "小小调查员"
+      ],
+      "selected": "小小调查员",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10034036",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 190704,
+          "chapter_id": 1907,
+          "expected": "樣子貨"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "样子货",
+        "（不显示）回合开始时，若生命低于75%/50%/25%，则自身获得1层标记buff"
+      ],
+      "selected": "样子货",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10034037",
+      "uses": [
+        {
+          "kind": "episode_subtitle",
+          "episode_id": 190704,
+          "chapter_id": 1907,
+          "expected": "它們並非無用之物，而是節日氣氛中的重要一環。"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "它们并非无用之物，而是节日气氛中的重要一环。",
+        "（不外显）回合开始时，追加造成携带者当前生命*50%的本源创伤"
+      ],
+      "selected": "它们并非无用之物，而是节日气氛中的重要一环。",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10036876",
+      "uses": [
+        {
+          "kind": "chapter_title",
+          "chapter_id": 18101,
+          "expected": "再见，来亚什基"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "再见，来亚什基",
+        "血食啼鸣·鲍里斯"
+      ],
+      "selected": "再见，来亚什基",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10036877",
+      "uses": [
+        {
+          "kind": "chapter_title",
+          "chapter_id": 18601,
+          "expected": "黎明依舊到來"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "一度失望至极的军人，曾渴求寻找新道路的流浪者。\n尝尽每一份痛苦，再将它们细细捻入理想。无止境的分裂、无穷尽的悲剧、永不结束的流浪，于土地中沉眠的血债正啼鸣，只因我们永远无法相互理解。",
+        "黎明依旧到来"
+      ],
+      "selected": "黎明依旧到来",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10036878",
+      "uses": [
+        {
+          "kind": "chapter_title",
+          "chapter_id": 18603,
+          "expected": "銀線結"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "讣告人轶事",
+        "银线结"
+      ],
+      "selected": "银线结",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10036879",
+      "uses": [
+        {
+          "kind": "chapter_title",
+          "chapter_id": 1909,
+          "expected": "致溫妮弗雷德"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "构想色彩：0001",
+        "致温妮弗雷德"
+      ],
+      "selected": "致温妮弗雷德",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10036880",
+      "uses": [
+        {
+          "kind": "chapter_title",
+          "chapter_id": 1910,
+          "expected": "風吹烏哈拉"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "构想色彩：0002",
+        "风吹乌哈拉"
+      ],
+      "selected": "风吹乌哈拉",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10036925",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 1860101,
+          "chapter_id": 18601,
+          "expected": "水泥蝴蝶"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "构想色彩：0047",
+        "水泥蝴蝶"
+      ],
+      "selected": "水泥蝴蝶",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10036926",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 1860102,
+          "chapter_id": 18601,
+          "expected": "在岸邊"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "在岸边",
+        "构想色彩：0048"
+      ],
+      "selected": "在岸边",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10036927",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 1860103,
+          "chapter_id": 18601,
+          "expected": "廚房談話"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "厨房谈话",
+        "构想色彩：0049"
+      ],
+      "selected": "厨房谈话",
+      "method": "expected_text_similarity",
+      "score": 0.79
+    },
+    {
+      "key": "language_10036928",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 1860104,
+          "chapter_id": 18601,
+          "expected": "沒有寄出的信"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "构想色彩：0050",
+        "没有寄出的信"
+      ],
+      "selected": "没有寄出的信",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10036929",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 1860105,
+          "chapter_id": 18601,
+          "expected": "沉思間"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "构想色彩：0051",
+        "沉思间"
+      ],
+      "selected": "沉思间",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10036930",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 1860106,
+          "chapter_id": 18601,
+          "expected": "真實世界"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "构想色彩：0052",
+        "真实世界"
+      ],
+      "selected": "真实世界",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10036931",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 1860107,
+          "chapter_id": 18601,
+          "expected": "日光燦爛"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "日光灿烂",
+        "构想色彩：0053"
+      ],
+      "selected": "日光灿烂",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10036932",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 1860108,
+          "chapter_id": 18601,
+          "expected": "教師之歌"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "教师之歌",
+        "构想色彩：0054"
+      ],
+      "selected": "教师之歌",
+      "method": "expected_text_similarity",
+      "score": 0.79
+    },
+    {
+      "key": "language_10036933",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 1860301,
+          "chapter_id": 18603,
+          "expected": "銀廳的詰問"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "构想色彩：0055",
+        "银厅的诘问"
+      ],
+      "selected": "银厅的诘问",
+      "method": "expected_text_similarity",
+      "score": 0.83
+    },
+    {
+      "key": "language_10036934",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 1860302,
+          "chapter_id": 18603,
+          "expected": "象牙塔尖"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "构想色彩：0056",
+        "象牙塔尖"
+      ],
+      "selected": "象牙塔尖",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10036935",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 1860303,
+          "chapter_id": 18603,
+          "expected": "寄生蜂群"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "寄生蜂群",
+        "构想色彩：0057"
+      ],
+      "selected": "寄生蜂群",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10036936",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 1860304,
+          "chapter_id": 18603,
+          "expected": "兔與龜"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "兔与龟",
+        "构想色彩：0058"
+      ],
+      "selected": "兔与龟",
+      "method": "expected_text_similarity",
+      "score": 0.725
+    },
+    {
+      "key": "language_10036937",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 1860305,
+          "chapter_id": 18603,
+          "expected": "學者於雪海"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "学者于雪海",
+        "构想色彩：0059"
+      ],
+      "selected": "学者于雪海",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10036938",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 1860306,
+          "chapter_id": 18603,
+          "expected": "泡沫之下"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "构想色彩：0060",
+        "泡沫之下"
+      ],
+      "selected": "泡沫之下",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10036939",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 1860307,
+          "chapter_id": 18603,
+          "expected": "守夜人"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "守夜人",
+        "构想色彩：0061"
+      ],
+      "selected": "守夜人",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10039382",
+      "uses": [
+        {
+          "kind": "chapter_title",
+          "chapter_id": 107,
+          "expected": "孤独之歌"
+        },
+        {
+          "kind": "chapter_title",
+          "chapter_id": 207,
+          "expected": "孤独之歌"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "使用后会传送至翻译站附近（返回银色庇护所时转换为研究资料）",
+        "孤独之歌"
+      ],
+      "selected": "孤独之歌",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10039572",
+      "uses": [
+        {
+          "kind": "chapter_title",
+          "chapter_id": 19601,
+          "expected": "飛渡往日"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "厄难复写纸",
+        "飞渡往日"
+      ],
+      "selected": "飞渡往日",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10039573",
+      "uses": [
+        {
+          "kind": "chapter_title",
+          "chapter_id": 19603,
+          "expected": "猶在鏡中"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "倍增金戒",
+        "犹在镜中"
+      ],
+      "selected": "犹在镜中",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10039645",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 1910106,
+          "chapter_id": 19101,
+          "expected": "突圍戰"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "世界尽头",
+        "突围战"
+      ],
+      "selected": "突围战",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10039648",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 1960101,
+          "chapter_id": 19601,
+          "expected": "里斯本光榮"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "106#归处与来时路#The Way Here and Back",
+        "里斯本光荣"
+      ],
+      "selected": "里斯本光荣",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10039649",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 1960102,
+          "chapter_id": 19601,
+          "expected": "風箏牧人"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "“多瑙之夜”",
+        "风筝牧人"
+      ],
+      "selected": "风筝牧人",
+      "method": "expected_text_similarity",
+      "score": 0.79
+    },
+    {
+      "key": "language_10039650",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 1960103,
+          "chapter_id": 19601,
+          "expected": "伊卡洛斯"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "伊卡洛斯",
+        "无主墓园"
+      ],
+      "selected": "伊卡洛斯",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10039651",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 1960104,
+          "chapter_id": 19601,
+          "expected": "大都會"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "大都会",
+        "零点月台"
+      ],
+      "selected": "大都会",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10039652",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 1960105,
+          "chapter_id": 19601,
+          "expected": "“雜技表演”"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "“杂技表演”",
+        "好梦井"
+      ],
+      "selected": "“杂技表演”",
+      "method": "expected_text_similarity",
+      "score": 0.79
+    },
+    {
+      "key": "language_10039653",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 1960106,
+          "chapter_id": 19601,
+          "expected": "天穹有翼"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "天穹有翼",
+        "新荒原集市"
+      ],
+      "selected": "天穹有翼",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10039654",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 1960107,
+          "chapter_id": 19601,
+          "expected": "雛鳥們"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "雏鸟们",
+        "雪中归途"
+      ],
+      "selected": "雏鸟们",
+      "method": "expected_text_similarity",
+      "score": 0.725
+    },
+    {
+      "key": "language_10039655",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 1960108,
+          "chapter_id": 19601,
+          "expected": "漫步1969"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "漫步1969",
+        "静默的交点"
+      ],
+      "selected": "漫步1969",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10039656",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 1960301,
+          "chapter_id": 19603,
+          "expected": "無解決和弦"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "安眠乡I",
+        "无解决和弦"
+      ],
+      "selected": "无解决和弦",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10039657",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 1960302,
+          "chapter_id": 19603,
+          "expected": "空鏡子"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "安眠乡II",
+        "空镜子"
+      ],
+      "selected": "空镜子",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10039658",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 1960303,
+          "chapter_id": 19603,
+          "expected": "腳下泥濘"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "告死鸟的纪念旌旗",
+        "脚下泥泞"
+      ],
+      "selected": "脚下泥泞",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10039659",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 1960304,
+          "chapter_id": 19603,
+          "expected": "石頭窗"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "石头窗",
+        "野树莓的纪念旌旗"
+      ],
+      "selected": "石头窗",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10039660",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 1960305,
+          "chapter_id": 19603,
+          "expected": "玩耍時間"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "“流动”餐车闭店通知",
+        "玩耍时间"
+      ],
+      "selected": "玩耍时间",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10039661",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 1960306,
+          "chapter_id": 19603,
+          "expected": "僅有的與忘卻的"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "仅有的与忘却的",
+        "子夜独角戏"
+      ],
+      "selected": "仅有的与忘却的",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10039662",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 1960307,
+          "chapter_id": 19603,
+          "expected": "誕生日"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "缝针穿行之轨",
+        "诞生日"
+      ],
+      "selected": "诞生日",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10039663",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 1960308,
+          "chapter_id": 19603,
+          "expected": "明日的故事"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "在“《长夜鸣笛》”中完成故事难度TMW-20",
+        "明日的故事"
+      ],
+      "selected": "明日的故事",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10045514",
+      "uses": [
+        {
+          "kind": "chapter_title",
+          "chapter_id": 20101,
+          "expected": "飞驰！明日之城"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "唤醒阈中，己方角色攻击会立即结算敌方的【中毒】效果",
+        "飞驰！明日之城"
+      ],
+      "selected": "飞驰！明日之城",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10045760",
+      "uses": [
+        {
+          "kind": "chapter_title",
+          "chapter_id": 1913,
+          "expected": "淑女的守則"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "星锑初始天赋",
+        "淑女的守则"
+      ],
+      "selected": "淑女的守则",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10045761",
+      "uses": [
+        {
+          "kind": "chapter_title",
+          "chapter_id": 1914,
+          "expected": "只有泉水知道"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "只有泉水知道",
+        "星锑专属天赋1"
+      ],
+      "selected": "只有泉水知道",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10045762",
+      "uses": [
+        {
+          "kind": "chapter_title",
+          "chapter_id": 20601,
+          "expected": "舊金山小子"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "旧金山小子",
+        "星锑专属天赋2"
+      ],
+      "selected": "旧金山小子",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10045763",
+      "uses": [
+        {
+          "kind": "chapter_title",
+          "chapter_id": 20603,
+          "expected": "第一千夜"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "星锑专属天赋3",
+        "第一千夜"
+      ],
+      "selected": "第一千夜",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10045786",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 2010112,
+          "chapter_id": 20101,
+          "expected": "空棺柩"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "空棺柩",
+        "马库斯专属天赋8"
+      ],
+      "selected": "空棺柩",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10045787",
+      "uses": [
+        {
+          "kind": "episode_subtitle",
+          "episode_id": 2010112,
+          "chapter_id": 20101,
+          "expected": "那是一場謊言，而這也是一場謊言。"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "那是一出谎言，而这也是一出谎言。",
+        "马库斯专属天赋2调用"
+      ],
+      "selected": "那是一出谎言，而这也是一出谎言。",
+      "method": "expected_text_similarity",
+      "score": 0.8843
+    },
+    {
+      "key": "language_10045788",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 2010113,
+          "chapter_id": 20101,
+          "expected": "小竅門"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "小窍门",
+        "马库斯专属天赋4调用"
+      ],
+      "selected": "小窍门",
+      "method": "expected_text_similarity",
+      "score": 0.725
+    },
+    {
+      "key": "language_10045789",
+      "uses": [
+        {
+          "kind": "episode_subtitle",
+          "episode_id": 2010113,
+          "chapter_id": 20101,
+          "expected": "竊賊不闖空門。"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "窃贼不闯空门。",
+        "量产勋章Ⅰ·【薪血】"
+      ],
+      "selected": "窃贼不闯空门。",
+      "method": "expected_text_similarity",
+      "score": 0.725
+    },
+    {
+      "key": "language_10045790",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 2010114,
+          "chapter_id": 20101,
+          "expected": "讚頌詩"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "赞颂诗",
+        "量产勋章Ⅱ·【薪血】"
+      ],
+      "selected": "赞颂诗",
+      "method": "expected_text_similarity",
+      "score": 0.725
+    },
+    {
+      "key": "language_10045791",
+      "uses": [
+        {
+          "kind": "episode_subtitle",
+          "episode_id": 2010114,
+          "chapter_id": 20101,
+          "expected": "我們不吝嗇的讚美，僅奉給祂。"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "我们不吝啬的赞美，仅奉给祂。",
+        "量产勋章Ⅲ·【薪血】"
+      ],
+      "selected": "我们不吝啬的赞美，仅奉给祂。",
+      "method": "expected_text_similarity",
+      "score": 0.8571
+    },
+    {
+      "key": "language_10045792",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 2010115,
+          "chapter_id": 20101,
+          "expected": "眼中之物"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "眼中之物",
+        "量产勋章Ⅰ·【电能】"
+      ],
+      "selected": "眼中之物",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10045793",
+      "uses": [
+        {
+          "kind": "episode_subtitle",
+          "episode_id": 2010115,
+          "chapter_id": 20101,
+          "expected": "噓，蒙上眼時，你才算看見了。"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "嘘，蒙上眼时，你才算看见了。",
+        "量产勋章Ⅱ·【电能】"
+      ],
+      "selected": "嘘，蒙上眼时，你才算看见了。",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10045794",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 2010116,
+          "chapter_id": 20101,
+          "expected": "走吧，羔羊"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "走吧，羔羊",
+        "量产勋章Ⅲ·【电能】"
+      ],
+      "selected": "走吧，羔羊",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10045795",
+      "uses": [
+        {
+          "kind": "episode_subtitle",
+          "episode_id": 2010116,
+          "chapter_id": 20101,
+          "expected": "苜蓿草啊，它們的蹄子慢下來了。"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "苜蓿草啊，它们的蹄子慢下来了。",
+        "量产勋章Ⅰ·【启示】"
+      ],
+      "selected": "苜蓿草啊，它们的蹄子慢下来了。",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10045796",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 2010117,
+          "chapter_id": 20101,
+          "expected": "離別贈禮"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "离别赠礼",
+        "量产勋章Ⅱ·【启示】"
+      ],
+      "selected": "离别赠礼",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10045797",
+      "uses": [
+        {
+          "kind": "episode_subtitle",
+          "episode_id": 2010117,
+          "chapter_id": 20101,
+          "expected": "小小的手提包裡，躲在角落的嗚咽聲。"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "小小的手提包里，躲在角落的呜咽声。",
+        "量产勋章Ⅲ·【启示】"
+      ],
+      "selected": "小小的手提包里，躲在角落的呜咽声。",
+      "method": "expected_text_similarity",
+      "score": 0.9386
+    },
+    {
+      "key": "language_10045798",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 2010118,
+          "chapter_id": 20101,
+          "expected": "別無所依"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "别无所依",
+        "量产勋章Ⅰ·【状态异常】"
+      ],
+      "selected": "别无所依",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10045799",
+      "uses": [
+        {
+          "kind": "episode_subtitle",
+          "episode_id": 2010118,
+          "chapter_id": 20101,
+          "expected": "攥緊拳頭，咬緊牙。丟吧，那唯一的籌碼。"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "攥紧拳头，咬紧牙。丢吧，那唯一的筹码。",
+        "量产勋章Ⅱ·【状态异常】"
+      ],
+      "selected": "攥紧拳头，咬紧牙。丢吧，那唯一的筹码。",
+      "method": "expected_text_similarity",
+      "score": 0.8825
+    },
+    {
+      "key": "language_10045800",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 2010119,
+          "chapter_id": 20101,
+          "expected": "絨絲帶"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "绒丝带",
+        "量产勋章Ⅲ·【状态异常】"
+      ],
+      "selected": "绒丝带",
+      "method": "expected_text_similarity",
+      "score": 0.725
+    },
+    {
+      "key": "language_10045801",
+      "uses": [
+        {
+          "kind": "episode_subtitle",
+          "episode_id": 2010119,
+          "chapter_id": 20101,
+          "expected": "它曾繫於一隻纖細的理想上。"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "它曾系于一只纤细的理想上。",
+        "量产勋章Ⅰ·【仪式】"
+      ],
+      "selected": "它曾系于一只纤细的理想上。",
+      "method": "expected_text_similarity",
+      "score": 0.9269
+    },
+    {
+      "key": "language_10045802",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 2010120,
+          "chapter_id": 20101,
+          "expected": "信鴿"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "信鸽",
+        "量产勋章Ⅱ·【仪式】"
+      ],
+      "selected": "信鸽",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10045803",
+      "uses": [
+        {
+          "kind": "episode_subtitle",
+          "episode_id": 2010120,
+          "chapter_id": 20101,
+          "expected": "在濕漉漉的泥壤中，雨已浸透了毛羽。"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "在湿漉漉的泥壤中，雨已浸透了毛羽。",
+        "量产勋章Ⅲ·【仪式】"
+      ],
+      "selected": "在湿漉漉的泥壤中，雨已浸透了毛羽。",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10045804",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 2010121,
+          "chapter_id": 20101,
+          "expected": "旱鴨子"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "旱鸭子",
+        "量产勋章Ⅰ·【额外行动】"
+      ],
+      "selected": "旱鸭子",
+      "method": "expected_text_similarity",
+      "score": 0.725
+    },
+    {
+      "key": "language_10045805",
+      "uses": [
+        {
+          "kind": "episode_subtitle",
+          "episode_id": 2010121,
+          "chapter_id": 20101,
+          "expected": "當腳邁入海，眼由此看見了更遙遠的邊際。"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "当脚迈入海，眼由此看见了更遥远的边际。",
+        "量产勋章Ⅱ·【额外行动】"
+      ],
+      "selected": "当脚迈入海，眼由此看见了更遥远的边际。",
+      "method": "expected_text_similarity",
+      "score": 0.948
+    },
+    {
+      "key": "language_10045806",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 2010122,
+          "chapter_id": 20101,
+          "expected": "門前足音"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "量产勋章Ⅲ·【额外行动】",
+        "门前足音"
+      ],
+      "selected": "门前足音",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10045807",
+      "uses": [
+        {
+          "kind": "episode_subtitle",
+          "episode_id": 2010122,
+          "chapter_id": 20101,
+          "expected": "咚咚咚……有誰不在？"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "咚咚咚……有谁不在？",
+        "收藏品图标1"
+      ],
+      "selected": "咚咚咚……有谁不在？",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10045818",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 191301,
+          "chapter_id": 1913,
+          "expected": "用餐禮儀"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "收藏品图标12",
+        "用餐礼仪"
+      ],
+      "selected": "用餐礼仪",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10045819",
+      "uses": [
+        {
+          "kind": "episode_subtitle",
+          "episode_id": 191301,
+          "chapter_id": 1913,
+          "expected": "首先……其次……最後，順序很重要、布置很重要、材質很重要——什麼？寶貝，請再說一遍？"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "收藏品图标13",
+        "首先……其次……最后，顺序很重要、排布很重要、材质很重要——什么？宝贝，请再说一遍？"
+      ],
+      "selected": "首先……其次……最后，顺序很重要、排布很重要、材质很重要——什么？宝贝，请再说一遍？",
+      "method": "expected_text_similarity",
+      "score": 0.968
+    },
+    {
+      "key": "language_10045820",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 191302,
+          "chapter_id": 1913,
+          "expected": "交友禮儀"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "交友礼仪",
+        "收藏品图标14"
+      ],
+      "selected": "交友礼仪",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10045821",
+      "uses": [
+        {
+          "kind": "episode_subtitle",
+          "episode_id": 191302,
+          "chapter_id": 1913,
+          "expected": "我們要去的地方，遙遠的今夜，綢繆的彼刻。"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "我们要去的地方，遥远的今夜，绸缪的彼刻。",
+        "收藏品图标15"
+      ],
+      "selected": "我们要去的地方，遥远的今夜，绸缪的彼刻。",
+      "method": "expected_text_similarity",
+      "score": 0.946
+    },
+    {
+      "key": "language_10045822",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 191303,
+          "chapter_id": 1913,
+          "expected": "舉止禮儀"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "举止礼仪",
+        "收藏品图标16"
+      ],
+      "selected": "举止礼仪",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10045823",
+      "uses": [
+        {
+          "kind": "episode_subtitle",
+          "episode_id": 191303,
+          "chapter_id": 1913,
+          "expected": "噓，媽媽，這裡顯然有秘密，我們之中總有人會發現。"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "嘘，妈妈，这儿显然有秘密，我们之中总有人会发现。",
+        "收藏品图标17"
+      ],
+      "selected": "嘘，妈妈，这儿显然有秘密，我们之中总有人会发现。",
+      "method": "expected_text_similarity",
+      "score": 0.88
+    },
+    {
+      "key": "language_10045824",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 191304,
+          "chapter_id": 1913,
+          "expected": "談吐禮儀"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "收藏品图标18",
+        "谈吐礼仪"
+      ],
+      "selected": "谈吐礼仪",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10045825",
+      "uses": [
+        {
+          "kind": "episode_subtitle",
+          "episode_id": 191304,
+          "chapter_id": 1913,
+          "expected": "在陽光明媚的早晨，向膽小者致敬。"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "在阳光明媚的早晨，向胆小者致敬。",
+        "收藏品图标19"
+      ],
+      "selected": "在阳光明媚的早晨，向胆小者致敬。",
+      "method": "expected_text_similarity",
+      "score": 0.9371
+    },
+    {
+      "key": "language_10045826",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 191305,
+          "chapter_id": 1913,
+          "expected": "著裝禮儀"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "收藏品图标20",
+        "着装礼仪"
+      ],
+      "selected": "着装礼仪",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10045827",
+      "uses": [
+        {
+          "kind": "episode_subtitle",
+          "episode_id": 191305,
+          "chapter_id": 1913,
+          "expected": "一路小跑小跳，越過一場灼傷、一場熟悉的回歸，迎來一次無量的超越。"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "一路小跑小跳，越过一场灼伤、一场熟悉的回归，迎来一次无量的超越。",
+        "收藏品图标21"
+      ],
+      "selected": "一路小跑小跳，越过一场灼伤、一场熟悉的回归，迎来一次无量的超越。",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10045828",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 191306,
+          "chapter_id": 1913,
+          "expected": "第六章禮儀"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "收藏品图标22",
+        "第六章礼仪"
+      ],
+      "selected": "第六章礼仪",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10045829",
+      "uses": [
+        {
+          "kind": "episode_subtitle",
+          "episode_id": 191306,
+          "chapter_id": 1913,
+          "expected": "給我一支伐木的歌謠，讓我尋齊全世界的合作夥伴。"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "收藏品图标23",
+        "给我一支伐木的歌谣，让我寻齐全世界的合作伙伴。"
+      ],
+      "selected": "给我一支伐木的歌谣，让我寻齐全世界的合作伙伴。",
+      "method": "expected_text_similarity",
+      "score": 0.9564
+    },
+    {
+      "key": "language_10045830",
+      "uses": [
+        {
+          "kind": "episode_subtitle",
+          "episode_id": 191401,
+          "chapter_id": 1914,
+          "expected": "無數的快樂身影，途經一枚無人發覺的小小硬幣。"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "收藏品图标24",
+        "无数的快乐身影，途经一枚无人发觉的小小硬币。"
+      ],
+      "selected": "无数的快乐身影，途经一枚无人发觉的小小硬币。",
+      "method": "expected_text_similarity",
+      "score": 0.9533
+    },
+    {
+      "key": "language_10045831",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 191402,
+          "chapter_id": 1914,
+          "expected": "願望閉環"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "愿望闭环",
+        "收藏品图标25"
+      ],
+      "selected": "愿望闭环",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10045832",
+      "uses": [
+        {
+          "kind": "episode_subtitle",
+          "episode_id": 191402,
+          "chapter_id": 1914,
+          "expected": "可擕式電腦、格子條紋，你永遠都得保持敬畏的那一撮人。"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "<b>黑夜模式下将有更多的物资，也会出现更危险的敌人！</b>",
+        "便携式计算机、格子条纹，你永远都得保持敬畏的那一撮人。"
+      ],
+      "selected": "便携式计算机、格子条纹，你永远都得保持敬畏的那一撮人。",
+      "method": "expected_text_similarity",
+      "score": 0.8613
+    },
+    {
+      "key": "language_10045833",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 191403,
+          "chapter_id": 1914,
+          "expected": "“泉水精靈”"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "“泉水精灵”",
+        "累计完成▩1%s次演习，且每次演习需要坚守到3天以上（累计完成▩2%s/▩1%s次）"
+      ],
+      "selected": "“泉水精灵”",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10045834",
+      "uses": [
+        {
+          "kind": "episode_subtitle",
+          "episode_id": 191403,
+          "chapter_id": 1914,
+          "expected": "噢——偉大的泉水精靈啊～我們歌頌她的名。"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "剪纸的赠礼",
+        "噢——伟大的泉水精灵啊～我们歌颂她的名。"
+      ],
+      "selected": "噢——伟大的泉水精灵啊～我们歌颂她的名。",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10045835",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 191404,
+          "chapter_id": 1914,
+          "expected": "漫長的汛期"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "彩烛的赠礼",
+        "漫长的汛期"
+      ],
+      "selected": "漫长的汛期",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10045836",
+      "uses": [
+        {
+          "kind": "episode_subtitle",
+          "episode_id": 191404,
+          "chapter_id": 1914,
+          "expected": "近日，本地區或將進入漲潮期，請各方做好相關防範措施。"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "燧石的赠礼",
+        "近日，本地区或将进入涨潮期，请各方做好相关防范措施。"
+      ],
+      "selected": "近日，本地区或将进入涨潮期，请各方做好相关防范措施。",
+      "method": "expected_text_similarity",
+      "score": 0.9614
+    },
+    {
+      "key": "language_10045837",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 191405,
+          "chapter_id": 1914,
+          "expected": "箱中集會"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "挥洒的纪念",
+        "箱中集会"
+      ],
+      "selected": "箱中集会",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10045838",
+      "uses": [
+        {
+          "kind": "episode_subtitle",
+          "episode_id": 191405,
+          "chapter_id": 1914,
+          "expected": "《關於突發性災害的應急處理方案》討論大會。"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "《关于突发性灾害的应急处理方案》讨论大会。",
+        "追忆的纪念"
+      ],
+      "selected": "《关于突发性灾害的应急处理方案》讨论大会。",
+      "method": "expected_text_similarity",
+      "score": 0.9509
+    },
+    {
+      "key": "language_10045839",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 191406,
+          "chapter_id": 1914,
+          "expected": "硬幣、氣球與飄帶"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "十全调·渡影归真",
+        "硬币、气球与飘带"
+      ],
+      "selected": "硬币、气球与飘带",
+      "method": "expected_text_similarity",
+      "score": 0.8768
+    },
+    {
+      "key": "language_10045840",
+      "uses": [
+        {
+          "kind": "episode_subtitle",
+          "episode_id": 191406,
+          "chapter_id": 1914,
+          "expected": "你知道的，許多東西並不能通過許願獲得。"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "106#生死狂欢#A Celebration of Two Worlds",
+        "你知道的，许多东西并不能通过许愿获得。"
+      ],
+      "selected": "你知道的，许多东西并不能通过许愿获得。",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10045841",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 2060101,
+          "chapter_id": 20601,
+          "expected": "“一樁生意”"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "“一桩生意”",
+        "灵魂谜底"
+      ],
+      "selected": "“一桩生意”",
+      "method": "expected_text_similarity",
+      "score": 0.79
+    },
+    {
+      "key": "language_10045842",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 2060102,
+          "chapter_id": 20601,
+          "expected": "東方的朋友"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "东方的朋友",
+        "痛苦之家"
+      ],
+      "selected": "东方的朋友",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10045843",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 2060103,
+          "chapter_id": 20601,
+          "expected": "撐傘人"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "撑伞人",
+        "独立天使"
+      ],
+      "selected": "撑伞人",
+      "method": "expected_text_similarity",
+      "score": 0.725
+    },
+    {
+      "key": "language_10045844",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 2060104,
+          "chapter_id": 20601,
+          "expected": "友好會面"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "友好会面",
+        "壁画之都"
+      ],
+      "selected": "友好会面",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10045845",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 2060105,
+          "chapter_id": 20601,
+          "expected": "狂歡迪斯可"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "浮动园地",
+        "狂欢迪斯科"
+      ],
+      "selected": "狂欢迪斯科",
+      "method": "expected_text_similarity",
+      "score": 0.83
+    },
+    {
+      "key": "language_10045846",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 2060106,
+          "chapter_id": 20601,
+          "expected": "冤家路窄"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "冤家路窄",
+        "扎手卫士Ⅰ"
+      ],
+      "selected": "冤家路窄",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10045847",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 2060107,
+          "chapter_id": 20601,
+          "expected": "盛情晚宴"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "扎手卫士Ⅱ",
+        "盛情晚宴"
+      ],
+      "selected": "盛情晚宴",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10045848",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 2060108,
+          "chapter_id": 20601,
+          "expected": "夥計們"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "伙计们",
+        "诺谛卡的纪念旌旗"
+      ],
+      "selected": "伙计们",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10045849",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 2060301,
+          "chapter_id": 20603,
+          "expected": "篝火聚會"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "拉莫纳的纪念旌旗",
+        "篝火聚会"
+      ],
+      "selected": "篝火聚会",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10045850",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 2060302,
+          "chapter_id": 20603,
+          "expected": "撿石子遊戲"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "捡石子游戏",
+        "洛伦兹蝴蝶的纪念旌旗"
+      ],
+      "selected": "捡石子游戏",
+      "method": "expected_text_similarity",
+      "score": 0.83
+    },
+    {
+      "key": "language_10045851",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 2060303,
+          "chapter_id": 20603,
+          "expected": "月光與海浪"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "《湖边的女人》的纪念旌旗",
+        "月光与海浪"
+      ],
+      "selected": "月光与海浪",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10045852",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 2060304,
+          "chapter_id": 20603,
+          "expected": "啟程日"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "业余侦探沙龙闭店通知",
+        "启程日"
+      ],
+      "selected": "启程日",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10045853",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 2060305,
+          "chapter_id": 20603,
+          "expected": "加州假日"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "加州假日",
+        "湖岸轻波过期通知"
+      ],
+      "selected": "加州假日",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10045854",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 2060306,
+          "chapter_id": 20603,
+          "expected": "中轉站"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "“渡影归真”结束通知",
+        "中转站"
+      ],
+      "selected": "中转站",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10045855",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 2060307,
+          "chapter_id": 20603,
+          "expected": "隨波逐流"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "“亡灵欢歌”谢幕尾声",
+        "随波逐流"
+      ],
+      "selected": "随波逐流",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10045856",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 2060308,
+          "chapter_id": 20603,
+          "expected": "重歸好時光"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "奇异吸引子",
+        "重归好时光"
+      ],
+      "selected": "重归好时光",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10048438",
+      "uses": [
+        {
+          "kind": "chapter_title",
+          "chapter_id": 21101,
+          "expected": "77号往事"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "77号往事",
+        "暴击率+40%，暴击创伤+▩1%s"
+      ],
+      "selected": "77号往事",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10048513",
+      "uses": [
+        {
+          "kind": "chapter_title",
+          "chapter_id": 1915,
+          "expected": "起火點"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "术法威力+10%，仪式威力+10%（不可驱散）",
+        "起火点"
+      ],
+      "selected": "起火点",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10048514",
+      "uses": [
+        {
+          "kind": "chapter_title",
+          "chapter_id": 1916,
+          "expected": "權利歸花兒"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "受创减免+30%，受到克制攻击时移除，并赋予攻击者1层【音阶共鸣】，若受到术具攻击则额外赋予攻击者1层【音阶共鸣】",
+        "权利归花儿"
+      ],
+      "selected": "权利归花儿",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10048561",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 191501,
+          "chapter_id": 1915,
+          "expected": "後座甜心"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "后座甜心",
+        "自身主动释放咒语时不消耗行动点；并使自身普通咒语升华"
+      ],
+      "selected": "后座甜心",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10048562",
+      "uses": [
+        {
+          "kind": "episode_subtitle",
+          "episode_id": 191501,
+          "chapter_id": 1915,
+          "expected": "從後座看到的景致也同樣宜人。"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "§可在回合开始时主动释放的特殊技能，使用后进入【超凡五感】",
+        "从后座看到的景致也同样宜人。"
+      ],
+      "selected": "从后座看到的景致也同样宜人。",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10048563",
+      "uses": [
+        {
+          "kind": "episode_subtitle",
+          "episode_id": 191502,
+          "chapter_id": 1915,
+          "expected": "平平無奇的主角和不值一提的配角能演出什麼熱播劇情？"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "§暴击创伤提升0.8%",
+        "平平无奇的主角和不值一提的配角能演出什么热播剧情？"
+      ],
+      "selected": "平平无奇的主角和不值一提的配角能演出什么热播剧情？",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10048564",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 191503,
+          "chapter_id": 1915,
+          "expected": "黑甲蟲"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "§暴击创伤提升0.9%",
+        "黑甲虫"
+      ],
+      "selected": "黑甲虫",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10048565",
+      "uses": [
+        {
+          "kind": "episode_subtitle",
+          "episode_id": 191503,
+          "chapter_id": 1915,
+          "expected": "只有人最像蟲時，人才最接近死。"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "§暴击创伤提升1%",
+        "只有人最像虫时，人才最接近死。"
+      ],
+      "selected": "只有人最像虫时，人才最接近死。",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10048566",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 191504,
+          "chapter_id": 1915,
+          "expected": "織布心臟"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "§暴击创伤提升1.2%",
+        "织布心脏"
+      ],
+      "selected": "织布心脏",
+      "method": "expected_text_similarity",
+      "score": 0.79
+    },
+    {
+      "key": "language_10048567",
+      "uses": [
+        {
+          "kind": "episode_subtitle",
+          "episode_id": 191504,
+          "chapter_id": 1915,
+          "expected": "它依然是它，但它會超過它的同類，並告訴它們什麼叫作真正的跳動。"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "§暴击创伤提升1.5%",
+        "它依然是它，但它会超过它的同类，并告诉它们什么叫作真正的跳动。"
+      ],
+      "selected": "它依然是它，但它会超过它的同类，并告诉它们什么叫作真正的跳动。",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10048568",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 191505,
+          "chapter_id": 1915,
+          "expected": "熾焰燃燒"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "§反击创伤提升8%",
+        "炽焰燃烧"
+      ],
+      "selected": "炽焰燃烧",
+      "method": "expected_text_similarity",
+      "score": 0.79
+    },
+    {
+      "key": "language_10048569",
+      "uses": [
+        {
+          "kind": "episode_subtitle",
+          "episode_id": 191505,
+          "chapter_id": 1915,
+          "expected": "火盡了滾燙的責任，悄悄哼著自己的歌。"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "§反击创伤提升12%",
+        "火尽了滚烫的责任，悄悄哼着自己的歌。"
+      ],
+      "selected": "火尽了滚烫的责任，悄悄哼着自己的歌。",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10048570",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 191506,
+          "chapter_id": 1915,
+          "expected": "雪莉酒"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "§反击创伤提升16%",
+        "雪利酒"
+      ],
+      "selected": "雪利酒",
+      "method": "expected_text_similarity",
+      "score": 0.725
+    },
+    {
+      "key": "language_10048571",
+      "uses": [
+        {
+          "kind": "episode_subtitle",
+          "episode_id": 191506,
+          "chapter_id": 1915,
+          "expected": "當雙唇變得濕潤，霞光墜入尋歡作樂的鑿井。"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "§暴击创伤提升4.5%",
+        "当双唇变得湿润，霞光坠入寻欢作乐的凿井。"
+      ],
+      "selected": "当双唇变得湿润，霞光坠入寻欢作乐的凿井。",
+      "method": "expected_text_similarity",
+      "score": 0.9033
+    },
+    {
+      "key": "language_10048572",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 191601,
+          "chapter_id": 1916,
+          "expected": "倫敦呼叫"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "§创伤加成提升6%，本源创伤加成提升6%",
+        "伦敦呼叫"
+      ],
+      "selected": "伦敦呼叫",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10048573",
+      "uses": [
+        {
+          "kind": "episode_subtitle",
+          "episode_id": 191601,
+          "chapter_id": 1916,
+          "expected": "他開始想念倫敦的一切，包括審訊室和警察局。"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "§创伤加成提升7.5%，本源创伤加成提升7.5%",
+        "他开始想念伦敦的一切，包括审讯室和警察局。"
+      ],
+      "selected": "他开始想念伦敦的一切，包括审讯室和警察局。",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10048574",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 191602,
+          "chapter_id": 1916,
+          "expected": "舶來品"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "§创伤加成提升9%，本源创伤加成提升9%",
+        "舶来品"
+      ],
+      "selected": "舶来品",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10048575",
+      "uses": [
+        {
+          "kind": "episode_subtitle",
+          "episode_id": 191602,
+          "chapter_id": 1916,
+          "expected": "無數新奇的小玩意，自海邊來。"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "§创伤加成提升10.5%，本源创伤加成提升10.5%",
+        "无数新奇的小玩意，自海边来。"
+      ],
+      "selected": "无数新奇的小玩意，自海边来。",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10048576",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 191603,
+          "chapter_id": 1916,
+          "expected": "爆炸與藝術"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "§创伤加成提升12%，本源创伤加成提升12%",
+        "爆炸与艺术"
+      ],
+      "selected": "爆炸与艺术",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10048577",
+      "uses": [
+        {
+          "kind": "episode_subtitle",
+          "episode_id": 191603,
+          "chapter_id": 1916,
+          "expected": "一種不近人情的藝術形式。"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "§无敌",
+        "一种不近人情的艺术形式。"
+      ],
+      "selected": "一种不近人情的艺术形式。",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10048578",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 191604,
+          "chapter_id": 1916,
+          "expected": "數學課"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "§光环，加给角色后，给全体己方加上下面的子光环buff",
+        "数学课"
+      ],
+      "selected": "数学课",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10048579",
+      "uses": [
+        {
+          "kind": "episode_subtitle",
+          "episode_id": 191604,
+          "chapter_id": 1916,
+          "expected": "我說——一定要在這種時候學習數學嗎？"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "§至多减伤来源的攻击力*25%，来源拥有燃烧【4150001】，减伤提升至攻击力*50%",
+        "我说——一定要在这种时候学习数学吗？"
+      ],
+      "selected": "我说——一定要在这种时候学习数学吗？",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10048580",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 191605,
+          "chapter_id": 1916,
+          "expected": "前期準備"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "§计数上限为加buff时攻击力的200%，在友方反击的203节点触发，造成50%攻击力的附加伤害，并提高【当前计数所占百分比*200%】的伤害",
+        "前期准备"
+      ],
+      "selected": "前期准备",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10048581",
+      "uses": [
+        {
+          "kind": "episode_subtitle",
+          "episode_id": 191605,
+          "chapter_id": 1916,
+          "expected": "萬無一失是他的目標，但這也僅是目標。"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "§上限-1，大招需求-1",
+        "万无一失是他的目标，但这也仅是目标。"
+      ],
+      "selected": "万无一失是他的目标，但这也仅是目标。",
+      "method": "expected_text_similarity",
+      "score": 0.9036
+    },
+    {
+      "key": "language_10048582",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 191606,
+          "chapter_id": 1916,
+          "expected": "“花童”"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "“花童”",
+        "将受到攻击时承受的创伤/附加创伤至多减免▩1%s点"
+      ],
+      "selected": "“花童”",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10048583",
+      "uses": [
+        {
+          "kind": "episode_subtitle",
+          "episode_id": 191606,
+          "chapter_id": 1916,
+          "expected": "我們要相信“相信”的力量。"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "我们要相信“相信”的力量。",
+        "试错记录：▩1%s/▩2%s"
+      ],
+      "selected": "我们要相信“相信”的力量。",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10048584",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 191607,
+          "chapter_id": 1916,
+          "expected": "海岬盡頭"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "反击创伤加成+4%，术法威力+4%（效果可叠加，最多叠加20层，每层独立计算持续时间，不可驱散）",
+        "海岬尽头"
+      ],
+      "selected": "海岬尽头",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10048585",
+      "uses": [
+        {
+          "kind": "episode_subtitle",
+          "episode_id": 191607,
+          "chapter_id": 1916,
+          "expected": "那是一抹暗沉的藍色。"
+        }
+      ],
+      "candidate_count": 2,
+      "candidates": [
+        "可被至终的仪式触发的【交付反馈】消耗，增强其效果（最多叠加10层，不可驱散）",
+        "那是一抹暗沉的蓝色。"
+      ],
+      "selected": "那是一抹暗沉的蓝色。",
+      "method": "expected_text_similarity",
+      "score": 1.0
+    },
+    {
+      "key": "language_10053432",
+      "uses": [
+        {
+          "kind": "chapter_title",
+          "chapter_id": 108,
+          "expected": "忧郁的热带"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "忧郁的热带"
+      ],
+      "selected": "忧郁的热带",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10054010",
+      "uses": [
+        {
+          "kind": "chapter_title",
+          "chapter_id": 1917,
+          "expected": "乘法軸上的一天"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "乘法轴上的一天"
+      ],
+      "selected": "乘法轴上的一天",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10054011",
+      "uses": [
+        {
+          "kind": "chapter_title",
+          "chapter_id": 1918,
+          "expected": "長夜未逝"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "长夜未逝"
+      ],
+      "selected": "长夜未逝",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10054094",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 191701,
+          "chapter_id": 1917,
+          "expected": "缺席"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "缺席"
+      ],
+      "selected": "缺席",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10054095",
+      "uses": [
+        {
+          "kind": "episode_subtitle",
+          "episode_id": 191701,
+          "chapter_id": 1917,
+          "expected": "年輕的與會者們圍著圓桌落座，談論起一個冷酷的話題。"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "年轻的与会者们围着圆桌落座，谈论起一个冷酷的话题。"
+      ],
+      "selected": "年轻的与会者们围着圆桌落座，谈论起一个冷酷的话题。",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10054096",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 191702,
+          "chapter_id": 1917,
+          "expected": "柏拉圖立體"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "柏拉图立体"
+      ],
+      "selected": "柏拉图立体",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10054097",
+      "uses": [
+        {
+          "kind": "episode_subtitle",
+          "episode_id": 191702,
+          "chapter_id": 1917,
+          "expected": "一個美麗的假設。雖不能至，然心嚮往之。"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "一个美丽的假设。虽不能至，然心向往之。"
+      ],
+      "selected": "一个美丽的假设。虽不能至，然心向往之。",
+      "method": "single_context_match",
+      "score": 0.8917
+    },
+    {
+      "key": "language_10054098",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 191703,
+          "chapter_id": 1917,
+          "expected": "誤差"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "误差"
+      ],
+      "selected": "误差",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10054099",
+      "uses": [
+        {
+          "kind": "episode_subtitle",
+          "episode_id": 191703,
+          "chapter_id": 1917,
+          "expected": "那些壞心眼的小東西總是不期而至。"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "那些坏心眼的小东西总是不期而至。"
+      ],
+      "selected": "那些坏心眼的小东西总是不期而至。",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10054100",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 191704,
+          "chapter_id": 1917,
+          "expected": "十二角星"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "十二角星"
+      ],
+      "selected": "十二角星",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10054101",
+      "uses": [
+        {
+          "kind": "episode_subtitle",
+          "episode_id": 191704,
+          "chapter_id": 1917,
+          "expected": "點連成線，線動成面。沒有哪個座標未接到邀請。"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "点连成线，线动成面。没有哪个坐标未接到邀请。"
+      ],
+      "selected": "点连成线，线动成面。没有哪个坐标未接到邀请。",
+      "method": "single_context_match",
+      "score": 0.9053
+    },
+    {
+      "key": "language_10054102",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 191705,
+          "chapter_id": 1917,
+          "expected": "對數"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "对数"
+      ],
+      "selected": "对数",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10054103",
+      "uses": [
+        {
+          "kind": "episode_subtitle",
+          "episode_id": 191705,
+          "chapter_id": 1917,
+          "expected": "需要一把雨傘，或是一次對求冪的逆運算。"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "需要一把雨伞，或是一次对求幂的逆运算。"
+      ],
+      "selected": "需要一把雨伞，或是一次对求幂的逆运算。",
+      "method": "single_context_match",
+      "score": 0.9471
+    },
+    {
+      "key": "language_10054104",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 191706,
+          "chapter_id": 1917,
+          "expected": "分形"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "分形"
+      ],
+      "selected": "分形",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10054105",
+      "uses": [
+        {
+          "kind": "episode_subtitle",
+          "episode_id": 191706,
+          "chapter_id": 1917,
+          "expected": "現在我們知道該如何測量它的長度了。"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "现在我们知道该如何测量它的长度了。"
+      ],
+      "selected": "现在我们知道该如何测量它的长度了。",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10054106",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 191707,
+          "chapter_id": 1917,
+          "expected": "乘法軸"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "乘法轴"
+      ],
+      "selected": "乘法轴",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10054107",
+      "uses": [
+        {
+          "kind": "episode_subtitle",
+          "episode_id": 191707,
+          "chapter_id": 1917,
+          "expected": "1、2……而接下來，當然該是3。"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "1、2……而接下来，当然该是3。"
+      ],
+      "selected": "1、2……而接下来，当然该是3。",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10054108",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 191708,
+          "chapter_id": 1917,
+          "expected": "數沙者"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "数沙者"
+      ],
+      "selected": "数沙者",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10054109",
+      "uses": [
+        {
+          "kind": "episode_subtitle",
+          "episode_id": 191708,
+          "chapter_id": 1917,
+          "expected": "有一天我們會知道那個數字的答案。"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "有一天我们会知道那个数字的答案。"
+      ],
+      "selected": "有一天我们会知道那个数字的答案。",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10054110",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 191801,
+          "chapter_id": 1918,
+          "expected": "回望"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "回望"
+      ],
+      "selected": "回望",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10054111",
+      "uses": [
+        {
+          "kind": "episode_subtitle",
+          "episode_id": 191801,
+          "chapter_id": 1918,
+          "expected": "望向，那些尚且斑駁的痕跡，你是否知曉為何而來？"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "望向，那些尚且斑驳的痕迹，你是否知晓为何而来？"
+      ],
+      "selected": "望向，那些尚且斑驳的痕迹，你是否知晓为何而来？",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10054112",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 191802,
+          "chapter_id": 1918,
+          "expected": "被染病，被破滅的"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "被染病，被破灭的"
+      ],
+      "selected": "被染病，被破灭的",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10054113",
+      "uses": [
+        {
+          "kind": "episode_subtitle",
+          "episode_id": 191802,
+          "chapter_id": 1918,
+          "expected": "啊！別再哭也別再笑，別再哀嚎也別再尖叫了……"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "啊！别再哭也别再笑，别再哀嚎也别再尖叫了……"
+      ],
+      "selected": "啊！别再哭也别再笑，别再哀嚎也别再尖叫了……",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10054114",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 191803,
+          "chapter_id": 1918,
+          "expected": "信仰玩笑"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "信仰玩笑"
+      ],
+      "selected": "信仰玩笑",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10054115",
+      "uses": [
+        {
+          "kind": "episode_subtitle",
+          "episode_id": 191803,
+          "chapter_id": 1918,
+          "expected": "你嘲笑它，你貶損、侮辱它——噢，你相信它。"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "你嘲笑它，你贬损、侮辱它——噢，你相信它。"
+      ],
+      "selected": "你嘲笑它，你贬损、侮辱它——噢，你相信它。",
+      "method": "single_context_match",
+      "score": 0.935
+    },
+    {
+      "key": "language_10054116",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 191804,
+          "chapter_id": 1918,
+          "expected": "噓，別顫抖"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "嘘，别颤抖"
+      ],
+      "selected": "嘘，别颤抖",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10054117",
+      "uses": [
+        {
+          "kind": "episode_subtitle",
+          "episode_id": 191804,
+          "chapter_id": 1918,
+          "expected": "拿起它，請——拿起它，輕輕落下，猶如手術刀般的筆尖呐。"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "拿起它，请——拿起它，轻轻落下，犹如手术刀般的笔尖呐。"
+      ],
+      "selected": "拿起它，请——拿起它，轻轻落下，犹如手术刀般的笔尖呐。",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10054118",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 191805,
+          "chapter_id": 1918,
+          "expected": "獻予人的花束"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "献予人的花束"
+      ],
+      "selected": "献予人的花束",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10054119",
+      "uses": [
+        {
+          "kind": "episode_subtitle",
+          "episode_id": 191805,
+          "chapter_id": 1918,
+          "expected": "他們說她的手上空空如也，誰看見她捧著些什麼？"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "他们说她的手上空空如也，谁看见她捧着些什么？"
+      ],
+      "selected": "他们说她的手上空空如也，谁看见她捧着些什么？",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10054122",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 191807,
+          "chapter_id": 1918,
+          "expected": "長夜"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "长夜"
+      ],
+      "selected": "长夜",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10054123",
+      "uses": [
+        {
+          "kind": "episode_subtitle",
+          "episode_id": 191807,
+          "chapter_id": 1918,
+          "expected": "未攜燈者呀，仍在那黑暗的荒野上。"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "未携灯者呀，仍在那黑暗的荒野上。"
+      ],
+      "selected": "未携灯者呀，仍在那黑暗的荒野上。",
+      "method": "single_context_match",
+      "score": 0.9371
+    },
+    {
+      "key": "language_10054124",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 191808,
+          "chapter_id": 1918,
+          "expected": "河"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "河"
+      ],
+      "selected": "河",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10054125",
+      "uses": [
+        {
+          "kind": "episode_subtitle",
+          "episode_id": 191808,
+          "chapter_id": 1918,
+          "expected": "它靜靜流淌，始終如一。"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "它静静流淌，始终如一。"
+      ],
+      "selected": "它静静流淌，始终如一。",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10054126",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 229111,
+          "chapter_id": 22911,
+          "expected": "雨林毒霧"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "雨林毒雾"
+      ],
+      "selected": "雨林毒雾",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10054127",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 229112,
+          "chapter_id": 22911,
+          "expected": "家的喪鐘"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "家的丧钟"
+      ],
+      "selected": "家的丧钟",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10058585",
+      "uses": [
+        {
+          "kind": "chapter_title",
+          "chapter_id": 23101,
+          "expected": "圣火纪行_东区黎明"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "圣火纪行：东区黎明"
+      ],
+      "selected": "圣火纪行：东区黎明",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10058586",
+      "uses": [
+        {
+          "kind": "chapter_title",
+          "chapter_id": 23501,
+          "expected": "太陽的背面"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "太阳的背面"
+      ],
+      "selected": "太阳的背面",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10058587",
+      "uses": [
+        {
+          "kind": "chapter_title",
+          "chapter_id": 23601,
+          "expected": "夜遊十字街"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "夜游十字街"
+      ],
+      "selected": "夜游十字街",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10058590",
+      "uses": [
+        {
+          "kind": "chapter_title",
+          "chapter_id": 1919,
+          "expected": "黃金與悲喜劇"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "黄金与悲喜剧"
+      ],
+      "selected": "黄金与悲喜剧",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10058631",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 2350101,
+          "chapter_id": 23501,
+          "expected": "蝸牛行跡"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "蜗牛行迹"
+      ],
+      "selected": "蜗牛行迹",
+      "method": "single_context_match",
+      "score": 0.79
+    },
+    {
+      "key": "language_10058632",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 2350102,
+          "chapter_id": 23501,
+          "expected": "潤滑脂"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "润滑脂"
+      ],
+      "selected": "润滑脂",
+      "method": "single_context_match",
+      "score": 0.725
+    },
+    {
+      "key": "language_10058633",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 2350103,
+          "chapter_id": 23501,
+          "expected": "無翼飛鳥"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "无翼飞鸟"
+      ],
+      "selected": "无翼飞鸟",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10058634",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 2350104,
+          "chapter_id": 23501,
+          "expected": "柔光"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "柔光"
+      ],
+      "selected": "柔光",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10058635",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 2350105,
+          "chapter_id": 23501,
+          "expected": "簡易通訊"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "简易通讯"
+      ],
+      "selected": "简易通讯",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10058636",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 2350106,
+          "chapter_id": 23501,
+          "expected": "叩門的回音"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "叩门的回音"
+      ],
+      "selected": "叩门的回音",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10058637",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 2350107,
+          "chapter_id": 23501,
+          "expected": "領獎台"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "领奖台"
+      ],
+      "selected": "领奖台",
+      "method": "single_context_match",
+      "score": 0.725
+    },
+    {
+      "key": "language_10058638",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 2350108,
+          "chapter_id": 23501,
+          "expected": "再見，朋友"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "再见，朋友"
+      ],
+      "selected": "再见，朋友",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10058639",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 2360101,
+          "chapter_id": 23601,
+          "expected": "鳥兒的邀約"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "鸟儿的邀约"
+      ],
+      "selected": "鸟儿的邀约",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10058640",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 2360102,
+          "chapter_id": 23601,
+          "expected": "失物"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "失物"
+      ],
+      "selected": "失物",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10058641",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 2360103,
+          "chapter_id": 23601,
+          "expected": "十字街"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "十字街"
+      ],
+      "selected": "十字街",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10058642",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 2360104,
+          "chapter_id": 23601,
+          "expected": "新朋友，老朋友"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "新朋友，老朋友"
+      ],
+      "selected": "新朋友，老朋友",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10058643",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 2360105,
+          "chapter_id": 23601,
+          "expected": "花與小石子"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "花与小石子儿"
+      ],
+      "selected": "花与小石子儿",
+      "method": "single_context_match",
+      "score": 0.8788
+    },
+    {
+      "key": "language_10058644",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 2360106,
+          "chapter_id": 23601,
+          "expected": "躍動的爪印"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "跃动的爪印"
+      ],
+      "selected": "跃动的爪印",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10062124",
+      "uses": [
+        {
+          "kind": "chapter_title",
+          "chapter_id": 24101,
+          "expected": "地球上最后的夜晚"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "地球上最后的夜晚"
+      ],
+      "selected": "地球上最后的夜晚",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10062384",
+      "uses": [
+        {
+          "kind": "chapter_title",
+          "chapter_id": 24501,
+          "expected": "河港與海之間"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "河港与海之间"
+      ],
+      "selected": "河港与海之间",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10062386",
+      "uses": [
+        {
+          "kind": "chapter_title",
+          "chapter_id": 1920,
+          "expected": "最佳樂隊"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "最佳乐队"
+      ],
+      "selected": "最佳乐队",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10062388",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 2410101,
+          "chapter_id": 24101,
+          "expected": "船訊"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "船讯"
+      ],
+      "selected": "船讯",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10062389",
+      "uses": [
+        {
+          "kind": "episode_subtitle",
+          "episode_id": 2410101,
+          "chapter_id": 24101,
+          "expected": "生活是獨立的，可生存不是。"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "生活是独立的，可生存不是。"
+      ],
+      "selected": "生活是独立的，可生存不是。",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10062390",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 2410102,
+          "chapter_id": 24101,
+          "expected": "“自由海風”"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "“自由海风”"
+      ],
+      "selected": "“自由海风”",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10062391",
+      "uses": [
+        {
+          "kind": "episode_subtitle",
+          "episode_id": 2410102,
+          "chapter_id": 24101,
+          "expected": "啊，海風。啊，自由。啊，最後一日假期。"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "啊，海风。啊，自由。啊，最后一日假期。"
+      ],
+      "selected": "啊，海风。啊，自由。啊，最后一日假期。",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10062392",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 2410103,
+          "chapter_id": 24101,
+          "expected": "密碼學入門"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "密码学入门"
+      ],
+      "selected": "密码学入门",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10062393",
+      "uses": [
+        {
+          "kind": "episode_subtitle",
+          "episode_id": 2410103,
+          "chapter_id": 24101,
+          "expected": "我們偉大的船長所經歷的無數小小挫折之一。"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "我们伟大的船长所经历的无数小小挫折之一。"
+      ],
+      "selected": "我们伟大的船长所经历的无数小小挫折之一。",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10062394",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 2410104,
+          "chapter_id": 24101,
+          "expected": "時代之聲"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "时代之声"
+      ],
+      "selected": "时代之声",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10062395",
+      "uses": [
+        {
+          "kind": "episode_subtitle",
+          "episode_id": 2410104,
+          "chapter_id": 24101,
+          "expected": "“隕石坑”音樂節裡合唱著“一夜狂歡”，人們搖擺肢體。朋友，看我撿到了什麼！"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "“陨石坑”音乐节里合唱着“一夜狂欢”，人们摇摆肢体。朋友，瞧我捡着了什么！"
+      ],
+      "selected": "“陨石坑”音乐节里合唱着“一夜狂欢”，人们摇摆肢体。朋友，瞧我捡着了什么！",
+      "method": "single_context_match",
+      "score": 0.8844
+    },
+    {
+      "key": "language_10062396",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 2410105,
+          "chapter_id": 24101,
+          "expected": "離港日"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "离港日"
+      ],
+      "selected": "离港日",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10062397",
+      "uses": [
+        {
+          "kind": "episode_subtitle",
+          "episode_id": 2410105,
+          "chapter_id": 24101,
+          "expected": "所有的河流都奔向大海。"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "所有的河流都奔向大海。"
+      ],
+      "selected": "所有的河流都奔向大海。",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10062398",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 2410106,
+          "chapter_id": 24101,
+          "expected": "群島已遠"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "群岛已远"
+      ],
+      "selected": "群岛已远",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10062399",
+      "uses": [
+        {
+          "kind": "episode_subtitle",
+          "episode_id": 2410106,
+          "chapter_id": 24101,
+          "expected": "在海的另一頭，有溢滿的安寧與全部的期待。"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "在海的另一头，有溢满的安宁与全部的期待。"
+      ],
+      "selected": "在海的另一头，有溢满的安宁与全部的期待。",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10062400",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 2410107,
+          "chapter_id": 24101,
+          "expected": "音樂或亮光"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "音乐或亮光"
+      ],
+      "selected": "音乐或亮光",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10062401",
+      "uses": [
+        {
+          "kind": "episode_subtitle",
+          "episode_id": 2410107,
+          "chapter_id": 24101,
+          "expected": "你願意用何者填滿屋子？"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "你愿意用何者填满屋子？"
+      ],
+      "selected": "你愿意用何者填满屋子？",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10062402",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 2410108,
+          "chapter_id": 24101,
+          "expected": "海上老歌"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "老调子"
+      ],
+      "selected": "老调子",
+      "method": "explicit_context",
+      "score": 1.0
+    },
+    {
+      "key": "language_10062403",
+      "uses": [
+        {
+          "kind": "episode_subtitle",
+          "episode_id": 2410108,
+          "chapter_id": 24101,
+          "expected": "夾雜著礁石與一小撮海鹽的，粗糲的歌。"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "夹杂着礁石与一小撮海盐的，粗粝的歌。"
+      ],
+      "selected": "夹杂着礁石与一小撮海盐的，粗粝的歌。",
+      "method": "single_context_match",
+      "score": 0.7868
+    },
+    {
+      "key": "language_10062404",
+      "uses": [
+        {
+          "kind": "episode_subtitle",
+          "episode_id": 2410109,
+          "chapter_id": 24101,
+          "expected": "關於如何理解每一位拉普拉斯人。"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "关于如何理解每一位拉普拉斯人。"
+      ],
+      "selected": "关于如何理解每一位拉普拉斯人。",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10062405",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 2410110,
+          "chapter_id": 24101,
+          "expected": "一面又一面"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "一面又一面"
+      ],
+      "selected": "一面又一面",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10062406",
+      "uses": [
+        {
+          "kind": "episode_subtitle",
+          "episode_id": 2410110,
+          "chapter_id": 24101,
+          "expected": "噢，這對於唱片的壞影響遠甚於磁帶。"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "噢，这对于唱片的坏影响远甚于磁带。"
+      ],
+      "selected": "噢，这对于唱片的坏影响远甚于磁带。",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10062407",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 2410111,
+          "chapter_id": 24101,
+          "expected": "我可恨的鄉土啊"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "我可恨的乡土啊"
+      ],
+      "selected": "我可恨的乡土啊",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10062408",
+      "uses": [
+        {
+          "kind": "episode_subtitle",
+          "episode_id": 2410111,
+          "chapter_id": 24101,
+          "expected": "永遠！永遠——"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "永远！永远——"
+      ],
+      "selected": "永远！永远——",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10062409",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 2410112,
+          "chapter_id": 24101,
+          "expected": "三個音樂家"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "三个音乐家"
+      ],
+      "selected": "三个音乐家",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10062410",
+      "uses": [
+        {
+          "kind": "episode_subtitle",
+          "episode_id": 2410112,
+          "chapter_id": 24101,
+          "expected": "歌劇院，電臺，以及……鋸木廠。"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "歌剧院，电台，以及……锯木厂。"
+      ],
+      "selected": "歌剧院，电台，以及……锯木厂。",
+      "method": "single_context_match",
+      "score": 0.9127
+    },
+    {
+      "key": "language_10062411",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 2410113,
+          "chapter_id": 24101,
+          "expected": "太陽之死"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "太阳之死"
+      ],
+      "selected": "太阳之死",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10062412",
+      "uses": [
+        {
+          "kind": "episode_subtitle",
+          "episode_id": 2410113,
+          "chapter_id": 24101,
+          "expected": "一座漆黑的城市，包裹在風暴、雨水與仇恨中。"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "一座漆黑的城市，包裹在风暴、雨水与仇恨中。"
+      ],
+      "selected": "一座漆黑的城市，包裹在风暴、雨水与仇恨中。",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10062413",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 2410114,
+          "chapter_id": 24101,
+          "expected": "緊急通訊"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "紧急通讯"
+      ],
+      "selected": "紧急通讯",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10062414",
+      "uses": [
+        {
+          "kind": "episode_subtitle",
+          "episode_id": 2410114,
+          "chapter_id": 24101,
+          "expected": "一個好消息，與許多個壞消息。"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "一个好消息，与许多个坏消息。"
+      ],
+      "selected": "一个好消息，与许多个坏消息。",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10062415",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 2410115,
+          "chapter_id": 24101,
+          "expected": "海風在翻閱"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "海风儿在翻阅"
+      ],
+      "selected": "海风儿在翻阅",
+      "method": "single_context_match",
+      "score": 0.7304
+    },
+    {
+      "key": "language_10062416",
+      "uses": [
+        {
+          "kind": "episode_subtitle",
+          "episode_id": 2410115,
+          "chapter_id": 24101,
+          "expected": "是的，好孩子，那裡從不曾令你輾轉反側，牽腸掛肚。"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "是的，好孩子，那儿从不曾令你辗转反侧，牵肠挂肚。"
+      ],
+      "selected": "是的，好孩子，那儿从不曾令你辗转反侧，牵肠挂肚。",
+      "method": "single_context_match",
+      "score": 0.79
+    },
+    {
+      "key": "language_10062417",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 2410116,
+          "chapter_id": 24101,
+          "expected": "義大利之歌"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "意大利之歌"
+      ],
+      "selected": "意大利之歌",
+      "method": "single_context_match",
+      "score": 0.83
+    },
+    {
+      "key": "language_10062418",
+      "uses": [
+        {
+          "kind": "episode_subtitle",
+          "episode_id": 2410116,
+          "chapter_id": 24101,
+          "expected": "船槳是在這裡打磨的，浪花是從這裡翻湧的。並不是每陣風都追尋永存。"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "船桨是在这儿打磨的，浪花是从这儿扑腾的。并不是每阵风儿都追寻永存。"
+      ],
+      "selected": "船桨是在这儿打磨的，浪花是从这儿扑腾的。并不是每阵风儿都追寻永存。",
+      "method": "single_context_match",
+      "score": 0.8077
+    },
+    {
+      "key": "language_10062419",
+      "uses": [
+        {
+          "kind": "episode_subtitle",
+          "episode_id": 2410117,
+          "chapter_id": 24101,
+          "expected": "一段震顫靈魂的噪音，連搖滾歌迷也傾倒。"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "一段震颤灵魂的噪音，连摇滚歌迷也倾倒。"
+      ],
+      "selected": "一段震颤灵魂的噪音，连摇滚歌迷也倾倒。",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10062420",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 2410118,
+          "chapter_id": 24101,
+          "expected": "二十七歲俱樂部"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "二十七岁俱乐部"
+      ],
+      "selected": "二十七岁俱乐部",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10062421",
+      "uses": [
+        {
+          "kind": "episode_subtitle",
+          "episode_id": 2410118,
+          "chapter_id": 24101,
+          "expected": "搖滾不死。"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "摇滚不死。"
+      ],
+      "selected": "摇滚不死。",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10062422",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 2410119,
+          "chapter_id": 24101,
+          "expected": "我們稱作鄉愁之物"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "我们称作乡愁之物"
+      ],
+      "selected": "我们称作乡愁之物",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10062423",
+      "uses": [
+        {
+          "kind": "episode_subtitle",
+          "episode_id": 2410119,
+          "chapter_id": 24101,
+          "expected": "風中忽閃的羅盤草，河岸的水車發出咕嚕聲，人們所熟稔的。生活。"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "风中忽闪的罗盘草，河岸的水车发出咕噜声，人们所熟稔的。生活。"
+      ],
+      "selected": "风中忽闪的罗盘草，河岸的水车发出咕噜声，人们所熟稔的。生活。",
+      "method": "single_context_match",
+      "score": 0.9649
+    },
+    {
+      "key": "language_10062424",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 2410120,
+          "chapter_id": 24101,
+          "expected": "向別處"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "向别处"
+      ],
+      "selected": "向别处",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10062425",
+      "uses": [
+        {
+          "kind": "episode_subtitle",
+          "episode_id": 2410120,
+          "chapter_id": 24101,
+          "expected": "我們哪裡也不去。"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "我们哪儿也不去。"
+      ],
+      "selected": "我们哪儿也不去。",
+      "method": "single_context_match",
+      "score": 0.8768
+    },
+    {
+      "key": "language_10062426",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 2410121,
+          "chapter_id": 24101,
+          "expected": "最後一次告別"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "最后一次告别"
+      ],
+      "selected": "最后一次告别",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10062427",
+      "uses": [
+        {
+          "kind": "episode_subtitle",
+          "episode_id": 2410121,
+          "chapter_id": 24101,
+          "expected": "親愛的，自由的代價是什麼？"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "亲爱的，自由的代价是什么？"
+      ],
+      "selected": "亲爱的，自由的代价是什么？",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10062428",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 2410122,
+          "chapter_id": 24101,
+          "expected": "我不曾遺憾"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "我不曾遗憾"
+      ],
+      "selected": "我不曾遗憾",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10062429",
+      "uses": [
+        {
+          "kind": "episode_subtitle",
+          "episode_id": 2410122,
+          "chapter_id": 24101,
+          "expected": "一種有限的美麗，正在水中消逝。"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "一种有限的美丽，正在水中消逝。"
+      ],
+      "selected": "一种有限的美丽，正在水中消逝。",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10062430",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 2410123,
+          "chapter_id": 24101,
+          "expected": "海中升起的她"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "海中升起的她"
+      ],
+      "selected": "海中升起的她",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10062431",
+      "uses": [
+        {
+          "kind": "episode_subtitle",
+          "episode_id": 2410123,
+          "chapter_id": 24101,
+          "expected": "她從很遠的地方來，她有許多名字，她從未離開過你。"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "她从很远的地方来，她有许多名字，她从未离开过你。"
+      ],
+      "selected": "她从很远的地方来，她有许多名字，她从未离开过你。",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10062432",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 2450101,
+          "chapter_id": 24501,
+          "expected": "木桶寶座"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "木桶宝座\n\n  "
+      ],
+      "selected": "木桶宝座\n\n  ",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10062433",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 2450103,
+          "chapter_id": 24501,
+          "expected": "迴旋曲"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "回旋曲"
+      ],
+      "selected": "回旋曲",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10062434",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 2450104,
+          "chapter_id": 24501,
+          "expected": "熱情易逝"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "热情易逝"
+      ],
+      "selected": "热情易逝",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10062435",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 2450105,
+          "chapter_id": 24501,
+          "expected": "不可拆卸之物"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "不可拆卸之物"
+      ],
+      "selected": "不可拆卸之物",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10062436",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 2450106,
+          "chapter_id": 24501,
+          "expected": "位於世界中"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "位于世界中"
+      ],
+      "selected": "位于世界中",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10062437",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 2450107,
+          "chapter_id": 24501,
+          "expected": "故鄉渺茫"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "故乡渺茫"
+      ],
+      "selected": "故乡渺茫",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10062438",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 2450108,
+          "chapter_id": 24501,
+          "expected": "良夜多寧靜"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "良夜多宁静 "
+      ],
+      "selected": "良夜多宁静 ",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10062439",
+      "uses": [
+        {
+          "kind": "chapter_title",
+          "chapter_id": 1924,
+          "expected": "在路上"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "在路上"
+      ],
+      "selected": "在路上",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10065870",
+      "uses": [
+        {
+          "kind": "chapter_title",
+          "chapter_id": 25101,
+          "expected": "唐人街影话"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "唐人街影话"
+      ],
+      "selected": "唐人街影话",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10066479",
+      "uses": [
+        {
+          "kind": "chapter_title",
+          "chapter_id": 1921,
+          "expected": "鬼馬探靈記"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "鬼马探灵记"
+      ],
+      "selected": "鬼马探灵记",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10066567",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 192101,
+          "chapter_id": 1921,
+          "expected": "失蹤夜"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "失踪夜"
+      ],
+      "selected": "失踪夜",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10066568",
+      "uses": [
+        {
+          "kind": "episode_subtitle",
+          "episode_id": 192101,
+          "chapter_id": 1921,
+          "expected": "請非租客保持安靜。"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "请非租客保持安静。"
+      ],
+      "selected": "请非租客保持安静。",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10066569",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 192102,
+          "chapter_id": 1921,
+          "expected": "人小鬼大"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "人小鬼大"
+      ],
+      "selected": "人小鬼大",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10066570",
+      "uses": [
+        {
+          "kind": "episode_subtitle",
+          "episode_id": 192102,
+          "chapter_id": 1921,
+          "expected": "一位比天蛾更喜歡午夜的孩子。"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "一位比天蛾更喜欢午夜的孩子。"
+      ],
+      "selected": "一位比天蛾更喜欢午夜的孩子。",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10066571",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 192103,
+          "chapter_id": 1921,
+          "expected": "“入井須知”"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "“入井须知”"
+      ],
+      "selected": "“入井须知”",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10066572",
+      "uses": [
+        {
+          "kind": "episode_subtitle",
+          "episode_id": 192103,
+          "chapter_id": 1921,
+          "expected": "望向其中，只有黑暗如潮水吞咽。"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "望向其中，只有黑暗如潮水吞咽。"
+      ],
+      "selected": "望向其中，只有黑暗如潮水吞咽。",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10066573",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 192104,
+          "chapter_id": 1921,
+          "expected": "紅絲線"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "红丝线"
+      ],
+      "selected": "红丝线",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10066574",
+      "uses": [
+        {
+          "kind": "episode_subtitle",
+          "episode_id": 192104,
+          "chapter_id": 1921,
+          "expected": "解開恐懼的自縛。"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "解开恐惧的自缚。"
+      ],
+      "selected": "解开恐惧的自缚。",
+      "method": "single_context_match",
+      "score": 0.8768
+    },
+    {
+      "key": "language_10066575",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 192105,
+          "chapter_id": 1921,
+          "expected": "驚情回魂夜"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "惊情回魂夜"
+      ],
+      "selected": "惊情回魂夜",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10066576",
+      "uses": [
+        {
+          "kind": "episode_subtitle",
+          "episode_id": 192105,
+          "chapter_id": 1921,
+          "expected": "嬉戲只在午夜來臨時。"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "嬉戏只在午夜来临时。"
+      ],
+      "selected": "嬉戏只在午夜来临时。",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10066577",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 192106,
+          "chapter_id": 1921,
+          "expected": "苟且與恐懼"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "苟且与恐惧"
+      ],
+      "selected": "苟且与恐惧",
+      "method": "single_context_match",
+      "score": 0.83
+    },
+    {
+      "key": "language_10066578",
+      "uses": [
+        {
+          "kind": "episode_subtitle",
+          "episode_id": 192106,
+          "chapter_id": 1921,
+          "expected": "比害怕更甚的，是尚未到來之事。"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "比害怕更甚的，是尚未到来之事。"
+      ],
+      "selected": "比害怕更甚的，是尚未到来之事。",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10066579",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 192107,
+          "chapter_id": 1921,
+          "expected": "非英雄，無主義"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "非英雄，无主义"
+      ],
+      "selected": "非英雄，无主义",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10066580",
+      "uses": [
+        {
+          "kind": "episode_subtitle",
+          "episode_id": 192107,
+          "chapter_id": 1921,
+          "expected": "和局不會輸一半！"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "和局不会输一半！"
+      ],
+      "selected": "和局不会输一半！",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10066581",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 192108,
+          "chapter_id": 1921,
+          "expected": "算盡"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "算尽"
+      ],
+      "selected": "算尽",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10066582",
+      "uses": [
+        {
+          "kind": "episode_subtitle",
+          "episode_id": 192108,
+          "chapter_id": 1921,
+          "expected": "嘿，熟知禮節，就有意外之獲。"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "嘿，熟知礼节，就有意外之获。"
+      ],
+      "selected": "嘿，熟知礼节，就有意外之获。",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10069594",
+      "uses": [
+        {
+          "kind": "chapter_title",
+          "chapter_id": 109,
+          "expected": "瘋癲與文明"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "疯癫与文明"
+      ],
+      "selected": "疯癫与文明",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10070254",
+      "uses": [
+        {
+          "kind": "chapter_title",
+          "chapter_id": 1922,
+          "expected": "最後的電影"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "最后的电影"
+      ],
+      "selected": "最后的电影",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10070308",
+      "uses": [
+        {
+          "kind": "episode_subtitle",
+          "episode_id": 192208,
+          "chapter_id": 1922,
+          "expected": "正如她的名字。"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "正如她的名字。"
+      ],
+      "selected": "正如她的名字。",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10073040",
+      "uses": [
+        {
+          "kind": "chapter_title",
+          "chapter_id": 27101,
+          "expected": "1987宇宙組曲"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "1987宇宙组曲"
+      ],
+      "selected": "1987宇宙组曲",
+      "method": "single_context_match",
+      "score": 0.8917
+    },
+    {
+      "key": "language_10073125",
+      "uses": [
+        {
+          "kind": "chapter_title",
+          "chapter_id": 1923,
+          "expected": "海風的往事"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "海风的往事"
+      ],
+      "selected": "海风的往事",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10075500",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 30510109,
+          "chapter_id": 305101,
+          "expected": "秩序的黃昏"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "秩序的黄昏"
+      ],
+      "selected": "秩序的黄昏",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10075522",
+      "uses": [
+        {
+          "kind": "chapter_title",
+          "chapter_id": 305101,
+          "expected": "翡冷翠之春"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "翡冷翠之春"
+      ],
+      "selected": "翡冷翠之春",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10075768",
+      "uses": [
+        {
+          "kind": "chapter_title",
+          "chapter_id": 305201,
+          "expected": "入雅典記"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "入雅典记"
+      ],
+      "selected": "入雅典记",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10075777",
+      "uses": [
+        {
+          "kind": "episode_subtitle",
+          "episode_id": 30510109,
+          "chapter_id": 305101,
+          "expected": "很遺憾，這一切無關自由，而是關於秩序。"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "很遗憾，这一切无关自由，而是关于秩序。"
+      ],
+      "selected": "很遗憾，这一切无关自由，而是关于秩序。",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10080253",
+      "uses": [
+        {
+          "kind": "chapter_title",
+          "chapter_id": 110,
+          "expected": "复乐园"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "复乐园"
+      ],
+      "selected": "复乐园",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10087215",
+      "uses": [
+        {
+          "kind": "chapter_title",
+          "chapter_id": 111,
+          "expected": "行於漫漫長路上"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "行于漫漫长路上"
+      ],
+      "selected": "行于漫漫长路上",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10087357",
+      "uses": [
+        {
+          "kind": "chapter_title",
+          "chapter_id": 30601,
+          "expected": "三重賦格"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "三重赋格"
+      ],
+      "selected": "三重赋格",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10087358",
+      "uses": [
+        {
+          "kind": "chapter_title",
+          "chapter_id": 1925,
+          "expected": "鑽石遊戲"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "钻石游戏"
+      ],
+      "selected": "钻石游戏",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10087417",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 3060101,
+          "chapter_id": 30601,
+          "expected": "疲憊主義"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "疲惫主义"
+      ],
+      "selected": "疲惫主义",
+      "method": "single_context_match",
+      "score": 0.79
+    },
+    {
+      "key": "language_10087418",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 3060102,
+          "chapter_id": 30601,
+          "expected": "來自過去"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "来自过去"
+      ],
+      "selected": "来自过去",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10087419",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 3060103,
+          "chapter_id": 30601,
+          "expected": "蟬蛻的譫妄"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "蝉蜕的谵妄"
+      ],
+      "selected": "蝉蜕的谵妄",
+      "method": "single_context_match",
+      "score": 0.83
+    },
+    {
+      "key": "language_10087420",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 3060104,
+          "chapter_id": 30601,
+          "expected": "忍耐，忍耐"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "忍耐，忍耐"
+      ],
+      "selected": "忍耐，忍耐",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10087421",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 3060105,
+          "chapter_id": 30601,
+          "expected": "蜻蜓已死"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "蜻蜓已死"
+      ],
+      "selected": "蜻蜓已死",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10087422",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 3060106,
+          "chapter_id": 30601,
+          "expected": "空心人"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "空心人"
+      ],
+      "selected": "空心人",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10087423",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 3060107,
+          "chapter_id": 30601,
+          "expected": "燃燒的空白"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "燃烧的空白"
+      ],
+      "selected": "燃烧的空白",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10087424",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 3060108,
+          "chapter_id": 30601,
+          "expected": "灰燼賦格"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "灰烬赋格"
+      ],
+      "selected": "灰烬赋格",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10090442",
+      "uses": [
+        {
+          "kind": "chapter_title",
+          "chapter_id": 31101,
+          "expected": "长夜鸣笛"
+        }
+      ],
+      "candidate_count": 0,
+      "candidates": [],
+      "selected": "",
+      "method": "unresolved",
+      "score": 0.0
+    },
+    {
+      "key": "language_10097658",
+      "uses": [
+        {
+          "kind": "chapter_title",
+          "chapter_id": 32101,
+          "expected": "迁流的盛宴"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "迁流的盛宴"
+      ],
+      "selected": "迁流的盛宴",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10104840",
+      "uses": [
+        {
+          "kind": "chapter_title",
+          "chapter_id": 112,
+          "expected": "遠征記"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "远征记"
+      ],
+      "selected": "远征记",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10109877",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 3470101,
+          "chapter_id": 34701,
+          "expected": "白屋"
+        },
+        {
+          "kind": "episode_title",
+          "episode_id": 3470108,
+          "chapter_id": 34701,
+          "expected": "白屋"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "白屋"
+      ],
+      "selected": "白屋",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10109878",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 3470102,
+          "chapter_id": 34701,
+          "expected": "訪虎"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "访虎"
+      ],
+      "selected": "访虎",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10109879",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 3470103,
+          "chapter_id": 34701,
+          "expected": "舊友"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "旧友"
+      ],
+      "selected": "旧友",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10109880",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 3470104,
+          "chapter_id": 34701,
+          "expected": "碎玉"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "碎玉"
+      ],
+      "selected": "碎玉",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10109881",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 3470105,
+          "chapter_id": 34701,
+          "expected": "飛草"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "飞草"
+      ],
+      "selected": "飞草",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10109882",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 3470106,
+          "chapter_id": 34701,
+          "expected": "夜奔"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "夜奔"
+      ],
+      "selected": "夜奔",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10109883",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 3470107,
+          "chapter_id": 34701,
+          "expected": "醉宴"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "醉宴"
+      ],
+      "selected": "醉宴",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10109905",
+      "uses": [
+        {
+          "kind": "chapter_title",
+          "chapter_id": 34101,
+          "expected": "不老春"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "不老春"
+      ],
+      "selected": "不老春",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10110100",
+      "uses": [
+        {
+          "kind": "chapter_title",
+          "chapter_id": 34701,
+          "expected": "打虎記"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "打虎记"
+      ],
+      "selected": "打虎记",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10115673",
+      "uses": [
+        {
+          "kind": "chapter_title",
+          "chapter_id": 35101,
+          "expected": "綠松石蛇俱樂部"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "绿松石蛇俱乐部"
+      ],
+      "selected": "绿松石蛇俱乐部",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10118666",
+      "uses": [
+        {
+          "kind": "chapter_title",
+          "chapter_id": 36101,
+          "expected": "人们向何处去"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "人们向何处去"
+      ],
+      "selected": "人们向何处去",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10120191",
+      "uses": [
+        {
+          "kind": "chapter_title",
+          "chapter_id": 385101,
+          "expected": "聚合浪潮"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "聚合浪潮"
+      ],
+      "selected": "聚合浪潮",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10120192",
+      "uses": [
+        {
+          "kind": "chapter_title",
+          "chapter_id": 113,
+          "expected": "他者的悲哀"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "他者的悲哀"
+      ],
+      "selected": "他者的悲哀",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_10120201",
+      "uses": [
+        {
+          "kind": "chapter_title",
+          "chapter_id": 38101,
+          "expected": ""
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "世纪末尺度"
+      ],
+      "selected": "世纪末尺度",
+      "method": "single_candidate",
+      "score": 1.0
+    },
+    {
+      "key": "language_90001041",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 1860308,
+          "chapter_id": 18603,
+          "expected": "同行者"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "同行者"
+      ],
+      "selected": "同行者",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_90001052",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 191401,
+          "chapter_id": 1914,
+          "expected": "惡作劇"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "恶作剧"
+      ],
+      "selected": "恶作剧",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_90001054",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 191502,
+          "chapter_id": 1915,
+          "expected": "臨時演員"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "临时演员"
+      ],
+      "selected": "临时演员",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_90001082",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 2360108,
+          "chapter_id": 23601,
+          "expected": "謎底"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "谜底"
+      ],
+      "selected": "谜底",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_90001099",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 2410109,
+          "chapter_id": 24101,
+          "expected": "戰爭與和平"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "战争与和平"
+      ],
+      "selected": "战争与和平",
+      "method": "single_context_match",
+      "score": 1.0
+    },
+    {
+      "key": "language_90001100",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 2410117,
+          "chapter_id": 24101,
+          "expected": "不和諧音"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "不和谐音"
+      ],
+      "selected": "不和谐音",
+      "method": "single_context_match",
+      "score": 0.79
+    },
+    {
+      "key": "language_90001102",
+      "uses": [
+        {
+          "kind": "episode_title",
+          "episode_id": 2450102,
+          "chapter_id": 24501,
+          "expected": "應許之地"
+        }
+      ],
+      "candidate_count": 1,
+      "candidates": [
+        "应许之地"
+      ],
+      "selected": "应许之地",
+      "method": "single_context_match",
+      "score": 1.0
+    }
+  ]
+}

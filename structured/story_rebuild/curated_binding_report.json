@@ -1,0 +1,90 @@
+{
+  "input": "output\\story_rebuild\\episode_script_bindings_rebuilt.json",
+  "output": "output\\story_rebuild\\episode_script_bindings_curated.json",
+  "changes": [
+    {
+      "action": "transfer",
+      "from": 20707,
+      "to": 10712,
+      "scripts": [
+        100717,
+        100718
+      ],
+      "reason": "canonical Part 12 mirror"
+    },
+    {
+      "action": "append",
+      "from": 2810105,
+      "to": 11023,
+      "scripts": [
+        101034
+      ],
+      "reason": "第十章10-22.4 continuation"
+    },
+    {
+      "action": "replace_chapter_binding",
+      "chapter_id": 19101,
+      "episodes": 7,
+      "scripts": [
+        307901,
+        307902,
+        307903,
+        307904,
+        307905,
+        307906,
+        307907,
+        307908,
+        307909,
+        307910,
+        307911
+      ],
+      "reason": "complete Character Story | 6 sequence"
+    },
+    {
+      "action": "replace_chapter_binding",
+      "chapter_id": 22911,
+      "episodes": 9,
+      "scripts": [
+        310200,
+        310201,
+        310202,
+        310203,
+        310204,
+        310205,
+        310206,
+        310207,
+        310208,
+        310209,
+        310210,
+        310211,
+        310212,
+        310213
+      ],
+      "reason": "complete internal 00-08 series"
+    },
+    {
+      "action": "override_chapter_category",
+      "chapter_id": 305101,
+      "chapter_title": "翡冷翠之春 / La Primavera di Firenze",
+      "category": "activity",
+      "episodes": 16,
+      "reason": "verified event-story classification"
+    },
+    {
+      "action": "override_chapter_category",
+      "chapter_id": 305201,
+      "chapter_title": "入雅典记 / DRAMA IN ATHENS",
+      "category": "activity",
+      "episodes": 57,
+      "reason": "verified event-story classification"
+    },
+    {
+      "action": "override_chapter_category",
+      "chapter_id": 385101,
+      "chapter_title": "聚合浪潮 / Polymerized Dreams",
+      "category": "activity",
+      "episodes": 16,
+      "reason": "verified event-story classification"
+    }
+  ]
+}

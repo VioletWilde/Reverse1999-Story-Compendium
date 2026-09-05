@@ -1,0 +1,324 @@
+{
+  "format": "reverse1999-story-final-validation-v1",
+  "reader_root": "C:\\Users\\airey\\reverse1999\\output\\story_reader_complete_runtime",
+  "reader_episode_count": 987,
+  "reader_chapter_count": 78,
+  "category_stats": {
+    "mainline": {
+      "chapters": 14,
+      "episodes": 288,
+      "body_items": 31336
+    },
+    "activity": {
+      "chapters": 19,
+      "episodes": 356,
+      "body_items": 40784
+    },
+    "character": {
+      "chapters": 19,
+      "episodes": 159,
+      "body_items": 17083
+    },
+    "anecdote": {
+      "chapters": 26,
+      "episodes": 184,
+      "body_items": 18431
+    }
+  },
+  "body_validation": {
+    "empty_body_episode_ids": [],
+    "missing_script_files": [],
+    "graph_coverage_failures": [],
+    "reader_warnings": []
+  },
+  "metadata_validation": {
+    "placeholder_title_episode_ids": [],
+    "placeholder_chapter_ids": [],
+    "missing_subtitle_with_source_key": [],
+    "structurally_no_subtitle_count": 122,
+    "structurally_no_subtitle_episode_ids": [
+      229111,
+      229112,
+      1660101,
+      1660102,
+      1660103,
+      1660104,
+      1660105,
+      1660106,
+      1660107,
+      1660108,
+      1660301,
+      1660302,
+      1660303,
+      1660304,
+      1660305,
+      1660306,
+      1660307,
+      1660308,
+      1770101,
+      1770102,
+      1770103,
+      1770104,
+      1770105,
+      1770106,
+      1770107,
+      1770108,
+      1770301,
+      1770302,
+      1770303,
+      1770304,
+      1770305,
+      1770306,
+      1770307,
+      1770308,
+      1860101,
+      1860102,
+      1860103,
+      1860104,
+      1860105,
+      1860106,
+      1860107,
+      1860108,
+      1860301,
+      1860302,
+      1860303,
+      1860304,
+      1860305,
+      1860306,
+      1860307,
+      1860308,
+      1910106,
+      1960101,
+      1960102,
+      1960103,
+      1960104,
+      1960105,
+      1960106,
+      1960107,
+      1960108,
+      1960301,
+      1960302,
+      1960303,
+      1960304,
+      1960305,
+      1960306,
+      1960307,
+      1960308,
+      2060101,
+      2060102,
+      2060103,
+      2060104,
+      2060105,
+      2060106,
+      2060107,
+      2060108,
+      2060301,
+      2060302,
+      2060303,
+      2060304,
+      2060305,
+      2060306,
+      2060307,
+      2060308,
+      2350101,
+      2350102,
+      2350103,
+      2350104,
+      2350105,
+      2350106,
+      2350107,
+      2350108,
+      2360101,
+      2360102,
+      2360103,
+      2360104,
+      2360105,
+      2360106,
+      2360108,
+      2450101,
+      2450102,
+      2450103,
+      2450104,
+      2450105,
+      2450106,
+      2450107,
+      2450108,
+      3060101,
+      3060102,
+      3060103,
+      3060104,
+      3060105,
+      3060106,
+      3060107,
+      3060108,
+      3470101,
+      3470102,
+      3470103,
+      3470104,
+      3470105,
+      3470106,
+      3470107,
+      3470108
+    ],
+    "fallback_field_counts": {},
+    "chapter_title_sources": {
+      "runtime_zh_CN": 70,
+      "derived_internal": 7,
+      "archive_zh_CN": 1
+    }
+  },
+  "binding_coverage": {
+    "episode_count": 3668,
+    "episodes_with_scripts": 993,
+    "script_count": 2228,
+    "bound_script_count": 1338,
+    "unbound_script_count": 890,
+    "historical_episode_additions": 62,
+    "internal_series_addition_count": 18,
+    "rejected_binding_count": 30,
+    "duplicate_claim_count": 11
+  },
+  "unresolved": {
+    "kind_counts": {
+      "misc_or_gameplay": 634,
+      "no_visible_zh_cn_body": 13,
+      "pv_or_promo": 32,
+      "story_candidate": 211
+    },
+    "story_candidate_categories": {
+      "mainline": 2,
+      "activity": 209
+    },
+    "top_story_candidate_families": [
+      {
+        "family": "【1.9】地牢剧情",
+        "script_count": 11
+      },
+      {
+        "family": "【2.2】荒原经营引导剧情",
+        "script_count": 9
+      },
+      {
+        "family": "雷米特杯兑换活动",
+        "script_count": 7
+      },
+      {
+        "family": "【1.6】地牢剧情",
+        "script_count": 6
+      },
+      {
+        "family": "雷米特杯赛季活动",
+        "script_count": 5
+      },
+      {
+        "family": "【1.6】赛季剧情",
+        "script_count": 5
+      },
+      {
+        "family": "【1.3】最初的诗赛季剧情",
+        "script_count": 4
+      },
+      {
+        "family": "【1.4】赛季剧情",
+        "script_count": 4
+      },
+      {
+        "family": "【2.4】地牢剧情",
+        "script_count": 4
+      },
+      {
+        "family": "【2.6】地牢剧情",
+        "script_count": 4
+      },
+      {
+        "family": "【3.2】地牢剧情",
+        "script_count": 3
+      },
+      {
+        "family": "【1.8】地图支线",
+        "script_count": 3
+      },
+      {
+        "family": "【3.1】雨前漫游",
+        "script_count": 3
+      },
+      {
+        "family": "【2.2】荒原经营驯化【槲寄生】",
+        "script_count": 3
+      },
+      {
+        "family": "【2.2】荒原经营驯化【红弩箭】",
+        "script_count": 3
+      },
+      {
+        "family": "【2.2】荒原经营驯化【小春雀儿】",
+        "script_count": 3
+      },
+      {
+        "family": "【2.2】荒原经营驯化【苏芙比】",
+        "script_count": 3
+      },
+      {
+        "family": "【2.2】荒原经营驯化【X】",
+        "script_count": 3
+      },
+      {
+        "family": "【2.2】荒原经营驯化【弄臣】",
+        "script_count": 3
+      },
+      {
+        "family": "【2.2】荒原经营驯化【狼群】",
+        "script_count": 3
+      }
+    ],
+    "mainline_candidates": [
+      {
+        "script_id": 101037,
+        "internal_title": "第十章10-25",
+        "visible_zh_cn_lines": 48
+      },
+      {
+        "script_id": 800008,
+        "internal_title": "【S02】啁啾表【收藏品】",
+        "visible_zh_cn_lines": 22
+      }
+    ],
+    "appendix_validation": {
+      "format": "reverse1999-unbound-story-appendix-validation-v1",
+      "expected_candidate_scripts": 211,
+      "exported_candidate_scripts": 211,
+      "family_count": 74,
+      "total_zh_cn_body_nodes": 5308,
+      "category_counts": {
+        "activity": 209,
+        "mainline": 2
+      },
+      "missing_script_ids": [],
+      "empty_body_script_ids": [],
+      "source_failures": [],
+      "passed": true
+    }
+  },
+  "repull": {
+    "identical_to_original": true,
+    "bundle_hash": "cb7baaa1e176dd91dbb5aff21abcb7b0",
+    "groups": 2228,
+    "steps": 2228,
+    "failures": []
+  },
+  "runtime_capture": {
+    "status": "complete",
+    "error": "",
+    "metadata_selection": {
+      "manifest_key_count": 365,
+      "resolved_key_count": 364,
+      "selected_key_count": 364,
+      "unresolved_key_count": 1,
+      "applied_use_counts": {
+        "chapter_title": 70,
+        "episode_title": 209,
+        "episode_subtitle": 87
+      }
+    }
+  }
+}
