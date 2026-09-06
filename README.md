@@ -19,7 +19,7 @@
 
 ## 离线网页阅读包
 
-不熟悉 Markdown 或希望离线阅读时，可以从 [Releases 发布页](https://github.com/VioletWilde/Reverse-1999-story-archive/releases) 下载 `Reverse-1999-剧情网页版.zip`。解压整个 ZIP 后，双击其中的 `开始阅读.html`，即可在浏览器中使用：
+不熟悉 Markdown 或希望离线阅读时，可以从 [Releases 发布页](https://github.com/VioletWilde/Reverse-1999-story-archive/releases) 下载 `Reverse-1999-Story-Reader.zip`。解压整个 ZIP 后，双击其中的 `开始阅读.html`，即可在浏览器中使用：
 
 - 简体中文、繁體中文、English、日本語、한국어切换
 - 按主线、活动、角色剧情和轶事浏览

@@ -2,6 +2,7 @@ import fs from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath, pathToFileURL } from 'node:url';
 import { createRequire } from 'node:module';
+import { deflateRawSync } from 'node:zlib';
 
 const scriptDir = path.dirname(fileURLToPath(import.meta.url));
 const rootDir = path.dirname(scriptDir);
@@ -210,3 +211,89 @@ await fs.writeFile(path.join(outputDir, '开始阅读.html'), homeHtml, 'utf8');
 await fs.writeFile(path.join(outputDir, '使用说明.txt'), `Reverse: 1999 剧情文本档案\r\n\r\n1. 解压整个 ZIP 文件。\r\n2. 双击“开始阅读.html”。\r\n3. 使用浏览器选择语言、搜索并阅读章节。\r\n\r\n本阅读包可完全离线使用，请勿单独移动其中的 HTML 或 assets 文件。\r\n`, 'utf8');
 
 console.log(`Generated ${documents.length} story pages in ${outputDir}`);
+
+// Create the distributable ZIP with Node so entry paths always use forward
+// slashes and names are stored as UTF-8 (flag bit 11). Compress-Archive and
+// .NET Framework write backslash paths that GitHub release uploads reject.
+const zipPath = path.join(distDir, 'Reverse-1999-Story-Reader.zip');
+
+const crcTable = new Int32Array(256).map((_, n) => {
+  let c = n;
+  for (let k = 0; k < 8; k += 1) c = c & 1 ? 0xEDB88320 ^ (c >>> 1) : c >>> 1;
+  return c;
+});
+const crc32 = (buffer) => {
+  let c = 0xFFFFFFFF;
+  for (const byte of buffer) c = crcTable[(c ^ byte) & 0xFF] ^ (c >>> 8);
+  return (c ^ 0xFFFFFFFF) >>> 0;
+};
+const dosDateTime = (date) => {
+  const time = (date.getHours() << 11) | (date.getMinutes() << 5) | (date.getSeconds() >> 1);
+  const day = ((date.getFullYear() - 1980) << 9) | ((date.getMonth() + 1) << 5) | date.getDate();
+  return { time, day };
+};
+
+async function collectFiles(dir, base = dir) {
+  const entries = await fs.readdir(dir, { withFileTypes: true });
+  const files = [];
+  for (const entry of entries) {
+    const full = path.join(dir, entry.name);
+    if (entry.isDirectory()) files.push(...await collectFiles(full, base));
+    else if (entry.isFile()) files.push({ full, rel: path.relative(base, full).split(path.sep).join('/') });
+  }
+  return files;
+}
+
+const zipEntries = [];
+const chunks = [];
+let offset = 0;
+for (const file of await collectFiles(outputDir)) {
+  const name = Buffer.from(file.rel, 'utf8');
+  const data = await fs.readFile(file.full);
+  const compressed = deflateRawSync(data, { level: 9 });
+  const crc = crc32(data);
+  const { time, day } = dosDateTime(new Date());
+  const local = Buffer.alloc(30);
+  local.writeUInt32LE(0x04034B50, 0);
+  local.writeUInt16LE(20, 4);            // version needed
+  local.writeUInt16LE(0x0800, 6);        // UTF-8 filename flag
+  local.writeUInt16LE(8, 8);             // deflate
+  local.writeUInt16LE(time, 10);
+  local.writeUInt16LE(day, 12);
+  local.writeUInt32LE(crc, 14);
+  local.writeUInt32LE(compressed.length, 18);
+  local.writeUInt32LE(data.length, 22);
+  local.writeUInt16LE(name.length, 26);
+  local.writeUInt16LE(0, 28);
+  chunks.push(local, name, compressed);
+  zipEntries.push({ name, crc, compressed, data, time, day, offset });
+  offset += 30 + name.length + compressed.length;
+}
+
+const central = [];
+for (const entry of zipEntries) {
+  const header = Buffer.alloc(46);
+  header.writeUInt32LE(0x02014B50, 0);
+  header.writeUInt16LE(20, 4);           // version made by
+  header.writeUInt16LE(20, 6);           // version needed
+  header.writeUInt16LE(0x0800, 8);       // UTF-8 filename flag
+  header.writeUInt16LE(8, 10);
+  header.writeUInt16LE(entry.time, 12);
+  header.writeUInt16LE(entry.day, 14);
+  header.writeUInt32LE(entry.crc, 16);
+  header.writeUInt32LE(entry.compressed.length, 20);
+  header.writeUInt32LE(entry.data.length, 24);
+  header.writeUInt16LE(entry.name.length, 28);
+  header.writeUInt32LE(entry.offset, 42);
+  central.push(header, entry.name);
+}
+const centralSize = central.reduce((sum, chunk) => sum + chunk.length, 0);
+const end = Buffer.alloc(22);
+end.writeUInt32LE(0x06054B50, 0);
+end.writeUInt16LE(zipEntries.length, 8);
+end.writeUInt16LE(zipEntries.length, 10);
+end.writeUInt32LE(centralSize, 12);
+end.writeUInt32LE(offset, 16);
+
+await fs.writeFile(zipPath, Buffer.concat([...chunks, ...central, end]));
+console.log(`Offline reader created: ${zipPath}`);
