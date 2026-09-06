@@ -1,5 +1,9 @@
 # Charlie — Character Story
 
+<!-- reading-navigation:start -->
+[← Previous：Oliver Fog — Character Story](1901-Oliver%20Fog%20%E2%80%94%20Character%20Story.md) · [Story index](../README.md) · [Next：Dikke — Character Story →](1903-Dikke%20%E2%80%94%20Character%20Story.md)
+<!-- reading-navigation:end -->
+
 - Category: Anecdotes
 - Chapter ID: `1902`
 - Story Units: `6`
@@ -969,3 +973,9 @@ It was the same look she always wore when she stepped onto the stage.
 **The Fool**: —But all this remaining the same, I hope you enjoyed the story.
 
 > **Title Card:** THE END
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：Oliver Fog — Character Story](1901-Oliver%20Fog%20%E2%80%94%20Character%20Story.md) · [Story index](../README.md) · [Next：Dikke — Character Story →](1903-Dikke%20%E2%80%94%20Character%20Story.md)
+<!-- reading-navigation:end -->

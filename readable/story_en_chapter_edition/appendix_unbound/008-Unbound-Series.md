@@ -1,5 +1,9 @@
 # Unbound Series 008
 
+<!-- reading-navigation:start -->
+[← Previous：Unbound Series 007](007-Unbound-Series.md) · [Story index](../README.md) · [Next：Unbound Series 009 →](009-Unbound-Series.md)
+<!-- reading-navigation:end -->
+
 > These scripts contain readable story text but do not yet have a verified chapter binding.
 
 - Candidate Scripts: `2`
@@ -97,3 +101,9 @@ She notices your arrival, but her eyes are still fixed on the sea.
 **Thirty-seven**: Sophia will love it too! ... If she comes back.
 
 - **Choice:** I should get going
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：Unbound Series 007](007-Unbound-Series.md) · [Story index](../README.md) · [Next：Unbound Series 009 →](009-Unbound-Series.md)
+<!-- reading-navigation:end -->

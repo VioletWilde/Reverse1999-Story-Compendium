@@ -1,5 +1,9 @@
 # Spring Unending
 
+<!-- reading-navigation:start -->
+[← Previous：A Flowing Feast](32101-A%20Flowing%20Feast.md) · [Story index](../README.md) · [Next：The Turquoise Serpent Club →](35101-The%20Turquoise%20Serpent%20Club.md)
+<!-- reading-navigation:end -->
+
 - Category: Event Stories
 - Chapter ID: `34101`
 - Story Units: `22`
@@ -5095,3 +5099,9 @@ She watches the fish as they bob up from the lake, surfacing one moment, diving 
 One jumps up and vanishes away the moment it hits the water.
 
 **Paper Heron**: It was all but a splash in the pond.
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：A Flowing Feast](32101-A%20Flowing%20Feast.md) · [Story index](../README.md) · [Next：The Turquoise Serpent Club →](35101-The%20Turquoise%20Serpent%20Club.md)
+<!-- reading-navigation:end -->

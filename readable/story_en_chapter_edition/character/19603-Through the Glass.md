@@ -1,5 +1,9 @@
 # Through the Glass
 
+<!-- reading-navigation:start -->
+[← Previous：Flying to the Past](19601-Flying%20to%20the%20Past.md) · [Story index](../README.md) · [Next：The San Francisco Kids →](20601-The%20San%20Francisco%20Kids.md)
+<!-- reading-navigation:end -->
+
 - Category: Character Stories
 - Chapter ID: `19603`
 - Story Units: `8`
@@ -1799,3 +1803,9 @@ She points through the gate. Outside, the moon tenderly climbs up the sky.
 She walks outside without looking back.
 
 **Kakania**: After all, the path before us is the only way ahead.
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：Flying to the Past](19601-Flying%20to%20the%20Past.md) · [Story index](../README.md) · [Next：The San Francisco Kids →](20601-The%20San%20Francisco%20Kids.md)
+<!-- reading-navigation:end -->

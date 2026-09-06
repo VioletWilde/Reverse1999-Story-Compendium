@@ -1,5 +1,9 @@
 # Where the Fire Starts
 
+<!-- reading-navigation:start -->
+[← Previous：Only Water Springs Know](1914-Only%20Water%20Springs%20Know.md) · [Story index](../README.md) · [Next：Flower Power →](1916-Flower%20Power.md)
+<!-- reading-navigation:end -->
+
 - Category: Anecdotes
 - Chapter ID: `1915`
 - Story Units: `6`
@@ -1121,3 +1125,9 @@ March 14, 18:00, clear.
 At the end of our film, the protagonist drives off into the sunset, alone, in a rented car.
 
 She knows—its loyal groans and the wind rushing past her will always be intertwined with those memories.
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：Only Water Springs Know](1914-Only%20Water%20Springs%20Know.md) · [Story index](../README.md) · [Next：Flower Power →](1916-Flower%20Power.md)
+<!-- reading-navigation:end -->

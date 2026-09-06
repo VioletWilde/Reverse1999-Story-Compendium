@@ -1,5 +1,9 @@
 # Unbound Series 024
 
+<!-- reading-navigation:start -->
+[← Previous：Unbound Series 023](023-Unbound-Series.md) · [Story index](../README.md) · [Next：Unbound Series 025 →](025-Unbound-Series.md)
+<!-- reading-navigation:end -->
+
 > These scripts contain readable story text but do not yet have a verified chapter binding.
 
 - Candidate Scripts: `1`
@@ -53,3 +57,9 @@ Sotheby's fantastic imaginings of the tropics are interrupted as the owner of th
 **Vertin**: Sorry to interrupt you; I'll leave as soon as I'm done.
 
 **Vertin**: The Foundation has assigned us a new task. We'll be heading out to São Paulo soon.
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：Unbound Series 023](023-Unbound-Series.md) · [Story index](../README.md) · [Next：Unbound Series 025 →](025-Unbound-Series.md)
+<!-- reading-navigation:end -->

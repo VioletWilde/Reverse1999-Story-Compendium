@@ -1,5 +1,9 @@
 # Unbound Series 050
 
+<!-- reading-navigation:start -->
+[← Previous：Unbound Series 049](049-Unbound-Series.md) · [Story index](../README.md) · [Next：Unbound Series 051 →](051-Unbound-Series.md)
+<!-- reading-navigation:end -->
+
 > These scripts contain readable story text but do not yet have a verified chapter binding.
 
 - Candidate Scripts: `3`
@@ -25,3 +29,9 @@
 ...
 
 **Lilya**: You need more training, rookie.
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：Unbound Series 049](049-Unbound-Series.md) · [Story index](../README.md) · [Next：Unbound Series 051 →](051-Unbound-Series.md)
+<!-- reading-navigation:end -->

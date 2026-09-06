@@ -1,5 +1,9 @@
 # E lucevan le stelle
 
+<!-- reading-navigation:start -->
+[← Previous：The Prisoner in The Cave](105-The%20Prisoner%20in%20The%20Cave.md) · [Story index](../README.md) · [Next：Vereinsamt →](107-Vereinsamt.md)
+<!-- reading-navigation:end -->
+
 - Category: Main Story
 - Chapter ID: `106`
 - Story Units: `24`
@@ -5733,3 +5737,9 @@ This time, though, it brings good news.
 **Lucy**: In the 22 hours before the "Storm" arrives, the whole world is our proving ground.
 
 > **Title Card:** THE END
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：The Prisoner in The Cave](105-The%20Prisoner%20in%20The%20Cave.md) · [Story index](../README.md) · [Next：Vereinsamt →](107-Vereinsamt.md)
+<!-- reading-navigation:end -->

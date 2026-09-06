@@ -1,5 +1,9 @@
 # Oliver Fog — Character Story
 
+<!-- reading-navigation:start -->
+[Story index](../README.md) · [Next：Charlie — Character Story →](1902-Charlie%20%E2%80%94%20Character%20Story.md)
+<!-- reading-navigation:end -->
+
 - Category: Anecdotes
 - Chapter ID: `1901`
 - Story Units: `7`
@@ -950,3 +954,9 @@ I found myself weeping, the tears falling beyond my control.
 **Oliver Fog**: Oliver Fog, the Fogwalker of London.
 
 > **Title Card:** THE END
+
+---
+
+<!-- reading-navigation:start -->
+[Story index](../README.md) · [Next：Charlie — Character Story →](1902-Charlie%20%E2%80%94%20Character%20Story.md)
+<!-- reading-navigation:end -->

@@ -1,5 +1,9 @@
 # Unbound Series 022
 
+<!-- reading-navigation:start -->
+[← Previous：Unbound Series 021](021-Unbound-Series.md) · [Story index](../README.md) · [Next：Unbound Series 023 →](023-Unbound-Series.md)
+<!-- reading-navigation:end -->
+
 > These scripts contain readable story text but do not yet have a verified chapter binding.
 
 - Candidate Scripts: `11`
@@ -2567,3 +2571,9 @@ A familiar voice echoes from the communication device.
 **Semmelweis**: Thank you.
 
 > **Title Card:** THE END
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：Unbound Series 021](021-Unbound-Series.md) · [Story index](../README.md) · [Next：Unbound Series 023 →](023-Unbound-Series.md)
+<!-- reading-navigation:end -->

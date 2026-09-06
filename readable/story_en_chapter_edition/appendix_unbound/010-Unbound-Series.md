@@ -1,5 +1,9 @@
 # Unbound Series 010
 
+<!-- reading-navigation:start -->
+[← Previous：Unbound Series 009](009-Unbound-Series.md) · [Story index](../README.md) · [Next：Unbound Series 011 →](011-Unbound-Series.md)
+<!-- reading-navigation:end -->
+
 > These scripts contain readable story text but do not yet have a verified chapter binding.
 
 - Candidate Scripts: `2`
@@ -89,3 +93,9 @@ It appears to resemble a catapult.
 **X**: But he also has a lot of work to do, so I assume he'll be there a few days and will have to end the strike as deadlines approach.
 
 - **Choice:** I'd better get going
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：Unbound Series 009](009-Unbound-Series.md) · [Story index](../README.md) · [Next：Unbound Series 011 →](011-Unbound-Series.md)
+<!-- reading-navigation:end -->

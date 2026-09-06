@@ -1,5 +1,9 @@
 # On Another's Sorrow
 
+<!-- reading-navigation:start -->
+[← Previous：The Campaign's Tale](112-The%20Campaign%27s%20Tale.md) · [Story index](../README.md)
+<!-- reading-navigation:end -->
+
 - Category: Main Story
 - Chapter ID: `113`
 - Story Units: `25`
@@ -6684,3 +6688,9 @@ He grips her cloak with his sharp talons and takes flight, bringing her up into 
 **Rhiannon**: I think he's taking me to the nearest town. Once you're out, head north. You can't miss it. I'll see you there!
 
 Glyndŵr flies low with Rhiannon still in his grasp. Together, they soar off into the Welsh mountains beyond the Tylwyth Teg Berry garden.
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：The Campaign's Tale](112-The%20Campaign%27s%20Tale.md) · [Story index](../README.md)
+<!-- reading-navigation:end -->

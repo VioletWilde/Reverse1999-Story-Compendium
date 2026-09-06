@@ -1,5 +1,9 @@
 # Pulp Comedy Dirges
 
+<!-- reading-navigation:start -->
+[← Previous：Erick — Character Story](1904-Erick%20%E2%80%94%20Character%20Story.md) · [Story index](../README.md) · [Next：Back to Earth →](1906-Back%20to%20Earth.md)
+<!-- reading-navigation:end -->
+
 - Category: Anecdotes
 - Chapter ID: `1905`
 - Story Units: `6`
@@ -1411,3 +1415,9 @@ Now they make jam and pickled cucumbers together.<br>They have opened a family s
 **aliEn T**: To my sweet ... darling ... C-00138 ...
 
 > **Title Card:** THE END
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：Erick — Character Story](1904-Erick%20%E2%80%94%20Character%20Story.md) · [Story index](../README.md) · [Next：Back to Earth →](1906-Back%20to%20Earth.md)
+<!-- reading-navigation:end -->

@@ -1,5 +1,9 @@
 # Beyond the Coastline
 
+<!-- reading-navigation:start -->
+[← Previous：Night Escapades on Cross Street](23601-Night%20Escapades%20on%20Cross%20Street.md) · [Story index](../README.md) · [Next：Fuga a 3 Soggetti →](30601-Fuga%20a%203%20Soggetti.md)
+<!-- reading-navigation:end -->
+
 - Category: Character Stories
 - Chapter ID: `24501`
 - Story Units: `8`
@@ -1325,3 +1329,9 @@ Flowers, applause, cheers, lubricant, the golden sun, and a thousand shadows.
 She gently kisses the dented edge of the medal.
 
 **Willow**: Good night, my friend.
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：Night Escapades on Cross Street](23601-Night%20Escapades%20on%20Cross%20Street.md) · [Story index](../README.md) · [Next：Fuga a 3 Soggetti →](30601-Fuga%20a%203%20Soggetti.md)
+<!-- reading-navigation:end -->

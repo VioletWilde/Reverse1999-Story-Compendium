@@ -1,5 +1,9 @@
 # The  Best Band in Town
 
+<!-- reading-navigation:start -->
+[← Previous：A Fool's Gold](1919-A%20Fool%27s%20Gold.md) · [Story index](../README.md) · [Next：The Ghost Master →](1921-The%20Ghost%20Master.md)
+<!-- reading-navigation:end -->
+
 - Category: Anecdotes
 - Chapter ID: `1920`
 - Story Units: `7`
@@ -1452,3 +1456,9 @@ Sonetto nods faintly, then changes the subject.
 **Regulus**: Rock'n'roll isn't complicated, Sonetto.
 
 **Regulus**: Rock is rock. That's it. That's all.
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：A Fool's Gold](1919-A%20Fool%27s%20Gold.md) · [Story index](../README.md) · [Next：The Ghost Master →](1921-The%20Ghost%20Master.md)
+<!-- reading-navigation:end -->

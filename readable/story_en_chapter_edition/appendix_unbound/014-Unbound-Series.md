@@ -1,5 +1,9 @@
 # Unbound Series 014
 
+<!-- reading-navigation:start -->
+[← Previous：Unbound Series 013](013-Unbound-Series.md) · [Story index](../README.md) · [Next：Unbound Series 015 →](015-Unbound-Series.md)
+<!-- reading-navigation:end -->
+
 > These scripts contain readable story text but do not yet have a verified chapter binding.
 
 - Candidate Scripts: `2`
@@ -135,3 +139,9 @@ Her heavy eyelids slide closed again as she drifts into another dream.
 **Mesmer Jr.**: It just goes to show how unpredictable arcanists can be.
 
 - **Choice:** Thank you for bringing the umbrellas
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：Unbound Series 013](013-Unbound-Series.md) · [Story index](../README.md) · [Next：Unbound Series 015 →](015-Unbound-Series.md)
+<!-- reading-navigation:end -->

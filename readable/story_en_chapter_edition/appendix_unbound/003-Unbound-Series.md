@@ -1,5 +1,9 @@
 # Unbound Series 003
 
+<!-- reading-navigation:start -->
+[← Previous：Unbound Series 002](002-Unbound-Series.md) · [Story index](../README.md) · [Next：Unbound Series 004 →](004-Unbound-Series.md)
+<!-- reading-navigation:end -->
+
 > These scripts contain readable story text but do not yet have a verified chapter binding.
 
 - Candidate Scripts: `2`
@@ -241,3 +245,9 @@ It is light, sturdy, and easy to carry around—you are familiar with its shape 
 **Druvis Ⅲ**: Plants are always drawn to warmth and light.
 
 **Druvis Ⅲ**: They have enjoyed the night so far, and I as well.
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：Unbound Series 002](002-Unbound-Series.md) · [Story index](../README.md) · [Next：Unbound Series 004 →](004-Unbound-Series.md)
+<!-- reading-navigation:end -->

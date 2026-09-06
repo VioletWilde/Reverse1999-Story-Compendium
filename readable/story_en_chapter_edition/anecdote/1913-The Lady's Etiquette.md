@@ -1,5 +1,9 @@
 # The Lady's Etiquette
 
+<!-- reading-navigation:start -->
+[← Previous：The Third Circumstance](1912-The%20Third%20Circumstance.md) · [Story index](../README.md) · [Next：Only Water Springs Know →](1914-Only%20Water%20Springs%20Know.md)
+<!-- reading-navigation:end -->
+
 - Category: Anecdotes
 - Chapter ID: `1913`
 - Story Units: `6`
@@ -2311,3 +2315,9 @@ Cristallo takes it and puts it in her mouth.
 **APPLe**: Yes. A very, very good lady indeed.
 
 > **Title Card:** THE END
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：The Third Circumstance](1912-The%20Third%20Circumstance.md) · [Story index](../README.md) · [Next：Only Water Springs Know →](1914-Only%20Water%20Springs%20Know.md)
+<!-- reading-navigation:end -->

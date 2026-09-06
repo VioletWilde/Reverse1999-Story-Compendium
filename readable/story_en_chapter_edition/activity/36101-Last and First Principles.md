@@ -1,5 +1,9 @@
 # Last and First Principles
 
+<!-- reading-navigation:start -->
+[← Previous：The Turquoise Serpent Club](35101-The%20Turquoise%20Serpent%20Club.md) · [Story index](../README.md) · [Next：The Temporal Scale →](38101-The%20Temporal%20Scale.md)
+<!-- reading-navigation:end -->
+
 - Category: Event Stories
 - Chapter ID: `36101`
 - Story Units: `14`
@@ -2991,3 +2995,9 @@ A "memento."
 A beginning.
 
 **Hofmann**: In "our" new age.
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：The Turquoise Serpent Club](35101-The%20Turquoise%20Serpent%20Club.md) · [Story index](../README.md) · [Next：The Temporal Scale →](38101-The%20Temporal%20Scale.md)
+<!-- reading-navigation:end -->

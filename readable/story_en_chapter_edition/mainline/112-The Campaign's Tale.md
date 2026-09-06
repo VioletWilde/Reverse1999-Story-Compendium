@@ -1,5 +1,9 @@
 # The Campaign's Tale
 
+<!-- reading-navigation:start -->
+[← Previous：A Long Long Way](111-A%20Long%20Long%20Way.md) · [Story index](../README.md) · [Next：On Another's Sorrow →](113-On%20Another%27s%20Sorrow.md)
+<!-- reading-navigation:end -->
+
 - Category: Main Story
 - Chapter ID: `112`
 - Story Units: `25`
@@ -6398,3 +6402,9 @@ Five days later
 **Vertin**: I managed to recover documents detailing the experiment's main procedures. However ...
 
 **Vertin**: I didn't find anything signiﬁcant about Urd.
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：A Long Long Way](111-A%20Long%20Long%20Way.md) · [Story index](../README.md) · [Next：On Another's Sorrow →](113-On%20Another%27s%20Sorrow.md)
+<!-- reading-navigation:end -->

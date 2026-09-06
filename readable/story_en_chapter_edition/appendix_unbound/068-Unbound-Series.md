@@ -1,5 +1,9 @@
 # Unbound Series 068
 
+<!-- reading-navigation:start -->
+[← Previous：Unbound Series 067](067-Unbound-Series.md) · [Story index](../README.md) · [Next：Unbound Series 069 →](069-Unbound-Series.md)
+<!-- reading-navigation:end -->
+
 > These scripts contain readable story text but do not yet have a verified chapter binding.
 
 - Candidate Scripts: `1`
@@ -43,3 +47,9 @@ She tilts her head, puzzled, and walks away.
 **Merel**: Vertin must think I'm so odd. If only I'd tried a little harder, it wouldn't have been so awkward.
 
 **Merel**: Thank you, Vertin, for everything you've done for us through the "Storm."
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：Unbound Series 067](067-Unbound-Series.md) · [Story index](../README.md) · [Next：Unbound Series 069 →](069-Unbound-Series.md)
+<!-- reading-navigation:end -->

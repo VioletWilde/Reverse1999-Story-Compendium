@@ -1,5 +1,9 @@
 # In Our Time
 
+<!-- reading-navigation:start -->
+[Story index](../README.md) · [Next：Tender is the Night →](102-Tender%20is%20the%20Night.md)
+<!-- reading-navigation:end -->
+
 - Category: Main Story
 - Chapter ID: `101`
 - Story Units: `16`
@@ -2085,3 +2089,9 @@ The speakeasy is shaking.
 **Sonetto**: Could I talk to you for a second, Timekeeper?
 
 > **Title Card:** TO BE CONTINUED…
+
+---
+
+<!-- reading-navigation:start -->
+[Story index](../README.md) · [Next：Tender is the Night →](102-Tender%20is%20the%20Night.md)
+<!-- reading-navigation:end -->

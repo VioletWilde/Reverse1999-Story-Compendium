@@ -1,5 +1,9 @@
 # Dikke — Character Story
 
+<!-- reading-navigation:start -->
+[← Previous：Charlie — Character Story](1902-Charlie%20%E2%80%94%20Character%20Story.md) · [Story index](../README.md) · [Next：Erick — Character Story →](1904-Erick%20%E2%80%94%20Character%20Story.md)
+<!-- reading-navigation:end -->
+
 - Category: Anecdotes
 - Chapter ID: `1903`
 - Story Units: `8`
@@ -1235,3 +1239,9 @@ The long night would eventually come to an end.
 And the sun would rise once more.
 
 > **Title Card:** THE END
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：Charlie — Character Story](1902-Charlie%20%E2%80%94%20Character%20Story.md) · [Story index](../README.md) · [Next：Erick — Character Story →](1904-Erick%20%E2%80%94%20Character%20Story.md)
+<!-- reading-navigation:end -->

@@ -1,5 +1,9 @@
 # Finding Xavier
 
+<!-- reading-navigation:start -->
+[← Previous：The Winds OF Juhalerat](1910-The%20Winds%20OF%20Juhalerat.md) · [Story index](../README.md) · [Next：The Third Circumstance →](1912-The%20Third%20Circumstance.md)
+<!-- reading-navigation:end -->
+
 - Category: Anecdotes
 - Chapter ID: `1911`
 - Story Units: `8`
@@ -1249,3 +1253,9 @@ Eagle shakes her head disapprovingly.
 **X**: I think you shouldn't be looking for a puppy, but a butterfly.
 
 > **Title Card:** THE END
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：The Winds OF Juhalerat](1910-The%20Winds%20OF%20Juhalerat.md) · [Story index](../README.md) · [Next：The Third Circumstance →](1912-The%20Third%20Circumstance.md)
+<!-- reading-navigation:end -->

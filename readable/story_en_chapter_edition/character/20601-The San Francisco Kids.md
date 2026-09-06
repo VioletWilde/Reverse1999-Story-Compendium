@@ -1,5 +1,9 @@
 # The San Francisco Kids
 
+<!-- reading-navigation:start -->
+[← Previous：Through the Glass](19603-Through%20the%20Glass.md) · [Story index](../README.md) · [Next：On the Thousandth Night →](20603-On%20the%20Thousandth%20Night.md)
+<!-- reading-navigation:end -->
+
 - Category: Character Stories
 - Chapter ID: `20601`
 - Story Units: `8`
@@ -2273,3 +2277,9 @@ The culprit feigns ignorance, rubbing off the remaining scent of banana in his p
 **Hollick**: Becket!
 
 **J**: Whoa, easy there, Hollick. Careful you don't take another spill!
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：Through the Glass](19603-Through%20the%20Glass.md) · [Story index](../README.md) · [Next：On the Thousandth Night →](20603-On%20the%20Thousandth%20Night.md)
+<!-- reading-navigation:end -->

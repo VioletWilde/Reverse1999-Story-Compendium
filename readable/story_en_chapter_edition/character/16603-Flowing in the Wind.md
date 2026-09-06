@@ -1,5 +1,9 @@
 # Flowing in the Wind
 
+<!-- reading-navigation:start -->
+[← Previous：Light to the Tavern](16601-Light%20to%20the%20Tavern.md) · [Story index](../README.md) · [Next：The Small Room →](17701-The%20Small%20Room.md)
+<!-- reading-navigation:end -->
+
 - Category: Character Stories
 - Chapter ID: `16603`
 - Story Units: `8`
@@ -1457,3 +1461,9 @@ But he feels now that he is no longer as he was.
 **Getian**: Fine. I shall listen to the wind before anything comes up.
 
 > **Title Card:** 6#2
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：Light to the Tavern](16601-Light%20to%20the%20Tavern.md) · [Story index](../README.md) · [Next：The Small Room →](17701-The%20Small%20Room.md)
+<!-- reading-navigation:end -->

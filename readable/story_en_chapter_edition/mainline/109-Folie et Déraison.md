@@ -1,5 +1,9 @@
 # Folie et Déraison
 
+<!-- reading-navigation:start -->
+[← Previous：Tristes Tropiques](108-Tristes%20Tropiques.md) · [Story index](../README.md) · [Next：Paradise Regained →](110-Paradise%20Regained.md)
+<!-- reading-navigation:end -->
+
 - Category: Main Story
 - Chapter ID: `109`
 - Story Units: `20`
@@ -4235,3 +4239,9 @@ All men are dancers and their tread
 Goes to the barbarous clangour of a gong.
 
 W.B. Yeats—Nineteen Hundred and Nineteen
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：Tristes Tropiques](108-Tristes%20Tropiques.md) · [Story index](../README.md) · [Next：Paradise Regained →](110-Paradise%20Regained.md)
+<!-- reading-navigation:end -->

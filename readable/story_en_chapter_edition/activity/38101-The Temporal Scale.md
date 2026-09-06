@@ -1,5 +1,9 @@
 # The Temporal Scale
 
+<!-- reading-navigation:start -->
+[← Previous：Last and First Principles](36101-Last%20and%20First%20Principles.md) · [Story index](../README.md) · [Next：La Primavera di Firenze →](305101-La%20Primavera%20di%20Firenze.md)
+<!-- reading-navigation:end -->
+
 - Category: Event Stories
 - Chapter ID: `38101`
 - Story Units: `22`
@@ -313,3 +317,9 @@
 > **Title Card:** Hall, New Office
 
 > **Title Card:** Atrium, New Office
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：Last and First Principles](36101-Last%20and%20First%20Principles.md) · [Story index](../README.md) · [Next：La Primavera di Firenze →](305101-La%20Primavera%20di%20Firenze.md)
+<!-- reading-navigation:end -->

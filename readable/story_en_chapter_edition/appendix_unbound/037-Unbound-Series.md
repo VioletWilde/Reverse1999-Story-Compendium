@@ -1,5 +1,9 @@
 # Unbound Series 037
 
+<!-- reading-navigation:start -->
+[← Previous：Unbound Series 036](036-Unbound-Series.md) · [Story index](../README.md) · [Next：Unbound Series 038 →](038-Unbound-Series.md)
+<!-- reading-navigation:end -->
+
 > These scripts contain readable story text but do not yet have a verified chapter binding.
 
 - Candidate Scripts: `3`
@@ -25,3 +29,9 @@
 ...
 
 **The Fool**: You don't look too happy. Alright, let's give it another try.
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：Unbound Series 036](036-Unbound-Series.md) · [Story index](../README.md) · [Next：Unbound Series 038 →](038-Unbound-Series.md)
+<!-- reading-navigation:end -->

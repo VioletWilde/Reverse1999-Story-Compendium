@@ -1,5 +1,9 @@
 # A Long Long Way
 
+<!-- reading-navigation:start -->
+[← Previous：Paradise Regained](110-Paradise%20Regained.md) · [Story index](../README.md) · [Next：The Campaign's Tale →](112-The%20Campaign%27s%20Tale.md)
+<!-- reading-navigation:end -->
+
 - Category: Main Story
 - Chapter ID: `111`
 - Story Units: `24`
@@ -5613,3 +5617,9 @@ The message ends in a burst of static.
 **Vertin**: Could it be ... Igor? Lilya might be in trouble.
 
 **Vertin**: Sonetto, I think we'd better pay another visit to Madam Z.
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：Paradise Regained](110-Paradise%20Regained.md) · [Story index](../README.md) · [Next：The Campaign's Tale →](112-The%20Campaign%27s%20Tale.md)
+<!-- reading-navigation:end -->

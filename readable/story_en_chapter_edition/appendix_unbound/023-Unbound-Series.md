@@ -1,5 +1,9 @@
 # Unbound Series 023
 
+<!-- reading-navigation:start -->
+[← Previous：Unbound Series 022](022-Unbound-Series.md) · [Story index](../README.md) · [Next：Unbound Series 024 →](024-Unbound-Series.md)
+<!-- reading-navigation:end -->
+
 > These scripts contain readable story text but do not yet have a verified chapter binding.
 
 - Candidate Scripts: `1`
@@ -27,3 +31,9 @@
 **Lilya**: Hello, Vertin? Hm. This thing sounds much clearer than the old "anti-interference" communication devices they still use in Zeno ... It could be a little smaller, though.
 
 **Lilya**: Oh, remember to ask Bunny Bunny to buy some vodka and juice when she gets groceries. You know, I'm better at clinking glasses than giving speeches.
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：Unbound Series 022](022-Unbound-Series.md) · [Story index](../README.md) · [Next：Unbound Series 024 →](024-Unbound-Series.md)
+<!-- reading-navigation:end -->

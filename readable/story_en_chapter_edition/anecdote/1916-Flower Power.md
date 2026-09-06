@@ -1,5 +1,9 @@
 # Flower Power
 
+<!-- reading-navigation:start -->
+[← Previous：Where the Fire Starts](1915-Where%20the%20Fire%20Starts.md) · [Story index](../README.md) · [Next：A Day Plotted Logarithmically →](1917-A%20Day%20Plotted%20Logarithmically.md)
+<!-- reading-navigation:end -->
+
 - Category: Anecdotes
 - Chapter ID: `1916`
 - Story Units: `7`
@@ -1324,3 +1328,9 @@ The believer gives him a strange look.
 **Diggers**: Take me with you. Please take me with you.
 
 **Diggers**: I believe that art isn't dead yet!
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：Where the Fire Starts](1915-Where%20the%20Fire%20Starts.md) · [Story index](../README.md) · [Next：A Day Plotted Logarithmically →](1917-A%20Day%20Plotted%20Logarithmically.md)
+<!-- reading-navigation:end -->

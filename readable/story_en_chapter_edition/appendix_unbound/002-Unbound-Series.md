@@ -1,5 +1,9 @@
 # Unbound Series 002
 
+<!-- reading-navigation:start -->
+[← Previous：Unbound Series 001](001-Unbound-Series.md) · [Story index](../README.md) · [Next：Unbound Series 003 →](003-Unbound-Series.md)
+<!-- reading-navigation:end -->
+
 > These scripts contain readable story text but do not yet have a verified chapter binding.
 
 - Candidate Scripts: `4`
@@ -331,3 +335,9 @@ The group watches her disappear around the corner and sighs in resignation.
 The boy standing aside raises his eyebrows and bursts into laughter, as though he has realized something.
 
 **Ajar**: I think Boss is ready to "cut off the heads"!
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：Unbound Series 001](001-Unbound-Series.md) · [Story index](../README.md) · [Next：Unbound Series 003 →](003-Unbound-Series.md)
+<!-- reading-navigation:end -->

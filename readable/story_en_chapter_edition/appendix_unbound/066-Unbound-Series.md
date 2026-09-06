@@ -1,5 +1,9 @@
 # Unbound Series 066
 
+<!-- reading-navigation:start -->
+[← Previous：Unbound Series 065](065-Unbound-Series.md) · [Story index](../README.md) · [Next：Unbound Series 067 →](067-Unbound-Series.md)
+<!-- reading-navigation:end -->
+
 > These scripts contain readable story text but do not yet have a verified chapter binding.
 
 - Candidate Scripts: `1`
@@ -53,3 +57,9 @@ BANG! BANG! BANG!​
 **Matilda**: Yes ... yes, of course, Vertin. But I would ask that you not forget who came up with this genius plan.
 
 **Matilda**: Until Maman is back on her feet, Matilda is, without a doubt, the world's greatest diviner!
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：Unbound Series 065](065-Unbound-Series.md) · [Story index](../README.md) · [Next：Unbound Series 067 →](067-Unbound-Series.md)
+<!-- reading-navigation:end -->

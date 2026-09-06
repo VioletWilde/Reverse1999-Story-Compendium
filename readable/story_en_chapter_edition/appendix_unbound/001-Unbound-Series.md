@@ -1,5 +1,9 @@
 # Unbound Series 001
 
+<!-- reading-navigation:start -->
+[Story index](../README.md) · [Next：Unbound Series 002 →](002-Unbound-Series.md)
+<!-- reading-navigation:end -->
+
 > These scripts contain readable story text but do not yet have a verified chapter binding.
 
 - Candidate Scripts: `1`
@@ -111,3 +115,9 @@ The two young people who are away from the others are now in each other's arms.
 **Blonney**: Ahhhhhh!!!
 
 > **Title Card:** 2#1
+
+---
+
+<!-- reading-navigation:start -->
+[Story index](../README.md) · [Next：Unbound Series 002 →](002-Unbound-Series.md)
+<!-- reading-navigation:end -->

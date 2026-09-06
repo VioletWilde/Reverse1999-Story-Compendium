@@ -1,5 +1,9 @@
 # Long Night Trudge
 
+<!-- reading-navigation:start -->
+[← Previous：Silver Knot](18603-Silver%20Knot.md) · [Story index](../README.md) · [Next：Flying to the Past →](19601-Flying%20to%20the%20Past.md)
+<!-- reading-navigation:end -->
+
 - Category: Character Stories
 - Chapter ID: `19101`
 - Story Units: `7`
@@ -1848,3 +1852,9 @@ The paused hand gently falls and turns the page.
 **Six**: It is just as simple as it is.
 
 > **Title Card:** THE END
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：Silver Knot](18603-Silver%20Knot.md) · [Story index](../README.md) · [Next：Flying to the Past →](19601-Flying%20to%20the%20Past.md)
+<!-- reading-navigation:end -->

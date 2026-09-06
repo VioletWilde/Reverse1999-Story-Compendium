@@ -1,5 +1,9 @@
 # Unbound Series 069
 
+<!-- reading-navigation:start -->
+[← Previous：Unbound Series 068](068-Unbound-Series.md) · [Story index](../README.md) · [Next：Unbound Series 070 →](070-Unbound-Series.md)
+<!-- reading-navigation:end -->
+
 > These scripts contain readable story text but do not yet have a verified chapter binding.
 
 - Candidate Scripts: `2`
@@ -191,3 +195,9 @@ Coppélia breathes in the calming fragrance. A pleasant haziness washes over her
 Coppélia tries to swing her arms to the beat of the chant, but she's stopped by Bittersweet's hands on her own.
 
 **Bittersweet**: Shh, don't let the wind hear you. We leave now. The further from the orchestra, the better—oh, you're not allergic to wax, are you?
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：Unbound Series 068](068-Unbound-Series.md) · [Story index](../README.md) · [Next：Unbound Series 070 →](070-Unbound-Series.md)
+<!-- reading-navigation:end -->

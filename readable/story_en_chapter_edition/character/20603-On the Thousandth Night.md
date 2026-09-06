@@ -1,5 +1,9 @@
 # On the Thousandth Night
 
+<!-- reading-navigation:start -->
+[← Previous：The San Francisco Kids](20601-The%20San%20Francisco%20Kids.md) · [Story index](../README.md) · [Next：Into the Rainforest →](22911-Into%20the%20Rainforest.md)
+<!-- reading-navigation:end -->
+
 - Category: Character Stories
 - Chapter ID: `20603`
 - Story Units: `8`
@@ -2149,3 +2153,9 @@ He gives Bianca a pat on the shoulder before going back to his guitar.
 I hope that every night from now on ...
 
 Can be just like tonight.
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：The San Francisco Kids](20601-The%20San%20Francisco%20Kids.md) · [Story index](../README.md) · [Next：Into the Rainforest →](22911-Into%20the%20Rainforest.md)
+<!-- reading-navigation:end -->

@@ -1,5 +1,9 @@
 # The Winds OF Juhalerat
 
+<!-- reading-navigation:start -->
+[← Previous：To Wennifred](1909-To%20Wennifred.md) · [Story index](../README.md) · [Next：Finding Xavier →](1911-Finding%20Xavier.md)
+<!-- reading-navigation:end -->
+
 - Category: Anecdotes
 - Chapter ID: `1910`
 - Story Units: `8`
@@ -2323,3 +2327,9 @@ The sound of a soldier's boots echoes down the hall. Lilya takes one last glance
 Inside, Aleksei eagerly awaits his fate, while Zeno eagerly awaits him.
 
 > **Title Card:** THE END
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：To Wennifred](1909-To%20Wennifred.md) · [Story index](../README.md) · [Next：Finding Xavier →](1911-Finding%20Xavier.md)
+<!-- reading-navigation:end -->

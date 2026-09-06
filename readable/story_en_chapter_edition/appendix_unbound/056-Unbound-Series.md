@@ -1,5 +1,9 @@
 # Unbound Series 056
 
+<!-- reading-navigation:start -->
+[← Previous：Unbound Series 055](055-Unbound-Series.md) · [Story index](../README.md) · [Next：Unbound Series 057 →](057-Unbound-Series.md)
+<!-- reading-navigation:end -->
+
 > These scripts contain readable story text but do not yet have a verified chapter binding.
 
 - Candidate Scripts: `2`
@@ -39,3 +43,9 @@
 **Foundation Staff Member**: Our team will check in regularly to collect your reports and ensure you remain fit to continue the experiment.
 
 **Foundation Staff Member**: We wish you all the best.
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：Unbound Series 055](055-Unbound-Series.md) · [Story index](../README.md) · [Next：Unbound Series 057 →](057-Unbound-Series.md)
+<!-- reading-navigation:end -->

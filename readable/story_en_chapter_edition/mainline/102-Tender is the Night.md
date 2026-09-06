@@ -1,5 +1,9 @@
 # Tender is the Night
 
+<!-- reading-navigation:start -->
+[← Previous：In Our Time](101-In%20Our%20Time.md) · [Story index](../README.md) · [Next：Nouvelles et Textes pour rien →](103-Nouvelles%20et%20Textes%20pour%20rien.md)
+<!-- reading-navigation:end -->
+
 - Category: Main Story
 - Chapter ID: `102`
 - Story Units: `15`
@@ -2512,3 +2516,9 @@ Sotheby searches all over the place, and stops before the crucible.
 **Schneider**: Don't forget my heartbeat on the right.
 
 > **Title Card:** THE END
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：In Our Time](101-In%20Our%20Time.md) · [Story index](../README.md) · [Next：Nouvelles et Textes pour rien →](103-Nouvelles%20et%20Textes%20pour%20rien.md)
+<!-- reading-navigation:end -->

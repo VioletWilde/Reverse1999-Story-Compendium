@@ -1,5 +1,9 @@
 # Unbound Series 011
 
+<!-- reading-navigation:start -->
+[← Previous：Unbound Series 010](010-Unbound-Series.md) · [Story index](../README.md) · [Next：Unbound Series 012 →](012-Unbound-Series.md)
+<!-- reading-navigation:end -->
+
 > These scripts contain readable story text but do not yet have a verified chapter binding.
 
 - Candidate Scripts: `2`
@@ -97,3 +101,9 @@ She puts the medal and speech in a folder and hands them to you.
 **Z**: We will get there, Vertin, slowly but surely.
 
 - **Choice:** Is there a new mission?
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：Unbound Series 010](010-Unbound-Series.md) · [Story index](../README.md) · [Next：Unbound Series 012 →](012-Unbound-Series.md)
+<!-- reading-navigation:end -->

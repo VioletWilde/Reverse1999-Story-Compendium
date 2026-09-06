@@ -1,5 +1,9 @@
 # The Ninth Virtue
 
+<!-- reading-navigation:start -->
+[← Previous：Back to Earth](1906-Back%20to%20Earth.md) · [Story index](../README.md) · [Next：The Will of Gears →](1908-The%20Will%20of%20Gears.md)
+<!-- reading-navigation:end -->
+
 - Category: Anecdotes
 - Chapter ID: `1907`
 - Story Units: `7`
@@ -1330,3 +1334,9 @@ The young man's injuries are severe. His body growing colder and stiffer by the 
 "Humility, honesty, mercy, valor, justice, sacrifice, honor, soul."<br><br>"And, of course, a bit of humor."
 
 > **Title Card:** THE END
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：Back to Earth](1906-Back%20to%20Earth.md) · [Story index](../README.md) · [Next：The Will of Gears →](1908-The%20Will%20of%20Gears.md)
+<!-- reading-navigation:end -->

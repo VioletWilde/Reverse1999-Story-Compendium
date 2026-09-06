@@ -1,5 +1,9 @@
 # Dawn Arrives as Usual
 
+<!-- reading-navigation:start -->
+[← Previous：The Tall Lighthouse](17703-The%20Tall%20Lighthouse.md) · [Story index](../README.md) · [Next：Silver Knot →](18603-Silver%20Knot.md)
+<!-- reading-navigation:end -->
+
 - Category: Character Stories
 - Chapter ID: `18601`
 - Story Units: `8`
@@ -1575,3 +1579,9 @@ Then at the edge of her shadow, a familiar face.
 **Vila**: Like we used to do.
 
 > **Title Card:** 8#2
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：The Tall Lighthouse](17703-The%20Tall%20Lighthouse.md) · [Story index](../README.md) · [Next：Silver Knot →](18603-Silver%20Knot.md)
+<!-- reading-navigation:end -->

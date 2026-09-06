@@ -1,5 +1,9 @@
 # Unbound Series 072
 
+<!-- reading-navigation:start -->
+[← Previous：Unbound Series 071](071-Unbound-Series.md) · [Story index](../README.md) · [Next：Unbound Series 073 →](073-Unbound-Series.md)
+<!-- reading-navigation:end -->
+
 > These scripts contain readable story text but do not yet have a verified chapter binding.
 
 - Candidate Scripts: `1`
@@ -101,3 +105,9 @@ Circling Ulrich with paws still firmly behind his back, Buddy Fairchild sizes hi
 **Buddy Fairchild**: Mountain ain't no Everest, but it's sure as a storm in July to be a tough climb for ya'll big-n-tall'uns.
 
 **Buddy Fairchild**: Well, can't never could. Buckle up, folks! I don't wanna see no bodies tumblin' down the mountain, ya hear?
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：Unbound Series 071](071-Unbound-Series.md) · [Story index](../README.md) · [Next：Unbound Series 073 →](073-Unbound-Series.md)
+<!-- reading-navigation:end -->

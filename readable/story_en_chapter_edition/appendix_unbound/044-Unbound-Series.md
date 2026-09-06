@@ -1,5 +1,9 @@
 # Unbound Series 044
 
+<!-- reading-navigation:start -->
+[← Previous：Unbound Series 043](043-Unbound-Series.md) · [Story index](../README.md) · [Next：Unbound Series 045 →](045-Unbound-Series.md)
+<!-- reading-navigation:end -->
+
 > These scripts contain readable story text but do not yet have a verified chapter binding.
 
 - Candidate Scripts: `3`
@@ -25,3 +29,9 @@
 ...
 
 **DruvisⅢ**: Everyone has their weaknesses, even critters.
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：Unbound Series 043](043-Unbound-Series.md) · [Story index](../README.md) · [Next：Unbound Series 045 →](045-Unbound-Series.md)
+<!-- reading-navigation:end -->

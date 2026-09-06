@@ -1,5 +1,9 @@
 # Unbound Series 063
 
+<!-- reading-navigation:start -->
+[← Previous：Unbound Series 062](062-Unbound-Series.md) · [Story index](../README.md) · [Next：Unbound Series 064 →](064-Unbound-Series.md)
+<!-- reading-navigation:end -->
+
 > These scripts contain readable story text but do not yet have a verified chapter binding.
 
 - Candidate Scripts: `3`
@@ -225,3 +229,9 @@ It seems another trip into the toybox will be necessary. At least, this time, th
 **???**: They actually pulled it off. I thought they'd fail and seal it away. Next time, I'll need to be more subtle with the clues.
 
 **???**: Now then ... how should I explain this in my report to Lorentz?
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：Unbound Series 062](062-Unbound-Series.md) · [Story index](../README.md) · [Next：Unbound Series 064 →](064-Unbound-Series.md)
+<!-- reading-navigation:end -->

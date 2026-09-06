@@ -1,5 +1,9 @@
 # The Ghost Master
 
+<!-- reading-navigation:start -->
+[← Previous：The  Best Band in Town](1920-The%20Best%20Band%20in%20Town.md) · [Story index](../README.md) · [Next：The Last Film →](1922-The%20Last%20Film.md)
+<!-- reading-navigation:end -->
+
 - Category: Anecdotes
 - Chapter ID: `1921`
 - Story Units: `8`
@@ -1745,3 +1749,9 @@ Leisurely footsteps echo from afar, accompanied by a casual whistling.
 **An-an Lee**: Huh? What's with all the commotion today? Ah! Looks like we've got some new business coming our way!
 
 **An-an Lee**: The Neo-Science Exorcism Office, action!
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：The  Best Band in Town](1920-The%20Best%20Band%20in%20Town.md) · [Story index](../README.md) · [Next：The Last Film →](1922-The%20Last%20Film.md)
+<!-- reading-navigation:end -->

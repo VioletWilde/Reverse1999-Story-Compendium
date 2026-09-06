@@ -1,5 +1,9 @@
 # The Diamond Con
 
+<!-- reading-navigation:start -->
+[← Previous：Away From Home](1924-Away%20From%20Home.md) · [Story index](../README.md)
+<!-- reading-navigation:end -->
+
 - Category: Anecdotes
 - Chapter ID: `1925`
 - Story Units: `7`
@@ -1124,3 +1128,9 @@ Their laughter is carried on the wind down the French country road.
 **Tennant**: If you'll join me, we can lay low together for a while.
 
 **Tennant**: I know someone with a very special suitcase ...
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：Away From Home](1924-Away%20From%20Home.md) · [Story index](../README.md)
+<!-- reading-navigation:end -->

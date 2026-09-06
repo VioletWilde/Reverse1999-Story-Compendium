@@ -1,5 +1,9 @@
 # A Day Plotted Logarithmically
 
+<!-- reading-navigation:start -->
+[← Previous：Flower Power](1916-Flower%20Power.md) · [Story index](../README.md) · [Next：A Night Without End →](1918-A%20Night%20Without%20End.md)
+<!-- reading-navigation:end -->
+
 - Category: Anecdotes
 - Chapter ID: `1917`
 - Story Units: `8`
@@ -2101,3 +2105,9 @@ Beyond the sea, a young girl is determined to calculate that very, very, very la
 **Six**: 37 made this hypothesis herself. Now, she is trying to prove it.
 
 **Six**: And until she disproves it herself, no attempt at telling the Truth from any of us will shake her from it.
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：Flower Power](1916-Flower%20Power.md) · [Story index](../README.md) · [Next：A Night Without End →](1918-A%20Night%20Without%20End.md)
+<!-- reading-navigation:end -->

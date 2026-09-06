@@ -1,5 +1,9 @@
 # Unbound Series 017
 
+<!-- reading-navigation:start -->
+[← Previous：Unbound Series 016](016-Unbound-Series.md) · [Story index](../README.md) · [Next：Unbound Series 018 →](018-Unbound-Series.md)
+<!-- reading-navigation:end -->
+
 > These scripts contain readable story text but do not yet have a verified chapter binding.
 
 - Candidate Scripts: `2`
@@ -115,3 +119,9 @@ She rests her hand on the scarred trunk of an olive tree, intently listening to 
 **Druvis III**: To me, Arcana is like an unchangeable law, one without any purpose. It cannot be overcome, just as it cannot be changed.
 
 - **Choice:** I should get going
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：Unbound Series 016](016-Unbound-Series.md) · [Story index](../README.md) · [Next：Unbound Series 018 →](018-Unbound-Series.md)
+<!-- reading-navigation:end -->

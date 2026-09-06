@@ -1,5 +1,9 @@
 # Unbound Series 019
 
+<!-- reading-navigation:start -->
+[← Previous：Unbound Series 018](018-Unbound-Series.md) · [Story index](../README.md) · [Next：Unbound Series 020 →](020-Unbound-Series.md)
+<!-- reading-navigation:end -->
+
 > These scripts contain readable story text but do not yet have a verified chapter binding.
 
 - Candidate Scripts: `2`
@@ -123,3 +127,9 @@ She takes a deep swig from her canteen before shaking her head.
 **Lilya**: But accolades mean nothing to me, so here I am, talking to you.
 
 - **Choice:** I should get going
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：Unbound Series 018](018-Unbound-Series.md) · [Story index](../README.md) · [Next：Unbound Series 020 →](020-Unbound-Series.md)
+<!-- reading-navigation:end -->

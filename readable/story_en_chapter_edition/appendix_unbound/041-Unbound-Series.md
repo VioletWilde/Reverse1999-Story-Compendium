@@ -1,5 +1,9 @@
 # Unbound Series 041
 
+<!-- reading-navigation:start -->
+[← Previous：Unbound Series 040](040-Unbound-Series.md) · [Story index](../README.md) · [Next：Unbound Series 042 →](042-Unbound-Series.md)
+<!-- reading-navigation:end -->
+
 > These scripts contain readable story text but do not yet have a verified chapter binding.
 
 - Candidate Scripts: `3`
@@ -25,3 +29,9 @@
 ...
 
 **Regulus**: Haha, you're a right laugh!
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：Unbound Series 040](040-Unbound-Series.md) · [Story index](../README.md) · [Next：Unbound Series 042 →](042-Unbound-Series.md)
+<!-- reading-navigation:end -->

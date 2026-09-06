@@ -1,5 +1,9 @@
 # Notes on Shuòrì
 
+<!-- reading-navigation:start -->
+[← Previous：Revival! The Uluru Games](15101-Revival%21%20The%20Uluru%20Games.md) · [Story index](../README.md) · [Next：Farewell, Rayashki →](18101-Farewell%2C%20Rayashki.md)
+<!-- reading-navigation:end -->
+
 - Category: Event Stories
 - Chapter ID: `16101`
 - Story Units: `23`
@@ -6020,3 +6024,9 @@ She flips over a page and continues reading.
 **Sonetto**: Yenisei.
 
 > **Title Card:** 6#2
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：Revival! The Uluru Games](15101-Revival%21%20The%20Uluru%20Games.md) · [Story index](../README.md) · [Next：Farewell, Rayashki →](18101-Farewell%2C%20Rayashki.md)
+<!-- reading-navigation:end -->

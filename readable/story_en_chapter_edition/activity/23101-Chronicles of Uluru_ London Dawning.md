@@ -1,5 +1,9 @@
 # Chronicles of Uluru: London Dawning
 
+<!-- reading-navigation:start -->
+[← Previous：Route 77: The Haunted Highway](21101-Route%2077_%20The%20Haunted%20Highway.md) · [Story index](../README.md) · [Next：Last Evenings on Earth →](24101-Last%20Evenings%20on%20Earth.md)
+<!-- reading-navigation:end -->
+
 - Category: Event Stories
 - Chapter ID: `23101`
 - Story Units: `20`
@@ -4869,3 +4873,9 @@ Flutterpage's head sticks out from behind Willow.
 Dusk paints the world gold, and from a distant riverbank, a freighter sounds its horn.
 
 Today, the skies of London are clear.
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：Route 77: The Haunted Highway](21101-Route%2077_%20The%20Haunted%20Highway.md) · [Story index](../README.md) · [Next：Last Evenings on Earth →](24101-Last%20Evenings%20on%20Earth.md)
+<!-- reading-navigation:end -->

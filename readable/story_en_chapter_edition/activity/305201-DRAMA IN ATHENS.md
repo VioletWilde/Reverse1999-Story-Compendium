@@ -1,5 +1,9 @@
 # DRAMA IN ATHENS
 
+<!-- reading-navigation:start -->
+[← Previous：La Primavera di Firenze](305101-La%20Primavera%20di%20Firenze.md) · [Story index](../README.md) · [Next：Polymerized Dreams →](385101-Polymerized%20Dreams.md)
+<!-- reading-navigation:end -->
+
 - Category: Event Stories
 - Chapter ID: `305201`
 - Story Units: `10`
@@ -1979,3 +1983,9 @@ Yet the frantic mob chasing them does not yet seem to have diminished.
 **Vertin**: Keep a stiff upper lip you two, and if all goes well, I'll make sure to requisition some sherry and Dr. Papper to celebrate.
 
 **Vertin**: And a whole bunch of records!
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：La Primavera di Firenze](305101-La%20Primavera%20di%20Firenze.md) · [Story index](../README.md) · [Next：Polymerized Dreams →](385101-Polymerized%20Dreams.md)
+<!-- reading-navigation:end -->

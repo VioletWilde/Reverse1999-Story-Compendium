@@ -1,5 +1,9 @@
 # Unbound Series 028
 
+<!-- reading-navigation:start -->
+[← Previous：Unbound Series 027](027-Unbound-Series.md) · [Story index](../README.md) · [Next：Unbound Series 029 →](029-Unbound-Series.md)
+<!-- reading-navigation:end -->
+
 > These scripts contain readable story text but do not yet have a verified chapter binding.
 
 - Candidate Scripts: `3`
@@ -25,3 +29,9 @@
 ...
 
 **APPLe**: Don't worry. This APPLe is working on a solution.
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：Unbound Series 027](027-Unbound-Series.md) · [Story index](../README.md) · [Next：Unbound Series 029 →](029-Unbound-Series.md)
+<!-- reading-navigation:end -->

@@ -1,5 +1,9 @@
 # Unbound Series 005
 
+<!-- reading-navigation:start -->
+[← Previous：Unbound Series 004](004-Unbound-Series.md) · [Story index](../README.md) · [Next：Unbound Series 006 →](006-Unbound-Series.md)
+<!-- reading-navigation:end -->
+
 > These scripts contain readable story text but do not yet have a verified chapter binding.
 
 - Candidate Scripts: `6`
@@ -1103,3 +1107,9 @@ Upon ending the communication, Semmelweis places the communication device back i
 **Semmelweis**: Perhaps ... It’s destiny.
 
 > **Title Card:** THE END
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：Unbound Series 004](004-Unbound-Series.md) · [Story index](../README.md) · [Next：Unbound Series 006 →](006-Unbound-Series.md)
+<!-- reading-navigation:end -->

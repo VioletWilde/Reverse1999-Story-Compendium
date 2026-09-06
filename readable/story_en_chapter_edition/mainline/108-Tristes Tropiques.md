@@ -1,5 +1,9 @@
 # Tristes Tropiques
 
+<!-- reading-navigation:start -->
+[← Previous：Vereinsamt](107-Vereinsamt.md) · [Story index](../README.md) · [Next：Folie et Déraison →](109-Folie%20et%20D%C3%A9raison.md)
+<!-- reading-navigation:end -->
+
 - Category: Main Story
 - Chapter ID: `108`
 - Story Units: `24`
@@ -5255,3 +5259,9 @@ She drops to the floor and curls up against the wall.
 **Anjo Nala**: You will find the love of your life
 
 > **Title Card:** THE END
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：Vereinsamt](107-Vereinsamt.md) · [Story index](../README.md) · [Next：Folie et Déraison →](109-Folie%20et%20D%C3%A9raison.md)
+<!-- reading-navigation:end -->

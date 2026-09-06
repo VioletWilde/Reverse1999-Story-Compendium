@@ -1,5 +1,9 @@
 # Light to the Tavern
 
+<!-- reading-navigation:start -->
+[Story index](../README.md) · [Next：Flowing in the Wind →](16603-Flowing%20in%20the%20Wind.md)
+<!-- reading-navigation:end -->
+
 - Category: Character Stories
 - Chapter ID: `16601`
 - Story Units: `8`
@@ -1887,3 +1891,9 @@ In Pèi City, there are many worries waiting to be dispelled and, naturally, man
 On the night of the year's beginning, the main street of Pèi City is at its liveliest. Crowds throng the thoroughfare, the cries of vendors ring out, silks drape high over the streets, and piles of red pomegranates and walnuts rise in little towers on the market stalls ...
 
 > **Title Card:** 6#2
+
+---
+
+<!-- reading-navigation:start -->
+[Story index](../README.md) · [Next：Flowing in the Wind →](16603-Flowing%20in%20the%20Wind.md)
+<!-- reading-navigation:end -->

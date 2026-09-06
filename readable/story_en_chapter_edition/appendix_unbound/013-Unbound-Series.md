@@ -1,5 +1,9 @@
 # Unbound Series 013
 
+<!-- reading-navigation:start -->
+[← Previous：Unbound Series 012](012-Unbound-Series.md) · [Story index](../README.md) · [Next：Unbound Series 014 →](014-Unbound-Series.md)
+<!-- reading-navigation:end -->
+
 > These scripts contain readable story text but do not yet have a verified chapter binding.
 
 - Candidate Scripts: `2`
@@ -117,3 +121,9 @@ Someone is still on the line.
 **Enigma**: The social scene at Laplace is going to be a disaster.
 
 - **Choice:** I'll leave you to your puzzles then
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：Unbound Series 012](012-Unbound-Series.md) · [Story index](../README.md) · [Next：Unbound Series 014 →](014-Unbound-Series.md)
+<!-- reading-navigation:end -->

@@ -1,5 +1,9 @@
 # Unbound Series 015
 
+<!-- reading-navigation:start -->
+[← Previous：Unbound Series 014](014-Unbound-Series.md) · [Story index](../README.md) · [Next：Unbound Series 016 →](016-Unbound-Series.md)
+<!-- reading-navigation:end -->
+
 > These scripts contain readable story text but do not yet have a verified chapter binding.
 
 - Candidate Scripts: `2`
@@ -107,3 +111,9 @@ She shivers nervously, and the music seems to crackle along with her.
 **Ms. Radio**: I will gladly help and pay close attention to the name. If it comes up in the news, I'll let you know right away.
 
 - **Choice:** I shall leave you to your leisure
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：Unbound Series 014](014-Unbound-Series.md) · [Story index](../README.md) · [Next：Unbound Series 016 →](016-Unbound-Series.md)
+<!-- reading-navigation:end -->

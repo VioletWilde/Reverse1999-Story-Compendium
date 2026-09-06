@@ -1,5 +1,9 @@
 # The Tall Lighthouse
 
+<!-- reading-navigation:start -->
+[← Previous：The Small Room](17701-The%20Small%20Room.md) · [Story index](../README.md) · [Next：Dawn Arrives as Usual →](18601-Dawn%20Arrives%20as%20Usual.md)
+<!-- reading-navigation:end -->
+
 - Category: Character Stories
 - Chapter ID: `17703`
 - Story Units: `8`
@@ -1723,3 +1727,9 @@ She takes a deep breath and opens her eyes.
 **Marcus**: Doctor, wait! There might be another way!
 
 > **Title Card:** THE END
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：The Small Room](17701-The%20Small%20Room.md) · [Story index](../README.md) · [Next：Dawn Arrives as Usual →](18601-Dawn%20Arrives%20as%20Usual.md)
+<!-- reading-navigation:end -->

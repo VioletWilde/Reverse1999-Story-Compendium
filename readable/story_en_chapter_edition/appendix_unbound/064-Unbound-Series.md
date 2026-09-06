@@ -1,5 +1,9 @@
 # Unbound Series 064
 
+<!-- reading-navigation:start -->
+[← Previous：Unbound Series 063](063-Unbound-Series.md) · [Story index](../README.md) · [Next：Unbound Series 065 →](065-Unbound-Series.md)
+<!-- reading-navigation:end -->
+
 > These scripts contain readable story text but do not yet have a verified chapter binding.
 
 - Candidate Scripts: `3`
@@ -205,3 +209,9 @@ The flowers on the woman's body playfully blink at Coppélia. She glances with m
 **???**: For now, just remember—there is always more than one place to shelter from the rain.
 
 **???**: Come with me. This time, we'll not return to that meaningless blue room.
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：Unbound Series 063](063-Unbound-Series.md) · [Story index](../README.md) · [Next：Unbound Series 065 →](065-Unbound-Series.md)
+<!-- reading-navigation:end -->

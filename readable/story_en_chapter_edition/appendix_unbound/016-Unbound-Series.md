@@ -1,5 +1,9 @@
 # Unbound Series 016
 
+<!-- reading-navigation:start -->
+[← Previous：Unbound Series 015](015-Unbound-Series.md) · [Story index](../README.md) · [Next：Unbound Series 017 →](017-Unbound-Series.md)
+<!-- reading-navigation:end -->
+
 > These scripts contain readable story text but do not yet have a verified chapter binding.
 
 - Candidate Scripts: `2`
@@ -141,3 +145,9 @@ Why wouldn't you celebrate? There's no earthly reason to decline such a kind off
 **Regulus**: Ha! The brown bean juice the math geeks hate so much? You think I'd make a fuss again?
 
 **Regulus**: Well, coffee would be lovely, but right now Dr. Papper is my jam. So eh, maybe next time.
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：Unbound Series 015](015-Unbound-Series.md) · [Story index](../README.md) · [Next：Unbound Series 017 →](017-Unbound-Series.md)
+<!-- reading-navigation:end -->

@@ -1,5 +1,9 @@
 # Back to Earth
 
+<!-- reading-navigation:start -->
+[← Previous：Pulp Comedy Dirges](1905-Pulp%20Comedy%20Dirges.md) · [Story index](../README.md) · [Next：The Ninth Virtue →](1907-The%20Ninth%20Virtue.md)
+<!-- reading-navigation:end -->
+
 - Category: Anecdotes
 - Chapter ID: `1906`
 - Story Units: `8`
@@ -1135,3 +1139,9 @@ A budding sprout, the branching veins of a leaf, ...
 The two signatures form a journey that has never been taken.
 
 > **Title Card:** THE END
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：Pulp Comedy Dirges](1905-Pulp%20Comedy%20Dirges.md) · [Story index](../README.md) · [Next：The Ninth Virtue →](1907-The%20Ninth%20Virtue.md)
+<!-- reading-navigation:end -->

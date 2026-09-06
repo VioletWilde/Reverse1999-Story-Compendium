@@ -1,5 +1,9 @@
 # Unbound Series 070
 
+<!-- reading-navigation:start -->
+[← Previous：Unbound Series 069](069-Unbound-Series.md) · [Story index](../README.md) · [Next：Unbound Series 071 →](071-Unbound-Series.md)
+<!-- reading-navigation:end -->
+
 > These scripts contain readable story text but do not yet have a verified chapter binding.
 
 - Candidate Scripts: `1`
@@ -35,3 +39,9 @@ Your head must be feeling heavy, right?
 That's because she's just settled down on your hat.
 
 I think she likes you ... or your hat, at least.
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：Unbound Series 069](069-Unbound-Series.md) · [Story index](../README.md) · [Next：Unbound Series 071 →](071-Unbound-Series.md)
+<!-- reading-navigation:end -->

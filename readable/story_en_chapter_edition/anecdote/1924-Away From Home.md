@@ -1,5 +1,9 @@
 # Away From Home
 
+<!-- reading-navigation:start -->
+[← Previous：The Sea Breeze Still Whispers](1923-The%20Sea%20Breeze%20Still%20Whispers.md) · [Story index](../README.md) · [Next：The Diamond Con →](1925-The%20Diamond%20Con.md)
+<!-- reading-navigation:end -->
+
 - Category: Anecdotes
 - Chapter ID: `1924`
 - Story Units: `8`
@@ -1915,3 +1919,9 @@ At the end of the train, a small hand grips the rear guardrail.
 The train picks up speed. The tracks rattle. Birds scatter from the trees.
 
 Newborn sunlight streams through as the train bursts out of the tunnel, flooding the world in light.
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：The Sea Breeze Still Whispers](1923-The%20Sea%20Breeze%20Still%20Whispers.md) · [Story index](../README.md) · [Next：The Diamond Con →](1925-The%20Diamond%20Con.md)
+<!-- reading-navigation:end -->

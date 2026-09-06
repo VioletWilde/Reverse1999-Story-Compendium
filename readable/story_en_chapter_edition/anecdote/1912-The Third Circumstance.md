@@ -1,5 +1,9 @@
 # The Third Circumstance
 
+<!-- reading-navigation:start -->
+[← Previous：Finding Xavier](1911-Finding%20Xavier.md) · [Story index](../README.md) · [Next：The Lady's Etiquette →](1913-The%20Lady%27s%20Etiquette.md)
+<!-- reading-navigation:end -->
+
 - Category: Anecdotes
 - Chapter ID: `1912`
 - Story Units: `6`
@@ -1521,3 +1525,9 @@ The chocolate sways and melts on her tongue, causing a strange yet delightful ti
 **Emil**: Ha, looks like you are wide awake now. Well then, Captain, "Happy Hunting."
 
 > **Title Card:** THE END
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：Finding Xavier](1911-Finding%20Xavier.md) · [Story index](../README.md) · [Next：The Lady's Etiquette →](1913-The%20Lady%27s%20Etiquette.md)
+<!-- reading-navigation:end -->

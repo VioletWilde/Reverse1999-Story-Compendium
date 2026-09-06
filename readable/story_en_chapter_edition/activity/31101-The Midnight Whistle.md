@@ -1,5 +1,9 @@
 # The Midnight Whistle
 
+<!-- reading-navigation:start -->
+[← Previous：1987 Космическая Увертюра](27101-1987%20%D0%9A%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%20%D0%A3%D0%B2%D0%B5%D1%80%D1%82%D1%8E%D1%80%D0%B0.md) · [Story index](../README.md) · [Next：A Flowing Feast →](32101-A%20Flowing%20Feast.md)
+<!-- reading-navigation:end -->
+
 - Category: Event Stories
 - Chapter ID: `31101`
 - Story Units: `21`
@@ -5754,3 +5758,9 @@ Then her eyes fall on the illustrious, overlong, and entirely playful signature.
 "The youngest descendant of Arnold V, Voivode of Wallachia; true heir of Savonovic, first Duke of Arges; rightful lady of Castle Arges, daughter of Arnold VI ..."
 
 "... and the bravest vampire of the century, Rubuska, sends her regards!"
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：1987 Космическая Увертюра](27101-1987%20%D0%9A%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%20%D0%A3%D0%B2%D0%B5%D1%80%D1%82%D1%8E%D1%80%D0%B0.md) · [Story index](../README.md) · [Next：A Flowing Feast →](32101-A%20Flowing%20Feast.md)
+<!-- reading-navigation:end -->

@@ -1,5 +1,9 @@
 # Unbound Series 053
 
+<!-- reading-navigation:start -->
+[← Previous：Unbound Series 052](052-Unbound-Series.md) · [Story index](../README.md) · [Next：Unbound Series 054 →](054-Unbound-Series.md)
+<!-- reading-navigation:end -->
+
 > These scripts contain readable story text but do not yet have a verified chapter binding.
 
 - Candidate Scripts: `3`
@@ -25,3 +29,9 @@
 ...
 
 **Leilani**: Shoot! We screwed it up, haha!
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：Unbound Series 052](052-Unbound-Series.md) · [Story index](../README.md) · [Next：Unbound Series 054 →](054-Unbound-Series.md)
+<!-- reading-navigation:end -->

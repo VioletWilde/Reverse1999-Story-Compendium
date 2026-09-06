@@ -1,5 +1,9 @@
 # Unbound Series 018
 
+<!-- reading-navigation:start -->
+[← Previous：Unbound Series 017](017-Unbound-Series.md) · [Story index](../README.md) · [Next：Unbound Series 019 →](019-Unbound-Series.md)
+<!-- reading-navigation:end -->
+
 > These scripts contain readable story text but do not yet have a verified chapter binding.
 
 - Candidate Scripts: `2`
@@ -105,3 +109,9 @@ She sees the genuine look on your face, and her confidence starts to waver.
 **Matilda**: If you want me at your party, make sure it is scheduled after my family time.
 
 - **Choice:** Would you mind excusing me? I'll catch up with you soon
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：Unbound Series 017](017-Unbound-Series.md) · [Story index](../README.md) · [Next：Unbound Series 019 →](019-Unbound-Series.md)
+<!-- reading-navigation:end -->

@@ -1,5 +1,9 @@
 # A Night Without End
 
+<!-- reading-navigation:start -->
+[← Previous：A Day Plotted Logarithmically](1917-A%20Day%20Plotted%20Logarithmically.md) · [Story index](../README.md) · [Next：A Fool's Gold →](1919-A%20Fool%27s%20Gold.md)
+<!-- reading-navigation:end -->
+
 - Category: Anecdotes
 - Chapter ID: `1918`
 - Story Units: `8`
@@ -1737,3 +1741,9 @@ He closes his eyes.
 **Patient Cobb**: Ah, d'you see it?
 
 **Patient Cobb**: My puppy—the one I lost—has been hidin' there by the riverbank all along.
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：A Day Plotted Logarithmically](1917-A%20Day%20Plotted%20Logarithmically.md) · [Story index](../README.md) · [Next：A Fool's Gold →](1919-A%20Fool%27s%20Gold.md)
+<!-- reading-navigation:end -->

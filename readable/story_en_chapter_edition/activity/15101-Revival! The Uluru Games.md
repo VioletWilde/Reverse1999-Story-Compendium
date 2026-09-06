@@ -1,5 +1,9 @@
 # Revival! The Uluru Games
 
+<!-- reading-navigation:start -->
+[← Previous：Journey to Mor Pankh](13101-Journey%20to%20Mor%20Pankh.md) · [Story index](../README.md) · [Next：Notes on Shuòrì →](16101-Notes%20on%20Shu%C3%B2r%C3%AC.md)
+<!-- reading-navigation:end -->
+
 - Category: Event Stories
 - Chapter ID: `15101`
 - Story Units: `15`
@@ -3856,3 +3860,9 @@ The strokes carved out by gravel and fire run down from the Bunyip's spine to bo
 **Vertin**: No matter how many times the Storm reshapes the world from top to bottom ...<br>No matter how the times or the lifestyle change ...<br>No matter how ignorant people become ...<br>Whenever they open the gate to the Uluru Stadium again, <br>they will remember the spirit and faith it has been conveying.<br>Things will change in the unstoppable river of time, <br>yet the Uluru Stadium shall remain forever.
 
 > **Title Card:** 5#2
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：Journey to Mor Pankh](13101-Journey%20to%20Mor%20Pankh.md) · [Story index](../README.md) · [Next：Notes on Shuòrì →](16101-Notes%20on%20Shu%C3%B2r%C3%AC.md)
+<!-- reading-navigation:end -->

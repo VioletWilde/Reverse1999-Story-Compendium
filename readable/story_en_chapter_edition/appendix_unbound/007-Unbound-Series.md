@@ -1,5 +1,9 @@
 # Unbound Series 007
 
+<!-- reading-navigation:start -->
+[← Previous：Unbound Series 006](006-Unbound-Series.md) · [Story index](../README.md) · [Next：Unbound Series 008 →](008-Unbound-Series.md)
+<!-- reading-navigation:end -->
+
 > These scripts contain readable story text but do not yet have a verified chapter binding.
 
 - Candidate Scripts: `3`
@@ -291,3 +295,9 @@ There's still a little time before the rehearsal starts, enough for her to catch
 **Vila**: Slowly, the minutes float by.
 
 **Vila**: We don't expect to meet them anymore.
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：Unbound Series 006](006-Unbound-Series.md) · [Story index](../README.md) · [Next：Unbound Series 008 →](008-Unbound-Series.md)
+<!-- reading-navigation:end -->

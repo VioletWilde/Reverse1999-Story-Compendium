@@ -1,5 +1,9 @@
 # Floor it! To the Golden City
 
+<!-- reading-navigation:start -->
+[← Previous：Farewell, Rayashki](18101-Farewell%2C%20Rayashki.md) · [Story index](../README.md) · [Next：Route 77: The Haunted Highway →](21101-Route%2077_%20The%20Haunted%20Highway.md)
+<!-- reading-navigation:end -->
+
 - Category: Event Stories
 - Chapter ID: `20101`
 - Story Units: `22`
@@ -5285,3 +5289,9 @@ Dozens, even hundreds of crystal spheres scatter to the floor, like pearls from 
 They fill the room, each one marred by a web of cracks.
 
 **Matilda**: Mama?!
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：Farewell, Rayashki](18101-Farewell%2C%20Rayashki.md) · [Story index](../README.md) · [Next：Route 77: The Haunted Highway →](21101-Route%2077_%20The%20Haunted%20Highway.md)
+<!-- reading-navigation:end -->

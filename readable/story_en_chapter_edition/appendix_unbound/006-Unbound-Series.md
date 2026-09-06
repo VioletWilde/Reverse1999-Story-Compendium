@@ -1,5 +1,9 @@
 # Unbound Series 006
 
+<!-- reading-navigation:start -->
+[← Previous：Unbound Series 005](005-Unbound-Series.md) · [Story index](../README.md) · [Next：Unbound Series 007 →](007-Unbound-Series.md)
+<!-- reading-navigation:end -->
+
 > These scripts contain readable story text but do not yet have a verified chapter binding.
 
 - Candidate Scripts: `5`
@@ -969,3 +973,9 @@ Before her lay another sheet of paper. The local chronicle has been completed. T
 **Pandora Wilson**: Before my old friend knocks on the door of UTTU Magazine—
 
 **Pandora Wilson**: We obviously have our own business to attend to.
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：Unbound Series 005](005-Unbound-Series.md) · [Story index](../README.md) · [Next：Unbound Series 007 →](007-Unbound-Series.md)
+<!-- reading-navigation:end -->

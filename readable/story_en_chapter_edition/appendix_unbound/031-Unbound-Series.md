@@ -1,5 +1,9 @@
 # Unbound Series 031
 
+<!-- reading-navigation:start -->
+[← Previous：Unbound Series 030](030-Unbound-Series.md) · [Story index](../README.md) · [Next：Unbound Series 032 →](032-Unbound-Series.md)
+<!-- reading-navigation:end -->
+
 > These scripts contain readable story text but do not yet have a verified chapter binding.
 
 - Candidate Scripts: `3`
@@ -25,3 +29,9 @@
 ...
 
 **Sonetto**: Repeat, and repeat again, until the memory solidifies—just like they teach at the SPDM?
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：Unbound Series 030](030-Unbound-Series.md) · [Story index](../README.md) · [Next：Unbound Series 032 →](032-Unbound-Series.md)
+<!-- reading-navigation:end -->

@@ -1,5 +1,9 @@
 # Last Evenings on Earth
 
+<!-- reading-navigation:start -->
+[← Previous：Chronicles of Uluru: London Dawning](23101-Chronicles%20of%20Uluru_%20London%20Dawning.md) · [Story index](../README.md) · [Next：Showdown in Chinatown →](25101-Showdown%20in%20Chinatown.md)
+<!-- reading-navigation:end -->
+
 - Category: Event Stories
 - Chapter ID: `24101`
 - Story Units: `23`
@@ -5148,3 +5152,9 @@ A familiar ballad leaves Barcarola's lips.
 **Sonetto**: That's a Foundation helicopter!
 
 **Vertin**: That island ...
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：Chronicles of Uluru: London Dawning](23101-Chronicles%20of%20Uluru_%20London%20Dawning.md) · [Story index](../README.md) · [Next：Showdown in Chinatown →](25101-Showdown%20in%20Chinatown.md)
+<!-- reading-navigation:end -->

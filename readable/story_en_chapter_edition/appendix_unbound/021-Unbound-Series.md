@@ -1,5 +1,9 @@
 # Unbound Series 021
 
+<!-- reading-navigation:start -->
+[← Previous：Unbound Series 020](020-Unbound-Series.md) · [Story index](../README.md) · [Next：Unbound Series 022 →](022-Unbound-Series.md)
+<!-- reading-navigation:end -->
+
 > These scripts contain readable story text but do not yet have a verified chapter binding.
 
 - Candidate Scripts: `2`
@@ -99,3 +103,9 @@ For a brief moment, you can't quite place who she is. You recognize the metal to
 **Lucy**: then I would have to stop resting too. Please provide an alternative suggestion.
 
 - **Choice:** I'll catch up with you later; we can discuss it then
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：Unbound Series 020](020-Unbound-Series.md) · [Story index](../README.md) · [Next：Unbound Series 022 →](022-Unbound-Series.md)
+<!-- reading-navigation:end -->

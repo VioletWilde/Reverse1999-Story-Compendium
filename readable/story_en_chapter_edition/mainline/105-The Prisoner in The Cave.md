@@ -1,5 +1,9 @@
 # The Prisoner in The Cave
 
+<!-- reading-navigation:start -->
+[← Previous：El oro de los tigres](104-El%20oro%20de%20los%20tigres.md) · [Story index](../README.md) · [Next：E lucevan le stelle →](106-E%20lucevan%20le%20stelle.md)
+<!-- reading-navigation:end -->
+
 - Category: Main Story
 - Chapter ID: `105`
 - Story Units: `21`
@@ -3840,3 +3844,9 @@ A fleet in black is breaking the waves and sailing toward the island.
 **Sophia**: Did you bring the humans' army here?
 
 > **Title Card:** THE END
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：El oro de los tigres](104-El%20oro%20de%20los%20tigres.md) · [Story index](../README.md) · [Next：E lucevan le stelle →](106-E%20lucevan%20le%20stelle.md)
+<!-- reading-navigation:end -->

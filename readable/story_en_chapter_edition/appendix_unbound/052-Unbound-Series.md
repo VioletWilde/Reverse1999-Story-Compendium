@@ -1,5 +1,9 @@
 # Unbound Series 052
 
+<!-- reading-navigation:start -->
+[← Previous：Unbound Series 051](051-Unbound-Series.md) · [Story index](../README.md) · [Next：Unbound Series 053 →](053-Unbound-Series.md)
+<!-- reading-navigation:end -->
+
 > These scripts contain readable story text but do not yet have a verified chapter binding.
 
 - Candidate Scripts: `3`
@@ -25,3 +29,9 @@
 ...
 
 **Sotheby**: Would you like to roll on the dewy grass? Or perhaps snack on some delicious goldstone paste?
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：Unbound Series 051](051-Unbound-Series.md) · [Story index](../README.md) · [Next：Unbound Series 053 →](053-Unbound-Series.md)
+<!-- reading-navigation:end -->

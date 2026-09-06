@@ -1,5 +1,9 @@
 # Unbound Series 004
 
+<!-- reading-navigation:start -->
+[← Previous：Unbound Series 003](003-Unbound-Series.md) · [Story index](../README.md) · [Next：Unbound Series 005 →](005-Unbound-Series.md)
+<!-- reading-navigation:end -->
+
 > These scripts contain readable story text but do not yet have a verified chapter binding.
 
 - Candidate Scripts: `4`
@@ -223,3 +227,9 @@ However, 210 has never been one to let silence of even this extreme degree deter
 Sophia at the edge of her patience at last, reluctantly closes her magazine, intent on resolving their dispute.
 
 **Sophia**: For all your boasting, you both seem to have evaded the obvious truth at the end of your noses. Neither of you were old enough to be mentioned when this article was published.
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：Unbound Series 003](003-Unbound-Series.md) · [Story index](../README.md) · [Next：Unbound Series 005 →](005-Unbound-Series.md)
+<!-- reading-navigation:end -->

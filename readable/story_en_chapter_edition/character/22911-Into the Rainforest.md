@@ -1,5 +1,9 @@
 # Into the Rainforest
 
+<!-- reading-navigation:start -->
+[← Previous：On the Thousandth Night](20603-On%20the%20Thousandth%20Night.md) · [Story index](../README.md) · [Next：Shadow of the Sun →](23501-Shadow%20of%20the%20Sun.md)
+<!-- reading-navigation:end -->
+
 - Category: Character Stories
 - Chapter ID: `22911`
 - Story Units: `9`
@@ -2262,3 +2266,9 @@ The admiral scrapes a leaf off his boot against a dew-coated rock.
 **Lopera**: I trust you, Father.
 
 Lopera looks up, only able to see her father's towering shoulders.
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：On the Thousandth Night](20603-On%20the%20Thousandth%20Night.md) · [Story index](../README.md) · [Next：Shadow of the Sun →](23501-Shadow%20of%20the%20Sun.md)
+<!-- reading-navigation:end -->

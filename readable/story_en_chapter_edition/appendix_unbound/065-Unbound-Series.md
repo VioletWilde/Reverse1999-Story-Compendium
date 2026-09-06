@@ -1,5 +1,9 @@
 # Unbound Series 065
 
+<!-- reading-navigation:start -->
+[← Previous：Unbound Series 064](064-Unbound-Series.md) · [Story index](../README.md) · [Next：Unbound Series 066 →](066-Unbound-Series.md)
+<!-- reading-navigation:end -->
+
 > These scripts contain readable story text but do not yet have a verified chapter binding.
 
 - Candidate Scripts: `1`
@@ -41,3 +45,9 @@ Without attracting any attention, the chief assistant collects a piece of cardbo
 The chief assistant pulls out her glasfeder. Delicately twirling it over the cardboard as she thinks. Finally, she launches into a dance of delicate strokes that begin to glow faintly as she raises her glasfeder.
 
 **Sonetto**: I believe in you.
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：Unbound Series 064](064-Unbound-Series.md) · [Story index](../README.md) · [Next：Unbound Series 066 →](066-Unbound-Series.md)
+<!-- reading-navigation:end -->

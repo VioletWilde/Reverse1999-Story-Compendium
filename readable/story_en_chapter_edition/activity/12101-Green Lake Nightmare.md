@@ -1,5 +1,9 @@
 # Green Lake Nightmare
 
+<!-- reading-navigation:start -->
+[← Previous：The Rimet Cup](11101-The%20Rimet%20Cup.md) · [Story index](../README.md) · [Next：Journey to Mor Pankh →](13101-Journey%20to%20Mor%20Pankh.md)
+<!-- reading-navigation:end -->
+
 - Category: Event Stories
 - Chapter ID: `12101`
 - Story Units: `18`
@@ -3013,3 +3017,9 @@ This is also the right moment for a spooky figure to rise from the bushes.
 **Z**: Hello, is it the Liaison Department of Zeno Armaments Academy? I am Z. Please put me through Lieutenant Vanya.
 
 > **Title Card:** 2#1
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：The Rimet Cup](11101-The%20Rimet%20Cup.md) · [Story index](../README.md) · [Next：Journey to Mor Pankh →](13101-Journey%20to%20Mor%20Pankh.md)
+<!-- reading-navigation:end -->

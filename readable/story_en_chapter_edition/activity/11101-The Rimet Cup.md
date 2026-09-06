@@ -1,5 +1,9 @@
 # The Rimet Cup
 
+<!-- reading-navigation:start -->
+[Story index](../README.md) · [Next：Green Lake Nightmare →](12101-Green%20Lake%20Nightmare.md)
+<!-- reading-navigation:end -->
+
 - Category: Event Stories
 - Chapter ID: `11101`
 - Story Units: `16`
@@ -2899,3 +2903,9 @@ On the other side of the hall, someone else is crying.
 **???**: And I am also sincerely looking forward to ... your stories.
 
 > **Title Card:** THE END
+
+---
+
+<!-- reading-navigation:start -->
+[Story index](../README.md) · [Next：Green Lake Nightmare →](12101-Green%20Lake%20Nightmare.md)
+<!-- reading-navigation:end -->

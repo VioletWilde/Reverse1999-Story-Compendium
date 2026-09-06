@@ -1,5 +1,9 @@
 # Unbound Series 026
 
+<!-- reading-navigation:start -->
+[← Previous：Unbound Series 025](025-Unbound-Series.md) · [Story index](../README.md) · [Next：Unbound Series 027 →](027-Unbound-Series.md)
+<!-- reading-navigation:end -->
+
 > These scripts contain readable story text but do not yet have a verified chapter binding.
 
 - Candidate Scripts: `3`
@@ -25,3 +29,9 @@
 ...
 
 **Thirty-seven**: No, that doesn't make sense. Let's do the calculation again.
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：Unbound Series 025](025-Unbound-Series.md) · [Story index](../README.md) · [Next：Unbound Series 027 →](027-Unbound-Series.md)
+<!-- reading-navigation:end -->

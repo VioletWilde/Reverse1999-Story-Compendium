@@ -1,5 +1,9 @@
 # Vereinsamt
 
+<!-- reading-navigation:start -->
+[← Previous：E lucevan le stelle](106-E%20lucevan%20le%20stelle.md) · [Story index](../README.md) · [Next：Tristes Tropiques →](108-Tristes%20Tropiques.md)
+<!-- reading-navigation:end -->
+
 - Category: Main Story
 - Chapter: Chapter 7
 - Version: Version 1.9
@@ -7723,3 +7727,9 @@ The sunlight dances on her metallic surface, enveloping her in a golden aura.
 **Lucy**: There is a 230-volt bath at the resort, right?
 
 > **Title Card:** THE END
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：E lucevan le stelle](106-E%20lucevan%20le%20stelle.md) · [Story index](../README.md) · [Next：Tristes Tropiques →](108-Tristes%20Tropiques.md)
+<!-- reading-navigation:end -->

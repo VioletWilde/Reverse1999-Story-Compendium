@@ -1,5 +1,9 @@
 # El oro de los tigres
 
+<!-- reading-navigation:start -->
+[← Previous：Nouvelles et Textes pour rien](103-Nouvelles%20et%20Textes%20pour%20rien.md) · [Story index](../README.md) · [Next：The Prisoner in The Cave →](105-The%20Prisoner%20in%20The%20Cave.md)
+<!-- reading-navigation:end -->
+
 - Category: Main Story
 - Chapter ID: `104`
 - Story Units: `23`
@@ -3954,3 +3958,9 @@ May the good luck go with you. Happy birthday to you.
 *blows out the candle*
 
 > **Title Card:** THE END
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：Nouvelles et Textes pour rien](103-Nouvelles%20et%20Textes%20pour%20rien.md) · [Story index](../README.md) · [Next：The Prisoner in The Cave →](105-The%20Prisoner%20in%20The%20Cave.md)
+<!-- reading-navigation:end -->

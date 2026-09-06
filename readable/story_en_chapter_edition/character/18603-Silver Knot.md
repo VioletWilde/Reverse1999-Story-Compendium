@@ -1,5 +1,9 @@
 # Silver Knot
 
+<!-- reading-navigation:start -->
+[← Previous：Dawn Arrives as Usual](18601-Dawn%20Arrives%20as%20Usual.md) · [Story index](../README.md) · [Next：Long Night Trudge →](19101-Long%20Night%20Trudge.md)
+<!-- reading-navigation:end -->
+
 - Category: Character Stories
 - Chapter ID: `18603`
 - Story Units: `8`
@@ -2035,3 +2039,9 @@ She smiles, looking into what she believes to be the robot's eyes.
 **Windsong**: I look forward to working with you, Comrade Lucy.
 
 > **Title Card:** 8#2
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：Dawn Arrives as Usual](18601-Dawn%20Arrives%20as%20Usual.md) · [Story index](../README.md) · [Next：Long Night Trudge →](19101-Long%20Night%20Trudge.md)
+<!-- reading-navigation:end -->

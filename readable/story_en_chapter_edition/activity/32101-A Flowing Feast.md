@@ -1,5 +1,9 @@
 # A Flowing Feast
 
+<!-- reading-navigation:start -->
+[← Previous：The Midnight Whistle](31101-The%20Midnight%20Whistle.md) · [Story index](../README.md) · [Next：Spring Unending →](34101-Spring%20Unending.md)
+<!-- reading-navigation:end -->
+
 - Category: Event Stories
 - Chapter ID: `32101`
 - Story Units: `20`
@@ -4565,3 +4569,9 @@ Her smile is warm and gentle, but her eyes don't match.
 **Beryl**: You have seen the golden thread, have you not?
 
 A  F l o w i n g  F e a s t
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：The Midnight Whistle](31101-The%20Midnight%20Whistle.md) · [Story index](../README.md) · [Next：Spring Unending →](34101-Spring%20Unending.md)
+<!-- reading-navigation:end -->

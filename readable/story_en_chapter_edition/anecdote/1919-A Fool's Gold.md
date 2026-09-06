@@ -1,5 +1,9 @@
 # A Fool's Gold
 
+<!-- reading-navigation:start -->
+[← Previous：A Night Without End](1918-A%20Night%20Without%20End.md) · [Story index](../README.md) · [Next：The  Best Band in Town →](1920-The%20Best%20Band%20in%20Town.md)
+<!-- reading-navigation:end -->
+
 - Category: Anecdotes
 - Chapter ID: `1919`
 - Story Units: `8`
@@ -1545,3 +1549,9 @@ Mercuria softly says the last of her words, then begins to dance. As she does, a
 **Advertisement I**: Organic fruit, health and quality guaranteed—is there really anything more important in life?
 
 ### Segment 2 `script 3095015`
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：A Night Without End](1918-A%20Night%20Without%20End.md) · [Story index](../README.md) · [Next：The  Best Band in Town →](1920-The%20Best%20Band%20in%20Town.md)
+<!-- reading-navigation:end -->

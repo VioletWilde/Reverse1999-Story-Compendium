@@ -1,5 +1,9 @@
 # Unbound Series 067
 
+<!-- reading-navigation:start -->
+[← Previous：Unbound Series 066](066-Unbound-Series.md) · [Story index](../README.md) · [Next：Unbound Series 068 →](068-Unbound-Series.md)
+<!-- reading-navigation:end -->
+
 > These scripts contain readable story text but do not yet have a verified chapter binding.
 
 - Candidate Scripts: `2`
@@ -383,3 +387,9 @@ The robot blinks cheerfully.
 **Enigma**: Goodbye, Madam Luc—
 
 **Enigma**: Wait, hold on, don't hang up! What did you just say?!
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：Unbound Series 066](066-Unbound-Series.md) · [Story index](../README.md) · [Next：Unbound Series 068 →](068-Unbound-Series.md)
+<!-- reading-navigation:end -->

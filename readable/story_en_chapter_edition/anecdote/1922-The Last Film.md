@@ -1,5 +1,9 @@
 # The Last Film
 
+<!-- reading-navigation:start -->
+[← Previous：The Ghost Master](1921-The%20Ghost%20Master.md) · [Story index](../README.md) · [Next：The Sea Breeze Still Whispers →](1923-The%20Sea%20Breeze%20Still%20Whispers.md)
+<!-- reading-navigation:end -->
+
 - Category: Anecdotes
 - Chapter ID: `1922`
 - Story Units: `8`
@@ -1663,3 +1667,9 @@ Bette shakes the film strip in her hand.
 **Bette**: I promise—it will be spectacular.
 
 The last film of the 1930s.
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：The Ghost Master](1921-The%20Ghost%20Master.md) · [Story index](../README.md) · [Next：The Sea Breeze Still Whispers →](1923-The%20Sea%20Breeze%20Still%20Whispers.md)
+<!-- reading-navigation:end -->

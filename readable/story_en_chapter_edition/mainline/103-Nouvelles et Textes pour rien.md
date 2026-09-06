@@ -1,5 +1,9 @@
 # Nouvelles et Textes pour rien
 
+<!-- reading-navigation:start -->
+[← Previous：Tender is the Night](102-Tender%20is%20the%20Night.md) · [Story index](../README.md) · [Next：El oro de los tigres →](104-El%20oro%20de%20los%20tigres.md)
+<!-- reading-navigation:end -->
+
 - Category: Main Story
 - Chapter ID: `103`
 - Story Units: `16`
@@ -2575,3 +2579,9 @@ There is a gentle push at the back; Vertin finds herself standing outside the do
 **Constantine**: Heh, checkmate.
 
 > **Title Card:** THE END
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：Tender is the Night](102-Tender%20is%20the%20Night.md) · [Story index](../README.md) · [Next：El oro de los tigres →](104-El%20oro%20de%20los%20tigres.md)
+<!-- reading-navigation:end -->

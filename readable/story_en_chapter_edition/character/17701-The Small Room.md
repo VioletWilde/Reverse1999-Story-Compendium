@@ -1,5 +1,9 @@
 # The Small Room
 
+<!-- reading-navigation:start -->
+[← Previous：Flowing in the Wind](16603-Flowing%20in%20the%20Wind.md) · [Story index](../README.md) · [Next：The Tall Lighthouse →](17703-The%20Tall%20Lighthouse.md)
+<!-- reading-navigation:end -->
+
 - Category: Character Stories
 - Chapter ID: `17701`
 - Story Units: `8`
@@ -2301,3 +2305,9 @@ She is a key.
 The key that will finally unlock my door.
 
 > **Title Card:** THE END
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：Flowing in the Wind](16603-Flowing%20in%20the%20Wind.md) · [Story index](../README.md) · [Next：The Tall Lighthouse →](17703-The%20Tall%20Lighthouse.md)
+<!-- reading-navigation:end -->

@@ -1,5 +1,9 @@
 # The Sea Breeze Still Whispers
 
+<!-- reading-navigation:start -->
+[← Previous：The Last Film](1922-The%20Last%20Film.md) · [Story index](../README.md) · [Next：Away From Home →](1924-Away%20From%20Home.md)
+<!-- reading-navigation:end -->
+
 - Category: Anecdotes
 - Chapter ID: `1923`
 - Story Units: `8`
@@ -1317,3 +1321,9 @@ And softly hums a tune.
 **Fatutu**: "The shell's warning keeps me on course. Its grooves show me the path."
 
 **Fatutu**: "I will return. I have returned."
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：The Last Film](1922-The%20Last%20Film.md) · [Story index](../README.md) · [Next：Away From Home →](1924-Away%20From%20Home.md)
+<!-- reading-navigation:end -->

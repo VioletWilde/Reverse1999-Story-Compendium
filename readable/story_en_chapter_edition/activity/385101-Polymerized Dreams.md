@@ -1,5 +1,9 @@
 # Polymerized Dreams
 
+<!-- reading-navigation:start -->
+[← Previous：DRAMA IN ATHENS](305201-DRAMA%20IN%20ATHENS.md) · [Story index](../README.md)
+<!-- reading-navigation:end -->
+
 - Category: Event Stories
 - Chapter ID: `385101`
 - Story Units: `16`
@@ -3361,3 +3365,9 @@ Soon the laboratory quiets down.
 Lucy removes her human mask, revealing her expressionless metallic face beneath. Yet the red light pulses, pondering the future.
 
 In that moment, standing on the bridge between two worlds, two forms of inorganic life discuss the very nature of being.
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：DRAMA IN ATHENS](305201-DRAMA%20IN%20ATHENS.md) · [Story index](../README.md)
+<!-- reading-navigation:end -->

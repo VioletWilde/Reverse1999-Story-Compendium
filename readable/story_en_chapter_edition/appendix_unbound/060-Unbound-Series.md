@@ -1,5 +1,9 @@
 # Unbound Series 060
 
+<!-- reading-navigation:start -->
+[← Previous：Unbound Series 059](059-Unbound-Series.md) · [Story index](../README.md) · [Next：Unbound Series 061 →](061-Unbound-Series.md)
+<!-- reading-navigation:end -->
+
 > These scripts contain readable story text but do not yet have a verified chapter binding.
 
 - Candidate Scripts: `3`
@@ -25,3 +29,9 @@
 ...
 
 **Willow**: Humph. Do it again.
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：Unbound Series 059](059-Unbound-Series.md) · [Story index](../README.md) · [Next：Unbound Series 061 →](061-Unbound-Series.md)
+<!-- reading-navigation:end -->

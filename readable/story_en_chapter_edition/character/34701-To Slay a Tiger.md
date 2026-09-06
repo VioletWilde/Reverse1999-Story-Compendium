@@ -1,5 +1,9 @@
 # To Slay a Tiger
 
+<!-- reading-navigation:start -->
+[← Previous：Fuga a 3 Soggetti](30601-Fuga%20a%203%20Soggetti.md) · [Story index](../README.md)
+<!-- reading-navigation:end -->
+
 - Category: Character Stories
 - Chapter ID: `34701`
 - Story Units: `8`
@@ -1811,3 +1815,9 @@ A house consumed by fierce flames.
 **Cheng Heguang**: I could never find what I'm seeking in that home.
 
 **Cheng Heguang**: So I burned it down and left.
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：Fuga a 3 Soggetti](30601-Fuga%20a%203%20Soggetti.md) · [Story index](../README.md)
+<!-- reading-navigation:end -->

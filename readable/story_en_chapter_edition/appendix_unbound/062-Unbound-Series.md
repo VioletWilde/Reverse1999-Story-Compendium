@@ -1,5 +1,9 @@
 # Unbound Series 062
 
+<!-- reading-navigation:start -->
+[← Previous：Unbound Series 061](061-Unbound-Series.md) · [Story index](../README.md) · [Next：Unbound Series 063 →](063-Unbound-Series.md)
+<!-- reading-navigation:end -->
+
 > These scripts contain readable story text but do not yet have a verified chapter binding.
 
 - Candidate Scripts: `1`
@@ -37,3 +41,9 @@
 **???**: Don't be alarmed. I'm not your enemy—for now. I've received no such orders.
 
 **???**: ...Vertin, sometimes I wonder—do you truly believe it's better to force someone to live than to let them die for a cause? Perhaps we'll find the answer through our future cooperation ... No, forget I said that. I hope you won't have to see me again.
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：Unbound Series 061](061-Unbound-Series.md) · [Story index](../README.md) · [Next：Unbound Series 063 →](063-Unbound-Series.md)
+<!-- reading-navigation:end -->

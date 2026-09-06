@@ -1,5 +1,9 @@
 # Night Escapades on Cross Street
 
+<!-- reading-navigation:start -->
+[← Previous：Shadow of the Sun](23501-Shadow%20of%20the%20Sun.md) · [Story index](../README.md) · [Next：Beyond the Coastline →](24501-Beyond%20the%20Coastline.md)
+<!-- reading-navigation:end -->
+
 - Category: Character Stories
 - Chapter ID: `23601`
 - Story Units: `7`
@@ -1634,3 +1638,9 @@ It is a gift, sent to her from her mysterious friend, wrapped in the most beauti
 The little bird flutters its wings and alights from her shoulder.
 
 It glides up over the eaves and soars above the streets of London, riding the wind into the distant horizon.
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：Shadow of the Sun](23501-Shadow%20of%20the%20Sun.md) · [Story index](../README.md) · [Next：Beyond the Coastline →](24501-Beyond%20the%20Coastline.md)
+<!-- reading-navigation:end -->

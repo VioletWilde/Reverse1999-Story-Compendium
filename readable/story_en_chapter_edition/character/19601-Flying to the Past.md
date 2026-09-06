@@ -1,5 +1,9 @@
 # Flying to the Past
 
+<!-- reading-navigation:start -->
+[← Previous：Long Night Trudge](19101-Long%20Night%20Trudge.md) · [Story index](../README.md) · [Next：Through the Glass →](19603-Through%20the%20Glass.md)
+<!-- reading-navigation:end -->
+
 - Category: Character Stories
 - Chapter ID: `19601`
 - Story Units: `8`
@@ -1805,3 +1809,9 @@ No matter whether you rage against it, take every moment you can, or give up hal
 **Lucy**: I just kept you company along the way.
 
 **Lucy**: That is all I did.
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：Long Night Trudge](19101-Long%20Night%20Trudge.md) · [Story index](../README.md) · [Next：Through the Glass →](19603-Through%20the%20Glass.md)
+<!-- reading-navigation:end -->

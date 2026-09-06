@@ -1,5 +1,9 @@
 # Unbound Series 057
 
+<!-- reading-navigation:start -->
+[← Previous：Unbound Series 056](056-Unbound-Series.md) · [Story index](../README.md) · [Next：Unbound Series 058 →](058-Unbound-Series.md)
+<!-- reading-navigation:end -->
+
 > These scripts contain readable story text but do not yet have a verified chapter binding.
 
 - Candidate Scripts: `4`
@@ -347,3 +351,9 @@ She has never hesitated when breaking with the past.
 **Semmelweis**: Perhaps I still have something the Foundation wants.
 
 Semmelweis's story is far from over.
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：Unbound Series 056](056-Unbound-Series.md) · [Story index](../README.md) · [Next：Unbound Series 058 →](058-Unbound-Series.md)
+<!-- reading-navigation:end -->

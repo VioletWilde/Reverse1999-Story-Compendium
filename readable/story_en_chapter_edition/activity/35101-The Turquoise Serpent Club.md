@@ -1,5 +1,9 @@
 # The Turquoise Serpent Club
 
+<!-- reading-navigation:start -->
+[← Previous：Spring Unending](34101-Spring%20Unending.md) · [Story index](../README.md) · [Next：Last and First Principles →](36101-Last%20and%20First%20Principles.md)
+<!-- reading-navigation:end -->
+
 - Category: Event Stories
 - Chapter ID: `35101`
 - Story Units: `21`
@@ -4800,3 +4804,9 @@ Several mice work hard to lug over a cleaned painting and place it at her feet.
 **Lady by the Lake**: This may sound a little brash, but ...
 
 **Lady by the Lake**: Might I stay inside your Suitcase?
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：Spring Unending](34101-Spring%20Unending.md) · [Story index](../README.md) · [Next：Last and First Principles →](36101-Last%20and%20First%20Principles.md)
+<!-- reading-navigation:end -->

@@ -1,5 +1,9 @@
 # Erick — Character Story
 
+<!-- reading-navigation:start -->
+[← Previous：Dikke — Character Story](1903-Dikke%20%E2%80%94%20Character%20Story.md) · [Story index](../README.md) · [Next：Pulp Comedy Dirges →](1905-Pulp%20Comedy%20Dirges.md)
+<!-- reading-navigation:end -->
+
 - Category: Anecdotes
 - Chapter ID: `1904`
 - Story Units: `8`
@@ -1795,3 +1799,9 @@ She immediately shakes her head.
 She looks out the window, turning her gaze to the stormy sky.
 
 > **Title Card:** THE END
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：Dikke — Character Story](1903-Dikke%20%E2%80%94%20Character%20Story.md) · [Story index](../README.md) · [Next：Pulp Comedy Dirges →](1905-Pulp%20Comedy%20Dirges.md)
+<!-- reading-navigation:end -->

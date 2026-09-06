@@ -1,5 +1,9 @@
 # Fuga a 3 Soggetti
 
+<!-- reading-navigation:start -->
+[← Previous：Beyond the Coastline](24501-Beyond%20the%20Coastline.md) · [Story index](../README.md) · [Next：To Slay a Tiger →](34701-To%20Slay%20a%20Tiger.md)
+<!-- reading-navigation:end -->
+
 - Category: Character Stories
 - Chapter ID: `30601`
 - Story Units: `8`
@@ -1649,3 +1653,9 @@ Fabien, Partita, countless others—the young, tortured faces of war.
 He walks alone to meet them, to carry out his last and only duty.
 
 He raises the shovel and plunges it into the earth.
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：Beyond the Coastline](24501-Beyond%20the%20Coastline.md) · [Story index](../README.md) · [Next：To Slay a Tiger →](34701-To%20Slay%20a%20Tiger.md)
+<!-- reading-navigation:end -->

@@ -1,5 +1,9 @@
 # La Primavera di Firenze
 
+<!-- reading-navigation:start -->
+[← Previous：The Temporal Scale](38101-The%20Temporal%20Scale.md) · [Story index](../README.md) · [Next：DRAMA IN ATHENS →](305201-DRAMA%20IN%20ATHENS.md)
+<!-- reading-navigation:end -->
+
 - Category: Event Stories
 - Chapter ID: `305101`
 - Story Units: `12`
@@ -2785,3 +2789,9 @@ The gentle and warm memory scatters with the wind, eventually melting in the aft
 The young Auditore still remembers how they used to laugh and cry like innocent children; the entire world was waiting for them to explore.
 
 A Moment of Peace for the Auditore.
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：The Temporal Scale](38101-The%20Temporal%20Scale.md) · [Story index](../README.md) · [Next：DRAMA IN ATHENS →](305201-DRAMA%20IN%20ATHENS.md)
+<!-- reading-navigation:end -->

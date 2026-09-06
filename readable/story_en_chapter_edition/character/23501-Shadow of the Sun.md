@@ -1,5 +1,9 @@
 # Shadow of the Sun
 
+<!-- reading-navigation:start -->
+[← Previous：Into the Rainforest](22911-Into%20the%20Rainforest.md) · [Story index](../README.md) · [Next：Night Escapades on Cross Street →](23601-Night%20Escapades%20on%20Cross%20Street.md)
+<!-- reading-navigation:end -->
+
 - Category: Character Stories
 - Chapter ID: `23501`
 - Story Units: `8`
@@ -1325,3 +1329,9 @@ Flowers, applause, cheers, lubricant, the golden sun, and a thousand shadows.
 She gently kisses the dented edge of the medal.
 
 **Willow**: Good night, my friend.
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：Into the Rainforest](22911-Into%20the%20Rainforest.md) · [Story index](../README.md) · [Next：Night Escapades on Cross Street →](23601-Night%20Escapades%20on%20Cross%20Street.md)
+<!-- reading-navigation:end -->

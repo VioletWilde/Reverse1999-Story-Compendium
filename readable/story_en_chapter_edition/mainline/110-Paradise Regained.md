@@ -1,5 +1,9 @@
 # Paradise Regained
 
+<!-- reading-navigation:start -->
+[← Previous：Folie et Déraison](109-Folie%20et%20D%C3%A9raison.md) · [Story index](../README.md) · [Next：A Long Long Way →](111-A%20Long%20Long%20Way.md)
+<!-- reading-navigation:end -->
+
 - Category: Main Story
 - Chapter ID: `110`
 - Story Units: `25`
@@ -6976,3 +6980,9 @@ Winter, spring, the years they turn.
 Let your heart grow brave and strong.
 
 > **Title Card:** THE END
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：Folie et Déraison](109-Folie%20et%20D%C3%A9raison.md) · [Story index](../README.md) · [Next：A Long Long Way →](111-A%20Long%20Long%20Way.md)
+<!-- reading-navigation:end -->

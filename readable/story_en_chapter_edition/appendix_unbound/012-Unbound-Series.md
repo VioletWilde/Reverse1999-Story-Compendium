@@ -1,5 +1,9 @@
 # Unbound Series 012
 
+<!-- reading-navigation:start -->
+[← Previous：Unbound Series 011](011-Unbound-Series.md) · [Story index](../README.md) · [Next：Unbound Series 013 →](013-Unbound-Series.md)
+<!-- reading-navigation:end -->
+
 > These scripts contain readable story text but do not yet have a verified chapter binding.
 
 - Candidate Scripts: `2`
@@ -119,3 +123,9 @@ Her tense shoulders fall with relief.
 **Sonetto**: Let us do this together, Timekeeper.
 
 - **Choice:** Sorry, I have other things to tend to
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：Unbound Series 011](011-Unbound-Series.md) · [Story index](../README.md) · [Next：Unbound Series 013 →](013-Unbound-Series.md)
+<!-- reading-navigation:end -->

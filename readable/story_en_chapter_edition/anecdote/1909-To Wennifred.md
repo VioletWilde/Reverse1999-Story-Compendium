@@ -1,5 +1,9 @@
 # To Wennifred
 
+<!-- reading-navigation:start -->
+[← Previous：The Will of Gears](1908-The%20Will%20of%20Gears.md) · [Story index](../README.md) · [Next：The Winds OF Juhalerat →](1910-The%20Winds%20OF%20Juhalerat.md)
+<!-- reading-navigation:end -->
+
 - Category: Anecdotes
 - Chapter ID: `1909`
 - Story Units: `8`
@@ -1527,3 +1531,9 @@ The water rises, then silently falls back to its origin.
 **Winnifred**: "In memory of a brave old friend who steadfastly held to himself amid the raging rapids of time."
 
 > **Title Card:** THE END
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：The Will of Gears](1908-The%20Will%20of%20Gears.md) · [Story index](../README.md) · [Next：The Winds OF Juhalerat →](1910-The%20Winds%20OF%20Juhalerat.md)
+<!-- reading-navigation:end -->

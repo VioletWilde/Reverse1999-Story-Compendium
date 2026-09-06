@@ -1,5 +1,9 @@
 # Unbound Series 061
 
+<!-- reading-navigation:start -->
+[← Previous：Unbound Series 060](060-Unbound-Series.md) · [Story index](../README.md) · [Next：Unbound Series 062 →](062-Unbound-Series.md)
+<!-- reading-navigation:end -->
+
 > These scripts contain readable story text but do not yet have a verified chapter binding.
 
 - Candidate Scripts: `4`
@@ -355,3 +359,9 @@ One simple sentence stops her cold. She turns, trying to pierce the smiling old 
 **Valentina**: Naturally, my dear. But there's still some time yet before the "Storm" ends—so I hope you won't mind my trying to convince you.
 
 **Semmelweis**: So this is the price of survival—enduring the nagging of a vampire in some dusty old place.
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：Unbound Series 060](060-Unbound-Series.md) · [Story index](../README.md) · [Next：Unbound Series 062 →](062-Unbound-Series.md)
+<!-- reading-navigation:end -->

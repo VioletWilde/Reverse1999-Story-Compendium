@@ -1,5 +1,9 @@
 # Unbound Series 009
 
+<!-- reading-navigation:start -->
+[← Previous：Unbound Series 008](008-Unbound-Series.md) · [Story index](../README.md) · [Next：Unbound Series 010 →](010-Unbound-Series.md)
+<!-- reading-navigation:end -->
+
 > These scripts contain readable story text but do not yet have a verified chapter binding.
 
 - Candidate Scripts: `2`
@@ -121,3 +125,9 @@ Its rosy hue looks incredibly vibrant today, perhaps due to the wine.
 **APPLe**: This is what this APPLe has observed in the rock community over the years.
 
 - **Choice:** I should probably be off
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：Unbound Series 008](008-Unbound-Series.md) · [Story index](../README.md) · [Next：Unbound Series 010 →](010-Unbound-Series.md)
+<!-- reading-navigation:end -->

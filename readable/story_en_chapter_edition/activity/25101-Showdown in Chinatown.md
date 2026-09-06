@@ -1,5 +1,9 @@
 # Showdown in Chinatown
 
+<!-- reading-navigation:start -->
+[← Previous：Last Evenings on Earth](24101-Last%20Evenings%20on%20Earth.md) · [Story index](../README.md) · [Next：1987 Космическая Увертюра →](27101-1987%20%D0%9A%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%20%D0%A3%D0%B2%D0%B5%D1%80%D1%82%D1%8E%D1%80%D0%B0.md)
+<!-- reading-navigation:end -->
+
 - Category: Event Stories
 - Chapter ID: `25101`
 - Story Units: `22`
@@ -5453,3 +5457,9 @@ She curls her lips into a smile and flicks the shard of glass from between her f
 **Black Ibis**: Like I said earlier, not bad at all.
 
 With that, the two figures in black vanish out the door.
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：Last Evenings on Earth](24101-Last%20Evenings%20on%20Earth.md) · [Story index](../README.md) · [Next：1987 Космическая Увертюра →](27101-1987%20%D0%9A%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%20%D0%A3%D0%B2%D0%B5%D1%80%D1%82%D1%8E%D1%80%D0%B0.md)
+<!-- reading-navigation:end -->

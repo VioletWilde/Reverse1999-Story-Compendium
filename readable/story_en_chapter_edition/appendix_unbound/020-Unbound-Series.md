@@ -1,5 +1,9 @@
 # Unbound Series 020
 
+<!-- reading-navigation:start -->
+[← Previous：Unbound Series 019](019-Unbound-Series.md) · [Story index](../README.md) · [Next：Unbound Series 021 →](021-Unbound-Series.md)
+<!-- reading-navigation:end -->
+
 > These scripts contain readable story text but do not yet have a verified chapter binding.
 
 - Candidate Scripts: `2`
@@ -145,3 +149,9 @@ It's better not to expose the films to open light. You take the case in your onl
 **Sotheby**: Remember, don't drink more than three grams of gold a day, and politely say no to anyone who asks for a lot of gold!
 
 - **Choice:** You can leave the case to me I'll look for a room where we can play them
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：Unbound Series 019](019-Unbound-Series.md) · [Story index](../README.md) · [Next：Unbound Series 021 →](021-Unbound-Series.md)
+<!-- reading-navigation:end -->

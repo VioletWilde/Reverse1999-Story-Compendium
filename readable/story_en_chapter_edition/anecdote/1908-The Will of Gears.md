@@ -1,5 +1,9 @@
 # The Will of Gears
 
+<!-- reading-navigation:start -->
+[← Previous：The Ninth Virtue](1907-The%20Ninth%20Virtue.md) · [Story index](../README.md) · [Next：To Wennifred →](1909-To%20Wennifred.md)
+<!-- reading-navigation:end -->
+
 - Category: Anecdotes
 - Chapter ID: `1908`
 - Story Units: `7`
@@ -1006,3 +1010,9 @@ X taps the edge of his cup, beginning a series of outrageous mechanical movement
 Where they turn to ash, leaving not a single trace.
 
 > **Title Card:** THE END
+
+---
+
+<!-- reading-navigation:start -->
+[← Previous：The Ninth Virtue](1907-The%20Ninth%20Virtue.md) · [Story index](../README.md) · [Next：To Wennifred →](1909-To%20Wennifred.md)
+<!-- reading-navigation:end -->
