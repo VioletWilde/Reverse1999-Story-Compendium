@@ -17,6 +17,18 @@
 
 阅读版按“主线、活动、角色剧情、轶事”分类。每篇正文的顶部和底部都有上一篇、返回目录与下一篇链接，手机浏览器也可以直接使用。
 
+## 离线网页阅读包
+
+不熟悉 Markdown 或希望离线阅读时，可以从 [Releases 发布页](https://github.com/VioletWilde/Reverse-1999-story-archive/releases) 下载 `Reverse-1999-剧情网页版.zip`。解压整个 ZIP 后，双击其中的 `开始阅读.html`，即可在浏览器中使用：
+
+- 简体中文、繁體中文、English、日本語、한국어切换
+- 按主线、活动、角色剧情和轶事浏览
+- 按章节名称或编号搜索
+- 上一篇、下一篇和返回目录
+- 浅色与深色阅读模式
+
+网页包不需要安装软件，也不需要联网。维护者可以运行 `scripts/build_offline_reader.ps1` 重新生成最新阅读包。
+
 ## 收录说明
 
 - `readable`：面向读者的分语言、分章节版本，推荐从这里阅读。
@@ -38,6 +50,6 @@
 <details>
 <summary>给维护者与数据研究者</summary>
 
-阅读版由结构化数据生成。重新生成章节后，可运行 `scripts/update_reading_navigation.ps1`，为所有阅读文件重新添加上一篇、目录和下一篇导航。
+阅读版由结构化数据生成。重新生成章节后，可运行 `scripts/update_reading_navigation.ps1` 更新 Markdown 导航，再运行 `scripts/build_offline_reader.ps1` 生成离线网页与 ZIP。
 
 </details>

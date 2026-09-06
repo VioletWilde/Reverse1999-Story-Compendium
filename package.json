@@ -1,0 +1,11 @@
+{
+  "name": "reverse-1999-story-archive",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build:reader": "node scripts/build_offline_reader.mjs"
+  },
+  "devDependencies": {
+    "marked": "17.0.5"
+  }
+}
