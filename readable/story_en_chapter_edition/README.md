@@ -12,19 +12,20 @@ Verified story scripts are consolidated into one directly readable Markdown docu
 
 > **Availability:** The current resources do not contain English narrative text for the 22 story units in *The Temporal Scale*. Those units are retained with explicit availability notices, not Chinese fallback text.
 
-- Formal Chapters: `76`
-- Formal Story Units: `998`
-- Story Units With English Narrative: `976`
-- Formal Body Nodes: `103464`
-- Formal Narrative Nodes: `101592`
+- Formal Chapters: `77`
+- Formal Story Units: `1004`
+- Story Units With English Narrative: `982`
+- Formal Body Nodes: `103837`
+- Formal Narrative Nodes: `101965`
 - Story Units Without English Narrative: `22`
 - English Subtitles Restored from UTTU: `63`
 - English Body Prefaces Restored from Local Archive: `1`
 - Unbound Appendix Series: `73`
 - Unbound Appendix Scripts: `206`
 
-## Main Story (13 chapters)
+## Main Story (14 chapters)
 
+- [000 · This Is Tomorrow](mainline/000-This%20Is%20Tomorrow.md) — 6 story units
 - [101 · In Our Time](mainline/101-In%20Our%20Time.md) — 16 story units
 - [102 · Tender is the Night](mainline/102-Tender%20is%20the%20Night.md) — 15 story units
 - [103 · Nouvelles et Textes pour rien](mainline/103-Nouvelles%20et%20Textes%20pour%20rien.md) — 16 story units

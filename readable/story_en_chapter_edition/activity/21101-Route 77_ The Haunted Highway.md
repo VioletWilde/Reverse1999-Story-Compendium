@@ -1,7 +1,7 @@
 # Route 77: The Haunted Highway
 
 <!-- reading-navigation:start -->
-[← Previous：Floor it! To the Golden City](20101-Floor%20it%21%20To%20the%20Golden%20City.md) · [Story index](../README.md) · [Next：Chronicles of Uluru: London Dawning →](23101-Chronicles%20of%20Uluru_%20London%20Dawning.md)
+[← Previous：Floor it! To the Golden City](20101-Floor%20it!%20To%20the%20Golden%20City.md) · [Story index](../README.md) · [Next：Chronicles of Uluru: London Dawning →](23101-Chronicles%20of%20Uluru_%20London%20Dawning.md)
 <!-- reading-navigation:end -->
 
 - Category: Event Stories
@@ -4545,5 +4545,5 @@ She licks her lips.
 ---
 
 <!-- reading-navigation:start -->
-[← Previous：Floor it! To the Golden City](20101-Floor%20it%21%20To%20the%20Golden%20City.md) · [Story index](../README.md) · [Next：Chronicles of Uluru: London Dawning →](23101-Chronicles%20of%20Uluru_%20London%20Dawning.md)
+[← Previous：Floor it! To the Golden City](20101-Floor%20it!%20To%20the%20Golden%20City.md) · [Story index](../README.md) · [Next：Chronicles of Uluru: London Dawning →](23101-Chronicles%20of%20Uluru_%20London%20Dawning.md)
 <!-- reading-navigation:end -->

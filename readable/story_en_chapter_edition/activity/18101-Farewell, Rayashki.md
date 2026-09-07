@@ -1,7 +1,7 @@
 # Farewell, Rayashki
 
 <!-- reading-navigation:start -->
-[← Previous：Notes on Shuòrì](16101-Notes%20on%20Shu%C3%B2r%C3%AC.md) · [Story index](../README.md) · [Next：Floor it! To the Golden City →](20101-Floor%20it%21%20To%20the%20Golden%20City.md)
+[← Previous：Notes on Shuòrì](16101-Notes%20on%20Shu%C3%B2r%C3%AC.md) · [Story index](../README.md) · [Next：Floor it! To the Golden City →](20101-Floor%20it!%20To%20the%20Golden%20City.md)
 <!-- reading-navigation:end -->
 
 - Category: Event Stories
@@ -4934,5 +4934,5 @@ Another letter is passed on.
 ---
 
 <!-- reading-navigation:start -->
-[← Previous：Notes on Shuòrì](16101-Notes%20on%20Shu%C3%B2r%C3%AC.md) · [Story index](../README.md) · [Next：Floor it! To the Golden City →](20101-Floor%20it%21%20To%20the%20Golden%20City.md)
+[← Previous：Notes on Shuòrì](16101-Notes%20on%20Shu%C3%B2r%C3%AC.md) · [Story index](../README.md) · [Next：Floor it! To the Golden City →](20101-Floor%20it!%20To%20the%20Golden%20City.md)
 <!-- reading-navigation:end -->

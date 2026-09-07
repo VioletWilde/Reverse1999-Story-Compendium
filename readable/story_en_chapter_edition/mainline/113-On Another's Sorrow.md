@@ -1,7 +1,7 @@
 # On Another's Sorrow
 
 <!-- reading-navigation:start -->
-[← Previous：The Campaign's Tale](112-The%20Campaign%27s%20Tale.md) · [Story index](../README.md)
+[← Previous：The Campaign's Tale](112-The%20Campaign's%20Tale.md) · [Story index](../README.md)
 <!-- reading-navigation:end -->
 
 - Category: Main Story
@@ -6692,5 +6692,5 @@ Glyndŵr flies low with Rhiannon still in his grasp. Together, they soar off int
 ---
 
 <!-- reading-navigation:start -->
-[← Previous：The Campaign's Tale](112-The%20Campaign%27s%20Tale.md) · [Story index](../README.md)
+[← Previous：The Campaign's Tale](112-The%20Campaign's%20Tale.md) · [Story index](../README.md)
 <!-- reading-navigation:end -->

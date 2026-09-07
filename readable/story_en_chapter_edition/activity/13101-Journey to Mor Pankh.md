@@ -1,7 +1,7 @@
 # Journey to Mor Pankh
 
 <!-- reading-navigation:start -->
-[← Previous：Green Lake Nightmare](12101-Green%20Lake%20Nightmare.md) · [Story index](../README.md) · [Next：Revival! The Uluru Games →](15101-Revival%21%20The%20Uluru%20Games.md)
+[← Previous：Green Lake Nightmare](12101-Green%20Lake%20Nightmare.md) · [Story index](../README.md) · [Next：Revival! The Uluru Games →](15101-Revival!%20The%20Uluru%20Games.md)
 <!-- reading-navigation:end -->
 
 - Category: Event Stories
@@ -3972,5 +3972,5 @@ As the silence goes on, Matilda notices the wallet in Sherjah's hand.
 ---
 
 <!-- reading-navigation:start -->
-[← Previous：Green Lake Nightmare](12101-Green%20Lake%20Nightmare.md) · [Story index](../README.md) · [Next：Revival! The Uluru Games →](15101-Revival%21%20The%20Uluru%20Games.md)
+[← Previous：Green Lake Nightmare](12101-Green%20Lake%20Nightmare.md) · [Story index](../README.md) · [Next：Revival! The Uluru Games →](15101-Revival!%20The%20Uluru%20Games.md)
 <!-- reading-navigation:end -->

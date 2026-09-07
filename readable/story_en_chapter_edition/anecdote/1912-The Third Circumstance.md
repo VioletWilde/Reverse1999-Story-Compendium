@@ -1,7 +1,7 @@
 # The Third Circumstance
 
 <!-- reading-navigation:start -->
-[← Previous：Finding Xavier](1911-Finding%20Xavier.md) · [Story index](../README.md) · [Next：The Lady's Etiquette →](1913-The%20Lady%27s%20Etiquette.md)
+[← Previous：Finding Xavier](1911-Finding%20Xavier.md) · [Story index](../README.md) · [Next：The Lady's Etiquette →](1913-The%20Lady's%20Etiquette.md)
 <!-- reading-navigation:end -->
 
 - Category: Anecdotes
@@ -1529,5 +1529,5 @@ The chocolate sways and melts on her tongue, causing a strange yet delightful ti
 ---
 
 <!-- reading-navigation:start -->
-[← Previous：Finding Xavier](1911-Finding%20Xavier.md) · [Story index](../README.md) · [Next：The Lady's Etiquette →](1913-The%20Lady%27s%20Etiquette.md)
+[← Previous：Finding Xavier](1911-Finding%20Xavier.md) · [Story index](../README.md) · [Next：The Lady's Etiquette →](1913-The%20Lady's%20Etiquette.md)
 <!-- reading-navigation:end -->

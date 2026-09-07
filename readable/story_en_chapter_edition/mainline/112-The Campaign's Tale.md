@@ -1,7 +1,7 @@
 # The Campaign's Tale
 
 <!-- reading-navigation:start -->
-[← Previous：A Long Long Way](111-A%20Long%20Long%20Way.md) · [Story index](../README.md) · [Next：On Another's Sorrow →](113-On%20Another%27s%20Sorrow.md)
+[← Previous：A Long Long Way](111-A%20Long%20Long%20Way.md) · [Story index](../README.md) · [Next：On Another's Sorrow →](113-On%20Another's%20Sorrow.md)
 <!-- reading-navigation:end -->
 
 - Category: Main Story
@@ -6406,5 +6406,5 @@ Five days later
 ---
 
 <!-- reading-navigation:start -->
-[← Previous：A Long Long Way](111-A%20Long%20Long%20Way.md) · [Story index](../README.md) · [Next：On Another's Sorrow →](113-On%20Another%27s%20Sorrow.md)
+[← Previous：A Long Long Way](111-A%20Long%20Long%20Way.md) · [Story index](../README.md) · [Next：On Another's Sorrow →](113-On%20Another's%20Sorrow.md)
 <!-- reading-navigation:end -->

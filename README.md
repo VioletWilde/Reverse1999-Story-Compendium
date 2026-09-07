@@ -29,6 +29,15 @@
 
 网页包不需要安装软件，也不需要联网。维护者可以运行 `scripts/build_offline_reader.ps1` 重新生成最新阅读包。
 
+## 电子书版本（EPUB / PDF）
+
+如果希望在电纸书阅读器、手机阅读应用或打印场景中阅读，可以使用电子书版本。每种语言各有一册 EPUB 与一册 PDF，均按“主线、活动、角色剧情、轶事、未绑定旁支附录”编排，并带有可跳转的目录：
+
+- **EPUB**：内置导航目录（分类 → 章节 → Part），适合各类阅读器；
+- **PDF**：正文前有带页码的目录，阅读器侧边栏有完整书签大纲，适合电脑阅读或打印。
+
+维护者可以运行 `npm run build:ebooks`（需要 pandoc 与 typst）重新生成，产物位于 `dist/ebooks/`。
+
 ## 收录说明
 
 - `readable`：面向读者的分语言、分章节版本，推荐从这里阅读。
@@ -50,6 +59,6 @@
 <details>
 <summary>给维护者与数据研究者</summary>
 
-阅读版由结构化数据生成。重新生成章节后，可运行 `scripts/update_reading_navigation.ps1` 更新 Markdown 导航，再运行 `scripts/build_offline_reader.ps1` 生成离线网页与 ZIP。
+阅读版由结构化数据生成。重新生成章节后，可运行 `scripts/update_reading_navigation.ps1` 更新 Markdown 导航，再运行 `scripts/build_offline_reader.ps1` 生成离线网页与 ZIP。运行 `npm run build:ebooks` 可生成 EPUB 与 PDF 电子书（`dist/ebooks/`，依赖 pandoc 和 typst）。
 
 </details>

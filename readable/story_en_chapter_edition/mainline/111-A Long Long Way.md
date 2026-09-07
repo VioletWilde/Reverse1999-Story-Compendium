@@ -1,7 +1,7 @@
 # A Long Long Way
 
 <!-- reading-navigation:start -->
-[← Previous：Paradise Regained](110-Paradise%20Regained.md) · [Story index](../README.md) · [Next：The Campaign's Tale →](112-The%20Campaign%27s%20Tale.md)
+[← Previous：Paradise Regained](110-Paradise%20Regained.md) · [Story index](../README.md) · [Next：The Campaign's Tale →](112-The%20Campaign's%20Tale.md)
 <!-- reading-navigation:end -->
 
 - Category: Main Story
@@ -5621,5 +5621,5 @@ The message ends in a burst of static.
 ---
 
 <!-- reading-navigation:start -->
-[← Previous：Paradise Regained](110-Paradise%20Regained.md) · [Story index](../README.md) · [Next：The Campaign's Tale →](112-The%20Campaign%27s%20Tale.md)
+[← Previous：Paradise Regained](110-Paradise%20Regained.md) · [Story index](../README.md) · [Next：The Campaign's Tale →](112-The%20Campaign's%20Tale.md)
 <!-- reading-navigation:end -->

@@ -1,7 +1,7 @@
 # A Night Without End
 
 <!-- reading-navigation:start -->
-[← Previous：A Day Plotted Logarithmically](1917-A%20Day%20Plotted%20Logarithmically.md) · [Story index](../README.md) · [Next：A Fool's Gold →](1919-A%20Fool%27s%20Gold.md)
+[← Previous：A Day Plotted Logarithmically](1917-A%20Day%20Plotted%20Logarithmically.md) · [Story index](../README.md) · [Next：A Fool's Gold →](1919-A%20Fool's%20Gold.md)
 <!-- reading-navigation:end -->
 
 - Category: Anecdotes
@@ -1745,5 +1745,5 @@ He closes his eyes.
 ---
 
 <!-- reading-navigation:start -->
-[← Previous：A Day Plotted Logarithmically](1917-A%20Day%20Plotted%20Logarithmically.md) · [Story index](../README.md) · [Next：A Fool's Gold →](1919-A%20Fool%27s%20Gold.md)
+[← Previous：A Day Plotted Logarithmically](1917-A%20Day%20Plotted%20Logarithmically.md) · [Story index](../README.md) · [Next：A Fool's Gold →](1919-A%20Fool's%20Gold.md)
 <!-- reading-navigation:end -->

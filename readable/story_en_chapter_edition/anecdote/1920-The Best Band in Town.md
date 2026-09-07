@@ -1,7 +1,7 @@
 # The  Best Band in Town
 
 <!-- reading-navigation:start -->
-[← Previous：A Fool's Gold](1919-A%20Fool%27s%20Gold.md) · [Story index](../README.md) · [Next：The Ghost Master →](1921-The%20Ghost%20Master.md)
+[← Previous：A Fool's Gold](1919-A%20Fool's%20Gold.md) · [Story index](../README.md) · [Next：The Ghost Master →](1921-The%20Ghost%20Master.md)
 <!-- reading-navigation:end -->
 
 - Category: Anecdotes
@@ -1460,5 +1460,5 @@ Sonetto nods faintly, then changes the subject.
 ---
 
 <!-- reading-navigation:start -->
-[← Previous：A Fool's Gold](1919-A%20Fool%27s%20Gold.md) · [Story index](../README.md) · [Next：The Ghost Master →](1921-The%20Ghost%20Master.md)
+[← Previous：A Fool's Gold](1919-A%20Fool's%20Gold.md) · [Story index](../README.md) · [Next：The Ghost Master →](1921-The%20Ghost%20Master.md)
 <!-- reading-navigation:end -->

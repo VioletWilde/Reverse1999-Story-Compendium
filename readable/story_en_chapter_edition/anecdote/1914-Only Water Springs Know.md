@@ -1,7 +1,7 @@
 # Only Water Springs Know
 
 <!-- reading-navigation:start -->
-[← Previous：The Lady's Etiquette](1913-The%20Lady%27s%20Etiquette.md) · [Story index](../README.md) · [Next：Where the Fire Starts →](1915-Where%20the%20Fire%20Starts.md)
+[← Previous：The Lady's Etiquette](1913-The%20Lady's%20Etiquette.md) · [Story index](../README.md) · [Next：Where the Fire Starts →](1915-Where%20the%20Fire%20Starts.md)
 <!-- reading-navigation:end -->
 
 - Category: Anecdotes
@@ -1087,5 +1087,5 @@ Perhaps it's best she stays this way—at least until the greatest party ever co
 ---
 
 <!-- reading-navigation:start -->
-[← Previous：The Lady's Etiquette](1913-The%20Lady%27s%20Etiquette.md) · [Story index](../README.md) · [Next：Where the Fire Starts →](1915-Where%20the%20Fire%20Starts.md)
+[← Previous：The Lady's Etiquette](1913-The%20Lady's%20Etiquette.md) · [Story index](../README.md) · [Next：Where the Fire Starts →](1915-Where%20the%20Fire%20Starts.md)
 <!-- reading-navigation:end -->

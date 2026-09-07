@@ -1,7 +1,7 @@
 # Notes on Shuòrì
 
 <!-- reading-navigation:start -->
-[← Previous：Revival! The Uluru Games](15101-Revival%21%20The%20Uluru%20Games.md) · [Story index](../README.md) · [Next：Farewell, Rayashki →](18101-Farewell%2C%20Rayashki.md)
+[← Previous：Revival! The Uluru Games](15101-Revival!%20The%20Uluru%20Games.md) · [Story index](../README.md) · [Next：Farewell, Rayashki →](18101-Farewell%2C%20Rayashki.md)
 <!-- reading-navigation:end -->
 
 - Category: Event Stories
@@ -6028,5 +6028,5 @@ She flips over a page and continues reading.
 ---
 
 <!-- reading-navigation:start -->
-[← Previous：Revival! The Uluru Games](15101-Revival%21%20The%20Uluru%20Games.md) · [Story index](../README.md) · [Next：Farewell, Rayashki →](18101-Farewell%2C%20Rayashki.md)
+[← Previous：Revival! The Uluru Games](15101-Revival!%20The%20Uluru%20Games.md) · [Story index](../README.md) · [Next：Farewell, Rayashki →](18101-Farewell%2C%20Rayashki.md)
 <!-- reading-navigation:end -->

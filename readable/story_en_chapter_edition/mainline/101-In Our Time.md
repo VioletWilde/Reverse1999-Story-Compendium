@@ -1,7 +1,7 @@
 # In Our Time
 
 <!-- reading-navigation:start -->
-[Story index](../README.md) · [Next：Tender is the Night →](102-Tender%20is%20the%20Night.md)
+[← Previous：This Is Tomorrow](000-This%20Is%20Tomorrow.md) · [Story index](../README.md) · [Next：Tender is the Night →](102-Tender%20is%20the%20Night.md)
 <!-- reading-navigation:end -->
 
 - Category: Main Story
@@ -2093,5 +2093,5 @@ The speakeasy is shaking.
 ---
 
 <!-- reading-navigation:start -->
-[Story index](../README.md) · [Next：Tender is the Night →](102-Tender%20is%20the%20Night.md)
+[← Previous：This Is Tomorrow](000-This%20Is%20Tomorrow.md) · [Story index](../README.md) · [Next：Tender is the Night →](102-Tender%20is%20the%20Night.md)
 <!-- reading-navigation:end -->
