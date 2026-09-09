@@ -1,0 +1,438 @@
+{
+  "episode_id": 11220,
+  "chapter_id": 112,
+  "chapter_title": "远征记",
+  "display_label": "",
+  "title": "最后的防线",
+  "subtitle": "跨上战马，是因为他们在这片土地上长大。",
+  "trails": [
+    {
+      "element_id": 1122001,
+      "owner_episode_id": 11220,
+      "trigger_episode_id": null,
+      "title": "鸣枪之后",
+      "description": "参谋长从未如此心事重重，她走进房间时甚至都忘记摘下马刺。",
+      "action": "对话",
+      "unlock_condition": "EpisodeFinish=11220",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "那些狗又开始互吠了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "您应该在之前听过类似的道理，人们会用沉默贯彻自己的意志。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "不过沉默不便于下达命令和指示。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "所以有些人用起了狗哨，既不用发出声响，又可以下达命令。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "这下世界上连一丝意志的声音都听不到了，只剩下此起彼伏的狗吠。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "我听过这个道理么？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "如果您不记得那些洞窟里的琐事了，那么您就当作没听过吧。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "毕竟忘却有时也是一种解决方法，正如这场狗哨对决。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "只有等一切后天的训练都被遗忘，这些狗或许才能想起来，像这样互相吠叫根本毫无意义。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "收回你的话！你居然把我和那些油腔滑调的老兵混为一谈？！"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "如果我的声音像那群只能活在战场的魔鬼一般，我早就自己划破了自己的喉咙！"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "那些可憎的！不知死活的混蛋！"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "……抱歉，这就像是……伤口总是如此难以愈合，只是暂时没有人去揭开。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "这像是某个士兵会说的话",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "101229",
+      "internal_title": "第十二章12-20",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "最后的防线"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "列夫丘克",
+          "text": "太好了，是将军！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "托勒密",
+          "text": "列夫丘克？！你——你还活着？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "列夫丘克",
+          "text": "没有时间寒暄了，敌方集团军正在向河南岸靠拢，装甲已经开进了红柳树村——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "列夫丘克",
+          "text": "至少两个装甲师和一个陆军师的兵力，此外还有三个辅助炮兵团。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔",
+          "text": "了解，我已收到你的汇报。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "电台的那一侧，对方显然松了一口气，并瘫软在地上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "背景中的枪声隐约变得更清晰——伊戈尔希望那是一种错觉。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔",
+          "text": "报告你的位置，上士。我会立刻派人营救你。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "电台另一侧的人沉默许久，然后笑了一下。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "背景的枪弹声显而易见地变得更近，更令人……恐惧。子弹仿佛掠过了耳边。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔",
+          "text": "现在情况如何，你是否预留了撤退的道路？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "列夫丘克",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "列夫丘克",
+          "text": "报告长官，雅罗斯拉夫·列夫丘克顺利完成了任务。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "托勒密急不可耐地挤到了送话器跟前。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "托勒密",
+          "text": "什么意思？你**[狮鹫军粗口]的不准放弃，不准死！我现在就去带你回来！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "列夫丘克",
+          "text": "托勒密，你这臭小子。别再给将军添麻烦了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "炮弹声逐渐盖过了上士的声音。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "列夫丘克",
+          "text": "我从不后悔成为您麾下的士兵，将军。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "“嘟——嘟——嘟。”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "电台信号在枪声中消失了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "沉重的喘息声也随之消失了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔",
+          "text": "整备部队，托勒密。除防空炮手外所有人，撤出别列格勒。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "托勒密",
+          "text": "撤出别列格勒？要退回安全屋吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔",
+          "text": "不，向骑兵军塞契集结。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔",
+          "text": "格鲁托夫从我们这里带走的东西，我们要让他一一吐出来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "狮鹫军带来了最坏的消息。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "军长咽下了悲痛，让写满牺牲数字的简报消失在炭火中。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "塞契沉浸在一片肃穆中时，他已经做出了判断。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "军长伊万",
+          "text": "红柳树村会是格鲁托夫攻城的关键。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "军长伊万",
+          "text": "一旦失守，城市将直接暴露给一支火力凶猛的神秘学装甲部队。装甲师最依赖的是供给线……需要有人去掐断这条命脉。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔",
+          "text": "我有办法带人从内部奇袭红柳树村。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "斯捷尔诺娃",
+          "text": "纵使狮鹫军有村内捣毁敌人部队的能力……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "参谋长第三次从沙盘的这头踱步到另一头。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "斯捷尔诺娃",
+          "text": "但谁去阻挡格鲁托夫源源不断的补给线？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "托勒密",
+          "text": "我看塞契里还有很多牵马的骑兵，他们能不能——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "斯捷尔诺娃",
+          "text": "都是孩子！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "斯捷尔诺娃双手砸在了桌上，冲击让用来推演的棋子纷纷移了位。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "斯捷尔诺娃",
+          "text": "十八岁以上的骑兵第一波出征就派出去了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "斯捷尔诺娃",
+          "text": "剩下的都是些为了一口饱饭，谎报年纪混进来的小孩，连握缰的茧都没磨出来，嫩得和刚出壳的潜鸭没两样。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "军长伊万",
+          "text": "莎宾娜。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "军长拍了拍她的背，推着她走到了营帐之外。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "少年们披挂着空荡的军服，步枪背带深勒进单薄的肩胛，马刀鞘尾拖拽在未长硬的腿骨旁。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他们静立如一片削瘦的黑杨林，稚嫩的喉结在绷紧的领口下滚动，却只为塞契带来了沉默。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "这种沉默压制住了她的怒火。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "斯捷尔诺娃",
+          "text": "你们知道自己在做什么吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "斯捷尔诺娃",
+          "text": "跨上战马，离开家乡，然后死在战场上……之后再也回不了家。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "少年骑兵Ⅰ",
+          "text": "您别小看我了！我可是哥萨克，和我的哥哥、姐姐、爸爸、妈妈一样！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "少年骑兵Ⅱ",
+          "text": "是啊！我身体里流着骑兵的血，这是英雄的血！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "斯捷尔诺娃",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "少年骑兵Ⅰ",
+          "text": "我们是哥萨克，哥萨克从来不怕上战场。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "少年骑兵Ⅰ",
+          "text": "就算断手断脚也没什么可怕的。家乡的命运得我们来决定！这是必要的牺牲！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "似曾相识的话语撞击在情感的底线上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "军长伊万",
+          "text": "你看见了，伊戈尔。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "军长伊万",
+          "text": "我会带领这支队伍撵走那些戴面具的疯子。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "军长伊万",
+          "text": "我要把这片土地还给这些孩子们，把未来交到他们手上——这个时代的顿河，并不由我们来定义。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "军长红着眼睛，看向这些消瘦的影子。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "军长伊万",
+          "text": "我们会取得胜利。告诉我这一点。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "少年骑兵Ⅰ",
+          "text": "我们会取得胜利！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "少年骑兵Ⅱ",
+          "text": "我们会把那些疯子赶出我们的家！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "未变声的呼喊如汛期的顿河浪潮般层层叠叠，凿穿了塞契的每一寸垛口。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "军长回过头，对上叛军首领深沉的目光。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "军长伊万",
+          "text": "伊戈尔，这是我们最后的机会了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他的手在颤抖，周围所有人都看得一清二楚。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "但无人指摘他的战栗。"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

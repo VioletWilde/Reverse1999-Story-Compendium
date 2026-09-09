@@ -1,0 +1,842 @@
+{
+  "episode_id": 11122,
+  "chapter_id": 111,
+  "chapter_title": "行于漫漫长路上",
+  "display_label": "",
+  "title": "Brimstone and Fire",
+  "subtitle": "Past the borders of bloodshed, boundaries, and concepts of purity and corruption.",
+  "trails": [
+    {
+      "element_id": 111022,
+      "owner_episode_id": 11122,
+      "trigger_episode_id": null,
+      "title": "Harsh Condemnation",
+      "description": "We take a strong stance against the abuse of alchemy on the battlefield, especially those that have not undergone thorough experimentations.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=1122",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "Formula Excerpts"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Living bone buds, withered mandrake leaves, owl feathers, turpentine. Burned in an airtight container.\nOily volatile liquid carrying a moss-like scent. Weakly soluble in water but readily absorbed by animal fat.\nCauses immediate nervous system damage, including tremors, aphasia, mania, delirium, and muscle paralysis. In rare instances, it may temporarily increase arcane abilities.\n\nJack jumper ants, Inchman ants, sulfur. Processed in acid-treated belladonna juice, using mithril as a catalyst .\nColorless gas with a faint garlic smell that often gets hidden by other odors. Slightly acidic, easily soluble in water, and potentially explosive at high concentrations.\nCauses acute liver and kidney injuries and mucous injuries, with particularly strong effects on humans.\n\nSuriname toads, bloodroots, brown algae, shed snake skin. Heat to 180℉ while adding chlorine gas.\nDeep purple gas with a sharp, irritating smell. Slightly soluble in water, slightly denser than air, and easily decomposes when exposed to light.\nCauses lacrimation and coughing. Pulmonary edema occurs within 2–3 minutes of inhalation. Both humans and arcanists may experience hallucinations after exposure."
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1110221,
+      "owner_episode_id": 11122,
+      "trigger_episode_id": null,
+      "title": "Your Excellency, There's Nothing We Can Do",
+      "description": "Naturally, no one who wields power imagines themselves as a child playing with knives.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=1122",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "An Undelivered Letter​​"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "████,\n\nIt has taken me a long time to write this letter, though my mind has never ceased its vigilance.\n\nYou know, as well as I, that I have spent my life mastering the concealment of intent, approaching even the unknown with a scholar's patience. You know, too, why I have worked to prevent conflict—not from idealism, but because I have seen what war truly leaves behind, long before the Foundation, long before the \"Storm\" rose.\n\nMy principles have often led me to aid or forge alliances with adversaries. I have long sought to create a balance between humans and arcanists. I firmly believe that Force is a tool, nothing more, and its misuse brings only chaos. While we may bear a fraction of the consequences, ordinary lives carry the rest. I have acted with care, and for that I have been called a Dove—a label I dismiss. My concern has never been for titles or comfort, only for what must endure.\n\nZeno's defection is largely credited with the rise of the Hawks. Committee members, wary and distrustful, sought to establish a military force directly under Foundation control. Meanwhile, the \"Storm\" has transported us back to a time dominated by warfare. Creius's philosophy runs contrary to our values and the traditions that preserve a fragile equilibrium. His contingency plan would not only threaten security but also collapse it. Should we provoke governments, forsake our mediating role, or coerce allegiance—how could the Foundation survive the \"Storm\", Manus Vindictae, or the world itself?\n\nAnd yet ████, I cannot deny that Creius has succeeded—though his triumph chills me more than it reassures.\n\nHill 299 is secured. Eight divisions have been withdrawn from the frontline trenches. Soldiers untrained against arcane assault survived where they would otherwise have perished. Nearly one hundred thousand lives were spared. All achieved under the shadow of his contingency plan. None can dispute the effectiveness of his actions—but effectiveness is not wisdom. The currents he has unleashed will embolden the reckless. Those who were once cautious may now lean toward the Hawks. The balance we have preserved hangs by the thinnest of threads.\n\nWhen the battlefield dispatches arrived, I understood the inevitable: people will now march willingly into chaos, blind to the storm gathering beneath their feet."
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "101130",
+      "internal_title": "第十一章11-22.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "Brimstone and Fire"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Though Agnès's voice has vanished, the sharp ringing in her ears remains."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sentinel",
+          "text": "What's that sound?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She casts more attention in the direction of the source of the sound, and the darkness is sliced like a curtain—a shadow that shouldn't be there is lurking behind a piece of wreckage."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "*cough* Ugh ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He lies prone, using bloodied fingers to scrawl erratic symbols across the ground."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "As the intruder draws near, he slowly raises his head."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sentinel",
+          "text": "Oh. It's you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sterling",
+          "text": "You! You murderer! You murdered me. You murdered Kolten. *cough* You murdered Eugen too!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sterling",
+          "text": "You devil! You murderous demon—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sterling",
+          "text": "Aaagghh!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sentinel",
+          "text": "I have no qualms in doing so again."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Thick, congealed black blood spreads across the ground."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sentinel",
+          "text": "Pathetic illusions."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sentinel",
+          "text": "Incoming attack."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sentinel",
+          "text": "From behind."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sentinel",
+          "text": "From the right."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sentinel",
+          "text": "From below."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sentinel",
+          "text": "Right before me!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Soldier?",
+          "text": "...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Petrified claws clamp down on his soft neck with precision, pulling him up into mid-air, his hands clawing against the chokehold."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Soldier?",
+          "text": "Ghk ... Let me go, please."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She eases her grip if only for the length of a breath, yet the soldier seizes the moment for all he's worth, drawing a blade from his belt."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Soldier?",
+          "text": "Urgh!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She arrives at the land where the flower of death blooms."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sentinel",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Corpses are strewn across the ground."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A figure waits at the far end."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Manus Officer?",
+          "text": "How many have you killed? Do you even keep count? Remember, they were all arcanists like you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sentinel",
+          "text": "Race is of no matter."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Manus Officer?",
+          "text": "Hm. So the killer does the killing, and the dead have no say at all. I like it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A bullet rips through the officer's heart. A simple, blunt retort."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She steps forward, only to find the figure standing before her once again."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Manus Officer?",
+          "text": "Haven't had enough?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sentinel",
+          "text": "Begone."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sentinel",
+          "text": "One day, I shall personally deliver you to the fires of hell where you belong."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Manus Officer?",
+          "text": "Oh. It sounds like you know who I am."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sentinel",
+          "text": "Do not think me deceived by your disguise. I am well aware that your taint has long been tangled in the blood of my family."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Gargoyles",
+          "text": "Demon."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sentinel",
+          "text": "Ladislas?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her devout cousin appears in the midst of this strange hell."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ladislas",
+          "text": "Dear cousin, I bring thee a final warning. Thou art but a step away from utter corruption. Thou hast killed many in the years past, and now thou dost stand at the edge of the abyss."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ladislas",
+          "text": "Hast thou not understood the suffering endured by our fallen ancestors? Their conscience crumbled, their faith shattered, leaving naught but an insatiable thirst for blood."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ladislas",
+          "text": "It paineth me to see thee walk that same wretched path."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The demon stands to the side with unhinged politesse, waiting until Ladislas has finished speaking before speaking again."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Demon",
+          "text": "Well, don't blame me. I did nothing to entice her."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Its voice no longer seems to come from the body before her but from some faraway place in the darkened sky."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Demon",
+          "text": "Marianne made this choice herself. Her hands have long been soaked in blood."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Demon",
+          "text": "And yet, she has never been troubled by that so-called \"guilt\" of yours. I've come to adore her for that."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ladislas",
+          "text": "Perhaps it is true that this path of carnage shall save many lives, but why, I pray, must it be thee who walkest it?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ladislas",
+          "text": "Our blood beareth an impurity like no other. To kill so many is to will thyself to the bottom of the abyss, never to return."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ladislas",
+          "text": "The ten thousand thou art soon to kill—consider, I pray—how many among them are innocent victims of deception and coercion?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ladislas",
+          "text": "The weight of so many lives shall weigh upon thee in far greater measure than any sin thou hast yet borne. What good shall it profit thee to gain the whole world, yet forfeit thy soul?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Demon",
+          "text": "Did I hear that right? Are you also calculating the lives, Ladislas?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ladislas",
+          "text": "...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ladislas",
+          "text": "Speak no more of thy filthy words!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Demon",
+          "text": "Oh, you silly, stubborn child."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The demon approaches Ladislas with sharp, graceful steps."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ladislas",
+          "text": "What art thou ... O wicked dem—Rrghk!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "His throat is seized in both hands."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ladislas",
+          "text": "Urggh ... Thou ... Marie ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ladislas",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The demon releases its grip. Ladislas's body collapses among the other corpses."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Sentinel watches the scene with a probing gaze."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Demon",
+          "text": "There, I silenced the noisy fool for you, Marianne."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sentinel",
+          "text": "Such pantomime shall not move me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sentinel",
+          "text": "This \"Ladislas\" was naught but an echo lingering in my mind. An illusion."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Demon",
+          "text": "Oh, but I'm not. I am your very nature. The core of your being."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The ground shakes, and their bloody silence is shattered."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The demon makes way for her, casting a grim smile at the Gargoyle before turning its head to look around."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "As an army rumbles into view."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The strange sound of engines grows clearer as the armored vanguard grinds over mangled corpses."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Demon",
+          "text": "Oh, Manus Vindictae. They've finally noticed you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The demon turns its back to Sentinel."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Demon",
+          "text": "What a shame. They don't stand a chance against our ferocity, do they, Marianne?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She grips her gun, neither joining the demon, nor turning away."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She presses a kiss to the cold receiver."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sentinel",
+          "text": "I have seen sinners forsake themselves in service of the devil. The land they trod upon yielded only bitter, cursed fruit."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Demon",
+          "text": "Come!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sentinel",
+          "text": "But the hour for repentance has long since passed."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Demon",
+          "text": "Come with me!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sentinel",
+          "text": "Then the Lord rained upon them brimstone and fire!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Demon",
+          "text": "Let's kill them all—together!"
+        }
+      ]
+    },
+    {
+      "script_id": "101131",
+      "internal_title": "第十一章11-22.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sentinel",
+          "text": "Marsha?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Marsha stands beneath a windmill. Her black warhorse pacing idly in the grass."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "I don't think I'll ever forget this windmill—the calm of this field."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "I can't believe I didn't appreciate how peaceful this place was the first time I came here."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She closes her eyes and breathes in the sweet scent of the meadow."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "Perhaps it's because the land was quiet, just like our lives once were. And back then, we thought everything would be peaceful again once the war was over."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sentinel",
+          "text": "I'm sorry."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "Why? There's no need to apologize."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sentinel",
+          "text": "I was nigh on killing you. No, in a way, I did kill you, just as I have killed so many others."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "It's not our fault. None of this is …"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sentinel",
+          "text": "You may have granted me your forgiveness, but those who have forever lost their lives due to my actions—I shall never have the chance, nor the right, to earn theirs."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "We didn't start this war. Yet, we have had to bear the brunt of the pain it has caused."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "If all the sins of war are laid at our feet, where's the fairness in that?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "No. I refuse to accept it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Marsha seethes at injustice."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "Marie, perhaps when peace finally comes ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A gust carries her voice away."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sentinel",
+          "text": "...?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The wind howls, and in it she hears the creaking of the old windmill."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Sentinel walks along the path, wanting to stand closer to her."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "—until the scene is torn apart by gunfire."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sentinel",
+          "text": "Marsha!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Soldier?",
+          "text": "Die!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Soldier?",
+          "text": "Arrgh ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Wreckage is strewn over no man's land. The last of the assembled force falls with a gurgling scream that ushers in the silence of death."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sentinel",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The demon and the Gargoyle stand side by side, looking over the destruction."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Demon",
+          "text": "Take it all in, Marianne—the pools of blood, the piled corpses, the lingering echoes of the dead, their whimpering, desperate cries."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Demon",
+          "text": "Aahh. How long has it been since I last witnessed such a beautifully gruesome massacre? The ancient bloodlust within you truly has awakened."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Demon",
+          "text": "You slaughtered every last one of them. Well done. Now, hand me the explosives. It's time to end them all."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The demon holds out his hands, asking for the weapon that will take the lives of 10,000 men."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sentinel",
+          "text": "Get thee behind me, Demon."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Demon",
+          "text": "I won't force you. The choice is still yours. So, which will it be? The weight of ten thousand lives, or one that is ten times harder to bear?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Demon",
+          "text": "Well? Their blood will be on your hands, that's for certain, but the responsibility won't rest on you alone. Your soon-to-be-blood-soaked hands have been forced."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Demon",
+          "text": "These are the only choices you have left."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sentinel",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The Gargoyle removes the bundle of heavy explosives and grasps them as tightly as if they were prayer beads."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sentinel",
+          "text": "I am powerless to cleanse the filth that muddies my blood, just as I am powerless to erase the sins I have already borne."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sentinel",
+          "text": "I have descended into the depths of hell—I know that. And this ancient darkness has already taken root in my soul."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sentinel",
+          "text": "But if sacrificing one can save ten, if sacrificing ten thousand can save a hundred thousand, if someone must make that impossible choice ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sentinel",
+          "text": "Then I am willing to bear that sin."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She hands the explosives over to the demon."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Demon",
+          "text": "That's the spirit. From now on, we will walk together, side by side, a greater power as one—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Before he can say anything, the bayonet stabs through his body."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Demon",
+          "text": "…?!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Sentinel pulls out her bayonet and pushes the demon away, who staggers further back."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Demon",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Demon",
+          "text": "You are fascinating, Marianne. You know this won't harm me. So, why did you do it?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She lets out a heavy labored breath."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sentinel",
+          "text": "Look upon me, Demon. I am not like my ancestors, to be led astray by their thirst for blood and your honeyed words."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sentinel",
+          "text": "Whatever choice I make, I make of my own free will."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sentinel",
+          "text": "I will not let your taint spread within my soul, yet still, your power shall be mine to command."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Demon",
+          "text": "Heh-heh ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Demon",
+          "text": "Haha ... Hahahahaha!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The figure vanishes, yet she can still feel the demon cackle madly from the depths of hell."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Demon",
+          "text": "You truly are a genius, Marianne. A ruthless killer, a greedy devil ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Demon",
+          "text": "And my most worthy child!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Demon",
+          "text": "Join me! Let us reign together in hell!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sentinel",
+          "text": "Agnès, when I was young, I never truly understood the words you spake. Why would one man willingly bear the sins of all the world for the sake of others?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sentinel",
+          "text": "I lingered on the thought of it—if all guilt and suffering were placed upon me, how cruel and unjust that would be."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sentinel",
+          "text": "But now I think, perhaps it is best that they are mine alone to bear."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sentinel",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sentinel",
+          "text": "I'm sorry, Agnès."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Creius",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Creius",
+          "text": "Attention all Foundation Operators: the Manus fortress at Hill 299 has been destroyed!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Creius",
+          "text": "Execute retreat as planned!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Creius",
+          "text": "The Manus fortress has been destroyed, and the soldiers have been led in retreat to the rear."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Creius",
+          "text": "I understand. Thank you for your support in this critical time, Mr. Irinei."
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

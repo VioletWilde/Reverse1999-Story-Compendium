@@ -1,0 +1,32 @@
+# Main Story · Vereinsamt
+
+- [10701 The Secret of the Diagonal](10701-The Secret of the Diagonal.md) — From softened branches to transcendent heavens, she thought she could grasp it all.
+- [10702 The Blue and the Grey](10702-The Blue and the Grey.md) — From opposite ends of the prayer hall, wary eyes meet in a silent standoff.
+- [10703 Bring the Gavel Down](10703-Bring the Gavel Down.md) — Boundaries are intangible, existing within the depths of every heart.
+- [10704 The Beginning of a Proof](10704-The Beginning of a Proof.md) — A wise man once said, "A good start is half the battle." However, he forgot to mention what completes the rest of the battle.
+- [10705 Four Cross-Checks](10705-Four Cross-Checks.md) — The first step is to reduce it to a quartic equation without a cubic term. The second step ... Ugh, #$%@ this math!
+- [10706 Pride and Prejudice](10706-Pride and Prejudice.md) — A chaotic duo found in chaotic minds.
+- [10707 Maze of The Minotaur](10707-Maze of The Minotaur.md) — Hmm, have you found the thread?
+- [10708 Oracles at Delphi](10708-Oracles at Delphi.md) — People don't disbelieve maxims, they just think they're the exception.
+- [10709 Outside the Limits](10709-Outside the Limits.md) — Unspeakable, indescribable. Untouchable, unsurpassable.
+- [10710 Returned to the Earth](10710-Returned to the Earth.md) — Once representing abundance and life, it now holds the opposite meaning.
+- [10711 The Rolling Boulder](10711-The Rolling Boulder.md) — The weight, hanging high above, finally falls.
+- [10712 The Party of Beans](10712-The Party of Beans.md) — I eat, therefore I am. *(extra record)*
+- [10713 The Wave of Art](10713-The Wave of Art.md) — After the wave, what is left in its wake?
+- [10714 A Sandstorm in a Room](10714-A Sandstorm in a Room.md) — A tiny grain of sand slips into the eye, causing tears to well up in response.
+- [10715 The Pioneers](10715-The Pioneers.md) — Even if there is no path, even if there is no destination.
+- [10716 To Open the Flood Gates](10716-To Open the Flood Gates.md) — Throw wide the gates.
+- [10717 The "Storm" Speech](10717-The _Storm_ Speech.md) — At the very least, we all now have a better understanding of how home appliances work.
+- [10718 Numbers in Everything](10718-Numbers in Everything.md) — Hearken, and be warned.
+- [10719 The Fork in the Road](10719-The Fork in the Road.md) — Once you enter the temple, there's no turning back.
+- [10720 A Greek Tragedy](10720-A Greek Tragedy.md) — Thus, people make the choices they ought to make, and walk the paths they ought to walk.
+- [10721 A Homage Paid](10721-A Homage Paid.md) — A multitude of hands overlap to salute the one and only Guide.
+- [10722 The Ones Who Pray](10722-The Ones Who Pray.md) — Recognize the beauty and goodness of truth—free yourself from corruption, hatred, and evil.
+- [10723 The Rosetta Stone](10723-The Rosetta Stone.md) — This may be the world's first trilingual dictionary.
+- [10724 The Cycle of History](10724-The Cycle of History.md) — By the time people realize its true nature, it has already moved.
+- [10725 The First Circle](10725-The First Circle.md) — Thus, the proof is complete.
+- [10726 Mirror and Curtains](10726-Mirror and Curtains.md) — A mirror, a razor in green, and hands reaching into nothingness.
+- [10727 Hymnus Ad Bacchum](10727-Hymnus Ad Bacchum.md) — So I will rejoice, dance freely, and savor my wine.
+- [10728 The Two Numbers](10728-The Two Numbers.md) — Two numbers, each representing a pure essence of its own.
+- [10729 The Umbrella and the Knot](10729-The Umbrella and the Knot.md) — It may not be important to remember an era, but it is important to remember the people.
+- [10730 And Now, the Curtain Call](10730-And Now, the Curtain Call.md) — She brushes off the raindrops from her shoulders and steps into the new world.

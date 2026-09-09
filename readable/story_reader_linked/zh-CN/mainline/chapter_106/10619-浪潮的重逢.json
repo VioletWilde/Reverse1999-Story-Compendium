@@ -1,0 +1,522 @@
+{
+  "episode_id": 10619,
+  "chapter_id": 106,
+  "chapter_title": "今夜星光灿烂",
+  "display_label": "",
+  "title": "浪潮的重逢",
+  "subtitle": "它们总是会拍上岸。",
+  "trails": [
+    {
+      "element_id": 100617,
+      "owner_episode_id": 10619,
+      "trigger_episode_id": null,
+      "title": "实验记录",
+      "description": "已归档的项目实验记录，纸张上沾染的气味有些熟悉。",
+      "action": "交互",
+      "unlock_condition": "EpisodeFinish=619",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "实验记录"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "001号药物样品\n食用后出现亢奋症状，过体“提炼”效率提高20%，所获得的提取物更为纯净，二次注射提纯液后出现心率过快、肾上腺素过高的症状。\n消耗：3张桌子，7面玻璃，2名研究员和30根球棒。\n\n008号药物样品\n现已发现其效用与其新鲜程度呈正相关，且体液“提炼”后的生化物质呈现高能态，分子反应活跃导致性状多变，尝试控制变量以得出让试剂变得相对稳定的体液环境。\n*除了我以外，谁都别动这玩意儿，如果你不想像今天早上那个在实验室里差点被自己的呕吐物噎死的人一样。\n\n019号药物样品\n剥离苦目树叶中的糖分后，苦目树混合悬液处于易解离状态，分子结构也产生了畸变，也许糖分是稳定产出的关键之一。\n\n023号药物样品\n蔗糖确实是有用的，但其产物仍未达到预期的稳定性，尝试去除试剂中的类醇化合物。\n*别再催了，我这几天说话都是苦目树的味儿！\n\n025号药物样品\n蔗糖，蔗糖，蔗糖，蔗糖，蔗糖，蔗糖，蔗糖，蔗糖，酒精，和苦目树叶，今天先这样吧，明天再看看。\n* 哦！它被保留下来了！但效用极其微弱，也许该挪挪天平的砝码。\n\n……\n……\n……\n053号药物样品\n已基本掌握维持苦目糖有效成分的配比尝试剔除其中对人类的毒性。\n\n098-A号药物样品\n将25%苦目树溶液滴到志愿者（纯人类）的手腕内侧后，3人出现了伴有瘙痒和红肿的红疹症状，1人出现了皮肤溃烂的症状，经过医治后全部康复，无后遗症的出现。\n\n159-C号药物样品\n对人类安全的东西对神秘学家就是无效的！\n别什么东西都惦记着往人类嘴里放！你们在会议上用这个来压我们明年的资金的时候我就把这本实验笔记拍在你们的脸上！"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100625",
+      "internal_title": "第六章6-19.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "浪潮的重逢"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "他们……他们的面孔正在变形，像那些油画一样……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "这也是某种群体癔症吗，还是……？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "歌剧院空前喧嚣，人们正在躁动。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "楼座观众",
+          "text": "谁看到我的望远镜了吗？把它递给我一下好吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "楼座观众",
+          "text": "噢，原来它长在我的眼睛上……没事了……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "欢呼的人群站在了椅子上，他们不能自已地鼓掌，嘴里发出狂热的咆哮。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "后座观众",
+          "text": "——这就是托斯卡之吻！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "后座观众",
+          "text": "来吧！朋友们，同胞们！握紧你们的匕首，到上面去！我们也要拥有属于自己的斯卡比亚！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "后座观众",
+          "text": "那些徒有其表的上层阶级，根本就配不上那么好的座位！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "后座观众",
+          "text": "Vissi d'arte, vissi d'amore!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "越来越多的人离开了座位，有人高呼着从他人的膝盖上踩了过去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "而奏乐仍在继续，大幕也仍未落下。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "包厢观众",
+          "text": "太精彩了，我几乎能感到血液溅到我的脸上……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "包厢观众",
+          "text": "这无疑是一种艺术，一种用真实取代虚假的动人愿望……我从未看过如此精彩的演出……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "包厢观众",
+          "text": "哦！西拉，奥尔夫，你们怎么了？血也溅到你们脸上了吗？这是演出的一部分吗，还是？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "包厢观众",
+          "text": "——唔哦！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "人群混成了一团黏稠的油彩，如同海浪般汹涌冲刷着歌剧院的每一个角落。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "他们在狂热地互相杀戮……！就没有人注意到这一切吗……？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "霍夫曼女士，我这里的情况很紧急，我——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "马库斯一个趔趄，险些被疯狂的人群撞倒，通讯器的联络也因此中断。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "不行，什么都听不见！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "人们源源不绝……我得开出一条路！"
+        }
+      ]
+    },
+    {
+      "script_id": "100626",
+      "internal_title": "第六章6-19.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "场景-维也纳人民歌剧院"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "有人从阴暗处冲了出来，拔出腰上的佩枪。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "军人",
+          "text": "安静，都安静！！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "军人",
+          "text": "你们这些暴乱分子，都见上帝去吧！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "原定的维护秩序之人只让现场变得更加混乱。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "枪声、尖叫声、嘶吼声、咆哮声混杂一团。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "有少数的基金会分部的职员穿梭其中，但他们要么也被癔症沾染，要么被人潮的洪流冲走。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "马库斯狼狈地在其中闪躲，像洪水中的一片落叶。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "我得，我得疏散他们，至少把散场通道的门打开——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "——呃！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "霍夫曼",
+          "text": "马库斯！你还在做什么？！命令是撤退！！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "导师匆匆地从帷幕另一端走来，将马库斯从蜂拥的人潮中拉走。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "可是人们正在死去——！我们的职责是——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "霍夫曼",
+          "text": "……基金会总部刚刚传来了通讯。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "霍夫曼",
+          "text": "司辰发布了24小时倒计时通知。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "……什么？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "霍夫曼",
+          "text": "重塑在同一天发动了多起刺杀案，时代的不稳定性抵达了临界点。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "霍夫曼",
+          "text": "——“暴雨”就要发生了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "马库斯颓然地倒地。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她缓缓地、不可置信地用手抓散了自己的头发。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "不，不……怎么会……导致“暴雨”……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "是我……都是因为我……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "这一切连锁反应的起源是我……是我把那座岛的消息透露了出去……是我……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "霍夫曼",
+          "text": "——不要步入幽微，马库斯！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一双有力的手把她从地上拉了起来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "霍夫曼",
+          "text": "在这场混沌无比的时间风暴中，你我都只是无足轻重的一粒石子。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "霍夫曼",
+          "text": "在你之前，“暴雨”已经发生了数次。在你之后，“暴雨”还将发生无数次。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "霍夫曼",
+          "text": "时代反复消失，人们反复死去，没有哪一次比哪一次更糟。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "霍夫曼",
+          "text": "我们唯一能做的，就是找到免疫“暴雨”的术式。这样才能救下更多的人！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "霍夫曼",
+          "text": "基金会已经发布了避难通知，所有外派人员，必须在“暴雨”前回到总部。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "霍夫曼",
+          "text": "离我们最近的撤退点是维也纳火车站，时间是，两小时后。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "——两小时？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "马库斯飞快地回忆起了来时见过的地图。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "我们从这里过去要不了——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "霍夫曼",
+          "text": "……是的，在“暴雨”真正落下前的这一段时间里，我们还有一些能做的事。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "霍夫曼",
+          "text": "但敌人的实力可能远超我们，我们也无法再取得任何支持。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "不远处，维也纳分部的原负责人正惊恐地躺着，作为一桩罪行的证明。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "舞台之下，穿华服的人，穿制服的人，穿戏服的人，他们咆哮着，涌动着，已经难分彼此。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "……您曾对我说过，您不害怕死，您害怕的是一无所知地死去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "我现在……也许能明白一些这种心情了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "我也不想这样……我不想这样什么都没做到地回到基金会！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "霍夫曼",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "霍夫曼",
+          "text": "很好，走吧，马库斯。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "霍夫曼",
+          "text": "去找海因里希和伊索尔德，可能得知术式的人，我们的重要线索。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "霍夫曼",
+          "text": "顺利的话，我们还来得及赶上最后一趟班车。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "霍夫曼熟练地给子弹上膛，马库斯也握紧了自己的提灯。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "霍夫曼",
+          "text": "——卡卡尼亚没有和你在一起吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "唔，卡卡尼亚小姐当时冲到了台上，她和伊索尔德——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "越过人们耸动的肩膀，台上已经没有绿色的身影。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "马库斯眯起眼睛，仔细检查帷幔和舞台道具。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "海因里希给它们全都附上了神秘术，这些布景道具里一定有通往暗室的机关。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "卡卡尼亚和伊索尔德……她们一定还在这座歌剧院里!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "霍夫曼",
+          "text": "——过来！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "深紫色的咒文辉光破空而来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "霍夫曼及时将马库斯的肩膀向后一扳，这道咒语仅是灼伤了她的头发。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "海因里希",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "绅士熟悉的身影一晃而过。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "海因里希！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "脚下骤然踏空了一步。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "霍夫曼",
+          "text": "……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "霍夫曼",
+          "text": "唔，地板上有陷阱……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "场景-黑屏"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "这里十分静谧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "没有观众，没有奏乐，没有碍事的其他演员。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一处理想的地点。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡卡尼亚",
+          "text": "——伊索尔德！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "呼喊声从帷幔的另一端传来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她睁开眼睛，看着自己所等的另一个主角跳上舞台。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊索尔德",
+          "text": "……医生。"
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

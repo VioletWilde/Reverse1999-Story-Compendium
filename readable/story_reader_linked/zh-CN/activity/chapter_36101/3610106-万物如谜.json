@@ -1,0 +1,585 @@
+{
+  "episode_id": 3610106,
+  "chapter_id": 36101,
+  "chapter_title": "人们向何处去",
+  "display_label": "",
+  "title": "万物如谜",
+  "subtitle": "而旧时光有薄荷气味。",
+  "trails": [
+    {
+      "element_id": 3610104,
+      "owner_episode_id": 3610106,
+      "trigger_episode_id": null,
+      "title": "一本未完的书",
+      "description": "写书有时也是与自己沟通。",
+      "action": "交互",
+      "unlock_condition": "EpisodeFinish=3610106",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "续集"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "自那之后，“暴雨”把世界带到了90年代。\n伊索尔德小姐积极接受了治疗，卡卡尼亚小姐则在世界各地奔波，为改变世界而努力着。她很快就融入了新时代，还读了很多书，我也给了她许多推荐。\n值得一提的是，塞梅尔维斯女士在维也纳事件后成为了血食怪，这起意外超出了所有人的预料，就像是涌动的暗线一样令人好奇。我多次诚挚的请求让我得到了阅读她的故事开端的许可。那是个非常曲折的故事，令人不禁浮想联翩，它会有怎样的结局？但如果我在这里讲述整个故事，这本书的厚度就会变成预期的三倍。感谢我的恩师霍夫曼女士，她教会我在这种时候要干脆地对内容做出取舍。\n……\n现在世界来到了1920年，但那场战争仍没有结束，一切就像是那疯狂的一天的延续。我听说卡卡尼亚小姐为此沮丧了一整天，不过很快又回到了委外合约人才管理组织的任务中，她的坚韧品德即使跨越两个时代也不曾消退一点。这股精神似乎也影响了我，让我时刻想着自己能做些什么。于是我试着写了这本书以整理我的思绪，希望我能在彻底成稿前得出结论。\n……"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 3610105,
+      "owner_episode_id": 3610106,
+      "trigger_episode_id": null,
+      "title": "研究员入职指南",
+      "description": "怪人有多少，指南就有多少。",
+      "action": "交互",
+      "unlock_condition": "EpisodeFinish=3610106",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "《密码入门指南·维吉尼亚篇》"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "为防拉普拉斯职工遭到同事恶作剧，因无法破译密码而延误科研进度，现在发布《密码入门指南·维吉尼亚篇》。\n首先，维吉尼亚密码可以解释为凯撒密码的升级，从单个字母表简单移位升级为多个字母表移位来提升复杂度。关于凯撒密码是什么，请看《凯撒密码篇》。\n维吉尼亚密码和凯撒密码最大的区别便是密文与明文字母之间的对应关系不唯一，故而更难推断出转换用的密钥。但因为其始终具有一定规律性，所以可通过寻找成段重复的密文部分，根据常用语法中的高频词来推测出特定密文对应的明文，并根据重复密文之间的间距推断出密钥的长度，从而分析出密钥。\n然而在文本量有限的情况下，很难实现上述内容。这时建议使用一些辅助手段来推理密钥，设置密码者的性格、经历、写作习惯都是推理密钥的重要依据。以下是极有可能在拉普拉斯进行密码恶作剧的嫌疑人名单：\n\n阿德勒，乌尔里希，X，理查德，道金斯，维克托……\n\n遭遇密码恶作剧时，请优先考虑以上嫌疑人，如果你实在无法破译，也可直接与以上嫌疑人对峙，要求解除恶作剧，而如果嫌疑人否认是自己进行的恶作剧，则设法要求嫌疑人为你破译密码，无关乎对方的嫌疑。"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "203608",
+      "internal_title": "【3.6】人们向何处去06",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "霍夫曼家"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "我准备出门了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "午饭自己热一下冰箱里的菜，你听到了吧，阿德勒？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿德勒",
+          "text": "登山俱乐部究竟有什么魔力？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿德勒",
+          "text": "连邻居聊天的时候都会说：“你找格蕾塔？应该是爬山去了。”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "格蕾塔",
+          "text": "也可能在划艇。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "门口的年轻人已经系好了鞋带，在垫子上跺了跺脚。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她背起登山包，转头看了一眼站起身的弟弟。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "格蕾塔",
+          "text": "你要一起？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "格蕾塔",
+          "text": "上回你爬完卡尔文德尔山，还没到家就说再也不会参加任何周末体育活动。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "格蕾塔",
+          "text": "下棋，游泳，或者做些你喜欢的数学题，都是很好的消遣。也不用非要和我一样。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿德勒",
+          "text": "我只是起来倒杯水！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "格蕾塔",
+          "text": "哈哈，好——对了，帮我个忙。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "格蕾塔丢来一把钥匙。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "少年头也没抬，将半空中的钥匙捞进手心。他的视线停留在报纸的填字游戏格上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "格蕾塔",
+          "text": "又在研究什么呢？打算像上次那样把老爸藏烟的柜子用密码锁上？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿德勒",
+          "text": "那不过是个维吉尼亚密码。入门级别的谜题。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "格蕾塔",
+          "text": "嗯，你如果有空，可以把后院的草坪修剪一下，老爸老妈都会很高兴。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "格蕾塔",
+          "text": "而且我还没问过你呢，“拉普拉斯”又究竟有什么魔力？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "格蕾塔",
+          "text": "优秀的科研机构可不少，你怎么对那座大厦这么上心？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿德勒",
+          "text": "因为我觉得那群人的理念和我一样。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "格蕾塔",
+          "text": "嗯？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "格蕾塔",
+          "text": "她发现弟弟的语气认真起来。于是暂缓了开门的动作。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿德勒",
+          "text": "一定有一种能够描述世间万物的统一的理论。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿德勒",
+          "text": "因为任何谜题都有其解答。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿德勒",
+          "text": "因为世界是一个填字游戏。只要沿着线索推演，一定能得到唯一的答案，既定的原理。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿德勒",
+          "text": "简单明了，清晰，理性。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿德勒",
+          "text": "密码不过是按照特定规律重新编排的符号，找到规律就能解明。如果还没有答案，那不是因为它从不存在，而是因为尚未被发现。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿德勒",
+          "text": "我听过科算中心的讲座。那些研究员都坚信自己能发现真理。这简直太自负了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿德勒",
+          "text": "——但就应该如此。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "格蕾塔点了点头，笑着打开房门。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "格蕾塔",
+          "text": "知道了。不用太紧张，你肯定能顺利收到拉普拉斯的邀请。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "格蕾塔",
+          "text": "我也帮你打听过，他们都说年纪不重要，是不是神秘学家也不重要。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "格蕾塔",
+          "text": "只有天才才能敲开拉普拉斯的大门。这是唯一条件。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "格蕾塔",
+          "text": "所以你肯定没问题。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他弯下腰，把带来的花放在墓碑前。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "那里已经有新鲜的花朵了。白菊花漫出了石板边沿，流淌到草坪上。"
+        },
+        {
+          "kind": "title_card",
+          "text": "基金会走廊"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一场剑拔弩张却毫无进展的会议终于结束。密码学家站在人来人往的大厅，有些恍惚。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "匆忙的工作人员并未留意这位密码学家，他们脚步不停，手中的文件一摞比一摞厚重。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "……哈，以最大的投入功率来推动一颗最小的螺丝。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "毫无意义的资源浪费。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "“嘀嘀——”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "通讯器适时响起，阻拦了他对于半小时前那场会议的厌弃。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "指针",
+          "text": "阿德勒研究员。如果手上没有紧急事务，请迅速返回科算中心。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "怎么了？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "指针",
+          "text": "关于高塔里的核心，我们有了新的发现。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "指针",
+          "text": "这枚核心会随着被观测而变化。我们得想一个新计划。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "记得你的人很多。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "就连缪斯三世带来的“玩具箱”里，都有一段数据兢兢业业地模拟着你的固执。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "还是换个话题吧，我相信你也不愿听我在这里冗长地怀念过去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "也许是说服自己，又或许是抗拒，密码学家从繁杂的思绪里重新择选了合适的内容。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "箱子里那座高塔，那座用以解决“语言异化症”的巴别塔，并非最后的答案。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "——没错，人们得以再次用言语交流，前所未有地理解彼此。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "但代价是，所有人的认知都被统一的模型塑造。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "所有人齐声赞成，所有人齐声反对——这样的交流，又怎么可能是交流？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他凝视了墓碑上雕刻的字母太久，它们开始变得陌生。一切都如此失真，像是不切实际的梦境。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "……我和乌尔里希，各自出发，最终却都选择了炸毁这座高塔，拿到了塔里的核心。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "于是，现在我们有了新的亟待解决的问题——核心上有一道密码锁。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "而我对这道密码锁毫无头绪。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "墓碑沉默地应对，但并不妨碍密码学家从记忆中解出格蕾塔可能会有的反应。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "呵，我知道，你一定会不解。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "这本该是我的专长，毕竟找到线索，解开密码，需要的只是时间。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "但这不是现在这颗锈钝的脑子，还能自信依赖的想法了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "我已经很久没有做过自己的研究项目了，噢，是的，那些只能浪费时间的会议，还有仿佛在无限生成的批复文件——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "我的时间已经被这些琐碎的事情填满了。我能听到大脑里老化的齿轮运转时，咯吱作响的声音。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "也许……我已经失去了我曾经拥有的天赋。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他苦笑着点了点头。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "哈，也许有朝一日我会用上X那些发明的。这些事就算交给一个最愚钝的机器人，也不会办得比现在更糟糕。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "白菊花窸窸窣窣地在流动的风中低语。万物的响动包围了一个沉默的人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "噢！哑谜先生……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "您……也在这里。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "循声望去，格蕾塔的学生抱着一打文件和一束花站在他身后。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "……一会儿要到基金会开会，顺路看看。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "你来看她了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "是的，我给老师带了一些新文章。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "这些文章……我还没有寄往《白日梦邮报》，也并不清楚这次是否会被拒收。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "只是，这次我采取了另外一种记录手法，在霍夫曼女士曾经的改良意见上的再次修订——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "所以我想在得到报社答复前，先带给霍夫曼女士看看。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "我希望她看到，我终于学会了在无尽的“阅读”中做出那个最好的选择。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "在“阅读”了那么多故事之后，以我的眼睛目睹的有限真相……是关于“暴雨”的故事。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "哑谜稍稍让开，马库斯将怀里的花压在文章上，一道放在了墓碑前。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "既不违背自己的心意，也不违背霍夫曼女士的指导。我找到了实现理想的记录手法。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "当然……这肯定还有很多不足……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "在一种尴尬的羞赧中马库斯表达清楚了自己。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她与寡言的密码学家并不算熟悉，格蕾塔是二者之间罕见的交集。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "哑谜先生，我以为您不会来到这里了……这不是指责的意思！我明白您当时的心境……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "但既然您来了，关于那个问题，您已经得到了答案吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "调查员小心地询问着。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "现在还没有。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "但维持现状，也似乎对思考没有任何帮助。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "嗯……“阅读”需要时间，求证也是。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "也许吧。你应该还有不少话想要和她说，那我便不打扰了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "哑谜伸手在口袋里摸了摸，金属罐在手心里散发着沉甸甸的冰凉。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他换了只手，伸进另外的口袋。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "怎么了，哑谜先生？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "没什么。拿好。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "马库斯摊开手，哑谜抓着一把东西放进她的手心，接着转身离开。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她低下头。这些糖果她倒很熟悉，导师的口袋里也曾散落有这样的小东西。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "冰冷的、刺激性的气味令她眨了眨眼睛。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "噢，是……薄荷糖。"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

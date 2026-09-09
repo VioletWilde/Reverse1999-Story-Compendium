@@ -1,0 +1,430 @@
+{
+  "episode_id": 10918,
+  "chapter_id": 109,
+  "chapter_title": "Folie et Déraison",
+  "display_label": "",
+  "title": "In Praise of Folly",
+  "subtitle": "A tiny boat adrift upon a sea of ideals, convinced it has hoisted its sail.",
+  "trails": [
+    {
+      "element_id": 1091801,
+      "owner_episode_id": 10918,
+      "trigger_episode_id": null,
+      "title": "Ship of Fools",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=918",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Look, it's sinking. Corpses float on the planks, and the fleeing prisoners are swimming toward the shore. Time to abandon ship."
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "What ship?",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "One that was exiled to a desolate corner of the ocean by the resplendent civilized world."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "It's both a prison and a sanitarium. Are any of your friends aboard? If so, you might find the following report a little offensive."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "\"Dregs of society\" ... \"Human scum\" ... These are the terms used to describe its eccentric passengers."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "To be fair, they do lack discipline and independence."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "But that may well be a response to the heavy pain they've endured."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Some theorists suggest that they're innocent victims, trapped in the confines between rationality and irrationality, defined and redefined by historians as they please."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "But let's ditch the theories and simplify things: the moment the shackle called \"madness\" was fastened around their necks—whether they were truly mentally ill or not—their lives were forever scarred."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "And now, the mad passengers are storming the shore."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "A favorable outcome.",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "I suppose it is. You can see the joy in their faces, even in the footprints they leave behind as they hop across the beach."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Yes, freedom is favorable, indeed. The freedom to squander our lives, to trample on the dignity of others, the freedom to embrace absurdity and meaninglessness."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "But one can gain immunity through controlled infection—the disease can become its own vaccine."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Just beware of the ignorant commander who deifies a wandering lunatic in pursuit of a little knowledge."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Let's dig deeper—scavenge through the messy battlefield for dog tags—were these people born mad?"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "After watching the inhabitants of this earth tear each other apart in one war after another, I've concluded this: only knowledge drives people to madness; ignorance does not."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Madness is a side effect of the sedative that is \"knowledge.\" As long as those on land continue to consume it, this ship will never be short on recruits."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "This is a war between madness and civilization. Both sides have leveled accusations, spilled blood, and pummeled each other ..."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "... and soon, everyone will have leapt into the trenches and beaten and been beaten to a bloody pulp. Only a few can escape this fate."
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "Like who?",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "Check your six."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "The one leaning against the sunken ship, showing no signs of struggle or sorrow—García."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "The seawater has flooded his windpipe and reddened his eyes, yet there he is, staring blankly at the shore ..."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "He's in his home base. He holds no hope for forgiveness from his enemies—not in the slightest. He's a one-man army, fighting only for himself. Alone."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "Now, do a 360 and look again—he's been utterly defeated."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "They're spreading their disease.",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100926",
+      "internal_title": "第九章9-18.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "In Praise of Folly"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A prisoner steps out from behind the wall, a weapon held in his shaking hand."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "García",
+          "text": "I was just setting up my exhibit when everything started shaking. Then I realized it wasn't just my imagination."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "García",
+          "text": "So I followed the cracks in the wall and found my way here."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "García",
+          "text": "I didn't mean to eavesdrop, but something's happening to the Panopticon, isn't it?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "His panicked hands shift the gun toward Aleph, who has collapsed on his side."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "García",
+          "text": "Are you the Physician? Or is it Aleph?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "García",
+          "text": "Whoever you are, please, please restore the Panopticon to the way it was! I'm begging you!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "García",
+          "text": "You-You can do that, right?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Aleph",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The mind that once created infinity now watches as it folds back into nothing before him."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "García",
+          "text": "Why? Why aren't you doing anything? Damn it! Why is this happening?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "García",
+          "text": "Oh, oh, the die! If you won't help me, then I'll do it myself!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The prisoner, in desperation, lunges forward."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "Calm down, García!"
+        }
+      ]
+    },
+    {
+      "script_id": "100927",
+      "internal_title": "第九章9-18.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Timekeeper, he's ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "García, weakened by his long confinement, is easily knocked to the ground, unable to withstand even the lightest touch of arcane skill."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "García",
+          "text": "Why? Why is this happening to me?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "García",
+          "text": "I was so close ... so close to completing the exhibition."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "Can't you see, García? There is no one controlling this place now! You're free!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "It isn't the die that's trapped you, nor is it the walls of this prison."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "It's the rules and that overpowering gaze from the central tower, but now that's all gone."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "You can go outside. You can set up your exhibit anywhere you want. No need to stay stuck in this—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Looking back on all that he has lost, the artist cuts her off."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "García",
+          "text": "No, Ms. Recoleta. You've seen the world out there. You know as well as I ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "García",
+          "text": "... that there's nowhere else I can go but here."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "García",
+          "text": "This is the only place in the world where I can hold my exhibit."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "García",
+          "text": "And you've ruined it. You've ruined everything."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "This room's about to collapse. We've got to leave."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Mr. García, do you need a hand?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "García",
+          "text": "I can take care of myself, thank you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "García",
+          "text": "I ... I'll go a different way. I have to go back and finish setting up my exhibit."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He drags himself forward with trudging steps, retracing his path to leave."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "Vertin, what about Aleph? We can't just leave him here."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Of course not. We still have questions he needs to answer."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Sonetto, help me get him up. Let's get out of here."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Yes, Timekeeper."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The dejected prisoner looks at Sonetto with confusion."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Aleph",
+          "text": "Your words are always at odds with your thoughts. You carry an ocean of questions, yet never reveal even a single drop of them."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Aleph",
+          "text": "Why have you never shared your doubts? Why do you stay silent in the face of everything and everyone around you?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "I ... I believe in my duty."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The prisoner shifts his gaze to the other Foundation investigator."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Aleph",
+          "text": "As for you, Paracausality Researcher. You're different from any other seeker of answers."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Aleph",
+          "text": "Even on a desperate, near hopeless journey, your heart holds little doubt."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Perhaps not every question needs an answer, Mr. Aleph."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Aleph",
+          "text": "Is that so?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The prisoner, so used to answering others' questions, seems to have run into one of his own. But unfortunately, no one is here to answer it."
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

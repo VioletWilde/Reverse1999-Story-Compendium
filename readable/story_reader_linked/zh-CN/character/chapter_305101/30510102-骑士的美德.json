@@ -1,0 +1,793 @@
+{
+  "episode_id": 30510102,
+  "chapter_id": 305101,
+  "chapter_title": "翡冷翠之春",
+  "display_label": "",
+  "title": "骑士的美德",
+  "subtitle": "它是特洛伊人的，菲耶索莱人的，罗马人的。",
+  "trails": [
+    {
+      "element_id": 30510102,
+      "owner_episode_id": 30510102,
+      "trigger_episode_id": null,
+      "title": "可靠的朋友",
+      "description": "有这么一位朋友能省去不少事儿。",
+      "action": "交互",
+      "unlock_condition": "EpisodeFinish=30510102",
+      "content_hints": [
+        "fragment",
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "一封无头无尾的信"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "实验没有什么进展，我转而重新研究了密文，但应该没有别的解法。光线！壁画的异变一定与光线有关，我打算重新设计实验。能搜集到那些壁画的详细情报吗？位置、内容、数量，什么都行，我需要一点新思路。\n另外，我有个很糟糕的发现，想让我来解开这个谜团的人可能不止你一个。我打算近几日前往佛罗伦萨，就在刚刚，我好不容易才躲过了那群圣殿暴徒，那太——（纸面上留下了一道划痕，字迹中断了）"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 30510103,
+      "owner_episode_id": 30510102,
+      "trigger_episode_id": null,
+      "title": "稀有苹果",
+      "description": "之前可没听说佛罗伦萨还盛产苹果。",
+      "action": "交互",
+      "unlock_condition": "EpisodeFinish=30510102",
+      "content_hints": [
+        "fragment",
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "“金苹果”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "艾吉奥：\n我们依然缺乏有关“金苹果”的准确情报，也无法判断它与伊甸苹果的关联。现在闹得沸沸扬扬的传闻中，它与“晚祷会”的密室有关，这势必会引来更多的关注。\n值得一提的是，在近几次的追踪中，我们数次听到了那颗苹果发出的鼾声。这让人难以置信，但那颗苹果似乎在像人一样沉睡。几年的时间，会让伊甸苹果学会睡觉并打鼾吗？我对此保持怀疑。\n另外，莱昂纳多的处境恐怕不太妙，他在米兰的住所已经人去楼空。一旦有他的消息，我将第一时间联系你。\n\n尼可罗·马基亚维利"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "2030503",
+      "internal_title": "【S01】翡冷翠之春02.1",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "圆呀圆呀像苹果，一人一口莫要争。\n夕光亮，鬼影笑，密室开无声！"
+        },
+        {
+          "kind": "title_card",
+          "text": "佛罗伦萨·街头"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "孩子们似乎都在唱这首歌，有什么故事吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "书商",
+          "text": "看你这身打扮，应该是远方来的旅人吧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "……是的，先生。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "书商",
+          "text": "那我可要给你好好讲讲了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "来自远东的书商清了清嗓子。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "书商",
+          "text": "诗人曾说，佛罗伦萨是罗马美丽而著名的女儿～"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "书商",
+          "text": "于是旅人们都来这里追寻古罗马的遗迹。露天剧场、战神塑像，甚至被改作监狱的地下墓穴……每一处发现都价值连城！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他凑近了些，神秘地压低了声音。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "书商",
+          "text": "而现在，大家有了新的目标……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "金苹果？这一路上我听到了许多有关它的传言。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "书商",
+          "text": "没错！看来你也不是一无所知。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "书商",
+          "text": "自从被发现可以和一些湿壁画发生反应后，有关这只苹果的纷争便从未停止。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "书商",
+          "text": "而这一切，都源于一个叫“晚祷会”的异教组织。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "晚祷会……很特别的名字。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "书商",
+          "text": "哦，因为它的成员总是在黄昏时分，大家前往教堂做晚祷的时候集会。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "书商",
+          "text": "而他们集会的地方，就位于大教堂穹顶内的一处密室。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "书商指了指不远处砖红色的圆形穹顶。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "圣母百花大教堂，又被当地人亲切地称为“大教堂”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她坐落在城市的心脏地带，凝望着下方的砖瓦城池，仿佛一位缄默的古老守卫。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "书商",
+          "text": "他们在密室中举行邪恶的祭祀仪式，在墙上绘制可怖的景象，同时也留下了无数珍宝遗物……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "书商又凑近了些，用力比了个手势。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "书商",
+          "text": "你知道那些遗物价值几何吗？这个数！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "嗯？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "书商",
+          "text": "啧。算了，这不重要。你只需要知道它们非常值钱。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "书商",
+          "text": "甚至还有传言说，谁能得到它们，谁就能成为佛罗伦萨真正的主人！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "真正的主人？在这里，光凭金钱就能买下一座城市的统治权吗。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "书商捻了捻胡须，呵呵一笑。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "书商",
+          "text": "不然你以为美第奇是靠什么统治的？在这片土地上，钱能买下艺术、军队甚至教皇的头衔，当然也能买下一座城池！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "原来如此。密室和神秘的宝藏……像是常见的传说故事。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "书商",
+          "text": "常见的传说故事？一派胡言！你听过将密室开关隐藏在湿壁画中的传说吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "确实从未听闻。将开关隐藏在湿壁画里……我明白了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "这样，能改变湿壁画的金苹果就成了那把能找到开关的唯一钥匙。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "书商",
+          "text": "真是聪明伶俐的女士！我猜你和其他人一样，也是寻宝者吧？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "……你可以这样理解。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "书商",
+          "text": "那你可算给自己挑了块硬骨头。大教堂的面积可不小，要想找到密室，必须得仔细研究晚祷会在湿壁画中留下的蛛丝马迹。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "听上去是个大工程。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "书商的眼睛顿时亮了起来。他“嗖”地掏出一本精致的手抄本。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "书商",
+          "text": "你需要书籍的力量！我曾雇佣一批画匠搜罗了近期发生异象的湿壁画，并将它们都临摹下来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "书商",
+          "text": "丝绸封皮，蛋彩插画，内页点缀金箔，还附赠但丁诗歌！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "书商",
+          "text": "借助它的力量，你将成为佛罗伦萨首屈一指的寻宝者！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "我有一个问题。如果你已经掌握了这么多线索，为什么不亲自去寻找密室？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "这应该是成为佛罗伦萨僭主的好机会。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "书商",
+          "text": "咳咳……我可没有女士您这样灵光的头脑，这本书对我来说只是一堆废纸。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "书商一手捂住胸口，一手高高举起手抄本。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "书商",
+          "text": "总而言之，原价10个弗罗林，但你是今天第8位光顾这家书摊的客人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "书商",
+          "text": "在佛罗伦萨，8是个幸运数字，象征从死亡到生命的永恒转化！我们的洗礼堂和大教堂穹顶都是八边形结构……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "书商",
+          "text": "因此我决定给你一点小小的优惠，只要5个弗罗林！放心吧，你在佛罗伦萨不可能找到比它记录更完整的手抄本！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "……抱歉，我身上一分钱都没有。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "空气瞬间凝固。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "书商狠狠放下手抄本。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "书商",
+          "text": "女士，你在佛罗伦萨转悠了这么久，身上竟然一分钱都没有？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "书商",
+          "text": "那你磨磨蹭蹭地待在我的书摊前面做什么？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "我听说那个金苹果不仅会说话，还能飘浮在半空中……它或许和我一位走失的朋友有关。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "你需要任何别的帮助吗？或许我可以为你解决一些神秘学相关的困扰。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "——并且不收取报酬。作为交换……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "话语稍作停留，眼神直白地落在那本装帧精美的手抄本上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "书商望着眼前这位穿着怪异、身形瘦弱的女士，确信自己遭到了严重的羞辱。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "书商",
+          "text": "滚出我的书摊——！！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莱昂纳多",
+          "text": "晚祷会、密室……事情大致就是这样。这下你一定明白了吧！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "哦，这……可是……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "纷繁的信息骤然涌入大脑，语言中枢难免显得忙乱。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "圣殿骑士长官",
+          "text": "后来你几经人手，领主宫、圣马可修道院、小偷公会……我们费了老大功夫才找到你。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莱昂纳多",
+          "text": "还有我！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "“砰——！”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "铁靴毫不留情地踹了过去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "圣殿骑士长官",
+          "text": "给我闭上你的嘴，蠢货。从刚才起，就像苍蝇一样招人烦……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "圣殿骑士长官",
+          "text": "接下来你们两个只需要按照我的指示做，明白了吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "莱昂纳多的额角渗出血来。他苦笑着耸了耸肩。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莱昂纳多",
+          "text": "咳咳……明白，长官。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "APPLe某有拒绝的空间吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "圣殿骑士长官",
+          "text": "你大可以试试看。现在你是整座城最热门的焦点，所有势力都会死咬着你不放。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "圣殿骑士长官",
+          "text": "没有你喘息的余地——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "“咻——！”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "圣殿骑士Ⅰ",
+          "text": "长官，有人……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "骑士话音未落便软软倒下，脸上泛起一层青绿色。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "圣殿骑士长官",
+          "text": "？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "圣殿骑士长官",
+          "text": "是淬了毒的飞刀……有刺客！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "圣殿骑士Ⅱ",
+          "text": "长官，快看天上！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一只灰鹰低低徘徊在天际，发出刺耳长啸。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "鹰竟然会在低空盘桓，真是奇怪。等等……这是做什么？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "莱昂纳多一把抓起APPLe，兴高采烈地踩着鹰投下的阴影向前跑去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莱昂纳多",
+          "text": "还记得刚才我和你说过的朋友吗！他来救我们了——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莱昂纳多",
+          "text": "——艾吉奥！！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "刺客一跃而下，动作如闪电般迅猛、精准。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "泛着冷光的袖剑从两侧同时弹出，毫不留情地刺入左右两人的胸膛。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "圣殿骑士Ⅱ",
+          "text": "是刺客……艾吉奥·奥迪托雷……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "话音未落，骑士便倒在了冰冷的石板路上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "血在空中散开，染红了四周的空气。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾吉奥",
+          "text": "刺客就站在这片血雾中，没有表情，也没有动作，仿佛这一切对他来说早已习以为常。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾吉奥",
+          "text": "他看向眼前的尸体，微微低头，像是在表达致意。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾吉奥",
+          "text": "死亡并非残酷。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾吉奥",
+          "text": "安息吧。"
+        }
+      ]
+    },
+    {
+      "script_id": "2030504",
+      "internal_title": "【S01】翡冷翠之春02.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "援兵不断涌入。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "圣殿骑士长官",
+          "text": "包围他们！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾吉奥",
+          "text": "支援速度很快，他们的巢穴恐怕就在附近。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾吉奥",
+          "text": "我们必须赶紧离开。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "莱昂纳多指了指在混乱中显得有些无所适从的APPLe。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莱昂纳多",
+          "text": "艾吉奥，我们分头行动！这是你一直在找的那只苹果，快带他离开这里。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莱昂纳多",
+          "text": "你知道在哪里可以找到我。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾吉奥",
+          "text": "没问题，我的朋友。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "圣殿骑士Ⅲ",
+          "text": "那个解剖的跑了！快抓住他！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "莱昂纳多先生……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾吉奥",
+          "text": "放心吧，他是米兰公爵的座上宾，他们不敢真的杀了他。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾吉奥",
+          "text": "快随我离开。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "好吧……眼下似乎也没有别的选择，起码您看上去对解剖苹果不感兴趣。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "苹果轻巧地跳上艾吉奥的肩膀。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "刺客蹬地而起，灵活地攀上附近的一堵灰泥墙，随后纵身一跃——"
+        },
+        {
+          "kind": "title_card",
+          "text": "佛罗伦萨·屋顶"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "圣殿骑士长官",
+          "text": "他们往领主宫的方向跑了，快追上去！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾吉奥",
+          "text": "如果你们能追上的话。苹果先生，麻烦抓紧我的兜帽。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "没问题……噢！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "刺客穿梭在鳞次栉比的屋檐中，不一会儿便将骑士们远远甩在身后。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "市民Ⅰ",
+          "text": "咦，那边屋顶上似乎有什么金色的东西闪了过去……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "市民Ⅱ",
+          "text": "金色的……好像是金苹果？！别跑，等等我！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一个、两个、三个……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "市民们也跟着跑了起来，佛罗伦萨的街道从未像今日一般热闹。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "市民Ⅲ",
+          "text": "遗物是我的，别想跟我抢！！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "天哪，连追逐船长的警官都没有多到这种程度！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "先生，如果可以的话，能请您稍微加快速度吗？APPLe某感觉自己现在就像感恩节里那只人人眼红的烤火鸡！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾吉奥",
+          "text": "烤火鸡……？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾吉奥",
+          "text": "没用的，我们已经被包围了。不过没关系——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "艾吉奥仰头望向领主宫巍峨的高塔。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾吉奥",
+          "text": "我们还可以爬。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "二十分钟后"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "这下我想我们应该安全了？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "真是与众不同的解题思路——只要爬得够高，就能甩掉所有人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "刺客并未回答，而是警惕地环顾四周。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾吉奥",
+          "text": "还不能掉以轻心。为了对付刺客，圣殿骑士现在也是攀爬的好手了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾吉奥",
+          "text": "他们随时都有可能出现在屋顶上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "哦！如果是这样的话，我们可得仔细看看……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "太阳低垂，天空逐渐被晚霞吞没。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "血红与金黄在遥远的地平线上融化，再流淌进这座古老的城市。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "就在他们脚下，无数层叠交错的屋瓦汇成一片砖红色的海洋，涌向城市的尽头。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "艾吉奥静静坐着，像一只风中失群的候鸟。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "喔……！真令人惊叹。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾吉奥",
+          "text": "佛罗伦萨……时隔多年，我终于回来了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "就在不远处，大教堂孤高地伫立着，身影在夕阳下模糊而庄严。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她所投下的阴影是一张巨大的风帆，足以覆盖整座城市。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "那里应该就是圣母百花大教堂吧。如你们所说，是“遗物”所在的地方？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾吉奥",
+          "text": "是的。我曾去过那里的刺客墓穴，但这一次的遗物有所不同。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "艾吉奥凝望那道近乎完美的圆弧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾吉奥",
+          "text": "它们被深埋在她真正的心脏深处。"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

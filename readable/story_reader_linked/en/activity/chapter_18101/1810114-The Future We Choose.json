@@ -1,0 +1,679 @@
+{
+  "episode_id": 1810114,
+  "chapter_id": 18101,
+  "chapter_title": "Farewell, Rayashki",
+  "display_label": "",
+  "title": "The Future We Choose",
+  "subtitle": "Moving from one reality to another.",
+  "trails": [
+    {
+      "element_id": 1811401,
+      "owner_episode_id": 1810114,
+      "trigger_episode_id": null,
+      "title": "Workshop Area",
+      "description": "The story begins with a melody that echoes through the airspace of the workshop, signaling the beginning of a new day.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=1810114",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1811402,
+      "owner_episode_id": 1810114,
+      "trigger_episode_id": null,
+      "title": "Walk faster",
+      "description": "Walk faster",
+      "action": "",
+      "unlock_condition": "ChapterMapElement=1811401",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "Resident I",
+          "text": "We should take these components to the appropriate comrade. With my years of experience in mining, I can assure you that they are still usable and will be put to good use."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Resident I",
+          "text": "Maybe they contain traces of runium, explaining their pristine appearance. In these times of steel shortages, every little contribution counts ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Resident II",
+          "text": "I imagine Comrade Vila is with the children right now, making sure they don't miss their lessons."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Resident II",
+          "text": "Could it be that the miners have returned to the abandoned mine? Maybe we should take the shorter route to the hotel and let Comrade Evgeni investigate."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Resident I",
+          "text": "Alright, let's do that."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Resident I",
+          "text": "Shh, see those people walking in front of the hotel? Are they from Zeno? Let's not talk about them behind their backs."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Resident II",
+          "text": "Yeah, I see them. Isn't Comrade Evgeni negotiating with Zeno? They must be looking for him."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Resident I",
+          "text": "They left. It looks like Comrade Evgeni isn't there. We'll have to come back later."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Resident II",
+          "text": "Tomorrow or the day after, perhaps."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Resident II",
+          "text": "Honestly, this is not the way I want to leave this town."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Resident I",
+          "text": "Ugh, I still have the scars from shoveling snow on my legs, and we just fixed the windows at home. Who wants to leave just like that?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Resident II",
+          "text": "But what Comrade Evgeni said was reasonable, and he is always truthful ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Resident I",
+          "text": "You're afraid he'll hear you! We may be close to the meeting room, but—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Resident II",
+          "text": "I'm not afraid, or I wouldn't have made the decision to come here. We weren't afraid in the pioneer days either. What Comrade Vila says is exactly what everyone said back then."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Resident II",
+          "text": "The town has been built, and we have been living here for a while now. Our days are not as hectic as they used to be, but it is invigorating to see the resurgence of the pioneer spirit after such a long time!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Resident I",
+          "text": "Hey, alright! That's the attitude we need! If we walk a little faster, we can still make it back to work on time!"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "200822",
+      "internal_title": "【1.8】再见，来亚什基-14.1",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Days Later"
+        },
+        {
+          "kind": "title_card",
+          "text": "Children's Square, Rayashki"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nina",
+          "text": "Ms. Vila, they've been doing strange things."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyotr",
+          "text": "Father took out a lot of old books, and he spends most of his time looking over his blueprints now. He said, \"They will be the key to saving the town.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyotr",
+          "text": "Shame I can't read those books or help with anything."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nina",
+          "text": "My dad was acting strange, too. He started fiddling with the bottles from under his bed again."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nina",
+          "text": "But Mom didn't scold him this time. She even took out some of her treasures from the cabinet."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nina",
+          "text": "Reindeer horn, Noisy Birch sap, Golden-Teeth Seal whiskers."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nina",
+          "text": "Dad said his potions would keep everyone energetic for a whole day."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyotr",
+          "text": "Even Mr. Miser took out his wand from the safe box!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The children cluster around Vila, pleading for answers."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vila",
+          "text": "Heh heh."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Vila is about to speak when hurried laboring footsteps interrupt her."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Patrik",
+          "text": "Move, kids."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Patrik",
+          "text": "Good luck, Comrade Vila."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Regrettably, his march cannot proceed."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "As he's now become the children's newest focus."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nina",
+          "text": "Mr. Patrik."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nina",
+          "text": "Are you doing strange things, too?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The book bag on his shoulder cannot elude the children's scrutiny."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "It is not a cookbook he carries, but something far weightier."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nina",
+          "text": "How to Use and Maintain Model Э-050, Operation Manual of Model СК-1562 ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nina",
+          "text": "These dusty books ... They look older than me!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Patrik",
+          "text": "Hahaha, these \"old friends\" are our textbooks."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pasono",
+          "text": "Do adults take exams, too?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Patrik",
+          "text": "We're doing something far more important than exams, kids."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Patrik",
+          "text": "We haven't used these old fellas since Zeno brought the new ones. Most of our comrades don't know how to operate them."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Patrik",
+          "text": "Now is the time to put them back into use. Comrade Knut has been teaching us how to use these \"outdated\" technologies."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vila",
+          "text": "That's right. All the adults have been divided into many groups."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vila",
+          "text": "Knut is leader of the engineering group, and Pasono's uncle is in the investigation group, while Nina's father has joined the potion group."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vila",
+          "text": "All of them take part in the critter combat training at dusk every day, and we share our combat experience with each other."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vila",
+          "text": "And everyone is working hard to explore the mine."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The children burst into questions, seeking the current whereabouts and activity of every single adult they can think of."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Patrik",
+          "text": "Haha! We will be able to live on our own without Zeno!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyotr",
+          "text": "Ms. Vila, I want the town to be proud of me, too!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nina",
+          "text": "Is there anything that we can do?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pasono",
+          "text": "I have lots of metal toy trains. Can we make components out of them?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pasono",
+          "text": "They can spin and whistle like a mine cart!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vila",
+          "text": "That's a great idea. I'm sure it will inspire everyone."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyotr",
+          "text": "No! Let them use mine first!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Hands shoot up among the children, each a ready volunteer."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Patrik",
+          "text": "Calm down, children. I know you want to do your bit."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Patrik",
+          "text": "But our future needs you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Patrik",
+          "text": "Now, your job is to study hard, so Rayashki can rely on you in the future."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Patrik",
+          "text": "Understand?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nina",
+          "text": "Oh. What about Avgust? We can't find him."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nina",
+          "text": "He'll be so sad if he doesn't get to have a job too."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vila",
+          "text": "*chuckles*"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vila",
+          "text": "Don't worry, Nina. He's helping the town in his own way."
+        },
+        {
+          "kind": "title_card",
+          "text": "Abandoned Mine, Rayashki"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Kikituk",
+          "text": "*roars*"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Avgust",
+          "text": "Ears!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A gunshot sounds, and a Kikituk swiftly scurries away."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Kikituk",
+          "text": "*roars*"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Avgust",
+          "text": "Whiskers!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The boy is a conductor of a symphony of arms."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Gunfire and the noise of battle follow in the wake of the little sunflower's hands."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Resident I",
+          "text": "It's only been a few months. Can't believe the monsters have already occupied the whole place."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Resident II",
+          "text": "Well, not a problem as long as we got our mischievous little comrade. He always knows exactly where they will come out."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Resident I",
+          "text": "Things wouldn't have gone nearly as smoothly without him."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Resident II",
+          "text": "I would never have believed he could do this if Comrade Windsong hadn't endorsed him."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Resident I",
+          "text": "\"Never underestimate any of our comrades, big or small.\" Do I need to repeat that again?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Of course, Avgust is securely guarded, despite his dangerous mission."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Windsong",
+          "text": "Well done, Avgust. You protected everyone."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Avgust",
+          "text": "Protected?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Avgust",
+          "text": "But I was just teaching our monster friends how to dance right. They are slow learners."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Windsong",
+          "text": "Yes, that's what we want you to do."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She struggles to match her words to her little friend's own imaginative interpretations."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Windsong",
+          "text": "A performance with the Kikituks."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Windsong",
+          "text": "Your job is to tell which critter, emm, I mean, which friend, is dancing wrong."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Windsong",
+          "text": "That's your talent, isn't it? Just like you showed us before!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Avgust",
+          "text": "Oh!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Avgust",
+          "text": "But, what if they dance right?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Windsong",
+          "text": "Mmm."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Avgust",
+          "text": "Then, they deserve some Alenka chocolate, don't they?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Indeed, for all those scattered, many more come slinking in behind them."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "They shadow every move, intent on repelling their intruders."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Avgust",
+          "text": "Comrade Sergiyan, our new friend is right beside your boots. I think he is hoping to kiss them. Will you dance with him?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Other Resident",
+          "text": "What?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Windsong",
+          "text": "Watch out!"
+        }
+      ]
+    },
+    {
+      "script_id": "200823",
+      "internal_title": "【1.8】再见，来亚什基-14.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "*zap*"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Other Resident",
+          "text": "Ah!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Evgeni",
+          "text": "Back off!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Evgeni surges forward, white light piercing the last Kikituk's nostrils."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Kikituk",
+          "text": "...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Evgeni pushes the carcass aside, allowing blood to drip onto the snow."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He fixes intently on Windsong."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Evgeni",
+          "text": "There are many more critters than we can deal with here."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Evgeni",
+          "text": "Many of us are injured. We must retreat."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Faint moans rise from a stretcher, bandages and bloodstains accumulating in a small mound on the snow."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Knut",
+          "text": "We made the decision to come here together, Comrade Evgeni."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Knut",
+          "text": "We are so close to the depths. We must not give up now!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Other Resident",
+          "text": "Hiss, ah! I know everyone's wounded, but look how far we've gone. It's been worth it, don't you think?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Windsong",
+          "text": "This is all my fault. I'm sorry."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Knut",
+          "text": "Don't be, Comrade Windsong. You've given us a workable plan and helped us recognize our little comrade's potential, no?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He ruffles Avgust's head."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Evgeni",
+          "text": "He's only a child."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Knut",
+          "text": "He's one of us, Comrade Evgeni. I will keep him safe."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Knut",
+          "text": "We aren't just digging a mine now."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Knut",
+          "text": "If we manage to find this resource, no one will have to leave, and we can continue to live together, right?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Evgeni",
+          "text": "Hmph!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Scattered applause burst up like firecrackers, until it becomes a thundering display."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Rifles, refurbished and polished, rise in harmony with pickaxes and tools."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Knut",
+          "text": "These wounds are nothing compared to the glory of our future."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Evgeni",
+          "text": "Again, I think this is a foolish idea."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He says nothing else, then turns to leave without looking back."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Windsong",
+          "text": "...!"
+        },
+        {
+          "kind": "title_card",
+          "text": "8#1"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

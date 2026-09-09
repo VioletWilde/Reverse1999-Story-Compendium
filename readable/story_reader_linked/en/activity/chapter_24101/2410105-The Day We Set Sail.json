@@ -1,0 +1,831 @@
+{
+  "episode_id": 2410105,
+  "chapter_id": 24101,
+  "chapter_title": "Last Evenings on Earth",
+  "display_label": "",
+  "title": "The Day We Set Sail",
+  "subtitle": "When all flows converge at sea.",
+  "trails": [
+    {
+      "element_id": 2410105,
+      "owner_episode_id": 2410105,
+      "trigger_episode_id": null,
+      "title": "Closing Ceremony",
+      "description": "All games must come to an end.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=2410105",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Hey, you! Yes, you, my hurried child, you rush through the street like a cyclone ... Where are you going?"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "I can't be late for the show!",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "A show, a show! So you came to Vienna for the love of stories. That's for sure."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Then this is just the right place for you. A place where the floors are decorated with gold, where music sings along with the stories ... Even a newcomer could be entranced here."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Oh, listen to me! You must not be a newcomer, but a true connoisseur! Well, before you leave, may I ask a simple question?"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Which act in a show do you prefer?"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "Act One.",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Oh! Well begun is half done! You're always right to the point. We should know how a story starts and when we have stepped onto the path of fate."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "Act Three.",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Haha! The rising action! The most thrilling part, like biting into the filling of an apple strudel—you're about to have the sweetest part!"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "Act Five.",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Yes, of course! The resolution, coming to its fated ending. We stand up and cheer, or stay in our seats and weep ... Our reward for not falling asleep during the intermission, worth every krone you've paid."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "Every part of it.",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Haha, so greedy. It's a tough choice, isn't it? But you can't escape from making decisions."
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Do you know which act I love the most? Not Act One, nor Three or Five ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "But Six. Oh! Act Six, my dear, that's the best part."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "The part in which the king picks up his fallen head; the knight pulls out the sword in his chest; the bodies stand up, dust their clothes and come to the front of the stage, bow to the audience and receive their applause ..."
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "That's not really a part of the performance ...",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Yes, it is! My child, that is precisely when the real show begins."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "I have a good script here. Let me put on my glasses ... Hmm ... Let's start from ... from Act Six."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "The princess, a nightingale decorated with diamonds, an opera singer taking center stage, steps into a building of gray-and-white diamond patterns."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "\"And the curtain falls forever. The smile on her face seems too serene. She is still dreaming.\""
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "\"Her madness keeps them all alert. But in the court, she seems so meek and mentally steady, like a docked boat on calm waters.\""
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "\"Nodding elegantly to every gentleman she meets, she makes the shackle on her neck look like a piece of dazzling jewelry.\""
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Next page ... oh."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "What happened?",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "\"In a transparent room, under an unyielding limelight, her dignity is stomped on, like a silk handkerchief thrown on the ground. They smash her crown, forcing her to pay for her madness.\""
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "Is she mad?",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "No ... not anymore."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "\"'Sleep, she said to me, sleep. If that's what she said, then I don't need to wake up.'\""
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "\"That's when the star falls into an ever-lasting dream. The blinding light becoming a spotlight on the stage; the empty room carrying the best reverberations. She has never been so calm. Everything beautiful in her is there forever, frozen in time.\""
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "I guess she went completely insane.",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Or found eternal peace."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "\"Her world has become the performance. A show that never ends.\""
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "I'll say she's a great actress, isn't she?"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "But this is not a good story. I think it needs more context.",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Hahaha, my dear. You are indeed a great connoisseur."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Only one act of a play can't tell a good story by itself."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Oh, forgive my ramblings. The golden curtain has risen."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Fix your collar, darling, and keep moving forward."
+            }
+          ]
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 2410106,
+      "owner_episode_id": 2410105,
+      "trigger_episode_id": null,
+      "title": "Identity Crisis",
+      "description": "Regulus won first place in a rock pirate impersonation contest, now that's natural talent!",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=2410105 and ChapterMapElement=2410105",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Now, we've learned some manners in Apeiron, haven't we? Namely, to abstain from beans, never parcel off a loaf, and stay away from the white roosters on the road."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "It's been so long since we last talked about these things. How time does fly! This rusty brain of mine is struggling to keep up ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "We should have waited until dawn to light the candles. The sun would have mistaken the day for night and delayed its appearance in the morning. That way, we would have had more time to talk."
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "I don't think that's possible.",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Indeed. You possess a far greater understanding of the laws of nature than your ancestors. It's only natural that you wouldn't relate candlelight to sunrise. But, for the people of earlier times, there was a commonly understood connection between the two."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Did the trees not bear fruit after the Horn of Plenty was filled at the harvest festival? Did the field not wave with grain?"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Does the lighting of a match not illuminate the moon?"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "It's human nature to try to understand the world. Of course, at that time mistakes were made, and some phenomena were attributed to the wrong causes; some theories were developed from false facts."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "It was a time of symbols, you see."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "Such as?",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "The flower represented blessings and harvest, the ouroboros the eternal cycle, the hawk wit and astuteness, and the soil safety and protection."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Aside from nature, the circle symbolized protection, the triangle stability, and the triple helix ascendance, change, and the unity of mind, body, and soul."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "As time went on, things became associated with one another, and more and more symbols were created."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "It's not a very methodological approach.",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "You can see the cause and effect with your own eyes, dear. It's clear when something is related and when it isn't. If the outcome isn't what we expect, these symbols must be incorrect."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "But it's not their physical form that's wrong. Physical objects never lie. It's the meaning and concept given to them that are wrong, you see."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Objects are just objects. A match is just a match, not the illuminator of the moon. An animal is just an animal; the circle and triangle are only shapes ..."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "... and \"you\" are just \"you\"."
+            }
+          ]
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "202408",
+      "internal_title": "【2.4】地球上最后的夜晚05",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "Constantine",
+          "text": "Good afternoon, Mr. President."
+        },
+        {
+          "kind": "title_card",
+          "text": "Foundation Admin. Office"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Constantine",
+          "text": "May the peace be with us."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "President",
+          "text": "May the peace be with us, my friend."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Constantine gives a slight nod as she peers into the shadows."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Constantine",
+          "text": "Zeno has been restored to its usual state. Aside from Igor's ardent supporters, the rest of the Zeno soldiers and officers were unaware of his betrayal—just as we expected."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Constantine",
+          "text": "\"Admiral Igor's funeral\" has been held as planned—one that befits his rank and status. All relevant personnel remained in South America for the ceremony, as per Zeno's funeral regulations."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Constantine",
+          "text": "We're in the process of selecting a new admiral. I'll provide you with the candidate list shortly."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Constantine",
+          "text": "Additionally, we've dispatched an investigative team to Tierra del Fuego to search for Igor."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "President",
+          "text": "Very well."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "President",
+          "text": "What about the girl?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She pauses."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Constantine",
+          "text": "The girl? Are you referring to Lopera?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Constantine",
+          "text": "Her emotions have stabilized, so we've decided to leave her in South America for the moment. Of course, she'll be put through the necessary investigations as circumstances dictate."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "President",
+          "text": "Keep a close eye on her."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "President",
+          "text": "Oh, and that little singing bird?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Constantine",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Constantine takes a step closer, lowering her voice."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Constantine",
+          "text": "Zeno is quite upset about our decision regarding Ms. Kimberly. They're insisting she undergoes a more thorough investigation."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Constantine",
+          "text": "I feared that if we gave too much pushback, they would take a more extreme stance in response. So I agreed."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "President",
+          "text": "*sigh* Those soldiers never budge."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Constantine",
+          "text": "Of course, Zeno agreed that the investigation would be done under the supervision of the Foundation."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Constantine",
+          "text": "If nothing else comes up, she will be put into the Timekeeper's team and granted the same rights as the other members."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "President",
+          "text": "Good. Don't keep Vertin waiting too long."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The Zeno piece has landed safely. Constantine gives an internal sigh of relief."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Constantine",
+          "text": "There's more. Madam Z has received word from the Timekeeper."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Constantine",
+          "text": "The Timekeeper suspects Manus Vindictae is active again in Sydney Harbor. They're likely onboard a cruise ship named \"Free Breeze.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Constantine",
+          "text": "This would explain why our field investigators have been having difficulties with their tasks. Manus has covered their tracks carefully this time."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "President",
+          "text": "Where's the cruise bound for?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Constantine",
+          "text": "That's still unclear, sir. However, Moth just reported in, confirming that the ship has passed the Oceania islands."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "President",
+          "text": "Hmm. An interesting development."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Constantine",
+          "text": "Indeed."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Constantine's tone carries an imperceptible trace of pride."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "President",
+          "text": "We're making excellent progress. That's good."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "President",
+          "text": "Assign a new mission to Vertin."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Constantine",
+          "text": "You mean, to send them on that cruise?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "President",
+          "text": "We can't keep her under our wing forever."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Constantine",
+          "text": "Understood."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The conference room falls silent once more."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Amid the layered marble pillars, a flash of white flits past the window."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A white dove lands on the President's hand and gently pecks at his palm."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "President",
+          "text": "What brings you all the way over here, old friend?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He lowers his head, allowing the bird to nuzzle his fingertips."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "President",
+          "text": "Oh ... Mm ... Mm."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "President",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The white dove takes wing, flitting away once more."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "President",
+          "text": "So, Laplace has requested the Foundation's assistance with the \"Artificial Storm\" project?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Constantine",
+          "text": "Yes. Ulrich is overseeing the project and has requested as much asymmetrical nuclide R as we can spare."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Constantine",
+          "text": "He's also requested our help in determining the most suitable location for the experiment."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Constantine",
+          "text": "I have several in mind that should meet his needs."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Constantine involuntarily pauses for a moment."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Constantine",
+          "text": "The location closest to Laplace's Australian branch is on the sea, right where the \"Free Breeze\" cruise ship happens to be."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "President",
+          "text": "I see where you're going."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Constantine",
+          "text": "However, I do have concerns about how this might disrupt our current plans against Manus Vindictae."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "President",
+          "text": "Regardless, Laplace will have our full support for the \"Artificial Storm\" project."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Unexpected determination."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Constantine",
+          "text": "But Moth's status still remains unclear. If we proceed too hastily ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Constantine",
+          "text": "We might jeopardize the situation."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her fleeting hesitation catches the President's attention."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "President",
+          "text": "I thought you'd have foreseen something like this."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "President",
+          "text": "A few pieces must be sacrificed if you're to win the game."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "President",
+          "text": "You know that better than anyone, don't you?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Constantine",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Constantine",
+          "text": "Is this also the Pax House's decision?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "President",
+          "text": "You have my word on it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Constantine",
+          "text": "I see."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Constantine",
+          "text": "I'll inform the Timekeeper and Ulrich of their missions."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "President",
+          "text": "Thank you. I look forward to their meeting."
+        },
+        {
+          "kind": "title_card",
+          "text": "\"Storm\" Research Group"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ulrich",
+          "text": "We meet again, Timekeeper."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Pleasure's mine, Mr. Ulrich. I've heard good things about your work with Regulus."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ulrich",
+          "text": "Frankly, I was surprised by how selfless, passionate, and forward-looking she is. I'm truly grateful to have someone like her on my team."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The ferrofluid is remarkably stable."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Clearly, this is a sincere statement."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "The situation on the \"Free Breeze\" is still unclear. We don't know how many Manus Vindictae followers might be on board."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Our plan is to board the cruise as ordinary passengers."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Regulus said she's made acquaintance with a crew member and has made sure to alter our profiles so we don't attract any unwanted attention."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ulrich",
+          "text": "That's good to hear. So Regulus didn't use her money for her own amusement after all."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "After muttering to himself, Ulrich returns to the task at hand."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ulrich",
+          "text": "We should stagger our boarding times."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ulrich",
+          "text": "I'll reach out if I spot any signs of Manus Vindictae."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ulrich",
+          "text": "Let's stay in touch. See you on board!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Ulrich gives her a reassuring pat on the shoulder."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Mr. Ulrich, we're more than happy to assist with your mission."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ulrich",
+          "text": "Oh, no, no, no! Please, don't trouble yourself."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ulrich",
+          "text": "Sorry, don't get me wrong. I'd appreciate your help were the circumstances different."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ulrich",
+          "text": "But the experiment is still confidential. Please don't mention it to anyone. I'd like to avoid any unnecessary risks or interference."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ulrich",
+          "text": "On the cruise ship, we are but strangers."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "I see."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ulrich",
+          "text": "Don't you worry. I have a little disguise for myself, too."
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

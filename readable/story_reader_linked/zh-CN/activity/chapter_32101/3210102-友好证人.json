@@ -1,0 +1,563 @@
+{
+  "episode_id": 3210102,
+  "chapter_id": 32101,
+  "chapter_title": "迁流的盛宴",
+  "display_label": "",
+  "title": "友好证人",
+  "subtitle": "与混乱撇清关系，有时适得其反。",
+  "trails": [
+    {
+      "element_id": 3210302,
+      "owner_episode_id": 3210102,
+      "trigger_episode_id": null,
+      "title": "面具之下",
+      "description": "",
+      "action": "类型3202",
+      "unlock_condition": "EpisodeFinish=3210102",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一场化妆舞会正在蒙马特街区举行，它甚至没有一个确切的主题，但你必须戴上面具才被允许参加。于是你拿起了："
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "打磨光滑，微笑得体的银质面具",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "每个人都需要得体。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "风格粗野，雕以图腾纹样的木质面具",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "面具也可以很“自然”。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "做工精致，饰以多彩羽毛的珐琅面具",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "美的落点永远是吸引。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "依照你的面容绘制的，栩栩如生的纸面具",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "暂且假装你还是你。"
+            }
+          ]
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 3210502,
+      "owner_episode_id": 3210102,
+      "trigger_episode_id": null,
+      "title": "面具之下",
+      "description": "",
+      "action": "类型3204",
+      "unlock_condition": "ChapterMapElement=3210302",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一场化妆舞会正在蒙马特街区举行，它甚至没有一个确切的主题，但你必须戴上面具才被允许参加。于是你拿起了："
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "打磨光滑，微笑得体的银质面具",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "每个人都需要得体。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "风格粗野，雕以图腾纹样的木质面具",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "面具也可以很“自然”。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "做工精致，饰以多彩羽毛的珐琅面具",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "美的落点永远是吸引。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "依照你的面容绘制的，栩栩如生的纸面具",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "暂且假装你还是你。"
+            }
+          ]
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "203202",
+      "internal_title": "【3.2】迁流的盛宴02",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "警员",
+          "text": "各位女士各位先生，请大家跟着那位警员到外面登记信息，不要停留在这里。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "占卜沙龙的众人像围栏中的绵羊一样陆续走出，议论声却仍不绝于耳。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "参会者Ⅰ",
+          "text": "真是太可怕了，她临死前的样子……我今晚一定会做噩梦……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "参会者Ⅱ",
+          "text": "我早和你说不该来！什么占卜……做这种事是会招来厄运的！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "参会者Ⅲ",
+          "text": "会不会是突发的疾病？比如癔症……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "参会者Ⅰ",
+          "text": "噢，我知道那个，法比奥和弗朗格前几天还提到过！他们的邻居自称自己是黎塞留的轻骑兵，骑着扫帚从窗户跳了出去，现在还在医院里。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "参会者Ⅱ",
+          "text": "或者——你们忘了她说过的话？也许这些真的都是因为……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "参会者Ⅰ",
+          "text": "——“热沃当的野兽”？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "恐惧和一丝隐秘的兴奋爬上每位来客的脸，那个百年前的传说再一次投下骇人的阴影。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "警员",
+          "text": "女士们，先生们！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "警员",
+          "text": "巴黎警方一定会优先侦办此案，请各位不要传播流言，不要散播恐慌！我们会保护市民的安全！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "人们停止了谈论，但从他们的表情来看，恐怕不能指望这番话起到多大的作用。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "填满房间的众人散去，只留下了几位关键的“证人”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "这事可不要算在我头上，我根本没有碰到过她！\n费利西安，你要为我作证……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "费利西安？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "阿黛拉回过头，发现自己的雇主正专注地绕着地上的尸体漫步，眼中闪动着兴味盎然的光彩。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "费利西安",
+          "text": "没想到还有这样精彩的余兴节目……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "嘿，别离得太近！你这样搞不好会破坏现场的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她不免再次为雇主的随心所欲头疼，所幸一旁的警员并没有关注到这边。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "警员",
+          "text": "唉，又来了，“热沃当的野兽”……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "……又？为什么这么说，本杰明警官？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "阿黛拉疑惑地看向熟识的警员。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "警员",
+          "text": "一个不知道从哪儿出现的流言，根本是无中生有，却传遍了全巴黎！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "警员",
+          "text": "总有人报警说碰到了什么“热沃当的野兽”，我们过去一看，连一颗面包渣都没有！不知道他们的脑子出了什么问题！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "警员",
+          "text": "街上乱了起来，不少混球也开始不安分，上次喊你帮忙鉴定证物的那个案子也是这样……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他捂着额角叹出一口气。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "警员",
+          "text": "本来最近就忙！将近半个城的工人都在搞罢工，在工厂里大办舞会……警察的工作已经够多了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "警员",
+          "text": "有时候我真羡慕你，阿黛拉。每天开开出租车，陪外地人四处转转就行了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "哈哈……还行吧，大家都有自己的烦恼嘛。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "阿黛拉向费利西安的方向瞥了一眼——她似乎已经对那具死尸失去了兴趣，正若有所思地盯着角落的一张空椅子。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "警员",
+          "text": "哈，就知道你会这么说。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "警员摸出了本子与笔。待他再抬起头时，脸上那份面对熟人时的亲昵态度已经收起了大半。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "警员",
+          "text": "好了，那我们开始吧。有几个问题需要你配合回答一下。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "警员",
+          "text": "虽然咱们也是老朋友了，但公事公办，毕竟你是当时离她最近的人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "当然，我明白，警官。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "证物已经被尽数撤走，法医正在查看地上的遗体，占卜师的死状狰狞可怖。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "警员",
+          "text": "口唇发绀，瞳孔放大，手指紧缩，脊柱强直……虽然只是初步鉴定，但这一切都符合惊吓过度致死的表现。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "惊吓过度致死？这……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "警员",
+          "text": "现场当时有没有发生什么特殊的事？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "她正在为我占卜。从中途起她的举动就很奇怪，突然死死盯住我，说了一长串听不明白的话。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "丢下那堆“预言”之后，她提到了“野兽”，接着就倒在地上……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "警员",
+          "text": "照这么说，她通过占卜，从你身上看到了“热沃当的野兽”，然后……就吓死了？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "我知道你不信，但看起来确实是这样。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "二人面面相觑了片刻。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "警员拿笔的手迟迟未动——显然他也在评估这番疯话的实际价值。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "最后，他合上了本子，露出了相当无奈的表情。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "警员",
+          "text": "好了，感谢你，阿黛拉。看来我们得考虑把它和城中沸沸扬扬的传言合并调查了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "警员",
+          "text": "说到底，“热沃当的野兽”已经是一百多年前的传说了，怎么会现在又莫名其妙地流行起来？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "警员",
+          "text": "我看这里面有不少问题。现在不止巴黎，全法国都让这些事弄得无法安宁，而混乱总是和谣言相伴而生。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "是，很多人都想借着这个传说做点什么。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "比如这位留下“预言”的占卜师，不知道从哪儿听说了我家的事，趁机拿毫不相干的东西糊弄我。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "警员",
+          "text": "那个说你们一家人都会为了寻宝而遭遇不测的诅咒？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "警员",
+          "text": "只要肯稍微花点工夫打听塔沃尼尔家，这的确也不是什么秘密。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "没错，我不打算太相信她的话。说到底，“诅咒”的说法无非是来自我那几个最为人所知的祖辈。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "比如我那位曾曾曾曾曾曾祖父，从印度带回了著名的“法兰西之蓝”，结果不久就死于非命。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "又比如我那个曾祖父，为了寻找大革命期间流失到国外的珍宝，因为一场风暴死在了海上……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "说是真有某种神秘的力量也好，说是巧合也成。没必要放在心上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "警员",
+          "text": "也对……我记得你说过，你父母也是宝石猎人。那他们还好吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "还在国外满世界跑呢，我们三个很久没见面了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "不过偶尔会有些信寄回家里，看样子他们应该过得不错。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "警员如释重负地呼出一口气。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "警员",
+          "text": "那就好！寻找宝石，周游世界……听着真是不错！肯定比像我这样整天窝在同一个地方，几十年如一日地过日子要有意思多了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "警员",
+          "text": "你呢？你打算什么时候追随父母的脚步，也做个宝石猎人？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "他们是他们，我对那些闪闪发光的东西可没那么大兴趣。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "我只想过普普通通的日子，赚的钱够花就行，重要的是要舒服、自在。\n最好工作不要太忙，每天能睡到自然醒，也不需要费太多脑筋……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "当时我和朋友随便在招聘册上翻了一页，第一个出现的词就是“出租车司机”。不得不说，它挺合我心意。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "警员",
+          "text": "哈哈！的确是你的风格。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "警员点了点头，将拿在手里的笔记本收回口袋。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "警员",
+          "text": "行了，情况我都大致明白了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "警员",
+          "text": "不用太担心，你没有动机，也没有手段……目前这事看起来和你没什么关系。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "警员",
+          "text": "如果之后还需要你进一步配合调查，我们会联系你。\n还有什么要补充的吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "多谢，本杰明警官。我没有什么要补充的了——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "不对！等一下……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "还有一件事，不确定帮不帮得上你——我看到过一个可疑的女人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "事情发生得很突然，几乎所有人都被吓住了。只有她还无动于衷地坐在座位上……甚至在笑。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "警员",
+          "text": "嗯？你还记得那个人的特征吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "阿黛拉快速描述了记忆中的画面。在听完后，原本如临大敌的警员却放松了神情。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "警员",
+          "text": "哦！你提到的应该是贝丽尔·布翁尼女士，和平街一家水晶工房的主人，一位占卜师。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "警员",
+          "text": "她是这起案子的报案人，我们已经和她聊过了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "她是……报案人？"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

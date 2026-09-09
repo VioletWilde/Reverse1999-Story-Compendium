@@ -1,0 +1,488 @@
+{
+  "episode_id": 10207,
+  "chapter_id": 102,
+  "chapter_title": "Tender is the Night",
+  "display_label": "",
+  "title": "The Good News",
+  "subtitle": "This is an opportunity for the intrepid! An epic adventure and an unprecedented gamble!",
+  "trails": [
+    {
+      "element_id": 1020701,
+      "owner_episode_id": 10207,
+      "trigger_episode_id": null,
+      "title": "Trail ① To Cavendish Jr.",
+      "description": "Farewell",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=10207",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "What an intriguing plot. Cavendish Sr. must be surprised."
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "I am surprised, too.",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Did you see it too? Did you see that woman's face eroded in the dark? The ecstasy on Cavendish Jr.'s face when he turned away from the others?"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "He was once very sensitive and very talented. He was a real f*****g genius when he made potions! But now ... He has been swallowed and digested, and yet he knew nothing about it."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "Cavendish?",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Oh, it's a surname buried in dust. It has been shot dead in history. Even Cavendish Jr., who was still alive and once sat in front of you, has taken off his family crown."
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "\"Forget Me Not,\" what a hilarious, stupid name. That young master with a pale face died, and in his place, something sinister took shape. He battled hunger and suicide countless times, but in the end, he sank into decadence."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "That woman gave him a promise. She said a few words to Forget Me Not, and then traveled north, and disappeared in the fog. The Windy City was an unwanted sarcoma which she left behind."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Only when the gun was pointed at his throat could he see clearly what had been on his mind. Therefore, he allows himself to revenge, revenge, re-re-re-revenge, and to die."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Now, the sarcoma belongs to him. He swears to build a magnificent stage there. He is patiently waiting ... to put his meanness, craziness, and quivers under the sun."
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100212",
+      "internal_title": "第二章2-7",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "The Good News"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis Ⅲ",
+          "text": "It's a nice view here."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Forget Me Not",
+          "text": "Indeed. Where your woods can just be seen."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis Ⅲ",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis Ⅲ",
+          "text": "Are you here to ask about my decision?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Forget Me Not",
+          "text": "We have negotiated with the local government. They are very interested in your woods."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Forget Me Not",
+          "text": "Because of the \"Storm\", the medical supplies cannot meet the needs of the surging number of patients."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Forget Me Not",
+          "text": "They need places to house the patients and refugees."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Forget Me Not",
+          "text": "Your woods ... are the best choice, for its abundant space and adaptability to cast the healing rituals."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Forget Me Not",
+          "text": "So, have you made up your mind, Miss Druvis?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Forget Me Not",
+          "text": "You are always welcome to join us Manus."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis Ⅲ",
+          "text": "If I join you, will you reject the government because of me?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Forget Me Not",
+          "text": "We have a better plan."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Forget Me Not",
+          "text": "In the woods, they are going to build the only major relief shelter in the city. Arcanum will be used as the main treatment here, which means …"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Forget Me Not",
+          "text": "Food."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Forget Me Not",
+          "text": "Resource."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Forget Me Not",
+          "text": "Money."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Forget Me Not",
+          "text": "And everything necessary to build Manus Vindictae."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Forget Me Not",
+          "text": "We've reached a consensus. Nobody can offer a better assistance in the field of arcanum than us."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis Ⅲ",
+          "text": "... What about those refugees?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Forget Me Not",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Forget Me Not",
+          "text": "Only those who are sifted out by the \"Storm\" will become refugees."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Forget Me Not",
+          "text": "You will not. You have my word."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Forget Me Not",
+          "text": "We hope that on the \"Relief Day\",  you'll show up as the owner of the woods, and offer your help."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis Ⅲ",
+          "text": "I am no longer the owner of the woods ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Forget Me Not",
+          "text": "For as long as you need, I will transfer the ownership to you at anytime. Not to mention that the one and only owner of the woods is you, from the beginning to the end."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis Ⅲ",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Forget Me Not",
+          "text": "I know how you feel. What you once had ... is what I should have."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Forget Me Not",
+          "text": "I will look after the woods for you, till the moment we start the \"Relief Day\" plan."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis Ⅲ",
+          "text": "Thank you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis Ⅲ",
+          "text": "Forget Me Not has been away for a long time."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis Ⅲ",
+          "text": "She looks out of the window."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis Ⅲ",
+          "text": "Those trees ... shall sprout?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis Ⅲ",
+          "text": "For tomorrow ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "5 HOURS AGO"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Endless vines."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Restless slimes."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The enemies are approaching."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "And there is no way out."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Schneider",
+          "text": "F**k! Not enough bullets. Cover me, my lord!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Your wound hasn't healed. Can't get hurt anymore. Stay behind me!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "This is a cage. She wants to catch us! The exit at two is our last chance! Breakthrough!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Schneider",
+          "text": "No, my lord ... it's too late ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Uggh ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "It hurts ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "The slime on the thorns will make your body stiff. Be careful!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Schneider",
+          "text": "All retreats are blocked. We are caught."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "... No. We can't be trapped here. Let me try again!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis Ⅲ",
+          "text": "Give it up."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Flamo Flicker!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Ugh!! ... It bounced back ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "How? How is the thorn cage so tough?!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis Ⅲ",
+          "text": "It's over."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Aferoj Away!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Umm ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Damn it! Why!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Schneider",
+          "text": "You are not pure blood, right? ... My lord."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "... I'm not sure."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Schneider",
+          "text": "Heh heh, you are like me—crappy guys not good at arcanum."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Schneider",
+          "text": "Don't you see it? The pure-blood arcanists and we ... are worlds apart."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Schneider",
+          "text": "We can't beat Druvis. You know it. When you push out the old woman in white, you should have figured it out."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Schneider",
+          "text": "No matter how we struggle, it makes no difference. We will be sent to Arcana."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "... There must be a way. It just takes time."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Schneider",
+          "text": "You are braver than most people I've ever met, my lord. But it's not enough."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Schneider",
+          "text": "Far from enough ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Schneider",
+          "text": "When it's time, please kill me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "What are you talking about?!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Schneider",
+          "text": "Left of my chest."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Schneider",
+          "text": "The Manus will not let us go. Killing each other ... has always been their favourite."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Schneider",
+          "text": "You are much more important than me, my lord. Cherish your value."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "... I don't understand ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Schneider",
+          "text": "Remember. Left of my chest. Do it quick."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "It's too risky, and ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Schneider",
+          "text": "If you want to survive ... we have no choice. Trust me, my lord. I cherish my life more than anyone ... ahem ahem ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "But what you said ... She ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "She heard it all."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis Ⅲ",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Schneider",
+          "text": "Heh, heh, you are right, my lord."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Schneider",
+          "text": "Our destiny ... is her choice."
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

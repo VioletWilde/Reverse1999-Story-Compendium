@@ -1,0 +1,801 @@
+{
+  "episode_id": 2510121,
+  "chapter_id": 25101,
+  "chapter_title": "Showdown in Chinatown",
+  "display_label": "",
+  "title": "Rescreen",
+  "subtitle": "But you'll always love the story, for it remains there, unchanged.",
+  "trails": [
+    {
+      "element_id": 2510117,
+      "owner_episode_id": 2510121,
+      "trigger_episode_id": null,
+      "title": "After the Show",
+      "description": "Exclusive Interviews with cast members!",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=2510121",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "This place was once known for its inexhaustible mines, the riches of its rainforests, and its brave and passionate people. But now, the first two are gone."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Chaos and power struggles loom over the younger generation, while the rich and well-connected sit atop their piles of corpses and rubble and feast. Dining off golden plates with silver spoons, turning their noses up from the dogs at their feet."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "But that gold has lost its shine and their silver spoons have tarnished, everyone can see them for what they really are. So, what now? Either the people save themselves or turn their fate over to the hands of the so-called \"savior.\" What would you do, if it were you?"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "I'd save myself first.",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "That's a smart choice. Now that the carnival's over, people have to deal with more than just their hangovers—they must figure out how to save their own skins."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Most though will just run around like chickens with their heads cut off, begging for their pain to be taken away. But all they'll get is another morphine shot—nothing close to a real solution."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Fear spreads like a disease. Until an entire generation is out on the streets, hoping to find anything that will lift them out of their misery."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Who's asking the questions here, me or you? But fine, I'll clue you in a little about this \"savior\"."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "I once met a kid from Buenos Aires who told me about the \"hand of god\" that gave them the World Cup. He saw it as proof there was a higher power, something men should follow and seek protection from."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Maybe he had a point, I don't know. Maybe there's truly something greater out there, or maybe it's just what we mortals need to believe."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "These men from the Apostles Brotherhood used to be regular church-goers just like anybody else. But faced with an opportunity to rise above their own cruel realities, they all too readily turned away."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "They left their old altars and took communion with a new god. Will this new path save them? Is it worth all their efforts? I can't say."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "But you wanted to know if this 'savior' can save its own. Well, I guess you've got your answer now."
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "Are we going to be alright?",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "No need to start panicking just yet. Things are still under control. Your lady friend has stepped up to solve this mess, and the veteran knows what he's doing."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "This city is unlike any you've seen before. You must learn its secrets to survive—remember which street kids are from which alley and what intel they can be relied on for, learn the dates when the dealers bring their \"medicine\" into port, and figure out which water tanks hide the key to the local gang's safehouse."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "Don't look at me for answers. It's none of my business."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "So, why can't this \"savior\" save me?",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "202534",
+      "internal_title": "【2.5】唐人街影话21",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The storm clouds gradually disperse, and sunlight streams into the ward. In the corner, the television broadcasts a news report."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Reporter",
+          "text": "Last night, the Chinatown Shèhuǒ Parade drew hundreds as tourists and locals gathered for the Eastern spectacle."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Reporter",
+          "text": "These photos, shared by an enthusiastic tourist, show the enormous holographic images that were created on-site using arcane skills to present a stunning performance of the Chinese folk tale, Qiángliáng's Exorcism."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Reporter",
+          "text": "The event has been deemed a well-organized success, with many promising to attend again next year. Locals have expressed their thanks."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Reporter",
+          "text": "One spokesperson said, \"It's been wonderful to share our culture with people from all around the world. Chinatown is always ready to welcome new friends from both near and far.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Reporter",
+          "text": "In other news, the arcane vigilante Nightpiercer, who has perpetrated dozens of attacks across the city, has been apprehended by the DAA."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Reporter",
+          "text": "Nightpiercer was revealed to be Qí Xīng, a former Hong Kong movie star. Some members of the public have expressed continued support for the vigilante due to the questionable backgrounds of her victims."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Reporter",
+          "text": "Deputy Chief Elden of the Division of Arcane Affairs gave his response:"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Deputy Chief Elden",
+          "text": "Vigilante justice is incredibly dangerous to our society. No individual has the right to bypass the law and enact their judgment on others."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Deputy Chief Elden",
+          "text": "Taking the law into your own hands will only lead to chaos, violence, and potential harm to innocent people."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Deputy Chief Elden",
+          "text": "We urge the citizens of Los Angeles to place their trust in us as we continue to dedicate ourselves to maintaining a safer society for everyone."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Deputy Chief Elden",
+          "text": "If you share our passion for justice, we encourage all citizens to direct their assistance and feedback to the Division of Arcane Affairs."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Reporter",
+          "text": "The LAPD has just announced a plan to add a number of positions for Arcane Affairs Officers in the coming year to address the DAA's staffing shortage."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Reporter",
+          "text": "The St. Pavlov Foundation's Vigiles Bureau training program is also set to begin in the coming months. To apply, please dial—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Hearing this news, the woman hops up joyfully and turns to the man sitting up in bed."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Woman",
+          "text": "Hey, they're hiring Arcane Affairs Officers."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Woman",
+          "text": "Hasn't it always been your dream to don the uniform? Looks like they accept older applicants, too. Why don't you give it a shot when you're better?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enraged Man",
+          "text": "Knock it off! I've been a greengrocer for twenty years. There's no way I could be a cop, right?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He waves off his wife, but as he does so, he turns to the man beside him with a nervous look on his face, expecting the idea to get shot down."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "But the reaction he gets is unexpected."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Private Investigator",
+          "text": "What are you staring at me for? If you wanna do it, just do it. I'm sure the neighborhood would be glad to see you wearing the badge."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Private Investigator",
+          "text": "Besides, I spent some time with the officers at the parade. I'm sure that you'll be just as capable as them. You're gonna have to toughen up a little, though."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Liáng, who has been watching the exchange, smiles."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "Mr. Wong, you're strong, healthy, and have a natural talent for arcane skills. With a little training, I'm sure you'll become an outstanding officer."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "There's a lot that goes into being an officer, but I believe what matters most is the heart to pursue justice and the courage to protect others."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "The doctor said you can be discharged soon. You should seriously consider applying for the position."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enraged Man",
+          "text": "Well, in that case, I'll think about it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Woman",
+          "text": "Thank you so much, young lady. I heard you were the one who got rid of the curse and saved everyone."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Woman",
+          "text": "You're our hero."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She clasps Liáng's hand tightly in a warm grip. This time, her hand is steady. Liáng returns the handshake."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "You're too kind, madam. I was only doing my job."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "And I didn't do it alone. It was a combined effort."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "Well, that's that. No more cursed film crazies. Almost all the victims have recovered."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "Most of them have already been discharged, too. Just a few poor saps who got hit harder still around, but they should be out of here before long."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "Same goes for the victims in the parade. They've all regained their Saam W-Wer—uh—what's it called again?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "An-an gives a helpless sigh."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "An-an Lee",
+          "text": "It's Saam Wan Chat Paak ah, madam. Just call it spiritual energy or something like that."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "An-an Lee",
+          "text": "I heard that those crooks who were taught by a thing or two by Qí Xīng have also recovered, well, mentally lah. They're pretty physically messed up, so they'll have to stay here for a while, I think."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "So many victims and not a single death. That's a blessing."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "Qí Xīng pulled her punches, apparently. I guess deep down she wasn't the \"deliverer of justice\" she claimed she was."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "Well, no use wondering about it. Years on this job'll quickly show you that the madness in arcanist blood always comes out in arcanist criminals."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "Trying to understand them is a waste of time."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "That may be the case, but ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "I think that if we look at each other as individuals, we can come to understand one another eventually."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She takes out the brick-sized mobile phone she has carried with her since she was six years old."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "But now, its screen remains dark. No matter how much Liáng tries to summon the spirit residing within, there is no response."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "If we all try our best."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Holding onto hope, Liáng tries a few different button combinations on the phone. Usually, the screen would light up, but this time, there is nothing."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "Still nothing from Qiángliáng?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Liáng lowers her gaze and shakes her head."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "An-an Lee",
+          "text": "Well, what did you expect? That huge spooky spookster was a nasty opponent on its own, not to mention all the ghosts that were attracted by that film reel."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "An-an Lee",
+          "text": "It was creepy lah. All those ghosts in one place. It was more crowded than the Dai Pai Dong, I mean, the Chinatown food stall on a Saturday night."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "An-an Lee",
+          "text": "What's worse, those specters drained the Saam Wan Chat Paak of innocent people. If that hadn't happened, then Qiángliáng wouldn't have had to sac—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "An-an cuts herself off. It would be too cruel to say these words in front of Liáng."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "Qiángliáng was lost because of my incompetence. I don't know how I'll be able to face my family now."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "And there's something else that's bothering me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "When Qiángliáng pulled in the evil spirits, I thought I was going to die with it, but it looked at me and pushed me aside. It bore everything, all alone."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "Why did it go to such lengths to help me? Because I'm its Zhènzǐ?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "The way it looked at me, I think it wanted to tell me something."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "But I didn't understand what."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "Qiángliáng had been by my side since I was six, but I always saw it as a heavy burden, or a double-edged sword."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "I never saw it as an independent individual or as a friend. I never tried to truly understand it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "And now, I've probably lost the opportunity to ever understand it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Liáng sighs and falls silent. The other two exchange a glance and simultaneously pat her on the shoulders."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "An-an Lee",
+          "text": "Come on, enough with the long face. Maybe Qiángliáng will respond to you one day lah. You never know! And I'm here if you ever need my professional ghostbusting service. Exclusive discount just for you ah."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "Agreed. Isn't it a literal legendary beast that's existed for ages? No way it bit the dust just like that."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "I bet it's recharging in its lair or something. Then it'll come back when it's full of juice again."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "I hope so."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She knows these are just comforting words, but their concern for her gives her the strength to move forward nonetheless."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcane Affairs Officer I",
+          "text": "Oh, Poitier, there you are. And the ghostbusting girl and Liáng. Great!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A familiar figure waves from the end of the hallway as she hurries over. Noticing Liáng's slightly surprised expression, she slows her steps."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcane Affairs Officer I",
+          "text": "Oh, sorry, I mean Officer Liáng. But if you don't mind—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "O-Of course, I don't. Just call me Liáng."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Despite her swift response, Liáng still feels a little surprised when she sees the officer extend her hand toward her."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcane Affairs Officer I",
+          "text": "Oh, where are my manners? Name's Jenny Carter. Just Jenny's fine. Unlike your instructor, I don't try to hide my appreciation of people."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcane Affairs Officer I",
+          "text": "I gotta say, you've done an awesome job. Folks at the department have all been talking about it. We're proud of you. Please tell me there's some way to postpone the end of your field training."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "This is the second hand Liáng has shaken today."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "Th-Thank you. That's very kind. Um. What brings you here?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcane Affairs Officer I",
+          "text": "Deputy Chief Elden, of course. Who else?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcane Affairs Officer I",
+          "text": "Foundation staff have arrived. They're gonna take over Qí Xīng's interrogation and everything. They're gonna take the film reel back to their headquarters, too."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcane Affairs Officer I",
+          "text": "But your request has been approved. We can watch Reunion of the Three Swallows before they take it away."
+        },
+        {
+          "kind": "title_card",
+          "text": "Division of Arcane Affairs, LA"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Deputy Chief Elden",
+          "text": "For crying out loud, the DAA isn't a movie theater. Where'd all these people come from?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Elden scans the group before him."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "My apologies, sir. I invited them."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "This may be the only chance for Teresa's last work to be shown to the public. I want as many people to see it as possible."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "Every filmmaker wants their work to be shown to the world. I appreciate your understanding."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Before Elden can respond, An-an cuts in."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "An-an Lee",
+          "text": "Come on, Ā sir, it's no big deal. Everyone here knows what really happened. We just want to know what the film's about."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Private Investigator",
+          "text": "Yeah, didn't you say something on TV about assistance and feedback? You'd be going back on your word if you ignored us now."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Deputy Chief Elden",
+          "text": "Hey, don't you go talking circles around me again."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Even in this harmonious scene, the two men can't help but bicker."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Poitier rolls her eyes. Luckily, the two are quickly interrupted by a woman in a Foundation uniform."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Foundation Staff",
+          "text": "No need to worry, Deputy Chief Elden."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Foundation Staff",
+          "text": "After thorough examination, we've determined that the film reel no longer possesses the ability to twist reality."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Foundation Staff",
+          "text": "It was our negligence that allowed the film to be taken in the first place, so, as Mr. Zhōu said, the people deserve to know the truth."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Foundation Staff",
+          "text": "Besides, every viewer is required to sign this confidentiality agreement before entering the screening room. Alright, everyone, please hurry. The movie starts in fifteen minutes."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "An-an Lee",
+          "text": "Oh, I'm pumped. No way I'm missing this. Gimme a pen."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "An-an heads over to the desk, and the DAA officers and Chinatown private detectives follow suit."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Liáng and Noire, on the other hand, hang back. They already signed the confidentiality agreement. After all, they are the ones who drafted it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "You have my thanks, vigil."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "If it weren't for you, I doubt Ā Xīng and I would have had this chance to watch our good friend's swan song."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "I also have to thank you for helping me stop Ā Xīng and for helping me keep my promise."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "Your promise?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Noire pats her hands on her thighs."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "Yes, I swore on these two legs."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "In the past, all I cared about was making the best film. I saw everyone, even my actors and writers, as tools to reach that goal. But I was wrong."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "There's no such thing as a best film, only a better film. And to make a better film, I need a team around me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "What matters most is the people who make the film, not the film itself."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She turns her head and looks toward the bolted door at the other end of the room."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "But as long as we're living, there's still a future. Maybe I should hire a good lawyer for Ā Xīng. They can probably secure a shorter sentence."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "When she's free again, both physically and mentally, perhaps we can make a movie together, just like old times."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Liáng is momentarily stunned."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "Are you sure? With all due respect, Ms. Noire, that will probably be a very long time from now."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "So? Even if we're old ladies by then, as long as we can still move, I'm certain we can make movies."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "Speaking of which, you'd make an excellent addition to my crew, Ms. Liáng. Don't hesitate to contact me if you reconsider your career choice."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "You're very generous, Ms. Noire. But I think I'll stick to being a fan for the time being."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "I look forward to seeing what you do next."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "You won't be disappointed."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "By the way, have you seen Ms. Latham lately? I tried to invite her, but she didn't pick up the phone. She must've left it in her room again."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "Actually, I ran into her at the hospital earlier. Ms. Scott just regained consciousness. She wanted to visit her."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Noire's smile fades slightly, and a contemplative expression comes over her."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "Ms. Scott ... Something tells me that there's still an unsolved mystery there."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "You mean a truth hidden behind all these incidents?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "Yes. Like a chessboard, we are the pawns placed on the front line. Somehow, we've managed to fight our way out, escaping our planned doom."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "But who is the player who placed us there? They're still a mystery, watching us from the shadows. I don't like this feeling."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "I'll keep an eye on the matter."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "I already made a detailed report to my superiors. If there's anything else going on, I'm sure the Vigiles will put a stop to it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "I suppose we'll have to wait and see."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Noire's expression does not ease. It seems the title Vigiles Bureau doesn't bring her much confidence. Before Liáng can inquire further, Poitier calls her."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "Hey, you two, get your asses in the screening room. We're all waiting for you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "On our way."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "Nothing's more important than a movie that's about to start. Let's go, vigil."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "They exchange a smile and enter the makeshift theater together."
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

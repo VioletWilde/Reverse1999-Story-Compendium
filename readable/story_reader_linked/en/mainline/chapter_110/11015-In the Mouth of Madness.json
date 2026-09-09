@@ -1,0 +1,686 @@
+{
+  "episode_id": 11015,
+  "chapter_id": 110,
+  "chapter_title": "Paradise Regained",
+  "display_label": "",
+  "title": "In the Mouth of Madness",
+  "subtitle": "The mad often speak the truth.",
+  "trails": [
+    {
+      "element_id": 101015,
+      "owner_episode_id": 11015,
+      "trigger_episode_id": null,
+      "title": "Dark Fairy Tale",
+      "description": "Those childhood bedtime stories reveal more when reread through the eyes of a grownup.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=11015",
+      "content_hints": [
+        "fragment",
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "Tales of the Mother Spirit"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The First Tale\nWhen he arrived in this world, the child received the Mother Spirit's first blessing.\nHe stopped crying as a sunbeam fell on the pillow. Through his tears, he saw Her gifts: golden rays warming his hands, white cloths softly swaddling his body, and fresh air breezing into his lungs. \nA single life is all we are given; thus, the Mother Spirit taught the child to cherish.\n\nThe Third Tale\nThe child gripped a bow, leaving deep footprints in the snow. It was his day to hunt.\nBut this land hadn't seen any trace of birds or squirrels for ages. The long-absent spring was growing fainter with every passing year like a distant myth.\nFinally, the child took down a doe just before sunset. Closing those watery eyes glowing with innocence, his weary hands shakily splitting the flesh, he recognized that this was the Mother Spirit's second blessing.\nStaring at the frozen, fragile branches, the child knew it was time to go south.\n\nThe Seventh Tale\nThe sun fell into the moss-covered plains, its once eternal fire frozen by the ice. Fish drowned in the waters, sinking to the riverbeds where they transmuted into swords.\nCoffins creaked open. Shriveled fingers clawed at passersby, seeking redemption.\nThe child trudged across the land, his blood and cotton wool forming scabs over the surface of his skin. His fingertips, first ravaged by chilblains, were then abraded by hoes and pickaxes. Only his vocal cords remained alive to pray to the Mother Spirit.\nPlease rewrite the laws of this world. Please grant us a new spring.\n\nThe Ninth Tale\nThe lost child received the Mother Spirit's third blessing.\nIn the farthest south, the child passed through the Mother Spirit's body and knocked upon the gate to Her soul. A sense of warmth he hadn't felt for a long time enveloped him, making him Her child once again.\nCradled in the Mother Spirit's arms, he heard the last message.\nMany, many years later, when the earth was again dotted with trees and flowers, the child's children sat around the campfire, begging for tales of the Mother Spirit. \"I embraced Her and She enlightened me. That was a great gift,\" he said, \"Her great gift.\""
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "101019",
+      "internal_title": "第十章10-14",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "In the Mouth of Madness"
+        },
+        {
+          "kind": "title_card",
+          "text": "City Ruins"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Sonetto steps forward, her glasfeder aimed squarely at the Manus Apostle's chest."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Ms. Grace, you're a Manus Apostle."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Don't think we've forgotten what you did aboard the \"Free Breeze.\" What exactly are you scheming now?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Ms. Stranger tilts her head, sensing the arcane energy gathering at the glasfeder's tip out of the corner of her eye."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A cough escapes her and is quickly suppressed, her whole body twitching to contain it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Stranger",
+          "text": "Ah, the \"Free Breeze.\" My lovely little cruise ship. Like you, I often find myself missing those serene days on the water."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Stranger",
+          "text": "But it seems a few unpleasant memories and misinterpreted actions have deeply wounded your trust in me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She leans closer until the glasfeder point presses against her skin."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The Timekeeper steps forward and stands beside Sonetto, allowing her to lower her shaking outstretched hand."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Timekeeper?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "It's fine, Sonetto. I have a few questions I'd like to ask."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Wind lifts the ribbon around Ms. Stranger's neck as glistening powder dissolves into the snow."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "On our way here, we discovered a couple of items that I believe belong to Dr. Dores—a stethoscope and a typewriter."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "It seems they were intentionally left behind, like a series of signposts pointing us here."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "You wouldn't happen to know anything about these items, would you?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Stranger",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "How about the powder we found on the typewriter?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "It's finer than snow and reflects the sunlight differently. It sticks to the skin and is bitter on the tongue."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Stranger",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Any idea how it got there? And how the typewriter ended up lying in the snowfields?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Did you leave it there? Were you giving directions to the Foundation's investigators?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Come to think of it, that powder looked like the scales from a lepidoptera wing—a butterfly, or a moth."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Moth. It's you, isn't it? You're the Foundation's spy!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A moth alights on Ms. Stranger's fingertip, then flutters off with a barely perceptible twitch of her finger."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Stranger",
+          "text": "I could provide you with a detailed account of the Foundation's phototaxis experiments if you need further proof of my identity."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Stranger",
+          "text": "But we're running out of time."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Their astonished stares hold on Ms. Stranger as she turns her face toward the ruins beyond."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Stranger",
+          "text": "I'll lead you to the sanctuary. Dr. Dores—Ms. Urd—is already inside."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Stranger",
+          "text": "Oh, and my moths have just brought some new information."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Stranger",
+          "text": "Your human friend has also gone in that direction."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "With that, she turns her back to them and advances without fear."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A weary yet relieved sigh sinks into the snow."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Stranger",
+          "text": "The gate to the sanctuary won't stay open forever, Timekeeper. Shall we?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "No, no. This-This can't be real."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "This is how it ends, isn't it? I can't ... I can't do this. I can't do this alone!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "Vertin? Sonetto? Ms. Radio?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Trudging alone through a perilous labyrinth had never been Nautika's idea of an ideal scientific expedition."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "Possible cause of death one: freezing. Frozen solid with a bunch of unstudied samples clutched in my hands."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "Possible cause of death two: getting torn apart. Cold, sticky monster fingers sinking into my skin and ripping me to pieces."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "Possible cause of death three: killing myself before one or two can happen to me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Another empty room."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Like a waddling penguin moves from nest to nest, Nautika swivels her head around in constant search for her lost companions."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A break in her rhythm finally comes—this room holds life. Yet the occupant possesses neither brilliant copper hair nor an arcane suitcase."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She drops into a crouch, tucking her legs in close to her chest, turning instantaneously from penguin to armadillo—in appearance, anyways."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "Who ... Who was that?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She summons every ounce of courage in her, forcing her head and vision up to the figure."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "F-Friele?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The once-bright parka in her memory has faded with the wind, its dull hue mirrors the owner's new ashen demeanor."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Nautika uncurls, half-stumbling as she rises to her feet."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "Friele!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "Oh, I thought ... I thought you were gone."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Tears burst forth as Nautika clutches her friend's gaunt arms."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The survivor's glazed eyes roll into focus. Two labored breaths escape, each exhaling without drawing anything back."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "Oh, thank you, thank you, Mother Spirit. Thank you for keeping us both in one piece."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "We'll find a way out of here. We'll look after each other. Goodness, Friele, you're a sack of bones."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "I met two arcanists. They'll help us. I would have never even gotten here if it weren't for them. You should've seen how they chased off those Snow Monsters. You can trust them. Come, come, Friele. We have to find them."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "They'll protect us. They'll get us home."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Friele",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "Friele? Why aren't you saying anything?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Friele holds her gaze on Nautika, letting out another ragged breath as she points to her own mouth."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "Can't you speak?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "Hm, it must be the cold. Yes, once we get back, you'll feel better, I promise."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Nautika strains to pull her up from the stone bed, but it feels as if she is rooted to it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Panting and spent of her strength, she releases and spies the motion of her friend's foot as it cuts words into the snow."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "\"No.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "\"Can't.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "No? Why?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "Friele, Friele, listen. I found it. The resting place of the Mother Spirit. And the Rock of the Blank Era. Remember? I found lots of it. I found everything we came for."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Friele holds her eyes on her once-cherished friend, shifting into a devout smile."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She wipes away the words, writing something new."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "\"Mother Spirit ...\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Nautika gasps."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "\"... will see me soon.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Friele",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Friele nods with a smile, fingers clenched on the pendant around her neck."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "I ... I don't understand."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "You're going to meet the Mother Spirit?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Friele nods; her conviction seems absolute."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "But ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Cold sweat runs down her spine."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "You mean She has a mortal form? She's a living creature, like us? And She's here, in this ruin?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Friele nods."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "But ... But how?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Nautika's blood surges into her limbs with sudden intensity."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Friele tries to object but only produces wheezing breaths. With visible frustration, she smooths a fresh patch of snow."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "\"Homage.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "\"Approach.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "\"A great gift.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "Is this what the ninth story in the Tales of the Mother Spirit is about?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "\"Mother and child, their heartbeats both align, in joyful union, through the womb of time.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She nods, her relief obvious through gesture alone."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "No. No, it can't be. The tales say that the Mother Spirit should be asleep. She shouldn't wake up until after the Arctic polar day."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Nautika grips her head tightly, as if preventing it from flying off."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "So, she's asleep, then who are you going to see? Friele, I really don't understand."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Friele",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Friele merely smiles."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Hypoxia sets in, whether from this information overload or the bleak coldness, and Nautika crumples once again."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "You really won't come back with me?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "But if, if you come with me now, we'll be home soon. I-I drew a map, like you always did. There's food cached in the depots on the way. I even managed to train new sled dogs—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Friele slaps a hand over her mouth."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Friele",
+          "text": "*hiss*"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "With a swift kick, Friele sends a wave of snow bursting upward, then shoves Nautika flat against the ground."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "...?!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Nautika presses down deeper as the snow blankets her."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Footsteps crunch closer, deliberate, unwavering, methodical."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "They halt at the room's entrance."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Follower",
+          "text": "The ritual is ready. THEY are waiting."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Nautika hears Friele get up and walk away."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The sounds pause for a moment."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Follower",
+          "text": "Time to go."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The footsteps resume without hesitation, fading until silence reclaims the room."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Nautika emerges from the snowdrift."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "On tiptoes, she darts to the doorway, desperate to catch a glimpse of her friend."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "But beyond the door, there is only one spot of color—a pendant lying in the snow."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Shaking off snowflakes still clutching to her nose, she stares at the engraving."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ear Worm Máhtu",
+          "text": "\"Onward, child, follow the word of mouth.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ear Worm Máhtu",
+          "text": "\"To the Earth's edge, the land farthest south.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "\"The Mother Spirit's light, with ancient glow, guides us to the great current—nature's flow.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Sweat drips down her temples as she swallows hard."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "Wait for me, Friele."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She lifts her foot, placing it precisely over the footprints in the snow."
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

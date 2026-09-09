@@ -1,0 +1,23 @@
+# Event Stories · Last Evenings on Earth
+
+- [2410101 A Message Delivered](2410101-A Message Delivered.md) — We live in independence, yet we depend on others to survive. *(extra record)*
+- [2410102 "Free Breeze"](2410102-Free Breeze.md) — Ahh, the sea breeze, the freedom, and the last day of vacation, already slipping away. *(extra record)*
+- [2410103 Cryptography for Beginners](2410103-Cryptography for Beginners.md) — Just one of the many trivial obstacles our great captain must overcome. *(extra record)*
+- [2410104 Music of the Era](2410104-Music of the Era.md) — At the "Crater" Music Festival, the crowd moves in rhythm to the chorus of "Night of Revelry." What's this on the ground? Hey, look what I found! *(extra record)*
+- [2410105 The Day We Set Sail](2410105-The Day We Set Sail.md) — When all flows converge at sea. *(extra record)*
+- [2410108 An Old Song at Sea](2410108-An Old Song at Sea.md) — A gritty song, infused with the hues of a coral reef and a hint of brine. *(extra record)*
+- [2410109 Science Salon](2410109-Science Salon.md) — On understanding each individual at Laplace. *(extra record)*
+- [2410110 Piracy—Not the Fun Kind](2410110-Piracy—Not the Fun Kind.md) — Err, this is a real game-changer for records. *(extra record)*
+- [2410111 The Hateful Hometown](2410111-The Hateful Hometown.md) — Once tangled in a single arrangement, now unraveling in a sea of melodies. *(extra record)*
+- [2410112 Clashing Genres](2410112-Clashing Genres.md) — An opera house, a radio station, and the pulse of forgotten tunes. *(extra record)*
+- [2410113 End of the Sun](2410113-End of the Sun.md) — A pitch-black ship, enveloped in storm, rain, and hatred. *(extra record)*
+- [2410114 A Call for Help](2410114-A Call for Help.md) — A bit of good news, and a lot of bad news. *(extra record)*
+- [2410115 A New Page Turned](2410115-A New Page Turned.md) — Yes, my dear. It'll be a place that neither troubles you nor keeps you up at night. *(extra record)*
+- [2410116 Barcarolle](2410116-Barcarolle.md) — The oars are shaped here, and the waves crash here. Not every breeze is destined to last forever. *(extra record)*
+- [2410117 Dissonance](2410117-Dissonance.md) — A soul-stirring swell of noise, appreciated even by old-school rock fans. *(extra record)*
+- [2410118 The 27 Club](2410118-The 27 Club.md) — Rock never dies! *(extra record)*
+- [2410119 The Pain of Missing Home](2410119-The Pain of Missing Home.md) — The Compassare swaying in the wind, the water wheel turning on the riverbank—these are the familiar scenes that people long for. *(extra record)*
+- [2410120 To Elsewhere, To Home](2410120-To Elsewhere, To Home.md) — We are not going anywhere. *(extra record)*
+- [2410121 Final Farewell](2410121-Final Farewell.md) — What is the price one must pay for freedom, my dear? *(extra record)*
+- [2410122 Without Regret](2410122-Without Regret.md) — A fleeting beauty, vanishing in the water. *(extra record)*
+- [2410123 Finding Home on the Waves](2410123-Finding Home on the Waves.md) — She came from afar, with many names, and has never left you. *(extra record)*

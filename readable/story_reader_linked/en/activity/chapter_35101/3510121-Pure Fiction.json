@@ -1,0 +1,802 @@
+{
+  "episode_id": 3510121,
+  "chapter_id": 35101,
+  "chapter_title": "绿松石蛇俱乐部",
+  "display_label": "",
+  "title": "Pure Fiction",
+  "subtitle": "No guarantee of authenticity.",
+  "trails": [
+    {
+      "element_id": 3510119,
+      "owner_episode_id": 3510121,
+      "trigger_episode_id": null,
+      "title": "Return",
+      "description": "Say goodbye to your new friends. Set out with your new friends.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=3510121",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "What's beneath your hat?"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "My head",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Just a head, no creepy black bones sticking out from your temples?"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Thank goodness. I'm not sure I could handle another conversation with those lunatics."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "I do hope, if you ever find a bone stuck through your brain one day, that you won't hesitate to see a doctor."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "But why bother covering such a pretty face? You're young and good-looking."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Don't be so shy to show it off. If that boneheaded lunatic doesn't bother to hide her face, you shouldn't either."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "But seriously, if you do find a bone stuck through your brain one day, don't hesitate to see a doctor."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "I don't call that woman a lunatic without good reason."
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "I doubt I would survive it",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "So you say, but you know what happened to her: she died and came back."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "That is a rare privilege. How many can say they had the same gift? Death tends to be terribly final for most."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "She was the exception, and just look at what she's made of it."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "Life is pain. Lately it seems like every bone in my body aches ... Worse, the pain seems to come no matter the weather."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "But I wasn't rewarded with immortality for all my pains."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "It seems unfair that a privilege like that should be given to such a troublemaker."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "This whole damned world is coming to an end!"
+                }
+              ]
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "It might hurt a bit",
+              "edge_label": "",
+              "branch": []
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "My face",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "203534",
+      "internal_title": "【3.5】绿松石蛇俱乐部21",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "Hall, Foundation"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The gray and white tiled floor is polished smooth. It reflects people hurrying past."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "On a weekday afternoon, the St. Pavlov Foundation office is nearly empty. Waiting in a chair, a young writer scribbles her thoughts down in a notebook."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "I've got it now. The core of this story lies in the metaphor woven into the mural. It's the thread that ties the entire case together."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "Thank you again, Ms. Marguerite. Thank you for allowing me to weave your experiences into my novel. I wish I could travel to a different era in Mexico, too. It would be great for gathering material."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "Oh, and may I call you Ms. Butterfly? It has a sonorous quality to it that is positively brilliant."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lorentz Butterfly",
+          "text": "Of course, my dear girl."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "You know what? The moment I saw you, I sensed something special about you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lorentz Butterfly",
+          "text": "I think I should take that as a compliment."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Another employee speaks up from behind his desk."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Name Day",
+          "text": "I've heard you say something along those lines at least three times in the past hour, Ms. Recoleta."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Name Day",
+          "text": "It's a nice little opening line to get people talking about themselves, but—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "Ahem, that's not entirely accurate, actually."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "Only Ms. Butterfly has shared her story with me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "Director Noire was right. Instead of revisiting my own experiences again and again, I should try writing about those around me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "Maybe then, I'll finally break free of this restless river."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Name Day",
+          "text": "Yeah, sure. In other words, you'll be diving into a new topic for a while."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Name Day",
+          "text": "Your instincts always pull you toward uncharted—and dangerous, might I add—territory."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "Sounds like an exhilarating adventure, don't you think?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "Hmm. Maybe I should write from Muriel's perspective. It adds a melancholic twist to this already sad story."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "The loss of his friends to the \"Storm,\" and the gradual loss of his own mind."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "A story like this could serve as a kind of a tribute to all our friends washed away by the \"Storm.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lorentz Butterfly",
+          "text": "*scoff* So the dead gain eternal life through your book."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Name Day",
+          "text": "You really have a dark sense of humor."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "Well, it could also work if the protagonist is the mysterious, elegant assassin. Her antisocial nature would certainly stand out."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Name Day looks at the outspoken writer as if about to say something, but stops short."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lorentz Butterfly",
+          "text": "Write your story however you like, Ms. Recoleta."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lorentz Butterfly",
+          "text": "My only requirement is that it help me to lure someone out, the one who invited me to join Lorentz."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lorentz Butterfly",
+          "text": "If she still has eyes in the Foundation, this story will be more than enough to draw her attention."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "Just leave it to me. I'll do all I can to spread it throughout the Foundation. Of course, with names and locations adjusted as necessary."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "But at its heart, it must remain a story about cultural and class conflict. Hmm. I'd better build an intricate narrative structure to carry all that dramatic weight."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Name Day",
+          "text": "And maybe just a speck of authenticity."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "Hey, are you seriously criticizing a novel for being fictional?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Recoleta returns to her notebook, only for her colleague to pipe up once again. And as if to make things worse, he's come bearing forms. Work—real, actual work—slams her back into reality."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Name Day",
+          "text": "Here, Recoleta. I've finished reviewing the forms you submitted."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "Oh, thank you, Mr. Name Day. I almost forgot why I came here in the first place."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Name Day",
+          "text": "Latham must be thrilled you've joined the Arcanum Containment Department. She finally has a subordinate to boss around."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "Now I see why you were banished out here and left to stamp papers all day. Do you always put your foot in your mouth like this?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "In fact, I couldn't be happier to be working with Ms. Latham. She's an amazing colleague and has taught me all kinds of things."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Name Day",
+          "text": "Sure, sure. But just to be clear, I wasn't \"banished.\" Stamping papers here is just a step on my path to becoming head of the Far East branch. Bureaucracy, you know how it is."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "I don't, actually, and I have absolutely no interest in finding out. Ever since Ms. Latham went on medical leave, I've hardly seen my desk beneath all the paperwork."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Name Day",
+          "text": "It seems you're getting a crash course."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Name Day",
+          "text": "Wait, medical leave? Is Ms. Latham alright?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "She's in the rehab center getting some of her parts replaced. If you ask me, it was Vertin who gave her the false confidence to do field missions."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "Now I have to fight alone against this colossal, cumbersome institution and its endless piles of paperwork."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "Words were never meant to be wasted on this sort of thing."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "If Vertin ever plans a round two against the Foundation, call me immediately. I'm a bit of an expert in rebellion."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Name Day",
+          "text": "Yeah. I'll keep an ear out for you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Name Day",
+          "text": "But I'll need a copy of your latest book in return, just like last time."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "I'd be delighted to. You are my number one reader after all."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Name Day",
+          "text": "Aleph, Marcus, Sonetto, Latham, Noire, Blonney, Barbara, and now me. Seems like you have a lot of number one readers."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "Don't forget Pickles."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She hurriedly shoves the stamped papers into her notebook."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "I do have one more question, Ms. Butterfly."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "It doesn't look like you have any forms to stamp, and you're clearly not just here to chat with us, so ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "Are you waiting for someone?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Butterfly doesn't get a chance to respond. The office door swings open. Two Laplace researchers enter, arguing in quick rallies, like it was a sport for them."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "This makes no sense."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "She even found time to write a full-fledged paper after all that? How is this possible?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Enigma holds up a letter. His body bristles with an anger to match his complete frustration."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ulrich",
+          "text": "Calm down. Lorentz Butterfly has already sent us the lab reports."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ulrich",
+          "text": "Strictly speaking, Institutum Lorentz is also part of Laplace, which means we've achieved this major scientific breakthrough together."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "Don't you \"together\" me! When was Institutum Lorentz ever formally recognized?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "Besides, we need first-hand experimental data and materials, not just reports."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ulrich",
+          "text": "But the Staff Committee is quite satisfied with this operation's outcome. Mr. Ludwig himself said it's the results that matter."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "Well, he didn't refuse my investigation permit either."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "There's something suspicious in Latham's report."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "According to Ramona, the Vigiles exorcist who assisted Latham in her investigation, a Foundation employee named Jones was involved in the case."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "This Jones visited the crime scenes and repeatedly requested access to case data. Multiple Vigils saw her."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ulrich",
+          "text": "And what does that matter?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "Are you serious? That's your reaction? Did it not occur to you that this Jones is likely the Lorentz Butterfly herself, taunting us?!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "She has access to Foundation intel. That's probably why she's always one step ahead."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He walks over to the desk before spotting a familiar face. At once, he lets his mood settle and offers a pleasant-ish greeting."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "Oh, Marguerite. What are you doing here?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lorentz Butterfly",
+          "text": "Good afternoon, Mr. Adler."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lorentz Butterfly",
+          "text": "I'm here to submit the \"Storm\" meteorological observation data requested by the Foundation."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She carefully tunes her words: just a touch of concern, not enough to imply any interest in the topic."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lorentz Butterfly",
+          "text": "Oh, Mr. Ulrich is here too. Did something happen at Laplace?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "No, nothing to worry about. You've heard of Institutum Lorentz, haven't you? The mysterious organization hiding within Laplace."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lorentz Butterfly",
+          "text": "Yes. Though I can't really fathom what they're after."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "We just received another provocation from Lorentz Butterfly, with her new research paper attached."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "It mentions an experiment of utmost importance. The details are still classified as of now, but it won't be long before they're published."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Offering a polite nod, Enigma turns back to the desk and hands over his papers."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "Hello, um, I'd like to check the file of a Special Task Investigator, Ms. Jones, from the Foundation's Buenos Aires branch. Umm, which department was it again?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "Storm Era, um, Historical Monitoring Department ... and Field Agent Administration?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Name Day peers up at him with a strained look."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Name Day",
+          "text": "Oh, apologies, sir. I didn't catch that. Could you please repeat it?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "*sigh* Special Task Investigator Ms. Jones, of the \"Storm\" Era Historical Monitoring Department and Field Agent Administration from the Buenos Aires branch of the St. Pavlov Foundation."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Name Day",
+          "text": "Sorry, I'm quite certain the Buenos Aires branch has no such department."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Name Day",
+          "text": "There are sixty-three Foundation employees with the surname Jones. Four of them are assigned to the Buenos Aires branch."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ulrich",
+          "text": "Hahaha, I told you it was a fake identity."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "I really shouldn't have brought you along."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ulrich",
+          "text": "Come now, Adler. Look at the bright side. Haven't you read Lorentz Butterfly's paper?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ulrich",
+          "text": "Hissabeth studied the data and concluded that the experiment itself consumed very little of the pigment that was recovered, meaning Lorentz Butterfly must still have a considerable amount of it left."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "We have to get hold of it for Laplace's sake. Maybe we should conduct a grid search of headquarters."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ulrich",
+          "text": "Only if your goal is to make Laplace even more chaotic, Substitute Director."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ulrich",
+          "text": "Please, don't worry yourself. We have more materials-research experts than anywhere in the world. Ms. Hissabeth is already working on replicating the pigment. We'll have our own supply before long."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "I had better get back there and see if there is anything I can help with."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ulrich",
+          "text": "Come on, Adler, you're a physicist!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The two researchers exit together, immediately returning to their argument as if all the events preceding were just a brief ceasefire."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lorentz Butterfly",
+          "text": "See you later, Mr. Adler, Mr. Ulrich."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "Of course. See you, Marguerite."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Nearby, the young writer jots down another new idea."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "Ah, I understand. Ms. Butterfly was waiting here just to savor her victory. She foresaw it all!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "Oh, by the way, where is the rest of the pigment? It sounds like it could be the perfect beginning to our sequel!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lorentz Butterfly",
+          "text": "It's no longer in my possession."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lorentz Butterfly",
+          "text": "I passed it along to a \"business partner\" of mine."
+        },
+        {
+          "kind": "title_card",
+          "text": "In the Suitcase"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Mamá Pérez",
+          "text": "Heads up, my children! Let's get this done."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Mamá Pérez",
+          "text": "We mice are natural experts at this kind of work."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pérez Jr. #1",
+          "text": "That means we're stealing food today. Right, Mamá?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pérez Jr. #2",
+          "text": "Of course not, you cheese-brain! We're rummaging through trash!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Mamá Pérez",
+          "text": "Hey. Wrong again, my dearies. We're doing true gangster work!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pérez Jr. #1",
+          "text": "I see, Mamá. That's definitely something mice are good at."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pérez Jr. #2",
+          "text": "But we're even better at rummaging through trash."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pérez Jr. #1",
+          "text": "Mamá, yesterday a human boy asked if I could stand on his head and help him paint. Could I do that when I grow up?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Mamá Pérez",
+          "text": "We'll talk about it when you're old enough to hold your own, alright?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Mamá Pérez",
+          "text": "Now listen carefully, my children. In exchange for a steady supply of arcane pigment, that cold-hearted bipedal witch forced me to sign over a thousand agreements."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Mamá Pérez",
+          "text": "Until we're strong enough to overthrow her, we have no choice but to do her bidding."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Mamá Pérez",
+          "text": "Our first job was to tie up all the loose ends at the Turquoise Serpent Club."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Mamá Pérez",
+          "text": "It took me days to scrub all the clues leading back to her."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Mamá Pérez",
+          "text": "All that's left is to silence a certain individual. So, I contacted that exorcist girl, and somehow she ended up persuading me to help this peculiar painting find a home."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pérez Jr. #1",
+          "text": "Yes, Mamá! We worked our tails off cleaning up the inside of that painting lady!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The lead mouse knocks on a door within the Suitcase."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Hmm?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Mamá Pérez",
+          "text": "Hello, Ms. Two-Legged Lady, you must be the famous Timekeeper!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Mamá Pérez",
+          "text": "I hear your Suitcase holds many empty frames. Perhaps they are waiting for a painting to call them home!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Mamá Pérez",
+          "text": "Might you be interested in taking in this fabulous artwork?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Several mice work hard to lug over a cleaned painting and place it at her feet."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lady by the Lake",
+          "text": "Good evening, Timekeeper."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lady by the Lake",
+          "text": "This may sound a little brash, but ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lady by the Lake",
+          "text": "Might I stay inside your Suitcase?"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

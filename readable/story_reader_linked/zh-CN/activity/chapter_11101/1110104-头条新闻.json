@@ -1,0 +1,555 @@
+{
+  "episode_id": 1110104,
+  "chapter_id": 11101,
+  "chapter_title": "雷米特杯失窃案",
+  "display_label": "",
+  "title": "头条新闻",
+  "subtitle": "你看，人人都可以成名十五分钟。",
+  "trails": [
+    {
+      "element_id": 11101041,
+      "owner_episode_id": 1110104,
+      "trigger_episode_id": null,
+      "title": "“开胃酒”",
+      "description": "摇滚海盗当然也出现在辛辣的社会时评菜单上。请别摇晃，以便享用纯粹中立的风味。",
+      "action": "交互",
+      "unlock_condition": "EpisodeFinish=1110104",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "海盗入侵电台，\n                      摇滚入侵生活"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "{p}现下，想必所有人都知道了那位臭名昭著的海盗船长，“无线电清洁行动”中的漏网之鱼。她拥有一叠\n叠最时兴的唱片与磁带，一艘摇摆的红色小船，与总\n能躲开街道警探追捕的好眼力。\n{p}无可否认的是，如果你放下\n对这位反叛者的偏见，尝试\n欣赏当局眼中的那些“下流\n而肮脏”的音乐，我相信，\n只消一遍，你便会理解这座\n海盗电台坚持至今的意义。\n需要声明的是，本报刊并不赞同对方劫持其他电台频段、抢占公共广播、窃取警方油箱等一系列过激行为。\n对于某些不受约束的顽固分子，适当的惩戒仍是必要的。\n\n刊登于《伦敦评论》，《立场》专栏版，1966，09(25B)：58。{img}"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 11101042,
+      "owner_episode_id": 1110104,
+      "trigger_episode_id": null,
+      "title": "机会主义入门",
+      "description": "神偷的试题并无参考答案。须知：“抓住机会”仅为基础公式，不必大声复诵。",
+      "action": "教学记录",
+      "unlock_condition": "EpisodeFinish=1110104",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "200106",
+      "internal_title": "【1.1】雷米特杯-4.1",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "摄政街的闹剧似乎随着警笛声的密集到来划上了句号，街道又恢复了往日的平静。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "除了那位正打算从消防车旁偷偷溜走的鬼祟身影。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "警察",
+          "text": "站住！例行检查。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "警察",
+          "text": "请提交您的消防车驾驶证明。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他终于转过身来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘艺术",
+          "text": "您好，尊敬的警察先生～"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "警察",
+          "text": "怎么又是你！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "警察",
+          "text": "最近一个月，你已经光顾了十三次警局。拨弄大本钟的指针，在唐宁街10号搞玻璃窗画展，用防水涂料给伦敦塔染色……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "警察",
+          "text": "你这次又胡闹了一场街头派对，是吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘艺术",
+          "text": "咳咳，这并不是胡闹，警察先生。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "警察",
+          "text": "你现在涉嫌妨碍公共交通，我们有权直接逮捕你！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘艺术",
+          "text": "且慢，警察先生……我的行为是合规的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘艺术",
+          "text": "我向警长提交了消防车使用说明，并且得到了批准。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "挖掘艺术扬了扬手里的小纸条。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘艺术",
+          "text": "请您过目，警察先生～"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "警察",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "警察",
+          "text": "…………"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "警察",
+          "text": "警长怎么会同意这项荒唐的审批……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘艺术",
+          "text": "事实如此。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "警察",
+          "text": "那你打算怎么解释那些稀奇古怪的泡泡？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘艺术",
+          "text": "您说的是哪一种？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘艺术",
+          "text": "是能反射出人们美梦的镭射肥皂泡？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘艺术",
+          "text": "它让整个广场的人昏睡了两天，他们获得了人生中最意外、最美好的一次假日，坦白说，我很羡慕他们。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "警察",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘艺术",
+          "text": "再不然是我的经典之作——空想肥皂泡？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘艺术",
+          "text": "不麻烦的话，您能透露一下警局里其他人员的使用反馈么？我正在收集一些改进配方的灵感。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘艺术",
+          "text": "那些警员们从肥皂泡里看到了什么？是束手就擒的犯罪分子，还是一纸升职通知？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "警察",
+          "text": "够了！这一次，我们肯定能分析出里面的古怪成分。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "警察",
+          "text": "你瞒不了所有人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘艺术",
+          "text": "如果你们能成功打开它的储水罐的话。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "挖掘艺术指了指那辆被警车们团团围住的消防车。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘艺术",
+          "text": "至少现在，你们证据不足，警察先生。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "警察",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "警察",
+          "text": "好，我现在要求你作为目击证人配合调查！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘艺术",
+          "text": "呃……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘艺术",
+          "text": "好吧，我会留在这儿，直到你们找到新的证据。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "警察",
+          "text": "看住他。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "警员",
+          "text": "是。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘艺术",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "警察们在消防车上忙碌了起来，挖掘艺术突然捂住了肚子蹲了下来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘艺术",
+          "text": "嘶——疼……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "警员",
+          "text": "你又在搞什么鬼？给我站起来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "年轻的警员粗鲁地拉起挖掘艺术，却没留意到一个镀着反光膜的肥皂泡即将形成。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘艺术",
+          "text": "呼——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "警员",
+          "text": "唔……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘艺术",
+          "text": "做个好梦～"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他正蹑手蹑脚地朝着摄政街的尽头走去，全神贯注地默数着告别警铃的每一步脚印，那是他与自由的距离。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "但他似乎完全没注意到越来越近的引擎声与海盗气急败坏的大声警告。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "闪开——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "别撞上来——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "灯光熠熠的摩托车在空中划出一道漂亮的抛物线，最后精准地降落在花坛与围墙之间的缝隙里。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "车上的摇滚女孩与追求自由的嫌疑人撞成了一团。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "痛……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘艺术",
+          "text": "嘶——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "至少，他们都抵达了各自的终点，卡纳比街。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘艺术",
+          "text": "该死！到底是从哪儿来的菜鸟车手……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "你毁了我的比赛！小子！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘艺术",
+          "text": "你是……？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘艺术",
+          "text": "星锑？！那个招摇撞骗的摇滚海盗！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "你认识我？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "该死，我就知道要留意你们这些在赛道上埋伏的便衣警察！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘艺术",
+          "text": "你觉得我看起来像个便衣警察？……我完全不接受这种污蔑！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "呃，好吧，你说得对。警察们应该不会穿着这么邋遢的衣服。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘艺术",
+          "text": "什么？这……这是反对物质的象征，是崇尚自由的符号！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘艺术",
+          "text": "咳，尽管你没有把我和那些行为滑稽的笨蛋警察们混为一谈，但我仍建议你使用更严谨的区分尺度。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "哈哈，一个幽默的建议！邋遢小子。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "红色的球形身影，轻飘飘地在一旁落下。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "机体轻微刮花，传动系统运转正常，减速系统稍有问题……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "APPLe先生？你回来了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "你的爱车看起来并无大碍。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "船长，你还好吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "一点儿也不好！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "我本可以赢下这一届比赛……但邋遢小子毁了这一切，他毁了我的比赛，毁了我登上颁奖台的阶梯，毁了一颗冉冉升起的赛车新星！！！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘艺术",
+          "text": "咳咳——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘艺术",
+          "text": "我必须再次提醒你，对个人名誉的侵犯很有可能招致我的诉讼公函。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "哼。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "本来就是因为你闯进了赛道，邋遢小子。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "这里的动静吸引了另一拨人的注意。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "先生，你说的诉讼公函，是指那些正在迅速向我们靠近的人吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘艺术",
+          "text": "什么？糟糕，我被发现了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "警察们的脚步声愈发清晰。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "警察",
+          "text": "卡纳比街请求支援。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "警察",
+          "text": "根据威廉警长传来的最新讯息，他的印章已确认被盗。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "警察",
+          "text": "嫌疑人挖掘艺术涉嫌违规使用消防车、伪造警章、袭击警员等一系列罪名……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "啧啧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "警察",
+          "text": "我们还发现有人在街道上举办非法摩托锦标赛，极有可能是通缉令上的摇滚海盗星锑……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘艺术",
+          "text": "啧啧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "警察",
+          "text": "都给我站住！配合调查。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑＆挖掘艺术",
+          "text": "哇！快溜——！"
+        }
+      ]
+    },
+    {
+      "script_id": "200107",
+      "internal_title": "【1.1】雷米特杯-4.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "有人侥幸逃脱了追捕，有人不幸被关进了警车。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "总得有人成为那名落选者。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "他还好吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "也许吧，如果他那些信誓旦旦的发言都可信的话。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "你还记得他最后说了什么吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "他嘱咐我们一定要关注明天的报纸，头版新闻。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "这算是讣告吗？APPLe先生，我打算为今晚的摇滚电台新增一期保留栏目。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "什么？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "“最坏的开始与最好的结局——致我们永远的邋遢小子”。"
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED ..."
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

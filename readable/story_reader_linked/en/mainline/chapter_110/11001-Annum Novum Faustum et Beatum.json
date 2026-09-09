@@ -1,0 +1,511 @@
+{
+  "episode_id": 11001,
+  "chapter_id": 110,
+  "chapter_title": "Paradise Regained",
+  "display_label": "",
+  "title": "Annum Novum Faustum et Beatum",
+  "subtitle": "The sleigh, empty of its precious gifts, glides quickly towards the future.",
+  "trails": [
+    {
+      "element_id": 101001,
+      "owner_episode_id": 11001,
+      "trigger_episode_id": null,
+      "title": "Antarctic Landing",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=11001",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "You made it. From the US to Brazil to Australia ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "From a pleasure cruise across the South Pacific, through Argentina, and finally here, your feet firmly planted on the southernmost continent on Earth."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "The enemy's been beaten back, retreated to this polar desert, and here you are too—all because of a single command:"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "\"Find that writer.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "That's all you've got. No plan, no place or time, not even a full squad."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "I can't help but wonder what pushes you forward. What gives you the eagerness of a newly enlisted rookie?"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "I don't know.",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "I'd say it's your instinct to follow the path laid out for you—to satisfy the desires of those who watch from afar."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "That IS your \"arcane skill,\" isn't it?"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "But you're not a soldier. You're not even a Girl Scout."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "You have no obligation to follow orders."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Personally, I suggest you think twice before obeying a command."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "After all, you're headed straight into the stronghold of the enemy."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "In situations like these, those who blindly follow orders often end up as cannon fodder."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "So, keep this question in mind: Why are you looking for that writer?"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "Soldiers follow orders.",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "101000",
+      "internal_title": "第十章10-00",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "Paradise Regained"
+        },
+        {
+          "kind": "title_card",
+          "text": "Annum Novum Faustum et Beatum"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A sealed office, with a screen emitting white light."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A dial tone echoes through the quiet space before the call is answered."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Liaison Creius, here's the order signed by the Pax House: Annum Novum Faustum et Beatum."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Beeping sounds come from the other end of the line, and soon the fax machine whirs to life."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "This is the Military Commission's conclusion: Contact Admiral Somme of Zeno and lead the troops to these coordinates immediately."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Be prepared for an all-out battle."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Creius",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The other end falls silent for half a second."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Creius",
+          "text": "Hmm. I've never received an order like this."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Standing in the half-lit room, the vice president draws a circle on the frosty window."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Constantine",
+          "text": "Note that the designated coordinates lie in Antarctica."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Constantine",
+          "text": "There, you'll find Manus Vindictae's largest stronghold and the site of their ritual."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Creius",
+          "text": "Ritual?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Constantine",
+          "text": "Yes, the ritual of both past and future. It seems Manus Vindictae has been preparing it in secret for quite some time."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her tone is as cold as the weather beyond."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Creius",
+          "text": "What's this ritual for, exactly?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Constantine",
+          "text": "You'll find out soon enough."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Creius",
+          "text": "We haven't fought a battle of such scale and so suddenly since ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Creius",
+          "text": "The battle of 1999."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Constantine",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her eyes remain fixed outside the window."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Frost clings to spiderwebs outside the alloy window frame."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A thin strand flies off on a long journey down into the piling snow."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Creius",
+          "text": "History is repeating itself, isn't it?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Constantine",
+          "text": "Liaison Creius."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She doesn't give him the chance to continue."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Constantine",
+          "text": "We look forward to your performance on the field."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Constantine",
+          "text": "As you know, officers with successful track records are often given greater access to information."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Creius",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Creius",
+          "text": "Yes, madam."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Suppressing any betrayal of tone or emotion, he ends the call."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The screen's white glow illuminates the window again."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Labeled videotapes organized by time and date are slotted neatly on the shelves."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A tape is pulled down and inserted into the projector."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Constantine",
+          "text": "History is repeating itself."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Constantine",
+          "text": "But we still have \"hope\" on our side."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The screen crackles with static."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A child's voice comes garbled by aged electronics."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "What's this?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "It's a gift for you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "A gift? A ... suitcase?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "That's right. To celebrate your appointment as the Foundation's Timekeeper."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "This is a moment to remember, Vertin."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The child doesn't seem to understand the suitcase's significance."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "And yet she has more questions."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Who's it from?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Why didn't they give it to me themselves?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "It's from an old friend."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "An old friend?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "She left you a message, too."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "She said ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "P a r a d i s e     R e g a i n e d"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Is everything alright, Timekeeper?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "I'm fine."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Thoughts return to the present."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "A memory just came to me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "The further south we go and the colder the weather gets, the harder it is to shake this feeling of déjà vu."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "It's like ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "That titillation, pain, and pleasure—call it emotion or some physiological mechanism of the amygdala."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Like I've been here before."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her companion's concern reflects back to her from the window."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A deep breath suppresses her heartbeat."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Will—Will we be there soon?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Words are cut off by bustle of the ship's docking."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Ugh!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her breath crystallizes into mist as the vessel stabilizes."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Looks like we've arrived."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The two emerge from the cabin."
+        },
+        {
+          "kind": "title_card",
+          "text": "Antarctic Plain"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "After days of covert detours, at last they stand on the sunlit deck, looking into the distance."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "This is McMurdo Sound, the starting point of our Antarctic expedition."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Before them stretches a white field of ice."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Dazzling yet lifeless."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A droning silence that gives up no hint of what may once have been."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Yet beneath the silence roars an imperceptible foreboding."
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

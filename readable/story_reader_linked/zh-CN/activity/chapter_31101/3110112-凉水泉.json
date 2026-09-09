@@ -1,0 +1,702 @@
+{
+  "episode_id": 3110112,
+  "chapter_id": 31101,
+  "chapter_title": "长夜鸣笛",
+  "display_label": "",
+  "title": "凉水泉",
+  "subtitle": "别担心。只需饮下三口泉水，你将永远记得归途的方向。",
+  "trails": [
+    {
+      "element_id": 3110109,
+      "owner_episode_id": 3110112,
+      "trigger_episode_id": null,
+      "title": "余音从往昔来",
+      "description": "回忆过去是对自己最简单直接的伤害方式，所以我从来不这样做。",
+      "action": "对话",
+      "unlock_condition": "EpisodeFinish=3110112",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "好了，我的默哀结束了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "我不是什么虔诚信徒，也算不上无神论者，但我尊重她的牺牲。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "虽然她的行为实际上愚蠢且不知所谓。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "可正如我之前所说，忠于一些愚蠢的意志恰恰能证明一个人的忠诚。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "不论是为了家族使命，还是探索精神，或者是那个睡前童话故事。她都死得其所。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "死得愚蠢但忠实。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "这一切发生得太快了",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "你经历了这么多牺牲，居然还期望每一次都有充足的铺垫？"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "抱歉，我可不会夸奖一位多愁善感的指挥官。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "如果我是你的上级，恐怕会要求你把心挖出来，给那些老兵做个榜样。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "行了，你我都知道这里并非她的终点。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "对她这样忠于信念的人来说，赴死不过是实现永生。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "而且她可不是那群割掉舌头的盲信者，恐怕如今她正和自己的信念会谈。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "趁着门仍敞开，赶紧与她会合吧。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "否则你就要被她永远甩下了。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "你是个冷血的家伙",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "203117",
+      "internal_title": "【3.1】长夜鸣笛12",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "遮罩"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "列车缓缓驶入检查站。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "蒸汽机停止运转，庞大的钢铁巨兽仿佛入睡一般，静静停靠在铁轨上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "边境检查站"
+        },
+        {
+          "kind": "title_card",
+          "text": "边境检查站"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "地标"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "走2步"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "浮窗"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "边防士兵Ⅰ",
+          "text": "“多瑙黎明号”……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "边防士兵Ⅰ",
+          "text": "维也纳-潘诺尼亚运输公司所有，登记车厢……十二节。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "边防士兵Ⅰ",
+          "text": "于一九一二年十一月三十日抵达尼卡边境检查站。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "边防士兵Ⅰ",
+          "text": "登记成员，二百……五十……五十……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "声音弱了下来，反复打着转，仿佛被困在了数字的囚笼里。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "消浮窗"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "先生？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "列车长靠近一步。士兵的面容在月光下显得格外苍白，像是刚从一场漫长的病痛中康复。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "边防士兵Ⅰ",
+          "text": "噢……！我们会尽快查验放行。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "边防士兵Ⅰ",
+          "text": "尼卡检查站向您致敬，列车长。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "鲍里斯呢？我需要见见你们的长官。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "边防士兵Ⅰ",
+          "text": "长官……他……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "眼神游移不定地飘了一会儿，才终于找到聚焦点。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "边防士兵Ⅰ",
+          "text": "他说您知道该上哪儿找他。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "渐黑"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "长黑"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "列车长车厢"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "鲍里斯",
+          "text": "伊格丽卡！艾玛！终于等到你们了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "鲍里斯",
+          "text": "一路上怎么样？都顺利吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "军官快步上前，脸上带着一贯和煦的微笑。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "和过去一样。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "鲍里斯",
+          "text": "一样就好……过来，艾玛。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "浮窗"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "鲍里斯",
+          "text": "有个难民送的，拿着。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾玛",
+          "text": "谢谢鲍里斯叔叔……这下我可以集齐全部五个娃娃了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "鲍里斯",
+          "text": "没错。再让你的伊格丽卡阿姨给它做身漂亮衣服，一家人和和美美的……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "关浮窗"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "艾玛轻轻摩挲着木质的娃娃。鲍里斯看着她，神情疲惫而温和。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "你看上去很累。发生什么事了吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "鲍里斯",
+          "text": "当然。每天光是应付那些边境稽查的人，就足以叫我一睡不醒了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他一边说着，眼角的余光不动声色地掠过乘务员。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾玛",
+          "text": "哦……我还得去擦洗一下车窗，你们请继续……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "艾玛会意地收起新玩具，转身离开。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "车门关闭，军官脸上的笑容顷刻消失。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "鲍里斯",
+          "text": "有人……不，是一帮人，在查这趟车。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "鲍里斯",
+          "text": "我刚刚收到通知，巡逻队有两个士兵被人打晕了。没惊动警戒，像是经过训练的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "鲍里斯",
+          "text": "换句话说……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "鲍里斯",
+          "text": "我们被盯上啦，老队友。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "回忆"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅尔维斯",
+          "text": "渐入"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅尔维斯",
+          "text": "为了确保大家的安全，我需要对所有登车乘客的身份进行一次普查登记。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅尔维斯",
+          "text": "从程序上讲，截停列车是基于条约的一项标准操作，完全合乎规定……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅尔维斯",
+          "text": "消回忆"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "鲍里斯",
+          "text": "渐出"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "鲍里斯",
+          "text": "怎么了？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "鲍里斯",
+          "text": "我们认识这么多年了，你这副表情——你知道些什么，对吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "我会处理好的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "鲍里斯",
+          "text": "圣洛夫基金会，听说过吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "军官开门见山。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "鲍里斯",
+          "text": "看来你见过他们的人了。让我猜猜……现在就在你的车上，对吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "鲍里斯",
+          "text": "不然我们的人怎么会在森林里倒下。那地方方圆十英里连只兔子都没有，只可能是从你车上下来的人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "她的目的并非列车本身，你不用担心我车上的人。我说过了——我会处理好一切。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "在这个关键节点，我不希望任何事情影响“多瑙黎明号”顺利到达布达佩斯。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "列车长摆摆手，示意话题到此终结。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "鲍里斯",
+          "text": "……真叫人怀念啊。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "鲍里斯",
+          "text": "当初你也是像这样，力排众议让我留在了组织里。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "军官眯起眼，思绪仿佛又回到了那个遥远的夏天。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "鲍里斯",
+          "text": "那时我们的想法很简单。为了联合……为了建设一个统一的“色雷斯解放阵线”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "鲍里斯",
+          "text": "无视血统，无视种族，所有人都一样，我们都在同一个大家庭里。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "鲍里斯",
+          "text": "白天，我们在山林中穿行，翻越雪线，炸毁敌人的补给线，把那些骑兵吓得连马粪都不敢留在原地。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "鲍里斯",
+          "text": "晚上，我们围着篝火，一起修枪，烤面包，唱那些老掉牙的游击战歌，像一家人那样。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "……那确实是一段美好的生活。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "鲍里斯",
+          "text": "可惜，不是人人都这么想。背叛、流血，兄弟反目……这些我们都一同经历了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "鲍里斯",
+          "text": "后来我们先后离开。这么多年过去了……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "鲍里斯",
+          "text": "现在，我只想将“多瑙黎明号”当成第二个解放阵线来奋斗。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "军官的声音很轻。他靠在窗边，沉默地望向漫天飞舞的白雪。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "每当他侧过头，额角那块暗红的伤疤便毫无保留地展示在世人眼前，仿佛被烧灼的藤蔓。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "鲍里斯",
+          "text": "我一直认为我们彼此是能互相理解的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "鲍里斯",
+          "text": "因此，我可以相信你，不过问基金会的事——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他停顿了一瞬。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "鲍里斯",
+          "text": "但有两个条件。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "鲍里斯",
+          "text": "第一，列车今晚先停靠在这里，明天一早发车。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "鲍里斯",
+          "text": "我们需要一定的时间来行使“流程”，为巡逻队的事给上面一个交代。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "“流程”？你是指……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "鲍里斯",
+          "text": "别着急，这就是我说的第二个条件——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "鲍里斯",
+          "text": "我需要对整趟车进行一次彻底搜查。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "似曾相识的对话。\n停靠、登记、检查……简直没完没了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "乘客们已经经历过一次全面登记了，再来一遍除了造成无意义的恐慌，我看不出来有任何益处。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "如果你需要，我可以提供给你相关文件资料。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "军官摇了摇头。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "鲍里斯",
+          "text": "相信我，没人愿意半夜三更来干这得罪人的工作。但那些士兵倒得太蹊跷，报告已经呈上去了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "鲍里斯",
+          "text": "我派人调查，就只是一个简单的表面流程。可一旦公司和政府查起来，这列车上藏了什么、我们都干了些什么……可就全摊在阳光底下了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "这似乎是一个令人难以忽视的理由。列车长沉吟片刻，缓缓开口。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "别动加挂车厢里的人，别惊扰乘客，列车组必须全程陪同。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "此外……列车现在物资紧缺，我们需要更多食物和医疗供给。当然，还有最重要的——列车在布达佩斯的优先通行权。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "布达佩斯东站的行政手续一向很繁琐。列车每多停留一分钟，加挂车厢暴露的可能性就会越大。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "如果以上要求你都能做到，那么我们可以配合。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "鲍里斯",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "军官的表情空白了一瞬，随即显出淡淡的无奈。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "鲍里斯",
+          "text": "原来如此。我猜你早就打算好在这里和我谈条件了。你总是知道如何寻找一个巧妙的时机给我添麻烦……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "这只是一次双方自愿且完全平等的谈判而已，鲍里斯。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "我们都需要履行各自的职责，不是吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "坐席车厢"
+        },
+        {
+          "kind": "title_card",
+          "text": "乘客车厢"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "地标"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "紧闭已久的车门缓缓开启。列车长走在前头，步伐稳健，脸上带着一丝罕见的轻松。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "军官跟在她身后，脸上不见怒意，却也远远称不上愉快。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾玛",
+          "text": "哈啊……终于出来了。你们似乎聊了很久……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "鲍里斯",
+          "text": "放心吧，没有人吵架，也没有人受伤。我还没蠢到跟她硬碰硬——你这位老板可是谈判桌上的刽子手，而我只想尽快签字走人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "军官抱怨着，忽然弯下腰，压低了声音。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "鲍里斯",
+          "text": "嘿，小家伙。刚才光顾着谈工作，还没来得及和你好好说话。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "鲍里斯",
+          "text": "等检查工作做完……我有一份“礼物”要送给你。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾玛",
+          "text": "还有别的礼物？是新的裙子吗？可我的衣柜已经满啦……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "鲍里斯",
+          "text": "嘘……到时候你会知道的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他眨眨眼，又伸了个懒腰，慢悠悠跟在列车长身后离开了。"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

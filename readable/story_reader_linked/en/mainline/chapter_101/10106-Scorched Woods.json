@@ -1,0 +1,330 @@
+{
+  "episode_id": 10106,
+  "chapter_id": 101,
+  "chapter_title": "In Our Time",
+  "display_label": "",
+  "title": "Scorched Woods",
+  "subtitle": "THEY are charred. THEY wept in the blaze. THEY remain unbroken. THEY still exist.",
+  "trails": [
+    {
+      "element_id": 1010601,
+      "owner_episode_id": 10106,
+      "trigger_episode_id": null,
+      "title": "Trail ① Afflatus Relations",
+      "description": "A memory about the strength and weakness between entities. If the Afflatus of your attack is strong against the target's, the target will take more DMG than usual, which will sway the battle in your favor.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=10105",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1010602,
+      "owner_episode_id": 10106,
+      "trigger_episode_id": null,
+      "title": "Trail ② News",
+      "description": "A wrinkled public notice marked with the latest \"news.\"",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=10105",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "On Bankrupt Companies and Newly Registered Companies: February"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Public Notice\n(1929) IL 17-14000 BD59-3\n\nGreat Lakes Media Company, located in Roosevelt Road, the parent company of the Moon Post of Arcanum, does not possess any distributable assets. The debtors Theodore Jackson (Human), Emilio Robert Henger (Human), and manager Steven Sheridan (Human) have applied for the termination of the bankruptcy proceedings following negotiations.\nThe Moon Post of Arcanum specializes in reporting news of the arcanist world with a circulation of over 500,000 copies. Renowned articles include Conspiracy: Human Organ Trade and the Witch's Curse. Its parent company Great Lakes Media Company was forced to stop its publication in September 1928 due to anonymous reports to relevant authorities and the emergence of radio stations.\nPursuant to the provisions of The Nelson Act, this Court has reached the verdict of terminating the bankruptcy proceedings of the Great Lakes Media Company in February 14, 1929.\nDeclared on\n\nFebruary 24, 1929\n\n\nPublic Notice\n·List of Newly Registered Companies·\n\nName: Feldwood Communications Company\nLegal Representative: David Clauberg (Human)\nScope of business: Media publishing - Arcanum Global Weekly\nDate of establishment: February 3, 1929\n\nName: Karl Entertainment Publishing Company\nLegal representative: Vince Dayne (Human)\nScope of business: Media publishing - American Wizard Entertainments\nDate of establishment: February 3, 1929\n\nName: Coast United Publishing Company\nLegal representative: Hugh Midax (Human)\nScope of business: Media publishing - Evening News\nDate of establishment: February 5, 1929\n\n……\nDeclared on\n\nFebruary 14, 1929"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1010603,
+      "owner_episode_id": 10106,
+      "trigger_episode_id": null,
+      "title": "Trail ③ An Unknown Traveller Ⅰ",
+      "description": "An energetic greeting, but you believe you two are not that close.",
+      "action": "",
+      "unlock_condition": "ChapterMapElement=1010602",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100109",
+      "internal_title": "第一章1-7",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "Scorched Woods"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "It would be our honor to have the young lady's presence at The Walden."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Thanks to your kindness last time, we were able to invent the new potion before the National Prohibition Act was enacted. Of course, I will deliver what you had purposed on time."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Yes, everything is fine ... No, you don't have to worry too much about Congress."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "You need to trust them."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Humans, they talk the talk and don't walk the walk, but they're more likely to vote for the side that seems more ethical."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Please be rest assured. We will make the young lady's day a pleasant one."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Hmm ... it's good weather."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "And ideal for an impressive \"Storm.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "According to Louise Strong's column on New Yorker on February 5, Duke Ellington's jazz orchestra will perform at The Walden tonight!"
+        },
+        {
+          "kind": "title_card",
+          "text": "Manor hall"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "According to Louise Strong's column on New Yorker on February 5, Duke Ellington's jazz orchestra will perform at The Walden tonight!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "It will be the best ever! Wild! Rhythmic! Fancy! Just what a jazz band should be ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Mr. Karson",
+          "text": "There you go, Ms. Sotheby. There's no need to deliberately read that aloud."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Mr. Karson",
+          "text": "Master in England has given you the permission to go out. Also, I've spoken to the owner of The Walden on the phone …"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sotheby",
+          "text": "Hooray!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Mr. Karson",
+          "text": "Hooray? That's not what a young lady should say."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sotheby",
+          "text": "Mr. Karson, Sotheby has grown up."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sotheby",
+          "text": "And I am not going out to play this time. I also have the great mission of saving people."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Mr. Karson",
+          "text": "Fine, fine. Just don't go hawking your new nutrient potions. Ms. Moissan would be worried if she saw you come back disappointed."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sotheby",
+          "text": "... Then I'm leaving!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Mr. Karson",
+          "text": "Wrong way, my lady. The car is at the front door."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sotheby",
+          "text": "Huh! I-I don't need a bodyguard! You promised I could go out alone this time!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Mr. Karson",
+          "text": "Mind your manners, my lady. There isn't a bodyguard there for you this time."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Mr. Karson",
+          "text": "The wood near the bar is quite dangerous. We must pick you up in person for peace of mind."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Mr. Karson",
+          "text": "In brief, after entering the bar, staff will lead you to your seat."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Mr. Karson",
+          "text": "Remember, watching only. No alcoholic or incitant potion drinks. Do not talk to strangers. Black bottom is not allowed …"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Mr. Karson",
+          "text": "Hmm? My lady?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sotheby",
+          "text": "I! Got! It!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Mr. Karson",
+          "text": "*sighs*"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Mr. Karson",
+          "text": "Creaking ... Creaking ..."
+        },
+        {
+          "kind": "title_card",
+          "text": "Borderlands"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Mr. Karson",
+          "text": "Creaking ... Creaking ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "The woods ... so gloomy."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "All the plants are dead. There is no evidence of life at all. Even the bark on the branches are charred."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Looks like it has been through a huge fire."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Well, if it were not the path we must take, I really don't want to enter this woods ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Speaking of which, Sonetto, have you ever heard of a ghost story about \"fire\"?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "...?!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "No. Never."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Oh. So it is said that in the early 20th century, there was a devastating forest fire in Washington."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Those who died unfortunately did not want to leave, and they turned into dark ghosts in the woods."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Um …"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "They follow the travelers without making any sounds, and in order to see everyone's face clearly, they will …"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Ah! I can't hear you clearly ... It's too noisy walking on these dried leaves. All I heard is the whizzing sound behind me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "True, this APPLe heard some loud noise, too."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "... Umm? Mr. APPLe, why are you in front of me? Then ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Ahh! Gho-ghost ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Lots of unknown creatures! Sonetto, stay behind me!"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "Everyone, get ready to fight!",
+          "edge_label": "다들 전투태세로!",
+          "branch": []
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Everybody, get ready to fight!"
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

@@ -1,0 +1,443 @@
+{
+  "episode_id": 10111,
+  "chapter_id": 101,
+  "chapter_title": "In Our Time",
+  "display_label": "",
+  "title": "Appetizers",
+  "subtitle": "Under the spotlight, freshly spilled blood is the best appetizer and agent for starting a fire.",
+  "trails": [
+    {
+      "element_id": 1011101,
+      "owner_episode_id": 10111,
+      "trigger_episode_id": null,
+      "title": "Trail ① The Strange Thing in the Labyrinth",
+      "description": "Truth Serum is a controlled substance. It is used to counter deceit and fraud.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=10110",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1011102,
+      "owner_episode_id": 10111,
+      "trigger_episode_id": null,
+      "title": "Trail ② Chat in front of the Bar",
+      "description": "A member of Manus Vindictae is strolling before the door of the Walden. He has a letter that you might be able to get with a trick.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=10110",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "A Letter with Black Mucus"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "\"Chaos begins where the butterfly flutters its wings.\"\n\n—— Institutum Lorentz ——\n      \nFounded after the \"Storm,\" Institutum Lorentz is a mysterious organization hidden within but independent of the Laplace Scientific Computing Center. Its primary area of research is the chaos energy of Arcanum. Its members distrust the tech of human civilization and would rather discard them. They're active in various sites of arcane phenomena, secretly searching for the \"Original Butterfly.\"\nWhile all of its members' whereabouts remain unknown, Lorentz still has branches all over the world. Our vanguard squad has fought their investigators several times, yet we still haven't found a way into any of their branches."
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100116",
+      "internal_title": "第一章1-12.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "Appetizers"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "I'm surrounded by distances like a flag,\n                      \n                      sense the winds that are coming, I stand and must flutter,\n                      \n                      yet things below are not stirred:\n                      \n                      Stocks celebrate, and the prices emulate\n                      \n                      on a Thursday afternoon, when the sun shines as before.\n                      \n                      Gold forms the line, reaching a lasting high plateau.\n                      \n                      I know the storms and am excited like the sea.\n                      \n                      And I spread out and fall into myself\n                      \n                      and throw myself, all alone into the great storm."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Thanks for coming to assist."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Special Action Team Captain",
+          "text": "To make you ask Madam Z for help, it must be tough here."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "I just don't feel good about this. Hopefully it's my misjudgment. Is everyone in position?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Special Action Team Captain",
+          "text": "Yes. Eight of the team got the invitation to the gathering. They have entered separately. Others are standing by at every entrance of the speakeasy."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Special Action Team Captain",
+          "text": "These are the intels we got about The Walden. They're going to hold a live duel show tonight."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Special Action Team Captain",
+          "text": "Fighters can win stock in amount of 1 million dollars, and the betting odds can be from 5-to-1 to 10-to-1."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "... They are crazy."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Special Action Team Captain",
+          "text": "Timekeeper, please take this with you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Special Action Team Captain",
+          "text": "It's the latest product from the Scientific Computing Center, \"Heaven Apostle 34:7.\" They've added the cell sap of Bombard Ball to it. Unfold its wing and it will blast in 15 seconds."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Special Action Team Captain",
+          "text": "The blast is undirectional. Please watch your position when you use it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Got it. Let's head down to The Walden now. You follow APPLe. Remember, to stay low profile."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Forget Me Not",
+          "text": "Welcome, welcome everyone ..."
+        },
+        {
+          "kind": "title_card",
+          "text": "Walden"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Forget Me Not",
+          "text": "All the new immigrants, arcanists, moralities and immoralities, Anti-Saloon League and democratic progressives, free thinkers and church-goers ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Forget Me Not",
+          "text": "Welcome to your eternal home, The Walden."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Forget Me Not",
+          "text": "How was it? You seem to be enjoying the last show, the Hooch Dance girl with the Boa constrictor."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Forget Me Not",
+          "text": "Well, in that case, next round's Python Sweet is all on me. I assure you every Chicagoan loves the YY Bourbon. You won't forget its charm."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Forget Me Not",
+          "text": "Oh, oh, I guess your eyes are fixed on the charts. Don't worry, my friends. Let's focus on the next duel instead."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Forget Me Not",
+          "text": "Trust me, and you'll get the return beyond your craziest imagination."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "Oh, so crowded! This APPLe's favorite bow tie almost gets lost!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "Why is this speakeasy so busy? It doesn't look like an illegal place at all."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Special Action Team Captain",
+          "text": "This is the only speakeasy in the states that has never been given a shakedown. It's said that Forget Me Not, owner of the speakeasy, can make a potion drink which is not alcoholic until people drink it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Special Action Team Captain",
+          "text": "From purchasing raw materials, getting a medical store license, distilling, transporting and selling, and ensuring the security together with gangs, we got nothing on them."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Special Action Team Captain",
+          "text": "It welcomes all the marginals, and doles out patronage positions. Through this, The Walden has already cemented itself as the one above all other speakeasies in Chicago."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Did you find out the relationship between Manus Vindictae and him?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Special Action Team Captain",
+          "text": "No. His document was edited purposely, but we can be sure that he is from this era."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Special Action Team Captain",
+          "text": "However, we found that the time he made contact with the politicians was close to the beginning of the unusual boom of the domestic financial market."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Special Action Team Captain",
+          "text": "Since then, you can't talk about arcane stock trading without mentioning The Walden."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Forget Me Not",
+          "text": "Alright, my friends!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Forget Me Not",
+          "text": "Shh."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Forget Me Not",
+          "text": "We are about to have a taste of tonight's appetizer."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Forget Me Not",
+          "text": "Let's welcome our fighter of the year! The defender of the undefeated honor of knocking out ten consecutive arcanists and human challengers!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "It's her?!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "All Guests",
+          "text": "*cheering*"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Forget Me Not",
+          "text": "Then, which guest will have the honor to be the challenger of the duel?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Guest I",
+          "text": "A million dollar coupon! You get beat the crap out, and lie on bed for two months. Worth it!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vip Guest",
+          "text": "Haha, I prefer betting. Maybe I can get a Hamptons' villa!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Forget Me Not",
+          "text": "The fate of this challenger, we let the spotlight decide."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Forget Me Not",
+          "text": "The spotlight chose you, lady with a top hat."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "S**t!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "All Guests",
+          "text": "What a lucky guy!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "All Guests",
+          "text": "Come on! Get on the stage!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Forget Me Not",
+          "text": "I give you, Schneider, the defending champion of last year, and the Timekeeper from St. Pavlov Foundation, Ms. Vertin."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Special Action Team Captain",
+          "text": "S**t! They got our intels too?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "... I'm going. Don't worry."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Forget Me Not",
+          "text": "And now, let the duel begin."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Schneider",
+          "text": "Heh heh, long time no see, Ms. Governor."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Schneider",
+          "text": "It seems my lord would like to see me kill you myself. He has even created such a chance on purpose."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Schneider",
+          "text": "Pap."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Schneider",
+          "text": "Oops, I missed it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Schneider",
+          "text": "Come on. Why do you have to waste your life? Are you here to enforce justice of the Foundation?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Schneider",
+          "text": "Pap."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Schneider",
+          "text": "The Foundation obviously has no justice. You don't even dare make the \"Storm\" public."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Schneider",
+          "text": "Turn down my \"families\" with ridiculous lies. Is that your so-called justice?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Schneider",
+          "text": "Pap, pap, pap."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Schneider",
+          "text": "The fragrance of orange blossom on her suddenly opens out in the air."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "You've been there? The scent of orange on Sonetto's mission capsule ... That's why you can hijack the hostages outside the parking?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Schneider",
+          "text": "Heh heh ... There is no shelter there for me. Then all I can do is to complete the tasks for my lord."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Schneider",
+          "text": "Oops, I just lost my focus. I will become serious now!"
+        }
+      ]
+    },
+    {
+      "script_id": "100117",
+      "internal_title": "第一章1-12.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "Guest",
+          "text": "Whoooah! I'm gonna raise! Just on that Ver-Ver-Ver-whatever!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vip Guest",
+          "text": "Come on! The champion! I bet all my money on you!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Thomas",
+          "text": "Ah, the Dow rockets to 381.17?! Then I-I add 5,000 more!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Schneider",
+          "text": "Aha. Nice! Nice! Ms. Governor, you're much better than I thought."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Schneider",
+          "text": "Not like the little punks in the Foundation."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Why did you go to the Foundation? Can't the Manus give you what you want?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Schneider",
+          "text": "Heh heh, of course it's because we, the ones sifted out by the \"Storm,\" want ... to live."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Schneider",
+          "text": "The \"Storm\" is about to fall. Who cares whether the shelter is the eave ... or the rubble?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Schneider",
+          "text": "Before finishing her words, Schneider attempts to chop Vertin on the neck with her hand."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "What if I say, I can provide you with the shelter?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Schneider",
+          "text": "…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Schneider",
+          "text": "Her hand halts in the air for a second. Yet eventually, she decides to point the pistol toward Vertin."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Schneider",
+          "text": "The person who said this to me last time is just sitting behind us watching the game."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Schneider",
+          "text": "Pap! Pap!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Thomas",
+          "text": "Huh? The trend is falling by 31 points. Is it me or ...?"
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

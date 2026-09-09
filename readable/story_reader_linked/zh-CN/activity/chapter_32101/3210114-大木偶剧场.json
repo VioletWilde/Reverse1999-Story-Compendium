@@ -1,0 +1,794 @@
+{
+  "episode_id": 3210114,
+  "chapter_id": 32101,
+  "chapter_title": "迁流的盛宴",
+  "display_label": "",
+  "title": "大木偶剧场",
+  "subtitle": "把血和死者都端上来吧！演员与观众一起晕倒才算是好戏剧！",
+  "trails": [
+    {
+      "element_id": 3210105,
+      "owner_episode_id": 3210114,
+      "trigger_episode_id": null,
+      "title": "迷思之海",
+      "description": "让我们为最新的研究突破鼓掌欢呼（别忘了祝酒）。",
+      "action": "交互",
+      "unlock_condition": "EpisodeFinish=3210114",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "一份记录"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一切事情都正在发生。\n    所有的占卜、预言、思想，以及那些似曾相识的感受，梦，都并非偶然。\n    打个比方，其实存在一个跨时间、跨空间的宝库。爱与恨，好运或者厄运，古老的原型和传说，都存放其中。我们本来永远没有机会踏入，但是，感谢引导之人与“暴雨”为我们带来的无数奇迹。这个真实存在的意象宝库，也就是现在被正式定名的“迷思海”，如今已经可以被我们观测到。\n    也感谢某位前人的研究和冒险，让我得以接触这些信息，她的牺牲和探究精神值得我们尊敬与效仿，希望各位都能向她学习。\n    ……"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "203221",
+      "internal_title": "【3.2】迁流的盛宴14.1",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "需要预约的高级餐厅或许不适合探险之后的晚宴。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "没有释放压力的畅饮与欢谈声，所有人都在礼仪的约束下用餐。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "室内唯有微弱的交流声，以及刀叉与餐盘碰撞的交响。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "你没法用单手切牛排的，先放下项链吧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "没有关系，就这样就行，不能再弄丢它了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "右手的餐刀机械式地劈砍着牛排，不协调的敲击声在雅静的餐厅内回荡。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "直到瓷质餐盘的边缘出现裂缝，肌肉才终于断开，但仍有筋腱相连。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "该死的，快些分开。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "我来帮你。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "……不必了，这是我的事情。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "闲谈期间，身旁餐桌的食客走上前来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阴郁的少年",
+          "text": "贝丽尔女士，好久不见。您果然也在巴黎。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "你还在寻找遗失的命运吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阴郁的少年",
+          "text": "我……我不知晓，贝丽尔女士。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阴郁的少年",
+          "text": "也许如您所言，命运本身只是无常的水流，赋予其意义只是一种无稽之谈。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阴郁的少年",
+          "text": "但我仍想进行……一些无用的尝试。我们总能找到办法的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阴郁的少年",
+          "text": "不提这些了。听说劳伦·罗西先生在起死回生术上有了成功的尝试。也许我们都离掌握命运更近了一步。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阴郁的少年",
+          "text": "对了，您身边的这位女士是？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "她是我之前提到的，站在水流交汇处的人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "阿黛拉，这位是我的一位老主顾。我们都叫他“蜂鸟”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "……你好。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "蜂鸟",
+          "text": "原来是你。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "蜂鸟",
+          "text": "阿黛拉女士，您现在感觉如何？是否时常看见不属于尘世之人的身影，听见那些遗失的声音？你是否仍是你自己？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "你在说什么？我无法理解。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "少年细心地注意到阿黛拉异常的举动。片刻后，他端来了另外的食物——一碗炖土豆泥，以及一碟马卡龙。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "蜂鸟",
+          "text": "比起牛排，也许您会更喜欢这些。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "右手放下了握着的刀，在两个瓷盘间摇摆，最终接过了那碟马卡龙。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "味道不错。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "可惜还是拉杜丽的出品要更好些。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "算不上褒奖的话语，但手并没有就此停下。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "蜂鸟",
+          "text": "演讲就要开始了。贝丽尔女士，或许我们可以之后再聊聊。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "老主顾回到了自己的餐桌，那一侧的客人们纷纷向此处致意，或许那儿是老主顾集会。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "罗西那家伙，究竟在捣鼓些什么？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "他有一个重大的好消息要宣布，事关他一生努力的成果。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "你瞧，他已经换好了衣服。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "罗西教授",
+          "text": "各位同胞，今天我们聚集在此，只为了庆祝一个伟大的发现。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "罗西教授",
+          "text": "一个属于神秘学家的伟大发现，人类注定无法窥探的秘密。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "刻薄的老妇人",
+          "text": "够了，不要再进行无意义的问候了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "刻薄的老妇人",
+          "text": "我远道而来，绝不是为了欣赏你浮夸的演技，你找到的起死回生术呢？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "罗西教授",
+          "text": "不必急着扮演不解风情的责问者，阿尼姆斯。我会讲的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "罗西教授",
+          "text": "自1999年之后，我们对被应许的世界的追寻就不曾停止。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "罗西教授",
+          "text": "我们在引导之人的意志下不断揭露“暴雨”之后的奥秘。无数同胞为此献身，他们的生命化作种子，为我们带来丰收。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "罗西教授",
+          "text": "这注定是条漫长的道路，但请想想吧，回到应许世界的形式难道只有“暴雨”？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "罗西教授",
+          "text": "而且，在座的各位，包括我，难道我们理想中的应许世界都一致吗？难道不是只有基金会驯养的狗才会怀揣完全一致的思想？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "罗西教授",
+          "text": "比起利用“暴雨”在注定有瑕疵的物质世界中挣扎，由迷思海将集体的理想化为现实，不是更可靠吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿尼姆斯",
+          "text": "这是你第二次用这套说辞了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿尼姆斯",
+          "text": "展示你的新成果，不然你什么都别想从我这儿得到。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "罗西教授",
+          "text": "你太急躁了，阿尼姆斯，我当然准备了新的内容。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "罗西教授",
+          "text": "我们发现了打开迷思海的方法，成功借此实现了一个奇迹，一个起死回生的奇迹！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "教授在众人的目光中走向宴会厅的一角。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "反复取用着马卡龙的右手在投来的视线中停下，优雅地抓起餐巾。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "罗西教授",
+          "text": "当我们的灵与肉同时处于迷思海中时，肉体可能会消亡，会沉沦其中，会陨落，会被吞噬。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "罗西教授",
+          "text": "但灵并不会消亡。在灵性的世界中，意识才是真正的物质。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "罗西教授",
+          "text": "凡庸的现实不过是迷思海的降格，只要意识仍存在迷思海中，就能无数次归来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "罗西教授",
+          "text": "费利西安就是意识能直接化为现实的最好证明！曾经肉体死亡的她，如今再次回到了这里！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "罗西教授",
+          "text": "——让我们欢迎她以更纯粹的灵性姿态复生！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "怎么了，罗西？你究竟想表达什么？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她放下餐巾，站起了身。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "罗西教授",
+          "text": "哦，费利西安，你还没清醒过来吗？说点什么吧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "难道你不知道我是谁？还要劳烦我来做自我介绍？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一旁的占卜师投来关注的目光，而那目光的焦点却不在宴会厅的任何一角。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "你还好吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "这是我的事，贝丽尔，如果你再像这样怜悯我，我会当作受到了侮辱。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "咳哼。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她端起了桌上的红酒杯，举至胸前。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“费利西安”",
+          "text": "我，费利西安，雷电的祭司，太阳王的宠臣，引导之人忠实的追随者。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“费利西安”",
+          "text": "于此刻，宣布自己战胜了命运与死亡。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“费利西安”",
+          "text": "我从迷思海中归来，只因为我是我，而不是罗西的那些失败的学徒。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“费利西安”",
+          "text": "罗西的演讲似乎在说这是他的研究成果，真是恬不知耻。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“费利西安”",
+          "text": "你们总是这样，蒙受我和引导之人的恩惠却不自知，甚至引以为傲。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“费利西安”",
+          "text": "难道你们不懂什么叫作谦逊？这等小偷行为，我真该赐死你，罗西。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“费利西安”",
+          "text": "不过我慷慨又宽容，就放过你吧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“费利西安”",
+          "text": "而且我也宽恕你们所有人未向我祝酒就用餐的无礼！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“费利西安”",
+          "text": "祝健康！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "蜂鸟",
+          "text": "这……真是一项不可思议的奇迹。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "蜂鸟",
+          "text": "起死回生，这果然是能够实现的吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "巨大玩偶",
+          "text": "引导之人的要求，起死回生术，这个怎么样？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿尼姆斯",
+          "text": "胡闹。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿尼姆斯",
+          "text": "你操控一个无关者的思想，让她相信自己是费利西安，还把这称为复生的奇迹？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿尼姆斯",
+          "text": "真是亵渎了奇迹二字，我以后该用什么词去赞颂引导之人的伟业？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小巧的女孩",
+          "text": "还有另一种声音……不属于费利西安的声音……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "冷淡的女性",
+          "text": "此时并无质疑的必要，稍后审问吧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "冷淡的女性",
+          "text": "有些事必然只有真正的费利西安知晓。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "蟹脸男",
+          "text": "精神化为物质？但若费利西安的神秘术无法归来，任何复生都毫无意义。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "蜂鸟",
+          "text": "在我们找到足够优秀的炼金术师之前，这的确是炼制“不老泉”之外的一个合理的方向。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "蜂鸟",
+          "text": "但这个方法似乎仅限于迷思海内死亡的死者。也就是说，必须确保死者在迷思海里存有“母本”……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "蜂鸟",
+          "text": "也许我们可以在“暴雨”到来前，全面打开迷思海的缝隙，让整个时代的所有人都被储存进其中？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "角落中微弱的声音打断了激烈的辩论。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "女性的画像",
+          "text": "伙伴们……我们是不是应该先庆祝费利西安的归来？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "女性的画像",
+          "text": "哈哈，虽然她的变化真的很大。和之前“判若两人”……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "蟹脸男",
+          "text": "确实，新躯壳太过贫贱，与她的气质不合。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“费利西安”",
+          "text": "这已经是我的身体了，注意你们的语气。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“费利西安”",
+          "text": "阿黛拉并不穷酸，她只是缺乏欣赏美的眼睛，我早就说了她不该做出租车司机。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“费利西安”",
+          "text": "虽然这确实锻炼了她察言观色和讨人欢心的能力。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“费利西安”",
+          "text": "但也使她不像她的先祖，少了宝石猎人应有的审美。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "女性的画像",
+          "text": "嘿，费利西安，你的右手还好吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“费利西安”",
+          "text": "我好得很，怎么了？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "女性的画像",
+          "text": "它正在颤抖……你怎么了？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "超出了主人的控制，右手擅自将酒泼向了自己的面庞。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“费利西安”",
+          "text": "阿黛拉！你这无礼之徒！"
+        }
+      ]
+    },
+    {
+      "script_id": "203222",
+      "internal_title": "【3.2】迁流的盛宴14.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "嘶……呼！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "仿佛被凉水从睡梦中浇醒，她用力深呼吸后观察起周遭，然后惊觉。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "身边是属于异形和怪人的动物园，而自己才是被观赏的动物。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "你们……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "重塑之手！你们把我带到这儿想要做什么？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她理解了自己的处境，突然的紧张感令她握紧手中的钻石，血和酒一同淌下指缝。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "……收起你们的神秘术！火渡船！还有歌唱家！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "再敢动一下我就把你们变成焦炭！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "女性的画像",
+          "text": "费利西安……冷静些，这是为你办的宴会……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "闭嘴，你这个储藏室！谁给了你开口的资格？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "女性的画像",
+          "text": "呜……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "巨大玩偶",
+          "text": "她好凶，她真的是费利西安。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "真是感谢你的指认，假想敌。需不需要我指认下玩偶里面的人是你？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "一群失败者、小孩，再加上快要死的老古董与白痴学者就想与我为敌？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "快给我把路让开！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "罗西教授",
+          "text": "在费利西安的意识进入合适的躯体后，旧意识仍会偶尔进行抵抗。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "罗西教授",
+          "text": "导致二者的记忆与思考混合，表现出精神错乱。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一旁的教授拿着惯用的笔记本记录着面前的一切。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "劳伦·罗西……你果然和重塑之手勾结！你在骗我，西莉亚说的都是真的！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她努力展示敌意，换来的却只有好奇与观察的视线。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "从这场宴会开始，没有人提过重塑之手这个名字。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "刚才被你叫到名字的人，有些完全没有做过自我介绍。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "但你却认识他们，了解他们的身份。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "休想再唬骗我，贝丽尔。西莉亚已经告诉了我一切……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她终于意识到了逻辑上的漏洞。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "……也许西莉亚并没有说这么多……但她确实说了！是重塑之手杀了她！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "是罗西，还有费利西安，杀了她！你们都是危险的重塑之手……你们……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "你应该面对真相。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "你又想说什么？我说了我不会再被你骗……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "你确实杀死了西莉亚。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "在意象宝库与现实的交叠之处，你亲手所为。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "什，么？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "你又为何要为这真相愤怒呢？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她开始思考，思考如何证明自己不是另一个人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "或许根本不应该听进这些疯子的话语，直接用这双手撕开他们。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "从这个多嘴的女人开始，撕开一条道路，回到车上，然后离开，然后……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "宴会以一场闹剧收尾，所幸宾客们都习以为常，迟来的服务生开始打扫现场。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "教授跨过破碎的玻璃与瓷片，来到贝丽尔的面前。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "罗西教授",
+          "text": "费利西安可真是大闹了一场，我们的同胞在这时却总爱当旁观者。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "罗西教授",
+          "text": "还好您的预言从不出错。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "罗西教授",
+          "text": "等到费利西安醒来，我们就按照之前的计划行动。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "罗西教授",
+          "text": "用法兰西之蓝作为迷思的起点，呼唤出真正完美的，由人群选出的巴黎。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "罗西教授",
+          "text": "那个没有被任何外力干涉，存在于所有人理想中的巴黎！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "在这座城里，一切都有可能。我甚至见过巴黎在燃烧呢。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "贝丽尔只回应了一句不着边际的答复。她始终望着餐厅敞开的大门，然后没有再说话。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "教授瞥了一眼贝丽尔握在手中的灵摆，猜测她又陷入了某种占卜带来的恍惚，没有再多打扰她。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "预言是一项令人崇敬，也令人敬而远之的能力。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "罗西教授",
+          "text": "一旦明天的太阳升起，我们就去埃菲尔铁塔进行最后的仪式。"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

@@ -1,0 +1,898 @@
+{
+  "episode_id": 3110115,
+  "chapter_id": 31101,
+  "chapter_title": "The Midnight Whistle",
+  "display_label": "",
+  "title": "Lark Cake",
+  "subtitle": "Light as the wind, soft as a dream.",
+  "trails": [
+    {
+      "element_id": 3110111,
+      "owner_episode_id": 3110115,
+      "trigger_episode_id": null,
+      "title": "Meaningless Questions",
+      "description": "You don't understand. He doesn't understand. No one does. We all drown in our own confusion.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=3110115",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Another near-drowning. How nostalgic."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Take it easy. You can't move yet. Just stay right there and listen to the report."
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "Wasn't the last one the \"final\" report?",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Urgh …"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Okay. You win."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "You did it, noble savior. You turned the tide and saved the world at the last moment."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "And I didn't see it coming. There. Are you satisfied? Can we get to the report now?"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "It's your loyal greyhound licking your wounds. She's doing whatever she can to wake you up—another metaphor, of course. I'm sure I don't need to explain it."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Just another reason not to wake up yet. The salt water will get in your eyes ..."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "And that'll just be embarrassing for everyone. So you just keep lying there and listen to me."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "You almost drowned again, but not because you're a bad swimmer."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "No, it's because you'd rather die than let that spinning wheel go."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "But a spinning wheel is a spinning wheel, no matter how precious the thread it spins is—and you already have one."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "What's the use in having two? You're the only spinner, after all."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "And even if you tear it apart, its broken components can't be used to fix yours. Just because two things look alike doesn't mean they're interchangeable."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "This is a universal truth. Not just for spinning wheels, but for animals, fathers and sons—mothers and daughters."
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "I need to wake up.",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "Just wait a moment longer. The greyhound's looking for your hat."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "This is the only thing she can think to do besides first aid measures."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "It's cute, isn't it? Seeing her so naive and superstitious. We should play along for a little longer."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "Sure, you deserve a moment of quiet, savior."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "Forget about the mess out there. Take a break."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "Don't rest for too long, though. The greyhound's on her way back with your hat."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "If you're not awake by the time she arrives, there's no telling what she'll do."
+                }
+              ]
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "I'm done talking. Leave me alone.",
+              "edge_label": "",
+              "branch": []
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "My cheek feels warm.",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "203120",
+      "internal_title": "【3.1】长夜鸣笛15",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Maggots—so many of them—wriggling, squirming, biting."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "I know they've rotted away, that their bodies have melted into the mud. I know that."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Still, I remember a face—her face."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Pressed into the ground, red with blood, black with mud and rainwater, but still, I saw the warm brown of her eyes."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "They looked at me, they wept, until her breathing stopped, and the tears turned dry."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "\"The Face\"",
+          "text": "Go."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "\"The Face\"",
+          "text": "Run for your life."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "That's all she said, like they were the only words she could remember."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Young Rubuska",
+          "text": "No. I don't want to."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Young Rubuska",
+          "text": "I don't want to leave you, Mама."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "\"The Face\"",
+          "text": "Go ... Run ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "\"The Face\"",
+          "text": "You must go."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Run, Buska!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "RUN!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Those words never left me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "I hear them whenever the light gets low, just as I'm about to fall asleep, or as I run through the woods with everything I have. It's like a second shadow, one that covers me entirely."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Young Rubuska",
+          "text": "Мама ... No ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "I cried. I bawled. What else could I do?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Run. That's what."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "As far as I could. As fast as I could."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "And I buried the screams. Buried the gunshots. Buried her face deep in my memory."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "And never looked back."
+        },
+        {
+          "kind": "title_card",
+          "text": "Cemetery at Dusk"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Young Rubuska",
+          "text": "There you go, Dad."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Young Rubuska",
+          "text": "Now, Kolyo!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Young Rubuska",
+          "text": "You've grown a lot, haven't you?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Young Rubuska",
+          "text": "Okay. *pant*"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Young Rubuska",
+          "text": "And last ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Young Rubuska",
+          "text": "It's your turn, Mама."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Young Rubuska",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The guns and the strangers who wielded them have gone for now, leaving behind fields caked with blood and bodies lost to eternal slumber."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "When all settles, the village is nothing but a scorched ruin."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The girl buries her family together in a nameless pit."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Father, mother, and little Kolyo lie neatly arranged, like porcelain dolls on a bed of dirt and leaves."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Young Rubuska",
+          "text": "Why are you all sleeping? It's still light out."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Young Rubuska",
+          "text": "I don't want to be the only one awake. Let's all fall asleep together, alright?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She lies down with them, curling close to her mother, pulling a stiffened arm around her chest."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Young Rubuska",
+          "text": "This is nice, like when I was little, and you used to hold me, Mама. When we wake up, will you comb my hair?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Cold fingers tangle in her hair, yet in her mind it feels like comfort."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Young Rubuska",
+          "text": "Mама, tell me a story, would you? Please? I know you've told the vampire story a hundred times, but just once more, please."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Young Rubuska",
+          "text": "\"In the light of the blood moon, they rise and stride under the veil of night.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Young Rubuska",
+          "text": "\"Freely, they live, without fear of death.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Young Rubuska",
+          "text": "\"For through blood they live forevermore.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her breath is shallow. Consciousness slips away with whispered stories as her eyes close, and she falls into slumber."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Because blood is life."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Young Rubuska",
+          "text": "Because blood is life!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Young Rubuska",
+          "text": "That's right! As long as they drink blood, vampires can rise from their graves and live forever!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The girl bolts upright, pallid face glowing with a strange light."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She bites her finger and smears the flowing blood over her mother's lips."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "For a moment she believes in miracles."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The blood beads on cold lips, glowing like red agate, lighting up death's grim mask."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Young Rubuska",
+          "text": "...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The girl smiles with delight."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Young Rubuska",
+          "text": "Yes, good, Mама!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Young Rubuska",
+          "text": "A little for Dad, too, and for Kolyo."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Young Rubuska",
+          "text": "All set!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She smears thick, almost comical streaks of blood across her family's lips."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Young Rubuska",
+          "text": "Yeah, we're just like the story!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Young Rubuska",
+          "text": "Dad, Mама, Kolyo, and Rubuska—a vampire family!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Young Rubuska",
+          "text": "That's why Mама likes to wear lipstick. It's just like blood."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Young Rubuska",
+          "text": "Here, have a little more, Mама."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She caresses their faces tenderly."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Young Rubuska",
+          "text": "Am I a clever girl? I figured it out. Now, we'll all wake up soon, right?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Young Rubuska",
+          "text": "I know it might take a while, but I'll wait."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Young Rubuska",
+          "text": "Don't worry. I'll be right here, watching over you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A breeze lifts. A bird's cry drifts in from afar."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The girl looks toward the scarlet-red sunset, sniffs, and raises her tiny fist to the sky."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Young Rubuska",
+          "text": "Don't even try to touch my family, you hear me?!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Young Rubuska",
+          "text": "I'm Rubuska the vampire, descendant of Dracula himself!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Young Rubuska",
+          "text": "I'll rise in the light of the blood moon and stride under the veil of night!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Young Rubuska",
+          "text": "I'll live freely, without fear of death!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Young Rubuska",
+          "text": "I'll watch over my blood forever and ever—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Young Rubuska",
+          "text": "—forevermore!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her vow is sharp and unyielding, the fiery voice of a young but powerful child of an ancient and noble vampiric bloodline."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Liar."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Young Rubuska",
+          "text": "Huh? Who's there?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She looks down again, and the illusion breaks. Cold blood dries on rotting faces. Their mouths bent into grotesque smiles."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Young Rubuska",
+          "text": "Who are you?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Young Rubuska",
+          "text": "Kolyo! What happened to your clothes? Mама's going to be mad at you!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Their eyes are milky and puckered dry, bodies cold and sagging, gray faces gaunt—blood-soaked and tattered clothes the last vestiges of their identities."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Young Rubuska",
+          "text": "Mама, Mама, Mама, wake up. Please, please hold me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Young Rubuska",
+          "text": "No! NO!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Young Rubuska",
+          "text": "Mама! Dad!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She screams, ripping cloth, scrubbing furiously at their faces, but the flesh gives way like ripened cheese."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Young Rubuska",
+          "text": "No! You're not dead. We're vampires! We can't die!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her rough wiping tugs at their mouths, baring smiles soaked in blood."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Hahahaha ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Laughter swells, spilling from red lips, from the sky, from the corpses, howling, echoing, like a thousand bells ringing at once."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Lies! All of it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Red eyes, fangs, the resurrection of our family—all lies!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Young Rubuska",
+          "text": "No ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Terrified, she runs toward the distant red sun."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "No matter how far she goes, the laughter seems to chase her."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Off you run! Hahaha."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Go, run, Rubuska!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Run!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Rubuska jolts awake from a deep sleep."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "It's not a lie."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her heart slows. Her eyes adjust to the dark."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The stench beside her is revolting and bitterly familiar—death, mixed with fuel and smoke."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She turns her gaze and meets another face, swollen and bluish."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A corpse, stiff and cold. Black veins coil beneath its pale skin like twisted branches of a dead tree."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her eyes follow the body upward until they freeze on a face she knows—one she has seen before, back at the snowbound station."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Passenger I",
+          "text": "No, no, not precisely, but many like it. Vampires, werewolves, wild beasts, and monsters."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Passenger I",
+          "text": "It's always the same story about the powerful consuming the common folk. Heh, storytellers have always been good at making their points one way or another."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "It's that old man from the train station."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The irony of his warnings is a bitter mix of comedy and tragedy."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "You are awake."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A shadow in the corner stirs, taking the shape of a looming man."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "Thirsty?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "You-you're that officer. What is all of this? Did you ... Did you kill these people?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Pyrrhos ignores the questions."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The rag drags across the floor with a heavy scrape, tossed casually to Rubuska's feet."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "I'm afraid I haven't been a very good host, and alas, our water supply has run dry. Blood, however? Well, we've got plenty of that."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Pyrrhos extends his hand, long blackened nails stroking the corpse's wrist with a vile tenderness."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "Drink up, Little Miss \"Vampire.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Blood runs down Rubuska's hair, lashes, eyes, nose, finally her mouth."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "*cough* Blrrrghh!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her nose fills with the stench of blood. She collapses halfway to the floor, retching violently."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Stew, frozen berries, honey bread, lark cake ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Everything she's eaten pours out with each spasm, mingling with the foul blood and shredded organs on the ground."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "Not so demure at the table, are we? *tut* How embarrassing. I knew you weren't one of us."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "*pant* You ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She lifts her pale face and meets the man's horrid gaze."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "His eyes are pure crimson, flawless, like a sea of blood flowing under moonlight."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "An undeniable bloodline. An undeniable identity."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "You're a vampire, too?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "Through and through. But you? It seems not to be so."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "Still lost in your dreamland, little imposter?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "Don't call me that."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "My family—my blood—they'll rise from the grave soon, you'll see! We'll be together again."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She chokes and swallows the blood until her face and body are smeared with scarlet."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A lie—that day will never come."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "Hahahaha ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The man cackles."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "Aren't you a sorry little thing? It almost stirs something in this useless old heart."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "In fact, I've almost come to like you. Tell you what, I could make your wish come true."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "My wish?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "His blood-red eyes gleam with unfathomable danger."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "You heard me. I can help you ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "Become a real vampire."
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

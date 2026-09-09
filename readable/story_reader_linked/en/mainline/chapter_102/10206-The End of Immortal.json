@@ -1,0 +1,414 @@
+{
+  "episode_id": 10206,
+  "chapter_id": 102,
+  "chapter_title": "Tender is the Night",
+  "display_label": "",
+  "title": "The End of Immortal",
+  "subtitle": "It helps the deceased find their way to the afterlife to keep them from lingering in the mortal world and away from the living.",
+  "trails": [
+    {
+      "element_id": 1020601,
+      "owner_episode_id": 10206,
+      "trigger_episode_id": null,
+      "title": "Trail ① Clean up",
+      "description": "A tricky clean-up. This is the aftermath of a long-lasting brutal battle. Use the proper moves to liberate them.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=10206",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1020602,
+      "owner_episode_id": 10206,
+      "trigger_episode_id": null,
+      "title": "Trail ② Clarification",
+      "description": "A critter waiting for the latest news. He seems calmer than before. His cousin has read his flyer in the land filled with gold.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=10206",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "Gold Beam In Your Eyes"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "FRENZ! Dun make that call yet!\nMebbe ... juz mebbe we got it all wrong! Hoomans are not all baaaaaad! Please beleaf me! My bruh's sister's neighbor's aunt saw wif her own eyez that\nHOOMANS ARE EATING GOLD!\n\nGOLD! Real gold!\nAnd green papers too! They're eating c-c-c-CAAAASH! They're eating the terriball, painful, and hateful GOLD! They ate and they swallowed! They used fire and knives to cook and cut it, but it still broke their TEEEETH!\nI muss tell everyone about this KWIKLY! It changed my mind about hoomans!\nIt's time! Time to cast aside our PRE-JUDISS!\n\n- Thanks to Megrez δ Potion Atelier's special mix - Magic Translation and Imaging Formula (Basic). Contents are for references only -"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1020603,
+      "owner_episode_id": 10206,
+      "trigger_episode_id": null,
+      "title": "A Door on the Trail to the Garden",
+      "description": "A wooden door entwined with thorns. Don't touch it. The thorns will hurt anyone, including the wooden door itself.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=10206",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "Outside the Garden Walls"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Running from one crowd to another\nHopping from one ship to another\nThe green bud finally breaks the dark winter\nLet the snow melt and the fires die\nPush open the narrow door to snow covered garden\nLet bygones be bygones\nLet the future be itself\nThe sparrows of spring celebrate after a long wait\nWhispers of the oak forest sound like faint breaths"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100210",
+      "internal_title": "第二章2-6.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "The End of Immortal"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Forget Me Not",
+          "text": "Ms. Vertin doesn't seem to have any appetite."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Forget Me Not",
+          "text": "Or, do you too, wonder how gold bar steak with wine and boiled silver coin tastes?"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "So is it the symptom for the Storm Syndrome this time?",
+          "edge_label": "这就是这次暴雨症候的表现？",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "Forget Me Not",
+              "text": "Storm Syndrome? That's how you call these pernicious habits from the old society?"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "Forget Me Not",
+              "text": "Sounds like ... the Foundation are so satisfied with how the old society works that you call the current situation a \"syndrome\"."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "Vertin",
+              "text": "..."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "Vertin",
+              "text": "The Storm Syndrome turned money into food in people's eyes ... It's so ridiculous."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "You don't need to do this.",
+          "edge_label": "你们没必要这样做",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "Forget Me Not",
+              "text": "No, you wronged us. We didn't do anything but wait."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "Forget Me Not",
+              "text": "This is just the \"mutation\" before the \"Storm\". Nothing else. You know it very well."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "Vertin",
+              "text": "And this \"mutation\" has turned money into food in people's eyes ..."
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis Ⅲ",
+          "text": "How did they eat those gold bars?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis Ⅲ",
+          "text": "It is not easy to cut them off."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Forget Me Not",
+          "text": "Of course not. Gold is no meat or vegetable."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Forget Me Not",
+          "text": "But humans, yes, they are impressive. They had somehow worked out a brand new set of tools dealing with the new \"food\"."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Forget Me Not",
+          "text": "A parer that can pare the rough surface of the gold like a potato; a spray gun that can melt bullion within seconds; a cutting board that can prevent cash from scattering all over the place ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Forget Me Not",
+          "text": "There are even cold drinks made from melted Statue of Liberty, for only 50 cents ... Haha, I can't help laughing."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis Ⅲ",
+          "text": "But the milk ... was mostly dumped."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Forget Me Not",
+          "text": "It's not food anymore. I can't experience the lives of people who were sifted out by the \"Storm\", but I wonder, for them ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Forget Me Not",
+          "text": "What do they do for eating? For paying?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Forget Me Not",
+          "text": "In the \"Storm\", the thing that dominates their lives is still money. How could it be more ridiculous for the time!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Why do you blame them? In the \"Storm,\" there is no life."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis Ⅲ",
+          "text": "No life ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis Ⅲ",
+          "text": "You look very sad, Miss Vertin. I do not understand."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "You look very sad, Miss Vertin. I do not understand."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "This burnt branch ... should have come from a rowan tree, right?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "I have seen this tree in Ireland and southwest England. It is often called \"Quickbeam,\" derived from Old German ... means \"stay alive.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Rowan is full of vitality. Even if it is transplanted from Europe to North America, it grows vigorously and stretches into a vast forest."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "In the most dangerous days in the Celtic calendar, people would wear garlands and berries of rowan to pray for its blessing for vitality."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "However, an unexpected fire destroyed all of them."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Just like the \"Storm.\" It's there for no reason."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Forget Me Not",
+          "text": "I suggest you stop talking."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "People, like this branch, whose life was brutally terminated, they worked out new tools, they tried to eat the softened gold bars, and sold the food that's no longer valuable ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "People worked so hard to understand life with their own logic ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "because they just want to live as much as possible, but not go back in time."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Forget Me Not",
+          "text": "Watch your mouth, Vertin!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis Ⅲ",
+          "text": "But ... going back in time ... why isn't it real life?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Is this little rowan branch really alive, Ms. Druvis?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "You used arcanum to keep it at the moment when it was burned."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis Ⅲ",
+          "text": "...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Once you dispel the arcanum, it would not be what it is now. I think you are clear, Ms. Druvis, that ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Every tree lives for tomorrow."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Forget Me Not",
+          "text": "Enough! How abominable ... This is not where you can give your speeches and such clichés."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Forget Me Not",
+          "text": "Since you are still being such a bureaucrat …"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Forget Me Not",
+          "text": "Why not let our believers help you get used to the Manus' manners."
+        }
+      ]
+    },
+    {
+      "script_id": "100211",
+      "internal_title": "第二章2-6.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Uggh ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Forget Me Not",
+          "text": "Ugh ...! How dare you!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Forget Me Not",
+          "text": "The vase shatters into pieces during the chaos."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Forget Me Not",
+          "text": "The deadwood falls out, and surprisingly shows a touch of green as if the incantation has been dispelled."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Forget Me Not",
+          "text": "You should not touch other's belongings. Look what you've done!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis Ⅲ",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis Ⅲ",
+          "text": "I heard that ... rowan was often planted next to the Welsh cemeteries, because it would guide the deceased to the next life, so as not to stay in the world and haunt the living."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis Ⅲ",
+          "text": "But I was hoping ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis Ⅲ",
+          "text": "Never mind. The arcanum is dispelled."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis Ⅲ",
+          "text": "I don't like things being touched by others. Take it away."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "... Alright."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Only two are left at the large dining table."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Forget Me Not",
+          "text": "That branch, you've treasured it for a long time. Is it alright to just give that to her?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis Ⅲ",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis Ⅲ",
+          "text": "You asked me to stay. Is there anything you would like me to know?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Forget Me Not",
+          "text": "... Yes. I've received an instruction from the Guiding One."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Forget Me Not",
+          "text": "Our next plan concerns you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Forget Me Not",
+          "text": "Follow me."
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

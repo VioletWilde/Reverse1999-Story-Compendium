@@ -1,0 +1,620 @@
+{
+  "episode_id": 10803,
+  "chapter_id": 108,
+  "chapter_title": "忧郁的热带",
+  "display_label": "",
+  "title": "牛头人身怪",
+  "subtitle": "顺着线团指引，她找到出路。",
+  "trails": [
+    {
+      "element_id": 1080301,
+      "owner_episode_id": 10803,
+      "trigger_episode_id": null,
+      "title": "一如既往",
+      "description": "世界局势瞬息万变，为此乌龟也要东奔西走。",
+      "action": "交互",
+      "unlock_condition": "EpisodeFinish=803",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "定期调令"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "经总部商议，依据当前世界形势，以及各支部实际状况，现正式宣布以下调令：\n放弃德克萨斯基地，全员撤离。\n伊戈尔同志调往芝诺巴西支部，接任卡洛斯将军担任指挥官。\n其余支部维持现状。\n本次调任为正式调令，已获得人类和平安全理事会批准，即日起生效。\n\n1990.9.22"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100803",
+      "internal_title": "第八章8-03.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "牛头人身怪"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "会客室"
+        },
+        {
+          "kind": "title_card",
+          "text": "会客室"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "地标"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "莫莉德尔，刑场到这儿的路，我想用不着走这么久。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "将军训斥着自己的副官。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她本该在行刑结束后就来照顾基金会的客人苏芙比小姐，但却“擅离职守”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德尔",
+          "text": "非常抱歉，将军。我……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "无需辩解。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德尔",
+          "text": "是！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛佩拉",
+          "text": "是我把姐姐拉去外面玩的，我们真的很久没见面了……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她试图为姐姐打个圆场，但老将军的眼神却让她意识到自己又犯了个错误。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "你在校场上的表现令人印象深刻，洛佩拉小姐。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一个友善的招呼或许能够打破现场冷冰冰的尴尬。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "这位是和我一起来的苏芙比小姐。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "苏芙比微笑着行了提裙礼。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "这是红弩箭。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "飞行员向新的同伴简单行了军礼。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "总部来的，您好，同志。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "看来你在圣保罗过得太自由了，洛佩拉。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "老将军背着手，脸色冷峻，仿佛群山之上覆雪的峰峦，俯视着不受管教的女儿。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "接下来你会负责保护司辰的人身安全，他们有重要任务要去圣保罗。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "听到老将军的安排，洛佩拉点头接受，一旁的红弩箭却发出疑问。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "嗯？她去？头儿有我看着呢。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "嗯……基地需要一位教官，将军向我推荐了你。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "我会尊重你的选择，红弩箭。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "教官？好吧，看来又要错过跟敌人干架的机会了。但训练新兵蛋子，这事儿也挺不错，我服从命令。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她很清楚：这不是老将军的问询，而是一个命令。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "感谢你的服务，中尉。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "老将军对飞行员点点头，微笑着予以感谢。\n随后，他收起笑容，目光转向最年轻的女儿。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "至于你，洛佩拉……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "如果精力过剩，就带客人们回房间去休息。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "老将军一一为在场的各位做出安排。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "红弩箭中尉，请在这儿稍微等等。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "莫莉德尔会给你一些关于基地现状的文件，希望你能尽快投入训练工作。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "老将军身后的副官女士无奈地耸耸肩：一句又一句轻描淡写的命令，最终都会变成她手上的一件件工作。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "飞行员对副官女士投以一个理解的笑容——大伙儿都这样，这就是任务。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "我还有一些军务要处理，就这样。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "将军离开脚步声"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "老将军转身离去，伟岸的高大身姿不久便消失在众人视野之外。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "洛佩拉长舒口气，打个响指，笑着走向门边，回身递来邀请。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛佩拉",
+          "text": "走呗，我带你们逛逛——当心，别跟丢了，这地方像个迷宫，还藏着会吃人的牛头怪呢！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "渐黑"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "黑"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "转场"
+        },
+        {
+          "kind": "title_card",
+          "text": "芝诺基地"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "地标"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛佩拉",
+          "text": "一般来说，我们不建议各位客人在这儿闲逛，不少地方都荒废很多年了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛佩拉",
+          "text": "好吧，其实这儿也没有客人会来。谁会没事儿跑来这么个鬼地方观光呢？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛佩拉",
+          "text": "瞧瞧，这儿花是蔫儿的，草是荒的，石头缝里爬出藤蔓，藤蔓底下又藏着虫子和魔精。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛佩拉",
+          "text": "连纳塔尔的农民见了都得摇头：“天哪，老兄，我宁肯去给撒旦舔屁股，也不想住在这么个鬼地方呀！”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她叼着一根随手捡来的狼尾草，走在前面，聊着这座基地。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛佩拉",
+          "text": "芝诺入驻之前，这里是一位里斯本贵族的城堡。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "旧大陆的影子在这儿随处可见，鬼魂般的十八世纪还附着在大理石柱的每一道刻痕上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛佩拉",
+          "text": "我们哪里都可以去，但只有那座塔不能进去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她指向远方的棕色高塔。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "那座仿自安达卢西亚风格的高耸塔楼矗立着，在烈日之下，像乌鸦盘绕的伦敦塔般阴森。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "那里面有什么？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "苏芙比",
+          "text": "喔～是不是藏着你刚刚说的牛头人身怪！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "苏芙比",
+          "text": "是不是还藏着……芝诺的新型神秘学家士兵……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "苏芙比发散着她的想象力。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "苏芙比",
+          "text": "有公牛的力量、人类的智力，还有能噗噗喷火的嘴和翼蝠蜥蜴的翅膀！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛佩拉",
+          "text": "……这样的怪物我们一般会叫它“奇美拉”，小姐。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛佩拉",
+          "text": "但我想这事情不太可能，塔里面没有公牛的闷吼。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "将军的命令是“不能进去”吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛佩拉",
+          "text": "没错，明文命令就是“不能进去”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "那只要不打开塔楼房门，就不算违反禁令。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "苏芙比",
+          "text": "维尔汀，你是不是想……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "高塔里会有宝藏吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛佩拉",
+          "text": "我得说，伙计们，塔里面真的没有苏芙比小姐形容的那种怪物……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛佩拉",
+          "text": "我接到的命令是带你们回房间。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她眨巴眨巴眼睛——嘿，朋友们，你们不是这儿唯一对它好奇的人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛佩拉",
+          "text": "但要是你们闲逛到塔楼附近，比如被魔精追赶，或者因为清理魔精而不小心追过去……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "庭院里从来不缺爱惹麻烦的魔精，它们总会在该出现的时候出现。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "苏芙比",
+          "text": "哇——！说、说来就来了啊！"
+        }
+      ]
+    },
+    {
+      "script_id": "100804",
+      "internal_title": "第八章8-03.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "苏芙比",
+          "text": "真是吓了一跳！还好它们逃了，呼……呼……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛佩拉",
+          "text": "可不能放任它们这样破坏植被，得清除干净才行！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "洛佩拉驱赶着逃跑的魔精，“不经意”跑向了棕色高塔……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "这只是发生在迷宫中的巧合。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "横切1"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "横切2"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一场长达半个小时的“追捕”游戏，终于到此为止。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "苏芙比",
+          "text": "到底躲去了哪儿呢……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "氛围图"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她认真地找寻着罕见的彩色魔精，直到撞见一扇被柠檬树守卫着的木门。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "它逃进塔里了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一座高塔，一扇木门。门板在石塔底端静静守望，像只打盹的老棕熊。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "刚才看见的塔，就是这儿吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛佩拉",
+          "text": "司辰——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "不能进去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛佩拉",
+          "text": "老爹有命令。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "门就像一颗多汁的蜜桃，一个夏日的诱惑，古旧、腐朽，似乎轻轻一碰就能推倒，却将塔楼与庭院隔绝开。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "苏芙比",
+          "text": "唔，可是为什么不让大家进去呢？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "墙上有抓痕，门上有血迹——兔子血、公牛血、未经祝福的羔羊血。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "风吹起门边柠檬树的影子，空气中弥漫着月桂与桃金娘的淡香。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "伊戈尔将军为什么要把这里封锁起来？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "这是一个术阵。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一个衰弱而古老的术阵。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "指腹划过用公牛血描画的术式，凝成硬砂般的血迹悄悄脱落，断开一个小小的缺口。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛佩拉",
+          "text": "老爹下命令，也没人敢问。我猜是哪个危险的囚犯吧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛佩拉",
+          "text": "前阵子河水淹了地牢，可能是把一些犯人转移到这里来了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "氛围图消"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德尔",
+          "text": "洛佩拉！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "寻找着妹妹的副官女士从身后赶到，为这场小小的“意外”冒险划上句号。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德尔",
+          "text": "你带错地方了，塔楼不是客人们的住所。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德尔",
+          "text": "请回房间吧，外面停靠的那艘游轮明早就出发。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德尔",
+          "text": "请不要在基地闲逛，尤其是没有守卫的地方。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "一切听您安排，麻烦了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "回望棕色高塔，门边的柠檬树结满了酸涩多汁的果实，陈旧的兽血术阵在阳光下显出暗色。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "渐黑"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "木门露出缝隙。阳光下，一只飞虫悄无声息地钻入塔楼。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "门怎么……松动了？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "塔楼之内，唯一的囚犯偷偷听到了门外的对话：外面有艘船，明早会出发。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "听到人群走远，她小心地推了推门，意外发现门上的封印似乎不再生效了。"
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

@@ -1,0 +1,792 @@
+{
+  "episode_id": 2510101,
+  "chapter_id": 25101,
+  "chapter_title": "Showdown in Chinatown",
+  "display_label": "",
+  "title": "Fresh Police Story",
+  "subtitle": "Nothing like a cold welcome to greet a rookie.",
+  "trails": [
+    {
+      "element_id": 2510101,
+      "owner_episode_id": 2510101,
+      "trigger_episode_id": null,
+      "title": "This Is NOT a Business Ad",
+      "description": "What we're looking for: Genuine and passionate individuals! Help us show the world what we do!",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=2510101",
+      "content_hints": [
+        "fragment",
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "We are! The Vigiles Bureau!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "\"Is there an arcanum situation you're dealing with?\"\n\n\"Got a dispute with your arcanist neighbor?\"\n\n\"Don't worry! We're here to help!\"\n\n\"We are—the Vigiles Bureau!\"\n\n\"Committed to upholding the Vigiles Mediation Code! Protectors of peace in every situation!\"\n\n\"Whether it's for you or your local police, we've got your back!\"\n\n\"Next time, leave this to the foundation's PR department. These guys are hopeless at this,\" the senior remarked, sealing away the footage while struggling to keep a straight face. \"I'm getting a headache … Their evaluations will just have to be postponed for another three months.\""
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 2510102,
+      "owner_episode_id": 2510101,
+      "trigger_episode_id": null,
+      "title": "This Is 100% a Business Ad",
+      "description": "With a professional production team, limitless budget, and official sponsorship, our marketing prowess is unmatched.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=2510101",
+      "content_hints": [
+        "fragment",
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "Your Close Companion is Here"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "\"Close Companions,\" everyone's best friends. The earliest of these companions can be traced back to the East, where the \"Zhenzi\" befriended the powerful \"Xiandao Beast.\" Together, they battled against evil and maintained peace and harmony. To this day, the \"Liang\" family still takes pride in the bond their ancestors shared with \"Qiangliang the Xiandao Beast.\" The Xiandao Beasts protect the world, a story familiar to every child, often whispered by their mothers to soothe them to sleep ...\n\nBut it's not just a legend; close companions also exist around us. Your grey-headed chickadee poet, your imaginary wolf friend, your changeling childhood playmate—they've long been a part of our lives, and have become our most loyal friends ...\n\nNow, it's your turn to find your own close companion—or perhaps get one for the kids! Thanks to the NewBabel Critter Rehab Center, critter companions are coming to every home!\n\nSpecial thanks to the St. Pavlov Foundation for providing the companion footage featured in this program."
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "202501",
+      "internal_title": "【2.5】唐人街影话01",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "It is said that during the Shāng and Zhōu Dynasties, our land was plagued by malevolent creatures. They roamed the land, bringing havoc and leaving the nation and its people in endless suffering."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "On the emperor's order, Fāngxiàngshì the Wise sought the assistance of the twelve gods of Shètí. Bestowed with their divine might, Fāngxiàngshì bound the creatures and turned their monstrous power to the service of the people. These creatures became known as the Xiǎndào Beasts, guardians of the perilous path."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Now reformed, the beasts were used to drive away evil and protect the land, and thus earned the reverence of the people."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "However, by the end of the Táng Dynasty, there arose many wars and troubles."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "To preserve the legacy of the Xiǎndào Beasts, the last Fāngxiàngshì entrusted them to the Twelve Zhènzǐ, servants of the ritual, before passing away."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Among the Xiǎndào Beasts, Qiángliáng, whose body was like a tiger with a serpent's tail, was considered unmatched in ferocity."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The Zhènzǐ who was entrusted with Qiángliáng took Liáng as their surname, passing this knowledge down through their descendants."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang's Father",
+          "text": "Until today, while the world no longer suffers from the evil spirits of the past and the reputation of our family has lessened, we have never forgotten our ancestors' teaching."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang's Father",
+          "text": "That is, self-restraint, propriety, righteousness, and the art of banishing evil. Study our family's history, and you will find each generation has lived up to our family name and our motto. To practice restraint, seek justice and expel evil."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang's Father",
+          "text": "Yet, Qiángliáng had not appeared to us for almost a hundred years."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang's Father",
+          "text": "That was, until you, my daughter—my pride, successfully summoned it after these long years."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang's Father",
+          "text": "Do you understand the weight of the expectations you now carry?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "His hand rests on the girl's shoulder, its weight like that of the world."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Girl",
+          "text": "I understand. You can trust in me, Father."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She has heard this story a thousand times, and for years, this answer has been engraved in her mind, for it is the only answer she has ever been allowed to give."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "I will not fail our family. I will fulfill my destiny as a worthy master of Qiángliáng."
+        },
+        {
+          "kind": "title_card",
+          "text": "Division of Arcane Affairs, LA"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "Morning, guys. Alright, who wants to hit me with some good news and make my day a little easier?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcane Affairs Officer I",
+          "text": "The report on that summoning ritual is done. Seems like the destination was some farm out in the sticks."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcane Affairs Officer II",
+          "text": "Hey! Did someone take the pendulum without signing it out? We've only got one to go around."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Everyone in the Division of Arcane Affairs is caught up in the chaos of their own work, too busy to notice the officer who has just stepped in."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "Let's try this another way. First three of you to give me some good news will earn yourselves a coffee, my treat."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcane Affairs Officer I",
+          "text": "Get ready, Poitier, cause what I'm about to tell you next is gonna blow your mind."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcane Affairs Officer II",
+          "text": "Save me a cup. I gotta find our pendulum thief first."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Apparently, it doesn't take much to become the most popular person in the office. But before anyone can earn a steaming cup of joe, an angry shout interrupts them."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Hello. Excuse me. I'm still here."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "*tut* I'm a tax-paying citizen. I pay your salary, so why don't you stop gossiping and do your job?! A crooked stick will have a crooked shadow!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He shoots Poitier a glare before stomping his way out of the Division of Arcane Affairs, muttering curses under his breath."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "Him again? What's he complaining about this time?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Having brought the missing pendulum back to its place, the officer strides over and grabs a coffee. He shrugs."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcane Affairs Officer II",
+          "text": "Ah, some nonsense about making a mistake while we were out searching for a dog in Chinatown."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "A missing pooch? Since when are we the dog patrol?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcane Affairs Officer I",
+          "text": "Ah. I know. It's not our job. And then he got all huffy about us being brash and naive, and then it was right back to complaining about the incident last year."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcane Affairs Officer II",
+          "text": "You remember? When that rookie saw bruises on a kid and kicked up a whole fuss about child abuse? Turned out it was just some traditional Chinese massage. After they got cleared of the charges, the kid's parents were fuming about it for weeks."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcane Affairs Officer II",
+          "text": "But like, come on, it's literally a rookie mistake. He apologized, and they forgave him. You'd think that'd be problem solved, right? But this guy just wouldn't let it go. He's not even related."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcane Affairs Officer I",
+          "text": "Still, must have left a bad taste in his mouth, I guess. I just don't get why he's complaining about it to us. We don't find missing dogs. We find critters."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "They exchange a glance, and Poitier lets out a sigh."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "Well, at least most folks are friendly."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "Yeah, yeah. Well, I was asking for good news. So how about something upbeat?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcane Affairs Officer I",
+          "text": "Sorry. I've got nothing of that particular flavor. Just the opposite."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "Let me guess. Our \"vigilante\" struck again?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The officer drops the morning paper in front of her. As her eyes land on the headline, her coffee suddenly smells bitter."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "\"The Vigilante 'Nightpiercer' Bestows Justice to L.A. Streets.\" Urgh, so melodramatic. Who got hit this time?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcane Affairs Officer I",
+          "text": "Some rich varsity boys. They got in the news over some hazing incident that put a teammate into the ICU. But, you know how it is. Strings were pulled, and all the charges went away."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcane Affairs Officer II",
+          "text": "But, get this: all of them were found pinned up on the school's fencing this morning, and with those injuries, looks like they can kiss college football goodbye."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcane Affairs Officer I",
+          "text": "Hate to say it, but I gotta side with the vigilante on this one. Those kids were monsters. Still ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcane Affairs Officer II",
+          "text": "We're the police, and crime is crime. Doesn't matter how scummy the victims might be."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Irritated, Poitier tosses the newspaper onto one of the many cluttered desks around her."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "The arcane skill this guy cast, using those needles? It's like he's trying to imitate Detective C07. What's up with that?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcane Affairs Officer I",
+          "text": "C07, like from the movie series? Don't act so surprised I've seen them. You know I love movies about arcanum."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "So, do we got anything?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcane Affairs Officer II",
+          "text": "Ha. Have you seen the look on Chief Elden's face yet?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Poitier looks over at the Deputy Chief's Office, squinting as she tries to see through the slatted blinds."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "Hot damn, I know that look. Wasn't the last time when he found out his daughter was dating some jackass crook?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "I know this Nightpiercer guy's been tricky, but is it really that bad?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcane Affairs Officer I",
+          "text": "You don't know the half of it. The pressure's been building on him. Now, apparently, the up-tops are sending us some support."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcane Affairs Officer I",
+          "text": "Some cadet, from the Vigiles Bureau. I guess they've decided we're not working hard enough, or something."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "Vigiles? From the Foundation? Aren't they only responsible for the arcanum crimes that'll \"cause serious consequences\"?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "I don't see how this Nightpiercer guy is their kind of trouble."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "Besides, how's a vigil even going to help us? They don't know this city like we do. And not even a full agent, just a cadet."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "Wait, did you say cadet?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Poitier's head snaps back to the officer, her eyes wide. She can't just let that word slide by without notice."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcane Affairs Officer I",
+          "text": "You heard me. Apparently, they decided this is gonna be a thing. Send the cadets along to assist and test their chops. So now we're not just dogcatchers. We're babysitters, too."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "Is this some kind of joke?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcane Affairs Officer II",
+          "text": "Your words, my lips."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcane Affairs Officer I",
+          "text": "The Chief said it's a chance to develop a better working relationship between us and the Vigiles. I think brass just wants to cozy up with the St. Pavlov Foundation."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She downs the rest of her coffee and tosses the empty cup into the trash."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "Yeah, that would explain the look on Elden's face. So, what? Anyone know when this cadet is due? Or hell, anything useful at all?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcane Affairs Officer I",
+          "text": "I heard tell it's some Chinese girl from a famous family of arcanists. She's got a mega-powerful familiar, and that's why the Vigiles recruited her."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcane Affairs Officer II",
+          "text": "Really, just for her familiar? That can't be the only reason. Did she at least like score well on her tests?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcane Affairs Officer I",
+          "text": "Apparently, she didn't even take the test. She was still in training when she was picked. No field experience at all."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Poitier tries to maintain her steely demeanor, but the frustration proves too much to contain."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "So you mean this girl's a total liability? Some spoiled rich kid debutante looking for a chance to polish her resume?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The officer lets out a dry chuckle, but as her reply is about to leave her lips, her eyes flick behind Poitier, and her tone changes."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcane Affairs Officer I",
+          "text": "That's not exactly what I said."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "They wouldn't put just anyone in this position. The office falls silent as all eyes turn to the unfamiliar figure standing in the doorway."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "Excuse me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "I'm vigil cadet Liáng Yuè from the St. Pavlov Foundation, Vigiles Bureau, reporting for duty, ma'am. Could you please point me to Deputy Chief Elden?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "Hmm. He's in his office."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Poitier is the one to break the silence. She jerks her head toward the office in the corner as she speaks."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "I see. Thank you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She offers a slight nod and, under the scrutiny of every officer present, makes her way to the Deputy Chief's Office."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "As soon as the door is shut, murmurs break out like wildfire."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "That's our princess? I've seen street rats bigger. I bet I could lift her up with one hand."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcane Affairs Officer II",
+          "text": "Don't forget her familiar. Though, I don't see it now, so she must be a summoner."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcane Affairs Officer I",
+          "text": "Lucky her. I wish my great-great-great grandpa left me something like that."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "So, what's Elden gonna do? No way he's letting this baby rat scurry into our investigation. I'll show her the door myself if he'll let me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcane Affairs Officer I",
+          "text": "Guaranteed our vigil-to-be is a spoiled, air-headed legacy pick. I can't imagine she's the type to follow orders."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcane Affairs Officer II",
+          "text": "Guys, we won't get any answers just sitting here."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "Yeah, you're right. I need to get back to work. Josh is out on leave, so I've gotta cover all his cases."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcane Affairs Officer I",
+          "text": "Hey, hold on. I've got a way to get the scoop on this girl."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Before Poitier can walk away, she grabs her sleeve and, with a knowing look on her face, indicates toward the Deputy Chief's office."
+        },
+        {
+          "kind": "title_card",
+          "text": "Deputy Chief's Office"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Deputy Chief Elden",
+          "text": "Liáng Yuè, specially recommended by the Foundation's East Asia branch for selection into the Vigiles Bureau, top-of-class during your training, selected to serve as the pilot for the vigil cadet field training program with the LAPD Division for Arcane Affairs."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Deputy Chief Elden",
+          "text": "Hmph. It's an impressive resume."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "Thank you, sir. Actually, it's not that—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Deputy Chief Elden",
+          "text": "Did I ask for an explanation?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her voice falters for a moment."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "No, sir."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Deputy Chief Elden",
+          "text": "Then don't give me one. You talk when I tell you to talk, you sit when I tell you to sit, and you do exactly as I say, when I say."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Deputy Chief Elden",
+          "text": "Do I make myself clear?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "Yes, sir."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "On the other side of the thin walls of the office, the officers exchange smirks as they listen in to their conversation."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcane Affairs Officer I",
+          "text": "Classic Elden. Reminds me of the good old days."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcane Affairs Officer II",
+          "text": "Good? The hell was so good about them? Think you've taken one too many smacks on the noggin. Still, she isn't as stuck-up as I expected."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "Then she's probably a wuss. I figured she was gonna back talk him—more like a meek little mouse than a rat."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "They press their ears against the wall and fall silent once again."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Deputy Chief Elden",
+          "text": "I've been told you're here to assist us in catching the vigilante known as Nightpiercer. But one look at you tells me you don't have the chops."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Deputy Chief Elden",
+          "text": "I'll bet you're greener than any rookie on my force. Now, Liáng, answer me. Are you ready?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "Yes, sir."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Deputy Chief Elden",
+          "text": "On this beat, you're going to encounter arcane crime that is worse than anything you've seen in your training—beyond your imagination. Are you prepared?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "Yes, sir."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Deputy Chief Elden",
+          "text": "When it comes to dealing with arcanist criminals, you need wits and you need strength. One mistake, and you could end up in a casket on that long flight back home."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Deputy Chief Elden",
+          "text": "So I ask again, are you up to this challenge?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "Yes, sir. I'm ready."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Deputy Chief Elden",
+          "text": "No, you aren't."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He pulls a newspaper from a drawer and slams it onto the desk."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Deputy Chief Elden",
+          "text": "Read it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "The arcanist scammer, Johnny Three-Times, has been apprehended. Using his arcane skill \"Omnis Obeisance,\" he manipulated his victims to do anything he asked, specifically, transferring all their money to him."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "In order to successfully cast his arcane skill, he requires his target to answer \"yes\" three times in one minute."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Deputy Chief Elden",
+          "text": "If you had been dealing with him, he'd already have you dumping your trust fund into his bank account, or worse."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "With all due respect, sir, that isn't a fair evaluation. I wouldn't have answered you that way if you were not my commanding officer."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Deputy Chief Elden",
+          "text": "Fair? There is no fair when it comes to arcanists. You've read the headlines about this guy and think you know what to expect, but what if he had abilities the news didn't know about? What if he could disguise himself?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Deputy Chief Elden",
+          "text": "Or do you think that crooks just leave their resumes behind at the crime scene?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "For a brief moment, she is at a loss for words."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "No, sir."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Deputy Chief Elden",
+          "text": "This article was published a week ago. If you were as ready as you claimed, you should've known about this conman and his arcane skill. If you had any smarts, you'd have at least figured out I was probing you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Deputy Chief Elden",
+          "text": "But you didn't. I don't know what the Foundation and your Vigiles teachers taught you. Frankly, I don't care. Because you don't have the practical skills necessary to keep yourself alive on these streets."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Deputy Chief Elden",
+          "text": "I will absolutely not put a kid like you on the Nightpiercer case."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "His cold voice carries through the wall. The officers outside exchange glances."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "Cold and ruthless as a Minnesota winter. Elden's never been a people person. Guess that's why they keep him stuck down here with us."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcane Affairs Officer I",
+          "text": "I don't know. I agree with him. But he's being pretty rough on her."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcane Affairs Officer II",
+          "text": "She's definitely too young for this. Whatcha think? She gonna cry?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "Look, if she can't handle the Chief, then she can't handle the city."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcane Affairs Officer I",
+          "text": "Is that right? I seem to remember someone's eyes going red a few times on her first day."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "What? Shut up. I didn't."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcane Affairs Officer II",
+          "text": "Shh. Listen."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "They fall silent again, waiting to hear what fate will befall the young vigil cadet."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Deputy Chief Elden",
+          "text": "End of discussion. If you want to call home to your daddy or the Foundation and get reassigned somewhere else, be my guest."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Deputy Chief Elden",
+          "text": "But as long as you're in my department, you'll follow my rules. For now, I'll assign you some of the lighter cases. This is grunt work, kid. Try not to mess it up."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "Hold on. I've got a bad feeling."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Poitier's eyes widen, but it's too late to act."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Deputy Chief Elden",
+          "text": "Arya Poitier will be your partner and field training instructor. She'll be happy to help you adjust. Isn't that right, Officer Poitier?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Poitier can't help but mutter a curse under her breath."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "Crap. Guess my day isn't getting any easier."
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

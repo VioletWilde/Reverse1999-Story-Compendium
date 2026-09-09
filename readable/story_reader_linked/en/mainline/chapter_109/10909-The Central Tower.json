@@ -1,0 +1,660 @@
+{
+  "episode_id": 10909,
+  "chapter_id": 109,
+  "chapter_title": "Folie et Déraison",
+  "display_label": "",
+  "title": "The Central Tower",
+  "subtitle": "A silent and merciless order of ideals.",
+  "trails": [
+    {
+      "element_id": 1090901,
+      "owner_episode_id": 10909,
+      "trigger_episode_id": null,
+      "title": "Prison Reform Notes",
+      "description": "Look, the smallest of clues, the greatest of structures, built brick by brick.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=10909",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "Prison Reform Notes"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "During the third Comala Congress, ███'s daily dose of diazepam was reduced from two and three-quarter tablets to none, replaced with two classified poetry collections (A1675) and sixty chlorpromazine tablets, to be taken one and a half per day.\n\n1. Two days, eleven hours, eight minutes, and four seconds later, an eight-millimeter crack appeared on a bar of his cell, which is on the second floor, near the third staircase, and is the eighth cell from the left. He scraped off a four-by-three-millimeter fragment from the thirty-second tile.\n\n2. Mentions of \"the other me\" increased from three times in 48 hours to twenty-five times in 48 hours.\n\n3. Four days, three hours, seven minutes, and eight seconds later, he transitioned from merely collecting manuscript paper to collecting manuscript paper and mirror fragments. Within the next twenty-four hours, he collected eleven mirrors, which totaled one hundred and three shards.\n\n...\n\nDuring the sixth Comala Congress, ████'s supply of fluoxetine and valproate was completely discontinued, replaced with four classified L6759 literary selections and four rolls of 400 cm bandages.\n\n1. ... Averaged thirty-two bangs against bars and walls per hour. The bandages were all used up within four days, fourteen hours, twenty minutes, and nine seconds, with 89.3 cm lost in the water due to excessive ripping.\n\n2. ... Wrote fifteen pages of poetry over ten days, six hours, eight minutes, and three seconds. Tore up fourteen of those pages and swallowed the remaining one.\n\n..."
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1090902,
+      "owner_episode_id": 10909,
+      "trigger_episode_id": null,
+      "title": "On Zeno Defectors",
+      "description": "I wonder if the tower inside the prison has seen this.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=10909",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "On Zeno Defectors"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "...\n\nBased on the above information and recent intelligence from the Timekeeper's squad, it is confirmed that Zeno's defector unit had entered Comala Prison, which held numerous arcanists, and withdrew from Ushuaia on March 2nd. The operation clearly involved cooperation with Manus Vindictae. The current whereabouts of the defectors remains unclear, pending further intelligence from the Timekeeper's squad.\n\n*The information is fragmented and primarily inferential. For the full reasoning behind the operation and additional details, please refer to Attachments 4-28."
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100913",
+      "internal_title": "第九章9-09",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "The Central Tower"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "García",
+          "text": "Easy, easy! It's me, García! We met at the gallery earlier."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "García",
+          "text": "Please. I come in peace."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Recoleta pays no mind to the young man's explanations; her focus holds on the woman beside him."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "It's you, Octavia! The murderer herself!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Please, calm yourself, Ms. Recoleta."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "The jailer has already confirmed that she wasn't the one to fire at the Idealist. The shot came from somewhere else in the room."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "Hmph."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Recoleta bites her lip, giving up a little space to the intruders."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Ms. Octavia, what brings you here at this hour?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Octavia",
+          "text": "I come here out of goodwill. Believe me, I didn't want any bloodshed either."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Octavia",
+          "text": "I understand you just arrived today. There's something you need to know about the inmates here."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Their visitor's expression is weary and low."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Octavia",
+          "text": "We're outcasts rejected by society and literature, and our privileges are limited within these walls. But before I started my own literature group, I struck a deal with the Panopticon authorities."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Octavia",
+          "text": "If we cooperate and stay out of trouble, they'd leave us be. We could discuss literature freely and openly in Comala. Such a thing may seem trivial to you, but this is of immense importance to us."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "Oh, there's no happier thing in this world than discussing literature! No one should ever put limits on it!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Octavia",
+          "text": "You're right, Recoleta. But we're prisoners here. There are certain rules we have to follow."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Octavia",
+          "text": "Except, the Idealist didn't see it our way. He refused to compromise, believing that the long poem and his so-called \"-ism\" could break us free from the cage of the ever-watchful eye."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "Perhaps he was right. You might've achieved more if you'd listened to him. After all, visceral realism keeps us connected to who we are."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "You have to believe in the truth of visceral realism! Because out there, beyond these walls, many of us still do!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Octavia",
+          "text": "And what has it changed? García, you're the latest inmate here. Tell us, three months ago, before they arrested you and took you here ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Octavia",
+          "text": "What has the visceral realism movement accomplished out there?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Beside them, García, who had been patiently leaning against the railing, produces a metallic vibration on its grates. A rough paper roll burns between his lips."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "García",
+          "text": "At first, it was revolutionary. Young poets joined in droves. We held gatherings, and the literary world seemed alive again."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "García",
+          "text": "I was just a kid when the leading poets left the city. Everyone thought it was only temporary. But they didn't come back, and nothing has happened since."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "García",
+          "text": "No one says it, but we all know: visceral realism died in 1977."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "No. Not for me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "It's not dead as long as people still believe in it. I believe in it!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Octavia ignores the childish remark. She knows that \"conviction\" can be as fragile as a spider's web."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Octavia",
+          "text": "Belief, faith—what is this obsession with the \"true self\"?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Octavia",
+          "text": "Why does your type always insist on there being a true self hiding beneath our roles in society, our disciplines?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "Look at the Idealist! He never once stopped fighting for what he believed in, even long after he was put behind these bars."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Octavia",
+          "text": "\"Idealist,\" what a name he gave himself. Who will he be when he finally breaks free from the eyes of the central tower? When he's left without his willful audience? A nobody, that's what."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Octavia",
+          "text": "And that is a truth even he is terrified of."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Ms. Octavia. I hope you've come with something more important to share than just some criticism of the Idealist."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Octavia",
+          "text": "You're right. I have an important message for you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Octavia",
+          "text": "Dr. Dores—I heard you were looking for her. The woman from the São Paulo Veterans' Residence. She used to write under the name \"Urd,\" didn't she?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Yes, that's right. Do you know her? You're the first person I've met here to speak plainly about her."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Do you know where she might be?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Octavia",
+          "text": "We crossed paths, but only briefly. I'm not sure where she's gone. Maybe the authorities know."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Octavia",
+          "text": "However, she left this with me. I think you'll need it more than I do."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Octavia hands over her personal folder."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Before they might open it, she has already turned to leave."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Octavia",
+          "text": "We have other matters to attend to. I'll leave you to your business. García, shall we?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Their visitors leave in haste, their faces and expressions obscured by the night's shadows."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The Foundation's investigators open the worn manuscript folder with caution."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "\"The Physician told me the horrifying truth about the Panopticon of Comala and the power behind it—Manus Vindictae.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "\"By becoming the Panopticon's sole patron, they seized control of the resources and the allocation system, turning this place into a living hell. I suspect that the Physician, the current highest authority here, is responsible for this situation.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "\"... I discovered that the inmates were put through brutal training, even when they were too sick to carry out their tasks. They also forced pure-blood arcanist inmates to wear their masks, effectively turning them into murmuring puppets ...\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Just as we suspected, Manus Vindictae is orchestrating everything."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "No wonder we didn't find them in the city. They've been hiding here all along."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "No one would've thought to come looking for them here."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "They snap the folder shut."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A familiar signature, seen on the foreword page of UTTU magazine, and the receipt found in São Paulo's Heartfelt Home."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "But why would Ms. Octavia bring this to us? What's in it for her?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Do you think she's trying to mislead us, Timekeeper?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Maybe. But the handwriting in that notebook is most certainly Urd's."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "If she's leading us astray on purpose, why? Ms. Recoleta, what do you think? Could she be Aleph?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "Not a chance! Haven't you seen how she denies everything beautiful in the world? Aleph would never be so biased."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "No, Aleph is like a mirror. He reflects both light and shadow."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "But Octavia ... Maybe she hasn't looked at the shadow within for a long time."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "I know that look on her face. It's the look of a writer."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "I've seen so many like her during my trip—the faces of a lost, struggling generation."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Under the night sky, Comala Prison stands like a forgotten gravestone covered by fine, cold snow."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "In a room repurposed from a prison cell, three girls in search of someone share an absurd, bizarre tale. Meanwhile, at the entrance of the central watchtower, a jaguar knocks on a secure door."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Jailer",
+          "text": "*deep breath* Dr. Merlin, I'm here to report on today's events."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Come in."
+        },
+        {
+          "kind": "title_card",
+          "text": "Central Tower Waiting Area"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Frantic writing breaks the quiet of the room."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The jailer's visit does not deter the man behind the desk. He continues writing, wholly absorbed, as if each letter were filling the world around him."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Jailer",
+          "text": "There was a commotion in the gallery today, sir."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Jailer",
+          "text": "An inmate known as the Idealist was severely injured. The inmates nearby said he lost consciousness from blood loss."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Jailer",
+          "text": "However, after we put everyone back in their cell, the Idealist was gone. I made a sweep of the grounds, but there was no trace of him."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Jailer",
+          "text": "It's possible that he regained consciousness and went into hiding. I'll perform a full search tomorrow."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The jaguar finds herself quite unexpectedly concealing the truth about Pablo."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Physician",
+          "text": "No need."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Jailer",
+          "text": "Sir?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Physician",
+          "text": "He knew the consequences of breaking the rules, did he not?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Jailer",
+          "text": "Sir, with all due respect, I think today's incident proved just how dangerous it is to let the inmates keep their weapons."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Jailer",
+          "text": "We never should've let them walk around with deadly weapons! Even if we had to, we should've doubled the guards. We can't expect them to follow their own rules simply out of fear of the central tower."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The Physician interrupts her sharply, with no hint of concern."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Physician",
+          "text": "Such matters fall beyond your purview, Jailer. You only need to do what's required of your title."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Physician",
+          "text": "Is there anything else?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Jailer",
+          "text": "There is another thing. Two guests from the Foundation came through today. They said they were looking for someone named Dores."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Jailer",
+          "text": "They've shown a willingness to cooperate. Though, they were involved with the incident in Corridor Zero."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The sound of writing continues. Her report is disregarded. The jailer takes a deep breath. The next part is difficult to say."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Jailer",
+          "text": "Sir, there is one more thing."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Jailer",
+          "text": "I told Ms. Octavia we're short on rations, and she's adjusted the inmates' portions accordingly. But that won't last long."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Jailer",
+          "text": "Manus Vindictae stopped providing supplies back in March, and Zeno has collected all the prisoners they had previously placed in our custody."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Jailer",
+          "text": "I just wonder why they have so suddenly withdrawn from Ushuaia and brought all their prisoners with them."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Jailer",
+          "text": "I also noticed that we haven't received any orders from the government since Warden Tartuffe was transferred."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Jailer",
+          "text": "In fact, we haven't had any communication with them at all."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Jailer",
+          "text": "Sir, in frank terms, we're facing down a serious shortage of medicine, food, and basic supplies. At this rate, the Panopticon will soon be unable to operate. Where will our inmates go then?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The man before her says nothing for a long time, his pen still flickering over the page."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Jailer",
+          "text": "Can we ask the Foundation for help? Th-They've sent their people here. Maybe they're interested in the Panopticon?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Jailer",
+          "text": "I could arrange a meeting if you like."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Physician",
+          "text": "You're unusually talkative today."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The man finally stops writing and looks up."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Jailer",
+          "text": "Pardon, sir?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Physician",
+          "text": "It's fascinating, you know. You've become so much more concerned about this place and its inmates than when you first started. You are now dictated by your title."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Jailer",
+          "text": "I didn't mean to overstep. I'm sorry."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Physician",
+          "text": "You can go now. I have a great deal of work to do. Oh, and one more thing."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He beckons the jailer back before she leaves."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Physician",
+          "text": "Make sure this month's Comala Congress is held according to schedule."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Jailer",
+          "text": "Yes, sir."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The jaguar disappears beyond the door, metallic footsteps fading into the distance. Only then does the Physician allow his suppressed frustration to surface."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Physician",
+          "text": "How many times have I warned you about this? The Idealist has to go. He's nothing but trouble for us! You're too soft on him, Aleph. Look at the mess he has us in now!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Aleph",
+          "text": "Calm down."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Physician",
+          "text": "He's a rabble-rousing thief, a self-destructive maniac, a snake in the grass."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Physician",
+          "text": "He even stole the Tear of Comala from me. He's nearly ruined everything we've worked for!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The man angrily raises the once-lost and now-found die."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "In the dim room, it flickers with a comforting glow."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Aleph",
+          "text": "It's only a die, Merlin. It does nothing more than a die can do."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Physician",
+          "text": "You were there today. You saw what he did. He managed to change the Panopticon with this die, even if only for a second."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Physician",
+          "text": "He'll ruin my work, Aleph. He's a slave to his passion; his head is filled with impulsive thoughts. I don't trust him. We can't trust him!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Physician",
+          "text": "I've done everything you've asked. Now it's time to do your part."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Aleph responds with indifference to the Physician's frustration, continuing his writing without pause."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Physician",
+          "text": "Time's ticking down. I can't afford any further mistakes. No one can be permitted to stop my experiment in the Panopticon."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Physician",
+          "text": "I'll prove it to them that we've found the path to the ultimate answer."
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

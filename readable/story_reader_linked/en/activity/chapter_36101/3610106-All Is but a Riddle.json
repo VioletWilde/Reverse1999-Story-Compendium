@@ -1,0 +1,585 @@
+{
+  "episode_id": 3610106,
+  "chapter_id": 36101,
+  "chapter_title": "Last and First Principles",
+  "display_label": "",
+  "title": "All Is but a Riddle",
+  "subtitle": "And the old days carry the scent of mint.",
+  "trails": [
+    {
+      "element_id": 3610104,
+      "owner_episode_id": 3610106,
+      "trigger_episode_id": null,
+      "title": "An Unfinished Book",
+      "description": "Writing a book is sometimes akin to having a conversation with yourself.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=3610106",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "Sequel"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "After that, the \"Storm\" brought the world to the 1990s.\nMs. Isolde readily accepted treatment. Ms. Kakania has been traveling the world, striving to change it. She quickly adapted to the new era and read many books. I also gave her plenty of recommendations.\nIt is worth noting that after the Vienna incident, Ms. Semmelweis became a vampire. This came as a massive surprise to everyone, but it also fascinated me—like reaching the payoff for a story's foreshadowing. After making many sincere requests, I got permission to read the beginning of her story. It is a complex tale, one that leaves you pondering incessantly about how it ends. However, if I were to retell the whole story here, this book would end up three times thicker. I would like to thank my mentor, Madam Hofmann, for showing me how to keep things concise in situations like this.\n...\nThe world has traveled to 1920, but the war has not ended. It all feels like a continuation of that chaotic day. I heard Ms. Kakania was dejected the whole day, but she quickly returned to her mission from the Field Agent Administration. Even after crossing two eras, her tenacious spirit has not dampened at all. It seems that spirit has affected me, too: I find myself constantly thinking about what I can do. Thus, I have decided to write this book to organize my thoughts, in the hopes that I will find a conclusion before the final draft.\n..."
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 3610105,
+      "owner_episode_id": 3610106,
+      "trigger_episode_id": null,
+      "title": "Researcher Onboarding Guide",
+      "description": "The more eccentrics there are, the more guides there are.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=3610106",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "Beginner's Guide to Ciphers: Vigenère Edition"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "To prevent Laplace employees from falling victim to pranks from colleagues and to avoid research delays from being unable to break codes, we are distributing this Beginner's Guide to Ciphers: Vigenère Edition.\nThe Vigenère cipher can be seen as an upgrade to the Caesar cipher, turning the simple shift of a single alphabet into shifts across multiple alphabets to increase complexity. For more on the Caesar cipher, see the Caesar Cipher Edition.\nThe main difference between the Vigenère and Caesar ciphers is that in the Vigenère cipher, the relationship between the ciphertext and plaintext letters isn't one-to-one, making the key harder to figure out. However, since it still follows patterns, you can still find repeating ciphertext segments. By using high-frequency words in common language, you can guess the plaintext for specific segments of ciphertext, deduce the key length from the spacing between repeats, and analyze the key.\nHowever, if you don't have much text, this can be difficult. In these situations, you should use other methods to guess the key. The personality, past, and writing habits of the person who made the code are important clues. Here is a list of people at Laplace who are very likely to play pranks with ciphers:\n\nAdler, Ulrich, X, Richard, Dawkins, Victor ...\n\nIf you encounter a prank, consider these suspects first. If you can't crack the code, confront the suspects directly and ask them to stop the prank. If a suspect denies involvement, try to force them to decode it for you. It doesn't matter whether they're really the culprit or not."
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "203608",
+      "internal_title": "【3.6】人们向何处去06",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "Hofmann Family Home"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "I'm heading out."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "You can heat up the leftovers in the fridge for lunch. Did you hear that, Adler?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adler",
+          "text": "What's the appeal of the mountaineering club, anyway?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adler",
+          "text": "At this point, even the neighbors are saying, \"Looking for Greta? She's probably gone mountain climbing.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Greta",
+          "text": "Or rowing."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The young woman at the door has already laced up her shoes. She stamps her feet on the mat."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She shoulders her hiking pack and glances back at her brother as she rises."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Greta",
+          "text": "Would you like to come?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Greta",
+          "text": "Last time you joined me on the Karwendel climb, before we'd even made it back, you said you'd never participate in any weekend sports events ever again."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Greta",
+          "text": "Chess, swimming, or doing those math problems you love—they're all worthy pastimes. There's no need to follow me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adler",
+          "text": "I only came here to get a glass of water!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Greta",
+          "text": "Haha, sure. By the way, I need your help with something."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Greta tosses him a set of keys."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He catches them, his eyes never leaving the crossword in his newspaper."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Greta",
+          "text": "What are you poring over now? Planning to lock up Papa's cigarette cabinet behind a code again?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adler",
+          "text": "That was just a Vigenère cipher. A beginner's puzzle."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Greta",
+          "text": "Mhm. Anyway, if you have the time, could you mow the lawn in the back garden? It would make Mama and Papa happy."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Greta",
+          "text": "And you know, I've never asked—what's got you so dead-set on \"Laplace\"?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Greta",
+          "text": "There are plenty of outstanding research facilities to choose from. Why them?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adler",
+          "text": "Because I believe we share the same ideals."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Greta",
+          "text": "Hmm?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Greta",
+          "text": "The seriousness in his tone makes her pause. Her hand lingers over the doorknob."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adler",
+          "text": "There must be a theory that unifies everything in the universe."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adler",
+          "text": "Because every puzzle has a solution."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adler",
+          "text": "The world is like a crossword. If you follow the clues, you'll arrive at an answer. The only answer. An established theory."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adler",
+          "text": "It's simple. Clear. Rational."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adler",
+          "text": "Codes simply rearrange symbols according to a set of rules. Identify these rules, and you can decipher it. If we don't have an answer, it doesn't mean it doesn't exist, but rather that we haven't discovered it yet."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adler",
+          "text": "I've attended lectures at Laplace. Their researchers firmly believe they can discover the truth. It's utter conceit."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adler",
+          "text": "But that's the way it should be."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Greta nods and opens the door with a smile."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Greta",
+          "text": "I see. Don't worry. I'm sure you'll receive an invitation from them soon enough."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Greta",
+          "text": "I've asked around. They all said age is no matter, nor whether or not you're an arcanist."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Greta",
+          "text": "Laplace opens its doors to geniuses. That's the only requirement."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Greta",
+          "text": "Won't be any trouble for you, dear brother."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He crouches and sets the flowers down before the headstone."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "They join other bouquets. White chrysanthemums now spill over the edge of the stone and onto the grass."
+        },
+        {
+          "kind": "title_card",
+          "text": "Hallway, Foundation"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Their tense, fruitless meeting finally ends. Enigma stands in the busy hall, adrift."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Staff members rush past without noticing him, arms full of files, each load heavier than the last."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "Ha, talk about using a sledgehammer to crack a nut."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "What a meaningless waste of resources."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "*beep—beep—*"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The communicator rings just in time, cutting off his lingering contempt for the meeting he'd suffered through just half an hour ago."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pointer",
+          "text": "Adler. If you aren't dealing with anything urgent, please return to Laplace as soon as possible."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "What happened?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pointer",
+          "text": "We've made some new discoveries regarding the tower's core."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pointer",
+          "text": "It changes when observed. We need to come up with a new plan."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "Many people remember you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "Even Musae III's toybox has a chunk of data still diligently simulating your stubbornness. Heh."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "But I'm sure you don't want to hear me prattle on about the past."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Whether to convince himself or to push something away, Enigma searches his cluttered thoughts for something else to say."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "The tower in the toybox, the Tower of Babel we used to solve the \"language disorder\"—it isn't the final solution."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "Yes, people are able to use verbal communication to understand each other again. Unprecedented, I know."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "But this has come at a cost. The pieces' cognitive processes have all unified under the same model."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "Unanimous agreement, unanimous objection—can this even be considered communication?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He's been staring at the engraved letters for so long that they've started to look strange. It's like this is all some sort of dream."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "Ulrich and I each set off on our own expeditions. But in the end, we both decided to destroy the tower and take its core."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "So, now we have a new problem to solve—the core has a combination lock."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "And I can't make heads or tails of it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The headstone offers only silence. Though, that doesn't stop Enigma from working out what Greta's response may have been."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "Ha, I know. You wouldn't understand."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "This is supposed to be my specialty. Finding clues, cracking codes—all it takes for me is time."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "But my mind's gone rusty. Even my own thoughts have become unreliable."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "I haven't done any research of my own in a long time. Oh, no, just pointless meetings and endless paperwork."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "Trivial, inconsequential matters have absorbed my every waking moment, grinding the old gears in my head to a halt. I can almost hear them creaking when I try to get them turning again."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "Perhaps, I've lost the talent I once had."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He nods with a bitter smile."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "Hah, maybe one day soon, I'll be using one of X's inventions. Even his simplest robots couldn't do any worse than me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The white chrysanthemums whisper in the drifting wind, and as he falls silent, the world's sounds close in around him."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marcus",
+          "text": "Oh! Mr. Enigma."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marcus",
+          "text": "You're here too."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He turns toward the voice. Greta's mentee stands behind him, arms full of documents and flowers."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "I have a meeting with the Foundation. This was on the way."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "You're here to see her again."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marcus",
+          "text": "Yes, I've brought some new manuscripts for her to see."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marcus",
+          "text": "These manuscripts ... I'm going to submit them to the Daydream Post, but I'm not sure whether I'll be rejected again."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marcus",
+          "text": "I used a different recording technique this time, based on the feedback Madam Hofmann gave me once."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marcus",
+          "text": "So I wanted to show them to her before I got an answer from the magazine."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marcus",
+          "text": "I hope she can see that I've finally figured out what to do with my limitless \"reading.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marcus",
+          "text": "Instead of focusing on how much I can \"read,\" I've decided to focus on the specific truths I can glean from them to record the story of the \"Storm.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Enigma steps aside. Marcus lays the flowers on top of the documents and sets them both before the headstone."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marcus",
+          "text": "Without betraying my own principles or Madam Hofmann's teachings, I've managed to find a recording technique that can realize my dream."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marcus",
+          "text": "Of course, it's definitely lacking in a lot of ways."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Marcus manages to say what she means, though not without stumbling over herself."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She doesn't know Enigma well. Greta was the lone thread that connected them."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marcus",
+          "text": "Actually, Mr. Enigma, I never thought you'd come here. Oh, I-I don't mean that as a criticism! I only mean, I understand how you were feeling."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marcus",
+          "text": "But I suppose, now you're here, you've found an answer to that question?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Marcus chooses her words with care."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "Not yet."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "But staying like this isn't going to help me think, either."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marcus",
+          "text": "Mm. Well, \"reading\" takes time. And so does seeking proof."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "Perhaps. You probably have a lot to say to her. I'll get out of your way."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Enigma reaches into his pocket and feels the cold metal tube in his palm."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He rummages in the other."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marcus",
+          "text": "What's wrong, Mr. Enigma?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "Nothing. Here."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Marcus opens her hands. Enigma drops something into them and turns to leave."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She looks down. She knows these candies well. Similar ones could always be found in her mentor's pockets."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The sharp, cold scent makes her blink."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marcus",
+          "text": "Oh, mints."
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

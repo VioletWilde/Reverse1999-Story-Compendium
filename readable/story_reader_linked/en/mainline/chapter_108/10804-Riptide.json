@@ -1,0 +1,578 @@
+{
+  "episode_id": 10804,
+  "chapter_id": 108,
+  "chapter_title": "Tristes Tropiques",
+  "display_label": "",
+  "title": "Riptide",
+  "subtitle": "Then, your life is handed over to the river, and you are forced to struggle against the current.",
+  "trails": [
+    {
+      "element_id": 1080401,
+      "owner_episode_id": 10804,
+      "trigger_episode_id": null,
+      "title": "The Price of Procrastination",
+      "description": "Constant delay will not make the piles of documents disappear—eventually, someone will have to deal with them.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=10804",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "Pending Documents"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "· First official exchange report with the School of Apeiron\n\nPriority: Low, but please complete the registration of the arcanists from Apeiron as soon as possible. If the registration cannot be completed, please explain the reasons and provide relevant proof.\n\n· A detailed report of Apeiron's operations on the island.\n\nPriority: High, please prioritize completing the report on the joint operation with Zeno and a detailed account of Arcana's death.\n\n· Complete the application for the ship \"APPLe III\" and explain of its specific purpose\n\nPriority: Low, to be completed before the final deadline.\n\n...\n\n· A detailed report on operations at the Green Lake Campsite\n\nPriority: High, please submit a complete account of the event to assist in the multi-party evaluation of the arcanist, Jessica.\n\n...\n\n· Task handover procedures for Highway 77\n\nPriority: Low, to be completed before the final deadline.\n\n· A detailed report on operations at Tuesday's Motel\n\nPriority: High, please submit a complete account of the event to assist in the multi-party evaluation of the arcanist, Tuesday.\n\n· Explanation of the safety of placing the uncooperative arcanist consciousness entity into the suitcase\n\nPriority: High, please submit along with the above reports\n\n..."
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100805",
+      "internal_title": "第八章8-04",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "Riptide"
+        },
+        {
+          "kind": "title_card",
+          "text": "Zeno Base"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A journey always starts with a farewell."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Moldir",
+          "text": "Here, put this on, Pera. It will allow me to track you should anything happen."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She fastens a small button to her sister's collar."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "This button connects the two of them tightly. With this, they will always be able to find each other, no matter where they are."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "They kiss on both cheeks."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Moldir",
+          "text": "You'll remember to bring Father a souvenir this time, yes?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Moldir",
+          "text": "And promise me you'll be careful. I do not wish for our Pera to \"buy the farm\" just yet."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lopera",
+          "text": "Don't worry about me, Molly. Worry about them."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lopera",
+          "text": "I'll kill them all, if I have to. Every last one."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She makes sure to emphasize the totality of her determination."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Alright, alright, enough blabbering. Do you two always share these little heart-to-hearts whenever you leave? I got nothing to say 'cept \"bye.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Or is the tortoise suddenly not so worried about its speed?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The ship signals its imminent departure."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Sotheby, do we have everything?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sotheby",
+          "text": "Naturally! Ms. Sotheby is always ready to travel!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Moldir",
+          "text": "The ship is boarding now. After it departs, I will spend some time gathering intel on Mr. Duncan."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Thank you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lopera",
+          "text": "We should be able to find him in the flesh once we get to town. Duncan and I go way back, hahaha!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lopera",
+          "text": "And I'll introduce you to another friend. She lives in a bottle."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "I'd be delighted to meet your friends."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "We should be going now."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Lilya, I've told Admiral Igor that he can rely on you for further assistance as necessary. Is that alright with you?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Yeah, I'll do whatever needs doing."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Have a good trip!"
+        },
+        {
+          "kind": "title_card",
+          "text": "Igor's Office"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Having seen off their guests, Lieutenant Moldir returns to the admiral's office to report an incident from the previous night."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Moldir",
+          "text": "Admiral, a prisoner has gone missing from the tower."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She lowers her head as she awkwardly delivers her report."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Moldir",
+          "text": "We'll make sure it's kept under wraps."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Moldir",
+          "text": "The seal was broken, and we're still investigating who might have been involved."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Moldir",
+          "text": "I did encounter the Timekeeper, Ms. Sotheby, and Lopera near the Tower yesterday. Still, I see no reason to suspect them."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "They were the only people she saw near the tower yesterday."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Admiral Igor",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Admiral Igor",
+          "text": "The Timekeeper doesn't have any incentive, and Lopera—No, she wouldn't be involved."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Until last night, the tower held a single unlucky prisoner—a lamb to the slaughter, a stalk of wheat in autumn. But now she has gotten away."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Admiral Igor",
+          "text": "Find the prisoner, but don't attempt recapture. Let's see who she's been in touch with."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Moldir",
+          "text": "Understood."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Admiral Igor",
+          "text": "Lieutenant, this was a failure that must not be repeated."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He grits his teeth as he stares at the map before him. Zeno shouldn't be like this."
+        },
+        {
+          "kind": "title_card",
+          "text": "Aboard the \"Alligator\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The ship departs, and before long, a dozen rowboats have surrounded it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sotheby",
+          "text": "Oh, look at those strange cowboys! What are they doing with those hooks? Are they trying to hitch a ride?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lopera",
+          "text": "Yes, they will use those hooks to grab onto the side of the ship and moor their boats to ours."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Just as she said, the boats throw their hooks, latch onto the ship, and a number of people clamber aboard."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "They're traders hawking homemade trinkets. Lopera politely declines them all."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lopera",
+          "text": "Take this, Timekeeper."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "What's this?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lopera",
+          "text": "Just a map, in case we get separated."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The map is marked with at least three \"safe routes.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lopera",
+          "text": "This will show you the way from the harbor to the Veterans' Residence. Though, it can't show you the safest way. For that, you'll need me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lopera",
+          "text": "But what am I saying? São Paulo is perfectly safe! That's what the politicians say anyways, never mind the talk of gangs, cartels, and greedy multinational corporations—pure slander."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Thank you for the warning, and the map. Let's hope I won't find any occasion to use it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lopera",
+          "text": "I hope so, too. Well, we have a long cruise ahead. I'll leave you to your business. See you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She waves goodbye, making her way through the energetic traders and to the other side of the deck."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The traders scamper around like little mice. Having made their sales, they're now scrambling to get a plate of food from the chef."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "So, the kitchen even prepares food for them."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Chef",
+          "text": "No line-cutting! You, boy, back to your place!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Chef",
+          "text": "Queue up, or there will be no dinner for you tonight!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The chef taps his metal spoon, sending the boy back to his place in the queue."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The boy sneakily grabs a few flatbreads, tucks them under his shirt, and scurries away."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sotheby",
+          "text": "Ah!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He bumps into Sotheby, crashing to the floor along with his \"stolen goods.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Young Vendor",
+          "text": "Ei, out of my way!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He stuffs the bread under his shirt again before running off. As he passes, Sotheby notices a glint of an arcane skill in his eyes."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He runs like a child enchanted by the Rattenfanger as he bolts toward a corner of the cabin."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sotheby",
+          "text": "Ms. Vertin? Did you notice that boy? Wasn't he awfully strange?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "You're right. Come on, let's go see what he's up to."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A woman hides in the shadows."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her face is familiar, but she wears an entirely new outfit."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Is it really her? The lady at Tuesday's Motel?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "It's you!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The bread-stealing child is gone."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Instead, Ms. Kimberly is curled up in the corner, stuffing bread into her mouth with both hands."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She stops and looks up, surprise in her eyes."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Kimberly",
+          "text": "Mm?! Oh, Vertin?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Kimberly",
+          "text": "How—What are you doing here?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "I was about to ask you the very same question."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The farewell at Tuesday's Motel last month wasn't exactly pleasant."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "But she looks starved now."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sotheby",
+          "text": "Is this a new friend, Vertin? A pleasure to meet you!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Sotheby approaches, but Kimberly looks terrified. She freezes, a sticky lump of dough dropping from the corner of her mouth."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Please, take this."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She offers her a chocolate bar. After a moment's hesitation, Kimberly swallows, grabs the bar, and shoves it into her mouth."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Kimberly",
+          "text": "Th-Thank you ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She licks her fingers clean like a ravenous child."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Have you found what you lost since we last met?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Kimberly",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her face falls. It appears not."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Perhaps I could help."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Kimberly",
+          "text": "Thank you, but I would prefer to do this on my own."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Kimberly",
+          "text": "I was the one who lost it, and I will be the one to get it back."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She's unwilling to cooperate, but there's no hostility."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A strange and contradictory figure, an arcanist who seems to be on the verge of reformation."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "This ship is headed to São Paulo. Is that where you're heading as well? Would you like to accompany us?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Kimberly",
+          "text": "São Paulo? I don't ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "It's the ship's only destination. Where else could she go?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Kimberly",
+          "text": "There isn't anything for me there. Only a pit of misery and pain. There's no more dancing, no feasts or banquets. No—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her eyes dart away."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "\"There's nothing there.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Kimberly",
+          "text": "No, I would rather we simply part ways here, Ms. Vertin! Farewell, and pleasant journeys—I'm indebted to you for your kindness."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Kimberly",
+          "text": "Ah, and your friend here ... Aren't you just a sweetheart? Oh, I could just gobble you up for tea!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She reaches out and pinches Sotheby's cheek."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sotheby",
+          "text": "Ah! Madam, please. You ... This simply isn't proper or ladylike."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Kimberly smiles, as if she has shed the baggage of their previous encounter, and disappears into the crowd."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "There's an old legend told in the desert peninsula: encountering a demon is always a sign of bad things to come."
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

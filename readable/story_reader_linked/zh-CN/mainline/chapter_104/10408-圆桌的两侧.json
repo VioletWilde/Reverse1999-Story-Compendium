@@ -1,0 +1,478 @@
+{
+  "episode_id": 10408,
+  "chapter_id": 104,
+  "chapter_title": "老虎的金黄",
+  "display_label": "",
+  "title": "圆桌的两侧",
+  "subtitle": "将圆环切作两半，每段弧线都有自己的方向。",
+  "trails": [
+    {
+      "element_id": 1040801,
+      "owner_episode_id": 10408,
+      "trigger_episode_id": null,
+      "title": "小径① 执著的访客",
+      "description": "守卫在森林边缘徘徊，邀请你们回到高大的白色房子。",
+      "action": "教学记录",
+      "unlock_condition": "EpisodeFinish=10408",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1040802,
+      "owner_episode_id": 10408,
+      "trigger_episode_id": null,
+      "title": "乘坐平底雪橇",
+      "description": "",
+      "action": "残篇阅读",
+      "unlock_condition": "EpisodeFinish=10408",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "不同色彩的声音从你的左耳进入，又从鼻孔里滑出来，就像雪橇从高山小屋中出发，坠到滑道松软的终点线上，除了一时的兴奋什么也没留下。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "你的搭讪方式逊爆了",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "——呃。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "在说什么？信号不好，噢，是的。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "我是说，虽然我与你们都不一样，但我也有良心，好吗？我的原则是不讲废话，这些都是恰到好处的暗示。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "要去度假？很好，我做好准备了",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "没错，你总是这么机灵，充满绝佳的幽默感！带上你所有的防寒装备，这里风景优美，但仍是块要和冰山打交道的危险地方。"
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "相信你也注意到了，在这冰川与峡谷，雪峰与湖泊之间，屹立着我们熟悉的伟大建筑。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "闭上眼睛，感受那些灰色与白色交错的花纹，建筑的节奏，如此的均衡，对称，像一首洋溢着律动的精密交响乐。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "这或许是你对基金会的初步印象。然而，经过一场委员会议，我看到你的面容就像被狩猎后的梗犬狠狠舔过，剩下的只有一片糟糕的混乱。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "他们**的到底在说什么？谁能来解释一下他们的关系？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "好问题！在这个寂寞的旋转着的漆黑宇宙里，只有我愿意出现在公园里的冷板凳上，告诉你这些前前后后的故事。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "基金会都有哪些职能？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "多得数不清！好家伙，你得理解，一个野心勃勃的国际政治机构，就难免不在捅娄子和擦屁股之间来回跳跃。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "共融院与委员会，他们主管着立法，不止是基金会内部的，还有国家的，甚至是国际的！但凡与人类和神秘学家的关系有关联的，都得经过他们患有腱鞘炎的体面的手。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "人类弯弯曲曲的脑沟建立了这样合理的规则：位于共融院的代表人自竞选中诞生，为他的选区负责。他们往往忙碌得像辛勤的工蜂，每年向委员会提交大量的议案。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "委员会则要选中一个幸运儿，把它推进到下一个流程，开始一场中世纪集会般热闹的辩论投票。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "集会里聚集了许多人，党团，主持人，数十个专家小组，每个人的立场和利益各异，就像一场颇具现代精神的精神搏击！我们将在唇枪舌战中等待十几天，或者好几个月，才能睁大眼睛看清楚是谁拿到了金腰带。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "谁才是基金会的老大？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "你还没有见过他。事实上，大部分人都没有，因为机会总像流星一样稍纵即逝。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "但没有关系，少了他，基金会照样能流畅地运转！任劳任怨的康斯坦丁，那朵严酷的白百合，正尽职地把基金会往自己所以为正确的方向上掰呢。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "来吧，让我们把眼光放长远点儿。人类聪慧的大脑皮质表明，他们需要一些看起来相互制衡的关系。委员会、共融院和多个行政部门就这样诞生了。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "共融院与委员会，他们主管着立法，不止是基金会内部的，还有国家的，甚至是国际的！但凡与人类和神秘学家的关系有关联的，都得经过他们患有腱鞘炎的体面的手。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "委员会有权通过或拒绝代表人的议案。偶尔也有死脑筋的代表人，像只护雏的红背伯劳反复地提交被拒的议案，直到筋疲力尽。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "等进入到正式的立法辩论阶段，你就能观赏到一场饱含现代文明精华的斗兽表演，所有的主席、代表人、党团、专家小组都是权力竞技场里的狂热分子。"
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "通过了这一关，剩下的就交给那座白色石屋了。他们很少表达自己的意见，很少，但不是没有。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "还有其他的吗？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "噢，是的是的。你询问的模样是多么的礼貌，好像在问一个大卖场里向你兜售本地棉袜的兼职高中生。"
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "我会很好心地告诉你，当然还有其他的了！我们不能忽视基金会其他的行政部门，还有那倒霉的总部下属的各国分部，充满关怀的救济院般的第一防线学校。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "要知道，基金会可是在管理世界！他们当然得弄出一点儿弯弯绕的规则出来，好让聪明的人更聪明，糊涂的人更糊涂，大部分生活在中间的人呢，死去的时候能带着无辜的笑意！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "人类最擅长折腾这些玩意儿。愚笨的神秘学家不能只知道抱怨，要去领悟，洞见他们的企图——知道吗？去感受规则里溢出来的脑浆！这样你总有一天就会明白……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "——生活就像乘坐平底雪橇。"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100410",
+      "internal_title": "第四章4-8",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "圆桌的两侧"
+        },
+        {
+          "kind": "title_card",
+          "text": "基金会委员会会议室"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "委员Ⅰ",
+          "text": "这种事没有开紧急会议的必要。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "委员Ⅰ",
+          "text": "缺乏战略的，孤注一掷的“宣战”，符合神秘学家一贯的行为模式。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "委员Ⅰ",
+          "text": "他们所占据的区域，不论是范围大小还是影响力都不值一提。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "委员Ⅱ",
+          "text": "嗯，行政部门目前还没有正式行动。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "委员Ⅱ",
+          "text": "听说部门计划派出一支队伍将他们送到教管学校。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "委员Ⅰ",
+          "text": "那这件事情解决了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "摊开的卷宗被合上，椅子向后挪动，人们站起身来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "如果下次维尔汀又带回一批新的非登记神秘学家。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "——这一次的事件还会重演吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Z女士还站在原地。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "停在门口的委员慢慢地转过身来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "委员Ⅰ",
+          "text": "我不理解。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "委员Ⅰ",
+          "text": "加入基金会，难道是一件让人颜面扫地的事情吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "委员Ⅰ",
+          "text": "签订协议的神秘学家，不仅拥有在社会上使用神秘术的权利，还将被赐予莫大的荣耀。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "委员Ⅰ",
+          "text": "就在十几年前，神秘学家的应聘申请书多到人事部门用一层楼都装不完。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "委员Ⅰ",
+          "text": "就算是新纪元运动也无法冲击基金会在国际社会上的权威！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "委员Ⅰ",
+          "text": "而眼前这些目光短浅的神秘学家个例——甚至不值得成为一个会议的议题。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "但是……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "他们并不是冲着圣洛夫基金会的名号来的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "他们选择跟随维尔汀，是出于自身意愿及对维尔汀个人的信服。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "这与我们以往招募的职员有着根本的不同。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "委员Ⅱ",
+          "text": "你的意思是……是否加入基金会，对他们来说根本无关紧要。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "恐怕是的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "但我们并不能将他们驱逐出去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "我们都很清楚，现在的基金会亟需新成员的加入，以构建更强大的势力。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "委员Ⅰ",
+          "text": "你想表达什么，直接说吧，Z女士。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Z女士重新回到座位上，打开了手头的文件夹。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "今天共融院再次提交了这份《暴雨改革：增员与秩序》的修订草案。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "我认为现在有必要讨论是否通过这项草案，使其进入到立法辩论阶段。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "委员Ⅱ",
+          "text": "这是在自寻烦恼，女士……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "请看第二十一页第三节。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "“由司辰招募来的外界人员，归入司辰编制内。”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "“司辰提供统一的教管及控制，并对他们的后续行为负责。”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "“司辰编制内人员，在遵守《基金会员工守则》前提下，对司辰的命令负责，无需直接听命于基金会。”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "这将给予非登记神秘学家更高的自主权，提高他们对基金会的认同。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "同样，通过司辰，基金会仍然拥有调动和部署这些人士的军事权利。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "这一节回答了我们现在面临的难题。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "委员Ⅰ",
+          "text": "换句话说，就是把他们变成基金会的十八线合作雇佣兵。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "我认为是紧急战时的预备役。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "委员Ⅰ",
+          "text": "这行不通。放开对神秘学家的管控会带来什么？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "委员Ⅰ",
+          "text": "屠杀、暴政、无止尽的复仇……他们一向把历史当成排泄激情的粪坑，任由狂瞽之言在王座上肆虐。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "委员Ⅰ",
+          "text": "现实已经说明了一切。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "委员Ⅱ",
+          "text": "正是如此。更何况，这种改革在基金会上从未有过先例。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "委员Ⅱ",
+          "text": "在当下“暴雨”突发的环境下，贸然改革只会增加风——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "抱歉，我来迟了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "康斯坦丁大步迈进会议室，将文件夹扔到桌上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "讨论得很热烈啊。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "看来大家对这个草案相当感兴趣。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "希望我现在加入还不算太晚。"
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

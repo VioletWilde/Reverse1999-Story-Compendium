@@ -1,0 +1,567 @@
+{
+  "episode_id": 10902,
+  "chapter_id": 109,
+  "chapter_title": "Folie et Déraison",
+  "display_label": "",
+  "title": "More than Circles",
+  "subtitle": "A ring that closes on itself? That is far from enough to define the essence of \"fate.\"",
+  "trails": [
+    {
+      "element_id": 1090201,
+      "owner_episode_id": 10902,
+      "trigger_episode_id": null,
+      "title": "Ushuaia, the End of the World",
+      "description": "Where is this place? The furthest edge of civilization.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=10902",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "A gambling game's been set up in a place unfamiliar to you. Soon, you'll be invited to join the table as well."
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "Give me more details.",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Hmph ... you seem to have grown quite assertive. But remember this: as a newcomer to the table, you have no privilege to make demands or probe for information unless you're looking to be targeted and isolated."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "You have to lose a few rounds—pay your \"entry fee.\" Only then can you start to learn the secrets of those at the table. The players' backgrounds, the dealer's habits, and the truth behind the highest-stakes gambler."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "It's baffling to me. Why would anyone travel halfway across the world just to throw away their money?"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "They're seeking victory.",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "That was a rhetorical question. But thanks for answering."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "You're right; the allure of winning is irresistible, even in a game of chance. People blow on the dice, clutch a rabbit's foot, or murmur a prayer, foolishly believing they can sway the outcome."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "How deluded. It's pathetic."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Tsk, disappointing indeed. To think you're entangled in such empty words."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Some are so captivated by these grandiose phrases that they feel empowered when using them. Despite their vapidity, it makes them feel important."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Ha, hypocritical. Delusional, even."
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "Nonetheless, it's a fair game.",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "Oh, quite the opposite. The odds are rarely equal. Your opponents could have any number of advantages stuffed up their sleeves—a larger stack of chips, easier winning conditions, or even the power to change the rules. Want a fair game? You've got to fight for it, by any means necessary."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "The white suits always play it safe, carefully hedging their bets, while the black robes plot to overturn the table."
+                }
+              ]
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "Clever countermeasures.",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "Clever? More like cretinous and atrocious."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "Once the table's flipped, there'll be nothing but chaos. Who would bother to set it right again? No one."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "They're seeking salvation.",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100903",
+      "internal_title": "第九章9-02",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "More than Circles"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "According to these news reports from Ushuaia, there was an arcane attack on the pier about a week ago. All the ships in the port were destroyed."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Could Manus Vindictae be responsible for this, or perhaps the Zeno rebels?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Hard to say. But things have been suspiciously quiet these past few days."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "I had been hoping we'd find some clues here in Ushuaia after we lost track of the Manus in the \"Free Breeze\" shipwreck."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "They would've gone to ground, somewhere remote and off the radar. Indeed, it's possible they've already left Ushuaia."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "For whatever reason, it seems they haven't been pushing for the \"Storm\" to happen quite as eagerly as before."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "I have a strange feeling about it all. They're definitely up to something."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "For now, it seems our new friend's story lines up with the intel from Moth. It seems the Zeno rebels really did bring Dr. Dores here. We should see if there's anything more she can tell us."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Timekeeper ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The chief assistant hesitates."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "The Foundation doesn't have any intelligence on Tierra del Fuego. If the Manus really are here ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Then, we'll be on our own. The closest Foundation Branch is in Buenos Aires, 3200 km away."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She reflects without words, a reminder that the chaos caused by Igor's rebellion is still fresh."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Careful and well-considered as ever, Sonetto. It's possible they've already infiltrated Ushuaia, just as they did in Chisos."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "But the Zeno rebels may still be holding Dores. We can't just wait around. I'm afraid we'll have to take the risk."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Ushuaia's not very big. If Manus Vindictae is here, we'll notice. Stay sharp."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Understood, Timekeeper."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "I'll keep an eye out for them and for Dr. Dores."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "After a chaotic \"hunt and escape,\" the café regains its usual peace."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The gendarmes are gone, and so too are Recoleta's companions."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "My friends ... They're really gone."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "\"Goodbye, Recoleta. I don't think we'll meet again—\" So that's all I get?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "We could've exchanged some farewell poems, read them out loud like we used to, and shed a few bitter tears over our heartfelt goodbyes."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "But you know what they say: \"Goodbyes are only a senseless feast of unhappiness.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Pardon?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "Oh, it's nothing. Never mind. Please, sit down. And could we get a pot of mate with mint, please?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Thank you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Recoleta watches with interest as the two girls take the offered cups of tea."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "So, you're looking for Dores?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "I can tell she's important to you from your look."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Correct. Is there anything more you could tell us about the day you met her?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "Of course. It was one of those gray, overcast afternoons ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "I had just turned onto Calle Bolivar when I ran into this blind woman on my way to the post office."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "To be exact, I didn't run into her. She called to me. It felt like a sacred moment in time, like something unworldly. I just stood there, frozen, as she walked up and fixed a loose thread on my sweater."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "I stared at her until my fingers went numb and the letter almost slipped out of my hand."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Dores",
+          "text": "Miss, could you tell me what's in that direction?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "I followed her hand as she pointed forward. Strangely, even though I could see she was blind, I had a feeling that she knew exactly where she was pointing and where she intended to go."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "That's the way to Comala Prison, madam."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "Is that where you're headed? I could walk you there, if you'd like."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Dores",
+          "text": "Thank you, Miss. But I think I've found my way."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "She held a typewriter. How ironic that God would give her at once both books and night."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "I'm Recoleta. What may I call you, Ms. ...?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Dores",
+          "text": "...?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "I hope you don't mind me asking, madam. I didn't mean to pry."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "It's only that I have to know. You're a writer too, aren't you? I've been working on a novel, and for some reason, I have this feeling you could be a character in it!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "Forgive me. I'm just so excited! I really want to remember this moment. Please, may I have your name? Or whatever you'd like me to call you?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Dores",
+          "text": "Heh heh."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "I don't think I'll ever forget her smile. It was soft, kind, almost merciful, and oddly, it felt so ancient."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Dores",
+          "text": "No offense taken, Ms. Recoleta. But first, I have a question for you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Dores",
+          "text": "What does literature mean to you?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "Sorry?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "What a question it was! I wasn't expecting anything like it!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Dores",
+          "text": "You're a writer, are you not? And one, I sense, with purpose. Tell me—where does such powerful motivation come from?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "Actually, well, I'm not sure, madam."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "I have my pursuits and questions, but literature is neither the goal nor the answer to them. Literature is ... Well, it's just literature."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "I suppose if I had to define it, I'd say it's a tool, a kindling for fire, or a lens to see through, a means to explore and raise questions from different angles and express our perspectives."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Dores",
+          "text": "And what an interesting perspective you've expressed. I see."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Dores",
+          "text": "But how does literature make you feel?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "As though I'm a kid looking through a kaleidoscope for the first time."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "Well, maybe that's not the best way to put it. Perhaps something a little more subtle."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "Just when I was looking for the right word, she turned away with a little wave, heading toward the prison, her feet crunching over the fine snow."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "So, she must've gone to the prison!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "When did all of this happen?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "About three days ago. I remember the sun came out for a while that day, and the streets were glistening with melting snow."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "You've heard of Comala Prison, haven't you?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Word by word, the question turns from an implication into a declaration."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Three days ago? Then we may be able to catch up with her there, Timekeeper."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "You're right. We need to get there as soon as we can."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "Whoa. Amazing! So decisive, assertive—a true show of character!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "You must be the very archetype of a charismatic leader!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "What's left to say? Whenever the protagonist has what they want fall into their laps, we're all quick to complain about lazy writers using \"deus ex machina\" to keep the story together. So let's not dwell on it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She reconciles this observation with a silent nod to an unseen author."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "But anything can happen in a place like Ushuaia. It's a city where the day may only last four hours and the streets are full of exiled arcanists."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "We appreciate your help, Ms. ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "Recoleta. Please, think nothing of it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Ms. Recoleta, I'm Vertin, and this is Sonetto. We're investigators from the St. Pavlov Foundation."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Pleasure to meet you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "Likewise, likewise! Glad that I could help. But listen, ladies."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The girl winks playfully."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "Everything happens for a reason, and now it's becoming clear. You're going to Comala Prison, and so am I."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "Maybe it's fate that brought us together."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "What's your business there, if you don't mind our asking?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "Oh, it's a ... writer's mission. But anyway, we're friends now."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "If you're going to Comala, you'll need someone who knows the way."
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

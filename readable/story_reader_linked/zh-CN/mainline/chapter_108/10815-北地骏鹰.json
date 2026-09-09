@@ -1,0 +1,816 @@
+{
+  "episode_id": 10815,
+  "chapter_id": 108,
+  "chapter_title": "忧郁的热带",
+  "display_label": "",
+  "title": "北地骏鹰",
+  "subtitle": "一场久违的相聚，一场惊天的叛逃。",
+  "trails": [
+    {
+      "element_id": 1081501,
+      "owner_episode_id": 10815,
+      "trigger_episode_id": null,
+      "title": "三声敲响",
+      "description": "",
+      "action": "残篇阅读",
+      "unlock_condition": "EpisodeFinish=815",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "一个谎言，造成了一系列的连锁反应。因此我带来一个坏消息，你遭到了背叛。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "但还有一个好消息，那位飞行员中尉对你的忠诚，要比她所宣誓的组织来得多得多。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "谁的胆子这么大？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "你认识那位将军。他为自己带来了一位不可战胜的敌人，也在自己的心脏上留下了不可愈合的疽疮。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "坐在那个位子上，他必须把信念扎进脑髓，连着整条脊梁骨都挺得笔直。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "就算前线捷报不断，他也有自己的判断。哪怕连手下的副将都怀疑他下了着臭棋。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "站得高看得远，上面的人着眼点总是与众不同的。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "叛徒不会有好下场。",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "你应该听过特洛伊木马的故事。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "但你是否了解那个试图制止木马入城的祭司的下场？还有木马里的将士们如何忍耐着不发出哀号？以及特洛伊将军的葬身之地？"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "他知道这点。被手下打穿脑袋是对那可怜的荣誉的伤害——相对而言选择背叛要好得多。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "这与智慧无关。只是一位病人受够了疽疮的折磨。于是，他看着窗外，有了一个主意。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "那是新晋的传道者画上的一片嫩叶，而他也决定争取所能争取的一切。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "他知道的，是他自己把自己逼上了绝路。"
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "够了，我听够坏消息了。",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "太棒了，我也完成了这次汇报。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "希望你可以一直做出正确的决断，毕竟捷报并不常有。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "希望他足够聪明。",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100821",
+      "internal_title": "第八章8-15.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "北地骏鹰"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "办公室"
+        },
+        {
+          "kind": "title_card",
+          "text": "伊戈尔办公室"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "地标"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "老将军拿起了一旁的档案，接着翻看起一位年轻飞行员的履历。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "一个酒鬼。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "一个爱打架的小神秘学家。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "传令兵！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "叫红弩箭中尉到校场等我。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "老将军从椅子上动身，走向校场——在那儿，叛徒的血迹还染红着荒草。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "渐黑"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "黑屏"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "基地"
+        },
+        {
+          "kind": "title_card",
+          "text": "芝诺基地"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "地标"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "年轻的飞行员举着酒壶，走向老将军。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "和我们家乡的酒比起来，味道怎么样？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "喝了之后犯困，又困又醉，让人没精神。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "就像这片土地，一直都沉浸在半生半死的醉意里。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "贫穷，混乱，未来比天上的太阳离他们更远。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "抬头是照亮大地的太阳，而生活却像在下水道里跳舞。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "告诉我，中尉，你眼中的基金会是什么样的？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "这是试探吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "这是一位老人的好奇心，他想知道年轻人是怎么看待那个组织的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "比起重塑之手的疯子来说，基金会至少还能讲道理。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "啊，他们很固执，但总的来说，我觉得基金会都还算是好人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "比如说司辰的那个小跟班。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "十四行诗，被困于文书与行政事务而无法与司辰一同来到圣保罗的那位十四行诗。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "规矩，制度，法条律令……说真的，很没意思，但要是一切都乱了套，那就更坏了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "总的来说，基金会里是一群不讨喜的人，但总要有人来干这些不讨人喜欢的活儿。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "老将军的眼神中掠过一丝微妙的赞许。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "芝诺一直以来都是基金会最忠诚的伙伴，我们致力于神秘学家和人类共同的光明的未来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "对抗重塑之手，也对抗世上的战争和混乱。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "例如在圣保罗，以芝诺独特的方式维持着这座城市脆弱的和平。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "嗯哼，一把枪，指哪儿打哪儿。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "“暴雨”让大多数没能得到保护的士兵成为了“必要的牺牲”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "我不喜欢芝诺干的这些事。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "没错，但这也是命令。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "无异于命令士兵们徒劳地送死，对抗一个不可战胜的敌人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "但我们还是义无反顾地走了过来，一路走到今天，撑着这台摇摇欲坠的战车，在雨幕中行进。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "但芝诺还能前进多久？它的履带还能坚持多久呢，中尉？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "我不知道，也没兴趣知道。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "年轻的飞行员又灌下一口甜甜的烈酒。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "酣甜如梦，沉沦至死。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "氛围图"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "阿尔卡纳没有死。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "真空弹轰击过后，我们监听到了爆炸中的生命信号。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "放大"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "不可能。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "是啊，不可能，除非这是神迹。但你相信“神迹”吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "还不如相信酒鬼的胡话。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "可总有人愿意相信奇迹，追随为他们展现奇迹的人，像羊群走向牧人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "前些日子的逃兵事件我并不意外，真正让我感到震怒的是他们枪杀了自己的长官。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "该死的叛徒。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "在第一场“暴雨”到来前，中尉，我们的军队中人类和神秘学家相处融洽。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "重要的不是血管里流淌着哪个种族的血，而是团结在部队番号下。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "我们不是同胞，而是同志。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "但“暴雨”改变了一切。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "时代倒流，神秘学的辉光在一次次倒退的时代中越发灿烂。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "也让往日的同袍间渐渐生出了隔阂。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "消氛围图"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "作为军人，我必须遵照命令向上级送去我的士兵。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "但……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "老将军欲言又止。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "但他们会把士兵牺牲在什么地方？就像战争，总有些事情没法用简单的“善恶”来论断。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "中尉，司辰在你眼中是什么样的人？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "她很可靠。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她用一个简短却强而有力的词做出论断。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "嗯，我也完全相信你会为那位年轻的司辰牺牲自己。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "我们缺少的正是像她这样的领导者。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "唉。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "重塑之手和他们，何尝不是一枚硬币的不同面呢？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "老将军叹了口气，随即向红弩箭发出邀请。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "基金会，和平安全理事会，重塑之手……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "你认为你们的那位司辰——她最终会选择一条什么样的道路，中尉？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "我相信维尔汀。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "嗯……我明白了，这就是你的答案。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "这是芝诺对我的试探吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "不，这和芝诺无关，只是我个人的一点兴趣。和伊戈尔有关，但和伊戈尔将军无关。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "老将军挥挥手，转身离去，留下年轻的飞行员独自留在原地。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "转场"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "黑幕"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "老将军的身影消失在阴影中，士兵们却匆匆赶来，将飞行员包围。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "转场"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "什么意思？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德尔",
+          "text": "为你试图袭击伊戈尔将军的罪行，红弩箭中尉。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一个谎言，令不善说谎的副官女士耳根升红。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "袭击？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一个罪名，但无需对应的罪行与之匹配。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "……我懂了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "飞行员握紧她心爱的坐骑，可靠的红色38会永远与它骄傲的空中骑士在一起。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德尔",
+          "text": "解除武装，中尉。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "面对芝诺卫队的枪口，飞行员拿起酒壶，干得一滴不剩。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "这儿的酒都跟个孬种一样。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "想拿下我，你们总该先把我揍趴下吧？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德尔",
+          "text": "开枪。"
+        }
+      ]
+    },
+    {
+      "script_id": "100822",
+      "internal_title": "第八章8-15.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "打"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "升空"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "跌落"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "混战没有给飞行员升上天空的机会，在搏斗中，她渐渐寡不敌众。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德尔",
+          "text": "你的反抗没有意义，中尉。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "抓住"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "飞行员还是被缴械了武装，由两名士兵押跪在地，双手反绑背后。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "伊戈尔打算做什么！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德尔",
+          "text": "父亲会带领我们走向一个不再有毫无意义的牺牲的未来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德尔",
+          "text": "他已经掷出了骰子。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德尔",
+          "text": "请原谅，我和你没有私人恩怨。这只是命令。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "冰冷的命运，像吹过玛丽·伯德地的寒风。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德尔",
+          "text": "把红弩箭中尉带到监禁室，在得到将军或我的命令前，任何人不能伤害她。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "什么？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "渐黑"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "黑幕"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "禁闭室"
+        },
+        {
+          "kind": "title_card",
+          "text": "监禁室"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "地标"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "锁链挣扎"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德尔",
+          "text": "我们是叛徒，中尉。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她为这个词感到不齿，但依然坦诚。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德尔",
+          "text": "但我忠于父亲。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德尔",
+          "text": "很遗憾不能在接下来的日子里与你共事。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "监禁室里，被锁住脚踝的飞行员正愤怒地看向光亮下的探视者。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "他早就在谋划这事了吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德尔",
+          "text": "传道者给了父亲礼物，也给了我们一条回到未来的道路。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德尔",
+          "text": "无论是生是死，红弩箭中尉，我绝不会背叛自己的家人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "渐黑"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德尔",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "铁门慢慢关上，黑暗复又笼罩监禁室的无光之地。交代下安排后，副官女士将钥匙交给守卫，嘱托几句后离开。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她还要迎接即将到来的其他姐妹兄弟们。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "为了父亲选择的道路，义无反顾。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一辆辆卡车驶入基地，来自各地的芝诺精锐由忠于伊戈尔将军的年轻军官们率领着，赶往基地。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "为了彻底剿灭重塑之手，为了摧毁天使兄弟会，为了……一位将军所选择的未来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "谎言之中，背叛者的屠刀已然举起。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "脚步声"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "监狱守卫",
+          "text": "嘘，小同志，别担心，请你稍微忍耐一会儿……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "……？！"
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

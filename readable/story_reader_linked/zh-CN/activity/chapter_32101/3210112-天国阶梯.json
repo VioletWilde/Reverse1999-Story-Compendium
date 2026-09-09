@@ -1,0 +1,663 @@
+{
+  "episode_id": 3210112,
+  "chapter_id": 32101,
+  "chapter_title": "迁流的盛宴",
+  "display_label": "",
+  "title": "天国阶梯",
+  "subtitle": "向下即是上升。恕不接待任何无证闯入人员。",
+  "trails": [
+    {
+      "element_id": 3210104,
+      "owner_episode_id": 3210112,
+      "trigger_episode_id": null,
+      "title": "刻薄的评论",
+      "description": "给那些走投无路的神秘学家一点小小的建议。",
+      "action": "交互",
+      "unlock_condition": "EpisodeFinish=3210112",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "“太阳王的宠臣”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "佩剑贵族在路易十四的时代里大都过得不太舒服。他们被迫进驻凡尔赛宫，用繁复的贵族礼节向国王表示服从，倘若能够博得国王的些许恩宠，那么多些赏赐和年金也能抵挡不少债务。\n    饶是如此，他们也拒绝摘下佩剑、换上长袍，有神秘学家血统的老派贵族情愿继续卖弄他们“独一无二”的神秘术。巴隆家族就是其中一员，曾经在古代战场呼雷喝电的他们，也只能在宴会上耍一些把戏，好让他们在社交场上出点风头。\n    总有支撑不下去的时候。拿破仑时代之后，这些债台高筑的老爷们终于不得不穷尽一切手段获利。变卖家产已经是上流社会心照不宣的行径，投资小生意也不再是个下贱事。幸而其时铝价金贵，巴隆先生得以凭借神秘术在制铝业中获得一席之地，由此得以让家族维持体面。\n    可惜好景不长，在新秩序和新武器将过去的一切碾得粉碎的同时，人类飞速发展的技术也使得低产的神秘术又一次沦落到无用的境地。看看这些灯泡和电缆吧，电流已经不再是什么稀罕东西了，霍尔-埃鲁法的推广彻底摧毁了巴隆家族最后的营生。\n    多么可悲的荣耀往昔，多么可怜的高贵人儿。这些落寞的家族太需要一个机会，一双援手，一个能够改换时代、重现神秘学家荣光的可能……"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "203218",
+      "internal_title": "【3.2】迁流的盛宴12.1",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "西莉亚，等等我！你跑什么？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "追着模糊的影子，阿黛拉转过又一个拐角，错愕地停下了脚步。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "死路？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "煤油灯被重新点燃，照亮道路的尽头。那里除了堵得严实的砖石外空无一物。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "她去哪里了——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "西莉亚",
+          "text": "阿黛拉！为什么你和他们在一起？"
+        },
+        {
+          "kind": "title_card",
+          "text": "地下墓穴·死路口"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一双手忽然从身后抓住了阿黛拉的双肩，她被猛地扳过了身子——映入眼中的是好友急切的面孔。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "西莉亚？我明明看到你在前面，你是怎么……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "你还好吗？到底发生了什么？你不知道我有多担心……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "扣住肩膀的手猛地用力，关切的话语被惊慌地打断。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "西莉亚",
+          "text": "我在问你！你为什么会和他们在一起？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "他们？谁？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "西莉亚",
+          "text": "——重塑之手！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一个仅在梦中出现过的名字被咬牙切齿地喊了出来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "西莉亚",
+          "text": "罗西骗了我们所有人，他一直是重塑之手的一员——他根本不想拯救任何东西！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "西莉亚",
+          "text": "绝对不能让他把门打开！意象的巴黎绝不能降临！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "等等、等等！西莉亚，冷静点。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "那个什么重塑之手……还有世界毁灭？从头慢慢说，好吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "阿黛拉抓住好友的双手握紧，这起了效，手心传来的颤抖逐渐减弱。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "西莉亚",
+          "text": "……你还记得文森特吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "当然，我记得他，那个在街上乱开车的家伙！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "我还梦到他变成了“热沃当的野兽”——西莉亚，你也在那个梦里。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她试探性地看向好友。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "西莉亚",
+          "text": "不，阿黛拉……那不是梦。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "西莉亚",
+          "text": "昨天上午，我去医院想要探望文森特。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "正好是我去布翁尼女士的水晶工房的时候。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "西莉亚点了点头。她看起来镇静了许多，但嘴唇仍在微微打着颤。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "西莉亚",
+          "text": "到了医院后，医生说他已经被家里人接回故乡休养了。\n当时我没有多想，只是遗憾没能道声别……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "西莉亚",
+          "text": "可就在回去的路上，我却看到文森特坐上了一辆雪铁龙。\n我认得那辆车，那是罗西教授的座驾。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "说到这里，她深吸了一口气——再吐出时，气息中带着惊怒交加的颤抖。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "西莉亚",
+          "text": "这太奇怪了，我放心不下，立刻拦下一辆车追了上去，看到他们从一处隐蔽的入口进了地下墓穴。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "西莉亚",
+          "text": "他们一路向下，我悄悄跟在后面。不知过了多久，就在我以为要走到地狱了的时候……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "西莉亚",
+          "text": "我看到了一个房间。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "罗西教授",
+          "text": "你大可感到荣幸，不是所有人都拥有来到这里的资格。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "向身后投去施舍般的一瞥，男子阔步走入道路尽头的房间，神情恍惚的青年紧随其后。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "片刻后，藏在拐角处的年轻女子才谨慎地探出身来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "西莉亚",
+          "text": "这是什么地方……？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "入口处透出的奇妙光亮刺入她的双眼，透着说不出的诡异。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "西莉亚",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她定了定神，小心翼翼地向二人身影消失的地方靠近。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "空荡的地板正中赫然张开着一个规整的圆形洞口，洞壁挂着一架看不出材质的爬梯。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "文森特",
+          "text": "一架向下的梯子？我还以为我们已经在地下墓穴的最深处了……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "文森特",
+          "text": "请您原谅我的愚蠢，我的陛下——这梯子通向哪里？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "罗西教授",
+          "text": "如其在上，如其在下——不要被眼前的表象迷惑。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "文森特",
+          "text": "什么？您是说……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "罗西教授",
+          "text": "是的，这里就是它的入口。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "罗西教授",
+          "text": "意象宝库、世界灵魂、所有人的梦境、集体潜意识的海洋……它有太多的称呼，但我更愿意称呼它为——迷思海。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "罗西教授",
+          "text": "它的确存在，就在你的面前。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "文森特",
+          "text": "噢……天哪！我从没想到……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "罗西教授",
+          "text": "但一条小小的裂缝只能引来一缕微光，不过是杯水车薪。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "罗西教授",
+          "text": "想要真正光复曾照耀这片土地的荣光，我们需要更多的光亮——就像是奥斯特里茨的太阳曾带来的那般光亮。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他的目光向下，双眼倒映着忽明忽暗的光芒。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "罗西教授",
+          "text": "这有一定风险。意象的混沌盛宴会吞没所及之物，下潜者对灵与肉的认同将被颠覆，成为另一副模样。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "罗西教授",
+          "text": "——不过别担心，文森特。你还记得我对你的教导吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "文森特",
+          "text": "当然……当然！这是何等的荣幸！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "年轻人没有犹豫哪怕片刻。\n他沿着那架爬梯向下，灵巧地活动起手脚，眨眼间便消失不见。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "罗西教授",
+          "text": "你应当会发现一把钥匙，一枚法兰西之蓝——它是一位可敬前人的临终发现。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "罗西教授",
+          "text": "她在下潜时不幸消融在了迷思的深处，却也找到了一只至关重要的锚。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "罗西教授",
+          "text": "它会帮助我们架起物质与精神世界之间的天梯，帮助我们到达那个完美的世界——你找到它了吗，文森特？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "文森特？",
+          "text": "是的，我找到了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "首先沿着梯子抓上来的是一双粗大的利爪。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "文森特？",
+          "text": "如此炽热、如此耀眼——那颗太阳就在这里！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "随后，扭曲的头颅从洞口探出，锐利的獠牙间闪烁着瑰丽的蓝色。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "——那副模样显然已经不再属于人类。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "罗西教授",
+          "text": "很好，很好！就是这样，将它带给我——带到这一侧来！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "但下一秒，那缕蓝化作飘散的光点，消失不见。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "罗西教授",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "爬梯边男子脸上狂喜的神色凝滞片刻后，逐渐褪去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "罗西教授",
+          "text": "真是遗憾，亲爱的文森特……看来你并不是合适的人选。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "野兽发出沮丧的悲鸣。\n男子并未理会，将视线平静地转向了入口处。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "罗西教授",
+          "text": "也许你可以帮我完成最后的实验——西莉亚，我最聪明的学生。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "西莉亚",
+          "text": "——！！"
+        }
+      ]
+    },
+    {
+      "script_id": "203219",
+      "internal_title": "【3.2】迁流的盛宴12.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "西莉亚",
+          "text": "劳伦·罗西根本就是一个疯子……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "愤怒与悲伤扭曲了好友一向温和的面孔。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "西莉亚",
+          "text": "我以为他真的想用超心理学研究改变现状，而且已经走得比所有人都远……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "西莉亚",
+          "text": "现在我终于明白了，他引用的那些前所未见的观点，他口中所说的理想，全都是为了欺骗我们——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "西莉亚",
+          "text": "传闻中城里出没的所有那些怪物、那些癔症和失踪案，都是他和重塑之手搞的鬼。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "罗西、迷思海、重塑之手……？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "西莉亚",
+          "text": "是的。文森特就在我面前变成了“热沃当的野兽”，我亲眼看到了……我也……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "好友的声音哽咽了。\n无数疑问接踵而至，但它们最终都为一件事让开了道路。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "谢天谢地，还好你逃了出来！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "我们先离开这个鬼地方，其他事出去了再说！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "阿黛拉抓紧了那双手。她有十足的自信，不会再弄丢寻回的珍藏。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "于是她迈开了步子——并没有脚步随之跟上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "……怎么了，西莉亚？快走啊？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她拉着的人仍站在原地，苦涩地扯起了嘴角。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "西莉亚",
+          "text": "太好了，阿黛拉……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "西莉亚",
+          "text": "在你看来，我还是原来的模样吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "西莉亚，你……你刚才……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "有那么一瞬间，眼前熟悉的面孔覆上了一层黑色的阴影——那绝不是幻觉。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "西莉亚",
+          "text": "……我没能跑掉。他们发现了我，把我从那架梯子上扔了下去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "西莉亚",
+          "text": "数不尽的声音钻进我脑袋里，我感觉不到自己身体的存在……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "西莉亚",
+          "text": "就是在那些声音中，我得知了“重塑之手”这个名字……一切就像是一场噩梦，疯狂、混乱……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "西莉亚",
+          "text": "但慌乱中，我摸到了一个东西——那把钥匙，那颗钻石。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "西莉亚",
+          "text": "重塑之手的人要利用它打开迷思海的入口，到时候巴黎会被混乱的意象侵占。\n恐怕所有人……都会遭遇和文森特一样的事。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "西莉亚",
+          "text": "我必须把它带走，可之后呢？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "西莉亚",
+          "text": "阿黛拉，你说过，真正的法兰西之蓝早已被二次切割。这枚钻石只可能是重塑之手制造的仿品。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "西莉亚",
+          "text": "——你的神秘术可以销毁它。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "西莉亚",
+          "text": "所以我想着这件事……我想着，我一定要见到你。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "西莉亚",
+          "text": "随后，我的眼前真的出现了一扇门，一扇我拉开过无数次的出租车副驾驶席的门。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "西莉亚长舒一口气，脸上浮现出一种解脱般的神情。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "西莉亚",
+          "text": "也许那片迷思海真的连接着所有人的梦境……甚至能模糊现实与梦的边界。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "西莉亚",
+          "text": "它让我见到了你。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "那个梦……所以那时候真的是你？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "西莉亚",
+          "text": "是的。迷思海是很伟大的发现，它可以将我们都联系起来。\n可我的冒险……也到此为止了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "西莉亚",
+          "text": "他们不会就此罢休的。罗西掘地三尺也会将那枚钻石找回来，继续实现他梦中的巴黎。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "西莉亚",
+          "text": "必须阻止他们。告诉我，阿黛拉，你一定已经烧毁它了，对不对？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她急切地回握阿黛拉的双手，试图求得一个令自己安心的答案。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "阿黛拉哑然了。半晌，她才颤抖着寻回了自己的声音。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "我……那时候发生的一切都太诡异了……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "我担心你是不是真的出了事，害怕那就是唯一的线索，所以我……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "……我还没有销毁它。现在它在费利西安那里。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "西莉亚",
+          "text": "——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "西莉亚",
+          "text": "费利西安……“费利西安”？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "对，就是吃饭时我和你提到过的那个老主顾——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "西莉亚",
+          "text": "不……不对！我终于明白了，原来……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "西莉亚",
+          "text": "听我说，阿黛拉！那个费利西安也和他们是一伙的，是重塑之手的人！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "西莉亚",
+          "text": "你绝不能再靠近她了！你不知道，她早就已经——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "西莉亚",
+          "text": "呃……唔……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "什么……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "费利西安",
+          "text": "我亲爱的阿黛拉，你的朋友真是没有教养。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "费利西安",
+          "text": "我最讨厌别人在背后对我说短论长。"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

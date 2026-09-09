@@ -1,0 +1,287 @@
+{
+  "episode_id": 10104,
+  "chapter_id": 101,
+  "chapter_title": "In Our Time",
+  "display_label": "",
+  "title": "Sharpodonties and Black Wine",
+  "subtitle": "A couple of gold coins, a severed finger, and a great deal of wine.",
+  "trails": [
+    {
+      "element_id": 1010401,
+      "owner_episode_id": 10104,
+      "trigger_episode_id": null,
+      "title": "Wall Street Journal",
+      "description": "Critters are everywhere. Though they are annoying and hard to catch, specialized pawnshops offer to buy them at a decent price. Critters are divided into the following varieties. Which one did you run into?",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=10103",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "An advertisement from the ads page of Wall Street Journal."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Come to C.C Critter Pawnshop to make extra money!\nTEL: 847-6861XXX\n\nAre the cunning, ubiquitous critters annoying you again? Don't take that as bad news, because if you have a critter, you just found yourself enough money to pay your rent! We offer the best, the most precise, and the most honest pricing options you'll ever find! Our shop will buy any critters from the cheapest Carbuncles to the expensive yet delicious Rubberados that keep diners bouncing about! C.C swears on its name that every critter we buy will be treated like a family in compliance with internationally recognized standards of humane treatment!"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100105",
+      "internal_title": "第一章1-5.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "Sharpodonties and Black Wine"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "Even the tree hole is not safe enough ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "... We should go. I will carry it with me along the way."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "But Regulus ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Regulus",
+          "text": "Hm? What's that worried look?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Regulus",
+          "text": "Come on, Sonetto gave me a floppy disk. I'll reach the quarter 100% safe!"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "Don't take too long.",
+          "edge_label": "早点回来",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "Regulus",
+              "text": "I know. It's not very often I've seen you like that."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "Run if you can't win.",
+          "edge_label": "记得打不过就跑",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "Regulus",
+              "text": "Uggh ..."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "Regulus",
+              "text": "I-I'm not there to fight!"
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Regulus",
+          "text": "I gotta split then! This is a free trip. I'll definitely enjoy myself. Ha-ha! ♪"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Let's get ready to move."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "The mission is in the underground parking at No. 2122 Lincoln Park Street, two blocks away from us. We still have plenty of time ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Can ... could we go there by bus?"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "Sure. Enjoy the scenery.",
+          "edge_label": "没问题，好好欣赏风景吧",
+          "branch": []
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "Oh ... it's so cold here. This APPLe is getting frosty."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Really? I seem to feel nothing. It's actually kind of warm, compared to our routine training at low temperatures."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "According to the intelligence, now it's still one hour before the incident. Hmm ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "So this is the distance from the entrance to the wall, and here should also be marked ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "What you're depicting in the air ... Is that the reconstruction of the victims' position?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Yes, I reconstructed to actual scale. In this way I can calculate the position that can provide cover without hindering us from joining the battle in time."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "For anything that may cost others' lives, I want to be as cautious as possible. What if ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Huh. No, never mind. I am not worried about my own life. I am just ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "It's fine."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "They won't know."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "Shh ...! Someone's here. Two human drunks!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Don't let them wander around. It's too dangerous here! The gang fight will definitely hurt them."
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "Stun them first.",
+          "edge_label": "赶紧打晕他们",
+          "branch": []
+        }
+      ]
+    },
+    {
+      "script_id": "100106",
+      "internal_title": "第一章1-5.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "How's it going?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Skin damage: less than or equal to five millimeters. No visceral damage or psychube fluctuation found for the moment. Conclusion: the injuries meet the requirements of Emergency Defense Code of St. Pavlov Foundation."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "It will probably take some time for them to wake up. Hide them under the car first."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "We don't have much time. Let's hurry to the hidden position. ... Mr. APPLe, why are you a little upset?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "... This APPLe found a pack of sharpodonties in their pocket, and a child's finger ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "... Which are the currencies that only used by arcanists."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Maybe ... that's just ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "It’s 1929, a year full of racial discrimination."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "... This is also the reason why we need to stop the next tragedy. For the peace of all mankind."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Outside the silent underground parking, a piercing sound of brakes cut through."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "There're still 30 minutes. Who's coming early ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Pap, pap, pap."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Gunshots?! Wha ...? But the arcanists haven't got here ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "... Damn it. Let's go!"
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

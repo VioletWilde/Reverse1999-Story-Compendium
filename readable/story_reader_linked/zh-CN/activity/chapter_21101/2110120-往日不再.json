@@ -1,0 +1,547 @@
+{
+  "episode_id": 2110120,
+  "chapter_id": 21101,
+  "chapter_title": "77号往事",
+  "display_label": "",
+  "title": "往日不再",
+  "subtitle": "可怜的孩子，它以为只要发出哭声，就能落入一个温暖的怀抱。",
+  "trails": [
+    {
+      "element_id": 2110110,
+      "owner_episode_id": 2110120,
+      "trigger_episode_id": null,
+      "title": "“蓝手帕旅馆”事件调查报告（节选）",
+      "description": "基金会的工作人员接手了这里，现在是你所熟悉的善后时间，也是你最讨厌的善后时间。",
+      "action": "交互",
+      "unlock_condition": "EpisodeFinish=2110120",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "“蓝手帕旅馆”事件调查报告（节选）"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "监管对象：未知神秘学存在，初步判断为意识体。通称“蓝手帕旅馆”（下文称“旅馆”）。\n    自我意识等级：中弱，不具备性别、年龄等认知，能对人类语言中的部分信息作出反应。\n    神秘学能力：包括但不限于影响认知、创造幻觉、制造密闭空间、产生具有攻击性的神秘学实体。\n    ……\n    经过测试，监管对象对蓝手帕的声音、行为回应几率约为60.15%，且能遵从蓝手帕的部分简单指示（如“防御”、“允许”、“禁止”）；对研究员则较少回应，且表现出一定程度的攻击性。蓝手帕拒绝承认自己在操纵或训练“旅馆”，宣称自己同“旅馆”之间是“哺育”或“搭档”关系。\n    根据蓝手帕陈述，监管对象存在于德克萨斯州的荒野之中，形态、规模具有可变性，当前形态为对77号公路沿线汽车旅馆的模仿。监管对象的体积与摄取的恐惧量成正相关。\n    监管对象能够制造具有实体的神秘学集合体，该集合体会向受影响者植入幻觉，并在现实中造成真实的破坏。根据目击者记录，该集合体能够呈现出多种与北美地区流行的怪异故事有关的典型特征，包括但不限于血腥玛丽、天蛾人、骚灵传说等。\n    ……\n    处理建议：鉴于蓝手帕对监管对象的影响力，建议将“旅馆”继续置于蓝手帕的管理下，但需对蓝手帕进行监视。或可将其调入司辰小队。"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 2110201,
+      "owner_episode_id": 2110120,
+      "trigger_episode_id": null,
+      "title": "真实故事",
+      "description": "",
+      "action": "残篇阅读",
+      "unlock_condition": "EpisodeFinish=2110120 and ChapterMapElement=2110110",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "卡车司机",
+          "text": "嘿，这是个采访还是怎么的，你们是记者吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡车司机",
+          "text": "从城里大老远跑过来，想从荒地和柏油路上刨出来新闻……不，你们想要的是那些故事？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡车司机",
+          "text": "哦，姑娘，听我说……有一些东西是真的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡车司机",
+          "text": "你听说过老镇子上的事吗，那些人全部得了神经衰弱，被鸟群、影子和鬼知道什么东西吓得心烦意乱。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡车司机",
+          "text": "还有那些在旅馆歇息过的司机，早上屁滚尿流地跑出来，踩着油门能窜多远就窜多远。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡车司机",
+          "text": "他们是我的朋友、主顾、酒馆老板。我没办法不相信他们。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡车司机",
+          "text": "我们奔走相告，致力于让这事儿占据《南部平原之声》的一小块版面。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡车司机",
+          "text": "瞧，故事就是这样流传开的。"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 2110202,
+      "owner_episode_id": 2110120,
+      "trigger_episode_id": null,
+      "title": "派对时间",
+      "description": "",
+      "action": "残篇阅读",
+      "unlock_condition": "EpisodeFinish=2110120 and ChapterMapElement=2110204",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "农场主",
+          "text": "干杯，朋友们！为我们地地道道的德克萨斯派对！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "农场主",
+          "text": "不是所谓新式的、花里胡哨的那种，这儿只有最正宗的烤羊排和啤酒，老朋友和新朋友。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "农场主",
+          "text": "好了，伙计们，最近有什么新闻吗？我听说了这样一个故事……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "农场主",
+          "text": "……嘿，怎么都不说话了？你们那是什么表情？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "农场主",
+          "text": "我是从大个子马修那里听到的，马修又是在哈罗德警督找他修车时听的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "农场主",
+          "text": "他对天发誓，这次绝对真实，一点儿假话都没有。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "农场主",
+          "text": "那些77号公路上的失踪者可能遭遇了特里波德罗[Tripodero]的袭击！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "农场主",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "农场主",
+          "text": "哦，你们只对我的烤肉有兴趣，不打算关心这些真实的民生事件，对吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "农场主",
+          "text": "我们还是进入下一个环节——来点真正有格调的德克萨斯音乐吧。谁想来唱首歌？"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 2110203,
+      "owner_episode_id": 2110120,
+      "trigger_episode_id": null,
+      "title": "蛛丝马迹",
+      "description": "一份彩色印刷传单，上面的批注似乎解释了一些都市传说的来源。",
+      "action": "交互",
+      "unlock_condition": "EpisodeFinish=2110120 and ChapterMapElement=2110205",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "鳄鱼农场嘉年华"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "准备好迎接无与伦比的刺激体验！数百只张大嘴巴、牙齿锋利的超级明星等待你的造访，德克萨斯的庞然巨物们在此聚集！\n    鳄鱼王国巡游——你从未见过的盛大场面，百只鳄鱼的热烈迎接仪式，欢迎进入野性的世界！\n    鳄鱼喂食体验——独属勇敢者的挑战，巨嘴与手指亲密接触。别担心！我们的安保措施堪比堡垒，你将体验到刺激与安全的完美结合。\n    巨物博览会——“在德克萨斯，万物都如此巨大”，没错！观赏全州最大的牛仔帽、马靴、磨坊水车，以及众多超越你想象的庞然大物！\n    魔精观赏会——本农场的最新明星，由德克萨斯最勇敢的猎手捕捉。从那些扰乱你农场却无形无影的小恶魔，到荒原上真正的传说，如今，它们就在你的眼前！\n    别犹豫了，嘉年华等待着你！\n\n凌乱的批注：该死，那些家伙就是从这儿逃出来的！找个捕鳄高手或魔精专家来！"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 2110204,
+      "owner_episode_id": 2110120,
+      "trigger_episode_id": null,
+      "title": "UFO猎人",
+      "description": "萍水相逢的坚毅牛仔慷慨地分享了这份礼物，附带珍贵的作者亲笔签名。",
+      "action": "交互",
+      "unlock_condition": "EpisodeFinish=2110120 and ChapterMapElement=2110210",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "如何猎捕UFO"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "作者：德克萨斯州传奇外星人猎人，巴克·斯塔尔顿\n\n作者自述：从牛仔到UFO猎人\n\n第一章：外星人和UFO的起源\n\n第二章：德克萨斯的UFO热区\n案例1：公路上的消失者们去哪儿了？\n案例2：可疑搭车者的真实故事\n案例3：巴克的烧烤聚会和UFO光临\n\n第三章：准备工作\n必备工具和设备：牛仔帽、绳索和雷达\n组建你的UFO猎捕团队：从牧场小子到地球战士\n安全和应急准备：如何避免被“劫持”\n\n……\n\n第九章：应对外星接触\n与外星人沟通的可能方法：手势、摩斯电码和德州口哨\n如何保持冷静并记录互动：别忘了牛仔帽\n可能的外星人动机：他们来地球是为了牛？"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 2110205,
+      "owner_episode_id": 2110120,
+      "trigger_episode_id": null,
+      "title": "惊险旅程",
+      "description": "半张传单躺在公路上，从上面的皱痕、车辙和咖啡渍看，它经历了一段惊险故事。\n也许它的前主人也是。",
+      "action": "交互",
+      "unlock_condition": "EpisodeFinish=2110120 and ChapterMapElement=2110209",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "惊险旅程"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "征集真正的探索者，带上你的汽车、地图与勇气，加入神秘事件探索之旅！\n\n路线：\n老河谷（幽灵牛仔出没之地）\n哈德利油田（神秘发光生物）\n“大个儿亨利”橡树（“弯钩杀手”作案处）\n77号公路沿线（寻找神秘汽车旅馆）\n\n鬼怪？魔精？神秘学家？我们将一同找出真相。\n\n周五晚5点，镇公所门口集合……\n（传单由家用打印机打印，后半文字已不可辨识。）"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 2110207,
+      "owner_episode_id": 2110120,
+      "trigger_episode_id": null,
+      "title": "魔精读书会",
+      "description": "小家伙们聚在一起，认真大嚼知识与微尘，不放过丝毫字里行间。\n不幸的是，你所需要的那本民俗学读本也在其中。",
+      "action": "教学记录",
+      "unlock_condition": "EpisodeFinish=2110120 and ChapterMapElement=2110203",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 2110208,
+      "owner_episode_id": 2110120,
+      "trigger_episode_id": null,
+      "title": "搭车客们",
+      "description": "搭车如此简单：等待，伸手，上车。就连77号公路边漫游的魔精们都能学会。\n不幸的是，魔精们显然还没学到“有风度地接受拒绝”这一课。",
+      "action": "教学记录",
+      "unlock_condition": "EpisodeFinish=2110120 and ChapterMapElement=2110202",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 2110209,
+      "owner_episode_id": 2110120,
+      "trigger_episode_id": null,
+      "title": "公路双雄",
+      "description": "一辆过速狂飙的汽车，两个初出茅庐的“创业者”，打算在77公路复刻前辈们的传奇——用车轮和子弹。",
+      "action": "教学记录",
+      "unlock_condition": "EpisodeFinish=2110120 and ChapterMapElement=2110201 and Act165CdFinish = 2110209",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 2110210,
+      "owner_episode_id": 2110120,
+      "trigger_episode_id": null,
+      "title": "意外收获",
+      "description": "“启明会”信徒，你又见到了他们——一队游荡的最外围成员。\n很明显，这将是一次并不美好的偶遇。",
+      "action": "教学记录",
+      "unlock_condition": "EpisodeFinish=2110120 and ChapterMapElement=2110207 and Act165CdFinish = 2110210",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "202130",
+      "internal_title": "【2.1】77号往事-20",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "凯拉",
+          "text": "……噢，看来我不在的时候，这儿发生了许多故事。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "凯拉",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "在思考之后，她拨通了手中的电话。\n一阵等候音之后，电话被接通了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "金伯利女郎",
+          "text": "……淑女格蕾丝，你终于联系我了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "金伯利女郎",
+          "text": "我被发现了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "不出意料地，电话彼端传来了躁动不安的声音。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "淑女格蕾丝",
+          "text": "金伯利，你可以告诉我旅馆里到底发生了什么吗？为什么走廊里会有一摊血迹和少许的脑浆，谁死在了这里？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "金伯利女郎",
+          "text": "……是那个芝诺人，他发疯了，对着自己的太阳穴来了一枪。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "金伯利女郎",
+          "text": "他虽然死了，但我还没来得及销毁他床底下的术阵……我也还没来得及找到……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "淑女格蕾丝",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "少女轻轻地叹了一口气。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "淑女格蕾丝",
+          "text": "据点暴露了，我们得带走所有有关于“仪式”的东西，离开这个地方。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "淑女格蕾丝",
+          "text": "基金会的人在不久之后就会对这里进行全面的搜查。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "金伯利女郎",
+          "text": "——我可不想和那些灰白格子打交道！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "电话彼端传来了短暂的沉默，这不常见。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "金伯利女郎",
+          "text": "不过……您能告诉我，维尔汀是一个怎样的人吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "电话对面，她的语气有些惴惴不安。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "金伯利女郎",
+          "text": "我不小心让她知道了一个大秘密——她的记忆力好吗？会把一件事记很久吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "淑女格蕾丝",
+          "text": "不用那么忧虑，金伯利。人很少会关心自己以外的事。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "少女露出了淡淡的微笑。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "淑女格蕾丝",
+          "text": "……但我很期待与她的下一次见面。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "数日后。"
+        },
+        {
+          "kind": "title_card",
+          "text": "圣洛夫基金会·办公室"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "基金会职员Ⅱ",
+          "text": "蓝手帕小姐，无需担忧，您大可把这次对谈看作是一次普通的对话。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "蓝手帕",
+          "text": "……我是在一个荒原中拾到它的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "基金会职员Ⅱ",
+          "text": "它是指那个具备神秘学力量的“旅馆”吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "基金会职员Ⅱ",
+          "text": "和您确认一下，这个神秘学意识的本体，就是您襁褓中所包裹的……形似心脏的胚胎，对吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "蓝手帕",
+          "text": "是的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "基金会职员Ⅱ",
+          "text": "它的智力约等于一岁的婴儿，并不具备策划和实施这种行为的能力——而它视您为母亲，对您有着异乎寻常的信任与依赖……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "基金会职员Ⅱ",
+          "text": "……我们认为您也参与了这些行动。或者说，您才是那个幕后的人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "基金会职员Ⅱ",
+          "text": "也许您并不具备主观上的恶性，但事实如此，因为您而精神崩溃的人在镇子上比比皆是。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "基金会职员Ⅱ",
+          "text": "……所以，他们会寻求一些精神上的解脱——正是因为这个原因，重塑之手对这个镇子进行了史无前例的渗透。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "基金会职员Ⅱ",
+          "text": "我说得对吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "蓝手帕",
+          "text": "噢……我从来没去过那个镇子，不知道那儿的情况……但如果真如您所说的那样。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "蓝手帕",
+          "text": "这也是他们自己的选择，不是吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "基金会职员Ⅱ",
+          "text": "……明白了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "沙沙的声音响起，职员在笔录上记载了关键的信息。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "基金会职员Ⅱ",
+          "text": "在不久之前，司辰向基金会提交了另一个关键信息。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "基金会职员Ⅱ",
+          "text": "在您的旅馆中，是否有自称隶属于“启明会”的信徒活动？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "蓝手帕",
+          "text": "噢……是的，他们离开得不久，我还能记住他们的脸。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "基金会职员Ⅱ",
+          "text": "他们做了什么？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "蓝手帕",
+          "text": "他们在地板上乱涂乱画，发出些奇怪的声音……噢，我想起来了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "蓝手帕",
+          "text": "他们似乎想要尝试什么东西……只是这种尝试并未成功，反而闹出了不少笑话——有一个可怜的女孩被他们关入了镜子里……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "蓝手帕",
+          "text": "她从未放弃过逃生的尝试。一到深夜，那扇镜子就会发出“砰砰”的响声……哈。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "基金会职员Ⅱ",
+          "text": "……我们在搜查旅馆的时候，并未发现任何被困在镜子里的人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "蓝手帕",
+          "text": "噢，那就是……可惜了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "侍应生神色平静，一如往昔。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "基金会职员Ⅱ",
+          "text": "既然您知道他们是具有危险性的神秘学家团体，为何不及时向基金会申报呢？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "蓝手帕",
+          "text": "啊……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "蓝手帕",
+          "text": "这与我有什么关系……？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "侍应生舔了舔略有干裂的嘴唇。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "蓝手帕",
+          "text": "我并不会感到害怕。不如说——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "蓝手帕",
+          "text": "我一直在期待着这一天。"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

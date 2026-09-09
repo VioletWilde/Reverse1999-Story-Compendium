@@ -1,0 +1,848 @@
+{
+  "episode_id": 10711,
+  "chapter_id": 107,
+  "chapter_title": "孤独之歌",
+  "display_label": "",
+  "title": "巨石滚落之刻",
+  "subtitle": "那一份重量曾高悬于顶；现在，它终于落下。",
+  "trails": [
+    {
+      "element_id": 1071101,
+      "owner_episode_id": 10711,
+      "trigger_episode_id": null,
+      "title": "问与答",
+      "description": "",
+      "action": "残篇阅读",
+      "unlock_condition": "EpisodeFinish=10711",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "我想您一定听过那个著名的问题，早上四条腿走路，中午用两条腿，到了晚上则是三条……答案流传得太广，以至于这个谜失去了趣味。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "但我还是得麻烦您接个话儿，亲自告诉我答案。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "“人”",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "是的！人——俄狄浦斯用这个漂亮回答击败了斯芬克斯，得以成为英雄，也无知觉地坠入了命运的漩涡。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "给出问题，解决问题，这之中包含着最为基础的仪式，指出一条上升的通路。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "斯芬克斯，在埃及象征着仁慈与高贵，来到希腊后，则完全归入隐秘之中，变得不可捉摸。它看护着秘密，也代表了神的惩罚。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "谁能完成这位出题者的试炼，谁就能通过仪式，接触其后的珍贵之物。"
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "仪式？",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "这再常见不过啦。将酒液泼洒，作为祭奠；宰杀牛犊；怀抱婴儿围着火堆绕圈……更简单些，在一问一答之中，某种约定便就此达成。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "凡请求必有代价。酒、血、火堆，都是献上的牺牲——但有时候“牺牲”并不需实体，甚至难以发觉。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "而那恩赐也未必能如我们所愿。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "这儿有另一场问答——“你名叫什么？”波吕斐摩斯如此问。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "“‘没有人！’”奥德修斯答。借着这个机灵的点子，无名的奥德修斯得以逃离巨人的洞穴。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "人与无人，这几乎是截然相反的答案，回答者却无一例外地被命运裹挟。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "好啦，亲爱的。传说故事就讲到这儿吧。你会达成你想做的，因为你的代价早已给过了。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "还是说说出题者吧",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1071102,
+      "owner_episode_id": 10711,
+      "trigger_episode_id": null,
+      "title": "协理者的记录",
+      "description": "字迹清晰的笔记，整齐有力的书写方式透露了记录者的坚强性格。",
+      "action": "交互",
+      "unlock_condition": "ChapterMapElement=1071101",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "协理者的记录"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "※ 和玛尔塔在沙滩上散步。她快把整座岛逛完了，用来写她的游记。我陪着她，也为了提醒她避开我们重要的、不愿对外界展示的区域。她希望得到更多推荐书目。行，我会请教210和苏菲亚。\n\n※ 外来者太多。谈不上坏，但管理会变得更难。那位领袖的策略不适用于这种时刻，我们必须做出更明确的决定。我们需要显示自己的意志。通过反复强调这种意志，信仰才会坚定。依靠谁都不行，也不能把所有希望放到一个小孩子身上，心安理得……\n岛很难一直在和平中生存下去，到必要的时候，我总得做点什么。\n\n※ 她理应能发现错误，或者……我不相信77这样的人，不会再次确认航向，计算角度。就算她太累了，但37还在岛上……休没带走随身的笔记本，为什么？我在苏菲亚那里看到了它。她离开得这样匆忙，连出发的理由都像一个借口。与那位伟大者的交流难道真会摧毁人的精神？\n太奇怪了。\n\n※ 这家伙话挺多。好在有用的也多。让人惊讶的是他也会这么想，我本以为他是最认同那一套的家伙。事实上他给出的猜测和我猜想的相近……\n如果成为协理人，也许我能得知更多信息。这个位置已经空了太久……只有盾而无剑，终究是不可靠的。现在就是必要的时候了。无论他们说什么，我都会提交申请。\n210也认为77得到了答案。\n答案会带来？（涂抹的痕迹）\n\n——得问明白。"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100716",
+      "internal_title": "第七章7-11",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "巨石滚落之刻"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "剧情场景-幻境2-中间的门轰然打开，里面传来巨大的气流。该场景做氛围图差分来出。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "风暴已经平息，洞穴的四壁重归宁静。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "试炼结束了，一如既往，赫尔墨斯之星得到了她所寻求的答案。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "——我们拿到它了，这就是那串通往真理的数字密码！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "无限定者回答了我的提问，祂给了我一劳永逸的解法！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她雀跃地说着。卷轴尽职地完成了翻译工作，落回了她手中。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "我们得赶快出去，把它告诉大家——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "……嗯，我为你感到高兴，37。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "这个答案一定可以帮助到大家的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "紧张的神经终于可以暂时放松下来，这无疑是最好的结果。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "可是，心中的不安感却并未消失。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "……有一件事我不明白。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "嗯？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "前进的脚步止住了。37歪了歪头，不解地转过身来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "——6给予的卷轴发挥了作用。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "或许他预想到了这里可能发生的情形，并帮你规避了危险。最终，你也顺利地从试炼地离开。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "那么，为什么他要对你发出那样的告诫……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "为什么他会说：“你所追求的真理，也许会摧毁你熟悉的世界……”？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "剧情场景-岛屿-洞穴中心。（旧场景复用，问下美术能不能把洞穴中心那张的石头去掉）"
+        },
+        {
+          "kind": "title_card",
+          "text": "岛屿·地下甬道"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "6",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "888",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "210",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "通往净化的道路十分漫长。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "甬道里只有滴水声和轻微的脚步声。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "教众Ⅱ",
+          "text": "请小心脚下，我们正在经过真言之壁。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "教众Ⅱ",
+          "text": "任何不实或虚伪的话语都会导致岩壁坍塌。如无必要，不宜在此地贸然开口。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "信仰者们谨慎地点点头。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他们一路已经走过了缄默之壁、善良之壁、智慧之壁。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "这是仪式必要的考验，唯有遵循所有美德之人，能完成最终的“净化”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "教众Ⅱ",
+          "text": "……888女士？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "身为协理人的888突然上前一步，挡在了领袖的前面。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "888",
+          "text": "抱歉，但我想现在是一个适当的时机。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "888",
+          "text": "适宜问出那些尚待厘清的问题。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "6",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "人群之中，又有几名教众上前，将领袖围在了中央。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "狭窄的道路立刻变得无法通过。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "6",
+          "text": "这并非义举。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "888",
+          "text": "欺瞒也并非义举，6。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "888",
+          "text": "你已在这四年里沉默了太久。从你成为“6”的第一天起，你就在回避一些问题。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "888",
+          "text": "它们日积月累，已助长了学派内的不合倾向。如今，巨岩滚下，我们正在悬崖边缘。在这涉及存亡的时刻，我希望你能对我们坦诚相待。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "888",
+          "text": "——我们是追求真理之人，不应对真理视而不见。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "888伸出一只手，指向四周沉默的岩壁。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "888",
+          "text": "请先贤所造的真言之壁为我见证！我的心中并未存有任何虚伪和欺瞒的念头，每字每句皆为真心。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "岩壁不动如山，她的真诚毋庸置疑。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "210",
+          "text": "回答她吧，你应该庆幸，在这里提问的不是我。否则这道岩壁马上就会坍塌。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "岩壁依然沉默，显然，修辞学家的这句玩笑也是真意。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "6",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "210",
+          "text": "你可以说谎，那会使得岩壁坍塌。你可以沉默，那样，我会说谎来使得岩壁坍塌。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "210",
+          "text": "当然，你可以求助于悖论。这一点我已经替你测试过了，“我现在说的这句话是谎话”对真言之壁无效。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "210",
+          "text": "毕竟这是一个道德试炼，不是逻辑考题——它只是想要确保你的真诚，此外无他。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "货真价实的威胁，但领袖对此并无特别的反应。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "6",
+          "text": "你们想要知道什么？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "210",
+          "text": "——当然是那个最重要的问题，关于本质的问题。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "210上前了一步，声音轻微颤抖，不复之前的平静。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "这些疑问已经在他心里盘旋了太久。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "210",
+          "text": "这四年里，我们的研究为何止步不前？关于1929年和这一次“流溢”的预测，为何会完全失败？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "210",
+          "text": "是不是我们搞错了根本前提——“流溢”的本质，根本不是超验规律的显现？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "6平静地望向他，目光并无波澜。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "6",
+          "text": "你弄错了提问对象，210。崇奉者专事教务，论理者深究思辨，政事者体察外界，形而下学者感悟自然。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "6",
+          "text": "“流溢”研究并非6的领域，我的智慧不能为你解答本质的问题。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "这是事实，岩壁的沉默印证了这一点。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "888",
+          "text": "你的问题太抽象了，210。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "协理人摇了摇头，上前一步。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "888",
+          "text": "我要问的正是你所知道的，6。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "888",
+          "text": "每一代的6在接受灵魂数字时，会同时继承上一代的智慧。这里面有知识、见闻，还有至关重要的记忆。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "888",
+          "text": "那么，你应当知道这件事，它理应存在于你的传承之中。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "888",
+          "text": "上一任“流溢”研究的领航人——77。她在无限定者面前问了怎样一个问题，又得到了怎样的真理？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "沉默。沉默预示了她切入的正确。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "888",
+          "text": "我曾目睹她步入迷宫，也见证了她无恙返回。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "888",
+          "text": "那之后，上一代6和77驾船出海，去现象世界探寻。船只未能及时返航，“流溢”在我们眼前降临。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "888",
+          "text": "——而这仅仅是接连不断挫折的开始。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "888",
+          "text": "模型为何失败？坐标为何外泄？癔症为何蔓延至此？旧有的规则为何突然失灵？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "888",
+          "text": "是她发现了什么吗？是不是她从神谕里得知——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "888",
+          "text": "那至高的秩序，超验的规律，我们信仰的“真理”——发生了什么变故？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "6",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "重重诘问之下，领袖突然笑了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "那笑容如释负重，就像一个等待多年的被告突然收到了法庭的判决。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "与此相反，教众们屏住了呼吸。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "6",
+          "text": "希帕索斯发现了根号2的奥秘，于是毕达哥拉斯学派覆灭了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "6",
+          "text": "牛顿忽略了无穷小量的推导，令微积分的大厦险些轰塌。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "6",
+          "text": "罗素发现集合的自指悖论，引发了第三次数学危机。他完善了集合论，却消除不了自指的幽灵。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "6",
+          "text": "最终，哥德尔下达了判决，不完备性迎来了最终的胜利。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "领袖的感慨在空旷的洞穴里回荡。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "6",
+          "text": "命运的巨石总会自高山上滚落。即使不是37，也会有其他人来开启。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "6",
+          "text": "俄狄浦斯违抗的努力，反而助长了命运的悲剧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "888",
+          "text": "……什么意思，6？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "女妖皱起眉头，而领袖只是轻轻向她鞠了一躬。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "6",
+          "text": "谢谢你，888，我回答你的疑问。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "6",
+          "text": "是的，77的确曾问出过这样一个问题，关于“流溢”本质的问题。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他抬起头，平静地注视着面前环绕他的教众。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "信仰者们亦是专注地聆听。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "6",
+          "text": "她询问——“至高的存在究竟发生了什么，才让世界变得如此癫狂？”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "6",
+          "text": "答案是，“紊乱。”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "888",
+          "text": "——！！！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "真言之壁并未坍塌，先贤铸下的考验认可了他的诚意。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "但是，一阵更深、更幽远、更磅礴的轰鸣声，从岛屿中心传来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "那震动浩瀚无垠，势不可挡，好像海啸和火山在同一时间到来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "210",
+          "text": "——该死的！！！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "210第一个反应了过来。他一个箭步冲上去，抓住领袖的衣领。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "210",
+          "text": "你早就知道了？！从四年前的第一天，从你成为6的那一刻开始？？？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "210",
+          "text": "知道“流溢”并不是超验规律的显现，而是超验规律的彻底紊乱？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "210",
+          "text": "知道再也没有永恒超越的数学天国，我们所信仰的灵性本质，已经是一个不尽变动的无理数？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "巨大的愤怒和荒谬冲昏了他的头脑，修辞学家注视着那位竟敢证实信仰已毁灭的领袖，几乎笑出声来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "210",
+          "text": "四年！你隐瞒了这件事四年！为了什么？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "210",
+          "text": "为了虚假的和平？为了平静的表象？！为了欺瞒所有人——我们追求的一切还没有成为一片虚无？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "6没有回答这个附加的问题，它不在义务范围内。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "888",
+          "text": "现在不是争辩的时候，立刻带所有人离开！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "协理人强硬地分开了他们，开始指挥惶恐不安的人群从狭窄的甬道撤离。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "在这一片混乱中，领袖垂下眼睛，念出了本该在净化仪式上诵读的经文。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "6",
+          "text": "“……为你将做的事向神祈祷，祈求一切顺利。”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "“当你熟悉了这一切，你便会知晓永恒的诸神与有死的凡人之体系。”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "屏幕震动的效果，模拟地震。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "苏菲亚",
+          "text": "……唔！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "苏菲亚",
+          "text": "净化仪式……没有顺利进行吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "“知晓世间万物为何者所包容，又如何联结为一。”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "屏幕震动的效果，模拟地震。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "呜啊，站、站不住了……怎么回事？！这是地震了吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "不……这是……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "一直环绕在岛上的那个大型神秘术式的气息。它……似乎正在自行消解？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "“你将懂得，正如你应当懂得，宇宙在任何地方都是齐一的。”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "屏幕震动的效果，模拟地震。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "……为什么？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "我们的圆……消失了？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "剧情场景-岛屿-洞穴中心。（旧场景复用，问下美术能不能把洞穴中心那张的石头去掉）"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "混乱之中，他平静地伫立，如海边沉默的礁石。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "目击天国在眼前坍塌，海潮将一切倾覆。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "6",
+          "text": "“——如此，你便不会盼望不该盼望的，亦不会受到蒙蔽。”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "领袖合上了卷轴，结束了诵读。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "6",
+          "text": "祈祷吧，我的朋友们。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "6",
+          "text": "为自己祈祷，为众人的命运祈祷，为周边的一切苦难祈祷。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "6",
+          "text": "对不可见的黑暗伸出手，向不可知的伟大者祈求。开口吧，言说一个有限者想要超越自身存在的希冀。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "6",
+          "text": "这份意志曾令我们超越尘世的破碎和自身的渺小，触碰灵性初涌的辉光，如今也是一同。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "黑暗中，他燃起了一道火炬。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "888",
+          "text": "……你要去哪？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "6",
+          "text": "向深处去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "6",
+          "text": "先贤的考验尚未结束，最终的净化还未抵达。我们的义务，亦未尽下。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "然后，他不再驻足。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "背着惶然的人群，他独自朝着漫漫无尽的净化之路走去。"
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

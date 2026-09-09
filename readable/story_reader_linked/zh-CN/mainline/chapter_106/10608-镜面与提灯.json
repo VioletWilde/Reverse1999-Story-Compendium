@@ -1,0 +1,822 @@
+{
+  "episode_id": 10608,
+  "chapter_id": 106,
+  "chapter_title": "今夜星光灿烂",
+  "display_label": "",
+  "title": "镜面与提灯",
+  "subtitle": "你与我相遇，房间里布满熠熠光辉。",
+  "trails": [
+    {
+      "element_id": 100607,
+      "owner_episode_id": 10608,
+      "trigger_episode_id": null,
+      "title": "帝国的孩子",
+      "description": "",
+      "action": "残篇阅读",
+      "unlock_condition": "EpisodeFinish=608",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "多瑙河，一条从露珠里诞生的河流，无数嗷嗷待哺的孩子们的一位好母亲。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "您瞧见的，正是她所培养的两位最壮硕的孩子共筑的帝国。他们阔绰又体面，是那种尤其值得向外乡人夸耀的孩子。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "金色大厅的弦音令人们甘愿飘洋过海，这片土地所孕育出的艺术就是说上一整晚，恐怕也不能为您说尽。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "帝国里的十一位孩子，围成一个圈，当他们凑在一块儿，就会比麻绳拧起来更紧，比篝火烧起得更旺！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "谁要想闯进来，都得先吃上二十二只拳头。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "这里有最繁荣的街巷，满心欢喜的人儿满街遍地；这里有最自由的土壤，连同小鸟儿们一块儿。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "听上去很不对劲",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "呵呵呵，您吃过了更大的谎，鼻子向来灵通。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "嗯……值得欣赏",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "呵呵，您就像一位展柜前的游客，捡着什么话听什么。放机灵点儿，亲爱的。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "如果我们把脚步加快一些，很快就能看见另一副样貌。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "您会瞧见为穷人所举办的慈善舞会，为维也纳的善心家们添上了一笔怜悯的荣誉，没有谁知道这笔钞票逃去了哪里。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "您会瞧见老鼠啃食着死去的乞丐，神秘学家脱下艺术的盛装，贫穷与悲剧正悄然地传染他们以及每位边缘人的脸庞。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "除了两位伟大的帝国之子，匈牙利与奥地利先生，以及他们所共筑的这座巨大的、有点儿吓人的中央政府。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "其他的孩子，就只能在门扉之外受着冷风。即便这些孩子的天赋能谋一份差事，可您得同样承认，那些差事在政治的桌子上换不来什么好筹码。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "波希米亚、摩拉维亚……这个帝国如果对这些边缘地区的孩子还有仅存的怀抱，那您也只能在那攒了满满一堆好话的报纸上瞧见了。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "多么幽默，这些可怜儿的人类，此刻竟与神秘学家们站在了同一个犄角旮旯。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "在同样不受待见的谈判桌外，您觉得他们会和平共处吗？"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "合作是唯一的办法",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "为您拍掌，好比拳头不能缺根手指，他们是该明白这老套的道理。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "人们总是固执的",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "哎呀，您是一位伟大的悲观主义者，想必您会相当享受这一出分崩离析的家庭闹剧。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "事实上，他们仍会像野狗一般彼此撕咬、仇视，直到谁咽下了最后一口气。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "咔、咔、咔……您听，这雄伟的帝国便在其中悄然动荡、分裂，如同踩上了冬日将尽时的最后一块浮冰。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "当一位军官需通晓二十余种语言才能指挥一支军队，但他却对于这份责任无能为力——"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "谁会得到勋章与赏识，这并不是一个难以回答的问题。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "您可以预见，如果这只十一条腿的巨兽有朝一日爬上了泥泞的战场，将会有多么滑稽。它将像一只肥肉做的靶子，直到子弹将它的脑袋咬了去……"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "幸运的是，亲爱的，这样的时刻尚未到来。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "金色大厅的欢歌仍旧压过孩子的啼哭，一颗颗彷徨的心仍在胸腔里循规蹈矩地搏动。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "呐喊仍慢过报纸的传递，自由与繁荣的虚名也仍旧举世瞩目。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "十一位孩子，也仍是一个圈。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "但亲爱的，我们都知道，薄冰会破碎，有人即将离席。"
+            }
+          ]
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100612",
+      "internal_title": "第六章6-8",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "镜面与提灯"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "场景-环城大道"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小贩Ⅰ",
+          "text": "卡卡尼亚！这儿，这儿！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡卡尼亚",
+          "text": "伊里奇！你这次帮大忙啦。谢谢你！这道具真好用……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "卡卡尼亚撕下了假胡子，用手给自己扇着风。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "唔——呃！呼，下来了，我今天嘴上怎么一直有东西……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小贩Ⅰ",
+          "text": "哈！当然啦。我的这个胡子，它可不是一般货色！它的每一根毛都在添加过血根草、蟾蜍心和龙蛇胆的波西米亚药水中充分浸泡过……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小贩Ⅰ",
+          "text": "你们是怎么招惹上卫兵的？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡卡尼亚",
+          "text": "那就说来话长了——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡卡尼亚",
+          "text": "噢，不用这样谨慎地盯着这位小姐。她救了我一命，人还算不错，算是半——三分之一个朋友吧！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "三分之一……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "马库斯在口袋里轻轻松开了通讯器的按钮。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "呜……这下糟了，通讯线路一直无法连接，根本联系不上霍夫曼女士。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "她或许在和委外合约小队的专员谈很重要的事，所以启用了屏障模式……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "没问题的，马库斯，你一个人也没问题的，先和任务目标保持交流……！只是交流而已，这有什么难的呢？没问题的，你演练过……一定没问题的！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她设想了一千种搭上话的可能，却没想到最后是这样的场合。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "马库斯开始在脑中疯狂地搜寻话题。所幸，在场的人全都比她健谈得多。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小贩Ⅰ",
+          "text": "卡卡尼亚，你现在也变成和官老爷做朋友的人了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小贩Ⅰ",
+          "text": "真新奇！我在这待了一年，还从未见过嘴上没毛的基金会成员呢！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小贩Ⅰ",
+          "text": "你是从哪来的？克罗地亚？摩拉维亚？加里西亚？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "我在罗马尼亚长大……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小贩Ⅰ",
+          "text": "噢，我来自波斯尼亚和黑塞哥维那——反正咱们就是“同乡”了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡卡尼亚",
+          "text": "你也要注意安全，伊里奇。要是遇到了卫兵可就麻烦了！你的许可证一定还没签发。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "咦？你们没有许可证吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小贩Ⅰ",
+          "text": "嚯，我们当然没有了！听听它的条件，“三代以上的神秘术安全使用担保……”——我一出生就在卖货了，连妈妈的妈妈都没见过哩。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小贩Ⅰ",
+          "text": "这都算了，担保历来是最好造假的。可现在你要是在维也纳申请许可证，就得经过中央政府签发。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小贩Ⅰ",
+          "text": "不是奥地利政府，也不是匈牙利政府——是那个夹在它们中间的中央政府。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小贩Ⅰ",
+          "text": "而这就是最难的一步，从没人能稳妥地理清这里的区别。哪里是皇帝的，哪里是国王的，哪里是皇帝-国王的……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小贩Ⅰ",
+          "text": "你要是照章办事，就会发现自己上了大当啦！回过神来，就会被未知的咒术困在这里，束手束脚，动弹不得。除非拿出点闪闪发光的克朗润滑一下……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "……如果没有神秘术许可证，会怎么办？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小贩Ⅰ",
+          "text": "噢，那就刺激了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小贩Ⅰ",
+          "text": "你可能被拘留三天，也可能被判刑十年。也可能你被判了十年，法院却忘了通知你。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小贩Ⅰ",
+          "text": "又或者你实在技艺高超，正适合通过一场先进的外科切除手术，来验证理性对神秘学的压倒性胜利……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小贩Ⅰ",
+          "text": "这里的制度可比神秘术随机多了，咱们的机会还是相当大的！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡卡尼亚",
+          "text": "可以了，伊里奇。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "卡卡尼亚清了清嗓子，仍有些戒备地使了个眼色。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小贩Ⅰ",
+          "text": "哦，好的，好的……再见了，卡卡尼亚和——政府的小姐，就当我什么都没说过！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "他们是……？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡卡尼亚",
+          "text": "一些神秘学家孩子，我很惊讶您竟然不清楚这些。这个国家就是有这样的处境。维也纳可不是所有事物都像环城大道的建筑和绅士街【Herrengasse】那样辉煌。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她语气里带了一点点讥讽。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡卡尼亚",
+          "text": "我很感谢您的帮助，政府小姐，不过目前我也同样帮助了您——被卫兵发现对你们来说也不是那么好摆平的，不是吗？咱们扯平了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡卡尼亚",
+          "text": "所以您来找我究竟是为了什么？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡卡尼亚",
+          "text": "噢，我知道了。是卡尔先生叫你们来找我要行医许可证的，可您好歹也休息两天吧！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡卡尼亚",
+          "text": "以先祖的名义发誓，我做的是百分之百的神秘学营生，绝没有一丁点和科学以及医学沾边的成分！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她提出了疑问，却并没给回答的空隙。卡卡尼亚凑近了马库斯，怀疑地推了推眼镜。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡卡尼亚",
+          "text": "难道你们不睡觉的吗？难道你们没有个人生活的吗？这个月已经是第十次了，上帝在工作六天后还会休息一天哩！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡卡尼亚",
+          "text": "我有世袭的神秘术使用许可，这没什么不光彩的，收费也很公道，从没有哪位顾客来投诉我……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "不，呃，卡卡尼亚小姐，这是巧合……我……呃……我只是听说您是一位心理医生……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡卡尼亚",
+          "text": "啊？！那又怎样，难道心理学如今被承认为医学了吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "要在如此快速的跑题节奏中进行体面的敷衍实在是难如登天。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "马库斯欲哭无泪，只得拼命在心里背诵《外勤派遣手册》。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "我想这里好像有一些误会……我们——我不是来检查您许可证的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡卡尼亚",
+          "text": "那你们是想……？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "唔，是这样的……您自称卡卡尼亚，可是，我知道您的本名叫克拉拉……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡卡尼亚",
+          "text": "噢，没想到基金会也有我的读者——这真叫人快活！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡卡尼亚",
+          "text": "是的，我是克拉拉！但是政府小姐，您不觉得这个名字很风趣吗？海因里希——噢，他是我的一位朋友，他给了我一本书，使我受益匪浅。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡卡尼亚",
+          "text": "我们所在的国家正如这个名字一样——既是又是，既有又有，无处可寻，又无处不在！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡卡尼亚",
+          "text": "瞧瞧这片土地吧！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡卡尼亚",
+          "text": "鳞次栉比的金色方块，上面缀满了漂亮的卷草纹，摞得这样高、这样巧妙……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡卡尼亚",
+          "text": "——掩盖了波西米亚黑麦田，遮住了亚得里亚海东岸的浪花，又将神秘术制造的焰火挡得严严实实！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡卡尼亚",
+          "text": "怎么会有浓烟在工业区遮天蔽日呢？怎么会有不温暖的房屋呢？咖啡馆里的人一定都是热爱舞步，而非交不起供暖的钱。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡卡尼亚",
+          "text": "这里没有官僚，没有歧视，没有贫穷！只有人文的、自由的一切。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡卡尼亚",
+          "text": "“卡卡尼亚”——是K.K.【帝国-皇室的】，又是K.U.K.【帝国及皇室的】，还是——“Shitland”！哈哈哈，再没有比这更精准的概括了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "这么说，您确实拿到了那本书，从朋友那里……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "这是个好机会……！我身上还有一根霍夫曼女士留下的“蛛尾巴”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "如果能趁机留在卡卡尼亚小姐身上——或者她的居所的话……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "年轻助手缓慢地深呼了一口气。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "我……很感兴趣，您可以带我去看看它吗？"
+        },
+        {
+          "kind": "title_card",
+          "text": "公墓"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "场景-一个野地或者是空地"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "——以上就是来自委外合约人才管理组织塞梅尔维斯分队的交接汇报。请知悉，霍夫曼女士。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一处静谧的角落。霍夫曼握着通讯器，眉头微微皱紧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "霍夫曼",
+          "text": "……好的，我这边已经收到。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "哈哈，这句话只是例行公事，格蕾塔。你怎么还是这样严肃？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "霍夫曼",
+          "text": "……真羡慕你还能笑得如此轻松。这么紧急地将你们调离维也纳，想必那里的情况也不容乐观。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "霍夫曼",
+          "text": "而且，据你发来的信息……帝国在这样短的时间内发生了这么多桩刺杀案。这对临界点来说不是个好消息，塞梅尔维斯。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅尔维斯",
+          "text": "总是要保持一个好心态的——除此之外，我们又能怎么办呢？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅尔维斯",
+          "text": "除此之外，格蕾塔，我这边还有一些消息要向你汇报——我们的交接太匆忙，新抵达的成员还没有获得这些一手信息。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅尔维斯",
+          "text": "你也知道，流程太过冗长，我暂时只能以个人名义告知你。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅尔维斯",
+          "text": "维也纳很可能有一位曾经跨越过“暴雨”的神秘学家。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "霍夫曼",
+          "text": "……你说什么？有这个人的具体信息吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅尔维斯",
+          "text": "目前已知他的名字是“海因里希”。我们和原驻柏林小组汇合时发现了这件事，但时间不允许我们核实。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "霍夫曼",
+          "text": "……明白了，后续就交给我们吧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅尔维斯",
+          "text": "如果消息确凿，他应该是在第六次“暴雨”时前往柏林，并在那里躲过了1913年的“暴雨”。然后在66年、29年的“暴雨”后……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "霍夫曼",
+          "text": "时代又回到了1913年。对所有越过了第六次“暴雨”的神秘学家来说，这都是无比令人振奋的消息。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅尔维斯",
+          "text": "——嗯哼，他们的时代又回来了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "霍夫曼",
+          "text": "我很熟知这种心态，但这很可能只是时间在乱序运动中随机到了两个相同的年份。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "霍夫曼",
+          "text": "我明白了，塞梅尔维斯，这条消息价值极高，我会尽快——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "霍夫曼",
+          "text": "……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅尔维斯",
+          "text": "格蕾塔？你那边怎么了？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "霍夫曼",
+          "text": "抱歉，我要中断通话了……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "霍夫曼",
+          "text": "我留在马库斯身上的“蛛尾巴”有异常的神秘术反应，那不是她使用的术式……她那边出事了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "场景-黑屏"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "音效-二人走路声，钥匙开锁声"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡卡尼亚",
+          "text": "真叫我意外，马库斯小姐，您对我们这个时代的文化流行竟然如此了解！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡卡尼亚",
+          "text": "我以为基金会里要么是腐朽的官僚，要么是冰冷的呆子……噢，您去过分离派之家了？您喜欢那儿吗？遗憾的是那本书没在那里……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "卡卡尼亚终于摸到了钥匙。"
+        },
+        {
+          "kind": "title_card",
+          "text": "诊所"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡卡尼亚",
+          "text": "请进！希望您不介意这里的混乱。相比帝国的行政系统，它还是很整洁的……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "好，好的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "比起诊所，这里更像是一个工作室。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "房间里四处散落着未完成的画作、颜料、舞台布景道具和海报。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "以及镜子，很多面镜子。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡卡尼亚",
+          "text": "噢！这些舞台道具是海因里希放在这的，他在柏林真是学了不少好东西回来！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡卡尼亚",
+          "text": "您随便坐。我去给您倒杯茶，再帮您找找那本书……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "不了，卡卡尼亚小姐，我还需要回分部报到。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "我只需要确认您拥有那本书就好了，不是从他人口中复述，而是亲手……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "唔！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "诊所里窗帘紧闭，镜子却强烈闪烁了一秒。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "是卡卡尼亚的神秘术？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "马库斯连忙抬手捂住眼睛，向门外退了一步。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "卡卡尼亚快活的声音从一边传来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡卡尼亚",
+          "text": "……噢，瞧您！政府小姐，别太紧张，这只是个无伤大雅的安保措施，平时我还会收钱哩！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡卡尼亚",
+          "text": "“请看看这面镜子，它会映出您内心的光景”……神秘学家千年不变的小把戏，从罗马帝国时代传承至今。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡卡尼亚",
+          "text": "说到这个，政府小姐——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡卡尼亚",
+          "text": "您是怎么发现那把手枪被做了手脚的？是您的神秘术吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "也许是心理暗示——镜子的闪光愈发晃眼。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "……唔，不能看向镜子！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "调查员戒备起来，她握紧提灯，在第一时间做好了战斗准备。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "卡卡尼亚的语气依然和缓，仿佛是在抚慰自己的有应激创伤的病人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡卡尼亚",
+          "text": "我对此非常感兴趣，请放心——我会控制好力道的。"
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

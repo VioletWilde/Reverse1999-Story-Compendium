@@ -1,0 +1,759 @@
+{
+  "episode_id": 11321,
+  "chapter_id": 113,
+  "chapter_title": "他者的悲哀",
+  "display_label": "",
+  "title": "The White Tower",
+  "subtitle": "Power and reason were pressed into white bricks, and the great statue built from them is unbreakable.",
+  "trails": [
+    {
+      "element_id": 1132101,
+      "owner_episode_id": 11321,
+      "trigger_episode_id": null,
+      "title": "Assembly",
+      "description": "Heroes, unite! Raise the flag—it's time to fight back!",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=1321",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1132102,
+      "owner_episode_id": 11321,
+      "trigger_episode_id": null,
+      "title": "Blame Game",
+      "description": "Failure never lacks for explanations. Don't worry—they'll always find a scapegoat.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=1321",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "A Disk Delivered by Air"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "153025Z The Guiding One has left. We should withdraw as well.\n153101Z Do you hear the singing? It's Lyra.\n153110Z Taira, put your blade away. Don't get drawn into the fight. İlmek, let's go.\n153122Z Krutov, are you satisfied?\n153130Z You're grinding your teeth too. You've got no room to talk.\n153139Z Our objective is met. There's no point in lingering.\n153141Z Don't let them learn the secret of the network.\n153148Z Idiot! Moth already pulled intel from that useless Prima's head!\n153152Z Let's move. Ustrina, don't be angry.\n153200Z Is she brainless? Can't she just lock the room with her arcane skill?"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "101335",
+      "internal_title": "第十三章13-21.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "The White Tower"
+        },
+        {
+          "kind": "title_card",
+          "text": "Hallway, Committee Tower"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Creius",
+          "text": "Fall back to the Spire."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Creius",
+          "text": "If you encounter Arcana, do not engage. I repeat, no hostile action."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Creius",
+          "text": "If anyone shows signs of panic or pessimism, restrain them and get them away from Arcana immediately."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Irinei",
+          "text": "You ever pictured your own death, Pedra? Ever thought it would feature the two of us, side by side?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pedra",
+          "text": "I'd usually suggest a bit more positivity, but that may be naive given the situation. I might have a few tips on dying with dignity, though."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Irinei",
+          "text": "Thanks, but that much I've already figured out. Creius, give me your pistol."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Creius",
+          "text": "Take it. Just promise me you aren't saving the last round for yourself."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Irinei",
+          "text": "If I go down to my last bullet, I'm gunning for Arcana's head."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pedra",
+          "text": "Well said, Irinei. I don't think we've ever agreed more."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Krutov's army has occupied the entirety of the Committee Building beneath them. The remaining resistance forms a shrinking cordon at the upper levels."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The Spire was not built for shelter, but at this point, they have nowhere else to run."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis III",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She yearns to hear the trees' whispers once more, to nurture new saplings, but try as she might, it's all in vain."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Regulus",
+          "text": "Druvis! There you are."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Regulus splits away from the crowd."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis III",
+          "text": "Regulus? Did you find Mr. APPLe?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Regulus",
+          "text": "That I did. He's here in my bag. I thought he'd flown out when we landed."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Regulus",
+          "text": "That was a rough fall. How's Nautika holding up?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "In her surprise, she senses someone familiar brush up against her."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She turns and sees Marsha carrying someone over."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Regulus",
+          "text": "Marsha? Who've you got there? The bard?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "*sigh* I found her trapped under a filing cabinet."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "There's obvious pain in her voice. Without her arcane skill, she's forced to consciously bear each and every wound she's sustained."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "She's alive. Just in a coma, same as the Awakened."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Operation Team Leader I",
+          "text": "We have eyes on Arcana."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The alert incites a wave of fear."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Druvis looks behind her. They're being pushed back as far as they can possibly go."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis III",
+          "text": "There isn't much space in the Spire. We'll all end up crowded in a room."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Regulus",
+          "text": "Ugh, gods of rock have mercy. Please don't let me die in some stodgy old president's office."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "The rest of the Manus are cut off. Without reinforcements, our soldiers should be able to keep them out of the Spire. It's only Arcana that has broken through."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "We are not her goal. Whatever it is, she's decided to leave us be for now."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis III",
+          "text": "I see."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She hates this feeling of helplessness, but there's nothing more that she can do."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis III",
+          "text": "Let's get Recoleta somewhere safer."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The president's office—the sole room at the top of the Spire—would be considered rather spacious under normal circumstances."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "But the crowds of survivors make it feel unbearably cramped."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "President",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The president stands behind his desk, observing the chaos and waiting."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Foundation Security",
+          "text": "She ... She's right behind us."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Before long, the final group of survivors enters the office."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "They all look on as Arcana steps inside."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcana",
+          "text": "A most remarkable spire, I must admit, Mr. President."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcana",
+          "text": "How many uncounted years of labor were devoted to its construction? To this pretty monument to man's hubris?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Foundation Security",
+          "text": "D-Don't let her come any closer."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Foundation Security",
+          "text": "...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The loyal guard falls to his knees, and as he does, all the other armed personnel in the room seem to lose their will to resist, too."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "All courage seems to disappear from them like smoke wisping away into the breeze."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "President",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "President",
+          "text": "Enough of this."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Secretary General",
+          "text": "Sir?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He waves away the rebuttal and leaves his guards' protection to stand before Arcana."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "President",
+          "text": "What is it you want, Arcana?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcana",
+          "text": "Only to speak."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "President",
+          "text": "You would do all this, bring about so much pain and destruction, just to speak?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcana",
+          "text": "Destruction?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She seems inexplicably puzzled."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcana",
+          "text": "To cause such misery hath never been my intent."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcana",
+          "text": "But alas, my children are unruly at times. Their chaotic natures drive them to violent ends."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "President",
+          "text": "Violent indeed. I'm sure you'd agree your forces have suffered considerably to get you this far."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "President",
+          "text": "So, what is this? Just entertainment to you? Like all the wars you've provoked?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcana",
+          "text": "What wars have I provoked? None that were not first designed in the arrogance and bloodlust of human hearts."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcana",
+          "text": "Millions lie dead—fallen to thy machines, lost in the bloody hatreds of thine own kind."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "President",
+          "text": "...?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "An elliptical barrier appears around them. The president and Arcana stand at its two focal points."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcana",
+          "text": "Fear not. I desire only a little privacy."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "President",
+          "text": "For what purpose?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcana",
+          "text": "An audience with the Philosopher King, ruler of the Pax House."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "President",
+          "text": "I am authorized to speak on his behalf."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcana",
+          "text": "Yet thou art too young to speak on matters of the Blank Era."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "President",
+          "text": "The Philosopher King will not leave the Pax House just to answer your questions."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcana",
+          "text": "Indeed not. For hath anyone e'er seen him stride beyond those walls?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcana",
+          "text": "How long hath he dwelt therein, isolated from this world? Doth he know his utopia shall never come to pass?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "President",
+          "text": "His kingdom will come."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcana",
+          "text": "Thou speakest words of faith, Mr. President, not of fact."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "President",
+          "text": "I trust in his vision."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcana",
+          "text": "Pray tell, was his vision unable to foresee this day, or was he simply too feeble to prevent it?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "President",
+          "text": "In his design, all may be sacrificed, all may be replaced. Whether we live or die today makes no difference. Should we fall, more of us will arise to carry on the mission."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcana",
+          "text": "\"More of us\"—thy meaning is clear. Ever obsessed with these inferior beings. Only they might fulfill his ideals; only they may prove worthy of his new world."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcana",
+          "text": "Alas, that this vision of humanity is mere fabrication—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A noise interrupts their discussion."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Outside, statue-like warriors cleave at the barrier."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcana",
+          "text": "The Core Guard."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcana",
+          "text": "Then the Philosopher King foresaw some answer for me after all."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "President",
+          "text": "You knew about them?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcana",
+          "text": "And long have I been curious of them. I suspect I am not alone in that."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcana",
+          "text": "Who would not wish to meet with mankind perfected? The ideal citizens of a brave new world, unshakable against the tides of pneuma."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcana",
+          "text": "The purest creations of the Pax House."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "President",
+          "text": "Taunt all you like, Arcana, but there's little you know about humans. You have always underestimated their potential."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "President",
+          "text": "The master of history is not easily challenged."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The barrier begins to crack under the warriors' blades."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "\"Breacher\"",
+          "text": "The barrier will be breached shortly."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "\"Leader\"",
+          "text": "Prepare to engage."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcana",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcana",
+          "text": "Welcome back, Vertin."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcana",
+          "text": "I am heartened to see that thou hast opened my \"boon.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcana",
+          "text": "Thine attempts to turn thy newfound power on me have not gone unnoticed."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcana",
+          "text": "Very well. I shall leave thee to thine workings. May thou find it worthwhile."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Following the brief diversion, Arcana returns her focus to the president."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcana",
+          "text": "Thy Foundation's hospitality hath grown cold, Mr. President."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "President",
+          "text": "Stay awhile. I promise things will get heated shortly."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcana",
+          "text": "Heh. How enticing."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcana",
+          "text": "Yet my aims have been met."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She raises a hand."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A seed falls from within her palm."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcana",
+          "text": "As a token of courtesy, allow me to leave something behind for this young brood of the Pax House."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcana",
+          "text": "Farewell, mortals."
+        }
+      ]
+    },
+    {
+      "script_id": "101336",
+      "internal_title": "第十三章13-21.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "White light shines from the floating room, making the Spire look like a lighthouse from a bygone era."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The radiance recedes, and the world takes back its contrast."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "It's gone. Have we won?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Regulus",
+          "text": "Seems like that might have been the ticket. The air feels a bit lighter now, don't you think?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis III",
+          "text": "I'm concerned that might have something to do with the building collapsing around us. Everyone, onto the branches, please. I'll bring us down safely."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Secretary General",
+          "text": "No need to panic. That's just the architect beginning her work."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "\"Leader\"",
+          "text": "All units, gather at the entrance."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "\"Leader\"",
+          "text": "The enemy is retreating. Eliminate any remaining Manus Vindictae forces inside the building."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The Pax House's guard soon restores order, and those still capable of fighting leave the office and prepare to retake the Committee Building."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "As the room quiets, the Secretary General approaches her superior."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Secretary General",
+          "text": "It's over, Mr. President. The creature has been eliminated."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Secretary General",
+          "text": "Without Arcana's presence, the Manus army won't hold out for long."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "On the floor before him lies a puddle of dark sludge."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "President",
+          "text": "One would expect more maturity from a god."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "President",
+          "text": "Did we learn anything regarding Arcana's power?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Secretary General",
+          "text": "The Foundation held her back long enough for us to conduct a full assessment. The results align with our speculation."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Secretary General",
+          "text": "She has dominion over the \"channels\" of pneuma in this world. In other words, she can control the very flow of arcanum itself."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "President",
+          "text": "That explains how she severed us from our powers."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Secretary General",
+          "text": "Precisely. Now that communications have resumed, we've been able to reestablish contact with our field operatives. Ms. Stranger reports that she's discovered how Manus Vindictae breached our security."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "President",
+          "text": "Excellent. Send support to her immediately. Her safety is of extreme importance to our efforts."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Secretary General",
+          "text": "I understand that she's already under the protection of a Flying Witch."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "President",
+          "text": "Good. We should count ourselves lucky. Had Arcana wished it, we would have suffered much greater losses."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Secretary General",
+          "text": "A god cannot be killed by mortal hands."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Secretary General",
+          "text": "Only slain by the hand of another."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "President",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "President",
+          "text": "Do we know Vertin's status?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Secretary General",
+          "text": "If I'm not mistaken, she intervened somehow. She challenged Arcana in this very room."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Secretary General",
+          "text": "If not for her, the Core Guard might not have been able to breach the barrier."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "President",
+          "text": "Then we can worry about her later."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He turns toward the window."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "President",
+          "text": "The SPDM should be secured by now."
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

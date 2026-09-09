@@ -1,0 +1,720 @@
+{
+  "episode_id": 10814,
+  "chapter_id": 108,
+  "chapter_title": "忧郁的热带",
+  "display_label": "",
+  "title": "无眠之人",
+  "subtitle": "骰子已经掷出。",
+  "trails": [
+    {
+      "element_id": 1081401,
+      "owner_episode_id": 10814,
+      "trigger_episode_id": null,
+      "title": "牌桌礼仪",
+      "description": "",
+      "action": "残篇阅读",
+      "unlock_condition": "EpisodeFinish=10814",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "一场赌局在你不熟悉的地方开始了。不久后，你也会收到上桌的邀请。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "说说情况",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "呵……你的要求越来越明确了。首先你得知道，大多数赌局都有这么一条规矩：中途上桌的人不能问东问西，否则将饱受针对和排挤。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "直到他输上好几把，交够了“学费”，才会有资格得到问题的答案——比如对家的身份地位，比如庄家的发牌习惯，比如肥鱼的下注比例。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "有的时候我就无法理解这种行为，怎么会有人千里迢迢过来，只为了输掉自己的钱。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "为了胜利",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "这不是个问题，不过你回答了我，向你致谢。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "是的，没有人不喜欢胜利。当骰子在空中旋转，赌徒就开始寻找好运——移动桌角、轻咳两声，再闭上眼做一次虔诚的祈祷……以为自己能左右命运。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "愚蠢，愚蠢又迷信，还有点可怜。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "啧，你好像被什么绊住了脚，但那绝不是一颗抬起脚就会爆炸的地雷。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "有的人离开了这些漂亮的字眼就活不下去。他们本身无足轻重，但只要讨论起这些字眼，他们就有种自己成了大人物的错觉。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "虚伪，甚至自欺欺人。"
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "反正赌局很公平",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "不。赌本不对等、获胜条件不一致，甚至连比骰子的规则都在被单方面定义。这里的公平需要被争取，不择手段地争取。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "那些身穿白色西装的职业牌手们步步为营，靠着四处下注来盈利，而披着黑袍的疯子们正考虑该怎么将桌子掀翻。"
+                }
+              ]
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "聪明的对策",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "那不是聪明，那只是愚蠢到了极点，而显得任何改变都是对的。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "掀桌之后只会有一团乱，没有人会有耐心把桌子扶起来，陪对方再来一局。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "为了得救",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100820",
+      "internal_title": "第八章8-14",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "无眠之人"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "伊戈尔办公室"
+        },
+        {
+          "kind": "title_card",
+          "text": "伊戈尔办公室"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "地标"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "老将军很少拨通芝诺总部的红色电话。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "啊，伊戈尔！圣保罗情况怎么样？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "比预想中更糟糕。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "我带了一些人，但不够用。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "天使兄弟会跟重塑之手勾结，他们至少有一个头目已经向重塑之手效忠。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "兄弟会？这种帮派在南美洲要多少有多少，就像栽在种植园里的甘蔗，一茬没了还会冒出下一茬。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "索姆同志，逃兵杀了自己的长官。\n卡洛斯在基地里被他们杀了，而兄弟会收容了这些逃兵。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "索姆将军",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "电话那端传来了沉默。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "索姆将军",
+          "text": "人都抓回来了吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "处决了一部分，剩下的等着移送总部审讯。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "索姆将军",
+          "text": "很好。你需要什么，同志？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "军队，可靠的军队。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "索姆将军",
+          "text": "军队？但现在哪里都需要人，恐怕……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "不用太多。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "把我的近卫团都调来圣保罗。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一支忠诚的军队，由他亲自抚养长大的孩子们带领，由这些生而加入芝诺的战争遗孤组成。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "至少让托勒密从布宜诺斯艾利斯调过来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "索姆将军",
+          "text": "托勒密？噢，你的“孩子”……嗯，不错的方案……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "没什么人比这些芝诺战友的遗孤更忠诚。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "卡洛斯将军就在这间办公室里被自己人打穿了脑袋。我必须有可信任的士兵。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "索姆将军",
+          "text": "喔，伟大的伊戈尔也会怕死吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "长官被自己的士兵在自己的驻地里杀死，伤害的是芝诺的荣誉。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "仅剩的这点儿荣誉，像是冬日的白桦树叶。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "索姆将军",
+          "text": "如果响应及时，很快你就会见到他们。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "扣上座机"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "接下来，只是时间问题……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "老将军握着骰子，不断抛起、接住，再抛起，再接住。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他得到同一句神谕，同一个答案，如同贝希斯敦铭文上的刻写，永恒不灭。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "“他的心是只悬挂的琴，悬挂的琴……轻轻一拨……”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "古老的诗歌在老将军的回忆中泛起。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "漆黑的信息，不详的预言，从他口中低声吟唱……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "渐黑"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "黑屏"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "视频开始"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "开始"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "我看见，鹞鹰追赶鸽子，那远射的太阳神的金弦勒紧，蓄势待出。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "阴谋的木马被迎入城墙，敬神的水池遍流鸽子血。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "啊，可他的心，和他那高山般骄傲的灵魂也深深地知晓……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他的城邦永存，他的高墙牢固，好像大地坚实的心灵。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "罪恶呵……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "骰子已经掷出……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "苍白的大氅，死夜的阴翳把他笼罩。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "为了明天。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "所有人的明天……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "结尾"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "视频结束"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "恢复"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "雨夜中唯一的答案。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "敲门"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德尔",
+          "text": "将军——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "进来吧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "开门后关门"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德尔",
+          "text": "昨天司辰来了联络，报告德洛丝医生被天使兄弟会绑架，现在她正和洛佩拉商讨救援事宜。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "副官女士松了口气，尽管医生被绑架，但至少得到了司辰生命安全的消息。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德尔",
+          "text": "出逃的金伯利女郎也在司辰身边，她自称是被释放的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "嗯，承认她的谎言吧，洛佩拉没必要知道真相。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德尔",
+          "text": "请原谅，当时时间紧迫，我私自答应了她……对方要求我们拿洛佩拉抓回的俘虏换回医生，如果再不做决定，他们恐怕就会……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "就会处决医生。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "老将军很清楚那些暴徒的做派。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "你怎么安排的？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "副官女士很紧张——她越过将军，私自做出了安排。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德尔",
+          "text": "我告诉她，芝诺的援军会到荣军院找她。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德尔",
+          "text": "让洛佩拉去侦察交接地点，她熟悉那儿。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德尔",
+          "text": "包括对金伯利的安排……和您说的一样。父亲，我……我认为您也会这样做。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "非常好。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "副官女士做出了模仿父亲的安排——在昨晚，在老将军拒绝接见任何人时。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "很快你会有一支部队，带他们去接应洛佩拉，救回医生。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德尔",
+          "text": "部队……？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "老将军望向窗外。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "阳光之下，萧条荒芜，时间溶解在石头里，绿藤攀绕柱廊，这座仿自安达卢西亚风貌建造的废旧城堡，就是如今芝诺分部的基地所在。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "我跟总部通了电话，顺利的话，托勒密他们很快就会到。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "副官女士长舒一口气，为即将和家人重聚而露出笑容。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德尔",
+          "text": "原来如此……很久没聚在一起了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她的笑容开始变得有些苦涩。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "你父亲死在阿巴丹，他本来不需要参加那场战役。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德尔",
+          "text": "那是我们的荣幸，死在冲锋途中要远比死在病床上光荣。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "之后的事，会让他的荣誉蒙上污点。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "荣誉蒙上污点，犹如锈迹斑斑的勋章。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "先谈谈那个叫红弩箭的年轻人。关于她，说说你的看法。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德尔",
+          "text": "训练有素，经验丰富，脾气很直，和洛佩拉在某些方面很像。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "她一身都是斯拉夫人的臭脾气，我太了解我的同胞了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "顽固，忠诚，勇敢，又像封冻的西伯利亚大地般不可动摇。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "她比洛佩拉幸运，不用生来就背负叛徒的骂名。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德尔",
+          "text": "洛佩拉只是个孩子。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "老将军合上眼，回忆着一个个曾与自己并肩作战的名字。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "很多人都死了，死于战争，没于“暴雨”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "现在，他们都成了总部纪功廊里的一个个铭刻。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "你觉得洛佩拉会怎么做？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德尔",
+          "text": "她也是您的孩子，我认为她会跟我们一起……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "长女的回答让老将军笑起来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "你“认为”，而不是相信。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "她不重要。来，看看这个。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "浮窗"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一封邀请函。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "我不会戴上它。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "你也不会，我保证，你们都不会戴上这个东西。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "收浮窗"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "还有一封信，来自传达“神谕”的祭司，一份来自传道者的礼物。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "而我们也会为她带去回礼。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "浮窗"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "天上降下硫磺与烈火，在废墟之中，我们找回了这一奇迹的残留。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "它在生长，在呼吸，它是活着的奇迹。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "生命的气息在这捧焦土中积蓄，我听见它的低语。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一个清醒的梦境，活着的死亡，坏灭的不朽。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "祂不可战胜，莫莉德尔。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "比起向那栋白色石屋无止境地投入孩子们的生命……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "我选择我们与真正的未来站在一起。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "收浮窗"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德尔",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德尔",
+          "text": "我会和您站在一起，父亲。"
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

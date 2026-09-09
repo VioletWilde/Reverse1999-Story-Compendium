@@ -1,0 +1,597 @@
+{
+  "episode_id": 11304,
+  "chapter_id": 113,
+  "chapter_title": "他者的悲哀",
+  "display_label": "",
+  "title": "The Cube Researchers",
+  "subtitle": "Only by opening it can we know what's inside—but should we really?",
+  "trails": [
+    {
+      "element_id": 1130401,
+      "owner_episode_id": 11304,
+      "trigger_episode_id": null,
+      "title": "Quantifying Pain",
+      "description": "Can the sum of the mind and the spirit be reduced to scientific data?",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=11304",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "The Foundation's Medical Record Archive"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Classification: High\nPatient Codename: Moth\nMedical Record:\nExamination reveals that the patient, having returned from the Antarctic Operation, performed repeated identity overwrites throughout their long-term undercover assignment, exceeding the safe iteration threshold. The patient's Phototaxis now shows multiple unstable segments, which may affect overwrite efficacy and increase the risk of personality collapse.\nBrainwave activity shows an increase in fast waves, indicating compensatory neuronal overload. Neurotransmitter concentrations are imbalanced: dopamine levels have dropped to 60% of the normal range, and serotonin synthesis efficiency has decreased by 28%. Physical damage is present in the medial prefrontal cortex, with mild edema in the limbic system ...\n...\nThe patient also overextended her use of arcane skills during the Antarctic Operation, resulting in prolonged pneuma depletion. Recovery prospects are not encouraging. Strict limits must be placed on her arcane skill usage in the near term to prevent irreversible damage.\nDuring psychological evaluation, the patient exhibited mild self-perception disorder ...\n...\nDiagnosis:\nThe patient's brain damage is largely within controllable limits. Although a deep personality overwrite should be performed upon completion of the undercover assignment, given the critical enemy intelligence and knowledge obtained during this infiltration of Manus Vindictae, an unconventional approach has been approved: the Phototaxis overwrite will be suspended for the time being. The patient will instead receive regular injections of neural repair peptides to maintain brain function. During this period, the patient's psychological state must be closely monitored to confirm the results of cognitive anchoring."
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "101306",
+      "internal_title": "第十三章13-04",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "The Cube Researchers"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Countdown to the \"Storm\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "You still look pale, Ms. Stranger."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Stranger",
+          "text": "Well enough to get back to work. Thank you for your concern."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Stranger",
+          "text": "Though, before we exchange any more pleasantries, shall we allow this researcher to finish her job first?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She glances over to the other woman standing in the corner."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Technician",
+          "text": "Hello, Timekeeper. You're as punctual as ever, right down to the tick."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "In fact, you're early, miss. But I must confess, I was never all that timely before becoming the Timekeeper."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Technician",
+          "text": "Oh, wow, and a sense of humor too! You've really got it all, Ms. Vertin."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Technician",
+          "text": "I'll be the one conducting research into your Suitcase's technology this time. Well, it's not just me, of course; it'll go to the team. One researcher alone couldn't possibly understand a device of the Suitcase's magnitude, could they?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Technician",
+          "text": "So, has everyone moved out already?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Yes. They're all in the Foundation's guest rooms. I've checked every nook and cranny to ensure no one was left behind."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "This year's Suitcase inspection just so happens to fall during the \"Storm.\" Perhaps Team Timekeeper will be able to take a vacation."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Following protocol, the technician takes the emptied Suitcase."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Technician",
+          "text": "Thank you for your cooperation. I'm sure this will help us learn more about that mysterious Spinning Wheel."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She holds the Suitcase delicately, almost reverently. She stares down at it and then glances up again, as if weighing unspoken words on her tongue."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Hm? Anything else I can help you with?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Technician",
+          "text": "Um, Timekeeper, there's something I'd like to ask you about, kind of a private matter."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Technician",
+          "text": "About the Amber Room. I heard you went through some kind of time distortion in there. Is that true?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Yes. It was exactly as I wrote in my report."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Technician",
+          "text": "Time distortion ... If only I were assigned to research that! What could be more fun than studying time itself!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her visible excitement is contained—if just barely—by concern for the marvelous device she is holding."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Technician",
+          "text": "Not to knock working on the Suitcase, which I suppose involves the study of space ... Space or time, ah, I wonder which is deeper."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Technician",
+          "text": "You know, you're a real gatherer of mysteries, Timekeeper. Actually, you're kind of a mystery yourself. *sigh* I don't know what I'm saying."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Technician",
+          "text": "Sorry for the blabbering. I should really go."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Technician",
+          "text": "We'll get the Suitcase back to you in a few days. A week at most. Please plan your schedule accordingly. Goodbye, Timekeeper."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She nods, causing the light to reflect off her sleek mask, then makes her exit."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Ms. Stranger approaches gently."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Stranger",
+          "text": "I wonder if she even saw me or Ms. Sonetto. Laplace really does excel in finding \"unique\" talents."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "I'm used to it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Has the Foundation assigned you a new job already? I thought you'd want to rest for a while longer."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Stranger",
+          "text": "I wish I could, but it's not my decision to make."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Stranger",
+          "text": "The Foundation received your report on the Don Operation while I was still stuck in bed. It mentioned that Igor gave you a \"boon.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Stranger",
+          "text": "Part of my work involves studying the Manus's arcane skills, so I was sent to Laplace to help."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Stranger",
+          "text": "The project leader said they've made some progress already, but they'll need your help to continue."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Stranger",
+          "text": "Which is why I invited you here."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Is the research team here at the Foundation?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Stranger",
+          "text": "Yes. The project leader and her assistant were notified in advance and brought their equipment here."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Stranger",
+          "text": "Follow me. They asked for an open space, so we agreed to meet in the garden."
+        },
+        {
+          "kind": "title_card",
+          "text": "Southern Garden, St. Pavlov Foundation"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Cold white auxiliary buildings form an uneven enclosure around the pleasant green commons of the Foundation's southern annex."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The patterns of shrubbery and lace-like walkways resemble, in a deliberate way, the intricate gardens that surround the Palace of Versailles—albeit tightly compacted."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Stranger",
+          "text": "I don't understand how one can relax while walking through a maze like this."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "The view was much more enjoyable before the hedges grew into walls like this."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "At the center of the commons stands a peculiar instrument."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "That should be them over there. Is that Eagle?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Eagle",
+          "text": "Hi, Ms. Timekeeper, Ms. Sonetto, Ms. Stranger."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The girl nods dutifully, but bounds back with a bright smile."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Eagle",
+          "text": "It's great to see you again."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "It's been a while, Eagle. I understand you've joined Laplace."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Will you be working on this project too?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Eagle",
+          "text": "Not exactly. The project leader is my tutor. I'm just here to help with a few things. She is ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Hello, Timekeeper. It's truly an honor."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A woman steps out from behind the device. At a glance, she could be mistaken for any other Laplace researcher, save for the sharp and cunning look in her eyes."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marguerite",
+          "text": "I hope you've found the time to read Ms. Recoleta's novel."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marguerite",
+          "text": "Oh, you can call me Marguerite."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "It's a pleasure, Marguerite."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marguerite",
+          "text": "Your timing's perfect. Eagle and I have just finished setting up the Omni-Vector Virtual Monitoring Device. We're ready to start the experiment at any time."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She presents the device to them with a look that reveals both anticipation and calculation in a single dangerous smile."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marguerite",
+          "text": "Please, take a seat, Timekeeper. You're about to experience quite the adventure."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Wait, Ms. Marguerite. Would you mind explaining what this \"Omni-Vector Virtual Monitoring Device\" is before you start?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marguerite",
+          "text": "It's a \"Chaos-System Omni-Vector Quantitative Analysis and Spatial-Metric Virtual Sensory Monitoring Device,\" to be precise."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marguerite",
+          "text": "Based on what we know about this cube, it'll go through unpredictable changes in the near future. So, to keep it under control, we must—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marguerite",
+          "text": "Ah. Judging by your faces, I think I haven't been clear enough."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Stranger",
+          "text": "Allow me to make things easier for everyone."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Stranger",
+          "text": "Using the data I provided, the research team has decoded the arcane skill Manus Vindictae used to stabilize the shell of the \"boon,\" allowing us to access what was held inside."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marguerite",
+          "text": "It was trivial, really. All we needed to do was listen."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "So you're saying I can use this device to \"hear\" what's inside the cube."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marguerite",
+          "text": "Exactly. I know it isn't quite correct to call it a \"monitoring device,\" but language itself is an exercise in uncertainty, wouldn't you say?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Stranger",
+          "text": "Given that the cube was created by Arcana, a less direct but safer method of exploration is probably for the best."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marguerite",
+          "text": "As it happens, I already attempted to listen to the device while setting up the system. As soon as the first blast of sound reached my ears, I was hit with a wave of dizziness and briefly fell unconscious."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marguerite",
+          "text": "Symptoms that closely resemble what I experienced when you secretly \"invited\" me to the lake in your Suitcase."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marguerite",
+          "text": "It's likely, Vertin, that you are the only one able to remain conscious while listening to the device. And don't worry. Eagle has already booked a VIP room for you at the rehab center, just in case."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "I see. Well, I suppose there's only one way to find out."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The hat is removed, allowing the head to fit more easily inside the dome."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marguerite",
+          "text": "Virtual environmental model constructed. You may begin at any time."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marguerite",
+          "text": "Ms. Stranger, place the Pandora's box on the tray, if you would."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marguerite",
+          "text": "Just as I predicted, the cube appears to be a superposition of ever-changing matter."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marguerite",
+          "text": "It seems feasible to quantify the system using chaos theory. The continuity observed in the data aligns well with our simulated outcomes. Wait—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Stranger",
+          "text": "The Timekeeper seems unwell."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "...?!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The ringing in the ears fades, only to be replaced by the wailing of the device's alarm."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "The machine is smoking. Did something go wrong?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Timekeeper! Are you alright?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "I'm fine. My ears are ringing, but that's all."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The hat is put back on, concealing still-spinning eyes beneath its brim."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marguerite",
+          "text": "So you were able to withstand whatever's inside the cube, as expected, but it looks like our monitoring device wasn't."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marguerite",
+          "text": "The overload of chaos data caused it to break down, though it should've been fine under the protection of the Apeiron scroll."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Eagle diligently jots down notes as she provides a full assessment of the damage."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Eagle",
+          "text": "Did you hear anything during the experiment?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "I did. But I don't quite know how to describe it. It was almost like the sound of sinking quicksand?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "I think I've made contact with similar powers before. I'm not sure what it is, but I know it could be very dangerous."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Eagle",
+          "text": "Then Ms. Stranger was right. It could be risky to break the shell before we find out what's inside."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marguerite",
+          "text": "It's still an option worth considering, since we've gotten nothing from the monitoring device."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She lets the undertone of excitement bleed into her voice intentionally as she focuses her attention on the artifact."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marguerite",
+          "text": "Well, Timekeeper? Shall we open it?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "No. The risk is too high."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marguerite",
+          "text": "Shame. Anyway, if you change your mind ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She produces a capsule-shaped item."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marguerite",
+          "text": "Use this. Our virtual neighbor came up with this capsule while we were working on the monitoring device."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marguerite",
+          "text": "It activates with a simple incantation. It'll take about seven seconds to dissolve the shell. After that, who knows what might happen."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marguerite",
+          "text": "I'll teach you the incantation later. It's easy, as long as you passed the SPDM's ninth-grade arcane skills class."
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "Accept",
+          "edge_label": "接受",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "Vertin",
+              "text": "Thank you. I'll treat it with the utmost care."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "Marguerite",
+              "text": "Good. I look forward to hearing its secrets. If you decide to open it, that is."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "Talk about ninth grade",
+          "edge_label": "确认年级问题",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "Vertin",
+              "text": "As it happens, I wasn't in class for most of ninth grade."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "Marguerite",
+              "text": "Really? Either way, I'm sure being the Timekeeper has given you more than enough experience to handle it."
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Marguerite hands over the capsule with a practiced smile."
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

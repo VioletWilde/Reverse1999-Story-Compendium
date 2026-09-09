@@ -1,0 +1,856 @@
+{
+  "episode_id": 11216,
+  "chapter_id": 112,
+  "chapter_title": "远征记",
+  "display_label": "",
+  "title": "Mercy",
+  "subtitle": "She understood what the word means.",
+  "trails": [
+    {
+      "element_id": 1121601,
+      "owner_episode_id": 11216,
+      "trigger_episode_id": null,
+      "title": "Basic Treatment Protocol",
+      "description": "The manual says nothing about treating traumatic brain injuries in field conditions.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=1216",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "I'm afraid I only have turnip stew to serve you. I will add a few sausage scraps to your bowl, however."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Here. Now go. It's best you leave before another battle breaks out."
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "Already?",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Is there something else you want from me?"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "You know what? Since you're so fond of visiting ... take the chair you're sitting on."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Even through the coldest winters, that chair was spared the fire. Perhaps it was meant for you."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Ah, yes—a tragedy to serve such a dish to such an honorable guest, but I'm afraid I have no tears left to shed to season the thing."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "If this farce had ended sooner, perhaps I'd have treated you to a feast—"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Bacon, beef stew, pretzels, mashed potatoes, sauerkraut, and a tankard of beer, of course."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "But the big men in the army disagreed. They valued shiny medals on their chests over food on their people's tables."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Right. Since you insist on staying, I will go to the market and see what I can find."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Sit here for a while longer, if you like. Prepare for a lifelong stay, even."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "With any luck, this place will become your grave by the time the next farce ends."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "It tastes a little bland.",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1121602,
+      "owner_episode_id": 11216,
+      "trigger_episode_id": null,
+      "title": "Open Channel",
+      "description": "The channel is open on the other end. Because in the empty air, there's nothing else.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=1216",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "A Telegram to Cavalry Corps Headquarters"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Subject: Enemy Nighttime Infiltration and Assault\n\nSummary: Beginning at dawn today, enemy forces infiltrated our southwestern defensive perimeter through unknown routes, intending to sabotage rear medical infrastructure. Our forces, with support from the Gryphon Legion, successfully contained and repelled the infiltrators.\n\nOperational Results and Loss Assessment:\n\n—Southern District: The southern district medical supply warehouse was breached. 25 crates of medical supplies, including morphine and bandages were confirmed lost. The 7th Block Militia Company defending the facility suffered heavy casualties: 59 KIA. The facility is non-operational.\n\n—Eastern Part of the Western District: Our counterattack succeeded. With support from Cavalry Corps medical personnel, Pokrov Children's Hospital was secured. The following supplies were recovered from enemy forces:\n        Surgical instruments and medications: 33 crates;\n        Children's clothing and bedding (winter): 4 crates;\n        Medical equipment: 3 crates of incubators, 10 crates of steam inhalers and other devices.\nDuring defensive and counteroffensive operations, the 3rd Street Militia Company sustained 23 KIA. Hospital medical staff sustained 10 KIA, and the Foundation medical personnel sustained 1 WIA (critical).\n\n—Southern Part of the Western District: Enemy assault repelled by Igor's Gryphon Legion and main militia forces. The Sanatorium remains intact. Medical assets and wounded successfully secured. Detailed inventory of recovered supplies is undergoing final verification; will be submitted with a supplementary report.\n\nCurrent Status: City defense elevated to maximum alert. All critical facilities have received reinforcements to security.\n\nRequest: Militia forces urgently require resupply of lost medical materials, particularly analgesics and bandages. We respectfully request that Cavalry Corps command provide material assistance and facilitate logistical transport.\n\nSigned: ████"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "101222",
+      "internal_title": "第十二章12-16.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "Mercy"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Militiaman",
+          "text": "You seem to know a thing or two about training horses. Impressive."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Militiaman",
+          "text": "Kids these days don't appreciate riding like they used to, complaining that the stables stink. Ungrateful brats! Forgotten the foundation of Cossack life, if you ask me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Merel brushes her companion absentmindedly."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "Oh, it's got nothing to do with me. He's been a good boy since I met him in—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Andreas",
+          "text": "*neigh*"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Andreas lowers his head, breathing warm, wet air against her neck."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "Hey! Watch it, Andreas!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Merel scrambles to wipe the damp spot with the back of her hand. The young militiaman laughs."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Militiaman",
+          "text": "Hah. Look at him. He's your horse all right. Shame. Thought I'd get to see him shine on the battlefield."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He pats Andreas on the neck and hands the reins to Merel."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Militiaman",
+          "text": "Well, take him away then, before I change my mind."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Merel nods, leading Andreas away with a solemn air."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "Thanks for taking care of him. I'll come clean up the stable for you once the battle's over."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Militiaman",
+          "text": "Sure, if we're both alive by then."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The militiaman waves her off."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "Alright, see you—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A black uniform crashes into her field of vision."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Militiaman",
+          "text": "You leaving, or what? You know I'm serious about taking Andreas to—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The militiaman had only meant it as a joke, but the reins are thrust into his hands regardless."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "I'll be back in a minute!"
+        },
+        {
+          "kind": "title_card",
+          "text": "Alley, Bereggrad"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Merel holds her breath in an attempt to slow her heartbeat. She can't be spotted."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "Black uniforms. But how did they manage to sneak past the militia?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "One instinct screams at her to run. Another quieter urge pulls her toward the sound. Each step feels like wading through a swamp."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "This is fine. You're fine. Just a few Manus soldiers. You don't have to follow them. Just go check if there's a breach in the barricades."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "You'll just slip past, easy. No need to fight. And if they spot you, just shapeshift your way out of it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The ground at the end of the alley is tacky, as if soda had spilled and dried there."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her boots lift with a soft sticky sound with every step, like a mouse tenderly moving its way through an old glue trap."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "What are you doing here?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She spins toward the voice, and her nose collides with something hard as iron. She scrunches her face."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "Ourgh. Anyone ever tell you you're built like a tank, Marsha?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The knight pulls a faded, starched handkerchief from her pocket and presses it to Merel's bleeding nose."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "Hold still. The bleeding will stop soon."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "The militiaman at the stable said you went this way in a hurry. What's wrong? Shouldn't you be with Charon?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "I was going to tell you Charon was awake again, but something's happened."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "Manus soldiers—they're here! They were gone in a flash, but I saw them go into that alley with my own eyes!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "That's why I came here, to check if there's something wrong with the fortifications."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "You're sure it was the Manus, not bandits?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "Absolutely! There's no way I'd mistake those uniforms."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "This is bad. Good thing you didn't do anything reckless. But what you were doing is more than dangerous enough, don't you think?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Merel just rubs her nose. Marsha pats her head, then scans the narrow alley Merel pointed out."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "That alley? But the exit has been sealed off. The militia even made sure the windows on the sides were locked tight. It's a dead end."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Crushed moss and lichen lie underfoot—a rarity in the city, but in forgotten corners like this, life will find a way."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A scrap of gauze lies in a damp corner."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "Hmm?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "This blue-black liquid ... I think I've seen it seeping from their masks before. And there's blood."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "Slightly oxidized, but the loss looks heavy. Some of them must be seriously injured."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "Hmm, smells like carbolic acid. Unusual for the Manus to use it on wounds. They prefer natural salves."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "You can usually only find disinfectants like this in large medical facilities. Wait. They must have been to one recently!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "What? But, how?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "They must have used some trick to get in unnoticed, but there's little point in dwelling on it now."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "There are two big medical facilities in this district: the nearest one, Pokrov Children's Hospital, and the Sanatorium two streets down from here."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "Merel, I need you to tell the militia and the Gryphons to send men to both locations. The Manus soldiers you saw could be hiding there."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "Understood. What about you?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "I'll go check on the kids at the children's hospital. I have to make sure they're safe."
+        }
+      ]
+    },
+    {
+      "script_id": "101223",
+      "internal_title": "第十二章12-16.2",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "Hallway, Children's Hospital"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "By a shattered window, a nurse shelters a group of children huddled in a corner, their arms in plaster and their heads bandaged."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nurse",
+          "text": "Why won't you let the children go? You've already taken all the medicine. What more do you want from them?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Manus Officer",
+          "text": "Tsk. Didn't I already explain this to you, human? I'm bringing the newest generation of arcanists back to their rightful home."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nurse",
+          "text": "If it's a hostage you want, take me instead!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She spreads her slender arms wide behind her, like an umbrella over the children. Her nose is bruised and her lip is split, but her eyes are steady."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Manus Officer",
+          "text": "You're not worthy of even that, human filth."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The officer lifts his gun and smashes it down on her head in an attempt to force her to her knees."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The nurse staggers but stays on her feet."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nurse",
+          "text": "Then I won't yield to you, and neither will my children!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nurse",
+          "text": "Soon, the riders will come and crush all you invaders!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The officer signals. A masked soldier moves to grab a child."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nurse",
+          "text": "Don't you dare touch him!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The nurse throws herself forward, knocking the soldier down."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She lands blow after blow. Even when her fists are raw and split, even when his mask slips off, she keeps fighting."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She doesn't see the pistol aimed at the back of her head."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Girl",
+          "text": "Nastya!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The shot and the children's cries echo as one as she falls to the ground in front of them."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Marsha wipes away the useless sweat and tears from the corners of her eyes, grips her trench club, and presses herself into the shadow of a pillar."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "Manus Vindictae ... They're really here."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "No signs of children in other rooms, and the adults are all gone. The Manus must have gathered every child they could find in here."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The soldiers in black spread through the hall, kicking down doors and taking even the smallest of supplies."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Only one officer stays, his gun still trained on the group of children as he moves toward Marsha's hiding place."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "They have been abducting arcanists from the villages, but to think they'd even lay hands on children."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "Alright, ten steps away from me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "Five, four, three ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "*thud*"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She lands a heavy, blunt strike cleanly on the Manus officer's skull."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Boy",
+          "text": "Wh-Who are you?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "Don't worry, little ones. I'm a doctor from another hospital. I'll take you to safety. Just stay close to me, and follow my instructions, and we will get through this together, alright?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Maybe it's the smell of disinfectant she carries, or that they're accustomed to following a doctor's instructions, the children trust her quickly."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Boy",
+          "text": "Alright."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Manus Soldier",
+          "text": "Hey, it's gotten a little quiet, don't you think? We should go check on the boss."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The soldiers halt their search, turning with weapons raised toward their fallen officer."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "Come. Get inside!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Marsha crouches down and guides the frightened children into a small storeroom behind the stairs. She slips in last, swiftly closing the door as footsteps approach."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Girl",
+          "text": "Will Nastya be okay?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Marsha has no answer to this question. She takes off her cloak and drapes it over the children's heads."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "I need you to stay here in this room and be completely quiet no matter what happens. Like a game of hide-and-seek, easy. Can you do that?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Girl",
+          "text": "Y-Yes."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She rubs their shoulders through the cloak and slows her breathing to steady her own racing heart."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her arcane skill smooths her frayed nerves, returning her focus."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "Merel will bring help soon, but there's no telling how many Manus are here. The best course of action is to hold this room."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Manus Soldier",
+          "text": "Are you in there, sir?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Manus Soldier",
+          "text": "We'd better get going before Zeno and the militia find—huh? Sir? Sir?!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "In the shadows, the soldier finds his commander on the floor."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Manus Soldier",
+          "text": "Damn it! Those little brats knocked him out! They can't have gotten far. Search the room!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "It doesn't take long for them to find the sealed door."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Manus Soldier",
+          "text": "Door's locked. Call everyone over; we'll smash it open and drag those brats to the ritualist!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The door shudders under a heavy blow. The sound of cracking white ash wood splinters among frantic shouts."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Boy",
+          "text": "Ms. Doctor, I ... I ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "Shhh. Keep your voice down. We're playing hide-and-seek, remember? We can't get caught by the baddies."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Girl",
+          "text": "B-But I'm scared. And Nastya ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "Hey, have you ever heard any stories about knights?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Boy",
+          "text": "Well, Papa once told me the story of a legendary Cossack called Ilya."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Girl",
+          "text": "My brother brought home a book from Moscow. It had twelve knights in it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "I'm sure both stories are wonderful. But I have a story about knights to share as well, and I bet none of you have ever heard it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Boy",
+          "text": "What happens in it?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "It's a wonderful story too. But you need to promise me you'll stay in this room, and I'll be back soon to tell you all about it. Deal?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Boy",
+          "text": "Deal. But where are you going, Ms. Doctor? You'll come back soon, won't you?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "Of course I will! A promise is a promise."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "Just be good, every one of you, and wait for me here."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Before the next strike comes, she flings the door open and quickly closes it behind her."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "In a secluded monastery perched atop a high, snowy mountain lived a group of mysterious knights."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "Their swords glittered like gleaming silver when they fought across the frozen fields, their helmets and pauldrons coated in dazzling white frost."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "One winter, the snow fell heavier than ever before, burying every path in the valley beneath a thick white blanket."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Amidst the snow, a little girl had lost her way. She wandered all night seeking help and shelter, but all she found was the endless white around her."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "At sunrise, having used every last ounce of her strength, she collapsed, leaving a small hollow in the snow."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Just before she froze into a little popsicle, a figure appeared, gleaming even brighter than the pale landscape."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Knight in White",
+          "text": "What's this? A girl?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Disoriented Girl",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Knight in White",
+          "text": "O merciful Lord, I thought it only a stray fox."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Knight in White",
+          "text": "It seems my trip to the valley must be delayed. Come, child, lean on my back and hold my hands. I shall take you back to the monastery and get something warm in your belly."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Knight in White",
+          "text": "Worry not. I shan't have you die on me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Thanks to this kindhearted knight, the girl survived. To her, the monastery, which nursed her back to health, seemed like an impregnable fortress that even dragons dared not approach."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "After years of training, the little girl grew to become a capable knight, just like her rescuer that winter night."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "But then, war ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "War found its way to their once secluded fortress, and she, along with her fellow knights, was called to the battlefield, forced to fight. And after taking one life after another, doubts began to grow in their hearts."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "They were welcomed to the glamorous halls of the royal palace and praised for their skills, their slaughter. But for these noble knights, those words were not praise. No, they were wounds to their dignity and honor."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "We were fighters, yes. We raised banners and wielded swords, but we weren't ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "We were never meant to kill."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "I hear someone, in that room. Marsha? Is that you?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ptolemy",
+          "text": "We'll know once we blast this damn door down. Come on, men!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Militiaman",
+          "text": "Three, two, one, push!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "Oh, oh, God. Marsha, you're hurt. And all these kids ... Hurry, she needs medical help!"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

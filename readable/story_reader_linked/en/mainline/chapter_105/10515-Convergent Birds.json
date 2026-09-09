@@ -1,0 +1,625 @@
+{
+  "episode_id": 10515,
+  "chapter_id": 105,
+  "chapter_title": "The Prisoner in The Cave",
+  "display_label": "",
+  "title": "Convergent Birds",
+  "subtitle": "The clamor has ceased. They settle on the treetops, enjoying a moment's rest.",
+  "trails": [
+    {
+      "element_id": 1051501,
+      "owner_episode_id": 10515,
+      "trigger_episode_id": null,
+      "title": "Trail① Intercept the Deserters",
+      "description": "The masked heads want to escape from the classroom of truth again... Stop them!",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=10515",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "Various Scraps of Colored Waste Paper"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "◎ The Great Revolution: Transforming the prison of numbers into an artistic utopia.\n\n◎ Begin Investigation: 5:30 AM! The sun has just risen! Incorrect island schedule; urgently needs correction. ★★★★★\n\n◎ [A rough doodle of a man with an expressionless face]\nLoose hair, free-spirited and discerning. Needs a bit of dishevelment. ★\nTough headband. Perhaps expresses individuality and defiance.\nMonotonous clothing colors, no tassel decoration, poor taste. ★★\n\n◎ Room: Neat, bed rolled up, not even a trace of having been slept in.\nCollective lack of imagination and creativity. ★★★\n\n◎ Doctrinal studies, terrifying regulations, a stranglehold on the soul. ★★★★★\nLocation: Plaza — Beach\nMethod: Lecturing — Art Salon\nTransformation Style: Dreamy, cozy, passionate\n[A rough doodle of a beach party scene]\n\n◎ Honey bread and vegetable salad. Vegetarianism.\nNo leftover food on the plate. Environmentalism.\nA beautiful utopian prototype.\n\n◎ Boring and lengthy Q&A sessions. Sleep-inducing. ★★★★\nFrowning, contemplation, frowning, frowning, contemplation, not a single smile. Harmful group activity. ★★★\n\n◎ Walk in the fields. Makes me hungry.\nWhat's for dinner?\n\n◎ [A rough doodle of a little girl with long hair, fierce expression, and exaggeratedly waving arms, like some kind of artistic process]\nTerrifying pursuers! Stubborn enemies of the great revolution! Beware!!! \n\n◎ No meat. Reminder: Sometimes, peace must give way to the stomach. ★★★\nTen people per table, suitable for exchanging creative ideas and inspirations.\nReciting poetry! Yeah, high art. No meat.\n[A rough doodle of grilling meat]"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100522",
+      "internal_title": "第五章5-15",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "Convergent Birds"
+        },
+        {
+          "kind": "title_card",
+          "text": "Public Area, Island"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Believer II",
+          "text": "Congratulations, Ms. Sonetto. You are the fastest learner of our doctrine among all the visitors in the past half-century."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Believer II",
+          "text": "On behalf of all orators, I award you this laurel wreath."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "No, no, I wouldn't have achieved this without your guidance."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Those mathematic statements are really inspiring. I've learned a lot."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "But there's still something confusing me, such as Pythagoras and his golden thigh, his memory of the previous lifetimes as the son of Hermes, and the transmigration for every 216 years ... Could you please tell me more about these?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The door is violently kicked open."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Two outsiders, heads dropping to their chests, are dragged into the Hall of Truth."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Thirty-seven",
+          "text": "Hmm. Why would people fail to see the charm of the matrices?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Thirty-seven",
+          "text": "This is not right. I need to spend more time on teaching!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Manus Follower I",
+          "text": "Anyone ... anyone, sa-save us ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Manus Follower II",
+          "text": "Does my journey of art ... It's doomed to fail ... here ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Manus Follower II",
+          "text": "I really don't want to study maths anymore ... Help ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Nobody cares what they are yelling."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "As 37 continues to grumble to herself, the two men are dragged into a different room."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Timekeeper? You are here."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "I heard that you've completed all the lessons on the scripture."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "This laurel wreath suits you well."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Yet Sonetto keeps her head low."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Timekeeper, I am sorry. At the Assembly, I failed to understand the arcanists' logic. It was totally different to the debates I have participated in."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "But now I have ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "That was not your fault, Sonetto. It is now behind us."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "I need to tell you something more important."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "I've signed a peace agreement with Arcana, and the price of breaking it is ... death."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "What?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "So Manus Vindictae is also restrained by the stone bangle, like we are."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The Chief Assistant ponders aloud, having already removed her laurel crown."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Yes. She put it on without hesitation."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "But I don't think her purpose would be as simple as \"hearkening the ancient wisdom.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Unlike other stones in the Foundation's collections, this one has no signs of arcane skill on it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Before it is activated, it looks harmless, rough, moderately weighted, and no different from other ordinary stones."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "I attacked Manus followers earlier, as 37 asked me to, but I received no punishment from the bangle."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Perhaps this island makes its own judgment on what to be classified as hostility … Like it has a mind of its own."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Sonetto, do not report this to the headquarters before we figure out how the bangle works."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "After all, there are many other things to investigate on this island other than Manus Vindictae."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "I see. I will contact Ms. Druvis and Ms. Moissan first and keep an eye on Arcana."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Timekeeper, this island, the Manus's mask, and your suitcase are all immune to the \"Storm.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Does this mean we could collect more \"asymmetrical nuclide R\" samples?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "I tried to collect some samples last night in the outer region of the island."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "But the detecting device showed nothing. If we were to find out more, we have to go to the centre area ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sophia",
+          "text": "What are you conspiring now?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sophia",
+          "text": "\"Do not poke the fire with swords, and do not jump over a crossbar.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sophia",
+          "text": "The Assembly will not be held every time when there's a crime. Please take heed of my warning, and do not overstep the line."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sophia",
+          "text": "Learn a lesson from them."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Behind Sophia, two gray-coated figures appear."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "One disheveled, the other covered in soot, as if they have just survived an explosion."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Lilya? Didn't you say you have Regulus with you safely?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Regulus",
+          "text": "*coughs* Apologies, Vertin!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Regulus",
+          "text": "I was going to rescue Sonetto through a very creative underground tunnel."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Regulus",
+          "text": "But things didn't quite go as planned! *coughs*"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Regulus shimmies in a dance-like step, trying to shake off the dust."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Not a bad innovation for a simple clap on the forehead—if only you didn't miscalculate the location of the explosion."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "Huh! This APPLe is grateful that he didn't get blasted into a puddle of apple jam."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Radio",
+          "text": "Warning, shell-cleaning required, warning."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Regulus",
+          "text": "Oh! I don't know why, but when I was in that cave, ideas kept flooding into my head!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Regulus",
+          "text": "Though, judging by the outcome, they weren't all good ideas."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Sophia puts her hand on her forehead, looking extremely fatigued."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sophia",
+          "text": "On a routine patrol, I found them trying to break into the cave."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sophia",
+          "text": "I'm not surprised that an irrational number would try to trespass on forbidden grounds. But you two, the integer and the fraction, what were you doing with her?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sophia",
+          "text": "*sighs* This is a serious crime!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Life has suddenly become a lot more difficult."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Do we have to go through this debate again?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "It's ... it's okay, Timekeeper! I will defend Regulus!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "I've thoroughly studied the scripture, and this time I'm sure I can do better."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sophia",
+          "text": "Forget it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Sophia mutters to herself."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Forget it?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sophia",
+          "text": "It is unwise to waste time trying to understand an irrational number's motive."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sophia",
+          "text": "Besides, we should let the reckless take care of the least important matters."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She gives them a smirky smile."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sophia",
+          "text": "That's it. Regulus, you will come with me to clean the beach."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Regulus",
+          "text": "Huh?! Me, again?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sophia",
+          "text": "Since you have too many floating points, words of discipline would not work on you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sophia",
+          "text": "We would have suggested you study with the rest of the students here. Abstain from eating meat, bathe in cold water, rise with the Apollo Star, study our doctrine, read the scripture aloud on the beach ... so as to remove your floating points and purify your soul."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Regulus",
+          "text": "What?! I won't do any of that."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sophia",
+          "text": "But taking your peculiar character into consideration ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sophia",
+          "text": "I decided that some compulsory labor would be the better option."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Regulus also smiles in relief."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Regulus",
+          "text": "Phew! That's the best news of the day. I'd rather clean up the rubbish on the beach than be surrounded by people giving sermons all the time. At least the rubbish doesn't talk gibberish!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Regulus",
+          "text": "I'd be dead if you didn't change your mind!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Regulus, studying the scripture is not that scary. They will teach you and guide you until you take a full command."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Just like ... taking lessons at school?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Regulus",
+          "text": "Hmm? Is that what schools are like?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Haven't you been to school, Regulus?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Regulus",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Regulus",
+          "text": "Haha! A great pirate would not remember trivial matters as such!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Regulus",
+          "text": "So where were we? Which part of the beach needs to be taken care of by the great captain?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Thirty-seven",
+          "text": "My laboratory."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Regulus",
+          "text": "Whoa, where did you pop up from?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "37 blinks her eyes emotionlessly and entirely ignores Regulus's complaint."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sophia",
+          "text": "37, aren't you supposed to preach to the visitors?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Thirty-seven",
+          "text": "I've seen their numbers."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Thirty-seven",
+          "text": "A group of negative repeating infinite decimals. They will achieve nothing but to repeatedly step in the river of mistakes. I give up on them."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sophia",
+          "text": "Fine."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sophia",
+          "text": "Those of you who are complicit in breaking into the cave will also be sent to labor."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sophia",
+          "text": "Sonetto and Lilya will come with me to patrol. Regulus, you can go clean the lab."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sophia",
+          "text": "As for Vertin ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sophia",
+          "text": "You will assist 37 with her study of the Emanation."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sophia",
+          "text": "Don't waste more time on the trivial matters of the phenomenal world, integers."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sophia",
+          "text": "That was the sole reason you were on this island, was it not?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Sophia turns around and leaves."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She stops a few steps away from them, silently urging the patrol team to move."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Don't let down your guard. The arcanists on this island are not as easy to deal with as you imagined."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Down in the cave, I heard some pretty alluring and intriguing anecdotes."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sophia",
+          "text": "Ms. Lilya, this way, you will cover this area!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Stay on the radio."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The flying witch waves her hand and departs for her new job determinedly."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Sonetto hesitates for a brief moment, then quickly goes after her."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Don't worry, Timekeeper. Lilya and I will keep an eye on Manus Vindictae."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "We are counting on you, Sonetto."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "I have a feeling …"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "We are coming closer to a big secret."
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

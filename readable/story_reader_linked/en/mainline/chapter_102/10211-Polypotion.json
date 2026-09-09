@@ -1,0 +1,602 @@
+{
+  "episode_id": 10211,
+  "chapter_id": 102,
+  "chapter_title": "Tender is the Night",
+  "display_label": "",
+  "title": "Polypotion",
+  "subtitle": "The mist remained and covered everything that it could.",
+  "trails": [
+    {
+      "element_id": 1021101,
+      "owner_episode_id": 10211,
+      "trigger_episode_id": null,
+      "title": "Trail ① Intercept the Transport Squad Ⅰ",
+      "description": "A combat task from St. Pavlov Foundation. Intercept a resource transport team of Manus Vindictae.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=10211",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1021102,
+      "owner_episode_id": 10211,
+      "trigger_episode_id": null,
+      "title": "Trail ② Intercept the Transport Squad Ⅱ",
+      "description": "A transport car without a driver. Parked by the road, it is twined by vines that seem to be greeting the visitors.",
+      "action": "",
+      "unlock_condition": "ChapterMapElement=1021101",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1021103,
+      "owner_episode_id": 10211,
+      "trigger_episode_id": null,
+      "title": "Trail ③ Intercept the Transport Squad Ⅲ",
+      "description": "A combat task from St. Pavlov Foundation. Intercept a resource transport team of Manus Vindictae.",
+      "action": "",
+      "unlock_condition": "ChapterMapElement=1021102",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1021104,
+      "owner_episode_id": 10211,
+      "trigger_episode_id": null,
+      "title": "Trail ④ Fight of the Bulldogs",
+      "description": "",
+      "action": "",
+      "unlock_condition": "ChapterMapElement=1021103",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "You look nervous, and you all know something's gonna happen."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "With your—that ... the brains full of weird ideas—somehow you can feel it. It's your special talent. The talent comes together with your sensitive nerves and rich emotions."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Things are getting messy. New friends and old friends showed up one after another. And, here you are."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Fog rises. It separates the black and the white, just like separating two groups of bulldogs. They're turning around and around, revealing their fangs as if they're trying to tear their own tails apart."
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "What happened inside the fog?",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Good question, my dear. Let's take a look here, right under your feet—"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "You walked in the area controlled by Manus Vindictae. You stole Schneider under their noses—that little girl who bathed in red feathers and blood. And you whispered to that pretty Druid."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "And your rivals are no better people than you are. Look at those wooden supply boxes. People are starving, but the only thing inside is cotton, and cotton, and cotton."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Butter, flour, sugar, and everything sweet were intercepted and sent to Chicago, thanks to those black dogs. But that's alright, cotton will feed you too."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Come on. Follow me and look. Look at the place where the air becomes humid because tears are shed. Here's a sobbing mother, with an infant in her arms. Her child is dying, while those nobles are worrying about their silk clothing, checking if their jewelry gets stained with mud."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "What happened outside the fog?",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Yes, of course you'd wonder. You haven't been out there for so long that you know nothing about them or their stories. I'd be as curious if I were you."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "The smarties in the Foundation also noticed what Manus Vindictae has done. They stopped the transportation team while approaching the fog."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "The girl in the black suit has returned to where you asked her to be. They take good care of her."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "And your loyal, beautiful friend is fighting for you, together with that easily startled rocking girl, the quick-thinking boy, and a red fruit."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "She's on her way to save you. She overcomes one obstacle after another, like a prince crossing the thorny land of a sleeping castle, like a legend puppy gripping its owner's clothes and pulling him from a flaming fire."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "What is the fog?",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "You picked an interesting question, as interesting as yourself, little freak."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "You do have a distinguished brain, with so many distinguished things inside. It's not bad. Keep that. Use it more often."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Let's go back to your question. The fog—no doubt it's created by the barkeeper. It's like bartending, put this in, put that in, stir them in a crucible, and you get what you want."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "It works like real fog; it blocks eyesight, hides secrets, and slows down those who wanna get in or get out. It also works differently from the real fog, for it is hallucinating, intoxicating, and getting people forever lost at the mysterious fork roads."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "He is shrewd and insidious. But smart guys are everywhere, especially now and here."
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "What we have to do is wait. Wait. Wait for it.\nBut not for too long, that'd be stupid. You know, a proper wait—wait for it!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "The show is about to begin. You'll see the most magnificent performance of all time! Oh, of course, you can join it, stand in the center, bring your pretty suitcase, hold your umbrella, and give us a badass fight."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Wait and see. The fog between black dogs and white dogs won't last for long. You can't turn away from those biting, tearing, and bleeding."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Grab your popcorns, my love.\nThen sit tight, hold still. You may cry, or may not. I don't give a f**k."
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100219",
+      "internal_title": "第二章2-11.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "Polypotion"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "These powders are not poisonous."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Also the potion he's brewing doesn't do any obvious harm."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "This smells nice. Even like ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Why? Does he really want to treat the patients? Impossible."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tramp",
+          "text": "Move! Get outta my way!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tramp",
+          "text": "Where did they hide the medicine? Tear it, *cough* tear it apart! What are these boxes!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Patient",
+          "text": "*cough* You can't take these. ... These are the relief supplies of the service corps!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tramp",
+          "text": "Cotton ... cotton ... Ah! It's the quilt! Who wants this s**t!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Relief supplies?!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "So that's it ... Lots of reserved food and oil, medical supplies, emergency supplies, and temporary infrastructure tools …"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Without official support, Manus Vindictae needs supplies to gain a foothold in different eras."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "The so-called peace before the \"Storm\" is to cover up the transport of supplies!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "No. Ten is too late. I must meet Sonetto before that!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tramp",
+          "text": "Hey! You wanna steal the potion? Gimme the potion!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "It's a misunderstanding. I don't have the potion. It will be delivered very soon."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Can't be talked into senses, the tramp utters a cry."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tramp",
+          "text": "No! You can't fool me ...! You're afraid of me ... you're afraid of getting burned! ... Gimme that ...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Crap. Other people will be attracted here! I need to take him down ..."
+        }
+      ]
+    },
+    {
+      "script_id": "100220",
+      "internal_title": "第二章2-11.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "... Sorry. Take a rest. You can no longer waste your energy like this."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "An unguarded trail hides behind the bushes."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "A smell of stale, burnt gasoline lingers."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis Ⅲ",
+          "text": "Are you running away?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Ms. Druvis ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "No. I'm picking them up."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis Ⅲ",
+          "text": "Then you should not pick this way. Are you still as lost as you were at the beginning?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis Ⅲ",
+          "text": "It is heavily guarded in the front. There are more serious crises than just now."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis Ⅲ",
+          "text": "Even so, are you still moving forward?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "... Yes."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Until we see \"tomorrow\" with our own eyes."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Will you come with me, Druvis?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis Ⅲ",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis Ⅲ",
+          "text": "Your friends are on the way."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis Ⅲ",
+          "text": "I \"see\" ... the huge engines are roaring towards here."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis Ⅲ",
+          "text": "What \"we\" desire is being removed; what \"we\" despise is being rescued."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis Ⅲ",
+          "text": "But \"our\" enemies are still increasing. From north to south. From east to west."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis Ⅲ",
+          "text": "The \"Storm\" is coming."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis Ⅲ",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis Ⅲ",
+          "text": "I accept your invitation."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis Ⅲ",
+          "text": "But this is a formal farewell. I need to see my woods one last time and engrave it in my mind."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She fiddles with her hair, walking towards the shelter."
+        },
+        {
+          "kind": "title_card",
+          "text": "Depths, Scorched Woods"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Good? This should be the third transport truck we seized."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "In order to avoid attention, the Manus reduced the number of guards for the supply transport. They must have never expected our attack."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Captain, lead the team to escort the three vehicles back to the manor."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "You and the others, follow me to the Relief Shelter."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Team members",
+          "text": "Copy that!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Schneider",
+          "text": "Have you made the latest hallucinogen, my lady? If you are confident, you can pour it into my mouth ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sotheby",
+          "text": "Thank you for being my experimental subject!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sotheby",
+          "text": "But even if it's successful, you won't have any reaction."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sotheby",
+          "text": "You don't want to eat gold bars ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Schneider",
+          "text": "Humph? Is someone questioning my contribution?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Schneider",
+          "text": "I am willing to try it for my family first ... Isn't that okay? My lady is really hard to understand."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Schneider",
+          "text": "After all, I am the woman who escaped from Druvis III. ... Compared to any of you ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Schneider",
+          "text": "I know what death ... tastes like ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sotheby",
+          "text": "Ms. Druvis, who's that? You mention her a lot. Is it only me who does not know her?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "I have read her investigation report. She is the stepdaughter of Washington State Forestry Tycoon."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Mr. Karson",
+          "text": "You mean the Weyerhaeuser? Master once dealt with them."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Mr. Karson",
+          "text": "However, the family suffered a great deal of misfortune. It was even in The Times."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Mr. Karson",
+          "text": "The Soviet Union artificially lowered wood prices and that led to their bankruptcy. Fate can't be resisted."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Mr. Karson",
+          "text": "Let alone ... no, never mind."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sotheby",
+          "text": "Why did you hesitate, Mr. Karson?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Mr. Karson",
+          "text": "Nothing, I assume that Ms. Druvis will prefer not to bring up such an old story again."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Mr. Karson",
+          "text": "It is also not my place to meddle in private affairs. Please don't take it to heart."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Be careful, everyone. We have entered the area of the Relief Shelter."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sotheby",
+          "text": "Wow ... the fog has risen in the woods!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sotheby",
+          "text": "*cough* ... What's the funny smell? I can't control myself!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sotheby",
+          "text": "*cough* ... And I'm a little dizzy ... Whoa ... whoa ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Come here! Hold your breath. The white fog should be a protective incantation to hide the Relief Shelter."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "It is now 35 minutes to ten."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "The refugees nearby are not well, and the guards are doubled."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "From now on, everyone please proceed with caution. Ensure that you are not disturbed by the fog."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sotheby",
+          "text": "Yes. *cough* No problem!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sotheby",
+          "text": "Move as much as possible before we meet Miss Vertin!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Good. Repeat. Transfer supplies. Rescue refugees!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Let's move!"
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

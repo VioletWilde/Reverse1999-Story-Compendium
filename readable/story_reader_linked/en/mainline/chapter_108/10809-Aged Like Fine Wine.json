@@ -1,0 +1,730 @@
+{
+  "episode_id": 10809,
+  "chapter_id": 108,
+  "chapter_title": "Tristes Tropiques",
+  "display_label": "",
+  "title": "Aged Like Fine Wine",
+  "subtitle": "Live long enough, and you will see everything.",
+  "trails": [
+    {
+      "element_id": 1080901,
+      "owner_episode_id": 10809,
+      "trigger_episode_id": null,
+      "title": "Innovative Advertising",
+      "description": "A magazine clipping is posted next to a pile of glass souvenirs, a very effective promotion.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=809",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "The Untold Stories of the Invisible College—Boyle's Impossible Flask"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Perhaps you are familiar with the Royal Society, maybe you're even able to name every president. But do you know its predecessor—the mysterious scholar's assembly, known as the Invisible College? Today, we will introduce the central figure of the Invisible College, Robert Boyle, the famous alchemist, natural philosopher, and founder of modern chemistry, along with his mystical stories.\n\n    When discussing Boyle, one must mention Boyle's Law, which states that at constant temperature, the pressure of a gas is inversely proportional to its volume. Boyle demonstrated this with a U-shaped tube filled with mercury. But before that, Boyle tried various devices and countless designs in his quest for a frictionless flask with a piston. He even employed arcane skills, casting an incantation of proportional scaling into a flask. As a result, the flask could indeed compress and expand objects perfectly. However, arcane skills being what they are, the object's mass would shrink with its volume, and the process would cause noticeable temperature changes. A very successful arcane skill, but a failed experimental apparatus.\n\n    These flasks were eventually donated to the Royal Society, but it's said some ended up in private hands. So, keep an eye on the ordinary flasks around you—one of them might just be a highly convenient \"Impossible Flask.\""
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1080902,
+      "owner_episode_id": 10809,
+      "trigger_episode_id": null,
+      "title": "Paths of the Past - Dr. Dores",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=809",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A roll of bandages, fighting back death's descent upon her patients, and extinguishing the world's light from the eyes of the doctor."
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100812",
+      "internal_title": "第八章8-09.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "Aged Like Fine Wine"
+        },
+        {
+          "kind": "title_card",
+          "text": "A Shelter in the Favela"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A fan whirs loudly, yet the room is just as hot as the outside."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The doctor gently lays the unconscious girl down, resting her head on her lap."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She lightly strokes her flushed face."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Doctor Dores",
+          "text": "So you weren't even traveling together, and still you brought her all the way here?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Doctor Dores",
+          "text": "You have a good heart, Ms. Kimberly."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Kimberly",
+          "text": "You flatter me, Doctor. It was only that the current pushed her to my side when we all fell into the water."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Kimberly",
+          "text": "And I just couldn't forgive myself if I were to let her drown."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "An accident or, perhaps, fate."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Kimberly",
+          "text": "In fact, she and I had met briefly before, in Texas. We didn't part on the best terms."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Doctor Dores",
+          "text": "Sometimes, we find ourselves in quarrels, even among friends."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Kimberly",
+          "text": "No, we aren't ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Doctor Dores",
+          "text": "Shh. We should let her get some rest."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Kimberly falls silent."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She squats down, watching her the way a cat peers at a sleeping baby."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Kimberly",
+          "text": "May I touch her?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Doctor Dores",
+          "text": "Fever is one of the biggest dangers here, though it's still better than diarrhea and vomiting."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Doctor Dores",
+          "text": "I'll take her to the Veterans' Residence for further treatment once her condition stabilizes."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Kimberly",
+          "text": "It almost looks like she's only sleeping."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Doctor Dores",
+          "text": "Are you two really not friends? Seems to me that you care for her very much."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Kimberly",
+          "text": "She helped me. She was kind to me on the ship. That bloody ship ... I don't know what happened."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Doctor Dores",
+          "text": "Shh. Hush, please."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The doctor presses a finger against her lips, a gentle smile on her face."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Kimberly",
+          "text": "My apologies."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She has the face of a guilty child."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Kimberly",
+          "text": "*sigh* As I said, it was only twice that we'd met, and somehow, both times turned out quite terrible for me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The doctor strokes the feverish patient's hair. It's beautiful—almost the same color as hers."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Doctor Dores",
+          "text": "Her hair is so silky. It's smooth and soft, like fine rain in my hands."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The doctor gently combs the hair with her fingers, slowly untangling the matted strands."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Kimberly",
+          "text": "First it was Tuesday's Motel. Things there turned into a right mess, and I didn't find what I'd lost."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Kimberly",
+          "text": "Then, in that manor, just as I was about to enjoy a bit of dinner, that wild girl burst in. They caught me, threw me into a tower, and locked me up."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Kimberly",
+          "text": "I was stuck there, waiting like a lamb to be slaughtered."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Doctor Dores",
+          "text": "But you've made it through. You're safe with us."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Doctor Dores",
+          "text": "No one is going to hurt you here."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Kimberly",
+          "text": "Thank you, Doctor."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Kimberly gently takes the feverish girl's hand into her own. It's limp and slightly rough to the touch."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The blurred memory of her sister comes to mind, as well as the wrinkled, warm faces of her old friends cheering her on."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Kimberly",
+          "text": "Goodbye."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Satisfied that she has paid her back for her kindness on the ship, Kimberly leaves through the back door."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Kimberly",
+          "text": "?!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The little ship in a bottle is waiting for her on the other side."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "White Rum",
+          "text": "Leaving your friend so soon, lass?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "White Rum",
+          "text": "Well, come as you are, I'll give you a lift. Perhaps we might have a bit of an old jaw along the way."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "White Rum",
+          "text": "After all, it's rare indeed to see one of your kind out and about these days."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Kimberly",
+          "text": "A-A lift? Uh, pardon me, madam, but, I'm not sure you could bring me anywhere."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Kimberly",
+          "text": "You're a little too small, and a little too stuck in that bottle."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A galleon, born from the 16th century's dreams of exploration. She awakened and slumbered once again until now, a time in which there are no more uncharted lands to uncover."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "White Rum",
+          "text": "Climb aboard, matey! So, where's our heading? Or shall we go for a ride on the river? Don't be shy. I aim to make a friend of you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Kimberly looks hesitant."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "White Rum",
+          "text": "Don't be shy. I let the little ones play on my deck all the time, climbing here and there, like a bunch of cheerful little monkeys."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "White Rum",
+          "text": "And not just them. I ferry the good doctor from here to the Veterans' Residence too."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "White Rum",
+          "text": "You'll have to wait till we reach the sea to see me at my full size."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "White Rum",
+          "text": "Once the water opens up, that's when I'm really free."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The sailboat slowly drifts away from the doctor's hut."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "White Rum",
+          "text": "Now, I ask again, where are we going, mate? Can't just let the wind decide our course."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Kimberly",
+          "text": "Why not? I should like to go somewhere nobody will ever find me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Confusion, chaos, escape—perhaps tomorrow will be just like all those yesterdays."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "White Rum",
+          "text": "I'm afraid there's precious few places like that anymore, lass."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "White Rum",
+          "text": "I've spied the globes they've got nowadays; seems like every last step is covered to the four corners and back."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "White Rum",
+          "text": "But aren't you a strange sight, lass? You know I've seen your kind before. Beautiful to look at, aye, but there's a darkness in you that lies beneath the surface, isn't there?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "White Rum",
+          "text": "But you're not like the rest of them, you'd say. Well, I would sooner believe in a Map to El Dorado before I'd swallow the idea of a succubus with a heart of gold."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "White Rum",
+          "text": "So, was that girl your master? Did she have your seal?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "White Rum",
+          "text": "If that were true, then heart of gold or coal, wouldn't matter for none. You'd be as thick as old tar."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She's been found out. She's a member of an ancient race once wanted—even hunted—and now forgotten by the world."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A few seagulls land on the boat's edge, joining them on their journey."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Kimberly",
+          "text": "...?!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "White Rum",
+          "text": "What, are you wondering what gave you away? Your gloves don't do much to hide those claws. I could feel them pressing on my railings as soon as you hopped on."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Kimberly immediately hides her hands behind her back."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her reaction betrays her."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "White Rum",
+          "text": "Ahahahaha! No use hiding them now, matey."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her hearty laugh sends ripples through the water."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Kimberly",
+          "text": "You!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Kimberly scratches the mast with her claws, but this small protest does nothing to dissuade the ship."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Kimberly",
+          "text": "Are you going to turn me in?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She looks around. This place looks safe enough. Just one small leap, and she'd be back on solid ground."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "White Rum",
+          "text": "Turn you in? And how do you suppose I do that! I'm only a ruddy ship! Bring me back up on land, and I'll be stuck right back in the bottle."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "White Rum",
+          "text": "No, lass. I've sailed with rougher folks than you. My old captain had a bounty on her head, too."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She's a fugitive, hiding like a frightened bird."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Thunder rumbles in the distance, scattering the birds perched on the roofs on either side of the river."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Kimberly",
+          "text": "...?!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "It makes her quiver, but for the boat, it brings back fond memories of sailing the roaring westerlies with her captain."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Rain starts to pour. The wind picks up, filling the ship's sails and racing her down the river."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Kimberly",
+          "text": "Well, just so you know, I very much doubt they'll pay you anything for handing me over!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "White Rum",
+          "text": "Maybe so, maybe so. Now, you've got the law in your tailwind? What happened? Did you spring loose from the old gibbet?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Kimberly",
+          "text": "I ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "White Rum",
+          "text": "Mark me now, young lass. If you're going to try to pull one over on me, you'll have to do a lot better job than that."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "That same old trick."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Kimberly",
+          "text": "Are you mocking me? This is not how one ought to treat a new friend."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "White Rum",
+          "text": "Quite right, lass. So then, who are your pursuers? And your master? Shouldn't you be under his protection? My old crew would say any captain that can't keep his ship safe is only good for bait."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Kimberly",
+          "text": "I have no idea where he is, or where my seal is for that matter—he was a no-good fool, though. Or only good for bait, perhaps."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Kimberly",
+          "text": "I hope he's dead, rotting in some sewer back in San Francisco."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The rain stops. Brief and intense, just like her escape."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "White Rum",
+          "text": "Aye, well, mortal flesh doesn't last long. I've ferried many a passenger in my days, and none yet have escaped when Davy Jones came calling their name."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "White Rum",
+          "text": "As I recall, the first that went was William Half-Leg. He lost the other half in a fight at the port of Southampton. Hanged on the governor's orders."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "White Rum",
+          "text": "And Eduard the Red-Hand, a nasty piece of work from the low countries, loved a bit of throat-cutting. Until he got his own throat slit by some fool in a ramshackle pub on Tortuga. Hahahahaha!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She fondly remembers every one of her crew. Though they all died hundreds of years ago, it still feels like yesterday to her."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Kimberly",
+          "text": "Sounds as though they got what they deserved."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "White Rum",
+          "text": "That they did, lass. They all got what they deserved. Some hanged, some drowned, some we marooned on a desert isle with naught but a pistol and a flagon of rum."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "White Rum",
+          "text": "I've been to Plymouth, Nassau, Port Royal. I once even slipped into Seville disguised as a merchantman to smuggle pepper and cinnamon. Wherever the captain wanted to go, we sailed."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "An exciting, dangerous life, yet ordinary in its own way."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The countless cannonball scars in her hull alone tell the story."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "White Rum",
+          "text": "But one by one, Davy took them all. Now here I am, a ship without a captain. My own master."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "White Rum",
+          "text": "I suppose that's a lot to take in. You ever thought about living a different life?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "White Rum",
+          "text": "To set sail for some far corner of the sea, living on spiced rum and jerky thick as a buccaneer's hide?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "White Rum",
+          "text": "How's that sound, lass? Not that I'm saying we set sail today. It's only a bit of old fancy."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Kimberly",
+          "text": "I really can't say, uhm, Shippy. I, I suppose I can't, not yet at least. There is something important I need to retrieve."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "White Rum",
+          "text": "Ah-ah, that's \"Captain White Rum\" to you—the ship of a captain, and captain of the ship!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Kimberly",
+          "text": "I prefer ... Wait ... Sorry ... I need to ..."
+        },
+        {
+          "kind": "title_card",
+          "text": "Favela"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "As the ship docks, she leaps back ashore, doubles over in an alleyway, and retches."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "White Rum",
+          "text": "Seasick? I hadn't thought your kind capable of it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Kimberly",
+          "text": "I didn't expect this ... either ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A can rolls over, gently hitting her foot. Annoyed, she kicks it away."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Not far away, a few boys have been practicing their soccer skills with it. One mischievous boy kicks the can back toward Kimberly."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Kimberly",
+          "text": "Urgh! What now?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "This time, she picks up the can and angrily throws it at the boy's head."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Teenager in the Favela",
+          "text": "Jeez! I like this girl. She's feisty!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He straightens himself up as he slowly makes his way toward her, a cocky grin on his face."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Teenager in the Favela",
+          "text": "We're with the Brotherhood, Miss. You apologize now, and we might just let you go."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Teenager in the Favela",
+          "text": "Or don't you know that Lord Santos is back? We can make this rougher for you, if you like."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "White Rum",
+          "text": "Careful me lads. I wouldn't pull those knives. Things may go rougher than you'd bargained for."
+        }
+      ]
+    },
+    {
+      "script_id": "100813",
+      "internal_title": "第八章8-09.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The boys are no match for her."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Kimberly",
+          "text": "Not so tough now, are you boys? Try this again, and I'll make a mince out of what's left of you!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She angrily kicks the can into the river."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "White Rum",
+          "text": "I know your fathers, me boys, and I think they wouldn't be none too happy to hear you claiming to be with the Brotherhood."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Teenager in the Favela",
+          "text": "Let's go. We're wasting our time here."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The boys scurry off, muttering under their breaths."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "White Rum",
+          "text": "Bilge rats, the lot of them. Not even fit for the Apostles."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "White Rum",
+          "text": "The Brotherhood always let their knives do the talking."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "White Rum",
+          "text": "If there'd been any doubt of what you are, lass, that fight sure cleared it up."
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

@@ -1,0 +1,643 @@
+{
+  "episode_id": 3610114,
+  "chapter_id": 36101,
+  "chapter_title": "人们向何处去",
+  "display_label": "",
+  "title": "明日再会",
+  "subtitle": "在更为美好之地，或称未来。",
+  "trails": [
+    {
+      "element_id": 3610109,
+      "owner_episode_id": 3610114,
+      "trigger_episode_id": null,
+      "title": "着装指南",
+      "description": "参加宴会最好的服装是合群的服装，记住。",
+      "action": "交互",
+      "unlock_condition": "EpisodeFinish=3610114",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "今日宴会通知"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "通知\n航天小组的各位！这周六要办一个庆祝会，所有人都记得穿上自己最好的衣服来！\n                                                             冷周六\n通知\n兔毛手袋发明了新的苦目糖甜点！是漂亮的扁圆形！大家都可以来试吃！\n                                                                37\n通知\n因场地被临时活动占用，本周“与诺谛卡小姐互动”的时间将从周六15:00—17:00调整到周五同时间段。\n                                                            爱兹拉\n通知\n《关于对人类无害的代咖啡苦目素研究》已经上传至资料库。\n                                                                X\n通知\n老师要带我出门采购符合礼仪的着装，今天14:00—18:00办公室无人值班，大家请不要跑空。\n                                                          库珀花环\n通知\n……这么正式吗？好吧，我将按时前往。\n                                                            命名日\n通知\n我将从本周六起正式担任拉普拉斯科算中心的负责人，望周知。\n                                                            阿德勒\n通知\n关于航天小组的庆祝会，记得来就行，盛装出席只是西尔维心血来潮的要求。\n                                                              指针"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "203621",
+      "internal_title": "【3.6】人们向何处去14",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "很详尽的报告。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "有了这份报告以及你的表态，科算中心暂时不会被太多麻烦找上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "幕僚长翻阅着手中的文件，点了点头。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "研究还会继续进行，直到发掘出这个箱子的真相。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "“玩具箱”研究小组成立后，我会递交更详尽的文件成果。你手上的文件不是最终结论。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "——和基金会的合作也是。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "妥协之中，这位即将上任新职的研究员学会了如何保有自己的坚持。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "轻易给出一个笃定的回应，不是赌徒就是骗子。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "我很庆幸，你作为研究员的谨慎与理智依旧可靠。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "当然，我更庆幸，你终于不打算只做一个研究员。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "很遗憾，就算是现在，我也不会彻底理解你的选择。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "另外，我还有一个条件。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "……请说。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "正式的委任公文下达前，我需要去见司辰一面。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "基金会的立场并不完全代表司辰的立场，不是吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "在新法案的框架下，司辰及司辰小队的确享有更多自主权。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一个模棱两可但足够高明的暗示。这份自主权仍然在基金会主导的律法框架下。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "不过，这并不是一个难以实现的要求。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "拉普拉斯的研究成果无论何时都是司辰行动的重要助力，在混乱的局面下重建信赖关系是有必要的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "你现在对这一套的确得心应手。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "……呵，我也终于要习惯了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "维持拉普拉斯的独立，会见司辰，还有其他要求吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "哑谜沉默了一会儿。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "基金会对拉普拉斯所有研究成果的运用理由，我需要被提前告知。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "这个要求，你能答应吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "基金会并没有刻意隐瞒什么，你们的知情权始终是得到保障的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "但只要基金会想，这个理由有可能会真假掺半，又或许总是迟来的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "我并不打算为难你，只是你比我更清楚基金会的做法。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "但看你现在的回答，意料之中，你没办法允诺。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她既没有赞同也没有否定。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "我没有其他要求了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "那些冗长烦琐的会议终于在此时为他派上了用场。以退为进，那些“谈判专家”总会青睐的手段。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "不是为确切的结果，而是为传达态度。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "我明白了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她顿了顿。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "正式的任命通知将在一周内公示，接着下达给各部门，但愿不会出什么岔子。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "说罢，她环顾四周。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "之后你要经手的文件只多不少。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "不妨收拾一下吧，文件整理过后会变薄一些——过来人的经验之谈。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "心理暗示？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "有用就行。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "幕僚长走到门边，向他告别。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "总而言之，恭喜你，也恭喜拉普拉斯。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "你为这里的人挣到了一个有利的未来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "幕僚长离开了。密码学家站在文件砌成的“高墙”内，叹了口气。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛格丽特",
+          "text": "会议室门口，哑谜停下了脚步。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "玛格丽特。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "拉普拉斯是庞大的机构，他们没打过太多照面。上次见面也只匆匆地点了个头。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他认真地重新审视这位研究员。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "金属的冷光从黑暗中浮起，像一只撕裂布料与皮肤的蝴蝶。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "你……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "你的研究不错。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "研究员露出无可挑剔的微笑。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛格丽特",
+          "text": "谢谢，阿德勒先生。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛格丽特",
+          "text": "也恭喜您。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "点到为止的谈话，但也足够了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他并不希望他上任后的第一份工作是将拉普拉斯内部撕开一道无法弥合的裂缝。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛格丽特",
+          "text": "进去吧，阿德勒先生，大家都在等你。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "众人",
+          "text": "生日快乐！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "礼花“嘭”地在空中炸开，五彩斑斓的彩带朝哑谜兜头浇下。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "——你们在干什么？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "眼前的景象出乎他的意料。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "这本该是个简短的会议。但很明显，推开门后，这场会议的走向已不由他控制。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "X",
+          "text": "庆祝会，哑谜先生，为你的生日！当然，也恭喜你接任拉普拉斯负责人一职！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "……今天不是我的生日。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "冷周六",
+          "text": "无伤大雅，你也可以提前过了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "冷周六",
+          "text": "最重要的是，今天的确是个开心的日子，值得庆祝！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小蛇Ⅰ",
+          "text": "嘶——是蛋糕！动物奶油，还是植物奶油？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "冷周六愉快地再次拉开一个礼花，刺激性气味阻挡了小蛇的嗅闻。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "等等……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "乌尔里希",
+          "text": "根据最近的空气采样数据来看，皮质醇与肾上腺素的浓度增高。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "乌尔里希",
+          "text": "这段时间大家都处于焦躁与高压状态，尤其是你，阿德勒研究员，你的指标高于其他人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "乌尔里希",
+          "text": "庆祝会能让所有人都得到放松调节，这更有利于接下来的工作。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "磁流体堪称“贴心”地为这场庆祝会提供了理论依据。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "兔毛手袋",
+          "text": "生日能许愿对吗？噢，我会称赞你的慷慨的，哑谜，我要许第一个愿望了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "兔毛手袋",
+          "text": "今天内通过我的审批单——这个“玩具箱”的外部材料，我需要取走一小部分。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "驳回！你的苦目素食用研究已经插了队，且“玩具箱”需要保持结构稳定。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "兔毛手袋翻了个白眼，无趣地兀自靠近了桌上的“玩具箱”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "你离这个箱子远一些——不对……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "会议室内，庆祝会似乎给这群天才提供了一个脱缰的借口。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "已经无人关心这场会议究竟是为什么才举行了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "听我说！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他无奈地提高了声量。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他的天才同事们终于愿意施舍给他一些注意力。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "……众所周知，接下来我会接任拉普拉斯的负责人一职。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "X",
+          "text": "嗯哼～"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "接着，X吹了一个略微捧场的口哨。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "冷周六",
+          "text": "这可真是一件新鲜事。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "乌尔里希",
+          "text": "对于这个决定，我们并不感到意外。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "乌尔里希",
+          "text": "你已经接手这份工作一段时间了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "乌尔里希",
+          "text": "事实证明，虽然你需要时间适应，但露西女士的判断确实合理。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他原本酝酿了一些话，罕见地开始思考一位决策者该如何表达自己。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "……看来我的确沾染了一些无用的习性。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "X",
+          "text": "你想说什么呢，哑谜先生？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他望着眼前的同事们。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "兔毛手袋",
+          "text": "客观来说，他们天赋异禀，脾气迥异。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "冷周六",
+          "text": "主观而言，可以称得上特立独行。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛格丽特",
+          "text": "但他们都分享着同一个信仰——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "科学。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他将那些腹稿咽了下去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "总之，我会好好干的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "直到找到那个更适合这一职位的人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "没有被雨带走的人，在死亡之后会去哪里。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "——这是一个有待解明的问题。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "填字游戏的无数空格之一。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "我并不相信有“神”存在，也不认为有天堂或地狱。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "多希望你能亲自回答我的疑问。格蕾塔。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "多希望我能……直接问你……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他将手指搭上扳机。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "——“砰”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "霍夫曼",
+          "text": "人类的时代已经结束了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他放下枪，重新拉开抽屉。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "霍夫曼",
+          "text": "但你仍可以活下去……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一把精巧的手枪。一份生日礼物。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一份“遗物”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一个开始。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "霍夫曼",
+          "text": "在“我们”的时代里。"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

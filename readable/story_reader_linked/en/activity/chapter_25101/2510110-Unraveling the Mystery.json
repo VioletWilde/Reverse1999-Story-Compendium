@@ -1,0 +1,712 @@
+{
+  "episode_id": 2510110,
+  "chapter_id": 25101,
+  "chapter_title": "Showdown in Chinatown",
+  "display_label": "",
+  "title": "Unraveling the Mystery",
+  "subtitle": "Dispel the fog, unravel the mystery, and they'll claim that this is the truth.",
+  "trails": [
+    {
+      "element_id": 2510110,
+      "owner_episode_id": 2510110,
+      "trigger_episode_id": null,
+      "title": "Double Check",
+      "description": "Okay, I admit. I've always been something of a movie buff.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=2510110",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "A bullet is among us, right under this roof. It serves no army, no country, only peace."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "The heavy rain at the end of the century dissolved and washed away many of its comrades, but it was lucky enough to survive. Its pointy end still shines silver, ready to drill a hole into its enemy."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Sadly, its bulky colleague stole its thunder in this war. One push of the button, one big explosion. There was no need for the rest of the ammunition."
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "Good, we saved a lot of bullets.",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "It seems someone has become more budget-conscious after working with the mathematicians."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Saving ten bullets is better than saving one. Saving a hundred bullets is better than saving ten. It's simple math."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Certainly, who doesn't want a life without the need to work? Few would hesitate to choose a life of freedom over the achievement and satisfaction of a job."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Given the short lifespan of a bullet, why would it choose anything else?"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "But its boss, the general, has more to think about. What are they going to do next time? Will this bullet be put to use when the rain comes again?"
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "The general? Who's that?",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "A big shot, dear. A wise man of the most insightful kind. You should talk to him if you have the chance."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "But he's been in a gloomy mood lately. Be careful not to mention anything related to the conservative battle tactics used in 1999, the missile that would have been launched, and especially anything about the bullets lost in that battle."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "He has paid a great price for the future, but you see, the future is sneaky."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "Every time you think you can grasp it, it takes a step away from you, nullifying every effort you've made to get near it. Even a bullet isn't fast enough to catch up."
+                }
+              ]
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "Then we must keep pursuing.",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "Pursuing the future. How romantic, dear. As long as we continue to close the gap between us and the future, it will eventually be reduced to zero."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "But know that, as time goes by, we are only moving slower and slower in the race. Technology is regressing, and we have switched from AKs to Mosin-Nagants. The bullets won't be as fast as they used to be. The future is drifting away from us, and the past is catching up."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "Shhhh ... Don't say such things out loud. Especially not near the general, sweetheart."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "The bullets have paid a great price in order to find their way back to the future. If they hear you say they won't be needed anymore, you'll end up with quite the ammunition bill."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "Alright, let's leave this bullet to itself. Solitude may help alleviate its anxiety about the future."
+                }
+              ]
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "Perhaps bullets won't be needed in the future?",
+              "edge_label": "",
+              "branch": []
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "Good for them. They don't have to work for a while.",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "202516",
+      "internal_title": "【2.5】唐人街影话10",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "Let me sort things out."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "Ms. Loggerhead, you said you could record and save your memories using a special type of film developed by Laplace."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "Which means that, even if you don't recall taking anything from the Arcanum Containment Department, your film should show whether you did or not."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "But the fact is, the films are gone. Isn't that right?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Loggerhead",
+          "text": "Yeah. I usually carry my most important memories with me and leave the others in my room."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Loggerhead",
+          "text": "The Foundation staff checked the visitor log after the stuff was stolen. Turns out I was the only one who visited the office that day, so they sent people to my room and checked all my film, but they didn't find anything."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Loggerhead",
+          "text": "Then they said they already had other evidence, so ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Loggerhead's voice trails off, and someone else completes her words."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Scott",
+          "text": "So they just declared Loggerhead guilty."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Scott",
+          "text": "But that doesn't make any sense to me. Something must be wrong."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The Foundation employee, who claimed to be hunting Loggerhead, received a call from Liáng just ten minutes ago."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "But the moment she stepped into the \"clue-filled\" hotel room and laid eyes on Loggerhead, she blurted out, \"You're still here?\" And just like that, the final piece of Loggerhead's testimony was confirmed."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "*sigh*"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The two girls sitting on the bed lower their heads in silent understanding."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "So, when you found Ms. Latham, you bought her a train ticket instead of putting her under arrest."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Scott",
+          "text": "I know I've gone against orders, but I'm sure Loggerhead didn't do this. She's my friend. I can't just arrest her and have the Foundation lock her up."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Scott",
+          "text": "I'm sorry for keeping all this from you, but you're a vigil. I had to be careful."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Scott",
+          "text": "So, if it's not crossing a line, Ms. Liáng, Ms. Poitier, can I ask you to keep this between us? You can report it after we find out who's really done this."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Loggerhead",
+          "text": "Could you? Please?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Scott's eyes gleam pleadingly, and Loggerhead's lens gleams as she stares at the officers in expectation."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The pitiful expressions on both their faces would tug at anyone's heartstrings. Liáng almost feels as though she's tormenting some kind of harmless creature. But this unofficial interrogation isn't over yet."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "We'll talk about that once we figure out what the hell's going on."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "Back to the case. You said she gave you a train ticket. What're you still doing here?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Loggerhead lets out an awkward laugh."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Loggerhead",
+          "text": "Actually, while I was on my way to the train station, a car on the other side of the street lost control and hit my cab."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Loggerhead",
+          "text": "Thankfully, it crashed into the passenger seat where I was sitting. My metal's much stronger than human flesh."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Liáng searches her memory for a moment."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "That's right. There was a car accident yesterday morning. The driver suffered some kind of unknown mental abnormality while he was on the road. Maybe he's fallen victim, too."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "What happened next?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Loggerhead",
+          "text": "I was sent to the hospital, and you showed up. I thought you were gonna arrest me, so I ran as fast as I could."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Loggerhead",
+          "text": "I threw away my cell phone and contact device as soon as I left the Foundation. Scott said they could use them to track me down. I couldn't get ahold of anyone and didn't know what to do."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Loggerhead",
+          "text": "And, even though I don't know for sure, I really don't think I'm guilty. It's super weird to be on the run when you feel like you're innocent."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Loggerhead",
+          "text": "So, I went back to Chinatown to ask Director Noire for help. She was the only one I could contact directly."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A crucial name."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "Noire ... Could you tell me how you got to know her?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Loggerhead",
+          "text": "Of course."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Loggerhead",
+          "text": "Let me see. Walk of Fame ... Walk of Fame ... Okay. Now I just need to turn left."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Loggerhead",
+          "text": "Wait, which way is left again? It changes every time I turn, right? Gosh, how the heck do people read maps?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "Are you alright? It seems you could use some help."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Loggerhead",
+          "text": "Noire stopped to help me. She was really interested in my head, so we had a little chat, and I found out she was a director."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Loggerhead",
+          "text": "She offered to take me to the Walk of Fame. We talked a lot about movies on our way there. Then, I told her I was traveling alone, so she invited me to join her movie shoot in Chinatown."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Loggerhead",
+          "text": "How could I say no? I mean, she's a famous director. There's no way I'd miss a chance like that."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "Interesting. That was the same day that odd things started happening in Chinatown."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The head that was bobbing excitedly comes to a hesitant stop."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Loggerhead",
+          "text": "Hmm. Well, I'm not sure about that."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "Did anything strange happen that day?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Loggerhead's lens flickers. It seems something has surfaced in her mind."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Loggerhead",
+          "text": "Let me see. I did find a strange film reel when I was unpacking that night."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "A strange film reel?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "Wait. Could that be ...?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "All three of the others immediately perk up at the mention of those words."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "But perhaps due to the limited field of vision of her camera lens, Loggerhead remains oblivious to their gazes."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Instead, she pulls her backpack toward her, muttering to herself as she leisurely rummages through it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Loggerhead",
+          "text": "Yeah, a strange film reel. I've gotten into the habit of labeling my films, like \"Check every day\" or \"Check from time to time,\" so that I know what to watch to keep important things in my mind."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Loggerhead",
+          "text": "I was gonna do a review that night, but when I looked through my film, there was a roll without a label on it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Loggerhead",
+          "text": "It couldn't have been mine, cause it was made of a different material. I was so curious about it, you know? So I played it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "What did you see?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Loggerhead",
+          "text": "It was a movie, I guess. But it was pretty short, more like a demo or a trailer or something."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Loggerhead",
+          "text": "But it was so weird. Like a jumble of pictures and sounds. It didn't make any sense to me. I dunno. Maybe it was a prank or something. Hm?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She halts her search and looks up blankly."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Scott",
+          "text": "What's wrong?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Loggerhead",
+          "text": "The film. It's gone."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "What?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Loggerhead shrinks nervously once again."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Loggerhead",
+          "text": "I can't find it. It was right here, in my bag."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "Give it to me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "In one swift motion, Poitier snatches Loggerhead's backpack and upends its contents onto the bed."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "Damn, first time I've seen a bag messier than my sister's. Do you ever organize your stuff?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Like a whirlwind, Poitier tears through Loggerhead's things, ignoring her shrieks of \"I just forgot to throw that away!\" and \"I still need that!\" as she ransacks not only the backpack but the entire room."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Finally, she has no choice but to accept a rather disheartening conclusion."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "Nope. Nothing."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "You didn't take it out and lose it somewhere, did you? Mistake it for a tip for your pizza guy or something?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Loggerhead",
+          "text": "I forget things, but I'm not an idiot. I didn't lose it. Check my film if you wanna prove it. It just disappeared into thin air."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "But your film only records what you saw. Someone might have taken it when you weren't looking."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "Does anyone else know about this film reel? Did you have any visitors or notice anything suspicious after you played it?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Loggerhead",
+          "text": "Suspicious? I don't think so. At least I didn't see anything."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Loggerhead",
+          "text": "The only person who visited me afterwards was Scott. She came to tell me I was wanted by the Foundation."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Loggerhead",
+          "text": "Oh. But actually, I wasn't alone when I played it. Noire was with me. She said she was interested in my memories, so she came and ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The others stare at Loggerhead as if she's grown a second head. She nervously swallows the rest of her sentence."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Loggerhead",
+          "text": "What's wrong?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Scott",
+          "text": "So, it was Noire who took the film?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Actor",
+          "text": "What are you—Ugh!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A solid punch sends the man flying."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "At least, that's what was supposed to happen."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Actor",
+          "text": "Sorry, director. I'll try again."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "Don't bother. Clearly, your martial arts skills are severely lacking. I don't want you to hit your head when you fall to the ground."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "Go. Take a break."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The disheveled actor still wants to argue his case, but everyone knows that once this director makes a decision, she won't change her mind easily."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "In the end, he simply sighs and steps aside."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Assistant",
+          "text": "That was the last one, director."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Assistant",
+          "text": "There are far fewer stunt performers with martial arts experience here than in Hong Kong. Master Lau and his men will arrive in a few days. Perhaps we could shoot this scene then?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "Nicolas is on a tight schedule. I doubt he'll change it. Let me see what I can do."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A single sentence is far from enough to capture the many difficulties the famous Hong Kong director has faced since working overseas."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Leaning back in her wheelchair, she discreetly scans the set, searching for the missing piece of the puzzle."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "Hm? Her again?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Lin follows Noire's gaze."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Assistant",
+          "text": "Oh, that young officer?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Extra",
+          "text": "What do you want? Listen, I don't know what you're trying to do, but can't you just leave us alone?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Crew Member",
+          "text": "Sorry, ma'am, this is a closed set. If you don't have a warrant, please leave."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Loggerhead",
+          "text": "Guys, guys, relax. Liáng isn't as mean as she seems."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Clearly, the arrival of a certain vigil cadet is unwelcome. So much so, that even Loggerhead is being eyed with suspicion."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "But Liáng ignores them. She locked onto her target the moment she scanned the set and is already striding straight toward her."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She stops a few paces in front of the person in question."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "I must say I didn't expect to see you so soon, officer. Is there something else you wanted to ask me?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "I think I made myself perfectly clear this morning. I know nothing about your case."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "No, madam. I'm here to help."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "Help with what?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "Ms. Latham mentioned that you're looking for a qualified stunt performer for your movie."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "I'd like to help with that, if you don't mind, as an apology."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Noire blinks."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "Hmm. You surprise me again."
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

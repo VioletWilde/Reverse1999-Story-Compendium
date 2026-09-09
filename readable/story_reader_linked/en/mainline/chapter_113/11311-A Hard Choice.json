@@ -1,0 +1,851 @@
+{
+  "episode_id": 11311,
+  "chapter_id": 113,
+  "chapter_title": "他者的悲哀",
+  "display_label": "",
+  "title": "A Hard Choice",
+  "subtitle": "Now each of us must find our own way forward.",
+  "trails": [
+    {
+      "element_id": 1131101,
+      "owner_episode_id": 11311,
+      "trigger_episode_id": null,
+      "title": "Whisper of Flowers",
+      "description": "Honey, tears, and whispers flow from the heart of the flower.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=1311",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "Fragrance from Afar"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "[A flower carried on the \"wind.\" From its heart drifts the scent of honey and the soft voice of a woman.]\n\nPrima, Igor, and his Gryphon Legion have rescued the Foundation's support convoy. I need you to stall them for as long as possible—though slowing them down is all that's required.\nDon't ask. I never agreed to take part in this operation, and I still oppose the attack on the school. Pointless fighting and bloodshed do no good for the future of arcanists ... But I still have my duty to fulfill. Whatever comes, we must give everything we have to Her cause. That's all—I'm only here to deliver this message. Don't come looking for me. I'll be gone soon.\n\n[The sweet fragrance and the faint voice fade together.]"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1131102,
+      "owner_episode_id": 11311,
+      "trigger_episode_id": null,
+      "title": "Secret Communication",
+      "description": "Allies always need a way to communicate in secret.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=1311",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "Burn After Reading"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "[A quill grows hot without warning. Drawn from a uniform coat pocket and set upon blank paper, it begins to move on its own, leaving lines of scorched writing.]\n\nSPDM is under attack by Manus Vindictae. I'm on my way to assist. The attack came without warning. Amid the Foundation's containment expansion, headquarters is crowded with unfamiliar personnel. I suspect Manus Vindictae's plans run deeper than this. Share any relevant intelligence if you have it. Fewer than three hours remain until the \"Storm.\" Stay cautious.\n\n[As the admiral reads the final word, the quill's glow dims. The writing catches fire along with the paper, consuming it in an instant, leaving not even ash.]"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "101319",
+      "internal_title": "第十三章13-11.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "A Hard Choice"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lopera",
+          "text": "Help me get Paravyan over here, and remember to keep yourself in my smoke at all times."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "They crouch low and drag Paravyan behind cover."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Alchemical smoke flows out from her crucible, obscuring them further, at least temporarily."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lopera",
+          "text": "Oh no. He doesn't look good."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Paravyan",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Paravyan",
+          "text": "Just leave me. We're doomed. We ... We're all gonna die here."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lopera",
+          "text": "What are you yammering about! Toughen up, soldier!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Paravyan",
+          "text": "I don't want to fight anymore. It's all meaningless. The world's ending anyway."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Paravyan",
+          "text": "The Foundation, Manus Vindictae, wh-whatever. Just leave me be. I can't get back on my feet again."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lopera",
+          "text": "Come on, all you've got are a few bruises. What happened?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Yermolai",
+          "text": "Make way!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Yermolai rushes over, kicking a black-clothed corpse down the hill along the way."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He kneels and looks Paravyan over."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lopera",
+          "text": "Wait. His Umbrella's broken."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Head lowered, Yermolai unfastens the buckle at Paravyan's waist and swaps the damaged Umbrella for a new one."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Yermolai",
+          "text": "I knew it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Yermolai",
+          "text": "He didn't notice the damage to his Umbrella, and now he's infected with the Storm Syndrome."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Yermolai",
+          "text": "There's a few others like him. Look fine on the outside, but their insides are wallowing in total despair."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Yermolai",
+          "text": "It's like the exact opposite of the war craze from before the 1914 \"Storm.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lopera",
+          "text": "Where did you get another Umbrella?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Yermolai",
+          "text": "From someone who doesn't need it anymore. Better used on Beagle, I'd say."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lopera",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Yermolai",
+          "text": "He'll take a while to recover. Just leave him be."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lopera",
+          "text": "Have we found a way out?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Yermolai",
+          "text": "No. Arcane Support's still working on it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lopera",
+          "text": "I can—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Yermolai",
+          "text": "Listen, soldier. We all have our own duties, you included. You're not an array expert. Doesn't take an arcanist to know that."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Yermolai",
+          "text": "Osborn's down, so I'm the ranking officer here. Understood?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Yermolai",
+          "text": "Have you and Beagle completed the mission Osborn gave you?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lopera",
+          "text": "We almost did, until he suddenly refused to cooperate."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Yermolai",
+          "text": "Can you finish it? How much longer will it take?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lopera",
+          "text": "Yes, sir. In about three more minutes, before my arcane smoke lifts."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Yermolai",
+          "text": "Got it. We'll cover you in the meantime. Let me know when you're ready."
+        }
+      ]
+    },
+    {
+      "script_id": "101320",
+      "internal_title": "第十三章13-11.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "Lopera",
+          "text": "All set!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Yermolai",
+          "text": "All units, fall back!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Soldiers stagger back toward their shrinking defensive line."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Manus Disciple",
+          "text": "ㄨ ...!!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The Manus disciples follow up with another attack, threatening to overrun their previous positions."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lopera",
+          "text": "Whoa!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "There is a chain explosion of alchemical mines, sending both Lopera and the Manus disciples rolling down the slope."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Paravyan",
+          "text": "Lopera! Are you alright?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Paravyan, now recovered from the Storm Syndrome, slides down the hill and searches for Lopera through the smoke."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Lopera staggers out of the mud and rises to her feet."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lopera",
+          "text": "I'm fine. My Umbrella, too. I just still can't control the explosion precisely. How are you holding up?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Paravyan",
+          "text": "Better now. Sorry I let you down back there, but I'm not afraid anymore. I'll cover you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "More hostiles appear from the dense smoke of the explosion, encroaching on them like a ring of growing shadows."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Manus Disciple",
+          "text": "Attack! ㄠ!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lopera",
+          "text": "How many of them are there!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She draws her gun and ducks behind cover."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lopera",
+          "text": "Stay put, Paravyan. They're charging."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Paravyan",
+          "text": "Copy that. I see them."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lopera",
+          "text": "Damn it!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lopera",
+          "text": "Paravyan?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lopera",
+          "text": "Hmm? What?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "All-too-familiar runes radiate along the dirt around her."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lopera",
+          "text": "N-No way."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lopera",
+          "text": "Ugh!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Try as she might to stand up, she's knocked back down."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A cacophony of shouts mixes into sharp bird calls in her ears."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Footsteps draw near."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Voice I",
+          "text": "There's another one over there. I'll go take a look."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Voice II",
+          "text": "Be careful."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Voice I",
+          "text": "Hey. I've got a girl? Lieutenant, you need to see this."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lopera",
+          "text": "Who's ...?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She rages against her own helplessness."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Lopera scrambles for her revolver, just barely managing to find it on the ground. She breathes out and prepares to make her last stand."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lopera",
+          "text": "You ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Voice II",
+          "text": "Don't shoot!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lopera",
+          "text": "...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She feels herself being pulled into an embrace."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Moldir",
+          "text": "Lopera!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lopera",
+          "text": "Molly, is that really you?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Moldir",
+          "text": "Hang in there. I'll get you somewhere safe."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Igor",
+          "text": "*cough*"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ptolemy",
+          "text": "Are you alright, Father?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Igor surveys the battlefield."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Igor",
+          "text": "Manus Vindictae won't be able to launch another attack for some time."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Igor",
+          "text": "Ptolemy, we must reach the convoy's commander. Let them know we are not their enemy."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ptolemy",
+          "text": "Yes, Father."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The chaos following the Gryphon Legion's arrival settles into an uneasy pause. There are more pressing matters at hand."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ptolemy",
+          "text": "The Foundation convoy has calmed down, as you predicted. We've avoided any unnecessary casualties."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Igor",
+          "text": "We saved their lives. They have the sense to see that. Who is their commanding officer?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ptolemy",
+          "text": "Their commander was killed, Father. The ranking officer is called Yermolai. He seems able enough. It wasn't difficult to persuade him that we were here to help."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ptolemy",
+          "text": "They're from the Foundation's QRF. The Manus ambush nearly wiped them out."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ptolemy",
+          "text": "I'll bring their officer here. And Father, Lopera wants to see you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Ptolemy salutes, turns, and leaves."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Moldir escorts Lopera over to her father."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Moldir",
+          "text": "You might have an internal injury of some kind from that explosion, Pera. We'll have time to talk, but for now you need to—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lopera",
+          "text": "Get away from me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Moldir",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Lopera turns to face her father."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lopera",
+          "text": "What are you doing here?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Igor",
+          "text": "Trying to help."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Igor",
+          "text": "Our intention was to arrive directly at the Foundation's headquarters. But it seems whatever arcane skills the Manus have employed are interfering with my own."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Igor",
+          "text": "You were fortunate. It seems we arrived without a moment to spare."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lopera",
+          "text": "And what? You're going to force me to join your assault on the Foundation?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Igor",
+          "text": "Our goal is to protect the Foundation. Not destroy it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lopera",
+          "text": "Huh?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Igor lets the statement rest and moves on."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Igor",
+          "text": "Do you have enough Equilibrium Umbrellas for everyone?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lopera",
+          "text": "We should, as long as our missing vehicles are intact."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Igor",
+          "text": "Then the answer is no."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Igor",
+          "text": "What do you plan to do, Lopera? Draw lots for the remaining devices?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lopera",
+          "text": "Our orders were to reach the SPDM. They have an immunity area, as long as we can manage to secure the school."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Igor",
+          "text": "Can you be certain that you will secure the immunity area before the \"Storm\" arrives?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Igor",
+          "text": "There is no choice in the matter. You will come with us to our shelter."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lopera",
+          "text": "Your shelter?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Igor",
+          "text": "I must put my soldiers first."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Igor",
+          "text": "We don't have enough Umbrellas for the entire legion. My men risked their lives to follow me here."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lopera",
+          "text": "What? Are you out of your mind? You mean they're all exposed to the Storm Syndrome right now?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lopera",
+          "text": "Don't tell me that includes Molly!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Moldir",
+          "text": "It's alright, Pera. We'll be fine as long as we get back to the shelter before the reversion starts."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Moldir",
+          "text": "We volunteered for this operation. Please, Pera, we're trying to help you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lopera",
+          "text": "How did you know the Foundation was under attack?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Moldir",
+          "text": "We have our sources, but the intel came too late. We missed our window."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Moldir",
+          "text": "We're unable to teleport there, which means there's nothing we can do to reinforce the Foundation. We're out of options, and I have no intention of leaving you here to die."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lopera",
+          "text": "I won't go."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Yermolai",
+          "text": "Lopera, I'll remind you that I'm your acting commander."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He watches Lopera struggling in Moldir's grip, then turns to Igor."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Yermolai",
+          "text": "Your deputy said that headquarters couldn't reinforce us. Why is that?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Igor",
+          "text": "The situation there is much worse."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Yermolai",
+          "text": "Tch. I've had dreams of burning that place down, but not today, not now. What's happened?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Igor",
+          "text": "I do not have the time to brief you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Igor",
+          "text": "I am only able to open my gateway once more before the reversion begins. I can take what's left of your squad to safety."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Igor",
+          "text": "We will fall back to our shelter. It is the only safe location I can reach without risking Manus interference."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Igor",
+          "text": "For now, I have ordered my legion to assist in decoding this array."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Igor",
+          "text": "But if we can't break through before the \"Storm\" arrives, you'll have no choice but to leave with us."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Yermolai",
+          "text": "Then we'll be marked as \"traitors,\" wanted by the Foundation. Just like you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Igor looks out in the direction of the Foundation. He doesn't argue the point."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Yermolai",
+          "text": "I may not be the fondest of them, but I'm not exactly looking to have their guns pointed at me either."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Igor",
+          "text": "Your complaints can wait. The Manus are preparing another attack."
+        },
+        {
+          "kind": "title_card",
+          "text": "President's Office"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The top floor of Foundation headquarters remains tranquil despite the chaos below."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "By the time the tremors of explosions and incantations reach it, they do little more than stir the dust in the president's office."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Secretary General",
+          "text": "May the peace be with us."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "President",
+          "text": "Is she here?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Secretary General",
+          "text": "Arcana has been confirmed to be within the Committee Building. Based on the strength of her forces, I estimate she'll reach us within 30 minutes."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "President",
+          "text": "How long until reinforcements arrive?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Secretary General",
+          "text": "The nearest ground units are 90 minutes away. Unfortunately, they'll need to brave the \"Storm\" to reach us. They're sending whatever troops they can equip with Equilibrium Umbrellas."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Secretary General",
+          "text": "The Flying Witches are also en route. They should arrive soon, but they don't have the numbers to change our situation. And their air advantage won't be of much use indoors."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "President",
+          "text": "Grant all personnel at headquarters access to restricted areas and any available weapons. I want everyone armed."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "President",
+          "text": "That should buy us another 30 minutes."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Secretary General",
+          "text": "Do you believe the Foundation is no longer capable of solving this crisis on its own?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She poses the question despite already knowing the answer."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "President",
+          "text": "Yes."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Secretary General",
+          "text": "What's the Timekeeper's status?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "President",
+          "text": "We can't reach her. We lost communication with the SPDM over an hour ago."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Several doves, almost ethereal in their luster, perch calmly on the edge of the president's desk."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He picks one up and strokes it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "President",
+          "text": "How long until the Pax House responds?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Secretary General",
+          "text": "Soon."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Secretary General",
+          "text": "The Philosopher King is aware of her arrival."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "President",
+          "text": "Then that's all we need."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The president holds the dove to the window."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "President",
+          "text": "May the peace be with us."
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

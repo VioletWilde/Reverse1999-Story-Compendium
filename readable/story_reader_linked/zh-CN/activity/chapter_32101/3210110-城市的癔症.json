@@ -1,0 +1,873 @@
+{
+  "episode_id": 3210110,
+  "chapter_id": 32101,
+  "chapter_title": "迁流的盛宴",
+  "display_label": "",
+  "title": "城市的癔症",
+  "subtitle": "药方是一剂幻觉般的夏日午后。",
+  "trails": [
+    {
+      "element_id": 3210103,
+      "owner_episode_id": 3210110,
+      "trigger_episode_id": null,
+      "title": "谁在那儿？",
+      "description": "盗窃乃是一门需要胆识和技巧的职业，但要说最重要的，还得是运气。",
+      "action": "交互",
+      "unlock_condition": "EpisodeFinish=3210110",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "生人勿扰"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "“再等下去天都要亮了，你确定咱们能捞到好东西？”\n“要我说，保罗，咱们今天可是撞见大鱼了，我亲眼看那家伙从这里进去的。”\n“进地下墓穴？然后呢，所有巴黎人都知道这里除了骨头什么都没有！”\n“那家伙拿着好几个手提箱，他一定是想把好东西藏在这里。现在，只要我们等他出来，里面的东西就都是我们……”\n“好像有动静。”\n“嘘，他出来了！”\n“等等……你看到的那个人，有这么高大吗……”\n“绝对没有……他的头，不，手，他的手，不太对劲……”\n“他好像看过来了……他是不是看过来了？他看到我们了！”\n“跑！保罗！快跑！跑！”"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 3210303,
+      "owner_episode_id": 3210110,
+      "trigger_episode_id": null,
+      "title": "愤怒之声",
+      "description": "",
+      "action": "类型3202",
+      "unlock_condition": "EpisodeFinish=3210110",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "游行和示威的口号声不绝于耳，你开始思考这个时代动荡的根源。那些焦虑、恐惧和愤怒的出现，你觉得是因为："
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "道德的崩毁，人心的堕落",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "可鄙的没有道德的家伙。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "文明的危机，原始的攻击欲望",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "不过是猴子穿上了衣服。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "联系的断裂，人与人的隔阂",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "没有人能理解另一个人。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "世界的失序，宇宙的失衡",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "可能是神的脑子坏掉了。"
+            }
+          ]
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 3210503,
+      "owner_episode_id": 3210110,
+      "trigger_episode_id": null,
+      "title": "愤怒之声",
+      "description": "",
+      "action": "类型3204",
+      "unlock_condition": "ChapterMapElement=3210303",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "游行和示威的口号声不绝于耳，你开始思考这个时代动荡的根源。那些焦虑、恐惧和愤怒的出现，你觉得是因为："
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "道德的崩毁，人心的堕落",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "可鄙的没有道德的家伙。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "文明的危机，原始的攻击欲望",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "不过是猴子穿上了衣服。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "联系的断裂，人与人的隔阂",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "没有人能理解另一个人。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "世界的失序，宇宙的失衡",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "可能是神的脑子坏掉了。"
+            }
+          ]
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "203214",
+      "internal_title": "【3.2】迁流的盛宴10.1",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "年轻的出租车司机深吸一口气，勉强挤出一个笑容。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "布翁尼女士，您的玩笑确实不错。但很抱歉，我得先找到费利西安那家伙！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "再怎么任性，她都不该拿走朋友送我的项链——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "阿黛拉小姐。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "占卜师始终保持着得体的社交距离，直至此刻，这层界限被主动打破了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "我从未见过你口中的那位“费利西安”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "你的项链也许是落在了哪儿，我可以帮你占卜它的下落。\n以你现在的状态，不适合独自行动。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "哈……您当然没见过她，因为她迟到了，没有和我一起来店里！\n所以她刚刚才会在车上等我，然后突然发火跑掉……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她烦躁地转着袖口的纽扣，只想迅速从这场闹剧中脱身。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "好了，已经耽误很多时间了！如果您实在担心我因为占卜出了问题，改天，也许明天，我再来拜访您——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "你们第一次见面是什么时候？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "我说——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "贝丽尔比她更快地伸出手，关上了那扇车门。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "……您究竟是怎么了？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "如果您非要证据……真是疯了，我还有必须证明自己的雇主是个活人的一天！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她不耐烦地摸索了一阵，在口袋里找到了那个钱夹。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "……我还记得那天下雨，费利西安小姐上车的时候抱怨泥水溅湿了鞋，让我立刻开到香榭丽舍大街。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "她出手阔绰，每次我都得专门花时间清点票子和硬币，第一天，她还给了我几枚金法郎做纪念，就在这儿……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "……？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "阿黛拉脸上写满了不可置信。她将钱夹翻来覆去，倒了个个儿，拉开又合上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "遗憾的是，没有一枚硬币或一张票子从里头掉出来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "不对，肯定是收到了别的地方。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "您让我回车上，我还有其他证据！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "那几盒马卡龙——有一盒她还没吃完！还有掉落的头发，小物件，随便什么……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "有一瞬间，她真的承认了那个荒诞的念头。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "费利西安从不存在。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "那天……我们……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "本该熟悉的画面愈发模糊，她与这些记忆之间就像隔着一扇遍布划痕的车窗。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "我只是……我太累了。您稍等一会儿！马上就——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "贝丽尔轻轻拍了拍她的手背，示意她先放下空荡的钱夹。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "你想不起任何细节。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "或许是我的问题……预言、占卜、那个梦和项链，光这些就够叫人头疼……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "一定是我记混了，您看！真对不起，硬币肯定就在车里……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "没关系，阿黛拉小姐。这并不是你的问题，而是这个时代共有的疾病。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "别忽视我们周围的人群。来吧，瞧瞧他们。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "他们……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "周遭的喧闹忽然撞进耳中，她忍不住揉了揉脑袋，以此抵抗涌起的眩晕。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "罢工群众Ⅰ",
+          "text": "不容忍暴政！不妥协压迫！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "罢工群众Ⅱ",
+          "text": "自由！平等！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "罢工群众Ⅲ",
+          "text": "保卫巴黎！保卫共和！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "罢工群众Ⅳ",
+          "text": "公社万岁！法兰西万岁！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "您好，先生。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "贝丽尔叫住了离车最近的工人，他正挥舞着鲜红的弗里吉亚帽。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "你们这是打算做什么？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "罢工群众Ⅰ",
+          "text": "我们要跟上国民自卫军，和那些卖国的政府军斗争到底！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "罢工群众Ⅱ",
+          "text": "而我，要去当铺把自己的床垫拿回来！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "罢工群众Ⅰ",
+          "text": "说得好，但如果我们能保住巴黎，那么以后就会有更好的日子！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "这并不是一件容易的事。但你们今日吹响的号角声，也许会远比你们以为的要更加嘹亮悠长。你们会如愿以偿。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "罢工群众Ⅰ",
+          "text": "多谢您的祝福，女士！我们都相信巴黎公社的影响绝不是一时的！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "工人转身离去，立刻汇入了街头的人潮之中。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "大家的生活都不算容易。看起来他们是为了改变现状开始游行了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "等等，巴黎……公社？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "在他们眼中，现在正是那个炎热的1871年夏天。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "又是那样近乎透明的目光。人们的所思所想就像落在水晶上的光线，贝丽尔阅读它，却并不打算为它所改变。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "无数繁杂的思绪正在这座城中汇聚，这注定是一段不平静的时日。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "有人见到亲人与好友消失，有人目睹了不应存在之幽灵，有人自称追随着入土的皇帝，有人被一百年前流行的谣言生物袭击。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "当整座城都被恐慌笼罩，在混乱之中，现实便会开始动摇。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "这就是流言，或者癔症、一种城市的症候……也是“热沃当的野兽”的真相。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她的视线追随着缓缓向前的人群。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "而这并非某一个群体，或者哪一个特定存在的过错。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "人的个性即是与时代和群体的差异，一个人无法成为他人，单一的集体和无数的个体也无法等价，但如今这个铁则被打破，成为了一场混乱的癔症。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "这癔症使人成为野兽。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "您想说“热沃当的野兽”们都是活人？是巴黎的市民？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "是他们害了占卜沙龙里的女士，诅咒了我，还带走了西莉亚，让刚才的人产生幻觉……？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "还有费利西安，可能也……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她自幼时起就没有相信过童话与传说，现在也不可能承认类似的说辞。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "年轻人咬了咬牙，她终于再也无法忽视心中的疑惑。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "——说实话，布翁尼女士，我很难再相信您的这些话！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "在我看来，所有真正的异常都是我见到您之后开始的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "占卜沙龙里我也听过“野兽”的论调，可我见到您以后，才在您的水晶疗愈中做了那个奇怪的梦！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "我不愿怀疑您，可也是您先提出质疑，说费利西安是我的幻觉。即使先不提那些——您要怎么解释如此的巧合？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "这是你自己的命运。我无权干涉它，也无从解释它。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "可以。那您能占卜出我项链的下落吗？它切切实实地从我身上消失了——您看到了，离开工房的时候它还在！费利西安把它拿走了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "您打算怎么解释这一切？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "如你所说，这条项链也是你在梦中取得的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "它忽然出现在你手中，现在又忽然消失，也许这才符合现实的规律。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她无从辩驳。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "精神的世界可以干涉物质的世界，这条项链已经为你证明了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "我也能为你占卜“费利西安”的命运，如果她的确是一个真实存在的人，如果你愿意相信。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "……我自己能处理好！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "我想我现在最需要的是找个地方独自静一静，离开这些乱七八糟的、荒谬的事，把我的脑子整理清楚！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "谈话间，贝丽尔已经离开了那扇车门，阿黛拉趁机猛地探身，抓住了把手。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "阿黛拉……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "耳鸣与眩晕又出现了。街头的喧哗轰然而来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "但她已经决心丢开这一切。只要回到车里，踩下油门……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "阿黛拉！后面！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "什……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "潮湿而腥涩的气息从她颈边吹来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "热沃当的野兽",
+          "text": "——！"
+        }
+      ]
+    },
+    {
+      "script_id": "203215",
+      "internal_title": "【3.2】迁流的盛宴10.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "往后退。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "阿黛拉的反应足够快，她顺着贝丽尔拉扯自己的力道后撤，同时抬起了胳膊。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一团火光顺着她的指尖窜出去，幼龙拍动翅膀，赶在那头野兽消散之前点燃了它的皮毛。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "您的手！让我瞧瞧——是被抓伤了吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "真见鬼，这可是大白天的街头……它们从哪儿来的？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "不远处的队伍里也间歇传来几声惊呼。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "阿黛拉喘着气，警惕地观察了一圈。在确定没有第二只野兽会扑过来后，她终于松下肩膀。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "这是您刚才说的……？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "占卜师很轻地点了点头，血从她更加苍白的皮肤上淌落。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "如果她们的反应慢一些，流血的就不仅是贝丽尔的手臂。\n她自认自己没有如此大的价值，值得谁用这种代价换取信任。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "……我承认，您说的有些话是真的。比如“热沃当的野兽”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她拉开车门翻找了一阵，向贝丽尔递出一块手帕。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "您受伤了。虽然看起来不严重，但我不能就这样放着您不管。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "抱歉，我不能送您回去了——我需要加快脚步找回那两位失踪的朋友，否则她们很可能有生命危险。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "既然您说的至少有一部分是真的，那我就更不能放着这些怪异不管了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "这样吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "占卜师稍显惊讶，但还是接过了这份好意。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "你还是要去地下墓穴，即使预言告诉你，前路会有牺牲。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "当然。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "不论这是假的还是真的，巴黎是将天翻还是地覆，我要做的事都不会改变。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她顿了顿。贝丽尔流血的手臂仍牢牢抓着她的视线。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "说实话，我还是不能彻底地相信您……但我也能感受到，您对我并无恶意。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "可以告诉我，您一直引导我的目的是什么吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "难道只是为了卖我一个人情……？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "贝丽尔弯起眼睛，就像听见一个孩子执着地讨要一粒灰尘。\n这疑问无伤大雅，只是天真而可笑。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "原来你只是想问我这件事？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "……当然，这是我最想知道的事。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "关于死亡的预言，巴黎的癔症，这些对你来说都不重要，你只是想询问一个关于“我”的问题？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "我不明白，女士……难道这很奇怪吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她目睹的光彩转瞬即逝，那副挑不出错处的温柔笑容又回到了贝丽尔脸上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "不，你的疑惑才是正当的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "我在工房时并没有欺骗你，阿黛拉。你的身上有一个诅咒，一个命运攀附的阴影。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "而我想知道它会向何处发展。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "……可您不是已经做出了关于我结局的预言吗？对您来说，这又有什么可看的呢？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "你也已经知道了这个预言，可你仍要前往地下墓穴。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "我与你的理由并没有分别。或者说，至少在此刻，我们的利益仍是一致的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "去地下墓穴寻找你的答案吧，阿黛拉。你在那里还会需要我的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "这是一个迟到许久的同行要求。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她难以从贝丽尔的神情中看出更多东西。但她也没有时间了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "稍作思考后，她再次打开车门。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "上车吧。您手上有伤，不太方便。我帮您打开门。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "多谢。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "标致201穿过人群，拐进一条更空旷的小路，驶向它既定的终点。"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

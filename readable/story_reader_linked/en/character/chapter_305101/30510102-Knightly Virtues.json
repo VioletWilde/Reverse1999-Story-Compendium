@@ -1,0 +1,783 @@
+{
+  "episode_id": 30510102,
+  "chapter_id": 305101,
+  "chapter_title": "La Primavera di Firenze",
+  "display_label": "",
+  "title": "\"Knightly Virtues\"",
+  "subtitle": "Held in great esteem by the peoples of Troy, Fiesole, and Rome.",
+  "trails": [
+    {
+      "element_id": 30510102,
+      "owner_episode_id": 30510102,
+      "trigger_episode_id": null,
+      "title": "A Reliable Friend",
+      "description": "Having a friend like this can save you a lot of trouble.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=30510102",
+      "content_hints": [
+        "fragment",
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "An Unfinished Letter"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "There hasn't been much progress these last few days, but I studied the cipher again and decided that light was the answer—it was the only thing that could cause a reaction on the frescos. I'm going to re-design the experiment, but I need some inspiration. Could you collect more information about the frescos for me? Their locations, contents, number—anything will do.\nAnd I have some bad news: you are not the only one who wants me to crack the puzzle. Right before I wrote this letter, I managed to escape from a group of Templars. I'll set off for Florence in days, and ... (The letter abruptly stops here, as if someone interrupted the writer)"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 30510103,
+      "owner_episode_id": 30510102,
+      "trigger_episode_id": null,
+      "title": "A Rare Apple",
+      "description": "No one ever told me that apples were golden in Florence.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=30510102",
+      "content_hints": [
+        "fragment",
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "The \"Golden Apple\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Ezio,\nWe are still looking for information about the \"Golden Apple,\" as what we have cannot confirm its connection with the Piece of Eden. Word is that it has something to do with the secret chamber that used to house the Compliners. Whatever it is, it has drawn a lot of attention and you should be prepared for trouble.\nAnd there's one more thing you should know: we've heard the apple snore like a human several times, which is unbelievable. Some said the Piece of Eden came alive over the past few years, but I highly doubt it.\nFinally, we couldn't find Leonardo in Milan and I think he's in trouble. I'll keep you posted.\n\nNiccolò Machiavelli"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "2030503",
+      "internal_title": "【S01】翡冷翠之春02.1",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "It looks like an apple, shiny and red, a magical key to what's ahead!\nWhen the sun sets low, the truth will start to show!"
+        },
+        {
+          "kind": "title_card",
+          "text": "Street, Florence"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "I beg your pardon, what's that song those children are singing about?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Book Merchant",
+          "text": "Hello, miss. You look a little out of place here; might I guess you are a traveler like me?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "... Of a sort, yes, mister."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Book Merchant",
+          "text": "Most excellent; I always enjoy an opportunity to guide a newcomer."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The strangely out-of-place merchant clears his throat and begins again."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Book Merchant",
+          "text": "The famed poet once claimed that Firenze was the most beautiful and renowned daughter of Rome."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Book Merchant",
+          "text": "I suppose it is for that reason that many travelers come here seeking the source of that claim, searching for the lost treasures of a fallen empire."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He leans in and lowers his voice."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Book Merchant",
+          "text": "But I hear a rumor now that people are pursuing a new target in our dear Firenze ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Could you mean this Golden Apple? It seems like everyone is talking about it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Book Merchant",
+          "text": "Just so. It seems you know a little bit more about this rumor than you've let on."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Book Merchant",
+          "text": "There are those that say the apple can reveal a \"miracle\" when raised before certain frescoes in the city; since then a dark cloud has gathered over us."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Book Merchant",
+          "text": "For now there are many here that seek the Compliners' treasures."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "The Compliners ... that's quite the unusual name, were they singers of some sort?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Book Merchant",
+          "text": "They say they were a heretical cult, one that gathered in the city to sing heretical liturgies at dusk, hence the name."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Book Merchant",
+          "text": "And apparently they stashed away their relics in a secret chamber somewhere in the Duomo di Firenze."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The book merchant points at the towering dome of the cathedral."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The Cathedral of Saint Mary of the Flower, but the locals call it the Duomo di Firenze, or simply Il Duomo."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She stands in the center of Florence like a queen presiding over her kingdom."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Book Merchant",
+          "text": "Apparently they would go there to perform unspeakable acts of evil, defiling the purpose of that beautiful dome."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The book merchant looks around and makes a gesture of horror."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Book Merchant",
+          "text": "But the rumors say the relics they've hidden there are worth an incalculable fortune."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "... Hmm?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Book Merchant",
+          "text": "Bah, all you need to know is it's worth a lot!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Book Merchant",
+          "text": "Enough they say, that the one who finds it would be wealthy enough to buy the whole of Firenze."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Are you serious? You're suggesting there is enough money hidden there to buy a city? That's absurd!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The book merchant strokes his beard and laughs."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Book Merchant",
+          "text": "How do you think the Medicis took control in the first place? Money! It can buy art, soldiers, even the papacy! Compared to that, what's so odd about buying a city?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "I see. A secret chamber with treasures ... I do believe I've heard this tall tale before."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Book Merchant",
+          "text": "Oh, have you now? Well, have you ever heard of a story where the secret entrance to this chamber can only be found through messages hidden in frescoes?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "That is a new embellishment on the story. I suppose then ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "That must be why this Golden Apple and its \"miracles\" have everyone's attention."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Book Merchant",
+          "text": "Brava, miss! So, you must be one of those treasure hunters, I guess?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "... In a way, yes."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Book Merchant",
+          "text": "I knew it. But I'm afraid you have your work cut out for you. The dome is larger than you might think. This isn't something you can find searching inch by inch. The only way to find the chamber is to solve the mystery of the frescoes."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Then it looks like I'll need some help."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The book merchant lights up as she speaks. The next second, he thrusts a delicate manuscript into her hands."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Book Merchant",
+          "text": "Yes! And this is certain to be the help you need! It includes copies of all the frescoes that reacted to the Golden Apple."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Book Merchant",
+          "text": "It has a silk cover, tempera painting, and gilded edges. Buy it now, and I'll throw in a free collection of Dante's poetry!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Book Merchant",
+          "text": "Trust me, traveler. With this, you will find the treasures you seek!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Hold on. If you've already collected all this information, why aren't you looking for the treasure?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Wealth enough to buy an entire city; I have to wonder why you would pass up that opportunity."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Book Merchant",
+          "text": "I'm no treasure hunter, miss. Nor do I think the life of a prince would suit me. I'm content making a living selling the keys to this fortune to others."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The book merchant raises the manuscript and puts the other hand on his chest, looking regretful."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Book Merchant",
+          "text": "The price is usually 10 florins, but as you're my eighth customer today—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Book Merchant",
+          "text": "—You know, in Firenze, the number eight is said to bring good luck and eternal hope! That is why the Battistero di San Giovanni and the Duomo di Firenze have octagonal domes."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Book Merchant",
+          "text": "So, for you, eight florins! No, no, make that five! The most detailed and useful manuscript around for just five florins! You don't want to miss out!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Sorry, but I don't have any money with me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The merchant goes silent, the air between them painfully tense."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "At last he slaps the manuscript down on his stall."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Book Merchant",
+          "text": "How could you make it all the way to Firenze without a florin on you?! Ridiculous!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Book Merchant",
+          "text": "I've no more time to spend on you, miss. Best you get back to your hunt."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Hold on, I heard that this Golden Apple could talk and even fly in the air ... It might have something to do with my missing friend."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "It sounds like I need this manuscript in order to find him. So, is there anything I can do for you? I can handle any issues related to arcan- ... I mean, magic."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "We could do an exchange, my magical services for your manuscript ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She stops herself, waiting for some signal from the man."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The merchant offers no trace of sympathy."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Book Merchant",
+          "text": "Not interested. Now, go away!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Leonardo",
+          "text": "That's just about everything I know about the Compliners, the secret chamber, and their relics."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "I see ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The man's words are too much information for the little fruit's nerves to handle at one time."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Templar Commander",
+          "text": "We've gone to great effort to acquire you, apple. Before us, you'd been traded to the Palazzo, then San Marco, and even the Thieves' Guild ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Leonardo",
+          "text": "And me!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The armored man kicks Leonardo roughly, sending him sprawling from the ground into a nearby wall."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Templar Commander",
+          "text": "Less talking, more slicing!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Templar Commander",
+          "text": "From now on, you do as I say. Understand?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A small trickle of blood seeps from a fresh cut on Leonardo's head, but there's nothing he can do but compose himself with a bitter smile."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Leonardo",
+          "text": "*cough* Yes, I understand."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "And what about me? Do you ruffians intend to beat this APPLe into compliance?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Templar Commander",
+          "text": "Hah. We don't have to; you're as good as dead out there. Here, we might just keep you alive if you have some use."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Templar Commander",
+          "text": "Not that it matters, you don't have a choice."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Templar I",
+          "text": "Sir, incomin- ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The soldier falls to the ground before he finishes the word. The veins on his face turning green."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Templar Commander",
+          "text": "What?!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Templar Commander",
+          "text": "It's poison ... Assassins!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Templar II",
+          "text": "He must be on that roof!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "An eagle glides low just above the cathedral before letting out a loud screech."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "Is that an eagle? It's rare to see one in the city, isn't it?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Leonardo grabs APPLe and runs toward the eagle's shadow."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Leonardo",
+          "text": "He's here. Our rescuer is here."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Leonardo",
+          "text": "Ezio!!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A man in a gray hood jumps down on two soldiers precisely."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Two blades spring from his sleeves, penetrating their chests before they can even react."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Templar II",
+          "text": "Ezio Auditore ... Assassin ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Their hearts stop before they've even fallen."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A crimson splash covers the ground near them."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ezio",
+          "text": "The assassin withdraws his blades in a fluid, almost casual movement. As if he had done nothing at all."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He lowers his head reverently as the men drop beside him."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ezio",
+          "text": "Death be not unkind."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ezio",
+          "text": "Rest in peace."
+        }
+      ]
+    },
+    {
+      "script_id": "2030504",
+      "internal_title": "【S01】翡冷翠之春02.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "More and more soldiers rush in through the gate of the monastery."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Templar Commander",
+          "text": "Round them up!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ezio",
+          "text": "It seems I underestimated their strength."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ezio",
+          "text": "We need to get out of here straight away."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Leonardo points at APPLe, who is still trying to figure out what's happening."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Leonardo",
+          "text": "We should split up, Ezio! Here, take him with you!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Leonardo",
+          "text": "You know where to find me!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ezio",
+          "text": "No problem, friend."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Templar III",
+          "text": "Get him! Get them all!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "Leonardo!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ezio",
+          "text": "Don't worry. He is an honored guest of the Duke of Milan. They might chase him, but they dare not harm him in public."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ezio",
+          "text": "But we are not so lucky. Now let's go."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "Well, it seems like this APPLe doesn't have much of a choice. You at least seem more polite than my previous captors."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "APPLe climbs onto the Assassin's shoulder."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Ezio enters a sprint before effortlessly scaling up to a nearby roof."
+        },
+        {
+          "kind": "title_card",
+          "text": "Rooftop, Florence"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Templar Commander",
+          "text": "They've gone towards the Palazzo! Capture them!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ezio",
+          "text": "You're welcome to try. Hold tight."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "Sure ... Whoa!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The Assassin navigates the Florentine roofs with as much ease as a fish through water. Soon enough they've lost their tail."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Citizen I",
+          "text": "Hey, did you see that? Up on the roof, I think I saw something gold!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Citizen II",
+          "text": "Gold ... Is it the Golden Apple?! Get them!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "One pursuer, two pursuers, three ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "More and more citizens join the hunt. The streets of Florence have never been more chaotic."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Citizen III",
+          "text": "I'm going to be rich! Rich! Get out of my way!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "Goodness me! I've never felt so popular! This must be what the Captain feels like!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "Pardon me, but would you mind speeding up a little? I'm beginning to feel a little like a turkey on Christmas Eve."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ezio",
+          "text": "A turkey ...?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ezio",
+          "text": "It doesn't matter; speed won't help us now. They're everywhere. But there's still a way out ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Ezio casts his eyes up to the top of the tower of the Palazzo."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ezio",
+          "text": "We go up."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "20 minutes later"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "I think we're safe now."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "This APPLe certainly appreciates your climbing skills—no one can reach us up here."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Alert but silent, Ezio scans their surroundings."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ezio",
+          "text": "Don't be too confident of that. The Templars have learned to climb after so many years chasing us."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ezio",
+          "text": "They can show up on the roof at any time."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "I see! Then this APPLe will keep alert and ready for danger!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The sun hangs low in the sky, slowly sinking into the embrace of the evening glow."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Scarlet clouds and golden sunlight blend into one another on the horizon, spilling onto every tile and brick of this ancient city."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Beneath Ezio's feet, countless rooftops form a red terracotta expanse, spreading out to the city's farthest edge."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He looks down in silence, feeling like a bird gone astray."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "Wow! This is truly an amazing view."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ezio",
+          "text": "Firenze ... It's been too long."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Not far away, the cathedral stands tall and solemn, her towering form blurred by the golden light of the setting sun, yet no less majestic."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "And with the sunset, her shadow extends until it has covered nearly half the city."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "That must be the Cathedral. Is it really where the relics are hidden?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ezio",
+          "text": "Yes, I believe so. I've spent some time searching, I've even explored its catacombs, but I haven't any idea where it might be."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Ezio gazes out at the perfect arc of the dome."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ezio",
+          "text": "Finding this secret chamber is what truly matters."
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

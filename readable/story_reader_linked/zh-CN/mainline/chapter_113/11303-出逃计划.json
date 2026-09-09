@@ -1,0 +1,764 @@
+{
+  "episode_id": 11303,
+  "chapter_id": 113,
+  "chapter_title": "他者的悲哀",
+  "display_label": "",
+  "title": "出逃计划",
+  "subtitle": "一些源远流长的校园传统可能比林中的橡树更加古老。",
+  "trails": [
+    {
+      "element_id": 1130301,
+      "owner_episode_id": 11303,
+      "trigger_episode_id": null,
+      "title": "返校日",
+      "description": "",
+      "action": "残篇阅读",
+      "unlock_condition": "EpisodeFinish=1303",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "今天真是个好日子。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "叽叽喳喳的孩子们都要被关进学校了，你我也该告别了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "现在我只要闭上眼睛，就能和这场过于漫长的战争说再见。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "终于……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "你怎么还在这儿？去学校啊，去学着识字，不要再打打杀杀了。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "我早就毕业了",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "那就去上大学啊，读个硕士，博士。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "不用打仗的时间是很宝贵的，拿去充实你自己。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "别在这儿打扰我午睡了，做点什么。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "……别来这套。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "看看那棵树，它见证了一次又一次的叛逆，而且每年都要长高差不多两英寸。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "坏孩子总能在它下面找到归属感。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "但很少有人在毕业后再回去看它。树上的每一道划痕都属于一个不同的人，没有人划下第二道。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "你知道为什么吗？"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "因为他们感到恐惧与后悔。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "他们意识到只有那棵树有资格一直留在这天堂一样的地方，而他们却把天堂的时光过得像地狱。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "现在，回去看看吧，去证明你有勇气面对那棵树和童年的乐园。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "祝你像你的法国同窗一样勇敢，或者你要做胆小鬼？"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "我会想念你的",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1130302,
+      "owner_episode_id": 11303,
+      "trigger_episode_id": null,
+      "title": "完美置换",
+      "description": "天才的想法总是另辟蹊径。",
+      "action": "交互",
+      "unlock_condition": "EpisodeFinish=1303",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "改良版隐形墨水配方"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "[一份字迹幼稚的笔记]\n\n想办法用学校里易得的东西替换掉原本的材料\n\n仪式祭礼——这种传统的供奉食物成分大多是面粉，用一把干意大利面大概差不多？\n\n咆哮根——好在这份主要材料学校里就有，上周正好在湖边的树根旁发现了几株，使用盐封咒需要精磨苦盐，去食堂弄一些食盐来应该能代替\n\n颤颤之齿——理论上是中小型杂食类神秘动物的臼齿，但从大小和灵性含量来看，医务室牙仙小姐收藏的神秘学家乳牙或许是最佳选择，这两天洗个冷水澡感冒一下就有理由去医务室了，不过应该直接向她求取还是偷偷拿一颗呢……"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "101304",
+      "internal_title": "第十三章13-03.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "出逃计划"
+        },
+        {
+          "kind": "title_card",
+          "text": "乔治橡树"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "时间没有给古老的橡树新添多少枝条，数年光阴对它的寿命来说只是短暂的一瞬。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "与过去相似的是，在乔治橡树下，同样聚集着一些小白鸽子似的孩子。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾米莉亚",
+          "text": "这真的会有用吗，卢卡斯？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一个个子较小的男孩趴在地上，似乎在搜寻着什么。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卢卡斯",
+          "text": "不相信我的话，别跟我来就好了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾米莉亚",
+          "text": "哼……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾米莉亚",
+          "text": "我听不见校歌的声音了。马可说他会趁合唱团退场的时候溜出来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾米莉亚",
+          "text": "然后校长演讲会持续十五分钟，可我们现在还没有准备好……时间来得及吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "被叫作卢卡斯的学生站起身，拍掉了手上的土。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卢卡斯",
+          "text": "你又不是第一次参加开学典礼，艾米莉亚，这个老头不多说半个小时是不会停下来的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卢卡斯",
+          "text": "我们肯定还有时间再布置一下，一旦召唤术阵布置完成，我们……再加上马可，一共三个人……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卢卡斯",
+          "text": "就可以去学校外面看看了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾米莉亚",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "这番话引来一阵紧张的吸气。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾米莉亚",
+          "text": "我们真的……能逃出去吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾米莉亚",
+          "text": "你知道现在外面在发生什么吗？教员说外面现在其实非常不安全，好像到处都在打仗。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卢卡斯",
+          "text": "那是他们要吓唬我们才这么说的！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾米莉亚",
+          "text": "到底为什么一定要在今天……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卢卡斯",
+          "text": "就要在今天才行。现在全校的人都聚在开学典礼上，而且校园警卫也分了三分之二的人手去陪基金会的巡查员参观校园……听说这次来的可是委员呢。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卢卡斯",
+          "text": "嘿，这是你的计划，还记得吗？艾米莉亚，你一直很擅长做计划。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "擅长计划的艾米莉亚沉默不语，她转头看向古老的乔治橡树。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "古树默默注视眼前的一切，同样缄口不言。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "橡树叶记忆着每一届在树下聚会的学生，随后这些记忆枯萎、被风吹落，成为后辈脚下松软的腐殖质。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾米莉亚",
+          "text": "……？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾米莉亚",
+          "text": "我听到有人过来了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卢卡斯",
+          "text": "是马可？——他来了？我去接他。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾米莉亚",
+          "text": "等等，让我再确认一下，我的神秘术还不是很稳定。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾米莉亚",
+          "text": "我听见的更像是女孩子的脚步声，一个小个子的女孩……听起来比马可要矮一些。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾米莉亚",
+          "text": "可是……可是为什么好像有两个人？难道是我听出了重影？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛蒂尔达",
+          "text": "抓到你们了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "小个子的女生从灌木中钻出来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卢卡斯",
+          "text": "糟糕！是纪律辅员！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛蒂尔达",
+          "text": "梅蕾尔，从另一边拦住他们！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾尔",
+          "text": "就位了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾米莉亚",
+          "text": "快、快跑！"
+        }
+      ]
+    },
+    {
+      "script_id": "101305",
+      "internal_title": "第十三章13-03.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "逃学小队不是毕业生的对手，他们很快被捕，而后被扎扎实实地捆在橡树之下。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾米莉亚&卢卡斯",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛蒂尔达",
+          "text": "又来了，不自量力的逃学小队——怎么每年都有这样的事！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛蒂尔达",
+          "text": "还好我们在合唱团里找到了你们的合伙人，不然真要让你们逃出去了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卢卡斯",
+          "text": "坏人！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛蒂尔达",
+          "text": "——你，你说什么？你们是因为及时得到善良的玛蒂尔达的帮助才没有遭遇危险的！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "梅蕾尔从他们刚刚布设术阵的地方站起身，脸上挂着一种十分复杂的表情。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "那样子像是一个笨手笨脚的厨师，吃了一口自己做的搞砸了的菜。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾尔",
+          "text": "……这个术阵是没有效果的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卢卡斯",
+          "text": "什么？——你骗人，这是可以召唤狮鹫的术阵，而且是书里写的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾尔",
+          "text": "《鸟目魔精习性与饲养指南》？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卢卡斯",
+          "text": "你……你怎么知道？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾尔",
+          "text": "我还知道这个术阵出现在第三章和第四章之间的空白位置上，是用隐形墨水画上去的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾尔",
+          "text": "“一个可以用来召唤传说中的狮鹫的术阵，只分享给能够破解隐形墨水谜题的人。”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "男孩不作声了，他明白，眼前的对手好像比自己强大得多。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾米莉亚",
+          "text": "那本书……是不是你也看过？你也破解了隐形墨水的秘密？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾尔",
+          "text": "当然。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾米莉亚",
+          "text": "……你以前也是这里的学生吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾尔",
+          "text": "嗯，你想说什么？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾米莉亚",
+          "text": "所以毕业之后，我们就可以到外面去了，是这样吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾尔",
+          "text": "倒不如说想留在学校也不行了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾米莉亚",
+          "text": "既然以后都会知道，为什么现在什么都不对我们说呢？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾米莉亚",
+          "text": "或者，你能……和我说说外面的世界在发生什么吗？我在毕业之前绝对会保密，不会告诉别人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卢卡斯",
+          "text": "不要问了，艾米莉亚。你看她们的样子，就知道她们都不会说的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卢卡斯",
+          "text": "她们明明知道外面发生了什么，明明以前也和我们一样，但毕业之后就变得和那些讨厌的教员一样了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卢卡斯",
+          "text": "一旦说到学校外面的事，就会摆出一副藏着秘密的臭脸。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾尔",
+          "text": "我……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "毕业生藏着秘密的脸涨得通红。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾尔",
+          "text": "外面……外面到处都在打仗，我恨不得自己从未毕业！但打仗甚至不是最糟的……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛蒂尔达",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "教员",
+          "text": "我听见声音了，他们在这里。快跟我过来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "稍迟一步赶到的教员在几个校园警卫的伴随下赶到现场，打断了尴尬的氛围。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "教员",
+          "text": "天呐，卢卡斯，还有你……艾米莉亚？真是让人想不到，你们到底想闹出什么名堂！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "教员",
+          "text": "你们要在禁闭室度过今天剩下的时间！立刻！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾米莉亚",
+          "text": "不……不要，那里有好多虫子……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "教员",
+          "text": "那些沙米尔虫就是为了让你们这些捣蛋的学生长记性的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "校园警卫",
+          "text": "跟我们走吧，别耍花招，捣蛋鬼们。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卢卡斯",
+          "text": "放开我！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "气急的教员平复了心情，对秩序协助小组的毕业生们露出了公式化的礼貌笑容。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "教员",
+          "text": "谢谢二位的协助，我会负责让这些孩子理解规则与秩序的含义的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛蒂尔达",
+          "text": "……我们可以带这些学生去禁闭室。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "教员",
+          "text": "不必了，趁“天气还晴朗”，你们还有更重要的事情需要处理。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "教员和安保擒住小白鸽的翅膀，把他们关回安全的笼子中。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "秩序协助小组的两个毕业生还留在原地。她们对视一眼，算是勉强接受了眼前这个无法改变的现状。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛蒂尔达",
+          "text": "学生的年纪还太小了，而且很多学生都来自不同的时代，说出“暴雨”的秘密只会吓坏他们。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾尔",
+          "text": "也许吧，至少他们能得到几年安全的校园生活……但这些惩罚措施还是太伤人了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛蒂尔达",
+          "text": "哼～等伟大的玛蒂尔达在基金会身居高位，就肯定有办法改变这里的一切了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛蒂尔达",
+          "text": "来不及等十四行诗和维尔汀过来了，我们先开始工作吧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛蒂尔达",
+          "text": "刚好这里离西北瞭望塔比较近，我们就从这座塔顶的气象鸽开始检查。"
+        },
+        {
+          "kind": "title_card",
+          "text": "西北瞭望塔·顶层"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛蒂尔达",
+          "text": "这个就是暴雨气象稳定鸽。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "梅蕾尔谨慎地站在防爆门边，紧绷得像一件被冻上的湿大衣。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛蒂尔达",
+          "text": "离那么远干嘛？过来，我教你怎么用校验器。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾尔",
+          "text": "教我？你不也是第一次拿到校验器吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛蒂尔达",
+          "text": "你在小看伟大的玛蒂尔达·布翁尼吗？我当然已经掌握了使用方法！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾尔",
+          "text": "好、好吧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛蒂尔达",
+          "text": "过分谨慎的毕业生挪动脚步来到玛蒂尔达身边，接过了校验器。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛蒂尔达",
+          "text": "把校验器插入气象鸽基座旁边的插槽，拧动回路保险，之后按下插槽侧面的开关。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾尔",
+          "text": "回路保险……是往这边拧吧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她听到一阵细微的嗡鸣声。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛蒂尔达",
+          "text": "接着我们可以根据面板上的灯光来判断它工作是否正常。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛蒂尔达",
+          "text": "编号校验……正常，能源供应正常，庇护区范围校验……嗯，正常。太好了，一切正常。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "玛蒂尔达将校验器取出。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛蒂尔达",
+          "text": "这样就好了，我们该去下一座瞭望塔了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛蒂尔达",
+          "text": "对了，我之前就想问了，为什么你知道那些学生用来召唤狮鹫的术阵是没有用的？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾尔",
+          "text": "因为那是我在八年级时画上去的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛蒂尔达",
+          "text": "……什么？这、这不是破坏公物吗？"
+        },
+        {
+          "kind": "title_card",
+          "text": "基金会走廊"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "漫长的走廊像一道首尾相衔的谜语，盘绕着委员会大楼，与精心设计的阶梯系统一同连通各大楼层与房间。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "第一助手的脚步慢了下来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "怎么了，十四行诗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "轻柔的说话声在静谧的空间中膨胀，基金会在“暴雨”前夕的忙碌丝毫没有波及此处。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "我们刚刚经过了审理委员会的所在地，刻雷乌斯先生和其他委员这个时候应该就在那间房里。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "刻雷乌斯先生正在接受问询。我们当时前往别列格勒正是因为他提供的琥珀屋线索，我担心……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "提交顿河地区的行动报告之后，基金会就没有再过问这件事。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "如果基金会想在这件事上调查我，那程序早就应该开始了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "……我明白了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "十四行诗压下忧虑。脚步声再度在廊柱间回响。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "就是这里，我们进去吧。"
+        },
+        {
+          "kind": "title_card",
+          "text": "基金会办公室"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "门后是一间再普通不过的标准办公室，并无更多彰显个人喜好的摆饰。这或许意味着它的使用者才刚刚搬入不久。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "房间的主人从桌面上一沓整齐堆砌的文件中抬起头。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "无名者",
+          "text": "二位，很久没见面了。"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

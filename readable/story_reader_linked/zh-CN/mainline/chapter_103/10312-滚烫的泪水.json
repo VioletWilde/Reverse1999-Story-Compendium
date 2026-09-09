@@ -1,0 +1,337 @@
+{
+  "episode_id": 10312,
+  "chapter_id": 103,
+  "chapter_title": "故事一无所有",
+  "display_label": "",
+  "title": "滚烫的泪水",
+  "subtitle": "一阵浓郁的烟雾向我们袭来，很快，我们为此痛哭流涕。",
+  "trails": [
+    {
+      "element_id": 1031201,
+      "owner_episode_id": 10312,
+      "trigger_episode_id": null,
+      "title": "小径① 十四行诗的笔记本",
+      "description": "她的字迹工整，其中的几页格外详细。",
+      "action": "交互",
+      "unlock_condition": "EpisodeFinish=10312",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "十四行诗的笔记本"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "第一章\n第一节 哺乳类 四足种\n1. pp.13–14，独角皮拉苏皮\n    （印度种与英国本土种有较大差距）\n2. 独角的特殊三层结构——角质、棱柱、珍珠\n3.  丿 \n\n抱歉，请看下页\n\n第一章 \n第一节 哺乳类\n四足种分类鉴定（p.13）\n1. 独角皮拉苏皮：印度种体长约四十英寸，成年后毛发赤红\n  （像是菲奥娜给过我的那颗糖果的颜色。虽然我没……但是以供参考）\n   英国本土种略小，体长一般在二十～三十五英寸，深褐色毛发\n  （皮拉苏皮未来可能会被纳入鉴定考察，要记得：抚摸它后颈部向下三英寸左右的部位，但是抚摸次数务必不要超过四下，以免造成它的恐慌）\n\n2. 独角具有三层特殊结构：（可参考巨蚌类外壳结构）\n-  角质层：最外层，主要成分为壳质素。一般为石灰色，会跟随皮拉苏皮的年龄的增长而生长\n-  棱柱层：中间层，主要成分为碳酸钙晶体\n-  珍珠层：最里层，具有光泽。由水平排列的碳酸钙薄片构成（结构可以想象成二号食堂左侧窗口提供的烘烤鱼脆片）\n\n3. ……\n\n…………\n\n亲爱的同窗：\n  愿早日康复。"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1031202,
+      "owner_episode_id": 10312,
+      "trigger_episode_id": null,
+      "title": "逃跑路线规划",
+      "description": "这或许是你们的孤注一掷，需要慎重对待。",
+      "action": "解谜",
+      "unlock_condition": "ChapterMapElement=1031201",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100315",
+      "internal_title": "第三章3-12",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "滚烫的泪水"
+        },
+        {
+          "kind": "title_card",
+          "text": "基金会联合委员会办公室"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "第一防线学校的事情已经调查清楚了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "受重塑宣传单的影响，一名叫维尔汀的女孩组织了约二十名学生，在巡礼演出上唱了改编的校歌。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "校长理查德和安监主任口头劝阻失败，遂动用了特勤警卫、苦哑巴药剂和防暴枪。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "冲突中防暴枪不慎击中维尔汀大腿，她因此陷入昏迷。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "在校医院的救治下，现在已康复出院。今天应该已回归校园。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "……一步劣着。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "您指的是哪一方？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "康斯坦丁摇摇头。似乎不打算继续评价。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "这些学生的诉求是什么？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "他们想了解外面的世界。……特别是，关于“暴雨”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "这个维尔汀，是我们所知道的那个维尔汀吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "出现“暴雨”时手伸到铁门外抓小青蛙的那个——维尔汀？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "是的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "我还记得，报告上说她的手臂沾上了雨水。但她没出现一点变化。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "甚至都没有发炎，腐烂，变形，得一点正常人该得的病症。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "她很特别。让我想起了她的母亲。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "……我没有见过她的母亲，这似乎是个遗憾。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "康斯坦丁回到了棋桌前。她的眼睛透着一股隐隐的光。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "转告理查德：学校现进入特殊监察时期。接下来将由基金委全面接管。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "您打算做什么？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "这一着我们是劣势。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "他们如此小题大做，直接将那群小孩推到了对立面。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "猜忌的种子已经在孩子们的心中种下了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "这场风波影响深远，重塑很快就会开始行动。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "而我……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "我需要维尔汀成长。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "——以我喜欢的方式。"
+        },
+        {
+          "kind": "title_card",
+          "text": "第一防线学校"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "教员",
+          "text": "当奥利图欧感到紧张时，它很有可能会主动攻击人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "教员",
+          "text": "在这个时候，我们需要尽可能地俯下身体，不做任何会激怒它的举动……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一个打开的笔记本从课桌的另一侧安静地传过来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "是这一周的课堂笔记。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "我……我想你可能需要这个。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "谢谢你",
+          "edge_label": "Thank you.",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "十四行诗",
+              "text": "不客气。你的伤好一些了吗？"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "十四行诗",
+              "text": "我听说你昏迷了两天。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "你很少会主动跟我说话",
+          "edge_label": "It's rare that you would come and speak to me.",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "十四行诗",
+              "text": "我……"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "十四行诗",
+              "text": "我以前可能对你有一些误会。很抱歉……"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "十四行诗",
+              "text": "你的身体恢复得还好吗？我听说你昏迷了两天。"
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "还行，现在不怎么痛了。催泪弹烧起来的时候比较疼。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "十四行诗低下了头。她似乎不知道该说什么好。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "那首歌……很好听。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "……很高兴听到你这么说。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "不过我们不会再唱了。除了我之外，其他的同学应该还在禁闭室里吧……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "嗯，听说那里的环境很差……我想进去送饭，但是被教员拒绝了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "他们下个星期就会被放出来……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "我的笔记可以借给他们任何一个人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "谢谢你的好意。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "希望它还能派上用场。"
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

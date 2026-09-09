@@ -1,0 +1,634 @@
+{
+  "episode_id": 2310111,
+  "chapter_id": 23101,
+  "chapter_title": "Chronicles of Uluru: London Dawning",
+  "display_label": "",
+  "title": "Clang! Clang!",
+  "subtitle": "The relentless toil, all for the sake of their eyes.",
+  "trails": [
+    {
+      "element_id": 2310107,
+      "owner_episode_id": 2310111,
+      "trigger_episode_id": null,
+      "title": "Research Log",
+      "description": "In the name of London, the current Fogwalker has put forth great effort. Records show sacrifices of sleep, numerous attempts at amateur Arcane Skill enchantment, and a few rather ungentlemanly words.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=2310111",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "London Air Pollution Auto-Detect Cleaner Research Notes"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Improved Suction Device - Third Test\n\nUnsuccessful again. Not surprising—a mere cleaning device cannot possibly hope to replace the role of the Fogwalker lineage. Amplifying the family's Arcane Skill may hold some promise, but ... we've only three weeks left.\n\nTruth is, my goal is not to solve the unsolvable mysteries of the industrial era—I simply need to ensure that breathable air is available to all for the event's duration. That means faster filtering, broader reach, larger capacity—just for a short period of time, not forever.\n\nArcane Skill Boosting Device - Fourth Test\n\nI could be off the mark on this one. Boosting the potency of arcane skills showed very limited effects. This line of thought failed to meet expectations, miserably so. It was a bloody waste of time!\n\nAir Pollution Purifier - First Test\n\nThanks to the St. Pavlov Foundation for their ritual inscription techniques, the device works!\n\nI was on the right track, somewhat. The Fogwalker's Arcane Skill may be irreplaceable, but this essentially doubles the number of hands we've got. By inscribing incantations onto a device like this, it's like having a duplicate of myself, working in tandem with me. Sadly, I'm not capable of supporting more than one of these, and the purification efficiency is still subpar ...\n\nAir Pollution Purifier MK. III - First Test\n\nA complete catastrophe! I'm a fool, an idiot, a nincompoop! Curse it, curse it!\n\nAdvanced Air Pollution Purifier - Third Test\n\nWhat an astounding discovery by the Foundation! I've never heard of enchanting arcane skills onto everyday, ordinary items before; their developments in this area are revolutionary. Though I lack the expertise to perform true enchantment, following their instructions to combine specific tools has improved my Arcane Skill's integration into the device! And by integrating components of human technology ... I've achieved success! I shall name this creation the \"London Air Pollution Auto-Detecting Purifier.\"\n\nLondon Air Pollution Auto-Detect Cleaner MK. III - Seventh Test\n\nPhenomenal! Maintaining the purification output puts an extraordinary strain on me, but at least it is sustainable for several hours. I pray that tomorrow's demonstration goes off without a hitch."
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "202317",
+      "internal_title": "【2.3】东区黎明-11.1",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "Freddy the Rascal",
+          "text": "Outta the way, outta the way! I've found the perfect component for Mr. Fog's machine!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The boy darts through the bustling alley, slipping between the hats in the smog, and landing among the crowd at the corner of the square."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The machine, about half the size of a person, is at the center of everyone's attention. The crowd members whisper to each other in excited tones."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Mr. Fog",
+          "text": "This allows us to analyze the composition of the atmosphere."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He lifts his head above the crowd, his voice cutting through the chatter."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Mr. Fog",
+          "text": "If the color of the filter paper meets that of the pollution standard, it will determine that the air is polluted and start working automatically."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Mr. Fog",
+          "text": "Let me show you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Heads turn as the crowd stares intently at the measuring tool in Mr. Fog's hands."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Freddy the Rascal",
+          "text": "Scuse me! Oi, Mr. Fog, look, I found a glass stopper! It's the one you were lookin' for, right?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Stopper in hand, Freddy eagerly pushes through the crowd toward Mr. Fog."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Mr. Fog",
+          "text": "Oh, you found it! Yes, that's exactly what I need!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He gratefully takes the stopper."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Mr. Fog",
+          "text": "Your attention, please! This glass stopper is one of the core components of this machine, which can harness the power of the sun to purify the air. Of course, this is only one component of many."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Will",
+          "text": "Are you done talkin'? We've given you everythin' you need. Where's our purification machine?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Neighbor I",
+          "text": "Quite right! We need to see the purification machine!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Discontent and suspicion start to surface among the crowd."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Mr. Fog",
+          "text": "No need to worry, folks. Believe me. There is no one who wants this purification machine to work more than I. So, I've been doing some experiments."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Brimley",
+          "text": "Arthur, mate!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Mr. Fog",
+          "text": "Here!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Mr. Fog looks across the crowd, his eyes bright with intent, prompting the crowd to part a path along the line of his gaze."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Brimley, Tooth Fairy, and three dockworkers appear at the end of the path. They're hauling a cart carrying a heavy machine."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Brimley",
+          "text": "Forgive me for not helping move it. I'm afraid I'm handless and horseless. I can't do a thing."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Will",
+          "text": "What in the bloody hell is that? Some kind of mechanical freak?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Mr. Fog",
+          "text": "Not to worry, Brimley. Now, folks, take a look at this. Thanks to your generous donations, my experiments on smog removal have finally come to fruition."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Mr. Fog",
+          "text": "Introducing the London Air Pollution Auto-Detecting Purifier MK. II! A high-power, multifunctional, air-cleaning machine!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Mr. Fog",
+          "text": "The current model can only operate for three hours at a time, but I'll continue to improve its performance before the qualifiers begin. It's estimated to last a whole day by then."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Neighbor I",
+          "text": "Wonderful! Simply wonderful!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A cheer erupts from the crowd."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Will",
+          "text": "No more smog standin' in our way!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Neighbor I",
+          "text": "Goodness, I can't remember the last time I saw the sun and breathed fresh air. I feel as though I've been rotting!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Amidst the raucous celebration, Brimley takes a moment to glance at Tooth Fairy, who is standing silently off to one side."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Brimley",
+          "text": "It's an honor to see that sweet smile of yours, darl."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tooth Fairy",
+          "text": "I think I'm inspired somehow. I've always felt like a bit of an outsider in London, but this festive atmosphere makes me feel a sense of belonging."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Brimley",
+          "text": "I totally understand."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Brimley",
+          "text": "Though I Awakened in London, my true home is the land down under, thousands of miles from here. In some ways, I'm an immigrant. This sense of belonging is a treasure."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Inside the sleepy car, the radio broadcasts a variety of live updates."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Radio Broadcast",
+          "text": "Yes, as an East London resident, my chest swelled with pride when I learned that the Uluru Qualifiers would be held here. I couldn't wait to see what would happen."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Foundation Branch Member I",
+          "text": "A-Achoo!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Foundation Branch Member II",
+          "text": "That's your ninth sneeze since we got here."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Foundation Branch Member I",
+          "text": "Don't blame me! I didn't even wanna come! The Uluru Committee ignored my application to stay at the Australian headquarters. They couldn't find anyone willing to come to London with all this smog in the air."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Foundation Branch Member II",
+          "text": "They didn't have much choice, either, mate. The Foundation's been preparing for the qualifiers in London for ages. We'll suffer huge financial losses if it's canceled."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Foundation Branch Member II",
+          "text": "Someone has to make the trip to decide whether we should cut our losses or continue to throw money at it. You must've done something to be the lucky one who has to do the job."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Foundation Branch Member I",
+          "text": "...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Foundation Branch Member II",
+          "text": "Holy ...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The car screeches to a halt as a group of sooty critters scurry by the front bumper. As the shuffling subsides, the engine revs up again."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Driver",
+          "text": "I do apologize. These little monsters are all over the streets these days."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Foundation Branch Member I",
+          "text": "Haha, he sounds so calm. You'd think he was just talking about stray cats."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Foundation Branch Member I",
+          "text": "You have to admire the stoicism of the Brits, especially in the face of all this. Honestly, this environment is totally unsuitable for any kind of outdoor activity."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Foundation Branch Member II",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The Foundation member says nothing, quietly jotting something down in a notebook."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Foundation Branch Member I",
+          "text": "Hey, what are you doing?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Foundation Branch Member II",
+          "text": "Making note of the crash that almost happened. *sigh* These records will be used to decide if the qualifiers should be canceled. Someone has to be the doer since we already have a whiner on the team, eh?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Foundation Branch Member I",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "With a sidelong glance at the scenery beyond the window, the man under the mask exhales softly."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Foundation Branch Member I",
+          "text": "Look at all the decorations and posters. So much preparation for an event that won't even be held."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Foundation Branch Member II",
+          "text": "I'm surprised they even wanna hold the qualifiers given the situation."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A gentle silence fills the car, its clarity as soft and blurred as the yellowish smog outside."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Foundation Branch Member I",
+          "text": "Anyway, let's make it quick and get this job over with."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Foundation Branch Member I",
+          "text": "Let me see. We need two things: evidence that proves the environment isn't suitable for holding the qualifiers, and the profiles of all the participating athletes. Then we can go home."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Foundation Branch Member II",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Radio Broadcast",
+          "text": "Next, the changes made to Cross Street. Let's see what the local community has done to prepare for the upcoming event."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The driver reaches a trembling hand to the radio and quietly turns the volume knob to its minimum."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "On the busy street, a crowd gathers around Mr. Fog and his purification machine. After some further iteration, its performance has greatly improved."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Beside the device, the sign originally reading \"London Air Pollution Auto-Detecting Purifier MK. II\" now reads \"MK. III\" thanks to a single additional brushstroke."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Crowd",
+          "text": "Three!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Crowd",
+          "text": "Two!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Crowd",
+          "text": "One!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Mr. Fog",
+          "text": "Start!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He pushes the red button on the machine."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The contraption, pieced together from household goods, has a glass container housing a solid metal mechanical lung purifier. It comes to life with a deep rumble."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Bit by bit, the yellow smog hanging in the air is inhaled by its gaping vent."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Crowd",
+          "text": "Wow!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Eyes wide with wonder, the people watch as the world around them gradually turns clearer."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Freddy the Rascal",
+          "text": "Wow! Look, Dad! Are those clouds in the sky? They're so white and fluffy!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Will",
+          "text": "The air's so fresh. I've never felt anythin' like it!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Neighbor I",
+          "text": "Hey! I can even see Keaton's store fifty yards from here! Hellooo! See, Keaton's waving back!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A wave of joy ripples through the crowd as they erupt into excited conversation."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Tooth Fairy watches Mr. Fog. He's staring upward. There is no celebration from him, only a quiet contemplation."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tooth Fairy",
+          "text": "The first week is for planning, the second for execution, and the last for delivery and paperwork."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tooth Fairy",
+          "text": "Looks like you've completed the tasks as scheduled."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tooth Fairy",
+          "text": "Are you relieved?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Mr. Fog stands there, still staring at the blue sky above."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Mr. Fog",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Mr. Fog",
+          "text": "Ms. Tooth Fairy, the sun is so golden and warm."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Brimley",
+          "text": "Don't mind him. He's all over the place after working non-stop for the last few weeks. He's just trying to say he's happy, that's all."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tooth Fairy",
+          "text": "What about you? How do you feel?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Brimley",
+          "text": "Me? The ranger's soul inside me has always wanted to gallop beneath the blazing sun!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Brimley",
+          "text": "Yahooo!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Brimley charges forward, gliding merrily above the heads of those around him."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Tooth Fairy watches with a gentle smile. Then, something catches the corner of her eye."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tooth Fairy",
+          "text": "Huh?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tooth Fairy",
+          "text": "A critter?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tooth Fairy",
+          "text": "No. Is that ... the black fog?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tooth Fairy",
+          "text": "What's it doing here?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Guided by the traces of arcane energy, she takes a few steps over to the corner."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A faint, shadowy haze momentarily clouds her vision, vanishing just as suddenly as it came."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tooth Fairy",
+          "text": "I thought the black fog was a result of the increased density of regular smog in the air, but it seems I was wrong."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tooth Fairy",
+          "text": "Mr. Fog's machine has cleaned up the smog around us, but the black fog's still here, and it's getting thicker. How curious."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tooth Fairy",
+          "text": "At least now, without the smog covering its trail, I can sense its movements more clearly."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Following her keen senses, Tooth Fairy silently slips into a narrow alleyway."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her nostrils sting as she enters the trail of the black fog."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tooth Fairy",
+          "text": "*cough*"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Doing her best to wave it off with her hand, she continues to follow the trail of the enigmatic presence."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Something tiny and black seems to shudder in a corner deep within the alley."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tooth Fairy",
+          "text": "What? What's that?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The black creature springs into motion, vanishing from her sight in the blink of an eye."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tooth Fairy",
+          "text": "Hmm?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Now doesn't feel like the time to focus on that little dark lump."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tooth Fairy",
+          "text": "The smog's back."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The smog rolls back in, but this time it has taken on a thick, blackened quality, and it's accompanied by a handful of unexpected intruders."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tooth Fairy",
+          "text": "I did hear that these little things tend to gather in the quiet alleys of Cross Street. Perhaps they'd like a visit from the toothfairies."
+        }
+      ]
+    },
+    {
+      "script_id": "202318",
+      "internal_title": "【2.3】东区黎明-11.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "Tooth Fairy",
+          "text": "Slipped away at the first opportunity."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She can't make out where they went through the thickness of the smog."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tooth Fairy",
+          "text": "I knew it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Slightly fatigued, she pauses to tidy up her hair."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tooth Fairy",
+          "text": "But what exactly was it?"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

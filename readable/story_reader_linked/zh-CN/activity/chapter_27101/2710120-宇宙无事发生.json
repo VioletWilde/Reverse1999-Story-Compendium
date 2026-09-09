@@ -1,0 +1,486 @@
+{
+  "episode_id": 2710120,
+  "chapter_id": 27101,
+  "chapter_title": "1987宇宙组曲",
+  "display_label": "",
+  "title": "宇宙无事发生",
+  "subtitle": "而我们永远在路上。",
+  "trails": [
+    {
+      "element_id": 271012001,
+      "owner_episode_id": 2710120,
+      "trigger_episode_id": null,
+      "title": "派对花絮",
+      "description": "一个正经人出现在派对上，可怜的家伙，他马上就会变成所有人的美好回忆。",
+      "action": "交互",
+      "unlock_condition": "EpisodeFinish=2710120",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "派对花絮"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "几位好，请问你们哪位才是冷周六小姐？我带来了康斯坦丁女士的问候。我刚才听到你们在用语言交流了，请不要集体扮蛇糊弄我。\n……\n尊敬的北方哨歌女士，基金会也听闻了理线学在这次航天实验中的突出作用。拨款？不，我来送出的是康斯坦丁女士隆重的慰问，这远胜于任何物质上的支持。这位就是您那位学徒么？这次航天实验的第一大功臣，康斯坦丁女士叮嘱过我要为库珀花环小姐送上最隆重的问候，同时祝她今后在拉普拉斯科算中心的前途光明。\n……\n您好啊，指针女士，传送软盘真是一项跨世纪的发明，康斯坦丁女士也认为其中具有无与伦比的战略价值。您的几位同僚都埋怨我破坏了派对氛围，希望您不会觉得康斯坦丁女士的问候唠叨。您说我可以站在高处演讲？那我就占用各位五分钟了。\n……\n救命！谁都好！快把兔毛手袋研究员拉开，我不知道这张桌子是它的领地！它还在咬我！是谁在这时候伴奏？！发发善心吧！帮帮我！"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 271012002,
+      "owner_episode_id": 2710120,
+      "trigger_episode_id": null,
+      "title": "传送术式宣讲会",
+      "description": "不要打盹，你可能会错过一场历史性的演讲。",
+      "action": "交互",
+      "unlock_condition": "EpisodeFinish=2710120",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "传送术式宣讲会"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "……\n相信各位都在各种学术期刊上读到过，传送术式的理论可行范围并非由空间距离上的远近决定。但实际执行时，距离越远，干扰要素就越多。且迄今为止都没有被判明具体因素为何。因此超视距的传送术式一直被认为是天方夜谭。\n但这次，藉由在“暴雨”前极端环境下进行的超远距离实验，我们一次性收集了从外太空到地表的大量神秘术能量波动反应记录，并经过反复比对，终于找出了一段能切实吸引传送术式定位锚点的神秘术能量波形，我的组员给了它一个容易引起误会的名字——脉冲星波形。我想这是她表现浪漫的形式。\n……\n是的，我已经听到台下的几位在说这是纯粹的经验论，没有理论支持，也无法再次验证。确实如此，但事实是这几周内我和我的组员们已经测试了多次，只要在目的地附近人工模拟这种波形，就能在神秘术能量足够的情况下，完成准确率高达95%的定位。\n……\n这就是本次我想说的，相信在遥远的未来，我们能够在完整理论的支持下让传送技术成为凌驾于航天技术之上的新研究领域。而在目所能及的现在，我们已经得到了一个稳定且安全的外卖技术。"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "202726",
+      "internal_title": "【2.7】1987宇宙组曲20",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "基金会庭院"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "白色石墙将世界分隔成里侧与外侧，同时也带来了长久的寂静。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "逐渐靠近的脚步声与说话声令这份寂静骤然消散。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "基金会职员Ⅰ",
+          "text": "拉普拉斯说要研究的那东西怎么样了？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "基金会职员Ⅱ",
+          "text": "你说传送软盘吗？上次会议里提到过，它很快就会登上外勤物资申请单。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "基金会职员Ⅱ",
+          "text": "如果它能彻底普及开，让我每天下班直接传送回宿舍，我愿意称它是最伟大的发明。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "基金会职员Ⅰ",
+          "text": "算了吧，万一反过来缩短我们的集合时间呢？真这样方便，你不就得随叫随到了吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "基金会职员Ⅱ",
+          "text": "天哪，你说得对！我受不了了，拉普拉斯那群工作狂——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "基金会职员Ⅰ",
+          "text": "起码他们真搞到了“暴雨”相关的数据，这可是件大活儿。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "基金会职员Ⅰ",
+          "text": "全宇宙都会被回溯，还挺公平嘛……至少不是只有地球倒霉。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "基金会职员Ⅱ",
+          "text": "哈，兄弟，我就欣赏你这份乐观。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "基金会职员Ⅱ",
+          "text": "为什么那个航天小队不是公开招募？谁不想去宇宙里瞧瞧呢？换成我，我恨不得在宿舍门口拉上横幅，到时候还要把这事迹刻在墓碑上！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "基金会职员Ⅰ",
+          "text": "万一有下次机会呢？说起来，拉普拉斯的人我不熟，但我认识他们队里基金会的小子。可惜命名日好像又去跑外勤了，到时候可以约他喝酒，打探点新鲜消息。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "基金会职员Ⅰ",
+          "text": "他还是航天小队的成员，意味着他要打两份工，哇哦。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "基金会职员Ⅱ",
+          "text": "你怎么认识那么多工作狂？我要重新审视你了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "基金会职员Ⅱ",
+          "text": "但日子确实好起来了。我们会解决“暴雨”，我相信这不过是眨眼的事……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "基金会职员Ⅰ",
+          "text": "嘘……阿尔文，你听到没有？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "基金会职员Ⅱ",
+          "text": "你说啥……哦。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "这里不常有琴声。忙碌的职员们最近才重新拾起一些过去的爱好。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "这是一支相当有名的曲子，它曾与另外二十六支歌曲共同穿越茫茫群星，至今也仍在途中。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "远旅",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "当陈旧的岁月淹没了这一代人，\n你仍将栖息在人群之中，为人的朋友。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "冷周六",
+          "text": "我知道这支曲子，指针经常在办公室播那盘录音带。她说是金唱片母带的翻录。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "冷周六",
+          "text": "就是旅行者一号带着的那张。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "命名日",
+          "text": "1987年它在哪儿呢？已经到太阳系边缘了吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "冷周六",
+          "text": "它的动力要到2025年才耗尽，我说的是没有发生“暴雨”的那个2025。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "库珀花环",
+          "text": "耗尽动力会怎么样？它会停下？或者损坏？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "冷周六",
+          "text": "没那么严重，只是我们不会再得知它的下落。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "冷周六",
+          "text": "它会一直在宇宙中前行，继续它的旅程。如果真有外星文明，也许会在什么时候发现它。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "冷周六",
+          "text": "可能那时候地球已经不复存在。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "冷周六",
+          "text": "等得太久了，花了太多时间和资源，又无法得到回应。听上去比我们这群人的神秘术还要没用。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "在注视头顶闪烁的光点时，人们很难想象自己脚下的星球也不过是宇宙中的一个小点。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "你会遇上另一些哀愁，并对人说起\n真实的美丽。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "含章鼎",
+          "text": "这本就是一封并不期待回应的信件。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "冷周六",
+          "text": "啊，我想是的。我觉得它只是一个招呼，一句问候。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一种象征。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "冷周六",
+          "text": "“嗨，你们好。这里是地球，这里有过文明。我们尝试活着，或许会成功地战胜时间。”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "冷周六",
+          "text": "或许等不到结果，但我个人相信会有谁听见这句问候。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "命名日",
+          "text": "库珀花环小姐说不定能带回答案。如果你在宇宙里见到了上帝，帮我问问他最喜欢什么音乐。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "库珀花环",
+          "text": "我想这该算是付费服务，请考虑把你的骨碟收藏分给我。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "含章鼎",
+          "text": "总之我们要先抵达九九年之后的世界，才有机会搞清楚金唱片的下落。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "远旅认真地听着每一句话，有些她能理解，有些她还无法完全弄清。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "但她也有想要与朋友们分享的东西。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "这是为小队的友人们奏响的曲调，是为勇敢的小宇航员送去的祝福与鼓励。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "是来自64亿光年外的回答。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "信件送达了。收件人是一颗会唱歌的星星。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "这就是全部。\n你们在尘世所知晓，且应知晓的事物。\n\n                                               ——济慈 《希腊古瓮颂》"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "众人",
+          "text": "三。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "众人",
+          "text": "二。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "众人",
+          "text": "一。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她的种族并不具备地球生物理解中的“听觉”。但她有自己的方式理解其上承载的信息。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "那是她从未想象过，从未感受过的……旋律。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "它来自那个黯淡的蓝色光点。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "地球。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Невероятно.\n不可思议的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Вечный.\n永恒的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Красивая.\n美丽的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "基金会职员Ⅰ",
+          "text": "这首歌还挺好听。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "基金会职员Ⅱ",
+          "text": "那就多听一会儿——等等，你要去哪儿？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "基金会职员Ⅰ",
+          "text": "我们走吧，别打扰其他人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "基金会职员Ⅰ",
+          "text": "手上还有活儿要干呢，你之前说的传送软盘领用申请，要怎么提交来着？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "基金会职员Ⅱ",
+          "text": "具体事项还不清楚，过几天指针女士应该会进行相关内容的宣讲……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "基金会职员Ⅰ",
+          "text": "冷周六小姐这么忙吗？怪不得那天的庆祝会她只派几条蛇露了个面。北方哨歌女士和维拉女士倒是留到了最后，噢，还有被那群孩子包围的库珀花环小姐……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "基金会职员Ⅰ",
+          "text": "芝诺的家伙听见有酒喝就肯定到场，那位年轻飞行员和一条蝾螈划拳拼酒……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "基金会职员Ⅰ",
+          "text": "后来乌尔里希先生也过去看，再后来我听到命名日在劝兔毛手袋别站在桌上发表总统就任演讲。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "基金会职员Ⅰ",
+          "text": "虽然最后合影时那上头挤满了人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "基金会职员Ⅱ",
+          "text": "我错过得太多了！不是说路德维希先生很关注职员的心理状态，鼓励他们放松吗？下次活动到底在什么时候——一定还有下次吧？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "脚步声与话语声逐渐远去，琴声也随之止息。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "星星用好奇的闪烁打量着这片土地。遥远的蓝色星球。京兆分之一的奇迹。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她得到了金色的、珍贵的声音，于是也在这儿留下自己的声音。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "远旅",
+          "text": "*一段轻快的哼唱*"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她学会的第一首歌。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "为那些在普列谢茨克的日子，为今后的岁月，为她所认识与铭记的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "为文明的遥远回声。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "远旅",
+          "text": "请……听。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "在这颗星球上，她目睹了前所未见的景象。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "朋友。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "勇敢的访客。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "四季的更替，海岸线的蜿蜒，温暖或寒冷，和平或纷争。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "贫穷与富裕，卑劣与高尚。文明的衰落与崛起，雨燕划过天空的轨迹。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "在银河系中的一粒微尘之上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "远旅",
+          "text": "多美丽啊……群星。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "看似无用的探索改变了一切。\n正如遥远的星星改变了你。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "1987 宇宙组曲"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

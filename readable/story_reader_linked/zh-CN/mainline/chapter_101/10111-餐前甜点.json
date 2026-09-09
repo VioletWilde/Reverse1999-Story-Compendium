@@ -1,0 +1,453 @@
+{
+  "episode_id": 10111,
+  "chapter_id": 101,
+  "chapter_title": "在我们的时代里",
+  "display_label": "",
+  "title": "餐前甜点",
+  "subtitle": "灯光之下，鲜血是最好的助燃剂与开胃菜。",
+  "trails": [
+    {
+      "element_id": 1011101,
+      "owner_episode_id": 10111,
+      "trigger_episode_id": null,
+      "title": "小径① 迷宫里的奇怪东西",
+      "description": "吐真剂，管制药剂之一，可用于对应狡猾与谎言。",
+      "action": "交互",
+      "unlock_condition": "EpisodeFinish=10110",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1011102,
+      "owner_episode_id": 10111,
+      "trigger_episode_id": null,
+      "title": "小径② 酒吧杂谈",
+      "description": "一名重塑之手的成员徘徊在瓦尔登湖门口。他有一封信，你可以通过一些手段获得它。",
+      "action": "教学记录",
+      "unlock_condition": "EpisodeFinish=10110",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "沾有黑色粘液的信"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "“ 混乱于蝴蝶翩然之地而起。”\n\n                            —— 洛伦兹研究所 ——\n       \n       在“暴雨”的动荡之中诞生，出身、隐藏、发展并独立于拉普拉斯科算中心的秘密结社。摒弃了对人类文明中科研机械的依赖，主张以神秘术为主导进行研究。主张着万事皆有根本，致力于在世间捕捉“暴雨”发生前后所出现的混沌能量，寻觅着引发这场风暴的“最初的蝴蝶”。\n       行踪隐秘，成员不明，在世界各地均设有据点。我们的先锋小队与洛伦兹调查员曾有过几次交锋，目前为止仍未找到办法侵入其据点内部。"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100116",
+      "internal_title": "第一章1-12.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "餐前甜点"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Ich bin wie eine Fahne von Fernen umgeben.\n如同被远方环绕的旗帜\nIch ahne die Winde, die kommen, und muß sie leben.\n我预感到风，目睹即将到来的一切，而继续这样的生活。\nWährend die Dinge unten sich noch nicht rühren:\n仍未被搅动——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Ich bin wie eine Fahne von Fernen umgeben.\n                      如同被远方环绕的旗帜\n                      Ich ahne die Winde, die kommen, und muß sie leben,\n                      我预感到风，目睹即将到来的一切，而继续这样的生活，\n                      während die Dinge unten sich noch nicht rühren：\n                      仍未被搅动——\n\n                      die Kurse steigen noch sanft, und wir haben noch nicht Donnerstagnachmittag;\n                      股价高昂，依旧温顺，周四午后，尚未到来；\n                      das Gold bildet eine gebrochene Linie, und es steigt immer höher.\n                      金子浇筑折线，向永恒的高地攀爬。\n                      Und werfe mich ab und bin ganz allein\n                      我将自己掷身于万物，并孑然一身\n                      in dem großen Sturm.\n                      到这场风暴当中。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "多谢你们小队前来协助。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "行动队长",
+          "text": "能让你向Z女士开口求助，情况想必不简单。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "我只是有一些不好的预感……希望只是个人的误判。\n其他的队员已经就位了？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "行动队长",
+          "text": "是的。拿到集会参与资格的队员有8个，他们已经分批进场了。\n其余队员则在酒馆各出入口随时待命。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "行动队长",
+          "text": "这些是我们收集到的关于“瓦尔登湖”的情报。他们将在今晚举行一场勇者决斗观赏赛。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "行动队长",
+          "text": "参赛者能获得价值100万美金的持有券，投注者则有5-10倍的翻倍利率。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "……他们疯了吗。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "行动队长",
+          "text": "司辰，您拿上这个吧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "行动队长",
+          "text": "这是科算中心研制的新品，“天堂使徒34：7”。这次添加了爆轰球的细胞液，将它的翅膀打开，扇动15秒就能引发一场冲击波。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "行动队长",
+          "text": "它只能对单一方向产生冲击，使用时请注意站位。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "明白了。\n我们现在去“瓦尔登湖”吧，你跟在APPLe的后面，切记不要引人耳目。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "欢迎，欢迎各位……"
+        },
+        {
+          "kind": "title_card",
+          "text": "“瓦尔登湖”酒吧"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "所有的新移民、神秘学家、道德的人与不道德的人、反酒馆联盟与民主改革派、自由思想者与上教堂的人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "——欢迎你们来到你们永恒的家，“瓦尔登湖”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "如何？大家看起来对上一场的烈酒舞女与蟒蛇共舞的表演相当满意！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "既然如此，那么我再送全场宾客一轮新调制的“蛇蟒甜水”。保证每一位喜爱“丫丫波旁”的芝加哥人都不敢忘记它的味道。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "噢，噢，眼珠子都快掉进行情走势图里了。\n没必要这样，朋友，让我们把期望放在下一场决斗观赏赛上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "……听我的，你会收到高得吓人的回报。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "唔，好挤！差点把APPLe某心爱的领结给挤掉了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "这个地下酒馆怎么这么热闹？看起来可一点也不像是个非法场所。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "行动队长",
+          "text": "这里是全美唯一一家从未被搜查过的酒馆。\n据说老板勿忘我亲手研制的魔药饮料，只有在进入口腔后才会转化成酒精。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "行动队长",
+          "text": "从原料购买、拿到医药店执照、蒸馏运输及销售、与帮派联手确保安全，都没有留下把柄。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "行动队长",
+          "text": "酒馆愿意接纳所有边缘人，提供各种救赎性岗位的信息；\n仅凭这点，就奠定了“瓦尔登湖”在芝加哥地下酒馆中的地位。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "有查到他与重塑之手的关系么？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "行动队长",
+          "text": "没有。尽管他过去的信息被人为修改了，但我们能确定他是这个时代的人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "行动队长",
+          "text": "不过我们发现，他与来自华盛顿的政治人物接触的时期，与国内金融市场异常繁荣的起步期是相近的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "行动队长",
+          "text": "从那以后，“瓦尔登湖”就与各类神秘学股票金融的交易紧紧结合在了一起。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "好了，朋友们——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "嘘。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "我们即将品尝到今晚的——餐前甜品。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "来，欢迎我们去年的决斗之王——！以一人之力，连续击倒了10位神秘学家与人类挑战者，获得了不败荣誉的卫冕者！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "是她？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "宾客们",
+          "text": "太棒了——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "那么，这次获得表演赛挑战者殊荣的嘉宾，将会是谁呢？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "吧台客人",
+          "text": "价值100万的持有券！上去挨一顿暴揍，回家躺上两个月也值了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "雅座客人",
+          "text": "哈哈，还是押注适合我，指不定能搞到汉普顿斯的别墅！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "挑战者的命运，就由我们的聚光灯来决定——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "命运落到你头上了。戴帽子的小姐。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "宾客们",
+          "text": "被神保佑的幸运儿……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "宾客们",
+          "text": "快上去啊，快点！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "现在场上的参赛者分别是去年的卫冕者斯奈德，与来自圣洛夫基金会的司辰，维尔汀小姐。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "行动队长",
+          "text": "该死……！我们的情报也被泄漏了吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "……我先上去了。别担心。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "那么，决斗——正式开始。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "斯奈德",
+          "text": "呵呵……好久不见了，政府老爷。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "斯奈德",
+          "text": "我的老爷好像很希望看见人家亲手杀死你呢……还要特意创造一个这样的机会。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "斯奈德",
+          "text": "“砰——！！”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "斯奈德",
+          "text": "呀，打偏了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "斯奈德",
+          "text": "真是的，你们为什么非要来送死呢？难道是来执行你们基金会的正义吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "斯奈德",
+          "text": "“砰——！！”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "斯奈德",
+          "text": "明明基金会什么正义也没有呀，连“暴雨”的存在都不敢公之于众。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "斯奈德",
+          "text": "用可笑的谎言来回绝我的“家人”们，就是你们的正义吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "斯奈德",
+          "text": "“砰砰——！！”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "斯奈德",
+          "text": "她身上的柑橘花的香气，在这一刻变得浓烈。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "你去过基金会？\n任务胶囊上的柑橘气味……所以你才能在车库外提前拦截人质？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "斯奈德",
+          "text": "哈哈哈、投奔不成，当然只能继续执行人家老爷安排的任务啦。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "斯奈德",
+          "text": "讨厌，露出破绽了——！人家要认真起来了喔！"
+        }
+      ]
+    },
+    {
+      "script_id": "100117",
+      "internal_title": "第一章1-12.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "吧台客人",
+          "text": "太刺激了——！\n我还要再加点、就押在那个叫什么维尔的人身上吧！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "雅座客人",
+          "text": "加油啊～！卫冕冠军！我的身家可全投在你身上了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "宾客",
+          "text": "啊、道指冲到381.17点了？！……那我、我再跟五千……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "斯奈德",
+          "text": "啊哈……真好，真好。\n政府老爷，你比我想象得要厉害好多呢！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "斯奈德",
+          "text": "跟那些基金会的残废们可不一样。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "你为什么要去投奔基金会？重塑不能满足你的要求吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "斯奈德",
+          "text": "呵呵……当然是因为，没资格被“筛选”留下的我们，想要……活下去啊。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "斯奈德",
+          "text": "“暴雨”都要落到头上了，谁还会在乎这片遮雨的究竟是屋檐……还是瓦砾？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "斯奈德",
+          "text": "话音未落，她的手便作了一个掌劈的动作，向脖颈处猛地劈来——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "如果我说，我能提供你这样的一片瓦砾呢？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "斯奈德",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "斯奈德",
+          "text": "…………"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "斯奈德",
+          "text": "她的手在空中停滞了片刻，最终还是化作了一柄手枪，指向前方——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "斯奈德",
+          "text": "上次这么跟我说的人，正坐在我们身后观赏比赛呢。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "斯奈德",
+          "text": "“砰砰砰——！！”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "宾客",
+          "text": "嗯？大盘走势是不是下跌了31个点？……是我看错了吗？"
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

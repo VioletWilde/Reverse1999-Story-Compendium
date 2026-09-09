@@ -1,0 +1,703 @@
+{
+  "episode_id": 11022,
+  "chapter_id": 110,
+  "chapter_title": "复乐园",
+  "display_label": "",
+  "title": "以我纯净的血",
+  "subtitle": "待以血安抚紊乱的金丝，命运将重新对众生冠以认可。",
+  "trails": [
+    {
+      "element_id": 101022,
+      "owner_episode_id": 11022,
+      "trigger_episode_id": null,
+      "title": "正负解",
+      "description": "我们都想要作答，所以我们走向两端。",
+      "action": "对话",
+      "unlock_condition": "EpisodeFinish=1022",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "你终于通过了这关，我本以为会很轻松。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "要知道，答案曾在你面前出现很多次——用双手蒙住自己的双眼，你的敌人最爱干的事。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "手的作用就是控制，这是一路以来的第三课。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "至于前两课，其实你已经见过消化系统和排泄管道了，重新描述会让报告变得很长，建议直接回顾过往记录。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "回到正题，你在这次行军中差点因眼球侦察兵的错误情报而死亡。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "幸好大脑指挥部反应迅速，才没有导致最坏的结果。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "为了避免类似情况再次发生，你应该设立副指挥部来进行纠错。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "交给心脏吧",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "永不停息的战略要道，调度血液的必经之地，激动时还会剧烈跳动。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "它确实是大脑之外最可靠的器官，也不得不可靠。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "可惜，它还是不要有自己的思想比较好，机械式振动或快或慢都会招致毁灭。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "我们亲爱的关隘道口，决定哪些思想能离开，哪些营养能进入。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "整副身体都仰仗它来与外部交涉。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "所以决不能让它自行做主，不然祸端和疾病都会在这里汇聚。"
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "你该去当文学批评家",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "像文艺复兴时期的艺术家一样说话并非我的本意。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "可我必须如此隐晦地告知你，正如米开朗基罗的名作所暗示的一样。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "创造人的关键部位也许是智慧的栖息地，或者生命的诞生地……"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "这下你应该稍微能看懂些艺术了。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "我相信我的嘴",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "101029",
+      "internal_title": "第十章10-21.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "以我纯净的血"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "场景-熔岩管内"
+        },
+        {
+          "kind": "title_card",
+          "text": "火山神殿·熔岩甬道"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "地标"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "攻击"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "话语随着神秘术的光辉一同落下，基金会职员与传道者的瞳孔中清晰地映照出彼此的身影。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "传道者·苏菲亚",
+          "text": "……这就是你的答案吗。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "是的。无论未来如何，我都不会为此刻的选择而后悔。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "短暂的沉默后，火山深处的神殿忽然传来了剧烈的震动。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "司辰……？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "传道者·苏菲亚",
+          "text": "……看来已经结束了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "结束？你的意思是……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "传道者没有回答，她放下手中的圣像，向基金会职员走去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "十四行诗绷紧神经，但传道者只是与她擦肩而过。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "传道者·苏菲亚",
+          "text": "希望你能记住今天的答案。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "看着传道者的身影远去，十四行诗正欲向前，忽然看见角落里的闪光。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "浮窗道具-一个小瓶子，里面是流动的沙子"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "这是……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "渐黑"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "长黑"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "场景-祭坛-差分1-阿尔卡纳肉球+信徒（无洪水）"
+        },
+        {
+          "kind": "title_card",
+          "text": "火山神殿·祭坛"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "地标"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿尼姆斯",
+          "text": "哼……没想到你们两个居然还活着，简直比阴沟里的老鼠还要难缠。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿尼姆斯",
+          "text": "既然你们胆敢拒绝复苏之母仁慈的宽恕，那便领受殛灭的命运吧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "消人"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "转场"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "岩石被撞破"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "诺谛卡",
+          "text": "小心！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "加速"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "庞大的兽形笨拙地扫动长尾，打散了使徒尖锐的神秘术能量。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "诺谛卡",
+          "text": "维、维尔汀，我们该怎么做？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "黑色的肉团鼓动着，已然膨胀到了极点。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "现在还不是回家的时候，诺谛卡。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "趁阿尔卡纳还没有完全复活，我们需要破坏这场仪式。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "诺谛卡",
+          "text": "阿尔卡纳就是“疯雪怪”要复活的那个家伙吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "“疯雪怪”手下的幸存者跺了跺脚，做好了反击——或者说，“复仇”的准备。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "诺谛卡，一点钟方向。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "诺谛卡",
+          "text": "好、好的！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "消人"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "毒液"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "巨兽挥舞绳骨袭向鼓动的肉团，然而还未等接近，骤然涌起的漆黑粘液便将二人拦了下来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "诺谛卡",
+          "text": "呜……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "从上面，诺谛卡，从天上发起进攻。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "恢复"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿尼姆斯",
+          "text": "天真的虫豸！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "蛛丝"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "铺天盖地的黑色液体织成一张细密的网，试图捕捉空中的飞鸟。新生的巨兽缺乏对血肉的控制，很快就失去了平衡。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "诺谛卡",
+          "text": "我的尾巴……！不行，要掉下去了——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "在此异邦之土，唯有月亮是我们的故人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "护盾"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "空中书写的术式化作一道透明的光幕，挡下了灼烧的液体。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "十四行诗！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "转场"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "司辰，看到您没事就好。还有……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "诺、诺谛卡小姐……？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿尼姆斯",
+          "text": "又一只可恶的老鼠！该死，你是如何穿越雾气的……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "浮窗"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "不速之客手中的瓶子给了她答案。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿尼姆斯",
+          "text": "……是那个装模作样的“传道者”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "消浮窗"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿尼姆斯",
+          "text": "无能，浅薄！愚蠢的狂妄之辈，她怎敢犯下如此疏失？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿尼姆斯",
+          "text": "果然，一开始就不该将如此重要的职责交在那个自命不凡的小姑娘手上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "转场"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "诺谛卡",
+          "text": "十四行诗，抓住我！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "飞"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "打"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "飞鸟带着烈风呼啸而过。巨大而坚硬的尾巴击退攻击的同时，十四行诗抓住机会一跃而起，够到了诺谛卡的足爪。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "上来！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "唔——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "双手紧紧相握，曾经分开的伙伴们终于在空中再度会合。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "诺谛卡",
+          "text": "太好了，这下大家都在这里了，我们一定能中断这场仪式！"
+        }
+      ]
+    },
+    {
+      "script_id": "101030",
+      "internal_title": "第十章10-21.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "场景-祭坛-差分1-阿尔卡纳肉球+信徒（无洪水）"
+        },
+        {
+          "kind": "title_card",
+          "text": "火山神殿·祭坛"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "地标"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿尼姆斯",
+          "text": "……难缠的老鼠，卑下的虫豸……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿尼姆斯",
+          "text": "愚昧的无信者，竟妄想改写由伟大的复苏之母写定的命途……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "氛围图"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "即便被来者逼退，使徒却高举权杖，发出一阵瘆人的笑声。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿尼姆斯",
+          "text": "无妨，至高之时已至！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿尼姆斯",
+          "text": "待到真正面见复苏之母的那一刻，你们的恐惧和哀嚎，都将成为最悦耳的圣诗。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "渐变"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "阿尼姆斯带头向着那汩汩跳动的肉团双膝跪地，而环绕在神殿内沿的全体教众亦匍匐了下来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "粘液"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "周围的粘液涌起，为仪式铸就了牢不可破的屏障。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "诺谛卡",
+          "text": "这个动作——等等！难道说，他们要献祭自己？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "放大"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "移动"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "教徒们手挽着手，唇贴着地。亦如婴儿紧贴着他们的母亲。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "缓冲"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "众教徒",
+          "text": "来日的恩典即将显现"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "缓冲"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "众教徒",
+          "text": "吾等信徒将于今日蒙福"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "血液从教徒的黑袍下缓缓溢出，流向蠕动的黑色肉团。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "聚焦"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "众教徒",
+          "text": "愿您至高无上之躯"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "死亡不断蔓延，吟诵声渐渐沙哑、低微，却不曾停止。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "众教徒",
+          "text": "再度降下——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "恢复"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "那些黑袍所覆盖着的身躯干瘪下去，直至衣袍被水流带走，底下空无一物。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "流动的鲜红血液渐渐被染黑，化作肉块的血管，随其鼓动一同涌起。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "好强的神秘术波动……糟了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿尼姆斯",
+          "text": "至圣的时刻已经来临！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿尼姆斯",
+          "text": "受苦者的肉身已于此复苏，为我们降下光明，辨识谬误。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿尼姆斯",
+          "text": "祂将引领我们，重塑往日的荣光，踏向应许的天园！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿尼姆斯",
+          "text": "这场洪水将洗涤一切丑陋和虚假，它将引领我们归于一切的开端！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿尼姆斯",
+          "text": "我们将重回真正由神秘学家主宰的“空白时代”——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿尼姆斯",
+          "text": "那才是最初的乐园，是本应属于我们的“理想国”！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿尔卡纳",
+          "text": "……"
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

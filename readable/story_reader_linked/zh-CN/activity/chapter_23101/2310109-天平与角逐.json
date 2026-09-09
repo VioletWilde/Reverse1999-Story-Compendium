@@ -1,0 +1,683 @@
+{
+  "episode_id": 2310109,
+  "chapter_id": 23101,
+  "chapter_title": "圣火纪行：东区黎明",
+  "display_label": "",
+  "title": "天平与角逐",
+  "subtitle": "总有人期待着你。",
+  "trails": [
+    {
+      "element_id": 2310106,
+      "owner_episode_id": 2310109,
+      "trigger_episode_id": null,
+      "title": "往日",
+      "description": "一张泛黄发脆的旧报纸，一段斑驳褪色的旧时光。",
+      "action": "交互",
+      "unlock_condition": "EpisodeFinish=2310109",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "“我们的乌卢鲁”人物专栏"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "自由祭祀天才运动员专访\n夏洛特·奥黑根：“摘下属于我的太阳”\n\n    在昨日结束的自由祭祀项目中，年仅11岁的夏洛特·奥黑根以其首创动作“天竺葵之舞”击败对手，夺得本届乌卢鲁运动会自由祭祀项目金牌。这也意味着她打破了由13岁的“绿手指安娜”于1802年保持至今的年龄纪录，成为运动会有正式记载以来最年轻的自由祭祀冠军。\n\n    据悉，奥黑根家族传承着古老的祭祀神秘术，夏洛特·奥黑根的曾祖父道格拉斯·奥黑根曾步入巨人堤道的秘密石门，并著有仪式学著作《万门之门：开启与召唤仪式》，祖母伊丽莎白·贝克·奥黑根曾在1866年的自由祭祀项目中获铜牌……\n\n    ……\n\n    夏洛特·奥黑根在赛后接受了采访。（详见第四版）"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "202314",
+      "internal_title": "【2.3】东区黎明-09",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "小心一些，来，跟着我一起……吐——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "病人Ⅰ",
+          "text": "呕……呕……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "污秽落入水桶，而神秘学医师没有一丝侧目。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "好了，这是今天的第五个。我在糖果里放入了可以短暂稀释咳痰的金粉，他们会感觉呼吸轻松不少。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "护士",
+          "text": "太感谢您了，基金会的小姐……鉴于这种病是最近才流行起来，您的临床经验对于我们来说实在起到了很大的帮助。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "不用这么客气。身体及其健康问题，会与每个人切身相关。我很高兴我的办法能够起到一定疗效。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "而且宝贵的临床经验也能为我研究这类“雾病诅咒”提供更大的帮助。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "护士",
+          "text": "……真希望这一切能赶紧到头，大家都能看上运动会。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "看来，医护站也有关注运动会的传统。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "护士",
+          "text": "实际上，他们每个人都有自己喜欢和追捧的对象，他们跟着一起支持、猜测、紧张甚至……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "护士",
+          "text": "有些病人还会自己去花园里做些运动呢。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "护士",
+          "text": "运动会期间的医院，是我最喜欢的医院。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "能够理解——我也注意到一张海报很久了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她指了指贴在病床旁边的小海报。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "泛黄的画面中呈现出不太清晰的脸庞。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "护士",
+          "text": "啊……！她……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "护士",
+          "text": "她确实很美，不是吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "……她是……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "护士",
+          "text": "……她是这位病人最喜欢的运动员——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "护士",
+          "text": "这可怜的小姑娘收藏了很多她的海报，每一张照片都用剪刀仔仔细细地剪下来，夹在各种地方——书页里、钱夹子里……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "这位运动员……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡洛琳",
+          "text": "或许，你这么多年不待客是因为没办法煮好一壶最味美的红茶以迎接她远道而来的朋友？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "笃笃骨",
+          "text": "你倒是把我的消息打听得彻彻底底。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "笃笃骨",
+          "text": "既然知道我闭门已久，为什么还要来找不痛快呢？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡洛琳",
+          "text": "噢，那看来是我的过错了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "笃笃骨",
+          "text": "卡洛琳小姐，你似乎是千里迢迢专门从南约克郡赶来报名比赛，并顺便探望你的老对手。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "笃笃骨",
+          "text": "但很抱歉，我现下确实没有闲工夫陪你谈天说地聊家常，也不愿意叨扰你的冠军梦。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "笃笃骨",
+          "text": "还请便吧，小姐——纸信圈儿，咱们继续吧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "笃笃骨瞥了一眼站在花园外的女人后，转身回到原地，给了纸信圈儿一个眼神。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "可是纸信圈儿却一直愣愣地盯着卡洛琳。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "纸信圈儿",
+          "text": "可是她喜欢你，她想找你玩。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "笃笃骨",
+          "text": "……你管好你的秒表，我数三、二、一就开始，练习一秒都不能耽搁。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "纸信圈儿",
+          "text": "她并没有离开。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "笃笃骨",
+          "text": "腿不是长在你身上，你不必操心别人是否物尽其用。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "纸信圈儿",
+          "text": "她和你很久没见了，她一定很想念你。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "笃笃骨",
+          "text": "看在上天的份上，小知了。人们的好心善意多半不是异想天开就是自欺欺人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "纸信圈儿懂事地闭上嘴，而后又不甘心地瞪着眼睛回头看向卡洛琳。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡洛琳",
+          "text": "她说的没错，夏洛特。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡洛琳",
+          "text": "我想看看你。如果这样的表述对于你来说有感情上的负担的话，我也愿意换一种方式表述——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡洛琳",
+          "text": "我想与你，再次同台竞技。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡洛琳",
+          "text": "……你认为这样的表述，会更易于接受一点吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "护士",
+          "text": "您……认识她吗？这个运动员。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "……夏洛特·奥黑根……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "护士",
+          "text": "噢——对，对，是叫这个名字。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "护士",
+          "text": "事实上，如果不是这可怜的小姑娘，我也不会记起还有这么一个运动员了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "护士",
+          "text": "大家都说夏洛特·奥黑根老了、疏于锻炼，早就拿不出曾经的竞技状态了；还有人说她用药成瘾、沉迷于醉生梦死的黑暗中。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "护士",
+          "text": "甚至前几年还有小报报道她早就死了，尸体被搁置在浴室三个月都没人发现……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "护士",
+          "text": "……总之，她不可能再回到赛场了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "护士",
+          "text": "这小姑娘喜欢的，是一个不会再为他们带来骄傲的运动员了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "笃笃骨",
+          "text": "挑战？你可真是生怕这世界上有哪个角落不知道小姐你参加了比赛啊。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "笃笃骨",
+          "text": "你要找同场竞技的竞争对手，可以把目光投向可能性更高一点的群体，比如——你的队友们？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡洛琳",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "笃笃骨",
+          "text": "我还是那句话，小姐。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "笃笃骨",
+          "text": "请便吧——我家里没有合你口味的红茶。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡洛琳",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡洛琳",
+          "text": "……你可真是……变了太多了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡洛琳",
+          "text": "……呃！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "短暂的感叹过后，卡洛琳却突然向笃笃骨抛出了彩带。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "彩带狠厉地向笃笃骨刺去，紧紧地擦着她身体的边际，冲向了笃笃骨身后。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "笃笃骨",
+          "text": "——你在干什么？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "笃笃骨",
+          "text": "什么？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "彩带收回到卡洛琳身后，此时陶瓷茶杯已然落入她的手里，她好整以暇地看着笃笃骨。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡洛琳",
+          "text": "你说，我喝不了你的红茶，那你怎么解释它现在完好无损地来到了我的手上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "纸信圈儿",
+          "text": "嘿——笃笃骨，她这玩意儿好神奇，就像人们的道德底线一样能屈能伸！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "笃笃骨",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "笃笃骨",
+          "text": "脱手小抛彩带，十米隔空操控，带转体接实物，没有失误。问题在于动作的功用性达标，美观度不足。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "笃笃骨",
+          "text": "这是你一贯的问题了，但我注意到你改进了动作里的小毛病，你的左肩有意在控制偏移度，这是好的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡洛琳",
+          "text": "——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡洛琳",
+          "text": "哈……感激不尽……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "笃笃骨",
+          "text": "不必这样说，你该感激的是你自己这几年来的努力。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "笃笃骨",
+          "text": "那杯茶你留着吧，不用还我了——纸信圈儿，我们继续计时。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "纸信圈儿",
+          "text": "嗯……那好吧，我先跟您说再见啦，白天鹅小姐～"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "卡洛琳端着茶杯，呆愣在原地。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "而后，她缓缓垂下眼皮，将茶杯搁在篱笆上，转身离开。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "刚走了几步后，身后响起笃笃骨的声音，不大，但是清晰。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "笃笃骨",
+          "text": "对了——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "笃笃骨",
+          "text": "你刚才的彩带技术，是从我在贝尔丹火焰节表演赛的赛场上学来的吧？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡洛琳",
+          "text": "……嗯？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "从笃笃骨背影里传来的声音，使人无法就此踱步离开。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡洛琳",
+          "text": "……你说什么？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "笃笃骨",
+          "text": "你的一招一式，甚至连彩带的款式本身，都跟十一岁那时的我一模一样。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡洛琳",
+          "text": "……呃……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "纸信圈儿",
+          "text": "唔！小姐，您的脸好红，就像我爸爸在《潘趣酒》杂志上看到了一则好笑的笑话。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡洛琳",
+          "text": "……我……学你？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "笃笃骨",
+          "text": "不要让我往后猜，你刚才的动作也是为了在我面前复刻当时决胜局的最后一招吧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "笃笃骨",
+          "text": "得到了原创者本人的认可，对你来说真算得上是不小的激励了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡洛琳",
+          "text": "我……学你？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "笃笃骨",
+          "text": "可就像我第一次见你的时候一样，你刻苦有余却美感不足……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "笃笃骨",
+          "text": "如果你愿意将更多的精力放在提高审美这一块，我相信你会走得比现在更远。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡洛琳",
+          "text": "……我……我——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "笃笃骨",
+          "text": "作为你的前辈，我能给你的指导并不多，不要总是想着从其他人的经验里获得捷径，这对于施展个人的特色和灵性没有一丝帮助。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "羞耻和悔意慢慢爬上运动员的脸上，她正在竭力遏制自己的怒火。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "很可惜，她失败了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡洛琳",
+          "text": "……我、学你——？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡洛琳",
+          "text": "时至如今我在国际赛事上拿到的冠军已经堆积如山，沙漠祭祀公开赛、极光杯世界锦标赛……更不用提乌卢鲁本身。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡洛琳",
+          "text": "在人们心里我的头衔早就盖过你了。我是这一届当之无愧的种子选手，以我名字命名的动作甚至写进了教材……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡洛琳",
+          "text": "在你之后已经有无数人将这项运动推向了更高峰，难度系数、评分标准都更上一个台阶，你曾经的超越不过是现在所有人的基础。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡洛琳",
+          "text": "呵……我学你……？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡洛琳",
+          "text": "……你早就失去了被模仿的资格，你早已不足为任何人所道。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡洛琳",
+          "text": "现在的你、你……不再是他们口中十万分之一的四叶酢浆草，只是一颗曾经在自由祭祀的世界里短暂闪耀过的星星，而我才是他们追捧的、恒常发亮的太阳。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "笃笃骨",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "背对着卡洛琳的笃笃骨不经意地笑了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "笃笃骨",
+          "text": "那就是了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "笃笃骨",
+          "text": "那就带着这份“荣耀”去参加比赛吧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "笃笃骨",
+          "text": "不要再来烦一个，不再有资格“被你打败”的对手了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "卡洛琳愣在原地。展翅而去的灰白鸽羽像一串白色梨花，散落在她头上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小丽莎",
+          "text": "马蒂姑姑！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "护士",
+          "text": "噢，你回来了！我们正在讨论你呢？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小丽莎",
+          "text": "什么？讨论我什么呀？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "正在讨论着……你似乎有一个非常厉害的梦想，以及一位非常喜欢的运动员。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小丽莎",
+          "text": "噢噢！你们说的是夏洛特吗！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "是的，我们……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小丽莎",
+          "text": "那太好了！我正好得知了一个好消息——福葛先生要弄一个大工程！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小丽莎",
+          "text": "只要我们都参与进来，运动会就能顺利举办！到时候说不定夏洛特……甚至更多更多的运动员都会来参加比赛！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "大工程？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "护士",
+          "text": "什么大工程？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "小女孩的叫嚷似乎吸引了医院里许多人，人群疑惑地吵嚷起来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "病人Ⅰ",
+          "text": "什么大工程？上次的除烟法案被下议院驳回之后，他们清洁大气委员会又要闹腾什么？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "不好意思……但你说，福葛先生？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小丽莎",
+          "text": "是的！福葛先生！福葛先生说，他找到了一个好办法，能够让全伦敦的雾都被驱散！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小丽莎",
+          "text": "——那就是他的大机器！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小丽莎",
+          "text": "只要大家都来帮忙，这个机器能建得非常巨大。他现在需要的材料有很多……唔、有……玻璃丝器官、机械肺的活塞……还、还有……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "稳重的脚步由远及近，一双大手揉了揉小女孩的头发。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "福葛先生",
+          "text": "接下来，就让我为大家讲解一下吧……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小丽莎",
+          "text": "福葛先生！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "福葛先生？"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

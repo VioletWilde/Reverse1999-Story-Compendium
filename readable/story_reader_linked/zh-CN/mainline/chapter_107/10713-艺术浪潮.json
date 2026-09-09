@@ -1,0 +1,823 @@
+{
+  "episode_id": 10713,
+  "chapter_id": 107,
+  "chapter_title": "孤独之歌",
+  "display_label": "",
+  "title": "艺术浪潮",
+  "subtitle": "浪潮席卷之后，我们还能拥有什么？",
+  "trails": [
+    {
+      "element_id": 1071301,
+      "owner_episode_id": 10713,
+      "trigger_episode_id": null,
+      "title": "七年的霉运",
+      "description": "",
+      "action": "残篇阅读",
+      "unlock_condition": "EpisodeFinish=713",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "看看这面镜子，亲爱的，这上面有好大一个污点。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "它已经碎了",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "是的，碎了，也许这正是它的主人想要的，要清除一个莫大的污点，你就只有用暴力去摘掉它。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "现在污点不见了，它的主人还得到了无数面小镜子，我想这面应该是她不小心留下的。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "再仔细瞧瞧，亲爱的，看看这两条裂痕，想象它们延伸出去的交界处，那里有一块难以去除的污渍。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "它的主人以为这样就可以把污渍去掉，现在却只得到了一堆碎镜子，污渍也躲到了她看不到的角落。"
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "它的主人是？",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "一位胸怀理想的女性，一心想要让这个世界与自己和解，还会建议其他人加入自己，也因此拥有了无自觉的人格魅力。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "而她的哥哥恰好相反，一生的愿望就是得到世界的谅解，会积极地适应世界，想尽办法去融入他人，结果却在决斗中失去了一只胳膊。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "但要我说，亲爱的，他们都是一样的，孤独的人。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "兄妹俩就像是镜子的两面，她却在看着另一个自己时忍不住地反感，总想着生活不该如此。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "而现在，另一个她捡起了尊严，找回了丢掉的胳膊。她为世界预约了无数次的大手术也终于有人来执行。她却开始害怕术后创伤了。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "正如我所说，兄妹俩就是镜子的两面，亲爱的。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "现在这面镜子碎了，希望她可以承受得住七年的坏心情，真可怜，她不得不承受。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "我没有看到污点",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100719",
+      "internal_title": "第七章7-13.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "艺术浪潮"
+        },
+        {
+          "kind": "title_card",
+          "text": "1914军事基地"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "场景-码头军事基地，复用1.9肉鸽的码头"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "军人Ⅰ",
+          "text": "**的，为什么开火许可一直没有下来？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "军人Ⅰ",
+          "text": "我们在等什么？那座岛就在对岸，我们有士兵、有装备、有补给，我们什么都有了——只差一个抢滩登陆的命令。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "军人Ⅰ",
+          "text": "噢……甚至还有这些黑乎乎的“伙计们”，那个宣称自己从“瓦尔登湖”来的军火商提供的“对神秘学改良武器”……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "军人Ⅰ",
+          "text": "——虽然我不喜欢那个阴阳怪气的家伙，他身上也散发着神秘学家的臭味……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "军人Ⅰ",
+          "text": "但他提供的技术是毋庸置疑的，我们必须先于塞尔维亚人和希腊人行动！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "这支部队已经在这里驻扎了许久。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "此前登陆的失败令他们恼怒，漫长的政治协商又挫伤了士气。饱满的弹匣被弃置一旁，士兵转而拿出了加热餐点的酒精灯。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "军人Ⅱ",
+          "text": "别太急，格奥尔基……你得相信那些大人物，他们会“协商”好的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "军人Ⅱ",
+          "text": "而且，那座岛上的怪物你也瞧见了——难道你这么急着去送死吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "军人Ⅰ",
+          "text": "去**的协商委员会……是我们！我们才是发现岛屿的第一人！而不是奥地利人和德国人！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "军士愤怒地拿起望远镜，又一次试图捕捉海对面那座缥缈的岛屿。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "望远镜中的海洋一如既往地平静，偶尔跳跃着细碎的粼光，并未有任何陆地或者活物的景象。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "军人Ⅰ",
+          "text": "见鬼，那些神秘学家又把自己藏起来了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "军人Ⅰ",
+          "text": "我发誓，昨天我还能从这个角度看见它……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "spine动画-望远镜运动一下。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "军人Ⅰ",
+          "text": "……嗯？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "意想之外的状况，男人简直不敢相信自己的眼睛。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "军人Ⅰ",
+          "text": "那些怪鸟——正在成群结队地离开？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "浮窗图收起。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "没有太多人注意到他的行为，其他人更关心补给箱上摊开的纸牌。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一台收音机，几瓶啤酒，一局扑克游戏——难得的好时光。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "军人Ⅱ",
+          "text": "嘿，格奥尔基，别管了，来玩牌吧！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "军人Ⅱ",
+          "text": "……格奥尔基？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "被叫到名字的军士充耳不闻。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他只是抓住望远镜，不住地喃喃自语。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "军人Ⅰ",
+          "text": "多好的机会，绝佳的机会，千载难逢的好机会——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一滴斑斓的油彩自他的脸上滑落，“啪嗒”一声，粘在了地面上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "军人Ⅰ",
+          "text": "对，那座岛本就该属于我们，它在我们的海上，是我们发现了它——它有什么理由不属于我们！！！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "玩牌的人们止住了，他们惊愕地看着同僚脸上的异状，浑然不觉自己身上也出现了诡谲的油彩。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "静默之中，只有收音机还在发出沙沙的响声。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "广播",
+          "text": "奥匈帝国向塞尔维亚正式宣战……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "广播",
+          "text": "俄国动员部队支持塞尔维亚，德国要求俄国停止战争动员……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "广播",
+          "text": "德国开始战争动员，法国开始战争动员——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "黑屏"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡卡尼亚",
+          "text": "呼哈，哈——"
+        },
+        {
+          "kind": "title_card",
+          "text": "环城大道"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "剧情场景-变异的维也纳街头（复用场景）"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "街道已经变成了扭曲的油画，颜料拥挤着发酵，一个旋涡，紧接着另一个旋涡。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "——像是一处怪诞剧的舞台布景。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡卡尼亚",
+          "text": "父亲，母亲，阿尔伯德，伊丽莎白！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡卡尼亚",
+          "text": "快开门！我有重要的事要告诉你们！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她的手捶在了温格勒家的门板上，那里很快像一块融化的黄油般凹陷了下去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "卡卡尼亚摔进了家中，里面扭曲的骇人光景又让她退了出来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "往日放着标本和装饰画的温馨玄关，已经变成了一个搅拌着颜料的洗衣桶。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡卡尼亚",
+          "text": "不，不——怎么会变成这样……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡卡尼亚",
+          "text": "阿尔伯德……？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "带着一丝侥幸，她呼唤着哥哥的名字。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿尔伯德",
+          "text": "克拉拉……？真是稀奇，什么事能让你慌张成这样？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "不幸中的万幸，玄关里传来了一声熟悉的回应。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿尔伯德",
+          "text": "唉，我正要去商学院呢，你有话可以等我回来再说。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "阿尔伯德拿起帽子，小心地调整了一下帽檐的角度——那上面还别着一枚属于“温格勒商店”的宝石别针。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "谢天谢地，他看起来一切都好。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "仍是记忆里那个家族的骄傲，最为可靠的长兄，穿着三件套西装的温和绅士。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡卡尼亚",
+          "text": "不对，商学院……？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡卡尼亚",
+          "text": "可你……不是发誓不再踏入那里一步吗？因为那个找你决斗的人类同窗打残了你的胳膊……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡卡尼亚",
+          "text": "等等，你的右手……？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "阿尔伯德转过身来，现在卡卡尼亚看清了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "笔挺的西装被染成了花色，颜料一直从他的脸上流到地上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一只颜色不同的胳膊接在了他的身上，就像不同花色的马赛克拼贴砖。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿尔伯德",
+          "text": "喔，你是在说伊森……是的，他打伤了我，这也没办法。毕竟他急需向兄弟会证明自己的反神秘学立场。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿尔伯德",
+          "text": "没关系，我们已经扯平了——他把胳膊还给了我。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "阿尔伯德扬起左手，那把尖刀上还沾着些许残沫。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他将它随意地一扔，刀柄滚向黑暗，没入狂热的油画漩涡之中。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "阿尔伯德拿起手杖，那只拼接上去的胳膊无力地在身侧垂着，像是一个被俘获的人质。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿尔伯德",
+          "text": "是时候了，现在我得去找约翰逊、雷蒙德，还有赫伯特，那个将伊丽莎白推到喷泉里的混账……他们总得付出点代价。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿尔伯德",
+          "text": "照顾好自己，克拉拉。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他径直从妹妹身旁走过，甚至还拦下了一辆长着三角轮胎的马车。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡卡尼亚",
+          "text": "不，阿尔伯德——别走！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她试图截住马车，可它咆哮着向远处驶去，就像无法阻止的“暴雨”洪流。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一阵清脆的脚步声在靠近。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "卡卡尼亚医生，暴雨症候群已经蔓延开来了！再待下去，您也会感染癔症！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "请和我一起——唔！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "地面微微的震颤打断了她的劝告。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "面孔扭曲的人们咆哮着狂热的口号，嘶吼着用母语写成的歌谣，从街道的另一头涌来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "非黑即白的战争宣传单从他们手里落下，像雪花般飘落在变形的环城大道上，很快被乱腾的色彩吞没。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "如同一辆倾轧一切的战车，一个做着华尔兹旋转的火药桶。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡卡尼亚",
+          "text": "站在队首举牌的是……奥罗拉？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡卡尼亚",
+          "text": "我们上周还一起在咖啡馆谈论着她的婚礼……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "小心，医生……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "——她们险些被一根倾倒的指示牌击中。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "亢奋的市民们肆意破坏着街道的摆设，甚至将行人椅的扶手圈也挥舞在手里。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "这股热潮要求所有相遇的人——都必须加入。没有选择。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "糟透了，他们已经彻底丧失理智了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "医生，快跟我来，我们必须离开这儿！"
+        }
+      ]
+    },
+    {
+      "script_id": "100720",
+      "internal_title": "第七章7-13.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "剧情场景-变异的维也纳街头（复用场景）"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "医生，往这儿走！我们得退回到您的诊所，那是和特别行动队商定的地点——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "年轻的调查员牵着医生的手，试图履行自己的职责。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "目标对象却停住了脚步。她的头深深地低垂着。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡卡尼亚",
+          "text": "……马库斯小姐。您曾经说过，我们还有一个弥补的机会。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡卡尼亚",
+          "text": "而后，您做了您想做的，我也做了我应做的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡卡尼亚",
+          "text": "现在，请您告诉我，我们做的事还有意义吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡卡尼亚",
+          "text": "我们赶上了吗？或者，我们还有任何，哪怕是一点，挽回现状的机会么？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她的声音因悲伤而哽咽。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "人群的熙攘与咆哮尚未远去。但昨日的环城大道，却只能停留在记忆中了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡卡尼亚",
+          "text": "你们拿到的术式，那个你们说能帮助到所有人的“庇佑”，现在……它能生效了吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "——让我进去。"
+        },
+        {
+          "kind": "title_card",
+          "text": "科算中心走廊"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "拉普拉斯科算中心-走廊"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "科算中心的走廊已经不复理性的洁净。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "道金斯变成的泥巴傀儡无疑给它来了一记痛击，安全员们用上了所有的洁净球，才使地板重新露出了泥土之外的颜色。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "现在，一双愤怒的脚步迈过了它。罔顾同僚的阻拦，哑谜留下了一连串新鲜的泥印。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "我只是想问一件事。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "为什么——你们到底为什么还不停止实验？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他的努力得到了回应。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "通往总负责人办公室的铁门打开了，一个同样怒气冲冲的身影走了出来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "破译组长",
+          "text": "阿德勒·霍夫曼，你已经不是研究小组的成员了！你无权进入这条走廊！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "破译组长",
+          "text": "你现在的行为严重违反了——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "严重违反了《拉普拉斯科算中心安全管理条例》？我把它带来了，不用客气。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "研究员把那本记录着管理条文的手册甩在了前组长脸上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "如果你的心里还有一点“条例”的概念，你就应该知道，现在发生的事没有一条是符合它的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "即使是总负责人也没有权限在目前的情况下继续实验！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他的话没能说完，前组长已经极不客气地打断了他。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "破译组长",
+          "text": "滚开，阿德勒，我没空和你争论这些繁文缛节。现在是战时状态！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "破译组长",
+          "text": "所有实验的参与者均签署了知情同意书，无关实验的人员请立刻离开。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "破译组长",
+          "text": "距离“暴雨”落下只有十八个小时了，这是九次“暴雨”中最有希望的一次，唯一有突破性进展的一次！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "破译组长",
+          "text": "——别忘了，这希望还是你姐姐用性命为我们带回来的！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "阿德勒·霍夫曼突然沉默了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "褐色的眼睛里冒出一股遏抑已久的愤怒。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "在这沉默之中，破译组长意识到自己也许说错了话。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "嗯，是啊，她牺牲了，为我们带来突破性的成果。而后，更多人牺牲了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "——事情就是这么发生的，对吧？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "而后，他猛地冲上去，用胳膊把对方推到了一边。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "破译组长的头磕到了墙上，冲击波不可避免地在磁流体上成了像——一个爆炸的火花。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "我必须要知道继续这一切疯狂实验的理由！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "被踢出小组的家伙儿开始违规破译那道加密的安全门，似乎打定主意要在今天用上司办公室的密码来挽回研究成果。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "走廊的警报被拉响了，乌尔里希捂着自己的头，恼怒地扶着墙站起来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "破译组长",
+          "text": "见鬼，我们这里的疯子还不够多吗？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "破译组长",
+          "text": "露西女士在忙重要的事，没空见你！找你的心理医生聊天去，人类！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "重要？！有什么事能比这更重要？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "这里已经变成机器的一言堂了吗？基金会的人道主义原则是彻底子虚乌有了吗？？？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "她到底在做什么？！在我们乱成一团时，喝着机油读着报，泡在230伏特的电压池里充电吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "安全密码被解出来了。哑谜再度推开了组长的臂膀，冲进了那道门中。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "房间里一片漆黑。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "“哒、哒、哒。”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一个活塞正在他的脚下旋转。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "露西",
+          "text": "……这不是阿德勒吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "露西",
+          "text": "欢迎你。"
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

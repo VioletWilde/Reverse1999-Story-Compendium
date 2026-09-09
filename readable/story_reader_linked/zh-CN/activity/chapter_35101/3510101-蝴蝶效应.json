@@ -1,0 +1,690 @@
+{
+  "episode_id": 3510101,
+  "chapter_id": 35101,
+  "chapter_title": "绿松石蛇俱乐部",
+  "display_label": "",
+  "title": "蝴蝶效应",
+  "subtitle": "¡Lotería！",
+  "trails": [
+    {
+      "element_id": 3510101,
+      "owner_episode_id": 3510101,
+      "trigger_episode_id": null,
+      "title": "互相帮助",
+      "description": "一个熟悉的匣子，如今它变得更聪明，更难用。",
+      "action": "对话",
+      "unlock_condition": "EpisodeFinish=3510101",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "我毫不意外，我们又见面了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "你从西线来到东线的理由真是没有惊喜可言。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "就像是只刚破壳的雏鸟，只会追着成鸟的影子，或者其他会动的大东西跑。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "究竟什么时候你才能独立？十八岁生日之后吗？"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "直到找到她为止",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "然后她又会在你眼前消失。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "我不认为你是不懂得思考的蠢人，为什么你要不断重复同样的失败？"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "或者你是那种必须重复无意义的工作才能感到幸福的人？"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "你戴着顶大礼帽，确实像是那种人。"
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "你似乎不理解亲情？",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "你在胡说什么？我当然也知道亲情，知道爱。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "不过是曾有什么东西给过你温暖，尤其是在你还无法自立的时候，你为了活下去而理所当然地依赖她，讨好她。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "然后有一天你失去了她，必须自己活下去，接着你开始怀念那段养尊处优的日子，每到做家务时就开始流泪。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "而她也不过是沉迷于掌握你生命的全能感中，就是如此肤浅的东西。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "我也曾拥有过这些，也给过其他人这些，我怎么可能不理解？！"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "啊……"
+                }
+              ]
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "我对拯救世界的大话没兴趣。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "大人物嘴里总是咀嚼着和平与未来，但结果都会变成笑话。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "而且没有人会笑，因为耳朵好使的人都已经为他们而死了。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "我们就该吊死其中几个蠢猪。和平不会因此降临，但活着的人至少能有些宽慰……"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "请坐吧，我把你喜欢的那把椅子放在了朝东的位置。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "东面的风景稍微比西面好些，而且流动的河水会冲散尸臭味。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "她不只是一位母亲",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 3510102,
+      "owner_episode_id": 3510101,
+      "trigger_episode_id": null,
+      "title": "绝对好运",
+      "description": "你有50%的几率能掷出你想要的那面，可她不一样。",
+      "action": "交互",
+      "unlock_condition": "EpisodeFinish=3510101",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "《一日女巫》于墨西哥首次巡演"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "热情美丽的好姑娘。\n被好运金币亲吻过的环球之星。\n《一日女巫》最受欢迎的老朋友——百夫长女士，将于本月15日现身墨西哥，墨西哥城。\n\n你能在白天的加里波第广场上找到她。她和街头乐手聊天，与宿醉的酒鬼碰杯。她记得每个人的名字，以及对方每一个未曾实现的愿望、未能完成的冒险。她会把最精彩的故事带上节目。当夜幕降临，她将出现在赌桌前。若您瞧见她将金币丢进索卡洛广场附近的排水口，不必担心——作为节目的例行环节，它迟早会回来。\n\n巡演途中，她将在索奇米尔科短暂停留，用辣酱与苹果汁调制“本世纪最具挑战性”的鸡尾酒，随后去往海港，从断崖落下，与鲨鱼共舞，在当地人的尖叫声中，把“硬币女孩儿”的传说推向前所未有的高度。当然，我们亦不排除她会临时登上一艘船，将整段航程变成一场即兴冒险秀的可能。\n\n观众须知：\n在演出结束后，若您失去了对“好运”的基本判断，那证明您已充分体验了整场演出。"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 3510103,
+      "owner_episode_id": 3510101,
+      "trigger_episode_id": null,
+      "title": "节日访客",
+      "description": "一份遗留在阳台上的报纸。",
+      "action": "交互",
+      "unlock_condition": "EpisodeFinish=3510101",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "《墨西哥城先驱周报》新闻一则"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "昨日下午，某国外交官抵达墨西哥城，其车队沿布卡雷利街驶入城区，于索卡洛广场稍作停留。彼时电车铃声此起彼伏，街头花贩正将成捆的万寿菊分批陈列，为即将到来的诸灵节作准备。据悉，这位先生对阿兹特克神话、太阳石以及诸灵节的渊源，皆具备一定程度的了解。\n\n在随后的行程中，他造访圣卡洛斯学院，对近期引发讨论的公共壁画略作评价。他的目光并未仅仅停留于学院与画室。在拉梅塞德市场一隅，我们的贵宾在多家小店橱窗前驻足良久，细细端详店内陈列的版画、糖果头骨与手工剪纸。这些物件虽制作简单，却都蕴含着丰富的情感。这其中，一个刻有讽刺诗句的骷髅偶人最为特别，令他反复翻看，赞不绝口，哪怕随行人员数次提醒行程在即，他都未作任何答复。\n\n对于外交官接下来的行程，官方尚未公布更多细节。然而，在这个亡者归来、生者欢庆的节日里，我们尊贵的来访者，显然并不满足于走马观花，墨西哥城或将迎来一位不同寻常的艺术品鉴家。\n\n记者菲茨威廉 报道"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "203501",
+      "internal_title": "【3.5】绿松石蛇俱乐部01.1",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "主持人",
+          "text": "穷人的外套。太阳。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "闷热的酒馆中，赌徒们屏住呼吸，面色涨红地围在牌桌旁。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "黑帮头目",
+          "text": "太阳……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "黑帮头目",
+          "text": "噢……在这里。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他颤抖着手，在自己面前的塔布拉棋盘上放下一粒玉米。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "主持人",
+          "text": "罗西塔，罗莎拉，来吧，因为我现在需要你。玫瑰。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "赌局主持人从洗好的牌堆中翻出图案。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挑战者",
+          "text": "哈！足够幸运。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挑战者",
+          "text": "玫瑰，我有这个图案。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "主持人",
+          "text": "路过墓地时，偶遇一个头骨。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "随着主持人不断揭示新的卡牌，两人面前的塔布拉棋盘逐渐被玉米粒填满。显而易见，胜利的天平正倾斜向挑战者那方。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "黑帮手下Ⅰ",
+          "text": "这是最后一把，赌局快要结束了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "黑帮手下Ⅱ",
+          "text": "见鬼了，这个新来的女孩儿怎么回事……？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "黑帮手下Ⅱ",
+          "text": "再这样下去，特拉索尔先生要输得血本无归了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "黑帮手下Ⅰ",
+          "text": "我不明白，这儿的庄家明明都是特拉索尔先生的人……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "黑帮头目",
+          "text": "……慢着。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "黑帮头目",
+          "text": "挑战者，你确定要继续下去吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "黑帮头目",
+          "text": "如果你现在认输，我可以让你带着先前赢下的东西，安全地离开这里。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挑战者",
+          "text": "现在就中断赌局的话，怎么能算是一场豪赌呢？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挑战者",
+          "text": "与之相反，我要押上我先前在这张桌子上赢的所有东西。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挑战者",
+          "text": "不，还不够——押上我的全副身家，怎么样？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "黑帮头目",
+          "text": "无知的女孩，你会后悔的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "头目嗤笑一声，看向一旁的主持人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "主持人",
+          "text": "我明白了，特拉索尔先生。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "主持人",
+          "text": "那么二位，游戏继续。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "主持人",
+          "text": "下一张卡牌是——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "主持人将手放至牌堆上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "主持人",
+          "text": "回到人间，获得重生。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "黑帮头目",
+          "text": "等等！这是什么，我从来没有听过这样的诗句……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "足够幸运的挑战者在塔布拉棋盘上放下最后一颗玉米粒。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "百夫长",
+          "text": "回到人间，获得重生。是蝴蝶！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "百夫长",
+          "text": "¡Lotería！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "T   h   e       T   u   r   q   u   o   i   s   e       S   e   r   p   e   n   t       C   l   u   b\n绿 松 石 蛇 俱 乐 部"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "虚构集 著"
+        },
+        {
+          "kind": "title_card",
+          "text": "卡洛塔酒馆"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "赌局已定，四周的围观者们传出一阵不可置信的喧闹声。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "黑帮手下Ⅰ",
+          "text": "已经是第三天了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "黑帮手下Ⅰ",
+          "text": "这三天里，无论是俄罗斯转盘、老虎机，还是洛特里亚，这幸运女孩从来没有输过。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "黑帮手下Ⅱ",
+          "text": "她已经击败了特拉索尔先生帮派里的所有好手，现在就连特拉索尔先生本人也……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "黑帮手下Ⅱ",
+          "text": "真是不可思议。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "黑帮头目",
+          "text": "这怎么可能！！我不相信我会输！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "议论声的中心，黑帮头目恼怒地把牌桌上的塔布拉和玉米粒都扫到地上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "黑帮头目",
+          "text": "我从来没有见过这张狗屁“蝴蝶”牌！这是怎么回事！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "主持人",
+          "text": "我……先生，我不知道……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "主持人",
+          "text": "牌是您准备的，也是您亲自洗的……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "百夫长",
+          "text": "够了，先生。要我说多少遍，这真的只是运气的问题！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "百夫长",
+          "text": "愿赌服输，就是赌桌的道理。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "百夫长",
+          "text": "毕竟这里是你的地盘，你应该清楚，我是不可能出千的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "百夫长",
+          "text": "按照约定，请你在明天的这个时候，将我们立下的赌注都带过来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "百夫长",
+          "text": "一百万的筹码，还有什么来着，俱乐部的什么东西……？算了，反正你记得就行！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "幸运的冒险者大笑着离去了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "牌桌对面的男人瘫倒在椅子上，这是他绝对支付不起的代价。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "黑帮手下Ⅰ",
+          "text": "特拉索尔先生，我全程都留神着，她确实没有出千……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "黑帮头目",
+          "text": "够了，这不重要。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "黑帮头目",
+          "text": "跟上她，不能让她活着离开这里。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "墨西哥，墨西哥城。天气晴朗，街道两侧尽是低矮的平房。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "从酒馆的后巷中走出，百赌百胜的挑战者漫步在街道上。节庆将至，骨头人偶、骷髅糖果、鲜花与剪纸……斑斓的色彩顺着道路两侧蔓延。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "燥热的空气奇异地使肺部感到熨帖。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "百夫长",
+          "text": "回到家乡果然会有好事发生。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "百夫长",
+          "text": "距离夜晚的巡演还有一段时间，哪儿还有刺激的冒险呢？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "身后鬼祟的脚步声引起了她的注意。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "百夫长",
+          "text": "看来“冒险”自己送上门来了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "百夫长",
+          "text": "两位先生，你们一路跟着我走到这里，有什么事儿吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "黑帮手下Ⅰ",
+          "text": "很抱歉，特拉索尔先生希望你能留下来聊聊。"
+        }
+      ]
+    },
+    {
+      "script_id": "203502",
+      "internal_title": "【3.5】绿松石蛇俱乐部01.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "行动代号，“被献祭的人”？“伊兹帕帕洛特利”？——“死亡的九个试炼”？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "“死亡的九个试炼”不错。我已经可以想象到拉普拉斯的家伙们看到这个名字时的神情了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "行动人：洛伦兹蝴蝶。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛伦兹蝴蝶",
+          "text": "目标已进入华雷斯街道交叉路口处。启动混沌干涉装置。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "轰轰吼叫匣·X",
+          "text": "混沌干涉装置已启动。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "轰轰吼叫匣·X",
+          "text": "温馨提示：轰轰吼叫匣已完成智能升级。若产生任何使用上的问题，请在存活后致电开发者！：）"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛伦兹蝴蝶",
+          "text": "做得好，X。但联系的号码呢？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛伦兹蝴蝶",
+          "text": "目标共二人，没有其余跟随者。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛伦兹蝴蝶",
+          "text": "“这样下去不行！得让特拉索尔先生派更多的人来！”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛伦兹蝴蝶",
+          "text": "“拦住她……！！”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛伦兹蝴蝶",
+          "text": "声音发抖，动作迟疑。对抗中惯性倾向右侧，自那场让你丢失了食指的打斗后，你总会随身携带一柄小刀，祈求它能给你带来幸运——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛伦兹蝴蝶",
+          "text": "“停下！！”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛伦兹蝴蝶",
+          "text": "小刀果然赋予了你一丝勇气。然而，当你恼火地冲至巷口时，围栏上的蛀孔让你想起了方才无论如何都无法击中的子弹，这时，你后知后觉地害怕起来——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛伦兹蝴蝶",
+          "text": "你停住了脚步。对，没错，就是这里。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "轰轰吼叫匣·X",
+          "text": "参照物参数已建立。环境变量在预测范围内，呈现高度敏感依赖性。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "轰轰吼叫匣·X",
+          "text": "可进行短期行为预测。完美的环境！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛伦兹蝴蝶",
+          "text": "激活初始条件扰动。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "黑帮手下Ⅰ",
+          "text": "这是什么声响？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "黑帮手下Ⅱ",
+          "text": "小心——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "尘埃落定，这场灾难的“始作俑者”从顶楼一跃而下。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "毫发无损的幸运女孩打量着来人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "百夫长",
+          "text": "是你。刚才在酒馆里的主持人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "百夫长",
+          "text": "不管怎么样，谢谢你的帮忙。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛伦兹蝴蝶",
+          "text": "不客气。我听说过你的名号，那个属于“硬币女孩儿”的传奇故事。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛伦兹蝴蝶",
+          "text": "就算没有我的帮忙，你也能凭借自己的运气解决一切。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "百夫长",
+          "text": "哈，你说得没错。但那样绝不会解决得如此迅速——我就会错过今晚的巡演了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "百夫长",
+          "text": "你想要什么样的答谢？数不清的利齿子儿、一顿地道的墨西哥大餐，还是惊掉人下巴的逃脱魔术表演……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "百夫长",
+          "text": "除了我手上的这枚硬币，我都能给你。只要给我一晚上的时间。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛伦兹蝴蝶",
+          "text": "谢谢你的好意。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "对于百夫长大方的配合，苦心积虑的谋划者满意地眯起了眼睛。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛伦兹蝴蝶",
+          "text": "你说得对，我确实想要你身上的某样东西——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛伦兹蝴蝶",
+          "text": "那封你在赌桌上赢得的，来自绿松石蛇俱乐部的密信。"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

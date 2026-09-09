@@ -1,0 +1,780 @@
+{
+  "episode_id": 3210101,
+  "chapter_id": 32101,
+  "chapter_title": "迁流的盛宴",
+  "display_label": "",
+  "title": "法兰西特快",
+  "subtitle": "确保任何预言都在保质期内被及时说出。",
+  "trails": [
+    {
+      "element_id": 3210401,
+      "owner_episode_id": 3210101,
+      "trigger_episode_id": null,
+      "title": "来说个故事吧",
+      "description": "",
+      "action": "类型3203",
+      "unlock_condition": "EpisodeFinish=3210101",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "这件事大概发生在两年半前，或者说，约十六年后的未来……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "对我来说，它就像发生在昨天。但对你来说，这恐怕是未曾听闻的故事。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "让我们从头讲起。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "当时照常结束了大战的法国百废待兴，对和平的渴望达到史无前例的高度。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "迟到的大萧条也为经济发展提供了缓冲期，各种人的涌入带来无数机遇。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "但经济发展终究开始减速，困苦的生活令大量新思想抬头，巴黎的自由逐渐转变为混沌……"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "这些都和这次的故事有关？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "或许没有关系，即使不知道这些，也不妨碍你了解接下来的故事。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "但我们总该弄清潜在的背景，以防你被一些不重要的细节夺走注意力。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "因为我要讲的不是巴黎的社会与经济状况，而是一则传言——"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "是的，她被卷入了巴黎的混沌中。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "一位英雄之后，带着宿命与诅咒出生，却甘于做一个普通市民。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "不过命运终将找上她——"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "在经历一场冒险之后，留给她的只有未尽的遗憾。"
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "这故事没有好结局？",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "它会有个结局的。有关“好”与“坏”……你很快就会明白。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "我想主人翁就是那位出租车司机了",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "203201",
+      "internal_title": "【3.2】迁流的盛宴01",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "巴黎·街道"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "就不能麻利点吗，阿黛拉？堵车，罢工……我受够了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "玛莱区的街道是有些窄，这没办法。至少我们已经到了地方……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "那间沙龙应该就在楼上。还好孚日广场附近人不多。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "当然，亲爱的司机小姐，你宝贵的车只有德佩区的宽阔大道才配得上——我的东西呢？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "金属碰撞声和细碎的摩擦声证明了司机的努力。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "——在这儿！我找到了，完美无损！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "我不得不再次提出那个老问题，费利西安小姐。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "咱们一定得带着这种易碎的甜点到处跑吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "费利西安",
+          "text": "你稍作努力，让拉杜丽开遍全巴黎，自然就不必这样麻烦。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "您真是高看我了——喔，我们还提前了十分钟，可以慢慢走上楼。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "这段时间以来，她已经习惯了这位小姐的脾气，也熟练掌握了让对方消气的技巧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "全怪我考虑得不够周到。明天我来接您之前，先去一趟香榭丽舍大街……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "费利西安",
+          "text": "你知道就好。走吧，今天你选的这条近道还不错，总算没有迟到。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "这句话多少给疲惫的司机提供了几分动力。\n她关上车门，张开双臂转了个得意的圈儿。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "看吧，我接下您的单子时可没胡说。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "“整个巴黎的一切，全都在我脑袋里头！”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "吾等本为虚无。永远的国度、权柄与荣耀，皆归于祢——\n（ATAH MAKUTH VE-GEBURAH VE-GEDULAH)"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "永世无尽，阿门。\n(LE-OLAHM AMEN)"
+        },
+        {
+          "kind": "title_card",
+          "text": "占卜沙龙"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "香棒在静室中燃烧，乳香、没药与鸢尾根的气味漫散开来，所有人都屏息注视着位于中央的女子。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她神情肃穆，口中念念有词。在用一根一半白色、一半黑色的朴素术杖分别向四个方向画出五芒星的图案后，她向两侧伸出双臂。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "雷曼女士",
+          "text": "拉斐尔，在我面前现身。加百列，在我身后现身。米迦勒，在我右手侧现身。乌列尔，在我左手侧现身——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "雷曼女士",
+          "text": "五芒星在此熊熊燃烧，六芒星于光柱中闪耀！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "随着她顿挫的声音落下，熏香燃烧着的火焰忽地明亮了一瞬。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "雷曼女士",
+          "text": "我看见了……我看见了那自北方出现的旋风、巨云，以及向内侧熊熊燃烧的火焰……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "雷曼女士",
+          "text": "那万丈光辉，正是祂之智慧在地上的显现。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "妇人",
+          "text": "怎么样，雷曼女士？您是否……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "雷曼女士",
+          "text": "我已自星界请来了四位大天使在此投下他们的化身，他们将借予我力量，令我可以一窥那意象宝库中的秘密。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "雷曼女士",
+          "text": "您的丈夫不知踪迹，但他的影子仍在家中徘徊。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "妇人",
+          "text": "——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "妇人",
+          "text": "是的……是的！您说得对！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "妇人",
+          "text": "我总能感觉到……有时还能看见他的身影！就穿着那件土黄的大衣……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "妇人急切地凑上前去，紧紧扒住占卜桌的边沿。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "妇人",
+          "text": "我请求您，女士！请告诉我他究竟遇到了什么？要怎样才能让他回来？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "妇人的话让阿黛拉皱起眉头。她压低声音，让自己的话混入台下的议论声中。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "她说的是最近的失踪案。有不少人都想找大人物们要一个解释。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "但解释可没那么好找，我的警察朋友忙活了半天也没见有结果。你觉得这位占卜师会怎么说？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "费利西安",
+          "text": "大概是诅咒或者恶魔附体一类的。总是这些。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "占卜师朝满眼恳切的妇人点了点头，转身面向台下众人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "雷曼女士",
+          "text": "这位可怜女子的丈夫遭到了诅咒——一头野兽的诅咒！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "雷曼女士",
+          "text": "它未能诞生自温暖的血肉之中，而是由笼罩这座城市的黑暗孵化而生。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "雷曼女士",
+          "text": "旧的秩序崩坏已久，新的乐园却迟迟没能得到兑现。魔鬼从未走远，它们在我们的近旁虎视眈眈，蛊惑每一个摇摆的灵魂……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "雷曼女士",
+          "text": "于是它才自百年的沉睡中苏醒，现身于这个时代，将苦痛施加于众人！\n是我们唤醒了它——那热沃当的野兽！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "那个不祥的名字令屋内瞬间安静下来。\n人们屏住呼吸，半晌后掺着恐惧的惊呼声才小心翼翼地响起。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "参会者Ⅰ",
+          "text": "怪不得总有隆隆怪响……是那些黑影回来了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "参会者Ⅱ",
+          "text": "难道我铺子里那些不来干活的家伙，也是——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "好吧，你猜对了。又是老一套，“诅咒”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "要是这种东西真的存在，我的家族根本就传不到我这一代。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "费利西安",
+          "text": "少说我不爱听的。你死了谁来给我开车？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她抛下这句话，转过头盯着台上的占卜师，不再理会不懂事的司机。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "雷曼女士",
+          "text": "我无法消灭那只野兽，它实在过于强大。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "雷曼女士",
+          "text": "但我可以限制那诅咒的效力，削弱它的影响。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "等在一旁的学徒适时地为她捧上许多小物件。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一块刻有奇妙符号的水晶，以及墨水、白蜡烛与黑色丝绸。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "雷曼女士",
+          "text": "天上如此，地下亦然。一切存在都彼此相连，万物在这条永恒的巨链中均有自己的位置。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "雷曼女士",
+          "text": "有时，我们能够自那些更加完美的存在处借来些许力量。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "雷曼女士",
+          "text": "我将借助来自土星的智性，为你制作一块能够限制诅咒的灵摆。佩戴它一段时日，你的丈夫将会归来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "妇人",
+          "text": "好的，好的！太感谢您了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "费利西安的耐心只够坚持到听完这段话。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她悄无声息地起身，阿黛拉也紧跟着迈出步子。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "费利西安",
+          "text": "我还以为能在这里听到些新鲜的神秘学理论，或者有意思的八卦……没想到是无聊套话而已。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "所以我才说，巴黎好玩的地方多的是，想逛街有老佛爷百货公司，各种小玩意都在圣图安市场，没必要特地赶过来看这种……好吧，演出。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "人群已经涌向前去，争着向占卜师寻求解答。只有少数人像她们一样打算退场。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "尽管没人会在意，阿黛拉还是压低了声音。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "下次就考虑我的建议……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "费利西安",
+          "text": "我已经买下了你的时间，你的工作就是陪同我去城里任何一个我想去的地方。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "好吧。我投降。一切都按您的意见办。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "阿黛拉总结出的应对技巧并不会每次都起效。\n费利西安停下脚步，似笑非笑地望向她。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "费利西安",
+          "text": "观赏闹剧也算是一种消遣。再说……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "费利西安",
+          "text": "你对这类“占卜”也并不是全无兴趣。比如，《高等魔法的教义与仪式》？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "呃！那些书都是看着玩……而且你怎么知道的？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "费利西安",
+          "text": "“看着玩”。对，在每一个“家族诅咒”词条下面画上红色波浪线，你就喜欢玩这个。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "你看到过？嘿，你究竟怎么知道的？快告诉我！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "对于占卜沙龙的主办者来说，这番喧闹的景象或许过于显眼了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "雷曼女士",
+          "text": "这位小姐，请暂留脚步。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "雷曼女士",
+          "text": "迷途的乌云和执妄的枷锁正笼罩着你……你已灾厄缠身，而我能拨开你的迷雾。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "雷曼女士",
+          "text": "请靠近些，让我能看得更清楚。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "直到所有目光都汇聚过来，阿黛拉才明白占卜师指的正是她们中的一个。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "费利西安，她让你……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "雷曼女士",
+          "text": "是的，这位正四处张望的小姐。我希望您能上前来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "我？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "阿黛拉看向费利西安，后者像是突然提起了兴趣，轻轻推了她一把。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "费利西安",
+          "text": "就是你了，别傻站着。既然她自己找上门，那就让她见识见识你的本事。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "……好吧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "在众人的注视下，她站到了占卜师对面，将手伸向桌上的灵摆。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "说实话，女士，我对您的占卜不感兴趣，您这些小伎俩也唬不到我……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "但我可不希望被您当做打响名号的幌子。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她拿起水晶，对着一旁的烛火照了照。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "通透纯净、手感温和……本来是枚不错的水晶。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "——可惜它的颜色太过均匀，一点包裹体和裂隙都没有，显然有人动过手脚。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "妇人",
+          "text": "什么？可是……可是……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "很快您就会知道它的真假。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一条小龙在眨眼间从她的袖口探出头。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "唯以真知炼化虚妄。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "火光一闪，近旁的妇人并未感受到任何高温，而原本美丽的宝石已经变回了丑陋破碎的残次品。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "小龙灵巧地攀到阿黛拉肩膀上，得到了赞许的抚摸。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "干得好，小家伙。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "围观的人群骚动起来，阿黛拉满意地捕捉到几句惊叹。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "妇人",
+          "text": "您把它——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "不必慌张，夫人。我是阿黛拉·塔沃尼尔——就是那个盛产宝石猎人的塔沃尼尔家。也许您曾听过我先祖的名号。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "他们曾为路易十四寻回过法兰西之蓝和无数珍宝，那时他们所用的也是和我一样的神秘术。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "火焰将揭示所触之物的本质，破除迷障，辨明真实与虚假。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "很遗憾，女士，这枚水晶并未通过鉴定——我想它并没有什么来自土星的智性，也没能在“存在的巨链”中占到什么好位置。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "但好在您也不必掏出腰包来支付它的巨额价码了，不是吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "妇人",
+          "text": "这……您说……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "妇人的目光在占卜师与阿黛拉之间来回扫了几趟，最终，她急匆匆地跑下了台。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "接下来，轮到了这场骗局的始作俑者。阿黛拉转过身面向沉默的占卜师。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "好了，我也得对您说声抱歉，女士。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "倘若您的水晶货真价实，我就能帮您炒热气氛了。而现在——唉。\n发生这种事，我也很遗憾。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她朝着台下的观众耸了耸肩，遗憾的是无人开口回应。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "但一两秒后，掌声突兀地响起。费利西安全然不顾周围疑惑的目光，兴致勃勃地为精彩的戏码拍着手。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "阿黛拉朝她比了个“一切顺利”的手势，露出笑容。费利西安立刻把脑袋别开了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "雷曼女士",
+          "text": "很近了，你身上的影子……我马上就能看清。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "什么？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她立刻望向占卜师，恰巧对上那双直勾勾盯住她的眼睛。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "雷曼女士",
+          "text": "塔沃尼尔家的小姑娘……最年轻的那位，最崭新、最生动的那个……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "占卜师向前探身，她们之间的距离被压缩得过近了。阿黛拉的脊背窜起一阵寒意。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "雷曼女士",
+          "text": "命定之人刚刚踏上了旅途，没有回头的余地，两次碰撞，先下而后上，你将践行……践行你的命运！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "你——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "雷曼女士",
+          "text": "你注定逃不过宿命的感召！怀有私心的贤者将玩弄你的命运，死亡的深渊正等待你坠入……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "雷曼女士",
+          "text": "而那地之上的，终将等同那天之下的……你所有的终将消失，死亡亦将引导你最终的升华……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "雷曼女士",
+          "text": "直到一切都回归！回归那——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "雷曼女士",
+          "text": "——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "雷曼女士",
+          "text": "是——野兽——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "雷曼女士",
+          "text": "呃、呃……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "快叫人来！这里有没有医生？你怎么了？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "参会者Ⅰ",
+          "text": "她看起来不能呼吸了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "参会者Ⅱ",
+          "text": "发生了什么？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "等等——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "她……在笑？"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

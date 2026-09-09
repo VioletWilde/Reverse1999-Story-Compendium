@@ -1,0 +1,628 @@
+{
+  "episode_id": 10920,
+  "chapter_id": 109,
+  "chapter_title": "疯癫与文明",
+  "display_label": "",
+  "title": "灰烬安放地",
+  "subtitle": "翌日，故事在灰烬安放的地方结束。归根结底，这一夜并不比极夜更漫长。",
+  "trails": [
+    {
+      "element_id": 1092001,
+      "owner_episode_id": 10920,
+      "trigger_episode_id": null,
+      "title": "密谈",
+      "description": "1991年的信息化让信息传播是如此迅速！",
+      "action": "对话",
+      "unlock_condition": "EpisodeFinish=10920",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "一场战争开启之时，世界便开始了原地踏步。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "前进，撤退，冲锋，溃败，活在战场上不需要理解其他规则。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "这份报告上甚至没有写它是何时开始的，也没有陈述战争的诉求。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "战争还未开始",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "当然，你可以这样说。土地的疮痍总是触目惊心，灵魂的徘徊只能让人后知后觉。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "作家施加在音节与词语上的暴力，不亚于一道非人性的军令。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "士兵必须按照军令行事，文字也得跟随作家的意愿排列。"
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "这与现在发生的又有什么关系",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "这是一场看不到结局的流浪，年轻的作家可用的道标并不多。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "正如在厮杀的间隙，一些战士会捧出宗教的箴言，另一些则会流连来自亲友的书信。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "他们通常将这称为归宿，靠它盖过炮弹的轰鸣声，来提醒自己保持人性。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "但他们总会意识到自己很可能回不了家，迟早带着思乡病死在战场上。"
+                }
+              ]
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "一场梦会是最好的良药",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "当然，梦会带你去往任何地方，不管是老家的街景，还是趴在桌上写书的下午。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "直到你分不清梦和现实，最后忘了如何醒来。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "士兵将在烂泥巴战壕里徘徊一生，士官长将一遍遍地发出送死的军令。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "而词句将永远逡巡于诗篇的结构里，诗篇永恒复苏在预言的律令下……"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "诗人说话真是拗口。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "词句是文学的战场",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100929",
+      "internal_title": "第九章9-20",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "灰烬安放地"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "熊熊烈火映照在每一个人的眼瞳里——就如同这座岛屿名字的由来一样。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "冬夜燃起的火光之中，科马拉监狱的每一块砖石都在脱落、崩塌，朝着无可挽回的方向溃败。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "离开了阿莱夫的控制，科马拉监狱正在瓦解……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "那些囚犯，他们并不是真正的犯人对吗……他们还不知道发生了什么事情！他们不知道监视视线的消失，也不知道操纵者的离开。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "需要有人告诉他们这个消息，得让他们到安全的地方去……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "我们要设法保障监狱中人员的安全。至少，得等到官方救援人员的到来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "但重塑之手的仪式……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "那艘破败的小船在众人的视线中摇晃着。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "我会回科马拉监狱去的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "嗯……？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "维尔汀，你们抓紧时间出发吧！当这儿的一切都结束之后，我会给你写信的，我亲爱的朋友！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "这一路上我们都配合得如此天衣无缝，你该把这个任务放心地交给我！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "这不仅仅是协助你们，也和你们背后所代表的组织无关。因为监狱中的囚犯们，也都是我的朋友……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "我相信你。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "在救援中，请注意自己的安全，虚构集。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "如果真如狱医所说，“暴雨”即将来临，虚构集小姐，你……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "比谁都更清楚基金会那些繁复条例的第一助手陷入了沉默。她知晓，身处时代之中，面对那些对真相一无所知的神秘学家，她一个字都不能多说。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "虽然我不知道你们提到的“暴雨”究竟是什么，但别担心！对一位作家来说，所有新奇的冒险都再好不过了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "嗯，我想，没有什么比这两天的经历更具有传奇色彩了，我要把这一切都写进我的新小说里，包括你们大家……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "你的新小说，我们是否能成为它的第一批读者？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "当然！我相信文字是一条跨越时间与空间的河流。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "维尔汀，总有一天，我们会在别人的故事里再次相遇的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她最后看了一眼这些可爱的新朋友们，就像她们已经认识了数十年一样。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "女孩头也不回地跑向燃烧中的科马拉监狱。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "再见了，我的朋友！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "远方的风中传来你的呼唤\nEscucho algo en la distancia"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "在黑暗中照亮我梦想的前路\nque me indica el camino a la fantasia"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "我将前往没有悲伤的旅途\ny emprendo mi andar a una ruta real"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "你的呼唤让我前行\nhay una voz llamandome"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "归于永恒的国度\na otro lugar"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "怜爱吧\nten piedad!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "我衷心赞颂  你的自由\ny por la libertad yo te canto"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "无人能阻止我燃烧的心灵\nnada podrá parar ni vencer mi ser"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "如故事的回忆中  我轻盈地奔跑  跳跃着\ncomo en la infancia voy saltando"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "我衷心赞颂  你的幸福\nPor la felicidad yo te canto……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "所有的访客都相继离去了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "在遥遥传来的歌声里，监狱的“造物主”静静地望着起火的建筑。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "直至气喘吁吁的美洲豹出现在码头的一侧。她惊疑不定地看着面前的人类。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "狱卒",
+          "text": "梅林先生……您是梅林先生对吗？！终于找到您了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "狱卒",
+          "text": "瞭望塔里究竟发生了什么事情……？在我离开房间不久后，监狱忽然就开始崩塌，瞭望塔也不复存在了……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "狱卒",
+          "text": "我找了很久，终于在这里找到了您。请随我来，梅林先生，这里并不安全——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿莱夫",
+          "text": "没必要了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿莱夫",
+          "text": "雪还没有停，迷宫的一切却早已付之一炬。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿莱夫",
+          "text": "所有吉凶祸福，命运的奥秘，都只是一场荒谬的玩笑。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿莱夫",
+          "text": "丢失了自己记忆、身份和名字的美洲豹，一切都结束了。你不再是被困在科马拉的狱卒。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "狱卒",
+          "text": "……梅林先生，我听不懂您在说什么。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "狱卒后退了一步。属于大型捕食者的直觉让她本能地抗拒接下来的话。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她有预感，那会击碎她一直以来的信仰，还有她习以为常的生活。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "狱卒",
+          "text": "我、我要回去科马拉监狱了。我需要回去维持监狱的秩序，防止囚犯们趁乱逃跑……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "狱卒",
+          "text": "我先走了，梅林先生，您多保重……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "仓惶犹疑的狱卒忍受着烈火的高温，往监狱的方向奔去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "狱卒",
+          "text": "嘿，你！不要乱跑，这很危险！！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "无人顾忌她的呐喊。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一个又一个的囚犯夺路而逃，面色惊慌地逃离这座崩塌中的古老迷宫。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "囚犯Ⅰ",
+          "text": "我们在荒漠，在恒星，在迷宫……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "囚犯Ⅱ",
+          "text": "我们在村庄，做梦，与死亡贴脸颊……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "狱卒如同一条在海浪中彷徨的小舟，完全无法把握行进的方向。终于，一个瘦弱无力的囚犯被美洲豹扑倒在地。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "狱卒",
+          "text": "快停下！！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "放过我！我想要离开……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "你没看到吗，这里太危险了！监狱已经快崩塌了！！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "狱卒",
+          "text": "……是你，罗贝托。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "狱卒认出了这名被制住的囚犯。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "罗贝托，美洲诗社的成员，一个在监狱中热心、善良、安分守己的囚犯。一个逃跑的囚犯。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "罗贝托",
+          "text": "他们……他们都疯了！我早就知道，他们本来就是疯子……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "罗贝托",
+          "text": "这里已经着火了，他们还不愿意离开，还念叨着那些无人在意的东西……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "罗贝托",
+          "text": "我……我帮不了他们，我也没法帮他们，我从来都不理解那些他们提到的玩意儿，什么韵律、派系、主义……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "罗贝托",
+          "text": "是的，诗社的一切都很好，理想家先生人也很好，但我受够监狱了，我受够科马拉的一切了……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她趴在地上痛哭着。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "罗贝托",
+          "text": "我后悔了，从一开始，我就不该参加那些运动的，那些反抗根本毫无意义！！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "罗贝托",
+          "text": "我想去欧洲，去西班牙或者法国，我不要待在这儿了……我想回到玛格达莱娜身边。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "狱卒",
+          "text": "啊……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "美洲豹移开了制住囚犯的爪子。对方头也不回地离开了这里。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "狱卒走进了这栋她最熟悉的环形建筑。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "我衷心赞颂 你的自由"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "无人能阻止我燃烧的心灵"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "夜幕下，她看到科马拉监狱如同一堆明亮的篝火，闪烁着前所未有的、撼动人心的亮光。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "狱卒",
+          "text": "♫……"
+        },
+        {
+          "kind": "title_card",
+          "text": "乌斯怀亚·街道"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "三天前"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "德洛丝",
+          "text": "那么，它给你带来了一种怎样的感受呢？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "……感受吗？有时我觉得自己像个学习口语的孩子，正努力地念出书本第一页的第一个词汇。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "等等，这个比喻也许并不恰当，需要更为精妙、更为直观的……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "在青年作家陷入文字的漩涡之时，盲眼的女士已经独自走远了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她静静地朝着科马拉监狱的方向走去，来到了藏匿在悬崖与礁石后的码头。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "在那儿，解答疑惑的囚徒正等待着她的到来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "德洛丝",
+          "text": "一艘船。去往一片陌生的土地。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "德洛丝",
+          "text": "……一个代表过去与未来的寓言，一个曾经存在、即将到来的时代。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "德洛丝",
+          "text": "这就是您所提供的回答吗，阿莱夫先生？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿莱夫",
+          "text": "不，兀尔德女士，这是一个需要您自己去寻找的回答。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿莱夫",
+          "text": "没有人能帮助您。没有人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "德洛丝",
+          "text": "我明白了。谢谢您，阿莱夫先生，我会记住您所对我说的话。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "因此柏拉图年"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "席卷出新的是非观"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "而卷入旧的观念"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "所有人都是舞者，他们的舞步"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "迈入了野蛮铿锵的锣鼓声"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "威廉·巴特勒·叶芝：《一九一九年》"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

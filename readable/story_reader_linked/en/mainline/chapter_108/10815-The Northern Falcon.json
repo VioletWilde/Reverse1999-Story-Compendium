@@ -1,0 +1,701 @@
+{
+  "episode_id": 10815,
+  "chapter_id": 108,
+  "chapter_title": "Tristes Tropiques",
+  "display_label": "",
+  "title": "The Northern Falcon",
+  "subtitle": "A long-awaited reunion, a shocking betrayal.",
+  "trails": [
+    {
+      "element_id": 1081501,
+      "owner_episode_id": 10815,
+      "trigger_episode_id": null,
+      "title": "Good News and Bad News",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=815",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "All it takes is one lie to set off a chain reaction, and I'm afraid the butterfly effect has reached you. I have bad news. You've been betrayed."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "But there's good news, too: a certain flight lieutenant appears to be more loyal to you than to the organization she swore to serve."
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "Who's the traitor?",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "You know him—the admiral who was pitted against an enemy he couldn't possibly defeat. This conflict has left an incurable ulcer in his once lofty heart."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Yet, as a leader, he must remain unyielding in both body and mind."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Despite his continued victories on the front lines, he made a decision so counterintuitive that even his loyal adjutant found it questionable."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "The top brass always sees things differently, I suppose."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "Things never end well for traitors.",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "You must have heard the story of the Trojan Horse, right?"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Greek soldiers sneaked past the walls of Troy inside a wooden horse. One Trojan priest tried to warn his people, but was executed by the gods themselves for doing so. Soon after, all the leaders of Troy were killed by the hidden invaders."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Being killed by your enemy is bad; being killed by your ally is worse. It was an honorless way to go."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Don't get your hopes up. He's more like a desperate patient than anything. Weary from the pain of his ulcer, and frantically searching for a way out."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "In his desperation, he has clutched at an opportunity presented by none other than the Preacher herself."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Deep down, he knows he's backed himself into a corner."
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "I'm done hearing bad news.",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "Great. I'm done reading reports anyway."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "I look forward to your wise decisions. We need some good news for a change."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "Hopefully, he knows what he's doing.",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100821",
+      "internal_title": "第八章8-15.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "The Northern Falcon"
+        },
+        {
+          "kind": "title_card",
+          "text": "Igor's Office"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The old admiral picks up the file beside him and flips through the young pilot's records."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Admiral Igor",
+          "text": "Arcanist. Abuses alcohol ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Admiral Igor",
+          "text": "And loves to fight."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Admiral Igor",
+          "text": "Messenger!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Admiral Igor",
+          "text": "Call Lieutenant Lilya. Tell her to meet me at the training ground."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He rises from his chair and heads to the training ground, where the blood of the traitors still stains the grass."
+        },
+        {
+          "kind": "title_card",
+          "text": "Zeno Base"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Lilya approaches the admiral, her flask clutched in her hand."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Admiral Igor",
+          "text": "How does it compare to the drink back home?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "This stuff saps your energy. Makes you feel sleepy."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Admiral Igor",
+          "text": "Just like this land. This place is always submerged in a half-dead stupor."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Admiral Igor",
+          "text": "Poverty. Chaos. To them, the future feels farther away than the sun beating down from above."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "While the sun casts its light from above, many choose to dance in the darkness of the sewers."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Admiral Igor",
+          "text": "Tell me, Lieutenant. What do you think of the Foundation?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Is this some kind of test?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Admiral Igor",
+          "text": "No, no. Just the curiosity of an old man. I often wonder how the younger generation views the organization."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Well, unlike those Manus maniacs, the people at the Foundation are at least open to reason."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Don't get me wrong, they are stubborn. But overall, I think they're good people."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "The Timekeeper's red-headed sidekick, for example."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Sonetto is too busy with administrative work to join the Timekeeper in São Paulo."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "She's a stickler for the rules. But it's so boring to follow all the regulations. That being said, it'd probably be even worse without them. Total chaos, actually."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Anyway, at the end of the day, someone has to do the thankless jobs. And the people at the Foundation are the only ones willing to do them."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A subtle hint of approval flickers in the admiral's eyes."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Admiral Igor",
+          "text": "As the Foundation's most loyal partner, Zeno has always been committed to creating a brighter future for both arcanists and humans."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Admiral Igor",
+          "text": "That includes fighting Manus Vindictae, as well as any other conflicts and chaos in the world."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "In São Paulo, for example, Zeno maintains the city's fragile peace in its own unique way."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Uh-huh, it's a mindless gun. The Foundation points, and Zeno shoots."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Admiral Igor",
+          "text": "Precisely. Countless soldiers have perished in the \"Storm,\" and they've all been deemed \"necessary sacrifices.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "I have to tell you, I don't like Zeno's role in all this."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Admiral Igor",
+          "text": "Neither do I. But an order's an order."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Admiral Igor",
+          "text": "Even if it sends your soldiers to die meaningless deaths against an enemy they couldn't possibly defeat."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Admiral Igor",
+          "text": "Still, we march on without hesitation, pushing our weary bodies deeper into the \"Storm.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Admiral Igor",
+          "text": "But how much longer can Zeno keep going, Lieutenant? How long until our knees buckle and we fall to the ground?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "I don't know, and I don't care."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She takes another swig of sweet liquor."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Sweet as the oblivion of a dream."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Admiral Igor",
+          "text": "Arcana isn't dead."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Admiral Igor",
+          "text": "We detected life signs after the explosion of the vacuum bomb."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "That's impossible."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Admiral Igor",
+          "text": "Yes, it is impossible. It would take a miracle for her to survive. Do you believe in miracles, Lieutenant?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "I'd sooner believe the ramblings of a drunkard."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Admiral Igor",
+          "text": "That may be the case, but when a miracle worker appears, there will always be people who follow them, like sheep follow a shepherd."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Admiral Igor",
+          "text": "So, when the desertion incident occurred, I wasn't surprised. I was infuriated, however. Not because they abandoned Zeno, but because they murdered their own officer."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Damn traitors."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Admiral Igor",
+          "text": "Back before the first \"Storm,\" human and arcanist troops got along well."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Admiral Igor",
+          "text": "We set aside our origins and united under a common banner."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Admiral Igor",
+          "text": "Our bloodlines meant nothing next to our bond as comrades in arms."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Admiral Igor",
+          "text": "But the \"Storm\" changed everything."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Time rolled back, and with each regression, the brilliance of arcanum shone ever brighter."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Eventually, it formed a rift between them."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Admiral Igor",
+          "text": "As a soldier, I must obey my superiors. I sent my men as ordered, no question asked."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Admiral Igor",
+          "text": "But ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Igor looks hesitant."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Admiral Igor",
+          "text": "Does it really make no difference if the place they die a martyr's death isn't a battlefield? Like war, these things are never simply a matter of \"black and white.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Admiral Igor",
+          "text": "Lieutenant, what do you think of the Timekeeper?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "I trust her completely."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her statement is short and powerful."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Admiral Igor",
+          "text": "Sounds like you'd gladly sacrifice yourself for her."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Admiral Igor",
+          "text": "We need more leaders like the Timekeeper."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Admiral Igor",
+          "text": "*sigh*"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Admiral Igor",
+          "text": "Manus Vindictae, the Foundation. They're just two sides of the same coin, aren't they?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He sighs again. Then he extends Lilya an invitation."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Admiral Igor",
+          "text": "The Foundation, the Pax Security Council, Manus Vindictae ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Admiral Igor",
+          "text": "Which path do you think the Timekeeper will eventually take, Lieutenant?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "I trust in Vertin's decision."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Admiral Igor",
+          "text": "Hm. I see."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Are you sure this isn't a test from Zeno?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Admiral Igor",
+          "text": "No, this has nothing to do with Zeno. Right now, I speak to you as simply Igor, not the admiral."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "With a wave of his hand, he takes his leave."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "As he vanishes under the shadow of the colonnade, soldiers rush into the training ground. They surround Lilya, their guns pointed firmly at her."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "What's going on?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Moldir",
+          "text": "Lieutenant Lilya, you are under arrest for the assault on Admiral Igor."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A lie that makes Moldir's ears turn red with shame."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Assault?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A crime for which no evidence need be provided."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Oh, I get it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She grips her trusty Red 38. After what happened in Texas, it hasn't left her side."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Moldir",
+          "text": "Stand down and surrender, Lieutenant."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Lilya downs the contents of her flask."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Tsk, even the booze here tastes lame."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Come on, then. You're not taking me down without a fight."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Moldir",
+          "text": "Soldiers! Fire!"
+        }
+      ]
+    },
+    {
+      "script_id": "100822",
+      "internal_title": "第八章8-15.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "It's useless. There are far too many of them for Lilya to escape."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Moldir",
+          "text": "There is no use resisting, Lieutenant."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Disarmed, Lilya is forced to her knees, and her hands are bound behind her back."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Tell me, what's Igor planning?!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Moldir",
+          "text": "Father will lead us to a future where meaningless sacrifices are no more."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Moldir",
+          "text": "The die has been cast."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Moldir",
+          "text": "I hope you know that this is nothing personal. I'm just following orders."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A fate as cold as the wind that sweeps across Marie Byrd Land."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Moldir",
+          "text": "Take Lieutenant Lilya to the holding cell. No one is to harm her without orders from the admiral or me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "What?"
+        },
+        {
+          "kind": "title_card",
+          "text": "Holding Cell"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Moldir",
+          "text": "We are traitors to Zeno now, Lieutenant."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Though these words disgust her, she forces them out."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Moldir",
+          "text": "I am loyal only to my father."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Moldir",
+          "text": "It's a pity, really. I would've liked to work with you in the future."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The shackled pilot stares furiously at Moldir's dark silhouette."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "How long has he been planning this?!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Moldir",
+          "text": "Ever since the Preacher gave Father a gift and a path to a brighter future."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Moldir",
+          "text": "Live or die, Lieutenant, I will never betray my family."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Moldir",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The door closes, leaving Lilya alone in the darkness of the cell. Moldir issues a few instructions to the guard before handing him the key."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "It will soon be time to welcome her brothers and sisters."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "For there is no turning back from the path her father has chosen."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Trucks led by young officers loyal to Admiral Igor roll into the base, carrying elite Zeno troops from across the country."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "To annihilate Manus Vindictae, to destroy the Apostles Brotherhood, and for the future chosen by the admiral."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "In a world of lies, the traitor's blade has been raised."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Prison Guard",
+          "text": "Don't worry, young comrade. Just hang in a little longer."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "...?!"
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

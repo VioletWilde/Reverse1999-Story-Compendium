@@ -1,0 +1,778 @@
+{
+  "episode_id": 3210109,
+  "chapter_id": 32101,
+  "chapter_title": "A Flowing Feast",
+  "display_label": "",
+  "title": "The Seer",
+  "subtitle": "Didn't you hear the rule? \"No more talk of fate.\" ... Oh, I just broke it, didn't I?",
+  "trails": [
+    {
+      "element_id": 3210304,
+      "owner_episode_id": 3210109,
+      "trigger_episode_id": null,
+      "title": "From a Friend",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=3210109",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A kind friend sends you a fortune-telling postcard, saying the pattern on the back reveals your fate for the week. You flip it over and see:"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "Soft, winding curves.",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "Curling around every solitary nail."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "Sharp, angular lines.",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "Even the paper seems stung."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "A square missing one corner.",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "Still a square, as you can tell."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "A full circle.",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "The most complete, most flawless pattern."
+            }
+          ]
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 3210404,
+      "owner_episode_id": 3210109,
+      "trigger_episode_id": null,
+      "title": "About That Name ...",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=3210109",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "And there she was, glowering at the empty passenger seat, yelling as if quite alarmed by someone inside."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "I believe she called her ... Félicie? No ... Félicienne."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Yes. That was her name. Indeed, I once knew a Félicienne as well."
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "Do you believe it's the same person?",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Well, it is far from a common name; that much is certain."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "But then such a coincidence would border on ... theatrical, no?"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "I should like to think that fate has more elegant ways of crossing my path with Brume's. Though, of course, it is possible that fate favors the comedy of the absurd."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Heh heh, you do know how to make me laugh."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "But Félicienne is no Napoleon. She never became a household name."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Perhaps her demeanor and her air of self-assurance gave you that idea, but I advise you to look a little bit closer."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "That said, the Félicienne I knew would not take well to being mistaken for just any Félicienne."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Before the Second Industrial Revolution, the blood in her veins was more prized than liquid gold."
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "She's of noble birth, isn't she?",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "Indeed. Her family was once renowned for their command over thunder and lightning. Though their influence faded when humans learned to harness electricity for themselves."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "Even so, the fortune her ancestors gathered would keep the family running for another two centuries. More than enough for our Félicienne to live a truly opulent lifestyle."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "The Barons were known as fighters, heroes, Priests and Priestesses of Lightning. That legacy was passed down through generations."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "Even a century after the last aluminum furnace bearing their name went cold, she still remembers the heat of fame, of success, of envy."
+                },
+                {
+                  "kind": "choice",
+                  "speaker": "",
+                  "text": "So she comes from a time before the \"Storm.\"",
+                  "edge_label": "",
+                  "branch": [
+                    {
+                      "kind": "dialogue",
+                      "speaker": "???",
+                      "text": "Precisely. When she was born, the \"Storm\" had not yet begun."
+                    },
+                    {
+                      "kind": "dialogue",
+                      "speaker": "???",
+                      "text": "Not that it matters much, you see. In times like these, those born before the \"Storm\" often still cross paths with those of another era. Just like you and your friends, and myself and Brume."
+                    }
+                  ]
+                },
+                {
+                  "kind": "choice",
+                  "speaker": "",
+                  "text": "She's been reversed.",
+                  "edge_label": "",
+                  "branch": [
+                    {
+                      "kind": "dialogue",
+                      "speaker": "???",
+                      "text": "Yes. The Félicienne I knew disappeared long ago."
+                    },
+                    {
+                      "kind": "dialogue",
+                      "speaker": "???",
+                      "text": "Absent a miracle, I doubt anyone will ever see her again."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "She's a powerful arcanist, isn't she?",
+              "edge_label": "",
+              "branch": []
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "Isn't this Félicienne rather important?",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 3210504,
+      "owner_episode_id": 3210109,
+      "trigger_episode_id": null,
+      "title": "From a Friend",
+      "description": "",
+      "action": "",
+      "unlock_condition": "ChapterMapElement=3210304",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A kind friend sends you a fortune-telling postcard, saying the pattern on the back reveals your fate for the week. You flip it over and see:"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "Soft, winding curves.",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "Curling around every solitary nail."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "Sharp, angular lines.",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "Even the paper seems stung."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "A square missing one corner.",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "Still a square, as you can tell."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "A full circle.",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "The most complete, most flawless pattern."
+            }
+          ]
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "203213",
+      "internal_title": "【3.2】迁流的盛宴09",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Célia? It's Adèle! Are you home? *sigh* I thought not."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Adèle turns to the next door, pulling a key from her pocket."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "I-I live right across the hall. There must be something of hers in there."
+        },
+        {
+          "kind": "title_card",
+          "text": "Apartment"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her little apartment is festooned with almost as many ornaments as the Parlor of Crystals—just with less glitter."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Uncut stones, exhibition pamphlets, city maps, sewer maps, an assortment of repair tools ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Hmm. Come on, Cici. You must've left something here."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Among the stacks upon stacks of odds and ends, Beryl's eyes land on a framed photograph."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "Ah, this is her, is it not? The two of you seem very close."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "In the black-and-white photo, the figures feel alive: one little girl gleeful, the other so nervous she's nearly out of frame."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Almost like sisters, actually. My parents were always traveling, so her family often took care of me—making dinners, that sort of thing."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Adèle answers Beryl's questions as she pulls open drawer after drawer."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Looks like the quiet type, doesn't she? But she's hugely ambitious underneath it all."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "She's certainly set her sights higher than I ever have."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Ah, come on now. When I don't need them, they're all over the place, but now ... Aha! Will this do?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "From the bottom drawer, she lifts out a stack of letters."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The stamps are from all over the world, though the envelopes themselves look the same, each bearing a single neat missive."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "\"To our daughter, Adèle Tavernier.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Beryl picks one up for a closer look. The stamp's edges curl slightly, yellowed, mismatched against the fresh white envelope."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Madame Bouanich?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Adèle looks to her with urgency but finds a worrisome response on Beryl's face, a knowing look, as if she can see right through her."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "Letters ... Yes. They will do nicely."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Beryl glances at the empty drawer by Adèle's feet—the least conspicuous spot on a well-used desk."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "It is little wonder Célia came to be like family to you, with your own so often away."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Right. Not that I mind really. They've hardly been around since I was little."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "I see. Shall we begin? Let us find this chosen family of yours."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She begins leafing through the letters, treating it as part of some quiet routine."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her eyes lose focus, but her hands keep moving, tracing every letter, searching for the invisible gleam between the lines."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Finally, the light returns to her gaze."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "I see her ... swallowed by the city ... sinking beneath the ground."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "In a relic of the Great Plague ... In the world below ... Dancing with the dead."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Swallowed? Beneath the ground?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She frowns, first with concern and then curiosity, until she suddenly brightens."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Could it be the catacombs? Oh, of course! The Dance of Death she talked about. It's there!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "She must've gone to see the mural! Ah, Célia, you never pick the easy places, do you?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "You had me worried, madame—the way you said it. It sounded almost like she'd passed on to the other side."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Now certain of her goal, she jolts up and heads for the apartment door, but Beryl raises her hand."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "I see you there too, Adèle."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Hmm?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "And the shadow of death follows close behind."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The words don't feel like a warning. They're a statement. The diviner looks on past the confines of her room as if seeing something far in the distance."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Yet Adèle cannot help but laugh."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Hah. It's hardly the first time I've been warned about a shadow of death, is it? There's no way I'm leaving Célia there by herself after what you've said."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Your vision may be right, but still, I'll make my own decision."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Beryl watches her from behind her calm, translucent eyes."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Eyes that never fix on the moment, always beyond, always."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Moments pass, and then she speaks."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "I expected no less."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The two of them return to the street below. But as she walks, Adèle slows her steps toward the car, as if moving slower would stretch time itself. Though she may have some idea where her friend is, she's only grown more confused."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Madame Bouanich, if you'll pardon my asking, can dreams be controlled?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "Think first of matter as the lower form of spirit and spirit as the refined form of matter."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "When we dream, we tread in the spiritual world above, and thus, we may shape it, just as we do our material world."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Then is it possible for a diviner such as yourself to decide what I dream?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A question aimed at the heart of it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Beryl tilts her head; the words aren't sharp enough to pierce her."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "I did not interfere with your dream, Adèle. But if your concerns are too great, you do not need to accept my readings."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "No, I didn't mean it like that."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "I'm still trying to make sense of all this—a dream turned into reality. And I've met two diviners in the past couple of days, and one of them is dead. I felt I had to ask ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "I understand. I would feel much the same were I in your position."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Thank you. Uh, I should take you home, madame. I know a shortcut."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She opens the passenger door—a professional habit—only to realize the seat is occupied."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Félicienne?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Félicienne",
+          "text": "You're just getting better and better, aren't you? Leaving me waiting once again. What's your excuse this time, hm?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Despite it all, Adèle feels genuine relief to see her once-missing employer."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "I ... Where have you been? There are strikes going on all over the place, Félicienne. You've got to stop sneaking off and roaming around by yourself!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "H-Hold on. Where did you get that necklace?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Félicienne",
+          "text": "Excuse me? Who are you to lecture me? You're the one who left me alone in this car!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The refined woman picks up a macaron with gingerly grace, but she doesn't take a bite, her lips preoccupied instead with launching her signature razor-sharp critiques."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "That necklace! Célia gave it to me! How did you get it?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Adèle reaches into her pocket, but it's empty."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Félicienne puts down the sweet and lifts the necklace at her chest."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Félicienne",
+          "text": "Célia gave it to you, did she? *scoff* Are you mad? This is a priceless national treasure, my dear, not a friendship bracelet."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Félicienne",
+          "text": "I say this to you for the last time, and I shall not repeat it again."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Félicienne",
+          "text": "This is mine and always has been mine, the finest of all treasures I collected on my many adventures."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Félicienne",
+          "text": "It's a relic of a more beautiful era, shattered and distorted, along with the vision of the Baron family—my family."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Félicienne",
+          "text": "This jewel is mine, do you hear? Mine, mine, mine!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Félicienne",
+          "text": "She clenches the diamond in her fist, staring daggers at Adèle. Though the look in her eyes doesn't feel like rage."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She finds a pocket between disdain and malice, like finding a rat mid-feast in her pantry."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "What are you talking about?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "Is something wrong, Adèle?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Beryl steadies the staggering driver from behind."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "You are still worrying about Félicienne, is that so?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Well, not anymore! Turns out she's been waiting for me in the car! And Félicienne, what do you mean it's yours?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Félicienne?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Beryl follows Adèle's pointing finger toward the passenger seat."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her voice catches."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "But, my dear."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "There is no one in your car."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "You have been arguing with an empty seat since you opened the door."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Adèle blanks, mind and tongue stammering at the colliding dissonance of what was and is."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "How?"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

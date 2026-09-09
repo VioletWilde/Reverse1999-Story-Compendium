@@ -1,0 +1,807 @@
+{
+  "episode_id": 3110102,
+  "chapter_id": 31101,
+  "chapter_title": "长夜鸣笛",
+  "display_label": "",
+  "title": "羊肠线",
+  "subtitle": "命运——或者说，看不见的线使她倒地不起。",
+  "trails": [
+    {
+      "element_id": 3110102,
+      "owner_episode_id": 3110102,
+      "trigger_episode_id": null,
+      "title": "传说背后",
+      "description": "一段不为人知，抑或人尽皆知的往事。",
+      "action": "交互",
+      "unlock_condition": "EpisodeFinish=3110102",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "“多瑙黎明号”传闻之一"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "“多瑙黎明号”曾是多瑙河沿岸移动的凡尔赛宫。从伊斯坦布尔至维也纳，餐车的银器碰撞如清脆乐声，花瓶里插满缀着露珠的紫罗兰，连锅炉工都带着哈布斯堡宫廷侍从的派头（至少他们自己如此认为）。但好景不长，当比汽笛更响亮的枪炮声占了上风，它便被抛弃，如同车轮倾轧过的小小尘埃，随风飘散，最终落于仓库深处。\n\n不久后，维也纳-潘诺尼亚运输公司对“多瑙黎明号”进行了翻修。他们剥掉它身上最后一点儿天鹅绒，将硬到咋舌的座椅塞了进去。车上的银质餐具被撤走，法式料理也从菜单上消失，取而代之的是味同嚼蜡的牛肉炖菜。现在的它，更像一位老派绅士，穿着不合身的礼服，以维持自己那点儿岌岌可危的体面。\n   \n说到这儿，自然就得提起那位神秘失踪的前任列车长，赫尔曼先生。他面容惨白，眼窝深陷，嘴角下垂，浑身充斥着一股病态的神经质——他的制服不曾有过一丝褶皱，连怀表链子都要与纽扣平行；他总戴着那块儿政府授予他的银闪闪的勋章；他从不摘下手套，哪怕在吃饭的时候；没人见过他睡觉的模样，他如同幽灵，在午夜穿行于各个车厢例行检查。“多瑙黎明号”是他的家，他熟知这儿每一位乘客的癖好，每一张坐垫的磨损程度，甚至车窗上每一处污渍的位置。当然了，这都是我从那些热心的乘客那儿听来，再一点一点拼凑出来的……\n\n三年前的一个夜晚，列车行经布达佩斯境内某个临时停车站点后，这位列车长像被轨道旁的浓雾吞噬了一样，消失得无影无踪……至今，仍无人知晓他的去向。\n\n不过，某个故事仍在“多瑙黎明号”上流传着：列车上的血食怪带走了他，他的身体被藏到了某一节车厢里，他的眼球经过防腐处理，被巧妙地钉在一号与十号车厢天花板的缝隙间，方便他死后，亦能注视着他深爱的“多瑙黎明号”——\n\n直至“永恒”……\n\n——《UTTU》编辑：空心木"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "203103",
+      "internal_title": "【3.1】长夜鸣笛02",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "意外留下的余波仍在车站回荡，争吵与惊叫声此起彼伏。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "瘦小的身影穿行在这片混乱之中，灵活而谨慎地避开纷争。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "呼，那个缠人的家伙没有跟上来……就在这里上车好了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她长出了一口气，扶在膝盖上的手却开始颤抖起来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "胃部的空虚开始扩大，转为渴望，转为疼痛，让她开始有些头晕眼花。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "……忍住，野树莓，忍住。车上一定会有好吃的……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "当务之急是先上车……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她安抚着自己的肚子，缓慢地直起身来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "如同一位悠闲地等待检票上车的乘客，她手插裤袋，汇入队列之中，漫不经心地看向前方正面露难色的小乘务员。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "车门前方，乘务员摊开双手，安抚、劝解着四周情绪激动的乘客。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "乘务员女孩",
+          "text": "请、请您稍候一会儿，乘务组正在核实身份……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "傲慢的乘客",
+          "text": "抱歉，我现在必须上车——立刻、马上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "傲慢的乘客",
+          "text": "想必你们也看见了，那些平民是怎么惹出骚乱的……这样的噩梦没人想经历第二次。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "乘务员女孩",
+          "text": "我完全理解您的心情，索尼娅女士。可是列车有规定，请您再等等……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "眼前的情境显然超出了乘务员日常处理事务的复杂程度。她涨红了脸，不知所措地挡在乘客与车厢门中间。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "索尼娅",
+          "text": "恕我直言，你的眼罩是遮住了全部两只眼睛吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "索尼娅",
+          "text": "所有人都瞧见了，我的票被那个无礼的家伙抢了过去，现在还给弄没了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "索尼娅",
+          "text": "不必要的程序请立刻省去。否则我将立即给铁路局写信，详细叙述今天发生的一切。我相信他们会对这起小小的“意外”很感兴趣……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "乘务员女孩",
+          "text": "女士，您先等一下好吗？我需要请示我的上级——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "乘务员单手便将激动的乘客拦在车门外。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "索尼娅",
+          "text": "噢！你这粗鲁的丫头……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "艾玛。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "车厢中传来了厚重的女声。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "我来解释吧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "身着制服的女人走到车门前，身躯在地上投下一片巨大的阴影。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "嗯，那是……？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "嗅到危险气息的女孩下意识往后躲了两步。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "索尼娅",
+          "text": "不必浪费时间，谁来解释都一样……啊！你、你是？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "为您解决问题的人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "索尼娅",
+          "text": "缝线、伤疤……哦！想必您就是传闻中的那位列车长……？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "索尼娅",
+          "text": "咳，我的票被人……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "原本尖锐的声音渐渐低了下去，竟带上了一丝紧张。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "刚才的情况我已经了解了。请放心，女士。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "车票都经过了神秘术的特殊处理，无需担心被人冒用。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "而且，这类事件很常见，我们几乎每天都会处理。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她面无表情，眼神已瞥向那最不起眼的角落之中。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "从未有过遗漏。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "——！！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "女孩对于危机的嗅觉向来灵敏。她当即转身，可刚打算迈出脚步——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "哎哟！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "右脚仿佛被灌了铅，将失衡的女孩拽倒在地。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "微弱的电流悄然游走在女孩脚下，仿佛有意识一般将她困在原地。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "嘶，好麻……那家伙的神秘术？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "脑海中不期然闪过一个画面。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一步、两步……脚步声越来越近。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "车票上的神秘术会指引我们找到它，它离我们很近。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "冷静，冷静……野树莓。这没什么大不了的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "所有事情都是这样发生，然后被你解决……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "女孩深吸一口气，嘴角上扬，确信自己摆出了此生最谄媚的笑容，随后转过头去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "晚上好，女士……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "——！！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "晚上好，这位小姐。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "我……我现在感觉不太好……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "请交出您裤子左边内侧口袋里的车票。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "你怎么知道——呃，不好意思，您指的是什么票？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "“多瑙黎明号”的车票。билет за влак，车票。听明白了吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "小姐。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "声音如同压在肩膀上的力量般，沉重地落在她的身体上，让她无法逃离。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "我认错，我认错！我没有偷，我只是……只是看到它飘在空中，就抓住了……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "呃……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "女孩身体一轻，衣领忽然勒住了脖子。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她被列车长轻松拎起，脚尖离地，瘦小的身躯在半空中轻轻飘荡。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "……？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她难以置信地看着自己晃来晃去的鞋尖，一时间连情绪都迟到了半拍。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "艾玛，把她的车票拿出来，它在——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾玛",
+          "text": "裤子左边内侧的口袋里！我都听见啦。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "头戴眼罩的乘务员笑眯眯地走了过来，朝野树莓伸出手。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "狗屎！放我下去——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "嘿，别随便碰我！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "你似乎没有办法停止说话。需要帮忙吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "列车长指尖隐约泛出发光的符文。女孩只能紧闭上嘴，不再言语。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾玛",
+          "text": "咦……硬币、红色的药瓶，还有布条和笛子！你的魔法口袋能装这么多东西呀！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "……哼。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "乘务员小心翼翼地翻动女孩的口袋，凑近她的耳畔。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾玛",
+          "text": "别害怕。列车长不会真的伤害你，我们只想把车票还给它的主人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾玛",
+          "text": "找到啦！索尼娅女士，请确认一下，这是您的车票吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "乘务员朝车厢里招招手。焦急的乘客女士快步走来，接过那张染血的车票。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "索尼娅",
+          "text": "啊，没错！就是它，我那多灾多难的车票！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她将车票捧在手心，像一个祈祷的女孩。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "女孩泄气般安静下来，如同一块悬挂在树梢随风摆动的破布。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "几枚硬币，一个药瓶，几片破布条和一支笛子。这就是她的全部了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她不愿意数这是第几次了——捡到好运，却又很快弄丢了它。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "我只是……太饿了，实在太饿了。我没有想伤害任何人……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "有钱人总有上车的法子，我只是想吃顿饱饭……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "最后一点委屈被她咽下肚子，她知道这并没有用。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "好了，票也还了。放我下来，我自己会滚得远远的……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "看来，你又给我惹麻烦了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "心灰意冷之际，一个不曾料想到的“陌生人”来替她解了围。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "深发深眸的调查员信步而来，目光掠过被拎在半空中的女孩，毫无波澜。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅尔维斯",
+          "text": "晚上好，列车长女士。您手中的这位小姐——她是我的助手。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅尔维斯",
+          "text": "请问她为您的工作造成什么不便了吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "调查员手里拿着一顶帽子，她顺手将其扣回女孩的头上，物归原主。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "……？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "女孩愣了一瞬，立刻理解了状况。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "对、没错！我是她的助理野树莓！你可算找到我了，头儿……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "雪下得那么大，我都不知道该上哪儿找你……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "列车长放下女孩，平静地看着眼前口音、穿着和气质都毫无共同点的二人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "助手？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "是的，我们有一些非常要紧的事务在身，要不是分开了的话……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅尔维斯",
+          "text": "你已经耽误不少时间了，我们走吧——这次记得拿好你的车票。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一张崭新的车票递交到野树莓的手里。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "这原是为七十七分队的成员准备的车票之一，现在它有了新的主人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅尔维斯",
+          "text": "如果再发生类似的事情，我会按工作规章准则来处理。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "……谢谢您。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "女孩连连点头，握紧车票，朝调查员投去复杂的一瞥。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "……好吧，二位。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "那我代表“多瑙黎明号”列车欢迎两位客人，祝你们旅途愉快。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她轻轻颔首，摆出一副公事公办的模样。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "我们已经因为刚才的事故耽误了不少时间。这里风雪很大，请两位先上车取暖。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "若有其他事宜，我们可以在车厢内详谈。"
+        },
+        {
+          "kind": "title_card",
+          "text": "乘客车厢"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "乘客们陆续上车，兴奋地四处观望着。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "乘客Ⅱ",
+          "text": "噢……这辆列车似乎比预想的还要更加奢华。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "戴帽子的绅士",
+          "text": "毕竟是昔日的豪华专线。听说在它的黄金时代，每一趟车都是贵族与名流们争相集会的社交场合……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "调查员在人群中四处张望了一会儿，依旧未能发现她的同伴们。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "通讯器也静默着，没有等到任何回复。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅尔维斯",
+          "text": "……看样子，任务得改为单人执行了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅尔维斯",
+          "text": "呵……倒也不错，回去还能向基金会多要一笔奖金。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她轻叹一声，眼角的余光捕捉到一抹鬼鬼祟祟、正缓缓蠕动着试图离开的身影。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅尔维斯",
+          "text": "你似乎走错方向了，野树莓小姐——我们的座位在那边。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "啊哈，是吗……？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "女孩尴尬地挠了挠头，目光落在调查员轻轻握住女孩胳膊的手上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "我很感谢您，女士……多亏了您我才能上车。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "可我现在很穷，手头没什么可以报答您的。等到了布达佩斯，如果您还记得我……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅尔维斯",
+          "text": "不用这么着急离开，野树莓小姐。我还有几个问题需要你来回答。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "呃……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "拉扯间，车厢内忽然安静下来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "女孩顺着人们的视线往后望去，列车长与乘务员正一同站在车门前方。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "欢迎大家乘坐由维也纳-潘诺尼亚运输公司经营的列车“多瑙黎明号”。\n我是列车长告死鸟，这位是主乘务员艾玛。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "“多瑙黎明号”东起伊斯坦布尔，西至维也纳，总路线约800英里，中间将经停尼卡与布达佩斯两个站点。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "由于刚才的事故，我们还需要配合当地政府进行调查。为此，列车将推迟至晚餐后启动。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "为表歉意，我们为各位准备了比以往都要更加丰盛的免费餐食。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "免费的餐食……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "女孩的眼睛“唰”的亮了起来，与此同时，剧烈的饥饿感也一同涌入。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她按住自己略带颤抖的手指，又迅速调整了表情，掩饰住自己的虚弱。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅尔维斯",
+          "text": "看来你对免费的食物很感兴趣。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "调查员微笑着看向女孩，语气温和。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅尔维斯",
+          "text": "如果你需要的话，可以吃掉我的这一份。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅尔维斯",
+          "text": "不过，作为交换，我希望你能老老实实地待在这儿，别到处乱跑，更别再惹上什么麻烦。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "哇哦，听上去可真诱人！可是……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "女孩无辜地眨了眨眼。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "我只是个普通人，不值得您这样的女士为我费心。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅尔维斯",
+          "text": "我很快就会放你离开。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "调查员笑眯眯地凑近女孩，压低了声音。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅尔维斯",
+          "text": "如果你真如你所说的那样“普通”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅尔维斯",
+          "text": "那位列车长很敏锐，如果被她发现我们并非同僚，你恐怕很难继续待在车上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅尔维斯",
+          "text": "更何况……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她环顾四周逐渐落座的乘客们。贵族、军人、作家……人们热烈地攀谈着，对即将展开的旅途充满了期待。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅尔维斯",
+          "text": "这趟车远不如它看起来那样安全。"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

@@ -1,0 +1,602 @@
+{
+  "episode_id": 2110119,
+  "chapter_id": 21101,
+  "chapter_title": "77号往事",
+  "display_label": "",
+  "title": "飘",
+  "subtitle": "南方的土壤潮湿而丰饶，那风声一直绵延吹向远方。",
+  "trails": [
+    {
+      "element_id": 2110108,
+      "owner_episode_id": 2110119,
+      "trigger_episode_id": null,
+      "title": "卫生指南",
+      "description": "女主人们时常将清洁视为头等大事，比旁人幸运的是，这一位的清洁对象也有同感。",
+      "action": "交互",
+      "unlock_condition": "EpisodeFinish=2110119",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "蓝手帕旅馆清扫记录"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "第4周\n例行清洁\n105房间 呕吐物弄脏地毯\n108房间 清洁墙壁上的污渍与指纹\n205房间 玻璃破损，待联系送货人更换\n\n第5周\n例行清洁\n105房间 呕吐物弄脏地毯 该来点教训了\n211房间 需替换新的淋浴头\n205房间玻璃裂痕消失？\n\n第8周\n例行清洁\n前台 桌子需维修\n102房间 地板烧焦 我没看错\n焦痕消失了，好孩子\n\n第10周\n例行清洁\n105房间 血迹，地毯报废 惩罚时间到\n202房间 玻璃完全碎裂\n已自我修复，亲爱的孩子值得一点奖励\n就在今晚\n105，当然"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 2110109,
+      "owner_episode_id": 2110119,
+      "trigger_episode_id": null,
+      "title": "晚安好梦",
+      "description": "一首被记录的歌，飘荡于无数个夜晚的梦中。",
+      "action": "交互",
+      "unlock_condition": "EpisodeFinish=2110119",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "摇篮曲"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "合上眼睛，合上眼睛，我的小乖乖\n安宁的夜晚已经到来\n摇篮之中，一个美梦\n将把你招待\n\n合上眼睛，合上眼睛，我的小乖乖\n猫头鹰捉鼯鼠多么愉快\n一串一串，挂上枝头\n进餐多自在\n\n合上眼睛，合上眼睛，我的小乖乖\n荒野上黑马儿正在徘徊\n不要去听，不要害怕\n马蹄多轻快\n\n合上眼睛，合上眼睛，我的小乖乖\n谷仓中装满仓惶与惊骇\n早餐备好，满足香甜\n等待你醒来"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "202129",
+      "internal_title": "【2.1】77号往事-19",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "这是……？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "旅馆之外，柔和的晨曦拂照着大地，飞行员略带疑惑地望向了眼前的人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "头儿，你还好吧？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "现在没事了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "在你离开的时候，有一个好消息和一个坏消息——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "别让我选一个了，快说吧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "好消息是，我们找到了数羊羔。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "坏消息是，我们惹上了一个新的麻烦——这个旅馆是一个充满生命力的意识体，它会源源不断地制造怪谈、散播恐惧，也许以后会成为超自然的神秘学家。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "这需要严密的监视和管控。我们需要基金会的帮助，不能任由它在此地发展。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿尔古斯",
+          "text": "……老板，我的任务已经结束了。现在，我得去镇子上找凯拉。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她望向更遥远的地方。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿尔古斯",
+          "text": "噢……我还答应过一个年轻人，要帮他找到他的母亲……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿尔古斯",
+          "text": "我要先走了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "我该怎么把佣金寄给你呢？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿尔古斯",
+          "text": "佣金？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "雇佣兵爽朗地笑了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿尔古斯",
+          "text": "我们是朋友，小姐，不需要您再给些别的了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "道别之后，她向着永无终点的路走去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "好了，头儿，现在打听到兀尔德的消息了吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "羊羔动了动她柔软的耳朵。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "数羊羔",
+          "text": "这就是你们来找我的目的吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "数羊羔",
+          "text": "当然，我可以帮您询问，这并不是什么难事……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她说着，闭上了眼睛。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "……睡着了？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "自原野而来的微风轻柔地吹拂着她柔软的耳朵，如同一缕无形的蛛丝在她的耳边游移。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "数羊羔",
+          "text": "我在听……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "数羊羔",
+          "text": "噢……我听见了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "羊羔睁开了眼睛。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "数羊羔",
+          "text": "远方的风告诉我，最近一次收到兀尔德女士的投稿，是来自于圣保罗荣军院。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "数羊羔",
+          "text": "那的确是一篇优秀的稿件，但除此之外的信息，《UTTU》并不知情。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "……好。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "数羊羔",
+          "text": "今晚。你们或许还能够收获一个不错的梦。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "数羊羔",
+          "text": "我已经为这次的专题访谈收集到了足够的资料……相信这会是一篇很不错的报道。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "数羊羔",
+          "text": "到时候，我也会在编辑栏里署上您的名字——蓝手帕小姐。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "蓝手帕",
+          "text": "我？可是我并没有做什么呀。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "数羊羔",
+          "text": "不，您的作用出类拔萃……我想，如果不是您，我也并不明白我内心所埋藏着的，这一份对于“失去联络”的恐惧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "数羊羔",
+          "text": "身临其境的体验，对于一位编辑而言是绝佳的资料。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "蓝手帕",
+          "text": "噢，您再这样说下去，我都有些后悔将您放出来了……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "数羊羔",
+          "text": "您不会再有那样的机会的，因为——访谈结束了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "洁白的羊羔合上了红色的笔记本。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "数羊羔",
+          "text": "如果顺利的话，您将会在下一期的《UTTU》上阅读到相关的专栏。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "数羊羔",
+          "text": "——我也该走了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "……再见。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "很好，我也想赶紧离开这麻烦透顶的鬼地方。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "还没到时候。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "我在刚刚联络了位于德克萨斯的基金会分部，现在他们正用传送术式赶往此处——必须及时调查这个奇特的超自然存在。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "——他们很快就能到，对吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "附近有传送术式的波动，应该就是他们……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她扭头一看，出现在眼前的是一个陌生的身影。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "……嗯？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "眼前的女孩有着栗色的头发，手臂上挎着一个藤编的篮子。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "——这应当不是圣洛夫基金会的人，头儿。我在镇子上见过她，她叫凯拉。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "……凯拉？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "眼前的少女笑盈盈地望了过来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "……你认识一个叫阿尔古斯的人吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "挎着篮子的少女甜甜地笑了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "凯拉",
+          "text": "我从来没有听过这个名字。真奇怪，怎么有人会给孩子取百眼巨人的名字？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "凯拉",
+          "text": "我想这只是重名——凯拉是个很常见的名字，就像爱玛、安娜、凯瑟琳，它们略有差异，但本质上并无不同。倒是小姐您……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "女孩微笑着。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "凯拉",
+          "text": "虽然我之前从来没有见过您，但总觉得您很亲切。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她将手伸进了篮子，片刻后，从中掏出了一支皱巴巴的花朵。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一只素色的飞蛾落在了花瓣上，轻轻抖动着它的翅膀，鳞粉扑朔。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "凯拉",
+          "text": "希望您能拥有一天的好心情。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "……谢谢。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "女孩将花朵送入了她的怀中。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "您是这儿的住客吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "少女微微地点了点头。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "凯拉",
+          "text": "这儿发生了什么事吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "圣洛夫基金会已经接管了这座旅馆——这个场所涉及了不少危险案件，我不建议您继续居住在这里。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "凯拉",
+          "text": "嗯……那我该怎么办？我的东西还在旅馆里……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "稍后会有基金会的职员来处理这些问题，您可以相信他们。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "凯拉",
+          "text": "我能先去拿回我的东西吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "我会建议您在基金会的职员到场后，再进入这个旅馆。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "凯拉",
+          "text": "啊呀，好心的小姐，您不用担心这些……我自然有我的办法。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "女孩眨了眨眼睛，推开了那扇紧闭着的门扉，随即消失在了众人的视野之中。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "这个女孩……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "久未发言的飞行员开口了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "怎么了？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "不，我想应该是我的错觉。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "不远处，传送软盘的辉光一闪而过。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "基金会职员Ⅰ",
+          "text": "抱歉，维尔汀小姐。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "基金会职员Ⅰ",
+          "text": "在不久之前，我们一直无法定位到这个旅馆的位置，就像是有什么东西在故意干扰我们的判断……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "正当基金会职员忙于了解情况之时，旅馆的深处忽然再次传出了模糊的回音。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "蓝手帕",
+          "text": "噢……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "门扉赫然打开，一具青白色的尸体混同着垃圾一并涌出。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "蓝手帕",
+          "text": "它总是不听我的劝告，执意地要吃地上的垃圾——是不是所有的孩子都是这样？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "基金会职员Ⅰ",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "……这是史蒂文，一名隶属于芝诺的军官。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "基金会职员Ⅰ",
+          "text": "……史蒂文，耳熟的名字。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "职员熟练地翻动着文件，他很快就找到了想要的内容。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "基金会职员Ⅰ",
+          "text": "的确是个颇有来头的人。资料显示他是芝诺的高级军官，在泄露阿尔卡纳真空弹视频之后就不知所踪。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "基金会职员Ⅰ",
+          "text": "芝诺对此人发布了悬赏令，上面写着一个令人咋舌的数字……看来他的行为彻底地惹怒了伊戈尔将军。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "基金会职员Ⅰ",
+          "text": "谁也不会想到他就躲在这个小旅馆中……意外收获。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "显然他的运气不怎么好。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "基金会职员Ⅰ",
+          "text": "很抱歉对您造成了困扰，维尔汀小姐，接下来我们会接管这件事。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "蓝手帕",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "蓝手帕",
+          "text": "眼前的侍应生不为所动，只是轻轻地拍打着襁褓。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "……在分部完成他们的流程之后，您会被送往总部，我们将对您做出一个更全面的评估。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "蓝手帕",
+          "text": "……我还能和我的孩子在一起吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "现在还不到谈论这些的时候。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "走吧，红弩箭。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她提起了手提箱。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "我们得回去向Z女士汇报关于兀尔德女士的消息。"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

@@ -1,0 +1,807 @@
+{
+  "episode_id": 3110102,
+  "chapter_id": 31101,
+  "chapter_title": "The Midnight Whistle",
+  "display_label": "",
+  "title": "Catgut",
+  "subtitle": "She stumbled—but on what? The thread of fate?",
+  "trails": [
+    {
+      "element_id": 3110102,
+      "owner_episode_id": 3110102,
+      "trigger_episode_id": null,
+      "title": "Legend's Tale",
+      "description": "An untold—or perhaps all-too-familiar—story from the past.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=3110102",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "The \"Danube Dawn\" — Rumor 1"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The \"Danube Dawn\" was once the Versailles Palace on rails, gliding along the banks of the Danube River. From Istanbul to Vienna, silverware clinked a harmonious tune, vase violets glistened with dew, and even the stokers carried themselves with the poise of Habsburg courtiers—at least, that is what they believed.\n\nBut the glory days didn't last. Once the roar of cannons had grown louder than the whistle, it was abandoned—forgotten in a warehouse.\n\nLater, Vienna-Pannonian Railways pulled the train from the warehouse and refurbished it, stripping away the last threads of velvet and cramming in seats hard enough to turn your back straight. The silver tableware disappeared, French cuisine vanished from the menu, and flavorless beef stew took its place. The train now resembles an aging gentleman in an ill-fitting tuxedo, clinging to the last shreds of his dignity.\n\nAnd then, there was the missing conductor, Mr. Hermann. With a pale face, hollow eyes, and a drooping mouth, his very presence reeked of morbid neuroticism. His dress, however, was pristine in every aspect: from his uniform to his pocket watch chain aligned perfectly with his buttons, to the gloves which never left his hands—not even while eating. None ever saw him sleep. Like a ghost, by midnight, he would wander the train, inspecting every carriage. The \"Danube Dawn\" was his home. He knew every passenger's quirks, every worn cushion, every stain on the windows. Or so the passengers claimed—that is, those who remembered him.\n\nOne night, three years ago, while passing through a fog-drenched stop near Budapest, the conductor vanished—swallowed by the mist, gone without a trace.\n\nYet a story still circulates among the passengers: the vampire on the train took him. His body was hidden in one of the cars, and his eyeballs embalmed and nailed to the ceilings of cars one and ten so that even in death, he may keep watch over his beloved train.\n\nForevermore ...\n\n— UTTU Editor: Verity"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "203103",
+      "internal_title": "【3.1】长夜鸣笛02",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The full weight of the earlier travesty finally hits the crowd, as shrieks and shouts of horror divert the attention of even the most desperate."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "With one exception—a small and slight figure that darts between the gawking crowd."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "Phew. Didn't follow me. Alright, guess I'll just board here."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She exhales, though her hands tremble on her knees."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The adrenaline fades, and rising against it comes the ache of overlong hunger. Her head feels like a weightless balloon."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "A little longer yet, Rubuska. There'll be food for days on the train."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "All you have to do now is get on."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She presses her belly, slowly straightening."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She slips her hands into her pockets, blending into the line, and glances at the flustered young stewardess."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "At the train door, the stewardess spreads her arm, pleading with the agitated crowd."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Train Stewardess",
+          "text": "Please wait a moment while our attendant confirms your identity."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arrogant Passenger",
+          "text": "I've waited quite enough, thank you very much. Let me aboard this instant."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arrogant Passenger",
+          "text": "You saw the chaos those peasants raised—a living nightmare, I tell you. And I certainly don't wish to experience it again."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Train Stewardess",
+          "text": "I-I understand your concern, Madam Sonya, but we must follow the train's regulations. Now, if you'd just wait a moment longer—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her face burns red as she stands helpless between passengers and carriage."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonya",
+          "text": "Hmph! Have you lost your other eye, too?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonya",
+          "text": "My ticket was snatched by that belligerent fellow who tumbled onto the tracks. Everyone can attest to the fact."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonya",
+          "text": "Now I beg you to skip all this unnecessary rubbish, else I will be forced to write to the railway administration! I'm sure they'll be very much interested to hear about this little \"incident.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Train Stewardess",
+          "text": "Please, madam, if you'd just wait for another moment, I'll go and ask my superior."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Despite their difference in size and in station, the little stewardess is able to hold back the agitated woman with a single hand."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonya",
+          "text": "Hmph! What a crass little girl you are!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Aima."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "From within comes a woman's voice, deep and grave in its authority."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "I'll take care of this."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The uniformed woman with a patchwork face approaches the door, a long shadow stretching out behind her."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "Wh-Who's that?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "On instinct, the girl takes a few cautious steps back, avoiding the frightening visage of this new figure."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonya",
+          "text": "Oh, don't waste our time. I don't care who explains what's— *gasp* Who—who are you?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "The solution to your problem."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonya",
+          "text": "Stitches ... Scars ... Oh! You're that conductress everyone has been talking about."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonya",
+          "text": "Ahem, as I explained, eh, my ticket has been—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her shrill tone softens, now touched with nervousness."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "I've been made aware of this situation. These tickets are made with an arcane process."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "No one will use your ticket without your consent."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "Attempts at ticket theft are a familiar thing."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Expressionless, the woman glances into the most unremarkable corner."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "But we have never lost a single ticket."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The girl's instinct for danger has never failed her. She turns at once, ready to move ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "Ow!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her right foot feels weighed down, and she is all at once pulled to the ground."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A faint stinging buzz of electricity flows beneath the girl's feet, as if holding her there."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "Ah, that stings. That's her arcane skill?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A thought flashes through her mind."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "One step, two ... the footsteps grow closer."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "The arcane processing on the ticket will lead us to its location. It's close."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "*calming exhale* Okay, stay calm, Rubuska. Nothing to panic over."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "Do what you always do. It's worked so far."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She inhales sharply, lips curling into what she hopes is her sweetest, most flattering smile, then turns her head."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "Ah, good evening, my fine lady."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "Good evening, miss."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "I-I'm not feeling so good."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "Please surrender the ticket. It's in your left trouser pocket."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "How do you—Uh, I mean, what ticket, heh?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "A ticket for the \"Danube Dawn.\" билет за влак, train ticket. Understand?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "Miss."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her tone falls like a sledgehammer, pinning her into place."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "Alright, alright! I didn't steal it. I just saw it floating in the air, you know, finders keepers and all—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "Urgh!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her body lifts as her collar cinches tight around her throat."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The conductress hoists her up with a disturbing ease."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "...?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She stares in disbelief at her swaying shoes, her emotions struggling to catch up."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "Aima, take the ticket. It's in—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Aima",
+          "text": "Left trouser pocket. I know."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The stewardess approaches with a cheerful smile, reaching a hand toward her waist."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "Hey! Hey! Put me down!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "Get your hands off me!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "That mouth has a habit of running off. Should I sew it up for you?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Faint runes shimmer at the tips of the conductress's fingers. The girl wisely clamps her mouth shut."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Aima",
+          "text": "Hmm. Coins, a red bottle, a few strips of cloth, and a flute. There certainly is an awful lot in here. Is this some kind of magic pocket?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "Hmph."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The stewardess searches the instructed pocket. As she does, she leans in close to whisper in the girl's ear."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Aima",
+          "text": "Don't worry, the conductress won't hurt you. We just want to retrieve the ticket."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Aima",
+          "text": "Found it. Madam Sonya, please take a look. Is this your ticket?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She gestures to the carriage. A frantic passenger hurries forward and takes the bloodstained ticket."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonya",
+          "text": "Oh, yes. This is it. Oh, thank goodness you've found it!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The woman cradles it in her palms like a prayer."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The girl falls limp, like a rag caught in the wind."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A few coins, a bottle, some strips of cloth, and a flute. All the possessions to her name."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her luck has run thin—not that she had much to begin with."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "I'm just hungry. So hungry. I never meant to hurt anyone."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "Rich people always find a way to get onto these trains. I just thought that maybe I could get on to have a meal."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She swallows her last protest."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "You've got your ticket back. So, how about letting me down? I'll see myself off."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "There you are. What sort of trouble have you gotten up to this time?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A familiar, if unexpected, savior emerges from the crowd."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The dark-haired, dark-eyed investigator strides forward, paying only a passing, if meaningful, glance to the dangling girl."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "Good evening, Conductress. Would you mind letting her down? This is my assistant."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "May I ask what sort of inconvenience she's caused?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She sets the wayward hat back onto the girl's head."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "...?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The girl freezes, then immediately understands. Eyes wide beneath the brim, cheeks flushing red."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "That-That's right! I'm Rubuska, her assistant! What took you so long, boss?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "I couldn't find you anywhere, what with all the snow ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Corvus lowers her to her feet, studying the two odd figures—so unalike in accent, dress, and bearing."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "Assistant?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "Uh, y-yeah! We're on a very, very important mission, haha. But we got separated."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "We've wasted enough time. Let's go, and don't forget your ticket this time."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A brand-new ticket is pressed into Rubuska's hand."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Once meant for one of the presently missing members of Squad 77, it now belongs to her."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "If you cause trouble like that again, I won't hesitate to punish you, in line with the proper regulations."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "Sure, sure. Thank you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She nods rapidly, clutching it tight, casting the investigator a conflicted glance."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "I see. In that case …"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "On behalf of the crew of the \"Danube Dawn,\" I wish you a pleasant journey."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She dips her head, businesslike."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "We're running late now, and the snow is getting heavier."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "Come aboard. If there are any other matters to discuss, let us do so in the warmth of the train."
+        },
+        {
+          "kind": "title_card",
+          "text": "Seating Carriage"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Passengers file aboard, excitement in their eyes."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Passenger II",
+          "text": "How splendid! This train is more luxurious than I ever imagined!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Hatted Gentleman",
+          "text": "Well, she was a luxury express once upon a time. I heard that durin' her golden age, each journey she took was like a social event in itself, filled up to the brim with nobles and celebrities ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The investigator scans the crowd, but it seems her reinforcements are nowhere to be found."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The communicator remains silent. No reply."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "It appears I'll have to finish this mission myself."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "Heh. It's not all bad. At least I'll have a little bonus waiting for me when I get back to the Foundation."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She offers a soft sigh before turning her sharp glance back to her first catch of the evening—mid-slink in a second escape attempt."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "You're going the wrong direction, Ms. Rubuska. Our seats are this way."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "Haha, ha, of course they are."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The girl scratches her head, feigning awkwardness. But her eyes shoot to the investigator's hand now firmly grasping her arm."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "Thank you so much, ma'am. I never would've gotten on board if it weren't for you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "I really don't have anything to repay you with, though. Tell you what, when we get to Budapest, if you still remember me—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "Not so fast, Ms. Rubuska. I have some questions for you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The carriage goes utterly silent despite the commotion of boarding."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She follows the others' eyes now locked on the conductress and stewardess standing together at the end of the carriage."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "Welcome aboard the \"Danube Dawn,\" operated by Vienna-Pannonian Railways. I am Corvus, your conductress, and this is Aima, your chief stewardess."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "The \"Danube Dawn\" travels from Istanbul to Vienna, a journey of a little more than 800 miles, with stops in Nika and Budapest."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "Due to an unfortunate incident at the station, our departure will be delayed until after dinner while we cooperate with the local government's investigation."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "As an apology, we have prepared a substantial meal for every passenger."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "Free food!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her eyes flash bright, her stomach quivers with anticipation."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She steadies her trembling fingers and masks her weakness with a smile."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "I see you have a particular interest in food."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The investigator smiles at her."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "You're welcome to my meal, if you'd like."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "But in return, you need to sit here and stay out of trouble. Do we have an agreement?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "Well, I mean ... It is tempting, but—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The girl blinks."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "Why're you doing all this? I'm just an ordinary girl. Why do all this for me?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "I'm not keeping you, if that's what you're thinking. You're free to go anytime."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She leans closer and lowers her voice with intent."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "That is, if you really are a \"normal\" girl as you claim."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "That conductress is sharp. If she figures out you're not my assistant, it may be difficult to convince her not to throw you out."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "And to top it off ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Around them, the rich, the powerful, officers, and writers each settle into their seats, lively chatter filling the carriage with anticipation."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "I don't think this train is anywhere near as safe as it first appears."
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

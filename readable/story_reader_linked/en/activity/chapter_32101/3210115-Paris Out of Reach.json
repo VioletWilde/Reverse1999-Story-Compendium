@@ -1,0 +1,836 @@
+{
+  "episode_id": 3210115,
+  "chapter_id": 32101,
+  "chapter_title": "A Flowing Feast",
+  "display_label": "",
+  "title": "Paris Out of Reach",
+  "subtitle": "The \"path of fate\" seems like nothing more than fiction to those who cannot stand upon it.",
+  "trails": [
+    {
+      "element_id": 3210405,
+      "owner_episode_id": 3210115,
+      "trigger_episode_id": null,
+      "title": "Now Every Clue Is Revealed",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=3210115",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "It is true; I have held back many important details."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Concerning matters like the nature of Félicienne and Brume's relationship, and Professor Roseau's true intentions."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "But I believe it is not my place to disclose such things. People deserve to discover these things on their own."
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "You've fooled everyone.",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "And you have placed far too much importance on prophecy. The course of fate remains the same, whether I speak about it or not."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "In this kind of business, one must remain neutral—all of my clientele understand that."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "I take no sides, only payments."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "The \"Storm\" has affected many things, including the Depths of Myth. One day, Laurent Roseau stumbled upon a rift that caused it to spill over, and his mind has been captured in its maelstrom ever since."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "As for Felicienne—she was a soul lost within the Depths of Myth. Thus, their streams of fate inevitably crossed."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "With the villains in their proper places, Brume's story had truly begun."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Ah, of course—and why not? My Matilda ... such a lovely, radiant girl. She has inherited my strength and added to it a vitality of her own. Those who speak with her often leave smiling."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "As for her future, I cannot share it with you here."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "But I can assure you: her path is one worth looking forward to."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "I need an explanation.",
+          "edge_label": "",
+          "branch": []
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "I'm more interested in the part involving Matilda.",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "203223",
+      "internal_title": "【3.2】迁流的盛宴15",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "Protester I",
+          "text": "Liberty, equality, fraternity! Deliver what was promised!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Protester II",
+          "text": "Hear our voice! Respect our demands!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Protester III",
+          "text": "Eight-hour workdays! Better wages! Paid vacations!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Protester IV",
+          "text": "No more hunger!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Protester I",
+          "text": "We will not let the Bastille frighten us! Let the king and queen answer! Give power to the people!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beast of Gévaudan",
+          "text": "*roar*"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Protester II",
+          "text": "Drive them out of Versailles! Bring them here to Paris!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Protester III",
+          "text": "Liberty or death! Ah!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The beast's roar mingles with the chaotic chants. Screams of death and horrific brutality echo through the streets."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "But as long as one person still stands, this grotesque carnival of protest will not end."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Protester IV",
+          "text": "Liberty or death!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Hysteria has spread across Paris, twisting the city of lights into a bedlam—into utter chaos."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Three people pass through the turmoil, unbothered by the screams around them."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "\"Félicienne\"",
+          "text": "You longed for youth, and I gave it freely, so you tied a diamond around my neck."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "\"Félicienne\"",
+          "text": "Honeyed words, your false embrace, bound me in a cage."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Professor Roseau",
+          "text": "What a surprise! The great Félicienne seems in better spirits now."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "\"Félicienne\"",
+          "text": "And all we once shared was sealed in silence."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "\"Félicienne\"",
+          "text": "Locked in a box, far below the earth."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Professor Roseau",
+          "text": "Though, I feel this isn't the time or place for such a song, miss."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Félicienne stops fiddling with the diamond and casts a disdainful glance toward her increasingly insufferable toady."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "\"Félicienne\"",
+          "text": "Tsk, Adèle would never interrupt me the way you did."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "\"Félicienne\"",
+          "text": "What a shame she never heard this song."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "\"Félicienne\"",
+          "text": "But you wish to speak business, yes? Then, let us talk."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "\"Félicienne\"",
+          "text": "First, answer me this: why has there been near on no progress in passing on the Guiding One's teachings, despite the many changes in era?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "\"Félicienne\"",
+          "text": "You've elected to ignore your most sacred duty, throwing aside her benevolent instructions in favor of your pursuit of \"knowledge.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "\"Félicienne\"",
+          "text": "Without my leadership to inspire you, this organization is about as useful as a chocolate teapot, it seems!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Professor Roseau",
+          "text": "Please, miss, all these problems will be solved once I unravel the deepest secrets of the Depths of Myth."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "\"Félicienne\"",
+          "text": "Look at you still clinging to that old drivel. Did I not already expose your worthlessness? I'd have had you swept out by the servants in my day."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Professor Roseau",
+          "text": "But you're living proof of my thesis! You came back from the Depths of Myth. How can you not believe?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "\"Félicienne\"",
+          "text": "What I believe in is my ability to conquer death. I have no particular interest in your imaginary Paris."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "\"Félicienne\"",
+          "text": "Nor your babbling nonsense about \"ideals.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Professor Roseau",
+          "text": "It is our shared goal to return the world to its most glorious era, isn't it? We've found the means; I only ask that you trust me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "\"Félicienne\"",
+          "text": "Trust? You'd have me scale the Eiffel Tower of all things to use my diamond to unleash the Depths of Myth ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "\"Félicienne\"",
+          "text": "While you stand at a safe distance and watch? That's your brilliant plan?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Professor Roseau",
+          "text": "I admit we made a mistake, miss, but I've discovered the truth: the Depths of Myth don't lie below, but above."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Professor Roseau",
+          "text": "Altitude represents ascension—a primordial image as old as civilization itself."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Professor Roseau",
+          "text": "That is why you must reach the peak of the city's tallest structure. There, all of Paris—perhaps even the entire world—will transcend, if my theory proves correct."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "\"Félicienne\"",
+          "text": "Theories, theories, theories ... Ugh! What torture it is to listen to you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "\"Félicienne\"",
+          "text": "And what of you, madame? Why are you staring at me like that?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "\"Félicienne\"",
+          "text": "Your gaze is nauseating. Stop it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The silent woman's eyes are vacant and neutral."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "\"Félicienne\"",
+          "text": "Are you even listening to me?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "I am."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her reply comes faint, barely more than a whisper."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "\"Félicienne\"",
+          "text": "Hmph."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The three weave past the protestors, heading toward the Champ de Mars."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Not a single passerby seems to take notice of the glow coming from Beryl's pendulum."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The car is parked on a silent street."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "I never really understood any of the songs she sang; that's why I didn't bother to say anything."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "But I could tell she had a beautiful voice—the kind any singer would envy."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "In the driver's seat, the young woman lowers her gaze to the ornate little box in her hands."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "She has a real sweet tooth, particularly for macarons. I've seen her eat a whole box in one go."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "But not just any old macarons. Only Ladurée's will do. I often had to plan our trips around the store on the Champs-Élysées."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Lucky for me, Félicienne was a late riser, or else I'd have had to race all the way from the bakery to her place every morning."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A weak smile tugs at her lips."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "But what she was eating ... they weren't macarons, were they?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Inside, the once neatly arranged pastries have taken on another shape."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The little dragon lies within the box, its eyes closed."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Carved and cut into bite-sized pieces, filling oozes out from its little form, releasing a sweet, alluring scent."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Madame Bouanich, please, tell me. What did she do to me?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Adèle gathers her dragon's fragments into her pocket. Her voice trembling beneath her confusion."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "She stole your fate."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "Her original self perished long ago within the Depths of Myth. The spirit that found you was only a remnant, a mere shadow clinging to a world in which she no longer belonged."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "She longs to live again, even if it is only as a parasite."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "What about those memories we shared? Were they all just illusions?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "Some were true experiences you shared as your streams of fate merged; others were but fabrications."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "The nuance can be difficult to discern without careful observation."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Adèle stays silent for a long while before reaching for the handle again. The door doesn't move. She's been trying in vain for quite some time."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "You've really confused me, madame. What side are you on?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "I am a watcher of the streams of fate, not a participator in them. I take no sides."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "But you can do more than watch! You already have! You were the one that told me about this inevitable death, and then, Célia really did end up dead!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "You know exactly what's going to happen to me. You know everything, don't you?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her voice catches. Outside, the lights of Paris flicker erratically."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "It is not nearly as simple as you might imagine, Adèle."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "To observe a stream is to see only its curves and eddies—the ripples of importance. I see the path, but not every moment along it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "That is itself sufficient for me to ascertain one's eventual fate. There are rarely any exceptions."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "You said \"rarely,\" so there are exceptions?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "An exception, yes. I told you about her, did I not?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "I had been drifting along the streams of fate,"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "when I saw a girl who resembled me—who in some part came from me. It was quite a revelation."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "I saw where our streams merged long before she was born, and I knew I would name her Matilda—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "That she would grow up to be kind, brave, and truly gifted."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "I followed her through every turn and every ripple to the very end. Then, I looked away. I stopped watching."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The diviner ends the story in her always even tone."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "The way you describe it ... It sounds strange, madame. A-Almost cruel."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "As if you've ignored her in the present because you're afraid of her future."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "I studied the entirety of her stream. Every moment of her fate. It seemed enough."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The car window reflects the puzzled look on her face."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "But then something peculiar happened."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "In the final moments of this millennium, there was a certain kind of rain. Since that time, the streams of fate have lost their clarity."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "At times they are muddied, at others interrupted—twisted into vortexes."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "As they began to shift, so too did everything else."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "The fates I had seen had taken a new form. Nothing was the same."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She turns toward Adèle."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "Soon, Félicienne will complete Roseau's ritual."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "Once that happens, your spirit will rest forever here in this car, and a calamity will fall upon Paris."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "All the \"visions\" I saw end here."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "You're implying something, aren't you?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Are you saying that my fate isn't set in stone?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "I am simply stating what I saw."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "Many who learn of their fates become passive to them, hoping that by inaction, they might avoid their consequences. Others are driven to attempt, however vainly, to change it. How you interpret this prophecy is entirely up to you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Adèle examines her warily, but if there's anything being hidden from her, she can't detect it behind those glassy eyes."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Then there's still a chance for me to leave this car, right?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "This is a spiritual haven. A place which belongs to you alone. Once you leave ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "You may find salvation hidden within the currents or a fate far worse than death."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "*sigh* I don't want to know what lies in wait for me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "What I want is to get out of here and destroy the diamond, just as I promised. I won't fail again."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "You know a way to let me out, no? You wouldn't be here otherwise."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Please, madame! Tell me!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Whatever future you're hoping to see, it will never happen if I give up now!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She clenches her fist, ready to shatter the window if no answer comes."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Even now, she doesn't know what Beryl truly wants. She doesn't understand and has no time to attempt to."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Then, the diviner's smile fades, replaced by something unfamiliar."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "It's a diluted kind of sorrow, perhaps just the weariness of someone used to failure."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "Even in the face of oblivion, you would try to change your fate."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She leans forward, presses down Adèle's fist, and gently opens the door."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "Go then."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Beryl holds it there, steady, meeting Adèle's startled eyes."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Thank you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Outside, the lights of the city seem blindingly white, as near and as distant as the sun."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A strange calm washes over her, despite seeing nothing at all."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "I'll see you around, Madame Bouanich."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She steps into the white."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Beryl closes her eyes."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She recalls something from long ago."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Félicienne",
+          "text": "So, where is this so-called \"fate\" you've been waiting for?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Félicienne",
+          "text": "You've seen the end already, haven't you? The only one possible, anyway: my triumph."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Félicienne",
+          "text": "You prophets are all the same. Hah! My family bankrolled a dozen frauds like you, yet not one ever foresaw the Revolution."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Félicienne",
+          "text": "You ought to have dedicated yourself to the Guiding One instead."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Beryl raises a finger to Félicienne's lips, shushing her arrogant colleague."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "You speak because you seek my direction."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "You wish to unravel the secrets of resurrection."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Félicienne",
+          "text": "You're clever for a prophet. Of course that's my goal. I wouldn't allow those bungling followers to take credit for such a discovery."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Félicienne",
+          "text": "I must determine the truth before anyone else."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "North. That is where your path leads."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "But know that there are consequences to what you seek. You will not emerge from it the same."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Félicienne",
+          "text": "Hmph, spare me the theatrics. I shan't be intimidated. You've pointed the way; I have no more need of you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Félicienne",
+          "text": "Whatever consequences lie ahead depend on me, on my actions. Not some puddle of \"fate.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Félicienne",
+          "text": "Goodbye, madame. Let us see what the \"All-Seeing Lady\" has seen for us."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Beryl watches her silhouette."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "It passes through the corridor, out the door, vanishing into the blinding daylight."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "Goodbye, Adèle. I look forward to seeing what comes of your actions."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "To seeing another prove me wrong."
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

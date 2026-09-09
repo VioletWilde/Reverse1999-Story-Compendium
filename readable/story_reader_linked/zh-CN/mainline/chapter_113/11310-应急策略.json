@@ -1,0 +1,815 @@
+{
+  "episode_id": 11310,
+  "chapter_id": 113,
+  "chapter_title": "他者的悲哀",
+  "display_label": "",
+  "title": "应急策略",
+  "subtitle": "须有以万变应不变的智慧。",
+  "trails": [
+    {
+      "element_id": 1131001,
+      "owner_episode_id": 11310,
+      "trigger_episode_id": null,
+      "title": "“新朋旧友”",
+      "description": "尚新鲜的和已厌倦的“朋友”们。",
+      "action": "交互",
+      "unlock_condition": "EpisodeFinish=1310",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "重塑之手干部名单"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "[一份字迹飘逸的手写记录，纸张上沾有微不可察的鳞粉]\n\n平\n本体为寄居于他人面部的螃蟹，神秘术力量可以控制寄居之人的动作，观察到寄居之人死亡后对其无明显影响。需时刻留意螃蟹。\n\n歌唱家\n能够用歌声操控（加强？）他人的情感，其声音有极强的机动性，且能使用和风有关的神秘术，神秘术传播范围极广，较难防范。\n\n火渡船\n神秘术媒介疑似为影子，可以使用镰刀造成精神层面的伤害，受害者均未见明显外伤及痛苦表现。注意躲避镰刀，若有精神防御类神秘术最佳。\n\n假想敌\n外表以巨大的拼接玩偶示人，神秘术为将某种情绪、信念或一段意识植入他人大脑，常常用于植入恐惧。应对思路同火渡船。\n\n绀紫腕\n未发现其使用神秘术，但观察其力量与耐力远超常人。需避免正面近身接触。\n\n普莱玛\n擅长催眠、刑讯，性格残暴。其母阿尼姆斯曾任职重塑之手使徒，已于南极事件中死亡。\n……\n\n余下部分干部未有机会进行深入接触，已将疑似干部的人员外貌特征描述于附录。"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "101317",
+      "internal_title": "第十三章13-10.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "应急策略"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "距离“暴雨”落下还剩——"
+        },
+        {
+          "kind": "title_card",
+          "text": "审理委员会"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "广播",
+          "text": "所有人员注意，基金会正遭遇敌对力量攻击，应急避险程序已启动。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "广播",
+          "text": "请所有人遵循现场最高职级人员的指示，就近前往避险设施，并等待下一步指示。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "广播",
+          "text": "本次应急避险程序不是演习。重复一次——基金会正遭遇敌对力量攻击……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "特别检察官",
+          "text": "请各位保持镇静，审理程序仍未结束。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "特别检察官",
+          "text": "突发情况会由基金会的防卫力量应对，我们所处的楼层正受到保护。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊里内伊",
+          "text": "检察官，陪审席的各位都在基金会身居要职，集中在此处恐怕不是一个好做法。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊里内伊",
+          "text": "普通职员虽然接受过演习训练，但面临真正的危机时仍然容易陷入混乱。他们需要在现场看见他们的领导人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "佩德拉",
+          "text": "我们应该立即指挥所有人撤离到安全地点并等待救援。你拥有现场的最高职权，检察官。我们在等待你的指示。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "特别检察官",
+          "text": "……合理的判断。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "特别检察官",
+          "text": "我宣布审理程序中止，在此期间，受审人刻雷乌斯将被限制人身自由，陪审员可以回到岗位组织避险——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "刻雷乌斯",
+          "text": "我们在放弃阵地。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "特别检察官",
+          "text": "刻雷乌斯，审理程序中止后，你的发言仍然会作为呈堂证供，注意你的言辞。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "刻雷乌斯",
+          "text": "我正是在理解这一点的前提下这么说的，尊敬的检察官。没有时间再走“避险程序”了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "刻雷乌斯",
+          "text": "重塑之手发动的绝对不会是一次小规模的袭击。他们甚至冒雨而来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "刻雷乌斯",
+          "text": "基金会应该尽可能动员所有人，利用委员会大楼坚固的建筑结构和主场优势，展开巷战，争取时间，支撑到雨停后外围部队回援。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "刻雷乌斯",
+          "text": "这样我们中的一部分人才能活下来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "特别检察官",
+          "text": "你认为重塑之手的袭击力量远超基金会避险程序能应对的限度？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊里内伊",
+          "text": "你是夜巡特遣出身，不应该欠缺神秘学常识。传送术阵不可能一次性输送足以摧毁基金会总部防御的军队。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "刻雷乌斯",
+          "text": "我们至今没有调查清楚299高地的问题——重塑之手如何在不被察觉的前提下几乎挖空了一座小山，神不知鬼不觉地向其中输送大军。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "刻雷乌斯",
+          "text": "顿河地区的战报也说明，重塑之手的确掌握某种隐秘性极强的传送链，起码足以让一整支军队保持机动。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "刻雷乌斯",
+          "text": "当下发生的危机也许已经超出了所有的应急预案。我们应该抛下常规和成见，让所有人加入作战。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "佩德拉",
+          "text": "你是要让我们的文职人员也拿起枪吗？他们没有受过军事训练，这不也是让他们白白丢掉性命？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "刻雷乌斯",
+          "text": "他们可以制造路障，转移和救治伤员，保证联络……做什么都行。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "刻雷乌斯",
+          "text": "还在基金会签订“军事服务合约”的军人也可以投入战斗。他们是老练的士兵，但愿他们已经自发完成了组织。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "特别检察官",
+          "text": "刻雷乌斯，本庭中的所有人，包括我，此刻都没有权力推行你的策略。我们只是避难的一员。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "广播中传来一阵噪音，随后从中传出了平静的女声——这声音与预先录制的警报截然不同。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "特别广播",
+          "text": "基金会会长办公室通告：应急避险程序解除——基金会即刻进入战时状态。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "特别广播",
+          "text": "所有遇险人员做好抵抗准备，以合乎理性的方式保护自己的生存权利。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "特别广播",
+          "text": "雨前调度中心将临时接管各单位指挥权，无法得到指令的人员请自行组织抵抗，过程中对基金会财产造成的破坏不予追责。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "特别广播",
+          "text": "愿和平与我们同在。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "战时状态——这在总部是前所未有的情况，每个人都行动了起来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "特别检察官",
+          "text": "愿和平与我们同在……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "特别检察官第一个离场以作表率，但刻雷乌斯的脚步比她更快，抢先一步离开了审判他的“法庭”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "耳边响起几乎可以刺破耳膜的细微尖啸——最后一切都在一阵浪涛声中消失殆尽。"
+        },
+        {
+          "kind": "title_card",
+          "text": "基金会房间"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "无名者",
+          "text": "呃——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "耳孔中似乎在流血，她用手去擦拭，所幸只是汗水。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "无名者",
+          "text": "……我是怎么到这里来的？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她仰起头，从刚才开始的耳鸣终于稍有缓解的迹象。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "现在充塞感官的是几条走廊之外的嘶吼、枪响与神秘术射弹爆裂的脆响。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "无名者",
+          "text": "阿尔卡纳……祂没杀了我，这是……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她按压太阳穴，感受着——有某种巨大而空洞的东西在她的颅骨下膨胀，将她的思想裹入无光的黑夜。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "无名者小姐，你醒了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她感觉到有人在搀扶自己。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小春雀儿",
+          "text": "你感觉还好吗？有没有很疼的地方？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "无名者",
+          "text": "小春雀儿？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "无名者",
+          "text": "我没事……也许吧。我们是怎么到这里来的？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小春雀儿",
+          "text": "袭击发生之后，我和老师就走散了。重塑之手的士兵已经占领了基金会的第一层，我没来得及赶到避难的场所。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小春雀儿",
+          "text": "我在走廊里发现了昏迷的你，就和另一个职员一同把你带到了这儿来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小春雀儿",
+          "text": "这里暂时是安全的，但我不确定能持续多久。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "无名者",
+          "text": "谢谢你，另一个人呢？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小春雀儿",
+          "text": "他……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "小春雀儿看向房间里的一具尸体，一个死去的重塑之手士兵被压在他身下。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一张略有破损的面具刚好被甩在无名者脚边。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "无名者",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "无名者",
+          "text": "我们走吧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小春雀儿",
+          "text": "无名者小姐，我们要去哪儿？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "无名者",
+          "text": "离开。重塑之手占领了一楼，那这里也不会一直安全。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "无名者",
+          "text": "他们应该只是急于进攻，没有来得及搜索每一个房间。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小春雀儿",
+          "text": "可出门之后可能很快会碰到重塑之手，我们应该对付不了——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "小春雀儿忽然注意到无名者手上的面具——不知道她是什么时候拿起来的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小春雀儿",
+          "text": "请你不要戴上它，无名者小姐。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "无名者",
+          "text": "我可以用它避开普通敌人的攻击。我要为你找一条离开这里的路。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "无名者",
+          "text": "基金会总部有能力抵抗重塑之手的突袭，不是所有地方都会沦陷，我们或许能找到其他更安全的地方。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小春雀儿",
+          "text": "可是，只有我们两个人的话……是不是留在这里等待救援会比较好？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "无名者",
+          "text": "基金会能调动的武力应该都投入了战斗，我不确定他们有没有余力在沦陷区展开搜救。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小春雀儿",
+          "text": "无名者小姐？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "无名者",
+          "text": "重塑之手随时可能开始搜查他们占领的楼层，我们一定不能留在这里。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "无名者",
+          "text": "我要带你出去，小春雀儿。是我连累你也被困在这个地方。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小春雀儿",
+          "text": "这不是你的错，无名者小姐。是我自己决定要这么做的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "无名者",
+          "text": "我不知道，我只是……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "无名者",
+          "text": "我觉得这全是我的错，一定是我在某些地方太疏忽，没有发现重塑之手的计划。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "无名者",
+          "text": "我希望我能在错误中救下一个人，至少做到一些事。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "无名者",
+          "text": "……不能再浪费时间了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "无名者恢复了她惯常的镇定，手中仍然拿着正在滴落黑色黏液的面具。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小春雀儿",
+          "text": "你一定要戴上它吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "无名者",
+          "text": "必要的时候，我要有能避免直接冲突的方法……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "无名者",
+          "text": "——？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "他们在这儿！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "等等，她要戴上面具？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "别伤着孩子，J！"
+        }
+      ]
+    },
+    {
+      "script_id": "101318",
+      "internal_title": "第十三章13-10.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "J",
+          "text": "……原来是这样，真是非常抱歉。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "J",
+          "text": "不过，这里一时半会儿不会出现重塑之手的人，你可以把面具扔下吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "无名者",
+          "text": "没问题。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "无名者把面具扔在地上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "J",
+          "text": "这下好多了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛格丽特",
+          "text": "你果然在这儿。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小春雀儿",
+          "text": "老师……！！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛格丽特",
+          "text": "我很高兴，哪怕在最危险的时刻，你也没有弄丢我送你的徽章。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛格丽特",
+          "text": "X在徽章上进行过附魔处理，它能够散发出特殊的神秘术辉光频段。遗憾的是，在一场战斗中，轰轰吼叫匣变成了一堆碎片。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛格丽特",
+          "text": "但这些像没头苍蝇一样乱转的灰白格子们，身上正好有着能够替代轰轰吼叫匣的监测仪——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "J",
+          "text": "等等，你的意思是，你一直在这个小孩身上安装着追踪器？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "J",
+          "text": "老天，这有点过火了吧！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛格丽特",
+          "text": "是神秘学定位器。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "J",
+          "text": "咳咳……算了。还好，小春雀儿，无名者小姐，你们二位都安然无恙。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "无名者",
+          "text": "主楼一层不是被重塑之手占领了吗，你们是怎么过来的？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "J",
+          "text": "哦，我在神秘学藏品管理部找到了一种只要打开就会大声哭嚎的盒子。这个东西好像能暂时引开敌人的注意力。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“剃刀”",
+          "text": "委员会大楼一层沦陷之后，槲寄生小姐带着大部分幸存者退到了东翼大楼的神秘学藏品管理部内。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“剃刀”",
+          "text": "那里暂时还没有遭受重点进攻，重塑之手的主力一直在试图向主塔的高层突破。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "无名者",
+          "text": "高层？……最高层是会长的办公室……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛格丽特",
+          "text": "我建议先想想眼前的事。我们该动起来了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“剃刀”",
+          "text": "走吧，先去神秘学藏品管理部，我们会在那里商定好反击的计划。"
+        },
+        {
+          "kind": "title_card",
+          "text": "神秘学藏品管理部"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“剃刀”",
+          "text": "能来的人基本都在这儿了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "命名日",
+          "text": "“剃刀”先生。看起来您又找到了新的幸存者。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "命名日",
+          "text": "……事情还不算太糟。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "职员收起手里的小刀，退回了角落。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "苏芙比",
+          "text": "太好了，又有新的同伴加入我们了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "最好的童子军，还有冒牌船长——我从来没想过见到你也会这么开心！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "船长与小淑女一同热络地迎接归来的幸存者。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小春雀儿",
+          "text": "这里……居然还有这么多人……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "无名者",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "这里原本的职员穿梭在不同的藏品存放区中，尽全力避免发生意料不到的危险。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "空脑袋",
+          "text": "大家不要乱碰架子上的东西呀，很危险的！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "是的，你们知道莱瑟姆为了让这些无人在意的藏品保持整洁，每天都要浪费八个小时的生命吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛格丽特",
+          "text": "那你平时在这里干些什么，虚构集小姐？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "噢，很高兴见到你，蝴蝶女士！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "最近我正在为《绿松石蛇俱乐部》编写续集，可惜每天坐在这栋灰白格子的大楼里并不能收获什么灵感……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "言归正传，你最近有什么新的冒险可以告诉我吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "没过多久，从袭击中逃离的幸存者们很快找到了能说上话的同伴。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "无名者",
+          "text": "无名者仍然站在入口处，不知该如何应对海盗船长的热情。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "无名者小姐，很高兴看见你也在袭击中幸存了下来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "我想你希望了解我们目前的情况？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "无名者",
+          "text": "……是的，谢谢。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "跟我来吧。星锑，请给我和无名者小姐一些时间。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "啊～那好吧，但是无论你们在商量什么计划，都别想抛下本船长！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "槲寄生将无名者引到一个角落，二人身后的柜子上摆放着许多罐浸泡在保存液里的神秘学动物组织。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "这里和委员会大楼基本已经失去了联系——除了偶尔会有零零散散的人从那里逃过来，同时带来一些或好或坏的消息。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "东翼大楼的压力不大，但我们不打算在这里坐以待毙。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "我们找到了一个可以联络科算中心的办法。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "无名者",
+          "text": "常规通讯都被切断了，你们是如何做到的？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "槲寄生拿出一只养育植物的温箱。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "这是我在神秘学藏品中找到的传讯喇叭蕈，它可以和与之共生的所有喇叭蕈通讯。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "从管理部的借用登记来看，爱兹拉不久前在这里借走了这只传讯喇叭蕈的共生体，将它带往科算中心研究。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "我尝试唤醒了你眼前的这一朵，它偶尔可以与科算中心的共生体建立联系。虽然可靠性不高，但勉强可以算是一个沟通渠道。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "无名者",
+          "text": "不知道科算中心的现状如何……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "乌尔里希",
+          "text": "……什么？那个蘑菇里又有声音传出来了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "指针",
+          "text": "是，但好像不是槲寄生小姐，这声音在问科算中心的现状。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "乌尔里希",
+          "text": "现状？目前科算中心还在坚持抵抗，冷周六研究员想到了一个阻止重塑之手继续逼近的方法。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "一个方法？没错，她正在准备引爆“天王星4号”火箭发动机的烈火蜥蜴燃料罐，好让我们一起和这个悲惨的世界说再见。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "指针",
+          "text": "她坚称科算中心的安全门足以抵抗爆炸，也相信重火力甚至能让她冲到基金会捞出她的组员。我会说服她的。尽量。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛格丽特",
+          "text": "看起来拉普拉斯科算中心一切正常。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "研究员不知道什么时候凑了过来，在她们身后的储存柜中挑挑选选。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛格丽特",
+          "text": "我想那些天才怪人们应该不会有什么事，只要冷周六没有真的把总部从内部爆破的话。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛格丽特",
+          "text": "嗯？这还真不好说……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "最终，挑剔的研究员什么好东西也没看上，失望地离开了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "无名者",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "无名者",
+          "text": "我想我所知的重塑之手的情报现在可以直接开放给你们了。战时状态，我们不该讲究太多。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "这正是我的期望，很高兴能得到你的帮助。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "无名者",
+          "text": "我会给你们列出一个名单——关于重塑之手的高级人员和他们的基本信息。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "无名者",
+          "text": "他们不一定全都会出现，但万一遇上了……请小心谨慎地行动。"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

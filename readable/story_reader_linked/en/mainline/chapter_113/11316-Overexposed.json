@@ -1,0 +1,575 @@
+{
+  "episode_id": 11316,
+  "chapter_id": 113,
+  "chapter_title": "他者的悲哀",
+  "display_label": "",
+  "title": "Overexposed",
+  "subtitle": "Don't worry—the guide hasn't gone anywhere.",
+  "trails": [
+    {
+      "element_id": 1131601,
+      "owner_episode_id": 11316,
+      "trigger_episode_id": null,
+      "title": "Competitive Business",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=11316",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "*sigh* I'm surprised, I must say."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Why would anyone else want to talk to you in riddles the same way I do?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "It's kind of a chore being this vague, to be honest. He has to be getting paid for this."
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "Are you paid to talk to me?",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "If only."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "All I've received in compensation for our little talks is a dry tongue. I've already poured three pots of tea today."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Do you think you're all that interesting a conversation partner?"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "I'm not some retiree who has nothing else to do."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "The only reason I talk to you is because you won't leave my house."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "What else should I do? I'm not strong enough to throw you out."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "My only defense is a razor-sharp wit, though it seems to never cut you deep enough to matter. I swear at times I think you've been glued into that chair."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "*sigh* Never mind. Sometimes we just have to accept the little disappointments in life."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "That old dust whines about the plaster figures intruding in his room. But that's all he's done so far."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "If he wants to take over for me, do let me know. If it means not having to come up with any more riddles, I'll even let him sit in my chair."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "Are you actually interested in talking to me?",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "101328",
+      "internal_title": "第十三章13-16.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "Overexposed"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "You are the true creator of this \"boon.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "And you are its rightful receiver."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Rightful receiver? Then why was it in Arcana's possession? And why was it given to Igor?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "You know the ways of time and fate. The \"boon\" comes to you only at the proper moment, just as you have come to me."
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "I'm tired of riddles.",
+          "edge_label": "我不喜欢谜语",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "Vertin",
+              "text": "Perhaps on another day I would be willing to solve your riddles, but not now. I want a clear answer."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "The answers you seek will come. They will find you when the sleeping mind awakens."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "There is one final veil between you and the truth."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "I don't know anything about time or fate.",
+          "edge_label": "我不知道时间和命运的秘密",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "Vertin",
+              "text": "So you say, but I've had remarkably little luck understanding either lately."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "In the river of time, all creation is naught but drifting sand."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Only the weavers of the golden thread may ride upon its tides."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "How do you know me?",
+          "edge_label": "你对我了解多少？",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "Vertin",
+              "text": "You speak as though you know me. Have we met before?"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Beneath the ruins of civilization, in an ancient past."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Yet neither of us came to seek that story. Not on this day."
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Igor was promised that the \"boon\" would protect him, but it didn't. Will that happen to me as well?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "The promise still stands."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "But mortal hands cannot stop the sand from slipping through their fingers."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "What are you expecting me to do, then?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "You need no counsel from me. The \"boon\" is already yours."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "I do not seek to bestow blessings, for you need none."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Vekiĝu en la regno de mortemuloj."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Vekiĝu en la regno de mortemuloj."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "...?!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The flowing dust is blown away, revealing a familiar library, but everything appears hollow and fake, like stage dressing."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The light shines colorless and stark."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Timekeeper?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Sonetto? Where are you?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "I'm right here. Can't you see me?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "It is difficult to make out where Sonetto's voice is coming from."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "No. I can't see anything. It's too dark."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Sonetto, where are—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A pair of surprisingly small hands grasp out and take hold of the drifting consciousness."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "I'm right beside you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "We're in the library, just us. No students, no staff, no Manus Vindictae."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "You disappeared after we went through that gate, then reappeared behind me just now."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "What do you mean you can't see? Has something happened to your eyes?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "I'm not sure. It's like I've been hit by a flashbang. But I'll manage."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "You sound different."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "That's because we're both children again. We look like we did when we were SPDM students."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Then this can't truly be reality. It's like what happened in the Amber Room."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "The flow of time has been disrupted."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Where did you go after stepping into the gate, Timekeeper?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "I'm not certain. There was a mist or dust, and I heard a voice."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "It said I already knew how to gain protection from the \"boon.\" Then it spoke an incantation."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Then, does that mean we succeeded?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Sonetto blinks. Her face is a strange mixture of joy and confusion."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "It's difficult to believe things went smoothly. For her part at least, it seems as if she's been walking in circles without end."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "I repeated the incantation, but I have no idea if it worked. We need to find a way out of this timeline anomaly if we're to know if it had any effect."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Speaking of time, I looked around while you were gone."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Little Sonetto can't help but feel vexed by how odd the situation is and how somehow the least troubling thing is their sudden return to childhood."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "There are no clocks, calendars, or even yearbooks in this place. Anything that might indicate a date or time is missing."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "And whenever I try to leave, I just end up back where I started. It's like a maze that won't let us go."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Wait, Sonetto."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "What is it?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "There's a light, a golden thread. I can feel it, feel her."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Her?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The hand gently touches the golden thread."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "An ethereal, pleasant sound trembles through the space."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "It's Merel."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "But I can't see her anywhere. How do you know it's her?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "I just know. I can't explain how."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Far beyond what Sonetto's eyes can see, the golden thread stretches onward into the darkness until it ends tied into a knot of black nothingness."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "The thread's tangled. Merel may be in trouble. But her knot isn't anywhere close."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Sonetto, where am I facing?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Following the gaze, Sonetto spies the outline of a tower looming down from a distance."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Toward the central watchtower."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "I tried to find a way there earlier. But I couldn't even manage to leave the library."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Let's try following Merel's thread."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Take my hand. I'll guide us. You clear the way."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Of course."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Let's get out of here."
+        }
+      ]
+    },
+    {
+      "script_id": "101329",
+      "internal_title": "第十三章13-16.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The moment the marble threshold is crossed, the mazelike space begins to collapse behind them. The library is now more than a hundred paces behind."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "We made it!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Good. Then this thread is leading us to exactly where we need to be."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The golden thread winds toward the second floor, where it ultimately tangles into another knot."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Guided by instinct, each step draws closer to the thread."
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "story_option_guideslide|0#0#1#9999",
+          "edge_label": "",
+          "branch": []
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The knot unravels with the slightest touch."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "As it does, it seems to flow across the back of the hand."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "There we go."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "*click*"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The sound of salvation comes from the door behind them."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "Wait. It's open?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "Emilia, help me open this door."
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

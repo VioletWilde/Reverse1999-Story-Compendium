@@ -1,0 +1,610 @@
+{
+  "episode_id": 11005,
+  "chapter_id": 110,
+  "chapter_title": "Paradise Regained",
+  "display_label": "",
+  "title": "Et tu, Brute?",
+  "subtitle": "Dear betrayer, have you claimed the gold you were promised?",
+  "trails": [
+    {
+      "element_id": 101005,
+      "owner_episode_id": 11005,
+      "trigger_episode_id": null,
+      "title": "The Next Step",
+      "description": "Predicting other players' moves is always more interesting than playing them yourself.​",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=11005",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "You made it. From the US to Brazil to Australia ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "From a pleasure cruise across the South Pacific, through Argentina, and finally here, your feet firmly planted on the southernmost continent on Earth."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "The enemy's been beaten back, retreated to this polar desert, and here you are too—all because of a single command:"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "\"Find that writer.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "That's all you've got. No plan, no place or time, not even a full squad."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "I can't help but wonder what pushes you forward. What gives you the eagerness of a newly enlisted rookie?"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "I don't know.",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "I'd say it's your instinct to follow the path laid out for you—to satisfy the desires of those who watch from afar."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "That IS your \"arcane skill,\" isn't it?"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "But you're not a soldier. You're not even a Girl Scout."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "You have no obligation to follow orders."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Personally, I suggest you think twice before obeying a command."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "After all, you're headed straight into the stronghold of the enemy."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "In situations like these, those who blindly follow orders often end up as cannon fodder."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "So, keep this question in mind: Why are you looking for that writer?"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "Soldiers follow orders.",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1010051,
+      "owner_episode_id": 11005,
+      "trigger_episode_id": null,
+      "title": "Workplace Survival Guide​",
+      "description": "Reading between the lines and detecting micro-expressions are important workplace skills even in Antarctica.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=11005 and ChapterMapElement=101005",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Turn away. Cover your nose."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Better not to look at this scene unless you're mentally prepared."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "What a mess. Surely the work of amateurs."
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "Then describe it in a digestible way.",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Metaphors aren't really my thing, but if you insist."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "There's cream cake splattered on the wall and bread ripped and shredded all over the place."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Then there's strawberry and chili jam—lots and lots of it. Damn! Is that a rotten grape I just stepped on?"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Well, as you can see, there was more than one person here."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "How many is anybody's guess."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Anyone with a sense of justice wouldn't let this happen."
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "Are you mocking them?",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "I'm just a soldier—a brainless follower of orders. I have no grounds to make judgments on morality. But loyalty, that I do know about."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "Anyone could pledge their allegiance to an undefeated commander. It's a no-brainer for most soldiers."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "But give that commander a few heavy losses—a couple of misjudgments—and that loyalty becomes a whole lot harder to give."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "So, if you really want to prove how loyal you are, you should follow a stupid commander—the stupider the better. Just be sure you know what you're getting yourself into."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "That lieutenant, though—she's a sure way off from being a loyal subordinate."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "She must've been sick to the stomach when all this went down."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "Heh. Just a kid."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "Let me see for myself.",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "101005",
+      "internal_title": "第十章10-04",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "Et tu, Brute?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "*whoosh*"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A thin lead arrow hits a gallbladder, spilling bile and blood."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Grace",
+          "text": "Nearly half ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The young Apostle grows pale, her breath faint as a whisper."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "What?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Grace",
+          "text": "Nearly half of the Magnus submarines have been sunk."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Speak up."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Drop your pompous little act, girl. You'll win no favor with me through airs and graces."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Grace",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Grace",
+          "text": "Nearly half of the Magnus submarines have been sunk."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "That's more like it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The lead arrowhead finds another target."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "At last, those white-clad fools have levied some retaliation. How kind of them to finally join us."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Another arrow is fired."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Frostbitten flesh splits open, oozing rancid fat."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "I am loath to witness any more groveling at the feet of that \"Preacher\" and her so-called \"omnipotence.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "An elder shuffles forward in plain robes."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "The great \"Corrector\" of the mysterious island, the \"One and Only Leader\" in the face of the slumbering Inculcator of Arcanum, the \"Supreme Caster of the Great Ritual\" …"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "*squelch*"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The orb in the avian skull crumbles under the pressure."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Animus",
+          "text": "She was nothing but the wrong person at the right time."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Animus",
+          "text": "She alone hears the voice of the Inculcator of Arcanum? Ha! What blatant lies! Yet they submit to her all the same, every one."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Animus",
+          "text": "While she gallivanted around the world, \"preaching\" on the back of her falsities, who was it who prepared for the ritual, hm? Yet she alone is granted power. She alone holds their hearts in her hands. Ridiculous!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Animus",
+          "text": "What does a little girl know about material transportation or personnel arrangement, let alone the great history of the Manus? She is nothing without me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Grace",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Animus",
+          "text": "*sharp exhale* It is not you to whom I refer, girl. But you'd better keep that tail firmly planted between your legs."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Animus",
+          "text": "Your actions aboard the \"Free Breeze\" have garnered much attention—attention that could easily have been avoided. Now, the whole world has their sights set on the Southern Hemisphere, and it's all thanks to you. No amount of ritual materials can make up for that."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Animus",
+          "text": "This is precisely why I was against giving power to you infantiles in the first place. Arrogant, reckless fools—there's not an ounce of self-control to share among you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Grace",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Grace",
+          "text": "The Foundation's army will break through our first line of defense soon. If we don't stop them—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Animus",
+          "text": "Their advance will be halted."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Words falter mid-sentence."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Animus",
+          "text": "Antarctica is no place for them, no matter how many machines they send. Their war efforts have been naught but the desperate attempt to prove to themselves that they are not utterly without plan. Pathetic, as usual."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Grace",
+          "text": "You're right. There's no need to concern ourselves with the insects scurrying beneath our boots."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Grace",
+          "text": "Our role is to support from the outside to ensure the ritual proceeds smoothly. That's all."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Animus",
+          "text": "What driver straps the blinders to your face, hmm? Or were you simply born unable to perform more than one task at a time? Tell me, how do you ensure the safety of the interior?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The young Apostle allows her breathing to grow fainter, struggling to keep the absolute appearance of humility."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Grace",
+          "text": "I'm not sure what you mean."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Animus",
+          "text": "The admiral's Sentinel Unit. What is its status?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Grace",
+          "text": "Igor's unit? They've set up defenses in multiple locations along the coast. They're on high alert for possible Foundation partisans."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Animus",
+          "text": "The fence-sitters. How could they possibly serve our great Mother of Resurrection?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Animus",
+          "text": "It's an insult that they were ever allowed to set foot on the holy land at all!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Grace",
+          "text": "But the Preacher has treated them with the utmost respect. They did bring the key to the ritual after all."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Animus",
+          "text": "Utter foolishness!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Animus",
+          "text": "Those heathens are not even willing to undergo the holy trial."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Animus",
+          "text": "Standing among these unblessed, unguided simpletons is the greatest humiliation to befall Manus Vindictae since its inception."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Grace",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Animus",
+          "text": "Ugh. Despite this …"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Animus",
+          "text": "It is of little matter in the face of the ritual."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Animus",
+          "text": "The Great Mother of Resurrection … That is our only goal."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The pitiful remains of the bird are flung at her feet."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The tents are pitched, yet exhaustion lingers like frost on a cold morning."
+        },
+        {
+          "kind": "title_card",
+          "text": "Former Zeno Sentinel Unit Station"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The aircraft captain leans out, shaking his head toward a woman standing before one such tent."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Aircraft Captain",
+          "text": "Lieutenant, we have run the checking program. The problem is with the pedal."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Aircraft Captain",
+          "text": "It's malfunctioning, which is somehow deviating the set yaw rate."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Aircraft Captain",
+          "text": "That is why we had such severe turbulence and deviation just now."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Aircraft Captain",
+          "text": "I suggest we do not fly Canis Minor until we have done a complete overhaul. The weather is just too extreme in Antarctica."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Moldir takes stock of her soldiers, then makes a confident stride toward the transport helicopter."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Moldir",
+          "text": "Report to the Admiral. We are still some way away from our designated station, but it seems we have no other choice for now."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Moldir",
+          "text": "At least we landed in a place with enough space and sightlines to perform our task. This is the best we could have done given the situation. Well done, Danilov."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Aircraft Captain",
+          "text": "Of course, Lieutenant."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Moldir",
+          "text": "Now all there is to do is wait."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Wait for what?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The answer is about to be set free."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Moldir",
+          "text": "Attention! We have an order from Admiral Igor."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Moldir",
+          "text": "We are the perimeter defense of Antarctica. We must be ready for any possible attack from the Foundation."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Moldir",
+          "text": "The Admiral is stationed in the sanctuary. From there, he will administer orders to both us and Ptolemy's infantry squad at the other port."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Moldir adjusts her collar, her mouth dry."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Moldir",
+          "text": "Any unit entering the sea within visual range is to be considered a signal to engage, understood?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Soldiers",
+          "text": "Yes, ma'am!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The soldiers respond in a disciplined harmony."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She scans the ranks, then lowers her head."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Blinking, she finds herself mesmerized by the strange, golden flurry dusting her combat boots."
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

@@ -1,0 +1,813 @@
+{
+  "episode_id": 11314,
+  "chapter_id": 113,
+  "chapter_title": "他者的悲哀",
+  "display_label": "",
+  "title": "荒漠",
+  "subtitle": "岿然而寂静。",
+  "trails": [
+    {
+      "element_id": 1131401,
+      "owner_episode_id": 11314,
+      "trigger_episode_id": null,
+      "title": "理性的狂热",
+      "description": "不要太相信那些有礼貌的白大褂，他们疯癫得很！",
+      "action": "交互",
+      "unlock_condition": "EpisodeFinish=1314",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "“仿神体”科研立项请愿表"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "尊敬的且神奇的诺谛卡女士，你好！拉普拉斯科算中心对您的新躯体异常感兴趣，此次来函，是希望您能同意并配合我们进行实验和研究。当然，我们始终保持积极的人文关怀和专业的科研伦理，因此您可以在您愿意配合的科研项目前打“√”。以下是针对“仿神体”的科研立项清单：\n\n√ 1.10月13日-12月20日 主题方向：“仿神体”生物力场与神秘学细胞相容性研究\n     项目：抽血（需要较多血液样本，怕痛的话您有权拒绝）、化验、苦目糖敏感性测试、铁人三项对比研究（人类作为对照组）、表皮细胞抗压测试、未知粘液脱氧核糖核酸测序……\n\n√ 2.11月4日-1月29日 主题方向：基于“仿神体”重塑肉身的自我同一性及特殊社会化的心理学研究\n     主题：在阶梯会议室讲座中进行社交焦虑测试、在演说厅进行回避-依恋关系测试（可以分享您的神话考古学）、在乌卢鲁运动场内进行肢体协调测试、情绪和心理临床测试……\n\n√ 3.12月15日-1月30日 主题方向：光子动态全息礼服与“仿神体”空间适配性研究\n     内容：人类形态光子全息礼服设计研究、个人审美取向研究（我们很感兴趣！）、光子礼服材质与粘液及骸骨等适配性研究、细胞感光光谱判定范围研究、身高测量、体重测量、臂（翼？）展测量……"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "101324",
+      "internal_title": "第十三章13-14.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "荒漠"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "距离“暴雨”落下还剩——"
+        },
+        {
+          "kind": "title_card",
+          "text": "基金会走廊"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "——这儿也没有！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "摇滚海盗离开一间房，神色不悦地解除了光学隐身。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "船长，我不认为我们能这么轻易地找到“重塑之手乐团”的领袖。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "或者，根本就没有所谓的乐团，也没有指挥。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "我可不愿放弃——就算我早在“自由海风号”上的时候就知道，重塑之手的音乐品味差得让人反胃。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "但一个乐团一定会有掌握节奏的指挥，不然那些听不懂人话的家伙就白白长成乐器的模样了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "它一定就躲在重塑之手防线的后方。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "可是，我们就算能找到它，那要怎么制伏对方？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "你忘了X送来的“无比黏口香糖发射器”了吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "重塑·信徒",
+          "text": "ㄞ……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "你看，这些怪物就算自己都变成了乐器的样子，也从来不知道如何演奏真正的音乐。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "我认为这个时候我们应该快点离开，船长！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "哈，它只有一个，我才不会怕……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "平",
+          "text": "是谁偷偷潜到防线后方了？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "在蟹脸男的身后，更多的黑影冒了出来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "平",
+          "text": "抓住她，还有那颗苹果！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "这老兄的脸比深红之王的专辑封面还要怪！——APPLe先生，你先跑，我来黏住它的脚！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "留神！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "什么？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "唔哦！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "——船长！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "摇滚明星狠狠栽了一个跟头，爆炸的烟尘洒落在鲜亮的果皮上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "有人降落在不远处。在确认敌人所在的方向不再有威胁后，她转过头来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "巧了，原来是你在这儿。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "红——咳咳——红弩箭？！天呐——他们都说飞行巫师赶不过来了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "哦？那也许他们低估了全新红色38的性能——还有我的性能。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "真没想到，重塑之手捅了基金会的窝，天上还全是爱咬人的奥利图欧，真是够惹人烦的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "那么，回见，欠我的人情记得还——不准用胡椒博士。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "什么？你用这么劲爆的方式登场之后，马上就要走了？难道你不和我们一起去痛揍重塑之手吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "嘿，你不会是指望我在室内像台球一样撞来撞去吧？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "我要去收拾委员会大楼外面的那些人。我看见重塑之手把一些大家伙抬出来了，他们也许想炮轰大楼。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "你快回自己人那儿去，别再一个人溜达了，我不可能一直盯着你。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "飞行女巫跨上新型的飞行扫帚，飞越廊柱，冲向天空。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "——等等，你真的不愿意用胡椒博士代替酒精吗？！"
+        },
+        {
+          "kind": "title_card",
+          "text": "副会长办公室"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "窗边的幕僚长看见了红弩箭掠过天际的尾流。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "第一批飞行巫师已经抵达了基金会。但是……怎么只有一个人？红弩箭？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "比预料中的要快。但即使她的中队全数抵达，也不足以扭转局势。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "该走了，Z。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "我们真的要离开前线？这可能会让正在抵抗的人员产生慌乱。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "基金会并没有那么不堪一击，我们出现在前线只会制造更多麻烦。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "叫上能联系到的委员会和共融院成员，我们去高塔的最顶层避难——这是会长的指令。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "高塔……我明白了。有什么东西是我需要带走的？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "带一些热茶吧，你应该会需要这个。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "您看起来……很有信心。有什么事是我尚不了解的吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "火龙燃素燃烧弹从空中坠落，虽然为数不多，但也足够给重塑之手的增援部队造成混乱。"
+        },
+        {
+          "kind": "title_card",
+          "text": "基金会南翼花园"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "重塑士兵Ⅱ",
+          "text": "火……火炮！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "重塑士兵Ⅱ",
+          "text": "该死的，这门炮毁了，快离开！这些树要烧起来了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "黑色士兵们在迷宫般的花园中四散而逃，从空中看起来就像受惊的蚁群。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "仪式术士",
+          "text": "飞行巫师怎么回来得这么快？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一名士兵翻越树篱，来到了仪式术士身边。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "重塑士兵Ⅰ",
+          "text": "大人，格鲁托夫将军再次让我——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "仪式术士",
+          "text": "你没看见现在发生了什么吗？告诉格鲁托夫，我没工夫帮他解决楼上的问题。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "仪式术士",
+          "text": "我的任务是布设对抗飞行巫师的术阵——早就应该布设好了，全都是你们这些白痴耽误了时间！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "仪式术士甩开求救的士兵，向靠近花园的一幢建筑走去。"
+        },
+        {
+          "kind": "title_card",
+          "text": "南翼建筑·走廊"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "仪式术士带着怨愤走入建筑，踏入一条在战火中显得异常清冷的走廊。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "仪式术士",
+          "text": "该死的苍蝇，我得更换术阵的节点了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "仪式术士",
+          "text": "要找一个不会被飞行巫师发现的地方，不能是在室内……但也绝不能在太开阔的地方。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "火渡船",
+          "text": "……你在这里做什么？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "仪式术士",
+          "text": "你？我还想问你去哪里神游了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "仪式术士",
+          "text": "你本来应该做些事，控制好那些不听话的蠢货——它们应该去带走基金会的神秘学家。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "火渡船",
+          "text": "我正在做这件事，但一些隶属于基金会的神秘学家看起来很抗拒，我正在尝试了解他们的理由。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "仪式术士",
+          "text": "尝试了解……理由？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "术杖的一端重重地砸在灰白格地面上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "仪式术士",
+          "text": "无可救药的榆木脑袋。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她从火渡船身边经过，从建筑的另一个出口离开。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "愤怒的脚步声响彻走廊，这恰好掩盖了紧随其后的另一人的踪迹。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "……"
+        },
+        {
+          "kind": "title_card",
+          "text": "基金会南翼建筑群"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "仪式术士来到建筑后的另一片室外空间，整洁的道路取代了开阔的花园。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "仪式术士",
+          "text": "飞行巫师的注意力在花园和委员会大楼前的广场上……这里是个不错的地方。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "普莱玛。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "仪式术士",
+          "text": "——？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "循着声音，她猛然回头。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "无名者",
+          "text": "……没想到你会让自己轻易落单，普莱玛，你实在是太疏忽了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "仪式术士",
+          "text": "格蕾丝？！你……你怎么混进来的？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "无名者",
+          "text": "你知道我很擅长这种事。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "仪式术士",
+          "text": "哈——你以为我会被你吓到吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "无名者",
+          "text": "来吧，你可以向我展示一下，在我离开重塑之手后，你学会了什么新的把戏。"
+        }
+      ]
+    },
+    {
+      "script_id": "101325",
+      "internal_title": "第十三章13-14.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "仪式术士",
+          "text": "——咳！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "仪式术士",
+          "text": "——格蕾丝！叛徒，可耻的间谍！是你在南极害死了我的母亲！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "无名者",
+          "text": "阿尼姆斯的事先放一放，我想知道你们是怎么混进基金会来的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "仪式术士",
+          "text": "咳——别想再从我们这里偷走不属于你的东西了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "无名者",
+          "text": "我没有时间让你自愿接受合作。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "仪式术士",
+          "text": "——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "无名者",
+          "text": "别担心，这一切很快就会结束，运气好的话也不会要了你的命。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "仪式术士",
+          "text": "我诅咒你，格蕾丝！你的灵魂永远不会自由！你会像可悲的奴隶一样死去！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "飞蛾轻轻扇动翅膀，从无名者的指尖离开，安静平稳地覆在仪式术士的脸上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "仪式术士",
+          "text": "把、把这恶心的虫子拿开！拿开！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "无名者",
+          "text": "……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "周身的空气仿佛在刹那间被抽干。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "下一秒，由神秘术催生的飞蛾在二人眼前化作齑粉。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "无名者",
+          "text": "不，这是……发生了……什么？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛尔纱",
+          "text": "诺谛卡，你的位置太危险了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "诺谛卡",
+          "text": "别担心，他们没法真正伤到我。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "重塑士兵Ⅰ",
+          "text": "该死的！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "向奇美拉发动攻击的士兵无功而返，如同撞上石崖的黑色潮水。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "感谢委员会大楼固若金汤的建筑结构，楼层还没有在战斗中完全塌陷。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "基金会安保",
+          "text": "“超强破坏力追踪弹力球”！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一颗拳头大的球形物从一处掩体后飞出，在地板、墙面与天花板之间来回飞蹦。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "重塑士兵Ⅰ",
+          "text": "快躲开——唔呃！！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "小球在黑色的头盔上砸出一个凹坑。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "基金会安保",
+          "text": "科算中心的小玩意还真管用！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "士兵Ⅰ",
+          "text": "看起来不错，但为什么你每次扔出去都要喊那么大声？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "基金会安保",
+          "text": "每次扔出去的时候都要大声喊出弹力球的名字，喊得越大声破坏力越大——这是那个小录音盒说的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "士兵Ⅰ",
+          "text": "行吧，那就当是苦中作乐好了。给我也来一个。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "基金会安保与签下“军事服务合约”的士兵们躲在掩体后，继续搜寻能用的道具。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "战线的另一边，袭击的指挥官在占领的临时掩体后观察着局势。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "格鲁托夫",
+          "text": "那个奇美拉……普通术法攻击没有效果，除非能命中她的脑袋……啧，还有个碍事的德鲁伊一直在掩护她。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "格鲁托夫",
+          "text": "真是难缠，室内拉锯根本不适合我的部队发挥。重型火力怎么还没有就位？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "将领后退一步，以求获得更好的指挥视野，同时也在为战术性撤退做准备。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "之后，他看见祂踱步而来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿尔卡纳",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "格鲁托夫",
+          "text": "——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一股难以言喻的力量令格鲁托夫不自觉地退避一旁。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "黑与白的对抗暂停，一切都笼罩在不可理喻的离奇默契之中。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿尔卡纳",
+          "text": "多么宏伟而美丽的造物，诺谛卡，我喜欢你新的身躯——即使它是你窃取的力量。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿尔卡纳",
+          "text": "这倒让我想起……我们是不是共享了同一个“新生的纪念日”？你还适应这份新的力量吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "诺谛卡",
+          "text": "不……我和你没有任何关系，阿尔卡纳。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "阿尔卡纳的思维奇异地翻转，注意力毫无预兆地从诺谛卡身上跳走。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿尔卡纳",
+          "text": "——韦耶豪瑟女士，你也在。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿尔卡纳",
+          "text": "好久不见，是什么让你愿意保护曾经那般伤害过你的人类？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "祂向前一步。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "诺谛卡",
+          "text": "我会拦住祂！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "巨兽张开羽翼，扑向阿尔卡纳，她的身旁环绕着德鲁伊唤起的尖锐荆棘。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "阿尔卡纳站在原地，像一个观看舞台表演的观众，丝毫不担心自己会被任何演绎冲击。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿尔卡纳",
+          "text": "嘘——安静。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "诺谛卡",
+          "text": "……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "德鲁伊的荆棘枯萎，巨兽的身躯也在一瞬间失去了全部的力量。诺谛卡直直倒在了大理石地面上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她的身体不再轻盈，只能勉强活动人形的肢体，无力驱动下肢再迈出哪怕一步。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "诺谛卡",
+          "text": "我……站不起来了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛尔纱",
+          "text": "不应该……这个感觉……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一阵前所未有的高压与眩晕砸向在场的神秘学家。他们如同被浸入海底，阳光和空气变得触不可及。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "在他们身后，那株攀附在大楼一侧的巨树似乎再也无法支撑自身的重量，发出惊人的破碎声后断裂倒下。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "不！树干里还有……其他人……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "唔，唔……等等，我的冒险……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "部分神秘学家陷入了更严重的昏迷。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "在厅堂的另一端，阿尔卡纳仍旧留在原地，注视着祂自己创造的混乱舞台。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿尔卡纳",
+          "text": "起。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "诺谛卡",
+          "text": "……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "奇美拉庞大的身躯轻而易举地被凭空托起，仿佛她只是一朵轻柔的棉花。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "诺谛卡",
+          "text": "怎么会，我被举起来了……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿尔卡纳",
+          "text": "落。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "滞空的巨兽向下一沉，擦着满是残骸的石砖地面缓慢地、不可遏制地向楼层一侧滑动。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "诺谛卡",
+          "text": "不……不不——我控制不了——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "片刻后，诺谛卡连带途经的所有人员、物品与枯枝败叶，一同被扫出了高楼。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿尔卡纳",
+          "text": "这下清净多了。"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

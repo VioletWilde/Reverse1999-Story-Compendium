@@ -1,0 +1,553 @@
+{
+  "episode_id": 10801,
+  "chapter_id": 108,
+  "chapter_title": "忧郁的热带",
+  "display_label": "",
+  "title": "此即正义",
+  "subtitle": "面对行刑队，你得守住自己的骨气——当叛徒的骨气。",
+  "trails": [
+    {
+      "element_id": 1080101,
+      "owner_episode_id": 10801,
+      "trigger_episode_id": null,
+      "title": "临行嘱托",
+      "description": "一封快乐的辞别信，一块分量十足的镇纸。",
+      "action": "交互",
+      "unlock_condition": "EpisodeFinish=10801",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "《我出门一趟！》"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "展信快乐！\n    \n    各位，我猜你们看到这封信的时候，我已经在远洋的移动小岛上了。哦！请不要误会，我很喜欢各位的陪伴，特别是你们在凌晨三点的走廊举办的步行舞会。虽然我最喜欢派对，但步行舞会也很有趣，可惜《淑女的原则》规定得在晚上九点就乖乖睡觉，多么遗憾。\n\n    也请转告莫桑老师，请不要担心！我不是一人独自去冒险，因为亲爱的维尔汀也要去传说中的埃尔多拉多旅游。黄金之国！有魔力的黄金，还有会蹦跳的咖啡豆！我已经等不及去和当地人交流提神魔药的配方了！\n\n    说到提神魔药，现在人人都能成为提神药调制大师了！只需要制取一杯咖啡，然后在喝之前加入三克黄金，一杯提神药剂就完工了！我已经准备好了原料，黄金就在桌上！以及感谢休息室的自动咖啡滴水兽，它为我们省去了最困难的制取咖啡的部分！\n\n    还有，请期待我带回来的特产礼物！\n\n                                                                                                            苏芙比"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100801",
+      "internal_title": "第八章8-01",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "忧郁的热带"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "大章开幕"
+        },
+        {
+          "kind": "title_card",
+          "text": "此即正义"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "小开幕"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "黑幕"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "播视频"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛佩拉",
+          "text": "懦夫……逃兵……叛徒！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛佩拉",
+          "text": "这是你们的选择，你们的代价。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛佩拉",
+          "text": "芝诺绝不容忍！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛佩拉",
+          "text": "行刑队！抬枪！预备——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛佩拉",
+          "text": "射击！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "视频持续"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "视频消失"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "基地"
+        },
+        {
+          "kind": "title_card",
+          "text": "芝诺基地"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "地标"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "很抱歉让你看到这一幕。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "洛佩拉枪法很准，不过，把枪口对准曾经的同袍兄弟，对芝诺军人来说是种耻辱。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "这是我的失职。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "顺着洛佩拉的枪口所指，士兵们倒在了荒草与尘埃中。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "鲜血漫出。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "洛佩拉抓回了叛徒。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛佩拉",
+          "text": "法医核验。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛佩拉",
+          "text": "其余人，收队！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "硝烟过后，士兵列队离开。军医登场，一一查验死者。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "行刑者将步枪交给侍从，摘下手套，转身面向圣保罗灼目的烈日与廊柱阴影下的伊戈尔将军。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛佩拉",
+          "text": "行刑完毕，将军。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "微笑极少出现在这位久经沙场的老将脸上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "伊戈尔点点头，那双鹰一样的眼中，流露出对养女的赞许。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "做得很好。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "行刑者敬礼致意，随后跟上士兵队伍，离开刑场。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "接连发生意外，真是可耻。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "老将军面露难色，近期发生的士兵叛逃事件就像不久前泄露的那段影像，将芝诺军中尴尬的现状暴露无遗。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "这些孬种犯了什么事？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "逃兵，杀死长官之后叛逃。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "哈，那的确该死。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "莫莉德尔副官正在竭力调查基地中的潜在叛乱分子。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "这里被天使兄弟会渗透得很严重。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "有证据显示重塑之手也在圣保罗活动。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "重塑之手？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "……重塑之手一直与天使兄弟会纠缠不清。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "我以为他们只会以“启明会”的身份活动。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "明明阿尔卡纳已经死亡……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "是的，在真空弹中灰飞烟灭。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "将军亲自下令，曾叱嗟风云的那位女士……肉身自爆炸中踪迹全无。\n毁灭从天而降，如同硫磺与死亡从云间坠落。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "而基地的刑场上，阳光与不忠者的鲜血流过遍地荒草。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "唔……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "滚烫的初夏在额头灼烧，汗水不住流下。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "圣保罗的太阳一向这样，你很快也会适应它。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "南半球的初夏热情得有些难以招架。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "我经历过比这更难受的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "在一些并不愉快的地方。山、沙子、雪山和山间的鹰……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "啊，那儿，我记得……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "是的，很少有地方比那儿残酷，也很少有战争比发生在那儿的更悲哀。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "行刑结束了。司辰、红弩箭中尉，我们回室内谈吧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "会议让头儿去就行，我没兴趣。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "飞行员灌下一口甜酒，但这不是她爱喝的生命之水。酒里没有北方那股雪渣子的味道。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她一定不喜欢这股慵懒而又醉醺醺的味道，但基地能提供给她的只有这些了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "在圣保罗，跨国公司提供的碳酸汽水往往比干净的水更便宜，而比汽水更便宜的，则是酒，取之不尽的朗姆酒。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "我去找苏芙比玩玩儿，就这样。Пока!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "在基地里，别忘了纪律，很多地区已经荒废了，不要离开有卫兵巡守的地方。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "渐黑"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "黑屏"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "转场"
+        },
+        {
+          "kind": "title_card",
+          "text": "伊戈尔办公室"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "地标"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一间朴素的办公室，桌面放着军用地图和电话，以及数个随意堆放着的小骰子。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "《UTTU》杂志有一位叫做“兀尔德”的投稿人，在被回溯的每个时代我们都找到了她的署名稿件。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "消人"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "浮窗"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "是有人在共用这个笔名，还是说……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "这位自由撰稿人一直没有被“暴雨”回溯……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "——“暴雨”，并没有带走她？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "消浮窗"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "不久前，德克萨斯的数羊羔小姐提供了一些信息。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "“这份稿件从圣保罗的荣军院寄来。”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "荣军院？那儿有位盲眼医生，也许你可以去见见她，就在圣保罗城里。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "你来的时机很合适，这儿的上任长官卡洛斯是个蠢货，竟然被自己的部下在这间办公室里枪杀。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "老将军转过身去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "好消息是我们已经追回了大部分叛徒。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "是刚才被处决的那批人……？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "是的。洛佩拉突袭了兄弟会在上校庄园的据点，重创了他们和重塑之手的势力。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "虽然行动鲁莽，但她干得不错。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "老将军对刚才指挥行刑的少女，似乎评价颇高。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "冷酷，肃杀，决绝——和她柑橘般甜美热烈的橙发却有些格格不入。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "伊戈尔将军，接下来的行动我需要您的帮助。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "需要熟悉当地的人员，需要交通工具，需要情报……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "如果能得到芝诺伙伴的协助，我想，一切会顺利得多。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "我会尽力满足你的需求，但这儿的情况比我想象中更糟糕。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "这儿的十七座塔楼和二十二个庭院都曾有驻军巡逻。可现在大半已经荒废，沦为了杂草与食雨甲虫的乐园。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "我的副官莫莉德尔中尉会尽快替你筹办这些事。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "而洛佩拉……她很熟悉那座城市，可以做你的向导。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "老将军为基地的现状而叹气，但也尽力提供了他能提供的一切援助。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "除此之外，我也有一个请求，希望你能答应。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他显得很无奈。芝诺的窘境就像这座杂草丛生的基地，已不再有它曾经的辉煌与强大。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "如果我能帮上您的话，将军。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "那位叫红弩箭的年轻中尉，希望她能暂时留在这里，我手下的新兵急需一位可靠的教官。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "只要她本人不反对。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "谢谢你的理解。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "回去见见你的朋友们吧，莫莉德尔中尉应该也在会客室照顾她俩。"
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

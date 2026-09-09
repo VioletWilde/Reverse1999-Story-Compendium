@@ -1,0 +1,868 @@
+{
+  "episode_id": 11325,
+  "chapter_id": 113,
+  "chapter_title": "他者的悲哀",
+  "display_label": "",
+  "title": "在传说的远方",
+  "subtitle": "人们说，在啁啾回荡着的群山深处……",
+  "trails": [
+    {
+      "element_id": 1132501,
+      "owner_episode_id": 11325,
+      "trigger_episode_id": null,
+      "title": "机锋交错",
+      "description": "聪明人交流原则之一——有话绝不可以直说。",
+      "action": "对话",
+      "unlock_condition": "EpisodeFinish=1325",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1132502,
+      "owner_episode_id": 11325,
+      "trigger_episode_id": null,
+      "title": "文明的损失",
+      "description": "那些美丽而无用的东西，总是脆弱而易逝。",
+      "action": "交互",
+      "unlock_condition": "EpisodeFinish=1325",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "一份复盘会议记录"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "艺术陈列室藏品遗失事故复盘纪要\n\n一、事故基本信息\n    本次发生于总部艺术陈列室的遗失事故，由总部遭袭等不可控因素引发，涉及资料包含1件1969年意大利产移动打字机、1套80年代迪斯科舞曲录音带、年代不明的雪墩山湖底剑柄等共计42件藏品（见附件“时代藏品遗失清单”）。\n\n二、时间线\n    发生：战时，艺术陈列室暂被征用为防御工事结构部分，用于紧急避难和战事储备。其间，陈列室多处受损严重，“1960-1970年代”展区墙体甚至发生垮塌。\n    发现：后勤部门根据《“暴雨”清理协议》展开雨后清理工作，清理结束后管理员二次核对时代藏品清单，发现藏品丢失。\n    处理：当日，管理员调阅监控术式，确认无借出、征用、破损与维护相关记录；次日，调查人员完成初步价值评估，转内部复盘流程。\n\n三、原因分析\n    后勤部门：因失物无神秘学价值，相关清洁人员在战后清理“断舍离”时警惕性下降；\n    神秘学藏品管理部：后勤部门的《“暴雨”清理协议》中未明确界定“时代艺术藏品”与“历史生活废料”的辨识标准；\n    安保科：重塑之手“顺手牵羊”可能性不为零；\n    最终结论：暂不明确原因。\n\n四、改进措施\n    后勤部门：健全丢弃阻断机制，例如设置“72小时静置期”，并将此案例编入《“暴雨”清理协议》；\n    神秘学藏品管理部：健全藏品实物分类标准，统一收编艺术陈列室的非神秘学藏品；\n    安保科：健全失物追踪机制，强化安保措施。\n\n五、相关建议\n    此批历史实物藏品追踪等级定位为“低”，仍优先追踪神秘学藏品（包括借出后还未归还的）。\n\n附：时代藏品遗失清单"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "101340",
+      "internal_title": "第十三章13-25.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "在传说的远方"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "“……他们世世代代生活在这一片果园中，与一群罕见的鸟类魔精为伴，就像传说故事中的隐士。”"
+        },
+        {
+          "kind": "title_card",
+          "text": "妖精莓果园"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "“……他们世世代代生活在这一片果园中，与一群罕见的鸟类魔精为伴，就像传说故事中的隐士。”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "“这群人中的每一个人，都会与他们饲养的鸟类魔精一起长大。据说他们能听懂这些魔精的语言。”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "“只有少数年迈的人会留在隐居地里照顾家园，而大多数年轻的家族成员到了一定岁数之后，就会被‘赶出家门’……”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "第一助手放下手中的文件，抬眼时，一阵裹着青草气息的微风迎面吹来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "这是从昨晚落脚的旅店里搜集来的当地口头传说……这个消息是可靠的吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "不管真假，我们都已经到这儿了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "我们已经搜遍了周边的小镇，既然都找不到，那也只能试试这个传说了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "可是，如果传说是真的，那么，她生活的地方会被一种不为外界知晓的术阵保护着。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "我能找到方向。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "相信我，十四行诗，跟我来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "稚嫩的叫声",
+          "text": "嗷呜！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "嘘！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "小声些，别让她们发现我们。万一那两个人手上有武器怎么办？你想被拔光毛摆上节日餐桌吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "稚嫩的叫声",
+          "text": "嗷……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "好正式的衣服，布料看起来也很滑溜。哦……瞧，她的衣服挂在灌木上了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "小脑瓜，你说这样的有钱人老爷是怎么穿越老妈布置的屏障的？她们到这儿来会有些什么目的？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "先别动，司辰。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "橘发随从蹲下身，用术杖卡住了两片嫩叶组成的巨口。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "叶片利齿徒劳地啃咬着玻璃笔，无暇顾及悄悄伸入齿间、将外套布料解救出来的手指。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "幸亏有你在，十四行诗。不然这件外套就要成为它的口粮了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "我想这不是普通的覆盆子。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "嗯……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她举起术杖仔细端详，阳光透过了玻璃笔身，叶片在上面留下了肉眼可见的伤痕。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "有肉食性植物的特征，被保护着的内部却只有果肉而没有昆虫残渣……这应该是《威尔士常见神秘学植物》中记载的“妖精莓”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "食用妖精莓可以让神秘学家获得妖精的视野，从而找到神秘乐园的所在。可惜妖精莓在第一次“暴雨”来临前，就被认定为灭绝了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "现在是1935年，我们又见到了它。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "妖精的视野？……为什么我们不试试呢？也许我能看见一些特别的东西。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "试试？司辰，难道你想要……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "你没有阻止我，说明那本书上还说：妖精莓没有毒性。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "那个看起来很有钱的老爷要吃下妖精莓了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "稚嫩的叫声",
+          "text": "嘎……咕嘎！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "等等！交给我来处理，你们乖乖——嘿！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "难掩怒意的尖啸几乎刺破耳膜，狂风从果园另一头席卷而来，沿路灌木都为之垂首。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "小脑瓜！别过去！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "什么东西……！司辰，小心！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "别动手，别伤到她——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "11111"
+        }
+      ]
+    },
+    {
+      "script_id": "101341",
+      "internal_title": "第十三章13-25.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "小脑瓜",
+          "text": "咕！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "瞬、瞬时石哇！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "发音错误的神秘术没能如常生效，那只终于显露在光线下的怪鸟正在众人脚边来回打转，不受控制地啄咬着入侵者的鞋子。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小瑞安侬",
+          "text": "帮我堵住她！别让她被妖精莓咬伤了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小瑞安侬",
+          "text": "也别被她撞伤了，这小东西劲可比野猪还大。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "瞬时石化！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "灰色怪鸟凝固在原地，手忙脚乱的饲养员这才终于扑到了它身上，轻轻将其抱起，拍拍手便解除了它身上的石化效果。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "伴随着羽毛翻飞的喧闹终于消停下来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "抱歉，她不是故意的。只是她对于食物的占有欲格外强……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "你们……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "石化咒应该没打到你们身上吧？怎么不说话？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "不……对不起，我们走神了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "熟悉的金色纺线在眼前少女的身体里虬结，沉甸甸地钩织成了一个陌生人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "我是圣洛夫基金会的司辰，旁边这位是十四行诗，我的助手。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "请问……我该怎么称呼你？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "基金会的……司辰？基金会的人到这种乡下来做什么？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小瑞安侬",
+          "text": "哦，对了，你们可以叫我小瑞安侬。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "小瑞安侬……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "十四行诗试图打断这诡异的沉默，但面对着陌生又熟悉的“同窗”，她也很难说出更多的话。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "抱歉，小瑞安侬小姐，我们不是有意闯入。我们正在附近寻找一位失踪的友人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小瑞安侬",
+          "text": "好吧，那我肯定不是你们要找的人，我不认识圣洛夫基金会的长官老爷，我妈妈也不认识。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "叫我维尔汀就好。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小瑞安侬",
+          "text": "好的，维尔汀老爷。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "维尔汀。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小瑞安侬",
+          "text": "好吧，维尔汀，那你们也不用叫我“小姐”了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "果园主人上下打量了一番灰头土脸的二人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小瑞安侬",
+          "text": "……跟我来吧，我先帮你们处理一下伤口。"
+        },
+        {
+          "kind": "title_card",
+          "text": "隐居寓所"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "这是一间远远算不上整洁的驯鸟女巫小屋。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "魔药材料、咒文书籍、冬季铺盖和缀着花瓣的藤编鸟窝……有人试图在混乱中维持生活的平衡。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小瑞安侬",
+          "text": "不好意思，家里实在太乱了。你们也看见了，这些鸟都是小捣蛋鬼。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小瑞安侬",
+          "text": "妈妈不在的时候，我一个人很难管住他们。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "……你的妈妈？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她忙着把自己埋进成山的神秘术材料里，试图从蜜蝠翅膀、蟾蜍皮和灰兔腿的海洋中找到有用的东西。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小瑞安侬",
+          "text": "佩斯郡最负盛名的女巫，我的神秘学百科全书。可惜她这几天不在家，不然你们这些伤她只要吹一口气就能痊愈。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小瑞安侬",
+          "text": "啊哈！找到了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她掏出一只浸泡着某种植物根须的玻璃瓶，拔出瓶塞。呛鼻的刺激气味逸散的瞬间，肩头的小鸟就哀叫着跳了下来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小瑞安侬",
+          "text": "嘿！小脑瓜，这不是果酒，你不能喝！去去去，自己玩。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "被拒绝的灰色小鸟咕哝着抖了抖羽毛，生闷气一般把脸埋进了胸羽里。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "我从没见过这么聪明的小鸟。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小瑞安侬",
+          "text": "……是啊，他们是尘酿鹰，外面应该已经找不到这些鸟儿的行踪了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "少女的情绪有一瞬低落，但她很快在客人面前调整好了情绪。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她用一块纱布蘸了几滴刺鼻的药水，随后用浸湿的布轻轻擦拭客人还在渗血的伤口。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "……唔。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小瑞安侬",
+          "text": "你们不是妈妈的客人，本来我不应该和你们说这么多的……但小脑瓜抓伤了你们。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "没关系，这不是我第一次受伤了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小瑞安侬",
+          "text": "你经常受伤？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "我常常在世界各地旅行，像现在一样，难免会遇到各种各样的危险。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小瑞安侬",
+          "text": "旅行……你和你的助手？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "对，她总是和我在一起。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "手臂上被鸟喙划伤的伤口已不再渗血，隐隐有了结痂的痕迹。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "小瑞安侬，你也会出去旅行吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小瑞安侬",
+          "text": "我……应该是没有过你口中的那种旅行。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "那你希望有一场这样的旅行吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小瑞安侬",
+          "text": "呃……啊？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "唐突的提问让挂在法杖上的鸟儿们也转了过来，三双眼睛愣愣地看向提问者。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小瑞安侬",
+          "text": "不，我不能去太远的地方。我要留在这里照顾妈妈还有小鸟，还有果园里的作物也需要我来打理。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小瑞安侬",
+          "text": "我更愿意和这些孩子们在一起生活，看着他们从没毛的小鸡崽子长成现在的样子。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她抬手拨弄了一下灰鸟从法杖上垂落的尾羽，露出餍足的微笑。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "我明白了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "放在脚边的手提箱被再次提起。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "抱歉，我们的突然造访一定给你带来了困扰。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小瑞安侬",
+          "text": "没关系，我不是第一次应付这种事了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "很高兴认识你，小瑞安侬。我们要去寻找失踪的朋友了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "我们走吧，十四行诗。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "司辰……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她想说些什么以提醒搭档此行的目的，但最终保持了沉默。眼前的人已经不是自己记忆中的同学了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "那个总把脸缩在领子里面，因为成绩差总被关禁闭，但名字又总是出现在图书馆借阅单上的同窗——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "已经溶化在了跨时代的雨幕中，只把记忆留给了幸存者。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "不速之客们走出了隐居者的小屋。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小瑞安侬",
+          "text": "我已经修补好了防御术阵，只要沿着方解石小路走，就可以离开了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她们一路躲避着脚边叽喳的幼鸟们，踩着灰色晶石铺就的小路来到了果园边缘。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "谢谢你，小……小瑞安侬。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "如果你需要帮助，或者决定出一趟远门，欢迎来找我。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "你可以去最近的基金会分部，说你是司辰维尔汀的朋友，他们会帮你联系到我的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "小瑞安侬茫然地眨了眨眼，像是心虚，也像是不太习惯这突如其来的示好。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小瑞安侬",
+          "text": "谢谢……但是，对不起，十四行诗，维尔汀。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "什么？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "驯鸟女巫陡然将术杖指向客人，原本挂在术杖顶端的鸟儿警惕地缩到她的脚边。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "你要做什么？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小瑞安侬",
+          "text": "这、这里是尘酿鹰最后的栖息地。我不知道你们是怎么闯进来的，但我不能让你们把这里公之于众。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "我们会保守这个隐居地的秘密，我可以用你希望的方式做出保证。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小瑞安侬",
+          "text": "可是……我不能用鸟巢的安危作赌注。对不起……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她低下头，对自己说着什么，蚊蚋般的话音被尘酿鹰扑翅的声音完全掩盖。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小瑞安侬",
+          "text": "只是遗忘咒而已。我会把你们送到最近的铁路边。你们会很安全的！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小瑞安侬",
+          "text": "忘记这小小的插曲吧……这对我们都好……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "我不会——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小瑞安侬",
+          "text": "朝露无——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小瑞安侬",
+          "text": "——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "伴随狂风而来的长啸打断了施术者的咒语。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "这是……什么？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "格林杜尔",
+          "text": "……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "翅骨收拢了风，草叶随之停止了颤动。呼吸般明灭闪动的飞羽勾勒出巨鸟的身形。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "巨鸟瞥了一眼严阵以待的不速之客们，随后与驯鸟女巫对上视线。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小瑞安侬",
+          "text": "——格林杜尔？！你这么快就回来了？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "被称为格林杜尔的成年尘酿鹰低头理了理自己的羽毛，随后从背上抖落一只被塞得满满当当的包裹。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "驯鸟女巫靠近巨鸟，蹲下来，带着一种令她难受的预感打开包裹。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小瑞安侬",
+          "text": "这里面是……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小瑞安侬",
+          "text": "衣服，饼干，一罐巧克力酱，还有一包妖精莓蜜饯，一袋利齿子儿……还有……一封信？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小瑞安侬",
+          "text": "——妈妈？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她难以置信地抬起头。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小瑞安侬",
+          "text": "是妈妈派你过来赶我走的？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "格林杜尔",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "巨鸟摇了摇头，旁人竟在一只鸟的脸上读到了无可奈何的表情。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小瑞安侬",
+          "text": "为什么，她要把我送去哪里？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "巨鸟沉默着，不予作答。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小瑞安侬",
+          "text": "我才是你的女巫，你不能老站在妈妈那边！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小瑞安侬",
+          "text": "我们不是说好了吗？不要管我那些想出去冒险的梦话了，我……我还想留在这里陪你们。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小瑞安侬",
+          "text": "再说，我还从来没有一个人出过远门，我不知道——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "格林杜尔",
+          "text": "——嗷！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "巨鸟猛烈地振翅。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小瑞安侬",
+          "text": "呜哇——放我下来！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "它用利爪勾住了少女的斗篷，随后腾空而起，把她拉上了天空。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "小瑞安侬！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小瑞安侬",
+          "text": "别、别紧张，十四行诗，把术杖放下。格林杜尔是我的家人，他不会伤害我——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "他们往北边去了，我们快追上去，十四行诗。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小瑞安侬",
+          "text": "他应该会把我带到镇子上去，你们出了果园就往北走，一定不会错过的！我在那里——等你们——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "格林杜尔掠过低空，拖着少女的呼喊，向妖精莓果园外的威尔士群山飞去。"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

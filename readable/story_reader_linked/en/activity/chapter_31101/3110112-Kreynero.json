@@ -1,0 +1,617 @@
+{
+  "episode_id": 3110112,
+  "chapter_id": 31101,
+  "chapter_title": "The Midnight Whistle",
+  "display_label": "",
+  "title": "Kreynero",
+  "subtitle": "Three sips and the way home will be clear.",
+  "trails": [
+    {
+      "element_id": 3110109,
+      "owner_episode_id": 3110112,
+      "trigger_episode_id": null,
+      "title": "Echoes of the Past",
+      "description": "Recalling the past is the simplest way to hurt yourself, so I never do.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=3110112",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Alright, moment of silence over."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Oh, I'm not a believer—not an atheist either. But I do respect her sacrifice."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Even if it was stupid and meaningless."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "But, as I said before, there's no greater proof of loyalty than to follow a fool."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "At least she died for a cause—her family legacy, her spirit of exploration, even that children's fairytale."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "She was stupid, but she was faithful."
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "It happened so fast.",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Were you expecting a warning first? I thought you'd know better after what you've been through."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Sorry, but you won't hear any praise from me for a sentimental commander."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "If I were your superior, I'd tell you to rip out your own heart and let the others see what sentiment leads to."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Oh, come on. You and I both know this isn't the end for her."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "For someone as devoted as her, death is nothing more than the achievement of eternal life."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "She's not like those blind followers who cut off their tongues. In fact, at this very moment, I fear she's being confronted with her own beliefs."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Join her now, while the gate is still open."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Or she'll leave you behind for good."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "You're cold-blooded.",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "203117",
+      "internal_title": "【3.1】长夜鸣笛12",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The train glides into a soft brake at the checkpoint."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The steel beast breathes out a final belch of dark smoke before it stops."
+        },
+        {
+          "kind": "title_card",
+          "text": "Border Checkpoint"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Border Checkpoint Soldier I",
+          "text": "The \"Danube Dawn\" ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Border Checkpoint Soldier I",
+          "text": "Operated by Vienna-Pannonian Railways, 12 carriages."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Border Checkpoint Soldier I",
+          "text": "Date of arrival: November 30th, 1912. Location: Nika Border Checkpoint."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Border Checkpoint Soldier I",
+          "text": "Persons on board ... 250 ... 50 ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The sound grows faint, looping over and over, as if trapped in a prison of numbers."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "Sir?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The conductress steps forward. The soldier's face, pale as moonlight, looks freshly recovered from a long illness."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Border Checkpoint Soldier I",
+          "text": "Oh, er, just the usual checks. We'll have you on your way shortly."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Border Checkpoint Soldier I",
+          "text": "Welcome to Nika checkpoint, Conductress."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "Pyrrhos, your chief officer—where is he? I need to see him."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Border Checkpoint Soldier I",
+          "text": "Ma'am, he ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "His eyes drift before finally finding focus."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Border Checkpoint Soldier I",
+          "text": "He's expecting you. Said you'd know where to find him."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "Iglika! Aima! What a joy to see you both again!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "How's the trip treating you? All going well?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "An officer strides in, smile warm and practiced."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "Just the usual."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "Ah, well, there's nothing wrong with that. Aima, come."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "Here. A refugee gave it to me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Aima",
+          "text": "Oh, Uncle Pyrrhos. Now I have all five of them. Thank you ever so much!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "That's quite alright, my dear. Now, you be a good girl for Aunt Iglika, and maybe she'll sew you a dress for it, then you can line them all up, like one big family."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Aima strokes the wooden doll gently. Pyrrhos watches, his expression tired but kind."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "You look exhausted. Has there been trouble?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "Do I? Perhaps I am a little worse for wear. Dealing with border patrol is always a pain. You know how it is."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He continues speaking, while his eyes flick subtly toward the stewardess."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Aima",
+          "text": "Oh, yes. I just remembered I still have to clean the windows on the dining car. Thank you again, Uncle Pyrrhos."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Aima pockets the toy with understanding, then turns to leave."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The door shuts, and the officer's smile turns sour."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "There are eyes on us, and not just some casual suspicion. I believe they may be professionals."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "I just received word that two of my men were knocked out while on patrol—somehow without alerting anyone. Whoever did it was well trained."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "All that is to say ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "Someone's sniffing us out, my friend."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "To rule out any threat, I need to verify every passenger on board, carriage by carriage."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "I am fully within my authority to stop this train at any time to conduct an investigation."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "What's wrong?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "I know that look. You know who's behind this, don't you?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "I'll handle it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "The St. Pavlov Foundation—you heard of them?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He wastes no time."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "Oh, Iglika. *tut* You've met them already, haven't you? They're on your train as we speak."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "How else could my men have been ambushed in such an isolated location? You're harboring a snake, my friend, whether you know it or not."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "She's not after the cargo. As for the assault, I will handle it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "I won't allow anything to jeopardize the mission. This train must reach Budapest."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She dismisses his concern with a sharp wave."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "*chuckle* Ah, makes me miss it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "I'll never forget the day you stood up for me. It's thanks to you that they even allowed me to stay with the guerrilla unit."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The officer narrows his eyes, mind slipping back to a faraway summer."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "Things were simpler back then. All we cared about was the cause, about unity, and the Thracian Liberation Front."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "Fighting for a world where, regardless of race or bloodline, we'd all live as one great family."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "We crossed forests, trudged through the snow over the mountains, and turned the enemy's supply lines to dust, heh. We scared those cavalrymen half to death."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "And when night fell, we'd gather around the fire, break bread, clean our sights, and sing those songs of war and liberation, like brothers and sisters. You remember, don't you, Iglika?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "It was a good life."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "What a shame that not everyone shared our vision. Betrayal, bloodshed, comrades parting ways ... We went through all of it together."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "In the end, even we chose to walk away. And now, after all these years ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "I have a second chance to fight for what we believe in—the \"Danube Dawn.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "His voice softens as he leans against the window."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "As he turns, the scar at his temple shows raw and red, like burnt vines."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "I've always felt we were kindred minds, you and I."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "I trusted you then, and I trust you now. I won't take any action against the Foundation—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He pauses."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "On two conditions."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "First, the train mustn't leave until morning."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "We need it here long enough to go through some procedures and put together a justifiable account of the assault."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "\"Procedures\"? You mean ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "I'm getting there. Second—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "I need to conduct a full search of the train."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Same old talk. Stops, papers, inspections ... it never ends."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "The train's already been searched. You'd only raise more concern with the passengers."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "I can provide you the passenger list if you must check."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Pyrrhos shakes his head."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "Believe me, my people don't enjoy this any more than yours do. But ... *tut* word has gotten out. It's only a matter of time until people start asking questions about the attack."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "Besides, better that I do it, rather than getting the government or the company involved. We wouldn't want their prying eyes looking any closer, now would we?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "His point is made. The conductress carefully chooses her next words."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "One of my crew members will be with you at all times. And tell your men to stay clear of the \"cargo.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "As for the time we're losing, I need compensation: food, medicine, and priority clearance when we reach Budapest."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "The paperwork there is cumbersome, and each minute the train is stopped risks our \"cargo\" being exposed."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "It's give and take. Do we have a deal?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "His expression blanks, then yields a faint resignation."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "Iglika, Iglika ... *tut* I knew you wouldn't make this easy. You never do."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "This is a fair negotiation, Pyrrhos, for both of us."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "We both have responsibilities to attend to, yes?"
+        },
+        {
+          "kind": "title_card",
+          "text": "Seating Carriage"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The door creaks open. The conductress leads, her steps firm, face lightened by unusual ease."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Pyrrhos follows, neither angry nor content."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Aima",
+          "text": "*yawn* Finally. Is everything alright? That was a long talk."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "Of course, sweetheart. I got a little carried away talking about the good old days, and I should know better than to challenge your boss at the bargaining table."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He mutters complaints, then bends low, voice dropping."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "Listen, I'm sorry we haven't had a chance to talk. There's a lot on my plate right now."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "But when I'm done, I have another \"gift\" for you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Aima",
+          "text": "Another? But Uncle Pyrrhos, my closet is already bursting."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "Shhh, this one's a secret. You'll see soon enough."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "With a wink and a lazy stretch, he trails after the conductress, out of sight."
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

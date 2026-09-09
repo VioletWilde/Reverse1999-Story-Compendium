@@ -1,0 +1,766 @@
+{
+  "episode_id": 11024,
+  "chapter_id": 110,
+  "chapter_title": "Paradise Regained",
+  "display_label": "",
+  "title": "The Other Bank of the River",
+  "subtitle": "Go to the other ferry, back to the mouth of the River Tiber.",
+  "trails": [
+    {
+      "element_id": 101024,
+      "owner_episode_id": 11024,
+      "trigger_episode_id": null,
+      "title": "Breathe Again",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=11024",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Another near-drowning. How nostalgic."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Take it easy. You can't move yet. Just stay right there and listen to the report."
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "Wasn't the last one the \"final\" report?",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Urgh …"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Okay. You win."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "You did it, noble savior. You turned the tide and saved the world at the last moment."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "And I didn't see it coming. There. Are you satisfied? Can we get to the report now?"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "It's your loyal greyhound licking your wounds. She's doing whatever she can to wake you up—another metaphor, of course. I'm sure I don't need to explain it."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Just another reason not to wake up yet. The salt water will get in your eyes ..."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "And that'll just be embarrassing for everyone. So you just keep lying there and listen to me."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "You almost drowned again, but not because you're a bad swimmer."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "No, it's because you'd rather die than let that spinning wheel go."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "But a spinning wheel is a spinning wheel, no matter how precious the thread it spins is—and you already have one."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "What's the use in having two? You're the only spinner, after all."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "And even if you tear it apart, its broken components can't be used to fix yours. Just because two things look alike doesn't mean they're interchangeable."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "This is a universal truth. Not just for spinning wheels, but for animals, fathers and sons—mothers and daughters."
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "I need to wake up.",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "Just wait a moment longer. The greyhound's looking for your hat."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "This is the only thing she can think to do besides first aid measures."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "It's cute, isn't it? Seeing her so naive and superstitious. We should play along for a little longer."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "Sure, you deserve a moment of quiet, savior."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "Forget about the mess out there. Take a break."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "Don't rest for too long, though. The greyhound's on her way back with your hat."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "If you're not awake by the time she arrives, there's no telling what she'll do."
+                }
+              ]
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "I'm done talking. Leave me alone.",
+              "edge_label": "",
+              "branch": []
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "My cheek feels warm.",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "101035",
+      "internal_title": "第十章10-23",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "The Other Bank of the River"
+        },
+        {
+          "kind": "title_card",
+          "text": "Altar, Sanctuary"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "She's gone? Just like that?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "As Arcana vanishes, the sanctuary rocks once again. Yet more boulders fall, their tumbling cacophony heralding death."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "\"The end is nigh\" ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Timekeeper, we may have slowed down the \"Flood,\" but the water is still rising."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "There are very few options left for us now."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "This place could collapse any minute. W-We should go. We should go right now."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "You're right. Go find the Foundation troops. They'll get you to safety."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "Wh-What about you?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "I cannot allow Manus Vindictae to wipe this world clean."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "The sanctuary should hold a little longer. I have to try again to stop this \"Flood.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Mr. Ulrich risked his life to buy us this time. We mustn't squander it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Sonetto nods, still lost in thought."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "But, neither attacking Animus nor destroying the sanctuary stopped the ritual."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "What else can we do?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Even though Arcana is gone, the ritual is still ongoing. She must have left the source of its power here in the sanctuary."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "They needed Dr. Dores to start the ritual. Perhaps the power source is tied to her somehow."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "I need to check the altar again."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "But ... But it's under the \"Flood.\" You can't touch the water, or you'll disappear. Let me take you. I can fly you over the top, and you can take a look from there, ugh!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Nautika raises her forepaws, but her wings fail to spread. Blackened, bruised, and wounded."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "I'll be fine, Nautika. The water can't harm me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "The \"Flood\" is a mix of glacier water and \"Storm\" water, which doesn't affect me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "So, to me, it's just ordinary water."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Look."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Water slips through her fingertips, and the hand submerged in it remains unscathed—time has left no trace."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "See? I'm fine. It's a little chilly, but nothing more."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Sonetto, please take my suitcase and go with Nautika. I'll catch up to you later."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She turns around, searching for a suitable spot to enter the water. The icy water sending shivers up her thigh all the way to her neck."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Timekeeper."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Behind her, Sonetto clutches the suitcase, holding off her desire to speak."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Sonetto, it's dangerous here."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "I'm your assistant. It's my duty to stay by your side, no matter how great the danger."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "I'm staying. I'll wait here for your return, Timekeeper."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Leaping in, ancient bones and debris glide past."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The path forward is already decided."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "If I remember correctly, the ritual began right after Dr. Dores spun the Wheel."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Doctor Dores",
+          "text": "The threads ... They were drawn away somewhere deep below me. This—this isn't right."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Doctor Dores",
+          "text": "And the Wheel ... I can't seem to stop it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Doctor Dores",
+          "text": "Vertin, you must leave."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "The ritual began when Dr. Dores turned the Spinning Wheel, and once it started, it kept turning as if it were sustaining the ritual."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "So the Wheel must be the key to all this. That's what I should be looking for."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Just like before, with eyes closed, instinct takes over."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Upon reopening them, the golden thread flickers into view once more."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "A thread?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Is Dr. Dores guiding me?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "It's leading me deeper."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Yet it stretches without end."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Ugh!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A strong current pulls a dense thicket of obscuring debris into her path; the guiding thread vanishes from just beyond her grasp."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "The current is growing stronger. Regulus's song must be coming to an end."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Time's running out. I need to find the Wheel as soon as—Huh? Where did the thread go?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "… ♪"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A familiar hum drifts from above. Clinging to the rocks, she lifts her head, and there stands the one she sought."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Doctor Dores",
+          "text": "...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Dr. Dores!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Doctor Dores",
+          "text": "Vertin. You came. My instincts were correct. I knew you'd find your way here."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Doctor Dores",
+          "text": "The threads are no longer under my control. It's as if they're flowing down into some sort of well. I believe it is the source of the \"Flood,\" too."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Doctor Dores",
+          "text": "If we're to have any hope of stopping this, I think we'll have to halt the Spinning Wheel first."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Agreed. Stay where you are, Dr. Dores. I'll—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A singular fixed detail catches her eye."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Dores's feet are gone, as though they never existed in the first place. She now maintains her balance by gripping the sides of the Spinning Wheel."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "What happened to your feet?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Doctor Dores",
+          "text": "Ah. They were gone when I woke up. They must've touched the water when I was unconscious."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Doctor Dores",
+          "text": "My apologies. I would bring the Spinning Wheel to you, but my body will dissolve in the water."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "No problem. I'll come to you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Doctor Dores",
+          "text": "Be careful. The current is strong here. I tried several times to escape, but the conditions are too unpredictable."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Doctor Dores",
+          "text": "I think it's because this is ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A shriek cuts her off. The \"Flood\" churns below them."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "White waves spiral, coalescing into a fathomless vortex."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Eye of the \"Storm.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Doctor Dores",
+          "text": "Careful, Vertin. The Spinning Wheel is resuming its pace."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Dores cradles the Wheel. Its rotations seem to match the trembles of the current's pulse."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Stay right there, Dr. Dores. I'm com—Urgh!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She lets go of the rock wall and tries to move forward, but the raging waves grab her and sweep her away. Despite a moment of panic, she manages to steady herself on another rock."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A sharp slice coats her palm in red. Fortunately, the water's icy chill numbs the pain."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "*coughing*"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her blood dissolves quickly in the water. Next to them, the whirlpool is growing ever larger."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "*panting*"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "It's alright. Just try again."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Another attempt. Then three. Four ... Each time, the waves slam her back against the rock."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "And the current grows fiercer."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Doctor Dores",
+          "text": "Vertin!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Resolute, she tears her dress's hem, lashing the Spinning Wheel to her body."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Doctor Dores",
+          "text": "Wait there. I'm bringing the Wheel to you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Dr. Dores, no!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Propped against the rocks, Dores drags herself into the torrent. The cold wracks her with shivers, but she moves undeterred."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Doctor Dores",
+          "text": "Ugh!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Soon, half-submerged, only her arms cling to the shore as the flood devours her lower half."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The raging pool batters her slender frame, yet she and the Spinning Wheel keep bobbing up amid the waves."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Doctor Dores",
+          "text": "Just a little closer."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "That's far enough. Just stop right there, please. Don't—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Lazo   Lock!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "An unusually successful arcane skill anchors her to the rock, defying the pull of the rushing water."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She leans, stretches—yet those final meters feel insurmountable."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The Wheel shudders ever more violently now."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The roar of water fills her ears."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Doctor Dores",
+          "text": "Vertin."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Doctor Dores",
+          "text": "Don't worry about me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Dores's voice cuts through the roaring waves—calm, gentle."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Doctor Dores",
+          "text": "I'm glad to have seen you again, child."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Doctor Dores",
+          "text": "I wish you my very best on the journey ahead."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Dores releases the rock. The current seizes her, pulling her forward."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The Spinning Wheel bobs on the surface while what's left of her dissolves piece by piece."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Okay. I got the Wheel."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Now take my hand, please."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Doctor Dores",
+          "text": "Goodbye."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "DR. DORES!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "And the Spinning Wheel stills, and the furious waters grow quiet."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "One raindrop rises from the \"Flood.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Then two, three ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The \"Flood\" recedes."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "And the \"Storm\" begins."
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

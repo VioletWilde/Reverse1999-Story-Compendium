@@ -1,0 +1,27 @@
+# Main Story · 他者的悲哀
+
+- [11301 Reckoning Time](11301-Reckoning Time.md) — Before the dust settles.
+- [11302 Homecoming Day](11302-Homecoming Day.md) — A pure and pristine song.
+- [11303 Escape Plan](11303-Escape Plan.md) — Some school traditions run older than the oak trees in the forest.
+- [11304 The Cube Researchers](11304-The Cube Researchers.md) — Only by opening it can we know what's inside—but should we really?
+- [11305 Stone Doves](11305-Stone Doves.md) — It seems they could stand there in silence forever.
+- [11306 Burned Feathers](11306-Burned Feathers.md) — A bird flies on more than wings alone.
+- [11307 The Alumni](11307-The Alumni.md) — Legends never belong to those who live them. No one knows what the ones that follow added to their story.
+- [11308 Bumpy Roads](11308-Bumpy Roads.md) — Rockslides are just the beginning of their problems.
+- [11309 Rules Are Rules](11309-Rules Are Rules.md) — What could be more pressing than the work right in front of us?
+- [11310 Emergency Measures](11310-Emergency Measures.md) — One must have the wisdom to adapt to endless change in the face of what never changes.
+- [11311 A Hard Choice](11311-A Hard Choice.md) — Now each of us must find our own way forward.
+- [11312 The Shapeshifter](11312-The Shapeshifter.md) — What you learn in school isn't always useless—run into enough trouble, and you'll find a moment to put it to use.
+- [11313 Thorny Thicket](11313-Thorny Thicket.md) — Life finds a way, as it always has.
+- [11314 Vacuum of Arcanum](11314-Vacuum of Arcanum.md) — Still and unmoved.
+- [11315 Behind the Door](11315-Behind the Door.md) — A path cleared ahead of you.
+- [11316 Overexposed](11316-Overexposed.md) — Don't worry—the guide hasn't gone anywhere.
+- [11317 The Hope in Her Heart](11317-The Hope in Her Heart.md) — A single candle's light cannot fill an empty room.
+- [11318 Song of the Black Sheep](11318-Song of the Black Sheep.md) — Gaze into the abyss.
+- [11319 Amulets](11319-Amulets.md) — It's time to leave—ready or not.
+- [11320 A Peek into Fate](11320-A Peek into Fate.md) — Even the untouchable has a texture.
+- [11321 The White Tower](11321-The White Tower.md) — Power and reason were pressed into white bricks, and the great statue built from them is unbreakable.
+- [11322 Wishing for Peace](11322-Wishing for Peace.md) — Please don't forget every dove that flies your way—and the olive branches they carry from afar.
+- [11323 Peace and Loss](11323-Peace and Loss.md) — Can I see a falling tear, and not feel my sorrow's share?
+- [11324 Her Reward](11324-Her Reward.md) — Walk free from the maze of lies and find a treasure as light as breath.
+- [11325 The Legendary Hermitage](11325-The Legendary Hermitage.md) — People say that deep in the mountains, where birdsong echoes ...

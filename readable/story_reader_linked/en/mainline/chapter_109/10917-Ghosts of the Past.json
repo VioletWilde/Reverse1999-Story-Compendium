@@ -1,0 +1,776 @@
+{
+  "episode_id": 10917,
+  "chapter_id": 109,
+  "chapter_title": "Folie et Déraison",
+  "display_label": "",
+  "title": "Ghosts of the Past",
+  "subtitle": "Beneath the earth, those who were never granted marble nor memorials call out her name.",
+  "trails": [
+    {
+      "element_id": 1091701,
+      "owner_episode_id": 10917,
+      "trigger_episode_id": null,
+      "title": "Armed with Literature",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=10917",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Ahem ... Take a deep breath, soldier; the smoke's cleared now. This story—this \"battle\"—will soon come to an end."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "A writer has departed from her domain, leaving her creations scattered behind her, like blood-soaked bandages and fragmented skulls in the trenches."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "What a garbled mess."
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "I don't understand it at all.",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Glad we're on the same page. Thank heavens my commander wasn't some kind of littérateur; else I'd have been blown to bits before I could decipher their poetic orders."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "*whistle* How wonderful for you. You know what? You should be the leader of the Literature Encryption Communication Team. Just arm yourself with a dictionary, and even enemies with .45 Maxim machine guns won't stand a chance against you."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Because the poetry you recite will surely blow their minds before their bullets pierce yours."
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "You've developed a sense of humor.",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "Well, it's all thanks to a certain writer, the embodiment of the wandering poet and traveler from Santiago to Buenos Aires. She impressed me with her precious experience as a cafe dishwasher and campground caretaker."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "What really rekindled my sense of humor was her seriousness about her literary pursuits. You'd understand what I mean if you'd ever heard a cheesy joke at a comrade's graveside."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "Drawing strength from her wanderings and rebellious exploits, she attempted to change society, wielding the sword of literature as a revolutionary intellectual and a leader of thought."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "Some would hail her as a battle angel of Latin America, with words as piercing as bullets and poems as powerful as tactical bombers."
+                }
+              ]
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "I doubt literature has such a profound impact.",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "Many share your doubt, myself included."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "You stand firm in your beliefs, huh? Well, maybe that's a good thing. A commander has to trust their soldiers, or they'll be forced to surrender before long."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "Here, come closer. Let me tell you a secret ..."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "Many—if not all—people foolishly think it's the executioner who drops the guillotine blade, the powder that fires the bullet."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "While they're half right, they're substantially inaccurate. The craters on the battlefield aren't the result of bombs, but of clashing ideologies—a trigger pulled long before the powder ever ignited in the barrel."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "As for literature ..."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "Well, it's probably best not to buy too much into the Latin American Boom. Forget about the status report from earlier."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "That said, at least there's one thing that's certain:"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "Books can bite back—and they'll leave scars."
+                }
+              ]
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "I believe in the power of literature.",
+              "edge_label": "",
+              "branch": []
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "I think I understand.",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100925",
+      "internal_title": "第九章9-17",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "Ghosts of the Past"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "On an unknown night, the wind carries the cold desolation of the desert."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "In the cottage with a blue roof, a girl dreams of a circular prison."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Then, she wakes."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "What a bizarre dream."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "The taste of reality—so bitter and sad."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "But full of dialectical thinking, haha. Maybe the people of the Panopticon were reflecting my inner thoughts?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She looks around, surveying the cobwebbed corners where stacks of manuscripts have piled up to the ceiling and over empty ink bottles collecting dust."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "Ah, so I really am a character in the novel!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "The mysterious cottage with the blue roof was my home all along. Then, the rumors the ghosts spread were indeed just that—rumors."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The young writer steps out of her home and into the streets of the familiar yet foreign desert town."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Countless nameless characters and ghosts arrive upon hearing the news, filling the roads and skies."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Bank Clerk",
+          "text": "Welcome back to Amalfitano, dear writer!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "Thank you, dear icon of capitalism. But, didn't I tear this novel to pieces?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A woman wearing a peculiar hat steps forward."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Paracausality Researcher",
+          "text": "You see, Amalfitano is a dimension beyond life and death."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Paracausality Researcher",
+          "text": "This town is a reflection of your inner thoughts. It's incorporeal. You can't tear something incorporeal into pieces."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Paracausality Researcher",
+          "text": "Literature is endless and timeless, like a river flowing across life and death."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "No wonder you're my favorite character. You never cease to enlighten me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Door-Side Beggar",
+          "text": "Unfortunately, literature is a dangerous and futile calling. Nobody truly understands or even remembers your work!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Door-Side Beggar",
+          "text": "Do you remember the saying? \"The only truly dead are those who have been forgotten.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Door-Side Beggar",
+          "text": "Hahaha, Recoleta, you'll disappear for good if you leave Amalfitano again. It'll be like you never existed!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "I've always admired your critical thinking, sir. It fits your role perfectly."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Rough hands grasp the writer's palm, feeling at the lines etched into her skin."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Blind Weaver",
+          "text": "Everything will be alright, Recoleta."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Blind Weaver",
+          "text": "Whatever happened, you've returned now. That's what matters."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Blind Weaver",
+          "text": "The Die of Babylon will roll again, and each of us will get our endings."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The crowd erupts in cheers."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Murdered Donkey Driver",
+          "text": "That's right. Solve the murder at the bar and put my soul at rest!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Dune Piscator",
+          "text": "Free the village from the madness inflicted by the ancient spirit!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Paracausality Researcher",
+          "text": "Fix the randomness of the Die of Babylon and flatten the calamitous frequency!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Amalfitano Residents",
+          "text": "Roll the Die one last time, Recoleta!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The young writer takes a step forward. Everyone, the living and the ghosts, watches expectantly."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "So the ending I've been searching for is the one the other \"me\" was unable to give me?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "The \"me\" that plunged headfirst into the struggle against an undefeatable power. The \"me\" who ultimately left this land ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "After all this time, I've finally found my ending."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She grasps the gleaming Die of Babylon."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "Just one more roll, and it will all be over."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "My story, my town ... Everything will finally come to an end."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "But the dream about the Panopticon ... It'll end as well, won't it?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She stops."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Bank Clerk",
+          "text": "Oh, sweetheart, it's just a dream."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Door-Side Beggar",
+          "text": "Ha, don't tell me you're abandoning your lifelong pursuit for a measly dream!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Murdered Donkey Driver",
+          "text": "That dream is cruel. No one understands this great novel there or this amazing town."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Blind Weaver",
+          "text": "But here, you are a true writer. This is your home, Recoleta."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "But I already miss my friends in that dream. It exists, just like this place does."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Dune Piscator",
+          "text": "But we're your friends too, Recoleta!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Paracausality Researcher",
+          "text": "You might disappear forever if you leave Amalfitano. Are you sure you want to leave?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The young writer puts down the die in her hand."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The die that signifies the end of everything vanishes into the sandy wind."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "You know what I'm like, my dear friends. I've spent my life embarking on foolish, unrewarded adventures."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "That's just who I am, isn't it?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "Amalfitano is indeed an ideal place—a place for wandering, for a short trip, and for losing oneself for a while."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "And it has you, my fictional friends, who I love so dearly."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "But I must return to my dream and see my friends there. They're just as important to me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "As they hear her words, the ghosts of the town smile with relief."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Paracausality Researcher",
+          "text": "Yes, you're right, Recoleta."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Paracausality Researcher",
+          "text": "There's no denying that you're a noble and passionate soul. Every one of us knows it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Door-Side Beggar",
+          "text": "Hmph, you're our dear friend, too. Why would we stop you from doing what you truly want?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Everyone makes way for her as a path into a boundless void unfolds."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Blind Weaver",
+          "text": "We wish you the very best, Recoleta."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Blind Weaver",
+          "text": "Goodnight, my dear. May your dream be a sweet one this time."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "Thank you all, my friends. I'll never forget you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The girl wipes the tears from her eyes and steps into the looming darkness."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "All is silent as she enters the barren land. There is only the faint sound of footsteps echoing against a vast and empty darkness."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Editor",
+          "text": "I've read your work, Ms. Recoleta. To be frank, it lacks both depth and breadth."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Editor",
+          "text": "This town of yours is still far from reflecting the complexity of society, and the narrative lacks a discerning perspective. It still needs some work if you want it to truly resonate with our audience."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Editor",
+          "text": "Just go for it, Miss. You're at a perfect age to explore, experience, and learn!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Time wheels, and at last the girl feels her existence again within the void. She reclaims her voice."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "Wh-What's happening to me?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A thousand, or perhaps countless, faces emerge before her again."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "Ah, of course! The Rise and Fall of Sanity is my story."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "So, even though the novel's been destroyed, the story—and myself along with it—lives on in the minds of those who read it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "Thank you for your feedback, editor! Even here in this great expanse of darkness, I can still hear your words!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "You have my gratitude. Thank you for reading my novel, even if you didn't understand it and likely never will."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She navigates a labyrinth of words and an endless expanse of mirrored waters. The darkness surging toward her like a rush of waves on a dark night, making her presence feel heavier."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Young Woman",
+          "text": "Honestly, I find your story totally fascinating! But I'm still struggling to understand the connections between all these nameless characters. Couldn't you make it clearer, like a movie?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Young Man",
+          "text": "Hmph, typical—trust a writer to try to be all obscure and mysterious."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "María, Pancho, you guys are the best traveling pals I've ever had!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "Our paths may diverge in the future, but the joyful memories of our journey across grasslands, snowfields, and deserts together will remain forever."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Young Woman",
+          "text": "It's been great coming along with you. You're totally one of a kind. We'll be waiting for you at my aunt's vineyard. A little sun after a hard day's work will do you good."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The passionate companions wave to her, never looking back as they continue forward. The girl's steps are no longer weightless. With every step she takes, they feel heavier and more real."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She lingers inside the infinite Mask in the Mirror, the boundless universe filling her with both confusion and illusion."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Idealist",
+          "text": "There is ambition in her writing. It's passionate and poetic, fractured and chaotic. But, when viewed as a whole, her work feels like little more than a superficial illusion. It lacks the depth to truly touch the soul."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Idealist",
+          "text": "I will refrain from offering further comments until she stops romanticizing her childish adventures."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Physician",
+          "text": "To put it bluntly, her phraseology feels overly deliberate to the point of distortion. Her verbiage is like a collection of vague sentiment bubbles."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "I see, Aleph. Then this is how you really feel about my novel?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Aleph",
+          "text": "A thousand readers will interpret a story a thousand different ways. Some believe the text itself is dead, and it is the reader who gives it life."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Aleph",
+          "text": "The truth cannot be fully conveyed through words alone. That said, I think The Rise and Fall of Sanity is a good story."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her heart skips a beat."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Within this \"paradise\" that harbors the boundless histories and mysteries of humanity, she finally finds the mirror that shows her reality as it truly is."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "Oh, so the eternal paradise is a library of sorts, just like I always imagined! Or, is this just another reflection of my inner thoughts?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "Hmm, I like it here. It's nice being surrounded by literature."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "But it's time to go back. Back to reality."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "You're right about literature, Door-Side Beggar. It is a dangerous and futile calling, but I still believe in it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The investigators from the Foundation breathe a sigh of relief together."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Recoleta's reappearance is as sudden as her disappearance. Sonetto hasn't even had time to wipe the tears from the corners of her eyes."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Recoleta? You're back!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "I'm so glad to see you're safe."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "And I'm so glad to see you two worried sick about me, tee-hee! Thanks, my best friends Sonetto and Vertin!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The reborn writer turns to the prisoner sitting dejected nearby."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "See, Aleph? I still exist."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Aleph",
+          "text": "Amalfitano is gone. It's all over."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Aleph",
+          "text": "You're simply a wandering ghost now, never to return home again."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Aleph",
+          "text": "You may still exist, but Amalfitano will never get its ending. You've nullified its existence, rendering all of this meaningless."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Aleph",
+          "text": "I'm sorry I couldn't answer your question. I've failed once again."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "His die falls to the ground. Once used to construct a beautiful dream, now whatever magic it held has dissipated."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Aleph",
+          "text": "Amalfitano and the Panopticon were two parts of a whole."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Aleph",
+          "text": "With Amalfitano gone, Comala no longer has any reason to exist."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "I'm sorry, Aleph. You, who know all the mysteries of the world, who seek answers to every question,"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "have lost yourself in the process."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "You can answer everyone else's questions, but never your own."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "Who's the person behind that mask? Is he real? Does he still exist?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Aleph",
+          "text": "Who am I?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The weighty ending to the story leaves the prisoner, still trapped in a blurred illusion, exhausted."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Comala Prison groans, like an aging waterwheel struggling under its own weight, distorting, fading, and collapsing into the currents of his mind."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Stay vigilant, everyone. This is just like when the Idealist and the Physician had their meltdown."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Only this time, it seems even worse."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "I think ... Aleph is trying to tear down the Panopticon."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Beyond the crumbling walls, a shivering figure is faintly visible. He grips a gun tightly. The black barrel, shaking in his hands, is aimed at the people in the room."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "F-Freeze! Stay where you are, all of you!"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

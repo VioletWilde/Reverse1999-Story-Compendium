@@ -1,0 +1,567 @@
+{
+  "episode_id": 10902,
+  "chapter_id": 109,
+  "chapter_title": "疯癫与文明",
+  "display_label": "",
+  "title": "实质与环",
+  "subtitle": "首尾衔接的环？这远不足以概括“命运”的实质。",
+  "trails": [
+    {
+      "element_id": 1090201,
+      "owner_episode_id": 10902,
+      "trigger_episode_id": null,
+      "title": "世界尽头的乌斯怀亚",
+      "description": "这里是哪儿？这里是文明的最远端。",
+      "action": "对话",
+      "unlock_condition": "EpisodeFinish=10902",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "一场赌局在你不熟悉的地方开始了。不久后，你也会收到上桌的邀请。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "说说情况",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "呵……你的要求越来越明确了。首先你得知道，大多数赌局都有这么一条规矩：中途上桌的人不能问东问西，否则将饱受针对和排挤。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "直到他输上好几把，交够了“学费”，才会有资格得到问题的答案——比如对家的身份地位，比如庄家的发牌习惯，比如肥鱼的下注比例。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "有的时候我就无法理解这种行为，怎么会有人千里迢迢过来，只为了输掉自己的钱。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "为了胜利",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "这不是个问题，不过你回答了我，向你致谢。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "是的，没有人不喜欢胜利。当骰子在空中旋转，赌徒就开始寻找好运——移动桌角、轻咳两声，再闭上眼做一次虔诚的祈祷……以为自己能左右命运。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "愚蠢，愚蠢又迷信，还有点可怜。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "啧，你好像被什么绊住了脚，但那绝不是一颗抬起脚就会爆炸的地雷。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "有的人离开了这些漂亮的字眼就活不下去。他们本身无足轻重，但只要讨论起这些字眼，他们就有种自己成了大人物的错觉。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "虚伪，甚至自欺欺人。"
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "反正赌局很公平",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "不。赌本不对等、获胜条件不一致，甚至连比骰子的规则都在被单方面定义。这里的公平需要被争取，不择手段地争取。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "那些身穿白色西装的职业牌手们步步为营，靠着四处下注来盈利，而披着黑袍的疯子们正考虑该怎么将桌子掀翻。"
+                }
+              ]
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "聪明的对策",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "那不是聪明，那只是愚蠢到了极点，而显得任何改变都是对的。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "掀桌之后只会有一团乱，没有人会有耐心把桌子扶起来，陪对方再来一局。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "为了得救",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100903",
+      "internal_title": "第九章9-02",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "实质与环"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "据《乌斯怀亚新闻报》报道，大约一周前，乌斯怀亚的码头被神秘术破坏，现在，所有的船只都毁于一旦。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "司辰，这会和重塑之手，亦或叛变的芝诺部队有关系吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "不能确定。但我们到达乌斯怀亚已有数日，这里平静得超乎寻常。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "在自由海风号的事故之后，我们就丢失了重塑的踪迹。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "重塑之手似乎隐匿在某个不为人知的角落，一个普通人不会轻易踏足的地方。亦或说，他们离开了乌斯怀亚。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "他们再也不像往常一样，在各地积极促进“暴雨”的进程……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "这并不是一个好消息。他们有可能在谋划一些更为可怕的东西。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "如果目击信息属实，我们就能印证基金会从飞蛾处得到的重要线索：德洛丝女士确实被叛变的伊戈尔一行人带到了乌斯怀亚。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "但是，司辰……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "第一助手欲言又止。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "自我们来到火地岛以来，基金会并没有足够的时间对这儿展开详尽调查。如果这里和重塑有关系……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "离乌斯怀亚最近的基金会分部，在布宜诺斯艾利斯，有3200公里……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "最新消息是，那儿目前正忙着处理伊戈尔养子叛变所留下的混乱。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "是的，重塑之手完全有能力在这段时间在这里进行渗透——就像他们对待那个名为奇索斯的镇子一样。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "但寻找德洛丝女士的任务同样紧迫。抱歉，我想我们没有时间再等下去了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "乌斯怀亚并不是一个特别大的城市。只要重塑之手在这里活动过，我们肯定会发现线索的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "我明白了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "我们一定会完成任务的，司辰。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "经过一出“亡命天涯”的闹剧之后，咖啡馆已恢复了往日的宁静。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "好消息是，追缉虚构集的宪兵已经消失；坏消息是，连带着她的同伴也不见踪影。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "噢……他们真的走了。好吧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "“那就永别了，亲爱的虚构集——”那根本算不上一个真正的道别！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "我们本可以互换最后一首诗歌，在咖啡馆里轮流念一遍，然后将它永远铭记在泪水里。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "但伟大的神秘学家诗人说得对——我们不应该庆祝离别这种不幸，这是不明智的……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "唔？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "没什么，两位请坐。请给我们一壶加了薄荷的马黛茶！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "谢谢。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "虚构集颇有兴趣地打量着基金会的女孩们，她们正小心翼翼地接过滚烫的茶水。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "你们正在寻找德洛丝女士吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "从你们的表情中，我能看出她对你们来说非常重要。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "是的。请您详细描述一下，您与德洛丝女士遇见的经过吧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "当然可以。德洛丝女士与我相遇于一个太阳被阴云遮蔽的下午……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "在玻利瓦尔公寓外的街道，赶着去邮局寄信的我遇上了一位盲眼女士。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "在当时，那位女士突然把我叫住，那是一个奇妙的时刻——她走了上来，将我衣服上的毛衣断线系上，仿佛这是一个神圣而包罗万象的举动。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "我几乎没能握住手中的信封。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "德洛丝",
+          "text": "这位小姐，你知道那儿是什么地方吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "我看到了那位女士，她的手指精准地指向了一个方向。也就是说，她很清楚自己的目的地位于何处——这对一位盲人来说是多么的神奇！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "女士，那里是科马拉监狱。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "难道那是您的目的地吗？如果您想要去那里，也许我可以为您引路。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "德洛丝",
+          "text": "谢谢你，小姑娘……但我想，我已经找到了我该走的路。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "神灵同时给予她书籍与黑夜，那可真是一个绝妙的讽刺。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "女士，我可以得知您的名字吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "德洛丝",
+          "text": "……？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "请放心，我不是什么奇怪的人……我猜您是一位作家，是吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "恰好我也在进行小说的写作……我总有一种预感，您很快就会出现在我的小说中！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "您也知道，灵感总是不请自来的，就像一些讨人厌的访客。我很难判断该用什么样的东西招待它们——所以，最好的办法就是全部记录下来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "德洛丝",
+          "text": "哈哈……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "时至今日，我还记得她的笑容——一个出奇的笑，一个遥远的笑，一个跨越了时间、实质与世纪总和的笑。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "德洛丝",
+          "text": "也许比较突然，但……小姐，我有一个问题想要问你。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "德洛丝",
+          "text": "对你来说，“文学”代表着什么？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "嗯？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "这可把我难住了——一个超乎创作范畴的问题！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "德洛丝",
+          "text": "你是一位具有文学追求的作家——但你是否想过，这种追求到底是从何而来？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "……实际上，我不知道怎么回答您的问题，女士。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "就我个人的感受来说，也许文学只是文学，它不能替任何人回答问题……何况是一个关于它自身的问题。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "我想，也许文学能做到的只是从某种截然不同的角度抛出问题，而这也正是我贸然猜测您职业的缘由。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "德洛丝",
+          "text": "一个很有趣的说法，我明白了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "德洛丝",
+          "text": "那么，它给你带来了一种怎样的感受呢？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "……感受吗？有时我觉得自己像个学习口语的孩子，正努力地念出书本第一页的第一个词汇。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "等等，这个比喻也许并不恰当，需要更为精妙、更为直观的……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "就在纠结比喻措辞的时候，余光里的她轻飘飘地挥了挥手，随后穿过乌斯怀亚的细雪，朝监狱的方向走去了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "所以，德洛丝女士一定是往科马拉监狱去了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "您是什么时候遇到她的？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "应该是三天前。那天短暂地出了一会儿太阳，街道上全是融化的雪水。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "如果有需要，我可以再为你们介绍一番科马拉监狱——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她的暗示之意已经逐渐变成昭然若揭的明示了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "三天前……司辰，这意味着我们还有机会追上她。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "是的。我们应该立刻进入科马拉监狱。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "对，就是这样……不对，她竟然就这样斩钉截铁地说了出来……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "真是一位有魄力的人物！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "我能说什么呢？当一个不可思议的巧合来得过于轻易的时候，我们总是会质疑作者的机械降神，觉得这是一个很烂的桥段。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她很快和自己还有作者和解了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "但不要紧，在一个白日只有四个小时的季节，一座以关押神秘学家作为历史叙事的小镇，发生什么事情都不稀奇。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "感谢您的协助，这位——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "无需客气，叫我虚构集就好。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "我是维尔汀。这位是十四行诗，我们来自圣洛夫基金会。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "您好，虚构集小姐。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "我很高兴我能帮上忙，维尔汀，十四行诗。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "女孩狡黠地眨了眨眼睛。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "还有什么比这更巧的事情呢？你们要去科马拉监狱，我也要去科马拉监狱。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "最终我们都会在科马拉监狱里相遇，也许这就是神秘学家的宿命……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "虚构集小姐，您为什么要去科马拉监狱呢？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "哈哈，那必然是出于一些文学方面的原因——总之，从现在起，我们是朋友了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "让我们出发吧！我想，你们至少需要一个熟悉当地情况的人来带路。"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

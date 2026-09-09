@@ -1,0 +1,809 @@
+{
+  "episode_id": 11309,
+  "chapter_id": 113,
+  "chapter_title": "他者的悲哀",
+  "display_label": "",
+  "title": "Rules Are Rules",
+  "subtitle": "What could be more pressing than the work right in front of us?",
+  "trails": [
+    {
+      "element_id": 1130901,
+      "owner_episode_id": 11309,
+      "trigger_episode_id": null,
+      "title": "The Everlasting Chaos",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=11309",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "What's beneath your hat?"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "My head",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Just a head, no creepy black bones sticking out from your temples?"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Thank goodness. I'm not sure I could handle another conversation with those lunatics."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "I do hope, if you ever find a bone stuck through your brain one day, that you won't hesitate to see a doctor."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "But why bother covering such a pretty face? You're young and good-looking."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Don't be so shy to show it off. If that boneheaded lunatic doesn't bother to hide her face, you shouldn't either."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "But seriously, if you do find a bone stuck through your brain one day, don't hesitate to see a doctor."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "I don't call that woman a lunatic without good reason."
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "I doubt I would survive it",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "So you say, but you know what happened to her: she died and came back."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "That is a rare privilege. How many can say they had the same gift? Death tends to be terribly final for most."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "She was the exception, and just look at what she's made of it."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "Life is pain. Lately it seems like every bone in my body aches ... Worse, the pain seems to come no matter the weather."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "But I wasn't rewarded with immortality for all my pains."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "It seems unfair that a privilege like that should be given to such a troublemaker."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "This whole damned world is coming to an end!"
+                }
+              ]
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "It might hurt a bit",
+              "edge_label": "",
+              "branch": []
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "My face",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "101316",
+      "internal_title": "第十三章13-09",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "Rules Are Rules"
+        },
+        {
+          "kind": "title_card",
+          "text": "Foundation Office"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Operation Team Leader I",
+          "text": "No comms from the First Squad?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "\"Razor\" catches the bad news as he enters their makeshift command post. His brow furrows beneath his mask as he surveys the room."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Several familiar squad captains are present, as well as the one who summoned them—Ms. Stranger—now standing before a desk."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "\"Razor\"",
+          "text": "Oh, everyone's here."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Operation Team Leader II",
+          "text": "Over here, \"Razor.\" We've just started."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "\"Razor\"",
+          "text": "Don't mind me. You were talking about the First Squad? They were the ones sent to the SPDM, right?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Stranger",
+          "text": "Dispatch has lost contact with them. We're not sure whether they're in danger or if communication has been jammed by the \"Storm.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Operation Team Leader II",
+          "text": "Will we send another unit?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Stranger",
+          "text": "No. Dispatch has decided we can't risk sending anyone else with the \"Storm\" arriving so soon."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Though the piecemeal tactic is ultimately rejected, the captains in attendance know better than to openly defy their superiors."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "\"Razor\"",
+          "text": "Is there any clearer reason why they made that decision?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Stranger",
+          "text": "We can't risk leaving headquarters short-handed if an emergency breaks out. Besides, mobilizing another unit could easily spark panic among the people being processed."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Stranger",
+          "text": "Dispatch has determined that if we cannot make contact, it'll be better to deploy after the \"Storm\" has passed."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Operation Team Leader II",
+          "text": "Then what are we here for, Ms. Stranger?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Stranger",
+          "text": "Your teams will be performing reconnaissance in force as soon as the \"Storm\" ends. You are to gather any intel about the status of the First Squad and SPDM as soon as possible. I need you to prepare your teams in advance."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Stranger",
+          "text": "But let me be clear. The purpose of this mission and the status of the SPDM and First Squad are on a need-to-know basis. You are not permitted to inform the lower ranks at this time."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Stranger",
+          "text": "We have to take into account the possibility that some of your newer team members may act on impulse if they hear the news, especially the arcanists among them."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "\"Razor\"",
+          "text": "That's fair. I'm not sure I could hold some of them back from rushing into the \"Storm\" if they thought they could help."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "\"Razor\"",
+          "text": "For the good of the operation, we'll keep our mouths shut. Human or arcanist, we need to prioritize our teams' well-being."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Operation Team Leader I",
+          "text": "Osborn's team will be fine. They have numbers, skills, and the latest gear. The Manus won't take them out—not without a fight."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Operation Team Leader I",
+          "text": "I bet they'll be crowd surfing above the cheering students by the time we get to the SPDM."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Operation Team Leader II",
+          "text": "Ms. Stranger, I've kept an eye on Team Timekeeper as ordered. I wouldn't say they're the most disciplined group, but they're doing fine."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Operation Team Leader II",
+          "text": "Except the one that claims to be some kind of pirate-rockstar-come-freedom fighter. She's been selling the others on an escape plan."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Stranger",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Stranger",
+          "text": "\"Razor,\" could I ask you to speak to Regulus? You saved her life once on the Aegean. Perhaps she'll listen to you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Stranger",
+          "text": "Here are your mission briefings: Keep them secret; keep them safe."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She hands each of the assembled captains a file."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Stranger",
+          "text": "Please follow Dispatch's instructions and report in before you make further decisions. You have your orders. Dismissed."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The other captains take their leave, and Ms. Stranger prepares to follow."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "\"Razor\"",
+          "text": "Wait, Ms. Stranger."
+        },
+        {
+          "kind": "title_card",
+          "text": "Registration Desk, St. Pavlov Foundation"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Soldier I",
+          "text": "What? I have to leave my things behind?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A soldier in a tattered uniform stands before the registration counter, a large bag set down beside him."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Registrar",
+          "text": "Those are the rules, sir."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Registrar",
+          "text": "I believe you've been informed that each individual is allowed only a maximum of 20 kilograms. Any excess baggage must be discarded unless it qualifies as military equipment."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Registrar",
+          "text": "Since there is no military equipment in your baggage and ... You know what? I don't have time for this. Don't you see the line behind you?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Soldier I",
+          "text": "Do you have any idea what I've been through to get here?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He points toward the Foundation symbol adorning the counter with a grim stare."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Soldier I",
+          "text": "I spent three months in the trenches fighting Manus Vindictae for this organization. Now you're asking me to throw away what's left of my life?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Soldier I",
+          "text": "And it's not just my belongings. I brought things for my little brother, too. The commander said we'd be moving again after we sign this contract. I don't see why I have to throw it all away."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Foundation security make their way over to the counter, flanking the man on both sides."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Foundation Security",
+          "text": "Calm down, sir. You'll have to discard any excess baggage before we can allow you entry. No exceptions."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Foundation Security",
+          "text": "We need to get you all processed quickly so you can sign your military service contracts. There's a lot of paperwork to do."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Soldier I",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Another soldier who had arrived with him approaches."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Soldier II",
+          "text": "Just do as he says, Arthur. You know these bureaucrat types. They're no different here than any back home."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Soldier II",
+          "text": "Heads are too clogged up with rules and regulations. There's no talking any sense into them. Might as well save yourself the bother."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "At his comrade's behest, the soldier finally parts with his belongings."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Soldier I",
+          "text": "Hmph."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "From the other side of the hall, a tall and lithe woman has been watching the scene unfold."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis III",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Someone else joins her."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Stranger",
+          "text": "What are you doing here, Ms. Druvis?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis III",
+          "text": "Just looking around."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis III",
+          "text": "I guess I find it odd seeing all these long lines. It's not normal to have so many people waiting to come in, especially so close to the \"Storm.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis III",
+          "text": "Soon, they'll be putting on Foundation uniforms. And then, just like that, they'll be told to say goodbye to their family, friends, homelands—their entire era."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Stranger",
+          "text": "Please, Ms. Druvis, it's best we don't talk about that here. Most of those waiting in line aren't aware of this \"issue.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis III",
+          "text": "They've been fighting Manus Vindictae for months. Don't you think they might have learned something from our enemies?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Stranger",
+          "text": "The Foundation's policy forbids revealing information on the \"Storm\" to any personnel from the current era. It doesn't matter what they may or may not already know."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis III",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Stranger",
+          "text": "What is it?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis III",
+          "text": "Was that sarcasm in your voice? You find the Foundation's policy absurd too, don't you?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Stranger",
+          "text": "I wouldn't say that."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis III",
+          "text": "Vertin told me about you. You went under deep cover in Manus Vindictae, forced yourself to become someone you're not, did things you've come to regret."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis III",
+          "text": "You paid an unimaginable price to complete the Foundation's mission."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis III",
+          "text": "But even now, after you've returned home, you're dissatisfied with the character you're playing."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis III",
+          "text": "I can't help but wonder what the \"you\" you really want to be is like."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Stranger",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Stranger",
+          "text": "I don't know. I've never had the time to answer that question."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Stranger",
+          "text": "The Foundation only gave me a new role, not a new identity. They expected me to fall back into my old self."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis III",
+          "text": "Are you here to check in on us? To make sure we aren't planning anything too radical?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis III",
+          "text": "You can rest assured. It won't happen."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Stranger",
+          "text": "I appreciate it. Then, let's put it behind us. Thank you for trusting the Foundation."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis III",
+          "text": "But I don't trust the Foundation. I've always doubted their ability to bring about their professed order and peace for all."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Stranger",
+          "text": "It might be best to end our conversation here, Ms. Druvis."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Druvis ignores the suggestion."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis III",
+          "text": "They bring these people in under false pretenses, knowing full well that after the \"Storm\" wipes out their era, they'll be isolated and moldable. And just like that, the Foundation gets a new generation of puppets."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis III",
+          "text": "Uprooted, shorn down, and processed, like trees turned into logs. No one ever asks them what they want to be. They never get that chance."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis III",
+          "text": "I work with the Foundation only because of Vertin. I am loyal to her, devoted to her cause. Not yours."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis III",
+          "text": "I can face the uncertainty of the future because I know what I'm fighting for. How would these people react if they found out the truth?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis III",
+          "text": "Don't you think some of them would rather risk their lives to find another shelter than give up their freedom to the Foundation?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Stranger",
+          "text": "You mean they might want to join Manus Vindictae."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis III",
+          "text": "Or the Gryphon Legion, or some other shelter we don't know of, like the Apeiron island."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis III",
+          "text": "How long do you think the Foundation's policies would hold if they didn't present themselves as the only option?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis III",
+          "text": "...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Stranger",
+          "text": "That's a stage one alert."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A high-pitched alarm drones over their voices, blaring out from all directions."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The tone and rhythm are too rare a combination for most to immediately realize their meaning."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Registrar",
+          "text": "What? What's going on now?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Soldier I",
+          "text": "An assault? Or a bombardment?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Male Investigator",
+          "text": "Everyone, stay calm and wait for further instructions."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis III",
+          "text": "Could it be something related to the Storm Syndrome? Or another attack outside?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Stranger",
+          "text": "Neither. A stage one alert means ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The color drains from her face as she turns toward the Committee Building."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Stranger",
+          "text": "A major crisis is happening inside headquarters."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Stranger",
+          "text": "Ms. Druvis, please return to Team Timekeeper and lead them to the nearest shelter."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Ms. Stranger offers a wordless goodbye and rushes off."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis III",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Warning: Stage one alert. Unidentified intruders in headquarters. Emergency evacuation procedures initiated."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Broadcast",
+          "text": "All personnel are to obey ranking officers during evacuation and await further instructions in the emergency shelters."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Broadcast",
+          "text": "This is not a drill. Repeat: Stage one alert. Unidentified intruders in headquarters."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcana",
+          "text": "Well, well. It is of little surprise—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcana",
+          "text": "That the white fortress doth not extend its courtesy to an unbidden guest."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcana",
+          "text": "Yet I shall brook no refusal."
+        },
+        {
+          "kind": "title_card",
+          "text": "Southern Garden, St. Pavlov Foundation"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ustrina",
+          "text": "A most impressive display of strength."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "İlmek",
+          "text": "Look at them run. Perhaps I overdid things."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "İlmek",
+          "text": "*sigh* I wish I didn't have to be so rough with them."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcana",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ustrina",
+          "text": "Guiding One."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The followers watch as their deity approaches the Committee Building in slow, deft steps."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Taira",
+          "text": "How has our ambush against the Foundation's Response Squad proceeded?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Krutov",
+          "text": "They've been taken care of."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Taira",
+          "text": "Hm. Impressive. Then I need only point my blade forward."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Krutov",
+          "text": "Heh, bringing a knife to a gunfight. You are a hoot."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Krutov turns his gaze from the shell covered in warped patterns and toward his troops."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Krutov",
+          "text": "Assault squads, lock down the first floor of the Committee Building. Eliminate any resistance."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Krutov",
+          "text": "We'll demolish their tower and rip the guts from these arrogant hypocrites!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Manus Soldier I",
+          "text": "Yes, sir!"
+        },
+        {
+          "kind": "title_card",
+          "text": "Hallway, St. Pavlov Foundation"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Foundation Staff Member I",
+          "text": "Run!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Foundation Staff Member II",
+          "text": "It's Manus Vindictae! I saw them!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Stranger",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A white figure brushes past her as the sounds of gunshots and incantations reverberate through the crowded corridor."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The footsteps grow sparser. It's time to go. She shouldn't push against the flow of the crowd anymore."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "You ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcana",
+          "text": "Ms. Stranger raises her head."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcana",
+          "text": "Grace, a moth sealed inside a human's cage."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Stranger",
+          "text": "Arcana? No, this can't be happening."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcana",
+          "text": "You need not fear. I come only seeking an answer. We have no dark designs."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcana",
+          "text": "To speak thy name doth please me still, and I do not forget the deeds thou once didst for us, grieved though I am by thy betrayal."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcana",
+          "text": "Come hither, child. For I carry a gift that should have long ago been bestowed upon thee."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Stranger",
+          "text": "...!"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

@@ -1,0 +1,24 @@
+# Event Stories · Showdown in Chinatown
+
+- [2510101 Fresh Police Story](2510101-Fresh Police Story.md) — Nothing like a cold welcome to greet a rookie.
+- [2510102 Total Crisis](2510102-Total Crisis.md) — Put down the donut, drop the radio, and lick the sugar off your fingers—this is no joke.
+- [2510103 Order and Chaos](2510103-Order and Chaos.md) — The scale once tried to measure it all.
+- [2510104 Exorcism](2510104-Exorcism.md) — Shh, the device is connected—It's calling your name.
+- [2510105 Other Side, Same Coin](2510105-Other Side, Same Coin.md) — People generally prefer to maintain their distance before promises are made.
+- [2510106 Secret Warrant](2510106-Secret Warrant.md) — Cold drinks, fat bounties, and long holidays—shame it never works out that way.
+- [2510107 Rookie Actor's Guide](2510107-Rookie Actor's Guide.md) — Remember, keep the cameras hidden—that's the secret.
+- [2510108 Post-lunch Questioning](2510108-Post-lunch Questioning.md) — The first principle is that what you see is real, but it might not be the truth.
+- [2510109 A Name Deserved](2510109-A Name Deserved.md) — Catch that speeding hamster!
+- [2510110 Unraveling the Mystery](2510110-Unraveling the Mystery.md) — Dispel the fog, unravel the mystery, and they'll claim that this is the truth.
+- [2510111 Hey, Kelefe!](2510111-Hey, Kelefe!.md) — Don't speak, don't blink, don't fidget, and definitely don't sneeze!
+- [2510112 Mousetrap](2510112-Mousetrap.md) — When the nose catches the scent of the cheese, that's when the tail gives it away.
+- [2510113 A Project Gone Awry](2510113-A Project Gone Awry.md) — Plans account for everything—except the unexpected, which never fails to arrive.
+- [2510114 Lit Screen, Lit Eyes](2510114-Lit Screen, Lit Eyes.md) — An empty heart and a pair of longing eyes.
+- [2510115 This Just In](2510115-This Just In.md) — Silence and stillness are already the highest form of alert.
+- [2510116 Before the Spotlight](2510116-Before the Spotlight.md) — Years later, all they remember is that empty stage.
+- [2510117 Watchers, Protectors, Defenders](2510117-Watchers, Protectors, Defenders.md) — The fire they held high lit up the children's faces.
+- [2510118 The Law of Causation](2510118-The Law of Causation.md) — The fruit taken must be returned to their branches.
+- [2510119 False Dilemma](2510119-False Dilemma.md) — Between what people see and what they judge.
+- [2510120 Until the Light Fades](2510120-Until the Light Fades.md) — The final spark in their eyes, fading slowly.
+- [2510121 Rescreen](2510121-Rescreen.md) — But you'll always love the story, for it remains there, unchanged.
+- [2510122 Anonymous Visitor](2510122-Anonymous Visitor.md) — A bouquet left by the comforter, wilting away.

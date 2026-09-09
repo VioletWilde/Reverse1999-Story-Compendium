@@ -1,0 +1,112 @@
+# Farewell, Cremona
+
+- Chapter: Beyond the Coastline (`24501`)
+- Episode: `2450107`
+
+## Transcript
+
+> 【Title card】Podium
+
+> 【Title card】1921, Uluru Stadium
+
+**Broadcast**: Congratulations, Charlotte O'Hagan!
+
+The weight of the medal presses on her neck as camera bulbs flash all around her, leaving her a little dazzled.
+
+**Reporter I**: Quick—snap a picture of the scar on her foot!
+
+**Reporter II**: Charlotte, congratulations on winning first place at the Uluru Games!
+
+**Reporter II**: That's a surprise. You've smashed the record, making history as the youngest ever winner of Floor Ritual. What was the process like to get to this point?
+
+**Charlotte**: ...
+
+She lowers her head, examining the shining gold medal hanging at her chest.
+
+**Charlotte**: I snatched the sun from the sky.
+
+**Reporter II**: The sun?
+
+The girl smiles and raises the gold medal.
+
+**Charlotte**: That's right. This is my sun!
+
+**Reporter I**: Perfect angle, real front page material. Charlotte, could you lift the medal a bit higher?
+
+The girl raises the medal higher. The camera flashes, making it shine even brighter.
+
+**Reporter I**: Great. We plan on doing an exclusive interview next week.
+
+**Reporter III**: Hey, Philip, haven't you hogged enough of her time?
+
+A reporter pushes his way toward Charlotte, his suit wrinkled from the jostling crowd.
+
+**Reporter III**: Finally! Alright. Charlotte, what's next for you?
+
+The girl is overwhelmed by questions and flashing lights.
+
+The cacophony has come to an end.
+
+**Charlotte**: Is that it ...?
+
+The medal rests heavy in her palm.
+
+**Charlotte**: I won, but now what?
+
+**Coach**: You're still so young.
+
+Familiar footsteps approach.
+
+**Coach**: The stories we tell always end with winning the gold.
+
+**Coach**: No one talks about what you're supposed to do after you win the medal. After all, life goes on much longer than any story.
+
+**Charlotte**: But I did it! I got the gold!
+
+She argues fiercely on her own behalf.
+
+**Charlotte**: I broke the record. I beat Caroline! I'm the youngest champion ever! There's never been an 11-year-old champion in all history!
+
+**Coach**: So what?
+
+**Charlotte**: My name will be in the newspapers. Everyone will remember who I am, and at the next Uluru Games, they'll all be cheering my name.
+
+**Charlotte**: And then ...
+
+**Coach**: Your name will become a symbol, a topic at every dinner table conversation, and, as even you fall prey to the illusion of fame and the past, it will become your prison.
+
+**Coach**: And before long, you will have entirely forgotten who you thought you were.
+
+**Charlotte**: I—
+
+**Coach**: We all die one day, but the Floor Ritual will carry on. It's the symbol itself. How could someone possibly defeat something abstract?
+
+**Coach**: Today is the beginning of your tragedy.
+
+She coldly announces her verdict.
+
+**Coach**: When you look directly into the sun, you must always remember that it's also the source of shadow.
+
+**Charlotte**: I've sacrificed so much for this.
+
+She clutches the gold medal tightly.
+
+**Charlotte**: I beat everyone to get it—the gold medal. I woke up at the crack of dawn, trained until I could train no more, just for a chance.
+
+**Charlotte**: And now, I've won.
+
+**Charlotte**: Do you think I can't see the desire in their eyes when they see it? They all want this medal.
+
+She bites her lip and musters the courage to look her coach in the eye. The face before her ripples, trembling slightly.
+
+**Charlotte**: If this is the source of tragedy, then why do we long for it?
+
+**Coach**: Heh.
+
+As she lets out a cold sneer, her features become clearer.
+
+**Coach**: It's the gold medal. That's why.
+
+**Coach**: It's precisely because it's a gold medal that you kept going. Even if your feet were bleeding, you couldn't escape this self-inflicted sacrifice. Because this is what you desired!
+
+**Coach**: Isn't this the root of your tragedy?

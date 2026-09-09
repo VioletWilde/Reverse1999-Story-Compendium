@@ -1,0 +1,858 @@
+{
+  "episode_id": 11325,
+  "chapter_id": 113,
+  "chapter_title": "他者的悲哀",
+  "display_label": "",
+  "title": "The Legendary Hermitage",
+  "subtitle": "People say that deep in the mountains, where birdsong echoes ...",
+  "trails": [
+    {
+      "element_id": 1132501,
+      "owner_episode_id": 11325,
+      "trigger_episode_id": null,
+      "title": "Riposte",
+      "description": "One rule of clever conversation—never say what you mean directly.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=1325",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1132502,
+      "owner_episode_id": 11325,
+      "trigger_episode_id": null,
+      "title": "A Loss of Civilization",
+      "description": "Beautiful, useless things are always the most fragile and fleeting.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=1325",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "A Debriefing Meeting Record"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Debriefing Record: Missing Items in the Display Room\n\nI. Basic Information\n    This loss incident occurred in the headquarters display room and was triggered by uncontrollable factors, including the attack on headquarters. The affected items include one Italian portable typewriter from 1969, one set of 1980s disco music cassette tapes, one sword hilt of unknown age recovered from the lake bed of Snowdonia, and 42 era relics in total (see appendix \"Lost Era Relics Inventory\").\n\nII. Timeline\n    Incident: During the attack, the display room was temporarily used as part of the defensive structure, serving as an emergency shelter and wartime storage facility. In the process, multiple areas of the display room sustained severe damage, and a section of the wall in the \"1960s-1970s\" exhibit collapsed.\n    Discovery: Following the attack, the logistics department carried out post-\"Storm\" cleanup in accordance with the \"Storm\" Clearing Protocol. During a subsequent review, the administrator cross-checked the era relics inventory and discovered that items were missing.\n    Response: That day, the administrator reviewed the arcane surveillance records and confirmed no entries related to lending, requisition, damage, or maintenance. The following day, investigators completed a preliminary value assessment and transferred the case to the internal debriefing process.\n\nIII. Cause Analysis\n    Logistics Department: Due to the lack of arcane value in the missing items, cleaning staff were less vigilant during the post-\"Storm\" cleanup process.\n    Arcanum Containment Department: The \"Storm\" Clearing Protocol lacks clear criteria for distinguishing between \"era relics\" and \"historic debris.\"\n    Security Department: Manus Vindictae may have seized the opportunity to steal items during the attack.\n    Conclusion: The cause remains undetermined.\n\nIV. Improvement Measures\n    Logistics Department: Strengthen the disposal prevention mechanism—for example, by establishing a \"72-hour holding period\"—and incorporate this case into the \"Storm\" Clearing Protocol.\n    Arcanum Containment Department: Strengthen the classification standards for the collection and put all non-arcane items in the display room under unified management.\n    Security Department: Strengthen the missing items tracking system and enhance security measures.\n\nV. Recommendations\n    The tracking level for this batch of historical relics is classified as \"Low.\" Arcane items (including those currently on loan and not yet returned) take priority.\n\nAppendix: Lost Era Relics Inventory"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "101340",
+      "internal_title": "第十三章13-25.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "The Legendary Hermitage"
+        },
+        {
+          "kind": "title_card",
+          "text": "Tylwyth Teg Berry Garden"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "\"... They've lived in the orchards for generations, sharing their homes with rare, bird-like Critters and mostly keeping to themselves.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "\"Each of them grows up with a companion Critter and speaks their language.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "\"Their elders rule the area, and the young are driven out upon reaching adulthood.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Sonetto raises her eyes up from her files. A breeze brings along the gentle scent of fresh grass."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "That's all we gathered from the inn last night. How reliable do you think these accounts are, Timekeeper?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Reliable or otherwise, they're the only leads we've got."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "We've visited every town nearby and come up empty. This bit of folklore could be our last chance."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Even if it is true, their territory is very likely protected by a ritual that prevents outside interference."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Not to worry. I think I know a way in."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Come, Sonetto. Follow me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "A Youthful Chirp",
+          "text": "Hoo!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Shh!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "They'll hear us. We don't even know whether they're friendly. What if they're hunting for you?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "A Youthful Chirp",
+          "text": "Hoo ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Hm. I admit they're overdressed for hunters—fine fabrics and all. Oh, that one's just caught her coat in the briar patch."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "But how did these fancy ladies get past the barrier, Bechan? What could they want here?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Please stay still, Timekeeper."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She crouches down and uses her glasfeder again to hold the large flytrap mouth open."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The leaves' razor-sharp teeth gnaw at her tool, completely ignoring the fingers prying the coattail from its clutches."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Thank you. I suppose this plant has a penchant for altering clothes."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "These are no ordinary brambles."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She inspects her glass instrument under the sunlight. Unfortunately, the plant's teeth left visible bite marks on its translucent surface."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "It looks like a carnivorous plant, but there are no remains of any prey—only berries wrapped inside the leaves. If I'm not mistaken, these are Tylwyth Teg Berries. I read about them in Common Arcane Plants of Wales."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Apparently, eating these berries grants arcanists Tylwyth Teg sight, allowing them to find the Impossible Garden. These plants were declared extinct before the first \"Storm.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "But, since we're now in 1935, here we are looking right at it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Tylwyth Teg sight? I suppose that's reason enough to give it a try."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Timekeeper, perhaps it's best we don't ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "You'd have stopped me by now if the book said they're poisonous. I think we can live a little."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "She's eating the berries!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "A Youthful Chirp",
+          "text": "Grr ... Gah!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "No, wait. I'll handle this. Stay—hey!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A furious shriek pierces her ears. Then, a fierce gale sweeps across the orchard, forcing the shrubs in its path to bow."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Bechan! Get back here!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Who's there? Timekeeper, watch out!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "No! Don't hurt her!"
+        }
+      ]
+    },
+    {
+      "script_id": "101341",
+      "internal_title": "第十三章13-25.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "Bechan",
+          "text": "Coo!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Erhm! Swifto Stoney!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The mispronunciation prevents her arcane skill from taking full effect. The strange bird reveals itself and descends upon the intruders' feet, pecking and biting at their shoes."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rhiannon",
+          "text": "Hey, you! Stop her! That plant bites!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rhiannon",
+          "text": "And watch out for my little friend! She may be small, but she charges like a boar!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Stono   Swift!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "With the gray bird now encased in stone, its caretaker scrambles over. She gently lifts it up and, as she pets it, dispels the petrification incantation."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The bird calms, and the clamor ceases."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Sorry, sorry. She's a greedy guts, this one, always protective of her food."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "You ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Errr. Did I actually hit you with that petrifying incantation? Why are you staring at me like that?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "We're fine. Sorry. Just a little shaken."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Though the gold thread twisting within her is familiar, it's been woven into something new—a stranger."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "I'm the Timekeeper of the St. Pavlov Foundation, and this is Sonetto, my assistant."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "And you are ...?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "The Foundation? What are your people doing out here?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rhiannon",
+          "text": "Oh, er, right, aha, you can call me Rhiannon."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Rhiannon ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Sonetto tries to break the silence, but she can't, not as she looks over this person at once so familiar and so different."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "We're very sorry for the intrusion, Ms. Rhiannon. My assistant and I have been searching for a lost friend."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rhiannon",
+          "text": "Ah, well, I'm afraid you aren't likely to find her here. I haven't seen any strangers around in ages, and Mam's never mentioned anyone either. I'm sorry, miss."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Please, call me Vertin."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rhiannon",
+          "text": "Ms. Vertin."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Just Vertin is fine."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rhiannon",
+          "text": "Vertin. I see. Then I insist you stop calling me \"Ms.\" as well."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Rhiannon looks the messy pair of intruders over."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rhiannon",
+          "text": "Well, I can't have you leave with those wounds untended. Please, follow me."
+        },
+        {
+          "kind": "title_card",
+          "text": "Hermitage Hut"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "They arrive at Rhiannon's less-than-tidy abode."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Potion ingredients, books of incantations, a nest woven with vines, and winter bedding—an attempt at maintaining a balanced life amid all the world's chaos."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rhiannon",
+          "text": "Sorry about the mess. These little rascals are quite a handful."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rhiannon",
+          "text": "It's near impossible to keep them all in line when Mam's gone."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Mam? Your mother lives here as well?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She digs through a mountain of arcane ingredients, trying to find something among the vials of bat wings, toad skins, and rabbit's feet."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rhiannon",
+          "text": "That she does. Mam was the finest witch in all of Perthshire before we came here, a walking encyclopedia of arcane knowledge. If only she were here now. She could heal you with just a breath."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rhiannon",
+          "text": "Aha! There it is."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She pops the cork of a glass bottle containing a root-fiber brew. Its pungent odor wafts out, causing the fledgling on her shoulder to hop down with a caw."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rhiannon",
+          "text": "Shoo! Away, Bechan! That's not for drinking, you little rascal. Off you trot. Play somewhere else."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Bechan grumbles and ruffles her feathers, indignantly burying her beak in her chest."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "I've never seen a bird so clever."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rhiannon",
+          "text": "She's an Adar Llwch Gwin. Not many of them around these days."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Sadness crosses her face for a moment, but she remembers her guests and shoos the negativity away."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She dips a piece of cloth into the pungent potion and begins tending to the still-bleeding wounds."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Ugh."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rhiannon",
+          "text": "You know, you're not from around here, and you aren't one of Mam's guests, either, so I really shouldn't have let you in. But I feel terrible that Bechan hurt you like that."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "No need to worry. I've been through worse. Much worse, actually."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rhiannon",
+          "text": "Do you get hurt often?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Our work keeps us traveling constantly, like now. If you stay on the road long enough, a bit of wear and tear is inevitable."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rhiannon",
+          "text": "Traveling? Just the two of you?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Not just us. But Sonetto and I always travel together."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The scratches have stopped bleeding, leaving only a faint mark behind."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "What about you? Do you travel much?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rhiannon",
+          "text": "A little. But nothing like what you must do."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Have you ever thought about it?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rhiannon",
+          "text": "Huh? Oh, errr."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The sudden question causes the fledgling on her wand to turn its head. Their eyes widen."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rhiannon",
+          "text": "No, I couldn't. I have to stay here at home and help Mam. Plus, the little ones need looking after. And then there's the orchard."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rhiannon",
+          "text": "I'd rather stay here with them, really. Watching these little rascals grow up ... it's a real treasure."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She fiddles with the fledgling's feathers, allowing herself a contented smile."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "I see."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The Suitcase is picked up."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "We should probably get going. Once again, we're sorry for disturbing you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rhiannon",
+          "text": "Oh, don't you worry a thing about it. You aren't our first uninvited guests."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "It's been a pleasure. But we should probably get back to looking for our friend."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Sonetto, let's go."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Timekeeper ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Sonetto wants to say something, but ultimately, she chooses silence. Rhiannon isn't the classmate she remembers."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "That classmate who would bury her face in her collar, the classmate who was always in trouble over her poor grades yet spent most of her free time reading books from the library."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The rain had dissolved that girl. She was gone, and what was left was only memories."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "They exit the secluded abode."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rhiannon",
+          "text": "I've got the defense ritual up and running again. Stick to the calcite path, and it'll lead you safely out."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "They do as she says, taking care to avoid stepping on the chirping fledglings that hop across their path."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Thank you, Me—Rhiannon."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Should you need anything from the Foundation in the future, or if you change your mind about traveling, feel free to reach out."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Just stop by the nearest Foundation branch and tell them you're a friend of the Timekeeper, they'll know how to reach me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Rhiannon stares wide-eyed and blinks, looking both unaccustomed to such kindness and somehow guilty."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rhiannon",
+          "text": "That's awfully kind of you. I'm really, really sorry."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "What do you mean?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Rhiannon raises her wand toward her visitors. The bird perched atop it, alarmed, jumps down and seeks cover behind her feet."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "What's going on?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rhiannon",
+          "text": "It's just ... This is the Adar Llwch Gwin's last safe nesting ground. They've been nearly hunted to extinction. I-I can't just let you leave."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "I assure you, we have no intention of revealing this place. Please, tell us what we can do to put your mind at ease."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rhiannon",
+          "text": "It's too great a risk. I'm so sorry."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She looks to the ground and mutters something to herself, but the flapping of an Adar Llwch Gwin's wings drowns out her words."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rhiannon",
+          "text": "After I wipe your memories, I'll take you straight to the railway station, I promise."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rhiannon",
+          "text": "It'll be better for you to forget me and everything here. It's safer for all of us."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "I won't—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rhiannon",
+          "text": "Dissolve   into   the—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rhiannon",
+          "text": "...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A cry accompanied by a powerful gust of wind interrupts her incantation."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "What? What is that?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Glyndŵr",
+          "text": "...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "An enormous bird covered in lustrous feathers draws in the wind with his wings, causing the quivering grass and leaves to still."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He stares at the visitors with alert eyes, then turns his attention to Rhiannon."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rhiannon",
+          "text": "Glyndŵr? You're back!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Glyndŵr preens his feathers a bit, shaking a heavy bag from his back."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Rhiannon approaches him and kneels down. She hesitates, feeling a sudden anxiety about its contents, but she opens it anyway."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rhiannon",
+          "text": "What's that in your bag?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rhiannon",
+          "text": "Clothes, biscuits, chocolate spread, berry preserves, Sharpodonties ... and a letter?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rhiannon",
+          "text": "From Mam?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She looks up in disbelief."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rhiannon",
+          "text": "Hang on! She sent you here to kick me out?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Glyndŵr",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Even the newcomers can make out the helpless resignation on the bird's face."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rhiannon",
+          "text": "B-But why? What does she want me to do?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her companion offers no answer."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rhiannon",
+          "text": "Don't tell me you're siding with her, Glyndŵr. Well, I say we're not going. I'm your bonded witch, aren't I?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rhiannon",
+          "text": "We've talked about this, remember? Forget all those silly things I said about adventures. I want to stay here with you and Mam and the birds!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rhiannon",
+          "text": "Oh, come now. Please don't do this. I wouldn't know what to do with myself journeying out there. Be reasonable!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Glyndŵr",
+          "text": "*shriek*"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Glyndŵr flaps his wings fiercely."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rhiannon",
+          "text": "Ah! Let me down!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He grips her cloak with his sharp talons and takes flight, bringing her up into the air with him."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Rhiannon!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rhiannon",
+          "text": "No, no, Sonetto! Put down your wand! He won't hurt me. He's family."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "They're heading north. Come on. We should follow them."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rhiannon",
+          "text": "I think he's taking me to the nearest town. Once you're out, head north. You can't miss it. I'll see you there!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Glyndŵr flies low with Rhiannon still in his grasp. Together, they soar off into the Welsh mountains beyond the Tylwyth Teg Berry garden."
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

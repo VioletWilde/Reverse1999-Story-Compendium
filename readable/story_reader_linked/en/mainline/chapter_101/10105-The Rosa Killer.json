@@ -1,0 +1,610 @@
+{
+  "episode_id": 10105,
+  "chapter_id": 101,
+  "chapter_title": "In Our Time",
+  "display_label": "",
+  "title": "The Rosa Killer",
+  "subtitle": "She was sweeter than honey and lighter than feathers. She brought a rose to pin on the chest of your soul.",
+  "trails": [
+    {
+      "element_id": 1010501,
+      "owner_episode_id": 10105,
+      "trigger_episode_id": null,
+      "title": "Intermission",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=10104",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "What are you doing? Why did you pick up that cold, opaque, opalescent glass wine bottle from the ground—at this most critical moment?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "The scream outside the parking lot, the friction between the brake pads and the wheel drums, or the story unfolding like Giallo films. Obviously, none of them are as impressive as this bottle."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "I can tell that you got good taste. You know it's not easy to get this stuff these days."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "But, why are you staring at the bottom and licking your lips? Tell me, you are not going to take a sip, are you?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "This is not a wise choice. You can't see the color of the liquid inside the glass. Maybe it's not the ice wine, or beer, or any homemade alcohol."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "It's probably—very likely—just a critter's snot. Even so, do you still wanna give it a try?"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "Come off it. I'll take a shot.",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Every Carbuncle you've ever met will appreciate your courage."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Now, some cold liquid runs through your throat. It trickles slowly, most likely because it's thick. But the taste is much smoother than you think."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Then, a faint scent of absinthe greeted your nostril, and maltose, and lemon thyme, and coconut sugar. It's as delicious as a present from the arcanist from New Zealand."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "And at the same time, your heart swells, and you feel a scorching energy fill your windpipe."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Your vision begins to blur. You kinda see the rough letter on the bottom: The Walden Potion Bar."
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "What the F**k is this?",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "It's anything but alcohol! \"Alcohol\" is a taboo. But it will empower you to face the next damn reality."
+                },
+                {
+                  "kind": "choice",
+                  "speaker": "",
+                  "text": "Who are you?",
+                  "edge_label": "",
+                  "branch": [
+                    {
+                      "kind": "dialogue",
+                      "speaker": "???",
+                      "text": "Me? Ha, I am no one."
+                    },
+                    {
+                      "kind": "dialogue",
+                      "speaker": "???",
+                      "text": "But I can also be anyone—a drunken, slovenly old man, a cleaner in a run-down hotel, a fund manager greedy for more, or a cute spinning crystal skull."
+                    },
+                    {
+                      "kind": "dialogue",
+                      "speaker": "???",
+                      "text": "Now I'm a drunkard with good taste, just like you."
+                    },
+                    {
+                      "kind": "dialogue",
+                      "speaker": "???",
+                      "text": "And the day when we formally meet each other is coming soon."
+                    },
+                    {
+                      "kind": "dialogue",
+                      "speaker": "???",
+                      "text": "Now, lift your big ass and continue your wonderful journey. I will appear at any time, any moment, no matter you expect or not."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "I really shouldn't click this bottle.",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Right. It only took one moment for you to decide to click, while you had to stand so much nonsense for no reason."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "My apologies if the story didn't unfold as you expected. But luckily, you still have your sanity that you are always proud of."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Come here. Let's put down the bottle. Before Sonetto and that floating APPLe notice your unusual behavior, you still have a chance to restore your image."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "After me, say \"Hi\" to them. Pretend you've never been tempted by the bottle."
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "\"Hi.\"",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "Oh. Hi! How are you doing?"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "Hahahahaha. Excellent. Now we all know how effective the training of the Foundation is. Good news: everyone likes good kids."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "It's so nice talking to you. You're better than your ... Oops, I should stop here."
+                },
+                {
+                  "kind": "choice",
+                  "speaker": "",
+                  "text": "Who the hell are you?",
+                  "edge_label": "",
+                  "branch": [
+                    {
+                      "kind": "dialogue",
+                      "speaker": "???",
+                      "text": "Me? Ha, I am no one."
+                    },
+                    {
+                      "kind": "dialogue",
+                      "speaker": "???",
+                      "text": "But I can also be anyone—a drunken, slovenly old man, a cleaner in a run-down hotel, a fund manager greedy for more, or a cute spinning crystal skull."
+                    },
+                    {
+                      "kind": "dialogue",
+                      "speaker": "???",
+                      "text": "Now I am a nice and friendly adventurer, just like you."
+                    },
+                    {
+                      "kind": "dialogue",
+                      "speaker": "???",
+                      "text": "Don't worry. The day when we formally meet each other is coming soon."
+                    },
+                    {
+                      "kind": "dialogue",
+                      "speaker": "???",
+                      "text": "Now, lift your big ass and continue your wonderful journey. I will appear at any time, any moment, no matter you expect or not."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "Are you sure they can hear it?",
+              "edge_label": "",
+              "branch": []
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "I really wanna find out what you're composed of! I'll chew and swallow all the gene analysis down to my stomach, so I can figure out ... how did you keep your sanity!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "No arcanist is ever as rational and restrained as you. They should, they should ... If there is really one in the world, that should be ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "And I know so much about you. Too much about you! Even I cannot deny what you are. I can't!"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "Who the hell are you?",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Me? Ha, I am no one."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "But I can also be anyone—a drunken, slovenly old man, a cleaner in a run-down hotel, a fund manager greedy for more, or a cute spinning crystal skull."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "But now I'm only a rubber asshole whose mischief just failed. A desperate loser. My wrath can't even burn a weed in the Pacific Ocean."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "I'm looking forward to the day we formally meet each other. Only then …"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Now, lift your big ass and continue your wonderful journey. I will appear at any time, any moment, no matter you expect or not!"
+            }
+          ]
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100107",
+      "internal_title": "第一章1-6.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "The Rosa Killer"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "James Clark."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "James Clark",
+          "text": "...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Peter Gusenberg."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Peter Gusenberg",
+          "text": "Uggh ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Frank Gusenberg."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Stop it!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Why are you killing them?!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Hm ...?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Because they want to kill the arcanists?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Aren't you also here for this? Ms. Governors ... who know history very well."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "So, next on the list is ... Adam Heyer."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adam Heyer",
+          "text": "Ah ... why can't I shoot her ... why ...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Timekeeper!"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "Rescue Adam Heyer.",
+          "edge_label": "营救亚当·埃耶尔",
+          "branch": []
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "Be careful with her gun. Seems it is not our body that she is aiming at."
+        }
+      ]
+    },
+    {
+      "script_id": "100108",
+      "internal_title": "第一章1-6.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Umm huh. The last human ... You saved him?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adam Heyer",
+          "text": "*ragged breathing*"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "I got you. Please stand behind us. I will escort you to somewhere safe ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adam Heyer",
+          "text": "... You guys are also arcanists?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adam Heyer",
+          "text": "Ha ha ... Hahahaha ...! D******e!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "Pap."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Huh!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "... Kill ... he killed himself ...?!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "Carotid artery ruptures. We lost him."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "What a pity. Is it because the arcanist's blood is so dirty ... that he would rather die than go with you?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "But life is precious. I ... do not want anyone to waste it ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Schneider",
+          "text": "Pap."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Enough."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Those unconscious arcanists behind you ... are the original victims, right?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "You are bringing them back to Manus Vindictae?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "You ... are much more interesting than the stubborn old woman next to you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "You are also gorgeous ... Oh, your hair color is quite similar to the feather I like ... Ah ha, I'm getting excited."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Answer my question."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Hmm ... hmm, that's harsh."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "We are just on to the same people. Before the \"Storm,\" everyone wants more useful guys."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "In that way, your destiny and mine ... are they now tightly connected?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "None of the seven are alive ... How much do you hate humans that you could kill them like that?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "... Hate humans?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Then tell me ... in this massacre in history, who should be killed, human or arcanist?"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "No one should be killed.",
+          "edge_label": "没有人该死",
+          "branch": []
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "... Difference in talent is never, and never will be the reason to deprive people of life."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Hum, bingo, Ms. Governor. Arcanist, or mortal ... I ... umm ... don’t really think it matters."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "As long as we survive, it's all good."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "What's in the shadow ...? She's holding a ritual? Stop her! She is going to take those arcanists away!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Umm. Although I like you very much, I still have to finish my task ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "This is the reward for killing Adam for me. Don't forget me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "That's it? She's gone? What are these ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "Stock gift agreement?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "She even left us stolen goods?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Don't worry. I will deal with them right now."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Wait."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "There's an address on the seal—Polypotion Bar, The Walden."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Sonetto, update the result to the headquarters."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Roger that. And we ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Let's move on to the next destination."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "The Walden ... It may have the answer to all the questions."
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

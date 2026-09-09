@@ -1,0 +1,568 @@
+{
+  "episode_id": 10208,
+  "chapter_id": 102,
+  "chapter_title": "夜色温柔",
+  "display_label": "",
+  "title": "通俗文学",
+  "subtitle": "我很高兴我又见到你了。我很高兴这一切都还派得上用场。",
+  "trails": [
+    {
+      "element_id": 1020801,
+      "owner_episode_id": 10208,
+      "trigger_episode_id": null,
+      "title": "小径① 漫漫长夜旅行",
+      "description": "一场天主教的葬礼。",
+      "action": "残篇阅读",
+      "unlock_condition": "EpisodeFinish=10208",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "让我们把时间倒回到几年前。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "为什么要倒回到几年前？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "因为这对你有好处。你眼前正躺着一个充满谜团的姑娘，她弄得你晕头转向。你抓耳挠腮，试图理解到底发生了什么。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "而这该死的一切，要从很久很久以前，从猴子决定使用双脚站立开始说起……"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "我要前进到未来",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "太棒了！你身上这种拳击手一样的壮志雄心正是我们所需要的。但很遗憾，我不能带你前往未来。不，我本来可以，但现在不能。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "现在要做这件事的，另有其人。\n在解开这个大谜团之前，我认为我们有必要先梳理眼前的主要矛盾——"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "相信我，你不会因为得知了这个故事而感到后悔。"
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "好了，开始胡扯吧",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "你的幽默从来不会令我反感。好了，过去的时光正等着我们回望。"
+                }
+              ]
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "不，我已经厌倦你了",
+              "edge_label": "",
+              "branch": []
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "但我永远不会厌倦你，宝贝。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "我尊重你的决定。当你准备好接受一个故事，去寻找你的同伴。他们会告诉你究竟发生了什么。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "……而我会在下一个目的地谦逊且忠诚地等待你。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "20世纪初的一个冬日，雨阴沉沉地下个没完，西杰克逊大道的广场上堆满了人。这里有一座意大利文艺复兴风格的宗座圣殿。你很少见到这么多的人聚在一起却不吭一声。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "这是一场黑色的追思弥撒。主祭者唱诵安魂弥撒曲，参加葬礼的人们在胸口划着十字圣号。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "逝者一定是个受敬仰的人",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "“他是神父。他为一位世罪者奉献……主会赐予他永恒的安息。”一位黑袍妇女转过来对你低语道。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "逝者或许是个有权势的人",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "“什么是权势？”一位肃穆的女士朝你摇了摇头，“世上只有上主能除免我们的罪孽，能评判我们的是非，但他不要权与势。”"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "“葬礼的主人也是如此。他是我们的神父。他为一位世罪者奉献……主会赐予他永恒的安息。”"
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "她把头转回去了。解释这些令她感到不满。参加葬礼的队伍越来越长，广场填满了高低不一的咏唱。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "格雷克一家也在其中。长柄雨伞像乌云一样罩在他们身上，很快，他们的声音就被呜咽声取代了。你很难分辨出他们脸上的表情是欣慰还是悲伤。但你没见着斯奈德的身影。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "她在哪儿？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "顺着格雷克先生断掉的左掌的方向看过去，对，就是那块被绷带包裹的地方。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "在距离人群3390英尺的位置，是教堂的背阴处，那里站着你想见的那个女孩。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "她面色苍白，身形瘦小，就像刚从一场大病中康复。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "但她拳头紧握，眼中拧着一把火，在和无处不在的歌声对抗。你不知道她为什么看起来那么——那么愤怒。她现在，有十一岁吗？"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "而弥撒也即将迎来最后的高潮。雨越来越大了。主祭者的手高高指向天空：“愿主与你们同在。”"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "“也与你的心灵同在。”斯奈德用几乎微不可闻的声音回应到。她的手紧紧握住胸膛。这是她第一次对主回应，也将是最后一次。"
+            }
+          ]
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100213",
+      "internal_title": "第二章2-8.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "通俗文学"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "二楼，一楼，地下一层，酒馆共有三层密室……其中二楼以素材室、书房和走廊通道为主，可以排除。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "最有可能停放斯奈德的地方，应该就在这两层的房间里。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "可惜没能查到巡逻者的驻守位置，恐怕免不了一场恶战。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "带上急救的灵药、魔药、医疗用具、充饥糕点、重塑面具，还有……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "花楸枝已经发芽了啊。象征着护佑与祝福的树木……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "带上它吧。出发。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "跟随地图，避开人群，搜查房间。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "重塑的面具遮蔽着人们的视野，它带来庇护，亦伴随盲目。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一路上都没有遭到追随者与门徒的为难，只需行礼便可通行。\n前往地下一层的通道就在眼前。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "那是一个分叉口。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "奇怪，我侦查时这里明明是条直路。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "嗯？有人往这边来了。赶紧避开他们。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "……？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "怎么……花楸枝似乎在拉扯着我？是……要我选他们所在的这条路？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "行，那就等他们过去再看看。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "追随者Ⅰ",
+          "text": "我在医院门口见到了我的祖母，她吞咽纸币导致窒息，被抬上了担架……\n连我也认不得了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "追随者Ⅱ",
+          "text": "这很正常，托马斯先生。我的儿子罗伯特已经死了。\n我在广播上听到了这条消息。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "追随者Ⅱ",
+          "text": "他们只是没有通过“暴雨”的“筛选”。不像我们，这样的幸运。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "追随者Ⅰ",
+          "text": "我不明白……三个小时前我还见到你在、在痛哭……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "追随者Ⅱ",
+          "text": "我们必须要接受这一切。接受我们新时代的梦想已经破灭……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "追随者Ⅱ",
+          "text": "接受我们明天还要与当局抗争的事实。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "追随者Ⅰ",
+          "text": "和当局抗争？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "追随者Ⅱ",
+          "text": "是的……是勿忘我先生告诉我的。\n我们要运送大量的物资回重塑真正的“所居之地”里。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "追随者Ⅱ",
+          "text": "我们的面具并不能完全保障我们的安全，只有回到“所居之地”里，我们才能躲避“暴雨”带来的伤害……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "追随者Ⅱ",
+          "text": "然后重新出发，去往新的时代，开始新的生活ㄠㄠ——就像我们的同伴维尔汀小姐那样ㄤ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "追随者Ⅰ",
+          "text": "你在说些什么？罗伯特先生，你、你的手怎么多了这么多黑色的粘液？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "追随者Ⅱ",
+          "text": "ㄡ……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "追随者Ⅰ",
+          "text": "这、这是什么东西……你怎么变得跟那些怪物一样了？！\n我现在就去喊人帮忙——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "他的样貌和声音都变了……就像那群不会说话的信徒一样……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "是被面具影响了？还是阿尔卡纳的能力？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "不行，不能再停留了。必须得在其他人赶来前通过这里，进入地下一层。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "追随者Ⅱ",
+          "text": "ㄠㄠ——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "“以吾之手，塑汝之序”。我是维尔汀，与你同为追随者，劳驾予以放行。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "追随者Ⅱ",
+          "text": "ㄝ……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "已经无法沟通了……是只凭直觉本能在行动吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "那只能先击晕你了！抱歉……罗伯特先生。"
+        }
+      ]
+    },
+    {
+      "script_id": "100214",
+      "internal_title": "第二章2-8.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "有脚步声，至少有五、六个人。得赶快下楼。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "地下一层……又是一个岔路口！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "新芽在逐渐生长。以不符合常理的速度生长。它有了自己的方向。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "你真的是在为我指路吗？那么……我也选左边吧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "好险，避开了另外一群守卫。这个房间是藏酒室，斯奈德不在。\n下一个……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "这是……往下的悬浮楼梯？！难道还有第四层空间？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "新芽的长度已经有一指长。甚至长出了浅绿色的花苞，摇曳之中，垂向下方。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "好，再赌最后一把。下楼。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "找到你了……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "斯奈德！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "她的呼吸已经凝滞了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "大块大块的黑色血迹，与羽毛结成了沉默的块状物。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "脉搏很微弱……怎么会，明明应该还在急救时限内的……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "斯奈德",
+          "text": "老爷……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "斯奈德！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "斯奈德",
+          "text": "是我出现了幻觉……还是您也像我思念您一样地……思念我……咳咳……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "斯奈德",
+          "text": "握得人家……这样的紧……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "太好了，你没事。快把这些喝了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "斯奈德",
+          "text": "唔呃呃……太粗暴了，老爷！我们才刚见面……咳、好难喝……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "斯奈德",
+          "text": "唔，是特效康复药水吗……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "还有这个，快吃。你饿了很久吧？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "斯奈德",
+          "text": "……这是什么？老爷。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "是晚餐剩余的蛋糕。我拿不了太多东西——你要再坚持一会儿，他们今晚就会送你离开。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "只是我不知道、你是怎么办到的？你撞上来的时候……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "——子弹确实击中了你的胸口。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "斯奈德",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "斯奈德",
+          "text": "我没什么力气说话了，老爷……我只想知道……槲寄生最后的选择。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "我没有和她单独说话的机会。但我想，既然我能顺利地见到你，或许……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "斯奈德",
+          "text": "啊，开花了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "明早10点，大雾，树林中央救治所处。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "或许她与我们有一样的理想。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "斯奈德，从现在开始，你要保存好体力。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "直到遇见十四行诗他们之前都不要睁开眼睛。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "我们在救治所见。"
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

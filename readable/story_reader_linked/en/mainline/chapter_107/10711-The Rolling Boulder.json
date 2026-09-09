@@ -1,0 +1,818 @@
+{
+  "episode_id": 10711,
+  "chapter_id": 107,
+  "chapter_title": "Vereinsamt",
+  "display_label": "",
+  "title": "The Rolling Boulder",
+  "subtitle": "The weight, hanging high above, finally falls.",
+  "trails": [
+    {
+      "element_id": 1071101,
+      "owner_episode_id": 10711,
+      "trigger_episode_id": null,
+      "title": "Q&A",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=10711",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Here is a well known question you must have heard: \"What goes on four legs in the morning, two in the afternoon, and three in the evening?\" it's so well \"known\" that no one finds it novel anymore."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "But please do me a favor and answer me yourself."
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "\"A human being\"",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Correct! This is the same answer Oedipus gave to defeat Sphinx. Thus becoming a hero, but also starting him on his ill-fated destiny."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Raise a question, give an answer. This is the most fundamental ritual. Through this, we get nearer to God."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "The Sphinx, an embodiment of mercy and nobility in Egypt, was seen as a mystery to the Greeks: a dangerous being that kept secrets, and delivered the punishments of the gods."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "When the question is answered, the ritual is finished, and the answerer is granted the right to reach the treasure it guards."
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "Ritual?",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "Yes, a ritual. Whether it is by pouring out wine; slaughtering a calf; or circling round a fire with a baby in your arms... It is an agreement; a question that demands an answer."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "Every desire has a price. Whether it is paid in wine, blood, or fire, but sometimes that sacrifice is taken from you without it ever being noticed."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "And the treasure you seek might be the undoing of your own desires."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "Let us take a look at another question: \"Stranger, what's your name?\" Cried Polyphemus."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "\"Nobody!\" Odysseus answered, and it allowed him to flee the cyclops' cave, safe and sound."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "A human being and nobody, two answers that could not be more alike, yet both were bound to fate by their answer."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "Alright, dear, time to call it a day. As for you? You'll get the answers you seek, you've already paid the price."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "Let's talk about the questioner instead.",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1071102,
+      "owner_episode_id": 10711,
+      "trigger_episode_id": null,
+      "title": "Assistant's Record",
+      "description": "Clear handwritten notes. The neat and forceful writing style reveals the writer's strong character.",
+      "action": "",
+      "unlock_condition": "ChapterMapElement=1071101",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "Assistant's Record"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "※ Walking on the beach with Marta. She's almost done with her tour of the island, collecting material for her travelogue. I accompany her, also to remind her to avoid the important areas we don't want to be exposed to the outside world. She is hoping for even more reading recommendations. Fine, I'll consult 210 and Sophia.\n\n※ There are too many outsiders here. That's not necessarily a bad thing, but it makes management more difficult. The leader's strategy isn't the best at the moment—we must make clearer decisions. We need to show some self-determination. By repeatedly emphasizing our united will, faith will also be strengthened. Relying on anyone won't work, nor can we put all our hopes in one child and then sit back in satisfaction ...\n\nIt's impossible for the island to remain peaceful all the time; when it's necessary, it always falls to me to do something.\n\n※ She should have noticed the error, or ... well, I don't believe that a person like 77 would not check the course again and calculate the angles. Even if she is too tired, 37 is still on the island ... Why didn't Hugh take his notebook with him? I saw it at Sophia's place. She left in such a hurry that even her reason for leaving seemed like an excuse. Could communicating with this supreme being really destroy a person's mind?\n\nThis is all so strange.\n\n※ This guy talks a lot. Fortunately, he's also pretty useful. And surprisingly, he thinks the same way as me. I thought he was the one who agreed most with the others. In fact, his speculations are closer to my own ...\n\nIf I become an assistant, I might be able to learn more. This position has been vacant for too long... A shield without a sword is ultimately unreliable. Now is the time. No matter what they say, I will apply.\n\n210 also believes that 77 has the answer.\n\nWhat will the answer bring? (smudge marks)\n\n—I need to get to the bottom of this."
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100716",
+      "internal_title": "第七章7-11",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "The Rolling Boulder"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The winds died down. The cave is quiet again."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The trial is over. As usual, the Star of Hermes has found her answer."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Thirty-seven",
+          "text": "We got it! The key to the gate of Truth!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Thirty-seven",
+          "text": "Apeiron has answered me! This is the final solution!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She chirps with delight as the scroll completes its task and lands back in her hand."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Thirty-seven",
+          "text": "We must leave here at once. We have to tell everyone!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "I am so proud of you, 37."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "We will save everyone."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "There is finally room to breathe, if only for a brief moment."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Yet, the feeling of unease remains."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "But there's one thing I don't understand."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Thirty-seven",
+          "text": "And that is?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She pauses mid-step and looks back, tilting her head inquisitively."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "6. His scroll saved your life."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Maybe he foresaw the dangers and protected you from it, so you can leave there almost unharmed."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "But what was he trying to tell you,"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "when he warned you about \"the collapse of your world as you know it\"?"
+        },
+        {
+          "kind": "title_card",
+          "text": "Underground Passageway, the Island"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Six",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "888",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "210",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The walk to the cleansing site is long."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Only the sounds of dripping water and soft footsteps can be heard in the tunnel."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Believer II",
+          "text": "Mind your step, everyone. We are passing the Wall of Truth."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Believer II",
+          "text": "The wall will come crashing down if false words are spoken. Silence is advised here, unless circumstances dictate otherwise."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The followers nod with respect."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "They have walked past the Walls of Silence, Goodness, and Wisdom respectively as part of the ritual."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Only those who embody these virtues can find safe passage to the final cleansing."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Believer II",
+          "text": "888?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The Custodian suddenly steps up in front of the leader, blocking his path."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "888",
+          "text": "Forgive me, but this seems to be the right moment,"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "888",
+          "text": "for some long-neglected questions to be answered."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Six",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "As she speaks, a few others emerge from the crowd and surround 6."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "On the narrow pathway, there is no way to get around them."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Six",
+          "text": "Perhaps. But hardly appropriate or righteous."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "888",
+          "text": "We will talk of righteousness after you've shared what you know, 6."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "888",
+          "text": "You've been silent for too long. Four years have passed since you became 6, and for four years, you have been hiding things from us."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "888",
+          "text": "The long-neglected questions have created a cloud of doubt between us. And now, the boulder of fate is falling on us, and we are teetering on the brink of destruction. It's time to be honest and true to your people—while you still have them."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "888",
+          "text": "We are the seekers of Truth. It is unjust to keep us from it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "888 extends an arm, gesturing to the silent cavern walls that surround them."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "888",
+          "text": "Let the Wall of Truth bear witness! I want nothing but an answer from you. I am not here to provoke untimely conflicts."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The wall stands firm. The genuineness of her words is not to be doubted."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "210",
+          "text": "Answer her, 6. You should be glad that I am not the interrogator here, because the wall would have collapsed immediately."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The wall remains silent, seemingly confirming the rhetorician's mocking words as truth."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Six",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "210",
+          "text": "You may lie, but the wall will fall. You may stay silent, then I will lie to break the silence and the wall."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "210",
+          "text": "Or maybe you could outwit the wall with the liar's paradox. Only sadly, I have tested it for you—one cannot deceive it by stating \"I'm lying.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "210",
+          "text": "After all, it's a test of morality, not logic. It needs your honesty, not your wit or anything else."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "It's a delicate situation, one that requires precision. The leader remains composed."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Six",
+          "text": "What do you wish to know?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "210",
+          "text": "What else? The most important question, of course—the question about the essence."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "210 takes a step, his voice trembling, no longer as calm as he used to be."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "These questions have plagued his mind for too long."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "210",
+          "text": "Why has our research stagnated for the past four years? Why did we fail to predict the \"Emanation\" in 1929 and again in this time?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "210",
+          "text": "Have we misunderstood the premise? What if the \"Emanation\" is not a manifestation of the transcendental Law at all?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "6 remains stoic, showing no signs of emotion."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Six",
+          "text": "Worshipers worship. Thinkers think. Governors govern, and researchers research. Your questions are not mine to answer, 210."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Six",
+          "text": "A 6 has no expertise on the study of the \"Emanation.\" I am not qualified to answer about its essence."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A truth is spoken, and the silent wall attests to its veracity."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "888",
+          "text": "Your question is too abstract, 210."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The Custodian shakes her head and takes a step closer."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "888",
+          "text": "Don't dance around the subject, 6."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "888",
+          "text": "The wisdom has been passed on to you, as it has to every other 6. You have inherited not only knowledge and insight, but also the memories of your predecessors."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "888",
+          "text": "You must know the answer, for it is part of your inheritance."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "888",
+          "text": "Tell us this: the last leader of the study of the \"Emanation,\" 77—what question did she bring to Apeiron, and what answer did she receive?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "There's no immediate response, confirming that she's hit the nail on the head."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "888",
+          "text": "I watched her walk into the cave and come out unharmed."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "888",
+          "text": "I watched her and the previous 6 board the ship in search of answers in the phenomenal world. The ship didn't come back in time. The \"Emanation\" caught them."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "888",
+          "text": "And that was only the beginning of our misfortunes."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "888",
+          "text": "The model failed. Our whereabouts were revealed. Hysteria now poisons the minds of our people, and the empirical knowledge accumulated over the years suddenly no longer applies to the current situation. Why?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "888",
+          "text": "What did she find out? Could it be ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "888",
+          "text": "... that something's happened to the transcendental Law above? Has the Truth we believed in changed?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Six",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Barraged with so many questions, he lets out a chuckle."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He smiles with relief, like a prisoner finally receiving his death sentence after years of waiting."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "It has the opposite effect on the crowd. They hold their breaths in suspense."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Six",
+          "text": "Hippasus discovered the secrets of √2 and toppled Pythagoras's school of thought."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Six",
+          "text": "The controversy surrounding Newton and infinitesimals presented a challenge to the groundwork of calculus."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Six",
+          "text": "Russell's self-referential paradox sparked the third mathematical crisis. Though set theory was eventually perfected, the lessons on self-referentiality remained."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Six",
+          "text": "In the end, Gödel's incompleteness theorems showed that proving or disproving everything is impossible, therefore absolute knowledge is unattainable."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "His profound sentiments echo throughout the cave."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Six",
+          "text": "The boulder of fate will tumble down its peak, whether 37 is the one pushing it or not."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Six",
+          "text": "However hard Oedipus tried to defy destiny, his path to tragedy remained unchanged."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "888",
+          "text": "You're talking in riddles again."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She furrows her brow. However, 6 gives her a small nod of respect."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Six",
+          "text": "I should thank you for bringing the question here, 888, so I may finally speak the truth."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Six",
+          "text": "77 did ask about the essence of the \"Emanation.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He stands tall and looks around at the people."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "They're listening intently."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Six",
+          "text": "She asked, \"What happened to the supreme existence? What plunged the world into madness?\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Six",
+          "text": "The answer was \"Disorder and chaos.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "888",
+          "text": "...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The Wall of Truth still stands. The trial left behind by the ancient sages confirms his words."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A deep, ominous rumble comes from the center of the island."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The tremors are like the island is being shaken to its core, like a tsunami and a volcanic eruption combined."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "210",
+          "text": "You blasted ...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "210 is the first to come to a realization. He lunges and grabs 6 by the collar."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "210",
+          "text": "You knew this all along? From the first day of your \"Revelation,\" when you became 6???"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "210",
+          "text": "You knew that the \"Emanation\" was not a manifestation of the transcendental Law and patterns above, but rather a symptom of its utter disorder and chaos?!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "210",
+          "text": "And you knew that the transcendental realm of numbers was no more, and that the essence of pneuma, the one true Form we believed in, had become an ever-changing existence like the irrational numbers?!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Rage threatens to consume him. The rhetorician glares at the leader, who has the audacity to confirm that their faith is shattered. He almost breaks into a bitter laugh."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "210",
+          "text": "Four years! You kept this to yourself for four years. Why?!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "210",
+          "text": "Was it for a false sense of peace? To keep the island stable? Did you deceive us to prevent the realization that our research would be in vain?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "6 does not answer the added inquiries, for they are not within his duty."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "888",
+          "text": "It's time to halt the bickering. Get everyone out of here now!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The Custodian steps in and separates them with a stern look. She then turns and begins to lead the panicked crowd to safety."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Amidst the chaos, the leader lowers his eyes and reads the verses prepared for the ceremony."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Six",
+          "text": "\"Pray to the gods for what you are about to do, and pray that all goes well.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "\"Once familiar with this practice, you will understand\nthe constitution of both eternal gods and mortal men.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sophia",
+          "text": "Uhm!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sophia",
+          "text": "What happened? Did they not carry out the cleansing ceremony?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "\"You will know the extent of all things, the boundaries\nof their entirety, and what connects them together.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Regulus",
+          "text": "Whoa, what's going on?! An earthquake?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "No. This is ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "The large-scale ritual on this island is undoing itself!?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "\"You will see, as you should, that the nature\nof the universe flows in all things alike.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Thirty-seven",
+          "text": "Why?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Thirty-seven",
+          "text": "Why is our circle gone?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The leader stands quiet and resolute, like a rock by the sea."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Watching the fall of the heavenly transcendental, feeling the tides of change wash over everything."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Six",
+          "text": "\"Thus you will not hope for what is beyond your reach, and you will not be deceived.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He rolls up the scroll and ends his reading."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Six",
+          "text": "Pray, my friends."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Six",
+          "text": "Pray for yourselves, and pray for everyone. Pray for all the suffering and misery around you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Six",
+          "text": "Reach into the unseeable darkness and pray to the unknowable supreme. Speak your hopes, for you are a finite creature yearning to transcend its own existence."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Six",
+          "text": "The determination that once helped us overcome our insignificance and touch the light of pneuma, should guide us once more."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "In the darkness, he lights up a torch."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "888",
+          "text": "Where are you going?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Six",
+          "text": "To the cave."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Six",
+          "text": "The trial is not over. The final cleansing is yet to come. There are still duties to fulfill."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He trudges forward."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "With his back to the fearful crowd, he sets off again, onto the lonely road, into the long night."
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

@@ -1,0 +1,1261 @@
+{
+  "episode_id": 1810119,
+  "chapter_id": 18101,
+  "chapter_title": "再见，来亚什基",
+  "display_label": "",
+  "title": "致后代",
+  "subtitle": "我们所留下的，你们所铭记的。",
+  "trails": [
+    {
+      "element_id": 1811911,
+      "owner_episode_id": 1810119,
+      "trigger_episode_id": null,
+      "title": "潮湿的纸张",
+      "description": "写下它的人一定太过匆忙，才会留它与板条箱和寒风作伴。",
+      "action": "交互",
+      "unlock_condition": "EpisodeFinish=1810119",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "一份遗失在口岸上的出口规划"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "原煤：\n一般作为燃料直接燃烧，可供暖及发电，直接出口优先度高（但易造成资源浪费和空气污染）。\n原煤汽化：\n可制成清洁燃料水煤气（相关技术设施较为昂贵，可考虑采取合作生产方式）。\n煤灰：\n锅炉燃烧后产生，可回收利用于道路基建。无出口必要。\n焦煤：\n冶铁重要原料（炼铁厂或可重建？）。\n\n另：据悉存在洗煤后制成精煤的技术，南方精煤需求量大，建议优先考虑。\n\n“据悉”是根据哪儿？谁早就知道咱们会开出来煤矿，还去过南方？\n——叶甫根尼同志在信里列举了十多种常见能源的用途和出口方向，我们找着了一条能用上的。"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1811912,
+      "owner_episode_id": 1810119,
+      "trigger_episode_id": null,
+      "title": "狭路相逢",
+      "description": "狭窄的矿道容不下这样多的访客，总有一方得率先让步。",
+      "action": "教学记录",
+      "unlock_condition": "ChapterMapElement=1811911",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1811913,
+      "owner_episode_id": 1810119,
+      "trigger_episode_id": null,
+      "title": "必读书目",
+      "description": "对保护人身安全有莫大帮助。",
+      "action": "交互",
+      "unlock_condition": "ChapterMapElement=1811912",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "《矿场职工操作行为守则》及附录"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "第一部分  规范培训\n1.必须经过安全知识学习及考试后持证上岗；\n2.必须熟悉对应工种的实地勘察和操作流程；\n……\n9.全面杜绝年龄低于16岁及高于60岁者下井。\n\n第二部分  实际操作\n1.准时抵达作业地点交接班；\n2.检查作业位置安全状况、材料数量与质量，并清理可能影响作业的障碍物；\n……\n9.交班前必须留下当时的矿井安全情况书面记录，并定时更新、核查该记录。\n\n第三部分  安全须知\n1.发动机器前必须按照规范流程启动，逆向检查设备运行质量；\n2.绞车、机车、摘挂车发动过程中，如遇异常，须立即停车，再行检查；\n3.下井前必须带齐所需工具，尖锐工具需配备防护套；\n……\n19.认真填写工作日记，并定期整合检查。\n\n附录-工厂可自产元件索引\n……\n17.十字滑轨（工序暂缺）\n\n叶甫根尼同志从书上摘抄了办法，我们也有足够的原材料，批准生产。——伊·伊·诺维科夫\n这东西很难做，总之先试试吧。——波·弗·布拉金斯卡娅"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1811914,
+      "owner_episode_id": 1810119,
+      "trigger_episode_id": null,
+      "title": "生产工厂",
+      "description": "需要一些措施来保护矿工们的作业安全。为此，制作加固结构的零件成了首要事项。",
+      "action": "类型502",
+      "unlock_condition": "ChapterMapElement=1811913",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1811915,
+      "owner_episode_id": 1810119,
+      "trigger_episode_id": null,
+      "title": "嘿，明天！",
+      "description": "嘿，明天！",
+      "action": "残篇阅读",
+      "unlock_condition": "ChapterMapElement=1811914",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "伊利亚",
+          "text": "基里尔，午休结束了！快让波金娜别坐在铲车上玩数独了，加固矿井顶梁的木材今晚就得送到围场上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊利亚",
+          "text": "哦——克努特！什么风把你吹来了？就算你是过来换班，那也太早了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "克努特",
+          "text": "是没到交接班的时候，我这就是来送些零件，还有翻出来的工具箱……瞧瞧，里面东西齐全着呢。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "克努特",
+          "text": "基里尔同志为什么站得那么远？还转着圈，我过来的时候都快把我绕晕了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊利亚",
+          "text": "他和波金娜从午休开始之后就这样了，波金娜在玩她的老太太游戏，基里尔嘛……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "基里尔",
+          "text": "——伊利亚，你没看到叶甫根尼同志的信，所以你不知道。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "克努特",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "基里尔",
+          "text": "看着手上的煤灰，我又想起他的信。然后我走来走去，想着到时候大伙儿会怎么把我埋掉。老实说，这很光荣，可也……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "基里尔",
+          "text": "我总觉得叶甫根尼同志不该是这样的结局。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "基里尔",
+          "text": "他不该停在这里。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊利亚",
+          "text": "基里尔……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "你面前的克努特同志就是第一个发现那遗书的人。之后那封信我们也都亲手抚摸了，像交接一面流动旗帜，你忘了？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "你不该这样对伊利亚说话，也不该那样想叶甫根尼同志。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "基里尔",
+          "text": "可先前你也是这样说的，波金娜。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "波金娜",
+          "text": "是的，我是这样说了。但我同时也说——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "波金娜",
+          "text": "“叶甫根尼同志停在了这里，可我们不能停下。”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "波金娜",
+          "text": "数独有可填写的唯一空格，现在摆在我们面前的也是唯一的道路。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "波金娜",
+          "text": "“继续前进，走向明天。”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊利亚",
+          "text": "不能停在这里，基里尔同志。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "克努特",
+          "text": "是的……是的。我不会说话，但就是波金娜同志说的这样。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "克努特",
+          "text": "这也一定是叶甫根尼同志真正的期望。"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1811921,
+      "owner_episode_id": 1810119,
+      "trigger_episode_id": null,
+      "title": "雪",
+      "description": "地上的盐粒，永恒的朋友，能弥合一切的东西。",
+      "action": "交互",
+      "unlock_condition": "EpisodeFinish=1810119",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "雪与其他可能"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "对小镇来说，这是个熟悉的身影。对来者自己而言，一切都如此陌生。\n\n她习惯了在雪中穿行。莫斯科街头飞舞的杨絮会令她想起来亚什基，它与雪很相近，却不会使人脸颊通红，手足冰冷，不会在皮肤上化开，也无法遮掩任何事物。商店里能买到罐头，甚至香肠和新鲜的肉，想置换些日用品也不必掰着指头数时间……第一次在新搬的屋子里炖汤的时候，她感觉这不真实。另一件让她印象颇深的事是刚下火车时，她吓得攥紧了孩子的手——在小镇之外的地方，在莫斯科，竟然有这样多的人，而且瞧上去也都充满希望。\n\n但她还是踏上了回来亚什基的火车。\n\n来亚什基也变了。镇上多了她不认识的脸，广场中央的雕塑换了模样。学校，学校还是老样子，孩子们在小操场上做游戏。镇民们的问候略显局促，没人提起她此前匆匆告别的事，似乎这并不重要，所有人随时都能离开，也随时能回到此地。\n\n雪落上了她的头发和领口，让她的手指和鼻尖发红，这是真正的雪。"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1811922,
+      "owner_episode_id": 1810119,
+      "trigger_episode_id": null,
+      "title": "当下的路",
+      "description": "当下的路",
+      "action": "残篇阅读",
+      "unlock_condition": "ChapterMapElement=1811921",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "维拉",
+          "text": "很高兴再见到您，乌里扬娜同志……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维拉",
+          "text": "大家刚告诉我您回来的消息，您去见了孩子们吗？他们有很长一段时间总念叨着您。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "乌里扬娜",
+          "text": "我刚到镇上没多久。那些小家伙们……有您看顾，一定过得挺不错，您一直是一位细心的老师。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维拉",
+          "text": "可一个人总忙不过来，要是多一位同志搭把手就更好啦。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维拉",
+          "text": "所以，您这次会留下吗，乌里扬娜同志？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "乌里扬娜",
+          "text": "我正是想来同您谈谈这件事……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维拉",
+          "text": "当然，您可以慢些讲，不必着急——对了，小瓦夏也同您一块儿来了吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维拉",
+          "text": "我记着，以前他很想要一盒彩色画笔。现在物资足够了，明天我们能和孩子们一块儿去广场写生……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "乌里扬娜",
+          "text": "只有我回来了，维拉同志。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "乌里扬娜",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "乌里扬娜",
+          "text": "在莫斯科我也还是记着来亚什基。我会想留在这里的人们真是固执，虽然大家都诚挚、善良，但也都固执得很——您明白吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "乌里扬娜",
+          "text": "不用担心天太冷，不用仔仔细细地考虑物资分配，孩子想要画笔，也能想法去商店里买。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维拉",
+          "text": "这真好！我们所做的努力正是希望让来亚什基也变成这样的地方。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "乌里扬娜",
+          "text": "是的，这的确很好。但……当我坐在瓦夏的病床前——他有哮喘，您知道——那些杨絮……给小孩子的墓碑和棺材原来也都那么小，就像……就像玩具。它们简直不像真的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "乌里扬娜",
+          "text": "我以为在莫斯科生活会变好。只要坚持，只要稍加忍耐，事情总会好起来……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "乌里扬娜",
+          "text": "但其实不是这样。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维拉",
+          "text": "……抱歉，乌里扬娜同志。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "乌里扬娜",
+          "text": "没关系，是我主动对您提起的。待在莫斯科的房子里，我一直哭……然后，我想，我该想办法振作起来，做点什么。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "乌里扬娜",
+          "text": "我还能和大家站在一块儿吗？那时候……我不该只想着自己，就这么离开。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维拉",
+          "text": "我们没法预知未来，只有走在脚下的路上，努力踩得稳当些。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维拉",
+          "text": "任何时候，您都可以踏上这条路。"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1811923,
+      "owner_episode_id": 1810119,
+      "trigger_episode_id": null,
+      "title": "欢迎回家！",
+      "description": "欢迎回家！",
+      "action": "残篇阅读",
+      "unlock_condition": "ChapterMapElement=1811922",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "维拉",
+          "text": "小调皮鬼们，别一股脑儿挤过来。稍稍散开些，乌里扬娜老师好挨个儿跟你们打招呼，好吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "尼娜",
+          "text": "嗯！太好啦，我们又可以叫您“老师”了，乌里扬娜老师！嘿嘿～"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "帕索诺",
+          "text": "乌里扬娜老师！镇子上有这么——这么多新东西，我可以带您去看！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "彼得森",
+          "text": "我也可以！我对那些可熟了，我还知道去矿场的近路呢！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "乌里扬娜",
+          "text": "当然，小熊们，我耐心的小小同志们，别着急……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿夫西维",
+          "text": "给你。这是广场送给我的，我把它分享给你～维拉说我们应该学会分享。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "乌里扬娜",
+          "text": "多漂亮的向日葵。谢谢你，阿夫西维同学，你看起来比之前开心。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿夫西维",
+          "text": "妈妈和其他人都笑得更多啦，所以我也和大家一块儿笑起来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿夫西维",
+          "text": "乌里扬娜，你也笑啦。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "乌里扬娜",
+          "text": "哈哈……对呀，我……我真想念你们。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维拉",
+          "text": "别用手揉眼睛，孩子们，这儿有手帕……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维拉",
+          "text": "你们花了很长时间认真想好的欢迎词，可别忘记告诉乌里扬娜老师喔。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "孩子们",
+          "text": "——欢迎回家！乌里扬娜老师！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "乌里扬娜",
+          "text": "——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维拉",
+          "text": "欢迎会和庆祝会安排在了同一天，来亚什基刚刚重新迈开步子，还有许多事儿……希望您别介意。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "乌里扬娜",
+          "text": "不，完全不会。我能帮上什么忙吗？请一定要告诉我……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维拉",
+          "text": "那我现在可就要麻烦您照顾孩子们啦。稍后我得到港口看看，还有……嗯，这段时间都会有基金会的朋友们按时来听课，请用教师的标准要求他们，这是合作协议里商量好的。此外……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维拉",
+          "text": "欢迎回家，乌里扬娜同志。"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1811924,
+      "owner_episode_id": 1810119,
+      "trigger_episode_id": null,
+      "title": "劳动食堂",
+      "description": "庆典越盛大，需要的准备工作就越多。我们的同志值得这一切。",
+      "action": "类型502",
+      "unlock_condition": "ChapterMapElement=1811923",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1811931,
+      "owner_episode_id": 1810119,
+      "trigger_episode_id": null,
+      "title": "远方",
+      "description": "远方",
+      "action": "残篇阅读",
+      "unlock_condition": "EpisodeFinish=1810119",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "尼娜",
+          "text": "我折好了——彼得森同学，我要让纸飞机飞起来啦！你可以往旁边站一点儿吗？就一点儿！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "彼得森",
+          "text": "行，看看我们谁飞得更远！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "尼娜",
+          "text": "三，二，一！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿夫西维",
+          "text": "海燕钻进了雪堆里头。彼得森赢啦。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "尼娜",
+          "text": "他还没飞呢，阿夫西维同学，说不定……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "尼娜",
+          "text": "咦，帕索诺，你不和我们一起玩儿吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "帕索诺",
+          "text": "……我，我在想维拉老师说的事。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "彼得森",
+          "text": "你害怕啦，你不想出去瞧瞧吗？而且，爸爸妈妈都同意了，大人们可比我们懂得多。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "帕索诺",
+          "text": "我没害怕！但是……维拉老师说她不会跟着我们一起走。乌里扬娜老师也不会。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿夫西维",
+          "text": "维拉有好多好多事要做。慢吞吞的乌龟们走了以后，又有好多新朋友到镇子来，维拉要和他们说话。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "尼娜",
+          "text": "我觉得，我们不用那么担心。老师们让基金会来的朋友们和我们一起上课，和我们一起玩儿，还要记笔记……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "尼娜",
+          "text": "他们看上去不像坏人。如果是坏家伙，维拉老师会把他们赶出去的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "彼得森",
+          "text": "没错，帕索诺！连阿夫西维都不像你这么紧张！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿夫西维",
+          "text": "我不紧张，我也想学会变东西。把向日葵变成高高的哨兵，变成圆耳朵的小熊～"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿夫西维",
+          "text": "把雪人变成我们，陪维拉一起。妈妈说过，想她的时候就做一个雪人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿夫西维",
+          "text": "——维拉肯定会想我们的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "彼得森",
+          "text": "对呀，我们应该给维拉老师留下礼物！那——我们现在就来堆雪人吧！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "尼娜",
+          "text": "好呀！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "帕索诺",
+          "text": "好，我们要用最好看的树枝做装饰！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "彼得森",
+          "text": "走吧，大家分头去找材料，要用最快的速度回来集合！"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1811932,
+      "owner_episode_id": 1810119,
+      "trigger_episode_id": null,
+      "title": "捡树枝行动",
+      "description": "在挑选堆雪人材料一事上，这群小个子朋友也拥有同样的好眼光。",
+      "action": "教学记录",
+      "unlock_condition": "ChapterMapElement=1811931",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1811933,
+      "owner_episode_id": 1810119,
+      "trigger_episode_id": null,
+      "title": "废弃矿区",
+      "description": "注意矿区里闪烁的色彩，别弄丢了那个为雪人忙碌的小孩儿。",
+      "action": "类型502",
+      "unlock_condition": "ChapterMapElement=1811932",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1811934,
+      "owner_episode_id": 1810119,
+      "trigger_episode_id": null,
+      "title": "孩子的创造",
+      "description": "由不同的小手塑造，分享着同一种纯然的希冀。",
+      "action": "交互",
+      "unlock_condition": "ChapterMapElement=1811933",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "圆圈舞"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "大小不一的雪人在操场上围成了圈，孩子们贴心地将它们的树枝手臂两两绑在一起，让这群雪朋友可以手拉着手。他们各自专注地装饰自己的小小造物，同样贴得离彼此很近，每当谁的胳膊撞上谁的肩膀，就会响起快活的笑声。\n\n最左边的小姑娘低下头，辫子像太阳下的草垛儿一样翘起，闪闪发亮。她把向日葵花瓣仔细地贴在雪人头顶。旁边，两个男孩子试图把雪人胖胖的身躯变得再宽些，再结实些，好挨过更长时间，使它不太快融化——这样维拉老师能多跟它们打几次招呼。\n\n属于小个子男孩儿的雪人是一只小熊，尽管需要依靠他的介绍，才能区分出脑袋、爪子、熊背上趴着的北极狐。狐狸通常可没有兔子的长耳朵，但他会让它拥有这个，好听清妈妈的脚步、维拉的脚步、好朋友们的脚步。现在是最后的工序了，他把找到的矿石仔细地安放在狐狸胸口，就像他把爸爸留下的漂亮石头挂在胸前。\n\n“好啦，雪人同志们！你们要好好留在这里，和维拉老师一块儿跳圆圈舞，别乱跑，别吵闹，听她的话……”"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1811941,
+      "owner_episode_id": 1810119,
+      "trigger_episode_id": null,
+      "title": "工人们",
+      "description": "那些令来亚什基矗立在雪原上的人，那些从未期待过留下名字的人。",
+      "action": "交互",
+      "unlock_condition": "EpisodeFinish=1810119",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "温暖的人群"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "在长桌与长桌之间有这样一群人。\n\n被围在中间的那个，维持着她惯常的礼貌、友善的笑容，如果不将目光挪向桌面那只不知如何安放的手，就会错过这层礼貌外的情绪——不可置信——是的，这位年轻的学者震惊于她所专注的理论如今再次备受瞩目，在外面多数地方把理线学扫进旧纸堆之后，它在来亚什基却有了容身之所。\n\n至于她周围的人，多数还身着工作服，煤灰爬上了他们的领口和裤腿。他们自己也清楚这点，因此和学者保持着距离，直到她伸出手。这群临时凑成的老师和学生彼此握手，决心花时间了解一门没落的学科。最热衷于劳动的人们也是最认真的实用主义者，理线学在小镇的重建工作里起了怎样重要的作用啊！最初，在走进研究所的时候，学者正怀抱着类似的期望。理线学是万能的吗？不。但它或许能在某个时间带来改变。\n\n也许是发现煤矿的那一刻，也许就是这一刻。"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1811942,
+      "owner_episode_id": 1810119,
+      "trigger_episode_id": null,
+      "title": "意外情况",
+      "description": "一场临时召开的理线学讲座。设计这座房屋的人并未预料过，它需要盛放如此多的热情。",
+      "action": "教学记录",
+      "unlock_condition": "ChapterMapElement=1811941",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1811943,
+      "owner_episode_id": 1810119,
+      "trigger_episode_id": null,
+      "title": "居民区",
+      "description": "本地的事儿肯定得问本地人。最直接的法子是在居民楼里挨个打听。",
+      "action": "类型502",
+      "unlock_condition": "ChapterMapElement=1811942",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1811944,
+      "owner_episode_id": 1810119,
+      "trigger_episode_id": null,
+      "title": "抵达地平线",
+      "description": "抵达地平线",
+      "action": "残篇阅读",
+      "unlock_condition": "ChapterMapElement=1811943",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "北方哨歌",
+          "text": "咳咳，这还真有点叫人紧张。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "北方哨歌",
+          "text": "生面孔还挺多的……简直出乎意料。行，希望中午那杯伏特加能起作用。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "北方哨歌",
+          "text": "不好意思，请看这儿——各位同志，以及各位造访此地的陌生人，欢迎你们来参加这场理线学讲座。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "北方哨歌",
+          "text": "我是北方哨歌，今天的主讲人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "北方哨歌",
+          "text": "接下来，我将结合来亚什基矿产开发的具体情况，介绍一些理线学的实际应用事例……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "拉普拉斯研究员",
+          "text": "嗯，的确。这对我们的研究也有一定好处……谁管其他人怎么说？我看理线学挺有实用性。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "拉普拉斯研究员",
+          "text": "当然得试试，这事儿也得让露西女士知道。她肯定会有兴趣亲自听听这样的讲座……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "拉普拉斯研究员",
+          "text": "笔记……我先写详细些，如果稍后有提问环节……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维拉",
+          "text": "抱歉，您好？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "拉普拉斯研究员",
+          "text": "呃？噢……！您好，女士。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维拉",
+          "text": "如果您需要更近些的位置，我可以带您过去，那边有访客席位。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "拉普拉斯研究员",
+          "text": "不用，反正我不像他们，我只是个搞研究的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "拉普拉斯研究员",
+          "text": "有没有能听得更清楚的地方？北方哨歌女士是否有其他事务要处理？我记录了几处疑问，比如辨认线条的技巧之类……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维拉",
+          "text": "讲座结束后的确有答疑环节。您和我一块儿过来吧，我瞧瞧有没有更近的、空旷些的地方好落脚。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "北方哨歌",
+          "text": "呼，我该找点儿什么喝两口，这真是件体力活。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "北方哨歌",
+          "text": "希望待会儿的答疑环节不会一片沉默。最差的情况……我也准备了两三个简单的问题……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维拉",
+          "text": "北方哨歌同志，请你拿稳了，给。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "北方哨歌",
+          "text": "你的这杯水真及时！我正需要这个。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "北方哨歌",
+          "text": "讲座还算顺利，我能赶上今天的演出——我答应了阿夫西维他们来点“翻花绳”的小把戏呢。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维拉",
+          "text": "哈哈，理线学可不是什么小把戏，北方哨歌同志，我知道。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维拉",
+          "text": "那位拉普拉斯的女士想和你交流一些技术问题，你多喝几口水吧。我相信她肯定攒了一大堆话，就等着待会好提问。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "北方哨歌",
+          "text": "那就让她尽管问吧！不怕你笑话，我跟理线学相依为命的日子久得很呢。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "北方哨歌",
+          "text": "说来，你对这次讲座感想如何？我相当擅长听取意见，维拉同志，你不必安慰我。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维拉",
+          "text": "我想起了曾见过的一线光景，虽然不是你所说的万物的线条。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维拉",
+          "text": "在某个清晨，我随着海浪漂浮，凝望着远处的土地，地平线离我十分遥远，也十分柔和、明亮。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维拉",
+          "text": "我决心要去看看。然后，我踏上了来亚什基，在雪地上留下足迹，眼见它变成如今的样子。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维拉",
+          "text": "……多好啊，我们的理想都在逐渐实现。"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "200829",
+      "internal_title": "【1.8】再见，来亚什基-19",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "激昂的时间河流在这儿悄无声息地摆荡了数月。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "熙熙攘攘的人声此起彼伏。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "人群在这里合流，又在这里分散，奔向各自的位置。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "来亚什基游泳场（看看能不能拿下面的氛围图改，去掉人物）"
+        },
+        {
+          "kind": "title_card",
+          "text": "来亚什基·游泳馆"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "泳池"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一个灰头土脸的人影急匆匆地挤进了这里。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "北方哨歌",
+          "text": "万幸——你果然在这里！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "北方哨歌",
+          "text": "……不过，我是不是应该回避一下？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "氛围图15-维拉坐在泳池的边上，她的双腿放在水里，池水编织出的一条鱼尾包裹了双腿，北方哨歌倚靠在一边"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "移动"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维拉",
+          "text": "呵呵，没什么好奇怪的，随便坐吧～"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维拉",
+          "text": "我并不是血统纯正的鲁萨尔卡。如你所见，每隔一段时间，我都要回到水中，汲取海洋所赋予我们的灵感与养分。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "北方哨歌",
+          "text": "咳——你好，维拉同志。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维拉",
+          "text": "好久不见，北方哨歌同志。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维拉",
+          "text": "我听说你整天在矿区里奔波，越来越多的工人们认可了理线学。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "北方哨歌",
+          "text": "他们帮了我很多忙……如果没有他们，对来亚什基环境的研究不会这么顺利。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "北方哨歌",
+          "text": "理线学在这里重获新生，生根发芽……甚至得到了外部的认可。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "北方哨歌",
+          "text": "我……很高兴能来到这儿。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维拉",
+          "text": "真没想到，对自己所研究的理论顽固而自信的北方哨歌同志也会露出如此羞怯的一面。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "北方哨歌",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维拉",
+          "text": "我并没有取笑你，北方哨歌同志。事实上，你远不如看上去那般无所畏惧，不是吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维拉",
+          "text": "这也正是人们紧紧团结在一起的理由，我们弥补不足，也……\n抱歉，我的职业病又犯了～"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "北方哨歌",
+          "text": "好吧，我承认。\n但这没什么好奇怪的，你也远没有表面上那么温柔，是吧？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "北方哨歌",
+          "text": "——我们扯平！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "聚焦北方哨歌"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "北方哨歌补救性地轻咳了两声，将手中的信件递给了维拉。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "北方哨歌",
+          "text": "我是来向你告别的……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "北方哨歌",
+          "text": "科算中心邀请我参加即将在欧洲分部举办的讲座，他们希望我以来亚什基为案例，介绍理线学是如何将神秘学与环境分析学结合起来的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维拉",
+          "text": "听起来是个良好的开始。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "北方哨歌",
+          "text": "来亚什基发展得如何？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维拉",
+          "text": "到这儿来参观的游客们变多了，他们相当热情，希望见证某些不一样的东西。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "北方哨歌",
+          "text": "我敢肯定，他们会得偿所愿的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维拉",
+          "text": "我们与周边的许多地方都达成了合作，甚至包括基金会。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维拉",
+          "text": "他们希望为孩子们进行一些简单的神秘学短期培训。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "收信"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "维拉上岸"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "维拉动作"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "另一封湿漉漉的信被递了上来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "北方哨歌",
+          "text": "这是……？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维拉",
+          "text": "拆开看看吧，这是从基金会寄来的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "消人"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "打开信"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维拉",
+          "text": "命名日先生邀请我到基金会去，与他们商谈更多的合作方案，孩子们也在那儿等着我。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维拉",
+          "text": "在基金会学习的时候，他们也一直念叨着你。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维拉",
+          "text": "“我们错过了理线学的考试吗？”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维拉",
+          "text": "“基金会里有许多神奇的东西……”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "黑屏独白"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“阿夫西维”",
+          "text": "这儿有会咬人的金币、咋咋呼呼的小煤球、捕捉彩虹的玻璃笔……还有很多很多好玩的东西。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“帕索诺”",
+          "text": "我学到了许多神秘学咒语！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“尼娜”",
+          "text": "我很想念小镇的大家……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“阿夫西维”",
+          "text": "没错，我们想念阿廖卡同志，想念布林同志，还有友谊同志！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“彼得森”",
+          "text": "几个月后，我们就能回家了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“彼得森”",
+          "text": "我一定能学会最厉害的神秘术，保护好小镇的安全！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“阿夫西维”",
+          "text": "我们也会变成海燕！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“阿夫西维”",
+          "text": "飞呀～飞呀～飞到更远的地方！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "缓缓黑屏"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "氛围图1-差分1：兀尔德的桌面，桌面上有一台打字机，一本彩色的绘本，一台正在播放新闻的收音机（打字机在画面中心）"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "调试"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "电台主播Ⅰ",
+          "text": "今日，卡斯林斯卡医学院附属医院接收了一例罕见病例。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "电台主播Ⅰ",
+          "text": "某患者血管呈现出了不可逆的电线化特征。截止至18：00时，该患者全身的动脉、静脉及毛细血管组织均已坏死。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "电台主播Ⅰ",
+          "text": "卡斯林斯卡医学院院长受访时称，他们将邀请更多专业人员参与会诊，商讨后续的研究工作。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "电台主播Ⅰ",
+          "text": "《世界新奇报》声称，“电线人”症状将会成为新的未解之谜。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "电台主播Ⅰ",
+          "text": "同时，他们发起了专栏活动，旨在分析该“电线人”的血管构造对不同电器的应用频率。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "电台主播Ⅰ",
+          "text": "本电台将持续为您报道——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "调试"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "电台主播Ⅱ",
+          "text": "近日，“飞毯旅行社”将组织一场巡游北欧的浪漫之旅。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "电台主播Ⅱ",
+          "text": "在那里，你们能见证浪漫的极光，与毛绒绒的奇肯恩们亲密接触，享受雪地飞毯竞速赛……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "电台主播Ⅱ",
+          "text": "最后，我们将会抵达一座神秘的小镇，来亚什基。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "电台主播Ⅱ",
+          "text": "那儿有丰富的煤矿，是北极最温暖的地方。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "电台主播Ⅱ",
+          "text": "在那儿，相比支付金钱，我衷心希望各位参与一些力所能及的劳动来换取所需。当然，这并不是强迫性的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "电台主播Ⅱ",
+          "text": "但是，倘若我们能见证一种崭新的、更美好的理想生活，为何不亲自试一试呢？……我相信，它不会令你们失望的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "像是关掉收音机，啪的一声"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "逐渐黑屏，黑屏较长时间"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "远方的故人打字机效果\n*不计入版本资源内"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "呵呵……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "我该从何说起呢？UTTU的读者们。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "它是一颗镶嵌在永恒灰白色冻土上的珍贵宝石，也是一面鲜红的旗帜，或许未来会更加鲜红。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "在过去的许多年里，这里的居民希望建立一种不太一样的东西。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "这是一场漫长的奋斗。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "终于，他们不再是位于某个极北之地的一处历史的注脚，不再是一个将被悄然忘记的遗憾。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "我很希望各位能够见证它的当下与未来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "因此，我设法记下了它，也希望这段岁月能够留存在你的心中。"
+        },
+        {
+          "kind": "title_card",
+          "text": "8#2"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

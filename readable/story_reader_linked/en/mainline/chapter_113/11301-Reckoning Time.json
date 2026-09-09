@@ -1,0 +1,662 @@
+{
+  "episode_id": 11301,
+  "chapter_id": 113,
+  "chapter_title": "他者的悲哀",
+  "display_label": "",
+  "title": "Reckoning Time",
+  "subtitle": "Before the dust settles.",
+  "trails": [
+    {
+      "element_id": 1130101,
+      "owner_episode_id": 11301,
+      "trigger_episode_id": null,
+      "title": "The \"Storm\" Downpours",
+      "description": "You can patch a leaky roof, but you can't stop the rain.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=11301",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "Pre-Storm Field Observation Reports"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "According to field reports submitted by Marcus, Semmelweis, and other operatives across European branches, locations marked as \"critical points of time\" are now scattered across Europe in the current historical period. Both their number and distribution far exceed anything previously on record.\nThis is a turbulent era. The territorial and political disputes left by the war have Europe redrawing its map in blood and paperwork, while many nations are still rebuilding. Famine, unemployment, the lingering effects of influenza, and other post-war wounds pervade everyday life. Rebellious movements like Dadaism take root in the spiritual confusion of the age. The invention of wireless radio and small home appliances sparks the first stirrings of a technological revolution ...\nDespite repeated reinforcements, new \"critical points of time\" continue to surface in cities and corners across multiple countries, and we are still unable to pinpoint where Manus Vindictae are most active. With a severe manpower shortage at the headquarters checkpoint, we can no longer spare operatives for continued observation.\nIn summary, based on reports from all teams, we are unable to confirm Manus Vindictae's operational direction, mount a targeted counteroffensive, or slow the deterioration and expansion of these \"critical points of time.\" Headquarters has decided to execute the evacuation plan immediately in order to preserve as many of our forces as possible. All field team leaders are to order and urge their operatives to return to headquarters without delay or proceed to the nearest shelter to take refuge from the \"Storm.\""
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1130102,
+      "owner_episode_id": 11301,
+      "trigger_episode_id": null,
+      "title": "Temporary Dispatch",
+      "description": "Business trips, overtime, labor dispatch—there's always a way to get the most out of your employees. If one isn't enough, try all three.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=11301",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "Complaints From a Part-Time Guard"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "\"Honestly, if someone had told me that joining the Foundation would one day have me posted as a door guard, I never would have let that Creius leave the Vigiles Bureau. But it's too late now. You, I, and all these fine Foundation employees will soon be standing at the door, plastering on smiles and shouting 'Welcome!'\"\n\"At the end of the day, this all comes down to Creius and those 'Hawks' aggressively pushing through the Shelter Expansion Act. Ever since the Timekeeper announced the 'Storm' countdown, refugees from all over the world have flooded to the Foundation's doorstep, surrounding headquarters with no end in sight. Those lines stretch so far they could probably wrap around the entire earth.\"\n\"Who knows how loose the Foundation's screening criteria are this time. If you ask me, if even a handful of those veterans turn out to be spies, the Foundation could be blown apart from the inside in no time. Creius knows better than anyone what those soldiers are capable of, yet he's not the least bit worried about keeping them in line—just like he always has his ways of dealing with me and 'Blackbird.' And of course, you—his loyal little dog who doesn't need dealing with at all.\"\n\"Fine, this is why he dumped us here. On top of standing guard and welcoming guests, we're also on riot control, reconnaissance, and counter-espionage duty—and at the critical moment, we might just end up digging a trench outside the building. Let's go, heads up. Time to rotate from patrol to the front door ... Stop it. I didn't mean for you to actually smile like that.\""
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "101301",
+      "internal_title": "第十三章13-01",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "On Another's Sorrow"
+        },
+        {
+          "kind": "title_card",
+          "text": "Reckoning Time"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Countdown to the \"Storm\""
+        },
+        {
+          "kind": "title_card",
+          "text": "Courtroom"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Special Tribunal Officer",
+          "text": "Order, order."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The gavel strikes with perfect momentum, not overly dramatic, but enough to serve as a warning."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Creius",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Creius",
+          "text": "The commotion from the jury box yields to a penetrating silence."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Special Tribunal Officer",
+          "text": "Once again, Mr. Creius, this proceeding is not an \"interrogation.\" But you are obligated to respond to the questions put forth to you by this tribunal."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Special Tribunal Officer",
+          "text": "Now, please give a full account of your unsanctioned actions proceeding from October 1st, 1920 onward, following the tenth \"Storm.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Special Tribunal Officer",
+          "text": "You are reminded that your testimony must be complete, truthful, and without omission. Our time is limited."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Creius",
+          "text": "Understood, Your Honor."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Foundation officers and staff watch as he looks down at his prepared statement and begins to read."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Creius",
+          "text": "On October 1st, 1920, I issued an unsanctioned order to Sergeant Yermolai, a member of my squad, directing him to carry out a mission on the Western Front in Europe."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Creius",
+          "text": "In addition, during my tenure as head of security in the safe zone, I instituted a \"frontline contingency plan\" without prior authorization from the Joint Committee."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Creius",
+          "text": "Following that, I took advantage of the policy approved by the Committee in December—the Resolution on the Expansion of Admitted Persons—and issued admission licenses far exceeding my allowance under the regulations."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The tribunal officer stares right past Creius, looking instead at the representative of the Hawks."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Irinei",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Irinei maintains a stern expression."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Special Tribunal Officer",
+          "text": "Then you admit to acting beyond the regulations of this policy in order to distribute these licenses, most of which were issued to military-related individuals. Would you care to explain why?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Creius",
+          "text": "I believed the Foundation would need them."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Special Tribunal Officer",
+          "text": "Elucidate, please."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Creius",
+          "text": "All this time, the Foundation has been sheltering only a small number of core personnel from each era. We've had to rebuild our ranks from the top-down after every \"Storm.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Creius",
+          "text": "I don't doubt we had our reasons. We sheltered only the best of the best. After all, a farmer sets aside their most productive seeds to survive a coming flood."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Creius",
+          "text": "But we're fighting a war out there. I hardly think there's any need to \"elucidate\" how this policy has kept us on the back foot. We're scrambling."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Special Tribunal Officer",
+          "text": "Irrespective of our shortages, you can't possibly claim these people you've taken in are fitting candidates. They aren't qualified specialists; they're soldiers. The only reason they're fighting for us is to protect themselves from Manus Vindictae."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Special Tribunal Officer",
+          "text": "How do you intend to ensure their continued cooperation after the \"Storm\" takes us to a different era?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Creius",
+          "text": "We tell them what they're fighting for."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Creius",
+          "text": "Every man and woman that fought in those trenches has already come to terms with the idea that they may never see their home again, all for the sake of a senseless war without any hope of an end. What better qualifications could we ask for?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Special Tribunal Officer",
+          "text": "Would you state that as a matter of fact, or as your opinion?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Creius",
+          "text": "I speak from my own experience, Your Honor."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Creius",
+          "text": "Every one of us here has been snatched from our eras. We've all lost homes and loved ones to the \"Storm.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Special Tribunal Officer",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Creius",
+          "text": "But the Foundation saved us and gave us a reason to fight, not for vengeance but for the future itself."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Creius",
+          "text": "We are the lucky few who benefited from the Foundation's old policy. I only aim to give that chance to more people. Expanding our numbers will not change our goals. We can save more people, and I believe we must."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Creius",
+          "text": "Besides that, the truth of the \"Storm\" will help persuade them—to say nothing of Manus Vindictae. Just think about how many they've already driven to our side."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The tribunal officer organizes her files—an excuse for a brief pause."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Special Tribunal Officer",
+          "text": "You've made your point. Now let's turn to the matter of your use of tracking serum on a member of your squad."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Special Tribunal Officer",
+          "text": "First, please provide a factual account of the events."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Yermolai",
+          "text": "I'll be keeping tabs on her from now on, Marsha. Even got a tracking serum—Creius's order."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "\"Tracking serum\"?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "I-I won't run again. Trust me, I swear!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Mandrake extract taking effect. Subject calmed."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Don't sweat it. Her vitals are fine."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Give us the room, will you? We don't need any help with the injection."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The elevator's doors open, freeing Merel from its cold, silvery walls."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Is there something wrong, Merel?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "I ... I'm fine. Let's go, Ms. Timekeeper."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Please, call me Vertin."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "Yes, Ms. Vertin."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Just Vertin is fine."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "Oh, er, right. Vertin."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her voice drifts downward as she stows away her ID card and copy of Visitor Guidance—already on its umpteenth edition. When the elevator comes to a stop, she seems only too eager to hop forward and out."
+        },
+        {
+          "kind": "title_card",
+          "text": "Hallway, Rehab Center"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "Ward 1119. Ah, this way."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She leads them through the Rehabilitation Center's halls. Before long, they arrive outside Ward 1119's door."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "Marsha, are you in there? It's me, Merel, and M—Vertin's with me too."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "Merel? Please, come on in."
+        },
+        {
+          "kind": "title_card",
+          "text": "Ward, Rehab Center"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Striking scarlet hair stands out against the soft, white pillow beneath Marsha's head. She looks out from her sickbed through the nearby window."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "It's good to see you again, Marsha."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "Oh, you're looking much better!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "Hah. The doctor says I only look so rosy-cheeked because my hair is red."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "I'm not even allowed to stand up. And I was given strict instructions not to use my arcane skills."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "I wish I could at least get out of this bed, but I understand that would probably just make me a pain in the neck for the doctor."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "Uh, best just to stay where you are, then. How are you really feeling, though? Inside, I mean."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "I believe I've fully recovered. The last of the fear I accumulated during Charon's surgery was released three days ago."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "But Ms. Mesmer is afraid that it might have a long-term effect on my mental state, so she has asked me to stay awhile longer for observation."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The visitors approach their injured comrade."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "We brought you some snacks, but security seized them at the door. Apparently, visitors aren't allowed to bring food."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Merel's face turns from downcast to bright and sunny."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "But they did let me keep this."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A plump bird appears in Merel's palm."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "A bird? How cute. What species is it? I don't think I've seen such a bird before."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "I saw it in The Arcane Creature Keeper's Travelogue. It didn't mention the species, though."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "Actually, I think it said that even the author hadn't seen it. The picture was just a rough reconstruction. So I improvised a few bits."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "A reconstruction? Are they extinct?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "Apparently. No one's seen one for over 40 years, so it seems like they're gone for good."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "*sigh* What a shame! I hope there are some left out there. I bet the real version's even cuter."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "I made it from some old bits and bobs I left at headquarters. One of them was a \"blueprint\" I drew during a maths lesson."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "It was supposed to be a flying model powered by arcane skills, but, er, that was a bit beyond my ability at the time."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "But, since my arcane skills have improved, I decided to give it another shot. I retooled the design, added a few new ideas ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "And, ta-da! Go on. See what it can do!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "\"Bird\"",
+          "text": "*chirp*"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The handmade bird flaps its little wings and leaps from Merel's hand to the bed."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "It's amazingly lifelike. The arcane skill you cast on it must be sophisticated."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "Thank you, Merel. I'll treasure it as if it were a sacred relic."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She stretches an arm out from the blankets and places the bird beside her pillow."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "Somehow, the way it moves reminds me of you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "I gave it all the healing incantations I could think of. Not sure if any of them actually work, though. Anyway, I thought it might keep you company while we're away."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "Vertin and I have been assigned a mission at the SPDM. We'll need to go in a minute."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "Huh? They're sending both Team Timekeeper and the \"XII\" Squad to the SPDM?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A brief flash of surprise crosses her face. It's hard to imagine someone like Yermolai playing chaperone at the SPDM."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "Uh, no, heheh, not the \"XII\" Squad. I've been seconded to Team Timekeeper for the mission."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "The SPDM has taken in a large number of \"Storm\" orphans in the last few months, and they're preparing for next term's opening ceremony."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "With our shortages in manpower, they've been recalling any available alumni to assist, including Merel and me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "I see. I'm sure you'll do well this time."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "O-Of course! I'll try my best."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "How is Commander Creius? Paravyan mentioned that the Committee has brought him to court."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "I'm sure it isn't anything too serious. I believe the Committee only wants to collect as much intelligence as possible before the next \"Storm.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "Yeah. That's why the squad members have all been reassigned."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "I asked Paravyan and Yermolai to come visit you with us, but they were tied up. Looks like we'll have to wait till the \"Storm\" ends before we reunite."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "The \"Storm\" ... Then the end of this era is coming."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Yes, but don't worry. The Foundation has already begun recalling its staff, and you'll be safe here."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "The doctor said that as long as I stay in the rehab center, I won't feel a thing when it happens. But it's my first time braving the \"Storm.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "Commander Creius walked me through what to expect. He told me I would get \"used to it.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "You've each been through it many times now, right? Have you gotten used to it?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Only once she's outside the ward does Merel allow the worry on her face to show."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "No one ever really gets used to it, do they, Vertin?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "I still haven't."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "*sigh* It's almost time. Shall we set off early?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Sorry, I can't. I just received a message. There's something I need to handle back at headquarters before I go."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "Should I wait for you, then?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "No need. Just go and find Matilda at the ceremony hall. She'll tell you what to do before I arrive."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "Matilda? You mean Matilda Bouanich, our old monitor assistant?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Yes. She's an investigator now—a \"star\" investigator, she'll insist. She'll also be helping out."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "Got it. I hope the school shuttle's still running. I haven't been back since I graduated."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Take it as a good chance to revisit, then. Sonetto and I will join you soon."
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

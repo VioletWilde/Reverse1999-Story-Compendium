@@ -1,0 +1,550 @@
+{
+  "episode_id": 10913,
+  "chapter_id": 109,
+  "chapter_title": "Folie et Déraison",
+  "display_label": "",
+  "title": "Master of the Labyrinth",
+  "subtitle": "Within the corpse of the labyrinth's builder, he proclaims: it is and has always been perfect.",
+  "trails": [
+    {
+      "element_id": 1091301,
+      "owner_episode_id": 10913,
+      "trigger_episode_id": null,
+      "title": "Philosophy in Motion",
+      "description": "Does the Foundation ever actually require employees to clock in?",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=913",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "I have some news you'll be happy to hear."
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "I'll spare you one minute.",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Trust me, you'll wish you had more than a minute for this. It involves a mutual friend of ours—a long-lost acquaintance you've been searching for."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Doctor, writer ... she goes by many titles, just like you and I. Sadly, in her current state, her brain capacity is limited."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "It's just like after that fateful battle ended. Few survived to remember her awe-inspiring feats."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Now, this kind-hearted doctor has become a crucial part of another wicked scheme of which our dear admiral is well aware."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "What does he know?",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "An orchestra without a conductor can barely play a symphony. Recognizing that missing, vital piece, the admiral seized the opportunity without hesitation."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Experience gives a veteran his scars, yes, but also a scrap of wisdom. He knew he should gain the upper hand in this one-sided gamble."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "I don't know yet; there's no mention of it in the reports. I do have some speculations, however."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Those troublemakers have been focused on nothing but cultivating chaos and fanning the flames of conflict, paying little attention to the scale and extent of their intended retribution."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Now, it seems they've realized the uncertainty of this approach—drastic, volatile retribution won't get them anywhere. To reach their destination, they must forge a new path, even if it's more arduous and perilous than the last."
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "Go on.",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "Your minute's up. Time certainly does fly, doesn't it?"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "I'll be back when there's a new development. Stay alive if you can. I'd like to keep reading reports for you."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "What scheme?",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100918",
+      "internal_title": "第九章9-13.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "Master of the Labyrinth"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Only the steady beeping of a heart monitor keeps the eerie silence at bay."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "*deep breath*"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "Dr. Merlin, or should I say Aleph? I don't know why you're using my novel to manipulate the Panopticon."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "But you need to know that it won't serve your purpose, whether in fiction or reality."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "You claim that the inmates are \"both the observer and the observed\" and \"both wielders and subjects of power.\" How could you be so blind as to not see the true state of the Panopticon?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "The inmates haven't achieved any \"perfect order.\" No, they've devolved into pitiful caricatures of themselves—performers in some endless pantomime to be watched from the central tower."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "Even their medication has become a prop to demonstrate the so-called \"randomness of fate\" in the theater that is the Panopticon."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "This farce hasn't made the Panopticon a better place. No, it has warped it into a twisted theater of cruelty where the sick are denied treatment and left to quietly perish in the dark corners of its halls."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "And literature has died alongside them."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "This prison is a monster born under the gaze of this \"all-seeing power.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "Aleph, is this truly the ultimate answer you've been searching for?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The Physician suddenly seems startled, stepping back and accidentally knocking over his tools."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Physician",
+          "text": "What?!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Physician",
+          "text": "Are you suggesting that this is the answer I've reached?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Physician",
+          "text": "That my experiment has been a failure all along, and I've been too blind to see it?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Physician",
+          "text": "No, impossible. Foucault's theory is flawless!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Having his life's work denied is something he cannot tolerate. The man searches the tabletop with feigned composure, but in doing so, he unintentionally sweeps all the surgical tools onto the floor."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Physician",
+          "text": "I have removed every obstacle to the running of this prison. It is pure, sacrosanct."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Physician",
+          "text": "I have constantly re-evaluated the system, adjusting my instructions to my subordinates to ensure the most efficient maintenance of the established order."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Physician",
+          "text": "And now, you stand here and tell me that everything I've done has been meaningless from the very beginning?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Physician",
+          "text": "That the power model I have implemented has already been replaced by an alternative?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Physician",
+          "text": "No, outsiders. The perfect order of the Panopticon shall not be disrupted. I will not be swayed by your lies!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Physician",
+          "text": "This facility is superior to all others. Nothing here escapes my notice."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "At last, in a barely noticeable corner, he finds the twenty-sided die wreathed in black mist."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Physician",
+          "text": "That said, it isn't easy to work a miracle, as we all know."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Physician",
+          "text": "I shall personally verify it all myself."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "All of his emotions dissolve as he grips the die."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The narrow operating room shakes, as if responding to him, emitting a distorted screech."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "What's happening?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Physician",
+          "text": "Visitors from another era, you have come here with plagued ideologies in an attempt to break the subtle balance of the Panopticon."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Physician",
+          "text": "But did you not notice the tiles beneath your feet, the cracks, and water stains on the walls constantly changing right before your eyes?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Physician",
+          "text": "This room, the previous room, every room."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Physician",
+          "text": "You have blindly wandered through them, seeing them as nothing more than the building blocks of a monotonous labyrinth."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Physician",
+          "text": "But this place was not born from the chaotic imaginings of a madman. No, every inch has been crafted through the meticulous harnessing of order and power."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Physician",
+          "text": "Every wisp of spider silk drifting in the wind, every speck of rust on the gallery rail,"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Physician",
+          "text": "every detail of the Panopticon has been built by my own hands."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Physician",
+          "text": "With this ever-shifting die, concepts may be transformed into reality, and ideals into substance."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Physician",
+          "text": "I observe the movement of every entity—the passage of every second. The moment you entered this realm, you, too, became subjects of my experiment."
+        }
+      ]
+    },
+    {
+      "script_id": "100919",
+      "internal_title": "第九章9-13.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "This happened when the Idealist was attacked, too!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "To think we've been trapped in a prison fabricated by a die all this time ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Did the Physician really build all this with such a small, simple object?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "The distortion is getting worse. Prepare yourselves to fight or flee."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The situation begins to spiral out of control. Now everything in the room screeches and twists until they become a mess of meaningless black-and-white lines."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "Please, Dr. Merlin. Stop this!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Physician",
+          "text": "No. You're asking for the impossible."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Physician",
+          "text": "Power model of the Panopticon is destined to permeate all of society. Such insignificant interferences could never plunge it into chaos."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Physician",
+          "text": "But it already has, Merlin. You've failed."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Physician",
+          "text": "I have not failed! As long as I keep the prison running ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The Physician fiddles with the die, muttering baffling and incoherent words to himself."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Physician",
+          "text": "It isn't your power model running the prison. It's the die."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Physician",
+          "text": "It's simply a form of magic, unrelated to the microphysics of power you seek. It provides no aid in your experimentation with power."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Physician",
+          "text": "It's a false hope, a castle in the sky given to you by the military Junta and Manus Vindictae."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Manus Vindictae?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "So you really are working with them. What exactly do you intend to do?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Physician",
+          "text": "I ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Physician",
+          "text": "Then, I've also failed?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Physician",
+          "text": "I've ended up a pathetic fool, lost in the chaos of reality, just like the Idealist chasing visceral realism, Paracelsus seeking the Fountain of Youth, and Zahir obsessing over the one-sided coin."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Physician",
+          "text": "When did it all start falling apart, Aleph?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Physician",
+          "text": "When the doorknob loosened? When the prisoners' wounds started to fester? Or when the daily disinfectant concentration reached 28 mg, or the crack in the second gray brick on the wall expanded to 6 mm?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Physician",
+          "text": "Or was it when Warden Tartuffe left Ushuaia with news of the Foucault Association's dissolution?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Physician",
+          "text": "This place should've been the ideal ground for psychoanalytic practice. Why did they halt all research, all discussion?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Physician",
+          "text": "We've been abandoned, haven't we? By eras old and new."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Aleph",
+          "text": "You designed and have maintained everything in Comala, right down to the smallest detail."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Aleph",
+          "text": "But it is these details that trap you. And, as the bars close around you, you are losing your name, Merlin, and you are becoming the Physician, a man forever imprisoned within these walls."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Physician",
+          "text": "I don't understand."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Aleph",
+          "text": "All these false eras are like a dreadful novel with no conclusion. Trying to find answers within such things is, in itself, a mistake."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Aleph",
+          "text": "Much like them, you are destined never to attain transcendentality."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Physician",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Physician",
+          "text": "Tell me, Aleph. Does the ultimate answer even exist?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The die becomes too heavy for him to hold any longer. It drops to the floor."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The distortions and tremors of the prison finally subside, as if the pulse of a massive heart had stopped for an instant."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Amid the swirling dust, the girls help each other stand but fail to notice the truth revealing itself before them."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "*cough* Timekeeper, are you alright?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "*cough* Yes, and you? And Ms. Recoleta, are you okay?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Ms. Recoleta?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The smoke clears, but no one responds. The named girl simply stares in shock at the figure before her."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "Y-You're ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "The word \"utopia\" derives from Greek. It means \"no place.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "People cannot understand the structure of the labyrinth, yet they continue to follow its paths."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "They cannot comprehend the mechanics of fate, yet they believe in its jurisdiction."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "As if, by doing so, everything will naturally fall into place."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Aleph",
+          "text": "And now, the polar night approaches."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Aleph",
+          "text": "How good it is to see you, pen pal."
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

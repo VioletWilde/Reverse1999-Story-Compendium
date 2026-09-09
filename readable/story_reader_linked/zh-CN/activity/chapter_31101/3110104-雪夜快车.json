@@ -1,0 +1,713 @@
+{
+  "episode_id": 3110104,
+  "chapter_id": 31101,
+  "chapter_title": "长夜鸣笛",
+  "display_label": "",
+  "title": "雪夜快车",
+  "subtitle": "嘟——嘟——！循着多瑙河的蓝色旋律，前进！",
+  "trails": [
+    {
+      "element_id": 3110104,
+      "owner_episode_id": 3110104,
+      "trigger_episode_id": null,
+      "title": "被封存的童真",
+      "description": "甜蜜的、温暖的、无法再寻回的昨日美梦。",
+      "action": "交互",
+      "unlock_condition": "EpisodeFinish=3110104",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "安娜贝尔的日记"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "外面黑得像是打翻了一大瓶墨汁，玻璃窗上映出了我和小威廉靠在对面座位上的模样，我猜他根本没睡着！桌子上的煤油灯把我们的影子投在墙壁上，我盯着那些影子，屏住呼吸，紧紧抱住我的小熊。\n\n火车在轨道上哐当哐当晃个不停，活像有人在后面追着我们跑——追着我们离开伊斯坦布尔，离开叔父家。在收拾我们的衣服时，多萝西女士的手抖得太厉害，甚至扣不住衬衫上的纽扣。她的脸色惨白得吓人，嘴唇抿成一条线，仿佛只要一张开，那些被她关在喉咙里的可怕字眼就会像乌鸦一样飞出来。她对我们说“孩子们，快！跟我走”，一切发生得实在太快了，我还来不及把所有娃娃都装进行李箱——小珍妮、杰克、妮娜……对不起，我没法儿把你们带走啦！\n\n这趟车要把我们带去哪儿？布达佩斯……爸爸的家，那儿会有暖乎乎的壁炉吗？会有甜甜的多巴什蛋糕吗？会有好闻的玫瑰香味儿吗？我已经忘记了爸爸的模样……不过，他应该很高大吧，高大到足以保护我们！就像是故事书里，那些只出现在夜晚，强大的、勇敢的、了不起的，能够战胜一切的……血食怪一样！\n\n要是……要是血食怪真能来就好了！他们会吸干坏家伙的血，保护听话的好孩子。所以，他们一定能吓退躲在黑暗里、让多萝西女士脸色发白的东西！\n\n我在心里默默地祈祷着，一遍又一遍，我相信伟大的血食怪一定会来拯救我们的！"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "203105",
+      "internal_title": "【3.1】长夜鸣笛04",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "伴随一声急促的鸣笛，列车终于启动，开足马力行驶在一望无际的漆黑原野上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "呼……终于发车了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一路悬着的心终于轻轻落下。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "等到了布达佩斯，我得想想该做些什么……先吃一大份卡帕玛！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "不，不对。还是得先找份工作……然后再吃卡帕玛！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "找工作是为了卡帕玛，吃卡帕玛是为了找工作。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "女孩拿出挂在身侧的卡瓦尔长笛，手指在细小的裂纹上轻轻摩挲着。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "妈妈……布达佩斯的卡帕玛，会和你做的味道一样好吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她望着窗外连绵起伏的群山，好像见到了那个在山中独自奔跑的身影。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "身影穿过墓园，踩过腐烂的橙子，天空低垂得像要塌下来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "哦，还有声音。发疯一般的、女人的呐喊声。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "不管怎么说，妈妈，我会先填饱肚子，活下去再说。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "女孩吸了吸鼻子，小心翼翼地收起木笛，环顾车厢四周。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "塞梅尔维斯她，应该短时间内不会回来了吧……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅尔维斯",
+          "text": "调查那些会造成影响的“表里不一”，就是我的工作。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅尔维斯",
+          "text": "你知道血食怪的传说吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅尔维斯",
+          "text": "要知道，血食怪可不是这列车上唯一危险的东西。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "虽然她请我吃了美味的牛肉炖菜和云雀蛋糕，但她似乎对血食怪很感兴趣……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "……不行，还是早点离开为妙。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "女孩跳下座位准备离开，犹豫了一会儿，又从口袋里数出两枚硬币放在桌子上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "原谅我吧，好心的塞梅尔维斯小姐。有机会我一定会报答您的！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "下定决心，女孩回过头去，准备寻找下一个栖身之地。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "……哎呀！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "安娜贝尔",
+          "text": "呜呜呜……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "安娜贝尔",
+          "text": "安娜贝尔和她的，嗝，朋友走丢了……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "呃……你的朋友总不至于被人打开车窗丢出去了吧，只要把列车从里到外都翻上一遍，总会找到的！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "别着急哦，耐心是一种美德……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "女孩匆忙地准备离开，衣摆却被紧紧攥住。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "安娜贝尔",
+          "text": "姐姐，帮帮安娜贝尔……安娜贝尔现在不知道自己在哪个车厢……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "可怜的哭声不绝于耳，足以飘至三个车厢外。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一番纠缠后，野树莓不得不使出最后的“杀手锏”——她摘下帽子，露出一截小小的尖牙与暗红色瞳仁。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "不、不许哭！我可是血食怪喔，再哭我就咬断你的脖子！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "安娜贝尔",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "安娜贝尔",
+          "text": "真的吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "没有恐惧，也没有厌恶。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她得到的是听众越发好奇的、天真的疑问。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "呃，你不怕血食怪吗？红眼睛的血食怪——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "野树莓又凑近了些，拉下眼睑。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "安娜贝尔",
+          "text": "哇……好漂亮的眼睛！像红红的宝石！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "宝石？我还是第一次听人这么形容……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "向来独行的血食怪不知所措地红了脸。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "安娜贝尔",
+          "text": "像宝石，也像大马士革的红玫瑰！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "玫瑰？这……当然，还是永远不会凋谢的那一种！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "你还有什么好听的、夸血食怪的话，都说给我听听！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "女孩兴奋地围着野树莓转悠，像小狗一样在她身上轻轻蹭着。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "安娜贝尔",
+          "text": "多萝西老师不让我们读血食怪的故事，说那样学不到知识，也缺乏教养，可、可是，血食怪多厉害呀……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "安娜贝尔",
+          "text": "我有偷偷看那些书，我知道纯种的血食怪是最厉害的，他们都住在大大的城堡里！姐姐肯定也一样吧！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "当、当然！既然你都这么问了……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "那我可就要跟你讲讲我荣耀的祖先们了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她假意轻咳，双手一拍，随即将自己的荣耀历史一一道来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "在很早很早以前的……总之是很早之前的哪一年，特别特别早的一个时候吧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "我最最了不起的祖先，把那些从东边来的人狠狠地揍了一顿。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "对，没错，他就是大名鼎鼎的穿刺公！人称“德古拉”的阿诺德——阿诺德五世！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "安娜贝尔",
+          "text": "德古拉！德古拉！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "太爷爷阿诺德活了一百五十五岁，最后心脏被木桩狠狠刺中，鲜血流尽而死！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "安娜贝尔",
+          "text": "咦，那你今年多少大了呀，姐姐？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "叫我野树莓就好！我今年十四岁！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "噢不，是二百一十四岁。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她急忙纠正自己。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "两个一百岁，再加上两个七岁，就是我的年纪。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "当然，这在我们血食怪种族里，还是非常年轻的……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "少女热烈地诉说自己记忆里的故事。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "它们从无数个下着雪的冬季中走来。万籁寂静，炉火烧得正旺，女孩趴在母亲的膝盖上，双眼微合，几乎就要睡着了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "鲜血、夜、墓碑……她缠着母亲一遍又一遍地讲述着独属于她的瑰丽传说。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "母亲的声音越来越轻，越来越沉……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "女孩于是又睡上了一个甜甜的觉，一夜好梦。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "血食怪……？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "仿佛被无形的魔法牵引着，孩子们一个接一个地围拢过来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "安娜贝尔",
+          "text": "威廉！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一只落单的小鸟终于找到伙伴。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "安娜贝尔",
+          "text": "终于找到你们了！我来介绍一下，她叫野树莓——一位真正的血食怪！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "孩童Ⅰ",
+          "text": "哇，是活着的血食怪……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "孩子们激动不已。然而一个男孩却应声从阴影中走了出来，表情不屑一顾。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小威廉",
+          "text": "哼……你说你是血食怪，可你只会讲故事，什么证据都没有。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "孩童Ⅱ",
+          "text": "对、对哦，这些故事我们也听过呢……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "安娜贝尔",
+          "text": "她……她不一样！她有一双红色的眼睛哦，像红宝石一样的红色！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小威廉",
+          "text": "可是，亨利叔叔生病的时候，眼睛也是红的呀。你还记得吗？当时你还悄悄和我说，亨利叔叔也是血食怪。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小威廉",
+          "text": "多萝西老师还训了我们一顿，说我们对亨利叔叔太没礼貌……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "安娜贝尔",
+          "text": "别、别听他的，姐姐！我知道你就是真的血食怪，我说得对吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "当……当然是真的！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "女孩涨红了脸，决心捍卫血食怪一族的荣耀。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "想要证据是吧……那就给你们展示一下，真正的血食怪是什么样的！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "灯光之下，她随意左右走动了几步。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "喏，你们能找见我的影子吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "安娜贝尔",
+          "text": "影子……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "孩童Ⅱ",
+          "text": "哇……真的没有影子……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "灯光照亮了每一个孩子，每一张脸，每一双手，每一道影子——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "唯独她站在光中，却又像是被光绕开了似的，仿佛她本就无需遵从影子的律法，也不属于这个被光照亮的世界。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "我们血食怪，是不会被照出影子的喔！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "孩子们",
+          "text": "血食怪！血食怪！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "孩童们兴奋地鼓起掌来，欢呼一声高过一声。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小威廉",
+          "text": "这……现在我宣布，这是确凿的、无疑的血食怪！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "哼哼。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "得意还没持续一会儿，下一个难题就接踵而至。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "孩童Ⅰ",
+          "text": "既然你是血食怪，那一定什么都不怕了！你敢和那个很吓人的列车长说话吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "列、列车长？咳……说话算什么，我和她可是顶要好的朋友！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "别看她块头那么大，其实反应很迟钝，这一路少不了我的帮忙……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "孩子们歆羡不已地望着女孩，眼里的崇拜几乎溢满了整个车厢。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小威廉",
+          "text": "哇……以后你就是我们的老大！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "孩子们",
+          "text": "老大！老大！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "女孩在一阵恭维声中晕眩不已，逐渐迷失自我。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "嗯哼，既然你们强烈要求，那我只能勉为其难收了你们……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "看来你玩得很开心啊，朋友。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一个阴沉的声音从背后响起。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "你、你都听见了？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾玛",
+          "text": "我们刚进车厢，就听见你聊起列车长。真高兴你们相处得这么好呀！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "块头大，反应迟钝？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "我们在玩游戏呢，哈哈，哈哈哈。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "玩游戏可以，但不能阻碍车厢的过道。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "放心，咱们可是好……好朋友，这点请求不算什么。我们会注意的！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾玛",
+          "text": "这些是你的新朋友们吗，野树莓小姐？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "乘务员的眼神在女孩与孩童们中间不住地逡巡着。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "准确来说，他们是我的……嗯……应该是“跟班”！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "对吧，伙计们？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她努努鼻子，为自己新“收服”了“随从”而骄傲。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "安娜贝尔",
+          "text": "没错！我们是尊贵的血食……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "咳咳咳！这里太挤了，身为老大，我需要一个更加宽敞的“城堡”！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "女孩火速打断了这个危险的话题。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "等到了新城堡，我还可以给大伙儿讲一些新的、关于“那个”的故事……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "安娜贝尔",
+          "text": "那个？噢……那个！那个！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "孩子们",
+          "text": "新故事！新故事！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "喧闹声远去，车厢再度回归往日的宁静。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾玛",
+          "text": "真叫人羡慕呀，野树莓小姐能交到这么多朋友。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "为什么，你没有朋友吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾玛",
+          "text": "我……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "乘务员偷偷看了一眼列车长，欲言又止。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾玛",
+          "text": "哎呀，我想我们还是先回去吧……!塞梅尔维斯小姐还在等着呢!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "嗯，走吧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "离开前，乘务员担忧地回望向那位调皮的乘客，想起她帽檐阴影下的笑容。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "以及那双漂亮得不似真实的血色双瞳。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾玛",
+          "text": "野树莓……"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

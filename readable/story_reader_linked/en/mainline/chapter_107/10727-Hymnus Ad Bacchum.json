@@ -1,0 +1,985 @@
+{
+  "episode_id": 10727,
+  "chapter_id": 107,
+  "chapter_title": "Vereinsamt",
+  "display_label": "",
+  "title": "Hymnus Ad Bacchum",
+  "subtitle": "So I will rejoice, dance freely, and savor my wine.",
+  "trails": [
+    {
+      "element_id": 1072701,
+      "owner_episode_id": 10727,
+      "trigger_episode_id": null,
+      "title": "The Art of Knots",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=10727",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "My dear child, look at you, you're exhausted. I couldn't be of help then, but it's ok, the \"party\" is over now. At least let me brush your hair, darling."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Or your hair will get all knotted, and it will hurt you when you try to untangle them."
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "Indeed. It happened more than once.",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "I'm not surprised. An old friend of ours, \"knot.\" Often we learn our knots before we even know how to read and write."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "A knot could be an obstacle that breaks the consistency of a flow, and also a reminder of forgotten things."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "You can use just about anything on hand to make a knot: leaves of grass, the fur of an animal, even fallen hair ... But the sturdiest knots are tied with rope."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Knots are to be found in many stories. Signify promises, counting and measuring, an instrument of salvation and one of execution."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "What else can these knots really do?",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Oh, I could go on all day! The influence and power of knots can't be overstated..."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "It is said that it was in the cutting of the Gordian Knot that Alexander became \"the Great\"; just touching the meters-long rope provides blessings to the faithful in Belem; and tiny knots on strings can carry the history of an entire people."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "The ancient Inca called it \"Quipu.\" The intricate variations of hundreds of fabrics, colors, and lengths of strings were used to record their stories through the ages. And to think, Shakespeare only had 26 letters to create his masterpieces."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "Isn't there something a bit more practical?",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Just look around you: don't sailors use knots to mark depths and mend sails; or coachmen tying knots to rein their horses; and any respectable lady or gentleman knows the knots they must tie about their necks to stay in fashion."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Or consider the knot-like helix structure of DNA, and the changes in states of matter ... Invisible to the naked eye, these knots carry some hint at a universal law."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "That there might be a string, like the Quipu, an endless rope that records in its knots everything in the world. One that can't be seen, yet there it is, everywhere, all at once."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Maybe you can tie this knot yourself. Use your hair, then form a loop, pass the end through it, and tighten it up. There you go."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "I hope you keep this knot as a record of the words we shared here."
+            }
+          ]
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100740",
+      "internal_title": "第七章7-27",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "Hymnus Ad Bacchum"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Thirty-seven",
+          "text": "6 is awake?"
+        },
+        {
+          "kind": "title_card",
+          "text": "Laboratory, Island"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The blind woman nods, smiling."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "37 scrambles up from the floor, her eyes sparkling with joy."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Thirty-seven",
+          "text": "Fabulous! Now everything is perfect, like the number 10!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Thirty-seven",
+          "text": "He will be happy to hear that I've cracked the code!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She skips across the room, the paper with the knot on it still in her hand."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Thirty-seven",
+          "text": "I did it, Vertin!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Thirty-seven",
+          "text": "I have proven the light of Truth still shines. With some time, communication, and a flash of inspiration, we can bring it down from the unattainable skies and let its radiance illuminate all."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Thirty-seven",
+          "text": "And I've also proven that the Truth is not out of reach or too distant to grasp."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Thirty-seven",
+          "text": "So, once Sophia knows about this, she'll come back to us, right?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She opens her eyes wide, eager for the affirmation she yearns to hear."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "I'm sure she will be happy with what you've accomplished, 37."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "37 nods with satisfaction and quickly dives back into her work, further perfecting the solution."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The leaps in progress and the news of 6's return have filled the lab with smiles and lively conversations."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Yet the most active members of the past are not here for the celebration."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Thirty-seven",
+          "text": "Hmm?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Thirty-seven",
+          "text": "Did 210 and 888 go to get 6?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Six",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "210",
+          "text": "You don't seem that happy."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The leader stops, looking at the speaker coming down the steps."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "210",
+          "text": "The Star of Hermes deciphered the code of Apeiron. She found a way to cross the \"Emanation.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "210",
+          "text": "We should all feel happy for her."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The leader does not answer, having mastered the art of silence over the years."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The rhetorician doesn't care. He can effortlessly engage in dialogue and is at ease in any conversation, even with a rock."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "210",
+          "text": "Yet here you are, so indifferent."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "210",
+          "text": "It is because you, too, know that what has happened will not change, regardless of whether she figures it out or not?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "210",
+          "text": "A meager ritual to save people from the \"Emanation\" is nothing compared to the disruption of the Law above. It also cannot change the fact that our faith is dead."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "210",
+          "text": "We're talking about how the island has sunk, and we're now sailing in a tsunami. A tiny miracle, a spark of inspiration won't save the ship from the wrath of the tides."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "His tone is sarcastic, but the mockery is missing in his eyes."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "210",
+          "text": "To be honest, I was surprised that she asked such a practical question. I guess the trivialities of the phenomenal world did eventually affect her."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "210",
+          "text": "It's a shame that many others lack her determined will to see beyond the void of our broken reality."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Six",
+          "text": "What's your point?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "210",
+          "text": "Can't you see? I'm getting a rise out of you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He beams a huge grin."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "210",
+          "text": "Who would've thought that our great, perfect, honorable leader of the School of Apeiron has been a nihilist all along!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "210",
+          "text": "You never revered the Truth, did you? That's why you kept us in the dark for four years. You never respected our beliefs for a second in your life!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The man down the steps shakes his head."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Six",
+          "text": "The people who seek the Truth are more important than the Truth itself."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Six",
+          "text": "I may not understand that ever-shifting number, but I do understand and respect the people here."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He's continuing the conversation, a rarity to behold."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Ever since becoming 6, he's rarely had a chance to unleash his sarcastic wit."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Six",
+          "text": "So you know the secret, what now?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Six",
+          "text": "Now that you know the Truth could lead to a nihilistic void, I wonder if you would abandon our doctrines, our wisdom, and our inheritance, and step into the darkness in a fit of rage?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Six",
+          "text": "When Truth fails, sophistry prevails. Correct?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "210",
+          "text": "Ha."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "210",
+          "text": "We cannot deny that fate, the unspeakable, holds wisdom beyond our understanding."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "210",
+          "text": "Perhaps it does take a resolute skeptic, an impartial nihilist, to steady this ship and remain detached enough to look on from the sidelines."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "210 looks up at the distant grape-colored sky."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "210",
+          "text": "It's a pity. This was supposed to be the best time of year to make wine."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He leaves without looking back."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The silent leader continues on the familiar path."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A short distance away, 37 slides gracefully down the sand and runs toward him."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Thirty-seven",
+          "text": "6! You're here!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Thirty-seven",
+          "text": "888 said they're holding a celebration before the arrival of the \"Emanation,\" in honor of the living and the dead. Will you join us, 6?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Six",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Six",
+          "text": "37, do you remember the story of Socrates?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Thirty-seven",
+          "text": "Hmm? The one you told me in the cave?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Thirty-seven",
+          "text": "The trial is over. Why mention it? You should answer my question first."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her words trail off as her eyes suddenly widen in fear."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She's completely fixated on what's in the distance."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She knows the feast is underway, and she's recalculated the safe zone for them to hold it in."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "But now, people are laying out food and wine on the ruined beach, among the rubble and wreckage, right next to the remains of the battlefield."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Thirty-seven",
+          "text": "Wait, are they holding the ceremony outside the immunity zone!?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Thirty-seven",
+          "text": "I told them to go to the meadow near the top of the mountain, where they will be completely safe! I've checked my calculations over and over, leaving no room for error!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Thirty-seven",
+          "text": "888 must've made a mistake. I need to warn them!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her tiny arms are held back."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Blonde hair droops over 6's eyes. 37 looks back in confusion at the leader's unusual behavior."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Six",
+          "text": "37 ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Six",
+          "text": "Either be wise, uninvolved, and look on; or be practical, involved, and suffer."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Six",
+          "text": "Which one will you end up choosing?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Kakania",
+          "text": "You mean, all we need is a piece of rope?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The voice on the phone sounds unsure."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lucy",
+          "text": "Yes. In recognition of your extraordinary contributions, Laplace is honored to present you with the fruits of our labor. This knot is the result of our research."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lucy",
+          "text": "The knot has been validated as a working ritual on both humans and arcanists. With the help of other arcanists, we found methods to avoid side effects, and conducted small-scale experiments with success."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Kakania",
+          "text": "So are you saying we can—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lucy",
+          "text": "However, since the experiment is still in its early stages, it involves a variety of materials and complicated rituals that are not yet possible for transmission."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lucy",
+          "text": "Nor can we deliver you any experimental equipment, as the \"Storm\" is about to make landfall."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lucy",
+          "text": "The knot acts as an equivalent to the incantation, but it does not guarantee that we will meet the casting requirements or avoid the likely side effects."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "This is devastating news for anyone in need of rescue in the midst of a disaster."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The robot pauses briefly, searching its database for kinder phrasings."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lucy",
+          "text": "I apologize, Ms. Kakania. Perhaps the result of our work will not really help your situation."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Kakania",
+          "text": "You said the knot works on both humans and arcanists, right?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Surprisingly, there's no despair in her voice."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lucy",
+          "text": "Yes."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Kakania",
+          "text": "That is more than enough. This is the best news I've heard so far."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Kakania",
+          "text": "There's a chance for everyone."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The robot did not understand her mumbling, but she found something in her database that might help."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lucy",
+          "text": "I have two more pieces of good news."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lucy",
+          "text": "First, the curse is not inevitable. Our experiments showed a 0.49% likelihood of no side effects occurring at all."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lucy",
+          "text": "Second, the closer the \"Storm\" gets, the more pneuma fills the air, leading to a greater success rate of the ritual."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lucy",
+          "text": "Yet, even with these factors combined, the rate of success is still extremely low."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Kakania",
+          "text": "It's alright. With millions of people trying, there's hope that at least one person will succeed against the odds."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Kakania",
+          "text": "Thank you for sharing this with me, madam. I will do everything I can to spread this knot in Vienna,"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Kakania",
+          "text": "to the arcanists, humans, Magyars, and Germans. They are all my people, regardless of their social status, profession, or race."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Kakania",
+          "text": "They all deserve the right to survive."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Lucy ends the call and turns around."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "There stands a Foundation employee, sent here to inquire about the experiment, with a stern expression after overhearing the conversation."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Foundation Staff I",
+          "text": "Madam Lucy, I can only assume you acted impulsively and overlooked the proper application process."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Foundation Staff I",
+          "text": "The knot is new and not ready for widespread testing. Distributing it in Vienna could lead to more casualties or even fall into the hands of our enemies."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Foundation Staff I",
+          "text": "I must remind you that this is a clear violation of the regulations set by Pax Security Council, the St. Pavlov Foundation, and Laplace."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lucy",
+          "text": "Ah, yes. How careless of me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The robot nods."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lucy",
+          "text": "But I did tell her I would share the results of the research."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lucy",
+          "text": "And this is what you call a \"promise.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lucy",
+          "text": "And the database says, a promise made is a promise kept."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The \"Storm\" is imminent. The final moment has arrived."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "888",
+          "text": "My brothers and sisters, put down your cups for a moment and lend ear to me!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "888",
+          "text": "We were born extraordinary, yet estranged from the world around us. Throughout the ages, we wandered the world like a ship lost at sea."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "888",
+          "text": "Despite the instability and chaos, we persevered, and together, we sought after the Truth that would illuminate us all."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "888",
+          "text": "Through introspection and contemplation, we cleansed ourselves of hatred, madness, and delusion, and embraced the value of beauty and harmony."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "210",
+          "text": "Yet now, our shattered faith mingles with the rubble of this phenomenal world, as specks in an unjust timeline, as remnants of a tide long receded."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "210",
+          "text": "The dream of the transcendental world is broken, and the order of the transcendental Law is no more."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "888",
+          "text": "Our sanctuary has crumbled, exposing us to live in a world filled with conflict and turmoil,"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "888",
+          "text": "where we will be trapped in the wheel of birth, doomed to repeat the mistakes of history for eternity."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "210",
+          "text": "But do not despair, for there is another way to the Truth!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "210",
+          "text": "It is a path fueled by unbridled passion, one that was stifled by moderation and restraint. A path that transcends the individual, breaks all boundaries and limitations, and leads us back to the essence in a fiery blaze of glory."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "888",
+          "text": "This path is the \"Emanation,\" which we stride into for the ultimate Truth of our journey."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vendor I",
+          "text": "Doctor?!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The boy eases his pace as he sees Kakania rushing his way."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Kakania",
+          "text": "Finally, someone I know."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She cradles a thick stack of pamphlets in her arms, a little out of breath."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Kakania",
+          "text": "Illich, gather everyone you can, and have them read out these steps in the plaza for all to hear!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Kakania",
+          "text": "If possible, go to the telegraph office or use a printing machine to copy flyers. Distribute as many copies as you can!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Kakania",
+          "text": "I'll go to Leopoldstadt and find the Gracchus brothers. They know where to find abandoned military hot-air balloons."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vendor I",
+          "text": "What are you talking about, doctor? People are too busy trying to escape. I want nothing to do with those crazies."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vendor I",
+          "text": "This? A guide for tying knots? Don't you know the world is about to end? So many warnings. Who'd want to read this?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Kakania",
+          "text": "The people who want to survive will read it!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Kakania",
+          "text": "I can't guarantee anything. It's a gamble for our lives, but people have a right to try before doomsday arrives."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Kakania",
+          "text": "Illich, please trust me one more time! PLEASE!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The boy recognizes the plea in her voice."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vendor I",
+          "text": "Fine, Dr. Klara. If this works, your coffee for the rest of your life is on me!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Thirty-seven",
+          "text": "Why?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Clutching at her own hair, she lets out a heart-wrenching wail."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Thirty-seven",
+          "text": "Why?! Why are you still leaving?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Thirty-seven",
+          "text": "I found the Truth, I completed the test, I deciphered the code of Apeiron."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She struggles, trying to break free from the arm holding her back, her eyes fixed on the beach before her."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Thirty-seven",
+          "text": "Why aren't you stopping them, 6?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Six",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A friendly figure comes up to them."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marta",
+          "text": "Hello."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Are you joining them, Ms. Marta?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She smiles and shakes her head, turning her face toward the leader."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marta",
+          "text": "I find myself uncertain of which way to go. Would you kindly give me some guidance?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Six",
+          "text": "The guidance I can offer you is limited, Ms. Marta."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Six",
+          "text": "I think fate knows its own fate better than anyone."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marta",
+          "text": "Thank you for your advice."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marta",
+          "text": "I think I understand."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She steps into the path of no return."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Thirty-seven",
+          "text": "NO!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "When I saw Bacchus on the distant hilltop"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Teaching his songs, and believe me, for posterity,"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Nymphs and goat-legged satyrs surround him, listening intently with their ears pointing."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Euhoe! How this sight fills me with trembling awe,"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "And the influence of Bacchus intoxicates me with delight."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Oh, Euhoe! Spare me, Liber,"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Spare me from the power of your mighty thyrsus,"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "So that I may sing of your endlessly revelrous followers"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Of your fountains of wine and rivers of milk,"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "And tell again of your streams"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Of ever flowing honey;"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "And so that I may praise of your beloved, who is added"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "And honored among the constellations,"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "And sing of how the house of Pentheus came to ruins,"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Along with the fall of the Thracian Lycurgus."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "You, the bender of rivers and barbaric seas,"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "You, so flushed with wine on your distant hilltop"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Tie the hair of Bistonian women"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "With harmless knots made of serpents."
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

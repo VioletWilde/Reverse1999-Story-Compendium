@@ -1,0 +1,873 @@
+{
+  "episode_id": 3210117,
+  "chapter_id": 32101,
+  "chapter_title": "A Flowing Feast",
+  "display_label": "",
+  "title": "No Need for Promises",
+  "subtitle": "You will always have a place in my heart, ma chère amie.",
+  "trails": [
+    {
+      "element_id": 3210406,
+      "owner_episode_id": 3210117,
+      "trigger_episode_id": null,
+      "title": "What a Cruel Fate",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=3210117",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "What a cruel \"Storm.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "So far, the story has followed along a classic direction—Brume walked \"the Hero's Journey.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "But just as it seemed that it might end with triumph, down came the \"Storm.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "This is the fifth joke fate has played on me."
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "I have no love for the \"Storm\" either.",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "I must be honest with you. There is something in it that I like."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "As dreadful as it may be to stand before a future I cannot foresee, I feel something else. Perhaps you might call it hope."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "For someone born with my abilities, there is a strange beauty in moments like these, to know how it feels to know nothing."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Of course you did. You know the \"Storm\" better than most anyone."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "I suspect you knew how it would end the moment I told you how it began."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Yet I cannot see beyond the \"Storm,\" so it always takes me by surprise."
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "Are you hoping that the \"Storm\" will break fate's course?",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "Yes, though I understand it may come at a great price."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "Ah! Perhaps that is why the Vigiles Bureau and the Foundation have kept such a keen eye on me."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "Perhaps they think me one of those \"Storm\" advocates."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "But why would I advocate for it? I have never asked for it. All I have done is try to understand it."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "Well. I admit I saw it coming.",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "203225",
+      "internal_title": "【3.2】迁流的盛宴17.1",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The professor writes one last line, snaps his notebook shut, and reaches under his coat."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "His fingers grip his oldest friend—a \"Le Protector\" revolver."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Professor Roseau",
+          "text": "Then Adèle's personality wasn't entirely consumed. She's managed to regain control of her body."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Professor Roseau",
+          "text": "Even a spirit as strong-willed as Félicienne lacks the ability to completely dominate another. Hmm, perhaps I was wrong to shift focus from the power of the collective unconscious."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "There is no need for that, Professor."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her spirit returns."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She raises her hand and nudges the barrel away from Adèle."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "Even were you to interfere, the outcome would remain unchanged. You are but a pebble in the course of the stream of fate."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "Wait with me a little longer. Things may just take an unexpected turn."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Professor Roseau",
+          "text": "You saw something, didn't you?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "Quite the contrary, I see nothing, and that is what fascinates me most of all."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Félicienne",
+          "text": "You're fired, Adèle!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Félicienne",
+          "text": "You reckless, foolish would-be Joan of Arc!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Félicienne's form convulses violently. Without a vessel to cling to, she's nothing but a drifting soul—a shadow."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A failed actress, dragged offstage."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "That's almost flattering."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "But this is nothing compared to what you did to Célia."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She picks up the diamond that rolled away during the struggle."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "Adèle, hurry! Turn your fire on the diamond."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Félicienne",
+          "text": "Silence!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "Ugh ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her figure flickers as Félicienne lifts her hand. Then, with only a twist of her wrist, Célia's outline melts away."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Stop this, Félicienne!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "There's no time to check on her friend. Instead, she grips the blue diamond so hard she imagines it could break."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Only the real remains. All falsehood will burn away to ash."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "This charade must finally be put to rest."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "By   fire,   what   is   false—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Félicienne",
+          "text": "Heh."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Félicienne",
+          "text": "You disgusting hypocrite! Don't you dare wag that finger at me!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Félicienne",
+          "text": "You may fool everyone else, but not me. I know you better than anyone. I know your true colors!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Félicienne",
+          "text": "Deny it all you want, but our souls are entwined, because deep down, you and I are just alike! Take pride in it, girl! Hosting me will be your greatest achievement!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Félicienne",
+          "text": "Be honest, now! No need to play pretend as you did with Célia. All that time, you let her keep writing those letters, knowing full well that your parents were long dead. How wickedly false indeed!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "N-No ... I just ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Cold fingers tighten, blurring the line between the living and the dead."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Félicienne",
+          "text": "She shared her deepest hopes and dreams with you through those make-believe adventures. But you ignored them. What's there to envy about a cursed bloodline?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Félicienne",
+          "text": "Hmph. I suppose you kept her as a salve to your dreary, miserable life. You really thought you could fool the world into thinking taxi driving was your highest ambition? Deep down you've always craved more."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "*cough* Don't act like ... you know me ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She gasps for breath, forcing out a strained protest."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Félicienne",
+          "text": "But I do know you! I know each and every one of your wicked thoughts better than you do!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Félicienne",
+          "text": "She told you to burn the diamond, but you ... you secretly desired it! You craved your place in this adventure—your death!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Félicienne",
+          "text": "Who could blame you for \"triggering the curse\"? You weren't chasing treasure—not by choice. Not like your parents."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Félicienne",
+          "text": "All of this to pretend you were \"unwillingly\" caught up in this adventure. You even get to play the savior, haha!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Félicienne",
+          "text": "And, oh, how your dear little friend fits the role of a damsel in distress. All you need is a villain."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Félicienne",
+          "text": "And that's where I came in, just as you wished."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Félicienne",
+          "text": "Of all people in Paris, why did I come to you? Have you given it even the slightest thought?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Muscle and bone grind and twist beneath her crushing grip."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Félicienne",
+          "text": "Admit it, Adèle! You wanted me to hurt Célia! You wanted to kill her!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Adèle uses all her strength to turn toward Célia's face, finding it frozen in shock."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "*cough* You're ... lying ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Félicienne",
+          "text": "Ah, yes, lies. She lied to you too, Adèle."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Félicienne",
+          "text": "You really are a perfect duo—two little liars keeping secrets from one another."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Félicienne",
+          "text": "Allow me to reveal another secret. Destroying this diamond will bring an end to more than just me. It will end her as well."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Félicienne",
+          "text": "Though perhaps, without her, you might at last be free."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "That's not ... true ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She looks at Célia again and hears the same plea she's heard a hundred times before."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "Don't listen to her, Adèle! You must destroy the diamond! The Depths of Myth must not be unleashed!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Félicienne",
+          "text": "Lose your friend or lose the city—what will it be, Ms. Tavernier?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Félicienne",
+          "text": "What am I saying? I have no intention of giving you the chance to decide. I'm not about to die again."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She lowers her head for no other reason than to indulge in her suffering."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "But what she sees instead is a crooked smile with teeth clenched in defiance."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Félicienne",
+          "text": "Argh! Damn it!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Félicienne recoils, shoving Adèle away."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Adèle, anticipating the next play perfectly, rolls twice and lands on her feet."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Funny that. I'm not ready to die either."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She doesn't look back at Célia. Those anxious eyes burn hotter than any flame of truth."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The shell of \"Félicienne\" peels away completely, and without warning, a massive shadow takes form at the tip of the Eiffel Tower."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "\"Félicienne\"",
+          "text": "I won't let you get away!"
+        }
+      ]
+    },
+    {
+      "script_id": "203226",
+      "internal_title": "【3.2】迁流的盛宴17.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "Professor Roseau",
+          "text": "She's going to destroy the key, Beryl."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Professor Roseau",
+          "text": "If I don't intervene, all I've worked for will come to nothing. Give me one good reason I shouldn't shoot."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "The rift of the Archive of Imagery has shown no signs of closing, Professor."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "Look up again. Watch closely."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Laurent Roseau lifts his head. The city in the sky drifts closer, its edge scraping the horizon."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "The diamond has already served its purpose. It has torn the rift open; the Depths of Myth is trickling down over us as we speak."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "Let's see what more the little gemstone can do in her hands."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Adèle wipes the blood from the blue diamond with her thumb."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Before she decides, she has to be sure of one thing."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Célia, you said you'd buy me a good-luck necklace after you publish your paper."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Will you keep that promise?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She lowers her head. Blood diluted with tears and sweat runs down her face, dripping onto the diamond."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "You're too cruel, Adèle."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "Why didn't you just tell me? I wouldn't have had to write all those silly letters."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A strained, awkward smile twists her lips."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Will I see-see you again?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "I'm not sure."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her eyes land on Félicienne, unconscious beside her. Time is running out."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "At last, Célia steps forward."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Like when they were children, she places her hand over Adèle's, helping her close her fist."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "The art of resurrection is elusive and unknown."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "I don't know what will happen after the diamond is destroyed. What Félicienne said—it was just speculation."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "There's no more time, Adèle. Make your decision, now."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Adèle listens, motionless. After a few failed attempts, she forces out the words."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "You know what? Félicienne was right. I am a foolish, pathetic hypocrite."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "But she still doesn't know all that much."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She steadies her breath, but her next sentences spill out without any filter."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "You were never the damsel in distress. No, you're the hero, the adventurer."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "You were the one who uncovered all the clues. You were the first to embark on this journey."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "You're more of a Tavernier than I'll ever be, Cici."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The hand holding Adèle's tightens once more. Célia sighs softly, helplessly. Then Adèle hears her laugh."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "Don't be silly, Adèle. That never mattered to me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "It wasn't the tales of gemstones or adventures that drew me to the Tavernier family. It was you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Huh ... Me?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "You've always been so driven and sure of yourself. Even when we were kids, you never hesitated, never looked back."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "I wish I could live without regrets like you do."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "That laugh tears through her trembling heart."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "But it keeps beating—scarred, but alive."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "Stay that way, Adèle, just as you are."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She bites out the words like an oath or a demand."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "Well, maybe not completely without regrets. That's asking the impossible. But if you hesitate now, I'll be disappointed."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Célia smiles one last time."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "So go on. Follow your heart, my dear friend."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "I believe in you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She pats Adèle's shoulder and lets go."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The sound fades. So does her breath. Only the heartbeat remains."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "All the waiting, torment, pursuit, and struggle have come to an end. Every ounce of hope, hatred, sorrow, and forgiveness has been poured out."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She has no other choice."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "By   fire,   what   is   false   is   purged."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Flame is just another means of transformation, but now it must expose what's real."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Whatever the disguise, their true natures are revealed. As both substance and form change."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The consuming flames surge upward, devouring the French Blue. Adèle feels her hand grow heavy, as a familiar smoky quartz reappears in her palm."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "But the French Blue doesn't vanish. The single gem becomes two. Image and matter part ways, yet neither returns to its origin."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "How ...?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "How can it still be here?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "By   fire,   what   is   false   is   purged!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "In the blaze, falsehood crumbles and truth remains."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The translucent blue diamond endures, proving its unshakeable reality."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "I burned the Beasts of Gévaudan; I even burned Félicienne."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "So why can't I burn this diamond? It is from the Depths of Myth, isn't it?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "Surely it can't survive your fire. It isn't possible. It's only a symbol."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "A primordial symbol, yes. That is precisely why it survives."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The diviner affirms her words."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "The French Blue is both abstract and concrete, an iconic symbol held deep in the collective imagination of our society."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "No matter how many imitations or counterfeits may exist, none will ever take its place."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "It is eternally transcendent—unconditionally pure. Its existence can never truly be destroyed."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "You have done all you can, Adèle. Bravo."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Adèle listens, confused. She's changed nothing, and yet she's praised."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Paris continues to descend. The twin Eiffel Towers crossing at their tips."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Like a ladder folding away, heaven and earth draw closer."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Célia and Félicienne grow transparent, stripped away by the wind."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "But I failed to destroy the diamond. Célia and Félicienne are ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Adèle can't go on, but she sees Beryl's smile."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The same smile she gave her long ago in that divination salon—the version of her in that moment, smiling now."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "Countless streams converge and intertwine here in this moment. An unstoppable downpour is coming."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "And in it, you are a remarkably stalwart droplet. Your struggle has at last reached its conclusion."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "The rain ... It is about to fall."
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

@@ -1,0 +1,850 @@
+{
+  "episode_id": 3110119,
+  "chapter_id": 31101,
+  "chapter_title": "The Midnight Whistle",
+  "display_label": "",
+  "title": "Here, Together",
+  "subtitle": "Fight on, Iglika. Fight for our home.",
+  "trails": [
+    {
+      "element_id": 3110112,
+      "owner_episode_id": 3110119,
+      "trigger_episode_id": null,
+      "title": "No More Talks of \"Humanitarianism\"",
+      "description": "He'll swear to you it's just a small sacrifice for a greater cause.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=3110119",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "The Infected Transformation Experiment Record"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "No.██\n\nDate: ████.██.██\nRecorder: /\n\n1. Objective:\nTo study the effects of specific environmental stimuli, (particularly audio patterns, i.e. \"the Song\"), on the blood samples of the Infected, with a focus on their temporary mutation and fusion behavior.\n\n2. Method Summary:\n· Collect four samples each from arcanist subjects (Group B) and human subjects (Group C), forming one experimental unit. Three units per group are used as control and stimulus sets.\n· Acquire high-activity vampire blood samples (Group A).\n· Under █████ conditions, expose Group B and C to Group A to █████.\n· Introduce \"the Song\" as the primary stimulus source.\n· Monitor Groups B and C in real time for changes.\n\n...\n.........\n\n4. Key Observations (Experiment Iterations 7–██):\n· Temporary Fusion and Mutation: Recipient samples (Groups B and C) exhibited the base arcanum traits of the source vampire post-fusion, confirming transformation into the Infected.\n· \"Song\" Effect: Confirmed that exposure to \"the Song\" significantly increases transformation probability. (Fusion rate averaged █.█% without stimulus, rising to ██.█% under stimulus.)\n· Extreme Rejection Response: All test subjects died rapidly following successful fusion and manifestation of ability.\n\n......\n...\n\nNote: Research will and must continue. If this succeeds, we may be able to turn ordinary humans into arcanists."
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 3110113,
+      "owner_episode_id": 3110119,
+      "trigger_episode_id": null,
+      "title": "Bad Luck",
+      "description": "Before a mission, I like to line up every god I know and pray to them all.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=3110119",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "Blood-Stained 0073-MV"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Mission Number: 0073-MV\n\nDate: ████.██.██\n\nGot the file on the new colleague today—Semmelweis. According to her record, she's a sharp, calm, and reliable investigator. With her joining us, this \"odd\" case should go a lot smoother. Still, before she arrives, Squad 77 has to do its part—at least handle the groundwork properly. Can't have her looking down on us. I think I've got a lead. Been stationed here for a while, and I keep hearing rumors about that so-called mystic train. You'd be hard-pressed to find another line with so many vampire stories attached to it, unless you're in one of ████'s horror novels. The conductress never replies to our messages—not to inquiries, columns, or even official investigation requests. Highly suspicious. On my list, that puts it right at the top—extremely, ridiculously suspicious! (Suspect there's a syntax error here. Recommend revision before submission.)\n\n(I struck out your irrelevant rambling. Why do you always fill task logs with random digressions and pointless jokes?)\n(Okay, fine. Thanks. But you know this is just a draft — I'll rewrite the official report later.)\n(Then stop wasting the report forms. I couldn't even find a blank one last time and had to draw the format by hand ... I'll stake out the station tomorrow and see what I can learn about this \"Danube Dawn.\")\n\nDate: ████.██.██\n\nDid we just hit the jackpot? Officer Pyrrhos from the Nika checkpoint invited us to \"talk.\" Guess our \"covert\" investigation wasn't so covert after all—or maybe the man's just sharp as hell. After getting the invite, first thing I did was review our recent operation. I wouldn't say flawless, but definitely clean ... Uh, in the formal report maybe I'll write that we \"intentionally leaked intel to lure them in.\" Depends how it plays out.\n\nAnyway, is it trap or cooperation? We'll only know once we go. Damn, I'm actually nervous. But the invite was polite ... and honestly, our investigation has been stalling. So yeah, let's go! I'm a proud member of Squad 77! My record's just as good as Semmelweis's, I'm just terrible at paperwork!\nDate: ████.██.██\n\nWarehouse address: ████████████ stench heavy blood ████████ Invited by Officer Pyrrhos of Nika checkpoint we ███ him ████████ he's behind me he's searching ███████ this crate is a terrible hiding spot ████"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "203127",
+      "internal_title": "【3.1】长夜鸣笛19.1",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "My blood flows across the city, as fresh from a battlefield,"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "It rises as the tide, seeping into the empty gaps between cobblestones,"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Quenching the parched mouths of man and beast,"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "And engulfing the world in its sanguine embrace."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "— Charles Baudelaire, The Fountain of Blood"
+        },
+        {
+          "kind": "title_card",
+          "text": "Warehouse, Nika Checkpoint"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Children",
+          "text": "Rubuska!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A surge of friendly faces rushes to Rubuska's side, surrounding her."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "What-What're you doing here? I-I thought you'd never wanna speak to me again."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Annabelle",
+          "text": "That's not true. We like you, even if you aren't a real vampire."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Little William",
+          "text": "We saw it all! Whack! You put a big old stake right through the monster's chest! So you're not a vampire. You're even stronger!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The crowd closes in on Rubuska, their warmth flushing her cheeks red."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "Thank you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "Ah, the joy of reunion. How very touching. In fact, why don't we drink to it?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "From the corner comes a sinister voice, drawing eyes and muzzles in its direction."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "Those are …"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Corpses by the dozens piled high into a nauseating hill of flesh."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The surface layer rots away, exposing pale-gray sinew, entrails dangling in tangles, blood oozing down like a sticky mire."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Pyrrhos sits atop the mound, lounging."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "The bodies of the passengers, and the soldiers too."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "Is that all you see? *tut* You never did have an eye for detail, Iglika."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "His sharp grin deepens."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "Look closer. Your Foundation friend might find a little surprise."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The investigator spots familiar checkered uniforms and marks among the heap."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "Squad 77. All of them."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "Indeed. I worried they'd prove irksome if not dealt with, so I handled them before they even boarded the train."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Dark red eyes sweep past her with casual indifference."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "Though it seems one managed to slip her way on board."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "Why, Pyrrhos? I need a reason."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "If you must ask, Iglika, it's because I've run out of patience."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "People and their endless games, wars one after another, and following it—exile and despair."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "And do you know where it all began?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He hoists a limp arm; blood streams down it like a red river."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "Blood. Too many bloodlines are bound to this land, each serving their own desires."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "For centuries, they have nipped and snapped at each other, unable to cooperate, unwilling to unite, never satisfied with peace."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "I tried to break them free from this cycle—did everything I could, including joining the Liberation Front."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "You could've told me this. We could've talked about it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "Oh, I could have, Iglika, but why use words when it is already clear to see?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "Don't you hear it? When you close your eyes at night, don't you feel the distant tremors of their cries?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "After you left the Liberation Front, after all others had forgotten how to even speak of our cause ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "A voice came to me. A voice from the heavens. She heard my prayers and showed me a new path."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He gestures toward the mound of bodies, eyes blazing."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "A path of unity! Where all would share the same blood, the same interest, the same goal."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "*sound of attacking*"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "At the crack of gunfire, Pyrrhos vanishes, the shot clipping only a few fluttering bats."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "In only a heartbeat, he reappears soundlessly behind Corvus."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "Another bullet. You wound me in more ways than one, Iglika."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "You've lost your way, Pyrrhos. Do you truly think blood is to blame for all of this?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "It's one cause of conflict, yes, but so are misunderstanding, fear, even love."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "To blame everything on bloodlines means choosing a simple lie over a complicated truth."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "Haha, you haven't thought deeply enough then, dear Iglika. Look at these causes, examine them at the root, and what do you find, hm? Human nature."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "And our nature, old friend, is set by our blood."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The vampire spreads his arms before the hill of flesh, his maddened eyes ablaze with baleful violence."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "Listen to me! Imagine a world with no bloodshed,"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "where everyone is free of mortal weakness and given infinite time to enjoy the pleasures of this earth."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "Our shared bloodline serving as a bond, not a line of division, so that all our hearts might beat as one."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "Race, color, creed—all would melt away in the face of this great family we will create."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "Was that not your vision once, Iglika?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "You want a world without bloodshed? Hah. Ironic. Your methods tell a different story."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "Look around you, Pyrrhos. You're starting a war, not ending one."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "Unity, really? Things didn't go your way, so now you'll drag us all to hell along with you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Moonlight strips away all pretense, casting a pallid veil across his face."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "You always did know how to use those words like a scalpel."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "*sigh* I was a fool to think you'd stand with me again."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He sighs, turning his eyes with strange softness toward the stewardess."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "Aima."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "Come. This battle will be fierce, and I won't allow my blood to come to harm."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "His blood? She's ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Semmelweis darts her eyes from face to face, loose threads knitting in her mind."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Aima steps forward as every eye turns to her."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Aima",
+          "text": "Uncle Pyrrhos ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "Aima!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A voice calls out from behind, and she halts."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She looks back, the woolly red scarf brushing her cheek."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She grips it tight, slowly and firmly locking with her uncle's eyes."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Aima",
+          "text": "Forgive me, Uncle. I love you dearly, and I'm grateful for all you've done. But I can't."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Aima",
+          "text": "You know how much the \"Danube Dawn\" means to me. Please, stop. I don't want anyone else to get hurt."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She steps back to stand proud and defiant among her people."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "Blood of my blood. Of all people, you choose to stand against me. And you ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Men, women, the old, the young ... each stands ready from a measured distance, brimming with fear, disgust, and scorn."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "They build a silent wall, cutting him off. Beneath it yawns a chasm no words could ever cross."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "Hahahahaha. You look at me like I'm some kind of monster!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He laughs with a twitch, then inhales deeply and resumes his malevolent composure."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "Well, I tried, but I always knew preaching would only get me so far."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "Violence, religion, politics, marriage ... Our predecessors sought every means to unite us, but greed has always been stronger."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "Still, I was naive enough to hope we'd finally put aside our differences."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "Ruins, battlefields, countless headstones, and beneath every one, a blood debt unpaid. Hah ... Hahaha ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "Perhaps, in the end, you were right, Iglika. If I can't have what I want ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He reaches to pull out the wooden stake lodged in his chest."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Fleshy bat wings sprout from his back, spreading wide to block out the hazy moonlight outside the window."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "Then I will drag every single man, woman, and child."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "To hell."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The monster lets out a shrill cry, eyes streaming blood."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The sound spreads through the night like a deadly signal, drawing hordes of the Infected in from the dark."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Infected Passenger",
+          "text": "Gushing, seething!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Infected Soldier",
+          "text": "Nevermore!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "The Infected are swarming. He must have called for them."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "Incoming! Weapons ready!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "Pyrrhos. I will put a bullet through your heart myself."
+        }
+      ]
+    },
+    {
+      "script_id": "203128",
+      "internal_title": "【3.1】长夜鸣笛19.2",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "Cemetery at Dusk"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Villager I",
+          "text": "Is the beast still breathing? Hey, you!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Young Pyrrhos",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Villager I",
+          "text": "Devil take him, he's still twitching, even after we staked him and left him under the sun for a week. He ought to be dust by now."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Villager I",
+          "text": "The last one didn't last but three days. This one must be of purer blood. They say those are stronger."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Young Pyrrhos",
+          "text": "W-Why ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Young Pyrrhos",
+          "text": "I never ... hurt ... any of you ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Villager II",
+          "text": "Haha. What's that? Why? 'Cause you're a vampire, a monster."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Villager II",
+          "text": "What, so we've got to wait until you've drained someone dry before we put you down, do we?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The sunlight burns him until he can no longer raise his eyes. He shrinks his neck, attempting to turn his head in vain."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A vampire's hunt is a bloody one, as always. Human, beast, vampire—blood spills in a tangled mess across the ground, merging into a stream that soaks his toes."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A breeze stirs, carrying a distant song."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The song is ethereal and light, as if drifting from a vast, boundless space, weaving into a comforting net that rises and falls."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sing-Song Voice",
+          "text": "Despair."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sing-Song Voice",
+          "text": "The purest of emotions. It lifts the weight of fear, frees you from the constraints of mundanity, and brings you one step closer to perfection."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Young Pyrrhos",
+          "text": "Who ...?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He smells and hears the crisp, cool wind."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sing-Song Voice",
+          "text": "I am your wish-maker."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Young Pyrrhos",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Young Pyrrhos",
+          "text": "\"Wish\" ... My wish ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sing-Song Voice",
+          "text": "You need not speak it; the wind has whispered it to me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sing-Song Voice",
+          "text": "I shall help you achieve greatness, and you will be surrounded by family and friends, never to be alone again."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sing-Song Voice",
+          "text": "And all this will bring you ever closer to perfection, for you will be awoken to your emotions, to perfect passion."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Young Pyrrhos",
+          "text": "Family. Yes, I ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Young Pyrrhos",
+          "text": "I want them ... With me ... evermore."
+        },
+        {
+          "kind": "title_card",
+          "text": "Warehouse, Nika Checkpoint"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "Ever ... more ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The monster shrinks back into human form, like a withered cocoon trembling in the corner, gasping for breath."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "His neck is torn open, dark blood flowing out like a spring."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "Iglika."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "I'm here."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "His old comrade stands before him in silence. The space between them is not far, and yet it spans a fathomless deep."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "Is it over?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "It is, Pyrrhos."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "Do you remember our old rallying cry?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "\"In hope, we stand as one.\" Hmph. Yet here we are."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "Do you still believe in it?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "I've never doubted it. I still feel the power of those words."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "And tonight, I feel its presence stronger than ever."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Not on the battlefield, nor in a field of slaughter, nor in hollow declarations. It lives in every moment, here and now."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "It lives inside each of us."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "Then you've found the right path. And I-I've strayed too far."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "Go on, Iglika. Do it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "I hope you live to see that dream come true."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "You've had your war, Pyrrhos. But ours goes on."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "Still, the end will come in time."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Maybe not today. Maybe not tomorrow."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "But one day, a generation will refuse to raise their guns, refuse to trade blood for fleeting victory."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "When that day comes, the Danube will flow in peace once more, and lilacs will bloom again over the ruins of Belgrade."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "When it does, we'll ring the peace bell so loud that all those who rest in the earth hear it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She lowers her weapon, turns on her heel, and walks away."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "Farewell, Pyrrhos."
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

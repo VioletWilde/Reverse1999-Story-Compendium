@@ -1,0 +1,613 @@
+{
+  "episode_id": 2410102,
+  "chapter_id": 24101,
+  "chapter_title": "地球上最后的夜晚",
+  "display_label": "",
+  "title": "“自由海风”",
+  "subtitle": "啊，海风。啊，自由。啊，最后一日假期。",
+  "trails": [
+    {
+      "element_id": 2410102,
+      "owner_episode_id": 2410102,
+      "trigger_episode_id": null,
+      "title": "审查单",
+      "description": "请确保本文件由本人亲自填写。",
+      "action": "交互",
+      "unlock_condition": "EpisodeFinish=2410102",
+      "content_hints": [
+        "fragment",
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "试用期考核——星锑"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "代号：星锑\n已入职时间：十一个月\n所属项目组：“暴雨”专项研究小组（未登记）\n考核结果：暂无\n\n实绩考察：\n关于光波与声波在拥挤人群中调动情绪作用的研究\n圣洛夫基金会通讯设备的安全性验证\n与阿派朗学派的无数字交流的可能性探究\n无\n\n试用期经历：\n协助司辰进行“暴雨”调查，时刻站在应对“暴雨”的第一线，已经历三次“暴雨”，这份经历为科算中心的“暴雨”研究提供了宝贵的数据资料。其在行动中的多次活跃表现为同僚带来了大量灵感，在与圣洛夫基金会以及阿派朗学派的交流过程中表现出了优异的交涉天赋，是司辰小队中不可或缺的一份子。██████████████████████████████████████████████\n\n审核人评语：\n我胡扯不下去了，这整份文件只有这张照片是她本人提供的！我会先让她以正式研究员的名义加入研究小组，但不会给她任何待遇，直到她亲自来把这张表上的空白都填满。\n                                                                                                            ——乌尔里希"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "202403",
+      "internal_title": "【2.4】地球上最后的夜晚02",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "澳大利亚街道"
+        },
+        {
+          "kind": "title_card",
+          "text": "雪梨港·街道"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "澳大利亚街道"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "星锑船长，我们似乎偏离了去往拉普拉斯的航向。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "前往科算中心的路途总是遍布坎坷。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "伟大的海盗依靠的从来都不是罗盘，而是一颗勇往直前的心！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "原来如此，我还以为你借机支开维尔汀小姐，只是为了行使度过最后一天假期的权利。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "咳咳。这当然也很重要！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "如同特洛伊战争后凯旋的奥德修斯，船长身手矫健地闯入眼前的一个个漩涡。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "街头商人",
+          "text": "来自巴西的苏卡拉特兽触须，炼制“凉飕飕药剂”的绝佳材料！\n——仅售185颗利齿子儿！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "街头商人",
+          "text": "这位小姐，你不打算购买一点儿吗？里约热内卢的兄弟姐妹们会永远铭记着您的慷慨～"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "哇哦——！\n这样的好东西你还藏着多少？统统拿出来——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "船长……我必须提醒你，苏芙比小姐并未参与此次的澳洲之行。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "噢，好吧～"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "眼前的诱惑似乎源源不断。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "街头艺术家",
+          "text": "♪——♫——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "颜料与歌声一同飞舞，差点溅到了船长的墨镜上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "嘿、嘿嘿！老兄，颜料可不是这么使的，我非常建议你尝试波普艺术，再邋遢的艺术家碰上它也能摇身一变，吸引街上所有人的注意～"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "说真的，你该找个机会到伦敦去，在那儿你能学到不少街头宣传的技巧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "街头艺术家",
+          "text": "波普……那不是几十年前的老古董吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "什么——？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "在船长践行她的摇滚精神前，不远处传来的欢呼声及时阻止了这场争端。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "这里是喇叭喊免费上传的音效"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "我听到了几个重要的字眼，APPLe先生，我们必须尽快赶往那儿。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "难道是……重塑之手？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "维尔汀小姐曾委托过我们，希望大家在澳大利亚出游时，留意可能出现的重塑门徒……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "不——比那更加重要！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "黑屏中脚步声+若隐若现的派对欢呼声"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "宣传船员",
+          "text": "女士们，先生们——！\n欢迎来到全澳大利亚最最最盛大的游轮启航派对！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "宣传船员",
+          "text": "您期待着一段独一无二的旅程吗？您渴望投入一个温暖湿润的怀抱吗？您也热爱音乐吗？那么此刻，正是最好的时机——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "宣传船员",
+          "text": "“自由海风号”即将启航！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "宣传船员",
+          "text": "澳元、利齿子儿、神秘学素材，或是一切具有价值的珍藏，我们慷慨的船长允诺，“自由海风号”的门票绝不受限～"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "宣传船员",
+          "text": "只需要一点儿小小的投资，您便能近距离欣赏自由乐器大师芭卡洛儿小姐与她的神奇乐器“啪唧匣子”的个人秀！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "此起彼伏的欢呼声愈发高涨。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "宣传船员",
+          "text": "当然，我们也为囊中羞涩的朋友提供了一个宝贵的机会——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "宣传船员",
+          "text": "我们最为热情的朋友，将有机会得到一张免费登上游轮的船票！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "没错！我要找的就是这个！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "……果然如此。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "宣传船员",
+          "text": "尽情欢呼吧，朋友们！为芭卡洛儿小姐的演出，为那天籁般的乐声！与我们一同环游世界——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "喔～～～"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "溢美之辞从宣传员的口中井喷而出，舞台中央的明星悄悄侧过脸去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "氛围图差分-芭卡洛儿侧头低语"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "芭卡洛儿",
+          "text": "这样的宣传词也太夸张了……汉米西先生……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "芭卡洛儿",
+          "text": "我很乐意为“自由海风号”尽一份力，但它的成功属于每一位船员，过、过高的评价不……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "宣传船员",
+          "text": "“过高的评价不利于培养出一位伟大的音乐大师”，我完全理解，芭卡洛儿小姐——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "宣传船员",
+          "text": "可事实上，我们的客人大多都是冲着您和您的独门乐器来的，我相信，您的名气一定会为“自由海风号”招徕更多的客人～"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "芭卡洛儿",
+          "text": "好吧……这不是为了我自己，而是为了我们的“自由海风号”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "宣传船员",
+          "text": "当然，芭卡洛儿小姐～\n另外……您认识那位过于热情的客人么？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "芭卡洛儿",
+          "text": "嗯？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "收起氛围图"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她朝着船员手指的方向望去，那儿有派对中格外热情的一角。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一位红白相间的女士与一颗飘浮的苹果。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "宣传船员",
+          "text": "在那位女士的影响下，我们已经卖出去几十张船票了……以前从来没卖得这么快过！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "朋友们！你们应该都明白这个毫无争议的事实——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "海风，轮船，音乐——还有什么比这更棒的组合呢？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "每个人一生中都至少应该参与一场这样的音乐派对，否则我们的人生将毫无意义！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "燥起来，朋友们！将你们手中的硬币抛向天空，让它们落入我面前的口袋——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "记住——那最清脆的咔嗒声将是你们与音乐的灵魂共鸣——！！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "众人",
+          "text": "喔——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "派对上的欢呼声一浪高过一浪。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "芭卡洛儿",
+          "text": "澳大利亚的客人们，都像她这么热情吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "宣传船员",
+          "text": "没人知道，我的小姐。要不是船长对新船员的要求苛刻，我都打算举荐她加入我们的“自由海风号”了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她朝着那个自由摇摆的身影赞许地点了点头，将怀中的啪唧匣子抱得更紧了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "芭卡洛儿",
+          "text": "没错，世界上有太多的人需要像她这样具有音乐品味的朋友去感染……比如我们古板的新船长！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "芭卡洛儿",
+          "text": "她为什么非得解雇“自由海风号”的老海员们，换成那些什么也不懂、只会制造噪音的怪家伙呢——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "数道惊讶的目光落到了芭卡洛儿的身上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "宣传船员",
+          "text": "嘘——芭卡洛儿女士，请别再说了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他踮起脚尖，朝着轮船的方向探头探脑，许久，才不自然地缩了缩脖子。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "圆滑的船员",
+          "text": "伙计们，咱们没听到过任何关于新船长的意见，对吧？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "忧心的船员",
+          "text": "当、当然！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "船员们眼神飘忽，小声地咳嗽起来，好催促尴尬的时间尽快过去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "逐渐黑屏"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "客人们来来往往，不知疲倦的曲子一首接一首地流淌着。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "启航派对终于抵达了尾声。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "逐渐黑屏"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "船长，我们是不是该去科算中心了？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "当然不是，大副！难道你不认为我们是那欢呼声最高、能赢回免费船票的幸运儿吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "我赞同你的观点。\n……但那些船员们似乎已经在收拾东西了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "什么——？！！！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "“星锑号”舰船迅速拦截了即将离开的“自由海风号”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "宣传船员",
+          "text": "这位客人，派对已经结束。请谅解，芭卡洛儿小姐不再提供签名服务了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "不！是我的免费船票——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "难道你们能在这儿找到比我更热情的观众吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "宣传船员",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "宣传船员",
+          "text": "很抱歉，女士，幸运儿的噱头只是一种简单的宣传策略。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "宣传船员",
+          "text": "更何况，“自由海风号”的船票相当紧俏，无数朋友都翘首以待着这一趟旅行，至于免费的客舱……我想你可以等待我们返航时再来咨询。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "你——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "船长，请冷静。他们确实不曾透露关于幸运儿选拔的任何细节。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "星锑抬头四顾，路人零零星星，早已没有一开始的热闹。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "显然，这儿无人能为她主持公道。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "你们这是赤裸裸的欺诈！我要去澳大利亚旅游局投诉你们！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "宣传船员",
+          "text": "我完全理解您的愤怒，但“自由海风号”将在几天后离港。我想，届时您的投诉进度应该还停留在表格投递环节。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "芭卡洛儿",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "皱起眉头的少女将船员先生扯到一边。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "芭卡洛儿",
+          "text": "汉米西先生，我认为这一行为有损“自由海风号”的声誉。如果可以的话，我愿意将我的舱室转借给这位小姐。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "芭卡洛儿",
+          "text": "至于费用，请从我的工资里扣除！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "宣传船员",
+          "text": "您已经无数次这样做了，芭卡洛儿小姐。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "宣传船员",
+          "text": "可这一次，我恐怕不能答应您了。您应该知道新船长对于船客们的审核有多严格，她绝不会允许毫无价值的客人登船的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "芭卡洛儿",
+          "text": "但……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "小声的嘀咕让投诉无门的客人摸不着头脑。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "嘿，伙计们——你们打算逃避问题到什么时候？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "宣传船员",
+          "text": "好吧，这位小姐，鉴于您在本次游轮宣传活动的突出表现，本“自由海风号”宣传员将破例给您准备一份精美的纪念品——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "宣传船员",
+          "text": "——以感谢您对“自由海风号”宣传活动的有力支持。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一沓颇有分量的“纪念品”被塞到了星锑的手里。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "握着马克笔的游轮明星奔上前来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "芭卡洛儿",
+          "text": "等等——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "特效-芭卡洛儿的签名+签名的音效"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "芭卡洛儿",
+          "text": "很抱歉，小姐。希望您能接受我的私人补偿。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "……？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "芭卡洛儿",
+          "text": "愿我们未来能在“自由海风号”上再见。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "哈？"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

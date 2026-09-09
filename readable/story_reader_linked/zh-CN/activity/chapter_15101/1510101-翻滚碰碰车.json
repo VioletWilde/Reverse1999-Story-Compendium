@@ -1,0 +1,1739 @@
+{
+  "episode_id": 1510101,
+  "chapter_id": 15101,
+  "chapter_title": "复兴！乌卢鲁运动会",
+  "display_label": "",
+  "title": "翻滚碰碰车",
+  "subtitle": "碰撞可以是一段故事的开始，也可以是一条漫长的医疗缴费单。",
+  "trails": [
+    {
+      "element_id": 15101001,
+      "owner_episode_id": 1510101,
+      "trigger_episode_id": null,
+      "title": "城市街角",
+      "description": "那场街角的意外成为了整篇故事的扉页，火花四溅，年轻的人们就此相遇。",
+      "action": "类型501",
+      "unlock_condition": "EpisodeFinish=1510108",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 15102005,
+      "owner_episode_id": 1510101,
+      "trigger_episode_id": null,
+      "title": "火炬护卫队Ⅴ",
+      "description": "火炬的传递在此处停留，闪烁的火惹恼了河床下的秽物。",
+      "action": "教学记录",
+      "unlock_condition": "ChapterMapElement=15101012",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 15102006,
+      "owner_episode_id": 1510101,
+      "trigger_episode_id": null,
+      "title": "火炬护卫队Ⅵ",
+      "description": "火炬的传递在此处停留，闪烁的火惹恼了河床下的秽物。",
+      "action": "教学记录",
+      "unlock_condition": "ChapterMapElement=15101009",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 15102007,
+      "owner_episode_id": 1510101,
+      "trigger_episode_id": null,
+      "title": "谣言的终结",
+      "description": "火炬的传递在此处停留，火种已经点燃，妖言惑众的口已张开，阻挡了人们的眼。",
+      "action": "教学记录",
+      "unlock_condition": "ChapterMapElement=15101010",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 15102008,
+      "owner_episode_id": 1510101,
+      "trigger_episode_id": null,
+      "title": "面对自己",
+      "description": "火炬的传递在此处停留，火种临近失控，但你的双手早不如往日般无力。",
+      "action": "教学记录",
+      "unlock_condition": "ChapterMapElement=15101013",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 15103001,
+      "owner_episode_id": 1510101,
+      "trigger_episode_id": null,
+      "title": "项目清单",
+      "description": "乌卢鲁运动会的体育项目清单。",
+      "action": "交互",
+      "unlock_condition": "EpisodeFinish=1510107",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "乌卢鲁运动会体育项目清单（暂定版）"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "神秘学专项赛事\n\n【田径大类】\n\n\n允许使用气化、闪现、飞行等神秘学能力。魔药与特殊载具则被严格禁用。\n需设计可实施的药检程序。例如，开赛前随机抽检，并在完赛后对单项前六名的运动员进行标准化的药检流程。\n\n\n该项目的世界纪录由“古巴飞鼠”卡洛斯·卡斯蒂洛于1924年缔造。其本人直至退役也未曾打破自己保持的记录。\n狼群先生曾在训练中超越了这一高度，这是我亲眼所见！真期待他在赛场上的表现。\n\n\n部分载具驾驶员与载具本身的区分工作仍存在疑问，比如飞碟、木马、人造卫星等参赛者。\n单项赛事的细则中将对这一情况进行更为细节性的说明，以避免其对裁判判罚工作造成的困扰。\n\n【对抗大类】\n\n\n需将比赛场地设置在医疗站旁。\n擂台外围需增设护栏与警戒线，防止兴奋的观众步入赛场，干扰赛程进行。\n\n\n驯服陌生水怪，驾驶其进行竞速，不限制德鲁伊参赛权利。\n需在终点水域处种植水藻，以便水怪保持体力与稳定的血红蛋白指数。"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 15103002,
+      "owner_episode_id": 1510101,
+      "trigger_episode_id": null,
+      "title": "《叮咚快报》周末特刊",
+      "description": "来自本地报刊的恶意造谣。",
+      "action": "交互",
+      "unlock_condition": "ChapterMapElement=15103001 and EpisodeFinish=1510109",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "《叮咚快报》周末特刊"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "独家揭秘：复兴小队携兔女郎大闹市政厅，公务员遭恐吓致精神崩溃\n\n    乌卢鲁运动会即将被复兴，神秘学家的竞技之火将重燃。\n    我们中的许多人都听说过这个消息，或许是你，或许是我，某些幸运儿也与那女学生所带领的“复兴小队”擦肩而过，人们对他们充满好奇——这是当然的，一团火，一个九年级学生，一个人类菌菇学家，再加上一个拥有圣洛夫基金会背书的大人物，这足够令人感到心中瘙痒，难以压抑。\n    如同近日街头巷尾频繁出没的本耶普，那些乌黑潮湿的下流玩意儿从下水道中爬出来，来到光天化日之下，成为了瞩目的焦点。\n\n    “兔女郎的身后跟着一位疯狂科学家，巨型大啡菇和像素鸸鹋在火焰旁大跳曳步舞。”\n    你会在哪里看到这样的画面？科幻电影、马戏团，还是梦里？不不不，这一切都发生在爱丽丝泉市政厅，如此魔幻而荒诞，这也正是凯特女士对复兴小队的第一印象。\n    “我……我们承接过不少大型活动与典礼，都……都是些有礼节、讲规矩的客人。可他……他们太过分了，他们……天呐……我的教养不允许我复述他们的行径，请您谅解。”\n    如前文所言，复兴小队带来的混乱彻底摧毁了凯特女士的一天。谈及这段遭遇时，她多次凝噎，甚至于语无伦次地啜泣。\n\n    让我们重新思考那个看起来漂亮辉煌的盛会，思考祖辈口中所描述的“乌卢鲁运动会”。我们真的需要它吗？还是某些人告诉你，你真的需要它，好来唤醒你心中对“运动”与“公平”的热爱？他们的目的是什么？售票？或是一场彻底的造星？\n    去看看你今早刚撕去的那页日历吧——时代的指针已经走到世纪末的十年，是谁要将那些腐朽、死去的传统再挖掘出来？四处贩卖的入场券换来的金钱又入了谁的口袋？\n    ——是啦，我们早已有了答案！\n\n\n                                撰稿人：马科尔\n                                ——《叮咚快报》136期周末特刊\n\n         《叮咚快报》——每个人都能拥有的“私家侦探”！"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 15103003,
+      "owner_episode_id": 1510101,
+      "trigger_episode_id": null,
+      "title": "《澳大利亚生物行为学报》",
+      "description": "生物学期刊的研究报告。",
+      "action": "交互",
+      "unlock_condition": "ChapterMapElement=15103002 and EpisodeFinish=1510110",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "《澳大利亚生物行为学报》"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "水温变化对本耶普对谎言反射机制的影响研究\n\n【实验样本】\n1.12只成年本耶普，编号YP-01至YP-12，每只体长约10英尺，分为A、B两组，每组6只，性别比例一致。\n2.3名人类志愿者，编号V1、V2、V3。\n3.两个大型密闭水族箱，需可容纳共12只本耶普。\n4.3张彩色图纸卡片，放置于暗箱内，图片内容依次为“苹果”、“香蕉”、“梨”。\n\n【实验步骤】\n1.将A、B两组各6只本耶普放入对应水族箱，淡水水质，含氧量统一。A箱水温设置为14摄氏度，B箱水温设置为32摄氏度。\n2.让V1进入房间,随机抽取暗箱中的1张图片卡片，但不向两组本耶普展示。\n3.V1需要对两箱本耶普描述所抽到的水果图片内容。描述可以是真实的，也可以是虚构的，为避免志愿者个体的影响，对志愿者的声音做变声处理，并统一响度。\n4.记录两组本耶普的生理反应，包括背鳍震动频率、心率变化、体温。\n5.更换其他志愿者，重复步骤2—4。\n6.通过隐藏摄像头记录确定志愿者所描述的内容真伪。\n7.比较两组本耶普对真实描述和虚假描述的生理反应差异。\n\n【实验结果】\n1.当志愿者提供真实的描述时，两箱本耶普均保持平静。\n2.当志愿者提供虚构的描述时，两箱本耶普的背鳍震动频率和心率均有明显上升。\n3.两组本耶普均能通过生理反应敏感地辨别出人类撒谎行为，水温越高，本耶普对谎言的敏感度越高。\n\n【展望与优化】\nB水族箱内的个体YP-07在生理反应上呈现出了显著偏差。经溯源回顾，我们发现，无论志愿者提供的描述是否为虚构，YP-07都更愿意相信图纸卡片上的内容为“香蕉”。究竟是因为这只个体更偏爱“香蕉”，还是因为较高的水温影响了YP-07的判断，使YP-07更愿意相信卡片上的水果来自于热带？在接下来的拓展研究中，我们会就这两点假设优化实验设置，研究这其中的相关性。"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 15103004,
+      "owner_episode_id": 1510101,
+      "trigger_episode_id": null,
+      "title": "《热土运动编年史》节选",
+      "description": "一张本地体育杂志的扉页。",
+      "action": "交互",
+      "unlock_condition": "ChapterMapElement=15103003 and EpisodeFinish=1510111",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "《热土运动编年史》节选"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "跑道、球场与草坪，这些场所蕴藏着人们成长过程中的关键回忆。\n    历史上的每一刻，每一秒钟，这片土地的某个地方都有人正在运动，奔跑、击打、跳跃。幼孩们从投掷石子与树籽的游戏中理解到狩猎的基本要领，年龄稍大些，他们便登上树干摘下野果，以习得灵活的身法与脚步。青年们跨上红木枝，将石片放于双膝之上，去抓住火堆中最耀眼的火星。\n    “树籽、树干与木枝。你会从一棵桉树上看到我们的一生。”与这句俚语相伴的是一项属于神秘学家的传统。\n    神秘学家们穿越密林与河流，徒步抵达大地的肚脐——乌卢鲁岩地。"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 15103005,
+      "owner_episode_id": 1510101,
+      "trigger_episode_id": null,
+      "title": "《乌卢鲁运动会珍藏影集》P-7",
+      "description": "影集首页的一段留言。",
+      "action": "交互",
+      "unlock_condition": "ChapterMapElement=15103004 and EpisodeFinish=1510112",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "《乌卢鲁运动会珍藏影集》P-7"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "*一张萨曼莎·格林在“500米水怪障碍赛”的照片，1921年，水彩进行了人工上色*\n\n500米水怪障碍赛的大满贯得主，并连续卫冕了三届。水怪在她的脚下就像是一只温驯的小猫咪。当她驾驶着水怪跨越障碍，每次冲过终点，她总是和第二名保持断崖式的领先。可是，真的有人能这么轻松地与水怪相处吗？难道她身上有水怪的血统？嗯，这很有可能，记下来，下周我要把这个秘密告诉米娅。\n\n*一张苏菲·罗杰斯在“咒语对决”的照片，1922年，保存完好*\n\n尽管这场退役之战在判罚上略有争议，但这并不影响苏菲·罗杰斯顺利步入名人堂。\n她开创了利用浮空术与隔空取物的咒语进行防守反击的战术，也成为了那一代年轻人的偶像。\n\n*一张本杰明·斯通在“盛装骑术团体赛”的照片，1918年，有些破损*\n\n由本杰明·斯通带队的“海洋马戏团”成为了这一届盛装骑术团体赛上的黑马。在半决赛中，他们颠覆了本土队伍“袋鼠游骑兵”对这一项目的霸主地位。谁能想到他们能与海马达成如此的默契程度呢？"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 15104001,
+      "owner_episode_id": 1510101,
+      "trigger_episode_id": null,
+      "title": "研究的起点",
+      "description": "导师对学生的教导。",
+      "action": "对话",
+      "unlock_condition": "EpisodeFinish=1510106",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "你又回到了同样的地方。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "或许是心灵感应，或许是灵魂出窍，或许是……总而言之，你回到了这里。在这片晦暗不明的森林中，巨大的橡树在你眼前裂开，干燥而刺鼻的烟尘正不断地冒出。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "火焰能吞没很多东西。金钱、生命、家庭的欢笑，还有一双会向前看的眼睛。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "这是什么气味？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "是汽油。这里的草皮黝黑发亮，结块的部位好像一条不平坦的柏油马路。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "过了这么久，我是说，过了这么多，很可能是以年为单位计算的日子，这些汽油的味道却仍然新鲜如昨日。不需要八个小时，你的眼睛就能感受到一阵刺痛。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "焚木没有边际。你几乎很难分辨出夜晚与焦黑的树林的界限。要创作这样大，这样精彩的火灾……需要的，仅仅是一小桶汽油吗？"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "恐怕是五十桶汽油也不够。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "摸起来就像是——",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "死皮。死掉的鱼，腥臭的翻起来的鳞。绝望的，在海中被煮沸的水生动物的哀嚎。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "你的掌心感到微微的刺痛。那些倒竖的，耸立的树皮，就像受到惊吓的猫，要在死亡面前留下最后的一点尊严。你的触摸，让树皮刷拉拉地往下掉。干脆，利落，筹备良久。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "它们不喜欢火灾。但它们也不喜欢长久地驻留在十字架上。"
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "你还有好多问题没有问她。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "没有来得及开口，战争就已经打响。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "我还有机会问她",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "我喜欢你的乐观。这样的乐观能帮助你实现目标，追到不可能的姑娘，支付超额的账单，还可能成为最伟大的和平主义者！"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "噢，我刚刚是不是只提到了姑娘？保险起见，我要再补充几点，追到不可能的姑娘、男孩、老人、跨性别者、可爱的收音机、驴头人……等等。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "——够了，今晚我们的对话不要告诉别人。"
+            }
+          ]
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 15104002,
+      "owner_episode_id": 1510101,
+      "trigger_episode_id": null,
+      "title": "随带喷雾类用品清单",
+      "description": "一张喷剂类用品的清单。",
+      "action": "交互",
+      "unlock_condition": "ChapterMapElement=15104001 and EpisodeFinish=1510108",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "随带喷雾类用品清单"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "【配方】以鸡油菌的孢子为基础，加入少量菊科苍耳提取液和铁线蕨的粉末。\n苍耳果体中的可溶性绿色素给予了喷雾亮绿色的外观，其气味也有助于掩盖铁线蕨粉末微苦的味道。\n【应用】临床使用需注意剂量控制，大剂量可能导致过度镇静，出现意识混乱及梦呓等睡眠障碍。\n该喷雾也常用于特定精神仪式中，以达到冥想放松的目的。\n兼容性较强，可根据使用场景及患者代谢水准，考虑加入其他营养物质，以丰富其功能作用。\n\n\n【配方】以丛伞胶孔菌的孢子为主要原料，加入适量的薰衣草香精。\n丛伞胶孔菌的子实体带有荧光素，而薰衣草的香气可以舒缓患者的紧张情绪。\n【应用】该喷雾会在棉质滤网上形成一层生物膜，与患者呼出的气体产生显色反应。\n经色谱分析后，可对患者的身体状况得到初步检测，为后续诊疗观测提供基准数据。\n常用于孩童、孕妇、因外伤而行动不便的患者。\n\n\n【使用方法】打开保险阀，对准火源按压喷射。泡沫会迅速形成袋鼠群，隔绝氧气，达到灭火作用。\n【结构说明】每一个“泡沫袋鼠”呈乳白色，由细小气泡组成。这一可爱的袋鼠结构形成了一个个完整的气泡膜。\n“泡沫袋鼠”会针对边缘区域的火苗进行定点破灭，因此适合用于建筑结构较复杂的室内火情场景下。\n【迭代说明】袋鼠泡沫三号灭火喷剂为拉普拉斯澳洲分部标配的公共安全设施。三号灭火喷剂在“泡沫袋鼠”的外形上做出了较大革新，以规避先前版本可能涉及到的形象版权争议。相较一、二号等先前版本，在功能上并无较大区别。"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 15104003,
+      "owner_episode_id": 1510101,
+      "trigger_episode_id": null,
+      "title": "谣言的源头",
+      "description": "一项复杂而庞大的文书填报工作。",
+      "action": "教学记录",
+      "unlock_condition": "ChapterMapElement=15104002 and EpisodeFinish=1510109",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 15104004,
+      "owner_episode_id": 1510101,
+      "trigger_episode_id": null,
+      "title": "研究笔记",
+      "description": "一页关于白乳菇的研究笔记。",
+      "action": "交互",
+      "unlock_condition": "ChapterMapElement=15104003 and EpisodeFinish=1510110",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "研究笔记"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "名称：白乳菇  图鉴介绍里写着，它还有个别名叫“辣乳菇”。真的会很辣吗？我不敢尝。\n发现经过：这朵蘑菇发现于丹德农山脉山脚下，就在溪流旁的背阴处。为了避免干燥，我已经把它放在了玻璃罩子里，带回了家。\n外观形态：菌盖呈半球形，直径约3厘米。它的外观很特别，菌褶很柔软，菌盖和菌杆都是纯白色，就像雪绒花，可惜它只长在山脚下，不在雪山上。菌盖下面有许多细小的孢子囊，揭开后能看到米黄色的孢子。\n组织标本：我切了一小片放在显微镜下观察，可以看到菌肉质地细嫩，弯曲的菌丝很粗壮，呈波浪状或环状。组织结构和其他乳菇类植物很相近，区别主要体现在颜色和菌丝形态上。\n\n功能：\n1.食用价值\n作为野生菇类，它可以生吃也可以作为烹饪食材。其自带的辛辣风味储藏在切割后的奶白色汁液中，促进食欲，因此它可以作为调味料使用。\n我会好好保存它，无论是研究还是必要时刻作为应急食品。\n\n2.药用价值\n白乳菇的提取物具有消炎、抗氧化的药理活性。多糖、肽类成分用于抗炎药物，其对肿瘤细胞的抑制作用也被用于恶性肿瘤的辅助治疗中。\n白乳菇能提高机体免疫力，增强机体的运动表现。*这是否说明它能成为神秘学家的营养补给呢？\n标记一下，我会去搜集更多相关的资料。\n\n3.环境指示\n白乳菇对生长环境十分敏感，因此它的生长状况可以初步反应林地的生态情况，成为了环境评估的生态指示种之一。\n湿度、氮素、酸碱度，这些指标都会和白乳菇的生长状况对应。\n*这是我的疏漏，只记录下了生长地点，却忘记了测试环境指标。需引以为戒，以后要注意。"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 15104005,
+      "owner_episode_id": 1510101,
+      "trigger_episode_id": null,
+      "title": "沾满灰尘的门票",
+      "description": "一张澳式橄榄球的门票。",
+      "action": "交互",
+      "unlock_condition": "ChapterMapElement=15104004 and EpisodeFinish=1510111",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "沾满灰尘的门票"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "*一张皱巴巴的票根，布满了褶皱与水痕，票面上的字迹已模糊不清。*\n澳大利███球锦标赛——预热赛单元\n███帆船队 VS 霍巴特蓝湖队\n比赛时间：19██████3日 周六 7:30 p.m.\n门票类型：B类\n座位███216\n门票价格：19.9澳元\n\n注意事项：\n1.请妥善保管好门票，入场时需出示门票。\n2.严禁携带危险易燃物入场。\n3.未成年人观赛需由███陪同入场。\n4.比赛前后，██████与工作人员指引有序进退场。\n\n搞到███票可不容易，好在███\n*票根在此处被粗暴地撕去了。*"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 15105001,
+      "owner_episode_id": 1510101,
+      "trigger_episode_id": null,
+      "title": "一篇日记",
+      "description": "一份市政员工的工作日志。",
+      "action": "交互",
+      "unlock_condition": "EpisodeFinish=1510109",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "一篇日记"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "在我得到这份文职工作的时候，可没想过自己会有和鸸鹋一起工作的日子。\n或者换句话说——在我处理上个月未能处理完的水利工程申报文档（申报文档总是很多，多到做也做不完）时，我也从没想过，一只像素组成的鸸鹋会为我带来帮助……\n\n但……但“波拉比”确实不大一样。我不确定它是不是叫这个名字，我只是短暂地听到了那单马尾女孩儿这么称呼它。\n它安静、有力且充满着奇异的值得信任的氛围，所以当我察觉到它在翻看未审批表格，并且尝试帮忙处理时，我并没有阻止它。\n\n说实话，我不清楚那是不是幻觉，我从波拉比身上感觉到了一种——一种愧疚感。\n一种来自于孩子的足球砸烂玻璃窗后，穿着波点八分裙的母亲的愧疚感。一种孙辈骑着自行车冲进漂亮花圃后，戴着毛绒贝雷帽的祖母的愧疚感。无论如何，我不怀疑它会提上一篮仙女苹果出现在我门前，而后深深地——深深地鞠躬。\n我知道这有点离谱，但无论这是真的，还是我的幻想，我对那些过于吵闹的孩子组成的“复兴小队”已经消了气。\n\n哦，对了！我不能忘记还给凯特她的背包，她先前参加乔迁派对时，把它忘在了我家里。紧接着她就开始了病假，一连两周都没能来办公室。我今天见到她了，她气色不错，似乎要参加一个采访……真奇怪，什么人会采访政府文员呢？或许我下次可以问问她。"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 15105002,
+      "owner_episode_id": 1510101,
+      "trigger_episode_id": null,
+      "title": "“偶遇”",
+      "description": "“波拉比”与本耶普于箱中的一次偶遇。",
+      "action": "交互",
+      "unlock_condition": "ChapterMapElement=15105001 and EpisodeFinish=1510110",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "“偶遇”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "波拉比：*竖起脖子*\n波拉比：——呼咕！\n本耶普：*提起前肢，缓慢地靠近*\n本耶普：嘶——\n波拉比：*后退一步，停下观察*\n波拉比：咕咕！\n本耶普：*侧身打滚*\n本耶普：呜——呜唔——\n波拉比：*抖动翅膀*\n本耶普：*提起前掌*\n本耶普：呜哈——！\n波拉比：*歪头，触碰本耶普的前掌*\n波拉比：——咕。\n本耶普：*绕着波拉比转圈，快速摇晃脑袋*\n本耶普：嘶——嘎。"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 15105003,
+      "owner_episode_id": 1510101,
+      "trigger_episode_id": null,
+      "title": "无罪辩护",
+      "description": "一场来自外星生物的无罪辩护。",
+      "action": "对话",
+      "unlock_condition": "ChapterMapElement=15105002 and EpisodeFinish=1510112",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "格雷克太太放下了话筒。她现在的脸色平静得像任何一个你曾见过的意大利母亲，在拔出枪前她们通常还在做一份美味的派。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "门外站了足够的黑衣人，能很好地预防偷听与冲突的爆发。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "格雷克太太的目光平静地扫视过眼前的一、二、三、四……九、十、十一个孩子。这是个庞大的家族，在斯奈德这几年的关照下日益壮大。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "她们都是谁？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "是斯奈德的姐姐。格雷克夫妇很难分清楚她们。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "但斯奈德与她们不同。她在一个地震的灾害中出生，满身血污，两小时后才发出第一声啼哭。直到她周岁时，父亲才想起来她未曾受洗。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "格雷克太太是谁？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "是斯奈德的亲生母亲。你能看到她沟壑纵横的脸就像一堵坚硬的石墙，墙内却是一个庄稼人虔诚的一生。"
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "格雷克夫妇并不擅长处理帮派事务。他们甚至也搞不清女儿是从什么时刻开始——开始成长为整个家族的依靠。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "当斯奈德将兜里的五百美金掏出来放到桌面上时，那是他们第一次感到头晕目眩。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "斯奈德……斯奈德，他们甚少关心的那个小女儿。要让每一个孩子都吃饱喝足是不可能的。她甚至领受不到圣体礼的一块饼。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "但一个好的女儿不会教任何人操心。她坐在教堂外的长椅上哼歌，她给自己找到了出路，她着了迷似的走进地下市场……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "她在某一天宣告自己的“新身份”。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "什么是“新身份”？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "就是你现在所熟知的那个身份。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "为此，她失去了一部分旧的东西，又收获了部分新的东西，且不论她是否心甘情愿。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "什么饼？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "参加某种神圣的宗教仪式时食用的饼。根据教义的不同，它有时是无酵饼，有时是发酵饼，有时可能是任何一种饼。"
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "“现在，”格雷克太太发话了，“我们到了生死存亡的时候。如果今晚斯奈德能平安回来……我们将在月亮初升时离开。”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "“我们眼前的门正一扇扇地关闭。但仁慈的玛利亚会给予我们最后的庇护。我的孩子，永远铭记今天。”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "她的发言符合她的身份。但格雷克太太的眼睛没有离开过桌上那座小小的圣母像。她的衣襟已经湿透了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "下午四点，一个家族决心要开始一场新的流浪。"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 15105004,
+      "owner_episode_id": 1510101,
+      "trigger_episode_id": null,
+      "title": "庭前调解",
+      "description": "一份道歉信。",
+      "action": "教学记录",
+      "unlock_condition": "ChapterMapElement=15105003 and EpisodeFinish=1510113",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 15105005,
+      "owner_episode_id": 1510101,
+      "trigger_episode_id": null,
+      "title": "记忆中的时代",
+      "description": "一段关于祖母的回忆。",
+      "action": "对话",
+      "unlock_condition": "ChapterMapElement=15105004 and EpisodeFinish=1510114",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "真是耐人寻味的一幕，老卡文迪许一定会感到惊讶的。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "我也感到很惊讶",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "你也看到了？你看到那个女人在黑夜中被剥蚀的面孔，看到小卡文迪许背过身去的狂喜了？"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "他曾经非常敏感，非常有天分。他在制作魔药的时候真**是个天才！但是现在……他已经被消化，被吞食了。他对此一无所知。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "谁是老卡文迪许？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "噢，这是一个沾满陈腐灰尘的姓氏。它们被历史枪杀了。就连曾坐在你面前，活生生的那个小卡文迪许，都摘下了这个桂冠。"
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "“勿忘我”，这个蠢名字充满了幽默感。那个带着惨白面孔的少爷死了。阴险唬人的外表日复一日地生长起来，他无数次从饥饿与自杀中穿过，最后剩下的只有堕落。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "那个女人给了他承诺。她对勿忘我交代了几句后，便向北前行，消散在雾里。风城是一颗多余的肉瘤，被她扔在身后。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "只有被枪指着喉咙时才能看清楚自己脑内到底有什么。因此，他授予自己复仇、复仇、复复复-复仇，并死亡的自由。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "现在，肉瘤归他了。他发誓要在上面搭建一个巨大的舞台。等待着，把自己的卑劣，疯狂，颤抖放在太阳下。"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 15108001,
+      "owner_episode_id": 1510101,
+      "trigger_episode_id": null,
+      "title": "“弃暗投明”",
+      "description": "这场针对假票风波的反击始于一通探听情报的来电。",
+      "action": "对话",
+      "unlock_condition": "ChapterMapElement=15101005",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "暴躁的孩子们睡着了。你注意到他们的鞋底上沾着像蚂蟥一样的，被踩扁了的口香糖。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "口香糖是什么颜色的？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "经过长时间的咀嚼，它呈现出糖胶树胶应有的浅琥珀色。某些褶皱部分则是青色。它极有可能是薄荷味的。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "薄荷口味的口香糖销售冠军是瑞格利球场附近的泡泡糖机。在疯狂的球赛过后，总有人需要清清口气，忘掉被上一场赛绩狠狠揍了屁股的愤怒。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "但是，嘿，难道你还没有注意到？那被挤压成块的口香糖胶基中，混杂着的美妙的颗粒物？"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "灰白色的砂粒，合成的涂蜡的弹性纤维。在南岸，只有一个地方铺设了这样极具政治象征性意味的广场地面——圣洛夫基金会。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "口香糖现在怎么样了？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "非常悲惨。值得令人同情的遭遇。它兢兢业业地完成了自己的使命，但是很显然，没有人在乎这一切。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "我敢说它是现在最受欢迎的薄荷口味。芝加哥人在失去灌醉自己的权利后，就只能投靠向这娘娘腔的新贵阶级玩意儿了。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "口香糖销售冠军是瑞格利球场附近的泡泡糖机。孩子们鞋底的口香糖也来自于那里。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "被挤压成块的胶基中混杂着一些颗粒物。灰白色的砂粒，合成的涂蜡的弹性纤维。在南岸，只有一个地方铺设了这样极具政治象征性意味的广场地面——圣洛夫基金会。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "我对那见鬼的口香糖没兴趣！",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "谁又不是呢？很高兴在这件事情上我们能志同道合。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "描述被遗弃的糖胶树胶并不会令任何人感到高潮。因此让我们跳到下一个阶段——你有注意到口香糖底粘着的碎颗粒吗？"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "灰白色的砂粒，合成的涂蜡的弹性纤维。在南岸，只有一个地方铺设了这样极具政治象征性意味的广场地面——圣洛夫基金会。"
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "正如过去的每一天一样，广场前热闹非凡。推崇人类至上的投机分子，试图通过游行来引起基金会官方的注意。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "他们与基金会同属于一个阵线，可惜的是，基金会并不打算完全地迎合他们。甚至派出一个小姑娘来敷衍他们。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "小姑娘？这是个好话题",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "是的，是的，没有人不会对这个话题产生兴趣。她们是蜂蜜色的，是早晨加州的阳光，是你永远也追不到的母鹿上的耀眼光斑。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "对于某些道貌岸然的家伙来说，小姑娘就是垂涎在嘴边的肥肉。值得庆幸的是，这位小姑娘并不属于其中。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "她很紧张，但没有惊慌失措。她看起来并不擅长与油滑的“政治家们”打交道。一枚属于基金会的任务胶囊在她手里被捏得发烫。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "而在广场的另一侧，一位身着黑西装的小女孩正阴郁地望向这里。那里接近基金会的出风口，是个再适合她不过的好地方。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "一个边缘得不能再边缘的位置，正是20世纪第二代移民的最好写照。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "谈谈那个基金会小姑娘",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "她是你熟悉的那个好姑娘，橘红色的头发，思考的时候转笔就像在转魔术师手里的那个灵活的球。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "围着她叫嚷的那群家伙们使她感到困惑。但她眼里亮着光，好像在期盼着什么好事。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "是接下来要完成的那个任务胶囊中的使命？是因为她即将要去会见的某个人？"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "她的脸颊微微涨得发红。手心中的物件也因此松开了。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "黑西装小女孩是谁？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "她是你将来会认识的某个人。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "现在的她浑身打着冷战，像是一只急于寻求庇护的蛉虫，在寻找暴雨中的屋檐或一片瓦砾。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "与她孱弱的身躯不同，她的眼眶中准备好了脏话。或许她刚遭受了一场拒绝，甚至是侮辱。这一切使得她像个死士般地向广场中心移动。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "她不得不去执行另一个她并不情愿的任务了。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "正在这时，那位基金会临时代表手中的胶囊，在人群的推搡下松开了。"
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "——这是一个好机会。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "来自非洲大陆的暖风吹向特拉帕尼。接着，整个西西里岛都变得干燥，温暖，快活。四周弥漫着湿热的珊瑚和野生橘子的香气。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "这不是这个冬天应该发生的事。但它一直在西装女孩的脑中，徘徊，舞动，提醒她还要继续活下去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "她曾经很绝望。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "失败接着失败。但她旺盛的生命力不会停止在这里，至少不是现在。"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 15108002,
+      "owner_episode_id": 1510101,
+      "trigger_episode_id": null,
+      "title": "传闻中的圣火",
+      "description": "在祖母讲述的诸多故事里，关于火的那一则总是令人难以忘怀。",
+      "action": "对话",
+      "unlock_condition": "ChapterMapElement=15101008",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "你在做什么？你为什么要从地上拾起那支触感冰凉、不透明的乳浊玻璃酒瓶——在这个最关键的时刻？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "车库门外的尖声惊叫，刹车片和轮鼓间的摩擦，铅黄电影般的故事展开，显然都不如这酒瓶更令你印象深刻。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "看得出来，你是个有品位的家伙，知道在这个年头能搞到这东西不容易。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "但是你，为什么要盯着瓶底，还舔了舔嘴唇？告诉我，你不会也想来上一口吧？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "这可不是明智之选。这个玻璃制品使你看不清残液的色泽，很可能它并不是你想象中的冰白、啤酒、农家自制酒。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "它很可能，很可能只是一个魔精的鼻涕。尽管如此，你还是坚持要尝一口？"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "别扯那么多没用的，让我喝",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "每一只你遇到过的卡邦克鲁都会赞赏你的勇气。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "现在，你的喉咙淌过一点寒冷的液体。它流动的速度不快，很可能是因为它的浑浊。但口感远比你想象的要丝滑。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "接着，你的鼻腔升起淡淡的苦艾、麦芽糖、柠檬百里香和椰子糖的气味。这就像来自纽西兰的神秘学家送来的礼物一样美味可口。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "与此同时，心脏也变得膨胀，你感到你的气管里充满了灼热的力量。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "你的视野开始模糊。你隐隐约约看到瓶底粗糙的刻字：瓦尔登湖魔药酒吧。"
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "这***到底是什么！",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "这当然不是酒！因为酒是一个会被禁掉的神秘词语。但它能带给你更大的勇气，让你去面对接下来该死的生活。"
+                },
+                {
+                  "kind": "choice",
+                  "speaker": "",
+                  "text": "你又是谁？",
+                  "edge_label": "",
+                  "branch": [
+                    {
+                      "kind": "dialogue",
+                      "speaker": "？？？",
+                      "text": "我？我谁也不是。"
+                    },
+                    {
+                      "kind": "dialogue",
+                      "speaker": "？？？",
+                      "text": "但我也可以是任何人，一个醉醺醺的脏老头，一个破败旅馆的清洁工，一个两眼放光的基金经理，一颗旋转的可爱水晶骷髅头。"
+                    },
+                    {
+                      "kind": "dialogue",
+                      "speaker": "？？？",
+                      "text": "现在我是一个和你一样有品位的酒鬼。"
+                    },
+                    {
+                      "kind": "dialogue",
+                      "speaker": "？？？",
+                      "text": "而我们正式认识的那一天，很快就会到来。"
+                    },
+                    {
+                      "kind": "dialogue",
+                      "speaker": "？？？",
+                      "text": "现在，快抬起你沉重的屁股，继续你美妙的旅程吧。我会在任何时刻出现，任何一个你期望或不期望的时刻。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "我真不该点击这个瓶子",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "是的，决定点击只需要一个灵光而至的瞬间，而你却平白无故地忍受了那么多废话。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "真抱歉事情的展开不如你的预期。但好在你还保有一直引以为傲的理智。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "来，让我们把这个酒瓶放下。在十四行诗和飘逸的苹果注意到你异常的举动之前，你还有机会挽回自己的形象。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "跟我一起对他们说声“嗨”，假装你从来没有受到过酒瓶的诱惑。"
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "“嗨。”",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "噢，嗨！你今天过得怎么样？"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "哈哈哈哈哈，很好，现在我们每一个人都知道基金会的训导是多么有效了。好消息是，每个人都喜欢乖宝宝。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "和你相处真让人感到愉快。你可比你的……不，我不该继续说了。"
+                },
+                {
+                  "kind": "choice",
+                  "speaker": "",
+                  "text": "你到底是谁？",
+                  "edge_label": "",
+                  "branch": [
+                    {
+                      "kind": "dialogue",
+                      "speaker": "？？？",
+                      "text": "我？我谁也不是。"
+                    },
+                    {
+                      "kind": "dialogue",
+                      "speaker": "？？？",
+                      "text": "但我也可以是任何人，一个醉醺醺的脏老头，一个破败旅馆的清洁工，一个两眼放光的基金经理，一颗旋转的可爱水晶骷髅头。"
+                    },
+                    {
+                      "kind": "dialogue",
+                      "speaker": "？？？",
+                      "text": "现在我是一个和你一样友善的冒险者。"
+                    },
+                    {
+                      "kind": "dialogue",
+                      "speaker": "？？？",
+                      "text": "别担心，我们正式认识的那一天，很快就会到来。"
+                    },
+                    {
+                      "kind": "dialogue",
+                      "speaker": "？？？",
+                      "text": "现在，快抬起你沉重的屁股，继续你美妙的旅程吧。我会在任何时刻出现，任何一个你期望或不期望的时刻。"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "你确定他们真的能听到？",
+              "edge_label": "",
+              "branch": []
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "我真想查清楚你的成分！把所有的基因报告都发狂嚼碎吞咽到肚子里，好搞清楚你的理智究竟是从何而来！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "没有一个神秘学家会像你这样理智且克制，他们应该、他们应该……如果世界上真的有，那也是……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "而我又太了解你，太明白你了！就算是我也不能否认你身份的纯粹，我不能！"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "你到底是谁？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "我？我谁也不是。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "但我也可以是任何人，一个醉醺醺的脏老头，一个破败旅馆的清洁工，一个两眼放光的基金经理，一颗旋转的可爱水晶骷髅头。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "但现在我只是一个恶作剧失败的橡胶屁眼，气急败坏。我的愤怒甚至影响不了太平洋里的一棵水草。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "我期待我们正式认识的那一天。只有到了那一天……"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "现在，快抬起你沉重的屁股，继续你美妙的旅程吧。我会在任何时刻出现，任何一个你期望或不期望的时刻！"
+            }
+          ]
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 15108003,
+      "owner_episode_id": 1510101,
+      "trigger_episode_id": null,
+      "title": "一盒假票",
+      "description": "在贩卖假票这件事上，街头团伙之间仍有高下之分。",
+      "action": "交互",
+      "unlock_condition": "ChapterMapElement=15101010",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "一盒假票"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "假票收缴明细\n1991年1月17日\n桉树兄弟会 65张\n\n1991年1月19日\n机灵鬼 80张\n机灵鬼也太不用心了吧。把“内部票”直接印在票面上真的会有人信吗？而且，做工也很劣质。\n\n1991年1月21日\n小剪刀杰瑞 240张\n\n市面上流通的假票越来越多了，我只能尽力收缴，不让假票流到不知情的观众手中。\n帮派们已经盯上了我，下次行动得更低调些。"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "200501",
+      "internal_title": "【1.5】乌卢鲁运动会-1",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "答录机",
+          "text": "嗨，你好。这儿是沙丝绒的家。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "答录机",
+          "text": "我现在不在家，又或是没空接电话，如果你想联系我，请在“滴”声后留言。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "答录机",
+          "text": "嘿！还有二十分钟比赛就要开场了！你跑哪儿去了？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "答录机",
+          "text": "如果你不是死了，就快给我滚过来！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "答录机",
+          "text": "好吧，好吧，我知道你对运动没什么兴趣，但你起码真的很缺钱——不是吗？！不然你也不会来找我！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "房间中漆黑一片，厚遮光窗帘的那侧是一个漂亮的大晴天。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "沙丝绒",
+          "text": "呼……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "答录机",
+          "text": "如果你今天放我鸽子，我们两个就都完了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "沙丝绒",
+          "text": "呃……咳咳，吵死了……有什么事儿周四再说……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "答录机",
+          "text": "周四的比赛是最重要的比赛，我一定会因此被开除的——求你了，该死的……快点儿过来！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "沙丝绒",
+          "text": "周……四？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "鼓囊囊的被窝与床铺夹层之中，两足行走的动物将自己从梦境的泥潭中拔出。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "沙丝绒",
+          "text": "等等——周四？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "惊吓如同迎头而来的一盆冷水。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她错过得太多了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "“错过”是一件很容易的事情。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "……我们错过了正确的路口，这和地图上写的不一样。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "宽檐帽先生给我们的地图太老了，已经不能用了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "兔毛手袋",
+          "text": "很好。又一次。我们已经走错了……嗯，四次。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "兔毛手袋",
+          "text": "鉴于我短暂的生命需要为这个世界所有活物创造巨大价值——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "兔毛手袋",
+          "text": "圣洛夫应该为我找个更靠谱点的保镖，也让澳大利亚的接洽人准备一份更合理的地图！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "我就是那儿最好且唯一能保证你安全的“保镖”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "拉普拉斯很重视你，他们不想让你经历……任何危险。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "城市变化得很快，地图也一样。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "我们可以退回上一个路口，或者继续向前，300米后有一条小路，能够直达翻滚鳄书籍专卖店。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "你需要看看地图吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "兔毛手袋",
+          "text": "以科研者的身份出发，一个方法行不通，就换下一个——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "兔毛手袋",
+          "text": "噢，这不就来了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "打街拐角冒出头来的小姑娘被拦个正好。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "兔毛手袋",
+          "text": "嘿！等一下——可……燃点小姐，对吧？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "可燃点",
+          "text": "唔——嗯？你是谁？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "可燃点",
+          "text": "……我们——我们认识吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她的鼻尖有汗，两只脚依然保持着运动的姿态。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一枚写着名字的“好朋友徽章”别在她的胸前，她显然没意识到这一点。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "不，不认识",
+          "edge_label": "いいえ、知らない",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "维尔汀",
+              "text": "我们刚到达澳大利亚不久。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "兔毛手袋",
+              "text": "但我们已经迷失了很久-很久，太久了。久到对人类产生危害。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "兔毛手袋将手臂搭在女学生的肩膀上，轻微地摇动着她的身体。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "兔毛手袋",
+              "text": "而你，可以使用你生命中不值一提的几分钟或几小时为全人类带来帮助——带我们去找“翻滚鳄”。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "你知道翻滚鳄书籍专卖店吗？",
+          "edge_label": "デスロールワニ書籍専門店を\n知ってる？",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "维尔汀",
+              "text": "很抱歉打扰你，我们在找一家书店。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "维尔汀",
+              "text": "它的名字叫翻滚鳄，在招牌上悬挂着一只鳄鱼皮制的手鼓。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "兔毛手袋",
+              "text": "而其中，藏着我所需要的菌菇类魔药分析残本。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "兔毛手袋",
+              "text": "如果不是为了那个——没有人想来这么一大块儿空地上散步。更何况这里也没有飞盘。"
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "可燃点",
+          "text": "翻滚鳄？翻滚……啊！我在晨跑训练时会路过那间店！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "可燃点",
+          "text": "从这里向前走，绕过一家橘色招牌的咖啡馆，从右侧巷子进去就能找到它了！但得注意低头，那儿的招牌可容易撞到人的脑袋了——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "可燃点",
+          "text": "如果你们担心的话，我可以带着你们……啊！不好！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "“滴。滴滴。”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "可燃点",
+          "text": "我的热身时间快结束了！我得走啦，我的教练还等着我做挥拳训练呢——抱歉了，希望你们一切顺利！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "谢谢你……嗯？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "沙丝绒",
+          "text": "让开！让开！让出一条路来——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "可燃点",
+          "text": "不用谢，只是一点儿小忙！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "那模糊的声音逼近的同时，面前的年轻姑娘留下一声清脆的回答，继续踏上训练的路途。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "等等！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "拐角后面好像有个人——小心别撞——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "沙丝绒",
+          "text": "呃啊啊——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "可燃点",
+          "text": "救、救命啊……！呜哇！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "唔……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "可燃点",
+          "text": "……火？着……火了……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "意识不清，生命体征微弱……我们得把人带回拉普拉斯去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "可燃点",
+          "text": "我——呜……呃……"
+        },
+        {
+          "kind": "title_card",
+          "text": "卧室"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "可燃点",
+          "text": "我、我没事儿……！我不会有事儿的——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "可燃点",
+          "text": "呼……哈……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "辗转反侧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "可燃点",
+          "text": "我……到底是怎么了呀……难道我真的撞坏了身上的什么地方吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "可燃点",
+          "text": "虽然他们说我晕倒了，可我一点儿感觉都没有呀……除开衣服弄脏了之外，浑身上下也没有一个地方是痛的……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一遍又一遍，年轻的小姑娘把床单搅得像一团皱褶的纸巾。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "可燃点",
+          "text": "或许我需要更多冰水？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她灌下几口冰水。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "可燃点",
+          "text": "呜——不对，或许我需要一些热茶……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她又啜饮了几口烧得翻滚的红茶。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "可燃点",
+          "text": "呃……真讨厌，这一点儿用也没有！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "可燃点",
+          "text": "早知道我就该和那些奇怪的人一起去什么“拉普拉师”检查一下身体，我记得他们给我的名片还在……不，不对！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "可燃点",
+          "text": "我都那样拒绝过了，如果这时候去找他们……呃呜……这太丢人了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "可燃点",
+          "text": "而且——我撞到的是头，现在不舒服的却是胃，这一定只是……巧合而已。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "可燃点",
+          "text": "我——我很少吃垃圾食品，也一直不懈怠校队的训练，我了解我的身体，它健康！而且强韧！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "年轻姑娘甩了甩脑袋，自我安慰着从枕头下抽出一本相册。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "可燃点",
+          "text": "我已经吃了胃药了，只要休息一会儿，转移开我的注意力……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "硬纸壳向两侧摊开，有风从其中吹出。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "可燃点",
+          "text": "……呼，泥土与矿物的味道，还有炭火与金蒲桃的味道。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "可燃点",
+          "text": "总感觉闻到这股味道，就已经好受多了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "每个人都有自己的放松方式。可燃点也是。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她吮吸着相册中的微风，手指顺着相片的边缘抚摸。里头乘着扫帚飞在空中的神秘学家面颊绯红，正为自己的胜利高声欢呼。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "可燃点",
+          "text": "这是……我的第一张收藏。妈妈在我五岁生日时送给我的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "可燃点",
+          "text": "1884年的神秘学家中正流行越树跳高，那是所有乌卢鲁运动会中树木最多的一场。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "可燃点",
+          "text": "然后是1900年，圣洛夫基金会接手了乌卢鲁运动会。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "可燃点",
+          "text": "为了安全考虑，他们停止了三分之一的危险运动，并为留存的项目增添了许多规范。琼斯在这场比赛上拿下了第一名。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "可燃点",
+          "text": "然后是……1938年，圣洛夫基金会接手后最成功的一届“乌卢鲁运动会”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "可燃点",
+          "text": "几乎所有人都以为它将被复兴，重新回到大家眼前，直到……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "可燃点小声地叹息一声，不厚的相册已翻到了最底页。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "可燃点",
+          "text": "哪怕只去一分钟也行，我也想亲眼看看乌卢鲁运动场。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "可燃点",
+          "text": "就像……就像……就像我从前在里头主持开幕式时一样。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "可燃点",
+          "text": "那时候，我站在最高的高台上，用香膏浸染炙热的火焰，坐在红木树枝上推行木舟。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "可燃点",
+          "text": "而火焰与我争辩，我愤怒得浑身发抖，因为……因为她不讲道理，是一个讨厌鬼，紧接着，我的眼前只剩下漆黑——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "可燃点",
+          "text": "我？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "可燃点",
+          "text": "……我？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "可燃点不自觉地挠了挠胸口，紧接着是喉咙。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "可燃点",
+          "text": "我刚刚说了什么？那些东西怎么在我脑袋里——那是？幻想吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "可燃点",
+          "text": "我什么时候去过沙漠了？什么时候又——呜——咳咳咳……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一股瘙痒带着热度，从胃里爬上胸腔，正挤入喉管。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "就像是一只毛茸茸的鸟，正扑腾着被打湿的羽毛，拼了命地想从她身体中钻出来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "可燃点",
+          "text": "嗯……是药起作用了吗？感觉胃里已经好受多了，只是喉咙，好像……又烫又痒……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "可燃点",
+          "text": "呃——咳咳，呼——哈——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "可燃点",
+          "text": "咳咳——呃，呜呜……咔——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "可燃点",
+          "text": "哇呕——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "可燃点",
+          "text": "我……我妈妈……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "可燃点",
+          "text": "可从来都没和我说过……我我我们家有喷火红龙的血统呀……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "可燃点",
+          "text": "不——不、不不不……我现在就得去看医生！"
+        },
+        {
+          "kind": "title_card",
+          "text": "5#1"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

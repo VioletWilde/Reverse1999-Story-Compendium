@@ -1,0 +1,768 @@
+{
+  "episode_id": 10910,
+  "chapter_id": 109,
+  "chapter_title": "Folie et Déraison",
+  "display_label": "",
+  "title": "The Ant Mill",
+  "subtitle": "The truth is, no one can truly bend \"fate.\"",
+  "trails": [
+    {
+      "element_id": 1091001,
+      "owner_episode_id": 10910,
+      "trigger_episode_id": null,
+      "title": "Gamble of Fate",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=10910",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Few soldiers would appreciate the idea of taking orders from an accursed die. A skilled commander would never rely on luck to make decisions."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "On the battlefield, the distance for every maneuver should be clear and precise—not two numbers with a \"d\" in the middle—unless you're looking to invite a mutiny."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "That said, if a die with such power were placed in a soldier's hand ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "I'm pretty sure they'd roll it and let it decide their destiny."
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "Luck won't always be on your side.",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Exactly. There's no good luck without bad luck—just as a coin must have two sides. Luck essentially defines one's entire life."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "And whether it's make or break, life or death, the die will keep on rolling."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Of course, dice aren't the only tools used to \"play\" with fate—coins, lotteries, even shells on the beach can all serve the same purpose."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Thanks to the randomness of fate, a Babylonian may rise to be a proconsul one day and fall into slavery the next."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "Some tragedies could have been avoided.",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Well, that's where historians come in."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "With a little creative editing of the history books, even the random rolls of a die can suddenly make sense."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "What were once \"avoidable tragedies\" are rebranded as \"reasonable incidents\" or even \"desirable outcomes.\""
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "At least the roll of a die is impartial.",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Hmph, you're starting to sound like a gambler."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "But even gamblers, after hitting a hot streak—or a losing spell—start to convince themselves that they've figured out the grand pattern behind games of chance."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "It isn't just gamblers, either. Witches tried to influence fate through rituals and charms. Ancient mathematicians calculated probabilities on paper. Some even wrote books on game theory."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Meanwhile, others suspected there were cheaters among them."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "I just hope these high rollers unite to confront the demon who holds the laws of the universe—the past, present, and future—in its claws and give it a \"Well done!\" and a slap in the face."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "You're talking in circles today.",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Haven't I always? It's just that today, the die rolled a peculiar number."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "But all things considered, I prefer the other kind of commander."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "The die is cast. But regardless of what number has been rolled, it's time to cross the river."
+            }
+          ]
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1091002,
+      "owner_episode_id": 10910,
+      "trigger_episode_id": null,
+      "title": "Treatments, Entry 303",
+      "description": "The transformation of quantity into quality is the greatest realization of the Method of Exhaustion.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=10910",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "Treatments, Entry 303"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "December 1\nNumbers 704-733\nEach person is uniformly allocated 1 dose of chlorpromazine and 1 dose of thalidomide.\n\nDecember 3\nNumbers 704-710, 712-730, 732-733\nEach person is uniformly allocated 3 doses of chlorpromazine and 3 doses of thalidomide.\n\nDecember 7\nNumbers 706-708, 712-717, 722-730, 732\nEach person is uniformly allocated 6 doses of chlorpromazine and 11 doses of Veronal.\n\n..."
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100914",
+      "internal_title": "第九章9-10",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "The Ant Mill"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The cottage with the blue roof was silent as always."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "In a fleeting dream, the Paracausality Researcher uncovered the truth behind the Die of Babylon."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She carefully examined hidden patterns, much like an astute astrologer tracks the movements of the stars."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "What may seem like errors or accidents doesn't negate the verities of destiny. On the contrary, they affirm its very existence. Just ask the great Heraclitus!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "In an unobserved universe, the Die of Babylon spins in perpetuity, dictating the fate of all in time that is both infinitely long and infinitely short."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Look, she closed her eyes! She respected the randomness of numbers and destiny. She respected the Die's judgment."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Otherwise, she would have acquiescently lost herself in the gaps of time and wandered forever as a ghost in oblivion."
+        },
+        {
+          "kind": "title_card",
+          "text": "Hall of New Encounters"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "In the solemn prison hall, under the half-light of the next day, the prisoners of Comala gather."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Octavia steps onto the podium with a stern expression."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Octavia",
+          "text": "First, allow me to make one thing clear: I had absolutely nothing to do with what happened to the Idealist yesterday. I swear it on my career as a writer!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Octavia",
+          "text": "As you all know, the Idealist and I are the representatives of the two factions of La Sociedad de Poetas de las Américas. As you also know, we have been at peace since the Let Sleeping Dogs Lie agreement was signed a few months ago."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Octavia",
+          "text": "Despite our differing views, we have coexisted to this day under the watchful gaze of the central tower. Rest assured that we will work tirelessly to locate the missing Idealist."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Inmate III",
+          "text": "Don't put so much pressure on yourself, Ms. Octavia. His death wasn't your fault!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Inmate III",
+          "text": "After all, he was the one who threw the first verbal dagger!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The murmurs cascading below reach the ears of the prisoners from another faction."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Roberta",
+          "text": "Show some respect, you morons!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Roberta",
+          "text": "The Idealist is missing, not dead! I'm sure he'll show up in one piece before we know it!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Inmate III",
+          "text": "Better face the hard truth now, Roberta. Though I have to say, it won't be easy for you to find a new leader as mad as him!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A polite cough from the hostess pauses the heated debate."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Octavia",
+          "text": "Please, everyone, quiet down!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Octavia",
+          "text": "According to the agreement, today's congress should've been chaired by the Idealist. Since he is still missing, I will be acting on his—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Pardon my lateness. Go ahead. I'm ready to moderate."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Unfamiliar footsteps break the regular pattern of events. The jailer leads her visitors to the entrance of the prison hall."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Jailer",
+          "text": "Ms. Vertin, I looked over the incarceration and visitor records from the past six months."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Jailer",
+          "text": "There was no mention of anyone named Dores."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Then it seems only the Physician knows the whereabouts of Dr. Dores. Ms. Jailer, we need to meet with the Physician. It's important."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Jailer",
+          "text": "Listen, you really shouldn't take the inmates' ramblings too seriously."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Considering the identity of the person before her, the jailer softens her tone."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Jailer",
+          "text": "But, if it's as critical as you say, I'll make another request later."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Jailer",
+          "text": "That said, I'm afraid the meeting won't happen for at least a few days."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Understood."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Jailer",
+          "text": "For now, please join us for today's congress."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "Spectacular! Do you hold literary salons like this every day? This place is practically a writer's paradise."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "So, you're the host of the salon, Octavia?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "I say we set aside our differences and have a titillating literary discussion!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Octavia",
+          "text": "You've come at the right time. You may serve as witnesses for the congress alongside the jailer, like a citizens' jury in a court."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Jailer",
+          "text": "Your suggestion aligns with the congressional rules. Very well."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "Huh? Congress? Witnesses?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "Isn't this a salon? Which topic are we discussing? Literary theories, schools, principles, languages, oh, narrative perspectives?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Octavia",
+          "text": "None of those."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Octavia lowers her head, giving her questioner a long and deep look."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Octavia",
+          "text": "This congress is about the randomness of fate, Ms. Recoleta."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "Randomness of fate?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "As she sinks into confusion and bewilderment, the jailer's voice rises into a triumphant introduction."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Jailer",
+          "text": "Dear visitors from the Foundation, allow me to introduce the Comala Congress."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Jailer",
+          "text": "What happened yesterday was merely a brief anomaly. In the Panopticon, spontaneous order among the inmates is the norm, and the Comala Congress serves as its truest reflection."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Spontaneous order?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Jailer",
+          "text": "Yes. Through the congress, the inmates assign and distribute medication, communal duties, and rest periods. They are entirely self-regulated."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her tone is filled with pride."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Octavia",
+          "text": "I hereby announce the commencement of the seventh Comala Congress!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "As her words fall, Octavia takes out a worn lottery box and a small trinket from her hand. The prisoners move in perfect order like a swarm of ants."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "A cardboard box and—is that a paper die? Hmm. It has 20 sides."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "...?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Octavia",
+          "text": "We carefully examine hidden patterns, much like an astute astrologer tracks the movements of the stars."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "Isn't this ...?!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "From somewhere in the audience, the girl unconsciously mumbles a revelation."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "Isn't this just like the Die of Babylon?! The MacGuffin that weaves through the entire plot, the infinite symbiote of fate, and the symbol that compresses time into a shriveled circle?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Octavia",
+          "text": "What may seem like errors or accidents doesn't negate the verities of destiny. On the contrary, they affirm its very existence. Just ask the great Heraclitus!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Octavia",
+          "text": "In an unobserved universe, the Die spins in perpetuity ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "\"Dictating the fate of all in time that is both infinitely long and infinitely short\"?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "...?!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Inmates",
+          "text": "Look, I've closed my eyes! I respect the randomness of numbers and destiny. I respect the Die's judgment."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "As the prisoners recite their announcements, the author's voice becomes more and more sluggish."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "\"Otherwise, we will acquiescently lose ourselves in the gaps of time and wander forever as ghosts in oblivion.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "I-I don't understand what's going on."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "Oh, but the irony's that I probably have more idea what's going on than anyone here."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Ms. Recoleta, this is all in your novel, isn't it?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "I'm afraid so. The recitations, the references to an astrologer, and Heraclitus—they couldn't possibly be just a coincidence."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "Then, could it be? Will they look to the die to dictate their fate?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The girls' audible shock does not affect the proceedings on stage; the congress continues."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Octavia",
+          "text": "I shall perform the first roll. Its result will determine the subsequent roll order for this congress."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The hostess tosses the twenty-sided die into the cardboard box and begins shaking it rhythmically."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Octavia",
+          "text": "The result is 5. This check complies with the prerequisite conditions of the Ruling of the Die, and the standard roll order has been established."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Octavia",
+          "text": "Inmate José, please come forth."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Octavia",
+          "text": "You are the first in the initiative order. Therefore, fate's judgment shall fall upon you before all else."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Inmate III",
+          "text": "Me? O-Okay ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The prisoner steps forward, taking the fragile box in his hands, shaking it to roll the die of absurd fate inside."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The die stops, and just like that, a simple number decides his fate."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Inmate III",
+          "text": "17! It's 17! Ah, what a wonderful number, 17! Like an oasis in an endless desert!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Octavia",
+          "text": "The result is 17, and the score combination 6+4+4+3. According to the Ruling of the Die, he shall receive 60 risperidone tablets, 40 clozapine tablets, and 40 diazepam tablets. Additionally, he will assume the role of cultural manager of the Comala Congress."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Octavia",
+          "text": "Before he takes office, Inmate José must clean the first restroom for the next seven days."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Inmate III",
+          "text": "W-Wonderful! I'll gladly clean the toilet! I've got the brooms here, the toilet detergent, oh, and the toilet brush, too!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Inmate III",
+          "text": "I have been waiting for this opportunity! As cultural manager, I will speak with every inmate and complete the Comala Memoir, finally capturing the moments when literary sparks ignite and explode."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Octavia",
+          "text": "Next is Inmate Edoardo. Please come forth."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The man in question is a nervous mess. His gaze flickers, his eyebrows fight for space on his forehead, and his teeth clash against each other in turmoil."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Inmate IV",
+          "text": "B-But I can't remember the Ruling of the Die. I can't remember anything. Damn it!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Inmate IV",
+          "text": "Sorry, Ms. Octavia, but I-I don't think I can do this! I didn't get any medication in the last congress. I've had multiple episodes. It's like ... like my brain's jammed or something!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Octavia",
+          "text": "It's alright, Inmate Edoardo. It's easy. You don't need to know the rules to roll the Die. Give me your hand. I'll help you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The prisoner follows suit, hands trembling as he shakes the box—the only thing he can do."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Octavia",
+          "text": "My sincerest apologies, Inmate Edoardo. The Die dictates that you must voluntarily descend into the sewers and write the thematic keyword that currently causes you the most anxiety on the walls."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Inmate IV",
+          "text": "I ... Th-Thank you very much, Ms. Octavia."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Inmate IV",
+          "text": "Agh. I think my head's about to split in half. I ... I need a moment to rest before I head down there ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Inmate IV",
+          "text": "... and fulfill my destiny."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Clutching his head, the prisoner leaves. His steps heavy, his hands empty, but his brow finally falling at ease."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "Jailer, are you really letting them make every decision with the roll of a die?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "Edoardo is clearly in a much more dire condition than José. The medication should've been given to him!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Jailer",
+          "text": "As I said, this is how the inmates of the Panopticon maintain order. The Physician periodically provides medication, food, and other necessities, and the inmates distribute them in this spontaneous and efficient manner."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Jailer",
+          "text": "Neither authority nor violence is involved in this process. This is what sets Comala apart from all other custodial facilities."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "Is that it? You abdicate all agency to the roll of a paper die and call it the \"randomness of fate\"? What kind of sick joke is this?!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Jailer",
+          "text": "Please calm down, Recoleta. This is the method that the inmates have collectively decided to recognize. They're prepared to face the possible sacrifices that it brings."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Jailer",
+          "text": "This isn't about you or me. It's not our place to interfere with a procedure that has been proven both pragmatic and effective."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Jailer",
+          "text": "My duty is to assist the inmates in maintaining order through the methods that they have established, and yours is to witness their self-governance, not judge it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The jailer takes a deep breath. Her words clearly meant to convince herself as much as anyone listening."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "If everything somehow unfolds as it does in my novel, then every roll is already predetermined."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "Vertin, do you remember the story I told you last night? The odds of both success and failure were consecutively multiplied."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "I remember."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "As soon as a character experiences a failure, they continue to suffer failures in an endless chain reaction."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "None of Edoardo's future dice rolls will ever result in a number higher than 10."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "At this rate, this system ... this Sociedad ruled by the Dice of Babylon, is bound to collapse."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She looks around, realizing that her words—weighty as they seem to her—have garnered no attention."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "Edoardo will never receive any medication."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "The moment he writes the keyword on the wall could very well be the moment he spells out his own death!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "No, I can't let this happen. I have to do something!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Recoleta rushes to the stage."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Jailer",
+          "text": "Wait, Ms. Recoleta! What are you doing?"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

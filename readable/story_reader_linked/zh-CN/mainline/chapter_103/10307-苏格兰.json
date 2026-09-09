@@ -1,0 +1,487 @@
+{
+  "episode_id": 10307,
+  "chapter_id": 103,
+  "chapter_title": "故事一无所有",
+  "display_label": "",
+  "title": "苏格兰",
+  "subtitle": "油脂、淀粉、肉类，我们都喜欢的炸鱼薯条。",
+  "trails": [
+    {
+      "element_id": 1030701,
+      "owner_episode_id": 10307,
+      "trigger_episode_id": null,
+      "title": "小径① 浑圆强盗",
+      "description": "食物的诱惑总是难以抵挡，它们也知晓炸鱼与薯条的美味。",
+      "action": "教学记录",
+      "unlock_condition": "EpisodeFinish=10307",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1030702,
+      "owner_episode_id": 10307,
+      "trigger_episode_id": null,
+      "title": "厨房的炸鱼薯条",
+      "description": "教员食堂是饱腹的最优选，目前距离炸鱼薯条还有一份信息的距离。",
+      "action": "信息收集",
+      "unlock_condition": "ChapterMapElement=1030701",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100308",
+      "internal_title": "第三章3-7",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "苏格兰"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "呼呼……总算把它们都赶到角落里去了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "“咕——”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "有点饿了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "对了。看看这个挂锁是什么材质，能不能防住沙米尔的啃噬……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "对着光线一照。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "普通的金属。常见的铁锁。锁梁处生了点点锈迹。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "原来如此。食物充足的沙米尔，并不会注意到高空的铁制品。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "嘿嘿，该试试全新的菜单了，老绅士们。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "将铁门关上。蹑手蹑脚地穿过走廊，这里一片漆黑。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "走廊两侧各有两间禁闭室。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "穿过这些房间，就能到达大门。那里没有额外的门锁。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "噗嘶，噗嘶……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一个灰色眼睛的男孩从门窗上探出了头。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "……你是谁？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“圈环”",
+          "text": "“圈环”。我能用圈环勾住任何东西。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“圈环”",
+          "text": "看！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他丢出一个指环大小的铁圈。铁圈滚了过来，系住了脚下松垮的鞋带。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "真厉害！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“圈环”",
+          "text": "你是不是能把门打开？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "是的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“圈环”",
+          "text": "能帮帮我吗？我发誓会为你效劳。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "怎么帮？",
+          "edge_label": "How?",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "“圈环”",
+              "text": "再施展一次你的特别能力，把我的门锁打开……"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "维尔汀",
+              "text": "然后你出来，头也不回地离开？"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "“圈环”",
+              "text": "当然！我可不想再回到这里。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "维尔汀",
+              "text": "那不行。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "没门，兄弟",
+          "edge_label": "No way, mate. ",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "“圈环”",
+              "text": "行吧。我还以为我们是一条船上的。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "维尔汀",
+              "text": "如果我放了你出去，你还会回来吗？"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "“圈环”",
+              "text": "当然不会！没有人想在这里多待一分钟。"
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "如果你不在禁闭室，教员会给我们更严厉的惩罚。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "我只是出去找点吃的。我还会回来的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“圈环”",
+          "text": "…………"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "你想来点什么？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“圈环”",
+          "text": "……炸鱼薯条。可以的话，加点洋葱醋。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "没问题。我会连豌豆泥也一起带来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "三小时后"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“圈环”",
+          "text": "所以你是打败了沙米尔才跑出来的？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "是的。你这里呢？有什么奇怪的东西吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“圈环”",
+          "text": "没什么特别的，这房间里只有几只臭老鼠，很快就被我搞定了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他不以为然地耸了耸肩，大口吃起了炸鱼。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“圈环”",
+          "text": "嚼嚼～教员食堂的炸鱼薯条真不赖……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“圈环”",
+          "text": "二号食堂就差远了！老是忘记搭配酱料，甚至炸的都不是鳕鱼！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“圈环”",
+          "text": "唔……嚼嚼……说起来，你为什么会被关进来？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "……我说了“那个词”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“圈环”",
+          "text": "哪个词？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "“那个词”。我在巡礼动员大会上说了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“圈环”",
+          "text": "你是说，那个“S”开头的词吗？你在动员大会上说出来了？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“圈环”",
+          "text": "哈哈哈哈哈哈……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“圈环”",
+          "text": "你竟然……哈哈哈……校长的鼻子肯定都气歪了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "我不明白……他明明说什么问题都可以问的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“圈环”",
+          "text": "你是从哪里知道“那个词”的？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "从我们宿舍的保洁员嘴里，那是他说的最后一句话。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "我看到他被人押送到了校门外，上了一辆铁皮车。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "他一路上都在喊：“暴雨要来了”、“暴雨要来了”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "呃，我说出来了——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "……糟了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“圈环”",
+          "text": "别管这个了，你继续说。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "……我问了很多人，但没有人理我。莫里斯大叔说保洁员在不适宜的时候离开了学校，看到了不该看的东西，要送去治疗。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“圈环”",
+          "text": "我猜的果然没错。学校在封锁消息。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "什么意思？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“圈环”",
+          "text": "你看这个。这是我从教员办公室里拿到的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "《“暴雨”将改变世界：基金会掩盖真相》？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“圈环”",
+          "text": "是的。报纸上说外面出现了一个叫“暴雨”的气象，会危及所有人的生命。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“圈环”",
+          "text": "而基金会在隐瞒事实。我们都不被允许说“那个词”，就是证据。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "报纸的质感很柔软。文章的部分字迹印出了重影。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "它上面也没有说清楚“那个词”到底是什么。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "文章末尾印了一行标粗的小字……“欢迎加入重塑之手”？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "什么是重塑之手？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“圈环”",
+          "text": "不知道，我从没听说过。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "背面也印了一些东西。嗯，我来看看……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "欢欣，平安，或是声名，康健"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "又及敬佩与尊严，技巧同孔武"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "都不关照顺意而又盲从的牧群；"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“圈环”",
+          "text": "启明的星，闪烁不见他们双眼，\n               古旧的迹，遍满布羞耻的荫蔽，\n               明镜不映诗歌，盲目高呼礼赞，\n\n           千百万潮水，皆遵循潮汐奔流\n               以亵渎不洁的姿态，玷污天幕。\n               以荒蛮祸乱的行迹，吞没学识。\n\n               那牧鞭与其谦卑羔羊算得什么？\n            人，要想成为人，须主宰自身\n           上建立的王廷，以自我所克制\n            的意识，平定他的渴求与惧怕\n               蛊惑，完全地成为他自己本人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "…………"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "………………"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "夜晚很平静。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "只是，骚动不再蛰伏于黑暗。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "“吱吱——”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“圈环”",
+          "text": "怎么回事！薯条的香味把另一群硕鼠引来了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“圈环”",
+          "text": "维尔汀？维尔汀！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“圈环”",
+          "text": "你怎么愣在那儿了？快过来帮忙！"
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

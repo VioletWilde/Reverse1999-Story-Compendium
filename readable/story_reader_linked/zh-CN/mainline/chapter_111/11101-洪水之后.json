@@ -1,0 +1,902 @@
+{
+  "episode_id": 11101,
+  "chapter_id": 111,
+  "chapter_title": "行于漫漫长路上",
+  "display_label": "",
+  "title": "洪水之后",
+  "subtitle": "时代已被卷入无端的洪流。",
+  "trails": [
+    {
+      "element_id": 111001,
+      "owner_episode_id": 11101,
+      "trigger_episode_id": null,
+      "title": "又一场战争",
+      "description": "",
+      "action": "残篇阅读",
+      "unlock_condition": "EpisodeFinish=11101",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "您好，请问您来到只有灰烬的破屋要做什么？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "这里没有学校或是游乐场，像您这样打扮体面的人不该在这里。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "我不认识你",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "我不是什么名人，一个擅自出现在我面前的人应该不认识我。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "而且您没有必要知道我是谁。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "我对出名没有任何兴趣，名声只会让我被更多的人骚扰。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "那么我们达成了共识。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "我也不喜欢这满是铁锈味和焦臭的环境。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "哪怕一条蛆虫都会为了爬出这里而产生斗志。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "可惜，现在全世界都没有好日子过，害得我无处可去，必须得忍受这片废墟。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "而您恐怕也得和我一起忍受，真是可悲。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "跑到世界的尽头打了一场不知所谓的仗，战利品却只有一台破烂纺车。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "然后呢？他们收走了那辆纺车，和那个半死不活的人一起，再把您送到下一个战场。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "我衷心希望那辆纺车中有着拯救全世界的线索，也许一个停战布告，或者别的什么。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "那样您就可以赶在战死前去找另一份工作，也许做个钟表匠之类的。"
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "战争会结束的",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "我暂时没话想说了，可以请您让我一个人待一会么？"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "没有茶和点心给任何客人，我已经想不起那些东西的味道了。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "您就随便享受下战争吧。反正这场结束之后还会有下一场，务必不要吝惜，去吧。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "我暂时没话想说了，可以请您让我一个人待一会么？"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "没有茶和点心给任何客人，我已经想不起那些东西的味道了。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "您就随便享受下战争吧。反正这场结束之后还会有下一场，务必不要吝惜，去吧。"
+                }
+              ]
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "我有我的目的",
+              "edge_label": "",
+              "branch": []
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "这里确实没什么好风景",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "101101",
+      "internal_title": "第十一章11-01",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "行于漫漫长路上"
+        },
+        {
+          "kind": "title_card",
+          "text": "洪水之后"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "生活与想象力有关。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "我们出生、学习、成长，成为他人的友伴与爱人，铭记令祖辈骄傲的故事。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "带着这些旧日的一切，我们被抛向一个新的时代。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他们说，这是一个“伟大的时代”，是历史赐予一代人的成年礼——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "结伴而行的冒险，互相鼓励的热忱；载誉而归的欢喜，流传子孙的传奇……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "——这是原本存在于我们想象中的事物。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "可战争撕碎了我们的想象力。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "那些年轻的，尚未成长的人，永远见不到本该属于他们的未来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "而那些有幸存活下来的人，成为了难以想象的东西——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "麻木。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "残忍。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "堕落。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "……在地狱中求生的魔鬼。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "无数次，我自问——我会做出怎样的选择？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "是想被人铭记为英雄，还是……成为一场永恒灾难的牺牲品？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "可在我见过太多次毫无价值的死亡之后，我知道——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "我没有选择。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "你看见了什么？"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "冰",
+          "edge_label": "아주 거대한 빙산",
+          "branch": []
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "冰山",
+          "edge_label": "아주 거대한 빙산",
+          "branch": []
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "巨大无朋的冰山",
+          "edge_label": "아주 거대한 빙산",
+          "branch": []
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "还有什么？"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "水",
+          "edge_label": "시대를 침몰시키는 홍수",
+          "branch": []
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "洪水",
+          "edge_label": "시대를 침몰시키는 홍수",
+          "branch": []
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "淹没时代的洪水",
+          "edge_label": "시대를 침몰시키는 홍수",
+          "branch": []
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "时代消失了吗？"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "没有……",
+          "edge_label": "아니!",
+          "branch": []
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "没有",
+          "edge_label": "아니!",
+          "branch": []
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "没有！",
+          "edge_label": "아니!",
+          "branch": []
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "那么，我们来到了哪一个时代？"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "1920年……",
+          "edge_label": "1920년!",
+          "branch": []
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "1920年",
+          "edge_label": "1920년!",
+          "branch": []
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "1920年！",
+          "edge_label": "1920년!",
+          "branch": []
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "潜意识领域稳定……未检测到侵入性幻觉……认知-现实匹配度良好……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "……苏醒……"
+        },
+        {
+          "kind": "title_card",
+          "text": "康复中心病房"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小梅斯梅尔",
+          "text": "最后一个问题——这是什么？"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "动物",
+          "edge_label": "동물",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "维尔汀",
+              "text": "大象。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "提问者在意料之外的耿直面前沉默了一会儿。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "小梅斯梅尔",
+              "text": "答对了，很欣慰你没有给我奇怪的答案。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "怪物",
+          "edge_label": "괴물",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "维尔汀",
+              "text": "它有很多头，很多肢体，以怪异的方式生长，如同奇异扭曲的橡树。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "维尔汀",
+              "text": "它是一只奇美拉。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "小梅斯梅尔",
+              "text": "……我认为是你的视觉出现了重影。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "小梅斯梅尔",
+              "text": "但精神应该没有问题。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "死亡的阴影",
+          "edge_label": "죽음의 그림자",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "维尔汀",
+              "text": "死亡的阴影，无可辨析的恶魔。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "维尔汀",
+              "text": "它像是要撕碎一切理性与光明，未来在它面前黯淡无光。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "小梅斯梅尔",
+              "text": "我讨厌你不合时宜的幽默感，维尔汀。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "维尔汀",
+              "text": "好的。它是一只大象。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "小梅斯梅尔",
+              "text": "……至少你的精神没有问题。"
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "这感觉不像过去的人工梦游。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小梅斯梅尔",
+          "text": "从南极归来的行动人员都要接受特殊的精神检测流程。顺带一说，我并没有参与开发。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "人工梦游治疗师将所有仪器关闭，焦躁的电流嗡鸣声忽然消失不见。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小梅斯梅尔",
+          "text": "按照病情来看，你不应该在我这里待这么久，但我需要按照规范完成诊疗程序。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小梅斯梅尔",
+          "text": "无论南极的冰盖下藏着什么东西，它都显然没有对你的神智造成任何损害。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小梅斯梅尔",
+          "text": "很多人没有这么幸运——他们受到的精神创伤虽然不致命，但也会影响日常生活的便利。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "诺谛卡和“无名者”小姐怎么样了？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小梅斯梅尔",
+          "text": "我无权得知“无名者”的情况，对她的收容和诊疗是其他专门机构的职责。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小梅斯梅尔",
+          "text": "至于诺谛卡……她很健康。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "小梅斯梅尔用简单的词语下达判断。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "科算中心为她提供了足够的活动空间吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小梅斯梅尔",
+          "text": "阿德勒先生为她临时腾出了一间阶梯式报告厅，不算舒适，也不会很拥挤。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小梅斯梅尔",
+          "text": "不过现在她身边围绕着一大群神秘生物学家、古代传说痴狂者与疯疯癫癫的仪式学家。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小梅斯梅尔",
+          "text": "他们都希望从诺谛卡身上得知有关南极神话的蛛丝马迹。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小梅斯梅尔",
+          "text": "如果你关心她，不需要来问我，你有权直接与诺谛卡接触。\n事实上，她一直在询问你的情况。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "治疗师移开视线，就此问题不愿再聊。她开始按照规范收拾病房。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "轻细的叩门声驱散了病房空气中漂浮着的那一丝尴尬。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "司辰？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小梅斯梅尔",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "进来吧，十四行诗。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "属于第一助手的橘色出现在被灰白色统治的病房内。\n她首先礼貌地看向另一位昔日同窗。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "小梅斯梅尔，司辰的状况还好吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小梅斯梅尔",
+          "text": "她很好，不需要再待在我这里了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "好的，我们很快就离开。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "十四行诗回忆起今日的行程。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "司辰，Z女士说你之前委托的“暴雨”时代调查已经有了结果。她正在副会长的办公室等你。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "我们现在就去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小梅斯梅尔",
+          "text": "那么——再见，二位。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "小梅斯梅尔送走客人，留在病房内做最后的收尾工作。"
+        },
+        {
+          "kind": "title_card",
+          "text": "基金会走廊"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "刚刚过去的第十次“暴雨”仍在基金会内部传递余震。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "即使已经习惯了时代的更迭，但此时在几何形构筑的走廊内穿梭的职员们仍然显得有些慌乱。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "……看起来大家的情绪仍然相当不安。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "这一次的“回溯”与所有人的设想都略有不同。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "走吧，Z女士应该准备了更准确的消息。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "基金会委员",
+          "text": "……那就不用再浪费时间了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "……？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一名委员从办公室中疾步走出。相比整洁体面的制服，他的面孔已经变得面目全非。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "另一人竭尽所能地克制着步伐，从门后追出来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "佩德拉",
+          "text": "伊里内伊，我以为你已经与我们达成了一致。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "然而，他要追逐的对象早已走到道路另一头的分岔路口。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊里内伊",
+          "text": "是的，我说过——我同意会议的决策。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊里内伊",
+          "text": "如果你们觉得在这个时代可以放着重塑之手不管，那么你们就放手去做吧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "佩德拉",
+          "text": "恢复这个时代的和平与秩序是当务之急，你应该充分理解——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊里内伊",
+          "text": "我们处在一场比你想象得更宏大的战争之中，和平主义者。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "佩德拉",
+          "text": "和平主义者……你在暗示什么？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "伊里内伊没有作答，他拐向左边的岔路，隐没了身形。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "佩德拉",
+          "text": "……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "“和平主义”委员放弃了追逐，走另一条的岔路离开了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "……？他们刚刚出来的房间……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "没错，是副会长的办公室。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "客人走了，我们进去吧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "……好的。"
+        },
+        {
+          "kind": "title_card",
+          "text": "副会长办公室"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "办公室的主人不见踪影，只有她的幕僚长在室内等候。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "时间正好，司辰，十四行诗。\n康复中心告诉我不需要为你们的健康担心，很高兴能亲眼验证这一点。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她放下一沓散乱的文件。显然，一场激烈的争吵在此处留下了不少混乱。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "Z女士，我在门口遇见了伊里内伊和佩德拉。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "我们暂时不讨论他们的问题。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "好的。你说关于“暴雨”时代的调查已经有了结果？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "没错，根据委外合约小队与各地调查员汇总的情报，我们验证了你的猜想——历史出现了错谬。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "……第十次“暴雨”把我们带到了一个错误的1920年，在外部，一场本不应存在的战争正在肆虐。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "能确定错谬发生的原因吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "我得知科算中心对历史错谬发生的诱因有两个推测。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "第一种观点认为，南极的仪式虽然未能完全成功，但它引发的“洪水”仍然导致“暴雨”的性质发生了改变。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "在新的“暴雨”之下，时代状况会与真实历史记载产生更大的偏差——这算是较为乐观的推测。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "比较悲观的推测则认为，阿尔卡纳经过“复活”这一神秘学机制，获得了通过“暴雨”影响历史进程的力量。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "如果真是这样，那我们此刻身处的时代，还有这场战争……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "——很可能就是阿尔卡纳意志之下的产物，重塑之手或许想利用战争带来的混乱。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "庄重肃穆的房间迎来了它的主人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "我们很久没有在这里见过面了，司辰。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "嗯，这里一点变化也没有。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "呵呵……恰好你在这里，佩德拉和伊里内伊也不在场，我可以向你补充一些新消息。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "外部的战争正处在末期，虽然军事行动仍在继续，但交战国之间已经有了较高的停火意愿。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "联合委员会已经决定以调停人的身份介入交战国之间的谈判——维护和平永远是基金会的第一诉求。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "另外，稳定的外部局势更有利于我们与重塑之手对抗。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "那谈判有进展了吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "对此细节问题，幕僚长代为作答。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "各个分部的负责人已经为我们搭建起了沟通渠道，并确定了部分共识性条款。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "佩德拉将代表基金会抵达前线与各国军事长官会晤，争取在这个月内先达成一份前线停火协定。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "如果一切顺利，今年结束前就有望达成最终的和平。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "现在，是时候提出一直萦绕在脑中的疑问。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "我听见伊里内伊把佩德拉说成“和平主义者”，这个词是在针对和平政策？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "……准确来说，是在针对以外交手段维护和平的方式。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "为什么？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "伊里内伊和他的追随者认为，在以武力手段消灭重塑之手前，维护和平的尝试必然失败。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "他们希望基金会立刻进入备战状态。"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

@@ -1,0 +1,739 @@
+{
+  "episode_id": 11103,
+  "chapter_id": 111,
+  "chapter_title": "行于漫漫长路上",
+  "display_label": "",
+  "title": "Battle of the Birds",
+  "subtitle": "Those who claim the pen is mightier than the sword rarely seem to live by their words.",
+  "trails": [
+    {
+      "element_id": 111003,
+      "owner_episode_id": 11103,
+      "trigger_episode_id": null,
+      "title": "Background Check",
+      "description": "Before assigning crucial tasks to your subordinates, it is essential to do thorough background checks.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=11103",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "\"XII\" Squad Roster (Copy)"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Paravyan​​ - \"Beagle\"\nAge: 19\nRace: Human\nBackground: Graduated from Zeno Arms Academy, served as a Vigil Officer within the Vigiles Bureau under the direct command of Creius, and contributed to the resolution of multiple critical cases. Later transferred to \"XII\" Squad.\nThe most devoted member of Creius's circle. He combines passion and bravery with a concerning level of idealism. This squad's morale would undoubtedly suffer if that loyalty were betrayed.\n\nYermolai​​ - \"Hound\"\nAge: 37\nRace: Human\nBackground: Civilian, previously brought into Vigiles Bureau via Creius's personal recommendation, served as a Vigil Officer and participated in several classified operations. Later transferred to \"XII\" Squad.\nHe has an extensive criminal background. It's no surprise that Creius keeps him on a tight leash. I wouldn't want to be the one who decided on his callsign.\n\nMerel - \"Blackbird\"\nAge: 16\nRace: Arcanist\nBackground: A \"Storm\" orphan taken in by the Foundation, educated at SPDM, and upon graduation, invited by Creius to intern at Vigiles Bureau. Later transferred to \"XII\" Squad.\nSPDM? He's never had much patience for rule-followers. Seems even Creius knows \"XII\" needs arcane talents. Though judging by her grades ... his standards aren't exactly demanding.\n\nP.S. Leave a few recruitment slots open for \"XII.\""
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1110031,
+      "owner_episode_id": 11103,
+      "trigger_episode_id": null,
+      "title": "Flexible Review",
+      "description": "There is room for flexibility when conducting reviews.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=11103",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "Internal Review Report​​"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Lieutenant Lilya's escape during the São Paulo incident was facilitated by Moldir, a key figure among the rebel forces.\n* For full details, see the appendix containing the report submitted by Lieutenant Lilya.\n...\n\nFollowing the completion of Zeno Arms Academy's internal restructuring, we have initiated a thorough review of its special personnel to clarify the circumstances surrounding the rebellion and to prevent other \"incidents.\" Under these circumstances, it is advised that Lieutenant Lilya remain at Foundation headquarters for further investigation rather than joining Team Timekeeper's Australian deployment.\n...\n* This month's interrogation transcripts are included as attachments.\n\nThis month's interrogations show Lieutenant Lilya's growing impatience with the process, though she continues to provide necessary cooperation. When comparing statements from Zeno's special personnel files with the interrogation records, there are still multiple inconsistencies that require further verification.\n...\n* This month's interrogation transcripts are included as attachments.\n\nConclusion: No further action recommended on Lieutenant Lilya's file.\nSummary: None.\n\n------------------------------------------------------------------\n\nThis review has been terminated unexpectedly, and I must emphasize that no additional explanations will be provided regarding this decision. I append this note solely to remind all reviewing officers that our responsibility ends with following the directives—nothing else matters.\nYour dedication during this two-month process is appreciated. This document will be securely disposed of following initial internal distribution."
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "101104",
+      "internal_title": "第十一章11-03",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "Battle of the Birds"
+        },
+        {
+          "kind": "title_card",
+          "text": "Preparation Area"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Are you sure you won't come with me, Captain?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "After a long rest, Lilya readies up for her next mission."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Admiral Somme assigned this mission to you personally, not the whole team. Besides, Madam Z asked me to stay in the headquarters."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "*sigh* Isn't it going to be boring waiting around here? The Storm Reformation directives said Team Timekeeper isn't subject to the Foundation's orders. We can go wherever we want."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Yet it also says the Timekeeper is still bound by Madam Z's orders, Lilya."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Ugh, soooo frustrating."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Reality slams up against her freedom-loving impulses."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "I thought I'd finally be able to show you what things are really like out on the steppe. It's going to be a view to remember."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "We'll have other chances."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Yeah. I suppose a view like that doesn't change much no matter what era it is. Anyway, any idea when they're going to set you loose again?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "I think it will have to wait until after the tension clears."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "What are you talking about?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Haven't you heard about the Doves and the Hawks?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "We got birds now? Nah. I just got back from vacation."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Let me guess, same thing as ever: politics. Go on, just tell me enough so I know who to blast if someone kidnaps Vertin again."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Simply put, the Committee has split into two factions on the Foundation's course of action: the Doves and the Hawks."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "The Doves insist on seeking peace through diplomacy, hoping to secure advantages in the post-war political landscape."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Uh-huh, and the Hawks?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "They believe that the governments we're dealing with have been infiltrated too deeply by Manus Vindictae, so diplomacy is off the table."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "They want to take more direct action, by arresting any high-ranking military and political figures suspected of collaborating with the Manus."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Really? I would have never thought we'd do something like that. Efficient, the kind of plan I like, but also like it could be the mother of all messes."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Precisely. That's why the Doves prevailed, at least for now."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Lilya shakes her head. She's had enough of politics for one day."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Complicated. So, what side you on, Captain?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "I'm not on any side."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Departure time. She mounts her Su-01ве."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "No matter then. I am on your side."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "See you later!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "With a sharp roar, the flying broom shoots out a blast of air, and soon enough the seasoned pilot vanishes into the clouds."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Constantine",
+          "text": "People are dying out there. We have to reduce the number of decision-makers. We can't afford any delays."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Constantine",
+          "text": "I need all the faction leaders to reach an agreement before the Committee meeting starts."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "That's why Pedra and Irinei were here."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Constantine",
+          "text": "Yes. It was not an easy task to persuade Irinei, but we did it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Good. But I'm not on either side. It seems like there's no need for me to stay. Why are you keeping me around?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Constantine",
+          "text": "I have my reasons, as I'm sure you expect."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Constantine",
+          "text": "The Storm Reformation Act won't keep you and your team secure forever, Vertin. The final result of this meeting, whatever it is, will change many things."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Constantine",
+          "text": "That may mean more latitude and resources for your team. Then again, it could mean the exact opposite."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Constantine",
+          "text": "Anyway, if you intend to seize anything from this opportunity, you'll need to stay until the meeting's over."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Time to go, Sonetto."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Quite the take-off. That must've been Lieutenant Lilya, wasn't it?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "...?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She turns, and a red-haired man enters the frame."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Creius",
+          "text": "Have I got it right, Timekeeper?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "You have."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "You must be Mr. Creius, the captain of the \"XII.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Creius",
+          "text": "Seems you're already acquainted then."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "I've read the report on the Antarctic operation; your name was mentioned."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Creius nods to Sonetto in thanks before adopting a more guarded expression."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Creius",
+          "text": "I've been reading up on you. Just a few choice selections from your after-action reports before our Antarctic expedition."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Creius",
+          "text": "Seems we have you and your team to thank for thwarting many a wicked scheme hatched by Manus Vindictae in previous \"Storms.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Creius",
+          "text": "Shame we couldn't put a stop to Arcana's revival too. Now look at the dog's breakfast of an era we stepped into ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "\"beep—beep—\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A communication request comes through at that exact moment."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Creius is about to speak again but lets it go."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Creius",
+          "text": "I do hope we'll have the chance to cooperate more closely in the future. Feel free to call on me if you find yourself in need, Timekeeper."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Thank you, Mr. Creius. I'm afraid further introductions will have to wait; we're called elsewhere."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The brief encounter ends."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Creius remains where he is, pressing his communicator."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Creius",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Creius",
+          "text": "Speak."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "I passed along our intel about Manus Vindictae's possible infiltration of the safe zone; anyone's guess if they're gonna do a damned thing about it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "And Marsha was seen leaving the safe zone with an odd-looking German soldier."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Creius",
+          "text": "Any idea where she's heading?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "I kept my distance. Didn't wanna risk exposure."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Creius",
+          "text": "Should I have any concerns about it?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Whatever he is, I don't get the impression he's with the Manus."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "He came up from the lines, started a conversation, and just like that, they started walking away."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "You're jumping at shadows, Creius. Ever since Antarctica, it seems like you've been imagining phantom oil stains on everyone we meet."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He leaves the remarks unanswered. On the other end is a clear directive."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Creius",
+          "text": "All the same, keep an eye on her."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "And take my eyes off the town? What about searching for those infiltrators?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Creius",
+          "text": "The Foundation has enough security on-site to keep things in check."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Yeah, right, let's just hope those hay-for-brains can do their job. Haven't Merel and Paravyan been transferred to HQ?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Creius",
+          "text": "I hope you weren't expecting a hand. I need them for my field mission as soon as our application is approved."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Hah, still waiting for that—they haven't learned to trust you yet?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Creius",
+          "text": "Focus on your mission, Yermolai."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "\"Not many of us have any real idea what it's like to view the trenches from above. But in my haunted dreams and flashes of imagination, I picture them as claw marks.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "\"I keep returning to that thought over and over again: the image of some terrible monster ripping the earth apart with its claws, then we hide, trembling like maggots in the wounds it leaves behind.\""
+        },
+        {
+          "kind": "title_card",
+          "text": "Graveyard"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "Here."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Charon stops, staring out over the woods, only just beginning to advance on a slope that bears the scars of trench work and artillery."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Charon",
+          "text": "It is quiet enough, but the dead may come to outnumber the empty lodgings below."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "I wouldn't have thought the dead mind having neighbors. The real trouble is how far it is from the clinic."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He lets his gaze drift from the hills to Marsha, settling on her armor."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Charon",
+          "text": "There is something about you—a contradiction lying under cloth and steel."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "I know what you want to ask. Yes, I was a knight once."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She preempts the question, one she's learned to expect."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Charon",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "Like other arcanists, I was enlisted in a special unit and sent to the front as soon as the war started."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "This armor is only a habit. I'm a medic now."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "It's not much for protection; modern bullets go through steel this thin like paper. But I want to remember."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Charon",
+          "text": "Only in death does duty end. Yet, you live again with the Foundation."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "Another of your questions? This time I won't give you an answer."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He stumbles at her retort, like a clumsy soldier stuck in mud."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Charon",
+          "text": "There was no ill intent. The ways of this war do not fall upon your shoulders."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Charon",
+          "text": "Our path is not chosen, nor can it be escaped. The end to our war is found in the grave."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "I know."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "Death shouldn't be the only way a soldier like you can find peace."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Marsha glances back. The view of Montpaix is blocked by a dense forest."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "I'm needed back at the clinic."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Charon",
+          "text": "And there is work to be done here."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Charon",
+          "text": "Please hear this apology. You have chosen a noble path."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Inside the safe zone, the first round of talks has concluded."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Colonel Hirschfelder exits the building draped in Foundation banners. Adjutant officers flank him tightly, like remoras swimming beside a shark."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Colonel",
+          "text": "This meeting is over."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "His aide drapes a coat over his shoulders. The colonel's mood is sour. His eagerness to end the talks is obvious."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Commissioner Pedra follows at a respectful distance, maintaining proper decorum."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pedra",
+          "text": "Our proposal really is in everyone's best interest. Please give it a bit more thought, Colonel."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Colonel",
+          "text": "Our best interest, yes? You have failed to convince me. All I see is the insistence that we pretend this war is not going in our favor."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Colonel",
+          "text": "And I will have no more of these ridiculous conspiracies concerning Manus Vindictae."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Colonel",
+          "text": "Our war and our victory have nothing to do with this terrorist organization—or cult, as it may be. The decisions of His Imperial Majesty's government will only align with a rational assessment of the facts at hand."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pedra",
+          "text": "We fully understand your concerns."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Colonel",
+          "text": "Words without action."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pedra",
+          "text": "Would you at least consider a temporary truce? Keep your forces at the front, but halt all active military operations?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The military delegates enter the car idling roadside."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Colonel",
+          "text": "There are two sides to every truce, Mr. Negotiator. Our enemy has yet to show any hint of sincerity."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pedra",
+          "text": "You're referring to the assassinations?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Colonel",
+          "text": "Do these bastards have any honor? Sending their snipers after our high-ranking ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Time freezes."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A bloom of crimson explodes out from the colonel's neck. Staccato heartbeats thump in a rising crescendo to meet the distant booming crack of a rifle."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pedra",
+          "text": "...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pedra",
+          "text": "What the ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Time melts back into motion. Shouts erupt, feet thunder, weapons fire off at shadows ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Pedra feels someone yanking at his collar, the pull growing stronger."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Foundation Security Staff",
+          "text": "Take cover, Mr. Pedra!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pedra",
+          "text": "Ugh ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Soldiers dive toward their fallen officer."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Security Guard",
+          "text": "Sniper!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Chaos drowns out all else."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Security Guard",
+          "text": "Medic! The colonel has been hit! We need a medic!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Security Guard",
+          "text": "Move! Get the colonel to the clinic!"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

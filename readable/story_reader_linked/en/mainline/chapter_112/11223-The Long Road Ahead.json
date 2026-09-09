@@ -1,0 +1,528 @@
+{
+  "episode_id": 11223,
+  "chapter_id": 112,
+  "chapter_title": "远征记",
+  "display_label": "",
+  "title": "The Long Road Ahead",
+  "subtitle": "The hammer of history strikes the anvil, yet the marks it makes will soon be smoothed away.",
+  "trails": [
+    {
+      "element_id": 1122301,
+      "owner_episode_id": 11223,
+      "trigger_episode_id": null,
+      "title": "Administrative Complaint",
+      "description": "Some Foundation staff have been complaining about rats on this floor lately. Pure nonsense.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=11223",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "I'm sorry, but I think it's time you left."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "There will be little more to see here."
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "But the war isn't over yet.",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "What difference does it make?"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Earthquakes, floods, famine, plague, robbery, car crashes, a slip in the shower ..."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "War is just one catastrophe among many."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "It's not worth your attention."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "At least, this war is not."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Next time? Are you so intrigued by the life of a pension-drawn widow?"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "I would decline, but my upbringing demands otherwise. How unfortunate ..."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Well ... perhaps it's better to drink dirty water beneath the eaves than to eat dust on the battlefield."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "That is all. Hurry along to the eastern front. Check on your friend. I will pray for her."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "See you next time.",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "101233",
+      "internal_title": "第十二章12-23",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "The Long Road Ahead"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "My mission on the Eastern Front is over, but the battle that took place here has left an indelible impression on me. It still strikes me like lightning."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "In the city of Bereggrad, civilians, barely knowing how to handle a gun, gave their all to defend their homes from bandits and Manus Vindictae."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "Their unyielding defense of the city streets bought crucial tactical space for the Zeno Cavalry Corps and their allies on the field, allowing them to strike the enemy's main force without restraint."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "Some lost their lives, but many more will live because of their sacrifice. I am certain those names will be remembered on this steppe forever."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "As an aside, I ran into Charon here—what are the odds of that? It's a shame I don't have time to share more stories with you in just one letter."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "I hope one day to tell you all about them in person. And don't worry about me, my dear Marianne: I'll soon return to the Foundation headquarters. I look forward to hearing from you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Yermolai",
+          "text": "That the only letter you want to send?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The knight folds her letter, seals it in an envelope, and presses the Foundation's wax seal on it with solemn care."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "I would've written more if I knew you'd be delivering them personally."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "If you're returning to the Western Front, please bring this letter to Montpaix. Someone there will pick it up."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Yermolai",
+          "text": "Ah, you mean that Gargoyle girl, right? She's not hanging around Montpaix anymore."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "Huh? Do you know where she went?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Yermolai",
+          "text": "Can't say that I do, but I have run into her a few times since."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Hound looks as though a chill has just run up his spine."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Yermolai",
+          "text": "First time was in Luxembourg. I was out looking for something when she decided to press the muzzle of her gun against the back of my head."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Yermolai",
+          "text": "I thought she was still holding a grudge over what happened at Hill 299. I wouldn't blame her. After all, Creius owes her a hell of a lot more than a little thanks."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Yermolai",
+          "text": "But turns out she just wanted to have a chat with a member of the \"XII.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "What did you talk about?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Yermolai",
+          "text": "Something about setting rules. Said she doesn't mind helping out when her objectives overlap with ours."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Yermolai",
+          "text": "On the condition that we share with her each and every piece of information we have. Must've been serious, right? Doesn't seem like the kind of person who appreciates a joke."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "Maybe just your jokes."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Yermolai",
+          "text": "Ha, could be. Anyway, I don't know her exact whereabouts, but finding her again shouldn't be too hard. I'm sure she wouldn't wanna miss your letter."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "Thanks. So, why were you sent here?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Yermolai",
+          "text": "Creius wanted me to do some \"mopping up.\" Lucky me, always stuck with the chores."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Yermolai",
+          "text": "Watching to see if the Zeno corps here shows any \"unusual political tendencies\" after the battle. Making sure they've cut contact with Igor. Oh, and Blackbird!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He pulls a document from his coat and hands it to Marsha. After a pause, she carefully opens it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "\"Merel, head to the Don River region immediately. Cover your tracks and investigate the Golden Famine there. Creius. November ... 10th\"?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "That was before Merel's desertion. Then, she didn't run away after all?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Yermolai",
+          "text": "Nah, the date's fake. Creius wrote up this \"secret order\" right in front of me after your report."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Yermolai",
+          "text": "The seal on the signature hadn't even dried when I set out."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A little paperwork filed after the fact. Should be harmless."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "I see. Are you sure you should've told me this?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Yermolai's face darkens unexpectedly."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Yermolai",
+          "text": "We're on the same team."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Yermolai",
+          "text": "If we can't trust each other, we'll all end up in the ditch when s**t hits the fan. Know what I mean?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "You make a good point. Merel's still resting. Should I call for her now?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "I-I'm here."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The deserter, spared for now by this \"secret order,\" peeks out from behind Marsha with a sheepish look on her face."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Yermolai tilts his chin at her."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Yermolai",
+          "text": "Your days of fluttering under a babysitter's wings have come to an end, Blackbird. You may be off the Foundation's hook, but I'm afraid some form of internal punishment within the squad is inevitable."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "Internal punishment?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Hearing this, Merel takes a slow step back."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Yermolai",
+          "text": "Don't think you can get away again."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Like catching a rabbit, the man pulls Merel out from behind the knight."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "Naah!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "Hey, go easy on her!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Yermolai",
+          "text": "I'll be keeping tabs on her from now on, Marsha. Even got a tracking serum. Creius's order."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "Tracking serum?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Yermolai",
+          "text": "Yeah, goof-juice invented by some eggheads. Still in development, actually. Our little runaway will make the perfect lab rat."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "I won't run again. Trust me. I swear!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Yermolai",
+          "text": "Keep that voice down. You trying to tell the entire world you're a deserter? Or you looking for a taste of Dumbitter Potion?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "N-No."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She bites her lip."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Marsha gives her a light pat on the shoulder."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "Relax. I'll be traveling back with you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Andreas",
+          "text": "*neigh*"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "Huh?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A black warhorse trots over from down the street, his old friend beside him."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Charon",
+          "text": "It is good that you've returned to your friends, Merel. May your journey ahead be a safe one."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Charon",
+          "text": "And thank you, Marsha. Tending to this broken body must have taken a great toll on you. I am sorry for any pain it caused."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "Please, don't think of it that way, Charon. I can handle my arcane skills. I'm just relieved that you're back on your feet."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Yermolai",
+          "text": "Gotta say, I was surprised to hear you'd made it out this way, gravedigger. Paravyan told me it was you who covered Merel's tracks."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "W-Wait! Leave Charon out of this! I asked, I mean, I forced him to help me!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Yermolai",
+          "text": "What's got you so worked up? All you did was follow Creius's orders and cover your tracks, right?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "Umm, yeah, no, wait, did I?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Yermolai",
+          "text": "Yeah, you did, and keep that in mind if anyone asks."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "O-Okay."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Charon, struggling to follow the conversation among the \"XII\" Squad, gives up trying."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Charon",
+          "text": "Life must flee death. It is our most basic instinct. Death is impartial, unstoppable. No creature should be punished for running from its shadow."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Yermolai",
+          "text": "Sure, sure. Don't worry. I'll make sure our friend here stays safe and sound."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Charon",
+          "text": "A small hope in this gray world. Now, there is more work to be done."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "You're leaving again, Charon?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "Why don't you join us at the—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "\"Foundation\" catches in her throat."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "N-Never mind."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "I hope I see you again, Charon, though maybe not on another battlefield. I'd be happy to never see another corpse in my life."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "I'll miss you too, Andreas."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Merel stands on tiptoes, wrapping her arms around Andreas's neck, and presses her cheek to his rough mane."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "Goodbye, friends! I've made so many happy memories with you, well, aside from the drowning."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "I'll miss you from the bottom of my heart!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Andreas",
+          "text": "Neigh ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Charon",
+          "text": "May our reunion come in a more peaceful time."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Leading Andreas by the reins, Charon makes his way out of the city."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "They disappear into the winter grassland, returning to the long, hard road they must walk."
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

@@ -1,0 +1,761 @@
+{
+  "episode_id": 11211,
+  "chapter_id": 112,
+  "chapter_title": "远征记",
+  "display_label": "",
+  "title": "The Defender's Oath",
+  "subtitle": "An ancient proclamation arrives at a foreign city's gate, clad in blood and dust.",
+  "trails": [
+    {
+      "element_id": 1121101,
+      "owner_episode_id": 11211,
+      "trigger_episode_id": null,
+      "title": "Soothing Rest",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=1211",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Seems you've got some iron beneath that calm surface."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Not everyone would sleep so soundly in a stranger's house."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Honestly, you could've just made yourself at home and stayed the night. When I take out the trash later, I'll be sure to toss you out along with it."
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "I had a dream.",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Oh, spare me the details!"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "I'm sure it was full of enviable warmth and radiance—just enough to scorch my miserable, frozen heart."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Whatever you saw or did in that dream, do yourself a favor and let it go."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "You did—and I owe you my thanks."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Your sleep talking added a bit of flavor to my otherwise bland meal."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "I haven't had such an appealing appetizer in a long time."
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "What about my meal?",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "The soup's gone cold. That ship's sailed."
+                }
+              ]
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "You may not like the reality served on your silver platter—no one does—but you'll have to swallow it."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Blame this mess on the black robes if you want; those cowards keep trying to drag the world back to their \"good old days.\""
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "And the white robes preaching the future? No less clowns for their taste in uniforms—falling off their high horses again and again, brought down by their own arrogance."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Who would have thought? The whole universe turned into one circus starring two troupes of fools."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Why didn't that blind woman just let the world burn back then? It wouldn't have been worse than these chaotic times. And who asked her to play the martyr, anyway?"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "If you're lucky enough to find her, take her home—and make sure she stays there, quietly, for everyone's sake."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "Did I miss dinner?",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1121102,
+      "owner_episode_id": 11211,
+      "trigger_episode_id": null,
+      "title": "Sleep in the Sound of Bones",
+      "description": "This man has turned stiff, but the tears and stains on his notebook are fresh. Opening it sends a chill down your spine.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=1211",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "The Lost Diary of a Captive"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "[An old diary with black, viscous stains smeared across its cover. The corners are torn and dog-eared. It seems the owner abandoned it recently.]\nNovember 11\n    Every night since my capture, I've heard terrifying, fragmented whispers coming from outside ... and screams—not just one or two people, but many, shrieking and wailing in pain. I can also smell something burning and rotting. Damn it, are those Manus dogs burning corpses? Or performing some twisted ritual?\n...\nNovember XX\n    I've lost track of the date. Time and life hold no meaning in this godforsaken place. I once saved lives as a doctor ... now, they've used my medical instruments to brutally murder Boyaryshkin, Artyom, and Malyekhov right in front of me. I don't care anymore. If they're going to come for me eventually, they might as well hurry and end it now.\n...\nNovember XX\n    I don't know how to write this. I actually survived that nightmare—which feels like a curse in itself. We were herded onto an empty clearing where a koldunya in black robes was chanting a song. I could barely make out the words: \"... Inculcator of Arcanum, let me manifest decay anew.\" She pulled away the shroud covering the corpse. As the black mist dissipated, a broken body lay before us.\n    She handed me my old scalpel: \"Dissect it.\" I looked down at the remains exposed to the air. Male, early twenties. Mottled, wrinkled skin. Ribs collapsed and fractured. I didn't know what I was doing—fear made me forget everything I once believed. Standing beside her, I raised the blade and started cutting. The scraping of bone was monotonous, but I freed that soul from its mortal prison.\n    When I lowered the knife, I realized we were surrounded by a black fog reeking of death. All the other captives had died, their faces twisted in agony. The koldunya seized my filthy hand and laughed: \"Thank you, Charon! You helped me unravel death and command it, master Death, and aid its power!\"\n...\nNovember XX\n    Boyaryshkin, Artyom, Malyekhov—they came for me! I didn't mean to! I'm sorry, I'm sorry, I'm sorry ...\n[The remaining text is obscured by black, viscous stains.]"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "101216",
+      "internal_title": "第十二章12-11.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "The Defender's Oath"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Laboratory Technician",
+          "text": "How are you feeling, Ms. Urd?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Urd?",
+          "text": "Just as I have the many other times I've sat on this chair. And must you insist on calling me by my pen name?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Laboratory Technician",
+          "text": "Urd is your real name. If you want to find the true you, you need to accept it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Urd?",
+          "text": "But I'm just a journalist, an occasional writer on hippies. Urd is simply a pseudonym for my submissions to a certain magazine."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Urd?",
+          "text": "I still don't understand the purpose of this experiment. Your claims of \"world peace\" sound no different from many of my interviewees on the street."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Laboratory Technician",
+          "text": "She's ready."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Laboratory Technician",
+          "text": "Vessel ensoulment test number 13, begin."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Urd",
+          "text": "Vertin?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Mum?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Urd",
+          "text": "It really is you, my child."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Urd",
+          "text": "It's been so, so very long. You're slighter than I'd imagined, but how wonderful it is to see how you've grown."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Why are you here? This isn't reality. I can feel it. Where are you really? Where can I find you?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Urd",
+          "text": "Don't cry, my child."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Urd",
+          "text": "This is but a moment from the past. I can only tell you what has already happened."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Was the ensoulment successful?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Laboratory Technician",
+          "text": "Not quite, but it's the closest we've ever gotten. Amazing, all previous subjects couldn't bear the side effects of the experiment, only Urd—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "State the conclusion."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Laboratory Technician",
+          "text": "Yes, sir. Urd's true personality may have briefly returned during the 13th test."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Laboratory Technician",
+          "text": "We know this because of the disappearance of the Amber Room. That is to say, for a few seconds, the Room became unobservable. All feedback signals were cut off."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Laboratory Technician",
+          "text": "My assumption is that the Amber Room traveled into the future during that time."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "The future? Why? For what?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Only time will tell."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Timekeeper?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Er ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Timekeeper! Are you awake?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Whether it's the ground beneath her or herself that is shaking, she can't tell. With the clamor of noises around her, it's as though she's just been thrown into a hurricane."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "Sonetto, is the Timekeeper alright?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "She's awake!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Sonetto, Marsha?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her mind still lingers in another time while her eyes struggle to grasp where she truly is."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "What's happening? Is Bereggrad ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Krutov launched a surprise attack on Bereggrad an hour ago. Some bandits have broken into the city under the cover of their air force."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "The cavalry and the militia have formed a defense. Igor went to contact his people for reinforcements. We need to get you to safety as soon as possible."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "How long was I down there? 15 minutes, right?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "15 minutes? Timekeeper, you ... you've been gone for almost 12 hours. I just brought you back above ground."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "Timekeeper, sorry for asking so soon, but are you able to move?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Yes, I'm fine. Just give me one more minute."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "Alright. Here's the situation: Krutov's vanguard has occupied part of the outskirts."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "Though this church is currently within the safe zone, it won't be for long. We need to retreat a few streets back."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "Ten minutes ago, a small force cut off our retreat. I'll attempt to break through a route connecting us to the militia's stronghold."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "Wait for my signal, Timekeeper."
+        }
+      ]
+    },
+    {
+      "script_id": "101217",
+      "internal_title": "第十二章12-11.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "...!!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The knight's trench club proves an effective weapon in the cramped alleys of the city. It isn't long before Marsha has cleared a path."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "Timekeeper! Sonetto! This way, quick!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Timekeeper, please hold onto me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Alright."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Even with half her weight on her, Sonetto manages to cross the open danger of the main street with astonishing speed."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "At the other end of this alley is the area under our control. The Cavalry Corps will escort you out of the city to a safe place."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Aren't you leaving with us, Ms. Marsha?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "I'll take you to the commander. But after that, I'll stay in Bereggrad until the enemy is repelled."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The wreckage of a warplane shot down just moments ago by Igor's anti-aircraft guns lies lodged in the dome of a church."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Before that, several shells had been launched into the militia camp, hospitals, churches, and residences, setting the hard-kept peace ablaze."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "Friendlies! It's friendlies! They're back!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Merel lowers her binoculars and calls for the militia guarding the street fortifications to clear a path, allowing the three young women to fall back into the rear formation."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The commander strides forward at the sound of her voice."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Commander Ivan",
+          "text": "Are you alright, Timekeeper? You don't seem well."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "It's okay. I'm not hurt. Just a bit dizzy."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "The Timekeeper hasn't eaten anything for over 12 hours. Her blood sugar might be the problem. I'll take her to have some food."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Commander Ivan",
+          "text": "I see. When you finish, take her to the sich outside of the city."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Commander Ivan",
+          "text": "This fight will not end soon. The city is no place to linger."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Yes, Commander. I'll take her away as soon as possible."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Commander Ivan",
+          "text": "Make it so."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The commander nods and turns to the knight waiting nearby. Merel is standing at her side, unnoticed until now."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Commander Ivan",
+          "text": "And you. You swore to stay in Bereggrad."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "Yes, sir. I can join the militia rescue team. Many medical staff in the city cannot defend themselves."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Commander Ivan",
+          "text": "Good. Medics of the Cavalry Corps and Gryphon Legion will stay as well. You'll aid each other."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "Of course."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "I-I'm coming with you, Marsha."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "Fine, but do as I say."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "Okay."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The commander looks around for Igor. The two leaders agreed to stay in the city."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Igor is standing nearby, still holding a telescope, his gaze fixed on the city gate."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He doesn't move for a long time."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Commander Ivan",
+          "text": "What do you see?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Beyond the gate lies only the vast golden plain."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Igor",
+          "text": "I know Krutov. If this is his declaration of war, he will not stop at bombs and bombers."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Commander Ivan",
+          "text": "What? You mean ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Igor",
+          "text": "It's coming."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The grass bows low as black galloping hooves carve a path straight to the city."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A cloth-covered rider bounces limply on the horse's back. He carries a blood-smeared javelin, like a Roman priest riding toward Carthage."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Igor",
+          "text": "A messenger bearing a declaration of war. Hm. A classic move."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Commander Ivan",
+          "text": "A pity the man doesn't know how to ride."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The messenger does not grip the reins. He jostles and sways, like an ominous banner battered too strongly by the wind. But the black horse only gallops faster, pummeling straight for the gate."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "That's ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "By the time the messenger arrives, the cavalry have already formed ranks, guns trained on him."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "But the messenger reads no declaration of war, nor does he throw the bloodstained javelin."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He only slides from the horse and crashes to the ground, his shattered form laid bare. The horse rears and lets out a mournful whinny."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "Charon? Andreas?!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "I-Is that really—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "They finally realize who it is. They rush to the gate, charging through the ring of cavalrymen."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The instant Merel lays eyes on Charon, she crumples to the ground, her arms wrapped tightly around her head."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "No. Don't—!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The cavalry barely manages to hold formation as the warhorses shy back, champing and stamping their feet. They, too, can smell the stench of \"death.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "Something isn't right. Don't get close, understood? Don't look at him! Merel, come to me!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She lunges to Merel's side and drags her behind cover, blocking her view of Charon."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The cavalrymen scatter as wave after wave of nauseating howling washes over them."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The guards at the city gate have no choice but to fall back. Entry to Bereggrad lies wide open, filled with nothing but the stench of \"death.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "*deep breath* Someone needs to take Charon to an enclosed space."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "I suppose I'll have to give it a try."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Just as she has done countless times before, Marsha draws a deep breath and stills her emotions, paying no heed to what may happen when she finally releases whatever fear she is soon to face."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She gives Merel a gentle pat on the shoulder and steps out from behind the shelter. She walks toward the abyss of \"death,\" looking directly at Charon's fallen body."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The fear in her amygdala is severed, just as promised."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "It's working."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "Charon, oh my, what have they done to you?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "What lies before her is barely recognizable. It isn't a body. It's a shattered, indescribable shell."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "It is only by virtue of the blood-soaked ropes that he has managed to maintain any semblance of a human form."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "With his coverings gone, and freed from the constraints of a complete form, \"death\" seeps out from beneath Charon's clothes."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The soil beneath him visibly darkens, the air around it swallowed in a heavy fog. Krutov has brought a declaration of death to Bereggrad."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Charon",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "Yes, Charon? What is it?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Marsha leans in close in an attempt to catch whatever sound his ruined body is still able to give voice to."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Charon",
+          "text": "A message from Krutov."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Charon",
+          "text": "He swears to destroy Bereggrad, unless ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Charon",
+          "text": "You hand over Igor."
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

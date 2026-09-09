@@ -1,0 +1,763 @@
+{
+  "episode_id": 10805,
+  "chapter_id": 108,
+  "chapter_title": "忧郁的热带",
+  "display_label": "",
+  "title": "地狱之船",
+  "subtitle": "河流即是家乡，河流即是生活。河流赠与，河流掠取。",
+  "trails": [
+    {
+      "element_id": 1080501,
+      "owner_episode_id": 10805,
+      "trigger_episode_id": null,
+      "title": "红腹锯脂鲤群",
+      "description": "",
+      "action": "残篇阅读",
+      "unlock_condition": "EpisodeFinish=805",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "“金手指”扣下了扳机。产生了远超预料的结果，非专业人士就是这样。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "降低心率、收缩喉管、关闭气道，与上一次溺水时相比，这次你做得不错，至少没那么狼狈了。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "你又是哪位？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "我是谁不重要。设想我们身处于硝烟滚滚的边境，后方的军营里没有心理医生，军官们大声地谈论着伤寒、霍乱、疟疾和肝炎，只有傻瓜才会将开肠破肚视为荣誉的象征。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "这种场合的人员变动总是很快，你不能奢望来做报告的总是同一个人。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "现在请听我说，有一件事需要汇报。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "什么事？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "这次爆炸的背后藏着一场组织化的阴谋，档案袋的正面和反面分别写下了一个组织的名字。一个是你的老对头；而另一个你今早才有所耳闻。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "他们许诺了会向南去，于是便能靠着第三方的物资耀武扬威，把自己比作救世主，用暴力铲除异己，既无组织也无行动纲领，可笑。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "而更可笑的是他们借此收获了比以往更多追随者，一般的黑帮与宗教远不能及。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "现在他们就像是一批红腹锯脂鲤群，当地人称呼这种鱼为“食人鱼”。在河里就能闻到血的味道，给每艘船都咬出几个洞。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "其他人呢？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "既然连你都没事，你是否可以乐观地推断其他人都度过了这次危机？"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "遗憾的是，你没能听清小行刑官跟乐善好施的游客在骰子游戏之余的闲谈。你可以在稍后再质问她。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "正面回答我",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "我不是你的传令官，也不是你的亲兵，我也不想要这两个头衔，所以——"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "目前来说，我没有义务继续向你汇报。"
+            }
+          ]
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1080502,
+      "owner_episode_id": 10805,
+      "trigger_episode_id": null,
+      "title": "收监记录",
+      "description": "有的人入狱只因交友不慎，虽然她没得选。",
+      "action": "交互",
+      "unlock_condition": "EpisodeFinish=805",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "特别俘虏收监记录"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "单位名：金伯利女郎\n收监经过：部队在突袭天使兄弟会据点时发现对象正在独自啃食火鸡腿，被洛佩拉少尉带队亲自拿下。后经过审问盘查，确认对象是跟随重塑之手前来的随行人员，对重塑之手的了解甚至少于一般追随者，且并未参与当地叛乱，与卡洛斯将军遇刺一事无关。故与其他逃兵区别处理，不执行死刑，作收监处置，等待伊戈尔将军发落。\n\n放着不管。"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100806",
+      "internal_title": "第八章8-05.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "地狱之船"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "游轮"
+        },
+        {
+          "kind": "title_card",
+          "text": "“短吻鳄”号游轮"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "地标"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "风穿过少女的指缝。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "外国游客聚集在船舷边，看向那些划着小艇靠近游轮的当地住民。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "轮船游客",
+          "text": "他们从没关心过圣保罗的穷人，像给动物园的猴子投喂香蕉，打发一点“善心”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "船上小孩挥舞双手，发出喊叫吸引游客注意。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "船员与随船牧师打包好了可供抛掷的施舍物，兜售给每一位乐意参与这一“游赏项目”的客人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛佩拉",
+          "text": "这些“香蕉”养活了不少人，朋友。吃饱饭比什么都要紧，管他是哪来的饭，反正拉出来都一样。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "陌生游客点点头，但他似乎并不完全同意这一点。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "轮船游客",
+          "text": "人不单靠食物活着。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛佩拉",
+          "text": "人不靠食物就没法活着。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "轮船游客",
+          "text": "您也去圣保罗做买卖吗？我在贫民区有些生意。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛佩拉",
+          "text": "买卖？不，我回家，到圣保罗那间荣军院，如果你在城里找不到住处，朋友，上那儿来，我帮你。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "轮船游客",
+          "text": "感谢您的好意。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "洛佩拉托着下巴，无聊地抛掷着小骰子，投起又落下，落下再投起……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "游客的目光随骰子上下晃动。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "轮船游客",
+          "text": "要来玩一把吗，女士？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛佩拉",
+          "text": "赌注是什么？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她瞄向游客手边的黑色旅行箱。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "轮船游客",
+          "text": "赌你我的善心吧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "轮船游客",
+          "text": "输的人为孩子们买下这艘船的施舍。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "轮船游客",
+          "text": "然后，以赢家的名义布施。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一场慷慨的赌局，为了叩响天上门扉的良心。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛佩拉",
+          "text": "你这人还挺有意思。那来吧，飞——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "陌生的客人微笑着摊开双手，看着骰子从洛佩拉手中掷出，又像雨滴般落回桌面，在木杯里摇晃。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "浮窗"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛佩拉",
+          "text": "你先还是我先？一二三小，四五六大。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "轮船游客",
+          "text": "您请。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛佩拉",
+          "text": "小。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "轮船游客",
+          "text": "六。否则都算您赢。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "木杯再一次晃起，一枚“不体面”的骰子旋转着，将胜利带给其主人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "轮船游客",
+          "text": "请。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "浮窗"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "轮船游客",
+          "text": "看来我输了，是神有意让我为他不幸的孩子们做点什么。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "收浮窗"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "轮船游客",
+          "text": "请告诉我您的名字，以便为孩子们布施时能让天园响唱起您的名字。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛佩拉",
+          "text": "卡洛塔·洛佩兹·里维拉，但如果你要找我，就打听“洛佩拉”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "洛佩拉，圣保罗的洛佩拉。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "落败的游客拿起骰子，笑着察觉到了异状。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "赌局的落败者握住胜利之人的手，将那枚不光彩的骰子交还给它的主人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "轮船游客",
+          "text": "您有一枚非常有趣的骰子。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛佩拉",
+          "text": "这只是运——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛佩拉",
+          "text": "怎么回事——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "河盗",
+          "text": "都照我说的做！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "黑幕转场"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "转场"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "苏芙比",
+          "text": "喔！他们是——是河上的“鳄鱼牛仔”吗？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "不，他们是强盗……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "苏芙比，退后！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "你想要什么？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "河盗",
+          "text": "告诉船长，把船开到贫民区。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "河盗",
+          "text": "否则就等着大伙儿一起上天吧！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他擦响打火机，在炸药引线边燎烧，发出威胁。他很慌张，在恐惧着什么。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛佩拉",
+          "text": "——都让开！！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "比船长来得更快的，是已经拔枪的洛佩拉。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "但混乱的人群挡在前方，她没法扣动扳机。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "洛佩拉，不能在这开枪！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "当心油桶！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "洛佩拉这才注意到人群身后堆放着的油桶。稍有不慎，整艘船就会被炸成圣保罗明早的报纸头条。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛佩拉",
+          "text": "啧——耍花招的玩意儿。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "于是她收起枪，徒手冲上去。"
+        }
+      ]
+    },
+    {
+      "script_id": "100807",
+      "internal_title": "第八章8-05.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "洛佩拉与暴徒扭打成一块儿，一拳一拳砸向对方鼻梁。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她扯下暴徒身上缠绕的炸药，却也因此被夺走了枪。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "洛佩拉！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "战斗忽然停了下来，暴徒的手颤抖着，将枪口指向洛佩拉——而她身后不远，就是油桶。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "河盗",
+          "text": "把船开到贫民区！否则一起去死！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛佩拉",
+          "text": "贫民区……是天使兄弟会又回来了吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "河盗",
+          "text": "……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛佩拉",
+          "text": "他们胁迫了你，对不对？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛佩拉",
+          "text": "“去劫持今天的游轮，然后把船开过来。”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛佩拉",
+          "text": "我能想到那些混账对你说了什么，但很遗憾，“短吻鳄”号今天的目的地是圣保罗。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "河盗瞪大眼，双腿颤抖着愣在原地。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "洛佩拉说中了，但对方却做出了过激的反应。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "那根骷髅般消瘦的手指摁住黑色扳机，牙齿打颤，在紧张中无意识地用力——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "开枪声"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛佩拉",
+          "text": "蠢货！！！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛佩拉",
+          "text": "趴下！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "特效-爆炸"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "燃烧画面"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "子弹没有击中她，而是打进了不稳定的金属油桶。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛佩拉",
+          "text": "爆轰弹？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "首先是爆闪的火光，然后是响声和热风。附近的易燃物被爆炸接连引燃，火焰迅速蔓延。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "油桶引爆的冲击让船只剧烈摇晃，爆炸撕裂了船体，轮船开始解体。河水涌入船舱。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "游客",
+          "text": "天哪！！！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "船厨",
+          "text": "救生艇！找救生艇！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "游客",
+          "text": "救救我……老天啊——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "所有人都慌张地逃向甲板前端，轮船被拦腰炸断，向着被油桶炸裂开的位置倾斜、沉没。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "爆炸接连传来冲击，头脑一片空白。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "人群中没有看见金伯利的身影。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛佩拉",
+          "text": "抓住栏杆！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "洛佩拉大口呛着河水，在水中起伏。她抱紧一块浮木，发来遥远的呼喊。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "重力将所有人拽向河心的漩涡，更多的甲板被淹没了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "苏芙比紧紧握住甲板护栏，但船只几乎要整个儿竖着沉下去了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "苏芙比！往洛佩拉那儿跳！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "落水的人们，悬空的人们。尖叫着的人们。在濒临死亡的险境中，眼前的一切都变得很远。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "像烂熟的橙子一样，游人松开被烧得滚烫的支撑物，掉进河里。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "苏芙比",
+          "text": "维尔汀——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "火焰舔过金属护栏，融化了船上的劣质建材。爆炸引起耳鸣。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "苏芙比闭上眼睛，跳向朝她游来的洛佩拉，落入水中。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "但她很幸运，同伴迅速抓住她的手，将她搂向自己那块木板。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "特效-爆炸"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "场景-水下"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "苏芙比",
+          "text": "快去救维尔汀！！她……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "“她”还在船上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "黑屏"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "视频-维尔汀落水"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "轮船在最后一声爆炸中彻底解体。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "河水淹没了眼前的一切。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "黑屏"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "金色的阳光在水面摇荡，变得越来越远……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "氛围图-娜娜的手从水面伸来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "谁的手？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "你可不能死在这儿……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "为什么呢，一遇到你总会发生这样的事情……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "——可可点心棒，还给你了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "视频关闭"
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

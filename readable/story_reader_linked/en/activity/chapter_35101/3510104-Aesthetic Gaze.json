@@ -1,0 +1,924 @@
+{
+  "episode_id": 3510104,
+  "chapter_id": 35101,
+  "chapter_title": "绿松石蛇俱乐部",
+  "display_label": "",
+  "title": "Aesthetic Gaze",
+  "subtitle": "Please keep your distance from the exhibits.",
+  "trails": [
+    {
+      "element_id": 3510108,
+      "owner_episode_id": 3510104,
+      "trigger_episode_id": null,
+      "title": "Take a Break",
+      "description": "Small talk during work is inevitable.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=3510104",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Such a lovely day, isn't it?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "These noisy children are soon going to be locked behind the school gate, and I will say goodbye to you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "This war will be over as long as I close my eyes. It has lasted far too long."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "*sigh* Finally ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "What are you doing standing around? Aren't you heading to school? Go on then. Children your age are SUPPOSED to be learning and playing."
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "I graduated long ago",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "College then. Get yourself a medical degree or a doctorate at least."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Haven't you realized how precious peace is after coming back from the battlefield? Make your life count."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "I'm going to take a nap. Now, go and find something to keep yourself busy."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Oh, please."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Take a look at that tree. I think it must feed on the escape plans of students like you; how else could it grow two inches taller every year?"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "I imagine it might even serve as something of a secret hideout for them."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "But I wonder if anyone ever bothers to visit it again after they leave; likely not. A once beloved place all too quickly forgotten."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Do you know why?"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Because they are too afraid to face the difficult truth."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "That they wasted the most carefree days of their lives trying to escape from paradise into hell, and now there's no power in heaven or earth that can send them back."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "You'll end up just as pathetic as them, unless you can go back there and prove your courage."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "You won't have anything like the fanfare your French classmate received—she was proud as a peacock when she walked through that gate. But you'll not chicken out, will you?"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "I'll miss you",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "203505",
+      "internal_title": "【3.5】绿松石蛇俱乐部04.1",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "On the outskirts of Mexico City lies a building in an overgrown and derelict hacienda."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The uninvited \"visitor\" slips inside with little effort before taking a quick survey of her surroundings."
+        },
+        {
+          "kind": "title_card",
+          "text": "The Turquoise Serpent Club"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lorentz Butterfly",
+          "text": "So, this is the \"arcanist territory no human dares set foot in\"? But the box is hardly reacting."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Unlike its dilapidated exterior, the interior is lavishly furnished, the floors spotless."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rumbling Roaring Box - X",
+          "text": "Beep. Beep. Warning, insufficient Chaos Particles. Do not attempt repeat activations. Warning! Warning!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rumbling Roaring Box - X",
+          "text": "%$@#—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lorentz Butterfly",
+          "text": "No signs of any supernatural phenomenon."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She wrestles with the device. It gives up a few final sputtering noises before falling apart."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lorentz Butterfly",
+          "text": "Yet another \"genius\" upgrade from X."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lorentz Butterfly",
+          "text": "Hm? Someone's here."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She melts into the shadows. A knock echoes through the empty hall, startling the drowsy patroller at the door."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Patroller I",
+          "text": "*yawn* Who's there?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "It's me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Patroller I",
+          "text": "*yawn* Oh, Añil. Come on in!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Añil",
+          "text": "I'm here to deliver the item for the auction. Right before the deadline."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Patroller I",
+          "text": "Not a good time, Añil."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Patroller I",
+          "text": "Mr. Pérez is away. He's been out of the club more and more these days."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The patroller lowers her voice, muttering gossip about the club's owner."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Patroller I",
+          "text": "And getting more and more upset. I haven't been in his office, but I can hear him roaring from the other end of the hallway."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Patroller I",
+          "text": "Could be the coming auction, though I heard he's been looking for a supplier who lost contact, been turning half of Mexico inside out to find him."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Patroller I",
+          "text": "\"I'll tear him apart and feed him to the fishes!\" He said."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Patroller I",
+          "text": "No one dares piss him off these days. We're all just going to bed hoping he'll wake up in a better mood."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Añil",
+          "text": "I hope he does."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Añil",
+          "text": "Could you please pass this along to Mr. Pérez? It's the painting he asked me to finish and the linen canvas from the 19th century he requested."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Añil",
+          "text": "The incantation used to forge the painting is unstable. I would ask that no one remove the calming incantation on it until the day of the auction."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "At that, the patroller starts to wave him away."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Patroller I",
+          "text": "Uh ... sounds important. You better not give it to me. Don't want to be responsible if something goes wrong."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Patroller I",
+          "text": "Oh, I'll call Muriel over. He knows more about this kind of thing than me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Patroller I",
+          "text": "Mr. Pérez has been keeping him here, \"voluntarily,\" of course, working day and night on the auction, ahem ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She falls silent, realizing the man is just another \"volunteer.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Añil",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Patroller I",
+          "text": "Heh, I'll go grab him!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Patroller I",
+          "text": "Muriel! You've got a visitor!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He hurries off. Moments later, a dazed boy trails behind her."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Muriel",
+          "text": "Hmm. It's you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Muriel",
+          "text": "Your name is Añil. I remember it because it sounds like a joke. Surely that's not your real name."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Muriel",
+          "text": "We worked together, didn't we? In the same studio. In Mexico City. Coyoacán, was it?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Muriel",
+          "text": "But, hmm, how long has it been since then? Is it really you?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He rubs his cheek, frowning a little. A small dusting of dried pigment flakes off of his hand and face."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Añil",
+          "text": "It's been a while, Muriel. Are you keeping well?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Añil",
+          "text": "Many arcane pigments are quite toxic. Their side effects can be strong. I hope you're extra careful."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Muriel",
+          "text": "Oh, no, I'm quite well. Well indeed! Glad to be back in the homeland."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Muriel",
+          "text": "The auction's coming, you see. Mr. Pérez has forbidden me from leaving the club so I can paint what his associates want."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Muriel",
+          "text": "But I can't help thinking this isn't what I wanna do with my talents."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Patroller I",
+          "text": "Hey, hey, Muriel!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Patroller I",
+          "text": "Look, I'm not gonna rat on you to Mr. Pérez, but you need to watch yourself. Better not let a third person—well, fourth—hear you whining."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Muriel",
+          "text": "I see. At least the quesadilla and pozole around here aren't bad."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Muriel",
+          "text": "Don't worry. I won't stop painting. It's all I can do now."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He turns to the visitor beside him."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Muriel",
+          "text": "Is there something you need?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Añil",
+          "text": "Please deliver this to Mr. Pérez."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Añil hands over the wrapped painting. The boy takes the distressed frame and immediately recognizes the incantation on it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Muriel",
+          "text": "The painting Mr. Pérez asked you to forge?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Muriel",
+          "text": "Why don't you ever create something of your own, Añil? You can't spend your whole life imitating others."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Muriel",
+          "text": "If it's because of Mr. Pérez, I can put in a good word. All he needs to see is your real artwork, and I'm certain he'll agree."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Añil",
+          "text": "Oh, I don't have that kind of talent. I'm simply an arcane pigment dealer who happens to know some imitation incantations."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Muriel glances over to him with a puzzled expression."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Muriel",
+          "text": "The greatest of all talents are passion and persistence."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Añil",
+          "text": "Sorry, Muriel."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Muriel",
+          "text": "No, no, I understand. You just need time. We both need time."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Muriel",
+          "text": "I'm certain one of our like-minded friends from the Midnight Kitchen will convince you. That is, after I find them."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Muriel",
+          "text": "In fact, I happened upon my old tutor, Teresita, when I was working on the mural in the library."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Muriel",
+          "text": "She seemed to be ... in quite the hurry. The Vigiles were ordering her around. It seems she didn't recognize me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Muriel",
+          "text": "The two of us can join the Popular Arts Exhibition, Añil! You, you are Añil, aren't you? Well, no matter who you are, it's a fantastic opportunity!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He sinks into thought, yet his mind feels shrouded in a thick haze. He can't even make out the figure's identity."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Añil",
+          "text": "Take a rest for a while, would you?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Patroller I",
+          "text": "Ahem. Mr. Pérez will give him a break once the auction's over."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Patroller I",
+          "text": "Oh, pardon my manners. You want a cup of poleo? Why not take a rest before you go?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Patroller I",
+          "text": "Mr. Pérez recently got some cigars in from the Yucatán Peninsul—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Before she can finish speaking, she and Muriel both slip softly down to the floor."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "At the same time, cold metal presses against Añil's back."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lorentz Butterfly",
+          "text": "Don't turn around, unless you want to take a nap too."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The woman's accent is foreign, yet her language is precise."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Añil",
+          "text": "Anything I can help you with, miss?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lorentz Butterfly",
+          "text": "I'm just a wayward traveler."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lorentz Butterfly",
+          "text": "Hoping you can show me around this club. I hear it isn't open to the public."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The blade against his back digs in an inch, cutting off any protest."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Añil",
+          "text": "My pleasure."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Añil",
+          "text": "But my friends ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lorentz Butterfly",
+          "text": "Powder from the spores of a fairy parasol. They're only dreaming."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lorentz Butterfly",
+          "text": "Now turn around."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He turns around. What the mysterious bandit is holding is not a knife as he'd imagined, but a plaster trowel."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "In fact, it is almost certainly his own painter's trowel."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lorentz Butterfly",
+          "text": "Take it. You may call me Lorentz Butterfly."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Añil",
+          "text": "Alright, Ms. Butterfly."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He nods and walks forward without another word. Footsteps shadowing him from behind."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lorentz Butterfly",
+          "text": "This Pérez you were talking about—the owner of the club, yes?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Añil",
+          "text": "He runs everything behind-the-scenes here. One of the most notorious arcanist smugglers in Mexico City."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Añil",
+          "text": "For the right price, he can find you anything in the world. He's got his fingers in many pies—government, private sector, you name it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lorentz Butterfly",
+          "text": "Exaggeration. Age? Appearance? What kind of person is he?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Añil",
+          "text": "I have no idea."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lorentz Butterfly",
+          "text": "Hah. You don't know?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Añil",
+          "text": "He's a very cautious man. There was some trouble in the club a few weeks ago. Since then, he hasn't shown his face."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Añil",
+          "text": "Now, he speaks only to a few select confidants, and always from behind a folding screen."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lorentz Butterfly",
+          "text": "Pretentious."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The master forger leads the \"bandit\" into the gallery."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Añil",
+          "text": "This is his arcane artwork collection."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lorentz Butterfly",
+          "text": "Portrait of the Twins, the final work of the exorcist John Doe, a sensation at the Sotheby art auction in the original 1920."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lorentz Butterfly",
+          "text": "It's said the pearl necklace was painted with the tears of a black goat. Some even claim there's a pair of succubi, twins apparently, sealed within the frame."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lorentz Butterfly",
+          "text": "Every evening around midnight, ethereal singing can be heard as if it were echoing out from inside the painting."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lorentz Butterfly",
+          "text": "And anyone who listens to their song eventually goes insane."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Añil",
+          "text": "I see you're well-versed in arcane works."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lorentz Butterfly",
+          "text": "Just a sucker for scary stories."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lorentz Butterfly",
+          "text": "How long have you been working for the club?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Añil",
+          "text": "Not long. But Mr. Pérez worked his way through most of the arcanist artists in the city. Those who refuse him are never seen again."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Añil",
+          "text": "I had no intention of following in their footsteps. Before all this, I was only an ordinary merchant of arcane pigments."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Añil opens his mouth, but nothing comes out. She doesn't even bother to take her eyes off the paintings to look at him."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lorentz Butterfly",
+          "text": "Madonna of the Carbuncles. In 1509, artist Richard Roe signed an agreement with his employer to color his cape and Carbuncles with petrified ultramarine and amber gold."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lorentz Butterfly",
+          "text": "The former serves as a valuable alchemical material. The work has been stolen multiple times."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lorentz Butterfly",
+          "text": "If I remember correctly, it was last seen in Berlin after the fifth \"Storm.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She stops. Her fingers brush against the heavy blue cloak in the painting."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lorentz Butterfly",
+          "text": "Cold, soft. This ultramarine is synthetic."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lorentz Butterfly",
+          "text": "I see."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lorentz Butterfly",
+          "text": "These are forgeries, yes?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Añil",
+          "text": "That's right."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She seems unimpressed, almost bored. Shuffling sounds from down the hall interrupt their brief tour."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lorentz Butterfly",
+          "text": "Tsk. Patrollers."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lorentz Butterfly",
+          "text": "Six of them, judging by the footsteps, all physically fit. They'll have me trapped in an instant."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lorentz Butterfly",
+          "text": "Planning to cry for help?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Añil",
+          "text": "Please, there's no need for mockery, miss."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Añil",
+          "text": "There are no patrols at this time, and the locals wouldn't dare enter the club."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Añil",
+          "text": "Could be that they're temporary muscle hired by Mr. Pérez for the auction. Perhaps they noticed my sleeping friends."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lorentz Butterfly",
+          "text": "No need to distance yourself. I know you wouldn't risk tipping them off in front of me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Bad luck, as always. She flashes a cold smile."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Patroller II",
+          "text": "Who's there?!"
+        }
+      ]
+    },
+    {
+      "script_id": "203506",
+      "internal_title": "【3.5】绿松石蛇俱乐部04.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The results are unsurprising: six unconscious thugs lie heaped together in a pile."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "But their fight has drawn unnecessary attention. More patrollers close in."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Añil",
+          "text": "Follow me, if you will. There's a blind spot this way."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Añil",
+          "text": "Luz   y   sombra,   ¡reforma!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "In a split second, an arcane veil settles over the corner of the gallery where they stand, making it appear empty."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Patroller III",
+          "text": "Huh? I could've sworn I heard some roughhousing."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Patroller IV",
+          "text": "Maybe one of these paintings is haunted."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Patroller III",
+          "text": "Mr. Pérez's collection isn't exactly ordinary. Place sure feels spooky, anyway."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Añil",
+          "text": "Finding nothing out of place, the two patrollers move along."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lorentz Butterfly",
+          "text": "Why help me?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Añil",
+          "text": "I don't believe you snuck in here just to draw their attention."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lorentz Butterfly",
+          "text": "True. But I could still eliminate any witnesses."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Añil",
+          "text": "Fair enough."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Añil",
+          "text": "Most of the gangsters here are unaware of the secrets surrounding this club."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Añil",
+          "text": "But, Ms. Butterfly, whatever it is you wish to find, I will help you find it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Añil",
+          "text": "As I believe I have just demonstrated."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lorentz Butterfly",
+          "text": "You help me? A forger working for this club?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lorentz Butterfly",
+          "text": "You, who can't even wiggle out from under their thumb yourself?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She pulls out an invitation to the Turquoise Serpent Club's upcoming auction."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lorentz Butterfly",
+          "text": "Prove it. Give me a reason to put my faith in you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Añil",
+          "text": "I know the secret to the invitation."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Añil",
+          "text": "The symbols here represent a special incantation. You must light up the Tecpatl sign to begin the ritual correctly."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Añil",
+          "text": "It's the only way to enter the auction venue, designed to keep humans out."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lorentz Butterfly",
+          "text": "Tell me something I don't know."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The forger draws a nervous breath."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Añil",
+          "text": "The purpose of the auction isn't to sell forgeries. They're merely for decoration."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Añil",
+          "text": "Mr. Pérez's true goal is to build the Turquoise Serpent Club into the greatest underground arcane material market in Mexico."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Añil",
+          "text": "The auction is only the first step in his plan."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Añil",
+          "text": "I can bring you there, two days from now at 12 a.m."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The woman examines his face, then provides a simple, satisfied smile."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lorentz Butterfly",
+          "text": "Pleasure to work with you."
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

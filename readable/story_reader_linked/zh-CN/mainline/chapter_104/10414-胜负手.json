@@ -1,0 +1,390 @@
+{
+  "episode_id": 10414,
+  "chapter_id": 104,
+  "chapter_title": "老虎的金黄",
+  "display_label": "",
+  "title": "胜负手",
+  "subtitle": "好消息是，还有十步。",
+  "trails": [
+    {
+      "element_id": 1041401,
+      "owner_episode_id": 10414,
+      "trigger_episode_id": null,
+      "title": "小径① 高难演习",
+      "description": "别浪费难得的机会，把难度调到最大。",
+      "action": "教学记录",
+      "unlock_condition": "EpisodeFinish=10414",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1041402,
+      "owner_episode_id": 10414,
+      "trigger_episode_id": null,
+      "title": "跑腿活",
+      "description": "",
+      "action": "残篇阅读",
+      "unlock_condition": "EpisodeFinish=10414",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "……"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "我刚睡醒，发生了什么？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "睡得不错，伙计，哈喇子甩得到处都是，差点糊住了我的眼睛。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "你没想到基金会里会有这么多复杂的团体，看起来让人一头雾水——他们就不能造一个简单的组织，让人们的区别就像蛋糕夹层一样清晰可见？"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "我这里没有麻烦，你不用过来",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "是吗？老兄，你能百分百地确定自己没有麻烦？"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "我睡得正香，做了阔别已久的美梦。梦里我和三位女士，一群呆天鹅生活在一起，彼此相处融洽。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "突然一个倒霉鬼把我叫醒，告诉我这一切都还好，不需要我的帮助。真是棒极了！我就像广场上的一条狗！等着吧，接下来，糟老头子会把所有的牢骚话都塞进你纯真的耳朵眼里。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "你对基金会的组织有兴趣吗？你骄傲的脖颈在表示抗拒——很好，那就从这个令人跃跃欲试的话题开始！"
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "基金会很混乱。听好了，它始终在有序与无序的混乱间摆荡，吸引着无数理想主义者和现实主义者为它驻足。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "“暴雨”的到来，加剧了漩涡的混乱状况。神秘学家在水下浮潜，不断地往上涌现——你看，Z女士就是一个很好的例子。她甚至与人类精英们平起平坐地待在同一张会议桌旁。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "水面下有更多的暗流在波动。自然资源组委会、人类党团、文教部门……他们的成员相互交错，背景模糊不清难以辨认。他们不止是为了利益，也为了无数缠身的琐碎的烂毛线而忙碌。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "明白了吗？你得不断地分组分组分分分组——把一个大团体按目标拆成尽可能小的小团体，才能让他们最高效且不带任何感情地清理客厅里的呕吐物！"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100419",
+      "internal_title": "第四章4-14",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "胜负手"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "代表人",
+          "text": "差距拉大了。仅凭一两张票也无法扳回局面……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "我知道。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "D9确是一步庸着。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "代表人",
+          "text": "如今原本愿意支持我们的神秘学家，也转身投靠了反对阵营。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "代表人",
+          "text": "是我错估了形势，那场辩论……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "代表人",
+          "text": "我本想抓住机会……主动出击的……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她没有回应，在房间内来回踱步。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "主动出击……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "也未必有错。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "纵横三十八条线，三百六十一个交叉点，如星穹现于眼前。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "换言之，面对对方的进攻，既不“退”，也不“跳”……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "而是着眼于未来的形势，攻占阵地……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她似乎有所顿悟，下意识地将手往前一伸。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "黑子，靠。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "接着……白子扳，黑子反扳，白子立，黑子……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "硬挡。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "……！！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "如此这般……我明白了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "D11的一子，能换回这里的十几目棋。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "十步以内，我们还有胜算。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "马克。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "代表人",
+          "text": "怎么了？还有办法吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "我们需要一个有影响力的人，一个能为我们说动十几个人的领袖。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "给我找出所有没表态的多人领袖的档案，即使原本不是中立的也没问题。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "代表人",
+          "text": "……好。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他虽然有些困惑，但仍然飞快地调出档案，在椅子上翻找。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "房内只听到翻书页的声音。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "代表人",
+          "text": "巴泽尔。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "不行，他资历尚浅，难以服众。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "代表人",
+          "text": "诺妮，自然资源组委会的领袖。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "她们组只有三个人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "代表人",
+          "text": "“中锋”伯纳德，人类党团的领袖……呃，还是算了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "伯纳德？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "不，这个可以。他善于雄辩，手下有十一号人，且每一位都对他十分信服。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "他怎么会没有表态？我以为他会第一个投票。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "代表人",
+          "text": "或许是因为胜券在握……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "了解一下他的近况。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "代表人",
+          "text": "可是，Z女士，我们真的要和他合作吗？这太荒唐了，我们甚至在为不同的群体服务。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "——马克，我们都是在为基金会的明天服务。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "我只想知道他现在需要什么。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "代表人",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "代表人",
+          "text": "美国芝加哥的办事处。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "代表人",
+          "text": "他想把那块选区划入自己的势力范围。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "代表人",
+          "text": "伯纳德认为他们管理失责，区别对待不同阶层的人类，且涉及与当地资本暗箱的违法行为。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "代表人",
+          "text": "最高裁判所已经派出相关人员介入了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "代表人",
+          "text": "但由于“暴雨”的原因，无法外出取证……现在还没有定论。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "芝加哥办事处……我看过那里的报告……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "我了解了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "太好了，我们正好能伸出援手。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "代表人",
+          "text": "通过什么？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "十四行诗。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "我约了她周五见面……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "或许能为我们打开双赢的局面。"
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

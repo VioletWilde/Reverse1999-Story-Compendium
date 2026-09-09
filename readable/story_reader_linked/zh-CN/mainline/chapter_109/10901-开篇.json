@@ -1,0 +1,754 @@
+{
+  "episode_id": 10901,
+  "chapter_id": 109,
+  "chapter_title": "疯癫与文明",
+  "display_label": "",
+  "title": "开篇",
+  "subtitle": "故事始于一九九一年三月二十二日傍晚。",
+  "trails": [
+    {
+      "element_id": 1090101,
+      "owner_episode_id": 10901,
+      "trigger_episode_id": null,
+      "title": "回环的幽灵",
+      "description": "",
+      "action": "残篇阅读",
+      "unlock_condition": "EpisodeFinish=901",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "一场战争开启之时，世界便开始了原地踏步。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "前进，撤退，冲锋，溃败，活在战场上不需要理解其他规则。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "这份报告上甚至没有写它是何时开始的，也没有陈述战争的诉求。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "战争还未开始",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "当然，你可以这样说。土地的疮痍总是触目惊心，灵魂的徘徊只能让人后知后觉。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "作家施加在音节与词语上的暴力，不亚于一道非人性的军令。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "士兵必须按照军令行事，文字也得跟随作家的意愿排列。"
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "这与现在发生的又有什么关系",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "这是一场看不到结局的流浪，年轻的作家可用的道标并不多。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "正如在厮杀的间隙，一些战士会捧出宗教的箴言，另一些则会流连来自亲友的书信。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "他们通常将这称为归宿，靠它盖过炮弹的轰鸣声，来提醒自己保持人性。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "但他们总会意识到自己很可能回不了家，迟早带着思乡病死在战场上。"
+                }
+              ]
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "一场梦会是最好的良药",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "当然，梦会带你去往任何地方，不管是老家的街景，还是趴在桌上写书的下午。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "直到你分不清梦和现实，最后忘了如何醒来。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "士兵将在烂泥巴战壕里徘徊一生，士官长将一遍遍地发出送死的军令。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "而词句将永远逡巡于诗篇的结构里，诗篇永恒复苏在预言的律令下……"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "诗人说话真是拗口。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "词句是文学的战场",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1090102,
+      "owner_episode_id": 10901,
+      "trigger_episode_id": null,
+      "title": "《布宜诺斯艾利斯分部交接报告》",
+      "description": "权限，总是弹性的。",
+      "action": "交互",
+      "unlock_condition": "EpisodeFinish=901",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "《布宜诺斯艾利斯分部交接报告》"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "布宜诺斯艾利斯分部已收容“暴雨专项小组”成员乌尔里希、星锑，目前两位成员暂驻分部进行基础健康检查。\n……\n司辰及其助手于火地岛登陆后接到讯息，已离队执行任务。\n讯息来源与该行动详情已由十四行诗自行提交报告，我方目前无权限查阅。\n……\n\n已收容的其余幸存者\n\n芭卡洛儿\n纯血神秘学家，“自由海风号”游轮乐手。\n\n……\n\n图图石子\n纯血神秘学家，努库泰奥族人。\n*该族群需进一步调查。\n\n……\n\n危险等级评估报告详见附页1-35。"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1090103,
+      "owner_episode_id": 10901,
+      "trigger_episode_id": null,
+      "title": "乌斯怀亚港口爆炸",
+      "description": "报告，源源不断的报告，为什么全是报告。",
+      "action": "交互",
+      "unlock_condition": "EpisodeFinish=901",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "乌斯怀亚港口爆炸"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "乌斯怀亚港口爆炸引发的地面震动持续近10秒，随后火势借助强风吞没了港区，浓烟蔓延数公里，爆炸造成12人受伤，200多名居民被疏散，海军与消防部门消耗近六小时控制火势，但关键物流设施已化为废墟。\n    经查，爆炸源头是第三码头的一座储油罐与两处货运仓库，但港口的原油储存数量与爆炸规模严重不等，怀疑事件涉及神秘术，目前尚不明确是否与芝诺撤离有关，也正在同步调查其他神秘学组织。\n\n    这是什么情况？！到了今天你就给我交一份这样的报告？恐慌已经在蔓延了，乌斯怀亚港口是距离哪里最近的一座深水港还需要我给你们强调吗？窜得比灯塔还高的火焰，被映成血红色的海水，所有人都在想起十几年前的战争！现在我们所有人的伤口被人以这样的方式狠狠撕开，我给足你们时间调查，你就给我列几个可能性？\n    前几天居然还有人在怀疑监狱里关的那群疯子——他们除了拿脑门磕铁丝网磕出一首蹩脚的陈词滥调以外还会干什么？拿写满颠倒诗句的废纸给自己造个分身留在监狱里，再幻想出几个隐形热气球把他们带到港口，最后拿泥土和碎冰捏出大量炸弹？你唯一做对的事情就是没把他们列入你的可能性，否则我们就一起进监狱和那群疯子磕铁丝网吧！"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100901",
+      "internal_title": "第九章9-01.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "疯癫与文明"
+        },
+        {
+          "kind": "title_card",
+          "text": "开篇"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "因此柏拉图年\n\n席卷出新的是非观\n\n而卷入旧的观念\n\n所有人都是舞者，他们的舞步\n\n迈入了野蛮铿锵的锣鼓声\n\n\n                    威廉·巴特勒·叶芝：《一九一九年》"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "三月已至下旬，随着时间推移，乌斯怀亚的白日时长正在逐渐减少。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "这是一座孤寂的城市。此刻，世界尽头的咖啡馆里，所有的谈话与笑闹声都如同被笼罩在一个密不透风的玻璃盏之中。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "数年前，我在库埃纳瓦卡的露营地做守林员时，认识了一名来自墨西哥超现实主义派的诗人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "为了感谢我对他的帮助——唔，一些不足挂齿的小事，只不过是替他赶走了露营地里突然出现的野生动物罢了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "言归正传。他告诉了我一个相当离奇的故事：这个故事发生在1975年的墨西哥索诺拉州，一个名叫阿马尔菲塔诺[Amalfitano]的沙漠小镇。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "故事的内容和当地一个神奇的风俗有关，他们管它叫“巴比伦之骰”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "一位提着箱子的能量扰动学家为了探索、记录这神奇的民俗而踏上这片土地。你们懂的，这类人嘛，不外乎是为了什么学术研究……"
+        },
+        {
+          "kind": "title_card",
+          "text": "乌斯怀亚·咖啡馆"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "她却不知道，这座破败的小镇、这些周而复始的习俗成为了她命运中未知一面的开始——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "同行青年Ⅰ",
+          "text": "虚构集，我觉得你需要给这个能量扰动学家取一个名字。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "同行青年Ⅰ",
+          "text": "她可以叫诺拉、乔安娜或者特蕾莎……只需要一个名字，这个故事就会变得易于理解许多。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "迷惑和震惊的神情交织浮现在故事讲述者的脸上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "谢谢你的建议，玛利亚。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "但她不是诺拉，也不是乔安娜和特蕾莎。她不是任何别的人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "她就只是这个故事里的能量扰动学家。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "同行青年Ⅱ",
+          "text": "哈哈哈哈！玛利亚，你有看到虚构集说“谢谢”的时候，那咬牙切齿的神情吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "同行青年Ⅱ",
+          "text": "一个不容置疑的事实——如果虚构集愿意听你的建议，那她就不会是我们所认识的虚构集。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "好吧，我会重新思考故事的切入点。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "从巴比伦之骰开始怎么样？它来自一位被西班牙囚禁的阿兹特克巫师——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "遗憾的是，这枚神秘的骰子并没有等来它的后续。故事第二次被打断了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "同行青年Ⅰ",
+          "text": "唉……我很抱歉。只是看来这一次，我们也无法读懂你的小说了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "同行青年Ⅰ",
+          "text": "但这并不是你的问题……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "同行青年Ⅱ",
+          "text": "玛利亚，你为什么不直接告诉她呢？这确实不是你的问题，因为我们决定回布宜诺斯艾利斯了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "回布宜诺斯艾利斯？可……这太突然了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "潘乔，玛利亚，究竟发生了什么事？是我们路上闹了什么我不知晓的矛盾吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "毫无头绪的女孩观察着同行了两个月的诗人伙伴。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "我明白了，一定是你们对我一直念叨的小说感到不耐烦了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "同行青年Ⅰ",
+          "text": "不，不，不是这样的。你误会了……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "同行青年Ⅱ",
+          "text": "你还不明白吗？我们没有钱了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "同行青年Ⅱ",
+          "text": "不然我们在这儿干什么？我们为什么要在这里擦这些永远擦不干净的杯子、桌子和地板？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "同行青年愤怒地扔下手中的抹布，拔高的音量让整座咖啡馆为之寂静一秒。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "噢，那当然是因为我们还没还清这几天的马黛茶钱……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "同行青年Ⅱ",
+          "text": "听着，虚构集。成为一个诗人，环游拉丁美洲，在官方大诗人的集会上闹事，这一切确实如你所说的那样酷。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "同行青年Ⅱ",
+          "text": "但它只是没法一直持续下去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "同行青年Ⅰ",
+          "text": "我们都很喜欢你，也很喜欢你的小说。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "同行青年Ⅰ",
+          "text": "我不想否认这段旅程给我带来的一切。哈，像切·格瓦拉一样骑摩托车环游拉丁美洲？自成年之后我就没有过这样的幻想了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "同行青年Ⅱ",
+          "text": "是挺好的，除了像切·格瓦拉一样摩托车坏掉的那几天。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "同行青年Ⅰ",
+          "text": "闭嘴，潘乔。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "同行青年Ⅰ",
+          "text": "虚构集，你知道吗？自从你邀请我和潘乔加入本能现实主义派之后，有那么一些时刻，我们确实感觉自己成为了一名真正的诗人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "同行青年Ⅰ",
+          "text": "哪怕我到现在都不能理解什么是本能现实主义，也从来没有看懂过你的小说。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "玛利亚，潘乔……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "同行青年Ⅰ",
+          "text": "但就像你说的那样，重要的不是这些，而是过着诗人一样的生活。我确信我们做到了。只是……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她看向窗外的乌斯怀亚，感觉到一丝寒意。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "昏暗的天空下着小雪，季节正在蜕变。\n很快，灰白色将会掩盖这片土地上所有闪闪发亮、色彩斑斓的低矮房屋。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "同行青年Ⅰ",
+          "text": "……冬天马上要来了，而你看起来像是被困在那个永恒的沙漠小镇里了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "审判席上，一直在接受指控的女孩陷入了短暂的沉默。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "谢谢你们的肺腑之言，潘乔，玛利亚。但我必须说，情况比我想象中的要好。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "听我说，我有一个绝妙的点子。我知道一个可以让所有神秘学家都安安稳稳度过冬天的地方。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "1520年，神秘学家麦哲伦背负着西班牙政府赋予的伟大使命，率领舰队在一片陌生的海域中航行。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "遥远处，岛上的堆堆篝火吸引了他的视线——他将这个新发现的神秘岛屿命名为火地岛【Tierra del Fuego】。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "此后四百年间，关于乌斯怀亚的历史叙事就此展开：在这座世界尽头、遥远南端的城镇，它最大的建筑竟然是一所监狱！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "因其偏远的地理位置，乌斯怀亚逐渐成为了流放神秘学家死刑犯的绝佳场所。而科马拉疗养院，就建立于二十世纪初期，神秘学家获罪的高峰时刻。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "噢，请见谅——在当时，部分，或者说大部分的神秘学家，都被定义为一种疯癫的存在。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "毕竟没有人在意“疯癫”的本质是什么，不是么？但人们总会意识到，神秘学血统并不是一种疾病，于是在1947年，疗养院就被废弃了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "二十世纪七十年代，被弃置的科马拉疗养院迎来了一次真正的改头换面：一群国家福柯学会的人引进了来自欧洲的先进概念。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "没人知晓那些复杂的理论代表着什么含义，总之，他们将疗养院更名，并在旧址上哐哐当当地改造了数个月。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "漫长的改造结束了，科马拉疗养院成为了一座真正关押神秘学家罪犯的监狱——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "他们在这儿囚禁那些被诊断为精神分裂的嫌犯，那些在各种秘密集会、反对组织中被抓捕的神秘学家。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "协会宣称会给他们最好的治疗，直到他们能痊愈，能回到日常生活里去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "一所实验性质的监狱，一所监禁性质的疗养院，这就是科马拉全新的面目。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "我们可以在科马拉度过一整个冬天，保准不会遇到任何经济上的困难。尽管可能要付出一点点的代价……并且需要一点点的演技。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "相信我，伙计们，饰演一个精神分裂的嫌犯没什么难的——这是所有神秘学家天生就掌握的技能。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "同行青年Ⅱ",
+          "text": "你的“绝妙点子”就是让我们都去坐牢吗？!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "同行青年Ⅱ",
+          "text": "再多的花言巧语也掩盖不了它是一所监狱的事实！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "气急的同伴转过头看向一旁。结满霜的玻璃窗隐隐透出街道外的景色：一名巡逻的宪兵迈着轻快的步子，走过众人所在的咖啡馆。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "同行青年Ⅱ",
+          "text": "你看，现在外面正路过一个进入监狱的绝妙法子：冲出去，揍那个戴帽子的男人两拳，保准你马上如愿以偿。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "这听起来是一个好主意。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "同行青年Ⅰ",
+          "text": "冷静点，虚构集，宪兵不是我们能招惹的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "同行青年Ⅰ",
+          "text": "我和胡丽娅姨妈已经说好了。她在布宜诺斯艾利斯周边有一座葡萄庄园，现在正是需要短工的时候，我们可以回去给她帮忙，再多的人也不嫌多。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "同行青年Ⅰ",
+          "text": "等明年……或者冬天过去了，我们再来乌斯怀亚一趟！那也一定会是一趟好旅程。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "闻言，一直滔滔不绝的女孩平静下来，脸色疏离得好像桌上冷掉的马黛茶一样。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "谢谢你们，玛利亚，潘乔。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "但我拒绝。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "对我而言，现在的一切不仅仅是一趟旅程而已。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "冬天确实要到来了。但万一冬天过去，一切都变化而不复存在呢？也许这是我最后的机会了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "同行青年Ⅰ",
+          "text": "虚构集……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "同行青年Ⅱ",
+          "text": "我早和你说过了，玛利亚，你是永远不可能说服她的。一切都是白费功夫！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "同行青年Ⅱ",
+          "text": "那就永别了，亲爱的虚构集——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "忽然之间，潘乔脸上的表情凝固了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "同行青年Ⅱ",
+          "text": "该死，外面的宪兵好像真是冲着咱们来的！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "什么？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "咖啡馆的门被推开了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一阵寒意与潮气瞬间席卷了室内，虚构集寒毛直竖，视线不由自主地往门口聚焦。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "宪兵",
+          "text": "别跑，你们几个！在先行者路的诗会上闹事的那批人！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "话音刚落，身边的两个同行青年早已脚底抹油，不见人影。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "这下糟糕了。"
+        }
+      ]
+    },
+    {
+      "script_id": "100902",
+      "internal_title": "第九章9-01.2",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "乌斯怀亚·街道"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "宪兵已经不见踪影，但狼狈的青年作家仍然不敢停下逃跑的脚步。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "终于，她摔倒在了湿漉漉的街道上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "啊……！上帝保佑，他没有追上来……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "您还好吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "谢谢你，善良又热心的女士。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "但我没事。不过是在路上狠狠摔了一跤，比被宪兵勒索一顿要好得多了——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "噢，德洛丝女士！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "您最近过得怎么样？果然，命运就是一个首尾衔接的环，我们又遇见了！这次，您能带我进去科马拉监狱吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "……德洛丝？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一个从天而降的名字——由一位脸着地、看不清面前来人的小姑娘所提供。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "司辰，她提到了德洛丝女士！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "唔……我认错人了？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "线索提供者擦干净脸上的雪水，头晕目眩的她终于看清面前的陌生人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "种种迹象表明，命运并不是个首尾相衔的环——\n至少面前提着箱子的人不是自己数天前遇到的那位女士。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "真是神奇，这世界上竟然存在如此相似的面容。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "啊！请原谅我——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "没关系。您能告诉我，您是在哪里见到德洛丝女士的吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "……就是您所说的，与我长得有些相似的那位。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "当然可以，但——阿嚏——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "看你们的衣着打扮与口音，你们并不是本地人对吧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "请随我来。我知晓一个比下着雪的街道更好的谈话地方。"
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

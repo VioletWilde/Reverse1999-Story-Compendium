@@ -1,0 +1,866 @@
+{
+  "episode_id": 3110120,
+  "chapter_id": 31101,
+  "chapter_title": "长夜鸣笛",
+  "display_label": "",
+  "title": "长夜漫漫",
+  "subtitle": "血腥的夜晚结束了。",
+  "trails": [
+    {
+      "element_id": 3110114,
+      "owner_episode_id": 3110120,
+      "trigger_episode_id": null,
+      "title": "三流小说",
+      "description": "不是每个人的生活都是一个合格的故事，我们一般都生活在三流小说里。",
+      "action": "交互",
+      "unlock_condition": "EpisodeFinish=3110120",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "普通而不普通的故事"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "今天的故事不从“很久很久以前”开始，从“一个偏僻而普通的村庄”开始。这个村庄里生活着一个和村庄一样普通的小女孩。小女孩的父亲是血食怪，但小女孩不像血食怪父亲那样离群索居，她对人类和神秘学家有着自然的亲切感——或许因为她是混种血食怪？一个不够纯粹的“异类”？总之，在很长的一段时间里，女孩在村庄中和父母一起平静而普通地生活着，直到一枚炮弹落下。\n    是的，战争爆发了。又是战争。\n    战争带来死，蔓延的死。小女孩的亲人没有幸免于难，他们相继死去，最后只剩下女孩和她的叔叔相依为命，四处流浪。而炮弹向来公平，无论是对人类、神秘学家、血食怪还是混种血食怪，小女孩在流亡的路上受了伤。什么样的伤？不清楚，数不清也看不清。严重吗？我想是的，她几乎死去。她的叔叔想要救下唯一的亲人，救下这个一无所有的小女孩。即便是与恶魔交易，他也心甘情愿。\n    叔叔带着奄奄一息的小女孩来到了一座古堡。古堡的女主人像所有故事中的那样神秘莫测又神通广大，她治好了这只可怜的混种血食怪。小女孩可以活下去了，唯一的代价是——如果这算代价的话——她获得了过分活跃的自愈能力，这使她可以自如应对一切伤口。\n    从那之后，小女孩的身上总是缠满绷带。"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "203129",
+      "internal_title": "【3.1】长夜鸣笛20.1",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "草原春"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾玛",
+          "text": "叔叔，我们什么时候到呀……艾玛的头，好晕……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "鲍里斯",
+          "text": "很快了……翻过这座山脉，我们就能看到边界了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "鲍里斯",
+          "text": "然后我们会渡过莱切河，瓦伦缇娜小姐居住的城堡就在那边……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "鲍里斯",
+          "text": "她会治好你的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "转场"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "林中深处"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾玛",
+          "text": "叔叔，瓦伦缇娜小姐……真的会帮我们吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "鲍里斯",
+          "text": "她会的，艾玛。血食怪不会抛弃有着相同血脉的族人，这是我们的责任。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾玛",
+          "text": "不会抛弃……相同血脉……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "鲍里斯",
+          "text": "没错，艾玛。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "鲍里斯",
+          "text": "血脉是我们最坚固的纽带。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "黑屏"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾玛",
+          "text": "叔叔……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "浮窗"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "艾玛将木质的套娃轻轻放在地上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "套娃脸上依旧挂着不变的微笑，仿佛还记得多瑙河沿岸的风、列车的晃动，还有她一路走来的低语与笑声。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "如今，它的旅程终于结束了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "它该回到属于它的地方了——一个没有隔阂、没有流离的世界。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "或许，它会在那里找到属于自己的答案。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾玛",
+          "text": "叔叔……再见。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "长黑"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "车站仓库"
+        },
+        {
+          "kind": "title_card",
+          "text": "尼卡检查站·仓库"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "地标"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "感染的士兵",
+          "text": "呜呜……嗷……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "失去了首领的怪物们不安地游荡着，咆哮声穿透了寂静的雪夜。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "仓库内，劫后余生的人们聚在一起，商讨着下一步的行动。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅尔维斯",
+          "text": "信号恢复了。我已经联络了基金会，他们会派人过来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅尔维斯",
+          "text": "不过看样子，恐怕增援来之前，这些感染种便会突破这儿。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "虽然鲍里斯已经死了，但看起来这些感染种还处在失控的状态中。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "甚至可以说……他们变得更加危险了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "调查员看向仓库不断颤动的大门，几不可闻地叹了一口气。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅尔维斯",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅尔维斯",
+          "text": "但愿今后我不会再和血食怪扯上关系，这是最后一次。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "观察着现状，雅科夫看了看手中的武器，皱起了眉。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "雅科夫",
+          "text": "可我们已经耗尽了弹药，又该怎么从这些危险的家伙中突围？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "……我想，这或许是一个一网打尽的好机会。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "雅科夫",
+          "text": "一网打尽？你想怎么做？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "找个宽敞的地方，将那些家伙聚集在一起，剩下的就交给“它们”来办。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "列车长指向仓库角落里标记着“易燃易爆”的沉重货物。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅尔维斯",
+          "text": "刚才我也注意到了。如果我没猜错的话，这里面装着的是炸药吧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "没错。这是军队之前从一伙民兵的基地里搜剿的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿不思诺",
+          "text": "听起来可行，但前提是我们能将分散的感染种引到一处……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "索尼娅",
+          "text": "真是荒谬！难道你打算给他们每人发一封邀请函，让他们一起来听音乐会吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "音乐会……对啊，确实可以让他们来听“音乐会”！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "女孩灵光一现，晃了晃手中的笛子。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "就像故事里说的那样——感染种丧失了神志，只会本能地被声音吸引。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "而卡瓦尔的笛声非常响亮，只要不是聋子都会被它吸引注意力的!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅尔维斯",
+          "text": "……确实符合基金会内部记载的资料，是个可行的方案。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅尔维斯",
+          "text": "所以，你决定好了吗？成为吸引感染种的诱饵。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "女孩握紧笛子，眼神无比坚定。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "是的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "拉伊哈",
+          "text": "不，她还只是个孩子……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "安娜贝尔",
+          "text": "我们也不同意！之前我们已经差点失去过你一次了……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "女孩用力绞着手上的玩偶，眼眶和鼻头都红红的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "放心吧，我跑得很快，那些慢吞吞的感染种根本追不上我。再说了……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "我的笛声还能操控影子！到时候我会制造出好多影子一起满地乱跑，把他们都骗得团团转！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "很遗憾，这里没有比我更适合的人选了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "人们纷纷摇头。几乎所有人脸上都浮现担忧与反对的神色，唯独一个人例外。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "不害怕吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "说不害怕肯定是骗人的……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "可谁叫我是最强大的血食怪野树莓呢？大伙儿可都靠着我呢！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "列车长点点头，脸上露出一丝理解的微笑。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "去吧，我相信你，“朋友”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "放心，一定凯旋！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她立正身体，朝列车长行了一个歪歪扭扭的军礼。列车长恍若未见，只转身朝其他人挥了挥手。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "剩下的人都跟我走，我们去布置“陷阱”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "务必将他们一网打尽。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "渐黑"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "长黑"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "边境检查站"
+        },
+        {
+          "kind": "title_card",
+          "text": "边境检查站"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "地标"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "雪还在慢慢下着。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "感染的士兵",
+          "text": "呜……嗷……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "感染者穿行在大雪纷飞的夜里，步履沉重，仿佛在无尽寒冬中迷失的旅人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "女孩独自站在雪中，唯有手中的木笛陪伴着她。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "感染的士兵",
+          "text": "啊……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一张张面孔从黑夜深处浮出，苍白的皮肤紧贴在骨架上，血管如干涸的河床般纵横交错。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "它们使她想起另一张脸。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "脸"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "消失"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "——！！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她退后了一步，却又再向前走了两步。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "对不起，妈妈。我……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "我不会再逃跑了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "女孩深吸一口气，然后又轻轻吹出。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "先是几个笨拙的音符，紧接着一连串错落的和弦。\n渐渐地，和弦被编织起来，旋律在雪中流淌。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "感染的乘客",
+          "text": "呜……啊啊啊……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "那是柔和而寂寥的旋律，它曾伴随女孩走过硝烟散尽的战场、寂静的墓园和群山……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "视频"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "漫长的岁月里，她曾是这段旋律唯一的听众。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "那时候，眼前只有一望无际的寂静，和未曾目见的未来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "于是，她幻想出一个又一个血食怪的故事……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“血食怪德古拉”",
+          "text": "没错，我就是野树莓的祖先，穿刺公德古拉！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“血食怪阿诺德”",
+          "text": "我是野树莓的爷爷，荣耀而强大的初代埃杰什公爵！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“血食怪萨瓦诺维奇”",
+          "text": "我是……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "长长的族谱在少女的编织下日渐复杂，成为她旅途中最亲密的伙伴。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "回过神来，孤独的她与那些故事一起，已经不知不觉走了很远。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "妈妈……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "母亲",
+          "text": "你已经走了这么远啊，我的孩子。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "是，是啊……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "我穿过了里拉山脉，渡过了斯特鲁玛河谷，沿着多瑙河一路走，一路看……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "哦，对了！我还上了一趟列车……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "母亲",
+          "text": "听上去，这是一段幸福快乐的日子。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "幸福……？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "母亲",
+          "text": "风景、朋友，还有列车的鸣笛声……你说得那么认真，那么快乐。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "原来，那些记忆早已在不知不觉间渗透进来，占据了原本属于死亡、坟墓与鲜血的角落。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "远方笛声的曲调下落，尾音慢慢融化在阳光里。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "女孩仰起脸，仿佛再一次闻到了四月的风。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "是的……我很幸福。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "我从未感到如此幸福过，妈妈。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "关视频"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "黑屏"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅尔维斯",
+          "text": "很好。那些感染种都被笛声吸引过来了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "准备工作完成，炸药已就位。接下来……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "列车长朝着野树莓的方向挥了挥手。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "女孩立刻会意，悄无声息地拉远与影子的距离，直到彻底远离感染种的包围。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一切准备就绪。列车长收敛眉目，发出最后的指令。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "三、二、一——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "爆炸"
+        }
+      ]
+    },
+    {
+      "script_id": "203130",
+      "internal_title": "【3.1】长夜鸣笛20.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "边境检查站"
+        },
+        {
+          "kind": "title_card",
+          "text": "边境检查站"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "地标"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾玛",
+          "text": "请大家排队进行登记……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾玛",
+          "text": "天亮后列车就要启动了，请各位抓紧时间……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "站台的秩序逐渐恢复。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "列车长独自留在原地，看着大雪覆满的车站，以及爆炸留下的残骸。大面积的鲜血、内脏与残块铺陈在雪地上，仿佛猩红的花朵在一瞬间突然绽放。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "鲍里斯的尸首也被抬了过来。他被放置在花蕊的中心，空洞的眼珠注视着眼前的虚空。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "这地方真冷。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "在斯特兰贾，我以为自己会死在一个和今天一样冷的地方。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "我们躲藏在山里，每一根扎伤小腿的藤条上都是雪花。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她看着接在手心的雪花，用不了多久这些白色的小东西就会融化、消失，像她呼出的鼻息。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "艾玛会继续留在“多瑙黎明号”上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "一个人畜无害的血食怪，没人会知道她的身份。她会像普通人那样活着。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "偶尔用一点点鲜血来安抚她渐渐平息下去的血渴，那不是什么麻烦事。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她自言自语地说着，忽然皱眉看向一旁。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "出来吧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "空心木",
+          "text": "你还是和那时候一样敏锐。什么都逃不过你的眼睛。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "不好意思，我们之前见过吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "空心木",
+          "text": "不仅见过……我们曾是最好的搭档。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "空心木",
+          "text": "后来因为一场意外，你离开了我们。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "抱歉，我想你应该认错人了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "空心木",
+          "text": "哈哈……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "撰稿人叹了口气，随即又释然地笑了起来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "空心木",
+          "text": "是啊，虽然外貌一样，但你们是完全不同的两个人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "空心木",
+          "text": "不管怎么说，起码我们有幸在同一趟列车上短暂同行。或许这也是某种奇妙的缘分吧？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "空心木",
+          "text": "我们也在同一天失去了自己的朋友。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她笑着拿过列车长手中的火把，将其点燃，然后扔在了眼前的残肢肉块上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "火焰静静地燃烧着。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "俩人沉默地站了一会儿，直到晨曦的第一缕阳光洒下。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "缓冲"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "渐黑"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "长黑"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "车站广场（晨曦版）"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "空心木",
+          "text": "天终于亮了。这可真是一个漫长的夜晚。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "走吧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "列车长转过身，大步走向不远处静静停驻的列车。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "“多瑙黎明号”……即将再度启程。"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

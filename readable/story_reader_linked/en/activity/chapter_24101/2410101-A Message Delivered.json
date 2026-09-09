@@ -1,0 +1,603 @@
+{
+  "episode_id": 2410101,
+  "chapter_id": 24101,
+  "chapter_title": "Last Evenings on Earth",
+  "display_label": "",
+  "title": "A Message Delivered",
+  "subtitle": "We live in independence, yet we depend on others to survive.",
+  "trails": [
+    {
+      "element_id": 2410101,
+      "owner_episode_id": 2410101,
+      "trigger_episode_id": null,
+      "title": "Unofficial Map",
+      "description": "The nameless black dots on this parchment cry out for annotations.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=2410101",
+      "content_hints": [
+        "fragment",
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "Excerpt from \"A History of Arcane Ethnicity\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "...\n\nDue to the reclusive nature of the Nukutais, our knowledge of this enigmatic people comes only from the sparse accounts of a few trading ships that had contact with them and the legends from neighboring societies.\n\n...\n\nIn the folklore of coastal civilizations in the South Pacific, there are often tales of Shell People or Hermit Crab People. These beings, dressed in shells and living in the water, are depicted as otherworldly ocean emissaries or guardians. They offer advice and guidance to the protagonists in these stories or help those lost at sea.\n\n...\n\nWith the Age of Exploration, the veil over these mysterious figures was lifted, and a small island named Nukutaeao, known for its production of mystical and esoteric crafts, became a topic of intrigue among adventurers in taverns. Consequently, the intrusion of explorers and trading ships seemed to weary the Nukutais, and records from that period show they gradually vanished from the pages of history. They employed some form of arcane skill to conceal the island's exact location, ensuring their homeland never appeared on any official map.\n\n...\n\nToday, with advancements in maritime technology and increasing global communication, it is only a matter of time before the island of the Nukutais is rediscovered. The author can only hope that this inevitable encounter will not bring undue harm to the Nukutais, wishing that they can integrate into the global community through peaceful and friendly exchanges. May the final chapter of this Age of Exploration conclude with harmony."
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "202401",
+      "internal_title": "【2.4】地球上最后的夜晚01.1",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "When the first proverb appears on the shell, we reach the shores of elsewhere—the island, the upturned palm of Mother Sea."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The once drifting boat now beds itself in the golden sand."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "When the second proverb appears on the shell, we kindle the fire—the crackling warmth, the spark of hope."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The joyful people are long blessed as one."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "When the third proverb appears on the shell, we accept the sea's gift—the rolling waves, the plentiful fish."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The cool sea breeze cradles us."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "When the fourth proverb appears on the shell, we face the test—the salty tears, the longing gaze."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Beyond the sea, I find no home."
+        },
+        {
+          "kind": "title_card",
+          "text": "Beach, Nukutaeao"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Kamuta",
+          "text": "You did well today, Tutu."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Fatutu",
+          "text": "Thank you, Kamuta! I was just playing my part in celebrating the success of the trade season. Nothing special, really."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Fatutu",
+          "text": "But what are we doing here? What could be more important than the celebration?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Fatutu",
+          "text": "I've never seen you sneak off on a bonfire night before."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Kamuta",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Kamuta",
+          "text": "Tutu, do you think you and your friends could fix up that old ship?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Kamuta",
+          "text": "I know you're close with Toa, Selone, and the rest. They always make sure their first fous go to you. I'm sure they'd be happy to lend you a hand."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Kamuta",
+          "text": "And the elders like you, too. I've heard many of them say they'll leave their Spirit Shells to you. So you can win their support, too, right?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Fatutu",
+          "text": "Woah! Slow down, big chief! Are you saying you want to fix up the Quick Spear?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Kamuta",
+          "text": "Hm! Yeah."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Fatutu",
+          "text": "But why? We've kept it docked for years."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Kamuta",
+          "text": "Maybe one day we'll need to set sail again—to fish or spend some time on another island."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Fatutu",
+          "text": "But, the merchants already come by every few months to bring us hala fruits and red snappers. Why would we need to sail?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Kamuta paces back and forth in front of Fatutu, the words stuck in his throat."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Kamuta",
+          "text": "Yeah, but what if a storm hits? Are we just going to sit around and let the waves wash away our homes?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Fatutu",
+          "text": "We've been through much worse than a few storms."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She raises her head proudly."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Fatutu",
+          "text": "Remember when the waves came and took away Malaga? Heilani cried for days over that little pebble castle."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Fatutu",
+          "text": "And then that strange oil polluted the water all around Itiiti—the only place where the water's calm enough to hold the Paopao race. We haven't held a race since."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Fatutu",
+          "text": "Then Miti and Vaipuna ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Fatutu",
+          "text": "But we've made it through, because that's what we do in the face of difficulties, right? We stick together. Besides, we're doing just fine on Meli."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Kamuta",
+          "text": "But what if we lose Meli to the waves as well?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Fatutu",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Kamuta",
+          "text": "If it comes to that, Tutu, I need you to take everyone and leave—find somewhere to stay for a while. Can I ask that of you?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Fatutu's brow furrows."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Fatutu",
+          "text": "You've been acting strange, brother. Are you thinking of sneaking off and leaving us?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Kamuta",
+          "text": "I'm not going anywhere. I promise."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Fatutu",
+          "text": "Neither are the rest of us, brother."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Kamuta",
+          "text": "No! You must get ready. Start preparing now!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Kamuta's unusual behavior leads Fatutu to make a bold guess."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Fatutu",
+          "text": "Something's been bothering you since last trade season. You've been spending a lot of time on the beach, looking out to the sea."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Fatutu",
+          "text": "Did a witch put a spell on you?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Fatutu",
+          "text": "You better wear some molukka around your neck and carry knitbones and dulse leaves."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Kamuta",
+          "text": "No, no, there's no witch. It's just something Ms. Grace told me. It's been bugging me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Fatutu",
+          "text": "Ms. Grace? That outsider who calls herself a captain?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "With the singing of the Nukutai, the trade festival slowly comes to an end."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "On the beach, the Nukutai bid farewell to their guests in twos and threes, enjoying this rare moment of leisure."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Grace",
+          "text": "I don't mean to alarm you, Mr. Kamuta."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Grace",
+          "text": "But three months from now, Meli will be devoured by a tsunami."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She stands nonchalantly, as if discussing something insignificant."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Kamuta",
+          "text": "Ms. Grace, don't say such nonsense!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Kamuta",
+          "text": "You're welcome as a guest, but that doesn't give you the right to spread fear among my people."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Grace",
+          "text": "What if I told you that the sinking of Malaga and Vaipuna wasn't entirely caused by the tsunami, but there were other factors at play?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Kamuta",
+          "text": "...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Grace",
+          "text": "It is true that the tsunami sent them into the sea. But long before it struck, foreign military forces had been eyeing the islands for their strategic value."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Kamuta",
+          "text": "Those rumbling sounds ... They weren't thunder?!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Grace",
+          "text": "They were torpedoes launched by humans."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She presents a thick document in her hand."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Grace",
+          "text": "And I have some unfortunate news regarding them."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Kamuta grabs the cold, impersonal stack of white paper."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Kamuta",
+          "text": "\"The area is now under martial law. Any development plans for the region should be revised accordingly.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Kamuta",
+          "text": "These coordinates ... they cover Nukutaeao."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Grace",
+          "text": "After a brief investigation, they concluded that your home is an unoccupied area suitable for their weapon testing."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Grace",
+          "text": "It won't be long before they publish a report on this new test site and receive their rewards for discovering it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Kamuta",
+          "text": "The Veil of Nothingness was cast by our ancestors to protect us from the outside world."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Kamuta",
+          "text": "I never thought it would put us at risk."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Kamuta",
+          "text": "As Chief, I must bring this to the attention of my people. Perhaps it's time we removed the mist. But without it, we'll draw all kinds of attention."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Kamuta clenches the report tightly in his fist."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Kamuta",
+          "text": "Ms. Grace, may I borrow this document? My people need to see this."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Grace",
+          "text": "Be my guest. But you'd better persuade them quickly."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Kamuta",
+          "text": "Why's that?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Grace",
+          "text": "As far as I know, they're looking to expand the test site. It's on their agenda now."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Kamuta",
+          "text": "Right. We'll have to set up a meeting with them to negotiate."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Grace",
+          "text": "Certainly. I wish you the best of luck persuading those warmongers, and for your safety in the coming tsunami."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Every nonchalant word that leaves her mouth strikes Kamuta with the shocking gravity of the situation."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Kamuta",
+          "text": "With all due respect, Ms. Grace ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Kamuta",
+          "text": "Not even the Nukutai can predict the movements of the ocean that far in advance. On what basis are you making this forecast?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Grace",
+          "text": "It's not a forecast, Mr. Kamuta."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Grace",
+          "text": "Call it the wisdom of hindsight."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Grace",
+          "text": "Or perhaps, I should put it more clearly. Have you heard of the \"Storm\"?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Fatutu",
+          "text": "Kamuta! Kamuta! Brother!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Kamuta",
+          "text": "...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Fatutu",
+          "text": "The rain's getting heavier! We must go inside!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Rain blurs Kamuta's vision."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He stares into the distance, his eyes widening as the frothing waves roar toward the coast. The sea level is rising."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Kamuta",
+          "text": "It's the tsunami. It's happening."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Like the soil beneath the ever-rising waterline, Kamuta's murmured words are quickly buried."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The sea has almost swallowed the whole atoll."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Toa",
+          "text": "What's going on, Tutu? Kamuta?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A worried figure hurries over."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Fatutu",
+          "text": "No time for questions, Toa! We must bring these baskets to safety!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Fatutu is already pushing as many woven baskets filled with berries and bundled material as she can up to higher ground. Her hands are a sore red, her face stamped with desperate determination."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Toa",
+          "text": "Ah, there's food and clothes in there!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Selone",
+          "text": "Here, I'll give you a hand!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A tall figure rushes over, grabbing the baskets from the children's hands and tossing them aside."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Selone",
+          "text": "Chief, what are you doing?!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Kamuta",
+          "text": "Leave them! There's no time! We must get to the ship! Now!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Fatutu",
+          "text": "Our people still have to live after the flood's over!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Fatutu",
+          "text": "If we don't bring something, what are we going to eat or wear? These things won't fall into our laps, you know."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Kamuta",
+          "text": "Listen! It's different this time. You—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Before Kamuta can finish speaking, a few dark shadows dart out from the forest."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "*roar*"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Kamuta",
+          "text": "Tutu! Watch out!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Fatutu",
+          "text": "...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A row of sharp claws grazes Kamuta's back."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Toa",
+          "text": "What are all these Splintercats doing here?!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "&!*/% ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Selone",
+          "text": "The near-endless surge of critters starts to create an even greater panic."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Selone",
+          "text": "These aren't just Splintercats! Are those Sarmatian Sea Snails? And crabs with ghost faces?!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Toa",
+          "text": "I've never seen them all come out together before. What kind of storm is this?!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "In the flashes of lightning, doubt and worry flicker across the Nukutai's faces."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Kamuta",
+          "text": "They can sense the coming tsunami! Come, we need more hands to drive them off!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Toa",
+          "text": "Understood!"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

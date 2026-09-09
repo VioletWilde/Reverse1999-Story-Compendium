@@ -1,0 +1,482 @@
+{
+  "episode_id": 10112,
+  "chapter_id": 101,
+  "chapter_title": "在我们的时代里",
+  "display_label": "",
+  "title": "吹笛人",
+  "subtitle": "跟随他的鼠群尖叫着，一只接一只跃入海中。",
+  "trails": [
+    {
+      "element_id": 1011201,
+      "owner_episode_id": 10112,
+      "trigger_episode_id": null,
+      "title": "小径① 仪式蕴蓄",
+      "description": "一段记载，有关于如何迅速获得激情。\n快速振作士气有助于尽快召唤至终的仪式，使战局更有利。",
+      "action": "教学记录",
+      "unlock_condition": "EpisodeFinish=10111",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1011202,
+      "owner_episode_id": 10112,
+      "trigger_episode_id": null,
+      "title": "小径② 无名来客Ⅱ",
+      "description": "一个年幼的孩子。\n暴雨阻碍了调查任务，外界的变动让独行变得危机重重。",
+      "action": "交互",
+      "unlock_condition": "EpisodeFinish=10111",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1011203,
+      "owner_episode_id": 10112,
+      "trigger_episode_id": null,
+      "title": "昏迷的魔精",
+      "description": "你能从它身上得到答案。\n注意甄别谎言，许多生物都善于此道。",
+      "action": "交互",
+      "unlock_condition": "EpisodeFinish=10111",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100118",
+      "internal_title": "第一章1-13",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "吹笛人"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "前面没有路了。看来这又是一条死路。"
+        },
+        {
+          "kind": "title_card",
+          "text": "“瓦尔登湖”酒吧密道"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "前面没有路了。看来这又是一条死路。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "苏芙比",
+          "text": "咦？嗯……这面墙的背后……有好多人的欢呼声！\n这里就是出口，这里能通向外面！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "确实传来了很多人的声音……\n嗯？司辰？我好像听到了她的声音？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "苏芙比",
+          "text": "喂！有没有人来救救我们呀～！我们被困在墙后面了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "不行。他们听不到。让我把这面墙炸开——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "苏芙比",
+          "text": "不可以呀！外面听起来像是开宴会的样子，特别快活的！\n要是碎石落到他们身上就不好啦。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "苏芙比",
+          "text": "让我从砖缝里看看……唔，我们好像在一个舞台聚光灯的后面。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "苏芙比",
+          "text": "这些砖缝很大的！不如我们用腐蚀魔药来溶解这些缝隙，这样就可以把砖块移开了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "好主意！我们先从中间开始吧！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "得尽快离开这里……司辰，现在一定需要我的帮助……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "斯奈德",
+          "text": "呵……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "————！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "斯奈德",
+          "text": "啊……好喜悦、发自内心的喜悦……♪"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "雅座客人",
+          "text": "又跌了19个点？开什么玩笑？他们到底在干什么！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "宾客",
+          "text": "这……咳、我之前押的五千还能退回来吗？不能吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "吧台宾客",
+          "text": "喂、老板，你的行情走势图是不是出问题了？今天还不是愚人节吧？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "斯奈德",
+          "text": "啊呀呀、怎么回事？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "斯奈德",
+          "text": "好像已经没有人关注我们了呢，政府老爷～"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "斯奈德",
+          "text": "既然这样的话……那我让老爷你的胳膊见见血，观众们会不会感兴趣一些呢？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "唔嗯——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "股市果然提前暴跌了。这样加速历史进程……难道是为了……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "斯奈德",
+          "text": "你感觉不到疼痛么？真讨厌，下次瞄准你的大腿，是不是能让大家都专心一点？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "斯奈德",
+          "text": "“砰——！！”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "宾客",
+          "text": "该死的，这**是要跌停了？！刚才就该全卖掉——真是见鬼了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "吧台宾客",
+          "text": "我的房子……不，我所有的一切都……把我的押注拿回来！\n还给我！还给我****！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "雅座客人",
+          "text": "喂？亲爱的，不你听我解释，相信我这一定是暂时的……\n难道华尔街那些银行家们会坐视不管吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "雅座客人",
+          "text": "什么？所有人都在撤市……交投量已经有1,200万股了？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "宾客",
+          "text": "付个***的钱！我哪有现金？！我哪有现金？！我哪有啊？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "吧台宾客",
+          "text": "放我出去！我有急事……我要回家！我要回家！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "吧台宾客",
+          "text": "“砰——！”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "斯奈德",
+          "text": "啊哈哈哈……太有意思了！我在杀人，却没有一个人在意！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "斯奈德",
+          "text": "“砰砰——！砰砰——！！”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "这太危险了……！维尔汀为什么还不用那个冲击爆轰球！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "行动队长",
+          "text": "不行，还没到时候！我们好不容易打进敌人老巢，不能在这时候前功尽弃！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "斯奈德",
+          "text": "好了，我玩够了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "斯奈德",
+          "text": "不杀了你，今晚我们恐怕就走不了了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "斯奈德",
+          "text": "如果我先遇到的是老爷你“这片瓦砾”就好了。我们也不至于……算了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "斯奈德",
+          "text": "政府老爷，再见啦。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "斯奈德",
+          "text": "她将手轻轻扬起，惨白、柔弱、就像一只悲伤的鸽子——再坚决地指向我。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "斯奈德",
+          "text": "“唰——！！”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "斯奈德",
+          "text": "巨大的聚光灯突然直直的照向这边，刺眼的白光瞬间遮蔽了一切——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "司辰——！！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "“砰砰砰——！”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "急促的脚步声向这里奔来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "司辰，怎么回事，你流了好多血……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "我没事。\n你怎么会从……舞台后面跑出来？你看起来没受伤……太好了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "苏芙比",
+          "text": "你们快到这边来！那里好多人在吵架……啊、小心一点，会被撞倒的！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "苏芙比",
+          "text": "远处的高台上，传来一阵缓慢的掌声。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "他身后的……是重塑之手的人……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "感谢在场的各位，为这个即将毁灭的世界，创造了一场难忘的谢幕演出。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "宾客",
+          "text": "勿忘我？！我在你这里买的股票全都赔光了……！你要怎么补偿！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "很好的问题，尊敬的托马斯先生。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "我正是来向大家分享一个好消息的——和这个好消息比，道琼指数跌破300根本不值一提。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "你们现在生活的这个世界……\n咆哮二十年代的1929年，即将迎来一个终结的句号。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "现在，我恳请大家与我们一起静静地等待这个句号的降临。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "宾客",
+          "text": "你是疯了吗？你知道你自己在说——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "宾客",
+          "text": "“咻咻——！”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "宾客",
+          "text": "呃唔…………"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "别担心。他只是暂时不能说话了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "骚动的人群们安静下来了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "明明是装扮得格外喧闹的场所，派对气球、羽毛装潢、礼服宾客……\n在这一瞬间，都陷入了巨大的沉默。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "名为沉默的恐惧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "“叮铃铃——”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "喂？是这样啊，道琼指数跌停了是吗？最终的答案是……230.07点啊。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "众人",
+          "text": "………………"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "就是这样，朋友们。华尔街崩溃了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "而“暴雨”——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "终于来了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "首先只是微不可闻的一滴雨。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "从下水道里，从橡胶鞋底，从即将被倒掉的牛奶中，汇成无人问津的水泊。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "接着，水泊形成雨滴，雨滴坚决地脱离大地，就像想要戒掉一种恶习……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "一种时代与社会的恶习。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "众人",
+          "text": "…………"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "人们开始骚动。而恶习只会愈演愈烈，就像一场“异变”，附着每一位活着的躯体。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "在60年代，它将人们挤压成了可笑的卡通画；在90年代，它将我们的血管变成通讯电线。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "最后，所有的荒诞将会化为一场“暴雨”，将这个世界彻底“洗刷干净”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "而最终被筛选留下来的人……才能和我们一起——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "“重返过去”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "这些不能公之于众的“暴雨”细节，我们的官方人员……\n维尔汀小姐，一定很熟悉吧？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "你比谁都清楚——清理时代的倒计时，已经开始了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "是的。我终于得到了答案。"
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

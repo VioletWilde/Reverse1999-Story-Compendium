@@ -1,0 +1,26 @@
+# Main Story · Tristes Tropiques
+
+- [10801 Unshakable Justice](10801-Unshakable Justice.md) — Facing the firing squad, you must hold onto your dignity, even as a traitor.
+- [10802 A New Photo of an Old Friend](10802-A New Photo of an Old Friend.md) — In the reflection of the pooling rainwater, she sees an old friend.
+- [10803 The Minotaur](10803-The Minotaur.md) — Following the thread's guidance, she finds the way out.
+- [10804 Riptide](10804-Riptide.md) — Then, your life is handed over to the river, and you are forced to struggle against the current.
+- [10805 Waterway to Hell](10805-Waterway to Hell.md) — The river is both home and life. The river gives, the river takes.
+- [10806 Tender Pretender](10806-Tender Pretender.md) — While the stage shows the character in the script, it never truly reveals the person behind the role.
+- [10807 False Accusations](10807-False Accusations.md) — Considering your past actions, we hereby conclude and pronounce you ... guilty.
+- [10808 On the Margins of Life and Death](10808-On the Margins of Life and Death.md) — In the midst of such prolonged suffering, happiness feels as far away as the sun in the sky.
+- [10809 Aged Like Fine Wine](10809-Aged Like Fine Wine.md) — Live long enough, and you will see everything.
+- [10810 Boarding the White Ship](10810-Boarding the White Ship.md) — Pursued yet eluded; seen yet unseen.
+- [10811 Sao Paulo Bossa Nova](10811-Sao Paulo Bossa Nova.md) — He dispenses justice, "São Paulo" style!
+- [10812 "Silent Night, Holy Night"](10812-Silent Night, Holy Night.md) — We hear the song every night we bid the day farewell. Wishing you peace, my dear.
+- [10813 Boto Cor-de-Rosa](10813-Boto Cor-de-Rosa.md) — Light a candle in memory of the departed.
+- [10814 The Sleepless Man](10814-The Sleepless Man.md) — Now, the die is cast.
+- [10815 The Northern Falcon](10815-The Northern Falcon.md) — A long-awaited reunion, a shocking betrayal.
+- [10816 "Family Reunion"](10816-Family Reunion.md) — "The call for slaughter has sounded, unleash the hounds of war!"
+- [10817 The Black Lamb](10817-The Black Lamb.md) — It's better to flee into the wilderness than to return to a cold flock.
+- [10818 Eye of the Hurricane](10818-Eye of the Hurricane.md) — A bullet shot into the past.
+- [10819 The Gamble](10819-The Gamble.md) — The loser is left with nothing, the winner takes all.
+- [10820 Farewell, Pera](10820-Farewell, Pera.md) — Don't forget to bid the day farewell, and to honor yesterday.
+- [10821 Ground Zero](10821-Ground Zero.md) — Farewell, Igor.
+- [10822 The Roaring Forties](10822-The Roaring Forties.md) — Summer ends here, the icy sea begins.
+- [10823 The Final Curtain](10823-The Final Curtain.md) — Everything is a mess, everything has come to an end. Perhaps ... there's still a chance.
+- [10824 Monologues](10824-Monologues.md) — A person is the total sum of their past.

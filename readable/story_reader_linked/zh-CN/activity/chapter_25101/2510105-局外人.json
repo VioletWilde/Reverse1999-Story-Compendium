@@ -1,0 +1,749 @@
+{
+  "episode_id": 2510105,
+  "chapter_id": 25101,
+  "chapter_title": "唐人街影话",
+  "display_label": "",
+  "title": "局外人",
+  "subtitle": "在吐露承诺之前，人们向来置身事外。",
+  "trails": [
+    {
+      "element_id": 2510106,
+      "owner_episode_id": 2510105,
+      "trigger_episode_id": null,
+      "title": "屏幕上的普通市民",
+      "description": "让我们来热情采访一下这位奇星女士。",
+      "action": "交互",
+      "unlock_condition": "EpisodeFinish=2510105",
+      "content_hints": [
+        "fragment",
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "街边采访"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "昨日夜间，针人再次出动，袭击了押送臭名昭著的棍骗约翰的队伍，两名警员昏迷但无大碍，棍骗约翰重伤，目前仍未脱离生命危险。\n据知情人士透露，曾有市民因不满对棍骗约翰的处置而在昨日早晨与押送队伍发生正面冲突，加上棍骗约翰的受害者不在少数，这使得支持针人的声音愈发响亮。\n现在我们就在案发现场，尽管一天过去，这里仍然聚集了大量群众，让我们来直接听听他们的看法。\n……\n“做得好！就该把那混账扎成马蜂窝！”\n……\n“我是觉得总该依法行事的，但这次对棍骗约翰的处置于情于理都有些……”\n……\n“嗯？问我么？不好意思，这位小姐，你看过C07么？”\n“哦，没什么，我还以为这是不是什么整人节目。嗯……怎么说呢，不好意思，我的身份不允许我乱谈时政啦。”"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 2510107,
+      "owner_episode_id": 2510105,
+      "trigger_episode_id": null,
+      "title": "救死扶伤",
+      "description": "他是位热爱工作的医生，看到你受伤就兴奋很正常。",
+      "action": "交互",
+      "unlock_condition": "EpisodeFinish=2510105",
+      "content_hints": [
+        "fragment",
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "拉普拉斯康复中心合作医院欢迎你！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "欢迎来到拉普拉斯康复中心合作医院！\n我们是世界首屈一指的神秘学专科医院，不论您是：\n·遭受了神秘术创伤。\n·被邻居下了霉运诅咒。\n·一觉醒来变成了甲壳虫。\n·突然苏醒了前世作为法老王的记忆而导致日常生活天翻地覆。\n拉普拉斯康复中心合作医院都将为您提供最妥善的治疗方案！\n请不要担心疑难杂症是否纳入医疗保险，为了感谢您对医学进步做出的贡献，我们会根据症状的稀有度提供减免以及补贴，每种罕见病症将带来百分之六十的费用减免！如果您同时被血食怪和龙咬了还正在溶解成油画却仍活着，我们甚至会在免费治疗时为您提供相当于治疗费百分之八十的奖金！\n感谢您对拉普拉斯康复中心的支持！"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "202508",
+      "internal_title": "【2.5】唐人街影话05.1",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "我记得我在报纸上看到过，关于奇星小姐以及另外两位《神秘警探C07》系列电影主创人员之间的矛盾与纠纷。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "我本以为那不过是八卦杂志捕风捉影编造的谣言，但如果包括奇星小姐与菲林士多的分歧和矛盾在内的那些传闻都是真的的话……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "不，这太荒谬了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "波蒂埃",
+          "text": "别想啦，瞧你那副愁眉苦脸的样子！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "呃！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "人来人往的拉普拉斯康复中心合作医院走廊中，冥思苦想的见习执夜人少女后背上挨了搭档的一记掌击。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "波蒂埃",
+          "text": "一个用“银针神秘术”的罪犯出没在洛杉矶，而奇星本人也刚好在这个城市，用着同一个神秘术……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "波蒂埃",
+          "text": "你不会打算单凭这些就说奇星是犯人吧？那也太离谱了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "波蒂埃",
+          "text": "拜托，那可是奇星，曾经的超级巨星！\n虽然她现在不再出演电影了，但是当年谁没有看过她演的电影？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "波蒂埃",
+          "text": "如果是演戏走火入魔、觉得自己真是电影里那个行侠仗义的正义英雄，那又为什么现在才开始作案？这讲不通。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "波蒂埃",
+          "text": "针型的攻击性神秘术不是什么少见的东西。“针人”也许只是看过那部电影之后模仿了里面的神秘术，又或者这只是巧合……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "波蒂埃",
+          "text": "……喂，你没事吧？我刚才有那么用力吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "咳、咳……请别在意，我没事。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "梁月摇了摇头，并无追究的意思。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "波蒂埃茫然中带着心虚的表情诉说着她并非有意而为之，更何况……\n这突如其来的一击，也的确将梁月带离了方才纷杂的思绪。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "检查结果和嫌犯的家属都还没有到来，带着波蒂埃聊表歉意的几枚硬币，梁月来到医院走廊的一角，和自动贩卖机交换了一瓶橙汁。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "但方才那个“荒谬的猜测”仍然盘踞在她的脑海中，不肯离去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "……快忘了它们吧，那根本不可能，而且也不符合逻辑。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "忘却的尝试并不成功，直到一个焦急的声音打断梁月纷乱的思绪。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "医生",
+          "text": "但您受伤了！您不能就这样离开。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "我没受伤，我没事！这个只是……只是坏了一点而已，我会自己修的！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "医生",
+          "text": "您在说什么呀，您怎么能如此轻视自己的身体？我看得出来，您的手臂绝对是断了，必须要处理一下才行！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "发生什么事了？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "医生通过梁月身上的制服认出了她的身份。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "医生",
+          "text": "您是……一名执夜人？\n您来得正好，也许您能够帮忙劝住这个孩子。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "医生",
+          "text": "她刚才在乘坐出租车的时候遭遇了一场交通事故，失去意识被送到了这里。\n但她醒来之后，居然要求我们不要管她……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "医生",
+          "text": "我看得出这孩子的体质特殊，但无论如何我们是医生，不能就这样坐视伤者带着病痛离开。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "执夜人……？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "但但但但但我真的赶时间，再不走我就要赶不上车了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "细看不难发现少女衣装下裸露的“皮肤”呈冷硬的金属色泽，想必这就是医师口中“体质特殊”的缘由。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "梁月当然没有错过少女胸前代表圣洛夫基金会职员身份的徽章。\n但在看清梁月所身着的制服后，对方表现出的惊慌失措却令人生疑。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "……我想不论是什么样的急事，都比不上身体重要。\n这位医生说得没错，您最好接受检查后再离开。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "因此请您出示一下您的身份证件吧，这样医生才好为您进行诊疗。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "那颗机械脑袋僵硬了几秒。\n随后，以堪称迅猛的气势仰了起来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "我的老天爷！有一只仓鼠骑着听诊器在天花板上飞！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "仓鼠骑……什么？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "实在过于令人匪夷所思的台词让梁月不由得真的转头看了看……\n而理所当然的，并没有仓鼠骑着听诊器在天花板上飞。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "就是现在！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "你……等等，站住！"
+        }
+      ]
+    },
+    {
+      "script_id": "202509",
+      "internal_title": "【2.5】唐人街影话05.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "医护人员",
+          "text": "哦，小心！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "抱歉，医生，我急着——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "并不宽敞的医院走廊显然并不适合上演追逐战，梁月被一辆从拐角处出现的手推车挡住了去路，再抬头时已经不见那颗机械脑袋的影子了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "自神秘学犯罪科领取的金属变色龙通信器发出了独有的声响，打消了梁月正欲继续追踪的意图。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "波蒂埃",
+          "text": "喂，菜鸟！你买个饮料跑去哪里了？\n尽快回来，检查结果出来了，那位先生的家属也到了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "我……好的。\n检查的结果如何？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "通信的另一端沉默了片刻。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "波蒂埃",
+          "text": "不太乐观。"
+        },
+        {
+          "kind": "title_card",
+          "text": "病房"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "男子",
+          "text": "…………"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "病床上沉睡的男人形容枯槁，呼吸间发出犹如拉风箱般的声音，宛如一棵被蛀虫掏空的朽木。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "女子",
+          "text": "怎么……怎么弄成这样啊！\n他这是怎么了？早上还好好的呀！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她的四肢软了下去，幸而有随行的男人托撑着，才不至于垮倒。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "别着急，听听医生怎么说。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "波蒂埃",
+          "text": "是你？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "波蒂埃立刻认出，男子正是隔三岔五就会造访神秘学犯罪科的那位并不受欢迎的常客。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "波蒂埃",
+          "text": "哦……我记起来了。\n您是一位持证的神秘学民间侦探。您是接受了这位女士的委托吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "民间侦探",
+          "text": "什么？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他先是诧异地瞪大了眼睛，随后狠狠剐了波蒂埃一眼。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "民间侦探",
+          "text": "哈！\n我和某些拿着不菲的薪酬，却无所作为的蛀虫可不同。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "民间侦探",
+          "text": "街坊邻里有难时帮一把手，在我这里是不收钱的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "波蒂埃",
+          "text": "……抱歉，是我失言了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "男子显然也无意在此时争吵，冷哼一声后不再理睬身着制服的两名警官，而是用询问的眼神望向一旁的医生。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "值班医生",
+          "text": "执夜人梁小姐为他清除了身上所中的未知神秘术，但尽管生理上并无大碍，那种未知的术式仍然留下了后遗症。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "值班医生",
+          "text": "他的精神状态十分糟糕，呈现出了严重的思维混乱和记忆错乱症状。\n我们不得已，只好让他保持睡眠状态了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "女子",
+          "text": "那……那大夫，他什么时候能醒过来？我能和他说话吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "值班医生",
+          "text": "我们不建议您在您丈夫清醒的情况下和他会面。\n他大概率……是无法认出您的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "女子",
+          "text": "什么？怎么……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "女子",
+          "text": "诶呀，这都是什么事呀！\n先是妈走了，现在你也……这叫我怎么办才好啊？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "女士……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "女子像是被抽走了力气，瘫坐在一旁的座椅上。\n梁月张口欲安慰对方，却不知该说些什么。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "男人的目光扫过波蒂埃，最终瞪向梁月。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "民间侦探",
+          "text": "看来，你们警局专门请来了一个华人小跟班来“对症下药”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "民间侦探",
+          "text": "但如果你们帮不上忙，就不必假惺惺地站在这里碍事了。\n算我拜托你们，给我片刻安宁吧！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "梁月用询问的目光看向波蒂埃，后者无奈地摇摇头，招手让梁月来到身旁后，向她出示了院方的诊断结果。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "波蒂埃",
+          "text": "这个可怜的家伙身上残留的神秘术痕迹，能够证明当时他无法控制自己的行为。这让他能够免于牢狱之灾。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "波蒂埃",
+          "text": "但坏消息是那股神秘术气息很快消散了，医院没能查出他到底是出了什么毛病。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "波蒂埃",
+          "text": "这样下去，这个可怜的家伙也许后半辈子都要在精神病院里度过了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "梁月握紧了拳头，看向蜷缩在病房的座椅上低声啜泣的女子。\n和宽大的座椅相比，她的身影是那样单薄。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "最终，梁月走上前去，在坐椅旁蹲下了身。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "迟疑片刻后，在那名并不友好的男子惊讶的目光中，她伸手覆上女子的手背。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "阿姨，您别太难过了……这样伤身体。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "叔叔现在这样的情况也只是暂时的。\n这里有拉普拉斯康复中心外派来的名医，一定能够找到方法治好他的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "某种意义上来讲，这番其实并无任何保证的承诺甚至可以被定义为谎言。\n但谎言也有它的价值，有人需要谎言。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "它起效了。\n女子抬手草草擦去面庞上的泪珠，仍然红着眼睛，但至少抬起了头。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "女子",
+          "text": "我……我从上午起就联系不上他，说是去进货，人却迟迟不见踪影。\n结果到了下午，我就接到警察的电话，说他……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "女子",
+          "text": "我家这口子一向老实、脾气好，街坊邻里都知道。\n他肯定做不出来这种违法的事情的！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "女子",
+          "text": "警官，求求你啊！\n你可得帮帮我们，帮我们查清楚啊！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "女子捉住了梁月的手，紧紧握住，却又在不断颤抖。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "那是一双柔软却也粗糙的手，书写着一对平凡的夫妇为更好的生活而勤恳拼搏的日日夜夜。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "……我……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "贴合的皮肤处传来带着焦急和绝望的体温。\n那温度滚烫，甚至让人产生了要被灼伤的错觉。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "——梁月吸了一口气。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "当然了。\n阿姨，您放心。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "——我们一定会查清楚真相的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "梁月用力回握住那双手。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "女子",
+          "text": "好呀……好呀！我先谢谢你们了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "女子",
+          "text": "就全靠你了，姑娘！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "——谎言也能够成真，有人决心做到这一点。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "民间侦探",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "病房的门在二人的身后合上。\n短暂的相顾无言后，波蒂埃挑起一侧的眉毛，先开了口。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "波蒂埃",
+          "text": "听起来你擅自答应了一些不在我们职务范围内的事情，菜鸟。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "抱歉，波蒂埃教官。\n但请您听我说，我——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "波蒂埃",
+          "text": "停，停。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "波蒂埃",
+          "text": "我又没说不行。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "…………"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "那些还没能出口的话语失去了它们的用场。\n片刻后，梁月露出了一个在波蒂埃印象中也许是第一次见的笑脸。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "谢谢您，波蒂埃教官。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "波蒂埃",
+          "text": "别着急谢我。\n就算要调查，我们也得有线索才行。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "目前并没有明显的线索。\n就像那位女士说的一样，她的丈夫一向与人为善，没有任何仇家。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "他的交友圈子也十分干净，属于低危人群。\n但当我问到唐人街有没有什么怪事的时候，她身边的那个大叔主动开口了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "这是个足以让波蒂埃惊讶的消息。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "波蒂埃",
+          "text": "那个一向讨厌我们的赤脚侦探？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "是的。他提到最近唐人街一带，零零碎碎地发生了许多怪事。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "像幼儿经常神不守舍，年轻人忽然变得精神恍惚，又或是原本精神抖擞的老者一夜间变得痴呆健忘……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "也有人像是黄先生这样，变得癫狂易怒。\n但他们认为这只是邻里之间的小摩擦，因此大多没有报案。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "我询问了护士，她们也证实说唐人街片区最近收治了不少“因不明原因出现精神异常”的患者。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "不过没有一例上报——毕竟事情“不大不小”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "梁月话语间透露的意思让波蒂埃的脸色凝重了起来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "波蒂埃",
+          "text": "你怀疑这些“怪事”都是同一种神秘学事件导致的？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "波蒂埃",
+          "text": "这可不是一个能随随便便拿出来的结论。\n如果真是这样，那……这件事的严重程度就远超我们的想象了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "既然存在这个可能性，我想我们就不该忽视。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "直接影响高等智慧生命精神层面的神秘术虽然罕见，但并不是不存在。\n在夜巡特遣的档案室中，我阅读过不少这样的案例。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "在那些案例中，受害者的症状乍看起来都各不相同——\n这恰好和眼下发生在唐人街的现象一致。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "梁月说到这里，又皱眉露出了思索的神情。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "令我百思不得其解的是，若这一切都是人为，施术者的动机又是什么？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "又难道说，这起事件是个意外？是某个血统强大却还无法掌控神秘术的幼童，抑或是某些未被监管的危险神秘学物件引发的？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "现阶段证据太少……我们还无法下定论。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "眼下只能得出这个说不上是结论的结论，二人都是愁眉不展。\n片刻后，波蒂埃却像是忽然想起了什么。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "波蒂埃",
+          "text": "不过说起来，我记得你们基金会就有一个专门的部门，负责“关押”那些可能捅出篓子来的小玩意。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "是的，就在圣洛夫基金会总部。\n它叫做——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "神秘学藏品管理部。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛蒂尔达",
+          "text": "到达，我想就是这里没错了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛蒂尔达",
+          "text": "嗯……倒是比我想象中的更整洁明亮一些。"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

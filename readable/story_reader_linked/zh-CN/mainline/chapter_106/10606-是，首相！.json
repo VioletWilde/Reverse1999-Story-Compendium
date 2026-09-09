@@ -1,0 +1,780 @@
+{
+  "episode_id": 10606,
+  "chapter_id": 106,
+  "chapter_title": "今夜星光灿烂",
+  "display_label": "",
+  "title": "是，首相！",
+  "subtitle": "哦，如果你能说出一个恰当的名字，所有事情都会变得非常简单。",
+  "trails": [
+    {
+      "element_id": 100605,
+      "owner_episode_id": 10606,
+      "trigger_episode_id": null,
+      "title": "小径① 姓氏的分量",
+      "description": "",
+      "action": "残篇阅读",
+      "unlock_condition": "EpisodeFinish=606",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "让我们从一个简单的问题开始。请您跟着我念：迪塔斯多夫。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "在维也纳待了这么些日子，您该眼熟这串字眼。您念出来的时候，有没有感觉到那份秤砣般的重量？"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "这不值一提",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "噢，的确不是什么新鲜事。您可能听得太多了，早就对此厌倦，毕竟在哪个街角、哪张桌前都有可能碰见嘴边正挂着这几个音节的人。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "您可别见怪，绝大多数人提起他们说的都是些好听的，反正，不细细咀嚼是品不出多少讽刺的。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "如今的世道，歌剧演员的头衔快压去了贵族老爷们的光彩——反过来，也能为此增色哩。何况迪塔斯多夫们可是群真真正正能进行“灵性创作”的——贵族。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "压得人伸不直舌头！",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "您又在说些玩笑话。不过，倒也是。您初来乍到，还不像在这儿生活的人们那样对这个姓氏熟悉，熟悉得能塞进梦话里。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "它是空气里摸不到的字眼儿，也可以变成看得见、摸得着的玩意儿。例如拿了钱的创作，各种演出啦、展览啦，那些扒在衣物上的漂亮徽章啦……以及，几个抱持家族天赋的小姑娘、小伙子们。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "他们顺利长成了年轻的一代。那位歌喉美妙的小姐，那位擅长写诗与作画的先生，那群“迪塔斯多夫”们。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "说说“迪塔斯多夫”吧",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "是该好好向您讲清楚了，因为您要和他们打交道的日子想必不会少。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "此时此刻的维也纳，几乎是一座被激情冲击得摇摇晃晃的漂亮屋子。每当曲子轰轰地响起来，那顶子便可怜地打着颤，跳舞的人们呢——多有意思……他们从不仰头瞧！"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "生活在这儿的人们出入着同样的漂亮屋子，身份地位的鸿沟被抹得像蛋糕上的奶油一样平整。艺术品成了圣像，所有人都被迷昏啦——争着要那些漂亮的、晃眼的、能反复回味的东西。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "“迪塔斯多夫”们既然是贵族，是能够“降灵”的神秘学家家族，那就更应该把自己献出来叫人把玩。赞助表演是身份的象征，是潮流，更是高贵品格的显现。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "贵族小姐们忙着在社交舞会贩售自己的好品味，老爷夫人们则抢着发掘有才华的家伙。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "既然有一出人人赞同的好戏，称职的演员又怎么会错过它？她当然得把它握紧，就像捏住了一只过于可爱的雀鸟。足够可怜，足够有趣，足够称为命运——符合身世，符合期待，因为人人都对她称说，疯狂是她打娘胎里带出来的礼物。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "……",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "而“对抗疯狂”则是她体面的礼貌。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "她清楚一件艺术品为何被人捧在手心里，更懂得该怎样开出高价。"
+            }
+          ]
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100609",
+      "internal_title": "第六章6-6.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "是，首相！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "场景-分离派之家门口，一栋美丽的神庙式艺术馆。旁边有基金会分部大楼。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "艺术神殿的门外，导师正在对学徒进行最后的叮嘱。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "霍夫曼",
+          "text": "记住，马库斯。分部的专员会像平常一样处理这个时代的神秘学纠纷。我们跟随他一起进入即可。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "霍夫曼",
+          "text": "虽然“魔圈”的成员是重点调查对象，但在嫌疑落实之前，我们只需像之前说的一样——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "霍夫曼",
+          "text": "仅是旁观，沉默、礼貌地对待普通人的生活。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "我明白……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "音效-开门声-关门声，快步离开声"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "差点就撞到了！那个绿衣服的小姐好像很生气。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "我要问问分部的先生她是谁吗？可他现在似乎很忙……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "不对，分部的先生也是这个时代的人，如果我和他搭话，也算是打断了他原来的工作流程吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "马库斯又一次陷入了漫无止境的纠结。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "霍夫曼轻拍了下马库斯的肩膀。年轻的学徒匆忙将注意力拉了回来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "所幸，维也纳分部的专员并未注意到这个小插曲。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他被一位不请自来的熟人吸引了全部注意力。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "海因里希",
+          "text": "啊呀，利哥莱托先生！您的头发怎么比之前长了许多……您为何来到这里，也是为享受艺术吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "基金会分部专员",
+          "text": "正常些，海因里希。还有，别再用那些歌剧里的角色叫我了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "基金会分部专员",
+          "text": "经人举报，这里出现了不小的神秘术骚动。我看看，这些蜡烛……你们在降灵？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "基金会分部专员",
+          "text": "我该提醒你，神秘学仪式的使用是需要另行申请许可的！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "沙龙宾客Ⅱ",
+          "text": "什么？！这不合理！我们为申请许可证已经缴纳了很多——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "基金会分部专员",
+          "text": "冷静，这位绅士。注意您的言辞，维也纳政府与我们通力合作，已经为你们提供足够的自由。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "基金会分部专员",
+          "text": "我们不能总是为你们的“灵光一闪”负责！您以为那些失火，那些激情杀人和群体踩踏事故，是谁在收拾，谁在善后？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "基金会分部专员",
+          "text": "降灵仪式算是其中最危险的一门。我们曾为此损失掉了两名同事，现在还在维也纳综合医院的精神科里面接受治疗。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "基金会分部专员",
+          "text": "再没有其他地方能像这里一样包容了——你们也应当给予政府一定程度的，配合。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "霍夫曼",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "海因里希",
+          "text": "降灵？什么降灵？从未发生过这种事，利哥莱托先生。我们只是在进行——舞台排演。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "海因里希",
+          "text": "这些蜡烛，这些布置，当然，还有这些被燃烧过的画作！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "海因里希",
+          "text": "是的，您完全可以称之为一场艺术沙龙，一次青年集会！但我们更愿意称之为，一场对未至之日的构想。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "基金会分部专员",
+          "text": "……我需要一位能正常沟通的人来和我对话。现在，我有权质疑你们整个集会的合法性——就没有一个情绪稳定、精神正常的人吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "基金会分部专员",
+          "text": "如果是这样，我想我需要直接——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊索尔德",
+          "text": "真是抱歉……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊索尔德",
+          "text": "施特劳斯先生，让您久等了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "基金会分部专员",
+          "text": "哦，迪塔斯多夫小姐！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "基金会分部专员",
+          "text": "请允许我报以诚挚的问候，我尊敬的女士。您为何也在此处？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊索尔德",
+          "text": "噢……真抱歉惊扰了您。事实上，除了我亡兄的展览，我们也在为那场即将到来的歌剧演出进行一场小小彩排。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊索尔德",
+          "text": "我们，我们过于激动，以至于惊动了您！这太兴师动众了……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "基金会分部专员",
+          "text": "瞧您说的，没有的事。您礼仪周到，却显得我们这样疏远。卡尔先生在上午用餐时还提及过您——一位极有天分的歌剧演员！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊索尔德",
+          "text": "啊，我多感激卡尔先生！自母亲过世后，迪塔斯多夫家承蒙了他许多关照。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "基金会分部专员",
+          "text": "这样说来，这一切就都是一个小小的误会！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "基金会分部专员",
+          "text": "但女士，请原谅，我们仍需要走一下流程。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "基金会分部专员",
+          "text": "咳咳，方便我“调查”一下吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "男人微微倾身，压低嗓音。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "基金会分部专员",
+          "text": "很简单的“调查”——您明白……在这个建筑里，简单地转一圈儿！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊索尔德",
+          "text": "基金会有您这样负责的先生真叫人安心。请随意，施特劳斯先生。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "神庙的另一头，来自总部的调查员们正在恪尽职守。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "霍夫曼",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "霍夫曼微不可察地抖了抖外套，一些如蛛丝般纤细的隐线伴随着孢子一样的物质弥散在空气中。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "哇哦，“蛛尾巴”和“砰砰孢子”……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "是拉普拉斯的神秘术感知道具……我还是第一次亲眼见到，好像只有四级以上的调查员才有使用许可……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "注意到身侧略带兴奋的目光，霍夫曼微微俯身，在年轻的调查员身侧耳语着。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "霍夫曼",
+          "text": "马库斯，我需要你的帮助。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "我明白。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "这些被燃烧过的画——西奥菲尔·冯·迪塔斯多夫的作品。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "……正是适合“阅读”的对象。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "氛围图-马库斯施展神秘术"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "提灯被微微握紧。她抬起头，在“阅读”之下，翻阅世界变得如此轻而易举。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "这幅画仅残留了三分之一……但我看清楚了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "唔！巧妙的几何排布，达到了视觉上的平衡。但是他的创作者贪图形式，忽略了表达。边框的材质……啊，这个不重要，下一页。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "这幅幸运得多，它还有一半，画中的女子只剩下了半身。但是——呃，看来西奥菲尔是位风流的贵族先生。这不是他第一个骚扰的女模特了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "呀！这幅甚至只有个边框。这些作品被火焰损坏得太严重了。我记得，刚才哪个方向有一幅完整的……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "……但除此之外，没更多的东西了。下一页。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她转过身，撞入一双浅色的瞳孔。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "远远的，伊索尔德仿佛在望着她。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "人也是可阅读的。这位就是，伊索尔德小姐……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "深呼吸。页面再次于眼前展开。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "她没有追逐巴黎的流行，依然穿着保守的束胸衣，只是在腰间佩戴了一些新艺术风格的珠宝……就像一只苍白的蝴蝶。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "她是一个人尽皆知的灵媒。据说迪塔斯多夫家族都十分擅长通灵技艺。如今，他们主要用此从事艺术……呼唤一个灵附身自己，从而完成诗歌、演唱、绘画。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "而通灵能力的强大，也让他们饱受神经衰弱和歇斯底里症的折磨。这一古老家族的人丁并不兴旺。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "等一等……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "她身后那幅画是完整的！而且……如此庞大——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "这就是《拯救》……？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "奇怪。这幅画……？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "翻页特效-滤镜关闭"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "海因里希",
+          "text": "小姐，您真有眼光。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "啊！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "声音自背后响起，脸上带着雀斑的男人露出一个和煦的微笑。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "海因里希",
+          "text": "这幅画，我的挚友——齐格蒙德的《拯救》！他唯一留下来的，最完美的作品。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "海因里希",
+          "text": "一个又一个、充满魅力的魔力圆——噢，这是卡卡尼亚小姐的话！我们都很热衷于这一概念。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "海因里希",
+          "text": "真可惜，如果她还在的话便能为您做更好的讲解了，她的话语总能令人心潮澎湃。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "您说，卡卡尼亚？您有一个朋友叫卡卡尼亚？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "海因里希",
+          "text": "噢！是的，艺术家都偏向拥有一个独特的代号！我还认识“橙骑士”、“莱茵河的维克多”、“苹果卷”【Apfelstrudel】……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "海因里希",
+          "text": "您认识她吗？真不凑巧，她才刚离开，约摸现在已经和施瓦茨医生在会议大堂见面哩！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "马库斯抬头，导师的目光投向这里，轻轻地摇了摇头。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "不，我也是第一次听说……谢谢您的介绍，先生。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "空气中，弥散的孢子微不可察地轻微骚动着。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "“砰砰啵啵！”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "爆破产生的粉尘对鼻腔而言颇具侵略性。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "基金会分部专员",
+          "text": "咳咳，出了什么事？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "音效、特效-有灵体出现的感觉"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊索尔德",
+          "text": "……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "基金会分部专员",
+          "text": "……游灵？！不是说没有降灵仪式？……迪塔斯多夫小姐，我需要一个解释。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "海因里希",
+          "text": "唔噢！它们怎么还在追着我……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "霍夫曼",
+          "text": "……是“砰砰孢子”起了反应。马库斯，你还能继续“阅读”吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "马库斯",
+          "text": "嗯……我想还可以！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "霍夫曼",
+          "text": "很好，我来牵制它。神秘术相关就交给你了。"
+        }
+      ]
+    },
+    {
+      "script_id": "100610",
+      "internal_title": "第六章6-6.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "基金会分部专员",
+          "text": "迪塔斯多夫小姐，您对我说这只是彩排。可眼下出现了这样的情况——更要紧的是，我的两位助手还在这里！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "基金会分部专员",
+          "text": "我需要一个向上级汇报的可靠理由。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊索尔德",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "肤色苍白的女孩沉默着，微微低下了头。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "音效-大门打开，稳步进来"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡尔",
+          "text": "哦！伊索尔德，我可爱的、令人怜爱的小女儿——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "熟悉的面孔不请自来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "卡尔步伐稳健，走上前，亲昵地拉起了伊索尔德的手。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊索尔德",
+          "text": "卡尔先生……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "基金会分部专员",
+          "text": "卡尔部长。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡尔",
+          "text": "瞧你的脸色，怎么这样苍白？一定是为剧团忧心造成的，过来，孩子，过来……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡尔",
+          "text": "我早就叫施瓦茨好好照应你！他一定是太忙了才疏忽了对你的照料。约莫是这样频繁的公开诊疗对一名贵族医生而言有些繁重。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡尔",
+          "text": "尽管你已经痊愈了，但答应我，还是好好照顾自己，好吗？你的母亲已如此令人惋惜，帝国不能再缺少一颗明珠。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊索尔德",
+          "text": "您过誉了……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡尔",
+          "text": "约瑟夫。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "基金会分部专员",
+          "text": "是……卡尔部长。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡尔",
+          "text": "别对艺术如此严苛，那只是一些精妙的舞台效果！海因里希是专门研究这个的，不是吗？重视艺术正是我们自由意志的体现。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡尔",
+          "text": "我们都不介意这点小插曲！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "卡尔的目光迎向霍夫曼。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡尔",
+          "text": "即便是总部的老爷们来了，也会理解的，不是吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "基金会分部专员",
+          "text": "是，是……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "霍夫曼",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡尔",
+          "text": "我们人手这样紧，助手们应当投入更多的精力到更要紧的事务里去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "霍夫曼",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "霍夫曼",
+          "text": "呵，我们该离开了。"
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

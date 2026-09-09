@@ -1,0 +1,956 @@
+{
+  "episode_id": 10724,
+  "chapter_id": 107,
+  "chapter_title": "孤独之歌",
+  "display_label": "",
+  "title": "历史的回环",
+  "subtitle": "它总在人们认识到它的本来面目之前，不断重复地运动着。",
+  "trails": [
+    {
+      "element_id": 1072401,
+      "owner_episode_id": 10724,
+      "trigger_episode_id": null,
+      "title": "运用克拉尼图形的声音传播课题",
+      "description": "一块金属片，一把沙粒，一枚发声元件。简单，有效。",
+      "action": "交互",
+      "unlock_condition": "EpisodeFinish=724",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "运用克拉尼图形的声音传播课题"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "所需材料：方形金属薄片一块  也可以使用其他形状和材质的薄片，观察不同薄片所产生的差异同样充满乐趣\n          沙粒少许         也可以用面粉、盐，或者糖等，但请小心，它们进入身体缝隙后可不好清洗\n          发声元件一枚     是的，就是我，很高兴能帮上忙，你也可以找任何懂得唱歌和振动，或者说跳舞的朋友帮忙\n\n操作原理：已知声音通过振动产生并以波的形式传播，且不同声音振动的频率不同，故可以利用特定声音在一定条件下产生固定的波动，从而描绘出指定的图形。\n\n操作步骤：第一步，将方形金属薄片，以下简称薄片，安置于稳定且固定良好的平滑固体表面。    这是为了防止滑落等现象发生，是很重要的一步。\n         第二步，令发声元件与薄片接触并按特定频率发声。    科算中心已经统计了26个字母图形对应的波段，你可以找乌尔里希先生要一份，它是位很慷慨的绅士。\n         第三步，观察图形并得出结果。    是不是很简单？你一个人在家也可以做，来试试自己喜欢的音乐节目会变成什么图案吧。"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100735",
+      "internal_title": "第七章7-24.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "历史的回环"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "剧情场景-传道者之厅-被炸毁版本"
+        },
+        {
+          "kind": "title_card",
+          "text": "传道者之厅"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "888",
+          "text": "……37，请你听取我的意见。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "888",
+          "text": "你手上的卷轴是学派先贤传下的珍贵遗产，它由每一代的6保管，只会被授与那些勇于挑战无限定者试炼的信仰者。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "888",
+          "text": "它有着调和与节制的力量，在你参悟无限定者分享的奥秘之前，你可以一直保有它。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "888",
+          "text": "——但你不应将它分享给一个附属于人类的外部组织。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "不可避免的分歧终究还是发生了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "888几乎是将37拉离了洞穴研究室。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "——为什么呢？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "我们开设传道会，接待岛外的访客，正是为了分享知识和智慧，让真理的光辉为世人所见，不是吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "人类的研究者……他们也发明过很多优美的数学定理。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "在“流溢”把这儿和外界隔开前，我们也有过这样的交流。那很有趣，比后来发生的事有趣得多。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "我笃定这次分享，能够帮助我们解明无限定者的数字密码。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "我必须证明真理的辉光仍是存在的——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "女孩摇了摇头，固执地不肯却步。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她的提议是正确的。经历了信仰的崩溃后，人们亟需新的希望和道标。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "甚至在向来被忽略的实用性上，她的坚持也无可厚非。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "既有的庇佑不再稳定，其他越过“流溢”的手段能够稳固人心，虚弱的学派也正需要一个盟友。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "888",
+          "text": "——可你能确定，这个卷轴只是被用于交流和学习吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "888",
+          "text": "你能保证，它不会被人类用于武器设计和制造吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "……？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "协理人抬起头，望向穹顶上那个炮弹所致的巨大缺口。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "斑斓的阴影覆盖在报丧女妖的脸上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "888",
+          "text": "在加入阿派朗学派前，我和我的族人已在世上流浪了许久。我的族群比一般人更加长寿，也因而更加不容于世俗。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "888",
+          "text": "真理的女儿，请你聆听我作为一个老人的意见。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "888",
+          "text": "人类确实创造过美好的成果，那份启蒙的辉光也曾将我打动。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "888",
+          "text": "但遗憾的是，并非人人都如此。更多的人类缺失了对知识与限度的敬畏，只会盲从于力量的追求。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "888",
+          "text": "我经历过、劝说过、厌倦过，因此，我来到这里。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "888",
+          "text": "你分享的不仅仅是知识，它是一个仪式，是一份力量。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "888",
+          "text": "它为调和而生，为那些心怀虔诚的崇敬者而生，为了那些在神庙前匍匐祈求的贤者而生。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "888",
+          "text": "可它也能被反过来利用，成为手枪上的消声器、机枪上的制退器、氢弹里的反应公式，服务于更残酷的暴行。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "……不！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "888女士，我不会让那种事发生的。我向您保证。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "888",
+          "text": "您不能保证，维尔汀小姐，因为您也只是一个孩子。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "888",
+          "text": "你对历史的恶性一无所知。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "掷地有声的指责。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "在这个刚被炮火焚毁的殿堂中，任何辩驳都显得苍白无力。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "就连37也沉默了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "210",
+          "text": "——可是，那是真理啊。还有什么比这更重要呢？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一个意外的声音响了起来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "极为罕见的，修辞学家这次并未提出反对。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "210",
+          "text": "假如借出一个卷轴，就能帮助我们触及到那不可说的隐秘——那为什么不这样做呢？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "210",
+          "text": "过去四年的失败，难道还不足以证明，真理的辉光并不会存在于固步自封之中？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "210",
+          "text": "对于将毕生奉献予沉思的人来说，对真理的热爱永远是第一位的，因为这是我们在这个世界上唯一值得过的生活。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "210",
+          "text": "不要为仇恨而丧失前进的勇气，我的兄弟姐妹们。不要让现象世界的尘埃蒙蔽你们的心智。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "210……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "210摆摆手，从残垣上站起。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "210",
+          "text": "而且，那是她通过的试炼，那是她获得的卷轴。她有权处置。这是她的天赋，也是她的责任。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他看向别处，神态比起真心支持，更像是漫不经心。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "210",
+          "text": "——我们又有什么更好的选择吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他挥了挥手，走出了满目疮痍的庇护所。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "而赫尔墨斯之星坚定了自己的决心。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "迎着信仰者们态度各异的目光，她声音清亮地开口了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "……我不会改变我之前的想法。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "我会分享这个卷轴，和科算中心合作，解开无限定者留下的数字密码。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "真理就是真理，它不应当为其它而转移。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "诸位，如果你们也同意，便投下手中的卵石吧！如果是6来主持，他也会做出民主的决断。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一些人径直离去了，但更多幸存者们投下了手里的卵石。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她赢下了这场政事表决，还有一声叹息。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "888",
+          "text": "……唉。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "剧情场景-岛屿-沙滩-炮火轰炸版本-轰炸后"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "战火和硝烟已经远去了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "留下一片正适合起飞的空地。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "……红弩箭小姐，你确定没有问题吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "哈，能有什么问题？现在的天气可比我们登岛那天好多了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "无风，晴朗，一览无余——天空中甚至还有一个巨大的月亮！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "红弩箭跨坐在Su-01ве上，拍了拍腰间的卷轴。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "浮窗道具-6的平衡卷轴（第二次出现）"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "那是学派奉献的核心。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "不过是向总部配送一个包裹，甚至还没出欧洲，三个小时绰绰有余。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "自从上了岛，各种憋屈的事情就没停过，我可是等这个兜风机会很久了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "但是这里离总部至少有768海里！而且，在无防护的情况下长距离飞行是很危险的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "——距离“暴雨”落下只有7个小时了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "嗯，不错，是很危险。但这可是在“暴雨”中飞行768海里啊，十四行诗。这绝对是让他们修订《飞行手册》的大好时机！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "红弩箭掏出军用水壶，猛地朝嘴里灌了几口，接着，兴致勃勃地启动了扫帚——仿佛要去参加一场狂欢。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "再说，沾染一小块油画也不算太坏——省去了买纪念章的工夫。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "老天，你可别一头栽进地中海里啊！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "哈，红色38可不是APPLeⅡ号！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "扫帚急促升空，星锑变得愈来愈小，很快便缩减为一个简略的红色符号。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "飞行女巫同时也注意到了附近袭来的黑影。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "噢哦，这是重塑之手的奥利图欧……？看来先前的清扫工作不太彻底。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "——可怜的小傻瓜，可别指望我会把时间浪费在你们身上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "扫帚调转了方向，猛地提高了速度。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "奥利图欧群也不倦地紧随其后。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "速度不错。看来老板的死亡对你们没太大影响，是吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "噢……？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "浸润紫色液体的充气式飞空艇缓缓出现在了前方，鼓动的气囊如同一颗跃动的心脏。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "然后，它柔软的炮口自动调转，像生物的触角一样锁定了飞行女巫。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "重塑之手的“飞艇”？这倒是个有意思的对手。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "再次加速。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "哈哈……来试试看吧。正好能用你的爆炸在地中海上奏响一发二十一响礼花！"
+        }
+      ]
+    },
+    {
+      "script_id": "100736",
+      "internal_title": "第七章7-24.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "要安全地使用免疫术式，一共需要两步。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "a.达到施术条件。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "剧情场景-拉普拉斯科算中心-破译房间。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "X",
+          "text": "是的，约翰·提托小姐已经完成了公式的推导计算，我的小组也完成了转换器的原型设计。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "X",
+          "text": "只差上面的“大人物们”批准实验申请。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "X",
+          "text": "这是个史无前例地向“暴雨”偷电的计划，我可不想错过。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "b.减少副作用。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "剧情场景-露西女士的办公室-开灯版本"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "露西",
+          "text": "阿派朗学派的卷轴在这一点上已经表现出了非凡的潜力，它应当能发挥比柯尔曼防护术式更良好的防护效果。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "露西",
+          "text": "副作用种类的繁多是一个问题——不过我们已经有了一张记录122种诅咒特性的列表。一旦卷轴送到，我们只需逐一拟合它对每个条目的应对效果。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "露西",
+          "text": "这将大大加快我们的解析进程。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "但理应还有第三步。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "剧情场景-拉普拉斯科算中心-哑谜的办公室"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "……怎样让人类也能使用这个术式？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "哑谜站了起来，在拥挤的书柜与杂物之间来回踱步。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "最理想的结果是，将咒语实体化，制作出类似重塑面具的免疫护具。就像科算中心过去生产的便携式咒语软盘一样……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "但它的前提是对咒语的彻底解析和掌握！重塑之手可以，因为阿尔卡纳就是那样卓越的施术者。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "我们没有这个时间，也没有这个条件。所以我才选择了这个投机取巧的方案——让每个人都来当施术者。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "而人类一开始就无法施术！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "逻辑无法抵达理想的结果，哑谜坐回桌子前，苦恼地抱住了头。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "只能……如此了吗……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "剧情场景-洞穴研究室-1.9差分版本，进行一些改装"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "喔，所以这就是虚数们的计划。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "你们想借助“灵性的潮涌”和我们的调和卷轴，让每个人都能念出免疫“流溢”的咒文？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "洞穴研究室内，37饶有兴致地思索着。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "与科算中心的合作顺利进行着——双方刚刚完成了研究进度的交换。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "是的，37，你有什么想法吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "嗯，很丑陋的计划！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "一点也不优美，充满了生搬硬凑和投机取巧。纯粹只是为了应用，没有任何理论的优美性，就像虚数。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "什么？我觉得这计划还挺酷的！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "从“暴雨”中分一杯羹……就像是去保守党的首相家里开摇滚派对一样刺激！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "唔，看来我们真该把这个方案扔进海里。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "37摇摇头，不动声色地把自己的坐垫往星锑的反方向挪了挪。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "——你们并没有理解咒文，维尔汀。你们只是心急火燎地想在“流溢”到来前用上它……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "……但是，这不就够了吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "不！这不是一个完备的证明，你们很快就会碰到不可逾越的瓶颈和缺陷。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "——科算中心的那位先生还不能把咒文发给我吗？我也想看看它。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "37期盼地望向通讯设备，电波那头，破译组长已经沉寂了好一阵。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "科算中心正在寻找安全传递咒文的方法，鉴于之前的传播事故，审批也需要一点时间。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "即使您得到了咒文，也请不要用任何方式念出，副作用多半是致命的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "第一助手尽心地为此刻的等待解释着。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "终于，电波那头传来了回音。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "破译组长",
+          "text": "抱歉，我们花了一些时间来测试传递方法。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "破译组长",
+          "text": "另外，为了保障诸位的安全，我们本次只会传输咒语的文本。具体的念法，我们会在稍后单独传递给司辰。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "——呼，真是多谢你了，伙计。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "破译组长",
+          "text": "考虑到小岛缺乏可视化的通讯手段，我们决定用克拉尼共振法来单独传递每个字母。那是科算中心之前研发的一种将简单图形转换为声波的技术——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "破译组长",
+          "text": "见鬼，跳过这部分吧，现在可没有介绍技术原理的工夫。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "磁流体暴躁地打断了自己，它那边听起来也是一片混乱。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "破译组长",
+          "text": "总之，司辰，我们需要借助您身边那位女士的帮助——无线电小姐，是吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "无线电小姐",
+          "text": "唔？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "无线电小姐受宠若惊地抬起了蓝色小花。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "这座岛屿隔绝了除她之外的一切电波信号，因而这位意识唤醒者自登岛以来，便一直担任着沟通内外的桥梁工作。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "——也让她在极大程度上沦为了一台真正的收音机。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "破译组长",
+          "text": "是的，请您先找一块方形的金属薄片，将它固定在坚实的底座上，并在上面撒上薄薄的细沙。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "十四行诗和星锑立刻行动了起来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "好消息是，岛上四处都是几何状的金属和沙子。一个临时的实验台很快搭了起来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "浮窗道具-克拉尼薄板"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "破译组长",
+          "text": "随后，我们会发送给您一段特殊的录音。您需要感受它的声波，并随它在薄板边缘——呃，起舞。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "无线电小姐",
+          "text": "我猜您想说的是，振动？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "破译组长",
+          "text": "不不，这太失礼了，我怎么能对一位女士说“振动”——但好吧，就是这个意思。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "磁流体的声音听起来有一丝自暴自弃。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "破译组长",
+          "text": "如果顺利的话，驻波将在沙子上形成一个图形，那即是我们要传递的咒文。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "破译组长",
+          "text": "我们总共会发送12段录音，每段录音对应着咒文的一个字母。等您准备好，我们就先尝试第一个。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "无线电小姐",
+          "text": "当，当然，我很荣幸——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "蓝色小花因激动而震颤着，她已准备为这神圣的使命全力以赴。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "伴随着她悬浮的舞步，金属板上出现了第一个图形。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "……我记录下来了，乌尔里希先生。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "破译组长",
+          "text": "好的，接下来还有11段——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "浮窗道具收起"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "传输有序进行，免疫“暴雨”的咒文通过这种方式来到了电波彼端。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "最终，最后一个字母也付诸纸上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "浮窗道具-莎草上由维尔汀记录的免疫暴雨咒文。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "这个咒文……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "难以相信眼前所见。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "怎么会这样？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "怎、怎么了，维尔汀，你不会在心里默念了吧？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "你不会要告诉我，默念也会招致诅咒吧……？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "不，只是……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "我认识这种语言。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "La unua cirklo."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "是的，它并不陌生，开启箱子的咒文也是用这种语言写就。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "唯一的问题是，是谁、在何时教授了它？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "是在那个一片空白的千禧年夜晚吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "是……母亲吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "摇摇头，令心绪平复。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "……37，我想我现在理解它了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "——这条咒语的意思是“最初的圆”。"
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

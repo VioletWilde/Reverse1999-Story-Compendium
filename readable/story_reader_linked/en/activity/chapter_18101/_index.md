@@ -1,0 +1,21 @@
+# Event Stories · Farewell, Rayashki
+
+- [1810101 Welcoming Ceremony](1810101-Welcoming Ceremony.md) — A message that is less than ideal.
+- [1810102 Big Discoveries!](1810102-Big Discoveries!.md) — Visitors often come unannounced and without warning.
+- [1810103 Needle-Grass](1810103-Needle-Grass.md) — The beautiful arctic foxes, the warm seawater, and the disgraceful needle-grass all claim their place here.
+- [1810104 Said the Gardener to Flowers](1810104-Said the Gardener to Flowers.md) — It's just a seed, yet it is a seed indeed.
+- [1810105 Accordion](1810105-Accordion.md) — The accordion sings, carrying its passion into the distance.
+- [1810106 Good Days, Bad Days](1810106-Good Days, Bad Days.md) — The era can shape us, but it can also destroy us. So just relax and take it easy, everyone says.
+- [1810107 A Paper Medal](1810107-A Paper Medal.md) — Fortune's blessings often come knocking on your door or window when you least expect them.
+- [1810108 The Ode of Factory](1810108-The Ode of Factory.md) — A symphony of steel, forged by hard hats and furnaces.
+- [1810109 Heavier Than Knowledge](1810109-Heavier Than Knowledge.md) — This place is already overflowing with treasures. Please bring something more substantial.
+- [1810110 The Only Days Left](1810110-The Only Days Left.md) — Can life still go on?
+- [1810111 The Ley Hunter](1810111-The Ley Hunter.md) — On sleepless nights, she counts the stars alone.
+- [1810112 The Night Train](1810112-The Night Train.md) — The train chugs along, leaving no stragglers behind.
+- [1810113 So Long, Zeno!](1810113-So Long, Zeno!.md) — And before long, the snowfields were tranquil no more.
+- [1810114 The Future We Choose](1810114-The Future We Choose.md) — Moving from one reality to another.
+- [1810115 O, Grass-Roots](1810115-O, Grass-Roots.md) — That's what they told me.
+- [1810116 Marching March](1810116-Marching March.md) — An epic composition about the countless unimportant people.
+- [1810117 Snow, and the Others](1810117-Snow, and the Others.md) — We're not even halfway through this journey, but we will press on.
+- [1810118 Hello, Rayashki](1810118-Hello, Rayashki.md) — Everything is changing.
+- [1810119 To Descedants](1810119-To Descedants.md) — What we leave behind, and what you will remember.

@@ -1,0 +1,902 @@
+{
+  "episode_id": 11101,
+  "chapter_id": 111,
+  "chapter_title": "行于漫漫长路上",
+  "display_label": "",
+  "title": "After the Flood",
+  "subtitle": "A new era bearing many marks of another time, caught in an endless spiral of war.",
+  "trails": [
+    {
+      "element_id": 111001,
+      "owner_episode_id": 11101,
+      "trigger_episode_id": null,
+      "title": "Yet Another War",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=11101",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Ah, a visitor. How unexpected. There is nothing here now—only the ashes of war. What is it you want from a place like this?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Run along now. Back to your schoolbooks ... or a swing in a playground, perhaps. This is no place for a girl like you."
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "I don't know you.",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Naturally. I am no celebrity."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "I'd prefer to keep it that way."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Fame is of no interest to me. Just an opportunity for greater harassment."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Then you and I are in agreement."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "The stench of rust and burnt flesh is quite unbearable."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Even the maggots squirming over the soldiers' corpses have summoned all their strength just to crawl away."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "But the entire world is in ruins now. I have nowhere else to go."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "And it seems you're stuck here with me. You poor sap."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "You trekked to the end of the world, fought a pointless war, and for what? A broken spinning wheel?"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Even that, they took away from you—along with the girl clinging to life by a thread—before sending you off to the next battleground."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "I hope that rusty old thing holds SOME kind of secret—to saving the world, or ending this war."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Maybe then, you can take on another career before you die. A watchmaker, perhaps."
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "The war will end one day.",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "I've nothing more to say. Would you kindly leave me alone for a while?"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "I have no tea or snacks to offer. I can't even recall what they taste like."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "Go on. Savor the war. There'll be another after this. No need to worry about things going exactly as you'd like."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "I've nothing more to say. Would you kindly leave me alone for a while?"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "I have no tea or snacks to offer. I can't even recall what they taste like."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "Go on. Savor the war. There'll be another after this. No need to worry about things going exactly as you'd like."
+                }
+              ]
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "I have reasons to continue the fight.",
+              "edge_label": "",
+              "branch": []
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "This scenery is bleak.",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "101101",
+      "internal_title": "第十一章11-01",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "A Long Long Way"
+        },
+        {
+          "kind": "title_card",
+          "text": "After the Flood"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Everyone imagines their future."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "In most, they grow up, they make friends, get married, and hope to make their fathers and grandfathers proud."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "We entered this new era full of those same hopes for our future. We had no idea what lay in wait for us."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "We called it the triumphant opening to the \"greatest era in history,\" a rite of passage for every man-to-be."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "\"Join us in an adventure side by side, bound by courage and loyalty! \nReturn home victorious, and let your legend be told for generations to come!\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "That was the future we imagined."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Now those sweet and fitting lies have melted away."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Barely more than children, we find ourselves bound, not for adventure, but for an open grave of mud and ruin."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Those of us who were lucky—or unlucky—to survive this battlefield were forged into something new."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Numb."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Cruel."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Corrupted."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The earth became fire and mud, and all of us devils."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "What was it that we wanted from this war?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "To be remembered, celebrated as heroes, or to forget and be forgotten?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The answer may seem obvious, but the question itself lies at fault. Because death, meaningless death, \ncame for thousands of us every day, and we knew ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "We soldiers never had a choice."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "What do you see?"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "Ice.",
+          "edge_label": "아주 거대한 빙산",
+          "branch": []
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "An iceberg.",
+          "edge_label": "아주 거대한 빙산",
+          "branch": []
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "A huge iceberg.",
+          "edge_label": "아주 거대한 빙산",
+          "branch": []
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Anything else?"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "Water.",
+          "edge_label": "시대를 침몰시키는 홍수",
+          "branch": []
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "A flood.",
+          "edge_label": "시대를 침몰시키는 홍수",
+          "branch": []
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "A flood that drowns the entire era.",
+          "edge_label": "시대를 침몰시키는 홍수",
+          "branch": []
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Is the era gone?"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "No ...",
+          "edge_label": "아니!",
+          "branch": []
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "No.",
+          "edge_label": "아니!",
+          "branch": []
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "No!",
+          "edge_label": "아니!",
+          "branch": []
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Well then, what year is it now?"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "1920 ...",
+          "edge_label": "1920년!",
+          "branch": []
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "1920.",
+          "edge_label": "1920년!",
+          "branch": []
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "1920!",
+          "edge_label": "1920년!",
+          "branch": []
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Subconscious stable. No sign of invasive illusions. Cognition-reality match rate normal ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Our test subject awakens."
+        },
+        {
+          "kind": "title_card",
+          "text": "Ward, Rehab Center"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Mesmer Jr.",
+          "text": "Last question. What's this?"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "An animal.",
+          "edge_label": "동물",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "Vertin",
+              "text": "An elephant."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "Her questioner realizes she should have expected nothing less than a blunt answer."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "Mesmer Jr.",
+              "text": "Correct. A plain and simple answer like that is an excellent sign."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "A monster.",
+          "edge_label": "괴물",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "Vertin",
+              "text": "Something with an abnormal number of heads and limbs, growing larger in a disturbing manner, a bit like a Yateveo."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "Vertin",
+              "text": "Perhaps it's a chimera."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "Mesmer Jr.",
+              "text": "I believe you're experiencing some double vision."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "Mesmer Jr.",
+              "text": "But the good news is your mental status is within normal parameters, for you at least."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "The shadow of death.",
+          "edge_label": "죽음의 그림자",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "Vertin",
+              "text": "The shadow of death, where a devil lurks within."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "Vertin",
+              "text": "Its claws are so sharp they might tear someone into pieces, shredding all rationality and hope."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "Mesmer Jr.",
+              "text": "Not funny, Vertin. What a horrid image."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "Vertin",
+              "text": "Pardon me. Then it must be an elephant."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "Mesmer Jr.",
+              "text": "Bad jokes aside. Your mental status is within tolerances."
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "This test isn't like the others from the Artificial Somnambulism we used to go through."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Mesmer Jr.",
+          "text": "It's a special examination we've prepared for all personnel involved in the Antarctic operation. It wasn't my idea, by the way."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She powers down her equipment, the whirs and hums of its electric current fading with a soft drone."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Mesmer Jr.",
+          "text": "I would say, based on your recovery so far, you could have been discharged a week ago, but we had strict orders to complete our entire course of treatment outlined in the Medical Manual."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Mesmer Jr.",
+          "text": "Whatever it is that hides under the Antarctic, it didn't do any additional harm to your mental health."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Mesmer Jr.",
+          "text": "You're lucky, you know. Many others have suffered irreversible damage that will limit their day-to-day lives."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "What about Nautika and Ms. Stranger?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Mesmer Jr.",
+          "text": "I have no access to Ms. Stranger's information. All I know is she's been sent to another department for treatment."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Mesmer Jr.",
+          "text": "As for Nautika ... she's doing great."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Mesmer Jr. offers her judgment in plain terms."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Where is she now? Does she have enough space to stretch?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Mesmer Jr.",
+          "text": "Mr. Hoffman cleared out a lecture hall for her. I wouldn't call it a palace, but it's spacious enough to meet her needs."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Mesmer Jr.",
+          "text": "Too bad, though; now she's being cornered in there by every arcane biologist, ancient myth enthusiast, and crazy ritualist we have on staff."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Mesmer Jr.",
+          "text": "I guess they've decided she's an invaluable opportunity to learn more."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Mesmer Jr.",
+          "text": "You do have access to that hall if you really want to know how she's doing. Just go knock on her door. She's also been asking about you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The therapist averts her gaze and shifts away to end the conversation as she begins to tidy the ward."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A soft knock at the door breaks the awkward tension."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Timekeeper?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Mesmer Jr.",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Come on in, Sonetto."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The splash of orange from her hair is a welcome break from the dull gray and white. Sonetto casts a polite glance toward her old classmate."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Hi, Mesmer. How's the Timekeeper doing?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Mesmer Jr.",
+          "text": "She's good to go."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Thank you. Just a minute."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Sonetto recalls today's agenda."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Timekeeper, Madam Z said the \"Storm\" investigation team is back. She's waiting for you in Madam Vice President's office."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Let's head that way, then."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Mesmer Jr.",
+          "text": "You two have fun. Take care."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Mesmer Jr. sees the guests out, staying behind to wrap up her final tasks."
+        },
+        {
+          "kind": "title_card",
+          "text": "Hallway, Foundation"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The aftershocks of the tenth \"Storm\" still ripple through the Foundation."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Though they've long grown used to changing times, the staff move through the geometric corridors less like a well-oiled machine and more like a clogging artery."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "There's so much tension in the air now."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "I suppose because this \"Storm\" was different from the ones we've seen before."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "I look forward to hearing what Madam Z has to say about it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Foundation Commissioner",
+          "text": "I don't intend to waste my time on this anymore."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "...?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A Committee member strides out of the office, his face completely distorted, in contrast to his neat uniform."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Another man rushes behind him, doing his best to keep his pace in check."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pedra",
+          "text": "Please, I thought we reached an agreement, Irinei."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "However, the one he's chasing has already reached the fork at the far end of the hall."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Irinei",
+          "text": "Naturally, I accept the Committee's decision."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Irinei",
+          "text": "If you really think we don't have to prioritize the Manus, then be my guest."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pedra",
+          "text": "Our top priority is to restore peace and order to this era. You should know that ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Irinei",
+          "text": "We're at war, Mr. Pacifist, one far more dangerous than you could possibly conceive."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pedra",
+          "text": "Pacifist ... What do you mean \"Pacifist\"?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Irinei doesn't respond. He turns down the left path and disappears from view."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pedra",
+          "text": "...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The \"pacifist\" Committee member gives up his chase and takes the other path."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Umm. The room they just came out of, is that ...?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "It does appear so: the Vice President's office."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Let's go."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "After you."
+        },
+        {
+          "kind": "title_card",
+          "text": "Vice President's Office"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The expected occupant is nowhere to be seen. Only her chief of staff waits inside."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "Very nearly perfect timing, Vertin, Sonetto. I had heard that the Rehab Center cleared you for release, but it's all the more reassuring to see it for myself."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The signs of the fierce argument that took place linger in the mess of documents strewn over the table."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Madam Z, we saw Irinei and Pedra at the door."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "Let's not talk about them for now."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Understood. So, the \"Storm\" investigation team has returned?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "Correct. Thanks to the Field Agent Squad and our investigators, we've collected enough proof to verify your hypothesis. History has changed."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "The tenth \"Storm\" has brought us to an entirely different 1920 than we knew, one with a war still raging that should have long been over."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Do we understand why history has changed?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "Laplace has two hypotheses."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "The first centers on the ritual held in the Antarctic—despite being interrupted—its \"Flood\" might have changed the \"Storm's\" nature ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "Which has resulted in an even greater deviation from history as we knew it. Don't look so discouraged; that would be much better than the other theory—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "After her \"revival,\" Arcana may have obtained the power to use the \"Storm\" to alter the course of history."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "If that is the case, in all likelihood, that means this war ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Constantine",
+          "text": "—Is likely a result of intentional manipulation by Arcana. Manus Vindictae is trying to bring more chaos to the world."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The solemn room welcomes its master."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Constantine",
+          "text": "It's been a long time since we last met in this room, Timekeeper."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "It seems like nothing has changed."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Constantine",
+          "text": "Heh heh. But there's no time to dwell on that. I have some critical updates for you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Constantine",
+          "text": "This war may be close to its end. Though the fighting continues, we've begun engaging each side's leaders, and we believe a truce is possible."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Constantine",
+          "text": "There will be a peace talk, and the Committee has decided to act as its mediator. Peace is always the Foundation's top priority."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Constantine",
+          "text": "After this situation is stabilized, we'll pool our resources and focus on the Manus."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "I see. How's the progress so far?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The chief of staff answers on her behalf for this minor detail."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "Our branch leaders have built lines of communication, and we have reached an agreement on some of the terms with their respective governments."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "Pedra will go to meet the commanders on behalf of the Foundation, with the aim to reach a lasting truce by the end of the month."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "If everything goes well, we may be able to restore peace before the new year."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Now is the time to ask the question that's been lingering in her mind."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "As we arrived, I heard Irinei call Pedra a \"Pacifist.\" Does Irinei disagree with the Foundation's policy regarding the war?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Constantine",
+          "text": "It isn't a matter of the policy, but the means by which we achieve it, to be precise."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "How do you mean?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Constantine",
+          "text": "He and a few others believe all attempts to restore peace are bound to fail unless we destroy the Manus first."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Constantine",
+          "text": "In short, he wants to do things the tough way."
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

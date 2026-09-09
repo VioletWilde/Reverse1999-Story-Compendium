@@ -1,0 +1,931 @@
+{
+  "episode_id": 11018,
+  "chapter_id": 110,
+  "chapter_title": "Paradise Regained",
+  "display_label": "",
+  "title": "To a Skylark",
+  "subtitle": "Goodbye, Máhtu.",
+  "trails": [
+    {
+      "element_id": 101018,
+      "owner_episode_id": 11018,
+      "trigger_episode_id": null,
+      "title": "A Debate on Religion",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=11018",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Alright, moment of silence over."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Oh, I'm not a believer—not an atheist either. But I do respect her sacrifice."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Even if it was stupid and meaningless."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "But, as I said before, there's no greater proof of loyalty than to follow a fool."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "At least she died for a cause—her family legacy, her spirit of exploration, even that children's fairytale."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "She was stupid, but she was faithful."
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "It happened so fast.",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Were you expecting a warning first? I thought you'd know better after what you've been through."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Sorry, but you won't hear any praise from me for a sentimental commander."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "If I were your superior, I'd tell you to rip out your own heart and let the others see what sentiment leads to."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Oh, come on. You and I both know this isn't the end for her."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "For someone as devoted as her, death is nothing more than the achievement of eternal life."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "She's not like those blind followers who cut off their tongues. In fact, at this very moment, I fear she's being confronted with her own beliefs."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Join her now, while the gate is still open."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Or she'll leave you behind for good."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "You're cold-blooded.",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "101023",
+      "internal_title": "第十章10-17",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "To a Skylark"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Máhtu?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Are you there?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Radio",
+          "text": "What-What are you suggesting, Timekeeper?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Stranger",
+          "text": "*panting weakly*"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Stranger",
+          "text": "She's right. It's the only way to open the gate."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Máhtu, what are they talking about?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Stranger",
+          "text": "We have no choice. Listen."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Stranger",
+          "text": "You have to offer me to the gate."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "What? No, Ms. Stranger! We—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Stranger",
+          "text": "You have to get through. You have to find Ms. Urd and stop the ritual. *cough*"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Stranger",
+          "text": "My mission is to get you into the sanctuary by any means necessary."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "No, I won't allow it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "No more sacrifices."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Stranger",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Stranger",
+          "text": "Have you heard of the lungfish?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "What?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Stranger",
+          "text": "It's an amphibious fish found in Africa. Its gills are so shrunken that it developed a second respiratory system—lungs."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Stranger",
+          "text": "It's an obligate air-breather, despite being a fish."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Stranger",
+          "text": "It's not a land-dwelling creature, but if it's kept from the air for too long, it'll drown in its own watery habitat."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "A creature that doesn't belong to land or water ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Stranger",
+          "text": "Exactly. The Foundation is no home to me, and I just used the last of my moths to create that storm. I'm useless to them. If I go back there, I'd drown, just like the lungfish."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Stranger",
+          "text": "Let me open the gate. Spare me from drowning like the lungfish. Let me fulfill my role."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "It's a big world, Ms. Stranger. There will always be a place for you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "We'll find another way to enter the sanctuary."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Ms. Radio, could you get Mr. Ulrich on the line? Perhaps he has another lead."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Máhtu, do you hear them? What are they planning?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "What should we do? Should we join them?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Máhtu?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "I don't ... What's wrong? Why are you so quiet?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Sing to me, speak to me like you used to, hum another verse of the Mother Spirit for me. Why don't you guide me?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "It's because ... You were never there for me in the first place, were you?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "...?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Ms. Amundsen? How are you feeling?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Are you able to get up? Here, take these narwhal ivory candies. They might help calm your nerves."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Ms. Amundsen? Where are you going? Nautika?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Máhtu, do you know where Friele went?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Oh, she's gone to see the Mother Spirit, hasn't she?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "But, that woman, she said that there is no \"Mother Spirit.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Then, where is Friele now?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "You forgot your pendant, Friele."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "*sigh* How could you leave it behind? It's so important."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "It's—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Friele",
+          "text": "It's ambergris, Uncle Rolf!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "Be careful, Friele! Gently! Look, there's something trapped inside."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A scalpel slides delicately over the ambergris, revealing a small stone that draws in the faces of an old man and a child."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Beneath the glow of the work light, the newly exposed milky pink stone shimmers with liquid radiance."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Grandfather",
+          "text": "The reflection, the color ... What an interesting structure. This isn't like any rock sample we've studied before. How extraordinary."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Grandfather",
+          "text": "It's not crystallized magma, nor any sediment I'm familiar with."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Grandfather",
+          "text": "I believe this is a gift from Her, Nautika."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Grandfather",
+          "text": "The great gift of the Mother Spirit."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The girl's fingers close around the pendant."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "Grandpa said that it's a gift from the Mother Spirit, Friele."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "I bet Antarctica is filled with all kinds of secrets about this little stone."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Expedition Team Members",
+          "text": "\"The harvest's bounty mankind's blessing be. We children, blind, from mazes must be free.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "I'll find the stratum Grandpa never found."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Team Member I",
+          "text": "Entering the ice zone. Grab your telescopes, explorers."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "I'll explore the eras Grandpa never explored."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Team Member I",
+          "text": "The sextant was right. As long as we stick to this direction ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "I'll reveal the secrets Grandpa never revealed."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Team Member IV",
+          "text": "Here. It's a Neptune bar—my favorite. It'll keep you warm a little longer."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "I've never shown you this little piece of rock, have I, Máhtu?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Koht, Aase, Friele, and I ... We studied it over and over. We know it like we know the back of our hands."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "When-When you came to me, I thought that maybe I would finally understand this rock and the Blank Era behind it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "You gave me hope. You gave me purpose. And you gave me the courage to face every obstacle."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "You were there every step of the way, whispering in my ear, like a friend, like you were the voice of the Mother Spirit Herself guiding me to where I needed to be."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "But now, now we must part ways."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "This expedition has been like nothing I've ever done before. It's tested me and you to our limits."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "So, I understand. You have every right to go your own way."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Okay, time for a proper goodbye."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Thank you, Máhtu, my little ear worm. Thank you for coming to me in this beautiful, terrifying place."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Goodbye now!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Even if you were never real ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Just like the Mother Spirit."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Radio",
+          "text": "Ms. Amundsen? Ms. Amundsen!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Radio",
+          "text": "What do we do? She's not responding. It's like she's in some kind of trance."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "I already gave her all of our candies. Maybe a calming spell will snap her out of it."
+        },
+        {
+          "kind": "title_card",
+          "text": "Plaza, City Ruins"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "*soft groan* What ... What's everybody doing here?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Nautika! Thank goodness."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "You were caught in a trance. You weren't responding at all."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "What's happened?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "The gate's closed. We're trying to figure out how to get past it without ... resorting to that."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Ms. Radio is currently trying to reach Mr. Ulrich so we can come up with a plan of action."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Nautika's vision sharpens as clarity returns to her."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her sight finds focus on the closed gate as thoughts trickle back to her mind."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "Lava tubes. Every volcano has them. They're pathways made by flowing lava that lead to the heart of the volcano."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "If we find one, we might be able to get to the sanctuary through it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Stranger",
+          "text": "Not very likely."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "No longer able to support herself, Ms. Stranger slumps against the face of the gate."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Stranger",
+          "text": "The entire volcano is under Manus Vindictae's control, and Animus has eyes on every possible route. Trust me. There's no way of getting in without her noticing."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Stranger",
+          "text": "Not even *cough* a squirrel could slip past her."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "With a flick of her fan, she lets her vision rest on the gate once more."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Let's get moving up the mountain. We may still find a lava tube that they overlooked, or at least we'll have a better signal to get in contact with Mr. Ulrich."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Sonetto nods and steps forward, lifting the weakened woman to her feet."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Nautika, time to go."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Nautika gives a nod and fastens the pendant around her neck."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "With a heavy thud, her backpack drops to the ground. After a short and purposeful rummaging, she produces a safety helmet and a pair of goggles."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A geological hammer and steel-pointed chisel now weigh in her grip too."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "Alright. Let's do this."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She lifts her eyes and takes a step forward, then another, and another."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The others follow, heading out of the plaza."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Then she stops, casting one last look at her companions."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Nautika raises her hand. Her hammer shakes with pride."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Then, she kisses the pendant around her neck."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Just as abruptly, she turns back. Her snow boots grind into the snow, carving a deep footprint in the opposite direction."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "Vertin, Sonetto, Ms. Radio! Goodbye!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She dashes away."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Straight toward the sanctuary gate."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her sprinting strides grow faster and faster,"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "as she discovers a soaring power in her, one ready to erupt into action."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Radio",
+          "text": "Ms. Amundsen! Where are you going?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her friends swivel, moving to catch her."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Yet no one could hope to outrun this determined explorer."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "I'm sorry. I lied. The lava tubes don't always lead to the heart of the volcano."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "But you'll find a way in. You will, because you must."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "And I, also, must find my own path, in my own way."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She's one step from the gate."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "NAUTIKA!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "My friends, my teammates."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "I'm going away."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "But you keep moving, okay? Don't wait for me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "No! Nautika! Come back!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The pendant swings forward with her movement, cutting a decisive arc through the air."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She leaps up, fixing her eyes ahead."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "What's inside this ambergris, Grandpa?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "A new area for research? A message from the Mother Spirit? Or just an ordinary mix of minerals?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "The mountains and plains beneath the snow and ice ... They're so very large and old. We're just so tiny and young compared to them, you know?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "I think some secrets will always stay that way—secrets. No matter how much we explore."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Nautika lowers her eyes."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She smiles in the frozen light."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "But still, if I get closer, look harder ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "Maybe I'll see just a little bit more."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She lifts her eyes again."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A deep and utter silence pulses in the air before her."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "Grandpa, I see it now."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "It was the unknown that I was chasing, not answers."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "It was the beautiful, glorious unknown."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "...!!!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "One heartbeat."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The world stands renewed."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "None among them even manages to catch the hem of her garment as it lifts in the wind."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Don't!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Silence returns, as if sound itself has drained away into a hidden funnel."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "No wind. The lava lies still. The sun holds its place in the polar sky."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The gate."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Opens."
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

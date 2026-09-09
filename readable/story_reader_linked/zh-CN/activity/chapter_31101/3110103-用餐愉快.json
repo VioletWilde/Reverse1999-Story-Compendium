@@ -1,0 +1,812 @@
+{
+  "episode_id": 3110103,
+  "chapter_id": 31101,
+  "chapter_title": "长夜鸣笛",
+  "display_label": "",
+  "title": "用餐愉快",
+  "subtitle": "您必须安心忍耐，夫人。",
+  "trails": [
+    {
+      "element_id": 3110103,
+      "owner_episode_id": 3110103,
+      "trigger_episode_id": null,
+      "title": "谁的梦魇？",
+      "description": "它们不止被封存于档案中。",
+      "action": "交互",
+      "unlock_condition": "EpisodeFinish=3110103",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "《超自然者血食怪档案》节选"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "档案编号：XXX-1912-B（超自然者血食怪）\n\n档案等级：绝密\n\n血食怪是一种极为罕见的超自然者，其外形与人类相似，但仍具有显著特征：皮肤通常较为苍白，瞳色一般为红色，并会根据自身对血液的承受程度，有深浅之别。其生理结构显示，血液为其重要的能量来源之一。超自然者血食怪对血液，特别是富含生命活性因子的动物血液，有近乎强迫性的摄入需求。\n\n关键特性：\n\n1.渴血症\n\n超自然者血食怪对血液的渴望，使其偶尔表现出极高的攻击性与追踪能力（对血腥味极度敏感）。但有资料显示，血液并非超自然者血食怪的唯一生存来源，仍有极少数超自然者血食怪能够抵抗渴血症或通过进食替代性食物，完全不依赖血液生存。\n\n2.畏光性\n\n超自然者血食怪对太阳光表现出显著的生理性厌恶。长期曝露在高强度日光下会使超自然者血食怪的身体遭受不可避免的损伤。该类个体无法在光线照射下产生任何形式的投影或倒影——水面、玻璃窗、镜面以及任何抛光金属表面皆无法映出其影像。\n\n3.弱点\n\n常规物理性伤害对超自然者血食怪效能低下。经由特殊炼金术仪式处理的金属（通常为纯银）制成的子弹，可以对超自然者血食怪的身体造成不可逆的损伤。\n\n4.血食怪感染种\n\n超自然者血食怪个体对具备神秘学天赋或能力的个体进行咬噬或体液交换时，有较高概率引发“转化”。\n受感染者将经历██至██小时剧烈的生理与精神畸变，转变过程中死亡率高达93%，且存活者的精神疾病发病率超过96%。受感染者最终会转变为“神秘学家感染种”。“神秘学家感染种”在转化中将逐渐显现出超自然者血食怪的生理性特征以及习得超自然者血食怪的神秘术。\n\n注：有情报表明“重塑之手”正在持续进行将普通人类直接转化为超自然者血食怪的实验，但他们采取的实验转化成功率与被转化者的稳定性均未知。\n\n声明\n\n血食怪及其转化的感染种被基金会明确归类为“超自然者”。分类独立于人类与神秘学家。\n\n\n最后更新日期： 1912年11月15日"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "203104",
+      "internal_title": "【3.1】长夜鸣笛03",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "晚餐时间到来，乘客们紧绷的神经终于有所松动。大家围坐在灯光下，开始进食、饮酒、攀谈，笑声此起彼伏。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "当然，也有一些小小的“插曲”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "索尼娅",
+          "text": "这是……牛肉炖菜？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾玛",
+          "text": "很抱歉，索尼娅女士。现在是战争时期，我们食物供应十分紧张，质量可能有所下滑……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "索尼娅",
+          "text": "可这也太不像话了，它吃起来简直像过了火的牛革！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "女士气恼地放下手中的刀叉。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "索尼娅",
+          "text": "战争这，战争那……人们都爱把它当作偷懒的借口。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "索尼娅",
+          "text": "我付了和以往同样价格的车票钱，当然有资格要求获得同样水准的服务。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "戴帽子的绅士",
+          "text": "真叫人寒心啊，索尼娅女士。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "戴帽子的绅士",
+          "text": "外面多少人还在挨饿受冻。您倒好，居然还有闲情挑三拣四。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "索尼娅",
+          "text": "呵呵……阿不思诺先生，你们英国人除了站在世界另一端评头论足，就不能做一些对自己人生更有意义的事吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "索尼娅",
+          "text": "比如去外面晒晒太阳，或者……天哪，做顿不怎么像湿袜子的饭？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿不思诺",
+          "text": "嘿，女士——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "绅士面红耳赤地站起身，背后却传来一声轻笑。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一位女士坐在他们身后奋笔疾书，眼神不时从笔记上抬起。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿不思诺",
+          "text": "这位女士，请问你这是在做什么……？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "观察，记录。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "撰稿人优雅地合上笔记本。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "“突发争吵，战时炖牛肉引爆国籍冲突！女士怒怼英国绅士：你们连饭都不会做？”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "“战火未完，餐桌先燃：一位女士的牛肉炖菜之怒。”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "你们可以接着吵下去，为我提供更多创作的灵感。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "索尼娅",
+          "text": "哼，该死的小报编辑……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "空心木",
+          "text": "眼光不错，我确实是一名编辑，也会写一些报道。我叫空心木。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "空心木",
+          "text": "如果二位发现了有趣的素材，尤其是关于神秘学家的传言，欢迎联络我，我愿意提供对等的报酬。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿不思诺&索尼娅",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "争吵在不经意间被调停。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾玛",
+          "text": "谢谢您，女士。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "空心木",
+          "text": "别担心，小可怜。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "撰稿人侧过脸，托腮望向角落里大快朵颐的乘客。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "空心木",
+          "text": "起码不是每个人都认为你们的餐食很糟糕。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "唔、唔……我很久没有……这么痛快地吃一顿饱饭了……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "面对良久未见的食物，女孩的犹豫最终拜倒在了饥饿之下。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她进食的样子算不上失态，但速度和胃口都相当惊人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "谢谢你，女士……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅尔维斯",
+          "text": "你可以叫我塞梅尔维斯。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅尔维斯",
+          "text": "有人告诉过你吗？你的眼睛颜色很特别。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "是吗……谢谢夸奖。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "女孩抬起头，眼睛掩在帽檐的阴影下，那是异于常人的瞳色。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "你刚才说，这趟列车没有它看上去的那么安全……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "这是什么意思？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她伸手压低了自己的帽檐。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅尔维斯",
+          "text": "世上很少有表里如一的人，人们往往抱有不同的目的，并为达成这些目的各怀鬼胎。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅尔维斯",
+          "text": "比如车上的这些乘客，比如那位列车长，以及……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅尔维斯",
+          "text": "你。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她摊开手，展露出一种十分真诚的无奈。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "塞梅尔维斯小姐，无论如何，我是一个连饭都没得吃的人，也不会对任何人造成威胁。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅尔维斯",
+          "text": "但你拿走了别人的车票，不是吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她语气温和，敏锐的话语却如同尖刺。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "我……好吧，我是拿走了那张车票。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "我已经四天没有吃到一顿正常的饭了。这对我来说是个活下去的机会。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "我并不想伤害那位女士……如果可以的话，我希望那位女士也能登上这趟列车。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "女孩不自觉涨红了脸。调查员沉静地看着她，仿佛早已洞悉一切。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "良久，她突然莞尔一笑。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅尔维斯",
+          "text": "为了活下去，这并没有什么可指摘的。事实上，你也没有造成任何伤害。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅尔维斯",
+          "text": "我只是很好奇，你究竟用什么手法从我眼前拿走了那张车票。\n你的神秘术，我说的对吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "沉默已经表明了问题的答案。意识到自己的破绽，女孩生硬地转移了话题。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "你说每个人都表里不一，那你呢？你能坦白地告诉我你的身份和目的吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅尔维斯",
+          "text": "调查那些会造成影响的“表里不一”，就是我的工作。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她不动声色地回避了问题的本质，从座椅背后拿出一个文件夹。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅尔维斯",
+          "text": "接下来轮到我提问了……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她从文件夹中抽出一张白色的纸条。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅尔维斯",
+          "text": "你见过这个图案吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "嗯……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "这个嘛……我当然见过啦。应该是在某个市场……不，可能是在路过的墙上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "如果您之后能放我走，我或许能更细致地搜索一下我的记忆……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "女孩正盯着眼前的符号冥思苦想，纸条便被轻巧地抽离。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅尔维斯",
+          "text": "你很聪明。不过很遗憾，你的演技还有待提升。我想我已经得到自己想要的答案了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅尔维斯",
+          "text": "你并非他们中的一员。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "……啧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "女孩有些懊恼地皱起眉毛。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅尔维斯",
+          "text": "最后一个问题。你知道血食怪的传说吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅尔维斯",
+          "text": "听说他们都有一双“特别”的眼睛，就像……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她意味深长地看向女孩暗红的双瞳，成功在其中捕捉到了一丝慌乱。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "我、我完全不明白你在说什么……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "打扰一下。这位小姐，方便占用你几分钟吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "骤然出现的声音打断了步步紧逼的追问。列车长站在车厢的另一头，朝调查员招手示意。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅尔维斯",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅尔维斯",
+          "text": "我很快回来，希望你能履行“助手”的职责，不要再随意离开了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅尔维斯",
+          "text": "要知道，血食怪可不是这列车上唯一危险的东西。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "……遵命，头儿——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "对“助手”做出叮嘱后，调查员起身离开，朝着列车长那儿不紧不慢地走去。"
+        },
+        {
+          "kind": "title_card",
+          "text": "列车长车厢"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "她不是你的同伴。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "别试图瞒过我，我能看出来。你们没什么默契，你和那小姑娘认识的时间不会超过半个钟头。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "列车长倚着墙壁，毫不留情地点破了调查员的谎言。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅尔维斯",
+          "text": "我认为这属于乘客隐私。或许战时没那么多讲究，但我想我们仍然得遵守最基本的人道主义原则，您觉得呢？列车长女士。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "如果你只是一位普通乘客，那你的事与我无关，我没有理由也没有兴趣介入。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "但你来自那个什么“基金会”，我说得对吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她的目光落在调查员胸前的徽章上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "我见过你的徽章和黑白格纹。通常来说，基金会的人出现意味着……麻烦。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅尔维斯",
+          "text": "不必紧张，列车长女士，也许我只是去维也纳休假呢？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "能让你冒险穿过战区，花费重金购买车票，我猜这一定是很重要的假期。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅尔维斯",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "调查员轻叹一口气，掏出自己的基金会身份证件。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅尔维斯",
+          "text": "圣洛夫基金会，这是我的证件。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "圣洛夫基金会……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "调查员，塞梅尔维斯。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "列车长将工作证双手交还给调查员，语气没有丝毫改变。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "我明白了。调查员小姐，有什么我能为您服务的吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅尔维斯",
+          "text": "我收到了情报，一名危险的血食怪极有可能潜藏在您的列车上。因此，我需要您的配合以进行调查。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "调查员开门见山，直接抛出任务的主题。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "血食怪……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "听到“血食怪”一词，列车长的脸色蒙上了一层阴翳。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "这儿的人从小听血食怪的故事听到大，它只是民间传闻，从来没人真的见过血食怪。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "如果这是你的任务目标，我恐怕很难给予帮助。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "列车长坐回沙发上，顺手拿起一旁的棒针和毛线，无比自然地编织起来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "请坐，调查员小姐。希望你不介意我额外的工作。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅尔维斯",
+          "text": "这是……什么？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "围巾，给艾玛的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅尔维斯",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "调查员定了定神，竭力将注意力从列车长上下翻飞的棒针中移开。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅尔维斯",
+          "text": "关于情报的真伪，只有调查后才能下定论。倒是您的态度……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她脑海中忽然划过一个可能性。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅尔维斯",
+          "text": "您刚才说过，您认识这个徽章和标志。所以，您最近还看到过戴着和我一样徽章的人吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "我在“多瑙黎明号”上已经很多年了，调查员。除了血食怪，我什么样的东西都见过。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她从针脚细密的织物中抬起眼睛，看向调查员。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅尔维斯",
+          "text": "我明白了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅尔维斯",
+          "text": "那么，假定您从未见过血食怪。可以理解，人的确很难想象自己从未见过的事物。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "调查员身体前倾，毫不避让地直视列车长的眼睛。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅尔维斯",
+          "text": "根据基金会提供的资料，血食怪是极为危险的物种，只要被他们咬伤，不论人类，抑或神秘学家，有极大概率会在短时间内毙命。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅尔维斯",
+          "text": "这些不幸的产物，通常被称为“感染种”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅尔维斯",
+          "text": "他们正如哑弹，无人知晓他们会在什么时候突然失控。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅尔维斯",
+          "text": "列车长女士，这正是摆在您面前亟待解决的问题——一趟封闭的列车上，有可能隐藏着一名血食怪。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅尔维斯",
+          "text": "想必你我都很清楚，他会对全体乘客造成怎样的威胁。您打算就这样视而不见吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "列车长不自觉地皱了皱眉，随即自然地看向门的方向。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾玛",
+          "text": "列车长，我接到车站的讯息，他们希望能和您当面确认一些问题——咦？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "眼前的二人隔得很远，脸上的表情都不太好看，似乎刚经历一场不愉快的对话。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾玛",
+          "text": "噢！你们似乎在谈很重要的事，那么我一会儿再……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "等等，我和你过去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "列车长轻轻将围巾放在沙发一角。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "不好意思，我得失陪一会儿。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "一个行政流程，为了刚才掉下铁轨的旅客。列车和车站都需要一同配合。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "“行政流程”。列车长刻意强调了这个词。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "我们走吧，别让他们久等。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她从敞开的车门离开，乘务员则像小鸭子般跟在她身后。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "隔着厚厚的玻璃，调查员正通过口型仔细辨认着双方的对话。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "车站守军",
+          "text": "出了这样的事故，我们必须向上头交代……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "车站守军",
+          "text": "……必须暂停发车，除非……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅尔维斯",
+          "text": "准备借事故之名勒索吗？战乱年代倒不是什么稀罕事。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅尔维斯",
+          "text": "如果真能晚些发车，倒是更利于我的调查……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "意料之外的，列车长并未对守军的无理要求有过多反应，只是从怀中掏出一枚徽章交给了对方。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "车站守军",
+          "text": "哈哈，原来是自己人……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "原本紧绷的态势和缓下来，就连列车长脸上也带了一丝淡淡的笑意。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅尔维斯",
+          "text": "……列车和当地驻军有关系？不，如果他们真的这么熟悉，就不会有这个“行政流程”了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅尔维斯",
+          "text": "还有她交出去的东西，似乎是一枚徽章……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "像是感觉到车内的注视，列车长忽然抬起头。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "几乎是在一瞬间，列车长原本笑着的脸迅速垮了下来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅尔维斯",
+          "text": "真是敏锐。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她状似随意地靠回沙发，看着列车长与乘务员正一前一后走在漫天飞舞的风雪中。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "走到车门前，列车长停下脚步，背朝乘务员利落地挥了挥手。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "通知车站，去轨道上撒砂。准备发车了。"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

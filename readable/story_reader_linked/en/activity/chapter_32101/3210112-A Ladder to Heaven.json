@@ -1,0 +1,663 @@
+{
+  "episode_id": 3210112,
+  "chapter_id": 32101,
+  "chapter_title": "A Flowing Feast",
+  "display_label": "",
+  "title": "A Ladder to Heaven",
+  "subtitle": "Restricted area—authorized access only.",
+  "trails": [
+    {
+      "element_id": 3210104,
+      "owner_episode_id": 3210112,
+      "trigger_episode_id": null,
+      "title": "Harsh Critique",
+      "description": "A few words of advice for arcanists who've run out of options.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=3210112",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "\"The Sun King's Favorite\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "During Louis XIV's reign, life for most nobles of the sword was tough. They had to live at Versailles and follow elaborate etiquette to show their loyalty to the king. Earning even a small amount of royal favor meant extra rewards and yearly salaries, which helped them manage their debts.\nHowever, some families refused to exchange their swords for robes. Old aristocratic families with arcane bloodlines continued to flaunt their \"unique\" arcane skills. The Baron family was one of them. Once commanders of thunder and lightning on the battlefield, the Barons now performed parlor tricks at banquets to gain social status.\nAs time passed, their wealth dwindled. After the Napoleonic era, these noble families found themselves deeply in debt, often selling off their possessions to survive. Investing in business became more common and was no longer seen as disgraceful. Fortunately, the rise of aluminum gave Monsieur Baron the chance to apply his arcane skills to this new industry, bringing his family a steady income.\nBut their success didn't last. As new weapons and a new social order emerged, human technological progress made low-output arcane skills obsolete once more. Electric lights and wiring became commonplace, and the Hall-Héroult process made aluminum cheap, wiping out the Baron family's last viable business.\nWhat a pathetic glory of the past, what pitiful noble souls. These nobles desperately needed an opportunity, some support, a chance to change times and restore the arcanists' prestige ..."
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "203218",
+      "internal_title": "【3.2】迁流的盛宴12.1",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Célia, wait! Why are you running from me?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Chasing the blur, Adèle turns another corner and stops, startled."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "A dead end?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her relit lamp reveals nothing ahead of her but tightly packed bricks."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Where did she go?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "Adèle! Why are you with them?"
+        },
+        {
+          "kind": "title_card",
+          "text": "Dead End, Catacombs"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Two hands grab Adèle's shoulders and wrench her around—face-to-face with her lost and very anxious friend."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Célia? How did you ...? I-I just saw you over there."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Never mind. Are you alright? What happened to you? I've been worried sick."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The grip tightens, concern turning into panic mid-sentence."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "Answer me! Why are you with them?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Them? Who do you mean?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "Manus Vindictae!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A name heard only in dreams bursts out through clenched teeth."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "The professor deceived us all. He's been a member of Manus Vindictae this entire time. He never wanted to help anyone!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "We can't let him open the gate! We can't let him unleash the Imagerial Paris!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Wait-wait-wait! Hold on a minute, Célia."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Manus Vindictae, an imaginary Paris ... Please, I don't understand."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Adèle grasps her friend's trembling hands, holding tight until the shaking subsides."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "Do you remember Vincent?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "The madman that rammed into my car?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "He turned into a Beast of Gévaudan in my dream. You were in it, too, Célia."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She looks to her friend, expecting yet more doubt."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "No, Adèle. It wasn't a dream."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "Yesterday morning, I went to the hospital to check in on him."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "That would be around the time I visited Madame Bouanich's parlor."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Célia nods. She's put on a calm face, but the slightest quiver in her lips shows through."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "But when I arrived, I was told that he'd been taken to his hometown by his family. I truly didn't think much of it at the time, although I was remiss to have lost my chance to say goodbye."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "But on my way back, I saw him again. He was getting into a car, one that I recognized right away—Professor Roseau's."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She takes a deep breath, her breath holding back both shock and fury."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "It was altogether too strange. I couldn't just let it go. So, I hailed a car and tailed them. They parked in a hidden spot and entered the catacombs together."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "They kept going deeper, and I followed. I don't know how long we walked. It felt like we were descending into hell itself."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "Then I saw the room."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Professor Roseau",
+          "text": "You should feel honored, Vincent. Few have ever had the privilege to stand in this place."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He throws a dismissive glance over his shoulder, striding deeper toward the room at the corridor's end, a dazed young man trailing behind."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Moments later, the hidden young woman peeks around the corner."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "Where are we?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The strange light spilling from the entrance stings her eyes, unnervingly bright."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She steadies herself and edges closer to where the two figures vanished."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The center of the room is dominated by a strange circular pit, its interior wall fitted with a ladder of unknown make."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vincent",
+          "text": "A ladder? I thought we were already in the deepest part of the catacombs."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vincent",
+          "text": "N-Never mind my mumbling, Your Majesty. Only, could I ask—where does this ladder lead?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Professor Roseau",
+          "text": "As above, so below—don't let appearances fool you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vincent",
+          "text": "Huh? You mean ...?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Professor Roseau",
+          "text": "Yes, this is its entrance."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Professor Roseau",
+          "text": "The Archive of Imagery, the anima mundi, the shared dream, the sea of collective unconscious ... It goes by many names, but I prefer to call it the Depths of Myth."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Professor Roseau",
+          "text": "And it exists in a more tangible form than you may think, my dear boy. In fact, it is right in front of you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vincent",
+          "text": "My God! This is beyond my wildest imagination."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Professor Roseau",
+          "text": "For now, it is but a small crack in the veil, nowhere near enough."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Professor Roseau",
+          "text": "We must open the gateway. If we wish to restore the glory that once shone on this land, we need a far more radiant light, like the brilliance of the Sun of Austerlitz."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He stares downward, his eyes reflecting the brilliant, flickering light below."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Professor Roseau",
+          "text": "As I told you, there is risk here. The maelstrom of imagery will devour any who dive into it, reshaping their body and soul into something else entirely."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Professor Roseau",
+          "text": "But I have faith in you, my boy. You remember what I taught you, don't you?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vincent",
+          "text": "O-Of course! I'm ready! It would be my greatest honor!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The young man doesn't hesitate for even a moment. He descends the ladder, his movements deft and sure, as he vanishes into the deep."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Professor Roseau",
+          "text": "You must find the key—the French Blue—a pivotal discovery by one of our most venerable pioneers."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Professor Roseau",
+          "text": "Sadly, her existence dissolved into the Depths of Myth just as she had nearly claimed it. Still, her discovery has paved the way for our victory today."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Professor Roseau",
+          "text": "Together we will build a bridge between the material and spiritual realms, one that will guide us toward a more perfect world. Have you found it, Vincent?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vincent?",
+          "text": "I have it! I have it!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The young man reappears, but where his hands should be, he instead grips the side with a pair of massive lupine talons."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vincent?",
+          "text": "It's bright, so blindingly bright, as bright as the Sun!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A twisted head follows, jaws glinting with vivid blue ichor dripping from its fangs."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "An inhuman, monstrous face."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Professor Roseau",
+          "text": "Wonderful! That's it, bring it to me! Bring it to me!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "But in the next instant, the blue scatters into drifting light and fades away."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Professor Roseau",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The rapture on the man's face freezes only to melt away to nothing."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Professor Roseau",
+          "text": "What a shame, dear boy. It seems you weren't worthy after all."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The beast lets out a mournful cry. But the professor ignores it as he turns toward the entrance."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Professor Roseau",
+          "text": "Perhaps then, the final experiment must fall to you, Célia, my brightest student."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "...!!"
+        }
+      ]
+    },
+    {
+      "script_id": "203219",
+      "internal_title": "【3.2】迁流的盛宴12.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "Laurent Roseau is a madman."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Rage and sorrow twist her friend's once studious, gentle face."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "I thought he genuinely wanted to make the world better through parapsychology. He'd gone much further than anyone else."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "But I was perhaps too foolish, too naive to realize that all his novel theories—all the inspiring dreams he shared with us—were lies, meant to ensnare us, to use us."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "All those rumors of monsters in the city, the madness in the streets, the disappearances—they were his handiwork. He and Manus Vindictae."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Professor Roseau? The Depths of Myth? Manus Vindictae?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "I saw him—Vincent. He became a Beast of Gévaudan. I saw it with my own eyes. Then he turned to me and ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her voice breaks with emotion. Countless questions crowd forward, but in the end, they all yield to one."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "But you're safe now, Cici. That's all that matters!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "We'll figure things out later. For now, we need to get out of this accursed place."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Adèle holds Célia's hands so tight her knuckles blanch. Whatever else, she's certain of one thing: she won't lose sight of her friend ever again."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "So she steps forward, yet no footsteps follow."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Cici, what's wrong? Let's go, come on! We have to go!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her friend doesn't move with her; she stands motionless, expressionless, until her mask is broken by the hint of trailing light and faint concern written on her face."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "I'm so very glad, Adèle."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "I still truly seem myself through your eyes, right?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Ah, Cici, what do you mean? What else would you look like?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "For an instant, she sees it through the veil of shadow. It's no illusion."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "They captured me, Adèle, and threw me down the ladder."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "So many voices flooded my head—an endless number—until I couldn't feel my own body anymore."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "They told me things—whispered about this Manus Vindictae. Huh, everything struck me so quickly, so chaotically, yet it felt so long, like an endless moment."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "But I found something in the current—a diamond—the key to all this."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "If that diamond falls into their hands, they'll use it to unleash the Depths of Myth. And when that happens, all of Paris will be drowned in the maelstrom of imagery. And I'm afraid everyone will suffer just as Vincent and I have."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "I had to get the diamond away from them; I had to make sure they couldn't use it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "But I remembered what you told me, Adèle. That the real French Blue was recut long ago. Then, the diamond must be an imitation, something fabricated by Manus Vindictae, no?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "So a thought struck me: if it's only a forgery, then your arcane skill can destroy it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "I kept thinking about that over and over and told myself I had to reach you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "Then, just like that, a car door appeared in front of me, one I truly could not forget. It was your passenger door."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She releases this long-held truth like a taut rubber band, immediately snapping the moments together."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "Maybe the Depths of Myth really does connect our dreams, blurring the line between what's real and what's imagined."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "At the very least, it led me to you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "So then, in that bizarre dream, it really was you?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "Yes, it was. The Depths of Myth—how it connects us—truly is amazing. But I'm afraid I can't go any further. Too much has changed. I've changed."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "They won't stop chasing their key. Roseau will do whatever it takes to retrieve it and inflict this suffering on all of Paris."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "Please, Adèle, tell me you destroyed the diamond as I asked. You did, didn't you?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She clutches at her, desperate for an answer."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "But Adèle is at a loss for words, unable to summon up an explanation without stammering."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "I-I ... It was all so strange and confusing ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "I was worried about you, and I thought the diamond might be the only clue as to where you were, so I ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "I didn't destroy it; it should be with Félicienne now."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "Félicienne ... That's terrible! You can't mean that Félicienne?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "That's right. I told you about her over dinner."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "No! This is terrible! I see now. They're all ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "Listen to me, Adèle! Félicienne is an enemy! She's with Manus Vindictae!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "You mustn't trust her! She's more dangerous than she—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "Uhh—ughhh ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Huh ...?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Félicienne",
+          "text": "How rude. You really ought to reflect on your choice of friends, my darling."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Félicienne",
+          "text": "I've no patience for personal slander."
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

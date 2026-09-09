@@ -1,0 +1,916 @@
+{
+  "episode_id": 11205,
+  "chapter_id": 112,
+  "chapter_title": "远征记",
+  "display_label": "",
+  "title": "陌生的目光",
+  "subtitle": "士兵们低着头。军令将他们锁在沉默里。",
+  "trails": [
+    {
+      "element_id": 1120501,
+      "owner_episode_id": 11205,
+      "trigger_episode_id": null,
+      "title": "笨蛋还是天才？",
+      "description": "衷心希望归还时间不会变成一种另类攀比。",
+      "action": "交互",
+      "unlock_condition": "EpisodeFinish=1205",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "第一防线学校图书馆借阅卡"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "《笨蛋也能学会的招潮蟹变形术》\n——馆藏编号：F-4312-A\n——类别：形体炼成·海洋魔精生物学分支\n\n借阅记录\n十四行诗 两小时零三十六分归还\n汉斯·李维斯 一周后归还\n……\n西里尔·阿曼 次日同一时间归还（声称噩梦中出现海啸声，放弃练习。）\n拉克·冯·斯图尔 五天零六小时\n梅蕾尔 两天零三小时\n\n*图书管理员批注：\n除十四行诗与梅蕾尔外，其余同学归还时，书脊留有钳状痕迹与少量盐屑。\n另，此书以后需要在教师指导下借阅。"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "101207",
+      "internal_title": "第十二章12-05.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "陌生的目光"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "数千匹战马走过红柳树村前的道路，它们驮着全副武装的骑兵，用沉重的马蹄将土路踏得坚硬无比。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "骑兵军侦察连队首先抵达了村庄。村民们在屋门前张望，以一种警惕的姿态看着骑兵军士兵。"
+        },
+        {
+          "kind": "title_card",
+          "text": "红柳树村"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "谢尔盖",
+          "text": "你听说了吗，梅蕾尔？等会儿会有个基金会的老爷到村里来。我们村还是第一次见这种人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾尔",
+          "text": "老爷？什么老爷？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "梅蕾尔不自觉地想拉起面罩，陡然意识到她已经在逃难的路上弄丢了原来的衣服。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "谢尔盖",
+          "text": "听说是个大官，军长亲自接待……算了，这不关我们的事。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "谢尔盖",
+          "text": "娜塔——什么？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "当他们走近一栋房屋时，谢尔盖似乎看见了熟人，想靠过去打声招呼。站在房门口的女人却飞快地关上了门。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "梅蕾尔再也无法忽视从四面八方袭来的敌意，这种被盯着看的感觉让她想要缩成一团。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾尔",
+          "text": "……谢尔盖，这真是你原来的村子吗？为什么村子里的人看我们的眼神这么奇怪。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "谢尔盖",
+          "text": "我可不记得我之前有过这么多仇家，顶多……顶多也就一两个。这是在搞什么？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "谢尔盖",
+          "text": "搞不明白，还是去见我姑父吧——看见那座铁皮瓦的房子了吗？那就是我家。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "梅蕾尔顺着谢尔盖指示的方向看去，在那座蓝色铁皮屋顶房子的院落前，见到了一位拄着拐杖的老人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "谢尔盖兴奋地摘下帽子，举起来不断挥舞。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "谢尔盖",
+          "text": "姑父！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "老人止不住地用拐杖在地上敲着，拼命挤着眼睛，似乎在说“臭小子别开口了”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "谢尔盖",
+          "text": "奇怪……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾尔",
+          "text": "也许有什么隐情……要不我们还是靠过去问一下吧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "谢尔盖从没想到自己会一脸沮丧地来到家门口。姑父一把将养子拉到一边，梅蕾尔也下意识地跟了上去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "谢尔盖",
+          "text": "这到底是在干什么呀？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "姑父",
+          "text": "还问我呢，倒是我要问你小子——你们的军长到底打不打那帮匪军？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "谢尔盖",
+          "text": "当然是要去打的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "姑父",
+          "text": "什么时候打？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "谢尔盖",
+          "text": "这、这倒是没告诉我……行动时间可是军事机密！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "姑父",
+          "text": "有人说你们要进城去当乌龟，那我们这些住在乡下的，骑兵军还管不管了？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "青年人没有想好怎么回答，只好尴尬地沉默着。姑父叹一口气，用一只干瘦有力的手死死捉住谢尔盖的胳膊。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "姑父",
+          "text": "我懂了，我们一起逃难去吧。家里的东西已经收拾好了，今天我们就走，投奔你姑母在彼得罗夫卡的表姐去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "谢尔盖",
+          "text": "姑父，你能不能把话说清楚一点！我怎么能当逃兵呢？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "谢尔盖甩开姑父的手。一阵尴尬的愠怒染红了老人的脖子，他别过脸，斜眼看向一旁的梅蕾尔。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "谢尔盖",
+          "text": "她是我朋友，你别在意她，说吧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "姑父",
+          "text": "我们都在说，骑兵军不会管我们死活了，就算要管也管不了了。上游逃难过来的人说，匪军有好几万呢。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "姑父",
+          "text": "他们哪儿来这么多人啊？——这我倒不知道了，反正比你们骑兵军的人还多不少吧。你们拿什么打呢？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "姑父",
+          "text": "我悄悄告诉你，在你们来之前的几天夜里，村里剩下的小巫师、小女巫都投匪军去了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "谢尔盖",
+          "text": "什么？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "姑父",
+          "text": "别喊这么大声！他们走之前都说，谁要和骑兵军站一边，等他们杀回来了，就烧谁家的屋子。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他忧心忡忡地看着从村口经过的骑兵军。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "姑父",
+          "text": "要是你们打不过，全村都要被他们烧个一干二净了。所以，你到底和不和我逃难去？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "我看到红弩箭了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一支小规模的援军在草原上缓缓而行，运送枪弹与火炮的车队则缀在队伍之后，车轴隆隆作响。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "她身边的人……应该就是芝诺骑兵军的军长了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "在此等候的骑兵军士官骑着马来到援军队列前，引导他们前往指定地点。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "老朋友先军长一步迎上司辰。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "——头儿！基金会怎么偏偏在这个时候放你过来了？现在可一点也不太平。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "是我主动申请的，我需要在别列格勒搜寻一些情报……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "别这么看着我，红弩箭。Z女士批准了我这次外勤申请。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "好吧，既然是Z女士同意过的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "很高兴得知你安然无恙，红弩箭，在收到你的消息时我们都很紧张。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "基金会应该更新一下通讯设备了，特殊时期，通讯器也该做成防弹的才对。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "军长靠近正在攀谈的队伍。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "军长伊万",
+          "text": "司辰。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "你好，军长。我希望尽快了解别列格勒及周边的情况。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "军长伊万",
+          "text": "我会向你们说明的。在此之前，我想问问这一支部队是哪儿来的？通讯中没有提到过他们。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "军长看向援军中的一支百人左右的小队伍，他们由一位骑士所率领。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "领队的红发骑士也发现了军长正在注意自己，便主动下马，靠上前来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛尔纱",
+          "text": "布列科夫少将，我是基金会“Ⅻ”特别行动小队的队医，我身后的是从前线返乡的士兵，还有一支野战医疗团队。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛尔纱",
+          "text": "他们愿意加入骑兵军，参加对抗匪军的战斗。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "军长伊万",
+          "text": "……这再好不过。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "军长伊万",
+          "text": "去找莎宾娜·斯捷尔诺娃上校，她会安排好你带来的这些人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛尔纱",
+          "text": "我明白了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "骑士带领这支特别的队伍离去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "军长伊万",
+          "text": "请随我来吧，司辰。"
+        },
+        {
+          "kind": "title_card",
+          "text": "村庄室内"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "军长伊万",
+          "text": "……目前，顿河零散的匪军有合流之势，他们得到了来源不明的芝诺武装，集中在相对靠近上游的位置。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "军长伊万",
+          "text": "有很大概率是伊戈尔主导了这一切，目前为止，按照指挥部的命令，我们没有与对方主力发生过大规模冲突。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "军长伊万",
+          "text": "部分上游村庄已经遭到匪军洗劫。少数市民已经向下游逃难了，但是大多数还留守在城中不愿离开。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "军长从地图上抬起眼，露出了若有所思的神情。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "军长伊万",
+          "text": "根据芝诺的命令，骑兵军会在明早启程进城防守，直到你完成在别列格勒城内的任务。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "骑兵军里有很多这个时代的本地人，他们对伊戈尔的认知是怎样的？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "军长伊万",
+          "text": "按照规定，他们没被告知圣保罗的事。伊戈尔在他们眼中是一个普通的军阀领袖。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "军长伊万",
+          "text": "虽然我们还控制着一条进出城市的道路，但你要在这种情况下进城吗，司辰？叛军随时可能对城市发动攻击。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "是的。至少城内还没有发生战斗，我需要尽快完成调查任务。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "军长伊万",
+          "text": "为了能更好地配合你的行动，我能了解任务的具体细节吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "我需要在城内找到一个与“暴雨”有关的重要线索，它与一个叫做“琥珀屋”的地方有关。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "这就是我知道的全部。你对这个词有印象吗，军长？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "军长伊万",
+          "text": "我想你说的不是放在圣彼得堡的那座国家宝藏，不然你也不会到一千公里外的别列格勒来了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "军长伊万",
+          "text": "我在别列格勒从未听人提起过它，看来我没法为你提供别的援助。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "军长顿了顿，问出了自己更加关心的问题。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "军长伊万",
+          "text": "司辰，除了调查“暴雨”线索外，你身上是否还肩负调查“金色饥荒”的任务？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "军长伊万",
+          "text": "我们尝试过自己解决，但芝诺的军人不具备调查神秘学事件的经验，很难找到症结所在。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "抱歉，我没有接到相关的指示，但我会尽量留意可能的线索。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "军长伊万",
+          "text": "……我明白了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "军长伊万",
+          "text": "骑兵军会全力协助你。可是目前我们拥有的兵力，加上援军，也很难保证别列格勒的安全。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "虽然我不确定这会有多大帮助，但是我在不久前刚得知了新一批即将到来的增援。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "一支新组建的飞行巫师中队马上就会抵达红柳树村，她们还多带来了一把新的飞行扫帚。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一旁昏昏欲睡的红弩箭来了兴趣。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "芝诺重新组建了飞行巫师中队？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "不，这是属于基金会的飞行中队。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "另外，红弩箭，伊里内伊委员委托我问你，你愿意在这次行动中临时担任飞行中队的队长吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "在她面前的是一座孤独的空房子。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "斯捷尔诺娃",
+          "text": "以前住在这间屋子里的人有两年没有回来了。我问过村长，他同意把这里借给你住几天。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛尔纱",
+          "text": "这里……还挺宽敞的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "只要能忽视它摇摇欲坠的结构，这还算是一间不错的临时住所。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "斯捷尔诺娃",
+          "text": "嗯，就是院子里的马厩已经倒了，一直没有修好。不介意的话，你的马可以交给骑兵军统一照料。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛尔纱",
+          "text": "那再好不过，麻烦你们了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "斯捷尔诺娃",
+          "text": "没事，骑兵军有的是马，多一匹马也不算什么事。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "斯捷尔诺娃把房屋的钥匙交给玛尔纱之后，牵着她的马离开了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "玛尔纱转过身，正准备将钥匙插入锁孔，便被一阵窸窣声吸引了注意力。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛尔纱",
+          "text": "有老鼠？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "——可这大得不像是老鼠能发出来的声音。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一个小小的黑色阴影消失在院落一旁曾经茂盛过的榆树下。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛尔纱",
+          "text": "嗯？是村里的小孩吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛尔纱",
+          "text": "算了……先进房屋休息吧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "同样的动静再次传来，玛尔纱再次朝可疑的地点投去目光。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛尔纱",
+          "text": "到底是谁躲在那儿？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "在榆树干后，她的目光与一颗探出来的脑袋短暂相遇。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "这一次，人影不再依靠掩体遮蔽身形，而是消失在一道神秘术的辉光中。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛尔纱",
+          "text": "消失了？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "玛尔纱警惕起来——她很难再把躲藏者视作无害对象。骑士拿出武器，向着神秘术辉光消散的方向而去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一抹团状的黑色影子又一次在视线中一闪而过。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛尔纱",
+          "text": "这是什么东西？刚刚看见的明明是一个人影才对。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛尔纱",
+          "text": "这么躲躲藏藏的实在是太可疑了，而且还是在骑兵军驻扎的村子里……难道是间谍？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "“沙沙——”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "声音再次暴露出方位。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "在追逐之前，玛尔纱凝神审视——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛尔纱",
+          "text": "……我没看错吧，那对蟹螯……是招潮蟹？在顿河草原上？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "骑士迈开脚步，以惊人的速度向可疑的招潮蟹靠近，沉重的盔甲也完全没有影响她的速度。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "而对方几乎是慌不择路地横着向村外逃窜。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "二人之间的距离越来越近。"
+        }
+      ]
+    },
+    {
+      "script_id": "101208",
+      "internal_title": "第十二章12-05.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "玛尔纱",
+          "text": "——抓到你了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "被逼到墙角的海栖魔精咔嚓作响地在空中挥舞巨螯。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "招潮蟹？",
+          "text": "嘶嘶……嘶嘶嘶——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛尔纱",
+          "text": "放弃吧，你的变形术也太拙劣了，招潮蟹怎么可能会在草原上出现？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛尔纱",
+          "text": "而且作为一只招潮蟹，你的体型也太大了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "招潮蟹？",
+          "text": "嘶……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "辉光再次闪烁着，环绕着招潮蟹周身的光线开始扭曲变形。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "施术者终于放弃了无用的神秘术。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾尔",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "新晋的“Ⅻ”小队队医与逃亡中的“Ⅻ”小队队员四目相对。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾尔",
+          "text": "又……又见面了——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛尔纱",
+          "text": "梅，蕾，尔？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛尔纱",
+          "text": "你怎么……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "玛尔纱向前一步。\n被抓捕的逃兵立刻下蹲，双手护住头顶。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾尔",
+          "text": "别……别打我！我什么都说！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛尔纱",
+          "text": "……你是说，打算就这么混在骑兵军里直到战争结束？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾尔",
+          "text": "嗯……现在除了待在骑兵军里，外面都没有东西可以吃了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛尔纱",
+          "text": "如果“暴雨”来了呢？你要怎么办？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾尔",
+          "text": "我带了一把平衡伞，说不定到了下一个时代，我可以找到安全的地方……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她神色一沉，变得心虚而不安。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾尔",
+          "text": "我、我被土匪追杀的时候把伞弄丢了……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛尔纱",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾尔",
+          "text": "唔！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "骑士的一双手扣住逃兵的脸，使劲揉搓。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾尔",
+          "text": "补……方开……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛尔纱",
+          "text": "现在是战时，你知道逃兵被抓到会怎么处置吗？你觉得一直混在芝诺的队伍里就不会有基金会的人发现你？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾尔",
+          "text": "唔——窝……喔不知岛……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛尔纱",
+          "text": "躲得了一次“暴雨”，躲得了下一次吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾尔",
+          "text": "秋……秋妮，玛尔……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛尔纱",
+          "text": "你又怎么知道下一次会到一个怎样的时代？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾尔",
+          "text": "玛尔纱……窝补能——湖西……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "玛尔纱骤然松开手。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛尔纱",
+          "text": "真是要被你急死了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "梅蕾尔垂下脑袋，揉着被搓红的脸颊。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾尔",
+          "text": "你为什么会到这里来？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛尔纱",
+          "text": "我要带一队偶遇的顿河人回家，正好与司辰顺路，就和她在路上会合，一起过来了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛尔纱",
+          "text": "现在我的事情完成了。刻雷乌斯要求我在这段时间留在司辰身边，等她的任务完成之后一起回基金会总部。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾尔",
+          "text": "……你……是不是要抓我回去？见刻雷乌斯？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "玛尔纱靠在磨损老旧的屋梁柱上，脸色十分难看。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛尔纱",
+          "text": "要是见刻雷乌斯倒还好了，就怕基金会也来插手。但我肯定要带你回去的，在外面逃跑只会更危险。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "逃亡的少女知道自己没有反抗的手段。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛尔纱",
+          "text": "除了我之外，这里有没有人认识你？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾尔",
+          "text": "没有……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "“基金会老爷”年轻的脸出现在梅蕾尔脑子里，她摇摇头，把那双灰色眼睛从记忆中甩出去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾尔",
+          "text": "我认识司辰和红弩箭，但她们应该都不认识我。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾尔",
+          "text": "只是维尔汀的助手……我说不准，十四行诗和我当过几年同学，虽然我们也没怎么打过交道。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛尔纱",
+          "text": "那你暂时跟在我身边，尽量别让十四行诗看见。如果这事能在队内解决，或许还好说。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛尔纱",
+          "text": "我和帕拉维扬也许可以给你说情……但这一切的前提是，你不准再逃跑了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾尔",
+          "text": "唔——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一道尖锐的破空声打破了好不容易平复下来的情绪，少女猛地抬头，却只看见空中留下的几道蜿蜒气流。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾尔",
+          "text": "天上是什么？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "玛尔纱也抬头望向天空，但并未有任何慌张。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛尔纱",
+          "text": "是基金会的飞行中队，她们到了。"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

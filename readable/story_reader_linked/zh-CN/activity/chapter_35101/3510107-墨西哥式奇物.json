@@ -1,0 +1,542 @@
+{
+  "episode_id": 3510107,
+  "chapter_id": 35101,
+  "chapter_title": "绿松石蛇俱乐部",
+  "display_label": "",
+  "title": "墨西哥式奇物",
+  "subtitle": "请务必收下。",
+  "trails": [
+    {
+      "element_id": 3510112,
+      "owner_episode_id": 3510107,
+      "trigger_episode_id": null,
+      "title": "“清洁注意事项”",
+      "description": "第一条，别把龙舌兰当菠萝吃。",
+      "action": "交互",
+      "unlock_condition": "EpisodeFinish=3510107",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "“必要”的除灵指南"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "1.龙舌兰\n\n使用注意事项：别被大叶子割伤了手。\n现实用途：常用于酿酒、制药与各种仪式，其汁液发酵后制成的普逵酒被墨西哥人视作“土地的体液”。\n除灵用法：把汁液涂抹于已“处理完毕”的空间，在门框、地面留下标记，将“看不见的存在”彻底隔绝在外。\n\n2.墨西哥香菜（Epazote）\n\n无特殊注意事项。\n现实用途：可促进消化，能驱除或杀死肠道寄生虫。\n除灵用法：除灵仪式完成后，如果房间里仍萦绕着“它们的气息”，那就撒点儿墨西哥香菜，毕竟，这玩意儿的味道和它的名字一样“特别”。\n\n3.芸香\n\n无特殊注意事项。\n现实用途：常作驱邪用，可随身佩戴，也可泡水饮用，或直接洒在地上。\n除灵用法：“除灵”的最后一道工序，意思是“这儿的净化已经结束了。”\n\n4.科巴脂\n\n需特别注意——得让烟雾扩散至整个房间。\n现实用途：原产于中美洲的天然树脂，自阿兹特克与玛雅时期起便用于祭祀仪式，如今作为连通生者与亡者的媒介，在诸灵节中被广泛使用。\n除灵用法：当科巴脂的烟雾自房子里升腾，“它们”便能重回归处。\n\n5.迷迭香\n\n仅限生者使用。\n现实用途：疗愈。\n除灵用法：若“现场”给人的感觉不对，或遇上情绪失控的幸存者，来点儿迷迭香，它会让你更快地找回自我。"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "203511",
+      "internal_title": "【3.5】绿松石蛇俱乐部07",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "傍晚，太阳散发着最后的余温。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "街巷深处，一家热闹的小店内，匠人们正手工制作着节庆用的糖果头骨。"
+        },
+        {
+          "kind": "title_card",
+          "text": "糖果店"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "店主",
+          "text": "野木蓝，手脚利落些！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "店主",
+          "text": "当初要不是你求着我，说你可以在每天晚上把剩下的工作都做完，我的工坊才不会收你这样的年轻人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "店主",
+          "text": "你得赶在明日之前，将这些糖果都送到迪亚哥家里去！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野木蓝",
+          "text": "好的。我知道了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "店主",
+          "text": "对了，罗马区的华雷斯女士想你抽空过去一趟，给她重新绘制家族墓地的墓碑。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "店主",
+          "text": "噢该死，我忘记了，天黑前还得去一趟克里斯蒂娜那儿，收些万寿菊……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "店主马不停蹄地离开了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野木蓝",
+          "text": "今晚……还有一百多个糖果。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "天色越来越暗，匠人们也逐渐离开。昏沉的烛光下，只有他一人的影子在墙上闪烁着。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "脚步声打破了店内的寂静。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "很精致的糖果。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野木蓝",
+          "text": "我们使用这些欢迎逝者的归来，引导他们的灵魂在家中安息。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野木蓝",
+          "text": "阿兹特克人认为，生命是一个周而复始的循环。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野木蓝",
+          "text": "而死亡，它是生命的回照，是无限循环的一部分。我们死亡的方式，决定了我们灵魂的来世。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野木蓝",
+          "text": "那些在伟大战斗中牺牲的战士，他们的灵魂会伴随着太阳从塔洛坎宫殿升起，唱响凯歌。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野木蓝",
+          "text": "直至四年之后，他们将转世成炫目的蝴蝶与蜂鸟，重返人间。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野木蓝",
+          "text": "您能告诉我，这些是真的吗，拉莫纳小姐？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "拉莫纳",
+          "text": "你认识我。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野木蓝",
+          "text": "莫雷洛斯区的孩子都把您叫做“能看见鬼魂的拉莫纳”。他们说，是您把小安娜那条意外逝世的无毛狗的灵魂找回家的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野木蓝",
+          "text": "在孩子们的口中，您无所不能，是阴影中的圣人，最了解这座城市的人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野木蓝",
+          "text": "有人打探到，您出身于著名的通灵世家，只是脱离了家族——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "拉莫纳",
+          "text": "这是一个谎言。我并不能看见鬼魂。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "女孩漫不经心地反驳，止住了更多关于她身世的猜测。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "拉莫纳",
+          "text": "于我而言，鬼魂只是“灵”，一种无处不在的神秘学能量波动。它们存在着，和一缕微风没有什么区别。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "拉莫纳",
+          "text": "人们只相信自己想要相信的东西，无论是小孩抑或是大人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "拉莫纳",
+          "text": "他们需要一个与逝者沟通的方式，来寄托自己的思念，因而期望我能看见鬼魂，能与他们说上话，替他们传达那些未能道出口的话语。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野木蓝",
+          "text": "是啊……我很抱歉，拉莫纳小姐。这个问题只是一种强加的期待。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "野木蓝的视线从对方身上夜巡特遣管理局的徽章移开。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野木蓝",
+          "text": "您这次前来，是有什么事吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "拉莫纳",
+          "text": "我确实有一些事情想要问你。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "拉莫纳",
+          "text": "这个记号，对你来说应该不陌生吧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野木蓝",
+          "text": "一支箭镞，一把猎弓，一张网状的袋子。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野木蓝",
+          "text": "这是《奇马尔帕因手抄本》记载中，太阳神维齐洛波奇特利送给阿兹特克人的礼物。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "拉莫纳",
+          "text": "也是绿松石蛇俱乐部的符号。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "拉莫纳",
+          "text": "那个由神秘学家佩雷斯掌控的，墨西哥城最大的地下走私集团。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "访客将布条收起。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "拉莫纳",
+          "text": "你替佩雷斯工作，为俱乐部伪造神秘学名画。知道这件事的人并不多。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "拉莫纳",
+          "text": "大半个月前，佩雷斯的动作越来越大，明眼人都知道，他的野心在谋划更多的东西，而一场冠着“深邃、血腥的古老文明”名头的拍卖会就是最好的作秀。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野木蓝",
+          "text": "看来这个城市中的一举一动都不能瞒过您的眼睛。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野木蓝",
+          "text": "这是来自夜巡特遣管理局的调查吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "拉莫纳",
+          "text": "执夜队？不，我才不在意那些穿制服的家伙在干些什么。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "拉莫纳",
+          "text": "我并非所谓的“正义之士”，不打算阻止这场拍卖会。再说了，这些根深蒂固的神秘学家黑帮可不是好惹的，这一点你应该比我更为清楚。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "拉莫纳",
+          "text": "只是，这座城市最近的异象，在你所感受不到的地方正酝酿着——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "拉莫纳",
+          "text": "那些热闹街巷的阴影里，人们笑容的背后，废弃的空屋中。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "拉莫纳",
+          "text": "“灵”的能量变得躁动不安起来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "拉莫纳",
+          "text": "它们在午夜扭曲，盘旋在城市上空，尖啸着……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "拉莫纳",
+          "text": "这是以前从来没有过的光景。再这样下去，我不确定会发生什么。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野木蓝",
+          "text": "是您的神秘学天赋在向您预警，即将到来的危险。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "拉莫纳",
+          "text": "这算什么好天赋？特别是，当你出生于一个……所谓“通灵世家”的时候。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "面对自己的出身，少女不愿多提，迅速跳过了这个话题。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "拉莫纳",
+          "text": "最近在城里甚嚣尘上的流言，接连五起的神秘学谋杀案，你不可能没有听说过。我怀疑“灵”的异常，正是和这起连环案件有关。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "拉莫纳",
+          "text": "这个符号，是我在其中一个犯罪现场偶然发现的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "拉莫纳",
+          "text": "所以我要弄清楚，俱乐部和这起案件真正的联系。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "业余侦探收起了懒洋洋的神色。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野木蓝",
+          "text": "如果它们真的有联系——我是说，假如确实是绿松石蛇俱乐部所为，您会怎样做？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "拉莫纳",
+          "text": "那就不是我该担心的事情了。那些穿着制服和皮鞋、戴着徽章的家伙们，接下来是他们的工作。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野木蓝",
+          "text": "您是一个热心的人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "野木蓝面上浮现了温和的笑意。那点笑意很快像一阵风一样消失了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野木蓝",
+          "text": "但很抱歉，拉莫纳小姐。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野木蓝",
+          "text": "如您所言，我既然替俱乐部工作，就无法为您提供任何的帮助。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "拉莫纳",
+          "text": "哪怕这份伪造的工作，并非是你自愿？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "拉莫纳",
+          "text": "野木蓝，没记错的话，你以前是一名颜料商人，和黑帮也没有什么瓜葛。自佩雷斯大规模绑架、威胁墨西哥城中的画家之后，你才开始替他伪造名画。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "拉莫纳",
+          "text": "和那些被绑架的画家一样，你不是自愿替俱乐部干活的。只是你更识时务一些，佩雷斯才没有把你一直关在俱乐部里。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "拉莫纳",
+          "text": "如果能证实佩雷斯和这桩案件的关系，夜巡特遣会——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野木蓝",
+          "text": "请回吧，我会对今天的对话保密的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "拉莫纳",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "女孩止住了话头，意识到自己方才的举动有些过于激动，甚至是愚蠢。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "拉莫纳",
+          "text": "打扰你了，野木蓝。我该走了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野木蓝",
+          "text": "亡灵节快到了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野木蓝",
+          "text": "回去的时候，请带上一些装饰品吧，这样也不算白跑一趟。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "拉莫纳",
+          "text": "你是个出色的推销员，即使在这种时候也不忘工作。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她嘲讽着接过对方递来的彩蜡烛，随手抛下两枚利齿子儿。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "熟悉的墓地，无人的空屋，破败的棺材，得以让疲惫的身心得到舒展。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "——本该是这样的才对。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "空脑袋",
+          "text": "拉莫纳小姐，你回来了！调查进行得还顺利吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "空脑袋",
+          "text": "你去找的那个人——对方是你的朋友吗，还是你在城市中布下的眼线？我就知道这一切没有这么简单。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "拉莫纳",
+          "text": "……你怎么还在这儿？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "拉莫纳",
+          "text": "莱瑟姆小姐，我让你不要尾随我，并不是让你返回我的住所等我的意思。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "空脑袋",
+          "text": "我知道了！你一定是去找你认识的鬼魂了——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "拉莫纳",
+          "text": "我并不认识什么鬼魂。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "拉莫纳",
+          "text": "我们在犯罪现场找到的那个符号，箭镞、弓与网，这是一个走私黑帮的代表符号。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "拉莫纳",
+          "text": "绿松石蛇俱乐部……而我正巧认识一个被迫为它工作的人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "空脑袋",
+          "text": "原来如此，调查进展出乎意料地快，真是幸运！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "拉莫纳",
+          "text": "别高兴得太早了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "拉莫纳",
+          "text": "他不愿意为我提供俱乐部的信息，甚至还要我照顾他的生意。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "拉莫纳",
+          "text": "这个送你，就当你来一趟墨西哥的纪念品了。你该离开了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她百无聊赖地将买来的蜡烛抛给了对方，空脑袋手忙脚乱地接住。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "空脑袋",
+          "text": "哇——！这是什么？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "拉莫纳",
+          "text": "一点小玩意儿……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她的话头突然顿住。在充斥着孤魂与亡灵的荒郊墓地之中，蜡烛引起的神秘学波动尤为明显。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "拉莫纳",
+          "text": "等等。我改变主意了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "空脑袋",
+          "text": "咦……？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "“纪念品”在她手上停留不过两秒，又被赠予的人收了回去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "除灵师将彩蜡烛放在手心，再次仔细地端详着，随即，她将它收起。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "拉莫纳",
+          "text": "我要收回那句话——他对俱乐部或许没有那么忠诚。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "空脑袋",
+          "text": "这是什么意思？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "拉莫纳",
+          "text": "我会再给你买别的纪念品的。"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

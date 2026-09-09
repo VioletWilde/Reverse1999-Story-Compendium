@@ -1,0 +1,578 @@
+{
+  "episode_id": 11111,
+  "chapter_id": 111,
+  "chapter_title": "行于漫漫长路上",
+  "display_label": "",
+  "title": "Wounds and Scars",
+  "subtitle": "No one can make sense of why this war drags on.",
+  "trails": [
+    {
+      "element_id": 111011,
+      "owner_episode_id": 11111,
+      "trigger_episode_id": null,
+      "title": "Discipline and Regulations",
+      "description": "Adherence to military regulations is mandatory for all soldiers, including arcanists.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=1111",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "Arcane Support Company Special Regulations"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "1. Respect all comrades equally, regardless of classification.\n\n2. Execute orders exactly; no changes based on divination.\n\n3. Do not neglect conventional science; bullets often outkill arcane powers.\n\n4. You are fully accountable for entities you summon.\n\n5. No mental surveillance, influence, or manipulation of personnel without authorization.\n\n6. No arcane modification of issued equipment without authorization.\n\n7. Conduct spirit contact only with another member present; limit to three minutes.\n\n8. Know the alternative forms of your comrades.\n\n9. Report and secure approval before using large rituals or high-level incantations.\n\n10. Expect enemy arcanists and other supernatural threats during operations."
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "101114",
+      "internal_title": "第十一章11-11.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "Wounds and Scars"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Captain",
+          "text": "Fix bayonets!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Captain",
+          "text": "For Victory!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Captain",
+          "text": "Charge!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Captain",
+          "text": "Damn! Their cavalry's returned!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Captain",
+          "text": "Hold the line! I'll shoot any coward that runs!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Captain",
+          "text": "You, you're from the Arcane Support Company? Go get that monster!"
+        }
+      ]
+    },
+    {
+      "script_id": "101115",
+      "internal_title": "第十一章11-11.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "Knight",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She can't remember how she did it—perhaps her enemies were as exhausted as she was, or perhaps it was just the devil's luck."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcane Support Soldier",
+          "text": "Ugh!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Struggling, fighting purely by instinct, she holds her heavily armored foe at bay."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Knight",
+          "text": "*cough*"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Time crawls to a standstill; her bayonet is stopped mere centimeters from her foe's throat by two armored fists."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Dost thou recall when once, in our youth, we fought over an apple tree?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcane Support Soldier",
+          "text": "Let go of me!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Knight",
+          "text": "No, damn it!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Thou wished to cut its wood and make us a fire to roast a chicken."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Knight",
+          "text": "Umm ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "But I rebuked thee. For I believed the tree would bear fruit, and it would be the sweeter bounty of the two."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcane Support Soldier",
+          "text": "*panting*"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Thou didst find a bush with over-ripened berries and hurled them at me, crying that they should serve as my supper, while the chicken would be for thee alone. And I retaliated in kind."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcane Support Soldier",
+          "text": "But ...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Ere long, we were painted red with juice."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Knight",
+          "text": "Ah!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "\"What a bloody melee we fight!\" We laughed as we laid down our arms. What fun we had that day."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcane Support Soldier",
+          "text": "No. I don't want to ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "But the battle thou fightest now shall not end in the gentle smears of red berries. What drives humanity to war? \nCould it be so different from what drove us to it beneath that apple tree?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Knight",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "I dare not imagine how a slaughter that has claimed the lives of millions could be waged for so small a cause."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "That we should be brought to bloodshed, driven only by the fear of those whom we were taught to despise."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "What immortal hand or eye could frame the cause behind these deadly ends?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Thou art more courageous than I, Marie. Never hast thou doubted thy conviction. So tell me, I pray ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Is there some purpose in the war they now fight?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "For I see no divine meaning to be found in this killing and dying."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sentinel",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Small-caliber rounds pose no real threat to her rocky exterior, but that does little to reduce the pain."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "And healing comes slowly."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sentinel",
+          "text": "Agnès?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "No response. That was expected. But what she had not expected was the next voice."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "Who's Agnès?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sentinel",
+          "text": "She ... Matters not. But what brings you here?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "I'm taking you somewhere safe. Paravyan—that young man who came with me—is back at the village. He'll continue with our search."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "Before you ask, I'm doing fine. Like you, I'm made of sterner stuff."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She rotates her arm, looking as if her wounds had all but disappeared."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "I checked over your wounds, but I have no earthly idea what to do with this gravel. I know how to treat flesh, not stone."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "But that wound won't be a problem for you, will it?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sentinel",
+          "text": "No. Ugh ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her physical pain is bearable. But the lingering echoes of her nightmare cause her to grit her teeth."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "Were you dreaming? It seemed like a nightmare."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sentinel",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She locks her stare forward and away. There's field dressing for the wounds that truly pain her."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "I don't know if this will help."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She removes her gloves. It's a brisk and almost tender motion,"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "revealing deep slashing cuts across her palms."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sentinel",
+          "text": "...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sentinel",
+          "text": "Could it be ... Are you ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "I am. But that battle is long over. You and I are no longer enemies."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The howls of their deadly melee still ring in her ears."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sentinel",
+          "text": "It was a senseless fight. I hurt you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "It wasn't your fault."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "In fact, I thank you for it. They thought I died fighting you—I used that as my opportunity to leave."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "For some time after that, I was with an international rescue team. We came under attack by the Manus for our efforts, but the Foundation intervened."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sentinel",
+          "text": "Wait, then you remember me?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Marsha nods, a gentle, graceful motion, carrying the reassurance of a doctor at her patient's bedside."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "And you didn't. I was wearing a helmet. But you don't have a face one forgets."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sentinel",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sentinel",
+          "text": "Marianne."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "Hm?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "Oh, that's your name?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "Marianne. It's lovely."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She repeats it, stressing the syllables as if to remember it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sentinel",
+          "text": "Tell me, then, what do you know about Manus Vindictae?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "They are a secret organization open to only pure-blooded arcanists. Simply put, their goal is to cause as much chaos as possible and eventually destroy all of human society."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sentinel",
+          "text": "And this \"Mother of Resurrection\" is like a god to them?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "Something like that, yes. She died once, but they managed to resurrect her through some awful ritual."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sentinel",
+          "text": "A resurrected madwoman?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her disdain curdles into hatred. Fingers clench, like she's trying to crush something in midair."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sentinel",
+          "text": "Then she is a false prophet, an imposter of the true resurrection."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Marsha seizes the opportunity to move to her side."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "The war between the Foundation and Manus Vindictae has lasted ages—longer, even, than this war."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "You and the Foundation share the same goals, and the intelligence you gathered may prove crucial for us."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "If you would be willing to share it, we may be able to reach a truce sooner. So, please mull it over."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Sentinel bows her head, giving her rifle a rough once-over."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She wipes away some of the blood and dirt that cakes the receiver, then one by one slots new rounds into its magazine."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sentinel",
+          "text": "My search into Manus Vindictae began at the turn of 1918. Their documents, personal belongings, letters ... I sought and scrounged for every clue that might be found."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sentinel",
+          "text": "From these, I learned of their mission to prolong this bloodshed, supplying both sides with arms of dreadful artifice. Then as now, I still do not understand why."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sentinel",
+          "text": "I brought my evidence before the powers of my nation, but they cared not. So, I spoke out against them, still hoping they might awaken to this madness."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sentinel",
+          "text": "But my words went unheeded. Worse, they turned against me, hiding even the very name of Manus Vindicate from all their publications and letters."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sentinel",
+          "text": "There is no longer any truth in the words they print; only lies meant to stir the pride of youth to deadly, pointless slaughter ... youths who were but children when the war began."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sentinel",
+          "text": "That is why I have turned to this—to killing the ones who incited this war. It was the only choice I had left."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sentinel",
+          "text": "Perhaps it has all been for naught, but at least I have put deeds to words. What has the Foundation done?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The accusation forces her into a stammering defense."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "We have done more than you know. But I'm not authorized to tell you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sentinel",
+          "text": "You expect me to offer all I know to you, yet still withhold your trust."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "I'm sorry. No, I suppose that isn't fair of us. If there is anything we can offer in exchange to make a deal, I'll ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "But her efforts lose steam."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "I'll try my best to honor it. But I can't guarantee anything."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A cold breeze cuts the stillness between them."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Sentinel lets out a slow and labored breath."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sentinel",
+          "text": "I will give nothing to the Foundation, neither freely nor for any bargain."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sentinel",
+          "text": "But you, Marsha—you have my trust."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Marsha lights up at her patient's declaration."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sentinel",
+          "text": "Follow me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "Oh. Of course!"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

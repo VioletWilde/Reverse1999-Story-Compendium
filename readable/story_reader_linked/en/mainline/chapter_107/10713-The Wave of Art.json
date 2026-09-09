@@ -1,0 +1,788 @@
+{
+  "episode_id": 10713,
+  "chapter_id": 107,
+  "chapter_title": "Vereinsamt",
+  "display_label": "",
+  "title": "The Wave of Art",
+  "subtitle": "After the wave, what is left in its wake?",
+  "trails": [
+    {
+      "element_id": 1071301,
+      "owner_episode_id": 10713,
+      "trigger_episode_id": null,
+      "title": "Seven Years of Bad Luck",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=713",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Look at this mirror, dear. There's a sizable stain on it."
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "It's broken.",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Yes, it is. Maybe its owner meant to break it so that the stain would be thoroughly removed."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Now the stain is gone, and the owner has a collection of little mirrors. She must have accidentally left this one behind."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Look closer, dear. You can no longer see the part that has broken off, but you can see where it once was. Right there, a sizable stain."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "The owner thought the stain would be removed if she smashed the mirror. Now she has a collection of little mirrors, and the stain has gone into hiding."
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "Whose mirror is this?",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "A lady with great ambitions and an unconscious charm. A lady who wishes to make the rest of the world accept who she is, and has suggested that many others join her way of thinking."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "Her brother, on the contrary, hopes to be taken in. In his attempt to act like everyone else, he lost an arm in a duel."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "If you ask me, dear, I'd say they're very alike. Equally lonely."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "The brother and sister are a mirror image of each other. She's often repulsed by the sight of him, unable to reconcile herself with all that he reminds her of."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "Now, the brother has found his missing arm, along with his long-lost dignity. The surgery that the sister had been hoping would be done on this world has finally started. But all of a sudden, she's terrified of the incisions."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "As I said, despite their differences in approach, the brother and sister are mirror images of one another."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "But now the mirror is broken. I hope she can make it through the seven years of bad luck. Poor thing. There's no way around it."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "I don't see any stains.",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100719",
+      "internal_title": "第七章7-13.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "The Wave of Art"
+        },
+        {
+          "kind": "title_card",
+          "text": "Military Station, 1914"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Soldier I",
+          "text": "F**k! When do they give us the order to attack?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Soldier I",
+          "text": "What's taking so long? The island is just across the bay. We have men, weapons, supplies, everything. Just give us order, and we will take to shore."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Soldier I",
+          "text": "Check out these bad boys. Anti-arcanum weapons, courtesy of the American from that \"Walden\" place."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Soldier I",
+          "text": "That creep just doesn't sit right with me. He's got that arcanist stink about him."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Soldier I",
+          "text": "But his technology's solid, and we needed it. We've got to get ahead of the Serbs and the Greeks!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "This army has been stationed here for a long time, perhaps too long."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The soldiers, stranded and demoralized by their failed landing, face days of uncertainty without orders while politicians bicker. They are left to heat their food meal by meal, watching their chances slip away."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Soldier II",
+          "text": "Relax, Georgiy. Leave the decisions to the big shots. I'm sure they'll just hug out their differences in the meeting room or something."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Soldier II",
+          "text": "Besides, you saw the monsters on that island. Can't speak for everyone here, but I don't want to die."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Soldier I",
+          "text": "Screw the negotiations, screw the committee! Like it or not, we were the first ones to find the island! Not the Austrians or the Germans!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He grumbles and picks the monocular back up, straining to catch another glimpse of the island across the waters."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The sea is tranquil, as it often is this time of year. The water sparkles under the golden sun, stretching to the horizon without an island in sight."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Soldier I",
+          "text": "Damn, those arcanists have gone into hiding again."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Soldier I",
+          "text": "I swear I could see it from here yesterday."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Soldier I",
+          "text": "Hm?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He blinks, unsure if his eyes are tricking him."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Soldier I",
+          "text": "Are those bird-like creatures leaving in droves?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "His words barely catch anyone's attention. A new poker game is underway on the supply crate."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A radio, a couple of beers, and a game of poker—a rare moment of enjoyment. Who could ask for more?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Soldier II",
+          "text": "Georgiy, brother, leave them be. Come, play with us."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Soldier II",
+          "text": "Georgiy?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The soldier does not seem to hear his name."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He grips the monocular tightly, his mouth contorting as he mutters."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Soldier I",
+          "text": "What a good opportunity this is. It's too good to pass up. We, we've got to act now."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A drop of vibrant paint slides down his cheek and lands on the ground with a splatter."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Soldier I",
+          "text": "We will claim what is ours. This island belongs to us. It's in our territory, and we were the first to find it—why shouldn't it be ours!?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The card players pause, gawking at the paint sliding down each other's faces, unaware that their own faces are melting as well."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "In the silence, the only sound that fills the air is the static of the radio."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Broadcast",
+          "text": "The Austro-Hungarian Empire has officially declared war on Serbia."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Broadcast",
+          "text": "Russia is mobilizing in support of Serbia. Germany demands Russia to stop mobilizing at once."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Broadcast",
+          "text": "Germany is mobilizing. France is mobilizing."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Kakania",
+          "text": "*panting*"
+        },
+        {
+          "kind": "title_card",
+          "text": "Ring Road"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The street has turned into a canvas of mesmerizing hues. The colorful paints swirl and burst, creating one spiral after another."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "It's almost like the stage set of a twisted carnival."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Kakania",
+          "text": "Father, Mother! Elbert! Ilse!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Kakania",
+          "text": "Open the door! It's important! You have to listen to me!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She pounds on the door, but as soon as she makes contact, the door softens and melts like butter."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She trips through the door, but quickly recoils at the horror inside."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The art and specimens, once delicate and exquisite, now resemble a jumble of spilled paint."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Kakania",
+          "text": "No, no. This can't be."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Kakania",
+          "text": "Elbert?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Still with a glimmer of hope, she carefully calls out to her brother."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Elbert",
+          "text": "Klara? It's odd to see you so flustered. What's the matter?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The familiar voice brings immense relief to her heart."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Elbert",
+          "text": "I'm headed to the business school. We'll talk when I get back."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Elbert picks up the hat and adjusts the brim. The pin on the hat, \"Vingler's Shop,\" shimmers in the dim light."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Thank goodness, he seems to be fine."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He's still the reliable brother she remembers, the family's pride, in his sharp three-piece suit."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Kakania",
+          "text": "Business school?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Kakania",
+          "text": "But, didn't you swear to never go back? Ever since your human classmate shot your arm in a duel."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Kakania",
+          "text": "Wait, what happened to your arm?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He turns around, and Kakania can finally see."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Half of his suit is covered in colors, paint trailing down his face and pooling at his feet."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "An arm of flowing colors is attached to his body, like a mismatched puzzle piece."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Elbert",
+          "text": "Oh, Ethan. Yes, he wounded me. He had to prove his standing to the brotherhood. There was no other way."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Elbert",
+          "text": "But that's in the past. He gave me his arm, so now we're even."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He raises his left hand to show her the blade. Streaks of blood are still on it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He casually tosses it aside, letting it clatter into the darkness and disappear into the swirls of colors."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Elbert grabs his walking stick, his new arm dangling lifelessly at his side."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Elbert",
+          "text": "I have to go. I have to find Johnson, Raymond, and Herbert. That little rascal pushed Ilse into the fountain. We have a score to settle."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Elbert",
+          "text": "Take care, Klara."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He strides past her and hails a carriage with triangles for wheels at the door."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Kakania",
+          "text": "No, Elbert! Don't go!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She runs to stop the carriage, but it is unaffected by her efforts, like everything else in this place."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A set of footsteps approach from behind."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marcus",
+          "text": "The Storm Syndrome is spreading, doctor! Stay any longer, you'll be infected, too!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marcus",
+          "text": "Please, leave with me. Oh!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The trembling ground interrupts her."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A mob with distorted faces swarms through the streets, chanting slogans and singing in their own tongues."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "White pro-war pamphlets litter the ground, like snowflakes being absorbed into a mire of effervescent paints."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The city is bursting with unrelenting energy, like a speeding chariot or a twirling powder keg."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Kakania",
+          "text": "The sign bearer in the parade ... Is that Aurora?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Kakania",
+          "text": "I just met her at the coffee house last week. We were talking about her wedding."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marcus",
+          "text": "Watch out, doctor!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A sign crashes to the ground beside them."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Rage-filled citizens are tearing the streets apart. Even the handles of roadside benches are yanked off and made a weapon."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The fervent protest consumes all who come across it, forcing them to participate with no option to decline."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marcus",
+          "text": "This is bad. They have lost their minds!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marcus",
+          "text": "This way, doctor. We have to get out of here!"
+        }
+      ]
+    },
+    {
+      "script_id": "100720",
+      "internal_title": "第七章7-13.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "Marcus",
+          "text": "This way, doctor! We have to go back to your clinic. The special operations squad will meet us there."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The young investigator holds the doctor's hand, determined to do her duty."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "But the doctor halts her steps and droops her head, looking dejected."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Kakania",
+          "text": "Marcus. You once said that there was another way to make things right."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Kakania",
+          "text": "And then you did your part, as I did mine."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Kakania",
+          "text": "But now, after all that's happened, please tell me, what's the point of us trying?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Kakania",
+          "text": "Will we save them in time? Is there any chance that we can turn things around?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She struggles to hold back a sob."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The roaring crowd fades into the distance, and the Ring Road of yesterday is now but a distant memory, never to be relived."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Kakania",
+          "text": "The ritual you acquired, the one you said could save everyone, is it working now?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "Let me in."
+        },
+        {
+          "kind": "title_card",
+          "text": "Laplace Hallway"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The floor in Laplace's corridor has lost its clean, silvery sheen."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Dawkins and his slobbering mud certainly played a major role in the destruction. The guards used every cleaning orb in their inventory to restore even a hint of its original glory."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A pair of angry feet stomp across the floor, ignoring their colleague's attempts to stop them. Enigma adds more muddy footprints without hesitation."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "I have just one question."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "Why hasn't the project stopped yet?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "His outcry elicits a reaction."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The door to the director's office flings open, and an angry figure storms out."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Cryptography Lead",
+          "text": "Adler Hofmann, you have been removed from the team. You're not authorized to be here!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Cryptography Lead",
+          "text": "You have violated ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "The LSCC Safety Management Regulations? I brought them with me. You're welcome."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He throws the hefty manual right onto his former leader's face."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "If you cared about the regulations as much as you claim, you'd know that none of what's happening aligns with its guidelines."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "Even the head of Laplace has no authority to continue the experiment under these circumstances!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Before he can continue, his ex-leader sharply cuts him off."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Cryptography Lead",
+          "text": "Get out of my face, Adler. I don't have time for this. We're in a state of war!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Cryptography Lead",
+          "text": "Every participant has signed an informed consent form. If you are not part of this project, please leave immediately!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Cryptography Lead",
+          "text": "We only have 18 hours until the \"Storm.\" This is it—the first time we've made such a breakthrough in all nine \"Storms\"!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Cryptography Lead",
+          "text": "Your sister gave up her life to take us this far. I hope you don't need me to remind you that!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Adler Hofmann is abruptly silent."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A fiery rage ignites in his hazel eyes."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A deafening void engulfs the space as Ulrich realizes his verbal blunder."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "Yes. She made the ultimate sacrifice, hoping that it would lead to a breakthrough. But instead, death continues to rise."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "How can you let this go on?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He charges ahead, shoving Ulrich aside with his elbow."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Ulrich's head slams against the wall, ferrofluids shifting erratically inside."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "I demand to know why the experiment is still going!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He starts working on the padlock on the door. Nothing's going to stop him from breaking through today."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The alarm goes off. Ulrich struggles to his feet against the wall, a hand up to his head."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Cryptography Lead",
+          "text": "Ugh, don't we have enough crazies around here?!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Cryptography Lead",
+          "text": "Madam Lucy has important things to do. She has no time for you! Go cry to your therapist, human!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "Important? What could be possibly more important than this, right now?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "What happened to the humanitarian ideals of the Foundation? Are we now under the tyranny of machines?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "What's this important thing she's got to do? Reading the paper, sipping on oil, and charging up in a 230-volt bath?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He cracks the code. Pushing Ulrich's arms aside, Enigma forces his way into the room."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The room is completely dark."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Tchk-tchk-tchk."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A piston spins at his feet."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lucy",
+          "text": "Is that you, Adler?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lucy",
+          "text": "Welcome."
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

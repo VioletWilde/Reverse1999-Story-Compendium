@@ -1,0 +1,22 @@
+# Event Stories · Route 77: The Haunted Highway
+
+- [2110101 A Trail of Footprints](2110101-A Trail of Footprints.md) — Where they lead, no one knows.
+- [2110102 Fog Descends](2110102-Fog Descends.md) — This is not an ideal day for a drive, regardless of the vehicle.
+- [2110103 Baby Broadcaster](2110103-Baby Broadcaster.md) — The good news is we found a radio station. The bad news? The host hasn't learned to speak yet.
+- [2110104 Medal of Honor](2110104-Medal of Honor.md) — "It is from the giver that honor derives, not the receiver."
+- [2110105 A Sudden Message](2110105-A Sudden Message.md) — In most cases, code is not suitable for human communication.
+- [2110106 Glass Bottles](2110106-Glass Bottles.md) — Don't forget this handy weapon in a brawl.
+- [2110107 The Parchment](2110107-The Parchment.md) — A magical medium, upon which every sentence written speaks a profound truth.
+- [2110108 Face Reality](2110108-Face Reality.md) — Going through all those Miranda rights before an interrogation? Man, we ain't got time for that.
+- [2110109 Spider Silk](2110109-Spider Silk.md) — They depict everything without saying a word.
+- [2110110 It’s Spooky Time!](2110110-It’s Spooky Time!.md) — Unexpected surprises, or rather, scares.
+- [2110111 "Please Do Not Disturb"](2110111-Please Do Not Disturb.md) — Not the best time for a cleanup.
+- [2110112 The Girl and the Hound](2110112-The Girl and the Hound.md) — Eyes forward, Argus—don't look back.
+- [2110113 The Churning Stomach](2110113-The Churning Stomach.md) — Again, again, and again.
+- [2110114 May They Be Blessed](2110114-May They Be Blessed.md) — Whether child or lamb, they still deserve deliverance.
+- [2110115 The Front Desk Call](2110115-The Front Desk Call.md) — Dial the number, and service swiftly follows. A good motel should offer nothing less.
+- [2110116 Picrasma Candy](2110116-Picrasma Candy.md) — If anything, it pleases the palate.
+- [2110117 The Puddle on the Road](2110117-The Puddle on the Road.md) — The road ahead is long. Try not to let it soak your shoes.
+- [2110118 Sleepless Night](2110118-Sleepless Night.md) — No one wields greater power than she, for she is the mother.
+- [2110119 Gone in the Wind](2110119-Gone in the Wind.md) — The soil is moist and fertile in the south, where the song of the wind reaches far.
+- [2110120 Gone Are the Old Days](2110120-Gone Are the Old Days.md) — Poor child, thinking a pitiful cry would lead to a warm embrace.

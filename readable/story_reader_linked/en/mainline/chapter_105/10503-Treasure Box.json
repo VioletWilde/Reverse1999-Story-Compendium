@@ -1,0 +1,452 @@
+{
+  "episode_id": 10503,
+  "chapter_id": 105,
+  "chapter_title": "The Prisoner in The Cave",
+  "display_label": "",
+  "title": "Treasure Box",
+  "subtitle": "Among the dust and grass clippings lies a bright azure petal.",
+  "trails": [
+    {
+      "element_id": 1050301,
+      "owner_episode_id": 10503,
+      "trigger_episode_id": null,
+      "title": "Personal Notebook",
+      "description": "A notebook with elegant handwriting, accidentally left behind by someone.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=503",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "Ms. Moissan's Personal Notebook"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "October 9, 19██\nMs. Sotheby seems to have lost some weight. The Foundation's diet is perhaps a bit monotonous ...\n\n Nuts & Cheese Crisp / Raspberry Protein Crisp Pudding\n260g light cream, 45g sugar, 100g milk, 150g raspberry jam,\n3 eggs, 1 vanilla pod, 15g gelatin sheets\n\nOctober 16, 19██\nMission: Germany Branch\n▪  Arcane Materials Catalog \n▪  Inventory of Remaining Arcane Goods \n▪  Inventory of Remaining Arcane Equipment \n▪  List of Senior Technical Personnels \n\nContact: Ms. Mary Smith\nNew Identity: Nola Ward\n\nNovember 5, 19██\nArrived at the branch. Is the number wrong?\n\nThere were some problems getting on board. Ms. Smith is missing, and my name is not in their HQ contact book.\nThe letter of introduction allayed some of their suspicions, but I still need to wait for the contact to confirm my identity with HQ.\n\n[A letter clipped to the log book]\nMs. Moissan,\nThe list and reports have been received; thank you for your efforts. The number of missing persons is fifteen percent higher than we expected. I will report this and might need your assistance in investigating this matter with HQ.\nI noticed Martin Moore is not on the list sent back this time. He is a top talent in the Germany Branch's drug research project, and I'm afraid we will need you to travel to Bavaria to find out the situation.\nZ\nFrom Foundation HQ\n\nNovember 14, 19██\nThe German Branch can no longer provide aerial vehicles.\n\nNovember 19, 19██\nCeramic workshop. I was probably only a few years old when I moved away ... but I still remember this spruce tree.\n\nThey didn't recognize me."
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100503",
+      "internal_title": "第五章5-3.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "Treasure Box"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Hold on, hold on!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "It was a misunderstanding, Timekeeper. We attacked to defend ourselves. We are not the enemy!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The looming figures from the other side of the fog have their hands high in the air."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Female Investigator",
+          "text": "We are the investigators from the Foundation. These are our IDs."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Ms. Moissan carefully takes their IDs and nods her head."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "The base has been deserted long ago, right? What's the purpose of the investigation now?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Female Investigator",
+          "text": "The outside world has been reversed to 1913. We are here to collect the lost scientific devices from the 1970s."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Male Investigator",
+          "text": "Science and technologies are regressing rapidly due to the \"Storm.\" Those old devices, which used to be outdated, have become valuable to us."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Moissan",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "I see. Do you mind us investigating this place? It won't be long."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Female Investigator",
+          "text": "Sure, we are glad to give you a hand if you need it, Timekeeper."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Moissan",
+          "text": "Good. I have some questions about the base, and I wonder if you may help."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She quickly starts talking to the investigators, as if they have been long acquainted."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Regulus",
+          "text": "Tsk, so it's just a mistake. Back to treasure hunting now?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Regulus swaggers into the base, inspecting the dusty boxes one by one."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Regulus",
+          "text": "Let's see what Zeno and Laplace have left here."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Regulus",
+          "text": "Infrared shotgun ... Maglev auto feeder ... K-tope Calibrator ... My God, and a full box of Laplace's military chocolate!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Regulus",
+          "text": "Vertin! Come check it out! This is all good stuff! Solid MREs!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Regulus",
+          "text": "Ahem, this Pirate with a heart of gold wouldn't mind tasting it for you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "I don't mean to rain on your parade. But even dogs won't eat those things. It makes Olitiaus' excrement smell better in comparison."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "That being said, to the best of this APPLe's knowledge, canine animals shouldn't have consumed any food which contains theobromine anyhow."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Regulus",
+          "text": "Emm. Then can I have it or not?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "There is nothing to be worried about since the Captain is not an animal of the Canidae family."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Regulus",
+          "text": "Well said! As befits the first mate of mine!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Regulus happily lifts the small supply box that is placed on the chocolates."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Wait a second, Regulus."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Show me the thing in your arms."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Regulus",
+          "text": "Why, what do you want? Feel like my chocolate now?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "No, the supply box."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "It has my name on it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Regulus lets out a gasp, and the wooden box in her hand lurches forward."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Regulus",
+          "text": "Whoa, true!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Regulus",
+          "text": "Are there any other \"Vertin\" in the Foundation?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "As far as I know, no one is called by that name but me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Lilya squints her eyes and knocks at the solid edge of the box."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Looks like an ordinary wooden box. But these \"ordinary\" boxes are always the most dangerous."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Not far away from them, Ms. Moissan is still talking to the investigators and hasn't noticed what is happening here."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Regulus",
+          "text": "Hmm. So, turns out we did find something useful in this treasure hunt?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Regulus",
+          "text": "It even has Vertin's name on it, like a celebrity autograph. A treasure indeed!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Regulus, wait, don't …"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Regulus",
+          "text": "No one can stop a pirate from opening her fresh trophy!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Regulus immediately opens the box."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her first glimpse is of a blue flower that stands out in the surroundings."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Then, she hears a bizarre static noise."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "News of the day."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "The outcasts held the 11,231st pep rally in the Mammoth Cave, Kentucky. They eventually unanimously passed the principle of \"dozing in spring, relaxing in summer, slacking off in autumn, and hibernating in winter.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Practical Modern Incantations has now been reissued for the 77th time. We are now at the end of the 20th century. This book still remains the number one book on the list of \"Most Regretful Purchase on Classic Score\" by The New Yorker."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Biographer Urd has recently published her latest travel notes, Roaming in Apeiron, which has started a new round of craze for traveling in the Aegean Sea region."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "The chief editor of Voice of the Millennium strongly recommends this book, praising it to be the literary reproduction of the romantic, elegant, and classical dreams, a glimpse at the Golden Era!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Among them, criticisms abound. The Babylonian Review issued a warning that the author's observation of the Apollo Star was fatally inaccurate."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Self-driving tourists can easily get lost in the Gorgon Current backwash if they do not correct their direction by 3.14° on the Ford Sextant Model T."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Time for late-night news ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "What ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "End of the 20th century ... Voice of the Millennium ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Is this radio broadcasting news in 1999?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "*crash sound*"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The ritual from afar interrupts the broadcast."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Moissan",
+          "text": "Just as I suspected."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She puts away her usual smile, the glowing light of a spell gathering at her fingertips."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Moissan",
+          "text": "Since Timekeeper hasn't reported the time of this era to the Foundation ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Moissan",
+          "text": "You two, as the Foundation's investigators, shouldn't have known what year this is."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "In front of her, the fog parts, revealing two familiar figures."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Manus Believer",
+          "text": "BLEEHHAA!!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Moissan",
+          "text": "In such pouring rain, time is the best proof of identity."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Hah, I get it. Not a bad plot."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Ms. Moissan, watch your six! Let us help you!"
+        }
+      ]
+    },
+    {
+      "script_id": "100504",
+      "internal_title": "第五章5-3.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "The Manus Believer",
+          "text": "BLEEHHAA!!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "When the fog is cleared, the enemies are gone."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "There's nothing else to be seen in the valley except for the supply boxes scattered on the ground."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Regulus",
+          "text": "Tsk, didn't expect them to be clever enough to disguise themselves as the Foundation's investigators. They sure have learnt a thing or two."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "The \"era\" of 1929 only lasted for two days. The frequent change of time muddles work and responsibilities in the Foundation, which in turn caused some chaos within it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Luckily, Ms. Moissan noticed the signs of it at the beginning."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Moissan",
+          "text": "Timekeeper, please take a look at this box."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Moissan",
+          "text": "I'm afraid this is what they came here for."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Ms. Moissan turns aside, revealing the newly opened supply box in front of her."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Unlike the long-abandoned Laplace instruments, it is not yet soaked by the rain and mist here."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "This is ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "The Manus mask they used to stay immune to the \"Storm\"?!"
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

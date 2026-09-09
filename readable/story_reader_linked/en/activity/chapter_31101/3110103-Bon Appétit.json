@@ -1,0 +1,807 @@
+{
+  "episode_id": 3110103,
+  "chapter_id": 31101,
+  "chapter_title": "The Midnight Whistle",
+  "display_label": "",
+  "title": "Bon Appétit",
+  "subtitle": "You must have patience, madam.",
+  "trails": [
+    {
+      "element_id": 3110103,
+      "owner_episode_id": 3110103,
+      "trigger_episode_id": null,
+      "title": "Whose Nightmare?",
+      "description": "They're not only sealed in archives.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=3110103",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "Excerpt from the Vampire Beyond Entity File"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "File No.: XXX-1912-B (The Beyond - Vampire)\n\nClearance Level: Top Secret\n\nThe vampire is an extremely rare Beyond being bearing a strong resemblance to humans, yet with several defining traits: its skin is notably pale, its irises typically crimson—varying in depth with its tolerance for blood intake. Anatomical studies confirm that blood functions as one of its key energy sources. Vampires exhibit a compulsive craving for blood, particularly that of highly active animals.\n\nKey Traits:\n\n1. Bloodthirst\n\nA vampire's obsession with blood often triggers bouts of extreme aggression and heightened tracking ability (showing acute sensitivity to the scent of blood). However, certain reports suggest blood is not their sole means of sustenance. A rare few can resist Bloodthirst altogether or survive on alternative food sources without dependence on blood.\n\n2. Photophobia\n\nVampires exhibit a marked physiological aversion to sunlight. Prolonged exposure to strong daylight causes irreversible tissue damage. These entities cast no visible shadows or reflections—whether upon water, glass, mirrors, or polished metal surfaces.\n\n3. Vulnerabilities\n\nOrdinary physical attacks are largely ineffective. Only bullets forged from metals refined through specific alchemical techniques (most notably pure silver) can inflict permanent injury upon them.\n\n4. Vampire Infected\n\nWhen a vampire bites or exchanges bodily fluids with an individual possessing innate arcanum affinity, there is a high probability of \"conversion.\"\nThe infected undergo █–█ hours of violent physiological and psychological mutation, with a 93% mortality rate and over 96% incidence of mental instability among survivors. Those who endure the process ultimately become \"the Infected,\" gradually gaining the creature's biological traits and mastering its arcane skills.\n\nNote: Intelligence suggests \"Manus Vindictae\" is conducting ongoing experiments to convert ordinary humans directly into vampires. The success rate and stability of such transformations remain unknown.\n\nDisclaimer\n\nBoth vampires and their infected derivatives are officially classified by the Foundation as \"the Beyond,\" distinct from both humans and arcanists.\n\nLast Updated: November 15, 1912"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "203104",
+      "internal_title": "【3.1】长夜鸣笛03",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Dinner arrives, and the tension eases. They hunch over their trays to eat, drink, and chatter, laughter rising and falling."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Of course, there are a few \"incidents.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonya",
+          "text": "You call this beef stew?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Aima",
+          "text": "I truly am sorry, madam. I'm afraid the war has limited our ability to procure supplies up to our usual standards. It may taste slightly different from our usual fare."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonya",
+          "text": "\"Slightly different\"? This is boiled cowhide in a thin gruel!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She slams her knife and fork down in anger."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonya",
+          "text": "It's always \"war this\" and \"war that\" with you people. Excuses piled on excuses!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonya",
+          "text": "I paid my fare, the same as usual; I deserve the service I've come to expect."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Hatted Gentleman",
+          "text": "Wouldn't you say that's a touch harsh, ma'am?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Hatted Gentleman",
+          "text": "There's people out there gettin' shelled to kingdom come beggin' for any scraps they can get."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonya",
+          "text": "Hah! Isn't this what you Brits do—stick your noses into a lady's business and levy pointless accusations? Don't you have something better to do with your miserable little life?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonya",
+          "text": "Perhaps you ought to try feeling the sun on your skin, or, I don't know, cooking a meal that doesn't taste like wet socks?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arbuthnot",
+          "text": "Oh, that's rich, you—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The gentleman flushes red and rises. A stifled giggle sounds behind him."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A woman sits behind them, scribbling purposefully as they speak."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arbuthnot",
+          "text": "What're you doin', ma'am?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Me? Just recording what I see."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The editor closes her notebook with grace."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "\"Train Clash: Beef Stew Sparks National Conflict! Lady Accuses British Gent of Abominable Cooking\" ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Or perhaps, \"Battle at the Dinner Table: One Woman's Rage over Beef Stew.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Don't let me stop you. This is all excellent material."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonya",
+          "text": "Hmph. Journalists ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Verity",
+          "text": "That I am. Though, I'm primarily an editor. But I write reports whenever a good one comes along. Call me Verity."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Verity",
+          "text": "If you have any interesting material, especially about arcanists, please contact me. I will pay accordingly."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arbuthnot & Sonya",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The pair falter, unable to reply, and return to their dinner. The quarrel, now soothed, leaves the stewardess effusively grateful."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Aima",
+          "text": "Thank you ever so much, madam."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Verity",
+          "text": "Don't you worry, poor thing."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The editor props her head in one hand, turning to watch a passenger feasting in the corner."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Verity",
+          "text": "At least someone's enjoying the meal."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "*munching* I haven't had food like this in *gulp* forever!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The sight of food, real food, melts away the girl's anxieties."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The speed and ferocity with which she eats is startling, yet the investigator spies a curious inconsistency—good table manners."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "Thank you, ma'am!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "It's Semmelweis."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "Has anyone ever told you that your eye color is very unique?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "Yeah? Uh, thanks."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Rubuska lifts her head, eyes shadowed by her brim—unusual eyes."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "You were saying that this train isn't as safe as it looks."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "Why'd you say that, exactly?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She presses her hat lower."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "People rarely match their deeds to their words. They may say one thing, but I've found their true motives to often be much darker."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "Anyone could be a danger. The passengers, the conductress, or even ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "You."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her tone is not forceful, falling short of accusation, still Rubuska cannot help but make her case."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "Ms. Semmelweis, all I am is a hungry kid looking for food. Look at me, how could I be a threat to anyone?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "You did take that woman's train ticket, yes?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her voice is gentle, but her words piercing."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "I ... Well, yeah, I took it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "But, I hadn't eaten anything for four days. I needed to do something to survive."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "I didn't mean to do her any harm. I figured maybe they'd let her on anyway, and then we'd both get on, and there'd be no trouble."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The girl flushes red. Semmelweis holds her stare, as if already knowing the truth and waiting for a confession."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "At last, she allows a smile to slip from her face."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "No one can blame you for trying to survive in these conditions. At the very least, you weren't the cause of any harm."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "But there is one thing I'm curious about. How did you reach that ticket earlier? It was your arcane skill, wasn't it?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her silence is the answer. Realizing her slip, she stiffly changes the subject."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "\"People rarely match their deeds to their words,\" then, what about you? What are you doing here?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "I'm here to investigate this \"duplicity.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She sidesteps the question, producing a folder from her briefcase."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "But our arrangement was for you to answer the questions."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She draws out a white slip of paper."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "Have you seen this pattern before?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "Hmm."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "Yeah ... Yeah, I've seen it. Maybe in a market? Uh, or, on a wall somewhere."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "I might be able to search my memory more carefully, that is, if you let me go later."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The girl eyes the symbol again, as if thinking hard. But the facade drops."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "You're quite clever. Unfortunately, your acting skills could use a little work, which means I already have my answer."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "You're not one of them."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "*sigh*"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She frowns bluntly."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "One last question. How familiar are you with vampiric legends?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "It's often said that their eyes have a peculiar quality, just like ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She meets the girl's crimson eyes, catching a flicker of panic."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "I-I have no idea what you're talking about."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "Excuse me, madam. A moment of your time."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A voice cuts the tension. At the far end of the carriage, the conductress raises a hand, beckoning the investigator."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "Stay put. I'll be back soon. Do exactly as a good little assistant would do, understood?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "Vampires aren't the only dangerous things that may lurk on this train."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "Sure thing, boss—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "After warning her \"assistant,\" the investigator rises and makes her way toward the conductress."
+        },
+        {
+          "kind": "title_card",
+          "text": "Conductress's Cabin"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "That girl is not your assistant."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "Save your explanation. I doubt you've known each other for more than half an hour."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The conductress leans against the wall in what must, for her, be a supremely exaggerated gesture."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "I wouldn't have expected you to probe into matters of passenger privacy. I believe we should abide by certain basic humanitarian principles, even during wartime. Wouldn't you agree, Conductress?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "If you were an ordinary passenger, as you claim, I wouldn't have \"probed.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "But you are from that \"Foundation,\" correct?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her gaze falls on the badge at the investigator's chest."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "That badge with the black-and-white print. Wherever the Foundation shows up, trouble follows."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "No need to be nervous, ma'am. I'm just on my way to Vienna for a little holiday."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "Aboard an express train bound to pass through a war zone—you must take your vacations very seriously."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The investigator sighs and pulls out her Foundation ID."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "St. Pavlov Foundation. I'm sure you'll find my identification is in order."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "St. Pavlov Foundation ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "Investigator Semmelweis."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The conductress returns the card without a change in tone."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "I see. Is there anything that I might do for you, Investigator?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "We've received intelligence that there may be a dangerous vampire on this train. I could use your help in the investigation."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She cuts straight to the point, stating her mission boldly and without restraint."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "A vampire."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A grim shadow passes over the conductress's face."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "You're chasing fairy stories. If you ask around, all you'll get is a hundred different stories; none of them real."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "I can't help you chase a myth."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She returns to the sofa, picking up a pair of knitting needles."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "Please have a seat, Investigator. I hope my handicraft doesn't bother you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "W-What are you working on?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "A scarf for Aima."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Semmelweis steadies herself, forcing her eyes away from the flickering needles."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "I've been tasked with verifying the authenticity of this intelligence. However, your attitude ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A thought flashes through her mind."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "You mentioned that you've seen this badge and pattern before. Was it someone you met recently?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "I have worked on the \"Danube Dawn\" for many years, Investigator. I have seen everything except a vampire."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The conductress lifts her eyes from the tight stitches to meet hers."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "I see."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "Then let's presume you're telling the truth. It's understandable that it would be difficult to imagine something you've never seen."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The investigator leans forward."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "According to our intel, vampires are extremely dangerous creatures. Once bitten, death is a near certainty, regardless of whether the victim is human or arcanist."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "Those few who survive become what is known as \"Infected.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "They're like a bomb with a broken fuse, no predicting when they'll go off."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "Therein lies our problem, Conductress. We believe one such vampire is hiding somewhere on this train."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "There's no need to exaggerate the threat this may pose to your passengers. You aren't going to turn a blind eye now, are you?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Aima",
+          "text": "Conductress, the station staff said they want to confirm something in person with—Huh?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "The two women sit facing one another, their expressions cold and serious."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Aima",
+          "text": "Oh, am I interrupting something important? My apologies, I'll just ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "Wait. I'll go with you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The conductress sets the scarf on the sofa's edge."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "Excuse me for a moment, Investigator."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "It's an administrative process for the passenger who fell on the tracks."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "\"Administrative process.\" She stresses the words."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "Let's go. Best not to keep them waiting."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She leaves through the open door, her stewardess trailing behind like a lost duckling."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Semmelweis watches the guards on the platform, studying the movement of their lips."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Platform Guard",
+          "text": "Our supervisors need an answer."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Platform Guard",
+          "text": "The train can't depart unless ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "Are they trying to blackmail her? I suppose it isn't unheard of in times of war."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "A long stop could prove helpful to my investigation."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Unexpectedly, the conductress does not resist the guards' demands. Instead, she produces a badge."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Platform Guard",
+          "text": "Oh, so you're one of us, hahahahaha."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The standoff ends. A faint smile creeps over Corvus's face."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "Could the railway be working with the army? No, then this conversation wouldn't be happening."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "Is she handing him a badge?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Then, as if sensing her eyes, the conductress suddenly turns to the window."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her smile collapses in an instant."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "Perceptive, aren't you?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She leans back, watching as the conductress and stewardess disappear from view."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "On the steps of the train, the conductress halts and waves her hand briskly."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "Alert the station to begin sanding the tracks. We're departing soon."
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

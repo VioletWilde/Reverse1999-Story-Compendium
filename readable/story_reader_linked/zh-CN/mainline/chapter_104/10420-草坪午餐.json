@@ -1,0 +1,831 @@
+{
+  "episode_id": 10420,
+  "chapter_id": 104,
+  "chapter_title": "老虎的金黄",
+  "display_label": "",
+  "title": "草坪午餐",
+  "subtitle": "火腿，列巴，饮料，我想它们的滋味远比成群魔精来得更好。",
+  "trails": [
+    {
+      "element_id": 1042001,
+      "owner_episode_id": 10420,
+      "trigger_episode_id": null,
+      "title": "小径① 聚光灯之外",
+      "description": "",
+      "action": "残篇阅读",
+      "unlock_condition": "EpisodeFinish=420",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "故事发展到了新局面。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "它很动人，充满了矢志不渝的忠诚，绝境得生的希望，甚至还掺杂了一点儿——一点儿离经叛道的刺激性！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "抬起头，我们的脑袋顶上已经被这盏辉煌闪耀的舞台灯照得发烫，像是炉子上的煎锅。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "我们的嘴里嘀咕着，嘀咕着、嘀咕着——嘀咕着神秘学家，嘀咕着新改变，嘀咕着坚守，嘀咕着“暴雨”。哦，没错，就是“暴雨”！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "“暴雨”在我们这儿早就不是新闻了，这故事里的人人嘴上都挂着这个词儿，人们早不觉得新鲜。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "一旦你把镜头转到聚光灯之外，就会发现舞台上站着许多人。许多许多**的人。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "他们是谁？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "另一些演员。和你们不一样的演员。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "他们的名字不会出现在演职员名单中，甚至连一个可怜的“圣洛夫基金会小队长A”都捞不到。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "他们从哪儿来？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "好问题。每个人都需要一个来处。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "那我也一样简单地回答你，充满了好奇心的家伙——他们从自己妈妈的肚子里来，你能理解吗？会不会太难了？"
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "这是一群人。一群和你们一样的人。但这中仍有差距。打开他们的腹部，肝、胃、脾、肺、心一样不缺。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "他们的面目很清晰，仔细瞧瞧——仔细瞧瞧。哦，其中那么一两个你也曾经见过。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "他们与你来自同一个组织，光辉熠熠的圣洛夫基金会。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "法兰西分部的伊娃，埃及分部的拉，俄罗斯分部的套娃。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "对了，你最早认得的分部朋友，那个——那个年轻的红鼻子家伙，那个来自苏格兰分部的肯——但你左瞧，右看，你没有见到他。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "他去哪儿了？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "好问题，我会带你找到他的。"
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "让我们继续四处张望，放弃左右，瞧瞧头上——对，往上瞧！别怕那盏刺眼的舞台灯，尽管朝着要瞎了眼的方式去看！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "你瞧见了。那是一把白色的伞，比你见过的任何伞都要大，都要宽阔。而你的眼珠前刺痛的绿色光斑是你为此付出的代价。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "这把白色的伞遮挡了许多雨水，为你留下了那橘红头发白衣裳的小姑娘。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "而“暴雨”倾盆而泄的地方，那些没有遮蔽的地方，你也亲眼见证过人们如何消逝。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "就像你的小朋友们，也像是苏格兰分部的肯。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "还记得我说过的差距吗？"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "……",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "这是个陷入沉默的好时机。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "你丰富的心理创伤与凄惨的过去将在此刻充沛地爆发，让每个人感到心脏抽痛。"
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "但，再想想看。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "如果人人都能知道真相，知道今天是虚假的，明天不复存在，而我马上就会吃下我的鞋子，小行星即将坠落——他们都会发疯的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "那些理智至上的“白鸽”当然不希望看到那种事情发生。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "所以他们做出了最理智的抉择。这把巨大的白伞，始终都只笼罩着它所认定的人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "现在，让我们揣起手来，高高在上地点评一句“真是残忍的暴行”，再开始思考。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "这艘方舟应该把他们都带上吗？方舟能做到吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "你要尽可能平静而迟缓地提出这个问题，那些群情激奋的家伙便会像是被泼了冷水的热锅一样发出一声“嗤——”的漏气声后安静下来。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "……他们的感受呢？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "他们的感受。哦——他们！你是指伊娃、拉和套娃！当然了，你关心你的朋友，我不会忘记你美好的品德。"
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "当你想明白他们的时候，得先躬下身子，然后伸手——对，伸手去摸摸那舞台下阴暗的角落。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "直到你的手指被阻隔，你会从皮肤尖端感到一阵体贴而柔软的包裹。黑色天鹅绒，美好得像是婴儿摇篮里母亲的歌声。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "这便是那些头顶空空之人现在所感受到的。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "……",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "又一次沉默。你总是擅长选择沉默的时机。就像是我和我的朋友擅长在电梯间里悄无声息地放屁。"
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "我虚伪又愚笨的朋友——换个角度想想吧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "我们都不知道这下头有多少垃圾，也许那些腐坏的饼与奶制品正在渗出汤汁，而无数油光锃亮、须长尾巴全的美洲大蠊在上头爬行。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "瞧不见真相未尝不是一种幸运。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "尤其是在你无法离开这狗*地方的时候。"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100434",
+      "internal_title": "第四章4-20.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "草坪午餐"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "啊……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "烤羊腿……惠灵顿牛扒……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "土耳其烤肉……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "啊……好想吃肉……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "苏芙比",
+          "text": "嗯？你肚子饿了吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "苏芙比",
+          "text": "别担心，别担心。我们在箱子里种的土豆的茎叶已经变黄了哦！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "苏芙比",
+          "text": "槲寄生小姐说，这个时候就可以准备采收土豆啦～！我们挖出来给大家做牧羊人派吧！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "土豆？蔬菜？……不，我已经不想再吃这些东西了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "我已经吃了一个月的健康沙拉了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "我想吃肉……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "我想吃饱满，多汁，肉感厚实，筋肉弹脆的肉——！！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "星锑突然一蹦而起。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "等等！……好香，我闻到了好香的肉味！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "这是从哪里飘过来的味道？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "苏芙比",
+          "text": "唔……好像是有一股香喷喷的味道……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "苏芙比踮起脚尖，试图寻找香气的来源。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "我去找找看！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "星锑揉揉肚子，背上她的背包就向外冲去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "苏芙比",
+          "text": "等一下，星锑！那个方向住着好多魔精呀……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "魔精？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "哈哈哈，别担心！魔精也是一种肉！\n用火烤一烤，美味不得了！☆"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "啊，好香……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "是在这边——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "星锑的声音越来越远。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "苏芙比",
+          "text": "唔，这可怎么办……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "苏芙比",
+          "text": "父亲说过，有一些魔精吃下去会出现幻觉和拉肚子的……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "苏芙比小姐，发生什么事了吗？为什么一个人在这里兜圈呢？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "苹果飘浮在空中，四下看了看。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "船长怎么不在这里？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "苏芙比",
+          "text": "呀，太好了，你们来了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "苏芙比",
+          "text": "星锑说她闻到了一股肉香……所以跑去森林里抓魔精了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "……真糟糕。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "太久没有喝到胡椒博士，船长终于开始犯糊涂了吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "我们赶紧跟过去看看。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "食物的气味不同寻常，那里草木丛生，很可能潜藏着其他的危机。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "树林阴翳中逐渐看到了星锑的身影。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "那股食物的香气也越来越浓。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "苏芙比",
+          "text": "奇怪，这个味道到底是从哪里来的呀？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "星锑似乎也在寻找香味的来源。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她低下头，在草丛里翻找。草丛猛地抖动了一下，扑出了一只黑色的东西。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "哇啊——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "苏芙比",
+          "text": "呀！是卡邦克鲁！星锑，这种不能吃！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "接着又扑出了一只。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一只，接着一只。直到星锑的怀里抱满了愤怒的卡邦克鲁。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "那是卡邦克鲁的巢穴。它们被惊动了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "呜哇……魔精大丰收……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "你们快来帮帮忙！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "船长，撑住！我们来了！"
+        }
+      ]
+    },
+    {
+      "script_id": "100435",
+      "internal_title": "第四章4-20.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "呜呜……这些，真的都不能吃吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "我明明闻到了喷香扑鼻的肉味……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "就在这附近，就在——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "喔，嗨。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "哇啊啊啊——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "你是谁？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "被拨开的树丛里站出一个强壮的身影。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "红弩箭？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "你怎么会在这里……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "红弩箭将肩上的背包往地上一扔——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一块包在锡纸中的烤羊腿掉了出来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "我给你们带了点好东西。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "烤猪肘、农式香肠、黑森林火腿、不知名的饮料，还有列巴，列巴和列巴。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "哇——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "星锑一个猛掏，将烤羊腿塞进口中。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "啊！羊腿！好香……好香！我都快不认识油脂该有的味道了呜呜呜……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "嚼嚼……感谢伟大的摇滚之神的保佑！本海盗终于有肉吃了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "哈？你最应该感谢的是我，即将给你们带来自由的胜利女神。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "即将给我们带来自由？请问这句话……要如何理解？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "呵呵。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "红弩箭一屁股坐在了地上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她拧开一瓶饮料，直往嘴里灌。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "不打算来点么？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "槲寄生接了过来，尝了一口。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "红弩箭，非常感谢你愿意只身前来，为我们提供物资支援……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "但请告诉我们，你为何会来到此处。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "——是Z女士派你过来的么？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "红弩箭摇摇头，伸出四个手指。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "四周半，是这个时间对吧？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "我不是第一次来这里看望你们了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "上次躲在黑影里的人……是你？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "我很好奇你们到底能为维尔汀坚持多久。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "要知道，喊口号和上战场是完全的两码事儿。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "我见过太多的逃兵了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "哭爹喊娘，吓尿裤子，乱啃兔脚……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "但你们不一样。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "你们竟然真的做到了。攻占阵地，守卫战线，向白袍子施压，一直到今天，一直到四周半的最后一天。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "这是老子欣赏的钢铁精神。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "如果我今天不来，你们明天不会打算去吃靴子吧？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "当然不，我们还有土豆，都快收获了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "苏芙比",
+          "text": "还有胡萝卜！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "哈哈哈哈哈——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "承蒙你的关照，红弩箭小姐。我是否可以理解为，你是来为我们带来好消息的呢？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "是Z女士的法案出结果了么？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "据我所知，Z女士到现在仍然没有放弃。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "她跟你们一样，认真起来，就像一头凶猛的鹿。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "但我已经没耐心等下去了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "就算法案能在基金会通过，从确立到落地还有一堆繁琐的破流程要走。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "只要维尔汀还在病房里，你们就仍然是座漂泊的孤岛。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "任何人都有权利过来踩上一脚。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "红弩箭站起身来，随意地朝屁股上拍了拍。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "维尔汀那家伙，送我伏特加时说了一句……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "“必要时刻，帮我照看她们。”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "是时候兑现我的诺言了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "你要做什么危险的事情吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "要做一件值得冒风险的事情。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "我期待这一刻很久了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "有些人的梦，也该醒了。"
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

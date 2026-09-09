@@ -1,0 +1,813 @@
+{
+  "episode_id": 3810120,
+  "chapter_id": 38101,
+  "chapter_title": "世纪末尺度",
+  "display_label": "",
+  "title": "开始，完成",
+  "subtitle": "欢乐吧，朋友。我们的旅途到此结束。",
+  "trails": [
+    {
+      "element_id": 3810112,
+      "owner_episode_id": 3810120,
+      "trigger_episode_id": null,
+      "title": "搞点新玩意儿",
+      "description": "众所周知，先看使用说明，能够有效保护你的手指。",
+      "action": "交互",
+      "unlock_condition": "EpisodeFinish=3810120",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "水母拍拍使用说明书"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "产品名称：\n水母拍拍\n\n产品功能：\n① 实时监测局域环境中的能量状态，精准捕捉空间波动。\n② 当能量异常或危险信号出现时，自动触发警报并持续提醒。\n\n产品使用方法：\n① 将水母拍拍平稳放置于目标监测区域中央；\n② 为水母拍拍提供触手按摩服务直至感应电极板发出绿色荧光；\n③ 抚摸水母拍拍头顶约3秒，它将自动启动，并缓缓浮游至工作高度；\n④ 为水母拍拍用力鼓掌一次，它将自动展开球形监测领域，并逐步扩展监测范围；\n⑤ 再次为水母拍拍用力鼓掌一次，它将锁定当前球体空间大小，正式开始能量监测；\n⑥ 当环境能量稳定时，水母拍拍会保持低速自主巡航；若检测到异常波动，它会像人紧张时拍手那样，小触手不停地拍打着，并通过惊恐的尖叫声发出警报；\n⑦ 为水母拍拍倾情献唱摇篮曲，它将缓慢降落，自动保存监测数据后开始安睡。\n\n生产厂家：\n洛伦兹研究所\n\n温馨提示： \n请勿在大型神秘术式展开期间强行关闭设备。\n水母拍拍虽然专业，但胆子不大，受到惊吓后可能会进入持续警戒状态。"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 3810113,
+      "owner_episode_id": 3810120,
+      "trigger_episode_id": null,
+      "title": "雨前",
+      "description": "那是雨的气息，它渗入你的肌理，渗入你的内脏。你能做的事并不多。",
+      "action": "交互",
+      "unlock_condition": "EpisodeFinish=3810120",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "“活性电力系统”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "“如果血液变成电流，灵魂还会留在身体里吗？”\n\n最先变的是血管。它们不再柔软地跳动，只是笔直地、沉默地，沿着手腕向上生长——红、黄、蓝、绿、黑、白色的胶衣裹着细细的金属，缓慢地穿过皮肤，穿透血肉。\n\n面包店员最先发现异常。她不再碰热水，清晨的蒸汽升起来时，她的手臂会微微发亮，那些本该流淌血液的地方，正安静地缠绕、分叉，像一团被重新编织的线路。\n\n医院里的人越来越多。X光片挂满灯箱，白色的人体里没有器官，只有纵横交错的线，像一座城市地下庞大且沉默的供电系统。医生说，胸口的嗡鸣、脖颈的麻木、牙齿偶尔发光，都只是因为失眠。\n\n直到礼拜堂里也开始响起嗞啦作响的祈祷。主持者胸前的银饰在漏电，炸开细小的蓝色火花。有人跪着哭诉，有人闻见空气里烧焦的金属味。一位老妇人抬起头，轻声问出在心中盘桓已久的问题：\n\n“如果血液变成电流，灵魂还会留在身体里吗？”\n\n主持者没有回答。因为他的掌心，也露出了一截铜色。"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "203830",
+      "internal_title": "【3.8】世纪末尺度20.1",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "1996年7月15日\n施工团队组建、培训完毕，采购模板、钢筋、混凝土等关键材料。重启施工。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "蓝图",
+          "text": "还有一个最重要的规则——不准迟到。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "蓝图",
+          "text": "这里每天早上8点准时上工，迟到一分钟罚款。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "蓝图",
+          "text": "……绝不姑息。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "1996年9月20日\n穹顶框架搭建与模板安装工作完成，准备进入混凝土浇筑阶段。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "临时工人Ⅰ",
+          "text": "嗯？上面掉东西了……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "奠基石",
+          "text": "下面的——让开，快让开！！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "奠基石",
+          "text": "检查上方节点！所有人先撤离穹顶正下方！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "1996年9月22日\n分阶段浇筑混凝土。由于回声石的独特结构，我们选用了自流平混凝土，确保表面光滑平整。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "奠基石",
+          "text": "你们看——当混凝土流动的时候，它会顺着回声石的纹理走。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "奠基石",
+          "text": "不是覆盖，是融合……它们会在固化前，变成同一个整体。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "奠基石",
+          "text": "流速控制住了！再慢一点，让它们自行稳定下来……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "1996年11月1日\n混凝土固化后，拆除模板。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "工人们",
+          "text": "这面一起！一、二——三！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "工人们",
+          "text": "走——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "奠基石",
+          "text": "成功了！史诗级的壮举——我爱你们！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "清晨。\n灯光未灭，朝雾升起。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "回声谣坐在草坡上，半透明的身形几乎融进了城市。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "回声谣",
+          "text": "天还没亮的时候，我喜欢一个人悄悄走在城市里。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "回声谣",
+          "text": "当所有的声音都安静下来，我才能听见街道、房屋，还有地上的石砖……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "回声谣",
+          "text": "它们没有声音，但我却觉得它们好像在告诉我一些事情。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "那是一种属于寂静的语言。它赋予房屋和街道以灵魂、重量，以及最重要的——存在。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "又或者说，它们的存在本身，也是一种语言。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "回声谣",
+          "text": "就像小洪扎一样，总是陪着我。不管是以前，还是现在……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "回声谣",
+          "text": "也许，这就是我不想离开这座城市的原因吧——它有属于自己的声音。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小洪扎",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "手偶安静地趴在回声谣手上，好像已经睡着了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "回声谣",
+          "text": "听说穹顶今天就要落成了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "回声谣",
+          "text": "走吧……我们也该去看看新的东西。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "蓝图",
+          "text": "柏林以东小姐，你带回来的那些……神秘仪器安置好了吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "柏林以东",
+          "text": "当然。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她指向角落。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "柏林以东",
+          "text": "就在那儿，位置经过校准，不会被外界电磁噪声干扰。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "柏林以东",
+          "text": "洛伦兹研究所的神秘人向我保证，这套装置会持续监测局域环境能量密度的微小波动。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "柏林以东",
+          "text": "就算真的出了什么岔子，我们也能第一时间收到预警。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "蓝图",
+          "text": "明白了，那就交给它们吧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "蓝图",
+          "text": "希望今天的落成仪式能够圆满成功。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "中庭里并不嘈杂。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "几张临时拼起的木桌旁，零星站着几位工人。他们各自从桌上拿起已经打开的啤酒碰了碰，随后一饮而尽。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "有人靠着柱子抽烟，有人低声谈着接下来的活计。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "奠基石",
+          "text": "我还以为……今天会更热闹一些。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "亚肖",
+          "text": "活儿干到这一步，就该走了。有人去修铁路，有人去城外的工厂——毕竟家里还等着吃饭。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "亚肖",
+          "text": "不过他们留下了该留下的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "亚肖朝身后点点头。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "老妇人从角落走出，手里抱着一圈绿枝，上面缠着彩带。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "奥尔加",
+          "text": "这是大伙儿凑的。有人早上从河边折了松枝，有人回家翻出旧彩带，大家晚上坐在一起扎好了它。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "奠基石",
+          "text": "这是……花环？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "奥尔加",
+          "text": "是的。我们一直这么做……房子修到最高的时候，给它留下一点记号。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "奥尔加",
+          "text": "枝条是河边的松树，彩带不新了，但干净。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "奠基石",
+          "text": "很漂亮……谢谢你们。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "奥尔加",
+          "text": "房子会记得的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "奥尔加忽然低声说。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "奥尔加",
+          "text": "它知道，是谁把它盖到这一步的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "建筑师捧出最后一块小小的回声石。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "奠基石",
+          "text": "一块尚未复苏的回声石。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "奠基石",
+          "text": "虽说并不能起到庇护的作用……但总比穹顶漏风要来得好。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "回声谣",
+          "text": "我来吧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "回声谣走上前，把一大束常绿针叶树枝绑好，穿上彩带和纸花。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "花环随着回声石冉冉升起。回声谣仰着脸，久久没能移开视线。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "回声谣",
+          "text": "真美啊……我都要舍不得它离开了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "在秋日微风里，那挂着彩带的花环在高处轻轻晃动，仿佛在向每一个人致意。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一些工人笑着拍照，有的还递上一杯啤酒庆祝。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "居民Ⅰ",
+          "text": "昨天，我梦见穹顶修好了，我们都在下面喝茶。尤利安在讲战场的事，奥尔加奶奶在织毛衣，我在喝着蜂蜜酒……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "人群一阵黯然。那场灾害后，这些名字也几乎从记忆中消失了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "奥尔加",
+          "text": "孩子，别太难过。等穹顶修好了，我们还要在下面喝茶。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "奥尔加",
+          "text": "看，就在那里放张桌子。夏天喝啤酒，冬天晒太阳。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "奥尔加",
+          "text": "谁来都行，咱们几个老邻居……如果那时候大家还都在。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "居民Ⅱ",
+          "text": "我得在那屋檐下放个花盆，种点天竺葵。下雨的时候，还能听见屋檐的水一滴一滴落下来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "居民Ⅲ",
+          "text": "没错。什么大风大雨都不怕，我们就坐在这里，不用跑，也不用躲……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "回声石即将升至最高点。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "奠基石",
+          "text": "很好……那么接下来——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "奠基石",
+          "text": "我们会将寂静交还给这栋建筑。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "光忽然消失了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "居民Ⅰ",
+          "text": "嗯……？这是怎么回事……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "奠基石",
+          "text": "请大家冷静，远离穹顶中心！我们会处理——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "奠基石",
+          "text": "蓝图，数值在安全范围内吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "黑暗中，另一道声音悄然升起。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他们奏响号角\n一切都准备好了"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "滴——滴——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "蓝图",
+          "text": "不好，仪器数值上涨很快——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "庞杂的声音自石料深处苏醒，久久不愿消散。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "在亘古的岁月里，它们曾目见神明降临，也曾沐浴在最初的光中。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "如同一首不朽的诗，等待着、渴求着——永远被铭记。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "回声谣",
+          "text": "小洪扎……？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "声音洪流般涌出，几乎淹没了整个中庭，最后又收束到角落的手偶身上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "手偶转动头颅，平板无波的声音响起。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小洪扎",
+          "text": "废墟之上"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小洪扎",
+          "text": "我们无法再找寻任何安宁"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小洪扎",
+          "text": "枯萎的落叶飘零"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "啪嗒。啪嗒。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "它脸上出现了一道道裂痕。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小洪扎",
+          "text": "无人敢言我们的名字——"
+        }
+      ]
+    },
+    {
+      "script_id": "203831",
+      "internal_title": "【3.8】世纪末尺度20.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "巨兽从天空坠落，眼看便要砸在地上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "回声谣",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "蓝图",
+          "text": "回声谣小姐，快回来！那里很危险……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "回声谣",
+          "text": "小洪扎……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她不顾同伴的劝阻，飘了过去，捡起破碎的手偶。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "轰隆隆——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "回声谣",
+          "text": "唔——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "回声谣",
+          "text": "……？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "巨兽的动作在距离她不到一英寸处骤然停下。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "如最盛大的烟花，旧时代的落幕。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "它身上仍残留着一种足以吞没一切的威势——那是一种征服一切、压倒一切、震慑人心的东西。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "广袤、无限，如海洋般无边无尽。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "在它面前，星球似乎没有边界，世界也没有终点。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "然而，在这回声与废料构成的庞然身影中，她仍旧辨认出一些熟悉的气息。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "回声谣",
+          "text": "卢齐安……我的朋友们……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "回声谣",
+          "text": "是你们在看着我吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“回声”",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "回声谣",
+          "text": "说些什么吧……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "巨兽俯下庞然的头颅，与她四目相对。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "回声谣",
+          "text": "我见过你们。在金色的海洋中。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "温柔、宽广……以及沉默。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "回声谣",
+          "text": "现在你们离开了，我应该去哪里？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“回声”",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“回声”",
+          "text": "回声谣……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "万千音律在废墟中同时震动。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "每一根裸露的钢筋、每一片混凝土残片，都在颤栗中齐声呼唤她的名字。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "我们的回声谣。光亮下的，如雏菊般珍贵的……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "回声谣",
+          "text": "……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "回声谣",
+          "text": "我、我在……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“回声”",
+          "text": "回声谣……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "然而从那之后，声音便只剩下重复。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一遍，又一遍。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "答案被卷入无边的风里。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "它穿过工业的尘埃，落在枯黄的落叶上，游走于沉默的楼宇和街道中。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "直到重归寂静前，它将一直传到很远很远的地方……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "滴——滴——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "希曼",
+          "text": "这是……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一台打印机突然开始了运作，然后是第二台、第三台、第四台……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "来自世界各地的照片喷薄而出，淹没了科算中心总部的“时空灾害”观测室。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "露西",
+          "text": "与“上一次”所拍摄到的现象一模一样。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "机械女士拾起一张照片，多佛尔连绵的白崖景观上盖了一层异样的辉光。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "露西",
+          "text": "希曼，通知所有人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "肯纳",
+          "text": "好消息，穹顶的建设圆满完成！我们可以继续推进……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "肯纳",
+          "text": "工作……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "这本该是庆典般的时刻。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "会议室内，长桌前的一排排椅子均已满座，每一张面孔都沉默而冷峻。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊里内伊",
+          "text": "我们刚刚收到了一些不好的消息。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊里内伊",
+          "text": "各地相继爆发了不明全身性血管病症，就在刚才——拉普拉斯也发来了同步预警。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "肯纳",
+          "text": "——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "肯纳",
+          "text": "不明病症、同步预警……和上一次“时空灾害”前一样……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "无人应声，沉默本身便是答案。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "所有人的视线缓缓投向会议桌尽头，那位始终沉默的女士。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "立刻发布最高级别预警，召回所有的外勤调查员。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "……我们必须保全一切有生力量。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "我们终将沉默，但一切都会好的。"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

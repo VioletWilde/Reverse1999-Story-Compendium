@@ -1,0 +1,773 @@
+{
+  "episode_id": 2310107,
+  "chapter_id": 23101,
+  "chapter_title": "圣火纪行：东区黎明",
+  "display_label": "",
+  "title": "早午餐",
+  "subtitle": "沟壑，用一些实物将其填补，包括一个拥抱。",
+  "trails": [
+    {
+      "element_id": 2310105,
+      "owner_episode_id": 2310107,
+      "trigger_episode_id": null,
+      "title": "生活所需",
+      "description": "一份药剂制备清单，由《家庭常用药剂配方大全》《人人都是魔药师：简单易懂的熬制法》等畅销书籍整理而来。",
+      "action": "交互",
+      "unlock_condition": "EpisodeFinish=2310107",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "生活所需"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "润滑油脂\n蜗牛黏液、阿拉伯胶树汁（刮取）、雨燕的唾液、鹫羽粉末\n——鹫羽粉末难以获取，不过从效果来看并非必需材料\n——雨燕口水是必需的\n——羊脂蜗牛效果最佳\n\n安睡药剂\n龙牙草及榆树叶（捣碎）、柳橙（榨取）、冬日熊脚（毛发，于日落蓝光中晒干）、粗盐\n——购买龙牙草种子 已购买\n——粗盐过多将严重影响口感和安睡效果\n\n特效止痛膏\n橄榄油、艾德之舌（冷水浸泡）、石化树脂（软化）、白水晶与龙骨粉末\n——龙骨？家庭常用？！当然，我会把可以买五十瓶普通止痛剂的钱换成一盎司龙骨粉末，为什么不呢？\n——替代品：五十瓶普通止痛剂，以及在疼痛消失前忍着。"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "202311",
+      "internal_title": "【2.3】东区黎明-07",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "卡洛琳",
+          "text": "……自由祭祀是最受瞩目的乌卢鲁项目之一，因为它不仅是奇诡瑰丽的表演，还是数千名观众与舞者的情绪共鸣。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡洛琳",
+          "text": "夏洛特……她就像是为此而生的天才，并且奇遇般地与那位浑身插满乌鸦羽毛、终日研读古代凯尔特部落符文的教练结识。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡洛琳",
+          "text": "乌鸦教练将最原始的女巫之舞传授给夏洛特，从而彻底点燃了她内在的火焰——直到十年前的悲剧带走了她的右腿。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡洛琳",
+          "text": "夏洛特得到了一袋花种作为练习的奖励，传说这些种子来自于格拉斯顿伯里森林中隐居的德鲁伊。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡洛琳",
+          "text": "这片花园就是如此诞生的，奇异植物与花园的主人终日共享同一种呼吸。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "巨大多脉的叶片垂落于泥土中，牙仙记得第一次来到这座花园时，生命并未散发这样委顿的气息。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "门边的女人轻轻摇头，而纸信圈儿则直接蹲在了骇人的植物之下，将头伸进了茂密的植物丛中，找寻着奇形怪状的虫子的痕迹。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡洛琳",
+          "text": "谢谢你们再次邀请我过来……关于夏洛特，我也只能说这么多了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "听到了总结性的话语，纸信圈儿站了起来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "纸信圈儿",
+          "text": "你说的那些地方，那片森林，那个德鲁伊，我也能去吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡洛琳",
+          "text": "德鲁伊不是地名，而是一种身份。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "纸信圈儿",
+          "text": "身份……就像我是纸信圈儿一样？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "孩子又陷入了自己的思索中。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "感谢你的坦诚与合作，卡洛琳女士，很抱歉占用了你的练习时间。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡洛琳",
+          "text": "嗯。我本来也不太喜欢和政府官员打交道。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "成就斐然的自由祭祀运动员向来直言不讳。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡洛琳",
+          "text": "只是……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "卡洛琳再次瞥向维多利亚古宅紧闭的窄窗。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡洛琳",
+          "text": "如果官方还在怀疑夏洛特就是召唤黑雾的女巫，那我现在就告诉你——她不是。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡洛琳",
+          "text": "我以我作为乌卢鲁运动员的所有荣誉向你保证。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡洛琳",
+          "text": "她和我一样，不是传统意义上的女巫。我们练习巫术是为了拿奖牌，而不是为了召唤魔鬼或者下毒诅咒。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "这一点应该是足以取信的。如此一来，有关“雾中鬼婆”的调查事实上已经结束了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡洛琳",
+          "text": "……牙仙女士，如果你觉得应该为我的配合提供报酬，那么，请帮我个忙。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "牙仙点头，向来直率的女人却还在酝酿措辞。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "最终，她放弃了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡洛琳",
+          "text": "总之……做点什么，牙仙女士，她不能再这么邋遢下去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡洛琳",
+          "text": "你打算做什么都行，砸烂她的门也好，把她拖出来也好，还是要把这栋房子直接掀翻，都随你的便。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡洛琳",
+          "text": "但就是别让她再躲在这破宅子里了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡洛琳",
+          "text": "你进去吧，我能感觉到，花园现在没有力量阻拦任何人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "……你很了解这片花园。在你上一次造访时，她有没有和你见面？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "卡洛琳咬着下唇，强忍着把抵到齿尖的话吞回去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她头也不回地离开了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "纸信圈儿",
+          "text": "……我觉得卡洛琳很想和我们一起进去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "可我们也拦不住她。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "牙仙摇晃着手中的罐子——不是通常装满“牙仙”的那只，而是装满羊脂蜗牛的类似品。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "来吧，我们还有事情要做。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "纸信圈儿",
+          "text": "好吧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "医生与女孩谨慎地踏入花园，疏松多孔的泥土在她足底被压实，没有什么再来阻拦她的道路。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她们顺从地绕过一些看起来不好招惹的植物，沿着蜿蜒曲折的道路来到镶嵌铁钉的橡木门前。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "牙仙想要敲门，却没有料到沉重的大门轻轻一推就向后退去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "门没有上锁，进来吧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "女巫坐在餐桌后，就着一盘茄汁焗豆吃苏格兰炸鸡蛋。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "只服务于一位食客的餐桌上，还能见到吃剩的烤苹果派、油炸鳕鱼和薯条的影子。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "打扰了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "房屋主人将最基本的礼仪都抛至九霄云外，根本不在乎提醒客人入座，自顾自地切下又一块烤香肠。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "笃笃骨",
+          "text": "唔咕——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "突然吃下太多油腻和高含糖量的食物会让你得胃病的，夏洛特女士。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "笃笃骨",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "随即选择继续食用丰盛到近乎异常的早午餐。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "我选择用“牙仙”来代替“坎贝尔”，并且早已习惯，但你是否接受这个其他人附加于你的称呼？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "还是，你更习惯夏洛特·奥黑根这个名字？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "一个……优秀的乌卢鲁运动员的名字。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "餐具碰撞的声音再次中断，这次等了很长时间都没有再度响起。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她仰起头，双手扫过桌面。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "镀银的餐盘丁零当啷地滚向地面，敲响一段毫无美感的聒噪音乐。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "笃笃骨",
+          "text": "你的眼神最好没出问题，医生。我的腿断了，是个残疾人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "笃笃骨",
+          "text": "夏洛特就是夏洛特，笃笃骨就是笃笃骨。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "笃笃骨",
+          "text": "我和乌卢鲁没有关系。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "据我所知，乌卢鲁运动会并没有拒绝残疾人参赛的传统。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "笃笃骨",
+          "text": "如果你喜欢扮演马戏团里的小丑，那就去吧，但我没有这种癖好。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "没有人会在赛场上丢脸，尤其是愿意挑战自我的人，这与乌卢鲁的精神不谋而合。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "女巫挣扎，站起，愤恨地用假肢锤击着地面，仿佛要借此将支撑她的右腿砸个粉碎。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "笃笃骨",
+          "text": "我不记得什么时候请了一个烦人的家庭教师。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "你比我更加年长，想必先我一步知晓了生活的答案。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "笃笃骨",
+          "text": "出去，我从没有邀请过你！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "我是为纸信圈儿来的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "听见纸信圈儿的名字，笃笃骨愣了愣神，向后退了一步。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "笃笃骨",
+          "text": "你想说什么？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "我知道这里通常不欢迎除了纸信圈儿之外的客人，但我正是代替那孩子来向你道歉的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "笃笃骨",
+          "text": "……道歉？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她将一小罐蜗牛置于桌面。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "笃笃骨",
+          "text": "这是？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "一份表示歉意的礼物，她已经准备多时了——天还没亮的时候，她就从我的看护下逃走了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "她一直在帮你收集这些神秘学生物，好让你能制作用于义肢的润滑脂，对吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "可她害怕你再次生她的气，所以我决定先替她把礼物交给它应该归属的主人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "笃笃骨",
+          "text": "不要把我说得像一个恶棍。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "你没做错什么，我也知道，你不是人们口中的那一类女巫。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "就像我说的，要道歉的是纸信圈儿，错在她“不该伤了你的心”——这是原话。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "笃笃骨",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "卡洛琳小姐在她身边说了不少故事，在此之前，纸信圈儿从来不知道你是一位如此优秀又坚强的乌卢鲁运动员。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "笃笃骨",
+          "text": "卡洛琳——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "装满蜗牛的罐子被轻轻推到距离笃笃骨更近的地方。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "你能接受这份礼物吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "笃笃骨伸出手，指腹轻轻搭在罐体上。她没有推开罐子，也没有拿走。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "笃笃骨",
+          "text": "多管闲事。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "笃笃骨",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "笃笃骨",
+          "text": "纸信圈儿在哪里？你的临时医院？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "你想去找她吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "女巫的五官仿佛绞成一股绳。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "笃笃骨",
+          "text": "该死的，别在这装腔作势！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "笃笃骨将蜗牛罐子朝自己的方向拉近。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "笃笃骨",
+          "text": "——是我有错！我不该那么对一个孩子说话！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "笃笃骨",
+          "text": "你在等的就是这个，对吧？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "笃笃骨",
+          "text": "现在你满意了，快带我去见她！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "她和我一起来的，已经在门口等候很久了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "笃笃骨",
+          "text": "……一起？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一颗小脑袋从门框边缘悄悄探出来。她瞪大了眼睛，好确认屋内的黑暗中不再有危险。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "纸信圈儿",
+          "text": "笃笃骨？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "笃笃骨",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "事已至此，退无可退。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "笃笃骨",
+          "text": "进来！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "纸信圈儿",
+          "text": "呜呜……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "孩子的委屈总是不知道从何而来，现在她又想哭了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "笃笃骨",
+          "text": "别哭——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "笃笃骨",
+          "text": "听好了，我……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "笃笃骨",
+          "text": "就是说……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "笃笃骨",
+          "text": "……我不该用那种态度对你，不管是上一次，还是上上一次。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "牙仙轻悄悄地点头。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "笃笃骨",
+          "text": "好了，你不能哭了，别在我家——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "纸信圈儿",
+          "text": "呵——呵嗯——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她义无反顾地朝餐桌飞奔而来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "笃笃骨的双手打开又合上，像一只因受到惊吓而立起前肢的蜘蛛。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她不知道自己能否接得住这一只乱糟糟的破布团。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "笃笃骨",
+          "text": "喂！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "“砰——”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她接住了，但人也向后倒去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "笃笃骨",
+          "text": "——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "纸信圈儿",
+          "text": "对……对不起……是我错了——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "笃笃骨",
+          "text": "啧……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "纸信圈儿",
+          "text": "我以后不会在你家捣乱了，你允许我什么时候来，我就什么时候来……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "纸信圈儿",
+          "text": "你让我说什么，我就说什么，你不让我说什么我就什么都不会说……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她下意识地想要去看牙仙的表情，却发现后者正把全部的注意力放在墙上的乌卢鲁自由祭祀油画上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "隔着不知多少层旧衣服，女巫轻轻拍了拍纸信圈儿的后脖颈。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "纸信圈儿",
+          "text": "我——我以后还能到你的花园来，还能到你家来吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "女巫捂住女孩的嘴，打断了她的哭诉。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "纸信圈儿",
+          "text": "唔——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "笃笃骨",
+          "text": "再哭下去我就要受不了了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "纸信圈儿",
+          "text": "好，我……我不哭了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "女巫轻轻一推，纸信圈儿就像一只被风吹起的布袋子那般飘了起来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "可正当她庆幸失去了重压时，一个尴尬的问题向她袭来——她起不来了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "纸信圈儿",
+          "text": "我来……帮你？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "纸信圈儿挪到她的右手边，平齐地伸出两只手。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "笃笃骨",
+          "text": "……呵。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "笃笃骨握住援手，完成了一次完美的站立，忽然吹来的风帮助她保持了平衡。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "笃笃骨",
+          "text": "够了，闹到这种程度已经够我受了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "笃笃骨",
+          "text": "没有什么其他事的话，我恳请二位离开吧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "笃笃骨",
+          "text": "你们还得去追查那道神秘的雾气，不是吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "笃笃骨",
+          "text": "当然，我必须要说，这和我没有半点关系。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "纸信圈儿",
+          "text": "夏洛特……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "笃笃骨",
+          "text": "就叫我笃笃骨吧，你还有什么想说的？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "纸信圈儿",
+          "text": "这次就让那些食物好好地呆在你的肚子里吧，偶尔多吃一点没关系的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "笃笃骨",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "笃笃骨强行解开了纸信圈儿环在自己腰肢上的手臂，将不舍的女孩推得离自己远些。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "笃笃骨",
+          "text": "知道了，快走吧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "牙仙领着纸信圈儿退出了房间，古宅里又只剩了孤寂，敦实厚重的钟咔嚓咔嚓地走着，像是在拧什么东西的发条。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "笃笃骨",
+          "text": "让她看到过我太多的不堪了。"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

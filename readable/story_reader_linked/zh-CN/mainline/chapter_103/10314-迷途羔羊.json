@@ -1,0 +1,584 @@
+{
+  "episode_id": 10314,
+  "chapter_id": 103,
+  "chapter_title": "故事一无所有",
+  "display_label": "",
+  "title": "迷途羔羊",
+  "subtitle": "亲爱的，那不是他们的错，孩子们只是需要正确的指引。",
+  "trails": [
+    {
+      "element_id": 1031401,
+      "owner_episode_id": 10314,
+      "trigger_episode_id": null,
+      "title": "小径① 一张合影",
+      "description": "一张不知从何处而来的老旧合影。",
+      "action": "残篇阅读",
+      "unlock_condition": "EpisodeFinish=10314",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "一张泛黄的，边缘焦脆的合影。即便它被如此小心地保存，仍旧免不了被时间腐坏的命运。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "相片里的人面目模糊，只瞧得出是一水儿的黑头发。相纸的最上方有一行小字，方块儿似的——或许是某种来自东方的文字。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "相片里的人是……？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "你对此毫无头绪，在自己记忆里找不到一点儿关于这些人的蛛丝马迹。从没见过他们——你笃定地给了自己这样一个结论。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "除了第二排，自右侧数的第三个。你认得她的面孔。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "她与你记忆里的样子相比显得年轻了一些。两股麻花辫藤蔓一样地垂在她面颊两侧，那双黑色镜框后的眼睛仿佛来自一头沉稳的鹿。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "相片上写着什么？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "“19**—19**伦敦帝国理工学院留学生纪念”——一行方正的文字，有烫金的痕迹。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "该有的信息都有了——我是说，好消息！年份在如今不是什么重要线索了！"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "她从哪儿来？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "东方，太平洋西岸的一片广袤土地。载着她的渡轮曾穿过了直布罗陀海峡与苏伊士运河。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "照片从哪儿来？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "别这么刨根问底的，大家都更在意归处——要时刻告诫自己别落得和这照片一样的结果，变得有家不能回。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "说说吧，你都知道些什么",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "客气点，小恶棍！这不是什么免费的睡前故事，我也不是你慈祥的好爷爷。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "你认识她，但算不上熟悉。你我之间没人熟悉——熟悉她的另有其人。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "如今的她剪短了头发，变成了白色百合花上的露珠，在花萼之下摇摇欲坠。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "那朵百合花是什么样子的？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "纯白色，花瓣光滑，花药是健康的浅色。摸上去——是冷的，而且坚硬，像锋利的大理石，时刻准备在你的手上留下一个窟窿。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "露珠是她带过来的，也是她培育的。毫无疑问，百合花是个优秀的教导者，露珠也是个难得一见的好苗子。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "她为什么来到这里？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "这里？严格来说，她最初的目的地并不是“这里”，不是这幢灰白色建筑，不是伞下，也不是花萼。她是名理论物理学研究者——研究弦论。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "远渡重洋也只是为了重新回到那片蓄势待发的土地。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "但计划赶不上变化，那朵百合永远有办法让事情如她预期一般发展。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "露珠会不会变成百合花？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "好问题，她既无欲望，又没愿心，故土还在远方等着她——科学家又怎么会变成政治家！"
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "我真想这么笃定地回答你……但是你也意识到了，对吧？你也感觉到了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "现在——猫被重新关到了盒子里，始作俑者把盖子封得严严实实。你我只能在外面抓耳挠腮，像个足球流氓一样为自己的猜想下注。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "明天，或是后天——哈！等着赔个底儿掉吧！"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1031402,
+      "owner_episode_id": 10314,
+      "trigger_episode_id": null,
+      "title": "小径② 职责所在",
+      "description": "还有那么多的病人在等待，没有喘息与伤感的机会。",
+      "action": "教学记录",
+      "unlock_condition": "EpisodeFinish=10314",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "绿植"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "从学生宿舍搬家到康复中心的窗台上，\n这盆植物对此并无意见，生长状况良好。\n宿舍保洁员曾悉心照料它，\n并将花朵慷慨地赠送给好奇的学生。\n年幼的治疗师领受过这份好意，\n也深知康复中心的治疗手段向来高效。\n她能做的仅是多加看护，仅此而已。"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100317",
+      "internal_title": "第三章3-14",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "迷途羔羊"
+        },
+        {
+          "kind": "title_card",
+          "text": "基金会联合委员会办公室"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "这几天辛苦你了，小梅斯梅尔。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "照看那些受“暴雨”刺激的病人很不容易吧？很抱歉让你在这么小的年纪就经受了这些。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "你是梅斯梅尔家族的继承人，我们两方合作的历史已经太久远了。我相信你能承受得住……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "这“暴雨”的真相。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小梅斯梅尔",
+          "text": "……他们……都是疯子……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "他们曾经是与我们一样的正常人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "不要责怪他们。他们只是在未做好准备前就看到了真相。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "不是每个人都能像你一样坚强的，小梅斯梅尔。我们还有许多的病人，需要你的治疗。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小梅斯梅尔",
+          "text": "……我会努力的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "对了，我们在你的储物柜里发现了这些。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她抬了抬手，那是一张涂有笔记的地图。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "你介不介意我们替你保管？上面似乎是你朋友的最新计划。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小梅斯梅尔",
+          "text": "维尔汀……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小梅斯梅尔",
+          "text": "……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小梅斯梅尔",
+          "text": "请帮帮他们吧，他们还不知道……他们不知道到底发生了什么……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小梅斯梅尔",
+          "text": "不要再让他们做危险的事情了……呜呜……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "那是当然，职责所在。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "你先回去吧，好好保重身体。说不定，过几天还会有新的病人需要你的帮助呢。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小梅斯梅尔",
+          "text": "谢谢您告诉了我这些……谢谢。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她哽咽着离开了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "康斯坦丁拿着手中的棋子，静静地望着窗外。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "屋内的另一扇门被推开了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "白色的人影疾步走上前来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "这次“暴雨”的时间，问出来了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "重塑他们预测是在本月二十七日晚上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "康斯坦丁转过来，黑暗中的笑容似乎发着光。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "你看，我说的吧。对付重塑的俘虏，比起恐吓……更有效的，永远是利益与爱。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "感谢我们的前线侦察兵，不仅找到了指挥奥利图欧的场所，还抓来了重塑的俘虏。这下维尔汀这边的难题也得以解决了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "“越狱行动”二十号进行……他们为什么要选择这个时间……？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "噢。我明白了……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "你想到了什么吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Z女士也走到桌旁，低头看着地图。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "我们现在还不知道哪些学生参与了这个行动。但我们可以在那一天驻守在瞭望塔附近，拦住这群迷途的羔羊。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "不，呵呵……亲爱的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "把视察学校的时间推迟到二十六日。要求所有人都严阵以待。二十六日后，瞭望塔各撤下一个人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "同时，换掉女生宿舍通往医务室的防空大门，材质选用含铅化合物。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "部分基金会的伤员转移到学校的医务室内。医务室附近需要二十四小时有人驻守。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "这些是……我不明白，而且铅根本不适合造门。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "呵呵，你怎么还不明白？这张地图是重塑投掷下来的。他们一定在东南瞭望塔外等着接应。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "我决不可能把基金会培养的学生们拱手让人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "他们能且只能——按照我所规划的时间和路线离开。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "离开？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "按你规定的路线……二十六号的后一天……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "你想……难道你想的是——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "实现他们的心愿。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "是时候让他们亲眼见证“暴雨”了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "为什么！我们不能这么做——这样、这样太残酷了……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "你有没有想过他们离开学校边界的时候……有可能就是“暴雨”来临的时候？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "除了维尔汀，所有人都会被回溯掉！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "呵呵……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "——不，你想过。你期待的正是这个……是吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "我们已经别无他路了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "我们的保护，对他们来说，是强权的欺瞒。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "没有什么能阻止猜忌的生长。别忘了，重塑也在一旁虎视眈眈。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "如果一些顺水推舟的牺牲，就能换来维尔汀的忠诚，谁还会在乎最初的那一步后翼弃兵？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "她是独一无二的人才。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "我从1999那一年……就在期望她的成长。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "为此，我需要她牢记背叛的代价。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "你还有什么疑问吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "如果没有什么问题，你可以开始行动了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "了解。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她卷起图纸，退后了两步。灰暗的灯光下，几乎看不清她的神情。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "但我永远，永远也不会认同这次的计划。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "因为你不懂政治。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "是的……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "真遗憾，我只是个科学家。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "计划有变。紧急通知，计划有变！"
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

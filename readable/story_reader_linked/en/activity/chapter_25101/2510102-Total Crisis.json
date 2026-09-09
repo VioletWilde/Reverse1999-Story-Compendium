@@ -1,0 +1,746 @@
+{
+  "episode_id": 2510102,
+  "chapter_id": 25101,
+  "chapter_title": "Showdown in Chinatown",
+  "display_label": "",
+  "title": "Total Crisis",
+  "subtitle": "Put down the donut, drop the radio, and lick the sugar off your fingers—this is no joke.",
+  "trails": [
+    {
+      "element_id": 2510103,
+      "owner_episode_id": 2510102,
+      "trigger_episode_id": null,
+      "title": "Spot Check",
+      "description": "This isn't me nitpicking, rookie. We all had to learn this by heart.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=2510102",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Here is a well known question you must have heard: \"What goes on four legs in the morning, two in the afternoon, and three in the evening?\" it's so well \"known\" that no one finds it novel anymore."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "But please do me a favor and answer me yourself."
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "\"A human being\"",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Correct! This is the same answer Oedipus gave to defeat Sphinx. Thus becoming a hero, but also starting him on his ill-fated destiny."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Raise a question, give an answer. This is the most fundamental ritual. Through this, we get nearer to God."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "The Sphinx, an embodiment of mercy and nobility in Egypt, was seen as a mystery to the Greeks: a dangerous being that kept secrets, and delivered the punishments of the gods."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "When the question is answered, the ritual is finished, and the answerer is granted the right to reach the treasure it guards."
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "Ritual?",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "Yes, a ritual. Whether it is by pouring out wine; slaughtering a calf; or circling round a fire with a baby in your arms... It is an agreement; a question that demands an answer."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "Every desire has a price. Whether it is paid in wine, blood, or fire, but sometimes that sacrifice is taken from you without it ever being noticed."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "And the treasure you seek might be the undoing of your own desires."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "Let us take a look at another question: \"Stranger, what's your name?\" Cried Polyphemus."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "\"Nobody!\" Odysseus answered, and it allowed him to flee the cyclops' cave, safe and sound."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "A human being and nobody, two answers that could not be more alike, yet both were bound to fate by their answer."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "Alright, dear, time to call it a day. As for you? You'll get the answers you seek, you've already paid the price."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "Let's talk about the questioner instead.",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "202502",
+      "internal_title": "【2.5】唐人街影话02.1",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "Here we are. Get out."
+        },
+        {
+          "kind": "title_card",
+          "text": "Street, Los Angeles"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "First case of the day."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "Any time regular beat cops find a case related to arcanum, they'll call it in to Dispatch, then we get to come mop it up."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "This is what we call a Basic Arcanum Incident, the bread-and-butter of our work, kid. It's not often that we get anything urgent, but you've gotta stay on your toes."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "But to be honest, I hope we don't get anything big today. Last thing I want is to take a rookie like you into a real emergency."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "I hope so, too."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "That's \"Yes, ma'am.\" You got me?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "You're probably thinking I'm trying to put you in your place, huh? That I'm just bossing you around."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "But get off your high horse, princess. Cause as long as I'm your field instructor, you need to show some respect."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "This is the \"pro tip\" her colleagues gave her before she left. If your trainee has powerful connections, you've got two choices: either make sure they know who's in charge from day one, or spend the rest of your day sucking up to them."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "But it seems she and her colleagues were worrying over nothing."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "But I don't have a horse, and I didn't think you were bossy. I'm honored to have you as my partner and field instructor. I look forward to learning under you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "Hmm?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Pretty humble coming from a big-shot cadet. Poitier narrows her eyes, only to be met with an earnest, slightly puzzled gaze."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "Is there something wrong with what I said, ma'am?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "Are you just that much of a pushover, or is this all an act?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "P-Pardon? I don't quite understand."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "Nothing. Just keep close. You never know what can happen with these cases."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "They take their last few steps up to the door and ring the bell. Heavy footsteps approach from within, and the door is flung open with a bang."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Citizen I",
+          "text": "Oh, finally. Do you know how long I've been waiting? Those monsters are at it again. Do something."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Such an \"enthusiastic\" welcome isn't exactly what the vigil cadet was expecting."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She turns her head, only to see her instructor comfortably positioned a few feet behind her. Looks like she'll have to handle this one on her own."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "Um, please remain calm, ma'am. We're here now, and we won't let them hurt you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "Am I correct that you reported there are critters that have broken into your house? Could you describe them for us? Do you have an idea how many?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Citizen I",
+          "text": "I don't know. Like a ton, a bunch, two and a half butt-loads. I didn't stick around to count them."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Even among the woman's chaotic shouting, useful information can be extracted. Liáng quickly formulates a plan."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "So, there are many of them. Hmm, in that case, I suggest we split up, ma'am."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "You could stay here and keep the lady safe, and send me to take the critters down? Given we're in the city, I suspect them to be tamed, and it's possible that someone may be controlling them."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "Once we've established their type, we may be able to deduce the incantation that's controlling them. Some incantations can be easily traced, such as the Manipulation incantation or the Shadow incantation—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Citizen I",
+          "text": "Ahhh. Over there. There they are."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "Please stay behind me, ma'am. Where are ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "... are ... they ...?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She freezes mid-step, her eyes locking onto a corner of the yard. From the shadows, a row of plump creatures waddles into view."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Munchalo",
+          "text": "Mooo."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "Is this ...?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "This appears to be a Munchalo, a new breed of critter from the Ms. NewBabel Critter Rehabilitation Center, endorsed by the LSCC. They're medium to large in size, and classed as non-aggressive."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "The Munchalo consumes base arcane materials and extracts the energy from them. They're intended to assist in the arcane production industry. They've been slated for worldwide distribution."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "But, why are they here?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Citizen I",
+          "text": "Well? What are you waiting for? Do something. Kill them, ah!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "Kill them? Oh, ma'am. Please don't worry. They will not attack people, and it's against our procedures to kill non-aggressive critters without authorization."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Citizen I",
+          "text": "But they're destroying my azaleas. And the stairs and my lawn. And they almost bit my sweetie's tail off, ah."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Even the ever-composed vigil cadet is momentarily at a loss for words."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "Your sweetie? Um, I see, ma'am. I will do my best to get them out—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She decides to put off investigating \"sweetie's\" identity for now. But before she can act, a shrill voice interrupts from outside the yard."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Citizen II",
+          "text": "Hey! Don't you dare lay a finger on my precious munchies."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "Wha—Can I help you, sir?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Citizen I",
+          "text": "I-I knew it. This jerk is my next-door neighbor. He keeps all kinds of these ridiculous, smelly critters around. I order you to throw him and all his disgusting little pets in jail."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Citizen II",
+          "text": "Are you out of your mind? They're just some adorable Munchalos. What kind of sicko would wanna hurt them?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The shouting match quickly escalates as a barrage of increasingly colorful insults fills the air."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Liáng glances at her instructor. Poitier simply smirks and shrugs."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "What did I tell you, huh?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Munchalo",
+          "text": "Mooo."
+        }
+      ]
+    },
+    {
+      "script_id": "202503",
+      "internal_title": "【2.5】唐人街影话02.2",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "Restaurant"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "Finally, lunchtime. I'll grab the cheeseburger and an Americano—large."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The front door to the diner has barely closed by the time Poitier has shouted out her order. It seems this is just another part of a beat cop's routine."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "So, some fluffy trespassers, an alchemy incident, a noise complaint for a werewolf-infected, and a speeding ticket on an unregistered arcane vehicle ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "Honestly, busier than I expected, but it all went smoother than I expected too. We've earned ourselves a decent lunch, I'd say. So, what do you want, princess?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Liáng studies the menu on the wall, hesitating to answer."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "What? Don't tell me our little vigil princess can't stomach a bit of fast food?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "Better get used to it, kid. We're on a tight schedule. There's no time for fancy dining."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "Oh, it's not that. It's just ... Are all the restaurants here so expensive? This is the first time I've been to L.A., and it seems things cost more than I expected."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Poitier is taken aback."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "What, you broke? You telling me the Foundation—THE FOUNDATION—can't afford to pay you a decent wage?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "Oh, no. No. It's ... My subsidy should be enough for daily necessities. It's only that I was hoping to save some money, but it seems the prices here won't allow me to."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "Sorry, please forget it. I'll have a chicken sandwich. Thank you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "Okay."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Their orders placed, the two take a seat at Poitier's usual spot."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "Alright, question time, rookie. Cause I think I've got the wrong impression."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "What I heard was that you were some pampered rich kid from a crazy old legendary family."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "After a brief flicker of surprise, Liáng's expression shifts. It's as if she expected to hear this question, or at least has grown accustomed to it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "It's true. The Liáng family have a long history and many legendary ancestors."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "But that was a long time ago. Nowadays, we're not so different from any other ordinary family."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "Mhm, sure. \"Ordinary,\" that's definitely what I think of when I see you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "I also heard that you've got a familiar."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "You mean Qiángliáng?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "Yeah, sure, that. Come on. It's some mysterious arcane creature from the Far East. Everyone in the DAA's curious about it, myself included."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "So, you gonna show me?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Liáng looks a little troubled."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "Um, now? I'm sorry, but I must refuse your request, Ms. Poitier."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "With all due respect, the Qiángliáng is a sacred being. It is deserving of great respect."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "It has a divine mission to expel diseases and evil beings and has guarded the world through the ages."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "Maybe that just sounds like old legends, but it's the truth. We've recorded every battle it fought in our family chronicles."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "And we're only allowed to borrow its power when we are in the greatest of danger."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "Please understand that I can't just summon it simply to show it to others."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "Okay, okay. I'm not unreasonable, princess. If it's a sacred thing or whatever, I won't bother you over it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "From Liáng's sincerity, it's clear that this isn't just an excuse. Poitier isn't annoyed by it, but she does seem a little bored by the overly serious response."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "An awkward silence falls at the table. Luckily, the waitress breaks it with the arrival of their meals."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "Anyway, I guess I should say, you're doing a lot better than I thought today. And I don't just give out compliments, you got that? So, take some pride in it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "But don't get cocky either. This was all chump work. You haven't seen the ugly side of this job yet."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "This morning might have been a cakewalk. But this job can blindside you just like that. Never underestimate anything."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She takes a hefty bite of her burger and launches into a monologue, the food still rolling around in her mouth. Liáng simply looks blank. Poitier finally swallows."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "Hey? You in there, princess?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "I apologize, but in our family, we have a rule, Shí Bù Yán, Qǐn Bù Yǔ. It means we believe you shouldn't talk when eating or sleeping."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "What? You're kidding! You trying to say I'm being rude? Or wait, you're serious, aren't you?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Liáng sits totally still, her expression unchanged."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "What kind of stupid rule is that?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "Besides, why would anyone be talking while they're asleep? What, like you can't sleep talk? How do you even control that?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Poitier appears to be giving the question some genuine thought."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "Sorry, maybe I didn't translate it right. It means \"keep quiet before sleep.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "For a long moment, Poitier stares at her, dumbfounded. Then, she slumps back in her seat."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "The heck? So many rules. Damn, princess, you must've had a miserable childhood."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "Let me guess. Every day was courses and training, stuck inside, no books, no movies. Did they even let you watch Saturday morning cartoons? I've heard of kids like you. Sounds worse than jail to me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "A childhood like that is rough, kid. It's bad for your head. Bad for the job, too."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Liáng furrows her brow a little. She can't follow her thought process at all."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "I don't understand why you're upset, Ms. Poitier. How is it bad for the job?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "Did you check the list of incidents before we set off? There's a case we're going to after lunch. A director that received some kind of threat. She's shooting a film in Chinatown."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "Anyways, this director's an arcanist, and her movie is all about arcanum. So, it's in our department."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "The point is, knowing's half the battle in this job. It'd be easier if you were a cinephile or at least familiar with films. Maybe then you'd know a thing or two about her."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "She's famous for those Detective C07 films, the first movies to really put a focus on arcanum and arcanists. Something about it, though: the detective in those films used a skill a lot like this Nightpiercer crook."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "What's her name again? Something with an N? Nu ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Poitier strains to recall the name. She only saw it flash on screen for a moment when she watched the film way back when. In her focus, she fails to notice the flash of surprise on Liáng's face."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "Noire."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "Yeah. That's it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "Wait, so you—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "Yes, I've watched her movies, too."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "I'll be damned. So, was it a special reward for getting straight A's? Or—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Dispatch Center",
+          "text": "Calling all nearby units. Code 3. We have a hostage situation at City Hall."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The radio announcement cuts their get-to-know-you session short."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Dispatch Center",
+          "text": "Suspect is a registered arcanist, posing a threat to life. On-scene officers are requesting immediate arcanist support."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "City Hall? We're close by, aren't we?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "Pack up. Lunchtime's over."
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

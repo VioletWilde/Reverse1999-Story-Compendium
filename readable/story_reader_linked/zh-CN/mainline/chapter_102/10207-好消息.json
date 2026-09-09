@@ -1,0 +1,488 @@
+{
+  "episode_id": 10207,
+  "chapter_id": 102,
+  "chapter_title": "夜色温柔",
+  "display_label": "",
+  "title": "好消息",
+  "subtitle": "这是赐予勇敢者的机会，天大的冒险，一场史无前例的豪赌。",
+  "trails": [
+    {
+      "element_id": 1020701,
+      "owner_episode_id": 10207,
+      "trigger_episode_id": null,
+      "title": "小径① 致小卡文迪许",
+      "description": "告别",
+      "action": "残篇阅读",
+      "unlock_condition": "EpisodeFinish=10207",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "真是耐人寻味的一幕，老卡文迪许一定会感到惊讶的。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "我也感到很惊讶",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "你也看到了？你看到那个女人在黑夜中被剥蚀的面孔，看到小卡文迪许背过身去的狂喜了？"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "他曾经非常敏感，非常有天分。他在制作魔药的时候真**是个天才！但是现在……他已经被消化，被吞食了。他对此一无所知。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "谁是老卡文迪许？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "噢，这是一个沾满陈腐灰尘的姓氏。它们被历史枪杀了。就连曾坐在你面前，活生生的那个小卡文迪许，都摘下了这个桂冠。"
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "“勿忘我”，这个蠢名字充满了幽默感。那个带着惨白面孔的少爷死了。阴险唬人的外表日复一日地生长起来，他无数次从饥饿与自杀中穿过，最后剩下的只有堕落。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "那个女人给了他承诺。她对勿忘我交代了几句后，便向北前行，消散在雾里。风城是一颗多余的肉瘤，被她扔在身后。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "只有被枪指着喉咙时才能看清楚自己脑内到底有什么。因此，他授予自己复仇、复仇、复复复-复仇，并死亡的自由。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "现在，肉瘤归他了。他发誓要在上面搭建一个巨大的舞台。等待着，把自己的卑劣，疯狂，颤抖放在太阳下。"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100212",
+      "internal_title": "第二章2-7",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "好消息"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "这个地方的景色不错。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "是的。刚好能望见你的那一片树林。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "你是来询问我最后的决定的吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "我们与当地政府接触过了。他们对你的这片树林很感兴趣。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "现今因“暴雨”导致的患者数量激增，医疗资源已经远远跟不上了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "他们没有地方安置难民与患者。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "你的树林……不论是从容纳空间上考虑，还是从治疗仪式的施术场来判断，都是最适合的地点。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "所以，你决定好了吗？槲寄生小姐……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "重塑始终在等待你的加入。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "如果我加入你们，你们会因我而拒绝政府么？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "我们有更好的打算。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "他们要在林中建起城内唯一一座以神秘术治疗为主的大型集中救治所。这意味着……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "食物。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "资源。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "金钱。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "以及构建我们重塑之手所需要的更多的一切。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "我们已经谈好了“合作”。在神秘学领域上，没有人能提供比我们更大的帮助。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "那么那些难民呢？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "被“暴雨”筛选掉的，才会成为难民。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "你不会成为难民，这点我可以向你保证。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "我们希望“救助难民”那一天，身为林中之主的你也能在场，提供必要的支持。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "我早已不再是那片树林的主人……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "无论任何时候，只要你需要，我都可以将林场的所有权转让给你。\n更何况，自始至终，林木所承认的唯一的主人，都是你。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "我明白你的心情。你曾拥有的……是我本应拥有的事物。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "我会为你照看树林，直至开始“救助难民”计划的最后一刻。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "谢谢。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "勿忘我已经离开了很久。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "而她一直望着窗外。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "那些树木……本应该发芽吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "面向明天……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "5小时前"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "藤蔓无穷无尽。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "粘液无休无止。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "敌人在迫近。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "退路被封锁。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "斯奈德",
+          "text": "该死的，子弹快不够用了……掩护我，老爷！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "你的伤口还没有愈合，你不能再受伤了，快到我身后！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "这是牢笼……她想抓住我们！两点钟方向还有最后的出口！最后一次突破！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "斯奈德",
+          "text": "不行、老爷……来不及了……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "唔呃——！！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "痛……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "荆棘上的粘液会让身体变得僵硬，小心……！！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "斯奈德",
+          "text": "所有的退路都被封锁了。我们被关在牢笼里了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "……不。绝对不能被关在这里，我要再试一次！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "放弃吧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "焰光闪烁——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "呃——！！……竟然反弹了回来……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "为什么？荆棘做的牢笼为什么会这么坚韧——？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "已经结束了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "去影无踪——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "唔……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "该死！为什么！——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "斯奈德",
+          "text": "老爷……您也不是纯血吧……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "……我不清楚。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "斯奈德",
+          "text": "呵呵……您跟我一样……都是不擅长神秘术的蹩脚家伙呢。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "斯奈德",
+          "text": "没看出来吗？我们与纯血的神秘学家之间，存在着真正的天壤之别……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "斯奈德",
+          "text": "我们不可能战胜槲寄生。这一点，在您将白衣老女人推出去的时候，就应该已经想清楚了……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "斯奈德",
+          "text": "无论如何挣扎，我们都将束手待毙，被送到阿尔卡纳面前。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "……一定还有办法，只是需要时间。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "斯奈德",
+          "text": "您比我见过的大多数人都要更加勇敢，我的老爷……但是，这还不够。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "斯奈德",
+          "text": "远远不够……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "斯奈德",
+          "text": "到时候，请杀了我。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "你在说什么？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "斯奈德",
+          "text": "对着胸口的左边。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "斯奈德",
+          "text": "重塑不会放过我们的。自相残杀，向来是他们最喜欢的戏码。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "斯奈德",
+          "text": "您有远高于我的价值……我的老爷。好好珍惜您的价值吧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "……我不明白……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "斯奈德",
+          "text": "记住，到时候要对着我左边心脏的位置，坚决地动手。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "这个计划太冒险了，而且……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "斯奈德",
+          "text": "如果您想要活下去……我们别无选择。\n相信我，老爷。我比任何人都珍惜生命呢……咳咳……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "但你说的这些……她……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "她全都听到了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "斯奈德",
+          "text": "呵呵……老爷说得没错。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "斯奈德",
+          "text": "我们的命运，就要看她的抉择了。"
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

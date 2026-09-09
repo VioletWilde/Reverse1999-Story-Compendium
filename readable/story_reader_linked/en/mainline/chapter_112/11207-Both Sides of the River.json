@@ -1,0 +1,683 @@
+{
+  "episode_id": 11207,
+  "chapter_id": 112,
+  "chapter_title": "远征记",
+  "display_label": "",
+  "title": "Both Sides of the River",
+  "subtitle": "They weep for the grain trampled under the boots of friend and foe alike.",
+  "trails": [
+    {
+      "element_id": 1120701,
+      "owner_episode_id": 11207,
+      "trigger_episode_id": null,
+      "title": "Salute to the New Sun",
+      "description": "The crumpled drafts in the bin prove how much thought she put into this.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=1207",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "Sentinel Unit Internal Notice No. 47"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "To all Sentinel Unit members:\n    Intelligence confirmed that former chief of staff Captain Krutov deserted during the return voyage from the Antarctic Operation, taking critical documents and military equipment, including classified files and multiple communication devices.\n    His whereabouts remain unknown. It is highly likely that he has defected to operate as an independent force or has entered into collaboration with Manus Vindictae.\n    Admiral Igor has designated him as a top-priority threat. Any personnel who encounter Krutov during field missions or transit must report so immediately. Do not pursue or take unauthorized action.\n\n    Additionally, according to the latest announcement from headquarters, Admiral Igor will personally lead elite forces to the Bereggrad region in the lower Don after completion of the Sanctuary's infrastructure. This operation involves coordination between the front line and the intelligence department. To prevent communication leaks, subsequent personnel assignments will be communicated under separate notice.\n\n    Finally, in light of ongoing organizational restructuring, the Sentinel Unit will be renamed the \"Gryphon Legion.\"\n    We welcome alternative naming proposals. If you wish to submit one, please deliver your suggestion to Lieutenant Moldir within seven days.\n    Note: Names must reflect our military ethos. Offensive, religious, or politically suggestive terms are prohibited.\n\nIssued by: Lieutenant Moldir\nDate: ██ ██"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "101211",
+      "internal_title": "第十二章12-07.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "Both Sides of the River"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Several young men in Zeno cavalry uniforms surround the house, along with some boys not yet old enough to serve."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A boy and a girl are trapped at the doorstep. Judging by their resemblance, they're siblings. The brother is covered in blood."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Zeno Cavalryman I",
+          "text": "Oourgh!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A cavalryman, poised to charge, stumbles back and crashes into the line of men behind him."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A knight stands at the circle's center, the only barrier between the cavalrymen and the two children."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "Who's next?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Zeno Cavalryman II",
+          "text": "This has nothing to do with you, outsider!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Another cavalryman steps out of the crowd, ready to fight."
+        }
+      ]
+    },
+    {
+      "script_id": "101212",
+      "internal_title": "第十二章12-07.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "Commander Ivan",
+          "text": "Scatter!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "One word from the commander immediately silences the cavalrymen."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "They instinctively step aside, clearing a path to the house for him."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "Commander."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The knight puts away her weapon."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "Forgive me for bruising your soldiers."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "I don't mean to interfere with the Cavalry Corps's internal affairs, but this incident could cause serious harm to people outside the military."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The commander raises a hand, prompting her to skip the formalities."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Commander Ivan",
+          "text": "What is this?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "Someone discovered a stash of unfamiliar weapons in these two children's house. It seems their uncle joined the bandits last night."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Commander Ivan",
+          "text": "These children. They're from an arcanist family."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "Yes. Some arcanist villagers fled upstream, claiming they would join the bandits and return to rob the others."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "Some soldiers thought it prudent to do a preemptive strike."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Commander Ivan",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The commander looks over his soldiers sternly. Their evasive eyes prove the knight's words."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Commander Ivan",
+          "text": "Are you hurt?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "No. They didn't harm me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Commander Ivan",
+          "text": "You've stopped the worst. Thank you, Ms. Marsha. Leave them to me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "Certainly."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The knight has no intention to fight. She packs her equipment and takes the cleared path to leave."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The commander approaches the young boy on the step. He appears to be below the enlistment age."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The commander tries to say something, but sees only refusal in the young boy's eyes. He gives a gentle gesture for them to enter their home."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He turns, still standing tall at the doorstep, and faces his men."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Commander Ivan",
+          "text": "There may come a day when we cross blades with our townsfolk—a day none of us prays to see."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Commander Ivan",
+          "text": "This war will scar us. It will scar our children, our children's children. The Don will carry our deeds for centuries."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Commander Ivan",
+          "text": "Those who take up arms with bandits are our enemies. And we will answer with bullet and blade."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Commander Ivan",
+          "text": "But their families will not suffer. They are our people, her people. No harm will come to them by our hand, else we become those we fight."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Zeno Cavalryman I",
+          "text": "Then-Then what are we waiting for? Why are we stationing in the city?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Zeno Cavalryman II",
+          "text": "We aren't city guards. We're riders! We should be out on the steppe hunting down the bandits!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Zeno Cavalryman I",
+          "text": "R-Right. These are our homes they're destroying. How can we just stay in the city and watch them burn?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Zeno Cavalryman II",
+          "text": "If the cavalry won't go, then we should go ourselves. Split up by village and defend our own!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Commander Ivan",
+          "text": "Then the enemy will seize the chance, and one by one, the blood of you and your families will water the Don."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Zeno Cavalryman",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Commander Ivan",
+          "text": "We fight for the peace of the steppe. If she is to flourish as she once did, then we must stand united upon her plains."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Commander Ivan",
+          "text": "No more words on this. I forbid it. All those who brawled will be punished as necessary."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Commander Ivan",
+          "text": "Now, go to your chief and get packed. The rest period is canceled. We ride in one hour."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "An hour later, the cavalry leaves Tamarovka, where they have barely paused, to make their advance upstream along the river toward Bereggrad."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Thousands of cavalrymen make up most of the head of the marching column. Behind them follow a small number of infantry units and a long supply team."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sergey",
+          "text": "Ah, so good you joined me at the vanguard. Interesting company, the two of you, what with all your stories from the west!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "Pretty sure it was you who insisted on coming with us."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "Heh. Reminds me of my days scouting for the Order. It wasn't an easy position to be in."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Sergey looks up at the sky."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sergey",
+          "text": "Hm. At this rate, it'll be dark before half the Corps sees the city. Best we hop off and wait for the others to catch up."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The scouting unit clearing the way for the march dismounts on a gentle slope, taking shelter in the shade of a tree."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "Careful, Merel. You'll break a leg if you dismount like that. Here, take my hand."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Having already dismounted, Marsha walks over and helps Merel off her horse."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "Th-Thank you, Marsha. Finally a bit of a break."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "Sergey, the sun will go down before we arrive? Then, we'll be transitioning to a night march."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sergey",
+          "text": "Yeah. We were supposed to put up for a night in Tamarovka and leave at dawn. What kind of army starts a march in the afternoon?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "Night marches come with considerable dangers, especially when we don't know the enemy's movements. What's got the commander so anxious?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sergey",
+          "text": "He's a commander. He must have his reasons. Believe me. I know what it takes to lead a troop."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sergey",
+          "text": "My great-grandfather was a general, you know. Fought off Napoleon side by side with the Tsar himself! Came home with a chest of medals, too. Shame my family lost them."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Without the taunts of his townsfolk, there's no one to rein in Sergey's bragging."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sergey",
+          "text": "If you ask me, it's because of the Timekeeper. The sooner she finishes up whatever it is she wants to do in the city, the sooner he can send her on her way."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Sergey voices his opinion freely, not realizing that the person in front of him is a member of the Foundation."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sergey",
+          "text": "Then we won't be stuck guarding the city, and we can finally show the bandits what's what. You know how dangerous they are."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "What's the Timekeeper doing here?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "You could always ask her. Aren't the two of you around the same age? Wouldn't you have been classmates at school?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "Seriously? Can't we just drop this? Vertin was already the Timekeeper by the time I got there. I never saw her in school."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "The SPDM—a school full of arcanists. It should be an interesting place."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "Not as much as you'd think."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "Everything we learnt was \"for the benefit of humanity\" and \"the supreme mission of human survival.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "Every day, there's a morning broadcast of the school motto in 12 languages, and the Student Handbook's thicker than the Oxford Dictionary."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "Oh, and the fence? It's electrocuted! Can you imagine? 230 volts of electricity buzzing day and night! It's more like a prison than a school."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "There was a rumor back then that a group of students managed to escape. People said it was the Timekeeper who organized it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "The Timekeeper? That's difficult to imagine. She seems very level-headed."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "People were kind of scared of her. Apparently she was their leader."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "Did she or the other children bully you?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Merel freezes at the question."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "Not at all. Why do you ask?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "I was bullied by someone of that type when I was in the Order."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Marsha speaks as if it were nothing more than a passage from a textbook."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "I was about half the age I am now. As an arcanist, my physical fitness was poor before I received training from the Order."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "Some older squires would give newcomers like me a hard time. We didn't stand a chance."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "What's a squire?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "They serve the knights and are usually candidates for knighthood. Newcomers take on menial tasks while they study the arcane skills of the Order. Those who master them become squires."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "Wow, and you ended up a knight! Did you train thinking you'd go to war?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "War ... I had always pictured it as something far off—a legendary battle of dreams and ideals."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "Until it broke out. I'm no longer so naive."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "You must've taught those bullies of yours a lesson, right?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Marsha's mouth curls into a mysterious smile."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "*chuckle* Very few squires are granted knighthood."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Sergey, who has been listening along, cuts in."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sergey",
+          "text": "Alright, rest's over. Back in your saddles. Better not let the team see us lounging around."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Sergey straightens up and checks that the saddles are securely fastened. The others follow suit."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sergey",
+          "text": "You'll see Bereggrad once we reach the top of the slope."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He rides slowly toward the top."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sergey",
+          "text": "Those were some stories. Didn't have anything half as exciting in my childhood. By the way, I can show you around the city if you've got time. I know it well."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sergey",
+          "text": "There's a Turkish place that makes the best kebabs! Ah, but they might've fled already."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Leading the way, Sergey quickly reaches the top of the slope."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sergey",
+          "text": "Behold! The Don's great—What?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Sergey pulls hard on the reins, stopping his horse just before the crest."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "What's wrong?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sergey",
+          "text": "Wait. Am I seeing things? Why are there so many people outside the city?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "They ride up to his side. A dark crowd forms a wall across the Cavalry Corps's route to Bereggrad."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "This is an army. They're blocking the entrance."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sergey",
+          "text": "What? At this time of day?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "Sergey, tell the commander to halt the march. Merel and I will stay and observe their movements. Go!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sergey",
+          "text": "A-Alright!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Commander Ivan",
+          "text": "Outside Bereggrad? Did you get a clear look? Bandits or other forces?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sergey",
+          "text": "I ... I'm not sure. But they're definitely not bandits. There are too many of them and ... I think I saw armored cars."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sergey",
+          "text": "Oh, and a banner, with a gryphon on it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Commander Ivan",
+          "text": "A gryphon ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The commander's brow darkens."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Commander Ivan",
+          "text": "Hold all regiments. Halt the advance and take the high ground outside Bereggrad. Do not engage."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sergey",
+          "text": "Yes, Commander."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The temporary liaison rushes off. The commander turns to the solemn chief of staff and Flying Witch captain at his side."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sternova",
+          "text": "A gryphon ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Commander Ivan",
+          "text": "Igor's banner."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sternova",
+          "text": "So he's here, just outside Bereggrad, only half a day's march away."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sternova",
+          "text": "Our orders are to enter Bereggrad. If Igor blocks our way or tries to attack, we have reason to engage."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Commander Ivan",
+          "text": "But the city and its people may already be under his thumb."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Commander Ivan",
+          "text": "If the upstream villages truly were pillaged by his hand, then he may threaten us with the lives of Bereggrad's people."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The commander's hand instinctively reaches for the gun at his waist. The cold metal calms his nerves."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Commander Ivan",
+          "text": "Lieutenant Lilya, your unit will confirm the number and formation of Igor's army."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Commander Ivan",
+          "text": "Retreat if attacked. Suffer no losses."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "On it."
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

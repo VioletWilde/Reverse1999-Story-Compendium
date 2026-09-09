@@ -1,0 +1,680 @@
+{
+  "episode_id": 3210105,
+  "chapter_id": 32101,
+  "chapter_title": "A Flowing Feast",
+  "display_label": "",
+  "title": "Light That Illuminates All",
+  "subtitle": "It burns so bright that its radiance evaporates everything—including your ego.",
+  "trails": [
+    {
+      "element_id": 3210403,
+      "owner_episode_id": 3210105,
+      "trigger_episode_id": null,
+      "title": "Prophecy and People",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=3210105",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "I saw doubt on Mademoiselle Brume's face. As a diviner, you encounter that look more often than people think."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Some have called me a schemer, a fraud, as the Vigiles Bureau did. Perhaps they are watching me even now, listening in to our very conversation."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Some were frightened by what I could see but kept coming back to sate their own curiosity."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Some showed nothing but disdain—not for me, but for the very idea of a predetermined future. I admired their courage."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Brume was not any of these. She was a fourth kind—one who tries to ignore the prophecy but, in doing so, only finds herself carried further into its stream."
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "The Vigiles Bureau?",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Oops. Have I let it slip?"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Well, I suppose there is no use pretending now. There was a disagreement about my decision to take a certain handful of arcane objects without consulting their rightful owners."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "In the end, I paid all their penalties, among other not-so-charming consequences."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Not that it has done anything to prevent them from hounding me at every turn. To them, it seems I am only a fear-mongering schemer who knows secrets best left unknown."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Hmm. An excellent question."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Someone who walks between eras and through the \"Storms,\" what is your view on fate?"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Few people can imagine the nature of your position. No more than three, I would wager. And I wish I could say I was one of them."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Alas, I am but a puppet dangling at the end of fate's thread. My limited vision cages my imagination."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Though I may still see a little more than most people, I cannot do as I was meant to."
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "Your hands are tied—is that what you're saying?",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "I have lived long enough to know better than to act against fate."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "Though, in fact, what I would have done differs very little from what I was meant to do."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "What do you think? Is it perhaps fate that determined my personality, or my personality determining my fate?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "What kind am I, then?",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "203206",
+      "internal_title": "【3.2】迁流的盛宴05.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "Rue de la Paix, Paris"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A dizzying crowd has filled Place Vendôme, flowing in from every direction."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The young driver leans against her car door, kicking at a small stone while watching the passersby."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "\"Tomorrow ...\" She never said the time. She's not planning to keep me waiting until the evening, is she?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Or has she already gone in?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She turns her head. The ornate carved door of the Parlor of Crystals is shut and shuttered, just as it was a few hours ago."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Should I knock again? Someone must be in at this hour."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Hello?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "This time, the door opens the very moment she knocks."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "But once it does, all she can see is the dim corridor ahead."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Ah, finally. Perhaps they didn't hear me knocking before?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Er, hello? Right, I suppose I'll just let myself in."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She steps inside. But the very instant her foot touches the floor, the last trace of light vanishes."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The tiny dragon's flame barely lights the way, its tail swishing weakly."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "They could at least leave a light on for the customers."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Hello? Anyone here? I think my \"friend\" arrived before me. She's about this tall—just enough to always be looking down her nose at you?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Adèle reaches out along the wall, feeling her way forward from memory."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Feufeu",
+          "text": "Grrrh!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "What is it, Feufeu?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Following the dragon's upward gaze, she spots a few faint, translucent figures with pointed ears."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "～♪"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Sprites. Of course. Where else would they be, if not in a diviner's parlor?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Let me be clear. I don't care what kind of mischief you're up to in here. Just don't let it involve me!"
+        }
+      ]
+    },
+    {
+      "script_id": "203207",
+      "internal_title": "【3.2】迁流的盛宴05.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The sprites shriek, batting at the harmless flames licking their bodies. Even if they can't be burned, the fright is real enough."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Heh. Not so funny when the joke's on you, huh?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Now, lead on. Bring me to the owner of this place, understood?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Divination Sprite",
+          "text": "♮♭♮♯♭♯♮♯♭!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Ignoring what sounds like their tiny frustrated protests, she follows the sprites to a door. Each one of them slipping inside ahead of her through the glowing crack."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She pushes it wide open."
+        },
+        {
+          "kind": "title_card",
+          "text": "Parlor of Crystals"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The room looks as if it were woven from a million scattered threads of light."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The thought crosses Adèle's mind as she takes in the transparent, shimmering crystals around her, their reflections gilding the dust in the air."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Here, every breath she takes seems to take in some of the shimmering light, almost like she is devouring the very spirit of the crystals."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "How pretty."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Never seen a parlor quite like this. The way these crystals are displayed ... It feels like they're not meant for sale or for exhibition."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She breathes as softly and shallowly as she can, attempting to blend into the light."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Is it the lighting that's giving them such an otherworldly glow? Or maybe ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Perhaps you are thinking of the Sephirot. When captured, they may be manifested through crystals."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A voice echoes from afar—bright, clear, like the sound of gentle tapping on a glass pane."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Some believe it is through these Sephirot that the creator formed our world. Without them, the divinity is incomplete."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "The ten Sephirot ... The astral light, the flames of the fire which burned in the bush, the glowing stream which flows from the Tree of Life, the \"numerals,\" \"spheres,\" \"enos\"—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "—and all aspects of reality."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Ah, then you must be ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Madame Beryl Bouanich?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The shop's owner smiles and nods. No further explanation is needed. Anyone who's seen her would know exactly who she is."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She extends her hand, brushing a softly glowing pendulum with her fingertips."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "Through certain objects and rituals—or by gnosis gifted at birth—we may catch a glimpse of a splendor that is not of this world."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "These crystals are one such object. In their reflection, we are shown the hidden secrets of the Archive of Imagery."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her voice soothes Adèle's nerves, though it comes out so softly that she struggles to register the meaning."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Madame, did you ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "I am pleased that you have made your way here, Madame Tavernier. That door was left open just for you."
+        },
+        {
+          "kind": "title_card",
+          "text": "Sitting Room, Parlor of Crystals"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her teacup exudes the calming floral scents of Darjeeling, and with each bite of Madeleine cake, her remaining tension melts along with the buttery richness."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "So I'm the first one here. I see."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "And you were at Madame Raymond's salon the other day to retrieve your crystals?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "Indeed I was. I have been occupied in business overseas and neglected the security of this parlor."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "Someone has been taking my defective crystals and pawning them off to other diviners."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "Few are able to detect their flaws. But, minute as they are, they render them hazardous for ritual use. I must act before any further harm is done."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She looks toward Adèle, her expression softer still, sweeter still, despite her words of caution."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "For that, I owe you my thanks, Madame Tavernier."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "You showed courage that day, in your words and actions."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Just Adèle will do. And there's really no need to thank me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Truth be told, I probably wouldn't have interfered if the diviner hadn't tried to make a fool of me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "Ah. Those words still bother you, do they not?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "No, not at all. I don't take things like that seriously, you know."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "After all, fate—it's just a matter of belief, isn't it?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "You do not believe, yet you cannot seem to put it out of mind. Is that so?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Hah. Please, madame. You aren't about to start with the prophecies like all the others, are you?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She raises her cup again and reclines against the chair."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Forgive me. It's not that I think all diviners are liars. It's just that it's hard to believe that fate is shaped by any kind of higher power. It seems just as likely to me that most divinations are simply self-fulfilling prophecies."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "And whether they be from a higher power or a crystal ball, I won't let prophecies dictate my life."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "If I have a fate—some road I'm destined to travel—then I will first go as far as I can down every other road until it's the only option I have left."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "There's still so much I want to do!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "But the woman only laughs, not with mocking laughter but with something like genuine delight at her words."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "Fate, dear, is a universal law—the cause and effect of all events. Just as the path of light through a crystal may be predicted to find its refraction, one road inevitably leads to another."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "While some believe our paths to be unpredictable, others see them as written from beginning to end."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "But there is little use in searching for \"meaning\" in such a thing as fate."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "My reading foresaw your coming today, and here you are. The light passes through the crystal and falls as it must, as it ever was to be."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "You knew I'd come? Then, what about my friend?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "I saw only you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Damn! She didn't even bother to come! What is she thinking?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Adèle mumbles in confusion, but Beryl has already moved along to the next question."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "You came here only to find your friend?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "I, well, yes, you could say that."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Beryl's eyes track away, gazing out distant and unfocused, as if she wasn't aware of the person in front of her at all."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "There is something more—a question, not about the truth of fate, but of how you might act upon it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "The curse in your family, or as some may call it, the path of the Tavernier."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "You wonder whether it is your time to walk it, do you not?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Madame Raymond",
+          "text": "The call must be answered! Walk with the wise, but beware their words. Beware the gaping abyss of death."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Madame Raymond",
+          "text": "What lies below shall reflect what lies above—one shall ascend, but all must be paid."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Madame Raymond",
+          "text": "All must return! All must restore—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "How come every diviner I meet these days seems to know about that curse?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Is obscure jewel lore really so popular in this city?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Adèle says it like a joke. That's how she always treats the subject."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Mockery felt better to her than fear."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Beryl only nods in reply."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "Madame Raymond foresaw the future, but she peeked too far, and for that, paid dearly."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "You mean ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She still doesn't want to hear that kind of answer."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "No, no, no. Please tell me you're just teasing me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "You're saying that it wasn't her fear of the Beasts of Gévaudan that killed her but what she saw in my future?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "Please, Adèle. Allow me to finish."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Beryl shakes her head. Somehow just that gesture alone is enough to lift her heart."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "—Only for her next words to put it right back into a vise grip."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "The fate she saw was not entirely yours. There is a shadow which lingers on you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "In a way, it is true. You are indeed cursed."
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

@@ -1,0 +1,748 @@
+{
+  "episode_id": 2110104,
+  "chapter_id": 21101,
+  "chapter_title": "Route 77: The Haunted Highway",
+  "display_label": "",
+  "title": "Medal of Honor",
+  "subtitle": "\"It is from the giver that honor derives, not the receiver.\"",
+  "trails": [],
+  "segments": [
+    {
+      "script_id": "202106",
+      "internal_title": "【2.1】77号往事-04.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "Front Desk, Tuesday's Motel"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The maid stands behind the front desk in the motel lobby. She's checking in her new guests."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tuesday",
+          "text": "That'll be 25 dollars altogether. Will that be on card or cash?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Cash, please."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The maid holds up the passport, comparing the information on it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Hey, do you know if there's an armament factory in the town nearby?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tuesday",
+          "text": "An armament factory?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She studies Lilya's outfit and smiles as she responds."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tuesday",
+          "text": "Yes, there is one. Would you like a map?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She opens a drawer, pulls out a map, and hands it to her."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tuesday",
+          "text": "If you plan on visiting, make sure to return early. It can be a difficult walk in the dark."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Lilya quickly finds the town labeled \"Chisos\" on the map."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Doesn't seem far from here."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tuesday",
+          "text": "It's about an hour's walk. I'd recommend leaving tomorrow morning."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tuesday",
+          "text": "It's getting late. It's best not to be outside at night."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Thanks, but I'm going right now."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She moves with swift purpose to the front door."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Nothing can go wrong as long as I have the Red 38 by my side."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Call me if anything happens."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Like what? I can handle myself."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A rush of wind enters as Lilya opens the door and makes her way out of the motel."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Don't worry. She'll check in later."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tuesday",
+          "text": "Here's your passport."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Have you been working here since the opening of this place?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tuesday",
+          "text": "Yes."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "How's business?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The maid laughs softly."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tuesday",
+          "text": "Not too great. It's the off-season now."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tuesday",
+          "text": "You don't seem too good at small talk. Is there anything you'd like to ask?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "I do have one question."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Have you seen a sheep-headed arcanist around?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She shows the information provided by the Foundation."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tuesday",
+          "text": "Ah, that's not a face you'd easily forget."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tuesday",
+          "text": "And why are you looking for this arcanist?"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "For world peace.",
+          "edge_label": "为了世界和平",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "Tuesday",
+              "text": "World peace?"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "The maid blinks in surprise, then laughs."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "Tuesday",
+              "text": "Well, that makes this request simply too adorable to turn down."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "Looking for an editor of UTTU.",
+          "edge_label": "寻找UTTU的编辑",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "Tuesday",
+              "text": "UTTU ... I think I've heard of that before."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "Tuesday",
+              "text": "That's a magazine specially made for arcanists, right?"
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tuesday",
+          "text": "Well, I'm sorry to say that I've never met an arcanist with the head of a sheep."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tuesday",
+          "text": "I can help you ask around if you—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Suddenly, the ceiling starts to tremble."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A surge of arcane energy comes from above."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "What's ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tuesday",
+          "text": "Sounds like something's gone wrong upstairs. Sorry about that."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tuesday",
+          "text": "Let's head up. Your room's on the second floor, too. Then we can take a look at what's happened."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Sounds good."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tuesday",
+          "text": "Just so you know, the guests upstairs are a little ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The maid hesitates."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tuesday",
+          "text": "Well, you can stay behind me if you like."
+        },
+        {
+          "kind": "title_card",
+          "text": "Hallway, Tuesday's Motel"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Argus",
+          "text": "How about it?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A voice echoes from down the hall."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Argus",
+          "text": "It's just a simple room swap. I'm sure it won't be no trouble at all for a generous lady such as yourself."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tuesday",
+          "text": "That's the guest staying in room 210. She arrived here the night before yesterday."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tuesday",
+          "text": "She was injured when she came in. Seems it didn't take her long to recover."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tuesday",
+          "text": "But I don't quite understand why she insists on swapping rooms with the other guests. If she does the same to you, please call the front desk. I'll do my best to help."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Why don't you offer her your help? She needs it more than I do."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tuesday",
+          "text": "Oh, things don't work like that here, Miss."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tuesday",
+          "text": "Everyone has their own secrets. With the variety of guests we get, it's best to keep your mouth shut, or else somebody will shut it for you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tuesday",
+          "text": "Although there are fewer bounty hunters around these days, my advice is to stay quiet if you don't want any trouble."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tuesday",
+          "text": "Especially if you're dealing with an armed mercenary. You know how things like that play out down here in Texas, don't you?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Understood."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The voice down the hall continues."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Argus",
+          "text": "Or do you have something else in mind?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Female Guest",
+          "text": "Is your room bigger and better than this one?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A more lively voice chimes in."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tuesday",
+          "text": "That's the guest of room 218 speaking. She too is a young lady like you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "You remember all the guests and their room numbers?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tuesday",
+          "text": "You'd remember her too if she'd been staying in your motel for a month. Ms. Kimberly's been here for just over that."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Stefen",
+          "text": "I ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tuesday",
+          "text": "Hm?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The maid quickly moves toward the source of the voice."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The man before her looks haggard, his back slightly hunched, his eyes yellowed and cloudy."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Stefen",
+          "text": "Mirror ... The mirror ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tuesday",
+          "text": "Mr. Stefen, are you coming out for some fresh air?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Everyone in the hallway turns to look at the maid."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Argus",
+          "text": "Maid! You're just in time."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Argus",
+          "text": "I'd like to swap rooms with this Kimberly lady."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tuesday",
+          "text": "If Ms. Kimberly and yourself have come to an agreement, then I see no reason why you can't do so."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Stefen",
+          "text": "Ah."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The man makes a dry, rasping sound, his vocal cords trembling unnaturally. It's like he's speaking for the first time in his life."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Stefen",
+          "text": "Timekeeper?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Have we met?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "This response seems to trigger something. His expression twists."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Stefen",
+          "text": "Vertin?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "That's me. Do I know you, sir?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Stefen",
+          "text": "I saw you—in the newspaper."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Stefen",
+          "text": "Arh, the newspaper, that vacuum bomb—did you see the explosion? You must have, because you made it happen! You dropped the bomb! You murderers!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Stefen",
+          "text": "But have any of you been brought to justice? No, not a single one! Instead, you were congratulated and given medals."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Stefen",
+          "text": "Revolting! Disgusting! Why were you rewarded for murder?!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He blabbers on, working himself into a frenzy."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Stefen",
+          "text": "Meanwhile, I'm stuck in this hotel. Lord, is this what my life has come to?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "But we've never met before. I don't even know your name, sir."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Stefen",
+          "text": "Of course you don't know me. But I'll get the truth out. I'll expose your crimes to the public!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The man's deranged rant continues, his knuckles turning white as he clenches his fists."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Stefen",
+          "text": "That rotting woman in the tub, that sheep-headed monster, and that one inside the mirror."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Sheep-headed, you say?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Wait! Sir—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Argus",
+          "text": "Shh. Don't startle him. He's totally crazy."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Stefen",
+          "text": "I should've known it was all fake!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Stefen",
+          "text": "If they're giving out medals for killing people ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Stefen",
+          "text": "Ah, then I should have one, too. That shiny medal—it should be mine!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He bites down hard on his lip, his cloudy eyes staring straight ahead."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He steps forward."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Argus",
+          "text": "Stay back!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "But the man has already lunged at them."
+        }
+      ]
+    },
+    {
+      "script_id": "202107",
+      "internal_title": "【2.1】77号往事-04.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A single blow from the butt of the mercenary's shotgun knocks the man out."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tuesday",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The maid breathes heavily, her face slightly flushed."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tuesday",
+          "text": "I'm ever so sorry about all this, Ms. Vertin."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tuesday",
+          "text": "You've only just arrived, and you've had to deal with so much trouble already."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Oh, it's no trouble. In fact, I'm glad that we came here."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "That man said he'd seen a \"sheep-headed monster.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tuesday",
+          "text": "Oh, that ... He's quite delusional. Surely you won't take the ramblings of a madman for a fact, will you?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tuesday",
+          "text": "He's been peculiar since the day he checked in. He spasms and twitches and pays little attention to his surroundings."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tuesday",
+          "text": "It's best not to have a face-to-face conversation with him. Who knows what he'll do next."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Kimberly",
+          "text": "Hey, you, maid! Enough chatter. You have a job to do."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The girl impatiently interrupts their conversation."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Kimberly",
+          "text": "I've accepted the offer this, uh, Ms. Argus made. What's next? What should we do?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tuesday",
+          "text": "Apologies, Ms. Kimberly. I'll be with you in a moment."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tuesday",
+          "text": "Could the both of you wait for me at the front desk? The rooms need a tidy-up before they can be occupied. You may take a rest on the couch in the lobby while you wait."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tuesday",
+          "text": "Ms. Vertin, I'm afraid I'll have to leave you here. Do you mind going to your room alone?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Not at all."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The suitcase sways with her steps as she heads to her room."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Once again, the air pulses with the flow of arcane energy, compelling her to look back."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Argus",
+          "text": "Ma'am, you can just leave the room as it is. If you clean it, it'll interfere with my work."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Argus",
+          "text": "You might wanna check on that Kimberly lady. She looks starved. She wouldn't stop shaking."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A cluster of emerald light sparks in the mercenary's left eye, scattering like a bird unfurling its brilliant tail feathers."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tuesday",
+          "text": "Oh, Ms. Kimberly. Would you like something to eat?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Kimberly",
+          "text": "I'm fine!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The guest's face visibly sours."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Kimberly",
+          "text": "I agreed to change rooms, didn't I? Why are you two still mocking me?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She turns her attention to the mercenary."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Kimberly",
+          "text": "You're not exactly a pleasant person to do business with; you know that, right?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Argus",
+          "text": "Well, darn, what got you so riled up?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Argus",
+          "text": "It's too late now. A deal's a deal. You can backpedal if you like, but it ain't wise to mess with a girl packing heat down here in Texas."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Argus",
+          "text": "Later, Ms. Kimberly."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The mercenary's eye gleams as she turns the lock and enters her hard-won room."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Her arcane skill."
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

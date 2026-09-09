@@ -1,0 +1,636 @@
+{
+  "episode_id": 10403,
+  "chapter_id": 104,
+  "chapter_title": "El oro de los tigres",
+  "display_label": "",
+  "title": "A Coat Rack",
+  "subtitle": "Hopping and bouncing, it marches forward with the pride of an alchemist and the manner of a lady.",
+  "trails": [
+    {
+      "element_id": 1040301,
+      "owner_episode_id": 10403,
+      "trigger_episode_id": null,
+      "title": "The Sun Will Continue to Rise",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=403",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "You fall back into the crowd. I understand. I can feel the desire and depression burning deep inside your brain: you are longing to be a part of an absurd, broken, bizarre arcanum story which is beyond your imagination and past experience."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "But sorry, I can't help laughing: you got into some trouble and have to run around blindly among those in white robes like a panicked ant."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Come on. Close your eyes. Imagine inside a TV with static noise, a red-nosed bad guy opens his arms to you and says, \"Welcome, to, the, human, world.\""
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "These stupid commas!",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "I know, dude! As puzzling as our usual big shots. They stand on the podium, with a mic in their hands, and everyone can see their uvula trembling from their wide-open mouths as they speak."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Hello, hello, testing, testing. Three, two, one, three, two, one. Comma, comma, comma. Everyone has to wait for what will happen with a full bladder and an empty stomach."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "I'm already in the human world.",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Nice pun! But you don't understand what I’m saying, for now. When the day comes, you will find yourself, you will find me, you will find them ... Oh, thinking of that day, my damned heart is beating crazily like a dying reindeer's!"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "But look at this moment, it's just fine. You know where you should be, and you don't have anything that you shouldn't have in your mind. You just crouch here with patience ..."
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Listen, this is not just a world of arcanists. Arcanists, arcanum creatures, and even arcanum itself are but insignificant existence hidden beneath all else."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "You must learn about those who are in power at the present moment. They live on the other side of the earth, setting rules on the thrones in the scarcely populated wilderness."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Much has been done for the order, for the vision, for the ultimate goal which will satisfy the majority yet sacrifice the minority. They wage wars and strike deals, building a pyramid that symbolizes supreme power with skeletons of the commoners."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "No, I'm not telling a lame villain story. On the contrary, it's a boring documentary about those in power standing between the sky and the earth, seeking the real meaning of fairness and ideals."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "There's still plenty of time! Go ahead. Keep moving, but don't jump to any conclusion. Just make sure you're always on the way, so you will learn more about humans, more and more."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Take the microscope with you and dig into the rotten history of those poor little things!"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100403",
+      "internal_title": "第四章4-3.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "A Coat Rack"
+        },
+        {
+          "kind": "title_card",
+          "text": "Lobby, St. Foundation"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "... Yes. I've received the report on the Chicago office."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "Well done."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The envelope leaves her and flies out of the window. Madam Z quickly walks through the crowds and stops at a door in a hallway."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Aside from the vibrant secretary area, the entire hallway is bathed in a serene vibe."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "This is the door to her own office."
+        },
+        {
+          "kind": "title_card",
+          "text": "Joint Committee of SF"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Constantine",
+          "text": "Good timing."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Constantine",
+          "text": "Did I startle you? Considering what we have been through together, I didn't expect you to be as surprised as Ms. Weyerhaeuser was."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "... Sharon didn't tell me you're here."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Constantine",
+          "text": "There's no need to tense up. I told her not to say anything."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Constantine",
+          "text": "I have talked to Ms. Weyerhaeuser. Everything is going well."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Constantine",
+          "text": "She has gotten quite a shock. That little pale face ... like a stressed cat. She is in dire need of comfort from a friend."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "What do you want me to do?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Constantine",
+          "text": "To do what a good tamer would do. Reach her with a sincere, friendly gesture, ease their pains, answer their questions, and lead them onto the right path."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Constantine",
+          "text": "Of course, most importantly, make them be of use to us—to serve the course of the peace of mankind."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "I see."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Constantine feels pleased with the response. She gets up and walks towards the door."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Constantine",
+          "text": "None of them has signed the agreement."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Constantine",
+          "text": "But this recruitment is essential for us. For the short term and for the long run."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Constantine",
+          "text": "Can you see what I am doing?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Madam Z listens with her head bowed."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Constantine smiles."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Constantine",
+          "text": "Oh, and there's one more thing."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Constantine",
+          "text": "Don't address her as \"Ms. Weyerhaeuser.\" She doesn't like it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "I'll take note on that."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She stares at her, until that slim, tall figure goes through the door and disappears in a distant light."
+        },
+        {
+          "kind": "title_card",
+          "text": "Guest Room, St. Foundation"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sotheby",
+          "text": "Five and two-thirds portions of silver wine, twenty drops of toad oil, and some crumbles of pure gold from Ucayali ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Sotheby rests her head on the table, stirring the semi-solid liquid in the tube."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She contemplates for a bit and takes out two more tubes with bright-colored materials inside from under her dress."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sotheby",
+          "text": "Da da la la la ♪"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sotheby",
+          "text": "Last ingredient, the burning acid salts ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sotheby",
+          "text": "Sotheby's incredible shapeshifting potion will be done at any minute!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The burning acid salts fall into the bowl, and out of that bowl raises a strange smell."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sotheby",
+          "text": "Hmm? Wh-what is going on?! The edge of the potion has turned pink ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sotheby",
+          "text": "Blimey ... It's the iron bowl ... It reacted with the potion!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sotheby",
+          "text": "Oh no ... This is not good. What effect will it cause now? I should have brought my crucible with me. Nothing can work as a decent vessel here!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She jumps up with annoyance and starts taking circles in the room."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sotheby",
+          "text": "Time is against me. Dinner will be served at any minute. I have to make up my mind now!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She is quickly counting the ingredients hidden under her dress, 23, 24 ... 106 ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Not far away from the room, footsteps come closer and closer to her closed door."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Guard I",
+          "text": "Ms. Sotheby, dinner is ready."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sotheby",
+          "text": "...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sotheby",
+          "text": "W-wait! Don't come in!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sotheby",
+          "text": "Ugh, I don't have enough ingredients for another potion! What can I do?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sotheby",
+          "text": "This could be the last chance to make it out ...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Guard I",
+          "text": "Ms. Sotheby? Do you need help?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sotheby",
+          "text": "I-I am putting on stockings! This is lady's dressing time, so don't you come in! Just a minute!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The tube is radiating heat in her palm."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sotheby",
+          "text": "It's alright, I'll be fine. I may look a bit different from expected, but it doesn't matter."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sotheby",
+          "text": "Three, two, one!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She inhales deeply, and finishes the potion in one gulp."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The unperfect potion flows through her throat, reeking of the smell of timber in her esophagus."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She feels something is tickling her in the hair, and her head seems to lose its weight; her nails become fluffy like cotton, stretching out in all directions."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "There seems to be a sun hatching in her larynx, hanging over the rest of her body. This is a feeling too distinct to be overlooked."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sotheby",
+          "text": "Ugh ... *coughing* My throat is burning ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sotheby",
+          "text": "But I made it, didn't I? *coughing* Let me see ... What am I now ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sotheby",
+          "text": "... A coat rack?!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sotheby",
+          "text": "Impossible! I was expecting a movable tennis ball!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Guard I",
+          "text": "Ms. Sotheby."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Guard I",
+          "text": "Please excuse me, but I have to open the door."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sotheby",
+          "text": "...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Creak ... *door opens*"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Guard I",
+          "text": "Ms. Sotheby?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The guard freezes with a dinner plate, looking up and down in bewilderment."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "There is truly no one in the room. Nor any places for anyone to hide."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Guard I",
+          "text": "...?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sotheby",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Guard I",
+          "text": "This coat rack ... Was it here before?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He doesn't like the way it stands there. He turns his face around to the desk."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He certainly can't miss that muddy semi-finished potion in the bowl."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He cautiously dips his gloved fingers in that suspicious mud and takes a whiff."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Guard I",
+          "text": "She must still be in the room."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Yes, indeed. Suffering she is, in this very room."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sotheby",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Itchy. Incredibly itchy."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her throat feels as if it'd become a lump of soil, where water weeds grow vigorously, and they are dancing, and burning."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sotheby",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sotheby",
+          "text": "*Coughing* ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sotheby",
+          "text": "*Coughing* ...! Oops ... *Coughing harder* ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Guard I",
+          "text": "...?! Ms. Sotheby!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sotheby",
+          "text": "Whoa ...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sotheby",
+          "text": "Jump, jump! Oomph! Oomph! Oomph!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She grips her hat, jumping like a standing twig towards the open door."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "What a strenuous move, what a painful pace ... she can't help missing the days when she could walk with two legs."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "... But the guard seizes her by the pole."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Guard I",
+          "text": "Ms. Sotheby, you are not allowed to leave the room without permission."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Guard I",
+          "text": "Please forgive me for being violent."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sotheby",
+          "text": "Ugh ... It's the iron bowl's fault ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sotheby",
+          "text": "This is false imprisonment! I must get out of here today!!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sotheby",
+          "text": "Bodyguards! Bodyguards!!"
+        }
+      ]
+    },
+    {
+      "script_id": "100404",
+      "internal_title": "第四章4-3.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "Guard I",
+          "text": "A-achoo ...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The potion Sotheby smashes on the floor has taken effect; the guard is deeply troubled by the sneezes one after another."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sotheby",
+          "text": "Hmph! You can never seize Ms. Sotheby the great potion alchemist that easily!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "More of the people in white are attracted by the noises in this room."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Guard I",
+          "text": "What? What's going on?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Guard I",
+          "text": "What's wrong, Ms. Sotheby? Your dress is a mess! Ugh, this room smells terrible ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sotheby",
+          "text": "Oh! My body is back. The potion's effect ... wears off ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The guard covered in odd slime tries to get up off the floor with great effort."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Guard I",
+          "text": "Achoo! Ugh ... It's good to see you here. W-we must apply for more guards for this room!"
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

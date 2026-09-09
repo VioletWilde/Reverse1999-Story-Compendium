@@ -1,0 +1,714 @@
+{
+  "episode_id": 11201,
+  "chapter_id": 112,
+  "chapter_title": "远征记",
+  "display_label": "",
+  "title": "Quiet is the River Bank",
+  "subtitle": "And quiet flows the river, and quickly flies the bullet.",
+  "trails": [
+    {
+      "element_id": 1120101,
+      "owner_episode_id": 11201,
+      "trigger_episode_id": null,
+      "title": "Battlefield Recording",
+      "description": "We've heard this old friend's voice before.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=1201",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "Zeno Arms Academy Recording Restoration Report"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "[File Number: ΔZENO-201124]\nSubmitting Organization: The St. Pavlov Foundation (via the Timekeeper)\nClassification Level: IV (Non-Classified)\nFile Status: Partial irreversible data loss\nRestoration Date: November 24, 1920\n\n1. Technology Notes on Restoration\n    The \"Zeno Audio Restoration Technique\" is based on hypotheses derived from the arcane theory of resonance particles. According to documented research, sound waves converted through the communicator leave microscopic arcane vibrations in surrounding media during transmission. When environmental materials (metal oxide layers, residual electric fields, or air density gradients) are reactivated, these disturbances can be reconstructed into audible signals through phase differences at extremely low frequencies.\n    When portions of the signal exhibit semantic drift or narrative gaps due to disruption, the restored text represents a reconstructed version obtained through multiple iterative retranslations. Cross-referencing confirms the restoration achieves 99.97% accuracy compared to the original recording.\n\n2. Restoration Report\n    No. 00-1-1 \"I've been on a mission on the Eastern Front, under the direct orders of Admiral Somme.\"\n    No. 00-1-2 \"Guess what I found, капитан?\"\n    No. 00-1-3 \"A Zeno outpost without jurisdiction.\"\n    No. 00-2-1 \"As far as I'm aware, Zeno hasn't deployed any forces to this location. From the looks of it, I think it's the Igor rebels.\"\n    No. 00-2-2 \"Details remain unclear. I'll determine the next steps after consulting with the commander.\"\n    No. 00-2-3 \"If you're interested in Igor's movements, call me back as soon as you can.\"\n\n3. Additional Notes\n    Sound wave comparison results indicate a 96.34% match to Lieutenant Lilya's vocal sample in the Zeno Database, confirming the speaker's identity with high confidence.\n    Analysis suggests the primary communicator experienced two sudden interferences. The nature of the interference remains undetermined."
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1120102,
+      "owner_episode_id": 11201,
+      "trigger_episode_id": null,
+      "title": "The Profit Frontline",
+      "description": "Slide political interests between lines of pleasantries, like an eel slipping through kelp—that's how the big shots always talk.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=1201",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "A Conversation Among the Big Shots"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Inside a Foundation office, the sound of a ringing communicator interrupts a briefing.\n    Irinei glances at the device—a direct line to Zeno headquarters. He nods, signaling the committee member to wrap up mid-report. Once the door closes, he picks up.\n    \"Somme here. According to Ivan's report, the cavalry has been harassed by bandits for weeks.\"\n    \"Oh? Are these bandits connected to the Manus?\"\n    \"No evidence of that. More like a mix of local warlords and scattered gangs. Though a couple of the rapidly growing factions seem suspicious.\"\n    \"Have your people maintain surveillance. Contact the Foundation the moment anything develops—we'll send reinforcements.\"\n    Irinei is rarely this cooperative, but Somme knows he can't stake the entire steppe's fate on so-called \"reinforcements.\"\n    \"No need. Ivan has enough manpower.\"\n    \"Assuming the Cavalry Corps can be fully trusted—I looked into Commander Ivan. He was a trusted subordinate to that former admiral. Plus, I heard they're both from the Don River region ...\"\n    \"I will handle him.\" Somme firmly cuts off his attempt at political maneuvering.\n    \"I hope you understand that the Don River region is a critical component of the Foundation's strategy. To ensure downstream stability and the safety of our new recruits, supporting the Cavalry Corps is our top priority.\" The leader of the Hawks leaves no room for argument.\n    \"Save it. Since 1999, I've dealt with more politicians like you than I've smoked cigarettes. The Don is just a crack in the dam. What really matters is the line of battle along the Black Sea and the Baltic Sea, right?\"\n    \"Stay in touch, Admiral.\"\n    After the call ends, Irinei straightens in his chair, drumming his fingers against the desk.\n    He begins to ponder: could this small \"crack\" pose a risk of total collapse?"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "101201",
+      "internal_title": "第十二章12-01.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "The Campaign's Tale"
+        },
+        {
+          "kind": "title_card",
+          "text": "Quiet is the River Bank"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sergey",
+          "text": "Did you see the bandits?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Not even a sign; just some chipmunks."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sergey",
+          "text": "*sigh* Think we should take a rest, Lieutenant? Sun's beating down, and we need to get the horses watered."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sergey",
+          "text": "We've gone quite a way farther than the assigned watchpoint. Even if we can push on, the horses can't. Never exhaust your horse, remember."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Fine. Take a break, team."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "And Sergey, if you shine the light off that telescope into my eyes one more time ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "The last thing you'll see is a missile to the face. Understood?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sergey",
+          "text": "Ahh. Understood, Lieutenant."
+        },
+        {
+          "kind": "title_card",
+          "text": "Riverside, Steppe"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Lieutenant Lilya retracts the telescope and hands it to Sergey. She hops off her horse and pulls a handful of oats from her saddlebag."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "War Horse",
+          "text": "*neigh*"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The horse snorts as it eats, then nudges Lilya's neck affectionately with its nose."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Hey, soldier, you want some more?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Just as she reaches for more feed, Sergey leans in."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sergey",
+          "text": "This your first time riding this horse, Lieutenant?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Yeah. He's a hungry fella."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sergey",
+          "text": "*chuckle* No, he's just greedy. Uses the same trick on all the new riders. If he wants something else to eat, he'll have to find it himself."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Oh, little liar, you heard him. No more oats for you. Go get some water."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Lilya pats its neck a little harder. Denied another bite, the horse lowers its head before giving Sergey a dejected snort."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Zeno Cavalryman I",
+          "text": "Leave him to me, Lieutenant."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Another soldier steps forward, unfastens the flying broomstick from its saddle, and leads the disgruntled horse down to the river for a drink."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Lilya sets the broom down beside her. In the unseasonably warm air, she catches a dry scent, sharp with river water and wormwood."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sergey",
+          "text": "This feels wrong, doesn't it? It really shouldn't be this warm. Ever seen a November like this, Lieutenant?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Yeah, but on the other side of the world. This is weird for sure."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sergey",
+          "text": "Usually, the snow would be thick by now. But this feels like early autumn still."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The newly enlisted cavalryman lifts a hand to wipe the sweat from his forehead, then points to the river, its surface glowing with a greenish light."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sergey",
+          "text": "The Don would usually be frozen over in the shallower parts, too. We'd be able to walk right over it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sergey",
+          "text": "The meander's just a little farther. Bereggrad would be too, if we could just cross it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sergey",
+          "text": "You been to the city?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The city. To the people of this steppe, these words mean Bereggrad."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Yeah. To go to the Foundation branch. Delivering letters, dealing with procedures. *sigh* Annoying stuff like that."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sergey",
+          "text": "Oh, speaking of letters, my townsfolk sent some back from the front. Seems they're on their way home."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Sergey shakes his head, seemingly unhappy with the idea."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "What, they beat on you or something?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sergey",
+          "text": "Why'd you say that? I couldn't be happier to have them home safe."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sergey",
+          "text": "It's just ... It should be farming season, but they'll come back to find nothing to farm."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He squats down and grabs a fistful of the grass beneath his feet."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sergey",
+          "text": "The weather was just right last year, but something went seriously wrong. It grew fast, tall too, but didn't make any seed at all."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sergey",
+          "text": "Our summer harvest was a complete disaster. The barns are almost empty. At least they won't starve to death at the front."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "But Manus Vindictae could strike at any time out there. Probably safer for them to come back."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sergey",
+          "text": "Do you think the Manus will reach the Don?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Hard to say. The main force is in Western Europe for now, but the Manus are like rats. Who knows where they might show up next."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The young Cossack scratches at the few thin hairs on his upper lip—the boy's best attempt at any kind of moustache."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sergey",
+          "text": "Ugh, I swear I did more fighting during training than in actual service."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sergey",
+          "text": "All I do is wait around for orders, and this one's just stupid. \"Find out where the bandits are hiding.\" Are you serious?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sergey",
+          "text": "You're telling me we have to find just a few dozen people who only come out at night somewhere in all this forest? They may as well have us search for a needle in a haystack."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Hm. So what do you think real war is like?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sergey",
+          "text": "Oh, I know what it's like. All the men in my family have fought on the battlefield: my grandfather, my father, and my brother."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He dodges the question, fixing his eyes on the flying broom Lilya always carries."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sergey",
+          "text": "Next ford's a few kilometers off yet. Why don't you just fly over and take a look?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sergey",
+          "text": "It'll be a heck of a lot faster. Be able to return to camp before dark."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Red 38 isn't fueled by grass like one of your horses, and its flight time is measured in minutes, not hours."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Or are you trying to keep me grounded if we get into a fight?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sergey",
+          "text": "I know! Why don't you teach me to fly a broomstick and apply for a new Su-01ве? Then we can take turns scouting."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Oh, I'd love to see your face when you fall from the sky, but I'd rather not tell your commander that his cavalryman broke a leg flying my broom."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sergey",
+          "text": "*chuckle* It's not like you're any better. If it weren't for Colonel Sternova, you'd have gone face-first in the dirt your first day on a horse."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sergey",
+          "text": "I, on the other hand, was regularly riding from my village to Bereggrad with sacks full of beets at half your age."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Broomsticks aren't horses. And if I catch you sneaking in to steal it at night, you're a dead man. Got it?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Zeno Cavalryman I",
+          "text": "You're right to warn him, Lieutenant! Sergey's been stealing since he was a kid."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The cavalryman returns with the horse just in time to join the verbal beating."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Zeno Cavalryman I",
+          "text": "Just last year, he tried to nab our fishnet. My grandpa caught him, of course. Nearly broke Sergey's hand when he wrestled it from him!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Zeno Cavalryman II",
+          "text": "Hahahahaha!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The other cavalrymen burst into laughter as Sergey's face flushes beet red. He turns away but barks a hasty rebuttal."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sergey",
+          "text": "Shut up! It's not like he ever used it anyway."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "But he can't stop the taunts. The cavalrymen take obvious delight in dredging up his old scandals one by one."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sergey",
+          "text": "Damn it! Stop making things up about me! Ugh, I can't stand it here!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sergey",
+          "text": "You know what? When I get back, I'm going straight to the commander to get transferred to the Prisklonnaya company."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Zeno Cavalryman I",
+          "text": "You mean the fifth company? Isn't their commander your old rival in love?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Even louder laughter erupts from the Cossacks."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Heh!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Ignoring their rowdy banter, Lilya lifts her gaze to the heavy clouds drifting beyond the river like white fortresses floating in the sky."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Dry, warm air sweeps across the plain, driving the floating castles forward and tugging at Lilya's sweat-soaked hair."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Tsk, already sweating. This heat's not normal. No one in the Foundation got the time to look into this?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Maybe they'll send Vertin? That wouldn't be so bad."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her eyes are drawn to the merging line between earth and sky—a view she could never have seen from the Foundation, hidden away in the mountains."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Then, along the slope, black figures burst into view, tearing ragged gaps into the horizon."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Hm? Sergey?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sergey",
+          "text": "Someone call me?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Me. You got the telescope, right? Hand it over."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sergey",
+          "text": "What's that, Lieutenant? I can't hear you!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "I said—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sergey",
+          "text": "Urgh!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A bullet tears through Sergey—the price for a moment of carelessness."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Damn it!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sergey",
+          "text": "Ah, ah! Ahhhhhh!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Before the cavalrymen can even react, Sergey has collapsed onto his back. The plain explodes into gunfire, screaming horses, and panicked shouts."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Among the chaos, Red 38 roars to life."
+        },
+        {
+          "kind": "title_card",
+          "text": "Above the Steppe"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Lilya kicks off, circling low to draw the enemy's fire."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Bandits! Across the river! Sasha, get Sergey behind the rocks!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "The rest of you, cover fire in this direction! Empty a clip, and mount your horses!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Zeno Cavalryman I",
+          "text": "C-Copy! What about you, Lieutenant?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "I'll take a little trip to their rear. Stand back! Wouldn't want to swallow my exhaust!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Seconds later, the battle-tested Su-01ве soars a hundred feet in the air, effortlessly carrying its pilot over her enemies."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Alright, let's see what you got."
+        }
+      ]
+    },
+    {
+      "script_id": "101202",
+      "internal_title": "第十二章12-01.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The brief exchange of fire ends quickly under air superiority. The riverside grows quiet again."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Lilya hovers above, keeping a bird's-eye view of the area."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Two bandits down, last three heading north. Looks like they're taking cover in the woods."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Only one injured, and Sasha's with him. Nothing to worry about there."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Rest are headed to the ford. They can deal with the downed two."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Lilya turns in the direction of the fleeing bandits."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "I'll find their hideout."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The shadows of the trees may veil the ground below, but they cannot stop the eagle that soars above."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Most of the yellowing leaves have been swept away by the autumn wind, leaving their slender branches thrusting out in all directions, like a sparse web strung up into the sky."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Come on. Can't you run faster? Wasting my time."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "For a pilot accustomed to the high speeds of the Su-01ве, this hunt is closer to herding livestock."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "At this rate, I'll have time to spare for a drink."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "...!!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A black cloud explodes beside her ear."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Then another. And a third. Hundreds of tiny metal fragments slice countless cuts into her clothes."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Triple-A? How the hell did they get that?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She drops down, flying so low that the tips of the branches nearly catch her as she presses on toward its source."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Just a little closer. Let me see what you're hiding in there!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Bare branches slice her view into fragments. Black smoke smears everything dark."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "But her determination grants her a fleeting instant, just enough for her to catch sight of a small glade where an anti-aircraft gun stands."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Gotcha!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She pulls the Su-01ве upward, driving it into the heavy clouds at a near-vertical angle."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Weapon's not from this era. No way bandits could get their hands on it. Yeah, there's no mistaking the model."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Automatic anti-aircraft gun 37—AZP-37. It's Zeno."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Need to report this to the commander. Vertin will want to know, too."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "*eek-eek-eek*"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Huh?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her broom's been hit. It's failing."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "No, no, no. Not now, buddy! At least get me clear of the woods!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "It's too late. She's already pushed the broom beyond its limits. She's falling fast."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "This is bad. Really bad."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Steady!"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

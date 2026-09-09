@@ -1,0 +1,561 @@
+{
+  "episode_id": 11324,
+  "chapter_id": 113,
+  "chapter_title": "他者的悲哀",
+  "display_label": "",
+  "title": "Her Reward",
+  "subtitle": "Walk free from the maze of lies and find a treasure as light as breath.",
+  "trails": [
+    {
+      "element_id": 1132401,
+      "owner_episode_id": 11324,
+      "trigger_episode_id": null,
+      "title": "Memorial Service",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=11324",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "It seems that just about everyone has accepted that death must inevitably follow the rain."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "But not you. How many loved ones have you lost? You keep count, don't you?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "The same tragedy has played out over and over again ever since your \"Acting Principal\" first brought you into that stark gray building. Do you really think anything can be done for them?"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "This will be the last time",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "It won't—not yet; this isn't the last golden thread you'll follow. More will come. More upon more until you can't see anything else."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Then you'll wind up just as blind as she was ..."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "But I don't say that to scare you. You're lucky. Someone will always be there to show you the way."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "I've said it before: anyone who has forgotten their own name is as good as dead."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "But that might not always be the case, if that's any comfort."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "It's far easier to help someone remember what they've once forgotten than it is to bring the dead back to life."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "But that just means the burden on your shoulders is all the heavier."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "You'll carry that weight until it breaks you. So, why not just save the world instead?"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Dead or alive—drag them all into that magical Suitcase. It'll save you some trouble, and you'll get to be the savior you've always wanted to be."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "But if you can't save them all, the least you can do is remember their names for them."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "The rain has fallen on some more than others; each time it washes something away. In the end, who they are and who they become will be up to you."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "They're still alive somewhere",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1132402,
+      "owner_episode_id": 11324,
+      "trigger_episode_id": null,
+      "title": "Ambush Strategy",
+      "description": "The fastest way to breach a fortress is to open the gate from the inside.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=11324",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "Investigation Report from Ms. Stranger"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "[Top Secret|Authorized by the Pre-Storm Dispatch Center & Ad Hoc Investigation Committee]\n[Case ID: ███-██-████]\n[Date: █-█-█]\n\nCase Briefing and Jurisdiction Statement\n    This report documents the attack carried out by Manus Vindictae (hereafter \"the Attacker\") against Foundation headquarters and the SPDM (hereafter \"the Targets\") prior to the 11th \"Storm.\" The investigation was conducted by the Pre-Storm Dispatch Center and the Ad Hoc Investigation Committee under the relevant clauses of the Emergency Defense Code of St. Pavlov Foundation to analyze and determine the attack's route of entry and the cause of the internal defense's collapse.\n...\n\nIII. Attack Method and Scene Reconstruction\n    The Attacker used an unregistered arcane array (technical codename: \"Windweave\") to bypass all surveillance and defensive measures at the target site, striking directly at the facility's interior.\n    Phase 1: A small advance unit led by \"Lyra\" arrived at the target site and began infiltration, lowering the guard of personnel inside through the following means:\n    1. False Support: A Manus Vindictae member (suspected to be \"Lyra\") used a false identity to approach multiple Foundation members and their close contacts, earning their trust. During the \"Storm\" countdown, she successfully manipulated several headquarters staff and individuals with prior refugee experience into following her instructions and opening access to the facility. Manus Vindictae members also used arcane skills to attack the personnel and facilities of the defense surveillance department, rendering the surveillance systems inoperative.\n    2. Defense Breach: Under arcane control by Manus Vindictae, captured personnel were turned and used as inside operatives, guiding the Attacker past the main defensive network and destroying the base defense systems, weapons stocks, and alarm systems.\n    3. Temporary Line: The advance unit and inside operatives set up the \"Windweave\" array within the target interior, completing preparations for the second wave of attack. Once the array was in place, the main force of Manus Vindictae arrived at the target ...\n...\n\nIV. Witness Testimony and Evidence Record\n    Witness #09 Testimony (Engineering Department, Senior Researcher): \"I saw Nancy Sur standing in the doorway. It wasn't her shift, so I went over to ask about it. She started saying things like, 'Such beautiful weather, and yet we're still here—history really did get it wrong,' and 'Rewrite the score, sound the anthem, welcome humanity's rebirth' ...\"\n    Witness #47 Testimony (Human Resources Department, Clerk): \"These traitors were among the finest when it came to justice and order ... but then again, maybe that's why they'd rather admit they were guilty than admit that surviving was just luck.\"\n..."
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "101339",
+      "internal_title": "第十三章13-24",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "Her Reward"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The Committee Building's southern garden has, for the most part, been restored to its pre-battle state."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The occasional staff members hurry across it, sending shivers down the branches of the newly-planted saplings."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "They've already finished rebuilding here."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Stranger",
+          "text": "The garden was easy. All it took was transplanting a few plants. I hear the gardeners have been enjoying experimenting with the local flora from the new era."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Stranger",
+          "text": "But that can't be said for everywhere. Building 5 will take some time."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "I've heard the Foundation is borrowing offices from Laplace just to keep things running."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Stranger",
+          "text": "Yes. A development I doubt Laplace is thrilled with—giving up office space and facing a near-certain budget cut next season."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She smiles genuinely, no longer hindered by double meanings hanging off the corners of her lips."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Oh. I remember you mentioned you were looking for ideas for a new name? Any luck so far?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Stranger",
+          "text": "I was flipping through one of those baby name books earlier. I found a few contenders, but I couldn't decide."
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "Something elegant is best.",
+          "edge_label": "我觉得华丽一点会更好",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "Ms. Stranger",
+              "text": "Hmm, like Astrid, Seraphine, Eleonora, or Ingrid."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "Ms. Stranger",
+              "text": "They all sound lovely, if a little over the top."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "Something simple is best.",
+          "edge_label": "我觉得简单一点会更好",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "Ms. Stranger",
+              "text": "Like Alva, Ísól, Ella?"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "Ms. Stranger",
+              "text": "But none of them feel like me. I suppose I have a right to be picky this time."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "Do you have any preference?",
+          "edge_label": "你有喜欢的名字吗？",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "Ms. Stranger",
+              "text": "They're all nice, I suppose, with deep meaning and presence. I just don't know which suits me best."
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Stranger",
+          "text": "In a way, the idea of having a new name is kind of strange, exciting, but frightening at the same time."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Stranger",
+          "text": "And I worry there isn't any kind of name that will ever feel right."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Stranger",
+          "text": "Perhaps I'll stay a stranger. A stranger can be anyone, after all."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Stranger",
+          "text": "What is it, Vertin?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Oh. Nothing. I just sensed something different about you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Stranger",
+          "text": "Something wrong, you mean?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "No. Quite the opposite. You seem more alive than ever."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Stranger",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She averts her eyes only to catch Madam Z's approach."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "Leaving already?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Yes, ma'am. There's no use waiting around here. We should head out and explore the era."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "On the topic of exploring, you never said what you were hoping to find."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Merel."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "I've seen so many people vanish in the \"Storm,\" but this time it was different. I saw a golden thread just before she disappeared."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "You have my permission to head out. But we must talk more on that when you have time."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Ms. Stranger decides to insert herself into the conversation."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Stranger",
+          "text": "Madam Z, is there any news about my application?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She raises this question with some anxiety."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "Yes. The vice president and I have spoken."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Stranger",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "Considering the sensitivity of your role in the Foundation, if you leave your post, your record here must be entirely erased."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "All your past achievements and contributions will be expunged from our records, including the sacrifice you made in closing the \"Windweave\" portal."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Stranger",
+          "text": "That all means nothing to me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She senses some room for negotiation in Madam Z's tone and broaches the topic with a spark of hope."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Stranger",
+          "text": "After everything I've done for the Foundation, this is the only thing I want in return."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "You do understand the Timekeeper's team is still part of the Foundation? Vertin reports to me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Stranger",
+          "text": "Of course. I don't expect to be cut loose entirely. Working with the Timekeeper is more than enough."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Stranger",
+          "text": "I just want to live my own life, as an arcanist under the Timekeeper."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "Of course."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "Then it's settled. From this day on, you're a member of Team Timekeeper."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Stranger",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Thank you, Madam Z."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "I'm not in a position to speak on behalf of the Foundation, Ms. Stranger."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "But if only for myself, I'll never forget what you did for us."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Creius",
+          "text": "Gone? All of them?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Irinei",
+          "text": "I'm afraid so."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Irinei sinks into his seat, avoiding matching his eyes with Creius's."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Irinei",
+          "text": "The First Squad never reached the school and hasn't returned since."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Irinei",
+          "text": "There's been no sign of them since their last report before the \"Storm.\" The entire convoy just vanished."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Creius",
+          "text": "And my squad?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Irinei",
+          "text": "Gone too."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Irinei",
+          "text": "Our preliminary reports suggest they encountered an ambush in the mountain pass, and that Igor's troops were present. It's possible they were captured. That, or they defected."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Creius",
+          "text": "Igor ... I have to go after them."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Irinei turns his head, at last willing to look at him."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Irinei",
+          "text": "The Foundation has postponed your trial, Creius, given your prompt response during the attack and, frankly, the Foundation's manpower shortage."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Irinei",
+          "text": "The Committee has also decided to sustain your command of the \"XII\" Squad. Though at present, it only consists of your medic."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Irinei",
+          "text": "We leave you to your discretion to plan your next move, which might include, for instance, searching for the rest of your team."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Creius",
+          "text": "Don't say it like you're doing me a favor. This was a part of our deal."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Creius",
+          "text": "I take the blame. You keep me free."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Irinei",
+          "text": "Of course. It's all reciprocity."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Irinei",
+          "text": "One more thing. Our tracking devices haven't been able to locate our \"subjects\" in this era."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Irinei",
+          "text": "In other words, the tracking serum has failed. And it appears the vessel ensoulment reagent didn't work on your rookie either."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Irinei",
+          "text": "The Timekeeper is setting out soon. She seems confident she can find Merel."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Creius",
+          "text": "The Timekeeper has ways to locate her even without the tracking serum?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Irinei",
+          "text": "Her abilities are far from ordinary. You should know that by now."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He shakes his head. Creius sees the gesture for what it truly is: nerves."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Irinei",
+          "text": "Listen. You're at liberty to search for your soldiers however you like, but you must remain on the tracking serum project."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Creius",
+          "text": "I aim to do precisely that. I never leave a soldier behind. In the meantime, I'll try to make contact with the Timekeeper—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Irinei",
+          "text": "You may want to reconsider that, Creius. She's unlikely to be an ally in our goals."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The board has been reset. A new game has begun."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Creius",
+          "text": "The attack may have thrown us off stride, but we'll regain control within the Foundation before long."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Creius",
+          "text": "If the Timekeeper won't work with us, then we proceed in our own way."
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

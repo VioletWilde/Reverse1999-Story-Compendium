@@ -1,0 +1,459 @@
+{
+  "episode_id": 10305,
+  "chapter_id": 103,
+  "chapter_title": "故事一无所有",
+  "display_label": "",
+  "title": "深梦境",
+  "subtitle": "三角体、立方体，我看见粉碎的身体，我看见你的头是一枚漂亮的菱形。",
+  "trails": [
+    {
+      "element_id": 1030501,
+      "owner_episode_id": 10305,
+      "trigger_episode_id": null,
+      "title": "小径① 为沉眠者",
+      "description": "不知身在何处，漫无目的地游荡。他看见过一切，至今尚在梦中。",
+      "action": "教学记录",
+      "unlock_condition": "EpisodeFinish=10305",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1030502,
+      "owner_episode_id": 10305,
+      "trigger_episode_id": null,
+      "title": "拗口的童谣",
+      "description": "需要一颗小小的橡子，来了解一棵有名字的树。",
+      "action": "交互",
+      "unlock_condition": "EpisodeFinish=10305",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "拗口的童谣"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "乔治橡树，乔治橡树，\n枝丫间的橡子，从高处坠落。\n幼雀飞进了大理石笼，\n小小的橡子啊，帮帮它们。\n\n乔治橡树，乔治橡树，\n袋子里的橡子，被孩子拾起。\n白色的巨伞给予庇护，\n高高的树冠啊，帮帮他们。\n\n乔治橡树，乔治橡树，\n埋起来的橡子，在土中沉睡。\n微弱的萤火渐渐靠近，\n深深的树洞啊，帮帮他们。\n\n乔治橡树，乔治橡树，\n橡子生了根，静待破土。\n匣子化为了一尾孤舟，\n自由的微风啊，帮帮他们。"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100305",
+      "internal_title": "第三章3-5.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "深梦境"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛蒂尔达",
+          "text": "呼……呼呼……放轻松，放轻松……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛蒂尔达",
+          "text": "我没有跟踪任何人，我只是正常地在走廊里散步，是她、那个坏心眼的家伙——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛蒂尔达",
+          "text": "是她非要扑过来！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛蒂尔达",
+          "text": "呜……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛蒂尔达",
+          "text": "我逃走的时候一定狼狈死了……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛蒂尔达",
+          "text": "我只是想告诉她我占卜出来的预兆……她和维尔汀带回来的朋友可能会有危险……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛蒂尔达",
+          "text": "唉，不知道维尔汀什么时候才能醒过来呢。她以前……勉强也算是个了不起的人……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛蒂尔达",
+          "text": "更何况，现在、现在还是十四行诗的上司！呜，我都不知道该生气好还是该伤心好了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛蒂尔达",
+          "text": "十四行诗肯定很担心维尔汀吧……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛蒂尔达",
+          "text": "要是我也能帮上一点忙就好了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛蒂尔达",
+          "text": "好久没见面了，她的头发好像长长了一点，闻起来也香香的……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛蒂尔达",
+          "text": "嗯？！我在说些什么啊——？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛蒂尔达",
+          "text": "快闭嘴，快闭嘴，你可是要打倒第一名的玛蒂尔达！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她刚回过神来，就听到不远处有金属片碰撞的响动。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "随之而来的，是一阵没什么温度的风。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "头颅……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "虚弱的声音从她身后传来。那是一个身着病号服的男人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛蒂尔达",
+          "text": "……！你是谁？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "……你的头颅快要掉了，我想帮你捡起来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛蒂尔达",
+          "text": "你在胡说八道什么？你是这里的病人？你的护工呢？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "病人",
+          "text": "呜呜……我看见了，我都看见了。所有人的身体都碎掉了，三角体、立方体……你的头是个漂亮的菱形……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "病人",
+          "text": "我不能让你的菱形也掉下来。你要保护好你的耳朵……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "玛蒂尔达后退了几步。她注意到病人脖子上套着一个铁圈，那是康复中心常见的治疗用辅助工具。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "病人拎着一大串钥匙，尖锐的部分沾了红色。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "好运的是，明黄色的求救铃就在他背后的几米开外。玛蒂尔达深吸了几口气。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛蒂尔达",
+          "text": "谢谢你的提醒，我会保护好我自己的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛蒂尔达",
+          "text": "你看，这是我的水晶球。你来摸摸看，它是什么形状的？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "病人",
+          "text": "这是……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "病人",
+          "text": "——呃啊！！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他的手指变得灰白，这是冻伤的标志。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "病人",
+          "text": "啊——！！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他抓起钥匙，就像抓起数片利刃，失控地冲过来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛蒂尔达",
+          "text": "哼，不知悔改！你打伤了护工，抢走了钥匙，本教员有义务终止你的危险行为！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛蒂尔达",
+          "text": "愿和平与我们同在！"
+        }
+      ]
+    },
+    {
+      "script_id": "100306",
+      "internal_title": "第三章3-5.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "我们的朋友被“暴雨”带走了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "事实上，我们都以为自己做好了心理准备，但是……她的告别，太突然了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小梅斯梅尔",
+          "text": "最后只剩下了一件衣服？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "……是的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "我查了1929年所有在美登记的神秘学家名录，她们一家人的名字都不在上面。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "她是格雷克的亲生女儿，斯奈德是她的假名。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "我还没有查清楚具体的原因，但她确实是一个……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "十四行诗看起来困惑而痛苦。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "能使用神秘术的人类。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小梅斯梅尔",
+          "text": "嗯。感谢你的分享。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小梅斯梅尔",
+          "text": "这对我的病情分析有些帮助。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "小梅斯梅尔迅速在报告上画了几笔。椅子转了两圈。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小梅斯梅尔",
+          "text": "司辰的创伤等级被评估为Ⅱ型，你知道这意味着什么吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "我对心理学的了解不深……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小梅斯梅尔",
+          "text": "她曾经反复遭受过相同的创伤事件。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小梅斯梅尔",
+          "text": "尽管她的行为和认知上没有出现任何障碍，甚至在我们将她摁倒，戴上头盔时，她还以一种极为冷静的态度来劝告我——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小梅斯梅尔",
+          "text": "“我服从你们的判断，但这只是暂时的。”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小梅斯梅尔",
+          "text": "……毕竟是“越狱事件”的头羊。这点小叛逆对她来说称得上是客气。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "我以为……司辰是因为情绪不振才需要治疗的。但你刚刚说，你们摁倒了她……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小梅斯梅尔",
+          "text": "喔，那只是针对这个结果的不同说法。我们要做的，只是保证维尔汀失去意识。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小梅斯梅尔",
+          "text": "这是委员会副会长康斯坦丁亲自下达的指令。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小梅斯梅尔",
+          "text": "高层的命令是综合所有理性判断，权衡利弊后的成果——你不会质疑人类的理性吧？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "不会。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小梅斯梅尔",
+          "text": "我们志同道合。这也是为什么我会愿意与你分享这些有趣的细节。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小梅斯梅尔",
+          "text": "当然，如果你是个纯血的人类，我一定会更欣赏你。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她的椅子转了回去，面向人工梦游仪器。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小梅斯梅尔",
+          "text": "维尔汀的磁场一直处在一种奇妙的平衡之中。她几乎从不主动做梦。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小梅斯梅尔",
+          "text": "因此，我只能不断地调用不同的梦境，来查找创伤事件的原型。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "——你预计这次的治疗，什么时候结束？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小梅斯梅尔",
+          "text": "任何时候。只要我收到新的命令。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "十四行诗猛然站了起来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "所以这一切都与司辰的健康无关。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小梅斯梅尔",
+          "text": "是的。你怎么了，十四行诗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "……我、我也不知道。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "抱歉，我刚才有点激动了。我只是感觉到有点不太舒服……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "我说不上来。或许是我早晨吃坏了什么东西。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小梅斯梅尔",
+          "text": "如果实在难受，你就先回去吧。不要勉强自己。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "谢谢。请您照顾好司辰，我先走了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "小梅斯梅尔不解地望着十四行诗离开。她不自觉地调整了袖口上的纽扣。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "仪器上的显示屏，突然亮了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "粒子群来回流窜，这是一个自主发起的梦境。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小梅斯梅尔",
+          "text": "咦？"
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

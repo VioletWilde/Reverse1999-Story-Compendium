@@ -1,0 +1,527 @@
+{
+  "episode_id": 3210120,
+  "chapter_id": 32101,
+  "chapter_title": "迁流的盛宴",
+  "display_label": "",
+  "title": "平凡的日子",
+  "subtitle": "分享秘密是同谋的开始。",
+  "trails": [
+    {
+      "element_id": 3210106,
+      "owner_episode_id": 3210120,
+      "trigger_episode_id": null,
+      "title": "敞开命运的门扉",
+      "description": "有些预言遥遥无期，有些预言即刻兑现。",
+      "action": "交互",
+      "unlock_condition": "EpisodeFinish=3210120",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "即刻兑现的预言"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她一定预见过这个场景。\n    眼前的灰黑色大理石板，它们平直有序的线条和脑中的场景逐渐重合在一起。访客们的轮廓与水晶球中的预兆无比接近。黑框的眼镜，黑色的眼睛，她比印象中的更温和，也更坚定。蓝色的礼帽，冷漠的表情，早已在孩童时代就熟悉的朋友。\n    还有……还有一只小鸭子，正扑着翼，急匆匆地飞上台阶，小皮鞋啪嗒啪嗒响，撞到了人也不道歉……一层，两层，长长的走廊，她从没觉得基金会的楼有这么大……不需要问路，不需要打听，笃定地奔跑，气喘吁吁……\n\n    “不用关门，维尔汀，很快还会有人抵达。”她轻声提醒。\n    蓝礼帽将眼神投向黑眼镜，后者点头应允。\n\n    急促的脚步声由远及近，与喘息声一同到达，省去了擂鼓般敲门的步骤，虚掩的门被径直推开——\n    “哈！妈妈！呼……我就知道你在这儿！”"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 3210107,
+      "owner_episode_id": 3210120,
+      "trigger_episode_id": null,
+      "title": "伪证的反义词",
+      "description": "她面不改色，心率正常，证词没有丝毫矛盾之处。",
+      "action": "对话",
+      "unlock_condition": "EpisodeFinish=3210120",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "您好，请问您来到只有灰烬的破屋要做什么？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "这里没有学校或是游乐场，像您这样打扮体面的人不该在这里。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "我不认识你",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "我不是什么名人，一个擅自出现在我面前的人应该不认识我。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "而且您没有必要知道我是谁。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "我对出名没有任何兴趣，名声只会让我被更多的人骚扰。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "那么我们达成了共识。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "我也不喜欢这满是铁锈味和焦臭的环境。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "哪怕一条蛆虫都会为了爬出这里而产生斗志。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "可惜，现在全世界都没有好日子过，害得我无处可去，必须得忍受这片废墟。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "而您恐怕也得和我一起忍受，真是可悲。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "跑到世界的尽头打了一场不知所谓的仗，战利品却只有一台破烂纺车。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "然后呢？他们收走了那辆纺车，和那个半死不活的人一起，再把您送到下一个战场。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "我衷心希望那辆纺车中有着拯救全世界的线索，也许一个停战布告，或者别的什么。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "那样您就可以赶在战死前去找另一份工作，也许做个钟表匠之类的。"
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "战争会结束的",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "我暂时没话想说了，可以请您让我一个人待一会么？"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "没有茶和点心给任何客人，我已经想不起那些东西的味道了。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "您就随便享受下战争吧。反正这场结束之后还会有下一场，务必不要吝惜，去吧。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "我暂时没话想说了，可以请您让我一个人待一会么？"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "没有茶和点心给任何客人，我已经想不起那些东西的味道了。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "您就随便享受下战争吧。反正这场结束之后还会有下一场，务必不要吝惜，去吧。"
+                }
+              ]
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "我有我的目的",
+              "edge_label": "",
+              "branch": []
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "这里确实没什么好风景",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "203229",
+      "internal_title": "【3.2】迁流的盛宴20",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "夜巡局·审讯室"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "执夜人",
+          "text": "让我确认一下，也就是说……第五次“暴雨”是重塑之手导致的灾难。你就是他们罪行的证人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "执夜人",
+          "text": "但贝丽尔·布翁尼与重塑之手没有任何关系。\n她是救了你的恩人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "灰调蓝",
+          "text": "没错。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "黑镜中雾气退去，露出了受审者清晰的模样——她所言非虚。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "执夜人",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "执夜人",
+          "text": "之后发生了什么？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "灰调蓝",
+          "text": "我按布翁尼女士说的，来到了能够躲避那场“暴雨”的避难所。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "灰调蓝",
+          "text": "路上雨越下越大，但幸好我们及时赶到了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "灰调蓝",
+          "text": "只是我那辆小车里来不及、也没办法装下更多人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "灰调蓝",
+          "text": "……现在远方仍有一座巴黎城，但那里已经不是我的故乡了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "灰调蓝",
+          "text": "我珍视的一切都被命运的洪流吞没……哈，就和那个预言一模一样。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她用一声轻笑为这场讲述画上了句号，小房间内安静了一会儿。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "灰调蓝",
+          "text": "接下来的事情你们已经都知道了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "灰调蓝",
+          "text": "多亏布翁尼女士的帮助，我才没有流落街头。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "灰调蓝",
+          "text": "那些我曾熟悉的街道和人都变了，但幸好我的车还在身边。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "灰调蓝",
+          "text": "比起呆在安全的住处里悠哉度日，我还是更喜欢上街兜兜风。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "灰调蓝",
+          "text": "布翁尼女士因为工作关系，常需要到处跑，我在那之后就一直跟在她边上帮忙。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "灰调蓝",
+          "text": "前段时间我还和她一起去了一趟德里，帮她卖掉手里的黄水晶……对了，我还在那里认识了她的女儿玛蒂尔达。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "灰调蓝",
+          "text": "她们母女的性格真是完全两样，玛蒂尔达小姐把什么都写在脸上。必须说，我和她更合得来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "灰调蓝",
+          "text": "不过布翁尼女士和我刚认识她那时候相比，也有了不小的变化。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "说到这里，她顿了顿。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "灰调蓝",
+          "text": "我觉得……她变得更像是个活人了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "谈话又持续了一段时间才宣告结束。待节奏匀整的脚步声远去，房间内归于寂静。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "副手",
+          "text": "……看来贝丽尔·布翁尼没有问题，至少她亲自带回来的这位幸存者一无所知。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "副手",
+          "text": "她这几年一直跟在布翁尼的身边，如果布翁尼有什么可疑的地方，不太可能瞒得过她。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "黑鹮",
+          "text": "这可不好说。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "声音来自房间中被阴影笼罩的角落，整场问询中，他的这位上司都始终保持着沉默。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "副手",
+          "text": "你不相信测谎仪的结果？这可是最新的仪器。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "黑鹮",
+          "text": "机器总会出错，我更相信自己的直觉。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "执夜人从阴影中走出，来到方桌旁，伸手敲了敲桌面上那台价格不菲的“最新仪器”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "黑鹮",
+          "text": "她一定有所隐瞒。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "副手",
+          "text": "关于第五次“暴雨”中发生的事吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "黑鹮",
+          "text": "也包括如今布翁尼忽然旧事重提的原因。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "黑鹮",
+          "text": "第九次“暴雨”后，她毫无征兆地失踪，谁也找不到她的下落……可谁能想到呢？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "黑鹮",
+          "text": "她居然就这样若无其事地回来了——带着一条“不得了的消息”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "空洞的走廊里徒立着一个人，本该一片寂静。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "耳畔的声音",
+          "text": "太蹩脚了，你犯了不止一个错误。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "耳畔的声音",
+          "text": "你简直就要把“我在说谎”写在脸上了。要不是我，你早就被抓包了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "灰调蓝本不打算理会，但那个声音喋喋不休。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "灰调蓝",
+          "text": "……你是要我感谢你吗，费利西安？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "灰调蓝",
+          "text": "别以为我不知道，你只是不想自己的事暴露给基金会而已。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "灰调蓝",
+          "text": "不要在圣洛夫基金会的设施里和我说话，谁能保证没有人在监视我们？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "费利西安",
+          "text": "你不把话说出口我也能够听到，就像现在这样。\n这是什么很难的事吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "灰调蓝",
+          "text": "万一我下意识地露出破绽了呢？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "灰调蓝",
+          "text": "毕竟我不像你，压根就没有嘴了，所以没有这个烦恼。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "左手处传来一声冷哼，沿着骨骼攀至脑中。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "费利西安",
+          "text": "我发现你对我越来越无礼了，但对那个女人倒是乖顺得很。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "费利西安",
+          "text": "我告诉过你，和我一起去面见引导之人才是你最好的归宿——你不听。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "费利西安",
+          "text": "如果你选择投靠基金会也就罢了。最多是见识浅薄，看不清局势，犯了和所有乌合之众一样的错误。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "费利西安",
+          "text": "——可你偏偏把所有注都下在那个女人的身上！\n真是个疯子，你就那么相信她？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "脑海中的怒骂未能激起预想中的激烈辩驳。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "灰调蓝",
+          "text": "……我相信贝丽尔女士，因为她是我最好的选择。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "灰调蓝",
+          "text": "她的判断是对的，时机到了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "房门被敲响。间隔几秒后，门内传来幕僚长的回应。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "哪位？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "是我，维尔汀。我想询问外勤申请的审批进度。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "能耽误您一些时间吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "往常这扇门总是会第一时间为她打开，但这次她却等待得稍久了些。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "请进，维尔汀。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "推门而入，来宾用的革质沙发上正坐着一个陌生的身影。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "我们终于见面了，维尔汀。玛蒂尔达常提起你。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "同窗的名字唤起了记忆，面前女子精致的五官与另一张更加生气勃勃的面孔重叠在了一起。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "您是……贝丽尔·布翁尼女士？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "看来我们能省去自我介绍环节了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她的笑容柔和而亲切，眼里却没有带上同样的笑意。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "你也曾见过金色的纺线，对吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "迁    流    的    盛    宴 \nA  F l o w i n g  F e a s t"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

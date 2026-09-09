@@ -1,0 +1,1044 @@
+{
+  "episode_id": 11203,
+  "chapter_id": 112,
+  "chapter_title": "远征记",
+  "display_label": "",
+  "title": "Intersection",
+  "subtitle": "The currents converge here.",
+  "trails": [
+    {
+      "element_id": 1120301,
+      "owner_episode_id": 11203,
+      "trigger_episode_id": null,
+      "title": "Imprint",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=1203",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Ah, we meet again—though it isn't much of a surprise."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Your move from the Western Front to the eastern one is utterly predictable."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Running around like a lost chick, following after her mother hen—or really anything big enough to grab your attention."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Will you ever learn to stand on your own? When will you grow up?"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "When I find her.",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "And then what? Watch her disappear again?"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "You're not an idiot, so why do you keep making the same mistakes?"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "You aren't the type to find joy in running on a treadmill, are you?"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Then again—maybe you are that type after all, at least when it comes to chasing fashion."
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "Is the concept of family so strange to you?",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "What's that supposed to mean? Of course I understand family. I know what \"love\" is!"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "She attended to your every need when you were still wet behind the wings. You depended on her, clung to her—because your very survival demanded it."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "Then one day, she was gone from your life. You had to fly on your own, do your own chores. You wept over the \"good old days\" of comfort and being cared for—oh, poor birdie."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "But the truth is, that care and affection were nothing more than her way of feeding a sick obsession with control. That's what \"love\" is—shallow as a birdbath!"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "I was \"loved\" once. I \"loved\" others, too. I've experienced it firsthand, and I understand it as well as anyone!"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "Ah..."
+                }
+              ]
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "She's key to saving the world—that's what you're saying? I'm tired of it."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Tired of sick jokes like this, with self-important ideologues bragging about securing a bright future for everyone."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "You hear any cheers or laughter? Nope—because everyone who believed in their causes already died fighting for them."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "If you ask me, we should hang some of those \"big shots\" in public. It wouldn't bring peace, of course, but maybe the rest of us would feel a little relief ..."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Come, take a seat. I've set your favorite chair facing east."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "The view's better that way, not to mention that the river helps wash away the stench of corpses."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "She's more than just a mother.",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1120302,
+      "owner_episode_id": 11203,
+      "trigger_episode_id": null,
+      "title": "Attached Files",
+      "description": "Whether friend or foe, it never hurts to understand them first.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=1203",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "A Tea-Scented Letter"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Dear Vertin,\n    I hope this letter finds you well.\n    I'm sorry I won't able to see you off—things have piled up due to factional disputes within the Foundation. We live in such chaos that even an organization as self-professedly rational as the Foundation cannot avoid being swept into the political whirlpool. I wish you safe travels to the Eastern Front.\n    I've enclosed a copy of Commander Ivan Ivanovich Burakov's file. You're about to enter the jurisdiction of the Zeno Cavalry Corps. Ivan and Igor have known each other since childhood. Both come from an old village downstream of the Don, yet fate drove them apart along the same muddy roads. They once commanded two separate units within Zeno, nominally independent but with an unspoken understanding that lingered between them.\n    Commander Ivan is difficult to gauge. According to the records, he's plainspoken and awkward in social settings, which has earned him Admiral Somme's high praise as a \"loyal and trustworthy\" man.\n    However, I must caution you: don't place complete trust in him. Hearts rust in wartime, especially those of soldiers who've endured betrayal and hard choices. Moreover, the bond between Ivan and Igor may pose hidden risks. In times like these, you'll have to weigh trust and suspicion for yourself.\n    Winter is coming to the Don. The damp cold settles heavily over riverside cities this time of year. Along with the file, I've included several packets of ginger tea. Steep it in hot water and drink—it helps ward off the chill.\n    Stay in touch if you can.\n    Safe travels.\nZhang Zhizhi\nNovember 25, 1920"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "101204",
+      "internal_title": "第十二章12-03.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "Intersection"
+        },
+        {
+          "kind": "title_card",
+          "text": "Perevoznaya"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Young Villager",
+          "text": "You fell off your horse? Haha, I wouldn't worry. I bet even the mighty Ataman has fallen once or twice."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The young man in uniform comes to the tall, fruitless pear tree Merel is seated under and offers her a bowl of steamed rice mixed with wheat. She gazes at him longingly."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Young Villager",
+          "text": "Here you are. Thanks again for helping my uncle with his cart. I know it's not much, but this is all we have right now."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "I ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She reaches out a hand, then pulls it back awkwardly."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "I'm sorry. I thought I heard you had a strong harvest this year."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Young Villager",
+          "text": "The past few years were good. It's true. People had to leave to fight, but the land still blessed us."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Young Villager",
+          "text": "But this year has been strange. Certainly the winter. Soon after planting, the wheat grew wild. The fields are gold, yes, but there's no grain."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Even as he speaks of the failed crops, he still hands the bowl to Merel."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Young Villager",
+          "text": "Eat. You look starving. I've enlisted with the cavalry. There will be plenty enough food for me there."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "The cavalry?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Young Villager",
+          "text": "The Zeno Cavalry."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "...?!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Merel forces her cry of \"Zeno\" down, lowers her head, and begins to eat."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The young man turns toward the shadow that has been hiding behind the tree."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Young Villager",
+          "text": "Are you sure you wouldn't like any food?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Charon",
+          "text": "I need no sustenance. Thank you for sharing the little food you have left. How may this kindness be repaid?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Young Villager",
+          "text": "Ah, no need. I'll be leaving soon, and there's no work to do right now."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Young Villager",
+          "text": "You have a beautiful horse. Wish I could have one as lovely as him. Oh, don't get me wrong. I'm not asking for him."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Zeno Conscription Officer",
+          "text": "Alexei."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A commanding voice stops the new recruit mid-sentence."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Zeno Conscription Officer",
+          "text": "What are you dawdling for? The team is leaving. Who are you talking to?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Young Villager",
+          "text": "Just two refugees, sir."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The conscription officer steps forward, his eyes lingering on the strange man covered in white cloth."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Zeno Conscription Officer",
+          "text": "Refugees? From where?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "F-From Poland. I was looking for a friend there, but because of the war, I couldn't find ... um ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She stammers, blinking wildly over her clumsy lie."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Fortunately, the officer is too distracted to notice her embarrassment."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Zeno Conscription Officer",
+          "text": "Arcanists, aren't you? We could use your talents in the Zeno Cavalry. Room, board, and meals provided."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Charon",
+          "text": "Apologies, sir. I am only a wanderer. There is no desire to join any party within me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "A-And I-I don't have any talents at all, officer. Sir, I can't even hold a gun."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Another lie erupts from her—another bid to escape desperate times. But the conscription officer takes no interest."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Zeno Conscription Officer",
+          "text": "Then you'd better leave soon. This place is crawling with bandits."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "Bandits?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Zeno Conscription Officer",
+          "text": "Brigands, raiders, ruffians. You didn't bump into any on your way here? Lucky dogs. Though you can thank the Cavalry Corps for that."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Zeno Conscription Officer",
+          "text": "But even with our efforts, the situation's been getting worse. Somehow, they've got new weapons. We might be facing a serious battle."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "Even all this way away, there's still fighting?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Zeno Conscription Officer",
+          "text": "The flames of conflict burn everywhere. This is why I'm asking you to join us. Zeno needs new blood if we're to ever know peace."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Zeno Conscription Officer",
+          "text": "If you change your mind, come to our camp. It's downstream of the Don, past the city."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The conscription officer turns around. Just then, a dozen newly enlisted Cossacks gather behind him, standing in the little groups of those they know."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "They show off their new uniforms, competing over who takes better care of his horse and whose shashka has the most legendary history."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Zeno Conscription Officer",
+          "text": "Quit milling around like chickens and form rank—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Zeno Cavalryman",
+          "text": "Sir!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A fully armed cavalryman gallops in from outside the village, plunging himself between the panicking ranks of recruits."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Half of his body is smeared dark with blood, the horse beneath him snorting heavily."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Zeno Cavalryman",
+          "text": "Bandit cavalry incoming. The size of a platoon! What do we do?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Zeno Conscription Officer",
+          "text": "Can you still ride?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Zeno Cavalryman",
+          "text": "Yes, sir!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Zeno Conscription Officer",
+          "text": "Then hurry to the sich and report this. The rest of you form a blockade. Do not allow the bandits to enter the village."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Zeno Cavalryman",
+          "text": "Sir, yes, sir!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The conscription officer scans the area. The unsettled young cavalrymen, enlisted less than half an hour ago, look to him as if he is their only savior."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Zeno Conscription Officer",
+          "text": "Rookies, there is no escape! Turn your back to the enemy, and they will take the opportunity! Take up your weapons! Protect your families!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The boys shake off their scared looks, leaving their huddled groups and shouldering their weapons, albeit a little clumsily."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "What? Bandits?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "As Merel's mind goes blank, she feels Charon press the reins into her hands."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Charon",
+          "text": "Let Andreas take you. Leave here, Merel."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "What? What about you?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Charon",
+          "text": "\"I'll just run off when danger comes.\" That is what you said. Do not waste any more time."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "I don't even know where to—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Charon",
+          "text": "Downstream of the Don River, like the officer said. Now go."
+        }
+      ]
+    },
+    {
+      "script_id": "101205",
+      "internal_title": "第十二章12-03.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "Andreas! I-I'm slipping!!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Andreas",
+          "text": "Neigh—!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She clings to the horse with all her might as he charges at full speed. She can't even spare a hand to draw her weapon and fight back."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Don't let her get away! Fire!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A series of crackling gunshots blasts past her on all sides."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "Ah! Run, Andreas, run! I'll hold on. Go!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Andreas",
+          "text": "Neigh!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "She can't cross the Don! Spread out and surround her!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "What? The-The Don?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She gathers her courage and opens her eyes, only to find a broad river blocking her escape."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "Oh. Oh no!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her mind goes blank again. Andreas can only slow down before the rushing water."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "She's slowing down. Don't shoot. You might hit that beauty she's riding."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "I'll take her out, and I'll get the horse."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "Aaargh!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "It's like a hammer has struck her arm. She loses her balance and falls to one side."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Dark, freezing water swallows her in an instant, followed by the piercing pain of a bullet."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "No. Don't ... *gulp*"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The shimmering light through the water above turns dark."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sternova",
+          "text": "Commander."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The chief of staff enters the tent."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Commander Ivan",
+          "text": "Speak."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The commander's voice is hoarse, yet Sternova delivers her report without pause."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sternova",
+          "text": "Perevoznaya is lost. We don't know the details of the situation, but it's surely devastating. The refugees said they saw a huge smoke cloud coming from the village."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sternova",
+          "text": "At least three settlements have been attacked. The survivors say the weapons employed were unconventional."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Commander Ivan",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sternova",
+          "text": "The villages struck are all upstream from here, northeast of Bereggrad. I suggest we quickly position the main force here, here, and here to seize advantageous terrain."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The chief of staff points out the positions on the military map spread across the table, only to find the commander's focus is elsewhere."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The heavy air closes in around Sternova. She falters."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sternova",
+          "text": "Sir?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Commander Ivan",
+          "text": "Headquarters has spoken."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sternova",
+          "text": "What did they say? They wouldn't interfere with the Cavalry Corps's tactics, would they?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Commander Ivan",
+          "text": "We withdraw from the Don in two weeks. We will engage Manus Vindictae in Hungary next month."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her military instincts prevent her from making sense of this order."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sternova",
+          "text": "I ... I don't understand, sir. Bandits are killing and robbing civilians in higher numbers than ever, and we've just been told to leave? Are you certain headquarters is fully aware of the situation?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Commander Ivan",
+          "text": "They are more aware than any of us. Intelligence gave their conclusion. We've stumbled upon Igor's army."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sternova",
+          "text": "Then they should send reinforcements, end the rebels once and for all, not ask us to run away with our tails between our legs!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Commander Ivan",
+          "text": "There are no reinforcements. Manus Vindictae's army marches on the Foundation headquarters as we speak. The front is under immense pressure."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Commander Ivan",
+          "text": "Don't forget that our mission here was to recruit new blood to bolster headquarters defenses."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Commander Ivan",
+          "text": "As for Igor—he cut ties with Manus Vindictae after Antarctica. They say some kind of bargain was struck, though the terms remain unknown."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Commander Ivan",
+          "text": "Since then, the rebels have crossed no blades with either the Foundation or Zeno. The Joint Committee wants to keep it that way."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sternova",
+          "text": "So, they want us to leave so we won't fight Igor?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Commander Ivan",
+          "text": "Correct."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sternova",
+          "text": "To hell! All this time, the Foundation, especially those Hawks, has been belittling Zeno for Igor's betrayal, yet here they are, still trying to stay in his good graces?!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Commander Ivan",
+          "text": "Politicians, Sabina. For them, the two don't clash."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sternova",
+          "text": "Politicians, ha! I'm sick to death of the conniving bastards! To hell with the Foundation, to hell with those ridiculous bird parties, to hell with Irinei, and to hell with—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Commander Ivan",
+          "text": "Sabina."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The hint of warning in his tone fails to stop her."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sternova",
+          "text": "—Their lapdog, Lilya! \"Air support\"? Don't make me laugh. I know why they sent her!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sternova",
+          "text": "She's both Zeno and Foundation. Her file says \"loyalty guaranteed after investigation.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sternova",
+          "text": "She's a surveillant! A Foundation babysitter monitoring you, me, everyone, so the Don doesn't become the next São Paulo!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sternova",
+          "text": "It's an insult! A humiliation! Zeno should never have to yield to those so-called Hawks!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Commander Ivan",
+          "text": "Colonel Sabina Sternova! Have you lost your senses?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "His gentle warning proving ineffective, the commander turns to harsh reprimand."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sternova",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Commander Ivan",
+          "text": "Do you accuse Lieutenant Lilya based on proof? Or only because of her ties to the Foundation?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sternova",
+          "text": "I ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The commander purses his lips, his jaw grinding as if he were chewing on a piece of steel."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He bends down, draws out a crumpled letter, and passes it across the table. Sternova takes it, her brows knitting together."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sternova",
+          "text": "\"Ivan, Irinei's people have done it. Zeno's fate is inevitable. I write this letter only as a reminder from one friend to another.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sternova",
+          "text": "\"The Joint Committee is tightening its control over Zeno's military operations. Every commander stationed outside of HQ must be accompanied by a liaison entrusted by the Foundation.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sternova",
+          "text": "\"You were once Igor's most trusted subordinate. For that reason alone, the Hawks were planning to torture you during the trial.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sternova",
+          "text": "\"All I could do was assure the Committee of your loyalty and assign the least capable liaison to you—the flying witch.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sternova",
+          "text": "\"I'm sure you've heard this title before. She has no interest in politics, never writes reports unless forced to, and, in many ways, shares your temperament.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sternova",
+          "text": "\"That said, ensure you strictly follow every order, both from Zeno and the Foundation. We must be smart.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sternova",
+          "text": "\"The burden on you is much heavier than you realize. Do not embarrass us. Somme.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The letter is set down. Silence falls."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "After a few heartbeats, muffled shouts carry through the canvas. The Cossacks are struggling with a fierce horse."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sternova",
+          "text": "I ... I'll begin preparations for the withdrawal, if that is your order."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The commander lets out a long, weary sigh."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Commander Ivan",
+          "text": "*sigh* Orders are to assemble all cavalrymen in Bereggrad. We hold the city for two weeks. Then, we withdraw."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sternova",
+          "text": "We're withdrawing anyway. Why risk the two weeks?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Commander Ivan",
+          "text": "For the safety of the Timekeeper."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sternova",
+          "text": "The Timekeeper?"
+        },
+        {
+          "kind": "title_card",
+          "text": "Vice President's Office"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "We've contacted the Cavalry Corps in the Don River basin. Lieutenant Lilya's communication device was damaged during the battle, but she has returned to her post safely."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "That's a relief."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "However, according to her report, it's all but confirmed that Igor's rebels have shown up at the Eastern Front."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "Vertin, is it possible to delay your plans to travel to Bereggrad? A conflict is highly likely to break out there."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "There's no need to hide intel from the trusted few."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Creius privately conveyed to me a message about Urd. It said there's some information to be gleaned about her in Bereggrad. I'm not sure how dependable it is."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "But since it concerns Urd's whereabouts, I have no choice but to go."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "I appreciate you sharing the source of your information with me, but, Creius?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Madam Z betrays a rare look of surprise."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "Before the Antarctic Operation, he was just a liaison of the Foundation's military department, responsible for communication and coordination between the Foundation and the Zeno Task Force."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "He got promoted after we entered this era, but ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "All information held by the Foundation concerning Urd is strictly controlled, only accessible to the authorized few."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "And he's not one of them."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "More likely than not, this information came directly from the Hawks. They're using you to obtain information they can't legally acquire themselves, and Creius is their intermediary."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Locating Urd has been my primary mission since the eighth \"Storm.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "A mission that may prove useful to the Foundation, don't you think?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "If this information really does help you find Urd, then yes, it would be good news for everyone, no matter their affiliation."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "But in the Hawks' eyes, you'd owe them one. They might hold this over you if and when the time comes for you to choose a side."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "What's more, the expansion of Team Timekeeper was spearheaded by the Hawks. It's only natural that people are starting to doubt the Timekeeper's neutrality."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Madam Z's voice is gentle but persuasive. She sincerely hopes the young lady before her will not be drawn into the whirlpool of politics."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "I know you have no political inclinations, but the Hawks are creating an image that you're working with them."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "I'm not saying this to stop you, Vertin. I simply want to keep you abreast of what's happening inside the Foundation."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Thank you, Madam Z. I'm ready for whatever lies ahead."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Please accept my official application to travel to Bereggrad."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Only by stepping into the flood can one uncover the secrets hidden beneath the water."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "I see."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "After the Joint Committee's admonition, Admiral Somme ordered the Cavalry Corps to prioritize the safety of the city. Bereggrad should be safe for a time."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "What's the Committee's attitude towards Igor now?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "Igor is the enemy. However, reports from the Western Front state he's no longer working with the Manus."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "We're currently re-evaluating Igor's motivations. That said, the Committee does hope to avoid making enemies. Our relationship with Zeno has become somewhat fragile since the real war began."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "Permission granted, Timekeeper."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "Pack your bags. I'll have Sharon deliver the paperwork to Sonetto."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Thank you, Madam Z. I'll do my best to return before the war breaks out."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "As she turns, a soft sigh comes from behind her."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "*sigh* You always follow your own judgment, Vertin. A precious quality in this era. I hope it never changes."
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

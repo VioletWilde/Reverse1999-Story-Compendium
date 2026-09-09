@@ -1,0 +1,543 @@
+{
+  "episode_id": 3210107,
+  "chapter_id": 32101,
+  "chapter_title": "迁流的盛宴",
+  "display_label": "",
+  "title": "好梦，朋友",
+  "subtitle": "是的，轮到你了。",
+  "trails": [
+    {
+      "element_id": 3210202,
+      "owner_episode_id": 3210107,
+      "trigger_episode_id": null,
+      "title": "目击记录",
+      "description": "一则不显眼的目击记录。太多怪奇的传闻、谣言、小道消息，每个路人的口袋里都揣着些。",
+      "action": "类型3201",
+      "unlock_condition": "EpisodeFinish=3210107",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "异域面具"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一位流浪汉提供情报，他在封闭的小巷内看见戴着螃蟹面具的人出没，其穿着并不像无家可归的人。据称那面具上的表情变化得十分生动，好像蟹壳上的纹路就是面庞本身一样。"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 3210305,
+      "owner_episode_id": 3210107,
+      "trigger_episode_id": null,
+      "title": "争辩之声",
+      "description": "",
+      "action": "类型3202",
+      "unlock_condition": "EpisodeFinish=3210107",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "你正准备享用勃朗峰蛋糕和香醇的咖啡，邻座的辩论却越来越激烈。虽然他们打扰了你，但其中一位的观点你确实比较认同："
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "“离群索居者是在逃避社会责任。”",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "和被放逐没什么两样。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "“没有恶，只有未被社会承认的善。”",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "标准总是在变化。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "“爱人是丢失在人间的一部分自己。”",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "噢，浪漫主义情调。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "“人要认识到自己从一开始就是完满的。”",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "所以我们到底在追求什么。"
+            }
+          ]
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 3210505,
+      "owner_episode_id": 3210107,
+      "trigger_episode_id": null,
+      "title": "争辩之声",
+      "description": "",
+      "action": "类型3204",
+      "unlock_condition": "ChapterMapElement=3210305",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "你正准备享用勃朗峰蛋糕和香醇的咖啡，邻座的辩论却越来越激烈。虽然他们打扰了你，但其中一位的观点你确实比较认同："
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "“离群索居者是在逃避社会责任。”",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "和被放逐没什么两样。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "“没有恶，只有未被社会承认的善。”",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "标准总是在变化。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "“爱人是丢失在人间的一部分自己。”",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "噢，浪漫主义情调。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "“人要认识到自己从一开始就是完满的。”",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "所以我们到底在追求什么。"
+            }
+          ]
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "203210",
+      "internal_title": "【3.2】迁流的盛宴07.1",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "你还好吗，西莉亚？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "友人疲惫地点头，努力地平复呼吸。跑得太急了，她的脸色在灯光下格外苍白。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "没事就行，我相信你有分寸……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "阿黛拉松了一口气，凑近车窗，看见几道黑影被远远甩开，消失在身后的夜色中。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "哈——就算有四条腿，也跑不过四个轮子。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "文森特先生——没错吧？我们的车不久前“打过照面”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "多亏您出现得及时！不过，我还以为您会多休息一段时间……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "文森特",
+          "text": "法语里没有不可能这个词！我的康复之日早已临近！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "司机短促地笑了两声。他再一次加大油门。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "是吗？祝您早日恢复健康。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "西莉亚",
+          "text": "阿黛拉……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "友人拍了拍阿黛拉的肩膀，但没能立刻引起注意。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "您刚才在咖啡馆门口见过其他人吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "文森特",
+          "text": "没有。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "西莉亚",
+          "text": "阿黛拉，别再问了——我觉得——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "阿黛拉握了握她的手，向前倾身，离驾驶座近了些。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "我刚发现，您副驾驶车窗上的口红痕迹，很像我的一个朋友留下的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "这太巧了。和她写在我车上的句子一样、位置一样——连不小心抹掉的一个角都一样！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "我早就把痕迹擦掉了。可它为什么出现在你的车上？这真的是你的车吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "或者——这一切根本就是一个噩梦！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "西莉亚",
+          "text": "你一定是太累，才以为自己在做梦，问出这么奇怪的话……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "够了！难道你就不是我梦见的假货吗？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "西莉亚睁大眼睛，她看起来越发虚弱了，像一支无力燃烧的白蜡烛。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "西莉亚",
+          "text": "……啊。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "车已经没有再往前行驶。它悬置在一片黑暗中。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "幼龙攀上了驾驶座的靠背，跳到司机肩上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "唯以真知炼化虚妄！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "在火焰灼烧之下，兽类的尖牙撕裂了属于人的躯壳。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“文森特”",
+          "text": "——！"
+        }
+      ]
+    },
+    {
+      "script_id": "203211",
+      "internal_title": "【3.2】迁流的盛宴07.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "“文森特”跳出车窗，扭曲的身影立刻被夜色吞没。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "阿黛拉感到胃里一阵烧灼般的疼痛。她错觉那片黑暗生有绒毛、尖牙，属于一只更庞大的兽类，从靠近的身躯上榨出粘稠的血。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "它守着满腹饥饿等待许久，直至今日。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "西莉亚",
+          "text": "阿黛拉！阿黛拉——阿黛拉！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "你——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "在她回神前，幼龙的尾巴已经卷上西莉亚的手臂。但火焰只燃起了一瞬，比一道呼吸更短暂。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "你真的是——？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她没来得及说完下文，西莉亚已经猛地握住了她的手。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "西莉亚",
+          "text": "听我说！阿黛拉！我想起来了！我知道了“热沃当的野兽”是怎么回事——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "西莉亚",
+          "text": "“重塑之手”撬开了意象宝库，导致了所有的癔症和失踪案！再这样下去，他们会毁掉整个巴黎！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "西莉亚",
+          "text": "不要相信罗西教授，不要急着来找我，你必须先做一件事——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "冰冷的物件落进阿黛拉手中。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "阿黛拉低下头。她认识项链上缀着的这枚钻石。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "它的光彩无可比拟，它早已变成一个难以触及的传说。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "这……这是法兰西之蓝？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "不可能……它一定是……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她所知的鉴别知识都告诉她，这是真的。\n但这太过突然……谁会相信骤然落入手中的稀世珍宝？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "西莉亚",
+          "text": "别考虑它的来历了，意象宝库绝不能被开启！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "西莉亚用力握住她的手，帮她攥紧了拳头。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "西莉亚",
+          "text": "你一定要烧掉它——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "——西莉亚！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "——于此破暗归真。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "脑海中沉重的黑暗被扫去。阿黛拉左右打量着周围，感到太阳穴隐隐地抽痛。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "呃……我是在……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "请深呼吸，阿黛拉小姐。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "柔软的沙发，明亮的水晶灯，温和的香薰气味，手中的钻石。\n一切都和接受“净化仪式”前的情景别无二致。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "就连坐在对面沙发的贝丽尔，都保持着和阿黛拉闭上眼睛前相同的姿势。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "我……是做了一场梦？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "不完全是。你沉入了潜意识的深处，找出了盘踞在那里的阴影。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "我的确看到了“热沃当的野兽”……在花神咖啡馆里……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "所以净化仪式成功……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她突然愣住了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "手中的钻石。它本该是一颗烟晶。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "这不是我挑选的那颗水晶！是西莉亚在梦里给我的……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "……法兰西之蓝？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "为什么？为什么它会出现在这里？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "我还在那个噩梦中吗？我……没有醒来？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她听到自己的声音在颤抖。\n她下意识地望向贝丽尔，在场的、仅剩的、或许能够帮助她的人……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "贝丽尔的脸上浮现出淡淡的疑惑。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "你在说什么，阿黛拉小姐？你并未挑选过水晶。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "那颗钻石——你从一开始就握在手中。"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

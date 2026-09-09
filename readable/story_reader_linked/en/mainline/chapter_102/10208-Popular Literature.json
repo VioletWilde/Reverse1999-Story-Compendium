@@ -1,0 +1,568 @@
+{
+  "episode_id": 10208,
+  "chapter_id": 102,
+  "chapter_title": "Tender is the Night",
+  "display_label": "",
+  "title": "Popular Literature",
+  "subtitle": "Pleased to meet you again. I'm glad that everything is still useful.",
+  "trails": [
+    {
+      "element_id": 1020801,
+      "owner_episode_id": 10208,
+      "trigger_episode_id": null,
+      "title": "Trail ① Long Night Trip",
+      "description": "A Catholic funeral.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=10208",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Let's rewind the time to a few years ago."
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "Why a few years ago?",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "It's for your own good. Lying in front of you is a girl full of mysteries. She makes your mind spin like a top. You scratch your ears, trying to understand what happened exactly."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "And all these damn things can be traced back to a long, long time ago, when the monkeys decided to stand on their feet …"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "I want to move to the future.",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Awesome! Your lofty ambition that a boxer would have is exactly what we need. But unfortunately, I can't take you to the future. Oops, I could, but now I can't."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Now, another person is going to do this. But before we solve this big mystery, I think it's necessary for us to sort out the principal contradiction—"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Trust me, you won't regret listening to this story."
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "Fine. Let's start the bullshit.",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "I will never be offended by your humor. Okay. The past is waiting for us to look back."
+                }
+              ]
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "No. I'm tired of you.",
+              "edge_label": "",
+              "branch": []
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "But I will never be tired of you, baby."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "I respect your decision. When you're ready for a story, go find your friends. They will tell you exactly what happened."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "... While I will wait for you at the next destination, humbly and patiently."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "It's winter in the early 20th century. The gloomy rain never stops. The square on West Jackson Avenue is alive with people. There is an Italian Renaissance-styled basilica. You rarely see so many people get together without making a sound."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "This is a black requiem mass. The priest is chanting the requiem, and the people mark a cross on their chests."
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "He must be respectable.",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "\"He was a father. He dedicated to a sinner of ... Lord shall give him eternal peace.\" A woman in a black robe turns to you and whispers."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "He might be powerful.",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "\"What is power?\" A solemn lady shakes her head at you, \"Only Lord can forgive us for our sins and judge the right and the wrong, but he does not want power.\""
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "\"Neither does the father.\" \"He was our father. He dedicated to a sinner of ... Lord shall give him eternal peace.\""
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "She turns back. Explaining this makes her unpleased. More and more people are queuing for the funeral. The square is alive with chants here and there."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "The Grecos are among them. They're covered by the dark cloud of long-handled umbrellas. Soon, their voices are replaced by whimpers. You can hardly tell whether they are pleased or sorrowful. But you can't find Schneider."
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "Where is she?",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Look in the direction of Mr. Greco's broken left palm. Yes. Look from the bandage-wrapped end at his cuff."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "3390 feet away from the crowd, in the shadow of the church, stands the girl you want to see."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "She is pale and thin, as if she has just recovered from a serious, long illness."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "But her fist clenches, her eyes burn, and her figure is an open defiance of the ubiquitous chants. You don't know why she looks so—so furious. Is she ... what, 11 years old?"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "And the mass is about to usher in the ultimate climax. It rains heavier. The priest opens his arms to embrace the sky, \"The Lord be with you.\""
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "\"And also with you.\" Schneider responds in a voice that could hardly be heard. She puts her hand on her heart. This is the first time she responds to the Lord. And it will be the last."
+            }
+          ]
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100213",
+      "internal_title": "第二章2-8.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "Popular Literature"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "The second, the first, and underground—altogether three secret chambers in the speakeasy. There are mainly material rooms, study rooms, and corridor on the second floor. Cross out."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "The most likely place to park Schneider ... should be in one of the rooms on the other two floors."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "It's a pity that the patrolmen could not be confirmed. I'm afraid a battle will be inevitable."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Bring the healing potion, other potions, medical equipment, food, masks of the Manus, and ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "The rowan branch sprouted. The symbol of protection and blessing ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "I'll take it. Go."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Follow the map, avoid the minions and search the rooms."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The Manus's mask blocks their sight. It both shelters and blinds them."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "There are no obstacles from the followers and disciples along the way, since a salute will save all the troubles. The tunnel to the underground floor is right ahead."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "It is a fork in the road."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "It's weird. It was a straight path when investigating."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Hm? Someone's coming. I should hide from them."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "...?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Why ...? The rowan branch seems to be pulling me? Does it want me to choose the path where they are?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "OK, then I'll wait for them to go over."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Manus Follower Ⅰ",
+          "text": "I saw my grandma in the entrance of the hospital. She choked on cash, and was carried on a stretcher ... She can't even recognize me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Manus Follower Ⅱ",
+          "text": "It's nothing, Mr. Thomas. My son Robert's dead. I heard it on the radio."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Manus Follower Ⅱ",
+          "text": "They are just sifted out by the \"Storm,\" not as lucky as we are."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Manus Follower Ⅰ",
+          "text": "I don't understand ... 3 hours before you were still ... crying ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Manus Follower Ⅱ",
+          "text": "We have to accept all this, accept that the dream of our new age is broken ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Manus Follower Ⅱ",
+          "text": "and the fact that we have to fight against the government tomorrow."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Manus Follower Ⅰ",
+          "text": "Fight against the government?!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Manus Follower Ⅱ",
+          "text": "Yes. Mr. Forget Me Not told me so. We need to deliver tons of goods to the real \"Sanctuary\" of Manus Vindictae."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Manus Follower Ⅱ",
+          "text": "Our safety is not fully guaranteed even with the masks.  Only in the \"Sanctuary\" can we hide from the influence of the \"Storm\" ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Manus Follower Ⅱ",
+          "text": "And then, we set sail anew to the new age, to the new life!!! Just like Miss Vertin, our *roar* ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Manus Follower Ⅰ",
+          "text": "What are you talking about? Mr. Robert, y-y-your hand, what the black slime?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Manus Follower Ⅱ",
+          "text": "*roars*"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Manus Follower Ⅰ",
+          "text": "Wha-wha-what's this! You're like one of those monsters?! Huh! I'll go to find somebody ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Both his appearance and voice have changed, just like the believers who can't talk ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Is it because of the mask? Or Arcana?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "No, I can't stay any longer. I need to pass through here and go to the underground before anyone else comes."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Manus Follower Ⅱ",
+          "text": "*roar*"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "\"Mine hands, thine order.\" I am Vertin, a follower like you. Please let me pass."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Manus Follower Ⅱ",
+          "text": "*attack*"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "He can't be talked into sense ... Is he moving just by instinct?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "I can only stun you first! Sorry ... Mr. Robert."
+        }
+      ]
+    },
+    {
+      "script_id": "100214",
+      "internal_title": "第二章2-8.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Footsteps. At least five or six people. I should go downstairs quickly."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "The underground ... another turnoff!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "The sprout is growing at an unbelievable speed. It seems to be leading the way."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Are you really showing me the way? Then ... I'll go left."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "So close. Just avoided another group of guards ... It's a wine room. Schneider is not here. Next ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "This is ... a floating staircase going down?! Is there another fourth space?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "The sprout is already of a finger's length. There is even a small bud on it. It points downstairs."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Fine. Last bet. I'll go down."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "I found you ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Schneider!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "She is barely breathing."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Black bloodstains and feathers congeal into a silent figure."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Weak pulse ... How come? We should have time for first aid …"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Schneider",
+          "text": "My lord ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Schneider!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Schneider",
+          "text": "Did I see illusions? ... Or are you missing me ... just as I'm missing you? ... *cough* ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Schneider",
+          "text": "Holding me ... so tight ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Thank goodness you're fine. Drink these."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Schneider",
+          "text": "Umm uggh ... Too rough, my lord! We just met ... *cough* It tastes awful ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Schneider",
+          "text": "Umm ... Is it the special healing potion?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "And this. Eat. You must have been hungry for so long."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Schneider",
+          "text": "... What's this, my lord?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "It's the leftover cake from dinner. I can't bring too much with me. Hang in for a while. They will send you out here tonight."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "I just don't know ... How did you do that? When you bumped me ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "The bullet did hit your chest."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Schneider",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Schneider",
+          "text": "I don't have much energy to talk, my lord ... I just want to know ... Druvis's last choice."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "I didn't have the chance to talk to her alone. But I think, since I can meet you now, maybe ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Schneider",
+          "text": "Ahh. It's blooming."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "tmr 10am. Heavy fog. Relief Shelter in the woods."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Maybe she shares the same dream with us."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Schneider. Now you need to save your strength."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Don't open your eyes until you meet Sonetto."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "I'll see you in the Relief Shelter."
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

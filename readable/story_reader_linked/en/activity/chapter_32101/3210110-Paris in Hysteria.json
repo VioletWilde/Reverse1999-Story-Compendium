@@ -1,0 +1,873 @@
+{
+  "episode_id": 3210110,
+  "chapter_id": 32101,
+  "chapter_title": "A Flowing Feast",
+  "display_label": "",
+  "title": "Paris in Hysteria",
+  "subtitle": "No remedy exists to cure this mania—not even the warmth of a dreamy summer afternoon.",
+  "trails": [
+    {
+      "element_id": 3210103,
+      "owner_episode_id": 3210110,
+      "trigger_episode_id": null,
+      "title": "Who's there?",
+      "description": "Theivery is a craft that demands both courage and skill. But above all, luck.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=3210110",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "Stay Away"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "\"Are we seriously waiting all night? I'm not sure this is worth it.\"\n\"Trust me, Paul. This is our big chance. I saw him go in right here.\"\n\"The Catacombs? It's just a pile of bones. Everyone in Paris knows that.\"\n\"He had suitcases. Heavy ones. I bet he's hiding something big. It's all ours when he leaves.\"\n\"Did you hear that?\"\n\"Shh! He's coming out!\"\n\"Wait ... was the guy you saw ... this massive?\"\n\"No way ... look at his head. No, wait, what's wrong with his hands?\"\n\"He's coming this way ... Did he see us? He saw us!\"\n\"Run, Paul! Come on! Go, go, go!\""
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 3210303,
+      "owner_episode_id": 3210110,
+      "trigger_episode_id": null,
+      "title": "Voices of Anger",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=3210110",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Chants from marches and protests echo through the streets. You begin thinking about the roots of this era's unrest. Those surges of fear, anxiety, and anger—perhaps they come from:"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "The collapse of morals and the decay of the human heart.",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "Vile people with no sense of virtue."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "A crisis of civilization and primal aggression.",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "Monkeys wearing clothes, nothing more."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "A breakdown of connection and distance between people.",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "No one truly understands anyone else."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "A world out of order and a universe out of balance.",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "Maybe the gods have lost their minds."
+            }
+          ]
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 3210503,
+      "owner_episode_id": 3210110,
+      "trigger_episode_id": null,
+      "title": "Voices of Anger",
+      "description": "",
+      "action": "",
+      "unlock_condition": "ChapterMapElement=3210303",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Chants from marches and protests echo through the streets. You begin thinking about the roots of this era's unrest. Those surges of fear, anxiety, and anger—perhaps they come from:"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "The collapse of morals and the decay of the human heart.",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "Vile people with no sense of virtue."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "A crisis of civilization and primal aggression.",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "Monkeys wearing clothes, nothing more."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "A breakdown of connection and distance between people.",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "No one truly understands anyone else."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "A world out of order and a universe out of balance.",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "Maybe the gods have lost their minds."
+            }
+          ]
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "203214",
+      "internal_title": "【3.2】迁流的盛宴10.1",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Adèle forces a broken smile to her face."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Madame Bouanich, as much as I appreciate your humor, now really isn't the time for it. Where did she go?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "I'm quite used to her attitude, but stealing that necklace crosses a line!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "Adèle."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The distance in her voice and manners disappears—the diviner becomes mortal. Her voice laced with genuine concern."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "Félicienne was never here."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "Perhaps it fell out of your pocket. Allow me to aid you in its return. I believe it is best you not act alone in your current state."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Ah, I've got it now. She didn't come to your parlor today, so she must've gone somewhere else, and she's been waiting in the car ever since. No wonder she got angry and stormed off."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She fidgets with her sleeve button, desperate to escape this farce."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Ay ay ay, that's enough! What a day! I think it's better we speak again another time, Madame Bouanich. Would tomorrow work? I—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "When did you first meet this Félicienne?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Oh, my goodness!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Beryl moves faster, forcing the car door closed."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Honestly, what on earth is happening today?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "You want proof? I'll give you proof. Hah, madness! Never thought I'd have to actually convince someone that I work for that terrible woman."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She rummages impatiently through her pockets until she finds her wallet."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "It was raining. She started complaining about the mud on her shoes the moment she stepped into the car, then insisted we head straight to the Champs-Élysées."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "You know, wealthy young ladies like her are always generous with payment. I often have to take time out of my evenings just to count all her tips. That very first day, she even gave me some gold francs as keepsakes. I've got them in here."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "...?!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her face twists in disbelief as she flips it open and closes it again."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Not a single coin or bill."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Oh. Hah. I must've put them somewhere else."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Give me a moment to check the car. I've got other proof, too!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Ah. The macaron boxes. There's a full one somewhere! And her hair, little bits and pieces she left in the car."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "For a brief moment, she accepts the absurd conclusion."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Félicienne never existed."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "I remember ... that day ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her every recollection of Félicienne takes on a strange blur, as if she were viewing them from behind a fogged-up windshield."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "I ... I must be tired. It's been a long day. It'll come to me soon."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Beryl strokes the back of her hand, gently urging her to let go of the empty wallet."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "But there is nothing to remember."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Something's wrong with me. Prophecies, dreams, the necklace—it's all playing havoc with my mind."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "I need to clear my head! Just bear with me. Those coins have to be in here somewhere."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "Do not worry, Adèle. It is not only you who is confused in this era."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "Look at the people around you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "People?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Sound crashes back in. She rubs her temples, fighting the dizziness."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Protester I",
+          "text": "No more atrocities! No more oppression!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Protester II",
+          "text": "Liberty! Equality!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Protester III",
+          "text": "Stand with Paris! Stand with the people!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Protester IV",
+          "text": "For the commune! For France!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "Excuse me, sir."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Beryl calls out to the nearest worker—a man waving a bright red Phrygian cap."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "Where are you going?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Protester I",
+          "text": "We're following the Garde Nationale to fight the royalists!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Protester II",
+          "text": "Yes, and then I'm going straight to the pawnbroker to get my mattress back!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Protester I",
+          "text": "You do that, sister! Brighter days lie just ahead if we fight as one for our city!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "It is no easy feat. But your voices today may echo further than you know. You will triumph in time."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Protester I",
+          "text": "Thank you, madame! For the Commune de Paris!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The man turns and disappears into the crowd."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Well, everyone's fighting to survive these days. Looks like another protest."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "But did he just say \"Commune de Paris\"?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "He did. In their minds, this is the burning summer of 1871."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Those almost-transparent eyes again. People's thoughts pass through her like light through crystal. Beryl reads them but never bends to them."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "Unconscious thoughts, countless in number, are converging upon this city. This is a volatile time indeed."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "Some worry for their missing family and friends, some are terrified by ghosts and spirits, some obsess over a long-dead emperor, and others are shaken by the phantom attacks of a beast of legend."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "The edifice of reality is shaking. Chaos has been invited into its foundation."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "Whispered fears, murmured madnesses ... A sickness is sweeping the city, and the Beasts of Gévaudan have multiplied."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She watches the flow of the moving crowd."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "Those who invited this chaos did not comprehend that the flaws of reality are not the fault of a single person nor group of people. This is not the way to mend Paris."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "Everyone—everything—has an identity, whether it be individual or collective. To attempt to unify them all so recklessly will not create order, but chaos."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "Chaos is what turned those people into beasts."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "You mean the sightings of the Beasts of Gévaudan were all people? That the citizens of Paris have been turning into monsters?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Then are they the ones who killed Madame Raymond? Who cursed me, took Célia, and trapped all these protesters in this delusion?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "And Félicienne, too?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The things she describes are fairy tales, myths, urban legends meant to scare children. They aren't real. They aren't meant to be believed."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She grits her teeth, unable to reconcile her doubts with her experiences."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Truthfully, madame, I'm having a hard time believing you or even my own eyes."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Everything turned completely mad the moment I entered your parlor."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "The Beasts of Gévaudan were nothing more than a rumor before I met you, but in your parlor—in that dream—there they were, attacking me!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "And now you claim that Félicienne isn't real, that I just made her up! What are you trying to do here?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "I play no part in your fate, Adèle. It is what brought you here. I am only a witness."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "\"Only a witness\"! You've got a clever answer for everything, don't you? Then tell me where the necklace is. You must've seen Félicienne take it, right?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "So? Did you \"witness\" that, madame?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "You received that necklace in a dream."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "It is only natural that it would vanish into another."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her reasoning is as solid as it is absurd."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "That necklace proves the truth of my words. The spirit world is as real to us as the physical world."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "I will happily read Félicienne's fate. That is, if you still believe she is real."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "I don't need you to read anything!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "I-I need space! To get away from all this madness and think for myself!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Beryl steps back from the car door, unconsciously giving way, allowing Adèle to lunge forward and seize the handle."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "Adèle ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The ringing in her ears returns, and the street noise rushes in all at once."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "But she's made up her mind. If she can just get in, start the engine ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "Adèle! Behind you!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Wha—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A damp, metallic breath brushes her neck."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beast of Gévaudan",
+          "text": "...!"
+        }
+      ]
+    },
+    {
+      "script_id": "203215",
+      "internal_title": "【3.2】迁流的盛宴10.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "Stay close to me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Adèle reacts instantly, pulling back with Beryl's tug, raising her arm."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A burst of flame shoots from her fingertips. Her little dragon beats its wings, setting the beast ablaze before it can fade away."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Your hand! Did it get you?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Bloody hell! This is no dream! How did they get here?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Shouts rise from the nearby crowd."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Adèle gasps, scanning the street. Seeing no second monster, she finally exhales."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Is that what you meant earlier?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The diviner nods faintly, blood running down her now-paler skin."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "If they'd been a moment slower, Beryl's arm wouldn't be the only one bleeding. Adèle doesn't believe she's worth that kind of sacrifice."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Maybe you do have a point. At least about the Beasts of Gévaudan."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She opens the car door, searching inside with purpose, before handing Beryl a handkerchief."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Here, take this. It should help with the bleeding. *sigh* I can't just leave you like this. You'll have to come with me, madame."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "But I'm afraid I can't take you home. I must find my friends before anything happens to them."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "I can't just leave them wandering the city while these monsters prowl the streets."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "Is that so?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She looks surprised but accepts the gesture."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "I foresaw death in the catacombs, and yet still you aim to go there."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Of course."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "I've made up my mind. I need to find Célia. I don't care what it costs."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Adèle pauses, her vision locked on Beryl's bleeding arm."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "I'm still not sure if I can trust you. But for now, at least, I don't believe you want to do me any harm."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "But I need to know—why are you helping me?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "You didn't even ask for payment. What do you want from me?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Beryl's translucent eyes barely restrain a visible roll. It's affectionate—almost motherly.\nHer question is harmless, if utterly naive."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "So this is what you choose to ask."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Why wouldn't it be?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "Of all there is to question—your future, this chaos—you choose to ask about me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "What's so strange about that?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her flawless, gentle smile returns, from matron back to diviner."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "Nothing. Your curiosity is only natural."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "I have never once lied to you, Adèle. You are cursed—haunted by a shadow. A shadow of fate."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "I only wish to see what will become of you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "But don't you already know? I'll die in the catacombs. What else is there to see?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "You know this yourself. Yet here we are."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "We have a common interest in that fate, you and I. Let us leave it at that."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "Go to the catacombs, Adèle, with me by your side. You will need my help once you enter."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "It's a long-delayed request to travel together."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Adèle can't read much from Beryl's expression, but there's no time left."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "After a brief thought, she opens the car door again."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Please, get in. Careful. Let me open the door."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "Thank you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The Peugeot 201 slips through the crowd, turning down a quiet street toward its destined end."
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

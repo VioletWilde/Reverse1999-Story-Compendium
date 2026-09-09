@@ -1,0 +1,512 @@
+{
+  "episode_id": 2110106,
+  "chapter_id": 21101,
+  "chapter_title": "Route 77: The Haunted Highway",
+  "display_label": "",
+  "title": "Glass Bottles",
+  "subtitle": "Don't forget this handy weapon in a brawl.",
+  "trails": [
+    {
+      "element_id": 2110102,
+      "owner_episode_id": 2110106,
+      "trigger_episode_id": null,
+      "title": "Periodic Report",
+      "description": "Every day, thousands of documents pass through the headquarters. And this is merely one of them.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=2110106",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "St. Pavlov Foundation Report"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Report Number: XXXXXXXXXXXXX\n\nFrom: Field Investigation Team Leader Andreas Sylvester\n\nTo: Office of the Vice President, St. Pavlov Foundation\n\nDear Madam Vice President,\n\nAfter a month of surveillance, my team has identified several Manus Vindictae agents operating in the southern United States. At least three have been traveling between Dallas, Austin, and Houston; they are likely establishing information and supply channels for the Order of Enlightenment. Several others are active along Route 77, frequently using aliases and disguise potions to keep their exact identities and numbers hidden; however, at least five false identities have been confirmed. Please find detailed information on these agents attached to this report.\n\nI believe these findings further substantiate our hypothesis that the Order of Enlightenment is planning to carry out an unprecedented arcane ritual.\n\nAdditionally, informant reports indicate that a spy known as \"Ms. Grace\" is active in Texas (see attached document). We await your directive on whether to pursue further surveillance of this individual.\n\nMay the peace be with us.\n    \nField Investigation Team Leader Andreas Sylvester\n\n\n\nReply:\n\nTo the Field Investigation Team,\n\nThank you for your diligent efforts in the pursuit of peace. The aforementioned intelligence has been documented.\n\nRegarding \"Ms. Grace,\" I am fully aware of the situation. Given the unknown intentions of this spy, I recommend a strategy of non-interference. Allow her to proceed in her actions for further observation.\n\nMay the peace be with us.\n\nVice President Constantine of the St. Pavlov Foundation"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "202109",
+      "internal_title": "【2.1】77号往事-06.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "Armament Factory, Chisos"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The empty factory is cold and damp."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Hah, let's see what you've got in there for me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She wanders the factory, eventually spotting a large crate covered in postage stamps in the receiving room."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The crate is nailed tightly shut. She squints, having only the moonlight to help her read the words on the box."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Red 38, Lilya."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Hey, buddy!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She squats down and inspects the crate. After tapping it a few times, she frowns."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "They just left her in a wooden box. What kind of safekeeping is this?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Anyway, I don't have much time. I'll settle that with them later."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She grabs the crate and tries to lift it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "It doesn't budge—it's bound by arcanum."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Alright. At least they bothered to put a gravity ritual on it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Light footsteps echo behind her."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Are you also preparing to evacuate?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Lilya turns around. A slender girl stands before her, a basket in her arms."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Ah, perfect timing. Are you in charge here?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The girl looks her up and down before giving a sweet smile."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Kayla",
+          "text": "No, I'm not in charge of anything, Lieutenant. I'm just passing through. I'm Kayla, by the way."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Kayla",
+          "text": "I heard some rattling here and thought some of those kids might've come back to steal weapons again. These things aren't cheap, and the kids know it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Kids stealing from the military? Hah, that's a new one. Where are the guards here?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Kayla",
+          "text": "Oh. Didn't they tell you, Lieutenant?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The girl sounds surprised."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Kayla",
+          "text": "The army stationed here started evacuating a month ago. There aren't many of them around these days."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Evacuating?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The Foundation's report was correct. Lilya senses impending danger."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Then where can I find the soldiers that are still here?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Kayla",
+          "text": "Hmm. You're new in town, right? Did you see a bar on your way here?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Kayla",
+          "text": "That's where the Zeno soldiers spend their nights drinking. You might wanna check there first. That's probably where you'll find him."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Him? What does he look like?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Kayla",
+          "text": "Like every other Zeno soldier. They all look the same to me. You'll know when you see him."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She pauses, looking the pilot up and down."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Kayla",
+          "text": "But I have to tell you: The bar doesn't like outsiders. Have you heard of the Order of Enlightenment?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Kayla",
+          "text": "It's an occult society—very active these days. They were preaching in this town just a few days ago. Today is their day of prayer."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "And, what does that have to do with me?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Kayla",
+          "text": "The bar you're going to is where they gather to pray."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Kayla",
+          "text": "That's all I know. If you're going up there, please be careful."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Hah. Thanks."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Lilya turns and leaves. The girl watches her as she goes."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Kayla",
+          "text": "May the Sufferer watch over you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Kayla",
+          "text": "Great Sufferer, by your decree, the glory of former days shall grace our present path."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She whispers a prayer. As she clasps her hands together, the black facets of her ring shimmer."
+        },
+        {
+          "kind": "title_card",
+          "text": "Bar, Chisos"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Guest I",
+          "text": "Great Sufferer, by your decree, the glory of former days shall grace our present path."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Guest II",
+          "text": "We dedicate our souls and minds to you. We seek the well-being of our people in your name."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A solemn atmosphere fills the bar. A small group has gathered under the dim lights, some in black robes, others in everyday clothes. They lean on each other like brothers and sisters."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The man leading the prayer raises his glass and gives a toast."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Bar Owner",
+          "text": "May the Sufferer watch over you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Bar Owner",
+          "text": "Under THEIR grace, may our cups overflow."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Bar Owner",
+          "text": "To the Sufferer."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Crowd",
+          "text": "To the Sufferer!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The bar door flings open."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Guest I",
+          "text": "Hm? Odd time for a stranger to come."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The young pilot looks around."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Not crashing the party, am I?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She heads straight to the bar, where the shelves glitter with various bottles."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Napa Valley, Californian red, Kentucky whiskey ... Hah, there's a lot of good stuff here."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "One vodka. Straight. The best you got."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Bar Owner",
+          "text": "It ain't business hours, lady."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "*click*"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She knows that sound—someone's cocking a gun just inches away from her."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Hey, all I did was ask for a drink! Is this how you treat your customers?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Bar Owner",
+          "text": "As I said, we ain't serving you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Why? Don't you have vodka?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Fine, I can settle for whiskey. Have to learn to take what we can get, eh?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Bar Owner",
+          "text": "You ain't getting that, either."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Seriously? You don't have any whiskey?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She glances at the whiskey bottles lining the shelves."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Pft. I'm starting to understand why Zeno evacuated. What's the point of living in a town where there's no real liquor? Especially for those drunkards."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Bar Owner",
+          "text": "What's a Zeno lieutenant doing here, anyway? No alcohol fuel in that warehouse of yours?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The patrons laugh."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Hah! You sure have some interesting drinking habits down here."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "But I'm curious. What did this Sufferer promise you to make you all change your faith?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "I mean, that's quite an achievement, especially here in Texas."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She turns, narrowly avoiding a bullet. It whizzes past her hair."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Oh, so we're doing this now, are we?"
+        }
+      ]
+    },
+    {
+      "script_id": "202110",
+      "internal_title": "【2.1】77号往事-06.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Bottles crash to the floor, splashing alcohol all over the bar."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Bar Owner",
+          "text": "*pant*"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Look, I don't care what you're doing here. Just tell me where that Zeno soldier went."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She looks down at the bar owner slumped over the counter."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Bar Owner",
+          "text": "What Zeno soldier?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The man strains to open his swollen eyes."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Don't play dumb with me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Bar Owner",
+          "text": "Oh. That soldier. He's a complete idiot, that one."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Bar Owner",
+          "text": "It's obvious that Zeno's abandoned him. But he insists that they left him here because they believed that only he could keep the warehouse safe."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Bar Owner",
+          "text": "Why are you looking for him now if you decided to ditch him in the first place?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Listen, I can tell you guys aren't the biggest fans of Zeno, but that has nothing to do with me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "I'm just here to get my stuff back."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Bar Owner",
+          "text": "*exhale*"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He takes a labored breath."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Bar Owner",
+          "text": "Fine. If you insist on finding him, try your luck on the outskirts of town. He might be drinking there."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Hmph. Thanks."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She steps over the unconscious man beside her and leaves the bar."
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

@@ -1,0 +1,538 @@
+{
+  "episode_id": 3610108,
+  "chapter_id": 36101,
+  "chapter_title": "Last and First Principles",
+  "display_label": "",
+  "title": "Night Climber",
+  "subtitle": "Wait for dawn at the mountain's peak.",
+  "trails": [
+    {
+      "element_id": 3610106,
+      "owner_episode_id": 3610108,
+      "trigger_episode_id": null,
+      "title": "Pending Report",
+      "description": "This tech is not yet ready to help the world.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=3610108",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "Preliminary Investigation Report on the Toybox"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "After the ninth \"Storm,\" Musae III provided the toybox as a tool for simulation experiments to help develop a Pre-Storm Emergency Protocol that meets LSCC standards while adhering to humanitarian principles.\nNote: Existing solutions all failed to meet LSCC standards. Based on the scientific principles of \"objective investigation, rational skepticism, pluralistic doubt, and equal debate,\" response plans for the \"Storm\" should also be tested in practice. Thus, this is not a useless effort or an excuse to play board games at work.\nThis project, led by Researcher Ulrich and supervised by Researcher Adler, launched after the ninth \"Storm\" and has been gradually refined. During this period, a technical fault in the box caused a large-scale \"language disorder\" phenomenon, which stabilized after Researcher Adler's intervention, preventing major losses.\nDuring the \"Free Breeze\" incident, Researcher Ulrich used preliminary toybox research results—\"Artificial Storm\" technology—to test the \"Regulus\" record, achieving significant results.\nAfterward, due to busy schedules, development of the Pre-Storm Emergency Protocol was temporarily put on hold.\nAfter the tenth \"Storm,\" new anomalies began appearing within the toybox. Researchers Ulrich and Adler disagreed on how to handle the toybox, each submitting separate research reports. These reports are currently being compared and evaluated; specific details are expected in future publications."
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "203611",
+      "internal_title": "【3.6】人们向何处去08",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "Adler",
+          "text": "Going mountain climbing again?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adler",
+          "text": "Where are you heading this time? Watzmann, Nebelhorn?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Greta",
+          "text": "Spain, actually. To the tallest peak in the Pyrenees—Aneto."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adler",
+          "text": "You just finished a field mission. Shouldn't you take more than a day to recover?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Greta",
+          "text": "I was only helping them establish an organizational system for their arcanist database in Morocco. And I got plenty of sleep on the plane."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Greta",
+          "text": "What about you? Another late night of research, by the looks of it?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Greta",
+          "text": "I've heard the people at Laplace are night owls too. You should fit right in with their schedule."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The all-nighter has left Adler looking a little worn, but his eyes are as bright as ever."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adler",
+          "text": "A genius's best thoughts always come at night—an overly poetic sentiment, to be sure, but I see it as a rational conclusion based on experience."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Greta shrugs. She has no intention of nagging him about it the way their parents do."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Greta",
+          "text": "Remember—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adler",
+          "text": "I know, mow the lawn."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adler",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Noticing the silence, Greta slows her hand on the door again."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Greta",
+          "text": "You look like you still have something to say."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adler",
+          "text": "This month it is setting up an arcanist registry. Last month it was mediating an arcanist dispute, cleaning up after the Foundation's mess."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adler",
+          "text": "I don't think we need more examples. Greta, you're working like Mama sweeping the damn dust behind the door."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adler",
+          "text": "She sweeps and sweeps. Day after day. Year after year. To abate a problem that could be solved by simply closing the window."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Greta",
+          "text": "I know you aren't happy with always having to pick up after her in secret, but you shouldn't let Mama know that."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Greta",
+          "text": "But, tell me, dear brother, do you think we should close the window forever?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adler",
+          "text": "No, what I meant was ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Greta waves her hand."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Greta",
+          "text": "I never did properly tell you why I joined the Foundation."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Greta",
+          "text": "You're right, field investigator work is as you say. While there are complicated procedures to follow, the actual situations are so simple, it hardly takes a genius to figure them out."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Greta",
+          "text": "Most of the difficulty comes from dealing with officials. It's entirely up to them whether they drop the red tape and empty rhetoric or raise their walls higher."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Greta",
+          "text": "And from a utilitarian standpoint, it's not a rational choice. After all, the promotion prospects are very limited."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adler",
+          "text": "Then why do you insist on doing it?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The stubborn confusion in his voice means this won't be a brief chat."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She glances at the clock on the wall, hesitates, then shifts the weight of her backpack."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Greta",
+          "text": "Adler, have you heard of Mount Godwin-Austen? They call it K2."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adler",
+          "text": "The second highest mountain. After Mount Everest."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Greta",
+          "text": "That's right. I like the name, K2. Just a letter and a number. It's direct, bare, concise—unembellished. It perfectly captures the image of a \"brutal peak.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Greta",
+          "text": "That mountain has a higher death rate among climbers than that of the world's highest peak. Once you choose to climb it, you've already put your life in the harsh hands of nature."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Greta",
+          "text": "Even among mountaineering clubs, amidst the praise for your determination, I trust the majority of people would still exclaim, \"Do you have a death wish?\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adler",
+          "text": "I don't follow."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Greta",
+          "text": "The view from the peak of K2—it's different from yours, from the University of Göttingen, or from any other place in the world."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Greta",
+          "text": "That's what those people with \"a death wish\" are trying to obtain."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Greta",
+          "text": "Of course, most Foundation field investigators don't face such extreme conditions."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adler",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Greta",
+          "text": "I don't understand arcanum. I don't understand the arcanists it creates, either."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Greta",
+          "text": "But these things are deeply rooted in our world."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Greta",
+          "text": "The Foundation is a great fulcrum, a window, a place to observe, and to participate."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Greta",
+          "text": "Even if I wanted to, there's no avoiding dealing with all kinds of arcanists and arcanum."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Greta",
+          "text": "They hide, tucked away among the many interwoven branches of bureaucracy. This is a view gained only by joining the Foundation."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Greta",
+          "text": "Each arcanist becomes a new case study. Because no matter how bizarre the phenomenon, once it is systematically documented and analyzed, it always falls into a chain of logic."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Greta",
+          "text": "Adler, why are you looking for a unified theory?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adler",
+          "text": "To make the world concise, summarizable. It must be knowable and reliable to be suitable for life."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Greta",
+          "text": "Do you think society can also have such a theory?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Greta",
+          "text": "Something that can integrate all this disordered, chaotic fragmentation and allow arcanists and arcanum to find a place among rationality?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Greta",
+          "text": "I believe that's what I'm doing now. I see these endless missions as brute-force exhaustive research, like foolishly trying to count every grain of sand on a beach."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Greta",
+          "text": "Once complete, it will give a full view of both humans and arcanists, founded in rationality and worthy of trust."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Greta",
+          "text": "Heh, you could call it \"Hofmann Idealism.\" It certainly seems to be in both our blood, dear brother."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adler",
+          "text": "Alright, isn't it quite time you left?!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Greta pays no mind to her brother's embarrassed huff. Something else has occurred to her."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Greta",
+          "text": "I heard Laplace is experimenting on arcane skill fusion these days. They plan to distribute equipment infused with the power of incantations to us investigators."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adler",
+          "text": "I'm not going to put my faith in some inexplicable \"magic\" weapon."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Greta",
+          "text": "Mm, I expected you'd say as much."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Greta",
+          "text": "Then, this might be more your speed. It's a Luger pistol. A regular firearm, able to be disassembled and reassembled as you see fit."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adler",
+          "text": "A pistol?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Greta",
+          "text": "I also have one—it's a Foundation-issued pistol for field investigations. I'd say I already have a solid eye for it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adler",
+          "text": "Greta, what kinds of missions are you going on that require guns?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Greta",
+          "text": "While extreme circumstances are rare, they're bound to happen eventually. In those cases, it doesn't hurt to have a gun. That goes for both of us."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She settles her pack on her shoulders. The half-open door swings wide, and the morning sunlight spills over her. She looks ready to dissolve into it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Greta",
+          "text": "I'm heading out now."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "Greta, wait!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Greta",
+          "text": "Time waits for no one, dear brother. I have to go eventually."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Greta",
+          "text": "For every mountain in the world, there will always be someone who seeks to climb it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adler",
+          "text": "...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adler",
+          "text": "Wait, I also—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adler",
+          "text": "Greta—!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "Greta! Greta!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He pounds his fist against the door. It doesn't move."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A door he knows well. A door he has always wanted to open."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A door he had once opened. A door that opens only for geniuses."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pointer",
+          "text": "Adler, Mr. Adler!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He snaps back to reality."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The stares of his colleagues in the Laplace meeting room bore into him."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ulrich",
+          "text": "You've been out of sorts during our recent meetings, Adler. You should get more sleep."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ulrich",
+          "text": "Sleep is a vital function for humans; it—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "Thank you for your considerable insights into human nature. But that's quite enough."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "Now to our current situation. We need to figure out our next steps."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The conversation resumes, and the geniuses leave behind the trivial matter of sleep."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "Ludwig's reappearance has introduced a serious problem."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "The core is no longer in our hands. Our crossword puzzle has been torn to shreds, and we have no leads to speak of."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "Even the most skilled cryptographer can't reverse-engineer a key out of thin air."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Medicine Pocket",
+          "text": "Seems like an easy fix to me. I say we take apart the toybox."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Medicine Pocket",
+          "text": "Ludwig and the core are both in there, right?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Medicine Pocket",
+          "text": "So take it apart! Let all its elements reset to their original states individually. Then, it'll be a breeze to analyze."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ulrich",
+          "text": "That's too reckless, Researcher Medicine Pocket! Dismantling the toybox might cause significant data loss."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ulrich",
+          "text": "Or possibly even destroy the toybox itself, then we'll be without any research subject at all!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Medicine Pocket",
+          "text": "Well, sitting here overthinking everything isn't gonna produce any results either."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "Just reset it. We can continue with our original plan."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Enigma cuts in, stopping the argument before it starts."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pointer",
+          "text": "The toybox remains unstable. If we reset it in its current condition, there's no telling whether we'll return everything to its original state or just cause even more chaos."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Hissabeth",
+          "text": "Ludwig's signal is still near the tower. We'd better come to a decision before he leaves."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "No more hesitating. There's no use in waiting."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "Plus, since the data is restored after each reset of the toybox, we can start by assuming that the mishap with Ludwig has been fixed."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "We start with a hypothesis, then we test it."
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

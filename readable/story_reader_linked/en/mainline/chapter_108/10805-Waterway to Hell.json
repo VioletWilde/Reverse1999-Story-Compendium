@@ -1,0 +1,678 @@
+{
+  "episode_id": 10805,
+  "chapter_id": 108,
+  "chapter_title": "Tristes Tropiques",
+  "display_label": "",
+  "title": "Waterway to Hell",
+  "subtitle": "The river is both home and life. The river gives, the river takes.",
+  "trails": [
+    {
+      "element_id": 1080501,
+      "owner_episode_id": 10805,
+      "trigger_episode_id": null,
+      "title": "The Red-Bellied Piranhas",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=805",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "So, things went sideways. That's what happens when you put guns in the hands of amateurs."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "But you handled the water better this time. You controlled your breathing, kept your airways clear, and this time you remembered to lie back and float."
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "Who are you?",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Does it matter? I'm all you've got. We're at war—bullets flying, wounds festering, typhoid, cholera, and all the worst of it. It's a living hell, and only fools think there's any honor in it."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "You never expect to see a familiar face again, not in times like these."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Now I need you to listen. There's something you should know."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "What things?",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "The raid on the river was a ploy, and its mastermind is an old acquaintance. As for the ones who carried it out—you already heard about them this morning."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "They promised their followers they'd push south, and they did. With their supplies secured by a mysterious third party, they paraded through every town along the way, playing as \"liberators\" and taking out anyone they decided were their enemies."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "They swelled in numbers, larger than any local gang or cult had ever gotten before."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Now they swarm across the land like a school of red-bellied piranhas. Always hungry, ready to tear apart anything that crosses their path."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "What happened to the others?",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Chances are they're doing fine, just like you."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Would've been nice if you caught what that little executioner and that \"gold-hearted\" gambler were talking about during their dice game. Guess you'll have to ask her later."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "Why don't *you* tell me instead?",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Listen, I'm not here to run your errands or play your messenger boy, so ask nicely."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "There's nothing more I need to tell you. For now."
+            }
+          ]
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1080502,
+      "owner_episode_id": 10805,
+      "trigger_episode_id": null,
+      "title": "Incarceration Record",
+      "description": "Some people end up in prison simply because of the wrong friends. Unfortunately for her, she didn't have much of a choice in the matter.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=805",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "Special Incarceration Record"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Prisoner Name: Ms. Kimberly\n\nDetention Process: During the raid on the Apostles Brotherhood stronghold, the subject was found alone, gnawing on a turkey leg, and was apprehended by Lieutenant Lopera's team. After interrogation, it was confirmed that the subject was indeed a follower of Manus Vindictae, but she knew even less than a typical follower, did not participate in the local rebellion, and was not involved in General Carlos's assassination. Therefore, unlike other deserters, she will not be executed but held in custody, awaiting Admiral Igor's decision.\n\nJust leave her be for now."
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100806",
+      "internal_title": "第八章8-05.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "Waterway to Hell"
+        },
+        {
+          "kind": "title_card",
+          "text": "Aboard the \"Alligator\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The wind blows through Lopera's hair."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The tourists gather at the ship's edge, watching the locals in small boats approaching the cruise ship."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Cruise Passenger",
+          "text": "A few treats to buy their worship. And they call it \"kindness.\" How undignified, to be reduced to begging for scraps like a dog."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The children on the boats wave their hands and shout in an attempt to attract the tourists' attention."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The crew and onboard priest have packed supplies for the tourists to buy and throw to the impoverished children—all part of the tour experience."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lopera",
+          "text": "Dignity doesn't count for much in the face of hunger."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The stranger nods, though he doesn't seem to completely agree."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Cruise Passenger",
+          "text": "Yet no man can live by bread alone."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lopera",
+          "text": "And yet none can live without it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Cruise Passenger",
+          "text": "You're a clever girl, Miss. But I hear from your accent you are no local. So, what brings you to São Paulo? Business, right? I have some business myself in the favelas."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lopera",
+          "text": "Colombia, sir, and no, only a visit. To the São Paulo Veterans' Residence. It's a safe place. If you find yourself in trouble, you should seek it out."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Cruise Passenger",
+          "text": "Oh, is it now? Thank you. You're very kind to offer."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Lopera idly tosses a small die up in the air and catches it in her hand again."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The stranger's eyes follow the die as it traces its path."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Cruise Passenger",
+          "text": "Care for a game of dice, little lady?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lopera",
+          "text": "What's the bet?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She glances at the black suitcase by the stranger's feet."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Cruise Passenger",
+          "text": "Well, let us bet against the goodness in one another."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Cruise Passenger",
+          "text": "Let us say that the loser will cover the cost of all the food given to all the little vendors today,"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Cruise Passenger",
+          "text": "in the winner's name, of course."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A generous gamble for a conscience that knocks on heaven's door."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lopera",
+          "text": "That's no small wager, sir. Still, I appreciate a good game."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The stranger smiles as he watches Lopera drop the die on the table and shake it in the wooden cup."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lopera",
+          "text": "High-low then? Who goes first?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Cruise Passenger",
+          "text": "Ladies first."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lopera",
+          "text": "Low."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Cruise Passenger",
+          "text": "Let's make it more interesting. Six. If it rolls anything else, you win."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She shakes the cup again, the die unevenly tumbling around inside."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Cruise Passenger",
+          "text": "Do you mind?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Cruise Passenger",
+          "text": "I lost, just as was meant to be. So then, I am to be the vehicle of grace today."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Cruise Passenger",
+          "text": "Might I have your name, Miss? So that all may know the name, which is to be sung in paradise today."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lopera",
+          "text": "Carlotta Lopez Rivera. But it is \"Lopera\" should you ask after me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Lopera. Lopera of São Paulo."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The defeated stranger picks up the die. He notices something in its design and cracks a smile."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He places it in Lopera's hand."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Cruise Passenger",
+          "text": "That's an interesting die you have there."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lopera",
+          "text": "It was only luck—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lopera",
+          "text": "What's going on?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "River Pirate",
+          "text": "Do as I say! All of you!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sotheby",
+          "text": "Look, Vertin! There are some more \"river cowboys\" over there!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "I'm afraid they seem more like river pirates."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Stay back, Sotheby!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "What do you want?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "River Pirate",
+          "text": "Where's the captain? We're changing destinations. This ship will be docking in the favela now."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "River Pirate",
+          "text": "Or we'll blow it all to bits!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He flicks a lighter and lights the fuse of an explosive. He's panicked. Clearly, he's afraid of something."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lopera",
+          "text": "Get out of the way!!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Lopera has already drawn her guns."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "But the crowd is panicking. She can't get a clear shot."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Hold your fire, Lopera!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "There are oil drums on board!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Lopera notices the oil drums stacked behind the crowd. A single mistake could turn the whole ship into tomorrow's headline in the São Paulo papers."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lopera",
+          "text": "Ah, slimy rats."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She holsters her guns and charges forward with her bare fists."
+        }
+      ]
+    },
+    {
+      "script_id": "100807",
+      "internal_title": "第八章8-05.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Lopera grapples with the thug before wrestling him to the ground and punching him repeatedly in the nose."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She tears the explosives off the pirate's body, but in that brief moment, the thug manages to pull one of her guns from its holster."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Lopera!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The fight halts, the thug's trembling hand pointing the gun at Lopera. The oil drums are just a few steps away."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "River Pirate",
+          "text": "Either we go to the favela, or to the bottom of the river, clear? Make your call!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lopera",
+          "text": "The favela ... Are you with the Apostles Brotherhood?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "River Pirate",
+          "text": "...?!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lopera",
+          "text": "They forced you into doing this, didn't they?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lopera",
+          "text": "\"Hijack the ship and bring it to us.\" Is that right?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lopera",
+          "text": "Too bad for you. This ship won't be making any unplanned detours today."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The pirate's eyes widen as he freezes in place, only his legs trembling."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Lopera hit the mark, but the thug's reaction is extreme."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "His finger tightens on the trigger as his teeth chatter nervously."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lopera",
+          "text": "Stupid!!!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lopera",
+          "text": "Get down!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The bullet flies past her shoulder, instead piercing an oil drum behind her."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lopera",
+          "text": "Blaze-busters?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A blinding flash of light and a wave of heat hit them as the ship is quickly engulfed in flames."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The ship lurches violently as the blast tears through the vessel, and water starts flooding into the hull."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Passenger",
+          "text": "Oh, my God!!!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Chef",
+          "text": "Lifeboats! Get to the lifeboats now!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Passenger",
+          "text": "God help us! This is hell!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Panic breaks out as the ship starts to split in half."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "More explosions follow."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "There's no sign of Ms. Kimberly in the crowd."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lopera",
+          "text": "Hold the railings! Stay on the deck!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Lopera shouts from the water as she clings to a piece of floating wood. She gasps for air as she bobs up and down in the water."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Chairs, benches, and sailing gear disappear as the ship sinks further and further into the depths of the river."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Sotheby clutches the guardrail tightly, but the ship is almost vertical and sinking fast."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Let go, Sotheby! You need to jump now! Join Lopera!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Screams fill the air as the tourists cling on for dear life, watching their friends and family hurtle toward the river."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Like overripe oranges, one by one, they lose their grip and plunge into the depths."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sotheby",
+          "text": "Vertin!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Flames lick the guardrails, melting the ship's cheap materials. The explosions ring in her ears."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Sotheby closes her eyes and flings herself toward Lopera."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Lucky for her, Lopera quickly grabs her hand and pulls her onto the wooden plank."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sotheby",
+          "text": "Somebody, please get her! She's still ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "\"She\" is still on the ship."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "With one final explosion, the ship is obliterated entirely."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The river swallows everything."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The sunlight ripples on the surface, growing farther and farther away."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Whose hand is that?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Can't have you dying here."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "*sigh* Why do we keep meeting in these awkward situations?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Consider my debt paid."
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

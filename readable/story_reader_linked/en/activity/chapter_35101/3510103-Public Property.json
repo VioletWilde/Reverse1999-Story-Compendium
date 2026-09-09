@@ -1,0 +1,620 @@
+{
+  "episode_id": 3510103,
+  "chapter_id": 35101,
+  "chapter_title": "绿松石蛇俱乐部",
+  "display_label": "",
+  "title": "Public Property",
+  "subtitle": "A space for everyone—where challenges, negotiations, doubts, and quarrels unfold.",
+  "trails": [
+    {
+      "element_id": 3510106,
+      "owner_episode_id": 3510103,
+      "trigger_episode_id": null,
+      "title": "\"This city is ours.\"",
+      "description": "Everyone knows exactly what to avoid.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=3510103",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "The City and the \"City\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "After the \"Storm,\" the Vigiles Bureau returns to every \"important city\" following the same pattern—an unremarkable office at first, then a few Vigils, and before long, people simply grow accustomed to its presence as though it has always belonged there.\n\nAccording to official records, the Vigiles Bureau exists to investigate complex cases involving arcanum. It operates independently of the government, each fulfilling its own mandate without interfering with the other's affairs, though the two maintain steady communication.\n\nAt the same time, the criminal underworld enters what the press calls the age of \"modern crime.\" The most dangerous example of which is known as \"El Automóvil Gris\" or the Grey Car Gang, driving in their eponymous automobiles with matching grey attire. Their increasingly organized robberies and violence have given them a steady spot in the crime columns. Their methods have been dissected and debated at length, yet no amount of analysis softens the reality of what they are. People have begun to realize that violence and plunder are becoming more organized and more efficient. Crime is no longer a matter for the police alone—it has become a reality the whole of society can no longer afford to ignore.\n\nOf course, the Grey Car Gang alone is not enough to shake the order of an entire city. The local police know the limits of their authority, and the Vigiles Bureau understands how to avoid raising questions outside its jurisdiction. The underworld and the authorities share the same map—they simply disagree on how to read it.\n\nThis seemingly harmonious coexistence does not eliminate conflict, only confines it. Police, Vigils, and grey cars pass through the same streets, fully aware of one another. They all understand the same unspoken truth—when the sun rises, the streets return to normal. Everything dissolves into the daylight, folding back into the city's shadow."
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 3510107,
+      "owner_episode_id": 3510103,
+      "trigger_episode_id": null,
+      "title": "Beneath the Dust",
+      "description": "The art and culture we're crying out for.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=3510103",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "The Muralism Movement, Part I"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "In early twentieth-century Mexico, no art form is more woven into everyday life than the art of the mural. Too large for any private collection, they occupy stairwells, courtyards, and corridors. It is for this reason that the muralism movement sparks continuous debate—about art itself, about who gets to decide how art is presented, and about how long these works can remain in public spaces.\n\nThere was a time when the government dictated the direction of aesthetics. Only when the old order collapses do suppressed traditions find new life. Public buildings become canvases. Images naturally take on the role of narrative and expression. Murals spread across corridors and courtyards, functioning less like paintings meant to be admired and more like street signs or door plaques. Across different works, the same gestures appear again and again—heads raised, hands at labor, bodies in motion. Learning to read these images becomes part of life in the city and beyond. Through this art, Mexicans begin to build an entirely new sense of identity.\n\nIn technique, most of these works take the form of frescos. The painter works against the drying plaster. Pigments sink into the wall and allow almost no revision once set. Over time, colors gradually fade and outlines disappear beneath dust. Countless people pass beneath them, look up briefly, and walk on. Yet the walls remain, still bearing the traces.\n\nPerhaps the mural's true significance lies not in its form or technique, but in the emotion and memory it carries."
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "203504",
+      "internal_title": "【3.5】绿松石蛇俱乐部03",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "Vigiles Cadet I",
+          "text": "Did we get anything from the crime scene?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vigiles Cadet II",
+          "text": "Similar to the last three cases. They're almost certainly serial murders."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vigiles Cadet II",
+          "text": "But the intervals are getting shorter. Our perp's skills are improving."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vigiles Cadet II",
+          "text": "Same method, an enclosed room, no abnormalities in the victim leading up to their death ... The surrounding residents all think this place is haunted."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vigiles Cadet I",
+          "text": "Worse than haunted. Still no sign of our suspect, I take it?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vigiles Cadet II",
+          "text": "Ugh, don't even mention it. Victim was in a load of debt, so we've got a list of suspects longer than a courthouse docket. You and I will have to get the statement together tonight."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vigiles Cadet I",
+          "text": "Ah, give me a break. I was going to go to the ceremony in a few days!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vigiles Cadet II",
+          "text": "*scoff* You wish. The \"Storm\" stops for no one!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The cadets hurry off."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "At the reception desk, the camera-headed girl contents herself with taking in the surroundings."
+        },
+        {
+          "kind": "title_card",
+          "text": "Corridor, Temporary Branch"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Receptionist",
+          "text": "Just fill in this Vigiles Case Acceptance Registration Form, and you're good to go."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Loggerhead",
+          "text": "Thank you! Let me see."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Loggerhead",
+          "text": "Name, Latham. Age, what year is it now? Hmm, let's say 97. Race, Awakened ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Loggerhead",
+          "text": "By the way, is this Mexico City, the capital of Mexico?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Receptionist",
+          "text": "It certainly is. This is the Vigiles Bureau temporary branch in Zócalo, Mexico City."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Receptionist",
+          "text": "We thought there'd been another murder when we received your distress signal."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Loggerhead",
+          "text": "Murder? No, no, no, nothing that horrible!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The implication seems to be lost on her."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Loggerhead",
+          "text": "Hah, thanks so much! I'd never have gotten out of that desert alive if it weren't for you!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Loggerhead",
+          "text": "I'll make sure to write you a thank-you letter once I get back to the Foundation!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Loggerhead",
+          "text": "Oh, could you help me check out my teleport disks? I think there's something wrong with them."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Loggerhead",
+          "text": "I can leave them all here and take them back in a couple—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Receptionist",
+          "text": "Egh! Just a few Desert Devil Lizards, huh?!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The receptionist snatches the form from her hands."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Receptionist",
+          "text": "I am sick of this!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Receptionist",
+          "text": "Just days ago, a Foundation employee showed up with a warrant, took away half our most important files, and left the archives in a complete mess!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Receptionist",
+          "text": "And now here you are!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Receptionist",
+          "text": "Anyway, I'll be writing a letter of my own to your headquarters for wasting Vigiles resources."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Receptionist",
+          "text": "You can go."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Loggerhead",
+          "text": "Oh, just a second, ma'am! Actually, I'm here investigating a kind of arcane material, and ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The receptionist boils over with frustration."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Receptionist",
+          "text": "Get out! I don't wanna hear another word about your lizard problems!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Loggerhead",
+          "text": "But it might have something to do with Manus Vindictae! I need the Vigiles's help!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Receptionist",
+          "text": "\"Might\"? You might as well say the Manus will be taking over the Foundation tomorrow!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "As the dispute continues, two returning Vigils take notice."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Black Ibis",
+          "text": "What's going on here?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Black Ibis's Cadet",
+          "text": "Hey, if it isn't Latham! What brings you here?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Loggerhead",
+          "text": "Ms. Black Ibis, Mr. Alan!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Loggerhead",
+          "text": "Thank goodness you're here! I need your help!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "It takes the Vigil only a moment to read the situation."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Black Ibis",
+          "text": "She's a friend of ours. Leave her to us, Laura. I will take you out for some pulque later, in that pub we used to go to. My treat."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Receptionist",
+          "text": "If you say so, Ms. Black Ibis."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Receptionist",
+          "text": "And my name's Katalina."
+        },
+        {
+          "kind": "title_card",
+          "text": "Lobby, Temporary Branch"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The Vigil and her cadet lead the visitor into the grand hall. They haven't seen each other since the events surrounding a theft at the Arcanum Containment Department."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Loggerhead",
+          "text": "Whoa! Look at this place!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Black Ibis",
+          "text": "This was the Mexico City People's Library, now requisitioned to serve as the Vigiles Bureau's temporary branch."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Black Ibis",
+          "text": "It will reopen to the public once we leave."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "They stop before the enormous mural."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "On one side, stern-faced young people hold firearms, their eyes set on visions of sun, earth, and the future. On the other, peasant women tend to the harvest."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Loggerhead",
+          "text": "Wait! I know this."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The camera-headed girl swaps the film reel in her head and begins to speak."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Loggerhead",
+          "text": "This kind of mural is designed to be seen from different angles as visitors walk up the stairs!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Loggerhead",
+          "text": "Because there's no fixed order to read it, everyone gets their own version of the story."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Loggerhead",
+          "text": "Look at it! So sacred and gentle. A perfect combination of tradition and modernity."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Black Ibis's Cadet",
+          "text": "Hey, you really know your stuff."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Loggerhead",
+          "text": "Hehe, I learned it from a documentary. Even made a copy of it so I wouldn't forget."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The \"master of film art\" fixes her gaze on the blank center of the mural."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Loggerhead",
+          "text": "But this one seems unfinished."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Black Ibis's Cadet",
+          "text": "It's got nothing to do with the Vigiles; I'll tell you that much."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Black Ibis's Cadet",
+          "text": "These public murals are from artists commissioned by the Secretariat of Public Education."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Black Ibis's Cadet",
+          "text": "But the painter of this mural went missing not long ago, leaving his work unfinished. He's not the only one. People are disappearing all over."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Black Ibis's Cadet",
+          "text": "Apparently, a rising star in this era. We tried to investigate further, but all we discovered was that he got caught up in an arcanist gang brawl and then he was gone. Too bad, really."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Black Ibis's Cadet",
+          "text": "What did they say in the paper? \"A Revolution in Theme and Skill\"? \"Breakthrough in Technique\"?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Black Ibis's Cadet",
+          "text": "Um, art really isn't my thing."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The vigil interrupts the idle chatter."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Black Ibis",
+          "text": "We only arrived here ourselves a short time ago."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Black Ibis",
+          "text": "Since the last \"Storm,\" migration into Mexico City has exploded, and the number of arcanist crimes has surged along with it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Loggerhead",
+          "text": "Oh, oh! Just like in The Gray Automobile! Legendary gangs, foreign thieves, and sophisticated modern criminal methods!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She swaps in a new reel once again."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Loggerhead",
+          "text": "Robbers disguised as officials, going into people's houses with false search warrants, even with the official signatures on them."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Loggerhead",
+          "text": "The stuff they showed in the movie even led to some real-life robbers doing the same thing!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Black Ibis's Cadet",
+          "text": "Yeah, no coffee breaks for us without some backup from HQ. And to think we've got a diplomat visiting soon! Can't he choose some other time?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Black Ibis's Cadet",
+          "text": "So, forgive Katalina for being rude just now. We're all just a little burnt out."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Loggerhead",
+          "text": "Oh, I understand. We're the same way after each \"Storm.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Black Ibis's Cadet",
+          "text": "I can't tell you much else, but Mexico City isn't the safest place these days. Whatever you do, be careful, Latham."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Black Ibis",
+          "text": "So, what was it you were saying at the reception desk? Something you wanted to find in Mexico City?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Loggerhead",
+          "text": "Right! A kind of special arcane material! Apparently, the Manus disguises it as some kind of mineral pigment to smuggle it out of the city."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "\"Memories\" race through her head in reverse. She snatches a single frame before it slips away and relays the information to the Vigils."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Black Ibis",
+          "text": "Manus Vindictae. Mineral pigment."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Black Ibis",
+          "text": "The resurrection ritual."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The Vigil and her cadet exchange a glance."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Black Ibis's Cadet",
+          "text": "That's odd, though. Mexico City isn't one of their known bases of operation. As for the pigment smuggling—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Black Ibis",
+          "text": "There are no related reports in our archive."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Loggerhead",
+          "text": "What? How can that be?!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Black Ibis",
+          "text": "But I know someone who can help."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Black Ibis",
+          "text": "No one knows the era better than its natives, and I happen to know a particularly useful one."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Black Ibis",
+          "text": "She's a contractor, an exorcist hired by the Vigiles to remove lingering traces of arcane crimes before they're made accessible to the public again."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Black Ibis",
+          "text": "According to the latest regulations, she's been given partial access to information on the \"Storm.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Loggerhead",
+          "text": "An exorcist who works on crime scenes?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She takes a moment to picture what that job must entail."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Black Ibis",
+          "text": "She's more than just an exorcist. She's the eyes hiding in the shadows. Nothing goes down in this city without her knowing about it. It's said she can sense things regular people can't."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Black Ibis",
+          "text": "I have to say, she's piqued my curiosity. Something tells me that she would make a great Vigil."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Black Ibis",
+          "text": "I offered to recommend her for Vigiles selection. I'm sure she'd pass with flying colors, but she turned me down."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Black Ibis",
+          "text": "Perhaps you can talk her into helping you, or even joining us."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Black Ibis's Cadet",
+          "text": "You'll need a serious way with words to do that."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Loggerhead",
+          "text": "Okay. Thank you so much, Ms. Black Ibis, Mr. Alan!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Though the information is far from sufficient, Loggerhead plows ahead with full enthusiasm."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "After seeing her off, the cadet turns to the brooding Vigil, puzzled."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Black Ibis's Cadet",
+          "text": "Mineral pigment. You know what? Dimas—that guy from the European branch—he's been looking for that too."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Black Ibis's Cadet",
+          "text": "I overheard him asking about it, was looking for the case files on the previous \"Storm.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Black Ibis's Cadet",
+          "text": "So then people in the Vigiles are looking for it. You think he's up to something?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Black Ibis",
+          "text": "Ha, Dimas. Reminds me of an old friend."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Black Ibis",
+          "text": "You know Creius, don't you? When he was in the Vigiles Bureau, Dimas was one of his most loyal subordinates."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Black Ibis",
+          "text": "And now, he's gained the recognition of some bigwigs in the Foundation. Didn't take long for him to work his way up."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Black Ibis",
+          "text": "No matter what their reasoning, or who they're working for, our best course of action might be to let both parties get what they want: that pigment."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Black Ibis offers a knowing smile."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Black Ibis",
+          "text": "Times are different now, Brian. Both Europe and the Foundation are in turmoil."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Black Ibis's Cadet",
+          "text": "Is this that \"political wisdom\" you're always talking about? What was it? \"Doctrine of the Mean\"?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Black Ibis's Cadet",
+          "text": "And once again, my name's Alan."
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

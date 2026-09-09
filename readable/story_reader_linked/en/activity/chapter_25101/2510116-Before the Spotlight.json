@@ -1,0 +1,688 @@
+{
+  "episode_id": 2510116,
+  "chapter_id": 25101,
+  "chapter_title": "Showdown in Chinatown",
+  "display_label": "",
+  "title": "Before the Spotlight",
+  "subtitle": "Years later, all they remember is that empty stage.",
+  "trails": [
+    {
+      "element_id": 2510114,
+      "owner_episode_id": 2510116,
+      "trigger_episode_id": null,
+      "title": "The Joy of Dushuo",
+      "description": "Chinese TV news clips featuring the warm-up for the Chinatown Shehuo Parade.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=2510116",
+      "content_hints": [
+        "fragment",
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "Chinese TV News Segment: Shehuo Parade"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Our reporter brings you an exclusive frontline update:\n\n\"As the Dushuo Festival begins, Los Angeles's Chinatown is once again alive with the excitement of the Shehuo Parade. Humans and arcanists will soon come together to pray for a year of peace and prosperity.\"\n\n\"We are currently at the Chinatown Community Center, which houses 12 sacred arcane idols, marking the starting point of the parade.\"\n\n\"We're fortunate to be interviewing Principal Huang, who is this year's 'Summoning Official.' Principal Huang, could you tell us about your role in the festival?\"\n\n\"Ah, the summoning official is responsible for reciting the summoning rites and inviting the idols. After lunch, the rotating God of Shèti, 'Xieqia,' will be placed on the palanquin. Some of the parade members have already gathered outside.\"\n\n\"That's right, we can see people carrying lanterns and flags preparing for the parade. Principal Huang, what's that large animal lantern over there?\"\n\n\"That's a Lùshǔ, a Xiángruì. Later, it will join the Beast Lantern Team. The parade will be led by the Five-Colored Banners and the Yingge Troupe, followed by the Xiandao Beasts and Xiángruì creatures—quite the spectacle!\"\n\n\"The Xiandao Beasts, are those the legendary creatures said to ward off evil plagues?\"\n\n\"Exactly. During the 'Plague-Banishing' segment, General Qianmo will shout the command, and three young men wearing Xiandao Beast masks will sing the Plague-Banishing Song, imitating the beasts to drive out evil.\"\n\n\"The musicians will accompany them with gongs and drums. The parade will go on until late at night—quite the festivity!\"\n\n\"Thank you, Principal Huang. Though the parade has yet to start, we can see crowds waiting already. Stay tuned as we bring you live coverage of the Shehuo Parade.\""
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "202526",
+      "internal_title": "【2.5】唐人街影话16",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "Our story began 11 years ago. Life was tough, as it is for all young artists."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "But, like the beginning of many stories, there was a kind of beauty in it."
+        },
+        {
+          "kind": "title_card",
+          "text": "Guangfu Restaurant"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "\"Another New Wave director has made a splash with her debut movie. Nitwit boasts an excellent foundation, but it may have reached a little too far with its bizarre and unconventional story ...\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "\"While some have praised its daring approach, it has proven too much for the general audience to appreciate, leading to a disappointing box office performance and living up to its title, Nitwit.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "Hah, what can I say? They've got no taste."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She casually tosses the newspaper onto the table, the loud thud drawing surprised glances from the nearby diners."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "Okay. I guess compromise is inevitable if I want to sell more tickets, but that's not exactly my strong suit."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Noire? Is that you?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "He Rijun",
+          "text": "What a surprise! It's so good to see you again."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "Teresa?! What are you doing here? When did you come back to Hong Kong?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "Teresa, or as you know her by, Hé Rìjūn ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "... was a dear friend of mine, the scriptwriter of Detective C07, and the creator of the cursed film—Reunion of the Three Swallows."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "Hmm. This is a pretty good script. Interesting."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "Teresa and I met while we were studying abroad at a film academy. We took the same scriptwriting class."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "We didn't talk much at first. She always sat in the corner on her own."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "I only got to know her after our teacher showed a script to the class as an example of excellent work."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "The writer's name: Teresa."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "Her stories could strike a balance between the details and the big picture. They were engaging, lighthearted, and warm."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "So, in that moment, when we met again at the restaurant, I realized she was the one I'd been looking for."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "At that time, she was an editor at a small press. I invited her to join my studio, and three months later, she put the first edition of Detective C07 on my table."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "He Rijun",
+          "text": "So? What do you think? Just tell me if you want to change anything. I can—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "I'm thinking about who should play the heroine."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "He Rijun",
+          "text": "Hmm?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "Your script is remarkable—even better than I expected. Let's shoot it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "So we had the script, but we couldn't decide who would play the heroine. We held endless auditions, even considered some famous actresses, but none of them fit."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "Until that night."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "He Rijun",
+          "text": "What did you think of today's candidates? The last one seems okay to me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "No. She's missing that edge. You can see it too, right?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "We're not making lemonade from lemons. At least I'm not."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "He Rijun",
+          "text": "But what if she doesn't even exist? What if our perfect actress only lives in our imaginations?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "Then we'll keep looking until she's born."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Hooligan I",
+          "text": "Agh!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Hooligan II",
+          "text": "Y-You—What're you doing?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "I'm kicking your ass. Got a problem with that, perverts?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "F**k off!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Hooligan I",
+          "text": "J-Just you wait! We'll come back! You'll see!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "After throwing out a few uninspired threats, the hooligans flee in disgrace. Behind the door, a worried face peeks out."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Restaurant Owner",
+          "text": "You really shouldn't have done that. Those guys live in the neighborhood. They won't just let you off the hook after this."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Restaurant Owner",
+          "text": "I know you just wanted to help that girl, but she didn't say anything. Why did you have to make such a scene? What if they come back and tear up the restaurant?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Restaurant Owner",
+          "text": "*sigh* You've gotten me into big trouble, Ā Xīng."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Qi Xing",
+          "text": "Don't worry, boss. I'll quit. If they come again, tell them to come find me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Qi Xing",
+          "text": "Here's my key. Remember to open early. Your regulars don't like to wait."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Restaurant Owner",
+          "text": "Ā Xīng, what are you ... *sigh*"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The restaurant owner resigns to taking the key in silence. Without a backward glance, the girl steps down from the door—only to be quickly stopped."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "Looks like you just lost your job."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Qi Xing",
+          "text": "Yeah, and what's it to you? What do you want?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "To offer you a new one. Are you interested in acting?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "Ā Xīng was surprised when I made the offer. She said she needed to think about it, so Teresa gave her a copy of the script."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "The next day, she knocked on our door and took the offer."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "Later, we learned that Ā Xīng was born into a poor family. Her father was in prison, and her mother had mental issues. She'd been the breadwinner for the family since she was a kid."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "Her father's reputation would often get her into trouble. So, usually, she was either on the way to a job or to a fight."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "As memories surface, Noire lets out a sentimental smile."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "The C07 you saw always had a confident smile on her face, but in actual fact, Ā Xīng almost never smiled at the beginning."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "An actor should learn to commit to the moment in front of the camera and come back to reality behind it. But Ā Xīng didn't."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "She didn't come back to reality. She's never once stopped playing the role of C07 since then, 24 hours a day, 7 days a week."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "She started to smile the way C07 smiled. She went from brash and reckless to sly and methodical—just like C07."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "The Deputy Chief and the BAU made a mistake. Ā Xīng has not confused herself with her character."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "After all these years in the movie industry, I've seen a lot of actors get carried away by the glitz and glamor of their characters."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "But Ā Xīng is different. She values C07 even more than herself."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "So much so that, ultimately, it eclipsed her own consciousness."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "Ms. Liáng, you asked me which rumors about C07 and the three of us were true. Now I can give you an answer."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "Most of them were."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Noire maneuvers her wheelchair to the desk, pulls out a file from the bottom drawer, and hands it to Liáng."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The file is heavy. Liáng opens it up to find an aged photograph."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "Is this ...?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Three women pose together. Their identities are obvious."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "We drew a lot of attention after the release of C07. Put a magnifying glass up to anyone, and you'll always find imperfections. We were no exception."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "Ā Xīng was as stubborn and uncompromising as I was. When we disagreed, it would blow up into a huge argument, neither one of us giving in to the other. Poor Teresa was always caught in the middle."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "I was too young, too bullheaded, to realize the consequences that this might cause. I tore a path forward, often ignoring the people around me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "Teresa, on the other hand, was kindhearted, perhaps too much so. She never got angry, no matter what people said. She just bottled it up inside and let it eat away at her."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Noire gazes at the smiling faces in the photo, her expression tinged with nostalgia and the faintest hint of sorrow."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "She didn't like taking photos. She was self-conscious about her appearance, so we only have a few together."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "This one was taken when we were shooting C07 II. We were so close back then. Of course, we knew we'd have to part ways eventually, but we didn't concern ourselves with that."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "Even then, our shortcomings had started to hurt our relationship. But by the time we realized it, the damage had been done."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Qi Xing",
+          "text": "No! This ending makes no sense. C07 would never do that."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "When we were making C07 III, Ā Xīng was up in arms about the ending."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "In the sequence, C07 tracks a criminal through a Shèhuǒ Parade, hoping to finish him off herself. But when she finds him sitting at home with his family, she changes her mind."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "Ā Xīng didn't like it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "She said that C07 would punish the villain for what he's done, that she would never change her mind. We had countless arguments over this ending, and, of course, we never reached a conclusion."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "Alright, alright! Enough! We're not getting anywhere with this."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "I have an idea."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "So I cheated."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "Were I in the same position now, I'd solve the problem more delicately."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "But I was a jerk back then. The only thing that mattered was the movie. I couldn't care less about what people thought, including my heroine."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "I asked Teresa to write an alternative ending and told Ā Xīng that we'd shoot both endings and pick the better one together."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "She agreed."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "But you didn't keep your word. You released the movie with the original ending."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "It turned out to be very popular, but Ā Xīng saw it as a betrayal. At the premiere, she announced she was quitting the New Art Company that the three of us had founded together."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "I didn't stop her."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "Teresa tried to mend our relationship, like she always did."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "He Rijun",
+          "text": "I wrote a new story, not for C07—a completely new one. If you're interested, maybe we can use it for our next movie."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "He Rijun",
+          "text": "I made a sizzle reel. It's pretty short, probably not as good as the ones we usually make, but shall we watch it together?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "It was her proof of concept for Reunion of the Three Swallows."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "I knew Teresa had always wanted to put an end to the C07 series and write something she was really passionate about."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "Perhaps she thought a new story would help Ā Xīng move away from C07 and become herself again."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "Unfortunately, when she came to show us the script, Ā Xīng and I were in the middle of a fight."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Qi Xing",
+          "text": "No! I'm not acting in any more of your movies."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "He Rijun",
+          "text": "Ā Xīng, wait! Ugh!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "Ā Xīng had always been kind to Teresa, but on that day, she pushed her out of the doorway and stormed off."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "While I ... Well, as I said, I was a jerk. I flipped through her script, and a flurry of harsh words left my mouth."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "Really? This type of story again?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "I told you this isn't your strong suit."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "He Rijun",
+          "text": "...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The script, along with the reel, is shoved back into Hé Rìjūn's hands without a second glance."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "In the end, neither Ā Xīng nor I cared enough to watch Teresa's sizzle reel, even though she tried so hard to present it to us."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "That was the last time we saw Teresa."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "That fire ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "Yes. That's why I'd pay any price to get that film."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "Her script was burned to ashes in the fire. I need to know what story she was trying to tell."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "I suppose Ā Xīng feels the same."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Noire gestures toward the file."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "This is what you wanted to see last time you and your officer friend visited me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "You mean the threatening letter?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "It's not a letter, actually."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Liáng sets down the photo and pulls out the remaining contents of the file. It's an aged script, its cover yellowed by time."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "As she flips through, familiar lines of dialogue meet her eyes. In an instant, she understands the significance of what she's holding."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "It's the script of Detective C07 I."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "The original—the one Teresa handed to Ā Xīng all those years ago."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Liáng never imagined that, one day, she would be holding the origin of the very film that inspired her as a child."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "There is no doubt. Qí Xīng must have returned it to Noire. But why? What does this mean?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She continues to flip through until her fingers meet an object tucked between the pages."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "Is this a poster of the Shèhuǒ Parade?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "Oh, right. It's almost time for the Dùshuò Festival. With everything going on these days, I almost forgot."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Liáng's expression suddenly shifts."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "Wait. Is Ms. Qí Xīng going to ...?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "Your guess is as good as mine."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "They exchange a glance, then both turn their gaze to the image of the Shèhuǒ Parade printed on the poster in front of them."
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

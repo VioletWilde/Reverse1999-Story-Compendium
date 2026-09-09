@@ -1,0 +1,764 @@
+{
+  "episode_id": 11303,
+  "chapter_id": 113,
+  "chapter_title": "他者的悲哀",
+  "display_label": "",
+  "title": "Escape Plan",
+  "subtitle": "Some school traditions run older than the oak trees in the forest.",
+  "trails": [
+    {
+      "element_id": 1130301,
+      "owner_episode_id": 11303,
+      "trigger_episode_id": null,
+      "title": "Homecoming Day",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=1303",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Such a lovely day, isn't it?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "These noisy children are soon going to be locked behind the school gate, and I will say goodbye to you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "This war will be over as long as I close my eyes. It has lasted far too long."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "*sigh* Finally ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "What are you doing standing around? Aren't you heading to school? Go on then. Children your age are SUPPOSED to be learning and playing."
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "I graduated long ago",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "College then. Get yourself a medical degree or a doctorate at least."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Haven't you realized how precious peace is after coming back from the battlefield? Make your life count."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "I'm going to take a nap. Now, go and find something to keep yourself busy."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Oh, please."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Take a look at that tree. I think it must feed on the escape plans of students like you; how else could it grow two inches taller every year?"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "I imagine it might even serve as something of a secret hideout for them."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "But I wonder if anyone ever bothers to visit it again after they leave; likely not. A once beloved place all too quickly forgotten."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Do you know why?"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Because they are too afraid to face the difficult truth."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "That they wasted the most carefree days of their lives trying to escape from paradise into hell, and now there's no power in heaven or earth that can send them back."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "You'll end up just as pathetic as them, unless you can go back there and prove your courage."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "You won't have anything like the fanfare your French classmate received—she was proud as a peacock when she walked through that gate. But you'll not chicken out, will you?"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "I'll miss you",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1130302,
+      "owner_episode_id": 11303,
+      "trigger_episode_id": null,
+      "title": "Perfect Exchange",
+      "description": "True genius lies in finding another way.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=1303",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "Improved Invisible Ink Formula"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "[A note in childish handwriting.]\n\nFind a way to replace the ingredients with things that are easy to get from within the school.\n\nRitual Offering—This sacrificial food is mostly made of flour. Maybe a handful of dry pasta will do the trick?\n\nRoaring Root—Fortunately, this main ingredient can be found right here at school. Spotted a few growing near the tree roots by the lake last week. The spell calls for Milled Magnesia—some salt from the canteen should work.\n\nTrembling Tooth—Theoretically these should be molars from small to mid-sized omnivorous arcane animals, but judging by size and pneuma content, the baby teeth collected by Ms. Tooth Fairy at the clinic might be the best option. I could take cold showers for a couple of days, then if I get sick, I'd have an excuse to visit ... but should I ask her directly or just quietly steal one ..."
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "101304",
+      "internal_title": "第十三章13-03.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "Escape Plan"
+        },
+        {
+          "kind": "title_card",
+          "text": "George the Oak"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The passage of time has done little to change the face of the old oak. Years pass by as fleeting moments but it remains as it ever was."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "And just as ever, a flock of little white doves gathers beneath its ancient boughs."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Emilia",
+          "text": "Are you sure this is going to work, Lucas?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A short boy crawls across the ground. He seems to be searching for something."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lucas",
+          "text": "You CAN leave if you don't trust me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Emilia",
+          "text": "Hmph!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Emilia",
+          "text": "The school anthem's over. Mikey said he would sneak out when the choir was leaving the stage."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Emilia",
+          "text": "Then, it's time for the principal to give that same old speech that goes on and on. So, let's say 15 minutes, but we might need more time than that. Do you think we can make it?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Lucas stands up and brushes the dirt from his palms."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lucas",
+          "text": "C'mon Emilia, don't sweat it! You know the old man'll keep blabbing on for at least half an hour."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lucas",
+          "text": "We've still got plenty of time. Just think about it: once the summoning array's done, the three of us will be free."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lucas",
+          "text": "I mean out-of-the-school free."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Emilia",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The little girl tenses visibly."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Emilia",
+          "text": "Out of the school, really?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Emilia",
+          "text": "Do you know what it's like out there? The instructor said there's a war going on. It could be dangerous."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lucas",
+          "text": "Are you kidding? They just said that to scare us."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Emilia",
+          "text": "But why are we doing it today of all days?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lucas",
+          "text": "Because it's our last good chance for the whole semester. Everyone's at the ceremony, and the guards are busy either handling the crowds or showing the Inspection Team around. I heard there are some Committee members coming this time."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lucas",
+          "text": "So, will you calm down already? This was your plan, remember? Everything's gonna go just fine."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Emilia—the planner between them—says nothing. She turns her head to look up at George the Oak."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The grandfatherly tree has nothing to offer but stern and noble silence."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Year after year, new cohorts gather beneath his bright, green leaves as they wither and dry, until they're plucked from his head by the wind, and become the soft mulch on which the new class treads."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Emilia",
+          "text": "...?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Emilia",
+          "text": "Someone's coming."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lucas",
+          "text": "Could be Mikey. I'll go get him."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Emilia",
+          "text": "Wait. Let me double-check. My arcane skill isn't totally reliable."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Emilia",
+          "text": "Let me see. They sound like a girl's footsteps, a bit shorter than Mikey."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Emilia",
+          "text": "Wait. Now I hear two of them coming this way. Is there something wrong with my arcane skill?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Matilda",
+          "text": "Got you!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The star investigator herself pops out from the bushes."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lucas",
+          "text": "Shoot! It's a monitor assistant."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Matilda",
+          "text": "Merel, are you in position?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "I'm ready."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Emilia",
+          "text": "Ah, run!"
+        }
+      ]
+    },
+    {
+      "script_id": "101305",
+      "internal_title": "第十三章13-03.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "No match for the alumni, the two young students are soon caught and detained beneath the oak tree."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Emilia & Lucas",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Matilda",
+          "text": "Another two overconfident truants. This happens every year."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Matilda",
+          "text": "Fortunately, your little accomplice in the choir was exposed; otherwise, you would be running free outside the school right now."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lucas",
+          "text": "Urgh, you're a big jerk!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Matilda",
+          "text": "Wh-What? Don't you realize you could have wound up in danger if the kindhearted and brilliant Matilda hadn't stopped you?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Merel rises to her feet to examine their array, and a peculiar expression crosses her face."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Hapless, yet knowing, like a chef realizing too late what their recipe needed."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "You know, this array wouldn't have worked anyway."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lucas",
+          "text": "What? Liar! I found it in a book. It said it could summon a gryphon."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "Uhhh, Avian Critter Behaviors and Feeding Methods?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lucas",
+          "text": "What? How did you know?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "You found this array on the blank page between chapter three and four, right? Drawn in invisible ink."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "\"Whosoever unlocks the secret hidden in invisible ink will discover an array which summons the legendary gryphon.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The young boy's eyes go wide as he realizes just how far out of his depth he is."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Emilia",
+          "text": "You've read that book too, haven't you? And you found this array?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "That's right."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Emilia",
+          "text": "You mean you went to this school?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "Of course. What are you trying to say, exactly?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Emilia",
+          "text": "Then, you mean we really do get to go back into the world?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "We couldn't stay here even if we wanted to."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Emilia",
+          "text": "The instructors are hiding something. But if we'll find out one day anyway, why don't they just tell us now?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Emilia",
+          "text": "Miss, why can't you just tell us what's happening out there? I swear we'll keep our mouths shut."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lucas",
+          "text": "Don't bother, Emilia. They're not gonna tell you anything."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lucas",
+          "text": "They know. But even if they used to be students like us, they're just like them now."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lucas",
+          "text": "They'll ignore us, just like the instructors do."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "I ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her face flushes. Terrible secrets threaten to burst from her lips."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "War ... There's a war raging out there. Honestly, I wish I could stay here at the school where it's safe. And that's not even the worst part."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Matilda",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Instructor",
+          "text": "That must be them. This way. Hurry up!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "An instructor arrives flanked by school security guards, disrupting their increasingly dangerous conversation."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Instructor",
+          "text": "Lucas, Emilia! What do you think you're doing out here? Unbelievable!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Instructor",
+          "text": "You're both spending the rest of the day sitting in the guardhouse! Take them away!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Emilia",
+          "text": "No, no! There's worms in the walls of that place."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Instructor",
+          "text": "Exactly! Those Shamirs are there to give you troublemakers a lesson."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "School Security",
+          "text": "Move it, you little terrors. No more tricks. I'm watching you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lucas",
+          "text": "Let me go!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The flustered instructor regains her composure and offers the Security Assistance Team a polite smile."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Instructor",
+          "text": "Thank you for your assistance, investigators. Rest assured, I'll be giving these two a much overdue lesson on following rules and procedures."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Matilda",
+          "text": "You are most welcome, Instructor. Of course, we could escort them to the guardhouse if you'd like."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Instructor",
+          "text": "No need for that. I'm aware you have more important tasks to do while \"the skies are clear.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She seizes the little doves by their wings and escorts them back to the safety of their cage."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Matilda and Merel stay in place, exchanging a look of resigned acceptance, powerless to change things as they are now."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Matilda",
+          "text": "These students are too young to handle the truth. They don't even know they're from different eras. Could you imagine what would happen if we told them about the \"Storm\"?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "I do understand. I mean, I know the school's only trying to protect them, but their punishment still seems a bit much."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Matilda",
+          "text": "Mhm. Which is why I, the Great Matilda Bouanich, will be changing things as soon as I gain power in the Foundation!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Matilda",
+          "text": "But for now, let's keep our eyes on the mission, alright? There's no time to wait for Sonetto and Vertin."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Matilda",
+          "text": "The nearest watchtower is the one in the northwest. Let's start from there."
+        },
+        {
+          "kind": "title_card",
+          "text": "Top Floor, Northwestern Watchtower"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Matilda",
+          "text": "So, this is the Shelter Dove."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Merel stands beside the blast door, looking frozen stiff from head to toe."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Matilda",
+          "text": "What are you doing standing back there? Come on, I'll show you how to use the tester."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "What? I thought you said you never used it before."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Matilda",
+          "text": "Perhaps not, but you underestimate Matilda the Magnificent! I already figured out how to use it well in advance."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "Oh, okay."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her stiff posture finally breaks as she walks over to accept the tester from Matilda."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Matilda",
+          "text": "Plug the tester in at the panel on the pedestal, turn the safety knob, and press the button on the side."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "The safety knob ... Am I turning it the right way?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A slight buzz emerges from the device."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Matilda",
+          "text": "Okay. Now the lights on the panel will tell us whether the Dove is working."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Matilda",
+          "text": "Verifying ID, green. Power status, green. Immunity area, also green. Good. Stellar. Superb!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She withdraws the tester with satisfaction."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Matilda",
+          "text": "That's all there is to it. Now we head to the next watchtower."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Matilda",
+          "text": "By the way, I'm quite curious: how did you know the gryphon array wouldn't work?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "Because I was the one who drew it, back in eighth grade."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Matilda",
+          "text": "Ah, uh, what? But, but, but that's, that's vandalism!"
+        },
+        {
+          "kind": "title_card",
+          "text": "Hallway, St. Pavlov Foundation"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The long corridor is like a riddle whose end connects to its beginning. It loops around the Committee Building, linking various floors and rooms with meticulously designed stairways."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Somewhere within that winding riddle, Sonetto comes to a halt."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Is there something wrong, Sonetto?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The soft words sound louder and sharper in the empty hallway. The bustle of the Foundation's Pre-Storm activity hasn't yet reached this corridor."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "That courtroom we just passed—Mr. Creius is in there answering the Committee's questions."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "It was his information that led us to the Amber Room and to Bereggrad. I'm just concerned ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "The Foundation hasn't quizzed me on anything since I submitted my report on the Don Operation."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "I would be in there right next to Creius if they wanted to investigate us as well."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "I see."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Sonetto suppresses her concerns. Footsteps echo over the marble again."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Here it is. Let's go."
+        },
+        {
+          "kind": "title_card",
+          "text": "Foundation Office"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The office behind the opening door is barren of any identity, a symptom both of the occupant's recent arrival and her curious nature."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The woman in question lifts her head from the neat stacks of files on her desk."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Stranger",
+          "text": "Long time no see, Timekeeper, Sonetto."
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

@@ -1,0 +1,637 @@
+{
+  "episode_id": 3510106,
+  "chapter_id": 35101,
+  "chapter_title": "绿松石蛇俱乐部",
+  "display_label": "",
+  "title": "Ghost Song",
+  "subtitle": "The sun sees the god of wind and says to the musician in heaven,\n\"The one who answers will walk by his side.\"",
+  "trails": [
+    {
+      "element_id": 3510110,
+      "owner_episode_id": 3510106,
+      "trigger_episode_id": null,
+      "title": "The City of Crystal",
+      "description": "Take a moment ... Reel in some memories ...",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=3510106",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "Memorandum on the 1936 Depths of Myth Incident"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Depths of Myth\nThe \"Archive of Imagery,\" the \"anima mundi,\" the \"shared dream,\" the \"sea of collective unconscious.\"\nAll living things connect here ... right?\n\nLaurent Roseau\nParapsychology researcher, revered professor, and mentor to many.\nMember of Manus Vindictae.\nRather than using the \"Storm\" to struggle in a physical world destined to be flawed, he prefers to let the Depths of Myth shape every dream into reality.\n\n1936\nTwo Parises, two French Blues, one experiment.\nOne \"Storm.\"\n\nBrume\nFemale, taxi driver. Birth name: Adèle Tavernier.\nWitness to the incident caused by Manus Vindictae. During the fifth \"Storm,\" she was brought to the sanctuary by Beryl Bouanich.\nBrume's testimony indicates that Beryl Bouanich has never had any contact with Manus Vindictae.\nThe place where she grew up and everything she once knew were swept away by the \"Storm.\"\n\nBeryl Bouanich\nFemale, renowned diviner, crystal merchant.\nDuring the fifth \"Storm,\" she brought Brume to the sanctuary.\nShe has no connection to Manus Vindictae.\nIn Bouanich's visions, everything is already written."
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 3510111,
+      "owner_episode_id": 3510106,
+      "trigger_episode_id": null,
+      "title": "A Window",
+      "description": "The conversation can start and end at any time. Every question gets an answer.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=3510106",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "Online Neighbors"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Lorentz Butterfly: Hm?Aleph: Hello, Lorentz Butterfly.Lorentz Butterfly: I didn't think this old computer would still work after being pulled from a fire and patched up. Perhaps these overly archaic forms of craftsmanship still have a reason to exist.Aleph: And yet your choice to continue communicating with me reveals you still harbor questions that need answering.Lorentz Butterfly: Heh, that's right ... Let me think. Where should I begin?Lorentz Butterfly: Let's start with your situation.Lorentz Butterfly: How's the prison on Laplace's top floor?Aleph: A perfect cell.Lorentz Butterfly: ... That was a joke. But if you like telling people you live in a prison, I won't take that away from you.Lorentz Butterfly: I heard you joined Laplace as an advisor after passing the Foundation's review process under the \"Storm\" Personnel Reform Initiative.Aleph: Correct. The St. Pavlov Foundation will continue monitoring and supervising my behavior. The \"Linguist\" prepared a [Changeless Room] on the top floor for me to live in.Lorentz Butterfly: Sounds like the Foundation's surveillance doesn't bother you at all—you've even got the spirit to give your cell a name.Lorentz Butterfly: Second question: during the previous \"Storms,\" Manus Vindictae found the heir to the Cavendish family, didn't they?Aleph: You presume correctly. They did.Lorentz Butterfly: So that's how the Manus was able to advance its research on the \"resurrection ritual.\" Hmm ...Lorentz Butterfly: I have one more small question. As far as I know, the \"Linguist\" hasn't restricted your movement. Why do you never step outside your room on the top floor?Aleph: ... Apologies, but I do not believe the answer to that question pertains to you.Lorentz Butterfly: Then I wouldn't mind bringing a little change to the \"Changeless Room\" one day.Aleph: ...Aleph: I see.Aleph: The room the \"Linguist\" and my colleagues at Laplace prepared for me has no variation in light. The temperature is constant. The walls, the floor, the ceiling—all white, without decoration. It eases the burden my hyperthymesia places on me.Aleph: But it cannot silence my memories.Aleph: Even now, I still feel myself burning inside that eternal fire, the tongues of flame searing my flesh.Aleph: And Amalfitano ... is still breaking apart."
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "203509",
+      "internal_title": "【3.5】绿松石蛇俱乐部06.1",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "Vigiles Cadet I",
+          "text": "Another case? That makes five. And it's only been three days since the last."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vigiles Cadet II",
+          "text": "The intervals are getting shorter."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "You two slack-jaws owe me an explanation."
+        },
+        {
+          "kind": "title_card",
+          "text": "Crime Scene"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vigiles Cadet I",
+          "text": "Sorry, Ms. ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "\"Special Foundation Investigator\"",
+          "text": "Jones, Special Investigator for the \"Storm\" Era Historical Monitoring Department at the Buenos Aires Branch of the St. Pavlov Foundation and Field Agent Administration."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "\"Special Foundation Investigator\"",
+          "text": "Do I need to show you my ID again?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The string of titles leaves the cadet's head spinning."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "\"Special Foundation Investigator\"",
+          "text": "So this is the fifth case, huh?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "\"Special Foundation Investigator\"",
+          "text": "And you're telling me that after a whole month and two applications for backup, you got squat to show for it?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Cold sweat beads over their foreheads; they sputter over an answer between themselves."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vigiles Cadet II",
+          "text": "Actually, it hasn't been a month yet, Ms. Investigator."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "\"Special Foundation Investigator\"",
+          "text": "Call me Ms. Jones."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "\"Special Foundation Investigator\"",
+          "text": "So, gimme the latest."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vigiles Cadet I",
+          "text": "Yes, Ms. Jones."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vigiles Cadet I",
+          "text": "The incident occurred at around 8 p.m. last night. Lots of people home, but no one reported hearing anything unusual."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vigiles Cadet I",
+          "text": "The victim exhibited clear signs of drowning, but there's no water sources nearby, and no evidence of the body having been moved."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vigiles Cadet II",
+          "text": "We believe that everything occurred here."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vigiles Cadet II",
+          "text": "We found nothing using human investigation methods. So, it must be another arcane crime."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She turns from them to scrutinize the crime scene, treading the fine line of stern authority like she was born to it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "\"Special Foundation Investigator\"",
+          "text": "What's the status of the arcanum detection?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vigiles Cadet II",
+          "text": "Damning. There's arcane traces all over the scene."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vigiles Cadet II",
+          "text": "Like a ritual was held here."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vigiles Cadet II",
+          "text": "We tried to follow the fluctuations' trail, but they just disappeared. Our perp must have scrubbed it clean before leaving."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "\"Special Foundation Investigator\"",
+          "text": "Ah, that does make things tricky."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "\"Special Foundation Investigator\"",
+          "text": "So, drowning, huh? Seems like solving the mystery of this ritual could be the key to cracking the case."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vigiles Cadet II",
+          "text": "There's no record of this arcane fluctuation's particular signal in the Vigiles Bureau archives."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vigiles Cadet II",
+          "text": "So it's either very rare or a brand-new form of arcane skill."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "\"Special Foundation Investigator\"",
+          "text": "Hand the case file over. I'll see if I can wrangle some help from the Foundation."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vigiles Cadet II",
+          "text": "That would be great, Ms. Jones! Please contact us if you have any new leads."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "\"Special Foundation Investigator\"",
+          "text": "You got it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She collects their files and then turns to leave briskly. As she does, she brushes past a Vigil rushing toward the scene."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Black Ibis",
+          "text": "Sorry I'm late. Something came up on the way."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vigiles Cadet I",
+          "text": "Ms. Black Ibis, Alan!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Black Ibis's Cadet",
+          "text": "Who was that?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vigiles Cadet I",
+          "text": "Ms. Jones from some branch of the Foundation. She's investigating this case as well."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vigiles Cadet I",
+          "text": "She said she's going to contact the Foundation for additional support."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Black Ibis",
+          "text": "Hm. Another new face from the Foundation. Quite a few of them showing up these days, aren't there?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Black Ibis",
+          "text": "Or are things getting so divided that everyone's sending their own teams?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Having no reason to suspect ill-intent, Black Ibis soon puts the incident out of mind."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Black Ibis",
+          "text": "Carlos, I need you to identify the victim's details: friends, family, employer."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Black Ibis",
+          "text": "Lín Huì, you stay on the scene and continue searching for any additional arcane energy fluctuations."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vigiles Cadet I & Vigiles Cadet II",
+          "text": "Yes, ma'am."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She lets out a soft sigh as she waves the other cadets off, leaving only her trainee."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Black Ibis's Cadet",
+          "text": "You do know this is pointless, right?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Black Ibis",
+          "text": "We will need it for the documentation anyway. But if the pattern holds, these victims will have no relation yet again."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Black Ibis",
+          "text": "This is no ordinary crime of passion."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Black Ibis's Cadet",
+          "text": "All that means is that we haven't identified the killer's criteria."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Black Ibis",
+          "text": "That's the worst part—knowing that we know nothing."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Black Ibis",
+          "text": "Do you think it could be our old \"friend\" Manus Vindictae?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Black Ibis",
+          "text": "Pigment smuggling, the resurrection ritual ... Maybe Latham is right. Maybe there are Manus secrets hidden in the dark corners of this city."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Black Ibis",
+          "text": "And these cases play some part in it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The Vigil pauses. Something clicks."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Black Ibis",
+          "text": "Just like Paris before the fifth \"Storm.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Black Ibis's Cadet",
+          "text": "You suspect Madam Bouanich and her jewel hunter could be involved again?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Black Ibis",
+          "text": "Always. Something tells me she's hiding a great deal about the Depths of Myth incident."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Black Ibis",
+          "text": "Her true identity, her movements, her involvement with the Manus, each could be essential to our investigation."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Black Ibis's Cadet",
+          "text": "But we haven't detected any arcane fluctuations like that incident."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Black Ibis's Cadet",
+          "text": "If there were any fluctuations as serious as those, we would've noticed them in no time. But this is already the fifth case. I don't think they're related."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Black Ibis",
+          "text": "Hmm. You make a good point. Maybe I'm just paranoid."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vigiles Cadet II",
+          "text": "Ma'am, the record is complete."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Black Ibis",
+          "text": "Well done. Contact the local hospital to take away the victim's body."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Black Ibis",
+          "text": "Let's go, Bruno. And call the exorcist. Let's make sure this stays hush-hush."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Loggerhead",
+          "text": "Don't worry, Ms. Ramona. I'm fully aware of how important it is to protect the integrity of the crime scene!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Loggerhead",
+          "text": "Before we left, I replayed a load of my favorite detective movies: Alibi, Death on the Nile, even a filmed production of The Mousetrap!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Loggerhead",
+          "text": "Let's get started! I'm sure we'll find some crucial—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Ramona interrupts her detective fantasy."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ramona",
+          "text": "Look, I don't know what kinda deal you made with the Vigiles to let you muck around in their crime scene, but here's my deal: I'm not here to help you with your investigation."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ramona",
+          "text": "Now stay outta my way. I got a job to do."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Loggerhead",
+          "text": "Oh, haha, right, the job."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Loggerhead",
+          "text": "Okay, well, ah, is there anything I can help with? I'll do whatever you want."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Loggerhead",
+          "text": "Oh, how about some footage of the scene? I've got it all recorded."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her enthusiasm lands on deaf ears."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Loggerhead",
+          "text": "Ah, Mr. Alan was right. You definitely need to have a way with words to deal with her."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The exorcist produces annatto seeds, wormwood, and marigold from the case she carries, arranging them in order at the center of the apartment."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The candle is lit, its glow washing over her face and eyes. The flame flickers, releasing a strange aroma, and the air grows even more still."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Loggerhead",
+          "text": "What are these? Some herbs for casting arcane skills?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ramona",
+          "text": "Arcane crimes cause huge spikes in energy fluctuations."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ramona",
+          "text": "The tremors are so strong that they form a kind of vortex of sorts, pulling any nearby invisible entities to them like a whirlpool."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ramona",
+          "text": "And once it's started, it'll keep on going, 'till you use the right arcanum."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ramona",
+          "text": "If you leave it, well, the vortex only gets stronger."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ramona",
+          "text": "Soon enough, this place will be \"haunted.\" Least that's what regular people would call it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ramona",
+          "text": "That's why they pay me to do what I do."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Ramona takes to the work with professional detachment, but Loggerhead feels something strange, a creeping chill that puts her ill at ease."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Loggerhead",
+          "text": "By \"invisible entities,\" you mean ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ramona",
+          "text": "They're like hidden arcane energy fluctuations? Or unsettled pneuma."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ramona",
+          "text": "I guess what you're fishing for is—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The air above the candle's flame begins to warp, twisting into a form both human and not, in the most unsettling way."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Loggerhead",
+          "text": "Ghosts? I didn't know you could just reveal them like that."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ramona",
+          "text": "Call them whatever you like. It's all the same."
+        }
+      ]
+    },
+    {
+      "script_id": "203510",
+      "internal_title": "【3.5】绿松石蛇俱乐部06.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "Loggerhead",
+          "text": "*panting*"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Loggerhead",
+          "text": "I-I'm really not made for fighting."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ramona",
+          "text": "I figured you for a scaredy-cat. How would you manage to be made out of metal, fearless, and still useless?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ramona",
+          "text": "If you can't fight, the least you could do is give me a laugh."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Loggerhead",
+          "text": "Wait! Ms. Ramona, there's something wrong with your candle."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The flame flickers harder, as if caught in a strong wind yet refusing to snuff out."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ramona",
+          "text": "Shh."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ramona",
+          "text": "Ilusiones,   apartaos.   La   verdad   se   revela."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ramona",
+          "text": "Este   lugar,   este   instante.   Revelado   ante   mí.   Mostrado   para   mí."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her voice is ethereal, as if speaking to another world entirely. The tiny flame settles, and the last wisp of smoke bends at an unnatural angle, pointing the way."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ramona",
+          "text": "Hmm. Weird."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ramona",
+          "text": "There's another fluctuation here, besides the pneuma that's been drawn over."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Loggerhead",
+          "text": "Looks like the candlelight's leading us toward the kitchen."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Loggerhead",
+          "text": "Are there still ghosts there? Didn't we just scare them all off?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Ramona steps into a long-idle kitchen before crouching to pick through a pile of firewood. After a time, she pulls out a half-burned scrap of canvas cloth."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A strange symbol surfaces from the still-warm ashes."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ramona",
+          "text": "I've seen this before."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ramona",
+          "text": "Somewhere."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Loggerhead",
+          "text": "Have you found something, Ms. Ramona?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ramona",
+          "text": "Yeah, maybe. I know someone who can answer my questions."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ramona",
+          "text": "But I wouldn't call it good news. This symbol won't take us anyplace safe."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her revelation is dry and fatalistic, as if she were tugged unwillingly to the answer."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ramona",
+          "text": "I know where to go."
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

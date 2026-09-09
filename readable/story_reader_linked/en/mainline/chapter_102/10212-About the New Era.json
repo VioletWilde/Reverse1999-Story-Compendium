@@ -1,0 +1,535 @@
+{
+  "episode_id": 10212,
+  "chapter_id": 102,
+  "chapter_title": "Tender is the Night",
+  "display_label": "",
+  "title": "About the New Era",
+  "subtitle": "Have the last wine before you leave. I saw the flames rising as the crowd cheered for the great festival and the wonderful heavens above.",
+  "trails": [
+    {
+      "element_id": 1021201,
+      "owner_episode_id": 10212,
+      "trigger_episode_id": null,
+      "title": "Trail ① Gossip Magazine",
+      "description": "A tabloid that can be seen everywhere. It describes what people in this city care about, including Mr. Forget Me Not of the Walden.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=10212",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "■■■ Formula: 1920s"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "I am so sick of him! An \"arcanist\" acting like the upper class! He even attended the parties in the lords' mansions. He is nothing like those who hide their identities: they know how to suck up to humans and cover up the ugly side. Look at him! A drink that turns into alcohol only when you drink it? He should be hung, and shot, and burned! Get out of our street!\n—Big Mouth Bulletin: From Readers, 1927, Issue 1224-1   \n\nHe must be a weird monster! I heard a woman married a snake and bore a horrible child. That must be him! That's why he hides everything about himself. The other day I saw with my own eyes he had scales under those long sleeves, one next to another embedded in his flesh. On the fourteenth night after that, I woke up with a start from the nightmare to find a woman with a strange head staring at me from the darkness outside the window. She didn't breathe or say a word, and just put her face against the window like some dead animal ... That must be his underling ...\n—Big Mouth Bulletin: From Readers, 1927, Issue 1224-1 \n\nHe gave me a hand when I needed help.\n—Big Mouth Bulletin: From Readers, 1927, Issue 1224-1 \n\nHis alcohol has bewitched too many people. That green stuff can open anyone's mouth: secrets of the Anti-Saloon League, plans of the Synagogue, and even rumors of the Congress, he knew them all. There's someone different behind him. I don't know who that is, but they must be unbelievably powerful. No one's going to believe my words. I don't know why he is still alive now. That's horrible. I mean it.\n—Big Mouth Bulletin: From Readers, 1927, Issue 1224-1 \n\nForget Me Not is the most celebrated mixologist of the early 20th century and a perfect embodiment of the American Dream. His real name is unknown to the public, and rumors about him abound. Some claim he's a wicked drug dealer, Satan reincarnate, a political spy, or even the love child of an evil serpent and a human. Although his background remains shrouded in mystery, it doesn't stop us from tasting heaven in his wonderful creations.\n—Big Mouth Bulletin: From Readers, 1927, Issue 1224, Epilogue"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1021202,
+      "owner_episode_id": 10212,
+      "trigger_episode_id": null,
+      "title": "Trail ② Enemy at the Corner Ⅰ",
+      "description": "An unexpected Manus squad. You should be careful as usual.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=10212",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100221",
+      "internal_title": "第二章2-12",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "About the New Era"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "President Michel",
+          "text": "Oh, thank you, I've been starving for so long. Hmm ... not bad! Give me another potion."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Forget Me Not",
+          "text": "Of course, suit yourself please."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Forget Me Not",
+          "text": "Oh. Ms. Druvis, you're back. Have you finished potion distribution?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis Ⅲ",
+          "text": "Yes. Patients in the stretcher zone have also taken the potion. They are feeling a bit better."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Commissioned Corpst",
+          "text": "What's that smell? You just gave it out before we sample them?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Commissioned Corpst",
+          "text": "The press is here in no time! You have to be fully responsible for any accident!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis Ⅲ",
+          "text": "The press?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Commissioned Corpst",
+          "text": "Aren't you the ones who want a press conference? Just to show off what the arcanists do in the relief!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Commissioned Corpst",
+          "text": "Hey! Gimme some potion! These toad freaks ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Commissioned Corpst",
+          "text": "He is too late."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Commissioned Corpst",
+          "text": "Following the believer, the journalists pack into the square with cameras on their shoulders, looking around the place."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis Ⅲ",
+          "text": "I didn't know there will be press today."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Forget Me Not",
+          "text": "Forgive me for that I want to hold a banquet before the \"Storm\", Miss Druvis."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Forget Me Not",
+          "text": "After all, for us Manus Vindictae, this era is no longer of any value."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Commissioned Corpst",
+          "text": "The potion ... tastes so familiar ... the smell ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Commissioned Corpst",
+          "text": "*spitting* This is beer?!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Commissioned Corpst",
+          "text": "This is prohibited! Where did you get it?! I knew it, I knew we can't trust these insane people! Get them all!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Forget Me Not",
+          "text": "Insane? No, we can't be more sane."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Forget Me Not",
+          "text": "Forget Me Not turns to him, with a weird, excited smile on his face."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Forget Me Not",
+          "text": "He has waited for so long just for this moment to show his true self."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Forget Me Not",
+          "text": "We are neither insane, nor ever hysterical."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Forget Me Not",
+          "text": "Not to mention practicing hypocrisy, screwing money through all the ridiculous and absurd decrees."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Forget Me Not",
+          "text": "The prohibition has lasted for almost 10 years, how could you know it's beer right away?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Forget Me Not",
+          "text": "What a hypocritical wretch!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Commissioned Corpst",
+          "text": "Uggh ... ahh!!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Commissioned Corpst",
+          "text": "As Forget Me Not raises his hands, people start to explode one after another. The rude officer falls down, with a broken stomach and guts all over the place."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "What?!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "He used the potion as fuel for explosion?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Forget Me Not",
+          "text": "Distress cometh upon those not of me. Present me thy flesh, soul and abhorring."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Broke Celebrity",
+          "text": "Why!!! Arrgh!!!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Forget Me Not",
+          "text": "I give you death, rejoice, may the wine in Heaven be without measure."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "President Michel",
+          "text": "Don't ... don't kill me ... Arrgh!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Journalist",
+          "text": "Help! ... Run! Run!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Forget Me Not",
+          "text": "I will not kill you. I demand you vultures faithfully record everything that happened."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Forget Me Not",
+          "text": "I demand you see with your own eyes—how does an inferior take everything he has been deprived of."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Forget Me Not",
+          "text": "Just! Like! This!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Mrs. Durant",
+          "text": "No! ... Help me!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis Ⅲ",
+          "text": "Mr. Forget Me Not."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis Ⅲ",
+          "text": "The fall has gone. No need for more blood."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Forget Me Not",
+          "text": "What makes you doubt, Miss Druvis?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Forget Me Not",
+          "text": "\"The Storm\" is coming, we have accomplished our missions. And everything here should be doomed!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis Ⅲ",
+          "text": "... The \"Storm\" is only the \"Storm\". It is not destiny."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Mrs. Durant",
+          "text": "*cry* Miss, please help ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Mrs. Durant",
+          "text": "No! You ... you are ... I've met you!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Mrs. Durant",
+          "text": "You are the daughter of the late Weyerhaeuser?!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis Ⅲ",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Journalist Ⅰ",
+          "text": "Those Weyerhaeusers! They burned themselves after bankruptcy..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Journalist Ⅱ",
+          "text": "No, not self-burned! Their daughter who studied dark magic burned them alive!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Journalist Ⅰ",
+          "text": "Worth it if I take a photo of her before I die! Move! Let me take one!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis Ⅲ",
+          "text": "... No."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis Ⅲ",
+          "text": "Don't do this!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis Ⅲ",
+          "text": "Flash lights, questions after questions. Nothing different."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis Ⅲ",
+          "text": "I have not studied dark magic."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Journalist",
+          "text": "Did your parents' death have nothing to do with you? I heard they were always against you learning dark magic."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis Ⅲ",
+          "text": "I have not studied dark magic. I was born an arcanist."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Journalist",
+          "text": "Which means you decided to burn them alive because of their disapproval."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis Ⅲ",
+          "text": "I did not burn them alive. The fire was caused by gasoline. They told me ... it's twenty barrels of gasoline."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Journalist",
+          "text": "It is not possible that 20 barrels of gasoline can cause such a fire. It is dark magic, Miss."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Journalist",
+          "text": "It is said that you always objected to their plans of cutting the trees and selling the woods. So they did it at midnight to avoid you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Journalist",
+          "text": "However, you were at the scene of their death."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis Ⅲ",
+          "text": "... I wanted to tell them"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis Ⅲ",
+          "text": "I have just learned a new \"arcane skill\" ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis Ⅲ",
+          "text": "I do hear the sound of trees. I know there is a way ... to make us all survive ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis Ⅲ",
+          "text": "No need to sell the woods. No need to level up trees. No need to file for bankruptcy ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis Ⅲ",
+          "text": "We can go back to the life we had ... the kind of life they expected."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Journalist",
+          "text": "So you chose to escape the debt by burning down the woods."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis Ⅲ",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis Ⅲ",
+          "text": "I will find out the truth. I will find the arsonist. I will find the answer I never knew."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Druvis! Druvis ...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis Ⅲ",
+          "text": "I will not let the woods grow."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis Ⅲ",
+          "text": "I will defend everything about them."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis Ⅲ",
+          "text": "I will ... *cry*"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Enough! Don't live in the past!"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "Open your eyes!",
+          "edge_label": "눈을 떠요.",
+          "branch": []
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Open your eyes!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Your blessing ... once brought me fortune and hope."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Now I will give this blessing to you. I will share my \"tomorrow\" with you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Watch your steps. Leave with me!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis Ⅲ",
+          "text": "...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis Ⅲ",
+          "text": "Vertin ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis Ⅲ",
+          "text": "My tomorrow ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Leave the flashlight. Get up. I'll carry you and jump out!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis Ⅲ",
+          "text": "... Thank you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Forget Me Not",
+          "text": "Are you being officious, or just revealing your sting?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Forget Me Not, sooner or later, you will be destroyed by your own hatred."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Forget Me Not",
+          "text": "I know, but I'm sorry that you'll never live to see that day."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Forget Me Not",
+          "text": "He gets out his wand and a disciple appears behind him."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Manus Messenger",
+          "text": "*roaring*"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Manus Messenger",
+          "text": "ㄐㄧㄣˇㄕㄣˊㄇㄧˋㄒㄩㄝˊㄐㄧㄚㄎㄜˇㄩㄝ"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Forget Me Not",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Forget Me Not",
+          "text": "So, you left in such a hurry just to get your accomplice, bumblebee."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Forget Me Not",
+          "text": "It's time to clean the garden, my disciples!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Manus Believer",
+          "text": "*roars*"
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED..."
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

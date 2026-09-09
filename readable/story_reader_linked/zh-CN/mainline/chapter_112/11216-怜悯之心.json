@@ -1,0 +1,856 @@
+{
+  "episode_id": 11216,
+  "chapter_id": 112,
+  "chapter_title": "远征记",
+  "display_label": "",
+  "title": "怜悯之心",
+  "subtitle": "她已理解了其中的真意。",
+  "trails": [
+    {
+      "element_id": 1121601,
+      "owner_episode_id": 11216,
+      "trigger_episode_id": null,
+      "title": "基本处置方案",
+      "description": "小册子中并未提及战地护理中的创伤性脑损伤处理办法。",
+      "action": "对话",
+      "unlock_condition": "EpisodeFinish=1216",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "我只有炖芜菁能招待客人，不过我在您的碗里加了些碎香肠。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "请用，然后再见，现在这段和平的时间是您离开的最佳时机了。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "这就要再见了么？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "请问您还希望从我这得到什么？"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "既然您如此喜欢在我这做客，干脆带走您屁股下的椅子吧。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "那把椅子跟着我熬过了一整出闹剧，即便在最寒冷的冬天也没有被变成木柴。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "是的，您是个尊贵的体面人，不该接受这样寒酸的招待，但可惜我已经挤不出一滴泪来为这碗汤调味了。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "如果有人能够早些结束这场闹剧，我或许可以有更多余粮来招待您。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "腌猪肉、炖牛肉、盐味卷饼、马铃薯泥、酸菜、或许还能有啤酒。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "然而在有些人看来，一口吃的远比不上几枚勋章。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "不过我可以趁着现在去采买些物资。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "如果您兴趣独特，坚持要留在这里享受硝烟的余味，那您可以再坐一会。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "运气够好的话，下一场闹剧会把您长久地留在这里。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "这可真是寒酸",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1121602,
+      "owner_episode_id": 11216,
+      "trigger_episode_id": null,
+      "title": "明码联系",
+      "description": "对方信道是开放的。因为在空荡荡的空气里，别无他物。",
+      "action": "交互",
+      "unlock_condition": "EpisodeFinish=1216",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "一封发给骑兵军指挥部的电报"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "主题：关于匪军夜间渗透突击之事\n\n事态概要：本日凌晨起，敌军通过未知途径渗透占领区西南防线，意图破坏后方医疗系统。我方部队在狮鹫军的协同下，有效遏制并驱逐了入侵者。\n\n行动结果与损失评估：\n\n    ——南城区域：南城医疗物资仓库被攻破。库存25箱医用吗啡及绷带等物资确认遗失。防卫该处的民兵第7街区自编连伤亡惨重，阵亡59人。该设施已丧失功能。\n\n    ——西城东部区域：我部队反击成功。在骑兵军基金会医疗人员的支持下，波克罗夫儿童医院得以保全。从敌军手中成功抢救回以下物资：\n        医用手术器械及药品：33箱；\n        儿童被服（冬季）：4箱；\n        医疗设施：保温箱3箱、蒸气吸入器等设备10箱。\n    守卫及反击战斗中，民兵第3街道自编连23人阵亡、医院医护人员10人遇难、基金会医疗人员1人重伤。\n\n    ——西城南部区域：敌军进攻被伊戈尔部狮鹫军和民兵团主力部队击退。神圣第七疗养院完好无损。我方成功保全了医疗资产与伤员。具体抢救回的物资清单正在最终核实中，将随补充报告递交。\n\n当前态势：城防已恢复至最高警戒级别。所有关键设施均已增派守卫。\n\n请求：当前民兵团急需补充损失的医疗物资，特别是止痛剂与绷带。恳请骑兵军指挥员对我部队予以一定物资协助，并为后勤运输提供便利。\n\n签署：████"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "101222",
+      "internal_title": "第十二章12-16.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "怜悯之心"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "民兵",
+          "text": "真看不出来，你挺会驯马的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "民兵",
+          "text": "现在城里有些小孩都不乐意往这儿来了，嫌马厩味道大……臭小鬼们，把哥萨克的立身之本都忘了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "梅蕾尔正有一搭没一搭地给旅伴刷着身体。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾尔",
+          "text": "它是个好孩子，我认识它的时候它就这么乖了，和我半点关系都没有——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "安德烈森",
+          "text": "咴。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "漂亮的旅伴垂下头，在她的颈窝处喷出湿热的鼻息。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾尔",
+          "text": "——安德烈森！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "梅蕾尔手忙脚乱地用手背擦掉脖子上湿漉漉的水，年轻的民兵哈哈大笑了起来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "民兵",
+          "text": "它认识你，而且很喜欢你，看来确实是你的马。真可惜，我还以为能看见它在战场上大放异彩的模样。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "民兵拍了拍安德烈森的脖子，把缰绳递给了梅蕾尔。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "民兵",
+          "text": "趁我回心转意前，牵走它吧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "梅蕾尔点点头，郑重地接过缰绳。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾尔",
+          "text": "谢谢你一直照顾安德烈森。等事情结束了，我会来帮你收拾马厩的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "民兵",
+          "text": "行啊，如果到时候咱们都还活着的话。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "民兵挥了挥手，示意她赶紧走。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾尔",
+          "text": "那我就先……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾尔",
+          "text": "……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "撞进视野里的黑色军服让呼吸又乱了分寸。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "民兵",
+          "text": "还走不走？不走的话安德烈森可就留给——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "只想着开个玩笑的民兵手里被塞进了一截缰绳。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾尔",
+          "text": "帮我再照顾一下它！"
+        },
+        {
+          "kind": "title_card",
+          "text": "别列格勒·巷道"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "梅蕾尔屏住了呼吸，把心跳含在嘴里，试图将自己的存在感削弱至最隐微。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾尔",
+          "text": "那些黑色的军服……这里难道不是民兵的控制区吗？他们是从哪里潜入的？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一部分细胞啸叫着逃离危险，另一部分理智却控制着双腿走向了他们的来处——尽管每一步都像在沼泽中行军般艰难。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾尔",
+          "text": "只是重塑之手的小兵而已，没事的……去确认一下城墙是不是缺了口子就好，我不是要去跟踪他们。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾尔",
+          "text": "他们发现不了我，我就不会和他们打起来。大不了还可以再试试变形术……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "暗巷尽头的地面像洒过汽水，蒸发后残留的糖浆黏腻无比。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "每次抬起脚，鞋底都像从黏鼠板上撕下一样，拉出黏腻的丝线。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "你在这儿做什么？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾尔",
+          "text": "——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她猛地朝声音的方向转身，鼻子撞上一块坚硬的钢铁。疼痛令她整张脸都皱了起来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾尔",
+          "text": "天哪……我感觉像是撞上了一堵墙……你也太结实了，玛尔纱。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "骑士掏出一块浆洗得发白的旧手帕，接住了梅蕾尔向下淌的鼻血。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛尔纱",
+          "text": "别乱动，血很快就能止住了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛尔纱",
+          "text": "看马厩的民兵说你急匆匆地往这里跑，你来这里做什么？你不该陪着卡戎吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾尔",
+          "text": "卡戎已经醒了，我本来想通知你的……但有更重要的事！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾尔",
+          "text": "我发现了重塑之手的士兵，眨眼就不见了——但他们是从这个巷子里走出去的！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾尔",
+          "text": "我怕街垒的防线破了口子什么的，想来检查一下。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛尔纱",
+          "text": "重塑之手？不是普通匪军？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾尔",
+          "text": "一定是他们，我见过很多次那种黑色的制服，不会认错。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛尔纱",
+          "text": "……还好你没有贸然跟过去，这太危险了。怎么这个时候胆子这么大了？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "梅蕾尔搓着鼻子，不知怎么回话。骑士拍拍她的脑袋，端详起这一段疑似有重塑士兵活动的小路。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛尔纱",
+          "text": "小路尽头的出口是被临时修建的砖墙堵死的，两旁建筑的窗户也好好地锁上……这是一条死路。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "脚下碾碎的苔藓与地衣，在城市里确实不常见，但在这久无人迹之处，生命自会倔强地蔓延。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一小截纱布落在潮湿的墙角。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛尔纱",
+          "text": "……嗯？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛尔纱",
+          "text": "蓝黑相间的液体，像是从他们的面具上流下来的。除此之外，还有……血液。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛尔纱",
+          "text": "氧化得不算严重，但出血量很大。也许是受伤的重塑之手士兵用过的绷带。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛尔纱",
+          "text": "可纱布上还残留了一些石炭酸的气味，重塑之手通常不会用它来处理伤口，他们更青睐草药……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛尔纱",
+          "text": "只有城里的医院才会用这种消毒剂，也就是说……糟了，重塑之手的人去过医院！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾尔",
+          "text": "医院？……可他们是怎么混进来的？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛尔纱",
+          "text": "重塑之手也许有他们的办法，但现在我们没有时间追究这个。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛尔纱",
+          "text": "我方占领区内有两家大医院，最近的是波克罗夫儿童医院，以及两条街外的神圣第七疗养院。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛尔纱",
+          "text": "梅蕾尔，你快去通知民兵和伊戈尔的人往这两个地方加派人手，重塑之手可能还有人留在医院内。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾尔",
+          "text": "好的，那你呢？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛尔纱",
+          "text": "我先去查看儿童医院的情况，那里全是孩子，面对敌人根本没有抵抗能力。"
+        }
+      ]
+    },
+    {
+      "script_id": "101223",
+      "internal_title": "第十二章12-16.2",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "儿童医院走廊"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "玻璃碎了，风挤着钻进来，把手上打着石膏、头上绑着纱布的孩子们逼到了墙角。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "护士",
+          "text": "你们要干什么？！你们已经把药全拿走了，为什么还要揪着几个孩子不放？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "重塑军官",
+          "text": "我耐心地向你解释过，人类，把医院里的神秘学家后代交出来，我要带他们回到自己真正的家庭。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "护士",
+          "text": "你们需要人质，把我带走就好了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她大张着双臂，让自己矮瘦的身躯成为盖住这些孩子的伞。她鼻梁上青了一块，嘴角也破了，但眼神依然冷静。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "重塑军官",
+          "text": "你得不到救赎，我们的队伍也不欢迎你，人类。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "军官举起枪，狠狠地砸向她的头，逼她跪下。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "护士踉跄了一步，但是没有倒下。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "护士",
+          "text": "……我教孩子们认字，而不是教他们认命。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "护士",
+          "text": "记住了，我们的骑兵会把你们这些可鄙的侵略者都赶出去！！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "军官挥挥手，一个头戴面具的士兵便上前想要拽住一个孩子的胳膊。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "护士",
+          "text": "别碰他！！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "护士扑了过去，猛地把士兵撞倒在了地上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一拳，又一拳。哪怕挥舞的拳头已经皮开肉绽，士兵脸上的面具也被打落，她始终没有停下。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她全然没有发现已经上膛的手枪对准了她的后脑勺。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "女孩",
+          "text": "娜斯佳小姐！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她在枪响与尖叫声中倒在孩子们身前。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "玛尔纱抹掉眼角无用的汗液与泪水，握紧堑壕棒，紧紧地贴在柱子后的阴影里。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛尔纱",
+          "text": "重塑之手真的在这里。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛尔纱",
+          "text": "其他房间都空了，医院的成年人……都不在了，剩下的孩子都聚在这里。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "黑衣士兵分头四散在走廊里，踢开每一扇门，在离开之前抢走哪怕是消毒棉球这样的小东西。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "只有领头军官一个人用枪压制住了几个孩子，正向她的方向走来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛尔纱",
+          "text": "和在乡村做的事一样，重塑之手一直在掳掠神秘学家，连孩子也不放过……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛尔纱",
+          "text": "还有十步。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛尔纱",
+          "text": "五步，四步，三步……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "“砰——！”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "骑士从阴影中一步踏出，沉重的钝器在重塑之手军官身上敲出一声干净利落的闷响。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "男孩",
+          "text": "——你、你是谁？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛尔纱",
+          "text": "别怕，我是其他医院过来的医生。我会带你们去安全的地方，但是要听我的话去做，好吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "也许是身上消毒水的味道起了作用，长期和医生待在一起的孩子们停止了怀疑，选择相信这个熟悉的气味。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "男孩",
+          "text": "唔……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "重塑士兵",
+          "text": "喂，长官那边怎么没动静了？你和我过去看看。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "几个在不远处搜查的士兵发现了异常，他们端着武器，朝着长官倒下的方向寻了过来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛尔纱",
+          "text": "来吧，快进去！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "玛尔纱俯下身，推着恐慌的孩子们躲入了楼梯后一间小小的仓库。\n她最后一个跨入门内，关门时嘈杂的脚步已经靠得很近了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "女孩",
+          "text": "娜斯佳小姐会没事吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "玛尔纱没有办法回答这个问题。她脱下披风，盖在孩子们头上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛尔纱",
+          "text": "我要你们在房间里藏一会儿，之后听见什么声音，都不要出声。像是在玩捉迷藏一样。知道吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "女孩",
+          "text": "嗯……嗯。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她一边安抚着发抖的孩子们，一边压低呼吸，逐渐平复猛烈的心跳。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "紧绷的神经逐渐被神秘术抚平，她的注意力得以再次放在眼前的局势上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛尔纱",
+          "text": "医院里不知道还有多少敌人，友军应该很快就会来了。在这之前，守住这个房间应该是最好的方法。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "重塑士兵",
+          "text": "你在房间里吗，长官？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "重塑士兵",
+          "text": "我们该走了，芝诺和民兵团的人应该快要发现我们在这儿了——长官？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "在走廊的阴影中，士兵发现自己的上级俯身倒在地上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "重塑士兵",
+          "text": "该死的，他被袭击了！那些小杂种肯定藏在门里！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "士兵们意识到了这扇敲不开的门后有他们想要的东西。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "重塑士兵",
+          "text": "把所有人都叫过来，把门砸开，术士想要的那些小崽子肯定在里面！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛尔纱",
+          "text": "……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "门板承受了一次重击，白蜡木板材碎裂的声音与急躁的呼喊一同响起。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "男孩",
+          "text": "姐、姐姐……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛尔纱",
+          "text": "嘘……不要大声说话，还记得我刚才是怎么说的吗？有坏人在外面找你们，你们就要像玩捉迷藏一样躲好。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "女孩",
+          "text": "可、可是，我害怕……娜斯佳小姐，他们把她……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛尔纱",
+          "text": "嘿，你们听过骑士的故事吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "男孩",
+          "text": "我爸爸给我讲过伊利亚的故事，他是一个非常厉害的哥萨克。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "女孩",
+          "text": "我还记得，哥哥从莫斯科带回一本书，里面写了十二个骑士的故事，是哥哥念给我听的……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛尔纱",
+          "text": "这都是很棒的故事，不过，我要说的是一个你们所有人都从来没有听过的故事。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "男孩",
+          "text": "那是一个什么样的故事？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛尔纱",
+          "text": "如果你们能好好待在房间里，不要乱跑，我会回来把故事讲完。答应我，好吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "男孩",
+          "text": "那……那好。你要出去吗，姐姐？你要去哪里，真的还会回来吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛尔纱",
+          "text": "当然会回来，这不是我们已经说好的吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛尔纱",
+          "text": "你们只要乖乖地……等我回来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "在下一次撞击来临的前一刻，她推门而出，又迅速地将身后的门给关上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛尔纱",
+          "text": "在遥远的山间，住着一群神秘的骑士，他们在高山修道院的严寒中过着清苦而隐秘的生活。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛尔纱",
+          "text": "他们的剑是雪原中铸成的秘宝，盔甲上总是覆盖着细密的白雪——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "有一年冬天，落雪比以往任何时候都多，郊区的山谷中堆满了能让人深深陷进去的积雪。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一个小女孩在雪地中迷了路。她走了几乎一整夜，都看不见任何一户人家。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "清晨来临时，她倒在地上，在厚厚的雪中摔出一个小小的坑。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "在她快要睡着的时候，远远地看见一道白晃晃的影子，比那彻骨的风雪还要洁白……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "白衣骑士",
+          "text": "这是……一个女孩？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "迷路的女孩",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "白衣骑士",
+          "text": "仁慈的主，我差点以为是一只狐狸，还好过来多看了一眼。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "白衣骑士",
+          "text": "看来下山的行程要取消了——拉住我的手，可怜的孩子，靠到我背上来，我带你到修道院里吃点东西。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "白衣骑士",
+          "text": "放心，我绝不会让你死在这儿的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "……迷路的女孩和骑士一同回到了修道院——那是一座矗立在峭壁上的坚固城堡，就连邪恶的巨龙也不敢接近。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "女孩在这座城堡中长大了，她在漫长的训练后如愿以偿地成为了骑士，就像那个在冬天拯救她的人一样。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "但是战争……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛尔纱",
+          "text": "……战争随之而来，她也和其他骑士一样应征走向战场。他们杀死了数不清的敌人，心中的疑虑也越来越多。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛尔纱",
+          "text": "皇帝在宫殿里说，骑士的修行就是磨炼杀人的技艺。但骑士们知道，这场战争将他们的尊严踩在了脚下。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛尔纱",
+          "text": "我们挥舞着战旗，手持长剑，却……从来不是……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "从来不是为了杀戮而战。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾尔",
+          "text": "我听见声音了，就在门后面……玛尔纱？是你在说话吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "托勒密",
+          "text": "过来，我们一起把门撞开就知道了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "民兵",
+          "text": "三、二、一！用力撞！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾尔",
+          "text": "天、天呐，玛尔纱……还有这么多孩子——快来人帮帮忙！她伤得好重！"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

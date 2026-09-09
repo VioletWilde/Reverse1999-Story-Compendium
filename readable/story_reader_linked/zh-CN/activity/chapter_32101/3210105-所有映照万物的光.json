@@ -1,0 +1,680 @@
+{
+  "episode_id": 3210105,
+  "chapter_id": 32101,
+  "chapter_title": "迁流的盛宴",
+  "display_label": "",
+  "title": "所有映照万物的光",
+  "subtitle": "明亮得足以令一切消融，当然也包括自我。",
+  "trails": [
+    {
+      "element_id": 3210403,
+      "owner_episode_id": 3210105,
+      "trigger_episode_id": null,
+      "title": "预言之于人",
+      "description": "",
+      "action": "类型3203",
+      "unlock_condition": "EpisodeFinish=3210105",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "灰调蓝小姐最初的态度并不令我意外，占卜师常常遭到怀疑。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "有的人把我当作阴谋家和诈骗犯，比如夜巡特遣管理局，或许你和我的对话正处于他们的监听之下。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "也有人相信预言却畏惧它，于是对我敬而远之，可又抑制不住好奇心。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "而那些干脆对预言嗤之以鼻的人，我尊重他们的勇气。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "灰调蓝小姐则属于第四种人，她试图通过无视来摆脱宿命，结果回避得太刻意，反而显得过于重视了。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "夜巡特遣管理局？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "哦？我提到他们了么？"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "是的，我在前不久擅自取走了五件神秘学藏品，他们一直在追究我的盗窃罪。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "但其实我已经支付了足够的赔偿金，也接受了应有的处罚。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "现在的我在他们眼中恐怕是知晓了不为人知的秘密，且酝酿着恐怖阴谋的预言家。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "这对我来说也是个问题。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "像你这样，行走在雨与故事间的人，究竟站在什么角度，以什么方式对待着命运？"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "全世界中能与你换位思考的人恐怕不超过三个，多么希望我也是其中一人。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "但我不过是命运的奴隶，只能基于有限的认知去行动。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "即使所见和所闻比常人多一些，也改变不了我无能为力的事实。"
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "意思是您身不由己？",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "我早就过了和命运唱反调的叛逆期。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "我会做的事与我实际想做的事早已并无任何差别，一切都合乎逻辑与情理。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "说到这儿，还有一个有趣的问题。究竟是命运注定了我会这么做，还是我的性格决定了这一段命运？"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "在您看来，我属于哪一类？",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "203206",
+      "internal_title": "【3.2】迁流的盛宴05.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "巴黎·和平街"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "旺多姆广场上的人越来越多，从四面八方的街巷里汇集的人流积聚于此。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "年轻的司机靠在车门边，边打量着过路人群，边踢动脚下的小石子。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "费利西安说是今天在这里见面，也不留个时间……我不会得等到晚上吧！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "难道她已经进去了？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她转过头，水晶工房那扇漂亮的雕花木门和两三个小时前一样紧闭着。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "再试一次，这个时间了，店里总该有人在……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "您好——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "这次没费多大力气，木门刚被叩响，就顺势朝两侧敞开。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一条灯光昏暗的长廊等待着她。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "嗯？终于开门了。是我之前敲门的方式不对？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "也没看到有店员在附近。算了，先进去问问。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她踏入走廊。脚步落下的瞬间，那一点儿仅有的光线也熄灭了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "幼龙的火焰勉强映亮了周围，它没精打采地甩动尾巴。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "我说，至少给新顾客留下些照明吧！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "你们好——有谁见到了一位趾高气昂的小姐吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "阿黛拉伸手摸索着墙壁，凭借刚才的记忆前进。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“小家伙”",
+          "text": "——嗷！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "有新发现吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "循着幼龙仰起的脑袋望过去，前方闪动着几个尖耳朵的透明身影。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "～♪"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "我怎么会忘了，有占卜师在的地方，总有这种小东西！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "别和我捣乱，我现在可没空了解你们又偷了些什么！"
+        }
+      ]
+    },
+    {
+      "script_id": "203207",
+      "internal_title": "【3.2】迁流的盛宴05.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "妖精们尖叫着拍打身上的火焰。尽管并不会被灼伤，它们还是结结实实地吓了一跳。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "你们成天恶作剧，也该尝尝被捉弄的滋味了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "给我带路，听到没有？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "占卜妖精",
+          "text": "♮♭♮♯♭♯♮♯♭！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "阿黛拉没理会它们的痛骂。妖精们将她领到了一扇小门前，从透着光的缝隙中挤了进去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她再次推门。"
+        },
+        {
+          "kind": "title_card",
+          "text": "水晶工房"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一间由光编织成的屋子。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "阿黛拉的脑中浮出这个念头。她注视着那些剔透的、闪烁的、折射光芒的水晶，空气中的尘埃在流光里镀金。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "在这间屋子里，每呼吸一次，就咽下矿物的魂魄。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "……真美丽。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "我从来没有见过这样的工房……\n它……它们的摆放方式，不像是为了销售或展览……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她尽可能放轻了呼吸，来削减自己的存在，好融入这片光彩。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "是巧妙的灯光布设让这些水晶变得特别？或者……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "——哦，也许你想说的是……“辉耀”。它会藉由水晶显现。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "远处的声音悦耳而明亮，像轻敲一只玻璃杯。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "曾有人说，“辉耀”是神用来创造世界的工具，也是祂不可分割的一部分。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "十辉耀……是星界之光、燃烧荆棘的火焰、生命之树顶端的光辉，是“数字”、“圆球”、“漫长的时代”——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "——也是万事万物。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "抱歉，您是……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "贝丽尔·布翁尼女士……？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "工房主人微笑着点头。无需证明，见过她的人都会立刻明了她的身份。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她伸出手，用指尖轻触一枚光芒柔和的灵摆。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "通过一些特定的物品、仪式，或是与生俱来的灵知与天性，我们偶尔可以捕捉那些光辉。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "水晶正是少数具有这种非凡性的存在之一。在它的帮助下，我们得以自意象的宝库中，窥探世界灵魂的奥秘。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "柔和的话语使阿黛拉略微放松了一些。尽管她没有注意分辨句子的内容。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "请问您……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "请先随我到里面的贵宾室去吧。这扇门本就是为你而留的。"
+        },
+        {
+          "kind": "title_card",
+          "text": "水晶工房·贵宾室"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "松软的玛德琳蛋糕很好地抚平了阿黛拉的不安。\n她端起茶杯，嗅着大吉岭茶的浓郁香气，原本的紧张悄悄消退。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "您今天并没有见到我以外的其他人……我明白了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "而您之所以出现在那间占卜沙龙，是为了追回流出工房的劣质水晶？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "近些日子我忙于海外的生意，这才放松了对工房的管理。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "我没能注意到有人在偷卖应该废弃的残次品。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "虽然加工后足够瞒过外行的眼睛，但毫无疑问会影响仪式的稳定性。我必须为顾客的安全和工房的声誉负责。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她看向阿黛拉，笑容又柔和了一些。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "我需要再次向你表示感谢，塔沃尼尔小姐。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "你当时的举动为我免去了许多麻烦。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "您叫我阿黛拉就可以。以及您不用向我道谢。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "毕竟我最开始也没打算插手……正巧那位占卜师自己找上了我。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "噢。她的预言让你有些困扰，是吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "您还记得？其实我本来打算听听就忘掉的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "命运——命运，其实就是看你愿意信什么，不信什么，对吧？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "但你无法彻底忘记。因为其中有些模糊的话语令你心生怀疑。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "哈哈，您真的和那些占卜师不太一样。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她再次举起茶杯，朝椅背上靠去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "无意冒犯——我并非认为预言家都是骗子。\n只是一旦你知道它，多少就会被影响判断。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "这种仿佛后脑勺时刻被人监视的感觉……让我不太舒服。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "也许“命运”真的会在该来的时候来，但在那之前我可不想被它裹挟。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "我还年轻——我还有很多想做的事儿呢！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "工房主人轻笑着，似乎很乐于听到这样充满活力的宣言。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "对我来说，命运只是某种既定的规律。就像水晶折射的光线、奔流不息的水流。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "有人说命运无常。有人认为它由始至终已被写好。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "而在我看来，它存在着，但其中并无人们苦苦寻找的“意义”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "占卜告诉我你今天会来拜访，然后你来了。事情如此发生，仅此而已。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "等等……那您有没有在占卜里看到我的朋友？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "我看见的只是你一个人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "好吧，她连来都没来！放了我一天鸽子，她到底跑哪儿去了……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "阿黛拉困扰地念叨着。而贝丽尔已经抛出了下一个问题。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "你只是因为约定才来到这里吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "这……我的确只是因为……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "贝丽尔的目光模糊而缥缈，似乎并非望向眼前的人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "你为你的疑惑而来。这份疑惑并非源于不信，而是因为相信它正要灵验。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "你们家族中每一个人都知道的命运，塔沃尼尔的诅咒……抑或者是“塔沃尼尔的冒险”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "你怀疑现在正是它开启的时刻，是吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "雷曼女士",
+          "text": "你注定逃不过宿命的感召！怀有私心的贤者将玩弄你的命运，死亡的深渊正等待你坠入……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "雷曼女士",
+          "text": "而那地之上的，终将等同那天之下的……你所有的终将消失，死亡亦将引导你最终的升华……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "雷曼女士",
+          "text": "直到一切都回归！回归那——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "怪了，为什么我这两天遇到的所有占卜师都知道“塔沃尼尔的诅咒”……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "难道这真的有那么出名吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "阿黛拉玩笑般抛出这句话。面对这个话题，她向来态度如此。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "比起恐惧，戏谑更好。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "而贝丽尔只点了点头作为回应。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "某种意义上来说，雷曼女士当时确实窥见了命运——只是不小心看到了太多，招致了预料之外的不幸。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "什么？您的意思是说——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她还是不愿听见这样的答案。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "不不，应该不是我想的那样吧……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "我还以为她是出现幻觉才活活吓死的！\n你看，毕竟她死前还说着什么“热沃当的野兽”……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "别着急，阿黛拉小姐。我说了是“某种意义上”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "贝丽尔摇了摇头，平和的语气轻飘飘地托举住了阿黛拉下坠的心。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "——随后，却又紧紧攥住了她不安跳动的心脏。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "她看见的“命运”并不完全属于你——因为你的身上，正附着另一个阴影。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "阿黛拉小姐，你的确中了某种诅咒。"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

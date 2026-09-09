@@ -1,0 +1,1300 @@
+{
+  "episode_id": 11023,
+  "chapter_id": 110,
+  "chapter_title": "Paradise Regained",
+  "display_label": "",
+  "title": "And Then Came the Savior",
+  "subtitle": "The flood of time will take us all, but pray, let me find my own stream.",
+  "trails": [
+    {
+      "element_id": 101023,
+      "owner_episode_id": 11023,
+      "trigger_episode_id": null,
+      "title": "Against the Flood",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=11023",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1010231,
+      "owner_episode_id": 11023,
+      "trigger_episode_id": null,
+      "title": "Gill-Breathing",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=11023 and ChapterMapElement=101023",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Heavy rain will eventually cause a flood. It's an obvious deduction."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "This is my final report. The era of mankind and birds is over, and the era of fish has begun."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "But the fish will have to wait a little longer. Because you've delayed the doomsday by about an hour."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Every living person now owes you an hour of their lives. How big do you think your medal should be?"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "There must be a way.",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Certainly. Even if the umbrellas don't work, you still have an ark."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Just as long as you only take the \"qualified animals\" with you, like in old times ..."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "You should be able to continue to fight."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Please, let me finish my final report, even if you don't want to hear it."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Thanks to gravity, those on higher ground live longer in a flood."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Which gives you plenty of time to cuddle up with your greyhound and watch the end of the world together."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Or ... you could do what a soldier would and follow your orders till the very last moment."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "\"Find that writer.\""
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "You know how important this mission is."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "Just shut up.",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "101031",
+      "internal_title": "第十章10-22.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "And Then Came the Savior"
+        },
+        {
+          "kind": "title_card",
+          "text": "Altar, Sanctuary"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Animus",
+          "text": "Aah. What an honor it is to bear witness to Her return with my own eyes! Great Mother of Arcanum—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Animus",
+          "text": "Guide us! Protect us, in your infinite might! Let the \"Flood\" come! Let all be reshaped! Bring forth the primordial garden!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Arcana ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcana",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The resurrected deity lifts one of her endless hands and taps the air."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Liquid erupts from the well, swallowing everything it touches."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "Look."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Stay away from that liquid! It's no ordinary water."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "It's spilling out from that well. Are you attempting another \"Storm\"?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Animus",
+          "text": "\"Storm\"? AHAHAHAHA!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Animus",
+          "text": "Oh, to be so blissfully ignorant of Her true power."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Animus",
+          "text": "This is no mere \"Storm.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Animus",
+          "text": "This is a gift from the Inculcator of Arcanum."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Animus",
+          "text": "A great \"Flood\" that will return this world to primal chaos!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "...!"
+        },
+        {
+          "kind": "title_card",
+          "text": "Antarctic Sea"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Crewman I",
+          "text": "Captain! Sir! We're sinking."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Crewman I",
+          "text": "The water is rising fast. It's flooding over the deck."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Captain II",
+          "text": "Stay calm! Find the breach and seal it immediately."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Crewman I",
+          "text": "But, it's not seawater, sir."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Crewman II",
+          "text": "Captain! Report on the enemy's status!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Captain II",
+          "text": "What is it?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Crewman II",
+          "text": "Manus Vindictae have halted their attack! They're chanting on the deck."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Captain II",
+          "text": "Chanting?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Faint chanting echoes from the frozen coast."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Believers",
+          "text": "Tides run in blind by their ever-be routine,"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Believers",
+          "text": "Staining that Heaven with obscene calamity."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Believers",
+          "text": "The breaker of death's shackles shall rule us all,"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Believers",
+          "text": "From this day forth, and evermore."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Captain II",
+          "text": "All units, stay at your posts! Wait for my order!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The captain steps toward the flood pouring from the inner cabin."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Crewman I",
+          "text": "Captain, something isn't right with this water."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "His boots are already submerged."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Captain II",
+          "text": "What the hell?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Captain II",
+          "text": "My feet ... I can't ... They're gone!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Everything below the waterline dissolves, vanishing into the flood without a trace. His body is severed cleanly—no blood, no pain, as if it was never there."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The water reflects no present image, only ruins from ten years, a hundred years, millions of years ago."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Numberless waterbirds gather in flocks, dive, and melt into the \"Flood\" like flames joining a fire, turning from the many into one."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Crewman II",
+          "text": "Arghhhhhhh!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The first scream erupts from a young soldier. He clutches his head and scrambles for higher ground."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "But before his second cry for help can escape, the flood swallows him whole."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Believers",
+          "text": "The blessing of the coming age is near. And, humbly, we kneel to receive such grace."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Believers",
+          "text": "O Glorious One, walk the Earth again—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Believers",
+          "text": "Shape this land with your mighty, vengeful hands!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Crewman I",
+          "text": "Captain!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Captain II",
+          "text": "This flood ... Creius warned me about this."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Captain II",
+          "text": "Equilibrium Umbrellas open, everyone! Get Admiral Somme on the line!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Umbrella handles are lifted, the canopies blazing with light."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Captain II",
+          "text": "This is just another \"Storm.\" The umbrella's will—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Yet before the words are spoken, the flood devours them whole, and soon after, the Equilibrium Umbrellas too."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "One by one, umbrellas and their bearers dissolve into the water."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The soldiers' screams and the Manus seabeasts' roars clash. Then silence. Absolute silence."
+        },
+        {
+          "kind": "title_card",
+          "text": "Former Zeno Sentinel Unit Station"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Admiral Igor",
+          "text": "It is happening again. Just like in 1999."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The admiral watches the distant fleet sink beneath the waves."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Admiral Igor",
+          "text": "To a commander, troops are just numbers on the sand table, pieces on a chessboard."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Admiral Igor",
+          "text": "But in the face of a calamity, what can a foot soldier do? Many men and women have been marched to their deaths, cannon fodder for the cause—a \"necessary sacrifice\" ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Admiral Igor",
+          "text": "And their loyalty and passion turned to dust in an instant."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The sea climbs faster now, the coastal ice shelves already gone. Only a pristine flood remains, like a veil of translucent gauze wiping away all impurities."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ptolemy",
+          "text": "Father, Moldir's men have arrived."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Admiral Igor",
+          "text": "Good. Has the team been mustered?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ptolemy",
+          "text": "Yes, including the wounded from the Manus Vindictae attack. Everyone's here except Captain Danilov ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ptolemy",
+          "text": "... and Moldir. She wasn't with the team when they arrived."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Admiral Igor",
+          "text": "I see."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Admiral Igor",
+          "text": "Prepare to move. We are breaking camp."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ptolemy",
+          "text": "Yes, sir. Where to?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Admiral Igor",
+          "text": "Somewhere safe. Somewhere the \"Flood\" cannot reach us."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "From his coat, the admiral draws the black box. It rotates in slow motion over his palm, emitting faint golden light."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ptolemy",
+          "text": "Is that what we got from the Manus deal?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He nods."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Admiral Igor",
+          "text": "It is. From this day on, we are taking a different path. One without fruitless sacrifice."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ptolemy",
+          "text": "But Moldir is still ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Admiral Igor",
+          "text": "She is walking her own path."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Igor looks out toward the distant snowy peaks, seeing instead the long road that brought him to this moment."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Admiral Igor",
+          "text": "I have faith in her decision."
+        },
+        {
+          "kind": "title_card",
+          "text": "Mountainside, Sanctuary"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ulrich",
+          "text": "Restless critters, rising sea level, abnormal avalanches ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ulrich",
+          "text": "It's the Manus ritual. It's already begun. We need to do something before it's too late!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Guard",
+          "text": "You've got to be kidding me. Boss, this isn't exactly the time for chit-chat!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Buddy Fairchild",
+          "text": "Avalanche incomin'! All units, change course! Follow me, now!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The guard hoists up the still-analyzing researcher and charges uphill at full speed."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Buddy Fairchild",
+          "text": "Heads up! Snow's comin' down! Anchor yourselves!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Guard",
+          "text": "Ergh!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "In the collapsing snowfield, the guard struggles to steady herself, but the sheer force of the avalanche overwhelms them both."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A massive snow chunk slams into them, sending Ulrich's tank spinning into the void."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ulrich",
+          "text": "Ah! For Flux's—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Guard",
+          "text": "BOSS!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The glass tank's arc ends in a pair of steady hands."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Moldir",
+          "text": "Phew. We made it just in time."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "In the howling wind, black hair escapes from under her hat."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Moldir",
+          "text": "It's them, Captain Danilov. Lower the altitude and release the ladder."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Moldir",
+          "text": "Over here, all of you!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Yet despite the roaring gale, her voice rings out clear and strong."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Buddy Fairchild",
+          "text": "Lieutenant Moldir!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Moldir",
+          "text": "My apologies. We should've come sooner."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The guard shoves Ulrich's body into the cabin. With help from Moldir, the two groups finally merge."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Miraculously, aside from some surface damage to Ulrich's glass container, no arcanists or penguins are harmed."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Buddy Fairchild",
+          "text": "Hooey, Lieutenant! You got here just in the nick o' time."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Moldir",
+          "text": "That's quite enough."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Moldir",
+          "text": "The sea level is rising, but not with any ordinary water. This is something far worse than we have ever seen. Something even more destructive than the \"Storm.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Moldir",
+          "text": "At this rate, it will soon wipe this era from the face of the Earth."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ulrich",
+          "text": "I figured as much. An event of this scale and severity could only be the result of the Manus ritual. We must act now."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Ulrich reattaches his head, then pulls out the apparatus for \"asymmetrical nuclide R.\" The ferrofluid churns in his tank, unfazed by the shifting gale."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The apparatus fills with golden liquid in the blink of an eye."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ulrich",
+          "text": "This \"Flood\" looks different from the \"Storm,\" yes, but the sudden surge in the level of asymmetrical nuclide R in the air suggests they come from the same source."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ulrich",
+          "text": "Or, to take a leap, they are one and the same. The \"Flood\" is the \"Storm.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Moldir",
+          "text": "So, the \"Regulus\" record might still work?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ulrich",
+          "text": "You're a quick learner, Lieutenant."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ulrich",
+          "text": "If the record can slow the progression of the Storm Syndrome, then it stands to reason that it might do the same for the ritual."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ulrich",
+          "text": "Time is against us. We need to place the record and generate the immunity zone as soon as possible."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ulrich",
+          "text": "Which means we need to reach the mountaintop. It's the only location where we can be sure the ritual site will fall within its radius."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Moldir",
+          "text": "Captain Danilov!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Aircraft Captain",
+          "text": "I heard him, ma'am! Hold tight, everyone!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "No orders are needed between seasoned soldiers. The Canis Minor tilts upward, propellers screaming."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Moldir",
+          "text": "The sea level is rising fast. Do you think we still stand a chance once we get there?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ulrich",
+          "text": "I can't say for certain, but I have faith. I'm sure the Timekeeper is doing everything she can to hold off the ritual for us."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Despite the chaotic wind, Ulrich's voice holds steady."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ulrich",
+          "text": "If there's one thing I've learned from all my years of research, Lieutenant,"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ulrich",
+          "text": "it's that you give it your all and trust your collaborators to do the same."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "The water's rising quickly. At this rate, we'll all be underwater in a matter of minutes."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "We must disrupt the ritual before the \"Flood\" drowns us all."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Rituals, mist, the \"Flood\"—all twist around the grotesque colossus."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Attack Arcana. Maybe we can find a weakness!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "G-Got it!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A lead arrow splits the thick air, embedding itself beside Nautika's twitching talons."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Animus",
+          "text": "Hah! What a farce."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Animus",
+          "text": "A few squirming little insects think they can defy fate's design!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Animus",
+          "text": "This world you so desperately cling to is naught but the poisonous fruits of a corrupted tree—rotten to the very core."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Animus",
+          "text": "Watch as it falls to pieces. Watch as the \"Flood\" washes away all the impurities of this world and returns us to what should have been!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcana",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "\"Arcana\" shifts, her blurred face showing a familiar smile."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Animus",
+          "text": "The Mother has awakened! O Great Lady, I kneel before You. Enlighten us with Your divine knowledge!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Animus",
+          "text": "Grant us Your benevolent might! Bring down Your mighty hand of vengeance!"
+        }
+      ]
+    },
+    {
+      "script_id": "101032",
+      "internal_title": "第十章10-22.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Nautika, watch out for the black mucus!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "Hold on, team!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Nautika spreads her wings, charging headfirst into a storm of black arrows."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "At the last possible moment, Nautika folds her wings and slips into the narrow gap between the flood and piercing arrows."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "Ugh! Is everyone okay?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "You're burned! Let me take care of that."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "I'm fine, really, I am! Just hold onto me!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "You're injured, Nautika. We can't dodge these attacks forever."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "You're right."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "Then, tell me, Vertin. Tell me what to do."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "I'm still not used to this body. I need your guidance."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Just give the word, Timekeeper."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "We'll make it through this, together."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Wings spread open again toward the sky, while her friends hold their ground below."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Animus",
+          "text": "All this writhing and squirming—it is utterly in vain!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Animus",
+          "text": "The \"Flood\" shall summon the creatures of the Blank Era."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her words dig deep into the bone."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Animus",
+          "text": "And your elimination, along with those pitiful beings sneaking atop the sanctuary, shall serve as its foundation!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "They ... Timekeeper, Mr. Ulrich might be in danger!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Don't act in haste, Sonetto."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "We'll do what we can from down here. Keep Animus engaged. Draw her attention away from Mr. Ulrich."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "And if possible, keep an eye out for Dr. Dores."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Understood."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "Vertin! The water just keeps getting higher. I'm running out of space to fly in."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "You're right. We need to make more space."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Can you break through these walls?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "B-Break the walls?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Yes, just like you did earlier when you kicked those rocks."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Ahead looms the grotesque deity, her form tethered to the sanctuary by endless pulsing black veins."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "The entire sanctuary is feeding power to Arcana."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "If we can break these walls, we may be able to slow down her recovery. We can also use the falling debris to attack the believers below, and create more space for us to stay above the \"Flood.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "Okay. I'll give it my all."
+        }
+      ]
+    },
+    {
+      "script_id": "101033",
+      "internal_title": "第十章10-22.3",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "Crater, Sanctuary"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Moldir",
+          "text": "We've reached the target area. The sanctuary is directly below us."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ulrich",
+          "text": "This will be a race against the clock."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Before the helicopter can even stabilize, Moldir leaps out, guiding Ulrich from the cabin."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ulrich",
+          "text": "Now's the time. Give me a hand with the record player while I generate the magnetic field."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ulrich",
+          "text": "Damn it! The field is totally unstable. I can't accurately calibrate the record player under these conditions."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ulrich",
+          "text": "The asymmetrical nuclide R in the air is far denser than anything we've ever had in the lab."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ulrich",
+          "text": "There are too many variables. There's no way to be sure that \"Regulus\" will function as expected."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The ferrofluid fractures into scattered dots, then coalesces."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ulrich",
+          "text": "Calm down, Ulrich. First, get the latest asymmetrical nuclide R reading and make the necessary adjustments. Then we'll deal with the signal interference. If I can find the pattern of the geomagnetic change—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ulrich",
+          "text": "For Flux's sake! The device is frozen. Somebody help me out here."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Another quake in ice and earth all but topples Ulrich. Above, Olitiau's screech pierces the air."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Moldir",
+          "text": "Be careful, Ulrich."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Moldir steadies Ulrich just in time."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Moldir",
+          "text": "Leave the monitoring device to me. I can fix it. Buddy, keep those creatures off of us."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Buddy Fairchild",
+          "text": "Ain't gotta tell me twice. But, Lieutenant, that thing don't look like no Olitiau I ever seen."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A great boney creature spreads its wings and dives toward them, followed by a swarm of Olitiaus, eager to feast."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Buddy Fairchild",
+          "text": "Heavens to Betsy! Now this'll be a tough nut to crack."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Moldir",
+          "text": "Prepare to engage. Hold them off while Ulrich works on the record. There is no room for error."
+        }
+      ]
+    },
+    {
+      "script_id": "101034",
+      "internal_title": "第十章10-22.4",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "Crater, Sanctuary"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Buddy Fairchild",
+          "text": "Goshdarnit! These birds 're meaner 'n a two-headed snake and twice as tenacious!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Penguins",
+          "text": "Uragh!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Guard",
+          "text": "Captain Danilov's spiraling. I can't hold on much longer. Come on, Captain, let go! That's my chocolate MRE!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Moldir",
+          "text": "Ulrich. Hurry it up."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ulrich",
+          "text": "Materials, check. Location, check. Environmental factors, check."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ulrich",
+          "text": "Flux! It's just not working. I must've got the magnetic poles wrong again."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ulrich",
+          "text": "Experiment number 22. Last chance."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Guard",
+          "text": "Oh, but, just forget it, boss. We have to go before Danilov crashes us all to the ground."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Moldir hurls the squirrel and penguins all into the cabin in a heap before making the jump herself."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Moldir",
+          "text": "Give me your hand, Ulrich. That's an order."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ulrich",
+          "text": "Program set. Parameters confirmed. Initiating."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "With a yank on Ulrich's collar, Moldir hauls him skyward, just as he presses the needle onto the record for the twenty-second time."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ulrich",
+          "text": "The magnetic field—it's stabilizing. It worked."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ulrich",
+          "text": "We did it!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Moldir",
+          "text": "Look. The water's stopped rising."
+        },
+        {
+          "kind": "title_card",
+          "text": "Altar, Sanctuary"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Do you hear that? It's Regulus's song."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "And look, the \"Flood\" has stopped. Mr. Ulrich made it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Nautika, this is our chance."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "With the pounding beat of the song, the last pillar crumbles under Nautika's strike."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "I-I did it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Well done, Nautika."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "But stay sharp. The sanctuary's coming apart. Watch out for falling debris."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Nautika weaves through crashing boulders. With a final quake, the altar collapses into ruin."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Rubble buries all life below, only the edges of the believers' black robes still visible beneath the crush of stone."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Animus",
+          "text": "Urgh ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Animus",
+          "text": "Blasphemous little ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Another stone falls. A gasp, a spurt of blood, then silence."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "We should be safe here."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Nautika extends her wings, careful of the narrow space, sheltering the pair from both the \"Flood\" and falling rocks."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Everything's been buried beneath the \"Flood.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "And yet Arcana ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcana",
+          "text": "The body dissolves, reshaping into a familiar human silhouette."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcana",
+          "text": "She stands on the surface of the \"Flood\" on her toes, watching the sanctuary collapse."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcana",
+          "text": "A dirge to mark the end of this world. How fitting."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcana",
+          "text": "Shh ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Only her voice remains, echoing through the void."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcana",
+          "text": "When the final note falls, the \"Flood\" shall rise once more."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcana",
+          "text": "An ancient era shall be reclaimed, and a new order forged."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Arcana stands in the water, smiling all the same."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcana",
+          "text": "The end is nigh. But do take solace in thine achievement, my little savior, that this world should draw its final breath on a tune and not a scream. But alas, this is no true end for you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcana",
+          "text": "We shall meet again, Vertin."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcana",
+          "text": "In a world that is rightfully ours."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Then she disappears into the rising tide."
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

@@ -1,0 +1,837 @@
+{
+  "episode_id": 2510118,
+  "chapter_id": 25101,
+  "chapter_title": "Showdown in Chinatown",
+  "display_label": "",
+  "title": "The Law of Causation",
+  "subtitle": "The fruit taken must be returned to their branches.",
+  "trails": [
+    {
+      "element_id": 2510115,
+      "owner_episode_id": 2510118,
+      "trigger_episode_id": null,
+      "title": "Truthful Exchange",
+      "description": "People just can't resist sharing their hearts with strangers.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=2510118",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "So, things went sideways. That's what happens when you put guns in the hands of amateurs."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "But you handled the water better this time. You controlled your breathing, kept your airways clear, and this time you remembered to lie back and float."
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "Who are you?",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Does it matter? I'm all you've got. We're at war—bullets flying, wounds festering, typhoid, cholera, and all the worst of it. It's a living hell, and only fools think there's any honor in it."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "You never expect to see a familiar face again, not in times like these."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Now I need you to listen. There's something you should know."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "What things?",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "The raid on the river was a ploy, and its mastermind is an old acquaintance. As for the ones who carried it out—you already heard about them this morning."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "They promised their followers they'd push south, and they did. With their supplies secured by a mysterious third party, they paraded through every town along the way, playing as \"liberators\" and taking out anyone they decided were their enemies."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "They swelled in numbers, larger than any local gang or cult had ever gotten before."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Now they swarm across the land like a school of red-bellied piranhas. Always hungry, ready to tear apart anything that crosses their path."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "What happened to the others?",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Chances are they're doing fine, just like you."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Would've been nice if you caught what that little executioner and that \"gold-hearted\" gambler were talking about during their dice game. Guess you'll have to ask her later."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "Why don't *you* tell me instead?",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Listen, I'm not here to run your errands or play your messenger boy, so ask nicely."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "There's nothing more I need to tell you. For now."
+            }
+          ]
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "202529",
+      "internal_title": "【2.5】唐人街影话18.1",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The cheers and laughter of the Shèhuǒ Parade echo through the alley, muffled and distant."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "You could've just told Elden about what happened between the three of you. You could've shown him the threatening letter."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "Maybe then he wouldn't have made the order to shoot the target if necessary. Yes, Ms. Qí Xīng has committed multiple assaults, but she hasn't killed anyone."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "I don't think she deserves to die. So, as I promised, I will do my best to catch her alive."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "That being said, if, and I mean if ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She takes a deep breath."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "If drastic measures have to be taken, I will not hesitate."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Liáng's final words are anything but polite. She holds her breath as she awaits Noire's response. After a brief silence, Noire speaks."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "Ā Xīng was a good actress."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Liáng anticipated all kinds of responses from Noire, but not this one."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "...?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "Yes, she was a skilled martial artist with remarkable control over her arcane skill, but that's not what makes a successful actress."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "Before we'd even start shooting, she'd have everything memorized—her lines, her movements, even the details of her expression. She'd take as many shots as were necessary to get the scene right."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "As you know, I was a perfectionist, always taking it too far. Many of my crew quit halfway through my projects."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "Even Teresa struggled sometimes. She told me more than once that she couldn't do it anymore."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "Only Ā Xīng could keep up with my pace. In fact, she'd often be a few steps ahead."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "Because she shared my vision—that drive for something better, no matter the cost."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "She was a good actress indeed."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "I know that we'll probably never be partners again, but I still don't want her to be treated like this."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "In Liáng's memories, Noire was always smiling."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Sometimes friendly, sometimes distant, with the mischievousness of a child, or the cunning and unyielding pride of a woman totally in control."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "But at this moment, when she turns her head, there is no smile. What burns quietly in her eyes is something akin to rage."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "You said you were going to figure out the truth. Well, it seems you and I agree that things aren't as simple as they appear."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "The Arcanum Containment Department's security system should be almost unbreakable. So how is it that Ms. Scott, a regular staff member with no special skills, managed to break through it?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "And why was she selected to go after Ms. Latham? What was she about to say before that needle pierced her neck?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "Ā Xīng's actions don't make sense either. After all these years, why has she decided to take revenge now? Is it because she found the film?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "There are simply far too many coincidences. If one of my writers wrote a script like this, they'd be fired on the spot."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "You mean there's something else going on behind all this."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Noire gives her a look of approval."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "The scene has been staged. I can feel it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "The lights, the cameras, the cast, they're all in position, and when the clapperboard claps, the movie will begin."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "And this time, I'm not sitting behind the camera, but in front of it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "Ms. Liáng, I've been holding back. I apologize for that."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "I hadn't figured out which role you'd play in this movie."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "If you're saying this to try to get me to talk about the \"behind the scenes\" of my life, I'm afraid you'll be disappointed."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "No, of course not. You got me wrong."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She waves a hand dismissively, her expression light, but her eyes still blazing."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "I'm a director. I don't act in movies made by others."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "Ā Xīng, Ms. Latham, Ms. Scott—the camera's focused on them, too. But none of us know where the story will go."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Something stirs in Liáng's chest."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "You mean, Ms. Qí Xīng's being manipulated?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "I've considered that possibility, but who's the one behind the camera? What do they want?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "All I know is that if Ā Xīng continues down this path, there will be no happy ending for her."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "I understand that she's trying to reach something she's always strived for, but whoever's orchestrating this won't let her get it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "I've done that to her before, and it was a huge mistake. I won't let that happen again."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "What are you going to do?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Noire smiles."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "Since coming to Hollywood, there's one thing I've found difficult to accept."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "The producers always stick to the script. They're obsessed with it. Changes are incredibly rare."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "But that's not how we do it in Hong Kong. The script's finished? And so what? Things will always come up during shooting. You have to be flexible if you want to make truly great art."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "If a moment of inspiration were to strike me and I weren't allowed to add it to the movie, then you may as well just kill me there."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Liáng takes a moment to understand all this."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "You want to change the script."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "Precisely. But we have a small issue."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Noire gestures to her legs resting on the wheelchair."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "As you can see, I'm not exactly ready to jump to my feet and into the action. I'm better at working behind the camera than I am in front of it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "So, I need a protagonist."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Noire",
+          "text": "One who's as eager as I am to change the script and find that perfect ending. Are you interested?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She reaches a hand out to Liáng."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "It would be an honor."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "And Liáng takes it in her own."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Deputy Chief Elden",
+          "text": "Attention! Attention, please! Noire will be shooting her movie during the Shèhuǒ Parade as planned."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Deputy Chief Elden",
+          "text": "Let's go over the plan one more time. Group A will hide among the cast; group B, cameramen, and group C—you're in the crowd. Once Qí Xīng appears, close in and arrest her as soon as possible."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Private Investigator",
+          "text": "Got it. We're all set, too."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Deputy Chief Elden",
+          "text": "Good. Everyone, take your positions."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Qi Xing",
+          "text": "Alright, Noire. The time has come."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Qi Xing",
+          "text": "This will be our final scene."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tourist",
+          "text": "Huh? What's going on? That light's so bright."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Chinatown Resident",
+          "text": "Woah. I'm feeling kinda dizzy."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Child",
+          "text": "Mommy, I-I'm scared."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "That arcane fluctuation—it's from Reunion of the Three Swallows."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "But, how did she ...?"
+        }
+      ]
+    },
+    {
+      "script_id": "202530",
+      "internal_title": "【2.5】唐人街影话18.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The lights on either side of the street blur, polluting the night sky, turning it into a swirling mess."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "It's as if everything in sight has been tossed onto a painter's palette and smeared and blended. All definitions have been lost."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Chinatown Resident",
+          "text": "What's happening?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tourist",
+          "text": "I-Is this part of the parade? How'd they do that?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "#$%&*(@!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Chinatown Resident",
+          "text": "Whoa, wait, what's this?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcane Affairs Officer I",
+          "text": "Stand back!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A young officer rushes forward, positioning herself between the unknown monster and the Chinatown residents."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "An-an Lee",
+          "text": "Officer, head down!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "#$%&*(@!!!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "An-an Lee",
+          "text": "Ha! Easy."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcane Affairs Officer I",
+          "text": "Phew. Thank you. They teach you that in Hong Kong?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Private Investigator",
+          "text": "That thing's nothing like the critters you're used to dealing with. What were you thinking rushing in like that?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Private Investigator",
+          "text": "Hmph! You're totally out of your league."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcane Affairs Officer I",
+          "text": "It was about to attack. What else was I supposed to do?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Private Investigator",
+          "text": "*tut*"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He swallows whatever snarky remark he had planned, instead looking around at the eerie figures shifting in the shadows."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Private Investigator",
+          "text": "They look like ghosts, but there's something different about them."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Private Investigator",
+          "text": "So, little ghost hunter, can that machine of yours tell us what they are?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "An-an Lee",
+          "text": "One second, Uncle Zhōu. Lily's working on it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Under the bewildered gazes of the officers, the young ghost hunter's human-headed lily lets out a chilling, eerie laugh."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "An-an's expression changes."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "An-an Lee",
+          "text": "What?! You mean, that was a living man's soul?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcane Affairs Officer I",
+          "text": "Just got confirmation that this thing's covering the whole of Chinatown. Comms are down, and we can't seem to leave either."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcane Affairs Officer II",
+          "text": "Arcane humanoids spotted in all directions. Don't seem to be critters or the Beyond. Must be some kind of arcane creation."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcane Affairs Officer II",
+          "text": "They're everywhere and immune to regular bullets. Arcane skills and specialized bullets break them apart for a while, but then their bodies just morph back together."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcane Affairs Officer II",
+          "text": "No casualties so far, but people are panicking. What do we do, Chief?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "#$%&*(@!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Deputy Chief Elden",
+          "text": "Sorry, not my type."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The specialized bullets successfully repel the shadowy beings, but their supply is limited. Elden has to fall back, yelling into his chameleon comm as he does so."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Deputy Chief Elden",
+          "text": "Everyone, keep calm. Groups A and C, protecting the public is your top priority. These things seem to follow anything that moves. Lure them away."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Deputy Chief Elden",
+          "text": "Ms. Lee, Mr. Zhōu. Gather as many civilians as you can and guide them to a safe place."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He expected the private investigator to fire back with his usual sarcasm, but to his surprise, his response is immediate and to the point."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Private Investigator",
+          "text": "No problem. They know us. I'm sure we'll be able to calm them down."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Private Investigator",
+          "text": "I'll tell them they're special effects. They all know that a movie was being shot here. That should help. At least long enough to get them to safety."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Private Investigator",
+          "text": "That means you guys are gonna have to figure this out yourselves. Show me what you've got, Arcane Affairs."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Deputy Chief Elden",
+          "text": "We won't let you down."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He takes another deep breath, filling his body with renewed strength."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Deputy Chief Elden",
+          "text": "Group B, hold your positions. Target's probably trying to distract us with these monsters. What's your status? Report immediately."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "This is Poitier. Same thing's happening at the rear of the parade. Noire's fine though."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Deputy Chief Elden",
+          "text": "Keep it that way. The rest of you, keep your eyes peeled. The target could appear at any time."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Deputy Chief Elden",
+          "text": "Camera-head, any idea what's going on?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The Arcanum Containment Department employee is the person most likely to understand the current anomaly."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Loggerhead",
+          "text": "I think Chinatown's been sealed inside an arcane barrier created by the film."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Loggerhead",
+          "text": "There's nothing in the records about this, but these arcane fluctuations are definitely from the film."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Deputy Chief Elden",
+          "text": "What about those ghost things? I don't remember the file saying it could spawn spirits out of thin air."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Loggerhead",
+          "text": "Well, I don't know. Reunion of the Three Swallows can play and record, that's for sure."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Loggerhead",
+          "text": "But even if its power has been enhanced somehow, it probably wouldn't develop a completely unrelated ability."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "An-an Lee",
+          "text": "You're right, because it's not unrelated."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "An-an's voice crackles through the communicator. Even the usually carefree ghost hunter sounds a little tense."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "An-an Lee",
+          "text": "Remember the film's victims? Part of them was taken away by its record ability."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "An-an Lee",
+          "text": "What they lost was part of their spiritual energy and memories—their Saam Wan Chat Paak, or \"three souls and seven spirits.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "An-an Lee",
+          "text": "These monsters are actually the Saam Wan Chat Paak of the victims."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Loggerhead",
+          "text": "They're the victims' spiritual energy? But how did the film do that?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The chilling appearance of the phantoms makes it difficult to connect them with what An-an has declared them to be."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "An-an Lee",
+          "text": "Hmm. I'm not sure, but Lily's never wrong. So let's not try to eliminate these things."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "An-an Lee",
+          "text": "Or the victims will never get their Saam Wan Chat Paak back."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "An-an's voice, transmitted through the DAA communicator, reaches Liáng's ears."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "Essentially, she's holding everyone in Chinatown hostage."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "We certainly weren't expecting that."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Liáng looks at the figure standing just a few meters ahead."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The frightened crowd clings to their family and friends, frantic and scared."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "And those who are alone gather with others near the dim glow of the shopfronts in search of any semblance of warmth and reassurance."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "They have no way of knowing that the one responsible for all this is standing just a few steps away."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Qi Xing",
+          "text": "I didn't want it to come to this."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Qi Xing",
+          "text": "This was between me and Noire. But you just couldn't leave it alone, could you? So here we are."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Qi Xing",
+          "text": "Sounds like you already know what this film reel is capable of. Good. Saves me the trouble of explaining it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Qi Xing",
+          "text": "Now, bring me Noire."
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

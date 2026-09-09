@@ -1,0 +1,27 @@
+# Main Story · 远征记
+
+- [11201 Quiet is the River Bank](11201-Quiet is the River Bank.md) — And quiet flows the river, and quickly flies the bullet.
+- [11202 The Eternal Autumn](11202-The Eternal Autumn.md) — O golden hue, no longer a gift from the Sun, nor a symbol of the harvest.
+- [11203 Intersection](11203-Intersection.md) — The currents converge here.
+- [11204 Beneath the Silence](11204-Beneath the Silence.md) — A newly emerging darkness covers the land.
+- [11205 Strange Gazes](11205-Strange Gazes.md) — Soldiers. Heads lowered. Lips sealed with orders.
+- [11206 A Son's Confession](11206-A Son's Confession.md) — Accept changing times, as farmers accept the coming of winter.
+- [11207 Both Sides of the River](11207-Both Sides of the River.md) — They weep for the grain trampled under the boots of friend and foe alike.
+- [11208 The Negotiators and the Judge](11208-The Negotiators and the Judge.md) — It is simple to denounce the evildoer, and far more difficult to understand them.
+- [11209 White Night](11209-White Night.md) — Comrades may be united in loyalty or by other means—hatred will do.
+- [11210 Legacy of the Era](11210-Legacy of the Era.md) — A worm frozen in resin, its body encased for hundreds of millions of years.<br>Is it the prisoner within this silent amber or a creation of eternity?
+- [11211 The Defender's Oath](11211-The Defender's Oath.md) — An ancient proclamation arrives at a foreign city's gate, clad in blood and dust.
+- [11212 Life and Fate](11212-Life and Fate.md) — Reforge scythe and plow into sword's edge. Let iron learn to leave its sheath. Let our enemy know the taste of hunger.
+- [11213 Farewell Letter](11213-Farewell Letter.md) — Mounting their horses and clenching the reins, young men bid farewell and head to war—a story as old as time.
+- [11214 The Night Before War](11214-The Night Before War.md) — The fires of war burn ever nearer. Children of the Don, it's time to unite!
+- [11215 Dust Between Fingers](11215-Dust Between Fingers.md) — Feel the moment. Feel your feelings. That's what matters most.
+- [11216 Mercy](11216-Mercy.md) — She understood what the word means.
+- [11217 The Cavalry](11217-The Cavalry.md) — These horseshoes aren't yet rusty, lads!
+- [11218 The Pale Horse](11218-The Pale Horse.md) — The warhorse is bridled, waiting for the coming tempest.
+- [11219 Casualty Report](11219-Casualty Report.md) — An eagle pierces through the thick black clouds of gunsmoke.
+- [11220 The Last Defense](11220-The Last Defense.md) — They take to the saddle because this land raised them.
+- [11221 The Admiral and His Men](11221-The Admiral and His Men.md) — They once traveled down the same road.
+- [11222 Elegy for the Don](11222-Elegy for the Don.md) — The tattered banner still billows in the wind as the first snow falls.
+- [11223 The Long Road Ahead](11223-The Long Road Ahead.md) — The hammer of history strikes the anvil, yet the marks it makes will soon be smoothed away.
+- [11224 The Day of Departure](11224-The Day of Departure.md) — After the dust settles, he makes the decision.
+- [11225 Crime and Punishment](11225-Crime and Punishment.md) — Another bullet bearing another name falls into a tumbling brass bag.

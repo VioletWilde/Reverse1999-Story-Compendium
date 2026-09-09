@@ -1,0 +1,692 @@
+{
+  "episode_id": 3110113,
+  "chapter_id": 31101,
+  "chapter_title": "The Midnight Whistle",
+  "display_label": "",
+  "title": "The Non-Returnees",
+  "subtitle": "The darkness cuts their shadows from their heels.\nAnd at that empty door, their families mourn the whole night long.",
+  "trails": [
+    {
+      "element_id": 3110110,
+      "owner_episode_id": 3110113,
+      "trigger_episode_id": null,
+      "title": "Before the End",
+      "description": "One destination. Ten thousand paths.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=3110113",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Heavy rain will eventually cause a flood. It's an obvious deduction."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "This is my final report. The era of mankind and birds is over, and the era of fish has begun."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "But the fish will have to wait a little longer. Because you've delayed the doomsday by about an hour."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Every living person now owes you an hour of their lives. How big do you think your medal should be?"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "There must be a way.",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Certainly. Even if the umbrellas don't work, you still have an ark."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Just as long as you only take the \"qualified animals\" with you, like in old times ..."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "You should be able to continue to fight."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Please, let me finish my final report, even if you don't want to hear it."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Thanks to gravity, those on higher ground live longer in a flood."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Which gives you plenty of time to cuddle up with your greyhound and watch the end of the world together."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Or ... you could do what a soldier would and follow your orders till the very last moment."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "\"Find that writer.\""
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "You know how important this mission is."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "Just shut up.",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "203118",
+      "internal_title": "【3.1】长夜鸣笛13",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Outside the carriage come heavy footsteps, followed by a wave of restless complaints."
+        },
+        {
+          "kind": "title_card",
+          "text": "The Extra Carriage"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Yakov",
+          "text": "You hear that? Boots. Sounds like soldiers."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Reyhan",
+          "text": "Could it be Pyrrhos again?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "Pyrrhos?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Yakov",
+          "text": "An army officer. He's working with the conductress to get us out of here."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A new name, a new problem."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Semmelweis frowns."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "Come on, Rubuska. Time to go."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "Huh? Oh, right! I'm supposed to be in Aima's cabin. I better not be seen here."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ivanushka",
+          "text": "W-Wait! Ms. Rubuska!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Just about to leave, she turns back to face the boy."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ivanushka",
+          "text": "Th-Thank you for protecting us. I-I hope I can be brave like you when I grow up."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ivanushka",
+          "text": "You're a good vampire!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She can't help but smile as she leans down to pat his head."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "And you're a good boy, Ivanushka."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "Now listen, this good vampire has to go up front for a bit. But I'll be back soon with news from the other carriages."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "No one will hurt you, you got that? Not while I'm around. Here, pinky promise."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She reaches out her right hand to Ivanushka, hooking her pinky."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "So Ivanushka lifts his good hand, pinky finger locking with hers."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Their promise is sealed."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ivanushka",
+          "text": "I'll be waiting for you. You promised, so come back soon, Rubuska."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "Don't worry, I will. Look, I'll take this."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She picks up the wooden stake at her feet and gives it a little shake."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "As a token of our promise. So you better hold the fort for me until I bring it back, alright?"
+        },
+        {
+          "kind": "title_card",
+          "text": "Seating Carriage"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "Ladies and gentlemen, please bear with us while we conduct a routine check."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Annabelle",
+          "text": "A-Are you going to take us too? Like you did with Rubuska?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Little William",
+          "text": "You give her back right now! Or I'll ... I'll lie down right here! I-I'll be an unmovable object!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The boy flings himself to the ground, clenching his pudgy fists like a martyr ready to face his fate."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "It's his final card to play, a tactic that has worked on the adults before, and one that he's counting on to work now."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "If you are set on being \"unmovable,\" I'd be happy to stitch you into the carpet."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Little William",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He swallows hard."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Little William",
+          "text": "I-I'm not moving! Not until Rubuska's back!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Verity",
+          "text": "Another search? Again?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Verity",
+          "text": "I suppose you can never be too sure whether someone's transformed into a beast over lunchtime."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Aima",
+          "text": "We're ever so sorry for the inconvenience, but this is for your safety; we just have to check whether ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonya",
+          "text": "Oh, I have something to \"check\" too, young lady. Namely, whether anyone on this crew actually has a brain knocking around in their heads!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonya",
+          "text": "You say this is for our safety, but all you've done is stir up chaos. You ought to be ashamed!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The carriage is in chaos."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "People leave their seats, crowding and shouting. The tension seems about to erupt into fresh turmoil."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "That's quite enough commotion, everyone."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The officer slides his pistol back into his belt as if it were nothing more than a pen—just a tool."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "In the uneasy silence, another sound breaks through."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Hrrrk ... Urrrgh ... Rkkk ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A slow, irregular churning, like the rumbling stomach of some terrible creature."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The noise dips, then rises again into a catlike whimper."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "*wail*"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "All eyes turn toward the pale-faced gentleman in the corner."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arbuthnot",
+          "text": "I ... W-What're you all starin' for?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arbuthnot",
+          "text": "That weren't me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Footsteps echo."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Semmelweis strides through the gathered people at a quick pace, with Rubuska trailing close behind."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "What are you two doing here?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "Please, allow me through. There's something wrong."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She moves as she speaks, grabbing Arbuthnot's wrist and yanking it away."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arbuthnot",
+          "text": "Watch it! I told you, it weren't me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She shoves him aside and looks at the slumped stranger hiding behind him."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "Who are you? I didn't see you during the registration."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "Can you speak, sir?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Unwell Passenger",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The passenger can hardly lift his face to meet hers."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "His face is chalk-white. Red streaks score outward from his pupils."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Then he opens his mouth, revealing a thick, black sea of blood swirling inside."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Unwell Passenger",
+          "text": "Chk ... Chklga—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Passengers",
+          "text": "AAAAHHHH!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Unwell Passenger",
+          "text": "H-Help ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He collapses, choking on the blood, gurgling as he swallows it back down."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The investigator kneels and pries open his eyelids."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "An Infected?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "But this looks nothing like the usual symptoms. A mutation, perhaps?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Passenger III",
+          "text": "Hold on! Hold on! Would anyone care to explain this? What's an Infected? Infected by what?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Verity",
+          "text": "A pinch of cold, a dash of salmonella, and a spoonful of tuberculosis—what do you think?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Verity",
+          "text": "He's been bitten by a vampire."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Passenger III",
+          "text": "Va-Vampire?!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Overwhelmed with shock, the passenger faints."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Passenger I",
+          "text": "My goodness. A vampire? On this train? I figured those were just old stories."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "Oh, dear. Looks like we've got an unwelcome guest aboard. Iglika, did that strange girl do this?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He looks toward Rubuska."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "I overheard the children talking about some shadowless \"vampire boss.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Dorothy",
+          "text": "Oh my. I thought it was just a silly game!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Everyone turns to Rubuska in a convicting silence. Without her hat, there is no hiding those ruby eyes."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Their fears find a cause."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Passenger IV",
+          "text": "I knew there was something wrong with her the moment she came on board. All that shouting and running about."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Passenger II",
+          "text": "And look, she's awfully pale, too."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "No. No, it wasn't me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "This isn't a courtroom; there's no use pleading your case. You're going to have to leave the train."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "After all, we can't have a vampire wandering free on a train full of ordinary people now, can we?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "You'll have to find your next bite elsewhere, kid."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Pyrrhos signals to his men."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "Take her away."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Border Checkpoint Soldier I",
+          "text": "Yes, sir."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Heavy boots stomp closer as two soldiers seize Rubuska by the arms."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "Don't touch me, ah! Let me go! You've got it all wrong!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Little William",
+          "text": "She said: Don't touch her!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "In the next instant, several children rush from the crowd, tugging at the soldiers and shouting."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Annabelle",
+          "text": "Please, sir, please listen! Maybe it's a mistake!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Border Checkpoint Soldier I",
+          "text": "Hey, back off! Whose kids are these? They're interfering with a military operation!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "One soldier raises his rifle in irritation."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Dorothy",
+          "text": "They're with me! For crying out loud, you two, come back here!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "Annabelle! This is grown-up stuff, okay? You've got to stay out of it!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The children don't budge. Annabelle clutches a coat hem, looking up at Rubuska in panic."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "In all the chaos, hers is the only face sharp and clear."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Annabelle",
+          "text": "Run, boss!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Mother",
+          "text": "Run, Buska."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The air reeks of gunpowder."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "No one is hurt, but a jagged dent scars the ceiling."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Border Checkpoint Soldier I",
+          "text": "Last warning! Where are your parents?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Border Checkpoint Soldier I",
+          "text": "Argh!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "In the chaos, a small figure breaks free and hurls herself at the soldier."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Annabelle",
+          "text": "No! Boss—Rubuska!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Rubuska locks onto his arm, her fangs sinking deep into his skin, sucking as if to drain every drop from him."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "*muffled* Put it down!"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

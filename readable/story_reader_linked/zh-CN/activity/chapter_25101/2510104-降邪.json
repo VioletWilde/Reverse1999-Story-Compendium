@@ -1,0 +1,852 @@
+{
+  "episode_id": 2510104,
+  "chapter_id": 25101,
+  "chapter_title": "唐人街影话",
+  "display_label": "",
+  "title": "降邪",
+  "subtitle": "嘘——电话已接通，它呼唤的是你的名字。",
+  "trails": [
+    {
+      "element_id": 2510104,
+      "owner_episode_id": 2510104,
+      "trigger_episode_id": null,
+      "title": "NG画面",
+      "description": "幸好不是直播，这段待会剪辑一下。",
+      "action": "交互",
+      "unlock_condition": "EpisodeFinish=2510104",
+      "content_hints": [
+        "fragment",
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "嘉宾夜现场"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "“今晚我的首位嘉宾将是一位优秀的青年演员。你可能已经在很多地方见过她了，比如C07第一部、C07第二部，还有即将上映的C07第三部……为什么我们不按序号叫它们C08和C09？总之让我们有请奇星！”\n……\n“然后呢，你知道菲林士多怎么说么？她说‘反正要杀青了，我们就把炸药都用上吧！’”\n“所以你那被爆炸震懵的表现不是演技？”\n“一半是演技，只有前半面是演技！那爆炸的推背感可真不是盖的。”\n“那我猜C07第三部不会有大烟花了？因为你们在前一部用了太多。”\n“五十五十吧。”\n“嗯？”\n“五十五十吧，这电影要么放一个大烟花，要么变成扑街，那个莫名其妙的结……”\n“哇喔哇喔哇喔！我想我们遇到了未经许可的结局剧透！在菲林士多女士把我们告上法庭之前，让我们进入广告！”"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 2510105,
+      "owner_episode_id": 2510104,
+      "trigger_episode_id": null,
+      "title": "例行检查",
+      "description": "现在开始各自检查装备，有遗失的立刻上报。",
+      "action": "对话",
+      "unlock_condition": "EpisodeFinish=2510104",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "看看这面镜子，亲爱的，这上面有好大一个污点。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "它已经碎了",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "是的，碎了，也许这正是它的主人想要的，要清除一个莫大的污点，你就只有用暴力去摘掉它。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "现在污点不见了，它的主人还得到了无数面小镜子，我想这面应该是她不小心留下的。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "再仔细瞧瞧，亲爱的，看看这两条裂痕，想象它们延伸出去的交界处，那里有一块难以去除的污渍。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "它的主人以为这样就可以把污渍去掉，现在却只得到了一堆碎镜子，污渍也躲到了她看不到的角落。"
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "它的主人是？",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "一位胸怀理想的女性，一心想要让这个世界与自己和解，还会建议其他人加入自己，也因此拥有了无自觉的人格魅力。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "而她的哥哥恰好相反，一生的愿望就是得到世界的谅解，会积极地适应世界，想尽办法去融入他人，结果却在决斗中失去了一只胳膊。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "但要我说，亲爱的，他们都是一样的，孤独的人。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "兄妹俩就像是镜子的两面，她却在看着另一个自己时忍不住地反感，总想着生活不该如此。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "而现在，另一个她捡起了尊严，找回了丢掉的胳膊。她为世界预约了无数次的大手术也终于有人来执行。她却开始害怕术后创伤了。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "正如我所说，兄妹俩就是镜子的两面，亲爱的。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "现在这面镜子碎了，希望她可以承受得住七年的坏心情，真可怜，她不得不承受。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "我没有看到污点",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "202506",
+      "internal_title": "【2.5】唐人街影话04.1",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "棍骗约翰",
+          "text": "不要过来，救命、救命！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "市政大厅再一次陷入了混乱，棍骗约翰尖叫着仓皇逃命，试图远离身后的煞星。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "男子",
+          "text": "让开！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "青年警察",
+          "text": "呃……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "男子用鲜血淋漓的双手，将试图阻拦他的警员抛到一旁——那是他挣脱手铐时，掰断自己的拇指流下的血。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他有如鬼神附体，不知从哪里得来了一股怪力，数个警员一拥而上，竟然也被他轻松撞开。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "男子",
+          "text": "不要挡我的路！那个王八蛋……我要杀了你，我要杀了你！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "波蒂埃",
+          "text": "该死，那老兄是怎么回事？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "他的样子看起来明显不对劲！\n那是……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "某种神秘术，和……某种邪祟之物的气息。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "——波蒂埃教官，我想我能让那位先生停下来！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "方才的不愉快已经被二人抛在了脑后。\n事态紧急，波蒂埃立刻点了头。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "波蒂埃",
+          "text": "好吧，虽然我不知道你说的“邪祟之物”究竟是个什么——但如果你觉得能做些什么的话，就快做！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "明白。\n这正是我的使命所在。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "梁月郑重点了点头，向大厅中央的男子跑去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "男子",
+          "text": "我要杀了这个人渣。杀了他，杀了他……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "男子",
+          "text": "谁？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "请您不要紧张，先生。我身上没有武器。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "我只是想要请您听一通电话。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "男子",
+          "text": "什么？……电话？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "是的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "一通电话。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "男子",
+          "text": "……电话那边是谁？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "请不要着急，我现在拨通它。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "强梁既出，罔有不韪。斩杀凶咎——枭截不祥！"
+        }
+      ]
+    },
+    {
+      "script_id": "202507",
+      "internal_title": "【2.5】唐人街影话04.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "男子",
+          "text": "不！不……！\n我的头……呃啊啊——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "男子",
+          "text": "对不起，妈……对不起……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "男子在留下几句模糊不清的呢喃低语后栽倒在地。\n周围的警员心有余悸，一时仍然不敢靠近。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "青年警察",
+          "text": "……我们还要给他上手铐吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "我来吧。\n但我想比起警察局，我们应该先送他去医院进行一番彻底的检查。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "老警察",
+          "text": "那么他能交给你们吗？我们还得照看那个家伙。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "梁月顺着年长警官所指的方向看去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "不久前还不可一世的棍骗约翰此刻瘫软在地，细看还会发现他身着的下装有一片不自然的深色印记。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "波蒂埃",
+          "text": "天呐，真是个没胆的窝囊废。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "波蒂埃冷笑一声摇了摇头后，便收回了目光。\n随后她犹豫片刻，最终将视线投向了梁月。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "波蒂埃",
+          "text": "你知道我想说什么，就是……那个，你知道的吧？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "……？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "回应波蒂埃的是一张满是疑问的面孔。\n好吧，这也不能怪对方。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "波蒂埃",
+          "text": "好了……我很抱歉！\n这就是我想说的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "波蒂埃",
+          "text": "我同情那个伙计，但也没有帮上什么忙。如果不是你，我们就真的只有击毙他了，而这可不是我想看到的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "波蒂埃",
+          "text": "我刚才说了点难听的话，你就忘了吧。\n你帮了大忙——做得好。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她一气呵成地说完了这番话，别过头去不想看对方的表情。\n然而等了许久，波蒂埃却没有等到任何一句回复。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "波蒂埃",
+          "text": "……说点什么呀！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "撞进她视野中的是一张写着意外的面孔。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "哦……当然，我……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "我并没有在意，波蒂埃教官。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "波蒂埃",
+          "text": "……很好。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "噗……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "波蒂埃",
+          "text": "什……什么人？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一声轻笑从侧旁传来，波蒂埃像是一只被踩了尾巴的猫一样蹦了起来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "抱歉，我并不是有意偷听你们的对话，也并没有取笑你们的意思。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "只是……你们的感情真好，让我想起我从前的朋友们。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "您是方才的那位小姐。\n是我们疏忽了，我们还没有向您表示过感谢。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "多亏了您帮忙安抚住犯人的情绪，事态才没有恶化，我们也才能及时制服那位先生。谢谢您。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "你太客气了，小小的见习执夜人小姐，我只是做了我力所能及的事。\n更何况，最后真正控制住场面的是你和你的伙伴。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "您真是谦虚。您……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "我是不是在哪里见过您？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "梁月盯着女子看了许久，终于忍不住将这个疑问说出了口。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "也许她们的相会发生在某个“非现实”的地方——但那是哪里？\n徘徊在嘴边的答案，被对方先一步揭晓。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "没想到时隔多年，还能遇到仍然记得那部电影的人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "贝雷帽下那人的眉眼，逐渐和记忆中另一张面孔重叠在一起。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "那张记忆中的面孔没有面前女子身上的成熟与稳重，更多的则是意气风发与神采飞扬。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "但不变的是那双明亮的眼睛。它们就像是夜空中的星星，总是在银幕或录像厅电视机的小小屏幕上闪闪发光。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "我……想起来了，我见过您。\n在电影里见过您。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "您是……您是那位——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "奇星",
+          "text": "是的。\n我是奇星，在《神秘警探C07》里面演C07的那个。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "女子向目瞪口呆的二人眨了眨眼睛。"
+        },
+        {
+          "kind": "title_card",
+          "text": "医院"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "值班医生",
+          "text": "辛苦了，距离检测结果出来还需要一段时间，请你们稍等。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "好的……麻烦您了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "波蒂埃",
+          "text": "那个劫犯随身带着证件，倒是为我们省了不少事。\n艾瑞克·黄，43岁，在唐人街附近经营一家蔬菜店。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "波蒂埃",
+          "text": "父母均已过世，但有个妻子丽莲·刘，十年前来美，各种证件都没有问题。\n全家上下没有犯罪记录，可以说都是清清白白的优秀市民。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "波蒂埃",
+          "text": "虽然因血统原因天生能够使用强大的神秘术，但在这件事之前，他一次都没有将这份能力用在过歪处。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "波蒂埃",
+          "text": "我们在案发地点附近找到了他的车，里面装满了采购回来的土豆啦，胡萝卜什么的……作为障眼法，这高明得有些多此一举了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "波蒂埃",
+          "text": "无论如何，我们已经联系了他的家属，应该过一会儿就能到，我们也许可以从他们的口中获得一些线索。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "波蒂埃",
+          "text": "……菜鸟？你在听吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "是啊……在……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "波蒂埃",
+          "text": "…………"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "答案显然是否定的。波蒂埃深吸了一口气——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "波蒂埃",
+          "text": "回神！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "哇？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "耳边骤然炸开的吼声让神游天外的梁惊得跳了起来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "您……您做什么，波蒂埃教官？\n这里可是医院！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "波蒂埃",
+          "text": "我也想要小声，但我看要是声音小了，就根本进不去你的大脑了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "波蒂埃",
+          "text": "你到底要发呆到什么时候，不就是见到C07的演员了吗？\n至于吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "我没有发呆，您刚才说的话我都听到了，我只是……只是在思考一些问题。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "波蒂埃",
+          "text": "哦？那你在思考什么？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "……奇星小姐的事。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "波蒂埃",
+          "text": "你看吧？\n你说起那个导演的名字时那么熟悉，我就觉得奇怪了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "波蒂埃",
+          "text": "原来我们的乖乖仔经常会瞒着父母去偷看电影，而且还是《C07》系列的粉丝。你早说嘛！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "波蒂埃",
+          "text": "我还一度担心你是个假人，像上次拉普拉斯提供给警局贴罚单的机器人之类的，会偷偷在背地里喝机油。看来我终于可以松一口气了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "我……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "梁月起初似乎想要反驳，但话到嘴边，她最终改变了主意。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "是的……我的确很喜欢奇星小姐饰演的C07系列电影。\n那个角色对我来说也有很重要的意义。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "波蒂埃",
+          "text": "难不成你是因为那部电影才选择做执夜人的？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "……准确地说，是它让我接受了自己只能成为警察。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "话扯得有些远了，波蒂埃教官。\n我的确在思考关于奇星小姐的事，但那和我个人的喜恶无关。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "少女摇了摇头，眼神变得凌厉，眉头却微微蹙起。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "制造连续袭击案的“针人”擅长使用飞针型的攻击性神秘术，而奇星小姐当年也正是以亲身上阵实拍的“银针”神秘术闻名。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "……这仅仅只是一个巧合吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "波蒂埃",
+          "text": "哈？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "警官拧紧了眉头，就像听到了一个差劲的脑筋急转弯。\n但若有所思的梁月继续说了下去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "以及……她刚才的话，我总感觉有些意味深长。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "约一个小时前"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "很荣幸见到您，奇星小姐！\n我……我小的时候是看着您演的电影长大的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "您来这里是做什么呢？\n我的意思是说，如果方便问的话？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "奇星",
+          "text": "没有什么不方便的。我是来见一位老友的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "作为一名曾火遍大江南北的影星，奇星的态度却十分亲和。\n她说话的口吻如同与友人闲谈，没有丝毫的拿腔作调。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "您是说……菲林士多导演？\n我听说她正在唐人街那边拍戏。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "奇星",
+          "text": "是的，你也知道？\n我们已经很久没见面了，这次因为一些契机，我决定找她聚一聚。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "原来是这样，那真是……太好了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "马上就是度朔节了，我听说唐人街那边也会举办社火游行，一定会很热闹的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "波蒂埃",
+          "text": "……？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "波蒂埃疑惑地盯着话忽然多了起来的梁月，感觉自己的搭档仿佛变成了另一个人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "奇星",
+          "text": "今年的社火游行……也是，不知不觉又到这个时候了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "您不喜欢社火游行吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "奇星",
+          "text": "不，怎么会呢。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "奇星",
+          "text": "酬神、消灾、祈福、欢祝……人们在热闹的庆典中迎接新一年的到来，祈祷来年风调雨顺、合境平安。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "奇星",
+          "text": "社火游行寄托着人们最朴实的愿望，那样纯粹、又那样美好，没有人会不喜欢它。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "奇星",
+          "text": "……只是，每年的社火游行总会让我想到那个结局。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "波蒂埃",
+          "text": "结局？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "奇星摇了摇头，似乎没有进一步继续这个话题的意思，梁月却忽然福至心灵。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "难道您是说……C07系列电影最后一部的那个结局？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "看起来她猜对了，因为奇星略感意外地睁大了双眼后，点了点头。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "奇星",
+          "text": "是的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "奇星",
+          "text": "虽然有许多人对那个结局十分追捧，说它“反映现实”“悲剧比喜剧更能让人记住”……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "奇星",
+          "text": "但坦白说，我并不喜欢当时的那个结局。\n坏人在最后并没有得到惩罚，正义的英雄失败了……这算什么？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "奇星",
+          "text": "我们无法控制现实，但至少能够决定电影里的故事。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "奇星",
+          "text": "现实的世界已经足够模棱两可，荒谬不经。\n善有善报、恶有恶报，这才是大家走进电影院时期待看到的东西。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "作为一番由电影衍生出的讨论，这名昔日影星的口吻显然有些过于严肃了。\n但她所言之中仍然有些梁月颇有同感的地方。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "我……我有同感。\n我记得小时候的我觉得很奇怪，疑惑为什么会是那种结局。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "也许现实的确就是这样无法尽如人意，但我想……至少在电影里，我还是想要看到纯粹的“邪不胜正”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "梁月的回答似乎博得了奇星的好感，她的眼睛亮了起来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "奇星",
+          "text": "见习执夜人小姐，我想请问您一个也许有些冒昧的问题。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "奇星",
+          "text": "您刚才呼唤出的那位伙伴让人印象深刻，我想我在传说中读到过符合它特征的记载。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "奇星",
+          "text": "“强梁既出，罔有不韪。斩杀凶咎，枭截不祥”……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "奇星",
+          "text": "您想必就是梁家的后人，并且是那少数受到了眷顾的孩子之一，对吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "奇星眼中的某种东西，让梁月产生了被灼烧般的错觉。\n但梁月仍然诚实地回答了对方的问题。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "我的确是十二侲子之一的梁家之后，我叫梁月。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "奇星",
+          "text": "梁月……梁月。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "奇星",
+          "text": "好的，我记住你了。"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

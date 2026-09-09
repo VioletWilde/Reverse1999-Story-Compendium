@@ -1,0 +1,527 @@
+{
+  "episode_id": 10822,
+  "chapter_id": 108,
+  "chapter_title": "忧郁的热带",
+  "display_label": "",
+  "title": "西风咆哮",
+  "subtitle": "夏天从这儿结束，冰海从这儿开始。",
+  "trails": [
+    {
+      "element_id": 1082201,
+      "owner_episode_id": 10822,
+      "trigger_episode_id": null,
+      "title": "远见与筹划",
+      "description": "",
+      "action": "残篇阅读",
+      "unlock_condition": "EpisodeFinish=10822",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "我有一些你听了会高兴的情报。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "我给你一分钟。",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "你会希望这一分钟够长的。因为这情报涉及我们都熟悉的一位朋友，一位你一直在寻找的故人。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "那位医生，那位作家。她有很多个好名字，就像你，就像我。遗憾的是，她脑子里留存的东西可不算多。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "正如那场战役之后，只有少数幸存者记得她的厉害手段。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "如今，那位心地善良的好医生又成了阴谋中的一个必要部分，老将军对此心知肚明。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "他又知道了？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "失去指挥家的管弦乐队虽不至于崩断了弦，但确实演不出像样的交响乐了。老将军抓住了这点，他知道对方现在急需什么。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "经验除了带来伤疤，还馈赠一指甲盖大小的智慧。在这场单方面的豪赌中，他率先抓住了最大的筹码。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "我不知道，这份报告里没有写。但我有一个推测。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "那些热衷于捣乱的家伙充其量只是在四处撒下混乱的种子，再顺手给炸药的引线煽把风，但他们都未曾怀疑过炸药的当量和排布。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "现在，他们或许意识到了这是不可控的变量，光有爆炸不能解决问题。所以他们得另想办法——即使会是一场长久而艰难的迁移性工程。"
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "说下去",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "一分钟到了，我该走了，时间真是过得特别快，一如既往。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "我会在有进一步报告时回来，希望你能活得长久一点，这样我们还能相处很长一段时间。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "什么阴谋？",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1082202,
+      "owner_episode_id": 10822,
+      "trigger_episode_id": null,
+      "title": "往日的分径-德洛斯医生",
+      "description": "",
+      "action": "往日的分径",
+      "unlock_condition": "EpisodeFinish=10822",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一台造型奇异的打字机，也是这位医生同命运对抗时，手边仅有的武器。"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100835",
+      "internal_title": "第八章8-22",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "西风咆哮"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "西风海崖"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "背景移动"
+        },
+        {
+          "kind": "title_card",
+          "text": "西风海崖"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "地标"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "您做出了正确的选择。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "我们都为了祂的指引而来，传道者。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "很遗憾，那个魅魔没能带过来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "但我想，你会需要这个，还有兀尔德女士。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "消人"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "浮窗道具"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "传道者·苏菲亚",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "传道者·苏菲亚",
+          "text": "不，将军，不是“你”，而是……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "收起浮窗"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "氛围图"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "传道者·苏菲亚",
+          "text": "我们。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "传道者·苏菲亚",
+          "text": "我们都需要祂降下的奇迹。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "我的部下不会戴上那面具。他们也不会接受试炼。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "不需要用试炼来试探我麾下孩子们的忠诚，传道者。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "兀尔德女士暂时由我保护。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "传道者·苏菲亚",
+          "text": "如您所愿。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "传道者对老将军提出的要求一一承应。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "无妨，都无妨。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她远眺南方。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "传道者·苏菲亚",
+          "text": "下次见，将军。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "传道者接过复苏之母留在世上的痕迹，与将军道别离开。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "收氛围图"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德尔",
+          "text": "父亲……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德尔",
+          "text": "我对洛佩拉开枪了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "开枪是一回事，但子弹射向了心脏还是大地，又是另一回事。但对老将军来说，这都不重要。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德尔",
+          "text": "坦白说，对您的选择，至少从个人层面讲，父亲，我并不完全认同。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "你可以保留意见，也可以不认同，中尉，我需要的不是这些。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德尔",
+          "text": "而是服从。我明白，父亲。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "没错。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德尔",
+          "text": "您一开始就认为洛佩拉不会跟我们走吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "那孩子无关紧要。她解决了自己惹出的麻烦，从兄弟会的闹剧里带回了兀尔德，这就够了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德尔",
+          "text": "但兄弟会……恕我直言，将军。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德尔",
+          "text": "我听说他们也和重塑之手……的“朋友”有联系。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她很难说服自己改变称呼，将昔日与之对抗的敌人称作“朋友”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "变节是难以洗刷的耻辱。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "我原本以为你会和她做出同样的选择。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德尔",
+          "text": "不，我会追随您，父亲。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "随她去吧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "落单的海鸟滑过晴空，鸣叫着，朝温暖的北方飞去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "老将军拍拍女儿肩上的军徽。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "带德洛丝医生过来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "黑幕转场"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "场景-火地岛"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德尔",
+          "text": "父亲。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "副官女士带来盲眼医生，随后沉默地离开海崖。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "德洛丝医生",
+          "text": "我不认识您。您认错人了，将军。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "不，我不可能会认错你。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "老朋友。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "在千禧年到来前的最后那几天，我们曾并肩作战。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "往事从老人锈迹斑斑的记忆殿堂里涌出。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "长远来看，那或许是一次错误的行动。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "“暴雨”到来，留下混乱的时代与失去父亲的孤儿们。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "我们失去了未来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "将军从不为牺牲动容，因为一切乃是为了胜利与更宏大的目标所必不可少的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "但现在，或许可以走上另一条路，一条我们曾经拼尽一切反对的道路。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "阿尔卡纳指引的道路——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "一条，让世界不再有纷争的道路。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "我的老朋友。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "很遗憾，这些话语中的哪怕是支离破碎的半点信息她都无法理解。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她只是无国界医生德洛丝。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "基金会送给你的那张白色大理石凳上有什么秘密？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "那个按钮按下后，你又感受到了什么？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "德洛丝医生",
+          "text": "什么也没有。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "你还记得，曾经走进一间白色房子后发生的事情吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "德洛丝医生",
+          "text": "抱歉，将军，我对此一无所知。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她有些倔强，但却愿意以诚实回应老将军的诚实。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "老将军叹了口气，随即抽出大衣里的一叠杂志——尽管他本人并非《UTTU》的读者，也对此毫无兴趣。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "敬爱的兀尔德女士。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "你的名字穿过了一场又一场雨幕。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "但我始终不知道你究竟遇到了什么，又经历过什么。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈尔将军",
+          "text": "——但你的存在，即将改变我们所有人的命运。"
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

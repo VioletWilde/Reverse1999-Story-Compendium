@@ -1,0 +1,741 @@
+{
+  "episode_id": 3110120,
+  "chapter_id": 31101,
+  "chapter_title": "The Midnight Whistle",
+  "display_label": "",
+  "title": "Comes the Dawning Light",
+  "subtitle": "Get up. The bloody night is over.",
+  "trails": [
+    {
+      "element_id": 3110114,
+      "owner_episode_id": 3110120,
+      "trigger_episode_id": null,
+      "title": "Third-Rate Novel",
+      "description": "Not everyone's life makes a good story. Most of us live inside third-rate novels.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=3110120",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "An Ordinary Yet Unordinary Story"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Today's tale doesn't start with \"once upon a time.\" It begins in \"a quiet, ordinary village.\" In that village lived an equally ordinary little girl whose father was a vampire. But unlike him, she didn't live apart from humans. She felt a natural fondness toward both humans and arcanists. Perhaps because she was a hybrid—an \"impure\" half-vampire? In any case, for a long while, the girl lived peacefully with her parents.\n\nUntil a shell fell.\n\nYes, war. Again.\n\nWar brings death, and death spreads. Her family didn't escape it; one by one, they died. Only she and her uncle survived, wandering endlessly. But shells don't discriminate. Human, arcanist, vampire, or half-breed—none are spared. The girl was wounded. How badly? No one knows. Severe enough that she nearly died. Her uncle wanted to save her—his only remaining family. Even if it meant making a deal with the devil, he would.\n\nHe carried her to an old castle. Its mistress, as all stories go, was powerful and mysterious. She healed the dying hybrid girl. The price—if it could even be called that—was an overactive regenerative power that let her recover from any wound with ease.\n\nSince then, the girl's body has always been wrapped in bandages."
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "203129",
+      "internal_title": "【3.1】长夜鸣笛20.1",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "Aima",
+          "text": "Uncle Pyrrhos, how much farther do we need to go? I'm feeling a little dizzy."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "Not long now. The border's just on the other side of the mountain. We'll be there soon."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "Then we'll cross the Lech to Ms. Valentina's castle."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "And she'll cure you. She'll make things right."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Aima",
+          "text": "But how do you know she'll help?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "I just know, Aima. A vampire always stands by her people. It's in our blood."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Aima",
+          "text": "In our blood."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "You'll do well to remember that, Aima."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyrrhos",
+          "text": "There is no bond stronger than blood."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Aima",
+          "text": "Uncle ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Aima gently sets the wooden matryoshka down."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Its painted smile is unchanged, as if it still remembers the winds along the Danube, the swaying of the train, the murmurs and laughter of her journey."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Now its journey has come to an end."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "It should return to where it belongs, a world without walls, without exile."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Perhaps there it will find its answer."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Aima",
+          "text": "Goodbye."
+        },
+        {
+          "kind": "title_card",
+          "text": "Warehouse, Nika Checkpoint"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Infected Soldier",
+          "text": "Ooogh ... Argh ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Their leader gone, the monsters prowl restlessly, their roars ripping through the silent snowbound night."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Inside the warehouse, the survivors gather to plan their next move."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "Signal's back. I've contacted the Foundation; they're sending reinforcements immediately."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "But by the looks of it, the Infected will get to us before the backup arrives."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "It seems Pyrrhos's death hasn't had any effect on them. They're still coming."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "Perhaps, if anything, they seem more dangerous."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Semmelweis holds a glance on the shuddering doors of the warehouse, letting out an audible sigh."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "After this, mark my words, this is the last time I take on a mission with vampires."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Watching the situation unfold, Yakov looks down at the weapon in his hands, frowning."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Yakov",
+          "text": "We're running out of bullets. What do we do?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "We have to take them down. All at once."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Yakov",
+          "text": "All at once? How?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "Draw them into a room, and leave the rest to those."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She points toward a number of heavy crates bearing an ominous marking: \"flammable.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "I noticed them when we entered, too. Explosives, I presume?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "Yes. Pyrrhos mentioned having seized them from a militia camp."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arbuthnot",
+          "text": "Sounds like a plan. But how do we draw 'em close enough?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonya",
+          "text": "This isn't a plan; this is madness! Do you seriously believe they'll simply saunter into a building as if it were some kind of concert?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "Concert? That's it! We'll play music! Lucky for us, I always carry my kaval with me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her ruby eyes sparkle with sudden inspiration as she lifts her flute."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "In the old stories, when the Infected go loopy like this, they're easily attracted to loud noises."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "And my kaval—well, let's just say, if you've got ears, you'll hear it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "That matches with documentation I've read in the Foundation archives—a feasible solution."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "But that would make you the bait. Are you certain you can do it?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Rubuska grips her flute with determination."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "Of course."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Reyhan",
+          "text": "We can't; she's just a child."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Annabelle",
+          "text": "Don't go, Rubuska. We nearly lost you once already."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She squeezes her doll."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "Don't worry. I can handle it. I run fast. Those Infected won't get close. Besides ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "Me and my kaval can control shadows. I'll make a whole bunch of them as a distraction."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "See, tell me, who else could pull that off?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "One by one, the others shake their heads. Worry and refusal are written across every face, save one."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "You're not afraid?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "I'd be lying if I said no."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "But I'm Rubuska, the all-powerful, the deathless! And you're all counting on me!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Corvus nods, offering her a knowing smile."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "Then go. I believe in you, \"old pal.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "See you when this is all over!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She straightens her back and salutes clumsily. Corvus pretends not to see, merely turning away and waving to the others."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "The rest of you, come with me. Time to set the trap."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "There is no room for failure."
+        },
+        {
+          "kind": "title_card",
+          "text": "Border Checkpoint"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Snow still falls."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Infected Soldier",
+          "text": "Ooh ... Argh ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Infected trudge through the whipping snow, moving step by heavy step."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The girl stands alone, her only companion the wooden flute in her hands."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Infected Soldier",
+          "text": "Arrah ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Faces rise from the darkness, pale skin clinging to bone, veins etched across them like dry riverbeds."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "And in them, she sees another face."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She steps back once, then forward twice."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "Mама, forgive me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "But I'm not running anymore."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The great Rubuska takes a deep breath. Lips meet the waiting flute."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "It starts with a few clumsy notes, followed by a jumble of uneven chords. But the chords soon weave together, and the melody resonates up through the biting cold."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Infected Passenger",
+          "text": "Oooh ... Arraagh ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "It is a soft, lonesome tune, one that once carried her through battlefields that had gone quiet, graveyards, and mountains."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Through long years, she was the melody's only listener."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Back then, all she saw was silence stretching to the horizon and futures unseen."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "So she recited tale after tale of vampires."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "\"Dracula the Vampire\"",
+          "text": "Before you stands the forefather of young Rubuska—Dracula the Impaler!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "\"Arnold the Vampire\"",
+          "text": "And I, her noble grandfather, the glorious First Duke of Arges!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "\"Savonovic the Vampire\"",
+          "text": "And I ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "That lineage, growing ever more tangled, became her closest companion on the road."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "When she comes to, she realizes just how far she has wandered."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "Мама!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Mother",
+          "text": "You've come so far, my Buska."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "Yes, I have."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "I crossed the Rila Mountains, waded through-through the Struma River, and traveled along the Danube."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "Oh, I even rode a train!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Mother",
+          "text": "You sound happy, my dear girl."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "Happy?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Mother",
+          "text": "Those sights you've seen, your new friends, the train. I can feel your joy."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "In the fading flute's descent, the last note melts into the sunlight."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She tilts her face upward, as if catching the April wind once more."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "Yes, I am happy."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "Happier than I've been in a long time, Mама."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "She's done it. The Infected are swarming together."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "Explosives are in place. On my mark."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Corvus waves toward Rubuska."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She instantly understands, slipping out from the shadows until she is free of the Infected's encirclement."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "All is ready. The conductress narrows her gaze and gives the final order."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "Three, two, one."
+        }
+      ]
+    },
+    {
+      "script_id": "203130",
+      "internal_title": "【3.1】长夜鸣笛20.2",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "Border Checkpoint"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Aima",
+          "text": "Please form a line and await registration."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Aima",
+          "text": "The train will leave at dawn, so please make good use of your time."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Order is at last restored."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The conductress remains behind, watching the snowy way station and the wreckage left by the blast. Blood, organs, and fragments carpet the snow, like scarlet flowers blooming in an instant."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Pyrrhos's corpse is brought forth. Laid at the center of the bloom, his hollow eyes stare into the void."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "This chill in the air ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "The last time I felt a cold like this was in Strandzha. I thought it would be the end of me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "We were hiding out in the mountains. Every gust of wind felt like icy teeth biting into us."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Snowflakes land in her palm. Soon they will melt away like breath into the cold air."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "*sigh* Aima will continue to work on the \"Danube Dawn.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "Who would ever suspect a gentle girl like her of being a vampire? She'll be able to live a quiet life."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "She'll need blood from time to time, and I will provide it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She mutters to herself, then frowns, glancing to the side."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "I see you over there. Come out."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Verity",
+          "text": "Eyes as sharp as ever, I see. Nothing escapes you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "Do I know you?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Verity",
+          "text": "Do you know me? *mocking chuckle* We were partners."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Verity",
+          "text": "That is, until you were lost to us in that accident."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "I think you have me confused, madam."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Verity",
+          "text": "Heh ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She sighs deeply."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Verity",
+          "text": "Indeed. How unfortunate that the similarities only go skin deep."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Verity",
+          "text": "Still, who's to say it wasn't a cruel twist of fate that I boarded your train? Because ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Verity",
+          "text": "In a way, we both lost someone today."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She takes the torch from the conductress's hand, lights it, and casts it on the scattered flesh before them."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The flames rise with a low and crisp murmur."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The two stand together speechless for a time, until the first light of dawn spills across the ground."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Verity",
+          "text": "Dawn at last. It's been a long night."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "Time to go."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She turns toward the train, still halted, waiting like a slumbering iron giant."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "The \"Danube Dawn\" is ready to set off once again."
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

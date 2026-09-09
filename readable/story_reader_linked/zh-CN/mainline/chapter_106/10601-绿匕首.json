@@ -1,0 +1,917 @@
+{
+  "episode_id": 10601,
+  "chapter_id": 106,
+  "chapter_title": "今夜星光灿烂",
+  "display_label": "",
+  "title": "绿匕首",
+  "subtitle": "一柄漂亮的绿，负担起“人”应尽的义务。",
+  "trails": [
+    {
+      "element_id": 100601,
+      "owner_episode_id": 10601,
+      "trigger_episode_id": null,
+      "title": "听梦话的医生",
+      "description": "",
+      "action": "残篇阅读",
+      "unlock_condition": "EpisodeFinish=10601",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "呼、呼唔、呼……哦，哦噢！您来了？这可真不是好时候。您瞧见了，我这眼皮才分开了那么一会儿。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "唉……也就一眨巴眼，那梦就已经像头屁股吃了箭的鹿，连影子都钻进森林深处去了。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "你也会做梦？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "哎呦，您这算什么问题呀？说得就像我这颗老脑袋瓜里蹦出来了爆米花一样……"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "我得提醒着点，除了时间储存在这颗脑袋里的，被您这样的年轻人称为“古董”的东西——咱们没有太大的差别！我亲爱的。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "你梦到了什么？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "我也跟您一样想知道答案。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "您可以再替我拉上眼皮，拣条最软和的毯子，让我再回去一次。但即便如此，您知道，这答案也许早就变了样。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "瞧，我们忘记的事太多，记住的事又太少，于是为了防止那些埋在心底的东西让我们丢了人，这时候，才需要一位找梦话的先生。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "一位热衷莎士比亚多过病患，喜爱雪茄与前途甚于职业的好医生——西格蒙德·弗洛伊德。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "他将亲自剖开您的过去，利用名为“自由联想”的钩饵，从儿时的一次摔跤、门后的一次悲剧……钓起您之所以为您的病因。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "您只需要斜倚在那铺有波斯地毯的沙发上，像清仓的面包店，把那些过了期的话一股脑儿全从嘴里丢出去——"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "再然后，那健康便会如约而至——歇斯底里的人将做上针线活，梦游的孩子也能睡到悬崖边儿上，甚至连“尼采”也能创作出一场动人的幽默剧。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "“可那些病情报告呢？”您也许要问。它们当然不会缺席，否则谁又能知道这是一位好医生？"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "它们会从书籍、杂志、医学院学生们的闲谈……那些最引人注目的地方冒出来。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "届时，您的名字会被毕恭毕敬地隐去，而那些解闷儿的梦话将成为像我这样的咖啡馆老主顾的好谈资。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "公布或许对病人不是件好事",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "您忘了，“吃药”本就是会坏身子的，这世上可从没有不苦的好药。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "否则，那些病人又如何将自己从欲望与妄想的大脑囚笼里释放出来？"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "这只是小小的、小小的一个代价，就像衬衫上的一摊咖啡渍，让大家知道了您早上倒霉过了头。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "况且，谁也没为这些倒霉事儿署上您的名字，这仍是您与医生之间的任谁都凿不开的秘密。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "呵呵，不过您想得对，这也并不是唯一的方式……"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "另一个方式？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "来，把耳朵贴过来——您听见了吗？那声嘶力竭的哭号，窜动在颅脑上的滋滋作响，就连灵魂也得打颤上三分……"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "这也是一种答案。但您需知道，人们往往更喜爱这疼痛，全因它比吐露自己的长谈来得痛快。"
+            }
+          ]
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 100622,
+      "owner_episode_id": 10601,
+      "trigger_episode_id": null,
+      "title": "小径① 剧场印象",
+      "description": "",
+      "action": "残篇阅读",
+      "unlock_condition": "EpisodeFinish=31006",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "嘿，您！是的——匆忙的孩子，您脚步这样快，就像一阵风，时间都被您丢在了后面——您这是为了去哪儿啊？"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "我等不及要看戏了！",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "戏剧，戏剧！哦，瞧瞧，一位喜欢故事的孩子！这儿是维也纳，您为此而来，再正常不过。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "您来对地方啦。这儿的地面镶着金子，这儿的故事也伴着音乐。咿咿呀呀……即便是外行，也能好奇地瞪着眼睛看到结束。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "噢，我这张嘴！您当然不是外行——您是位口味颇高的鉴赏家……那么，在您离开之前，请允许我问个小问题——"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "您最偏爱故事的哪一幕？"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "第一幕",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "一个好的开头是成功的一半！您总是能抓住重点。我们总应该知道事情是如何开始的，弄清我们是何时踏上了那条命运为我们规划好的路线。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "第三幕",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "发展！没错，这儿充斥着刺激的转折，像是一颗削了皮的熟南瓜——最美味的那部分，一切您等着看到的都在这里啦！"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "第五幕",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "对的，对的，好的结尾，完美的收场。我们或是起立鼓掌，或是掩面低泣——这是你没在过程中睡着的好奖励，最值回票价的地方。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "都喜欢",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "哈哈，贪心的孩子。您总是难以做出选择，对吧？但我们总会面对选择的——总需要的。"
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "但您——您知道我最喜欢哪一幕？不是第一幕，不是第三幕，也不是第五幕……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "是第六幕，我亲爱的，那是最棒的地方啦。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "国王拾起掉在地上的脑袋；骑士拔出胸口的剑；反叛者微笑着拥抱着暴君；死去的人们拍拍土，站起来，而后堆着笑脸，列成一排，挥手致意，微笑着鞠躬……"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "这不在戏中",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "不，不，淘气的小家伙！从这儿开始，才是真正的戏剧哩。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "我这儿就有个好本子。等下，让我戴上眼镜……噢……从，就从第六幕讲起。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "从我们的公主、国王的孩子、一只缀满钻石的小夜莺——从这名万众瞩目的歌剧演员踏进了灰白色屋子里的故事讲起。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "“幕布永远地落下了。她是那样的平静。她微笑着，仍在梦中。”"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "“他们提防着她的疯狂。但如今，当判决落下，她又变得如此温驯，如同一叶停泊的小舟。”"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "“她向每一位灰白色衣服的先生颔首。颈项上的沉重的枷锁也变得如同最耀眼的珠宝。”"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "下一页……噢。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "发生了什么？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "“透明的屋子，二十四小时不间歇的照明，人的尊严就像是被丢在地上的丝帕——她的冠冕碎啦，他们需要她为自己的疯狂付出代价。”"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "她是个疯狂的人？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "不——不再是了。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "“‘睡吧。她曾对我说，睡吧。那么，我便不需要再醒来。’”"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "“耀眼的孩子从此沉入了永恒的梦乡。扰人的明亮如同舞台的灯光，无人的房间拥有最美妙的混响。她从未如此平静，那美好的一切凝固在了她的身上。”"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "我猜她彻底疯了",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "——或者，彻底的宁静。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "“她的世界变成了一场戏剧，仍在上演，永不落幕。”"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "要我说，这真是个好演员，不是吗？"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "但不是什么好故事——我听不懂。",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "哈哈哈，亲爱的，您确实是位品味极佳的行家。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "——无论是哪一幕，都不能只是“这一幕”。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "噢，瞧我拉着您絮絮叨叨了这样多，都没注意到金色的幕布已经拉开。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "最后整一整领子，亲爱的，踏上你的旅途吧。"
+            }
+          ]
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100601",
+      "internal_title": "第六章6-1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "今夜星光灿烂"
+        },
+        {
+          "kind": "title_card",
+          "text": "绿匕首"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "场景-黑屏"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "欢迎诸位——"
+        },
+        {
+          "kind": "title_card",
+          "text": "诊疗大厅"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "施瓦茨医生",
+          "text": "女士们，先生们！我谨代表维也纳综合医学协会感谢诸位参与此次的公开诊疗。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "施瓦茨医生",
+          "text": "向你们致敬！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "施瓦茨医生",
+          "text": "朋友们，可以预见的是，科学的时代已然到来，人的时代已然到来——！请与我享有同样的荣幸，在此见证科技为医学，乃至世界做出的进步。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "音效-掌声（热情的）"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "施瓦茨医生",
+          "text": "请允许我再次向大家介绍我们的志愿者——愿意为医学奉献，即将重获健康的伊索尔德·冯·迪塔斯多夫女士。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "氛围图1-电击椅子上的伊索尔德。伊索尔德不露出眼睛被束缚在椅子上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊索尔德",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "施瓦茨医生",
+          "text": "她因癔症所致的诸多不幸是如此令人惋惜。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "施瓦茨医生",
+          "text": "正如诸位所知。精神疾病正蚕食着我们的国家——致使自戕也成为了潮流。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "施瓦茨医生",
+          "text": "悲剧在不断地上演着，我们这位尊敬的女士也正饱受着非人的痛苦！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊索尔德",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "施瓦茨医生",
+          "text": "而医学的进步将再一次从深渊中拯救我们。诚如我所言，电疗法是如今最先进的技术。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "施瓦茨医生",
+          "text": "将电运用于医学已经有多年的历史，早在18世纪……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "晦涩的理论知识难以吸引所有的来宾。更多是出于猎奇心理而非求知的维也纳市民更青睐“诸多不幸”的部分。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "市民观众Ⅰ",
+          "text": "伊索尔德？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "市民观众Ⅰ",
+          "text": "那个迪塔斯多夫家族的小女儿？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "市民观众Ⅰ",
+          "text": "噢，这就不奇怪了——这场诊疗对她可真是个从天而降的益事！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "市民观众Ⅰ",
+          "text": "想想迪塔斯多夫家都是些什么人吧……她的母亲曾用一柄窗帘针穿过了老迪塔斯多夫的太阳穴，连带着在场的女仆们也一同遭了殃……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "市民观众Ⅰ",
+          "text": "那个黄铜制品如今流到了珍奇品市场中——据说上面至今仍残留着鲜血，卢尔德的圣水都难以拭去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "市民观众Ⅱ",
+          "text": "哦，是的，他们家还从未有人活过40岁，就像沾了什么诅咒似的……她可怜的姐姐年幼早夭，而如今她的哥哥——我在晨报上读到了……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "市民观众Ⅰ",
+          "text": "他自杀了，是吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "市民观众Ⅱ",
+          "text": "准确来说，那位浪漫的画家兼诗人写了一首哀伤的小诗，然后将自己与那些画一起点燃了——十足艺术家的作风。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "市民观众Ⅰ",
+          "text": "可你们知道吗？我的叔父在警察局，他给我看了验尸报告。西奥菲尔是用枪自杀的！那才是致命伤……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "市民观众Ⅲ",
+          "text": "哦？这可真是个好消息！至少西奥菲尔在死亡的道路上没有获得过多的痛苦……那个可怜的、美丽的、充满才华的男孩！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "市民观众Ⅲ",
+          "text": "只是可怜！这不幸的女孩，连那棺椁都没能见到便昏了过去……希望我们的科学能将她从病魔手中拯救出来……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "市民观众Ⅱ",
+          "text": "嗬！真是疯疯癫癫，这一家都是彻头彻尾的疯子！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "市民观众Ⅰ",
+          "text": "请注意您的发言，这位绅士！这里是维也纳，我们应当称呼这些可怜儿为——神秘学家。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "市民观众Ⅲ",
+          "text": "唉，我衷心期望伊索尔德能摆脱那些痛苦的噩梦……她是维也纳最有天赋的那批歌剧演员，就像当年她的母亲……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "市民观众Ⅰ",
+          "text": "哈哈，毕竟才华和癔症总是相辅相成。您瞧，它们都是从脑子里诞生的！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "市民众",
+          "text": "哈哈哈……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "主讲人也注意到了这些不合时宜的闲聊。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "施瓦茨医生",
+          "text": "请安静！诊疗即刻开始。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "施瓦茨医生",
+          "text": "准备好了吗，迪塔斯多夫小姐？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊索尔德",
+          "text": "是……是的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊索尔德",
+          "text": "呼——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊索尔德",
+          "text": "我准备好了。劳您——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊索尔德",
+          "text": "呃啊——！！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "施瓦茨医生",
+          "text": "三、二、一——好的。女士，冷静下来，坚持住，好吗？我们这次治疗会有效的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "施瓦茨医生",
+          "text": "坚忍是美德。我想电击并不像你呈现出来的这样痛苦，别让癔想出来的恐惧侵害你。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊索尔德",
+          "text": "呜……呜呜……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊索尔德",
+          "text": "好的……哈啊……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "施瓦茨医生",
+          "text": "很好。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "施瓦茨医生",
+          "text": "第二阶段，我们会微微将电压调高。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "施瓦茨医生",
+          "text": "迪塔斯多夫小姐，请准备好。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊索尔德",
+          "text": "呜……呜……我……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊索尔德",
+          "text": "啊——！不，不……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "施瓦茨医生",
+          "text": "第三阶段，继续将电流提升……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊索尔德",
+          "text": "呃啊——啊——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊索尔德",
+          "text": "声音在世界中已经远去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "音效-拍桌"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "——够了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "场景-公开诊疗厅"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "施瓦茨医生，很抱歉打断您，但请您立刻中止这场诊疗！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "唐突响起的质问取代了电流的滋鸣，观众们纷纷回头，望向后排站起的娇小女性。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "请允许我向您——向综合医学协会提出质疑。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊索尔德",
+          "text": "呼……呼……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "您所展现的电击疗法严重缺乏人道主义的光辉。在我看来，这样的疗法除了徒增病人的痛苦，毫无实质性的帮助。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "如果您的目的就是增加病人肉体上的痛苦来转移精神上的痛苦——那请当我没有说。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊索尔德",
+          "text": "……？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "绿色的身影纤巧，如同一把匕首破开了混沌的视野。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "施瓦茨医生",
+          "text": "尽管诊疗会的意义就是交流。但您——真是唐突。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "施瓦茨医生",
+          "text": "电击疗法早已不同于上个世纪。在人类驯服电力的如今，电疗毫无疑问是最先进的技术——您不能只看表象。这其中的原理是与简单的蛙腿运动有所不同的！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "施瓦茨医生",
+          "text": "我的治疗方案有着充足的理论与文献作为支持，并拿到了医学协会的批准与赞助——合理，而又合法。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "施瓦茨医生",
+          "text": "但是您，噢，我想我没认错，那位以兜售神秘学小花招闻名的“社会活动家”——卡卡尼亚，或者，克拉拉小姐。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "施瓦茨医生",
+          "text": "就我所知，您并没有拿到医学院的毕业证书，您那些名为“分离”的艺术运动也让人倍感精神上的迷惑。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "施瓦茨医生",
+          "text": "姑且不谈及其他。出于专业交流考虑，我建议咱们的交谈最好留到之后——比如，您拿到行医执照的时候！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "人群的私语、细碎的嘲笑声响作一团。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡卡尼亚",
+          "text": "不，施瓦茨医生。这与我个人的出身与经历无关，我只是作为一个有同理心的维也纳市民，一个最基本的“人”——在质问您！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡卡尼亚",
+          "text": "您何以如此无视她的痛苦？是您至高无上的医学权威蒙蔽了您的感官，还是您也罹患歇斯底里症，致使双目失明、双耳失聪了吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "施瓦茨医生",
+          "text": "……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "施瓦茨医生",
+          "text": "如此无礼！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "施瓦茨医生",
+          "text": "请容我再强调一次——电击疗法先进而可靠。而且，迪塔斯多夫小姐已经签署了协议。诊疗是在我们双方的同意下进行的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "施瓦茨医生",
+          "text": "您的反对不仅毫无效用，还严重影响了治疗进程。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "施瓦茨医生",
+          "text": "但我们一向欢迎交流。既然您反对——那不妨畅言！您又秉持着什么样的高见呢？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡卡尼亚",
+          "text": "据我所知，西格蒙德·弗洛伊德先生早在1895年就发表了《歇斯底里症研究》。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡卡尼亚",
+          "text": "他认为，歇斯底里症是由神经系统紊乱所引起的心理障碍，而非纯粹的器质性疾病。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡卡尼亚",
+          "text": "他的癔症创伤理论曾解释过：患者的生活与个人经历对他们有着潜移默化的影响——这正是症结所在。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡卡尼亚",
+          "text": "——分析这些创伤远比用“科学”去损害人的躯体更为有效。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡卡尼亚",
+          "text": "至于先进，弗洛伊德先生在去年还发表了《图腾与禁忌》……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "施瓦茨医生",
+          "text": "——什么？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "绅士脸上的表情出现了裂痕。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "施瓦茨医生",
+          "text": "弗洛伊德——弗洛伊德！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "施瓦茨医生",
+          "text": "那个宣扬您应该娶自己母亲，杀自己父亲的人？！那个三番五次被打断诊疗，在自己病人的疯言疯语里一句话都插不上嘴的家伙？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "施瓦茨医生",
+          "text": "我的上帝！他花了十七年才评上教授职称！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "施瓦茨医生",
+          "text": "克拉拉女士，我可以容忍您不成熟的批评，也欢迎理性、中肯的指教。但……您怎么能将我与如此不专业的人相提并论？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "施瓦茨医生",
+          "text": "这是对一名绅士的羞辱！是针对我名誉的羞辱！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡卡尼亚",
+          "text": "什么？施瓦茨医生，我无意羞辱您……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "“砰咚——”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "市民观众Ⅲ",
+          "text": "啊！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "市民观众Ⅲ",
+          "text": "迪塔斯多夫小姐昏厥过去了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "施瓦茨医生",
+          "text": "……怎么会这样！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡卡尼亚",
+          "text": "……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡卡尼亚",
+          "text": "快！先把她放下来——！"
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

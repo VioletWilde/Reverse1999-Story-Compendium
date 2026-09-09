@@ -1,0 +1,445 @@
+{
+  "episode_id": 3110108,
+  "chapter_id": 31101,
+  "chapter_title": "长夜鸣笛",
+  "display_label": "",
+  "title": "铁道猫",
+  "subtitle": "血食怪在哪儿，他是不是在风雪中迷了路？我们必须找到他否则火车无法开出。​",
+  "trails": [
+    {
+      "element_id": 3110106,
+      "owner_episode_id": 3110108,
+      "trigger_episode_id": null,
+      "title": "打量的字句",
+      "description": "一名优秀的调查员可以用最短的谈话知悉最多的信息。",
+      "action": "交互",
+      "unlock_condition": "EpisodeFinish=3110108",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "乘客信息登记笔记"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "……\n\n索尼娅 60岁 \n贵妇。刻薄、挑剔，疑似是在逃难的旅途中。\n或许是因为高傲了60年所以不愿认清现状。\n\n原计划携带管家出行，但“多瑙黎明号”一票难求。\n看来战争对昔日的贵族和平民都一视同仁，又或许她们家族的地位不如她表现出来的这般高贵。\n\n在抱怨了十分钟自己不得不独自出行，没有管家替她摆放餐盘、烫好裙角褶皱后，总归她还是一个人登上了列车。\n真的有人穷尽一生去学习如何将刀叉摆成完美的四十五度角？总之，她典型到像是刚从古典油画里提着裙摆走出来的贵妇，希望她在逃难的路上学会低下高傲的头颅，看清我们身处的这个世界。\n\n…………\n\n……\n\n阿不思诺 45岁 \n中产，普通而体面的“老爷”。\n性格和表现上没看出什么特别的，只是个符合他身份阶级的普通人。\n\n商人，在东欧投资了铁路和石油。\n重要的基础设施和战略资源。他有些门道，也有生意人的眼光。\n\n战争让他损失了不少，也让他有些忧心自己的将来。\n特殊时期，特殊处理。他担心的不是丧命或饿死，而是优渥的生活一去不返。\n\n…………\n\n……"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "203110",
+      "internal_title": "【3.1】长夜鸣笛08",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "乘客车厢"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "时间已来到深夜。\n完成登记的乘客陆续回到各自的车厢，在香软的卧铺中进入沉沉梦乡。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "喧嚣散尽，车厢内只剩两名乘客面对面坐着，彼此沉默不语。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅尔维斯",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "空心木",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅尔维斯",
+          "text": "这位女士，你可以先放下笔。现在是我在做信息登记。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "空心木",
+          "text": "空心木，英国人，神秘学家。喜欢咖啡、银鳕鱼还有起风的夜晚。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "空心木",
+          "text": "讨厌截稿日和下雨天。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "空心木",
+          "text": "好了，以上就是我能给到你的全部信息。接下来轮到我了……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "撰稿人放下笔，忽然凑了上来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "空心木",
+          "text": "找到了吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅尔维斯",
+          "text": "我不太明白您的意思。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "空心木",
+          "text": "哦，看样子是没有。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她兴致缺缺地朝调查员摆了摆手。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "空心木",
+          "text": "在你这样一本正经的家伙身上，再有趣的素材恐怕都会变成乏味的档案记录。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "空心木",
+          "text": "再见，祝你工作顺利。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "调查员干脆地收起笔和文件，然而撰稿人像是忽然想到了什么，再度开口。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "空心木",
+          "text": "不过……看你这么辛苦地忙前忙后，我就投喂你一点儿“小甜点”吧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅尔维斯",
+          "text": "嗯？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "撰稿人凑近身子，诡魅地朝调查员眨了眨眼。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "空心木",
+          "text": "听说……之前的乘客总能在夜晚听到哭声。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅尔维斯",
+          "text": "哭声？什么样的哭声？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "空心木",
+          "text": "唔……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "空心木",
+          "text": "一开始很轻，后来嘶嘶地、很长很长，像一条线……然后又突然卡住了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她慢慢掐住自己的脖子，朝调查员露出微笑。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "空心木",
+          "text": "……就像小猫被掐住一样。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅尔维斯",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "空心木",
+          "text": "怎么样，喜欢我讲的鬼故事吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅尔维斯",
+          "text": "哦，还不错。你后面有东西，就悬在半空中……看上去很像那只被掐住的小猫。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她面无表情地回击了一个拙劣的玩笑。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "空心木",
+          "text": "不，你什么都没看到。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "撰稿人挺直背脊，面带自信的微笑。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "空心木",
+          "text": "回去忙你的工作吧，“一无所知”小姐。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "登记工作总算告一段落。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "调查员略感到疲惫。她踱回自己的座位，翻开来时携带的文件。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅尔维斯",
+          "text": "穿越半岛为数不多的列车之一……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅尔维斯",
+          "text": "来历不明的乘务组成员和闹鬼车厢……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅尔维斯",
+          "text": "至于乘客……刚才已经登记了一遍，身份都能对上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "调查员收起文件。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一切都无可挑剔地顺理成章，仿佛所有的荒谬都有其存在的理由，但却又隐隐地透露出不对劲。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅尔维斯",
+          "text": "重塑之手还是没能浮出水面。看来关键还是在于那位列车长……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅尔维斯",
+          "text": "她到底在隐瞒什么？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅尔维斯",
+          "text": "……停车了？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "乘客Ⅱ",
+          "text": "你好，先生……列车怎么忽然停靠了？才刚睡下没多久呢……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "乘务员匆忙穿梭在走廊里，轻言安抚被惊醒的乘客。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "乘务员",
+          "text": "各位，很抱歉……列车现在是临时停车。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "乘务员",
+          "text": "由于大雪天气的缘故，铁路暂时无法通行。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "乘务员",
+          "text": "我们正在加紧处理，请各位乘客不要惊慌。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "乘务员",
+          "text": "现在为诸位提供夜间点心，我们备有莱比锡的云雀蛋糕和东方风情的土耳其软糖，如果您还有其他需要，请随时招手示意我……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅尔维斯",
+          "text": "大雪？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "调查员悄悄挑开窗帘一角。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "窗外雪花不时飘飞，吹落在沉默的群山之间。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅尔维斯",
+          "text": "不错的借口，但这可不足以成为停车的理由。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "远在列车的另一侧，这场小小的风波并未影响到女孩的好睡眠。"
+        },
+        {
+          "kind": "title_card",
+          "text": "乘务员车厢"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "野树莓",
+          "text": "呼……呼……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "野树莓四仰八叉地躺在沙发上，呼吸分外均匀。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她这一天经历了太多起伏，新朋友的倾听与安慰无疑成了她最好的助眠药剂。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾玛",
+          "text": "真奇怪，我还是第一次见到会在夜里睡觉的血食怪……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾玛",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她伸出手，一点点靠近女孩的睡颜。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾玛",
+          "text": "呀！时间到了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "乘务员摇摇头，整理了一下女孩颊边的碎发。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾玛",
+          "text": "笑得这么开心，一定是在做什么美梦吧。不过……我得暂时离开一会儿。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她站起身，悄悄带上门。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "室外流入的光线被阴影慢慢侵蚀，直至门完全合上，房间陷入一片黑暗。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾玛",
+          "text": "晚安，小树莓。"
+        },
+        {
+          "kind": "title_card",
+          "text": "临时停车点"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "空气里弥漫着湿木、腐叶、雪和阴谋的气息。女孩在昏暗的树影中穿梭，时隐时现，幽灵般游走于林木之间。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "早早下车的列车长等候在雪地里，捻碎了一片片落在她手心的雪花。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "你来迟了。遇到意外了吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾玛",
+          "text": "抱歉……我刚把那个血食怪女孩儿哄睡着。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "有人知道你下车了吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "静悄悄的森林里，列车无声无息地停靠在铁轨上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "雪仍慢慢地下着。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾玛",
+          "text": "我走得很小心，没人会发现我的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "很好，那走吧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "告死鸟",
+          "text": "别让他们久等。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "两人一前一后，朝着列车末尾走去，迅速消失在漆黑的雪夜之下。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "雪地上，另一人的脚印远远地跟在后边。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅尔维斯",
+          "text": "果然……"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

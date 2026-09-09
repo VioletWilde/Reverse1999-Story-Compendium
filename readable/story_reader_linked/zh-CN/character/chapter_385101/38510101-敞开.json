@@ -1,0 +1,585 @@
+{
+  "episode_id": 38510101,
+  "chapter_id": 385101,
+  "chapter_title": "聚合浪潮",
+  "display_label": "",
+  "title": "敞开",
+  "subtitle": "观测，记录，保持好奇，抵达异乡。",
+  "trails": [
+    {
+      "element_id": 38510101,
+      "owner_episode_id": 38510101,
+      "trigger_episode_id": null,
+      "title": "X的实验记录",
+      "description": "有序的混沌，可控的雨幕，未知的冒险。",
+      "action": "交互",
+      "unlock_condition": "EpisodeFinish=38510101",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "X的实验记录"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "全景观测空间 模拟世界 时空泡泡球雨幕舞台的数据还需要进一步细化。\n惠更斯-菲涅尔干涉仪建构了足够多的混沌粒子，通过意识的波动，它们成功缔造了一个可以被观测的逼真的空间。尽管我们仍然不知道一切发生的过程，只能阅读那个结果，但就像我们所熟知的那样——大多数时候打开黑箱并不是明智的选择。演员才是舞台上最重要的部分，我提议将实验的观测重心从雨幕舞台转移到实验者的大脑变化上来。刚好我们有一位十分擅长观测大脑的朋友，如果能得到她的协助，我们一定能得到更有价值的数据。\n是的，引入更多人会让过程越发复杂且混乱，但结果一定会是好的，我想这个理由足够充分了。"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 38510102,
+      "owner_episode_id": 38510101,
+      "trigger_episode_id": null,
+      "title": "今日要闻",
+      "description": "世界上还有许多人生活在水深火热之中。",
+      "action": "交互",
+      "unlock_condition": "EpisodeFinish=38510102",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "今日要闻"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "……取得了重大成果，这些由瓦维洛夫综合体研发的小麦种子得到了广泛的种植。现阶段，对于我国来说，增产已经成为了最基础的要求，现在科学家们所追求的，是让作物能够在各种恶劣环境中生长。这一方面将解决地球上很多国家的饥荒问题，另一方面也能为我们在火星上进行栽培做好准备。如所有公民所熟知的那样，有机聚合物改良后的小麦需要足量的养分，今日将会有大量“熊蜂”机器人搬运新型农用机械和有机聚合物抵达农田区域，请各位公民注意空中交通安全。晨间新闻节目已结束，感谢您的收听，祝您拥有愉快的一天。"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 38510103,
+      "owner_episode_id": 38510101,
+      "trigger_episode_id": null,
+      "title": "聚合物国际峰会",
+      "description": "我们十分乐意向世界推广这些有益于人类的技术。",
+      "action": "交互",
+      "unlock_condition": "EpisodeFinish=38510103",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "聚合物国际峰会"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "各位国际友人、学界翘楚和关心人类福祉的同志，欢迎来到聚合物国际峰会！\n我们真诚地邀请您参观苏联最先进的科学设施，在各具特色的综合体之中，您将了解到这个时代最前沿的科学技术，我们也将展示这些技术如何融入到人们的生产生活之中，真正造福每一位学习者和劳动者。从农业的基因编辑，到工业的机器人自动化，从知识和经验的传输，到思维和计算的突破，实现这一切的伟大基石就是本次峰会的主角——聚合物。\n我们十分乐意将这些造福人类的技术分享和推广到世界各处，请各位来访者在最近的拉菲克处领取座驾激活码，并乘坐涡轮车抵达峰会现场，我们期待着您的到来。"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 38510104,
+      "owner_episode_id": 38510101,
+      "trigger_episode_id": null,
+      "title": "反对声明",
+      "description": "谁提出？谁举证？谁负责？",
+      "action": "交互",
+      "unlock_condition": "EpisodeFinish=38510103",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "反对声明"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "我谨代表政治局，对谢切诺夫同志所提出设想的安全性表示怀疑。并非所有的创新都有益于我们的国家和制度，历史的教训告诉我们，技术，尤其是最前沿的技术，一旦脱离掌控，就会引发巨大的灾难。如果我们对于这些技术的了解不够透彻，对于技术的把控不够严密，谢切诺夫同志能否对可能出现的一切情况负责？我们都知道，把试验场里的东西拿到社会上是一件多么危险的事情，就让它们在实验室里好好待着吧。我相信我们现有的制度和技术，已经完全能够服务好社会和国家了。\n\n发言人：叶戈尔·齐莫菲叶维奇·莫洛托夫\n会议时间：■■■■年■■月■■日"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 38510105,
+      "owner_episode_id": 38510101,
+      "trigger_episode_id": null,
+      "title": "列别杰夫手记",
+      "description": "她一定是一位纯洁可爱的温柔姑娘。",
+      "action": "交互",
+      "unlock_condition": "EpisodeFinish=38510104",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "列别杰夫手记"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "自动化武器制造厂已经建成了，它的计算核心十分强大，一定能成为门捷列夫综合体的骄傲。为了丰富维修小站的功能，我给它装载了足够多的算法，这是真正的人工智能，而它，或者说她，竟然自己产生了情绪。我不确定这是否为一种对人格的模仿，但她让这里所有的科学家都感到兴奋。或许她应该有一个更加女性化的名字，哦……可爱的名字，像一个纯洁的苏联姑娘那样——“诺拉”，这名字真不错。"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 38510106,
+      "owner_episode_id": 38510101,
+      "trigger_episode_id": null,
+      "title": "动态日志",
+      "description": "不管灵魂被藏到哪座岛上，总是有迹可循的。",
+      "action": "交互",
+      "unlock_condition": "EpisodeFinish=38510114",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "动态日志"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "信息：释放（Z）-3-己烯醛、2-乙酰基-1-吡咯啉、芳樟醇、α-蒎烯混合物。\n反应：识别为“春天”，无其他反应。\n\n信息：展示面积占画布比例40%的白色倾斜正方形，色相中性，明度对比弱。\n反应：识别为“至上主义”，无其他反应。\n\n信息：播放指定的音程序列。\n反应：播放至《胡桃夹子》时，有轻微抬头动作，随即恢复初始站立姿态。\n\n结论：双生舞伶对于信息的处理无异常，心智参数波动均在标准范围内。"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 38510107,
+      "owner_episode_id": 38510101,
+      "trigger_episode_id": null,
+      "title": "有始无终的信",
+      "description": "超越人类有限性的，才能被称为伟大。",
+      "action": "交互",
+      "unlock_condition": "EpisodeFinish=38510115",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "有始无终的信"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "归档对话#■■\n日期：数据已删除\n发件人：D·谢切诺夫\n收件人：数据已删除\n\n……人类的未来就在此处。我曾认为，只要机器人接管了那些困难和重复的工作，人类就会有更多的时间和精力，自由地投入到有益于社会的智力追求当中。我们将最大限度地解放人在科学和艺术上的生产力。但事实证明，人，确实有原罪在身上。在拥有了时间和技术之后，大多数人所追求的仍是虚度年华的事情，而非完善自己。在意识到这些有限性之后，我们必须开启全新的计划，这个计划能够让被动转化为主动，让堕落转化为高尚，让放任转化为自由……"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 38510108,
+      "owner_episode_id": 38510101,
+      "trigger_episode_id": null,
+      "title": "秘密文件",
+      "description": "消失于历史、文件和人们的记忆中。",
+      "action": "交互",
+      "unlock_condition": "EpisodeFinish=38510115",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "秘密文件"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "位置：聚合物展览馆·能源室\n证物：金属手表，啁啾表链，制式手枪\n描述：现场无暴力搏斗痕迹，根据对证物的分析可以确认其均属于马克西姆本人。现有证词称马克西姆使用手枪自杀，确认生物层面死亡。现场无肢解、拖拽或其他转移痕迹。\n尸检报告：（空白）\n聚合物分析：（空白）\n权限签署：国家政治局"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "2038501",
+      "internal_title": "【S02】聚合浪潮00",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "银白色的建筑中，一位研究者步履轻捷，引领着身后跟随的人径直走向回廊深处。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小梅斯梅尔",
+          "text": "“雨幕舞台”？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "X",
+          "text": "没错，在这个舞台上每一次观测都可实现其独一无二的价值。维尔汀，你上次的感受如何？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "一次令人印象深刻的旅行，我们以另一种方式回到了更早的时代。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "X",
+          "text": "像“暴雨”一样，不是吗？只不过，这是足够安全的另一场雨，并不会威胁实验者的生命。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小梅斯梅尔",
+          "text": "……我想我该拒绝你。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "X",
+          "text": "别急着下判断，来看看吧，也许你会感兴趣的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "X",
+          "text": "我们到了。"
+        },
+        {
+          "kind": "title_card",
+          "text": "洛伦兹实验室"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "X",
+          "text": "另一个全新陌生的世界，一份纯净、尚未被干涉的原始记录。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "X",
+          "text": "这次，世界又会因为哪一处的涟漪产生变化？找到这个问题的答案，就需要二位的协助了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小梅斯梅尔",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小梅斯梅尔",
+          "text": "小梅斯梅尔仔细审视着少年面上的愉悦。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "周遭光线昏暗，唯有几束白色的灯光将视线引向置于房间中央的环形机器之上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小梅斯梅尔",
+          "text": "这就是“惠更斯-菲涅尔干涉仪”？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "X",
+          "text": "是的，通过它，我们能体验到全然不同的全景观测空间——也就是雨幕舞台。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "小梅斯梅尔向前走去，近距离地观察面前的庞然大物。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "X",
+          "text": "这里有一本《观测指南》，上面有更详尽的关于这台仪器的介绍。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "X",
+          "text": "尽管吸收知识最好的手段是体验，但小梅斯梅尔，你是第一次参与，这份册子说不定能帮上你。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小梅斯梅尔",
+          "text": "别急着下判断，X。我依旧有拒绝的权利。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一句耳熟的话，X莞尔一笑。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小梅斯梅尔",
+          "text": "这是属于拉普拉斯的资产吗？这间实验室、这台仪器，此前我从未接触，甚至从未听闻过。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小梅斯梅尔",
+          "text": "我不会断言我熟知拉普拉斯这所机构里所有设备，只是这种分量的仪器，它的研发过程不会悄无声息。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小梅斯梅尔",
+          "text": "但我知道的是，在这里，也正栖息着一只“蝴蝶”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "X",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小梅斯梅尔",
+          "text": "X，你邀请我前来实验的原因，是想让我协助你在舞台上收集交互过程中影响大脑的参数。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小梅斯梅尔",
+          "text": "毕竟我常年研究人工梦游，与人们的大脑打交道。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小梅斯梅尔",
+          "text": "但这个课题，是“你”的课题，还是……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "露西",
+          "text": "抱歉，我来晚了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "高密度的金属与地面碰撞，意识唤醒者的脚步激起一阵响亮的回声。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小梅斯梅尔",
+          "text": "露西女士，您来了？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "X",
+          "text": "噢——看来这会是第一个变量。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "意料之外的来访者，让众人暂时无暇顾及先前的疑问。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "抱歉，X，是我邀请露西女士前来的。上一次实验过后，我和露西女士交流了一些内容。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "露西",
+          "text": "嗯，一个完全关于“观测”的实验，意识与混沌粒子的交互将产生一个足够逼真的现实空间。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "露西",
+          "text": "一个意识唤醒者无法拒绝这样的邀请，这是一场极具价值的实验——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "露西",
+          "text": "它的价值并不局限于某一个体、某间实验室，而是属于拉普拉斯众人，以及所有带有探索渴望的人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "钢铁拼接的“脸”微微扬起，面对这台仪器，条屏闪着光，这可被理解为思索的状态。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "X",
+          "text": "嗯——我赞同露西女士～"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "X",
+          "text": "我想这也是对小梅斯梅尔的疑问，一个最好的回答。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "X向一旁的小梅斯梅尔眨了眨眼。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "X",
+          "text": "那么接着来谈谈这次的实验吧。结合上一次的实验数据，干涉仪进行了相应的改进。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "X",
+          "text": "现在，我们可以通过混沌粒子的投影对舞台内的情况做一些模糊的预测。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "X走上干涉仪的操作台，按下几个按键。广场、实验室、卧室……不同场景轮番出现在屏幕上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小梅斯梅尔",
+          "text": "这是苏联……？但看上去与资料记载的并不一致。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "X",
+          "text": "我认为，将它称呼为“苏联的某种可能性”会更为准确些。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "X",
+          "text": "这就是我们这次要探索的雨幕舞台，从目前收集到的信息来看，它向我们展现了一个科技急速发展的苏联。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "X",
+          "text": "一个崇尚理性与秩序，没有神秘学家的地方。小梅斯梅尔，这是否能进一步减轻你的担忧呢？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "X",
+          "text": "以及，你的身边还有维尔汀与露西女士的陪同。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小梅斯梅尔",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小梅斯梅尔",
+          "text": "我的确产生了好奇心。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "X",
+          "text": "呼——很好。我会在这儿尽力支援你们，这台仪器的确有尚待挖掘的部分，但大部分问题我都能解决。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "露西",
+          "text": "X研究员，我可以代替你操作干涉仪。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "X",
+          "text": "嗯？但……我想您并不清楚具体的操作步骤。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "露西",
+          "text": "我可以通过你的演示学习基本的使用方法，剩下的，我相信你作为研究员一定也保存了操作记录。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "露西",
+          "text": "这台仪器本身具有独特的探索价值，上手操作能够让我迅速理解其原理，这会对拉普拉斯的其他研究起到帮助。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "露西",
+          "text": "下次再见到阿德勒研究员时，就可以向他传达了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "以露西女士的算力能更快解决干涉仪出现的问题。小梅斯梅尔也会更加放心一些。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "X",
+          "text": "……看来我并没有太多拒绝空间。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "X沉吟片刻。在当下的处境里试图保守洛伦兹的秘密已极难做到。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他转头看向干涉仪。他熟知这台仪器的操作，却从未成为实验对象。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "X",
+          "text": "一份纯净的、未被干涉的原始记录……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "存在即影响，他可以亲身验证。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "X笑了起来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "X",
+          "text": "露西女士，这的确是一个很好的提议。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "随着意识唤醒者的操作，干涉仪内缓缓落下细雨。随后，雨滴如泪珠般悬浮在半空，微微地颤抖。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "露西",
+          "text": "干涉仪启动成功。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "X",
+          "text": "您的上手速度的确很快。噢，还有一件事——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "X拿出一个近似于BB机的通讯设备。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "X",
+          "text": "这个通讯仪可供雨幕舞台内的成员跟外界沟通。这也是基于上次实验的改进成果。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "X",
+          "text": "实验过程中遇上任何问题，我们都会用这个通讯仪与您联系。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她接过X递来的通讯仪。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "露西",
+          "text": "好。请各位做好准备，舞台即将拉开帷幕。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "X",
+          "text": "辛苦了，露西女士。我会给您带点小礼物回来的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "露西",
+          "text": "谢谢。预祝各位一切顺利。"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

@@ -1,0 +1,645 @@
+{
+  "episode_id": 11102,
+  "chapter_id": 111,
+  "chapter_title": "行于漫漫长路上",
+  "display_label": "",
+  "title": "旧军靴",
+  "subtitle": "它曾属于一个不幸的人，现在，但愿它能带给你好运。",
+  "trails": [
+    {
+      "element_id": 111002,
+      "owner_episode_id": 11102,
+      "trigger_episode_id": null,
+      "title": "祝你健康",
+      "description": "传闻？乐子？毫无意义或者饱含意义的倾诉？",
+      "action": "交互",
+      "unlock_condition": "EpisodeFinish=1102",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "“死而复生”的士兵"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "████：\n    养病当然无聊，但养病总比上前线好。等你膝盖的伤势好转，或许这场该死的战争也结束了。如果我还活着——做这种假设真是让我感到奇怪——我会先来后方看你的，说不定我们还可以一起回家。\n    ……\n    好了，让我给你说说最近的消息吧。那个传闻中“死而复生”的士兵——他是真的“死而复生”还是人们说他“死而复生”，这根本是两码事，但或许大人物们觉得是一回事吧——他回来前线了，作为布劳恩营长的士官。\n    为什么只是个士官？为什么回前线？我知道你肯定要这样问，但谁也不知道他是怎么想的。他拒绝了宣传部的要求跑来前线，但是也不准备继续做步兵，他只想收尸。是不是很难想象？要我选的话，我宁愿听宣传部的话做一个穿着漂亮衣服的洋娃娃，也不要每天在子弹和炮弹下胆战心惊地等死，即便这可能会让更多的年轻人涌上战场送死……\n    ……天呐，████，写到这里我才反应过来，原来我知道他为什么拒绝宣传部，只是我很难相信真的有人会这样做。"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "101102",
+      "internal_title": "第十一章11-02.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "旧军靴"
+        },
+        {
+          "kind": "title_card",
+          "text": "战壕"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "士兵们费了许多努力，终于将尸体以较为安然的姿态摆放在一块相对干燥的活木板上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "这块用来运送尸体的木板由拆散的弹药箱拼接而成，曾经当过木匠的士兵为它钉上了轮子。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡戎",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "战壕中的收尸人宁静地伫立在尸体旁，空洞的呼吸在灰白斗篷之下起伏不止。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他俯下身，掰开死者身上的识别牌，收走了下半部分。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "弗兰兹·施莱耶。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "威利",
+          "text": "能找到的东西都在这里了，卡戎。你能把他带走吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡戎",
+          "text": "把他交给我，我会体面地为他安葬。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "罗尔夫",
+          "text": "他真是太倒霉了——我听说这个冬天就要停火了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "挥之不去的忧郁又从罗尔夫厚重的镜片之下流出来，如同眼泪。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "弗兰兹躺在木板上，对自己的运气不置可否。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "埃里希",
+          "text": "呵……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "另一个满面愤懑的士兵挤进来，往木板上放了一只没有穿靴子的腿。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "接着，他自顾自地把尸体另一条腿上的靴子也脱下来。此刻他手中拎着一双靴子。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "埃里希",
+          "text": "这下凑齐了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "威利",
+          "text": "埃里希，你拿走了他的腿？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "好心肠的威利为此惊骇不已。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "埃里希",
+          "text": "这是我自己爬出去找回来的。我认得他的靴子，他答应过，如果他死了，这靴子就归我。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "威利",
+          "text": "这真是……好吧，我记得是有这么回事。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他还想再说些什么，但又把话咽了回去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "士兵们凑在一起，在战壕的狭窄拐角处围成一个圈。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡戎",
+          "text": "可是……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "卡戎有些迟钝地开口，似乎刚才的小争执并没有被他听进耳朵里。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡戎",
+          "text": "……安德烈森在一次攻势中走失了，没有它的帮助，我很难把死者送到常去的墓地。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "埃里希",
+          "text": "哦，安德烈森——这么说你的小马不见了。它可能死了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "威利",
+          "text": "埃里希——闭嘴！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡戎",
+          "text": "我会试着在更接近防线的地方寻找一片宁静之地，但这会需要一些时间。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "威利",
+          "text": "那就这样吧，卡戎。现在天气不像夏天那样炎热，时间不算紧迫。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "连长威利安抚性地拍了拍这位负责处理尸体的士官。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "在不远处，营长艾伯哈特·布劳恩少校一直坐在一只空的冷却水桶上。\n他没有看向这方哀悼的现场，而是盯着面前的战壕胸墙。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他扔下一颗烟头，站起身。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "布劳恩少校",
+          "text": "卡戎，过来一下。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡戎",
+          "text": "是。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他响应长官的召唤。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "布劳恩少校",
+          "text": "蒙佩——还记得吗？就是我们身后不远的那个小镇子。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡戎",
+          "text": "夏天的时候，那座镇子就是前线，老营长在那场战斗中阵亡了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡戎",
+          "text": "当时你还是连长，在那场战斗中负伤，去了后方休养。\n而我用了很长时间才清理完堆积如山的遗骸。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "布劳恩少校",
+          "text": "该死的。但我们最终还是把敌人赶了出去，现在他们就缩在我们前面不到两百米的地方。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡戎",
+          "text": "为什么你会突然提到蒙佩？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "布劳恩少校",
+          "text": "总参谋部决定和基金会就停火展开谈判，会面的地点在蒙佩，希施费尔德上校会作为代表与基金会见面。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "布劳恩少校",
+          "text": "现在那个镇子成了基金会的地盘，他们把那里叫做“安全区”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡戎",
+          "text": "希望停火能在这个冬天之内实现。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "营长未对这个问题做出直接回应。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "布劳恩少校",
+          "text": "我们距离胜利只有一步之遥。和平当然会到来，但它只能建立在我军的完全胜利之上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "布劳恩少校",
+          "text": "东边的胜利已经让我们从困境中摆脱出来，人员、物资和装备正在向这里汇聚。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡戎",
+          "text": "但这些也不足以支撑我们继续一场庞大的战争，少校，胜利不会带来什么，我们已经失去了一切。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "布劳恩少校",
+          "text": "你不明白眼下的局势。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡戎",
+          "text": "你好像还在发烧——返回前线的路上，你有些过于亢奋，眼神中冒着火。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡戎",
+          "text": "这样的神情我只在第一次与你开赴前线时才看到过。四年前，那时我们和三班的同学一起结束了训练营的训练。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡戎",
+          "text": "……那时我们还不知道战争与死亡的真容。\n你需要休息。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "少校抿起本就纤薄的嘴唇，直到它成为一条刀刻般的细缝。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "布劳恩少校",
+          "text": "我需要你去一趟蒙佩。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "布劳恩少校",
+          "text": "穆伦贝格先生寄送了一些私人物品给我们，它们被堆积在安全区，而我没有时间去取。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "布劳恩少校",
+          "text": "我想，你也是他的学生，替我取来这个包裹最合适不过。\n还有，把你该收拾的那些尸体送走，不要让他们在战壕里腐烂。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "布劳恩少校",
+          "text": "没别的了……就这样吧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "少校转身离去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "“蒙佩，一座距离前线不算太远的城镇，四处可见的弹坑仍然在低诉着过往血腥的拉锯战。”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "“断壁颓垣构成了一座宁静的空壳，只有死者才能在其中寻求安息。”"
+        },
+        {
+          "kind": "title_card",
+          "text": "基金会安全区"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡戎",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "这座几乎被战火摧残殆尽的废弃城镇，已经很久没有迎来如此多的车辆和人员。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "挤占空间的并非只有军队，还有为数众多的灰白格子在刚刚清理出来的街道中穿梭。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "请问你需要帮助吗，先生？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡戎",
+          "text": "……？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他缓缓回过头，一名看似医务人员的年轻女人出现在近旁。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "金色的徽章表明了她基金会的身份，不过，更加醒目的是她套在外套之上的盔甲。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛尔纱",
+          "text": "你可以叫我玛尔纱，方便移除面部的遮挡物，让我核验你的身份吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡戎",
+          "text": "你好，玛尔纱女士。出于某些理由，我无法展示容貌，恳请你接受用其他方式核验我的身份。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他取出随身携带的记事本，从中取出夹在纸页中的一张证件。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡戎",
+          "text": "我是艾伯哈特·布劳恩少校的士官，这是我的身份证明。\n我代他来取走一个包裹，可是我不知道应该找谁。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "基金会职员接过士官的证件。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛尔纱",
+          "text": "这样也行。你的名字是保罗……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡戎",
+          "text": "如果你不介意的话，可以用卡戎称呼我，像其他人那样。至于我的名字……我想它并不真的属于我。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛尔纱",
+          "text": "我明白了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她把证明文件交还给士官，随后有些尴尬地捏了捏自己的掌心。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛尔纱",
+          "text": "这里确实有很多从后方邮寄来的包裹，应该也有给布劳恩少校的，不过……现在办收件手续可能会费一番周折。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛尔纱",
+          "text": "也许得等到希施费尔德上校与基金会的会谈结束之后，他们才能匀出人手处理文书工作。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡戎",
+          "text": "没关系，我可以等待。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "说完，他默然地站在原地。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛尔纱",
+          "text": "你——还好吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡戎",
+          "text": "……我很好。抱歉，我的反应力比以前要差很多了。我正在思考下一个问题。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡戎",
+          "text": "请问你是一名战地医生吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛尔纱",
+          "text": "算是吧。原本我应该待在医疗站里，但因为实在缺人，所以我就出来帮个忙。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡戎",
+          "text": "医疗站里死去的人是如何处理的？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "战地医生面色平静地思忖有关死者的问题。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛尔纱",
+          "text": "现在蒙佩的医疗站还没有死亡的病人，不过这确实是个问题。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛尔纱",
+          "text": "刚过来的时候，我在附近看到过一个可以用作墓地的小坡，如果真的出现无法救治的人……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡戎",
+          "text": "这正是我想要的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛尔纱",
+          "text": "……无法救治的人？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "慢一拍的回应导致了一些小误会。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡戎",
+          "text": "不，我是说墓地。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡戎",
+          "text": "我正在寻找一片足够安宁与平静的土地，用以安葬在前线死亡的士兵。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛尔纱",
+          "text": "你是为战友收尸的人吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡戎",
+          "text": "不仅是战友。只不过，作为一名挂靠在营里的士官，我穿着的衣服会限制我的行动。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡戎",
+          "text": "如果你愿意与我共享墓地，我可以为你充当守墓人，替基金会埋葬尸体，准备棺材与墓碑。很抱歉，这是我仅能提供的报酬。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛尔纱",
+          "text": "这样的话……好吧，我可以带你去。"
+        },
+        {
+          "kind": "title_card",
+          "text": "安全区外围森林"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "蒙佩郊外。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "密林掩藏了大多醒目的痕迹，与此同时，一些细微的动静则会被放大。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "士兵？",
+          "text": "——什么人？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "你迟到了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "士兵？",
+          "text": "……这片区域被基金会看得很死，我好不容易才溜进来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "士兵眯起眼，警惕地打量着眼前身穿灰蓝色制服的军人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "士兵？",
+          "text": "艾克特去哪儿了？他从来没有说过自己和一个女人一起行动。\n你的口令呢？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他举起枪，陌生人的轮廓被他框在照门之内。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "士兵？",
+          "text": "喂，说话！表明身份。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "面对枪口，受威胁的一方只是流露出一丝厌倦。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "我可以给你两个选择。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "士兵？",
+          "text": "你在说什么？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "回答问题，你的长官躲在哪里。或者……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她以肃穆到近似祈祷的姿态取下步枪——对方不禁为此呆愣一秒。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "——下地狱吧。"
+        }
+      ]
+    },
+    {
+      "script_id": "101103",
+      "internal_title": "第十一章11-02.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "最后一声枪响在浓密的树林间回荡，最终消失不见。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她蹲下，从倒地敌人身上取下一只地图包。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "在杂乱的图纸间，她找到了自己需要的纸条。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "基金会，谈判，希施费尔德……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "阅读完毕，她抬头望向东北方——在林木掩映之外，伫立着蒙佩的废墟。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "……今天。"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

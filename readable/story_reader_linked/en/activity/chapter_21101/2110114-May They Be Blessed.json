@@ -1,0 +1,478 @@
+{
+  "episode_id": 2110114,
+  "chapter_id": 21101,
+  "chapter_title": "Route 77: The Haunted Highway",
+  "display_label": "",
+  "title": "May They Be Blessed",
+  "subtitle": "Whether child or lamb, they still deserve deliverance.",
+  "trails": [
+    {
+      "element_id": 2110106,
+      "owner_episode_id": 2110114,
+      "trigger_episode_id": null,
+      "title": "20th Century Miracles",
+      "description": "Details a significant event of the late 20th century. Essential reading.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=2110114",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "Experiment Report"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Methods\n\nThrough the aid of voluntary donations, the research team extracted a nucleus from a female arcanist (Genetic Mother A) and an enucleated egg cell from a female human (Genetic Mother B). The nucleus was cultivated and processed to enhance its receptivity to new genetic instructions. After injecting the donor cell nucleus into the enucleated egg cell, an electric pulse was used to fuse the nucleus with the egg cytoplasm, initiating cell division and forming embryonic cells. During this process, the ratio of arcanist to human genetic material was adjusted to be nearly equal.\n\nIn Experiment No. 277, the embryo developed well, meeting the criteria for transplantation, and was implanted into the uterus of a Finn-Dorset ewe after formation.\n\nObservations\n\n0 Months Old\n\nThe subject was born through natural delivery, with 60.05% arcanist genetic material and 39.95% human genetic material, not achieving the expected complete balance, but still proving that the adult somatic cells of an arcanist can be programmed and adjusted through cloning technology.\n\nIn appearance, the subject exhibits characteristics of both Genetic Mothers A and B; simultaneously, for unknown reasons, its head is highly similar to that of a Finn-Dorset, but brain development has not been affected.\n\n2 Months Old\n\nThe subject's development is slower than that of contemporary human and arcanist infants. Mild symptoms of lung infection have been found.\n\n4 Months Old\n\nThe subject's development is slower than that of contemporary human and arcanist infants, but it showed significant responses to music and human language, with consistent reactions to specific sounds.\n\nThe cause of the lung infection was identified; the subject's lungs tested positive for the JSRV retrovirus, commonly found in sheep living indoors for extended periods. It was suggested that a veterinary team be brought in for consultation.\n\n6 Months Old\n\nThe subject's physical development is slower than that of contemporary human and arcanist infants, and may stop developing prematurely.\n\nSterile room staff reported that the subject began consciously mimicking communication behaviors, as expected. Educational classes and moral guidance videotapes were initiated.\n\nThe lung infection worsened, and the subject showed a strong allergic reaction to chemical fiber products.\n\n...\n\n10 Months Old\n\nThe subject can engage in rudimentary communication, exhibiting good brain development.\n\nMultiple tests have confirmed that American country music is effective in alleviating the subject's allergic reactions, the cause of which is yet to be determined.\n...\n\n22 Months Old\n\nThe subject performed excellently in communication and intelligence tests, possessing the intelligence level of a 7-year-old human child.\n\n23 Months Old\n\nBone tests indicated that the subject's physical development will cease completely by the age of 12."
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "202122",
+      "internal_title": "【2.1】77号往事-14",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The voice on the other end continues."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Barbara",
+          "text": "Wonderful, I can talk over the phone now. The wind must still be wandering nearby."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "That's good to hear."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Are you an editor for UTTU?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "There's a sigh of relief."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Barbara",
+          "text": "Yes, Miss, I am."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Barbara",
+          "text": "But before we continue our conversation, could you please tell me what year it is now?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "... 1990."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Barbara",
+          "text": "I see."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The frail voice steadies."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Ms. Barbara, can I meet you in person?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Barbara",
+          "text": "You want to meet me?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Yes, I'm Vertin, the Timekeeper of the St. Pavlov Foundation. I was sent to ask you about Urd's whereabouts."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "But you don't seem to be in a favorable situation right now."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Barbara",
+          "text": "Ms. Vertin, I couldn't possibly locate Urd's whereabouts. The whispers of the wind can't reach this room."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "The whispers of the wind?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Barbara",
+          "text": "Yes, it's a special form of communication."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Right. Well, is there anything I can do to help you rebuild this line of communication?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Barbara",
+          "text": "Hmm. Let me first explain the situation to you. Here are a few things I'm certain of:"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Barbara",
+          "text": "First, this isn't an ordinary motel. It possesses some kind of supernatural life force."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Barbara",
+          "text": "Before checking in, I interviewed some of the residents nearby. They all mentioned eerie rumors centered around the motel these past few months."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Yes, we've encountered some bizarre events here. Like real-life urban legends."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Barbara",
+          "text": "Second, I'm now trapped in a red room."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Barbara",
+          "text": "This room is in the same motel as yours. What's different is that it blocks all forms of communication."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Barbara",
+          "text": "I couldn't get the room to open, and my voice didn't reach through the phone."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Barbara",
+          "text": "That was until a gunshot broke this intangible restraint. This small room contracted violently, and now I can communicate with the outside world."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Barbara",
+          "text": "At first, I thought it was an earthquake, but the contracted space soon returned to normal. Earthquakes can't do that, can they?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Before this happened, were you using spiders to communicate with the world outside?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Barbara",
+          "text": "Yes, I was. As luck would have it, there are many spiders here. Thanks to the prevalence of spiders in urban legends, I assume."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "They can hear the sound of pages being turned from the other end of the telephone."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Barbara",
+          "text": "There's some paranoia about \"spiders living in hair.\" It originated in a sermon from 13th-century England."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Barbara",
+          "text": "A woman was always late to mass because she spent too much time styling her hair. Eventually, a devil attached itself to her hair in the form of a spider."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Barbara",
+          "text": "Yes, they delivered messages for me in their own peculiar way."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Barbara",
+          "text": "Being completely isolated from the outside world greatly unsettled me. It reminded me of that terrible phenomenon."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She takes a few light breaths."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Barbara",
+          "text": "Fortunately, that wasn't the case."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "But you're still trapped in that room, right?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Barbara",
+          "text": "Yes. The door's gone. I can't get out from the inside."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "How did you get in there in the first place? Or rather, who brought you into that room?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Barbara",
+          "text": "Well, who else could it be?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Barbara",
+          "text": "The maid named Tuesday."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Just as I expected."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Argus",
+          "text": "Wait."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The mercenary cuts in."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Barbara",
+          "text": "You're that driver who left me on the road, right? I remember your voice."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Argus",
+          "text": "Yeah, it's me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Argus",
+          "text": "I actually changed my mind and turned back to get you, but you were gone by the time I arrived."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Argus",
+          "text": "I guess that's when you came to this motel, right?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Barbara",
+          "text": "Yes, Tuesday saw me and invited me here."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Argus",
+          "text": "Oh."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Barbara",
+          "text": "Did you wanna ask me something?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Argus",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Argus",
+          "text": "Have you seen a girl of about 5 foot 3 here?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Argus",
+          "text": "In a white dress. Curly chestnut-colored hair. Green eyes. Small hands."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Barbara",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Barbara",
+          "text": "I may have seen her."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Barbara",
+          "text": "When I first arrived, I saw a girl who matched your description coming down the hallway."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Barbara",
+          "text": "She was carrying an empty basket. I presumed that she'd been shopping in the town nearby."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Barbara",
+          "text": "If I recall correctly, she didn't check out."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Argus",
+          "text": "Thank you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She slumps her shoulders, and the light in her eye dims."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She says no more."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "How can we find this room?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Barbara",
+          "text": "It's just in the hallway, number 707."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Barbara",
+          "text": "Look for a door covered in red—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "*beep—beep—beep*"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Argus",
+          "text": "Looks like the phone got disconnected."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "So Barbara's in that room that Stefen saw. Number 707."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "I'm going to find it. What about you? Heading into town for Kayla?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "After a brief silence, Argus speaks."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Argus",
+          "text": "I did notice a weird spot in the hallway earlier. The maid's footprints were going back and forth, like there was an entrance there."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Argus",
+          "text": "But I didn't see no signs of a door."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She scratches her head with the barrel of her gun."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "I wouldn't be surprised if you died by your own gun one day."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Argus",
+          "text": "Haha, that'd be a memorable way to go."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Argus",
+          "text": "Alright, enough kidding around."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She perks up."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Argus",
+          "text": "Our Little Miss Maid tried so very hard to hide Barbara from us, but I guess the lamb's out of the bag now."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Yes. It's all crystal clear now. Let's go."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Argus",
+          "text": "Hold up a sec, boss."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She bites her lip."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Argus",
+          "text": "Do you have any candies? I'm running on fumes here, and I ain't got no way to replenish my stash."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Asking for help seems very difficult for her."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She pulls a few pieces of candy from her pocket and places them in Argus's palm."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Us and Barbara will be out of here soon."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "And you'll find some candy and Kayla in town."
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

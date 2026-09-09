@@ -1,0 +1,25 @@
+# Event Stories · Notes on Shuòrì
+
+- [1610101 Safe Travel](1610101-Safe Travel.md) — Farewell, mother. Leave your resentments behind. This is as far as it goes; no need for goodbyes.
+- [1610102 Adagio](1610102-Adagio.md) — Raise your hand and settle this like civilized people.
+- [1610103 The Fairyland](1610103-The Fairyland.md) — This meadow is an anomaly in this environment, only possible during extreme temperature shifts. It could be caused by fungus or a mysterious creature passing through.
+- [1610104 Strange Horses](1610104-Strange Horses.md) — The walking man, the crouching animal. In the blink of an eye, in a fleeting moment.
+- [1610105 Language Barrier](1610105-Language Barrier.md) — A tower built of snow—how come no one has ever mentioned it before?
+- [1610106 The Yellow Sand Road](1610106-The Yellow Sand Road.md) — With burning feet and a chill in our throats, we navigate the same unknown.
+- [1610107 The Guests From Afar](1610107-The Guests From Afar.md) — May you, the esteemed guests, feel right at home.
+- [1610108 Questions and Answers](1610108-Questions and Answers.md) — Following a string of genuine exchanges, it becomes evident that honesty is essential.
+- [1610109 Chaos on Streets](1610109-Chaos on Streets.md) — Restrain the ch-, err, restrain ... what?
+- [1610110 Treat Them Right](1610110-Treat Them Right.md) — For your safety, do not accept invitations from strangers to visit their homes.
+- [1610111 Night Talk](1610111-Night Talk.md) — We all walk and talk. We all have hair and eyes. We are ... not so different from each other.
+- [1610112 Dancing Dolls](1610112-Dancing Dolls.md) — Down the first cup, then the second, and the third. Don't stop drinking!
+- [1610113 Gesheng](1610113-Gesheng.md) — After a thousand years, one finally returns to their rightful place.
+- [1610114 The Old Days](1610114-The Old Days.md) — People reminisce about the past, perhaps because they feel the present is getting worse.
+- [1610115 Hollow Eyed](1610115-Hollow Eyed.md) — Truth and reflection.
+- [1610116 See What I See](1610116-See What I See.md) — People trust their own judgment. It's no surprise.
+- [1610117 Jade or Stone](1610117-Jade or Stone.md) — What distinguishes a gem from a rock?
+- [1610118 New Year's Eve](1610118-New Year's Eve.md) — Happiness should always be the focus of a celebration, or at least it should be.
+- [1610119 A Wish Come True](1610119-A Wish Come True.md) — It is regrettable that such events occur in our time.
+- [1610120 Farewell to the Past](1610120-Farewell to the Past.md) — Clasp your hands, bow your head, and become a figure gazed upon.
+- [1610121 Another Way Out](1610121-Another Way Out.md) — Leap across the chasm and rediscover the lost unknown.
+- [1610122 Ask and Acquire](1610122-Ask and Acquire.md) — And so the river flowed.
+- [1610123 We Will Meet Again](1610123-We Will Meet Again.md) — Until we meet again, in another time, in another place.

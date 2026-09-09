@@ -1,0 +1,512 @@
+{
+  "episode_id": 2110106,
+  "chapter_id": 21101,
+  "chapter_title": "77号往事",
+  "display_label": "",
+  "title": "玻璃酒瓶",
+  "subtitle": "但别忘了，它也是混战中的好帮手。",
+  "trails": [
+    {
+      "element_id": 2110102,
+      "owner_episode_id": 2110106,
+      "trigger_episode_id": null,
+      "title": "定期报告",
+      "description": "每日有数千份公文穿行于总部，这一份只是数千分之一，当然。",
+      "action": "交互",
+      "unlock_condition": "EpisodeFinish=2110106",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "圣洛夫基金会报告"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "报告编号：XXXXXXXXXXXXX\n发件人：外派调查小组 组长 安德烈·西尔韦斯特\n收件人：圣洛夫基金会副主席办公室\n\n致副主席女士：\n    经由一个月的追踪，我同我的组员在美国南部发现了多名重塑之手间谍。至少3名间谍来往于达拉斯、奥斯汀和休斯顿之间，疑似在为“启明会”建立信息与物资获取渠道。另外数人活跃于77号公路沿线，由于其多使用假名与易容魔药，准确身份与人数尚未确定，但可以确认至少5个假身份。以上间谍的信息将附于报告后。\n    我认为，这些迹象进一步证实了我们的猜测，“启明会”正在有目的地筹备某种神秘学事项。\n    另外值得注意的是，线人情报表明，有一个被称为“淑女格蕾丝”的间谍在德克萨斯州活动（已知情报已随信附上）。是否要对此人进行进一步追踪，我们等待您的回复。\n\n    愿和平与我们同在。\n    \n                             外派调查小组 组长 安德烈·西尔韦斯特\n\n复信：\n致外派调查小组：\n    感谢你们为和平作出的辛勤劳动。上述情报已记录在案。\n    关于“淑女格蕾丝”，我已充分知悉。鉴于该间谍的意图未知，我建议不予干涉，放任其行动，以待后观。\n\n    愿和平与我们同在。\n\n                                    圣洛夫基金会副主席 康斯坦丁"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "202109",
+      "internal_title": "【2.1】77号往事-06.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "奇索斯镇·军备工厂"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "空无一人的工厂内，空气潮湿而冰冷。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "哈，希望你别是个空架子。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她沿着工厂晃了两圈，在收发室里看见了一个硕大的木箱，上面盖满了邮戳。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "狭长的木箱被钉子紧紧地钉着。\n她眯着眼睛，借着窗外的月光，看清了木箱上的字迹——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "红色38，莉莉娅。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "哈，老伙计！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她蹲下身，细细地检视着木箱。在伸手敲了敲木箱之后，飞行员拧起了眉毛。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "只有一层木板——这就是他们的保护措施？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "行吧，时间紧急，这笔账以后再和他们算……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她伸出双手，托住了木箱的两端。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "木箱岿然不动——是重力术式。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "……他们至少准备了一个需要特定口令才能解除的重力术式——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "细微的脚步声在身后响起。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "您也是在准备撤离吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "飞行员转过身，一个纤细的身影映入眼帘。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "来得好，你是这儿管事的人？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "挎着篮子的女孩打量了她一番之后，甜甜地笑了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "凯拉",
+          "text": "中尉，我当然不是管事的人，也不是什么可疑的人——我只是经过这儿而已，您可以叫我凯拉。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "凯拉",
+          "text": "我在外面听到了一些响动，还以为是那些不听管教的孩子又来这儿偷军火了……这些东西的价格可不便宜，总有小偷会打上它们的主意。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "偷军火的孩子？有意思，这儿看守的人呢？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "凯拉",
+          "text": "这位中尉，没有人告诉您吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "女孩略感惊讶地说道。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "凯拉",
+          "text": "早在一个月以前，这儿的军队就已经开始撤离了，他们没有留下多少士兵——连我都知道这些。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "撤离？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "眼前的状况与基金会告知的信息别无二致，飞行员察觉到了一丝危机的预兆。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "告诉我，哪里能找到那些留下的士兵？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "凯拉",
+          "text": "嗯……您是从镇子外面来的吧？在路上的时候，您是否有看到路边的酒吧？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "凯拉",
+          "text": "在闲暇的时候，那些芝诺的士兵最喜欢去那儿喝酒……您尽可以去看看，说不准他正在那儿呢？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "他长什么样子？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "凯拉",
+          "text": "噢，就像所有芝诺士兵那样，您保准一眼就能认出他。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她忽然停止了说话，上下打量着飞行员。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "凯拉",
+          "text": "但是我得告诉您……酒吧里的人并不欢迎外乡人——您听说过“启明会”吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "凯拉",
+          "text": "这是一个非常活跃的密教组织……前不久他们一直在镇子上宣教，而今天正是他们做祷告的日子。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "这和我有什么关系？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "凯拉",
+          "text": "当然与您有关系——因为他们做祷告的地方，正是镇子上的酒吧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "凯拉",
+          "text": "再多的，我就不知道了。总之，您如果要去那儿，一定要多加小心。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "哈……谢了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "飞行员转身离去，而白衣的少女依然立在原地，静静地望着她离去的背影。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "凯拉",
+          "text": "……愿“受苦者”保佑您。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "凯拉",
+          "text": "我们将奉行“受苦者”的意志，让那过去的荣光行于当下……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她低声地祷告着。\n于她合拢的双手之上，戒指漆黑的刻面正在闪闪发亮。"
+        },
+        {
+          "kind": "title_card",
+          "text": "奇索斯镇·酒吧"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "客人Ⅰ",
+          "text": "我们将奉行“受苦者”的意志，让那过去的荣光行于当下。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "客人Ⅱ",
+          "text": "我们将进献心灵中的一切，以信仰换取崇高的福祉。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "肃穆的氛围笼罩着那座小小的酒吧，灯光昏黄地亮着。聚集的人们或披黑袍，或着常服。他们彼此依靠，如兄弟之于兄弟，姊妹之于姊妹。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "为首的一人高举着手中的玻璃酒杯，对着在座的所有人遥相致意。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "酒吧老板",
+          "text": "愿“受苦者”保佑诸位。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "酒吧老板",
+          "text": "祂的恩典必将使我们福杯满溢。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "酒吧老板",
+          "text": "敬颂“受苦者”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "众",
+          "text": "敬颂“受苦者”！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "酒吧的大门被猛然推开了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "客人Ⅰ",
+          "text": "一个外乡人？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "年轻的飞行员望着眼前的一切。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "……真热闹。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她径自走向吧台，酒墙上各色的玻璃酒瓶正闪烁着光泽。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "纳帕河谷葡萄酒、加州红酒、肯塔基的威士忌……哈，好货不少。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "来一杯伏特加纯饮，我要你这儿最好的牌子。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "酒吧老板",
+          "text": "现在不是开业的时间，斯拉夫人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "咔哒。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "这声音她再熟悉不过——有一把枪，正在数英寸之远的地方上了膛。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "嘿，我只是想买酒——这就是你们对待客人的方式吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "酒吧老板",
+          "text": "我说了，没有。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "开酒吧的没有伏特加？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "那来一杯威士忌吧，我不挑。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "酒吧老板",
+          "text": "——没有。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "这也没有？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她望向了酒墙上琳琅满目的威士忌。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "那我知道芝诺为什么要撤离了——那帮家伙嗜酒如命，他们可没有办法在这儿待下去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "酒吧老板",
+          "text": "芝诺的中尉为什么要来这儿喝酒？你们的工厂仓库里没有酒精燃料了吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "客人们发出一阵哄笑。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "哈，我可不知道当地有喝酒精燃料的习俗。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "——说真的，我很好奇，那个“受苦者”到底给了你们多少好处？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "让固执的德克萨斯人改变信仰，这不是一件简单的事。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她敏锐地转身，一颗子弹擦过了她的发丝。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "这就忍不住了？"
+        }
+      ]
+    },
+    {
+      "script_id": "202110",
+      "internal_title": "【2.1】77号往事-06.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "玻璃酒瓶碎了一地，晶亮的酒液浸透了地板。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "酒吧老板",
+          "text": "呼……呼……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "我没有兴趣掺和多余的事。你只要告诉我，那个芝诺的士兵去哪儿了？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "飞行员望着趴伏在酒柜上的老板。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "酒吧老板",
+          "text": "芝诺士兵……？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "男人勉力睁大了肿胀的眼睛。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "别装傻。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "酒吧老板",
+          "text": "噢……那个士兵，他是一个十足的蠢货。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "酒吧老板",
+          "text": "芝诺已经完全地抛弃他了，他却总觉得是芝诺赏识他，才委派给他看守工厂的任务……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "酒吧老板",
+          "text": "这就是你们芝诺的作风。既然已经决定抛弃他，为什么现在又要寻找他？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "……听着，我知道你们看不惯芝诺。但这和我没关系。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "我来这儿只是为了拿回我的东西。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "酒吧老板",
+          "text": "呼……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他虚弱地喘了一口气。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "酒吧老板",
+          "text": "如果你执意要找他，那他也许在镇子的远郊喝酒。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "哈，谢了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "飞行员踩着夜色，离开了这间沉寂的酒吧。"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

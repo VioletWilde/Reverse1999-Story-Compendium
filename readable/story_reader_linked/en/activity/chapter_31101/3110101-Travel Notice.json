@@ -1,0 +1,1018 @@
+{
+  "episode_id": 3110101,
+  "chapter_id": 31101,
+  "chapter_title": "The Midnight Whistle",
+  "display_label": "",
+  "title": "Travel Notice",
+  "subtitle": "The train will leave as scheduled, weather permitting.\nPlease have your ticket ready for boarding.",
+  "trails": [
+    {
+      "element_id": 3110101,
+      "owner_episode_id": 3110101,
+      "trigger_episode_id": null,
+      "title": "Top-Secret Mission",
+      "description": "What's not written in the Field Mission Manual is the real norm.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=3110101",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "St. Pavlov Foundation External Field Report: The \"Danube Dawn\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Mission Number: XXX-1912-XX-13\nLocation: The \"Danube Dawn\"\nSecurity Level: Top Secret\n\nIntelligence Summary:\n\nKey Report 1: Multiple investigation records indicate that during the past three operation cycles (exact dates in encrypted attachment), abnormal arcanum energy traces were consistently detected inside the \"Danube Dawn,\" the international train running between Istanbul and Vienna. These energy patterns closely match the activity signature of a known Beyond entity—the vampire (see encrypted attachment for detailed characteristics).\nKey Report 2: Meanwhile, a series of unexplained deaths and disappearances have occurred along the train's route.\nPreliminary examinations show that the victims suffered blunt-force trauma and displayed tissue mutations of unidentified form, differing from the pattern of known vampire \"Infected.\" The upper division suspects direct contact with a new strain of vampire. Threat level has been classified as severe.\n\nAll evidence suggests the presence of an anomalous vampire aboard the \"Danube Dawn\"—either active on a periodic cycle or as a vampire \"Infected\" with atypical traits.\nSquad members are to prioritize personal safety during the operation.\n\nMission Objectives:\n\nBased on prior performance, Level Four Investigator Semmelweis is hereby assigned to the \"Danube Dawn\" investigation team. Objectives include:\n1. Board the \"Danube Dawn,\" confirm the authenticity and number of vampire entities, observe their activity pattern, and assess passenger threat level.\n2. Investigate whether vampire activity correlates with newly observed vampire \"Infected\" incidents along the train's route. Record any newly discovered strains, their traits, and behavioral patterns.\n3. Collect direct evidence of collaboration between \"Manus Vindictae\" and the vampire.\n\nInvestigator Semmelweis is to rendezvous with four members of the Istros Operation Squad 77 after the \"Danube Dawn\" docks at Platform 3, Station G, 6:20 PM local time, November 30, 1912. They will supply all mission-critical resources and equipment.\n\nSt. Pavlov Foundation\n\nNovember 2, 1912"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "203101",
+      "internal_title": "【3.1】长夜鸣笛01.1",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "This is no ordinary train."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "From Istanbul to Vienna, each land it passes through still carries the echoes of gunshots and explosions."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Before the war, it was a symbol of luxury. \nNow it is an ark, a way to outrun death, and everyone is scrambling for a ticket."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "They have no idea that when night falls and the train stops, death comes aboard too."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "On one such night, a group of passengers awoke to the sound of crying. They followed it. \nThen the crying turned to bawling, and the bawling to wailing, until they reached it—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A door that wasn't there before. And there, in a carriage that never was, in that place that shouldn't even have existed, \nblood-red eyes blinked in the darkness."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Before they could utter a scream, they were pulled into the darkness, \ndoomed to join the wailing of the dead and dying in their accursed chorus."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "As the night fell and the last slivers of light gave in to the darkness, their cries faded ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "And the blood of those sorry passengers trickled, sweet and warm, into the throats of the red-eyed monsters."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Only when that last drop had been swallowed up did the conductress appear. Walking amidst the shredded flesh, \ncounting off each passenger the way a butler might inspect a mess left behind from his master's feast."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "\"... 231, 232. The ceremony is complete, and this journey has come to an end.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "\"We hope you had a pleasant trip, and we look forward to seeing you again aboard ...\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "\"The 'Danube Dawn'!\""
+        },
+        {
+          "kind": "title_card",
+          "text": "Train Station"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Hatted Boy",
+          "text": "The \"Danube Dawn\" ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The boy mutters the words one last time, then closes his notebook and hands it back to the woman beside him."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Hatted Boy",
+          "text": "Ha! I haven't been able to read a vampire story since the war started. Thank you, kindly ma'am!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "It's just one of many stories in my collection. I suppose it's interesting enough, then?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Hatted Boy",
+          "text": "You suppose?! It's amazing! And the next train coming into the station is called the \"Danube Dawn\" too, you know!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Hatted Boy",
+          "text": "Hah. So it's the same train, isn't it? The vampires' secret base!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Ha, the folly of youth. Not yet able to discern fiction from reality."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Hatted Boy",
+          "text": "Well, it's not like these stories just spring up out of nowhere. I've heard all kinds of them that really happened. At least, I think so. What do you think, ma'am?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He blinks his shadowed eyes at the woman, then lowers the brim of his hat."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "What I think is of little matter. I simply write what I see, and I see an intriguing story in you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "May I have your name?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "Rubuska! My name's Rubuska. Pleasure to meet you, ma'am!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Rubuska ... An interesting name. I'll be sure to make a record of it. As I said, I'm a collector of stories, and you may just have something worth adding to my collection."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She opens her notebook, her shining pen tracing a line across the page."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "I'd love to, ma'am! But you're about to board the train, aren't you? I'm only here for a visit, so it's pretty much impossible I'll ever see you again."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "I wouldn't be so sure."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She spins the pen idly between her fingers and looks up."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Many a great tale started with the \"impossible.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Passenger I",
+          "text": "Vampires on a train, eh? Hahahaha, that old tale."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The comment drifts lazily out from another passenger. It seems the tale has a few more listeners than expected."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "Old tale? You've heard the story before, sir?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Passenger I",
+          "text": "No, no, not precisely, but many like it. Vampires, werewolves, wild beasts, and monsters."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Passenger I",
+          "text": "It's always the same story about the powerful consuming the common folk. Heh, storytellers have always been good at making their points one way or another."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "Uhh, that doesn't seem like the same thing to me. What do you think, ma'am?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Rubuska turns to look, but the woman who told the story has vanished."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Passenger I",
+          "text": "Hahahahaha! You're young. You'll grow out of these tall tales soon enough."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "You really don't think vampires are real?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Passenger I",
+          "text": "Ah, I'm much too old to believe in that kind of rubbish. I don't see why it's necessary to even put vampires in that one anyway."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The old man exhales a long ring of smoke. He bends down, rubbing the raw seam where his prosthetic meets his severed leg."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "Of course it's necessary."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The boy nods gravely, turning toward the direction of the oncoming train."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "Think about it—the story's about death, right? And vampires kill, sure, but they also give eternal life."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "So, say one of the passengers is killed. The vampire can just bite them on the neck, and just like that, they're alive again! Take out the vampires, and now death is a one-way trip—the end of the line!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "It's way more exciting to have some twists and turns. I mean, where's the fun in a story you can predict from the very beginning?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Passenger I",
+          "text": "Ah. You're in for a disappointment looking at things like that. The world is filled with predictable endings, usually predictably tragic."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The old man, a half-burned cigarette between his fingers, gestures toward a corner of the station,"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "where a mass of figures huddle together, clothes worn, cheeks red with frost."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Silent and stubborn, they've fixed their gaze on the frozen tracks ahead of them."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Passenger I",
+          "text": "Just look at those poor folk over there. They've been waiting here for days."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Passenger I",
+          "text": "How do you think their story will end? Do you think they have tickets in their pockets? Hmph, of course not. But they're hungry and afraid to face the gunfire, so they come here to try their luck."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Passenger I",
+          "text": "*sigh* But miracles are few and far between in this world."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The boy pats his empty stomach, chewing on the meaning behind the old man's words."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "Try their luck? What sort of luck are you talking about exactly?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Passenger I",
+          "text": "I'm sure you're well aware already."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "His weathered eyes gaze out over the station, as if awaiting a drama soon to unfold."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "Hah, ah, you're confusing me, sir. Weren't we just talking about stories?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The boy bends to brush the dust from his knees. As he does, the crowd begins to move."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "At that moment, the station bell tolls, and a voice rings out over the din."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Station Staff",
+          "text": "The next train will arrive in twenty minutes. Please line up, taking care to bring all your belongings, and prepare your tickets for inspection."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Civilian I",
+          "text": "It's coming—The \"Danube Dawn.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Civilian II",
+          "text": "This is my chance."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The crowd rises and surges toward the boarding gate."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "Well, I better get going now. I mean, my train is here. God bless you, sir! Whichever god that is!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He waves to the old man before slipping into the crowd like a drop falling into the sea."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "No one notices his movement; all they care about are tickets, loved ones far away, and the train about to arrive,"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "along with a troublesome mission."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "November 30th, 1912, the \"Danube Dawn\" is arriving at ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "Vampires ... Infection ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "Manus Vindictae ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The investigator lingers on the name."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "Didn't expect I'd be dealing with Manus Vindictae for my first field mission after the 5th \"Storm.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "According to current intelligence, the vampire working with the Manus is set to board this train."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "I was hoping I'd be able to finish this job with my new teammates. Get this done quickly."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "It looks like this won't be so easy."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She sighs and draws a communicator from her coat pocket."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "Istros Operation Squad 77; rendezvous: train station; time: 18:20 hours ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "Still no answer. I never realized the \"Storm\" could affect people's punctuality, too."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "Fine, if the train arrives and they're still not here, then—Hm?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "More and more people stream into the station. The platform heaves with bodies, far beyond the capacity of a single train."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Passenger III",
+          "text": "Don't push, damn it! Do you even have a ticket?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Passenger IV",
+          "text": "For crying out loud, the train isn't even here yet!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Complaints rise, anxiety spreads. The fragile order of the station collapses."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A scream pierces out above the din."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arrogant Passenger",
+          "text": "No, my ticket!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Station Staff",
+          "text": "Sir, please give that ticket back to that lady."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Maniacal Civilian",
+          "text": "What are you talking about? This is my ticket!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arrogant Passenger",
+          "text": "Your ticket? You just snatched it from my hand! Everyone just saw it!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The man remains unaffected by her scolding."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Station Staff",
+          "text": "Sir, there will be other trains. Everyone will have the chance to leave. I need you to calm down, understand?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Station Staff",
+          "text": "Our tickets have been specially processed to prevent misuse, so you won't be able to use that ticket."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Maniacal Civilian",
+          "text": "Other trains? Hey, everyone! Listen to me! I have firsthand information that this is the last train out of here! It's now or never! No one's leaving here after tonight!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Station Staff",
+          "text": "Sir ... SIR!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Shouts and children's cries intertwine with whistles and pops of steam, drowning out all persuasion."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Maniacal Civilian",
+          "text": "You don't know what it's like out there. We could all be dead by tomorrow!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arrogant Passenger",
+          "text": "Oh, enough of your blithering excuses! Give me my ticket back now! You can save your heroic speech for—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arrogant Passenger",
+          "text": "AHH!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Before she finishes, he yanks her toward him."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Passengers with tickets scream. The ticketless stand silent, numb eyes locked on him."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Station Staff",
+          "text": "Sir! Please, drop the weapon."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Maniacal Civilian",
+          "text": "Let me in. I'll shoot her. I'll shoot you. I'll shoot everyone!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He clamps her throat and backs away, dragging her from the yellow lamplight into the shadow behind."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Maniacal Civilian",
+          "text": "You really think I'm just going to be a good little sheep and go back home to wait for a bomb to fall on my head?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A hollow laugh escapes him, blood rising in his eyes."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Maniacal Civilian",
+          "text": "No, no, no. If I don't get to make it out of here, then no one else will."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A gunshot splits the air. Silence falls over the crowd."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Platform Guard",
+          "text": "Hold it, you bastard! Get your hands off that lady!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Guards rush forward, training their rifles on the troublemaker."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Platform Guard",
+          "text": "Don't make us end this the hard way."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Maniacal Civilian",
+          "text": "Heh ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Maniacal Civilian",
+          "text": "He sneers at the dark muzzles."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Maniacal Civilian",
+          "text": "Aren't you soldiers busy enough killing each other? You have to come and start roughing us up too?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "His pupils shrink. His finger tightens on the trigger."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Maniacal Civilian",
+          "text": "Alright, then try me. Let's see who can pull the trigger first?"
+        }
+      ]
+    },
+    {
+      "script_id": "203102",
+      "internal_title": "【3.1】长夜鸣笛01.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "In the chaos, the shaken \"hostage\" is pulled back by the platform guards."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Platform Guard",
+          "text": "Are you alright, ma'am?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arrogant Passenger",
+          "text": "I'm fine, but my ticket ... He still has my ticket!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She points toward the culprit ahead, who now charges like a mad bull."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Maniacal Civilian",
+          "text": "Out of my way!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He finally shakes off the guards and bolts toward the misty tracks."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Maniacal Civilian",
+          "text": "Budapest! That's the only safe place."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Maniacal Civilian",
+          "text": "Ah!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The world tilts."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The ground gives way beneath him. He slips from the platform."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arrogant Passenger",
+          "text": "Good Lord!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Station Staff",
+          "text": "Sir, take my hand. The train's coming."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Cries, screams, and whistles rise in chorus, nearly drowning the train's steam whistle in the distance."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Maniacal Civilian",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The man stands dazed in the center of the tracks. His legs are bent at obtuse angles, broken and bleeding."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "But he smiles."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A thick black column of smoke cuts into the dusky sky, rising along with a loud whistle."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Civilian I",
+          "text": "It's the train. It's the \"Danube Dawn\"!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Year after year, the shadow of war clings to this land, relentless, unshakable."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "But still, the \"Danube Dawn\" makes its journey, like a dutiful soldier marching alone through rain, sleet, and storm."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She arrives bearing hope for freedom and for life."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Maniacal Civilian",
+          "text": "The \"Danube Dawn\" ... Budapest ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "At last, he remembers what he must do and stumbles toward the engine."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Station Staff",
+          "text": "No, sir! No—!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Maniacal Civilian",
+          "text": "I made it. Mother, Father, Malina ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The train exhales smoke as it nears, headlights spilling dim yellow circles into the twilight."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The man limps forward along the tracks."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Maniacal Civilian",
+          "text": "Here's my ticket. Let me in. Let me in!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He cries out, waving the thin ticket in the air."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He waves it like a protective charm, like the key to life were in his hand."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Maniacal Civilian",
+          "text": "I have a ticket—!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The train thunders as it grinds to a stop—too late. Momentum and weight carried on iron wheels pulverize his flesh,"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "crushing rage, madness, and fear—everything—into the cold steel."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The bloodstained ticket slips from his fingers, carried up and far away."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The train door opens, and a stewardess with an eyepatch rushes out in a panic."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Train Stewardess",
+          "text": "Oh my ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Train Stewardess",
+          "text": "Everyone, please remain calm. We need to inspect the scene."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Civilian I",
+          "text": "Please let me in, miss! For the love of all that's good, don't let us die out here."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Civilian II",
+          "text": "This is the last train, isn't it? Please, you have to help us."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The crowd surges forward toward the opening doors. The gore and horror that only just occurred is forgotten in their desperation."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A roiling mass of faces filled with stark fear and determination and bodies jostling for position."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Meanwhile, the ticket drifts unseen, landing silently before another."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "...?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Yet as Semmelweis reaches out to it, she's met by a shadowy apparition."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Before she can react, the shadow and the ticket are gone, vanishing into thin air."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "A shadow?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "It could be some kind of arcane skill."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The investigator scans the crowd in silence, searching for the source of this \"shadow.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Solemn Lady",
+          "text": "Annabelle, William, come along. We wouldn't want to get lost now, would we?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Girl",
+          "text": "Wait for me, Ms. Dorothy."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Not here."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Convivial Gentleman",
+          "text": "A Class 10 steam engine! When this beauty gets goin', it'll run faster 'n the wind blows over the Alps!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Convivial Gentleman",
+          "text": "Has a compound engine, you understand? Steam's got to go through two stages 'fore it gets pumped out the top."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Not here, either."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Finding no further clues, her pressing mission returns to the forefront of her mind. She picks up her suitcase and joins the madly churning queue."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "Crowd's starting to rush—not safe to stand around."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "Excuse me, coming through."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "In the brief moment they pass each other, the investigator spots the bloodstained ticket clenched in the boy's hand."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "Please, wait."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He seems not to hear her call, hurrying on as if rushing to board, quickening his pace."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The investigator attempts to stop him, but the boy ducks; her reaching fingers brush across the top of the dark felt hat."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "...?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "Hey, my hat!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The felt hat falls away, revealing a girl's face."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her hair spills free, drifting in the wind."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Pale skin, red eyes, and fangs—she's the spitting image of a vampire."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "Red eyes ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The girl bows her head, cutting off the investigator's sight."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "Tsk. You're kidding."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "I only got that hat three days ago."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Seizing the pause, she leaps into the throng."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "In an instant, like a dragonfly into reeds, she disappears into the crowd."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The investigator steps forward to grab her sole piece of evidence—a hat, plain and unremarkable."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "A vampire disguised as a normal person. Though far from perfectly. They could add her picture to the Big Book of Vampire Faces back at headquarters."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "If nothing else, it tells her the girl values a clean getaway over her disguise."
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

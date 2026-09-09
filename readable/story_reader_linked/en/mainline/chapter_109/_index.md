@@ -1,0 +1,22 @@
+# Main Story · Folie et Déraison
+
+- [10901 Prologue](10901-Prologue.md) — Our story begins on the evening of March 22, 1991.
+- [10902 More than Circles](10902-More than Circles.md) — A ring that closes on itself? That is far from enough to define the essence of "fate."
+- [10903 The Place That Time Forgot](10903-The Place That Time Forgot.md) — Excellent, everything is going according to plan. "Fate" will not reveal its hand—at least, for now.
+- [10904 Comala's Callers](10904-Comala's Callers.md) — For a drifter, a stay behind an iron-barred window can feel like just another stretch of desert.
+- [10905 A Latin American Fable](10905-A Latin American Fable.md) — A salute to a literary society born within a prison—no, a tribute to an impossible miracle.
+- [10906 Shadows of the Living](10906-Shadows of the Living.md) — Metallic sheen, rippling water, and shadows that peer back from within the dim reflection.
+- [10907 Passion and Delirium](10907-Passion and Delirium.md) — Open your eyes to see the night. Close them to see the light.
+- [10908 The Spider's Web](10908-The Spider's Web.md) — Open it, reread it. Witness firsthand the events that transpired within the desert.
+- [10909 The Central Tower](10909-The Central Tower.md) — A silent and merciless order of ideals.
+- [10910 The Ant Mill](10910-The Ant Mill.md) — The truth is, no one can truly bend "fate."
+- [10911 Soothsayer, Worldmaker](10911-Soothsayer, Worldmaker.md) — The goddess delights in toying with the piety of her believers.
+- [10912 Behind the Operating Curtain](10912-Behind the Operating Curtain.md) — What disrupted this era? What unraveled time? The shadow lurking in the ruins answers: madness.
+- [10913 Master of the Labyrinth](10913-Master of the Labyrinth.md) — Within the corpse of the labyrinth's builder, he proclaims: it is and has always been perfect.
+- [10914 The Mask in the Mirror](10914-The Mask in the Mirror.md) — Between two mirrors hangs a single object. One face, two faces ... cascading into the infinite.
+- [10915 Aleph](10915-Aleph.md) — The mournful, the grotesque, the sum of self and self.
+- [10916 The Boundary of Fiction](10916-The Boundary of Fiction.md) — She does not hesitate.
+- [10917 Ghosts of the Past](10917-Ghosts of the Past.md) — Beneath the earth, those who were never granted marble nor memorials call out her name.
+- [10918 In Praise of Folly](10918-In Praise of Folly.md) — A tiny boat adrift upon a sea of ideals, convinced it has hoisted its sail.
+- [10919 Aspects of Madness](10919-Aspects of Madness.md) — Dreams are the first and last dance partner of madness.
+- [10920 In the Place of My Ashes](10920-In the Place of My Ashes.md) — As day breaks, the story ends where the ashes rest. In the end, the night is not eternal.

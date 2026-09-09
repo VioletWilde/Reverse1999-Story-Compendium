@@ -1,0 +1,1008 @@
+{
+  "episode_id": 10706,
+  "chapter_id": 107,
+  "chapter_title": "Vereinsamt",
+  "display_label": "",
+  "title": "Pride and Prejudice",
+  "subtitle": "A chaotic duo found in chaotic minds.",
+  "trails": [
+    {
+      "element_id": 1070601,
+      "owner_episode_id": 10706,
+      "trigger_episode_id": null,
+      "title": "Fire Safety",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=706",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Be ever so careful, dear. The fiery thirst for knowledge is blazing bright within you; be careful not to put it out."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Once, many fire thieves sat here, sipping coffee, as they tried to decipher the best angle to hold up their reeds to jam the burning wheel of Helios and steal his flame."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "The gods are selfish. They're stingy with their might."
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "Shouldn't the gods be more generous?",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "That's easy to say when the power's not yours to give. Knowing how to share is a rare virtue. Knowing how to share knowledge is a rarer virtue still."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "\"How can we transfer our wisdom into mortal minds?\" The gods pondered."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Can inspiration be duplicated from one brain to another? It comes and goes like a gust of wind, so what can be done?"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "True. I'm sure the early customers of the bakery share the same philosophy."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "The line must be respected, however hungry the latecomers may be."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "There are many fire thieves in the field of science—many more than the bread buyers in the bakery. Take a look at these geeks in uniforms made of aerospace materials."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Among them are arcanists in love with science who spend most of their time studying diodes and machines, and humans who are passionate about the future, always finding new inspirations ..."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Elements, lightning, atoms ... Perhaps you've forgotten their counterparts in arcanum, but you must be familiar with them as scientific discoveries."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "These discoveries are the milestones of progress, sweetheart. The fire thieves firmly believed that they would be able to bring about many more technical revolutions: the fourth, the fifth, the 65535th ..."
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "Sounds like a twist to the story is coming.",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "Not yet, darling. We've only finished the prologue. However, there is a \"but\" waiting down the road."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "A sudden rain dampened people's enthusiasm for the future. The floppy disks and many clever minds perished in it."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "Some of the fire thieves grieved the loss. They screamed and swore to retrieve what was lost."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "What about the rest of them?"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "They returned to primitive chaos, like coelacanths crawling back into the ocean after thousands of years of evolution. Once again, they became the proteges of arcanum."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "Perhaps they made the right choice by leaving that useless science behind. Who knows?"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "The story of the fire thieves has only gone this far, darling. At this point, no one knows what will happen to Prometheus or what's inside Pandora's box."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "Some will receive it. First come, first served.",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1070602,
+      "owner_episode_id": 10706,
+      "trigger_episode_id": null,
+      "title": "Equipment Failure Repair Record",
+      "description": "A nifty little fellow, the crystallization of tangible wisdom.",
+      "action": "",
+      "unlock_condition": "ChapterMapElement=1070601",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "Equipment Failure Repair Record"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Conway Automaton V, also known as LifeGame V. It is the most popular mind expansion tool in Laplace, capable of simulating cell life and death calculations within a maximum of 2^16 pixels with predefined rules, and supporting modular assembly and custom interfaces, among other features. It has been proven to maintain the mental agility of researchers and can simulate most current popular games.\n\n    Almost all Conway Automatons were lost in the \"Storm\" or scrapped to make room for important instruments—this is the last remaining one in the Scientific Computing Center. Although the Conway Automaton V cannot play a practical role in password decryption, to ensure the enthusiasm of the decryption team's work, an urgent repair request is hereby made.\n\n    If the repairs cannot be completed in a short period of time, it is hoped that a substitute can be allowed during the repair period, such as the latest handheld console, the Game Dude Color."
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100707",
+      "internal_title": "第七章7-6.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "Pride and Prejudice"
+        },
+        {
+          "kind": "title_card",
+          "text": "Office of Director, Laplace"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "An unknown incantation."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A mask that has proven to be extremely dangerous."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "These are the only leads they currently have on the \"Storm.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lucy",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her metallic fingers pick up another stack of files."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "These are the test results of the Manus mask, confirming the presence of asymmetrical nuclide R."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The robot studies them carefully. The slit on her face pulses in contemplation."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lucy",
+          "text": "What is the status of the sampling, Simone? Any updates from the Timekeeper?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Assistant Simone",
+          "text": "For the moment, no. The people on the island are still suspicious of the Foundation's motives, so she hasn't had a second chance to collect any samples."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Assistant Simone",
+          "text": "But she has called in an hour ago. We were informed that she will return to the cave shortly."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Assistant Simone",
+          "text": "She also warned us that the immunity zone on the island appears to be shrinking. The safe zone is not stable."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lucy",
+          "text": "Hm."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The robot did not put on a face today. Simone can only read her mood from the narrow slit."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Assistant Simone",
+          "text": "Ma'am, have you noticed something?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lucy",
+          "text": "They are unrelated, Simone."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lucy",
+          "text": "The mask and the incantation are indeed related to Manus Vindictae, but they are unrelated to each other."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She moves the sealed Manus mask aside."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lucy",
+          "text": "If the account of the Vienna investigator is correct, one cannot help but question:"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lucy",
+          "text": "Why would Arcana not simply give the masks to Isolde and her brother?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Assistant Simone",
+          "text": "Investigator Marcus's report was highly lacking, making it challenging for us to infer what truly happened."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lucy",
+          "text": "I suppose we can be skeptical that the report is incomplete. But it is all we have for now."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lucy",
+          "text": "She did a good job. I could not have asked for more."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lucy",
+          "text": "We all heard it. \"An ancient miracle, a circle of salvation.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The robot extends her hand, drawing an imaginary circle in the air."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lucy",
+          "text": "The leader of Manus Vindictae promised a miracle, but the mask is far from it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lucy",
+          "text": "The mask is a tool of control, designed to identify and enslave the believers. Matthew has demonstrated its effects for us."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lucy",
+          "text": "But this ritual is different."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Assistant Simone",
+          "text": "Do you mean the ritual is more sophisticated than the mask?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The robot nods approvingly."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lucy",
+          "text": "Perhaps, but it is not entirely definitive."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lucy",
+          "text": "The investigators in Vienna completed their mission spectacularly, and now Matthew has proven that the mask is useless for our purposes. Its immunity was only a cover for its other functions."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lucy",
+          "text": "And the mask has powerful and irreversible side effects. Even if we find out how it protects the wearer from the \"Storm,\" we cannot use it on our colleagues."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She picks up the scrip."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lucy",
+          "text": "If this incantation is verified to be true,"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lucy",
+          "text": "it will be our Promethean fire."
+        },
+        {
+          "kind": "title_card",
+          "text": "Cryptography Team's Office"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "This ritual is useless to us."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "Save yourself the trouble. We're not getting anywhere with this."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Cryptography Lead",
+          "text": "What?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The room is cluttered with all sorts of sophisticated equipment."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The floor is littered with scrap paper. The researchers haven't lifted their heads or taken a break for quite some time."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The cryptography lead stares at Enigma, a fresh cup of coffee in his hand. His patience is wearing thin as the metaphorical string labeled \"tolerance\" in his mind is finally about to snap."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Cryptography Lead",
+          "text": "Explain yourself, Adler. What do you mean the ritual is useless?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Cryptography Lead",
+          "text": "You barely sat down! My coffee's still hot!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The cryptographer solemnly hands the lead a stack of papers from his desk."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "I don't need to waste any more time. It's simple logic."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "The current information is insufficient for cryptographic decryption. We're attempting an exhaustive brute force, comparing every ancient text and record to find the language or corresponding text. It's like looking for a needle in a colossal haystack."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "Even if we stumble onto a match, none of us can validate such a thing. A breakthrough in this regard is simply not possible—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Researcher II",
+          "text": "You can't be serious."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Across the room, a man stands up abruptly from his chair, clenching a pen in his hand."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Researcher II",
+          "text": "And what is the basis of your reasoning? Have you figured out the mechanics behind the ritual?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "I didn't need to understand the intricacies of arcanum to deduce this. It was simple log- ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Researcher II",
+          "text": "So you never even tried to understand it. With your supposedly superior human reasoning, you dismissed all of our dedication and hard work, just like that."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Researcher II",
+          "text": "Who the f*** do you think you are!?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Before anyone can react, the researcher lunges at Enigma and punches him right in the face."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "Wh—?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Enigma brings a hand up to his cheek, looking more confused than angry."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Researcher II",
+          "text": "Matthew was right. You arrogant fools, clueless morons!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Researcher II",
+          "text": "Get out of my face, you humanocentric narcissist. Go to hell!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The researcher snarls, brandishing his pen like a soldier brandishing a dagger."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Much to his frustration, his swing loses power mid-air—another casualty of the neck and shoulder pain that plagues this office."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Enigma narrowly avoids the attack, bewildered by the turn of events."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "Was this really necessary? I was just sharing my conclusion."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Cryptography Lead",
+          "text": "Ugh, it was the mask! I should've thought of that. He worked in the same lab as Matthew, and he must've been exposed to the mask."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "But his physical exam seemed fine. Is there an incubation period!?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Cryptography Lead",
+          "text": "Does he seem fine to you now? Huh?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Cryptography Lead",
+          "text": "No, Williams, put that down! That's the only Conway Automaton V left after the \"Storm\"!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He is met with a guttural growl, followed by the deafening crash of metal against wall."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The machine whizzes past his head and shatters to pieces on impact."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The cryptography lead can feel his sanity teetering on the brink. He staggers towards the door, frantically smacking the big red button on the wall."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Cryptography Lead",
+          "text": "Security! Security! We've got a code red!!!"
+        }
+      ]
+    },
+    {
+      "script_id": "100708",
+      "internal_title": "第七章7-6.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "Lucy",
+          "text": "So, what are the implications for the decryption?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Cryptography Lead",
+          "text": "There were no unintended consequences. We were able to control Williams in time, and the Conway Automaton V he destroyed wasn't useful to our work anyway."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lucy",
+          "text": "I am glad you kept the damages to a minimum."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Lucy turns off the screen in front of her and turns around."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lucy",
+          "text": "Since you are still here, Mr. Ulrich, I take it as a sign that you have more to report?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "In a secluded area of the hallway, an emotionally charged complaint is about to take place."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The cryptography lead tries to keep his voice low, looking completely disheveled from the turmoil he has just endured."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Cryptography Lead",
+          "text": "Williams was merely an accident, ma'am, but Adler is a loose cannon on the team. We need to talk about this."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Cryptography Lead",
+          "text": "With all due respect, I still don't understand why you put him on the team."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Cryptography Lead",
+          "text": "He may have made his contributions to Laplace, but that was eight years ago. Now he's just an irritating defeatist and a staunch supporter of humanocentrism."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Every particle of ferrofluid in his helmet is vibrating with rage, his voice rising involuntarily."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Cryptography Lead",
+          "text": "He never understood the arcanum, or tried. He's still stuck in the time before the first \"Storm\" and refuses to acknowledge that his small, beautiful world is gone!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Cryptography Lead",
+          "text": "How can someone like that help us?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The robot senses his doubt and frustration—there may be more sentiments and underlying issues at play. She pauses for a moment before answering, as if deep in thought."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lucy",
+          "text": "I understand your concern, but I have not heard anything about the incapacitation of Adler Hofmann."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Cryptography Lead",
+          "text": "Incapaci—What? He got a few scratches at most. The guy barely touched him."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lucy",
+          "text": "So he is fine. I am glad we agree. Is there anything else you would like to report?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Cryptography Lead",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The robot waits 5 seconds for an answer. But there isn't one."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "This must be the social cue that it is her turn to speak."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lucy",
+          "text": "His lack of knowledge on arcanum is exactly why we need him. His human perspective will offer valuable insights on arcane rituals."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lucy",
+          "text": "The results of this study will not only be used to save arcanists,"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lucy",
+          "text": "but also humans who share the same world with us."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The cryptography lead tries to argue further, but Lucy is certain the issue has been sufficiently addressed."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lucy",
+          "text": "We are racing against the clock, mister, and your report on personal disputes and racial conflicts has wasted 2 minutes and 37 seconds of our time."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lucy",
+          "text": "If he refuses to cooperate, you have every right to remove him from the team. That is your responsibility."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lucy",
+          "text": "Oh."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "From the other end of the corridor, the subject of their argument approaches, looking deeply upset and clutching a stack of papers."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Clearly, he has heard every word they just said."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lucy",
+          "text": "I am relieved that you survived your altercation."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lucy",
+          "text": "What would you like to report?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Cryptography Lead",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Their eyes meet, making both of them squirm uncomfortably. This is undoubtedly one of the most awkward moments in both of their careers."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "After a prolonged silence, Ulrich steps back and walks away."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Without even looking back at him, Enigma begins his report in a low voice."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "I'm fed up with wasting time, ma'am. The setback with the mask has already driven too many people insane."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "That's why you should take a look at this."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He hands the stack of files to Lucy."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "I can logically deduce that our current direction is another dead end. The incantation isn't long enough for cryptographic decryption."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "We will have to turn to ancient records. Perhaps we'll find something in age-old manuscripts, in tablet inscriptions, or in the memories of powerful arcanists."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "But even if we find it, we can't validate it because none of us can cast the skill."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The robot remains silent during his pessimistic remarks, flipping through each page of the file."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "Low-ranking arcanists can't cast high-ranking skills, even if they know the exact pronunciation and meaning of the incantation."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "Gnosis is beyond reason like that and cannot be debated. It stems from raw intuition rather than logic and intellect, is shaped by personal experiences and natural abilities, and cannot be intentionally replicated."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "And the most determining factor—it relies on the arcanist's purity of blood."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "The miracle ritual you hold such hopes for belongs to the leader of Manus Vindictae, a pure-blooded arcanist whose power is beyond our imagination."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "It's like asking a toddler to solve Goldbach's conjecture. It's completely beyond the boundaries of our limits!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lucy",
+          "text": "But you are not an arcanist."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lucy",
+          "text": "Why should you play by their rules?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The man is taken aback by her question. It's something he's never considered before."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lucy",
+          "text": "You are right. Arcanists differ due to their purity of blood."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lucy",
+          "text": "Researcher Medicine Pocket has already reported the linear correlation between the bloodline of an arcanist and their abilities, and has drawn a conclusion ten times more extreme."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "Then you should listen. That's their area of expertise."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her neck moves subtly, almost like shaking her head."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lucy",
+          "text": "We know that our cryptographers do not have the power to validate the ritual."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lucy",
+          "text": "And we do not expect you to do that. All I ask of you is to come up with a feasible plan, and to do it as a team."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Enigma turns away, repulsed at the mention of \"team.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Lucy finishes reading the report and hands it back to him."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lucy",
+          "text": "Your deduction is logical, but not practical or actionable."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lucy",
+          "text": "So I should return this to you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "What?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The glow in her eye slit is strangely reassuring, almost like a smile."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She looks out of the window."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lucy",
+          "text": "Your logic is impressive, Adler. But do not let it limit your thinking."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lucy",
+          "text": "You spoke of the boundaries of arcane power, but logic has its limits too, no?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lucy",
+          "text": "Knowledge can be obtained through various means, such as intuition, logical reasoning, empirical observations, and teachings from others."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lucy",
+          "text": "Your team is not the only one cracking the ritual through their own means. If you fail, we will turn to the others. And if that approach is wrong, we will try another. If no solution is found before the \"Storm,\" we will simply wait for the next one."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lucy",
+          "text": "What matters is we keep moving forward, no matter the cost. We must keep to the path, or we will be swept away like dust in the rain."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "For once, the researcher does not argue."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He whispers, as if talking to himself."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "If one team fails, you can still turn to the others."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "Then why? Why did it have to be Greta?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lucy",
+          "text": "What?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "Forget it. Just a bitter, irrational thought."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "This marks the end of my efforts. Hopefully, \"the others\" will bring you the needed breakthroughs."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The man walks away in anger."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "But after only a few steps, a question comes to mind."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "You've been waiting here for a while. Are you expecting someone?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "You aren't the type to waste time listening to us whine, so there must be something here worthy of your attention."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "Is someone close to a breakthrough?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lucy",
+          "text": "Nothing of the sort."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lucy",
+          "text": "I am recharging. We have a public power outlet here."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enigma",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She moves her joints as if standing for so long has stiffened her body."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lucy",
+          "text": "But I am indeed waiting."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lucy",
+          "text": "The doves of the White Stone House are here."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The sound of flapping wings fills the air."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The researcher is astonished as the creature, with a texture similar to plaster, perches on her metal finger."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lucy",
+          "text": "Good."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lucy",
+          "text": "Someone closer to the \"limit\" has given us aid."
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

@@ -1,0 +1,615 @@
+{
+  "episode_id": 11005,
+  "chapter_id": 110,
+  "chapter_title": "复乐园",
+  "display_label": "",
+  "title": "布鲁图斯在呢喃",
+  "subtitle": "亲爱的背叛者，你受赐黄金了吗？",
+  "trails": [
+    {
+      "element_id": 101005,
+      "owner_episode_id": 11005,
+      "trigger_episode_id": null,
+      "title": "下一步",
+      "description": "猜测棋局走向总是比亲自下棋更有意思。",
+      "action": "对话",
+      "unlock_condition": "EpisodeFinish=11005",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "你做到了，从美利坚到巴西，再到澳大利亚。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "然后在南太平洋上畅游一番，途径阿根廷，现在你终于站在了这片土地上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "你的敌人节节败退，避无可避，退守南极，而导致这一切的只是一个命令——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "“找到那个作家。”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "没有方案，没有地点，没有时限，支援人数不超过一个班。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "我不禁想要向你学习，是什么让你像刚入伍的年轻人一样富有行动力？"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "我不知道",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "那我有一个推测，或许这就是你的神秘术。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "永远自觉地遵守一本命中注定的行动纲领，以满足他者的窥视欲望。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "我必须提醒你一声，你不是军人，你连童子军都不是。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "你不必用军人的标准要求自己。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "这是一份个人建议，服从命令之前好好想想自己为什么要这么做。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "毕竟你接下来可能要闯入敌人的大本营。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "在这种情况下依然缺乏自我思考的人，往往会变成炮灰。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "所以把这个疑问放在心里吧——你究竟为什么要找那个作家？"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "军人就是要遵守命令",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1010051,
+      "owner_episode_id": 11005,
+      "trigger_episode_id": null,
+      "title": "职场生存指南",
+      "description": "听懂台词，看懂脸色，在极地都能用上的职场经验干货。",
+      "action": "对话",
+      "unlock_condition": "EpisodeFinish=11005 and ChapterMapElement=101005",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "回过头，捂住口鼻。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "如果你没有做好心理准备，我不建议你亲自检查这里。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "一群业余人士把这里弄得一团糟。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "为我描述这里",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "隐喻并不是我的本行，不过算了。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "几块奶油蛋糕被糊在墙上，野狗撕碎的面包撒了满地。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "还有草莓果酱。草莓果酱和辣椒酱到处都是，该死，我好像踩到了一颗烂葡萄。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "那么如你所见，这里有过不止一个人。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "但现在谁也说不清到底有过几个人。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "稍有正义感的人都不会允许这种事发生。"
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "你在讽刺谁？",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "我只是个服从命令的士兵，没资格用善恶观去讽刺谁，不过我可以就忠诚心发表些看法。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "保持忠诚在指挥官英明神武时并不难，大部分士兵都能做到。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "相对的，指挥官越是无能或难以理解，忠诚就越是难得。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "要炫耀自己的忠诚，就应当忠于一个疯狂、愚蠢、不可理喻的指挥官，并清楚自己的行为。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "而那名中尉，她离绝对忠诚还差得远。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "她看到这些时一定强忍着吐意。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "呵，年轻人。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "我必须亲眼看到",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "101005",
+      "internal_title": "第十章10-04",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "布鲁图斯在呢喃"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "“嗖——”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一支铅制的细箭直戳入胆囊中，胆汁四溅，血肉模糊。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "淑女格蕾丝",
+          "text": "……接近半数……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "年轻的使徒脸色苍白，气若游丝。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "什么？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "淑女格蕾丝",
+          "text": "……接近半数的马格努斯潜艇已沉没。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "大声一点。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "拿掉你那矜贵的做派，“淑女”。我不是那些需要你惺惺作态拉拢的蠢货。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "淑女格蕾丝",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "淑女格蕾丝",
+          "text": "接近半数的马格努斯潜艇已沉没。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "这才像话！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "铅制的箭头重新对准另一个标靶。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "终于——迂腐的白家伙终于拿出了一点动真格的反应……谢天谢地。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一箭射出。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "冻紫的溃肉流出臭烂的脂肪。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "——若非如此，所有人都要匍匐在那位“传道者”的脚边，为她的“无所不能”所倾倒了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "年迈的步伐拖着素色布缎走向标靶。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "“神秘岛屿的优秀除错师”“秘之教诲者沉睡后唯一的领导者”“伟大仪式的最高主持者”……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "“噗嗤——”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "禽类头骨中镶嵌的晶状球体被捏碎成泥。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿尼姆斯",
+          "text": "只不过是错误的人出现在了对的时机。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿尼姆斯",
+          "text": "能听到秘之教诲者的声音？呵！编造出这样的谎言，使得所有人都相信她，臣服她……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿尼姆斯",
+          "text": "有些人守在后方圣地统筹仪式所需的一切，有些人却全世界“布道”。人心、权力都被她握在手里，出尽风头。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿尼姆斯",
+          "text": "物资运输、人员调配，甚至重塑伟大的历史……一个新上任的小姑娘能了解多少？没有我的帮助，她什么也不是。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "淑女格蕾丝",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿尼姆斯",
+          "text": "噢，我不是在说你。但你最好也夹紧尾巴……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿尼姆斯",
+          "text": "虽然你带来了重要的仪式材料，但“自由海风号”上的事闹出了太大动静，现在全世界的目光都聚在南半球，这都要拜你所赐。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿尼姆斯",
+          "text": "我从最开始就不支持将权力交给你们这些毫无根基之人。自大，冒进，不知收敛。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "淑女格蕾丝",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "淑女格蕾丝",
+          "text": "基金会的军队马上要突破第一道防线了，如果再长驱直入——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿尼姆斯",
+          "text": "他们不会一直保持这样的势头。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "话头被粗暴地打断。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿尼姆斯",
+          "text": "南极不是他们该来的地方，再派多少铁家伙也是一样。现在才举兵进攻，不过是为了证明自己并非全无计划罢了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "淑女格蕾丝",
+          "text": "……您说的没错，我们无需费心关注注定溃败的蝼蚁。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "淑女格蕾丝",
+          "text": "作为仪式外围应援的我们，眼下必须着眼于让仪式顺利进行……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿尼姆斯",
+          "text": "你那浅薄的眼里一次只能看见一件事吗？你如何能保证我们的内部是滴水不漏的？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "年轻使徒的呼吸变得更轻，她竭尽全力让自己显得更加谦卑。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "淑女格蕾丝",
+          "text": "您是指……？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿尼姆斯",
+          "text": "那位将军的近卫团动向如何？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "淑女格蕾丝",
+          "text": "伊戈尔军？他们已经在海岸多处建起了防线，目前正在警戒可能出现的基金会游兵。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿尼姆斯",
+          "text": "可笑的墙头草，如何能够侍奉吾辈伟大的复苏之母？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿尼姆斯",
+          "text": "将那些人安插在圣地之上，本身就是一种侮辱和背叛！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "淑女格蕾丝",
+          "text": "但传道者对他们表示出了极高的尊重，何况，他们为仪式带来了最关键的……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿尼姆斯",
+          "text": "愚钝！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿尼姆斯",
+          "text": "他们甚至不愿意接受神圣的试炼。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿尼姆斯",
+          "text": "与一群未受祝福与引导的庸人为伍，是重塑之手自立于世间以来最大的耻辱。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "淑女格蕾丝",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿尼姆斯",
+          "text": "罢了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿尼姆斯",
+          "text": "一切以仪式为重。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿尼姆斯",
+          "text": "一切——以伟大的复苏之母为重。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "禽类可怜的残骸被扔在了年轻使徒的脚边。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "营帐已经扎下，但疲乏仍未消退。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "机长从直升飞机里探出半个身子，对着帐篷前的女士摇了摇头。"
+        },
+        {
+          "kind": "title_card",
+          "text": "前芝诺近卫团某驻地"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "机长从直升飞机里探出半个身子，对着帐篷前的女士摇了摇头。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "机长",
+          "text": "已经执行过一次检查程序了，中尉，最大的问题出在脚蹬上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "机长",
+          "text": "由于未知原因，脚蹬控制的偏航角速率未能达到设定的预期。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "机长",
+          "text": "这就是刚才飞行过程中出现了强烈颠簸和航向偏转的原因。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "机长",
+          "text": "在得到一次充分完整的检修前，“小犬号”是不适宜再起飞了，特别是在南极这么恶劣的环境下。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "莫莉德尔回头看了一眼已经安置下的士兵，走向了这架载量二十人的运输直升机。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德尔",
+          "text": "向将军报告我们的情况……虽然距离指定的驻扎地还有些距离，但目前看来只能这样了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德尔",
+          "text": "所幸这片空地同样有开阔的视野，足够我们执行任务……你完成了一次完美的迫降，辛苦了，丹尼洛夫。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "机长",
+          "text": "这是我应该做的，中尉。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德尔",
+          "text": "接下来要做的，只有等待。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "等待什么？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "答案呼之欲出。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德尔",
+          "text": "全体注意，以下是自伊戈尔将军的指令。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德尔",
+          "text": "我们需要在这里坚守冰洲的外围防线，以应对基金会的任何进攻。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德尔",
+          "text": "同驻扎在另外一个港口的托勒密步兵班一起，由坐守仪式神殿的将军下达机动调令。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "莫莉德尔调整了一下领口，她感到口干。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德尔",
+          "text": "一旦发现任何单位进入可视范围内的海域，一律视为交火信号。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "众士兵",
+          "text": "是——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "士兵们齐声回应。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她扫视士兵一圈，而后低下头。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "看着自己浸湿的军靴上迷人的金色落雪，她眨了眨眼。"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

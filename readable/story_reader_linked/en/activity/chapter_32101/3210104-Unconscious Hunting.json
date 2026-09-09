@@ -1,0 +1,601 @@
+{
+  "episode_id": 3210104,
+  "chapter_id": 32101,
+  "chapter_title": "A Flowing Feast",
+  "display_label": "",
+  "title": "Unconscious Hunting",
+  "subtitle": "At any given time, somewhere, somehow, someone is dreaming.",
+  "trails": [
+    {
+      "element_id": 3210101,
+      "owner_episode_id": 3210104,
+      "trigger_episode_id": null,
+      "title": "Arcanist Observer Journal",
+      "description": "The results reflect the opinion of the majority—but does truth belong instead with the few?",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=3210104",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "Welcome to Paris"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "In a recent report, Paris was named the most preferred city for arcanists seeking residence. Respondents note that living in a metropolis dominated by humans is no easy feat—arcane skills, whether deliberate or incidental, often disrupt established social norms, inevitably creating confusion and conflict. Yet Paris, long known for its inclusivity toward people of many diverse backgrounds and traditions, stands apart. Parisian salons have come to regard arcane skills as a kind of marvelous and romantic art, and arcanists are frequently welcomed as guests of honor. To humans, Paris is a cradle of art; to arcanists, a haven of creativity.\nReports indicate that several renowned arcane product entrepreneurs have opened new branches in Paris this year, their trust in the city drawing increased attention. The historic capital continues to attract arcanum talent and resources from across Europe. While human concerns about the spread of arcanum persist, many believe that more cities will soon follow in Paris's footsteps.\n\n—Arcanist Observer Journal"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "203205",
+      "internal_title": "【3.2】迁流的盛宴04",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "Interrogation Room, Vigiles Bureau"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vigil Officer",
+          "text": "The Tavernier curse—every member of your family is destined to hunt endlessly for treasure until they meet their end. Passed through blood relation, usually to the relative closest to them."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vigil Officer",
+          "text": "You don't believe in this so-called curse, do you, Ms. Tavernier? Or should I call you Brume?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The interview room is coldly silent except the faint whir of the recording camera."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Every word of the young woman's statement is captured by the microphone, preserved as cold signals on magnetic tape."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Brume",
+          "text": "Given how things have turned out, it isn't as easy as a yes or no, don't you think?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She gives a helpless smile, looking down at her palms."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Brume",
+          "text": "But say it is true, then what of it? We're all going to die, no? One day I'll die searching for treasure, but before then, I'll live as I see fit."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Brume",
+          "text": "I don't plan on wasting away my days in fear."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She pauses briefly."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Brume",
+          "text": "The ending may be written, but that doesn't mean I want to follow the story word for word."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Brume",
+          "text": "That's what I told Cici as we were driving to her place. And now, looking back ... Maybe that's when it all began."
+        },
+        {
+          "kind": "title_card",
+          "text": "Célia's Home"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Mmm, so good! This gratin is the best. How'd you get so much flavor out of a simple potato?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "You like it, then? It's just ordinary home cooking, really. Maybe it's finally time you started doing it yourself."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Well, Papa didn't exactly teach me much in the art. He'd just pop open a tin can and say, \"Be grateful. When you're in the jungle, this is a luxury.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "But he never took me to the jungle. He never even let me leave Paris. I still haven't been anywhere."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Célia smiles and shakes her head. She grabs the empty plate to scoop her friend another serving of potatoes."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "You can only blame yourself, Adèle. You were the one adamant about not becoming a hunter."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Of course! Because I don't want my life planned out like a stage play! A-And don't pretend you didn't have a part in this. You're the one who picked the page number in the advertisements."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Célia can't argue, so she pours two more spoonfuls of stew over the mash, stacking it high into a little mountain and sliding it in front of Adèle."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "Sharp as ever. Since we're on the subject, how is work going? Any interesting fares lately?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Hmm. There was one thing. Not sure if I would call it interesting, though. Peculiar, perhaps?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She bites down on her spoon, trying to recall the scene from earlier. The diviner's expression is still vivid in her mind."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "I was at a diviner's salon, and the host ... I don't know; I think she was trying to scam me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "She started rambling about all these strange things that would happen, things that sounded a lot like the Tavernier Curse. And then, she, well, she died."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "Died?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Célia's eyes widen, her fork clinking unconsciously against the plate."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Then the police came, and I suppose the case is still under investigation. Anyway, you know what I think of those diviners. They're not exactly people you should take seriously."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "Then why were you there?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Not by choice, that's for certain. One of my clients was interested. Madame Félicienne."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "She always gets these sudden whims and insists on having everything done just as she pleases. I wouldn't have crashed my car if she hadn't—Bah, forget it. How's university life?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Célia doesn't answer Adèle's question. Instead, she catches on to her words."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "She is a long-term client, then? Can't say you've mentioned her before. Or maybe I've been spending too much time on campus, haven't I?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "What do you think? I swear, this little one might forget you completely if you spend any more time hidden away in your books!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Feufeu",
+          "text": "Rarr!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The tiny creature on Adèle's shoulder lets out something like a protest, prompting Célia to playfully pat its head."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "Oh, heheh. I know better than that. This sweet little thing was summoned by your family's incantation. As long as you remember, he remembers."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "Such a fascinating creature, the Tutelary. He sees every corner of your psyche, memory, and sensation, even your unconscious thoughts."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Hah, here comes Cici with another one of her academic lectures. Is this what you're studying these days?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "Yes."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "Professor Roseau has found new inspiration in a Swiss psychologist's theories. He's pushing for some new breakthrough; the whole research team's working on it. We've already seen some early progress."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "That ... \"collecting brain\" thing?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "Collective unconscious!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She adjusts her glasses with academic rigor and opens her notebook. Her poor student senses trouble."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Okay, okay. I won't forget it again."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "Says the one who invents a new name for it every time. But it's even more complex than you think, Adèle, and very important. It may even help us make Paris a better city."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "Imagine the minds of people like islands, each floating on their own,"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "and the collective unconscious as the water that links them all."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "This is Jung's idea of the collective unconscious—a psychic space shared by all of humanity."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "Human aggression—whether it be war, class conflict, or tensions between humans and arcanists—has always been a constant."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "It's like the tides affecting the shared ocean between us. We build on our islands, but inevitably the tide will reclaim them."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The eager scholar closes her notes, fixing Adèle with an expectant look, waiting for her response."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Maybe this guy's onto something. We're all fighting for our place in these troubled times. But I don't understand what's unconscious about it. Are you saying that, deep down, we're all war-hungry maniacs?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "Certainly not! But we are all under the influence of this collective mind. That's why the same conflicts happen again and again, in all times, in all places, and to all people."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "We can't force back the tide, but what if we found a new way to change the ocean itself—fill it with a new nature? One of peace and equality."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "Even one tiny drop of new thought could make a world of difference."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "What we're trying to do is find some way to practically influence the collective unconscious—to create real and lasting change for everyone."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "I believe, truly, I believe it could do more to save us than any law or reform ever could!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Adèle scratches her head. She has no such lofty ambitions, nor any intention of changing anyone."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "So, you want to control everyone's minds?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "What? No! We still want people to think for themselves. We just want to change how they think."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "If we can plant a more hopeful vision into the collective unconscious, we could sow the seeds for a better future for all."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "Like how Victor Hugo wrote his dreams into his books, and they reached every reader in France."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "Only we're doing it in a more controlled, systematic way than simply telling stories."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "What about Vincent? He seems the furthest thing from controlled. Eh, loyalty to \"the Emperor\" aside."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Are you sure this research is safe?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "Truthfully, I wouldn't say it's entirely without risk."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "The collective unconscious is a sea of primordial images formed into cultural motifs and symbols. The more popular that symbol is—or, the more often a theme occurs across cultures—the more powerful it's said to be in our collective unconscious."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "Take Napoleon, our \"conquering hero-king\" and cultural symbol. Vincent ... Well, he's always admired him, so perhaps that made him more susceptible."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "We're working in the mind, so it's understandable that there might be some unforeseen effects. I fear Vincent may not be the last to suffer like this until we find a safer way to proceed."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Popular symbols ... Recurring themes ... Mental distress ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Adèle pauses as a thought strikes her."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Madame Raymond",
+          "text": "They have awakened from their centuries-long slumber, bringing torment upon us! We have called them forth. We have set loose this horror ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Like the Beasts of Gévaudan?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She repeats what she heard back at the divination salon."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "That old legend? But why would the Beasts of Gévaudan be ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "Wait, you might actually be onto something."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "As the rumors about the beasts have spread, it has gained a new identity in our collective unconsciousness, planting the seeds of terror inside just about everyone."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "Formidable!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her friend leaps up from the table, dives for her notebook, and starts scribbling frantically."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "Thank you, Adèle! You truly are my very own academic muse! I must take another visit to the Dance of Death mural. It may play a part in all of this."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "I'll buy you one of those good-luck necklaces when I publish my paper!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Then you'd better make sure it's chic. I'll want to wear it every day."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "When it comes to her research, her friend's enthusiasm is irrepressible. Adèle has long since grown used to it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "So, what comes next?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "It's only a thought for now—one I must keep to myself. But you'll be the first to know when it's confirmed."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "I swear, you and indeed the whole world will be shocked!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "You know—and please don't laugh—sometimes, I feel like an adventurer too. Hunting for hidden treasures with my pen and paper."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "I suppose what I do isn't all too different from your parents after all."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "Forgive me, Adèle. That-that was inconsiderate of me. I got carried away."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "You can find better role models than my parents, Célia."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "I got another letter from them the other day. It's always the same: a mine sure to bring amazing profits and something about a mural."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "So you do read their letters! They sound exciting, don't you think? You know how much I love adventure stories."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her friend's sudden burst of energy makes Adèle both amused and helpless."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "That you do. Sometimes, I think you're more of a Tavernier than I'll ever be."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "Haha. I suppose I have always thought of you as a sister. Anyway, enough about that. Where are you taking your client tomorrow?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "To Rue de la Paix. There's a crystal parlor we're going to visit."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "Because of what that diviner told you? You must be the master of your own will, Adèle. Don't let your subconscious make all the decisions."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Whatever you say, Madame Professor."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "I mean it! So many things in life are stirred up from the depths of our minds."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "There's never an end to the things old friends have to say. They talk until the stars have claimed the night sky."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Cici, tell me, do you really think there's such a thing as fate?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Cici? Célia?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her friend drifts off to sleep, wandering into some dream not yet connected to Adèle's in that sea of collective unconscious."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Well then. Good night, dear friend. May tomorrow bring good luck to both of us."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vigil Officer",
+          "text": "And it was on the following day that you paid a visit to Beryl Bouanich's Parlor of Crystals?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Brume",
+          "text": "Correct."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vigil Officer",
+          "text": "And there, you had another, ah, what did you call it? Unusual divination?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Brume",
+          "text": "Beryl Bouanich had foreseen my visit long before I arrived."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Brume",
+          "text": "Just as she had foreseen all that came afterward."
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

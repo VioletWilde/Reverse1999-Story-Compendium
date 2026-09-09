@@ -1,0 +1,477 @@
+{
+  "episode_id": 10822,
+  "chapter_id": 108,
+  "chapter_title": "Tristes Tropiques",
+  "display_label": "",
+  "title": "The Roaring Forties",
+  "subtitle": "Summer ends here, the icy sea begins.",
+  "trails": [
+    {
+      "element_id": 1082201,
+      "owner_episode_id": 10822,
+      "trigger_episode_id": null,
+      "title": "A Minute to Spare",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=10822",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "I have some news you'll be happy to hear."
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "I'll spare you one minute.",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Trust me, you'll wish you had more than a minute for this. It involves a mutual friend of ours—a long-lost acquaintance you've been searching for."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Doctor, writer ... she goes by many titles, just like you and I. Sadly, in her current state, her brain capacity is limited."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "It's just like after that fateful battle ended. Few survived to remember her awe-inspiring feats."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Now, this kind-hearted doctor has become a crucial part of another wicked scheme of which our dear admiral is well aware."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "What does he know?",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "An orchestra without a conductor can barely play a symphony. Recognizing that missing, vital piece, the admiral seized the opportunity without hesitation."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Experience gives a veteran his scars, yes, but also a scrap of wisdom. He knew he should gain the upper hand in this one-sided gamble."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "I don't know yet; there's no mention of it in the reports. I do have some speculations, however."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Those troublemakers have been focused on nothing but cultivating chaos and fanning the flames of conflict, paying little attention to the scale and extent of their intended retribution."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Now, it seems they've realized the uncertainty of this approach—drastic, volatile retribution won't get them anywhere. To reach their destination, they must forge a new path, even if it's more arduous and perilous than the last."
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "Go on.",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "Your minute's up. Time certainly does fly, doesn't it?"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "I'll be back when there's a new development. Stay alive if you can. I'd like to keep reading reports for you."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "What scheme?",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1082202,
+      "owner_episode_id": 10822,
+      "trigger_episode_id": null,
+      "title": "Paths of the Past - Dr. Dores",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=10822",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A strangely shaped typewriter; the only weapon this doctor had in her battle with fate."
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100835",
+      "internal_title": "第八章8-22",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "The Roaring Forties"
+        },
+        {
+          "kind": "title_card",
+          "text": "Clifftop, Tierra del Fuego"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "You made the right choice."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Admiral Igor",
+          "text": "We simply followed THEIR guidance, Preacher."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Admiral Igor",
+          "text": "Unfortunately, we failed to bring the succubus."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Admiral Igor",
+          "text": "But I did bring you this, and Ms. Urd, as well."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sophia the Preacher",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sophia the Preacher",
+          "text": "No, Admiral. Not you ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sophia the Preacher",
+          "text": "Us."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sophia the Preacher",
+          "text": "We all need the miracle THEY bestow."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Admiral Igor",
+          "text": "My men will not wear the masks. Nor will they take the trials."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Admiral Igor",
+          "text": "We need no trials to test the loyalty of my children, Preacher."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Admiral Igor",
+          "text": "And for now, Ms. Urd will stay under my protection."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sophia the Preacher",
+          "text": "As you wish."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The Preacher agrees to all of the admiral's requests."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "It doesn't matter. None of it matters."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She looks southward across the sea."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sophia the Preacher",
+          "text": "Until next time, Admiral."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The Preacher takes the relic left by the Mother of Resurrection and bids farewell to the admiral."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Moldir",
+          "text": "Father."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Moldir",
+          "text": "I shot at Lopera."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Shooting is one thing. Whether the bullet hits the heart or the ground is another. To the admiral, however, it is unimportant."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Moldir",
+          "text": "I have to be honest, Father. I don't fully agree with your decision, at least not on a personal level."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Admiral Igor",
+          "text": "You're entitled to your opinion, Lieutenant. But I don't need your approval."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Moldir",
+          "text": "I understand. You only need my obedience."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Admiral Igor",
+          "text": "Precisely."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Moldir",
+          "text": "Had you anticipated that Lopera wouldn't come with us?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Admiral Igor",
+          "text": "She is inconsequential. She helped us retrieve Urd from that Brotherhood farce. That's all I needed from her."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Moldir",
+          "text": "But the Brotherhood ... With all due respect, admiral ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Moldir",
+          "text": "I've heard they have connections with our \"friends\" at Manus Vindictae."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She finds it hard to call those they once fought against \"friends.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Treason is a stain not easily washed clean."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Admiral Igor",
+          "text": "I thought you'd make the same choice she did."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Moldir",
+          "text": "No, I will always follow you, Father."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Admiral Igor",
+          "text": "Just let her be."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A lone seagull glides across the sky, calling out as it flies to the warm north."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Igor pats his daughter on the shoulder."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Admiral Igor",
+          "text": "Now, bring me Dr. Dores."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Moldir",
+          "text": "Father."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She dutifully leads the doctor to her father and leaves the two alone."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Doctor Dores",
+          "text": "I don't know you, sir. You must have mistaken me for someone else."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Admiral Igor",
+          "text": "No, I couldn't possibly mistake you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Admiral Igor",
+          "text": "Old friend."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Admiral Igor",
+          "text": "In the last days before the millennium, we fought side by side."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Memories flood the weathered halls of the old admiral's mind."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Admiral Igor",
+          "text": "In hindsight, that battle may have been a mistake."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Admiral Igor",
+          "text": "The \"Storm\" swept across the world, leaving behind an era of chaos."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Admiral Igor",
+          "text": "And we lost our future."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The admiral has never been fearful of sacrifice, especially when it has served the grander goal."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Admiral Igor",
+          "text": "But now, another path lies before us, one that we once fought desperately against."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Admiral Igor",
+          "text": "A path paved by Arcana."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Admiral Igor",
+          "text": "A path leading to a world free of conflict."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Admiral Igor",
+          "text": "My old friend."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Sadly, she cannot comprehend even a fragment of these words."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She's simply Doctor Dores. Nothing more."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Admiral Igor",
+          "text": "That marble chair the Foundation gave you ... What's the secret behind it?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Admiral Igor",
+          "text": "What happened to you after you pressed that button?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Doctor Dores",
+          "text": "Nothing."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Admiral Igor",
+          "text": "Do you remember what happened after you walked into that white house?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Doctor Dores",
+          "text": "I'm sorry. I don't know anything about that."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She's stubborn but answers honestly."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The old admiral sighs and pulls a stack of UTTU magazines from his coat. They were not for his own reading."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Admiral Igor",
+          "text": "My dear Ms. Urd."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Admiral Igor",
+          "text": "Your name continues to show up between the occurrences of the \"Storm.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Admiral Igor",
+          "text": "I don't know what you've encountered, what you've experienced, in all this time."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Admiral Igor",
+          "text": "But your very existence is about to change the fate of us all."
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

@@ -1,0 +1,581 @@
+{
+  "episode_id": 11109,
+  "chapter_id": 111,
+  "chapter_title": "行于漫漫长路上",
+  "display_label": "",
+  "title": "Paths Crossed",
+  "subtitle": "Whispers of movement lost beneath the clamor of calamity.",
+  "trails": [
+    {
+      "element_id": 111009,
+      "owner_episode_id": 11109,
+      "trigger_episode_id": null,
+      "title": "The Last Turnip Stew",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=1109",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "I'm afraid I only have turnip stew to serve you. I will add a few sausage scraps to your bowl, however."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Here. Now go. It's best you leave before another battle breaks out."
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "Already?",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Is there something else you want from me?"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "You know what? Since you're so fond of visiting ... take the chair you're sitting on."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Even through the coldest winters, that chair was spared the fire. Perhaps it was meant for you."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Ah, yes—a tragedy to serve such a dish to such an honorable guest, but I'm afraid I have no tears left to shed to season the thing."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "If this farce had ended sooner, perhaps I'd have treated you to a feast—"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Bacon, beef stew, pretzels, mashed potatoes, sauerkraut, and a tankard of beer, of course."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "But the big men in the army disagreed. They valued shiny medals on their chests over food on their people's tables."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Right. Since you insist on staying, I will go to the market and see what I can find."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Sit here for a while longer, if you like. Prepare for a lifelong stay, even."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "With any luck, this place will become your grave by the time the next farce ends."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "It tastes a little bland.",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "101112",
+      "internal_title": "第十一章11-09",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "Paths Crossed"
+        },
+        {
+          "kind": "title_card",
+          "text": "Depths of the Forest"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Night falls, and creatures stir."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sentinel",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Not far away, there is another shadow hiding in the forest. Under the cover of night, perhaps he would be taken for a withered tree trunk."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "But Gargoyles belong to the night. They recognize one another with ease in the dimness."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "A man is proclaimed guilty, and for this he is condemned to death, denied even the justice of a trial. His execution came as a wind, silencing him ere he might utter a word of repentance."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "And this thou wouldst call righteousness?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sentinel",
+          "text": "Leave me be, Ladislas."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She shrugs the heavy question off."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ladislas",
+          "text": "Hast thou reflected on thine actions? Meeting eye for eye and tooth for tooth. Is it justice or vengeance still?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sentinel",
+          "text": "Do you think so little of me? That I would call it \"justice\" even were it not so? Blame me then, cousin. Damn and condemn me. I care not."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ladislas",
+          "text": "Never would I damn thee, cousin. For it is thy soul for which I am most concerned. I fear it doth wither with every act of malice."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ladislas",
+          "text": "Hark and listen well. Dost thou forget the nature of our unholy ancestry? We art the kin of demons. A thousand years hence, and their malevolence yet floweth thickened in our veins, and their whispers pricketh still our ears in the silence."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sentinel",
+          "text": "Then answer me this question, dear cousin. You stand before the scales of a balance. On one pan, the lives of ten men, and on the other, a hundred. If you had the power to shift its weight to save the many, would you?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ladislas",
+          "text": "A question that is heavy-laced with blasphemies. Hast thou already bent thine ear to the devils' lies?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sentinel",
+          "text": "Answer me, cousin. Elsewise, there is nothing more that needs be said."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Ladislas furrows his brow and lowers his head, lips motioning the words of a prayer."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sentinel",
+          "text": "Silence? Are you truly so naive? The scales are lain far heavier for those in the throes of war, yet you have not even the courage to answer a simple question. I'm afraid you have mistaken your weakness for virtue."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sentinel",
+          "text": "Go back to the monastery, Ladislas. This is war, red in tooth and claw, and your heart proves too quick to kindle."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Ladislas vanishes into the dark with a sigh, his form melting into the night."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The Gargoyle soldier leans against a tree for a brief rest. In the crook of its branches, she begins to slowly turn to stone."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "You are again at odds, it seems."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A voice rings in her ears. It speaks without a source, coming from neither place nor person."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sentinel",
+          "text": "'Twas not a battle I sought."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Our cousin is more learned than either of we two, but he lacks in courage compared to thee—most daring of us all."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sentinel",
+          "text": "I do not deny his learnedness. But there are neither letters nor prose that might aid my mission."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Thou burnest too short a wick, and the flames of perdition rise to meet thee. I fear for thee, \nMarie. That thou go forth to a battle that will consume thee, whether in defeat or in triumph."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Massel, Anthoine, and Yvonne ... They once promised to return as thou didst. \nYet they fell all the same, each after the last. Yvonne was taken before she had even tasted battle."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sentinel",
+          "text": "Let remorse consume me if it must. But God willing, I will see the end of this war first. Ere then, the fear of regret will not stay me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sentinel",
+          "text": "Not now."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sentinel",
+          "text": "And perhaps, on that day when peace finally comes, you will return to us?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The voice vanishes in the night's breeze. She would not hear it again this night."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sentinel",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She shakes off the scales of stone and resumes the march toward her next lead."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Paravyan lays out a local strategic map over the table."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Creius picks up a handful of bullets, placing the first on Montpaix."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Creius",
+          "text": "Major Braun was able to recall some of the locations that may have been used by the Manus. His coordinates aren't what anyone would call precise, so we'd best start searching ASAP."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Creius",
+          "text": "Chester, you'll take the forest. Caspa will be expecting you on the edge."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "One bullet stands upright on a spot marked as forest."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Investigator I",
+          "text": "On it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Creius",
+          "text": "Camila, Lee, you'll search from here and move along the river."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Investigator II",
+          "text": "Will get it done, sir."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Each new order is marked by another round placed upright on the table."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Creius",
+          "text": "Charles, Amanda, you're on Hill 299. You'll need to cross no man's land to get there. Make sure you establish your identity with both sides in advance to avoid friendly fire."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Investigators",
+          "text": "Understood."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The crowded room empties order by order, bullet by bullet, until only the last round remains."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Creius",
+          "text": "Paravyan."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "\"Officer\"",
+          "text": "Yes, sir."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Creius",
+          "text": "I want you on this village. Take Marsha with you. She's a skilled combatant as well as a medic. You can count on each other."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "\"Officer\"",
+          "text": "Yes, sir."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Paravyan exits, leaving one person remaining without orders."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The young soldier locks eyes with her superior, an unspoken relief written on her face."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "So, does that mean I'll remain on standby in Montpaix?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Creius",
+          "text": "Yes. I need someone coordinating the defense of this town should the Manus attack."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "Oh. Uhm ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Relief turns into dread."
+        },
+        {
+          "kind": "title_card",
+          "text": "Abandoned Village"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "\"Officer\"",
+          "text": "Is this it?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "I believe so. Let's get on with it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The village around them still carries the signs of lush wilderness and gentle fields. A place of abundance and safety, once."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "\"Officer\"",
+          "text": "Watch my six."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The two draw weapons and enter from the side."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The investigators are not stopped in any way, and if they hadn't been instructed to do so, they would have just treated this place as another forgotten remnant of better days."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "This place is empty. It's heartbreaking to see it so quiet."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "\"Officer\"",
+          "text": "We're ahead of schedule. Let's start by checking the houses one by one."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "Good."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "Find anything?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "\"Officer\"",
+          "text": "Only some letters I can't read. I guess they didn't have time to post them before they left."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "There were some small arms in the basement, all of them older models and rusty. The ammo was damp."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Marsha holds her gaze on an empty warehouse."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "This place had to have been looted more than a few times. The only valuables left are the ones too heavy to move."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "\"Officer\"",
+          "text": "So, basically, there's nothing here. What do the Manus want it for?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She shakes her head in frustration."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "I was rushed through the investigator training before being sent to Montpaix."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "It's possible I missed something."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The young man tries to console her, but his smile is stiff."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "\"Officer\"",
+          "text": "Don't worry. You're doing fine. Mr. Creius always says training is no match for experience."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "\"Officer\"",
+          "text": "Blackbird is a prime example, I mean Merel. You met her back in Montpaix."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "\"Officer\"",
+          "text": "She's been through all the training the Foundation could throw at her, but she still isn't ready for the battlefield. I probably shouldn't say, but she nearly went mental during the Antarctic operation."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "The battlefield is crueler than ordinary people can imagine. A few weeks of military training just isn't enough."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Paravyan follows the topic and broaches a question he's long been holding back."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "\"Officer\"",
+          "text": "So, what's your deal? I know you came from some Order with special arcane training."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "\"Officer\"",
+          "text": "You can \"freeze\" your fear and pain—emotional stuff—during battle until you feel safe?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "\"Officer\"",
+          "text": "I only skimmed through the briefing. Is that right?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "It's more complicated than that. But I'm not sure I'd like to get into it now."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "\"Officer\"",
+          "text": "Yeah, sure. Sorry."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "No need to apologize. Just ... do you think we missed anything?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "\"Officer\"",
+          "text": "Well, let's take a minute."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "\"Officer\"",
+          "text": "What could they even possibly hide here? Arms, chemical weapons, secret files, or gear smuggled back from the future?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "I don't know much about Manus Vindictae or the future."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "There's a sudden ear-splitting pop, followed by a thundering explosion as rocks spatter across her armor."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marsha",
+          "text": "Incoming!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "\"Officer\"",
+          "text": "Armored vehicle, 200 meters northwest of the village! Take cover!"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

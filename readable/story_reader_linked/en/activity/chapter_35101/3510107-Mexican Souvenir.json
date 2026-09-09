@@ -1,0 +1,542 @@
+{
+  "episode_id": 3510107,
+  "chapter_id": 35101,
+  "chapter_title": "绿松石蛇俱乐部",
+  "display_label": "",
+  "title": "Mexican Souvenir",
+  "subtitle": "Please do take this.",
+  "trails": [
+    {
+      "element_id": 3510112,
+      "owner_episode_id": 3510107,
+      "trigger_episode_id": null,
+      "title": "Cleansing Notes",
+      "description": "First rule: don't mistake an agave for a pineapple, especially as a snack.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=3510107",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "The \"Necessary\" Guide to Exorcism"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "1. Agave\n\nHandling Note: Mind your hands around the large leaves. They're sharp.\nPractical Uses: Commonly used in brewing, medicine, and rituals. Its fermented sap produces pulque, a drink Mexicans call \"the lifeblood of the land.\"\nExorcism Uses: Smear the sap on door frames and floors after a space has been \"cleansed\" to shut out any \"unseen presences.\"\n\n2. Epazote\n\nNo special handling notes.\nPractical Uses: Aids digestion and can expel or kill intestinal parasites.\nExorcism Uses: After an exorcism, if \"their presence\" still lingers in the room, sprinkle some epazote. Let's just say it smells as \"special\" as it sounds.\n\n3. Rue\n\nNo special handling notes.\nPractical Uses: Commonly used to ward off evil. Can be worn on the body, brewed as tea, or sprinkled on the ground.\nExorcism Uses: The final step of an \"exorcism,\" it helps with sealing against future incursions.\n\n4. Copal\n\nCaution: Make sure the smoke spreads throughout the entire room.\nPractical Uses: A natural resin native to Central America, used in sacred rituals since the time of the Aztecs and the Maya. Now widely used during Día de los Fieles Difuntos as a medium to connect the living with the dead.\nExorcism Uses: As copal smoke rises, \"they\" find their way back to where they belong.\n\n5. Rosemary\n\nFor the living only.\nPractical Uses: Healing.\nExorcism Uses: If the \"scene\" feels wrong, or you're dealing with a survivor who's lost control, a little rosemary helps you find yourself again faster."
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "203511",
+      "internal_title": "【3.5】绿松石蛇俱乐部07",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "At dusk, the sun casts its last fading warmth."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Deep in the alley, a bustling little shop hums as craftsmen prepare candy skulls for the upcoming festivities."
+        },
+        {
+          "kind": "title_card",
+          "text": "Candy Store"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Storekeeper",
+          "text": "Good heavens, Añil! Hurry up!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Storekeeper",
+          "text": "If you hadn't guaranteed you could finish the work before the end of the day, I never would've hired you!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Storekeeper",
+          "text": "All this candy needs to get to Diago's before tomorrow!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Añil",
+          "text": "Yes, boss. I understand."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Storekeeper",
+          "text": "Oh, and Ms. Juárez in La Roma wants you to repaint their family tomb."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Storekeeper",
+          "text": "Damn, I almost forgot! I need to go to Christina's to pick up some marigolds before dark."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The storekeeper dashes off."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Añil",
+          "text": "There are still more than a hundred pieces of candy to go."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The sun falls behind the distant hills, and the craftsmen begin to leave. In the dim candlelight, his shadow dances on the wall."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Then footsteps break the silence."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "I like the candy."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Añil",
+          "text": "We use them to welcome the deceased to the land of the living, guiding their souls to rest in their homes once more."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Añil",
+          "text": "The Aztecs believed life is a cycle."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Añil",
+          "text": "Death is but one part of an endless loop, a reflection of life. And how we die determines how our next life begins."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Añil",
+          "text": "The souls of the warriors who gave their lives in battle rise with the sun at the palace of Tlālōcān, singing songs of triumph."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Añil",
+          "text": "And four years later, they will return to the earth as colorful butterflies and hummingbirds."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Añil",
+          "text": "Can you tell me if that's true, Ms. Ramona?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ramona",
+          "text": "You recognize me?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Añil",
+          "text": "The children from the Morelos District call you \"Ramona the Ghost Seer.\" They say it was you who brought back the soul of Ana's Xolo."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Añil",
+          "text": "To hear it from them, you are some kind of all-powerful wise woman hidden in the shadows, one who knows this city better than anyone."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Añil",
+          "text": "Of course, others say you're from a well-known family of psychics, though it seems as if you've chosen another path."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ramona",
+          "text": "They're just stories, rumors really. I don't see ghosts."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her reply is curt, yet casual. Her past is behind her. She evidently likes to keep it that way."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ramona",
+          "text": "What they call \"ghosts\" are just pneuma, or say, a kind of arcane energy fluctuation. They exist, but not as some shimmering spirits; they're more like a cool breeze."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ramona",
+          "text": "But, hey, people believe what they wanna believe. Kids and adults too, I guess."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ramona",
+          "text": "Everybody's got unfinished business with the dead, so they want me to see ghosts. They believe it. That way, they've still got a chance to say what they never got to."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Añil",
+          "text": "Ah! My apologies, Ms. Ramona. You're right. It was nothing but wishful thinking."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He unconsciously lets his eyes fall on her Vigiles Bureau attaché badge. It holds no authority, but it sets the tone of their conversation."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Añil",
+          "text": "So, is there something I can do for you?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ramona",
+          "text": "Yeah, I got a couple questions."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ramona",
+          "text": "These symbols, I think you might know 'em."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Añil",
+          "text": "An arrow, a bow, and a net."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Añil",
+          "text": "According to the Codex Chimalpahin, these are the gifts given to the Aztecs by the sun god Huitzilopochtli."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ramona",
+          "text": "It's got the emblem of the Turquoise Serpent Club, too."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ramona",
+          "text": "Which is the biggest smuggling ring in Mexico City, controlled by that arcanist Pérez."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She tucks away the scrap of cloth."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ramona",
+          "text": "Can't be too many folks around who know you work for him. But those occult paintings at his club had to come from someone, yeah?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ramona",
+          "text": "But your boss's been acting strange the last few weeks, right? More cutthroat than ever. He's planning something big, everyone knows it, and an auction to the tune of an \"Ancient Bloody Civilization\" is the best way to start it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Añil",
+          "text": "Hm, then it is true. Nothing in this city escapes you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Añil",
+          "text": "And should I presume this interrogation has been commissioned by the Vigiles Bureau?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ramona",
+          "text": "The Vigiles? Nah, what do you take me for?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ramona",
+          "text": "You think I shed a single tear over \"injustice\"? Think I care about your boss's little auction? Nah. You and I both know that arcanist gangs aren't to be messed with, and I'm not in the business of making messes."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ramona",
+          "text": "But strange things are brewing in the shadows."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ramona",
+          "text": "On street corners, behind people's smiles, in the boarded-up buildings."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ramona",
+          "text": "The pneuma is stirring up all around town."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ramona",
+          "text": "Hovering over the city like a shroud, echoing in every howl and shriek in the night."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ramona",
+          "text": "Like nothing I've ever felt before. Who knows what'll happen if things stay this way?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Añil",
+          "text": "It's your arcane gift warning you about the coming crisis."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ramona",
+          "text": "I wouldn't call it a gift, especially when you're born into a so-called \"psychic\" family."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She leaves it at that, unwilling to say more."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ramona",
+          "text": "Look, I know you know something about these arcane murders. There's already been five of them. And it's gotta have something to do with these weird spikes in the pneuma."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ramona",
+          "text": "That's how I found these symbols, left behind at one of the crime scenes."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ramona",
+          "text": "So, I wanna know the connection between the club and these killings."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She wrestles the question out, realizing she's about to step far deeper into this growing mess than intended."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Añil",
+          "text": "If they are indeed related, that is, if it truly is the Turquoise Serpent Club who's responsible, what will you do?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ramona",
+          "text": "I'm not paid to solve crimes. The Vigiles got plenty of investigators. If they can't figure things out, that's on them."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Añil",
+          "text": "Have to admire someone willing to go above and beyond their duty."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A gentle smile flickers across his face, then fades just as fast."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Añil",
+          "text": "But I must apologize, miss."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Añil",
+          "text": "You know I work for the club. And you know that means I can't provide any help."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ramona",
+          "text": "That so? Didn't expect you to be so loyal."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ramona",
+          "text": "If I remember, you used to be a plain old pigment supplier, until Pérez started snatching up every artist in town. I figured you didn't come into the job willingly. Was I wrong?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ramona",
+          "text": "You're not so different from those other artists, really. Just a little more flexible. That's why Pérez gave you a longer leash."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ramona",
+          "text": "If they can prove Pérez guilty, the Vigiles will—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Añil",
+          "text": "I'm afraid it's time for you to leave. This conversation will remain between us. You have my word."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ramona",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She rolls her eyes, though the emotion is as much directed at herself as Añil. Playing detective isn't in her job description."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ramona",
+          "text": "Hm. Sorry for wasting your time. See you later."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Añil",
+          "text": "The Day of the Dead is coming."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Añil",
+          "text": "Please, take some decorations with you. I wouldn't have you leave empty-handed."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ramona",
+          "text": "Heh. Quite the salesman, huh? Still making deals even now."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She takes the candle with a smirk and tosses two Sharpodonties his way."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The little house in her dusty, long-forgotten cemetery, the quiet of her coffin—a familiar place to unwind after work."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "—Usually. Tonight, however, she'll find no such rest."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Loggerhead",
+          "text": "Ms. Ramona, you're back! How'd your investigation go?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Loggerhead",
+          "text": "The guy you went to see—is he a friend, or one of your informants? I knew there was something else going on."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ramona",
+          "text": "What're you still doing here?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ramona",
+          "text": "When I said \"Don't follow me,\" I didn't mean \"Camp out at my place and jump me later.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Loggerhead",
+          "text": "Oh, I know. It must have been one of your ghost buddies."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ramona",
+          "text": "I don't have ghost buddies."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ramona",
+          "text": "*sigh* It's the symbols we found at the crime scene: an arrow, a bow, and a net. They're the symbols of a powerful smuggling ring."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ramona",
+          "text": "The Turquoise Serpent Club ... I know a guy who I thought was being forced to work for 'em."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Loggerhead",
+          "text": "I see, I see. Then, everything's going well, then? Ha, lucky us."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ramona",
+          "text": "Don't get your gears all spun up."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ramona",
+          "text": "He seems way too loyal for someone who's got a gun to his head. I got nothing from him, 'cept this thing."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ramona",
+          "text": "Take it. Saves you some souvenir shopping. Now beat it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She tosses the candle to Loggerhead, who scrambles to catch it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Loggerhead",
+          "text": "Wow! What's this?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ramona",
+          "text": "Just a knick-knack."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She pauses, watching as the candle emits a clear sign of arcane fluctuation, no surprise to her in a cemetery filled with spirits, yet it forces her to think."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ramona",
+          "text": "Wait. I've changed my mind."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Loggerhead",
+          "text": "Huh?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Loggerhead has barely enough time to register the item in her hand before the exorcist snatches it back."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She places the candle in her palm and studies it closely. Then she puts it away."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ramona",
+          "text": "I take it back. He might not be as loyal to the club as I thought."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Loggerhead",
+          "text": "What do you mean?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ramona",
+          "text": "I'll get you something else to take home."
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

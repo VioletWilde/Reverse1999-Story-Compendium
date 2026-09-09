@@ -1,0 +1,421 @@
+{
+  "episode_id": 10516,
+  "chapter_id": 105,
+  "chapter_title": "洞穴的囚徒",
+  "display_label": "",
+  "title": "雨日钟声",
+  "subtitle": "终其而言，天气预报员从来不止一位。",
+  "trails": [
+    {
+      "element_id": 1051601,
+      "owner_episode_id": 10516,
+      "trigger_episode_id": null,
+      "title": "IDM维护记录",
+      "description": "从机器维护记录中撕下的一页，有着被反复展开又合上的痕迹。",
+      "action": "交互",
+      "unlock_condition": "EpisodeFinish=516",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "IDM维护记录"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "11月8日更换穿孔纸卡，设备无异常。\n\n11月9日停机30分钟，检查接插线板。检查结果：部分电线\n轻微老化，无漏电、接触不良等情况。已报备并将电线加入本月离岛需购买物资明细表。\n\n11月10日停机30分钟，检查电机驱动情况。检查结果：性能良好。\n\n11月11日停机30分钟，检查示数装置。检查结果：表a1G4\n指针卡住，排查故障，发现表a1G4内部齿轮锈蚀。已报备并将\n示数表加入本月离岛需购买物资明细表。\n\n11月12日更换穿孔纸卡，设备无异常。\n\n11月13日设备无异常。\n\n11月14日设备无异常。\n\n11月15日停机1小时15分钟，更换示数表。另从岛外购得新\n型接插线板，计划于一日后更换。\n\n11月16日更换穿孔纸卡，设备无异常。\n\n11月17日更换新型接插线板。停机3小时，更换完毕。\n\n11月18日设备无异常。原接插线板的处理：拿给女儿了，苏菲亚\n她还挺喜欢研究这个。处理已经过批准。\n\n11月19日设备无异常。\n\n11月20日更换穿孔纸卡，设备无异常。"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100523",
+      "internal_title": "第五章5-16.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "雨日钟声"
+        },
+        {
+          "kind": "title_card",
+          "text": "岛屿 · 研究室"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "场景-岛屿-洞穴研究室-黄昏（洞穴里有一台巨大的IDM计算机）"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "这，这是什么……？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "你们的神圣研究……居然是一台巨大的IDM计算机？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "星锑已经熟练地打量起机器来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "我在拉普拉斯的时候就对它很感兴趣，后面的型号可比66年改进太多了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "不过这一台好像也没比66年的先进到哪去……不会是重塑卖给你们的废品吧？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "现象世界的东西都是废品。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "它早就无法使用了。“流溢”发生后，我们就找不到维修者了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "你们使用“流溢”来指代“暴雨”……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "这个词到底有什么含义？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "是灵性的潮涌。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "……我们被流放了，从那个完美无缺的理念世界，放逐到这个阴暗潮湿的洞穴里。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "所有人都沉湎于追逐墙上虚假的火光，遗忘了探寻“本质”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "但是灵性，会指引我们走出洞穴，回归到更高的存在中。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "哈……照你的说法，好像我们的世界就是个垃圾堆似的！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "不是吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "当然不是了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "啧，要我看啊，你从来都没有出过岛，所以根本就不懂外面的世界有多酷、多棒！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "胡椒博士、音乐节，还有罗里·斯托姆、赫里斯合唱团和滚石……好处用上你所有的指头都数不完！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "要不是这场倒霉的“暴雨”，我还在伦敦街头参加摩托车竞速赛呢！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "唔，你的灵魂应该很污浊吧？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "还有计算机，它一秒就能完成数以万计的计算，比十万个你加起来都强！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "数字并不是越大越好啊。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "而且，它一直没有发挥过什么作用——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "拜托，老兄！你们把它放在洞穴里，就像把婴儿独自丢在厨房——难道还能指望它给你们做大餐吗？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "算了，等我把它修好，你就懂了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "星锑嘟囔着爬到了机器下面。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "……星锑，你会修IDM吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "不会，但我看拉普拉斯的人用过——我想难不到哪里去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "呃，好多灰尘……我说，你们有多久没打扫过这里了？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "有魔精在机箱里安了家！它们正在里面开派对呢！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "维尔汀，来搭把手！它们不让我抓！"
+        }
+      ]
+    },
+    {
+      "script_id": "100524",
+      "internal_title": "第五章5-16.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "计算机的屏幕正跳跃着绿色的数字。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "驱除寄生的害虫后，这台蒙尘的庞然大物奇迹般恢复了生机。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "……竟然真的修好了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "让你来打扫研究室真是太正确了，星锑！你的浮点一瞬间都减去了好多位！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "……听起来似乎是个夸奖？那我就不客气地收下啦！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "这是个文字游戏，船长。无限无论减去多少都还是无限。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "好吧，好吧！我早该放弃改变你们评价体系的想法。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "难道人类发明计算机，只是为了在这个岛上给魔精当家吗？唉……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "多亏了你，我们可以查看之前的模型了，星锑。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "不过很可惜，它里面只有2003年以前的记录，近四年来的数据是缺失的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "37以不应有的熟练操作起机器来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "这就是我们的年表，维尔汀。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "从1999年到2007年，一共发生了七次“流溢”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "在最初的四年里，“流溢”非常具有规律。先是90年代，然后80年代，70年代。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "然后骤然跳跃到了30年代，接下来的三年里，一共发生了2次“流溢”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "这些记录与基金会的丝毫无差。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "……等等，你说这里只有2003年前的记录？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "可这上面却有1966年的“暴雨”……它是近年发生的！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "浮窗道具收起"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "这里面的确只有2003年前的观测数据。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "后面是我们的推算。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "嗯，你是说你们在四年前就预测到了1966年的“暴雨”……？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "这怎么可能……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "你们能做出这种数学模型，却放任机箱里长满那些蠢魔精？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "我们只是找出了数字的规律。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "你们没有离开岛屿，却能做出如此精确的预测……不可思议。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "37有些不满地撇了撇嘴。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "探究本质并不需要踏足其中。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "而且，我们有派人前往现象世界观测，我的妈妈就是其中一员。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "她也是这个模型的创建者，没有人比她更了解这台机器。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星锑",
+          "text": "……所以你也有老妈？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "……也？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "……37，你的母亲，她现在在哪里？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "她和很多人一起被还原为了本质。从那之后，我就接手了这间研究室。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "37，你说的本质，指的是什么……？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "这是什么问题？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她歪了歪头，好像发自内心感到不解。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "本质，就是一切虚假被击碎后，最后剩下的东西。"
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

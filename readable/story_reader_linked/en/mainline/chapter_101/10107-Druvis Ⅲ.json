@@ -1,0 +1,339 @@
+{
+  "episode_id": 10107,
+  "chapter_id": 101,
+  "chapter_title": "In Our Time",
+  "display_label": "",
+  "title": "Druvis Ⅲ",
+  "subtitle": "She stood here. She was not waiting for anyone, nor was she trying to remember anyone.",
+  "trails": [
+    {
+      "element_id": 1010701,
+      "owner_episode_id": 10107,
+      "trigger_episode_id": null,
+      "title": "Trail ① Incantation Upgrade",
+      "description": "A record on how to make incantations more threatening.\nMerging incantations will improve their power and even change their effects.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=10106",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1010702,
+      "owner_episode_id": 10107,
+      "trigger_episode_id": null,
+      "title": "Incredible Unicorn",
+      "description": "Sotheby's mansion has thousands of artifacts. What is the thing with one horn hung high above her hall that always gazes at people?",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=10106",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100110",
+      "internal_title": "第一章1-8.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "Druvis Ⅲ"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Critters",
+          "text": "*appear*"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Critters",
+          "text": "Sss!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "No, too many of them. We can only take one round at most, not for long."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "Critters keep coming from the roots. Are they living here?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Critters",
+          "text": "…!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Coming again. Careful!"
+        }
+      ]
+    },
+    {
+      "script_id": "100111",
+      "internal_title": "第一章1-8.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "*coughing*"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Timekeeper, did you see my mark on the map?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Yes."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "According to my calculation, that's the closest position to the edge of the woods."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "In one minute, I'll cover you to move in the opposite direction! Remember, there's a slope two miles away that can slow down the critters."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "Ms. Sonetto, aren't you coming with us?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Suppressed by such an overwhelming number, we can't get out!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Don't worry. The action strategy would be more flexible if there's only me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "As long as the enemies are not ghosts ... no, even if they are ghosts, I will survive."
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "I trust you.",
+          "edge_label": "我相信你",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "Sonetto",
+              "text": "Please trust me. Just like ... how we used to be."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "Where do we meet then?",
+          "edge_label": "我们在哪里会合？",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "Sonetto",
+              "text": "..."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "Sonetto",
+              "text": "I will always find you. Please retreat quickly."
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Let's go, Mr. APPLe."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "May the peace be with us."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Critters",
+          "text": "…!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "They are all coming for us!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "... It's a good thing."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Maybe we covered Sonetto."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "As long as one of us can leave the woods, there's hope for the rest."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Critters",
+          "text": "…!!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Too late to climb up the slope. Get ready to fight!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Mr. APPLe, how much longer can you hold on?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "Though it may not sound like what an apple should say ... this APPLe will fight with you to the last moment!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Critters",
+          "text": "…!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "Vertin, look out!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Hmm?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "No offense."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Would you please pass me my heel?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "It seems to have fallen into your arms."
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "... Who are you?",
+          "edge_label": "……你是谁？",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "Druvis Ⅲ",
+              "text": "I am Druvis III, the owner of the woods."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "... Why are you in such a high place?",
+          "edge_label": "……你为什么在这么高的地方？",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "This is my promised land."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "Druvis Ⅲ",
+              "text": "I am Druvis III. It's my pleasure to meet you."
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "... The heels ... here you are."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis Ⅲ",
+          "text": "Thank you. Then I will come down and clean up the mess."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis Ⅲ",
+          "text": "It's fine to land barefoot. However ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis Ⅲ",
+          "text": "I don't like touching them directly ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis Ⅲ",
+          "text": "... These invaders."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Critters",
+          "text": "…!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "She beats hundreds of them with one single move?! Is it the power of her wand ...?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "No, the arcane circle she cast is pretty archaic. She must have a European arcanum background."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis Ⅲ",
+          "text": "It has been a long time since I saw the arcanist visitors."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis Ⅲ",
+          "text": "Thank you for helping me expel the critters. Then, as for the ones left ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Druvis Ⅲ",
+          "text": "Just as the woods prophesy in whisper—invaders, you shall offer your sacrifice for the peace."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Please allow us to assist you!"
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

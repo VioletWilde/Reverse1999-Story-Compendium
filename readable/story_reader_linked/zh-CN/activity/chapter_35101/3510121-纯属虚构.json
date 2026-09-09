@@ -1,0 +1,802 @@
+{
+  "episode_id": 3510121,
+  "chapter_id": 35101,
+  "chapter_title": "绿松石蛇俱乐部",
+  "display_label": "",
+  "title": "纯属虚构",
+  "subtitle": "对真实性概不负责。",
+  "trails": [
+    {
+      "element_id": 3510119,
+      "owner_episode_id": 3510121,
+      "trigger_episode_id": null,
+      "title": "返程",
+      "description": "与新朋友告别，与新朋友一同启程。",
+      "action": "对话",
+      "unlock_condition": "EpisodeFinish=3510121",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "你的帽子下是什么？"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "头脑",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "所以没有奇怪的东西贯穿了你的太阳穴。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "太好了，我可受不了第二个神经病。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "如果有根骨头卡在你脑子里，那你最好去看医生。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "那你可得趁现在多炫耀炫耀。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "能以外貌为傲是年轻人的特权，到老了就只能炫耀脑子上的褶皱了。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "所以为了晚年着想，如果你脑子里卡了根骨头，就赶紧去看医生。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "而不是觉得自己好得很还到处闲逛。"
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "那我早就死了",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "她也死了，然后又活了。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "不该死的人有很多，偏偏是她享有了特权。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "她还仗着这些特权为所欲为。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "我也很疼，膝盖、腰椎、肩膀……不管下不下雨，每天都在疼。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "但我没有因此获得什么足以随心所欲，甚至超越死亡的力量。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "这样一个只知道到处添乱的东西，偏偏得到了永恒……"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "世界真是完蛋了。"
+                }
+              ]
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "听上去很疼",
+              "edge_label": "",
+              "branch": []
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "我的脸",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "203534",
+      "internal_title": "【3.5】绿松石蛇俱乐部21",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "基金会·办事大厅"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "灰白格子地板纤尘不染，反射出来往的匆匆身影。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "工作日的午后，圣洛夫基金会的办事处门可罗雀。窗口前，手持笔记本的青年作家正在“唰唰”地记录着什么。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "我已经构思好了这个故事的核心切入点：一个贯穿案件始终，在壁画上构建的隐喻！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "非常感谢你，女士！感谢你愿意让我以你的经历作为小说原型。我一直很想回到不同年代的墨西哥采风，只是至今没找到合适的机会外出。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "噢，或许我也可以称呼你为蝴蝶女士——我喜欢这个名字。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛伦兹蝴蝶",
+          "text": "当然，亲爱的小作家。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "在我看到你的那一刻，我就知道你身上绝对有些不同寻常的地方。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛伦兹蝴蝶",
+          "text": "这算是一个赞美吗？那我就接受了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "闻言，端坐在办事窗口后的职员终于忍不住开口。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "命名日",
+          "text": "虚构集小姐，这半个多钟头里，我听见了类似的句子至少三次。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "命名日",
+          "text": "作为搭讪开场白，它固然有效，能从别人那里捞到些隐藏的故事，但……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "咳咳……你这么说是不对的！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "因为只有蝴蝶女士真正把自己的故事告诉我了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "菲林士多导演建议，我应该跳出只描写自身经历的怪圈，写一些身边的人与事。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "我觉得她的提议非常有道理。也许这样，我就能不再受困于那片不安的水域……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "命名日",
+          "text": "是的，是的，我已经明白，接下来的一段时间，你要打算沉迷于什么了——新的题材、新的观点。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "命名日",
+          "text": "你的本能总在告诉你，新颖又危险的事物是好的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "这难道不是一场精彩绝伦的冒险吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "如果想让剧情呈现得更曲折一些，我应该从穆列尔的角度来写这篇悲伤的故事！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "在“暴雨”中失散的友人，逐渐支离破碎的自我——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "也许我可以通过这样的故事，来永远铭记那些被“暴雨”回溯的友人们。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛伦兹蝴蝶",
+          "text": "这也算是一种文字永生了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "命名日",
+          "text": "我喜欢这个地狱笑话。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "当然，神秘、优雅、美丽的女杀手视角也很好，甚至其中的反社会性格部分也抵抗了经典的市场潮流……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "基金会职员欲言又止地看着面前口无遮拦的青年作家。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛伦兹蝴蝶",
+          "text": "请随意，虚构集小姐。你完全可以按照你喜欢的方式来编写这个故事。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛伦兹蝴蝶",
+          "text": "我只是需要通过这个故事，去找到一个人——当初那个让我加入洛伦兹的人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛伦兹蝴蝶",
+          "text": "假设她如今仍在基金会留有眼线，这样的“寻人启事”，已经足够让她露面了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "请放心，蝴蝶女士。我会尽力把这个故事传遍基金会的——并且对其中的情节进行适当的加工，模糊掉里面的人名与地点。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "噢，当然，故事的核心仍然是文化现象的变更、阶级冲突和社会矛盾……还需要构建一个足够复杂的情节关系，这样才有剧情张力……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "命名日",
+          "text": "还有一粒灰尘那么点大的“真实性”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "你无权指责一篇小说的真实性！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "眼看青年作家已经忍不住在笔记本上书写起来，基金会职员连忙打断了她。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "命名日",
+          "text": "来，虚构集，给你。你的表格已经处理好了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "谢谢你，命名日先生。我险些忘了我来这儿是要干什么的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "命名日",
+          "text": "莱瑟姆小姐应该非常开心吧——毕竟在你加入神秘学藏品管理部之后，她也终于能够拥有一名下属了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "命名日先生，你就是因为说错了太多话，才会被发配至这里盖章。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "莱瑟姆小姐是个称职的前辈!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "命名日",
+          "text": "请注意，这可不是发配。这只是远东分部办公室主管上任前的必经之路。一些官僚主义流程，你懂的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "我对这些官僚主义的产物一丁点儿兴趣都没有。自从莱瑟姆开始休病假后，神秘学藏品管理部的这些文书工作才不得不落到我头上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "命名日",
+          "text": "欢迎来到官僚主义的大本营。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "命名日",
+          "text": "对了，你刚刚说起病假？莱瑟姆小姐怎么了吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "现在她正躺在康复中心里更换零件呢。说实在的，是维尔汀给了她能出外勤的虚假自信。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "为了能尽快摆脱一无所知的状态，我正在尝试和这个累赘又庞大的机构以及它无效的文书工作和谐共处。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "文字真不该被用作干这种事——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "如果维尔汀有第二次对抗基金会的计划，请迅速通知我。在这方面我可是专家。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "命名日",
+          "text": "我会帮你打探消息的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "命名日",
+          "text": "和之前一样，把你的新作寄一本来当报酬就行。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "当然，我最忠诚的读者！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "命名日",
+          "text": "阿莱夫先生、马库斯小姐、十四行诗小姐、莱瑟姆小姐、菲林士多女士、金蜜儿小姐、数羊羔小姐，现在还有我，你“最”忠诚的读者真的很多。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "还有皮克勒斯！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "女孩胡乱地将这些盖着各种印章的公文夹进笔记本里。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "蝴蝶女士，我还有一个疑问。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "你一直站在这儿，看起来并不是为了处理什么事务，也并非和我们闲聊——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "你是在等什么人吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "贡献了精彩故事的杀手女士还没来得及回答，办事处的大门被猛地推开，伴随着争吵，两名拉普拉斯研究员大步走了进来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "这根本不合常理！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "我搞不明白她到底哪来的时间写论文的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "代理负责人高举手中的挑衅信，语气充满愤怒。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "乌尔里希",
+          "text": "冷静些，洛伦兹蝴蝶已经把所有的实验报告都寄给了我们。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "乌尔里希",
+          "text": "严格来说，洛伦兹研究所也是拉普拉斯内部的机构，这代表着拉普拉斯取得了重大的科研突破。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "什么时候、由谁承认过洛伦兹研究所的合理性了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "我们需要一手的实验数据和材料！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "乌尔里希",
+          "text": "人事委员会对这次行动的结果非常满意，路德维希先生也表示不要再追究其中的细节。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "但他没有反对我签发调查许可文件。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "莱瑟姆女士的调查报告中，提到了一个不起眼的异常。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "曾经协助莱瑟姆女士调查的夜巡特遣除灵师推断，在那段时间里，有一名基金会工作人员在此事中牵扯颇深。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "据说对方申请调用了不少夜巡特遣的资料，并且多次出入案发现场。有不少执夜人都见过她。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "乌尔里希",
+          "text": "所以呢？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "所以？！所以这个名叫琼斯女士的职员，极有可能就是洛伦兹蝴蝶！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "她掌握着基金会内部的信息渠道，这就是她总是先我们一步的原因。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "代理负责人走至窗口前，马上认出了等候在此处的拉普拉斯同事。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "噢，玛格丽特。你在这儿干什么？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛伦兹蝴蝶",
+          "text": "阿德勒先生，下午好。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛伦兹蝴蝶",
+          "text": "我来这儿上交基金会需要的“暴雨”气象观测数据……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她的面上恰到好处地流露出担忧的神色。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛伦兹蝴蝶",
+          "text": "您和乌尔里希组长……是科算中心发生什么事情了吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "没什么。你听说过洛伦兹研究所的传闻吧，那个潜伏在拉普拉斯内部的组织。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛伦兹蝴蝶",
+          "text": "是的，当然。真不知道他们的目的是什么……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "最近我们又收到了洛伦兹蝴蝶的挑衅信。还有她顺带写的论文。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "当中涉及的实验非常重要——具体仍处于保密阶段，但要不了多久你就会知道了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "简单的寒暄过后，代理负责人转向柜台，递出文书。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "你好，我想申请调查……圣洛夫基金会布宜诺斯艾利斯分部……“暴雨”时代……什么部门来着？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "历史监测部门……委外合约人才管理组织，特遣调查官琼斯女士的详细资料。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "柜台后的职员神色有些古怪。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "命名日",
+          "text": "不好意思，先生，我没有听清。能麻烦您再重复一遍吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "……圣洛夫基金会布宜诺斯艾利斯分部“暴雨”时代历史监测部门并委外合约人才管理组织特遣调查官，琼斯女士。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "命名日",
+          "text": "我很确定布宜诺斯艾利斯分部并没有这么一个部门。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "命名日",
+          "text": "至于姓氏为琼斯的女士，在基金会中共有63名，身处布宜诺斯艾利斯分部的则有整整4名。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "乌尔里希",
+          "text": "哈哈哈，这果然是个假身份！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "我开始后悔让你一起跟来了，乌尔里希。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "乌尔里希",
+          "text": "乐观点。你没有认真看过洛伦兹蝴蝶发的论文吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "乌尔里希",
+          "text": "冷周六仔细研究过里面的实验数据，她推断，实验消耗的颜料并不多，洛伦兹蝴蝶手上必定还有一定量的矿物颜料剩余。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "拉普拉斯一定要得到剩余的矿物颜料。也许我们可以搜查总部的大楼——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "乌尔里希",
+          "text": "看来你确实想让拉普拉斯变得更混乱一些，阿德勒代理负责人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "乌尔里希",
+          "text": "再说，拉普拉斯并不缺乏材料研究的专家，冷周六已经在尝试复制这种矿物颜料了！过不了多久，我们就能制作出一模一样的东西来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "我需要赶紧回去看看有没有能帮上忙的地方。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "乌尔里希",
+          "text": "得了吧，你只是个物理学家。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "两位研究员争执着走远了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛伦兹蝴蝶",
+          "text": "慢走，阿德勒先生，乌尔里希组长。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "哑谜",
+          "text": "再见，玛格丽特。我们先回去了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一旁的青年作家连忙在笔记本上记下最新的灵感。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "蝴蝶女士等候在此处，是为了享受最完整的胜利，她早已预判了一切！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "嗯？对了……故事的续集就从矿物颜料的去向展开吧！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛伦兹蝴蝶",
+          "text": "其实，剩余的矿物颜料，并不在我的手上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛伦兹蝴蝶",
+          "text": "我把它交给了一位“合作伙伴”。"
+        },
+        {
+          "kind": "title_card",
+          "text": "箱中一隅"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "佩雷斯妈妈",
+          "text": "打起精神来，孩子们！把今天的活儿办好了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "佩雷斯妈妈",
+          "text": "毕竟这可是我们老鼠最擅长的事情。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "佩雷斯二世1号",
+          "text": "我知道了，妈妈，今天我们要去偷东西吃！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "佩雷斯二世2号",
+          "text": "不对，你这个蠢货！是去翻垃圾！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "佩雷斯妈妈",
+          "text": "……孩子们，是做黑色生意！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "佩雷斯二世1号",
+          "text": "好的，妈妈。这确实也是老鼠所擅长的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "佩雷斯二世2号",
+          "text": "不过还是不如翻垃圾来得擅长。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "佩雷斯二世1号",
+          "text": "妈妈，昨天有人问我能不能站在他脑袋上，操纵他画画——我长大之后，能去干这个吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "佩雷斯妈妈",
+          "text": "等你长大之后再说吧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "佩雷斯妈妈",
+          "text": "听好了，孩子们，那个可怕的雌性神秘学家胁迫我签订了一千多条的协议，作为后续提供矿物颜料的条件交换。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "佩雷斯妈妈",
+          "text": "在我们有足够的能量去反抗她之前，咱们都得替她办事了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "佩雷斯妈妈",
+          "text": "她交给咱们的第一件活儿，就是把绿松石蛇俱乐部的全部手尾都扫干净。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "佩雷斯妈妈",
+          "text": "我花了好几天才处理完俱乐部的事情，保证让后来调查的人找不到一丝痕迹。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "佩雷斯妈妈",
+          "text": "现在是最后的封口工作了。为此，我还和那个夜巡特遣的除灵师私下联系过，最终答应要帮她好好安置那幅画……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "佩雷斯二世1号",
+          "text": "噢，是的，妈妈。我们费了好大的劲儿才把画里的垃圾场清理干净！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "老鼠敲响了箱子里的门扉。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "嗯……？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "佩雷斯妈妈",
+          "text": "尊敬的女士，想必您就是众人经常提及的司辰了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "佩雷斯妈妈",
+          "text": "听说您的箱子中有许多画框，里面空空如也，等待着一幅画的入驻——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "佩雷斯妈妈",
+          "text": "请问您是否有兴趣，收留这幅艺术品呢？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "几只老鼠卖力地将一幅收拾干净的画作搬来，放在脚边。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "《湖边的女人》",
+          "text": "你好，亲爱的司辰……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "《湖边的女人》",
+          "text": "虽然这样有些唐突，但——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "《湖边的女人》",
+          "text": "我能留在你的手提箱里吗？"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

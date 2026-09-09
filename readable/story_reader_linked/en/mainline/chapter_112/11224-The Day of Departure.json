@@ -1,0 +1,643 @@
+{
+  "episode_id": 11224,
+  "chapter_id": 112,
+  "chapter_title": "远征记",
+  "display_label": "",
+  "title": "The Day of Departure",
+  "subtitle": "After the dust settles, he makes the decision.",
+  "trails": [
+    {
+      "element_id": 1122401,
+      "owner_episode_id": 11224,
+      "trigger_episode_id": null,
+      "title": "Invasion",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=11224",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Give me a minute; I'll go deal with the intruder."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Walking into my home with blood-soaked boots! Tsk. Such insolence. Does he think sending people to die makes him special?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "He'll pay for this in blood!"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "Just have him change shoes.",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "That's nowhere near enough. He'll have to scrub every bloodstain off the floor."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "I don't want to hear any excuses. This whole mess is his own fault."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "I AM calm. He brought the blood here, so he'll pay by cleaning up every drop."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "I won't even lend him a rag—he can use that fancy coat of his for all I care."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "So he claims those \"big shots\" forced him to stain his hands, huh? How convenient."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "And this plan to \"restore everything to how it was\"? Utterly foolish."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "But the fact that he followed it to the letter makes him no different from the ones who devised it."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "To realize their \"grand vision,\" those so-called realists kept piling weight on one side of the scale ..."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Sacrificing one innocent life after another just so someone could remember a name that wasn't hers anymore. Absurd."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "I have one thing to say to those arrogant megalomaniacs wanting to play gods: anyone who has forgotten their own name is as good as dead—and forcing them to wear it again won't change a thing."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "What happened has happened. Those bloody footprints can never truly be erased."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "Please calm yourself!",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "101234",
+      "internal_title": "第十二章12-24",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "The Day of Departure"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The streets of Bereggrad are packed. The people hug and laugh, and the soldiers drink and sing to their hard-won victory."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "But deep below the church, in a room from another age, there is nothing but silence."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The white marble chair is smooth and cold. The touch of a fingertip sends a distant call across time and space."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Is it really you?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Ah!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She sits, and a pain prickles through her skin, a pain that is not her own."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "What have you been through?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Where are you?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Shh. We should let her get some rest."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Vertin."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Who are you?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "We all walk our own paths, seeking our own answers."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "But our paths will surely cross again."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Timekeeper?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She gets to her feet, tearing her from those memories and thrusting her back into the real world."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The footsteps that follow carry a note of caution."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Igor",
+          "text": "This room had always been locked to me, but now ... Tch. It is blindingly white."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Mr. Igor."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Igor",
+          "text": "I wouldn't sit in that chair. Not unless you know it to be necessary."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Urd sat here. I wanted to try it myself."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Igor",
+          "text": "Find anything useful?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Some documents on the experiment. The person who told me about this room might be interested."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "But if you mean to ask about Urd specifically, I haven't learned anything more than I did on my first visit."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "You were there. What do you know about the experiments in this room? What did they want from her?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her usually reasoned words come quickly, driven by her hunger for answers."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "What did you do to her?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Igor",
+          "text": "The things the Pax House did to Urd ... I'm sure you've pieced it together somehow."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Igor",
+          "text": "After the second \"Storm,\" the Foundation led an effort to build an emergency response system."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Igor",
+          "text": "But after Manus Vindictae reared their head and in the wake of the vanishing of two eras, we realized no system could stop the \"Storm.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Igor",
+          "text": "We needed Urd."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "And you tracked her down, only to find she'd become someone else, an investigative journalist, a humanitarian doctor, anything but the identity you were hoping for."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "You tried every method to force that version of her, a blind woman you had no need of, into becoming Urd again, the one from 1999."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Igor",
+          "text": "We, or the Pax House, believed that ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Igor",
+          "text": "No matter the nature of the \"Storm,\" whether Manus Vindictae forged new psyches from the realm of souls or twisted the entire material world to warp memories on a universal scale ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Igor",
+          "text": "The key to every question about the \"Storm\" was tied up in Urd, the original Urd. The Loop Laboratory and the vessel ensoulment experiments conducted here were dedicated to finding that key."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Was that your goal to find her and end all this?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Igor",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The old admiral closes his eyes, either to recall or avoid."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Igor, do you also want to return to the era before the \"Storm\"?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "No reply comes. Igor moves to a corner as if searching for something."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Igor",
+          "text": "Just as I suspected, they didn't have time to evacuate with these materials."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "From a pile of disks, he lifts a white book as thick as a dictionary."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Igor",
+          "text": "Take it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "It's heavy."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Its surface is as cold and hard as marble."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Igor",
+          "text": "The weight of 43 souls combined."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Igor",
+          "text": "The souls of those whose identities were \"displaced\" after the \"Storm.\" I abducted them from all around the world—a way to regain my footing among the ranks."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Igor",
+          "text": "I placed my trust, my hope even, in the Foundation, believing that these experiments would one day bring back the people I loved."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "But you chose to walk away."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Igor",
+          "text": "43. Each soul left behind a husk. I buried every one of them."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Igor",
+          "text": "I've buried so many people since the \"Storm.\" I've lost count. I stopped counting."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He takes the black cube from his coat and murmurs an incantation. It floats above his palm."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Igor",
+          "text": "Arcana's body was annihilated, but Her presence endures."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Igor",
+          "text": "Even with my modest lineage, I feel Her presence everywhere, at all times."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Igor",
+          "text": "She bestowed on me a \"boon\" that let my army cross the \"Storm.\" It worked, as She promised."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Igor",
+          "text": "But after leaving Antarctica, the barrier that \"boon\" created could shelter only one person. I did still use it as a beacon to find a new sanctuary, but it cost us dearly in time and effort."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Igor",
+          "text": "Meanwhile, Krutov seized the opportunity to wreak havoc along the Don."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A bitter smile colors Igor's face, and he stops channeling arcane energy into the \"boon.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Igor",
+          "text": "This is Arcana's mockery of me—the mixed-blood arcanist who dared mimic Noah."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "But you managed to build your own ark, didn't you?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He gives a dry laugh that is neither a yes nor a no."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Then he sets the \"boon\" down on the white book."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "When she reaches out to it, the ever-present threads pull taut, then fade into the air."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "...?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Igor",
+          "text": "You are the true savior destined to lead us from the flood. Take it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Igor",
+          "text": "Back to our deal, Timekeeper. I brought you to this laboratory as promised and told you secrets the Foundation would rather keep hidden."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Igor",
+          "text": "Along with this \"boon,\" I believe I have done enough to earn your favor."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "What is it that you want?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Igor",
+          "text": "Only that you consider me a partner in the future, so that we may help each other when the need arises."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "I'm still the Timekeeper of the St. Pavlov Foundation. You're betting your life and freedom on nothing more than my favor."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Igor",
+          "text": "Not my first gamble. I have confidence. You and I share the same enemy in Arcana."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Igor",
+          "text": "There's another matter. Krutov has passed the mask trial. He is more dangerous than ever before."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Igor",
+          "text": "We defeated him at Tamarovka, but there was no sign of his body."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "So you're suggesting ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Igor",
+          "text": "Manus Vindictae lacks leaders with modern military training. I suspect Krutov will become key to their future conflicts with the Foundation."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Having left the Timekeeper to her devices, Igor slips past the street celebrations and leaves Bereggrad."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Moldir",
+          "text": "Father."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Igor",
+          "text": "As you said, Moldir, the Timekeeper is unlike most of her colleagues."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A soft laugh comes through the communicator. The events at the South Pole are still fresh in her mind."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Moldir",
+          "text": "She is a truly extraordinary young woman. Based on my collaboration with her team in Antarctica, I'm sure she has prospects beyond the Foundation."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Moldir",
+          "text": "I hope your meeting brought something of value."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Igor",
+          "text": "It did, to my surprise."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Igor",
+          "text": "Recall all personnel on the field to the sanctuary. We need to accelerate recruitment and redeployment."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Moldir is temporarily rendered silent by the abruptness of this order."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Moldir",
+          "text": "Yes, Father."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Igor",
+          "text": "Let the residents of any nearby villages join us if they wish. We need all the strength we can muster."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Moldir",
+          "text": "All of them?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Igor",
+          "text": "Civilian or soldier, human or arcanist—take them all in."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The admiral answers with unwavering conviction."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Igor",
+          "text": "And keep an eye on Ptolemy until I return."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Igor",
+          "text": "And should I not return, command of the Gryphon Legion will be transferred to you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Moldir",
+          "text": "Father?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Igor, standing on the bank of the Don, gives the old city one last glance and ends the call."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "What's the rush, old man?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A gun muzzle presses to the back of Igor's head."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Igor",
+          "text": "I've been expecting you, Lieutenant Lilya."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "So you recognize that Ptolemy is a good-for-nothing bastard, then? At least you're a better father than you are a soldier."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "But being a half-decent father won't save you from the crimes you've committed or the lives you've taken."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "I said it before, I'll say it again: I will personally escort you to the judgment seat."
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

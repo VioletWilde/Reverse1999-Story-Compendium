@@ -1,0 +1,26 @@
+# Main Story · 行于漫漫长路上
+
+- [11101 After the Flood](11101-After the Flood.md) — A new era bearing many marks of another time, caught in an endless spiral of war.
+- [11102 Old Boots](11102-Old Boots.md) — They once belonged to an unfortunate soul, but perhaps they will grant you better luck.
+- [11103 Battle of the Birds](11103-Battle of the Birds.md) — Those who claim the pen is mightier than the sword rarely seem to live by their words.
+- [11104 Grayish Blue](11104-Grayish Blue.md) — Shrouded in shadows and fog.
+- [11105 Chrysanthemum](11105-Chrysanthemum.md) — Hollow brass tubes stack into mountains beyond counting.
+- [11106 A Push for Peace](11106-A Push for Peace.md) — Inside the briefcase lies irrefutable evidence that peace is possible.
+- [11107 Under the Veil](11107-Under the Veil.md) — The bullet spares neither the kind nor the cruel; all are caught in the same tragic fate.
+- [11108 Death of the Young](11108-Death of the Young.md) — Both life and death are equally insignificant.
+- [11109 Paths Crossed](11109-Paths Crossed.md) — Whispers of movement lost beneath the clamor of calamity.
+- [11110 Devil's Work](11110-Devil's Work.md) — Sounds both gentle and harsh—the whispering wind and rustling grass.
+- [11111 Wounds and Scars](11111-Wounds and Scars.md) — No one can make sense of why this war drags on.
+- [11112 A Fractured Sanctuary](11112-A Fractured Sanctuary.md) — Legends say those stone statues come to life at night.
+- [11113 Concessions for Peace](11113-Concessions for Peace.md) — Could any treasure on earth possibly fill the void our losses have left?
+- [11114 Two Pounds of Sugar](11114-Two Pounds of Sugar.md) — So long, hungry rats!
+- [11115 Send-off](11115-Send-off.md) — They remembered an ancient verse, with whose meaning is lost to history.
+- [11116 An Unfulfilled Prophecy](11116-An Unfulfilled Prophecy.md) — Even now, her tears remain.
+- [11117 Serenity on the Wind](11117-Serenity on the Wind.md) — If only this war had never begun ...
+- [11118 The Armistice](11118-The Armistice.md) — History will remember this day.
+- [11119 A False Dawn](11119-A False Dawn.md) — Only the dead have seen the end of war.
+- [11120 Gates of Hell](11120-Gates of Hell.md) — This marks the beginning of another tragedy.
+- [11121 1-Hour Politics](11121-1-Hour Politics.md) — Practical results often hold more weight than following orders.
+- [11122 Brimstone and Fire](11122-Brimstone and Fire.md) — Past the borders of bloodshed, boundaries, and concepts of purity and corruption.
+- [11123 The Pardon](11123-The Pardon.md) — Coffee, pastries, family, memories of simpler times, and an ominous chain.
+- [11124 The Hill](11124-The Hill.md) — A tiny fraction of those names.

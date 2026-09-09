@@ -1,0 +1,445 @@
+{
+  "episode_id": 3110108,
+  "chapter_id": 31101,
+  "chapter_title": "The Midnight Whistle",
+  "display_label": "",
+  "title": "The Railway Cat",
+  "subtitle": "Vampire where's the vampire has he gone to stoke the fire?\nWe must find him or the train can't start.",
+  "trails": [
+    {
+      "element_id": 3110106,
+      "owner_episode_id": 3110108,
+      "trigger_episode_id": null,
+      "title": "Measured Words",
+      "description": "A skilled investigator learns the most from the fewest words.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=3110108",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "Passenger Information Log"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "...\n\nSonya, 60 years old\nA noblewoman, sharp-tongued and fussy, seemingly fleeing from the war.\nSixty years of pride might have made it hard for her to face reality.\n\nShe was supposed to travel with her butler, but tickets for the \"Danube Dawn\" were nearly impossible to get.\nIt seems war treats nobles and commoners alike, or perhaps her family's status isn't quite as lofty as she makes it seem.\n\nAfter ten minutes of complaining about having to travel alone, with no butler to set her table or press the creases from her skirt, she finally boarded by herself.\nDo people really spend their whole lives learning to place their cutlery at a perfect forty-five-degree angle? In any case, she's the archetype of a noblewoman straight out of an oil painting, gown in hand. Let's hope that on her road of escape, she learns what the world is really like.\n\n......\n\n...\n\nArbuthnot, 45 years old\nMiddle class. A decent, respectable gentleman.\nNothing remarkable about his demeanor—just an ordinary man who fits neatly into his social standing.\n\nA businessman with investments in Eastern European railways and oil.\nVital infrastructure and strategic resources. He's well-connected and has an eye for opportunity.\n\nThe war cost him dearly, and he worries for his future.\nSpecial times demand special measures. What troubles him isn't death or hunger—it's the thought of losing a life of luxury forever.\n\n......\n\n..."
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "203110",
+      "internal_title": "【3.1】长夜鸣笛08",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "Seating Carriage"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The hour is late and the lamps dim. Passengers return to their compartments one by one, the soft sway of the train soothing them to sleep like a lullaby."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Only two passengers remain in the shared space, seated face-to-face in silence."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Verity",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "Madam, would you mind putting down your pen? I need to take your information."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Verity",
+          "text": "Verity, British, arcanist. I like coffee, battered cod, and breezy nights."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Verity",
+          "text": "I hate deadlines and rainy days."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Verity",
+          "text": "There. That's all there is to know about me. Now it's my turn to ask the questions."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The editor sets down her pen then leans deep, as if passing along a secret."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Verity",
+          "text": "Have you found it?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "I don't know what you're talking about."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Verity",
+          "text": "Hah. Well, that's a \"no,\" then."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She waves her hand halfheartedly."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Verity",
+          "text": "No matter. I'm sure even the most compelling of stories would turn to a dull report when put in your hands."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Verity",
+          "text": "Goodbye. Best of luck with your work."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Semmelweis closes her pen and files, but the editor, struck by a thought, speaks again."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Verity",
+          "text": "Ah, but since you've been looking so diligently, I suppose I might throw you a bone."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "Yes?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She leans closer still, giving a wink to the investigator."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Verity",
+          "text": "Rumor is many passengers aboard this train have heard crying during the night."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "Crying? What kind of crying?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Verity",
+          "text": "Hmm ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Verity",
+          "text": "It starts soft, then turns to a hissing sound, lasting, echoing, and then, all of a sudden, it stops."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She grips her own throat, smiling at the investigator."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Verity",
+          "text": "Like a kitten being strangled."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Verity",
+          "text": "Well? How did you like my little ghost story?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "Wait, there's something behind you, hanging in midair. It looks like a strangled kitten."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Expressionless, Semmelweis shuts down the clumsy joke."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Verity",
+          "text": "*chuckle* A good attempt, really. But not nearly enough to work on me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The editor straightens but doesn't shed her smile."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Verity",
+          "text": "Back to your work then, Little Miss Clueless."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The registration is finally done."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Feeling a trace of fatigue, Semmelweis returns to her seat and opens her files to review."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "One of the few trains that travels across the peninsula ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "A crew with as of yet unidentified backgrounds and a haunted carriage ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "All passengers on the manifest have been registered. No notable discrepancies to be found."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She stows the papers."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Everything falls into place too neatly, every absurdity justified, but something is off."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "And still no sign of the Manus. It seems the key to all this lies with the conductress."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "What is she hiding?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "We're stopping?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Passenger II",
+          "text": "Excuse me, sir. Why is the train stopping? I'd just gotten to sleep."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The steward hurries through the corridor, calming the roused passengers."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Train Steward",
+          "text": "Apologies for the interruption. I'm afraid the train must come to a temporary stop."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Train Steward",
+          "text": "The rail ahead is impassable because of the heavy snow."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Train Steward",
+          "text": "The situation is being dealt with as we speak. Please stay in your rooms and remain calm."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Train Steward",
+          "text": "The dining carriage will come round to deliver nighttime desserts. We have Leipzig lark cake and Turkish delight. Should you require anything else, please let me know."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "Snow?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She lifts a corner of the curtain."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Snowflakes drift outside, brushed about lazily in the waning storm."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "Snow indeed, but it hardly seems heavy enough to warrant a stop."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "On the other side of the train, the little vampire remains fast asleep."
+        },
+        {
+          "kind": "title_card",
+          "text": "Stewardess's Cabin"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "*gentle breathing*"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Rubuska lies sprawled on the sofa, breathing evenly."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The day's turbulence has worn her down. A new friend's comfort was the best lullaby."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Aima",
+          "text": "How odd. I've never known a vampire to sleep at night."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Aima",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She reaches out, inching toward the sleeping face."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Aima",
+          "text": "Oh, it's time."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The stewardess shakes her head, brushing the hair from the girl's cheek."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Aima",
+          "text": "Look at the smile on her face. She must be having sweet dreams. It's a shame I have to go."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She rises and quietly closes the door."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Light fades into shadow until the room is swallowed in darkness."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Aima",
+          "text": "Nighty-night, Rubi."
+        },
+        {
+          "kind": "title_card",
+          "text": "Temporary Stop"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The air reeks of damp wood, rot, snow, and conspiracy. A girl drifts among the trees like a phantom, fading into and then reappearing in the dark."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The conductress has been waiting in the snow, crushing flakes in her palm."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "You're late. Did something happen?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Aima",
+          "text": "N-No. S-Sorry, I was just making sure the vampire girl was asleep."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "Did anyone see you?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The train, the forest, and the winter winds conspire in gray silence."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Snow falls calmly but steadily."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Aima",
+          "text": "I was careful. No one saw me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "Good."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "They're expecting us."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The two move toward the rear of the train, vanishing into the heavy snow."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Snow prints follow, another figure trailing them."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "Just as I thought."
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

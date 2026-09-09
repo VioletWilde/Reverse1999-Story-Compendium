@@ -1,0 +1,354 @@
+{
+  "episode_id": 30510111,
+  "chapter_id": 305101,
+  "chapter_title": "La Primavera di Firenze",
+  "display_label": "",
+  "title": "Primavera",
+  "subtitle": "The brilliance and hope of the renaissance.",
+  "trails": [
+    {
+      "element_id": 30510107,
+      "owner_episode_id": 30510111,
+      "trigger_episode_id": null,
+      "title": "The Stalker",
+      "description": "The protagonists' adventure is over, marking the beginning of the merchant's search.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=30510111",
+      "content_hints": [
+        "fragment",
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "The Book Merchant's Notebook"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "[Southeast Corner of the Room]\nPiles of a sand-quicklime mixture, a bit of carbon dust, several nails and punched paintings.\nJust some leftover materials they didn't use. Worthless to me.\n\n[East of the Room]\nTwo carving knives, several brushes, and a piece of glass.\nNothing worth taking.\nThe glass looks like some kind of lens.\n\nDried Paint\nThey didn't seal the paint can with beeswax! What a waste ...\n\nA dozen letters and several intact paintings.\nFinally, something worth taking.\nI can make a new manuscript and name it Mystery of the Frescos or Wonders of Florence ... No, I need a more eye-catching title.\n\n[North of the Room]\nScaffoldings.\nCollapsed.\n\nMessy carvings: a group of dancing human symbols, their meaning is unclear.\nIs this a signature? I bet the scaffoldings were broken by the ones who were fighting."
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 30510108,
+      "owner_episode_id": 30510111,
+      "trigger_episode_id": null,
+      "title": "Corner of the Secret Chamber",
+      "description": "A dusty letter found inside the chamber. Part of the writing is blurred.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=30510111",
+      "content_hints": [
+        "fragment",
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "An Unsent Letter"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Dear Uccello,\nIt's been too long since we parted. I heard you went back to Pratovecchio. Is it still as beautiful as you said it was? I still remember what it looked like in your painting—a sea of olive and fig trees.\nThose days we spent together were just like a dream. I've always wanted to pick up the brush once again, but my life is already occupied by meaningless housework ... They said I didn't have much time left. (Blurred)\n\nBut I came back without letting anyone know. When I left a new signature at the corner, I found that our friends had done the same thing. Lippi, Giovanni ... What about you? I'm never sure since you've always been so unpredictable.\n\nHow are you doing? Hopefully, you're still drawing.\nIn fact, I know you are.\n\nBianca"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "2030519",
+      "internal_title": "【S01】翡冷翠之春11.1",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "Oh, thank heavens. No more befuddling riddles and clouds of sleeping gas. I've never loved this world as much as I do now!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "You were quite clever to cooperate with Alberto to stall for time. But how did you know that Ezio was coming to save us?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "I didn't know. But I knew that irritating Alberto would risk the safety of Sotheby and Leonardo."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Moreover, I think I may have actually figured out what the \"relics\" truly are ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A small, brownish shadow flashes past the window."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "Hmm? That sound is familiar, isn't it?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ezio",
+          "text": "I'll take a look."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Another clumsy little bird carrying its creator's encrypted message."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ezio",
+          "text": "\"Sicuro.\" He means he's safe."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ezio",
+          "text": "Looks like my friends from the Thieves' Guild have already rescued Leonardo and Miss Sotheby."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "You seem to have a lot of friends."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "I always thought that assassins worked alone."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Smiling, the Assassin shakes his head."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ezio",
+          "text": "Quite the opposite."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ezio",
+          "text": "True assassins, are more than just killers. We are the manifestation of a belief. A belief in freedom and the ability to fight for it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ezio",
+          "text": "We do not hold to any authority but our own. We are free to follow our own path."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ezio",
+          "text": "And many share that belief. That's why we are never alone."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "... Just like the artists that painted these."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "I imagine they must see each other as fellow believers in art."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "For a moment, everyone takes a moment to appreciate the mottled frescoes surrounding them."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "So ... the outline of their story should be clear now."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "One by one, the pages that had been scattered to an unknown corner of history fall neatly together."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "They should have been carried away by the winds of time, like fallen leaves."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "But if these pages were ever meant to be rediscovered someday, then yes—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Now is that moment."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "About 20 years ago, a group of painters led by Uccello started working on the fresco here."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "Even today, you can still sense the enthusiasm in their work."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Male Painter I",
+          "text": "The essence of linear perspective lies not only in reproducing reality, but in the narrative quality of space itself!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Male Painter II",
+          "text": "You've only scratched the surface. If you truly want to grasp the essence of the concept, I suggest you review Plato's theory of forms."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Male Painter II",
+          "text": "Rather than simply copying nature, as artists, we should strive to reveal their true ideals through our work."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Female Painter",
+          "text": "I'm so jealous of them."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Female Painter",
+          "text": "They are so talented and knowledgeable ... unlike me. I feel dizzy just seeing those guidelines."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Uccello",
+          "text": "Bah, let me show you some tricks better than mere linear perspective!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "Here, Uccello lifted a stained glass to showcase his wondrous optical phenomenon."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Male Painter I",
+          "text": "Not again, Uccello! You can't keep altering our work with that strange pigment of yours!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Male Painter I",
+          "text": "What a mess. And it goes against our patron's instructions. What if they find out about it?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Uccello",
+          "text": "Hmph, look closely."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Male Painter II",
+          "text": "The modified colors and lines do give the work a little more life. Fine, I admit it, you know what you're doing!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Male Painter III",
+          "text": "He's right. I say we keep it—it's not like our patrons are ever smart enough to figure these things out anyway ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Female Painter",
+          "text": "It never occurred to me painting could be so ... liberating. Thank you for enlightening me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Uccello",
+          "text": "Huh? Of course, to paint is to find freedom. That is what it always has been!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "It was a time of joy and of meaningful creation."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "But it didn't last long."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Guild Official",
+          "text": "I'm sorry we must suspend funding for now; there is simply no money to pay you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "All at once, the painters and artisans were kicked out of the cathedral."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "Stripped of their right to finish their final painting, leaving no room for negotiation."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "No payments, and no written records were left behind."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "But life had to go on. These painters and artisans scattered each one doing what they could to earn their bread."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "But always returning to the unfinished fresco that tugged at their heartstrings."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Female Painter",
+          "text": "That night, I returned to the dome. But I never expected to find Uccello there as well."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Female Painter",
+          "text": "Then others came ... one by one."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Female Painter",
+          "text": "Turns out, I wasn't the only one reluctant to leave our work behind."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ezio",
+          "text": "Again, Uccello lifted the stained glass and—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ezio",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ezio",
+          "text": "Their story has come to a pause here. Now, let's finish it ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He lifts APPLe gently into the light, it reflects off his golden radiance as the Assassin walks toward the unfinished fresco."
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

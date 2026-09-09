@@ -1,0 +1,337 @@
+{
+  "episode_id": 10312,
+  "chapter_id": 103,
+  "chapter_title": "Nouvelles et Textes pour rien",
+  "display_label": "",
+  "title": "Burning Tears",
+  "subtitle": "A stroke of thick smoke attacked us. Soon we were choked with tears.",
+  "trails": [
+    {
+      "element_id": 1031201,
+      "owner_episode_id": 10312,
+      "trigger_episode_id": null,
+      "title": "Trail ① Sonetto's Note",
+      "description": "Her handwriting is neat, and some pages have extra details.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=10312",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "Sonetto's Notebook"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Chapter 1\nSection 1, Mammalia, Tetrapod\n1. pp.13–14, Monoceros thevetii\n(the species in India has major differences from the local species in England)\n2. 3 layers of the horn: keratin, prism, pearl\n3.  丿 \n\nSorry, please see the next page\n\nChapter 1 \nSection 1, Mammalia\nTetrapod Classification (p.13)\n1. Monoceros thevetii: the species in India is about 40 inches long, and has red hair after reaching maturity.\n(just the color of the candy from Fiona. Though I didn't ... just for reference)\nThe local species in England is smaller, about 20-35 inches long, and has dark brown hair.\n(Monoceros thevetii may be included by the classification test in the future. Remember: stroke the spot 3 inches below the back of its neck, but keep it less than 4 times in case of panic)\n\n2. The horn consists of a structure of 3 layers: (refer to the shell of tridacna gigas)\n-  Keratin layer: the external layer. Major component: chitin. Gray in most cases, it grows along with its owner;\n-  Prism layer: the middle layer. Major component: calcium carbonate crystal\n-  Pearl layer: the internal layer, composed of horizontally aligned calcium carbonate slices (imagine the crispy roast fish slice you can get at the left window of the Second Canteen)\n\n3. ...\n\n...\n\nDear classmate,\nWish you get well soon."
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1031202,
+      "owner_episode_id": 10312,
+      "trigger_episode_id": null,
+      "title": "Plan of Escape Route",
+      "description": "This could be a desperate attempt. You must take it seriously.",
+      "action": "",
+      "unlock_condition": "ChapterMapElement=1031201",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100315",
+      "internal_title": "第三章3-12",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "Burning Tears"
+        },
+        {
+          "kind": "title_card",
+          "text": "Joint Committee of SF"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "We've investigated the event in the school."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "Incited by the Manus pamphlets, a girl named Vertin assembled about 20 students to sing a revised version of the school song at the Parade Ceremony."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "Principal Richard and the safety supervisor failed to dissuade them, and thus deployed guards, Dumbitter Potion, and non-lethal weapons."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "During the conflict, Vertin's lap was accidentally shot by a non-lethal weapon. She fell into a coma."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "With the treatment provided by the school clinic, she was discharged after making a full recovery. She should be back to school today."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Constantine",
+          "text": "... What a bad move."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "Whose move?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Constantine shakes her head. She doesn't intend to respond."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Constantine",
+          "text": "What was their appeal?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "They wanted to know the outside world ... especially, the \"Storm.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Constantine",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Constantine",
+          "text": "This Vertin, is the one that we know of?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Constantine",
+          "text": "The kid who stretched her arms outside the front gate to catch a frog during the \"Storm\"—THAT Vertin?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "Yes."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Constantine",
+          "text": "If I recall correctly, the report described her arm didn't show any signs of change after getting soaked in the \"Storm.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Constantine",
+          "text": "Nor inflammation, nor decaying, nor deformation, nor any other diseases."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Constantine",
+          "text": "She's special. Makes me think of her mother."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "... I've never met her mother. Such a pity."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Constantine returns to her chessboard. Her eyes glimmer in the dark."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Constantine",
+          "text": "Please inform Richard that the school is now under special supervision. The committee will take charge from here."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "What's the plan now?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Constantine",
+          "text": "We have made a bad move."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Constantine",
+          "text": "They've made it such a scene, which will inevitably place us on the opposite side of those kids."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Constantine",
+          "text": "They sowed a seed of doubt in those children."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Constantine",
+          "text": "What happened this time will have a long-lasting effect, and Manus will not sit tight by it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Constantine",
+          "text": "And I ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Constantine",
+          "text": "I need Vertin to grow."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Constantine",
+          "text": "The way I prefer."
+        },
+        {
+          "kind": "title_card",
+          "text": "School of Primary Defense of Mankind"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Instructor",
+          "text": "When an Olitiau gets nervous, it may attack people."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Instructor",
+          "text": "Whenever this happens, we need to lower our body as much as we can and act friendly to avoid irritating it ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "An opened notebook is passed quietly from the other side of the table."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "It is a copy of class notes for this week."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "I ... I think you may find this helpful."
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "Thank you.",
+          "edge_label": "Thank you.",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "Sonetto",
+              "text": "You're welcome. Are you feeling better now?"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "Sonetto",
+              "text": "I heard you were in a coma for two days."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "It's rare that you would come and speak to me.",
+          "edge_label": "It's rare that you would come and speak to me.",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "Sonetto",
+              "text": "I ..."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "Sonetto",
+              "text": "I may have misunderstood you. I'm sorry ..."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "Sonetto",
+              "text": "How are you feeling now? I heard you were in a coma for two days."
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "I'm fine. It doesn't hurt so much now. It hurt more when the tear gas burnt me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Sonetto drops her head. She seems out of words."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "The song ... was beautiful."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "... Glad to hear you say so."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "But we won't sing it anymore. I think other students are still locked in the guardhouse ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Yes. I heard it's dreadful in there ... I went to visit with some food but was turned away by the instructor."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "They will be out next week ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "They are welcome to borrow my notes."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Thank you for your kindness."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "I hope they will have the chance to use them."
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

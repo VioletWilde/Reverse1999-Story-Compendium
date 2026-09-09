@@ -1,0 +1,754 @@
+{
+  "episode_id": 10901,
+  "chapter_id": 109,
+  "chapter_title": "Folie et Déraison",
+  "display_label": "",
+  "title": "Prologue",
+  "subtitle": "Our story begins on the evening of March 22, 1991.",
+  "trails": [
+    {
+      "element_id": 1090101,
+      "owner_episode_id": 10901,
+      "trigger_episode_id": null,
+      "title": "The Circling Ghost",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=901",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "The moment armies start to march, the world stands still."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "You fight or fall back, charge forward, or run. Those are the only rules on the battlefield."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "I don't see a start time on this report, nor does it state the reason for or the demands of this war."
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "That's because the war hasn't started yet.",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "That's what you think. The scars left on the land may be the most obvious form of destruction, but the true devastation of war is one that develops gradually in the souls of people."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Ah, a literary war. Indeed, the violence enacted upon words is often just as devastating as an order on a battlefield."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Words must fulfill their duties to their creators, just as soldiers must answer to their commanders."
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "I still don't see how this relates to what's happening now.",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "You don't? Hmm. The young writers have been exiled—sent down a path with no signs to follow and no destination."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "In dark days of bloody conflict, soldiers often find comfort in scriptures and verses—or in letters from their loved ones."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "They hold those words close—a fragile piece of home—a brief solace from the roaring of the battlefield."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "But, as they fall one by one, they learn the bitter truth. No destiny awaits them but death, that bitter homesickness still weighing heavy in their hearts."
+                }
+              ]
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "I hope they can at least find some peace in their dreams.",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "In dreams? Maybe. Walking the streets of your hometown, spending a lazy afternoon at the writing desk—dreams can take you anywhere."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "But live there too long, and the lines between fiction and reality will blur, and soon you'll never wake up again."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "Soldiers crawl through trenches, roll in the mud, and charge to their deaths again and again ..."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "... while words are forever trapped within the confines of poetry, made to live, die, and live again under the golden prophecy ..."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "Ugh. I can't stand the way poets talk."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "Because this is a war waged with paper and pens.",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1090102,
+      "owner_episode_id": 10901,
+      "trigger_episode_id": null,
+      "title": "Buenos Aires Division: Intake Report",
+      "description": "Authority ... it's always so flexible.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=901",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "Buenos Aires Division: Intake Report"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The Buenos Aires Division has received members of the \"Storm\" Research Team—Ulrich and Regulus. Both are to be temporarily stationed at the division while undergoing basic health examinations.\n\n...\n\nThe Timekeeper and her assistant received the message upon landing at Tierra del Fuego and have departed on a mission.\n\nThe message source and details of the operation have been reported by Sonetto. Our side currently has no access.\n\n...\n\nOther survivors taken in:\n\nBarcarola\nA pureblood arcanist and musician aboard the \"Free Breeze.\"\n\n...\n\nFatutu\nA pureblood arcanist, and a member of the Nukutaeo people.\n*Further investigation of her people is required.\n\n...\n\nFor the full risk level assessment report, see Attachments 1-35."
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1090103,
+      "owner_episode_id": 10901,
+      "trigger_episode_id": null,
+      "title": "The Ushuaia Port Explosion",
+      "description": "Reports, endless reports—why are there only ever reports?",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=901",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "The Ushuaia Port Explosion"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The tremors from the explosion at Ushuaia Port shook the surroundings for nearly 10 seconds, after which strong winds carried the flames across the dock area. Thick smoke spread for several kilometers. The explosion injured 12 people, over 200 residents were evacuated, and it took the navy and fire department nearly six hours to contain the fire. Unfortunately, key logistics facilities were reduced to ruins.\n\nInvestigations confirm that the explosions originated from three sources: an oil storage tank and two cargo warehouses along the third dock. However, the disproportionate scale of the explosions raises suspicions of arcane skill involvement. It is still unclear whether this incident is related to the Zeno mutiny, and simultaneous investigations are ongoing into other arcanist organizations that may be responsible.\n\nWhat the hell is this?! You call this a report? This is all you're handing in? Panic is already spreading—do I need to remind you that Ushuaia is our nearest deep-water port? Flames higher than the lighthouse, seawater dyed blood-red—this catastrophe is bringing up painful memories of the war from over a decade ago! Our wounds are being torn open in the worst way possible, and after all this time I gave you to investigate, you're just giving me a list of possibilities?\n\nA few days ago, people suspected those lunatics locked up in prison—but what the hell can they even do besides bash their heads against barbed wire and spout their pathetic rhetoric? Maybe they scribbled out a doppelgänger on a pile of backwards poetry, conjured up a few imaginary hot-air balloons to float them to the port, and then molded a ton of bombs from mud and ice? Fat chance! The only thing you got right was not including them in your list of suspects—otherwise, I'd have you thrown in that prison alongside them!"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100901",
+      "internal_title": "第九章9-01.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "Folie et Déraison"
+        },
+        {
+          "kind": "title_card",
+          "text": "Prologue"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "So the platonic year\n\nWhirls out new right and wrong,\n\nWhirls in the old instead;\n\nAll men are dancers and their tread\n\nGoes to the barbarous clangour of a gong.\n\n                              W.B. Yeats—Nineteen Hundred and Nineteen"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "It's the final days of March, and the daylight hours in Ushuaia are shrinking away."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Past the busy season, the city is faded and quiet. At this moment, in a café at the end of the world, conversation and laughter are sealed within an airtight glass dome."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "\"A few years ago, I worked as a forest ranger at a campsite in Cuernavaca. There, I met a Mexican surrealist poet.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "\"He was especially grateful that I was there. Some animals had wandered into the campground, and I drove them off for him. It wasn't a big deal, really.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "\"As a token of gratitude, he elucidated this strange story to me—one that happened in a Sonoran Desert town called Amalfitano back in 1975.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "\"The people there adhered to a most unorthodox belief, which centered on the Die of Babylon.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "\"One day, a researcher with a suitcase arrived in town. She came to study their local customs—an unsurprising reason for a learned intellectual to appear in a remote desert settlement.\""
+        },
+        {
+          "kind": "title_card",
+          "text": "Cafe, Ushuaia"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "\"But little did she know, this dusty old town and its peculiar custom would lead her down an entirely unexpected path—\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Young Woman",
+          "text": "Hold on. Sorry to interrupt, Recoleta. Does this researcher have a name?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Young Woman",
+          "text": "She could be Nora, Joanna, or Teresa. Any name really. I feel like you want people focusing on the story, not keeping track of who's who."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Confusion and shock intertwine on the storyteller's face."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "Errr, thank you for your advice."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "But she isn't a Nora, or a Joanna, or a Teresa. She's just herself."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "A Paracausality Researcher."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Young Man",
+          "text": "Hahahaha! You see that look? She's halfway to eating you alive!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Young Man",
+          "text": "Face it, María. She wouldn't be the freak we know if she listened to anyone."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "Ah, alright! So you didn't like the opening, fine. I'll come up with something new."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "Maybe I'll start with a bit of exposition on the Die of Babylon? Beginning with its origins as a secret relic created by an Aztec priest imprisoned by the Conquistadors—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The mysterious die's origins never get a continuation, as her story is interrupted a second time."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Young Woman",
+          "text": "I don't know if that's going to do much, sister. I'm beginning to think we'll never figure out what you're trying to say with this novel."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Young Woman",
+          "text": "And, well, and this isn't your fault."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Young Man",
+          "text": "Ay, goodness! Just tell her, María. We're going back to Buenos Aires!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "Back to Buenos Aires? All of a sudden, just like that?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "Pancho, María, what's going on? Did I do something wrong during our travels?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The startled storyteller eyes her companions of the last two months, searching for reasons."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "Ah, yes, I know what it is. I've bored you with my constant rambling over this novel."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Young Woman",
+          "text": "No, Recoleta. It's got nothing to do with your novel."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Young Man",
+          "text": "Don't you get it? We're flat broke!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Young Man",
+          "text": "Why do you think we're stuck here scrubbing tables?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The man slams his damp washcloth on the table to emphasize his point. His voice breaks the illusion of silence in the café."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "Because we can't pay for all the mate we've been drinking."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Young Man",
+          "text": "That wasn't a question, Recoleta. We've crossed the continent, crashed the readings of all those \"prestigious poets,\" and lived the way a real artist should. And, I admit it, it's been just as amazing as you promised."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Young Man",
+          "text": "But we can't go on living like this."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Young Woman",
+          "text": "You know that we both care about you. And we believe in your novel, too."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Young Woman",
+          "text": "I'd be lying if I said this journey meant nothing to me. Getting to ride around the continent on a motorcycle like Che Guevara himself? I never could have imagined I'd get the chance to go on an adventure like this. We got to live the dream!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Young Man",
+          "text": "A real dream, except for those days when the motorcycle broke down. Though that was a real tribute to Che's journey too."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Young Woman",
+          "text": "Don't tease, Pancho."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Young Woman",
+          "text": "Recoleta, since you invited us to join the visceral realists, we've both found amazing new ways to channel our inner poetry."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Young Woman",
+          "text": "Even though I still don't understand what in the world you're trying to say with your novel, or for that matter, what visceral realism actually is."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "María, Pancho ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Young Woman",
+          "text": "You told us not to worry about the definitions, to feel and to live in our words. We did just as you said, and it felt great! But ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She looks out at Ushuaia, feeling a chill."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Snow falls from the dimming sky. The season is shifting. Soon, gray and white will blanket the colorful houses of this desolate land."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Young Woman",
+          "text": "Now the winter chill is setting in, and the only thing you seem to care about is that little fictional town."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The storyteller sinks back against their accusations, searching for words."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "I appreciate your honesty, friends. I was worried the problem was much worse than all that!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "Winter here isn't as dreadful as you think, and I know just the place to keep us warm!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "It was 1520. Arcanist Ferdinand Magellan sailed across unfamiliar waters under orders from the Spanish crown."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "Over the vast gray sea, he saw spots of light in the distance—an island. He named it Tierra del Fuego."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "For the next 400 years, Ushuaia faithfully served its role at the end of the world: it became the continent's penal colony, and its largest building even served as a prison!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "Many arcanists were exiled there. By the turn of the century, the arcanist hunt had reached its peak, and the Comala Sanatorium was built."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "Well, as you may already know, at that time, most arcanists were believed to be victims of madness."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "The sanatorium was their \"Ship of Fools.\" However, as people began to realize that arcanist blood wasn't a guarantee of madness, fewer and fewer were imprisoned there. By 1947, it was officially closed."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "Until the 1970s, when a group of people from the National Foucault Studies Association returned to the island with new ideas for the location."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "They spoke in abstract terms and opaque theories that no one could understand. They rebuilt this place and gave it a new name."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "After a long period of construction, the Comala Sanatorium became a prison once more, one designed to hold arcanist criminals."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "They were taken from the streets and the psychiatric clinics, from secret societies, and rebel groups. Any arcanists deemed mentally or socially unfit would be locked away there."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "This association claimed the inmates would receive the best treatment, and they would fully \"recover\" before being returned to society."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "A prison, a medical lab, a sanatorium—call it whatever you want. That is what Comala is today."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "And we could spend the whole winter there. It'd probably be the easiest winter we've ever had. All that it requires is a little bit of acting."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "It won't be hard to pass ourselves off as a bunch of unstable crackpots. A touch of madness comes parceled with the gifts of being an arcanist!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Young Man",
+          "text": "That's your \"brilliant idea\"? To get us locked up in an asylum?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Young Man",
+          "text": "You understand we'd be prisoners there, don't you? It's not like we'd get to put our feet up and relax by a fire!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her increasingly agitated companion turns his head aside, catching the faint outline of a patrolling gendarme through the frosted window."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Young Man",
+          "text": "You wanna go to jail? Well, see that man over there? Go greet him with a punch to the jaw, then you'll be set for the whole winter."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "Hmm. It sounds like a good idea."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Young Woman",
+          "text": "Recoleta, please! We're not messing with the gendarme."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Young Woman",
+          "text": "We're going to my Aunt Julia's. She said she can take us in at her vineyard up north near the capital. But it's harvest season. They could use all the help they can get."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Young Woman",
+          "text": "We'll return to Ushuaia next year, or when the winter has passed. It'll still be great!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Recoleta's expression is as cold as the mate tea on the table."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "I hear you, friends."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "But respectfully, I must turn down your offer."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "This has been more than just a road trip for me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "I know sticking around here for the winter won't be easy. But this could be my last chance. What if things change again? I can't just wait for spring."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Young Woman",
+          "text": "Recoleta ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Young Man",
+          "text": "What did I tell you, María? She never listens. Wasting your breath!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Young Man",
+          "text": "Goodbye, Recoleta. I don't think we'll meet again—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Pancho's apologetic words freeze in his mouth."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Young Man",
+          "text": "S**t! Those gendarmes are looking straight at us!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "What?!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The café door swings open."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A gust of cold air and dampness sweeps through the room. Recoleta's hair stands on end with the chill as she turns to face the door."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Gendarme",
+          "text": "Stop right there! You three match the descriptions of some intruders at the Poetry Meeting in Pioneer Street!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Recoleta plans a response, only to hear the scrambling sounds of her companions bolting away out the back door."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "Just when I thought things couldn't get any worse."
+        }
+      ]
+    },
+    {
+      "script_id": "100902",
+      "internal_title": "第九章9-01.2",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "Street, Ushuaia"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The gendarmes are left behind in the cold, but the flustered young writer still dares not stop running."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Until she stumbles on a patch of wet and mushy snow."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "Oh! Thank God. I think I lost them."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Are you alright?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "Ah, thank you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "Better to kiss the ground than kiss the gendarme's boots, if one must choose."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "Wait a second. Dores? Is that you?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "Funny how life moves in circles and puts an old friend in my path! How have you been? Are you paying another visit to Comala?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Dores?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A name falls from the sky—offered by a girl who has just face-planted and cannot see the figure before her."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Timekeeper, could she mean our Dr. Dores?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "Emm. Was I mistaken?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She wipes the snow from her face. Still dizzy, she makes out the stranger before her."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "As her vision clears, it becomes apparent that fate is not a perfect loop. At least, the person holding the suitcase in front of her is not the same woman she met before."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "How strange. I've never seen two people so alike."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "But please, forgive me. It's been a long day."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "No need to apologize. In fact, the person you just mentioned sounds like someone we're looking for."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Could you tell me where you last saw her?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "Sure, I—*sneeze*—excuse me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "You're not from around here, are you? Your accents and those clothes give you away."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Recoleta",
+          "text": "Come with me. I know a warmer place to talk."
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

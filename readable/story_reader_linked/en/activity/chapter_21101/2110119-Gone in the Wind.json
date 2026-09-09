@@ -1,0 +1,602 @@
+{
+  "episode_id": 2110119,
+  "chapter_id": 21101,
+  "chapter_title": "Route 77: The Haunted Highway",
+  "display_label": "",
+  "title": "Gone in the Wind",
+  "subtitle": "The soil is moist and fertile in the south, where the song of the wind reaches far.",
+  "trails": [
+    {
+      "element_id": 2110108,
+      "owner_episode_id": 2110119,
+      "trigger_episode_id": null,
+      "title": "Hygiene Guide",
+      "description": "For hostesses, cleanliness is next to godliness. Fortunately, the subject this hostess wishes to clean is all for it.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=2110119",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "Tuesday's Motel Cleaning Records"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Week 4\nRoutine Cleaning\nRoom 105: Cleaned carpet stained with vomit.\nRoom 108: Cleaned stains and fingerprints off walls.\nRoom 205: Broken glass, contacted supplier for replacement.\n\nWeek 5\nRoutine Cleaning\nRoom 105: Cleaned carpet stained with vomit. A lesson needs to be taught.\nRoom 211: Replaced showerhead.\nCracks in the glass in room 205 disappeared?\n\nWeek 8\nRoutine Cleaning\nFront desk: Table needs repair.\nRoom 102: Floor scorched—I saw that, I'm sure of it.\nScorch marks disappeared. That's a good baby.\n\nWeek 10\nRoutine Cleaning\nRoom 105: Bloodstains, carpet ruined. It's time for punishment.\nRoom 202: Glass completely shattered.\nRepaired all by itself. An good baby deserves a reward.\nTonight.\nRoom 105, of course."
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 2110109,
+      "owner_episode_id": 2110119,
+      "trigger_episode_id": null,
+      "title": "Sweet Dreams",
+      "description": "A song drifting through countless nights' dreams.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=2110119",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "Lullaby"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Close your eyes, close your eyes, my darling little dear,\nThe shining moon and peaceful night are dancing ever near,\nIn your cradle, dream a dream, so tender and so sweet,\nDream a dream to entertain and make this night complete.\n\nClose your eyes, close your eyes, my darling little one,\nThe owls have caught some squirrels, dear, such luck and oh such fun,\nOne by one, their eyes survey, on branches perched so high,\nFeasting freely, oh such delight, their banquet in the sky.\n\nClose your eyes, close your eyes, my darling little star,\nThe black horse roams the wilderness, through rolling fields afar,\nDon't you fret, don't you fear, their hooves no harm shall bring,\nTheir gentle pitter-patter prances lighter than the wind.\n\nClose your eyes, close your eyes, my darling little love,\nThe barn is filled with fright and fear, below as is above,\nBreakfast ready, maws agape, a rousing sweet delight,\nHere awaits you to awake, devoured by morning's light."
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "202129",
+      "internal_title": "【2.1】77号往事-19",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "What's going on?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Outside the motel, the rising dawn paints the earth a deep orange. Lilya looks confused as they approach."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Are you okay, Captain?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "I'm fine."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "I have good news and bad news."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Don't bother with the order; just lay it on me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "The good news is we've found Barbara."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "The bad news is we've got a new problem. This motel is the manifestation of a living consciousness that constantly generates urban legends and spreads fear. It might turn into a supernatural arcanist in the future."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "We can't let it grow here unchecked. We need the help of the Foundation to keep it under control."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Argus",
+          "text": "Boss, my job here is done. I'm heading into town for Kayla."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She looks off into the distance."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Argus",
+          "text": "Oh, and I promised a young fella that I'd help him find his mother."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Argus",
+          "text": "I've gotta go now."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "How do I pay your fee?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Argus",
+          "text": "Fee?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She laughs heartily."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Argus",
+          "text": "We're friends, Vertin. I don't need no payment."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She says her goodbyes and sets off on the road ahead."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Alright, Captain, any progress on finding Urd?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The little sheep's ears twitch."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Barbara",
+          "text": "That's why you came looking for me, right?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Barbara",
+          "text": "I'll ask the wind for you. It's the least I can do."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She closes her eyes."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Did she doze off?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The gentle breeze caresses her ears, like an invisible thread being woven between them."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Barbara",
+          "text": "I'm listening."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Barbara",
+          "text": "Oh, I heard it. The answer."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She opens her eyes."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Barbara",
+          "text": "A distant wind told me that Ms. Urd's latest submission came from the São Paulo Veterans' Residence."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Barbara",
+          "text": "The article she submitted was an excellent piece, but UTTU doesn't know anything beyond that."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Okay."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Barbara",
+          "text": "I suppose we'll all have restful sleep and sweet dreams tonight."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Barbara",
+          "text": "I've collected the material I needed for the upcoming feature interview. I bet the readers will enjoy it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Barbara",
+          "text": "I'll be sure to include your name on the byline, Ms. Tuesday."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tuesday",
+          "text": "Me? I don't think I contributed anything."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Barbara",
+          "text": "Quite the contrary, you played a significant role. If it weren't for you, I wouldn't have realized my inner fear of losing communication with the world."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Barbara",
+          "text": "First-hand experiences like this are invaluable to an editor."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tuesday",
+          "text": "Oh, with the way you put it, I almost regret letting you go."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Barbara",
+          "text": "I won't be returning. The interview's over."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She closes her little red notebook."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Barbara",
+          "text": "If all goes well, you'll be able to read about it in the next issue of UTTU."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Barbara",
+          "text": "I'll take my leave now."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Goodbye."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Good, I can't wait to leave this place."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "We can't leave yet."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "I just contacted the Texas branch. Their staff is on their way here. They have to investigate this supernatural being as soon as possible."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "And they'll be here soon, I presume?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "I can feel the energy fluctuations of teleportation rituals. It must be them."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She turns her head to see a stranger standing before her."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Mm?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The girl in front of her has chestnut hair and carries a woven basket on her arm."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Looks like you guessed wrong, Captain. I met her in town. Name's Kayla."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Kayla?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The girl smiles brightly at her."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Do you know someone called Argus?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The girl's smile becomes more gentle."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Kayla",
+          "text": "The name doesn't ring a bell. How strange! What kind of parent would name their child after a one-hundred-eyed giant?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Kayla",
+          "text": "You must've mistaken me for someone else. Kayla is a common name, after all, like Emma, Anna, or Catherine. More importantly, Miss, you look ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The girl smiles once more."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Kayla",
+          "text": "Although I've never met you before, you seem familiar."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She reaches into the basket and pulls out a crumpled flower."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A pale moth lands on a petal, gently fluttering its wings, its scales shimmering in the morning light."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Kayla",
+          "text": "I hope you have a wonderful day."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Thank you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The girl tucks the flower under her arm."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Are you a guest at this motel?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The girl nods."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Kayla",
+          "text": "What happened here?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "The St. Pavlov Foundation has taken over. I suggest you find alternative accommodation, given the dangerous incidents that have occurred here."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Kayla",
+          "text": "Hmm. What should I do? All my things are still inside."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "The Foundation staff will take care of it for you later. You can trust them."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Kayla",
+          "text": "Can't I just go and get my things now?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "I would advise you to wait until the Foundation staff arrive."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Kayla",
+          "text": "Oh, I can look after myself. No need to worry about me, Miss."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The girl winks and pushes open the motel door, promptly disappearing from their view."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "That girl ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Lilya breaks her long silence."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "What about her?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Never mind. It's probably nothing."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The light from a teleportation disk flickers nearby."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Foundation Staff I",
+          "text": "Apologies for our delayed arrival, Ms. Vertin."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Foundation Staff I",
+          "text": "We'd been unable to locate the motel until about ten minutes ago. It's as if something was deliberately interfering with our sense of direction."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "While the Foundation staff is busy assessing the situation, a faint sound echoes from the depths of the motel."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tuesday",
+          "text": "Oh."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The door suddenly swings open, and a pale, trash-covered corpse is thrown out of it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tuesday",
+          "text": "Once again, it insisted on eating garbage off the floor. Is every child this stubborn?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Foundation Staff I",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "It's Stefen, a Zeno officer."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Foundation Staff I",
+          "text": "Hmm, Stefen. Sounds familiar."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The staff member flips through his records, quickly finding the information he's looking for."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Foundation Staff I",
+          "text": "The records show he was a high-ranking Zeno officer who went missing after the vacuum bomb footage leaked."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Foundation Staff I",
+          "text": "Zeno issued a staggering bounty on him. I guess whatever he did really angered Admiral Igor."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Foundation Staff I",
+          "text": "Who would've thought he'd be hiding in this little motel in the middle of nowhere?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Obviously, luck wasn't on his side."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Foundation Staff I",
+          "text": "Alright, Ms. Vertin, we'll take over from here."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tuesday",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tuesday",
+          "text": "The maid remains calm, gently patting the bundle in her arms."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "After the branch completes its procedures, you'll be sent to the headquarters for a more thorough assessment."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tuesday",
+          "text": "Will you return my baby to me?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "It's too early to discuss that."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Let's go, Lilya."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She picks up the suitcase."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "We must report back to Madam Z about Urd."
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

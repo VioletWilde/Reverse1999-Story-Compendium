@@ -1,0 +1,25 @@
+# Main Story · El oro de los tigres
+
+- [10401 An Old Umbrella](10401-An Old Umbrella.md) — You've had it before. The silent, old and familiar black.
+- [10402 The Outsider](10402-The Outsider.md) — Under the bricks and stones, few plants can vegetate here.
+- [10403 A Coat Rack](10403-A Coat Rack.md) — Hopping and bouncing, it marches forward with the pride of an alchemist and the manner of a lady.
+- [10404 Raise A Glass!](10404-Raise A Glass!.md) — See, we are all experts in Vodka.
+- [10405 In the Castle](10405-In the Castle.md) — Harder than the sands, warmer than the stones. Another shelter that you can count on.
+- [10406 The Forest Express](10406-The Forest Express.md) — To welcome the unexpected good luck, clean your chimney so it won't get stuck.
+- [10407 The Pirate's Declaration](10407-The Pirate's Declaration.md) — Don't cut off power so quick, silly! You missed that song.
+- [10408 Both Sides of the Table](10408-Both Sides of the Table.md) — Divide a circle into half, each curve has its own direction.
+- [10409 A Wandering Dog](10409-A Wandering Dog.md) — Ears low, tail down, she sidles back to the shadow of the house.
+- [10410 Sailing at Night](10410-Sailing at Night.md) — I've seen you when we were two boards, side by side, drifting on the sea.
+- [10411 A Sweet APPLe](10411-A Sweet APPLe.md) — Sweet and juicy. Everyone wants to take a bite.
+- [10412 A Letter](10412-A Letter.md) — Its creases and folds are smoothened carefully. The writer's seriousness and sincerity could be read between the lines.
+- [10413 Flashing Red](10413-Flashing Red.md) — Sharp and glaring. I can tell it's the color of warning.
+- [10414 All-or-Nothing](10414-All-or-Nothing.md) — The good news is, 10 more moves to go.
+- [10415 From the Ashes](10415-From the Ashes.md) — Be burnt, be torn, be hidden in the corner, then be pecked up by a bird.
+- [10416 Contact Point](10416-Contact Point.md) — Friendship first, my friend.
+- [10417 Echoes in the Dark](10417-Echoes in the Dark.md) — A sentence falls down in to a cave, and breaks into countless words.
+- [10418 Road of a Puppy](10418-Road of a Puppy.md) — Footprints. Muddy, determined footprints in lines on the white marble floor are easily recognizable.
+- [10419 A Corner of the Board](10419-A Corner of the Board.md) — After a life-long moment of waiting, two pieces are carefully placed here.
+- [10420 Picnic on the Lawn](10420-Picnic on the Lawn.md) — Ham, bread and drink ... I assume they taste much better than critters.
+- [10421 Good Weather](10421-Good Weather.md) — The sunlight shed on our face — we've never been so close to the clouds.
+- [10422 Returning Birds](10422-Returning Birds.md) — Welcome back to your warm nest. Welcome back to a good ending.
+- [10423 Old Days Once More](10423-Old Days Once More.md) — Perhaps whipping cream only belongs to the past. Nowadays, they are soft and light, so unfamiliar.

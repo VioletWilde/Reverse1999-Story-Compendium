@@ -1,0 +1,551 @@
+{
+  "episode_id": 10301,
+  "chapter_id": 103,
+  "chapter_title": "故事一无所有",
+  "display_label": "",
+  "title": "迦勒底神谕",
+  "subtitle": "举手。回答。漂亮的徽章将被赠与最出色的孩子。",
+  "trails": [
+    {
+      "element_id": 1030101,
+      "owner_episode_id": 10301,
+      "trigger_episode_id": null,
+      "title": "小径① 开放式三明治",
+      "description": "一张摸起来有些滑腻的纸，似乎曾包裹过某种油脂丰富的食物。",
+      "action": "残篇阅读",
+      "unlock_condition": "EpisodeFinish=10301",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "不，你还没醒。现在你还在这片粘稠的、流动的、黑色蝼蚁的冥想世界里。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "这里是哪儿？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "哪儿也不是，你这好奇心爆棚的潘朵拉。这儿可能是一片汪洋、一口井，是无名指的下缘……随便你怎么理解。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "在经历了一场“热烈邀请”后，你的腿上带了一点霉菌般的淤青——草履虫们觉得这能让你屈服。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "但对你来说，有些看不见的伤口比这严重得多。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "放心，尽管他们的手段并不温柔，你也未必温顺得像只羊羔。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "我在记忆里？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "记忆？好想法！你引以为傲的逻辑思维仍旧维持着正常运转。好让你现在也能像个生物学家一样，冲着沼泽分析该死的驼背巨鱼。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "但是抱歉，让你失望了。这不过是一场梦，一场违背了你个人意愿的梦境——强人所难向来是他们的拿手好戏。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "他们是？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "一群穿着袍子的家伙。袍子由白色的聚酯纤维制成，长度大多在膝盖以下。白袍子一号到白袍子七号都来了。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "可能只有单数，又或许混进了四号或者六号——他*的，随便他们怎么样。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "重要的是，其中有与你同窗的小姑娘。不，不是那个温柔忠诚，总是站在你身边的那个。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "是另一位——一位边缘简洁冷硬，摸上去像是个精密机械的女孩儿。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "我们姑且先像大部分人一样忽略掉她的名字，只朝着那个最光鲜的姓氏望过去。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "酒鬼眼中的雪莉桶威士忌，烟鬼眼里被雪松盒盛着的厄普曼——以及神秘学界的梅斯梅尔。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "我明白了，高级货",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "哈哈哈，你这烂鼻子的坏蛋。你的幽默感从来不会让我失望！没错，没错，高级货。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "很早以前，更早以前，在你或许有机会亲历的某个过去。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "从人类刚刚放弃了祷告的那个时期开始，拉普拉斯与他们——嘿，对了，那帮人更愿意自称为学者——达成了长久的合作。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "梅斯梅尔……他们是做什么的？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "摆弄那种神叨叨怪把戏的。坐在那里，拿铁棒一指你便昏睡过去，在脖子上挂上铁圈儿你又会感到灼烧似的疼痛。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "你熟知这种怪把戏，毕竟你周围净是些会用怪把戏的家伙：用玻璃笔保护别人的小姑娘，以及那个飘来飘去的会跳舞的苹果。"
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "他们掐断意识的火焰，帮助你往自己的最深处下坠……就像现在这样。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "能熟练运用它的神秘学家一只手都数得过来。要知道，稀缺往往是一个悲剧故事的楔子。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "她的噩梦就是这样开的头：从儿童劳动保护法变成了用来包三明治的、皱巴巴的纸开始。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "十二岁的小姑娘被带领着走进了屋子。她早在门外就敏锐地感觉到了这里的磁场变成了一团杂乱的风滚草。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "神秘学家的精神比人类脆弱得多，用不了多少刺激就能让他们退行成一头恶兽。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "梅斯梅尔们仁慈、专业。他们欢迎每一位前来治疗癔症的客人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "——这时你该意识到了，餐纸保护的从来都不是三明治，而是拿着它的手。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "那些品牌不明的芥末酱、被捏碎的肉排，边缘带着铁锈色的生菜从面包缝隙里流了出来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "混沌、污秽以及刺耳的惨叫——小姑娘被这些东西淌了一手，沾湿了身上的白色的聚酯纤维。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "……",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "嗯，的确是个沉默的好时候。"
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "现在，你注意到了机器上那些裸露的伤口，注意到了那些像是反复盥洗、重复整理的痕迹。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "毕竟孩童时期经历的创伤总能给人留下深刻的印象。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "这些东西被细细篆刻在骨间，它们沿着脊髓拾级而上——最后在每一寸神经元上抹上恶臭的鼻涕。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "自此之后，每一次成长都是痛苦的延伸：新的骨头生出来就被腐蚀，旧的细胞代谢也于事无补。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "这种事，你和她都很熟悉。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "好了，箱子提稳，看看时间——你该从这儿滚蛋了。"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1030102,
+      "owner_episode_id": 10301,
+      "trigger_episode_id": null,
+      "title": "小径② 一个梦Ⅰ",
+      "description": "黑色的、尖锐的、跳跃的移动着。",
+      "action": "教学记录",
+      "unlock_condition": "EpisodeFinish=10301",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100301",
+      "internal_title": "第三章3-1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "故事一无所有"
+        },
+        {
+          "kind": "title_card",
+          "text": "迦勒底神谕"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "神秘学家更注重的是另一进路的知识，我们通常将它称为灵知。与人类的理性相比，灵知的特征分别是什么？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "十四行诗。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "报告教员，灵知的特征是：一不能被独立验证；二不具备理性交流的可能。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "教员",
+          "text": "没错。这也是神秘学的知识难以被大众学术界认可的原因之一。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "教员",
+          "text": "学术研究要求“公开”且可被独立检验，但神秘学的不确定性会让专业研究落入“方法上的不可知论”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "教员",
+          "text": "而学校给你们提供的训练与科学矫正器械支持，就是为了让大家的不确定性变得更为可控，以保证人类世界的和平与稳定。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "学生众",
+          "text": "愿和平与我们同在。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "呜……差点就抢答成功了。她的速度怎么这么快啊……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "教员",
+          "text": "下一题。罗马帝国衰落后，神秘学家的数量与研究文献也相应减少。有谁能简述一下当时的历史？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "我——我——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "我——教员，这题我知道——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "教员",
+          "text": "十四行诗。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "呜哇……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "罗马帝国衰落后，神秘学家受到天性中缺乏理性一面的诱惑，将神秘术中的自然魔法用于利益争夺和战争中，逐渐引起主流宗教的不满。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "当时的欧洲普遍认为神秘术是一种“与恶魔接触”的异教崇拜行为，进而发动了一系列对神秘学家的审判。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "对此，神秘学界也展开了猛烈的反攻。但由于他们自身行踪不定，战术交流不畅……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "经过数个阶段的战况反复，最终以宗教界和世俗界为代表的人类取得了胜利。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "……咦？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "不对……这跟爷爷当时说的不一样……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "教员！她说的不对，我知道——我知道正确答案！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "教员",
+          "text": "好。你说说看，玛蒂尔达。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛蒂尔达",
+          "text": "就我所知道的呢，神秘学家并没有主动发起战争！当时的西欧各领主是为了争夺资源、神秘学研究文献才去攻占君士坦丁堡的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛蒂尔达",
+          "text": "我爷爷唱给我的童谣里记录了这一切的真相！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛蒂尔达",
+          "text": "而且，很久以前，神秘学家根本不叫神秘学家……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛蒂尔达",
+          "text": "他们曾经是很有天赋的哲学家、占卜师、医生……后来，却被钉上“异教徒”、“怪胎”、“女巫”的标签，被驱赶到社会的边缘，离群索居……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛蒂尔达",
+          "text": "所有人都忘了他们。人们再次见到他们的时候，他们就有了新的名字——神秘学家。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "教员",
+          "text": "很有启发性的观点。你还记得这首童谣的名字吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛蒂尔达",
+          "text": "啊，爷爷从没跟我提过它的名字……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "教员",
+          "text": "那么旋律呢？你能为我们哼唱一段吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛蒂尔达",
+          "text": "我想想，应该是……哼哼♪……嗯——不对。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛蒂尔达",
+          "text": "奇怪？我、我好像也不记得了……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "同学Ⅰ",
+          "text": "嘻嘻……你什么都不记得，怎么还好意思站起来回答问题啊，小不点！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛蒂尔达",
+          "text": "我昨天晚上还哼过这首歌！只是——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "教员",
+          "text": "先坐下吧，玛蒂尔达。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "教员",
+          "text": "十四行诗的回答是正确的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "教员",
+          "text": "玛蒂尔达，你刚刚转学过来，还需要一段时间来适应我们的课程。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "教员",
+          "text": "童谣可以作为民间文学的研究材料，但它与正式的历史情报仍有很大的不同。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛蒂尔达",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "教员",
+          "text": "同学们，翻到试卷的最后一题。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "教员",
+          "text": "君士坦丁堡被奥斯曼帝国攻克后，我们的沙兰公社成员，罗马帝国神秘学家、哲学家乔治·盖弥斯托斯来到了佛罗伦萨。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "教员",
+          "text": "他带来了古代通神术的经典著作。正是这部作品开启了佛罗伦萨人文学者每年一聚，探讨如何将神秘学运用于人类发展的“迦勒底会议”的历史。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "教员",
+          "text": "有哪位同学知道这部著作的名称？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "教员——请让我来！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛蒂尔达",
+          "text": "教员，让我来，这题、我真的知道——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "教员",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她的视线落到十四行诗身旁。那张书桌上垒着高高的书墙。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "教员",
+          "text": "维尔汀，你知道这个问题的答案吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "教员",
+          "text": "维尔汀？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "教员",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "教员走下讲台。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "教员",
+          "text": "……维尔汀，今天又没来上课吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛蒂尔达",
+          "text": "教员——我知道答案——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛蒂尔达",
+          "text": "是《迦勒底神谕》！"
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

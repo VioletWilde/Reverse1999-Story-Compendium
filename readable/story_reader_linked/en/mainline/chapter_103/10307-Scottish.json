@@ -1,0 +1,477 @@
+{
+  "episode_id": 10307,
+  "chapter_id": 103,
+  "chapter_title": "Nouvelles et Textes pour rien",
+  "display_label": "",
+  "title": "Scottish",
+  "subtitle": "Grease, starch and meat. It's the fish and chips we all like.",
+  "trails": [
+    {
+      "element_id": 1030701,
+      "owner_episode_id": 10307,
+      "trigger_episode_id": null,
+      "title": "Trail ① Stuffed Robber",
+      "description": "It's always hard to resist the temptation of food. They know how good fish and chips taste.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=10307",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1030702,
+      "owner_episode_id": 10307,
+      "trigger_episode_id": null,
+      "title": "Fish and Chips in the Kitchen",
+      "description": "The staff canteen is the best choice for filling the belly. Now you only need a bit more information to reach the fish and chips.",
+      "action": "",
+      "unlock_condition": "ChapterMapElement=1030701",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100308",
+      "internal_title": "第三章3-7",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "Scottish"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Finally, get them all to the corner."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Grr—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "I'm a bit hungry."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Oh right. I'll check what this padlock is made of and see if it can be consumed by the Shamirs ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Checks it under the lights."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Very ordinary metal. It's just a common metal lock, with a bit of rust on the shackle."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "I see. With plenty of food on the ground, Shamirs won't notice the ironware hanging above."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Heh. Time to try a brand new dish, you old gentlemen."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Closes the door of the room and sneaks through the hallway. There is no light in here."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "There are two guardhouses on each side of the hallway."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Pass by the rooms, and the front gate would be ahead. There is no lock on the gate."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Psst-psssst!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A gray-eyed boy pops his head up at the cell window."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "... Who are you?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“The Ring”",
+          "text": "I am \"The Ring.\" I can catch anything with a toss."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“The Ring”",
+          "text": "Look!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He throws out an iron hoop, which is the size of a finger ring. The ring rolls over and clogs up Vertin's shoelaces."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "So cool!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“The Ring”",
+          "text": "You can open these doors, can't you?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Yes."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“The Ring”",
+          "text": "Can you help me out of here? And I swear I will be at your service."
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "How?",
+          "edge_label": "How?",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "“The Ring”",
+              "text": "Cast that special skill of yours and open this lock on my door ..."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "Vertin",
+              "text": "And so you can leave without a backward glance?"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "“The Ring”",
+              "text": "Listen to you! I'm not going back in here again."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "Vertin",
+              "text": "No way, then."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "No way, mate.",
+          "edge_label": "No way, mate. ",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "“The Ring”",
+              "text": "Fine. Thought we are on the same boat."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "Vertin",
+              "text": "If I let you out, will you come back?"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "“The Ring”",
+              "text": "Of course not! Not even for a minute."
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "But if you don't come back, the instructor will give us a harsher punishment."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "I'm just sneaking out for food. I'll be back."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“The Ring”",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "What would you like to have?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“The Ring”",
+          "text": "... Fish and chips. Some onion vinaigrette on the side, if they have any."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "No problem. I will bring some mashed peas too."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Three hours later"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“The Ring”",
+          "text": "So you managed to control the Shamirs and got out?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Yes. How about you? Any odd things in your room?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“The Ring”",
+          "text": "Nothing peculiar. Just some stinky rats. Didn't even take me long to take care of them."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He shrugs his shoulders uncaringly and takes a good bite of the fish."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“The Ring”",
+          "text": "Nom-nom! The Staff Canteen does serve some good fish and chips ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“The Ring”",
+          "text": "What you have in the Second Canteen is not even close to it! Keep missing the dressings and sometimes it's not even cod they fried!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“The Ring”",
+          "text": "Hmm ... So, why are you here?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "... I said \"that word.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“The Ring”",
+          "text": "What word?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "\"That word.\" I said it at the pre-parade assembly."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“The Ring”",
+          "text": "Oooh, you mean the S-word? At the school assembly?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“The Ring”",
+          "text": "Hahahahahaha ...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“The Ring”",
+          "text": "Good for you ... Hahaha ... The Big Head is gonna be so pissed!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "*sighs* I don't understand ... It was he who said that I could ask any questions I want."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“The Ring”",
+          "text": "Where did you learn \"that word\"?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "I heard it from the janitor of our dormitory. That was the last thing he said."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "I saw him being escorted outside the school gate and onto a truck."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "He screamed all along, \"The 'Storm' is coming ... The 'Storm' is coming ...\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Er-m, I said it again ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "... Shoot."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“The Ring”",
+          "text": "Never mind, keep going."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "... I asked many people, but none was bothered to answer. Uncle Morris said the janitor left the school at an inappropriate time and saw some inappropriate things, so he needed treatment."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“The Ring”",
+          "text": "So I was right. The school is blocking the news feed."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "What do you mean?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“The Ring”",
+          "text": "Look at this. I snuck this out from the staff office."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "THE WORLD-CHANGING \"STORM\": TRUTH COVERED BY THE FOUNDATION?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“The Ring”",
+          "text": "Yes. It wrote about a phenomenon called the \"Storm,\" which will bring everybody in danger."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“The Ring”",
+          "text": "Yet, the Foundation has stayed in silence about it. We are not allowed to say \"that word.\" And this is the evidence."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The newspaper has already become soft in hand after all the foldings. Some of its printings have even become blurry."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "It doesn't tell us exactly what \"that word\" is, either."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "There's a line in bold at the end of the article ... \"Welcome to Manus Vindictae\"?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "What’s Manus Vindictae?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“The Ring”",
+          "text": "Dunno, never heard of it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Something has been printed on the back too. Hmm, let me see ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Nor happiness, nor harmony, nor fame,"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Nor pride, nor strength, nor skill in arms or arts,"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Shepherd those herds whom blindness makes tame;"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“The Ring”",
+          "text": "Their eyes see not one light of Bright Stars.\n               Men’s past ways are shaded by their shame,\n               Paeans are but admiration’s mirror half.\n\n               Tides run in blind by their ever-be routine,\n               Staining that Heaven with obscene calamity.\n               When folly wrecks wit, where do stand we? \n\n               Before a cruel whip? Man who man would be,\n               Must rule the empire of himself; in it \n               Must be supreme, establishing his throne\n               On vanquished will, quelling the challenges\n               Of hopes and fears, being himself alone."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The night is quiet."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Yet disturbances are about to come out of the dark."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Squeak, squeak."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“The Ring”",
+          "text": "What's going on? Great, the chips have brought in more rats!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“The Ring”",
+          "text": "Vertin? Vertin!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“The Ring”",
+          "text": "Do you have to drift off now? Come over and help!"
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

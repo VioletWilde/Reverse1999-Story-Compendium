@@ -1,0 +1,390 @@
+{
+  "episode_id": 10109,
+  "chapter_id": 101,
+  "chapter_title": "In Our Time",
+  "display_label": "",
+  "title": "The Origin Butterfly",
+  "subtitle": "A first-time meeting of the young scientists. Let's shake hands and show respect to each other, dear friend. Do you wish to know more of the truth?",
+  "trails": [
+    {
+      "element_id": 1010901,
+      "owner_episode_id": 10109,
+      "trigger_episode_id": null,
+      "title": "Trail ① To Another Castle",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=10108",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Mrs. Greco puts down the phone. She is now as calm as any Italian mother you've ever met. You know, they're usually making a yummy pie before they pull out their guns."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "There are enough people in black outside, enough to prevent any eavesdropping or violent conflict."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Mrs. Greco glanced blandly over the one, two, three, four ... nine, ten, eleven children in front of her. This is a big family, and it has grown bigger and bigger over the past few years because of Schneider."
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "Who are they?",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "They're Schneider's sisters. It's hard for the Grecos to tell them apart. But Schneider is different."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "But Schneider is different. She was born in an earthquake, all covered in blood, and didn't let out her first cry until two hours later. It wasn't until she was one year old that her father noticed that she had never been baptized."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "Who is Mrs. Greco?",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "She's Schneider's biological mother. You see her furrowed face, like a hard stone wall, while inside the wall is all about a pious farmer's life."
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "The Grecos are not good at dealing with gang affairs. They can't even figure out when their daughter has grown—grown into the backbone of the whole family."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "When Schneider took out 500 dollars from her pocket and put them on the table, they were completely shocked, and that's just the beginning."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Schneider ... Schneider, the youngest daughter they seldom cared about. It's impossible to keep every child well-fed. Schneider could not even get a piece of bread in the Eucharist."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "But a good daughter would not let anyone worry about her. She sat on the bench outside the church and hummed. She found a way out for herself. She walked to the underground market, fascinated by what she saw …"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "She announced her \"new identity\" one day."
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "What \"new identity\"?",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "The identity you know now."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "In the process, she lost something old but gained something new, no matter if she wished for it or not."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "What bread?",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "The bread provided in some sacred religious ceremonies. According to different teachings, it's sometimes flatbread, sometimes fermented bread, or sometimes any kind of bread."
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "\"Now,\" Mrs. Greco said, \"we live, or we die. If Schneider comes back safely tonight ... we will leave when the moon rises.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "\"The doors are closing in front of us, one after another. But the benevolent Maria will give us the ultimate shelter. My children, remember today forever.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Her words speak for her status. But Mrs. Greco's eyes never moved away from that small Madonna on the table. The hem of her clothes were soaked in tears."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "4 p.m. A family is determined to start a new journey."
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1010902,
+      "owner_episode_id": 10109,
+      "trigger_episode_id": null,
+      "title": "Trail ② Critter's Sheet",
+      "description": "Since they don't know human languages, critters will use items to express their intent. The one before you is hissing and dancing while dressed in a sheet. It is trying to taunt you.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=10108",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100113",
+      "internal_title": "第一章1-10",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "The Origin Butterfly"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Hello. Please get me Madam Z of St. Pavlov Foundation Committee."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "Hmm. It's you. What's wrong?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "I require access to the historical intelligence on the U.S. financial market in 1929, specifically the date of the Wall Street stock market crash, and how much arcanum was involved in the methods of stock exchange."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "Anything else?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "... Also, I request sending backup to reinforce the Storm Gathering tonight. Casual wear required."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "The date of the 1929 Crash confirmed by primary sources is Thursday, October 24. And the decline happened again, on the 28th and 29th."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "Intelligence Division indicates that no arcane forces were involved."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Hmm ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "The Manus is changing history, Madam Z."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "I'll send you a special team and give you the highest command."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "Do not make any moves until you figure out the reason why they want to change the history."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Copy that."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "Sounds like your friend just got into some troubles, Regulus."
+        },
+        {
+          "kind": "title_card",
+          "text": "St.Pavlov Foundation"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "Sounds like your friend just got into some troubles, Regulus."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Regulus",
+          "text": "... *tuts*"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Regulus",
+          "text": "I'd say, sign these documents and that's all for me, right? And then to the office of Scientific Computing Center?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "That's right. Let me show you the way, Regulus."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "En. This is X, our mechanical scientist. He will introduce you to some of our research devices ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "Although you are known for your rock and roll, I've heard that you're also interested in human technology."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Regulus",
+          "text": "Oh I got it. I don’t need to introduce myself then. Just call me Captain R!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "X",
+          "text": "Heh heh. That's not what our names come from."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "X",
+          "text": "Follow me, friend from afar. I have a lot of interesting new things to show you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "X",
+          "text": "The office is the only branch of the Scientific Computing Center affiliated with the Foundation. So, only the paper materials can be shared."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "X",
+          "text": "Hmm ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Regulus",
+          "text": "Hey! Why do you stop! I almost hit you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "X",
+          "text": "The introduction of the Scientific Computing Center is over, and your sightseeing tour ends here."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "X",
+          "text": "Would you like to know something more interesting?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "X",
+          "text": "For example ... the truth of the \"Storm\"?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Regulus",
+          "text": "... What do you know?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "X",
+          "text": "Not me. It's we. We're from a secret institution inside the Scientific Computing Center—Institutum Lorentz."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "X",
+          "text": "We are the ones who invited you to visit the Scientific Computing Center. Although you didn't bring the \"little thing\" with you, I believe it's still necessary for us to know each other."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Regulus",
+          "text": "Humph. So, it seems everyone of the Foundation is an intelligence expert."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "X",
+          "text": "We are not part of the Foundation, not even part of the Scientific Computing Center."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "X",
+          "text": "Unlike the Manus rioters who attacked you for your \"little thing\" ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "X",
+          "text": "We are only interested in the arcanists who are curious and inquisitive. Everything else has nothing to do with us. To better understand the \"Storm,\" Lorentz needs more talented collaborators."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Regulus",
+          "text": "Hmm ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Regulus",
+          "text": "So, does the door in front of us lead to your secret base?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "X",
+          "text": "For now, yes."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Regulus",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Regulus",
+          "text": "I can't see anything inside."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Regulus",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Regulus",
+          "text": "Vertin and Sonetto, what are they doing now ..."
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

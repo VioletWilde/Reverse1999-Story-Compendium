@@ -1,0 +1,709 @@
+{
+  "episode_id": 11302,
+  "chapter_id": 113,
+  "chapter_title": "他者的悲哀",
+  "display_label": "",
+  "title": "Homecoming Day",
+  "subtitle": "A pure and pristine song.",
+  "trails": [
+    {
+      "element_id": 1130201,
+      "owner_episode_id": 11302,
+      "trigger_episode_id": null,
+      "title": "Getting Worse",
+      "description": "The more you try to hide something, the more curious people become.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=1302",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "Legends of the School Watchtowers"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "[The last page torn from a book, treated with a visibility potion—the invisible ink now exposed.]\n\nThis afternoon I overheard the instructor slip up—she said something like \"back when the school didn't have the watchtowers ...\" What does that tell us? Those five towers are no ordinary structures; they were built for a reason! Our earlier suspicions just might be right!\n\nWhich one do you mean? The one about the towers being used to subdue ghosts? Or the one about locking up students who've gone mad?\n\nBoth! Just think—why would the school suddenly put up towers that serve no purpose and ban every student from setting foot inside?\n\nOh please. Maybe the name says it all—they're just there to watch us. The higher-ups have teachers on duty up there around the clock, holding a long-range lightning gun, just waiting for the moment you try to slip out ... and bang, you're down.\n\nEven if there really are teachers on duty, I don't believe they can stay awake 24 hours a day. One of these nights we'll find our chance, sneak in, and figure out their secrets for ourselves!\n\nHave you lost your mind? What if there are machines inside that can spy on students? We'd get caught in no time.\n\nYou're just a coward! We'll cover our faces. If something goes wrong, you run first, and I'll cover the rear. Just tell me—are you in or not?\n\nFine ... for the sake of our friendship, I'll go.\n\n\n[A report lies beneath this \"secret message,\" with a few sharp lines on the page.]\n\nAfter comparing handwriting, we have confirmed that the two students responsible are fifth-years Andrea and Oliver. I will personally reprimand them and impose a one-week detention as punishment. Given the recent rumors circulating among students regarding the watchtowers, I propose increasing patrol frequency around the watchtower perimeter and strengthening oversight of the weather-stabilizing pigeons housed within to avoid any lapses during inspections from the Pax House.\nRegarding my mistake, I can confirm that I did not mention the \"Storm\" or that reverse incident during the first \"Storm.\" I will submit a three-thousand-word written apology and reflect seriously on my failures in student management."
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "101302",
+      "internal_title": "第十三章13-02.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "Homecoming Day"
+        },
+        {
+          "kind": "title_card",
+          "text": "Hallway, St. Pavlov Foundation"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Captain Osborn",
+          "text": "Paravyan, Yermolai, front and center, please."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The two \"new recruits\" stand at attention before their captain."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Paravyan & Yermolai",
+          "text": "Hello, sir.\nGood morning."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Captain Osborn",
+          "text": "You two are from the \"XII\" Squad. Got nowhere else to go, huh? Sorry about your boss."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Captain Osborn",
+          "text": "Anyway, welcome to the First Squad of the Pre-Storm Quick Reaction Force. I'm Captain Osborn. I'll be your supervisor until the \"Storm\" is over."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Captain Osborn",
+          "text": "I don't believe you two are acquainted with our Storm Reaction Protocols, are you?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Paravyan",
+          "text": "No. This is our first mission here. What are our responsibility, sir?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Captain Osborn",
+          "text": "Our primary duty is to provide security for the Foundation's personnel admission process."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Captain Osborn",
+          "text": "We'll receive our orders directly from the Pre-Storm Dispatch Center, which takes over the Foundation's security forces in the last 24 hours prior to every \"Storm.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Captain Osborn",
+          "text": "Usually, we handle the admission process without additional support, but things are understandably more complicated this time. That's why you've been assigned here."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Yermolai",
+          "text": "Well, I wasn't expecting a vacation."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Captain Osborn",
+          "text": "Good to hear. Now, follow me. I'll fill you in along the way."
+        },
+        {
+          "kind": "title_card",
+          "text": "Registration Desk, St. Pavlov Foundation"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The grand north-facing gate, unweathered by time's passing, casts a heavy shadow beneath the sun's slanted rays."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "On the eve of each prior \"Storm,\" it has served as the only entrance to the Foundation open to visitors and refugees."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Beyond the gate, people form an uneasy line along the exterior wall, their slow and trudging progress like some fattened caterpillar inching toward safety."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Captain Osborn",
+          "text": "See these lines? Thanks to the Resolution on the Expansion of Admitted Persons, we're taking in ten times as many people as before."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Captain Osborn",
+          "text": "Soldiers, psychiatrists, theoretical physicists, and more than a few questionable individuals ... Someone's really opened the floodgates this time around."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Captain Osborn",
+          "text": "Most of them don't even know about the \"Storm\" yet. The Foundation's given out the usual excuses for our sudden invitation."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Captain Osborn",
+          "text": "But with all of these new faces, this is a prime opportunity for the Manus to infiltrate us. With so many looking for an escape from this war, it wouldn't be difficult to coax them into doing their dirty work."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Captain Osborn",
+          "text": "We've set up a security checkpoint here. Your job is to guard it and stop any unauthorized access to headquarters."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Paravyan",
+          "text": "And what if we find an \"unauthorized person\"? What's the protocol? Should we haul them off to a cell?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Captain Osborn",
+          "text": "Of course not. That's just what they'd want—an opportunity to cross the \"Storm\" safely."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Captain Osborn",
+          "text": "Send them away, and make sure they don't come back."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Paravyan",
+          "text": "But anyone we send away will die in the \"Storm.\" Can't we just ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Captain Osborn",
+          "text": "Those are your orders. We can only admit those who are already authorized, and there's no time to run background checks."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Captain Osborn",
+          "text": "Showing any mercy, no matter what the sob story, could put everyone in danger. You let one man in, and a second will follow, and then a third, and a fourth, and before you know it, it's utter chaos."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Captain Osborn",
+          "text": "We don't have the manpower nor the space to deal with that."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Paravyan opens his mouth only to feel a tug on his shoulder. Yermolai's grim expression conveys the point wordlessly."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Yermolai",
+          "text": "Understood, sir. Paravyan and I won't have any trouble following protocol."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Yermolai",
+          "text": "We'll do everything as ordered: \"Express gratitude, salute, and see them off. Never disturb the lives of the registrants,\" right?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Paravyan",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Captain Osborn",
+          "text": "Good to know at least one of you understands. The Foundation is like an ark sailing the flood. The only way we'll reach land again is through strict order."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Let me in!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The crowd at the entrance erupts into a flurry of shouting and shoving."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Captain Osborn's face remains stalwart and professional as he scans for the source of the commotion."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Captain Osborn",
+          "text": "Expect to see plenty more where that came from. We already stopped three of them before you got here."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Intruder",
+          "text": "You can't just leave us out here to die!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Intruder",
+          "text": "What are you all looking at, huh? The Foundation's only letting you in because they think you're useful! Your families are still going to die! Just like the rest of us!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Captain Osborn",
+          "text": "Gentlemen, please get rid of him before this escalates."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Yermolai",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Paravyan",
+          "text": "As Yermolai moves to carry out his orders, he spots his comrade's hesitation."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Yermolai",
+          "text": "Oh, brother. Before I get started, can I ask how long you've been at this, Captain?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Captain Osborn",
+          "text": "Five \"Storms\" as captain of the First Squad and three years as a squad member."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Captain Osborn",
+          "text": "It wasn't until I saw the \"Storm\" with my own eyes that I fully realized I'd never get to see my wife and children again."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Paravyan",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Captain Osborn",
+          "text": "But if you want to know my take on this, I'd say I swore to devote my life to the Foundation."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Captain Osborn",
+          "text": "It takes sacrifice to push time forward, gentlemen."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Yermolai nods, then turns to give Paravyan an affectionate pat."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Yermolai",
+          "text": "C'mon, Beagle. Let's take care of this lad."
+        }
+      ]
+    },
+    {
+      "script_id": "101303",
+      "internal_title": "第十三章13-02.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Hound has cornered his prey. The intruder has nowhere left to run."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Intruder",
+          "text": "Go to hell, Foundation lapdogs!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Yermolai",
+          "text": "Tsk."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Intruder",
+          "text": "Urgh!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A kick from behind sends the intruder stumbling to the ground."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Intruder",
+          "text": "Please don't kick me out."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Captain Osborn",
+          "text": "Leave him to me. Now, back to your positions."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Yermolai",
+          "text": "Understood."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The wails and commotion give way back to quiet order. Yermolai approaches Paravyan, blocking his view of the scene at the gate."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Yermolai",
+          "text": "Let's get to it. You know what to do."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Oh life of peace, and joy within, we yearn."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Our hearts, they stay on guard to strive and fight."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "For darkness lingers steadily within."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Light flies toward thee like a dove."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "..."
+        },
+        {
+          "kind": "title_card",
+          "text": "Opening Ceremony, SPDM"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The children make an awkward attempt at bows and curtsies, then exit the stage following their teacher's instruction."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The applause continues as the principal takes the stage. He taps the microphone, drawing out a screech of feedback before he begins."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Principal",
+          "text": "Thank you for that wonderful performance. Distinguished teachers, dear students, ladies and gentlemen, welcome to this year's opening ceremony."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Principal",
+          "text": "We are especially honored today to be joined by the Foundation's Inspection Team, who will be spending this memorable day by our side."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Principal",
+          "text": "For many of you, this will be your first time leaving home. And for all of you, this opportunity to study at a unique institution with students from all over the world may seem daunting at first."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Principal",
+          "text": "There will be challenges, even conflicts, along the way. But here, you will study the skills and values needed to overcome them. Every young arcanist will have the opportunity to realize their potential and to contribute to the cause of world peace—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Principal",
+          "text": "A mission this institution has pursued for centuries. Our philosophy ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The loudspeakers carry the principal's speech across the campus, same as ever."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Matilda leans against the guardrail, finding her eyes drifting over and over to the time."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Matilda",
+          "text": "Vertin said she and Sonetto would be a tad tardy, I know, but where is that assistant she said would be here?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Matilda",
+          "text": "Ugh, that same old speech again? I bet that old fogey wrote it before I was even born."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "Matilda?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A flash of purple squeezes out from the sea of white uniforms."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Matilda",
+          "text": "Merel! You're the assistant Vertin sent?!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Matilda",
+          "text": "Heck! What took you so long? I've already been waiting for 34 minutes!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "Sorry! You wouldn't believe how crowded the student entrance is. Took me ages to get in."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Matilda",
+          "text": "The student entrance? You're not a student anymore, Merel."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Matilda",
+          "text": "You were meant to go to the staff entrance. They would have let you in right away."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "Oh. Uh, haha, ha ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "You're right. I should've known."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Matilda",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Matilda",
+          "text": "You graduated two years ago, Merel."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "I-I know. It's just ... I chickened out when I made eye contact with the instructor at the gate."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Matilda",
+          "text": "*sigh* Never mind. It's not too late to start our mission."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "Right. About that, what is our mission exactly?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Matilda",
+          "text": "To maintain order on the campus and deal with any and all threats during the opening ceremony."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "Isn't that the guards' job?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Matilda",
+          "text": "Well, yes, but, hmm, we need some privacy. Follow me."
+        },
+        {
+          "kind": "title_card",
+          "text": "Classroom"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Matilda inspects the classroom. Only once she's confirmed it to be empty does she speak, albeit cautiously."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Matilda",
+          "text": "*sigh* We can't let the students know about the \"Storm.\" I am certain you remember."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Matilda",
+          "text": "I suppose you know this better than I do, but many children have lost their parents to the war in this era."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Matilda",
+          "text": "Therefore, the SPDM has taken in a great deal more arcanist orphans than ever before. The intake this year is so large that the staff can hardly handle it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "I see. No wonder everywhere feels so crowded."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Matilda",
+          "text": "So, then, you've seen for yourself how order is barely being maintained, even with all the guards on hand."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Matilda",
+          "text": "That is why the SPDM has requested some alumni from headquarters to assist."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Matilda",
+          "text": "Still, we have a more important mission than just maintaining order, that is, to inspect the Shelter Doves around the campus."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She looks out the window, which offers a clear view of a nearby watchtower at the corner of the school's walls."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Merel follows her gaze. It's a familiar sight, the same watchtower that stared down at her when she was a student here."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "You mean those things installed on top of the watchtowers? Are you sure we're allowed to touch them?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Matilda",
+          "text": "Oh, you know about them already? Good. Then we can skip the introduction."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "I think so. My commander from the \"XII\" Squad told me about them. He said headquarters only has a limited immunity range against the \"Storm.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "Nearby facilities, like the SPDM, fall outside that range."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "And that's where these Shelter Doves come in. They reshape the immunity area to cover those facilities."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The alumni look away."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "There is one thing I've been wondering, though. Where did these Doves come from?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Matilda",
+          "text": "It's Pax House technology. Not even the Laplace researchers know how it works."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "But if we don't know how they work, how are we supposed to inspect them?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Matilda",
+          "text": "Ordinarily, the Pax House sends an inspector to check on their status. But this time, they sent over the testing equipment so that we can do the job ourselves."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Matilda",
+          "text": "You just need to plug it into the maintenance panel on the pedestal and wait. It will sound a warning if the Doves need repair."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Matilda glances downward as she pulls a piece of paper from her pocket. She's done her homework, condensing the entire 150-page manual onto a single sheet of crucial information."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Matilda",
+          "text": "And of course, its power doesn't come from nowhere. You can check the battery status on the panel."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "And if it does sound a warning? I doubt we'd be able to fix it on our own."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Matilda",
+          "text": "In that case, replace it with a backup Dove and report the malfunction to headquarters. Someone will take care of it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Matilda",
+          "text": "There are backup Doves stored in the air-raid shelters beneath the watchtowers, except the central one. That shelter is closed for maintenance, so its Doves are stored near the top."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Matilda",
+          "text": "According to the maintenance logs, we shouldn't have any problems. But we still need to inspect each one of them."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "Uh, so, it's just a routine check, then?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Matilda",
+          "text": "Yes. I know it sounds a little dull, but the safety of the entire campus depends on us."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Matilda",
+          "text": "Now you understand why they turned to Matilda—their most reliable investigator and former monitor assistant—to bear such a great responsibility."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Matilda",
+          "text": "Hello?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lavender",
+          "text": "Ms. Matilda, have you met the other member of the Security Assistance Team?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Matilda",
+          "text": "Yes. She's here with me now."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Matilda",
+          "text": "Any luck finding the missing student Ms. Fogel talked about?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lavender",
+          "text": "Well, about that, I followed the instructions of your divination to the classroom building and dorm, but there was no sign of him at all."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lavender",
+          "text": "And I received a new message from Ms. Fogel. She said there was another student missing during the attendance call at the opening ceremony."
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

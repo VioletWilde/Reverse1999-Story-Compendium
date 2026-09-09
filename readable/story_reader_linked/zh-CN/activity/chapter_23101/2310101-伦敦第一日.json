@@ -1,0 +1,693 @@
+{
+  "episode_id": 2310101,
+  "chapter_id": 23101,
+  "chapter_title": "圣火纪行：东区黎明",
+  "display_label": "",
+  "title": "伦敦第一日",
+  "subtitle": "热情的火焰上蒙着一层古怪的灰黄。",
+  "trails": [
+    {
+      "element_id": 2310101,
+      "owner_episode_id": 2310101,
+      "trigger_episode_id": null,
+      "title": "开业日",
+      "description": "它被发给所有乌卢鲁预选赛的期待者与参与者。显然，详细介绍都在传单背面。",
+      "action": "交互",
+      "unlock_condition": "EpisodeFinish=2310101",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "乌卢鲁来了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "游戏，美食，还有最重要的乌卢鲁！\n欢庆集市已开放，期待您的到来！\n-------------------------------------\n\n重要通知：“你心中的冠军”投票已开启！\n欢庆集市中心街道，每人限投一次，快来投票吧！\n\n惊喜！乌卢鲁模拟赛 全面开放\n3大赛区：射击、竞速、球类运动，共计7个项目\n6便士即可畅玩！\n\n-------------------------------------\n店铺特别推荐：维克多电影院\n《乌卢鲁传奇运动员》系列纪录片  上映中！\n-------------------------------------\n\n特别惊喜：每周一、三、五晚，乌卢鲁特别问答\n冠军将获得两张指定项目观赛票！\n\n-------------------------------------\n店铺特别推荐：普克占卜店\n比赛预测、好运加持   就在普克占卜店\n-------------------------------------"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "202301",
+      "internal_title": "【2.3】东区黎明-01.1",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "我们走吧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "司机",
+          "text": "好的，那我们就出发了，小姐。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "司机",
+          "text": "您以前来过伦敦吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "是的……在很久之前。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "司机",
+          "text": "五年？十年？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "要更久远。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "司机",
+          "text": "能有多久呢！您看上去年纪并不大。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "呵呵。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "司机",
+          "text": "再过两条街就是您要去的那家医院了，噢，对了，顺带一提——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "司机",
+          "text": "——按照流程，您应该先和福葛先生见一面，之后他会带您仔细参观一遍这家医院的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "我只是来看一眼，犯不上这么大的阵仗。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "司机",
+          "text": "这倒是千真万确，女士。如果让服务于王室的老爷安排一场正式的访问，这家医院保管会被装点得像是要过圣诞节。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "嗯，谢谢你愿意为此绕路。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "我会在参观完后自己去福葛先生的办公室，你不用等我了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "其实，我很愿意见识一下伦敦出名的地铁。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "司机",
+          "text": "地铁？这可不行，女士，那东西和运煤车没什么区别，体面人从来不会坐地铁。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "司机",
+          "text": "我就在这等您，别担心我会没事儿做——我所有的精力都要用来克制我对一杯爱尔兰威士忌的渴望。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "好吧，我很快就会结束。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "——！"
+        },
+        {
+          "kind": "title_card",
+          "text": "基金会办公室"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "第一防线学校校医院的生活还不算太糟吧，牙仙？听说那些吵吵闹闹的学生们都很喜欢你。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "年纪小的孩子们总是比较好安抚，只要他们能听话，我会给一颗他们喜欢的糖果。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "通常太妃糖就能起作用，其次是水果硬糖——都是一些能让他们忘记牙仙味道的东西。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "适当分量的甜食能帮助你放松神经，不管对大人还是小孩都一样。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "牙仙取出一枚白纸包的奶糖，轻轻放在Z女士装满特浓茶水的搪瓷杯旁。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "副会长身边的麻烦事一定比校医院要多，况且你还要关照我们新任的司辰——她是个爱闯祸的孩子。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "所以，我想你叫我来这间办公室并不是为了一颗糖，以及一次闲聊。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Z剥开糖纸，将奶糖置于口腔中慢慢融化。与此同时，一沓规格不一的纸张被递至牙仙面对的桌前。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "鉴于上一次“暴雨”中，基金会已经确定了时代动乱与“暴雨”的关联性，各分部正在收集有关社会运动的报告。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "这是伦敦分部提交的一份报告，内容是刚刚在伦敦结束的罢工运动……不，你暂时不用关心有关罢工的细节。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "年轻的校医迅速翻动文件，还未经指引，就已抓住了关键词汇。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "肺结核。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "没错，附录中的伦敦空气污染和肺结核病例报告里有一些异常的数据。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "比对史实资料来看，该时期伦敦的肺结核发病率不可能高到这种程度，这几乎达到了1952年伦敦烟雾事件时的水平。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "而且，这个年代的“雾行者”福葛先生也声称，浓雾的成分有些异常。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "需要有一位对“暴雨”知情的人员前往伦敦，最好还有医学背景……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "我明白了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "我知道你的冬季假期刚刚开始，但基金会仍旧处于人力不足的状态中。我会为你的这次特别外勤申请额外津贴的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "不必担心，我很乐意前往。或许此行能收集到一些在其他时代见不到的牙齿。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "祝你好运。等你到了伦敦，福葛先生会与你接洽——他奉王室之命，是英国政府与基金会之间沟通的桥梁。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "按照以往的流程，他会先带你参观伦敦市内收治呼吸系统疾病病人的医院。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "在此之后，你可以自由决定如何行动。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "顺带一提，伦敦人对乌卢鲁预选赛的热情可能会影响到你的调查效率。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "乌卢鲁？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "“乌卢鲁伦敦预选赛开幕在即，十字街将为神秘学家举办预热集市……”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "“……为你支持的运动员呐喊助威……”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "“……不列颠的运动员将带着荣耀前往澳洲参加决赛。”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "司机",
+          "text": "澳洲？——我叔叔可是一边哭着一边登上了去澳大利亚的船，我们都认为一个人必须要打得过袋鼠才能在那地方安身立命。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "司机",
+          "text": "但要是伦敦街头天天来上刚才那一遭，我绝对会把车卖了，去澳洲给我叔叔帮把手——他可能打不过袋鼠。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "眉头紧皱的乘客将偶然得到的传单叠好，乌卢鲁运动会并不是她现在正在关注的问题。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "我们刚刚遭遇的黑雾几乎摧毁了一座医院，而你好像不太惊讶。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "司机",
+          "text": "这算不得什么大事，女士，每年光是煤气管道爆炸都能掀翻好几座屋子。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "司机",
+          "text": "见怪不怪是一种生活智慧，还是一种绅士风度，尤其是你出门喝杯茶，都能把全世界的神秘学家碰一个遍的时候。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "司机",
+          "text": "伦敦全是阿拉伯人、北非人、印度人，还有日本人……天知道他们会使些什么神秘术呢？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "警察接管了事故现场，可我担心他们能否做好肺结核医院的善后工作。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "司机",
+          "text": "警察厅自有一套办事方法……不算特别友善的那种。所以我说，这事您要尽早和福葛先生通气。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "司机",
+          "text": "也就他还愿意花时间和大人物磨嘴皮，就为了救济院每天能多领到几磅面包配额。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "福葛先生得知消息的速度肯定会比我们去传话更快。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "我仍然认为，对我们来说，最好的做法是沿着黑雾在街道上留下的裂痕继续追踪，说不定有机会追上它，或是它的主人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "司机",
+          "text": "如您所愿，女士。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "汽车沉默地向东行进，经过一条又一条越来越狭窄的街道。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "司机",
+          "text": "……再往前走就是东区了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "司机",
+          "text": "东区，没错，女士，就是东区。酒鬼和流浪汉游荡的东区，开膛手杰克曾留下罪行的东区……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一次全力以赴的急刹车，刹车片发出尖厉的哀嚎，车头传来不祥的撞击感与孩子的惊叫。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "司机",
+          "text": "——臭小子！！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "太阳穴上的神经一阵刺痛，牙仙几乎是跌跌撞撞地冲出车厢。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "司机从车窗里探出头，争抢着为自己的失职辩解。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "司机",
+          "text": "女士，我绝没碰一滴酒，但东区就是这个样，好司机不会在这种地方开车，尤其还是这种大雾天。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "司机",
+          "text": "要么是你撞到了什么人，留下一摊血迹，要么是被人用石子砸碎了车窗。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "司机",
+          "text": "……你看清我撞着什么东西了吗？告诉我吧，我承受得住。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "可……车前没有人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "司机",
+          "text": "没有人？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "向上看。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "司机",
+          "text": "小心头顶，女士！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "牙仙仰起头。漫天飞舞的纸片旋转着下落，其中有一团色彩驳杂的布团格外显眼，仿佛是被人遗弃的旧麻布袋。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“麻布袋”",
+          "text": "你想接住我吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "女孩的裙角被风鼓起，她如一朵水母般浮游于半空。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "空中的彩色纸片沿着漩涡的轨迹，缓缓汇集在女孩身边——它们都是尚未散发的乌卢鲁宣传单。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "风……她毫不费力地用神秘术将自己的身体托了起来，在她这个年纪，可真少见。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "小麻布袋缓缓地降了下来，牙仙凭本能伸出双手，可它忽然在空中飘向了另一个方向，轻巧地落在几步之外的路肩上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“麻布袋”",
+          "text": "你输了，你不是一个厉害的运动员。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "你受伤了吗，孩子？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“麻布袋”",
+          "text": "我为什么会受伤？我还没有飞到和金丝绵雀的窝一样高，只要轻轻地落下来就好了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“麻布袋”",
+          "text": "可是奇奇比翁受伤了，黑色的汽车把他的腰给撞断了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "司机",
+          "text": "奇奇比翁？他是你的朋友吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“麻布袋”",
+          "text": "是的，他被撞到之后就跑开了。不过他很记仇，说不定马上就会找回来了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "小麻布袋指向道路左侧的暗巷，阴暗而多雾的角落中，有一对闪闪发光的眼睛掩藏在垃圾箱之后。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“麻布袋”",
+          "text": "他就是奇奇比翁，而我是纸信圈儿。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "司机",
+          "text": "……叫你的朋友出来吧，我得为他的腰道歉。他或许这辈子也没法去码头讨生活了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "纸信圈儿",
+          "text": "他不用去码头做工，不过道歉是应该的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "纸信圈儿面向小巷，如招呼最亲热的好友那般向小巷深处挥着手。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "纸信圈儿",
+          "text": "奇奇比翁，快出来，这位先生想要向你道歉，也许他买了保险呢。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "藏在阴暗街角中的奇奇比翁蠢蠢欲动，它搅动着淡黄色的雾气，突然跃出。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "奇奇比翁",
+          "text": "奇奇——嗡——嗡——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "司机",
+          "text": "这玩意——这玩意根本就没有腰！它比袋鼠还大啊！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "纸信圈儿",
+          "text": "是你看不见他的腰！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "受惊的魔精很危险。退后。"
+        }
+      ]
+    },
+    {
+      "script_id": "202302",
+      "internal_title": "【2.3】东区黎明-01.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "司机",
+          "text": "哦！哦！哦！该死！该死！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "发动机再次启动，活塞缸打着撤退的鼓点，带着汽车远离这片满是脏污的街区。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "纸信圈儿",
+          "text": "开车的先生像奇奇比翁一样溜走了，他不和我们一起去玩吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "这位先生担心留在这条街上会弄坏他的车，他不想因此丢掉工作。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "纸信圈儿",
+          "text": "丢掉工作？这个我明白，我也不想丢掉工作。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "小女孩极富同理心地点头。可在更成熟的大人眼中，这个年纪的孩子和工作这一词完全没有关联。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "纸信圈儿",
+          "text": "他一周赚的钱肯定比六便士更多，不然可买不起一辆车……他是做什么攒到这么多钱的？我也能做到吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "你需要再长大些才行。来，张口。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "牙仙指尖出现了一份金光闪闪的药膏——由金色仙子添加羊毛脂后研磨而成，用以避免初次生吞牙仙的恐惧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "纸信圈儿",
+          "text": "这是什么？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "药膏。你受伤了，内服可以止痛，外用可以消炎。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "纸信圈儿",
+          "text": "我身上有些疼，可是消……炎？什么是“瞎咬”？女巫小姐还没教会我怎么“瞎咬”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "总之，它能让你变得更舒服。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "听医生的话，好吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "孩子的好奇心轻易战胜了对未知事物的抵触，她伸长脖子，一口吮住牙仙沾满药膏的手指。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "纸信圈儿",
+          "text": "唔……有点酸，还有点像发霉的覆盆子，但总的来说还是甜甜的，为什么别的药不像你的这样甜？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "纸信圈儿",
+          "text": "你戴着很奇怪的金属“面具”，胸前还有好多牙齿，罐子里装着金色的小精灵。你是巫医，对吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "你也可以这么认为。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "纸信圈儿",
+          "text": "那你一定是来参加乌卢鲁欢庆集市的！看，你还带着集市的宣传单呢。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "我是来伦敦调查肺结核病的医生，可是一道奇怪的黑雾摧毁了我正要造访的医院。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "我在追踪这道烟雾的去向，所以才来到了这里。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "纸信圈儿",
+          "text": "这里没有什么黑雾，空气一直都是黄乎乎的，又高高地飘在天上。只有红砖厂的烟囱会冒黑烟，但那些厂房都不在十字街。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "纸信圈儿",
+          "text": "十字街上的人都在关心乌卢鲁，这里很多人都会神秘术，会神秘术的人都在庆祝将要到来的乌卢鲁。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "纸信圈儿",
+          "text": "这儿有草药师、通灵师、占星师、魔术师……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "我明白你的意思了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "如果不被打断的话，纸信圈儿能把这条街上的每一份神秘学活计都念一遍。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "纸信圈儿",
+          "text": "你明白就好了。我带你去看看，你一定会喜欢的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "纸信圈儿拉住客人的手，把她往十字街的深处拽去。"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

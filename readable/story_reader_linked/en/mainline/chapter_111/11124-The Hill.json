@@ -1,0 +1,801 @@
+{
+  "episode_id": 11124,
+  "chapter_id": 111,
+  "chapter_title": "行于漫漫长路上",
+  "display_label": "",
+  "title": "The Hill",
+  "subtitle": "A tiny fraction of those names.",
+  "trails": [
+    {
+      "element_id": 111024,
+      "owner_episode_id": 11124,
+      "trigger_episode_id": null,
+      "title": "Time to Go",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=11124",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "I'm sorry, but I think it's time you left."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "There will be little more to see here."
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "But the war isn't over yet.",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "What difference does it make?"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Earthquakes, floods, famine, plague, robbery, car crashes, a slip in the shower ..."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "War is just one catastrophe among many."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "It's not worth your attention."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "At least, this war is not."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Next time? Are you so intrigued by the life of a pension-drawn widow?"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "I would decline, but my upbringing demands otherwise. How unfortunate ..."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Well ... perhaps it's better to drink dirty water beneath the eaves than to eat dust on the battlefield."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "That is all. Hurry along to the eastern front. Check on your friend. I will pray for her."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "See you next time.",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1110241,
+      "owner_episode_id": 11124,
+      "trigger_episode_id": null,
+      "title": "\"Free\" Intelligence",
+      "description": "Intelligence may be priceless, but it never comes free.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=11124",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "Burn After Reading"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Due to unexpected circumstances, I had temporary access to an incomplete report. While the information it contained was too fragmented to understand the complete situation, it did reveal one fact: Zeno and the Foundation have been secretly working on \"Storm\" research. This work is entirely separate from any known research and lies beyond the scope of security clearance.\n\nWhat is particularly concerning is that the majority of Foundation staff and Laplace personnel appear completely unaware of these covert operations. The mere existence of such hidden activities is, in itself, deeply concerning."
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "101133",
+      "internal_title": "第十一章11-24",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "The Hill"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A completed mountain. Though only a mere fraction of what death truly claims."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Charon",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "It left everything behind: a coat, a helmet, a pair of boots ... a butterfly-covered notebook."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "—Everything that once belonged to a young man named Paul."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Charon",
+          "text": "Your war is over, Paul."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "His belongings are fittingly buried at the last grave, beside the major who died atop the hill."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A clatter of hooves approaches from the road."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Charon",
+          "text": "Andreas?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The name is whispered softly, as if not to disturb those resting here."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The sound stops where gravel meets the mush of mud and snowmelt."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Andreas",
+          "text": "Neigh—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A black horse breaks the veil of mist and approaches."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The horse exhales a comforting snort—leaning in—yearning for his hand."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Charon",
+          "text": "Good boy."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Charon",
+          "text": "You have been gone for a long time. Off to dangerous places again to search for your lost friends?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Andreas",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Charon",
+          "text": "It seems luck has been on your side. You have dodged danger time and again amidst this slaughter."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Charon",
+          "text": "But I cannot help but worry that, one day, a stray bullet will pierce you, or a poison gas will choke you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Andreas",
+          "text": "Neigh!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The horse lowers its head."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Charon",
+          "text": "Harshness is not my intention, Andreas. But I am grateful that you have returned to my side hale and whole."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "They look eastward. Toward the rising sun, where ominous clouds gather."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Charon",
+          "text": "It's time. The next destination is a distant one. Your help will be appreciated."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Andreas",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Andreas tilts its head to one side, signaling its master's attention to the youth who has arrived behind them."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "\"Officer\"",
+          "text": "Mr. Charon, is this your horse?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The grim figure turns his face toward the source of the question."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Charon",
+          "text": "In a sense, young man."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "\"Officer\"",
+          "text": "Oh, then it's nothing. He showed up near Montpaix all by himself, so I followed him here to see if he might be connected to Manus Vindictae."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Charon",
+          "text": "The Foundation is still in Montpaix?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "\"Officer\"",
+          "text": "We'll head off soon along with the soldiers to a safer position."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "\"Officer\"",
+          "text": "By the way, do you know where Blackbird is?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Charon",
+          "text": "Blackbird?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "\"Officer\"",
+          "text": "Oh, I mean Merel—the girl who went to the front with you. I haven't been able to get in touch with her since the Manus attacked."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "\"Officer\"",
+          "text": "Where could she be? I just hope she hasn't gotten herself into any serious trouble."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Charon",
+          "text": "She is alive and well."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A surprise. The young man's eyes alight with joy."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "\"Officer\"",
+          "text": "She is? Where did you see her?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Charon",
+          "text": "That, I cannot tell."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "His gleam dims as Paravyan adjusts to the unexpected refusal."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "\"Officer\"",
+          "text": "Why?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Charon",
+          "text": "She does not wish to be found."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "\"Officer\"",
+          "text": "Wh-What? She doesn't wanna come back with us?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Charon",
+          "text": "Correct. She is afraid of the war that lies ahead."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Charon",
+          "text": "Bloodshed, carnage ... She was unprepared to witness such harrowing scenes."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Charon",
+          "text": "She requested I not reveal her whereabouts to the Foundation—in fact, she demanded a promise."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "\"Officer\"",
+          "text": "I don't understand. How could you just let her go like that?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "\"Officer\"",
+          "text": "Isn't she more likely to run into danger if she's on her own? And leaving like this, she'll be marked as a deserter. Oh, no."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Charon",
+          "text": "I know little of your rules."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Charon",
+          "text": "But a promise was made, and her reasoning is understandable. It is her right to turn away from her fear, just as it is anyone else's."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The young man never thought about how to cope with such a situation."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He scratches his head, at last arriving at a simple conclusion."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "\"Officer\"",
+          "text": "Fine. At least she's still alive."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "\"Officer\"",
+          "text": "But I can't leave her alone out there. I'll find a way to track her down."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The voice is clear and certain. He is willing and able, no matter how daunting the task ahead."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "\"Officer\"",
+          "text": "Thank you for the information, Mr. Charon. Goodbye."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He sets off on the road back to Montpaix."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "They watch him together, horse and rider, as he disappears into the woods."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Long Grass",
+          "text": "\"Hiss—\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Andreas",
+          "text": "...?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "Has he gone?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Charon",
+          "text": "Yes."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Andreas",
+          "text": "Neigh ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The girl leaps out from the grass."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "Why did you tell him that I'm still alive?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Charon",
+          "text": "You did not request that to be kept a secret."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "Fine."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He nods his assent and begins to shuffle away."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Andreas snorts as it circles between them."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Andreas",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Merel pats the horse's cheek."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "Umm, Charon?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Charon",
+          "text": "Huh?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "Actually, I wasn't serious, you know, when I said I wanted to become a gravekeeper here."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Charon",
+          "text": "The dead need no company, and every tombstone will one day fall to decay. In the end, time will pull us all into the sea of oblivion."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Charon",
+          "text": "Nothing in this world is immortal."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The young girl scratches at the fabric covering her face. The tension of being a \"deserter\" seems to make her skin itch."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "Right. Well, anyway, the gravekeeper joke was a bad one, I admit it. But what I'm trying to say is, I'm not sure where to go next. I mean, who else can I depend on besides the Foundation?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "I definitely don't want to get caught by Manus Vindictae, that's for sure. Trust me, you don't want to know what they were doing in Antarctica."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "Oh, not the Antarctica in this era—the one from before. Anyway, my point is, I can't deal with them on my own."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Andreas",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "But I can still do something, like dealing with troublemaking critters."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "So, um, if you need that kind of help, maybe we can travel together? I trust you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Charon",
+          "text": "My path will have little safety."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "That's alright. I'll just run off when danger comes."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Charon",
+          "text": "In that case, follow me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Charon",
+          "text": "We will take a detour to avoid entering territories under the Foundation's surveillance."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He retrieves the familiar chocolates from his coat; they're unmelted and cool to the touch, despite having been kept so close to his body."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Charon",
+          "text": "If you're hungry, these can be returned to you. Andreas will carry you should you grow tired."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The soldier who has at last escaped war nods with joy."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Merel",
+          "text": "Got it!"
+        },
+        {
+          "kind": "title_card",
+          "text": "Chief of Staff's Office"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "The revision to the Storm Reformation Act has been added to the agenda, and the Committee will soon begin the next round of discussion. You'll need to attend the meetings as well."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "Recent events have given the Hawks a stronger voice, and they are in favor of expanding the authority and budget of Team Timekeeper."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "Stay ready, Vertin."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Understood."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Foundation staff and Committee members hurry through the hallway."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Just as they exit Ms. Z's office, they're met with a familiar voice."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Creius",
+          "text": "Timekeeper?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Were you waiting for me?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Creius",
+          "text": "No, just a happy coincidence. I'm glad to know that you remember me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Of course. Your decisiveness saved the lives of many soldiers on the battlefield."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "I also heard that the Doves agreed to further implement your \"frontline contingency plan\" after the Montpaix crisis was resolved."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Creius",
+          "text": "Heh. I'm surprised to see you're interested in politics."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "I'm not interested, just informed."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Creius brushes aside the topic without comment."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Creius",
+          "text": "I've been wanting to speak with you since our last meeting was cut short, but this certainly isn't the place for a proper conversation either."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Creius",
+          "text": "Contact me if you're interested. I have some very valuable information for you, I'm sure. Both about the Foundation and about ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Creius",
+          "text": "Urd."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Seeing the expected reaction, he smiles and hands over an envelope."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Creius",
+          "text": "I look forward to hearing from you. I'm sure we will make excellent collaborators."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Excuse me, Timekeeper."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Sonetto rushes over, looking at the red-haired man with a mix of suspicion and confusion."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Oh, Mr. Creius, do you have an urgent matter you'd like to discuss with the Timekeeper? I can arrange a meeting for you if necessary."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Creius",
+          "text": "No need for that. I was just saying hello."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Creius",
+          "text": "Until next time—Timekeeper, Ms. Sonetto."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He gives a nod, slight but confident, then takes his leave."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Timekeeper, is there something wrong?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "It's nothing. You seem a little anxious, Sonetto. What's the matter?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Sonetto takes out her communicator."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Timekeeper, you need to look at this. It's an important message."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Sent from ... Lilya?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "I've been on a mission on the eastern front, under the direct orders of Admiral Somme."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Guess what I found, Captain? An *static noise* Zeno outpost without *static noise*."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "From the looks of it, I think it's the *static noise* rebels."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "I can tell *static noise* in more detail. Call me back as soon as you can."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The message ends in a burst of static."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "I tried to contact Ms. Lilya after receiving the message, but I couldn't get through."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "She mentioned Zeno rebels. This is worrying."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Could it be ... Igor? Lilya might be in trouble."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Sonetto, I think we'd better pay another visit to Madam Z."
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

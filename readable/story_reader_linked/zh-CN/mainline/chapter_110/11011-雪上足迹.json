@@ -1,0 +1,751 @@
+{
+  "episode_id": 11011,
+  "chapter_id": 110,
+  "chapter_title": "复乐园",
+  "display_label": "",
+  "title": "雪上足迹",
+  "subtitle": "黑暗总是日出的前奏曲。",
+  "trails": [
+    {
+      "element_id": 1010111,
+      "owner_episode_id": 11011,
+      "trigger_episode_id": null,
+      "title": "《创世纪》隐喻",
+      "description": "",
+      "action": "残篇阅读",
+      "unlock_condition": "EpisodeFinish=11011",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "你终于通过了这关，我本以为会很轻松。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "要知道，答案曾在你面前出现很多次——用双手蒙住自己的双眼，你的敌人最爱干的事。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "手的作用就是控制，这是一路以来的第三课。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "至于前两课，其实你已经见过消化系统和排泄管道了，重新描述会让报告变得很长，建议直接回顾过往记录。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "回到正题，你在这次行军中差点因眼球侦察兵的错误情报而死亡。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "幸好大脑指挥部反应迅速，才没有导致最坏的结果。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "为了避免类似情况再次发生，你应该设立副指挥部来进行纠错。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "交给心脏吧",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "永不停息的战略要道，调度血液的必经之地，激动时还会剧烈跳动。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "它确实是大脑之外最可靠的器官，也不得不可靠。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "可惜，它还是不要有自己的思想比较好，机械式振动或快或慢都会招致毁灭。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "我们亲爱的关隘道口，决定哪些思想能离开，哪些营养能进入。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "整副身体都仰仗它来与外部交涉。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "所以决不能让它自行做主，不然祸端和疾病都会在这里汇聚。"
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "你该去当文学批评家",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "像文艺复兴时期的艺术家一样说话并非我的本意。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "可我必须如此隐晦地告知你，正如米开朗基罗的名作所暗示的一样。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "创造人的关键部位也许是智慧的栖息地，或者生命的诞生地……"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "这下你应该稍微能看懂些艺术了。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "我相信我的嘴",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "101014",
+      "internal_title": "第十章10-10",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "雪上足迹"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "诺谛卡",
+          "text": "二位……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "长久的步行后，探险家终于疲惫地开口。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "第一助手挥舞玻璃笔，术法在时间的奇迹上刻下一个小小的“Ⅵ”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "在它左边，是前五个序列的数字。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "我们注意到了，诺谛卡。这已经是我们第六次路过这面石壁了。"
+        },
+        {
+          "kind": "title_card",
+          "text": "石壁迷宫"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "恐怕次数要更多，在我们意识到一直在附近转圈前，时间已经走过了十五分钟。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "司辰，我们现在必须面对一个事实：我们被困在这处石壁迷宫中了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "诺谛卡",
+          "text": "……就像那些民俗故事里说的一样……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "诺谛卡",
+          "text": "“黑森林传说”“无法离开的十字路口”“闹鬼的夕阳循环”……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "请、请等一等，诺谛卡小姐。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "……我们要以辩证的思维来观察，不能武断做下有骚灵作乱的判断。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "或许是什么人利用了神秘术……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "遗憾的是，我现在没有感知到任何神秘术痕迹。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "不过无线电小姐和雪橇犬们不会毫无理由地消失，这里一定存在隐藏的出口或其他奥秘。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "探险家呼出一口白气，紧张地跺了跺脚，在松软的雪上踩出沙沙的声响。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "诺谛卡",
+          "text": "让我来试试吧？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "诺谛卡",
+          "text": "我虽然不是神秘学家，但作为极地科考队员，我还有些人类的笨办法……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "探险家取下行囊，开始在如山的极地装备中寻找决定性的助力。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "机械齿轮尽忠职守地转动着，一如半个世纪前，它也在这片冰冻的土地上转动过一样。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "诺谛卡",
+          "text": "如何通过时钟与太阳的位置判断方向还是祖父教我的。出发来南极前，我把他的手表也带上了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "诺谛卡",
+          "text": "让我想想他是怎么说的，让时针指向太阳，平分时针与12点的那条线指向南方……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "诺谛卡",
+          "text": "对了，这里是南半球，所以平分线应该是指向北方！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "诺谛卡",
+          "text": "幸好还没有进入极夜时期，还有太阳可以参考……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "然而很快，兴奋的探究落于沉默。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "诺谛卡",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "探险家摇了摇头，像犰狳一般微微蜷缩了起来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "诺谛卡",
+          "text": "没有……没有太阳。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "北方，南方，西方，东方。\n天空的每个方向都覆盖着厚厚的云翳。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "雪和雾的漫反射带来了足够的光线，但目之所及处，不见红色恒星。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "重塑之手的仪式影响了正常的晨昏交替……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "没关系的，诺谛卡小姐。一定还有其他办法。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "司辰，我提议先尝试撤出这片区域。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "我同意，不能继续冒进了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "呼……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "诺谛卡",
+          "text": "撤不出去……我们、我们又回来了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "我一直在留意雪橇犬的脚印。虽然我们是跟着脚印走的，但我们似乎只是在绕圈子。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "……它们是怎么带着无线电小姐消失的呢？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "诺谛卡",
+          "text": "这、这是什么只有狗狗能走出去的陷阱吗？我、我不想永远被困在这里……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "诺谛卡",
+          "text": "遗址就在隘口后面……真的不能进去看看了吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "诺谛卡",
+          "text": "耳朵虫明明告诉我，这次是不一样的……我从未如此接近过……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "探险家声音颤抖，看向远方的眼神却充满了渴望与期待。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "耳朵虫",
+          "text": "“祂的光芒普洒大地，而祂的意志流连万千。”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "诺谛卡",
+          "text": "我就是为此而来的……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "迷宫尽头传来的犬吠因距离而变得含糊不清。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "不到一英里的距离，在迷宫影响下被拉长得有如天堑。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "雪橇犬是闻了打字机上德洛丝医生的气味，才狂奔出去的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "的确如此。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "如果这个迷宫没有扭曲声音的传播，那么它们的声音确实是从尽头传来的——也就是遗址的方向。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "这说明德洛丝医生已经成功地穿越了这个地区。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "没错。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "虽然不能确定她是否受到了其他人的引导，但如果我们假设她一直是孤身一人……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "目盲的她没有被这些石壁困住。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "诺谛卡",
+          "text": "你们要找的那位德洛丝医生，她看不见吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "探险家惊讶地深吸一口气，把头从雪里拔了出来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "是的，她总是用眼罩或绷带藏着自己的眼睛，始终如此。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一种认真出现在探险家年轻的脸上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "诺谛卡",
+          "text": "“巨人人母之骨是必经之路，血染的苦痛使子民永生顿悟。”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "诺谛卡",
+          "text": "“去行无目先知所行之路罢，因现实永远流转于夜之尽头。”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "这也是地母传说中的箴言吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "诺谛卡",
+          "text": "没错。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "在诺谛卡小姐家乡流传的民间神话，地母传说……真的能够指向对现实经验的印证吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "诺谛卡",
+          "text": "在我的家乡，也有很多人觉得这句话只是代表了人们对极夜后即将来临的春日的期待，但我总觉得这些传说和颂词有另一层意思。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "诺谛卡",
+          "text": "你看……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "诺谛卡",
+          "text": "盲眼的德洛丝医生没有被困住，依靠嗅觉的雪橇犬们也穿过了迷宫。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "诺谛卡",
+          "text": "我们用眼睛丈量距离，用眼睛记录地标，还试图用太阳确定方位……我们和他们的区别，就在于我们一直依赖视力向前走。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "也就是说……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "诺谛卡",
+          "text": "闭上眼，世界将向我们显露它真正的方向。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "闭上眼睛，维尔汀。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "肉体的眼睛闭合之时，心灵的眼睛方能睁开。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "直白的线索，简单的推论，熟悉的理论。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "值得一试，毕竟，我们暂时没有其他办法走出这座“迷宫”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "我们相信你。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "冻得冰凉的手与手紧握着。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "那么，准备好在黑暗中行走了吗，二位？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "闭上眼。"
+        }
+      ]
+    },
+    {
+      "script_id": "101038",
+      "internal_title": "第十章10-10.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "在黑暗中循着前人的足迹，踩在曾融化后又结起冰层的路上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "诺谛卡",
+          "text": "雪的感觉不一样了……这条路踩起来更硬一些。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "诺谛卡",
+          "text": "我们之前追着雪橇犬足印前进的时候，好像没有走到过这里？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "玄武岩，石壁……闭眼前未曾发现的道路……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "——我明白了，迷宫的搭建者利用石壁制造了视觉误差，我们实际上错过了这个路口无数次。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "诺谛卡",
+          "text": "而我的狗狗们就算撞上了墙，也会跟着气味跑！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "诺谛卡",
+          "text": "——地母的指引果然是不会有错的！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "……我好像看见她了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "诺谛卡",
+          "text": "你看见什么了，维尔汀？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "……不，不对。又消失了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "抓紧我的手，司辰。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "尽管接纳了黑暗进入眼幕，但暗色的尽头还是漏出了些许细碎的光尘。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "在忽明忽暗、辨无方向的世界里，一首金色的音律闯入耳畔。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "……兀尔德女士……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "……你想得到什么样的答案？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "有脚步？是你们吗？司辰，十四行诗小姐，诺谛卡小姐？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "黑暗中传来熟悉的声音。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "太好了，你们终于找过来了。这些莽撞的大家伙好几次差点没把我甩出去——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "无线电小姐！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "诺谛卡",
+          "text": "无线电小姐！！太好了——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "诺谛卡",
+          "text": "看起来是成功了！我们走出了玄武岩迷宫！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "风雪迷过双眼。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "这里是……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "荒野寂静。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "远古生物的呜鸣与回响，热带丛林的溪流与生命在这片不毛之地繁衍、消亡。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "生命自宇宙尘与时间的碰撞中产生意义，其沉默与鸣叫，其质地与形状，\n均守着其不由分说、不作抵抗的坦然。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "穹宇间，律音已然敲响。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "诺谛卡",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "无穷的兴奋慢慢转向一种呆滞，她站在原地，久久无法移动目光。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "诺谛卡",
+          "text": "祖父……弗里莱……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "探险家握紧自己因兴奋而颤抖的指尖，仰头藏起眼泪。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "诺谛卡",
+          "text": "我做到了……我找到了……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "诺谛卡",
+          "text": "“地母沉睡于极南”的神话是真的……而、而我……找到了……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "建筑群诉说着寂静的历史。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "空气是如此厚重，诺谛卡的哭声也落在了地里。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "我们该继续向前了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "我有一种预感，我们所有人的疑问都能在里面得到解答。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "不落的日光冰冷地在墙体之间弹跳，直到沉重的大门吞食了最后一丝光线。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "巨大的冰封意志居高临下地俯瞰着所有的访客。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "它用沉默认可来者，已然通过了第一重的考验。"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

@@ -1,0 +1,831 @@
+{
+  "episode_id": 2410105,
+  "chapter_id": 24101,
+  "chapter_title": "地球上最后的夜晚",
+  "display_label": "",
+  "title": "离港日",
+  "subtitle": "所有的河流都奔向大海。",
+  "trails": [
+    {
+      "element_id": 2410105,
+      "owner_episode_id": 2410105,
+      "trigger_episode_id": null,
+      "title": "闭幕式",
+      "description": "世界上没有不结束的运动会。",
+      "action": "对话",
+      "unlock_condition": "EpisodeFinish=2410105",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "嘿，您！是的——匆忙的孩子，您脚步这样快，就像一阵风，时间都被您丢在了后面——您这是为了去哪儿啊？"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "我等不及要看戏了！",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "戏剧，戏剧！哦，瞧瞧，一位喜欢故事的孩子！这儿是维也纳，您为此而来，再正常不过。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "您来对地方啦。这儿的地面镶着金子，这儿的故事也伴着音乐。咿咿呀呀……即便是外行，也能好奇地瞪着眼睛看到结束。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "噢，我这张嘴！您当然不是外行——您是位口味颇高的鉴赏家……那么，在您离开之前，请允许我问个小问题——"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "您最偏爱故事的哪一幕？"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "第一幕",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "一个好的开头是成功的一半！您总是能抓住重点。我们总应该知道事情是如何开始的，弄清我们是何时踏上了那条命运为我们规划好的路线。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "第三幕",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "发展！没错，这儿充斥着刺激的转折，像是一颗削了皮的熟南瓜——最美味的那部分，一切您等着看到的都在这里啦！"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "第五幕",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "对的，对的，好的结尾，完美的收场。我们或是起立鼓掌，或是掩面低泣——这是你没在过程中睡着的好奖励，最值回票价的地方。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "都喜欢",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "哈哈，贪心的孩子。您总是难以做出选择，对吧？但我们总会面对选择的——总需要的。"
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "但您——您知道我最喜欢哪一幕？不是第一幕，不是第三幕，也不是第五幕……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "是第六幕，我亲爱的，那是最棒的地方啦。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "国王拾起掉在地上的脑袋；骑士拔出胸口的剑；反叛者微笑着拥抱着暴君；死去的人们拍拍土，站起来，而后堆着笑脸，列成一排，挥手致意，微笑着鞠躬……"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "这不在戏中",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "不，不，淘气的小家伙！从这儿开始，才是真正的戏剧哩。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "我这儿就有个好本子。等下，让我戴上眼镜……噢……从，就从第六幕讲起。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "从我们的公主、国王的孩子、一只缀满钻石的小夜莺——从这名万众瞩目的歌剧演员踏进了灰白色屋子里的故事讲起。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "“幕布永远地落下了。她是那样的平静。她微笑着，仍在梦中。”"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "“他们提防着她的疯狂。但如今，当判决落下，她又变得如此温驯，如同一叶停泊的小舟。”"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "“她向每一位灰白色衣服的先生颔首。颈项上的沉重的枷锁也变得如同最耀眼的珠宝。”"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "下一页……噢。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "发生了什么？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "“透明的屋子，二十四小时不间歇的照明，人的尊严就像是被丢在地上的丝帕——她的冠冕碎啦，他们需要她为自己的疯狂付出代价。”"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "她是个疯狂的人？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "不——不再是了。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "“‘睡吧。她曾对我说，睡吧。那么，我便不需要再醒来。’”"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "“耀眼的孩子从此沉入了永恒的梦乡。扰人的明亮如同舞台的灯光，无人的房间拥有最美妙的混响。她从未如此平静，那美好的一切凝固在了她的身上。”"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "我猜她彻底疯了",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "——或者，彻底的宁静。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "“她的世界变成了一场戏剧，仍在上演，永不落幕。”"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "要我说，这真是个好演员，不是吗？"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "但不是什么好故事——我听不懂。",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "哈哈哈，亲爱的，您确实是位品味极佳的行家。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "——无论是哪一幕，都不能只是“这一幕”。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "噢，瞧我拉着您絮絮叨叨了这样多，都没注意到金色的幕布已经拉开。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "最后整一整领子，亲爱的，踏上你的旅途吧。"
+            }
+          ]
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 2410106,
+      "owner_episode_id": 2410105,
+      "trigger_episode_id": null,
+      "title": "身份危机",
+      "description": "星锑在模仿摇滚海盗的比赛中荣获第一名。",
+      "action": "对话",
+      "unlock_condition": "EpisodeFinish=2410105 and ChapterMapElement=2410105",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "现如今，您和我都多少熟记了一些学派的戒律，不吃豆子，不掰开面包，瞧见白色的公鸡也会远远躲开了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "上次同您聊起这些，似乎已经是许久前哩！时间跑得真快，我这样的腿脚和脑袋，全追不上喽……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "真该晚些点起蜡烛，好让太阳出来得慢些，我们也能多说说话。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "这不可能",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "哎呀！您已经懂得了不少事物的规律，自然不会把这两件事联系到一起。可对于更早、更早的人们来说，这却是经验之谈！"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "难道秋日的庆典上，人们填满那只号角后，果实不会结出，田地不会迎来收获？"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "夜间擦燃火柴时，月亮难道不是正在散发光亮？"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "寻找规律，刨根问底，这是求知的本能。但在过程中难免要犯些错误，将规律胡乱串联，拼凑出一番理论。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "同时，“象征”也成为了被广泛使用的手段。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "比如？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "花朵寓意祝福与收获；咬住自己尾巴的蛇，无穷无尽；鹰是机敏与智慧，泥土往往能予以护佑。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "更简单些，一个圆圈，象征着保护；三角，象征着稳定；三重螺旋则是上升与变化，身、心、灵的统一。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "因为相似而相联系，因为接触而相联系，愈来愈多的事物就此有了象征意味。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "太模糊了",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "可实践经验不会骗你，亲爱的。如果在哪个环节出了岔子，也只能是我们想错了。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "——反过来瞧瞧，符号也不会欺骗谁。“象征”是思想的附赠品，孩子。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "而“本质”从未变过。归根结底，火柴并不会点燃月亮，动物们只是动物。随手描绘的圆或三角，也只是一个圆、一个三角形，仅此而已。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "“你”也只是“你”。"
+            }
+          ]
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "202408",
+      "internal_title": "【2.4】地球上最后的夜晚05",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "会长，向您致意。"
+        },
+        {
+          "kind": "title_card",
+          "text": "基金会高层办公室"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "愿和平与我们同在。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "会长",
+          "text": "愿和平与我们同在，我的朋友。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "康斯坦丁微微颔首，目光落在更深的阴影里。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "芝诺军备学院的内部整顿行动已经结束了，如预期一样，除了一部分伊戈尔的极端拥护者，大部分的人员对此次叛逃事件并不知情。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "我们按原定计划为“上将伊戈尔”举办了隆重的葬礼，按照芝诺葬礼的规定，所有芝诺军备学院的相关人员都留在了南美。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "目前新的上将人选仍在遴选中，稍后我会将他们的名单呈递给您。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "另外，我们派出了一支特殊调查小队前往火地岛，持续追查伊戈尔的动向。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "会长",
+          "text": "很好。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "会长",
+          "text": "那个女孩呢？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "温顺的领结迟滞了片刻。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "女孩……洛佩拉？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "她的情绪已经稳定下来了，我们暂时将她留在南美分部。\n当然，必要的调查质询无法避免。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "会长",
+          "text": "抓牢她。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "会长",
+          "text": "噢，还有那只爱唱歌的小鸟。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "康斯坦丁不着痕迹地走近了几步，压低了声音。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "芝诺方对金伯利女郎的处理决定相当不满，他们坚持要求对她进行更全面的调查……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "我担心过度的干涉会引起芝诺的不满。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "会长",
+          "text": "军人的执拗啊……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "当然，芝诺承诺，他们对金伯利女郎的审查会在基金会的监督下进行。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "在调查结束后，她才能被正式编入司辰小队，享有相应的权利，并由司辰直接指挥。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "会长",
+          "text": "别让维尔汀等太久。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "芝诺的棋子安全落地，康斯坦丁悄无声息地松了口气。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "另外，接Z女士报告，司辰小队传回了新的情报。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "司辰在悉尼港发现了重塑之手的踪迹，他们极有可能藏身在一艘名为“自由海风号”的游轮上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "这也解释了外派调查小组们调查受阻的原因，重塑伪装得很好。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "会长",
+          "text": "船的目的地呢？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "目前尚未查明。但从飞蛾的线报来看，“自由海风号”刚刚经过了大洋洲沿岛。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "会长",
+          "text": "嗯，漂亮的出子。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "是。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "康斯坦丁的语气中藏着微不可察的骄傲。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "会长",
+          "text": "我们在正确的道路上快步前行，这很好。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "会长",
+          "text": "给维尔汀下达新的任务。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "您的意思是派遣司辰小队登船？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "会长",
+          "text": "孩子总得走出安稳的家乡啊。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "……是。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "会议室又重新安静了下来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "层叠的大理石廊柱间，有一抹雪白从窗外扑腾着飞过。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "白鸽落在会长的手上，轻啄其中的掌纹。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "会长",
+          "text": "老朋友，有什么事儿需要你亲自跑一趟呢？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他低下头去，任由对方亲昵地蹭着他的指尖。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "会长",
+          "text": "哦……哦……嗯……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "会长",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "那抹雪白又轻飘飘地飞走了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "会长",
+          "text": "科算中心提交了关于“人工暴雨”的援助申请？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "是的，负责这一项目的是乌尔里希。它请求基金会向科算中心澳洲分部提供一批非对称核素R，越多越好。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "另外，它希望我们的调查员能配合寻找符合实验环境的对应坐标。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "我拿到过一些符合科算中心需要的资料……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "康斯坦丁不由自主地停顿了片刻。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "距离澳洲分部最近的实验坐标，正是那艘“自由海风号”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "会长",
+          "text": "倒是很合理。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "我担心这会牵涉到我们在重塑之手的布局。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "会长",
+          "text": "全力支持科算中心的“人工暴雨”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "意料之外的坚决。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "可飞蛾的状况尚不明朗。如果太过冒进……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "它很难全身而退。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一闪而过的犹豫落入会长的眼中。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "会长",
+          "text": "我以为你早就做好了准备，我的朋友。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "会长",
+          "text": "命令几颗弃子不择手段地前进，接着，我们赢下整场棋局。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "会长",
+          "text": "你比谁都擅长这个，对吧？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "这是鸽子屋的意思吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "会长",
+          "text": "是的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "我明白了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "至于更多的任务细节，我会尽快知会司辰和乌尔里希。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "会长",
+          "text": "那很好，他们的会面一定会很有趣的。"
+        },
+        {
+          "kind": "title_card",
+          "text": "“暴雨”小组办公室"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "乌尔里希",
+          "text": "我们又见面了，司辰。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "很高兴再见到你，乌尔里希先生。听说你和星锑的交流相当顺利？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "乌尔里希",
+          "text": "坦白说，星锑对科学进步的热情和奉献精神远超我的预料。毫不夸张地说，她是一位不求回报的伟大研究者。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "玻璃缸里的磁流体相当稳定。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "显而易见，这是一句真心话。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "“自由海风号”的情况相当复杂，我们还不清楚上面潜伏着多少重塑之手的人员。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "按照计划，我们会以游客的方式登船。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "星锑在“自由海风号”上有相熟的船员。她打包票，在那位朋友的帮助下，我们的登船资料已经得到了妥善的修饰，绝不会引起任何人的注意。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "乌尔里希",
+          "text": "了不起！原来星锑研究员申请的那一大笔经费并不只是为了个人的娱乐。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "自言自语之余，乌尔里希终于又想起了眼下的正事。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "乌尔里希",
+          "text": "我会错开你们的登船时间。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "乌尔里希",
+          "text": "如果发现了重塑之手的行踪，我会联络你们的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "乌尔里希",
+          "text": "互通有无，朋友——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "临行前信誓旦旦拍下的胸膛令人安心。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "我们也很乐意为你的任务提供协助……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "乌尔里希",
+          "text": "不、不，绝不需要！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "乌尔里希",
+          "text": "噢，别误会，我没有轻视任何人的意思。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "乌尔里希",
+          "text": "事实上，实验进度目前尚未对外公开。基于对“人工暴雨”项目的外部预期及风险控制，我希望你能对我们的研究进度暂时保密。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "乌尔里希",
+          "text": "在“自由海风号”上，我们互不相识。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "……好的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "乌尔里希",
+          "text": "别担心，我会做好伪装工作的。"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

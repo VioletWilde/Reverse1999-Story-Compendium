@@ -1,0 +1,732 @@
+{
+  "episode_id": 10514,
+  "chapter_id": 105,
+  "chapter_title": "The Prisoner in The Cave",
+  "display_label": "",
+  "title": "Chain of Peace",
+  "subtitle": "He declares that the old standoff must end.",
+  "trails": [
+    {
+      "element_id": 1051401,
+      "owner_episode_id": 10514,
+      "trigger_episode_id": null,
+      "title": "Trail① The Third Fork in the Road",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=514",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Oh, look at you, climbing out of the cave in the allegory, all dusty and dirty like a little savage."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "They must have tried to fill your little brain with long preachment, but you should feel lucky because at least they didn't give you a quiz right after that."
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "I was not listening.",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Oh, that's our expert on absent-mindedness. Yes, we should bear in mind those glory days of yours back in school."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "What they said is true.",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Oh, how modest you are. Looks like you didn't spend all your student days catching tree frogs."
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Try to reach the corners of your mind, if you would, and there you will find another bunch of people standing in front of a stone table."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Yes, those people in gowns, white gowns with gray diamond patterns. One of them was standing on the stairs, gathering all the little vacant eyes to his side. What was he called? Give me a second ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Teacher, instructor, tutor, educator ... Just titles like that, no names at all. No one gets to write down their names on that banner, after all."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "But they have nothing to complain about. You know what they say, \"What is reasonable is real; that which is real is reasonable.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "They showed you a broad avenue in their teachings, where you could enjoy a sense of security with all the solid ground, convenient automobiles, and warm sunshine. And at the end of the avenue even lies an inspiring mission, to which you are expected to devote your whole life."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "There is a distinction between good and bad here, and it's as clear as our innate sense of right and wrong, like a floor of black and white tiles. Any stains on it will be noticed immediately."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "But in fact, there exists another path in the woods. It's much less traveled, leading to the unknown darkness which cannot be seen with eyes or proved false. You may even experience indescribable chaos and madness there. This path, however, has an excellent view, and it's one of a kind: the plants are thriving with bursting energy, and the flowers are blooming in a delightful atmosphere."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "... So, which will you take?"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "Perhaps the avenue.",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Oh, of course, as you've been on it all the time. But that's exactly why you know how ... inflexible it is. You know that even better than any of those old fellas who have spent decades on it, don't you?"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Just because you've been on it doesn't mean you can expect a comfortable journey, darling."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "But luckily, there's still one more way you can take. It would be a good choice if you want to enjoy the scenery without getting lost in the darkness."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "I'm interested in the path.",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Oh, that's not an easy choice to make. This grandma must give you a round of applause. I would have even pinned a boutonniere to your suit if I had one. But I have to remind you, those things in there are not easy to deal with. They can drive you insane, and you have to be very careful ..."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "You've seen the living proof: many were freaked out after they came back, and people had to tie and lock them up; others even dug their own graves."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Oh my, that was a bit over the top. I hope I didn't scare you, darling."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "But luckily, there's still one more way you can take. It would be a good choice if you want to enjoy the scenery without getting lost in the darkness."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "Another way?",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "I'm sure you know that myth."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "\"You shall take the soul of your love out of the underworld, yet you shall not look back.\" That's right. You shall pass by the sleeping sirens, yet you shall not make a sound."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "The ones with a belief set off. They entered the dark woods barefooted, yet moved so smoothly as if they were walking on the avenue."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "They kept their mouths shut and eyes forward. They never turned back, never picked up what was not theirs, never set foot on the forbidden lands, and never looked straight at the sacred greatness."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "They showed frugality, patience, and wisdom in the face of hunger and danger."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "So the beasts continued to lurk in the shadow, and the ones with a belief passed through the woods safely until the path disappeared along with the direction sign. Then the first one to look back gave an exclamation before being exiled."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "Is it really reasonable to take it?",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Think about what I just said, \"That which is real is reasonable.\""
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Never look back in the woods, darling! If you don't want to be turned into a pillar of salt which can do nothing but wail, then ... NEVER, EVER look back."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Yes, we'd better stay awake, stay calm, stay cautious all the time."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "But then there comes the problem: how can anyone ... how can you ignore your love for those thriving plants and blooming flowers? How are you supposed to deal with the unstoppable feeling that overflows like a melody when it is stirred up by the beauty of the scenery?"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Of course, you will cry the loudest cry, dance the wildest dance, drink the strongest drink, and vomit all the filth inside you."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "After all, there is no need to enter the woods if the soul-stirring scenery is not what you are after, right?"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "It doesn't sound like a good way.",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "No, so you'd better let it slip your mind, darling."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Just let it go, and hurry forward. Remember to keep your eyes shut and hold your breath."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "When you do so, the scenery will no longer mean anything to you, nor will the fragrance of the flowers. You will get out of the woods and reach where the truth lies."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Is that what you want? Don't worry. We have plenty of time. You may come back at any time and pick another way."
+            }
+          ]
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1051402,
+      "owner_episode_id": 10514,
+      "trigger_episode_id": null,
+      "title": "Strange Cave",
+      "description": "A dark, narrow cavern with strange echoes stirring within. It demands a token from you and promises a fable in return.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=514",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "Mediator's Fate"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "In the fable of the sun,\nSunlight is always rhythmic,\nNever to be dampened,\nNot to be an umbrella, a ship, or shelter in a downpour,\nNot to be a shore, a reef,\nTo be battered, to be worn down against the waves,\nNot to be a cause of capsizing, grounding, lingering, surviving,\nNor to stop moss,\nNor nurture the buds,\nTo harmonize all colors, but not to pour into each one.\nBefore the rain veils the sunlight,\nBefore the clouds swallow the faint shadows,\nThere remains one last question,\nOne last answer,\nOne last way to dissolve conflicts,\nOne last neutral party,\nOne last bystander."
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100521",
+      "internal_title": "第五章5-14",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "Chain of Peace"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "In this life there are three kinds of men, \njust as there are three sorts of people who come to the Olympic Games. \nThe lowest class is made up of those who come to buy and sell, \nand next above them are those who come to compete."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Best of all, however, are those who come to look on.\n The greatest purification of all is, therefore, science, \nand it is the man who devotes himself to that, the true philosopher, \nwho has most effectually released himself from the \"wheel of birth.\" \n                                                      —John Burnet, Early Greek Philosophy"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Six",
+          "text": "Before this negotiation begins, I wish to tell an allegory to the two of you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Six",
+          "text": "A group of people were imprisoned in a cave."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Six",
+          "text": "Behind them, there was a fire. Before them was a tall, solid wall."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Six",
+          "text": "Their legs and necks were chained and fixed, so they were constrained to look nowhere but to gaze at the wall in front of them."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Six",
+          "text": "When they dropped their eyes, they saw their own body. When they looked up, the flickering light of the fire fell over them, and they only saw the shadows of what was passing behind them."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Six",
+          "text": "No one had lived one day outside the cave. The shadows cast on the wall were all there was to be perceived as reality. They had no knowledge of the real world."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Six",
+          "text": "One day, one of them escaped from the cave, walked into the light, and saw the true world with his own eyes for the first time."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Six",
+          "text": "Everything he saw or felt in the cave was nothing more than a mere shadow of the object's true Form."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Six",
+          "text": "Our world is a poor one, Ms. Vertin."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Six",
+          "text": "The phenomenal world is the cave in this allegory, where we are surrounded by shadows or some humble fractions of the truth."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Six",
+          "text": "It is ugly, frivolous, filthy, perishable, subject to decay, and filled with hollow desires and meaningless struggles."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Six",
+          "text": "Only the wise can walk out of that cave and see the world as it truly is."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Six",
+          "text": "In that eternal, transcendent world, everything is in its most perfect Form."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Six",
+          "text": "I pray that you, Ms. Vertin, the representative of St. Pavlov Foundation, and you, Ms. Arcana, her counterpart of Manus Vindictae, would pay heed to my words."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Six",
+          "text": "Everything you've been fighting each other for means no more than some fragments of phenomena to us."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Six",
+          "text": "There's only one thing worth doing."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Six",
+          "text": "That is, to seek higher wisdom, develop one's virtue, and achieve greatness in life."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Six",
+          "text": "We have never set foot on the soil dampened by the \"Storm,\" nor have we ever been involved in the disputes brought by the torrents of time."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Six",
+          "text": "I beg you: do not take your conflict in the phenomenal world into the realm of truth."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcana",
+          "text": "For certain."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcana",
+          "text": "It was never my intention to sully the sanctuary of truth."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Six",
+          "text": "Then, to prevent a situation like this from happening again ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Six",
+          "text": "I would like to ask you two to carve your names on these two stone bangles and drip a drop of your blood on each of them."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Six",
+          "text": "Once the bracelet is put on, no one will be able to remove it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Six",
+          "text": "From now on, as long as you're on this island, none of your people will draw blood from one another."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Six",
+          "text": "Or the bangle shall draw all the blood from you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Six",
+          "text": "The peace agreement is so decided."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcana",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Arcana stretches out her hand and gently takes a bangle."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "I appreciate that."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "I'll sign it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The leader gives a slight nod."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He looks out from the table and simply strides away."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The bangle feels real in their hands."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "It certainly possesses some sort of power to fulfill the bloody pledge."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "The peace agreement ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Someone is approaching."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Yes, she is still here, from the beginning to the end."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcana",
+          "text": "Lady Vertin, we meet again."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcana",
+          "text": "I wish the best to thy friend."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "She's doing \"well,\" thanks to you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcana",
+          "text": "Heh heh. You're most welcome."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcana",
+          "text": "Thou shalt quench, for times hath changed."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcana",
+          "text": "I would not wish to shed even a drop of arcanist's blood in vain."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "But Schneider should be the victim of a merciless bullet?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcana",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcana",
+          "text": "Vertin, my pitiful child."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcana",
+          "text": "Did you forget?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcana",
+          "text": "That merciless bullet cameth from a gun never belongen to me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "What's Manus Vindictae's purpose to be here?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcana",
+          "text": "Hearken the archaic wisdom."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcana",
+          "text": "Just as thou dost."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The stone bangle is hot, almost scalding."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcana",
+          "text": "Heh heh ... I am not surprised."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcana",
+          "text": "I adore thy visage, Lady Vertin, emotionless in the \"Storm.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcana",
+          "text": "Alas ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcana",
+          "text": "No man shall bravest the \"Storm\" and live."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcana",
+          "text": "Including thee."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her words sound as harsh as the winter gale."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "An emotion suddenly comes. It's raging like a bush fire but soon gets tamed down."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "A wooden box in the Olitiau's base has my name on it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Was that your doing?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcana",
+          "text": "Sadly, it wasn't."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Arcana",
+          "text": "I hope thee findeth the answer satisfactory."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The figure of Arcana disappears in the night."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The stone bangle at the wrist becomes subtly heated."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "It's burning."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Something is slithering in the woods nearby."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Manus Follower I",
+          "text": "Is that Ms. Arcana?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Manus Follower I",
+          "text": "Ms. Arcana! Please don't go! Save us!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Manus Follower II",
+          "text": "And save art!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Two weary figures run past Vertin."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "They are chasing after their leader desperately, as if they are running away from some horrific monsters."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Following them, a petite figure rushes out of the woods."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Thirty-seven",
+          "text": "No. Come back! Come back!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Thirty-seven",
+          "text": "You ignorant foreigners! I just started introducing vectors and matrices, and that's the most interesting part!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Thirty-seven",
+          "text": "Ah, Vertin!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Thirty-seven",
+          "text": "Great! You always show up at the right time and right place."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Thirty-seven",
+          "text": "Stop the masked people, whatever it takes!"
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

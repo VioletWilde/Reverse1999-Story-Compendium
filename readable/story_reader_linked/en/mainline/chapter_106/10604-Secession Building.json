@@ -1,0 +1,892 @@
+{
+  "episode_id": 10604,
+  "chapter_id": 106,
+  "chapter_title": "E lucevan le stelle",
+  "display_label": "",
+  "title": "Secession Building",
+  "subtitle": "Must a fork always be paired with a cake? Must art always adhere to tradition?",
+  "trails": [
+    {
+      "element_id": 100604,
+      "owner_episode_id": 10604,
+      "trigger_episode_id": null,
+      "title": "The Mitosis",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=604",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Look at this, dearie. This kind of hand mirror has become the latest fashion. Oh, it's a trifling thing, but people like me have to stay in the loop to make a living."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Come here. Gaze into the mirror, and fix your hat. What do you see? Do you like what you see?"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "I feel as if I can see all of Vienna.",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "A clever answer! I can tell you will fit right in here."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "But there is still much left to see beyond the mirror. Oh. The young folk step to an ever-changing waltz. If you want to follow their trends, you'll need perfect timing to join the swirling dance."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Some have fallen behind. They lounge by the fountains of the park, bemoaning their lives and the price of rent. Come the next banquet and exhibition, they arrive wearing a new fine coat, but underneath their linens are ragged and old."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "The mirror's reflection held a silver sheen once. Now it's tarnished at the edges."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "I, I ... I!",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Oh, look at our little artist in the mirror."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Something of a narcissist, then? No, I'm not laughing at you. In this place, valuing one's uniqueness, one's own voice is much to be desired."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "You have to be loud enough, firm enough to show no fear, nor hesitation. So that at the end of the waltz, you will have the strength to break their instruments."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "It's broken.",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Is that so? Oh, has something gone wrong? Did an old lady like me waste her money?"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Or, perhaps what it reflects is the \"truth.\""
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "The mirror shows reality, nothing more, nothing less. So, it may be that there is nothing to see, or it may be something that can't be seen."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "But things change, darling, especially in this city. Like an avalanche taking everything in its path, changing them irrecoverably and inevitably."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "So next time when you look into a mirror like this, you may just see something else. Be patient."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "So?",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "So, in the warmth of spring, the ice cracks deeper. One splinters into two, and each begins to splinter again."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "They set up the mirror and lift the cloth exposing to light—the good, the bad, and what lies beyond them both."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Then the factions split and then split again. \"Secessionists,\" by their nature, are not in the business of keeping things together. They won't stop the fractures—they can't."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "In lifting the cloth and seeing their reflection, they scatter themselves like dandelion seeds in the wind."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "Where are they going?",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Oh, I don't know where, but I do know what they're doing. Some of them still paint with gold leaf, others believe they must depict what is real, some depict the ravings of their dreams, some seek to change the streets into works of art, and others drive out all meaning from their work."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "The only time they ever reach an agreement is just before they lift the cloth from the mirror."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Before the Potemkin village with all its empty facades moves somewhere else, some of them might just achieve their ends."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "To be like the golden cabbage sitting atop its dome over the Ring Road—to be recognized by everyone."
+            }
+          ]
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100605",
+      "internal_title": "第六章6-4.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "Secession Building"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marcus",
+          "text": "So this ... is the Vienna branch?!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marcus",
+          "text": "It's ... splendid! Look at the walls, simple yet elegant ... It's like a temple of modern art!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marcus",
+          "text": "Hmm, I can read ... the contrast between different shapes and textures ... This Mr. Olbrich must have put so much effort into the design."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marcus",
+          "text": "It must be a very pleasant place to work at, Mr. Karl!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Karl",
+          "text": "Huh? Oh no, this is the Secession Building."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Karl",
+          "text": "Another meeting place for the young artists to show off, other than the cafes. They said they wanted to break away from traditional art. Well, it's more like they're breaking away from human life."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Karl",
+          "text": "There's nothing to like here, only inexplicable paintings and neurasthenic lunatics, but people keep coming back. There are even secession groups to the secession, like cells dividing through mitosis."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Karl",
+          "text": "The entrance to our venerable branch is on the left. Please follow me ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A massive golem stands at the door, towering over the approaching trio."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Karl",
+          "text": "Notice the guard? It's the most loyal and reliable knight of Vienna, powered entirely by arcane ritual. The greatest achievement since the revival of arcanum in Europe!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Karl",
+          "text": "In 1662, a royal magician from London offered it to the Emperor at the time. Since then, it's guarded the Empire for centuries ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Ah, sir!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A figure emerges from within the shadow of the golem."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marcus",
+          "text": "... Hmm?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Heinrich",
+          "text": "Greetings, dear Sir Scarpia! How is your son Tamino? I hear he's not getting along well with his fiancee."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marcus",
+          "text": "He's a strange one. What's he doing standing in a corner like that?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Karl",
+          "text": "... My apologies, Ms. Hofmann. Please hold on."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Karl",
+          "text": "Terrific, Heinrich, just as terrific as your pathetic art career."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Heinrich",
+          "text": "That's great! Best wishes to you, Sir Scarpia!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Heinrich",
+          "text": "Oh, my apologies."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He stands in the distance, giving a nod towards Hofmann and Marcus."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Heinrich",
+          "text": "Greetings to you, Angelotti, and ... Unknown Lady."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The gentleman turns and moves briskly into the temple-like edifice, as peculiar in his exit as he was in his entrance."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Karl",
+          "text": "See, he is one of those crazy artists. Everyone knows that I only have this beautiful daughter of mine! This mustacheless gentleman went to study in Berlin and has just returned."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Karl",
+          "text": "I guess he didn't learn much in class, and now he's throwing himself into opera ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Karl",
+          "text": "He must've listened to Wagner and Mozart so much it damaged his central nervous system. That's why he sees everyone as a character in an opera."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Karl",
+          "text": "Operas and music, they do harm to your eyes and fill your ears with useless sounds ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marcus",
+          "text": "Is every artist like this?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marcus",
+          "text": "Hmm, Scarpia, Angelotti ... They are indeed characters from the opera Tosca."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Karl",
+          "text": "Oops, I am getting off topic."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Karl's cane raps on the stone creature in front of him."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Karl",
+          "text": "Don't worry. We've modified its original ritual to meet the needs here. Lots of people come in and out, after all."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Karl",
+          "text": "You just need to knock on the armor three times, touch your mustache, and it will let you in."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Karl",
+          "text": "I forgot you have no mustaches, my dear ladies! But you do have ... arcane skills, right?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Hofmann",
+          "text": "First of all, I'm not an arcanist."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Hofmann",
+          "text": "Second, I'm not as humorous as you think."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Karl",
+          "text": "Fine! But that was no joke. This thing only accepts mustaches. It's a symbol that every gentleman should have ... And not everyone's like Heinrich!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The absurdity seems to have finally broken the senior investigator's patience."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Hofmann",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Hofmann",
+          "text": "Just give me the list of arcanists we mentioned in the letter, Mr. Karl. We don't need to go into the branch."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Karl",
+          "text": "Oh, no. Do you really want to miss the scenery of the Danube? And the sight of the modern transport system? There's no better way to tour the Ring Road than by carriage! And we've booked a room for you at the Sacher hotel ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Karl",
+          "text": "By the way, have you tried the treasure of Austria?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Hofmann",
+          "text": "Thank you, we already had it while you were enjoying your lunch."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Hofmann",
+          "text": "Now, please. Give us, the list."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Hofmann's tone marks the request as non-negotiable."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Hofmann",
+          "text": "And I'm sure you've received a telegram from the headquarters. You are to investigate the people around Theophil von Dittarsdorf."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Karl",
+          "text": "Ok. Alright, it's a pity, lady from the headquarters."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Karl",
+          "text": "Here you are ... And that's all of it, all of it!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Karl",
+          "text": "Oh, and this ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Karl",
+          "text": "Two tickets to the Vienna Court Opera. Please give them to Mr. Richard, and when you see him ... send my sincerest regards."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Hofmann stands still, maintaining a distant politeness."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Hofmann",
+          "text": "I will."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marcus",
+          "text": "... Who's Mr. Richard?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Hofmann",
+          "text": "The contact between the Foundation and the Vienna branch in 1914 ... a phantom of history."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Hofmann",
+          "text": "At that time, people still believed the golden age that had begun with the last generation would continue as it should, and that their positions in government would be as unshakable as the long-standing Empire."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Hofmann nods, watching as old Karl taps his cane and strokes his beard, before disappearing into the corridor opened by the golem."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Karl",
+          "text": "... Hmm? Shoot. It won't let me in!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Hofmann",
+          "text": "You're not joking are you, Mr. Karl?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Karl",
+          "text": "I am not! Darn. What is going on? Is this thing broken?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Karl",
+          "text": "Ugh, I'm stuck ... My belly! I had this suit custom-made in Paris!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Golem",
+          "text": "═╩╬!!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The ancient knight awakens in a slow stir, shaking off a heavy layer of dust as thick as a Viennese title."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Karl",
+          "text": "What on earth is going on?! Why is the defense system activated?!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A comical voice emanates from within the statue, lilting and quick, like a rubber ball bouncing around inside a hollow frame."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Hofmann",
+          "text": "*sighs*"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Hofmann",
+          "text": "Marcus, can you \"read\" its internal rituals?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marcus",
+          "text": "Hmm, considering its sluggishness ... yes, I think so."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Hofmann",
+          "text": "Good."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Hofmann",
+          "text": "It's a good chance for you to get some experience. Just stay safe."
+        }
+      ]
+    },
+    {
+      "script_id": "100606",
+      "internal_title": "第六章6-4.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "Karl",
+          "text": "Oh no! Ms. Hofmann, these golems represent the spirit of the Vienna branch ... You shouldn't be so violent ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Hofmann",
+          "text": "Adapt, improve, and advance. Arcanum should be kept up with the times, not lock itself away in a museum and wallow in the good old days."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Hofmann",
+          "text": "There was something visibly wrong with this thing, and we were rightfully doing our job. If you have any concerns about this, I'll include them in the report."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Hofmann",
+          "text": "And I should remind you that you've spent too much time on your ... free will. We're running out of time."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Karl",
+          "text": "No, no, procedures are not the problem! Darn it ... you're not German, are you?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The division head mutters softly, before proceeding inside at last."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Hofmann",
+          "text": "So what's wrong with the golem?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marcus",
+          "text": "Hmm, as Mr. Karl said, its structure is simple and yet incredible ... The malfunction comes from one of the components. There's an extra stroke on the enchantment."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marcus",
+          "text": "These strokes look new. I guess the staff made a mistake when they did the maintenance or repair."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Hofmann",
+          "text": "Let's hope so."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Hofmann",
+          "text": "Now take a look at this before Mr. Karl comes out."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Hofmann",
+          "text": "Several days ago, a member of the Field Agent Squad found a painting that was reported in this magazine, the Pan."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Hofmann",
+          "text": "It belonged to Theophil von Dittarsdorf, a deceased artist from Vienna who committed suicide."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Hofmann",
+          "text": "Its name is The Salvation, and it was found along with a poem."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Hofmann",
+          "text": "The poem mentioned the \"doomsday,\" the \"reversal of time,\" and the \"rain.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marcus",
+          "text": "... Salvation and rain? It sounds so ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Hofmann",
+          "text": "Yes. And given the sightings of Manus leaders in Vienna ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Hofmann",
+          "text": "We believe Theophil came into contact with Manus leaders before he died, and probably learned the truth of the \"Storm\" and the method of \"salvation.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Hofmann",
+          "text": "This was how Manus Vindictae recruited arcanists in 1929."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marcus",
+          "text": "Hmm ... If he knew the method of \"salvation,\" why did he still kill himself?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Marcus takes the magazine with ready curiosity, looking at the small, clipped section."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marcus",
+          "text": "\"Seeking Silenus in the woods, I asked him,\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marcus",
+          "text": "\"What is the best and most wonderful thing for man?\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marcus & Isolde",
+          "text": "\"'The emptiness where man was never born!' He said.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Isolde",
+          "text": "\"I looked at it, the ring of life, the ring of all lives.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Isolde",
+          "text": "\"Your hands form the ring, and the judgment is pronounced.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Isolde",
+          "text": "\"On the doomsday, at the dusk when history fades away.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Isolde",
+          "text": "\"Oh world! Its head bites its feet, its knees touch its nose.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Isolde",
+          "text": "\"Oh man! They inhabit the earth, waiting for the sky to fall.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Isolde",
+          "text": "\"Yesterday turns into tomorrow, tomorrow reverts to yesterday.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Isolde",
+          "text": "\"Who shall vanish in the rain?\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Isolde",
+          "text": "\"Who shall be granted the eternal happiness, the grace from above—\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Isolde",
+          "text": "\"And that emptiness, the cessation of existence?\""
+        },
+        {
+          "kind": "title_card",
+          "text": "Secession Building"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Heinrich",
+          "text": "That was so moving, Ms. Sieglinde."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Heinrich",
+          "text": "Poor Siegmund, my best friend, has returned to the void. Thank you all for coming today to shed tears for our departed hero."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Heinrich",
+          "text": "He was a righteous and noble man who cared for his people. He was still trying to save the arcanists on the Golden Isle before he died. He left us so many beautiful poems and paintings."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Heinrich",
+          "text": "Shame that the fire burned everything to ashes. The only thing that survived was ... The Salvation."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Heinrich",
+          "text": "We were in a golden age of progressive ideas. We believed the Enlightenment would make ignorance history and lead us to paradise, where everyone would be saved ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Heinrich",
+          "text": "The barrier between arcanists and humans would be removed. In Vienna, that tolerant city, we would stand together, hand in hand, back to back, reliving the intimacy we once shared when we first came into this world."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Heinrich",
+          "text": "\"Oh world! Its head bites its feet, its knees touch its nose.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Heinrich",
+          "text": "But the reality is, the survival space of arcanists is shrinking. We try to speak up in our own language, but that only makes us strangers in our own land."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Heinrich",
+          "text": "That's why we have decided to exhibit Siegmund's last work, not only in memory of the deceased ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Heinrich",
+          "text": "... but in memory of his noble spirit, his sincere concern for his people, and his scrutiny of this tragic world."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The people gathered nod their heads. Some of the women begin to weep softly."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Heinrich",
+          "text": "There is no need to be sad, my friends! He has left us with the Rhinegold!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Heinrich",
+          "text": "We will found a committee with the funds raised by the exhibition to improve the conditions of unregistered arcanists."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Guest I",
+          "text": "The youngest and most outstanding opera singer in Vienna, Theophil's sister, Isolde von Dittarsdorf, will present the details."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Amidst applause, Heinrich bows, handing off the stage to its true protagonist."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Isolde",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She takes a graceful step forward."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marcus",
+          "text": "Now I see ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marcus",
+          "text": "... why we were ordered to investigate Theophil's connections."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marcus",
+          "text": "There may be spies from Manus Vindictae among them."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her mentor nods in approval, handing over a stack of documents."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Hofmann",
+          "text": "I know the Vienna branch has a lot of bureaucratic problems, but we need their help to carry out the mission in this era."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Hofmann",
+          "text": "The search warrant, the letter of introduction, the evidence collection permit ... They've provided us with all the official documents we need in this era, as well as the list of all the arcanists in Vienna in 1914."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Hofmann",
+          "text": "But we're not going to cooperate with them any further, because of the requirements to confidentiality. We'll only need manpower from them in the following operations."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Marcus replies by opening the thick register of arcanists. Desperate to prove she hasn't gotten distracted this time."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Hofmann",
+          "text": "... In case you spend a whole day on the \"A\" section, Marcus, we're looking for \"Theophil,\" starts with a \"T.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marcus",
+          "text": "H-How did you know I was starting from line A ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The apprentice droops her shoulders, sinking back into the book. With the help of her arcane skill, she easily finds the information that Hofmann seeks."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marcus",
+          "text": "It says Theophil belonged to a group of artists called \"The Circle.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marcus",
+          "text": "They often gathered in the Secession Building. Madam Hofmann, I think we can make contact with them one by one ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Ahh!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Hofmann",
+          "text": "What's happening?!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marcus",
+          "text": "Erm, I sense strong arcane fluctuations over there!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her eyes center on the door of the Secession Building."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marcus",
+          "text": "I think it's ... it's a ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marcus",
+          "text": "... ghost?"
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

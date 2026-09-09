@@ -1,0 +1,26 @@
+# Main Story · E lucevan le stelle
+
+- [10601 Razor in Green](10601-Razor in Green.md) — A razor, impeccably sharp and dressed in green, that stands up for the people.
+- [10602 Drums of March](10602-Drums of March.md) — The opening notes of a big crescendo.
+- [10603 Fork and Torte](10603-Fork and Torte.md) — Lengthy procedures, excessive paperwork, and bureaucratic red tape.
+- [10604 Secession Building](10604-Secession Building.md) — Must a fork always be paired with a cake? Must art always adhere to tradition?
+- [10605 A Bad Seance](10605-A Bad Seance.md) — They lift chairs, smash furniture, and jump out of walls. And there's nothing you can do to stop them.
+- [10606 Yes, Prime Minister](10606-Yes, Prime Minister.md) — Oh, if only you could say the right name, everything would be so much easier.
+- [10607 A "Fair" Duel](10607-A _Fair_ Duel.md) — A showdown for the future of a shining star.
+- [10608 Mirror and Lantern](10608-Mirror and Lantern.md) — You and I met, and the room was aglow with light.
+- [10609 Between the Doors](10609-Between the Doors.md) — Of doorways and brushing shoulders.
+- [10610 The Mind's Endoscope](10610-The Mind's Endoscope.md) — Glimpses of the heart.
+- [10611 One-Act Play](10611-One-Act Play.md) — Two pairs of eyes, locked upon the selfsame star.
+- [10612 Art Exhibit](10612-Art Exhibit.md) — Salvation shall be proclaimed.
+- [10613 The Island](10613-The Island.md) — "That golden island is undoubtedly a sanctuary for the arts, a utopia where all arcanists can thrive."
+- [10614 Fitcher's Bird](10614-Fitcher's Bird.md) — A surge of passion, a genuine heart, and a single tear.
+- [10615 With Hope Rekindled](10615-With Hope Rekindled.md) — Don't fall into darkness.
+- [10616 Quest in the Woods](10616-Quest in the Woods.md) — "Seeking Silenus in the woods, I asked him."
+- [10617 Art Above All](10617-Art Above All.md) — And now, the most anticipated performance.
+- [10618 Only Applause](10618-Only Applause.md) — Applaud, applaud, applaud!
+- [10619 The Clashing Tides](10619-The Clashing Tides.md) — ... When all tides converge.
+- [10620 War and Peace](10620-War and Peace.md) — For whom does the bell toll?
+- [10621 Double Cross](10621-Double Cross.md) — ... Doctor?
+- [10622 Finished Page](10622-Finished Page.md) — Please don't ...
+- [10623 Hansel and Gretel](10623-Hansel and Gretel.md) — The brother, the sister, and the evil witch.
+- [10624 E lucevan le stelle](10624-E lucevan le stelle.md) — A circle, and time. No beginning, no end.

@@ -1,0 +1,728 @@
+{
+  "episode_id": 2110111,
+  "chapter_id": 21101,
+  "chapter_title": "Route 77: The Haunted Highway",
+  "display_label": "",
+  "title": "\"Please Do Not Disturb\"",
+  "subtitle": "Not the best time for a cleanup.",
+  "trails": [
+    {
+      "element_id": 2110105,
+      "owner_episode_id": 2110111,
+      "trigger_episode_id": null,
+      "title": "Necessary Buys",
+      "description": "She's a reliable and attentive owner of the motel, always making sure her supplies are well-stocked, even those that her guests may not need ...",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=2110111",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "Motel Shopping List"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "August 1989\n\nBought:\n\nBlue Jay coffee beans, 5 lbs (with filters)\n\nRiver Valley bedsheets, 15 sets—Going through these too fast, need a countermeasure.\n\nSecond-hand TV, 1 set—A good deal, \"haunted, spooky shadows within,\" the seller said, hah!\n\nSold:\n\nCowboy brand toolkit, 1 set\n\nOctober 1989\n\nBought:\n\nThanksgiving decorations, 1 set\n\nPecan Grove air fresheners, 1 dozen —Bloodstain trick is too simple. Need to have a word with \"it.\"\n\n\"Light of the South\" bulbs, 1 dozen—Pretty crumby, but affordable and useful.\n\nFresh cream, 3 pints—From Old Stewart's ranch, yum.\n\nMaybe get some candy next time?\n\nNovember 1989\n\nBought:\n\nTexas trail candy, 5 boxes—Yum.\n\nMarigold body wash, 1 dozen—Smells too strong.\n\nJanuary 1990\n\nBought:\n\nSeven Star tea bags, 3 boxes\n\nFresh ranch butter, 15 lbs\n\nRiver Valley bedsheets, 12 sets—Hope this batch lasts longer.\n\nSold:\n\nSecond-hand TV, 1 set—Sorry, darling, but it's time to say goodbye."
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "202117",
+      "internal_title": "【2.1】77号往事-11.1",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Argus presses the speaker button on the telephone."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A familiar tapping sound comes from the other end of the line."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Telephone",
+          "text": "*tap, tap, tap, tap*"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Telephone",
+          "text": "*tap*"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Telephone",
+          "text": "*tap, tap—tap—tap*"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "HELP."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Telephone",
+          "text": "*tap, tap—*"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "BAA. Is that the sound of a sheep?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Argus",
+          "text": "You noticed it, too, huh?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Argus",
+          "text": "Ain't no way that's a human on the other end. It's gotta be some kind of animal."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Animal?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Argus",
+          "text": "Based on those sounds and the tracks in the dust, I figure it's something small like a—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She stops."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Argus",
+          "text": "One sec, boss."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She fishes something out of her pocket and pops it into her mouth."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Picrasma candy?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Using your arcane skill so frequently must be tiring. You should take a break."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Argus",
+          "text": "The job ain't done yet. Far too early to rest."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Argus",
+          "text": "Don't worry, boss. It's just a condition that runs in my family, no biggie."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "What are its side effects?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Argus",
+          "text": "Ha, boss. You expect a merc to reveal her weakness? We ain't that close yet."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Argus",
+          "text": "One thing I can tell you, though, is that I suffer the side effects as long as my eyes are open. Luckily, I've got cutting-edge technology at my disposal."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She holds up the candy between her fingers."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Argus",
+          "text": "They're safe, efficient, and, most importantly, satisfy my sweet tooth."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "They may be called candy, but they're actually medicine and ought to be used following medical instructions. You should know that."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Argus",
+          "text": "Gimme a break, boss. What do doctors know about my life?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Argus",
+          "text": "I use these candies whenever I need them. Ain't that the whole point?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "But ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Argus motions for her to be quiet."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Argus",
+          "text": "Shh! Did you hear that?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Hear what?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Argus lowers her voice."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Argus",
+          "text": "A heartbeat, right outside the door. Someone's eavesdropping on us."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Thump, thump, thump."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She crouches down."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Thump, thump, thump …"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "With a faint clink, she loads her shotgun."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Thump, thump, thump, thump, thump …"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Then she swiftly turns the door handle."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "*gasp*"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The eavesdropping girl nearly falls forward into the room as the door swings open."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Argus",
+          "text": "Care to explain why you're here, Ms. Kimberly?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Argus",
+          "text": "Just how obsessed are you with Mr. Stefen, huh? Even now, after his death?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Kimberly",
+          "text": "Oh, n-no, it's not what you think! I was just looking for my toy, and it just so happens—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Argus",
+          "text": "Toy?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Argus",
+          "text": "You know, it ain't my style to point a gun at an unarmed person, but sometimes you gotta do what you gotta do. Especially when they're speaking with a forked tongue."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Argus",
+          "text": "Five."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Kimberly",
+          "text": "I told you, I was just looking for something."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Argus",
+          "text": "Four."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Kimberly",
+          "text": "Are you joking?! Why won't you believe me?!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She stomps her feet anxiously, making the floor tremble a little."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Argus",
+          "text": "Three."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Kimberly",
+          "text": "I-I didn't ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She closes her eyes as if she has made a decision."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Argus",
+          "text": "Two."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Kimberly",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Argus",
+          "text": "One."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She pulls the trigger."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The bullet flies past Ms. Kimberly's ear. Her face turns pale. She curls up, desperately trying to make herself smaller."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Kimberly",
+          "text": "Don't kill me. D-Don't kill me, please. I didn't do anything."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her fingers tremble uncontrollably as black claws extend from her fingertips."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Kimberly",
+          "text": "—!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She looks at the claws in shock, quickly tucking them into her chest, then looks nervously at the two of them."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "I saw the name \"Kimberly\" in Matilda's report."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "I'd thought it was just a coincidence. But now I realize it wasn't."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Ms. Kimberly, you're a member of Manus Vindictae, aren't you?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Kimberly",
+          "text": "I swear, I didn't do anything wrong! All I did was follow my partner like the people in black told me to."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Who's your partner?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Kimberly",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Kimberly",
+          "text": "I'm hungry all the time, so hungry. Oh, how I envy the likes of you. You can store your food in so many ways."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Kimberly",
+          "text": "You have enough bread and water in your barns to last an entire winter, and your pastures are full of meat and dairy products. But my food ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Kimberly",
+          "text": "I promise, all I'm trying to do is get back what I lost."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "There's no need to be afraid. We won't hurt you, as long as you tell me the name of your partner."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Ms. Kimberly's eyes dart around."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Kimberly",
+          "text": "Um. If I tell you her name, will you let me go?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Argus",
+          "text": "That depends on your sincerity."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Kimberly",
+          "text": "Sh-She's called Ms. Grace."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "What's your purpose here?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Kimberly",
+          "text": "I don't know! Those people in black told me to follow Ms. Grace's orders, but she hasn't asked me to do anything since we got here."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Kimberly",
+          "text": "She must be hiding something from me, but I couldn't care less! I just want to eat!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She speaks earnestly, but her other hand pulls something out of her pocket."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Kimberly",
+          "text": "Heh heh."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She gives a sly smile and crushes the item in her hand, releasing a veil of thick black smoke."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Kimberly",
+          "text": "You annoying little brats can catch me in your dreams!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "She's casting a teleport ritual. Argus, your assistance! We can't let her get away!"
+        }
+      ]
+    },
+    {
+      "script_id": "202118",
+      "internal_title": "【2.1】77号往事-11.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "*bang*"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "In a final burst of smoke, Ms. Kimberly vanishes."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Argus",
+          "text": "Tsk, she disappeared fast."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "At least now we can draw some conclusions."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Manus Vindictae has set their eyes on this motel."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Under the name of the Order of Enlightenment, they used this place as a base and conducted some failed ritual experiments before they left."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Argus",
+          "text": "Manus Vindictae. I've heard of them. That infamous group of arcanists."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She looks worried."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Argus",
+          "text": "If Kayla falls into their hands ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Argus",
+          "text": "Things won't turn out well, will they?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "I wouldn't worry too much. They usually only target pure-blooded arcanists."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Argus",
+          "text": "Alright, that's a relief. Kayla's bloodline is a hundred percent human."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "But why would Manus Vindictae choose to come here specifically?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "What are they trying to do?"
+        },
+        {
+          "kind": "title_card",
+          "text": "Entrance, Tuesday's Motel"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The conversation continues under the neon lights of the motel."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tuesday",
+          "text": "I was worried you wouldn't be able to make your way back, so I lit the porch light for you. Oh, but how annoying that these moths keep fluttering around."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Cut the crap, lady."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Where's Vertin? Take me to her."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tuesday",
+          "text": "I rarely turn on this light. My baby never gets lost, you see."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She gives a faint smile."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tuesday",
+          "text": "But a young, spirited child such as yourself always needs a light to lead the way. Am I right?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tuesday",
+          "text": "To the weary traveler, this light is a shelter; to a child, it's a mother; and to you? What does this light mean to you?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The maid's face flushes red."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tuesday",
+          "text": "No matter who they are, people need a light to shine through the darkness—to chase away their fears. Don't you agree?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Are you a member of the Order of Enlightenment?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tuesday",
+          "text": "Order of Enlightenment?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tuesday",
+          "text": "Oh, you mean those troublesome guests."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Guests?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The maid ignores her question and continues talking to herself."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tuesday",
+          "text": "I don't like them one bit. They've scribbled all over the place and made a mess of the rooms. They hurt my baby!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tuesday",
+          "text": "Oh, my poor baby. Shh. Don't be scared. Everything's alright now."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She gently comforts the child in her arms, patting the swaddling cloth softly."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Are they still here?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tuesday",
+          "text": "Oh, of course. They made an offer that I couldn't refuse, after all."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "How much did they pay you?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tuesday",
+          "text": "Oh, you are naive, my sweet child. There are countless things in this world that money can't buy."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tuesday",
+          "text": "A traveler can't buy the sudden appearance of a hotel at just the right time. A crying child can't buy the comforting embrace of their mother."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tuesday",
+          "text": "Ha. And I can't buy that thrilling satisfaction brought by sweet darkness."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The maid's near-neurotic muttering is getting on Lilya's nerves."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Enough of your endless rambling!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "I can't waste any more time talking to you. I can't ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "With every blink, Lilya's sight becomes increasingly blurred. She can just about make out the maid's smile."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tuesday",
+          "text": "Aha."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tuesday",
+          "text": "…♪"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She gently soothes the dazed pilot."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tuesday",
+          "text": "Sleep tight. Just leave everything to the adults. Yes, what a good child you are."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She flips the sign on the door to \"Do Not Disturb.\""
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

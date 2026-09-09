@@ -1,0 +1,525 @@
+{
+  "episode_id": 10212,
+  "chapter_id": 102,
+  "chapter_title": "夜色温柔",
+  "display_label": "",
+  "title": "关于新时代",
+  "subtitle": "喝上最后一杯再走吧，我看见焰火高高升起，人们欢呼不断，为这盛大的庆典，为那美好的天堂。",
+  "trails": [
+    {
+      "element_id": 1021201,
+      "owner_episode_id": 10212,
+      "trigger_episode_id": null,
+      "title": "小径① 八卦杂志",
+      "description": "一份随处可见的八卦杂志。记载着这座城市里人们关心的一切。其中包括瓦尔登湖酒吧与勿忘我先生。",
+      "action": "交互",
+      "unlock_condition": "EpisodeFinish=10212",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "■■■的配方-1920s"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "我真要恶心死了，一个“神秘学家”这样招摇，高高在上，甚至进了老爷们的宅邸，去了那些派对。他和隐藏自己身份的那一批不同，那些人知道如何舔人类的鞋子，知道如何把自己丑陋的一面藏起来。而他！那些进了嘴才变化的酒精？他应该被吊起来射杀，被烧死，滚出我们的街道！\n         ——《大嘴巴布告栏：读者投稿专栏》1927年1224刊其一   \n\n他一定是个古怪的畸形儿。我听说过有女人与蛇婚嫁，生下可怕的孩子。那一定是他，他就是因此才藏起了关于自己的一切。我亲眼看见他的长袖子下长了蛇鳞，就长在肉里，一片一片地嵌着。那之后的第十四个夜晚，我从噩梦里惊醒，窗外有个带着古怪头部的漆黑女人正看着我。她，一声不吭，也不呼吸，只像死物一样地贴在玻璃上……那一定是他派来的……\n         ——《大嘴巴布告栏：读者投稿专栏》1927年1224刊其一\n\n他曾在我需要的时候给予我帮助。\n         ——《大嘴巴布告栏：读者投稿专栏》1927年1224刊其一\n\n他的酒迷晕了太多人了，那瓶绿色的玩意儿能撬开所有人的嘴。反酒馆联盟的秘密，犹太教会的计划，甚至国会的秘闻都流到了他那儿。他背后有个与众不同的人，我不知道那是谁，但那一定很可怕。没人会相信我说的话的，我不知道他为什么还能活到现在，这太可怕了，真的。\n         ——《大嘴巴布告栏：读者投稿专栏》1927年1224刊其一\n\n勿忘我，二十世纪初最伟大的调酒师，白手起家的美国好梦！他的出身不为人知，过往充满谜团。人们甚至连他姓甚名谁都说不清楚。有人说他是可怕的药商，是劝诱堕落的撒旦，是政治间谍，或是某个女人与蛇诞下的私生子。但那又何妨呢，他的美酒会把我们都送上天堂！\n         ——《大嘴巴布告栏：读者投稿专栏》1927年1224刊结语"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1021202,
+      "owner_episode_id": 10212,
+      "trigger_episode_id": null,
+      "title": "小径② 转角相逢Ⅰ",
+      "description": "不期而遇的重塑人员，仍需要你的谨慎面对。",
+      "action": "教学记录",
+      "unlock_condition": "EpisodeFinish=10212",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100221",
+      "internal_title": "第二章2-12",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "关于新时代"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "米歇尔主席",
+          "text": "啊……谢谢，我好久没有进食了……这汤药味道真不赖！再给我来一杯。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "当然，请您自便。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "哦。槲寄生小姐你们回来了。派药结束了？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "嗯，担架区也服用过汤药了，人们稍微恢复了点精神。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "服务军",
+          "text": "这是什么味道？我们还没抽检你就私自喂给民众了？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "服务军",
+          "text": "记者马上就要进来了！要是出了什么事故，你要负全责！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "记者？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "服务军",
+          "text": "不就是你们要搞新闻发布会么？为了彰显神秘学家在救灾中的功劳！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "服务军",
+          "text": "快给我装一杯！一群蛤蟆皮怪胎……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "服务军",
+          "text": "行动已经迟了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "服务军",
+          "text": "在追随者的带领下，扛着相机的记者们鱼贯而入，在下方张望着。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "我不知道今天还会有媒体到访。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "请原谅我想在“暴雨”前举办一场宴会的私心，槲寄生小姐。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "毕竟对于重塑而言，这个时代已失去了它的价值。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "服务军",
+          "text": "这汤药的味道怎么这么熟悉……这香气——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "服务军",
+          "text": "啊、呸……！这、这这不是啤酒吗？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "服务军",
+          "text": "你从哪里搞来的违禁品！！我就知道疯子不可信赖——全给我抓起来！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "疯子？不，我们神志清醒。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "勿忘我转过身来，脸上带着怪异的兴奋。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "卸下面具的这一刻，他已经期待了太久。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "我们既不是精神病人，也从不歇斯底里。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "我们也从不需要通过荒唐的法令来孕育虚伪，侵吞钱财。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "美国禁酒已实行了近十年，你又是怎么能立刻尝出啤酒的味道的？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "虚伪的可怜虫啊！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "服务军",
+          "text": "唔呃——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "服务军",
+          "text": "他的双手抬起时，火光接连炸开，粗鲁的服务军捧着满怀的内脏轰然倒下。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "什么？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "竟把刚服下的汤药用作爆炸的燃料？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "“不为吾之所用者，必将承其苦痛，献吾灵与肉，恶与憎。”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "破产贵族",
+          "text": "为什……呃啊——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "“我赐你们在欢乐中死去，愿天国的美酒不设禁令。”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "米歇尔主席",
+          "text": "别杀我、别杀……唔呃！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "记者",
+          "text": "救命……快跑，快跑……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "我不会杀你们。我要你们这群兀鹫把这一切都如实记录。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "我要你们亲眼看着，一个劣等人是如何从你们手中拿回他被剥夺的一切。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "就像这样——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "杜兰特夫人",
+          "text": "不——救救我——！！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "勿忘我先生。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "秋日业已过去，何必再添血色。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "是什么令你产生了疑义，槲寄生小姐？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "“暴雨”将至，我们已经完成了使命。而这里的一切，本就将化为荒芜！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "……“暴雨”只是“暴雨”，不是既定的命运。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "杜兰特夫人",
+          "text": "呜呜，小姐，恳求你帮……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "杜兰特夫人",
+          "text": "不对，你是——我见过你——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "杜兰特夫人",
+          "text": "你是死去的韦耶豪瑟老爷的小姐？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "记者Ⅰ",
+          "text": "……是那个韦耶豪瑟！破产后在林中自焚的家族……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "记者Ⅱ",
+          "text": "不，不是自焚！是他们的女儿，是她学了黑魔法，活活将父母烧死了……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "记者Ⅰ",
+          "text": "死前拍到她也值了……让开！给我个角度！……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "……不。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "别这样！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "刺眼的白光，焦急的质问，去年今日，别无二致。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "我没有学习黑魔法。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "记者",
+          "text": "父母的死亡与你无关吗？听说他们一直反对你学习黑魔法。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "我没有学习黑魔法。我是天生的神秘学家。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "记者",
+          "text": "也就是说因为他们的反对，你决定烧死他们。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "我没有烧死他们。火灾的源头是汽油，它们告诉我，是20桶汽油。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "记者",
+          "text": "20桶汽油不可能瞬间达到这样的火势，这是黑魔法，小姐。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "记者",
+          "text": "据称你一直反对父母的伐木变卖林地计划。他们为了避开你选择夜半开工。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "记者",
+          "text": "但他们死亡的时候，你却恰好在现场。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "……我想告诉他们。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "我刚学会一种新的“神秘术”……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "我真的能听到树木的声音。我知道有种方法，能让我们都活下来……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "不用变卖林地，不用铲平树木，不用申请破产……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "我们能回到最初的生活，他们所期望的那种生活。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "记者",
+          "text": "所以你选择用烧毁森林来逃避债务。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "…………"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "我会找到真相。我会找到纵火者。我会找到那个我从不知的答案。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "槲寄生，槲寄生……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "我会终止树林的生长。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "我会守护树林的一切。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "我会……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "够了！别再沉湎于过去！"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "睁开眼",
+          "edge_label": "눈을 떠요.",
+          "branch": []
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "你的祝福，曾为我带来了好运与希望。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "现在我要将这个祝福送给你，将我的“明天”分享给你。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "看清楚脚下的路，跟我一起离开这里！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "维尔汀……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "我的明天……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "别看台下的灯光。上来，我背你跳出去！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "……谢谢。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "你是在多管闲事，还是终于露出了野蜂的毒刺？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "勿忘我，迟早有一天，你会因自己的憎恨而毁灭。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "我知道，但我很遗憾你永远没有机会看到那一天了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "他刚掏出术杖，一位门徒便显现于他身后。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "传讯门徒",
+          "text": "ㄐㄧㄣˇㄕㄣˊㄇㄧˋㄒㄩㄝˊㄐㄧㄚㄎㄜˇㄩㄝˋ"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "原来你走得这么急，是为了完成接应任务啊，小野蜂。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "清理花园的时候到了，我的门徒们！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "门徒",
+          "text": "——！"
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED..."
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

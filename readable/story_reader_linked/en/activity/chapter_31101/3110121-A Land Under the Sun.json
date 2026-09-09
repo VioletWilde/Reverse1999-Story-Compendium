@@ -1,0 +1,566 @@
+{
+  "episode_id": 3110121,
+  "chapter_id": 31101,
+  "chapter_title": "The Midnight Whistle",
+  "display_label": "",
+  "title": "A Land Under the Sun",
+  "subtitle": "Thank you for traveling with us, and we wish you a safe journey ahead.",
+  "trails": [
+    {
+      "element_id": 3110115,
+      "owner_episode_id": 3110121,
+      "trigger_episode_id": null,
+      "title": "Echoes of the \"Wind\"",
+      "description": "Countless threads shake with the \"wind,\" both within and beyond the \"net.\"",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=3110121",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "To the UTTU Editorial Team"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Dear colleagues,\n\nRegarding Corvus, the conductress of the \"Danube Dawn.\" As you all know, she was once one of us and my most trusted partner. Thus, for personal reasons as well as curiosity, I have attempted to glimpse traces of the partner I once knew. I must admit, she's changed. There is barely a trace of the person I remember. The glimmer in her eyes remains, yes, but where that gaze now falls ... no longer has anything to do with me.\n\nStill, in a way, our destinations aren't all too different. For that reason, I still cherish this brief journey we now share.\n\nAs for Ms. Pandora Wilson, it's been some time since she vanished. Since then, I've found it difficult to sense her through the wind. It's as if some unseen force quietly erased every trace of her. Yet lately, I've faintly detected something ... an echo which mimics the wind. I have tried many times to reestablish contact, but I've received no response. Even so, I still believe she is out there somewhere.\n\nDespite this, UTTU continues to publish articles in her name and tone. I understand why. Losing her would mean losing the very spirit of UTTU—something none of us could bear. That is why I took it upon myself to handle external correspondence under her name. Yet, the unease lingers: we are all trying to imitate her—her style, her rhythm, the way she thought, the words she might have written ... but none of us truly understand the meaning behind them. For me, this imitation is like calling out a name in the dark, over and over again, knowing it will never answer back.\n\nAs for the strange happenings aboard the \"Danube Dawn\" and the many details pertaining to vampires ... I will explain everything in full once I have alighted.\n\nVerity, UTTU Editor\nWritten aboard the \"Danube Dawn\""
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "203131",
+      "internal_title": "【3.1】长夜鸣笛21",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The bloody night is over."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The train pushes west, weaving across snowy fields as it follows the path of the Danube."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Only when they spy the Széchenyi Chain Bridge shimmering over the river do they realize their ordeal is over."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Stowaways",
+          "text": "Budapest!"
+        },
+        {
+          "kind": "title_card",
+          "text": "Train Station, Budapest"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Aima",
+          "text": "We are now arriving at Budapest Keleti station. Please gather your belongings and form an orderly line."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The stewardess maintains order on the platform, pale cheeks touched with the golden morning light."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Verity",
+          "text": "Hm. Thank you for an unforgettable journey."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Verity",
+          "text": "I don't believe I've ever gathered so much useful material in a single trip. I'm almost tempted to write a novel."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Verity",
+          "text": "If ever you take to writing or simply have some thoughts to share, do write in. Our pay is quite generous."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She passes a card to the stewardess."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Verity",
+          "text": "Here. Our contact details. I hope to hear from you soon."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Aima",
+          "text": "UTTU Magazine, Editor-in-Chief, Pandora Wilson. UTTU? What an unusual name."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "When she lifts her head again, the crowd surges by, and Verity is nowhere to be seen."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Aima",
+          "text": "Hm?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Aima stares down blankly until a loud cheer pulls her back."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "Goodbye, Madam Sonya! Goodbye, Mr. Yakov! And you, Mr. Arbuthnot, sir!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Annabelle",
+          "text": "No, don't say \"goodbye\"!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ivanushka",
+          "text": "*sob* You promise you'll write to us?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Children cling to Rubuska, unwilling to part."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "Cross my heart. And I'll send gifts. Christmas, birthdays, the whole lot!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Annabelle",
+          "text": "R-Really? Can I have a ruby eyeball for Thanksgiving and vampire fangs for Halloween?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Little William",
+          "text": "Oh, me too! Me too!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Dorothy",
+          "text": "Such naughty children! Who taught you it was appropriate to demand gifts from others like that?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The governess's stern scolding is drowned out by their joyous shouts."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Dorothy",
+          "text": "I do apologize. I don't know where their manners have gone."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "*chuckle* No need to worry, ma'am. I'd love to send them some things. It would make me more than happy."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Dorothy",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Dorothy",
+          "text": "You're very kind, Ms. Rubuska. I'll be sure they prepare something for you in return."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Bidding farewell to the chattering children, Rubuska lets out a long-held breath."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "Right, now I really need to work hard. Ruby eyes and fangs don't pay for themselves."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "I may have some errands from the Foundation that would suit you, if you're willing."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "I won't say they'll be easy, but they pay well."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "Y-You mean it?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "Of course. Now that the three of you are registered with the Foundation, you're free to lead your lives as you wish."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "That includes deciding who you'll work for."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "Is that all? Your procedures were quicker than I expected."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Aima",
+          "text": "F-For a moment, I thought you'd take us away to the Foundation and lock us up."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "I admit I did toss the idea around."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Girls",
+          "text": "Huh?!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "But after a thorough investigation, I regret to say ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She blinks with the flash of a secret smile."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "That our intelligence was faulty."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "There are no vampires aboard the \"Danube Dawn.\" It's safe to dismiss the reports as no more than a rumor."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "Oh, real funny, \"boss.\" You nearly gave me a heart attack!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The girls' laughter drifts up, then scatters into the tide of people."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "Right then, it looks like my mission ends here."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "Where are you headed next?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "To the city. Istanbul."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "Really? Heading back so soon?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Corvus pauses, amusement softening her battle-scarred face."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "But our next stop is Vienna."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "We have some passengers who need to get off there."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "Any plans to head east again from Budapest?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "As long as these wars rage on, there will be people who need our help."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "I wish you all the best, Conductress, with your \"secret operation\" and with the dream you're chasing."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "Thank you. I intend to see it happen."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "And we're making progress. Especially now that I can count on not just one but two vampires to assist me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She points toward the two \"vampires\" at her side."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "Haha, indeed. I can only conclude that things will improve from here."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "Perhaps we'll meet again, if we're lucky."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She smiles, waves to the crowd, and turns away."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "Phew. I honestly thought she meant it when she said she'd lock us up."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "Vampires aren't meant to be locked up in a cell."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Aima",
+          "text": "I'm curious, Rubi. If you were given another chance to become a vampire, would you take it?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Ruby eyes dance around and find their rest when they meet Aima's face."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "Given a chance? Mm. I don't need \"a chance.\" I am a vampire!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "Haven't you heard of me? The nightmare haunting the \"Danube Dawn,\" the terrifying monster—Rubuska the vampire!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "She prowls the train, looking for anyone who might cause trouble. And if they do, she'll see them punished."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "Investigators? Arcanists? The conductress herself? Hah! She can take them all single-handedly!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "And her shadow friends will gobble up anyone who dares stand in her way!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "Ah-ha!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "Aaaah—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "\"Single-handedly,\" you say?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "Let's see how our \"monster\" manages her chores first. The fifth carriage windows need wiping."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "Ch-Chores? How could you do this to me!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "Funny; I recall someone saying they'd do anything to stay on the train."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rubuska",
+          "text": "Well, yeah, but, we can't have a noble vampire scrubbing windows. We just can't."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A beam of sunlight pierces the morning fog, warming everyone at the station."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Bathed in gold, the conductress's scarred features soften."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "Jokes aside, I must be clear—working on the \"Danube Dawn\" is no easy task."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Corvus",
+          "text": "You will learn the service manual by heart. And I will be testing you, so you'd better start reading."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The station bustles; soon-to-be passengers rush past, oblivious to the small exchange."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "After a night steeped in death and violence, the conductress and her crew brace themselves for a renewed journey."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Still, they dream of these days painted gold by the morning sun."
+        },
+        {
+          "kind": "title_card",
+          "text": "Guest Room, Foundation"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "On November 30th, 1912, I boarded the \"Danube Dawn\" and encountered a young arcanist named Rubuska and the conductress of the train, Corvus, among others."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "At the Nika checkpoint, we stopped Pyrrhos, a vampire and army officer affiliated with Manus Vindictae, and foiled his scheme to infect the greater population, after which the train successfully entered the territory of Austria-Hungary."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "\"Vampire\" ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She stops writing, staring at the report before her. Half-truths have become a specialty of hers."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "It hardly counts as \"forging reports\" if I simply leave out a few details."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "All that I've written is true. It just \"didn't occur to me\" to include some minor details."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Foundation Staff Member",
+          "text": "Ms. Semmelweis."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "No need to worry. I'll turn in the report by the end of the day."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Foundation Staff Member",
+          "text": "Oh, I'm not here for the report."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "Hm?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Foundation Staff Member",
+          "text": "Our office in Vienna received a gift. They were asked to pass it along to you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The young clerk leaves a small gift box by the door and slips away."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "A gift? Could it be ...?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She slices the letter open with her fingernail."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The scrawl is uneven, the corner stained with two thick drops of blood like a wax seal."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Semmelweis",
+          "text": "\"Dear Ms. Semmelweis of the St. Pavlov Foundation.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Then her eyes fall on the illustrious, overlong, and entirely playful signature."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "\"The youngest descendant of Arnold V, Voivode of Wallachia; true heir of Savonovic, first Duke of Arges; rightful lady of Castle Arges, daughter of Arnold VI ...\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "\"... and the bravest vampire of the century, Rubuska, sends her regards!\""
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

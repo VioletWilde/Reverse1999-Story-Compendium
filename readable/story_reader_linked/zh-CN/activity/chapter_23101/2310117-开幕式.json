@@ -1,0 +1,677 @@
+{
+  "episode_id": 2310117,
+  "chapter_id": 23101,
+  "chapter_title": "圣火纪行：东区黎明",
+  "display_label": "",
+  "title": "开幕式",
+  "subtitle": "朋友，你看起来光彩夺目！",
+  "trails": [
+    {
+      "element_id": 2310110,
+      "owner_episode_id": 2310117,
+      "trigger_episode_id": null,
+      "title": "赛事照常举行",
+      "description": "无论如何，这是一届很不寻常的预选赛。",
+      "action": "交互",
+      "unlock_condition": "EpisodeFinish=2310117",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "乌卢鲁伦敦预选赛参赛名单（节选）"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "注：该名单已经过二次复核。\n\n叩门飞匙赛\n【确认参赛】 - 彼得·托马斯（肯特郡）（注：该项目确认参赛选手已不足3人，经查证，预选赛人数不足3人时，比赛仍可正常举办。）\n【退赛】 - 维多利亚·怀特（约克郡）（注：在伦敦进行训练时，因大雾迷失方向，失踪12日后被发现，目前听到“飞匙”便会崩溃地大叫。为了他的安全，我们帮他确认了退赛事宜。）\n【退赛】 - 斯坦利·史密斯（伦敦郡）（注：无法取得联系，暂记退赛。）（注：巴黎预选赛该项目决赛名单中出现同名选手，经核实，确认为同一人。）\n……\n\n1500米负重竞速（15kg级）\n【退赛】蓝鸽铃（肯特郡）-（注：选手选择使用化名进行参赛……和退赛。）\n【退赛】【确认参赛】 - 查尔斯·斯科特（圭内斯郡）（注：该选手原本报名的是25kg级比赛，选择退赛时，听闻15kg级参赛选手已不足3人，改报15kg级比赛。）\n【确认参赛】 - 莉莉·莫里斯（格拉斯哥郡）（注：苏格兰小矮马俱乐部荣誉选手，因认养的小矮马无法在大雾中运离伦敦，选择继续参赛。）\n……\n\n自由祭祀\n【确认参赛】 - 卡洛琳·巴特利（南约克郡）（注：已获得乌卢鲁运动会直通决赛资格。）\n【退赛】【确认参赛】 - 安娜·鲍德温（埃塞克斯郡）（注：因卡洛琳·巴特利参赛，选择放弃。）（注：听闻卡洛琳·巴特利已获得乌卢鲁运动会直通决赛资格，选择继续参赛。）\n【确认参赛】笃笃骨（伦敦郡）（注：选手选择使用化名参赛。）\n……"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "202327",
+      "internal_title": "【2.3】东区黎明-17",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "威廉叔叔，康蒂婶婶，小玛丽，老汉斯……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "十字街的居民们齐齐地站在台前，他们还手执锤头和木锯，老汉斯悄悄地将铁锹踢到了身后。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "金丝绵雀在树上神经质地频繁扭着头，好奇地盯着这群于阴沉的冬日中聚集起来的人们。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "宽檐帽",
+          "text": "由我来吧，女士。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "牙仙微微颔首，宽檐帽便走上了木头临时搭建起来的主席台上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "宽檐帽",
+          "text": "测试，测试。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "宽檐帽",
+          "text": "女士们，先生们，今天是乌卢鲁运动会预选赛举办的日子。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "宽檐帽",
+          "text": "但同时，令人郁闷的，也是个有雾的日子。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "台下的人们看着宽檐帽，脸上还留着水泥与煤灰的痕迹。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "宽檐帽",
+          "text": "没有风，没有阳光，天阴冷得吓人，我的帽檐上也潮潮的，总之是令人不舒坦。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "宽檐帽",
+          "text": "没有辉煌雄伟的赛场，参赛的运动员人数也令人难以启齿。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "宽檐帽",
+          "text": "这是一届令人失望的、不被人看好的乌卢鲁运动会预选赛。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "宽檐帽",
+          "text": "但是，各位！即便失去了基金会的资金支持，我们仍旧靠我们的双手和对运动的热情，在几天之内，搭建起了一个标准规格的赛场！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "宽檐帽",
+          "text": "身为一个合格的政府官员的助手，我能肯定地说，我们搭建的赛场是符合各类法条的检验标准的，它足以得到基金会的认可！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "宽檐帽",
+          "text": "并且，通过各类业内人士与民间爱好者的帮助，我们还组建起了一个足够专业的工作团队。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "宽檐帽",
+          "text": "他们正在赛场的各处，为预选赛的正常举办做着各类准备工作。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "宽檐帽",
+          "text": "这些人将成为本届乌卢鲁运动会预选赛的脊梁，撑起整场比赛，保证预选赛能够顺利进行。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "宽檐帽",
+          "text": "所以，我认为，它是一届充满热情的、永不服输的乌卢鲁运动会预选赛！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "宽檐帽",
+          "text": "现在，我宣布——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "宽檐帽",
+          "text": "乌卢鲁运动会伦敦预选赛，正式——开始！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "人们如热锅上的滚水珠般，喧闹且忙碌着。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "纷至沓来的问题围绕着牙仙、宽檐帽和纸信圈儿三人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "裁判组成员Ⅰ",
+          "text": "牙仙小姐！叩门飞匙赛的裁判不够了！弗朗茨的时间跟别的项目撞上了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "不够了？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "他是明天那个项目的裁判，他记错时间了，叫他回来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "广播声",
+          "text": "请参加1500米负重竞速的选手到第三准备区集合，请参加1500米负重竞速的选手到第三准备区集合。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "参赛选手Ⅰ",
+          "text": "您好，我的号码牌丢了，能再给我一张吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "带着你的证件，直走左转，去证件补办处找一名叫“纸信圈儿”的小女孩补办。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "裁判组成员Ⅱ",
+          "text": "来吧，好兄弟，我带你去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "参赛选手Ⅰ",
+          "text": "好，好，谢谢。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "宽檐帽",
+          "text": "哦哦哦！等一下，“好兄弟”，我怎么从来没有见过你？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "宽檐帽有些疑惑地盯着这名裁判组的成员，一把扯过他掖在大衣内的裁判证。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "宽檐帽",
+          "text": "这个证件是伪造的，安保人员！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "裁判组成员Ⅱ",
+          "text": "我只是一名爱好者罢了，一切好说行吗？放开我！我……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "负责安保的志愿者们闻声赶来，将伪装成裁判的狂热爱好者带了出去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "其中一人趁机与宽檐帽耳语了几句。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "宽檐帽",
+          "text": "牙仙女士。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "怎么了，安保队长？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "宽檐帽",
+          "text": "有人告诉我，一位绅士伙计想要在会场内张贴广告语。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "我们之前已经与别人达成了合约，恐怕你得拒绝他。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "宽檐帽",
+          "text": "是福葛伙计。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "顺着宽檐帽转去的方向，牙仙在会场的入口看到了一条白底黑字的横幅。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "“吸雾有害健康。”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "他一直和他那个坏掉的机器坐在横幅下吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "宽檐帽",
+          "text": "是的，福葛伙计从运动会开始时便守在那里，借由那台破铁块，向每一位前来参加运动会的人展示吸入过多雾气的后果。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "是该说他立场不坚定，还是该说他过于固执？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "宽檐帽",
+          "text": "福葛伙计一直都是一位真心为选民服务的政府官员，正直地、坚韧地、强硬地影响着他身边的人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "你是位天生的发言人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "牙仙转向在会场中备赛的运动员和为运动员呐喊助威的观众们。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "观众Ⅰ",
+          "text": "加油！加油！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "观众Ⅱ",
+          "text": "第一名！！！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "观众Ⅲ",
+          "text": "呜——呜——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "参赛选手Ⅱ",
+          "text": "谢谢！谢谢～"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "正准备起跑的运动员向观众们做出了飞吻的回应，又获得了一阵欢呼声。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "这些雾是阻挡不了人们对运动的热情的，不论如何，人们都要将乌卢鲁运动会举办下去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "他还不愿接受纸信圈儿的小被单吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "宽檐帽",
+          "text": "按照福葛伙计的意思，身为雾行者是不可向浓雾低头的，他不会逃避，而是会“迎战”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "宽檐帽",
+          "text": "笨拙的福葛伙计……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "广播声",
+          "text": "请参加自由祭祀的选手到第五准备区集合，请参加自由祭祀的选手到第五准备区集合。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "宽檐帽",
+          "text": "哦！是笃笃骨女士的项目……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "嗯。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "宽檐帽",
+          "text": "她会上场吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "纸信圈儿",
+          "text": "牙仙女士，宽檐帽先生，你们听到了吗？自由祭祀要开始了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "纸信圈儿",
+          "text": "笃笃骨在哪里呢？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "牙仙与宽檐帽对视了一眼，牙仙看不到宽檐帽的眼神，但她从帽檐的微动作中感受到了一些迷茫。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "二人似乎都不知该对这个孩子说些什么，不知该点燃她的希望，还是戳破她的幻想。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "亦或是正中她的下怀？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "你去自由祭祀的会场那边看看吧，纸信圈儿。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "纸信圈儿",
+          "text": "去干嘛呢？难道笃笃骨会在那里吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "孩子似乎猜中了牙仙的言外之意，她直直地盯着牙仙的眼睛。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "纸信圈儿",
+          "text": "难道笃笃骨会在那里吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "不去看看的话，怎么会知道呢。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "牙仙微微笑着。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "宽檐帽",
+          "text": "“证件补办处”这里由我值守更好些，你去吧，纸信圈儿。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "去吧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "孩子的脸上先是冒出了笑容，却又现出了一些迟疑。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "纸信圈儿",
+          "text": "这次……我不会再带给笃笃骨坏消息了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "纸信圈儿",
+          "text": "我真的为她带来了一场盛会，它不是我梦里咬一口却没有味道的烤鸡，它真实得不能更真实了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "像是下定决心一般，孩子向牙仙和宽檐帽挥了挥手。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "纸信圈儿",
+          "text": "那边见！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "言罢，纸信圈儿便跑走了。"
+        },
+        {
+          "kind": "title_card",
+          "text": "第五准备区"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "第五准备区，候场的自由祭祀运动员们在各自做着热身运动。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "2401号选手",
+          "text": "看看这个场地，随便哪所女子学校的操场也比这个好，这届乌卢鲁运动会预选赛真是有趣。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡洛琳",
+          "text": "这是在几天的时间内搭好的，我们也不能要求太多了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "2401号选手",
+          "text": "哦，天呐，卡洛琳女士，您好……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "2401号赶紧擦擦手，然后向卡洛琳伸去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡洛琳",
+          "text": "练习的时候要小心了，不要磕到自己。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "2401号选手",
+          "text": "谢谢，您真温柔。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一名戴着志愿者工作证的工作人员从门口走了进来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "志愿者Ⅰ",
+          "text": "请各位参加自由祭祀的选手确认上场顺序，比赛马上就要开始了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "志愿者Ⅰ",
+          "text": "2401号选手，请上场。2402、2403号选手，请在这里候场。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "2402号选手",
+          "text": "祝你好运。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "几名候场的运动员向2401号选手送上祝福，2401号向众人挥手告别后，就走向了赛场。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "听到了比赛开始的消息，卡洛琳停下了热身运动。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡洛琳",
+          "text": "夏洛特呢？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "笃笃骨",
+          "text": "呼——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡洛琳",
+          "text": "夏洛特，你果然在这里，这么多年，你的习惯一直没变。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "笃笃骨",
+          "text": "嗯？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "笃笃骨停下了正在做的伸展运动。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "笃笃骨",
+          "text": "你有什么事？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡洛琳",
+          "text": "什么事？你忘记挑战那回事了吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡洛琳",
+          "text": "你是几号？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "笃笃骨",
+          "text": "与你有什么关系……哦，我明白了，越是高贵的人做起志愿者来就越迷人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡洛琳",
+          "text": "我真不懂……你怎么能源源不断地吐出这么多刻薄的话。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "笃笃骨",
+          "text": "你还需要接着适应呢。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡洛琳",
+          "text": "是吗？你以后还会与我讲许多话吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "笃笃骨",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "笃笃骨别过头去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "笃笃骨",
+          "text": "我不再是之前那个夏洛特了，别老是过来套近乎。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "卡洛琳向夏洛特走了过去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡洛琳",
+          "text": "但我觉得没有区别呀，夏洛特。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡洛琳",
+          "text": "你一直就是我追寻的那只黑天鹅，是你在赛场的身影为我带来了成为自由祭祀运动员的梦想，可你成为冠军后便销声匿迹了……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡洛琳",
+          "text": "不过……呵呵～"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "笃笃骨",
+          "text": "有什么好笑的？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "卡洛琳坦然地看着笃笃骨，脸上带着微微的笑意。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡洛琳",
+          "text": "赛场见。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "简短地告别后，卡洛琳便回到了候场区。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "志愿者Ⅰ",
+          "text": "2406号选手，卡洛琳，请上场。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "志愿者的声音从房间内传出，人声因为墙壁的阻隔而显得失真。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "笃笃骨跺了跺略微僵硬的右腿，发出了“笃笃”的声音。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "笃笃骨",
+          "text": "我也该回去了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "笃笃骨",
+          "text": "请让一下。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "笃笃骨来到了观众席，坐在一个角落中。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "卡洛琳踏着轻盈的脚步上了场，向裁判们示意后，她轻轻地抚摸了放于场前的“迪吉里木”，然后回到场中，摆出预备的姿势。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "广播声",
+          "text": "2406号，卡洛琳，请开始。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "卡洛琳舞蹈了起来，与此同时，“迪吉里木”接收到了卡洛琳灌输而来的能量，也开始了它的奏鸣。"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

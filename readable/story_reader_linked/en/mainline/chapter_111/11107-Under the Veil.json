@@ -1,0 +1,828 @@
+{
+  "episode_id": 11107,
+  "chapter_id": 111,
+  "chapter_title": "行于漫漫长路上",
+  "display_label": "",
+  "title": "Under the Veil",
+  "subtitle": "The bullet spares neither the kind nor the cruel; all are caught in the same tragic fate.",
+  "trails": [
+    {
+      "element_id": 111007,
+      "owner_episode_id": 11107,
+      "trigger_episode_id": null,
+      "title": "A Mother's Rage",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=11107",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Look at these boys. They left home with puffed chests and confident smiles on their faces—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Thinking they'd go to the front, pull a few triggers, kill a few enemies, and come back as heroes."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "But when their feet hit the soil, they turned \"pacifist,\" it seems, wounding their own hands rather than their enemies'."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Their mothers should have begged them to stay, not waved their handkerchiefs to see them off."
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "They made a misjudgment.",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Ha, \"misjudgment\"—quite the convenient excuse."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Soldiers follow orders, officers give them, higher-ups make them, parents send their children off to die ..."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "And not one of them will bear the weight of their \"misjudgments.\" Only the dead must answer."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Really? You think death is the only option?"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "What could possibly be the point in that?"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Don't tell me you believe there's GLORY in dying on the battlefield? The thought makes me sick."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Look there—at the lifeless body lying flat in the mud."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "He couldn't even muster the courage to flee, so he bribed a fellow soldier—a man he barely knew—with three cigarettes to surrender with him."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "He died—killed in a moment of pure, senseless hatred. And the other lived—saved by a flicker of mercy."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Where should his mother aim her grief? At the officer who changed his mind just a moment too late? Hah!"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "The officer will be pardoned; they'll say he, too, was a victim of this endless, miserable cycle of hatred."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "So tell me—please, tell me—to whom this rage should go, and I will take this kitchen knife and plunge it into their heart!"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "They had no choice.",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "101110",
+      "internal_title": "第十一章11-07",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "Under the Veil"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "\"In the first three months, I had no idea who I was fighting or what lay on the other side of the trenches. \nIt was as if there were a black wall standing between us and our enemy.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "\"They could attack at any time. I can't sleep. I don't want to die. I don't want to see their faces. I don't want to know what our enemy looks like. And worst of all, I don't know why.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "By the time Charon returns to the trenches, the most recent bombardment has already ended. A trench can never really be called calm, but the rattle of machine guns and the crack of rifles slow and fade into the background."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The shelling hasn't changed much—a few new craters to replace the old ones."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Erich",
+          "text": "Ah so, you're back, mailman. Tell us, where did you take little Franz?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Charon",
+          "text": "He lies beneath stone in a silent wood and marches no more."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Erich grunts out a reply. He's standing in Franz's boots—freshly shined."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Erich",
+          "text": "Hmph. I bet Mr. Willi you'd take the opportunity to keep walking and never come back. Lucky me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Charon",
+          "text": "Where is he?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Erich",
+          "text": "He's dead. I guess you'll call me \"Mr. Captain\" now."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Erich casts his eyes to a new crater decorating their trench."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Erich",
+          "text": "He caught a shell. Just like that."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Erich's face pales and then runs flush red, throbbing veins straining out along his forehead."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Erich",
+          "text": "Lucky me. Unlucky him. That bastard!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He rushes to Charon, grabbing him by the collar."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Erich",
+          "text": "He died, and now who do I pay up to? Why'd you even bother coming back? We have enough ghosts in this goddamn trench!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Erich pulls Charon up and tosses him against the trench wall."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Erich",
+          "text": "You waltz through here whenever you like just to take away our brothers. You bury them. Why? Why do you get to return and they stay dead? Are you mocking us?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Charon slumps but does not fall, making no effort to fight against Erich's strength."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Charon",
+          "text": "Death does not mock. Nor can it stop its return. It is as helpless as any other soldier to do his duty."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Charon",
+          "text": "What fate lies ahead of us is unknown; its winding path cannot be seen until we step through it. None choose the hour when death finds us."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Erich",
+          "text": "S**t!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A curse, flat and empty, and just like that, the fire and fury are gone from him."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Soldiers walk by, look away, and continue their work. A hundred pairs of eyes, and each of them numb to the chaotic scene."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Erich",
+          "text": "I just want to keep myself in one piece when my time comes. Better make sure I look good for my funeral, alright? Now, off you go."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Spotter",
+          "text": "Sir, there's movement coming from no man's land."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The spotter interrupts their standoff, handing Erich a trench periscope."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Erich",
+          "text": "What?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Erich grabs the scope and crouches up to a nearby parapet."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Erich",
+          "text": "Hmm, that's just two soldiers. Could it be a trench raid?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Spotter",
+          "text": "I don't think so, Mr. Captain. Why would they go over the top in broad daylight? Look, they're waving their arms."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Erich",
+          "text": "Huh? What are they doing? Wait, their hands are wrapped in bandages."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Spotter",
+          "text": "Is that a problem?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Erich returns the periscope to the spotter."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Erich",
+          "text": "Keep your eye on them, soldier. I think I know what's going on."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Charon",
+          "text": "The living walk over dead men's ground."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Erich",
+          "text": "Deserters, I'll bet. I heard some soldiers used to shoot their own palms so they could be sent back to the rear. But they reward that kind of cowardice with bullets nowadays."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Charon",
+          "text": "Do they come seeking death or life?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Erich",
+          "text": "With all the officers keeping their heads low, maybe they decided they don't want to do the punishing themselves? Just kick these poor bastards out of the trench and tell them to walk till they drop."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Charon",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Old and new memories intertwine in Charon's mind, forming an incomplete but certain thought."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Charon",
+          "text": "They do not march to us as warriors but as broken men."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Erich",
+          "text": "You're right. Pass it down the line. Does anyone here speak French?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Spotter",
+          "text": "Yes. A little. I took some French back in school."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Erich",
+          "text": "Hurry, hurry! Say something!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Spotter",
+          "text": "Yes, Mr. Captain."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The spotter presses his head against the sandbags, trying to project his voice through the firing slit."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Spotter",
+          "text": "Hey, you, over there!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Deserter",
+          "text": "…?!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Spotter",
+          "text": "Let go of your—er—weapons and ... ah—just come here!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Spotter",
+          "text": "We ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Spotter",
+          "text": "What the ...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Erich",
+          "text": "Goddamn! Who the hell shot him?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Voices carry from around the trench line."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Major Braun",
+          "text": "What are you waiting for, soldier?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The major's face is ashen and stiff."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rudolph",
+          "text": "I killed him."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Rudolph stammers out the words, lying propped up against a sandbag, wisps of gray smoke lingering out from his shaking rifle."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "His glasses are thick as a church window, and still he's the best marksman in the company."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Major Braun",
+          "text": "And the other bastard's still standing! Are you blind?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rudolph",
+          "text": "But Mr. Major, he's surrendered. He ... dropped his weapon."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Major Braun",
+          "text": "It's a trap, you idiot! They have a bomb or some kind of infectious disease!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Major Braun",
+          "text": "Do you want to keep him, soldier? You going to share your rations with him?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rudolph",
+          "text": "Mr. Major, we're supposed to accept all prisoners. There are camps to send them to ... or even the safe zone."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rudolph",
+          "text": "...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He pulls his pistol and points it at the marksman's chest."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Major Braun",
+          "text": "That was an order, soldier. You are to shoot that foreign devil, or I'll send you out to test if their snipers are as spineless as you are."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rudolph",
+          "text": "I-I ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Charon",
+          "text": "Major."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Rasping voices ripple down the trench as bodies make way for a figure moving like a charge in slow motion."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Major Braun turns toward the sound."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Major Braun",
+          "text": "Charon? What took you so long? Don't you know I could have you shot for dereliction of duty?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Charon",
+          "text": "Punish the guilty then, but the man that stands alone is innocent. Spare him."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The statement is stunning in its sharpness. Defiance is not a trait Major Braun has come to expect from him."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Major Braun",
+          "text": "You are not entitled to challenge my authority, sergeant."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Charon",
+          "text": "His war is over. His blood should not water these fields."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Major Braun",
+          "text": "Cowards!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Major Braun strides forward in a single step, boots thudding against the trench's wooden planks."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Erich",
+          "text": "Bastard!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Major Braun",
+          "text": "You're just like those foreigners, poisoning the hearts of our youth with feckless sentimentality—your weakness, this fatalism—is a plague spreading through our ranks!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Major Braun",
+          "text": "That man over there is a threat to our fatherland, yet you plead for his life!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A single unblinking stare sweeps over the gathered soldiers, cowing each man into silence."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Major Braun",
+          "text": "I won't let this cowardice ruin our nation! We will keep fighting until no man alive stands against us! Only through their blood and our tireless sacrifice will we grow fearless and retrieve the glory of our birthright!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Charon",
+          "text": "There is no glory for the dead, Eberhard. Only suffering, guilt, and regret for those that remain."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Charon",
+          "text": "No courage is found in the blood of the innocent, only stains that can never be washed out."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Major Braun",
+          "text": "Nonsense!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Charon",
+          "text": "I remember, you, Major Braun, my old friend, would never say these things."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Charon",
+          "text": "What lies were whispered in your ears by Manus Vindictae?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Major Braun",
+          "text": "Shut up! That's slander! Who told you that?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Charon",
+          "text": "I ... do not slander you, Mr. Major."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Major Braun",
+          "text": "Explain yourself. Explain all of this!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The man roars, and for a second time, Charon is slammed against the trench wall."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Major Braun",
+          "text": "Lies—Manus Vindictae—what do you mean?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Charon",
+          "text": "These are not your eyes."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Major Braun",
+          "text": "Answer me!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "But this man's fire does not temper. It bursts."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Charon reacts too slowly to evade the pistol as it is smashed across his head."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Major Braun",
+          "text": "...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Major Braun's eyes are fixed on the pistol in his hand, anger replaced with shock."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Charon, now wounded, raises his hand to meet his bowed head. Beneath the \"curtain,\" something seems to crack."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Charon",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Major Braun",
+          "text": "Raise your head, sergeant."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Charon",
+          "text": "Eberhard ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Major Braun",
+          "text": "Do not call me that! I am your superior officer. Damn! Obey my orders!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Charon",
+          "text": "It should not have been this way."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He raises his head. The movement is heavy and labored."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A hollow and foreboding presence seems to fill the trench around them."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Major Braun",
+          "text": "Good heavens ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Charon",
+          "text": "This is not a sight fit for the living, Eberhard."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Charon",
+          "text": "But perhaps you must be reminded."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Major Braun",
+          "text": "No! Your face. Cover it now!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Charon",
+          "text": "Do you remember the fear as bombs exploded by our sides, the pain when our brothers moaned out their last breaths? Have you forgotten, or have you only hardened your heart?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Major Braun",
+          "text": "This war is ... *cough* sacrifice is necessary for a nation to make progress."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Major Braun",
+          "text": "Every soldier who has died for the fatherland should feel honored for their sacrifice! You should have been honored, Paul—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Charon",
+          "text": "We do not speak of sacrifice now."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Major Braun",
+          "text": "...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Charon",
+          "text": "Death is not honored—death knows no ceremony, it holds no virtues, it is emptiness and void."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Charon",
+          "text": "You have become so numb to death that you laugh as it walks among us. It is so close to you that you have mistaken it for life, Eberhard."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Charon",
+          "text": "There is nothing to be gained from this war that will pay for what we have already lost."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Major Braun",
+          "text": "You ... want me dead ... then kill me ... do it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Charon",
+          "text": "Death will not save you, old friend."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Charon",
+          "text": "I want you to save yourself."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Major Braun",
+          "text": "I ... Ugh ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The other soldiers huddle to the side."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Major Braun collapses to the ground. His eyes swirl and then go blank, looking up and nowhere at the same time. His face is bone white and stiff as a corpse."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Charon kneels over him and closes his eyes. A motion all too familiar to those watching."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Erich",
+          "text": "S**t! What the hell just happened?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Rudolph peeks out from the crowd, managing a question both timid and brave."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Rudolph",
+          "text": "Is Major Braun dead? Charon, you didn't ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Erich",
+          "text": "Did you?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Charon stands, deliberately facing away from the crowd, replacing his mask and hood with careful precision."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Charon",
+          "text": "He will live. We will leave here together."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Charon",
+          "text": "You have command, Erich. Make the right choices."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Charon",
+          "text": "I don't want you to see what lies beneath. Please, look away."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Words bulge at the edge of Erich's lips, but he swallows them back."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "All others stand stunned and silent as Charon departs with Major Braun in tow."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Erich",
+          "text": "*tut*"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Erich",
+          "text": "Alright. Someone grab that deserter. I'll search him."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Erich",
+          "text": "Show's over. Move it, soldiers! That poor sap is still waiting. Get moving!"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

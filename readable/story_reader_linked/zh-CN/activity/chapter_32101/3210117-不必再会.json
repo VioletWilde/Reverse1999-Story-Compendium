@@ -1,0 +1,873 @@
+{
+  "episode_id": 3210117,
+  "chapter_id": 32101,
+  "chapter_title": "迁流的盛宴",
+  "display_label": "",
+  "title": "不必再会",
+  "subtitle": "我视你为最好的。",
+  "trails": [
+    {
+      "element_id": 3210406,
+      "owner_episode_id": 3210117,
+      "trigger_episode_id": null,
+      "title": "多么可恨的命运",
+      "description": "",
+      "action": "类型3203",
+      "unlock_condition": "EpisodeFinish=3210117",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "多么不讲道理的雨。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "这故事至今都恪守传统，灰调蓝实现了一场完美的英雄之旅。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "我们都等着那墨守成规的结尾时，一场雨摧毁了他们的故事。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "这就是命运对我的第五次恶作剧。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "我也不喜欢这雨",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "不，你可能误会了。我并不讨厌它。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "未来失控的感觉固然可怕，但我更爱这前路未定的滋味。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "其他人生来抱有的希望、梦想、期许，我在这短暂的生命中只体验了寥寥几次……"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "是的，你了解每一场雨。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "可能当我说出故事何时发生时，你就猜到了结局。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "但我不一样，每一场雨于我都是惊喜。"
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "您渴望命运被雨打破",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "即便这需要付出巨大的代价。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "……噢！我想这就是夜巡特遣管理局乃至基金会警惕我的原因。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "他们怀疑我是渴望“暴雨”的狂热分子。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "怎么会呢？我不曾主动追求过它。我只是想更了解它。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "抱歉，我已经猜到了这结局",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "203225",
+      "internal_title": "【3.2】迁流的盛宴17.1",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "教授添加了最后一行记录，随即合上笔记本，伸手向外套之下摸索。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他找到了自己最信任的伙伴，“保护者”转轮手枪。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "罗西教授",
+          "text": "阿黛拉的人格没有被覆盖，甚至重新夺回了肉体的控制权。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "罗西教授",
+          "text": "即使自负如费利西安，其个人意识的强度也与其他人无异，研究方向果然应该专注于呼唤集体的潜意识。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "不必心急，罗西先生。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "占卜者的精神也已落回躯体之中。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她抬起手，轻轻推开了瞄准阿黛拉的枪口。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "即使你现在开枪，结局也不会改变。因为你并不是那枚能够阻碍水流的石子。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "我们不妨稍作等待。或许事情会迎来意想不到的变化。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "罗西教授",
+          "text": "……你看见了什么？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "恰恰相反，我阻止您，正是因为我突然“看不见”了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "费利西安",
+          "text": "你被解雇了！阿黛拉！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "费利西安",
+          "text": "你这成天扮演英雄的小丑……不要命的疯子！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "费利西安的身形剧烈地晃了晃。失去了可以依附的躯壳，她就只是一个飘荡而出的游魂，一道影子。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一个被赶下舞台的失败者。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "多谢你的夸奖。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "比起你对西莉亚做的，这根本不算什么。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她捡起在挣扎中滚落的钻石。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "西莉亚",
+          "text": "阿黛拉，快！快烧掉它——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "费利西安",
+          "text": "闭嘴！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "西莉亚",
+          "text": "呃……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "西莉亚的影像更加单薄，费利西安扬起手，她的轮廓便融化、消散。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "费利西安，住手！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "来不及确认西莉亚的状况，她握紧了手中的蓝钻。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "唯有真实存留，一切虚假的化为灰烬。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "这场荒诞不堪的闹剧终于可以落幕。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "唯以真知——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "费利西安",
+          "text": "呵。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "费利西安",
+          "text": "你这令人作呕的蠢货、厚颜无耻的骗子——你想把一切都推到我身上？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "费利西安",
+          "text": "你骗得了任何人，但你骗不过我——我比任何人都了解你。包括你那自欺欺人的底色……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "费利西安",
+          "text": "你一生中最光荣的事就是能被我认作同类。阿黛拉！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "费利西安",
+          "text": "你早就知道那些信都是西莉亚写的，还要装作不知情的样子对她提起！\n你早就知道你的父母已经过世，却默许了她出于好心玩这过家家酒的游戏……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "不……我只是……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "冰冷的手指逐渐收紧，生者与死者的界限变得模糊不清。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "费利西安",
+          "text": "看到她憧憬那些冒险，你既哀伤又愤怒……一个结局注定不幸的诅咒，又有什么好羡慕的呢？因此失去双亲的人又不是她……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "费利西安",
+          "text": "可如果没有西莉亚的这份憧憬，你的生活还剩下什么？一个随波逐流的出租车司机？这真的是你想做的吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "咳……你少自以为是了……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她拼命汲取着所剩无几的空气，从喉咙里挤出一句反驳。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "费利西安",
+          "text": "自以为是？我什么都清楚——我比你更清楚你脑子里那点念头！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "费利西安",
+          "text": "西莉亚让你烧掉宝石，她把你强行拖进这片混乱。你惊慌失措，却也暗自期待——因为你将不费任何力气，以一个全然受害者的模样获得这一切！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "费利西安",
+          "text": "谁也不会为你开启了“诅咒”而埋怨你，就像你埋怨你的父母那样！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "费利西安",
+          "text": "你只是被卷入了，不会有任何人因你的冒险受到伤害，甚至你还要扮演一个拯救者……哈。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "费利西安",
+          "text": "你那天真无邪的青梅竹马，扮演一个公主真是再合适不过了！那么，怎么能没有加害者呢？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "费利西安",
+          "text": "于是我出现在了那里，如你所愿。一如最初。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "费利西安",
+          "text": "——全巴黎有这么多人，为什么独独是我出现在你身边？你想过这个问题吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "肌肉与骨骼在她狠狠收拢的手掌下挤压、摩擦、变形。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "费利西安",
+          "text": "承认吧，阿黛拉！是你期望我对西莉亚出手，是你想要杀了她！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "阿黛拉拼命地转过头，她切实地看到了西莉亚满脸惊愕。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "咳……这只是、谎……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "费利西安",
+          "text": "啊，谎话。对，她也向你撒谎了，阿黛拉。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "费利西安",
+          "text": "你们真是相称的好友，一对互相掩饰的小骗子……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "费利西安",
+          "text": "她没告诉你，烧掉这颗钻石，我和她——这两个麻烦，就会一起消失得干干净净。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "费利西安",
+          "text": "你也会得到轻松和自由。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "你说……谎……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她再一次望向西莉亚，只得到听了无数遍的请求。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "西莉亚",
+          "text": "别听她的，阿黛拉！迷思海不能彻底打开！\n立刻把宝石烧掉！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "费利西安",
+          "text": "是看这座城市毁掉，还是再一次送你的朋友去死？塔沃尼尔的大英雄？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "费利西安",
+          "text": "我可不会给你做选择的机会，因为我还不想死呢。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "为了更好地欣赏阿黛拉窒息的痛苦，她稍稍低下头。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "于是，她得到了一个歪歪扭扭的笑容与狠命咬紧的牙齿。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "费利西安",
+          "text": "啊！该死——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "旁白",
+          "text": "在几近本能的撕咬之下，她反射性地松开手，将阿黛拉狠狠推远。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "旁白",
+          "text": "而后者早有准备。两三个翻滚后，阿黛拉站直了身子。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "真巧、我也……还……不想死！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她没有再望向西莉亚。那双焦急的眼睛比能检验真伪的火焰更加灼人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "属于“费利西安”的外壳剥落殆尽，毫无先兆的巨大暗影于这个瞬间显现在铁塔的尖端。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“费利西安”",
+          "text": "别想摆脱我。"
+        }
+      ]
+    },
+    {
+      "script_id": "203226",
+      "internal_title": "【3.2】迁流的盛宴17.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "罗西教授",
+          "text": "再等下去，她就要把那枚钥匙毁掉了，贝丽尔。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "罗西教授",
+          "text": "如果你不能拿出一个足够好的理由，三秒钟后，我立刻开枪。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "“意象宝库”的裂口从未合上，罗西先生。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "再抬头看看吧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "劳伦·罗西抬起头，空中的城市越来越近，边缘的建筑正逐渐延伸到地平线边缘。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "钻石只是将裂缝撕扯得更大、更壮观，加快它泄露的进程。\n而我们都有足够的时间……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "不如看看这枚小石头在她手上会有怎样的效果。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "阿黛拉注视着手中的蓝钻，用指腹抹去其上的血迹。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "在做出最终的决定前，她还要确认一件事。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "西莉亚，你说过等研究成果出版之后，就用稿费送我一条“好运项链”……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "还有机会吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她低着头。被冲淡的血水从她脸上滴落到那枚钻石上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "西莉亚",
+          "text": "你真过分，阿黛拉。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "西莉亚",
+          "text": "应该早点告诉我……这样我就不用挤时间偷偷写那些信啦。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一个有点难看的、艰难挤出的笑容浮现在她脸上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "……我们还会再见面吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "西莉亚",
+          "text": "可能……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她的目光扫到一旁昏迷的费利西安。时间不多了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "最终，西莉亚上前一步。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "像小时候玩耍那样，她的手掌覆上阿黛拉的手掌，帮助对方握紧了拳头。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "西莉亚",
+          "text": "死者复活只是一个传说。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "西莉亚",
+          "text": "没人知道烧毁宝石之后会发生什么，那些……都只是猜测。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "西莉亚",
+          "text": "就是现在了。做决定吧，阿黛拉。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "阿黛拉听着这番话，迟迟没有动作。几次尝试后，她艰难地开口了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "费利西安是对的。我是个狡猾的骗子、自欺欺人的蠢货。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "可她有一点说错了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她终于调整好了呼吸。接下来的句子几近不受控制地涌出。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "你不需要谁的拯救……你才是真正的冒险家。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "至关重要的线索来自你，最先踏上这场冒险的也是你。你比我更有资格站在这里……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "你比我更像塔沃尼尔。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "西莉亚",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "握住阿黛拉的那只手紧了紧。如同此前的许多次对话，西莉亚有点无奈地轻轻叹了一口气。随后，阿黛拉听到好友笑了笑。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "西莉亚",
+          "text": "不是的，阿黛拉。那不重要。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "西莉亚",
+          "text": "我对塔沃尼尔家的事迹感兴趣，只是因为你。因为你是我的朋友。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "……我？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "西莉亚",
+          "text": "从小到大，你总能在关键时刻做出选择，从没有后悔过……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "西莉亚",
+          "text": "我也想学会像你那样活着，阿黛拉。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "西莉亚的笑容轻易地撕碎了那颗颤抖的心。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "但它总要跳动下去，带着一些难以弥合的痕迹。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "西莉亚",
+          "text": "你总是从不后悔，你应该那样。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她把那几个字眼咬得很重。像一个郑重的约定，或者要求。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "西莉亚",
+          "text": "好吧，可能……最后只是有些遗憾。但你现在动摇的话，我会失望的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "西莉亚露出最后一个笑容。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "西莉亚",
+          "text": "做你想做的吧，我伟大的冒险家。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "西莉亚",
+          "text": "我相信你。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她拍了拍阿黛拉的肩膀，而后松开了手。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "声音消退了。呼吸也随之退去。唯有心脏仍在震颤。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一切的等待、煎熬、追逐与挣扎都已至尾声。\n期望、仇恨、悲痛与谅解都已被倾吐殆尽。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她别无选择。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "唯以真知炼化虚妄。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "燃烧的火焰只是一种变化时产生的现象，此刻却要揭露实在之物的真相。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "无论何种伪装，都会在这种剧变中显露出本质，质与量应当在此刻产生变化。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "火焰自下而上，掠过整颗法兰西之蓝。阿黛拉感到手中一沉，那枚被意象侵蚀、化为法兰西之蓝的烟晶出现在她的手中。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "然而法兰西之蓝并未消失，手中的一枚宝石变成了两枚，意象离开了物质，却没有回归来时的世界。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "怎么……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "为什么它还在……？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "——唯以真知炼化虚妄！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "在火光之中，虚假的破灭，真实的存留。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "这枚纯粹的、略显透明的蓝钻，在不灭中证明了自己无可抵挡的真实。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "“热沃当的野兽”会被焚烧，连费利西安也会！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "它也来自那片潜意识海洋——凭什么它能毫发无损？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "西莉亚",
+          "text": "这不应该……它明明只是一个象征……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "正因为它是纯粹的象征。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "占卜师肯定了她的措辞。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "它是实在的意象，世人的记忆构成了它，就好像一幅画作。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "不论有多少赝品与模仿者，画中的宝石都会永远享有独属于它的名字。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "不会劣化，没有任何杂质，永远保持纯粹。因而也不会被烧毁，得以永久地留存。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "你做得很好，阿黛拉。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "阿黛拉困惑地听着这句赞赏。她分明什么也没能改变。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "天上的巴黎仍在降下，两座埃菲尔铁塔的尖端已经开始交错。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "犹如一架梯子被逐渐收起，天与地的差距正在弥合。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "而西莉亚与费利西安的形影都愈发趋于透明，被风一缕缕切削，消散。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "我没能毁掉钻石，可是她们……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她无法再说下去。她看到了贝丽尔的微笑。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "在故事的最初，在占卜沙龙之中，贝丽尔朝着她——此时此刻的她，露出的笑容。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "正如我所见的那样，人们在命运中挣扎，无数水珠在此汇聚，终于变成了滚滚向前的洪流。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "而你是其中格外倔强的一滴水珠，你的挣扎得到了回应。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "贝丽尔",
+          "text": "我想……那洪流将要落下了。"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

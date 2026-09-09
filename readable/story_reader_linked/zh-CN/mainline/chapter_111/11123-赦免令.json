@@ -1,0 +1,452 @@
+{
+  "episode_id": 11123,
+  "chapter_id": 111,
+  "chapter_title": "行于漫漫长路上",
+  "display_label": "",
+  "title": "赦免令",
+  "subtitle": "咖啡，甜点，亲族，有关旧生活的回忆，以及一串晦暗的锁链。",
+  "trails": [
+    {
+      "element_id": 111023,
+      "owner_episode_id": 11123,
+      "trigger_episode_id": null,
+      "title": "衷心的祝福",
+      "description": "你会怎么去丈量重逢的距离？",
+      "action": "交互",
+      "unlock_condition": "EpisodeFinish=11123",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "玛尔纱致玛丽安娜"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "玛丽安娜：\n    请原谅我的不辞而别，毕竟我已经原谅了你的不辞而别——等我知道你的行踪时，你已经深入地下面对毒气了——无论如何，也希望我的这封信可以安全送到你的手里。\n    “Ⅻ”小队需要一名队医，而我也感受到了他们小队的特殊性——如果加入他们，我留在前线的时间也许可以更长一些——所以，刻雷乌斯先生的邀请就显得很合时宜，但这也使得我必须迅疾地随同小队一起行动。我们即将前往东线，我的骑士团朋友们分散各地，东线正好有一些他们的消息。虽然加入了“Ⅻ”小队，但我被准许在东线单独行动一段时间，我想试着找到骑士团的朋友们，看看他们是否有加入基金会的意愿。\n    玛丽，我知道你们家族有着特殊的体质，也许你会觉得我有些絮叨，但我依然要说一句：你毕竟在毒气中进行了长时间的作战，希望你可以让医生为你检查一遍身体状态。\n    祝愿你一切顺利。\n                                                                                               玛尔纱"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "101132",
+      "internal_title": "第十一章11-23",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "赦免令"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "又一次月升月落之后，屹立不倒的教堂再次接纳白昼的光明。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "此时已接近正午，草被绵软的庭院内依旧保持惯有的静谧，只不过此刻多了一份因静候而生的肃穆。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛丽安娜",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "受企盼的人终于出现在林地边缘——她已经用一夜的时间处理好醒目的伤痕。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "石像鬼妇人",
+          "text": "玛丽，你回来了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她按捺住上前拥抱的念头——因为此时她正用双手端着一只装着咖啡与茶点的银盘。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛丽安娜",
+          "text": "咖啡？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "石像鬼妇人",
+          "text": "没错，照你喜欢的——不加奶也不加糖。另外还有一些香草马卡龙和蒙布朗。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "对于刚从战场上退下的士兵来说，这些食物与器皿的色彩营造了一种不真实的氛围。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "玛丽安娜从堂姨手中接过温热的咖啡，怀着不可思议的心情轻啜一口。\n当然，不及巴黎咖啡馆的出品，但此刻亦是珍馐美味。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛丽安娜",
+          "text": "姨妈，这些是从哪里弄来的？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "妇人双手握在一起，展露出一道有些哀婉的苦笑。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "石像鬼妇人",
+          "text": "看看谁来了，玛丽。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她让出身子，玛丽安娜即刻注意到那久未得见的高大身影。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "埃曼努埃尔",
+          "text": "玛丽安娜。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛丽安娜",
+          "text": "……父亲。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛丽安娜",
+          "text": "你为什么过来了？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "埃曼努埃尔",
+          "text": "总统已经为你签发了赦免令，你可以回后方了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "埃曼努埃尔",
+          "text": "另外，拉蒂斯病得不轻，在信仰问题上，他太钻牛角尖，我虽然预料到了这一天……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他以略带不满的方式结束了话题。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "埃曼努埃尔",
+          "text": "总而言之，我是来接你们离开的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛丽安娜",
+          "text": "这么说，现在家里是你在管事。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "埃曼努埃尔",
+          "text": "泰内布朗热家在战争中损失惨重，需要有人在战后领导家族的重建。我正在重新与失散的家族成员取得联系。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "埃曼努埃尔",
+          "text": "重塑之手尚未威胁到巴黎，我在蒙马特购置了几套房产，在重塑之手和基金会的冲突结束之前可供暂时居住。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "泰内布朗热先生以不容置喙的姿态转身，面向艾格尼丝。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "埃曼努埃尔",
+          "text": "艾格尼丝要送回鲁昂，安置在家族的墓地中。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛丽安娜",
+          "text": "……墓地？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她不能理解这个词。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛丽安娜",
+          "text": "艾格尼丝没有死，她只是……出于……拉蒂斯说的某些理由……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "玛丽安娜抬起眼，对上父亲有些哀其不争的目光。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "埃曼努埃尔",
+          "text": "你从来都不尊重家族的传统，所以才会被拉蒂斯的疯言疯语所欺骗。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛丽安娜",
+          "text": "他撒谎了？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "埃曼努埃尔",
+          "text": "不，我相信他不会撒谎，只是在对灵知的探索中太过偏狭。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "埃曼努埃尔",
+          "text": "家族中没有任何记载表明，预兆会以这种奇怪的方式降临在我们的族人身上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "埃曼努埃尔",
+          "text": "艾格尼丝的“雕塑化”只是一个平凡的惨剧，没有任何隐秘或神圣的意味。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "埃曼努埃尔",
+          "text": "她只是因为太过害怕落在头上的炮火，才在未成熟的神秘术上失手，在石化中没有留下任何一丝血肉。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "埃曼努埃尔",
+          "text": "这就是全部的故事。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛丽安娜",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "埃曼努埃尔",
+          "text": "你和拉蒂斯都把她看得太重，可艾格尼丝终究只是一个普通的孩子，并非天上降下的天使。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "埃曼努埃尔",
+          "text": "我也为此难过，但你必须相信，不会再有任何奇迹降临到艾格尼丝身上。她永远都只能是一座雕塑。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "父亲伸出手，轻轻拍了拍女儿已承担了许多重量的肩膀。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "父女没有再交谈什么，只是在艾格尼丝的“雕塑”前戚然沉吟。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "泰内布朗热先生率先离开了，他还有更重要的事情要处理——教堂外已经停着好几辆搬家用的卡车。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "颤巍巍的锁链声刺破了空气。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛丽安娜",
+          "text": "……？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "拉蒂斯",
+          "text": "玛丽安娜，你竟然回来了……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "教士步履蹒跚，似乎正在被什么无形的东西推搡着向玛丽安娜靠近。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他的手心捧着一串闪着寒光的锁链。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛丽安娜",
+          "text": "该死的，我以为父亲只是——你真的生病了吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "拉蒂斯",
+          "text": "我生了病，那你呢，玛丽安娜？——你竟不知道自己陷入了比罹患疾病更可悲的境地中了吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他吐出疯癫的言辞，完全失去了过往谨慎克制的谦逊。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "拉蒂斯",
+          "text": "我在你身上看见了多么沉重的罪孽，可悲的人！而我也一样……一样……天啊，我在你身上嗅到了地狱的气味……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "拉蒂斯",
+          "text": "你从地狱归来了，玛丽安娜……可悲的人……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛丽安娜",
+          "text": "拉蒂斯，你真的疯了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛丽安娜",
+          "text": "到巴黎之后，去找一个安静的疗养院吧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "拉蒂斯狡黠地眯起眼，像一个正在分享秘密的孩童。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "拉蒂斯",
+          "text": "我也许会乖乖在疗养院休养，但你不想回去，对吧？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛丽安娜",
+          "text": "……我还没有决定……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "拉蒂斯",
+          "text": "不……不！你不能回去，你永远不能再回去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛丽安娜",
+          "text": "你说什么？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "拉蒂斯",
+          "text": "我和别人不一样，能在你身上看见特别的东西……你已经不再是——不再是……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "拉蒂斯",
+          "text": "恶魔……萦绕在家族之血中的恶魔，它睁开了眼睛……它的眼睛——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "拉蒂斯",
+          "text": "啊——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "拉蒂斯发出痛苦的哀嚎，浑身颤抖不止，手中的锁链也连带着撞出更加刺耳的噪音。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "拉蒂斯",
+          "text": "不能回头了！你已经不能回头……你的路在外面，不在里面……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "拉蒂斯",
+          "text": "但是……但是我想帮助你，我的堂亲。我会帮助所有人，但尤其是你，以偿还我的罪孽。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他止住了颤抖，以极尽恭顺的姿态低下瘦长的身躯，将手中的锁链捧在玛丽安娜眼前。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛丽安娜",
+          "text": "——拉蒂斯？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "拉蒂斯",
+          "text": "这是束缚灵魂的枷锁……牢笼。是的，但我恳求你能将它收下……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "拉蒂斯",
+          "text": "我会奉献我的一生为你的灵魂祈祷，堂亲，日日夜夜，愿你的灵魂不至于永堕黑暗。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛丽安娜",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "拉蒂斯",
+          "text": "愿你的血洁净，洒向大地，新的土地将因此繁茂。愿你走在地狱的路上，依旧念着神圣的名。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "又是一份不轻的负累，它将时刻提醒拥有者可施加之恶的极限。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛丽安娜",
+          "text": "如果我不接受这份镣铐呢？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "拉蒂斯",
+          "text": "我的祈祷也不会因此停歇，一如过往的一切时日。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "艾格尼丝如同在静默地倾听着这一切。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "拉蒂斯",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "最终，她取走了锁链。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "冰冷的金属垂在手中，如有千钧之重。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛丽安娜",
+          "text": "告诉我父亲，我不回去了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "玛丽安娜",
+          "text": "——除非战争有真正结束的那一天。"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

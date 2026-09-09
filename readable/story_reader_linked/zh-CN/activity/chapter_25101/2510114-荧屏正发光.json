@@ -1,0 +1,643 @@
+{
+  "episode_id": 2510114,
+  "chapter_id": 25101,
+  "chapter_title": "唐人街影话",
+  "display_label": "",
+  "title": "荧屏正发光",
+  "subtitle": "空落落的心，与一颗渴盼的眼眸。",
+  "trails": [
+    {
+      "element_id": 2510112,
+      "owner_episode_id": 2510114,
+      "trigger_episode_id": null,
+      "title": "信息差对齐",
+      "description": "欢迎来到电玩餐馆，请问需要一些什么？",
+      "action": "对话",
+      "unlock_condition": "EpisodeFinish=2510114",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "亲爱的，你瞧上去这样疲倦，可真叫人担心。好在宴会已经结束了，尽管帮不上多少忙……至少让我替你拢一拢头发吧，孩子。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "如果不花些时间打理，它们是会打结的，解开时难免教人脑袋发痛。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "我见识得够多了",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "是啊，“结”是大伙儿的老朋友，比起写字和说话，我们认识它恐怕还要更早。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "在一条直线上出现的停顿，常意味着中断、阻塞，但更多时候充当着路标，将那些容易忘在角落里的东西拎到台面上。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "顺手抓过的草叶，野兽的尾巴，掉落的头发……能用于打结的材料可真够多的！当然啦，最方便存放的还是——绳结。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "它在各种传说中出现，忙得不可开交。有时候象征一个承诺，有时候用于计数，有时带来康复与终结。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "还有什么？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "噢，这可讲不完！绳结承担的作用如此多，影响又如此之大。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "或许真是那一剑令格尔迪奥斯之结断开，也成就了一位国王；在庆典上抓紧长绳行走的人们，可能真的为他们的城市请来了神圣的目光；成串的绳索大概的确承载了整个国度的历史，连半只鞋子都未被遗漏在旁。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "印加人管记事绳结叫“奇普”，从一根主要的绳上蔓延出许多小分支，所用的材料、绳索的色彩、打结的方式……这些变化当然已经足够记录任何东西。要知道，莎士比亚在创作时也不过只使用了26个字母。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "说些更实际的",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "朝周围瞧几眼——水手与海员利用绳结做标记，固定物件；车夫栓马时用上最结实的打结方式；体面的先生小姐也总关注着当下最为流行的花结，好及时调整自己的领巾与帽带。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "而在肉眼瞧不见的地方，我们的基因排序、物质的相变……看似毫不相关的几个结也被某种统一的规律串联。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "您瞧，或许真有一根丝弦、一条无尽的绳索，万事万物都系在其上。它不起眼，却无处不在。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "眼下您也可以试上一试。拿起这根头发，仔细地弯折，轻轻拽紧——成了。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "这枚结会提醒您，我们曾在这儿谈话。"
+            }
+          ]
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "202524",
+      "internal_title": "【2.5】唐人街影话14.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "波蒂埃",
+          "text": "该死！这是电影演员该有的水平吗？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "银色的锐利光雨再次斥退了梁月与波蒂埃二人的攻击。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "奇星占据了小巷中间的位置，看似置身在梁月和波蒂埃的前后夹击之中，实则利用二人一前一后的位置关系进行牵制。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "两名执法者难以顶着误伤同伴的风险开枪或是使用高杀伤力的神秘术攻击，战局僵持不下，几次都险些让奇星抓住破绽脱身。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "这样下去等不到支援到达了……波蒂埃教官，请掩护我！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "——强梁既出，罔有不韪。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "险道兽强梁的祭器出现在了梁月的手上，古老的咒语被一字一顿地念出。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "奇星",
+          "text": "！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她看到那个人猛地转向了自己的方向，抬起了手。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "——那是神秘术的起手式，梁月知道那些锐利的银光即将飞射而来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "……斩杀凶咎——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "有一瞬间，她的心中产生了动摇。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她曾经在儿时一遍又一遍地用憧憬的目光看着荧幕中那潇洒的身影，也曾不知道多少次模仿过电影中那分外飒爽的神秘术技巧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "但她从来没有想到过有一天那些耀眼的银光会刺向自己。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "枭截不祥！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "——但梁月还是念出了最后几个字。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "随着最后的话音落下，文字将唤醒古老的契约，险道兽将应召前来。\n它将为梁氏后人所驱役，吞食世间诸般邪祟。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "——本该是这样的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "咦……？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "身旁仍一片空荡。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "奇星",
+          "text": "……！喂！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "波蒂埃",
+          "text": "菜鸟，快躲开啊！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "有人推开了她。她重重地摔在地上。\n紧随其后的是冲击。映入眼帘的是银光。钻入耳中的是什么人的喊叫。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "然后是鲜血。倒地的声音。粘稠的感觉。温度。骚乱声……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "那之后的事情，梁月记得不是很清楚了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "男子",
+          "text": "时辰还没到，站稳！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "严厉的呵斥声刺破混沌的薄膜，令意识突兀地接续了起来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "那是……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "令人眼熟的小院。一个有着熟悉面孔的男人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他的面前正站着一个小女孩。\n她扎着马步，汗水从额前滑落，腿已经力竭，开始晃晃悠悠地打颤。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "但男子手上的黑檀木戒尺仍然毫不留情地拍在了女孩的肩膀上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "男子",
+          "text": "不像样！\n和你讲了多少次，要沉肩坠肘，心静体松！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "院子围墙上，露出了几个小脑袋，正边笑边捂住嘴巴，不时窃窃私语。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "男孩",
+          "text": "嘘……看，她就要撑不住了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "女孩",
+          "text": "嘻嘻，活该！谁叫她向老师告密的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他对着扎马步的女孩歪斜着表情，做出了一个大大的鬼脸。\n女孩本就早已疲惫不堪的双腿一垮，终于支撑不住，整个人仰倒在地上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "男子",
+          "text": "疏于练功，三心二用，你看看你怠惰了多少……\n以这样的体魄，强梁又如何能服从你？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "男子",
+          "text": "继续站，我等一会过来检查。\n扎不稳马步，今天晚上就不要吃饭了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "父亲失望地摇着头离去，只留下女孩躺在原地，气喘吁吁。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "女孩",
+          "text": "走吧走吧，没意思，她又要站一天了。\n要不要去录像厅？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "男孩",
+          "text": "好呀！去街角那家吧，今天他们家放《神秘警探C07》！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "墙头上的孩子们也失去了对她的兴趣，嬉笑着跳下墙根跑走了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "……我也想去录像厅。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "谁也没有听到女孩的声音。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "除了她自己。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "我想起来了。\n那个时候……我很讨厌强梁。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "什么十二侲子之后、强梁之主，什么惩奸除恶、驱除鬼疫、光宗耀祖、履行使命……这些对一个孩子来说，都太过遥远了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "没有孩子喜欢告密者和总是板着脸的小班长。当他们成群结队地嬉戏玩闹时，我只能一个人在一旁看着，假装自己并不在意。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "……但其实，我也想要跟他们一样。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "一角、两角……五角……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "小猪存钱罐被狠心地摔碎在地。女孩从它的残骸中一枚一枚地数出里面的硬币与一张张皱巴巴的纸钞。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "瓷片的残骸中，半张破碎的面孔睁着无辜的双眼看着她。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "对不起，小猪……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "女孩伸出手，小心翼翼地摸了摸小猪的面孔。似乎是在安抚，也像是在道别。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "那天我没有理会父亲的要求，独自拿着积蓄找到了那些孩子说的街角的录像厅。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "那就是我第一次看《神秘警探C07》。\n它的确很有意思，在观看的过程中，我也的确很开心。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "但我也知道，电影里演的都是假的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "一部电影无法改变任何事。\n等电影结束后，我还是得回到那个院子里去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "……我不想回去。\n所以直到片终字幕开始滚动，我也没有离开。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "当那些字幕滚动完后，录像带仍在播放，屏幕重新亮了起来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "那是电影的花絮，作为主演的奇星，正接受记者的采访。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "记者",
+          "text": "奇星小姐，有好多小观众喜欢你的作品，把你当作他们的英雄。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "记者",
+          "text": "但另一方面，不少成年人觉得你所饰演的警探C07每一次都能够击败恶人的结局过于理想化，反而缺乏了真实感。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "记者",
+          "text": "对此你怎么看呢？你觉得这会是警探C07系列电影的遗憾吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "奇星",
+          "text": "现实世界已经足够残酷，因此我们才会在电影的世界中寻求一个圆满的结局，寻求一个善有善报、恶有恶报的理想世界。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "奇星",
+          "text": "如果连在大荧幕上，我们都不被允许相信正义与公理，那么我们又还能相信什么呢？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她注视着镜头，也注视着画面之外，笑容明媚而潇洒，眼神比星光还要明亮。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "奇星",
+          "text": "C07是正义的代言人，是锄强扶弱、匡扶正义的英雄，是在无论怎样的危机与险境之下，都能带来那个大家所期盼的圆满结局的人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "奇星",
+          "text": "——我希望我们的电影和C07这个角色能够带给银幕前的观众们力量与勇气。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "奇星",
+          "text": "也许并不是每一个人都能够在现实世界中成为一个真正锄强扶弱的战士，这毕竟是一条十分艰难的道路。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "奇星",
+          "text": "但我希望我们的电影和C07这个角色，至少能够让大家成为在生活中，给自己身边的人带来“圆满结局”的英雄。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "那是个夹杂在片终字幕中的很短一段采访，但当时奇星说的每一个字我都记忆犹新。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "“身为强梁之主，应驱使险道兽强梁惩奸除恶、驱除鬼疫、守护世间安宁……”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "父亲无数次的耳提面命中所描绘的、那个没有面孔的形象终于清晰了起来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "我意识到，我不仅仅可以成为那个“给身边人带去圆满结局的英雄”……而且可以成为和电影里的C07一样，“给所有人带去圆满结局的英雄”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "别人也许不行，但是我可以。因为我是梁家之后，强梁之主——那份令我不堪重负的诅咒，在那一天成为了一份祝福。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "…………"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "那么，到底是哪里出了错呢？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "意识开始被撕裂，刺目的银光无情地将她吞没。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "警笛声。救护车的声音。血。血。血。止不住的鲜血。\n浸透警服的布料，淹没她的手。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她听到什么人在喊叫。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "——坚持住，波蒂埃教官！求求您！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "为什么……为什么您要这么做？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "我以为你……我还以为你们讨厌我。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "总是这样的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "现在梁月听清了。那是她自己的声音，是她在狼狈地喊叫着什么。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "那个时候波蒂埃教官是怎么回答的来着？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "血随着她艰难的呼吸，从口鼻中化作血沫被咳出。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "波蒂埃",
+          "text": "咳……原来你知道啊。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "波蒂埃",
+          "text": "但那是……忘了吧，那是之前的事了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "波蒂埃",
+          "text": "那个时候我们不是还不了解你嘛……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "满是鲜血的手无力地拍了拍梁月的脸颊，随后落下。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "等等，不要……波蒂埃教官——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "波蒂埃",
+          "text": "叫那么惨做什么，我还没到要你来鸣枪礼的地步！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "呃……？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "难以想象是来自因伤卧床病号的雷霆一击，让梁月从睡梦中惊醒。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "额头被弹过的地方一阵发痛，梁月茫然地环顾四周，映入眼帘的是素净的病房和一脸愠色的自家教官。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "波蒂埃",
+          "text": "怎么会有人来探望伤员，然后自己趴在这里睡着了的？\n我的腿都要麻了……还有，擦擦你的口水。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "什么？抱歉——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "波蒂埃",
+          "text": "逗你的，你没有流口水。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "…………"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "波蒂埃",
+          "text": "好了，帮我把电视打开吧，在你睡得正香的时候，我都快闷死了。"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

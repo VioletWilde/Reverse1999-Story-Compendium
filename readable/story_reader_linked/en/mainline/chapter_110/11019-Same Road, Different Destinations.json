@@ -1,0 +1,861 @@
+{
+  "episode_id": 11019,
+  "chapter_id": 110,
+  "chapter_title": "Paradise Regained",
+  "display_label": "",
+  "title": "Same Road, Different Destinations",
+  "subtitle": "Poor soul, so eager for salvation—where will you go now?",
+  "trails": [
+    {
+      "element_id": 101019,
+      "owner_episode_id": 11019,
+      "trigger_episode_id": null,
+      "title": "Paper and Sand Table​",
+      "description": "Hundreds of people trapped on a thin sheet of paper, waiting for orders—and for rescue.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=1019",
+      "content_hints": [
+        "fragment",
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "Operation Day"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "03/30 13:05\nTriglav conducted an initial test firing from 22KM, scoring a direct hit on the coastal ice shelf. Four minutes later, a second salvo was conducted for firing data adjustment. Four minutes later, a third salvo was conducted to complete firing calibration.\nReply: Commence the attack.\n03/30 14:32\nMagnus activated self-navigating mines. Confirmed underwater attacks on two destroyers, with one confirmed incapacitated. Magnus then surfaced, commencing gunfire while using its hull to block attacks.\nReply: ​Deploy the second wave of five destroyers to intercept Magnus. Zeno Air Force has launched fourteen reconnaissance personnel. Coordination required.\n03/30 16:03\nMagnus has been defeated. Fleet is advancing pending the construction of an artificial harbor by logistics units.\nReply: Monitor Igor's rebels and provide real-time situation assessments.\n03/30 19:25\nTriglav has advanced into the heart of the combat zone. The artificial harbor construction is now in its initial phase. Sonar has detected a massive unidentified signal. No movement detected from Igor's forces.\nReply: Emplace firearms based on fortifications. Maintain surveillance on the enemy main forces.\n03/31 00:10\nAll Olitiaus have taken to the skies. The retreating Magnus abruptly reversed course and attacked. Two destroyers were incapacitated by Magnus's flat-trajectory artillery fire. Request heavy fire support. No signs of Igor's forces joining the battle detected.\nReply: Artillery will establish fire coverage across your 12NM forward sector in 5 minutes, with air support arriving in 20 minutes. Remain on high alert as Igor's movement toward Manus clearly indicates intentions.\n03/31 02:34\nLeviathan has surfaced, severely damaging Triglav. Triglav is initiating detonation of the onboard array.\nReply: All vessels evade ice zones and reorganize defense."
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "101024",
+      "internal_title": "第十章10-18.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "Same Road, Different Destinations"
+        },
+        {
+          "kind": "title_card",
+          "text": "Lava Tube, Sanctuary"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "In a place as silent as a tomb, even the slightest motion can feel like a crashing wave."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "The gate has opened once again."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Admiral Igor",
+          "text": "Then it's time you made good on your word, Preacher."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The Preacher withdraws her gaze from the distance. Fingers hang over the idol at her chest as she turns."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sophia the Preacher",
+          "text": "The stage is set. Apostle Animus is ready to preside over the ritual."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sophia the Preacher",
+          "text": "But the mist has only just begun to rise, Admiral."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sophia the Preacher",
+          "text": "The Foundation's fleet is still threatening our coastline. I'd expected you to be busying yourself with wartime affairs."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Admiral Igor",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The admiral stands in the shadow, his eyes blazing."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Admiral Igor",
+          "text": "I am exactly where I must be. You know the reason."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Admiral Igor",
+          "text": "My men have fought from the tropics to the tundra in service of our pact. They have endured enough. It ends today."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sophia the Preacher",
+          "text": "That is a cost you should have anticipated when you entered the pact."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Admiral Igor",
+          "text": "Anticipation is not the same as endurance."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He remains still."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Admiral Igor",
+          "text": "Now the final piece has fallen into place, and we have done all THEY asked of us."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Admiral Igor",
+          "text": "It's time that you fulfilled your promise—the \"boon\" for my army."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The Preacher studies him, as if weighing his contribution. After a moment, she nods."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sophia the Preacher",
+          "text": "Very well."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sophia the Preacher",
+          "text": "As we agreed—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sophia the Preacher",
+          "text": "—An army for a \"boon.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Admiral Igor",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Admiral Igor",
+          "text": "Flamo   Flicker."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The moment her fingers touch the box's surface, arcane energy vanishes into void, leaving not a single mark behind."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Admiral Igor",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Admiral Igor",
+          "text": "If only we had claimed it sooner ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Admiral Igor",
+          "text": "If only we had held it in our hands in 1999 ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The Preacher shakes her head, then presses her hand against the box."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sophia the Preacher",
+          "text": "The fruit is not yet ripened, Admiral. To pluck it too soon is to bring ruin."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sophia the Preacher",
+          "text": "The \"boon\" will grant precisely what you asked, but not without a price. Take heed of my words: some doors are better left unopened."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She shifts her vision up to the admiral's chest, where his silver insignia glints under the cold sun. Awarded for surviving multiple \"Storms,\" it remains polished, like new."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sophia the Preacher",
+          "text": "I trust you laid down your past when you chose to stand with us."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Admiral Igor",
+          "text": "My path is set, Preacher."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sophia the Preacher",
+          "text": "Then do not stray, Admiral."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The admiral brushes her hand aside, tucking the \"boon\" into his coat. He leaves the frozen den without so much as a backward glance."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The communicator crackles to life."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Moldir",
+          "text": "Admiral."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Admiral Igor",
+          "text": "The pact is concluded."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Moldir",
+          "text": "Understood. What are your orders?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Admiral Igor",
+          "text": "Proceed to the next stage."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Moldir",
+          "text": "Yes, sir."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The one on the other end of the line breathes evenly."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Moldir",
+          "text": "But may I first request permission to attend to a personal matter?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Admiral Igor",
+          "text": "A personal matter?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He lets out a soft chuckle."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Admiral Igor",
+          "text": "*chuckle* Permission granted. Do as you see fit."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Moldir",
+          "text": "Thank you, Father."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The call ends."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The admiral looks down, rubbing his calloused palm—every bump and scab familiar."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "As familiar as each of his children."
+        },
+        {
+          "kind": "title_card",
+          "text": "Former Zeno Sentinel Unit Station"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Moldir takes a deep breath, the icy air forcing every fiber of her body awake."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Moldir",
+          "text": "Standby is lifted. We are clear to proceed. Sergeant White Gloves?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sergeant White Gloves",
+          "text": "Lieutenant! Did you just ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The sergeant watches his superior. The gleam in her eyes holds the same unyielding resolve that once belonged to her father."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Moldir",
+          "text": "You heard me. Eliminate the Manus spies. Prepare for immediate evacuation."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Moldir",
+          "text": "Comms, block all intercepting Manus signals and get Ptolemy on the line."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Moldir",
+          "text": "Where is Captain Danilov?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Aircraft Captain",
+          "text": "Here, Lieutenant. And I have good news."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Aircraft Captain",
+          "text": "Your arcane skill did the trick. The helicopter is now fully operational."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Moldir",
+          "text": "Very good, Captain."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Returning the captain's salute, Moldir marches through the snow toward the helicopter."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Moldir",
+          "text": "This is the path we have chosen. There will be no straying from it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Moldir",
+          "text": "Time to find out whether we're the \"idiots\" or the ones to leave victorious."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The black lava wall looms, its ancient terror undisguised."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The tunnel is as quiet as a tomb; even a dropping pin would send waves of echoes between the walls. The unwanted visitors lower their voices."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Timekeeper, Ms. Stranger and Ms. Radio have settled down in the suitcase."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Thank you, Sonetto. It's the safest place for them to stay now that we're getting deeper into the volcano."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She snaps the clasps shut and picks up the suitcase."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She forces herself forward, away from the terrifying gate at her back."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "The sanctuary is just ahead. Manus Vindictae should be holding the ritual there."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Should the worst happen, you know what to do."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Yes, Timekeeper."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Oh, and, I'd like you to have this."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The crumpled hand-drawn map bears deep red markings, old records now interlaced with fresh annotations."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "This map, soaked with Nautika's sweat and tears, has at last found the promised land."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "But in a way no one had ever hoped."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She takes the map without a word, her unspoken feelings driving her every step."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The oppressive silence makes every scattered brush of boot on stone unbearably loud."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Someone's pace quickens until a loose stone trips her."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Urgh!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Careful, Sonetto. Are you alright?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Are you ... shaking?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Don't mind me, Timekeeper. It must be the cold air."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She straightens her body, though her arm remains stiff and held at an unnatural angle."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Even the warming incantation is failing."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She pauses. A wavering hint of pain creeps into her voice."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Is this how Ms. Amundsen felt when she passed through the gate?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Sonetto ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "She was so brave. Braver than I could ever be. I wish I had the same courage to pursue what I want."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Sorry, Timekeeper. This isn't the time."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Let's move on. There's still much to be done."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "With a deep breath, Sonetto suppresses the shaking in her words."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "\"We must turn our eyes to the supreme mission alone.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Muttering to herself, she takes another step forward."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "The ritual must be stopped. Shall we go, Timekeeper?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Yes."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The sound of hurried footsteps rises again."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "This time, it's met with an echo from the far end of the tunnel."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Footsteps come to a sudden stop, the ring of metallic ornaments lingering in the air."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sophia the Preacher",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Ms. Sophia!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The air hangs stagnant in the dark space, yet the Preacher's shadow dances wildly over the stone walls."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Sonetto."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Sonetto exchanges a glance with her, then nods, arcane energy coalescing at the tip of her glasfeder."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The Preacher tightens her grip on the idol, and radiance surges forth from it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sophia the Preacher",
+          "text": "Διορθωθεί   το   σφάλμα!"
+        }
+      ]
+    },
+    {
+      "script_id": "101025",
+      "internal_title": "第十章10-18.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Now, Sonetto."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sophia the Preacher",
+          "text": "*coughing* What's ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A haze of pink and purple smoke billows out. When the dust settles, only a hat remains."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Run!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Sonetto springs into action, but another wave of dense mist rolls out from the tunnel, cutting her off."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "This mist ... It's not from the Misty Bubble Ball."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Odorless, thin, yet oppressive and omnipresent, like the fog over the lake trying to turn the Spinning Wheel."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Stay where you are!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Through the mist, Sonetto jerks to an abrupt halt."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "It looks just like the mist that hangs over the lake in the suitcase. You collapsed in it once, remember?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sophia the Preacher",
+          "text": "You cannot escape!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The black mucus surges forward again, chasing after those attempting to flee."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Regna   sereno   intenso   ed   infinito!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The arcane skill intercepts the creeping black. Sonetto steps in front of the Preacher, her glasfeder gripped tight."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "It seems this is the farthest I go."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Timekeeper, go on without me. I'll hold her off."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A final glance is exchanged before she disappears into the thickening mist."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "If you want to stop the Timekeeper, Ms. Sophia, you'll have to get past me first."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "You once said that you'd draw steel the next we meet. Well, now's your chance."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Make your move."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The glow of arcane skills collides and flickers out in midair, over and over."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Ms. Sophia ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "To this day, I struggle to understand why you chose to stand against us."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Why did you turn your back on everything? On everyone you loved and who loved you?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sophia the Preacher",
+          "text": "You've changed."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sophia the Preacher",
+          "text": "Grown too fond of your own voice and paid too little attention to what's happening around you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sophia the Preacher",
+          "text": "Are you sure this is where you want to be?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "What do you mean?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The Preacher fixes her gaze on the tunnel's far end."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sophia the Preacher",
+          "text": "As we speak, the Timekeeper is leaving your watch. Would the Foundation agree to this course of action?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sophia the Preacher",
+          "text": "Shouldn't you be keeping your eyes on her, rather than wasting your words on me?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "I trust the Timekeeper will fulfill her duty."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "As for me—I will clear the dust off the path."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Every attacking gleam is caught and devoured by the viscous liquid surrounding the Preacher. Yet Sonetto keeps scribbling with her glasfeder in midair."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "I have the same question for you, Ms. Sophia."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Is this where you want to be?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "I saw how you fought on the island. Your arcane skills aren't at all like the ones you used back then."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "You've changed, too. Something new has taken root and choked your old faith out from you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sophia the Preacher",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A single streak of light finally breaks through, severing crimson strands at the Preacher's temple."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "We must be close to the ritual site for you to show up."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Which means Dr. Dores is close by, doesn't it?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sophia the Preacher",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Sophia steps forward to meet those silent, resolute, unyielding eyes, as the surging black mucus solidifies into an impenetrable wall again."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sophia the Preacher",
+          "text": "Ms. Dores came to us led by nothing but her own purpose."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sophia the Preacher",
+          "text": "But what of you, Sonetto?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The Preacher raises a hand; the little idol sways gently against her chest."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sophia the Preacher",
+          "text": "What's your purpose in all this?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her grip tightens around her glasfeder. Just as she has done countless times before, she raises it into the air."
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

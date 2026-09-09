@@ -1,0 +1,438 @@
+{
+  "episode_id": 11220,
+  "chapter_id": 112,
+  "chapter_title": "远征记",
+  "display_label": "",
+  "title": "The Last Defense",
+  "subtitle": "They take to the saddle because this land raised them.",
+  "trails": [
+    {
+      "element_id": 1122001,
+      "owner_episode_id": 11220,
+      "trigger_episode_id": null,
+      "title": "After the Shots",
+      "description": "The chief of staff has never looked this troubled. She even forgot to remove her spurs when she entered the room.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=11220",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "The lapdogs are barking again."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Their masters remain quiet ... for the most part. And you know why."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "But silence gives no orders."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "So the masters whistle. Just a pitch. No words."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "And so, no words are heard—only the baying of dogs."
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "What do you mean, \"I know why\"?",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Perhaps you've forgotten the words echoed in that cave ... darling. Never mind."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Forgetfulness can be a mercy. Especially in this dog fight."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "If only these hounds would forget their training ... then perhaps, at last, the barking would stop."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "How dare you! To think I should speak like some slick-talking veteran!"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "I'd slit my throat myself if I so much as uttered a word akin to those devils!"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "They're bastards—abominations! Every last one of them! I—"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Ahem ... Please accept my apologies. Wounds are hard to heal when they are torn open time and time again."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "You sound like a soldier I know.",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "101229",
+      "internal_title": "第十二章12-20",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "The Last Defense"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Levchuk",
+          "text": "Good to hear your voice, Admiral!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ptolemy",
+          "text": "Is that Levchuk? You're still alive?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Levchuk",
+          "text": "This is urgent. Enemy forces are marching toward the southern bank. Their armored convoy has already reached Tamarovka!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Levchuk",
+          "text": "There are at least two armored divisions and one infantry division, plus three artillery regiments!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Igor",
+          "text": "Roger. Good work."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The man on the other end collapses to the floor with relief."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The gunfire in the background sharpens. Igor hopes it's just his mind playing tricks on him."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Igor",
+          "text": "Report your position, Staff Sergeant. A squad will be sent to your rescue immediately."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A long silence follows, then a soft laugh."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The gunfire grows closer, unmistakably so. Bullets seem to be tearing right past the receiver."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Igor",
+          "text": "Have you secured your retreat?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Levchuk",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Levchuk",
+          "text": "Commander, I—Staff Sergeant Yaroslav Levchuk—have successfully completed my task."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Ptolemy pushes his way to the speaker."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ptolemy",
+          "text": "What are you saying? Goddammit! Don't you die on me! I'm coming to bring you back right now!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Levchuk",
+          "text": "Stop causing trouble for the admiral, you hear, Ptolemy?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Artillery begins to drown out the staff sergeant's voice."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Levchuk",
+          "text": "It has been a true honor serving under you, sir. I have no regrets."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "*beep ... beep ... beep ...*"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "As the gunfire swells, the signal is cut off."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Along with the heavy breathing of their comrade."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Igor",
+          "text": "Reorganize the troops, Ptolemy. All units save the anti-air squads are to evacuate from Bereggrad."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ptolemy",
+          "text": "Evacuate Bereggrad? To where? The safehouse?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Igor",
+          "text": "No, to the Cavalry Corps's sich."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Igor",
+          "text": "We will make Krutov return everything he stole from us."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The Gryphons bring the worst news."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The commander swallows his grief and feeds the casualty list to the coals."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "In the solemn silence of the sich, he has already made his decision."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Commander Ivan",
+          "text": "Tamarovka is the keystone of Krutov's plan."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Commander Ivan",
+          "text": "If it falls, Bereggrad will face a formidable arcanist force with armored vehicles. If only we had cut off their supply lines ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Igor",
+          "text": "The Legion can launch a raid from inside Tamarovka. They won't see it coming."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sternova",
+          "text": "Even if your Gryphons could strike the enemy undetected ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The chief of staff paces the length of the sand table for the third time."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sternova",
+          "text": "They won't hold long if Krutov keeps getting supplies and reinforcements. We have to cut them off, but how?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ptolemy",
+          "text": "I saw plenty of soldiers standing out by their horses. Couldn't they—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sternova",
+          "text": "They're only kids!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Sternova slams her hands on the table, scattering the markers."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sternova",
+          "text": "All the grown men rode out in the first sortie."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sternova",
+          "text": "Most of them lied about their age, just trying to get a good meal. Their hands haven't even been toughened by the reins yet. They're boys! Not soldiers."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Commander Ivan",
+          "text": "Sabina."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The commander pats her back and ushers her out of the tent."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The boys stand in their oversized uniforms, rifle straps digging into their thin shoulders, shashka scabbards dragging against their soft legs."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "They stand quietly, their throats working under tight collars."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Their silence suppresses her anger."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sternova",
+          "text": "Do you understand what you're facing?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sternova",
+          "text": "In all likelihood, you'll die on the battlefield. You'll never see home again."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Teen Cavalryman I",
+          "text": "Don't take me for a kid, ma'am! I'm a Cossack, like my brother, sister, and my parents before me!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Teen Cavalryman II",
+          "text": "Ura! The blood of the Cossacks—of heroes—runs through me!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sternova",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Teen Cavalryman I",
+          "text": "We may be young, but our blood is strong. No Cossack fears the battlefield!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Teen Cavalryman I",
+          "text": "If it means losing a hand, a leg, or even our lives, we'll do anything, make any sacrifice, to protect our homeland!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Igor",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Those familiar words strike her deep."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Commander Ivan",
+          "text": "See, Igor?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Commander Ivan",
+          "text": "These soldiers will drive those masked lunatics from the steppe."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Commander Ivan",
+          "text": "Her future rests with the young. We old-timers have no right to shape this era."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The commander, eyes red, looks over these thin shadows."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Commander Ivan",
+          "text": "Tell me, great riders of the steppe, will victory be ours today?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Teen Cavalryman I",
+          "text": "Victory will be ours!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Teen Cavalryman II",
+          "text": "We'll drive these madmen from our home!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Unbroken voices rise like the flow of the Don in spring, crashing into every corner of the sich."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The commander looks back, meeting the heavy gaze of the rebel leader."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Commander Ivan",
+          "text": "Igor, this is our last chance."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "His hands are noticeably quivering."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "But no one blames him for it."
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

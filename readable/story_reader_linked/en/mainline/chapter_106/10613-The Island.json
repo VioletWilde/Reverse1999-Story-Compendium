@@ -1,0 +1,998 @@
+{
+  "episode_id": 10613,
+  "chapter_id": 106,
+  "chapter_title": "E lucevan le stelle",
+  "display_label": "",
+  "title": "The Island",
+  "subtitle": "\"That golden island is undoubtedly a sanctuary for the arts, a utopia where all arcanists can thrive.\"",
+  "trails": [
+    {
+      "element_id": 100613,
+      "owner_episode_id": 10613,
+      "trigger_episode_id": null,
+      "title": "Trail ① Viennese Coffee",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=10613",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Ah ... A lovely day to rest at an outdoor cafe, isn't it, darling? Everyone working here is a capable server and knows how to address you properly with \"my lady.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "I'm here for one simple thing: information. With a careful ear to the goings-on, a shrewd businesswoman can gather all the latest news."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Oh, there she comes, that girl in green with the bouncing feathers in her hat. Don't worry. She can't hear us from here."
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "I know her.",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Of course, you do. Isn't she our lively little cockatoo? She says she's a psychiatrist, but with all the work she does for the people, she's more like Vienna's own Robin Hood."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Look at those people around her, tut-tut. With their gold cufflinks and patched sleeves ... Very likely they're from Leopoldstadt."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "You can hear them saying, \"Our golden era is finally here! Forget all these melodramatic rumors!\""
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "Leopoldstadt?",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Maybe you know it by a different name? Perhaps you caught a glimpse of it under the list of exhibit sponsors?"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Europe, at that time, welcomed people from all over the world; its culture and art held as their highest ideals; its institutions believed they held the keys to paradise."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "They once believed that they were the lucky few. Blessed with the wisdom of a golden age, that's why they still linger here even after the smoke of war faded the glimmers of gold away."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "It's not surprising to see our lady with them. See, she loves to seek these well-hidden things, and chirp along with the most overlooked voices."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "But I feel sorry for her, because she herself overlooks some of these teeny-tiny things said at her own expense."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "What things?",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Words taken as jokes. Ignored because her wishes and anticipation outweigh their sting."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "But while songs are floating in the wind, the clock keeps ticking, people in the cafe talk about the secessionists and the newest plays in the same breath ... No one cares about the rumors trafficked in the newspapers. They're only concerned with what is in front of their eyes ..."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Still, the good doctor comes to share the pain of that melancholy lady, and then, next to the cafe, to encourage the lower class to persevere."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "She says that every man is entitled to the same rights. She'll draw a circle around them all, like the Ring Road or the round mirrors in her clinic."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "\"The good times will come again,\" so say the coffee sippers. But you know, in the end, they'll be like the undissolved sugar at the bottom of the cup."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "My dear, your coffee is getting cold."
+            }
+          ]
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100617",
+      "internal_title": "第六章6-13",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "The Island"
+        },
+        {
+          "kind": "title_card",
+          "text": "Guest Room, Island"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The low stone table is ill-suited for writing, but there is little other choice for the moment."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Thank you for your mediation within the committee. I think you're right."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Sending more people to the island will only exacerbate the trust issue. They don't trust us, and that's what Arcana wants."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Things have just got better, and we can't let anything else upset this delicate balance."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "I think ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The pen hesitates for a moment, but driven by need, it commits to the paper."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "If we somehow can't come to an agreement with the Apeiron, we should at least prevent them from allying with the Manus in turn."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The letter lingers dangerously on her fingertips."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Then, it flutters its wings, flying out of the room as a butterfly, heading at speed toward the headquarters of the St. Pavlov Foundation."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A timely knock breaks the tension in her."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Come in please."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The visitor lifts the curtain."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The rooms of the School of Apeiron rarely have doors."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Such curtains are merely a courtesy for guests from beyond the island."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marta",
+          "text": "Good morning, Ms. Vertin."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marta",
+          "text": "I'm here to see if you need help with anything."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "May I have some more paper?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marta",
+          "text": "Of course. We are always generous in our support of the contemplative."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Thank you, Ms. Marta."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Don't you want to ask me what I'm writing letters for?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marta",
+          "text": "Despite all the unpleasant events, the integrity of your soul number is unquestionable."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The school's envoy stands silently, her gaze not reflected beneath narrowed eyelids."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "The Foundation is negotiating with the outside world. They're trying to resolve this unfounded territorial dispute peacefully."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "We've yet to reveal the coordinates of the island, and don't want to exacerbate the conflict."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Could you convey our sincere intentions?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marta",
+          "text": "... Heh heh. You're such a young girl, yet you sound like an official."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She sighs resignedly."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marta",
+          "text": "But I'm just a practitioner without a number, a roamer of turbulent times. I haven't been on this island much longer than you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marta",
+          "text": "I will send your message, but I'm not the one who makes the decisions."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marta",
+          "text": "It's just, from what I know about the teachings of Apeiron, what you're striving for is not of their concern, Ms. Vertin."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "I don't understand."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marta",
+          "text": "All that is trivial in the phenomenal world is the trivialist of trivialities."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A wind blows in from beyond the void."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "In the direction of the sea breeze, one can see that the beach has been restored as if it were new, no longer bearing the scars of battle that had littered it only a short time ago."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marta",
+          "text": "If the \"Emanation\" arrives, everything will be washed away."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marta",
+          "text": "Wars, disputes."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Marta",
+          "text": "Their number one priority is ... how to find \"salvation,\" once and for all."
+        },
+        {
+          "kind": "title_card",
+          "text": "The Hall of Apeiron"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The debate has been ongoing for days."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The Hall of Truth occupied by the clamor of their crushing reality."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Believer I",
+          "text": "The fact is, we're going astray!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Believer I",
+          "text": "The \"Emanation\" in 1999 had taken away almost all our outside contacts."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Believer I",
+          "text": "Ever since the incident four years ago, we've been cut off from the outside world and have become an isolated island in the \"Emanation.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Believer I",
+          "text": "And during these four years, no research on the \"Emanation\" progressed. In the end, the theoretical study of its patterns was proven completely wrong."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Believer I",
+          "text": "How long should we sit idly by? Until the humans take over our island?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Believer I",
+          "text": "No matter who revealed our coordinates, be it the Foundation or Manus Vindictae, someone should be held responsible!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Believer II",
+          "text": "37 is the one in charge of studying the \"Emanation.\" Save your questions until after she wakes up. 6 is treating her now."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Believer II",
+          "text": "Also, talking about the decisions made four years ago is meaningless now."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Believer II",
+          "text": "What's more, the Foundation is not hostile. They helped us minimize the damage from the reveal."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Believer II",
+          "text": "Manus Vindictae has also given us constant material support since that difficult time four years ago."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Believer III",
+          "text": "Ha, 37? She's just a child, can't even handle her own business. Ever since she brought outsiders to the sacred place, everything has changed ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Believer IV",
+          "text": "You know you're judging a child in a coma? Even if 37 did something wrong, she's certainly paying for it!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Those gathered glare at each other from the edges of the room, seething with anger."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Far from their formal votes awaiting the casting of stones—the debate has yet to even produce a clear topic of debate."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The pursuit of truth of days past, now muddied by the dust and blood of the phenomenal world."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "210",
+          "text": "Don't get angry. What 42 is trying to say is simple."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "210",
+          "text": "\"Even if the 'Emanation' will take away the human army, when is it coming?\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "210",
+          "text": "\"Now that our model has failed, how can we be informed of the next 'Emanation,' and act accordingly?\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "210",
+          "text": "\"If pure theoretical research is doomed to failure, and if we must look outward, how can we restore communication with the outside world?\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "210",
+          "text": "\"Do we stand with the Foundation, or with Manus Vindictae?\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A clear voice of opposition rises from below."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Believer III",
+          "text": "210, your words are provocation!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Believer III",
+          "text": "Are you saying that we should stop being neutral and get involved in the endless faction disputes? This is against what Apeiron stands for!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Believer II",
+          "text": "I can't agree either. The truth is supposed to keep us off the wheel of birth, not on it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "210",
+          "text": "I was just interpreting what 42 had in mind."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "210",
+          "text": "Moreover, we're already caught in the wheel of birth—human weapons were undeniably dropped on our island before."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "210",
+          "text": "The tragedies it caused, and the thirst for justice will only keep us trapped in this cycle!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "210",
+          "text": "But what caused this cycle to begin with?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "210",
+          "text": "Brothers and sisters, you are blinded by the shrapnels of that conflict, and you're missing the \"essence.\" Listen to me and I will tell you—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Believer IV",
+          "text": "Cut to the chase, 210! It seems you're the one blinded by your own rhetorics!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Believer III",
+          "text": "Who can get me the stone clock on 6's seat? I'll clobber him myself!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The rhetorician taps his forehead mockingly, ignoring the dissatisfaction of his cohorts."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "210",
+          "text": "The original cause, is the failure of our research on \"Emanation.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "210",
+          "text": "Our excellence comes from our beliefs. Once the truth fails us, the foundation that sets us apart from the world will also fail us."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "210",
+          "text": "However, my people of great wisdom, forgive me for imagining a worst case for you ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "210",
+          "text": "We believe the book of nature was written in the language of mathematics, and every number is a transcendental existence living in the kingdom of eternity ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "210",
+          "text": "Math is the path to truth. The calculation of math patterns has led us to pursue the fundamental knowledge of the world: the origin of pneuma."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "210",
+          "text": "But, what if the supreme existence has no pattern at all? What if the ebb and tide of pneuma is chaotic and irrational?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "An uproar ensues."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Believer III",
+          "text": "210, are you denying our beliefs?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Believer III",
+          "text": "Are you saying the results we've achieved are just coincidences?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Believer III",
+          "text": "The fundamental theorems of ancient mathematics, the applications and improvements from modern mathematics, the mathematical laws in atomic clocks and leaf venation,"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Believer III",
+          "text": "and every prophecy of \"Emanation\" that were proven correct ... Were they all just a collective dream of ours?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "210",
+          "text": "Well, like I said, I was just imagining a worst case scenario."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "210",
+          "text": "Exhaustion is also a common method of proof."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Their further defense becomes untenable amid loud denunciations."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The calls rise one after another, bouncing against the stone walls of the hall and reaching the ears of listeners outside as an echoed cacophony."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sophia",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sophia",
+          "text": "Please help us, O Apeiron."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sophia",
+          "text": "Correct the errors of our souls, bring us back on the right path ... Harmonize our spirit with the flesh, our will with life; avoid sedition from a city; purge sickness from the body ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sophia",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Sophia wipes away her tears."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A flock of seagulls flies over the beach."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "They circle and dance in the air with an unusually delicate grace, more like butterflies than birds."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sophia",
+          "text": "They don't look like seagulls, or am I mistaken?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The Corrector moves forward."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Stepping into the crystal-clear sunlight ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Where the red wax seal of the St. Pavlov Foundation's express letter is clearly visible."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sophia",
+          "text": "Are these all from the outside world?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sophia",
+          "text": "What's happening out there?"
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    },
+    {
+      "script_id": "306402",
+      "internal_title": "【2.1】挖掘艺术角色故事02",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "From Abroad"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Diggers",
+          "text": "Ha-ha, I agree."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "If he knew what the future held, he would never have said those words."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Diggers",
+          "text": "Sticky, foul-smelling mask."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Diggers",
+          "text": "Painful imprisonment spell."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Diggers",
+          "text": "Endless attempts."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Manus Apostle",
+          "text": "Stop this foolishness. Your attempts are futile. No one escapes Manus Vindictae."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Manus Apostle",
+          "text": "All is set in motion the moment you don that mask."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Diggers",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Manus Apostle",
+          "text": "But there is some good news to share."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Diggers",
+          "text": "What?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Manus Apostle",
+          "text": "Don't worry. This time, it's really good news. Well, let's just say, not so bad."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Manus Apostle",
+          "text": "Our next mission is on a peaceful island. I've heard they don't even have police there."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Diggers doesn't seem to take the news as any relief."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Manus Apostle",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Manus Apostle",
+          "text": "Come now, isn't that good news?"
+        },
+        {
+          "kind": "title_card",
+          "text": "The Island"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Diggers",
+          "text": "Destroying peace—that's my mission."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The sunset's glow bathes in vast and open sea, its waves crashing in a steady rhythm, rising and falling."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He sits barefoot on the shoreline, reaching his hand into the gold-tinted waves."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Diggers",
+          "text": "So that I can catch the sunset in my hands."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The tide recedes."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Diggers",
+          "text": "But the golden water slips away so quickly, like the sands of time."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Diggers",
+          "text": "Like the height of the moon or a blooming flower, like a moment of joy or laughter."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Diggers",
+          "text": "Why am I here?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Now, art and poetry have both receded out, with tides moving far from him."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Diggers",
+          "text": "I should be in London, speaking out for the dead in Hue and Saigon. This world doesn't need more war!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Diggers",
+          "text": "\"War means tears shed by countless mothers.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Diggers",
+          "text": "\"Life is precious because it's short. Why do we waste it killing each other?\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Diggers",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The sounds of footsteps gently crunch across the sand."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A red-headed Corrector stares out toward the irrational number before her."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sophia",
+          "text": "What is going on here? You shouldn't be here."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Diggers",
+          "text": "Shh—quiet."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He watches the seagulls pacing the sand not far away."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Diggers",
+          "text": "They get startled easily."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sophia",
+          "text": "You didn't report your outing at all."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sophia",
+          "text": "Several integers were forced to search all night for a missing irrational number, that's unacceptable."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A brief silence."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Diggers",
+          "text": "Integers? Irrational numbers? Is that what you people call people?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Diggers",
+          "text": "If I were to give up a sunset over these waves for your numbers, that would be an uncountable loss."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The seagulls flap their wings and fly into the distance."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sophia",
+          "text": "But it's necessary. There needs to be an alignment to your overly chaotic soul."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Diggers",
+          "text": "I don't get it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "His incessant need to argue the point stirs up annoyance in the girl."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sophia",
+          "text": "You are an irrational number, a collection of disorder and chaos. You must accept the Truth to approach the realm of rational numbers."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Diggers",
+          "text": "Why should people be expressed as numbers, rational or not?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Diggers",
+          "text": "How come 1 is thought, 2 is opinion, 3 is wisdom, and 4 is strength?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Diggers",
+          "text": "Haven't you noticed? All your choices are confined within a tiny number."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Diggers",
+          "text": "No branching paths, no sights along the way."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sophia",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Diggers",
+          "text": "Miss Sophia, you can't explain everything with maths."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He points toward the horizon."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Diggers",
+          "text": "Look, the sun is almost gone now."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Diggers",
+          "text": "The calm night will bring reflection, and although twilight is brief, it brings eternal memories."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Diggers",
+          "text": "Then, the moon will rise and pull back the tides. The seagulls will return to their nests and sleep with their heads tucked under their wings. Everything will be still and quiet."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Diggers",
+          "text": "Where are the numbers in all of that? Where's the maths?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He closes his eyes."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The water laps at his skin."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Diggers",
+          "text": "A seashell just touched my toe. Do you have a number to describe that feeling?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sophia",
+          "text": "A seashell?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sophia",
+          "text": "That's not a seashell."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Diggers opens his eyes and looks down to his toes."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "After a few blinks, his unfocused eyes make out the object before him."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Diggers",
+          "text": "—?!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A black Browning pistol."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Diggers",
+          "text": "Oh no, Bad Civilization is here."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Diggers",
+          "text": "A gun, why is there a gun here?"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

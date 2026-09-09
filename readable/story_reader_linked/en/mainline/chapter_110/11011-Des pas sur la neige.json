@@ -1,0 +1,751 @@
+{
+  "episode_id": 11011,
+  "chapter_id": 110,
+  "chapter_title": "Paradise Regained",
+  "display_label": "",
+  "title": "Des pas sur la neige",
+  "subtitle": "It's always darkest before the dawn.",
+  "trails": [
+    {
+      "element_id": 1010111,
+      "owner_episode_id": 11011,
+      "trigger_episode_id": null,
+      "title": "Metaphor in the Fresco",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=11011",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Congratulations, you cleared the stage. Though I hardly thought it'd take you so long."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "The answer was right in front of you the whole time; just cover your eyes. Funny—you had to do the very thing the enemy wanted you to."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "That was your third lesson: Hands serve to control."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "As for the first and the second, well, you've already seen the digestive and excretory systems. Save us both the time and look over your logs if you're curious."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Back to the topic. You almost died in there thanks to the false intel from your eye scouts."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Luckily, brain command reacted quickly enough to prevent the worst from happening."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "You'd better set a second-in-command to avoid this kind of thing happening again."
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "I choose my heart.",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Hmm. The ever-beating strategic center, the hub that every drop of blood must pass through, the violently beating when agitated."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "The most reliable organ, besides the brain. Because it has to be."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "If only it didn't have a mind of its own. That'll surely lead to destruction, whether it beats fast or slow."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "The pass—the gate to the body, allowing thoughts to spill out and nutrition to enter."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "And the minister of foreign affairs."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "But don't let it take too much charge. Otherwise, disputes and disease will fester in it."
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "You should be a critic.",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "It wasn't my intention to talk like a Renaissance artist."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "But when you reflect on Michelangelo's painting on that grand ceiling, there's no choice but to do so."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "The key to creating life could be either the hall of wisdom or the land of birth ..."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "So, you should understand art a little better now."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "I believe my mouth can do it.",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "101014",
+      "internal_title": "第十章10-10",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "Des pas sur la neige"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "Umm, guys ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Exhausted, Nautika finally breaks the silence of their long trek."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The chief assistant waves her glasfeder, inscribing a tiny \"VI\" beside them."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "To its left are the five preceding numerals in solemn sequence."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Yes, Nautika, we noticed it too. This is the sixth time we've passed this stone wall."
+        },
+        {
+          "kind": "title_card",
+          "text": "Stone Labyrinth"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "It might even be more than the sixth time. We walked for 15 minutes before we realized we were going in circles."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "I'm afraid we have to face the fact that we're trapped in this labyrinth, Timekeeper."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "Just like in the legends."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "\"The Black Forest,\" \"The Demon of the Crossroads,\" \"The Twilight Loop\" ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "W-Wait, Ms. Amundsen ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "We need to think dialectically. Let's not jump straight to evil spirits."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "It could be the result of some kind of arcane skill."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "I had the same thought, but I don't sense any arcane fluctuations around here."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "That said, Ms. Radio and the sled dogs couldn't just vanish into thin air. There must be a hidden exit, or something else at play here."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Nautika stomps back and forth, soft snow rustling under her feet."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "Let me give it a try."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "I may not be an arcanist, but we human explorers have our ways."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She begins rummaging through a mountain of gear, searching for a vital tool."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The mechanical gears turn dutifully, just as they had half a century ago on this same frozen ground."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "My grandfather taught me how to tell the directions using a watch and the position of the sun. I have his watch right here. I took it with me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "Let me see. What was it again? Point the hour hand toward the sun, and bisect the angle between the hour hand and 12 o'clock to find the south."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "Wait, we're in the Southern Hemisphere, so it actually points north."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "Thankfully, we aren't in the polar night yet. We still have the sun in the sky."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her excitement soon falls into silence."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Nautika shakes her head and curls up, giving the appearance of a startled armadillo."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "Th-There's no sun."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "North, south, west, east. The sky is smothered under thick clouds in every direction."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Snow and mist scatter enough light to see. The now-red sun lies hidden away."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Manus Vindictae's ritual is affecting the day and night cycle."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Don't worry, Ms. Amundsen. There must be another way."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Timekeeper, I suggest we try to exit this area first."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Agreed. We can't afford to risk any more time in here."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "*panting*"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "We, ah ... We're back at the beginning again."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "I've been keeping an eye on the sled dogs' footprints. We've been following them all this time, yet we still seem to be going in circles."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "How did they disappear along with Ms. Radio?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "Is-Is this a trap? A trap that only lets dogs leave? I-I don't wanna be stuck here forever."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "The ruins are just behind the pass. They're so, so close. Is it really impossible to get there?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "But—but Máhtu told me that it's different this time. This is the closest I've ever been."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her voice shakes as she looks into the distance, brimming with expectation."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ear Worm Máhtu",
+          "text": "\"Across this land the Mother's light is sown. And through all things, Her spirit clearly shown.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "This is what I came for."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Faint barking drifts out from the labyrinth's end, distorted by distance."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "It ought to be less than a mile away but seems now to extend into an unimaginably vast space, distorted by the labyrinth's power."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "The sled dogs followed Dr. Dores's scent from the typewriter."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "That's right."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "And the direction of their barking is consistent. So, unless the labyrinth has been designed to carry sound in a particular direction, they must have made it through to the other side, where the ruins are."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Which means Dr. Dores must've made it through the labyrinth too."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Exactly."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Although we can't be sure whether she was guided here, let's assume that she was alone."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Then, despite the fact that she's blind, somehow she didn't get trapped by these stone walls."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "This Dr. Dores you're looking for—she's blind?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Nautika gasps in surprise, lifting her head from the snow."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Yes. She always covers her eyes with a patch or bandage."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A look of intense focus settles on Nautika's face."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "\"Through the Giant Mother's bones the path is laid. In bloody pain, eternal life is made.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "\"The blind seer walks, and we her path do take. For all will shift in the evernight's wake.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Are those proverbs from the legend of the Mother Spirit?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "Yes, they are."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Could this folk tale from your hometown actually derive from reality?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "Even in my hometown, many people think this proverb is an expression of the peoples' want for spring after the long polar night. But I've always thought that there is something else behind it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "You see ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "The blind Dr. Dores wasn't trapped, and the dogs who followed their noses also made it through the labyrinth."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "We looked around this labyrinth, we looked for landmarks and for clues, we even looked for the sun to guide us ... We looked. That's the difference between us and them. We've only been using our eyes."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Are you saying that ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "Maybe, if we close our eyes, the true direction will be revealed."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Thirty-seven",
+          "text": "Close your eyes, Vertin."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Thirty-seven",
+          "text": "Only when your eyes are closed will your mind open up."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Clear clues, simple deductions, familiar theories."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "It's worth a try. We don't have any other ideas at the moment."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "We trust you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Their ice-cold hands clasp together."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Are you ready to walk in darkness, ladies?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She closes her eyes."
+        }
+      ]
+    },
+    {
+      "script_id": "101038",
+      "internal_title": "第十章10-10.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Through the darkness, she follows old footprints along paths of melted-and-refrozen ice."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "The snow here feels different. It's harder than the last path we were on."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "I don't think we came this way when we were following the dogs' footprints, did we?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Basalt, stone walls ... A path that can't be found with open eyes."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "I see it now. The designer of the labyrinth used these stone walls to create an optical illusion. We missed this entrance over and over again."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "Right! Even if the dogs hit into a wall, they could still follow the scent."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "Of course. The Mother Spirit is always right."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "I think I see her."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "What do you see, Vertin?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "No. No. It's gone."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Take my hand, Timekeeper."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Darkness floods her vision, but the edge of the gloom still reveals a scattering of faint light."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Through this flickering, directionless world, a golden melody pierces the silence."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Ms. Urd ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "What is the answer that you're searching for?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Footsteps? Timekeeper, Ms. Sonetto, Ms. Amundsen? Is that you?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A familiar voice calls out."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Oh, thank goodness you're here! You have no idea how many times these reckless dogs almost flung me off their backs."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "Ms. Radio!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "Ms. Radio! Great!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "We did it. We made it out of the labyrinth."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Snow and wind blur her sight."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Sonetto",
+          "text": "Er, where are we?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The wilderness lies silent."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The cries of ancient creatures, streams bordered by tropical jungles, and the life they held—all that once flourished and has since vanished in this barren land."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Life's meaning emerges at the confluence of cosmic dust and time. When it comes to its silence and sounds, its texture and shape, it just follows the flow without compromise or resistance."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Across the firmament, the rhythm has been struck."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her initial excitement dulls into a daze. She stands frozen, unable to look away."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "Grandpa ... Friele ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She clenches her trembling fingers, tilting her head up to hide tears mixed between joy and fear."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "I-I made it. I found it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nautika",
+          "text": "I-It's real. The Mother Spirit does slumber far to the south. The legends are true, and ... and I found it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Its ancient architecture whispers out forgotten histories."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The air hangs so heavy that Nautika's sobs seem to sink straight into the earth."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "We should keep moving."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vertin",
+          "text": "I have a feeling that all our questions will be answered once we pass through that gate."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The unsetting sun's cold light bounces between the walls until the heavy doors swallow the last glimmer."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A colossus frozen in the sky that gazes down upon all visitors."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Its silence an acknowledgment that they have passed the first trial."
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

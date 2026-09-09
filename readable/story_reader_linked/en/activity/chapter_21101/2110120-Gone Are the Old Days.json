@@ -1,0 +1,547 @@
+{
+  "episode_id": 2110120,
+  "chapter_id": 21101,
+  "chapter_title": "Route 77: The Haunted Highway",
+  "display_label": "",
+  "title": "Gone Are the Old Days",
+  "subtitle": "Poor child, thinking a pitiful cry would lead to a warm embrace.",
+  "trails": [
+    {
+      "element_id": 2110110,
+      "owner_episode_id": 2110120,
+      "trigger_episode_id": null,
+      "title": "Tuesday's Motel Incident Investigation Report (Excerpt)",
+      "description": "Now that Foundation staff have taken over here, it's time for the routine cleanup procedure you excel in—and hate.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=2110120",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "Tuesday's Motel Incident Investigation Report (Excerpt)"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Subject of Supervision: An unknown arcanum entity, at the current stage identified as a living consciousness. Commonly referred to as \"Tuesday's Motel\" (hereafter referred to as the \"motel\").\n\nLevel of Self-Awareness: Medium to low, lacking gender, age, or other cognitive attributes, but capable of responding to certain human linguistic cues.\n\nArcane Skills: Abilities include but not limited to influencing cognition, creating illusions, generating enclosed spaces, and creating aggressive arcanum entities.\n\n...\n\nTests indicate that the subject responds to Tuesday's voice and actions approximately 60.15% of the time, and can follow certain simple commands such as \"defend,\" \"allow,\" and \"forbid.\" It is less responsive to researchers and exhibits a certain level of aggression. Tuesday denies manipulating or training the \"motel,\" claiming that their relationship is one of \"nurture\" or \"partnership.\"\n\nAccording to Tuesday, the subject was discovered in the Texas countryside, dyanmic in its form and size, currently mimicking the motels along Route 77. The subject's size correlates with the amount of fear it absorbs.\n\nThe subject can create tangible arcanum entities that implant illusions in affected individuals and cause real damage. Witness records show that these entities can exhibit characteristics associated with popular North American myths and legends, including but not limited to Bloody Mary, the Mothman, and poltergeists.\n\n...\n\nHandling Recommendations: Given Tuesday's influence over the subject, it is recommended that the \"motel\" is kept under Tuesday's stewardship, but Tuesday must be monitored at all times. Alternatively, consider transferring them to Team Timekeeper."
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 2110201,
+      "owner_episode_id": 2110120,
+      "trigger_episode_id": null,
+      "title": "True Story",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=2110120 and ChapterMapElement=2110110",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "Trucker",
+          "text": "Hey, is this some kinda interview? Are you journalists?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Trucker",
+          "text": "Headin' all the way out here from the city, tryin' to dig up some dirt from the badlands ... You wanna hear those stories?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Trucker",
+          "text": "Hey, girlie, listen up ... some of those rumors are true."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Trucker",
+          "text": "You ever heard about that old town where everyone had a nervous breakdown, scared outta their wits by birds, shadows, and God knows what?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Trucker",
+          "text": "And about those drivers who stayed at that motel, running for their lives at the crack of dawn, pedal to the metal?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Trucker",
+          "text": "They're my friends, my clients, my favorite bar owner ... How could I not believe them?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Trucker",
+          "text": "We did what we could to spread the word—we wanted to get this thing covered in a small article in the Southern Voices."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Trucker",
+          "text": "That's exactly how these stories get around, see?"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 2110202,
+      "owner_episode_id": 2110120,
+      "trigger_episode_id": null,
+      "title": "Party Time",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=2110120 and ChapterMapElement=2110204",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "Ranch Owner",
+          "text": "Raise your glasses, friends! To an old-fashioned, genuine Texas hoedown!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ranch Owner",
+          "text": "It ain't the fancy newfangled kind, just real barbecued lamb and beer with friends old and new."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ranch Owner",
+          "text": "So, folks, any news lately? Lemme tell ya, I heard a story ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ranch Owner",
+          "text": "Wait, why the sudden silence? What's with those faces?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ranch Owner",
+          "text": "I heard it straight from Big Matty, who heard it from Officer Harold while he was fixin' up his car."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ranch Owner",
+          "text": "And he swore on his dear mama's grave that this time, it ain't no tall tale but the real deal, scout's honor."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ranch Owner",
+          "text": "Those folks that went missing on Route 77 might've fallen prey to the Tripodero!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ranch Owner",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ranch Owner",
+          "text": "Oh? So you're just here for the barbecue, huh? You ain't interested in the real-life tales from the badlands?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ranch Owner",
+          "text": "How about we move on to the next part—some real classy Texan music? Who's down for a little singalong?"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 2110203,
+      "owner_episode_id": 2110120,
+      "trigger_episode_id": null,
+      "title": "A Subtle Clue",
+      "description": "A color-printed flyer annotated with what seems to be explanations behind several urban legends.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=2110120 and ChapterMapElement=2110205",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "Alligator Ranch Extravaganza"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Get ready for the adventure of a lifetime! Hundreds of sharp-toothed stars with mouths open wide are eager to meet you, as Texas's behemoths converge right here!\n\nAlligator Kingdom Parade: A grand spectacle like you've never seen before! One hundred alligators are here to welcome you into their wild world!\n\nAlligator Feeding Frenzy: This is a challenge that's not for the faint of heart, where your fingertips brush against giant, hungry jaws! Don't worry though! Our safety measures are flawless, ensuring a perfect blend of excitement and safety, seriously.\n\nGiant Exhibit: \"Everything's bigger in Texas!\" It's true, folks—come see for yourself! See the state's largest cowboy hat, boots, waterwheel, and a whole load of other colossal wonders you've never even dreamed of!\n\nCritter Corner: Come meet the latest little stars down on our ranch, captured by Texas's bravest hunters. From those invisible little pests making mischief on your fields to the true cryptid legends of the badlands, come and see them today, now here before your eyes!\n\n Delay no more—come join the extravaganza today!\n\nScrawled Note: Damn, those creatures have escaped! Get an alligator hunter or critter expert on this, pronto!"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 2110204,
+      "owner_episode_id": 2110120,
+      "trigger_episode_id": null,
+      "title": "UFO Hunter",
+      "description": "The resolute cowboy, met by a stroke of sheer luck, generously offered up this gift, complete with the author's priceless autograph.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=2110120 and ChapterMapElement=2110210",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "How to Hunt UFOs"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Author: Buck Stahlton, Renowned Texas Alien Hunter\n\nAuthor's Note: From Cowboy to UFO Hunter\n\nChapter 1: The Origins of Aliens and UFOs\n\nChapter 2: UFO Hotspots in Texas\n\nCase Study 1: The Mystery of the Highway Disappearances\n\nCase Study 2: The Hitchhiker's True Story\n\nCase Study 3: Buck's BBQ Bash and the UFO Encounter\n\nChapter 3: Gearing Up\n\nEssential Gear and Equipment: Cowboy Hat, Lasso, and Radar\n\nForming Your UFO Hunting Crew: From Ranch Hands to Earth Defenders\n\nSafety and Emergency Measures: How to Avoid Being \"Taken\"\n\n...\n\nChapter 9: Dealing with Alien Encounters\n\nWays to Communicate with Aliens: Hand Signals, Morse Code, and Texas Whistles\n\nStaying Calm and Documenting Interactions: Don't Forget Your Cowboy Hat\n\nPossible Alien Agendas: Are They Here for the Cows?"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 2110205,
+      "owner_episode_id": 2110120,
+      "trigger_episode_id": null,
+      "title": "A Thrilling Adventure",
+      "description": "Half a flyer lies on the road. The creases, tire tracks, and coffee stains it bears tell of a thrilling tale.\nPerhaps its previous owner experienced the very same mishap.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=2110120 and ChapterMapElement=2110209",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "A Thrilling Adventure"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Attention all true explorers! Get in your car, grab your map, and gather your courage to join us on a mysterious adventure tour!\n\nItinerary:\n\nOld Valley (Ghost Cowboy Haunt)\n\nHadley Oil Field (Mysterious Glowing Creatures)\n\n\"Big Henry\" Oak (Site of \"The Hook\" Killings)\n\nRoute 77 (In Search of the Mysterious Motel)\n\nGhosts? Critters? Arcanists? Together, we'll uncover the truth.\n\nMeet us at the town hall entrance on Friday at 5 PM ...\n\n(Flyer printed on a home printer. The rest of the text is illegible.)"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 2110207,
+      "owner_episode_id": 2110120,
+      "trigger_episode_id": null,
+      "title": "Critters' Book Club",
+      "description": "The little creatures gather, earnestly and meticulously digesting mouthfuls of dust and knowledge.\nUnfortunately, the folklore tome you have been looking for is among them.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=2110120 and ChapterMapElement=2110203",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 2110208,
+      "owner_episode_id": 2110120,
+      "trigger_episode_id": null,
+      "title": "Hitchhikers",
+      "description": "Wait, stick out your hand, and get in—hitchhiking is so simple that even the critters roving beside Route 77 have caught on.\nUnfortunately, these critters have not yet learned the art of gracefully accepting rejection.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=2110120 and ChapterMapElement=2110202",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 2110209,
+      "owner_episode_id": 2110120,
+      "trigger_episode_id": null,
+      "title": "Legends to Be",
+      "description": "A car rumbles down the dusty stretch, carrying two fledgling \"entrepreneurs\" who dream of recreating the legend of Route 77—a legend forged with bullets and burning rubber.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=2110120 and ChapterMapElement=2110201 and Act165CdFinish = 2110209",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 2110210,
+      "owner_episode_id": 2110120,
+      "trigger_episode_id": null,
+      "title": "Unexpected Enemies",
+      "description": "Yet another encounter with the followers of the Order of Enlightenment—this time a group of their lowest members.\nClearly, this will not end well for them.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=2110120 and ChapterMapElement=2110207 and Act165CdFinish = 2110210",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "202130",
+      "internal_title": "【2.1】77号往事-20",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "Kayla",
+          "text": "Oh dear. It seems a lot transpired while I was away."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Kayla",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "After a moment's thought, she dials a number on her phone. A few rings later, the call is answered."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Kimberly",
+          "text": "Ms. Grace, I thought you'd forgotten me!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Kimberly",
+          "text": "I've been exposed!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "As expected, the voice on the other end is restless."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Grace",
+          "text": "Kimberly, care to tell me what happened in this motel? There's blood and brains splattered in the hallway. Who died and how?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Kimberly",
+          "text": "It was that Zeno madman! He shot himself in the head!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Kimberly",
+          "text": "But I still haven't managed to destroy the ritual sigils under his bed. And I couldn't find the ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Grace",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She sighs."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Grace",
+          "text": "Now that our base of operations has been exposed, we'll have to take away everything related to the \"ritual\" and leave."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Grace",
+          "text": "The Foundation's rats will thoroughly search this place soon."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Kimberly",
+          "text": "Ugh, the last thing I need right now is to deal with them!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "There's a brief and unusual silence on the other end of the line."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Kimberly",
+          "text": "And, uh, could you tell me more about this Vertin?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "There's a hint of anxiety in her voice."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Kimberly",
+          "text": "I might've had a slip of the tongue when she confronted me earlier. How good is her memory?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Grace",
+          "text": "Fret not, Kimberly. People rarely pay attention to things that don't directly involve them."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She smiles faintly."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ms. Grace",
+          "text": "But I do look forward to seeing her again."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Several days later."
+        },
+        {
+          "kind": "title_card",
+          "text": "Office, St. Pavlov Foundation"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Foundation Staff II",
+          "text": "We're just here to have a conversation, Ms. Tuesday. Relax."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tuesday",
+          "text": "I found it in the wilderness."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Foundation Staff II",
+          "text": "You mean, the \"motel\" with arcane powers?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Foundation Staff II",
+          "text": "Just to confirm, the base form of this arcane consciousness is a heart-shaped \"fetus,\" correct?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tuesday",
+          "text": "Yes."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Foundation Staff II",
+          "text": "It's about as intelligent as a one-year-old human, and it lacks the ability to deliberately plan or cause the incidents in the motel. Meanwhile, it sees you as its mother, displaying remarkable trust and dependence on you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Foundation Staff II",
+          "text": "Therefore, we believe you were a major contributor to these incidents, or rather, the one who pulled the strings."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Foundation Staff II",
+          "text": "You may not have acted with evil intent, but your actions have caused many residents in Chisos to suffer mental breakdowns."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Foundation Staff II",
+          "text": "They were seeking some form of relief from their mental anguish, which provided the perfect opportunity for the Manus to entrench themselves so deeply in this town."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Foundation Staff II",
+          "text": "Isn't that so, Ms. Tuesday?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tuesday",
+          "text": "Well, I've never been to that town. And even if it is as you say ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tuesday",
+          "text": "They made their choices, didn't they?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Foundation Staff II",
+          "text": "I see."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She scribbles down the information on her clipboard."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Foundation Staff II",
+          "text": "The Timekeeper just reported another crucial piece of information to the Foundation."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Foundation Staff II",
+          "text": "Were there any activities going on in the motel undertaken by the self-proclaimed followers of the Order of Enlightenment?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tuesday",
+          "text": "Oh, there indeed were. They left not long ago. I still remember their faces."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Foundation Staff II",
+          "text": "What did they do at the motel?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tuesday",
+          "text": "They scribbled on the floor and made strange noises. Oh, I remember now."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tuesday",
+          "text": "Whatever it was they were trying to do, it was a total failure. One poor girl became trapped inside their mirror."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tuesday",
+          "text": "She never stopped trying to escape. The mirror would make banging noises all night long, haha."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Foundation Staff II",
+          "text": "We didn't find anyone trapped in a mirror during our search."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tuesday",
+          "text": "Well, that's sad, I suppose."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her expression remains calm as always."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Foundation Staff II",
+          "text": "If you knew they were from a dangerous arcanist organization, why didn't you report them to the Foundation?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tuesday",
+          "text": "Ah."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tuesday",
+          "text": "Why would I?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She licks her lips."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tuesday",
+          "text": "Fear doesn't frighten me. No, quite the contrary ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tuesday",
+          "text": "It excites me. I would embrace fear any day of the week."
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

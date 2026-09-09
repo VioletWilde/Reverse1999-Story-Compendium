@@ -1,0 +1,1171 @@
+{
+  "episode_id": 1810119,
+  "chapter_id": 18101,
+  "chapter_title": "Farewell, Rayashki",
+  "display_label": "",
+  "title": "To Descedants",
+  "subtitle": "What we leave behind, and what you will remember.",
+  "trails": [
+    {
+      "element_id": 1811911,
+      "owner_episode_id": 1810119,
+      "trigger_episode_id": null,
+      "title": "Damp Paperslip",
+      "description": "The writer must have been in a rush, leaving it to share space with crates and the cold wind.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=1810119",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "Lost Export Plan Found at Port"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Raw Coal:\n\nCommonly used as a fuel for combustion. Suitable for heating and power generation. High priority for direct export (but can cause resource waste and air pollution).\n\nCoal Gasification:\n\nCan be converted into clean fuel gas for synthesis (related technology and facilities are expensive – consider collaborative production methods).\n\nCoal Ash:\n\nProduced from boiler combustion. Can be recycled for use in road construction. No need for export.\n\nCoking Coal:\n\nImportant material for iron smelting (perhaps the ironworks could be rebuilt?).\n\nIn addition: It is reported that there is technology to produce refined coal after it is washed, and there is a high demand for refined coal in the south. Should be prioritized.\n\nWhat is the source of this report? Who could have predicted that we would uncover a coal mine, or that we had been to the south?\n\n—Comrade Evgeni listed more than a dozen common uses and export directions for energy in his letter, and we found one that we could use."
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1811912,
+      "owner_episode_id": 1810119,
+      "trigger_episode_id": null,
+      "title": "Narrow Path",
+      "description": "The mine is too narrow to fit everyone. One side will have to give way.",
+      "action": "",
+      "unlock_condition": "ChapterMapElement=1811911",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1811913,
+      "owner_episode_id": 1810119,
+      "trigger_episode_id": null,
+      "title": "Essential Reading",
+      "description": "Plays a critical role in ensuring personal safety.",
+      "action": "",
+      "unlock_condition": "ChapterMapElement=1811912",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "Miners' Code and Appendix"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Part One: Standard Training\n\n1. Must complete safety knowledge training and pass a test before working.\n\n2. Must be familiar with the site survey and operating procedures for the appropriate type of work.\n\n....\n\n9. Anyone under the age of 16 or over the age of 60 is absolutely prohibited from entering the mine.\n\nPart Two: Practical Operations\n\n1. Arrive at the site on time for shift changes.\n\n2. Check the safety of the site, the quantity and quality of materials, and remove any obstructions that may impede operations.\n\n....\n\n9. Prepare a written record of the mine's safety conditions prior to shift changes, and regularly update and review this record.\n\nPart Three: Safety Instructions\n\n1. Must start engines according to standard procedures and perform reverse checks to ensure equipment reliability.\n\n2. If abnormalities occur while operating winches, locomotives, or pickup vehicles, stop and investigate immediately.\n\n3. Bring all necessary tools with you before entering the mine. Sharp tools must be carried in protective covers.\n\n...\n\n19. Fill out the logbook carefully and check it regularly.\n\nAppendix - Index of Self-Manufacturable Components at the Factory\n\n...\n\n17. Cross Slides (process temporarily missing)\n\nComrade Evgeni extracted the method from the book. We have enough raw materials, approved for production. —I. I. Novikov\n\nIt's hard to make, but let's try anyway. —Bo. F. Braginskaya"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1811914,
+      "owner_episode_id": 1810119,
+      "trigger_episode_id": null,
+      "title": "Production Factory",
+      "description": "The safety of miners is paramount and precautions must be taken. This includes prioritizing the production of sturdy, reinforced structural components.",
+      "action": "",
+      "unlock_condition": "ChapterMapElement=1811913",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1811915,
+      "owner_episode_id": 1810119,
+      "trigger_episode_id": null,
+      "title": "Hey, Tomorrow!",
+      "description": "Hey, Tomorrow!",
+      "action": "",
+      "unlock_condition": "ChapterMapElement=1811914",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "Illia",
+          "text": "Kiril, it's time to get back to work! Please remind Bogina to come down from the forklift and stop playing Sudoku. We have to deliver the wood for reinforcing the mine roof by tonight."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Illia",
+          "text": "Oh, Knut! What brings you here? It's not yet time for the shift change."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Knut",
+          "text": "I'm not here for the shift change. I'm actually just dropping off some parts and a toolbox we found. Take a look, it's fully stocked."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Knut",
+          "text": "I couldn't help but notice Comrade Kiril standing off to the side, spinning in circles. It almost made me dizzy when I first arrived."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Illia",
+          "text": "He's been acting like this since the lunch break started, while Bogina is engrossed in her usual game. I wonder what's going on with Kiril ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Kiril",
+          "text": "Illia, you haven't had the chance to read Comrade Evgeni's letter, so you don't know."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Knut",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Kiril",
+          "text": "Looking at the stains on my hands from the coal dust, I can't help but think of his letter again. I find myself pacing back and forth, imagining how my comrades will lay me to rest when my time comes. It would be a great honor, but also ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Kiril",
+          "text": "I can't help but feel that Comrade Evgeni deserved a different fate than this."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Kiril",
+          "text": "He did not deserve to end his journey in this place."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Illia",
+          "text": "Kiril ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Comrade Knut was the first to find the letter. Later we all took turns touching it, like passing around a flag, remember?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "You shouldn't talk like that to Illia, and you shouldn't think like that about comrade Evgeni."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Kiril",
+          "text": "But you said the same thing earlier, Bogina."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Bogina",
+          "text": "Yes, I said that. But I also said—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Bogina",
+          "text": "\"Comrade Evgeni ended his journey here, but we must go on.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Bogina",
+          "text": "With only one square left to fill in the Sudoku, it's clear that this is the only way to go."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Bogina",
+          "text": "\"Keep moving forward, to a better tomorrow.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Illia",
+          "text": "This is not the end of our journey, Comrade Kiril."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Knut",
+          "text": "Right ... I may not be good with words, but I wholeheartedly agree with comrade Bogina."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Knut",
+          "text": "This must have been Comrade Evgeni's true wish."
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1811921,
+      "owner_episode_id": 1810119,
+      "trigger_episode_id": null,
+      "title": "Snow",
+      "description": "Tiny salt crystals scattered across the ground, faithful companions that can fix any problem.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=1810119",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "Snow and Other Possibilities"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "To the town, she is a familiar figure. But to herself, everything is so drastically different.\n\nShe's used to walking in the snow. The poplar fluff floating through Moscow's streets reminds her of Rayashki; it's like snow, but it doesn't make her cheeks turn red or her hands and feet cold; it doesn't melt on the skin, nor can it hide anything. Canned goods, even sausages and fresh meat, are available in stores, and one doesn't have to count the days just to exchange for everyday items ... The first time she made soup in her new home, it felt surreal. Another vivid memory was when she got off the train, holding her child's hand in fear. Outside the small town, in Moscow, there were so many people, all seemingly full of hope. \n\nBut she boarded the train back to Rayashki anyway.\n\nRayashki had changed, too. There were faces in the town she didn't recognize, and the statue in the center of the square had changed. The school was still the same, and the children played games in the small playground. The townspeople's greetings were a bit awkward; no one mentioned her hasty departure as if it was not important, as if anyone could leave at any time and also return whenever they wanted.\n\nSnow fell on her hair and collar, turning her fingers and nose red—this was real snow."
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1811922,
+      "owner_episode_id": 1810119,
+      "trigger_episode_id": null,
+      "title": "The Path Ahead",
+      "description": "The Path Ahead",
+      "action": "",
+      "unlock_condition": "ChapterMapElement=1811921",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "Vila",
+          "text": "It's good to see you again, Comrade Ulyana. I heard that you have returned."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vila",
+          "text": "Did you get a chance to go to see the children? They've been going on about you for so long."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ulyana",
+          "text": "It's been a while since I've been back to this town. How are the little ones doing? With you watching over them, I'm sure they're doing fine. You've always been such a caring teacher."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vila",
+          "text": "But there is only so much that one person can do. It would be great to have another comrade to lend a hand."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vila",
+          "text": "So, will you stay this time, Comrade Ulyana?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ulyana",
+          "text": "Right. I wanted to talk to you about that ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vila",
+          "text": "We can take our time to talk, no need to rush. By the way, did little Vasya come with you?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vila",
+          "text": "Now that our supplies are fully stocked, we can take the children to the square tomorrow for some sketching ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ulyana",
+          "text": "It's just me this time, Comrade Vila."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ulyana",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ulyana",
+          "text": "Back in Moscow, my thoughts kept returning to Rayashki. Those who have chosen to stay here are incredibly determined and tenacious. They are genuinely sincere and kind, but they are very stubborn in their beliefs. Does that make any sense?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ulyana",
+          "text": "In Moscow, you don't have to worry about cold temperatures or lack of resources. If children need pencils, they can simply go to the nearest store and buy them."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vila",
+          "text": "That sounds like a dream come true! We're doing everything we can to make Rayashki just that."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ulyana",
+          "text": "It was really beautiful, but when I sat next to Vasya's bed, when he was fighting his asthma, with the poplar fuzz in the air ... And then children's gravestones and coffins, so tiny and fragile, almost like toys ... I could hardly believe they were real."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ulyana",
+          "text": "I clung to the hope that life would get better in Moscow. I believed that if I just endured and persevered a little longer, things would turn around."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ulyana",
+          "text": "But that was not the way it turned out."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vila",
+          "text": "My sincerest condolences, Comrade Ulyana."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ulyana",
+          "text": "It's alright, I brought it up myself. When I was in the house in Moscow, I couldn't stop crying. But eventually I realized that I had to pull myself together and do something."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ulyana",
+          "text": "Is it still possible for me to reunite with everyone? Looking back, I regret leaving in such a selfish manner."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vila",
+          "text": "The future is unknown and unpredictable. All we can do is take one step at a time on the path that lies ahead of us."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vila",
+          "text": "You will always have the ability to move forward on this path, with all of us."
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1811923,
+      "owner_episode_id": 1810119,
+      "trigger_episode_id": null,
+      "title": "Welcome Home!",
+      "description": "Welcome Home!",
+      "action": "",
+      "unlock_condition": "ChapterMapElement=1811922",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "Vila",
+          "text": "Don't all crowd around us at once, kids. Give us some space so that Miss Ulyana, your teacher, can greet you, okay?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nina",
+          "text": "Hooray! We're super happy you're teaching again, Miss Ulyana! Tee-hee!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pasono",
+          "text": "Miss Ulyana! There are soo many new things in town that I can't wait to show you!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyotr",
+          "text": "Me too! I know this town like the back of my hand, and I've got a sneaky shortcut to the mine to show you!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ulyana",
+          "text": "Of course, my little bears, my patient little comrades."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Avgust",
+          "text": "Here. I received this as a gift from the square, and I want to share it with you. Vila always tells us to share with others."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ulyana",
+          "text": "What a beautiful sunflower. Thank you, Avgust. Say, you seem much happier now."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Avgust",
+          "text": "I notice that my mom and everyone else around me are smiling, so I can't help but smile too."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Avgust",
+          "text": "You're smiling too, Ulyana."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ulyana",
+          "text": "Haha, yes. I, I really missed you all."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vila",
+          "text": "Aw, don't rub your eyes with your hands, kids. Here's some handkerchiefs for you ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vila",
+          "text": "It took you kids a long time to come up with that welcome. Don't forget to actually say it to Miss Ulyana."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "The Kids",
+          "text": "—Welcome home, Miss Ulyana!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ulyana",
+          "text": "...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vila",
+          "text": "The welcome and the celebration, all arranged on the same day ... Rayashki is slowly gaining momentum again, but there's still so much to do. I hope you don't mind."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Ulyana",
+          "text": "No, not at all. How can I be of help? Just let me know."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vila",
+          "text": "Would you mind taking care of the children for a while? I have to go check on the port soon, and some friends from the Foundation are coming over for their regular lectures. Please make sure they are held to the same standards as our agreement. And finally ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vila",
+          "text": "Welcome home, Comrade Ulyana!"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1811924,
+      "owner_episode_id": 1810119,
+      "trigger_episode_id": null,
+      "title": "Laborer's Canteen",
+      "description": "The bigger the occasion, the more preparation is needed. Our comrades deserve this well-orchestrated celebration.",
+      "action": "",
+      "unlock_condition": "ChapterMapElement=1811923",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1811931,
+      "owner_episode_id": 1810119,
+      "trigger_episode_id": null,
+      "title": "Toward the Distance",
+      "description": "Toward the Distance",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=1810119",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "Nina",
+          "text": "I've finished folding it, Comrade Pyotr. It's time to make our paper planes fly. Can you move a little? Just a bit!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyotr",
+          "text": "Alright! Let's see whose plane can fly the farthest!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nina",
+          "text": "Three, two, one!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Avgust",
+          "text": "The swallow dives into the snow pile. Pyotr wins."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nina",
+          "text": "He hasn't flown his yet, Comrade Avgust, maybe ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nina",
+          "text": "Hey, Pasono, are you not going to play with us?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pasono",
+          "text": "... I've been thinking about what Miss Vila said."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyotr",
+          "text": "Are you scared? Don't you want to go out and see? After all, our parents agreed, and adults always know better than we do."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pasono",
+          "text": "I'm not scared! But... Miss Vila said she will not go with us, neither will Miss Ulyana."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Avgust",
+          "text": "Vila has a lot to do. After the slow turtles left, many new friends came to town. Vila wants to talk to them."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nina",
+          "text": "I don't think we need to worry so much. The teachers have allowed these friends of the Foundation to attend our classes, play with us, and take notes ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nina",
+          "text": "They don't seem like bad people. If they were bad, Miss Vila would shoo them away."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyotr",
+          "text": "That's right, Pasono! Even Avgust isn't as anxious as you are!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Avgust",
+          "text": "I'm not nervous, I just want to learn how to transform things. Like turning a sunflower into a towering soldier or a bear with round ears ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Avgust",
+          "text": "We could turn snowmen into us to keep Vila company. Mom always said that when we miss her, we should build a snowman."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Avgust",
+          "text": "—And Vila will definitely miss us when we're gone."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyotr",
+          "text": "Yes, we should leave a gift for Miss Vila! Let's go make some snowmen!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Nina",
+          "text": "Alright!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pasono",
+          "text": "Yes, let's find the prettiest twigs to decorate them with!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Pyotr",
+          "text": "Let's go, everyone. Split up to find materials and come back as quickly as we can!"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1811932,
+      "owner_episode_id": 1810119,
+      "trigger_episode_id": null,
+      "title": "Twig Collecting Initiative",
+      "description": "Even when building snowmen, these kids have a keen eye for good materials.",
+      "action": "",
+      "unlock_condition": "ChapterMapElement=1811931",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1811933,
+      "owner_episode_id": 1810119,
+      "trigger_episode_id": null,
+      "title": "Abandoned Mines",
+      "description": "Pay attention to the vibrant colors around the mine, and don't lose sight of the child busy building a snowman.",
+      "action": "",
+      "unlock_condition": "ChapterMapElement=1811932",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1811934,
+      "owner_episode_id": 1810119,
+      "trigger_episode_id": null,
+      "title": "Children's Creation",
+      "description": "Shaped by different little hands, sharing the same innocent hopes.",
+      "action": "",
+      "unlock_condition": "ChapterMapElement=1811933",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "Circle Dance"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Snowmen of various sizes were arranged in a circle on the playground, and the children lovingly linked their twig arms together so that the snow friends were holding hands. Each child focused on decorating their little creation, staying close together, and when one arm brushed another's shoulder, there was a cheerful laugh.\n\nThe little girl on the far left lowered her head, her braids curled up like haystacks in the sun. She carefully placed sunflower petals on her snowman's head. Nearby, two boys were trying to make their snowman's chubby body wider and sturdier so it would last longer and Ms. Vila could greet them more often.\n\nThe little boy's snowman was a bear. It was only through his explanation that the head and paws of the arctic fox could be seen on its back. Foxes don't usually have long ears like rabbits, but he gave it those in order to hear his mother's footsteps, Vila's footsteps, and his friends' footsteps. Finally, he carefully placed the mined ore on the fox's chest, just as he wore the beautiful stone his father had left him.\n\n\"Okay, my frosty comrades! You can all stay here and do the circle dance with Ms. Vila. Remember, no running around or making a ruckus; just listen to her instructions ...\""
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1811941,
+      "owner_episode_id": 1810119,
+      "trigger_episode_id": null,
+      "title": "The Workers",
+      "description": "Those who made Rayashki stand tall on the snowy plains, and those who never expected their names to be remembered.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=1810119",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "Caring Crowd"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Among the long tables sits a group of people.\n\nThe one in the middle maintains her usual politeness and friendly smile. If you weren't looking at how her hands are resting uncertainly on the table, you'd miss the emotion beyond the politeness. Yes, this young scholar is stunned that the theory she has been focusing on is back in the spotlight. After being relegated to the pile of old papers in most places outside, it has found a place in Rayashki.\n\nAs for the people around her, most are still wearing their work clothes, with coal dust clinging to their collars and pant legs. They are aware of this and keep their distance from the scholar until she reaches out to them. This group of makeshift teachers and students shake hands, determined to spend time understanding a fading discipline. Those most dedicated to the work are also the most serious pragmatists. The study of ley lines has played such an important role in the rebuilding of the town! When the scholar first entered the research institute, this is what she had hoped for. Is the study of ley lines omnipotent? No. But it may eventually bring about change.\n\nPerhaps it will be the moment the coal mine was discovered, or perhaps it is this moment."
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1811942,
+      "owner_episode_id": 1810119,
+      "trigger_episode_id": null,
+      "title": "Unexpected Scenario",
+      "description": "An impromptu lecture on the study of ley lines. The architect never imagined that this place would be used for such passionate discussions.",
+      "action": "",
+      "unlock_condition": "ChapterMapElement=1811941",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1811943,
+      "owner_episode_id": 1810119,
+      "trigger_episode_id": null,
+      "title": "Residential Area",
+      "description": "The best way to solve local problems is to consult with the locals. The most direct approach is to go door to door.",
+      "action": "",
+      "unlock_condition": "ChapterMapElement=1811942",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1811944,
+      "owner_episode_id": 1810119,
+      "trigger_episode_id": null,
+      "title": "To the Horizon Line",
+      "description": "To the Horizon Line",
+      "action": "",
+      "unlock_condition": "ChapterMapElement=1811943",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "Windsong",
+          "text": "Wow. I'm getting a little nervous."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Windsong",
+          "text": "There are a lot of new faces here, quite unexpected. Well, hopefully a midday vodka will calm my nerves."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Windsong",
+          "text": "May I have your attention, please? Comrades and visitors, welcome to today's lecture on the study of ley lines."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Windsong",
+          "text": "I am Windsong, your speaker for today."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Windsong",
+          "text": "Now, I will present some practical examples on how the Study of Ley Lines can be applied to the mineral development in Rayashki ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Laplace Researcher",
+          "text": "This is undoubtedly beneficial to our research. Who cares about other people's opinions? Personally, I find Ley Lines very useful and relevant."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Laplace Researcher",
+          "text": "We definitely need to try this out and tell Ms. Lucy about it. I have no doubt she would be intrigued by this type of presentation ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Laplace Researcher",
+          "text": "I'll take thorough notes. I'll be prepared in case there's a Q&A session later."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vila",
+          "text": "Hello, there!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Laplace Researcher",
+          "text": "Uh? Oh. Hello, ma'am."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vila",
+          "text": "If you need a seat closer to the front, I can take you to the visitor's seats over there."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Laplace Researcher",
+          "text": "No thank you, I'm not a typical guest like them. I'm here as a researcher."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Laplace Researcher",
+          "text": "Is there somewhere I can hear more clearly? Does Ms. Windsong have any other business to attend to? I have a list of questions written down, such as methods for identifying lines ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vila",
+          "text": "There will be a Q&A session after the presentation. Follow me and we'll see if there's a better location for you that's closer and more spacious."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Windsong",
+          "text": "Phew, I really need a drink. This is as tiring as any physical labor."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Windsong",
+          "text": "I hope the Q&A session won't be met with dead silence. Just in case, I have prepared a couple of basic talking points ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vila",
+          "text": "Comrade Windsong, here."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Windsong",
+          "text": "Perfect. This glass of water couldn't have come at a better time."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Windsong",
+          "text": "The lecture went smoothly, and I still have time to make it to today's performance. As I promised to Avgust and the others, I have a little trick with ley lines that will surely amaze them."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vila",
+          "text": "The Study of Ley Lines is much more than just a little trick, Comrade Windsong. We all know this to be true."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vila",
+          "text": "The woman from Laplace has technical inquiries for you. You might want to finish your drink, I have a feeling she has quite a few questions lined up."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Windsong",
+          "text": "She can ask all she wants about the subject. The truth is, I'll be researching Ley Lines for a long time to come."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Windsong",
+          "text": "What are your thoughts on this lecture? I welcome constructive criticism, so feel free to share your honest opinions, Comrade Vila."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vila",
+          "text": "It brought back memories of a \"line\" I had seen before, although it's not exactly the same as your ley lines."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vila",
+          "text": "One morning I was floating on the surface of the water, admiring the distant shore. The horizon line seemed impossibly far away, with a soft glow radiating from it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vila",
+          "text": "At that moment, I decided to go and see for myself. And so I arrived at Rayashki, my footprints leaving marks in the snow as I watched it transform into what it is today."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vila",
+          "text": "... It's remarkable how our dreams are gradually becoming a reality."
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "200829",
+      "internal_title": "【1.8】再见，来亚什基-19",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The river of time has moved swiftly in the passing months."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Rayashki is bustling with the sounds of a busy and hopeful community."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Crowds of people, lively and spirited, weave to-and-fro."
+        },
+        {
+          "kind": "title_card",
+          "text": "Swimming Pool, Rayashki"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A disheveled figure hurries into the scene."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Windsong",
+          "text": "Thank goodness! I was hoping you'd be here!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Windsong",
+          "text": "Oh, erm, is this a bad time?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vila",
+          "text": "Heh heh, no, it's alright. Have a seat."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vila",
+          "text": "I'm not a pure Rusalka. As you can see, I must get in touch with water every once in a while to replenish my power from the ocean."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Windsong",
+          "text": "Ahem. Hello, Comrade Vila."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vila",
+          "text": "It's been a while, Comrade Windsong."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vila",
+          "text": "They say you're working hard in the mine, and the study of ley lines is getting popular among the workers."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Windsong",
+          "text": "They have helped a lot. My research on the environment wouldn't have gone nearly so smoothly without them."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Windsong",
+          "text": "It's given a second life to my studies, and it is growing so well. It has even gained some recognition beyond Rayashki."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Windsong",
+          "text": "I, I'm truly happy that I came here."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vila",
+          "text": "I never thought the Comrade Windsong would be so bashful over her accomplishments. I thought you were more stubborn and confident than that."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Windsong",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vila",
+          "text": "I'm only teasing, comrade. It's a matter of fact that you are not as fearless as you pretend to be, isn't it?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vila",
+          "text": "That's why we must all stick together to make up for each other's weaknesses and make Rayashki proud! Sorry, speeches have become an occupational habit."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Windsong",
+          "text": "Fine, you got me. But it's not a big deal. Just as you are not quite the gentle and demure school teacher that you appear to be, are you, comrade?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Windsong",
+          "text": "We're even!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Windsong clears her throat and hands the letter to Vila."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Windsong",
+          "text": "Actually, I've come to say goodbye."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Windsong",
+          "text": "Laplace has invited me to give a lecture for their European branch. They want me to give a lecture on how I combined environmental analysis with the arcanum based on what we've done here in Rayashki."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vila",
+          "text": "Sounds like a very promising new beginning for your studies."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Windsong",
+          "text": "How are things going in the town?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vila",
+          "text": "We are getting more visitors now. It seems people are eager to see something different."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Windsong",
+          "text": "I'm sure they will."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vila",
+          "text": "We've also begun cooperating with many governments and agencies near us, including the Foundation."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vila",
+          "text": "They hope to carry out some short-term training on the arcanum for the children."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Another letter is passed on."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Windsong",
+          "text": "What's this?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vila",
+          "text": "Open it. It's from the Foundation."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vila",
+          "text": "Mr. Name Day invites me to visit the Foundation and discuss further cooperation. The children are also waiting for me there."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vila",
+          "text": "It seems they mentioned you all the time during their training."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vila",
+          "text": "\"Did we miss the ley line exam?\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vila",
+          "text": "\"The Foundation has all sorts of incredible things.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "\"Avgust\"",
+          "text": "Like biting coins, noisy coal balls, a glass pen with rainbows inside. So much fun!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "\"Pasono\"",
+          "text": "I've mastered a lot of incantations!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "\"Nina\"",
+          "text": "I miss the town and everyone."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "\"Avgust\"",
+          "text": "Yeah. We miss Comrade Alenka, Comrade Blinchik, and Comrade Piroshki!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "\"Pyotr\"",
+          "text": "They say we will be able to go home in a few months!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "\"Pyotr\"",
+          "text": "I must master the most powerful arcane skills by then, so I can use them to protect the town!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "\"Avgust\"",
+          "text": "We'll transform into sea swallows!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "\"Avgust\"",
+          "text": "Then we'll be able to fly and fly to far, far away!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Radio Broadcaster I",
+          "text": "The Kaslinska University Hospital received a rare case today."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Radio Broadcaster I",
+          "text": "The patient's veins irreversibly transformed into electric wires. As of 18:00, all arterial, venous, and capillary tissues throughout the patient's body have undergone necrosis."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Radio Broadcaster I",
+          "text": "The director said they would invite more professionals to the consultation to decide on further research directions."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Radio Broadcaster I",
+          "text": "Global Variety News has claimed the case may become one of the greatest unsolved mysteries of the era."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Radio Broadcaster I",
+          "text": "They started a new column to analyze possible compatibilities between the patient's new wired veins and different appliances."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Radio Broadcaster I",
+          "text": "Please stay tuned for more details."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Radio Broadcaster II",
+          "text": "The Flying Carpet Travel Agency is starting a tour around Northern Europe ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Radio Broadcaster II",
+          "text": "... where you will be able to see the breathtaking aurora borealis, pet fluffy Qiqirns, and even enjoy a flying carpet race."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Radio Broadcaster II",
+          "text": "The destination of our tour is Rayashki."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Radio Broadcaster II",
+          "text": "A mysterious town, the warmest place in the Arctic Circle, sitting atop many rich veins of coal."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Radio Broadcaster II",
+          "text": "When you get there, we suggest that you abide by the town's wishes and work to earn what you need instead of buying it. Though this is not an obligation, of course."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Radio Broadcaster II",
+          "text": "But why not have a try when you are given the opportunity to experience a new and better lifestyle? Trust me, you won't be disappointed."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Heh heh."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Where should I start, dear readers?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Rayashki is like a sparkling gem embedded into the permafrost. And above flies an eye-catching banner. Perhaps it will draw even more attention in the future."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Through the past decades, the citizens there have been trying to achieve something different for themselves."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "A great cause which may take the work of generations to achieve."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "But now they are no longer a nameless town in the far north, nor is their dream a passing fad bound to be forgotten."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "I sincerely hope all of us will be able to witness its history and its future."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "That's why I knew I must write down this story. In the hopes that their dream will remain in your heart forever."
+        },
+        {
+          "kind": "title_card",
+          "text": "8#2"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

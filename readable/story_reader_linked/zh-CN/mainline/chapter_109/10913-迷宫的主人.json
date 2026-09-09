@@ -1,0 +1,550 @@
+{
+  "episode_id": 10913,
+  "chapter_id": 109,
+  "chapter_title": "疯癫与文明",
+  "display_label": "",
+  "title": "迷宫的主人",
+  "subtitle": "一具迷宫建造者的尸骸。他以此宣告：世上最完美的迷宫诞生了。",
+  "trails": [
+    {
+      "element_id": 1091301,
+      "owner_episode_id": 10913,
+      "trigger_episode_id": null,
+      "title": "流动的哲学",
+      "description": "基金会需要打卡上班吗？",
+      "action": "对话",
+      "unlock_condition": "EpisodeFinish=913",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "我有一些你听了会高兴的情报。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "我给你一分钟。",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "你会希望这一分钟够长的。因为这情报涉及我们都熟悉的一位朋友，一位你一直在寻找的故人。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "那位医生，那位作家。她有很多个好名字，就像你，就像我。遗憾的是，她脑子里留存的东西可不算多。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "正如那场战役之后，只有少数幸存者记得她的厉害手段。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "如今，那位心地善良的好医生又成了阴谋中的一个必要部分，老将军对此心知肚明。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "他又知道了？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "失去指挥家的管弦乐队虽不至于崩断了弦，但确实演不出像样的交响乐了。老将军抓住了这点，他知道对方现在急需什么。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "经验除了带来伤疤，还馈赠一指甲盖大小的智慧。在这场单方面的豪赌中，他率先抓住了最大的筹码。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "我不知道，这份报告里没有写。但我有一个推测。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "那些热衷于捣乱的家伙充其量只是在四处撒下混乱的种子，再顺手给炸药的引线煽把风，但他们都未曾怀疑过炸药的当量和排布。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "现在，他们或许意识到了这是不可控的变量，光有爆炸不能解决问题。所以他们得另想办法——即使会是一场长久而艰难的迁移性工程。"
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "说下去",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "一分钟到了，我该走了，时间真是过得特别快，一如既往。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "我会在有进一步报告时回来，希望你能活得长久一点，这样我们还能相处很长一段时间。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "什么阴谋？",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100918",
+      "internal_title": "第九章9-13.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "迷宫的主人"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "寂静的室内只余心电监护仪的声响。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "呼……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "狱医先生，如果你真的是阿莱夫的话……我不知道你为什么要这么做，要利用我的小说来操纵监狱。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "但无论是小说还是现实，最终都无法达到你想要的效果。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "你说，想通过这种模式，让所有人都成为科马拉监狱的观察者……但你有正视过科马拉监狱现在真实的状态吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "那些囚犯没有因为这个所谓的实验，而实行某种完美的纪律……相反，他们成为了一种可悲的存在，享受着来自瞭望塔的视线，进行着夸张的自我表演。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "本应根据病情分配的药物与物资，变成了一场彰显“命运的随机性”的表演道具；瞭望塔与环形监狱，则成为了他们的舞台。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "监狱并没有因为这场表演而变得更好，应该得到救治的病人最终只会默默地死亡在角落。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "就连文学也是如此……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "这个监狱的一切，都是在这种“权力的视线”下诞生的怪物……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "阿莱夫，这就是你想要的答案吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "漫长的沉默后，狱医仿佛被惊醒一般，他后退一步，失手碰掉了台上的手术刀具。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "狱医",
+          "text": "……什么？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "狱医",
+          "text": "这就是……我获得的答案？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "狱医",
+          "text": "你的意思是，在我不知晓的时刻，我的探索早已失败了吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "狱医",
+          "text": "不，这不可能。福柯的理论是完美的！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "全盘否定的言辞让他难以容忍。\n男人看似镇定地在台面上寻找着什么，却不小心将所有手术工具都清空到了地上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "狱医",
+          "text": "我排除了所有的障碍，才让这座监狱运作起来，它是如此的纯粹，如此的独立……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "狱医",
+          "text": "我不断评估、改变下属的行为，只为了让他们用最好的方法来监管这里。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "狱医",
+          "text": "……而你现在告诉我，我所做的一切，都早已失去了原本的意义？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "狱医",
+          "text": "我奉行的理论，它早已被另一种权力模式取代？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "狱医",
+          "text": "外来者，你只是妄图阻碍纪律的运作……那些犯人，他们仍然处于完美的纪律之中！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "狱医",
+          "text": "在这个优越的场所里，任何情况都瞒不过我。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "终于，在不易察觉的角落中，他找到了那颗萦绕着黑雾的二十面骰。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "狱医",
+          "text": "制造奇迹不易，我们一向知晓。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "狱医",
+          "text": "我将亲自确认一切。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "监狱掌控者所有的情绪，在将骰子握入手掌的瞬间消融。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "狭窄的手术室震颤着，仿佛回应掌控者的呼唤一般，发出扭曲的尖啸。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "发生了什么？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "狱医",
+          "text": "来自另一个时代的访客们，你们企图凭借语言传播的疾病，将科马拉的幽禁打破。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "狱医",
+          "text": "但你们有认真凝视过脚下的每一片瓷砖、每一条裂缝、每一道水痕的消失与重现吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "狱医",
+          "text": "从这个房间，到另一个房间，到每个房间。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "狱医",
+          "text": "你们徘徊于此，认为它们一模一样，认为它们是一个不可理喻的疯人迷宫。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "狱医",
+          "text": "但这里并非奇妙幻想的空间，而是基于对秩序与权力的运用所诞生的天地。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "狱医",
+          "text": "从一根在风中漂浮的蜘蛛丝开始，到活动场地走廊把手上的一粒锈迹结束——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "狱医",
+          "text": "我亲手搭建了这座圆形的房子。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "狱医",
+          "text": "在这颗无尽变幻的骰子里，它的映射足以让概念变成现实，让思想成为物质。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "狱医",
+          "text": "我观察着每一件事物，时间每一分秒的流动：你们的脚步从来没有走出过这个实验的范围。"
+        }
+      ]
+    },
+    {
+      "script_id": "100919",
+      "internal_title": "第九章9-13.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "在理想家先生遇袭的时候，我们也遇到过这样的情况！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "原来从一开始，我们就身处骰子所构建的监狱之中吗……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "这一切，都是狱医所创造的场景……？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "监狱的扭曲愈发严重了……我们要做好随时战斗和撤退的准备。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "情况逐渐变得不受控制。手术室中，所有的一切都在尖啸，扭曲，化作意义不明的黑白线条。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "拜托了，梅林先生，快停下来！！！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "狱医",
+          "text": "不，你们的要求太荒唐了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "狱医",
+          "text": "这种精心设计的概念不应该受到一丝外来影响就陷入紊乱……因为它是注定要传遍整个社会机体的……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "狱医",
+          "text": "但你失败了，梅林。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "狱医",
+          "text": "我没有！我没有！只要保证它不停地运作……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "狱医摆弄着骰子，古怪地自言自语着。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "狱医",
+          "text": "运作的只是骰子，而并非你的权力机制。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "狱医",
+          "text": "它是巫术，是魔法，它不包含多种多样的力量，并不是你所追求的权力物理学，也无法成为权力实验室。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "狱医",
+          "text": "它是重塑之手和军政府给你的幻想，一个不存在的存在。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "重塑之手？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "你果然和重塑之手有关系。你们究竟想做些什么？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "狱医",
+          "text": "我……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "狱医",
+          "text": "所以我也失败了吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "狱医",
+          "text": "就像追求本能现实主义的理想家、炼制永生之泉的帕拉塞尔苏斯、寻找单面硬币的扎伊尔那样，成为了一个在混乱纷芜现实中迷失的可怜虫。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "狱医",
+          "text": "阿莱夫，一切都是从哪里开始溃败的？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "狱医",
+          "text": "是从门把手的松动、囚犯溃烂的伤口、每日28毫克浓度的消毒水、墙壁上第二块灰砖的裂缝扩至6毫米开始吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "狱医",
+          "text": "还是说从典狱长达尔杜夫，带着国家福柯协会解散的消息离开乌斯怀亚开始？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "狱医",
+          "text": "我们这儿理应是精神分析的最佳实践场所……为什么他们不再探讨这一切了？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "狱医",
+          "text": "我们被旧时代和新时代同时放弃了，对吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿莱夫",
+          "text": "你为科马拉设计了一切，每一处细节都经过了精心的雕琢和漫长的调整。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿莱夫",
+          "text": "但最终这一切细节也将你束缚在这个监狱中。梅林，你马上就会丢失自己的名字，永远成为一个被困于此处的“狱医”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "狱医",
+          "text": "我不能理解……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿莱夫",
+          "text": "这些虚假的时代，它本身就是一本无尽的书。在这本可怕的书里寻找答案，本身就是错误的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿莱夫",
+          "text": "你和他们一样，注定无法寻找到属于自己的超限。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "狱医",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "狱医",
+          "text": "告诉我，阿莱夫，那个答案，它真的存在吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "那颗掌控一切的骰子重得让他再也无法握住，它掉到了地上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "监狱的扭曲与震颤终于归于寂静，仿佛一道不可视的巨大脉搏停止了瞬息。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "受到扬起的烟尘影响，互相搀扶着站稳身形的女孩们并未留意到谜底的出现。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "咳咳……司辰，您还好吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "咳咳……我没事，你呢？还有虚构集小姐，你还好吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "虚构集小姐……？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "烟雾散去，没有人应答。被点名的少女只是震惊地望着眼前的人影。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虚构集",
+          "text": "你……你是……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "乌托邦[Utopia]源自于希腊语，意思是“不存在的地方”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "人们深信不疑，潜心琢磨这无休止的迷宫，探索人类的奥秘。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "同时，人们迷惑不解，亦感荒谬，信奉命运带来的吉凶祸福。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "仿佛只需如此，世上所有的一切都会变得微不足道。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿莱夫",
+          "text": "在今日，极夜已经造访南方。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿莱夫",
+          "text": "欢迎你的到来，我的笔友。"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

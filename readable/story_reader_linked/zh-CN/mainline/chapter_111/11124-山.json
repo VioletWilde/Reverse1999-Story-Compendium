@@ -1,0 +1,806 @@
+{
+  "episode_id": 11124,
+  "chapter_id": 111,
+  "chapter_title": "行于漫漫长路上",
+  "display_label": "",
+  "title": "山",
+  "subtitle": "那些名字的千万分之一。",
+  "trails": [
+    {
+      "element_id": 111024,
+      "owner_episode_id": 11124,
+      "trigger_episode_id": null,
+      "title": "逐客令",
+      "description": "",
+      "action": "残篇阅读",
+      "unlock_condition": "EpisodeFinish=11124",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "很抱歉，但我想您是时候离开了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "恐怕这里暂时不会再有闹剧发生了。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "可战争还没有结束",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "难道战争是否结束会有什么区别么？"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "地震、洪水、饥荒、瘟疫、抢劫、车祸、摔倒在浴缸里。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "人总有各种机会去死，战争只是其中之一。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "它甚至还不足以让世界去真正地重视它。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "至少这次不会。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "您就这么热衷于打扰我这靠抚恤金维持的拮据生活？"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "可出于礼节，我确实不应该拒绝您。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "而且我也理解，在屋檐下喝泥水总胜过在战场吃灰尘……"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "好了，您的朋友还在东线等您，我会替您祈祷她的平安无事。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "我们下次见",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1110241,
+      "owner_episode_id": 11124,
+      "trigger_episode_id": null,
+      "title": "“免费”情报",
+      "description": "情报可以是无价的，但绝不会是免费的。",
+      "action": "交互",
+      "unlock_condition": "EpisodeFinish=11124",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "阅后即焚"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "因为一些意外，曾有一份残缺的报告到过我的手边，它的内容没有具体到足以让我了解事情的全貌，但至少，我知道了芝诺和基金会在秘密地进行一项“暴雨”研究——绝对不是目前已经公开的研究，或以你我的等级可以知晓的研究。\n     基金会和科算中心的大部分人对此毫不知情，但这种秘密的行径也足以令人不安。"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "101133",
+      "internal_title": "第十一章11-24",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "山"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一座完成的山。\n无法企及死亡的千万分之一。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡戎",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "它扔下了过往的一切：一件大衣，一顶头盔，一双短靴……一只蝴蝶封面的笔记本。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "——曾属于名叫保罗的年轻人的一切。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡戎",
+          "text": "你的战争结束了，保罗。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "遗物被妥善安葬在最后一处坟墓中，紧挨着一位在山顶死去的少校。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "远处有渐近的马蹄声。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡戎",
+          "text": "……安德烈森？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一声轻柔到几乎像是不想吵醒任何人的呼唤。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "它在软烂的泥土路上驻足，片刻之后，蹄声踏破晨雾，徐徐靠近。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "安德烈森",
+          "text": "咴——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一匹黑马出现在收尸人面前。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "它轻吐鼻息，渴望一次轻抚。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡戎",
+          "text": "好孩子——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡戎",
+          "text": "你消失了很长一段时间——你又去了一些过于危险的地方寻找你丢失的好友？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "安德烈森",
+          "text": "咴……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡戎",
+          "text": "或许在你身上附着着某种特殊的命运，使你能在这场屠杀中躲过众多致命的威胁。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡戎",
+          "text": "但我仍然担心流弹与毒气会将你置于死地。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "安德烈森",
+          "text": "……咴咴——咴。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "马儿低下了头。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡戎",
+          "text": "我没有在责备你，安德烈森，相反，你能重新回到我身边，令我心怀感激。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "亡者看向东方。日光升起之地，噩兆的乌云弥漫。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡戎",
+          "text": "该走了……下一个目的地无比遥远，我正需要你的帮助。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "安德烈森",
+          "text": "——咴。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "安德烈森向一侧偏头，示意主人注意早就靠到近前的青年人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“警官”",
+          "text": "卡戎先生，这匹马是你的吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "直到这时，迟钝的亡者才注意到有人向自己打招呼。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡戎",
+          "text": "……是的，年轻人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“警官”",
+          "text": "那就没关系了。这匹马突然出现在蒙佩附近，我还以为和重塑之手有关系，就一直追了过来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡戎",
+          "text": "基金会仍然留在蒙佩吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“警官”",
+          "text": "我们很快就会离开，军队需要转移到更安全的地方去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“警官”",
+          "text": "对了，你知道“乌鸫”去了哪里吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡戎",
+          "text": "“乌鸫”？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“警官”",
+          "text": "噢，梅蕾尔，就是那个和你一起去前线的女孩。她在重塑之手发动袭击之后就失联了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“警官”",
+          "text": "我正在找她……希望她不要出什么事才好。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡戎",
+          "text": "她还活着。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "意外的收获。\n青年的眼中显露出明显的光彩。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“警官”",
+          "text": "她还活着？！——你见过她？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡戎",
+          "text": "……我不能告诉你。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "光彩瞬间熄灭，帕拉维扬怎么也没想到会在这个问题上遭到拒绝。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“警官”",
+          "text": "为什么？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡戎",
+          "text": "她不希望你们找到她。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“警官”",
+          "text": "什……什么？难道她不想回来吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡戎",
+          "text": "是的。她很害怕之后的战争。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡戎",
+          "text": "真实的杀戮，直白的死亡……对这位少女来说，她或许没有做好接受这一切的准备。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡戎",
+          "text": "她向我索要了一个承诺，不将她的行踪透露给基金会的诸位。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“警官”",
+          "text": "……我……我不懂，你就这么放她走了？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“警官”",
+          "text": "她一个人待着不会更危险吗？而且……她的档案会被记录为“逃亡”……天呐。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡戎",
+          "text": "我不明白你说的这些。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡戎",
+          "text": "但我的承诺如此，也理解她的恐慌。每个人都有正当的理由去逃避畏惧的事物。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "青年从来没有想过要怎么应付眼前的场景，只觉得有一种力量无处挥舞的别扭。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他急躁地抓挠着头发，最终做出了决定。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“警官”",
+          "text": "好吧……至少她还活着。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“警官”",
+          "text": "我会另想办法找到她的，不能让她一个人在外面游荡。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "清澈的声音做出承诺，他仿佛刚刚接受了一项艰巨的任务。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“警官”",
+          "text": "感谢你提供的信息。再见，卡戎先生。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "青年踏上返回蒙佩的道路。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一刻钟后，他的背影隐没在东部的树林里。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“草丛”",
+          "text": "“沙沙——”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "安德烈森",
+          "text": "咴？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾尔",
+          "text": "……他走了？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡戎",
+          "text": "是的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "安德烈森",
+          "text": "咴咴——咴。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "少女从草丛中蹿出来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾尔",
+          "text": "你怎么告诉他我还活着？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡戎",
+          "text": "你没有让我不说这个。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾尔",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾尔",
+          "text": "好吧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "亡者点头致意，缓缓离去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "安德烈森打着响鼻，在卡戎与梅蕾尔之间绕着圈徘徊。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "安德烈森",
+          "text": "咴。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "梅蕾尔轻拍马儿的面颊。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾尔",
+          "text": "那个……卡戎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡戎",
+          "text": "嗯？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾尔",
+          "text": "其实……我并没有打算在这里当一个守墓人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡戎",
+          "text": "死者不需要陪伴，作为纪念的墓碑也有朽烂的一日，最终，时间会将我们带入遗忘之海。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡戎",
+          "text": "没有任何事物值得以不朽为名。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "年轻女孩挠了挠遮脸的布料，或者是成为“逃兵”的紧张，让她的皮肤感到有些发痒。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾尔",
+          "text": "好吧，关于守墓人的玩笑很差劲……我想说的是，我不知道该去哪里……离开基金会之后，我不认识其他能帮我的人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾尔",
+          "text": "我更不想被重塑之手的人抓到，你不知道他们在南极都做了些什么……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾尔",
+          "text": "噢……不是这个时代的南极，是之前的南极。总之我一个人完全没办法对付他们。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "安德烈森",
+          "text": "咴……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾尔",
+          "text": "可我还是能做一些事的，一些讨人厌的魔精我能很轻松地对付。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾尔",
+          "text": "所以……如果你……需要，嗯，帮手的话，我们……可以一起走？至少你不会撒谎。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡戎",
+          "text": "我并不会去一个安全的地方。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾尔",
+          "text": "等遇到危险的时候，我自己就会逃跑的。这点你就放心吧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡戎",
+          "text": "……既然如此，请跟上我。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡戎",
+          "text": "不想经过基金会监视地区的话，我们要绕一个更远的路。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "它从衣兜内拿出一根只有半截的巧克力，即使一直贴身存放，也并未融化。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡戎",
+          "text": "如果你饿了，这些东西都可以还给你。如果你累了，安德烈森可以驮着你前进。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "从战争中逃脱的士兵雀跃地点头。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾尔",
+          "text": "……好、好的！"
+        },
+        {
+          "kind": "title_card",
+          "text": "幕僚长办公室"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "……有关《暴雨改革》法案的修订已经提上日程，委员会很快就会开启下一轮协商，你也要出席会议。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "近期的事件令“鹰派”掌握了较大话语权，他们都很支持扩大司辰小队的权责与预算。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "做好准备，维尔汀。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "……我明白了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "基金会职员与委员们在走廊中匆忙地穿行而过。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "刚退出Z女士的办公室，就再度听见了熟悉的声音。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "刻雷乌斯",
+          "text": "……司辰？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "你在等我？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "刻雷乌斯",
+          "text": "只是凑巧而已。不过我很高兴你能记得我。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "当然。你的行动拯救了很多士兵的生命。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "蒙佩的危机解除之后，“鸽派”也同意了扩大“前线应急预案”的决议。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "刻雷乌斯",
+          "text": "呵呵……没想到你还关心政治。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "……我不关心，只是有所了解。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "刻雷乌斯毫不在意地抛开了政治话题。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "刻雷乌斯",
+          "text": "上次的会面太过仓促，我一直想找个机会继续……不过，这里也并不是个适合谈话的地方。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "刻雷乌斯",
+          "text": "但我或许可以给你提供一些有价值的简单情报。有关于基金会，有关于……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "刻雷乌斯",
+          "text": "“兀尔德”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "看见预料之中的反应，男人露出笑容，将一枚信封递了过来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "刻雷乌斯",
+          "text": "期待你的联络。我想，我们一定能合作愉快。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "……司辰，打扰一下。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "第一助手匆匆赶来，以疑问和警惕参半的目光看向红发男子。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "请问您有什么要紧事吗，刻雷乌斯先生？如果您有需要，我可以帮你们安排会议时间……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "刻雷乌斯",
+          "text": "不必，我们只是偶然遇见问候一下而已。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "刻雷乌斯",
+          "text": "下次再见，司辰，十四行诗小姐。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "男人微微点头，随后匆匆走远了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "司辰？你还好吗……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "……没什么。你看起来很匆忙，十四行诗。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "第一助手神色不安地拿出通讯器。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "司辰，我是来给你看这个的。这是一则紧急留言。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "联络人……红弩箭？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "*紧急情况*"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "受索姆将军直接调遣，我正在东线执行任务。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "头儿，猜猜看我发现了……&%#……什么？一个管辖……*#@……外的……￥%&#……芝诺驻扎地。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "根据我的判断，这是……*&%……叛军。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "红弩箭",
+          "text": "详情……$#@……尽快回电。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "留言在一阵杂音中结束。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "我收到留言后就尝试过联络红弩箭小姐，但……呼叫无法接通。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行诗",
+          "text": "她在留言中提到了芝诺的叛军，我担心……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "……是伊戈尔？红弩箭有麻烦了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "维尔汀",
+          "text": "十四行诗，和我回一趟Z女士的办公室。"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

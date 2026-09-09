@@ -1,0 +1,861 @@
+{
+  "episode_id": 3210103,
+  "chapter_id": 32101,
+  "chapter_title": "迁流的盛宴",
+  "display_label": "",
+  "title": "会面礼",
+  "subtitle": "你尝试过告诫一只好奇的动物：别推翻水瓶！",
+  "trails": [
+    {
+      "element_id": 3210306,
+      "owner_episode_id": 3210103,
+      "trigger_episode_id": null,
+      "title": "凝望自我",
+      "description": "",
+      "action": "类型3202",
+      "unlock_condition": "EpisodeFinish=3210103",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "香榭丽舍大街的橱窗前，你为一件事物驻足良久，连天空的变化都没有注意到。橱窗里的那个东西是："
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "流淌着黑色液体的克莱因蓝礼服",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "不得不说，衣品很好。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "古代魔精的复原画",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "它们从一开始就这般吵闹？"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "切成一半的烟斗剖面",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "不禁好奇另一半在哪里展出。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "指针倒转的天文钟",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "一定有着更深层的隐喻。"
+            }
+          ]
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 3210402,
+      "owner_episode_id": 3210103,
+      "trigger_episode_id": null,
+      "title": "说到生意",
+      "description": "",
+      "action": "类型3203",
+      "unlock_condition": "EpisodeFinish=3210103",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "当时我正在巴黎经营我的水晶生意。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "从简单的装饰品到有灵性的水晶，我都有卖，你的箱子中也有几位我的老主顾。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "不过很多客人光顾我的店却不买水晶，而是想要一则预言。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "很难有人不想要",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "命运全都是非卖品，谁能够得到什么早已注定，预言只是一份既定的礼品清单。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "我并不想只售卖无用之物。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "于是我定下了一条口头规定，只向熟客谈及将来。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "那可不行，预言应当是免费的。被提前知晓的、无法改变的内容毫无价值。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "正如一部小说的内容不应该全部出现在封面和标题上，那些部分只能用作宣传。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "所以我只在与真正来购物的客人闲谈时，偶尔提及一些预言……"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "结果生意就变好了，很快我赚回了当时在巴黎的前期投入。"
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "这并不意外",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "是的，每次都这样，毫无悬念……"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "您可以售卖预言",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 3210506,
+      "owner_episode_id": 3210103,
+      "trigger_episode_id": null,
+      "title": "凝望自我",
+      "description": "",
+      "action": "类型3204",
+      "unlock_condition": "ChapterMapElement=3210306",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "香榭丽舍大街的橱窗前，你为一件事物驻足良久，连天空的变化都没有注意到。橱窗里的那个东西是："
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "流淌着黑色液体的克莱因蓝礼服",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "不得不说，衣品很好。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "古代魔精的复原画",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "它们从一开始就这般吵闹？"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "切成一半的烟斗剖面",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "不禁好奇另一半在哪里展出。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "指针倒转的天文钟",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "一定有着更深层的隐喻。"
+            }
+          ]
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "203203",
+      "internal_title": "【3.2】迁流的盛宴03.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "出租车内"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "成功点火后，引擎微颤着发出规律的响声，黑色的出租车向前方驶去。\n来自父母的纪念风铃在窗前轻轻摇晃着。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "所以就是这样了，没想到又是一个占卜师。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "不过本杰明警官说，已经调查过那位布翁尼女士的嫌疑了，她是清白的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "费利西安",
+          "text": "清白？那可不一定。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "费利西安",
+          "text": "贝丽尔·布翁尼——她的心思可不是普通人能轻易看透的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "副驾驶席上的乘客将甜点丢入口中嚼碎，颇有几分咬牙切齿的意思。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "怎么，你认识她？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "阿黛拉投去错愕的一瞥。她从未见过费利西安露出过这样不悦的表情。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "费利西安",
+          "text": "刚才的就是最后一枚了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "……我怎么敢怠慢了您呢？这里还有，您请用。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "职业精神让阿黛拉并未对话题的转移表示异议，她从座位旁拿出包装精致的小盒。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "费利西安",
+          "text": "算你机灵。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "费利西安",
+          "text": "没错……就是这个味道。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "你还真是喜欢甜食。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "费利西安咬下甜点的声音让她有些说不出的紧张。阿黛拉握紧方向盘，努力让精神集中在眼前的道路上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "费利西安",
+          "text": "那个警察说贝丽尔·布翁尼人在哪里？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "和平街，布翁尼女士在那里有一家水晶工房。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "费利西安",
+          "text": "掉头，我们现在就去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "熟悉的命令式语句从副驾驶席上飞来，所幸阿黛拉已经熟练掌握了应对之法。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "抱歉，费利西安，现在不行。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "我和你说过，今天晚上我和朋友有约了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "费利西安",
+          "text": "那就让她去和平街等你。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "眼刀立刻剐了过来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "费利西安",
+          "text": "你的报酬翻倍，就现在，掉头——我是说，随便转向哪个该死的方向。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "可是……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "费利西安",
+          "text": "三倍——不，十倍。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "十……？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "阿黛拉不想承认她确实动摇了一下，哪怕最近她有读那本写着“不要被报酬收买，工人需要休息时间”的宣传册。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "不……咳，不行！真的不行。西莉亚难得有空。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "她之前一直忙着写论文和搞叫什么……“超心理学”的研究，我们好久没见面了。\n我不想放她的鸽子。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "明天我一定陪你过去，随叫随到。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "费利西安",
+          "text": "真没劲。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "费利西安不悦地眯起了眼睛——下一句话还没出口，她忽然猛地从副驾驶席上探身。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "费利西安",
+          "text": "——等等！就在那里，是她！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "什么？谁？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "费利西安",
+          "text": "贝丽尔·布翁尼，她就在那里！快回去！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "等一下，别乱动！这样很危——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "吱——！！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "阿黛拉的车在划出一道长长的弧线后勉强停住，而相对驶来的另一辆车则结结实实地撞在了路灯上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "情绪高亢的司机",
+          "text": "拜托！是谁开的车，这是在搞什么鬼？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "勉强爬出驾驶室的司机愤怒地指向阿黛拉，咆哮的声音让车窗一阵震颤。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "情绪高亢的司机",
+          "text": "喂！喂！你给我下来！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "费利西安",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "…………"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "费利西安",
+          "text": "看我干什么？你没听见吗，外面有人找你。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "……我回来再和你算账！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "推开车门，阿黛拉庆幸自己反应还算快，事故后果不至于太严重。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "街边也并没有任何像贝丽尔·布翁尼的人，整件事都像是下班路上的祸不单行。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "再怎么着急，抢方向盘也太危险了！唉……我的零事故记录就这样终结了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她揉了揉额头，硬着头皮向一旁火冒三丈的年轻男子走去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "抱歉，先生，刚才我有些分神……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "情绪高亢的司机",
+          "text": "抱歉？\n抱歉就足够了吗？你知不知道自己做了什么？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "情绪高亢的司机",
+          "text": "现在正是国家存亡的关键时刻，一刻都不能够耽搁！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他愤怒地给了自己的车子一拳，原本就轻微变形的后车盖发出凄惨而空洞的哀嚎，围观的人越来越多。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "国家……存亡？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "呃，您是想说您正有特别重要的事要做吗？\n还是说……这是新的罢工口号？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "情绪高亢的司机",
+          "text": "帝国的真正主人已经回来了，拿破仑皇帝已经在儒安港登陆！他会再次为我们带来胜利与荣耀！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "情绪高亢的司机",
+          "text": "现在他正向巴黎赶来，但身边只有寥寥数百的士兵……我们必须立刻集结，前往他的身边！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "帝国？儒安港？您到底在说什么呢？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "男子表情严肃，实在不像是在开一个蹩脚的玩笑。阿黛拉错愕地看着他，一时间不知道该如何接话。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "但她的反应似乎被理解为了另一种意思。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "情绪高亢的司机",
+          "text": "我明白了……你是波旁王朝和路易十八的走狗，是不是？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "情绪高亢的司机",
+          "text": "奥斯特里茨的太阳在呼喊着我，我绝不会让你阻止我！"
+        }
+      ]
+    },
+    {
+      "script_id": "203204",
+      "internal_title": "【3.2】迁流的盛宴03.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "情绪高亢的司机",
+          "text": "放开我！我必须去……去我们的皇帝的身边！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "先生，您冷静点！谁能来帮我一把？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "在周围人的帮助下，阿黛拉成功地将司机从车顶拽了下来，但骚动也令围观者越聚越多。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "围观群众Ⅰ",
+          "text": "看样子又是一个被癔症害了的可怜家伙。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "围观群众Ⅱ",
+          "text": "我看也是。离远点，他净说些疯话……百日王朝可是在一个世纪前就没了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "嘿，谁能帮忙叫救护车吗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "有没有认识这位先生的人？我没时间在这里等太久——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她看了看自己挂了彩的爱车和里面坐着的漠不关心小姐，感到一阵为难。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "就在此时，层层人群被挤出一道缝隙，几名学者装扮的人努力地靠近了现场。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "真是太抱歉了，小姐！我的学生给您添麻烦了，您的一切损失我来赔偿。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "您留下联系方式就行，我来处理之后的事……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一名四十岁上下的男人终于穿过了人群，他掏出手绢擦去额头的汗水，带着书卷气的脸上满是歉意。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "几名学生模样的年轻人跟在他身后，为首的女孩有着阿黛拉再熟悉不过的面容。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "西莉亚？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "西莉亚",
+          "text": "阿黛拉？天哪，还好你们没受伤！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "女孩焦急地跑了过来。仔细确认了阿黛拉和那位司机的安全后，她才稍微退开几步，为身后的人简单做起介绍。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "西莉亚",
+          "text": "这是罗西教授，我和你提起过——罗西教授，这是我的朋友阿黛拉。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "西莉亚",
+          "text": "就是那个和我约好了今天一起吃晚饭的朋友。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "西莉亚飞快说完，如释重负地拍了拍好友的肩膀。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "西莉亚",
+          "text": "还好你拦下了文森特，阿黛拉！否则我们不一定来得及追上他……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "罗西教授",
+          "text": "对，多亏您反应快，阿黛拉小姐。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "面对意料外的感谢，阿黛拉只能挠挠头，试图把话题抛回仍在胡言乱语的司机身上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "他这是怎么了？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "西莉亚",
+          "text": "说来话长……最近几个星期，文森特的精神状况一直都不太好。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "西莉亚",
+          "text": "他今天迟迟没有露面，我们就去了他的公寓找他。门没锁，推门进去，到处都是一片狼藉……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "罗西教授",
+          "text": "唉，可怜的孩子。说到底，都是我的错，也许是我给了他太大压力。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "男子抢过西莉亚的话，摇了摇头，一脸自责。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "罗西教授",
+          "text": "不该再耽误大家的时间了。西莉亚，你和这位小姐去吃饭吧。我会处理好文森特的事。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "西莉亚",
+          "text": "这……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "罗西教授",
+          "text": "去吧，别忘了明天的调研要准时到场。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "年轻的女学生看了看一旁的阿黛拉，最终选择接受老师的好意。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一行人将那位可怜的年轻人搀扶走后，围观的人群渐渐散去，夜色正恰如其分地到来。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "西莉亚",
+          "text": "阿黛拉，你的车还好吗？罗西教授会承担赔偿的，别太担心。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "车没事，也就前面剐蹭了些。只是把我们吓着了——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "啊，西莉亚，稍等！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "刚才的一连串事情搅得阿黛拉脑袋发晕。她终于回过神，跑向停在不远处的标致201。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "我都忘了，费利西安还在车上！我得先把她送回酒店。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "等了这么久，这下她又要生气了……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "费利西安小姐，费利——咦？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "车里空空如也，副驾驶上的乘客不见踪影，取而代之的是车窗上多出的一行鲜红文字。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "先走了，明天和平街见。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "……这不会是用口红写的吧！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "阿黛拉掏出手帕试图清理车窗上的留言，遗憾的是效果并不明显。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "和抢方向盘的事一起算上，明天我一定要向她要清理费！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "西莉亚",
+          "text": "怎么了，阿黛拉？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "好友也走了过来，站在车窗边，好奇地探头向里张望。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "阿黛拉摆摆手，不想让这小小的插曲影响期待已久的晚餐。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "没什么，我们走吧！去老地方，塞纳河边的那家餐厅？还是你想换换新口味？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "你不是总和我说学校那边的餐馆早都吃腻了吗，难得见面，这顿饭听你的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "西莉亚",
+          "text": "听我的？那……干脆回家简单做点菜好啦。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她愉快地掰着手指，报出一连串菜单。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "西莉亚",
+          "text": "洋葱汤、奶酪锅和焗土豆——还有我刚买的苹果酒，怎么样？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "西莉亚",
+          "text": "前几天我回家取资料，本来想顺带着找你帮忙收拾收拾的。但你不在，我只有一个人把整个屋子整理好了，连露台都打扫干净了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "那不是正好吗？上车！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "二人一拍即合，默契地绕到了标致201的两侧，几乎是同时拉开了车门。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "——坐稳，我们出发！"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

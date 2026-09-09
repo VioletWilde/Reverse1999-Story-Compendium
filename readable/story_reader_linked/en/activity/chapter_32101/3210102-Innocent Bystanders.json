@@ -1,0 +1,563 @@
+{
+  "episode_id": 3210102,
+  "chapter_id": 32101,
+  "chapter_title": "A Flowing Feast",
+  "display_label": "",
+  "title": "Innocent Bystanders",
+  "subtitle": "Deny involvement all you like, you're still in the thick of it.",
+  "trails": [
+    {
+      "element_id": 3210302,
+      "owner_episode_id": 3210102,
+      "trigger_episode_id": null,
+      "title": "Under the Mask",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=3210102",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A masquerade ball is taking place in Montmartre. It lacks a clear theme, but a mask is required for entry. So you pick up:"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "A polished silver mask with a polite smile",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "Everyone must appear proper."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "A rough wooden mask carved with totem motifs",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "A mask can be \"natural\" too."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "An enamel mask adorned with multicolored feathers",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "Beauty is always compelling."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "A lifelike paper mask painted to match your face",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "Pretend, for now, that you are still yourself."
+            }
+          ]
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 3210502,
+      "owner_episode_id": 3210102,
+      "trigger_episode_id": null,
+      "title": "Under the Mask",
+      "description": "",
+      "action": "",
+      "unlock_condition": "ChapterMapElement=3210302",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A masquerade ball is taking place in Montmartre. It lacks a clear theme, but a mask is required for entry. So you pick up:"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "A polished silver mask with a polite smile",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "Everyone must appear proper."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "A rough wooden mask carved with totem motifs",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "A mask can be \"natural\" too."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "An enamel mask adorned with multicolored feathers",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "Beauty is always compelling."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "A lifelike paper mask painted to match your face",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "Pretend, for now, that you are still yourself."
+            }
+          ]
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "203202",
+      "internal_title": "【3.2】迁流的盛宴02",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "Police Officer",
+          "text": "Please, follow the officer outside and leave your contact details before you go."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The shocked crowd file out like penned sheep, bleating and chattering with each step."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Participant I",
+          "text": "I doubt I'll get any sleep tonight after that sight."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Participant II",
+          "text": "I told you we shouldn't have come! Nothing good ever comes of fortune-telling!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Participant III",
+          "text": "What could explain all that? Hysteria? A disease, perhaps?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Participant I",
+          "text": "It's possible. You know, Fabio and Franco told me their neighbor started ranting about fighting alongside Cardinal Richelieu. Next thing you know, the man's leapt out the window riding a broom. Still in the hospital, I hear."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Participant II",
+          "text": "But remember what she said earlier? Maybe what she saw was her own killer."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Participant I",
+          "text": "You mean the Beasts of Gévaudan?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Fear, and a trace of hidden excitement, creeps onto every guest's face. The century-old legend casts its terrifying shadow once again."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Police Officer",
+          "text": "Ladies and gentlemen!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Police Officer",
+          "text": "We will begin our investigation immediately. In the meantime, we ask that you not spread any rumors. There's no cause for panic as of now."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The murmurs fade but the officer's words have done little to calm them."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The crowd disperses, leaving behind a few key witnesses."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "This isn't going to get pinned on me, is it? I didn't even touch her! You'll testify for me, won't you, Félicienne?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Félicienne?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Adèle turns back to find her employer pacing around the corpse, eyes gleaming with curiosity."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Félicienne",
+          "text": "Our so-called prophet failed to see her own demise. Well, if this isn't an interesting twist ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "What are you doing? Get over here before they scold you for disturbing a crime scene!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She sighs inwardly at her employer's whims, relieved the nearby officer isn't paying attention."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Police Officer",
+          "text": "Ah, not these Beasts of Gévaudan again."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Again? What do you mean, Benjamin?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She's fortunate to have found a familiar face among the arriving officers."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Police Officer",
+          "text": "*sigh* It's just a rumor and a wild one at that. Yet somehow, it's spread to every corner of Paris!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Police Officer",
+          "text": "There have been a number of sightings of these so-called \"beasts,\" but by the time we arrive at the scene, there isn't so much as a trace left of them—not even a hair!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Police Officer",
+          "text": "The whole world's gone mad. Street crime is on the rise, and the last case we asked you for help with identification on? Well, that was completely ... *sigh*"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He presses his hand to his temple, giving it a soft rub."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Police Officer",
+          "text": "As if we don't have enough to deal with! Half the city's on strike, and every day there's some new trouble, whether from the factories or out on the streets!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Police Officer",
+          "text": "I envy you, Adèle. How simple it must be to sit behind a wheel all day and show visitors around."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Oh, well, it comes with its own set of problems."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Adèle glances toward Félicienne. She seems to have lost interest in the corpse and is now intent on examining a chair in the corner."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Police Officer",
+          "text": "Heh. Knew you'd say that."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The officer pulls out a notebook and pen. When he looks up again, he adopts his best attempt at a professional tone."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Police Officer",
+          "text": "Let's get on with it. There are some questions we need you to answer. You know how these things go."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Police Officer",
+          "text": "I trust you know this is strictly procedure. You were the person closest to the victim at the time of death. So please, Adèle, answer with care."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Go ahead. Ask away, officer."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The evidence has been cleared away. The coroner examines the body with visible concern. The diviner's death is gruesome indeed."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Police Officer",
+          "text": "Blue lips, dilated pupils, clenched fists, and a stiffened spine ... The coroner will have his say, I'm sure, but it looks like extreme shock to me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Extreme shock? But ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Police Officer",
+          "text": "What were the circumstances of the event? Anything unusual?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "The madame offered to read my fate, but halfway through, she started acting strange, staring at me and mumbling things."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "She said something about a beast and then collapsed to the floor."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Police Officer",
+          "text": "So, she was reading your fortune, saw a Beast of Gévaudan, and it what? Scared her to death?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "It sounds ridiculous, I know, Benjamin, but it's what I saw."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "They exchange a glance."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The officer's pen hesitates, weighing how much of the madness is worth writing down."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Finally, he closes the notebook with a resigned look."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Police Officer",
+          "text": "Okay. Thanks for your help, Adèle. I suppose it's about time we tied all these cases concerning the beasts together."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Police Officer",
+          "text": "But it's strange, no? How could creatures from a folktale more than a century old be doing all this here and now?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Police Officer",
+          "text": "This has to be more than a passing fad. Paris—hell, the entire country—has been gripped by all sorts of rumors. The streets are growing more volatile by the day."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "You're right. There are always people who will try to take advantage of these situations."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Like this poor fortune-teller. I bet she heard some tales about my family and thought she could scam me with a sensational prophecy about my not-so-rosy fate."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Police Officer",
+          "text": "\"Doomed to die on a quest for hidden jewels.\" Seems the madame didn't know that you're the furthest thing from a treasure hunter."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Police Officer",
+          "text": "It's hardly a secret that the Taverniers have a habit of meeting an unfortunate end."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Far from it. Which is why I didn't believe her for a moment. The Tavernier Curse? Please, it's just a story made up to dramatize the legends of my ancestors."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "From my great-great-great-great-great-great-grandfather, who died after bringing the French Blue from India,"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "down to my great-grandfather, who died chasing jewelry stolen from France during the Revolution."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Call it a curse, if you like—a mystical power, fate, coincidence—whatever the words, the plain and dull truth is that hunting jewels is a dangerous line of work, no?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Police Officer",
+          "text": "That it is. While we're on the topic, how are your parents doing? I recall you said they were still in the family business."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Out on some quest again. I couldn't even hazard a guess as to where they are now; they move around so often."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "But they have sent letters. Living life to the fullest, as far as I can tell."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The officer exhales in relief."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Police Officer",
+          "text": "*relieved sigh* Glad to hear it. Maybe I should envy them instead. Traveling the world like that ... Much better than being stuck in a police station."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Police Officer",
+          "text": "And you? Don't you ever think of joining them on the hunt?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "My parents and I are different, to say the least. I don't share their obsession with shiny stones."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "A simple, comfortable life—that's all I want. No glittering ambitions, no fancy things, just a job that pays the bills, fills my belly, and lets me get a good night's sleep at the end of the day. Why anyone would want to think so hard every day is beyond me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "In fact, this job was the first thing I saw when I opened the advertisements page. \"Why not?\" I thought. \"Suits me better than treasure-seeking ever will.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Police Officer",
+          "text": "Hahaha. I would expect nothing less."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He nods and slips the notebook back into his pocket."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Police Officer",
+          "text": "Good! I believe we have all we need from you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Police Officer",
+          "text": "Please, don't worry, Adèle. I see neither motive nor means for you to do her harm. You're all clear."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Police Officer",
+          "text": "But we'll get in touch if we need anything else. Oh, forgive me—another question. Was there anything else that seemed suspicious? Anything that stood out to you?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "No, nothing really."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Oh, wait!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "There was a woman. I don't know if she's involved, but there was something odd about her."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "It happened so fast, but still, while everyone else was too stunned to do anything, she sat there and smiled."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Police Officer",
+          "text": "She smiled? Do you recall what this woman looked like?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Adèle recounts the events as they happened. After hearing her out, the officer's professional demeanor cracks a little."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Police Officer",
+          "text": "Hah, that's Madame Beryl Bouanich. Couldn't be anyone else! Owns a crystal parlor on Rue de la Paix. She's a diviner, too."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Police Officer",
+          "text": "She's the one who reported the case to us. Our officers have already spoken with her."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "She reported the case?"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

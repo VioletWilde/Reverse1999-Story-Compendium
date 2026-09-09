@@ -1,0 +1,543 @@
+{
+  "episode_id": 3210107,
+  "chapter_id": 32101,
+  "chapter_title": "A Flowing Feast",
+  "display_label": "",
+  "title": "\"Sweet Dreams\"",
+  "subtitle": "Yes, it's your turn now.",
+  "trails": [
+    {
+      "element_id": 3210202,
+      "owner_episode_id": 3210107,
+      "trigger_episode_id": null,
+      "title": "Witness Report",
+      "description": "An unremarkable witness report. All rumors, whispers, and tales—every passerby keeps a few in their pockets.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=3210107",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "Exotic Mask"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A homeless man claims he saw someone in a blind alley wearing a crab mask. The person appeared well-dressed, not like someone living on the streets. The animated expression on the mask could change, as though the shell itself were the person's real face."
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 3210305,
+      "owner_episode_id": 3210107,
+      "trigger_episode_id": null,
+      "title": "Voices in Debate",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=3210107",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "You're just about to enjoy your Mont Blanc and a rich cup of coffee when the argument at the next table gets louder. They're bothering you, sure, but one person's view does strike you as the more reasonable one:"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "\"Those who withdraw from society are running from their responsibilities.\"",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "Not much different from exile."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "\"There is no evil, only good that society has yet to recognize.\"",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "Standards are always shifting."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "\"A lover is the part of yourself that got lost among humankind.\"",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "Ah, the romantic flair."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "\"One must realize they were whole from the very beginning.\"",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "So what are we even chasing."
+            }
+          ]
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 3210505,
+      "owner_episode_id": 3210107,
+      "trigger_episode_id": null,
+      "title": "Voices in Debate",
+      "description": "",
+      "action": "",
+      "unlock_condition": "ChapterMapElement=3210305",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "You're just about to enjoy your Mont Blanc and a rich cup of coffee when the argument at the next table gets louder. They're bothering you, sure, but one person's view does strike you as the more reasonable one:"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "\"Those who withdraw from society are running from their responsibilities.\"",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "Not much different from exile."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "\"There is no evil, only good that society has yet to recognize.\"",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "Standards are always shifting."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "\"A lover is the part of yourself that got lost among humankind.\"",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "Ah, the romantic flair."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "\"One must realize they were whole from the very beginning.\"",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "So what are we even chasing."
+            }
+          ]
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "203210",
+      "internal_title": "【3.2】迁流的盛宴07.1",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Are you alright?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her friend nods, catching her breath. But Adèle cannot help but notice how pale she is—far too pale—beneath the yellowy glow of the street lamps."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Good. I knew you were tougher than that."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Adèle exhales, leaning toward the window to see the shadows fade behind them into the night."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Hah. Even with twice the legs, they still couldn't outrun us."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Er, Mr. Vincent, yes? We bumped into each other yesterday, remember?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "I appreciate the help. You came just in time! But shouldn't you still be in a hospital bed?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vincent",
+          "text": "There is no \"impossible\" in French. I was back on my feet in no time!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The driver lets out two short, rough laughs and slams on the accelerator again."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Bravo, sir. Glad to see you're doing well."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "Adèle ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her friend pats Adèle's shoulder, but she doesn't notice."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Did you notice anyone waiting outside the café earlier, Vincent?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Vincent",
+          "text": "No."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "Adèle, please. Something feels wrong."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Adèle squeezes her hand, leaning forward, closer to the driver's seat."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Those lipstick marks on your passenger window. Rude, wouldn't you say?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "People really need to learn where to put their lipstick these days, huh? Funny that you got the same message, in the same spot, with the same smudges!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "But I wiped it off yesterday. And how did it get here? Where did you get this car?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Or is this even real? Am I in a dream?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "You're speaking nonsense, Adèle. How could this not be real? Have you been sleeping alright?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Enough, Cici! You're just a part of this nightmare like everything else!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Célia's eyes go wide. She's looking weaker by the moment, like a candle burning out the last of its wick."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "Ah."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The car isn't moving forward or backward now. It seems to simply hang suspended in darkness."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her dragon climbs up the seatback and leaps onto Adèle's shoulder."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "By   fire,   what   is   false   is   purged."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Under the flame's glare, the beast's fangs rip through the man's human shell."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "\"Vincent\"",
+          "text": "...!"
+        }
+      ]
+    },
+    {
+      "script_id": "203211",
+      "internal_title": "【3.2】迁流的盛宴07.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The beast that once was \"Vincent\" leaps out the window, his twisted form swallowed up by the abyssal night."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Adèle's stomach twists. In the dark, she imagines fur, fangs—something larger, hungrier—draining blood from a fallen body."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "It had waited, starving, until now."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "Adèle? Adèle! Adèle!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "You—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Before she can react, her dragon's tail coils around Célia's arm. The flame flares for a heartbeat—no longer."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "You're really—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Célia seizes her hand."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "Listen to me, Adèle! I remember now. I know the truth about the Beasts of Gévaudan—"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "Manus Vindictae cracked open the Archive of Imagery! That's what's been causing all the disappearances and madness! They're trying to destroy Paris!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "Don't trust Roseau, and don't come looking for me! Take this."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Something cold drops into Adèle's palm."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She looks down, instantly recognizing the diamond now hanging from the necklace."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A brilliance like that could never be matched. It was a legend, one that should be far beyond her reach."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "What? Is this the French Blue?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "But surely this isn't the real thing."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Yet everything she knows about her ancestral trade screams at her. It's inarguable. This jewel is authentic. But it's too sudden. Who would ever believe a treasure like that could just fall into their hands?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "Just take it! There's so much more I want to say, but just remember this: the Archive of Imagery must stay closed!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Célia forces Adèle's palm closed around it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Célia",
+          "text": "Destroy the stone."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Célia!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "—From   darkness,   light."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The heavy darkness in her mind lifts. Adèle looks around, her temples throbbing."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Ugh. Where am I?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "Take a deep breath."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Soft couch, bright crystal lamp, gentle scent of incense, a diamond in her hand.\nEverything exactly as it was before the cleansing ritual."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Even Beryl, sitting opposite, looks down at her from the very same pose she had been in before Adèle closed her eyes."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Was that ... Was I dreaming?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "Not quite. You plunged into the depths of your mind and uncovered the shadow lurking within."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "I saw them—the Beasts of Gévaudan at the Café de Flore."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "So, did we cast the beasts out of my mind, then?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She freezes."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The diamond in her hand. It had been a smoky quartz, but now ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Damn, this isn't the crystal I chose! This is the one Célia gave me in the dream."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "The French Blue ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "But how is this possible?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Adèle",
+          "text": "Am I still asleep? Is this part of the dream too?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She hears her own voice trembling.\nInstinctively, she looks toward Beryl—the only one left who might be able to help her."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "But a glimmer of genuine confusion passes over Beryl's face."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "You must be confused. There was no other crystal."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Beryl",
+          "text": "That gem was already in your hand when you came in."
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

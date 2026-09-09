@@ -1,0 +1,331 @@
+# False Accusations
+
+- Chapter: Tristes Tropiques (`108`)
+- Episode: `10807`
+
+> Subtitle: Considering your past actions, we hereby conclude and pronounce you ... guilty.
+
+## Transcript
+
+### `第八章8-07.1` (script `100809`)
+
+> 【Title card】False Accusations
+
+> 【Title card】Chapel of Our Lady of Sorrows
+
+A man in black lifts a fallen statue.
+
+**???**: I've never wanted to put São Paulo through this chaos.
+
+He shields the faint flame in his hand, reigniting the candles one by one.
+
+**???**: Order, peace, unity—those are my purposes.
+
+**???**: Much has been wagered here, Marcando, much. Now, it has been lost.
+
+**Marcando**: Your Reverence, it was Zeno. Those animals! We'll make them pay for what they did!
+
+**Marcando**: Is that why you've decided to grace us with your presence, Your Reverence?
+
+**Marcando**: There is a lot to do if we're going to recover the ground, we—I've lost, Your Reverence. And there's something more, a new doctor down at the Veterans' Residence.
+
+**Marcando**: Some blind woman. I would not bother you with it, Lord Santos. Except that she's been helping people in the favela and it is swaying them towards Zeno.
+
+**Santos**: Then this doctor is with Zeno?
+
+**Marcando**: She must be. She's always at the Veterans' Residence—spends most of the day with those old war dogs.
+
+His expression is tense as he mops the sweat from his forehead.
+
+**Santos**: A doctor gaining the trust of the people in the favela? She'd make quite the prize, wouldn't you say, Marcando?
+
+**Santos**: A much more valuable bargaining chip to Zeno than a few deserters.
+
+Marcando understands perfectly. In São Paulo, kidnappings are as common as bread.
+
+**Santos**: You will see this task through, Marcando. But before that ...
+
+**Santos**: We need to pay a visit to the favela. I've brought us some new blood.
+
+> 【Title card】Favela
+
+**Mr. Duncan**: See? Just like this. Wrap the wire around it—better do it twice—and align the red and black, slowly.
+
+He delicately connects the copper wires and the current buzzes to life.
+
+**Sotheby**: Unbelievable!
+
+**Mr. Duncan**: It's science, kids. Nothing unbelievable about it.
+
+All fixed, he hands the communicator back to Lopera.
+
+**Lopera**: I don't know how to thank you, Duncan!
+
+She straightens the antenna, adjusts the channel, and hurriedly contacts the base to report the situation.
+
+> 【Title card】Igor's Office
+
+**Moldir**: Admiral, Lopera just called in.
+
+**Admiral Igor**: Put her through.
+
+**Moldir**: Lopera, it's me. What happened?
+
+**Lopera**: Our ship was sunk. Ms. Sotheby and I washed ashore near the favelas.
+
+**Lopera**: As for the Timekeeper, she went overboard. We lost sight of her in the commotion. Her current status is unknown.
+
+**Moldir**: ...?!
+
+The admiral remains expressionless. He raises a finger, signaling Moldir to inquire further.
+
+**Moldir**: We'll send people to find her and escort her to the Veterans' Residence.
+
+**Lopera**: Additionally, Lieutenant, I have some fresh recruits eager to enroll with Zeno. But they will need the admiral's assurances that their families will be under our protection.
+
+Moldir looks at the admiral.
+
+He nods in agreement.
+
+**Moldir**: They have it. What's their ETA?
+
+**Lopera**: They'll leave at once.
+
+**Moldir**: Pera ...
+
+**Moldir**: *sigh* That little hothead.
+
+**Moldir**: Sir, your orders?
+
+**Admiral Igor**: Leave the matter to me, Moldir. I will send someone to take care of this.
+
+Moldir falls silent as she looks at her aging father, concern in her eyes.
+
+Silence spreads between father and daughter as the admiral focuses on the dice in his hand.
+
+**Galeno**: What did the admiral say?
+
+**Lopera**: He agreed!
+
+**Galeno**: Did you hear that? Zeno will protect us!
+
+Good news indeed. The young man claps his hands in excitement.
+
+But just as the celebration starts, it is cut abruptly short.
+
+**Lopera**: I have no doubt. They were working for the Brotherhood.
+
+**Mr. Duncan**: The Apostles Brotherhood? They've bounced back quicker than I'd hoped.
+
+**Mr. Duncan**: Still, we'll need to be cautious. Figure out just what they're after.
+
+**Lopera**: That guy looks familiar.
+
+It's the stranger she met on the ship—he's walking among the Brotherhood.
+
+**Lopera**: That's him! He was on the ship with me.
+
+He walks toward the crowd, passing out food and other useful items to those he passes.
+
+**Santos**: The Brotherhood has experienced a setback, yes—as all great causes do! But we will rise again, for we serve the one true purpose.
+
+**Santos**: Hear me now, brothers and sisters, fellow arcanists!
+
+**Santos**: Our days of anguish and deprivation are over. The Sufferer will walk among us once more, and we will bask in THEIR divine grace.
+
+**Santos**: The day of triumph draws near. Soon, our wagers will pay off. All will reap what we have sown! You only need stand with us.
+
+**Santos**: And take THEIR blessings. In return for this, THEY ask only for your unwavering allegiance.
+
+He pulls paper bills from his suitcase and throws them into the crowd.
+
+Yet the crowd remains still in their confusion.
+
+**Santos**: My brothers and sisters. Speak. What do you seek?
+
+No one answers him.
+
+**Resident of the Favela**: Sir, please, we only want to see our family again.
+
+**Resident of the Favela**: Since they've joined the Brotherhood, we've had no word. We haven't seen or heard from them at all.
+
+Nothing is more important than family.
+
+**Santos**: Ah, but you will see them again soon. I tell you that they are even now faithfully serving our kind in a new land of prosperity.
+
+**Santos**: They're in Ushuaia, in Antarctica, in all places where the past and the future converge.
+
+**Santos**: There will be no more poverty! No more hatred! No more chaos! We shall reclaim what's rightfully ours!
+
+**Santos**: Remember this: Humans are vile and sinful creatures. They tortured our men and women, leaving our children to cry in hunger and desperation.
+
+**Santos**: But they've already played their hand, all their reason, their science, and their despicable organizations. They raised these rotten edifices to weaken us and leech off of our misfortunes, to blind us from our true purpose.
+
+**Santos**: But no longer! Soon, their games will be over, and every injustice and oppression they've held over our people will be returned tenfold! All that they've built will crumble down over their heads!
+
+The crowd whispers in hushed tones, afraid to speak any louder.
+
+Hiding nearby, Duncan quietly leans over to Lopera and whispers a few words before handing her a rabbit patch.
+
+**Santos**: Tell me, my fellow brothers and sisters, what is evil?
+
+No one answers. The murmurs of the crowd quickly fade, creating a heady silence. A few crows fly low overhead.
+
+**Santos**: Evil is the absence of good.
+
+**Santos**: And to find what is good ...
+
+**Santos**: ... is to follow our path!
+
+**Santos**: The High One has promised us strength and glory!
+
+Two followers carry a box, emanating a sinister aura over to him.
+
+He opens it, revealing the blessings of the Sufferer for all to see.
+
+**Santos**: Come with me!
+
+He throws open his arms as he calls out once more, taking a step back in humble reverence to the Sufferer's glory.
+
+**Sotheby**: That's a Manus's mask!
+
+In that nightmare back in 1929, disaster struck because of the people who wore these masks. The memory is still vivid in Sotheby's mind.
+
+**Santos**: Sorrow will weaken you, and fear may seize your hearts!
+
+**Santos**: Instead, let faith be your guide! Those who take that leap shall find themselves lifted up upon the Apostles' wings.
+
+**Santos**: While those who hesitate will be scorched by the fires at their feet.
+
+**Santos**: I've said all that must be said. We'll meet again here, in three days' time.
+
+He leaves them with a "gracious and generous" deadline.
+
+**Sotheby**: Don't listen to him! He's a lunatic!
+
+The little lady bravely steps forward, fervently warning the crowd.
+
+**Marcando**: And just who are you?
+
+**Santos**: Marcando.
+
+Santos quickly stops his subordinate.
+
+**Santos**: As students of the Truth, we have been granted a much stronger weapon than violence.
+
+**Mr. Duncan**: Lopera, follow my lead.
+
+He stands beside Sotheby, taking her hand in his.
+
+**Mr. Duncan**: Sir, please forgive her. She has mistaken you for those pirates on the Tietê River.
+
+**Santos**: So, just a misunderstanding, then? I'm no lunatic, after all?
+
+**Mr. Duncan**: Yes, Your Reverence. She came across a terrible raid on her way here, you see. The poor girl was left terrified.
+
+**Santos**: Well, I'll need more than a few words to convince my friends we have not been insulted.
+
+Loyalty without tribute cannot be trusted.
+
+**Mr. Duncan**: I-I'm an old man with nothing to give you but the truth! Believe me, sir! I-I came all this way just for you! I want to join the Brotherhood!
+
+His words surprise everyone. Those who know Duncan are shocked, and those who don't are confused.
+
+**Mr. Duncan**: She didn't mean to offend any of the gentlemen here! Please, sir, she's only a kid.
+
+**Santos**: Of course. I try never to take offense at a sweet young lady. However, if I'm to believe you, I will need you to up your ante to prove you are worthy, sir.
+
+The old man kneels, just as he did when he played the role of "Karson" for Sotheby.
+
+**Mr. Duncan**: If that's what you need, Lord, allow me to sweeten the deal. See that guy over there? His name is Galeno. He's been recruiting for Zeno. He told me so himself!
+
+He turns and points at Galeno in the crowd.
+
+**Galeno**: Duncan?
+
+**Santos**: Bring the young man closer, Marcando.
+
+**Galeno**: Oof! Are you out of your mind? Don't touch me!
+
+He tries to flee, but the thugs rush at him on command.
+
+### `第八章8-07.2` (script `100810`)
+
+In the chaos of the battle, Lopera grabs Sotheby, and they hop onto a small wooden boat.
+
+**Lopera**: Let's go!
+
+Surrounded, Galeno finally stops his struggle when a knife is pressed to his throat.
+
+**Santos**: I admire your courage, but bravery alone won't protect you from harm. Tell me, son, is what he said the truth of it?
+
+**Galeno**: ...
+
+He turns his head, refusing to respond.
+
+**Santos**: Now, you'll give me the names of Zeno's new recruits. Who are they?
+
+A drop of blood falls from Galeno's neck as the cold blade of the knife presses into his skin.
+
+**Galeno**: Everyone! Every man and woman in this city that still has a shred of integrity!
+
+**Galeno**: Ah!
+
+Duncan punches Galeno squarely in the face, sending him reeling.
+
+**Mr. Duncan**: "Hahahaha! I'm not gonna harm you, kid. And if I ever do, remember that old Duncan must have his reasons and he'd never harm a friend intentionally."
+
+Galeno looks at him. He has that same old look on his face—determined, brave, and resolute.
+
+**Santos**: This young man has one day to think it through. He will give us his names.
+
+He sheathes his knife and hands Galeno over to his new companion.
+
+**Santos**: Or, he will give us his eyes and tongue as offerings. Mr. Duncan, let this task be set on you. Prove yourself worthy of our trust.
+
+**Mr. Duncan**: It will be my honor, Your Reverence.
+
+**Santos**: Marcando, you'll stay with them. Don't forget what I told you earlier.
+
+> 【Title card】TO BE CONTINUED…
+
+## Trail
+
+- **Who is the Savior?** (`element 1080701`)
+  - Unlock: `EpisodeFinish=807`
+
+  - **???**: This place was once known for its inexhaustible mines, the riches of its rainforests, and its brave and passionate people. But now, the first two are gone.
+
+  - **???**: Chaos and power struggles loom over the younger generation, while the rich and well-connected sit atop their piles of corpses and rubble and feast. Dining off golden plates with silver spoons, turning their noses up from the dogs at their feet.
+
+  - **???**: But that gold has lost its shine and their silver spoons have tarnished, everyone can see them for what they really are. So, what now? Either the people save themselves or turn their fate over to the hands of the so-called "savior." What would you do, if it were you?
+
+  - 【Choice】I'd save myself first.
+    - **???**: That's a smart choice. Now that the carnival's over, people have to deal with more than just their hangovers—they must figure out how to save their own skins.
+
+    - **???**: Most though will just run around like chickens with their heads cut off, begging for their pain to be taken away. But all they'll get is another morphine shot—nothing close to a real solution.
+
+    - **???**: Fear spreads like a disease. Until an entire generation is out on the streets, hoping to find anything that will lift them out of their misery.
+
+    - **???**: Who's asking the questions here, me or you? But fine, I'll clue you in a little about this "savior".
+
+    - **???**: I once met a kid from Buenos Aires who told me about the "hand of god" that gave them the World Cup. He saw it as proof there was a higher power, something men should follow and seek protection from.
+
+    - **???**: Maybe he had a point, I don't know. Maybe there's truly something greater out there, or maybe it's just what we mortals need to believe.
+
+    - **???**: These men from the Apostles Brotherhood used to be regular church-goers just like anybody else. But faced with an opportunity to rise above their own cruel realities, they all too readily turned away.
+
+    - **???**: They left their old altars and took communion with a new god. Will this new path save them? Is it worth all their efforts? I can't say.
+
+    - **???**: But you wanted to know if this 'savior' can save its own. Well, I guess you've got your answer now.
+
+    - 【Choice】Are we going to be alright?
+      - **???**: No need to start panicking just yet. Things are still under control. Your lady friend has stepped up to solve this mess, and the veteran knows what he's doing.
+
+      - **???**: This city is unlike any you've seen before. You must learn its secrets to survive—remember which street kids are from which alley and what intel they can be relied on for, learn the dates when the dealers bring their "medicine" into port, and figure out which water tanks hide the key to the local gang's safehouse.
+
+      - **???**: Don't look at me for answers. It's none of my business.
+
+
+
+  - 【Choice】So, why can't this "savior" save me?

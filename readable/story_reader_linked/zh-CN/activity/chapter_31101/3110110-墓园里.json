@@ -1,0 +1,181 @@
+{
+  "episode_id": 3110110,
+  "chapter_id": 31101,
+  "chapter_title": "长夜鸣笛",
+  "display_label": "",
+  "title": "墓园里",
+  "subtitle": "安眠吧，安眠吧，野树莓。\n请在你神秘的坟墓里安眠。",
+  "trails": [
+    {
+      "element_id": 3110107,
+      "owner_episode_id": 3110110,
+      "trigger_episode_id": null,
+      "title": "无主之“歌”",
+      "description": "是谁为午夜列车轻哼一首摇篮曲？",
+      "action": "交互",
+      "unlock_condition": "EpisodeFinish=3110110",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "“多瑙黎明号”传闻之二"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "三号车厢的乘客们，常向我倾诉他们的困扰——不是难吃的炖菜，也并非难耐的风雪夜，而是一种声音：一种能够穿透劣质隔板、渗入大脑皮质的哭声。这就仿佛列车自身拥有了生命，正一刻不停地向众人诉说这具身体在长久岁月里经受的全部伤痛。\n\n于是，今晚十一点五十一分，我来到了三号车厢，坐在窗边，静静等待“哭声”的到来。\n\n当时针与分针落于同一端，我听到了——那轻巧、纤细、难以言喻的韵律。声调起伏、回转，在特定频率上形成微不可察的共鸣。我想，那更像是一种……歌声，一种绝非喉舌所能发出的、原始的、纯粹的、自内心深处无意识流淌而出的歌。\n\n“歌声”——这个词一旦在脑海中成形，便勾起了我的某段记忆。在多瑙河流域，长久以来都流传着“灵性之歌”的故事。据说，那是人类所能想象到最美妙的旋律，它能穿越任何物理意义上的屏障，直达听者的意识深处。\n\n我所听到的这段旋律，难道正是传说中的“灵性之歌”，又或是，那位纤细敏感的前列车长赫尔曼先生，用他早已溃烂的声带，通过某种超自然力量发出的微弱呼救？\n\n就在这时，歌声毫无征兆地停了下来。\n\n车厢陷入了绝对的、彻底的死寂，仿佛整个“多瑙黎明号”及其腹中全部的活物与死物，都在屏息凝神，等待某根无形的指挥棒再度落下……抑或，等待被歌声暂时压制的某种生物……再度出现。\n\n——《UTTU》编辑：空心木"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 3110108,
+      "owner_episode_id": 3110110,
+      "trigger_episode_id": null,
+      "title": "血月的呼唤",
+      "description": "真正疯癫的另有其人。",
+      "action": "交互",
+      "unlock_condition": "EpisodeFinish=3110110",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "无名童谣"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "听——远处有风在呜咽，\n瞧——深红色的月亮正爬上夜幕，\n孩子呀，别在这儿多停留，\n别触碰带露水的莓果；\n因为那诱人的红色，\n早已融入了铁锈的气息。\n\n……\n\n听——风在林间穿梭，永无止息。\n瞧——血的使者游荡于此，身形缥缈，\n它们无心，无影，无形无状，\n只有血红色的嘴唇，血红色的眼睛，和血红色的尖牙，\n它们会用尖牙吮吸你小小的手指，\n如同吮吸熟透的莓果……"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "203113",
+      "internal_title": "【3.1】长夜鸣笛10.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "墓园里"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "我总是会做同样的梦。梦里的人从不变老，阳光永不消融。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "在梦里，我总能听见母亲的声音。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "母亲",
+          "text": "你的头发已经这么长啦，野树莓。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "母亲",
+          "text": "快坐起来，让我用木梳帮你梳顺……你的头发像我，但小尼古拉的头发像爸爸，总是卷到发根，梳都梳不开……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小野树莓",
+          "text": "好嘛，好嘛，妈妈！你一边梳，一边继续给我讲吧……“他们在血色的月光下复生……”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "母亲",
+          "text": "“他们在血色的月光下复生，永远游走在黑夜的阴影里……”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "母亲",
+          "text": "“他们的世界是自由的，没有死亡，也没有恐惧……”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "母亲",
+          "text": "“只需饮下鲜血，他们便将永世长存。”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小野树莓",
+          "text": "饮下鲜血，永世长存……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小野树莓",
+          "text": "真不错！那我呢，妈妈，我呢！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "母亲",
+          "text": "你啊……你是我们最最亲爱的野树莓，是家族里最年幼的血食怪之一。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "母亲",
+          "text": "春去秋来，你已在沉眠中度过了两百一十四年零四个月两天。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "母亲",
+          "text": "如今，绝望的人们正在战火与硝烟中呻吟。为此他们恳请你，睁开血红的双眼，再度回到人间……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小野树莓",
+          "text": "呼……嗯？那是……鲜血的味道……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小野树莓",
+          "text": "很好，血食怪野树莓终于从长长的梦里苏醒了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小野树莓",
+          "text": "难道有人欺负我的家人？妈妈别怕，我会狠狠地咬住那些坏人，吸他们的血——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "母亲",
+          "text": "呵呵，傻孩子。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "母亲",
+          "text": "没事的。你忘了吗？身为血食怪的亲族，我们是无惧……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "母亲",
+          "text": "死亡的……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "母亲",
+          "text": "跑！野树莓，快跑——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小野树莓",
+          "text": "妈妈……不，我不走……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "母亲",
+          "text": "跑啊——野树莓！"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

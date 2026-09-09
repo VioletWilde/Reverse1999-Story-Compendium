@@ -1,0 +1,852 @@
+{
+  "episode_id": 2510104,
+  "chapter_id": 25101,
+  "chapter_title": "Showdown in Chinatown",
+  "display_label": "",
+  "title": "Exorcism",
+  "subtitle": "Shh, the device is connected—It's calling your name.",
+  "trails": [
+    {
+      "element_id": 2510104,
+      "owner_episode_id": 2510104,
+      "trigger_episode_id": null,
+      "title": "Deleted Scene",
+      "description": "Good thing it wasn't live. We'll just cut this part out.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=2510104",
+      "content_hints": [
+        "fragment",
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "Live Tonight with Special Guests"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "\"Tonight's first guest is a brilliant young actress you've seen in C07 Part 1 and C07 Part 2. Now, she's returning for the upcoming C07 Part 3—though, honestly, why not just call them C08 and C09? Anyway, please welcome Qi Xing!\"\n\n…\n\n\"And then? You know what Noire said? She said, 'We're wrapping up, so we might as well use all the explosives!'\"\n\n\"So your reaction to the explosion wasn't just your stellar acting?\"\n\n\"I'd like to think some of it was! But that wide-eyed reaction when the explosion's shockwave hit me? That was definitely real.\"\n\n\"No more big fireworks for Part 3, I take it? You must have used them all up in the last one.\"\n\n\"Fifty-fifty.\"\n\n\"What's that?\"\n\n\"Fifty-fifty. Either this film ends the series with a bang or flops on its face because of its garbage excuse for an ending. It—\"\n\n\"Whoa, whoa, whoa! I think we're about to head into spoiler territory! Before Noire sues us, let's cut to commercial!\""
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 2510105,
+      "owner_episode_id": 2510104,
+      "trigger_episode_id": null,
+      "title": "Routine Check",
+      "description": "Alright, check your gear. If you're missing so much as a damn paperclip, speak up now.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=2510104",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Look at this mirror, dear. There's a sizable stain on it."
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "It's broken.",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Yes, it is. Maybe its owner meant to break it so that the stain would be thoroughly removed."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Now the stain is gone, and the owner has a collection of little mirrors. She must have accidentally left this one behind."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Look closer, dear. You can no longer see the part that has broken off, but you can see where it once was. Right there, a sizable stain."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "The owner thought the stain would be removed if she smashed the mirror. Now she has a collection of little mirrors, and the stain has gone into hiding."
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "Whose mirror is this?",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "A lady with great ambitions and an unconscious charm. A lady who wishes to make the rest of the world accept who she is, and has suggested that many others join her way of thinking."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "Her brother, on the contrary, hopes to be taken in. In his attempt to act like everyone else, he lost an arm in a duel."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "If you ask me, dear, I'd say they're very alike. Equally lonely."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "The brother and sister are a mirror image of each other. She's often repulsed by the sight of him, unable to reconcile herself with all that he reminds her of."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "Now, the brother has found his missing arm, along with his long-lost dignity. The surgery that the sister had been hoping would be done on this world has finally started. But all of a sudden, she's terrified of the incisions."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "As I said, despite their differences in approach, the brother and sister are mirror images of one another."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "But now the mirror is broken. I hope she can make it through the seven years of bad luck. Poor thing. There's no way around it."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "I don't see any stains.",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "202506",
+      "internal_title": "【2.5】唐人街影话04.1",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "Johnny Three-Times",
+          "text": "Stay back!! Help me! Help!!!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The City Hall has been plunged back into chaos. Johnny lets out a shriek, scrambling to get as far away as possible."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enraged Man",
+          "text": "Get away!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Young Police Officer",
+          "text": "Urgh!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He hurls the officer aside. Blood drips down his fingers from the thumb he broke to slip his hand out of his cuffs."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He moves with inhuman strength, fighting off the approaching officers with ease."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enraged Man",
+          "text": "Out of my way! I will kill you! I will kill you all!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "Damn it! Is this dude high or something?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "No, no. I don't think this is drugs."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "It's an arcane skill. I sense some kind of evil spirit."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "I think I can stop him, ma'am."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The tension between them has been totally forgotten. The situation is urgent. Poitier gives a sharp nod."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "Fine. Whatever it is, and whatever you think you can do, do it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "I will. This is my duty."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Liáng gives a firm nod before rushing toward the suspect."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enraged Man",
+          "text": "Kill ... I must kill this bastard."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enraged Man",
+          "text": "Who are you?!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "Please stay calm, sir. I have no weapon."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "I'm just here to make a phone call."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enraged Man",
+          "text": "What? A phone call?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "Yes."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "And you're going to make it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enraged Man",
+          "text": "Who are you dialing?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "You'll soon find out."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "Arise Qiángliáng, swift and fierce! Banish all evil and cleanse this place!"
+        }
+      ]
+    },
+    {
+      "script_id": "202507",
+      "internal_title": "【2.5】唐人街影话04.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "Enraged Man",
+          "text": "No! No! My head! Ugh!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Enraged Man",
+          "text": "I'm so sorry, Mama."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "With one last garbled whisper, the man collapses. The officers around him remain frozen, still too wary to approach."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Young Police Officer",
+          "text": "Should we cuff him?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "Allow me. But I believe we should bring him to the hospital to be checked over immediately."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Old Police Officer",
+          "text": "Think you can handle him? We got this conman to take care of."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She follows the older officer's gaze."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Not long ago, Johnny Three-Times was brimming with arrogance. Now, he is a crumpled heap on the floor. A dark stain has formed on the crotch of his pants."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "God, what a loser."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Poitier sneers, shaking her head as she turns away. She hesitates, then shifts her gaze to Liáng."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "So, uh, y-you know what I'm about to say, right?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "...?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Liáng looks visibly confused, although more understandably this time."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "Okay. I'm sorry. Is that what you want? For me to say it? Sorry."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "I felt bad for that guy, but there was nothing we could do for him while he was possessed. If it weren't for you, we might've shot him."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "Well done, Vigil Liáng. And please just forget what I said. I was out of line."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The moment her apology ends, she turns her head, unwilling to see Liáng's reaction. But after a long pause, there is no response."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "Say something."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She looks back to see Liáng frozen in surprise."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "Oh, right, I ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "It's okay. I didn't take it to heart."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "Ahem. Good."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Heh heh."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "Who's there?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A stifled laugh hits their ears. Poitier springs back like a startled cat."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Sorry, I shouldn't eavesdrop. It's a bad habit."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "It's just you remind me of my friends back in the old days."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "You're the lady that tried to help us soothe him. Thank you for the help."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "It could have turned out much worse if you hadn't been there. Thank you again."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "That's too kind of you, young vigil. I just did what anyone should. Really, it was you and your partner that were the real heroes."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "You're too modest, ma'am. Actually, forgive me for asking."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "Haven't I seen your face before?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She studied the woman's face for quite some time before speaking this thought aloud."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "They haven't met in person, no, it was in some other way, but how? Where? She has barely begun forming the words when the woman gives her the answer."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Good to know that someone still remembers those old flicks, even after all these years."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The features of the face beneath the beret overlap with a face from Liáng's memory."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "But the face she remembers lacks the maturity and composure of the woman before her. That face was brimming with youthful confidence, full of fire and energy."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "But one thing has remained the same—those bright, shining eyes, like stars twinkling on silver screens and television sets."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "Yes, from the movies. That's right."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "You—You're ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Qi Xing",
+          "text": "Oops, you got me. I'm Qí Xīng, or were you hoping I'd say Detective C07?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She winks at the two dumbfounded officers."
+        },
+        {
+          "kind": "title_card",
+          "text": "Hospital"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ER Doctor",
+          "text": "Our full report will take some time. You'll need to wait for now."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "Thank you, doctor."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "Our perp had his ID with him. That saves us a lot of digging. Eric Wong, 43, runs a grocery store in Chinatown."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "Let's see. The only family member we've got is his wife, a Lilian Lau, who immigrated to the States 10 years ago. Both have no criminal record, totally clean."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "He's an arcanist, apparently, and a powerful one at that. But no reports of any prior misuse of arcanum."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "His car was found near the crime scene, all filled up with potatoes and carrots from the wholesalers. Either this was just a spur-of-the-moment whacko move or some bizarre attempt at a tuber-based alibi."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "Anyway. We've contacted his wife, and she should be here soon. Maybe we'll get some more clues from her."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "Yo, Liáng? You listening?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "Oh. Y-You're right."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The answer is obvious—No. Poitier takes a deep breath."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "Earth calling Liáng."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "Whoa!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The sudden shout snaps Liáng out of her daze."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "Officer Poitier, we're in a hospital. We should keep quiet."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "Hmph. I would have, but that didn't seem likely to bring you back to earth, space cadet."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "So, what's got you lost in space now?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "Um, I-I'm just thinking."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "About what?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "About Ms. Qí Xīng."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "Ha, right. I guess you're really into those movies, huh? It's all good, boo."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "I get the picture now. Our little C07 fan sneaking into the cinema behind her parents' back. You know, you're beginning to almost seem human, princess."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "At first, I thought you might be an android, like those Laplace bots that they've got writing parking tickets for us."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "I ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Liáng looks as if she wants to argue, but at the last moment, she stops herself."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "In fact, I do like Ms. Qí Xīng's C07 movies very much. Her character means a lot to me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "Oh. Is that the reason why you decided to be a vigil?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "Specifically, yes. It's the reason I decided my destiny was to be in the police."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "But back to the topic. I was thinking about Ms. Qí Xīng, but it wasn't because I like her or anything like that."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She shakes her head, her gaze sharpening, her brows furrowed slightly."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "It's just that ... her being here made me think about Nightpiercer. Ms. Qí Xīng has a similar arcane skill to the one he appears to use. She called it Silver Needle. She even performed it in her movies."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "Could that really just be a coincidence?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "Huh?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The officer knits her brow as if she's just been hit with a bad joke. But Liáng, deep in thought, continues."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "And what she said felt meaningful, in some way."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "One hour earlier"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "It's a great pleasure to meet you, Ms. Qí Xīng. I—I grew up watching your films."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "But what are you doing here in L.A.? Um, I mean, if it's okay to ask?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Qi Xing",
+          "text": "Sure, not a problem at all. I'm here to see an old friend."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Though she was once a star known across the nation, Qí Xīng speaks warmly and without airs. It's like she's chatting with an old friend."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "Is it Ms. Noire? I heard she's planning a new film."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Qi Xing",
+          "text": "Oh, so you heard the news? It's been a long time since I last saw her. You're right, though, kid. I've got something I need to talk to her about."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "Um, of course. That's great."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "Oh, and the Dùshuò Festival is coming soon. I hope you'll go to the Shèhuǒ Parade in Chinatown. It'd be so much fun to see you there."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "...?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The quiet, reserved Liáng has suddenly turned chatty. Poitier stares at her. She's like an entirely different person."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Qi Xing",
+          "text": "Shèhuǒ ... Is it really that time of year again?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "You don't like the parade?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Qi Xing",
+          "text": "Of course I do."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Qi Xing",
+          "text": "I like every bit of it—watching people eat, perform, and come together to celebrate the end of the year and to pray for peace and good luck in the next."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Qi Xing",
+          "text": "I like the pure and simple wish that the Shèhuǒ Parade carries."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Qi Xing",
+          "text": "But it always reminds me of the ending."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Poitier",
+          "text": "What ending?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Qí Xīng falls silent, shaking her head. But no more explanation is needed. Liáng's memories have come back to her."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "You mean the ending of the last film in the C07 series?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She must have guessed correctly. Qí Xīng's eyes widen a little. Then, she gives a small nod."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Qi Xing",
+          "text": "Yes."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Qi Xing",
+          "text": "I know lots of people like that ending. \"A reflection of reality,\" they say, \"Tragedy leaves people with a deeper impression than comedy.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Qi Xing",
+          "text": "But as for me, I hated it. The good guys failed, and the bad guys won? Ha. What kind of an ending is that?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Qi Xing",
+          "text": "Maybe we don't get a say in how things work in reality, but in stories we can. We should."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Qi Xing",
+          "text": "Reality itself is tragic enough already. Why should a movie remind us of how absurd things really are? \"What goes around comes around.\" That's what people want to see in the movies."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Her tone has turned unusually serious for a discussion about film, but these words strike a chord with Liáng."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "I-I agree with you. When I was little, I also didn't like how it ended."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "Maybe it's true that reality can't guarantee us true justice, but I still want to see justice being served, at least in fiction."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "This response seems to earn Qí Xīng's approval."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Qi Xing",
+          "text": "I feel the same way. Pardon me for asking."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Qi Xing",
+          "text": "That beast you summoned was something else. It reminded me of a certain creature, a legendary beast from the north of China."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Qi Xing",
+          "text": "\"Arise Qiángliáng, swift and fierce! Banish all evil and cleanse this place!\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Qi Xing",
+          "text": "That must make you a descendant of the Liáng family, right?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Something in Qí Xīng's gaze makes Liáng feel as though she's standing too close to an open flame. But even so, she answers truthfully."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Liang Yue",
+          "text": "Yes. I'm Liáng Yuè, from the Liáng family of the Twelve Zhènzǐ."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Qi Xing",
+          "text": "Liáng Yuè ... Liáng Yuè."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Qi Xing",
+          "text": "It's a good name, little vigil. I'll keep it in mind."
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}
