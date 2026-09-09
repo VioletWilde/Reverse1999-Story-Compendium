@@ -1,0 +1,766 @@
+{
+  "episode_id": 11024,
+  "chapter_id": 110,
+  "chapter_title": "復楽園",
+  "display_label": "",
+  "title": "川の向こう岸",
+  "subtitle": "別の渡し場で、テヴェレ川の小舟に乗りなさい。",
+  "trails": [
+    {
+      "element_id": 101024,
+      "owner_episode_id": 11024,
+      "trigger_episode_id": null,
+      "title": "もう一度呼吸を",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=11024",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "また溺れたな。もはや懐かしいくらいだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "落ち着け、まだ起き上がるな。横になったまま報告を聞け。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "前のが最後の報告だったんじゃ？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "まあ…"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "フッ、皮肉を返せるようになったか。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "よくやった、勇敢なる救世主。君は最後の最後で世界を救ったんだ。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "私にも、この結末は予想できなかったよ。これで満足か？　もう報告を始めてもいいかね？"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "忠実なる子犬が君の傷口を舐めているんだ。必死に君を起こそうとしている――もちろんただの比喩だが。君なら、これ以上説明しなくてもわかるだろう。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "だからまだ目を覚ましてはいけない。塩水が目に入ってしまうからな。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "雰囲気も一気に気まずくなるし、今は私の報告を聞いておけ。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "君がまたしても溺れたのは、泳げないからではない。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "必死に糸車を抱えていたせいだ。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "あれはただの糸車だ。たとえ金色の糸を紡げたとしても、君の手元にはすでに同じようなものが一台ある。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "２台になったところで効率は上がらない。原材料にも限りがあるし、作業できるのも君一人しかいないからな。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "解体するにしても、その木の部品は君の糸車には使えない。似ていても互換性があるとは限らんからな。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "糸車でも、動物でも、親と子でも、話は一緒だ。"
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "起きなきゃ",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "もう少し待て。子犬が君の帽子を取り戻そうとしている。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "思い浮かぶ限りの手当てを試し、最後に思いついた「治療法」がそれだったんだ。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "あれだけ天真爛漫で、迷信深い子はそういない。尊重してやれ。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "もちろん、君には安らぎを求める権利がある、尊き救世主よ。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "外の騒ぎなどいったん忘れて、リラックスするといい。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "ただ、眠りすぎには気をつけろ。子犬は必死に君の帽子を取り戻そうとしている。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "帰ってきてもまだ起きないようなら…彼女が何をしでかすか、予想もつかないぞ。"
+                }
+              ]
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "もういい、静かにして",
+              "edge_label": "",
+              "branch": []
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "頬がなんだか暖かい",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "101035",
+      "internal_title": "第十章10-23",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "川の向こう岸"
+        },
+        {
+          "kind": "title_card",
+          "text": "火山の神殿　祭壇"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ノーティカ",
+          "text": "き…消えた！？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "アルカナが消えたと同時に、神殿も再び震え出した。落ちてくる大きな石は、すべての生物の終焉を告げているようだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "わたしの世界が、「終焉を迎えようとしている」…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "タイムキーパー、儀式そのものは終わっていないようです――洪水はゆっくりと進行を続けています。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "おそらく…もう時間がありません。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ノーティカ",
+          "text": "ヴェルティ、ソネット、神殿が完全に崩れちゃうよ。早くここから出よう…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "ノーティカ、先に行って財団の部隊を探して。大型テレポート術陣が設置されてると思うから、それできみを一番近くの免疫エリアまで連れていってくれるはずだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ノーティカ",
+          "text": "で、でも、あなたは？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "世界がマヌス・ヴェンデッタの思い描く「空白」になるのを、見過ごすことはできない。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "神殿が完全に崩壊するまでには、まだ時間がある。まだ、試したいことがあるんだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "せっかくウルリッヒ班長が時間を作ってくれたんだし、ここで諦めるわけにはいかない。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "第一助手は小さくうなずいて、考え込んだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "ですが、神殿を破壊して、儀式の中心人物を倒して…思いつく限りの方法を、一通り試したはずですが、儀式は止まらないようです。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "何か考えがあるのですか？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "儀式が続いてるということは、一番の鍵となる存在はアルカナと一緒に消えたわけじゃないってこと。それはまだどこかで動いてるはずだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "ドクター・ドレスと儀式の関係性を考えると、彼女もおそらく「鍵」と一緒にいるはず。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "…祭壇の中心をもう一度見てくる。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ノーティカ",
+          "text": "で、でもあそこはもう水没してるし、あの水にも触れることはできないから…わたしの背中に乗ったほうが――"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "「地母神」の巨獣は前足をあげた。しかし翼は先ほどの戦闘で負傷し、伸ばすことができなかった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "大丈夫だよ、ノーティカ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "この洪水は「ストーム」の「水」と氷山が解けた水でできたものだから、両方の特性を併せ持ってる。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "でも、わたしは「ストーム」の影響を受けないんだ。だからわたしにとって――これはただの水でしかない。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "ほら。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "――！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "手を水に浸す。指先を流れる感触はあるが、無傷のまま、時間の痕跡すら残ることはなかった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "どうやら予想が当たったみたいだ。痛くないし、ちょっと冷たいだけで、何の異常も起きない。やっぱり、計画を試す価値はありそう。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "ソネット、ノーティカ、スーツケースをお願い。安全な場所でわたしを待っててくれると嬉しい。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "振り返り、水に入るための場所を探す。ふくらはぎが冷たい水に入った瞬間、思わず身体がぶるっと震えた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "タイムキーパー！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "後ろに立っていた第一助手はスーツケースを抱きしめながら、何か言いたそうにしていた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "ここは危ないよ、ソネット。行かないの？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "…私はあなたの助手です。どんなことがあろうと、あなたに従います。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "…あなたの帰りを待っています、タイムキーパー。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "水に飛び込む。いにしえの生物の骨格とがれきが、横を通りすぎてゆく。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "進む先は、すでに決まっていた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "記憶が正しければ、ドクター・ドレスが糸車を回すことで、儀式は始まった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ドクター・ドレス",
+          "text": "私が紡いだ糸が井戸の底に…なぜ？　糸たちの使命は、あの場へ流れ込むことじゃないはず…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ドクター・ドレス",
+          "text": "…糸車も止められない…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ドクター・ドレス",
+          "text": "ヴェルティ、早く逃げて――"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "ドクター・ドレスが糸車を回すことにより、儀式が始まった。そのあとも糸車は回り続けて、儀式は続いた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "なら、儀式を止めるにしても、ドクター・ドレスを見つけるにしても、糸車がその鍵になる。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "目を閉じ、自分の感覚に従う。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "目を開くと、揺れる金色の糸が再び目の前に現れた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "「糸」…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "ドクター・ドレスが、わたしを導いてる？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "糸について行こう…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "しかし糸が示す道は途方もなく長いようだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "っ…！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "激しい水流が視線を遮った。もう一度目を開くと、糸はすでにどこかへ行ってしまったあとだった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "水の流れが速くなってる。レグルスのロックも、そろそろ終わっちゃいそうだ…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "早く糸車を見つけないと…あの糸はどこに…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "……♪"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "懐かしい鼻歌が頭上から聞こえてきた。石に手を置いて水面から顔を出すと、目の前に探していた姿を見つけた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ドクター・ドレス",
+          "text": "……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "ドクター・ドレス！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ドクター・ドレス",
+          "text": "ヴェルティ、本当に来てくれたのね…！　やっぱり私の直感は間違っていなかった。あなたならここに来られると思ったわ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ドクター・ドレス",
+          "text": "この糸車が紡ぐ糸は井戸の底と繋がっていて、洪水を引き起こしたの。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ドクター・ドレス",
+          "text": "だから、儀式を止めるためには、糸車を止める必要があると思って。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "わたしの考えと一緒だ。少し待ってて、ドクター・ドレス――"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "さらに踏み込んだ判断を下そうとしたその時、盲目の女性の足元が目に入った。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "まるで最初から存在しなかったかのように、彼女の両足は消えていた。だから、糸車に手をつかないと立ち上がることもできなかったのだろう。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "その足…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ドクター・ドレス",
+          "text": "…意識を失ったときに、洪水に触れてしまったのかもしれないわ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ドクター・ドレス",
+          "text": "ごめんなさい、糸車をあなたのところに持っていこうとしたんだけど、水に触れるだけで身体が溶けて消えてしまって…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "…ううん。わたしが自分で行くから大丈夫。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ドクター・ドレス",
+          "text": "気をつけてね、この辺は水の流れが激しいの。何度か試したけど、全部失敗したわ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ドクター・ドレス",
+          "text": "だってここは――"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "盲目の女性の言葉は、下から聞こえる鋭い声にかき消された。洪水のなかから激しい波が湧き上がった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "白い波が回転しながら、徐々に底の見えない渦を形作る。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "これは…「ストームの目」！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ドクター・ドレス",
+          "text": "糸車がまた回り出すわ、ヴェルティ！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "盲目の女性は糸車を両手で持ち上げた。はずみ車は水流とともに、かすかに震えている。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "ドクター・ドレス、今行く…っ！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "掴んでいた岩から離れて進もうとしたが、再び激しい波の衝撃を受け、慌てて他の岩にしがみつき立ち止まるしかなかった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "なにか鋭いものが手のひらを切ったようだ。幸い極寒の洪水のなかでは、そこまではっきりと痛みを感じなかった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "けほ…けほけほ…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "手のひらに滲んだ血が、あっという間に水に流れされる。その渦は、無情にも拡大し続けていた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "はぁ、はぁ…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "…大丈夫、もう一度やってみる…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "２回目も、３回目も、４回目も…何度試しても波に流され、岩の近くに戻るしかなかった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "水の流れはさらに加速度を増してゆく。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ドクター・ドレス",
+          "text": "ヴェルティ…！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "心を決めたとばかりに、盲目の女性は裾を引き裂くと、布切れを使って回り続ける糸車を自分の体に固定した。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ドクター・ドレス",
+          "text": "待ってて、ヴェルティ。今、糸車を届けにいくわ！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "ドクター・ドレス！？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "盲目の女性は岸辺の岩を頼りに、震える両腕で自分を支えながら、速い流れに分け入った。彼女は水の冷たさに思わず身震いをしたが、それでも足を止めなかった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ドクター・ドレス",
+          "text": "っ…！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "あっという間に、洪水に浸かった彼女の半身が消え失せた。残っているのはかろうじて岩にしがみつきながら、進み続ける上半身だけ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "波が絶え間なく彼女のか細い体を叩く。しかし彼女は糸車と一緒に、波間で苦しげな抵抗を続けた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ドクター・ドレス",
+          "text": "ここまで来たら、いけそうね…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "ドクター・ドレス、もうやめて！　これ以上は――"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "縄よ、纏え。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "珍しくきちんと発動した神秘術が、波にさらわれないように自分の踝と岩を固定した。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "できるだけ体を傾けて、腕を伸ばす。数メートルしかないその距離は、ひどく遠く感じられた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "糸車はさらに激しく震える。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "耳には激しい水の音と渦の唸り声しか届かない。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ドクター・ドレス",
+          "text": "――ヴェルティ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ドクター・ドレス",
+          "text": "心配しないで、ヴェルティ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "盲目の女性の声が、波の音に混じって聞こえてきた。それは落ち着いた、優しい声だった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ドクター・ドレス",
+          "text": "また会えて嬉しかったわ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ドクター・ドレス",
+          "text": "よい旅を。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "――！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "盲目の女性はしがみついていた岩から離れ、激しい水の流れとともにこちらへと近づく。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "金色の糸車が水面で浮き沈みを繰り返す。水に触れている盲目の女性の体は、絶え間なく消失を続けていた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "糸車を受け取った！！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "わたしの手を掴んで、ドクター・ドレス！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ドクター・ドレス",
+          "text": "またね。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "ドクター・ドレス！！！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "糸車が止まると同時に、逆巻く波も徐々に収まる。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "雨の雫が一滴、水面から離れて空へと昇る。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "二滴、三滴…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "洪水は消え――"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "そして、「ストーム」が訪れた。"
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

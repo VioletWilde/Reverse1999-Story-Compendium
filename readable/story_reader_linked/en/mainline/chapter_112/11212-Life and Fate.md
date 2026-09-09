@@ -1,6 +1,6 @@
 # Life and Fate
 
-- Chapter: 远征记 (`112`)
+- Chapter: The Campaign's Tale (`112`)
 - Episode: `11212`
 
 > Subtitle: Reforge scythe and plow into sword's edge. Let iron learn to leave its sheath. Let our enemy know the taste of hunger.

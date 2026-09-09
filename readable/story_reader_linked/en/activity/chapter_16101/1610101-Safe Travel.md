@@ -1,6 +1,6 @@
 # Safe Travel
 
-- Chapter: Notes on Shuòrì (`16101`)
+- Chapter: Notes on Shuori (`16101`)
 - Episode: `1610101`
 
 > Subtitle: Farewell, mother. Leave your resentments behind. This is as far as it goes; no need for goodbyes.

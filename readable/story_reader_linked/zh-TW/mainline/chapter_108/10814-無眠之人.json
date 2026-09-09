@@ -1,0 +1,640 @@
+{
+  "episode_id": 10814,
+  "chapter_id": 108,
+  "chapter_title": "憂鬱的熱帶",
+  "display_label": "",
+  "title": "無眠之人",
+  "subtitle": "骰子已經擲出。",
+  "trails": [
+    {
+      "element_id": 1081401,
+      "owner_episode_id": 10814,
+      "trigger_episode_id": null,
+      "title": "牌桌禮儀",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=10814",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "一場賭局在你不熟悉的地方開始了。不久後，你也會收到上桌的邀請。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "說說情況",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "呵……你的要求越來越明確了。首先你得知道，大多數賭局都有這麼一條規矩：中途上桌的人不能問東問西，否則將飽受針對和排擠。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "直到他輸上好幾把，交夠了“學費”，才會有資格得到問題的答案——比如對家的身份地位，比如莊家的發牌習慣，比如肥魚的下注比例。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "有的時候我就無法理解這種行為，怎麼會有人千里迢迢過來，只為了輸掉自己的錢。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "為了勝利",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "這不是個問題，不過你回答了我，向你致謝。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "是的，沒有人不喜歡勝利。當骰子在空中旋轉，賭徒就開始尋找好運——移動桌角、輕咳兩聲，再閉上眼做一次虔誠的祈禱……以為自己能左右命運。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "愚蠢，愚蠢又迷信，還有點可憐。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "嘖，你好像被什麼絆住了腳，但那絕不是一顆抬起腳就會爆炸的地雷。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "有的人離開了這些漂亮的字眼就活不下去。他們本身無足輕重，但只要討論起這些字眼，他們就有種自己成了大人物的錯覺。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "虛偽，甚至自欺欺人。"
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "反正賭局很公平",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "不。賭本不對等、獲勝條件不一致，甚至連比骰子的規則都在被單方面定義。這裡的公平需要被爭取，不擇手段地爭取。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "那些身穿白色西裝的職業牌手們步步為營，靠著四處下注來盈利，而披著黑袍的瘋子們正考慮該怎麼將桌子掀翻。"
+                }
+              ]
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "聰明的對策",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "那不是聰明，那只是愚蠢到了極點，而顯得任何改變都是對的。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "掀桌之後只會有一團亂，沒有人會有耐心把桌子扶起來，陪對方再來一局。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "為了得救",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100820",
+      "internal_title": "第八章8-14",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "無眠之人"
+        },
+        {
+          "kind": "title_card",
+          "text": "伊戈爾辦公室"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "老將軍很少撥通芝諾總部的紅色電話。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "啊，伊戈爾！聖保羅情況怎麼樣？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "比預想中更糟糕。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "我帶了一些人，但不夠用。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "天使兄弟會跟重塑之手勾結，他們至少有一個頭目已經向重塑之手效忠。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "兄弟會？這種幫派在南美洲要多少有多少，就像栽在種植園裡的甘蔗，一批沒了還會冒出下一批。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "索姆同志，逃兵殺了自己的長官。\n卡洛斯在基地裡被他們殺了，而兄弟會收容了這些逃兵。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "索姆將軍",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "電話那端傳來了沉默。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "索姆將軍",
+          "text": "人都抓回來了嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "處決了一部分，剩下的等著移送總部審訊。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "索姆將軍",
+          "text": "很好。你需要什麼，同志？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "軍隊，可靠的軍隊。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "索姆將軍",
+          "text": "軍隊？但現在哪裡都需要人，恐怕……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "不用太多。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "把我的近衛團都調來聖保羅。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一支忠誠的軍隊，由他親自撫養長大的孩子們帶領，由這些生而加入芝諾的戰爭遺孤組成。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "至少讓托勒密從布宜諾斯艾利斯調過來。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "索姆將軍",
+          "text": "托勒密？噢，你的“孩子”……嗯，不錯的方案……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "沒什麼人比這些芝諾戰友的遺孤更忠誠。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "卡洛斯將軍就在這間辦公室裡被自己人打穿了腦袋。我必須有可信任的士兵。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "索姆將軍",
+          "text": "喔，偉大的伊戈爾也會怕死嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "長官被自己的士兵在自己的駐地裡殺死，傷害的是芝諾的榮譽。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "僅剩的這點榮譽，像是冬日的白樺樹葉。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "索姆將軍",
+          "text": "如果回應及時，很快你就會見到他們。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "接下來，只是時間問題……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "老將軍握著骰子，不斷拋起、接住，再拋起，再接住。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他得到同一句神諭，同一個答案，如同貝希斯敦銘文上的刻寫，永恆不滅。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "“他的心是個懸掛的琴，懸掛的琴……輕輕一撥……”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "古老的詩歌在老將軍的回憶中泛起。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "漆黑的訊息，不詳的預言，從他口中低聲吟唱……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "我看見，鷂鷹追趕鴿子，那遠射的太陽神的金弦勒緊，蓄勢待出。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "陰謀的木馬被迎入城牆，敬神的水池遍流鴿子血。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "啊，可他的心，和他那高山般驕傲的靈魂也深深地知曉……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他的城邦永存，他的高牆牢固，好像大地堅實的心靈。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "罪惡呵……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "骰子已經擲出……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "蒼白的大氅，死夜的陰翳把他籠罩。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "為了明天。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "所有人的明天……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "雨夜中唯一的答案。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德爾",
+          "text": "將軍——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "進來吧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德爾",
+          "text": "昨天司辰來了聯絡，報告德洛絲醫生被天使兄弟會綁架，現在她正和洛佩拉商討救援事宜。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "副官女士鬆了口氣，儘管醫生被綁架，但至少得到了司辰生命安全的消息。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德爾",
+          "text": "出逃的金伯利女郎也在司辰身邊，她自稱是被釋放的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "嗯，承認她的謊言吧，洛佩拉沒必要知道真相。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德爾",
+          "text": "請原諒，當時時間緊迫，我私自答應了她……對方要求我們拿洛佩拉抓回的俘虜換回醫生，如果再不做決定，他們恐怕就會……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "就會處決醫生。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "老將軍很清楚那些暴徒的做派。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "你怎麼安排的？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "副官女士很緊張——她越過將軍，私自做出了安排。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德爾",
+          "text": "我告訴她，芝諾的援軍會到榮軍院找她。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德爾",
+          "text": "讓洛佩拉去偵察交接地點，她熟悉那裡。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德爾",
+          "text": "包括對金伯利的安排……和您說的一樣。父親，我……我認為您也會這樣做。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "非常好。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "副官女士做出了模仿父親的安排——在昨晚，在老將軍拒絕接見任何人時。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "很快你會有一支部隊，帶他們去接應洛佩拉，救回醫生。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德爾",
+          "text": "部隊……？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "老將軍望向窗外。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "陽光之下，蕭條荒蕪，時間溶解在石頭裡，綠藤攀繞柱廊，這座仿自安達魯西亞風貌建造的廢舊城堡，就是如今芝諾分部的基地所在。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "我跟總部通了電話，順利的話，托勒密他們很快就會到。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "副官女士長舒一口氣，為即將和家人重聚而露出笑容。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德爾",
+          "text": "原來如此……很久沒聚在一起了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她的笑容開始變得有些苦澀。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "你父親死在阿巴丹，他本來不需要參加那場戰役。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德爾",
+          "text": "那是我們的榮幸，死在衝鋒途中要遠比死在病床上光榮。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "之後的事，會讓他的榮譽蒙上污點。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "榮譽蒙上污點，猶如鏽跡斑斑的勳章。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "先談談那個叫紅弩箭的年輕人。關於她，說說你的看法。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德爾",
+          "text": "訓練有素，經驗豐富，脾氣很直，和洛佩拉在某些方面很像。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "她一身都是斯拉夫人的臭脾氣，我太瞭解我的同胞了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "頑固，忠誠，勇敢，又像封凍的西伯利亞大地般不可動搖。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "她比洛佩拉幸運，不用生來就背負叛徒的駡名。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德爾",
+          "text": "洛佩拉只是個孩子。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "老將軍合上眼，回憶著一個個曾與自己並肩作戰的名字。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "很多人都死了，死於戰爭，沒於“暴雨”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "現在，他們都成了總部紀功廊裡的一個個銘刻。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "你覺得洛佩拉會怎麼做？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德爾",
+          "text": "她也是您的孩子，我認為她會跟我們一起……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "長女的回答讓老將軍露出微笑。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "你“認為”，而不是相信。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "她不重要。來，看看這個。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一封邀請函。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "我不會戴上它。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "你也不會，我保證，你們都不會戴上這個東西。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "還有一封信，來自傳達“神諭”的祭司，一份來自傳道者的禮物。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "而我們也會為她帶去回禮。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "天上降下硫磺與烈火，在廢墟之中，我們找回了這一奇跡的殘留。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "它在生長，在呼吸，它是活著的奇跡。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "生命的氣息在這捧焦土中積蓄，我聽見它的低語。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一個清醒的夢境，活著的死亡，壞滅的不朽。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "祂不可戰勝，莫莉德爾。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "比起向那棟白色石屋無止境地投入孩子們的生命……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "我選擇我們與真正的未來站在一起。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德爾",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德爾",
+          "text": "我會和您站在一起，父親。"
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

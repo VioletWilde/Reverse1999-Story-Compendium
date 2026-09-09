@@ -1,6 +1,6 @@
 # City's Gastrosis
 
-- Chapter: Tender is the Night (`102`)
+- Chapter: Tender Is the Night (`102`)
 - Episode: `10205`
 
 > Subtitle: Now I know why everyone's looking for a gastroenterologist.

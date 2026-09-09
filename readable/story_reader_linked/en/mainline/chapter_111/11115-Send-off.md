@@ -1,6 +1,6 @@
 # Send-off
 
-- Chapter: 行于漫漫长路上 (`111`)
+- Chapter: A Long Long Way (`111`)
 - Episode: `11115`
 
 > Subtitle: They remembered an ancient verse, with whose meaning is lost to history.

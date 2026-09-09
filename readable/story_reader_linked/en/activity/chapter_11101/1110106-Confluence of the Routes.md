@@ -1,6 +1,6 @@
 # Confluence of the Routes
 
-- Chapter: The Rimet Cup (`11101`)
+- Chapter: The Theft of the Rimet Cup (`11101`)
 - Episode: `1110106`
 
 > Subtitle: It all leads to the same answer.

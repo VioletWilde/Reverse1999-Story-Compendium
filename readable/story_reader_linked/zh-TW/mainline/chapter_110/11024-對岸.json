@@ -1,0 +1,766 @@
+{
+  "episode_id": 11024,
+  "chapter_id": 110,
+  "chapter_title": "復樂園",
+  "display_label": "",
+  "title": "對岸",
+  "subtitle": "你將去另一處渡口，去乘台伯河的小舟。",
+  "trails": [
+    {
+      "element_id": 101024,
+      "owner_episode_id": 11024,
+      "trigger_episode_id": null,
+      "title": "再度呼吸",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=11024",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "你又一次溺水了，真讓人感到懷念。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "別激動，你還不能起身，就這樣躺著聽報告就行。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "哦？最後的報告怎麼了？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "呃……"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "好吧，你成功挖苦到了我。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "你做到了，英明神武的救世主，你在最後一刻力挽狂瀾拯救了世界。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "連我也沒有預料到會這樣，滿意了麼？我們來聽報告吧。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "那是你忠實的橙色小狗在舔舐你的傷口，她正竭盡所能地喚醒你——這當然是隱喻，我想我不用多做解釋。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "這也是你還不能醒來的原因之一，鹽水會滴入你的眼睛。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "大家都會因此尷尬，所以靜下心來聽我說。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "你會再度溺水的主要原因並不是你仍然不會游泳。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "而是你寧死也要抱著這台紡車導致的。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "紡車就是紡車，即使它能紡出金線，你也已經有一台了。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "可惜擁有兩台紡車並不會提高工作效率，畢竟原材料有限，工人又只有你一個。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "就算拆掉它，這些爛木頭零件也不適配你的紡車，外觀相似並不代表是同一單位。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "不管是紡車，還是動物，又或者是父子母女，都是這樣。"
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "我得起來了",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "再等一會吧，橙色小狗正在撿回你的帽子。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "那是她在所有急救措施以外唯一能想到的辦法。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "她會這麼天真且迷信可是很難得的，你我都應該配合她。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "你值得片刻的安息，尊貴的救世主。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "暫時忘記外面一片狼藉的戰場，放鬆一下吧。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "不過也別睡太久，橙色小狗正在撿回你的帽子。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "如果到時候你還不醒，我不敢想像她會做出什麼。"
+                }
+              ]
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "我受夠了，讓我安靜會",
+              "edge_label": "",
+              "branch": []
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "我的臉頰有些溫熱感",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "101035",
+      "internal_title": "第十章10-23",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "對岸"
+        },
+        {
+          "kind": "title_card",
+          "text": "火山神殿·祭壇"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "諾諦卡",
+          "text": "她……消失了？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "隨著阿爾卡納的消失，神殿再度開始震顫。不斷墜落的巨石預告著一切有生之物的隕落。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "“我的世界正在迎來終結”……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "司辰，雖然進程減緩了，但儀式並未崩潰——洪水還在緩慢地上漲。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "恐怕……我們的時間不多了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "諾諦卡",
+          "text": "維爾汀，十四行詩，神殿好像快要完全坍塌了，我們還是快離開吧……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "你先走吧，諾諦卡。去找最近的基金會部隊，他們提前設置了大型傳送術陣，至少能將你帶回最近的免疫區。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "諾諦卡",
+          "text": "你、你不走嗎，維爾汀？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "不能讓這個世界如重塑之手所願變為空白。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "距離神殿完全坍塌還有一段時間，我還想再嘗試一下。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "烏爾里希組長好不容易為我們爭取了這段寶貴的時間，還不能在這裡放棄。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "第一助手微微點了點頭，陷入了思慮。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "可無論是破壞神殿，還是擊潰儀式的主持者……我們之前阻止儀式的嘗試都沒能奏效。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "您還有什麼想法嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "儀式既然還在繼續，那麼其核心就並未被阿爾卡納帶走，它還在這裡的某處運轉著。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "以之前德洛絲女士與儀式的關聯性來推測，她也很可能會在那裡。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "……我要再去看一眼祭壇中央。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "諾諦卡",
+          "text": "但、但這裡已經被水淹沒了，而這些水又不能碰……我帶你飛——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "“地母”的巨獸抬起前爪，可翅膀卻因為先前戰鬥中受的傷而難以伸展。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "沒關係，諾諦卡，我能過去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "這裡的洪水是“暴雨”的“水”與冰川融水的結合，兼具二者的特性。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "但我不會受到“暴雨”的影響，所以它對我來說——只是普通的水而已。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "看。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "水流從指尖劃過，浸入水中的手完好無損，時間並未留下痕跡。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "不痛，只是有點涼，也沒有其他異常。看來我的猜想是對的，那麼，或許我的計畫也值得一試。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "十四行詩，諾諦卡，請幫我照看好箱子，去安全的地方等我。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "回身，嘗試尋找一個合適的地方入水。小腿浸入冰冷的水的刹那，身體不由自主地顫抖起來。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "司辰！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "身後的第一助手抱緊箱子，似乎想要說些什麼。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "這裡很危險。你不走嗎，十四行詩？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "……我是您的副手。追隨您至任何險境是我的責任與義務。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "我會等您回來的，司辰。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "躍入水中，遠古生物的骨骼與建築碎塊從身側劃過。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "對於要如何前進，心中早已有了答案。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "如果我沒記錯的話，在德洛絲女士轉動紡車後，儀式就啟動了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "德洛絲醫生",
+          "text": "我紡織的線連向了井底……為什麼？這些線的使命不該流向那裡……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "德洛絲醫生",
+          "text": "……紡車也無法停下了……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "德洛絲醫生",
+          "text": "維爾汀，快走——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "德洛絲女士通過轉動紡車開啟了儀式，後續紡車也在不斷轉動，維持著儀式的繼續。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "那麼無論要阻止儀式，還是找到德洛絲女士，那架紡車都是關鍵。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "像之前一樣，閉上眼，遵循自身的感覺。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "睜眼時，再一次，飄忽的金線落在了眼前。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "“線”……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "是德洛絲女士在指引我嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "跟隨金線深入……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "然而金線牽引的路似乎漫無盡頭。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "唔……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一陣激烈的水流干擾了視線。再度睜開眼時，引路的線又不知去了哪裡。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "水流越來越快了，按照歌曲時間來推算，星銻的搖滾樂也要接近尾聲了……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "需要儘快找到紡車……可紡車的線去了哪裡？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "……♪"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "令人懷念的哼唱聲從上方傳來。攀附著岩石將頭探出水面，正尋覓的面容映入眼簾。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "德洛絲醫生",
+          "text": "……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "德洛絲女士！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "德洛絲醫生",
+          "text": "維爾汀，你真的來了……！我的感覺沒有錯，我知道你會找到這裡。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "德洛絲醫生",
+          "text": "這架紡車紡織出的線與井底相連，帶來了這場洪水。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "德洛絲醫生",
+          "text": "所以我想，如果要阻止這場儀式，就必須想辦法讓紡車停下才行。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "這和我的推斷一致。請您稍等，德洛絲女士——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "做出進一步的判斷前，率先注意到的是盲眼者裙下的異樣。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "雙足突兀地消失了，好似從未存在過一般。她只得倚靠著紡車才能站起來。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "您的腳……怎麼了？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "德洛絲醫生",
+          "text": "……應該是先前昏迷時，我接觸到了這些洪水。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "德洛絲醫生",
+          "text": "抱歉，我想將紡車帶給你，可一旦觸碰到這片水，我的身體就會消融。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "……沒關係，我這就過來找您！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "德洛絲醫生",
+          "text": "小心！這片水域非常湍急，我幾次嘗試離開都失敗了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "德洛絲醫生",
+          "text": "因為這裡——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "下方傳來的一陣尖利呼嘯聲打斷了盲眼者的話語，洪水中開始湧起陣陣激烈的浪濤。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "白色的浪帶旋轉著，漸漸匯作一個深不見底的漩渦。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "這是……“暴雨眼”！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "德洛絲醫生",
+          "text": "紡車又要再度開始轉動了，維爾汀！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "盲眼者捧起紡車，繩輪伴隨著水流正微微顫動著。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "德洛絲女士，等我過來……嗚！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "鬆開側壁的岩石嘗試前進，但身體瞬間就被激烈的波濤帶走，只能在慌亂中再度抓住另一塊石頭穩住身形。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "好像有某種尖銳的物體劃破了手心。所幸洪水寒冷刺骨，疼痛才顯得沒那麼強烈。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "咳、咳咳……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "手心滲出的鮮血很快隨水而逝，而身處的漩渦卻還在不斷擴大。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "呼、呼……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "……沒關係，我可以再試一次……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "第二次嘗試、第三次、第四次……每一次嘗試，都以再度被浪濤拍回邊緣的岩石而告終。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "而水流卻更湍急。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "德洛絲醫生",
+          "text": "維爾汀……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "似乎是下定了決心，盲眼者撕下裙子的布條，將不停轉動的紡車捆在了自己的身上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "德洛絲醫生",
+          "text": "等著我，維爾汀，我會將紡車帶給你！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "德洛絲女士？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "盲眼者扶住岸邊的岩石，用顫抖的雙臂支撐自己挪入了湍急的水流中。冰冷只是讓她打了個寒顫，卻沒有阻擋她深入的步伐。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "德洛絲醫生",
+          "text": "唔……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "很快，她被洪水淹沒的半個身子都已經消失，只餘上半身抓著岸邊的岩石，艱難地前行著。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "水流不斷拍擊著她纖細的身體，而她帶著紡車在浪帶間艱難地浮沉。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "德洛絲醫生",
+          "text": "這個位置，應該可以了……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "德洛絲女士，停下！您不能再——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "韌繩纏繞。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "神秘術難得如期生效，將腳踝與岩石綁定，讓自己不至於被洪水帶走。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "竭力傾斜身體，將手臂伸到最遠，但那僅有數米的短暫距離似乎永遠無法跨越。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "紡車的顫抖越來越劇烈。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "耳邊只有激烈的水聲和漩渦的呼嘯。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "德洛絲醫生",
+          "text": "——維爾汀。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "德洛絲醫生",
+          "text": "不用擔心，維爾汀。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "盲眼者的聲音跨越浪濤的嘶吼傳來，卻顯得平靜而溫柔。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "德洛絲醫生",
+          "text": "我很高興能再次見到你。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "德洛絲醫生",
+          "text": "一路順風。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "盲眼者鬆開了用以支撐身體的岩石，激烈的水流將她帶了過來。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "金色的紡車在水面上浮沉著，盲眼者浸入水中的部分正不斷消散。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "我拿到紡車了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "握住我的手，德洛絲女士！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "德洛絲醫生",
+          "text": "再見。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "德洛絲女士！！！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "隨著紡車停止轉動，洶湧的波濤，也漸漸平息了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "先是一滴雨，離開水面升向半空。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "然後是兩滴、三滴……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "洪水褪去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "而後，“暴雨”將臨。"
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

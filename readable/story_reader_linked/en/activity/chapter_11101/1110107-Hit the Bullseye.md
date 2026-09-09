@@ -1,6 +1,6 @@
 # Hit the Bullseye
 
-- Chapter: The Rimet Cup (`11101`)
+- Chapter: The Theft of the Rimet Cup (`11101`)
 - Episode: `1110107`
 
 > Subtitle: Taking turns in the maze ... We all have gone past the point of no return.

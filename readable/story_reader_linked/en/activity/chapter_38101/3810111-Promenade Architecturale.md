@@ -1,6 +1,6 @@
 # Promenade Architecturale
 
-- Chapter: 世纪末尺度 (`38101`)
+- Chapter: The Temporal Scale (`38101`)
 - Episode: `3810111`
 
 > Subtitle: Welcome, dear friends, to the new house. I've got hot tea waiting—raspberry.

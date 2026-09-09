@@ -1,6 +1,6 @@
 # Burned Feathers
 
-- Chapter: 他者的悲哀 (`113`)
+- Chapter: On Another's Sorrow (`113`)
 - Episode: `11306`
 
 > Subtitle: A bird flies on more than wings alone.

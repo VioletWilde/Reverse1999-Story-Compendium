@@ -1,6 +1,6 @@
 # The Story of Oliver
 
-- Chapter: chapter_1901 (`1901`)
+- Chapter: The Story of Oliver (`1901`)
 - Episode: `190105`
 
 > Subtitle: This is a story about Oliver.

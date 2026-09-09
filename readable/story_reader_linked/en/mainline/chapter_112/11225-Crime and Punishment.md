@@ -1,6 +1,6 @@
 # Crime and Punishment
 
-- Chapter: 远征记 (`112`)
+- Chapter: The Campaign's Tale (`112`)
 - Episode: `11225`
 
 > Subtitle: Another bullet bearing another name falls into a tumbling brass bag.

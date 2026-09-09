@@ -1,6 +1,6 @@
 # Poems Come By Chance
 
-- Chapter: 1987 Космическая Увертюра (`27101`)
+- Chapter: 1987 Cosmic Overture (`27101`)
 - Episode: `2710111`
 
 > Subtitle: I am grateful for the times I felt exhausted and uninspired, yet never put down my pen.

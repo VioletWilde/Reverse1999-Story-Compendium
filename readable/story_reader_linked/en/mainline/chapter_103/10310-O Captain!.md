@@ -1,6 +1,6 @@
 # O Captain!
 
-- Chapter: Nouvelles et Textes pour rien (`103`)
+- Chapter: Nouvelles et Textes pour Rien (`103`)
 - Episode: `10310`
 
 > Subtitle: Gosh! I've never done anything this wild! And ... nobody has understood me this much.

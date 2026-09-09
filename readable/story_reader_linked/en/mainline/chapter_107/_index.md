@@ -30,3 +30,4 @@
 - [10728 The Two Numbers](10728-The Two Numbers.md) — Two numbers, each representing a pure essence of its own.
 - [10729 The Umbrella and the Knot](10729-The Umbrella and the Knot.md) — It may not be important to remember an era, but it is important to remember the people.
 - [10730 And Now, the Curtain Call](10730-And Now, the Curtain Call.md) — She brushes off the raindrops from her shoulders and steps into the new world.
+- [1910105 The Solver](1910105-The Solver.md) — We've got plenty of scratch paper—writing out a solution is just a matter of time.

@@ -1,6 +1,6 @@
 # Time to Say Goodbye
 
-- Chapter: 1987 Космическая Увертюра (`27101`)
+- Chapter: 1987 Cosmic Overture (`27101`)
 - Episode: `2710115`
 
 > Subtitle: We can never find the perfect moment.

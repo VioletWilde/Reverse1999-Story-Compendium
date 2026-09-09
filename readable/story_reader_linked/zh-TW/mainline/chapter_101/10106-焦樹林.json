@@ -1,0 +1,325 @@
+{
+  "episode_id": 10106,
+  "chapter_id": 101,
+  "chapter_title": "在我們的時代裡",
+  "display_label": "",
+  "title": "焦樹林",
+  "subtitle": "祂們面目焦黑，祂們曾在烈火中哭喊，祂們尚未破碎，祂們仍存於此。",
+  "trails": [
+    {
+      "element_id": 1010601,
+      "owner_episode_id": 10106,
+      "trigger_episode_id": null,
+      "title": "小徑① 靈感克制",
+      "description": "一段回憶，有關於物與物之間的克制。\n克制的攻擊將帶來額外的效果，增加敵方損傷，使戰局更為有利。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=10105",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1010602,
+      "owner_episode_id": 10106,
+      "trigger_episode_id": null,
+      "title": "小徑② 新聞一則",
+      "description": "一張皺巴巴的公告傳單，標示著剛出爐的“新聞”。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=10105",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "《破產公司資訊公告與新公司註冊名單-2月版》"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "公 告\n                     〔1929〕IL 17-14000 破59-3號\n\n      位於羅斯福路的《神秘學界月亮報》母公司五大湖傳媒公司現已無財產可供分配。其債務人希歐多爾·傑克遜（人類）、埃米利奧·羅伯特·亨格爾（人類），管理人斯蒂芬·謝麗丹（人類），經協商後向本院申請終結破產程式。\n    《神秘學界月亮報》以神秘學界新聞見長，發行量高達50萬份，知名文章如《背後陰謀：人體器官買賣與女巫詛咒》。因匿名信舉報及廣播電臺衝擊，1928年9月母公司五大湖傳媒公司停止了《神秘學界月亮報》的發行。\n      依照《納爾遜法》規定，本院於1929年2月14日裁定終結五大湖傳媒公司破產程式。\n      特此公告。\n\n                                                    一九二九年二月十四日\n\n\n                                         公 告\n                      ·新公司註冊登記資訊公告名單·\n\n                          名稱：菲爾德伍德通訊公司\n                     法定代表人：人類—大衛·克勞伯格\n                  所營業務：報刊媒體《世界神秘學週報》\n                         成立時間：1929年2月3日\n\n                          名稱：卡爾娛樂出版公司\n                     法定代表人：人類—文斯·鄧恩\n                  所營業務：報刊媒體《美國巫師娛樂刊》\n                         成立時間：1929年2月3日\n\n                          名稱：海岸聯合出版公司\n                     法定代表人：人類—休·邁達克斯\n                  所營業務：報刊媒體《夜間新聞》\n                         成立時間：1929年2月5日\n\n                                      ……\n                         特此公告。\n\n                                                    一九二九年二月十四日"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1010603,
+      "owner_episode_id": 10106,
+      "trigger_episode_id": null,
+      "title": "小徑③ 無名來客Ⅰ",
+      "description": "一句充滿活力的問候，但你想你們並不熟悉。",
+      "action": "",
+      "unlock_condition": "ChapterMapElement=1010602",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100109",
+      "internal_title": "第一章1-7",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "焦樹林"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "貴府的小姐願意光臨“瓦爾登湖”，是我們的榮幸。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "多虧您上次的關照，讓我們在禁酒新法案通過前就研究出了應對的魔藥。當然了，您給出的標價，我會準時送到。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "嗯，近況還不錯。……不，您不需要對議會太過擔心。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "您要相信人們。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "儘管人們表面一套背後一套，但人們都更願意投給看起來更道德的一方。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "請您放心。我們會讓大小姐度過愉快的一天。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "嗯……天氣不錯。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "適合迎接一場令人印象深刻的“暴雨”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "據路易·絲朗2月5日《紐約客》專欄所述，艾林頓公爵的爵士管弦樂隊今晚將在“瓦爾登湖”進行巡演！"
+        },
+        {
+          "kind": "title_card",
+          "text": "莊園 · 會客廳"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "據路易·絲朗2月5日《紐約客》專欄所述，艾林頓公爵的爵士管弦樂隊今晚將在“瓦爾登湖”進行巡演！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "這是有史以來最棒的！野蠻！有節奏！又花哨！就是爵士樂隊應該有的樣子——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莊園管家",
+          "text": "好了，蘇芙比小姐。不用再故意大聲讀專欄了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莊園管家",
+          "text": "遠在英國的老爺已經同意您出門了。另外，我也與“瓦爾登湖”的老闆通了電話……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "蘇芙比",
+          "text": "好耶——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莊園管家",
+          "text": "好耶……？這不是名門閨秀該發出的聲音。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "蘇芙比",
+          "text": "卡森先生，蘇芙比已經長大了～"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "蘇芙比",
+          "text": "而且我這次並不是出門去玩，還背負著拯救人們的重大使命喔。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莊園管家",
+          "text": "好，好。只要不是去兜售您的營養藥劑新配方就好。要是見到您回來時失望的樣子，莫桑老師也會擔心的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "蘇芙比",
+          "text": "……那我出發啦！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莊園管家",
+          "text": "走錯方向了，小姐。汽車停在正門。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "蘇芙比",
+          "text": "啊……我、我可不需要保鏢！你答應過我，這次讓我一個人出去玩的～！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莊園管家",
+          "text": "注意儀態，小姐。這次沒有給您安排保鏢。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莊園管家",
+          "text": "酒吧附近的森林很危險，我們必須親自接送您才能安心。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莊園管家",
+          "text": "總之，等您進了酒吧，會有專人來為您安排座位。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莊園管家",
+          "text": "記住，只能觀賞，不能喝含有酒精或興奮水的魔藥飲料，不能和陌生人搭話，更不能去跳什麼搖擺舞和貼身舞——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莊園管家",
+          "text": "嗯？小姐？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "蘇芙比",
+          "text": "知——道——啦——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莊園管家",
+          "text": "唉……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莊園管家",
+          "text": "“咯吱——咯吱——”"
+        },
+        {
+          "kind": "title_card",
+          "text": "無主之地"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莊園管家",
+          "text": "“咯吱——咯吱——”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "這個森林的氣氛……好陰森。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "所有的植物都死了，看起來一點生機也沒有。就連枝幹上的樹皮都是焦黑的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "看起來就像經歷過一場大火一樣。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "唔，如果不是必經之路，真不想進入這個森林啊……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "說到這個，十四行詩，你有沒有聽說過一個關於“火災”的鬼故事？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "……？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "沒有，沒有聽過。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "這樣啊。據稱在20世紀初，華盛頓州曾經發生過一場毀滅性的森林火災。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "不幸死去的人們不願離去，化為了黑暗的林中幽靈。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "嗚……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "它們會跟在旅人的身後，悄無聲息，為了看清楚每一個人的臉，它……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "啊！我聽不太清……走在這些枯葉上發出的聲音太吵了，我身後都是“唰唰”的聲音。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "確實，我也聽到了很大的聲音。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "……咦？APPLe先生，你怎麼會在我前面？那——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "————！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "呀——！是、幽靈——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "出現大量不明生物！十四行詩，快到我身後來——！"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "各位，準備戰鬥！",
+          "edge_label": "다들 전투태세로!",
+          "branch": []
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

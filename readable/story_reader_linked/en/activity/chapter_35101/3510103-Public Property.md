@@ -1,6 +1,6 @@
 # Public Property
 
-- Chapter: 绿松石蛇俱乐部 (`35101`)
+- Chapter: The Turquoise Serpent Club (`35101`)
 - Episode: `3510103`
 
 > Subtitle: A space for everyone—where challenges, negotiations, doubts, and quarrels unfold.

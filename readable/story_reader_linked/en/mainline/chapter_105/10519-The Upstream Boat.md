@@ -1,6 +1,6 @@
 # The Upstream Boat
 
-- Chapter: The Prisoner in The Cave (`105`)
+- Chapter: The Prisoner in the Cave (`105`)
 - Episode: `10519`
 
 > Subtitle: Refuse quick fixes, door-to-door sales, flip-to-the-answer pages, and the porch that can be reached in only one step.

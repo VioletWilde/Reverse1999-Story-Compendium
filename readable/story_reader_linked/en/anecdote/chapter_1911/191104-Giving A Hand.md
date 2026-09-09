@@ -1,6 +1,6 @@
 # Giving A Hand
 
-- Chapter: Finding Xavier (`1911`)
+- Chapter: Eagle (`1911`)
 - Episode: `191104`
 
 > Subtitle: Humanity has survived through mutual aid, a fact no degree of modernity can erase.

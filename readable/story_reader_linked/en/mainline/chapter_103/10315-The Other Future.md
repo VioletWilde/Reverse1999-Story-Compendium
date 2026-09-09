@@ -1,6 +1,6 @@
 # The Other Future
 
-- Chapter: Nouvelles et Textes pour rien (`103`)
+- Chapter: Nouvelles et Textes pour Rien (`103`)
 - Episode: `10315`
 
 > Subtitle: Everyone has the right to choose their future, right?

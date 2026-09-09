@@ -1,4 +1,4 @@
-# Anecdotes · The Third Circumstance
+# Anecdotes · Semmelweis
 
 - [191201 Yesterday, Today, Tomorrow](191201-Yesterday, Today, Tomorrow.md) — What she will be the day after tomorrow, even she doesn't know.
 - [191202 The Newcomer](191202-The Newcomer.md) — A passerby lacking poetry, alone with her sunglasses, caught in the noonday sun.

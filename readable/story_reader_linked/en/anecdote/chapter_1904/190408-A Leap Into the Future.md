@@ -1,6 +1,6 @@
 # A Leap Into the Future
 
-- Chapter: chapter_1904 (`1904`)
+- Chapter: After the Good Dream (`1904`)
 - Episode: `190408`
 
 > Subtitle: Listen. A new bird is singing.

@@ -1,0 +1,610 @@
+{
+  "episode_id": 10105,
+  "chapter_id": 101,
+  "chapter_title": "在我們的時代裡",
+  "display_label": "",
+  "title": "玫瑰特派",
+  "subtitle": "她比蜜糖更甜美，比羽毛更輕盈，她帶來紅玫瑰，好讓你佩戴在靈魂的胸膛。",
+  "trails": [
+    {
+      "element_id": 1010501,
+      "owner_episode_id": 10105,
+      "trigger_episode_id": null,
+      "title": "中場休息",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=10104",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "你在做什麼？你為什麼要從地上拾起那支觸感冰涼、不透明的乳濁玻璃酒瓶——在這個最關鍵的時刻？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "車庫門外的尖聲驚叫，刹車片和輪鼓間的摩擦，鉛黃電影般的故事展開，顯然都不如這酒瓶更令你印象深刻。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "看得出來，你是個有品位的傢伙，知道在這個年頭能搞到這東西不容易。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "但是你，為什麼要盯著瓶底，還舔了舔嘴唇？告訴我，你不會也想來上一口吧？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "這可不是明智之選。這個玻璃製品使你看不清殘液的色澤，很可能它並不是你想像中的冰白、啤酒、農家自製酒。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "它很可能，很可能只是一個魔精的鼻涕。儘管如此，你還是堅持要嚐一口？"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "別扯那麼多沒用的，讓我喝",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "每一隻你遇到過的卡邦克魯都會讚賞你的勇氣。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "現在，你的喉嚨淌過一點寒冷的液體。它流動的速度不快，很可能是因為它的渾濁。但口感遠比你想像的要絲滑。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "接著，你的鼻腔升起淡淡的苦艾、麥芽糖、檸檬百里香和椰子糖的氣味。這就像來自紐西蘭的神秘學家送來的禮物一樣美味可口。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "與此同時，心臟也變得膨脹，你感到你的氣管裡充滿了灼熱的力量。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "你的視野開始模糊。你隱隱約約看到瓶底粗糙的刻字：瓦爾登湖魔藥酒吧。"
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "這***到底是什麼！",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "這當然不是酒！因為酒是一個會被禁掉的神秘詞語。但它能帶給你更大的勇氣，讓你去面對接下來該死的生活。"
+                },
+                {
+                  "kind": "choice",
+                  "speaker": "",
+                  "text": "你又是誰？",
+                  "edge_label": "",
+                  "branch": [
+                    {
+                      "kind": "dialogue",
+                      "speaker": "？？？",
+                      "text": "我？我誰也不是。"
+                    },
+                    {
+                      "kind": "dialogue",
+                      "speaker": "？？？",
+                      "text": "但我也可以是任何人，一個醉醺醺的髒老頭，一個破敗旅館的清潔工，一個兩眼放光的基金經理，一顆旋轉的可愛水晶骷髏頭。"
+                    },
+                    {
+                      "kind": "dialogue",
+                      "speaker": "？？？",
+                      "text": "現在我是一個和你一樣有品位的酒鬼。"
+                    },
+                    {
+                      "kind": "dialogue",
+                      "speaker": "？？？",
+                      "text": "而我們正式認識的那一天，很快就會到來。"
+                    },
+                    {
+                      "kind": "dialogue",
+                      "speaker": "？？？",
+                      "text": "現在，快抬起你沉重的屁股，繼續你美妙的旅程吧。我會在任何時刻出現，任何一個你期望或不期望的時刻。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "我真不該點擊這個瓶子",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "是的，決定點擊只需要一個靈光而至的瞬間，而你卻平白無故地忍受了那麼多廢話。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "真抱歉事情的展開不如你的預期。但好在你還保有一直引以為傲的理智。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "來，讓我們把這個酒瓶放下。在十四行詩和飄逸的蘋果注意到你異常的舉動之前，你還有機會挽回自己的形象。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "跟我一起對他們說聲“嗨”，假裝你從來沒有受到過酒瓶的誘惑。"
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "“嗨。”",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "噢，嗨！你今天過得怎麼樣？"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "哈哈哈哈哈，很好，現在我們每一個人都知道基金會的訓導是多麼有效了。好消息是，每個人都喜歡乖寶寶。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "和你相處真讓人感到愉快。你可比你的……不，我不該繼續說了。"
+                },
+                {
+                  "kind": "choice",
+                  "speaker": "",
+                  "text": "你到底是誰？",
+                  "edge_label": "",
+                  "branch": [
+                    {
+                      "kind": "dialogue",
+                      "speaker": "？？？",
+                      "text": "我？我誰也不是。"
+                    },
+                    {
+                      "kind": "dialogue",
+                      "speaker": "？？？",
+                      "text": "但我也可以是任何人，一個醉醺醺的髒老頭，一個破敗旅館的清潔工，一個兩眼放光的基金經理，一顆旋轉的可愛水晶骷髏頭。"
+                    },
+                    {
+                      "kind": "dialogue",
+                      "speaker": "？？？",
+                      "text": "現在我是一個和你一樣友善的冒險者。"
+                    },
+                    {
+                      "kind": "dialogue",
+                      "speaker": "？？？",
+                      "text": "別擔心，我們正式認識的那一天，很快就會到來。"
+                    },
+                    {
+                      "kind": "dialogue",
+                      "speaker": "？？？",
+                      "text": "現在，快抬起你沉重的屁股，繼續你美妙的旅程吧。我會在任何時刻出現，任何一個你期望或不期望的時刻。"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "你確定他們真的能聽到？",
+              "edge_label": "",
+              "branch": []
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "我真想查清楚你的成分！把所有的基因報告都發狂嚼碎吞咽到肚子裡，好搞清楚你的理智究竟是從何而來！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "沒有一個神秘學家會像你這樣理智且克制，他們應該、他們應該……如果世界上真的有，那也是……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "而我又太瞭解你，太明白你了！就算是我也不能否認你身份的純粹，我不能！"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "你到底是誰？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "我？我誰也不是。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "但我也可以是任何人，一個醉醺醺的髒老頭，一個破敗旅館的清潔工，一個兩眼放光的基金經理，一顆旋轉的可愛水晶骷髏頭。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "但現在我只是一個惡作劇失敗的橡膠屁眼，氣急敗壞。我的憤怒甚至影響不了太平洋裡的一棵水草。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "我期待我們正式認識的那一天。只有到了那一天……"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "現在，快抬起你沉重的屁股，繼續你美妙的旅程吧。我會在任何時刻出現，任何一個你期望或不期望的時刻！"
+            }
+          ]
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100107",
+      "internal_title": "第一章1-6.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "玫瑰特派"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "詹姆斯·克拉克。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "詹姆斯",
+          "text": "……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "彼得·古森貝。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "彼得",
+          "text": "唔……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "法蘭克·古森貝。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "住手——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "你為什麼要殺死這些人？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "……？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "因為他們要殺死神秘學家呀。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "你們不也是……正為此而來嗎？熟知歷史的……政府老爺們。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "那麼名單的下一位是……亞當·埃耶爾哦。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "亞當",
+          "text": "啊、為什麼打不中……啊啊……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "司辰！"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "營救亞當·埃耶爾",
+          "edge_label": "营救亚当·埃耶尔",
+          "branch": []
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "小心對付她的槍，她瞄準的似乎不是我們的軀體——！"
+        }
+      ]
+    },
+    {
+      "script_id": "100108",
+      "internal_title": "第一章1-6.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "嗯嗯，最後一個人類……被你們救下來啦。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "亞當",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "放心，請站在我們身後，我會護送你到安全地——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "亞當",
+          "text": "——你們也是神秘學家？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "亞當",
+          "text": "哈哈、哈哈哈哈……*愛爾蘭粗口。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "“砰——！”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "……！！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "……自殺了……竟然自殺了……？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "頸動脈破裂，救不活了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "真遺憾啊。難道是神秘學家的血太髒了……讓他寧死都不願同流合污嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "但是，生命是寶貴的。我呀不喜歡有人浪費呢。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "斯奈德",
+          "text": "“砰——！”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "夠了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "你身後那群昏迷的神秘學家……就是原本的受害者吧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "你打算把他們帶回重塑之手？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "你呀……倒是比旁邊那個一板一眼的老女人有意思喔。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "長得也很標緻……嗯嗯，髮色跟人家喜歡的羽毛很接近呢……啊，快要興奮起來了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "回答我的話。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "嗯……好凶啊。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "我們只是盯上了同一群人而已。在“暴雨”來臨前，大家都想多多招攬好用的夥計。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "這麼一說，你與我的命運是不是……已經緊緊地、結合在一起了呢？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "這七個人都沒有呼吸了……你是有多憎恨人類，以至於要這樣痛下殺手！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "……憎恨人類？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "那你們說說……在這場歷史屠殺案裡，死的究竟該是人類，還是神秘學家？"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "沒有人該死",
+          "edge_label": "没有人该死",
+          "branch": []
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "……與生俱來的天賦差異，從來都不是生命被剝奪的理由。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "呵呵。政府老爺說得是呢。神秘學家也好，人類也好，我呀都覺得無所謂喔。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "只要能活下來就很好了的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "陰影裡那個是……術式？快攔住她，她要將那些神秘學家帶走了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "嘻嘻。雖然我很喜歡你，但自家的任務還是要完成……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "這是替人家殺死亞當的報酬～要記得我喔。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "就這樣……走了？她丟了一地的是……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "股票受贈合同？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "居然還把贓物丟給我們！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "別擔心。我現在就處理掉它們。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "等一下。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "合同印章上有地址……複方魔藥酒吧，“瓦爾登湖”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "十四行詩，向總部報告一下本次行動的結果。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "好。那我們……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "我們先向下一個目的地前進。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "“瓦爾登湖”……這個地方，或許能解答關於這一切的疑問。"
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

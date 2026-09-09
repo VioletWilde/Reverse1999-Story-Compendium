@@ -1,6 +1,6 @@
 # Flakes of Light
 
-- Chapter: chapter_1903 (`1903`)
+- Chapter: The Long Night Singing Its Dirges (`1903`)
 - Episode: `190301`
 
 > Subtitle: She thrusts forward, dazzling and direct.

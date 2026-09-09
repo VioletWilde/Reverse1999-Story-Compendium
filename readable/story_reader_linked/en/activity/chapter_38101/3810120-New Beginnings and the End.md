@@ -1,6 +1,6 @@
 # New Beginnings and the End
 
-- Chapter: 世纪末尺度 (`38101`)
+- Chapter: The Temporal Scale (`38101`)
 - Episode: `3810120`
 
 > Subtitle: Be joyful, friends. Our journey ends here.

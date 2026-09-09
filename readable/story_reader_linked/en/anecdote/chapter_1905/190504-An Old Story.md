@@ -1,6 +1,6 @@
 # An Old Story
 
-- Chapter: Pulp Comedy Dirges (`1905`)
+- Chapter: Pulp Comedy (`1905`)
 - Episode: `190504`
 
 > Subtitle: Everyone has a story to tell, and it's not unusual.

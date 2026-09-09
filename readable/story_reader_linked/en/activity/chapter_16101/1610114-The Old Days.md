@@ -1,6 +1,6 @@
 # The Old Days
 
-- Chapter: Notes on Shuòrì (`16101`)
+- Chapter: Notes on Shuori (`16101`)
 - Episode: `1610114`
 
 > Subtitle: People reminisce about the past, perhaps because they feel the present is getting worse.

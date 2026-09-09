@@ -1,0 +1,873 @@
+{
+  "episode_id": 3210117,
+  "chapter_id": 32101,
+  "chapter_title": "흘러가는 축제",
+  "display_label": "",
+  "title": "다시 만나지 않아도 돼",
+  "subtitle": "당신이 최고니까.",
+  "trails": [
+    {
+      "element_id": 3210406,
+      "owner_episode_id": 3210117,
+      "trigger_episode_id": null,
+      "title": "원망스러운 운명",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=3210117",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "정말 불합리한 비죠."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "이 이야기는 오늘까지도 전통을 충실히 지켜왔고, 브룸은 완벽한 영웅의 여정을 마쳤어요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "모두가 그 틀에 박힌 결말을 기다리고 있는데, 한 차례의 비가 그들의 이야기를 망가뜨리고 말았죠."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "그게 바로 운명이 제게 친 다섯 번째 나쁜 장난이에요."
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "나도 이 비가 싫어.",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "아, 아무래도 오해한 것 같네요. 전 그게 싫은 게 아니랍니다."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "미래를 통제할 수 없는 건 당연히 무섭지만, 전 그래도 불확실성이란 묘미를 더 사랑해요."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "다른 사람들이 태어날 때부터 품은 희망, 꿈, 기대... 전 이 짧은 생에서 겨우 몇 번밖에 품어보지 못했거든요..."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "네. 당신은 모든 비를 알고 있죠."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "어쩌면 이 이야기가 언제 일어난 일인지 말했을 때, 당신은 결말을 짐작했겠네요."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "하지만 전 다르답니다. 제게는 모든 비가 예상치 못한 선물이에요."
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "당신은 비가 운명을 깨뜨리기를 바라는구나.",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "설령 그것이 더 큰 대가를 치러야 할지라도요."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "...아! 그래서 야간 순찰 파견 관리국, 더 나아가 재단까지 저를 경계하나 보네요."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "제가 ‘폭풍우’를 갈망하는 광신도라고 의심하고 있군요?"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "그럴 리가 없는데 말이죠. 전 그것을 더 이해하고 싶을 뿐이지, 쫓은 적은 한 번도 없어요."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "미안. 결말이 어떻게 될지 예상이 가네.",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "203225",
+      "internal_title": "【3.2】迁流的盛宴17.1",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "교수는 마지막 기록 한 줄을 덧붙인 후 바로 노트를 닫고, 외투 아래로 손을 뻗어 더듬었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그는 자신의 가장 믿음직한 동료인 ‘보호자’ 리볼버를 꺼냈다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "로조 교수",
+          "text": "아델의 인격은 여전히 남아 있었군요. 심지어 육체의 통제권도 되찾았습니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "로조 교수",
+          "text": "자부심이 강한 펠리시엔느라도 개인의식의 강도는 다른 사람들과 다르지 않았습니다. 연구는 역시 집단 무의식을 부르는 쪽에 집중해야겠군요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "베릴",
+          "text": "조급해할 것 없습니다, 로조 씨."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "점술사의 정신 또한 육체로 돌아왔다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그녀는 손을 들어 아델을 조준하는 총구를 살며시 밀어냈다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "베릴",
+          "text": "지금 총을 쏜다고 해서 결말이 바뀌는 건 아닙니다. 당신은 흐름을 막을 수 있는 그 돌멩이가 아니거든요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "베릴",
+          "text": "차라리 잠시 기다리죠. 어쩌면 생각지도 못한 변화가 일어날지도 모르잖아요?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "로조 교수",
+          "text": "...무엇을 본 겁니까?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "베릴",
+          "text": "정반대입니다. 당신을 막은 건 갑자기 ‘보이지 않아서’ 입니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "펠리시엔느",
+          "text": "넌 해고야! 아델!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "펠리시엔느",
+          "text": "넌 영웅 행세나 하는 광대... 목숨이 아깝지 않은 광인이야!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "펠리시엔느의 형태가 격하게 흔들렸다. 빙의할 육체를 잃은 그녀는 그저 떠도는 영혼이자 그림자에 불과했다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그녀는 무대에서 쫓겨난 실패자였다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "칭찬 고마워."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "네가 셀리아에게 한 짓에 비하면 이건 아무것도 아니지."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그녀는 몸부림치다가 굴러 떨어진 다이아몬드를 주웠다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "셀리아",
+          "text": "아델, 어서! 어서 태워버려..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "펠리시엔느",
+          "text": "닥쳐!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "셀리아",
+          "text": "윽..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "셀리아의 형태가 갈수록 희미해졌다. 펠리시엔느가 손을 흔들자 그녀의 윤곽이 녹아내리고 흩어졌다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "펠리시엔느, 그만둬!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그녀는 셀리아의 상태를 확인할 틈도 없이 블루 다이아몬드를 손에 꽉 쥐었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "진실만 남고 모든 거짓은 잿더미가 될 것이다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "드디어 이 황당한 촌극의 막을 내릴 수 있었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "오직 진실만이..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "펠리시엔느",
+          "text": "하."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "펠리시엔느",
+          "text": "이 역겨운 멍청이가, 뻔뻔한 거짓말쟁이가...! 모든 걸 나한테 떠넘기려 해?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "펠리시엔느",
+          "text": "누굴 속이려는 거야? 난 절대 속일 수 없어... 그 누구보다 너를 잘 알고 있어. 네가 스스로를 기만하고 있다는 것까지..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "펠리시엔느",
+          "text": "네 인생에서 가장 영광스러운 일은 나에게 동료로서 인정을 받았다는 거야, 아델!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "펠리시엔느",
+          "text": "넌 셀리아가 그 모든 편지를 썼다는 걸 진작에 알고 있었으면서 모르는 척하며 그녀에게 말하곤 했지! 네 부모님이 돌아가신 걸 진작에 알고 있었으면서 그녀가 호의로 소꿉놀이하는 걸 묵인했잖아..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "아니야... 난 단지..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "차가운 손가락이 서서히 조여들자, 산 자와 망자의 경계가 흐릿해졌다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "펠리시엔느",
+          "text": "넌 그녀가 모험을 동경하는 걸 보면서 서러워하고 분노했지... \"불행해질 운명이라는 저주를 부러워할 게 뭐가 있지? 그 때문에 부모님을 잃은 건 그녀가 아니라서 그런가\"라고 생각하면서 말이야..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "펠리시엔느",
+          "text": "하지만 셀리아의 그 동경이 없었다면 네 삶에는 무엇이 남지? 그저 떠돌아 다니기만 하는 택시 운전 기사? 그게 정말 네가 하고 싶은 거야?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "콜록... 네가 뭘 안다고...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그녀는 얼마 남지 않은 숨을 들이마시려고 애쓰며, 목에서 반박의 말을 쥐어짜냈다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "펠리시엔느",
+          "text": "뭘 아냐고? 난 다 알아... 네가 머릿속에서 무엇을 생각하는지 너보다 더 잘 알지!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "펠리시엔느",
+          "text": "셀리아는 네게 보석을 태워버리라 했지. 이 혼란 속으로 널 강제로 끌어들였어. 넌 우왕좌왕하면서도 속으로 기대했을 거야... 아무 힘도 들이지 않고 완전한 피해자로서 그 모든 것을 손쉽게 얻을 수 있었으니까!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "펠리시엔느",
+          "text": "게다가 부모님을 원망하는 것처럼, 그 누구도 네가 ‘저주’를 일으켰다고 탓하지 않을 테니 말이야!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "펠리시엔느",
+          "text": "넌 휘말린 것뿐이니까. 그 누구도 네 모험으로 인해 상처받지 않을 거고, 넌 심지어 구원자 역할까지 할 테니... 하."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "펠리시엔느",
+          "text": "너의 그 순진무구한 소꿉친구는 공주 역할이 아주 잘 어울리겠지! 그런데 여기에 악당이 빠질 수는 없잖아?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "펠리시엔느",
+          "text": "바로 그때 내가 나타났지. 네가 처음에 바라던 대로 말이야."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "펠리시엔느",
+          "text": "...이 파리에 얼마나 사람이 많은데, 왜 나만 네 곁에 나타났을까? 생각해 본 적은 있나?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그녀가 힘껏 움켜쥔 손바닥 아래서 근육과 뼈가 눌리고, 쓸리고, 변형되었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "펠리시엔느",
+          "text": "인정해, 아델! 넌 내가 셀리아를 공격하기를 바랐던 거야. 네가 그녀를 죽이고 싶어 한 거라고!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "아델은 온 힘을 다해 고개를 돌렸다. 그녀는 셀리아의 경악하는 표정을 똑똑히 봤다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "콜록... 그건... 거짓..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "펠리시엔느",
+          "text": "아, 거짓말? 아, 맞다. 그녀도 네게 거짓말을 했어, 아델."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "펠리시엔느",
+          "text": "서로에게 진실을 감추는 거짓말쟁이 한 쌍이라... 너희 둘은 정말 잘 어울리는 친구야."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "펠리시엔느",
+          "text": "그녀는 알려주지 않았지? 이 다이아몬드를 태우면 나와 셀리아... 이 두 개의 골칫덩이가 깨끗이 사라진다는 사실을 말이야."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "펠리시엔느",
+          "text": "너도 홀가분해지고 자유로워질 거야."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "거짓... 말..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그녀는 수없이 들어왔던 부탁을 듣기 위해 다시 한번 셀리아를 바라봤다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "셀리아",
+          "text": "무시해, 아델! 생각의 바다가 완전히 열려서는 안 돼! 당장 그 보석을 태워버려!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "펠리시엔느",
+          "text": "이 도시가 무너지는 걸 볼래? 아니면 네 친구를 또다시 죽음으로 몰아넣을래? 타베르니에의 대영웅 씨?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "펠리시엔느",
+          "text": "난 네게 선택의 기회를 주지 않을 거야. 아직 죽고 싶지 않거든."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그녀는 아델이 숨 막혀 고통스러워하는 걸 더 제대로 감상하기 위해 고개를 살짝 숙였다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그러나 그녀가 본 것은 비틀린 미소와 온 힘을 다해 이를 악문 모습이었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "펠리시엔느",
+          "text": "윽! 젠장..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "거의 본능적으로 물어뜯으려 하자, 그녀는 반사적으로 손을 풀고 아델을 확 밀쳐냈다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "이미 준비가 되어 있던 아델은 몇 번 구른 후, 몸을 똑바로 일으켰다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "그건 참 공교롭네. 나도... 아직... 죽기 싫어서 말이야!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그녀는 더 이상 셀리아를 바라보지 않았다. 그 초조한 눈빛은 진위를 가려내는 불꽃보다도 더 뜨거웠다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "‘펠리시엔느’의 껍데기가 완전히 벗겨지자, 거대한 그림자가 갑자기 전조도 없이 철탑 꼭대기에 나타났다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "‘펠리시엔느’",
+          "text": "넌 나한테서 벗어날 수 없어."
+        }
+      ]
+    },
+    {
+      "script_id": "203226",
+      "internal_title": "【3.2】迁流的盛宴17.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "로조 교수",
+          "text": "이대로 가다간 그녀가 그 열쇠를 파괴해 버리고 말 겁니다, 베릴."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "로조 교수",
+          "text": "제가 납득할 만한 이유를 내놓지 못한다면 3초 후에 바로 총을 쏠 겁니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "베릴",
+          "text": "‘표상의 보물고’의 틈새는 닫힌 적이 없습니다, 로조 씨."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "베릴",
+          "text": "다시 고개를 들어 보세요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "로랑 로조는 고개를 들었다. 공중의 도시는 갈수록 가까워져 있었고, 가장자리에 있는 건물은 지평선 끝까지 서서히 뻗어나가고 있었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "베릴",
+          "text": "다이아몬드는 틈새를 더 크게 벌리고 웅장하게 드러나도록 속도를 높일 뿐입니다. 그리고 우리에게는 시간이 충분하죠..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "베릴",
+          "text": "차라리 이 작은 돌이 그녀의 손에서 어떤 효과를 보일지 확인해보는 건 어떨까요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "아델은 손에 쥔 블루 다이아몬드를 바라보면서 거기에 묻은 핏자국을 손가락으로 닦아냈다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "......"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그녀는 마지막 결정을 내리기 전에 한 가지 확인해야 할 게 있었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "셀리아, 연구 결과가 출판되면 원고료로 내게 ‘행운 목걸이’를 선물해 줄 거라고 했잖아..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "아직 기회가 있을까?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그녀는 고개를 숙였다. 얼굴에서 묽어진 핏물이 다이아몬드에 떨어졌다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "셀리아",
+          "text": "넌 정말 너무해, 아델."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "셀리아",
+          "text": "좀 더 일찍 알려주지... 그럼 굳이 시간 내서 그 편지들을 몰래 쓰지 않았을 텐데."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "살짝 꼴사나운, 힘겹게 쥐어짠 미소가 그녀의 얼굴에 떠올랐다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "...또 만날 수 있을까?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "셀리아",
+          "text": "아마..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그녀는 옆에 기절해 쓰러진 펠리시엔느를 힐끗 봤다. 시간이 없었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "결국 셀리아는 앞으로 한 발짝 내디뎠다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그리고 어릴 적에 장난쳤던 것처럼 그녀의 손바닥으로 아델의 손바닥을 덮어 주먹을 꽉 쥐게 했다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "셀리아",
+          "text": "죽은 자가 부활한다는 건 소문일 뿐이야."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "셀리아",
+          "text": "보석을 태운 후에 무슨 일이 일어날지는 아무도 몰라. 그것들은... 다 추측일 뿐이야."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "셀리아",
+          "text": "바로 지금이야. 결정해, 아델."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그 말을 들은 아델은 한참이나 움직이지 않았다. 그녀는 몇 차례 시도한 끝에야 힘겹게 입을 열었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "펠리시엔느의 말이 맞아. 난 교활한 거짓말쟁이이자, 자신을 속이고 남도 속이는 멍청이야."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "하지만 한 가지는 틀렸어."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "마침내 숨을 가다듬은 그녀는 거의 통제를 벗어난 것처럼 말을 쏟아냈다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "넌 그 누구의 구원도 필요하지 않아... 너야말로 진정한 모험가야."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "가장 중요한 단서는 네가 구했고, 이 모험을 가장 먼저 떠난 것도 너야. 이곳에 설 자격이 있는 건 내가 아니라 너야..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "네가 더 타베르니에라는 이름과 잘 어울려."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "셀리아",
+          "text": "......"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "아델을 붙잡은 손에 힘이 들어갔다. 전에 해왔던 수많은 대화처럼 셀리아는 어쩔 수 없다는 듯 가볍게 한숨을 내쉬었다. 그리고 뒤이어 아델은 친구가 웃는 소리를 들었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "셀리아",
+          "text": "아니야, 아델. 그건 중요하지 않아."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "셀리아",
+          "text": "내가 타베르니에 가문 이야기에 관심이 있던 건 오로지 너 때문이야. 넌 내 친구니까."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "...나 때문이라고?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "셀리아",
+          "text": "어릴 적부터 넌 언제나 중요한 순간에 선택을 내릴 줄 알았어. 그러면서 한 번도 후회하지 않았지..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "셀리아",
+          "text": "나도 아델 너처럼 살고 싶었거든."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "셀리아의 미소가 떨리는 마음을 손쉽게 깨뜨렸다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "하지만 그것은 멈추지 않고 계속 뛰며, 쉽게 지워지지 않는 상처를 가지고 있었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "셀리아",
+          "text": "언제나 후회하지 않았어. 넌 그래야 해."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그녀는 중대한 약속이나 요구처럼 그 몇 단어에 무게를 실으며 말했다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "셀리아",
+          "text": "그래. 결국은... 조금 후회할지도 모르지. 하지만 지금 망설인다면 난 실망할 거야."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "셀리아가 마지막 미소를 지었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "셀리아",
+          "text": "네가 하고 싶은 대로 해, 위대한 나의 모험가 씨."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "셀리아",
+          "text": "난 널 믿어."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그녀는 아델의 어깨를 토닥인 후 손을 내렸다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "......"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "목소리가 점점 잦아들고, 호흡도 서서히 물러갔다. 오직 심장만이 여전히 떨고 있었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "모든 기다림, 고통, 추격, 저항이 끝에 이르렀다. 기대, 원한, 슬픔, 용서가 모조리 쏟아졌다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그녀에게는 선택지가 없었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "오직 진실만이 거짓을 정화하리라."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "타오르는 불꽃은 변화할 때 나타나는 현상일 뿐, 실재하는 것의 진실이 드러나는 건 이 순간이었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "어떤 위장이든 이 급격한 변화 속에서 본질을 드러냈기에, 이 순간 질량이 변해야 했다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "불꽃이 솟구치면서 프렌치 블루 전체를 스쳐 지나갔다. 아델은 손이 묵직해지는 게 느껴졌다. 표상에 침식되어 프렌치 블루로 변한 그 연수정이 그녀의 손에 나타났다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그러나 프렌치 블루는 사라지지 않았다. 손 위의 한 개였던 보석이 두 개로 변했다. 표상은 물질을 벗어났지만, 원래 있던 세계로 돌아가지 않았다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "어째서..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "왜 아직도 존재하는 거지...?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "...오직 진실만이 거짓을 정화하리라!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "거짓은 불꽃 속에서 소멸하고 남은 건 진실뿐이었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "이 순수하고 조금은 투명한 블루 다이아몬드는 불멸 속에서 자신이 거부할 수 없는 진실임을 증명했다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "‘제보당의 괴수’는 타버렸잖아. 펠리시엔느도!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "이건 그 무의식의 바다에서 온 거잖아... 왜 흠집조차 나지 않는 거야?!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "셀리아",
+          "text": "말이 안 되잖아... 분명 상징일 뿐인데..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "베릴",
+          "text": "순수한 상징이기 때문에 그런 거죠."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "점술사가 그녀의 말에 긍정했다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "베릴",
+          "text": "그건 실재하는 표상입니다. 세상 사람들의 기억이 하나로 모여 그려낸 그림처럼 그것을 구성했죠."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "베릴",
+          "text": "아무리 많은 모조품이나 위조품이 존재해도 그림 속 보석은 영원히 그것만의 이름을 가집니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "베릴",
+          "text": "품질이 떨어지거나 불순물 없이 순수함을 영원히 유지하죠. 그러기 때문에 타버리지 않고 영원히 남을 수 있는 겁니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "베릴",
+          "text": "당신은 잘했습니다, 아델."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "아델은 그 칭찬을 들으며 곤혹스러워했다. 그녀는 아무것도 바꾸지 못했다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "공중의 파리는 여전히 내려왔고, 두 에펠탑의 끝은 이미 교차하기 시작했다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "사다리가 서서히 접히는 것처럼 하늘과 땅의 간격이 줄어들고 있었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그리고 갈수록 투명해지던 셀리아와 펠리시엔느의 형태는 불어오는 바람에 조금씩 잘려나가며 사라졌다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "다이아몬드를 없애버리지 못했는데 어째서..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "베릴의 미소를 본 그녀는 더 이상 말을 잇지 못했다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "이야기가 시작됐던 점술 살롱에서 베릴은 그녀를 바라봤다... 그리고 지금 이 순간의 그녀가 미소를 지었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "베릴",
+          "text": "제가 본 것처럼 사람들은 운명 속에서 발버둥 치고, 무수히 많은 물방울이 이곳에 모여 마침내 앞으로 나아가는 거센 흐름이 됐습니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "베릴",
+          "text": "그리고 당신은 그중에서도 유난히 고집이 센 물방울이었죠. 당신의 발버둥은 무의미하지 않았습니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "베릴",
+          "text": "그 격류가... 떨어질 것 같네요."
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

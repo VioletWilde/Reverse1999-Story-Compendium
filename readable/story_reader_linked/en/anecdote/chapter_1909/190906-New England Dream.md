@@ -1,6 +1,6 @@
 # New England Dream
 
-- Chapter: To Wennifred (`1909`)
+- Chapter: To Winnifred (`1909`)
 - Episode: `190906`
 
 > Subtitle: The work belongs to the production company, to the investors, and to the business plan, but not the author.

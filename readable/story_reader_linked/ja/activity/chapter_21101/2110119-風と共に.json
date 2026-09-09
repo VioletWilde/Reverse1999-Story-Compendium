@@ -1,0 +1,602 @@
+{
+  "episode_id": 2110119,
+  "chapter_id": 21101,
+  "chapter_title": "ルート77 ～呪われた道路～",
+  "display_label": "",
+  "title": "風と共に",
+  "subtitle": "南方の土地は水分が多くて肥沃だ。風はずっと遠くまで吹き続けている。",
+  "trails": [
+    {
+      "element_id": 2110108,
+      "owner_episode_id": 2110119,
+      "trigger_episode_id": null,
+      "title": "衛生ガイドライン",
+      "description": "女主人たちはいつも掃除を一大事だと見ている。ほかの人より幸運なのは、今回の掃除の対象となるものも同じように思っている。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=2110119",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "モーテル・チューズデーの清掃記録"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "4週目\n定期清掃\n105号室　カーペットは嘔吐物で汚れている\n108号室　壁の汚れと指紋を掃除\n205号室　ガラスが破損、業者に連絡して交換する予定\n\n5週目\n定期清掃\n105号室　カーペットは嘔吐物で汚れている そろそろ懲らしめてあげましょう\n211号室　シャワーヘッドの交換が必要\n205号室　ガラスのひび割れが消えた？\n\n8週目\n定期清掃\n受付　テーブルの修理が必要\n102号室　床が焦げ付いている 見間違いではない\n焦げ跡が消えた、いい子\n\n10週目\n定期清掃\n105号室　血の跡、カーペットが使えなくなった 罰の時間\n202号室　ガラスが完全に割れた\n自力で修復された。いい子にはご褒美を与えましょう\n今夜\nもちろん、105号室で"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 2110109,
+      "owner_episode_id": 2110119,
+      "trigger_episode_id": null,
+      "title": "おやすみなさい",
+      "description": "記録されている歌。数えきれない夜の夢の中で漂っている。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=2110119",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "子守唄"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "目を閉じて、閉じなさい。わたしの可愛い子よ\n安らかな夜がやってきた\nベッドの中、素敵な夢が\nあなたを待っている\n\n目を閉じて、閉じなさい。わたしの可愛い子よ\nフクロウが愉快な気持ちでムササビを捕まえ\n一列にぶら下げて、木の枝に\n一匹一匹、美味しそうに食べる\n\n目を閉じて、閉じなさい。わたしの可愛い子よ\n荒野を黒い馬が駆け抜ける\n聞かず、恐れず\n軽やかな蹄の音を\n\n目を閉じて、閉じなさい。わたしの可愛い子よ\n納屋に詰まっている恐怖と驚き\n用意された朝食は甘くておいしい\nあなたが目を覚ますのを待っている"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "202129",
+      "internal_title": "【2.1】77号往事-19",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "リーリャ",
+          "text": "ん…？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "暖かい朝日が大地を照らしていた。パイロットは訝し気に目の前の人物を見た。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "リーリャ",
+          "text": "ヴェルティ、無事か？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "うん、今はね。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "きみがモーテルを離れたあと、いい出来事と悪い出来事が一つずつ起こったんだ――"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "リーリャ",
+          "text": "選ばせるな。さっさと教えてくれ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "メェプルを見つけたんだ。それがいい知らせ――"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "悪い知らせは、厄介な問題も見つけてしまったこと――このモーテルは生命力を持つ意識体で、とめどなく怪談を生み、恐怖を撒き散らしてる。今後、超自然的な神秘学家になるかもしれない。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "厳重に監視して制御する必要がある。このままここで成長させるのは危険だ。財団に引き渡さないと。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アルゴス",
+          "text": "…マスター、依頼は終わりだ。あたしは町に戻ってカイラを探す。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "彼女は遠くを見つめた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アルゴス",
+          "text": "…ある若者からお袋探しも依頼されてるしな…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アルゴス",
+          "text": "これでお別れだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "報酬はどんな形で渡せばいい？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アルゴス",
+          "text": "報酬？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "傭兵は朗らかな笑顔を見せた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アルゴス",
+          "text": "あたしたちはもう友だちだ、ヴェルティ。報酬なんていらねぇよ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "別れを告げると、彼女は終わりのない道へと歩き出した。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "リーリャ",
+          "text": "ところで、ウルドの情報は掴んだのか？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "子羊はわずかに耳を動かした。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "メェプル",
+          "text": "わたしを探しにきたのは、それが理由ですね？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "メェプル",
+          "text": "聞いてさしあげましょう。大して難しいことでもありませんし…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "彼女はそう言うと、目を閉じた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "リーリャ",
+          "text": "…寝たのか？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "荒野のそよ風が彼女の柔らかい耳をなでる。まるで形なき蜘蛛の糸が、その耳元を漂っているかのようだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "メェプル",
+          "text": "ふむ…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "メェプル",
+          "text": "ああ…聞こえました。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "子羊は目を開いた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "メェプル",
+          "text": "果ての風いわく、ミス・ウルドの最後の投稿はサンパウロ廃兵院から届いたそうです。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "メェプル",
+          "text": "非常に優秀な原稿でしたが、それ以外の情報は『ＵＴＴＵ』も持ち合わせておりません。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "…わかった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "メェプル",
+          "text": "今晩は、少なからずいい夢を見ることができるでしょう。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "メェプル",
+          "text": "わたしも今回の取材で十分な資料を集めることができました…きっと素晴らしい報道になると思います。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "メェプル",
+          "text": "出版の際には、あなたの名前も掲載されることになるでしょう――ミス・チューズデー。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "チューズデー",
+          "text": "わたくし？　わたくしは何もしていないけれど。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "メェプル",
+          "text": "いいえ。あなたは凄いことをしてくれました…あなたがいなければ、わたしは自分が「音信不通」を怖がっているなんて気づけませんでした。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "メェプル",
+          "text": "この実体験は、編集者にとって素晴らしい資料になります。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "チューズデー",
+          "text": "ああ、それ以上言わないで。あなたを外に出したことを後悔してしまうわ…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "メェプル",
+          "text": "戻ることはありませんよ――取材は終わったのですから。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "純白な子羊は赤い日記を閉じた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "メェプル",
+          "text": "順調にことが進めば、次回の『UTTU』に掲載されることになるかと。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "メェプル",
+          "text": "――では、わたしはこれで。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "…うん、またね。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "リーリャ",
+          "text": "よし、さっさと行こう。こんなとこ、一秒たりともいたくねぇ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "まだだよ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "さっきテキサスにある財団支部と連絡を取った。テレポートでこっちに向かってきてるはずだよ――この超自然的な存在を調査するためにね。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "リーリャ",
+          "text": "――すぐに到着するんだろうな？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "近くにテレポートの気配があるし、恐らく彼らが…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "振り返ると、目の前に見知らぬ少女が立っていた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "…だれ？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "少女は栗色の髪の毛を束ね、籠を持っている。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "リーリャ",
+          "text": "――そいつは財団のやつじゃないぞ。町で見かけたことがある。名前は確かカイラだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "…カイラ？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "目の前の少女は笑顔でこちらを見つめている。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "…アルゴスって女性を知ってる？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "籠を持った少女はいっそう甘い笑顔を見せた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "カイラ",
+          "text": "いいえ、聞いたことありません。我が子に百目の化け物の名前をつける親御さんなんているのですか？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "カイラ",
+          "text": "人違いではないでしょうか――「カイラ」という名前は他にもたくさんいます。「エマ」や「アンナ」、「キャサリン」のように。そんなことより、あなた…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "少女は笑顔のままだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "カイラ",
+          "text": "お会いしたことないはずなのに、なんだか懐かしい感じがしますね。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "彼女は手を籠に入れ、しばらくすると、しわくちゃの花を取り出した。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "質素な色合いの蛾が花びらに落ち、軽く羽根を震わせる。鱗粉が微かに落ちた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "カイラ",
+          "text": "素敵な一日をお過ごしください。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "…ありがとう。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "少女に花を一本渡された。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "きみはここの宿泊客？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "少女は頷いた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "カイラ",
+          "text": "何かあったのですか？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "聖パブロフ財団がこのモーテルを管理することになった――危険な事件がいくつも起きたし、これ以上の宿泊はやめた方がいい。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "カイラ",
+          "text": "あら…どうしましょう？　まだ荷物が中に…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "あとで財団の職員がくるから、その時に彼らにそう伝えるといい。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "カイラ",
+          "text": "今、荷物を取りに行っちゃだめなんですか？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "財団の職員が着いてからのほうがいいよ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "カイラ",
+          "text": "ありがとうございます、優しい方ですね…ご心配なく、わたしは大丈夫ですから。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "少女は瞬きをしてから、閉ざされていた扉を押し開け、人々の視界から消えた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "リーリャ",
+          "text": "あいつ…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一言も話さなかったパイロットが口を開いた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "どうしたの？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "リーリャ",
+          "text": "いや、気のせいだと思う。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "その時、テレポートの光が見えた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "財団の職員Ⅰ",
+          "text": "たいへん遅くなり申し訳ありませんでした、タイムキーパー。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "財団の職員Ⅰ",
+          "text": "場所の特定に手間取りまして。まるで、何かに阻害されているかのような…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "財団の職員が状況の把握をしようとあくせくしていると、モーテルの奥からくぐもった声が響いた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "チューズデー",
+          "text": "あら…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "――！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "扉が開かれ、青白い遺体とゴミが溢れ出た。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "チューズデー",
+          "text": "本当に悪い子ね。地面に落ちているゴミは食べちゃだめって言ったのに――子どもってみんなこうなのかしら？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "リーリャ",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "財団の職員Ⅰ",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "…彼はゼノミリタリーの軍人、ミスター・スティーブンだよ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "財団の職員Ⅰ",
+          "text": "…スティーブン、どこかで聞いたような――"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "職員は手慣れた手つきで資料をめくり、即座に探していた内容を見つけた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "財団の職員Ⅰ",
+          "text": "やはり名の知れた方でした。ゼノミリタリーの上層部だったそうですが、真空爆弾の動画が漏えいして以降、行方をくらませていたようです。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "財団の職員Ⅰ",
+          "text": "多額の懸賞金がかけられています…彼の行為に、イゴール元帥は相当お怒りだったようです。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "財団の職員Ⅰ",
+          "text": "まさかこのモーテルに隠れていたなんて…思わぬ収穫ですね。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "運が悪い隠れ場所だったけどね。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "財団の職員Ⅰ",
+          "text": "それではタイムキーパー、この件は我々が引き継ぎます。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "チューズデー",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "チューズデー",
+          "text": "目の前のメイドは動揺することなく、ただ軽くおくるみを叩いていた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "…支部での手続きが済んだら本部に収容されて、評価面談を受けることになると思う。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "チューズデー",
+          "text": "…愛しいこの子と一緒にいられるかしら？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "それはわからない。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "行こう、リーリャ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "彼女はスーツケースを手に取った。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "ウルドの情報を、レディ・Zに報告しないと。"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

@@ -1,6 +1,6 @@
 # We Have Everything
 
-- Chapter: The Winds OF Juhalerat (`1910`)
+- Chapter: The Winds of Juhalerat (`1910`)
 - Episode: `191005`
 
 > Subtitle: Your mistakes will be your demise, my friend.

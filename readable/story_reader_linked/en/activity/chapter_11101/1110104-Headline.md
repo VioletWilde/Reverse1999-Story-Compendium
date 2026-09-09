@@ -1,6 +1,6 @@
 # Headline
 
-- Chapter: The Rimet Cup (`11101`)
+- Chapter: The Theft of the Rimet Cup (`11101`)
 - Episode: `1110104`
 
 > Subtitle: You see, everybody can be world-famous for 15 minutes.

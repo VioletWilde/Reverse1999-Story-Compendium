@@ -1,6 +1,6 @@
 # Time to Set Sail
 
-- Chapter: The Prisoner in The Cave (`105`)
+- Chapter: The Prisoner in the Cave (`105`)
 - Episode: `10504`
 
 > Subtitle: A wave has come crashing down. Grab your umbrella and hold on to the railing.

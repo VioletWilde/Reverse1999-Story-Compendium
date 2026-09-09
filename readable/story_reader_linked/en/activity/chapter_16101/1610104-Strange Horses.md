@@ -1,6 +1,6 @@
 # Strange Horses
 
-- Chapter: Notes on Shuòrì (`16101`)
+- Chapter: Notes on Shuori (`16101`)
 - Episode: `1610104`
 
 > Subtitle: The walking man, the crouching animal. In the blink of an eye, in a fleeting moment.

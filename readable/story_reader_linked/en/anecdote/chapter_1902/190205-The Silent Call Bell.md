@@ -1,6 +1,6 @@
 # The Silent Call Bell
 
-- Chapter: chapter_1902 (`1902`)
+- Chapter: The Master of Theatrics (`1902`)
 - Episode: `190205`
 
 > Subtitle: You and I both know that the bell signals the start of the show.

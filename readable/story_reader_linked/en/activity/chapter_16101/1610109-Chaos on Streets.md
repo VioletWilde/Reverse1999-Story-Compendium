@@ -1,6 +1,6 @@
 # Chaos on Streets
 
-- Chapter: Notes on Shuòrì (`16101`)
+- Chapter: Notes on Shuori (`16101`)
 - Episode: `1610109`
 
 > Subtitle: Restrain the ch-, err, restrain ... what?

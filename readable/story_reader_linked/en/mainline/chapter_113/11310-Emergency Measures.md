@@ -1,6 +1,6 @@
 # Emergency Measures
 
-- Chapter: 他者的悲哀 (`113`)
+- Chapter: On Another's Sorrow (`113`)
 - Episode: `11310`
 
 > Subtitle: One must have the wisdom to adapt to endless change in the face of what never changes.

@@ -1,4 +1,4 @@
-# Anecdotes · chapter_1901
+# Anecdotes · The Story of Oliver
 
 - [190101 The Prison of Fog](190101-The Prison of Fog.md) — What lies beyond the exquisitely crafted cage of mist?
 - [190102 Rest Day](190102-Rest Day.md) — It's a day that everyone deserves, but maybe it never really comes.

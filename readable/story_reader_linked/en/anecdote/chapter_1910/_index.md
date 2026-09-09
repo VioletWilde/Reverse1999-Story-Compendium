@@ -1,4 +1,4 @@
-# Anecdotes · The Winds OF Juhalerat
+# Anecdotes · The Winds of Juhalerat
 
 - [191001 Arriving in Juhalerat](191001-Arriving in Juhalerat.md) — A bullet, the smell of gunpowder, and a dreadful journey.
 - [191002 Zeno Speed](191002-Zeno Speed.md) — The earth mocks the masses, bestowing dust and death as presents.

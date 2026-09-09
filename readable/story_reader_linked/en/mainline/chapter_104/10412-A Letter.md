@@ -1,6 +1,6 @@
 # A Letter
 
-- Chapter: El oro de los tigres (`104`)
+- Chapter: El Oro de los Tigres (`104`)
 - Episode: `10412`
 
 > Subtitle: Its creases and folds are smoothened carefully. The writer's seriousness and sincerity could be read between the lines.

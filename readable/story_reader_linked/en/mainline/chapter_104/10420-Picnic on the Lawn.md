@@ -1,6 +1,6 @@
 # Picnic on the Lawn
 
-- Chapter: El oro de los tigres (`104`)
+- Chapter: El Oro de los Tigres (`104`)
 - Episode: `10420`
 
 > Subtitle: Ham, bread and drink ... I assume they taste much better than critters.

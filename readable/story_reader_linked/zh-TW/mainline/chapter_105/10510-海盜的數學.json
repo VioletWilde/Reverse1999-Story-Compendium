@@ -1,0 +1,707 @@
+{
+  "episode_id": 10510,
+  "chapter_id": 105,
+  "chapter_title": "洞穴的囚徒",
+  "display_label": "",
+  "title": "海盜的數學",
+  "subtitle": "縱橫字謎王，哈，總算是走了一回運。",
+  "trails": [
+    {
+      "element_id": 1051001,
+      "owner_episode_id": 10510,
+      "trigger_episode_id": null,
+      "title": "小徑① 美妙巧合",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=510",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "您看出來了，這是一個寫滿了真理的條條框框的群落。對他們來說，即使餓扁了肚子，甜甜圈也優先是一種拓撲結構——益智玩具上的那枚可愛的環兒——總之，不是食物。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "一紙謎題對他們來說，等同於最解饞的黃油點心——噢，抱歉，我不是在說您手裡那張。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "它不好吃",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "是的，雖然有些冒犯，但您手裡的東西有一定的年頭——它正散發著來自18世紀的黴味。您也明白，吃了這種東西，是會壞肚子的。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "不過，我們得承認，這些黴斑非同一般。它們提醒了我們，曾有一位商人的兒子望向夜空，替我們找到了星星的謎底。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "這位年輕人比誰都相信，星星與太陽，就像那些鐘錶匠們擺弄的精密齒輪，遵循著既定的規矩。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "就連宙斯的祖父都印證了他的預言！當一位先生通過嘔心瀝血自製的反射望遠鏡望向天空時，一顆天體精準地出現了。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "什麼來著……19.6，數列的第八項，第七行星，令人驚歎的天空之神。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "——如果不是上帝以此創造了世界，還有其它能解釋如此美妙的規律嗎？"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "有的，那就是它或許什麼都不是。這組數列的缺口顯而易見，那顆星星——就是本該落在數列第五項的那顆，我是說，如果它存在，那我們又為何連它的影子也沒見著？"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "要麼是上帝錯了，要麼是我們都瞎了眼。您認為是哪種呢？"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "上帝錯了",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "我忘了，您是個無趣的現代人。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "可您得諒解，我們討論的是18世紀的遺珠。那時人們認為所有的星星都居住著能欣賞上帝手藝的生物，而彗星上永恆的冷熱交替則是為了懲罰流放的罪犯——多麼浪漫。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "我們都瞎了眼",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "是的，一定有這麼一顆星星。是的，它終於還是被找到了。穀神星，我們偉大的數學王子只消一個小時就計算出了它的軌道。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "噢，偉大的天文，偉大的數學，偉大的受造世界。"
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "終結這場美夢的是新的發現——第八行星被算出來了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "刻瑞斯、烏拉諾斯外的那顆星星。人們依據更準確的天文資料和數學計算發現了它，商人兒子的數列神話也隨之終結。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "現在您知道了，這是不可能的謎題。因為它最初就是行不太通的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "我們發現了穀神星，因為它恰好在那裡。如此實在，並不受任何念頭撼動。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "或者，另一種說法——我們能完美地證明數學，是因我們發明了它。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "這是個好夢，我想。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "請設想吧，您以有限之軀體踽踽獨行在漆黑的山谷，發出嘶啞的呐喊，渴望得到眾神的回應。突然間，靈光一閃而過，您奇跡般地攀上了高峰，親眼目睹巨大的星體從天際線升起。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "即使這一切不過是場幻覺和譫妄，您也見證了創世的日出。"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100515",
+      "internal_title": "第五章5-10.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "海盜的數學"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星銻",
+          "text": "為什麼……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星銻",
+          "text": "為什麼我自從遇到了維爾汀以後，就總是被關著呢？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "在無人關心的角落，搖滾海盜正苦心思考著。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星銻",
+          "text": "先是被關進箱子，又被關進基金會，現在又被關在這裡……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星銻",
+          "text": "哦！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星銻",
+          "text": "我明白了，這一定是維爾汀的問題！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星銻",
+          "text": "兄弟們——！我知道是怎麼回事兒了！你們抓錯人了！她才是最大的無理數！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "地牢的門紋絲不動，這截木頭對她的話置若罔聞。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星銻",
+          "text": "啊，麻煩死了！這兒刻著什麼……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星銻",
+          "text": "“證明完善之時，即是自由之刻……”？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星銻",
+          "text": "唔，意思就是讓我證明自己不是無理數吧？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星銻",
+          "text": "我不是已經努力證明了嗎？混帳！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "握緊的拳頭狠狠捶打在了眼前的木門上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星銻",
+          "text": "唔！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "——她立刻痛得蹲了下來。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "……船長，你可能弄錯了證明方向。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "以APPLe某之見，這個島上的團體與畢達哥拉斯主義有著密不可分的關聯。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星銻",
+          "text": "唔，畢達哥拉斯……那個古希臘的數學家？證明了直角三角形邊長什麼的…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星銻",
+          "text": "那不是西元前的人物嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "他們的成果中包含了真正的數學。但從普世觀念來說，他們是一個帶有濃厚神秘色彩的奇特團體。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "萬物皆數，尊崇整數，禁食豆子，還有宗教式的集體生活，都是畢達哥拉斯學派的特徵。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "而且，最早的畢達哥拉斯學派正是因為無理數的發現而滅亡，這可以解釋他們的厭惡。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "當時有一位名為希帕索斯的門徒發現了根號二的存在，這讓整個學派基於整數比的信仰分崩離析……他本人也被丟進了海裡。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "APPLe某推測，他們是把整數視為了一種品德的標杆。而一個人可以通過修行提升序列。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "此外，他們還篤信萬事萬物中都存在一種數位密碼，解開它的人就能獲得世界的真理……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星銻",
+          "text": "好啊，我搞清楚了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "星銻一骨碌從地上爬了起來。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星銻",
+          "text": "本海盜已經受夠這些保守，落伍，缺乏人道主義精神的評價體系了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星銻",
+          "text": "我現在就要從根源上解決問題！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "信奉自由的海盜在牢門前兜了幾圈，開始拉扯較為鬆散的木條。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星銻",
+          "text": "——我要越獄！！！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "……不愧是船長，迅速發現了證明自身是無理數的必要條件。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "APPLe某或許可以為你提供些幫助……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "APPLe剛把自己的手放到牆上，便猛然感到一陣劇烈的顫動。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星銻",
+          "text": "……怎麼回事，這是地震了嗎？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "鳥獸的振翅聲在洞穴中迴響。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "蘋果大副從牢房的縫隙中飄出，盡職地做了一番考察。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "所有的阿其翁都向一個地方飛去了。這是它們的習性嗎？還是……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星銻",
+          "text": "唔……！這裡要塌了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星銻",
+          "text": "咳咳……現在看來，倫敦教管所的環境可真是比這強多了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "萬幸，這些零散的落石並不足以填滿這間空曠的客房。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "星銻重振旗鼓，再度拾起自己的越獄事業。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "或許是因為剛剛的塌陷，一絲陰冷的霧氣，在洞穴內蔓延開來。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "而木門依然巋然不動。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星銻",
+          "text": "……唔，那裡好像有張紙？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星銻",
+          "text": "是從阿其翁身上掉下來的嗎？奇怪……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星銻",
+          "text": "《不可能的謎題》……這是個數學題嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星銻",
+          "text": "0.4，0.7，1，1.6，2.8，5.2，10，19.6……一共八個數字，遵循這個數列排布。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "下面的是八個天體符號，分別對應太陽、水星、金星、地球、火星、木星、土星、天王星。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "應該是要我們把天體填進數字後面的方塊裡。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "……難道“完善證明”，指的是解開這個謎題嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星銻",
+          "text": "哈，這有什麼不可能的？八個數字對應八個天體。就算窮舉，也能試出來～！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星銻",
+          "text": "APPLe先生可是《泰晤士報》的縱橫字謎之王，對吧？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "我想這與縱橫字謎差距還是很大的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "圓潤的紅色果實摸了摸下頜，仔細打量起這個名為“不可能”的謎題。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "以APPLe某之見，這些天體的某項數值之比應該能符合這行數列。比如半徑、體積、自轉週期……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星銻",
+          "text": "但如果是這樣的話，太陽是不是也太大了點？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "幾聲吱叫打斷了星銻的思路。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "不知何時，一些窸窸窣窣的矮小身影湊到了她的腳下。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星銻",
+          "text": "……嘿，這些地下魔精怎麼又湊上來了！走開，這張紙不是食物！"
+        }
+      ]
+    },
+    {
+      "script_id": "100516",
+      "internal_title": "第五章5-10.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "請等一下，船長，這些魔精們似乎是想告訴我們什麼。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "它們一直指著太陽的符號。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星銻",
+          "text": "真奇怪，哈哈，難道這座島上的魔精都懂數學嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星銻",
+          "text": "太陽……對了，如果太陽不是填空對象，而是參照物呢？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星銻",
+          "text": "我兩年前在《泰晤士報》上讀到過國際天文學聯合會的相關報導。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星銻",
+          "text": "地球到太陽的平均距離約為9300萬英里，水星約為3600萬英里，金星約為6700萬英里。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星銻",
+          "text": "先將日地距離記為1天文單位，再取近似值……那水星就是0.4，金星就是0.7……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星銻",
+          "text": "這就對了，這些數字是行星和太陽的平均距離比！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "仿佛有不可見的靈光劃過，她迅速地填上了前三個天體。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "往日模糊的知識，此刻被無比清晰地回想起來。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一切都順理成章，理所當然。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "火星距太陽的平均距離約為1.42億英里，木星約為4.84億英里，土星8.86億英里，天王星17.86億英里。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "如果只算粗略比例，並對部分小數取整……那麼1.6對應的是火星，5.2是木星，10是土星，19.6是天王星。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "……奇怪，這些往日一掠而過的天文數字，此刻回想起來卻無比清晰。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星銻",
+          "text": "但如果這樣填，2.8就空了出來。火星和木星間空了一位。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "如果太陽算作參照物，填空就少了一個天體。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "所以這是不可能的謎題嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星銻",
+          "text": "哈，沒什麼不可能的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星銻",
+          "text": "答案很簡單！在火星和木星之間，一定還有一顆沒寫在紙上的星星！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "地面突然傳來了巨大的震動。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星銻",
+          "text": "……什麼，又怎麼了？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "星星升了起來。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "毫無預兆，突如其來。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "——在這個濕冷幽暗的洞穴之中。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "明亮、碩大、毋庸置疑。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星銻",
+          "text": "……這是什麼？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星銻",
+          "text": "我從未見過……這樣的天體……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "……船長，APPLe某對此似乎有些印象。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "在火星和木星之間，的確有一顆這樣的星星。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "它被命名為穀神星，一個叫皮亞齊的義大利神父在1801年觀測到了它。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星銻",
+          "text": "穀神星……？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星銻",
+          "text": "難道，我們剛剛在筆尖下重新發現了它？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星銻",
+          "text": "難道宇宙真的是遵循著這樣的數列……來排布的星星？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星銻",
+          "text": "這就是……自然萬物的數位密碼？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "……星銻！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "星銻！！！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "有人正急切地搖晃著手臂。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "紅弩箭",
+          "text": "你在發什麼呆，不會是誤食魔精後中毒了吧？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星銻",
+          "text": "……唔！？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星銻",
+          "text": "奇怪，我的頭好痛……剛剛的那些是……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "所有星星都消失了，洞穴裡只有潮濕的霧氣和冰冷的岩壁。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "以及面色同樣凝重的紅弩箭。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "紅弩箭",
+          "text": "……我就長話短說了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "紅弩箭",
+          "text": "十四行詩被拘押了，他們計畫賜她鴆酒。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星銻",
+          "text": "——怎麼回事？！"
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

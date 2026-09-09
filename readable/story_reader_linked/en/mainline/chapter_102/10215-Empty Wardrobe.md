@@ -1,6 +1,6 @@
 # Empty Wardrobe
 
-- Chapter: Tender is the Night (`102`)
+- Chapter: Tender Is the Night (`102`)
 - Episode: `10215`
 
 > Subtitle: Why left these clothes at the dining table and the floor? Someone should clean them up quickly.

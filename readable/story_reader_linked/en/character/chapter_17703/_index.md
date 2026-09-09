@@ -1,7 +1,7 @@
 # Character Stories · The Tall Lighthouse
 
 - [1770301 Periodical Suffering](1770301-Periodical Suffering.md) *(extra record)*
-- [1770302 Island, or a Gray Dog](1770302-Island, or a Gray Dog.md) *(extra record)*
+- [1770302 A Lone Bird, or a Gray Dog](1770302-A Lone Bird, or a Gray Dog.md) *(extra record)*
 - [1770303 Three Islands](1770303-Three Islands.md) *(extra record)*
 - [1770304 A Fraudster](1770304-A Fraudster.md) *(extra record)*
 - [1770305 The Protagonists](1770305-The Protagonists.md) *(extra record)*

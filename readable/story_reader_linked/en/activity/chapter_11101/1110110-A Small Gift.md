@@ -1,6 +1,6 @@
 # A Small Gift
 
-- Chapter: The Rimet Cup (`11101`)
+- Chapter: The Theft of the Rimet Cup (`11101`)
 - Episode: `1110110`
 
 > Subtitle: Don't mention it. It's the least he can do.

@@ -1,0 +1,701 @@
+{
+  "episode_id": 10815,
+  "chapter_id": 108,
+  "chapter_title": "悲しき熱帯",
+  "display_label": "",
+  "title": "北地のハヤブサ",
+  "subtitle": "久々の再会と、衝撃的な裏切り。",
+  "trails": [
+    {
+      "element_id": 1081501,
+      "owner_episode_id": 10815,
+      "trigger_episode_id": null,
+      "title": "いいニュースと悪いニュース",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=815",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "一つの嘘が連鎖反応を引き起こす。残念ながら、君にも影響を及ぼしてしまったようだ。そして悪い知らせがある。君は裏切られた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "だが、いい知らせもある。あるパイロットの中尉は、彼女が仕えると誓った組織よりも君に忠実なようだ。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "裏切り者は誰？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "君もよく知っている――決して勝てない敵と対峙させられた元帥さ。この戦いは彼の心に癒えない潰瘍を残した。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "だが、指揮者である限り、彼は肉体的にも精神的にも揺るぎない存在でなければならない。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "前線で勝利を重ねているあいだに、彼はあまりにも意外な決断を下した。忠実な副官さえも疑問を抱くほどだ。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "上に立つ者の考えは、我々凡人にはわからないものだ。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "裏切り者は必ず罰を受けるよ",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "トロイの木馬の話を聞いたことはあるか？"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "ギリシャの兵士たちが木馬の中に隠れてトロイの城壁を突破した神話だ。あるトロイの神官は警告したにも関わらず、それを咎めた神々によって処刑されてしまった。その後、トロイの王たちも隠れていた侵略者に殺されたがな。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "敵に殺されるのは最悪だが、味方に殺されるのはもっと惨い。まったく、名誉のかけらもない死に様だった。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "あまり期待しないほうがいい。彼は、どちらかというと追い詰められた患者みたいなものだ。潰瘍の痛みに疲れ果て、必死に抜け道を探している。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "最終的に彼は、他でもないあの「伝道者」から差し伸べられた手に縋りついた。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "自分の選択が後戻りできない状況を招いていることぐらいは、自覚しているだろう。"
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "これ以上悪い知らせは聞きたくない",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "それは助かる。こちらも報告書を読むのに疲れていたところだ。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "君の聡明な判断に期待しているよ。そろそろいい知らせが欲しいところだったからな。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "自分のしたことを理解してるといいけど",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100821",
+      "internal_title": "第八章8-15.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "北地のハヤブサ"
+        },
+        {
+          "kind": "title_card",
+          "text": "イゴールのオフィス"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "元帥はファイルを持ち上げ、あの若いパイロットの資料を見つめた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "イゴール元帥",
+          "text": "飲んだくれ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "イゴール元帥",
+          "text": "喧嘩好きの神秘学家か。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "イゴール元帥",
+          "text": "伝令兵！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "イゴール元帥",
+          "text": "リーリャ中尉にグラウンドで私を待つよう伝えろ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "元帥は椅子から立ち上がり、グラウンドへと向かった――そこにはまだ、裏切り者の血で染まった赤い雑草が残っている。"
+        },
+        {
+          "kind": "title_card",
+          "text": "ゼノミリタリーの基地"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "若いパイロットは酒袋を持ったまま、元帥に歩み寄った。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "イゴール元帥",
+          "text": "私たちの故郷の酒と比べて、こちらの酒は如何かな？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "リーリャ",
+          "text": "飲んだら眠くなる酒はダメだな。これじゃ調子が上がらねぇ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "イゴール元帥",
+          "text": "そのおかげで、この土地と同じように泥酔状態に浸っていられるのさ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "イゴール元帥",
+          "text": "困窮と混乱に満ち、未来が空の太陽よりも遠く感じられるだろう。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "空を見上げれば、太陽が眩く大地を照らしている。一方で、生活は下水道の如く暗い。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "イゴール元帥",
+          "text": "君にとって、財団はどんなところか教えてくれるか？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "リーリャ",
+          "text": "あたしを試してんのか？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "イゴール元帥",
+          "text": "あくまで好奇心だよ。若者が組織をどう見ているのか知りたいだけだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "リーリャ",
+          "text": "あのヴェンデッタに比べれば、財団の方がまだ理屈に適ってると言えるかな。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "リーリャ",
+          "text": "まあ、ほんと頑固な奴ばっかりだけどな！　だが、いいヤツも多いと思うぜ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "リーリャ",
+          "text": "例えば、タイムキーパーの助手さんとかな。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "資料と業務のせいでタイムキーパーと共にサンパウロに来れなかったソネットのことだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "リーリャ",
+          "text": "規則、制度、法律…正直言ってつまらんものばかりさ。でも、無法の地に比べりゃまだマシだな。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "リーリャ",
+          "text": "とにかく、財団はいけ好かない連中が多いとこだ。だが、いけ好かない仕事をやるやつもいないとダメだからな。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "元帥の目にわずかな賞賛の光が走った。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "イゴール元帥",
+          "text": "ゼノミリタリーは財団に忠実な友だ。我々は神秘学家と人間が共存する未来を目指し、尽力してきた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "イゴール元帥",
+          "text": "マヌス・ヴェンデッタや世界の戦争、混乱に抗いながら。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "現にサンパウロでは、ゼノミリタリー独自の方法で脆い平衡を維持してきた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "リーリャ",
+          "text": "ふん。銃ってのは、向けられたとこしか撃てないもんだからな。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "イゴール元帥",
+          "text": "「ストーム」によって大量の兵士が「必要な犠牲」とされ流された。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "リーリャ",
+          "text": "ゼノミリタリーのそういうやり方は嫌いだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "イゴール元帥",
+          "text": "そうだろうな。だが、これも命令だ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "イゴール元帥",
+          "text": "兵士を勝てない戦に向かわせて、無駄死にさせることさえある。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "イゴール元帥",
+          "text": "それでも私たちは怯まず今日まで歩いてきた。今にも倒れそうな戦車を支え、雨のとばりの中を進んできたのだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "イゴール元帥",
+          "text": "だが、ゼノミリタリーはあとどれだけ前進できる？　この戦車は、あとどれだけ持つのだろうか、中尉よ？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "リーリャ",
+          "text": "さあ、興味ないね。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "パイロットは再び甘い酒を一口飲んだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "それは夢のように甘く、意識が次第に沈んでゆく。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "イゴール元帥",
+          "text": "アルカナはまだ生きている。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "イゴール元帥",
+          "text": "確かに真空爆弾で爆撃したが、我々はそのあと生命反応を感知した。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "リーリャ",
+          "text": "ありえない。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "イゴール元帥",
+          "text": "そうだ、これはありえないことだ。神の奇跡でも起こらない限りはな。君は「奇跡」を信じるか？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "リーリャ",
+          "text": "酔っ払いのデタラメの方がなんぼか信憑性があるぜ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "イゴール元帥",
+          "text": "だが、その奇跡を信じる者がいる。彼らは羊飼いのもとに集まる羊の群れのように、奇跡を生んだ者を追うのだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "イゴール元帥",
+          "text": "先日の脱走兵事件にさほど驚きはなかった。私が驚いたのは、彼らが自分の長官を射殺したことだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "リーリャ",
+          "text": "そりゃあ死刑になって当然だな。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "イゴール元帥",
+          "text": "「ストーム」が訪れるまで、我が軍隊の人間と神秘学家は団結していた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "イゴール元帥",
+          "text": "どの種族の血が流れているかなど重要ではない。真に重要なのは、軍隊の規律のもとで団結していることだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "イゴール元帥",
+          "text": "私たちは同胞ではなく、同志なのだから。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "イゴール元帥",
+          "text": "だが、「ストーム」が全てを変えてしまった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "時代が逆行するにつれて、神秘学の栄光はますます輝きを増していった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "それは、同志たちの間に亀裂を生んだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "イゴール元帥",
+          "text": "軍人として、私は上官の命令通りに兵士を送り出さなければならない。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "イゴール元帥",
+          "text": "だが…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "元帥はやや言い淀む。そして、再び口を開いた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "イゴール元帥",
+          "text": "彼らは兵士をどのような場所で犠牲にするのだろうか？　戦争のように、簡単に「善悪」で説明できないことは常に存在している。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "イゴール元帥",
+          "text": "中尉よ、タイムキーパーは君にとってどんな人かな？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "リーリャ",
+          "text": "頼れるやつだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "彼女は短くも力強い一言で結論を下した。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "イゴール元帥",
+          "text": "ふむ。あの若いタイムキーパーのためならば、君は命をも惜しまないだろう。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "イゴール元帥",
+          "text": "私たちに必要なのは彼女のような指導者だ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "イゴール元帥",
+          "text": "はぁ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "イゴール元帥",
+          "text": "ヴェンデッタと財団は、同じコインの裏表に過ぎん。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "元帥はため息をつき、リーリャに語りかけた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "イゴール元帥",
+          "text": "財団、安全保障理事会、マヌス・ヴェンデッタ…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "イゴール元帥",
+          "text": "君たちのタイムキーパーは――最終的にどのような道を選ぶか、考えたことがあるかね？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "リーリャ",
+          "text": "あたしはヴェルティを信じてる。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "イゴール元帥",
+          "text": "ふむ…なるほど。それが君の答えか。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "リーリャ",
+          "text": "ゼノミリタリーはあたしを試してるのか？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "イゴール元帥",
+          "text": "いいや、これはゼノミリタリーとは関係ない。あくまで個人的に興味があっただけだ。元帥ではなく、ただのイゴールとしてな。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "元帥は手を振ると、その場を立ち去った。若いパイロットはその場に一人、取り残された。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "彼の後ろ姿が見えなくなると同時に、待ち構えていた兵士たちが一斉に飛び出し、パイロットを取り囲んだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "リーリャ",
+          "text": "どういうつもりだ？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "モルダー",
+          "text": "イゴール元帥に襲撃を謀った容疑で、あなたを連行するわ、リーリャ中尉。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "嘘が不得意な副官の耳は、異常なほどに赤く染まっていた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "リーリャ",
+          "text": "襲撃？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "なんの根拠もない罪を課された。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "リーリャ",
+          "text": "…なるほどな。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "パイロットは相棒を握りしめた。レッド３８は常に誇らし気な空の騎士と共にある。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "モルダー",
+          "text": "武装を解除しなさい、中尉。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "ゼノミリタリーの銃口に対し、パイロットは酒袋の液体を飲み干した。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "リーリャ",
+          "text": "ここの酒は、まったくもって情けねぇ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "リーリャ",
+          "text": "あたしを捕まえるなら、まずは倒さないとだろ？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "モルダー",
+          "text": "撃て！"
+        }
+      ]
+    },
+    {
+      "script_id": "100822",
+      "internal_title": "第八章8-15.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "乱闘では、パイロットが飛び立つ余裕がない。彼女は徐々に押されていった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "モルダー",
+          "text": "無駄な抵抗はよしなさい、中尉。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "パイロットはやむなく武装を解除した。兵士二名に取り押さえられ、そのまま両手を背中で縛られる。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "リーリャ",
+          "text": "イゴールは何を企んでる！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "モルダー",
+          "text": "父さんは私たちを無意味な犠牲のない未来へと導いてくれるわ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "モルダー",
+          "text": "彼は既に賽を投げたのよ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "モルダー",
+          "text": "どうか許して。あなたに恨みはないけれど、これは命令だから。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "運命はまるで南極大陸のマリーバードランドを吹き抜ける風のように冷たい。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "モルダー",
+          "text": "リーリャ中尉を監房へ。元帥の命令があるまで、手を出してはダメよ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "リーリャ",
+          "text": "なんだって？"
+        },
+        {
+          "kind": "title_card",
+          "text": "監房"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "モルダー",
+          "text": "私たちは裏切り者よ、中尉。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "彼女はこの単語に嫌悪感を抱いているが、正直に続けた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "モルダー",
+          "text": "でも、私は父に忠誠を誓っているの。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "モルダー",
+          "text": "あなたと行動を共にできないのが残念だわ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "監房の中、足首を縛られたパイロットは怒った表情で来訪者を見つめる。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "リーリャ",
+          "text": "最初からそのつもりだったのか？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "モルダー",
+          "text": "伝道者から贈り物をいただいたの。私たちが未来に戻れる道もね。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "モルダー",
+          "text": "たとえ死のうとも、私は決して家族を裏切らないわ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "モルダー",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "鉄の扉がゆっくりと閉められた。暗い監房に窓はない。副官は見張りに今後の計画を伝えると、鍵を渡して立ち去った。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "彼女は、これから訪れる他の兄弟姉妹を迎えに行かなければならない。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "父が選んだ道に、迷いはない。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "トラックが基地に入ってきた。各地のゼノミリタリー基地から集まった、イゴール元帥に忠誠を誓う若い軍人たちだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "マヌス・ヴェンデッタを殲滅するため、アポストルス・ブラザーズを倒すため…元帥が選んだ未来のために。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "虚言の中、裏切り者は刃をかざす。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "監房の守衛",
+          "text": "しっ、心配するな。だが、少しだけ我慢してくれよ…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "リーリャ",
+          "text": "……！？"
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

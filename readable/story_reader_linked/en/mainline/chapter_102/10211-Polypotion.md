@@ -1,6 +1,6 @@
 # Polypotion
 
-- Chapter: Tender is the Night (`102`)
+- Chapter: Tender Is the Night (`102`)
 - Episode: `10211`
 
 > Subtitle: The mist remained and covered everything that it could.

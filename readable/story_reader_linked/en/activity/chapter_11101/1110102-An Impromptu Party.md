@@ -1,6 +1,6 @@
 # An Impromptu Party
 
-- Chapter: The Rimet Cup (`11101`)
+- Chapter: The Theft of the Rimet Cup (`11101`)
 - Episode: `1110102`
 
 > Subtitle: The wet marks left by the bubble festival dry up and disappear under the sun, along with some strange encounters.

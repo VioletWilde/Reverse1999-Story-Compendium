@@ -1,0 +1,1171 @@
+{
+  "episode_id": 1810119,
+  "chapter_id": 18101,
+  "chapter_title": "안녕, 라야시키",
+  "display_label": "",
+  "title": "후대에게",
+  "subtitle": "우리가 남긴 것, 너희가 기억한 것.",
+  "trails": [
+    {
+      "element_id": 1811911,
+      "owner_episode_id": 1810119,
+      "trigger_episode_id": null,
+      "title": "젖은 종이",
+      "description": "이것을 쓴 사람은 분명 너무 급한 바람에 이것을 찬 바람이 부는 틀나무 상자 위에 남겨 뒀을 것이다.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=1810119",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "항구에서 사라진 수출 기획"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "원탄:\n보통은 바로 연료로 사용하며, 난방과 전력을 제공할 수 있다. 무가공 수출 우선도가 높다(대신 자원 낭비와 공기 오염을 일으킬 수 있다).\n원탄 기화:\n청정 연료인 수성 가스를 제작할 수 있다(관련 기술 시설이 비교적 비싸다. 협력 생산 방식을 고려해 볼 수 있다).\n석탄재:\n보일러에서 연소한 후 생산되며, 도로 건설에 재활용할 수 있다. 수출할 필요는 없다.\n점결탄:\n철광 제련의 중요한 원료이다(제철소를 다시 지을 수 있을지도?).\n\n추가:소문에 따르면 세탄을 통해 정탄을 만드는 기술이 있다고 한다. 남방의 정탄 수요량은 많으니 우선적으로 고려해 볼 것을 권한다.\n\n‘소문’의 근거가 뭐냐고? 누가 일찍이 우리가 탄광을 찾아낼 줄 알고, 남방까지 다녀왔을까?\n예브게니 동지는 편지에 열 몇 가지 흔한 에너지 용도와 수출 방안을 열거해 놨고, 우리는 그중 쓸만한 곳을 고른 것이다."
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1811912,
+      "owner_episode_id": 1810119,
+      "trigger_episode_id": null,
+      "title": "외나무다리",
+      "description": "좁은 광도는 이렇게 많은 방문객을 수용할 수 없다. 한쪽이 양보하는 수밖에.",
+      "action": "",
+      "unlock_condition": "ChapterMapElement=1811911",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1811913,
+      "owner_episode_id": 1810119,
+      "trigger_episode_id": null,
+      "title": "필독 도서",
+      "description": "개인 안전 보호에 큰 도움이 된다.",
+      "action": "",
+      "unlock_condition": "ChapterMapElement=1811912",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "및 부록"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "제1부  규범 훈련\n1. 반드시 안전 지식 교육 및 시험을 통과 후 인증서를 보유한 채 출근해야 한다.\n2. 반드시 해당하는 업무의 실지 조사와 작업 과정을 숙지해야 한다.\n...\n9. 16세 미만, 60세를 넘은 사람은 광산 진입을 금지한다.\n\n제2부  실제 작업\n1. 작업 지점에 제때 도착하여 근무 교대를 한다.\n2. 작업 위치의 안전 상황, 재료 수량 및 품질을 검사하고, 작업에 방해가 될 장애물을 제거한다.\n...\n9. 근무 교대 전 반드시 당시의 광산 안전 상황의 서면 기록을 남기고, 제때 해당 기록을 갱신 및 검사한다.\n\n제3부  안전 주의사항\n1. 설비 가동 전 반드시 규범 절차에 따라 가동하고, 역순으로 설비가 정상적으로 작동하는지 검사한다.\n2. 권양기, 기관차, 트레일러 가동 과정에서 이상이 발생하면 반드시 정차하고 재검사를 진행한다.\n3. 광산 진입 전 반드시 필요한 도구를 챙기고, 날카로운 도구가 있으면 보호 장비를 준비한다.\n...\n19. 작업 일지를 기록하고, 정기적으로 전체 검사를 진행한다.\n\n부록-공장은 자체적으로 부품 인덱스를 생산할 수 있다.\n...\n17. 십자 레일(제조공정 미확보)\n\n예브게니 동지가 책에서 방법을 발췌했고, 우리에게 충분한 재료가 있으니 생산을 허가한다.-이·이·노비코프\n이건 만들기 어렵지만, 일단 해 보자.-포·브·라진스카야"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1811914,
+      "owner_episode_id": 1810119,
+      "trigger_episode_id": null,
+      "title": "생산 공장",
+      "description": "광부들의 작업 안전을 위해 조치를 취해야 했고, 그렇게 구조물 보강 부품 제작이 우선 사항이 되었다.",
+      "action": "",
+      "unlock_condition": "ChapterMapElement=1811913",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1811915,
+      "owner_episode_id": 1810119,
+      "trigger_episode_id": null,
+      "title": "안녕, 내일!",
+      "description": "안녕, 내일!",
+      "action": "",
+      "unlock_condition": "ChapterMapElement=1811914",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "일리아",
+          "text": "키리엘, 정오 휴식 끝났어! 볼키나한테 지게차에서 스도쿠 좀 그만하라고 해. 광산 기둥을 보강할 목재가 오늘 저녁이면 도착할 거라고."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "일리아",
+          "text": "오, 크누트! 여긴 어쩐 일이야? 근무 교대하긴 너무 이르지 않아?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "크누트",
+          "text": "근무 교대할 시간은 아니죠. 그냥 이 부품들과 찾아낸 공구함을 전달하러 온 거예요... 보세요. 공구가 빠짐없이 있어요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "크누트",
+          "text": "키리엘 동지는 왜 저리 멀리 있죠? 게다가 빙빙 돌고 있어요. 오는 길에 저 모습을 보는데 정말 어지럽더군요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "일리아",
+          "text": "키리엘과 볼키나는 정오 휴식 시간부터 저랬어. 볼키나는 맨날 하는 그 게임을 하는 중이고, 키리엘은..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "키리엘",
+          "text": "일리아, 예브게니 동지의 편지를 안 봐서 아직 모르나 보군요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "크누트",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "키리엘",
+          "text": "손에 묻은 석탄재를 보니 동지의 편지가 또 떠올랐어요. 그래서 전 돌아다니며 나중에 언젠가 사람들이 절 어떻게 묻을까 생각해 봤죠. 솔직히 명예로운 일이지만, 그래도..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "키리엘",
+          "text": "예브게니 동지에게 이런 결말은 어울리지 않는다고 생각해요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "키리엘",
+          "text": "그분은 여기서 멈춰선 안 돼요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "일리아",
+          "text": "키리엘..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "네 앞에 있는 크누트 동지가 바로 처음 그 유서를 발견한 사람이야. 그리고 우리 모두 마치 펄럭이는 깃발을 이어받는 것처럼 그 편지를 만졌잖아. 벌써 잊은 거야?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "일리아에게 그런 식으로 이야기해선 안 돼. 예브게니 동지를 그렇게 생각해서도 안 되고."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "키리엘",
+          "text": "하지만 너도 그렇게 말했잖아, 볼키나."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "볼키나",
+          "text": "그래. 그렇게 말했었지. 하지만 이렇게도 말했어."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "볼키나",
+          "text": "\"예브게니 동지는 여기서 멈췄지만, 우리는 멈출 수 없어\"라고."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "볼키나",
+          "text": "스도쿠에 단 하나의 빈칸만 있는 것처럼, 지금 우리 앞에는 단 하나의 길밖에 없어."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "볼키나",
+          "text": "\"끊임없이 전진하라, 내일을 향해.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "일리아",
+          "text": "여기서 멈추면 안 돼, 키리엘 동지."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "크누트",
+          "text": "네... 네. 더 이상 말하지 않을게요. 하지만 볼키나 동지의 말대로예요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "크누트",
+          "text": "이건 분명 예브게니 동지도 진심으로 바라던 것일 거예요."
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1811921,
+      "owner_episode_id": 1810119,
+      "trigger_episode_id": null,
+      "title": "눈",
+      "description": "땅 위의 소금, 영원한 친구, 모든 것을 메울 수 있는 것들이다.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=1810119",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "눈과 다른 가능성"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "마을에 이것은 익숙한 모습이지만, 새로 온 자에게는 모든 것이 낯설기만 하다.\n\n그녀는 눈 속의 여정에 익숙해졌다. 모스크바 길거리에서 흩날리는 꽃가루는 그녀로 하여금 라야시키를 떠올리게 하였다. 그것은 눈과 아주 비슷했지만, 사람의 뺨을 붉게 만들거나 손발을 차갑게 하지도 않았고, 피부 위에서 녹지 않았으며 어떠한 사물도 가리지 못했다. 상점에서는 통조림은 물론, 소시지와 신선한 고기도 살 수 있었으며, 일용품을 교환할 때도 손가락으로 시간을 셀 필요 없었다... 처음으로 이사한 집에서 스튜를 만들 때 그녀는 모든 게 가짜처럼 느껴졌다. 그녀에게 깊은 인상을 남긴 또 다른 일은 막 열차에서 내렸을 때 일어났는데, 그때 그녀는 놀라서 한 아이의 손을 꽉 잡고 말았다. 마을 밖에 있는 모스크바에 이렇게 많은 사람이 있는 데다, 모두 희망이 가득 찬 표정일 줄은 상상도 못했던 것이다.\n\n하지만 그녀는 결국 라야시키로 돌아오는 열차에 올랐다.\n\n라야시키도 변했다. 마을에는 그녀가 모르는 사람들이 늘어났고, 광장 중앙의 조각상도 바뀌었다. 학교, 학교는 그래도 아이들이 운동장에서 뛰어노는 모습 그대로였다. 마을 사람들의 인사는 조금 부자연스러웠고, 누구도 그녀가 이전에 급하게 떠난 일에 대해 묻지 않았다. 마치 그런 일을 중요하지 않고, 누구든 이곳을 떠나거나 돌아올 수 있다고 생각하는 것처럼.\n\n눈이 그녀의 머리와 옷깃에 떨어지자 그녀의 손가락과 코끝이 붉어졌다. 이번엔 진짜 눈이었다."
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1811922,
+      "owner_episode_id": 1810119,
+      "trigger_episode_id": null,
+      "title": "지금의 길",
+      "description": "지금의 길",
+      "action": "",
+      "unlock_condition": "ChapterMapElement=1811921",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "빌라",
+          "text": "다시 만나서 정말 기뻐요, 울리아나 동지..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "빌라",
+          "text": "사람들에게 동지가 돌아왔다는 소식을 들었어요. 아이들은 만났나요? 아이들이 오랫동안 동지를 그리워했어요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "울리아나",
+          "text": "이제 막 마을에 도착했어요. 그 아이들은... 빌라 동지가 보살펴 줬으니 분명 잘 지냈겠죠. 동지는 세심한 선생님이잖아요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "빌라",
+          "text": "하지만 혼자서는 힘드네요. 도와줄 동지가 있으면 좋겠어요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "빌라",
+          "text": "그래서, 이번엔 여기에 남을 건가요, 울리아나 동지?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "울리아나",
+          "text": "마침 그 얘기를 하러 왔어요..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "빌라",
+          "text": "좋네요. 천천히 얘기하세요. 참, 바실리도 같이 왔나요?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "빌라",
+          "text": "예전에 색연필을 정말 갖고 싶어 했거든요. 이제 물자가 충분해서 당장 내일이라도 아이들과 광장에서 그림을 그릴 수 있어요..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "울리아나",
+          "text": "저만 돌아왔어요, 빌라 동지."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "울리아나",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "울리아나",
+          "text": "전 모스크바에서도 라야시키를 그리워했어요. 전 이곳의 사람들이 정말 고집스럽다고 생각했어요. 모두 성실하고, 상냥하지만, 모두 아주 고집스럽다고요. 이해가 되나요?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "울리아나",
+          "text": "추위를 걱정할 필요도 없고, 깐깐하게 물자를 분배할 필요도 없고, 아이가 색연필을 원한다면 상점에서 구해줄 수도 있잖아요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "빌라",
+          "text": "정말 좋지 않나요!? 우리가 노력한 건 다 라야시키를 그런 곳으로 만들기 위해서였어요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "울리아나",
+          "text": "네, 정말 좋죠. 하지만... 제가 바실리의 병상 옆에 앉아 있을 때는... 바실리는 천식을 앓았어요. 아시잖아요. 그 꽃가루가... 아이의 묘비와 관은 정말 작더군요. 마치... 마치 장난감 같았어요. 진짜 같지 않았죠."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "울리아나",
+          "text": "전 모스크바의 삶이 좋아질 줄 알았어요. 조금만 버티고 견디면, 다 좋아질 줄 알았어요..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "울리아나",
+          "text": "하지만 현실은 그렇지 않았죠."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "빌라",
+          "text": "...미안해요, 울리아나 동지."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "울리아나",
+          "text": "괜찮아요. 제가 먼저 꺼낸 얘기잖아요. 전 모스크바의 집안에서 계속 울었어요... 그러다 생각했죠. 어떻게든 기운을 내고, 뭔가를 해야 한다고."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "울리아나",
+          "text": "제가 다시 모두와 함께할 수 있을까요? 그때... 전 저 자신만 생각하며 떠나선 안 됐어요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "빌라",
+          "text": "우리는 미래를 알 수 없어요. 그저 가야 할 길을 착실히 걸어갈 수밖에 없죠."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "빌라",
+          "text": "그 길은 언제든 다시 걸어도 돼요."
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1811923,
+      "owner_episode_id": 1810119,
+      "trigger_episode_id": null,
+      "title": "복귀 환영!",
+      "description": "복귀 환영!",
+      "action": "",
+      "unlock_condition": "ChapterMapElement=1811922",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "빌라",
+          "text": "꼬맹이들, 한꺼번에 몰려오면 안 돼. 울리아나 선생님이 인사할 수 있게 조금씩 떨어져 있으렴. 알겠지?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "니나",
+          "text": "네! 너무 좋아요. 다시 ‘선생님’이라고 부를 수 있겠네요. 울리아나 선생님! 헤헤~"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "파소노",
+          "text": "울리아나 선생님! 마을에 새로운 게 이~ 만큼 많이 생겼어요. 제가 보여드릴게요!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "표트르",
+          "text": "저도요! 제가 아주 잘 알아요. 광장으로 가는 지름길도 알아요!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "울리아나",
+          "text": "좋아, 우리 귀엽고 인내심 있는 꼬마 동지들. 서두를 것 없단다..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아브구스트",
+          "text": "여기요. 이건 광장이 준 거니까 나눠 드릴게요~ 빌라 선생님이 나눌 줄 알아야 한다고 하셨어요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "울리아나",
+          "text": "정말 예쁜 해바라기네. 고마워, 아브구스트. 예전보다 훨씬 밝아 보이네."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아브구스트",
+          "text": "엄마랑 다른 사람들도 더 자주 웃거든요. 그래서 저도 모두와 함께 웃게 됐어요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아브구스트",
+          "text": "울리아나 선생님도 웃었네요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "울리아나",
+          "text": "하하... 그래. 난... 너희가 정말 보고 싶었단다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "빌라",
+          "text": "꼬맹이들, 손으로 눈 비비지 마. 여기 손수건이 있단다..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "빌라",
+          "text": "너희가 오랫동안 고민한 말을 울리아나 선생님께 들려줘야 하지 않겠니?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아이들",
+          "text": "돌아온 걸 환영해요! 울리아나 선생님!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "울리아나",
+          "text": "...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "빌라",
+          "text": "환영회와 파티를 같은 날에 열기로 했어요. 라야시키는 이제 막 새로운 여정을 시작했고, 해야 할 일들이 많거든요... 불편을 끼친 게 아니면 좋겠네요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "울리아나",
+          "text": "전혀요. 제가 도울 게 있을까요? 꼭 알려주셨으면 해요..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "빌라",
+          "text": "그럼 지금은 아이들 돌보는 걸 부탁드릴게요. 조금 이따 항구로 가봐야 하거든요. 그리고... 참, 이 시간대에는 재단 친구들이 수업을 들으러 와요. 교사의 신분으로 가르쳐 주세요. 그러기로 합의했거든요. 그리고..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "빌라",
+          "text": "돌아온 걸 환영해요, 울리아나 동지."
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1811924,
+      "owner_episode_id": 1810119,
+      "trigger_episode_id": null,
+      "title": "노동자 식당",
+      "description": "축제가 클수록 필요한 작업은 더 많아진다. 우리의 동지들은 이 모든 것을 즐길 자격이 있다.",
+      "action": "",
+      "unlock_condition": "ChapterMapElement=1811923",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1811931,
+      "owner_episode_id": 1810119,
+      "trigger_episode_id": null,
+      "title": "먼 곳",
+      "description": "먼 곳",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=1810119",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "니나",
+          "text": "다 접었어. 표트르 학우, 난 비행기를 날릴 거야! 옆으로 비켜줄래? 조금이면 돼!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "표트르",
+          "text": "좋아. 누가 더 멀리 날리나 대결이다!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "니나",
+          "text": "하나, 둘, 셋!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아브구스트",
+          "text": "바다제비가 눈더미 속으로 들어갔어. 표트르 승!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "니나",
+          "text": "표트르가 아직 안 날렸다고, 아브구스트 학우. 어쩌면..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "니나",
+          "text": "어라, 파소노 학우, 넌 우리와 같이 안 놀 거야?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "파소노",
+          "text": "...나, 난 빌라 선생님이 한 말에 대해 생각하고 있어."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "표트르",
+          "text": "겁먹은 거야? 바깥세상을 보고 싶지 않아? 그리고 부모님도 동의하셨잖아. 어른들은 우리보다 더 많은 걸 아신다고."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "파소노",
+          "text": "무서운 게 아니야! 다만... 빌라 선생님이 우리와 같이 안 간다고 하셨어. 울리아나 선생님도 안 가실 거고."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아브구스트",
+          "text": "빌라 선생님은 하실 일이 많아. 느림보 거북이들이 떠나면 또 새로운 친구들이 마을에 올 거고, 빌라 선생님은 그들과 얘기해야 하셔."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "니나",
+          "text": "난 우리가 그렇게 걱정할 필요 없다고 생각해. 선생님들은 재단에서 온 친구들이 우리와 함께 수업을 듣고, 놀고, 필기를 하게 해주셨어..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "니나",
+          "text": "그 사람들은 나쁜 사람 같지 않아. 나쁜 사람이라면 빌라 선생님이 쫓아내셨을 거야."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "표트르",
+          "text": "맞아, 파소노! 아브구스트도 너처럼 긴장하진 않는다고!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아브구스트",
+          "text": "난 긴장하지 않아. 나도 뭔가를 바꾸는 법을 배우고 싶어. 해바라기를 키 큰 보초병이나 둥근 귀를 가진 곰으로 바꾸고 싶다고~"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아브구스트",
+          "text": "빌라 선생님을 위해 우리 같은 눈사람을 만들자. 엄마가 그러셨어. 선생님이 그리우면 눈사람을 만들라고."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아브구스트",
+          "text": "빌라 선생님도 그걸 보고 우릴 떠올리실 거야."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "표트르",
+          "text": "맞아. 빌라 선생님에게 선물을 남기는 거야! 그럼, 바로 눈사람을 만들자!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "니나",
+          "text": "좋아!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "파소노",
+          "text": "좋아. 가장 예쁜 나뭇가지로 장식하자!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "표트르",
+          "text": "가자. 흩어져서 재료를 찾고, 최대한 빠르게 다시 모이는 거야!"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1811932,
+      "owner_episode_id": 1810119,
+      "trigger_episode_id": null,
+      "title": "나뭇가지 줍기 작전",
+      "description": "눈사람 재료를 고르는 일에 있어서는, 이 꼬맹이들 역시 높은 안목을 가졌다.",
+      "action": "",
+      "unlock_condition": "ChapterMapElement=1811931",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1811933,
+      "owner_episode_id": 1810119,
+      "trigger_episode_id": null,
+      "title": "폐광 구역",
+      "description": "광산 구역 내 빛나는 색채를 주의하라. 그 눈사람을 위해 분주히 움직이는 아이를 잃어버려서는 안 된다.",
+      "action": "",
+      "unlock_condition": "ChapterMapElement=1811932",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1811934,
+      "owner_episode_id": 1810119,
+      "trigger_episode_id": null,
+      "title": "아이의 창조",
+      "description": "여러 작은 손들이 만들어냈지만, 동일하고 순수한 희망을 공유하고 있다.",
+      "action": "",
+      "unlock_condition": "ChapterMapElement=1811933",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "원형춤"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "크기가 다른 눈사람들이 운동장에서 원을 만들었다. 아이들은 친절하게도 눈사람들의 나뭇가지로 만든 팔을 서로 묶어, 손을 잡고 있는 상태로 만들었다. 그들은 각자 자신의 작은 조형물을 장식하는 데 집중했고, 그 조형물처럼 서로 아주 가까이 붙어 있었다. 서로의 어깨가 부딪히면 쾌활은 웃음소리가 울려 퍼졌다.\n\n가장 왼쪽에 있던 꼬마 아가씨가 고개를 숙이자 땋은 머리가 태양 아래의 풀처럼 튀어 올라 반짝거렸다. 그녀는 해바라기의 꽃잎을 세심히 눈사람 머리 위에 붙였다. 옆에서는 두 남자아이가 시간이 지나도 잘 녹지 않도록 눈사람의 뚱뚱한 몸통을 더 넓고 튼튼하게 만들려고 하고 있었다. 그럼 빌라 선생님이 눈사람에게 더 많이 인사할 수 있을 테니까.\n\n덩치가 작은 편에 속하는 남자아이의 눈사람은 작은 곰이었는데, 그의 설명이 있어야만 머리, 발톱, 그리고 등 위에 누워 있는 북극여우를 구분할 수 있었다. 여우는 보통 토끼처럼 긴 귀가 없지만, 아이는 여우가 엄마의 발소리, 빌라의 발소리, 친구들의 발소리를 잘 들을 수 있게 긴 귀를 만들어 주었다. 이제 마지막 절차다. 그는 찾아낸 광석을 조심히 여우의 가슴팍에 박았다. 아버지가 남긴 예쁜 돌을 자신의 가슴팍에 달아 놓은 것처럼 말이다.\n\n\"됐어. 눈사람 동지들! 너희는 여기서 얌전히 빌라 선생님과 원형춤을 춰야 해. 함부로 뛰어다니거나 떠들지 말고 선생님 말씀을 잘 들어야 한다고...\""
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1811941,
+      "owner_episode_id": 1810119,
+      "trigger_episode_id": null,
+      "title": "노동자들",
+      "description": "라야시키를 설원 위에 세운 사람들, 이름을 남기기를 기대한 적도 없던 사람들.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=1810119",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "따듯한 사람들"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "긴 테이블들 사이에는 이런 사람들이 있다.\n\n중간에 둘러싸인 사람은 평소의 친절함과 우호적인 미소를 유지하고 있었다. 만약 테이블 위의 그 어쩔 줄 몰라 하는 손을 보지 못했다면, 이 친절함에 가려진 감정, 즉 믿기지 않는다는 감정을 눈치채지 못했을 것이다. 그렇다. 이 젊은 학자는 자신이 연구했던 이론이 다시 한번 세간의 주목을 받는 것에 크게 놀란 상태였다. 수많은 곳에서 레이라인학을 구겨진 종이 더미에 던져버렸는데, 라야시키에서 보금자리를 찾을 줄 상상이나 했겠나.\n\n그녀 주변에 있는 사람들은 대부분 아직 작업복을 입고 있었고, 그들의 옷깃과 다리에는 석탄재가 잔뜩 묻어 있었다. 그들도 이 점을 잘 알고 있었기에 학자와 거리를 두고 있었다. 그녀가 먼저 손을 뻗기 전까지는 말이다. 이 임시로 모인 선생과 학생들은 서로 악수하며, 시간을 내어 몰락한 학과에 대해 알아보기로 했다. 노동에 가장 열정적인 사람들은 가장 진지한 실용주의자이기도 하다. 레이라인학이 마을 재건에 얼마나 큰 역할을 했는가! 처음 연구소에 들어갔을 때 학자도 비슷한 기대를 품고 있었다. 레이라인학은 만능인가? 아니다. 하지만 어느 순간에 변화를 불러올지도 모른다.\n\n그 순간은 탄광을 발견한 순간일 수도, 지금 이 순간일 수도 있다."
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1811942,
+      "owner_episode_id": 1810119,
+      "trigger_episode_id": null,
+      "title": "뜻밖의 상황",
+      "description": "임시로 열린 레이라인학 강의. 이 건물을 만든 사람은 이것이 이렇게 많은 열정을 피워낼 줄은 예상하지 못했다.",
+      "action": "",
+      "unlock_condition": "ChapterMapElement=1811941",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1811943,
+      "owner_episode_id": 1810119,
+      "trigger_episode_id": null,
+      "title": "주민 구역",
+      "description": "현지의 이야기는 현지인에게 물어봐야 한다. 가장 직접적인 방법은 주민의 집을 돌아다니며 수소문하는 것이다.",
+      "action": "",
+      "unlock_condition": "ChapterMapElement=1811942",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1811944,
+      "owner_episode_id": 1810119,
+      "trigger_episode_id": null,
+      "title": "지평선 도달",
+      "description": "지평선 도달",
+      "action": "",
+      "unlock_condition": "ChapterMapElement=1811943",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "윈드송",
+          "text": "크흠, 이게 뭐라고 긴장되네."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "윈드송",
+          "text": "못 보던 얼굴이 꽤 많네... 완전 예상 밖이군. 어쩌겠어. 점심에 마신 그 보드카가 도움이 되길 바라야지."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "윈드송",
+          "text": "죄송하지만 여기 좀 봐주겠어요. 동지 여러분, 그리고 이곳을 방문해주신 분들. 이번 레이라인학 강연에 참석해주셔서 감사합니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "윈드송",
+          "text": "전 이번 강연을 맡은 윈드송입니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "윈드송",
+          "text": "이제부터 라야시키 광산 개발의 구체적인 상황에 맞춰 레이라인학의 실제 응용 사례를 소개하겠습니다..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "라플라스 연구원",
+          "text": "네, 그렇죠. 저희 연구에 분명 도움이 돼요... 다른 사람의 말을 뭐 하러 신경 써요? 전 레이라인학이 꽤 실용성 있다고 봐요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "라플라스 연구원",
+          "text": "당연히 시도해 봐야죠. 이 일을 루시 씨에게도 알려야겠어요. 분명 직접 이 강연을 듣고 싶어 할 거예요..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "라플라스 연구원",
+          "text": "노트는... 일단 상세하게 적고, 나중에 질의응답 시간이 있으면..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "빌라",
+          "text": "저기, 안녕하세요?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "라플라스 연구원",
+          "text": "네? 아...! 안녕하세요, 빌라 씨."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "빌라",
+          "text": "더 가까운 자리가 필요하시면 알려주세요. 저기에 방문객 좌석이 있거든요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "라플라스 연구원",
+          "text": "괜찮아요. 전 저들과 달리 연구만 하거든요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "라플라스 연구원",
+          "text": "더 자세히 들을 수 있는 곳이 있을까요? 혹시 다른 업무가 있으신가요, 윈드송 씨? 제가 질문할 게 있어서요. 예를 들어 라인을 분별하는 요령이라든지..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "빌라",
+          "text": "강연 뒤에 질의응답 시간이 있어요. 저와 같이 가시죠. 제가 더 가깝고 넓은 자리가 없는지 찾아볼게요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "윈드송",
+          "text": "후, 뭘 좀 마셔야겠어. 이거 정말 힘든 일이네."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "윈드송",
+          "text": "조금 뒤 있을 질의응답 시간이 너무 조용하지 않았으면 좋겠네. 최악의 상황에 대비해서... 나도 간단한 질문을 두세 개 준비했지만..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "빌라",
+          "text": "윈드송 동지, 받으세요, 자."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "윈드송",
+          "text": "가뭄의 단비가 따로 없네요! 마침 물이 필요했거든요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "윈드송",
+          "text": "강연은 나름 순조로워요. 오늘 공연은 참석할 수 있을 거예요. 아이들에게 ‘실뜨기’를 보여주기로 했거든요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "빌라",
+          "text": "하하, 레이라인학은 실뜨기 같은 게 아니잖아요, 윈드송 동지. 전 알아요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "빌라",
+          "text": "그 라플라스의 여사님이 동지와 기술 문제에 관해 얘기하고 싶어 하니 물을 많이 마셔 두세요. 분명 질문이 산더미처럼 쌓여 있을 거예요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "윈드송",
+          "text": "맘껏 하라고 해요! 제 입으로 말하긴 그렇지만, 저와 레이라인학은 이미 떼어놓을 수 없는 사이가 됐어요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "윈드송",
+          "text": "그런데 이번 강연은 어떤 것 같아요? 전 의견을 잘 수용해요, 빌라 동지. 그러니 돌려 말하지 않아도 돼요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "빌라",
+          "text": "전 과거에 봤던 한 줄의 광경을 떠올렸어요. 동지가 말한 만물의 선은 아니지만요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "빌라",
+          "text": "어느 날 아침, 전 일렁이는 바다를 따라 먼 곳의 땅을 바라봤어요. 지평선은 아주 멀리 있었지만, 부드럽고도 밝았죠."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "빌라",
+          "text": "그때 전 직접 그걸 보기로 결심했어요. 그래서 라야시키에 와서 눈 위에 족적을 남기고, 지금의 모습으로 변해가는 걸 직접 눈으로 확인했죠."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "빌라",
+          "text": "...너무 좋아요. 우리의 이상이 점차 실현되고 있잖아요."
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "200829",
+      "internal_title": "【1.8】再见，来亚什基-19",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "격앙된 시간의 강이 여기서 소리 없이 몇 달간 요동쳤다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "떠들썩한 사람들의 목소리가 여기저기서 울렸다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "사람들은 여기로 모였다 다시 흩어져 각자의 위치로 달려갔다."
+        },
+        {
+          "kind": "title_card",
+          "text": "라야시키·수영장"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "머리와 얼굴에 먼지를 뒤집어쓴 누군가가 다급하게 안으로 들어왔다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "윈드송",
+          "text": "다행이다... 역시 여기 있었군요!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "윈드송",
+          "text": "...그런데, 혹시 제가 자리를 피해 줘야 하나요?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "빌라",
+          "text": "후후, 이상해할 거 없으니 편하게 앉아요~"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "빌라",
+          "text": "난 순수 혈통의 루살카가 아니거든요. 보다시피 주기적으로 물로 돌아와 바다가 주는 영감과 양분을 흡수해야 하죠."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "윈드송",
+          "text": "크흠... 안녕하세요, 빌라 동지."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "빌라",
+          "text": "오랜만이에요, 윈드송 동지."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "빌라",
+          "text": "종일 광산 구역에서 바쁘게 뛰어다닌다면서요? 점점 많은 노동자가 레이라인학을 인정하고 있죠."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "윈드송",
+          "text": "그들이 도움을 많이 줬어요... 그들이 없었다면 이렇게 순조롭게 라야시키의 환경 연구를 진행하지 못했을 거예요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "윈드송",
+          "text": "레이라인학은 여기서 다시 태어나 뿌리 내리고 싹을 틔웠어요... 그리고 외부에서 인정도 받았죠."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "윈드송",
+          "text": "여기 오게 되어서... 정말 기뻐요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "빌라",
+          "text": "자신이 연구하는 이론에선 완고하고 자신감 넘치는 윈드송 동지가 이렇게 부끄러워하는 모습을 보일 줄은 몰랐네요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "윈드송",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "빌라",
+          "text": "놀리는 거 아니에요, 윈드송 동지. 사실 보기보다 그렇게 겁 없는 스타일이 아니잖아요?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "빌라",
+          "text": "그게 바로 사람들이 똘똘 뭉치는 이유죠. 우리가 서로의 부족함을 채우는 것도... 아, 미안해요. 직업병이 또!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "윈드송",
+          "text": "맞아요, 인정해요. 하지만 이상해할 것도 없죠. 당신도 보이는 것처럼 그렇게 부드럽지만은 않잖아요?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "윈드송",
+          "text": "...비긴 셈이네요!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "윈드송은 분위기를 바꿔보려는 듯 가볍게 헛기침을 하며 손에 든 편지를 빌라에게 건넸다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "윈드송",
+          "text": "사실 당신에게 작별 인사하러 왔어요..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "윈드송",
+          "text": "연구 센터에서 곧 유럽 지부에 열리는 강좌에 날 초대했어요. 라야시키의 사례로 레이라인학이 어떻게 마도학과 환경 분석학을 결합했는지 소개해달라고 하더군요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "빌라",
+          "text": "괜찮은 시작이네요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "윈드송",
+          "text": "라야시키 발전은 좀 어때요?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "빌라",
+          "text": "여길 보러 오는 관광객이 많이 늘었어요. 상당히 열정적이고, 뭔가 다른 걸 보고 싶어 해요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "윈드송",
+          "text": "그 사람들도 분명 원하는 바를 이룰 수 있을 거예요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "빌라",
+          "text": "주변의 여러 지역과 협력도 맺었어요. 재단도 포함해서요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "빌라",
+          "text": "그쪽에서 아이들을 대상으로 간단한 마도학 단기 훈련을 진행하고 싶다고 하더군요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그녀가 물기 가득한 편지 한 통을 건넸다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "윈드송",
+          "text": "이건...?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "빌라",
+          "text": "얼른 뜯어봐요. 재단에서 보낸 거예요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "빌라",
+          "text": "네임데이 씨가 더 많은 협력 방안을 논의하기 위해 날 재단으로 초대했어요. 아이들도 거기서 날 기다리고요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "빌라",
+          "text": "재단에서 공부하는 동안 아이들이 줄곧 당신 얘기를 했어요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "빌라",
+          "text": "\"저희가 레이라인학 시험을 놓친 건가요?\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "빌라",
+          "text": "\"재단에는 신기한 게 엄청 많아요...\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "‘아브구스트’",
+          "text": "사람을 무는 금화, 소리 지르는 석탄, 무지개를 잡는 유리펜... 여기엔 재미있는 것들이 잔뜩 있어요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "‘파소노’",
+          "text": "마도학 주문을 많이 배웠어요!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "‘니나’",
+          "text": "마을 사람들이 모두 보고 싶어요..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "‘아브구스트’",
+          "text": "저도요. 알룐까 동지, 블린 동지, 우정 동지가 그리워요!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "‘표트르’",
+          "text": "몇 달 후면 우리도 집에 돌아갈 수 있어요!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "‘표트르’",
+          "text": "최고의 마도술을 배워서 마을을 안전하게 지켜 줄게요!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "‘아브구스트’",
+          "text": "우리도 바다제비가 될 거예요!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "‘아브구스트’",
+          "text": "훨훨~ 더 먼 곳으로 날아갈 거예요!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "라디오 아나운서Ⅰ",
+          "text": "오늘 카슬린스카 의과대학 부속 병원에 희귀한 사례가 접수되었는데요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "라디오 아나운서Ⅰ",
+          "text": "한 환자의 혈관이 비가역적인 전선화 특징을 보였는데, 18시 현재, 해당 환자의 전신에 있는 동맥과 정맥 및 모세혈관 조직은 모두 괴사한 상태입니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "라디오 아나운서Ⅰ",
+          "text": "카슬린스카 의과대학 학장은 인터뷰에서 더 많은 전문가를 협진에 초대해 후속 연구를 논의할 예정이라고 밝혔습니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "라디오 아나운서Ⅰ",
+          "text": "에서는 ‘전선 인간’ 증상이 새로운 풀리지 않는 수수께끼가 될 거라고 주장했으며..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "라디오 아나운서Ⅰ",
+          "text": "각 전자 제품에 대한 해당 ‘전선 인간’ 혈관 구조의 응용 주파수를 분석하는 칼럼 활동을 개시하였습니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "라디오 아나운서Ⅰ",
+          "text": "다음 소식 전해드립니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "라디오 아나운서Ⅱ",
+          "text": "최근 ‘플라잉 카펫 여행사’에서 북유럽 로맨틱 여행을 기획했습니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "라디오 아나운서Ⅱ",
+          "text": "그곳에서는 낭만적인 오로라를 보고 털이 북슬북슬한 키키른을 만져볼 수 있으며, 설원에서 플라잉 카펫 레이싱도 즐길 수 있죠..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "라디오 아나운서Ⅱ",
+          "text": "그 후에는 신비한 마을, 라야시키에 도착하게 되는데요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "라디오 아나운서Ⅱ",
+          "text": "이곳은 석탄이 풍부한, 북극에서 가장 따스한 곳입니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "라디오 아나운서Ⅱ",
+          "text": "그곳에선 직접 돈을 내는 것보다 여러분이 할 수 있는 만큼의 노동으로 원하는 걸 얻으셨으면 합니다. 물론, 강요하는 건 아닙니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "라디오 아나운서Ⅱ",
+          "text": "하지만 새롭고, 더 아름다운 이상적인 삶을 경험해 볼 수 있는데, 직접 해보지 않을 이유가 있을까요? ...저는 여러분이 실망하지 않으리라 믿습니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "후후..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "제가 어디서부터 이야기해야 할까요? 의 독자 여러분들."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "그건 영원한 회백색의 동토에 박힌 진귀한 보석이자 새빨간 깃발입니다. 미래엔 더 붉게 변할지도 모르죠."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "오랜 세월 동안 이곳 주민은 뭔가 다른 걸 만들고 싶어 했어요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "그건 긴 투쟁이었죠."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "이제 그들은 더 이상 극북의 땅에 위치한 역사의 주석이 아닙니다. 조용히 잊힐 안타까운 존재도 아니죠."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "저는 여러분이 그곳의 현재와 미래를 지켜볼 수 있길 희망합니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "그래서 전 그걸 기록할 방법을 찾았고, 이 시간이 당신의 마음속에 남아 있길 바랍니다."
+        },
+        {
+          "kind": "title_card",
+          "text": "8#2"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

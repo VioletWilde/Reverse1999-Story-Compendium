@@ -1,0 +1,511 @@
+{
+  "episode_id": 11001,
+  "chapter_id": 110,
+  "chapter_title": "복낙원",
+  "display_label": "",
+  "title": "서장·새해를 맞아",
+  "subtitle": "첫 선물을 내던진 썰매는 멀고 먼 미래로 달려간다.",
+  "trails": [
+    {
+      "element_id": 101001,
+      "owner_episode_id": 11001,
+      "trigger_episode_id": null,
+      "title": "남극 상륙 작전",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=11001",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "미국에서 브라질, 그리고 호주까지... 참 열심히도 다녔다, 너."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "남태평양 유람선 타고 한껏 즐기더니, 아르헨티나를 거쳐서 결국 여기까지 왔군."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "적들은 전부 패배해 남극에 몰렸고, 그리고 이 모든 사단의 시작은 고작 명령 하나였지."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "‘그 작가를 찾아라’."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "작전도, 위치도, 기한도 없고, 고작 분대 하나 남짓한 지원이 전부였잖아."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "나도 너에게 좀 배우고 싶은걸. 어떻게 막 입대한 신참처럼 힘이 넘치는 거지?"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "글쎄",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "그럼 내가 맞혀볼까? 넌 그냥 정해진 길을 따라가는 본능에 충실한 거야. 타인의 관음욕을 만족시켜 주는 거지."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "그리고 그게 너의 마도술인 거고, 안 그래?"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "하지만 넌 군인도 아니고, 걸스카우트도 아니잖아."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "명령을 따를 의무 같은 건, 애초에 없어."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "개인적으로, 누군가의 명령에 따르기 전에 한번 더 생각해보길 권하고 싶어."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "어쨌든 이제 적의 본거지로 쳐들어가야 하잖아."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "이런 상황에선 명령만 맹목적으로 따르던 자들이 대개 제일 먼저 총알받이가 되거든."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "그러니 스스로에게 물어봐. 대체 왜, 그 작가를 찾고 있는 거지?"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "군인은 명령을 따라야 하니까",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "101000",
+      "internal_title": "第十章10-00",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "복낙원"
+        },
+        {
+          "kind": "title_card",
+          "text": "서장·새해를 맞아"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "밀폐된 사무실 안, 암흑 속에서 유일하게 새어 나오는 모니터의 새하얀 빛이 어둡고 적막한 공간에서 유난히 눈길을 끌었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "고요한 실내에 다이얼 소리가 울리더니, 얼마 지나지 않아 통신기 반대편에서 반응이 왔다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "연락원 크리오스, 확인 바란다. 팍스 하우스 이동 명령이다. Annum Novum Faustum et Beatum(새해를 맞아서.)"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "통신기 너머에서 버튼 소리가 울리는가 싶더니 곧 팩스가 작동하기 시작했다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "군사 위원회가 내린 최종 결론은 다음과 같다. 즉시 제노의 솜므 장군과 연락을 취하고 병력을 정비한 후 부대를 인솔하여 여기 좌표 구역으로 이동한다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "그리고 배수진을 칠 준비를 한다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "크리오스",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "통신기 너머에서 잠시 침묵이 흘렀다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "크리오스",
+          "text": "하... 이런 이동 명령은 처음입니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "유리창 밖엔 서리가 맺혀 있었다. 빛과 그림자가 뒤섞인 방안에 서 있던 부회장은 손을 들어 뿌옇게 변한 유리 위에 원을 그렸다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "콘스탄틴",
+          "text": "파병 좌표는 남극을 가리키고 있어."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "콘스탄틴",
+          "text": "재건의 손 최대 거점이자 의식의 중심지이지."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "크리오스",
+          "text": "의식?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "콘스탄틴",
+          "text": "모든 시대와 연관된 의식이지. 재건의 손이 이목을 피해 오랫동안 준비해 온 것도 바로 이 순간을 위해서다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "부회장의 목소리가 조금 차가워졌다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "크리오스",
+          "text": "의식의 목적은요?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "콘스탄틴",
+          "text": "자네도 곧 알게 될 걸세."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "크리오스",
+          "text": "...이런 대규모에 갑작스러운 작전은 펼쳐본 적이 없습니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "크리오스",
+          "text": "1999년의 그 ‘전투’를 제외하면."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "콘스탄틴",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "부회장의 시선은 줄곧 창밖을 향하고 있었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "합금으로 된 창문 난간 밖 거미줄엔 눈서리가 매달려 있었는데, 그 무게를 견디지 못한 가느다란 그물이 울부짖는 칼바람 속에서 끊어지고 말았다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "멀리 날아간 그 그물은 눈에 감겨 빙빙 돌다 추락했다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "크리오스",
+          "text": "역사가 재연되는 중이군요. 안 그렇습니까?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "콘스탄틴",
+          "text": "크리오스 연락원."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "부회장이 이어지는 질문을 끊었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "콘스탄틴",
+          "text": "우리는 자네의 이번 활약을 기대하고 있네."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "콘스탄틴",
+          "text": "자네도 잘 알겠지만, 성공한 이에게는 더 많은 정보가 주어지는 법이지."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "크리오스",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "크리오스",
+          "text": "네."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "억눌린 목소리와 함께 통신기 너머에서 결국 신호가 끊겼다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "지직거리는 화면의 새하얀 빛이 계속 창문 위로 비쳤다. 부회장의 시선도 그곳으로 향했다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "앞으로 다가간 그녀는 허리를 숙이고 옆의 선반에 줄지어져 있는 비디오를 살폈다. 그리고 시간이 기록된 CCTV 녹화 영상을 손가락으로 하나씩 훑었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그러다 그중 하나를 골라 영사기에 밀어 넣었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "콘스탄틴",
+          "text": "역사는 재연 중이야..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "콘스탄틴",
+          "text": "하지만 ‘희망’은 여전히 우리 손안에 있어."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "화면에서 오래된 전류음과 함께 탁 소리가 울렸다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "세월에 낡은 전류를 사이에 두고 앳된 목소리가 화면에서 전해졌다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "이게 뭔가요?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "너에게 주는 선물이야."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "선물? ...여행 가방을요?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "그래. 네가 정식으로 재단의 타임키퍼가 된 걸 축하하는 선물."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "기념할 만한 순간이지."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "아이는 선물로 여행 가방을 주는 게 어떤 의미가 담긴 건지 이해하지 못하는 듯했다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그리고 그와 동시에 그녀에겐 여전히 더 많은 의문이 남아 있었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "이건... 누가 저한테 준 건가요?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "왜 저한테 직접 주지 않는 거죠?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "옛 친구가 준 거야."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "...옛 친구?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "그리고 그녀는 이런 말도 남겼지."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "뭐라고 했냐면..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "P a r a d i s e     R e g a i n e d\n                                       복  낙  원"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소네트",
+          "text": "왜 그러세요, 타임키퍼?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "...아무것도 아니야."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그녀는 금방 현실로 돌아왔다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "그냥 예전 일이 떠올라서."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "배가 남쪽으로 가고 추워질수록 뭔가 익숙한 기분이 들어..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "마치..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "마비와 고통, 희열은 감정이라고 칭해야 할까. 아니면 편도체의 생리학적 기전이라고 불러야 할까."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "마치 여기 와본 적 있는 것처럼..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "걱정 어린 동료의 눈빛이 유리창에 반사되었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "깊게 숨을 들이마시며 두근대는 맥박을 억지로 차분하게 내리누른다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "...우리, 우리 곧 도착인가?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "선체가 물가에 닿아 부딪치며 말이 끊겼다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소네트",
+          "text": "윽...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "불어낸 입김이 하얗게 변해 멀리 날아가고, 흔들리던 배도 서서히 균형을 잡았다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "아무래도 도착한 모양이네."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "두 사람은 선실에서 밖으로 나왔다."
+        },
+        {
+          "kind": "title_card",
+          "text": "남극 평야"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그들은 여러 날 은밀하게 우회한 끝에 마침내 밝은 갑판 위에 서서 먼 곳을 바라보았다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소네트",
+          "text": "여긴 로스 빙붕 북서쪽 끝에 있는 맥머도만이에요. 남극 탐험의 중심이자 시작점이죠."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "시선이 닿는 곳에 새하얀 빙원이 무심하게 우뚝 솟아 있었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "영원토록 차갑게 굳어버린 그것은 눈부시고 또 고요했다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그것은 자신의 몸에서 일어난 모든 일에 침묵하며 어떤 평가도 내리지 않는다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "하지만 동시에 사람들이 인식할 수 없는 데시벨로 울부짖으며 이 땅을 밟으려는 모든 이를 두려움에 떨게 한다."
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

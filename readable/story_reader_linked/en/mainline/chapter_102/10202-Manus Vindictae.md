@@ -1,6 +1,6 @@
 # Manus Vindictae
 
-- Chapter: Tender is the Night (`102`)
+- Chapter: Tender Is the Night (`102`)
 - Episode: `10202`
 
 > Subtitle: Everyone deserves their own home. The people here understand you, bond with you and always welcome you.

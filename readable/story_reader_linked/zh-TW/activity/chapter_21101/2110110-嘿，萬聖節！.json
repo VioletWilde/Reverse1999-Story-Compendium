@@ -1,0 +1,698 @@
+{
+  "episode_id": 2110110,
+  "chapter_id": 21101,
+  "chapter_title": "77號往事",
+  "display_label": "",
+  "title": "嘿，萬聖節！",
+  "subtitle": "猝不及防的驚喜，或稱驚嚇。",
+  "trails": [
+    {
+      "element_id": 2110103,
+      "owner_episode_id": 2110110,
+      "trigger_episode_id": null,
+      "title": "紀律，紀律",
+      "description": "制式筆記本上幾行匆匆留下的字跡，清晰而有力，一如寫下它的那位副官。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=2110110",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "問責記錄"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "記錄日期：1990年9月20日\n記錄人：副官 莫莉德爾\n記錄事項：伊戈爾將軍近期行為摘要\n\n本週伊戈爾將軍對三名下屬進行了問責和處理，情況如下：\n\n上尉L.哈里斯：\n事由：在訓練期間指揮不力，導致演習結果不達標。\n處理：嚴厲警告，調離現職崗位。\n\n中士K.羅德里格斯：\n事由：違反軍紀，私自離崗。\n處理：記大過一次，罰禁閉三天。\n\n中尉J.戴維斯：\n事由：未能及時完成預定任務。\n處理：嚴厲警告，並增派人員協助調查。\n——洩密者可以確定是史蒂文·加西亞。洩密內容：真空彈影片？\n\n記錄完畢。\n\n私人備忘：\n毫無疑問，將軍的嚴厲措施旨在整頓軍紀。我們需要確保每位軍官和士兵嚴格履行職責，保持高標準戰備狀態。\n部分軍官認為他近期太過嚴厲→和他們談談\n高層的看法→為將軍安排一次會面\n追蹤目標“K”→德克薩斯州，等待報告"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 2110104,
+      "owner_episode_id": 2110110,
+      "trigger_episode_id": null,
+      "title": "小鎮故事",
+      "description": "每座鎮子都有自己的故事，有的適合在晚間黃金檔播出，有的則適合其他時間段。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=2110110",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "皮面日記本"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "2月5日\n    真是怪事，皮爾斯一大清早就回來了，嚇得屁滾尿流，我沒見過這小子這麼害怕過。他在鎮子裡猛踩油門，到家門口才停下，就像被什麼東西追著一樣。這個瘋子差點撞死瑪麗塔的小鬥牛犬！\n    鬼知道他遇見了什麼。\n\n2月15日\n    鳥叫了整整一夜，我從來沒見過這麼大一群鳥。該死，這些傢伙吵得我幾乎沒睡著覺。\n    露絲被嚇著了，她認為這是某種徵兆。可笑。\n    不過這群長嘴巴的傢伙居然不怕獵槍，我朝它們開了一槍，但沒幾隻鳥飛走。\n    摩根神父建議找個驅鳥隊，如果大城市裡真有這種玩意的話。但我還是認為大家一起開槍最管用，不是嚇跑它們，而是一勞永逸。\n\n3月27日\n    一個噩夢，很真實，儘管我現在不記得它是什麼了。\n    露絲也嚇醒了，我安撫了她，噩夢而已。\n\n3月30日\n    皮爾斯沒從休斯頓回來，但是警察來了。他們說，皮爾斯在休斯頓的雇主報案，認為這小子帶著錢跑路了。\n    聽起來像這小滑頭會做的事。\n\n4月10日\n    鳥叫，又是整整一夜鳥叫。拉開窗簾時我以為我在做夢，但這是真的。鳥遮住了日光。\n    簡直是個現實中的噩夢。\n\n4月12日\n    鳥群散去了。\n    所有人都看起來怪怪的，我很久沒見過瑪麗塔遛狗了，露絲為一點小事便哭個不停，令人心慌。\n\n4月17日\n    約翰尼回到了鎮上，看起來像是被魔鬼吃掉了魂兒。他狂奔、咆哮，然後忽然在草坪上抱頭哭泣，請求什麼東西放過他。\n    摩根神父來了，但是面色很奇怪。\n    我聽見了約翰尼在說什麼，他一個勁兒地念叨“旅館”。\n\n5月13日\n    我和房產經紀人談了談。沒錯，我第一次考慮要不要離開這裡，換一個地方，換一個房子。\n    我說不上來為什麼，但這是一種……直覺？也許換一個地方，我能呼吸得更放鬆一點。"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "202115",
+      "internal_title": "【2.1】77号往事-10.1",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "遼闊的遠郊，有人在野地裡彈起了吉他，哼起了二部曲式的調子。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "士兵",
+          "text": "哦，這樣美麗且悠閒的夜晚，最適合在微醺之後，坐在原野之上吹風……如果能就此睡到明天……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "年輕的芝諾士兵醉眼迷蒙地躺在鎮外的原野上，他對著閃爍的星空，高高地舉起了手中的酒壺。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "士兵",
+          "text": "多麼好的酒，多麼美妙的夜晚！噢，如果每天都能這樣……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一片人形的陰影籠罩在他的臉上——士兵虛焦的眼睛並不能分辨出那是誰。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "士兵",
+          "text": "嘿，你擋住我看星星了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "紅弩箭",
+          "text": "哈……看星星？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "聽到了熟悉的聲音，士兵眨了眨眼睛。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "士兵",
+          "text": "……唔，小姐，有沒有人和你說過……你的聲音很像紅弩箭中尉？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "士兵",
+          "text": "就是那個駕駛著紅色38的飛行女巫……你應該認得她吧？沒有人能做出比她更好的飛行了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "紅弩箭",
+          "text": "當然。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "士兵勉強聚焦了視線，一張似曾相識的臉龐出現在了他的面前。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "士兵",
+          "text": "天哪——您就連長相都和中尉相似……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "紅弩箭",
+          "text": "你如果再裝瘋賣傻，我就會讓你知道紅弩箭揍起人來是什麼樣子。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "因酒醉而遲緩的眼睛終於在這一刻對上了焦，一張滿是不爽的面孔赫然現於眼前。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "士兵",
+          "text": "——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "年輕的士兵手忙腳亂地扔下了酒壺。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他試圖用無力的手行個標準的軍禮，但虛浮的步伐使他險些摔了一個倒栽蔥。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "士兵",
+          "text": "紅弩箭中尉，一等列兵安德烈向您致敬！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "所幸，他最後還是完成了那個七倒八歪的軍禮。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "紅弩箭",
+          "text": "你就是那個看守軍備工廠的人？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "飛行員充滿懷疑的目光在士兵的身上遊移。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "士兵",
+          "text": "是的！紅弩箭中尉！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "紅弩箭",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "很少有人會如此興奮地承認自己的瀆職，某種程度上，他的確擁有出類拔萃的勇氣。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "紅弩箭",
+          "text": "那麼，現在到你幹活的時候了——我的紅色38被寄到了這裡的軍備工廠，我需要你幫我解開包裹上附著的重力術式。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "士兵",
+          "text": "……重力術式？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "紅弩箭",
+          "text": "如果你不明白我在說什麼，就去找負責人過來——我必須得在今天拿到紅色38。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他被酒精麻痹的神經滯澀地轉動著。\n在飛行員即將爆發的前一刻，士兵終於露出了恍然大悟的表情。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "士兵",
+          "text": "……噢，重力術式！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "士兵",
+          "text": "我知道您在說什麼了，請和我一起去軍備工廠吧！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "紅弩箭",
+          "text": "……你真的能解開那個術式嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "士兵",
+          "text": "當然！軍官們在撤離之前，特地培訓了我好幾次——您就放心吧！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "紅弩箭",
+          "text": "帶路吧，士兵。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他們再次來到了那個工廠，巨大的木箱橫亙於二人的面前。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "紅弩箭",
+          "text": "打開它。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "士兵",
+          "text": "噢——這個包裹。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "士兵",
+          "text": "我拿到的時候，還以為是什麼玩笑，或者是同名的軍士——誰也想不到，您居然會到德克薩斯來！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他喋喋不休地說著，飛行員的耐心正在飛速下滑。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "紅弩箭",
+          "text": "士兵，我沒空和你廢話。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "紅弩箭",
+          "text": "打開它，現在。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "士兵",
+          "text": "嗯，中尉，我理解您的心情，但是……嗝。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "士兵",
+          "text": "我沒有解開這個術式的許可權。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "紅弩箭",
+          "text": "如果你不能解決這個問題，那就找能解決的人來——不要讓我重複第三次。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "士兵",
+          "text": "實話告訴您，除了我以外，您找不到別的人了。現在駐守在軍備工廠的人，只剩下我了——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "士兵",
+          "text": "為了讓我幹這活，他們還特地給我升了軍銜——現在，我是個一等列兵了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他驕傲地拍了拍胸口。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "士兵",
+          "text": "其他人要嘛接到了調令，回到了總部，要嘛就離開了這裡……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "士兵",
+          "text": "我也不知道他們去了哪裡。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "士兵",
+          "text": "不過，他們把這麼重要的任務交給我，我相信以後一定還有更好的未來在等著我……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "在士兵連篇累牘的廢話之下，飛行員的耐心正式宣佈告罄。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "紅弩箭",
+          "text": "士兵，你只是沒有解開術式的許可權，而並不是沒有解開術式的能力，對嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "紅弩箭",
+          "text": "我現在給你兩個選擇。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "紅弩箭",
+          "text": "第一，現在幫我解開術式。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "紅弩箭",
+          "text": "第二，被我狠狠揍一頓後，解開這個術式。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "士兵",
+          "text": "其實……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "紅弩箭",
+          "text": "別廢話。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她晃了晃自己的拳頭。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "士兵",
+          "text": "……我選第二個。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "紅弩箭",
+          "text": "……？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她發自內心地困惑了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "士兵",
+          "text": "哈哈……嗝，我可以幫您解開術式，但是這個行為不能是我主動、自願發起的……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "士兵",
+          "text": "因為我現在還只是一個一等列兵……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "士兵",
+          "text": "所以，您的確得揍我一頓……以避免後續的審查——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "士兵",
+          "text": "不過——！等我以後得到了更高的軍銜，我就能更好地幫助您了！紅弩箭中尉！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "士兵",
+          "text": "您的飛行真是太棒了，我還特意做了剪報，貼在了我的……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "話音未落，他的右臉頰已重重地挨了一拳。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "紅弩箭",
+          "text": "放心，我會掌握分寸的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "顯然，疼痛有助於醒酒。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "當士兵的面孔無限地接近於豬頭的時候，他的腦子忽然地清醒了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "士兵",
+          "text": "慢著……我相信這已經達到了他們的標準！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "士兵",
+          "text": "現在，我來幫您解開這個術式。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他蹲下了身，在木箱的周圍進行了相應的動作——輝光流溢，木箱被打開了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "紅弩箭",
+          "text": "這亮得像個閃光彈。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她迫不及待地拿起了紅色38，金屬冰涼的觸感一如既往。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "紅弩箭",
+          "text": "——謝了，一等列兵。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "紅弩箭",
+          "text": "在走之前，有一件事情需要再向你確認。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "士兵",
+          "text": "請說，中尉！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "紅弩箭",
+          "text": "這裡的人為什麼全部撤離了？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "士兵",
+          "text": "唔……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他瞇起了眼睛，開始回憶。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "士兵",
+          "text": "聽說是“上面”的指示。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "紅弩箭",
+          "text": "“上面”？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "士兵",
+          "text": "這就不是我能知道的了……據說是那個轟炸影片被洩露，伊戈爾上將發了大火——有人說和這件事有關。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "士兵",
+          "text": "但這也只是傳言。大部隊還是撤離了，人少了以後，這裡逐漸變得奇怪……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "紅弩箭",
+          "text": "怎樣的奇怪？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "士兵",
+          "text": "最開始只是幾個外鄉人前來傳教，說是一個名叫“啟明會”的新興密教……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "士兵",
+          "text": "農民們不再去耕種田地，牧民也不再放牧牛羊。他們每日參加各種集會，期盼“受苦者”能夠給予永恆的安樂。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "士兵",
+          "text": "我不知道“受苦者”是誰，但想來應該不是一個好人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "紅弩箭",
+          "text": "那些人駐紮在哪裡？鎮子的中心嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "士兵",
+          "text": "嗯……並不是在鎮子裡，離這裡有些距離，好像是……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "士兵費力地回想著。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "士兵",
+          "text": "……是一個叫做藍手帕旅館的地方。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "紅弩箭",
+          "text": "該死的！維爾汀有危險——我得回去找她！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "流線型的金屬機身泛著微微的涼意，一切都一如往昔。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "紅弩箭",
+          "text": "好夥計，得出發了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "說著，她以一個勝利者的姿態，騎上了紅色38。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "銀白色的光芒劃出一道弧線，如同一枚貼地飛行的流星。\n飛行員駕駛它離開了工廠，隨後消失在了漆黑的天幕中。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "士兵",
+          "text": "中尉，請小心——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "年輕的士兵在她的身後遙遙呼喊，那聲音很快被夜色吞沒。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "短途飛行對她而言並非難事。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "在黑夜中，遠處亮起的燈牌顯得尤為清晰。遠處樹影憧憧，如同佝僂著的人形。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "紅弩箭",
+          "text": "藍手帕旅館。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "飛行員鎖定了目標，準備向前走去，忽然有什麼東西，在後面輕輕地拍了拍她的肩膀。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "您好，請問可以搭便車嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "紅弩箭",
+          "text": "我載不了你，找別人吧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "……我可以搭便車嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "紅弩箭",
+          "text": "——我說了，我載不了你！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "重複的問題讓飛行員不耐煩了起來，她轉過頭，卻當場愣在了原地。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "面前的人——她應當是一個姑娘，穿著數年前流行的裙子，整張臉卻像水泥一樣被抹平了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "噢……那您可以給我一塊巧克力嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "無臉的女孩展示著一張糖果的包裝紙。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "不久前，我遇到了一位好心人……他請我吃了一顆巧克力，我從來沒有吃過這樣美味的糖果……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "紅弩箭",
+          "text": "見鬼了！你離我遠點！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "給我，給我……把那顆糖果……給我……我要更多……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "無臉的女孩忽然裂開了嘴，露出了口中如同剃刀一樣鋒利的牙齒。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "紅弩箭",
+          "text": "*的，別找我要糖了，我可不想過萬聖節！"
+        }
+      ]
+    },
+    {
+      "script_id": "202116",
+      "internal_title": "【2.1】77号往事-10.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "紅弩箭",
+          "text": "呼……呼……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "藍手帕",
+          "text": "……嘿。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "紅弩箭",
+          "text": "——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "飛行員在看清了來人的面孔之後，驟然放鬆了蓄勢待發的拳頭。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "紅弩箭",
+          "text": "原來是你。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "藍手帕",
+          "text": "您剛剛是看見什麼了嗎？臉色這樣的白。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "紅弩箭",
+          "text": "……不要在別人的背後突然出聲，我有時會來不及收手。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "藍手帕",
+          "text": "噢，抱歉……不過，既然已經到了旅館，您現在可以不必這麼緊繃著了。"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

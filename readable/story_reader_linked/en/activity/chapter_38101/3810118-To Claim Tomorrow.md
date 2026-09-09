@@ -1,8 +1,8 @@
 # To Claim Tomorrow
 
-- Chapter: 世纪末尺度 (`38101`)
+- Chapter: The Temporal Scale (`38101`)
 - Episode: `3810118`
 
-> Subtitle: The path I tread has never been clear.
+> Subtitle: The path I guide has never been clear. It has never been clear.
 
 ## Transcript

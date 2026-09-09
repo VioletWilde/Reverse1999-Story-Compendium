@@ -1,6 +1,6 @@
 # Storm and the New World
 
-- Chapter: Nouvelles et Textes pour rien (`103`)
+- Chapter: Nouvelles et Textes pour Rien (`103`)
 - Episode: `10316`
 
 > Subtitle: We smelled food, we heard thunder, we saw the world of freedom. Everything is cheering for you and me.

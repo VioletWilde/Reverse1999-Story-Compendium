@@ -1,0 +1,801 @@
+{
+  "episode_id": 11124,
+  "chapter_id": 111,
+  "chapter_title": "머나먼 길",
+  "display_label": "",
+  "title": "산",
+  "subtitle": "그 이름들에 비하면 천만 분의 일도 못 된다.",
+  "trails": [
+    {
+      "element_id": 111024,
+      "owner_episode_id": 11124,
+      "trigger_episode_id": null,
+      "title": "축객령",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=11124",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "죄송하지만, 이제 그만 돌아가 주세요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "여기서는 당분간 소동이 일어날 일은 없을 테니까요."
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "하지만 전쟁은 아직 끝나지 않았는데.",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "전쟁이 끝난다고 해서 뭐가 달라질까요?"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "지진, 홍수, 기근, 전염병, 약탈, 교통사고, 욕조에서 미끄러지는 사고..."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "사람이 죽을 수 있는 기회는 차고 넘치죠. 전쟁은 그중 하나일 뿐이에요."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "세상은 전쟁조차도 진심으로 중요하게 여기지 않죠."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "적어도 이번에는 그럴 일은 없을 거예요."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "제 쥐꼬리만 한 연금 생활을 그렇게도 방해하고 싶으세요?"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "그래도 예의상 거절해서는 안 되겠죠."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "저도 알아요. 지붕 밑에서 흙탕물을 마시는 게 전장에서 먼지를 씹는 것보단 낫다는 것을..."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "됐습니다, 당신 친구는 아직 동부 전선에서 당신을 기다리고 있겠죠. 저도 그녀가 무사하길 기도해 줄게요."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "다음에 보자.",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1110241,
+      "owner_episode_id": 11124,
+      "trigger_episode_id": null,
+      "title": "‘무료’ 정보",
+      "description": "정보는 무가치할 수는 있어도, 절대 무료가 될 수는 없다.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=11124",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "읽은 후 파기"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "몇몇 예상치 못한 일로 불완전한 보고서가 내 손에 들어온 적이 있어. 그것의 내용만으로는 일의 전모를 파악할 수 없었지만, 적어도 제노와 재단이 비밀리에 ‘폭풍우’ 연구를 하고 있다는 건 알 수 있었어. 그건 절대 현재 공개된 연구나 너나 내 등급에서 알 수 있는 연구가 아니었어.\n     재단과 연구 센터의 대부분 사람이 이에 대해 전혀 모르고 있는데, 이런 비밀스러운 행위는 사람을 불안에 빠뜨리기에는 충분하지."
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "101133",
+      "internal_title": "第十一章11-24",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "산"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "완성된 산 하나. 그러나 죽음의 천만분의 일조차 담아내지 못했다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "카론",
+          "text": "......"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그것은 과거의 모든 것을 내던졌다. 외투 한 벌, 철모 하나, 전투화 한 켤레... 나비가 그려진 표지의 노트."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "...파울이라 불리던 젊은이가 지니고 다니던 모든 것을."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "카론",
+          "text": "당신의 전쟁은 이제 끝났습니다, 파울."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "유품은 마지막 무덤에 묻혔다. 산 정상에서 숨진 소령의 무덤 바로 곁이었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "멀리서 말발굽 소리가 점점 가까워졌다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "카론",
+          "text": "...안드레아스?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그 누구도 깨우지 않으려는 듯 아주 부드러운 부름이었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "부드러운 흙길 위에 멈춰 선 말은 잠시 후 말발굽 소리와 함께 새벽 안개를 가르며 서서히 다가왔다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "안드레아스",
+          "text": "히힝..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "검은 말 한 마리가 시신 수습자 앞에 모습을 드러냈다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "부드럽게 콧김을 내뿜으며 쓰다듬어 주길 바라듯 다가섰다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "카론",
+          "text": "착하지..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "카론",
+          "text": "한동안 보이지 않더니, 또 잃어버린 친구들을 찾으러 위험한 데까지 다녀온 거냐?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "안드레아스",
+          "text": "푸르르..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "카론",
+          "text": "어쩌면 네겐 특별한 운명이 주어져 있어, 이 학살 속에서도 숱한 죽음의 위협을 비켜갈 수 있었는지도 모르겠구나."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "카론",
+          "text": "그래도 언젠가 유탄이나 독가스가 너를 끝내 죽음으로 몰아넣을까 걱정된다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "안드레아스",
+          "text": "...히힝... 힝."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "말이 고개를 숙였다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "카론",
+          "text": "나무랄 생각은 없다, 안드레아스. 오히려 이렇게 멀쩡히 내 곁으로 돌아와 줘서 고맙구나."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "망자는 동쪽을 바라봤다. 태양이 떠오르는 땅에 불길한 먹구름이 자욱했다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "카론",
+          "text": "이만 가야겠군... 다음 목적지는 너무 멀어 마침 네 도움이 필요했던 참이었어."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "안드레아스",
+          "text": "...히잉."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "안드레아스는 고개를 기울여 누군가 가까이 다가왔음을 주인에게 알렸다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "‘비글’",
+          "text": "카론 씨, 그 말은 당신 거야?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "둔한 망자는 그제야 누군가가 자신을 부르는 목소리를 알아챘다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "카론",
+          "text": "...그렇습니다, 젊은이여."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "‘비글’",
+          "text": "그렇다면 다행이네. 이 말이 몽페 근처에 혼자 나타나길래, 재건의 손과 관련이 있나 싶어 쫓아왔거든."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "카론",
+          "text": "재단은 계속 몽페에 머물 예정입니까?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "‘비글’",
+          "text": "병력을 더 안전한 위치로 옮겨야 해서 곧 떠날 거야."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "‘비글’",
+          "text": "아, 혹시 ‘블랙버드’가 어디 갔는지 알아?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "카론",
+          "text": "‘블랙버드’?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "‘비글’",
+          "text": "아, 그러니까 메렐, 너와 함께 전선으로 갔던 그 소녀 말이야. 재건의 손 습격 이후로 연락이 끊겼어."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "‘비글’",
+          "text": "그녀를 찾고 있는데... 아무 일 없었으면 좋겠네."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "카론",
+          "text": "그녀라면 아직 살아 있습니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "뜻밖의 수확에 청년의 눈이 밝게 빛났다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "‘비글’",
+          "text": "살아있다고?! 그녀를 봤어?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "카론",
+          "text": "죄송하지만... 그 부분은 알려드릴 수 없습니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "빛이 곧바로 꺼졌다. 파라비얀은 이런 질문에 거절당하리라고는 상상도 못 했다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "‘비글’",
+          "text": "...어째서?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "카론",
+          "text": "그녀는 여러분이 찾지 않기를 원합니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "‘비글’",
+          "text": "왜... 왜? 설마 돌아오기 싫은 거야?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "카론",
+          "text": "예, 다가올 전쟁을 두려워했습니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "카론",
+          "text": "어쩌면 그녀는 그 모든 것을 받아들일 준비가 되어 있지 않았을지도 모릅니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "카론",
+          "text": "그녀는 제게 재단 사람들에게 자신의 행방을 알리지 말아 달라고 부탁했습니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "‘비글’",
+          "text": "...이... 이해가 안 돼. 그래서 그녀를 그냥 보냈다고?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "‘비글’",
+          "text": "혼자 있는 게 더 위험한 거 아니야? 게다가... 그러면 그녀의 이력에 ‘탈영’이라고 기록될 텐데... 세상에."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "카론",
+          "text": "저한테 말씀하신 것들은 잘 모르겠지만,"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "카론",
+          "text": "그녀와 약속했고, 그녀의 두려움 역시 이해합니다. 누구나 공포로부터 눈을 돌릴 정당한 이유가 있으니까요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "청년은 눈 앞의 상황을 어떻게 받아들여야 할지 한 번도 생각해 본 적이 없었다. 휘두를 곳 없는 힘이 몸속에서만 헛돌았다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "초조하게 머리를 긁적이던 그는 결국 결정을 내렸다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "‘비글’",
+          "text": "그래... 적어도 아직 살아있으니까."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "‘비글’",
+          "text": "어떻게든 찾아내야지. 혼자서 밖을 헤매게 둘 순 없어."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "맑은 목소리로 한 약속이었다. 그는 막 중대한 임무를 부여받은 사람처럼 보였다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "‘비글’",
+          "text": "알려줘서 고마워. 그럼 난 이만 가볼게, 카론 씨."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "청년은 몽페로 돌아가는 길에 올랐다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그리고 15분 후, 그의 모습이 숲 동쪽으로 사라졌다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "‘풀숲’",
+          "text": "\"지지직...\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "안드레아스",
+          "text": "히히잉?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "메렐",
+          "text": "...갔어요?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "카론",
+          "text": "그렇습니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "안드레아스",
+          "text": "히힝... 힝."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "소녀가 풀숲을 헤치고 튀어나왔다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "메렐",
+          "text": "왜 그에게 제가 살아있다는 걸 알린 거죠?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "카론",
+          "text": "그건 비밀로 해 달라고 하지 않았으니까요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "메렐",
+          "text": "......"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "메렐",
+          "text": "그러네요..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "망자는 고개를 끄덕여 인사를 남기고 천천히 걸음을 돌렸다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "안드레아스는 콧김을 뿜으며 카론과 메렐 사이를 맴돌았다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "안드레아스",
+          "text": "히잉."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "메렐이 말의 얼굴을 가볍게 토닥였다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "메렐",
+          "text": "저... 카론?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "카론",
+          "text": "뭐죠?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "메렐",
+          "text": "사실... 여기서 묘지기를 할 생각은 없어요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "카론",
+          "text": "죽은 자에게는 동행이 필요 없습니다. 결국 그들을 기리는 묘비도 언젠가는 무너지고, 시간이 우리 모두를 망각의 바다로 인도할 테니까요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "카론",
+          "text": "어떠한 것도 ‘불멸’이라는 이름을 가질 수 없습니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "젊은 소녀는 얼굴을 가린 천을 긁적였다. ‘탈영병’이 돼서 긴장한 탓인지 피부가 괜히 간지러웠다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "메렐",
+          "text": "뭐, 묘지기에 관한 농담은 좀 별로였죠... 그러니까 어디로 가면 될지 모르겠어요... 재단을 떠난 이 상황에 저를 도와줄 다른 사람이 없어서요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "메렐",
+          "text": "재건의 손에 붙잡히는 건 더더욱 싫고요. 그들이 남극에서 무슨 짓을 했는지, 아마 상상도 못 하실 거예요..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "메렐",
+          "text": "아... 이 시대의 남극 말고, 그 이전 시대의 남극이요. 아무튼 저 혼자서는 그들을 상대할 수 없어요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "안드레아스",
+          "text": "푸르르..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "메렐",
+          "text": "그래도 제가 할 수 있는 일은 있어요. 성가신 크리터 정도는 가볍게 처리할 수 있거든요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "메렐",
+          "text": "그러니까... 혹시, 도움이 필요하시다면... 같이 다니는 건 어때요? 적어도 당신은 거짓말은 하지 않으니까요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "카론",
+          "text": "제가 나아갈 길은 안전과는 상당히 거리가 멉니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "메렐",
+          "text": "괜찮아요. 위험해지면 제가 알아서 도망칠 테니 그건 걱정하지 마세요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "카론",
+          "text": "...그렇다면 따라오시죠."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "카론",
+          "text": "재단의 감시 구역을 피하려면 더 멀리 돌아가야 할 겁니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그는 외투 주머니에서 반쪽밖에 없는 초콜릿을 하나 꺼냈는데, 줄곧 몸에 지니고 다녔는데도 녹지 않았다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "카론",
+          "text": "배가 고프시면 언제든 돌려드리겠습니다. 그리고 지치시면, 안드레아스가 당신을 태워 줄 것입니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "전쟁에서 벗어난 병사는 기쁜 표정으로 고개를 끄덕였다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "메렐",
+          "text": "...네, 좋아요!"
+        },
+        {
+          "kind": "title_card",
+          "text": "비서실장 사무실"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "... 법안 개정안이 상정됐어. 조만간 위원회에서 다음 협상을 진행할 텐데, 너도 그 회의에 참석해야 해."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "최근 사건으로 ‘매파’의 발언권이 커졌고, 그들은 타임키퍼 소대의 권한과 예산 확대를 적극 지지하고 있지."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "준비해 둬, 버틴."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "...알겠습니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "재단 직원들과 위원들이 분주히 복도를 오갔다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Z의 사무실을 막 나서자 익숙한 목소리가 다시 들려왔다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "크리오스",
+          "text": "...타임키퍼?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "날 기다렸어?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "크리오스",
+          "text": "우연이지, 그래도 나를 기억해 주니 기쁘군."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "당연하지. 네 작전 덕분에 수많은 병사가 목숨을 건졌는걸."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "몽페 사태가 해소된 뒤 ‘비둘기파’도 ‘전선 긴급 대책’ 확대에 동의했어."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "크리오스",
+          "text": "하하... 정치에 관심이 있을 줄은 몰랐네."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "...관심이 있는 건 아니고, 그냥 알고만 있는 것 뿐이야."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "크리오스는 아랑곳하지 않고 정치 화제를 바꿨다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "크리오스",
+          "text": "지난번엔 내가 너무 급했지. 그 후로 계속 이야기할 기회를 엿봤는데... 근데 이곳도 대화를 나누기 적합한 곳은 아닌 것 같군."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "크리오스",
+          "text": "어쩌면 네게 유용한 정보를 좀 줄 수 있을지도 몰라서 말이야. 재단에 관해, 그리고..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "크리오스",
+          "text": "‘우르드’에 관해서."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "예상했던 반응을 보이자 남자는 미소 지으며 봉투 하나를 건넸다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "크리오스",
+          "text": "연락 기다리지. 분명 잘 협력할 수 있을 거다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소네트",
+          "text": "...타임키퍼, 잠시 실례할게요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "황급히 달려온 제1조수는 의문과 경계가 뒤섞인 눈길로 붉은 머리의 남자를 바라봤다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소네트",
+          "text": "크리오스 씨, 급한 용무가 있으신가요? 필요하시면 제가 회의 일정을 잡아 드릴 수..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "크리오스",
+          "text": "괜찮다, 우연히 만나서 인사만 한 거니까."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "크리오스",
+          "text": "그럼 다음에 보지, 타임키퍼, 소네트."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "남자는 고개를 살짝 끄덕인 후 빠르게 멀어졌다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "......"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소네트",
+          "text": "타임키퍼? 괜찮아요...?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "...괜찮아. 바빠 보이네, 소네트."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "제1조수는 불안한 표정으로 통신기를 꺼냈다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소네트",
+          "text": "타임키퍼, 이걸 보셔야 해요. 긴급 메시지입니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "연락한 사람이... 릴리아?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "릴리아",
+          "text": "난 지금 솜므 장군 지시로 동부 전선에 파견 나와 있어."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "릴리아",
+          "text": "대장, 내가 무엇을 발견했는지 알아... &%# ...뭐지? 관할...*#@ ...밖의...￥%&#... 제노 주둔지라니."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "릴리아",
+          "text": "내가 판단하기에 이건...*&% ... 반란군이야."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "릴리아",
+          "text": "자세한 건...$#@ ...최대한 빨리 회신해 줘."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "메시지는 잡음 속에서 끝났다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소네트",
+          "text": "메시지를 받자마자 릴리아 씨한테 연락해 봤지만... 연락이 안 돼요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소네트",
+          "text": "제노 반란군 얘기가 나와서 걱정되네요..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "...이고르 장군인가? 릴리아에게 문제가 생긴 것 같네."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "소네트, Z 씨의 사무실에 같이 가보자."
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

@@ -1,6 +1,6 @@
 # An Explosive Answer
 
-- Chapter: Finding Xavier (`1911`)
+- Chapter: Eagle (`1911`)
 - Episode: `191106`
 
 > Subtitle: Explosion is a truly universal art.

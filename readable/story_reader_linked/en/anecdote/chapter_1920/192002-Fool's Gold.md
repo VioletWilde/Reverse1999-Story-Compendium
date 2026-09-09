@@ -1,6 +1,6 @@
 # Fool's Gold
 
-- Chapter: The  Best Band in Town (`1920`)
+- Chapter: The Best Band in Town (`1920`)
 - Episode: `192002`
 
 > Subtitle: Gold? No, there's none of that stuff here!

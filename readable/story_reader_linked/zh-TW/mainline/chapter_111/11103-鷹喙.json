@@ -1,0 +1,739 @@
+{
+  "episode_id": 11103,
+  "chapter_id": 111,
+  "chapter_title": "行於漫漫長路上",
+  "display_label": "",
+  "title": "鷹喙",
+  "subtitle": "言辭比武器更鋒利——這是謊言。",
+  "trails": [
+    {
+      "element_id": 111003,
+      "owner_episode_id": 11103,
+      "trigger_episode_id": null,
+      "title": "明查暗訪",
+      "description": "將重要的任務交給下屬之前，務必做好背景調查。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=11103",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "“Ⅻ”小隊花名冊（影印本）"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "帕拉維揚——“警官”\n年齡：19歲\n種族：人類\n履歷：畢業於芝諾軍備學院，曾在夜巡特遣管理局任執夜人，任職期間協助直接上級刻雷烏斯破獲多起惡性案件。後轉入“Ⅻ”小隊。\n與刻雷烏斯最親近的年輕小子，熱忱，勇敢，滿腦子還都是理想主義。真希望他的上級始終對得起這份敬佩之情，否則整個小隊都會損失不少溫度。\n\n葉爾莫萊——“獵犬”\n年齡：37歲\n種族：人類\n履歷：社會人士，此前經由刻雷烏斯推薦，在夜巡特遣管理局任執夜人，參與過若干保密任務。後轉入“Ⅻ”小隊。\n是個有前科的，但不必過分擔心，刻雷烏斯已經抓穩了他的把柄。“獵犬”這個代號是誰給他填在這裡的？那可得留心他的報復了。\n\n梅蕾爾——“烏鶇”\n年齡：16歲\n種族：神秘學家\n履歷：基金會收留的“暴雨”孤兒，於第一防線學校接受教育。畢業後被刻雷烏斯邀請進入夜巡特遣管理局實習。後轉入“Ⅻ”小隊。\n第一防線學校？他對那些循規蹈矩的孩子們一向沒什麼興趣。看來刻雷烏斯自己也明白，“Ⅻ”小隊缺的就是神秘學人才。不過從這個學生的績點來看……他的要求還真不高。\n\nP.S. 給“Ⅻ”小隊留幾個招募名額。"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1110031,
+      "owner_episode_id": 11103,
+      "trigger_episode_id": null,
+      "title": "彈性審查",
+      "description": "審查當然可以是彈性的。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=11103",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "內部審查報告"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "在聖保羅事件中，紅弩箭中尉之所以能夠從關押中逃離，是因為得到了叛軍領導人之一，莫莉德爾的幫助。\n*該事件詳情見附錄：紅弩箭中尉提交的報告\n……\n\n芝諾軍備學院的內部整頓行動已經結束。現在，為了釐清本次芝諾叛變的細節，以防範其他“意外”，針對芝諾特殊成員的審查已經啟動，不建議紅弩箭中尉隨司辰小隊前往澳大利亞。同時，在審查完成之前，應令紅弩箭中尉留駐基金會，以便接受調查。\n……\n*本月詢問筆錄已隨附錄\n\n本月開始，紅弩箭中尉對詢問已經表現出了不滿的態度，但依然在配合調查。交叉幾份芝諾特殊人員的檔案和詢問記錄後，依然有諸多待確認的方向。\n……\n*本月詢問筆錄已隨附錄\n\n結論： 對紅弩箭中尉的審查至此全部結束，現階段已確定不予追查。\n總概： 無\n\n------------------------------------------------------------------\n\n審查的確就是這樣突然地結束了，我也已經確定這份報告不會有更詳細的內容去闡述結束審查的原因，而我留下這頁附錄和這段話，是希望參與審查的各位同僚不要再探究原因，我們要做的是聽從命令，做好本職工作，除此之外的所有事情，我們都無需在意。\n感謝各位近兩個月的努力，本頁將在第一次內部傳閱後銷毀。"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "101104",
+      "internal_title": "第十一章11-03",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "鷹喙"
+        },
+        {
+          "kind": "title_card",
+          "text": "行動準備區"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "紅弩箭",
+          "text": "你真不和我一起去嗎，頭兒？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "在經過了一段長時間的休整之後，飛行女巫已經做好執行新任務的準備。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "這是索姆將軍交給你的任務，不涉及司辰小隊。\nZ女士要求我留在基金會總部。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "紅弩箭",
+          "text": "難道你還沒有受夠這個無聊的地方嗎？根據那個《暴雨改革》法案，司辰小隊不受基金會的制約。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "但司辰本人仍然需要對Z女士負責，紅弩箭小姐。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "紅弩箭",
+          "text": "——這真是有夠人受的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "渴望自由的飛行員悶悶不樂地接受了這個事實。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "紅弩箭",
+          "text": "我原本以為有機會帶你去看看真正的草原，那個場面一定會讓你永生難忘。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "以後會有機會的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "紅弩箭",
+          "text": "呵，不管是什麼時代，那裡的景色倒也都沒什麼區別。\n不過你“留在總部”的任務要什麼時候才能結束？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "我猜要等到基金會的動盪結束之後，我才有機會獨自行動。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "紅弩箭",
+          "text": "動盪？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "你聽過關於“鴿派”與“鷹派”的爭端嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "紅弩箭",
+          "text": "沒聽過，這段時間我都在休息。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "紅弩箭",
+          "text": "這聽起來又是一些無聊的政治鬥爭。我已經玩過一次，除非維爾汀再被扣押，否則我絕不想玩第二次。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "……簡單來說，聯合委員會在和平戰略的問題上分裂成了“鴿派”和“鷹派”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "“鴿派”堅持要維護政治原則，以外交方式達成和平，以此在戰後的政治秩序中獲益。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "紅弩箭",
+          "text": "那“鷹派”呢？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "“鷹派”相信重塑之手已經滲透了軍隊高層，外交手段無法實現和平。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "他們想要打破過去處理時代問題的準則，以更直接的手段逮捕涉嫌與重塑之手合作的軍政界高層。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "紅弩箭",
+          "text": "這聽起來更有效率，不過也許會搞出大亂子。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "所以，目前是“鴿派”的政策佔據上風。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "紅弩箭意興闌珊地搖搖頭。對她來說，政治問題說到這個程度已經夠她受了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "紅弩箭",
+          "text": "這太複雜了。頭兒，你站哪邊？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "我不會站在任何一方。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "出發的時間已到，飛行女巫跨上Su-01ве。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "紅弩箭",
+          "text": "總之，我站在你這邊。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "紅弩箭",
+          "text": "再見！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "飛行掃帚呼嘯著噴射出強勁的氣流，老練的駕駛員很快消失在了雲層之中。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "……戰爭延長的每一天都會造成大量無謂傷亡，為了儘快做出應對，參與決策的人數應該盡可能少。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "在聯合委員會開始前，我需要各派的領袖在這間辦公室裡先行達成一致。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "所以你之前召集了佩德拉和伊里內伊。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "沒錯，讓伊里內伊妥協不是一件容易的事，好在最終還是說服了他。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "我不代表任何派別，沒必要留在這裡。\n為什麼不批准我的外勤申請？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "這是出於其他的理由。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "《暴雨改革》法案無法一勞永逸地保障司辰小隊的權利，維爾汀，這場派系爭端一定會帶來很多新的政策變更。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "你有機會為你和你麾下的神秘學家爭取比初版法案更多的權益與預算。當然，情況也可能完全相反。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "如果你不想失去這次機會，那就必須留在總部，直到所有事情告一段落。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "……我們走吧，十四行詩。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "真是令人印象深刻的起飛動作，那位就是紅弩箭中尉？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "……？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "轉過頭去，一名紅髮男子出現在視野中。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "刻雷烏斯",
+          "text": "她就是人們說的紅弩箭中尉嗎，司辰？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "是的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "您是……刻雷烏斯先生，“Ⅻ”小隊的隊長？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "刻雷烏斯",
+          "text": "看來我們已經通過某些管道互相認識了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "是的，我讀過南極行動的詳細報告，其中就有您的名字……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "行動隊長向第一助手點頭致謝，隨後，他換上更加審慎的目光。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "刻雷烏斯",
+          "text": "在前往南極之前，我也瞭解過你的事蹟，司辰。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "刻雷烏斯",
+          "text": "不光是南極，還有之前的幾次“暴雨”，你的小隊挫敗了重塑之手的很多陰謀。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "刻雷烏斯",
+          "text": "可惜，南極行動的結局不算太完美，眼下又有一場戰爭攔在我們面前……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "“嗶——嗶——”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一則通訊請求恰好在此刻接入。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "刻雷烏斯還想說些什麼，但也只好無奈地就此作罷。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "刻雷烏斯",
+          "text": "我想，以後我們還會有其他合作的機會——如果你有任何需要的話，司辰，都可以與我聯繫。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "……好的。我也必須要離開了，刻雷烏斯先生。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "三人結束了這場短暫的偶遇。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "刻雷烏斯留在原地，按下了通訊器的接通按鈕。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "刻雷烏斯",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "刻雷烏斯",
+          "text": "說。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "照你說的，我已經向部分到訪安全區的政要警告了重塑之手可能在滲透高層的情況，但他們信不信我不知道。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "另外，瑪爾紗和一個引人注目的士官離開了蒙佩。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "刻雷烏斯",
+          "text": "什麼理由？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "我可不會湊上去聽——畢竟，我不想在不該出現的時候露臉。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "刻雷烏斯",
+          "text": "說說你的判斷。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "那個士官的外貌很怪異，但從行為上看不太像是重塑之手的人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "他和瑪爾紗只是偶然相見，就站在路中間說話。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "說實在的，你從南極回來之後多少有些神經過敏了，覺得到處都有重塑之手。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "諷刺的言辭落了個空，通訊另一頭的人等來的是一條明確的指令。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "刻雷烏斯",
+          "text": "跟上瑪爾紗。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "蒙佩這邊不需要我盯著了嗎？你之前還說，懷疑有重塑之手的人混入了會場……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "刻雷烏斯",
+          "text": "那裡有基金會的安保人員。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "希望那些石頭腦袋能頂用吧……梅蕾爾和帕拉維揚都已經調到總部了？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "刻雷烏斯",
+          "text": "……對。不過他們要和我一起行動，只是委員會還沒通過我的外勤申請。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "呵——基金會還是信不過你？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "刻雷烏斯",
+          "text": "完成你的任務，葉爾莫萊。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "“士兵們通常沒有機會一觀戰壕的全貌，而我常常將它想像成一種爪痕。”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "“有關爪痕的印象在心中揮之不去——龐大而黑暗的怪獸撕開土地，我們則躲藏在它創造的溝壑中瑟瑟發抖。”"
+        },
+        {
+          "kind": "title_card",
+          "text": "公墓"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "我們到了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "卡戎駐足凝視著這片佈滿壕溝的坡地，時間還不足以消弭此地的傷疤。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡戎",
+          "text": "總括而言，這是個安靜的地方……也許戰壕中還有不少沒有被清理的屍體。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "唯一的問題是，這裡離蒙佩有一些距離了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "收屍人的目光在丘陵與瑪爾紗之間來回移動，最終鎖定在後者身上的盔甲。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡戎",
+          "text": "我有一個問題想要問你。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "沒錯，我之前的確在軍隊中服役。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她早已知道問題，乾脆搶先一步做出回答。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡戎",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "我過去是騎士團的成員，和其他神秘學家一樣，開戰之後就作為特殊部隊被投入戰場。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "出於某些原因，我現在是一名戰地醫生……但我還是習慣把一部分舊時的盔甲穿在身上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "它雖然無法擋住步槍彈，也沒有承載太好的回憶，但我希望以此紀念那些永遠不會再見的戰友。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡戎",
+          "text": "軍隊嚴禁士兵擅自退出服役，你是怎麼轉而為基金會服務的？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "我現在不想回答這個問題。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "士官如同一名笨拙的士兵，狼狽地跌進了泥坑裡。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡戎",
+          "text": "是我有失考量，但是……至少請你相信，我沒有在追究你。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡戎",
+          "text": "如果我能擺脫當前的命運，我也會永遠離開軍隊。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "我明白。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "也許等和約簽訂之後，你就能得償所願，很快軍隊就不需要那麼多軍人了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "騎士回望來路——通向蒙佩的道路被一座茂密的森林隔斷。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "我該回去了，再見，卡戎。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡戎",
+          "text": "……再見。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡戎",
+          "text": "再次向你表達我的歉意，女士。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "安全區內，第一輪會談已經結束。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "希施費爾德上校從懸掛著基金會旗幟的房屋走出，在他身後，軍官們緊密地圍成一道屏風。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "上校",
+          "text": "……該走了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "上校的勤務兵為他披上外套。\n軍方代表的心情不算太好，他急於結束這場會談的意向相當明顯。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "佩德拉委員以次要位置伴隨在希施費爾德上校身旁，不失風度。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "佩德拉",
+          "text": "……這是一個對所有人都有利的方案，我懇請您和總參謀部認真考慮，上校先生。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "上校",
+          "text": "我軍目前在戰爭總體局勢上佔據著優勢，如果要簽訂停火協定，這一點必須得到承認。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "上校",
+          "text": "另外，關於重塑之手的討論，我希望基金會在未來能謹慎措辭。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "上校",
+          "text": "我們的戰略與你們所謂的邪教團體毫無關聯，軍方的抉擇符合目前對整體局勢的理性考量。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "佩德拉",
+          "text": "基金會充分理解這個問題。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "上校",
+          "text": "那就再好不過。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "佩德拉",
+          "text": "至少，多方之間可以先達成初步停火協定——士兵仍然可以駐紮在前線，但這個冬天不必再進行大規模軍事行動。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "軍方代表坐上已經在路邊停留等候的車輛。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "上校",
+          "text": "這取決於對方是否會表達出足夠的善意。我認為，首先必須停止的是對我方軍事人員的刺殺行動。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "佩德拉",
+          "text": "刺殺？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "上校",
+          "text": "敵人一直在派遣狙擊手，滲透到我軍後方，刺殺高級——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一個凝固的瞬間。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "首先是自上校的脖頸處綻裂的鮮血，在幾聲沉悶的心跳之後，在場的人才聽見遙遠的槍聲。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "佩德拉",
+          "text": "……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "佩德拉",
+          "text": "……什——怎麼——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "靜滯的時間緩緩化開，一切開始恢復活力——高聲呼叫、奮力奔跑、槍械開火……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "佩德拉感到有人在揪他的衣領，這股牽扯的力量越來越強。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "基金會安保",
+          "text": "請躲入掩體，佩德拉委員！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "佩德拉",
+          "text": "唔——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "士兵們則撲向自己的長官。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "警衛士兵",
+          "text": "狙擊手，敵襲！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "混亂的嘈雜最終淹沒了一切。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "警衛士兵",
+          "text": "醫生——上校中彈了，醫生在哪裡？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "警衛士兵",
+          "text": "把車開走，帶上校去搶救，快！"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

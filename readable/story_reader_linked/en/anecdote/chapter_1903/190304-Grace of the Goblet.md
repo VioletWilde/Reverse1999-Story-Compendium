@@ -1,6 +1,6 @@
 # Grace of the Goblet
 
-- Chapter: chapter_1903 (`1903`)
+- Chapter: The Long Night Singing Its Dirges (`1903`)
 - Episode: `190304`
 
 > Subtitle: That affection, that greatness—it will eventually shine eternal.

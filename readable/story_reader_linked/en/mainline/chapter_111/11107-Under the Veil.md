@@ -1,6 +1,6 @@
 # Under the Veil
 
-- Chapter: 行于漫漫长路上 (`111`)
+- Chapter: A Long Long Way (`111`)
 - Episode: `11107`
 
 > Subtitle: The bullet spares neither the kind nor the cruel; all are caught in the same tragic fate.

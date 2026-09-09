@@ -1,0 +1,902 @@
+{
+  "episode_id": 11101,
+  "chapter_id": 111,
+  "chapter_title": "行於漫漫長路上",
+  "display_label": "",
+  "title": "洪水之後",
+  "subtitle": "時代已被捲入無端的洪流。",
+  "trails": [
+    {
+      "element_id": 111001,
+      "owner_episode_id": 11101,
+      "trigger_episode_id": null,
+      "title": "又一場戰爭",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=11101",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "您好，請問您來到只有灰燼的破屋要做什麼？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "這裡沒有學校或是遊樂場，像您這樣打扮體面的人不該在這裡。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "我不認識你",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "我不是什麼名人，一個擅自出現在我面前的人應該不認識我。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "而且您沒有必要知道我是誰。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "我對出名沒有任何興趣，名聲只會讓我被更多的人騷擾。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "那麼我們達成了共識。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "我也不喜歡這滿是鐵鏽味和焦臭的環境。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "哪怕一條蛆蟲都會為了爬出這裡而產生鬥志。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "可惜，現在全世界都沒有好日子過，害得我無處可去，必須得忍受這片廢墟。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "而您恐怕也得和我一起忍受，真是可悲。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "跑到世界的盡頭打了一場不知所謂的仗，戰利品卻只有一台破爛紡車。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "然後呢？他們收走了那輛紡車，和那個半死不活的人一起，再把您送到下一個戰場。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "我衷心希望那輛紡車中有著拯救全世界的線索，也許一個停戰佈告，或者別的什麼。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "那樣您就可以趕在戰死前去找另一份工作，也許做個鐘錶匠之類的。"
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "戰爭會結束的",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "我暫時沒話想說了，可以請您讓我一個人待一會嗎？"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "沒有茶和點心給任何客人，我已經想不起那些東西的味道了。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "您就隨便享受下戰爭吧。反正這場結束之後還會有下一場，務必不要吝惜，去吧。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "我暫時沒話想說了，可以請您讓我一個人待一會嗎？"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "沒有茶和點心給任何客人，我已經想不起那些東西的味道了。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "您就隨便享受下戰爭吧。反正這場結束之後還會有下一場，務必不要吝惜，去吧。"
+                }
+              ]
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "我有我的目的",
+              "edge_label": "",
+              "branch": []
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "這裡確實沒什麼好風景",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "101101",
+      "internal_title": "第十一章11-01",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "行於漫漫長路上"
+        },
+        {
+          "kind": "title_card",
+          "text": "洪水之後"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "生活與想像力有關。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "我們出生、學習、成長，成為他人的友伴與愛人，銘記令祖輩驕傲的故事。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "帶著這些舊日的一切，我們被拋向一個新的時代。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他們說，這是一個“偉大的時代”，是歷史賜予一代人的成年禮——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "結伴而行的冒險，互相鼓勵的熱忱；載譽而歸的歡喜，流傳子孫的傳奇……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "——這是原本存在於我們想像中的事物。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "可戰爭撕碎了我們的想像力。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "那些年輕的，尚未成長的人，永遠見不到本該屬於他們的未來。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "而那些有倖存活下來的人，成為了難以想像的東西——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "麻木。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "殘忍。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "墮落。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "……在地獄中求生的魔鬼。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "無數次，我自問——我會做出怎樣的選擇？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "是想被人銘記為英雄，還是……成為一場永恆災難的犧牲品？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "可在我見過太多次毫無價值的死亡之後，我知道——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "我沒有選擇。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "你看見了什麼？"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "冰",
+          "edge_label": "아주 거대한 빙산",
+          "branch": []
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "冰山",
+          "edge_label": "아주 거대한 빙산",
+          "branch": []
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "巨大無朋的冰山",
+          "edge_label": "아주 거대한 빙산",
+          "branch": []
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "還有什麼？"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "水",
+          "edge_label": "시대를 침몰시키는 홍수",
+          "branch": []
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "洪水",
+          "edge_label": "시대를 침몰시키는 홍수",
+          "branch": []
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "淹沒時代的洪水",
+          "edge_label": "시대를 침몰시키는 홍수",
+          "branch": []
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "時代消失了嗎？"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "沒有……",
+          "edge_label": "아니!",
+          "branch": []
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "沒有",
+          "edge_label": "아니!",
+          "branch": []
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "沒有！",
+          "edge_label": "아니!",
+          "branch": []
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "那麼，我們來到了哪一個時代？"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "1920年……",
+          "edge_label": "1920년!",
+          "branch": []
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "1920年",
+          "edge_label": "1920년!",
+          "branch": []
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "1920年！",
+          "edge_label": "1920년!",
+          "branch": []
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "潛意識領域穩定……未檢測到侵入性幻覺……認知-現實匹配度良好……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "……甦醒……"
+        },
+        {
+          "kind": "title_card",
+          "text": "康復中心病房"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小梅斯梅爾",
+          "text": "最後一個問題——這是什麼？"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "動物",
+          "edge_label": "동물",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "維爾汀",
+              "text": "大象。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "提問者在意料之外的耿直面前沉默了一會兒。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "小梅斯梅爾",
+              "text": "答對了，很欣慰你沒有給我奇怪的答案。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "怪物",
+          "edge_label": "괴물",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "維爾汀",
+              "text": "它有很多頭，很多肢體，以怪異的方式生長，如同奇異扭曲的橡樹。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "維爾汀",
+              "text": "它是一隻奇美拉。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "小梅斯梅爾",
+              "text": "……我認為是你的視覺出現了重影。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "小梅斯梅爾",
+              "text": "但精神應該沒有問題。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "死亡的陰影",
+          "edge_label": "죽음의 그림자",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "維爾汀",
+              "text": "死亡的陰影，無可辨析的惡魔。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "維爾汀",
+              "text": "它像是要撕碎一切理性與光明，未來在它面前黯淡無光。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "小梅斯梅爾",
+              "text": "我討厭你不合時宜的幽默感，維爾汀。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "維爾汀",
+              "text": "好的。它是一隻大象。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "小梅斯梅爾",
+              "text": "……至少你的精神沒有問題。"
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "這感覺不像過去的人工夢遊。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小梅斯梅爾",
+          "text": "從南極歸來的行動人員都要接受特殊的精神檢測流程。順帶一說，我並沒有參與開發。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "人工夢游治療師將所有儀器關閉，焦躁的電流嗡鳴聲忽然消失不見。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小梅斯梅爾",
+          "text": "按照病情來看，你不應該在我這裡待這麼久，但我需要按照規範完成診療程序。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小梅斯梅爾",
+          "text": "無論南極的冰蓋下藏著什麼東西，它都顯然沒有對你的神智造成任何損害。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小梅斯梅爾",
+          "text": "很多人沒有這麼幸運——他們受到的精神創傷雖然不致命，但也會影響日常生活的便利。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "諾諦卡和“無名者”小姐怎麼樣了？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小梅斯梅爾",
+          "text": "我無權得知“無名者”的情況，對她的收容和診療是其他專門機構的職責。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小梅斯梅爾",
+          "text": "至於諾諦卡……她很健康。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "小梅斯梅爾用簡單的詞語下達判斷。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "科算中心為她提供了足夠的活動空間嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小梅斯梅爾",
+          "text": "阿德勒先生為她臨時騰出了一間階梯式報告廳，不算舒適，也不會很擁擠。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小梅斯梅爾",
+          "text": "不過現在她身邊圍繞著一大群神秘生物學家、古代傳說癡狂者與瘋瘋癲癲的儀式學家。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小梅斯梅爾",
+          "text": "他們都希望從諾諦卡身上得知有關南極神話的蛛絲馬跡。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小梅斯梅爾",
+          "text": "如果你關心她，不需要來問我，你有權直接與諾諦卡接觸。\n事實上，她一直在詢問你的情況。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "治療師移開視線，就此問題不願再聊。她開始按照規範收拾病房。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "輕細的叩門聲驅散了病房空氣中漂浮著的那一絲尷尬。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "司辰？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小梅斯梅爾",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "進來吧，十四行詩。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "屬於第一助手的橘色出現在被灰白色統治的病房內。\n她首先禮貌地看向另一位昔日同窗。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "小梅斯梅爾，司辰的狀況還好嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小梅斯梅爾",
+          "text": "她很好，不需要再待在我這裡了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "好的，我們很快就離開。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "十四行詩回憶起今日的行程。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "司辰，Z女士說你之前委託的“暴雨”時代調查已經有了結果。她正在副會長的辦公室等你。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "我們現在就去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小梅斯梅爾",
+          "text": "那麼——再見，二位。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "小梅斯梅爾送走客人，留在病房內做最後的收尾工作。"
+        },
+        {
+          "kind": "title_card",
+          "text": "基金會走廊"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "剛剛過去的第十次“暴雨”仍在基金會內部傳遞餘震。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "即使已經習慣了時代的更迭，但此時在幾何形構築的走廊內穿梭的職員們仍然顯得有些慌亂。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "……看起來大家的情緒仍然相當不安。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "這一次的“回溯”與所有人的設想都略有不同。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "走吧，Z女士應該準備了更準確的消息。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "基金會委員",
+          "text": "……那就不用再浪費時間了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "……？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一名委員從辦公室中疾步走出。相比整潔體面的制服，他的面孔已經變得面目全非。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "另一人竭盡所能地克制著步伐，從門後追出來。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "佩德拉",
+          "text": "伊里內伊，我以為你已經與我們達成了一致。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "然而，他要追逐的對象早已走到道路另一頭的分岔路口。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊里內伊",
+          "text": "是的，我說過——我同意會議的決策。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊里內伊",
+          "text": "如果你們覺得在這個時代可以放著重塑之手不管，那麼你們就放手去做吧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "佩德拉",
+          "text": "恢復這個時代的和平與秩序是當務之急，你應該充分理解——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊里內伊",
+          "text": "我們處在一場比你想像得更宏大的戰爭之中，和平主義者。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "佩德拉",
+          "text": "和平主義者……你在暗示什麼？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "伊里內伊沒有作答，他拐向左邊的岔路，隱沒了身形。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "佩德拉",
+          "text": "……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "“和平主義”委員放棄了追逐，走另一條的岔路離開了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "……？他們剛剛出來的房間……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "沒錯，是副會長的辦公室。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "客人走了，我們進去吧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "……好的。"
+        },
+        {
+          "kind": "title_card",
+          "text": "副會長辦公室"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "辦公室的主人不見蹤影，只有她的幕僚長在室內等候。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "時間正好，司辰，十四行詩。\n康復中心告訴我不需要為你們的健康擔心，很高興能親眼驗證這一點。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她放下一沓散亂的文件。顯然，一場激烈的爭吵在此處留下了不少混亂。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "Z女士，我在門口遇見了伊里內伊和佩德拉。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "我們暫時不討論他們的問題。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "好的。你說關於“暴雨”時代的調查已經有了結果？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "沒錯，根據委外合約小隊與各地調查員匯總的情報，我們驗證了你的猜想——歷史出現了錯謬。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "……第十次“暴雨”把我們帶到了一個錯誤的1920年，在外部，一場本不應存在的戰爭正在肆虐。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "能確定錯謬發生的原因嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "我得知科算中心對歷史錯謬發生的誘因有兩個推測。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "第一種觀點認為，南極的儀式雖然未能完全成功，但它引發的“洪水”仍然導致“暴雨”的性質發生了改變。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "在新的“暴雨”之下，時代狀況會與真實歷史記載產生更大的偏差——這算是較為樂觀的推測。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "比較悲觀的推測則認為，阿爾卡納經過“復活”這一神秘學機制，獲得了通過“暴雨”影響歷史進程的力量。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "如果真是這樣，那我們此刻身處的時代，還有這場戰爭……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "——很可能就是阿爾卡納意志之下的產物，重塑之手或許想利用戰爭帶來的混亂。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "莊重肅穆的房間迎來了它的主人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "我們很久沒有在這裡見過面了，司辰。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "嗯，這裡一點變化也沒有。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "呵呵……恰好你在這裡，佩德拉和伊里內伊也不在場，我可以向你補充一些新消息。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "外部的戰爭正處在末期，雖然軍事行動仍在繼續，但交戰國之間已經有了較高的停火意願。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "聯合委員會已經決定以調停人的身份介入交戰國之間的談判——維護和平永遠是基金會的第一訴求。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "另外，穩定的外部局勢更有利於我們與重塑之手對抗。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "那談判有進展了嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "對此細節問題，幕僚長代為作答。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "各個分部的負責人已經為我們搭建起了溝通管道，並確定了部分共識性條款。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "佩德拉將代表基金會抵達前線與各國軍事長官會晤，爭取在這個月內先達成一份前線停火協定。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "如果一切順利，今年結束前就有望達成最終的和平。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "現在，是時候提出一直縈繞在腦中的疑問。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "我聽見伊里內伊把佩德拉說成“和平主義者”，這個詞是在針對和平政策？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "……準確來說，是在針對以外交手段維護和平的方式。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "為什麼？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "伊里內伊和他的追隨者認為，在以武力手段消滅重塑之手前，維護和平的嘗試必然失敗。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "他們希望基金會立刻進入備戰狀態。"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

@@ -1,0 +1,766 @@
+{
+  "episode_id": 11211,
+  "chapter_id": 112,
+  "chapter_title": "遠征記",
+  "display_label": "",
+  "title": "赫克托爾宣言",
+  "subtitle": "古老的宣告，披著血與塵抵達了異邦的城下。",
+  "trails": [
+    {
+      "element_id": 1121101,
+      "owner_episode_id": 11211,
+      "trigger_episode_id": null,
+      "title": "安眠",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=1211",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "你一定是個有強大心靈的人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "一般人無法像你這樣在外人的家裡睡上一整天。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "稍後我會把你和飯後垃圾一起扔出去，為什麼不再睡一會兒呢？"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "我做了個夢",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "我請求你，不要講述你的美夢。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "那太過耀眼和溫暖，可能會灼傷我冰冷的心。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "不管你在夢裡經歷了什麼做了什麼，都請讓它過去吧。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "是的，感謝你的恩典。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "今天寡淡的晚餐全靠你夢中的呢喃來增添風味。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "我很久沒喝過那麼有滋味的湯了。"
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "我的那份呢？",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "過去的晚餐已經過去了，你沒法再讓它回來。"
+                }
+              ]
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "過去的事只能留在回憶裡，眼下混亂的樣子恐怕誰都不想要。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "而這都拜那些放不下過去的黑袍子所賜。當下的生活不如意就讓懦夫們陷入了無止境的懷舊當中。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "眼裡只有未來的白袍子們也都是廢物，恐怕是頭抬得太高了，才接連受挫。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "這樣的兩夥人居然能扭打在一起，在世紀末把全宇宙攪得天翻地覆。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "那個盲眼女人當時真不如放著世界毀滅，起碼不會比這亂成一團的時間更糟，誰求她自我犧牲了嗎？"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "如果你真的有機會抓住她，請記得帶她回家，讓她安度晚年吧，這樣對大家都好。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "我錯過了晚餐？",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1121102,
+      "owner_episode_id": 11211,
+      "trigger_episode_id": null,
+      "title": "沉眠於骨音",
+      "description": "這個人已經僵硬，但他筆記本上的破損和污漬卻是新的。翻開它時，脊背會發涼。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=1211",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "被遺落的俘虜日記"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "[一本被黑色黏稠污漬糊住了封皮的破舊日記本，日記本的角破損、捲折，它似乎離開主人不久。]\n十一月十一日\n    被俘以後的每個晚上，我都會聽到外面傳來一些恐怖的細碎低喃聲……還有慘叫聲——不止一個人、兩個人，是很多人在淒厲嘶吼、哀嚎。我還能聞到東西燒焦以及腐壞的味道。該死的，難道這幫重塑之手的走狗們放火燒了屍體？還是在做什麼詭異的儀式？\n    ……\n十一月某日\n    我已經不清楚日期了，在這個破敗的地方，時間、生命都不再重要。我曾經是救死扶傷的醫生，然而他們就在我的面前，用我的醫療器械殘暴地奪走了包亞雷什金、阿爾喬姆和麥列霍夫的生命。我已經無所謂了，如果他們終於來帶走我，那就趕快來吧。\n    ……\n十一月某日\n    我不知該如何下筆。我竟從那樣一場噩夢中倖存——這本身就像一種詛咒。我們被驅趕到一片空地上，墨袍女巫吟唱著歌謠，我依稀能聽到：“……秘之教誨者，令我復現腐敗。”而當她揭開那具屍體上的覆布時，隨著黑霧的消逝，呈現在我們面前的是一副殘軀。\n    她竟將我舊日的手術刀遞還給我：“解剖它。”我低下頭看著那具暴露在空氣中的遺骸，男性，二十歲上下，皮膚斑駁起皺，肋骨塌陷骨折。我不知道自己在做什麼，恐懼使我忘記了之前的信念。在她身旁，我舉起刀一點點劃落。骨擦音很單調，但我為這副魂魄脫去了禁錮。\n    當我放下刀，才發現四周瀰漫著死亡的黑霧。所有俘虜都已氣絕，面目扭曲。那女巫卻舉起我沾滿污穢的手，放聲大笑：“多謝，卡戎！你令我解開死亡，馭使死亡！助益祂的大能！”\n    ……\n十一月某日\n    包亞雷什金，阿爾喬姆，麥列霍夫，他們來找我了！我不是故意的！對不起，對不起，對不起……\n[後面的字跡被掩蓋在黑色黏稠污漬下。]"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "101216",
+      "internal_title": "第十二章12-11.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "赫克托爾宣言"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "實驗人員",
+          "text": "兀爾德女士，你感覺如何？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "兀爾德？",
+          "text": "和之前的每一次一樣，這張椅子我已經坐上去過很多次了。另外，你們一定要用我的筆名來稱呼我嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "實驗人員",
+          "text": "那才是屬於你的名字。你想要找回你自己，那首先就要接受它。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "兀爾德？",
+          "text": "我只是一名調查記者，偶爾給一些嬉皮寫一寫傳記。“兀爾德”只是我用來給特定雜誌投稿的筆名。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "兀爾德？",
+          "text": "我不知道這些實驗的意義，你們口中那些“為了世界和平”的話，倒很像我的一些在街頭生活的客戶……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "實驗人員",
+          "text": "她已經準備好了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "實驗人員",
+          "text": "那麼，第13次灌體實驗，開始——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "兀爾德",
+          "text": "——維爾汀？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "……媽媽？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "兀爾德",
+          "text": "真的是你，孩子……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "兀爾德",
+          "text": "好久沒有見面了，你的樣子比我預想中的要瘦弱許多。但你長大了，這真的太好了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "為什麼你會在這裡？這不是現實，我能感覺得到……你在哪裡？我之後要去哪裡才能找到你？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "兀爾德",
+          "text": "不要流淚，孩子……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "兀爾德",
+          "text": "此刻只是過往的一瞬，我只能告訴你一些有關過去的事——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "灌體實驗成功了？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "實驗人員",
+          "text": "接近成功。太令人驚嘆了，之前所有的受試個體，全都無法承受實驗的副作用，只有兀爾德——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "說結論。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "實驗人員",
+          "text": "——是。在第13次實驗時，兀爾德的人格也許曾在一瞬間回歸。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "實驗人員",
+          "text": "證據是琥珀屋突然消失了。換一個說法，琥珀屋突然變得無法觀測，視覺和其他回饋信號全部中斷。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "實驗人員",
+          "text": "這種情況持續了數秒。我猜，是兀爾德借用這一瞬間的回歸，讓琥珀屋前往了未來。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "未來？——她要去未來做什麼？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "那就只有在未來才知道了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "司辰……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "司辰？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "呃嗯……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "——司辰！您醒了嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "不知是自己，還是身下的土地都在搖晃。耳旁混亂的轟鳴讓人感覺如同被拋向了一場颶風。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "十四行詩，司辰還好嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "司辰……她醒過來了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "……十四行詩，瑪爾紗？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "大腦還停留在另一個時空，眼睛已經開始確定身體的位置。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "到底發生什麼事了？別列格勒……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "別列格勒在一小時前遭到格魯托夫軍隊的突然襲擊，一些匪軍的士兵在空中轟炸的掩護下進入了城市。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "騎兵軍和民兵正在防守城市，伊戈爾也去聯絡自己的軍隊增援了。我們需要儘快轉移到安全地帶。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "我應該……只在下面待了十五分鐘才對。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "不，司辰，您已經……在下面消失了十二個小時了。我剛剛才把您從地下帶出來。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "司辰，雖然現在這麼問有些勉強，但是——你可以行動了嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "我沒問題，馬上……就能站起來。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "好的，眼下的情況是，格魯托夫攻城的先鋒部隊佔領了部分外圍城區。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "這座小修道院還在友軍控制區內，但是堅持不了多久了。我們需要撤退到下一個街區。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "有一支小部隊在十分鐘前切斷了我們的退路，稍後我會嘗試突圍，打開一條連接修道院和民兵據點的路線。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "等待我的信號，司辰！"
+        }
+      ]
+    },
+    {
+      "script_id": "101217",
+      "internal_title": "第十二章12-11.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "塹壕棒不失為狹小空間中肉搏的利器，騎士很快在有敵軍把守的巷道中打開了一條通路。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "司辰，十四行詩，快到我這裡來！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "司辰，請抓緊我。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "嗯……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一半的重量壓在第一助手身上，她仍然以驚人的速度穿越了開闊而危險的主要街道。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "巷子的另一頭就是騎兵軍和別列格勒民兵佔領的街區了，他們會帶你們出城去安全的地方。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "你不和我們一起離開嗎，瑪爾紗女士？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "我會把你們帶到軍長身邊，但是在敵軍從城市裡被趕出去之前，我會留在別列格勒，為這裡的人出一份力。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "轟炸機的殘骸插在修道院的圓頂上，是剛剛被伊戈爾部隊的防空高炮擊落的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "在此之前，它和它的夥伴已經將數枚炮彈送到了民兵營地、醫院、修道院和民居，聲勢浩大地打破了堪堪維持住的平靜。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾爾",
+          "text": "自己人，是自己人，她們回來了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "梅蕾爾放下望遠鏡，呼喚著讓守衛街壘的民兵讓出一條路，把一支剛從交火線下來的隊伍放進防線後方。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "留守城內的指揮官聞聲而至。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "軍長伊萬",
+          "text": "你受傷了嗎，司辰，看起來你的狀態很不好？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "沒關係，我沒有受傷，只是有點頭暈。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "司辰在地下待了十二個小時，沒有吃任何東西，她的血糖值可能會因此出問題。我先帶她去吃點東西。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "軍長伊萬",
+          "text": "十四行詩小姐，司辰就交給你照顧了。我希望你能把她帶到城外的騎兵軍塞契。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "軍長伊萬",
+          "text": "別列格勒的巷戰還會持續很久，還有隨時可能到來的空襲，這裡並不安全。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "好的，我很快會帶司辰離開。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "軍長伊萬",
+          "text": "那就這樣辦。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "軍長點了點頭，轉向等候在旁的騎士——不知什麼時候，被騎兵軍救下的落水少女已經站在她身旁。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "軍長伊萬",
+          "text": "你之前說會留在別列格勒。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "是，我可以加入民兵團的救援隊，很多留在城市裡的醫生沒有自保的能力。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "軍長伊萬",
+          "text": "很好，騎兵軍與獅鷲軍的部分軍醫也會留在城內，希望你們能互相幫助。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "沒問題。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾爾",
+          "text": "我、我也跟你一起，瑪爾紗。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "那你就認真聽我說的話。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾爾",
+          "text": "好……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "此刻，軍長已經回頭去找同樣留在城裡的伊戈爾。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "後者依然舉著望遠鏡，正看向城門口。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "將軍注視城門的時間很長。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "軍長伊萬",
+          "text": "你在看什麼？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "城門之外只有一大片一大片金色的原野。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾",
+          "text": "我瞭解格魯托夫，他要想宣戰，不會只送我們幾枚炮彈和一架轟炸機。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "軍長伊萬",
+          "text": "什麼意思？你是說……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾",
+          "text": "來了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "金黃的茅草伏低了下去，被疾馳的馬蹄踩出的路直直地向城門而來。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "黑馬上的騎士蒙著白布，握著一把染血的鏢槍，正如光臨迦太基城下的羅馬祭司。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾",
+          "text": "派來宣戰的信使，真是古典的橋段。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "軍長伊萬",
+          "text": "可惜派來了一個不會騎馬的騎兵。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "信使沒有抓住韁繩，在風中搖搖欲墜，如一面不祥的旗幟。黑馬兀自向城門奔馳而來。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "這個人……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "當信使與他的黑馬來到城門口，騎兵們已經一字排開，用槍口迎接他。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "但信使既沒來得及朗讀宣戰書，也沒有擲下染血的鏢槍。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "不多時，信使墜向地面，黑馬在一旁徒勞而哀苦地嘶吼著。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾爾",
+          "text": "……卡戎，安德烈森？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "真的是——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "紅髮騎士與她的同伴終於看清了來人的樣子。\n她們一起衝向城門口，破開騎兵的包圍。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾爾",
+          "text": "——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "看見卡戎的第一眼，梅蕾爾陡然跌坐在地，雙手緊緊抱住自己的腦袋。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾爾",
+          "text": "不……不要——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "騎兵們勉強圍成一圈，而戰馬驚恐地往後退。它們也嗅到了“死亡”的氣息。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "不對——不要靠近，快散開，不要去看他！梅蕾爾，到我這裡來！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她撲向梅蕾爾，將她拖到一處掩體之後，隔絕她與卡戎之間的視線。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "其他騎兵也在一陣陣令人作嘔的哀嚎聲中四散潰逃。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "此時此刻，城門邊的守軍不得不撤離，別列格勒門戶洞開，唯有“死亡”的氣息充實其間。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "……必須要有人把卡戎帶到封閉的場所。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "好吧，也許我可以試試。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "騎士深吸一口氣，像過去千百次那樣將情緒凍結。她儘量不去想，今天積累的恐懼要在什麼時候釋放出來。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她安撫地拍了拍身旁的梅蕾爾，隨後走出掩體，一步步邁向“死亡”籠罩的深淵，直視著卡戎倒地不起的身軀。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "杏仁核中的恐懼感被如期阻斷。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "奏效了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "卡戎……天呐，他們對你做了什麼？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "在她眼前的是一副無法描摹的碎裂軀殼，好像再也經不起任何更進一步的觸碰。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "卡戎顯然是被綁在馬上送到別列格勒來的——感謝這些染血的繩索，他才堪堪維持住了類似於人的形狀。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "失去了遮掩物，又脫離了完整軀體的壓制，“死亡”正絲絲縷縷從收屍人的衣袍下溢出。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "亡者身下的土地正肉眼可見地被濃霧浸染，黑色的軍閥將“死亡”的宣告送至別列格勒。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡戎",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "你剛剛是在說話嗎，卡戎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "瑪爾紗俯下身，離卡戎更近了一點，以便聽到他朽壞的身軀尚且能發出的聲音。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡戎",
+          "text": "……一個不幸的消息，我不得不……帶給城裡的人們……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡戎",
+          "text": "格魯托夫的軍隊馬上就要攻破別列格勒，他……會將城市夷為平地……除非……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡戎",
+          "text": "……交出伊戈爾。"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

@@ -1,6 +1,6 @@
 # Non-violent Cooperation
 
-- Chapter: The Rimet Cup (`11101`)
+- Chapter: The Theft of the Rimet Cup (`11101`)
 - Episode: `1110108`
 
 > Subtitle: Don't spend too much time on physical fights. We have our own things to do, don't we?

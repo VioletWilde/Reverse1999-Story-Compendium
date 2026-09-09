@@ -1,6 +1,6 @@
 # The Night Before
 
-- Chapter: chapter_1904 (`1904`)
+- Chapter: After the Good Dream (`1904`)
 - Episode: `190401`
 
 > Subtitle: The island invites no one, with the exception of children.

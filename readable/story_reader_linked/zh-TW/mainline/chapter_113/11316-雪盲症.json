@@ -1,0 +1,575 @@
+{
+  "episode_id": 11316,
+  "chapter_id": 113,
+  "chapter_title": "他者的悲哀",
+  "display_label": "",
+  "title": "雪盲症",
+  "subtitle": "別擔心，引路人並未離去。",
+  "trails": [
+    {
+      "element_id": 1131601,
+      "owner_episode_id": 11316,
+      "trigger_episode_id": null,
+      "title": "行業競爭",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=11316",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "我必須得承認，這件事在我的預料之外。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "居然會有其他什麼東西來和我爭搶這個說謎語的環節。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "這件事無趣又無聊，他一定是拿到了什麼好處才會這麼做。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "你有報酬？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "我什麼都得不到。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "相反的，和你說話會消耗我的口水，我還得多煮幾壺茶。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "沒有人會有這種興趣。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "除非是整天在酒館打發時間的老頭。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "我會在這裡和你聊天的唯一理由，就是我沒有選擇。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "我還能怎麼辦呢？我又不是什麼高高在上的神或總統。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "我只是個隨處可見的老婦人，家裡闖進了你這樣聽不懂挖苦的年輕人，怎麼都趕不走。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "啊……算了，人活著就總會搶其他人的地盤。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "哪怕一粒灰塵也會埋怨房間裡的石膏塊。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "我儘量保持大度，如果那個東西還想來說幾句謎語，我會把座位讓給他的。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "這不是個人興趣？",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "101328",
+      "internal_title": "第十三章13-16.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "雪盲症"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "……你才是“奇跡”的創造者。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "是，如同你是“奇跡”真正的持有者。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "真正的持有者？那為什麼這份“奇跡”最初被交給伊戈爾？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "你理應瞭解時間與命運的秘密。它還是在合適的時間來到了你的手中。而你在合適的時間來到了我面前。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "我不喜歡謎語",
+          "edge_label": "我不喜欢谜语",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "維爾汀",
+              "text": "或許我以後會解開你拋給我的謎語，但現在，我想要一個更直接的答案。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "當沉眠的意志被喚醒時，自然可以親見答案。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "你與謎底之間只隔著一層稀薄的迷霧。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "我不知道時間和命運的秘密",
+          "edge_label": "我不知道时间和命运的秘密",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "維爾汀",
+              "text": "我並不知道時間和命運是怎麼一回事。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "眾生如流沙般沉入時間之河。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "獨紡織金色絲線者浮於輕舟。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "你對我瞭解多少？",
+          "edge_label": "你对我了解多少？",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "維爾汀",
+              "text": "你好像很瞭解我，我們之前見過面嗎？"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "文明神殿的灰燼之下埋藏著亙古的記憶。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "可你我皆不是為追敘往日而來。"
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "伊戈爾曾得到庇護的許諾，但是他沒有得償所願。我也會和他一樣被欺騙嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "承諾並未失效。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "只是凡人無以憑雙手捧起一座沙丘。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "那我該如何捧起你所說的沙丘？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "無需求問於我，“奇跡”已然在你手中。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "而我所為之事亦非贈予。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "——Vekiĝu en la regno de mortemuloj."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "Vekiĝu en la regno de mortemuloj."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "……？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "流動的塵埃被某種東西吹散了，圖書館的構造如舞台佈景一般重組。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "只不過，色彩並沒有按照預期的方式從一片黑暗中回歸。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "司辰？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "十四行詩？——你在哪裡？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "司辰，難道你看不見我嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "聽覺迷失了方向，十四行詩的話語從四面八方傳來。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "我……我什麼也看不見，我只能看見一片黑暗。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "十四行詩，你在——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一雙格外稚嫩的手拖住了飄浮的意識。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "我就在你身邊。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "我們在圖書館。這裡一個人也沒有，不管是學生、教員，還是重塑之手……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "進入“奇跡”之門後你就消失了……直到剛才，我才發現你突然出現在了身後。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "你的眼睛……出什麼事了？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "就像被閃光彈猛地灼傷了一下。別擔心，我想我會好起來的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "你的聲音聽起來怎麼有些不一樣？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "我們……都變成了小時候的樣子，回到了在學校讀書時的年紀。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "我們變小了……這裡不是現實，就和在琥珀屋裡一樣。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "時間被什麼東西打亂了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "你之前去了哪裡，司辰？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "我不知道那裡確切來說是什麼地方。那裡到處都是塵土，還有一個聲音在和我說話……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "那聲音說，我已經掌握了從“奇跡”中取得庇護的方法。隨後它還念誦了一段咒語。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "這麼說，你成功了？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "第一助手眨了眨眼，臉上交織著欣喜與難得的茫然。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她很難相信事情進展得如此順利——特別是在自己只是原地打轉了不知道多久的情況下。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "我複誦了咒語，但我不確定它是否已經生效。我猜我們要先想辦法離開這個時間被打亂的地方。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "時間……說起時間，在你還沒有出現的時候，我在四周查看了一下。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "年幼的身軀成了此刻最不值一提的麻煩，十四行詩苦惱地思索著。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "時鐘、日曆、年鑑……我想搞清楚到底發生了什麼，卻發現所有和“時間”有關的記號都被抹去了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "而且我想試著去其他樓棟探索一下，可總是會莫名折返，回到圖書館……這裡彷彿變成了科馬拉的監獄迷宮。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "……等等，十四行詩。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "怎麼了，司辰？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "我……好像看見了一條金色的絲線，我能感受到她的……狀況。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "她？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "伸出手，輕輕觸碰金色絲線。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "空靈悅耳的聲音在彷彿真空的環境中震顫。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "……是梅蕾爾。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "我……我沒有看見任何東西。為什麼你能看見，為什麼又能確定是梅蕾爾？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "我不知道，現在還不知道。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "在十四行詩視線的不可及處，金色紡線向著盡頭的暗處蜿蜒前行，最後在虛無的黑暗中纏成一個混亂的結。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "我看見線堆成了一團……梅蕾爾可能遇到了麻煩，但那個結離我們太遠了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "十四行詩，我現在面朝的方向是哪裡？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "第一助手循著目光望去，高塔的陰影出現在窗框中。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "是中央瞭望塔。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "可是我之前已經試過了，圖書館在拒絕我的離開。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "梅蕾爾的絲線也許能幫我們找到方向。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "十四行詩，拉著我的手。我來指示方向，你幫我規避路上的障礙。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "我明白了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "我們出發吧。"
+        }
+      ]
+    },
+    {
+      "script_id": "101329",
+      "internal_title": "第十三章13-16.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "跨過大理石門檻後，迷宮般的空間倏然塌陷。回首望去，圖書館已然在身後百步之外。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "司辰，我們離開圖書館了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "太好了，金線果然在指引正確的方向。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "金線在通向二樓的階梯上來回盤旋，最終將自己纏繞成了一個結。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一種本能似的直覺指引著身體向線靠近。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "story_option_guideslide|0#0#1#9999",
+          "edge_label": "",
+          "branch": []
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "撥動線的瞬間，結瞬間以拓撲學難以解釋的方式鬆開。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "金色的絲線如命運般從手背流過。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "……解開了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "“喀——”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "身後的防爆門發出一聲悅耳的脆響。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾爾",
+          "text": "門開了？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾爾",
+          "text": "艾米莉亞，我們一起推門！"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

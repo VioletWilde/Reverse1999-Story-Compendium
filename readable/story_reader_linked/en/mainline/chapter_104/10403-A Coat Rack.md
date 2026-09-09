@@ -1,6 +1,6 @@
 # A Coat Rack
 
-- Chapter: El oro de los tigres (`104`)
+- Chapter: El Oro de los Tigres (`104`)
 - Episode: `10403`
 
 > Subtitle: Hopping and bouncing, it marches forward with the pride of an alchemist and the manner of a lady.

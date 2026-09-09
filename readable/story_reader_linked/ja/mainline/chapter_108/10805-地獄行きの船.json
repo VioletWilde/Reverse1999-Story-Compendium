@@ -1,0 +1,678 @@
+{
+  "episode_id": 10805,
+  "chapter_id": 108,
+  "chapter_title": "悲しき熱帯",
+  "display_label": "",
+  "title": "地獄行きの船",
+  "subtitle": "川はふるさとであり、生活そのものだ。恵みをもたらす一方で、ときに命をも奪う。",
+  "trails": [
+    {
+      "element_id": 1080501,
+      "owner_episode_id": 10805,
+      "trigger_episode_id": null,
+      "title": "アカハラピラニアの群れ",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=805",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "うまくいかなかったな。銃を持つのが素人となれば、こうなるのも致し方あるまい。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "不幸中の幸いとでもいうべきか。呼吸を整え、仰向けの状態で水面に浮かび、素早く気道を確保することができたな。前回溺れた時と比べれば、うまく対処できた方だ。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "あなたは誰？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "それは重要なことではない。私たちは戦場に佇んでいる――弾丸が飛び交い、傷口が悪化し、チフスやコレラは広がるばかり。この地獄のような状況で、名誉を語るのは愚か者だけだ。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "戦場は人員の入れ替わりが激しい。知った顔と再会できるなどと、期待しないほうがいい。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "本題に入ろう。君に知ってもらわねばならないことがある。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "なに？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "川での爆破事件は仕組まれたことだった。その黒幕のうちの一つは、君もよく知っている存在だ。残り一つは今朝方聞いた組織だ。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "彼らは信者に南下すると約束し、その通り実行した。第三者から提供された物資を頼りに、行く先々で「救世主」と名乗りながら、敵と見なした者たちを排除していった。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "今やその勢力は膨れ上がり、普通のギャングや宗教団体など足元にも及ばないほど、大規模な集団へと発展している。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "彼らはまるで海を徘徊するアカハラピラニアの群れのようだ。常に獲物を探しながら、目に入る船を片っ端から引き裂こうとしている。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "みんなは？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "彼女たちも君と同じようにうまくやっているだろう。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "あの小柄な処刑人と「偽善者」の乗客がサイコロ遊びの際に何を話したのか、聞き取れていなかったのだな。あとで直接彼女に聞くといい。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "質問に答えて",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "私は君の手下でも伝令兵でもない。口の聞き方に気をつけてくれ。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "他に言うことはない…今のところはな。"
+            }
+          ]
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1080502,
+      "owner_episode_id": 10805,
+      "trigger_episode_id": null,
+      "title": "収監記録",
+      "description": "不運な交友関係のせいで投獄された人がいる。彼女にはほかに選択肢がなかったが。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=805",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "特殊捕虜の収監記録"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "対象名：ミス・キンバリー\n収監経緯：アポストルス・ブラザーズの拠点突入中、シチメンチョウのもも肉を食べている対象を発見。ロペラ少尉の率いる部隊によって捕獲。尋問の結果、対象はマヌス・ヴェンデッタに同行する一般随行者であることが判明。また、マヌス・ヴェンデッタに対して、通常の信者よりも理解が浅く、現地の反乱に関与しておらず、カルロスの暗殺事件にも関連性がない。そのため、他の脱走兵と異なり死刑に処せず、収監してイゴール元帥の判断に任せる。\n\nそのまま放置しておけ。"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100806",
+      "internal_title": "第八章8-05.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "地獄行きの船"
+        },
+        {
+          "kind": "title_card",
+          "text": "「アリゲーター」号"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "風が少女の指の間を掠める。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "外国人観光客が船縁に集い、小船を漕いでクルーズに近づく現地住民を眺めていた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "乗客",
+          "text": "彼らはサンパウロの貧しい人々を救おうとしているわけではない。動物園のサルにバナナを投げてよこすのと同じ、「施し」を与えているだけだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "船の上の子どもは両手を振り、乗客の視線を集めようと大声で叫ぶ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "船員と牧師は包んだ「施物」を、「観光プロジェクト」の参加者である乗客たちに売りさばく。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ロペラ",
+          "text": "でも、「バナナ」のおかげで彼らは生きてる。腹さえ満たせればいい、出所は関係ないよ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "乗客は軽く頷くが、この意見に完全に賛成しているわけではないようだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "乗客",
+          "text": "だが、人は食糧だけでは生きられない。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ロペラ",
+          "text": "それを言うなら、食糧がなくても生きられない。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "乗客",
+          "text": "サンパウロへは商売に行かれるのかな？　私はファヴェーラで商売をしていてね。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ロペラ",
+          "text": "商売？　…いや、わたしは家に帰るんだ。サンパウロの廃兵院にね。住むところに困った時は、いつでも来るといい。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "乗客",
+          "text": "ご親切にどうも。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "ロペラはあごに手を当て、何気なくサイコロを宙に投げては掴み、それを繰り返す…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "乗客の視線はその上下するサイコロを目で追った。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "乗客",
+          "text": "賭けをしないか？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ロペラ",
+          "text": "賭け？　…何を賭けるんだ？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "彼女は乗客の横に置かれた黒いスーツケースに目を向けた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "乗客",
+          "text": "「慈善心」はどうだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "乗客",
+          "text": "負けた方はこの船の「施物」を全て買い取る。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "乗客",
+          "text": "そして、勝った方の名義で子どもたちに配るんだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "天国の扉を叩くために用意された、慈悲深い賭けだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ロペラ",
+          "text": "あんた面白いな。いいだろう。のった――"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "初対面の乗客は両手を広げた。ロペラはサイコロを宙に放り投げる。それは雨の雫のように机に落ちると、木のコップを被せられその中で揺れた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ロペラ",
+          "text": "一二三が小、四五六が大だ。先に選ぶ？　それとも…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "乗客",
+          "text": "お先にどうぞ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ロペラ",
+          "text": "じゃあ、わたしは小で。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "乗客",
+          "text": "では私は…六にしよう。それ以外が出た場合は君の勝ちでいい。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "コップが再び揺らされる。「不名誉な」サイコロはその中で回転しながら、主に勝利をもたらそうとしていた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "乗客",
+          "text": "どうぞ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "乗客",
+          "text": "負けてしまったか。あの不幸な子どもたちに何かしなさいと、神が言っているのかもしれないな。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "乗客",
+          "text": "君の名前を教えてくれないか？　子どもたちに「施物」を渡す時、天国にまで君の名が届くようにしたいからね。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ロペラ",
+          "text": "カルロッタ・ロペス・リベラだ。「ロペラ」と言えば、みんなに伝わるはずだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "ロペラ、サンパウロのロペラ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "負けた乗客はサイコロを手に取った。その瞬間、何かを悟ったかのような笑みが浮かぶ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "彼は勝者の手を握り、その浅ましいサイコロを主に返した。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "乗客",
+          "text": "実に興味深いサイコロだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ロペラ",
+          "text": "勝ったのは運のおかげ――"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ロペラ",
+          "text": "なんだ――"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "川賊",
+          "text": "大人しく言うとおりにしろ！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "サザビー",
+          "text": "まあ！　もしかしてあれが――「川のカウボーイ」ですの？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "ううん。強盗だよ…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "サザビー、下がって！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "きみたち、何が目的なの？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "川賊",
+          "text": "目的地をファヴェーラに変更するよう、船長に伝えろ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "川賊",
+          "text": "でなけりゃ、全員まとめてあの世行きだ！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "そう言いながら、ライターを爆薬の導火線近くで揺らす。その慌てっぷりは、まるで何かに怯えているかのようだった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ロペラ",
+          "text": "――全員どいてくれ！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "船長よりも先に駆けつけたのは、銃を構えたロペラだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "だが、混乱する人々に目の前を遮られ、引き金を引けないでいた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "ロペラ、撃たないで！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "引火したら大変だ！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "ロペラはようやく人混みの後ろにある油樽に気がついた。一歩間違えれば、明日の新聞の一面を飾ることになっただろう。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ロペラ",
+          "text": "チッ――姑息な真似しやがって。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "彼女は銃をしまい、素手で不届き者たちに飛びかかった。"
+        }
+      ]
+    },
+    {
+      "script_id": "100807",
+      "internal_title": "第八章8-05.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "ロペラは暴徒たちにもみくちゃにされながらも、拳で相手の鼻を殴る。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "彼の体に巻きつけられていた爆薬を外すことには成功したが、同時に銃を奪われてしまった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "ロペラ！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "争いが止まり、暴徒は手を震わせながら銃口をロペラに向ける――彼女の後ろには、たくさんの油樽が並んでいた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "川賊",
+          "text": "船をファヴェーラに向かわせろ！　でないと全員道連れだ！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ロペラ",
+          "text": "ファヴェーラ…まさか、ブラザーズが戻ってきたのか？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "川賊",
+          "text": "……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ロペラ",
+          "text": "彼らに脅されたんだろう？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ロペラ",
+          "text": "「クルーズを乗っ取って、ファヴェーラまで操縦させろ」って。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ロペラ",
+          "text": "あいつらの脅し文句なんて、深く考えなくてもわかる。残念だけど、この「アリゲーター」号の目的地を変更するつもりはないよ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "川賊は大きく目を見開いたまま両足を震わせ、その場に立ちすくむ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "ロペラに全てを言い当てられたことで、彼は我を失った。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "骸骨のような細い指が引き金に触れる。彼は緊張の中、無意識に力んでしまった――"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ロペラ",
+          "text": "こんのバカ！！！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ロペラ",
+          "text": "伏せろ！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "弾丸は彼女の横を通り過ぎ、不安定な金属の樽に撃ち込まれた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ロペラ",
+          "text": "破裂弾か？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "爆破とともに火花が散り、轟音と熱風が押し寄せた。近くの可燃物に次々と引火し、炎は瞬く間に燃え広がる。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "爆破の衝撃で船が激しく揺れた。船体は引き裂かれ、川の水がいっせいにキャビン内へ押し寄せる。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "旅行客",
+          "text": "きゃあ！！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "シェフ",
+          "text": "救命ボートだ！　救命ボートを探せ！！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "旅行客",
+          "text": "助けて…神様――！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "人々は慌てて甲板の先端に走った。船体は真っ二つになり、川の中へと沈んでゆく。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "爆発による衝撃で頭が真っ白になる。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "逃げ惑う人混みの中に、キンバリーの姿はない。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ロペラ",
+          "text": "全員手すりに掴まれ！！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "ロペラは大量の水を飲み、川の中で浮き沈みを繰り返す。ようやく浮き板を掴んだ彼女は、大きな声で呼びかけた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "乗員は重力によって渦潮へと引き寄せられる。甲板のほとんどが既に沈んでいた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "サザビーは甲板の手すりを強く握り耐えているが、船が完全に沈むのは時間の問題だ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "サザビー！　ロペラのところに向かって跳んで！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "落水した人、宙にぶら下がっている人、悲鳴を上げる人。死に直面した時ほど、目の前の全てが遠く感じられるものだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "まるで収穫期を過ぎたオレンジのように、乗客たちは炎で熱くなった手すりを放し、次々に川に落ちる。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "サザビー",
+          "text": "ヴェルティ様――！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "炎は金属の手すりを撫でるように這い、船上の粗悪な建材を燃やしていく。爆発音のせいで耳鳴りが止まない。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "サザビーは目を閉じ、泳いでくるロペラの方へと跳んだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "幸いにも、仲間がいち早く彼女の手を掴み、自身の浮き板へと引き寄せる。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "サザビー",
+          "text": "はやくヴェルティ様を助けてくださいまし！！　あの方はまだ…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "サザビーの言う「あの方」は…まだ船にいた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "船は大きな爆発音と共に、完全に砕け散る。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "残骸は全て川の底へと沈んでいった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "金色の陽光が水面で揺らぎ、徐々に遠ざかった…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "誰かの手が水面を突き破る。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "こんなところで死なれたら困るわ…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "まったく、あなたに会うとろくなことがないわね…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "――これで、チョコバーの借りはチャラよ。"
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

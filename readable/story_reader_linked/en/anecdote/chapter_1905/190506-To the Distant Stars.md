@@ -1,6 +1,6 @@
 # To the Distant Stars
 
-- Chapter: Pulp Comedy Dirges (`1905`)
+- Chapter: Pulp Comedy (`1905`)
 - Episode: `190506`
 
 > Subtitle: A mixture of egg and milk, a special non-alcoholic drink for children. The only choice at the moment.

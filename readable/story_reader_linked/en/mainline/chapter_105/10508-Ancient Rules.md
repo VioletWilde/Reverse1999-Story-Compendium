@@ -1,6 +1,6 @@
 # Ancient Rules
 
-- Chapter: The Prisoner in The Cave (`105`)
+- Chapter: The Prisoner in the Cave (`105`)
 - Episode: `10508`
 
 > Subtitle: Boundaries of propriety always tempt daring fingers.

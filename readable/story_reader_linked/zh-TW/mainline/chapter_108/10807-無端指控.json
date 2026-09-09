@@ -1,0 +1,828 @@
+{
+  "episode_id": 10807,
+  "chapter_id": 108,
+  "chapter_title": "憂鬱的熱帶",
+  "display_label": "",
+  "title": "無端指控",
+  "subtitle": "考慮到您此前的所作所為，我們認定並宣判……您是有罪的。",
+  "trails": [
+    {
+      "element_id": 1080701,
+      "owner_episode_id": 10807,
+      "trigger_episode_id": null,
+      "title": "自救與拯救",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=807",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "這個美麗的地方曾經享有著號稱永不枯竭的礦產、大地之肺的雨林與熱情勇敢的人民，而現在他們只剩下了第三者。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "混亂和割據奪走了年輕人的美夢，而既得利益者總以為自己仍舊坐在巨大的金山上，殊不知那下面全是爛頭骨、彩色瓦礫和攜帶病菌的老鼠。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "鍍金的遮羞布已然脫落，內裡的草絮正朝所有人訴說著貧瘠與困窘，現在人們面前有兩條路——自救，和加入所謂的“拯救”。我就此來諮詢你的意見。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "先自救，再救人",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "保全自己，很明智。狂歡的宿醉後，異常虛軟無力的身軀發出警告。每個人都不得不抬起被橡木塞堵滿的浮腫頭顱，拼了命地想一個自救的方法。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "於是人們開始盲目奔走。粗大的針管刺進了他們的心臟，他們以為那是一支強心劑，實際上是鹽酸和嗎啡。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "當某個倒楣蛋因生計而累垮時，名為迷茫與躁動的瘟疫開始傳播。時至今日，流氓與赤貧者四處可見，結果沒有人能救下這一帶，以及這整一代人。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "請不要用問題回答問題，這不符合交流守則。但這次我會回答你。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "我曾聽一個來自布宜諾斯艾利斯的孩子談起“上帝之手”。他說那是光榮的行徑，是偉力的顯現，是對於外來者的懲罰。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "……好吧，見鬼。來吧，看看那幫以光榮與偉力自居的傢伙都幹了些什麼好事。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "他們曾是具象的虔誠，天國的投影。漫無目的地行走耗盡了他們的心智，一旦新的神跡顯現，他們便如釋重負地低下頭，將靈魂交由了新的主。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "從雄壯的宗教支派淪為外來勢力的附庸，這段短暫而可悲的歷史為他們帶來的唯一價值就是虛無的認同感，就像試圖吞槍自盡的俘虜，發現敵人根本沒給他留哪怕一小粒彈片。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "冠以“天使”之名的並非真正的天使，他們無法向世人許諾任何東西，愚蠢至極。"
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "現在能救我了嗎？",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "不必擔心，事態還在可控範圍內，你並非無計可施。勇敢的綠裙小姑娘已經挺身而出，而半退休的老兵也有自己的謀劃。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "這地方和你待過的任何一座城市都不一樣。你得看清並抓住能利用的一切——比如可作為情報員的孩童喜歡聚在哪裡踢球，比如交易藥物的郵船常在幾月份靠岸，比如哪個藍色的儲水缸下面藏著幫派安全屋的鑰匙。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "還有，提醒你一下，我不是你的助手，不會替你做這些事，你得自己去解決。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "“拯救”不能救自己嗎？",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100809",
+      "internal_title": "第八章8-07.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "無端指控"
+        },
+        {
+          "kind": "title_card",
+          "text": "悲傷聖母教堂"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "穿著黑衣的先生扶起聖像。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "我從未想過讓聖保羅陷入混亂。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他護著掌心微弱的火花，將白蠟燭一盞盞重新點燃。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "秩序，和平，服從。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "馬坎多，他們在這裡做了什麼？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "馬坎多",
+          "text": "芝諾的人幹的。該死，絕不能就這麼算了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "馬坎多",
+          "text": "桑托斯閣下，恕我冒昧，我猜您一定也是為了這件事才來的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "馬坎多",
+          "text": "我們的人被打散了不少，最近還來了個榮軍院的醫生。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "馬坎多",
+          "text": "那女人是個瞎子，但她給很多人看病，替榮軍院和芝諾籠絡這裡的人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "桑托斯",
+          "text": "她是芝諾的人嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "馬坎多",
+          "text": "一定是的。她一直駐紮在榮軍院裡，和那群老混蛋親近得很。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他表情緊張，不斷擦拭著額頭的汗水。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "桑托斯",
+          "text": "一位在貧民區很有影響力的軍醫，醫術精湛，深受信賴。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "桑托斯",
+          "text": "我想，她對芝諾的價值遠大於幾個被捕的逃兵。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "馬坎多明白了頭領的意思——在聖保羅，綁架形同家常便飯。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "桑托斯",
+          "text": "這件事交給你去辦，但在那之前……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "桑托斯",
+          "text": "馬坎多，叫上我們最忠誠的朋友，去貧民區——我帶來了新的力量。"
+        },
+        {
+          "kind": "title_card",
+          "text": "河岸貧民區"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "鄧肯先生",
+          "text": "就這樣，看見了嗎，把線纏兩圈，然後紅色的跟黑色的對齊，慢慢接上……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他耐心地將銅線接在一起，電流“嗞——嗞——”發出聲響。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "蘇芙比",
+          "text": "這真是不可思議……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "鄧肯先生",
+          "text": "這就是科學，小子們。學會了嗎？科學的力量！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "修好的聯絡器物歸原主。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛佩拉",
+          "text": "幫大忙了，老傢伙，還是你最可靠呀！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她掰直天線，調試頻道，急忙聯絡基地彙報情況。"
+        },
+        {
+          "kind": "title_card",
+          "text": "伊戈爾辦公室"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德爾",
+          "text": "洛佩拉來的聯絡。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "接。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德爾",
+          "text": "洛佩拉，是我。發生什麼了？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛佩拉",
+          "text": "遊輪炸了，是意外。我和蘇芙比漂到了貧民區。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛佩拉",
+          "text": "司辰……很糟糕，我不知道她去哪了，但願沒什麼事。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德爾",
+          "text": "……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "將軍面無表情，抬起手指，示意副官女士追問情況。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德爾",
+          "text": "基地會立刻派人去搜救司辰，這件事交給我們。找到司辰後，她會被護送到榮軍院。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛佩拉",
+          "text": "這裡的貧民區的年輕人想加入芝諾，他們害怕被報復，需要將軍的承諾。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "副官女士看向老將軍。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "將軍點點頭。他答應了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德爾",
+          "text": "父親非常歡迎他們，芝諾很需要這樣熱情的年輕人。他們什麼時候來？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛佩拉",
+          "text": "他們會立即出發。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德爾",
+          "text": "洛佩——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德爾",
+          "text": "……唉，總是這麼急。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德爾",
+          "text": "父親，現在怎麼辦？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "司辰的事我會安排。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "副官女士不再追問，擔憂地看著年邁的父親。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "老將軍緊盯著手中的骰子——沉默在父女間無聲地蔓延著。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "加萊亞諾",
+          "text": "將軍閣下怎麼說？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛佩拉",
+          "text": "他答應了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "加萊亞諾",
+          "text": "好極了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一個值得慶祝的好消息，讓年輕人興奮地拍起手。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "但人群中卻不合時宜地傳來一陣響動。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛佩拉",
+          "text": "果然是他們……船上的猜測是對的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "鄧肯先生",
+          "text": "啊，天使兄弟會，我還以為他們完蛋了……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "鄧肯先生",
+          "text": "看看他們要幹嘛。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛佩拉",
+          "text": "那傢伙有點兒眼熟……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她看清了走在兄弟會隊伍中的那位先生——是那位曾在船上遭遇的陌生人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛佩拉",
+          "text": "……該死的，這不是那個在船上的傢伙嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一位穿黑衣的先生走向人群，沿途施捨向他乞討的窮人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "桑托斯",
+          "text": "兄弟會遭遇了小小的失敗，但沒關係。我們會重新強壯起來。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "桑托斯",
+          "text": "同胞們，飽受欺壓的神秘學家同胞們——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "桑托斯",
+          "text": "“受苦者”將從塵土中復甦。祂將再次行走在大地，為祂走過的每一寸土地祝福。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "桑托斯",
+          "text": "我們的日子就要到了，跟隨我來——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "桑托斯",
+          "text": "以“受苦者”的名義——我為祂施捨，要求你們的忠誠。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "黑色手提箱裡撒出紙鈔，像雪片般落到船上、水上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "但迷茫的人群愣在原地，一動不動。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "桑托斯",
+          "text": "朋友們，告訴我，你們需要什麼？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "沒有人回答他。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貧民區住民",
+          "text": "閣下，我們想見到自己的親人……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貧民區住民",
+          "text": "從前跟您離開的那些人，加入了天使兄弟會的人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "沒什麼比家人更重要。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "桑托斯",
+          "text": "我保證你們會和家人團聚，他們正在一片繁榮的土地上供奉己身。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "桑托斯",
+          "text": "在烏斯懷亞，在南極，在流淌著往日與未來的交匯之地。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "桑托斯",
+          "text": "不再有人類帶來的苦難——貧窮、仇殺與混亂，他們竊據高位，掠奪了屬於我們的生活。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "桑托斯",
+          "text": "我們終日的勞苦與怨憤，我們懷中嬰兒的哭喊與飢餓，哪一個不是人類種下的惡果？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "桑托斯",
+          "text": "理性與秩序，科學與組織——他們築起高牆，卻將我們排除在外，用我們的不幸飼餵他們不知饜足的暴欲。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "桑托斯",
+          "text": "神秘學家的每一滴汗水與眼淚，我們生而遭受的不公與欺壓，都將在祂的榮耀中一掃而空。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "聽眾中，眾人竊語著，不敢出聲。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "躲藏著的鄧肯先生悄悄湊近洛佩拉耳邊，低聲說了幾句話，又把自己的一枚兔子補丁交給她。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "桑托斯",
+          "text": "請告訴我，同胞們，什麼是惡？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "沒人回答。人群中的竊語收斂了，四下一片寂靜。鴉群飛過低空。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "桑托斯",
+          "text": "惡是非善。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "桑托斯",
+          "text": "而善……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "桑托斯",
+          "text": "就是跟從！跟從我們的道路！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "桑托斯",
+          "text": "祂已經給予了獎賞！力量與榮光！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "追隨者們順應呼喊，將一個散發著不祥氣息的箱子拽向他身邊。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "漆黑的盲目與罪惡在日光下顯現，將受苦者的賜福展示予眾人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "桑托斯",
+          "text": "同胞們，跟從我！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他再一次高呼，張開雙臂，退後一步，對受苦者的榮耀極盡謙卑。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "蘇芙比",
+          "text": "天哪！重塑之手！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "在噩夢般的1929年，災厄就因為散佈面具的人們而來——那時的景象歷歷在目，蘇芙比絕不會忘記。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "桑托斯",
+          "text": "我理解你們的悲傷和疑懼。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "桑托斯",
+          "text": "不要動搖，同胞們，切勿懷疑。捨身跳下的，必有翅膀接住你們。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "桑托斯",
+          "text": "畏縮躲逃的，必被天上的硫磺與地上的刀刃殺死。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "桑托斯",
+          "text": "你們有三天時間考慮。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他留下了“寬容而慷慨”的時限。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "蘇芙比",
+          "text": "不！他是個壞蛋！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "小淑女勇敢地站出來，氣憤地，向在場眾人發出警告。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "馬坎多",
+          "text": "你他媽是哪來的小鬼？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "桑托斯",
+          "text": "馬坎多。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "桑托斯攔住手下。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "桑托斯",
+          "text": "真理比刀劍更有力量。我們既然掌握真理，就不要用刀劍驚嚇朋友。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "鄧肯先生",
+          "text": "洛佩拉，記住，照我說的做。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "鄧肯先生握住小淑女的手，也跟著站起來。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "鄧肯先生",
+          "text": "閣下，請原諒，她把你們錯認成了鐵特河上的惡棍。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "桑托斯",
+          "text": "那麼，這就是個美麗的誤會了，是嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "鄧肯先生",
+          "text": "是的，這孩子來的時候被他們的人搶劫了，她很害怕。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "桑托斯",
+          "text": "我要怎麼相信你的話呢，老先生？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "沒有獻納的效忠不值得信任。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "鄧肯先生",
+          "text": "因為……我是為了投靠您而來！為了加入天使兄弟會而來！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他的話讓在場眾人都驚訝地噓出了聲——認識老鄧肯的人驚異，陌生他的人則感到困惑。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "鄧肯先生",
+          "text": "看在同胞的面子上，閣下，請原諒孩子小小的冒犯。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "桑托斯",
+          "text": "我不會對孩子生氣。但是你，老先生，證明你的忠誠。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "老人虔敬地屈膝下跪——如同他為小淑女扮演“卡森”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "鄧肯先生",
+          "text": "那邊有個叫加萊亞諾的小子，他在策劃把這裡的年輕人帶到芝諾去當兵！他親口跟我說的！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他轉身，指向人群中的加萊亞諾。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "加萊亞諾",
+          "text": "……鄧肯！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "桑托斯",
+          "text": "馬坎多，帶他過來。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "加萊亞諾",
+          "text": "該死的……我才不會讓你們……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "年輕人驚怒之下，試圖抽身逃離，但暴徒已經在號令下向他衝去——"
+        }
+      ]
+    },
+    {
+      "script_id": "100810",
+      "internal_title": "第八章8-07.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "戰鬥引發了騷亂，洛佩拉趁亂抓住蘇芙比。一艘木划艇將兩人帶離風暴中心。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛佩拉",
+          "text": "快走！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "另一方面，年輕人做著徒勞的反抗，直到一把匕首抵住喉嚨。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "桑托斯",
+          "text": "你很勇敢。但現在我決定割開你的喉嚨。告訴我，他說的是真的嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "加萊亞諾",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "年輕人倔強地扭過頭，拒絕答覆。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "桑托斯",
+          "text": "哪些人會跟你去投奔芝諾？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一滴血從年輕人的喉嚨處滴下。匕首冰冷的鋒刃舔弄著他的脖子。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "加萊亞諾",
+          "text": "所有人！每個有骨氣的人都想！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "加萊亞諾",
+          "text": "呃啊——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "“叛徒”鄧肯對著年輕人的臉，狠狠揍了一拳，將他仰頭擊倒。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "鄧肯先生",
+          "text": "“如果我真的揍了你，請記住，老鄧肯永遠忠於他的朋友，他一定有不得不這麼做的原因。”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他看向自己的老朋友——那是他熟悉的眼神，堅毅而勇敢。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "桑托斯",
+          "text": "這位年輕人有一天時間考慮，讓他交出名單——所有想加入芝諾的人的名單。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他收起匕首，將年輕人交給新的夥伴。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "桑托斯",
+          "text": "明天中午我要見到那些名字，或者……見到他的舌頭跟眼睛。老先生，你來動手。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "鄧肯先生",
+          "text": "如您所願，閣下。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "桑托斯",
+          "text": "馬坎多，你也留下來。別忘了你的任務。"
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

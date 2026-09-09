@@ -1,6 +1,6 @@
 # A New Window
 
-- Chapter: Pulp Comedy Dirges (`1905`)
+- Chapter: Pulp Comedy (`1905`)
 - Episode: `190503`
 
 > Subtitle: A window can symbolize optimism, desire, a new beginning, and endless possibilities.

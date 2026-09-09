@@ -1,4 +1,4 @@
-# See you, Rats
+# See You, Rats
 
 - Chapter: Floor it! To the Golden City (`20101`)
 - Episode: `2010110`

@@ -1,0 +1,733 @@
+{
+  "episode_id": 2110111,
+  "chapter_id": 21101,
+  "chapter_title": "77號往事",
+  "display_label": "",
+  "title": "“請勿打擾”",
+  "subtitle": "不宜在此刻進行清潔與打掃。",
+  "trails": [
+    {
+      "element_id": 2110105,
+      "owner_episode_id": 2110111,
+      "trigger_episode_id": null,
+      "title": "按需購買",
+      "description": "她是位負責任的、細心的旅店主人，她總會在第一時間及時補充所需物資，以及客人不需要的那些……",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=2110111",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "旅館採購清單"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "1989年8月\n買入：\n藍雀咖啡豆 5磅（附咖啡濾紙）\n河谷牌床單 15套 ——消耗太快，想想辦法\n二手電視 1台 ——低價處理，“鬧鬼，偶有人影”，啊哈\n賣出：\n牛仔牌維修工具 1套\n\n1989年10月\n買入：\n感恩節裝飾品 1套\n山核桃園牌空氣清新劑 1打——血跡把戲太直白了，說真的。和“它”談談\n“南方之光”燈泡 1打 ——品質差，價格實惠，有用\n鮮奶油 3品脫——老斯圖爾特農場出品，不錯\n下次買些糖果？\n\n1989年11月\n買入：\n德克薩斯小徑牌糖果 5盒 ——味道不錯\n金盞花沐浴露 1打 ——香味太濃\n\n1990年1月\n買入：\n七星牌茶包 3盒\n農場新鮮牌黃油 15磅\n河谷牌床單 12套 ——希望這批可以待久一點\n賣出：\n二手電視 1台——一個小可愛，非常遺憾，但該說再見了"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "202117",
+      "internal_title": "【2.1】77号往事-11.1",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "雇傭兵按下了免提鍵。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "電話彼端傳來熟悉的敲擊聲。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "電話",
+          "text": "噠，噠，噠，噠。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "電話",
+          "text": "噠。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "電話",
+          "text": "噠，噠——噠——噠。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "求救【help】。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "電話",
+          "text": "噠——噠，噠。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "電話",
+          "text": "噠，噠——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "Baa……羊的叫聲？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿爾古斯",
+          "text": "老闆，你聽出來了嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿爾古斯",
+          "text": "這的確不是人打出來的電話——而是某種動物，或是昆蟲。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "……動物或昆蟲？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿爾古斯",
+          "text": "根據電話座機上爬行的聲音，以及灰塵中的足跡——我想它的體型不會太大。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "雇傭兵忽然停止了說話。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿爾古斯",
+          "text": "稍等，老闆。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "雇傭兵從口袋中摸出了一些東西，塞入了嘴中。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "苦目糖？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "如果使用神秘術已經讓你感到負擔，我們可以暫時休息一下。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿爾古斯",
+          "text": "任務還沒完成——遠遠沒到休息的時候呢。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿爾古斯",
+          "text": "不用擔心，老闆，這是代代相傳的病症，從老阿爾古斯到小阿爾古斯，沒有一個人能夠逃脫。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "它的副作用是什麼？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿爾古斯",
+          "text": "哈，老闆，讓一個雇傭兵把自己的弱點告訴你……我們還沒有熟到這種地步吧？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿爾古斯",
+          "text": "不過，可以告訴您的是，只要眼睛還在使用，這些副作用就會如影隨形——所幸如今的科技足夠發達，您瞧瞧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她展示了手中的糖塊。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿爾古斯",
+          "text": "安全、高效——最重要的是，很甜。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "它不是糖，而是一種藥劑——它應當在合乎醫囑的情況下使用，這一點你應該比我更清楚。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿爾古斯",
+          "text": "得了吧，老闆，危險可不會在醫生的預料之內發生。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿爾古斯",
+          "text": "它作為藥劑，很合理地發揮了身為藥劑的作用，一次次地救人們於險境，這還不夠嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "可是……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她還想再說些什麼，但雇傭兵卻示意她噤聲。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿爾古斯",
+          "text": "噓——你聽見了嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "……什麼？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "雇傭兵將話音放得很輕。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿爾古斯",
+          "text": "是心跳。門外，有人在偷聽。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "咚、咚、咚。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "雇傭兵悄無聲息地蹲下了身。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "咚咚、咚咚、咚咚……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "子彈被塞入槍中，發出了輕微的響聲。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "咚咚咚咚咚咚咚咚咚咚……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "雇傭兵一把擰開了門把手。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "偷聽的女孩子差點隨著敞開的門跌滾進來。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿爾古斯",
+          "text": "也許你需要花點時間解釋——你為什麼會在這裡，金伯利女郎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿爾古斯",
+          "text": "對你而言，這位史蒂文先生真的有這麼大的魅力嗎？即使在他已經死了之後？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "金伯利女郎",
+          "text": "啊……不，不是的！我只是在找我的玩具……它只是恰好，可能在……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿爾古斯",
+          "text": "玩具？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿爾古斯",
+          "text": "我不希望把槍口對準手無寸鐵的人。但有時這種行為是很有必要的——因為人總是不見棺材不落淚。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿爾古斯",
+          "text": "五。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "金伯利女郎",
+          "text": "我說了，我就是在找東西……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿爾古斯",
+          "text": "四。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "金伯利女郎",
+          "text": "……天啊！你為什麼不肯信我！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "女房客急切地跺起了腳，地板咚咚地震顫著。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿爾古斯",
+          "text": "三。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "金伯利女郎",
+          "text": "我、我沒有……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她閉上了眼睛，像是下定了決心。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿爾古斯",
+          "text": "二。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "金伯利女郎",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿爾古斯",
+          "text": "一。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "雇傭兵毫不猶豫地扣下了扳機。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "巨大的響聲在耳邊炸開，金伯利的面孔一瞬間褪去了血色，她蜷縮起來，竭力讓自己變成一個更小的東西。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "金伯利女郎",
+          "text": "不要殺我，不要殺我……我什麼都沒有做……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她的手指不受控制地顫抖著，黑色的趾爪從指尖伸出。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "金伯利女郎",
+          "text": "——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她驚訝地望著自己漆黑而銳利的指尖，急忙將它揣進懷裡——隨後惴惴不安地望向二人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "……在瑪蒂爾達傳回的報告中，也出現過“金伯利”這個名字。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "我原本以為只是巧合。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "——你就是那位隸屬於重塑之手的成員，金伯利女郎，對嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "金伯利女郎",
+          "text": "我、我真的什麼都沒有做……那幫穿黑衣服的人只是告訴我，要我和一個同伴一起行動……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "告訴我，那個同伴是誰？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "金伯利女郎",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "金伯利女郎",
+          "text": "我餓了，我一直很餓……我好羡慕你們，只要把食物儲存起來，你們就可以在很長的一段時間裡填飽肚子……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "金伯利女郎",
+          "text": "木桶可以儲存麵包和水，穀倉可以儲存糧食，牧場裡則是正在奔跑的肉類和乳製品……而我的糧食卻……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "金伯利女郎",
+          "text": "我保證，我只是想快點找到我的失物……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "別害怕，我們不會傷害你……只要你把那個名字告訴我。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "女郎轉了轉眼珠。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "金伯利女郎",
+          "text": "如果我把她的名字告訴你，那你是不是會放我一馬？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿爾古斯",
+          "text": "看你誠意咯。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "金伯利女郎",
+          "text": "她……叫淑女格蕾絲……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "你們來這裡的目的是什麼？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "金伯利女郎",
+          "text": "我當然不知道！那群穿黑衣服的傢伙只是讓我聽格蕾絲的話……但來到這裡以後，她也沒讓我做過什麼事……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "金伯利女郎",
+          "text": "那個小氣鬼，肯定是背著我在做什麼——不過我不在乎！我只想吃飯！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "女郎言辭懇切，另一隻手卻從口袋裡掏出了什麼。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "金伯利女郎",
+          "text": "嘿嘿。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "女郎露出了狡黠的笑容，抬手捏爆了手中的道具，漆黑的煙霧四處蔓延。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "金伯利女郎",
+          "text": "討厭鬼，你們連我的衣角都抓不住！還想抓住我呢，做白日夢！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "是傳送儀式——阿爾古斯，幫幫我！不能讓她逃走！"
+        }
+      ]
+    },
+    {
+      "script_id": "202118",
+      "internal_title": "【2.1】77号往事-11.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "砰——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "隨著一陣散開的煙霧，金伯利女郎消失了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿爾古斯",
+          "text": "跑得倒挺快。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "至少現在我們可以得出一些結論。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "是重塑之手盯上了這座旅館——我想，也許“啟明會”正是他們的化名。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "有一段時間，他們把這裡當成了據點，並且進行了一些失敗的術式嘗試，但最終撤離了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿爾古斯",
+          "text": "重塑之手，我聽說過他們的名字，那個臭名昭著的神秘學家團體……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "雇傭兵在此刻顯得憂心忡忡。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿爾古斯",
+          "text": "如果凱拉落到他們的手裡……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿爾古斯",
+          "text": "——一定不會有什麼好結果，對嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "別擔心，他們一般只招徠純血神秘學家。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿爾古斯",
+          "text": "……噢，那就太好了。我敢保證，凱拉的父母都是純得不能再純的人類。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "不過，既然是重塑之手來到了這裡……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "——他們的目的是什麼？"
+        },
+        {
+          "kind": "title_card",
+          "text": "藍手帕旅館·外圍"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "夜幕中的原野，對話還在繼續。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "藍手帕",
+          "text": "我擔心您夜裡找不到路，特意點了門廊的燈。您瞧瞧，燈一亮，這些蛾子都飛了過來，真是討厭……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "紅弩箭",
+          "text": "少廢話。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "紅弩箭",
+          "text": "維爾汀呢？帶我過去找她。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "藍手帕",
+          "text": "平時我不怎麼點燃這盞燈……因為我的孩子從不迷路。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "侍應生淡淡地微笑著。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "藍手帕",
+          "text": "但像您這樣年輕又活潑的孩子，總是需要前方有一盞亮著的燈，對嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "藍手帕",
+          "text": "對於疲累的旅客而言，這盞燈意味著一家旅館；對於孩子而言，這盞燈意味著母親；而對於您而言……這盞燈又意味著什麼？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "侍應生的面孔泛著潮紅。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "藍手帕",
+          "text": "無論如何，人們都需要這樣的一盞燈，以擺脫身後緊追不捨的恐懼，對嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "紅弩箭",
+          "text": "你是“啟明會”的人？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "藍手帕",
+          "text": "“啟明會”？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "藍手帕",
+          "text": "……噢，你在說那些討人厭的客人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "紅弩箭",
+          "text": "客人？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "侍應生並未理會她的疑問，只是自顧自地說了下去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "藍手帕",
+          "text": "我不喜歡他們，他們總是到處寫寫畫畫，把佈置好的房間弄得一團亂麻——甚至還弄痛了我的孩子……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "藍手帕",
+          "text": "噢……別怕，別怕，我的孩子……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她輕聲地撫慰著繈褓裡的孩子，用手舒緩地拍打著。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "紅弩箭",
+          "text": "他們還在這裡嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "藍手帕",
+          "text": "噢……當然，他們付出了我無法拒絕的報酬……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "紅弩箭",
+          "text": "多少錢？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "藍手帕",
+          "text": "哦呀，您果然還是小孩子。世界上當然存在著許多無法用金錢買到的東西……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "藍手帕",
+          "text": "就像旅客無法在恰到好處的時候買到旅館的出現，哭泣的孩子無法買到母親的懷抱……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "藍手帕",
+          "text": "哈……我也無法買到黑暗之中的那一份甜蜜與稠醇……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "侍應生近似於神經質的喃喃自語令她感到無比煩躁。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "紅弩箭",
+          "text": "——夠了，我不想再聽你說話。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "紅弩箭",
+          "text": "我不能再和你說下去……不能……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "眼前的一切變得模糊，她隱約看見了侍應生似有若無的笑容。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "藍手帕",
+          "text": "……哈。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "藍手帕",
+          "text": "……♪"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她柔聲安撫著眼神渙散的飛行員。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "藍手帕",
+          "text": "睡在床裡，不要再想參與那些大人的事……這才是孩子該做的……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "侍應生翻轉了門口的告示牌，“請勿打擾”赫然其上。"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

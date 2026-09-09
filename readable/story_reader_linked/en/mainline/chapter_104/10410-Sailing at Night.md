@@ -1,6 +1,6 @@
 # Sailing at Night
 
-- Chapter: El oro de los tigres (`104`)
+- Chapter: El Oro de los Tigres (`104`)
 - Episode: `10410`
 
 > Subtitle: I've seen you when we were two boards, side by side, drifting on the sea.

@@ -1,6 +1,6 @@
 # Antidote
 
-- Chapter: Tender is the Night (`102`)
+- Chapter: Tender Is the Night (`102`)
 - Episode: `10204`
 
 > Subtitle: D-Don't worry! Sotheby's got everything in her mansion! You'll definitely get better!

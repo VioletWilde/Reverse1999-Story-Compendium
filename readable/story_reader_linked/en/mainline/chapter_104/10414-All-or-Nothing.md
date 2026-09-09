@@ -1,6 +1,6 @@
 # All-or-Nothing
 
-- Chapter: El oro de los tigres (`104`)
+- Chapter: El Oro de los Tigres (`104`)
 - Episode: `10414`
 
 > Subtitle: The good news is, 10 more moves to go.

@@ -1,9 +1,9 @@
 # A Building's Message
 
-- Chapter: 世纪末尺度 (`38101`)
+- Chapter: The Temporal Scale (`38101`)
 - Episode: `3810105`
 
-> Subtitle: You listen to those that dwell inside you, tuning yourself to their sounds as they ring out over and over again.
+> Subtitle: Oh, architecture—you let people dwell inside you, listening to that same sound, again and again.
 
 ## Transcript
 

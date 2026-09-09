@@ -1,0 +1,52 @@
+{
+  "episode_id": 3810108,
+  "chapter_id": 38101,
+  "chapter_title": "世纪末尺度",
+  "display_label": "",
+  "title": "光的物性",
+  "subtitle": "你所赠予我的一切，都是光明。仅是光明。",
+  "trails": [
+    {
+      "element_id": 3810105,
+      "owner_episode_id": 3810108,
+      "trigger_episode_id": null,
+      "title": "失而復得",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=3810108",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 3810106,
+      "owner_episode_id": 3810108,
+      "trigger_episode_id": null,
+      "title": "Toast",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=3810108",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "203810",
+      "internal_title": "【3.8】世纪末尺度08.1",
+      "items": []
+    },
+    {
+      "script_id": "203811",
+      "internal_title": "【3.8】世纪末尺度08.2",
+      "items": []
+    }
+  ],
+  "fallback_fields": [
+    "title",
+    "subtitle"
+  ]
+}

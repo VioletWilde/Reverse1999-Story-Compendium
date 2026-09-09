@@ -1,0 +1,585 @@
+{
+  "episode_id": 3610106,
+  "chapter_id": 36101,
+  "chapter_title": "人們向何處去",
+  "display_label": "",
+  "title": "萬物如謎",
+  "subtitle": "而舊時光有薄荷氣味。",
+  "trails": [
+    {
+      "element_id": 3610104,
+      "owner_episode_id": 3610106,
+      "trigger_episode_id": null,
+      "title": "一本未完的書",
+      "description": "寫書有時也是與自己溝通。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=3610106",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "續集"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "自那之後，“暴雨”把世界帶到了90年代。\n伊索爾德小姐積極接受了治療，卡卡尼亞小姐則在世界各地奔波，為改變世界而努力著。她很快就融入了新時代，還讀了很多書，我也給了她許多推薦。\n值得一提的是，塞梅爾維斯女士在維也納事件後成為了血食怪，這起意外超出了所有人的預料，就像是湧動的暗線一樣令人好奇。我多次誠摯的請求讓我得到了閱讀她的故事開端的許可。那是個非常曲折的故事，令人不禁浮想聯翩，它會有怎樣的結局？但如果我在這裡講述整個故事，這本書的厚度就會變成預期的三倍。感謝我的恩師霍夫曼女士，她教會我在這種時候要乾脆地對內容做出取捨。\n……\n現在世界來到了1920年，但那場戰爭仍沒有結束，一切就像是那瘋狂的一天的延續。我聽說卡卡尼亞小姐為此沮喪了一整天，不過很快又回到了委外合約人才管理組織的任務中，她的堅韌品德即使跨越兩個時代也不曾消退一點。這股精神似乎也影響了我，讓我時刻想著自己能做些什麼。於是我試著寫了這本書以整理我的思緒，希望我能在徹底成稿前得出結論。\n……"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 3610105,
+      "owner_episode_id": 3610106,
+      "trigger_episode_id": null,
+      "title": "研究員入職指南",
+      "description": "怪人有多少，指南就有多少。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=3610106",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "《密碼入門指南·維吉尼亞篇》"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "為防拉普拉斯職工遭到同事惡作劇，因無法破譯密碼而延誤科研進度，現在發佈《密碼入門指南·維吉尼亞篇》。\n首先，維吉尼亞密碼可以解釋為凱撒密碼的升級，從單個字母表簡單移位升級為多個字母表移位來提升複雜度。關於凱撒密碼是什麼，請看《凱撒密碼篇》。\n維吉尼亞密碼和凱撒密碼最大的區別便是密文與明文字母之間的對應關係不唯一，故而更難推斷出轉換用的金鑰。但因為其始終具有一定規律性，所以可通過尋找成段重複的密文部分，根據常用語法中的高頻詞來推測出特定密文對應的明文，並根據重複密文之間的間距推斷出金鑰的長度，從而分析出金鑰。\n然而在文本量有限的情況下，很難實現上述內容。這時建議使用一些輔助手段來推理金鑰，設置密碼者的性格、經歷、寫作習慣都是推理金鑰的重要依據。以下是極有可能在拉普拉斯進行密碼惡作劇的嫌疑人名單：\n\n阿德勒，烏爾里希，X，理查，道金斯，維克托……\n\n遭遇密碼惡作劇時，請優先考慮以上嫌疑人，如果你實在無法破譯，也可直接與以上嫌疑人對峙，要求解除惡作劇，而如果嫌疑人否認是自己進行的惡作劇，則設法要求嫌疑人為你破譯密碼，無關乎對方的嫌疑。"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "203608",
+      "internal_title": "【3.6】人们向何处去06",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "霍夫曼家"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "我準備出門了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "午飯自己加熱冰箱裡的菜，你聽到了吧，阿德勒？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿德勒",
+          "text": "登山俱樂部究竟有什麼魔力？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿德勒",
+          "text": "連鄰居聊天的時候都會說：“你找格蕾塔？應該是爬山去了。”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "格蕾塔",
+          "text": "也可能在划艇。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "門口的年輕人已經綁好了鞋帶，在墊子上跺了跺腳。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她背起登山包，轉頭看了一眼站起身的弟弟。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "格蕾塔",
+          "text": "你要一起？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "格蕾塔",
+          "text": "上回你爬完卡文德爾山，還沒到家就說再也不會參加任何週末體育活動。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "格蕾塔",
+          "text": "下棋，游泳，或者做些你喜歡的數學題，都是很好的消遣。也不用非要和我一樣。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿德勒",
+          "text": "我只是起來倒杯水！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "格蕾塔",
+          "text": "哈哈，好——對了，幫我個忙。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "格蕾塔丟來一把鑰匙。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "少年頭也沒抬，將半空中的鑰匙接到手心。他的視線停留在報紙的填字遊戲格上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "格蕾塔",
+          "text": "又在研究什麼呢？打算像上次那樣把老爸藏煙的櫃子用密碼鎖上？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿德勒",
+          "text": "那不過是個維吉尼亞密碼。入門級別的謎題。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "格蕾塔",
+          "text": "嗯，你如果有空，可以把後院的草坪修剪一下，老爸老媽都會很高興。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "格蕾塔",
+          "text": "而且我還沒問過你呢，“拉普拉斯”又究竟有什麼魔力？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "格蕾塔",
+          "text": "優秀的科研機構可不少，你怎麼對那座大廈這麼上心？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿德勒",
+          "text": "因為我覺得那群人的理念和我一樣。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "格蕾塔",
+          "text": "嗯？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "格蕾塔",
+          "text": "她發現弟弟的語氣認真起來。於是暫緩了開門的動作。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿德勒",
+          "text": "一定有一種能夠描述世間萬物的統一的理論。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿德勒",
+          "text": "因為任何謎題都有其解答。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿德勒",
+          "text": "因為世界是一個填字遊戲。只要沿著線索推演，一定能得到唯一的答案，既定的原理。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿德勒",
+          "text": "簡單明瞭，清晰，理性。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿德勒",
+          "text": "密碼不過是按照特定規律重新編排的符號，找到規律就能解明。如果還沒有答案，那不是因為它從不存在，而是因為尚未被發現。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿德勒",
+          "text": "我聽過科算中心的講座。那些研究員都堅信自己能發現真理。這簡直太自負了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿德勒",
+          "text": "——但就應該如此。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "格蕾塔點了點頭，笑著打開房門。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "格蕾塔",
+          "text": "知道了。不用太緊張，你肯定能順利收到拉普拉斯的邀請。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "格蕾塔",
+          "text": "我也幫你打聽過，他們都說年紀不重要，是不是神秘學家也不重要。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "格蕾塔",
+          "text": "只有天才才能敲開拉普拉斯的大門。這是唯一條件。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "格蕾塔",
+          "text": "所以你肯定沒問題。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "啞謎",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他彎下腰，把帶來的花放在墓碑前。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "那裡已經有新鮮的花朵了。白菊花漫出了石板邊沿，流淌到草坪上。"
+        },
+        {
+          "kind": "title_card",
+          "text": "基金會走廊"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一場劍拔弩張卻毫無進展的會議終於結束。密碼學家站在人來人往的大廳，有些恍惚。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "匆忙的工作人員並未留意這位密碼學家，他們腳步不停，手中的文件一摞比一摞厚重。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "啞謎",
+          "text": "……哈，以最大的投入功率來推動一顆最小的螺絲。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "啞謎",
+          "text": "毫無意義的資源浪費。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "“嘀嘀——”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "通訊器適時響起，阻攔了他對於半小時前那場會議的厭棄。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "指針",
+          "text": "阿德勒研究員。如果手上沒有緊急事務，請迅速返回科算中心。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "啞謎",
+          "text": "怎麼了？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "指針",
+          "text": "關於高塔裡的核心，我們有了新的發現。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "指針",
+          "text": "這枚核心會隨著被觀測而變化。我們得想一個新計畫。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "啞謎",
+          "text": "記得你的人很多。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "啞謎",
+          "text": "就連繆斯三世帶來的“玩具箱”裡，都有一段數據兢兢業業地模擬著你的固執。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "啞謎",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "啞謎",
+          "text": "還是換個話題吧，我相信你也不願聽我在這裡冗長地懷念過去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "也許是說服自己，又或許是抗拒，密碼學家從繁雜的思緒裡重新擇選了合適的內容。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "啞謎",
+          "text": "箱子裡那座高塔，那座用以解決“語言異化症”的巴別塔，並非最後的答案。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "啞謎",
+          "text": "——沒錯，人們得以再次用言語交流，前所未有地理解彼此。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "啞謎",
+          "text": "但代價是，所有人的認知都被統一的模型塑造。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "啞謎",
+          "text": "所有人齊聲贊成，所有人齊聲反對——這樣的交流，又怎麼可能是交流？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他凝視了墓碑上雕刻的字母太久，它們開始變得陌生。一切都如此失真，像是不切實際的夢境。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "啞謎",
+          "text": "……我和烏爾里希，各自出發，最終卻都選擇了炸毀這座高塔，拿到了塔裡的核心。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "啞謎",
+          "text": "於是，現在我們有了新的亟待解決的問題——核心上有一道密碼鎖。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "啞謎",
+          "text": "而我對這道密碼鎖毫無頭緒。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "墓碑沉默地應對，但並不妨礙密碼學家從記憶中解出格蕾塔可能會有的反應。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "啞謎",
+          "text": "呵，我知道，你一定會不解。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "啞謎",
+          "text": "這本該是我的專長，畢竟找到線索，解開密碼，需要的只是時間。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "啞謎",
+          "text": "但這不是現在這顆鏽鈍的腦子，還能自信依賴的想法了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "啞謎",
+          "text": "我已經很久沒有做過自己的研究項目了，噢，是的，那些只能浪費時間的會議，還有彷彿在無限生成的批覆文件——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "啞謎",
+          "text": "我的時間已經被這些瑣碎的事情填滿了。我能聽到大腦裡老化的齒輪運轉時，咯吱作響的聲音。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "啞謎",
+          "text": "也許……我已經失去了我曾經擁有的天賦。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他苦笑著點了點頭。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "啞謎",
+          "text": "哈，也許有朝一日我會用上X那些發明的。這些事就算交給一個最愚鈍的機器人，也不會辦得比現在更糟糕。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "白菊花窸窸窣窣地在流動的風中低語。萬物的響動包圍了一個沉默的人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "馬庫斯",
+          "text": "噢！啞謎先生……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "馬庫斯",
+          "text": "您……也在這裡。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "循聲望去，格蕾塔的學生抱著一沓文件和一束花站在他身後。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "啞謎",
+          "text": "……一會兒要到基金會開會，順路看看。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "啞謎",
+          "text": "你來看她了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "馬庫斯",
+          "text": "是的，我給老師帶了一些新文章。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "馬庫斯",
+          "text": "這些文章……我還沒有寄往《白日夢郵報》，也並不清楚這次是否會被拒收。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "馬庫斯",
+          "text": "只是，這次我採取了另外一種記錄手法，在霍夫曼女士曾經的改良意見上的再次修訂——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "馬庫斯",
+          "text": "所以我想在得到報社答覆前，先帶給霍夫曼女士看看。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "馬庫斯",
+          "text": "我希望她看到，我終於學會了在無盡的“閱讀”中做出那個最好的選擇。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "馬庫斯",
+          "text": "在“閱讀”了那麼多故事之後，以我的眼睛目睹的有限真相……是關於“暴雨”的故事。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "啞謎稍稍讓開，馬庫斯將懷裡的花壓在文章上，一道放在了墓碑前。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "馬庫斯",
+          "text": "既不違背自己的心意，也不違背霍夫曼女士的指導。我找到了實現理想的記錄手法。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "馬庫斯",
+          "text": "當然……這肯定還有很多不足……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "在一種尷尬的羞赧中馬庫斯表達清楚了自己。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她與寡言的密碼學家並不算熟悉，格蕾塔是二者之間罕見的交集。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "馬庫斯",
+          "text": "啞謎先生，我以為您不會來到這裡了……這不是指責的意思！我明白您當時的心境……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "馬庫斯",
+          "text": "但既然您來了，關於那個問題，您已經得到了答案嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "調查員小心地詢問著。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "啞謎",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "啞謎",
+          "text": "現在還沒有。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "啞謎",
+          "text": "但維持現狀，也似乎對思考沒有任何幫助。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "馬庫斯",
+          "text": "嗯……“閱讀”需要時間，求證也是。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "啞謎",
+          "text": "也許吧。你應該還有不少話想要和她說，那我便不打擾了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "啞謎伸手在口袋裡摸了摸，金屬罐在手心裡散發著沉甸甸的冰涼。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他換了隻手，伸進另外的口袋。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "馬庫斯",
+          "text": "怎麼了，啞謎先生？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "啞謎",
+          "text": "沒什麼。拿好。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "馬庫斯攤開手，啞謎抓著一把東西放進她的手心，接著轉身離開。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她低下頭。這些糖果她倒很熟悉，導師的口袋裡也曾散落有這樣的小東西。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "冰冷的、刺激性的氣味令她眨了眨眼睛。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "馬庫斯",
+          "text": "噢，是……薄荷糖。"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

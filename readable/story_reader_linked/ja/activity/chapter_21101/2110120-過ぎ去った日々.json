@@ -1,0 +1,547 @@
+{
+  "episode_id": 2110120,
+  "chapter_id": 21101,
+  "chapter_title": "ルート77 ～呪われた道路～",
+  "display_label": "",
+  "title": "過ぎ去った日々",
+  "subtitle": "かわいそうな子。泣けば誰かが抱きしめてくれると思い込んでいるらしい。",
+  "trails": [
+    {
+      "element_id": 2110110,
+      "owner_episode_id": 2110120,
+      "trigger_episode_id": null,
+      "title": "「モーテル・チューズデー」事件の調査報告（抜粋）",
+      "description": "財団の職員がここを引き継いだ。今は、あなたが慣れ親しんでいる、そして最も嫌っている後始末の時間だ。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=2110120",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "「モーテル・チューズデー」事件の調査報告（抜粋）"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "監察対象：未知の神秘学的存在。初歩的には意識体と判断。通称「モーテル・チューズデー」（以下、「モーテル」）。\n　自我意識：弱～中程度。性別や年齢といった概念は持たないが、人間の言語の一部情報に反応できる。\n　神秘学能力：認知への影響、幻覚や密閉空間の生成、攻撃性を持つ神秘学実体の生成など。\n　……\n　テストの結果、監察対象はチューズデーの声と行動に対し、60.15%の確率で反応し、チューズデーからの簡単な指示に従うことができる（「防御」「許可」「禁止」など）。研究員に対する反応が少なく、ある程度の攻撃性を持っている。チューズデーは、「モーテル」を操っている、または訓練していることを否定し、自分と「モーテル」は「哺育」「パートナー」の関係であると主張する。\n　チューズデーによると、監察対象はテキサス州の荒野に存在し、形態と規模を変えることができる。現在は、ルート77の道沿いにあるモーテルを模倣した形態であるらしい。吸収した恐怖の量が多いほど、監察対象が大きくなる。\n　監察対象は実体を持つ神秘学の集合体を作り出すことができる。その集合体は、影響を受けた者に幻覚を植え付け、現実における破壊を引き起こす。目撃者によると、当集合体は北米で流行っている怪談に登場する実体に似たようなもの（ブラッディマリー、モスマン、ポルターガイストなど）を複数種生成できるらしい。\n　……\n　対処意見：監察対象に対するチューズデーの影響力を考慮し、引き続きチューズデーに管理を任せることが最善だと考えられる。しかし、チューズデーについては常に監視し続けること。またはタイムキーパーチームに配属させる。"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 2110201,
+      "owner_episode_id": 2110120,
+      "trigger_episode_id": null,
+      "title": "ノンフィクション",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=2110120 and ChapterMapElement=2110110",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "トラックの運転手",
+          "text": "これはインタビューか何かか？　あんたらはジャーナリストか？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "トラックの運転手",
+          "text": "わざわざ都会から来て、荒野やアスファルトからニュースを掘り出したいってのか？　…へえ、あんたらが聞きたいのは噂話？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "トラックの運転手",
+          "text": "まあ、よく聞いてくれ…噂話だけじゃないぜ。本当のこともあるんだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "トラックの運転手",
+          "text": "古い町で起こったこと、聞いたことあるかな？　あそこの人たちはみんな、鳥の群れとか影とか、訳のわかんないものにビビって神経衰弱になったんだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "トラックの運転手",
+          "text": "それに、モーテルに泊まってた運転手たちは、朝になったら慌てて飛び出して、アクセルを踏み込んで一目散に逃げたぜ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "トラックの運転手",
+          "text": "あいつらは俺のよく知ってる人たちだ。友人や客、酒場のオーナーもいる。その言葉を信じないわけがない。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "トラックの運転手",
+          "text": "俺たちはそのことを人に知らせ、この事件を『サウスプレーンの声』って新聞の一面に載せてもらうように頑張ってた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "トラックの運転手",
+          "text": "それで噂話が広まったんだ。"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 2110202,
+      "owner_episode_id": 2110120,
+      "trigger_episode_id": null,
+      "title": "パーティータイム",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=2110120 and ChapterMapElement=2110204",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "農場主",
+          "text": "乾杯だ、わが友よ！　このテキサススタイルのパーティーのために！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "農場主",
+          "text": "新しい流行りとか派手なものじゃない。ここにあるのは本物の羊焼きとビール、そして古い友人と新しい友人だけだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "農場主",
+          "text": "そうだ、最近何か面白い話はないか？　実は、こんな話を聞いたんだが…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "農場主",
+          "text": "…おいおい、なんで黙り込んでる？　何だその顔は？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "農場主",
+          "text": "これはビッグ・マシューから聞いた話。そしてマシューはハロルド警部が車の修理を頼んできた時に聞いたらしい。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "農場主",
+          "text": "今回は絶対に本当の話だ。嘘ひとつないって、あいつは神に誓って言ってた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "農場主",
+          "text": "ルート77で行方不明になった人たちは、トリポデロに襲われたのかもしれないんだって！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "農場主",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "農場主",
+          "text": "なんだよ、焼き肉にしか興味がないのか？　わかった、わかったから。リアルな話には関心がないってことだな。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "農場主",
+          "text": "はいはい、次の段階に行こうぜ。本格のテキサス音楽でも聞いてみよう。で、誰か歌いたいやつはいないか？"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 2110203,
+      "owner_episode_id": 2110120,
+      "trigger_episode_id": null,
+      "title": "微かな手がかり",
+      "description": "カラー印刷のチラシ。そこに書かれている注釈は、都市伝説の起源について説明している。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=2110120 and ChapterMapElement=2110205",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "クロコダイルファームカーニバル"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "最高にスリリングな体験を、今から迎えよう！口を大きく開いて、鋭い歯を見せる数百匹のスーパースターたちが君を待ち受け、テキサス最大の爬虫類たちが集結！\n　ワニ王国での巡遊！これまで見たことのない壮大な光景！百匹ものワニが君を野生の世界に迎え入れます！\n　ワニのエサやり体験！勇敢な君だけの挑戦！巨大な口を指先が触れ合うスリルを味わってください。だが、どうかご安心を！万全の安全対策の下、スリルと安全の両方を完璧に体験できます。\n　巨大物博覧会！「テキサスの何もかもが巨大！」――まさにその通り！テキサス最大のカウボーイハット、ブーツ、水車小屋を鑑賞！さらには、君の想像を超える巨大なものが勢ぞろい！\n　魔精鑑賞会！当ファームの新たなスターが登場！テキサスで最も勇敢なハンターたちが捕獲した魔精ばかりです。みんなの農場を乱した小さな悪魔から、荒野の噂話まで、すべてが今、君の目の前に！\n　 迷っている暇はない！さっそくカーニバルを始めましょう！\n\n走り書きのメモ：くそ、あいつらはここから逃げ出したのか！ワニ捕りのプロか魔精専門家を呼んで来い！"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 2110204,
+      "owner_episode_id": 2110120,
+      "trigger_episode_id": null,
+      "title": "UFOハンター",
+      "description": "たまたま出会ったたくましいカウボーイがこの本をくれた。そこには作者の直筆サインもついている。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=2110120 and ChapterMapElement=2110210",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "UFOの捕まえ方"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "著者：テキサス州で知れ渡る伝説の宇宙人ハンター、バック・スタートン\n\n著者の自述：カウボーイからUFOハンターに\n\n第1章：宇宙人とUFOの起源\n\n第2章：テキサス州のUFOホットスポット\nケース1：道路で姿を消した人々はどこに？\nケース2：怪しいヒッチハイカーのリアルストーリー\nケース3：バックのバーベキューパーティーに現れたUFO\n\n第3章：準備作業\n必須ツールと設備：カウボーイハット、ロープ、レーダー\nUFOハンティングチームの編成：牧場の子から地球の戦士に\n安全対策と応急処置：宇宙人に「拉致」されないための対策\n\n…\n\n第9章：宇宙人と遭遇した時の対処法\n宇宙人とのコミュニケーションのやり方：ジェスチャー、モールス信号、テキサス式口笛\n落ち着きながら遭遇を記録する方法：カウボーイハットを忘れずに\n宇宙人の目的：地球に来たのは、牛を手に入れるためか？"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 2110205,
+      "owner_episode_id": 2110120,
+      "trigger_episode_id": null,
+      "title": "スリルな旅路",
+      "description": "道路に半分のチラシの欠片が落ちている。シワやタイヤの跡、コーヒーのシミから、このチラシはスリル満載の経験をしたことがわかる。\nこのチラシの元持ち主もそうだったのかもしれない。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=2110120 and ChapterMapElement=2110209",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "スリルな旅路"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "真の探検家を募集中！君の愛車と地図と勇気を携えて、謎の事件の探索に出かけよう！\n\nルート：\nオールドバレー（幽霊カウボーイが出没するらしい場所）\nハドリー油田（不思議な発光生物）\nオークの木「ビッグ・ヘンリー」（「鉤爪の殺人鬼」が犯行を犯した場所）\nルート77沿い（謎のモーテルを探せ）\n\n幽霊？魔精？神秘学家？我々とともに、真相を解き明かそう。\n\n金曜日午後5時、タウンホール前で会おう…\n（このチラシは家庭用プリンターで印刷されている。後半の部分はもう読めない。）"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 2110207,
+      "owner_episode_id": 2110120,
+      "trigger_episode_id": null,
+      "title": "魔精の読書会",
+      "description": "その子たちが集まり、一行一句も見逃さず、文字とダストを貪欲にかじっていた。\nだが、あなたが求めている民俗学の本もその中にある。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=2110120 and ChapterMapElement=2110203",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 2110208,
+      "owner_episode_id": 2110120,
+      "trigger_episode_id": null,
+      "title": "ヒッチハイカーたち",
+      "description": "ヒッチハイクは簡単なことだ。待つ、手を挙げる、そして乗る。ルート77を彷徨う魔精たちでさえできることだ。\nだが、魔精たちはまだ「丁寧な断り方」を身につけていないようだ。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=2110120 and ChapterMapElement=2110202",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 2110209,
+      "owner_episode_id": 2110120,
+      "trigger_episode_id": null,
+      "title": "路上の二人",
+      "description": "疾走するスピード狂の車と二人の新米の「起業家」が、タイヤと銃弾で、ルート77で先輩たちの伝説を再現しようとしている。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=2110120 and ChapterMapElement=2110201 and Act165CdFinish = 2110209",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 2110210,
+      "owner_episode_id": 2110120,
+      "trigger_episode_id": null,
+      "title": "予想外の収穫",
+      "description": "また「イルミナシオン」の信者に出会った。組織の最も下っ端のメンバーたちが、この辺でウロウロしている。\nこれは愉快な出会いではなさそうだ。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=2110120 and ChapterMapElement=2110207 and Act165CdFinish = 2110210",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "202130",
+      "internal_title": "【2.1】77号往事-20",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "カイラ",
+          "text": "…わたしがいない間に、色々あったようね。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "カイラ",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "しばらく考え込んだあと、彼女は電話をかけた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ミス・キンバリー",
+          "text": "…ミス・グレイス、今までどこで何をしてたの！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ミス・キンバリー",
+          "text": "わたし、見つかっちゃったのよ！？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "予想通り、電話の向こうからは不安気な声が響いた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ミス・グレイス",
+          "text": "ミス・キンバリー、このモーテルで何があったのか詳しく教えてくれる？　なぜ廊下に血だまりと脳漿が？　死亡者の情報は？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ミス・キンバリー",
+          "text": "…ゼノミリタリーの軍人よ。狂って、自分のこめかみを撃って自殺したの。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ミス・キンバリー",
+          "text": "でも、彼のベッドの下にある陣法をまだ拭いきれていないわ…それに探し物の方も…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ミス・グレイス",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "少女は軽くため息をついた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ミス・グレイス",
+          "text": "拠点がバレた今、一刻も早く「儀式」関連のものを持って逃げる必要があるわ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ミス・グレイス",
+          "text": "ここも直に財団の者たちがきて、全面的な捜索を受けることになるわ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ミス・キンバリー",
+          "text": "――そんな！　あいつらには一切関わりたくないのに！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "しばらく沈黙が続いた。これは珍しいことだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ミス・キンバリー",
+          "text": "それにしても…あのヴェルティって子、いったい何者？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "彼女の言葉には不安が混じっている。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ミス・キンバリー",
+          "text": "彼女に秘密を知られちゃったの――彼女は記憶力がいい方かしら？　深追いされたりしないわよね？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ミス・グレイス",
+          "text": "心配しないで、ミス・キンバリー。大抵の人は、自分のことで手一杯よ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "少女は微かな微笑みを見せた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ミス・グレイス",
+          "text": "…とはいえ、彼女との再会が楽しみね。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "数日後。"
+        },
+        {
+          "kind": "title_card",
+          "text": "聖パブロフ財団  事務室"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "財団の職員Ⅱ",
+          "text": "ミス・チューズデー、どうぞ緊張なさらず。これはあくまで一般的な雑談と思っていただいて構いません。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "チューズデー",
+          "text": "…荒野でこの子を拾ったの。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "財団の職員Ⅱ",
+          "text": "「この子」というのは、神秘学意識を持つ「モーテル」のことですか？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "財団の職員Ⅱ",
+          "text": "一つ確認したいのですが、この神秘学意識体の本体は、あなたの懐に抱かれた…心臓の形をした胚、ですね？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "チューズデー",
+          "text": "ええ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "財団の職員Ⅱ",
+          "text": "…知力は一歳の赤子とほぼ同じ、モーテルでの事件を意図的に計画したり、実行できるとは思えません――さらに、あなたを母親と見なし、異常なほどの信頼と依存を示しています…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "財団の職員Ⅱ",
+          "text": "…つまり、あなたは共犯者、もしくは黒幕ということになります。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "財団の職員Ⅱ",
+          "text": "例え悪意がなくとも、あなたが原因で一般住民の精神状態が狂わされたという事実は変わりません。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "財団の職員Ⅱ",
+          "text": "…彼らは精神的な癒しを求め――その結果、ヴェンデッタに容易に付け入る隙を与え、町中のほとんどの住民がヴェンデッタの信者となってしまった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "財団の職員Ⅱ",
+          "text": "以上の内容に間違いはありませんか？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "チューズデー",
+          "text": "あら…町には行ったことがないから、知らなかったわ。でも、本当にあなたの言う通りのことが起きていたとして――"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "チューズデー",
+          "text": "それは彼らが選んだことでしょう？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "財団の職員Ⅱ",
+          "text": "…わかりました。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "カサカサと、職員が情報を書き留める音が響いた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "財団の職員Ⅱ",
+          "text": "先日、タイムキーパーより重要な情報が提供されました。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "財団の職員Ⅱ",
+          "text": "あなたのモーテルで、「イルミナシオン」と名乗る信者たちが活動していたという話は、本当ですか？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "チューズデー",
+          "text": "…ええ。それほど時間が経っていないから、よく覚えているわ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "財団の職員Ⅱ",
+          "text": "彼らは何をしていましたか？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "チューズデー",
+          "text": "そうね…地面に落書きをしたり、奇声を発したり…あぁ、思い出したわ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "チューズデー",
+          "text": "何かを試そうとしていたように見えたわ…でも失敗して、随分な騒ぎを起こしたのよ――その上、哀れな少女が一人、鏡に閉じ込められてしまって…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "チューズデー",
+          "text": "逃げ出そうと頑張っていたわ。夜になると、鏡から「ドンドン」って音が聞こえるのよ…はぁあ…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "財団の職員Ⅱ",
+          "text": "…モーテル内を捜索しても、そのような者は見かけませんでしたが。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "チューズデー",
+          "text": "あら…それは残念ね。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "メイドはいたって冷静だ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "財団の職員Ⅱ",
+          "text": "彼らが危険な神秘学家団体であると知っていながら、財団に報告しなかったのはなぜですか？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "チューズデー",
+          "text": "あぁ…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "チューズデー",
+          "text": "わたくしには関係ないから…そうよね？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "メイドは己のやや乾燥している唇を舐めた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "チューズデー",
+          "text": "わたくしは「恐怖」を感じないの。というより――"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "チューズデー",
+          "text": "それを渇望しているとでも言うべきかしら。"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

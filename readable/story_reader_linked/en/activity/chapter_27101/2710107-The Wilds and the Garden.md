@@ -1,6 +1,6 @@
 # The Wilds and the Garden
 
-- Chapter: 1987 Космическая Увертюра (`27101`)
+- Chapter: 1987 Cosmic Overture (`27101`)
 - Episode: `2710107`
 
 > Subtitle: Don't feel guilty. Every flower once struggled just as you do now.

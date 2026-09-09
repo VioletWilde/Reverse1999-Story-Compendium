@@ -1,6 +1,6 @@
 # Aesthetic Gaze
 
-- Chapter: 绿松石蛇俱乐部 (`35101`)
+- Chapter: The Turquoise Serpent Club (`35101`)
 - Episode: `3510104`
 
 > Subtitle: Please keep your distance from the exhibits.

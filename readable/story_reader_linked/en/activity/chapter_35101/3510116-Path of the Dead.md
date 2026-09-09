@@ -1,6 +1,6 @@
 # Path of the Dead
 
-- Chapter: 绿松石蛇俱乐部 (`35101`)
+- Chapter: The Turquoise Serpent Club (`35101`)
 - Episode: `3510116`
 
 > Subtitle: Tonatiuh, bless the souls of the warriors. Let them break free from their cocoons. Let them return.

@@ -1,6 +1,6 @@
 # Route of a Bird
 
-- Chapter: The Prisoner in The Cave (`105`)
+- Chapter: The Prisoner in the Cave (`105`)
 - Episode: `10512`
 
 > Subtitle: Between the jar and the seat, it picks up pebbles, one after another.

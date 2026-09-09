@@ -1,6 +1,6 @@
 # The End of Immortal
 
-- Chapter: Tender is the Night (`102`)
+- Chapter: Tender Is the Night (`102`)
 - Episode: `10206`
 
 > Subtitle: It helps the deceased find their way to the afterlife to keep them from lingering in the mortal world and away from the living.

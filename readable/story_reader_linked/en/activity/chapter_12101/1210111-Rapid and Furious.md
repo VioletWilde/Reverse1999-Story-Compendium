@@ -1,6 +1,6 @@
 # Rapid and Furious
 
-- Chapter: Green Lake Nightmare (`12101`)
+- Chapter: A Nightmare at Green Lake (`12101`)
 - Episode: `1210111`
 
 > Subtitle: It's time to cleanse anew, my darling.

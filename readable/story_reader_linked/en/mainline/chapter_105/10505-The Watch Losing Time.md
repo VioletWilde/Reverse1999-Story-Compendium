@@ -1,6 +1,6 @@
 # The Watch Losing Time
 
-- Chapter: The Prisoner in The Cave (`105`)
+- Chapter: The Prisoner in the Cave (`105`)
 - Episode: `10505`
 
 > Subtitle: Now let's set the watch back to the right time.

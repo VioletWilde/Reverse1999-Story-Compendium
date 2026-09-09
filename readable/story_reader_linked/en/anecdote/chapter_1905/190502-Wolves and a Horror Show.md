@@ -1,6 +1,6 @@
 # Wolves and a Horror Show
 
-- Chapter: Pulp Comedy Dirges (`1905`)
+- Chapter: Pulp Comedy (`1905`)
 - Episode: `190502`
 
 > Subtitle: Be quiet, my dear little wolf. Be still.

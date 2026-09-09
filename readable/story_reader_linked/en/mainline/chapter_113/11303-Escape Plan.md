@@ -1,6 +1,6 @@
 # Escape Plan
 
-- Chapter: 他者的悲哀 (`113`)
+- Chapter: On Another's Sorrow (`113`)
 - Episode: `11303`
 
 > Subtitle: Some school traditions run older than the oak trees in the forest.

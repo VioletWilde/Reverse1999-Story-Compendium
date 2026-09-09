@@ -1,6 +1,6 @@
 # Spring of Nowa Miedź
 
-- Chapter: 世纪末尺度 (`38101`)
+- Chapter: The Temporal Scale (`38101`)
 - Episode: `3810122`
 
 > Subtitle: Sleep now, my child. The sun has already risen—

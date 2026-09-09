@@ -10,12 +10,9 @@
 - [19603 Through the Glass](chapter_19603/_index.md) — 8/8 episodes with scripts
 - [20601 The San Francisco Kids](chapter_20601/_index.md) — 5/5 episodes with scripts
 - [20603 On the Thousandth Night](chapter_20603/_index.md) — 8/8 episodes with scripts
-- [22911 chapter_22911](chapter_22911/_index.md) — 2/2 episodes with scripts
+- [22911 Into the Rainforest](chapter_22911/_index.md) — 2/2 episodes with scripts
 - [23501 Shadow of the Sun](chapter_23501/_index.md) — 8/8 episodes with scripts
 - [23601 Night Escapades on Cross Street](chapter_23601/_index.md) — 8/8 episodes with scripts
 - [24501 Beyond the Coastline](chapter_24501/_index.md) — 8/8 episodes with scripts
 - [30601 Fuga a 3 Soggetti](chapter_30601/_index.md) — 8/8 episodes with scripts
-- [34701 To Slay a Tiger](chapter_34701/_index.md) — 8/8 episodes with scripts
-- [305101 La Primavera di Firenze](chapter_305101/_index.md) — 12/16 episodes with scripts
-- [305201 DRAMA IN ATHENS](chapter_305201/_index.md) — 10/15 episodes with scripts
-- [385101 Polymerized Dreams](chapter_385101/_index.md) — 16/16 episodes with scripts
+- [34601 To Slay a Tiger](chapter_34601/_index.md) — 8/8 episodes with scripts

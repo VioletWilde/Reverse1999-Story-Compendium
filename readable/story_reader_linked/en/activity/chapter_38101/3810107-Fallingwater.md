@@ -1,6 +1,6 @@
 # Fallingwater
 
-- Chapter: 世纪末尺度 (`38101`)
+- Chapter: The Temporal Scale (`38101`)
 - Episode: `3810107`
 
 > Subtitle: Study nature. Love nature. Draw close to nature.

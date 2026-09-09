@@ -1,6 +1,6 @@
 # The Voyagers
 
-- Chapter: 1987 Космическая Увертюра (`27101`)
+- Chapter: 1987 Cosmic Overture (`27101`)
 - Episode: `2710102`
 
 > Subtitle: Three fallen stars.

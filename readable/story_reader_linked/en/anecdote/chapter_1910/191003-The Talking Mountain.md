@@ -1,6 +1,6 @@
 # The Talking Mountain
 
-- Chapter: The Winds OF Juhalerat (`1910`)
+- Chapter: The Winds of Juhalerat (`1910`)
 - Episode: `191003`
 
 > Subtitle: In this place, the mountains have a voice that is beyond the power of words.

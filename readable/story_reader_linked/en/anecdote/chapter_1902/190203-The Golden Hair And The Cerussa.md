@@ -1,6 +1,6 @@
-# The Golden Hair And The Cerussa
+# The Golden Hair and the Cerussa
 
-- Chapter: chapter_1902 (`1902`)
+- Chapter: The Master of Theatrics (`1902`)
 - Episode: `190203`
 
 > Subtitle: A strand of hair, a handful of lead powder, and a bag of Sharpodonty.

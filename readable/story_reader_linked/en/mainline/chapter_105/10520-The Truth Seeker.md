@@ -1,6 +1,6 @@
 # The Truth Seeker
 
-- Chapter: The Prisoner in The Cave (`105`)
+- Chapter: The Prisoner in the Cave (`105`)
 - Episode: `10520`
 
 > Subtitle: Reaching out, we are so close to the answer.

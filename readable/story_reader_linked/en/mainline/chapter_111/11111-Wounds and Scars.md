@@ -1,6 +1,6 @@
 # Wounds and Scars
 
-- Chapter: 行于漫漫长路上 (`111`)
+- Chapter: A Long Long Way (`111`)
 - Episode: `11111`
 
 > Subtitle: No one can make sense of why this war drags on.

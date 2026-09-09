@@ -1,6 +1,6 @@
 # "Flower Child"
 
-- Chapter: Flower Power (`1916`)
+- Chapter: When Peace Blooms (`1916`)
 - Episode: `191606`
 
 > Subtitle: We must believe in the power of belief.

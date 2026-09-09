@@ -1,0 +1,582 @@
+{
+  "episode_id": 1110101,
+  "chapter_id": 11101,
+  "chapter_title": "雷米金盃失竊案",
+  "display_label": "",
+  "title": "領銜的人們",
+  "subtitle": "現在這些日子裡，絕對沒有比安全更緊要的問題。",
+  "trails": [
+    {
+      "element_id": 11101011,
+      "owner_episode_id": 1110101,
+      "trigger_episode_id": null,
+      "title": "讀者來信",
+      "description": "無人問津的路邊報紙上，被雨水沾濕的第一部分，似乎是讀者互動專欄。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=1110101",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "“海洋之心”\n                   可疑資訊徵集專欄"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "{p}當時我正在尋找落在地上的眼鏡，抬頭的時候就看見了那團可怕的、一晃而過的黑影。我撿到了重要證據：一根黑色的毛髮。它的觸感十分特別，絕對不屬於人類。毫無疑問，行竊者是一頭黑色的野獸，或是某種\n傳說中的飛龍。我在書上看到過，它們大都喜歡亮晶\n晶的東西，像是寶石、漂亮眼鏡之類的。\n                                     ——高度近視的遊客朋友\n{p}據我推測，行竊者是一位舉\n止粗魯的成年男性，留著一\n把缺乏修剪的、易於脫落的\n黑鬍子，擁有一雙有力的手，\n甚至能打昏鐵皮機器的腦袋。         \n          ——頑固的蹩腳偵探\n\n事實證明，安保機器人缺乏可靠性，這些鐵皮腦袋永\n遠無法替代我們的存在。它們既不夠靈活，還會消耗\n大量的燃油，老實說，這對環境可不太友好。議員老\n爺們應該重點關注這家公司的資質，至少為了那些可\n憐的安保員們的選票……               \n                              ——憤憤不平的安保員（曾經）{img}"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "200101",
+      "internal_title": "【1.1】雷米特杯-1.1",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "報童",
+          "text": "大新聞！今日特大新聞！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "報童",
+          "text": "“新人類”公司為第十三屆國際珠寶展再發懸賞，負責人聲稱，凡取走“倫敦之心”者，可前往邦德街15號領取百萬賞金。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "報童",
+          "text": "據可靠消息透露，已有數人失手被捕，其中包括“貪婪傑克”、雌雄大盜佩恩與崔斯特等知名大盜。——噢！您好，您好！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "報童",
+          "text": "請別急著走，這位身著黑衣的美麗女士，您對今天的新聞感興趣嗎？來一份報紙吧！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "你是在說我嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "報童",
+          "text": "沒錯，您轉過身來了，說明……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "報童",
+          "text": "啊！您的……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "報童",
+          "text": "抱歉，是……是我失禮了，我沒有注意到您的……特別之處……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "不用道歉，貼心的孩子。能請你為我朗讀今天的新聞嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "我會支付適當的報酬。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "報童",
+          "text": "沒問題，慷慨的女士！來，請坐在這邊，這裡能避開那些來來往往的人群。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "報童",
+          "text": "咳咳，希望您不會介意我的嗓音有些乾啞。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "報童",
+          "text": "《倫敦近日治安問題十分嚴峻 民眾支持率恐有下降風險》"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "報童",
+          "text": "《機車酒吧籌備街頭摩托錦標賽 政府叫停無果》"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "報童",
+          "text": "《搖滾海盜多次劫持廣播頻段 聲稱好戲即將開場》"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "報童",
+          "text": "《街頭出現藝術怪人 警方提醒市民們警惕彩虹泡泡》……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "是的。許多爆炸性的新聞都集中在了這一天。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "街頭文化的浪潮，新舊秩序的衝突，渴望闖進聚光燈中的青年藝術家……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "呵呵……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "這會是一個很好的故事開頭。"
+        },
+        {
+          "kind": "title_card",
+          "text": "倫敦警局"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "在無人注意的角落，從窗戶外溜進來的不速之客小心翼翼地合上了警長的抽屜。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "辦公室內的人們都忙於更重要的事，無人注意到這個小插曲。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾弗森",
+          "text": "我們誠意十足，威廉警長。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "警長",
+          "text": "是的，新聞上寫滿了你們的事情，倫敦上下無人不知。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "警長",
+          "text": "但是，你所希望的“安保公司參與倫敦治安”的提議並不符合執法規定。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "警長",
+          "text": "況且，民眾對於安保公司的戒心尚未完全消除。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "警長",
+          "text": "你也知道的，拉米雷斯事件發生後，人們對私人安保公司的信賴一落千丈……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾弗森",
+          "text": "拉米雷斯？哦，天啊，您怎麼能把我們與一家“神秘學家企業”相提並論呢？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾弗森",
+          "text": "他們從不制定安保計畫，不運用槍械與武力，腦子裡裝著愚蠢的奇思妙想，自然會惹出各種各樣的亂子。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾弗森",
+          "text": "他們甚至聲稱擁有“超越所有小偷的想像力”。\n天啊，您能相信嗎？哪個安保公司會用小偷的方式去思考？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "警長",
+          "text": "儘管不可思議，但他們曾經創造過無數奇跡，就如同現在的你們一樣。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾弗森",
+          "text": "哼，不切實際的“想像力”安保能夠在短時間內嘩眾取寵，卻無法長久地奏效。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾弗森",
+          "text": "我們可不會淪落到用一座冒牌獎盃來欺騙大眾，更不會像他們的創始人一樣，在爭議中畏罪自殺。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾弗森",
+          "text": "威廉警長，請您相信，“新人類”是一家走在正確道路上的機器人公司，我們有著完善的《安保指南》。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "艾弗森表情輕鬆地按下了手上的按鈕。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一個造型奇特的機器人駛入了房間。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "警長",
+          "text": "……？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾弗森",
+          "text": "這就是我們公司的最新研究產品——安全制約-Ⅰ型。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾弗森",
+          "text": "它搭載了催淚噴劑、苦麥蟲粉末、磁場干擾圈等用以應對一系列安保問題的裝置，能夠識別半徑5米內的一切危險分子。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾弗森",
+          "text": "最重要的是，它完全可控，且具備173種危機應對預案。我認為，它們能夠勝任警察先生們的可靠助手一職。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾弗森",
+          "text": "比如現在，當我們打開它的探測儀時……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "機器人突然發出了刺耳的警報聲。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "安保機器人",
+          "text": "檢測到可疑人員，位置：第一張辦公桌正下方，第二張，第三……目標正快速移動中。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "警長",
+          "text": "它故障了嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾弗森",
+          "text": "它們從不出錯。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "艾弗森先生快步走向窗戶。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "窗簾被一把掀開，一個鬼鬼祟祟的身影順勢站起身來。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "嗨——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "先生們，還有這位敏銳的機器人朋友，你們好～"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾弗森",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "警長",
+          "text": "又是你？人呢？！湯姆森，快進來把這小子給我扔出去！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘藝術",
+          "text": "等等，等等！我只是想和您聊聊關於灑水車的事兒，您瞧……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "警長",
+          "text": "我說了很多次，根本沒人關心波普元素之類的亂七八糟的東西。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘藝術",
+          "text": "波普，是的，波普！您竟然說出來了，這在當下還是一種前衛的藝術流派，我很高興能與您如此志同道合！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "警長",
+          "text": "那是因為你在我耳邊念叨了幾百次這些鬼東西！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘藝術",
+          "text": "所以您理解了我們的理念，我相信其他人……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾弗森",
+          "text": "原來如此，這是一個行為出格的破壞分子……關於此類違規行為，機器人同樣有著對應的安保預案。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾弗森",
+          "text": "倫敦需要它們的理由又多了一項，威廉警長。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘藝術",
+          "text": "機器人……？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾弗森",
+          "text": "正是為你們這些擾亂秩序的不安定分子準備的新舉措。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾弗森",
+          "text": "它能阻擋你們肆意妄為的舉動，任何違反規定的行為都將受到安保機器人的嚴格制約！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "挖掘藝術拍了拍機器人的頭部。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘藝術",
+          "text": "看上去一點也不可靠。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他又戳了戳安保機器人的肢體。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘藝術",
+          "text": "手感也遠不如警犬們。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘藝術",
+          "text": "你應該試試和那些毛絨絨的牧羊犬握手，這有助於改進這些機器人的情緒系統～"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘藝術",
+          "text": "小狗們善良、活潑，並且通情達理。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾弗森",
+          "text": "相當不成熟的建議。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾弗森",
+          "text": "總有人討厭那些毛絨絨的四足生物，它們的毛髮附著在人們的鼻腔和衣服上，散發出揮之不去的難聞味道。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾弗森",
+          "text": "警長先生，接下來我將為您演示安全制約-Ⅰ型的教化功能。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾弗森",
+          "text": "它擁有全面的、應對所有市民的預案，當然也有應對街頭混混的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾弗森",
+          "text": "它絕不依賴難以捉摸的“想像力”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "警長",
+          "text": "完全可控？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾弗森",
+          "text": "當然。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "艾弗森按下了另一個按鈕。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "機器人開始閃爍劇烈的紅光，它朝著挖掘藝術的方向一步步靠近。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘藝術",
+          "text": "喂——！你故障了嗎？鐵皮怪物！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘藝術",
+          "text": "別靠過來！……你的手裡是什麼？放下，放下，這太粗魯了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘藝術",
+          "text": "要和平，不要戰爭！"
+        }
+      ]
+    },
+    {
+      "script_id": "200102",
+      "internal_title": "【1.1】雷米特杯-1.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "艾弗森滿意地按下了開關。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "安保機器人又回到了最開始的平靜狀態。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾弗森",
+          "text": "如您所見，威廉警長，我們的小機器人表現出色。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾弗森",
+          "text": "據我們的調研資料顯示，“新人類”公司的公眾支持率正穩步提升，他們信任機器人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾弗森",
+          "text": "許多人期待著一個更安全、更平靜的倫敦。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "警長",
+          "text": "這位機器人先生的才能令人驚訝。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "挖掘藝術掙扎著從剛才的狀況中恢復過來，試圖表達自己的意見。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘藝術",
+          "text": "警長，不要相信他的胡言亂語！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘藝術",
+          "text": "倫敦需要天馬行空的藝術派對，需要能讓所有人發聲的文化集市……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘藝術",
+          "text": "倫敦屬於烏托邦。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘藝術",
+          "text": "我會辦一場讓更多人都樂在其中的盛會，屆時我們的理想將會成為各大報刊與新聞記者的寵兒，一場新的主流。所有人都會瞭解它，然後愛上它！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "警長",
+          "text": "是嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "警長",
+          "text": "但我們只接到了無數人的投訴，尤其是對你的！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘藝術",
+          "text": "大家只是需要一點時間來理解……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾弗森",
+          "text": "倫敦已經混亂了太久，需要一場徹底的、全方位的整治與肅清。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "警長",
+          "text": "我非常同意你的意見，艾弗森先生。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "警長",
+          "text": "我想，新蘇格蘭場也會認真考慮安保機器人在倫敦發揮更重要作用的可能性。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘藝術",
+          "text": "我反對！這是對公民權利的侵犯，是對自由的挑釁！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一陣急促的鈴聲打斷了挖掘藝術的慷慨陳詞。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "艾弗森攥起機器人肩上的話筒，就像撕扯一個玩具。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "安保員",
+          "text": "艾……艾弗森先生！大事不好了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "安保員",
+          "text": "“倫敦之心”不見了……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾弗森",
+          "text": "什麼——？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘藝術",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "慷慨陳詞者顯然注意到了這個能省下更多口水的逃脫時機。"
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED ..."
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

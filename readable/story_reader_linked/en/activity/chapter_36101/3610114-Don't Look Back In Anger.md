@@ -1,4 +1,4 @@
-# Don't Look Back In Anger
+# Don't Look Back in Anger
 
 - Chapter: Last and First Principles (`36101`)
 - Episode: `3610114`

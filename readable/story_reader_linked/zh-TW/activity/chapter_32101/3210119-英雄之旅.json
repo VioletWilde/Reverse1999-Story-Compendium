@@ -1,0 +1,763 @@
+{
+  "episode_id": 3210119,
+  "chapter_id": 32101,
+  "chapter_title": "遷流的盛宴",
+  "display_label": "",
+  "title": "英雄之旅",
+  "subtitle": "在故事開頭，這美妙的稱號，這人造的桂冠已賦予你。\n你沒有理由不愛它。",
+  "trails": [
+    {
+      "element_id": 3210301,
+      "owner_episode_id": 3210119,
+      "trigger_episode_id": null,
+      "title": "書封之上",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=3210119",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "在聖奧諾雷街的一家老書店裡，一本褪色的舊書引起了你的注意，其內容正是你現在想要瞭解的。你再次用手指撫過它燙金的書名："
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "《沙龍禮儀——由宮廷侍者撰寫》",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "是的，一本益於融入社會的書。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "《北非的獸群》",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "是的，一本能夠喚醒野性的書。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "《手持百合的愛人》",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "是的，一本點亮彼此靈魂的書。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "《幾何原本》",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "是的，一本追問世界本質的書。"
+            }
+          ]
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 3210407,
+      "owner_episode_id": 3210119,
+      "trigger_episode_id": null,
+      "title": "雖然並非皆大歡喜",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=3210119",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "於是我決定在最後再幫灰調藍一次。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "那真的是一場豪賭，當時連我也不確定結果會如何。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "結果我受益頗豐，使得更多人懷疑我早有圖謀，這就是占卜師的處境。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "您讓一個反派活了下來",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "但我也給足了她應有的處罰？"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "她不想消失，卻沒有想過或許餘生都將在一枚仿鑽中度過。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "而且我確實把她交到了灰調藍手中，她的生死並未由我決定。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "請放心，我看得還算清楚，雖然暫時看不到太遠的將來。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "但看不到雨後的部分，在當下根本不算損失。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "我甚至可以帶著些許期待，去觀察我女兒的未來能否有所改變，真是未曾有的體驗。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "現在來為這個故事點出一些寓意吧，這是我從灰調藍身上學到的道理——"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "當個笨蛋瞎子也不錯。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "從一無所知開始認清自我和世界，最後意識到自己仍然一無所知……是如此充滿樂趣。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "您的眼睛還好嗎？",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 3210501,
+      "owner_episode_id": 3210119,
+      "trigger_episode_id": null,
+      "title": "書封之上",
+      "description": "",
+      "action": "",
+      "unlock_condition": "ChapterMapElement=3210301",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "在聖奧諾雷街的一家老書店裡，一本褪色的舊書引起了你的注意，其內容正是你現在想要瞭解的。你再次用手指撫過它燙金的書名："
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "《沙龍禮儀——由宮廷侍者撰寫》",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "是的，一本益於融入社會的書。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "《北非的獸群》",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "是的，一本能夠喚醒野性的書。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "《手持百合的愛人》",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "是的，一本點亮彼此靈魂的書。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "《幾何原本》",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "是的，一本追問世界本質的書。"
+            }
+          ]
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "203228",
+      "internal_title": "【3.2】迁流的盛宴19",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "看來您不想為其他人的性命負責。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "您讓我來決定，如果我拒絕，就是我殺了她。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "這個問題比預料中來得更直接。貝麗爾稍作思考，再次點頭確認。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝麗爾",
+          "text": "你們的確很相似。關於那份求生的意志，以及一些面對命運的有趣反應。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝麗爾",
+          "text": "正因為相似，費利西安才能持久地借用你的軀體，影響你的意識。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝麗爾",
+          "text": "這樣合適的機會再沒有第二次了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她向阿黛拉伸出手。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝麗爾",
+          "text": "如果我沒有猜錯，你的朋友和曾經的費利西安死於同一個原因。此刻她應當回到了迷思海之中。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝麗爾",
+          "text": "留下費利西安，她會成為一個合適的研究對象，也許你能找到帶回朋友的辦法。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝麗爾",
+          "text": "或讓她以兇手的身份死去。往後的日子，你不必再受折磨。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "那……請您發誓吧。您承諾這些話都是真的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一雙懇切的眼睛，對上另一雙平靜而純粹的眼睛。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝麗爾",
+          "text": "我無法承諾。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝麗爾",
+          "text": "你應該清楚，神秘術的能力是有限的。你無法鑑別一句話或一顆心的真偽，正如我此刻看不清命運的流向。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝麗爾",
+          "text": "抓緊時間。把那顆鑽石給我，或拋棄它。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "阿黛拉猶豫著抬起胳膊。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "費利西安沒有再說話。也許她現在已不能開口。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她低著頭，阿黛拉第一次見到她垂下頭顱。\n熟悉的、趾高氣昂的神采從她身上消退了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "煩躁、疲倦與無處著落的憤怒席捲而來。\n最終，它們變成一聲嘆息。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "……拿去吧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她能確信自己怨恨費利西安。但她也並不期望看到這樣的屈服。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "請您救她。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "鑽石落入手心，貝麗爾合攏手掌。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝麗爾",
+          "text": "多謝。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝麗爾",
+          "text": "你們為我找到了答案。我會拿出相應的誠意。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝麗爾",
+          "text": "我說過很多次，你們的命運正在交匯。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝麗爾",
+          "text": "你在精神王國的旅途已經到了盡頭……但仍然可以留在物質世界的王冠之中。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝麗爾",
+          "text": "現在，到達世界盡頭的靈性，該前往下一個世界了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝麗爾",
+          "text": "收下它。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝麗爾",
+          "text": "作為你冒險之旅的勳章。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "是嗎……勳章。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "鑽石重新回到她的手中。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "它帶著血跡、溫度、淚水。它是她最後唯一擁有的東西。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "謝謝您。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "但您的眼睛……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝麗爾",
+          "text": "不必擔心。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝麗爾",
+          "text": "就像你之前說的，我走在岸上太久，對這份注視水流的能力習以為常。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝麗爾",
+          "text": "自以為能看清命運，可能比他人更容易受命運擺弄。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝麗爾",
+          "text": "所以我決定盡可能地看最後一次。就是這次了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她笑著指了指阿黛拉握緊的鑽石。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝麗爾",
+          "text": "一個小小的“仿製品”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝麗爾",
+          "text": "你的火焰將法蘭西之藍與它暫時寄身的煙晶分離。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝麗爾",
+          "text": "我只能為它另尋一副可寄宿的殼，希望你不介意白水晶製成的仿鑽。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝麗爾",
+          "text": "也希望你和費利西安都會滿意它。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "她還會醒來嗎？我還會像之前那樣產生幻覺，看見她和我說話嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝麗爾",
+          "text": "不再有幻覺了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝麗爾",
+          "text": "她會醒來，只是需要些時間。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝麗爾",
+          "text": "現在你是軀體，她是偷偷依附於你的精神。你們待在一起，她也許不會因靈與肉分離而被抹去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝麗爾",
+          "text": "所以別讓她離你太遠。否則這個小漏洞早晚會被發覺。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "鑽石的棱角刺痛了手指。阿黛拉感到指尖的血管在抽動，連帶著心臟一同擰緊。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一切誠如預言所示。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "連這顆藍鑽也很好地履行了它命定的職責，糾纏著它的所有者，成為一個如影隨形的詛咒。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝麗爾",
+          "text": "雨很快就會落下。該離開了。明天它的清洗便會完成。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝麗爾",
+          "text": "我很喜歡你的結局。但是否要跟上，這是你的自由。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "當戲劇落幕，觀眾也該適時離場。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "貝麗爾一直遵守著這套規則，她不打算為誰改變習慣。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "——貝麗爾女士！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "貝麗爾女士，您知道那個說法嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "人類的祖先是猿猴。我們都是由猴子進化而來。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "那麼世界上第一隻猴子從何而來？它最遠的祖先是誰？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "再往回推算呢？世界上最早的生命是如何誕生的？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "像這樣不斷溯源，能找到“最初的生命”嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝麗爾",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "您看，有許多事情都無法找出那個所謂的、唯一的、完全準確的決定因素。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "生命的誕生很複雜，受到許多條件的影響。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "我覺得命運也是同樣。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "還沒到結束的時候呢。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "朋友、家鄉、詛咒或預言，她曾有的期待與抗拒，都被一場雨變得不再重要。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "如果眼前只剩這個解釋，只有先抓住它。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "即使這只是一根輕飄飄的蛛絲。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "請您帶上我。告訴我該怎麼躲過您口中的“暴雨”！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她喊出了這句話——塔沃尼爾的詛咒或許已經觸發。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "這就是命運安排的目標。一個值得為之而死的目標。\n雨水帶走了一切，也終止了漫長的等待。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "在熟悉的生活被碾磨殆盡之後，她的冒險真正開始了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "我可以為您尋找您想要的寶石、答案、一切東西！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝麗爾",
+          "text": "作為報酬，你想從我這裡得到什麼呢？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "“暴雨”的真相。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她立刻給出了答案。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "我只想弄明白它，讓我的朋友和……費利西安回來。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝麗爾",
+          "text": "費利西安？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "她的結局不該在這裡。只是消失，對她來說……太輕鬆了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "占卜師聽完了每一個字，點了點頭。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝麗爾",
+          "text": "即使最後可能一無所獲，你也要和我一起離開嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "是的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "總不能乾等著糟糕的事發生，對吧？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "那條躲藏許久的小龍攀上她的肩膀，吐出一枚火球。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝麗爾",
+          "text": "是。而且，每個時代都不會缺少追逐寶石與水晶的客人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝麗爾",
+          "text": "我的店裡還缺一名能找到珍貴寶石的員工。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "我們該往哪裡去，貝麗爾女士？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝麗爾",
+          "text": "往前開。穿過人群，離開這裡。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝麗爾",
+          "text": "我會為你找出那條正確的道路。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "為您服務，女士。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "旅途愉快。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "貝麗爾最後望了一眼狂歡的人群。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "這座城市只是她用於安放自己的地方，一個盛放珍貴水晶的珠寶盒。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "但她還是願意再花些時間記住它——這一點時間，已經足夠了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她靠在副駕駛，閉上眼睛。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝麗爾",
+          "text": "接下來的很長時間裡，我應該無法提供過去那樣詳細準確的占卜了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝麗爾",
+          "text": "但“看不見”的感覺比想像中要好。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝麗爾",
+          "text": "如果的確有某個掌管命運的存在，我想祂也許是個瞎子。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "車載收音機的歌聲開始流淌。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝麗爾",
+          "text": "希望我醒來的時候，你已經到達了目的地。"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

@@ -1,0 +1,707 @@
+{
+  "episode_id": 10510,
+  "chapter_id": 105,
+  "chapter_title": "洞窟の囚人",
+  "display_label": "",
+  "title": "海賊の数学",
+  "subtitle": "なぞなぞの王様。ハハ、今回はツイてる。",
+  "trails": [
+    {
+      "element_id": 1051001,
+      "owner_episode_id": 10510,
+      "trigger_episode_id": null,
+      "title": "小道① 美しい偶然",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=510",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "ここは真理に満ちた、制限だらけの群落だと気付いたようだね。彼らにとっちゃ、腹が減ってもドーナツを見たら優先的にトポロジー構造が浮かび――つまりおもちゃによくある可愛い輪っか――とにかく、食べ物じゃないのさ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "紙に書かれたパズルは彼らにとって、最も飢えを和らげてくれるバタークッキー ――おっと、申し訳ないねぇ。あんたが手に持ってるそれのことじゃないよ。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "美味しくないけど",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "ああ、少し失礼かもしれないけどね、あんたが手にしてる物は多少年代物で――１８世紀のカビの匂いを発してるだろう？　そんな物を食べたら、お腹を壊してしまうと分かるはずだけどねぇ。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "認めざるをえないのは、そのカビが少し変わってるところさ。昔、とある商人の息子が夜空を眺めた時、星の答えを見つけてくれたことを思い出させてくれた。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "その若者は、星と太陽は時計師が操る精密な歯車のように既定の法則に従っていると、誰よりも確信していた。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "ゼウスの祖父すら彼の予言を実証したのさ！　とあるミスターが心血を注いで作った反射望遠鏡で空を見上げた時、一つの天体が精確に現れた。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "なんだっけねぇ…１９.６、数列の第８項、第７惑星、驚きの天空神ウーラノス。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "――神がこれを基に世界を創造したとしなければ、これほど美しい規律を説明する方法などないと思うだろう？"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "ところがあるのさ、そんな規律に意味なんてない可能性が。この数列の欠け目は明らかだ。あの星――つまり数列の第５項にあるべきだったそれは…もし存在するとしたら、どうして影の痕跡もないんだい？"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "神が間違えたか、私たちの目が節穴だったのか。あんたはどっちだと思う？"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "神が間違えた",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "あんたがつまらない現代人だということを忘れてたよ。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "でもわかっておくれ、今討論しているのは１８世紀の名残りなのさ。あの頃の人々は、全ての星には神の技を楽しめる生物が住んでいると思い込んでいたんだ。そして彗星で永遠に繰り広げられている温冷交代は流刑された罪人を罰するためだと思っていた――なんてロマンチックなんだろうねぇ。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "わたしたちの目が節穴だった",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "そう、その星はきっと存在する。そうさ、やっと見つかったんだ。ケレス…我らの偉大な数学王子はたった１時間でその軌跡を計算した。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "ああ、偉大な天文学、偉大な数学、偉大な創造されし世界よ。"
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "この美しい夢を終わらせたのは新しい発見さ――第８惑星が算出されたんだよ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "ケレス、ウーラノスじゃない星さ。人々はより精確な天文学データと計算でそれを発見した。商人の息子の数列神話も終わりを告げた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "お分かりの通り、これは不可能な謎解きなんだよ。最初から結果のあるようなものじゃなかったからねぇ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "ケレスを発見したのは、ちょうどその場所に存在していたからさ。あまりにも揺るぎなく、どんな考えにも左右されなかった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "それか、言い方を変えれば――私たちが数学を完璧に証明できるのは、自分たちで発明したからさ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "いい夢なんだよ、多分。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "さぁ想像してごらん。限りある身体で、ただ独り漆黒の山谷を歩いている姿を。やがて命からがらに叫び、神々からの返事を渇望する。すると突然、あんたは閃いて、奇跡的に山頂まで登り詰め、巨大な惑星がスカイラインから上昇するのをその目で確認するのさ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "全ては幻覚で混沌とした意識の中での出来事だとしても、あんたは創世の日出をその目ではっきりと見たんだよ。"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100515",
+      "internal_title": "第五章5-10.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "海賊の数学"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "レグルス",
+          "text": "なんでだ…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "レグルス",
+          "text": "ヴェルティに会って以降、どうしてこう毎回閉じ込められるんだよ！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "誰も見ていない気にも留めない場所で、ロックンロール海賊は頭を抱えていた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "レグルス",
+          "text": "出会ってそうそうスーツケースに押し込まれて、財団に閉じ込められて、今度は…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "レグルス",
+          "text": "あ！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "レグルス",
+          "text": "わかったぞ。すべてヴェルティのせいじゃないか！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "レグルス",
+          "text": "おーい！　やっとわかったぞー！　あんたらの誤算だ！　ヴェルティこそ最大の無理数じゃないか！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "地下牢の扉はビクともせず、彼女の言葉に耳を傾けてすらくれない。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "レグルス",
+          "text": "ムキー！　ん？　何か彫られて…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "レグルス",
+          "text": "「証明されし時、自由の扉開かれたり…」"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "レグルス",
+          "text": "うーん。つまり、あたしが無理数じゃないって証明すればいいってことか？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "レグルス",
+          "text": "こうやって、がんばって証明してるでしょうが！　バーカ！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "握りしめた拳を目の前の木の扉に激しく打ち付けた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "レグルス",
+          "text": "いっ！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "…痛みで思わずしゃがみ込む。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "…船長、証明する方法が間違っているのでは？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "わたくしの見解を述べますと、この島はピタゴラス主義と密に関係していると考えられます。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "レグルス",
+          "text": "う〜ん、ピタゴラスって…あのギリシアの数学者のことか？　直角三角形の辺の長さを証明したとかいう…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "レグルス",
+          "text": "そうはいっても、あいつは紀元前の奴じゃないか。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "彼らの成果には真の数学が含まれております。ですが、世間の価値観からすれば、濃厚な神秘学的特色を持つ不可思議な団体に見えるでしょう。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "万物を数字で見て、整数への崇拝心を持ち、豆を禁じ、宗教式の集団生活をする…すべてピタゴラス教団の特徴です。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "早期のピタゴラス教団は無理数の発見に伴い滅亡したゆえ、無理数に嫌悪感を覚えるのも無理はないと思います。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "かつて、ピタゴラスの弟子、ヒッパソスが２の平方根の存在を発見し、整数比を基盤とする信仰が崩壊の危機に瀕したとか…当の本人は海に投げ入れられたそうですぞ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "わたくしが思うに、彼らは整数を一種の模範的人徳とみなし、修行を通して序列を上げているのでしょう。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "また、彼らは万物すべてにパスコードが存在し、それを解くことで世界の真理を得られると盲信しているようです。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "レグルス",
+          "text": "そうか、わかったよ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "レグルスは、あっさり地面から起き上がった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "レグルス",
+          "text": "こんな保守的で、古くさくて、人道主義に欠けた評価システムなんてうんざりだ！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "レグルス",
+          "text": "あいつら、根本から見直すべきだぞ！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "自由を崇拝する海賊は牢屋の門前を数回行き来し、比較的緩くなっていた格子を引っ張りはじめた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "レグルス",
+          "text": "…脱獄してやる！！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "さすが船長、さっそくご自身が完璧な無理数であると証明してみせましたね。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "このAPPLeめに何かお手伝いできることがあれば…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "APPLeが自分の手を壁に押し当てたその時、急な揺れが２人を襲った。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "レグルス",
+          "text": "…なんだ、地震か！？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "鳥の羽ばたく音が洞窟内にこだまする。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "りんごの一等航海士は牢屋の隙間から抜け出し、注意深くあたりを観察した。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "アブラクサスがすべて同じ方向に向かっております。彼らの習性でしょうか？　それとも…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "レグルス",
+          "text": "うわっ…！　崩れるぞ！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "レグルス",
+          "text": "ゴホッ…ロンドン教管所の方がまだマシだな。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "幸いにも、崩れ落ちた石がこの客室を覆い尽くすことはなかった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "レグルスは再び脱獄計画を続けた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "先ほどの落盤のせいか、冷たい霧が洞窟内に充満していた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "だが、木の門はビクともしない。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "レグルス",
+          "text": "…ん？　なんだこの紙？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "レグルス",
+          "text": "アブラクサスが落としていったのか？　どれどれ…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "レグルス",
+          "text": "『不可能クイズ』…数学問題か？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "レグルス",
+          "text": "０.４、０.７、１、１.６、２.８、５.２、１０、１９.６…数字が八個、０.４から順に並んでる。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "下には天体記号が八つ…それぞれ、太陽、水星、金星、地球、火星、木星、土星、天王星ですな。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "数字の後ろの空欄に、正しい天体を当てはめる問題なのでしょうか。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "…もしや「完璧な証明」とは、このクイズを解くことなのでは？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "レグルス",
+          "text": "はぁ、数字に対応した天体を当てるだけってこと？　しらみつぶしにやれば、楽勝じゃん！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "レグルス",
+          "text": "APPLe、『ザ・タイムズ』のクロスワード王だったよな？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "それとこれとは、まったくの別物かと。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "艶やかなリンゴは下あごを撫で、この「不可能」とされるクイズを見定めている。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "このAPPLeめが考えますに、下の天体の「ある数値」が上の数字に当てはまるのではないかと。例えば半径、体積、自転周期など…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "レグルス",
+          "text": "うーん、その場合、太陽がちょっとデカすぎないか？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "突然の鳴き声がレグルスの思考を断ち切った。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "いつの間にか、小さな影がたくさん彼女の足元に集まっていた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "レグルス",
+          "text": "…おいおい、地下魔精がまた寄ってきてる！　あっち行け、この紙は食い物じゃないぞ！"
+        }
+      ]
+    },
+    {
+      "script_id": "100516",
+      "internal_title": "第五章5-10.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "お待ちください、船長。この魔精たち、何かを我々に伝えようとしておりますぞ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "ずっと太陽の記号を指さしております。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "レグルス",
+          "text": "プッ、変なの。この島では、魔精ですら数学がわかるっていうのかよ？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "レグルス",
+          "text": "太陽…待てよ！　太陽が選択肢じゃなくて、起点だったら！？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "レグルス",
+          "text": "二年前の『ザ・タイムズ』に、国際天文学連合会に関する報道があってさ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "レグルス",
+          "text": "太陽から地球までの平均距離は約９３００万マイル、水星までが約３６００万マイル、金星までが約６７００万マイル。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "レグルス",
+          "text": "地球と太陽間の距離を１天文単位とした場合、その近似値を取れば…水星は０.４、金星は０.７…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "レグルス",
+          "text": "やっぱり…この数字は惑星と太陽の平均距離の比だ！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "ひらめきが頭をかすめ、彼女は瞬時に前から三つの天体を埋めた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "これまでの曖昧な知識が、この上なく鮮明に脳裏に浮かぶ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "すべてがごく当たり前のように、道筋に沿うかの如く順調に進んだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "火星と太陽間の平均距離は約１.４２億マイル、木星は約４.８４億マイル、土星８.８６億マイル、天王星１７.８６億マイル。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "おおよその比率で、一部の小数点を切り捨てた場合…１.６は火星、５.２は木星、１０は土星、１９.６は天王星となるわけですが。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "…妙ですな。普段ならば、気にも留めたことのない天文学的数字が、今ははっきりと思い浮かびますぞ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "レグルス",
+          "text": "けど、今の方法だと２.８が埋まらない。火星と木星の間に空きが出るな。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "太陽を起点とした場合、たしかに天体が一つ足りませんな。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "だから「不可能」クイズなのでしょうか？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "レグルス",
+          "text": "ハッ、あたしに不可能などない！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "レグルス",
+          "text": "簡単だ！　きっと火星と木星の間に、この紙に書いてない惑星があるはず！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "突然地面が大きく揺れた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "レグルス",
+          "text": "…こ、今度はなんだ！？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "星が昇った。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "何の予兆もない、突然の出来事。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "この冷たい漆黒の洞窟の中――"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "それはそれは煌々とした、巨大な星が昇った。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "レグルス",
+          "text": "…何だこれ！？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "レグルス",
+          "text": "こんな惑星…一度も…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "…船長、わたくしめはこの惑星に覚えがありますぞ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "火星と木星の間に、たしかにこのような星がございます。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "これはケレスと呼ばれ、１８０１年ピアッツィと呼ばれるイタリア人司祭によって観測されております。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "レグルス",
+          "text": "ケレス…？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "レグルス",
+          "text": "つまり、あたしたちは再びそれを見つけたってことか？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "レグルス",
+          "text": "まさか、宇宙はこの数列に基づいて…惑星が配置されてる？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "レグルス",
+          "text": "つまりこれが…自然万物のパスコード？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "…レグルス！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "レグルス！！！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "誰かが焦った様子で手を振っている。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "リーリャ",
+          "text": "なにボケーっとしてんだよ。魔精でも食ったんじゃねぇだろうな？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "レグルス",
+          "text": "…うっ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "レグルス",
+          "text": "頭が痛い…あれ？　さっきのは…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "すべての惑星が消え、湿り気を帯びた霧と冷たい壁だけの洞窟に戻っていた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "目の前には、深刻な顔をしたリーリャがいる。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "リーリャ",
+          "text": "…手短に話すぞ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "リーリャ",
+          "text": "ソネットが拘束された。処刑されるかもしれん。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "レグルス",
+          "text": "………はぁ！？"
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

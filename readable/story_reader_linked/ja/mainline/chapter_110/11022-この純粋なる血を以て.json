@@ -1,0 +1,513 @@
+{
+  "episode_id": 11022,
+  "chapter_id": 110,
+  "chapter_title": "復楽園",
+  "display_label": "",
+  "title": "この純粋なる血を以て",
+  "subtitle": "乱れた金の糸が血によって鎮まる時を待とう。運命は再び、生きとし生けるものを認めてくれるだろう。",
+  "trails": [
+    {
+      "element_id": 101022,
+      "owner_episode_id": 11022,
+      "trigger_episode_id": null,
+      "title": "正と負の解",
+      "description": "誰もが結論を出したがっている。それゆえに、正反対の方向へと向かってしまう。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=1022",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "やっと通れたのか。もっと簡単に終わると思っていたが。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "なぜって、答えは既に何度も示されていただろう。それを見るには、自分の手で目を塞ぐだけ――君の敵の十八番だな。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "「手」とは制御のためにあるものだ。これは、君がこの旅で得た三つ目の教訓だな。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "一つ目と二つ目は自分で記録を振り返るといい。もう消化と排泄システムを見たはずだ。改めて説明すると長くなる。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "それはそうと、今回の行軍では眼球調査兵の誤情報を鵜呑みにして、命を落としかけたな。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "司令部である脳が速やかに反応したおかげで、最悪な状況は免れたが――"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "今後、似た状況を回避するためにも、副司令所なるものに正誤判断を任せたほうがいい。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "心臓に任せたい",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "止まることを知らない戦略的要、血液を調達する上で避けては通れない道。興奮時には激しく躍動することもできる。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "確かに脳以外で最も頼りがいがある場所だな。頼れないとしたら、それはもう大変なことになる。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "しかし残念だが、そいつは独立した意志を持たないほういい。機械的な鼓動にズレが生じれば、破滅を免れん。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "親愛なる要塞の出入り口。思想と栄養を見分け、必要なものだけに通行許可を出す場所。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "体からすると、外部との交渉はそれがなくては始まらない。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "だからこそ、そいつに勝手な真似をさせるわけにはいかん。でないと災いも病も同時に降りかかるに違いない。"
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "文芸評論家になってみたら？",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "ルネサンス期の芸術家のような言い回しで話がしたいわけじゃない。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "だが、私はミケランジェロの名作のように、あえてわかりづらい言い回しで君に伝えるしかないんだ。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "生命を生み出す鍵となる部位は、知恵の住処かもしれないし、命の始まりの場所かもしれない…"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "これで、少しは芸術がわかるようになったんじゃないか？"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "わたしは、わたしの口を信じたい",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "101029",
+      "internal_title": "第十章10-21.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "この純粋なる血を以て"
+        },
+        {
+          "kind": "title_card",
+          "text": "火山の神殿　溶岩の通路"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "その言葉に合わせ、神秘術の光が瞬いた。財団の職員と伝道者の目には、お互いの姿がはっきり映っていた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伝道者・ソフィア",
+          "text": "…それがあなたの答えね。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "はい。未来がどうなろうと、私は今この瞬間に取った選択肢を後悔しません。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "短い沈黙のあと、火山の奥にある神殿が激しく揺れ出した。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "タイムキーパー…？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伝道者・ソフィア",
+          "text": "…終わったようね。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "終わった？　なんのことですか…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "伝道者は答えず、手にした聖像を下ろし、ソネットに向かい歩く。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "ソネットは神経を尖らせたが、伝道者は何もせず、ただ彼女の脇を通り過ぎた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伝道者・ソフィア",
+          "text": "今日出した答えを覚えておくことね。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "遠ざかる伝道者の背中を追いかけようと財団の職員が足を踏み出した瞬間、視界の隅に閃光が走った。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "これは…"
+        },
+        {
+          "kind": "title_card",
+          "text": "火山の神殿　祭壇"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アニムス",
+          "text": "フッ…まだ生きておるとは。ほんに、溝のなかのネズミのようにしぶといのう。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アニムス",
+          "text": "蘇生の母の慈悲と許しを拒むのならば、死の運命を受け入れよ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ノーティカ",
+          "text": "危ない！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "巨大な獣はぎこちない動きで尻尾を振り、使徒の神秘術をかき消した。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ノーティカ",
+          "text": "ヴェ、ヴェルティ、どうしたらいい？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "黒い肉塊はうごめき、限界まで膨れ上がった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "まだ家に帰る時間じゃないよ、ノーティカ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "アルカナが完全に復活する前に、儀式を破壊しよう。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ノーティカ",
+          "text": "アルカナって、「スノーモンスター」たちが復活させようとしてる人？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "「スノーモンスター」の襲撃から生還した彼女はたたらを踏み、反撃…あるいは、「復讐」の準備を整えた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "ノーティカ、１時方向に。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ノーティカ",
+          "text": "う、うん！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "巨獣は縄のような骨を振りながら、うごめく肉塊へ向かうが、湧き出た漆黒の粘液が行く手を阻んだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ノーティカ",
+          "text": "っ…！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "上からいこう、ノーティカ。空から攻めるんだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アニムス",
+          "text": "甘ったれな虫けらどもめ！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "四方八方から襲いかかる黒い液体は細かい網になり、空を飛ぶ二人を捕まえようとうごめく。生まれたばかりで巨体に慣れない巨獣は、すぐにバランスを崩してしまった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ノーティカ",
+          "text": "わたしのしっぽが…！　ダメ、落ちちゃう――"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "I   know   the   moon,   and   this   is   an   alien   city."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "空中に書かれた術式は透明なカーテンと化し、焼け付くように熱い黒い液体を防いだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "ソネット！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "タイムキーパー、ご無事でなによりです。それから…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "えっと、ミス・ノーティカ…？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アニムス",
+          "text": "忌々しきネズミがもう一匹！　どうやって霧を乗り越えた…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "突然割り込んできた少女の手に握られた瓶が、その問いに答えた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アニムス",
+          "text": "…あのうさん臭い「伝道者」か。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アニムス",
+          "text": "無能で、浅はかな、愚か者め！　なんたるミスを犯してくれた！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アニムス",
+          "text": "やはりあの傲慢不遜な小娘なんぞに、大事な役目は務まらん。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ノーティカ",
+          "text": "ソネット、わたしにつかまって！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "巨獣が突風とともに接近した。大きな固い尻尾で敵の攻撃を弾いている間に、ソネットは飛び跳ね、ノーティカの足を掴んだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "登って！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "っ――！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "二人の手がきつく結ばれる。離ればなれになった仲間たちは、ようやく空中で再会を果たした。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ノーティカ",
+          "text": "やった、みんな揃ったね！　これならきっと儀式を止められるよ！"
+        }
+      ]
+    },
+    {
+      "script_id": "101030",
+      "internal_title": "第十章10-21.2",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "火山の神殿　祭壇"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アニムス",
+          "text": "…しぶといネズミに、卑しい虫けら…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アニムス",
+          "text": "愚かな無信者が…偉大なる蘇生の母に決められた運命を書き換えようとは…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "相手に圧倒されながらも、使徒は杖を高く上げ、気味の悪い笑い声をあげる。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アニムス",
+          "text": "まあよい！　時はきた！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アニムス",
+          "text": "真に蘇生の母が降臨なされるその瞬間、おぬしらの恐怖と悲鳴はもっとも美しい聖詩となるじゃろう。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "アムニスは真っ先にうごめく肉塊に向かい跪いた。神殿内に集まっていた信者たちも身体を伏した。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "周囲の粘液が湧き上がり、儀式を守る堅牢なバリアと化す。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ノーティカ",
+          "text": "これは――待って！　まさか、自分を生贄にしようとしてるの？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "教徒たち",
+          "text": "来たる未来の恩典はついに顕現の時を迎え、"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "教徒たち",
+          "text": "我ら信者はこの時より祝福を得たり。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "教徒たち",
+          "text": "至高なる御身の再臨を、"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "教徒たち",
+          "text": "我らは心より願い奉る。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "黒い服に覆われた身体が萎む。服が水に流され、そこにはもう何も残されていなかった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "流れる赤い血が徐々に黒く染まり、肉塊を走る血管となり、そのうごめきと共に脈打つ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "すごい神秘術の波動だ…まずい。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アニムス",
+          "text": "至聖なるとき、来たれり！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アニムス",
+          "text": "受難者の肉身はここに蘇る。我々に光をもたらし、誤謬を浮かびあげん。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アニムス",
+          "text": "あのお方は我々を導き、かの栄光を再び築き、約束されし楽園へと至らん！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アニムス",
+          "text": "この洪水をもって、偽りや醜悪さを洗い清め、はじまりへと導かん！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アニムス",
+          "text": "我々は…神秘学家が先導していた「空白の時代」へと戻るのだ――"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アニムス",
+          "text": "それこそが原初の楽園、我らが「理想郷」なり！"
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

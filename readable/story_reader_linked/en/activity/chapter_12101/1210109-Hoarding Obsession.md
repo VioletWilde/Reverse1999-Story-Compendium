@@ -1,6 +1,6 @@
 # Hoarding Obsession
 
-- Chapter: Green Lake Nightmare (`12101`)
+- Chapter: A Nightmare at Green Lake (`12101`)
 - Episode: `1210109`
 
 > Subtitle: A meeting of collectors.

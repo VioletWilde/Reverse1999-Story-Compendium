@@ -1,6 +1,6 @@
 # Where Ever Spring Stays
 
-- Chapter: 1987 Космическая Увертюра (`27101`)
+- Chapter: 1987 Cosmic Overture (`27101`)
 - Episode: `2710113`
 
 > Subtitle: I have seen many kinds of flowers—in small towns, in laboratories, on hurried journeys. They bloom so well, and so fragrantly.

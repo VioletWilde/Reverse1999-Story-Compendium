@@ -1,6 +1,6 @@
 # The Exiles
 
-- Chapter: chapter_1902 (`1902`)
+- Chapter: The Master of Theatrics (`1902`)
 - Episode: `190201`
 
 > Subtitle: The journey of an exile often signifies fate.

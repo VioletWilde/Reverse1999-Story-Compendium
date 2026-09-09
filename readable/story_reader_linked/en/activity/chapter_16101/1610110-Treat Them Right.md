@@ -1,6 +1,6 @@
 # Treat Them Right
 
-- Chapter: Notes on Shuòrì (`16101`)
+- Chapter: Notes on Shuori (`16101`)
 - Episode: `1610110`
 
 > Subtitle: For your safety, do not accept invitations from strangers to visit their homes.

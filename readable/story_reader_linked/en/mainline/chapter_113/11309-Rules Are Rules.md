@@ -1,6 +1,6 @@
 # Rules Are Rules
 
-- Chapter: 他者的悲哀 (`113`)
+- Chapter: On Another's Sorrow (`113`)
 - Episode: `11309`
 
 > Subtitle: What could be more pressing than the work right in front of us?

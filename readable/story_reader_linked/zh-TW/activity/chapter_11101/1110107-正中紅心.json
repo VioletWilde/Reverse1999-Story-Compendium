@@ -1,0 +1,604 @@
+{
+  "episode_id": 1110107,
+  "chapter_id": 11101,
+  "chapter_title": "雷米金盃失竊案",
+  "display_label": "",
+  "title": "正中紅心",
+  "subtitle": "在迷宮裡決定轉彎，就像一枚射出的子彈。",
+  "trails": [
+    {
+      "element_id": 11101071,
+      "owner_episode_id": 1110107,
+      "trigger_episode_id": null,
+      "title": "“主食”",
+      "description": "早些時候的“新聞”，其中充斥著字母意面和杜松子酒的氣息。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=1110107",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "藝術與藝術家"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "{p}諸位讀者們，我希望你們能樂於走近這個新奇的世界。\n{p}中等教育悄然普及，\n生活與娛樂在高歌中豐富，\n通俗藝術走入了大眾的視野。\n年輕人們不再矚目於嚴謹與\n意義重大的抽象主義，他們\n愛上線條，愛上色彩，愛上\n街頭文化中的一切。\n新的藝術也從此誕生。\n如果各位願意忽略那些在這場新風潮中過於標新立異\n的存在，也甘願釋懷某些飄浮在鏡子中的肥皂泡。\n毫無疑問，這會是藝術的勝利。\n當然，我們仍須謹記，走近藝術，且遠離藝術家。\n\n刊登於《倫敦評論》，《立場》專欄版，1965，12(31A)：11。{img}"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 11101072,
+      "owner_episode_id": 1110107,
+      "trigger_episode_id": null,
+      "title": "機會主義進階",
+      "description": "觀察，準備，等待。在缺乏公式應用條件時，每分每秒都應仔細把握。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=1110107",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "200111",
+      "internal_title": "【1.1】雷米特杯-7.1",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "溫迪",
+          "text": "汪、汪汪！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "小鬥牛犬咬著報紙在主人面前轉了一圈又一圈，像是在炫耀自己的戰利品。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "查爾頓",
+          "text": "溫迪！我說過很多次，不許撿路上的垃圾！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "溫迪",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "查爾頓",
+          "text": "你這次帶回來了什麼……？張嘴，啊！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "查爾頓先生把報紙拿在手上翻來覆去地看了幾遍。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "查爾頓",
+          "text": "幸好上面沒沾著什麼髒東西。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "溫迪",
+          "text": "吽……獒！獒！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "查爾頓",
+          "text": "哦，天啊，昨天的事情把我的腦子都搞暈了，差點兒忘了這麼重要的事兒。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "皮克勒斯",
+          "text": "嗚嗚……嗚。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "溫迪",
+          "text": "獒！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "皮克勒斯",
+          "text": "汪、汪汪。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "皮克勒斯",
+          "text": "汪汪。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "查爾頓",
+          "text": "哇哦——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "皮克勒斯",
+          "text": "狺。狺狺……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "皮克勒斯",
+          "text": "汪汪，汪汪。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "但壞事似乎源源不斷，沒有盡頭。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "查爾頓",
+          "text": "孩子們，快看看這個！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "查爾頓",
+          "text": "看看我們的小溫迪究竟帶回了什麼好消息——雷米金盃展覽今日開始！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "查爾頓",
+          "text": "我現在有了一個更棒的主意！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "查爾頓",
+          "text": "今天下午，我們去參觀雷米金盃的展覽，怎麼樣？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "溫迪",
+          "text": "汪嗚？！汪——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "皮克勒斯",
+          "text": "狺狺。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "查爾頓",
+          "text": "我聽說巡展中還會有抽獎活動，最幸運的傢伙能得到後續世界盃正賽的全程門票！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "查爾頓",
+          "text": "我們的小皮克勒斯一定能成為那隻幸運小狗，就像之前的每一次抽獎那樣！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "皮克勒斯",
+          "text": "狺……狺狺。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "皮克勒斯",
+          "text": "狺狺……？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "查爾頓",
+          "text": "你們一點也不興奮嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "查爾頓",
+          "text": "在那兒說不準能得到絕版的簽名足球……這樣我們的拋球遊戲又能用上新玩具了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "溫迪",
+          "text": "汪汪——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "聽到這句話後，悶悶不樂的小鬥牛犬如同一位成熟的運動員般，迅速調整了狀態，並且蹭上了查爾頓的腿。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "查爾頓",
+          "text": "哈哈！溫迪，冷靜點，我們還得進行民主投票環節。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "皮克勒斯",
+          "text": "汪……嗚。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "查爾頓",
+          "text": "現在，有人不願意去參觀雷米金盃嗎？請舉起你的手。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "小鬥牛犬在一旁興奮地打滾，皮克勒斯緩慢且堅定地抬起了他的爪子。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "查爾頓",
+          "text": "好的，全票通過！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "查爾頓蹲了下來，快速地和皮克勒斯擊了擊掌。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "皮克勒斯",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "皮克勒斯",
+          "text": "汪汪。汪汪汪。"
+        },
+        {
+          "kind": "title_card",
+          "text": "雷米金盃展廳·序廳"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "雷米金盃的展廳裡擠滿了遊客。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "兒童遊客",
+          "text": "媽媽，你看！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "兒童遊客",
+          "text": "那位叔叔的手在發出彩色的光！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "遊客",
+          "text": "你答應過我出來絕對不會吵吵鬧鬧的，寶貝，也絕對不會對著奇怪的東西大呼小叫。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "兒童遊客",
+          "text": "好吧……媽媽。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "挖掘藝術混在熙熙攘攘的人群中，他的手心裡藏著一瓶氣味濃郁的彩色液體。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘藝術",
+          "text": "呼……順利通過安檢。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘藝術",
+          "text": "新時代的勇士與他拿手的泡泡裝置成功抵達了決戰之地。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘藝術",
+          "text": "他們等待著一場強風。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘藝術",
+          "text": "這將會是歷史性的轉折時刻！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "展廳的天窗被密不透光的黑色幕布完全遮蔽，取而代之的是更加明亮的人造日光燈。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "牆壁上的窗戶也被封鎖得嚴嚴實實，只有幾個通風口有微弱的氣流流出。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "挖掘藝術在展廳裡逛了幾圈，終於接受了安保公司已經對現場進行相當細膩安排的這一事實。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘藝術",
+          "text": "該死的，怎麼會有這種事情？！外面的強風根本吹不進來！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘藝術",
+          "text": "缺乏空氣流動的世界就像一潭死水，根本無法吹起新世界的肥皂泡。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他四處環顧，改變了主意。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘藝術",
+          "text": "真正的藝術家絕對不會缺乏抗爭的勇氣與決心。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘藝術",
+          "text": "如果一切順利，我也能靠自己在半小時裡吹出足夠讓所有人沉醉夢境的繽紛海洋！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘藝術",
+          "text": "只要我的行動更加隱蔽點……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "挖掘藝術把泡泡裝置隨手擱在了距離他最近的通風口旁，裡面吹出的微弱氣流甚至不能讓泡泡裝置的風扇轉上半圈。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他像是臨終的戰士，為未來的勇者們留下希望的種子，然後便注視著正在不遠處巡邏的安保機器人，深深地吸了一口氣。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "三。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "二。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘藝術",
+          "text": "噗——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他勇敢地朝著人群吹出了一個又一個的彩虹肥皂泡。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "路人",
+          "text": "你們快看……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "路人",
+          "text": "怎麼會有人在室內吹泡泡啊？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "路人",
+          "text": "咳咳……好奇怪的味道。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "毫無疑問，安保機器人們迅速注意到了這邊的騷動。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "它們朝著挖掘藝術的位置步步進逼。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘藝術",
+          "text": "這才過去了一分鐘！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘藝術",
+          "text": "來不及了……這些泡泡根本不夠……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘藝術",
+          "text": "噗——！噗噗——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘藝術",
+          "text": "噗，咳咳咳……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "安保機器人們湧了上來。"
+        }
+      ]
+    },
+    {
+      "script_id": "200112",
+      "internal_title": "【1.1】雷米特杯-7.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘藝術",
+          "text": "喂、喂、喂——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘藝術",
+          "text": "說真的，你們該給一位藝術家符合他身分的尊重與待遇。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "這是一場註定失敗的戰役。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "但無畏的嘗試者值得更有價值的嘉獎。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾弗森",
+          "text": "又是你，可惡的街頭混混。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾弗森",
+          "text": "我真是搞不懂你們的想法。神秘學家都是如此的愚蠢和不自量力嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘藝術",
+          "text": "我並沒有倒下，艾弗森先生。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘藝術",
+          "text": "藝術的火種是無法熄滅的，就像我們對理想的永恆追求。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾弗森",
+          "text": "嘮叨的小子。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "門被從外面反鎖了起來。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾弗森",
+          "text": "雖然不知道你想要搞些什麼蠢事，但毫無疑問，你又失敗了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘藝術",
+          "text": "追逐理想並非蠢事，先生。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘藝術",
+          "text": "沒有堅定的追求，生命只會陷入糜爛的物質娛樂當中！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘藝術",
+          "text": "我深信……在不久的將來，人們將勇於為真正的理想發聲，為和平與愛歌唱！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾弗森",
+          "text": "我見過許多像你這樣虛無縹緲的年輕人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾弗森",
+          "text": "你們幼稚得令人發笑。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "短暫的躁動之後，對方的腳步聲漸漸遠去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "昏暗的房間裡陷入了長久的寂靜。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "連通風口吞吐灰塵的排氣聲也清晰可聞。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘藝術",
+          "text": "很好，他走遠了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他抬起頭，看著褐色的灰塵在排氣口處飛舞。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘藝術",
+          "text": "我已經進入到雷米金盃的展廳裡，不能在這時候功虧一簣。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘藝術",
+          "text": "攀爬通風管道這種行徑……只是為了喚醒人們叛逆精神而作出的一點小小的犧牲！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他關掉了附近的通風系統，移開了排氣口上的板磚。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘藝術",
+          "text": "咳咳……這看上去也太髒了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘藝術",
+          "text": "無論如何，至少比在這該死的牢籠裡浪費時間要強得多。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "挖掘藝術縱身一躍，堪堪搆著了那個狹小的入口。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘藝術",
+          "text": "漆黑一片……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他在模糊中艱難地向前移動，沒注意到有東西正從口袋中滑落。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘藝術",
+          "text": "噢——我的空想肥皂水！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘藝術",
+          "text": "該死，它們全弄到我眼睛裡了……咳咳……好癢啊……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘藝術",
+          "text": "塔利亞保佑，希望你們倒楣的副作用來得慢一些……"
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED ..."
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

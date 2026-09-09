@@ -1,6 +1,6 @@
 # White Moss
 
-- Chapter: Green Lake Nightmare (`12101`)
+- Chapter: A Nightmare at Green Lake (`12101`)
 - Episode: `1210110`
 
 > Subtitle: Oh! My mind trembles at its ethereality!

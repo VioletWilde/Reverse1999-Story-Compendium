@@ -1,6 +1,6 @@
 # To Former Strangers
 
-- Chapter: 1987 Космическая Увертюра (`27101`)
+- Chapter: 1987 Cosmic Overture (`27101`)
 - Episode: `2710109`
 
 > Subtitle: About the perfect moment to speak in defense of "me."

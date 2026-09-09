@@ -1,4 +1,4 @@
-# Main Story · The Prisoner in The Cave
+# Main Story · The Prisoner in the Cave
 
 - [10501 Bon Voyage](10501-Bon Voyage.md) — Be it the Thames or the Aegean, one must navigate carefully.
 - [10502 Treasure Hunt](10502-Treasure Hunt.md) — Secrets are hidden in the seams. Stretch out your hand, a bit further.

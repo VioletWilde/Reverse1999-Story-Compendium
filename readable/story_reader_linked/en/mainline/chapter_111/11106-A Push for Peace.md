@@ -1,6 +1,6 @@
 # A Push for Peace
 
-- Chapter: 行于漫漫长路上 (`111`)
+- Chapter: A Long Long Way (`111`)
 - Episode: `11106`
 
 > Subtitle: Inside the briefcase lies irrefutable evidence that peace is possible.

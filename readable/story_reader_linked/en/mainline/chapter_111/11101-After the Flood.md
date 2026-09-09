@@ -1,6 +1,6 @@
 # After the Flood
 
-- Chapter: 行于漫漫长路上 (`111`)
+- Chapter: A Long Long Way (`111`)
 - Episode: `11101`
 
 > Subtitle: A new era bearing many marks of another time, caught in an endless spiral of war.

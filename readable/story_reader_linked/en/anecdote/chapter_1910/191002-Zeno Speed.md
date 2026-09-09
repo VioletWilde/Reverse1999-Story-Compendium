@@ -1,6 +1,6 @@
 # Zeno Speed
 
-- Chapter: The Winds OF Juhalerat (`1910`)
+- Chapter: The Winds of Juhalerat (`1910`)
 - Episode: `191002`
 
 > Subtitle: The earth mocks the masses, bestowing dust and death as presents.

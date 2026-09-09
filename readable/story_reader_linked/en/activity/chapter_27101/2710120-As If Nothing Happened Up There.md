@@ -1,6 +1,6 @@
-# As If Nothing Happened Up There
+# As If Nothing Happened up There
 
-- Chapter: 1987 Космическая Увертюра (`27101`)
+- Chapter: 1987 Cosmic Overture (`27101`)
 - Episode: `2710120`
 
 > Subtitle: And yet, we remain forever on the road.

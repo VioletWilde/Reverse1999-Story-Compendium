@@ -1,0 +1,809 @@
+{
+  "episode_id": 11309,
+  "chapter_id": 113,
+  "chapter_title": "타인의 슬픔",
+  "display_label": "",
+  "title": "절차의 정의",
+  "subtitle": "눈앞의 일보다 더 중요한 게 있어?",
+  "trails": [
+    {
+      "element_id": 1130901,
+      "owner_episode_id": 11309,
+      "trigger_episode_id": null,
+      "title": "불변의 변화",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=11309",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "당신 모자 아래 있는 건 뭐죠?"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "머리",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "그러니까 이상한 게 당신의 관자놀이를 꿰뚫은 건 아니군요."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "정말 다행이에요. 정신병이 더 추가되면 못 견딜 것 같거든요."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "뼈가 머리에 박혔을 땐 의사를 찾아가는 게 좋아요."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "그럼 이 기회에 어디 자랑 한번 해봐요."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "외모를 뽐내는 것도 젊은이의 특권이랍니다. 늙으면 자랑할 게 머릿속 주름밖에 없거든요."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "그러니까 말년을 생각해서 머리에 뼈가 박히거든 얼른 의사한테 가봐요."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "여기저기 싸돌아다닐 정도로 괜찮다고 생각할 게 아니라."
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "그럼 난 벌써 죽었을 거야",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "그녀도 죽은 후에 다시 살아났잖아요."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "죽지 말아야 할 사람이 그렇게 많은데 하필 그녀가 그런 특권을 누리는군요."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "그녀는 그 특권을 믿고 제멋대로 굴었죠."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "저도 아프답니다. 무릎, 허리, 어깨... 비가 오든 안 오든 매일 골골하죠."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "그래도 전 제멋대로 굴 수 있는, 심지어 죽음까지 초월할 힘은 얻지 못했어요."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "사방에 민폐만 끼치는 게 하필 영원을 손에 넣다니..."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "세상은 진짜 망했어요."
+                }
+              ]
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "듣기만 해도 아픈데",
+              "edge_label": "",
+              "branch": []
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "내 얼굴",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "101316",
+      "internal_title": "第十三章13-09",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "절차의 정의"
+        },
+        {
+          "kind": "title_card",
+          "text": "재단 사무실"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "기동 부대장Ⅰ",
+          "text": "...수송대와 연락이 끊겼다고요?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "마침 사무실로 들어오던 ‘면도날’은 달갑지 않은 그 소식에 가면 뒤로 미간을 찌푸리며 내부를 살폈다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "남아서 본부를 지키고 있던, 그와 서로 잘 아는 기동 부대장들이 안에 자리했고, 그들을 불러 모은 미스 스트레인저는 책상 앞에 서 있었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "‘면도날’",
+          "text": "아, 다들 있었군요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "기동 부대장Ⅱ",
+          "text": "이쪽으로 앉으세요, ‘면도날’. 이제 막 이야기를 시작하던 참입니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "‘면도날’",
+          "text": "난 신경 쓰지 말고 계속해요. 그 수송대란 게 제1방어선 학교 지원 부대 같던데."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "미스 스트레인저",
+          "text": "관제 센터에서 그들과 연락이 안 되는 상태예요. 그들이 진짜 위험한 상황인지, 아니면 ‘폭풍우’가 통신에 영향을 끼친 건지 당장 확인이 어렵습니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "기동 부대장Ⅱ",
+          "text": "다른 부대를 보내 상황을 확인하는 건?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "미스 스트레인저",
+          "text": "안 돼요. 관제 센터는 ‘폭풍우’ 전에 외부로 병력을 더 보낼 수 없다고 했습니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "증원 제안은 거부당했다. 하지만 베테랑 기동 부대장들은 상부의 결정에 반기를 들 수 없었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "‘면도날’",
+          "text": "명령은 따를 수 있겠다만, 관제 센터가 그렇게 판단한 이유는 알고 싶군요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "미스 스트레인저",
+          "text": "인력을 계속 밖으로 돌리면 본부의 상황 통제력만 약화될 뿐입니다. 빈번한 인원 이동은 이 시간대에서 쉽게 혼란을 유발할 수 있고요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "미스 스트레인저",
+          "text": "관제 센터는 ‘폭풍우’가 끝난 뒤 상황을 파악하는 게 더 합당하다고 생각합니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "기동 부대장Ⅱ",
+          "text": "그럼 우리가 여기 모인 이유는 뭡니까, 미스 스트레인저?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "미스 스트레인저",
+          "text": "여러분의 기동 부대는 ‘폭풍우’가 끝난 후 즉시 수송대와 제1방어선 학교의 상황 파악에 들어갈 테니 미리 준비해 두셔야 합니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "미스 스트레인저",
+          "text": "하지만 작전이 시작되기 전까지 여러분보다 낮은 직급의 기동 부대원에겐 수송대 연락 두절 상황을 알리면 안 됩니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "미스 스트레인저",
+          "text": "관제 센터는 여러분의 일부 신입 대원이 충동적인 행동을 하지 않을까 우려하고 있습니다. 특히 일부... 마도학자가요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "‘면도날’",
+          "text": "이런 어려운 시기엔 인간과 마도학자가 함께 싸우는 법을 배워야 하죠."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "‘면도날’",
+          "text": "우리 부대 신입이 이 사실을 알면 확실히 골치 아플 것 같긴 하군요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "기동 부대장Ⅰ",
+          "text": "오즈번이 이끄는 부대는 규모가 크고 밸런스 우산까지 대량으로 지급됐으니 재건이 그들을 상대하기 쉽지 않을 겁니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "기동 부대장Ⅰ",
+          "text": "‘폭풍우’가 끝난 후엔 우리가 제1방어선 학교의 영웅이 된 그들을 보게 될지도 몰라요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "기동 부대장Ⅱ",
+          "text": "아, 미스 스트레인저, 나한테 타임키퍼 소대원의 ‘돌봄’을 맡겼잖아요. 뭐, 다들 맡은 일은 잘한다고 할 수 있어요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "기동 부대장Ⅱ",
+          "text": "...자칭 공해의 해적이란 녀석은 빼고요. 벌써 다른 이들을 데리고 재단에서 탈출할 계획까지 짰던데요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "미스 스트레인저",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "미스 스트레인저",
+          "text": "‘면도날’, 당신이 레굴루스에게 이야기 좀 해줄 수 있을까요? 에게해에서 그녀의 목숨을 구해준 적도 있잖아요. 당신 말이라면 들을지도 몰라요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "미스 스트레인저",
+          "text": "여기 임무 브리핑 자료입니다. 보안을 철저히 유지하고, 안전하게 보관하십시오."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "미스 스트레인저가 각 부대장에게 지령서를 나눠주었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "미스 스트레인저",
+          "text": "각 부대장님은 관제 센터의 지시에 따라 움직여 주시길 바랍니다. 이제 폭풍우 전 마무리 작업을 하러 가보셔도 됩니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "기동 부대장들이 명령을 받고 자리를 떠나자 미스 스트레인저도 사람들을 따라 방을 나설 채비를 했다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "‘면도날’",
+          "text": "어디로 가십니까, 미스 스트레인저?"
+        },
+        {
+          "kind": "title_card",
+          "text": "재단 입구 접수처"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "병사Ⅰ",
+          "text": "아니, 이걸 다 밖에 갖다 버리란 얘깁니까?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "낡은 군복 차림의 병사가 커다란 짐 보따리를 끌고 접수대 앞으로 왔다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "등기 담당자",
+          "text": "...그럼 어떻게 합니까?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "등기 담당자",
+          "text": "선생님, 군 시스템에서 이미 명확하게 고지했을 텐데요. 군용 장비가 아닌 이상, 20킬로그램을 초과하는 개인 물품은 휴대할 수 없다고."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "등기 담당자",
+          "text": "근데 아무리 봐도 그 보따리 안에 있는 건 ‘개인 물품’ 같네요. 선생님과 더 다투고 싶지 않습니다. 뒤에 사람 많은 거 안 보이세요?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "병사Ⅰ",
+          "text": "책상머리에만 앉아 있는 댁들이 뭘 알아!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "병사가 씩씩거리며 프런트 데스크의 재단 마크를 가리켰다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "병사Ⅰ",
+          "text": "지난 석 달 동안 난 이 마크를 위해 전방에서 재건과 목숨 걸고 싸웠어. 근데 날 이딴 식으로 대접해?!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "병사Ⅰ",
+          "text": "이건 내 동생한테 줄 물건이야. 중대장님이 여기서 무슨 ‘계약서’에 서명하고 잠시 있다가 떠날 거라고 하셨는데, 내가 왜 저걸 내다 버려야 하냐고!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "곧 다툼이 벌어질 듯해 보이자 입구를 지키는 재단 보안 요원이 점점 몰려들었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "재단 보안 요원",
+          "text": "진정하시고, 규정을 초과한 물품은 이리 주시죠."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "재단 보안 요원",
+          "text": "선생님 뒤로 재단에 들어와 ‘군 복무 계약서’에 서명해야 할 분이 아직 많습니다. 저들의 시간도 소중하지 않습니까?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "병사Ⅰ",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그와 함께 온 다른 병사가 앞으로 다가왔다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "병사Ⅱ",
+          "text": "시키는 대로 해, 아서. 여기 재단 사람들도 우리 마을 행정 직원과 다를 바 없는 거 알잖아."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "병사Ⅱ",
+          "text": "저들은 뒤에 숨어서 아무것도 몰라. 네모 칸에 깨알 같은 글자로 가득한 종이가 전부인 줄 알지. 저런 사람들과 괜히 힘 뺄 필요 없어."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "전우의 설득에 병사는 결국 자신의 휴대 물품을 버리기로 했다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "병사Ⅰ",
+          "text": "...흥."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "로비 반대편에서 누군가 이 장면을 지켜보고 있었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "드루비스",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "또 다른 이가 그녀의 옆으로 다가왔다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "미스 스트레인저",
+          "text": "여기서 뭐 하세요, 드루비스 씨?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "드루비스",
+          "text": "그냥... 와봤어요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "드루비스",
+          "text": "보통 이 시기엔 소수의 파견 인력만 급하게 돌아오잖아요. 이 많은 군인이 본부로 들어오는 건 처음 보네요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "드루비스",
+          "text": "저들은 재단의 제복으로 갈아입고 싸우기 위한 무기를 챙겨 자신의 조국과 시대, 그리고 가족과 곧 작별하겠죠."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "미스 스트레인저",
+          "text": "그건 여기서 할 얘기가 아닌 것 같네요. 저기서 등록 중인 사람 대부분은 시대의 ‘문제’를 모르니까요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "드루비스",
+          "text": "지난 몇 달 동안 재단 병사는 계속 재건과 싸워왔잖아요. 저들이 정말 적에게서 ‘폭풍우’에 대한 얘기를 듣지 못했을까요?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "미스 스트레인저",
+          "text": "이 시대 사람에게 ‘폭풍우’의 존재를 비밀로 하는 게 재단의 규정이죠. 그들이 알든 모르든 상관 없이요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "드루비스",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "미스 스트레인저",
+          "text": "왜 그러시죠?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "드루비스",
+          "text": "그 말투... 혹시 비꼬는 건가요? 재단의 정책이 엉터리라고?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "미스 스트레인저",
+          "text": "제가 그렇게 말하진 않았는데요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "드루비스",
+          "text": "...버틴이 당신 얘길 한 적이 있어요. 재건의 손에 깊숙이 잠입해, 자신이 아닌 다른 누군가가 되기 위해 스스로를 몰아붙였고, 후회할 일들을 저질러야만 했다고 들었습니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "드루비스",
+          "text": "당신은 재단을 위해 말도 못 할 만큼 큰 대가를 치렀겠죠. 당신이 겪은 일들을 생각하니 마음이 좋지 않습니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "드루비스",
+          "text": "재단으로 다시 돌아왔음에도, 당신은 여전히 자신의 역할이 마음에 들지 않는 모양이군요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "드루비스",
+          "text": "그럼 당신은 어떤 사람이 되고 싶나요?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "미스 스트레인저",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "미스 스트레인저",
+          "text": "잘 모르겠어요. 아니면 그런 걸 생각할 겨를이 없다고 해야 할까요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "미스 스트레인저",
+          "text": "재단이 저에게 준 건 새 역할이 아닌 새 업무예요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "드루비스",
+          "text": "...나와 나머지 타임키퍼 소대원이 사고를 치는 건 아닌지 확인하러 온 건가요?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "드루비스",
+          "text": "이제 예전 같은 일은 없을 거예요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "미스 스트레인저",
+          "text": "네, 그럼 그 문제로 더 걱정하지 않아도 되겠군요. 재단의 결정을 믿어주셔서 감사합니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "드루비스",
+          "text": "난 재단을 믿지 않아요. 그건 지금도 변함없어요. 재단이 진정한 질서와 평화를 가져올 거라고 자신을 설득하기 어렵거든요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "미스 스트레인저",
+          "text": "저한테 그런 말씀은 안 하시는 게 좋을 텐데요, 드루비스 씨."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "하지만 미스 와이어하우저는 그 충고를 받아들이지 않았다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "드루비스",
+          "text": "아무것도 모르는 사람을 재단으로 데려와 ‘폭풍우’로 과거의 모든 것과 결별하게 만들고 재단을 위해 일하게 하잖아요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "드루비스",
+          "text": "뿌리가 잘린 채 ‘목재’가 되어버린 나무처럼..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "드루비스",
+          "text": "내가 재단에 남은 건 버틴이 날 불렀기 때문이에요. 그녀와 함께하기로 한 건 내 선택이죠."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "드루비스",
+          "text": "스스로 내린 선택이라면 주저하지 않겠죠. 하지만 자신도 모르는 사이 치르게 된 희생을, 과연 얼마나 많은 사람이 이해할 수 있을까요?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "드루비스",
+          "text": "강요받기를 원하지 않는 사람들은, 세상의 다른 어딘가에서 피난처를 찾고 싶어 하지 않을까요?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "미스 스트레인저",
+          "text": "사람들이 재건 쪽으로 투항할 거란 얘긴가요..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "드루비스",
+          "text": "그리폰 군단도 있죠. 아니면 예전 아페이론 학파의 섬처럼, 우리가 모르는 어느 피난처도 있겠고."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "드루비스",
+          "text": "그 선택지가 늘어난다면 재단의 일관된 방식이 얼마나 더 버틸 수 있을까요?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "드루비스",
+          "text": "——!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "미스 스트레인저",
+          "text": "...전 구역 경보?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "요란한 경보 소리가 사방에서 울리기 시작했다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "이건 좀처럼 듣기 힘든 음률과 박자의 조합이었다. 대다수의 사람이 곧장 반응하지 못할 정도로."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "등기 담당자",
+          "text": "이건... 또 무슨 문제가 생긴 건가?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "병사Ⅰ",
+          "text": "포격? 아니면 방공 경보?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "조사원Ⅱ",
+          "text": "모두 질서를 지키며 다음 방송이 나올 때까지 기다려 주십시오."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "드루비스",
+          "text": "‘폭풍우’로 인한 이변인가요? 아니면 제1방어선 학교 말고 다른 곳도 습격받은 걸까요?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "미스 스트레인저",
+          "text": "아니, 이건..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "정보원은 창백한 얼굴로 뒤쪽의 위원회 건물을 향해 몸을 돌렸다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "미스 스트레인저",
+          "text": "이건 재단 본부에 심각한 위기가 발생했단 경보예요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "미스 스트레인저",
+          "text": "드루비스 씨, 즉시 타임키퍼 소대에 합류하고 비상 방송의 지시에 따라 안전한 곳으로 이동해 주세요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그녀는 급히 자리를 떠났다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "드루비스",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "경보 발령. 본부에 현재 적대 세력의 공격으로 재단의 긴급 대피 절차가 시작되었습니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "방송",
+          "text": "모두 현장에 있는 상급자의 지시를 따라 가까운 대피 시설로 이동하고 다음 지시를 기다려 주십시오."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "방송",
+          "text": "이번 긴급 대피 절차는 연습이 아닙니다. 반복합니다... 현재 적대 세력의 공격으로 재단의..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아르카나",
+          "text": "이건 정말, 예상했던대로네요..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아르카나",
+          "text": "이 새하얀 요새는 불청객에게 베풀 예우 따위는 모르는 모양이네요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아르카나",
+          "text": "그렇지만 저도 물러날 생각이 없답니다"
+        },
+        {
+          "kind": "title_card",
+          "text": "재단 남쪽 화원"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "우스트리나",
+          "text": "힘도 좋아."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "일메크",
+          "text": "저 사람들, 무서웠던 모양이구나."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "일메크",
+          "text": "하아, 이런 방법은 쓰고 싶지 않았는데."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아르카나",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "우스트리나",
+          "text": "...안내하는 자여."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "자리한 추종자들은 위원회 건물로 들어가는 그들의 신을 지켜보았다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "타이라",
+          "text": "제1방어선 학교로 간 재단의 수송대는 어떻게 됐소이까?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "크루토프",
+          "text": "그들은 다시 돌아오지 못할 거다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "타이라",
+          "text": "좋소이다. 그럼 시간 낭비할 필요가 없겠구려."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "크루토프",
+          "text": "흥... 너의 그 칼이 쓸만해야 할 텐데 말이야."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "왜곡된 무늬의 게딱지에서 시선을 뗀 크루토프는 고개를 돌려 자신의 군대와 마주했다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "크루토프",
+          "text": "각 돌격팀은 위원회 건물로 들어가 모든 출구를 봉쇄하고 저항하는 적을 모조리 없애도록."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "크루토프",
+          "text": "우리는 오늘 위선과 오만으로 가득 찬 저 높은 탑을 무너뜨릴 것이다!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "재건 병사Ⅰ",
+          "text": "알겠습니다!"
+        },
+        {
+          "kind": "title_card",
+          "text": "재단 복도"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "재단 직원Ⅰ",
+          "text": "도, 도망쳐..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "재단 직원Ⅱ",
+          "text": "재건의 손... 재건의 손이다!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "미스 스트레인저",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "하얀 그림자가 그녀의 옆을 스쳐 가고, 탄환과 마법이 처음 충돌하는 소리가 비좁은 복도에서 울려 퍼졌다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "귓가의 발소리가 점점 잦아들었다. 가야 한다. 인파를 거스르며 계속 앞으로 나아가선 안 된다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "당신이군요..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아르카나",
+          "text": "그 소리에 미스 스트레인저가 고개를 들었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아르카나",
+          "text": "...그레이스, 인간에 의해 새장에 갇힌 나방."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "미스 스트레인저",
+          "text": "아르카나, 아니, 말도 안 돼..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아르카나",
+          "text": "긴장할 거 없어요. 난 그냥 답을 얻기 위해 재단에 온 거니까."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아르카나",
+          "text": "난 당신 이름이 참 마음에 들어요. 당신이 보여준 헌신도 잊지 않았답니다. 안타깝게도... 당신은 내 곁에 남는 길을 택하지 않았지만 말이에요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아르카나",
+          "text": "이리 와요. 늦었지만 작별 선물을 줄게요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "미스 스트레인저",
+          "text": "——!"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

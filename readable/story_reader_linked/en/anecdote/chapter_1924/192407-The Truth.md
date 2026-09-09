@@ -1,6 +1,6 @@
 # The Truth
 
-- Chapter: Away From Home (`1924`)
+- Chapter: On the Road (`1924`)
 - Episode: `192407`
 
 > Subtitle: Some mistake pain for a truth serum.

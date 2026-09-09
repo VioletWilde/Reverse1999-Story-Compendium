@@ -1,6 +1,6 @@
 # Thorny Thicket
 
-- Chapter: 他者的悲哀 (`113`)
+- Chapter: On Another's Sorrow (`113`)
 - Episode: `11313`
 
 > Subtitle: Life finds a way, as it always has.

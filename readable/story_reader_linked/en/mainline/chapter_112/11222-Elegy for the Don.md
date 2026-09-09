@@ -1,6 +1,6 @@
 # Elegy for the Don
 
-- Chapter: 远征记 (`112`)
+- Chapter: The Campaign's Tale (`112`)
 - Episode: `11222`
 
 > Subtitle: The tattered banner still billows in the wind as the first snow falls.

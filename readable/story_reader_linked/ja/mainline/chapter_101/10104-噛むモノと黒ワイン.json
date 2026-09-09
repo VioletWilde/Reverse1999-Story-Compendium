@@ -1,0 +1,287 @@
+{
+  "episode_id": 10104,
+  "chapter_id": 101,
+  "chapter_title": "われらの時代",
+  "display_label": "",
+  "title": "噛むモノと黒ワイン",
+  "subtitle": "数枚の金貨。切断された1本の指。そして大量の酒。",
+  "trails": [
+    {
+      "element_id": 1010401,
+      "owner_episode_id": 10104,
+      "trigger_episode_id": null,
+      "title": "ウォール街デイリーニュース",
+      "description": "魔精はどこにでも存在し、人々を困らせる。しかし、それを捕まえることは困難。聞くところによると、専門の質屋さんが魔精を買い取ってくれるらしい。彼らは魔精を以下のように分類している。あなたが遭遇したのはどの種類の魔精なのか？",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=10103",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "『ウォール街デイリーニュース』の折り込み広告"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "お小遣い稼ぎは、C.C魔精質屋へ！\n電話：847-6861XXX\n\nあの狡猾でずる賢く、どこにでも現れる魔精に頭を悩ませていませんか？でも悪いことばかりではありません！実は魔精を1匹捕まえれば、お金になります。それも次回の家賃を支払うのに十分な金額です！私たちは全米で最も適正な価格区分による公平な取引を実施しております。安価なカーバンクルから、非常に高価でその美味しさに思わず飛び跳ねるラポレートまで、当店が何でも買い取ります。PS：買い取った魔精は、国際人道主義基準に基づき家族同様に扱うことをC.C店長が保証します。"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100105",
+      "internal_title": "第一章1-5.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "噛むモノと黒ワイン"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "ここも隠し場所として、安全ではないようですな…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "…もう出かけないと。その間、肌身離さず持っているよ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "えっと、レグルス…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "レグルス",
+          "text": "あん？　な、なんだその心配そうな顔は！？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "レグルス",
+          "text": "心配すんなって。ソネットがディスクを一枚くれたんだ。本部まで一飛びだぜ！"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "早く帰ってきてね",
+          "edge_label": "早点回来",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "レグルス",
+              "text": "わかったって、そんな表情するんだな。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "何かあったら逃げて",
+          "edge_label": "记得打不过就跑",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "レグルス",
+              "text": "――"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "レグルス",
+              "text": "け、ケンカしにいくわけじゃないんだから！"
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "レグルス",
+          "text": "そんじゃ！　このタダ旅行を目一杯楽しんでくるぜ、きしし～♪"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "私たちも行きましょう。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "目的地はリンキンパークストリート２１２２番にある地下ガレージです。ここから２ブロック先にあります。今出発すれば余裕で間に合うでしょう…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "あ、あの…バスで向かうのはどうでしょう？"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "うん、風景を楽しもう",
+          "edge_label": "没问题，好好欣赏风景吧",
+          "branch": []
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "ふぅ…寒いですねぇ。凍結しそうですぞ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "そうですか？　いたって平温だと思いますが…いつもの低温訓練に比べるとだいぶ温かい方です。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "情報によると、事件発生まで１時間ですね。ふむ…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "となると、入口から壁までの距離と…念のためにここにもマーク…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "今描いているのは…もしや、かつての被害者たちの位置ですか？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "ええ、実際の距離まで正確な比率で再現させました。これでいち早く彼らを保護でき、かつ、いつでも戦闘体勢に入れますから。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "人命にかかわることは特に慎重に遂行したいんです。もしものことがあったら…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "いえ、気にしないでください。自分の心配をしているわけではないんです。ただ…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "大丈夫。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "彼らが知ることはない。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "しっ…！　誰かが来ましたぞ！　――あれは…酔っ払い！？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "ここをうろつかせるわけにはいきません、危険すぎます！　\n戦闘になれば、きっと巻き添えに…"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "早く気絶させよう",
+          "edge_label": "赶紧打晕他们",
+          "branch": []
+        }
+      ]
+    },
+    {
+      "script_id": "100106",
+      "internal_title": "第一章1-5.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "彼らの様子は？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "皮膚損傷５mm未満…いまのところ内臓や心相に異常はありません。以上から見るに、『財団緊急保護規範』の範囲内です。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "しばらくは目を覚まさないはず。ひとまず彼らを、車の下に隠しておくとしよう。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "もう時間がない。早く隠れ…ミスター・APPLe、どうしたの？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "…そやつらのポケットから咬噛銭貨一袋と、子どものものと思われる指が出てきました。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "咬噛銭貨はたしか、神秘学界の間でのみ使用される通貨でしたよね？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "もしかしたら…ただの偶然で…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "ここは１９２９年、種別差別が最も多かった時代です。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "…だからこそ、なおさらこの大虐殺を阻止せねばなりません。人類の平和のためにも。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "静寂な地下ガレージの外から、突如けたたましいブレーキ音が鳴り響いた――"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "事件発生までまだ３０分あるはず。まさか誰か事前に…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "「ダン！　ダン！　ダン――！」"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "これは…銃声！？　そんな、まだ神秘学家たちが入ってきてないのに――"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "――やられた。行こう！"
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

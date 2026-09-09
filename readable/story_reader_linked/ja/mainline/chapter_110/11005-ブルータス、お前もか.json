@@ -1,0 +1,610 @@
+{
+  "episode_id": 11005,
+  "chapter_id": 110,
+  "chapter_title": "復楽園",
+  "display_label": "",
+  "title": "ブルータス、お前もか",
+  "subtitle": "愛しい裏切り者よ。黄金を授けられたか？",
+  "trails": [
+    {
+      "element_id": 101005,
+      "owner_episode_id": 11005,
+      "trigger_episode_id": null,
+      "title": "次の一手",
+      "description": "盤面の展開をあれこれ推測する方が、自分でやるよりよっぽど楽しい。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=11005",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "よくやった。アメリカ、ブラジル、さらにオーストラリア。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "南太平洋で船旅を楽しみ、アルゼンチンを経由して、ようやくこの地に降り立つことができた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "君の敵は立て続けに敗れ、幾度もの撤退の果てに、ついには南極まで追い詰められた。そのすべてのきっかけは、たったひとつの命令だ――"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "「あの作家を見つけろ」"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "明確な計画も、目標になる場所も、時間制限もない。協力者数は一つの班にも満たない。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "不可解だな。入隊したばかりの若造並みに積極的に動く理由はなんだ？"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "わからない",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "一つ、推測がある。君は本能的に、決められた道を歩む。それによって、暗がりから覗く者たちの欲望を満たしているんだ。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "それこそが、君の「神秘術」なんだろう？"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "忘れるな、君は軍人ではない。ましてやボーイスカウトでもない。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "だから軍人の規則に縛られる必要はない。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "一つ忠告しておこう。命令に従う前に、そうする理由を考えろ。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "なぜならば、君はこれから敵の本拠地に突入することになるかもしれないからだ。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "そういった状況で盲目的に命令に従う奴らは、大概が「使い捨ての弾丸」で終わる。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "この疑問を忘れずに持っておけ――なぜあの作家を探すのか？"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "軍人が命令に従うのはあたりまえだ",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1010051,
+      "owner_episode_id": 11005,
+      "trigger_episode_id": null,
+      "title": "職場での立ち回り術",
+      "description": "言葉の裏を読み、表情から意図を察する。極地ですら役に立つ、職場でのとっておきの知恵。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=11005 and ChapterMapElement=101005",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "引き返せ、口と鼻を押さえろ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "心の準備ができていないなら、自分で確認するのはやめたほうがいい。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "素人のせいで、ここはひどい有様だ。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "どうなってるのか説明して",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "隠喩表現は得意じゃないが、まあいい。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "ショートケーキが壁に潰され、野犬に食いちぎられたパンが地面に散らかっている。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "あとはイチゴジャムだ。どこもかしこも、イチゴジャムにチリソース…チッ、腐ったブドウを踏み潰したかもしれん。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "ご覧の通り、ここにはたくさんの人がいたようだ。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "まぁ、今となっては、人数すら判断できないがな。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "少しでも正義感のある奴なら、こうなる前に止めようとしたはずだ。"
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "ずいぶん含みのある言い方だね",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "いや、私は命令に従うただの兵士だ。善悪を語る資格などない。だが、忠誠心についてなら語ることができる。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "指揮官が賢明なら、兵が忠誠心を保つのはそこまで難しいことじゃない。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "その代わり、そいつが無能か、捉えどころのない人物であれば、忠誠を誓うのが難しくなる。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "忠誠心を見せびらかしたいのなら、狂気じみた、愚かで無茶苦茶な指揮官に従い、そのうえで自分の行動を理解している必要がある。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "あの中尉は、絶対的な忠誠からは程遠いようだな。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "これを見たとき、彼女はきっと吐き気をこらえたことだろう。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "フッ、これだから若者は。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "自分の目で見たい",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "101005",
+      "internal_title": "第十章10-04",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "ブルータス、お前もか"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "「シュー」"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "鉛でできた細い矢が胆嚢に直撃する。胆汁が噴き出し、血肉が飛び散る。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ミス・グレイス",
+          "text": "…ほぼ…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "若い使徒は顔色を真っ白にしながら、息も絶え絶えに口を開いた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "なんじゃってぇ？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ミス・グレイス",
+          "text": "…ほぼ半数のマグヌス潜水艦が沈没しました。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "もっと大きな声で話さんか。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "その高貴な振舞いを今すぐやめなさい。ワシはそんな態度で丸め込まれるほど愚かではないわ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ミス・グレイス",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ミス・グレイス",
+          "text": "ほぼ半数のマグヌス潜水艦が、沈没しました。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "それでけっこう！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "鉛でできた矢が、もう一つの的に照準を合わせた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "ようやくじゃ…陳腐な白い奴らがようやく、本気を見せたのう。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "矢が発射された。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "寒さで紫色になった肉の中から悪臭漂う脂肪が流れ出す。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "――そうこなければのう。このままでは誰もがあの「伝道者」の足元にひざまずき、あ奴の「万能感」を崇拝していたであろう。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "無地の布をまとった年寄りの女性は、裾を引きずりながら的に近づいた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "「謎の島の優秀な校正者」、「秘なる伝授者が眠ったあとの唯一の指導者」、「偉大なる儀式の最高祭司」…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "「ブシュッ――」"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "鳥の頭蓋骨に嵌め込まれていた球体が握りつぶされた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アニムス",
+          "text": "誤った者が、正しいタイミングに現れただけのことじゃ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アニムス",
+          "text": "秘なる伝授者の声が聞こえるじゃと？　ハッ！　よくもそんな嘘を編み出し、数多の信仰心を掻っ攫ったものじゃな…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アニムス",
+          "text": "我々が後方の聖地で儀式に必要なものを用意している間、全世界で「伝道」しおって。人々の心と権力をすべて握り、すっかり得意げになっておるわ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アニムス",
+          "text": "物資の運搬、人員の配置、マヌス・ヴェンデッタの偉大なる歴史…新入りの小娘に何がわかる？　ワシがおらねば、あ奴は何者でもなかろうに。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ミス・グレイス",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アニムス",
+          "text": "ああ、おぬしのことを言っておるのではない。じゃが、おぬしも気をつけるんじゃな。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アニムス",
+          "text": "儀式に必要な材料を持ってこれたとはいえ、「フリーブリーズ号」の件はあまりにも目立ちすぎじゃ。今や南半球は全世界に注目されておる。それもこれも、おぬしのおかげじゃ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アニムス",
+          "text": "じゃからおぬしのような浅はかな者どもに、権力を与えてはならんと言っておったのに。尊大で猪突猛進な目立ちたがり屋ばかりじゃからのう。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ミス・グレイス",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ミス・グレイス",
+          "text": "そろそろ第一防御線が突破されます。このままでは――"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アニムス",
+          "text": "このままのはずがないわい。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "彼女の言葉は乱暴に打ち切られた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アニムス",
+          "text": "南極はあ奴らの来るべき場所ではない。鉄でできた奴らをいくらけしかけてきおっても無駄じゃ。いまさら軍を送り込んできたところで、自分らに策がないことを示しているだけじゃ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ミス・グレイス",
+          "text": "…おっしゃる通りです。敗北の運命が決まっている虫けらに、注意を払う必要はありません。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ミス・グレイス",
+          "text": "儀式の支援を担うわたしたちは、儀式が順調に執り行われることだけに集中しなければ…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アニムス",
+          "text": "おぬしの目には、一度に一つの問題しか捉えられぬのかえ？　ワシらの内部に問題がないという確証はどこにある？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "若い使徒は息を潜め、できるだけ謙虚な口調で聞いた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ミス・グレイス",
+          "text": "と言いますのは…？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アニムス",
+          "text": "あの元帥の近衛師団は、ここ最近何をしておるのじゃ？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ミス・グレイス",
+          "text": "イゴール軍ですか？　近頃は海岸の数か所に防御線を引いて、財団の遊撃隊を警戒しています。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アニムス",
+          "text": "滑稽な二股膏薬ごときに、我らが偉大なる蘇生の母への奉公ができるとは思えぬ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アニムス",
+          "text": "あ奴らを聖地に置くこと自体、侮辱や裏切りに等しい！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ミス・グレイス",
+          "text": "ですが、伝道者は彼らに極めて高い信頼を寄せています。それに、彼らは儀式に最も大事な…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アニムス",
+          "text": "こんの、たわけものが！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アニムス",
+          "text": "神聖なる試練を拒んだ奴らじゃぞ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アニムス",
+          "text": "祝福と導きを受けぬ凡人と手を組むなど、マヌス・ヴェンデッタが成立して以来、最大の恥ぞ！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ミス・グレイス",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アニムス",
+          "text": "まあよい。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アニムス",
+          "text": "儀式を優先するのじゃ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アニムス",
+          "text": "すべては――偉大なる蘇生の母のために。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "哀れな鳥の死骸が、若い使徒の足元に投げ捨てられた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "野営の準備はできていたが、誰も休んではいなかった。"
+        },
+        {
+          "kind": "title_card",
+          "text": "元ゼノミリタリーのある駐屯地"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "機長はヘリコプターから身を乗り出し、テントの前にいる女性へ向け、首を横に振った。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "機長",
+          "text": "中尉、点検を一通り行いました。最大の問題はラダー・ペダルにあるようです。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "機長",
+          "text": "具体的な原因はいまだ掴めていませんが、ラダー・ペダルで制御するテールローターの偏揺れ速度が予定値に達していないのは確認できました。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "機長",
+          "text": "さきほどの飛行で強烈な揺れと方向の偏りが発生したのは、これが原因だと思われます。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "機長",
+          "text": "充分な整備が終わるまで、「キャニス・ミノール号」は飛ばせません。南極のような極地ではなおさらです。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "モルダーは振り向き、野営中の兵士たちを一瞥してから、定員２０名の輸送ヘリコプターに向かい歩き出した。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "モルダー",
+          "text": "元帥に状況報告を。指定された駐屯地からは少し離れているけど、今のところは移動できそうにないわね。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "モルダー",
+          "text": "とはいえ、この空き地なら任務をこなすための視野を十分に確保できる。不幸中の幸いだわ。不時着だというのに、完璧な仕事ご苦労様…ダニロフ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "機長",
+          "text": "お役に立てて光栄です、中尉。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "モルダー",
+          "text": "あとは待つだけ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "何を待つのか。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "答えはすぐそこにあった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "モルダー",
+          "text": "全員注目！　これよりイゴール元帥の指示を伝える。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "モルダー",
+          "text": "財団のあらゆる攻撃を阻止すべく、この地にて氷原の外周防衛戦を堅守せよ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "モルダー",
+          "text": "以降は、別の港に駐屯しているトレミー歩兵班とともに、儀式を行う神殿におられる元帥からの移動命令で動く。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "そこまで話すとモルダーは妙な渇きを覚え、襟元を指で広げた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "モルダー",
+          "text": "いかなる目標であれ目視可能な海域への侵入を確認次第、交戦してよし。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "兵士一同",
+          "text": "はい！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "兵士たちは一斉に返事をする。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "モルダーは兵士たちを見渡したあと、視線を下に向けた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "己の湿った長靴についた金色の雪を見て、彼女はゆっくりと瞬きをした。"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

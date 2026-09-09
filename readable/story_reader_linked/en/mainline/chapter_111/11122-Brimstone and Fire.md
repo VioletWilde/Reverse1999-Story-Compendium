@@ -1,6 +1,6 @@
 # Brimstone and Fire
 
-- Chapter: 行于漫漫长路上 (`111`)
+- Chapter: A Long Long Way (`111`)
 - Episode: `11122`
 
 > Subtitle: Past the borders of bloodshed, boundaries, and concepts of purity and corruption.

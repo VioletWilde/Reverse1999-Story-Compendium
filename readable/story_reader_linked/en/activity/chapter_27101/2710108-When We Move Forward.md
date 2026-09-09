@@ -1,6 +1,6 @@
 # When We Move Forward
 
-- Chapter: 1987 Космическая Увертюра (`27101`)
+- Chapter: 1987 Cosmic Overture (`27101`)
 - Episode: `2710108`
 
 > Subtitle: An expensive group photo. Usually found in a weathered old frame.

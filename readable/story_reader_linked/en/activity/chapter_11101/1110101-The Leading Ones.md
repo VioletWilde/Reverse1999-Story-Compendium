@@ -1,6 +1,6 @@
 # The Leading Ones
 
-- Chapter: The Rimet Cup (`11101`)
+- Chapter: The Theft of the Rimet Cup (`11101`)
 - Episode: `1110101`
 
 > Subtitle: In days like this, nothing is more important than security.

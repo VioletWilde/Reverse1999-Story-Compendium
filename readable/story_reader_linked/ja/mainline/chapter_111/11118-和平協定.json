@@ -1,0 +1,789 @@
+{
+  "episode_id": 11118,
+  "chapter_id": 111,
+  "chapter_title": "果てなき道を進みて",
+  "display_label": "",
+  "title": "和平協定",
+  "subtitle": "この日は歴史に刻まれるだろう。",
+  "trails": [
+    {
+      "element_id": 111018,
+      "owner_episode_id": 11118,
+      "trigger_episode_id": null,
+      "title": "犬笛",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=1118",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "犬たちがまた、怒鳴り合いを始めたわね。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "人々は時に沈黙をもって己の意志を貫くと、聞いたことがあるでしょう？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "でも黙ったままじゃ、命令も指示も出せない。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "だから、人が犬笛を吹くようになったの。それを使えば、声を上げずに命令を出せるから。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "そのせいで、意志を持った言葉が世界から消え、犬の吠え声だけが残ってしまった。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "どこかで聞いたことがあるような",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "洞窟での些細な出来事を忘れたのなら、無理に思い出さなくても結構よ。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "忘れることも、犬笛の鳴らし合いと同じ――\n一つの「解決」なのだから。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "犬たちは叩き込まれた訓練をすべて忘れて、はじめて吠え合うことに意味がないと気づくの。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "言葉に気をつけてちょうだい！　わたしが、あのずる賢い老兵どもと一緒だって！？"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "戦場でしか生きられない悪魔たちと同じ声をしてるなら、わたしはとっくに自分の喉を引き裂いてるわ！"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "あんな憎たらしい！　命知らずの愚か者たち！"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "…ああ、ごめんなさい。癒えてない傷がまた疼いちゃって…今まで大人しかったのは、しばらく触れられていなかったからよ。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "どこかの老兵が言いそうなことだね",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "101122",
+      "internal_title": "第十一章11-18.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "和平協定"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "３０分前。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ゲオルク",
+          "text": "はい、首相。各代表団はすでにモンペへ到着しております…本日の夕食前には署名が行われるかと。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ゲオルク",
+          "text": "承知いたしました。体裁を整えた晩餐会を…はい。質素倹約といった感じで…もちろん、会場へ入場する記者はきちんと選別いたします。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "内閣入りしたばかりのゲオルクは電話を切ると、得意満面な様子で停戦に関する覚書を再度確認した。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ゲオルク",
+          "text": "…悪くない。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "彼は同盟国の外交官から贈られた万年筆を手に取り、原稿用紙にサインを幾度も書き込む。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "停戦協定への署名は、彼に任された今日の仕事の中で最も重要なものであり、入念な練習が必要だった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "またしてもせわしないベルの音が鳴る。ゲオルク部長のペン先はそのせいで滑ってしまい、「Ｏ」の形がかなり不格好になってしまった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ゲオルク",
+          "text": "ちっ――"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "鳴っているのは補佐官の机にある電話だ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "それは、彼が自ら処理するものではないことを意味していた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ゲオルク",
+          "text": "フリドリヒ、何してるんだ？　早く電話に出ろ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "部長補佐",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "補佐官はベルの音にまったく反応を示さず、大量の書類に埋もれながら、悠然と何かを書き続けている。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ゲオルク",
+          "text": "その耳は飾りか？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ゲオルク",
+          "text": "まったく――なんで補佐官になれたのか…お前を寄越したやつを問い詰めてやりたいよ。帰国したら、真っ先にお前のクビを切ってやる。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "補佐官を懲らしめるため、ゲオルクは勢いよく補佐官の机に突進する。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "すると、補佐官はようやく気づいたようで、慌てて受話器を取った。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ゲオルク",
+          "text": "――ったく、やっと耳が通ったか。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ゲオルク",
+          "text": "……？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "しかし彼の予想に反し、補佐官は受話器を耳にすら当てず元の場所へと戻した。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "部長補佐",
+          "text": "ベルの音、本当にうるさいねえ、部長さん。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ゲオルク",
+          "text": "貴様…なんだその態度は？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "補佐官は上司からの詰問をものともせず、落ち着き払った様子で腕時計を一瞥した。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "部長補佐",
+          "text": "こんなものの対応よりも、もっと大事な用件があるんでね…そろそろ頃合いみたいですよ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "男は立ち上がり、再び受話器を取ると、先ほどと同じように電話を切った。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ゲオルク",
+          "text": "貴様…どういうことか説明しろ！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ゲオルク",
+          "text": "――？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "部長補佐",
+          "text": "これ以上説明する必要はないと思いますがねえ、ゲオルク議員。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ゲオルク",
+          "text": "誰だ？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "部長補佐",
+          "text": "…入っていい。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ゲオルク",
+          "text": "貴様――？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "２９９高地の調査員たちは、依然として応答がなかった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "クレウス",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "クレウスは通信機を置くと、少し時間を置き、「猟犬」にも呼び出しをかけた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "受話器から聞こえるのは、先ほどと同じノイズだけだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "クレウス",
+          "text": "こっちもか…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "「Ⅻ」小隊の隊長は、わずかに不安げな眼差しで、そばを通り過ぎる政府の要人たちを見る。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "交渉代表者",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "連れ立って歩く代表たちは、その視線を気にも留めず、相変わらずその上品さを保ちながら、己の貴重な時間を重要事項の協議に費やしていた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "近くの建物からプラヴィアンが出て、足早にクレウスの前にやってきた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "「警官」",
+          "text": "ご要望通り、新たに到着した神秘術カウンター装置を配備しました。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "クレウス",
+          "text": "ご苦労。ここ三時間の間で、メレルと連絡は取れたか？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "「警官」",
+          "text": "いいえ、まだ前線にいるはずです。向こうでは、小さな宴会がいくつか開かれてるようで…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "クレウスは再度通信機を取り、もう一人の隊員を呼び出した。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "「ザー――」"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "受話器から聞こえるのは、かすれたノイズだけだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "クレウス",
+          "text": "…何かがおかしい。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "始まりの銃声が鳴った。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "クレウス",
+          "text": "――！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "警備兵Ⅰ",
+          "text": "襲撃だ――！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "代表団の警備を担当していた兵士たちは、たちまち通りに集結した。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "だが敵の銃弾がどこから撃たれたのかもわからず、顔を見合わせることしかできない。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "警備兵Ⅱ",
+          "text": "襲撃者はどこだ？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "警備兵Ⅰ",
+          "text": "いたぞ！　あの建物の中に、黒い服を着た――"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "警備兵Ⅰ",
+          "text": "うぐっ――"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "「警官」",
+          "text": "あいつら――"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "青年は飛び出そうとした。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "クレウス",
+          "text": "プラヴィアン――俺と指揮所に戻るんだ！　財団の全警備部隊に戦闘位置に戻るよう知らせろ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "「警官」",
+          "text": "――はい！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "財団の警備部隊は、最も厳重に守られていた主要な建物へと集結した。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "真っ黒な軍服を着た男が、通りの反対にあるゲオルク部長のオフィスビルから出てきた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェンデッタの士官",
+          "text": "ふ…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "男は悠々と開けた場所へ歩く。全身黒ずくめの兵士たちが、彼の背後から次々と現れた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェンデッタの士官",
+          "text": "…ついに――この時がきた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "彼が片手を上げると、現れた兵士たちはピタッと動きを止めた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェンデッタの士官",
+          "text": "財団の人間を数名残しておけ。あの偽善者どもに言ってやらねばならんことがある。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェンデッタの士官",
+          "text": "残りは――全部殺せ。"
+        }
+      ]
+    },
+    {
+      "script_id": "101123",
+      "internal_title": "第十一章11-18.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "停戦協定の調印式は、血なまぐさい虐殺という結末を迎えた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェンデッタの士官",
+          "text": "周辺の家を念入りに探せ。一軒も見逃すなよ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "柔らかく重い何かが高所から落ちる鈍い音が、数十秒おきに響いた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "財団の警備隊が立てこもっている建物だけが抵抗を続けられていた。掩蔽壕に配備された神秘術カウンター装置が、一時的な猶予を与えてくれたのだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェンデッタの士官",
+          "text": "――ああ、奴らが署名に使う予定だった机は壊すな。書類もそのままにしておけ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェンデッタの士官",
+          "text": "ニュースを彩る最高の写真になるだろう。ふん、すべての新聞の一面を飾ってやる。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェンデッタの士官",
+          "text": "それと、彼女を連れてこい。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェンデッタの兵士",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "マヌス・ヴェンデッタの兵士たちは無言で命令を遂行した。激しい銃撃戦の後、黒い制服を着た死体もあちこちに散らばっていた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "しばらくして、二人の兵士が人質を連れ、がらんとした大通りの真ん中に現れた。人質の女性は財団が占拠する建物から見える位置に立たされた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "財団の警備員Ⅱ",
+          "text": "うっ…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェンデッタの士官",
+          "text": "静かにしろ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "ヴェンデッタの士官は落ち着いた仕草で腕時計を確認する。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェンデッタの士官",
+          "text": "少し遅れたが…まぁ、いいだろう。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "彼も大通りに出ると、まるで盛大な凱旋パレードに参加しているかのような態度で、前へと歩みを進めた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "財団の指揮所まであと十歩という距離まで近づく。指揮所の白い旗が風になびく音すら聞こえるほどの距離だった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェンデッタの士官",
+          "text": "俺たちをずっと探していたんだろう？　どうだ？　今、目の前に立ってやってるが…ん？　気が済んだか？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "彼はまるで賞品を見せびらかすように、両手を広げた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェンデッタの士官",
+          "text": "なぜ事態がこれほどまで悪化してしまったんだ？　なぜお前らと殺し合わなければならない？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェンデッタの士官",
+          "text": "それは――お前らが俺たちの嘆願も、苦しみも、すべて無視してきたからだ！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェンデッタの士官",
+          "text": "人間どもは戦争を作り、俺たち神秘学家を塹壕や弾坑に突き落とした。まるで俺たちが、やっすい消耗品であるかのように！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェンデッタの士官",
+          "text": "俺たちの血筋を蔑みながら、神秘術を駆使して鉄の巨獣と戦えなどと命じた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェンデッタの士官",
+          "text": "俺たちに大きな犠牲を支払わせたくせに、戦争が終わった暁にパンの一枚すらも与えようとしない。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェンデッタの士官",
+          "text": "俺たちは歴史からそう学んだ。神秘学家にとって情のかけらもないこの歴史は、とっとと滅んだ方がいい。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "彼は腰から拳銃を取り出し、両手で弄んだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェンデッタの士官",
+          "text": "無力な寄合所帯のコミュニティではなく、神秘学家が軍のように団結して戦えると聞いた、あの瞬間…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェンデッタの士官",
+          "text": "…俺には、かつてないほどの希望が見えたんだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェンデッタの士官",
+          "text": "憎き財団め、人間の犬どもよ――よーく聞け！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェンデッタの士官",
+          "text": "この戦争は始まりに過ぎない。今日より、あらゆる時代の、人間の秩序と強権は我々によって覆される。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェンデッタの士官",
+          "text": "あらゆる時代で苦しむ神秘学家は、マヌス・ヴェンデッタの旗の下に団結する。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェンデッタの士官",
+          "text": "最も素晴らしき時代が到来するまで――！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一発の銃弾が、軍官のこめかみを貫いた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェンデッタの兵士",
+          "text": "――！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "残りの兵士たちも、銃声に応じるように次々と倒れる。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "財団の警備員Ⅱ",
+          "text": "…誰だ？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "…犬を使った下劣な比喩は好かねぇな。陳腐すぎて、敬意のかけらもねぇ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "荒野を駆ける「猟犬」がついに帰還した。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "彼は財団指揮所の正門前まで歩くと、邪魔な軍官の死体を蹴り飛ばした。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "「猟犬」",
+          "text": "近辺エリア、オールグリーン。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "厳重に警備されていた大門が開かれ、クレウスが彼の視線の先に現れた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "クレウス",
+          "text": "…遅かったな、イェルモーライ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "「猟犬」",
+          "text": "お前が生きてる間に帰ってこれただけでも、上出来だろ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "彼は辺りを見回した。その視線には彼の口調と同じく、いくばくかの軽薄な皮肉が含まれている。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "「猟犬」",
+          "text": "いつまでも尻ぬぐいをしてくれる奴がいると思うなよ、クレウス。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "クレウスは、いつも通り部下の皮肉を無視して話を続ける。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "クレウス",
+          "text": "外で何があった？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "「猟犬」",
+          "text": "手短に言えば、俺たちは一歩遅かったってわけさ。確かにマヌス・ヴェンデッタは自分たちの軍隊を作っていた。ここだけでなく、前線にもマヌス・ヴェンデッタの追随者がたくさんいる。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "「猟犬」",
+          "text": "俺たちの相手は、最低でも旅団規模の作戦部隊だ…その二倍のデカさの可能性さえある。奴らは２９９高地の地下に隠れてやがる。全員神秘学家だ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "クレウス",
+          "text": "２９９高地か…チャールズとアマンダは？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "「猟犬」は、いくらかだらしない態度を改めた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "「猟犬」",
+          "text": "見つけた時には、すでに事切れていたよ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "「猟犬」",
+          "text": "大事な調査結果を残してくれてはいたがな。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "「猟犬」",
+          "text": "マヌス・ヴェンデッタは、２９９高地を掘り返してた。山の中にでっかい地下要塞を作ったんだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "「猟犬」",
+          "text": "安全エリアを襲撃した連中はそこから出てきたんだ。ほかにも一部のマヌス・ヴェンデッタ部隊が、前線にいる人間の兵士に攻撃を仕掛けてやがる。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "クレウス",
+          "text": "プランBに切り替えたか？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "「猟犬」",
+          "text": "ああ。救援要請と応急対策は本部に送った。連絡を取れた外回りの財団職員は全員、前線の指定された場所へ移動している。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "「猟犬」",
+          "text": "だが、メレルとはまだ連絡が取れていない。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "クレウス",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "上官は粛々と頷く。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "すでに予想していたのか、メレルとの連絡が途絶えたことについては、何も言わなかった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "「猟犬」",
+          "text": "…で、本気でやる気だな？　その「前線応急対策」とやらを。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "クレウス",
+          "text": "ほかに選択肢はない。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "「猟犬」",
+          "text": "２９９高地はどうするんだ？　――想定されていなかった事態だぞ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "クレウス",
+          "text": "不測の事態への対処も、計画の一部だ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "クレウス",
+          "text": "…一緒に前線に行くぞ。道中で詳しく説明しろ。"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

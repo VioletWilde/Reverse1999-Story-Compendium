@@ -1,6 +1,6 @@
 # Frog and Toffee
 
-- Chapter: Nouvelles et Textes pour rien (`103`)
+- Chapter: Nouvelles et Textes pour Rien (`103`)
 - Episode: `10302`
 
 > Subtitle: Pebbles, frogs, the attic with stinky socks... They're just a teeny tiny part of the whole world.

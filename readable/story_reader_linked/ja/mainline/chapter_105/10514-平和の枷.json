@@ -1,0 +1,732 @@
+{
+  "episode_id": 10514,
+  "chapter_id": 105,
+  "chapter_title": "洞窟の囚人",
+  "display_label": "",
+  "title": "平和の枷",
+  "subtitle": "古い対峙は終わらなければならないと、彼は宣言した。",
+  "trails": [
+    {
+      "element_id": 1051401,
+      "owner_episode_id": 10514,
+      "trigger_episode_id": null,
+      "title": "小道① 3個目の分かれ道",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=514",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "あんた、あの寓話の中の洞窟から這い出てきたのかい。小汚いその姿はまるで小さな野人だねぇ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "奴らはきっとあんたの耳にたくさんの言葉を吹き込んだだろう。でも、その場で試験用紙を広げてあんたに回答させなかっただけマシだと思わないと。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "何も聞かなかった",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "あら、プロのうっかりさんだねぇ。あんたの過去の栄光を覚えておかないとだわ。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "確かにみんなの言う通りだった",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "あらあら、ご謙遜を。アマガエルを追っかけていた日々が役に立ったみたいだねぇ。"
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "回想する気があるのなら、記憶の隅々を思い返してごらん。そこには、石のテーブルの前に立ってる人たちがいるはずさ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "そうさ、ローブ、白いローブ、毅然とした秩序を示す灰色と白いチェック柄。そして階段を踏んでいる、迷子の小さな目を注目させようとしてる、あの…あんたたちからなんて呼ばれていたっけねぇ…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "教師、教員、指導教官、先生…呼び方はさまざまさ。彼らは自分の名前を隠した。さすがに、旗に自分の名前を書ける者はいないよ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "彼らはその事について文句を言わない――合理的な事は現実的であり、現実的な事は全て合理的であるからさ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "彼らは平らで広々とした道を歩むよう、あんたに教えるだろう。そこには頑丈なコンクリートの道、頼もしいガソリンで動く車、明るい日光が差し、情熱的に励める一生をかけるべき使命があるのさ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "全てはこの世界に来た頃のようにはっきりとしてるのさ。整えられたレンガに一粒の石でも落ちてごらん、すぐに人の耳に入るんだから。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "もう一つの林間道は人影が少ない。前方は暗くて、見られたらまずい、証明できないものばっかりさ。ましてや、言葉にできないような混乱と狂気もある。でもそこの風景は独特で、草木が生い茂り、一面に気分が良くなるような花が咲き誇ってる。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "――あんたはどの道を選ぶんだい？"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "広い道を選ぶかも",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "そりゃあそうだろうね、そっちの方が慣れてるものね。慣れているからこそ、自称慣れっこな奴らより…そのつまらなさを知ってる。そうだろう？"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "歩き慣れたからといって、安心できるとは限らないよ。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "幸運なことに、ここにもう一つの道がある。不思議な場所に迷い込みたくなく、林間の風景を鑑賞したい人のための道さ。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "林間の小さな道に興味がある",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "それを選ぶなんて容易なことじゃないよ。あんたの勇気に拍手を捧げよう。残念だ、新鮮な花が近くにあればあんたに捧げたのに。でも注意しな。その道には人を狂わせるものがいるよ…"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "会ったことがあるんだよ。多くの人は驚きのあまり度肝を抜かれ、魂を失い、縛り上げられて檻に入れられた。自分のために何処にも行けない墓穴を掘ってしまった人もいる。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "ふふ、ちょっと言い過ぎたかもねぇ。驚かせてないといいけど。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "幸運なことに、ここにもう一つの道がある。不思議な場所に迷い込みたくなく、林間の風景を鑑賞したい人のための道さ。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "３個目の分かれ道？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "そう、きっとその童話を聞いたことがあると思うよ。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "振り向くことさえしなければ、愛しい人の魂を連れて無事に冥界から逃げられる。物音さえ立てなければ、深い眠りについた女妖の前を通り過ぎることができる。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "守るべきものがある者たちは出発するんだ。まるで平たい道を歩むかのように、裸足で奥深い林へと。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "彼らは唇をぎゅっと閉じて、前方を目視し、決して振り向かない。自分が所有したことのない物は拾わないし、警告された土地には決して足を踏み入れない。直視するべきではない偉大な存在は、目に入れない。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "彼らは倹約家で自制心があり、飢餓にすら耐えられるほどの超人的な忍耐力を持つ。その上、とても利口だ。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "暗い影にいた獣の群れもやがて休息をとるだろう。そのおかげで、道標がなくなる場所まで林間を駆け抜けることができたのさ。最初に振り返った者が流刑者の叫び声を上げるまでね。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "それって合理的なの？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "さっき聞いた話を思い出してごらん――現実的な事は全て合理的さ。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "振り向くな！　悲しそうに泣きじゃくる塩柱になりたくないのなら――振り向くな、振り向くな、振り向くな。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "私たちはね、永遠に冷静で、永遠に理性的で、永遠に慎重でいるべきなのさ。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "しかし問題が現れる――とある人物が――もしあんただったとして、青い若草や美しい花に酔わずにいられるかい？　この美しい景色のために心の底から湧き出てくるメロディーは、何処に流せばいいのさ？"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "ならば大きな声で叫ぶ！　狂ったように舞う！　盃の美酒を飲み干し、全ての汚物を吐き出すのさ。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "だって骨すら震える輝きを求める以外に、林間に足を踏み入れる理由なんてないものね？"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "いい事には聞こえない",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "そう。だから忘れた方がいいねぇ。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "忘れよう、忘れましょう。瞳をぎゅっと閉じて、黙り込んで、早足でその場から立ち去ろう。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "その時、道端にある全ての美しい景色は意味をなくし、かぐわしい香りも無臭と化す。そしてあんたも林間から出て、純粋な、あの場所へと到達するのさ。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "そうしたいかい？　大丈夫、まだ時間はたくさんある。逆を選んで、いつでも行きたい道を選べばいいのさ。"
+            }
+          ]
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1051402,
+      "owner_episode_id": 10514,
+      "trigger_episode_id": null,
+      "title": "不気味な洞穴",
+      "description": "暗く、奥が見えない小さな洞穴に、不気味な音が反響している。約束の物を渡せば、返礼に寓話を語ってくれるそうだ。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=514",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "調停者の運命"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "太陽に関する寓話の中で\n日光は永遠に道義の象徴だ\n湿気に汚されることなど許されない。絶対に、許されないのだ\n傘となり、船を走らせ、土砂降りの中から何かを守ったり、あるいは救い出す\n岸辺や岩礁になどになってはならない\n波に打ち付けられ、削られてしまうから\n転覆、座礁、運航が滞り、水難で生き残ることの発端にはならない\n苔の繁殖を止めず\n蕾の成長を助けず\nすべての色を創り出すのに、何色にも傾倒しない\n\n雨が日光を遮る前に\nかげりが虚影を喰らってしまう前に\n最後の問いかけが\n最後の答えが\n最後の衝突を仲裁する方法が\n最後の中立者が\n最後の傍観がある"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100521",
+      "internal_title": "第五章5-14",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "平和の枷"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "In this life there are three kinds of men, \nこの世には三種類の人間がいる。\njust as there are three sorts of people who come to the Olympic Games. \nオリンピックでその三種類を見ることができる。\nThe lowest class is made up of those who come to buy and sell, \n最下層は会場の商人。\nand next above them are those who come to compete. \n商人の上は参加選手。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Best of all, however, are those who come to look on. \nそして、その上に立つのは観客だ。\nThe greatest purification of all is, therefore, science, \n万物の中で最も崇高なことは、純粋な知識を追求することだ。\nand it is the man who devotes himself to that, the true philosopher, \nそのため、全身全霊でこの事業に打ち込む者こそ、真の哲学者なり。\nwho has most effectually released himself from the \"wheel of birth.\" \n彼らのみ自らの力で「生の輪廻」から脱することができよう。\n\n\n                                    John Burnet, Early Greek Philosophy                       \n                            ――ジョン・バーネット《初期ギリシア哲学》"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "６",
+          "text": "話し合いの前に、お二人にとても有名な物語をお話ししましょう。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "６",
+          "text": "たくさんの人がこの洞窟に閉じ込められました。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "６",
+          "text": "背中には燃えさかる炎、目の前には巨大な壁。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "６",
+          "text": "足と首は鉄の鎖で縛られ、彼らは常に自分の前だけを見つめていました。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "６",
+          "text": "目をふせると、自分しか見えず、目を上げると、炎によって壁に映し出された影しか見えません。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "６",
+          "text": "彼らは洞窟を離れたことがなく…そのため、壁に映し出された影が世界の全てだと思い、本当に実在するものについては何一つ知りませんでした。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "６",
+          "text": "そんな中、ある者が洞窟から抜け出し、初めて真の世界を目の当たりにしました。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "６",
+          "text": "彼がこれまで目にしていたのは、すべて壁に映った偽りの炎だったと気づいたのです。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "６",
+          "text": "私たちの世界は塵に過ぎません、ミス・ヴェルティ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "６",
+          "text": "現象界はこのおとぎ話の洞窟のように、すべてが壁に映し出された幻影なのです。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "６",
+          "text": "醜悪、軽率、腐敗、醜穢、衰退。無意味な欲望と記号紛争で溢れかえった洞窟――"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "６",
+          "text": "真の賢者こそが、その洞窟を抜け出し、真の世界を目にすることが出来るのです。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "６",
+          "text": "その真の世界、この永久に続く完璧な王国が、万物の模範となりましょう。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "６",
+          "text": "聖パブロフ財団代表ミス・ヴェルティ、マヌス・ヴェンデッタ代表ミス・アルカナ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "６",
+          "text": "あなた方の信念は我々にとって無意味な埃、一文無しの塵埃に過ぎません。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "６",
+          "text": "我々にとって意義のあることはただ一つ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "６",
+          "text": "より高い知恵を得るために、己を高めること。これが我々の使命です。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "６",
+          "text": "我々は一度たりとも「ストーム」が訪れる土地に足を踏み入れたこともなければ、時代の紛争に関わるつもりもありません。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "６",
+          "text": "なのでどうか、現象界での争いを、真理の地へ持ち込まないでいただきたい。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アルカナ",
+          "text": "…もちろん。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アルカナ",
+          "text": "真理の殿堂を汚そうなどと、考えたこともないわ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "６",
+          "text": "…では、今後再びこのような状況になることを防ぐために。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "６",
+          "text": "お二人の名前をこの石の腕輪に刻み、互いの血を一滴ずつ垂らしてください。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "６",
+          "text": "一度はめれば、二度と外すことはできません。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "６",
+          "text": "島の範囲内において、互いを攻撃してはなりません。もちろん、属した陣営同士も対象に含まれます。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "６",
+          "text": "誓いが破られた時、その腕輪がお二人の血を吸い尽くすでしょう。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "６",
+          "text": "いわば「永遠なる」平和協定です。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アルカナ",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "アルカナは手を伸ばし、それを手に取った。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "…ありがとう、ございます。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "協定を結びましょう。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "彼は軽く頷いた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "そして再び机を見ることはなく、早足に去っていった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "腕輪の質感は純粋そのものだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "その血なまぐさい誓いとは似ても似つかない。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "永遠の平和協定…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "誰かが近付いてきた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "そう、彼女だ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アルカナ",
+          "text": "また会ったわね、ヴェルティ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アルカナ",
+          "text": "…お友だちは元気？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "…おかげさまで。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アルカナ",
+          "text": "ふふ、それはよかった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アルカナ",
+          "text": "そんなに警戒せずとも、以前とは状況が違うわ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アルカナ",
+          "text": "――わらわは神秘学家の血を無駄に流したりはしない。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "…シュナイダーには迷わず発砲してもいいと？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アルカナ",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アルカナ",
+          "text": "ヴェルティ、わらわの可愛い子。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アルカナ",
+          "text": "わらわの記憶が正しければ…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アルカナ",
+          "text": "シュナイダーの胸を貫通した弾は、「わらわ」が発砲したものではないはずだが。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "…………"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "…今回の目的は？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アルカナ",
+          "text": "古代の知恵の享受。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アルカナ",
+          "text": "そなたと同じよ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "腕輪が熱くなり、今にも火傷しそうだった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アルカナ",
+          "text": "ふふ…なるほど。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アルカナ",
+          "text": "ヴェルティ。「ストーム」の中を無表情でたたずむ、そなたの姿はとても愛らしい…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アルカナ",
+          "text": "残念ながら、"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アルカナ",
+          "text": "雨のとばりからは逃げられないわ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アルカナ",
+          "text": "そう――そなたでさえも。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "彼女の言葉は、まるで冬の日に肌を刺す冷たい風のようだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "心が枯れ木を燃やす炎の如く熱くなり、即座に鎮まった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "…オリティアウの基地に残された木箱に、わたしの名前が刻んであった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "あれは…あなたが残したもの？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アルカナ",
+          "text": "残念ながら、わらわではない。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アルカナ",
+          "text": "そなたの疑問の答えになっていることを祈るわ、ヴェルティ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "アルカナの姿は木々の中に消えた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "腕にはめた腕輪から、焼かれるような痛みが伝わってきた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "…熱い。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "近くの林から、ガサコソと物音がした。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェンデッタの手下Ⅰ",
+          "text": "…あれは、アルカナ様？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェンデッタの手下Ⅰ",
+          "text": "アルカナ様！　どうかお待ちを！　わたくしどもを助けてください！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェンデッタの手下Ⅱ",
+          "text": "どうか芸術にも救いを！！！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "二人分のやつれた背中が、慌てふためいた様子で目の前を横切る。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "彼らは猛獣から逃げるために、指導者にすがりつこうとしているようだった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "その姿を追うように、小柄な人影が林から飛び出してきた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "３７",
+          "text": "こらこら、逃げちゃダメだよ〜ほら戻って戻って！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "３７",
+          "text": "愚かで無知な異邦人だなぁ！　まだベクトルとマトリックスについて語り終えてないんだよ。一番面白いところなのに！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "３７",
+          "text": "あっ、ヴェルティ！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "３７",
+          "text": "良かった。あなたはいつも正しいタイミングで正しい場所に現れるんだね。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "３７",
+          "text": "そこの仮面頭たちを捕まえるの、手伝って。どんな手を使ってもいいから！"
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

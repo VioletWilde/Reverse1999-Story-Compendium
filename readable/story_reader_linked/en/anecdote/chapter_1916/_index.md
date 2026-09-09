@@ -1,4 +1,4 @@
-# Anecdotes · Flower Power
+# Anecdotes · When Peace Blooms
 
 - [191604 Math Class](191604-Math Class.md) — Should we really be studying math at a time like this? *(extra record)*
 - [191605 Plans to Scram](191605-Plans to Scram.md) — Perfection is his goal, but it remains just that—a goal. *(extra record)*

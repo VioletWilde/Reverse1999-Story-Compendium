@@ -1,6 +1,6 @@
 # Language Barrier
 
-- Chapter: Notes on Shuòrì (`16101`)
+- Chapter: Notes on Shuori (`16101`)
 - Episode: `1610105`
 
 > Subtitle: A tower built of snow—how come no one has ever mentioned it before?

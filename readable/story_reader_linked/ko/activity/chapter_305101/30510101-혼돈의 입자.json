@@ -1,0 +1,704 @@
+{
+  "episode_id": 30510101,
+  "chapter_id": 305101,
+  "chapter_title": "피렌체의 봄",
+  "display_label": "",
+  "title": "혼돈의 입자",
+  "subtitle": "그러니까 역시 내 개한테 설명하라고 하는 게 좋겠어. 그 녀석은 직감을 믿지 않거든.",
+  "trails": [
+    {
+      "element_id": 30510101,
+      "owner_episode_id": 30510101,
+      "trigger_episode_id": null,
+      "title": "배우 스탠바이",
+      "description": "이 무대 위에는 보수가 없다. 있는 건 의무뿐이다.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=30510101",
+      "content_hints": [
+        "fragment",
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "‘뛰어난 배우가 되기 위한 가이드’"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "챕터1  혼돈 입자 및 혼돈 필드 총론\n챕터2  하위헌스-프레넬 원리 및 응용\n......\n챕터9  관측자 주의 사항\n비고: 상술한 챕터를 이해하지 못한 관측자는 본 챕터만 읽어도 됩니다.\n\n1. 장치 내에서의 체험은 의식 영사를 기반으로 합니다. 시뮬레이션 무대와 현실 세계를 혼동하지 마시길 바랍니다.\n2. 관측 중에는 신분의 기억을 따라 합리적으로 움직이시길 바랍니다.\n3. 관측 중에 다치면 통증을 느낄 수 있으니 자신의 안전에 주의하시길 바랍니다.\n4. 관측 중에 불가항력으로 사망한 경우 장치와의 연결이 끊깁니다. 깨어난 후 당황하지 마시고 시뮬레이션 무대와 현실 세계를 혼동하지 마시길 바랍니다."
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "2030501",
+      "internal_title": "【S01】翡冷翠之春01.1",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "실험 환경 초기화"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Interferometer 장치 작동 중"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "입자 생성 모드 활성화\n예상 입자량: 3.4×10^6"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "온도: 22°C, 상대 습도: 65%"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "관측자 준비 완료\n신체 상태 데이터 로딩 중......"
+        },
+        {
+          "kind": "title_card",
+          "text": "로렌츠 실험실"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "...비가 내리네."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "이런! 아무래도 우리에게 배포된 에 \"밸런스 우산을 가지고 다니세요\"라는 말을 빠뜨렸나 보군요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "X",
+          "text": "이건 진짜 비가 아니니 걱정 마세요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "X",
+          "text": "이건 개체와 혼돈 체계의 상호작용을 더 잘 관측하기 위해 하위헌스-프레넬 관측기가 혼돈 입자로 모방한 위장이에요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "관측기...? 우리 머리 위에 있는 이 장치를 말하는 건가요?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "X",
+          "text": "네. 이번 관측 실험에 참여해 주셔서 감사해요. 두 분이 로렌츠 실험실의 혼돈 연구에 도움을 주신 건 잊지 않을게요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "X",
+          "text": "참고로 레굴루스와 소더비 씨는 이미 한발 앞서 출발했어요. 낯선 땅에서의 우연한 조우를 기대해 보는 것도 좋겠네요~"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "약간 과장된 말투로는 새로 들어온 실험쥐의 마음을 움직이지 못했다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "이 의 설명에 따르면 우리의 의식을 아주 ‘특별한’ 곳으로 보낼 수 있다는 것 같던데."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "X",
+          "text": "네. 파나로마 관측 공간, 시뮬레이션 세계, 시공의 거품... 어떻게 부르든 상관없어요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "X",
+          "text": "물론 개인적으로는 ‘비 내리는 무대’라고 부르는 걸 좋아하지만요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "비 내리는 무대? 정말 낭만이 넘치는 이름입니다! 보아하니 저 APPLe은 곧 새로운 세계로 떠나게 되겠군요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "그럼 이제 무엇을 하면 되죠? 예를 들어 ‘두 눈을 감고 심호흡한 후, 시계 방향으로 세 바퀴 돌아’라든가..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "X가 경쾌하고 즐거운 목소리로 웃음을 터트렸다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "X",
+          "text": "실험 절차를 말하는 거 같은데, 그런 건 없어요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "흠... 저 APPLe은 여전히 X 씨의 유머 감각을 따라잡기 어려운 모양입니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "그렇다면 이건 진지한 관측 실험이라기보다는 게임에 가깝겠네요?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "X가 어깨를 으쓱였다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "X",
+          "text": "그 반대예요. 진리는 무작위성을 좋아하거든요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "X",
+          "text": "이제 무대 중앙에 서세요. 그리고 숨을 내쉬고, 들이마시고..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "X",
+          "text": "빗방울이 당신의 행동에 따라 궤적이 변할 거예요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "호흡으로 인해 바뀌는 건가요?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "X",
+          "text": "더 정확하게는 여러분이 무대 위에 존재하기 때문이죠. 자, 이제 빗방울을 만져보세요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "손가락이 공중에 떠 있는 빗방울에 살며시 닿자 작은 심장에 닿은 것 같았다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "어? 이건..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그 빗방울들은 규칙적이면서도 혼란스럽고, 혼란스러우면서도 규칙적이었는데... 눈앞에서 뛰고 뒤집히며, 덧없이 희미한 빛으로 반짝이고 있었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "보잘것없어 보이는 그것은 오래된 혼돈에 관한 비밀을 품고 있었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "X",
+          "text": "봤죠? 여러분은 외부의 구경꾼 그 이상입니다. 여러분은 시스템에 영향을 미칠 수 있습니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "X",
+          "text": "관찰을 포함한 여러분의 행동이 아무리 하찮아 보일지라도..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "X",
+          "text": "...시스템에 명백하게 다양한 결과를 만들어낼 수 있습니다. 자, 이제..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "스크린 위에서 끊임없이 움직이는 데이터에 집중하고 있는 X의 눈 밑 쪽에서 갑자기 빛이 쏟아져 나왔다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "X",
+          "text": "훌륭해요. 데이터 로딩은 끝났고... 모든 배우가 준비됐네요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "X",
+          "text": "그럼 즐거운 시간 보내세요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "신체 상태 데이터 로딩 완료"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "혼돈 입자 활성화"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "97.6%，98%……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "99.9%……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "비 내리는 무대 진입 준비"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "모든 것은 허망하고, 모든 것은 허락된다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "쿨... 쿨..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "의식이 비 내리는 어둠 속을 가로질렀다. 주변은 고요했는데, 먼 곳에서 말소리가 희미하게 들려왔다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "정말 확실한가?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "물론이지. 이건 호흡 기류가 기도를 통과할 때 주변의 조직이 진동하는 전형적인 현상이야. 사람들은 보통 이를 코골이라고 부르지."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "많은 의사가 흑담즙 부조화로 체액의 균형이 무너져서 그런 거라고 하는데, 해부학적 관점에서 보자면 인후 부위의 근육이 이완되면서..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "설명하지 않아도 그게 뭔지는 우리도 알고 있어. 하지만 이건 그냥 사과일 뿐이지 않나?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "쿨... 어? 사과?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "독특한 차림을 한 낯선 사람과 그 뒤의 경비병들이 빙 둘러싸고 있어, 뒤에서 비쳐오는 햇빛을 가려버렸다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "작은 사과는 가라앉은 시선으로 샅샅이 파헤치듯 살펴오는 자들에게 둘러싸여 성단 위에서 꼼짝도 못 했다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "어... 안녕하세요, 여러분. 정말 독특한 환영회네요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "낯선 남자",
+          "text": "봐! 이 사과는 정말로 말을 할 수 있잖아. 그러니 코를 고는 것쯤은 하나도 이상하지 않다고."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "경비병",
+          "text": "그 부분은 일단 빨리 넘어가지. 저 사과의 호흡 문제를 연구하기 위해 너를 고용한 게 아니니까."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "낯선 남자",
+          "text": "\"고용\"? 정말 과분한 말이군. 밀라노에서 피렌체까지 오면서 열이 오른 건 말할 것도 없고, 내 갈비뼈를 세 개나 부러뜨렸으면서 말이야..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "경비병",
+          "text": "정도껏 하지? 피렌체인! 그냥 멍이 좀 들었을 뿐이지 않나."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "피렌체? 설마 이탈리아? 저기, 여기가 어디인지, 여러분이 누구신지 물어봐도 될까요?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "낯선 남자",
+          "text": "질문이 많은 사과로군! 이곳은 당연히 피렌체지. 그래. 연이은 전쟁으로 풍비박산 난 가엾은 이탈리아 반도에 위치한 그 피렌체가 맞아."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "낯선 남자",
+          "text": "그리고 내 뒤의 사람들은 나를 밀라노에서 납치해 온 템플 기사고, 우리가 누구인지는..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "레오나르도",
+          "text": "그리고 난 레오나르도 다 빈치야. 레오나르도라고 부르면 돼."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "잠깐만요, 다 빈치?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "빛 아래에 선 남자는 온화한 미소를 짓고 있어 전혀 납치당한 것처럼 보이지 않았다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "당신이 그 다 빈치라고요? 그 유명한 화가 레오나르도 다 빈치?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "레오나르도",
+          "text": "다 빈치? 그건 참 이상하군. 나를 그렇게 부르는 사람은 거의 없는데 말이지. 사람들은 나를 레오나르도라고 부르거든."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "레오나르도",
+          "text": "난 화가보다는 천재 발명가나, 엔지니어, 해부학자로 불리고 싶어. 그림? 그건 한가할 때나 하는 작은 취미일 뿐이야."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "레오나르도가 웃으면서 메스를 들어 올리자 칼끝이 햇빛 아래에서 서늘하게 빛났다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "레오나르도",
+          "text": "사고방식은 일반인과 다르지만, 발음은 아주 명확하군. 그들의 말이 맞았어. 역시 네가 그 신기한 사과야!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "역시나, 틀림없이 그 다 빈치이시군요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "다 빈치, 아니... 레오나르도 씨, 그 칼은 혹시 어떤 용도인지 여쭤봐도 될까요? 계속해서 제게 칼을 겨누고 계시거든요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "저 APPLe이 사는 곳에서는 그건 우호적인 뜻은 아니랍니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "레오나르도",
+          "text": "응? 이 칼 말이야? 이건 내가 가장 아끼는 메스 중 하나야. 날카롭고 차가운 데다 무자비하지!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "레오나르도",
+          "text": "피부, 지방, 힘줄을 피가 튀지 않으면서 빠르게 절개할 수 있어."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "레오나르도가 한 발짝 다가갔다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "레오나르도",
+          "text": "그럼 지금부터 너를 네 조각으로 가른 후, 너의 과육층과 분포를 기록할 거야. 네게 정말 그런 게 있을지는 모르겠지만..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "레오나르도",
+          "text": "그 후에는 네 조각을 모두 특별 조제한 시약에 담가 반응을 관찰하고 기록할 거야..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "레오나르도",
+          "text": "아! 미안. 내가 해부에 대해서 말하기 시작하면 멈추지를 못하거든. 아무튼 황금 사과 씨..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "레오나르도가 만면에 웃음을 띤 채 APPLe을 바라보면서 한 발짝 더 다가갔다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "레오나르도",
+          "text": "내게 해부될 준비는 됐지?"
+        }
+      ]
+    },
+    {
+      "script_id": "2030502",
+      "internal_title": "【S01】翡冷翠之春01.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "이런! 잠깐만요! 이건 명백히 저 APPLe을 향한 심각한 박해입니다!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "레오나르도",
+          "text": "정말 활발한 사과로군! 갈수록 더 궁금해진단 말이지..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "부리나케 도망치던 APPLe은 비좁은 공간에서 빠르게 움직이다가 결국 벽 구석으로 몰리고 말았다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "으음... 진정하시죠, 신사 여러분! 다 같이 앉아서 대화로 해결해 보는 건 어떨까요? 진정한 중세 기사처럼 말입니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "템플 기사Ⅰ",
+          "text": "진정한 기사라면, 마법을 쓰는 사과 따위는 망설임 없이 불태워 버렸겠지. 내가 너라면, 괜한 저항 따위는 하지 않고 얌전히 자신의 운명을 받아들일 거다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "이건 누가 봐도 어처구니없는 일입니다. 혹시 저 APPLe에게... 말씀하신 가련한 운명이 대체 어떤 것인지 알려주실 수 있으시겠습니까?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "레오나르도",
+          "text": "사람들의 말에 따르면 네가 밀실을 여는 열쇠라더군..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "레오나르도",
+          "text": "내가 이곳으로 납치된 것도 그 소문의 진위를 확인하기 위해서야. 나한테 너를 검증해 보라더군."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "레오나르도는 그렇게 말하면서 APPLe에게 조금씩 다가갔다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "레오나르도",
+          "text": "나에게 맞춰 연기 좀 하면 돼. 두려워할 것 없어. 그가 우리를 구하러 올 테니까."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "‘그’라고요...?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "APPLe은 무언가 더 묻고자 했지만, 레오나르도가 몸을 일으키면서 그를 향해 고개를 살짝 저었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "오! 저 APPLe에게 관심을 가져줘서 고, 고마워요, 레오나르도 씨! 하지만 뭔가 오해가 있었던 것 같군요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "템플 기사단 단장",
+          "text": "보아하니 네가 무엇을 할 수 있는지 정말 하나도 모르나 보군."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "구석에서 차가운 목소리가 들려오면서 갑옷을 걸친 기사가 그늘 속에서 걸어 나왔다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "템플 기사단 단장",
+          "text": "내가 기억을 찾을 수 있도록 도와주지."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "템플 기사단 단장",
+          "text": "몇 달 전, 황금 사과 하나... 그러니까 네가 아르노 강가로 떠밀려 왔지."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "템플 기사단 단장",
+          "text": "처음 너를 발견한 건 한 어부였고, 그는 독실한 신자였기에 너를 가까운 성당에 바쳤다. 그 직후부터, 이상한 일들이 벌어지기 시작했지."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "이상한 일이라구요? 저 APPLe은 전혀 그런 건 알지 못합니다만..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "템플 기사단 단장은 턱을 치켜들어 한쪽에 웅크려 있는 레오나르도를 향해 고갯짓했다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "템플 기사단 단장",
+          "text": "너, 보여줘 봐. 모두의 눈앞에서."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "레오나르도가 얼굴에 불만을 드러냈다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "레오나르도",
+          "text": "이게 대체 몇 번째인지 알기나 해?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "템플 기사단 단장은 허리춤에 걸려 있는 장검을 무심하게 쓱 만졌다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "레오나르도",
+          "text": "알겠어. 하면 되잖아."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "으아... 제발! 저 APPLe을 다룰 때는 좀 조심히 다뤄주십시오."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "APPLe을 들어 올린 레오나르도는 적합한 각도라도 찾는 듯 걸었다가 멈췄다가 했다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "오후의 나른한 햇빛이 수도원을 비췄다. 기사들은 땅바닥에 앉아 있거나, 벽에 기대고 있었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "주변은 매우 조용했는데, 모두의 시선이 황금색 사과에 쏠려 있었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "레오나르도",
+          "text": "오, 완벽한 직사각이군! 바로 여기야."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "프레스코 벽화 앞에 멈춰 선 레오나르도는 고개를 들어 그림 속의 얼굴이 흐릿한 성인과 눈을 마주쳤다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "저 사람들은 누구죠?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "레오나르도",
+          "text": "Persona sconosciuta(이름 없는 사람들)."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그렇다. 그들은 이름 없는 사람들이었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "모든 경전을 뒤져도 이 성인들의 이야기는 찾을 수 없었는데, 그들은 먼지 쌓인 역사 속의 유령 같은 존재였다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "화가가 왜 이런 성인들을 그렸는지는 아무도 모른다. 이 성인들이 어디에서 왔는지, 왜 그런 슬픈 표정을 짓는지 또한 아무도 모른다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "아, 그리고 혹시 그냥 저를 들어 올리기만 하시는 게 맞습니까? 주문 같은 건 따로 필요 없으신지요?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "레오나르도",
+          "text": "기적은 값싼 주문으로 불러일으킬 수 있는 게 아니야. 이제 우리는 기다리기만 하면 돼."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "무엇을요?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "레오나르도",
+          "text": "빛을."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "태양이 서서히 지면서 황금색 사과 위에 햇빛이 비스듬히 내려앉았다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그러자 따뜻한 빛이 흘러나와 벽화에 쏟아져, 흐릿한 얼굴 하나하나를 밝혔다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그렇게 기적이 일어났다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "이, 이게 도대체 무슨 상황입니까...?!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "레오나르도",
+          "text": "정말 안타깝게도 우리도 이에 관해서는 아는 게 없어. 하지만 이것만은 확실해. 이건 몇 번을 봐도..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "레오나르도",
+          "text": "감탄스러워."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "신사 여러분, 여기에 뭔가 글자가 적혀 있는 듯합니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "레오나르도",
+          "text": "간단한 카이사르 암호네. 본래 위치로 되돌리기만 하면 돼. 어디 보자..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "레오나르도",
+          "text": "Sub cadente fulgore, cadentia sanctuaria coniunguntur."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "레오나르도",
+          "text": "희미해져 가는 빛 아래, 사라져가는 성역이 하나가 되리라."
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

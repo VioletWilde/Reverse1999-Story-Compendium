@@ -1,6 +1,6 @@
 # Devil's Work
 
-- Chapter: 行于漫漫长路上 (`111`)
+- Chapter: A Long Long Way (`111`)
 - Episode: `11110`
 
 > Subtitle: Sounds both gentle and harsh—the whispering wind and rustling grass.

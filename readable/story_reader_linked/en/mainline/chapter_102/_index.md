@@ -1,4 +1,4 @@
-# Main Story · Tender is the Night
+# Main Story · Tender Is the Night
 
 - [10201 Courtesy](10201-Courtesy.md) — They have been looking for you. Well, not just for chit chat, of course.
 - [10202 Manus Vindictae](10202-Manus Vindictae.md) — Everyone deserves their own home. The people here understand you, bond with you and always welcome you.
@@ -13,5 +13,5 @@
 - [10211 Polypotion](10211-Polypotion.md) — The mist remained and covered everything that it could.
 - [10212 About the New Era](10212-About the New Era.md) — Have the last wine before you leave. I saw the flames rising as the crowd cheered for the great festival and the wonderful heavens above.
 - [10213 Documentary](10213-Documentary.md) — The type 135 negative has appeared wherever conflict happens, from snow covered peaks to deep forests, and the wilderness within the soul.
-- [10214 Toy Dogs](10214-Toy Dogs.md) — Bark and fight within the confines of these muddy walls. We owe you eulogies and laurels for your bravery.
+- [10214 Puppet](10214-Puppet.md) — Bark and fight within the confines of these muddy walls. We owe you eulogies and laurels for your bravery.
 - [10215 Empty Wardrobe](10215-Empty Wardrobe.md) — Why left these clothes at the dining table and the floor? Someone should clean them up quickly.

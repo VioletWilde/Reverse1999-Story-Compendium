@@ -1,6 +1,6 @@
 # The Song of Innocence
 
-- Chapter: chapter_1904 (`1904`)
+- Chapter: After the Good Dream (`1904`)
 - Episode: `190406`
 
 > Subtitle: Slow down, child. I'm not going anywhere.

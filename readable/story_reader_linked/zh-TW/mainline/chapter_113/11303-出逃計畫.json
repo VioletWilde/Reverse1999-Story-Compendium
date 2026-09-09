@@ -1,0 +1,764 @@
+{
+  "episode_id": 11303,
+  "chapter_id": 113,
+  "chapter_title": "他者的悲哀",
+  "display_label": "",
+  "title": "出逃計畫",
+  "subtitle": "一些源遠流長的校園傳統可能比林中的橡樹更加古老。",
+  "trails": [
+    {
+      "element_id": 1130301,
+      "owner_episode_id": 11303,
+      "trigger_episode_id": null,
+      "title": "返校日",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=1303",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "今天真是個好日子。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "嘰嘰喳喳的孩子們都要被關進學校了，你我也該告別了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "現在我只要閉上眼睛，就能和這場過於漫長的戰爭說再見。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "終於……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "你怎麼還在這裡？去學校啊，去學著識字，不要再打打殺殺了。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "我早就畢業了",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "那就去上大學啊，讀個碩士，博士。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "不用打仗的時間是很寶貴的，拿去充實你自己。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "別在這裡打擾我午睡了，做點什麼。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "……別來這套。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "看看那棵樹，它見證了一次又一次的叛逆，而且每年都要長高差不多兩英寸。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "壞孩子總能在它下面找到歸屬感。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "但很少有人在畢業後再回去看它。樹上的每一道劃痕都屬於一個不同的人，沒有人劃下第二道。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "你知道為什麼嗎？"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "因為他們感到恐懼與後悔。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "他們意識到只有那棵樹有資格一直留在這天堂一樣的地方，而他們卻把天堂的時光過得像地獄。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "現在，回去看看吧，去證明你有勇氣面對那棵樹和童年的樂園。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "祝你像你的法國同窗一樣勇敢，或者你要做膽小鬼？"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "我會想念你的",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1130302,
+      "owner_episode_id": 11303,
+      "trigger_episode_id": null,
+      "title": "完美置換",
+      "description": "天才的想法總是另闢蹊徑。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=1303",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "改良版隱形墨水配方"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "[一份字跡幼稚的筆記]\n\n想辦法用學校裡易得的東西替換掉原本的材料\n\n儀式祭禮——這種傳統的供奉食物成分大多是麵粉，用一把乾義大利麵大概差不多？\n\n咆哮根——好在這份主要材料學校裡就有，上週正好在湖邊的樹根旁發現了幾株，使用鹽封咒需要精磨苦鹽，去食堂弄一些食鹽來應該能代替\n\n顫顫之齒——理論上是中小型雜食類神秘動物的臼齒，但從大小和靈性含量來看，醫務室牙仙小姐收藏的神秘學家乳牙或許是最佳選擇，這兩天洗個冷水澡感冒一下就有理由去醫務室了，不過應該直接向她求取還是偷偷拿一顆呢……"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "101304",
+      "internal_title": "第十三章13-03.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "出逃計畫"
+        },
+        {
+          "kind": "title_card",
+          "text": "喬治橡樹"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "時間沒有給古老的橡樹新添多少枝條，數年光陰對它的壽命來說只是短暫的一瞬。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "與過去相似的是，在喬治橡樹下，同樣聚集著一些小白鴿子似的孩子。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾米莉亞",
+          "text": "這真的會有用嗎，盧卡斯？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一個個子較小的男孩趴在地上，似乎在搜尋著什麼。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "盧卡斯",
+          "text": "不相信我的話，別跟我來就好了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾米莉亞",
+          "text": "哼……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾米莉亞",
+          "text": "我聽不見校歌的聲音了。馬可說他會趁合唱團退場的時候溜出來。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾米莉亞",
+          "text": "然後校長演講會持續十五分鐘，可我們現在還沒有準備好……時間來得及嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "被叫作盧卡斯的學生站起身，拍掉了手上的土。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "盧卡斯",
+          "text": "你又不是第一次參加開學典禮，艾米莉亞，這個老頭不多說半個小時是不會停下來的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "盧卡斯",
+          "text": "我們肯定還有時間再佈置一下，一旦召喚術陣佈置完成，我們……再加上馬可，一共三個人……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "盧卡斯",
+          "text": "就可以去學校外面看看了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾米莉亞",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "這番話引來一陣緊張的吸氣。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾米莉亞",
+          "text": "我們真的……能逃出去嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾米莉亞",
+          "text": "你知道現在外面在發生什麼嗎？教員說外面現在其實非常不安全，好像到處都在打仗。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "盧卡斯",
+          "text": "那是他們要嚇唬我們才這麼說的！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾米莉亞",
+          "text": "到底為什麼一定要在今天……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "盧卡斯",
+          "text": "就要在今天才行。現在全校的人都聚在開學典禮上，而且校園警衛也分了三分之二的人手去陪基金會的巡查員參觀校園……聽說這次來的可是委員呢。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "盧卡斯",
+          "text": "嘿，這是你的計畫，還記得嗎？艾米莉亞，你一直很擅長做計畫。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "擅長計畫的艾米莉亞沉默不語，她轉頭看向古老的喬治橡樹。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "古樹默默注視眼前的一切，同樣緘口不言。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "橡樹葉記憶著每一屆在樹下聚會的學生，隨後這些記憶枯萎、被風吹落，成為後輩腳下鬆軟的腐殖質。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾米莉亞",
+          "text": "……？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾米莉亞",
+          "text": "我聽到有人過來了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "盧卡斯",
+          "text": "是馬可？——他來了？我去接他。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾米莉亞",
+          "text": "等等，讓我再確認一下，我的神秘術還不是很穩定。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾米莉亞",
+          "text": "我聽見的更像是女孩子的腳步聲，一個小個子的女孩……聽起來比馬可要矮一些。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾米莉亞",
+          "text": "可是……可是為什麼好像有兩個人？難道是我聽出了重影？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪蒂爾達",
+          "text": "抓到你們了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "小個子的女生從灌木中鑽出來。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "盧卡斯",
+          "text": "糟糕！是紀律輔員！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪蒂爾達",
+          "text": "梅蕾爾，從另一邊攔住他們！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾爾",
+          "text": "就位了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾米莉亞",
+          "text": "快、快跑！"
+        }
+      ]
+    },
+    {
+      "script_id": "101305",
+      "internal_title": "第十三章13-03.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "翹課小隊不是畢業生的對手，他們很快被捕，而後被扎扎實實地捆在橡樹之下。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾米莉亞&盧卡斯",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪蒂爾達",
+          "text": "又來了，不自量力的翹課小隊——怎麼每年都有這樣的事！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪蒂爾達",
+          "text": "還好我們在合唱團裡找到了你們的合夥人，不然真要讓你們逃出去了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "盧卡斯",
+          "text": "壞人！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪蒂爾達",
+          "text": "——你，你說什麼？你們是因為及時得到善良的瑪蒂爾達的幫助才沒有遭遇危險的！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "梅蕾爾從他們剛剛佈設術陣的地方站起身，臉上掛著一種十分複雜的表情。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "那樣子像是一個笨手笨腳的廚師，吃了一口自己做的搞砸了的菜。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾爾",
+          "text": "……這個術陣是沒有效果的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "盧卡斯",
+          "text": "什麼？——你騙人，這是可以召喚獅鷲的術陣，而且是書裡寫的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾爾",
+          "text": "《鳥目魔精習性與飼養指南》？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "盧卡斯",
+          "text": "你……你怎麼知道？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾爾",
+          "text": "我還知道這個術陣出現在第三章和第四章之間的空白位置上，是用隱形墨水畫上去的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾爾",
+          "text": "“一個可以用來召喚傳說中的獅鷲的術陣，只分享給能夠破解隱形墨水謎題的人。”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "男孩不作聲了，他明白，眼前的對手好像比自己強大得多。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾米莉亞",
+          "text": "那本書……是不是你也看過？你也破解了隱形墨水的秘密？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾爾",
+          "text": "當然。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾米莉亞",
+          "text": "……你以前也是這裡的學生嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾爾",
+          "text": "嗯，你想說什麼？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾米莉亞",
+          "text": "所以畢業之後，我們就可以到外面去了，是這樣嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾爾",
+          "text": "倒不如說想留在學校也不行了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾米莉亞",
+          "text": "既然以後都會知道，為什麼現在什麼都不對我們說呢？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾米莉亞",
+          "text": "或者，你能……和我說說外面的世界在發生什麼嗎？我在畢業之前絕對會保密，不會告訴別人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "盧卡斯",
+          "text": "不要問了，艾米莉亞。你看她們的樣子，就知道她們都不會說的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "盧卡斯",
+          "text": "她們明明知道外面發生了什麼，明明以前也和我們一樣，但畢業之後就變得和那些討厭的教員一樣了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "盧卡斯",
+          "text": "一旦說到學校外面的事，就會擺出一副藏著秘密的臭臉。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾爾",
+          "text": "我……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "畢業生藏著秘密的臉漲得通紅。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾爾",
+          "text": "外面……外面到處都在打仗，我恨不得自己從未畢業！但打仗甚至不是最糟的……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪蒂爾達",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "教員",
+          "text": "我聽見聲音了，他們在這裡。快跟我過來。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "稍遲一步趕到的教員在幾個校園警衛的伴隨下趕到現場，打斷了尷尬的氛圍。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "教員",
+          "text": "天呐，盧卡斯，還有你……艾米莉亞？真是讓人想不到，你們到底想鬧出什麼名堂！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "教員",
+          "text": "你們要在禁閉室度過今天剩下的時間！立刻！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艾米莉亞",
+          "text": "不……不要，那裡有好多蟲子……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "教員",
+          "text": "那些沙米爾蟲就是為了讓你們這些搗蛋的學生長記性的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "校園警衛",
+          "text": "跟我們走吧，別耍花招，搗蛋鬼們。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "盧卡斯",
+          "text": "放開我！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "氣急的教員平復了心情，對秩序協助小組的畢業生們露出了官方的禮貌笑容。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "教員",
+          "text": "謝謝二位的協助，我會負責讓這些孩子理解規則與秩序的含義的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪蒂爾達",
+          "text": "……我們可以帶這些學生去禁閉室。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "教員",
+          "text": "不必了，趁“天氣還晴朗”，你們還有更重要的事情需要處理。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "教員和保全擒住小白鴿的翅膀，把他們關回安全的籠子中。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "秩序協助小組的兩個畢業生還留在原地。她們對視一眼，算是勉強接受了眼前這個無法改變的現狀。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪蒂爾達",
+          "text": "學生的年紀還太小了，而且很多學生都來自不同的時代，說出“暴雨”的秘密只會嚇壞他們。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾爾",
+          "text": "也許吧，至少他們能得到幾年安全的校園生活……但這些懲罰措施還是太傷人了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪蒂爾達",
+          "text": "哼～等偉大的瑪蒂爾達在基金會身居高位，就肯定有辦法改變這裡的一切了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪蒂爾達",
+          "text": "來不及等十四行詩和維爾汀過來了，我們先開始工作吧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪蒂爾達",
+          "text": "剛好這裡離西北瞭望塔比較近，我們就從這座塔頂的氣象鴿開始檢查。"
+        },
+        {
+          "kind": "title_card",
+          "text": "西北瞭望塔·頂層"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪蒂爾達",
+          "text": "這個就是暴雨氣象穩定鴿。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "梅蕾爾謹慎地站在防爆門邊，緊繃得像一件被冷凍住的濕大衣。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪蒂爾達",
+          "text": "離那麼遠幹嘛？過來，我教你怎麼用校驗器。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾爾",
+          "text": "教我？你不也是第一次拿到校驗器嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪蒂爾達",
+          "text": "你在小看偉大的瑪蒂爾達·布翁尼嗎？我當然已經掌握了使用方法！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾爾",
+          "text": "好、好吧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "過分謹慎的畢業生挪動腳步來到瑪蒂爾達身邊，接過了校驗器。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪蒂爾達",
+          "text": "把校驗器插入氣象鴿基座旁邊的插槽，擰動迴路保險，之後按下插槽側面的開關。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾爾",
+          "text": "迴路保險……是往這邊擰吧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她聽到一陣細微的嗡鳴聲。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪蒂爾達",
+          "text": "接著我們可以根據面板上的燈光來判斷它工作是否正常。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪蒂爾達",
+          "text": "編號校驗……正常，能源供應正常，庇護區範圍校驗……嗯，正常。太好了，一切正常。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "瑪蒂爾達將校驗器取出。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪蒂爾達",
+          "text": "這樣就好了，我們該去下一座瞭望塔了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪蒂爾達",
+          "text": "對了，我之前就想問了，為什麼你知道那些學生用來召喚獅鷲的術陣是沒有用的？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾爾",
+          "text": "因為那是我在八年級時畫上去的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪蒂爾達",
+          "text": "……什麼？這、這不是破壞公物嗎？"
+        },
+        {
+          "kind": "title_card",
+          "text": "基金會走廊"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "漫長的走廊像一道首尾相銜的謎語，盤繞著委員會大樓，與精心設計的階梯系統一同連通各大樓層與房間。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "第一助手的腳步慢了下來。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "怎麼了，十四行詩？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "輕柔的說話聲在靜謐的空間中膨脹，基金會在“暴雨”前夕的忙碌絲毫沒有波及此處。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "我們剛剛經過了審理委員會的所在地，刻雷烏斯先生和其他委員這個時候應該就在那間房裡。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "刻雷烏斯先生正在接受訊問。我們當時前往別列格勒正是因為他提供的琥珀屋線索，我擔心……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "提交頓河地區的行動報告之後，基金會就沒有再過問這件事。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "如果基金會想在這件事上調查我，那程式早就應該開始了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "……我明白了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "十四行詩壓下憂慮。腳步聲再度在廊柱間迴響。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "就是這裡，我們進去吧。"
+        },
+        {
+          "kind": "title_card",
+          "text": "基金會辦公室"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "門後是一間再普通不過的標準辦公室，並無更多彰顯個人喜好的擺飾。這或許意味著它的使用者才剛剛搬入不久。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "房間的主人從桌面上一遝整齊堆砌的檔中抬起頭。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "無名者",
+          "text": "二位，很久沒見面了。"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

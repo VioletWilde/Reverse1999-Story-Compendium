@@ -1,6 +1,6 @@
 # The Last Defense
 
-- Chapter: 远征记 (`112`)
+- Chapter: The Campaign's Tale (`112`)
 - Episode: `11220`
 
 > Subtitle: They take to the saddle because this land raised them.

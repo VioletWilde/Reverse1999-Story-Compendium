@@ -1,6 +1,6 @@
 # A Cliché Photograph
 
-- Chapter: Green Lake Nightmare (`12101`)
+- Chapter: A Nightmare at Green Lake (`12101`)
 - Episode: `1210117`
 
 > Subtitle: The first photo from behind the scenes, inspiring vitriolic critique and deep slumber.

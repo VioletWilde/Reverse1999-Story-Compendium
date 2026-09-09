@@ -1,0 +1,856 @@
+{
+  "episode_id": 11216,
+  "chapter_id": 112,
+  "chapter_title": "遠征記",
+  "display_label": "",
+  "title": "憐憫之心",
+  "subtitle": "她已理解了其中的真意。",
+  "trails": [
+    {
+      "element_id": 1121601,
+      "owner_episode_id": 11216,
+      "trigger_episode_id": null,
+      "title": "基本處置方案",
+      "description": "小冊子中並未提及戰地護理中的創傷性腦損傷處理辦法。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=1216",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "我只有燉蕪菁能招待客人，不過我在您的碗裡加了些碎香腸。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "請用，然後再見，現在這段和平的時間是您離開的最佳時機了。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "這就要再見了嗎？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "請問您還希望從我這得到什麼？"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "既然您如此喜歡在我這做客，乾脆帶走您屁股下的椅子吧。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "那把椅子跟著我熬過了一整齣鬧劇，即便在最寒冷的冬天也沒有被變成木柴。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "是的，您是個尊貴的體面人，不該接受這樣寒酸的招待，但可惜我已經擠不出一滴淚來為這碗湯調味了。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "如果有人能夠早些結束這場鬧劇，我或許可以有更多餘糧來招待您。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "醃豬肉、燉牛肉、鹽味捲餅、馬鈴薯泥、酸菜、或許還能有啤酒。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "然而在有些人看來，一口吃的遠比不上幾枚勳章。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "不過我可以趁著現在去採買些物資。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "如果您興趣獨特，堅持要留在這裡享受硝煙的餘味，那您可以再坐一會。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "運氣夠好的話，下一場鬧劇會把您長久地留在這裡。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "這可真是寒酸",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1121602,
+      "owner_episode_id": 11216,
+      "trigger_episode_id": null,
+      "title": "明碼聯繫",
+      "description": "對方通道是開放的。因為在空蕩蕩的空氣裡，別無他物。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=1216",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "一封發給騎兵軍指揮部的電報"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "主題：關於匪軍夜間滲透突擊之事\n\n事態概要：本日凌晨起，敵軍通過未知途徑滲透佔領區西南防線，意圖破壞後方醫療系統。我方部隊在獅鷲軍的協同下，有效遏制並驅逐了入侵者。\n\n行動結果與損失評估：\n\n    ——南城區域：南城醫療物資倉庫被攻破。庫存25箱醫用嗎啡及繃帶等物資確認遺失。防衛該處的民兵第7街區自編連傷亡慘重，陣亡59人。該設施已喪失功能。\n\n    ——西城東部區域：我部隊反擊成功。在騎兵軍基金會醫療人員的支持下，波克羅夫兒童醫院得以保全。從敵軍手中成功搶救回以下物資：\n        醫用手術器械及藥品：33箱；\n        兒童被服（冬季）：4箱；\n        醫療設施：保溫箱3箱、蒸氣吸入器等設備10箱。\n    守衛及反擊戰鬥中，民兵第3街道自編連23人陣亡、醫院醫護人員10人遇難、基金會醫療人員1人重傷。\n\n    ——西城南部區域：敵軍進攻被伊戈爾部獅鷲軍和民兵團主力部隊擊退。神聖第七療養院完好無損。我方成功保全了醫療資產與傷患。具體搶救回的物資清單正在最終核實中，將隨補充報告遞交。\n\n當前態勢：城防已恢復至最高警戒級別。所有關鍵設施均已增派守衛。\n\n請求：當前民兵團急需補充損失的醫療物資，特別是止痛劑與繃帶。懇請騎兵軍指揮員對我部隊予以一定物資協助，並為後勤運輸提供便利。\n\n簽署：████"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "101222",
+      "internal_title": "第十二章12-16.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "憐憫之心"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "民兵",
+          "text": "真看不出來，你挺會馴馬的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "民兵",
+          "text": "現在城裡有些小孩都不樂意往這裡來了，嫌馬廄味道大……臭小鬼們，把哥薩克的立身之本都忘了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "梅蕾爾正有一搭沒一搭地給旅伴刷著身體。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾爾",
+          "text": "它是個好孩子，我認識它的時候它就這麼乖了，和我半點關係都沒有——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "安德烈森",
+          "text": "咴。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "漂亮的旅伴垂下頭，在她的頸窩處噴出濕熱的鼻息。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾爾",
+          "text": "——安德烈森！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "梅蕾爾手忙腳亂地用手背擦掉脖子上濕漉漉的水，年輕的民兵哈哈大笑了起來。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "民兵",
+          "text": "它認識你，而且很喜歡你，看來確實是你的馬。真可惜，我還以為能看見它在戰場上大放異彩的模樣。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "民兵拍了拍安德烈森的脖子，把韁繩遞給了梅蕾爾。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "民兵",
+          "text": "趁我回心轉意前，牽走它吧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "梅蕾爾點點頭，鄭重地接過韁繩。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾爾",
+          "text": "謝謝你一直照顧安德烈森。等事情結束了，我會來幫你收拾馬廄的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "民兵",
+          "text": "行啊，如果到時候我們都還活著的話。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "民兵揮了揮手，示意她趕緊走。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾爾",
+          "text": "那我就先……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾爾",
+          "text": "……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "撞進視野裡的黑色軍服讓呼吸又亂了分寸。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "民兵",
+          "text": "還走不走？不走的話安德烈森可就留給——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "只想著開個玩笑的民兵手裡被塞進了一截韁繩。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾爾",
+          "text": "幫我再照顧一下它！"
+        },
+        {
+          "kind": "title_card",
+          "text": "別列格勒·巷道"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "梅蕾爾屏住了呼吸，把心跳含在嘴裡，試圖將自己的存在感削弱至最隱微。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾爾",
+          "text": "那些黑色的軍服……這裡難道不是民兵的控制區嗎？他們是從哪裡潛入的？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一部分細胞嘯叫著逃離危險，另一部分理智卻控制著雙腿走向了他們的來處——儘管每一步都像在沼澤中行軍般艱難。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾爾",
+          "text": "只是重塑之手的小兵而已，沒事的……去確認一下城牆是不是有缺口就好，我不是要去跟蹤他們。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾爾",
+          "text": "他們發現不了我，我就不會和他們打起來。大不了還可以再試試變形術……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "暗巷盡頭的地面像灑過汽水，蒸發後殘留的糖漿黏膩無比。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "每次抬起腳，鞋底都像從黏鼠板上撕下一樣，拉出黏膩的絲線。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "你在這裡做什麼？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾爾",
+          "text": "——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她猛地朝聲音的方向轉身，鼻子撞上一塊堅硬的鋼鐵。疼痛令她整張臉都皺了起來。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾爾",
+          "text": "天哪……我感覺像是撞上了一堵牆……你也太結實了，瑪爾紗。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "騎士掏出一塊漿洗得發白的舊手帕，接住了梅蕾爾向下淌的鼻血。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "別亂動，血很快就能止住了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "看馬廄的民兵說你急匆匆地往這裡跑，你來這裡做什麼？你不該陪著卡戎嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾爾",
+          "text": "卡戎已經醒了，我本來想通知你的……但有更重要的事！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾爾",
+          "text": "我發現了重塑之手的士兵，眨眼就不見了——但他們是從這個巷子裡走出去的！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾爾",
+          "text": "我怕街壘的防線有缺口什麼的，想來檢查一下。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "重塑之手？不是普通匪軍？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾爾",
+          "text": "一定是他們，我見過很多次那種黑色的制服，不會認錯。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "……還好你沒有貿然跟過去，這太危險了。怎麼這個時候膽子這麼大了？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "梅蕾爾搓著鼻子，不知怎麼回話。騎士拍拍她的腦袋，端詳起這一段疑似有重塑士兵活動的小路。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "小路盡頭的出口是被臨時修建的磚牆堵死的，兩旁建築的窗戶也好好地鎖上……這是一條死路。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "腳下碾碎的苔蘚與地衣，在城市裡確實不常見，但在這久無人跡之處，生命自會倔強地蔓延。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一小截紗布落在潮濕的牆角。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "……嗯？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "藍黑相間的液體，像是從他們的面具上流下來的。除此之外，還有……血液。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "氧化得不算嚴重，但出血量很大。也許是受傷的重塑之手士兵用過的繃帶。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "可紗布上還殘留了一些石炭酸的氣味，重塑之手通常不會用它來處理傷口，他們更青睞草藥……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "只有城裡的醫院才會用這種消毒劑，也就是說……糟了，重塑之手的人去過醫院！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾爾",
+          "text": "醫院？……可他們是怎麼混進來的？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "重塑之手也許有他們的辦法，但現在我們沒有時間追究這個。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "我方佔領區內有兩家大醫院，最近的是波克羅夫兒童醫院，以及兩條街外的神聖第七療養院。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "梅蕾爾，你快去通知民兵和伊戈爾的人往這兩個地方加派人手，重塑之手可能還有人留在醫院內。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾爾",
+          "text": "好的，那你呢？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "我先去查看兒童醫院的情況，那裡全是孩子，面對敵人根本沒有抵抗能力。"
+        }
+      ]
+    },
+    {
+      "script_id": "101223",
+      "internal_title": "第十二章12-16.2",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "兒童醫院走廊"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "玻璃碎了，風擠著鑽進來，把手上打著石膏、頭上綁著紗布的孩子們逼到了牆角。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "護士",
+          "text": "你們要幹什麼？！你們已經把藥全拿走了，為什麼還要揪著幾個孩子不放？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "重塑軍官",
+          "text": "我耐心地向你解釋過，人類，把醫院裡的神秘學家後代交出來，我要帶他們回到自己真正的家庭。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "護士",
+          "text": "你們需要人質，把我帶走就好了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她大張著雙臂，讓自己矮瘦的身軀成為蓋住這些孩子的傘。她鼻樑上青了一塊，嘴角也破了，但眼神依然冷靜。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "重塑軍官",
+          "text": "你得不到救贖，我們的隊伍也不歡迎你，人類。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "軍官舉起槍，狠狠地砸向她的頭，逼她跪下。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "護士踉蹌了一步，但是沒有倒下。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "護士",
+          "text": "……我教孩子們認字，而不是教他們認命。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "護士",
+          "text": "記住了，我們的騎兵會把你們這些可鄙的侵略者都趕出去！！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "軍官揮揮手，一個頭戴面具的士兵便上前想要拽住一個孩子的胳膊。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "護士",
+          "text": "別碰他！！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "護士撲了過去，猛地把士兵撞倒在了地上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一拳，又一拳。哪怕揮舞的拳頭已經皮開肉綻，士兵臉上的面具也被打落，她始終沒有停下。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她全然沒有發現已經上膛的手槍對準了她的後腦勺。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "女孩",
+          "text": "娜斯佳小姐！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她在槍響與尖叫聲中倒在孩子們身前。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "瑪爾紗抹掉眼角無用的汗液與淚水，握緊塹壕棒，緊緊地貼在柱子後的陰影裡。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "重塑之手真的在這裡。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "其他房間都空了，醫院的成年人……都不在了，剩下的孩子都聚在這裡。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "黑衣士兵分頭四散在走廊裡，踢開每一扇門，在離開之前搶走哪怕是消毒棉球這樣的小東西。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "只有領頭軍官一個人用槍壓制住了幾個孩子，正向她的方向走來。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "和在鄉村做的事一樣，重塑之手一直在擄掠神秘學家，連孩子也不放過……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "還有十步。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "五步，四步，三步……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "“砰——！”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "騎士從陰影中一步踏出，沉重的鈍器在重塑之手軍官身上敲出一聲乾淨俐落的悶響。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "男孩",
+          "text": "——你、你是誰？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "別怕，我是其他醫院過來的醫生。我會帶你們去安全的地方，但是要聽我的話去做，好嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "也許是身上消毒水的味道起了作用，長期和醫生待在一起的孩子們停止了懷疑，選擇相信這個熟悉的氣味。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "男孩",
+          "text": "唔……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "重塑士兵",
+          "text": "喂，長官那邊怎麼沒動靜了？你和我過去看看。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "幾個在不遠處搜查的士兵發現了異常，他們端著武器，朝著長官倒下的方向尋了過來。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "來吧，快進去！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "瑪爾紗俯下身，推著恐慌的孩子們躲入了樓梯後一間小小的倉庫。\n她最後一個跨入門內，關門時嘈雜的腳步已經靠得很近了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "女孩",
+          "text": "娜斯佳小姐會沒事嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "瑪爾紗沒有辦法回答這個問題。她脫下披風，蓋在孩子們頭上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "我要你們在房間裡藏一會兒，之後聽見什麼聲音，都不要出聲。像是在玩捉迷藏一樣。知道嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "女孩",
+          "text": "嗯……嗯。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她一邊安撫著發抖的孩子們，一邊壓低呼吸，逐漸平復猛烈的心跳。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "緊繃的神經逐漸被神秘術撫平，她的注意力得以再次放在眼前的局勢上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "醫院裡不知道還有多少敵人，友軍應該很快就會來了。在這之前，守住這個房間應該是最好的方法。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "重塑士兵",
+          "text": "你在房間裡嗎，長官？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "重塑士兵",
+          "text": "我們該走了，芝諾和民兵團的人應該快要發現我們在這裡了——長官？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "在走廊的陰影中，士兵發現自己的上級俯身倒在地上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "重塑士兵",
+          "text": "該死的，他被襲擊了！那些小雜種肯定藏在門裡！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "士兵們意識到了這扇敲不開的門後有他們想要的東西。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "重塑士兵",
+          "text": "把所有人都叫過來，把門砸開，術士想要的那些小崽子肯定在裡面！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "門板承受了一次重擊，白蠟木板材碎裂的聲音與急躁的呼喊一同響起。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "男孩",
+          "text": "姐、姐姐……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "噓……不要大聲說話，還記得我剛才是怎麼說的嗎？有壞人在外面找你們，你們就要像玩捉迷藏一樣躲好。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "女孩",
+          "text": "可、可是，我害怕……娜斯佳小姐，他們把她……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "嘿，你們聽過騎士的故事嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "男孩",
+          "text": "我爸爸給我講過伊利亞的故事，他是一個非常厲害的哥薩克。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "女孩",
+          "text": "我還記得，哥哥從莫斯科帶回一本書，裡面寫了十二個騎士的故事，是哥哥念給我聽的……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "這都是很棒的故事，不過，我要說的是一個你們所有人都從來沒有聽過的故事。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "男孩",
+          "text": "那是一個什麼樣的故事？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "如果你們能好好待在房間裡，不要亂跑，我會回來把故事講完。答應我，好嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "男孩",
+          "text": "那……那好。你要出去嗎，姐姐？你要去哪裡，真的還會回來嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "當然會回來，這不是我們已經說好的嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "你們只要乖乖地……等我回來。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "在下一次撞擊來臨的前一刻，她推門而出，又迅速地將身後的門給關上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "在遙遠的山間，住著一群神秘的騎士，他們在高山修道院的嚴寒中過著清苦而隱秘的生活。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "他們的劍是雪原中鑄成的秘寶，盔甲上總是覆蓋著細密的白雪——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "有一年冬天，落雪比以往任何時候都多，郊區的山谷中堆滿了能讓人深深陷進去的積雪。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一個小女孩在雪地中迷了路。她走了幾乎一整夜，都看不見任何一戶人家。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "清晨來臨時，她倒在地上，在厚厚的雪中摔出一個小小的坑。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "在她快要睡著的時候，遠遠地看見一道白晃晃的影子，比那徹骨的風雪還要潔白……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "白衣騎士",
+          "text": "這是……一個女孩？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "迷路的女孩",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "白衣騎士",
+          "text": "仁慈的主，我差點以為是一隻狐狸，還好過來多看了一眼。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "白衣騎士",
+          "text": "看來下山的行程要取消了——拉住我的手，可憐的孩子，靠到我背上來，我帶你到修道院裡吃點東西。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "白衣騎士",
+          "text": "放心，我絕不會讓你死在這裡的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "……迷路的女孩和騎士一同回到了修道院——那是一座矗立在峭壁上的堅固城堡，就連邪惡的巨龍也不敢接近。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "女孩在這座城堡中長大了，她在漫長的訓練後如願以償地成為了騎士，就像那個在冬天拯救她的人一樣。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "但是戰爭……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "……戰爭隨之而來，她也和其他騎士一樣應徵走向戰場。他們殺死了數不清的敵人，心中的疑慮也越來越多。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "皇帝在宮殿裡說，騎士的修行就是磨煉殺人的技藝。但騎士們知道，這場戰爭將他們的尊嚴踩在了腳下。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "我們揮舞著戰旗，手持長劍，卻……從來不是……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "從來不是為了殺戮而戰。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾爾",
+          "text": "我聽見聲音了，就在門後面……瑪爾紗？是你在說話嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "托勒密",
+          "text": "過來，我們一起把門撞開就知道了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "民兵",
+          "text": "三、二、一！用力撞！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾爾",
+          "text": "天、天呐，瑪爾紗……還有這麼多孩子——快來人幫幫忙！她傷得好重！"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

@@ -1,6 +1,6 @@
 # The Puppy's Choice
 
-- Chapter: The Rimet Cup (`11101`)
+- Chapter: The Theft of the Rimet Cup (`11101`)
 - Episode: `1110115`
 
 > Subtitle: Which way should we go at the crossroads, left or right? Which side do you call, heads or tails?

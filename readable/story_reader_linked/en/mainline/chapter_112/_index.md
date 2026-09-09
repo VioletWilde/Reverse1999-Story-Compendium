@@ -1,4 +1,4 @@
-# Main Story · 远征记
+# Main Story · The Campaign's Tale
 
 - [11201 Quiet is the River Bank](11201-Quiet is the River Bank.md) — And quiet flows the river, and quickly flies the bullet.
 - [11202 The Eternal Autumn](11202-The Eternal Autumn.md) — O golden hue, no longer a gift from the Sun, nor a symbol of the harvest.

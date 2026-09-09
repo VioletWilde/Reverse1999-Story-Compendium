@@ -1,6 +1,6 @@
 # The Day of Departure
 
-- Chapter: 远征记 (`112`)
+- Chapter: The Campaign's Tale (`112`)
 - Episode: `11224`
 
 > Subtitle: After the dust settles, he makes the decision.

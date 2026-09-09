@@ -1,4 +1,4 @@
-# The Black Lamb
+# The Black Lamb
 
 - Chapter: Tristes Tropiques (`108`)
 - Episode: `10817`

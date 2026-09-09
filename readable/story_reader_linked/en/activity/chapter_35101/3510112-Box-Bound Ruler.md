@@ -1,6 +1,6 @@
 # Box-Bound Ruler
 
-- Chapter: 绿松石蛇俱乐部 (`35101`)
+- Chapter: The Turquoise Serpent Club (`35101`)
 - Episode: `3510112`
 
 > Subtitle: Even a paintbox can brew a storm.

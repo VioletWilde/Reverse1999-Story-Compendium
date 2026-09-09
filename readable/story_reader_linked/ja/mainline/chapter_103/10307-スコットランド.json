@@ -1,0 +1,487 @@
+{
+  "episode_id": 10307,
+  "chapter_id": 103,
+  "chapter_title": "物語は何処にもあらず",
+  "display_label": "",
+  "title": "スコットランド",
+  "subtitle": "油、デンプン、肉。みんなが大好きなフィッシュアンドチップス。",
+  "trails": [
+    {
+      "element_id": 1030701,
+      "owner_episode_id": 10307,
+      "trigger_episode_id": null,
+      "title": "小道① まん丸の強盗",
+      "description": "食べ物の誘惑は耐えがたい。彼らだってフィッシュアンドチップスのおいしさを知っている。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=10307",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1030702,
+      "owner_episode_id": 10307,
+      "trigger_episode_id": null,
+      "title": "厨房のフィッシュアンドチップス",
+      "description": "スタッフ食堂はお腹を満たすためのベストな選択。フィッシュアンドチップスまでもう少し情報が必要だ。",
+      "action": "",
+      "unlock_condition": "ChapterMapElement=1030701",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100308",
+      "internal_title": "第三章3-7",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "スコットランド"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "はぁはぁ…なんとかすべて追いやれた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "「ぐぅ――」"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "少しお腹が空いたな。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "そうだ、この南京錠の素材はなにかな。もしかして、これもシャミールが研磨できるように何か細工を…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "南京錠を光に当ててみた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "ただの金属だった。よく見かける普通の鉄の鎖で、ツルの部分はややさびている。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "なるほど。食料が足りている環境では、さすがのシャミールも空中にぶら下がっている鉄製の物には気付かないってわけか。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "へへへ、そろそろ新しい献立を試すべきよ、老紳士たち。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "鉄の門を閉め、足音をたてずに廊下を渡り切った。その先には暗闇しかない。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "廊下の両端にはそれぞれ監禁部屋がある。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "これらの部屋を通り過ぎれば、出入口だ。そこにカギはかかっていない。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "ぅん…うぅん！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "音がする方向を見ると、灰色の瞳の男の子が鉄格子から顔を出した。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "…あなたは？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "「リング」",
+          "text": "僕は「リング」。どんなものでもひっかけることができるんだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "「リング」",
+          "text": "ほら、見て！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "彼は指輪ほどの鉄のリングを投げた。そのリングはこちらまで転がり、足元の緩んだ靴ひもを結んだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "すごい！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "「リング」",
+          "text": "君、扉を開けられるんだよね？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "そうよ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "「リング」",
+          "text": "お願いを聞いてくれないか？　その代わり、君のために力を尽くすと誓うよ。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "お願いって？",
+          "edge_label": "How?",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "「リング」",
+              "text": "君の特技で、僕の部屋のカギを開けてほしいんだ…"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "ヴェルティ",
+              "text": "それできみは、こことおさらばってことね？"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "「リング」",
+              "text": "当然！　こんなところ、二度と戻りたくないね。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "ヴェルティ",
+              "text": "それはダメ。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "ダメだよ",
+          "edge_label": "No way, mate. ",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "「リング」",
+              "text": "そうか。君は僕の同胞だと思ってたんだけどね。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "ヴェルティ",
+              "text": "もしきみを逃がしたら、また戻ってくる？"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "「リング」",
+              "text": "戻ってくるわけないだろ！　一分たりとも、こんなところにいたいと思う人なんかいないよ！"
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "もしきみが部屋から逃げたら、わたしたちはもっと重いお仕置きを受けることになる。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "わたしはただ食べ物を探しに行くだけ。また戻ってくるわ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "「リング」",
+          "text": "…………"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "きみもなにか食べる？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "「リング」",
+          "text": "…フィッシュアンドチップスがいい。できれば、オニオンビネガーもつけてほしいな。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "わかった。マッシーピーも一緒に持ってきてあげる。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "３時間後"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "「リング」",
+          "text": "つまり、シャミールを倒して逃げ出したのか？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "ええ。あなたの部屋には、なにかおかしなものはいないの？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "「リング」",
+          "text": "別になにも。強いて言えば、薄汚いネズミが数匹いたくらいかな。とっくに片付けたさ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "彼は楽勝だというように肩をすくめ、フィッシュを大口で食べ始めた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "「リング」",
+          "text": "う〜ん、教員食堂のフィッシュアンドチップスは最高だね…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "「リング」",
+          "text": "第二食堂とは大違いだよ！　あそこはドレッシングを忘れるどころか、食材にタラを使わないんだぜ！？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "「リング」",
+          "text": "んっ…モグモグ…そういえば、君はどうしてここに？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "…「あれ」を口にしたからよ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "「リング」",
+          "text": "あれってどれ？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "「あれ」よ。パレード前の全校集会の時にみんなの前でね。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "「リング」",
+          "text": "まさか…あの「ス」から始まるものじゃないよな？　それを全校集会で？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "「リング」",
+          "text": "ぎゃははははは…！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "「リング」",
+          "text": "マジか…くふふ…校長、きっとカンカンだったろ！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "意味が分からないわ…どんな質問でもいいって言ったくせに。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "「リング」",
+          "text": "ところでそれ、どこで聞いたんだ？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "わたしたちの寮にいた清掃員からよ。それが彼の発した最後の言葉だったの。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "その後、彼は校門の外に連れて行かれて、あるトラックに載せられたわ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "その道中ずっと叫んでいたの。「ストームがくる、ストームがくる」ってね。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "あっ、言っちゃった――"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "…やっちゃった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "「リング」",
+          "text": "いいじゃん、話続けてよ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "…いろんな人に聞いてみたけど、誰も相手にしてくれなかった。モーリスおじさんが言うには、彼は不当な時期に学院を離れたせいで、見てはならないものを見てしまったって。だから、治療が必要なんだって。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "「リング」",
+          "text": "僕の予想は当たってたんだ。学院は情報を遮断してるんだよ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "どういうこと？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "「リング」",
+          "text": "これを見ろよ。職員室から持ち出したんだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "『「ストーム」で変わりゆく世界：財団による真相隠蔽』？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "「リング」",
+          "text": "そう。この記事によれば、学院の外では「ストーム」という現象が現れていて、人々の命を脅かしてるんだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "「リング」",
+          "text": "その真相を財団は隠蔽してるんだ。僕たちに「それ」を口に出させないのが、なによりの証拠さ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "記事の材質はとてもやわらかい。印刷された文字は、ところどころにじんでいる。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "でもこの記事にも「それ」に対する説明は書かれていないね。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "文章の最後に、太字で「マヌス・ヴェンデッタがあなたを歓迎します」…って書いてあるよ？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "マヌス・ヴェンデッタってなに？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "「リング」",
+          "text": "さあ、聞いたことないな。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "裏にもなにか印刷されているみたい。えっと、どれどれ…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "幸福も、平和も、声名も、健康も"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "敬服も、尊厳も、技術や武術も"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "従順に飼いならされし子羊を顧みぬ"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "「リング」",
+          "text": "明けの明星も、その目には届かず\n               古き遺跡に、溢るる恥べき隠ぺい\n               その詩は鏡に映らず、ただ盲目に賞賛の音をあげる\n\n           数知れない潮、渦巻く満ち引きに従いて\n               冒涜を以て、天国を汚す。\n               災いを以て、学識を呑み込む。\n\n               その追い鞭と哀れな子羊たちは何になろう？\n            ひと、人となりたいのなら、己に築きし\n           王朝を牽引せよ、自我を以て\n            保たれた意識で、彼の渇望と\n               恐れを鎮め、真の彼自身を奪取せよ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "…………"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "………………"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "夜はとても静かだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "だが、蠢動は暗闇に身を潜めることをやめた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "「ヂュー――」"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "「リング」",
+          "text": "なんだ！？　さてはこいつら、ポテトの匂いにつられてきたな！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "「リング」",
+          "text": "ヴェルティ？　ヴェルティ！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "「リング」",
+          "text": "なにボーっとしてんだ？　はやく手伝ってくれ！"
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

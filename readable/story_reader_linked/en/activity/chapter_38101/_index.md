@@ -1,11 +1,11 @@
-# Event Stories · 世纪末尺度
+# Event Stories · The Temporal Scale
 
 - [3810101 "Fin-de-Siècle"](3810101-Fin-de-Siècle.md) — From melancholy it came, and to melancholy it returns.
 - [3810102 Eastward](3810102-Eastward.md) — —You see, that's the part that refuses to be forgotten.
 - [3810103 Sound of Silence](3810103-Sound of Silence.md) — If you step into silence, you'll hear it.
 - [3810104 Beneath the Shades](3810104-Beneath the Shades.md) — Poetically man dwells.
-- [3810105 A Building's Message](3810105-A Building's Message.md) — You listen to those that dwell inside you, tuning yourself to their sounds as they ring out over and over again.
-- [3810106 Dream Houses](3810106-Dream Houses.md) — "Do you consider yourself a postmodernist?"<br>"As long as saying 'yes' will get people talking about architecture."
+- [3810105 A Building's Message](3810105-A Building's Message.md) — Oh, architecture—you let people dwell inside you, listening to that same sound, again and again.
+- [3810106 Dream Houses](3810106-Dream Houses.md) — "Do you consider yourself a postmodern architect?"<br>"If saying yes gets people talking about architecture, I don't mind."
 - [3810107 Fallingwater](3810107-Fallingwater.md) — Study nature. Love nature. Draw close to nature.
 - [3810108 The Workings of Light](3810108-The Workings of Light.md) — Everything you've given me is light. Light, and nothing else.
 - [3810109 The Baseline](3810109-The Baseline.md) — I am the space I occupy.
@@ -14,11 +14,11 @@
 - [3810112 Omnipresence](3810112-Omnipresence.md) — She came from silence, and to silence she longs to return.
 - [3810113 The Immeasurable](3810113-The Immeasurable.md) — Shadowless, lightless, shadowless, lightless ...
 - [3810114 Existence-Will](3810114-Existence-Will.md) — To exist, only to exist.
-- [3810115 Veins of the City](3810115-Veins of the City.md) — A house is but a small city. A city is but a great house.
+- [3810115 Veins of the City](3810115-Veins of the City.md) — A house is a small city. A city is a great house.
 - [3810116 Volume Zero](3810116-Volume Zero.md) — "What is it that you want to be, brick?"<br>"I want to be an arch."
-- [3810117 Modulor](3810117-Modulor.md) — In this stillest of silences, this alone remains.
-- [3810118 To Claim Tomorrow](3810118-To Claim Tomorrow.md) — The path I tread has never been clear.
-- [3810119 Genius Loci](3810119-Genius Loci.md) — But I remember such beautiful sights—I want to see the outside again!
+- [3810117 Modulor](3810117-Modulor.md) — In this stillest of silences, this lone body remains.
+- [3810118 To Claim Tomorrow](3810118-To Claim Tomorrow.md) — The path I guide has never been clear. It has never been clear.
+- [3810119 Genius Loci](3810119-Genius Loci.md) — But I've seen such beautiful views—I want to see the outside again!
 - [3810120 New Beginnings and the End](3810120-New Beginnings and the End.md) — Be joyful, friends. Our journey ends here.
 - [3810121 Silence and Light](3810121-Silence and Light.md) — Between silence and light, between beginning and end, shadows always linger.
 - [3810122 Spring of Nowa Miedź](3810122-Spring of Nowa Miedź.md) — Sleep now, my child. The sun has already risen—

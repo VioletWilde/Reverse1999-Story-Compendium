@@ -1,6 +1,6 @@
 # As We Like It
 
-- Chapter: The Rimet Cup (`11101`)
+- Chapter: The Theft of the Rimet Cup (`11101`)
 - Episode: `1110116`
 
 > Subtitle: A farce, a victory and a celebration. When the dust has settled, the hero comes back to his sweet home.

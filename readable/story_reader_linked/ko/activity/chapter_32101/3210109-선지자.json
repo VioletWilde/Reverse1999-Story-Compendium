@@ -1,0 +1,778 @@
+{
+  "episode_id": 3210109,
+  "chapter_id": 32101,
+  "chapter_title": "흘러가는 축제",
+  "display_label": "",
+  "title": "선지자",
+  "subtitle": "오늘부터 운명에 대한 얘기는 금지... 아, 그렇게 바로 말을 바꾸진 말고요.",
+  "trails": [
+    {
+      "element_id": 3210304,
+      "owner_episode_id": 3210109,
+      "trigger_episode_id": null,
+      "title": "친구로부터",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=3210109",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "당신의 마음씨 좋은 친구가 엽서를 보내왔다. 엽서 뒤에 그려진 그림이 당신의 이번 주 운명을 결정한다고 한다. 엽서를 뒤집어 당신이 본 그림은..."
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "부드럽게 휘감긴 곡선",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "모든 못을 둥글게 지나간다."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "날카롭게 꺾인 직선",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "종이인데도 고통스럽게 느껴진다."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "한쪽 모퉁이가 없는 정사각형",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "그래도 정사각형인 것을 알아볼 수 있다."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "완전한 원",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "가장 완전하고 빈틈 없는 도안이다."
+            }
+          ]
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 3210404,
+      "owner_episode_id": 3210109,
+      "trigger_episode_id": null,
+      "title": "그 이름을 떠올리면...",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=3210109",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "브룸 양은 그렇게 아무도 없는 조수석을 향해 말을 걸었어요. 그녀의 존재하지 않는 친구를 향해 소리쳤죠."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "이름이... 페르시아? 아니, 펠리시엔느?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "네, 펠리시엔느였어요. 마침 같은 이름을 가진 사람과 교류한 적이 있어서 그 이름을 기억하고 있었죠."
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "같은 사람이야?",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "확실히 베릴이나 아델이라는 이름에 비해 펠리시엔느라는 이름을 가진 사람은 드물죠."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "하지만 운명이 아무리 서툴다고 해도 그 정도는 아니랍니다."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "자신이 얼마나 터무니 없는지 증명하려고 급급해하지 않는 이상, 그렇게 따분한 이유로 저와 브룸을 연결하지는 않아요."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "후후후, 농담을 잘하네요. 그렇게 말하는 것도 정말 재미있네요."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "아쉽게도 펠리시엔느는 나폴레옹처럼 모든 이가 기억할 만한 존재가 되지 못했죠."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "어쩌면 전의 이야기 때문에 그런 생각을 하게 된 걸지도 모르겠지만, 지금 결론을 내리기에는 아직 이르죠."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "게다가 제가 아는 그 펠리시엔느는 어디서나 흔히 볼 수 있는 펠리시엔느로 여겨지는 걸 싫어할걸요?"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "그녀의 혈통은 평범한 사람과 다르거든요. 아마 제2차 산업 혁명 전까지는 그 무엇보다도 귀중히 여겨지는 혈통이었을 거예요..."
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "귀족인가 보네.",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "네. 그녀의 가문은 대대로 전해지는 번개 마도술을 자랑스러워했죠. 안타깝게도 발전기가 발명된 후로 완전히 몰락해, 이미 오래전에 사교계에서의 발언권을 잃어버렸지만요."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "그런데도 가문의 유산이 이백 년 동안 쓰고도 남을 정도라, 그녀가 노년까지 귀족 생활을 하기에는 충분했죠…"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "그녀는 자신을 전사, 영웅, 심지어 번개의 사제로 비유하곤 했어요. 그것들 모두 그녀의 가문이 각 시대에서 마도술로 얻어낸 칭호거든요."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "가문의 마지막 알루미늄 제작 작업을 발전기에게 빼앗긴 지 백 년이나 지났는데도, 그녀는 여전히 가문의 모든 역사를 기억했죠."
+                },
+                {
+                  "kind": "choice",
+                  "speaker": "",
+                  "text": "그러니까 그녀는 ‘폭풍우’ 전의 사람이라는 거네.",
+                  "edge_label": "",
+                  "branch": [
+                    {
+                      "kind": "dialogue",
+                      "speaker": "???",
+                      "text": "당신의 추측이 맞아요. 그녀가 태어났을 때는 ‘폭풍우’가 일어나지 않았어요."
+                    },
+                    {
+                      "kind": "dialogue",
+                      "speaker": "???",
+                      "text": "하지만 문제의 핵심은 그게 아니랍니다. ‘폭풍우’ 전의 사람이어도 여전히 다른 시대의 사람과 만날 수 있잖아요. 당신과 당신의 친구들, 그리고 저와 브룸처럼요."
+                    }
+                  ]
+                },
+                {
+                  "kind": "choice",
+                  "speaker": "",
+                  "text": "그녀는 회귀했구나.",
+                  "edge_label": "",
+                  "branch": [
+                    {
+                      "kind": "dialogue",
+                      "speaker": "???",
+                      "text": "네. 제가 아는 펠리시엔느는 오래전에 ‘폭풍우’가 쏟아졌을 때 사라져 버렸어요."
+                    },
+                    {
+                      "kind": "dialogue",
+                      "speaker": "???",
+                      "text": "그러니 기적이 일어나지 않는 한 그 누구도 다시는 그녀를 볼 수 없겠죠."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "그녀의 마도술은 꽤나 강력했나 보구나.",
+              "edge_label": "",
+              "branch": []
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "모든 프랑스인이 펠리시엔느를 알고 있는 거야?",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 3210504,
+      "owner_episode_id": 3210109,
+      "trigger_episode_id": null,
+      "title": "친구로부터",
+      "description": "",
+      "action": "",
+      "unlock_condition": "ChapterMapElement=3210304",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "당신의 마음씨 좋은 친구가 엽서를 보내왔다. 엽서 뒤에 그려진 그림이 당신의 이번 주 운명을 결정한다고 한다. 엽서를 뒤집어 당신이 본 그림은..."
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "부드럽게 휘감긴 곡선",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "모든 못을 둥글게 지나간다."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "날카롭게 꺾인 직선",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "종이인데도 고통스럽게 느껴진다."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "한쪽 모퉁이가 없는 정사각형",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "그래도 정사각형인 것을 알아볼 수 있다."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "완전한 원",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "가장 완전하고 빈틈 없는 도안이다."
+            }
+          ]
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "203213",
+      "internal_title": "【3.2】迁流的盛宴09",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "셀리아? 셀리아?... 역시 없네."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "아델은 옆집 문을 향해 돌아선 후, 주머니에서 열쇠 하나를 꺼냈다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "일단 우리 집에서 찾을 수밖에 없겠네."
+        },
+        {
+          "kind": "title_card",
+          "text": "아파트"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "아파트 안은 수정 공방보다 물건이 훨씬 더 많았지만, 눈부시지는 않았다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "가공되지 않은 원석, 전시회 홍보물, 도로 지도와 하수도 지도, 기계 수리에 쓰이는 각종 도구..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "음... 어디 보자. 셀리아가 우리 집에 꽤 많은 물건을 놔뒀는데..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "블록처럼 가지런히 쌓아 올린 물건 중에서 베릴은 장식된 사진 하나에 시선이 꽂혔다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "베릴",
+          "text": "이건 당신과 셀리아인가요? 정말 친해 보이네요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "흑백 사진 속의 모습은 여전히 선명했다. 한 여자아이는 신이 나 있고, 또 다른 한 명은 카메라 밖으로 뛰쳐나갈 것처럼 긴장해 있었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "당연하지. 부모님이 모험하느라 바빠서 우리 둘은 함께 자란 거나 다름없거든. 어릴 적에 셀리아네 집에서 자주 밥을 먹곤 했지..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "아델은 서랍을 하나씩 열면서 베릴의 질문에 답했다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "난 알고 있어. 셀리아는 얌전한 외모와 달리 그 누구보다도 용감하다는 걸."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "지금은 나보다 더 원대한 포부를 품고 있지."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "후우... 잘만 보이더니 찾을 때는 안 보이네... 이걸로 될까?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "아델은 맨 아래 서랍에서 편지 다발을 꺼냈다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "세계 곳곳에서 온 걸로 보이는 우표와 달리, 편지 봉투는 다 비슷비슷했다. 그리고 모든 봉투에 놀라울 정도로 깔끔한 문장이 한 줄 적혀 있었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "\"딸, 아델 타베르니에에게\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "베릴이 편지 한 통을 들어 올려 자세히 살폈다. 끝 쪽이 말리고, 살짝 누렇게 변한 우표와 달리 봉투는 새것 같았다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "베릴 씨?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "아델이 참지 못하고 재촉했다. 그녀는 모든 걸 안다는 듯한 베릴의 표정이 마음에 안 들었고, 지금은 그 편지의 출처에 관해 이야기하고 싶지 않았다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "베릴",
+          "text": "이 편지들은... 네, 좋습니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그녀는 아델의 발 쪽의 비어 있는 서랍을 힐끗 봤다. 그곳은 자주 사용하는 책상의 가장 눈에 띄지 않는 구석에 해당됐다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "베릴",
+          "text": "당신의 부모님은 파리에 돌아오지 않은 지 오래됐나 봅니다. 확실히 그들보다는 셀리아와 더 친했겠네요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "별거 아니야. 애초에 우리 부모님은 나랑 함께했던 시간이 얼마 안 되거든."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "베릴",
+          "text": "그렇군요. 최선을 다해 당신의 소중한 친구를 찾아보죠."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그녀는 일상생활의 일부라도 된 것처럼 편지를 한 통씩 읽기 시작했다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "초점이 흐려지기 시작했는데도 멈추지 않고 모든 글자를 더듬고 읽으며, 그 안에서 보이지 않는 빛을 찾고자 했다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그리고 그녀의 눈에 마침내 빛이 돌아왔다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "베릴",
+          "text": "당신의 친구는 이 도시에 집어삼켜져 어두운 동굴에 떨어지고 말았습니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "베릴",
+          "text": "대역병의 유산, 지하의 또 다른 세계... 춤추는 망령과 함께 있군요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "집어삼켜져... 동굴... 지하의 또 다른 세계..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "택시 운전 기사의 눈썹이 찌푸려졌다가 또 확 퍼졌다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "아! 카타콤인가 봐! 그러고 보니 어제 죽음의 무도를 연구하러 간다고 했었어!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "분명히 지금 카타콤의 해골 벽화를 관찰할 수 있는 곳에 있을 거야! 망할, 예전부터 그런 곳에 다니기 좋아하더니..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "그렇게 말하니 진짜 깜짝 놀랐잖아. 정말 또 다른 세계에 간 줄 알고..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "목표를 확인한 그녀는 망설이지 않고 곧바로 아파트 현관문을 향해 달렸는데, 그런 그녀를 점술사가 불러 세웠다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "베릴",
+          "text": "...그녀의 운명 속에서 당신도 봤답니다, 아델."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "응?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "베릴",
+          "text": "꼭 가겠다면 그 앞길에는 분명 희생이 있을 겁니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "......"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그건 경고가 아닌 서술이었다. 베릴은 정말로 더 머나먼 무언가를 볼 수 있는 것 같았다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "하지만 그녀는 미소 지을 뿐이었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "어릴 때부터, 그런 얘기는 엄청 들었어. 그런 애매한 예언 하나 때문에 셀리아와 내가 알아내고 싶어 하는 것을 포기하지 않을 거야."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "운명의 방식은 존중하지만, 난 내 판단을 믿어."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "베릴은 여전히 평온한 표정으로 그녀를 바라보고 있었다. 아델은 그 투명한 눈빛에 묘한 기분이 들었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "베릴의 시선은 현재가 아닌 더 머나먼 어딘가를 향하고 있는 것 같았다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "잠시 후 그녀는 입꼬리를 올리며, 평소와 다름없는 우아한 목소리로 말했다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "베릴",
+          "text": "...네. 당신이라면 그렇게 말할 줄 알았습니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "두 사람은 아파트 입구로 돌아왔다. 운전 기사는 시간이 느리게 흐르기를 바라는 것처럼 자신의 차를 향해 발걸음을 천천히 옮겼다. 친구의 위치를 알게 되었다고는 하지만, 마음속의 의문은 하나도 줄어들지 않은 상태였다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "...베릴 씨, 점술사는 꿈을 통제할 수 있어?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "베릴",
+          "text": "물질은 퇴화한 정신일 수 있고, 정신은 더 높은 단계의 물질일 수도 있습니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "베릴",
+          "text": "하지만 형태를 갖춘 물질은 서로 상호작용하며 간섭할 수 있죠. 당신이 기대하던 답이 이것일까요?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "그러니까 꿈을 통제하는 건 점술사인 당신에게 어려운 일은 아니라는 거네."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "핵심을 찌르는 질문이었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "고개를 돌린 베릴의 표정은 여전했다. 그 말은 그녀의 미소를 무너뜨릴 만큼 날카롭지는 못했다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "베릴",
+          "text": "아델 양, 전 당신의 꿈을 조종한 적이 없습니다. 그걸 믿지 못한다면 애초에 점을 칠 필요도 없었겠죠."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "아니야. 믿지 않는다는 뜻은 아니었어."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "단지 꿈이 현실이 됐다는 이 사실이 믿기지 않아서 그래. 그쪽은 이런 부분에 대해 가장 잘 알고 있는 사람인데다, 마침 내가 최근에 접한 두 명의 점술사 중 한 명이 죽었으니..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "베릴",
+          "text": "괜찮습니다. 저였어도 비슷한 의심을 했을 테니까요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "이해해 줘서 고마워... 어서 타. 어디 살아? 내가 가장 빠른 길로 데려다줄게..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그녀는 훌륭한 운전 기사로서의 예의를 다해 조수석 문을 열었지만, 그 자리는 이미 누군가가 차지하고 있었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "펠리시엔느?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "펠리시엔느",
+          "text": "대체 날 언제까지 기다리게 하려나 했네! 이걸 어떻게 변명할 거지, 아델?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "또 다른 실종자가 늦지 않게 나타나자 아델은 안도의 한숨을 내쉬었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "아이고, 지금 여기저기서 파업하고 있는 거 몰라? 너 같이 귀족 같은 분위기를 풍기는 사람은 함부로 다니면 안 된다고."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "아니, 그 목걸이는 어디서 난 거야?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "펠리시엔느",
+          "text": "말 돌리지 마. 지금까지 나를 잊고 있었던 이유가 뭐야? 네 충성심이나 명예를 지키기 위해서라도 변명해 보시지 그래."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "아가씨는 마카롱 한 개를 가볍게 집어 들면서 혀로는 가혹한 말을 내뱉었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "그건 셀리아가 나한테 준 목걸이인데, 왜 너한테 있는 거냐고!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "아델은 황급히 손을 뻗어 주머니를 뒤졌지만, 그 안에는 아무것도 없었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "펠리시엔느는 손에 쥔 디저트를 내려놓고, 가슴 앞에 걸린 목걸이를 들어 올렸다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "펠리시엔느",
+          "text": "하? 셀리아가 너한테 준 거라고? 너 프랑스인 아니었어? 아니면 운전도 제대로 못할 정도로 멍청해진 거야?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "펠리시엔느",
+          "text": "다시 한번 설명할 테니 머릿속에 똑똑히 새겨둬."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "펠리시엔느",
+          "text": "이건 내 물건이야! 내가 직접 되찾은 보물이자, 내 일생의 모험에서 얻은 가장 큰 성과라고."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "펠리시엔느",
+          "text": "아직 미래에 상처받지 않은, 바롱 가문의 숙원이자 아름다운 시대의 유산이야."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "펠리시엔느",
+          "text": "이건 내 보석이야! 알았어? 내 거, 내 거, 내 거라고!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "펠리시엔느",
+          "text": "거만한 아가씨는 보석을 꽉 쥐면서 아델을 바라봤다. 그러나 분노에 찬 말투와 달리 눈빛에서는 전혀 분노를 느낄 수 없었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그건 마치 쓸모없고, 분노조차 낭비라 여겨지는 도구를 바라본 눈빛이었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "그게... 무슨..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "베릴",
+          "text": "아델 양, 괜찮으세요?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "베릴이 휘청이는 운전 기사를 뒤에서 부축했다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "베릴",
+          "text": "아직도 그 ‘펠리시엔느’라는 분을 걱정하고 있는 건가요?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "걱정하다니? 바로 여기에 있잖아! 대체 왜 그러는 거야, 펠리시엔느?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "...펠리시엔느?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "베릴은 그녀가 가리키는 방향을 따라 조수석으로 시선을 옮겼다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "...그녀의 목소리가 잠시 멈췄다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "베릴",
+          "text": "하지만... 아델 양, 보세요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "베릴",
+          "text": "조수석에는 아무도 없는걸요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "베릴",
+          "text": "차 문을 열고서, 계속 허공을 향해 소리치고 있었답니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "아델은 한참 후에야 자신의 목소리를 되찾았다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "..................어?"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

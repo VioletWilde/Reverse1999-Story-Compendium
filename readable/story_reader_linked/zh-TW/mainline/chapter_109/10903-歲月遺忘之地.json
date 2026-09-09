@@ -1,0 +1,424 @@
+{
+  "episode_id": 10903,
+  "chapter_id": 109,
+  "chapter_title": "瘋癲與文明",
+  "display_label": "",
+  "title": "歲月遺忘之地",
+  "subtitle": "很好，計畫一切順利，“命運”尚未翻牌——至少到目前為止。",
+  "trails": [
+    {
+      "element_id": 1090301,
+      "owner_episode_id": 10903,
+      "trigger_episode_id": null,
+      "title": "國家傅柯學會",
+      "description": "他們高舉著哲學，然後平等地迫害每一個“異端”。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=903",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "一個謊言，造成了一系列的連鎖反應。因此我帶來一個壞消息，你遭到了背叛。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "但還有一個好消息，那位飛行員中尉對你的忠誠，要比她所宣誓的組織來得多得多。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "誰的膽子這麼大？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "你認識那位將軍。他為自己帶來了一位不可戰勝的敵人，也在自己的心臟上留下了不可癒合的疽瘡。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "坐在那個位子上，他必須把信念刻進腦髓，連著整條脊樑骨都挺得筆直。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "就算前線捷報不斷，他也有自己的判斷。哪怕連手下的副將都懷疑他下了步壞棋。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "站得高看得遠，上面的人著眼點總是與眾不同的。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "叛徒不會有好下場。",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "你應該聽過特洛伊木馬的故事。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "但你是否瞭解那個試圖制止木馬入城的祭司的下場？還有木馬裡的將士們如何忍耐著不發出哀號？以及特洛伊將軍的葬身之地？"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "他知道這點。被手下打穿腦袋是對那可憐的榮譽的傷害——相對而言選擇背叛要好得多。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "這與智慧無關。只是一位病人受夠了疽瘡的折磨。於是，他看著窗外，有了一個主意。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "那是新晉的傳道者畫上的一片嫩葉，而他也決定爭取所能爭取的一切。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "他知道的，是他自己把自己逼上了絕路。"
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "夠了，我聽夠壞消息了。",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "太棒了，我也完成了這次彙報。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "希望你可以一直做出正確的決斷，畢竟捷報並不常有。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "希望他足夠聰明。",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100904",
+      "internal_title": "第九章9-03.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "歲月遺忘之地"
+        },
+        {
+          "kind": "title_card",
+          "text": "科馬拉監獄·外圍"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "灰色的河床在冰冷的大地上蜿蜒，直至消失在視線的深處。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "這棟整潔而破舊的圓形建築，像是被人類、上帝、鬼魂同時遺棄的存在，孤零零地佇立於雪山之下。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "圍欄外，不請自來的三人正商討著進入的方式。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "看，這就是科馬拉監獄！它是鎮上最大的建築，天晴時，我們總能一眼看到它。它就像一個鏽掉的金屬紐扣，歪歪扭扭地釘在地面上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "沒人在意它，但誰也不能少了它。小心點，上山的路不太好走……噢……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "快要滑倒的青年作家被眼明手快的第一助手拉住，避免了第二次摔倒的悲慘命運。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "呼……謝謝！所以，你是來自聖——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "聖洛夫基金會。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "維爾汀則是聖洛夫基金會的司辰。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "太棒了，一個偉大的官方稱呼。你們一定有辦法，堂堂正正從門口進去是嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "大門緊閉著，它不歡迎任何的訪客。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "我可以立刻撰寫一封信件，聯絡基金會總部。總部通過審核後，將會通知布宜諾斯艾利斯分部，隨後通知阿根廷本地政府。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "屆時，基金會可以為我們頒發一張特殊的准入許可……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "聽起來，官方機構偶爾還是能發揮些作用的。噢，請見諒，沒有針對兩位的意思。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "如果情況緊迫，相信基金會會加快他們的審批速度——順利的話，預計在一個月之後，我們就可以拿到那張准入許可。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "……我改變主意了，我們還是不要麻煩官方比較好。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她一秒重拾了自己的成見。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "比起原地等待那封不知何時到來的倒楣許可，眼下，我有一個更快捷便利的做法。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "等等……虛構集小姐，你要做什麼？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "來不及阻止，女孩已經熟練地、手腳並用地爬上牆頭。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "從瓜達拉哈拉到烏蘇懷亞的這一路，沒有任何一堵牆能攔住一個想要逃跑的詩人。所有的一切，都只是為了這刻而進行的演練……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "來吧，兩位來自基金會的淑女！十四行詩，請把手遞給我！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "被點名的第一助手顯得十分慌張。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "你的行為十分危險，虛構集小姐，請從圍欄上下來……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "感謝你的引路，根據《暴雨改革：增員與秩序》條約，接下來的任務會有一定危險性。我們無法告知你詳情，但你可以返回小鎮，在安全的地方等待。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "這根本沒有道理！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "我以為我們已經是命定的同路人了！因為，我也有必須進入監獄的理由——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "虛構集小姐，有人過來了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "監獄圍欄的另一側，屬於大型捕食者的視線鎖定了圍牆上鬼鬼祟祟的身影。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "你們在這裡做什麼？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "噢，糟糕，又是她。科馬拉的獄卒來了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "科馬拉的獄卒……？"
+        }
+      ]
+    },
+    {
+      "script_id": "100905",
+      "internal_title": "第九章9-03.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "獄卒",
+          "text": "虛構集小姐，我認得你。並且我衷心地希望不要再見到你。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "嗨，獄卒小姐，我倒是很高興見到你。你看，今天的天氣多麼——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一陣冷風及時打斷了她無意義的寒暄。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "多麼舒適宜人！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "獄卒",
+          "text": "你可以現在就離開這裡嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "獄卒",
+          "text": "我不明白，一位像你這樣的小姐，為什麼要執著地進入監獄？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "獄卒",
+          "text": "我已經告訴過你，像試圖闖入科馬拉的這種行為，並不足以讓你真正坐牢，卻會讓你在憲兵處吃盡苦頭。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "獄卒",
+          "text": "希望你不要再進行無謂的嘗試了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "獄卒",
+          "text": "除卻官方批准的學會成員與報社記者，科馬拉監獄不允許任何外人參觀。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "但、但是我必須得找到……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她絞盡腦汁地思索著理由。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "您剛剛提到了，官方。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "獄卒",
+          "text": "是的。這位小姐，請問您是？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "實際上，我是聖洛夫基金會的司辰。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "根據聖洛夫基金會的指令，我們前來拜訪這座科馬拉監獄——這是我的證件，它如假包換。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一些無關緊要的先斬後奏，讓旁邊並不擅長撒謊的第一助手漲紅了臉。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "隔著監獄的圍欄，獄卒猶豫地接過了那張身份證明。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "那是一張很有質感的卡片，上面還印有聖洛夫基金會的印章。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "獄卒",
+          "text": "……的確是真的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她喃喃地說道。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "獄卒",
+          "text": "歡迎您來到科馬拉監獄，維爾汀小姐。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "獄卒",
+          "text": "請您原諒我的魯莽。事實上，已經很久很久，沒有官方相關的人員來過這裡了。"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

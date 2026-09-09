@@ -1,9 +1,9 @@
 # Veins of the City
 
-- Chapter: 世纪末尺度 (`38101`)
+- Chapter: The Temporal Scale (`38101`)
 - Episode: `3810115`
 
-> Subtitle: A house is but a small city. A city is but a great house.
+> Subtitle: A house is a small city. A city is a great house.
 
 ## Transcript
 

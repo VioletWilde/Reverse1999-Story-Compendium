@@ -1,0 +1,802 @@
+{
+  "episode_id": 10608,
+  "chapter_id": 106,
+  "chapter_title": "今夜星光燦爛",
+  "display_label": "",
+  "title": "鏡面與提燈",
+  "subtitle": "你與我相遇，房間裡佈滿熠熠光輝。",
+  "trails": [
+    {
+      "element_id": 100607,
+      "owner_episode_id": 10608,
+      "trigger_episode_id": null,
+      "title": "帝國的孩子",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=608",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "多瑙河，一條從露珠裡誕生的河流，無數嗷嗷待哺的孩子們的一位好母親。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "您瞧見的，正是她所培養的兩位最壯碩的孩子共築的帝國。他們闊綽又體面，是那種尤其值得向外鄉人誇耀的孩子。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "金色大廳的弦音令人們甘願飄洋過海，這片土地所孕育出的藝術就是說上一整晚，恐怕也不能為您說盡。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "帝國裡的十一位孩子，圍成一個圈，當他們湊在一塊兒，就會比麻繩擰起來更緊，比篝火燒起得更旺！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "誰要想闖進來，都得先吃上二十二隻拳頭。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "這裡有最繁榮的街巷，滿心歡喜的人兒滿街遍地；這裡有最自由的土壤，連同小鳥兒們一塊兒。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "聽上去很不對勁",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "呵呵呵，您吃過了更大的謊，鼻子向來靈通。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "嗯……值得欣賞",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "呵呵，您就像一位展櫃前的遊客，撿著什麼話聽什麼。放機靈點兒，親愛的。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "如果我們把腳步加快一些，很快就能看見另一副樣貌。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "您會瞧見為窮人所舉辦的慈善舞會，為維也納的善心家們添上了一筆憐憫的榮譽，沒有誰知道這筆鈔票逃去了哪裡。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "您會瞧見老鼠啃食著死去的乞丐，神秘學家脫下藝術的盛裝，貧窮與悲劇正悄然地傳染他們以及每位邊緣人的臉龐。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "除了兩位偉大的帝國之子，匈牙利與奧地利先生，以及他們所共築的這座巨大的、有點兒嚇人的中央政府。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "其他的孩子，就只能在門扉之外受著冷風。即便這些孩子的天賦能謀一份差事，可您得同樣承認，那些差事在政治的桌子上換不來什麼好籌碼。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "波希米亞、摩拉維亞……這個帝國如果對這些邊緣地區的孩子還有僅存的懷抱，那您也只能在那攢了滿滿一堆好話的報紙上瞧見了。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "多麼幽默，這些可憐兒的人類，此刻竟與神秘學家們站在了同一個犄角旮旯。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "在同樣不受待見的談判桌外，您覺得他們會和平共處嗎？"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "合作是唯一的辦法",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "為您拍掌，好比拳頭不能缺根手指，他們是該明白這老套的道理。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "人們總是固執的",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "哎呀，您是一位偉大的悲觀主義者，想必您會相當享受這一出分崩離析的家庭鬧劇。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "事實上，他們仍會像野狗一般彼此撕咬、仇視，直到誰咽下了最後一口氣。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "哢、哢、哢……您聽，這雄偉的帝國便在其中悄然動盪、分裂，如同踩上了冬日將盡時的最後一塊浮冰。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "當一位軍官需通曉二十餘種語言才能指揮一支軍隊，但他卻對於這份責任無能為力——"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "誰會得到勳章與賞識，這並不是一個難以回答的問題。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "您可以預見，如果這只十一條腿的巨獸有朝一日爬上了泥濘的戰場，將會有多麼滑稽。它將像一隻肥肉做的靶子，直到子彈將它的腦袋咬了去……"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "幸運的是，親愛的，這樣的時刻尚未到來。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "金色大廳的歡歌仍舊壓過孩子的啼哭，一顆顆彷徨的心仍在胸腔裡循規蹈矩地搏動。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "呐喊仍慢過報紙的傳遞，自由與繁榮的虛名也仍舊舉世矚目。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "十一位孩子，也仍是一個圈。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "但親愛的，我們都知道，薄冰會破碎，有人即將離席。"
+            }
+          ]
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100612",
+      "internal_title": "第六章6-8",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "鏡面與提燈"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小販Ⅰ",
+          "text": "卡卡尼亞！這兒，這兒！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡卡尼亞",
+          "text": "伊裡奇！你這次幫大忙啦。謝謝你！這道具真好用……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "卡卡尼亞撕下了假鬍子，用手給自己扇著風。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "馬庫斯",
+          "text": "唔——呃！呼，下來了，我今天嘴上怎麼一直有東西……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小販Ⅰ",
+          "text": "哈！當然啦。我的這個鬍子，它可不是一般貨色！它的每一根毛都在添加過血根草、蟾蜍心和龍蛇膽的波西米亞藥水中充分浸泡過……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小販Ⅰ",
+          "text": "你們是怎麼招惹上衛兵的？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡卡尼亞",
+          "text": "那就說來話長了——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡卡尼亞",
+          "text": "噢，不用這樣謹慎地盯著這位小姐。她救了我一命，人還算不錯，算是半——三分之一個朋友吧！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "馬庫斯",
+          "text": "三分之一……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "馬庫斯在口袋裡輕輕鬆開了通訊器的按鈕。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "馬庫斯",
+          "text": "嗚……這下糟了，通訊線路一直無法連接，根本聯繫不上霍夫曼女士。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "馬庫斯",
+          "text": "她或許在和委外合約小隊的專員談很重要的事，所以啟用了屏障模式……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "馬庫斯",
+          "text": "沒問題的，馬庫斯，你一個人也沒問題的，先和任務目標保持交流……！只是交流而已，這有什麼難的呢？沒問題的，你演練過……一定沒問題的！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她設想了一千種搭上話的可能，卻沒想到最後是這樣的場合。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "馬庫斯開始在腦中瘋狂地搜尋話題。所幸，在場的人全都比她健談得多。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小販Ⅰ",
+          "text": "卡卡尼亞，你現在也變成和官老爺做朋友的人了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小販Ⅰ",
+          "text": "真新奇！我在這待了一年，還從未見過嘴上沒毛的基金會成員呢！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小販Ⅰ",
+          "text": "你是從哪來的？克羅埃西亞？摩拉維亞？加里西亞？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "馬庫斯",
+          "text": "我在羅馬尼亞長大……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小販Ⅰ",
+          "text": "噢，我來自波士尼亞赫塞哥維納——反正咱們就是“同鄉”了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡卡尼亞",
+          "text": "你也要注意安全，伊裡奇。要是遇到了衛兵可就麻煩了！你的許可證一定還沒簽發。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "馬庫斯",
+          "text": "咦？你們沒有許可證嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小販Ⅰ",
+          "text": "謔，我們當然沒有了！聽聽它的條件，“三代以上的神秘術安全使用擔保……”——我一出生就在賣貨了，連媽媽的媽媽都沒見過哩。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小販Ⅰ",
+          "text": "這都算了，擔保歷來是最好造假的。可現在你要是在維也納申請許可證，就得經過中央政府簽發。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小販Ⅰ",
+          "text": "不是奧地利政府，也不是匈牙利政府——是那個夾在它們中間的中央政府。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小販Ⅰ",
+          "text": "而這就是最難的一步，從沒人能穩妥地理清這裡的區別。哪裡是皇帝的，哪裡是國王的，哪裡是皇帝-國王的……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小販Ⅰ",
+          "text": "你要是照章辦事，就會發現自己上了大當啦！回過神來，就會被未知的咒術困在這裡，束手束腳，動彈不得。除非拿出點閃閃發光的克朗潤滑一下……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "馬庫斯",
+          "text": "……如果沒有神秘術許可證，會怎麼辦？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小販Ⅰ",
+          "text": "噢，那就刺激了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小販Ⅰ",
+          "text": "你可能被拘留三天，也可能被判刑十年。也可能你被判了十年，法院卻忘了通知你。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小販Ⅰ",
+          "text": "又或者你實在技藝高超，正適合通過一場先進的外科切除手術，來驗證理性對神秘學的壓倒性勝利……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小販Ⅰ",
+          "text": "這裡的制度可比神秘術隨機多了，咱們的機會還是相當大的！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡卡尼亞",
+          "text": "可以了，伊裡奇。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "卡卡尼亞清了清嗓子，仍有些戒備地使了個眼色。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小販Ⅰ",
+          "text": "哦，好的，好的……再見了，卡卡尼亞和——政府的小姐，就當我什麼都沒說過！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "馬庫斯",
+          "text": "他們是……？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡卡尼亞",
+          "text": "一些神秘學家孩子，我很驚訝您竟然不清楚這些。這個國家就是有這樣的處境。維也納可不是所有事物都像環城大道的建築和紳士街【Herrengasse】那樣輝煌。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她語氣裡帶了一點點譏諷。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡卡尼亞",
+          "text": "我很感謝您的幫助，政府小姐，不過目前我也同樣幫助了您——被衛兵發現對你們來說也不是那麼好擺平的，不是嗎？咱們扯平了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡卡尼亞",
+          "text": "所以您來找我究竟是為了什麼？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡卡尼亞",
+          "text": "噢，我知道了。是卡爾先生叫你們來找我要行醫許可證的，可您好歹也休息兩天吧！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡卡尼亞",
+          "text": "以先祖的名義發誓，我做的是百分之百的神秘學營生，絕沒有一丁點和科學以及醫學沾邊的成分！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她提出了疑問，卻並沒給回答的空隙。卡卡尼亞湊近了馬庫斯，懷疑地推了推眼鏡。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡卡尼亞",
+          "text": "難道你們不睡覺的嗎？難道你們沒有個人生活的嗎？這個月已經是第十次了，上帝在工作六天後還會休息一天哩！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡卡尼亞",
+          "text": "我有世襲的神秘術使用許可，這沒什麼不光彩的，收費也很公道，從沒有哪位顧客來投訴我……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "馬庫斯",
+          "text": "不，呃，卡卡尼亞小姐，這是巧合……我……呃……我只是聽說您是一位心理醫生……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡卡尼亞",
+          "text": "啊？！那又怎樣，難道心理學如今被承認為醫學了嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "要在如此快速的跑題節奏中進行體面的敷衍實在是難如登天。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "馬庫斯欲哭無淚，只得拼命在心裡背誦《外勤派遣手冊》。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "馬庫斯",
+          "text": "我想這裡好像有一些誤會……我們——我不是來檢查您許可證的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡卡尼亞",
+          "text": "那你們是想……？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "馬庫斯",
+          "text": "唔，是這樣的……您自稱卡卡尼亞，可是，我知道您的本名叫克拉拉……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡卡尼亞",
+          "text": "噢，沒想到基金會也有我的讀者——這真叫人快活！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡卡尼亞",
+          "text": "是的，我是克拉拉！但是政府小姐，您不覺得這個名字很風趣嗎？海因里希——噢，他是我的一位朋友，他給了我一本書，使我受益匪淺。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "馬庫斯",
+          "text": "……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡卡尼亞",
+          "text": "我們所在的國家正如這個名字一樣——既是又是，既有又有，無處可尋，又無處不在！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡卡尼亞",
+          "text": "瞧瞧這片土地吧！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡卡尼亞",
+          "text": "鱗次櫛比的金色方塊，上面綴滿了漂亮的卷草紋，摞得這樣高、這樣巧妙……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡卡尼亞",
+          "text": "——掩蓋了波西米亞黑麥田，遮住了亞得里亞海東岸的浪花，又將神秘術製造的焰火擋得嚴嚴實實！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡卡尼亞",
+          "text": "怎麼會有濃煙在工業區遮天蔽日呢？怎麼會有不溫暖的房屋呢？咖啡館裡的人一定都是熱愛舞步，而非交不起供暖的錢。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡卡尼亞",
+          "text": "這裡沒有官僚，沒有歧視，沒有貧窮！只有人文的、自由的一切。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡卡尼亞",
+          "text": "“卡卡尼亞”——是K.K.【帝國-皇室的】，又是K.U.K.【帝國及皇室的】，還是——“Shitland”！哈哈哈，再沒有比這更精準的概括了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "馬庫斯",
+          "text": "這麼說，您確實拿到了那本書，從朋友那裡……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "馬庫斯",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "馬庫斯",
+          "text": "這是個好機會……！我身上還有一根霍夫曼女士留下的“蛛尾巴”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "馬庫斯",
+          "text": "如果能趁機留在卡卡尼亞小姐身上——或者她的居所的話……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "年輕助手緩慢地深呼了一口氣。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "馬庫斯",
+          "text": "我……很感興趣，您可以帶我去看看它嗎？"
+        },
+        {
+          "kind": "title_card",
+          "text": "公墓"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "——以上就是來自委外合約人才管理組織塞梅爾維斯分隊的交接彙報。請知悉，霍夫曼女士。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一處靜謐的角落。霍夫曼握著通訊器，眉頭微微皺緊。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "霍夫曼",
+          "text": "……好的，我這邊已經收到。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "哈哈，這句話只是例行公事，格蕾塔。你怎麼還是這樣嚴肅？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "霍夫曼",
+          "text": "……真羡慕你還能笑得如此輕鬆。這麼緊急地將你們調離維也納，想必那裡的情況也不容樂觀。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "霍夫曼",
+          "text": "而且，據你發來的資訊……帝國在這樣短的時間內發生了這麼多樁刺殺案。這對臨界點來說不是個好消息，塞梅爾維斯。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅爾維斯",
+          "text": "總是要保持一個好心態的——除此之外，我們又能怎麼辦呢？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅爾維斯",
+          "text": "除此之外，格蕾塔，我這邊還有一些消息要向你彙報——我們的交接太匆忙，新抵達的成員還沒有獲得這些一手資訊。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅爾維斯",
+          "text": "你也知道，流程太過冗長，我暫時只能以個人名義告知你。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅爾維斯",
+          "text": "維也納很可能有一位曾經跨越過“暴雨”的神秘學家。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "霍夫曼",
+          "text": "……你說什麼？有這個人的具體資訊嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅爾維斯",
+          "text": "目前已知他的名字是“海因里希”。我們和原駐柏林小組匯合時發現了這件事，但時間不允許我們核實。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "霍夫曼",
+          "text": "……明白了，後續就交給我們吧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅爾維斯",
+          "text": "如果消息確鑿，他應該是在第六次“暴雨”時前往柏林，並在那裡躲過了1913年的“暴雨”。然後在66年、29年的“暴雨”後……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "霍夫曼",
+          "text": "時代又回到了1913年。對所有越過了第六次“暴雨”的神秘學家來說，這都是無比令人振奮的消息。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅爾維斯",
+          "text": "——嗯哼，他們的時代又回來了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "霍夫曼",
+          "text": "我很熟知這種心態，但這很可能只是時間在亂序運動中隨機到了兩個相同的年份。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "霍夫曼",
+          "text": "我明白了，塞梅爾維斯，這條消息價值極高，我會儘快——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "霍夫曼",
+          "text": "……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "塞梅爾維斯",
+          "text": "格蕾塔？你那邊怎麼了？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "霍夫曼",
+          "text": "抱歉，我要中斷通話了……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "霍夫曼",
+          "text": "我留在馬庫斯身上的“蛛尾巴”有異常的神秘術反應，那不是她使用的術式……她那邊出事了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡卡尼亞",
+          "text": "真叫我意外，馬庫斯小姐，您對我們這個時代的文化流行竟然如此瞭解！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡卡尼亞",
+          "text": "我以為基金會裡要麼是腐朽的官僚，要麼是冰冷的呆子……噢，您去過分離派之家了？您喜歡那兒嗎？遺憾的是那本書沒在那裡……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "卡卡尼亞終於摸到了鑰匙。"
+        },
+        {
+          "kind": "title_card",
+          "text": "診所"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡卡尼亞",
+          "text": "請進！希望您不介意這裡的混亂。相比帝國的行政系統，它還是很整潔的……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "馬庫斯",
+          "text": "好，好的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "比起診所，這裡更像是一個工作室。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "房間裡四處散落著未完成的畫作、顏料、舞臺佈景道具和海報。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "以及鏡子，很多面鏡子。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡卡尼亞",
+          "text": "噢！這些舞臺道具是海因里希放在這的，他在柏林真是學了不少好東西回來！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡卡尼亞",
+          "text": "您隨便坐。我去給您倒杯茶，再幫您找找那本書……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "馬庫斯",
+          "text": "不了，卡卡尼亞小姐，我還需要回分部報到。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "馬庫斯",
+          "text": "我只需要確認您擁有那本書就好了，不是從他人口中複述，而是親手……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "馬庫斯",
+          "text": "唔！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "診所裡窗簾緊閉，鏡子卻強烈閃爍了一秒。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "馬庫斯",
+          "text": "是卡卡尼亞的神秘術？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "馬庫斯連忙抬手捂住眼睛，向門外退了一步。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "卡卡尼亞快活的聲音從一邊傳來。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡卡尼亞",
+          "text": "……噢，瞧您！政府小姐，別太緊張，這只是個無傷大雅的安保措施，平時我還會收錢哩！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡卡尼亞",
+          "text": "“請看看這面鏡子，它會映出您內心的光景”……神秘學家千年不變的小把戲，從羅馬帝國時代傳承至今。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡卡尼亞",
+          "text": "說到這個，政府小姐——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡卡尼亞",
+          "text": "您是怎麼發現那把手槍被做了手腳的？是您的神秘術嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "也許是心理暗示——鏡子的閃光愈發晃眼。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "馬庫斯",
+          "text": "……唔，不能看向鏡子！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "調查員戒備起來，她握緊提燈，在第一時間做好了戰鬥準備。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "卡卡尼亞的語氣依然和緩，仿佛是在撫慰自己的有應激創傷的病人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡卡尼亞",
+          "text": "我對此非常感興趣，請放心——我會控制好力道的。"
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

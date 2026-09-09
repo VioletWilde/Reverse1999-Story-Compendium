@@ -1,6 +1,6 @@
 # A Wish Come True
 
-- Chapter: Notes on Shuòrì (`16101`)
+- Chapter: Notes on Shuori (`16101`)
 - Episode: `1610119`
 
 > Subtitle: It is regrettable that such events occur in our time.

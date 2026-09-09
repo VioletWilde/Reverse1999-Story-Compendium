@@ -1,0 +1,833 @@
+{
+  "episode_id": 2410105,
+  "chapter_id": 24101,
+  "chapter_title": "地球上最後的夜晚",
+  "display_label": "",
+  "title": "The Day We Set Sail",
+  "subtitle": "",
+  "trails": [
+    {
+      "element_id": 2410105,
+      "owner_episode_id": 2410105,
+      "trigger_episode_id": null,
+      "title": "閉幕式",
+      "description": "世界上沒有不結束的運動會。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=2410105",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "嘿，您！是的——匆忙的孩子，您腳步這樣快，就像一陣風，時間都被您丟在了後面——您這是為了去哪兒啊？"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "我等不及要看戲了！",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "戲劇，戲劇！哦，瞧瞧，一位喜歡故事的孩子！這兒是維也納，您為此而來，再正常不過。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "您來對地方啦。這兒的地面鑲著金子，這兒的故事也伴著音樂。咿咿呀呀……即便是外行，也能好奇地瞪著眼睛看到結束。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "噢，我這張嘴！您當然不是外行——您是位口味頗高的鑒賞家……那麼，在您離開之前，請允許我問個小問題——"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "您最偏愛故事的哪一幕？"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "第一幕",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "一個好的開頭是成功的一半！您總是能抓住重點。我們總應該知道事情是如何開始的，弄清我們是何時踏上了那條命運為我們規劃好的路線。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "第三幕",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "發展！沒錯，這兒充斥著刺激的轉折，像是一顆削了皮的熟南瓜——最美味的那部分，一切您等著看到的都在這裡啦！"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "第五幕",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "對的，對的，好的結尾，完美的收場。我們或是起立鼓掌，或是掩面低泣——這是你沒在過程中睡著的好獎勵，最值回票價的地方。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "都喜歡",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "哈哈，貪心的孩子。您總是難以做出選擇，對吧？但我們總會面對選擇的——總需要的。"
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "但您——您知道我最喜歡哪一幕？不是第一幕，不是第三幕，也不是第五幕……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "是第六幕，我親愛的，那是最棒的地方啦。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "國王拾起掉在地上的腦袋；騎士拔出胸口的劍；反叛者微笑著擁抱著暴君；死去的人們拍拍土，站起來，而後堆著笑臉，列成一排，揮手致意，微笑著鞠躬……"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "這不在戲中",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "不，不，淘氣的小傢伙！從這兒開始，才是真正的戲劇哩。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "我這兒就有個好本子。等下，讓我戴上眼鏡……噢……從，就從第六幕講起。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "從我們的公主、國王的孩子、一隻綴滿鑽石的小夜鶯——從這名萬眾矚目的歌劇演員踏進了灰白色屋子裡的故事講起。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "“幕布永遠地落下了。她是那樣的平靜。她微笑著，仍在夢中。”"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "“他們提防著她的瘋狂。但如今，當判決落下，她又變得如此溫馴，如同一葉停泊的小舟。”"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "“她向每一位灰白色衣服的先生頷首。頸項上的沉重的枷鎖也變得如同最耀眼的珠寶。”"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "下一頁……噢。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "發生了什麼？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "“透明的屋子，二十四小時不間歇的照明，人的尊嚴就像是被丟在地上的絲帕——她的冠冕碎啦，他們需要她為自己的瘋狂付出代價。”"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "她是個瘋狂的人？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "不——不再是了。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "“‘睡吧。她曾對我說，睡吧。那麼，我便不需要再醒來。’”"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "“耀眼的孩子從此沉入了永恆的夢鄉。擾人的明亮如同舞臺的燈光，無人的房間擁有最美妙的混響。她從未如此平靜，那美好的一切凝固在了她的身上。”"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "我猜她徹底瘋了",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "——或者，徹底的寧靜。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "“她的世界變成了一場戲劇，仍在上演，永不落幕。”"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "要我說，這真是個好演員，不是嗎？"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "但不是什麼好故事——我聽不懂。",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "哈哈哈，親愛的，您確實是位品味極佳的行家。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "——無論是哪一幕，都不能只是“這一幕”。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "噢，瞧我拉著您絮絮叨叨了這樣多，都沒注意到金色的幕布已經拉開。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "最後整一整領子，親愛的，踏上你的旅途吧。"
+            }
+          ]
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 2410106,
+      "owner_episode_id": 2410105,
+      "trigger_episode_id": null,
+      "title": "身份危機",
+      "description": "星銻在模仿搖滾海盜的比賽中榮獲第一名。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=2410105 and ChapterMapElement=2410105",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "現如今，您和我都多少熟記了一些學派的戒律，不吃豆子，不掰開麵包，瞧見白色的公雞也會遠遠躲開了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "上次跟您聊起這些，似乎已經是許久前呢！時間跑得真快，我這樣的腿腳和腦袋，全追不上嘍……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "真該晚些點起蠟燭，好讓太陽出來得慢些，我們也能多說說話。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "這不可能",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "哎呀！您已經懂得了不少事物的規律，自然不會把這兩件事聯繫到一起。可對於更早、更早的人們來說，這卻是經驗之談！"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "難道秋日的慶典上，人們填滿那隻號角後，果實不會結出，田地不會迎來收穫？"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "夜間擦燃火柴時，月亮難道不是正在散發光亮？"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "尋找規律，刨根問底，這是求知的本能。但在過程中難免要犯些錯誤，將規律胡亂串聯，拼湊出一番理論。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "同時，“象徵”也成為了被廣泛使用的手段。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "比如？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "花朵寓意祝福與收穫；咬住自己尾巴的蛇，無窮無盡；鷹是機敏與智慧，泥土往往能予以護佑。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "更簡單些，一個圓圈，象徵著保護；三角，象徵著穩定；三重螺旋則是上升與變化，身、心、靈的統一。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "因為相似而相聯繫，因為接觸而相聯繫，愈來愈多的事物就此有了象徵意味。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "太模糊了",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "可實踐經驗不會騙你，親愛的。如果在哪個環節出了岔子，也只能是我們想錯了。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "——反過來瞧瞧，符號也不會欺騙誰。“象徵”是思想的附贈品，孩子。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "而“本質”從未變過。歸根結底，火柴並不會點燃月亮，動物們只是動物。隨手描繪的圓或三角，也只是一個圓、一個三角形，僅此而已。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "“你”也只是“你”。"
+            }
+          ]
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "202408",
+      "internal_title": "【2.4】地球上最后的夜晚05",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "會長，向您致意。"
+        },
+        {
+          "kind": "title_card",
+          "text": "基金會高層辦公室"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "願和平與我們同在。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "會長",
+          "text": "願和平與我們同在，我的朋友。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "康斯坦丁微微頷首，目光落在更深的陰影裡。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "芝諾軍備學院的內部整頓行動已經結束了，如預期一樣，除了一部分伊戈爾的極端擁護者，大部分的人員對此次叛逃事件並不知情。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "我們按原定計劃為“上將伊戈爾”舉辦了隆重的葬禮，按照芝諾葬禮的規定，所有芝諾軍備學院的相關人員都留在了南美。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "目前新的上將人選仍在遴選中，稍後我會將他們的名單呈遞給您。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "另外，我們派出了一支特殊調查小隊前往火地島，持續追查伊戈爾的動向。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "會長",
+          "text": "很好。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "會長",
+          "text": "那個女孩呢？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "溫順的領結遲滯了片刻。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "女孩……洛佩拉？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "她的情緒已經穩定下來了，我們暫時將她留在南美分部。\n當然，必要的調查質詢無法避免。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "會長",
+          "text": "抓牢她。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "會長",
+          "text": "噢，還有那隻愛唱歌的小鳥。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "康斯坦丁不著痕跡地走近了幾步，壓低了聲音。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "芝諾方對金伯利女郎的處理決定相當不滿，他們堅持要求對她進行更全面的調查……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "我擔心過度的干涉會引起芝諾的不滿。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "會長",
+          "text": "軍人的執拗啊……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "當然，芝諾承諾，他們對金伯利女郎的審查會在基金會的監督下進行。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "在調查結束後，她才能被正式編入司辰小隊，享有相應的權利，並由司辰直接指揮。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "會長",
+          "text": "別讓維爾汀等太久。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "芝諾的棋子安全落地，康斯坦丁悄無聲息地鬆了口氣。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "另外，接Z女士報告，司辰小隊傳回了新的情報。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "司辰在雪梨港發現了重塑之手的蹤跡，他們極有可能藏身在一艘名為“自由海風號”的遊輪上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "這也解釋了外派調查小組們調查受阻的原因，重塑偽裝得很好。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "會長",
+          "text": "船的目的地呢？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "目前尚未查明。但從飛蛾的線報來看，“自由海風號”剛剛經過了大洋洲沿島。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "會長",
+          "text": "嗯，漂亮的出子。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "是。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "康斯坦丁的語氣中藏著微不可察的驕傲。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "會長",
+          "text": "我們在正確的道路上快步前行，這很好。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "會長",
+          "text": "給維爾汀下達新的任務。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "您的意思是派遣司辰小隊登船？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "會長",
+          "text": "孩子總得走出安穩的家鄉啊。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "……是。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "會議室又重新安靜了下來。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "層疊的大理石廊柱間，有一抹雪白從窗外撲騰著飛過。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "白鴿落在會長的手上，輕啄其中的掌紋。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "會長",
+          "text": "老朋友，有什麼事需要你親自跑一趟呢？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他低下頭去，任由對方親昵地蹭著他的指尖。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "會長",
+          "text": "哦……哦……嗯……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "會長",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "那抹雪白又輕飄飄地飛走了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "會長",
+          "text": "科算中心提交了關於“人工暴雨”的援助申請？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "是的，負責這一專案的是烏爾里希。它請求基金會向科算中心澳洲分部提供一批非對稱核素R，越多越好。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "另外，它希望我們的調查員能配合尋找符合實驗環境的對應座標。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "我拿到過一些符合科算中心需要的資料……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "康斯坦丁不由自主地停頓了片刻。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "距離澳洲分部最近的實驗座標，正是那艘“自由海風號”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "會長",
+          "text": "倒是很合理。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "我擔心這會牽涉到我們在重塑之手的佈局。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "會長",
+          "text": "全力支援科算中心的“人工暴雨”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "意料之外的堅決。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "可飛蛾的狀況尚不明朗。如果太過冒進……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "它很難全身而退。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一閃而過的猶豫落入會長的眼中。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "會長",
+          "text": "我以為你早就做好了準備，我的朋友。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "會長",
+          "text": "命令幾顆棄子不擇手段地前進，接著，我們贏下整場棋局。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "會長",
+          "text": "你比誰都擅長這個，對吧？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "這是鴿子屋的意思嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "會長",
+          "text": "是的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "我明白了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "至於更多的任務細節，我會儘快知會司辰和烏爾里希。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "會長",
+          "text": "那很好，他們的會面一定會很有趣的。"
+        },
+        {
+          "kind": "title_card",
+          "text": "“暴雨”小組辦公室"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "烏爾里希",
+          "text": "我們又見面了，司辰。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "很高興再見到你，烏爾里希先生。聽說你和星銻的交流相當順利？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "烏爾里希",
+          "text": "坦白說，星銻對科學進步的熱情和奉獻精神遠超我的預料。毫不誇張地說，她是一位不求回報的偉大研究者。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "玻璃缸裡的磁流體相當穩定。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "顯而易見，這是一句真心話。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "“自由海風號”的情況相當複雜，我們還不清楚上面潛伏著多少重塑之手的人員。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "按照計畫，我們會以遊客的方式登船。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "星銻在“自由海風號”上有相熟的船員。她打包票，在那位朋友的幫助下，我們的登船資料已經得到了妥善的修飾，絕不會引起任何人的注意。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "烏爾里希",
+          "text": "了不起！原來星銻研究員申請的那一大筆經費並不只是為了個人的娛樂。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "自言自語之餘，烏爾里希終於又想起了眼下的正事。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "烏爾里希",
+          "text": "我會錯開你們的登船時間。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "烏爾里希",
+          "text": "如果發現了重塑之手的行蹤，我會聯絡你們的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "烏爾里希",
+          "text": "互通有無，朋友——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "臨行前信誓旦旦拍下的胸膛令人安心。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "我們也很樂意為你的任務提供協助……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "烏爾里希",
+          "text": "不、不，絕不需要！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "烏爾里希",
+          "text": "噢，別誤會，我沒有輕視任何人的意思。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "烏爾里希",
+          "text": "事實上，實驗進度目前尚未對外公開。基於對“人工暴雨”專案的外部預期及風險控制，我希望你能對我們的研究進度暫時保密。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "烏爾里希",
+          "text": "在“自由海風號”上，我們互不相識。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "……好的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "烏爾里希",
+          "text": "別擔心，我會做好偽裝工作的。"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": [
+    "title(fallback)"
+  ]
+}

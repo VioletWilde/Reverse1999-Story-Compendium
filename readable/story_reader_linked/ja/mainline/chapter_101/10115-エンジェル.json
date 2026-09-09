@@ -1,0 +1,574 @@
+{
+  "episode_id": 10115,
+  "chapter_id": 101,
+  "chapter_title": "われらの時代",
+  "display_label": "",
+  "title": "エンジェル",
+  "subtitle": "ハラハラドキドキの冒険ストーリーには少なくとも爆破シーンが必要だ。",
+  "trails": [
+    {
+      "element_id": 1011501,
+      "owner_episode_id": 10115,
+      "trigger_episode_id": null,
+      "title": "シュナイダーには何人の姉がいるの",
+      "description": "シュナイダーの両親は健在で、多くの娘を抱えている。シュナイダーには姉が何人いるのだろう？",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=10120",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "シュナイダーの両親は健在で、多くの娘を抱えている。シュナイダーには姉が何人いるのだろう？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "12 / １２ / 十二"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1011601,
+      "owner_episode_id": 10115,
+      "trigger_episode_id": null,
+      "title": "小道① ガーデニング用はさみ",
+      "description": "鋭利なガーデニング用のはさみで、いばらやつるを簡単に切り落とせる。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=10115",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1011602,
+      "owner_episode_id": 10115,
+      "trigger_episode_id": null,
+      "title": "小道② 気付かれないネームプレート",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=10115",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100121",
+      "internal_title": "第一章1-16.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "エンジェル"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "分かれ道が少なくなってきましたぞ！　きっと外壁はすぐそこでしょう！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "そうだね。車の走行音が聞こえた気がするよ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ボディーガード",
+          "text": "サザビー様、おケガはありませんか？　 まさか敵がこれほど潜んでいたとは…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "サザビー",
+          "text": "平気よ！　フェルディを落とさないでね…コホン、それから彼の口についてるポーションも、きれいにふき取ってちょうだい！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "此度の行動で、かなり情報を掴みました。ここから離れたら、完璧なレポートを仕上げないと――"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "あっ…！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "人間が一人取り残されております、タイムキーパー！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "先ほどこの近くで助けを呼ぶ声が聞こえました！　それにポーションがたくさんあふれ出ていて…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "彼女を救い出したいです。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "彼女の位置わかる？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "えっと…この壁の近くにある魔精の巣穴の前だったかと…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "この先の角を通過して――そのあと右に――"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "シュナイダー",
+          "text": "お姉ちゃん…シュナイダーよ。あたいの名前を呼んで…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "シュナイダー",
+          "text": "あたいのこと忘れちゃったの？　あたいよ、シュナイダーよ…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "シュナイダー",
+          "text": "ごめんね…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "シュナイダー",
+          "text": "いま連れ出してあげるわ…シチリアにある、あたいたちのみかん畑に戻ろう…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "マリアン",
+          "text": "ううっ…おえっ…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "シュナイダー",
+          "text": "しー…少しだけ我慢してね。すぐおうちに帰れるわ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "シュナイダー",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "あなたは…！？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "まさかここまで追ってくるなんて！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "やはりあなたたちがその子に乱暴を…なんてひどい奴らなのでしょう、絶対に許しません！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "シュナイダー",
+          "text": "邪魔よ。どいて。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "シュナイダー",
+          "text": "ソネットの術がシュナイダーを襲った。これまでとは違い、それは怒り狂う刃のように鋭い。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "シュナイダー",
+          "text": "うあっ…！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "シュナイダー",
+          "text": "この衝動でシュナイダーの背から女性がずり落ちた。彼女は恐怖に満ちた目を開き、飛びついてきた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "マリアン",
+          "text": "ち、違う、違う――！　私は神秘学家なんかじゃない！　違うの！　違うのよ――！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "マリアン",
+          "text": "なりすましてなんか…神秘学家になりすましてなんかない…うううっ…もう飲めない…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "わたしたちはきみを助けに来たの、だから落ち着いて――。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "マリアン",
+          "text": "彼女はすでに正気を失ったようで、ただ聞き取れないうわ言を呟きながら、目の前の人を強く抱きしめている。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "うっ…放して…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "シュナイダー",
+          "text": "お姉ちゃん！　やめて…もう…大丈夫だから…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "シュナイダー",
+          "text": "あいつらに一体何を飲まされたの…くそっ！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "あなた、彼女の妹さんなの？　…私…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "恐らく自白剤です。以前調合したことがあるので…手触りと匂いからみるに、間違いないでしょう。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "彼女を寝かせ、右手を高くあげてください。ポーション吐出措置を施しますので！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "シュナイダー",
+          "text": "…わかったわ。急ぎましょう。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一刻を争う状況にたたずんでいる中、そう遠くないところから、足音が近づいてきた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "シュナイダー",
+          "text": "「カサカサ――！」"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "シュナイダー",
+          "text": "つるが地や壁を打ち付ける音が鳴り響いている。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "それに続くおびただしい足音が、貪欲なアリの群れのように近づいてきて、危険の接近をわたしたちに知らせている。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "追っ手です！　すぐ近くまで来ています…！　早く離れましょう！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "シュナイダー",
+          "text": "シュナイダーが立ち上がった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "シュナイダー",
+          "text": "措置を続けて、他のことは気にしなくていい。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "ええ。お任せください。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "もう少しで、吐き出せるはずですので…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "サザビー",
+          "text": "「カサカサ――！」"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "サザビー",
+          "text": "招かざる者の影が暗闇の中で揺れている。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "サザビー",
+          "text": "彼女が通った廊下は、すでにその術で粉々になっていた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "なんと、どうやらこの追っ手は少々厄介ですぞ…！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "サザビー",
+          "text": "みんな、出口が見つかったわ！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "サザビー",
+          "text": "ここはわたくしたちが入ってきたときの入口よ…！　「オートアイランド」を押し出せば、ここから脱出できるわ！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "皆様、共に力を併せて――ここから離れましょう！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "敵が目と鼻の先まで迫ってきたとき、もう一方の隅から黒ずくめの人が大勢現れた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "彼らはあたりを見まわし、慌てた様子でシュナイダーを見つめた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "黒ずくめの男",
+          "text": "出口は…出口はこちらですか？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "黒ずくめの男",
+          "text": "ボス…俺たち一体どうすれば…！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "シュナイダー",
+          "text": "来たのね…出口はここにあるわ…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "シュナイダー",
+          "text": "車を押すのを手伝いに行きなさい――！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "隊長",
+          "text": "今来た者たちはボンネットの方へ！　行くぞー――！　俺の合図に合わせろー――！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "隊長",
+          "text": "一、二！　 一、二――！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "サザビー",
+          "text": "ううっ…ごめんなさい。わたくしの「オートアイランド」ってば、頑丈すぎて…び、びくともしませんわ…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "サザビー",
+          "text": "もう力が…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "ミスター・APPLe――「エンジェル」を使って！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "皆様どいてください――！　とても危険ですぞ！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "左回り三回、それから右回り…羽を開いて…あとはハンドルにおけば…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "車から離れてください――！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "サザビー",
+          "text": "わお〜！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "車体が吹っ飛びましたよ――！　この穴からはやく外へ！　壁が今にも崩れそうですぞ…！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "隊長",
+          "text": "皆さん、お逃げください…俺が支えているうちに…はやく…！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "サザビー",
+          "text": "四、五、六…急いで！　わたくしたちはもう全員出られましたわ！　あとはあなたたちだけよ！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "タイムキーパー――！　壁が崩れそうです！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "…申し訳ないのだけれど、逃げないでくださる？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "彼女がわたしたちの前にたたずんでいる。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "先ほど迫ってきた速度とその神秘術の範囲からみるに、恐らくこのバーから無事に外に出たとて、無駄だろう。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "まだ脱出していない者はあと四人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "ソネットはマリアンを背に出口に立ち、必死に均衡を保っている。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "タイムキーパー…タイムキーパー…！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "マリアン",
+          "text": "あなた、シュナイダー…なの？　私…助かったのね？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "シュナイダー",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "シュナイダー",
+          "text": "うん。お姉ちゃん、もう大丈夫だからね。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "シュナイダー",
+          "text": "お姉ちゃんはもう――自由だから。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "行って。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "あとはわたしに任せて。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "手を広げ、彼女たちを軽く押した。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "…………"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "壁が崩れ落ち、外に通じる道は閉ざされた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "シュナイダー",
+          "text": "ふふ…まさか、政府の旦那と…手を組む日が来ようとはね。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "お手並み拝見といこうかな。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "行くよ！",
+          "edge_label": "물러설 곳은 없어!",
+          "branch": []
+        }
+      ]
+    },
+    {
+      "script_id": "100122",
+      "internal_title": "第一章1-16.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "シュナイダー",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "…………"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ドルーヴィスⅢ",
+          "text": "あなたは…"
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

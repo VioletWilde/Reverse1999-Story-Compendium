@@ -1,6 +1,6 @@
 # The End of a Sweet Dream
 
-- Chapter: chapter_1904 (`1904`)
+- Chapter: After the Good Dream (`1904`)
 - Episode: `190404`
 
 > Subtitle: It's the sound of bells, the knocking of doors, the rumble of an approaching rain.

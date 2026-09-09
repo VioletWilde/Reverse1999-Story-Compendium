@@ -1,0 +1,861 @@
+{
+  "episode_id": 11019,
+  "chapter_id": 110,
+  "chapter_title": "복낙원",
+  "display_label": "",
+  "title": "옛길과 새로운 여정",
+  "subtitle": "구원받기 위해 미쳐버린 영혼이여, 그래도 앞으로 나아가겠는가?",
+  "trails": [
+    {
+      "element_id": 101019,
+      "owner_episode_id": 11019,
+      "trigger_episode_id": null,
+      "title": "종이와 모래판",
+      "description": "얇은 한 장에 수많은 이가 기다리는 명령과 지원이 있다.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=1019",
+      "content_hints": [
+        "fragment",
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "작전일"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "03/30 13:05\n트리글라브 호가 22km 밖에서 첫 시험 사격을 진행함. 포탄이 해안의 빙붕에 명중하고 4분 후 2차 협차 사격 제원을 계산하였으며 다시 4분 후 3차 협차 사격 조정을 마침.\n회신: 공격 개시\n03/30 14:32\n매그너스가 자항 기뢰를 건드린 것을 감지하고 구축함 두 척이 물밑에서 공격받은 것을 확인함. 한 척은 이미 전투 능력을 상실했고 행동에 제한이 걸림. 이후 매그너스가 물 위로 떠 올라 포격을 시작했으며 선체로 공격을 저지함.\n회신: 2차로 다섯 대의 구축함 출동, 매그너스 소탕 지원. 제노 공군도 열네 명을 보내 정찰 중, 신경 써서 협력할 것\n03/30 16:03\n매그너스는 격퇴되었으며, 함대가 돌격을 시작하고 후방 함대가 인공 항구를 구축하길 기다리고 있음.\n회신: 이고르 반란군을 감시하고 즉시 상황을 회신할 것\n03/30 19:25\n트리글라브 호가 전장으로 깊이 들어갔으며, 인공 항구도 어느 정도 형태를 갖췄음. 수중 음파 탐지기가 정체불명의 거대한 신호를 탐지함. 당장 이고르군의 움직임은 없음.\n회신: 방어 시설에 의지해 화력을 구축하고 적 주력군의 동향을 계속 감시할 것.\n03/31 00:10\n오리티우가 전부 날아가고 물러나던 매그너스가 갑자기 방향을 돌려 공격함. 구축함 두 척이 매그너스의 평사포에 명중당해 전투 능력을 상실함. 중화기 지원 요청. 이고르군은 여전히 참전 의사가 없는 것으로 보임.\n회신: 함포 화력이 5분 후 전방 12해리 구역을 덮고 공중 엄호는 20분 후 도달할 예정. 이고르는 분명 의도를 갖고 재건으로 갔을 테니 경계를 늦추지 말 것\n03/31 02:34\n트리글라브 호가 수면으로 떠오른 레비아탄에 심한 타격을 받았으며, 곧 마도술 술진을 터뜨릴 예정.\n회신: 각 함선은 얼음 구역을 피해 방어선을 다시 구축할 것"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "101024",
+      "internal_title": "第十章10-18.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "옛길과 새로운 여정"
+        },
+        {
+          "kind": "title_card",
+          "text": "화산 용암 동굴"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "묘지처럼 고요한 소굴에선 미세한 진동도 거대한 파란을 일으키기에 충분했다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "...‘문’이 다시 열렸습니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "이고르 장군",
+          "text": "댁들의 약속을 지킬 때가 왔지, 전도자여."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "전도자는 먼 곳에서 시선을 거두었다. 그녀는 가슴 앞에 놓인 성상을 어루만지며 천천히 몸을 돌렸다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "전도자·소피아",
+          "text": "사도 아니무스가 의식을 주최할 준비를 이미 마쳤습니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "전도자·소피아",
+          "text": "안개도 피어오르기 시작했어요, 장군."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "전도자·소피아",
+          "text": "재단의 함대가 아직 상륙을 시도하고 있습니다. 이런 순간에 여기 계시면 안 될 텐데요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "이고르 장군",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그림자 속에서도 장군은 안광이 형형했다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "이고르 장군",
+          "text": "내가 여기 있는 이유를 알 텐데."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "이고르 장군",
+          "text": "적도에서 극지까지 우리 병사는 나를 따라 비바람을 뚫고 왔다. 그들의 기다림과 희생은 여기서 끝나야 해."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "전도자·소피아",
+          "text": "그건 장군도 예상했던 희생일 텐데요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "이고르 장군",
+          "text": "예상했다고 해서 당연한 건 아니지."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그림자 속에서 장군은 여전히 미동도 없었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "이고르 장군",
+          "text": "의식의 마지막 조각도 이미 다 모았다. 우리는 약속대로 그분이 기대하신 모든 걸 수행했고."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "이고르 장군",
+          "text": "최후의 순간이 오기 전에... 그분이 ‘기적’을 내려주셔야 해."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "장군의 공헌을 조명하듯 그를 바라보던 전도자는 잠시 후 고개를 끄덕였다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "전도자·소피아",
+          "text": "좋습니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "전도자·소피아",
+          "text": "앞서 이야기 나눈 것처럼, 그게 우리의 약속이니까요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "전도자·소피아",
+          "text": "여기요, 장군의 ‘기적’."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "이고르 장군",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "이고르 장군",
+          "text": "반짝이는 불꽃."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "상자의 겉면에 닿는 순간, 마도학 에너지의 불빛이 허무로 날아갔다. 마도술은 상자에 그 어떤 흔적도 남기지 못했다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "이고르 장군",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "이고르 장군",
+          "text": "...만약..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "이고르 장군",
+          "text": "1999년에 우리가 그걸 손에 넣었다면..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "전도자는 고개를 저으며 손으로 상자를 지그시 눌렀다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "전도자·소피아",
+          "text": "장군, 아직 판도라의 상자를 열 때가 아닙니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "전도자·소피아",
+          "text": "이건 분명 기적이지만 그게 다예요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "전도자는 장군의 가슴 앞에서 반짝이는 서늘한 은빛의 휘장을 보았다. ‘폭풍우’를 수차례 넘고도 그것은 여전히 새것처럼 빛났다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "전도자·소피아",
+          "text": "과거의 영광을 버리고 새로운 이 길을 걷기로 이미 결심하셨을 텐데요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "이고르 장군",
+          "text": "...난 이미 선택을 내렸다, 전도자."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "전도자·소피아",
+          "text": "그럼 의연하게 옳은 길을 걸으시길 바랍니다, 장군."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "전도자의 손을 쳐내고 ‘기적’을 품에 챙긴 장군은 미련 없이 몸을 돌려 차디찬 둥지를 빠져나왔다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "약속대로 통신기가 울렸다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "몰디르",
+          "text": "장군."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "이고르 장군",
+          "text": "‘거래’는 끝났다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "몰디르",
+          "text": "알겠습니다. 다음 명령은요?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "이고르 장군",
+          "text": "다음 단계로 넘어가도 좋다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "몰디르",
+          "text": "...알겠습니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "기다림 끝에 얻은 예상했던 답에 그녀는 살짝 눈을 감고 감정을 추슬렀다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "몰디르",
+          "text": "다음 계획을 실행하기 전에 개인적인 용무를 좀 처리하고 싶습니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "이고르 장군",
+          "text": "개인적인 용무?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "장군이 작게 웃었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "이고르 장군",
+          "text": "안 될 리가. 너에겐 그럴 권리가 있어."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "몰디르",
+          "text": "네, 아버지."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "통신이 끊겼다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "고개를 숙인 장군은 손바닥을 매만졌다. 손에 박힌 굳은살은 어느 하나 익숙하지 않은 것이 없었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그가 자신의 모든 ‘아이’를 잘 아는 것처럼."
+        },
+        {
+          "kind": "title_card",
+          "text": "이전 제노 부대 기지"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "통신을 마친 중위는 깊게 숨을 들이마셨다. 폐부로 들어간 서늘한 공기가 몸 구석구석을 깨웠다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "몰디르",
+          "text": "흰 장갑 분대장, 대기는 끝났다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "흰 장갑 분대장",
+          "text": "중위님, 그 말씀은..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "분대장은 상관의 눈동자에서 그녀의 부친을 닮은 결연한 의지를 읽었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "몰디르",
+          "text": "부대에 전달해. 앞서 확인했던 재건의 스파이를 정리하고 거점에서 철수할 준비를 한다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "몰디르",
+          "text": "통신원, 앞서 준비한 대로 재건의 모든 감청 신호를 차단하고 톨레미 쪽과 연락을 취하도록."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "몰디르",
+          "text": "아, 그리고... 다닐로프 기장은?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "기장",
+          "text": "중위님, 마침 보고 드릴 기쁜 소식이 있습니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "기장",
+          "text": "중위님의 마도술이 통해서 각 파트의 점검을 마쳤습니다. 이제 헬기는 무사히 출발할 수 있습니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "몰디르",
+          "text": "좋아."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "기장의 반듯한 경례를 받으며 중위는 단호한 걸음으로 헬기를 향해 걸어갔다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "몰디르",
+          "text": "발 아래의 길을 이미 선택한 이상, 이젠 앞으로 나아가는 수밖에."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "몰디르",
+          "text": "‘달걀로 바위 치기인가, 기적의 등장인가’... 우리 손으로 직접 마지막 해답을 검증해 내겠어."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "칠흑 같은 용암벽은 그 태고의 공포를 드러내기에 충분했다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "묘지처럼 고요한 통로에선 바늘 떨어지는 소리도 유난히 귀에 거슬려 침입자는 더 목소리를 낮출 수밖에 없었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소네트",
+          "text": "타임키퍼, ‘미스 스트레인저’와 미스 라디오는 가방에 들어가 휴식 중이에요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "고생했어, 소네트. 앞으로 갈수록 더 위험해질 테니 여행 가방 안이 더 안전할 거야."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "걸쇠를 걸고 여행 가방을 들었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "뒤에 있는 무시무시한 신전의 문을 최대한 돌아보지 않으며 앞을 보았다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "이 통로를 빠져나가면 아마 의식이 열리는 곳이 나오겠지."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "최악의 상황이 벌어지면 우리가 사전에 논의한 대책대로 이행해."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소네트",
+          "text": "...네."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소네트",
+          "text": "참, 타임키퍼... 타임키퍼가 이걸 맡아주세요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "손으로 그린 구깃구깃한 지도엔 파란색과 빨간색 글씨가 깊게 새겨져 있고, 여러 새로운 흔적이 더 추가되어 있었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "한때 인간 탐험가의 땀과 눈물로 얼룩졌던 그것이 마침내 소망했던 땅에 도착했다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "...기대하지 않은 방식으로."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "말없이 지도를 건네받은 그녀는 말로 형용할 수 없는 감정을 앞으로 나아가는 발걸음에 실었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "질식할 것 같은 침묵 속에서 드문드문 울리는 발소리가 유난히 귀에 거슬렸다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "발소리는 점점, 점점 더 빨라졌다. 돌부리에 걸려 거의 넘어지기 직전까지."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소네트",
+          "text": "아...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "조심해, 소네트."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "...떨고 있는 거야?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소네트",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소네트",
+          "text": "...괜찮아요, 타임키퍼. 여기가 조금 추워서 그래요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "제1조수가 몸을 바로 했지만 팔은 여전히 부자연스럽게 구부러져 있었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소네트",
+          "text": "온열 주문도 안 통할 정도로 추워요. 그래서 저도 모르게..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "잠시 멈춘 그녀의 목소리가 떨리기 시작했다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소네트",
+          "text": "...노티카 씨가 문으로 들어갈 때도 이렇게 춥지 않았을까요?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "소네트..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소네트",
+          "text": "타임키퍼, 노티카 씨는 참 용감했어요... 저도 노티카 씨처럼 용감하면 좋을 텐데."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소네트",
+          "text": "죄, 죄송해요... 지금은 이런 소리를 할 때가 아닌데..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소네트",
+          "text": "제가 한 말은 잊으세요. 저도 알아요, 우리에겐 해야 할 임무가 있단 걸."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "제1조수는 깊게 숨을 들이마시며 떨리는 목소리를 내리눌렀다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소네트",
+          "text": "\"우리는 최고의 사명을 위해 힘써야 한다...\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그녀는 작게 읊조리며 다시 앞으로 걸음을 내디뎠다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소네트",
+          "text": "가요, 타임키퍼. 재건의 의식을 반드시 막아야 해요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "...응."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "다급한 발소리가 다시 울렸다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그런데 그 순간, 통로 반대편에서 그에 호응하는 소리가 들려왔다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "맨발의 발걸음이 먼저 멈췄다. 그리고 금속 장신구와 옷감이 마찰하는 소리가 대략 1.414초 동안 울린 후 공기 중으로 사라졌다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "전도자·소피아",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소네트",
+          "text": "...소피아 씨!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "통로 안의 공기는 거의 정체된 듯했지만 전도자의 그림자는 암벽 위로 계속 넘실거렸다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "소네트."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "눈빛을 주고받은 제1조수가 고개를 끄덕이자 펜 끝에 마도술의 에너지가 맺혔다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "전도자가 성상을 움켜쥔 순간, 검게 물든 빛이 밀려들었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "전도자·소피아",
+          "text": "Διορθωθεί   το   σφάλμα!"
+        }
+      ]
+    },
+    {
+      "script_id": "101025",
+      "internal_title": "第十章10-18.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "지금이다!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "전도자·소피아",
+          "text": "콜록, 콜록... 이건..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "분홍빛 어린 보라색 연기가 피어올랐다. 그리고 연기가 걷혔을 때, 전도자의 앞엔 모자 하나만 덩그러니 놓여 있었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "소네트, 어서 가자!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그 소리에 제1조수가 움직인 순간, 통로 깊은 곳에서 다시 짙은 안개가 솟아오르며 그녀를 밖으로 밀어냈다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소네트",
+          "text": "이건 연막 버블볼의 냄새가 아닌데..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "안개는 냄새 없이 가벼우면서도 곳곳에 무겁게 깔려 있었다. 호수를 뒤덮고 홀로 물레를 돌리려는 그 안개처럼."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "오지 마!!!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "흐릿한 안개 너머로 제1조수의 그림자가 우뚝 멈춰 섰다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "가방 속 호수의 안개와 비슷해... 기억하지? 네가 기절할 뻔했던 안개 말이야."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소네트",
+          "text": "...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "전도자·소피아",
+          "text": "떠날 생각 말아요!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "시커먼 점액이 떠나려는 자의 발걸음을 다시 뒤쫓았다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소네트",
+          "text": "Regna   sereno   intenso   ed   infinito!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "마도술로 점액을 막은 제1조수는 전도자의 앞에 서서 유리펜을 꽉 움켜쥐었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소네트",
+          "text": "...제가 갈 수 있는 건 여기까지인가 봐요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소네트",
+          "text": "타임키퍼, 계속 앞으로 가주세요. 제가 여기 남아서 엄호할게요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "마지막으로 눈빛을 교환한 후 짙은 안개 속으로 의연하게 걸음을 옮겼다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소네트",
+          "text": "타임키퍼의 길을 막게 두지 않을 거예요, 소피아 씨."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소네트",
+          "text": "당신이 그랬었죠, 다음 만남에서 우린 적이 되어 있을 거라고."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소네트",
+          "text": "그러니까 당신의 상대는 여기 있는 나예요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "마도술의 빛이 허공에서 거듭 부딪치고 사라졌다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소네트",
+          "text": "소피아 씨..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소네트",
+          "text": "당신이 왜 재건의 편에 선 건지 아직도 잘 모르겠어요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소네트",
+          "text": "대체 무슨 ‘사명’이기에 한때 터전이었던 곳을 떠나 과거의 동료와 맞서는 거죠?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "전도자·소피아",
+          "text": "...당신, 변했군요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "전도자·소피아",
+          "text": "그 섬에서 당신은 말하기보단 듣는 쪽에 가까운 사람이었는데."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "전도자·소피아",
+          "text": "이게 당신이 하고 싶은 일인가요?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소네트",
+          "text": "무슨 말이 하고 싶은 거죠?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "전도자는 무심한 눈빛으로 통로 끝을 바라보았다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "전도자·소피아",
+          "text": "타임키퍼가 당신의 보호 범위를 벗어났는데, 이래도 되나요?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "전도자·소피아",
+          "text": "여기서 날 막는 것보다 그녀를 제대로 감시하는 게 당신의 최우선 임무잖아요?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소네트",
+          "text": "...타임키퍼의 사명은 의식을 저지하는 겁니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소네트",
+          "text": "그리고 내가 할 일은 그 앞길을 닦는 거죠."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "공격의 빛이 쏘아질 때마다 전도자 주변의 점액이 그것을 붙잡고 삼켰다. 하지만 소네트는 계속해서 허공에 마도술 주문을 그렸다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소네트",
+          "text": "나도 당신에게 같은 질문을 던지고 싶네요, 소피아 씨."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소네트",
+          "text": "이게 당신이 하고 싶은 일인가요?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소네트",
+          "text": "그 섬에서 당신이 싸우는 모습을 본 적이 있는데, 그때 사용한 마도술은 지금과 전혀 달랐어요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소네트",
+          "text": "당신의 마도술엔 더 이상 예전의 신념이 없네요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "전도자·소피아",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "마도술 주문의 빛 한 줄기가 마침내 점액의 포위를 뚫고 전도자 귓가의 붉은 머리카락 몇 가닥을 베어냈다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소네트",
+          "text": "당신이 여기서 이렇게 막는 걸 보니 우리가 의식의 중심부에 가까워졌나 보군요?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소네트",
+          "text": "닥터 도레스 씨도... 거기 있나요?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "전도자·소피아",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "전혀 물러서지 않는 조용하고 단호한 그 눈빛에 소피아는 앞으로 한 발짝 나섰다. 솟구치는 검은 점액은 다시 바람 하나 통하지 않는 장벽이 되었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "전도자·소피아",
+          "text": "도레스 씨는 본인의 의지로 여기 왔습니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "전도자·소피아",
+          "text": "그런데 당신은 어떻죠, 소네트 씨?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "전도자가 손을 들자 앞에 있는 성상이 움직임을 따라 살짝 흔들렸다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "전도자·소피아",
+          "text": "당신은 또 뭘 위해 앞으로 나아가는 건가요?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소네트",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그녀는 유리펜을 다시 움켜쥐었다. 그리고 과거에 수없이 그랬던 것처럼 허공에 주문을 그렸다."
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

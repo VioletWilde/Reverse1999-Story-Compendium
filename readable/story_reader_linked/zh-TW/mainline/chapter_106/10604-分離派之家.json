@@ -1,0 +1,892 @@
+{
+  "episode_id": 10604,
+  "chapter_id": 106,
+  "chapter_title": "今夜星光燦爛",
+  "display_label": "",
+  "title": "分離派之家",
+  "subtitle": "叉子是否應當離開蛋糕，藝術是否獨立於傳統之外？",
+  "trails": [
+    {
+      "element_id": 100604,
+      "owner_episode_id": 10604,
+      "trigger_episode_id": null,
+      "title": "有絲分裂派",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=604",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "您瞧，親愛的。我手中這面小鏡子可是當下的流行貨。像我這樣打理些簡單生意的人，總要嗅得出先生小姐們衣裙擺動時帶起的風向，才好混口飯吃。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "來，來——站到鏡子前邊，扶一扶帽子。您見到了什麼？它可還合您心意？"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "整個維也納都在這兒",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "的確，您能講出這句話，我就曉得您是肯定能在這座城市立足的了。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "這兒有太多彎彎繞繞的東西。青年人們伴著華爾滋旋轉，若是想跟上步調，便只有瞅准了漩渦，一頭栽進去。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "偶爾也有些掉了隊的人，在公園的噴泉池邊打發時間，邊望著租賃公寓感歎，邊磕掉鞋底的土灰。他們貼身的衣服打滿補丁，包裡或櫃子裡卻總有件勉強算體面的外套，好應付宴會廳與展覽館的著裝要求。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "這面鏡子照出的是一種披著紗衣的繁榮。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "我、我——我！",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "噢，鏡中映出了我們的小藝術家。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "看來您多少有些自戀者的要素。我並非笑話您，要知道在這個人人都追求獨特的地方，有自己的聲音是最為——最為重要的。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "您的嗓門得足夠大，語氣必須堅定，臉上必須瞧不見丁點兒退讓的痕跡！對自己懷揣有如此信任，才能在吵鬧的曲子最後重重砸向那台黑白色的大——樂器。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "什麼也沒有，它壞了",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "是的，或許它出了些毛病，害我這位老人家虧了幾個錢。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "也或許它所映照的是“真理”。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "這面鏡子將忠誠地反應現實，因此，若是這兒沒有的，或還沒被瞧見的事物，自然不可能被呈現。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "但事情總會變化的，我親愛的，這座城市迎來的變化又尤其多。待在一台發瘋的滾筒洗衣機裡，很難分出上下左右。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "等您下一次再面對這樣的鏡面，日子應當已經換了副光景。讓我們耐心些。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "所以？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "所以，在這暖得人骨頭發軟的春日，有少部分人離開了龐大的集體，轉而建立起更小的集群。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "他們支起這面鏡子，將上面的麻布一把子掀開，好的、壞的，乃至其他任何東西都展露無遺。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "這個派別由分裂中被分裂了出來，從那名姓再到話語，看著、聽著……無一矛盾！不願被關起來的羊羔自然也不會用什麼手段拘束其他的好夥伴。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "因此，在一同扯過麻布之後，年輕人們就以他們自己的方式離去，散得哪兒都是啦！"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "年輕人們都去哪了？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "呀，這很難講得清！一些仍然擺弄著金箔；一些想要做出更為簡明實在的東西；一些描繪著夢中的囈語，讓字兒混在圖畫裡；一些則對環繞城市的寬闊道路大聲叫嚷，恨不得將“藝術品”這一定義從這建築上趕走。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "他們從始至終便只有那時候是一致的——在面對那塊兒破麻布的時候。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "至少，在噴嚏和咳嗽被“波特金之城”那亮晶晶的風吹到別處之前，總會有些理想能被他們鼓搗出結果來。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "在這兒繞著圈漫步的每個人，都認得出環城大道一側的那顆金色捲心菜。"
+            }
+          ]
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100605",
+      "internal_title": "第六章6-4.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "分離派之家"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "馬庫斯",
+          "text": "這就是維也納分部大樓……？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "馬庫斯",
+          "text": "它真是……氣派極了！如此光潔簡約的牆面……就像是一棟現代藝術的神廟！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "馬庫斯",
+          "text": "唔，我讀得出……不同形狀與材質之間互相對比襯托……這位叫奧爾布里希的先生在設計時一定傾注了很多心血在其中……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "馬庫斯",
+          "text": "卡爾先生，在這裡辦公的體驗一定十分愉快吧！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡爾",
+          "text": "啊？不不，這是分離派之家。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡爾",
+          "text": "就是那些在咖啡館大放厥詞的青年藝術家們的聚會聖地。他們呼籲藝術要從傳統中分離，在我看來更像是與人類生活分離。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡爾",
+          "text": "裡面也沒有什麼愉快的，只有令人費解的畫作和神經衰弱的瘋子。但人們沒完沒了地參觀分離派，還有分離派的分離派，就像有絲分裂的蠑螈在繁衍……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡爾",
+          "text": "我們歷史悠久的分部入口是在左邊，請稍稍移步……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "巨大的戈連佇立在門口。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡爾",
+          "text": "瞧，你們剛剛也遇到了。這是我們維也納最忠誠、最可靠的守衛騎士——全憑術式驅動的戈連巨像，歐洲神秘學復興以來的巔峰之作！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡爾",
+          "text": "1662年，一個來自倫敦的宮廷神秘學家將它進貢給了皇帝。幾個世紀來，它一直忠誠地守護帝國……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "啊！是您！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "戈連的陰影裡探出一個身影。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "馬庫斯",
+          "text": "……嗯？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "海因里希",
+          "text": "尊敬的斯卡比亞先生，向您致敬！您的小兒子泰咪諾還好嗎？聽說他與未婚妻的感情之路並不通順？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "馬庫斯",
+          "text": "真是奇怪的先生，他怎麼站在那樣小的角落裡？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡爾",
+          "text": "……真是抱歉，請稍等下，霍夫曼女士。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡爾",
+          "text": "好極了，海因里希，就和你顛沛流離的藝術事業一樣好。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "海因里希",
+          "text": "那真是太好了！祝福您，斯卡比亞先生！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "海因里希",
+          "text": "噢，失禮了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他站在遠處向著霍夫曼與馬庫斯的方向微微頷首。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "海因里希",
+          "text": "你們也好，安傑羅提，和——不知名字的女士。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "奇怪的紳士轉身，腳步輕快地走進了那幢神廟式的建築。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡爾",
+          "text": "瞧，這就是其中的一個瘋瘋癲癲的藝術家，誰都知道我只有位美麗的小女兒！這位光下巴的紳士剛從柏林留學回來。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡爾",
+          "text": "書麼，想必是沒有讀多少，可卻腳踝一歪跌進了戲劇中……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡爾",
+          "text": "依我看，他是瓦格納和莫札特聽多了，損害了他的中樞神經，才瞧誰都是歌劇裡的人物。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡爾",
+          "text": "要麼是傷人視力，讓人眼花繚亂的劇碼；要麼是音符太多，華而不實的樂章……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "馬庫斯",
+          "text": "藝術家都是這樣的嗎……？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "馬庫斯",
+          "text": "唔，斯卡比亞、安傑羅提……的確都是歌劇《托斯卡》裡的人物。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡爾",
+          "text": "哎呀，我扯遠了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "卡爾的拐杖點了點面前的石像。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡爾",
+          "text": "請放心，為了適應頻繁的人員進出，我們已經大幅修改了它的原始術式……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡爾",
+          "text": "您只需要敲響它的盔甲三下，再摸摸鬍子，就能進去了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡爾",
+          "text": "噢，我忘了！你們是兩位尊敬的女士，沒有鬍子！但你們有……了不起的神秘術，對吧？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "霍夫曼",
+          "text": "首先，我不是神秘學家。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "霍夫曼",
+          "text": "然後，我也沒有您所希望的幽默感。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡爾",
+          "text": "——好吧！但其實這並不是玩笑。它只認識鬍子，不是所有人都像海因里希那樣……這畢竟是紳士的象徵……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "接連不斷的荒誕已經顯著消耗了資深調查員的耐心。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "霍夫曼",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "霍夫曼",
+          "text": "卡爾先生，請您直接把說好的神秘學家名單給我吧。我們就不進入基金會分部了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡爾",
+          "text": "這怎麼行？二位要錯過多瑙河畔的美麗風光嗎？再沒有比乘坐馬車觀賞環城大道更能體味現代系統的優勢了！薩赫酒店也早已備好了柔軟的床鋪——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡爾",
+          "text": "二位是否還沒品嘗我們的國寶……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "霍夫曼",
+          "text": "謝謝，您不在的那兩個小時我們已經品嘗過了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "霍夫曼",
+          "text": "請把、名單、給我們。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "霍夫曼的語氣不容置疑。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "霍夫曼",
+          "text": "此前應當有一份來自總部的電報，囑咐你們調查西奧菲爾·馮·迪塔斯多夫的周邊人物。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡爾",
+          "text": "是的，好吧，那真遺憾，總部來的女士。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡爾",
+          "text": "給您……都在這兒了，都在這兒了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡爾",
+          "text": "還有這裡，這個……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡爾",
+          "text": "如果您見到理查先生，請務必將這兩張皇家宮廷劇院的戲票移交給他……還有我最誠摯的問候。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "霍夫曼女士不動聲色地站定腳步，維持一個禮貌而生疏的距離。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "霍夫曼",
+          "text": "我會的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "馬庫斯",
+          "text": "……誰是理查先生？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "霍夫曼",
+          "text": "1914年總部與維也納分部的對接人……一個歷史縫隙中已不存在的幻影。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "霍夫曼",
+          "text": "那時人們都還相信，父輩的黃金時代會自然地延續，而自己在當局的職位會和古老的帝國一樣永恆。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "霍夫曼微微頷首，看著老卡爾點了點拐杖，摸了摸鬍鬚，消失在了戈連打開的通路裡。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡爾",
+          "text": "……嗯？該死，它不讓我過去！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "霍夫曼",
+          "text": "卡爾先生，您剛才與我說那並不是玩笑。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡爾",
+          "text": "那確實不是！真見鬼，這是怎麼回事，這玩意兒年久失修了嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡爾",
+          "text": "不，我被卡住了……我的肚子！我在巴黎定制的西裝！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "戈連",
+          "text": "——═╩╬！！！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "古老的騎士緩緩蘇醒，揚起和帝國的歷史一般厚重的塵埃。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡爾",
+          "text": "怎麼回事！怎麼會啟動了它的防禦機制……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "滑稽的聲音從石像內部傳來，聽起來就像一顆橡膠球正在裡面來回彈射。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "霍夫曼",
+          "text": "唉。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "霍夫曼",
+          "text": "……馬庫斯，你能“閱讀”到它的內部術式嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "馬庫斯",
+          "text": "唔，它的動作很慢……我想可以。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "霍夫曼",
+          "text": "好。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "霍夫曼",
+          "text": "注意安全。對你而言，這也是一個練習的機會。"
+        }
+      ]
+    },
+    {
+      "script_id": "100606",
+      "internal_title": "第六章6-4.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "卡爾",
+          "text": "噢不！霍夫曼女士，這些戈連是維也納分部精神的象徵……你們不能這麼粗暴地對它……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "霍夫曼",
+          "text": "適應，改良，進步。神秘術應與時代發展相匹配，而不是塵封在歷史的榮光中淪為陳列室的收藏。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "霍夫曼",
+          "text": "顯然，現在它出現了問題，我們僅是秉公處理。如果您有疑問，可以將這件事寫在報告裡。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "霍夫曼",
+          "text": "我該提醒您，鑒於您踐行自由意志的時間過多——我們沒多少時間等待了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡爾",
+          "text": "不不，我和您說的不是流程上的問題！——真該死，您該不會是德國人吧？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "分部負責人小聲嘟囔著，終於走進了自己的工作大樓。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "霍夫曼",
+          "text": "……那個戈連出了什麼問題？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "馬庫斯",
+          "text": "唔，它的結構非常簡單，確實如卡爾先生所說，簡單而巧妙……出問題的只是其中一個部件——那個部件的神秘術刻痕多了一筆。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "馬庫斯",
+          "text": "神秘術刻痕很新……我猜想很可能是維修或者保養的時候出了紕漏……？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "霍夫曼",
+          "text": "但願僅是如此。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "霍夫曼",
+          "text": "在卡爾先生出來之前，你先看看這個。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "霍夫曼",
+          "text": "幾日前，委外合約小隊的一位專員發現《潘神》上報導了一幅畫作。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "霍夫曼",
+          "text": "這幅畫作屬於已故的維也納藝術家西奧菲爾·馮·迪塔斯多夫，他死於自殺。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "霍夫曼",
+          "text": "伴隨這幅名為《拯救》的巨大油畫的，還有一首題詩。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "霍夫曼",
+          "text": "裡面提到了“末日”、“時間倒退”以及“雨幕”的意象。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "馬庫斯",
+          "text": "……拯救和雨幕？這聽起來非常……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "霍夫曼",
+          "text": "嗯，結合其他小組成員在維也納目擊過重塑之手幹部的報告……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "霍夫曼",
+          "text": "我們懷疑，西奧菲爾生前接觸過重塑之手幹部，他很可能被告知了“暴雨”的真相，以及得到“拯救”的方法。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "霍夫曼",
+          "text": "29年，重塑之手就是以此為籌碼招募神秘學家。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "馬庫斯",
+          "text": "唔……可如果西奧菲爾知道了得救的方法，他還為什麼要自殺呢？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "馬庫斯疑惑地接過雜誌，看著這一方被裁剪下來的小小的版面。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "馬庫斯",
+          "text": "“我去林間尋覓，西勒諾斯。”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "馬庫斯",
+          "text": "“什麼是對人最好、最美妙的東西？”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "馬庫斯&伊索爾德",
+          "text": "“他說，是從未降生的空白！”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊索爾德",
+          "text": "“我望向它來，關乎一切的，生的巨環。”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊索爾德",
+          "text": "“你的雙手合圍成圓，宣判。”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊索爾德",
+          "text": "“最後可塑的白日，歷史消逝的黃昏。”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊索爾德",
+          "text": "“世界呵！頭吞食著腳，足抵著鼻尖。”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊索爾德",
+          "text": "“人呵！棲居於大地，等待天空沉墜。”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊索爾德",
+          "text": "“昨日轉向明日，明日成為昨日。”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊索爾德",
+          "text": "“雨幕之下，誰將泯沒——”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊索爾德",
+          "text": "“又有誰會獲得那永恆的幸福，無上的恩賜——”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊索爾德",
+          "text": "“——那不復存在的虛無？”"
+        },
+        {
+          "kind": "title_card",
+          "text": "分離派之家"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "海因里希",
+          "text": "多麼動人的朗誦，齊格琳德小姐。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "海因里希",
+          "text": "我可憐的摯友齊格蒙德，他已然回歸到了那虛無處。朋友們，歡迎你們來到這場沙龍，為我們亡去的英雄落淚。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "海因里希",
+          "text": "他正直、高尚、關懷同胞！在離去前，他還在為黃金島上的同胞擔憂，奔走，創作了諸多優美的詩歌和繪畫。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "海因里希",
+          "text": "只可惜，那場大火焚盡了所有，只餘下斷壁殘垣，以及——《拯救》。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "海因里希",
+          "text": "我們曾處於一個進步的黃金時代。我們相信，啟蒙將掃清歷史的蒙昧，帶我們步入拯救的天國。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "海因里希",
+          "text": "神秘學家和人類的界限將被消除，在維也納這座開明、包容的城市，我們將手拉著手，背靠著背，像我們剛來到世界上那樣親密無間。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "海因里希",
+          "text": "“世界呵！頭吞食著腳，足抵著鼻尖。”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "海因里希",
+          "text": "但如今，神秘學家的生存空間正被壓縮、搶佔。我們渴望用自己的語言發聲，結果卻是在自己的國家成為異鄉人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "海因里希",
+          "text": "因此我們決定將齊格蒙德的遺作展出。並不僅僅是為了紀念死者——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "海因里希",
+          "text": "更是為了紀念他的精神，他對同胞最深切的關懷，以及對時代最悲愴的詰問。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "人們禮貌地點著頭，部分女士開始啜泣。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "海因里希",
+          "text": "不要悲傷！朋友們！他為我們留下了萊茵的黃金！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "海因里希",
+          "text": "我們將用畫展所募資金成立一個委員會，用以改善未登記神秘學家的處境。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "沙龍賓客Ⅰ",
+          "text": "維也納最年輕、最傑出的女歌劇演員，西奧菲爾的胞妹，伊索爾德小姐會為我們介紹具體事宜。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "掌聲中，海因里希微微欠身，將舞臺留給真正的主角。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊索爾德",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她輕盈地邁出了一步。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "馬庫斯",
+          "text": "我明白了……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "馬庫斯",
+          "text": "我們要調查的就是西奧菲爾·馮·迪塔斯多夫周邊接觸的人物。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "馬庫斯",
+          "text": "他們中可能有重塑之手。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "導師認可地點了點頭，將一疊文件交給馬庫斯。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "霍夫曼",
+          "text": "儘管他們的官僚體系中存在諸多問題，但我們需要借助維也納分部的説明，來在這個時代行走。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "霍夫曼",
+          "text": "調查令、介紹信、取證許可……這個時代所需的一切官方證明文件，以及1914年維也納所有登記神秘學家的名冊。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "霍夫曼",
+          "text": "但出於保密需要，我們不會和他們建立深度合作關係。接下來的行動，他們最多為我們提供人力上的協助。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "馬庫斯連忙點頭，主動攤開了那本厚重的神秘學家名冊。她迫切需要證明自己這一次並未分心。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "霍夫曼",
+          "text": "……以防你在字母“A”行看上一天，馬庫斯，我們要找的是“西奧菲爾”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "馬庫斯",
+          "text": "您，您怎麼知道我正要看A行……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "學徒心虛地縮了縮肩膀。借助神秘術，她迅速找到了導師想要的資訊。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "馬庫斯",
+          "text": "這裡寫著，西奧菲爾生前隸屬一個名為“魔圈”的藝術家團體。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "馬庫斯",
+          "text": "他們常在分離派之家集會，霍夫曼女士，也許我們可以依序接觸……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "啊——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "霍夫曼",
+          "text": "怎麼回事？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "馬庫斯",
+          "text": "——唔，我感受到了很強的神秘術波動……是從那裡傳過來的！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "馬庫斯看向分離派之家的大門。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "馬庫斯",
+          "text": "那好像是……好像是……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "馬庫斯",
+          "text": "……幽靈？"
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

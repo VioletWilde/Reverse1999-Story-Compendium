@@ -1,0 +1,411 @@
+{
+  "episode_id": 10516,
+  "chapter_id": 105,
+  "chapter_title": "洞穴的囚徒",
+  "display_label": "",
+  "title": "雨日鐘聲",
+  "subtitle": "終其而言，天氣預報員從來不止一位。",
+  "trails": [
+    {
+      "element_id": 1051601,
+      "owner_episode_id": 10516,
+      "trigger_episode_id": null,
+      "title": "IDM維護記錄",
+      "description": "從機器維護記錄中撕下的一頁，有著被反復展開又合上的痕跡。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=516",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "IDM維護記錄"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "11月8日更換穿孔紙卡，設備無異常。\n\n11月9日停機30分鐘，檢查接插線板。檢查結果：部分電線\n輕微老化，無漏電、接觸不良等情況。已報備並將電線加入本月離島需購買物資明細表。\n\n11月10日停機30分鐘，檢查電機驅動情況。檢查結果：性能良好。\n\n11月11日停機30分鐘，檢查示數裝置。檢查結果：表a1G4\n指標卡住，排查故障，發現表a1G4內部齒輪銹蝕。已報備並將\n示數表加入本月離島需購買物資明細表。\n\n11月12日更換穿孔紙卡，設備無異常。\n\n11月13日設備無異常。\n\n11月14日設備無異常。\n\n11月15日停機1小時15分鐘，更換示數表。另從島外購得新\n型接插線板，計畫於一日後更換。\n\n11月16日更換穿孔紙卡，設備無異常。\n\n11月17日更換新型接插線板。停機3小時，更換完畢。\n\n11月18日設備無異常。原接插線板的處理：拿給女兒了，蘇菲亞\n她還挺喜歡研究這個。處理已經過批准。\n\n11月19日設備無異常。\n\n11月20日更換穿孔紙卡，設備無異常。"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100523",
+      "internal_title": "第五章5-16.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "雨日鐘聲"
+        },
+        {
+          "kind": "title_card",
+          "text": "島嶼 · 研究室"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星銻",
+          "text": "這，這是什麼……？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星銻",
+          "text": "你們的神聖研究……居然是一台巨大的IDM電腦？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "星銻已經熟練地打量起機器來。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星銻",
+          "text": "我在拉普拉斯的時候就對它很感興趣，後面的型號可比66年改進太多了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星銻",
+          "text": "不過這一台好像也沒比66年的先進到哪去……不會是重塑賣給你們的廢品吧？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "現象世界的東西都是廢品。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "它早就無法使用了。“流溢”發生後，我們就找不到維修者了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "你們使用“流溢”來指代“暴雨”……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "這個詞到底有什麼含義？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "是靈性的潮湧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "……我們被流放了，從那個完美無缺的理念世界，放逐到這個陰暗潮濕的洞穴裡。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "所有人都沉湎於追逐牆上虛假的火光，遺忘了探尋“本質”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "但是靈性，會指引我們走出洞穴，回歸到更高的存在中。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星銻",
+          "text": "哈……照你的說法，好像我們的世界就是個垃圾堆似的！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "不是嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星銻",
+          "text": "當然不是了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星銻",
+          "text": "嘖，要我看啊，你從來都沒有出過島，所以根本就不懂外面的世界有多酷、多棒！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星銻",
+          "text": "胡椒博士、音樂節，還有羅里·斯托姆、赫里斯合唱團和滾石……好處用上你所有的指頭都數不完！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星銻",
+          "text": "要不是這場倒楣的“暴雨”，我還在倫敦街頭參加摩托車競速賽呢！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "唔，你的靈魂應該很污濁吧？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星銻",
+          "text": "還有電腦，它一秒就能完成數以萬計的計算，比十萬個你加起來都強！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "數位並不是越大越好啊。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "而且，它一直沒有發揮過什麼作用——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星銻",
+          "text": "拜託，老兄！你們把它放在洞穴裡，就像把嬰兒獨自丟在廚房——難道還能指望它給你們做大餐嗎？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星銻",
+          "text": "算了，等我把它修好，你就懂了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "星銻嘟囔著爬到了機器下面。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "……星銻，你會修IDM嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星銻",
+          "text": "不會，但我看拉普拉斯的人用過——我想難不到哪裡去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星銻",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星銻",
+          "text": "呃，好多灰塵……我說，你們有多久沒打掃過這裡了？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星銻",
+          "text": "有魔精在主機殼裡安了家！它們正在裡面開派對呢！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星銻",
+          "text": "維爾汀，來搭把手！它們不讓我抓！"
+        }
+      ]
+    },
+    {
+      "script_id": "100524",
+      "internal_title": "第五章5-16.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "電腦的螢幕正跳躍著綠色的數位。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "驅除寄生的害蟲後，這台蒙塵的龐然大物奇跡般恢復了生機。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "……竟然真的修好了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "讓你來打掃研究室真是太正確了，星銻！你的浮點一瞬間都減去了好多位！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星銻",
+          "text": "……聽起來似乎是個誇獎？那我就不客氣地收下啦！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "這是個文字遊戲，船長。無限無論減去多少都還是無限。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星銻",
+          "text": "好吧，好吧！我早該放棄改變你們評價體系的想法。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星銻",
+          "text": "難道人類發明電腦，只是為了在這個島上給魔精當家嗎？唉……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "多虧了你，我們可以查看之前的模型了，星銻。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "不過很可惜，它裡面只有2003年以前的記錄，近四年來的資料是缺失的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "37以不應有的熟練操作起機器來。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "這就是我們的年表，維爾汀。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "從1999年到2007年，一共發生了七次“流溢”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "在最初的四年裡，“流溢”非常具有規律。先是90年代，然後80年代，70年代。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "然後驟然跳躍到了30年代，接下來的三年裡，一共發生了2次“流溢”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "這些記錄與基金會的絲毫無差。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "……等等，你說這裡只有2003年前的記錄？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "可這上面卻有1966年的“暴雨”……它是近年發生的！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "這裡面的確只有2003年前的觀測資料。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "後面是我們的推算。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星銻",
+          "text": "嗯，你是說你們在四年前就預測到了1966年的“暴雨”……？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星銻",
+          "text": "這怎麼可能……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星銻",
+          "text": "你們能做出這種數學模型，卻放任主機殼裡長滿那些蠢魔精？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "我們只是找出了數字的規律。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "你們沒有離開島嶼，卻能做出如此精確的預測……不可思議。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "37有些不滿地撇了撇嘴。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "探究本質並不需要踏足其中。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "而且，我們有派人前往現象世界觀測，我的媽媽就是其中一員。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "她也是這個模型的創建者，沒有人比她更瞭解這台機器。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星銻",
+          "text": "……所以你也有老媽？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "……也？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "……37，你的母親，她現在在哪裡？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "她和很多人一起被還原為了本質。從那之後，我就接手了這間研究室。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "37，你說的本質，指的是什麼……？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "這是什麼問題？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她歪了歪頭，好像發自內心感到不解。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "本質，就是一切虛假被擊碎後，最後剩下的東西。"
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

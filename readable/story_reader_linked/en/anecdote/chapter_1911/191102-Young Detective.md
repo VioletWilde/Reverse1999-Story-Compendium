@@ -1,6 +1,6 @@
 # Young Detective
 
-- Chapter: Finding Xavier (`1911`)
+- Chapter: Eagle (`1911`)
 - Episode: `191102`
 
 > Subtitle: "Anytime, anywhere, always serious work!" "Shh, did you hear what he just said?"

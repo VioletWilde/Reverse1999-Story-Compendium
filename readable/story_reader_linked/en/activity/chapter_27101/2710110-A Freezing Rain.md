@@ -1,6 +1,6 @@
 # A Freezing Rain
 
-- Chapter: 1987 Космическая Увертюра (`27101`)
+- Chapter: 1987 Cosmic Overture (`27101`)
 - Episode: `2710110`
 
 > Subtitle: How could you possibly expect warm rain to fall inside a greenhouse?

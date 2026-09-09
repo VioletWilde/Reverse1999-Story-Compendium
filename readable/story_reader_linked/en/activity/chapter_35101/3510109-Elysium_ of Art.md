@@ -1,6 +1,6 @@
 # "Elysium" of Art
 
-- Chapter: 绿松石蛇俱乐部 (`35101`)
+- Chapter: The Turquoise Serpent Club (`35101`)
 - Episode: `3510109`
 
 > Subtitle: The finest stage for crime.

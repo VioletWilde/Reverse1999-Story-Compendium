@@ -1,6 +1,6 @@
 # About the New Era
 
-- Chapter: Tender is the Night (`102`)
+- Chapter: Tender Is the Night (`102`)
 - Episode: `10212`
 
 > Subtitle: Have the last wine before you leave. I saw the flames rising as the crowd cheered for the great festival and the wonderful heavens above.

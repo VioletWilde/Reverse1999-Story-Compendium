@@ -1,6 +1,6 @@
 # Farewell Letter
 
-- Chapter: 远征记 (`112`)
+- Chapter: The Campaign's Tale (`112`)
 - Episode: `11213`
 
 > Subtitle: Mounting their horses and clenching the reins, young men bid farewell and head to war—a story as old as time.

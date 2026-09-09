@@ -1,0 +1,697 @@
+{
+  "episode_id": 3110113,
+  "chapter_id": 31101,
+  "chapter_title": "長き夜に汽笛は鳴る",
+  "display_label": "",
+  "title": "帰らぬ者",
+  "subtitle": "彼らの影は切り離された。残された家族は、誰一人帰らぬ長い夜に、彼らを悼み続ける。",
+  "trails": [
+    {
+      "element_id": 3110110,
+      "owner_episode_id": 3110113,
+      "trigger_episode_id": null,
+      "title": "終着点に辿り着く前に",
+      "description": "たった一つの終着点と、そこに至る無数の道筋。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=3110113",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "終わりのない大雨が洪水を招く。当然の結果だ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "これが最後の報告だ。人と鳥の時代は終わった。これからは魚の時代が始まる。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "だが、魚たちはもう少し待つことになったようだ。君のせいで、世界の終末はおよそ１時間後に延期された。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "その１時間のために、世界中の人々から感謝されるだろう。とんでもない大きさの勲章を授けられるかもしれんな。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "きっと方法が残ってる",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "ああ。傘が役に立たないなら、箱舟がある。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "かつてのように、資格がある動物だけを箱舟に乗せ、力を温存すれば…"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "君はまだまだ戦える。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "聞きたくないのはわかるが、最後の任務くらいまっとうさせてくれ。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "万有引力のおかげで、高いところに住んでいる住民は少しだけ長く生き延びることができる。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "橙色の子犬と抱きしめ合いながら、思い出話を楽しむ時間もある。終末が地球の極点から、もう片方の極点へ向かう様子を眺めながらな。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "もしくは…軍人らしく、最期まで命令に従ってもいい。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "「あの作家を見つけろ」"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "この任務の重大さは、説明するまでもないだろう。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "黙ってて",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "203118",
+      "internal_title": "【3.1】长夜鸣笛13",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "車両の外から慌ただしい足音が聞こえ、その後に不満げな声が響いてきた。"
+        },
+        {
+          "kind": "title_card",
+          "text": "増設された客車"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ジェイコブ",
+          "text": "…この感じ、軍の連中が来たみたいだな。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ライハ",
+          "text": "ボリスって人かしら？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "センメルワイス",
+          "text": "ボリス？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ジェイコブ",
+          "text": "今回の「密航作戦」を担当してる軍人だ。車掌とは仲間だって聞いたぞ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "新しい名前、新たな厄介事。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "調査員は眉をひそめた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "センメルワイス",
+          "text": "…ルブシカ。わたしたちは、戻ったほうがいいわ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ルブシカ",
+          "text": "え？　あぁ、そうだね！　ぼくはエマの車両にいるべきなんだった、見つかったらまずいもんね…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "イヴァン",
+          "text": "ちょ、ちょっと待って…ル、ルブシカお姉ちゃん！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "立ち去ろうとした少女は、その声に振り返った。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "イヴァン",
+          "text": "あのね…僕たちを守ってくれて、ありがとう…お姉ちゃんはすごく勇敢だね。僕もいつかお姉ちゃんみたいになりたいな！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "イヴァン",
+          "text": "お姉ちゃんは、いい吸血鬼だよ！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "少女は思わず微笑むと、身をかがめ男の子の頭を撫でた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ルブシカ",
+          "text": "あなたもいい子だね、イヴァンくん。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ルブシカ",
+          "text": "さて、それじゃあ…いい吸血鬼は、しばらくここを離れなきゃ。あとでこっそり状況を知らせに戻ってくるね。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ルブシカ",
+          "text": "ぼくがいる限り、誰にもあなたたちを傷つけさせないから――ほら、手を出して。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "彼女はイヴァンに右手を差し出し、そっと小指を突き出した。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "するとイヴァンも残る右手を伸ばし、その小指を彼女の小指に絡めた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "小さな約束が交わされた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "イヴァン",
+          "text": "うん、待ってる。約束だよ…ルブシカお姉ちゃん。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ルブシカ",
+          "text": "うん。あとこれ…もらってくね。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "ルブシカは足元に転がっている杭を拾い上げ、揺らしてみせた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ルブシカ",
+          "text": "約束の証としてね。心配しないで、必ず戻ってくるから！"
+        },
+        {
+          "kind": "title_card",
+          "text": "客車"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "コルヴス",
+          "text": "皆さん、お静かに。これは単なる定例検査です。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アナベル",
+          "text": "アナベルたちも、ルブシカお姉ちゃんみたいに…つかまえられちゃうの…？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ウィリアム",
+          "text": "ボスを返せ！　じゃないと、おれ、床に寝っ転がっちゃうぞ！　そしたら、調べられなくなるだろ！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "まるで壮絶な死を遂げようとする騎士のように、男の子は慣れた動きで床に倒れ込み、ぷくぷくとした小さな手を握りしめた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "それはミス・ドロシーを相手にする時のとっておきで、よほどのことがない限り人には見せない姿だった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "コルヴス",
+          "text": "本気ですか？　そこで永遠に寝ていることになりますよ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ウィリアム",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "その言葉を聞いて、子どもは怖くなり唾を飲み込んだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ウィリアム",
+          "text": "いーや！　ボスが戻るまで…起きない！　脅しても無駄だぞ！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "デッドリーフ",
+          "text": "定例検査？　またやるの？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "デッドリーフ",
+          "text": "あぁ、さてはランチを食べ終わった乗客が「何か」に変身でもしたのね。だからもう一回検査がしたいと。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "エマ",
+          "text": "誠に申し訳ございません。安全のためにも、もう一度確認が必要でして…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソニア",
+          "text": "そう。それではわたくしも、あなたたちの頭がちゃんと機能しているのか、確認しないといけませんわね。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソニア",
+          "text": "あなたたちは秩序を守るどころか、混乱を煽っているだけ。列車の規律をないがしろにする行為だわ、恥を知りなさい！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "車内は混乱を極めた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "人々はそれぞれの席を離れ、今にも新たな騒動が起こりそうなその時――"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ボリス",
+          "text": "戯れはそこまでにしてもらおうか。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "軍人は取るに足らない出来事だとばかりに、無造作に拳銃を腰へと戻した。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "全員が一斉に口を閉ざした。不穏な静寂の中、ずっと騒音にかき消されていたもう一つの声が、ついに世間に晒された。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "「カッ…カッ――カッカッ…」"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "それは規則的でいて、あるかないかの些細な音だった。まるで消化不良の節足動物が腸を蠢かせているかのような音だ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "音が次第に小さくなるにつれて、猫のような嗚咽も聞こえ始めた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "「ウゥ…」"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "人々は音の出所を追い、一斉に隅で顔を青くさせている紳士を見つめた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アーバスノット",
+          "text": "そ…そんな目で見ないでくれ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アーバスノット",
+          "text": "私が鳴らしているわけでは…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "突然の足音が響く。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "長らく姿を見せていなかった調査員が、人々の元へ急ぎ足でやってきた。その背後には、眠っているはずのルブシカの姿もあった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "コルヴス",
+          "text": "なぜここに？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "センメルワイス",
+          "text": "それより先に、通して。さっきの音…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "センメルワイスは大股でアーバスノットに近づき、その手首を掴んだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アーバスノット",
+          "text": "だから、さっきの音は私ではないと――"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "彼女はアーバスノットを押しのけると、彼の背後で縮こまりながら、ずっと俯いている見知らぬ乗客を見つめた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "センメルワイス",
+          "text": "あなたは何者？　調査時にはいなかったはずよ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "センメルワイス",
+          "text": "説明してもらえるかしら、ミスター？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "病気になった乗客",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "乗客はたっぷり時間をかけて顔をあげた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "彼の顔はひどく白く、菌糸のような赤い色が瞳孔の中央に向け広がっていた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "パカッと開けられた口に、ねっとりと黒ずんだ血の色をした海が揺らめいていた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "病気になった乗客",
+          "text": "カ…カカ――"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "乗客たち",
+          "text": "うわあああああ――！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "病気になった乗客",
+          "text": "た…助けて…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "男は床に倒れ込み、絶え間なく喉から血を吐き出しては、それを「ゴポゴポ」と音を立てて飲み込んでいる。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "センメルワイスはかがみ込み、彼の瞼をめくり上げた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "センメルワイス",
+          "text": "…感染種？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "センメルワイス",
+          "text": "だけど、書類に載っていた感染種の症状と…全然違うわ。変異が起きたのかしら？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "コルヴス",
+          "text": "――！！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "乗客Ⅲ",
+          "text": "俺たちにもわかるように説明してくれよ！　感染種って、何に感染したっていうんだ！？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "デッドリーフ",
+          "text": "これが風邪や、サルモネラ菌、あるいは結核のたぐいに見える？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "デッドリーフ",
+          "text": "残念だけど、これは明らかに吸血鬼の感染種よ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "乗客Ⅲ",
+          "text": "きゅ、吸血…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "立て続けに起こった恐ろしい事態に、乗客は白目をむいて気絶してしまった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "乗客Ⅰ",
+          "text": "おお、神よ…吸血鬼じゃと？　おとぎ話の存在じゃと思っておったが…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ボリス",
+          "text": "ここにいるべきでない者が紛れ込んでいたせいだ。あの少女、吸血鬼なんだろう？　イグリーカ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "彼はルブシカを見た。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ボリス",
+          "text": "子どもたちが、影を持たない「吸血鬼のボス」がどうだのと騒いでいた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ドロシー",
+          "text": "そんな…子供たちの冗談だと思ってたのに！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "人々は少女をじろじろと見つめる。\nフェルト帽を失ってしまった今、少女に赤い瞳を隠す手立てはなかった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "恐ろしい事態の「原因」に、ついに理由がつけられた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "乗客Ⅳ",
+          "text": "最初から切符を買えるような娘じゃないとは思っていたわ。落ち着きもなかったし…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "乗客Ⅱ",
+          "text": "そうね…こうして見ると、異常なほど真っ白い肌をしているし…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ルブシカ",
+          "text": "ぼ…ぼくじゃないよ！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ボリス",
+          "text": "残念だが、ここは法廷ではない。私も君の顧問弁護士ってわけではないのでね。我々がすべきことは、ただ一つ――厄介事の排除だ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ボリス",
+          "text": "吸血鬼への対処は最優先事項というわけではないが、このまま君を自由にさせておくことはできない。閉鎖された空間に、これだけの無防備な人が集まっているのだから…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ボリス",
+          "text": "君専用の晩餐会場になられても困る。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "軍人は手を振って、後ろにいる部下たちに呼びかけた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ボリス",
+          "text": "彼女を連れて行け。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "国境警備兵Ⅰ",
+          "text": "はっ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "踏みしめるような足音が響き、二人の兵士が左右からルブシカの腕を掴んだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ルブシカ",
+          "text": "離して！　これは誤解だよ…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ウィリアム",
+          "text": "ボスを放せ！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "次の瞬間、子どもたちが飛び出し、兵士の周りで騒ぎ立てた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アナベル",
+          "text": "ボスが誤解だって言ってるの！　まずボスの話を聞いてあげて…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "国境警備兵Ⅰ",
+          "text": "どけ！　公務の邪魔をするんじゃない。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "苛立った兵士はライフルを構えた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ドロシー",
+          "text": "なんてことをしているの…命知らずにもほどがありますよ！　早く戻ってらっしゃい――！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ルブシカ",
+          "text": "アナベル！　やめて！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "しかし、子どもたちは動じなかった。アナベルは兵士の服の裾を掴みながら、焦った様子でルブシカを見つめた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "混乱する人々の間から覗く、彼女の青白い顔だけがはっきりと見える。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アナベル",
+          "text": "早く逃げて、ボス！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "…………"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "母",
+          "text": "早く逃げて、ルブシカ！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "濃厚な硝煙の匂いが空気中に漂う。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "幸い負傷者はなく、天井に不規則な凹みが一つ残っただけだった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "国境警備兵Ⅰ",
+          "text": "親のところに戻れ！　でないと、次は本当に撃つぞ…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "国境警備兵Ⅰ",
+          "text": "うわっ！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "痩せた人影が混乱に乗じて拘束を振り切り、兵士に飛びかかった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アナベル",
+          "text": "ボス…ボスだ！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "ルブシカは兵士に強くしがみつくと、鋭い牙を兵士の腕に深く突き立てた。まるで彼の血と肉を、根こそぎ吸い尽くそうとするかのように。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ルブシカ",
+          "text": "うぅお…ろせ！　＜銃を…下ろせ！＞"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

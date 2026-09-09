@@ -1,4 +1,4 @@
-# Main Story · 他者的悲哀
+# Main Story · On Another's Sorrow
 
 - [11301 Reckoning Time](11301-Reckoning Time.md) — Before the dust settles.
 - [11302 Homecoming Day](11302-Homecoming Day.md) — A pure and pristine song.

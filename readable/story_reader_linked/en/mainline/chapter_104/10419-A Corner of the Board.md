@@ -1,6 +1,6 @@
 # A Corner of the Board
 
-- Chapter: El oro de los tigres (`104`)
+- Chapter: El Oro de los Tigres (`104`)
 - Episode: `10419`
 
 > Subtitle: After a life-long moment of waiting, two pieces are carefully placed here.

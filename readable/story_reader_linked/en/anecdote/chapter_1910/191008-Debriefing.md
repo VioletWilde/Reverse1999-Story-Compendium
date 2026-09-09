@@ -1,6 +1,6 @@
 # Debriefing
 
-- Chapter: The Winds OF Juhalerat (`1910`)
+- Chapter: The Winds of Juhalerat (`1910`)
 - Episode: `191008`
 
 > Subtitle: Things have settled down, but we still have business to take care of.

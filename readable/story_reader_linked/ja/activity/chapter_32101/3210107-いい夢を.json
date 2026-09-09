@@ -1,0 +1,543 @@
+{
+  "episode_id": 3210107,
+  "chapter_id": 32101,
+  "chapter_title": "うつろう饗宴",
+  "display_label": "",
+  "title": "いい夢を",
+  "subtitle": "そう、今こそあなたの出番だ。",
+  "trails": [
+    {
+      "element_id": 3210202,
+      "owner_episode_id": 3210107,
+      "trigger_episode_id": null,
+      "title": "目撃記録",
+      "description": "目立たない目撃記録。街中に奇妙な噂や裏の話が渦巻き、通行人の誰もが秘密を抱えている。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=3210107",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "異国の仮面"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "ある浮浪者の証言。彼は閉ざされた路地裏で、カニの仮面を着けた不審者を目撃し、その装束は放浪者のものとは異なっていたという。仮面の表情は驚くほど生き生きと変化し、まるで甲羅の紋様そのものが顔であるかのようだったと供述している。"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 3210305,
+      "owner_episode_id": 3210107,
+      "trigger_episode_id": null,
+      "title": "激論の声",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=3210107",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "モンブランを食べ、薫り高いコーヒーを飲もうとした時、隣のテーブルの口論がヒートアップした。気は散るものの、そのうちの一人の主張は、あなたの胸に響いた："
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "「群れを離れて孤独に生きる者は、社会的責任を放棄しているに過ぎない」",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "追放されたのと何ら変わりはない。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "「悪など存在しない。あるのは、まだ社会に認められていない善だけだ」",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "基準は常に変わるものだ。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "「愛する人とは、この世で失われてしまった自分の片割れなのだ」",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "まさにロマンチックな感傷だ。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "「人は、自分が初めから完全な存在であることを知るべきだ」",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "であれば、我々はいったい何を追い求めているのだろうか。"
+            }
+          ]
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 3210505,
+      "owner_episode_id": 3210107,
+      "trigger_episode_id": null,
+      "title": "激論の声",
+      "description": "",
+      "action": "",
+      "unlock_condition": "ChapterMapElement=3210305",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "モンブランを食べ、薫り高いコーヒーを飲もうとした時、隣のテーブルの口論がヒートアップした。気は散るものの、そのうちの一人の主張は、あなたの胸に響いた："
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "「群れを離れて孤独に生きる者は、社会的責任を放棄しているに過ぎない」",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "追放されたのと何ら変わりはない。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "「悪など存在しない。あるのは、まだ社会に認められていない善だけだ」",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "基準は常に変わるものだ。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "「愛する人とは、この世で失われてしまった自分の片割れなのだ」",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "まさにロマンチックな感傷だ。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "「人は、自分が初めから完全な存在であることを知るべきだ」",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "であれば、我々はいったい何を追い求めているのだろうか。"
+            }
+          ]
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "203210",
+      "internal_title": "【3.2】迁流的盛宴07.1",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "アデル",
+          "text": "大丈夫？　シーリア。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "親友は疲れた様子で頷き、必死に呼吸を落ち着かせている。明かりに照らされた彼女の顔色は普段より一段と白く感じられた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アデル",
+          "text": "よかった。シーリアなら大丈夫だと思ってたよ…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "ホッとしたアデルは車窓に近づき、追いすがる黒い影たちが闇夜に消えていく様を見届けた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アデル",
+          "text": "はは！　４本足じゃ、４つの車輪には勝てないね。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アデル",
+          "text": "ムッシュ・ヴィンセント…で、いいんですよね？　この前、あなたの車と「鉢合わせ」した者です。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アデル",
+          "text": "助けてくださりありがとうございます！　てっきり、しばらく入院しているものかと…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴィンセント",
+          "text": "フランス語に不可能という言葉はないさ！　俺が全快する未来はすぐそこまで来ている！　はははっ！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "運転手は短い笑い声をあげた後、再び思いっきりアクセルを踏んだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アデル",
+          "text": "そうなんですか？　お大事になさってくださいね。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "シーリア",
+          "text": "アデル…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "親友はアデルの肩を叩いたが、彼女の注意を引くことはできなかった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アデル",
+          "text": "ところでさっき、カフェの前で誰かに会いませんでしたか？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴィンセント",
+          "text": "いいや、誰もいなかった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "シーリア",
+          "text": "アデル、これ以上聞くのは――やっぱり…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "アデルは親友の手を少し握ると、体を傾けて運転席に近づいた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アデル",
+          "text": "実はですね、助手席の窓に残ってる口紅の跡が、友人が書いたものにそっくりなんですよ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アデル",
+          "text": "すごい偶然ですよね。あたしの車にも、同じ場所に同じ文字が書いてあったんですよ。うっかり消しちゃったカドの部分もそっくり。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アデル",
+          "text": "あたしの車にあった口紅の跡はとっくに消したのに…なんでこの車にはあるんですか？　これは本当にあなたの車です？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アデル",
+          "text": "あるいは――今までのすべては、ただの悪夢だったり！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "シーリア",
+          "text": "あなた、疲れてるのよ…だから夢を見てると勘違いして、変なことを言ってるんだわ…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アデル",
+          "text": "いい加減にして！　あなただって、あたしの夢に出てきた偽物のくせに！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "シーリアは目を丸くする。彼女は燃え尽きる寸前のロウソクのように弱々しく見えた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "シーリア",
+          "text": "…あ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "いつの間にか車は走ることをやめ、暗闇の中で浮かんでいた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "幼竜が運転席の背もたれから、運転手の肩へと飛び乗る。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アデル",
+          "text": "Par   le   feu,   le   faux   est   purifié!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "炎に焼かれた人体を、獣がその牙で切り裂いた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "「ヴィンセント」",
+          "text": "――！"
+        }
+      ]
+    },
+    {
+      "script_id": "203211",
+      "internal_title": "【3.2】迁流的盛宴07.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "「ヴィンセント」が窓から飛び出す。その歪んだ後ろ姿はあっという間に闇に飲まれた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "アデルの胃に突如焼けるような痛みが襲った。闇はまるで毛皮と牙を備えた大きな獣のようで、その身体から粘り気のある血を絞り出している。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "獣は飢えに耐えながら、今の今まで待ち続けていたのだろう。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "シーリア",
+          "text": "アデル！　アデル――アデル！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アデル",
+          "text": "あなたは…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "アデルが我に返るよりも先に、幼竜のしっぽがシーリアの腕に絡まる。炎は一瞬明るくなり、すぐに消えてしまった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アデル",
+          "text": "あなたは、本物――？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "シーリアは彼女の手を取った。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "シーリア",
+          "text": "聞いて、アデル！　思い出したわ！　「ジェヴォーダンの獣」がなんなのか、わかった――"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "シーリア",
+          "text": "すべてのヒステリーも、失踪も、「マヌス・ヴェンデッタ」が心像宝庫をこじ開けたせいなの！　このままじゃ、パリ全体が崩壊しかねない！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "シーリア",
+          "text": "ローゾ教授を信用しちゃだめ！　急いで私を探そうとしなくていい！　あなたはまず――"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "冷たい何かがアデルの手に押し込まれた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "それはネックレスだった。嵌められた宝石には見覚えがある。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "比類なき輝きを放つ、触れることさえ難しい、伝説の宝石。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アデル",
+          "text": "これは…ブルー・ドゥ・フランス？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アデル",
+          "text": "ありえない…これはきっと…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "彼女の鑑定知識が本物だと告げている。しかし、突然無料でもらえた宝物が本物だと信じる者などそういないだろう。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "シーリア",
+          "text": "どこから来たかは考えちゃダメ！　心像宝庫を開けさせないで！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "シーリアは彼女の手を力いっぱい握り、その指を閉じさせて拳を作らせた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "シーリア",
+          "text": "これを、必ず燃やして――"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アデル",
+          "text": "――シーリア！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ベリル",
+          "text": "--Des   ténèbres,   la   lumière."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "脳内に淀む重々しい暗闇が払いのけられる。アデルはこめかみから感じる小さな痛みに耐えながら、周りを見渡した。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アデル",
+          "text": "うっ…ここは…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ベリル",
+          "text": "深呼吸して、ミス・アデル。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "柔らかいソファ、明るい水晶灯、穏やかな香り、手のひらにある宝石。「浄化の儀式」を受ける前とまったく同じ状況だ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "向かいのソファに座っているベリルも、アデルが目を閉じた時と同じ姿勢を保っていた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アデル",
+          "text": "あれは…夢？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ベリル",
+          "text": "正確には違うわ。あなたは潜在意識の深層に沈み、そこに潜む影を見つけたの。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アデル",
+          "text": "確かに、「ジェヴォーダンの獣」を見たんです…カフェ・ド・フロールで…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アデル",
+          "text": "ってことは、浄化の儀式は成功したってこと…？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "彼女はふと固まった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "手に握っているのは煙水晶だったはずだ。しかし今は、ダイヤモンドに変わっていた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アデル",
+          "text": "これはあたしが選んだ水晶じゃない！　シーリアが夢で渡してきた――"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アデル",
+          "text": "…ブルー・ドゥ・フランス？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アデル",
+          "text": "なんで？　どうしてここに？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アデル",
+          "text": "もしかして、まだ悪夢の中？　あたしはまだ…夢から覚めてないの…？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "自分の声が震えていることに気づくと、彼女は無意識にベリルを見た。今この場にいる、自分を助けてくれそうな唯一の人物を。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "ベリルは微かに困惑した表情を浮かべた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ベリル",
+          "text": "何を言っているの、ミス・アデル？　水晶なんて最初から選んでいなかったわ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ベリル",
+          "text": "あなたは最初から――そのダイヤを握っていたでしょう？"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

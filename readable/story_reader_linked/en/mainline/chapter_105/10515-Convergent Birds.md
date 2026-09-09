@@ -1,6 +1,6 @@
 # Convergent Birds
 
-- Chapter: The Prisoner in The Cave (`105`)
+- Chapter: The Prisoner in the Cave (`105`)
 - Episode: `10515`
 
 > Subtitle: The clamor has ceased. They settle on the treetops, enjoying a moment's rest.

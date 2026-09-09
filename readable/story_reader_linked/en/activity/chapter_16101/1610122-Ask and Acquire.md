@@ -1,6 +1,6 @@
 # Ask and Acquire
 
-- Chapter: Notes on Shuòrì (`16101`)
+- Chapter: Notes on Shuori (`16101`)
 - Episode: `1610122`
 
 > Subtitle: And so the river flowed.

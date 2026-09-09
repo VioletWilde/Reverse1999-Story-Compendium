@@ -1,6 +1,6 @@
 # Confession and Trauma
 
-- Chapter: chapter_1903 (`1903`)
+- Chapter: The Long Night Singing Its Dirges (`1903`)
 - Episode: `190303`
 
 > Subtitle: A long-standing symptom, often appearing in every pious believer.

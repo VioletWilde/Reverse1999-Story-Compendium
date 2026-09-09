@@ -1,6 +1,6 @@
 # Questions and Answers
 
-- Chapter: Notes on Shuòrì (`16101`)
+- Chapter: Notes on Shuori (`16101`)
 - Episode: `1610108`
 
 > Subtitle: Following a string of genuine exchanges, it becomes evident that honesty is essential.

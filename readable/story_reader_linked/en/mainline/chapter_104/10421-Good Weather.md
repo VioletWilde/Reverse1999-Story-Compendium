@@ -1,6 +1,6 @@
 # Good Weather
 
-- Chapter: El oro de los tigres (`104`)
+- Chapter: El Oro de los Tigres (`104`)
 - Episode: `10421`
 
 > Subtitle: The sunlight shed on our face — we've never been so close to the clouds.

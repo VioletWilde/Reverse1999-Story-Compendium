@@ -1,0 +1,339 @@
+{
+  "episode_id": 10107,
+  "chapter_id": 101,
+  "chapter_title": "우리들의 시대에",
+  "display_label": "",
+  "title": "드루비스",
+  "subtitle": "그녀는 바로 이곳에 있다. 누군가를 \n기다리기 위해서도, 그리워해서도 \n아니다.",
+  "trails": [
+    {
+      "element_id": 1010701,
+      "owner_episode_id": 10107,
+      "trigger_episode_id": null,
+      "title": "오솔길① 주문 승급",
+      "description": "더 위협적인 주문을 만드는 방법에 관한 기록.\n주문을 융합하여 승급시키면 주문의 효과가 더욱 \n강력해지고 마도술의 효과도 바꿀 수 있다.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=10106",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1010702,
+      "owner_episode_id": 10107,
+      "trigger_episode_id": null,
+      "title": "신비한 유니콘",
+      "description": "소더비의 저택엔 셀 수 없이 많은 소장품이 있다. \n그중 홀에 높이 걸려 있고 뿔이 달려 있으며, \n바라보는 것으로 응답하는 것은?",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=10106",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100110",
+      "internal_title": "第一章1-8.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "드루비스"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "악령 크리터",
+          "text": "...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "악령 크리터",
+          "text": "쉬익...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "안 되겠어, 수가 너무 많아. 앞으로 한 번 정도는 더 막아낼 수 있지만, \n얼마 못 버틸 것 같아."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "크리터가 나무뿌리에서 계속 나오는 군요... 여기가 혹시 아지트일까요?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "악령 크리터",
+          "text": "...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "또 나왔어. 조심해!"
+        }
+      ]
+    },
+    {
+      "script_id": "100111",
+      "internal_title": "第一章1-8.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "콜록, 콜록...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소네트",
+          "text": "타임키퍼, 제가 지도에 표시해둔 것을 보셨나요?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "봤어."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소네트",
+          "text": "제가 계산해낸 숲 가장자리까지 가장 가까운 위치예요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소네트",
+          "text": "1분 뒤 반대쪽으로 가실 수 있도록 엄호할게요! 명심하세요, 2마일 떨어진 곳에 크리터의 추격 속도를 늦출 수 있는 경사가 있어요!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "소네트 씨, 저희랑 같이 가지 않으실 겁니까?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소네트",
+          "text": "이 정도 규모의 적이면 우리 모두 도망가는 건 불가능해요!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소네트",
+          "text": "걱정 마세요, 단독으로 움직이는 전략이 더 유연하게 대처할 수 있으니까요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소네트",
+          "text": "상대가 유령만 아니면... 아니지, 유령이라고 해도 전 이길 수 있어요!"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "널 믿을게",
+          "edge_label": "我相信你",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "소네트",
+              "text": "믿어주세요. 전에... 같이 힘을 합쳤을 때처럼요."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "어디서 만날까?",
+          "edge_label": "我们在哪里会合？",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "소네트",
+              "text": "..."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "소네트",
+              "text": "제가 알아서 당신을 찾아갈게요. 어서 후퇴하세요."
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "가자, 미스터 APPLe."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소네트",
+          "text": "평화가 우리와 함께하길."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "악령 크리터",
+          "text": "...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "녀석들이... 전부 쫓아오고 있어요...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "... 잘 됐군."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "어쩌면 우리가 소네트를 엄호한 걸지도."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "누구든 이 숲에서만 빠져나간다면, 구조요청을 할 수 있는 거잖아?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "악령 크리터",
+          "text": "...!!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "경사를 오르긴 늦었어. 정면충돌에 대비해!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "미스터 APPLe, 얼마나 더 버틸 수 있지?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "그다지 사과가 할 말은 아니지만... 저 APPLe은 당신과 함께 최후의 순간까지 맞서 싸우겠습니다!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "악령 크리터",
+          "text": "...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "버틴, 조심해요!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "음?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "... 실례지만."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "제 신발 좀 건네주시겠어요?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "당신의 품에 떨어진 것 같네요."
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "... 누구신지?",
+          "edge_label": "……你是谁？",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "드루비스",
+              "text": "전 이 숲의 주인인 드루비스에요."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "... 왜 그렇게 높은 곳에 있는거야?",
+          "edge_label": "……你为什么在这么高的地方？",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "여기가 제게 허락된 곳이거든요."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "드루비스",
+              "text": "드루비스라고 해요, 반가워요."
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "... 자... 받으세요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "드루비스",
+          "text": "고마워요. 덕분에 내려와서 뒷정리를 할 수 있게 됐네요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "드루비스",
+          "text": "맨발로 다녀도 상관은 없어요. 다만..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "드루비스",
+          "text": "침입자 크리터 녀석들에게 발이 닿는 건..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "드루비스",
+          "text": "별로 좋아하지 않아서 말이죠."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "악령 크리터",
+          "text": "...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "한 번에 적을 백 명도 넘게 쓰러뜨리다니?! 완드의 힘인가..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "아니야, 주문의 마법진은 정말 오래된 것이었는데. 유럽 마도학자 계통인 게 분명해."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "드루비스",
+          "text": "마도학자의 방문은 꽤 오랜만이군요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "드루비스",
+          "text": "저와 함께 침입자 크리터를 막아줘서 고마워요. 그럼, 남은 크리터는..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "드루비스",
+          "text": "숲이 속삭였던 예언대로 침입자들은 숲의 고요함을 위한 제물이 될 것입니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "우리도 함께 싸울게!"
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

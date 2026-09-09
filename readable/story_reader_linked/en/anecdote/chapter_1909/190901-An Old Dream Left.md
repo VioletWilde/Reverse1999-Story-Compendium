@@ -1,6 +1,6 @@
 # An Old Dream Left
 
-- Chapter: To Wennifred (`1909`)
+- Chapter: To Winnifred (`1909`)
 - Episode: `190901`
 
 > Subtitle: I often think of that place, with the lake water seeping through the cabin and the desk lamp calmly strolling amid cobwebs and beams.

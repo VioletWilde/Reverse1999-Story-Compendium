@@ -1,6 +1,6 @@
 # New Kidnapping Case
 
-- Chapter: Away From Home (`1924`)
+- Chapter: On the Road (`1924`)
 - Episode: `192402`
 
 > Subtitle: Warning: always check the trunk when you lock your caravan.

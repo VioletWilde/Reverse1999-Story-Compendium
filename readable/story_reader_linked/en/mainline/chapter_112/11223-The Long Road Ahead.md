@@ -1,6 +1,6 @@
 # The Long Road Ahead
 
-- Chapter: 远征记 (`112`)
+- Chapter: The Campaign's Tale (`112`)
 - Episode: `11223`
 
 > Subtitle: The hammer of history strikes the anvil, yet the marks it makes will soon be smoothed away.

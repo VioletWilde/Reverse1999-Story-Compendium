@@ -9,7 +9,7 @@
 - [2110107 The Parchment](2110107-The Parchment.md) — A magical medium, upon which every sentence written speaks a profound truth.
 - [2110108 Face Reality](2110108-Face Reality.md) — Going through all those Miranda rights before an interrogation? Man, we ain't got time for that.
 - [2110109 Spider Silk](2110109-Spider Silk.md) — They depict everything without saying a word.
-- [2110110 It’s Spooky Time!](2110110-It’s Spooky Time!.md) — Unexpected surprises, or rather, scares.
+- [2110110 It's Spooky Time!](2110110-It's Spooky Time!.md) — Unexpected surprises, or rather, scares.
 - [2110111 "Please Do Not Disturb"](2110111-Please Do Not Disturb.md) — Not the best time for a cleanup.
 - [2110112 The Girl and the Hound](2110112-The Girl and the Hound.md) — Eyes forward, Argus—don't look back.
 - [2110113 The Churning Stomach](2110113-The Churning Stomach.md) — Again, again, and again.

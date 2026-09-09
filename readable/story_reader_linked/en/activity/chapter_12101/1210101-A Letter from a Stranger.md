@@ -1,6 +1,6 @@
 # A Letter from a Stranger
 
-- Chapter: Green Lake Nightmare (`12101`)
+- Chapter: A Nightmare at Green Lake (`12101`)
 - Episode: `1210101`
 
 > Subtitle: The start of a tragedy, or maybe the beginning of an adventure.

@@ -1,6 +1,6 @@
 # Kingdom of Numbers
 
-- Chapter: The Prisoner in The Cave (`105`)
+- Chapter: The Prisoner in the Cave (`105`)
 - Episode: `10506`
 
 > Subtitle: Look, those numbers are no longer curled up on the manuscript.

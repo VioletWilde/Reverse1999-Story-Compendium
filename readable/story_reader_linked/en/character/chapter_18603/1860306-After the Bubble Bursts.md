@@ -1,4 +1,4 @@
-# After the Bubble Bursts
+# After the Bubble Bursts
 
 - Chapter: Silver Knot (`18603`)
 - Episode: `1860306`

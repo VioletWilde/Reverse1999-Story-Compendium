@@ -1,6 +1,6 @@
-# The King in The Labyrinth
+# The King in the Labyrinth
 
-- Chapter: chapter_1902 (`1902`)
+- Chapter: The Master of Theatrics (`1902`)
 - Episode: `190204`
 
 > Subtitle: Is it a monster––or the king's greed––that is imprisoned in the labyrinth of Daedalus?

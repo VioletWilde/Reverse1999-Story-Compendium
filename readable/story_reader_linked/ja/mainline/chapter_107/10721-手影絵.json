@@ -1,0 +1,840 @@
+{
+  "episode_id": 10721,
+  "chapter_id": 107,
+  "chapter_title": "孤独の歌",
+  "display_label": "",
+  "title": "手影絵",
+  "subtitle": "幾重にも重なる手のひらが、唯一無二の導きの者に敬意を表している。",
+  "trails": [
+    {
+      "element_id": 100702,
+      "owner_episode_id": 10721,
+      "trigger_episode_id": null,
+      "title": "決戦へ",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=10721",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1072101,
+      "owner_episode_id": 10721,
+      "trigger_episode_id": null,
+      "title": "弾丸と微分積分",
+      "description": "",
+      "action": "",
+      "unlock_condition": "ChapterMapElement=100702",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "国籍を持たない弾丸が軒下に隠れている。それはどの国のものでもない、平和のために戦うものさ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "世紀末の大雨はその仲間のほとんどを呑み込み、彼だけが雨水の浸蝕から逃れた。鋭利な弾丸は寂しげな光を放ちながら、再び戦場に戻り、自らを燃やして敵の身体に穴を開ける瞬間を待っている。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "残念ながら、ノッポの同僚によって全ての功績を奪われてしまったけどね。ボタン一つで大爆発。彼を含むその他すべての弾薬は、ただ湿気っていくばかり。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "消費量の削減は、いいことだ",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "数学家との交流で、あんたも数字には随分敏感になったようだねぇ。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "そりゃあそうさ。１０より１、１００より１０、簡単な計算問題だよ。答えがわからない者なんてそういないだろう。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "ただで手に入る功績ほど喜ばしいものはないさ。もし名誉と自由のどちらかを選べと言われたら、ほとんどが３秒以内に答えを出すだろう。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "単純な弾丸となれば尚更さ。３秒なんて、弾丸にとっては一生と言ってもいいほど長い。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "だけど、その次はどうだい？　次の大雨で、あの弾丸は無事でいられるのかねぇ？　その上司も同じことを考えるだろうねぇ。"
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "どのお偉いさんをわたしに紹介するつもり？",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "もちろん、かなりのやり手さ。英知に富んだ武勇に優れた将軍様だよ。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "だけど、近ごろどうにも不機嫌でねぇ。決して１９９９年の保守戦術や、あの発射されなかったデカブツの話――特に、あの年に犠牲となった弾丸たちの話しはご法度だよ。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "未来のために彼は多くの犠牲を払ったけれど、未来はあまりに卑劣過ぎた。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "毎回、追いついたかと思えば、一歩先に進まれている。全ての努力と犠牲は過去のものになっちまうのさ。どう猛な弾丸でさえ、止まらない未来を捕まえることなんてできないだろう？"
+                }
+              ]
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "ひたすら追い続けるしかない",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "未来を追い続ける。とてもロマンティックだねぇ。追い続ける限り距離は無限に縮まり、いずれはゼロになる時がくる。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "でも、追う者の速度は落ちているのさ。モシンとナガンが再びカラシニコフに取って代わり、弾丸もかつてのどう猛さを失ってしまった。未来は徐々に遠ざかる一方で、背後には過去が迫ってきている。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "しー…その言葉、特に弾丸の上司に聞かれちゃいけないよ。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "弾丸は未来に追いつくために大きな犠牲を払った。それを必要ないなんて言ったら、弾薬の請求書をあんたんちに送りつけられる羽目になってしまうよ。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "さあ、弾丸をしばらく一人にしておやり。しばしの静寂が、未来への不安を少しでも和らげてくれるといいけどねぇ。"
+                }
+              ]
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "未来には弾丸なんて必要ないかもしれない",
+              "edge_label": "",
+              "branch": []
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "サボれてちょうどよかったのでは？",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100731",
+      "internal_title": "第七章7-21.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "手影絵"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "通信員Ⅱ",
+          "text": "…通信が回復し、タイムキーパーたちとの連絡に成功しました。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "助手のシモーネ",
+          "text": "わかりました。計算科学研究センターのサポートを終了します。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "常に冷静な助手が、安堵のため息をついた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "その後、彼女はすぐに相手との通話を切らず、珍しく一瞬押し黙った。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "助手のシモーネ",
+          "text": "…もう一度確認しますが、あなた方の行為は人類安全保障理事会の合意のもとで行われるものですよね？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "受話器の向こう側がしばし沈黙した。このバカげた質問を答えたくないようだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "もちろんだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "我々は軍人であり、命じられるがままに動く。"
+        },
+        {
+          "kind": "title_card",
+          "text": "島  丘"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "ここは唯一、襲撃を受けていない崖だ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "草木が生い茂り、独特の魅力ある光景を作り出していた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アルカナ",
+          "text": "会えてうれしいわ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アルカナ",
+          "text": "――観光旅行は順調かしら、ヴェルティ？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "アルカナは振り返り、優雅な微笑みを浮かべた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アルカナ",
+          "text": "とても面白い島だと思わない？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アルカナ",
+          "text": "智者は足下に円を描き、世界の外に立っていると宣言する。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アルカナ",
+          "text": "彼らは何世代にも渡って、まるで働きアリのように、それを守り、畏れ、崇拝する。そうして自信を持ち、狂うことから身を守る。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アルカナ",
+          "text": "わらわはこの図形がとても好きよ。この静止した、古典的で、完璧な円が。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アルカナ",
+          "text": "惜しいことに、砂浜に描かれた絵にすぎなかったけれど。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "崖の下にある砂浜は、爆撃の痕でボロボロだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "それは違う。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "砂浜が脆く崩れやすいからこそ、人は永劫を追い求める。完璧への信仰そのものに、誤りはないよ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "…この島を襲った人間たちの爆撃機には、この時代のものではない武器が搭載されていた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "きみたち――マヌス・ヴェンデッタの仕業だね？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "女は微笑んでいる。その沈黙は、恐ろしい予想が当たっていることを物語っていた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "…どうしてもわからない。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "島の純血神秘学家に憎しみを植えつけ、配下に収めようとしてたのなら、すでにその目的は達成されたはず。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "ここを拠点にすることが目的なら、浄化の儀式が失敗した時点で手を出してたはずだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "それなのに、あなたは何もせずそこに立ってるだけ…何が目的？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アルカナ",
+          "text": "ふっ、はははは…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "なんの理由もなく、彼女が笑い出した。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アルカナ",
+          "text": "まだわからないの、ヴェルティ？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アルカナ",
+          "text": "――そなたを待っていたのよ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "ソネットとリーリャが同時に一歩前に出た。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "リーリャ",
+          "text": "時間の無駄だ。ヴェルティ、さっさと片付けよう。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "距離に気をつけてください。アルカナの神秘術を近距離で受けると、精神に影響が出るようです。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アルカナ",
+          "text": "残念だわ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "彼女は腕をあげ、手に嵌められた石の腕輪を見せた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "その腕輪は手から抜け、草地に落ち、そのまま灰と化した。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アルカナ",
+          "text": "実に綺麗な「ペアリング」だったわ…本当は取っておきたかったのだけれど。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アルカナ",
+          "text": "そなたは――外せるかしら、ヴェルティ？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "信仰を崇拝する信者も、教団の秩序を守る智者も、長い浄化儀式の道を終えた整数もまだ存在する――"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "この腕輪も、己の職務を全うしようとしていた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "不戦協定はなお有効だ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "レグルス",
+          "text": "――はぁ？　島がハチャメチャだってのに、まだ効果があんのか？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "レグルス",
+          "text": "どんな素材でできてるんだよ…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "ご安心を。全ては計画通りです。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "第一助手は怯まなかった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "始めの頃、私は島の規則に疑問を感じていました。ですが、教典を学習するうちに、徐々に理解したのです。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "言語から得る知識は非常に弱い。それは曖昧で、矛盾があり、必ず大きな見落としが存在します。なので、島の神秘学家たちはより正確に伝えられる数字を崇拝し、それを真理の言語と見なしていました。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "彼らは言語の曖昧さを嘲笑い、見落としをバカにし、矛盾を指摘する。あの弁護会と同じです。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "――この腕輪の規則も、それに基づいているはずです。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "リーリャ",
+          "text": "なるほどな。攻撃を仕掛けてはならない――だが、攻撃とは一体なんだ？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "リーリャ",
+          "text": "テストを作った長官は、それを用紙に書いてねぇ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "攻撃の意図がなければ、攻撃とは見なされない。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "――それがこの腕輪の、知られていない規則です。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アルカナ",
+          "text": "ふふっ、面白い。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アルカナ",
+          "text": "忠誠を捧げるお仲間の犠牲を見届ける準備はできたのかしら、財団の飼い犬さん。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "彼女の背中に混沌とした影が現れる。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "ソネットは頭を振り、一切の躊躇を見せずガラスペンを握った。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "もう同じ過ちは冒しません。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "自分が何をしているのか、わかっています。あなたの言葉に唆されることはありません。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "――皆の平和のために…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "あなたを止めます。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "神秘術の光がペン先から溢れだす。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "Regna  sereno  intenso  ed  infinito!"
+        }
+      ]
+    },
+    {
+      "script_id": "100732",
+      "internal_title": "第七章7-21.2",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "？？？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "波が船縁を打つ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "これは新世界へと向かう船であり、決して帰港することのない船だ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソフィア",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "赤毛の少女は船に乗って以降、一言も話していない。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "全てが既に定められた今、彼女は沈黙するしかなかった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェンデッタの信者Ⅰ",
+          "text": "…ミス・ソフィア。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェンデッタの信者Ⅰ",
+          "text": "導きの者は本当にご同行なさらないのですか？　あのお方は…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソフィア",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "伝令者は何も答えず、手に持つ小さな聖像をさすり続ける。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "それを手に入れた瞬間に思いを馳せていた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソフィア",
+          "text": "そんな…つまり、あなたは…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アルカナ",
+          "text": "そう慌てないで、愛しい子よ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アルカナ",
+          "text": "先ほども伝えたとおり――"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アルカナ",
+          "text": "――わらわは今日、死ぬ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "タイムキーパー、術式α地点の準備が完了しました！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "リーリャ",
+          "text": "β地点もオーケーだ！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "レグルス",
+          "text": "あたしとAPPLeも準備できたぜ！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "よし！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "このバトルの目的は最初から攻撃に非ず。少なくとも、この地で発生した攻撃ではないと言える。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "大型神秘術、管理番号０００２６２６０３１００００８、「カミング」の使用を要請――"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "高危険性凶悪犯をパルメニデス基地まで伝送せよ！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "巨大な術式が光り、中央にいるアルカナを襲った。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アルカナ",
+          "text": "…あら？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "リーリャ",
+          "text": "慌てずとも、ちょっくら長旅に招待するだけだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "リーリャ",
+          "text": "――あばよ。"
+        },
+        {
+          "kind": "title_card",
+          "text": "パルメニデス基地"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "操作員Ⅰ",
+          "text": "準備完了。発射３０秒前、３０、２９、２８…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "観測員Ⅰ",
+          "text": "標的は未だ指定位置に到着ならず。繰り返します。標的は未だ指定位置到着ならず――"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "操作員Ⅰ",
+          "text": "１５、１４、１３…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "観測員Ⅰ",
+          "text": "巨大なエネルギーを観測。「カミング」発動の許可が下りました。生命反応を確認。標的が観測位置に到着。直ちに爆破を――"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "操作員Ⅰ",
+          "text": "６、５、４、３、２…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "操作員Ⅰ",
+          "text": "１――"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "操作員Ⅰ",
+          "text": "爆破成功。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "観測員Ⅰ",
+          "text": "神秘学エネルギーなし。生命反応なし。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "観測員Ⅰ",
+          "text": "標的、アルカナの死亡が確認されました…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "操作員Ⅰ",
+          "text": "やった…のか？　ついに！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "操作員Ⅰ",
+          "text": "元帥、ハンス…我々が１９９９年に成し得なかったことが…ついに…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "観測員Ⅰ",
+          "text": "か、勝った…？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "イゴール元帥",
+          "text": "警戒を怠るな。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "イゴール元帥",
+          "text": "…この戦で失われた全ての者のために、この時この瞬間は永遠に歴史に刻まれるであろう。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "操作員Ⅰ",
+          "text": "待て、ハンス！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "操作員Ⅰ",
+          "text": "…なんの音だ？　そのヘッドフォンから聞こえるが…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "皆の耳にその音が届いた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "耳障りなノイズが、防音が施された部屋に響き渡る。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "観測員Ⅰ",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "観測員Ⅰ",
+          "text": "せ、生命反応のような音が聞こえた気がします。ですが…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "イゴール元帥",
+          "text": "貸せ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "今回の作戦は臨時的なもので、観測室も決して完璧な場所とはいえない。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "少なくとも、室内の不思議な異音は既に消えていた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "イゴール元帥",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "イゴール元帥",
+          "text": "…………"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "イゴール元帥",
+          "text": "いや、これは生命反応ではない。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "イゴール元帥",
+          "text": "風の…音だ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "一同",
+          "text": "…………"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "操作員Ⅰ",
+          "text": "……！　つまり…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "同志たちは、見事に勤めを果たした。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "操作員Ⅰ",
+          "text": "――偉大な勝利の日を祝して！　イゴール元帥万歳！　タイムキーパー隊万歳！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "観測員Ⅰ",
+          "text": "よ、ようやく平和な世界が訪れる。この勇ましき日に栄光あらんことを！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "一同",
+          "text": "全ての戦士に栄光あらんことを！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "一同",
+          "text": "やったぞ！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "監察室に勝利の歓声が響き渡った。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "アルカナ、死す。"
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

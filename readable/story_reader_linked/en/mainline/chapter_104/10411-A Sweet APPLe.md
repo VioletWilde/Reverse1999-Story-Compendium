@@ -1,6 +1,6 @@
 # A Sweet APPLe
 
-- Chapter: El oro de los tigres (`104`)
+- Chapter: El Oro de los Tigres (`104`)
 - Episode: `10411`
 
 > Subtitle: Sweet and juicy. Everyone wants to take a bite.

@@ -1,6 +1,6 @@
 # Ghost Song
 
-- Chapter: 绿松石蛇俱乐部 (`35101`)
+- Chapter: The Turquoise Serpent Club (`35101`)
 - Episode: `3510106`
 
 > Subtitle: The sun sees the god of wind and says to the musician in heaven,<br>"The one who answers will walk by his side."

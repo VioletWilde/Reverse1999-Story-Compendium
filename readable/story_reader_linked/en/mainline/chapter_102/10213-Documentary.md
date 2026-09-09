@@ -1,6 +1,6 @@
 # Documentary
 
-- Chapter: Tender is the Night (`102`)
+- Chapter: Tender Is the Night (`102`)
 - Episode: `10213`
 
 > Subtitle: The type 135 negative has appeared wherever conflict happens, from snow covered peaks to deep forests, and the wilderness within the soul.

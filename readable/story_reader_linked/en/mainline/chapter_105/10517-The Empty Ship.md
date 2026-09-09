@@ -1,6 +1,6 @@
 # The Empty Ship
 
-- Chapter: The Prisoner in The Cave (`105`)
+- Chapter: The Prisoner in the Cave (`105`)
 - Episode: `10517`
 
 > Subtitle: It returned as scheduled, yet empty-handed.

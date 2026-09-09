@@ -1,6 +1,6 @@
 # The Pirate's Proof
 
-- Chapter: The Prisoner in The Cave (`105`)
+- Chapter: The Prisoner in the Cave (`105`)
 - Episode: `10510`
 
 > Subtitle: Crossword King, hah, lucky for once.

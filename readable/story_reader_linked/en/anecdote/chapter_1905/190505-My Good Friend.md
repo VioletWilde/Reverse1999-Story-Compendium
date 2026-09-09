@@ -1,6 +1,6 @@
 # My Good Friend
 
-- Chapter: Pulp Comedy Dirges (`1905`)
+- Chapter: Pulp Comedy (`1905`)
 - Episode: `190505`
 
 > Subtitle: For a brief moment, I walked side by side with you.

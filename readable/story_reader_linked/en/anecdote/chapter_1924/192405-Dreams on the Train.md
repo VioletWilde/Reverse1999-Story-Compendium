@@ -1,6 +1,6 @@
 # Dreams on the Train
 
-- Chapter: Away From Home (`1924`)
+- Chapter: On the Road (`1924`)
 - Episode: `192405`
 
 > Subtitle: The world may seem new, but it's never as different as you'd like it to be.

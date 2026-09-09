@@ -1,6 +1,6 @@
 # What's About Time
 
-- Chapter: 1987 Космическая Увертюра (`27101`)
+- Chapter: 1987 Cosmic Overture (`27101`)
 - Episode: `2710116`
 
 > Subtitle: It's just the inconvenience caused by instant noodles, vegetable packets, and some time theory yet to be debunked. You and I both understand.

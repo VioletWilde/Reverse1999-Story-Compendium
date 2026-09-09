@@ -1,0 +1,828 @@
+{
+  "episode_id": 11107,
+  "chapter_id": 111,
+  "chapter_title": "머나먼 길",
+  "display_label": "",
+  "title": "사람의 모양",
+  "subtitle": "그 사람들은 똑같이 잔인하고, 똑같이 선량하고, 똑같이 불행에 빠져 있다.",
+  "trails": [
+    {
+      "element_id": 111007,
+      "owner_episode_id": 11107,
+      "trigger_episode_id": null,
+      "title": "분노하는 주부",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=11107",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "이 사람들 좀 보세요. 집을 나설 때는 가슴에 긍지를 품고 자신만만한 미소까지 지었을 테죠."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "전장에서 손가락 몇 번 까딱해서 적 몇 놈을 죽이면 국가 영웅이 될 줄 알았겠죠."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "그런데 막상 전선에선 갑자기 착한 마음이 들었는지 평화를 외치며, 적을 해치우느니 차라리 제 손을 부러뜨리겠다고 하더군요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "이 멍청이들의 어머니들은 그때 울면서 그들을 붙잡았어야 했어요. 손수건을 흔들며 배웅할 게 아니라, 그저 꽉 끌어안고 말렸어야 했다고요."
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "잠깐 정신이 나갔던 거겠지.",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "다들 그냥 잠깐 정신 나갔던 거겠죠."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "전선에 나간 병사도, 명령을 내리는 장교도, 결정을 내리는 귀족도, 심지어 자식들을 죽음으로 내모는 부모까지."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "그 누구도 이 정신이 나간 짓의 결과에 책임지려 하질 않으니, 결국 저들이 전부 이런 대가를 치르게 된 거예요."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "그렇다면 묻고 싶군요. 유일한 선택지는 뭐가 있죠? 죽음?"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "여기서 죽는 게 도대체 무슨 의미가 있죠?"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "전장에서 죽는 게 위대한 희생이라는 헛소리는 집어치우세요. 토 나올 것 같으니까."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "결국 모든 건 바깥에 있던 그 불쌍한 녀석한테 뒤집어씌워졌죠."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "그는 심지어 혼자 도망칠 용기조차 없어서, 담배 세 개비로 같은 참호 안의 낯선 이와 친구가 되었을 뿐이에요."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "그 결과 그는 단 한순간의 증오 때문에 죽었고, 그의 친구는 그 1초 뒤에 생겨난 생명에 대한 존중 덕분에 잠시 살아남았죠."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "그러면 그의 어머니는 이 분노를 누구에게 쏟아내야 하죠? 갑자기 양심에 눈뜬 그 장교?"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "그럴 수는 없죠. 사람들이 그 역시 끝없는 증오의 피해자였다고, 그를 용서할 테니까요."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "자, 이제 제 증오를 누구에게 풀어야 하는지 알려주세요. 이 식칼을 쑤셔 넣어야 하거든요."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "때로는 선택지가 없기도 한걸.",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "101110",
+      "internal_title": "第十一章11-07",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "사람의 모양"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "\"처음 석 달 동안은 내가 누구와 싸우는지, 참호 건너편에 뭐가 있는지도 전혀 몰랐다. \n마치 우리와 적 사이에 검은 벽이 세워진 것 같았다.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "\"곧 닥칠 공세에 밤잠을 설쳤다. 죽을까 봐 두려웠다... 이유는 알 수 없었지만, 적의 모습을 보는 것도 두려웠다.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "하사관이 참호에 도착했을 때는 이미 교란성 포격이 끝난 후였다. 양쪽에서 이따금 전해져 오는 급작스러운 중기관총 발사 소리를 제외하면, 전선은 대체로 고요함을 되찾은 상태였다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "포격은 전장에 더 큰 변화를 가져오지 못했다. 그저 새로운 탄흔이 옛 탄흔을 대신했을 뿐."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "에리히",
+          "text": "오... 돌아왔구나, 우체부. 프란츠는?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "카론",
+          "text": "무사히 묻었습니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "에리히는 한숨을 내쉬며, 그에 대한 답으로 새로운 군화를 신은 발을 굴렀다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "에리히",
+          "text": "...네가 이 기회에 도망칠 거라고 빌헬름과 내기를 했는데 말이지. 아무래도 내가 진 것 같네."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "카론",
+          "text": "빌헬름은 어디 있죠?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "에리히",
+          "text": "죽었어. 이제 내가 부대장이야."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "에리히가 옆을 바라봤다. 그곳이 바로 빌헬름이 전사한 곳인 것 같았다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "에리히",
+          "text": "포탄에 맞아 어깨가 사라졌어."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그는 안색이 좋지 않아 다소 화가 난 듯 보였고, 이마에 푸르스름한 혈관이 몇 군데 꿈틀거렸다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "에리히",
+          "text": "나는 운이 좋았고... 그 녀석은 운이 나빴지... 젠장!!!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "갑자기 분노를 터트린 그는 앞으로 몇 발짝 내디뎌 하사관의 멱살을 잡았다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "에리히",
+          "text": "이곳은 지옥이나 다름없어. 대체 왜 이 망할 곳으로 돌아온 거야? 왜 도망치지 않았냐고!!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그가 화를 내며 하사관을 참호의 흉벽에 내던졌다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "에리히",
+          "text": "사방에서 시체를 주워 모으면 좀 나아져? 우리에게 너처럼 죽었다 살아나는 법을 가르쳐 줄 수 있냐고?! 아니면 우리 앞에서 유세 떠는 거야?!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "던져진 측은 힘겹게 몸을 일으키기만 하고, 반항할 의지를 보이지 않았다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "카론",
+          "text": "죽음은 조롱하지 않습니다. 그리고 다시 돌아오는 것을 멈출 수도 없죠. 죽음 또한 다른 모든 병사들과 마찬가지로, 자신에게 주어진 의무를 다할 수밖에 없는 무력한 존재일 뿐이에요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "카론",
+          "text": "우리를 기다리는 운명이 무엇인지, 그 끝은 여전히 베일에 가려져 있습니다. 그 복잡하게 얽힌 길은 우리가 직접 발을 디뎠을 때에야 비로소 모습을 드러내죠. 죽음이 찾아올 시각을 선택할 수 있는 이는 아무도 없어요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "에리히",
+          "text": "빌어먹을..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "타오르던 감정이 빠르게 식어버린 에리히는 마치 아무 일도 일어나지 않은 것처럼 보였다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "참호의 병사들은 이미 이러한 일에 익숙해져서 고개를 들어 그들의 싸움을 구경하고자 하는 관심조차 보이지 않았다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "에리히",
+          "text": "난 최대한 멀쩡하게 죽을 거니, 그때가 되면 잊지 말고 잘 수습해 줘. 이제 편지나 전하러 가."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "관찰원",
+          "text": "...중대장님, 잠시 이것 좀 보시죠."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "근무 중인 감시병이 두 사람의 대화를 끊고, 에리히에게 참호 잠망경을 건넸다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "에리히",
+          "text": "뭐가 보이지?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "잠망경을 건네받은 에리히는 참호 방호벽에 엎드린 채 무인지대를 살폈다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "에리히",
+          "text": "그래... 두 사람이... 보이네. 돌격대인가?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "관찰원",
+          "text": "그럴 리가 없습니다. 지금은 대낮입니다. 엄호도 없을뿐더러 일부러 우리의 주의를 끌고 있는 것 같습니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "에리히",
+          "text": "정말이네. 손을 흔들고 있잖아? 죽고 싶은 건가? 잠깐, 둘 다 손에 붕대를 감고 있잖아..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "관찰원",
+          "text": "그게 문제가 됩니까?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "참호로 기어 돌아온 에리히는 잠망경을 감시병에게 돌려줬다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "에리히",
+          "text": "자, 그들을 계속 지켜보도록 해. 무슨 일인지 대충 알 것 같으니까."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "카론",
+          "text": "무슨 일입니까?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "에리히",
+          "text": "탈영병들일 거야. 어떤 병사들은 후방으로 보내지려고 자기 손바닥을 쏘기도 한다는 얘길 들었어. 하지만 요즘은 그런 비겁함에 총알로 보상한다더군."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "카론",
+          "text": "그들을 무인지대로 보낸 이유가 뭐죠?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "에리히",
+          "text": "최근에 처형대가 암살당하는 일이 많았거든. 그런 일이 많아지자, 양측의 장교들은 사형수를 무인지대로 보내 그들이 죽기를 기다리는 게 암묵적인 룰이 됐어."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "카론",
+          "text": "......"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "하사관은 새로운 기억과 오래된 기억을 머릿속에서 얽히고 이어지게 하는데 한참 걸렸다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "카론",
+          "text": "그들에게는 싸울 의지가 없으니 무사히 보내줄 이유는 충분하다고 봅니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "에리히",
+          "text": "...네 말이 맞아. 두 사람뿐이니까. 프랑스어 할 줄 아는 사람?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "관찰원",
+          "text": "제... 제가 해보겠습니다. 학교 다닐 때 프랑스어 수업을 반년 들었습니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "에리히",
+          "text": "그럼 네가 감동적인 말 몇 마디를 외쳐봐!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "관찰원",
+          "text": "네, 중대장님."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "관찰원은 소리가 사격 구멍을 통해 최대한 퍼져나갈 수 있도록 모래주머니에 머리를 바짝 붙였다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "관찰원",
+          "text": "어이!! 너희들!!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "탈영병",
+          "text": "...?!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "관찰원",
+          "text": "너희 둘, 너희... 너희 둘, 무기 내려놔. 이리 와. 총 안 쏜다. 절대로 안 쏜다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "관찰원",
+          "text": "우리는..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "관찰원",
+          "text": "대체 무슨?!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "에리히",
+          "text": "빌어먹을!! 대체 어떤 놈이 총을 쏜 거야?!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "한 편, 멀지 않은 다른 참호에서는..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "브라운 소령",
+          "text": "뭘 머뭇거리는 거지?!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "에버하르트 브라운 소령이 새파란 얼굴로 참호에 서 있었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "루돌프",
+          "text": "제가 죽였습니다!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "루돌프가 비명을 지르는 듯이 답했다. 모래주머니 위에 엎드린 그는 소총을 쥔 손을 계속 떨었는데, 회색 연기가 여전히 총구를 맴돌고 있었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그는 심각한 근시였지만, 오히려 부대 내에서 가장 뛰어난 사격수 중 한 명이었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "브라운 소령",
+          "text": "네놈 눈에는 서 있는 다른 놈은 안 보이는 거냐!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "루돌프",
+          "text": "저자는 이미 투항했습니다. 이미... 이미 무기를 버렸다고요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "브라운 소령",
+          "text": "멍청한 놈, 그게 계략이라는 걸 모르겠나? 바깥의 저 망할 놈들은 폭탄이나 전염병을 가지고 있을 수도 있다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "브라운 소령",
+          "text": "게다가 우리는 저런 포로들을 보살필 여유 따위 없어."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "루돌프",
+          "text": "포로를 보살필 것까지 없이 후방의 전쟁 포로 수용소로 보내기만 해도... 아니면 재단에서..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "루돌프",
+          "text": "...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "장교의 권총이 저격수의 가슴을 찔렀다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "브라운 소령",
+          "text": "죽여라, 이건 명령이다. 아니면 너도 밖으로 내보내 맞은편의 저격수에게도 동정심이 있는지 확인해 볼까?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "루돌프",
+          "text": "저... 저는..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "카론",
+          "text": "...소령님."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "혼탁한 외침이 참호 안에 울려 퍼지자, 모여있던 병사들은 재빨리 길을 비켰다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "브라운 소령이 소리를 따라 시선을 옮겼다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "브라운 소령",
+          "text": "카론, 대체 뭐 하는데 이렇게 늦은 거지? 심각한 군기 위반이군."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "카론",
+          "text": "늦은 벌은 감수하겠지만, 그 전에 루돌프에게 내리신 명령을 철회해 주시면 감사하겠습니다. 탈영병에게는 사격하지 말아 주십시오."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그를 거역하는 말에 경악한 소령은 하사관을 날카로운 시선으로 노려봤다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "브라운 소령",
+          "text": "네게 상관에게 명령할 권한은 없어!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "카론",
+          "text": "탈영병은 이미 싸우길 포기했으니, 그들에게 총을 쏠 이유는 없습니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "브라운 소령",
+          "text": "Feiglinge!(나약한 놈!)"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "소령이 앞으로 크게 한 발짝 내디뎌 하사관에게 다가섰고, 그의 군화가 참호 바닥에 깔린 나무판자를 요란하게 울렸다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "에리히",
+          "text": "Verdammt!(제기랄!)"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "브라운 소령",
+          "text": "그거야말로 군대에 퍼진 역병이자, 외국 놈들의 소시민적 사상이 우리 젊은이들의 마음속에 심은 종양이다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "브라운 소령",
+          "text": "적들은 우리의 조국을 멸망시키려 하는데, 너는 아직도 그놈들을 위해 변명이나 하고 있군. 그리고 네가 말한 무덤 말이야, 카론. 그것도 이런 나약함에서 태어난 산물이야."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그는 그 자리에 있는 다른 사람들을 몰아세우듯 훑어봤다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "브라운 소령",
+          "text": "우리 민족을 만들 수 있는 건 전쟁뿐이다. 철과 피가 우리 마음속의 나약함과 비천함을 없앨 것이고, 우리는 그로써 조상의 영광과 이어질 것이다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "카론",
+          "text": "이 전쟁은 이미 무의미한 학살이 되었습니다. 소령님, 우리가 이 속에서 얻을 수 있는 것은 고통과 죄악, 그리고 후회뿐입니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "카론",
+          "text": "탈영병 한 명을 죽인다고 해서 누군가에게 용기와 신념을 심어주지는 않습니다. 오히려 생명을 멸시하는 학살자로 전락할 뿐입니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "브라운 소령",
+          "text": "Un-sin!(헛소리!)"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "카론",
+          "text": "그 말씀은 제가 알고 있는 과거의 소령님과 완전히 다릅니다. 제 기억이 잘못된 줄 알았는데..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "카론",
+          "text": "설마 후방에서 휴식하시는 동안 정말로 ‘재건의 손’과 접촉하신 건가요..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "브라운 소령",
+          "text": "닥쳐! 대체 어디서 그런 이상한 소문을 들은 거지?!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "카론",
+          "text": "진정해 주십시오. 저는 단지 소령님과 대화를 나누고 싶을 뿐입니다..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "브라운 소령",
+          "text": "방금의 그 언행에 대해 설명하도록, 하사관! 이건 명령이다!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "통제를 잃은 외침이 굉음을 내는 포화처럼 하사관에게 쏟아졌다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "브라운 소령",
+          "text": "네가 지금... 날 고발... 이게 무슨?!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "카론",
+          "text": "...제발 그러지 말아 주십시오."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "브라운 소령",
+          "text": "Antworte!(대답해!)"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그가 갑자기 권총을 강하게 휘둘렀다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "반응 속도가 너무 느려 피하지 못한 하사관은 권총 손잡이에 머리를 세게 맞았다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "브라운 소령",
+          "text": "...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "소령 자신도 그렇게 될 줄은 예상하지 못했다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "머리를 맞은 하사관은 제자리에 멈춘 채, 한 손으로 떨군 머리를 받쳤다. ‘커튼’ 아래에서 무언가가 깨지고 있는 것 같았다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "카론",
+          "text": "......"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "브라운 소령",
+          "text": "......고개를 들어."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "카론",
+          "text": "아니, 에버하르트..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "브라운 소령",
+          "text": "지금은 브라운 소령이다. 고개를 들어. 명령이다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "카론",
+          "text": "...우리는 이 지경까지 오지 말아야 했어."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "하사관이 천천히 고개를 들었다. 그 움직임은 엄청난 대가를 치러야 하는 것처럼 무겁고 느렸다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "거대하고도 공허한 물질이 가져다준 기이한 고요함이 비좁은 참호에 내려앉았다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "브라운 소령",
+          "text": "이게... 무슨?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "카론",
+          "text": "이건 살아있는 자가 봐서는 안 되는 거다, 에버하르트."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "카론",
+          "text": "어쩌면 이게 네 기억을 일깨울 수 있을지도..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "브라운 소령",
+          "text": "닥쳐! 네 얼굴이나... 가, 가려..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "카론",
+          "text": "우리 옆에서 폭탄이 터질 때의 공포, 전우들이 마지막 숨을 몰아쉴 때의 고통... 그것을 잊은 건가, 아니면 그저 마음을 굳게 닫은 건가?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "브라운 소령",
+          "text": "전쟁은... 콜록... 민족의 발전에는 반드시 희생이 따른다는 걸 알아야 해!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "브라운 소령",
+          "text": "모든 병사들은 희생이 더없이 큰 영광이라는 것을 이해해야만 해, 자네처럼 말이야, 파울..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "카론",
+          "text": "난 희생을 논하는 게 아니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "브라운 소령",
+          "text": "...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "카론",
+          "text": "죽음은 명예가 아니다. 죽음은 어떠한 의식도, 미덕도 알지 못하며 오직 공허함과 허무일 뿐이다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "카론",
+          "text": "전쟁은 우리에게 죽음을 너무 익숙하게 만들었다. 에버하르트, 넌 생명에 대한 존중을 잃어버렸어."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "카론",
+          "text": "전쟁의 결과가 어떻든 우리는 이미 실패했다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "브라운 소령",
+          "text": "난 너의... 너의... 상관이다. 네가 죽이려는 건..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "카론",
+          "text": "난 그 누구도 죽이고 싶지 않아."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "카론",
+          "text": "난 단지... 너 자신을 구원하기를 바랄 뿐."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "브라운 소령",
+          "text": "난... 아... 아아악!!!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "병사들은 한쪽에 움츠려 있었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "바닥에 쓰러진 에버하르트 브라운 소령의 두 눈은 초점을 잃고, 얼굴에는 핏기 하나 없어, 막 사망한 병사처럼 보였다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "하사관은 몸을 숙여 다른 죽은 자들에게 수없이 해왔던 것처럼 그의 두 눈을 감겨줬다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "에리히",
+          "text": "...망할, 대체 무슨 일이 일어난 거야?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "루돌프가 전전긍긍하며 인파 속에서 머리를 내밀었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "루돌프",
+          "text": "소, 소령이... 죽은 거야? 카론, 설마..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "에리히",
+          "text": "뭐...? 진심이야?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "하사관이 몸을 똑바로 세웠다. 여전히 모두를 등지고 있던 그는 느릿느릿하면서도 엄숙하게 다시 후드를 썼다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "카론",
+          "text": "에버하르트는 괜찮습니다. 아직 살아 있어요. 그는 제가 맡겠습니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "카론",
+          "text": "에리히, 지금은 당신의 직급이 가장 높으니, 이후의 일은 당신이 맡아주세요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "카론",
+          "text": "저는... 흘러나온 것들을 처리해야 하니, 그전까지 저와 시선을 마주치지 않았으면 합니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "에리히는 무언가 더 말하고 싶었지만, 결국은 입을 다물기로 했다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "여전히 두려움에 떨고 있는 참호 안의 병사들을 두고, 카론은 에버하르트를 데리고 떠났다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "에리히",
+          "text": "...쯧."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "에리히",
+          "text": "좋아. 누가 저 탈영병을 붙잡아. 내가 그를 수색하겠다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "에리히",
+          "text": "구경 끝났으니까 어서 움직여! 저 불쌍한 녀석이 아직도 밖에서 진흙을 먹고 있다고!"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

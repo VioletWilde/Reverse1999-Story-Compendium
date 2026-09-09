@@ -1,6 +1,6 @@
 # Farewell to the Past
 
-- Chapter: Notes on Shuòrì (`16101`)
+- Chapter: Notes on Shuori (`16101`)
 - Episode: `1610120`
 
 > Subtitle: Clasp your hands, bow your head, and become a figure gazed upon.

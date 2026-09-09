@@ -1,6 +1,6 @@
 # Wisdom of the Rats
 
-- Chapter: Away From Home (`1924`)
+- Chapter: On the Road (`1924`)
 - Episode: `192403`
 
 > Subtitle: A cornered rat always finds a hole.

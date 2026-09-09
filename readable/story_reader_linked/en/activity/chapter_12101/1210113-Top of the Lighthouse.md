@@ -1,6 +1,6 @@
 # Top of the Lighthouse
 
-- Chapter: Green Lake Nightmare (`12101`)
+- Chapter: A Nightmare at Green Lake (`12101`)
 - Episode: `1210113`
 
 > Subtitle: You stand taller, yet you see no farther.

@@ -1,6 +1,6 @@
 # The Prison of Fog
 
-- Chapter: chapter_1901 (`1901`)
+- Chapter: The Story of Oliver (`1901`)
 - Episode: `190101`
 
 > Subtitle: What lies beyond the exquisitely crafted cage of mist?

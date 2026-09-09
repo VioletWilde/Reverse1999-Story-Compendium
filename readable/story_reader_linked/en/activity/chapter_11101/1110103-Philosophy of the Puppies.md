@@ -1,6 +1,6 @@
 # Philosophy of the Puppies
 
-- Chapter: The Rimet Cup (`11101`)
+- Chapter: The Theft of the Rimet Cup (`11101`)
 - Episode: `1110103`
 
 > Subtitle: The books, some alone time, the dog shampoo, and an appropriate amount of  tolerance to  humans.

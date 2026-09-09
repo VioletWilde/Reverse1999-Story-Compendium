@@ -1,6 +1,6 @@
 # No Turning Back
 
-- Chapter: The Rimet Cup (`11101`)
+- Chapter: The Theft of the Rimet Cup (`11101`)
 - Episode: `1110105`
 
 > Subtitle: She never cared to understand why "enough is enough."

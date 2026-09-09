@@ -1,6 +1,6 @@
 # Pearl and Bullet Hole
 
-- Chapter: Tender is the Night (`102`)
+- Chapter: Tender Is the Night (`102`)
 - Episode: `10209`
 
 > Subtitle: The kitty and puppy fight in the basket. Despite the constant grumbling, you know they actually don't hate each other.

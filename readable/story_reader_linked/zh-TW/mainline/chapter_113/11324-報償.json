@@ -1,0 +1,561 @@
+{
+  "episode_id": 11324,
+  "chapter_id": 113,
+  "chapter_title": "他者的悲哀",
+  "display_label": "",
+  "title": "報償",
+  "subtitle": "從謊言堆砌的迷宮中走出，尋得一份輕若無物的珍寶。",
+  "trails": [
+    {
+      "element_id": 1132401,
+      "owner_episode_id": 11324,
+      "trigger_episode_id": null,
+      "title": "追悼會",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=11324",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "現如今所有人都習慣了親近的人死在眼前。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "唯獨你還心存僥倖。這是第幾個了？你數過嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "從這位臨時校長邀請你提前入職的那一天起，這樣的戲碼是第幾次了？"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "只希望是最後一次",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "總會有下一次的，這些金線會不斷增加，直到某天填滿你的視野。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "到時你應該會成為第二名瞎子。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "但這也沒什麼好怕的，總有人會在你身邊充當你的眼睛。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "忘記自己姓名的人就是死了，你應該聽過我說的。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "但如果能讓你感到些許安慰，我也可以說些好話。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "興許有人能回想起姓名呢？治好健忘症總要比死而復生簡單。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "無論如何，你要拯救的人似乎又多了不少。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "反正你也丟不掉同理心，不如去拯救世界吧？"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "不論活人死人，全部塞到寶貝箱子裡，不用胡思亂想，像個救世主一樣。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "以及你最好記住每個死人生前的樣子。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "儘管有些人不止死過一次，但他們最後能怎麼活著，可全都取決於你。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "他們還沒有死",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1132402,
+      "owner_episode_id": 11324,
+      "trigger_episode_id": null,
+      "title": "襲擊策略",
+      "description": "攻破一座堡壘最快的辦法，就是把門從內側打開。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=11324",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "來自“無名者”的案件調查報告"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "[最高機密|雨前調度中心&臨時調查委員會 授權]\n[案件ID：███-██-████]\n[日期：█年█月█日]\n\n案情摘要與管轄權陳述\n    本調查報告記錄了第十一次“暴雨”前夕，重塑之手（以下簡稱“襲擊者”）針對基金會總部與第一防線學校（以下簡稱“目標”）展開的襲擊事件經過。本調查由雨前調度中心&臨時調查委員會依據《基金會緊急防衛規範》相關條款進行，旨在分析並查明本次襲擊事件的襲擊路徑及內部防線潰散原因。\n……\n\nⅢ. 襲擊手法與現場重建\n    襲擊者利用尚未被官方記錄的神秘術陣（技術代號：“風網”），繞過目標的所有監測與防禦工事，直接突襲目標內部。\n    第一階段：疑似以“歌唱家”為首的小股先頭部隊抵達目標並展開滲透，通過以下手段降低目標內部人員警惕：\n    1.虛假聲援：重塑之手成員（疑為“歌唱家”）先以虛假身份接觸多名基金會人員及其親友並騙取信任，從而在“暴雨”倒計時期間，成功蠱惑數名總部員工與有過避難經歷的人員，使其按照指示開啟通往目標內部的通道。此外，重塑之手成員還通過神秘術手段襲擊防線監測部門人員與設施，致使監測失效。\n    2.在重塑之手的神秘術控制下，被俘人員倒戈成為內應，引導襲擊者繞過主火力網並摧毀基礎防衛、武裝儲備、警報等系統。\n    3.先頭部隊與被教唆人員在目標內佈置“風網”術陣，完成第二波襲擊前的陣線搭建工作。“風網”術陣佈置完畢後，重塑之手主力部隊抵達目標……\n……\n\nⅣ. 證人證言與取證記錄\n    證人#09 證言（工程部 高級研究員）：“我看到南茜·蘇爾站在門口，當時並非她的值班時間，於是我上前詢問，結果她說什麼‘天氣這麼好，我們卻活著，看來歷史果然錯了’，還有‘改寫詞譜、奏響讚歌、迎接人性重生’……”\n    證人#47 證言（人事部 文員）：“這些背叛者可都是正義與秩序陣營裡的佼佼者……但話又說回來，可能就是因為這樣，比起承認活著是運氣，他們寧願承認自己有罪。”\n……"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "101339",
+      "internal_title": "第十三章13-24",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "報償"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "委員會大樓南面的花園勉強恢復了被戰火焚燒前的模樣。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "不時有職員匆忙地穿越花園，他們帶動的清冷空氣令新生的枝條輕輕顫抖。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "這裡已經修整一新了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "無名者",
+          "text": "花園只要移栽新的植物就好了，園丁們很樂於探索新時代的森林。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "無名者",
+          "text": "至於我們身後的那棟大樓……要修復到最初的樣子也許還需要一些時間。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "現在基金會都要向科算中心臨時借用辦公室了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "無名者",
+          "text": "科算中心不光被佔用了工作場地，還因為總部大樓需要修復，無法得到哪怕一分錢的額外預算。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她笑了出來，嘴角再也不像以前的微笑那樣掛上額外的、意味深長的色彩。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "對了，你昨天說想要起一個名字？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "無名者",
+          "text": "我這幾天在翻一本新生兒起名手冊，看見了不少名字，但沒有決定好要用哪一個。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "我覺得華麗一點會更好",
+          "edge_label": "我觉得华丽一点会更好",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "無名者",
+              "text": "阿斯特麗德，塞拉菲娜，埃萊奧諾拉，英格麗德……"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "無名者",
+              "text": "這些名字很好聽，不過它們就像過於沉重的珠寶，讓人不敢穿戴在身上。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "我覺得簡單一點會更好",
+          "edge_label": "我觉得简单一点会更好",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "無名者",
+              "text": "簡單點更好？——艾爾，伊爾娃……艾拉？"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "無名者",
+              "text": "但它們中沒有哪一個的發音特別能抓住我的心……我也是在找名字的時候，才發現我對這個方面有所貪求。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "你有喜歡的名字嗎？",
+          "edge_label": "你有喜欢的名字吗？",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "無名者",
+              "text": "這些名字在我看來都有特殊的意義，我挑不出哪一個更好。"
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "無名者",
+          "text": "事實上，想到要得到一個名字，我反而覺得有些害怕。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "無名者",
+          "text": "……我覺得這個世界上已經沒有適合我的名字了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "無名者",
+          "text": "我仍然是一個空殼，“無名者”倒是一個更適合我的名字，而且聽起來神秘莫測。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "無名者",
+          "text": "怎麼了，維爾汀？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "我覺得你說話的方式有了一些變化，多了一些幽默感。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "無名者",
+          "text": "……你不習慣嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "我覺得這樣很好，你比過去有活力多了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "無名者",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她別開視線，剛好看見從樹籬後走來的新任代理校長。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "你們要出發了？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "是的，Z女士。我們留在基金會發揮不了什麼作用，應該快點去新時代中尋找機遇。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "你的申請中並沒有說這份機遇是什麼。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "是梅蕾爾。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "過去也有人在我眼前消失。但這一次梅蕾爾的情況不同以往——在回溯發生的瞬間，我看見了一根金色的紡線。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "我會批准你的申請，不過你需要找個時間詳細說明一下有關“金色紡線”的問題。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "基金會的飛蛾落入了這場對話中。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "無名者",
+          "text": "Z女士，我的申請有結論了嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她提問的方式有些焦急。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "是的，我和副會長已經討論過這個問題了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "無名者",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "作為曾經的間諜，如果決心退出，你在基金會的記錄會被刪除。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "你的榮譽與犧牲也會被一併抹去，包括發現並關閉“風網”的功績。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "無名者",
+          "text": "那些對我來說沒有什麼意義。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她從Z女士緩和的語氣中察覺到了可商榷的餘地。飛蛾向著希望的火源步步靠近。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "無名者",
+          "text": "過去為基金會做出的所有貢獻，都可以只是為了這一個回報。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "你應該知道，司辰小隊仍然屬於基金會，而維爾汀的上司就是我。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "無名者",
+          "text": "當然，我知道基金會不會完全放我自由。司辰小隊是我最好的去處。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "無名者",
+          "text": "我只是一個普通的神秘學家，不希望再直接受到基金會管轄。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "我明白了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "歡迎加入司辰小隊，無名者。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "無名者",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "謝謝，Z女士。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "我不想代表基金會說什麼，無名者。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "但就個人而言……我不會忘記你為基金會做出的犧牲與貢獻。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "刻雷烏斯",
+          "text": "他們消失了？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊里內伊",
+          "text": "對。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "伊里內伊沉入椅子裡，視線沒有落在他的談話對象上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊里內伊",
+          "text": "第一梯隊沒有抵達第一防線學校，也沒有回到基金會總部。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊里內伊",
+          "text": "在“暴雨”結束之後，我們只知道一整支車隊都在半路上消失不見了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "刻雷烏斯",
+          "text": "我的隊員——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊里內伊",
+          "text": "同樣消失了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊里內伊",
+          "text": "不過我收到了一些初步調查的最新線索，它們指向了伊戈爾——是他帶走了第一梯隊的人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "刻雷烏斯",
+          "text": "伊戈爾……我要去找回我的人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "伊里內伊轉過頭，重新看向刻雷烏斯。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊里內伊",
+          "text": "基於你在襲擊中的表現，以及基金會產生了大量人員空缺的現狀，針對你的訊問會暫停一段時間。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊里內伊",
+          "text": "審理委員會決議保留你的職位和“Ⅻ”小隊的編制。但現在看來，它和解散也沒有什麼區別——你的隊伍裡只剩下一名醫生了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊里內伊",
+          "text": "不過你依然可以自由安排任務，比如去找回你的人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "刻雷烏斯",
+          "text": "這聽起來像是一個獎勵，但這本來就是我們商定好的一環。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "刻雷烏斯",
+          "text": "我可以替你的派系擔負罪名，但你也要保證我不會真的被限制行動自由。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊里內伊",
+          "text": "當然，我們需要相互幫助。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊里內伊",
+          "text": "你也許也會關心另一件事——我們的定位裝置無法在“暴雨”之後定位實驗品在這個時代的下落。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊里內伊",
+          "text": "換句話說，示蹤劑沒有用，刻雷烏斯。“灌體”的藥劑再一次失敗了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊里內伊",
+          "text": "而司辰已經準備出發，她聲稱自己可能有辦法尋回梅蕾爾。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "刻雷烏斯",
+          "text": "我們無法監測到示蹤劑的目標去向，但司辰卻找到了她的線索？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊里內伊",
+          "text": "她不是一般人，我覺得你早就應該認清這回事了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "伊里內伊輕輕搖頭，刻雷烏斯能看出這個動作對這個政客意味著什麼——焦慮。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊里內伊",
+          "text": "我不管你要怎麼應付小隊成員失蹤的事，但你必須跟進與示蹤劑相關的事。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "刻雷烏斯",
+          "text": "我的隊員都是很有用的人，我會追蹤他們的下落。司辰那邊，我會試著與她保持聯絡……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊里內伊",
+          "text": "眼下這個節骨眼，嘗試和她合作估計不會像之前那麼簡單了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "棋盤即將刷新，新的對局正在展開。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "刻雷烏斯",
+          "text": "重塑之手的突襲打亂了我們的步調，但我們會重新控制住局面的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "刻雷烏斯",
+          "text": "如果無法讓司辰完全信任我們，我們就去嘗試靠人類自己的雙手能實現的辦法。"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

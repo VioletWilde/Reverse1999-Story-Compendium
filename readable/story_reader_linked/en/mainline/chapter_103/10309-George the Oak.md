@@ -1,6 +1,6 @@
 # George the Oak
 
-- Chapter: Nouvelles et Textes pour rien (`103`)
+- Chapter: Nouvelles et Textes pour Rien (`103`)
 - Episode: `10309`
 
 > Subtitle: A beautiful tree that brings shade and reassuring blessing.

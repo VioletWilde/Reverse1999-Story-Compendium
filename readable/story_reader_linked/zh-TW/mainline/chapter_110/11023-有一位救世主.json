@@ -1,0 +1,1300 @@
+{
+  "episode_id": 11023,
+  "chapter_id": 110,
+  "chapter_title": "復樂園",
+  "display_label": "",
+  "title": "有一位救世主",
+  "subtitle": "時間是帶走我的洪水，但我亦為河流。",
+  "trails": [
+    {
+      "element_id": 101023,
+      "owner_episode_id": 11023,
+      "trigger_episode_id": null,
+      "title": "於洪流中",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=11023",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1010231,
+      "owner_episode_id": 11023,
+      "trigger_episode_id": null,
+      "title": "腮呼吸",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=11023 and ChapterMapElement=101023",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "永不間斷的大雨會導致大洪水，一個顯而易見的結果。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "這是最後的報告了——人和飛鳥的時代已經結束，接下來將是魚的時代。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "不過魚還要再等等，因為你，世界毀滅被推遲了大約一小時。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "現在全世界的人都欠你一小時，直徑多大的功勳章才配得上你？"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "一定還有辦法",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "是的，就算雨傘不管用，你也還有一艘方舟。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "像以往保存有生力量時那樣，讓有資格的動物乘上方舟。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "你就還可以繼續戰鬥下去。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "請讓我完成我最後的任務，即使你不願意聽。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "得益於萬有引力，地勢較高處的居民可以在洪水中存活久一些。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "你還有時間抱著橙色小狗敘敘舊，看著世界末日從一個極點漫向另一個極點。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "或者……你可以像個軍人一樣，遵守命令直到最後一刻。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "“找到那個作家。”"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "這個任務的重要性已經不言而喻了。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "快閉嘴吧",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "101031",
+      "internal_title": "第十章10-22.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "有一位救世主"
+        },
+        {
+          "kind": "title_card",
+          "text": "火山神殿·祭壇"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿尼姆斯",
+          "text": "啊啊……竟能有幸親眼目睹……何其榮幸，何其光耀！至高無上的神秘學聖母啊——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿尼姆斯",
+          "text": "您卑微的信眾渴望您的引導！請顯示您的大能，席捲一切，重塑一切，帶我們回歸最初的樂園！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "阿爾卡納……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿爾卡納",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "復活的神祇抬起無盡之手中的一肢，在空中輕點。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "井中湧出的液體驟然激蕩，將沒過的一切事物吞噬殆盡。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "諾諦卡",
+          "text": "那是……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "小心避開那些液體！那不是普通的水！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "井中湧出的那些水……你們在製造“暴雨”？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿尼姆斯",
+          "text": "“暴雨”？呵呵……哈哈哈哈！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿尼姆斯",
+          "text": "可悲的羔羊，你對祂的偉大一無所知。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿尼姆斯",
+          "text": "這並非那徒有表象的“暴雨”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿尼姆斯",
+          "text": "復甦之母、秘之教誨者將帶給我們的——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿尼姆斯",
+          "text": "——是一場真正的、將一切帶往過去的“洪水”！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "……！"
+        },
+        {
+          "kind": "title_card",
+          "text": "南極海域"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "軍艦士兵Ⅰ",
+          "text": "艦長！報、報告艦長！水……有水在升上來——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "軍艦士兵Ⅰ",
+          "text": "甚至已經沒過甲板……升到腳邊了……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艦長Ⅱ",
+          "text": "只是船艙進水，不用驚慌，通知損管排查漏水源頭！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "軍艦士兵Ⅰ",
+          "text": "不，那不是海水，而是……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "軍艦士兵Ⅱ",
+          "text": "報告艦長！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艦長Ⅱ",
+          "text": "又發生什麼事了？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "軍艦士兵Ⅱ",
+          "text": "是重塑之手！他們突然停止了攻擊，好像在吟唱什麼咒語……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艦長Ⅱ",
+          "text": "咒語？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "吟誦聲隱約從冰封的海岸上傳來。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "眾教徒",
+          "text": "千百萬潮水，皆遵循潮汐奔流"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "眾教徒",
+          "text": "以褻瀆不潔的姿態，玷污天幕"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "眾教徒",
+          "text": "破除枷鎖者，主宰一切的復甦之母"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "眾教徒",
+          "text": "於今降下，至高福祉"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艦長Ⅱ",
+          "text": "各單位保持冷靜！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "艦長小心翼翼地走近從內艙突然湧出的洪水邊緣。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "軍艦士兵Ⅰ",
+          "text": "艦長！這些水有問題——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "艦長的鞋子已經沒進水中。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艦長Ⅱ",
+          "text": "……什麼？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艦長Ⅱ",
+          "text": "我的腳……消失了？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "浸入水中的部分迅速溶解、消逝，化為萬千洪水中的一滴。身體沿著接觸面被整齊地切斷，沒有流血，也沒有痛感，彷彿本就不存在。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "眼前的一片汪洋並未倒映出任何畫面，而是呈現著十年前、百年前、千萬年前的廢墟景象。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "萬千水鳥瘋狂地齊聚、扎堆、俯衝入水，就像火化般被洪水燒熔，消失在漫天遍地的水中。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "軍艦士兵Ⅱ",
+          "text": "……嗚啊啊啊啊啊！！！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "第一聲驚叫爆發，來自一位弱小的士兵，他抱頭鼠竄，企圖跑向高處躲避。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "然而在他還未發出第二聲呼救時，卻已經完全被洪水吞沒了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "眾教徒",
+          "text": "來日的恩典即將顯現，吾等信徒將於今日蒙福"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "眾教徒",
+          "text": "願您至高無上之軀，再度降下——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "眾教徒",
+          "text": "以無窮大能，重塑應許之地！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "軍艦士兵Ⅰ",
+          "text": "——艦長！！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艦長Ⅱ",
+          "text": "這不是正常的洪水，而是刻雷烏斯長官所說過的……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艦長Ⅱ",
+          "text": "快聯繫索姆將軍！全員將平衡傘打起來！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一隻隻傘柄被飛快舉起，傘罩中閃爍出強有力的光芒。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艦長Ⅱ",
+          "text": "平衡傘能夠抵擋“暴雨”，那麼也一定可以抵擋……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "然而話音未落之際，洪水已然將人連同平衡傘一起吞噬。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一頂頂傘以及一個個舉著傘的人瞬間融化在水中。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "士兵的呼救聲與重塑海獸的咆哮聲不絕於耳，而下一瞬，一切聲音都化為空寂。"
+        },
+        {
+          "kind": "title_card",
+          "text": "前芝諾近衛團某駐地"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "……99年的一切又一次重演了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "將軍眺望著遠方艦隊的沉沒。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "對於下達指令的人來說，他們不過是沙盤上的數字，棋盤裡的棋子。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "相對即將發生的災難，他們的力量微乎其微。然而他們不曾知曉這點，而知曉這點的人並不在乎他們的生命。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "那些曾被不斷投入的生命和熱情，最終也只是歸於一片空白。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "海平面飛速上升，遠方的陸緣冰已經不見蹤影。整個世界只剩下一片潔白如新的洪水，像透明的紗布，將所有雜質抹去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "托勒密",
+          "text": "父親，我們已經和姐姐的隊伍完成會合了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "人數清點完畢了嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "托勒密",
+          "text": "包括受到重塑之手影響的病患在內都確認完畢了，與名單一致，只差丹尼洛夫機長和……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "托勒密",
+          "text": "姐姐，她不在這裡。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "我明白了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "準備動身吧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "托勒密",
+          "text": "我們要去哪裡？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "去一片能自洪水中庇護我們的奇跡之地。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "將軍從懷中掏出那個黑色的盒子。它浮於半空，在將軍手上緩緩旋轉起來，隱約向外輻射著一圈圈金光。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "托勒密",
+          "text": "這就是我們和重塑之手交易的成果嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "老將軍點了點頭。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "不再有無謂的犧牲，我們將踏上的是一條全新的道路。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "托勒密",
+          "text": "可姐姐她……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "她亦有自己選擇的道路。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "將軍將目光投向遙遠的雪山之巔，像是看著自己的來時路。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "我相信她。"
+        },
+        {
+          "kind": "title_card",
+          "text": "火山神殿·山坡"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "烏爾里希",
+          "text": "躁動的魔精、異常的海水情況、突然發生的雪崩……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "烏爾里希",
+          "text": "——該死，一定是重塑之手的儀式已經開始了！我們得儘快想出對策……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "護衛兵",
+          "text": "老闆！現在不是說這些的時候！！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "嚼嚼松果",
+          "text": "雪崩要來了！路線更改——各位！跟好我！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "護衛兵一把扛起還在試圖分析現狀的研究員，加足馬力飛快地向上衝去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "嚼嚼松果",
+          "text": "糟糕，雪浪要衝下來了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "護衛兵",
+          "text": "呃——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "護衛兵在積雪劇烈的坍塌中試圖穩住身體，但雪崩的震動還是輕易擊垮了渺小的兩人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一團巨大的雪塊襲來，將承載磁流體的玻璃缸擊飛了出去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "烏爾里希",
+          "text": "該死！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "護衛兵",
+          "text": "——老闆，你的頭！！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "玻璃缸運動的抛物線止於一雙穩穩的手。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德爾",
+          "text": "……呼，還好趕上了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "驟風中，黑色的頭髮從帽檐下飄飛出來。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德爾",
+          "text": "丹尼洛夫機長，降低高度，放下掛梯，接應他們。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德爾",
+          "text": "各位，快跳過來！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "劇烈的風聲中，她的聲音卻顯得清晰而有力。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "嚼嚼松果",
+          "text": "莫莉德爾中尉！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德爾",
+          "text": "抱歉，我們來遲了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "護衛兵連忙將意識喚醒者的身體推進機艙，在前芝諾近衛團副官的幫助下，兩邊的隊伍終於會合。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "所幸除了組長的玻璃裝置些微破損外，並無任何神秘學家和企鵝的傷亡。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "嚼嚼松果",
+          "text": "多虧您及時趕到，莫莉德爾中尉！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德爾",
+          "text": "客套話就不必再說了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德爾",
+          "text": "水位在上升——它絕非自然的海水，其毀滅性更甚於“暴雨”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德爾",
+          "text": "這場“洪水”正將所有東西沖刷殆盡。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "烏爾里希",
+          "text": "重塑之手的儀式已經開始了，我們必須採取行動。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "研究員將頭重新固定回身體，取出了“非對稱核素R”取樣裝置。\n烈風並未阻礙磁流體一如既往地在缸內快速流動。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "取樣裝置幾乎在眨眼間就盛滿了金色流體。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "烏爾里希",
+          "text": "目前空氣中急劇上漲的非對稱核素R濃度、以及與“暴雨”相似的一系列現象或許可以導向一個結論——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "烏爾里希",
+          "text": "“洪水”與“暴雨”存在著一定關聯，或者進一步猜想，“洪水”是另一種形態的“暴雨”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德爾",
+          "text": "那麼，你們之前所說的“星銻”唱片或許可以發揮作用？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "烏爾里希",
+          "text": "你理解得很快，中尉。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "烏爾里希",
+          "text": "既然唱片可以延緩時代病的發展，或許也可以延緩儀式的進程。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "烏爾里希",
+          "text": "我們現在必須儘快播放唱片，生成穩定性磁場。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "烏爾里希",
+          "text": "為了讓它的輻射範圍能夠覆蓋到山中的儀式現場，我們需要抓緊時間趕往山頂！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德爾",
+          "text": "丹尼洛夫機長！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "機長",
+          "text": "收到！請各位坐穩！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "默契讓軍人之間略去了多餘的指令交換，“小犬號”在螺旋槳轟鳴中傾斜著爬升。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德爾",
+          "text": "以目前海平面上升的速度來看，我們能來得及嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "烏爾里希",
+          "text": "不止有我們在試圖阻止重塑之手的儀式，司辰她們也同樣在努力著。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "喧囂的風聲中，磁流體的聲音異常清晰堅定。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "烏爾里希",
+          "text": "莫莉德爾中尉，從過往無數次的科研，無數次的成功與失敗中，我學會最為關鍵的一點就是——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "烏爾里希",
+          "text": "相信我們的協作者，然後，全力以赴。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "……水面在迅速上升。再這樣下去，洪水會將一切全部吞噬。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "我們必須破壞儀式，阻止洪水的上漲。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "儀式、霧氣、洪水——一切都纏繞在那具詭異的龐大身軀之上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "攻擊阿爾卡納，或許能找到破綻！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "諾諦卡",
+          "text": "好、好的！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "鉛箭破開濃稠的空氣，釘在諾諦卡蠢蠢欲動的足爪邊。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿尼姆斯",
+          "text": "呵呵，癡心妄想。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿尼姆斯",
+          "text": "世界重溯是必然的結果，僅憑你們這些蟲豸也想阻止？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿尼姆斯",
+          "text": "所謂的現在，還有現在正發生的一切——都只是虛假根系上長出的罪惡果實，本就不該存在。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿尼姆斯",
+          "text": "你們將見證洪水沒過一切。所有罪孽都將消失，世界會回到最初始的、它本該有的樣子！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿爾卡納",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "“阿爾卡納”巨大的軀體動了動，從那模糊不清的面龐上似乎能看到熟悉的笑容。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿尼姆斯",
+          "text": "啊，啊！至高的聖母！我已聆聽，我已明悟，我將踐行您的教誨！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿尼姆斯",
+          "text": "請降下您仁慈的威能——將她們永遠留在這裡！"
+        }
+      ]
+    },
+    {
+      "script_id": "101032",
+      "internal_title": "第十章10-22.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "諾諦卡，小心那些黑色黏液的攻擊！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "諾諦卡",
+          "text": "維爾汀，十四行詩，抓緊我！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "飛鳥伸展翅膀，迎著黏液化作的無數箭矢猛地飛去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "在即將與雨幕般的箭矢相撞之時，諾諦卡收起雙翼，從洪水和箭雨的夾縫中穿行而過。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "諾諦卡",
+          "text": "嗚、呼……大家沒事吧？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "你的身體被灼傷了！諾諦卡，我幫你治療一下！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "諾諦卡",
+          "text": "我、我還好，沒關係，你們抱緊我就好！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "但我們不能一直以你的受傷為代價躲避進攻。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "諾諦卡",
+          "text": "……我知道了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "諾諦卡",
+          "text": "告訴我要怎麼做吧，維爾汀！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "諾諦卡",
+          "text": "我還無法熟練運用這份新的力量，但我相信，你能想出更好的辦法！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "請您指揮我們進行作戰吧，司辰。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "嗯，助我一臂之力吧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "羽翼再次向天空伸展，而夥伴也堅守在地面。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿尼姆斯",
+          "text": "卑下的蟲豸，掙扎是徒勞的！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿尼姆斯",
+          "text": "“洪水”帶來的空白見證者們將聆聽吾輩的呼喚。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "笑聲毛骨悚然。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿尼姆斯",
+          "text": "無論是你們，還是神殿之上試圖搞小動作的那些螻蟻，都將成為舊日復甦的奠基石！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "司辰，恐怕烏爾里希組長他們會有危險！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "冷靜下來，十四行詩。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "請你盡可能攻擊阿尼姆斯。如果能阻止她施展神秘術，或許能對烏爾里希組長那邊有所幫助。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "還有……如果可能的話，盡可能留意德洛絲女士的蹤跡。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "我明白了，司辰。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "諾諦卡",
+          "text": "維爾汀，洪水越漲越高了，再這樣下去，我們就沒有空間飛行了……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "嗯，我們必須遠離洪水，創造作戰空間。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "諾諦卡，你有辦法破壞神殿嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "諾諦卡",
+          "text": "破、破壞神殿？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "沒錯，你剛才飛行時踏碎了側壁的岩石，就像那樣。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "向前望去，詭異神祇的龐大身軀正通過無數黑色的血管與整個神殿緊密相連。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "神殿在為阿爾卡納供給力量。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "如果能衝破神殿，既能削弱阿爾卡納，創造飛行空間，又能利用落石進行攻擊。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "諾諦卡",
+          "text": "呼、呼……我明白了，交給我吧！"
+        }
+      ]
+    },
+    {
+      "script_id": "101033",
+      "internal_title": "第十章10-22.3",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "火山神殿·山巔"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德爾",
+          "text": "這裡就是神殿的正上方了，烏爾里希組長！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "烏爾里希",
+          "text": "海平面上升的速度很快，我們的時間不多了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "未等直升機停穩，中尉便率先躍下，接應著意識喚醒者走出了機艙。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "烏爾里希",
+          "text": "事不宜遲，立刻開始設置唱片機，生成穩定性磁場……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "烏爾里希",
+          "text": "該死！這裡的地磁情況在不停變動，唱片機無法校準至理想調校狀態！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "烏爾里希",
+          "text": "這與我之前的兩千三百次實驗的情況都不一樣，大氣中非對稱核素R的濃度超乎想像！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "烏爾里希",
+          "text": "變數太多，在這種情況下，我甚至無法確定“星銻”能否如我們所期望的那般奏效……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "磁流體混亂地將自己分散成無數小點，而後又猛烈聚攏。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "烏爾里希",
+          "text": "總之先檢測環境中非對稱核素R的濃度，對應調整實驗數值；接下來改進信號處理演算法，設置防護設施；要是能推導地磁場變化規律……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "烏爾里希",
+          "text": "**的【拉普拉斯髒話】——這個裝置凍壞了，有人能幫個忙——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "自腳下的又一次震動險些將磁流體震倒。與此同時，頭頂傳來了奧利圖歐的嘯叫。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德爾",
+          "text": "小心，烏爾里希組長。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "中尉眼疾手快地扶住了研究員。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德爾",
+          "text": "只是被凍壞了的話，這個環境監測裝置交由我修理。嚼嚼松果，排除那些干擾實驗的魔物！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "嚼嚼松果",
+          "text": "中尉，那似乎不是普通的奧利圖歐，那中間的是……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "白骨構成的龐大生物遮蔽天空，領著瘋狂的奧利圖歐向山巔的眾人襲來。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "嚼嚼松果",
+          "text": "哇！好一塊硬骨頭！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德爾",
+          "text": "……各位，做好戰鬥準備，保護組長完成實驗！"
+        }
+      ]
+    },
+    {
+      "script_id": "101034",
+      "internal_title": "第十章10-22.4",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "火山神殿·山巔"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "嚼嚼松果",
+          "text": "這些該死的醜鳥越來越多了……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "企鵝",
+          "text": "嘎啊——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "護衛兵",
+          "text": "精神錯亂的程度也在加深！……哇啊！機長！別咬我的五倍壓縮巧克力口味軍糧！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德爾",
+          "text": "烏爾里希組長，你還需要多久！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "烏爾里希",
+          "text": "……神秘學材料設置完畢，方位確認，環境數據確認。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "烏爾里希",
+          "text": "——第二十一次實驗失敗！該死，磁場方位和預設值不符，唱片無法發揮作用！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "烏爾里希",
+          "text": "最後一次嘗試……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "護衛兵",
+          "text": "老闆，我們必須得走了！——我快拉不住丹尼洛夫機長了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "松鼠中士、企鵝列兵一一被莫莉德爾甩進了機艙裡。最後，她也一腳踩在了艙門的邊緣上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德爾",
+          "text": "烏爾里希組長，拉住我的手！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "烏爾里希",
+          "text": "預設值調整，參數確認，最後一次——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "中尉提起磁流體的領子飛離山巔的前一刻，磁流體終於將指針第二十二次放在了唱片之上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "烏爾里希",
+          "text": "地磁場的強烈波動停止了……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "烏爾里希",
+          "text": "……成功了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德爾",
+          "text": "看——海平面不再上升了！"
+        },
+        {
+          "kind": "title_card",
+          "text": "火山神殿·祭壇"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "聽見了嗎，司辰？是星銻常聽的搖滾樂！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "洪水平靜下來了，看來是烏爾里希組長他們減緩了儀式的進程！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "趁不受洪水干擾的時候，諾諦卡！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "伴隨著搖滾的節奏，飛鳥踏碎了神殿的最後一根支柱。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "諾諦卡",
+          "text": "我、我做到了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "幹得漂亮，諾諦卡。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "神殿開始坍塌了，小心躲避！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "飛鳥穿過隆隆的墜石。一陣劇烈的震動後，過往的祭壇已成廢墟。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "落石將一切活物掩埋，最底層的巨石下露出信徒們的黑袍一角。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿尼姆斯",
+          "text": "呃……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿尼姆斯",
+          "text": "褻瀆……之人……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "又一塊石板落下，噴出一口血與氣後，她再也無法發出聲音。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "諾諦卡",
+          "text": "……這裡應該安全了……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "諾諦卡小心翼翼地在沒有洪水的狹窄空間內伸展翅膀，將二人安置在不受洪水與落石侵襲的安全地帶。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "所有的一切……都掩埋在了廢墟和洪水之下。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "但阿爾卡納……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿爾卡納",
+          "text": "可怖的神祇身體逐漸溶解，化作了熟悉的人形。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿爾卡納",
+          "text": "祂腳尖輕點於洪水之上，抬頭仰望不斷震動著、坍塌中的神殿。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿爾卡納",
+          "text": "這篇終章，確實缺了一首動聽的挽歌。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿爾卡納",
+          "text": "噓……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "於是碎裂的神殿靜了下來，所有聲音都被泯滅，唯餘祂的話語在空中迴響。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿爾卡納",
+          "text": "當歌謠的尾音落下，洪水將再度翻湧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿爾卡納",
+          "text": "舊時代將被尋回，新秩序將要誕生。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "阿爾卡納站在水中，對眾人露出一個微笑。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿爾卡納",
+          "text": "你的世界正迎來終結，“眾人跟隨的救世主”。可惜，你還不能停下。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿爾卡納",
+          "text": "再會，維爾汀……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿爾卡納",
+          "text": "在“我們的世界”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "身影消失在上湧的水中。"
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

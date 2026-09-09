@@ -1,6 +1,6 @@
 # White Night
 
-- Chapter: 远征记 (`112`)
+- Chapter: The Campaign's Tale (`112`)
 - Episode: `11209`
 
 > Subtitle: Comrades may be united in loyalty or by other means—hatred will do.

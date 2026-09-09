@@ -1,10 +1,10 @@
 # Character Stories · Light to the Tavern
 
-- [1660101 【1.6】曲娘玩法剧情01](1660101-【1.6】曲娘玩法剧情01.md) *(extra record)*
-- [1660102 【1.6】曲娘玩法剧情02](1660102-【1.6】曲娘玩法剧情02.md) *(extra record)*
-- [1660103 【1.6】曲娘玩法剧情03](1660103-【1.6】曲娘玩法剧情03.md) *(extra record)*
-- [1660104 【1.6】曲娘玩法剧情04](1660104-【1.6】曲娘玩法剧情04.md) *(extra record)*
-- [1660105 【1.6】曲娘玩法剧情05](1660105-【1.6】曲娘玩法剧情05.md) *(extra record)*
-- [1660106 【1.6】曲娘玩法剧情06](1660106-【1.6】曲娘玩法剧情06.md) *(extra record)*
-- [1660107 【1.6】曲娘玩法剧情07](1660107-【1.6】曲娘玩法剧情07.md) *(extra record)*
-- [1660108 【1.6】曲娘玩法剧情08](1660108-【1.6】曲娘玩法剧情08.md) *(extra record)*
+- [1660101 The Third and the Ninth](1660101-The Third and the Ninth.md) *(extra record)*
+- [1660102 What the Xiangruis Do](1660102-What the Xiangruis Do.md) *(extra record)*
+- [1660103 Idle Time](1660103-Idle Time.md) *(extra record)*
+- [1660104 A Place to Belong](1660104-A Place to Belong.md) *(extra record)*
+- [1660105 Time Slipping Away](1660105-Time Slipping Away.md) *(extra record)*
+- [1660106 Festoons](1660106-Festoons.md) *(extra record)*
+- [1660107 Difficult Is the Way](1660107-Difficult Is the Way.md) *(extra record)*
+- [1660108 Till the Last Drop](1660108-Till the Last Drop.md) *(extra record)*

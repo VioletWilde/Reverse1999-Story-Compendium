@@ -1,0 +1,511 @@
+{
+  "episode_id": 11001,
+  "chapter_id": 110,
+  "chapter_title": "復楽園",
+  "display_label": "",
+  "title": "幸多き新年を",
+  "subtitle": "ソリは最初の贈り物だけを残し、遥か遠い未来へと走り去っていく。",
+  "trails": [
+    {
+      "element_id": 101001,
+      "owner_episode_id": 11001,
+      "trigger_episode_id": null,
+      "title": "南極上陸作戦",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=11001",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "よくやった。アメリカ、ブラジル、さらにオーストラリア。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "南太平洋で船旅を楽しみ、アルゼンチンを経由して、ようやくこの地に降り立つことができた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "君の敵は立て続けに敗れ、幾度もの撤退の果てに、ついには南極まで追い詰められた。そのすべてのきっかけは、たったひとつの命令だ――"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "「あの作家を見つけろ」"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "明確な計画も、目標になる場所も、時間制限もない。協力者数は一つの班にも満たない。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "不可解だな。入隊したばかりの若造並みに積極的に動く理由はなんだ？"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "わからない",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "一つ、推測がある。君は本能的に、決められた道を歩む。それによって、暗がりから覗く者たちの欲望を満たしているんだ。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "それこそが、君の「神秘術」なんだろう？"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "忘れるな、君は軍人ではない。ましてやボーイスカウトでもない。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "だから軍人の規則に縛られる必要はない。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "一つ忠告しておこう。命令に従う前に、そうする理由を考えろ。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "なぜならば、君はこれから敵の本拠地に突入することになるかもしれないからだ。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "そういった状況で盲目的に命令に従う奴らは、大概が「使い捨ての弾丸」で終わる。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "この疑問を忘れずに持っておけ――なぜあの作家を探すのか？"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "軍人が命令に従うのはあたりまえだ",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "101000",
+      "internal_title": "第十章10-00",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "復楽園"
+        },
+        {
+          "kind": "title_card",
+          "text": "幸多き新年を"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "閉ざされたオフィスの中、モニターの白い光がチカチカと瞬いている。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "静かな室内に呼び出し音が響き渡る。ほどなくして、誰かが通信に応じた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "クレウス連絡員、鳩小屋より移動指示が出ました。 Annum Novum Faustum et Beatum."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "通信先からボタンを押す音が聞こえる。少しすると、ファックス機が動き出した。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "軍事委員会による最終結論です――直ちにゼノミリタリーのソーム元帥に連絡し、隊伍を整え、軍とともに指定座標地域に向かうよう伝達せよ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "なお、決戦の覚悟を決めておくように。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "クレウス",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "通信相手はしばし黙り込んだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "クレウス",
+          "text": "…このような指示を受けたのは初めてですね。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "ガラス窓の外側には霜と雪がついていた。薄暗い部屋に佇んでいた副会長は、結露した冷たいガラスの上に指で丸を描いた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "コンスタンティン",
+          "text": "向かう先は南極方面。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "コンスタンティン",
+          "text": "そこにはマヌス・ヴェンデッタの最大拠点があり、儀式の中心拠点にもなっています。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "クレウス",
+          "text": "儀式とは？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "コンスタンティン",
+          "text": "すべての時代に関わる儀式――マヌス・ヴェンデッタが人知れず準備を進めていたのも、このときのためです。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "副会長の声はどこか冷たかった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "クレウス",
+          "text": "儀式の目的はなんですか？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "コンスタンティン",
+          "text": "直にわかるでしょう。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "クレウス",
+          "text": "…これほど大規模で、しかも即応性を求められる作戦は、これまで例がありません。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "クレウス",
+          "text": "少なくとも１９９９年の「あの戦い」以来、一度も。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "コンスタンティン",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "副会長は相変わらず窓の外を見ていた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "粉雪が合金フェンスに張られた蜘蛛の巣に付着している。吹きすさぶ寒風の中、一本の糸が重さに耐えられず、ぷつりと切れた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "その糸は風に乗り、雪のなかを舞いながら遥か遠くへと運ばれる。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "クレウス",
+          "text": "歴史は繰り返されようとしている。違いますか？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "コンスタンティン",
+          "text": "クレウス連絡員。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "副会長は質問を打ち切った。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "コンスタンティン",
+          "text": "あなたの活躍に期待しています。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "コンスタンティン",
+          "text": "実績のある者には、より多くの情報が与えられる。あなたもよくご存知のことだと思いますが？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "クレウス",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "クレウス",
+          "text": "分かりました。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "相手は語気を抑えながら、通信を切った。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "雪のような白いノイズが、窓にずっと映っている。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "本棚には、時間の流れを刻んだビデオテープが綺麗に並べられていた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "やがてそのうちの一本を手に取り、再生機器に入れた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "コンスタンティン",
+          "text": "歴史は繰り返される…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "コンスタンティン",
+          "text": "けれど、希望は今も私たちの手の中にあるわ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "モニターから電流の音が響いた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "その電流の音をかき分けるように、幼い声が時を超えて届く。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "これは？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "レディ・Z",
+          "text": "あなたへのプレゼントよ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "プレゼント？　この…スーツケースが？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "レディ・Z",
+          "text": "ええ。あなたが正式に財団のタイムキーパーとして認められたことへのお祝い。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "レディ・Z",
+          "text": "記念すべきことだから。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "その子はスーツケースをプレゼントされる意味が、理解できていないようだった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "少女はさらに質問を重ねる。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "誰からのプレゼント？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "なんでプレゼントをする本人が渡しに来ないの？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "レディ・Z",
+          "text": "古い知人からよ。遠くにいるから、代わりに。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "古い…知人？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "レディ・Z",
+          "text": "それから、あなたへの伝言を預かっているわ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "レディ・Z",
+          "text": "彼女は…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "P a r a d i s e     R e g a i n e d\n                                       復  楽  園"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "どうしました？　タイムキーパー。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "…ううん、なんでも。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "ふと思い出から我に返った。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "昔のことを思い出しただけ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "船が南に向かうほど、空気が寒くなるほど、どこか馴染みある感覚が…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "まるで…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "痺れ、痛み、嬉しさ――それらは情緒、もしくは扁桃体の働きによる生理現象の一種と捉えることもできる。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "まるで、ここに来たことがあるような…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "ガラスに、心配そうにこちらを見つめる同行者の顔が映っていた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "深呼吸をして鼓動をなんとか落ち着かせる。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "ふぅ…そろそろ着い――"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "口にしたばかりの言葉は、船が岸にぶつかった衝撃に遮られた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "っ…！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "白い吐息が風にさらわれ飛んでゆく。衝撃に揺れていた船も、次第に落ち着いてきた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "着いたみたいだね。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "第一助手とともに船室から出る。"
+        },
+        {
+          "kind": "title_card",
+          "text": "南極の平原"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "何日にもわたる秘密の航行を終え、ようやく日差しの降りそそぐ甲板に立ち、遥か先を眺めることができた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "ここはロス棚氷北西部のマクマード湾です。南極探検の中心にしてスタート地点ですね。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "見渡す限りの白い氷原が漠然と佇む。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "氷原は永遠に思えるほど不変で、冷たく、固く、眩しく、静かだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "地上で何が起ころうが、沈黙を守り、何ひとつ語ろうとしない。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "しかし同時に、人には聞こえない怒号をあげ、\nこの場に踏み入ろうとする人々を脅している。"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

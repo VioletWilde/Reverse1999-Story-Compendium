@@ -1,0 +1,801 @@
+{
+  "episode_id": 11124,
+  "chapter_id": 111,
+  "chapter_title": "果てなき道を進みて",
+  "display_label": "",
+  "title": "山",
+  "subtitle": "名もなき数多の魂の、千万分の一。",
+  "trails": [
+    {
+      "element_id": 111024,
+      "owner_episode_id": 11124,
+      "trigger_episode_id": null,
+      "title": "門前払い",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=11124",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "失礼だけど、あなたはもう行ったほうがいいわ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "ここではしばらく、茶番は起きそうにないから。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "戦争はまだ終わってない",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "戦争が終わったかどうかによって、何か変わることでもある？"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "地震、洪水、飢饉、疫病、強盗、交通事故、あるいは浴槽で足を滑らせたり…"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "死ぬ方法なんてごまんとあるわ。戦争なんて、そのうちの一つでしかない。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "それはまだ、世界に重く受け止められる程のものになってないわ。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "少なくとも、今はね。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "給付金でなんとかやりくりしてるわたしの生活を、そんなに邪魔したいの？"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "まあ…礼儀として、断ったりはしないけど。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "それに、屋根の下で泥水を啜る方が、戦場で塵を食べるよりマシだってわかってるわ。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "さあ、ご友人が東部戦線であなたを待ってるわよ。彼女の無事を祈っておいてあげるわ。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "それじゃあ、また今度",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1110241,
+      "owner_episode_id": 11124,
+      "trigger_episode_id": null,
+      "title": "「ただ」で手に入った情報",
+      "description": "情報は、価値のないものであっても、決してただで手に入ることはない。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=11124",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "読後破棄"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "予期せぬ出来事から、不完全な報告書が手元に届いたことがある。その内容だけでは全貌はつかめなかったが、少なくともゼノミリタリーと財団が秘密裏に「ストーム」の研究を進めていることは分かった。その研究は、現在公開されているものではなく、また俺たちの階級が知っていいものでもない。\n　財団と計算科学研究センターのほとんどの人は、この件をまったく知らない。しかし、このような秘密の行動は、それだけで不安を煽るには十分だ。"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "101133",
+      "internal_title": "第十一章11-24",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "山"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "死によって山が完成していた。それは死がもたらせた千万分の一にも及ばない亡骸で出来ている。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "カローン",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "過去の全てを捨て去った。コート、ヘルメット、ショートブーツ……蝶が表紙に描かれているノートさえも。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "――かつてポールという名の若者が所有していたものを、すべて捨てた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "カローン",
+          "text": "君の戦争は終わったよ、ポール。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "遺品は丁寧に墓穴の中へと埋葬された。その隣には、山頂で命を絶ったとある少佐の墓があった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "遠くから近づく、馬の蹄の音が聞こえる。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "カローン",
+          "text": "…アンドレーソン？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "まるで眠っている人々を起こさないよう注意しているかのように、優しく呼びかける。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "馬はぬかるんだ土の道でしばらく立ち止まると、蹄の音で朝霧を破りながら、徐々に近づいてきた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アンドレーソン",
+          "text": "ヒーン――"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一頭の黒い馬が葬儀屋の前に現れた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "馬は軽く鼻息を鳴らすと、撫でられるのを待ち望んでいた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "カローン",
+          "text": "良い子だ――"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "カローン",
+          "text": "ずいぶん長い時間、姿を消していたね――またいなくなった友人を探すために、危険な場所にまで行っていたのかな？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アンドレーソン",
+          "text": "ヒーン…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "カローン",
+          "text": "運命によって、虐殺の脅威から守られていたのかもしれないな。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "カローン",
+          "text": "流れ弾や毒ガスに君がやられているのではないかと、ずっと心配していたよ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アンドレーソン",
+          "text": "…ヒヒーン――プルン。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "馬は頭を下げた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "カローン",
+          "text": "責めているわけじゃないんだ、アンドレーソン。むしろ、僕の元に戻ってきてくれたことに、心から感謝しているよ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "亡者は東を向いた。日が昇る方向には、不吉な暗雲が垂れ込めている。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "カローン",
+          "text": "行こう…遥か遠くに次の目的地がある、君の助けが必要だ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アンドレーソン",
+          "text": "――ヒン。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "アンドレーソンは頭を横に傾け、近づいてくる人影の存在を主に知らせた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "「警官」",
+          "text": "この子はカローンさんの馬かい？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "そのときになって初めて、鈍感な死者は自分に話しかけてくる存在に気がついた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "カローン",
+          "text": "…ああ、そうだとも。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "「警官」",
+          "text": "じゃあ、安心だ。突然モンペの近くに現れたもんだから、マヌス・ヴェンデッタと関係があるのかと思って、ずっと後をつけて来たんだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "カローン",
+          "text": "財団はこの後もモンペに？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "「警官」",
+          "text": "いや、すぐに発つ。軍隊をもっと安全な場所へ移動させるためにね。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "「警官」",
+          "text": "そういえば、カローンさん。「クロウタ」がどこへ行ったのか、知っているかい？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "カローン",
+          "text": "「クロウタ」？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "「警官」",
+          "text": "ああ、ええと、メレルのことだよ。君と一緒に前線に行ったあの女の子だ。マヌス・ヴェンデッタの襲撃が始まってから、彼女と連絡が取れていないんだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "「警官」",
+          "text": "今、彼女を探していて…無事でいてほしいな。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "カローン",
+          "text": "彼女は生きている。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "意外な収穫に、青年の目に明らかな光が宿った。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "「警官」",
+          "text": "本当に！？　――彼女に会ったのか？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "カローン",
+          "text": "…教えることはできない。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "プラヴィアンの目に宿った光は瞬時に消え失せた。拒絶されるとは思ってもいなかったせいだろう。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "「警官」",
+          "text": "なぜ？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "カローン",
+          "text": "彼女がそう望んでいたからだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "「警官」",
+          "text": "な…え？　彼女は財団に帰りたくないのか？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "カローン",
+          "text": "そうだ。彼女はこの先に起こり得る戦争を恐れている。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "カローン",
+          "text": "生々しい殺戮、無防備な死…あの少女は、その全てを受け入れる準備ができていなかったのだろう。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "カローン",
+          "text": "彼女に約束してくれと頼まれた。その居場所を財団の者に明かさないように、という約束だ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "「警官」",
+          "text": "…そ、そんな…彼女をそのまま行かせたっていうのか？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "「警官」",
+          "text": "一人の方が危険じゃないか？　それに…「逃亡」と記録されてしまうし…ああ、なんてことだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "カローン",
+          "text": "君の言ってることは理解できないが…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "カローン",
+          "text": "僕は彼女とそう約束したんだ。彼女の恐れも理解できる。誰しもが、恐れるものから逃げる資格がある。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "この状況をどう対処すべきかまったく考えていない青年は、行き場のないもどかしさを感じるばかりだった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "青年は苛立ちながら髪を掻きむしり、やがて決断を下した。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "「警官」",
+          "text": "まあ、いいか…まだ生きてると知れただけで。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "「警官」",
+          "text": "彼女を探す別の方法を考えてみるよ。一人で彷徨わせるわけにはいかないからね。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "まるで、困難な任務を引き受けたとばかりに、青年は澄んだ声で決意を告げた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "「警官」",
+          "text": "情報をありがとう。さようなら、カローンさん。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "青年はモンペへの帰路につく。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "１５分後、彼の後ろ姿は東の森の中に消えた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "「草むら」",
+          "text": "「ザー――」"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アンドレーソン",
+          "text": "ヒーン？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "メレル",
+          "text": "…あいつ、もう行った？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "カローン",
+          "text": "ああ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アンドレーソン",
+          "text": "ヒヒッ――ヒヒーン。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "少女は草むらから飛び出た。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "メレル",
+          "text": "なんでまだ生きてるって教えた！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "カローン",
+          "text": "言うなとは言われていないから。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "メレル",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "メレル",
+          "text": "…はぁ、まぁそうだけどさ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "亡者は頷いてみせると、ゆっくりとした動きで立ち去ろうとした。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "しかしアンドレーソンは鼻を鳴らし、カローンとメレルの間を円を描くように歩き回る。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アンドレーソン",
+          "text": "ブルッ！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "メレルは馬の頬を軽く撫でてやった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "メレル",
+          "text": "その…カローンさん？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "カローン",
+          "text": "ん？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "メレル",
+          "text": "実は…ここで墓守をするつもりなんてなくてさ…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "カローン",
+          "text": "死者に付き添いは必要ない。記念のために立てられた墓石にも、いつか朽ちる日が来る。最終的に、時間は我々を忘却の海へと連れて行く。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "カローン",
+          "text": "不朽の名に値するものなど、何もない。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "「逃亡兵」になった緊張感のせいか、若い少女はムズムズとした痒みを覚え、顔を覆う布を掻きむしった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "メレル",
+          "text": "もう、わかったよ、さっき言った墓守の冗談はナシ…これからどこに行けばいいのか、わからないって言いたかったんだ。財団以外に、助けてくれる人なんて知らないから。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "メレル",
+          "text": "だからって、マヌス・ヴェンデッタに捕まるのはもっとごめんだ。あいつら、南極で極悪非道なことばっかして…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "メレル",
+          "text": "あ、この時代より前の時代の南極でのことなんだけど…とにかく、私だけじゃあいつらにまったく太刀打ちできない。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アンドレーソン",
+          "text": "ヒーン…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "メレル",
+          "text": "でも、私にもできることはあるよ。厄介な魔精なら、簡単に始末できる。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "メレル",
+          "text": "だから…その、もし…助手が、必要なら…一緒にいかないか？　少なくとも、あんたは嘘をつかなそうだし…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "カローン",
+          "text": "僕は安全な場所になど行かない。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "メレル",
+          "text": "大丈夫！　危ない目に遭ったら、私は一人で逃げるから。その点は安心していいよ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "カローン",
+          "text": "…なら、ついて来るといい。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "カローン",
+          "text": "財団の監視区域を通りたくないのなら、遠回りをしないといけない。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "カローンは上着のポケットから、半分しかなかったチョコレートを取り出した。肌身離さず持っていたにもかかわらず、それは少しも溶けていなかった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "カローン",
+          "text": "お腹がすいたら、言ってほしい。これを君に返そう。疲れたら、アンドレーソンに乗るといい。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "戦争から逃れた兵士は、嬉しそうに頷いた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "メレル",
+          "text": "…う、うん！"
+        },
+        {
+          "kind": "title_card",
+          "text": "幕僚長のオフィス"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "…『ストーム』改革法案の修正は、既に議題に上っているわ。委員会は間もなく次の協議を始める。その時は、あなたも出席することになるでしょう。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "ここ最近の出来事により、「タカ派」が発言力を高めたわ。彼らは、タイムキーパー小隊の権限と予算を増やすことに賛成しているの。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "準備を始めておいて、ヴェルティ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "…わかりました。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "財団職員と委員たちが廊下を慌ただしく行き交う。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "レディ・Zのオフィスを出たばかりのところで、またしても聞き覚えのある声が耳に入った。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "クレウス",
+          "text": "…タイムキーパー？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "わたしのことを待ってたの？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "クレウス",
+          "text": "いや、たまたまだ。俺のことを覚えてくれてたんだな、嬉しいよ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "もちろん。あなたの行動のおかげで、多くの兵士が救われたから。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "それにモンペの危機が去ったことにより、「ハト派」も「前線応急対策」の拡大決議に同意したからね。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "クレウス",
+          "text": "ほう…政治に関心があるとは、意外だな。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "…関心はないけど、多少は知ってるつもりだよ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "クレウスは政治の話題はどうでもいいとばかりに、さっさと話を切り上げた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "クレウス",
+          "text": "この前は慌ただしくて、ろくに喋れなかった。あれから、機会を見つけてまた話そうと思っていたんだが…ここじゃ落ち着いて話せないな。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "クレウス",
+          "text": "君にとって、価値ある情報を提供したいんだがな。財団について、それから…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "クレウス",
+          "text": "「ウルド」について。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "予想通りの反応を見て、男は嬉しそうに微笑みながら、一枚の封筒を差し出した。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "クレウス",
+          "text": "君からの連絡を待ってる。きっと、いい協力関係を築けるはずだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "…すみませんが、タイムキーパー。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "第一助手は慌てて駆け寄り、疑問と警戒が入り混じった視線で赤毛の男を見た。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "ミスター・クレウス、何かご用でしょうか？　必要であれば、お二人のために会議室を予約してきますが…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "クレウス",
+          "text": "いや、偶然会ったから、挨拶したまでだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "クレウス",
+          "text": "それじゃまたな、タイムキーパー、ミス・ソネット。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "男は軽く頷くと、踵を返してその場を去った。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "タイムキーパー、大丈夫ですか…？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "…何でもない。そっちこそ、慌ただしいね。何かあったの？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "第一助手は不安げな様子で通信機を取り出す。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "タイムキーパー、これを見てください。緊急メッセージです。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "連絡してきたのは…リーリャ？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "リーリャ",
+          "text": "この間言ってたソーム元帥直々の指揮ってやつで、東部戦線にきたんだが…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "リーリャ",
+          "text": "ヴェルティ、&%#…何を見つけたか当ててみ？　管轄外の…￥%&#…ゼノミリタリーの駐屯地だよ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "リーリャ",
+          "text": "あたし…￥%&#……これは&%…反乱軍だ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "リーリャ",
+          "text": "詳しいことは…$#@…至急折り返し連絡してくれ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "メッセージはノイズとともに終わった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "メッセージを受け取ってすぐ、ミス・リーリャに連絡を取ろうとしたのですが…通話が繋がらなく…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "メッセージの中でゼノミリタリーの反乱軍について言及していたので、おそらくは…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "…イゴールが？　とりあえず、リーリャの身に何か起きたのは間違いなさそうだね。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "ソネット、一緒にレディ・Zのオフィスに戻ろう。"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

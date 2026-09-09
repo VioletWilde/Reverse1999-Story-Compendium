@@ -1,6 +1,6 @@
 # The New Exodus
 
-- Chapter: Green Lake Nightmare (`12101`)
+- Chapter: A Nightmare at Green Lake (`12101`)
 - Episode: `1210116`
 
 > Subtitle: And so the Red Sea parted to reveal the land.

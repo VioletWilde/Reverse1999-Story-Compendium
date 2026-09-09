@@ -1,0 +1,809 @@
+{
+  "episode_id": 11309,
+  "chapter_id": 113,
+  "chapter_title": "他者的悲哀",
+  "display_label": "",
+  "title": "程序正義",
+  "subtitle": "還有什麼是比眼皮底下的工作更要緊的？",
+  "trails": [
+    {
+      "element_id": 1130901,
+      "owner_episode_id": 11309,
+      "trigger_episode_id": null,
+      "title": "不變的變化",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=11309",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "你的帽子下是什麼？"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "頭腦",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "所以沒有奇怪的東西貫穿了你的太陽穴。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "太好了，我可受不了第二個神經病。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "如果有根骨頭卡在你腦子裡，那你最好去看醫生。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "那你可得趁現在多炫耀炫耀。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "能以外貌為傲是年輕人的特權，到老了就只能炫耀腦子上的褶皺了。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "所以為了晚年著想，如果你腦子裡卡了根骨頭，就趕緊去看醫生。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "而不是覺得自己好得很還到處閒逛。"
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "那我早就死了",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "她也死了，然後又活了。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "不該死的人有很多，偏偏是她享有了特權。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "她還仗著這些特權為所欲為。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "我也很痛，膝蓋、腰椎、肩膀……不管下不下雨，每天都在痛。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "但我沒有因此獲得什麼足以隨心所欲，甚至超越死亡的力量。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "這樣一個只知道到處添亂的東西，偏偏得到了永恆……"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "世界真是完蛋了。"
+                }
+              ]
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "聽上去很痛",
+              "edge_label": "",
+              "branch": []
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "我的臉",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "101316",
+      "internal_title": "第十三章13-09",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "程序正義"
+        },
+        {
+          "kind": "title_card",
+          "text": "基金會辦公室"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "行動隊長Ⅰ",
+          "text": "——車隊失聯了？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "“剃刀”進入辦公室時恰好聽到了這一句壞消息，他面具下的眉頭皺起，看向室內。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "不少與他相識、留守總部的行動隊長都在房間裡，召集他們的無名者則站在辦公桌前。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“剃刀”",
+          "text": "啊，你們都在。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "行動隊長Ⅱ",
+          "text": "老兄，來這邊坐，我們才剛開始沒多久。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“剃刀”",
+          "text": "別在乎我，繼續吧——我想你說的車隊是支援第一防線學校的隊伍。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "無名者",
+          "text": "調度中心聯繫不上他們，暫時無法確認是車隊真的遭遇了危險，還是只是被這一次“暴雨”影響了通訊。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "行動隊長Ⅱ",
+          "text": "是否要另派一支隊伍去看看情況？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "無名者",
+          "text": "不，調度中心認為不能在“暴雨”前再向外部輸送武裝力量。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "添油戰術被否決。在座的行動隊長足夠資深，他們不會抗拒上級的決策。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“剃刀”",
+          "text": "我可以服從命令，可我仍然想瞭解調度中心做出這個判斷的理由。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "無名者",
+          "text": "繼續抽調人手外出只會削弱總部對局勢的掌控力，頻繁的人員調動也容易在這個時間點誘發恐慌。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "無名者",
+          "text": "調度中心認為等到“暴雨”結束之後再去探查情況更為穩妥。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "行動隊長Ⅱ",
+          "text": "所以，我們聚在這裡是為了什麼，無名者小姐？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "無名者",
+          "text": "你們的行動小隊會在“暴雨”結束之後立刻著手調查車隊和第一防線學校的情況，各位需要提前做好準備。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "無名者",
+          "text": "但是，在你們的行動開始之前，車隊失聯一事不允許告知比你們職級更低的行動隊員。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "無名者",
+          "text": "調度中心擔心你們小隊中的一些新成員會有衝動的舉動，尤其是一些……神秘學家。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“剃刀”",
+          "text": "在這個艱難的時局，人類和神秘學家需要學會並肩作戰。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“剃刀”",
+          "text": "我隊伍裡的新人如果知道這件事，確實會很麻煩。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "行動隊長Ⅰ",
+          "text": "奧斯本帶的隊伍不小，還配備了大量平衡傘，重塑之手要對付他們沒那麼容易。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "行動隊長Ⅰ",
+          "text": "也許等到“暴雨”結束之後，我們會發現他們已經成了第一防線學校的英雄。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "行動隊長Ⅱ",
+          "text": "對了，無名者小姐，你之前要我“照看”司辰小隊成員狀況。我勉強能說他們在自己的崗位上幹得不錯。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "行動隊長Ⅱ",
+          "text": "……不過這要排除一個總以為自己在公海上的海盜，她已經在籌畫帶著其他人逃離基金會了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "無名者",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "無名者",
+          "text": "“剃刀”，拜託你去按住星銻。你之前在愛琴海上為她提供過緊急救援，我想她對你也許不會那麼抗拒。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "無名者",
+          "text": "另外，這是給各個小隊的任務指示。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "無名者將指令文件分發給各個隊長。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "無名者",
+          "text": "希望各位隊長能按照調度中心的指示行動，現在你們可以去處理雨前最後的收尾工作了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "行動隊長們領命離去，無名者也準備跟隨眾人走出房間。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“剃刀”",
+          "text": "你要去哪裡，無名者小姐？"
+        },
+        {
+          "kind": "title_card",
+          "text": "基金會大門登記處"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "士兵Ⅰ",
+          "text": "難道我要把這些東西都丟到外面去嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一位身穿破舊軍裝的士兵擠到登記台前，他的身旁拖著一隻碩大的包裹。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "登記員",
+          "text": "——那還能怎麼辦？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "登記員",
+          "text": "先生，我想軍隊系統已經用非常明確的方式通知過你們，不允許攜帶超過20公斤的個人物品，除非它們是軍用裝備。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "登記員",
+          "text": "但很顯然你包裹裡的東西全都是毫無疑問的“個人物品”。我不想和你爭辯了，你知道你身後還有多少人嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "士兵Ⅰ",
+          "text": "你們這些坐辦公室的，什麼都不懂的是你們！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "士兵憤而指向前台桌面上的基金會標誌。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "士兵Ⅰ",
+          "text": "過去三個月，我都在前線為這個標誌和重塑之手拼命。現在你們對我就是這個態度？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "士兵Ⅰ",
+          "text": "這裡面是我要帶給我弟弟的東西，連長說我們在這裡簽完那什麼“合約”之後暫住一下就會離開，為什麼非要我現在把它們扔了？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "眼看一場新的衝突即將爆發，負責大門的基金會保全逐漸圍了上來。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "基金會保全",
+          "text": "請你保持冷靜，先生，把超過規定限額之外的物品交出來。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "基金會保全",
+          "text": "你身後還有很多人要進入基金會簽訂“軍事服務合約”，他們的時間也很寶貴。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "士兵Ⅰ",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "與他一同前來的另一名士兵走上前。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "士兵Ⅱ",
+          "text": "聽他的吧，亞瑟。你知道的，基金會的這些人和我們鎮上的辦事員沒有什麼區別。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "士兵Ⅱ",
+          "text": "他們躲在後方，什麼都不懂，只認定面前那些爬滿格子和小字的紙。你非要和這些人較勁就沒意思了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "在戰友的勸說下，士兵才終於決定扔下自己的隨身物品。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "士兵Ⅰ",
+          "text": "……哼。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "大廳另一端，一名女士見證了這一幕。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "另一人靠近她身旁。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "無名者",
+          "text": "你在這裡做什麼，槲寄生小姐？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "我只是……想來看看。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "通常會在這個時候匆匆趕回來的只有少數外派人員，這是我第一次看見這麼多軍人進入總部。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "他們換上基金會的制服，帶上用來作戰的武器，即將與自己的國家、時代還有親人訣別。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "無名者",
+          "text": "我們不應該在這裡談論這個話題，在這裡做登記的人大多不知道時代的“問題”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "過去幾個月裡，基金會的士兵一直在與重塑之手戰鬥，他們真的不會從敵人口中得知“暴雨”的存在嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "無名者",
+          "text": "不讓本時代的人獲知“暴雨”的存在是基金會的規定，這個規定與他們是否真的知情無關。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "無名者",
+          "text": "怎麼了？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "你的語氣……在諷刺嗎？你在指責基金會政策的荒謬？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "無名者",
+          "text": "我不會這麼說。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "……維爾汀和我說過你的事，我知道你曾經強迫自己成為其他人，為重塑之手做過自己難以接受的事。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "你為基金會付出了我無法想像的代價，我為你的過去感到惋惜。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "現在你回到了基金會，但你仍然說，你並不喜歡自己扮演的角色。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "那麼，你想成為的是什麼人？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "無名者",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "無名者",
+          "text": "我不知道我想扮演誰，或者說我還沒來得及去思考這件事。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "無名者",
+          "text": "基金會給我的只有新的工作，沒有新的角色。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "……你是來確認我和司辰小隊的其他人是否會做出出格舉動的嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "這次不會再發生過去那樣的事。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "無名者",
+          "text": "瞭解。我不會再擔心這件事了，感謝你信任基金會的決策。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "我不信任基金會，這一點至今也沒有改變。我很難勸說自己相信基金會能帶來真正的秩序與和平。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "無名者",
+          "text": "我不建議你對我說這些話，槲寄生女士。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "韋耶豪瑟女士沒有接納這份建言。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "讓一無所知的人進入基金會，之後依靠一場“暴雨”將他們和過去的一切切斷，從此只能為基金會所用。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "如同植物被斬斷根須，讓樹木成為“木材”……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "我留在基金會，是因為維爾汀邀請我，而我選擇加入她的事業。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "我不會因自己的選擇而猶疑，但有多少人能理解自己在不知情的情況下做出的犧牲？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "那些不願意被脅迫的人，會不會渴望在世界上的其他地方另尋庇護之處？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "無名者",
+          "text": "你想說人們會投向重塑之手……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "還有獅鷲軍，或是我們不一定知曉其存在的庇護所，如同曾經阿派朗學派的小島。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "當庇護不再是一項獨一無二的特權，基金會一貫的做法還能維繫多久？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "無名者",
+          "text": "……全域警報？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "高亢的警報聲從四面八方響起。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "這一陣音調與節奏的組合太過罕見，以至於大多數人都無法第一時間做出反應。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "登記員",
+          "text": "這——又出什麼問題了？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "士兵Ⅰ",
+          "text": "炮擊？還是防空警報？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "調査員Ⅱ",
+          "text": "所有人，保持秩序，等待廣播做進一步解釋。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "是“暴雨”引發的異常？還是除了第一防線學校，還有其他地方遭到襲擊？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "無名者",
+          "text": "不，這是……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "情報人員面色蒼白地轉向身後委員會大樓的方向。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "無名者",
+          "text": "這是基金會總部內發生嚴重危機的警報。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "無名者",
+          "text": "槲寄生小姐，請你立刻與司辰小隊匯合，根據應急廣播的指示尋找安全地點。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她飛快地離開了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "所有人員注意，基金會正遭遇敵對力量攻擊，應急避險程序已啟動。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "廣播",
+          "text": "請所有人遵循現場最高職級人員的指示，就近前往避險設施，並等待下一步指示。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "廣播",
+          "text": "本次應急避險程序不是演習。重複一次——基金會正遭遇敵對力量攻擊……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿爾卡納",
+          "text": "和我料想的一樣……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿爾卡納",
+          "text": "這座不苟言笑的白色堡壘，不歡迎不請自來的客人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿爾卡納",
+          "text": "可我不喜歡被拒之門外的感覺。"
+        },
+        {
+          "kind": "title_card",
+          "text": "基金會南翼花園"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "火渡船",
+          "text": "力氣真大。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "紺紫腕",
+          "text": "看起來他們被嚇壞了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "紺紫腕",
+          "text": "唉，我原本不想採用這種方式的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿爾卡納",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "火渡船",
+          "text": "……引導之人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "在場的追隨者們見證他們的神明緩緩走入委員會大樓。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "平",
+          "text": "去第一防線學校的基金會車隊怎麼樣了？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "格魯托夫",
+          "text": "他們不會回援了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "平",
+          "text": "很好，那我們不用浪費時間了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "格魯托夫",
+          "text": "呵……但願你的刀真的能起到作用。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "格魯托夫將視線從紋路扭曲的蟹殼上移走，別過頭去面對自己的軍隊。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "格魯托夫",
+          "text": "各突擊小組，快速進入委員會大樓，封鎖所有出口，消滅任何有抵抗意圖的敵人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "格魯托夫",
+          "text": "我們要在今天摧毀這座裝滿虛偽和傲慢的高塔！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "重塑士兵Ⅰ",
+          "text": "——是！"
+        },
+        {
+          "kind": "title_card",
+          "text": "基金會走廊"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "基金會職員Ⅰ",
+          "text": "快、快跑……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "基金會職員Ⅱ",
+          "text": "重塑之手——我看到他們了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "無名者",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "白色的影子從她身邊擦過，最初的槍彈與術法交鋒的聲音已經響徹擁擠的走廊。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "耳旁的腳步聲越來越稀疏。該走了。她不該繼續逆著人潮向前了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "是你……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿爾卡納",
+          "text": "無名者循聲抬起頭。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿爾卡納",
+          "text": "……格蕾絲，被人類牢籠囚禁的飛蛾。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "無名者",
+          "text": "阿爾卡納，不，這怎麼可能……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿爾卡納",
+          "text": "不必緊張，我來拜訪基金會只是想帶走一個答案。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿爾卡納",
+          "text": "我很喜歡你的名字，也記得你的奉獻，可惜你沒有選擇留在我身邊。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿爾卡納",
+          "text": "靠近些，我要送你一份遲來的送別禮。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "無名者",
+          "text": "——！"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

@@ -1,6 +1,6 @@
 # The Good News
 
-- Chapter: Tender is the Night (`102`)
+- Chapter: Tender Is the Night (`102`)
 - Episode: `10207`
 
 > Subtitle: This is an opportunity for the intrepid! An epic adventure and an unprecedented gamble!

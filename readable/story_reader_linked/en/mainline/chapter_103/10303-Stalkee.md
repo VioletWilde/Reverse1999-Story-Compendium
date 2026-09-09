@@ -1,6 +1,6 @@
 # Stalkee
 
-- Chapter: Nouvelles et Textes pour rien (`103`)
+- Chapter: Nouvelles et Textes pour Rien (`103`)
 - Episode: `10303`
 
 > Subtitle: It is immoral to stalk others, and we all know that.

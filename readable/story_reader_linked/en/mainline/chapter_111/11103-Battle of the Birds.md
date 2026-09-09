@@ -1,6 +1,6 @@
 # Battle of the Birds
 
-- Chapter: 行于漫漫长路上 (`111`)
+- Chapter: A Long Long Way (`111`)
 - Episode: `11103`
 
 > Subtitle: Those who claim the pen is mightier than the sword rarely seem to live by their words.

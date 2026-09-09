@@ -1,6 +1,6 @@
 # Old Boots
 
-- Chapter: 行于漫漫长路上 (`111`)
+- Chapter: A Long Long Way (`111`)
 - Episode: `11102`
 
 > Subtitle: They once belonged to an unfortunate soul, but perhaps they will grant you better luck.

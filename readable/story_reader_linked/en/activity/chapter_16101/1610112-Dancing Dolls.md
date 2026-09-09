@@ -1,6 +1,6 @@
 # Dancing Dolls
 
-- Chapter: Notes on Shuòrì (`16101`)
+- Chapter: Notes on Shuori (`16101`)
 - Episode: `1610112`
 
 > Subtitle: Down the first cup, then the second, and the third. Don't stop drinking!

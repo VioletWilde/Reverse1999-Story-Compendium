@@ -1,6 +1,6 @@
 # A False Dawn
 
-- Chapter: 行于漫漫长路上 (`111`)
+- Chapter: A Long Long Way (`111`)
 - Episode: `11119`
 
 > Subtitle: Only the dead have seen the end of war.

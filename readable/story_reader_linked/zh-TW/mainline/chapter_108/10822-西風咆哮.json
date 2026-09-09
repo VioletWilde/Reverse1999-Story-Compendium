@@ -1,0 +1,477 @@
+{
+  "episode_id": 10822,
+  "chapter_id": 108,
+  "chapter_title": "憂鬱的熱帶",
+  "display_label": "",
+  "title": "西風咆哮",
+  "subtitle": "夏天從這兒結束，冰海從這兒開始。",
+  "trails": [
+    {
+      "element_id": 1082201,
+      "owner_episode_id": 10822,
+      "trigger_episode_id": null,
+      "title": "遠見與籌畫",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=10822",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "我有一些你聽了會高興的情報。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "我給你一分鐘。",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "你會希望這一分鐘夠長的。因為這情報涉及我們都熟悉的一位朋友，一位你一直在尋找的故人。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "那位醫生，那位作家。她有很多個好名字，就像你，就像我。遺憾的是，她腦子裡留存的東西可不算多。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "正如那場戰役之後，只有少數倖存者記得她的厲害手段。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "如今，那位心地善良的好醫生又成了陰謀中的一個必要部分，老將軍對此心知肚明。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "他又知道了？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "失去指揮家的管弦樂隊雖不至於崩斷了弦，但確實演不出像樣的交響樂了。老將軍抓住了這點，他知道對方現在急需什麼。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "經驗除了帶來傷疤，還饋贈一指甲蓋大小的智慧。在這場單方面的豪賭中，他率先抓住了最大的籌碼。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "我不知道，這份報告裡沒有寫。但我有一個推測。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "那些熱衷於搗亂的傢伙充其量只是在四處撒下混亂的種子，再順手給炸藥的引線煽把風，但他們都未曾懷疑過炸藥的當量和排布。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "現在，他們或許意識到了這是不可控的變數，光有爆炸不能解決問題。所以他們得另想辦法——即使會是一場長久而艱難的遷移性工程。"
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "說下去",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "一分鐘到了，我該走了，時間真是過得特別快，一如既往。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "我會在有進一步報告時回來，希望你能活得長久一點，這樣我們還能相處很長一段時間。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "什麼陰謀？",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1082202,
+      "owner_episode_id": 10822,
+      "trigger_episode_id": null,
+      "title": "往日的分徑-德洛斯醫生",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=10822",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一台造型奇異的打字機，也是這位醫生同命運對抗時，手邊僅有的武器。"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100835",
+      "internal_title": "第八章8-22",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "西風咆哮"
+        },
+        {
+          "kind": "title_card",
+          "text": "西風海崖"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "您做出了正確的選擇。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "我們都為了祂的指引而來，傳道者。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "很遺憾，那個魅魔沒能帶過來。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "但我想，你會需要這個，還有兀爾德女士。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "傳道者·蘇菲亞",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "傳道者·蘇菲亞",
+          "text": "不，將軍，不是“你”，而是……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "傳道者·蘇菲亞",
+          "text": "我們。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "傳道者·蘇菲亞",
+          "text": "我們都需要祂降下的奇跡。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "我的部下不會戴上那面具。他們也不會接受試煉。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "不需要用試煉來試探我麾下孩子們的忠誠，傳道者。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "兀爾德女士暫時由我保護。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "傳道者·蘇菲亞",
+          "text": "如您所願。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "傳道者對老將軍提出的要求一一承應。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "無妨，都無妨。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她遠眺南方。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "傳道者·蘇菲亞",
+          "text": "下次見，將軍。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "傳道者接過復甦之母留在世上的痕跡，與將軍道別離開。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德爾",
+          "text": "父親……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德爾",
+          "text": "我對洛佩拉開槍了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "開槍是一回事，但子彈射向了心臟還是大地，又是另一回事。但對老將軍來說，這都不重要。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德爾",
+          "text": "坦白說，對您的選擇，至少從個人層面講，父親，我並不完全認同。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "你可以保留意見，也可以不認同，中尉，我需要的不是這些。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德爾",
+          "text": "而是服從。我明白，父親。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "沒錯。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德爾",
+          "text": "您一開始就認為洛佩拉不會跟我們走嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "那孩子無關緊要。她解決了自己惹出的麻煩，從兄弟會的鬧劇裡帶回了兀爾德，這就夠了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德爾",
+          "text": "但兄弟會……恕我直言，將軍。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德爾",
+          "text": "我聽說他們也和重塑之手……的“朋友”有聯繫。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她很難說服自己改變稱呼，將昔日與之對抗的敵人稱作“朋友”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "變節是難以洗刷的恥辱。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "我原本以為你會和她做出同樣的選擇。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德爾",
+          "text": "不，我會追隨您，父親。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "隨她去吧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "落單的海鳥滑過晴空，鳴叫著，朝溫暖的北方飛去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "老將軍拍拍女兒肩上的軍徽。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "帶德洛絲醫生過來。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德爾",
+          "text": "父親。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "副官女士帶來盲眼醫生，隨後沉默地離開海崖。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "德洛絲醫生",
+          "text": "我不認識您。您認錯人了，將軍。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "不，我不可能會認錯你。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "老朋友。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "在千禧年到來前的最後那幾天，我們曾並肩作戰。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "往事從老人鏽跡斑斑的記憶殿堂裡湧出。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "長遠來看，那或許是一次錯誤的行動。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "“暴雨”到來，留下混亂的時代與失去父親的孤兒們。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "我們失去了未來。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "將軍從不為犧牲動容，因為一切乃是為了勝利與更宏大的目標所必不可少的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "但現在，或許可以走上另一條路，一條我們曾經拼盡一切反對的道路。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "阿爾卡納指引的道路——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "一條，讓世界不再有紛爭的道路。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "我的老朋友。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "很遺憾，這些話語中的哪怕是支離破碎的半點資訊她都無法理解。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她只是無國界醫生德洛絲。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "基金會送給你的那張白色大理石凳上有什麼秘密？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "那個按鈕按下後，你又感受到了什麼？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "德洛絲醫生",
+          "text": "什麼也沒有。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "你還記得，曾經走進一間白色房子後發生的事情嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "德洛絲醫生",
+          "text": "抱歉，將軍，我對此一無所知。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她有些倔強，但卻願意以誠實回應老將軍的誠實。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "老將軍嘆了口氣，隨即抽出大衣裡的一疊雜誌——儘管他本人並非《UTTU》的讀者，也對此毫無興趣。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "敬愛的兀爾德女士。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "你的名字穿過了一場又一場雨幕。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "但我始終不知道你究竟遇到了什麼，又經歷過什麼。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "——但你的存在，即將改變我們所有人的命運。"
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

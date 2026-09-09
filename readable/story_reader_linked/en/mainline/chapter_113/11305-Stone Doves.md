@@ -1,6 +1,6 @@
 # Stone Doves
 
-- Chapter: 他者的悲哀 (`113`)
+- Chapter: On Another's Sorrow (`113`)
 - Episode: `11305`
 
 > Subtitle: It seems they could stand there in silence forever.

@@ -1,0 +1,474 @@
+{
+  "episode_id": 1810117,
+  "chapter_id": 18101,
+  "chapter_title": "さらば、ライヤシュキ",
+  "display_label": "",
+  "title": "雪と、それ以外",
+  "subtitle": "長い旅路は、まだ半分にすら達していない。それでも、われらは進み続ける。",
+  "trails": [
+    {
+      "element_id": 1811701,
+      "owner_episode_id": 1810117,
+      "trigger_episode_id": null,
+      "title": "いつものように",
+      "description": "いつものように",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=1810117 and ChapterMapElement=1811605",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "エレナ",
+          "text": "疑ったことなんてないよ！　凍った大地を掘るなり、なんなりして…ここで暮らしていけるように、方法を考えればいいじゃん！　北風だってみんなで飲んできたんだ、これ以上あたしたちに何ができないっていうのさ？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "エレナ",
+          "text": "ゼノミリタリーの人たちがこれが規則だって…こうしろあーしろなんて言ってきても、あたしは無理だね。あたしたちはこの部品みたいに、綺麗さっぱり仕上がってるんだ。もうこれ以上はどうにもならないよ！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "エレナ",
+          "text": "そう、あたしたちは自分たちだけで生活していけるんだから、他の誰かの指図は必要ないんだ…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "エレナ",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "エレナ",
+          "text": "正直言って争いになったら、あたしはレンチとペンチしか使えないけど…それでも、身の回りにある全てを使ってでも抵抗してみせるよ。なんだって武器にできるんだから、あたしはなにもこわくない。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "エレナ",
+          "text": "ま、子どもたちは、外を見てきた方がいいけどね。あたしが友人とこの町に来たのも、若気の至りだったんだし。あの時は、部品を磨いたり鉱石を拾うなんて一度もしたことがなかったのに…それが今じゃ町でも五本指には入る達人になってるんだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "エレナ",
+          "text": "あたしたちは贅沢をするためにライヤシュキに来たわけじゃない。あの人たちは、なにもわかってないよ。"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1811702,
+      "owner_episode_id": 1810117,
+      "trigger_episode_id": null,
+      "title": "無法地帯",
+      "description": "人々が去った後、ここに新しい住人が引っ越してきた。彼らは交流が好きじゃないようだ。",
+      "action": "",
+      "unlock_condition": "ChapterMapElement=1811701",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "200827",
+      "internal_title": "【1.8】再见，来亚什基-17",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "ライヤシュキ・新しい採掘場"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "支えをなくした地脈エネルギーは再び大地に帰った。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "大地の凹凸も、まるで新しい油絵の底色が広げられたかのように、なだらかになっていた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "クヌート",
+          "text": "みんな、気を取り直そう。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "クヌート",
+          "text": "全てはライヤシュキのためだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴィラ",
+          "text": "私たちの願いは同じ、ですよね？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴィラ",
+          "text": "…より多くの人たちのため。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "彼女は静かな崖を眺めた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "作業員Ⅰ",
+          "text": "報告する。櫓は清掃完了、探査準備ができたよ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "クヌート",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "彼は足元の土地を力強く踏みしめた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "クヌート",
+          "text": "そうだ！　俺たちは前へ、前へ…バカみたいに前へ進み続ける！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "クヌート",
+          "text": "ユーリ、スイッチオンだ！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "作業員Ⅱ",
+          "text": "おうっ――！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "朗々とした掛け声が響き、巨大なリグがゆっくりと鉱坑の奥深くを掘っていく。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "鋼鉄の巨獣が出す震動音が、再び周囲を覆う。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "悲しみや、鬱憤、全ての想いを覆い隠した。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "子どもたちは崖にきていた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "アヴグストはしゃがみ込み、永遠の眠りについた勇敢な戦士に布団を被せる。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アヴグスト",
+          "text": "このひまわりをあげる…ぼくの一番仲がいい親友なんだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アヴグスト",
+          "text": "きっと、きみの…二人目の親友になってくれるよ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ピョートル",
+          "text": "俺もあなたみたいな大英雄になってみせる。これは…漢の約束だ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アヴグスト",
+          "text": "羽毛が濡れたの？　ピョートル。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ピョートル",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アヴグスト",
+          "text": "スヴィスティはじめじめしてる…大きくなった子どもも、泣いたりするの？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "スヴィスティ",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "スヴィスティ",
+          "text": "私の準備が足りなかった…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "スヴィスティ",
+          "text": "地脈エネルギーの異常な波動も、魔精たちをおびき寄せていたことにも気づけなかった…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "スヴィスティ",
+          "text": "全て、理論から外れていた…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "独り悔いていると、誰かが背中をそっと叩いた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴィラ",
+          "text": "少なくとも、理線学は貴重な経験を収穫できたでしょう？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴィラ",
+          "text": "この経験を糧にして、理線学をもっと発展させましょう…きっと未来でたくさんの人の役に立ちます。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴィラ",
+          "text": "それが…亡くなった人たちのためにも、なるはずですから。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "スヴィスティ",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "「ゴォーッ――！」"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "作業員Ⅰ",
+          "text": "掘り当てた！　新しい石を掘り当てたよ！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "山積みになった重い鉱石の中から、真っ黒な鉱石が出てきた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "それは即座に無数の手を渡る――"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "まるで祝賀花火のような、新世界からの挨拶のような存在だ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "クヌート",
+          "text": "石炭――！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "クヌート",
+          "text": "石炭だ！　本当に新しい資源を採掘したぞ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "パトリッキ",
+          "text": "よし、今晩のディナーは石炭を燃料に使おう。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "町の住民Ⅱ",
+          "text": "きっと人生で一番美味い飯になるな！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "パトリッキ",
+          "text": "褒め言葉に聞こえないぞ、ニキータ同志――！\nまるで、俺の料理に不満があるような…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "町の住民Ⅰ",
+          "text": "あっはっは〜"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "クヌート",
+          "text": "不眠不休で数百年採掘できるくらいの量がありそうだな！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "スヴィスティ",
+          "text": "…今日、理線学は初めて実証を完了できた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴィラ",
+          "text": "理線学は、もっと公正な評価を受けるべきです。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "スヴィスティ",
+          "text": "ありがとう、ミス・ヴィラ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴィラ",
+          "text": "お礼はみんなに伝えましょう。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "スヴィスティ",
+          "text": "そうだな。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "歓声が人の群れと果てしない凍土を越え、遠く遠くへ響き渡る。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "やがて静寂が続く崖の間でこだました。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "スヴィスティ",
+          "text": "この勝利は、みんなのものだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "喜びが町に満ちる。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "――招かれざる客たちをのぞいて。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ベルトルト",
+          "text": "ごきげんよう、ミス・スヴィスティ。また会えて嬉しいですよ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "スヴィスティ",
+          "text": "そうか？　全くそんな風には見えないが。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ベルトルト",
+          "text": "ふふ…ここにいる皆さんを見くびっていたと、認めざるを得ません。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ベルトルト",
+          "text": "もちろんあなたのこともです、ミス・スヴィスティ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ベルトルト",
+          "text": "地下の奥深くに埋まっていた石炭を見つけ、この町の大英雄となり…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "スヴィスティ",
+          "text": "ついでに、ゼノミリタリーの計画も潰したって？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ベルトルト",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "雄弁な野良学者は、もう弱さをみせなかった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ベルトルト",
+          "text": "任務は完了したので、もうすぐこの町から出ます。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ベルトルト",
+          "text": "あなたとは意見が違いますが、ゼノミリタリーは次回の提携に期待を寄せています――より平和な形で、ね。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "そう言いながら彼は手を差し出した。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "スヴィスティ",
+          "text": "だといいが。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "スヴィスティ",
+          "text": "また無所属の野良学者に、無茶な行動はされたくないだろうからな。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "ベルトルトの手は、気まずそうに宙で止まっていた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ベルトルト",
+          "text": "さようなら、ミス・スヴィスティ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "スヴィスティ",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "スヴィスティ",
+          "text": "待ってくれ――！　最後に一つだけ質問がある！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ベルトルト",
+          "text": "どうぞ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "スヴィスティ",
+          "text": "ゼノミリタリーは数ヶ月前、この周辺でホイトゥクの痕跡を確認したはずだ。そして極秘裏に始末した…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "スヴィスティ",
+          "text": "ここに大量の石炭があることを、とうの昔に知っていたのか――！？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ベルトルト",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "相手は肩を上下させたあと、何も言わず去っていった。"
+        },
+        {
+          "kind": "title_card",
+          "text": "8#1"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

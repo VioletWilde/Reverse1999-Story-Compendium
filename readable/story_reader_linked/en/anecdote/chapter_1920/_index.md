@@ -1,4 +1,4 @@
-# Anecdotes · The  Best Band in Town
+# Anecdotes · The Best Band in Town
 
 - [192001 On the Road](192001-On the Road.md) — Travel safe, and remember to hydrate.
 - [192002 Fool's Gold](192002-Fool's Gold.md) — Gold? No, there's none of that stuff here!

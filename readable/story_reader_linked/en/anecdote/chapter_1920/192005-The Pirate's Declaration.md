@@ -1,6 +1,6 @@
 # The Pirate's Declaration
 
-- Chapter: The  Best Band in Town (`1920`)
+- Chapter: The Best Band in Town (`1920`)
 - Episode: `192005`
 
 > Subtitle: From now on, I call the shots here!

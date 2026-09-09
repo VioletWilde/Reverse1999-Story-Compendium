@@ -1,6 +1,6 @@
 # The Negotiators and the Judge
 
-- Chapter: 远征记 (`112`)
+- Chapter: The Campaign's Tale (`112`)
 - Episode: `11208`
 
 > Subtitle: It is simple to denounce the evildoer, and far more difficult to understand them.

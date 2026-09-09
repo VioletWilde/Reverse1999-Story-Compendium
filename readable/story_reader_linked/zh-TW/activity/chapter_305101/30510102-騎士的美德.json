@@ -1,0 +1,783 @@
+{
+  "episode_id": 30510102,
+  "chapter_id": 305101,
+  "chapter_title": "翡冷翠之春",
+  "display_label": "",
+  "title": "騎士的美德",
+  "subtitle": "它是特洛伊人的，菲耶索萊人的，羅馬人的。",
+  "trails": [
+    {
+      "element_id": 30510102,
+      "owner_episode_id": 30510102,
+      "trigger_episode_id": null,
+      "title": "可靠的朋友",
+      "description": "有這麼一位朋友能省去不少事。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=30510102",
+      "content_hints": [
+        "fragment",
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "一封無頭無尾的信"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "實驗沒有什麼進展，我轉而重新研究了密文，但應該沒有別的解法。光線！壁畫的異變一定與光線有關，我打算重新設計實驗。能搜集到那些壁畫的詳細情報嗎？位置、內容、數量，什麼都行，我需要一點新思路。\n另外，我有個很糟糕的發現，想讓我來解開這個謎團的人可能不止你一個。我打算近幾日前往佛羅倫斯，就在剛剛，我好不容易才躲過了那群聖殿暴徒，那太——（紙面上留下了一道劃痕，字跡中斷了）"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 30510103,
+      "owner_episode_id": 30510102,
+      "trigger_episode_id": null,
+      "title": "稀有蘋果",
+      "description": "之前可沒聽說佛羅倫斯還盛產蘋果。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=30510102",
+      "content_hints": [
+        "fragment",
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "“金蘋果”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "埃齊歐：\n我們依然缺乏有關“金蘋果”的準確情報，也無法判斷它與伊甸蘋果的關聯。現在鬧得沸沸揚揚的傳聞中，它與“晚禱會”的密室有關，這勢必會引來更多的關注。\n值得一提的是，在近幾次的追蹤中，我們數次聽到了那顆蘋果發出的鼾聲。這讓人難以置信，但那顆蘋果似乎在像人一樣沉睡。幾年的時間，會讓伊甸蘋果學會睡覺並打鼾嗎？我對此保持懷疑。\n另外，李奧納多的處境恐怕不太妙，他在米蘭的住所已經人去樓空。一旦有他的消息，我將第一時間聯繫你。\n\n尼可洛·馬基維利"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "2030503",
+      "internal_title": "【S01】翡冷翠之春02.1",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "圓呀圓呀像蘋果，一人一口莫要爭。\n夕光亮，鬼影笑，密室開無聲！"
+        },
+        {
+          "kind": "title_card",
+          "text": "佛羅倫斯·街頭"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "孩子們似乎都在唱這首歌，有什麼故事嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "書商",
+          "text": "看你這身打扮，應該是遠方來的旅人吧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "……是的，先生。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "書商",
+          "text": "那我可要給你好好講講了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "來自遠東的書商清了清嗓子。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "書商",
+          "text": "詩人曾說，佛羅倫斯是羅馬美麗而著名的女兒～"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "書商",
+          "text": "於是旅人們都來這裡追尋古羅馬的遺跡。露天劇場、戰神塑像，甚至被改作監獄的地下墓穴……每一處發現都價值連城！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他湊近了些，神秘地壓低了聲音。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "書商",
+          "text": "而現在，大家有了新的目標……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "金蘋果？這一路上我聽到了許多有關它的傳言。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "書商",
+          "text": "沒錯！看來你也不是一無所知。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "書商",
+          "text": "自從被發現可以和一些濕壁畫發生反應後，有關這顆蘋果的紛爭便從未停止。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "書商",
+          "text": "而這一切，都源於一個叫“晚禱會”的異教組織。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "晚禱會……很特別的名字。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "書商",
+          "text": "哦，因為它的成員總是在黃昏時分，大家前往教堂做晚禱的時候集會。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "書商",
+          "text": "而他們集會的地方，就位於大教堂穹頂內的一處密室。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "書商指了指不遠處磚紅色的圓形穹頂。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "聖母百花大教堂，又被當地人親切地稱為“大教堂”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她坐落在城市的心臟地帶，凝望著下方的磚瓦城池，彷彿一位緘默的古老守衛。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "書商",
+          "text": "他們在密室中舉行邪惡的祭祀儀式，在牆上繪製可怖的景象，同時也留下了無數珍寶遺物……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "書商又湊近了些，用力比了個手勢。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "書商",
+          "text": "你知道那些遺物價值幾何嗎？這個數！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "嗯？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "書商",
+          "text": "嘖。算了，這不重要。你只需要知道它們非常值錢。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "書商",
+          "text": "甚至還有傳言說，誰能得到它們，誰就能成為佛羅倫斯真正的主人！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "真正的主人？在這裡，光憑金錢就能買下一座城市的統治權嗎。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "書商摸了摸鬍鬚，呵呵一笑。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "書商",
+          "text": "不然你以為麥地奇是靠什麼統治的？在這片土地上，錢能買下藝術、軍隊甚至教皇的頭銜，當然也能買下一座城池！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "原來如此。密室和神秘的寶藏……像是常見的傳說故事。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "書商",
+          "text": "常見的傳說故事？一派胡言！你聽過將密室開關隱藏在濕壁畫中的傳說嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "確實從未聽聞。將開關隱藏在濕壁畫裡……我明白了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "這樣，能改變濕壁畫的金蘋果就成了那把能找到開關的唯一鑰匙。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "書商",
+          "text": "真是聰明伶俐的女士！我猜你和其他人一樣，也是尋寶者吧？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "……你可以這樣理解。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "書商",
+          "text": "那你可算給自己找了個大難題。大教堂的面積可不小，要想找到密室，必須得仔細研究晚禱會在濕壁畫中留下的蛛絲馬跡。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "聽上去是個大工程。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "書商的眼睛頓時亮了起來。他“嗖”地掏出一本精緻的手抄本。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "書商",
+          "text": "你需要書籍的力量！我曾僱用一批畫匠搜羅了近期發生異象的濕壁畫，並將它們都臨摹下來。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "書商",
+          "text": "絲綢封皮，蛋彩插畫，內頁點綴金箔，還附贈但丁詩歌！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "書商",
+          "text": "借助它的力量，你將成為佛羅倫斯首屈一指的尋寶者！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "我有一個問題。如果你已經掌握了這麼多線索，為什麼不親自去尋找密室？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "這應該是成為佛羅倫斯僭主的好機會。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "書商",
+          "text": "咳咳……我可沒有女士您這樣靈光的頭腦，這本書對我來說只是一堆廢紙。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "書商一手捂住胸口，一手高高舉起手抄本。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "書商",
+          "text": "總而言之，原價10個弗羅林，但你是今天第8位光顧這家書攤的客人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "書商",
+          "text": "在佛羅倫斯，8是個幸運數字，象徵從死亡到生命的永恆轉化！我們的洗禮堂和大教堂穹頂都是八邊形結構……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "書商",
+          "text": "因此我決定給你一點小小的優惠，只要5個弗羅林！放心吧，你在佛羅倫斯不可能找到比它記錄更完整的手抄本！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "……抱歉，我身上一分錢都沒有。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "空氣瞬間凝固。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "書商狠狠放下手抄本。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "書商",
+          "text": "女士，你在佛羅倫斯轉悠了這麼久，身上竟然一分錢都沒有？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "書商",
+          "text": "那你待在我的書攤前面拖拖拉拉做什麼？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "我聽說那個金蘋果不僅會說話，還能飄浮在半空中……它或許和我一位走失的朋友有關。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "你需要任何別的説明嗎？或許我可以為你解決一些神秘學相關的困擾。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "——並且不收取報酬。作為交換……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "話語稍作停留，眼神直白地落在那本裝幀精美的手抄本上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "書商望著眼前這位穿著怪異、身形瘦弱的女士，確信自己遭到了嚴重的羞辱。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "書商",
+          "text": "滾出我的書攤——！！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "李奧納多",
+          "text": "晚禱會、密室……事情大致就是這樣。這下你一定明白了吧！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "哦，這……可是……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "紛繁的資訊驟然湧入大腦，語言中樞難免顯得忙亂。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "聖殿騎士長官",
+          "text": "後來你幾經人手，領主宮、聖馬可修道院、小偷公會……我們花了很大功夫才找到你。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "李奧納多",
+          "text": "還有我！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "鐵靴毫不留情地踹了過去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "聖殿騎士長官",
+          "text": "給我閉上你的嘴，蠢貨。從剛才起，就像蒼蠅一樣惹人煩……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "聖殿騎士長官",
+          "text": "接下來你們兩個只需要按照我的指示做，明白了嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "李奧納多的額角滲出血來。他苦笑著聳了聳肩。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "李奧納多",
+          "text": "咳咳……明白，長官。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "APPLe某有拒絕的空間嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "聖殿騎士長官",
+          "text": "你大可以試試看。現在你是整座城最熱門的焦點，所有勢力都會死咬著你不放。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "聖殿騎士長官",
+          "text": "沒有你喘息的餘地——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "聖殿騎士Ⅰ",
+          "text": "長官，有人……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "騎士話音未落便軟軟倒下，臉上泛起一層青綠色。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "聖殿騎士長官",
+          "text": "？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "聖殿騎士長官",
+          "text": "是淬了毒的飛刀……有刺客！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "聖殿騎士Ⅱ",
+          "text": "長官，快看天上！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一隻灰鷹低低徘徊在天際，發出刺耳長嘯。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "鷹竟然會在低空盤桓，真是奇怪。等等……這是做什麼？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "李奧納多一把抓起APPLe，興高采烈地踩著鷹投下的陰影向前跑去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "李奧納多",
+          "text": "還記得剛才我和你說過的朋友嗎！他來救我們了——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "李奧納多",
+          "text": "——埃齊歐！！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "刺客一躍而下，動作如閃電般迅猛、精準。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "泛著冷光的袖劍從兩側同時彈出，毫不留情地刺入左右兩人的胸膛。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "聖殿騎士Ⅱ",
+          "text": "是刺客……埃齊歐·奧迪托雷……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "話音未落，騎士便倒在了冰冷的石板路上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "血在空中散開，染紅了四周的空氣。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "埃齊歐",
+          "text": "刺客就站在這片血霧中，沒有表情，也沒有動作，彷彿這一切對他來說早已習以為常。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他看向眼前的屍體，微微低頭，像是在表達致意。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "埃齊歐",
+          "text": "死亡並非殘酷。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "埃齊歐",
+          "text": "安息吧。"
+        }
+      ]
+    },
+    {
+      "script_id": "2030504",
+      "internal_title": "【S01】翡冷翠之春02.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "援兵不斷湧入。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "聖殿騎士長官",
+          "text": "包圍他們！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "埃齊歐",
+          "text": "支援速度很快，他們的巢穴恐怕就在附近。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "埃齊歐",
+          "text": "我們必須趕緊離開。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "李奧納多指了指在混亂中顯得有些無所適從的APPLe。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "李奧納多",
+          "text": "埃齊歐，我們分頭行動！這是你一直在找的那顆蘋果，快帶他離開這裡。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "李奧納多",
+          "text": "你知道在哪裡可以找到我。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "埃齊歐",
+          "text": "沒問題，我的朋友。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "聖殿騎士Ⅲ",
+          "text": "那個解剖的跑了！快抓住他！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "李奧納多先生……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "埃齊歐",
+          "text": "放心吧，他是米蘭公爵的座上賓，他們不敢真的殺了他。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "埃齊歐",
+          "text": "快隨我離開。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "好吧……眼下似乎也沒有別的選擇，起碼您看上去對解剖蘋果不感興趣。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "蘋果輕巧地跳上埃齊歐的肩膀。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "刺客蹬地而起，靈活地攀上附近的一堵灰泥牆，隨後縱身一躍——"
+        },
+        {
+          "kind": "title_card",
+          "text": "佛羅倫斯·屋頂"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "聖殿騎士長官",
+          "text": "他們往領主宮的方向跑了，快追上去！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "埃齊歐",
+          "text": "如果你們能追上的話。蘋果先生，麻煩抓緊我的兜帽。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "沒問題……噢！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "刺客穿梭在鱗次櫛比的屋簷中，很快便將騎士們遠遠甩在身後。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "市民Ⅰ",
+          "text": "咦，那邊屋頂上似乎有什麼金色的東西閃了過去……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "市民Ⅱ",
+          "text": "金色的……好像是金蘋果？！別跑，等等我！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一個、兩個、三個……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "市民們也跟著跑了起來，佛羅倫斯的街道從未像今日一般熱鬧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "市民Ⅲ",
+          "text": "遺物是我的，別想跟我搶！！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "天哪，連追逐船長的警官都沒有多到這種程度！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "先生，如果可以的話，能請您稍微加快速度嗎？APPLe某感覺自己現在就像感恩節裡那隻人人眼紅的烤火雞！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "埃齊歐",
+          "text": "烤火雞……？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "埃齊歐",
+          "text": "沒用的，我們已經被包圍了。不過沒關係——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "埃齊歐仰頭望向領主宮巍峨的高塔。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "埃齊歐",
+          "text": "我們還可以爬。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "二十分鐘後"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "這下我想我們應該安全了？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "真是與眾不同的解題思路——只要爬得夠高，就能甩掉所有人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "刺客並未回答，而是警惕地環顧四周。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "埃齊歐",
+          "text": "還不能掉以輕心。為了對付刺客，聖殿騎士現在也是攀爬的好手了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "埃齊歐",
+          "text": "他們隨時都有可能出現在屋頂上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "哦！如果是這樣的話，我們可得仔細看看……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "太陽低垂，天空逐漸被晚霞吞沒。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "血紅與金黃在遙遠的地平線上融化，再流淌進這座古老的城市。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "就在他們腳下，無數層疊交錯的屋瓦匯成一片磚紅色的海洋，湧向城市的盡頭。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "埃齊歐靜靜坐著，像一隻風中失群的候鳥。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "喔……！真令人驚嘆。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "埃齊歐",
+          "text": "佛羅倫斯……時隔多年，我終於回來了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "就在不遠處，大教堂孤高地佇立著，身影在夕陽下模糊而莊嚴。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她所投下的陰影是一張巨大的風帆，足以覆蓋整座城市。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "那裡應該就是聖母百花大教堂吧。如你們所說，是“遺物”所在的地方？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "埃齊歐",
+          "text": "是的。我曾去過那裡的刺客墓穴，但這一次的遺物有所不同。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "埃齊歐凝望那道近乎完美的圓弧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "埃齊歐",
+          "text": "它們被深埋在她真正的心臟深處。"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

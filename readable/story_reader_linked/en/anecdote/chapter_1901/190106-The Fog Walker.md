@@ -1,6 +1,6 @@
 # The Fog Walker
 
-- Chapter: chapter_1901 (`1901`)
+- Chapter: The Story of Oliver (`1901`)
 - Episode: `190106`
 
 > Subtitle: Step into the fog and break free from your prison.

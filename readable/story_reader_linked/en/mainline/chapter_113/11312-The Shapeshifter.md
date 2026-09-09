@@ -1,6 +1,6 @@
 # The Shapeshifter
 
-- Chapter: 他者的悲哀 (`113`)
+- Chapter: On Another's Sorrow (`113`)
 - Episode: `11312`
 
 > Subtitle: What you learn in school isn't always useless—run into enough trouble, and you'll find a moment to put it to use.

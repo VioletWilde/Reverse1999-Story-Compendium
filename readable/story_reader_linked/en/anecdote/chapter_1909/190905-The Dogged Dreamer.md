@@ -1,6 +1,6 @@
 # The Dogged Dreamer
 
-- Chapter: To Wennifred (`1909`)
+- Chapter: To Winnifred (`1909`)
 - Episode: `190905`
 
 > Subtitle: We have taken in many patients who, after giving up their dreams, are now living quite well.

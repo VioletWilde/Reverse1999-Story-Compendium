@@ -1,6 +1,6 @@
 # An Ordinary Citizen
 
-- Chapter: 绿松石蛇俱乐部 (`35101`)
+- Chapter: The Turquoise Serpent Club (`35101`)
 - Episode: `3510115`
 
 > Subtitle: Walking through this mysterious city, she sometimes feels frightened and lost—and other times, lucky.

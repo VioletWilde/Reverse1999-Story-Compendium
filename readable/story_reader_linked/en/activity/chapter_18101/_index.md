@@ -18,4 +18,4 @@
 - [1810116 Marching March](1810116-Marching March.md) — An epic composition about the countless unimportant people.
 - [1810117 Snow, and the Others](1810117-Snow, and the Others.md) — We're not even halfway through this journey, but we will press on.
 - [1810118 Hello, Rayashki](1810118-Hello, Rayashki.md) — Everything is changing.
-- [1810119 To Descedants](1810119-To Descedants.md) — What we leave behind, and what you will remember.
+- [1810119 To Descendants](1810119-To Descendants.md) — What we leave behind, and what you will remember.

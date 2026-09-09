@@ -1,6 +1,6 @@
 # The Pardon
 
-- Chapter: 行于漫漫长路上 (`111`)
+- Chapter: A Long Long Way (`111`)
 - Episode: `11123`
 
 > Subtitle: Coffee, pastries, family, memories of simpler times, and an ominous chain.

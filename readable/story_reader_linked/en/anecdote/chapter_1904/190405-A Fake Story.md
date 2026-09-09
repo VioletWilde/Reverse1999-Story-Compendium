@@ -1,6 +1,6 @@
 # A Fake Story
 
-- Chapter: chapter_1904 (`1904`)
+- Chapter: After the Good Dream (`1904`)
 - Episode: `190405`
 
 > Subtitle: A beautiful dream is better than words of truth.

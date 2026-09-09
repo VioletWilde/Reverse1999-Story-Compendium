@@ -1,0 +1,765 @@
+{
+  "episode_id": 11112,
+  "chapter_id": 111,
+  "chapter_title": "行於漫漫長路上",
+  "display_label": "",
+  "title": "破碎的尖拱",
+  "subtitle": "傳說中，那些石像會在夜晚獲得生命。",
+  "trails": [
+    {
+      "element_id": 111012,
+      "owner_episode_id": 11112,
+      "trigger_episode_id": null,
+      "title": "研究者",
+      "description": "這些學者總是能有超乎你想像的毅力。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=11112",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "石像鬼研究手札"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "石像鬼家族起源於墨洛溫王朝時期，彼時的盧昂主教收服了第一隻石像鬼，於是那位石像鬼和他的後裔肩負起了世代拱衛教堂的職責，他們成為了一支特殊但虔誠的家族。到了近代，許多新生的石像鬼不願意再履行這個傳承千年的古老使命，而是選擇從清涼幽暗的教堂走向日新月異的世俗生活。就筆者這幾日在教堂中的走訪來看，這樣令長輩感到苦惱的小輩層出不窮。\n    *當然，新生一代的石像鬼出走家族，其中原因也包括他們發現近代的教會不再能提供足夠數量的口糧，這又再次涉及到了時代的變遷問題。本次的走訪結束之後，我應該結合歷史對這一原因進行更詳細的論述。\n\n    關於石像鬼家族的神秘術，首先，他們可以石化自身的器官，在刺刀與長矛的時代，這無疑是種族優異的證明。但在工業化火炮出現之後，石像鬼的這一神秘術已經無法令他們所向披靡。\n    其次，石像鬼們都有著極佳的視力，其中，他們的夜視能力尤為突出。他們的這一特性與他們擅長隱匿的特性相輔相成，既使他們更快地發現潛藏的危險，也使他們天生擅長伏擊和突襲。\n    *在火炮出現之前，我很難想像這樣的戰力竟然只用於拱衛教堂，但這或許是因為我對宗教毫無研究。\n   ·是的，你對宗教毫無研究，回去之後我得給你上上課。\n    *我不是很喜歡你私自看我的手札，但我必須說，相比起你的虔誠，我當然對宗教毫無興趣，我只是個純粹的生物學家。\n   ·誰允許你定義我不是個“純粹的生物學家”了？\n \n   石像鬼背負著詛咒，現下似乎無人願意解答詛咒的起源，但他們對詛咒的形式倒算不上諱莫如深：如果剝奪太多的生命，石像鬼會“墮落”，而墮落的表現，則是精神的不穩定、渴望剝奪甚至於拋棄信仰。\n    ·好了，純粹的生物學家，這下你真該來學習你完全不感興趣的命題了，誰讓你對石像鬼家族產生了興趣呢？\n    *我認為我應該先給自己的手札買把鎖。"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "101116",
+      "internal_title": "第十一章11-12",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "破碎的尖拱"
+        },
+        {
+          "kind": "title_card",
+          "text": "安全區·辦公室"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "佩德拉",
+          "text": "裝甲車？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "刻雷烏斯",
+          "text": "是。駕駛員是重塑之手的人，他們從軍隊裡竊取了裝備和資源。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "通訊另一頭沉吟片刻，接著，屬於“鷹派”黨魁的聲音從聽筒中傳出。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊里內伊",
+          "text": "——刻雷烏斯，你有什麼猜想？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "顯然，各派委員們正身處一室，共同聽取前線的彙報。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "刻雷烏斯無聲地發出輕笑，語調卻仍然保持著嚴肅。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "刻雷烏斯",
+          "text": "重塑之手也許組建了一支屬於自己的軍隊。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊里內伊",
+          "text": "我持相同看法。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊里內伊",
+          "text": "我們要為這種情況早做打算。芝諾主力目前仍在東邊，如果西線有變，他們短時間內無法增員。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊里內伊",
+          "text": "基金會應當在西線招募一支屬於自己的軍隊。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "佩德拉",
+          "text": "這不可能。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "穩重的聲音打斷了過於誇張的猜想。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "佩德拉",
+          "text": "——擴充軍隊會向外投射緊張情緒，不符合我們的和平政策。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "佩德拉",
+          "text": "而且，重塑之手只接受純血神秘學家，他們不可能真正擁有一支足以形成戰鬥力的軍隊。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "佩德拉",
+          "text": "神秘學家缺乏紀律和組織必備的理智，如果沒有人類領導，他們註定無法成為一支真正的軍隊。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊里內伊",
+          "text": "你忽視了阿爾卡納，佩德拉，你不知道祂會給信徒帶來怎樣的影響。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊里內伊",
+          "text": "基金會需要一支新的軍隊，儘早組織力量對重塑之手發動襲擊。這樣一來，也許我們還有先發制人的機會。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "佩德拉",
+          "text": "委員會絕不會同意如此不顧後果的策略——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊里內伊",
+          "text": "你根本看不清形勢，佩德拉——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "通訊器已經無法清晰地捕捉到兩派領袖的爭吵。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "刻雷烏斯在另一頭秉持著一貫順從的沉默。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "等待未久，調停人接管了通訊。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "我們不排除爆發大規模衝突的可能，但是，在沒有絕對可信的證據之前，委員會仍將維持原本的策略。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "刻雷烏斯",
+          "text": "如果更壞的情況發生了呢？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "康斯坦丁",
+          "text": "——整個時代都將化為戰場。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪麗安娜",
+          "text": "到了。"
+        },
+        {
+          "kind": "title_card",
+          "text": "石像鬼教堂"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "喔……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "神秘術的餘輝逐漸消散，一方寧靜的避難所出現在林間空地中。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "教堂的穹頂雖然已經倒塌，但雕飾繁複的主體外牆仍然屹立不倒。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "這座教堂……是本來就建造在這裡的嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪麗安娜",
+          "text": "嗯。石像鬼的神秘術在這片廢墟上能發揮很好的效果。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪麗安娜",
+          "text": "在“加爾都西”神秘術的保護下，教堂和石像鬼都不會被過路的人關注。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "石像鬼修士",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一位身穿修士長袍的石像鬼在草地上赤足行走，意識到訪客的到來後，他從書本中抬起頭。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "你好，我是基金會的調查員瑪爾紗。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "修士輕輕點頭，笑容柔和而友善。他伸出一根手指，壓在嘴唇上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "這是……某種緘默修行嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "“喀喀——”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "尚未得到回答，騎士又被另一側岩石碎裂的鏗鏘聲所吸引。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "……？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一扇破損的窄窗下，一座女性雕塑突然活動起來，石質的表面逐漸化為柔軟的皮膚。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一位滿面愁容的婦人出現在瑪爾紗眼前，她以誇張的步態向瑪麗安娜走去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "石像鬼婦人",
+          "text": "瑪麗，我的好侄女，你終於回來了！看看你都消瘦成什麼樣子了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她二話不說，就將瑪麗安娜死死摟在懷裡，又在她的面頰上留下一個深刻的吻。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪麗安娜",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "瑪麗安娜已經習慣了這份沉重的親族之愛，面不改色地接受了一切。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "石像鬼婦人",
+          "text": "這是你的朋友嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "婦人轉而看向瑪爾紗，眼角上更是聚了更多悲傷，幾乎要流下淚來。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "石像鬼婦人",
+          "text": "可憐……可憐的孩子！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她以無可抗拒的力量把騎士拉到自己身邊，照例給了她一個令人窒息的擁抱。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "唔——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一秒。兩秒。三秒——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "——她終於掙脫熱情的待客之道。瑪爾紗猛吸一口新鮮空氣，青草的芬芳浸透了她的肺腔。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "——呼……呵……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "石像鬼婦人",
+          "text": "你們一定還有事，可我從來都幫不上忙呢……瑪麗總是說我老啦。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "石像鬼婦人",
+          "text": "哎呀，我居然連一杯茶水都沒有準備，這像什麼話。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她急匆匆地走開了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪麗安娜",
+          "text": "……她是我姨媽，一年前自顧自地跑到這種危險的地方來，說這個家裡的人都不能離開她的照顧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪麗安娜",
+          "text": "剛才和你打招呼的修士，在去年受傷之後就和他的兄弟一起到這裡避難，卻不知為何發誓保持靜默。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她不解地搖了搖頭。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪麗安娜",
+          "text": "留在這裡的同族不算多。我還有一些家人分散在其他地方，也許只有在戰爭結束之後才有機會重聚。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪麗安娜",
+          "text": "……你可以在這等著，瑪德琳姨媽會給你端來茶水。我去拿你需要的東西。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "好，我就在這裡等著。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "等等……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她忽然想起來，自己身旁的雕塑也許都是活生生的石像鬼。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "意識到這一點後，不自在的感覺像螞蟻一樣爬上她的身體。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "……你們好？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她在原地轉了一圈，目光停留在一尊掩面哭泣的少女雕塑身上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "少女悲慘而哀慟的姿態與其他的雕塑截然不同，很長一段時間內，瑪爾紗的注意力都被她吸引。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "這是……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "為什麼瑪麗安娜會把你帶進來？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "身後傳來一聲幾乎有些無禮的提問。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "——？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一位清瘦高挑的修士出現在露天教堂的庭院中。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "你不是我們中的一員，卻把戰爭帶到這一片靜修之地。基金會又想達成怎樣的目的？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他的聲音如同卵石在沙地上摩挲，話語中的指責意味清晰可聞。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "我不會帶來爭鬥，我只是想幫助你們結束這場戰爭。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "戰爭不需要我們，也不需要你來結束。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "你說……什麼？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "男人先是沉默著，似乎在猶豫是否要開口解釋。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "隨後，他的五官繃成一幅過度揉捏的肖像畫。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "這場大戰是一次天罰，拋棄信仰的人必然要經受苦難方可獲得拯救——戰爭只會在文明徹底滅亡之日終結。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "難道……你希望看到人類和神秘學家走向滅亡？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "你在曲解我的觀念，我又何以憎惡世人——這些受苦受難的靈魂？不，我會為每一個受到傷害的人祈禱。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "我說的是“文明”。人們將在這場戰爭中嘗盡“文明”的苦果，而“文明”亦將傾覆其自身。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "工廠會被拆毀，以“進步”為名的奇談怪論會被拋棄，人們會離開如同索多瑪一般罪惡的都市。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "——我們要回到一個純潔而樸實的昨日世界。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪麗安娜",
+          "text": "別再搬出你那一套說教，拉蒂斯。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "拉蒂斯",
+          "text": "——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "逐漸沉溺的宣教者被一聲呵斥驚醒。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "瑪麗安娜攔在瑪爾紗與拉蒂斯之間。她先與堂兄對視一眼，後者不自覺地向後退了小半步。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪麗安娜",
+          "text": "你讓瑪德琳姨媽沒能端上給客人的茶水。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "拉蒂斯",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "瑪麗安娜轉過身，將一個沉重的軍用帆布包遞給瑪爾紗。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "好沉——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪麗安娜",
+          "text": "拿得動嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "完全沒問題，我的體力還相當夠用。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "拉蒂斯見證這一幕，疑雲滿面。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "拉蒂斯",
+          "text": "這又是在幹什麼，瑪麗安娜。你剛在蒙佩殺死了基金會的合作人，現在轉過頭又和基金會站到一起了？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪麗安娜",
+          "text": "這是個人交往。從今天起，教堂不再對她隱匿。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "拉蒂斯",
+          "text": "可她並不是……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪麗安娜",
+          "text": "這裡我說了算。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "拉蒂斯",
+          "text": "……是。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "拉蒂斯順從地低下頭，完全失去了一分鐘前高高在上的氣度。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "處理完家務事的瑪麗安娜再次轉向瑪爾紗。此時，誤入家族糾紛的瑪爾紗揣著包裹，已被嚇退到五步之外。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪麗安娜",
+          "text": "從1918年開始，我找到過的重要線索都在這，其中包括了與重塑之手有明確合作的軍隊高層名單。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪麗安娜",
+          "text": "如果基金會真的像你說的那樣能讓這些東西發揮價值，那你就先帶它們離開吧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "我、我知道了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "騎士以驚人的速度撤離了戰場。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "瑪德琳姨媽立在一根石柱下，手中端著茶水，自責地頷首垂目。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "石像鬼婦人",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "露天教堂的庭院中安靜了一會。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "拉蒂斯沉寂良久，終於板起他那張枯瘦的臉，再度開口。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "拉蒂斯",
+          "text": "堂親……為什麼你總是如此執著地走入紛爭？我們本可以避開這一切。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪麗安娜",
+          "text": "即使這場戰爭真的是一場天罰，那世人受的苦難也已經夠多。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "拉蒂斯",
+          "text": "——可人們並不知悔改！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "拉蒂斯弓著背，靠近教堂角落中掩面哭泣的少女。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "拉蒂斯",
+          "text": "難道艾格尼絲的現狀還不能令你有所覺悟嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪麗安娜",
+          "text": "別把她牽扯進來。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "拉蒂斯",
+          "text": "可正是艾格尼絲帶來了有關戰爭的預兆……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "男人遁入一場回憶。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "拉蒂斯",
+          "text": "在戰爭爆發之後，艾格尼絲陷入了長久石化的沉眠中。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "拉蒂斯",
+          "text": "她是我們之中最接近聖潔的人，命運本不應該如此，這一定是她通過自我犧牲的方式為我們帶來徵兆……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪麗安娜",
+          "text": "如果艾格尼絲“雕塑化”真的是一種預兆，為什麼老天不把話說得更明白些？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "拉蒂斯",
+          "text": "因為這是神聖的隱秘——如同古老時代的書卷，總是把真理與奧秘隱藏在最晦澀的文字中。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "拉蒂斯的聲音顫抖起來，喉頭演奏出集謙卑與驕傲於一體的宣道式嗓音。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "拉蒂斯",
+          "text": "而我，解讀了這份隱秘——它警醒我們避開戰爭，保持隱匿。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "拉蒂斯",
+          "text": "我向你預言，戰爭絕不可能在滅盡一切罪惡之前結束，艾格尼絲只會在一個純潔的世界與我們相見。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "拉蒂斯",
+          "text": "到那時，必然要有虔敬之人來重建新世界的信仰。而我們的族裔擔負著的就是這樣的使命。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "拉蒂斯",
+          "text": "不要再涉身於殺戮之中，不要再呼喚血液中的惡魔，玷污本就有罪的靈魂。你理應聽從我的教誨，堂親。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他以尊長般的威嚴結束了最後一句話，嘴角保持著長時間的顫抖。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪麗安娜",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "已經聽慣了的瑪麗安娜未能受到鼓舞，反倒是哀傷漫上了她的雙眼。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪麗安娜",
+          "text": "機槍，火炮，坦克，飛機……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪麗安娜",
+          "text": "如果你記得這些機器如何將我們毀滅，又如何變得越來越強大，你就應該明白——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪麗安娜",
+          "text": "昨日的世界已經被徹底毀滅，我們永遠也回不到過去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪麗安娜",
+          "text": "如果背負罪孽就能結束這場戰爭……這個代價對我來說，實在是微不足道。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "拉蒂斯驚駭不已，眼中閃著淚花。他背過身，面向祭壇，瘦長的身軀隱藏在高大花窗投下的陰影中。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "拉蒂斯",
+          "text": "你的發言令我驚恐，堂親，我必須提醒你，我們的祖先中出現過真正墮落的惡魔。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "拉蒂斯",
+          "text": "而我……不希望“瑪麗安娜”也成為必須被從譜系中抹去的一個名字。"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

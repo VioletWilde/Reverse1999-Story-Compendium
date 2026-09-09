@@ -1,6 +1,6 @@
 # Courtesy
 
-- Chapter: Tender is the Night (`102`)
+- Chapter: Tender Is the Night (`102`)
 - Episode: `10201`
 
 > Subtitle: They have been looking for you. Well, not just for chit chat, of course.

@@ -1,6 +1,6 @@
 # Quiet is the River Bank
 
-- Chapter: 远征记 (`112`)
+- Chapter: The Campaign's Tale (`112`)
 - Episode: `11201`
 
 > Subtitle: And quiet flows the river, and quickly flies the bullet.

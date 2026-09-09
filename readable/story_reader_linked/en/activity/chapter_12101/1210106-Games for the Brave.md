@@ -1,6 +1,6 @@
 # Games for the Brave
 
-- Chapter: Green Lake Nightmare (`12101`)
+- Chapter: A Nightmare at Green Lake (`12101`)
 - Episode: `1210106`
 
 > Subtitle: First the "loner", then the "failed fugitive". Now more than ever, we must act together.

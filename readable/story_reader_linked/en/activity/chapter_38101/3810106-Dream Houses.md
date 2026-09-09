@@ -1,9 +1,9 @@
 # Dream Houses
 
-- Chapter: 世纪末尺度 (`38101`)
+- Chapter: The Temporal Scale (`38101`)
 - Episode: `3810106`
 
-> Subtitle: "Do you consider yourself a postmodernist?"<br>"As long as saying 'yes' will get people talking about architecture."
+> Subtitle: "Do you consider yourself a postmodern architect?"<br>"If saying yes gets people talking about architecture, I don't mind."
 
 ## Transcript
 

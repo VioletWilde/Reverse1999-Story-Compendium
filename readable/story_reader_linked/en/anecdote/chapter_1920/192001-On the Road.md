@@ -1,6 +1,6 @@
 # On the Road
 
-- Chapter: The  Best Band in Town (`1920`)
+- Chapter: The Best Band in Town (`1920`)
 - Episode: `192001`
 
 > Subtitle: Travel safe, and remember to hydrate.

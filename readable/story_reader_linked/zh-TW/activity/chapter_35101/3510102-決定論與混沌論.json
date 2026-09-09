@@ -1,0 +1,879 @@
+{
+  "episode_id": 3510102,
+  "chapter_id": 35101,
+  "chapter_title": "綠松石蛇俱樂部",
+  "display_label": "",
+  "title": "決定論與混沌論",
+  "subtitle": "一場由十九世紀持續至今的爭吵。",
+  "trails": [
+    {
+      "element_id": 3510104,
+      "owner_episode_id": 3510102,
+      "trigger_episode_id": null,
+      "title": "抵達與啟程",
+      "description": "她們都對接下來的日子充滿期待。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=3510102",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "你一定是個有強大心靈的人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "一般人無法像你這樣在外人的家裡睡上一整天。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "稍後我會把你和飯後垃圾一起扔出去，為什麼不再睡一會兒呢？"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "我做了個夢",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "我請求你，不要講述你的美夢。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "那太過耀眼和溫暖，可能會灼傷我冰冷的心。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "不管你在夢裡經歷了什麼做了什麼，都請讓它過去吧。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "是的，感謝你的恩典。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "今天寡淡的晚餐全靠你夢中的呢喃來增添風味。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "我很久沒喝過那麼有滋味的湯了。"
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "我的那份呢？",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "過去的晚餐已經過去了，你沒法再讓它回來。"
+                }
+              ]
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "過去的事只能留在回憶裡，眼下混亂的樣子恐怕誰都不想要。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "而這都拜那些放不下過去的黑袍子所賜。當下的生活不如意就讓懦夫們陷入了無止境的懷舊當中。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "眼裡只有未來的白袍子們也都是廢物，恐怕是頭抬得太高了，才接連受挫。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "這樣的兩夥人居然能扭打在一起，在世紀末把全宇宙攪得天翻地覆。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "那個盲眼女人當時真不如放著世界毀滅，起碼不會比這亂成一團的時間更糟，誰求她自我犧牲了嗎？"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "如果你真的有機會抓住她，請記得帶她回家，讓她安度晚年吧，這樣對大家都好。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "我錯過了晚餐？",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 3510105,
+      "owner_episode_id": 3510102,
+      "trigger_episode_id": null,
+      "title": "驚喜配方",
+      "description": "一杯不可複製的雞尾酒，每一口都是全新的冒險。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=3510102",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "請稍等一下，我這就去處理闖進來的混蛋。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "他居然穿著沾血的鞋子走進我的家！難道指揮別人送死的人還有什麼特權嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "必須要讓他付出血的代價。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "讓他換雙鞋吧",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "還不夠，他必須把地板上的血漬全部擦乾淨。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "沒有理由，沒有狡辯，這一地狼藉都是他的錯。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "我很冷靜，他必須親自把血跡都打掃乾淨。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "我不會把抹布借給他，他必須用自己的大衣。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "不管所謂的上層人物如何逼他腳踏血池，給他帶來了多少痛苦。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "大人物們希望一切終能回歸原位，而這正說明了他們愚蠢。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "如果他蠢到會聽從那種天方夜譚的計畫，那他就和制定計劃的蠢貨沒什麼兩樣了。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "現實主義者總是這樣實現夢想——為了創造奇跡，他們在天平的另一端不斷追加砝碼，沒有目標，只是一味付出。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "無數人為了回憶起一個不屬於自己的姓名而失去了性命，這是我聽說過最荒謬的事。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "我對那群自以為是神的自大狂只有一句話要說——忘記姓名的人等於是死了，更換姓名也是。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "就算最後你回到了原位，血腳印也早已留下了。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "冷靜一些！",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "203503",
+      "internal_title": "【3.5】绿松石蛇俱乐部02",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "卡洛塔酒館"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "翌日。賭徒們常常聚集的酒館籠罩在詭異的氛圍之中。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "黑幫手下Ⅰ",
+          "text": "特拉索爾先生……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "黑幫頭目",
+          "text": "有事就說。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "黑幫手下Ⅰ",
+          "text": "那個幸運的女孩，還有她的神秘同夥，在拿到贏下的東西後，已經在那裡研究了十分鐘了……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "黑幫手下Ⅰ",
+          "text": "她們是不是在密謀著什麼？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "黑幫手下Ⅱ",
+          "text": "或者說，您看看，我們要不要趁這時候動手——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "黑幫頭目",
+          "text": "夠了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他連忙打斷了手下異想天開的提議。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "黑幫頭目",
+          "text": "這些神秘學家不是我們能惹得起的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "黑幫頭目",
+          "text": "那個女孩的運氣太過古怪了，誰知道她是不是在背後用了什麼禁忌的巫術？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "黑幫頭目",
+          "text": "最近這座城市裡死得不明不白的人越來越多了。我在警局的朋友告訴我，那都是可怕的神秘術幹的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "黑幫頭目",
+          "text": "在乾旱的荒郊溺水，從封閉的房間中消失——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "黑幫頭目",
+          "text": "如果不想成為下一具屍體，就別惹這些外來者。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "在賭徒們圍繞邪惡的黑巫術展開揣測時，角落裡的兩人面面相覷，正看著面前被拆開的密信。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "百夫長",
+          "text": "“神聖曆與太陽曆重新對齊，我們得以慶祝末日的推遲。”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "百夫長",
+          "text": "“我們在星山上眺望，星座攀上天頂。”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "百夫長",
+          "text": "“本年度藝術品拍賣會即將開啟，綠松石蛇俱樂部誠摯等待閣下的到來。”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "百夫長",
+          "text": "裝模作樣地說什麼呢。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "百夫長",
+          "text": "藝術品拍賣會？所以，這是一封沒有時間，也沒有地點的邀請函！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "百夫長",
+          "text": "這就是特拉索爾號稱價值連城的密信？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "百夫長",
+          "text": "勞煩你解釋一下了，特拉索爾。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "百夫長",
+          "text": "嗯哼，一張語焉不詳的廢紙，就是你將它當作巨額抵押給我的理由？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "聞言，在一旁偷聽的黑幫頭目連忙直起身子。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "黑幫頭目",
+          "text": "我不會回答你們的……好吧，我也不知道是怎麼回事！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "黑幫頭目",
+          "text": "這封密信，是我在一個走投無路的賭徒身上搜出來的。他說這當中隱藏著墨西哥城地下最大的秘密。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "黑幫頭目",
+          "text": "但在審問……咳咳，得到更多的資訊之前，他就逃亡到國外去了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "黑幫頭目",
+          "text": "至於這狗屁俱樂部，我只知道它藏在墨西哥城郊外的種植園裡。但我從來沒聽說過什麼拍賣會，先前可沒有這東西！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "黑幫頭目",
+          "text": "那附近都是神秘學家的地盤，沒有人類去過。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛倫茲蝴蝶",
+          "text": "好極了，完全沒有情報的對話。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛倫茲蝴蝶",
+          "text": "神聖曆與太陽曆對齊——詩句描述的是阿茲特克創世神話中，世界的毀滅。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛倫茲蝴蝶",
+          "text": "當經過一輪五十二年的曆法循環後，阿茲特克人便會舉行新火儀式，慶祝末日並未到來。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛倫茲蝴蝶",
+          "text": "在新曆法的前一日，他們會登上星山，觀察普勒阿得斯七姐妹【The Pleiades】的星座是否如常升起。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛倫茲蝴蝶",
+          "text": "看紙上的圖案。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛倫茲蝴蝶",
+          "text": "它們是神聖曆週期中，代表二十天的象形符號。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛倫茲蝴蝶",
+          "text": "圖案的排列順序，指引著能量流動的方向。這是一條啟動某個儀式的咒語。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛倫茲蝴蝶",
+          "text": "啟動它的關鍵，就是代表著新火儀式舉辦日期的燧石刀【Tecpatl】型符號。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛倫茲蝴蝶",
+          "text": "現在的問題是：儀式的術陣，究竟設置在哪裡？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛倫茲蝴蝶",
+          "text": "根據局部混沌能量的觀測變化——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "烏爾里希",
+          "text": "“墨西哥極有可能發生大範圍的人為超自然現象。”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "烏爾里希",
+          "text": "“蠢傢伙們，我已經在墨西哥城找到了更進一步的線索。”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "烏爾里希",
+          "text": "“真希望你們偶爾也幹點正事。”"
+        },
+        {
+          "kind": "title_card",
+          "text": "科算中心·會議室"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "會議室中，烏爾里希將信件收起，玻璃缸中的磁流體顯得十分平靜。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "烏爾里希",
+          "text": "以上就是洛倫茲蝴蝶最新來信的全部內容。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "烏爾里希",
+          "text": "她稱其為“死亡的九個試煉”計畫。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "啞謎",
+          "text": "荒謬！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "啞謎",
+          "text": "看來你們真的要發表聯合論文了。這已經是這個月的第三封信。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "烏爾里希",
+          "text": "是的，你會被我們寫在致謝名單裡，最後一頁。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "啞謎",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "啞謎",
+          "text": "第一封信裡，她宣稱，在時代重返至1920年後，洛倫茲研究所的眼線發現，在全球各地出現了一批前所未見的神秘學材料。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "啞謎",
+          "text": "重塑之手將其偽裝成普通的礦物顏料走私，用於“起死回生術”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "啞謎",
+          "text": "第二封信，她說她已經追溯到了來源。這種顏料，產自於墨西哥的墨西哥城。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "啞謎",
+          "text": "而現在，第三封信，她開始預言即將發生的超自然現象！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "啞謎",
+          "text": "這是赤裸裸的挑釁！她在嘲諷我們總是慢洛倫茲一步——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "烏爾里希",
+          "text": "需要我提醒你嗎，阿德勒代理負責人，在第三次、六次和七次“暴雨”的時候，她也這麼做過。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "指針",
+          "text": "打擾一下，我們今天的會議內容，應該不是旁聽二位吵架吧？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一側旁聽已久的研究員忍無可忍地發聲了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "烏爾里希",
+          "text": "當然不是。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "烏爾里希",
+          "text": "對了，指針，我有一件重要的事情要告訴你。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "烏爾里希",
+          "text": "按照普列謝茨克分部的習俗，我們決定在週末晚上為你和冷週六研究員舉辦慶祝會，慶祝你們結束了外派調查的工作，回歸總部！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "烏爾里希",
+          "text": "哪怕我並不認可宴會存在的意義。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "烏爾里希",
+          "text": "為了擠出這次慶祝會的時間，我已經讓“暴雨”專項研究小組的成員們，將本週的工作時間調整為每日12個小時。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "烏爾里希",
+          "text": "哈，雖然臨時組員星銻提出了抗議，但我已經充分理解“人道主義”的管理模式！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "指針",
+          "text": "我覺得你並沒有理解，烏爾里希。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "指針",
+          "text": "而且我們已經回來三週了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "閒談間，會議室的門終於被推開，助理帶領著一張不算陌生的面孔走了進來。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "啞謎",
+          "text": "保持安靜，某些同僚，從桌子上下來！會議馬上要開始了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "啞謎",
+          "text": "考慮到有些同僚從來沒有、將來也不打算瞭解拉普拉斯的架構，我得解釋一下："
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "啞謎",
+          "text": "拉普拉斯的資金委員會與人事委員會承擔著評估風險的職責，通俗來說，是由他們來決定要不要給你們那些亂七八糟的專案撥款的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "啞謎",
+          "text": "我來為諸位介紹，總部新出任的人事委員會代表——路德維希先生。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "路德維希",
+          "text": "諸位好。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "指針",
+          "text": "原來你已經康復了，路德維希先生。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "鳥頭人朝昔日共事過一段時間的研究員溫和地點頭示意。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "路德維希",
+          "text": "是的，在接下來的時間內，會由我來協助大家的科研工作。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "路德維希",
+          "text": "本次會議內容與諸位先前的談論有關。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "指針",
+          "text": "難道你真的要參加那個……迎新會？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "路德維希",
+          "text": "哈哈，並非如此。當然，如果你們覺得我不會影響氛圍的話，我會出席的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "渡鴉的視線掃過與會的研究員們。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "路德維希",
+          "text": "我已經讀過洛倫茲蝴蝶的信件。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "路德維希",
+          "text": "多年以來，重塑之手從未停止過對“起死回生術”的追求。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "路德維希",
+          "text": "無論是尋找文藝復興時期煉金術師的手稿，抑或是控制比米尼群島所產出的生命之水——卡文迪許世家的後代在加入重塑之手後，有許多不可忽視的動作。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "啞謎",
+          "text": "這一切聽上去，更像是一名喪失理智的煉金術師所提出的無稽之談。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "指針",
+          "text": "但據我們所知，重塑之手已經成功過一次了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "啞謎",
+          "text": "你說的是，在南極復生的那個……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "場面陷入了片刻的寂靜。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "路德維希",
+          "text": "如果洛倫茲蝴蝶能順利取回重塑之手擁有的礦物顏料，這意味著，拉普拉斯也可以掌握這門技術。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "路德維希",
+          "text": "起死回生術，造就了一個跨越“暴雨”、重返現世的奇跡，帶回了一個不屬於這個時代的人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "路德維希",
+          "text": "諸位有沒有想過，這是理解“暴雨”原理的最佳途徑？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "在座的研究員們一片譁然。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "指針",
+          "text": "跨越“暴雨”……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "指針",
+          "text": "路德維希先生，我想請問，你是否聽聞過一種“暴雨”研究假設：\n有一部分研究員認為，“暴雨”並不會導致肉體的死亡。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "路德維希",
+          "text": "是的，我知曉。這種假設認為，那些因“暴雨”沖刷而消失的人，他們並沒有真正地逝去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "啞謎",
+          "text": "如果是這樣……他們都去了哪裡？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "路德維希",
+          "text": "這些年來，基金會各地分部的統計顯示，與記憶中有區別的親朋外貌、差異顯著的時代背景……“暴雨”導致的異象越來越多了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "路德維希",
+          "text": "人事委員會也在關注這些異況。我們不能錯過任何的可能性，哪怕它微不足道。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "啞謎",
+          "text": "那我們就不能只是坐在這裡，指望那個傢伙哪天心情好了，才給我們寄信，彙報最新的進度。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "啞謎",
+          "text": "如果人事委員會希望我們有所行動的話……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "代理負責人沉默了片刻。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "啞謎",
+          "text": "其實，在收到第二封信的時候，我已經委託基金會的一位職員前去調查了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "啞謎",
+          "text": "她的身體由拉普拉斯所製作。最近，她時常主動要求幫我們完成一些外出的調查。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "啞謎",
+          "text": "雖然任務偶爾會有些“小意外”，但她是來自司辰的助力，可以信任。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "路德維希",
+          "text": "通過司辰的助力，能夠不引人矚目地擺脫基金會的視線，這確實是個適合的選擇。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "啞謎",
+          "text": "在任務完成後，她也能夠很好地保守那些不能洩露給基金會的秘密——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "路德維希",
+          "text": "我希望這當中不要涉及違反人道主義的做法。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "啞謎",
+          "text": "當然，因為她根本不記得。"
+        },
+        {
+          "kind": "title_card",
+          "text": "墨西哥城·郊外"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "炎熱的荒郊野嶺之中，術式輝光閃過。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "啞謎所信任的秘密調查員成功完成了傳送。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "空腦袋",
+          "text": "傳送磁碟的目的地應該沒有設置錯才對，墨西哥，墨西哥城。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "空腦袋",
+          "text": "但這裡看起來並不像是一座城市……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "空腦袋",
+          "text": "難道是磁碟中的術式出了什麼差錯？還是我領到了退換的殘次品？聽說拉普拉斯最近正在研發能夠多次使用的新磁碟……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "就在她茫然地環顧四周時，通訊器響起了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "啞謎",
+          "text": "萊瑟姆女士，情況如何了？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "空腦袋",
+          "text": "一切順利，阿德勒先生，我已經到達墨西哥城。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "空腦袋",
+          "text": "請轉告露西女士，能幫上拉普拉斯的忙，我非常樂意！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "啞謎",
+          "text": "……露西女士已經不在拉普拉斯了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "啞謎",
+          "text": "算了。剛剛，我們收到了最新的來信。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "通訊器對面的代理負責人枯燥地複述著信件的內容。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "啞謎",
+          "text": "……這些也許都是調查的切入口。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "啞謎",
+          "text": "如果遇到重塑之手，請務必不要和他們起正面衝突，萊瑟姆女士，一切行動以你自身安全為上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "空腦袋",
+          "text": "請放心，我向烏爾里希組長借來了轟轟吼叫匣！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "空腦袋",
+          "text": "只要開啟它，馬上就可以定位附近發生超自然現象的場所——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "空腦袋",
+          "text": "等等，我的行李呢？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "不遠處，拖拽著箱子遠去的沙漠魔鬼蜥蜴與她對上了視線。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "空腦袋",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "沙漠魔鬼蜥蜴",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "空腦袋",
+          "text": "…………"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "空腦袋",
+          "text": "別跑！！！"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

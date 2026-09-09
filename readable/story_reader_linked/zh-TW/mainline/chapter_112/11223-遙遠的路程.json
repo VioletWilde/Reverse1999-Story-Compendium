@@ -1,0 +1,528 @@
+{
+  "episode_id": 11223,
+  "chapter_id": 112,
+  "chapter_title": "遠征記",
+  "display_label": "",
+  "title": "遙遠的路程",
+  "subtitle": "歷史的錘子在鐵砧上錘打，而痕跡終將被抹去。",
+  "trails": [
+    {
+      "element_id": 1122301,
+      "owner_episode_id": 11223,
+      "trigger_episode_id": null,
+      "title": "行政申訴",
+      "description": "最近有基金會職員投訴這一層有老鼠的蹤跡，這簡直是危言聳聽。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=11223",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "很抱歉，但我想您是時候離開了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "恐怕這裡暫時不會再有鬧劇發生了。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "可戰爭還沒有結束",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "難道戰爭是否結束會有什麼區別嗎？"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "地震、洪水、飢荒、瘟疫、搶劫、車禍、摔倒在浴缸裡。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "人總有各種機會去死，戰爭只是其中之一。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "它甚至還不足以讓世界去真正地重視它。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "至少這次不會。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "您就這麼熱衷於打擾我這靠撫恤金維持的拮据生活？"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "可出於禮節，我確實不應該拒絕您。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "而且我也理解，在屋簷下喝泥水總勝過在戰場吃灰塵……"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "好了，您的朋友還在東線等您，我會替您祈禱她的平安無事。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "我們下次見",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "101233",
+      "internal_title": "第十二章12-23",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "遙遠的路程"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "我在東線的任務已經結束。在我寫下這封信的不久前，別列格勒城及其周邊發生了一場我沒有預想過的戰鬥。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "剛學會用槍的普通人藏在城市的街壘後，頑強地抵抗著匪軍與重塑之手的進攻，最終讓別列格勒免於淪陷。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "屹立不倒的城市為野戰部隊爭取到了施展戰術的空間，騎兵軍與他們的盟友得以放開手腳，擊敗敵軍主力。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "一部分居民不幸罹難，但更多人在這場戰役中生還。他們保衛家鄉的英勇事蹟將在這片土地上永遠流傳。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "對了，我在這裡見到了卡戎，我猜你也會感到驚訝。可惜，時間倉促，還有太多事無法在信中寫完。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "真希望有一天能當面給你講我在東線的故事。我馬上會回基金會總部，親愛的朋友，同樣期待你平安的消息。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "葉爾莫萊",
+          "text": "只有這一封信嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "騎士把匆匆寫好的信折好，裝進信封，鄭重其事地印下了基金會的火漆。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "我不知道你會到這裡來，沒有想到有機會送信過去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "你說你還會回一趟西線，那就拜託你把這封信帶回蒙佩。會有人來取的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "葉爾莫萊",
+          "text": "噢，你是說那個石像鬼。別送蒙佩了，她早就不在那一帶活動了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "你知道她的動向？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "葉爾莫萊",
+          "text": "不算知道，但在別的地方見過她幾次。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "“獵犬”的表情像是被一陣不存在的冬日寒氣撓了一下後背。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "葉爾莫萊",
+          "text": "第一次是在盧森堡。當時我正在那裡找一些東西。在我發現她的時候，槍口已經頂上了我的後腦勺。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "葉爾莫萊",
+          "text": "我以為她是來討債的，畢竟在299高地發生的事情並不愉快。要我說，刻雷烏斯欠她一份包含物質回報的感謝信。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "葉爾莫萊",
+          "text": "但她只是想“和‘Ⅻ’小隊的人談談”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "你們說了什麼？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "葉爾莫萊",
+          "text": "大概是立了一些規矩。有時候，她的行動目標會和我們小隊重合，這時候就要劃分一下界限。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "葉爾莫萊",
+          "text": "她會為我們提供幫助，條件是我們要向她分享在行動中獲知的所有資訊。她辦事很俐落，就是缺乏幽默感。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "可能只是你的幽默感太糟糕了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "葉爾莫萊",
+          "text": "哈。總之，雖然我不知道她的具體動向，但要再找到她一次應該並不困難，尤其是手上還有你給她的信。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "那麼，你怎麼會被派到這裡來？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "葉爾莫萊",
+          "text": "刻雷烏斯要我來做一些“收尾工作”……嘖，什麼髒活累活都是我來幹了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "葉爾莫萊",
+          "text": "我得觀察騎兵軍在戰鬥結束後的政治傾向有沒有異常，確定他們和伊戈爾斬斷了聯繫……啊，還有“烏鶇”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他從懷中拿出一封文書，交給瑪爾紗。後者帶著一絲猶豫，展開折好的紙張。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "“梅蕾爾，接到此信後立刻前往頓河地區，隱藏身份秘密調查‘金色飢荒’。刻雷烏斯。11月……10日？”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "這是梅蕾爾逃跑之前的命令，也就是說，她並不是逃亡？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "葉爾莫萊",
+          "text": "這日期當然是假的。你把“烏鶇”的消息傳回去之後，刻雷烏斯就在我眼前寫了這封“密令”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "葉爾莫萊",
+          "text": "我出發的時候，簽名上的龍血印章都還沒有乾透。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一些補辦的文書工作，也許無傷大雅。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "好吧……你確定這些事應該告訴我嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "葉爾莫萊的臉色變得很快，他出人意料地沉下臉來。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "葉爾莫萊",
+          "text": "我們是一個隊的隊友。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "葉爾莫萊",
+          "text": "之後一定還會有比這更糟的事，如果不能互相照應，我們遲早全都栽跟頭，能懂嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "……我明白你的意思了。梅蕾爾還在休息，要我把她叫來嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾爾",
+          "text": "我……我在這裡。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "被一紙“密令”暫時解救的逃兵站在瑪爾紗身後，她雙手搭住騎士的肩甲，只探出半邊腦袋。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "葉爾莫萊越過騎士警戒的目光，對躲在後面的梅蕾爾揚了揚下巴。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "葉爾莫萊",
+          "text": "有保姆照顧你的日子結束了，“烏鶇”。雖然基金會不一定會來找你麻煩，但隊內的懲罰可不能少。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾爾",
+          "text": "隊內懲罰？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "梅蕾爾聞言緩緩走出一個後撤步。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "葉爾莫萊",
+          "text": "還想跑。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "像抓兔子一樣，男人將梅蕾爾從騎士身後揪出來。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾爾",
+          "text": "哎呀——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "喂，你小心點！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "葉爾莫萊",
+          "text": "之後她就跟我走了，瑪爾紗。刻雷烏斯要我給她打上跟蹤藥劑。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "跟蹤藥劑？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "葉爾莫萊",
+          "text": "不知道哪裡的書呆子們研製的新玩意，需要實驗樣本。正好給這小老鼠打上，以免她再開溜。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾爾",
+          "text": "我不會了，相信我，我一定不會再跑了！我保證！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "葉爾莫萊",
+          "text": "安靜點，想讓所有人都知道你幹了什麼嗎？還是說想嘗一嘗苦啞巴藥劑？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾爾",
+          "text": "……不想。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她不情不願地咬住嘴唇。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "瑪爾紗輕輕拍了拍她的肩膀。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "別擔心，回去的路上我們還會在一起。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "安德烈森",
+          "text": "咴。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾爾",
+          "text": "嗯？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "黑色的戰馬從街道另一側匆匆跑來，在馬兒身旁的是它熟悉的旅伴。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡戎",
+          "text": "梅蕾爾，很高興你選擇回到自己的朋友身邊，希望你未來的旅途一路平安。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡戎",
+          "text": "謝謝你為我提供的援助，瑪爾紗，這個過程一定給你帶來了很大的痛苦，一直以來我都為此自責……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "別往心裡去，卡戎，你能恢復就好。我自己會把握使用神秘術的分寸的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "葉爾莫萊",
+          "text": "是你，收屍人。知道你也在東線的時候，我很意外。帕拉維揚告訴我，是你隱瞞了梅蕾爾的行蹤。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾爾",
+          "text": "等、等等！卡戎和這件事沒有關係！是我堅持要他這麼做的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "葉爾莫萊",
+          "text": "你著什麼急？難道你不是為了遵守長官的命令，才要求卡戎為你隱藏行蹤的嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾爾",
+          "text": "呃……是的，不，真的是這樣嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "葉爾莫萊",
+          "text": "就是這樣。給我記好了，以後不管什麼人問你，你都要這麼回答。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾爾",
+          "text": "好的……好的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一旁的亡者花了很長時間也沒有弄明白“Ⅻ”小隊的隊員們在說什麼，最終只好放棄尋找答案。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡戎",
+          "text": "死亡是平等的，對死亡的恐懼也是平等的。回避死亡是生者的本能，希望你能理解她的行為。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "葉爾莫萊",
+          "text": "我完全理解。放心吧，梅蕾爾不會有事的，保證她平平安安。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡戎",
+          "text": "我所期望的莫過於此。那麼，再見，各位。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "你又要離開了嗎，卡戎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾爾",
+          "text": "你可以跟我一起回——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "“基金會”三個字卡在她的喉嚨裡。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾爾",
+          "text": "算了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾爾",
+          "text": "希望以後還能見到你，卡戎。當然，不是在戰場上。我不想再看見更多的屍體了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾爾",
+          "text": "還有你，安德烈森。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "梅蕾爾踮起腳，抱住了安德烈森的脖子，臉頰蹭上粗糙的鬃毛。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾爾",
+          "text": "再見了，我的朋友們。和你們一起的旅途很愉快……當然，落水的那部分除外。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾爾",
+          "text": "我會一直想念你們的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "安德烈森",
+          "text": "咴……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "卡戎",
+          "text": "希望我們會在更和平的年代相見。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "亡者輕挽韁繩，與他的馬兒一同走出城市。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他們消失在冬日的草原，趕赴下一場沒有終點的苦旅。"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

@@ -1,6 +1,6 @@
 # Boys Only
 
-- Chapter: Finding Xavier (`1911`)
+- Chapter: Eagle (`1911`)
 - Episode: `191101`
 
 > Subtitle: This is hardly a promised land for the ladies.

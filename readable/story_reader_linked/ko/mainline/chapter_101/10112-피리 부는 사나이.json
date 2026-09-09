@@ -1,0 +1,482 @@
+{
+  "episode_id": 10112,
+  "chapter_id": 101,
+  "chapter_title": "우리들의 시대에",
+  "display_label": "",
+  "title": "피리 부는 사나이",
+  "subtitle": "그를 따르던 쥐 떼는 비명을 지르며 \n한 마리씩 바다로 뛰어들었다.",
+  "trails": [
+    {
+      "element_id": 1011201,
+      "owner_episode_id": 10112,
+      "trigger_episode_id": null,
+      "title": "오솔길① 술식 축적",
+      "description": "열정을 빠르게 얻는 방법에 관한 기록.\n사기를 빠르게 북돋우면 최종 술식을 빠르게 소환하여\n상황을 유리하게 이끌어갈 수 있다.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=10111",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1011202,
+      "owner_episode_id": 10112,
+      "trigger_episode_id": null,
+      "title": "오솔길② 무명의 손님Ⅱ",
+      "description": "어린아이.\n폭풍우는 임무 조사를 방해하고, \n외부의 변화는 혼자 걷는 이를 위험 속으로 몰아넣는다.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=10111",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1011203,
+      "owner_episode_id": 10112,
+      "trigger_episode_id": null,
+      "title": "정신을 잃은 크리터",
+      "description": "그것으로부터 답을 얻을 수 있다.\n거짓말에 주의할 것. 많은 생물이 이런 일에 능숙하니까.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=10111",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100118",
+      "internal_title": "第一章1-13",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "피리 부는 사나이"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소네트",
+          "text": "앞에 길이 없군요. 또 막다른 길인가 봐요."
+        },
+        {
+          "kind": "title_card",
+          "text": "월든 주점 비밀 통로"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소네트",
+          "text": "앞에 길이 없군요. 또 막다른 길인가 봐요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소더비",
+          "text": "어? 음... 이 벽 뒤에서... 많은 사람의 환호성이 들려! 여기가 출구야, 바깥으로 통하는 길이라고!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소네트",
+          "text": "많은 사람의 목소리가 들리긴 하네요... 음? 타임키퍼? 버틴 씨의 목소리를 들은 것 \n같은데요?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소더비",
+          "text": "이봐! 누가 우리 좀 구해줘~! 벽 뒤쪽에 갇혔어!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소네트",
+          "text": "안 되겠어요. 저쪽에선 안 들리나 봐요. 제가 벽을 폭파할게요!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소더비",
+          "text": "안 돼! 저쪽에선 파티가 열린 모양인데, 분위기가 엄청 좋아보여! 저기 있는 \n사람들한테 돌이라도 날아가면 어떡해."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소더비",
+          "text": "벽돌 틈새로 좀 봐야겠어... 음, 우린 지금 무대 스포트라이트 뒤에 있는 것 같은데."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소더비",
+          "text": "구멍이 제법 큰데! 부식 포션으로 이 틈을 녹이면 벽돌을 옮길 수 있겠어!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소네트",
+          "text": "좋은 생각이네요! 우선 가운데부터 시작하죠!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소네트",
+          "text": "얼른 여길 나가야 해... 타임키퍼는 지금 분명 내 도움이 필요할 거야..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "슈나이더",
+          "text": "헉...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "슈나이더",
+          "text": "아... 기분 좋아, 정말 날아갈 것 같아...♪"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "귀빈석 손님",
+          "text": "19포인트 더 하락했다고? 장난해? 대체 뭣들 하는 거야!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "관객",
+          "text": "저... 크흠, 아까 매수한 오천을 다시 돌려줄 수 있습니까? 안 된다고요?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "주점 손님",
+          "text": "이봐, 사장, 당신 차트에 문제가 있는 거 아냐? 오늘 만우절은 아니겠지?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "슈나이더",
+          "text": "이런이런, 무슨 일이지?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "슈나이더",
+          "text": "다들 우리한테 관심이 없어 보이네, 정부 나리~"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "슈나이더",
+          "text": "그렇다면... 당신 팔뚝에서 피가 흐르면 관중들이 좋아하지 않을까나?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "윽!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "과연 증시 폭락이 앞당겨졌군. 이런 식으로 역사의 흐름이 빨라진다는 건... 설마..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "슈나이더",
+          "text": "고통을 못 느끼는 거야? 짜증 나네, 다음엔 허벅지를 조준하면 다들 좀 집중하려나?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "슈나이더",
+          "text": "\"탕!!\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "관객",
+          "text": "이런 개같은, 하한가를 치려는 건가? 아까 다 팔아버렸어야 했는데! 정말 미치겠군!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "주점 손님",
+          "text": "내 집... 안 돼, 내 모든 것들이... 내 원금 돌려줘! 내놓으라고! 내놓으란 말이야!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "귀빈석 손님",
+          "text": "여보세요? 자기야, 아니, 일단 내 얘기 좀 들어봐. 잠깐 이런 것뿐이야, 날 믿어... \n월 스트리트의 그 은행원들도 절대 가만히 있지 않을거야."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "귀빈석 손님",
+          "text": "뭐? 다들 이미 빠져나갔다고... 벌써 거래량이 1,200만 주를 넘어섰다니?!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "관객",
+          "text": "돈은 무슨 개같은 소리야! 나한테 현금이 어디 있어? 현금이 있겠어?! 있겠냐고?!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "주점 손님",
+          "text": "내보내 줘! 급한 볼일이 있어... 집에 갈 거야! 갈 거라고!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "주점 손님",
+          "text": "\"탕!\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "슈나이더",
+          "text": "하하하... 참 재미있네! 사람을 죽였는데도 신경쓰는 사람이 없잖아!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "슈나이더",
+          "text": "\"탕탕! 탕탕!!\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "너무 위험해요...! 버틴 씨는 왜 아직도 폭발 볼을 쓰지 않는거지?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "기동 부대장",
+          "text": "아직, 아직은 아닙니다! 겨우 적의 소굴까지 들어왔는데 다 망쳐버릴 순 없어요!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "슈나이더",
+          "text": "됐어, 이제 충분히 즐겼어."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "슈나이더",
+          "text": "당신을 죽이지 않으면 우리 모두 빠져나가지 못할 거야."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "슈나이더",
+          "text": "내가 처음 본 게 당신의 '우산'이었으면 좋았을 텐데. 그럼 우리도 이렇게까진... 아니야."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "슈나이더",
+          "text": "잘 가, 정부 나리."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "슈나이더",
+          "text": "손을 살며시 들어 올린 슈나이더의 모습은 창백하고 연약해 보였다. 그리고 한 치의 \n망설임도 없이 나를 가리켰다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "슈나이더",
+          "text": "\"탁!\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "슈나이더",
+          "text": "거대한 스포트라이트가 갑자기 이쪽을 비추었고, 눈부신 하얀 불빛이 순식간에 모든 걸 집어삼켰다...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소네트",
+          "text": "타임키퍼!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소네트",
+          "text": "\"탕탕탕!!\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소네트",
+          "text": "다급한 발걸음 소리가 점점 다가온다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소네트",
+          "text": "타임키퍼, 대체 무슨 일이죠, 피가 많이 나요...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "난 괜찮아. 어떻게 무대 뒤에서... 달려온 거야? 다친 덴 없어 보이네... 다행이야."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소더비",
+          "text": "어서 이리로 와봐! 저기 사람들이 싸우고 있어... 앗! 조심해, 부딪히겠어!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소더비",
+          "text": "저 멀리 높은 곳에서 느린 박자의 박수 소리가 들려왔다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "배후에... 재건의 손이 있었어...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "포겟미낫",
+          "text": "곧 파멸할 이 세상을 위해 잊지 못할 명장면을 선사해주셔서 감사합니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "관객",
+          "text": "포겟미낫?! 당신한테 산 주식들 전부 손해 봤어...! 어떻게 보상할 거야!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "포겟미낫",
+          "text": "좋은 질문이군요, 존경하는 토마스 씨."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "포겟미낫",
+          "text": "안 그래도 여러분께 좋은 소식을 전하려던 참이었습니다. 이 좋은 소식에 비하면 \n다우지수 300포인트 폭락쯤은 사소한 일이죠."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "포겟미낫",
+          "text": "여러분이 살고 계시는 이 세상... 광란의 20년대 속의 1929년은 머지않아 끝을 \n맞이할 겁니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "포겟미낫",
+          "text": "이제 저희와 함께 마지막 순간을 조용히 기다려 주시길 부탁드립니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "관객",
+          "text": "미쳤어? 당신 지금 무슨 말을 하고 있는지 알기나..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "관객",
+          "text": "\"휘익...!\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "관객",
+          "text": "으윽..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "포겟미낫",
+          "text": "걱정 마세요. 잠깐 말을 못 하는 것뿐이랍니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "포겟미낫",
+          "text": "소란을 일으키던 사람들이 조용해졌다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "포겟미낫",
+          "text": "파티 풍선, 깃털 장식, 드레스를 입은 고객들.... 요란스러울 정도로 화려하게 꾸며져 \n있는 파티 장소는 순식간에 깊은 침묵으로 뒤덮였다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "포겟미낫",
+          "text": "침묵이라는 이름의 공포였다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "포겟미낫",
+          "text": "\"따르릉\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "포겟미낫",
+          "text": "여보세요? 그랬군요, 다우지수가 하한가를 기록했다는 거죠? 최종 거래가는... 230.07포인트군요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "사람들",
+          "text": ".................."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "포겟미낫",
+          "text": "그렇답니다, 여러분. 월스트리트가 무너졌다네요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "포겟미낫",
+          "text": "그리고 '폭풍우'가..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "포겟미낫",
+          "text": "드디어 오는군요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "포겟미낫",
+          "text": "처음에는 잘 보이지도 않는 조그마한 빗방울일 뿐이죠."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "포겟미낫",
+          "text": "하수도, 신발 고무 밑창, 쏟아지기 직전의 우유에서 아무도 모르는 물웅덩이를 이루죠."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "포겟미낫",
+          "text": "이어서 물웅덩이는 빗방울을 이루었고, 빗방울은 뒤도 돌아보지 않고 대지를 \n떠났습니다. 마치 악습을 끊어내는 것처럼..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "포겟미낫",
+          "text": "시대와 사회의 악습을 말이죠."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "사람들",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "포겟미낫",
+          "text": "사람들은 술렁였지만, 악습은 점점 더 심해질 뿐이었죠. 마치 '이상 현상'처럼 모든 \n사람의 몸에 달라붙었습니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "포겟미낫",
+          "text": "60년대에는 사람들을 우스꽝스러운 만화로, 90년대에는 우리 모두의 혈관을 전선으로 만들었습니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "포겟미낫",
+          "text": "마지막엔 황당무계한 모든 것들이 '폭풍우'가 되어 이 세상을 철저히 '씻어내겠죠'."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "포겟미낫",
+          "text": "마지막에 선별되어 남은 사람들만... 우리와 함께..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "포겟미낫",
+          "text": "'과거로 돌아갈 수 있습니다'."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "포겟미낫",
+          "text": "밝힐 수 없는 '폭풍우'의 내막에 대해서는 우리의 정부 요원... 버틴 씨가 잘 알고 \n계시죠?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "포겟미낫",
+          "text": "누구보다도 잘 아실 테죠... 선별을 위한 카운트다운은 이미 시작됐습니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "그랬군. 드디어 답을 알아냈어."
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

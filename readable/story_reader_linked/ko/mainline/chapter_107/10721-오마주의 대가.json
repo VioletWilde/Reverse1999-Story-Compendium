@@ -1,0 +1,840 @@
+{
+  "episode_id": 10721,
+  "chapter_id": 107,
+  "chapter_title": "고독의 노래",
+  "display_label": "",
+  "title": "오마주의 대가",
+  "subtitle": "수없이 겹쳐진 손바닥이 유일한 인도자에게 경의를 표한다.",
+  "trails": [
+    {
+      "element_id": 100702,
+      "owner_episode_id": 10721,
+      "trigger_episode_id": null,
+      "title": "결말을 향해서",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=10721",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1072101,
+      "owner_episode_id": 10721,
+      "trigger_episode_id": null,
+      "title": "총알과 미적분",
+      "description": "",
+      "action": "",
+      "unlock_condition": "ChapterMapElement=100702",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "국적 없는 총알 하나가 이 지붕 아래에 있어. 총알은 군대도 국가도 아닌 오직 평화를 위해 존재하지."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "세기말의 폭우로 많은 동지들이 사라졌지만, 총알은 운 좋게도 비를 피해 살아남았단다. 예리한 탄두는 여전히 시린 은빛을 뿜어내며, 언제라도 적의 몸을 뚫을 준비가 되어 있지."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "안타깝게도 다른 덩치가 큰 동료에게 모든 것을 빼앗겼단다. 이제 버튼 하나만 누르면 큰 폭발이 일어나니, 그를 비롯한 나머지 탄약은 필요 없게 되었지."
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "총알을 많이 아낄 수 있다니. 잘됐네",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "음.. 수학자들과 교류한 후부터 예산에 대해 더 민감해진 것 같네."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "뭐, 자연스러운 일이다. 총알 하나를 아끼는 것보다 총알 열 개를 아끼는 것이 낫고, 총알 열 개를 아끼는 것보다 백 개를 아끼는 것이 더 낫지. 간단한 산수 문제야."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "대가 없이 무언가를 얻는 건 요행 같지만, 그걸 누가 싫어할까? 누구에게나 명예와 자유 중에 선택하라고 한다면, 아마 3초 이상 망설이지 않을걸."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "하물며 평범한 총알은 어떻겠니? 3초면 총알의 일생을 담을 수 있을 충분한 시간이지."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "하지만 총알의 대장인 장군처럼 생각할 것이 더 많지. 다음 폭우에도 이 총알은 무사할 수 있을까?"
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "장군? 그게 누군데?",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "가장 통찰력 있고 뛰어난 거물이지. 기회가 되면 그와 얘기해보렴."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "하지만 요즘 그의 기분은 그리 좋지 않아. 그와 이야기할 때는 1999년에 사용된 보수적인 전술과 발사되지 못한 미사일에 관해 이야기하지 않도록 조심하렴. 특히 그해에 희생된 총알은 절대 금물이야."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "그는 미래를 위해 많은 걸 바쳤지만, 미래는 정말 그에게 너무 인색했어."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "잡을 수 있다고 생각할 때마다 한 발짝씩 멀어져, 가까이 다가가려는 모든 노력을 무력화시키지. 그 아무리 빠른 총알이라고 해도, 어떻게 멈추지 않는 미래를 잡을 수 있겠나."
+                }
+              ]
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "그렇다 해도 계속 쫓아야지",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "미래를 쫓다니, 참 낭만적이구나. 계속하여 쫓는다면 그 간격은 한없이 좁혀지다, 어느 순간 그 거리가 0이 되겠지."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "하지만 시간이 지날수록 우리는 점점 더 느려질 테지. AK47을 대체한 모신나강의 총알은 그때만큼 맹렬하지 않아. 미래는 갈수록 멀어졌고, 과거는 더욱 가까워졌지."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "쉿... 그런 말은 입 밖으로 내지 말아라. 특히 대장 근처에서는 말이야."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "총알은 미래를 따라잡기 위해 이미 많은 대가를 치렀어. 더 이상 필요 없다고 한다면, 그 탄약 비용 청구서는 너에게 보낼 거다."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "자, 이 총알은 그냥 내버려두자. 고독은 미래에 대한 불안을 해소하는 데 도움이 될 수 있거든."
+                }
+              ]
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "앞으로는 총알이 필요 없게 될까?",
+              "edge_label": "",
+              "branch": []
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "잘됐네, 일하지 않아도 되는데 그래도 별로야?",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100731",
+      "internal_title": "第七章7-21.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "오마주의 대가"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "연락원Ⅱ",
+          "text": "...섬의 통신이 복구되었고, 제노도 타임키퍼 소대와 이미 연락을 취했습니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "조수 시몬",
+          "text": "네, 연구 센터의 지원은 여기까지입니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "줄곧 침착했던 조수가 드디어 한숨을 돌렸다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그런데 이상하게도 곧장 상대와 연락을 끊지 않고 잠시 말을 멈췄다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "조수 시몬",
+          "text": "...다시 확인하죠. 여러분의 작전이 인류 평화 안전 이사회의 뜻이 맞습니까?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "내선 전화의 수화기 건너편에선 마치 이 황당한 질문에 답하고 싶지 않다는 듯 잠시 대답이 없었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "물론입니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "우리는 군인입니다. 명령을 수행하는 사람이죠."
+        },
+        {
+          "kind": "title_card",
+          "text": "섬의 고원"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "유일하게 습격받지 않은 바다의 끝."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "초목이 무성하고 아름다운 풍경을 자랑하는 곳."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아르카나",
+          "text": "반가워요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아르카나",
+          "text": "...여행은 괜찮았나요, 버틴?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "돌아선 그녀가 우아한 미소를 지었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아르카나",
+          "text": "여긴 참 흥미로운 섬이에요, 안 그런가요?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아르카나",
+          "text": "현자들이 발밑에 원을 그리고 자신이 세상 밖에 서 있다고 주장했죠."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아르카나",
+          "text": "그리고 대대로 그들은 매사 성실하게 임했어요. 열심히 일하는 일개미처럼 그걸 지키고 경외하며 숭배했죠. 부름을 받지 않기 위해, 미치지 않기 위해."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아르카나",
+          "text": "난 이 도형이 마음에 들어요. 멈춰 있는, 고전적인, 완벽한 원이죠."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아르카나",
+          "text": "하지만 안타깝게도 그건 결국 모래땅 위에 그려진 원이었어요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "바다의 끝 아래 있는 폭격 당한 해변은 이미 만신창이가 되어 있었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "난 그렇게 생각하지 않아."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "모래땅이 약하기 때문에 사람들은 영원을 추구하는 거야. 완전무결함을 믿는 것 자체는 잘못이 없어."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "...이 섬을 공격한 인간 비행기에 이 시대의 것이 아닌 무기가 실려 있던데."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "당신들... 재건의 손이 기술을 제공한 건가?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "여인이 미소 지었다. 그녀의 침묵이 그 무서운 추측을 증명해 주었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "...이해가 안 가."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "재건의 손이 원한을 부추기고 섬에서 순혈 마도학자 멤버를 구하고 싶었던 거라면 목적은 이미 이루었잖아."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "여길 거점으로 삼고 싶었던 거라면 정화 의식이 실패했을 때 움직일 수도 있었어."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "그런데 당신은 아무것도 하지 않고 여기 서 있기만 했지... 이유가 뭐야?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아르카나",
+          "text": "하하, 하하하하..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "뜬금없이 그녀가 웃기 시작했다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아르카나",
+          "text": "이해가 잘 안되죠, 버틴?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아르카나",
+          "text": "...난 당신을 기다리고 있었어요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "소네트와 릴리아가 동시에 앞으로 한 발짝 나섰다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "릴리아",
+          "text": "괜히 말 섞을 필요 없어, 버틴. 시작하자."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소네트",
+          "text": "거리 유지하세요. 아르카나의 마도술은 근거리에 있는 인간의 정신에 영향을 주니까."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아르카나",
+          "text": "참 안타깝네요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그녀가 팔을 들어 올리며 손목의 석제 팔찌를 내보였다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "팔찌는 손목에 미끄러져 내려오더니, 잔디로 빠져들어 잘 보이지도 않는 가루로 변했다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아르카나",
+          "text": "참 정교한 한 쌍의 ‘반지’ 같지 않나요... 간직하고 싶었는데 아쉽네요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아르카나",
+          "text": "그런데... 당신 것은 어떻게 풀 건가요, 버틴?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그렇다. 여전히 믿음을 버리지 않은 신도처럼, 학파를 유지하고 있는 현자처럼, 정화 의식의 긴 여정을 마친 정수처럼..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "이 석제 팔찌 역시 자신의 소임을 다하고 있었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "교전 불가의 협정은 여전히 유효했다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "레굴루스",
+          "text": "...뭐야? 섬이 이렇게 박살이 났는데, 이건 왜 아직 멀쩡히 작동하는 거지?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "레굴루스",
+          "text": "대체 뭘로 만든 거야..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소네트",
+          "text": "걱정하지 마세요, 레굴루스. 우리가 처음 계획했던 대로니까요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "제1조수는 물러서지 않았다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소네트",
+          "text": "처음부터 섬의 규칙에 의문이 들었어요. 하지만 교리를 배우며 점점 이해하게 되었죠."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소네트",
+          "text": "자연어를 바탕으로 전달되는 지식은 취약해요. 모호하고 모순되며, 늘 많은 허점이 있죠. 그래서 섬의 마도학자들은 더 정확한 수학을 떠받들고, 그걸 진리의 언어로 본 거예요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소네트",
+          "text": "그들은 언어의 모호함을 비웃고 허점을 비꼬며 모순을 파헤쳤어요. 마치 그 변론처럼."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소네트",
+          "text": "...그리고 이 석제 팔찌의 규칙처럼."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "릴리아",
+          "text": "맞아, 먼저 공격할 수 없다... 그런데 공격이라는 건 뭐지?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "릴리아",
+          "text": "시험지를 만든 사람도 답지에 그걸 적어두지 않았잖아."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소네트",
+          "text": "공격 의도가 없으면 공격으로 판정되지 않아요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소네트",
+          "text": "...이게 바로 석제 팔찌에 숨겨진 규칙이에요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아르카나",
+          "text": "후훗, 허점을 파고들다니. 흥미로운 시도네요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아르카나",
+          "text": "그럼 충성스러운 그 동료를 희생할 준비가 됐나요? 재단의 강아지?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그녀의 뒤에서 흐릿하고 모호한 피조물 형상이 나타났다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "소네트가 고개를 저었지만 손에 쥔 유리펜의 끝은 조금도 흔들리지 않았다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소네트",
+          "text": "같은 실수는 저지르지 않을 겁니다, 아르카나 씨."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소네트",
+          "text": "난 내가 무엇을 하는지 잘 알고 있기 때문에 당신의 암시는 통하지 않아요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소네트",
+          "text": "...모두의 평화를 위해..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소네트",
+          "text": "내가 당신을 막을 겁니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "마도술의 눈 부신 빛이 완드 끝에서 흘러나왔다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소네트",
+          "text": "Regna sereno intenso ed infinito!"
+        }
+      ]
+    },
+    {
+      "script_id": "100732",
+      "internal_title": "第七章7-21.2",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "???"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "물보라가 뱃전을 때렸다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "이것은 신세계로 나아가는 배이자 귀항할 수 없도록 운명 지어진 배였다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소피아",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "붉은 머리의 소녀는 배에 오른 뒤로 입을 떼지 않았다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "모든 것이 이미 결정된 지금, 그녀는 오직 침묵했다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "재건 교인Ⅰ",
+          "text": "...소피아 씨."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "재건 교인Ⅰ",
+          "text": "안내하는 자는 정말 우리와 함께 떠나지 않는 건가요? 그녀는..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소피아",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "전령은 대답 없이 손에 든 작은 성상만 계속 어루만졌다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그것을 손에 넣은 순간의 기억이 아직도 생생했다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소피아",
+          "text": "그러니까 지금..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아르카나",
+          "text": "당황할 거 없어요, 우리 아가."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아르카나",
+          "text": "제대로 들은 게 맞으니까."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아르카나",
+          "text": "...난 오늘 죽을 겁니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소네트",
+          "text": "타임키퍼, 주문 α 지점 준비 완료되었습니다!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "릴리아",
+          "text": "β 지점도 준비 완료!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "레굴루스",
+          "text": "나랑 미스터 APPLe도 오케이!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "좋아!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "이번 전투의 목적은 처음부터 공격이 아니었다. 적어도 여기서 벌어지는 공격은 아니라고 해야 할까."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "대형 마도술 등록 번호 000262603100008, ‘소망의 길’ 사용을 신청한다!!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "A급 위험 단계의 범죄자를 파르메니데스 기지로 전송한다!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "거대한 주문의 빛이 반짝이며 중앙에 있던 아르카나를 뒤덮었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아르카나",
+          "text": "...오?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "릴리아",
+          "text": "당황할 거 없어. 그냥 장거리 여행에 초대하는 거니까."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "릴리아",
+          "text": "...순조로운 여정이 되길."
+        },
+        {
+          "kind": "title_card",
+          "text": "제노, 파르메니네스     기지"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "조작원Ⅰ",
+          "text": "기폭 장치 준비 완료. 발사 카운트다운, 30, 29, 28..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "관찰원Ⅰ",
+          "text": "목표가 아직 지정 위치에 도착하지 않았습니다. 경고합니다. 목표가 아직..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "조작원Ⅰ",
+          "text": "15, 14, 13..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "관찰원Ⅰ",
+          "text": "대형 마도술 주문 에너지 감지, 검사 통과, ‘소망의 길’. 생체 신호 등장, 제자리에서 목표 관측됨, 기폭 장치 가동..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "조작원Ⅰ",
+          "text": "6, 5, 4, 3, 2..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "조작원Ⅰ",
+          "text": "1!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "조작원Ⅰ",
+          "text": "진공 폭탄 폭파 성공."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "관찰원Ⅰ",
+          "text": "마도학 에너지 신호 감청 불가, 생체 반응 흔적 없음."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "관찰원Ⅰ",
+          "text": "목표, 아르카나, 섬멸 완료..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "조작원Ⅰ",
+          "text": "정말 다행입니다. 우리가 해낸 겁니까? 우리가 해냈습니다!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "조작원Ⅰ",
+          "text": "장군, 한스... 우리가 99년에 못 했던 걸..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "관찰원Ⅰ",
+          "text": "이, 이긴 겁니까...?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "이고르 장군",
+          "text": "경계를 늦추지 마라."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "이고르 장군",
+          "text": "...하지만 그 전투를 위해 잃었던 모든 것이 이 순간 영원히 세계의 역사에 기록될 것이다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "조작원Ⅰ",
+          "text": "잠깐, 한스!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "조작원Ⅰ",
+          "text": "...그거 무슨 소리야? 네 감청 리시버에서..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "모두의 귀에 들렸다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "귀에 거슬리는 치직대는 소리가 조용해야 할 실내에서 뜬금없이 다시 울렸다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "관찰원Ⅰ",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "관찰원Ⅰ",
+          "text": "보, 보고드립니다. 생체 신호를 들은 것 같은데 음질이 좋지 않아 확실하진 않습니다..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "이고르 장군",
+          "text": "이리 줘."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "이번 작전은 임시 계획이었던 탓에 상황실의 장소조차 선정에 미흡한 부분이 많았다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그래도 실내의 이상한 잡음은 다행히 사라진 뒤였다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "이고르 장군",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "이고르 장군",
+          "text": "......"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "이고르 장군",
+          "text": "아니, 아니다. 그건 생명의 소리가 아니야."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "이고르 장군",
+          "text": "...바람 소리다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "사람들",
+          "text": "......"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "조작원Ⅰ",
+          "text": "...! 그렇다면..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "동지들이여, 우리가 해냈다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "조작원Ⅰ",
+          "text": "...우리의 위대한 승리를 축하합시다! 장군과 타임키퍼 소대에 경의를!!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "관찰원Ⅰ",
+          "text": "장군, 오늘 우리가 마침내 평화를 지켜냈습니다. 용맹한 이날에 영광을 돌립니다!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "사람들",
+          "text": "이 순간 열심히 싸운 모두에게 영광을!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "사람들",
+          "text": "우리가 해냈다!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "상황실에서 최종적인 승리의 환호성이 터져 나왔다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "아르카나, 사망."
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

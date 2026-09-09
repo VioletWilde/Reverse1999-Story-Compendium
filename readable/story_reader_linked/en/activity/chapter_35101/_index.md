@@ -1,4 +1,4 @@
-# Event Stories · 绿松石蛇俱乐部
+# Event Stories · The Turquoise Serpent Club
 
 - [3510101 Butterfly Effect](3510101-Butterfly Effect.md) — ¡Lotería!
 - [3510102 Determinism and Chaos Theory](3510102-Determinism and Chaos Theory.md) — A debate that has raged since the 19th century.

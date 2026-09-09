@@ -1,0 +1,2540 @@
+{
+  "episode_id": 2010102,
+  "chapter_id": 20101,
+  "chapter_title": "飛馳！明日之城",
+  "display_label": "",
+  "title": "娛樂不至死",
+  "subtitle": "聽著，把手舉起來，把書放下！然後——去拿起遙控器。",
+  "trails": [
+    {
+      "element_id": 2010102,
+      "owner_episode_id": 2010102,
+      "trigger_episode_id": null,
+      "title": "被退回的信件",
+      "description": "幾封輕飄飄的信，被抖落了灰塵。其中的關切雖然溢於言表，但亦能看見克制的痕跡。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=2010102",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "被退回的信件"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "4月3日\n    嘿，我打聽到你剛到聖洛夫基金會的老窩。\n    我猜，你肯定對他們表面端著架子，實則半吊子的事實大失所望，哈哈哈。\n    近況還好嗎？   一切都還好？\n    回見，等你好消息，小傢伙。\n\n4月20日\n    霍利克準備賺錢開一家修理鋪，那夥計的頭腦終於開點竅了。\n    我還沒收到你的回信，保利娜，如果你把信丟進垃圾桶或者燒光了，記得跟郵差說一聲，省得我再繼續浪費這些紙。\n    他們是不是讓你忙得焦頭爛額？餐館隨時歡迎你回來。\n    照顧好自己，小傢伙。\n\n…………"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 2010201,
+      "owner_episode_id": 2010102,
+      "trigger_episode_id": null,
+      "title": "宇宙禪",
+      "description": "靈性是什麼？宇宙是什麼？也許答案只存在於心中。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=2010122",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "讓我們把時間倒回到幾年前。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "為什麼要倒回到幾年前？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "因為這對你有好處。你眼前正躺著一個充滿謎團的姑娘，她弄得你暈頭轉向。你抓耳撓腮，試圖理解到底發生了什麼。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "而這該死的一切，要從很久很久以前，從猴子決定使用雙腳站立開始說起……"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "我要前進到未來",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "太棒了！你身上這種拳擊手一樣的壯志雄心正是我們所需要的。但很遺憾，我不能帶你前往未來。不，我本來可以，但現在不能。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "現在要做這件事的，另有其人。\n在解開這個大謎團之前，我認為我們有必要先梳理眼前的主要矛盾——"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "相信我，你不會因為得知了這個故事而感到後悔。"
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "好了，開始胡扯吧",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "你的幽默從來不會令我反感。好了，過去的時光正等著我們回望。"
+                }
+              ]
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "不，我已經厭倦你了",
+              "edge_label": "",
+              "branch": []
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "但我永遠不會厭倦你，寶貝。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "我尊重你的決定。當你準備好接受一個故事，去尋找你的同伴。他們會告訴你究竟發生了什麼。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "……而我會在下一個目的地謙遜且忠誠地等待你。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "20世紀初的一個冬日，雨陰沉沉地下個沒完，西傑克遜大道的廣場上堆滿了人。這裡有一座義大利文藝復興風格的宗座聖殿。你很少見到這麼多的人聚在一起卻不吭一聲。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "這是一場黑色的追思彌撒。主祭者唱誦安魂彌撒曲，參加葬禮的人們在胸口劃著十字聖號。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "逝者一定是個受敬仰的人",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "“他是神父。他為一位世罪者奉獻……主會賜予他永恆的安息。”一位黑袍婦女轉過來對你低語道。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "逝者或許是個有權勢的人",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "“什麼是權勢？”一位肅穆的女士朝你搖了搖頭，“世上只有上主能除免我們的罪孽，能評判我們的是非，但他不要權與勢。”"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "“葬禮的主人也是如此。他是我們的神父。他為一位世罪者奉獻……主會賜予他永恆的安息。”"
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "她把頭轉回去了。解釋這些令她感到不滿。參加葬禮的隊伍越來越長，廣場填滿了高低不一的詠唱。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "格雷克一家也在其中。長柄雨傘像烏雲一樣罩在他們身上，很快，他們的聲音就被嗚咽聲取代了。你很難分辨出他們臉上的表情是欣慰還是悲傷。但你沒見著斯奈德的身影。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "她在哪兒？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "順著格雷克先生斷掉的左掌的方向看過去，對，就是那塊被繃帶包裹的地方。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "在距離人群3390英尺的位置，是教堂的背陰處，那裡站著你想見的那個女孩。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "她面色蒼白，身形瘦小，就像剛從一場大病中康復。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "但她拳頭緊握，眼中擰著一把火，在和無處不在的歌聲對抗。你不知道她為什麼看起來那麼——那麼憤怒。她現在，有十一歲嗎？"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "而彌撒也即將迎來最後的高潮。雨越來越大了。主祭者的手高高指向天空：“願主與你們同在。”"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "“也與你的心靈同在。”斯奈德用幾乎微不可聞的聲音回應到。她的手緊緊握住胸膛。這是她第一次對主回應，也將是最後一次。"
+            }
+          ]
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 2010202,
+      "owner_episode_id": 2010102,
+      "trigger_episode_id": null,
+      "title": "好萊塢商務",
+      "description": "不是所有人都喜歡它的續集，但大多都喜歡它。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=2010122 and ChapterMapElement=2010201 and ChapterMapElement=2010203 and ChapterMapElement=2010211 and Act161CdFinish = 2010202",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "你們看起來很緊張，你們都知道將有大事發生。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "用你們——那個、那個充滿了古怪想法的腦瓜——你們冥冥之中能感受到這個，這是你們的特殊能力，和敏感的神經、充沛的情緒一同來的能力。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "事情混亂起來，新朋友與老朋友一個個到場，然後，你們都在這兒了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "一道霧氣就地升起，把黑與白隔開，就像是隔開兩群鬥犬。它們在兩側的空間內團團地轉，露出的獠牙幾乎要撕碎自己的尾巴。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "霧氣之內發生了什麼？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "問得很好，親愛的。讓我們一起看看這兒，就你的腳下——"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "你在重塑之手的地盤上行走，在他們眼皮子下偷去了紅羽毛與血漬裡的斯奈德，又對著那漂亮的德魯伊竊竊私語。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "而你的敵人手腳一樣也稱不上乾淨。瞧瞧這些木箱子，所有人都餓得快死了，可這裡頭只有棉花，棉花，還有棉花。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "黃油、麵粉、蔗糖，甜美的一切好東西在黑狗的手上一轉就奔向了芝加哥。但沒關係，棉花一樣能填滿肚子。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "來，跟我來，往那兒看，往空氣裡蓄滿了淚水的地方看，有母親正抱著她昏迷的孩子啜泣，她的孩子正在死去，而貴族老爺夫人們還在擔心綢緞，擔心寶石弄上了這兒的泥巴。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "霧氣之外發生了什麼？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "是的，你該這麼問的。你已經很久沒出去過了，他們的故事對你來說盡是未知。如果我是你，我也會一樣好奇。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "聖洛夫基金會裡的聰明人和你一樣察覺到了重塑之手的行動，他們一面攔截運輸，一面向著迷霧逼近。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "你穿黑西服的小姑娘已經回到了你所安排的地方，他們把她安頓得很好。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "而你那忠誠的漂亮朋友正為了你奮戰，她身邊帶著那個吵鬧的搖滾女孩兒、頭腦靈活的小夥子以及一枚紅果子。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "她正要來救你，她為你穿過一道道戰鬥的溝壑，就像是王子穿過沉睡之城的荊棘，就像是奇跡的小狗撕咬著拉出火海裡的主人。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "這道霧氣是什麼？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "有趣的選擇。這很符合你的身份，小怪胎。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "你有一個與眾不同的腦袋，裡面裝著與眾不同的東西。這不是壞處，保持這一點，常常使用它。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "讓我們回到你的問題，霧氣——關於霧氣，毫無疑問的，那個酒館老闆製作了它。就像是調酒那樣，加點這個，加點那個，大坩堝攪幾下，想要的東西自然出現。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "它有迷霧該有的效果，比如遮擋視線、隱藏秘密、阻礙進出者的速度。也有迷霧所不有的效用，像是致幻、湧動的毒素，讓人永遠迷失在霧中的、在地圖上從未記載的岔路。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "他是個精明的傢伙，也很陰險。但是哪兒都不缺聰明人，尤其是這種場合。"
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "我們要做的是等。等。等下去。\n但不等太久，那樣就犯傻了，知道嗎，適當地等-等一等！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "一場好戲就要上演了，你將看到有史以來最為盛大的表演！哦，當然，你也可以去，去站在正中間，然後帶著你的漂亮箱子，撐起一把傘，擺足了場面地耍帥鬥狠。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "等著瞧吧，黑狗與白狗間的隔板再撐不了多久，這兒逃不過撕咬，逃不過見血。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "拿好你的爆米花，親愛的。\n然後——坐穩、扶好，你可能會哭，也可能不會，我他*也不在乎。"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 2010203,
+      "owner_episode_id": 2010102,
+      "trigger_episode_id": null,
+      "title": "《我們會活下去》",
+      "description": "一首傳奇歌曲，做了些更符合當下的填詞。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=2010122",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "《我們會活下去》"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "就都滾吧，都滾到外面去，\n請現在就轉身，\n既然你已有了新生活，\n你不喜歡海特街的一磚一瓦，\n難道這是我的錯？\n\n你以為海特街離了你會活不下去，\n哦不，我們會活下去。\n我們會像個大家庭一樣活下去，\n我們會過上更好的生活，\n我們在泥泊裡打滾也會活下去，\n我們會活下去……"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 2010204,
+      "owner_episode_id": 2010102,
+      "trigger_episode_id": null,
+      "title": "複雜的部分",
+      "description": "喜歡的明星造型大變到判若兩人？常有的事。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=2010122 and ChapterMapElement=2010205 and ChapterMapElement=2010212 and ChapterMapElement=2010215 and Act161CdFinish = 2010204",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "不，你還沒醒。現在你還在這片黏稠的、流動的、黑色螻蟻的冥想世界裡。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "這裡是哪兒？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "哪兒也不是，你這好奇心爆棚的潘朵拉。這兒可能是一片汪洋、一口井，是無名指的下緣……隨便你怎麼理解。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "在經歷了一場“熱烈邀請”後，你的腿上帶了一點黴菌般的淤青——草履蟲們覺得這能讓你屈服。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "但對你來說，有些看不見的傷口比這嚴重得多。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "放心，儘管他們的手段並不溫柔，你也未必溫順得像隻羊羔。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "我在記憶裡？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "記憶？好想法！你引以為傲的邏輯思維仍舊維持著正常運轉。好讓你現在也能像個生物學家一樣，衝著沼澤分析該死的駝背巨魚。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "但是抱歉，讓你失望了。這不過是一場夢，一場違背了你個人意願的夢境——強人所難向來是他們的拿手好戲。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "他們是？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "一群穿著袍子的傢伙。袍子由白色的聚酯纖維製成，長度大多在膝蓋以下。白袍子一號到白袍子七號都來了。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "可能只有單數，又或許混進了四號或者六號——他*的，隨便他們怎麼樣。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "重要的是，其中有與你同窗的小姑娘。不，不是那個溫柔忠誠，總是站在你身邊的那個。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "是另一位——一位邊緣簡潔冷硬，摸上去像是個精密機械的女孩兒。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "我們姑且先像大部分人一樣忽略掉她的名字，只朝著那個最光鮮的姓氏望過去。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "酒鬼眼中的雪麗桶威士忌，煙鬼眼裡被雪松盒盛著的厄普曼——以及神秘學界的梅斯梅爾。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "我明白了，高級貨",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "哈哈哈，你這爛鼻子的壞蛋。你的幽默感從來不會讓我失望！沒錯，沒錯，高級貨。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "很早以前，更早以前，在你或許有機會親歷的某個過去。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "從人類剛剛放棄了禱告的那個時期開始，拉普拉斯與他們——嘿，對了，那幫人更願意自稱為學者——達成了長久的合作。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "梅斯梅爾……他們是做什麼的？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "擺弄那種神叨叨怪把戲的。坐在那裡，拿鐵棒一指你便昏睡過去，在脖子上掛上鐵圈兒你又會感到灼燒似的疼痛。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "你熟知這種怪把戲，畢竟你周圍淨是些會用怪把戲的傢伙：用玻璃筆保護別人的小姑娘，以及那個飄來飄去的會跳舞的蘋果。"
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "他們掐斷意識的火焰，幫助你往自己的最深處下墜……就像現在這樣。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "能熟練運用它的神秘學家一隻手都數得過來。要知道，稀缺往往是一個悲劇故事的楔子。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "她的噩夢就是這樣開的頭：從兒童勞動保護法變成了用來包三明治的、皺巴巴的紙開始。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "十二歲的小姑娘被帶領著走進了屋子。她早在門外就敏銳地感覺到了這裡的磁場變成了一團雜亂的風滾草。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "神秘學家的精神比人類脆弱得多，用不了多少刺激就能讓他們退行成一頭惡獸。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "梅斯梅爾們仁慈、專業。他們歡迎每一位前來治療癔症的客人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "——這時你該意識到了，餐紙保護的從來都不是三明治，而是拿著它的手。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "那些品牌不明的芥末醬、被捏碎的肉排，邊緣帶著鐵銹色的生菜從麵包縫隙裡流了出來。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "混沌、污穢以及刺耳的慘叫——小姑娘被這些東西淌了一手，沾濕了身上的白色的聚酯纖維。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "……",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "嗯，的確是個沉默的好時候。"
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "現在，你注意到了機器上那些裸露的傷口，注意到了那些像是反覆盥洗、重複整理的痕跡。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "畢竟孩童時期經歷的創傷總能給人留下深刻的印象。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "這些東西被細細篆刻在骨間，它們沿著脊髓拾級而上——最後在每一寸神經元上抹上惡臭的鼻涕。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "自此之後，每一次成長都是痛苦的延伸：新的骨頭生出來就被腐蝕，舊的細胞代謝也於事無補。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "這種事，你和她都很熟悉。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "好了，箱子提穩，看看時間——你該從這兒滾蛋了。"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 2010205,
+      "owner_episode_id": 2010102,
+      "trigger_episode_id": null,
+      "title": "圓環之舞",
+      "description": "聽說某個雜碎黑幫進了批能“讓使用者飛上天”的玩意，這可不能放著不管。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=2010122 and ChapterMapElement=2010202 and ChapterMapElement=2010207 and Act161CdFinish = 2010205",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "圓環之舞"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "老大最近沉迷脈輪，對，就是那個每人會有七個、彩虹一樣的玩意。\n這是個討老大歡心的好機會，拿著這些錢，去集市上買點禮物回來。\n\n……\n\n我叫你去新紀元集市上弄些神神叨叨的小玩意，不是讓你去買鋼圈的，環刃和脈輪是不一樣的，白癡！\n把這些鐵片看好了，我會負責找下家，這樁蠢事別讓第三個人知道。\n\n……\n沒有人願意買那麼多鋼圈，你去弄幾桶汽油來，記住了，是汽油，不是油漆。\n我知道你會有意見，但不這樣做我們沒法平帳，要是被老大發現我們偷偷挪錢幹這種蠢事，你我都得穿水泥靴。\n或者你可以祈禱有小偷連夜搬空了倉庫。那你就只需要去和小偷幹一架了。"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 2010206,
+      "owner_episode_id": 2010102,
+      "trigger_episode_id": null,
+      "title": "勝利晚宴",
+      "description": "又有啟明會的手下在靠近海特街的街坊們，得讓他們知道這是誰的地盤。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=2010122 and ChapterMapElement=2010205 and ChapterMapElement=2010212 and ChapterMapElement=2010215 and Act161CdFinish = 2010206",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 2010207,
+      "owner_episode_id": 2010102,
+      "trigger_episode_id": null,
+      "title": "S代表什麼？",
+      "description": "又有年輕人在餐館裡裝醉逃單，該讓夥計們出馬了。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=2010122 and ChapterMapElement=2010201 and ChapterMapElement=2010203 and ChapterMapElement=2010211 and Act161CdFinish = 2010207",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 2010208,
+      "owner_episode_id": 2010102,
+      "trigger_episode_id": null,
+      "title": "保利娜的日記",
+      "description": "未被傳遞的真心，靜靜躺在上了鎖的抽屜裡，仍然溫熱，一如既往。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=2010122 and ChapterMapElement=2010204 and ChapterMapElement=2010206 and ChapterMapElement=2010210 and Act161CdFinish = 2010208",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "保利娜的日記"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "我曾收到過一個非常可愛的毛絨玩具，印象裡，大概是五歲那年的聖誕節，噢，如果我記得沒錯的話，應該還有一張老照片呢！\n\n    我就坐在聖誕樹旁邊，頭上沾滿了雪花，正咧開嘴大笑著，旁邊躺著一隻特別乖巧的小熊，它有著比其他玩具熊都長一截的尾巴，可愛極了，我去哪裡都帶著它。\n\n    在每一個餓得睡不著的夜晚、每一個爸爸媽媽吵架的夜晚、每一個冷到忍不住打寒戰的夜晚，我都會緊緊摟著它，因為它是這麼溫暖、這麼柔軟，只要還能抱著它，一切就遠沒有看上去那麼糟糕，它對我來說，實在是太重要了，它是我最初與最後的朋友——我向來這麼認為。\n\n    直到媽媽牽著我的手，帶領局促不安的我踏進天鵝絨餐廳大門的那天為止。\n\n    我第一次意識到，我或許擁有了與懷中這隻小熊同樣重要的東西——一塊香氣四溢的蛋糕、一床柔軟厚實的棉被、一個遮風避雨的家。\n\n    今天是我人生中第八個聖誕節，和往年不太一樣，我再次收到了精心準備的聖誕禮物，雖然我知道，包裝紙上的蝴蝶結肯定不是那個大個子親自繫的，不過，我還是很開心！\n\n    他送給我的是一條藍絲巾，說是和我眼睛的顏色很配。看在絲巾很漂亮的份上，我就原諒他那連藍色和綠色都分不清的粗神經了，但什麼人會直接問對方來年聖誕節想要的禮物？真是沒有浪漫可言。\n\n    當然，我確實早就想好明年要什麼禮物了！一個更大、更暖和，能裝下更多家人，比海特街更寬廣的家！"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 2010209,
+      "owner_episode_id": 2010102,
+      "trigger_episode_id": null,
+      "title": "寶瓶座時代",
+      "description": "和諧的時代，自由的時代，任誰都夢寐以求的時代。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=2010122 and ChapterMapElement=2010214 and Act161CdFinish = 2010209",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "寶瓶座時代"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "鴕鳥電臺：一曲《The Golden City》放送完畢。我親愛的寶貝們，美好只存在於音樂裡，沒錯，我們都想逃離，都想騎著酷到沒邊際的摩托，什麼都不想，沿著公路的某個方向不斷往前，再往前，離開這寸腐朽的土地，離開沒完沒了的黑幫打手、神經質，離開欺負老實人的政府老爺，離開喋喋不休的廢話，離開這裡，無論做什麼都行！\n\n鴕鳥電臺：這便是“雙魚座時代”的餘波。不過，我們馬上就要邁入“寶瓶座時代”——一個彼此理解、互相信任的新時代，一個真正的烏托邦，一個沒有虛偽、嘲諷、曲解與憤懣的自由世界。\n\n鴕鳥電臺：廢話不多說，讓我們來聽聽這張酷斃了的新專輯《另一個時代》。小心肝們，小兔崽子們，快跟著我一起晃起來吧！\n\n接下來是放送時間（音樂聲）：\n\n“我們渴望、期盼與迎接，能讓心靈得到全然慰藉、能讓話語暢通無阻、能讓身體真正放鬆下來的好去處。”\n\n“它不僅僅存在於幻想中，它是鎖眼裡閃爍的燈球，是一曲酣暢淋漓的迪斯可，是一半金酒一半青檸汁的正宗螺絲起子。”\n\n“更重要的是，我們相信它終將到來。”"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 2010210,
+      "owner_episode_id": 2010102,
+      "trigger_episode_id": null,
+      "title": "一切的原點",
+      "description": "重新來過永遠都不嫌晚。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=2010122 and ChapterMapElement=2010205 and ChapterMapElement=2010212 and ChapterMapElement=2010215 and Act161CdFinish = 2010210",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "簡單到像是用線段構成的、純白的床，上面有個看上去未必能讓人做個好夢的白枕頭，以及半屋子滿滿當當的光。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "我討厭禁閉室",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "噢，你要是說得出喜歡，我就該建議你去瞧瞧腦子了。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "聽著，我不知道你對藝術有多少瞭解，不過最好的情況是像我一樣一竅不通——別他*的傻笑了！這毫無疑問是藝術，是60年代的又一場藝術革命。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "看上去不錯",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "哦，棒極了！現在你開始愛上禁閉室了！等我開上瓶啤酒……恭喜你！你也成了個瘋子，要麼就是成了個藝術家——無論哪個都值得慶祝！"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "你對此頗有造詣。想必現在已經等不及要和我解釋下為何唐納德·賈德不給自己的那些方盒子起名字了。"
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "這一切都是人類那顆理性大腦做的好事——哲學與美學交織成一個螺旋，跌跌撞撞地往前邁著步子，一直到今天……一直到“過去”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "簡單變得複雜，文明吞噬著文明。而後突然有一天，他們回頭向深處望去，見到了那副巨人觀。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "好在一切都為時未晚。解決的方法非常簡單——他們先是把形丟了出去，隨後又扔掉了概念，現在又拋卻了情緒與隱喻。一切開始變得純粹……最後正方形又變回了正方形，並且除此之外它什麼也不是。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "簡單的數學問題",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "甚至是連三歲的小屁孩都做得了的減法！"
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "極簡主義——不得不說，這是個好現象，它向宇宙證明了這些充滿智慧的靈長類並非那麼無藥可救。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "用藝術來抵禦痛苦與消費主義，這舉動像你的新後媽一樣溫柔。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "再過幾年，減到這顆星球重新長滿樹，猴子老老實實吃它們的果子——"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "就會回到過去？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "是前往新的未來，你個傻蛋。"
+            }
+          ]
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 2010211,
+      "owner_episode_id": 2010102,
+      "trigger_episode_id": null,
+      "title": "“有場大賽要開始了”",
+      "description": "這是J首次站在地下拳擊賽的擂臺上，面前的壯漢朝他亮出鑲得頂好的假牙，左右開弓，先衝空氣揮了記上勾拳。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=2010122",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 2010212,
+      "owner_episode_id": 2010102,
+      "trigger_episode_id": null,
+      "title": "幕後花絮",
+      "description": "誰會在意這部情景喜劇究竟播了多少季呢？",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=2010122 and ChapterMapElement=2010202 and ChapterMapElement=2010207 and Act161CdFinish = 2010212",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "一張泛黃的，邊緣焦脆的合影。即便它被如此小心地保存，仍舊免不了被時間腐壞的命運。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "相片裡的人面目模糊，只瞧得出是一水兒的黑頭髮。相紙的最上方有一行小字，方塊兒似的——或許是某種來自東方的文字。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "相片裡的人是……？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "你對此毫無頭緒，在自己記憶裡找不到一點兒關於這些人的蛛絲馬跡。從沒見過他們——你篤定地給了自己這樣一個結論。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "除了第二排，自右側數的第三個。你認得她的面孔。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "她與你記憶裡的樣子相比顯得年輕了一些。兩股麻花辮藤蔓一樣地垂在她面頰兩側，那雙黑色鏡框後的眼睛仿佛來自一頭沉穩的鹿。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "相片上寫著什麼？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "“19**—19**倫敦帝國理工學院留學生紀念”——一行方正的文字，有燙金的痕跡。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "該有的資訊都有了——我是說，好消息！年份在如今不是什麼重要線索了！"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "她從哪兒來？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "東方，太平洋西岸的一片廣袤土地。載著她的渡輪曾穿過了直布羅陀海峽與蘇伊士運河。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "照片從哪兒來？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "別這麼刨根問底的，大家都更在意歸處——要時刻告誡自己別落得和這照片一樣的結果，變得有家不能回。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "說說吧，你都知道些什麼",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "客氣點，小惡棍！這不是什麼免費的睡前故事，我也不是你慈祥的好爺爺。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "你認識她，但算不上熟悉。你我之間沒人熟悉——熟悉她的另有其人。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "如今的她剪短了頭髮，變成了白色百合花上的露珠，在花萼之下搖搖欲墜。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "那朵百合花是什麼樣子的？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "純白色，花瓣光滑，花藥是健康的淺色。摸上去——是冷的，而且堅硬，像鋒利的大理石，時刻準備在你的手上留下一個窟窿。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "露珠是她帶過來的，也是她培育的。毫無疑問，百合花是個優秀的教導者，露珠也是個難得一見的好苗子。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "她為什麼來到這裡？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "這裡？嚴格來說，她最初的目的地並不是“這裡”，不是這幢灰白色建築，不是傘下，也不是花萼。她是名理論物理學研究者——研究弦論。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "遠渡重洋也只是為了重新回到那片蓄勢待發的土地。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "但計畫趕不上變化，那朵百合永遠有辦法讓事情如她預期一般發展。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "露珠會不會變成百合花？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "好問題，她既無慾望，又沒願心，故土還在遠方等著她——科學家又怎麼會變成政治家！"
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "我真想這麼篤定地回答你……但是你也意識到了，對吧？你也感覺到了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "現在——貓被重新關到了盒子裡，始作俑者把蓋子封得嚴嚴實實。你我只能在外面抓耳撓腮，像個足球流氓一樣為自己的猜想下注。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "明天，或是後天——哈！等著賠個底兒掉吧！"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 2010213,
+      "owner_episode_id": 2010102,
+      "trigger_episode_id": null,
+      "title": "最初的夥伴",
+      "description": "魔精常與街角的垃圾為伍，哦，夥計，這不是在罵你。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=2010122 and ChapterMapElement=2010209 and Act161CdFinish = 2010213",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 2010214,
+      "owner_episode_id": 2010102,
+      "trigger_episode_id": null,
+      "title": "療癒之外",
+      "description": "療癒的真意，往往不在於時間、場所與用具。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=2010122 and ChapterMapElement=2010204 and ChapterMapElement=2010206 and ChapterMapElement=2010210 and Act161CdFinish = 2010214",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "你重新跌回了人群之中。我理解的，我能感受到燃自你腦髓深處的渴望與沮喪——你想切身地體會一場怪誕的、破碎的、離奇的，超出你自身經驗的神秘學故事。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "但很遺憾，我忍不住要發出怪笑：你遇到了一點兒麻煩，不得不像隻螞蟻驚惶得在白袍子中間兜兜轉。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "來吧，閉上眼睛試試看。想像一台信號受損的電視機裡，一個紅鼻子的壞蛋向你攤開雙手：歡，迎，來，到，人，類，的，世，界。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "這些愚蠢的逗號！",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "沒錯，老兄！就像我們常見的大人物一樣令人費解。他們總是站在高聳的舞臺上，握著麥克風，嗓門裡的小舌頭緩慢地打著顫。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "喂，喂，測試，測試，三二一，三二一。逗號逗號逗號。而我們所有人都不得不膀胱憋著尿，餓著肚子，等待接下來會發生什麼。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "我本來就在人類的世界",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "絕妙的一語雙關！但現在的你並不明白我在說些什麼。等到那一天來臨，你找到了你，你找到了我，你找到了他們……哦，一想到那一刻，我這該死的心臟跟個臨終的麋鹿似的怦怦亂跳！"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "放眼現在，這也很好。你清楚自己的位置，頭腦裡沒有不該有的思緒，甚至還耐心地蹲在這裡——"
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "聽好了，這個世界上不止存在神秘學家。神秘學家，神秘學物種，甚至神秘學本身——都是一個隱秘得不能再隱秘的低微的存在。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "你必須要去瞭解現在權勢在握的人們。他們住在地球的另一邊，在地廣人稀的王座上編織著規則。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "為了秩序，為了理想，為了滿足大多數而犧牲少數的幸福，他們遊走在戰爭與交易之間，用統一的白骨搭建起至高無上的權力大廈。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "不，我並不是在講述一個俗套的反派故事。正相反，這是一個無聊的，為了探求什麼是公平與理想的，立於天空與大地之間的蠢物的掙扎紀事。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "時間還長著呢！向前走，要記得邁開腳步，別輕易下結論，確保你始終在路上。這樣你就能越來越瞭解人類。越來越瞭解人類。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "帶上你的顯微鏡，好好地去挖掘那堆可憐蟲的腐爛歷史去吧！"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 2010215,
+      "owner_episode_id": 2010102,
+      "trigger_episode_id": null,
+      "title": "不和諧音",
+      "description": "幾處陰影，猶如斷了弦的吉他，黏著污漬的黑膠唱片，只能奏出不和諧的樂曲。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=2010122 and ChapterMapElement=2010202 and ChapterMapElement=2010207 and Act161CdFinish = 2010215",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 2010216,
+      "owner_episode_id": 2010102,
+      "trigger_episode_id": null,
+      "title": "舊金山往事",
+      "description": "一份未被刊登的報導，一股濃烈的情緒，被風捲走，飄落到垃圾桶附近的魔精頭上。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=2010122 and ChapterMapElement=2010208 and ChapterMapElement=2010223",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "《昨日，今日》"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "“我回到家，坐在陽臺邊上，看著遠處高樓裡不曾熄滅的燈光，窺視著這座城市的昨日，與今日。”\n\n“90年代，將成為一個嶄新的、與過去完全不同的年代。人們會成為未來的一部分，抑或被永遠留在過去。”\n\n“我們都被困在這裡。困在90年代的舊金山裡頭——一個活潑與憂鬱、向上與破敗、富裕與貧窮並存的虛無之地。”\n\n“往窗子外頭瞅瞅，無論是海特街上無家可歸的老乞丐、新紀元集市狗屁不通的水晶療癒、黑袍子口中神神叨叨的頌詞，還是連褲子都不穿好，就跑到燈球底下晃個不停的混球們——大家全都沒救了！”\n\n“我不喜歡迪斯可，跟你說句實話吧，我從來就沒喜歡過那玩意。”\n\n“不過，去他的，我根本不在乎，老兄，我一點兒都不在乎。”"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 2010217,
+      "owner_episode_id": 2010102,
+      "trigger_episode_id": null,
+      "title": "新氣象",
+      "description": "有人離開，就有人到來。在唐老爹餐館吧台，老朋友、新朋友，再次歡聚一堂。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=2010122 and ChapterMapElement=2010209 and ChapterMapElement=2010218",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 2010218,
+      "owner_episode_id": 2010102,
+      "trigger_episode_id": null,
+      "title": "酷到沒朋友的宇宙燈球！",
+      "description": "那圓圓的、閃爍的、光滑的、冰涼的……物體可能是？",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=2010122 and ChapterMapElement=2010208 and ChapterMapElement=2010223",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "不同色彩的聲音從你的左耳進入，又從鼻孔裡滑出來，就像雪橇從高山小屋中出發，墜到滑道鬆軟的終點線上，除了一時的興奮什麼也沒留下。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "你的搭訕方式遜爆了",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "——呃。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "在說什麼？信號不好，噢，是的。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "我是說，雖然我與你們都不一樣，但我也有良心，好嗎？我的原則是不講廢話，這些都是恰到好處的暗示。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "要去度假？很好，我做好準備了",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "沒錯，你總是這麼機靈，充滿絕佳的幽默感！帶上你所有的防寒裝備，這裡風景優美，但仍是塊要和冰山打交道的危險地方。"
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "相信你也注意到了，在這冰川與峽谷，雪峰與湖泊之間，屹立著我們熟悉的偉大建築。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "閉上眼睛，感受那些灰色與白色交錯的花紋，建築的節奏，如此的均衡，對稱，像一首洋溢著律動的精密交響樂。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "這或許是你對基金會的初步印象。然而，經過一場委員會議，我看到你的面容就像被狩獵後的梗犬狠狠舔過，剩下的只有一片糟糕的混亂。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "他們**的到底在說什麼？誰能來解釋一下他們的關係？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "好問題！在這個寂寞的旋轉著的漆黑宇宙裡，只有我願意出現在公園裡的冷板凳上，告訴你這些前前後後的故事。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "基金會都有哪些職能？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "多得數不清！好傢伙，你得理解，一個野心勃勃的國際政治機構，就難免不在捅婁子和擦屁股之間來回跳躍。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "共融院與委員會，他們主管著立法，不止是基金會內部的，還有國家的，甚至是國際的！但凡與人類和神秘學家的關係有關聯的，都得經過他們患有腱鞘炎的體面的手。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "人類彎彎曲曲的腦溝建立了這樣合理的規則：位於共融院的代表人自競選中誕生，為他的選區負責。他們往往忙碌得像辛勤的工蜂，每年向委員會提交大量的議案。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "委員會則要選中一個幸運兒，把它推進到下一個流程，開始一場中世紀集會般熱鬧的辯論投票。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "集會裡聚集了許多人，黨團，主持人，數十個專家小組，每個人的立場和利益各異，就像一場頗具現代精神的精神搏擊！我們將在唇槍舌戰中等待十幾天，或者好幾個月，才能睜大眼睛看清楚是誰拿到了金腰帶。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "誰才是基金會的老大？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "你還沒有見過他。事實上，大部分人都沒有，因為機會總像流星一樣稍縱即逝。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "但沒有關係，少了他，基金會照樣能流暢地運轉！任勞任怨的康斯坦丁，那朵嚴酷的白百合，正盡職地把基金會往自己所以為正確的方向上掰呢。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "來吧，讓我們把眼光放長遠點兒。人類聰慧的大腦皮質表明，他們需要一些看起來相互制衡的關係。委員會、共融院和多個行政部門就這樣誕生了。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "共融院與委員會，他們主管著立法，不止是基金會內部的，還有國家的，甚至是國際的！但凡與人類和神秘學家的關係有關聯的，都得經過他們患有腱鞘炎的體面的手。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "委員會有權通過或拒絕代表人的議案。偶爾也有死腦筋的代表人，像隻護雛的紅背伯勞反覆地提交被拒的議案，直到筋疲力盡。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "等進入到正式的立法辯論階段，你就能觀賞到一場飽含現代文明精華的鬥獸表演，所有的主席、代表人、黨團、專家小組都是權力競技場裡的狂熱分子。"
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "通過了這一關，剩下的就交給那座白色石屋了。他們很少表達自己的意見，很少，但不是沒有。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "還有其他的嗎？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "噢，是的是的。你詢問的模樣是多麼的禮貌，好像在問一個大賣場裡向你兜售本地棉襪的兼職高中生。"
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "我會很好心地告訴你，當然還有其他的了！我們不能忽視基金會其他的行政部門，還有那倒楣的總部下屬的各國分部，充滿關懷的救濟院般的第一防線學校。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "要知道，基金會可是在管理世界！他們當然得弄出一點兒彎彎繞的規則出來，好讓聰明的人更聰明，糊塗的人更糊塗，大部分生活在中間的人呢，死去的時候能帶著無辜的笑意！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "人類最擅長折騰這些玩意兒。愚笨的神秘學家不能只知道抱怨，要去領悟，洞見他們的企圖——知道嗎？去感受規則裡溢出來的腦漿！這樣你總有一天就會明白……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "——生活就像乘坐平底雪橇。"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 2010219,
+      "owner_episode_id": 2010102,
+      "trigger_episode_id": null,
+      "title": "能量的漣漪",
+      "description": "一道波紋，一顆真心，它就在那裡，純粹、誠摯，始終如一。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=2010122 and ChapterMapElement=2010202 and ChapterMapElement=2010221 and ChapterMapElement=2010220",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "……"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "我剛睡醒，發生了什麼？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "睡得不錯，夥計，哈喇子甩得到處都是，差點糊住了我的眼睛。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "你沒想到基金會裡會有這麼多複雜的團體，看起來讓人一頭霧水——他們就不能造一個簡單的組織，讓人們的區別就像蛋糕夾層一樣清晰可見？"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "我這裡沒有麻煩，你不用過來",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "是嗎？老兄，你能百分百地確定自己沒有麻煩？"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "我睡得正香，做了闊別已久的美夢。夢裡我和三位女士，一群呆天鵝生活在一起，彼此相處融洽。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "突然一個倒楣鬼把我叫醒，告訴我這一切都還好，不需要我的説明。真是棒極了！我就像廣場上的一條狗！等著吧，接下來，糟老頭子會把所有的牢騷話都塞進你純真的耳朵眼裡。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "你對基金會的組織有興趣嗎？你驕傲的脖頸在表示抗拒——很好，那就從這個令人躍躍欲試的話題開始！"
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "基金會很混亂。聽好了，它始終在有序與無序的混亂間擺蕩，吸引著無數理想主義者和現實主義者為它駐足。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "“暴雨”的到來，加劇了漩渦的混亂狀況。神秘學家在水下浮潛，不斷地往上湧現——你看，Z女士就是一個很好的例子。她甚至與人類精英們平起平坐地待在同一張會議桌旁。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "水面下有更多的暗流在波動。自然資源組委會、人類黨團、文教部門……他們的成員相互交錯，背景模糊不清難以辨認。他們不止是為了利益，也為了無數纏身的瑣碎的爛毛線而忙碌。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "明白了嗎？你得不斷地分組分組分分分組——把一個大團體按目標拆成盡可能小的小團體，才能讓他們最高效且不帶任何感情地清理客廳裡的嘔吐物！"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 2010220,
+      "owner_episode_id": 2010102,
+      "trigger_episode_id": null,
+      "title": "嶄新的新紀元",
+      "description": "啟明會的思想被證明並不適合海特街的人們，新紀元即將迎來又一次革新。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=2010122 and ChapterMapElement=2010202 and ChapterMapElement=2010221",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "嶄新的新紀元"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "新紀元集市再開\n不再有陰森的啟明會\n感受純淨的宇宙能量\n\n這真的不是宗教\n拋棄愚蠢的選民思想\n嘗試自由的自我救濟\n\n什麼都不需要做\n任何學說都不值一提\n和平自然會引導群星\n愛與宇宙會引導我們"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 2010221,
+      "owner_episode_id": 2010102,
+      "trigger_episode_id": null,
+      "title": "活死人的黎明",
+      "description": "你會在應當相遇時遇到那位女士，除此之外就得問問宇宙能量了。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=2010122 and ChapterMapElement=2010203",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 2010222,
+      "owner_episode_id": 2010102,
+      "trigger_episode_id": null,
+      "title": "追趕者，被追趕者",
+      "description": "其實她心無旁騖，很清楚自己的目標是什麼。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=2010122 and ChapterMapElement=2010215 and ChapterMapElement=2010220",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "乒、乓、乒、乓、乒-乓乒乓乒、乓。乒。乓。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "太吵了",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "嗯。我同意。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "這太吵了。你看見那個合成塑膠製成的小球兒，它蹦蹦跳跳，從左到右，發出惱人的聲響。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "可我們只能看著它，就像是你只能忍受我。因為我們都無處可去。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "一場模仿秀？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "是的。模仿秀。球類模仿秀，小東西。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "就像是你模仿著救世主一樣，我模仿著一顆合成纖維塑膠製成的橙色小球兒。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "我在兩個球拍之間左右顛倒、無處可去，它們給我施加力，我就高高跳起，跳躍造成的氣流如何拂過我乾燥的發皺的皮——"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "哦——瞧瞧，這真是太巧了——這也是現在的你！"
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "哈！瞧瞧你這傢伙皺起眉頭的樣子——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "紙張一般的臉兒從眉頭到鼻樑都皺起來，紋路很少，痕跡很淺。我們都知道這代表著什麼，表情少可從來都不是你的錯。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "但現在你的臉不重要，或許對於有些人來說它很重要，但它還是不重要。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "你知道什麼是真正重要的嗎？\n——球賽，對，是球賽！當然是球賽！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "所有人都愛球賽，他們聚在一起，慷慨激昂地歡呼或是怒吼，他們選擇自己喜歡的球隊，花大價錢買隊服或是簽名球。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "但——那只是一枚球。你能理解我的意思嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "只是一枚球。一個幾何圖像中常見的圓形。一個世界中並不難見的輪廓。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "當第一個原始人撿起椰子，上下拋——接——拋——接——拋並從中感到愉快，咯咯叫喚的時候，他想過今天嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "讓一顆簡單的球，變得如此複雜而充滿奧妙的今天。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "複雜而充滿奧妙？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "哦！當然！複雜而充滿奧妙！"
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "動動你愚蠢又機靈的小腦瓜，再去仔細看看這場球類遊戲。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "它有複雜的計分規則、對反應能力的嚴苛考驗、無數種可能犯規的落球點，從手指，到手腕，再到手臂，正確的發力會為勝利幫上大忙！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "更重要的是，與所有球類運動相同，它的重點在於拋和接。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "這不是個簡單的活計，當你參與其中，你就得全神貫注。那顆小球從哪兒向你飛來，你要如何將其送回，一切都發生在半秒之內。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "適當的力道、精巧的小動作，腳下不能亂了拍子，找準呼吸的節奏。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "乒。乓。乒。乓。乒。乓。乒。乓……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "直到那個不斷四處彈射的小東西落在其中一方的陣地之前，這個聲音將永恆地持續下去。"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 2010223,
+      "owner_episode_id": 2010102,
+      "trigger_episode_id": null,
+      "title": "小目標、大目標",
+      "description": "我們的目標是擺脫太陽系。在那之前，讓我看到你們的手！",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=2010122 and ChapterMapElement=2010210 and ChapterMapElement=2010222",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "鴕鳥電臺",
+          "text": "下午好，舊金山！下午好，乳臭未乾的兔崽子們！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "鴕鳥電臺",
+          "text": "剩下的開場白就省略吧！因為接下來要講的事情是宇宙級的！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "鴕鳥電臺",
+          "text": "哈勃望遠鏡的服役狀況良好，科學家們推測它起碼能繞著地球轉40年。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "鴕鳥電臺",
+          "text": "這可是挑戰者號大出洋相後難得的好消息！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "鴕鳥電臺",
+          "text": "我知道你們肯定要問一個飛出了大氣層的破望遠鏡和自己有什麼關係。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "鴕鳥電臺",
+          "text": "看看那顆大太陽吧！難道他不像個迪斯可球嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "鴕鳥電臺",
+          "text": "你們不想去水星金星還是隨便哪顆星球上蹦迪搓碟嗎？有點夢想吧臭小子們！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "斯普特尼克",
+          "text": "我想！我想！我想飛出大氣層！然後當顆照亮地球的迪斯可球！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "護士",
+          "text": "探病時請保持安靜！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "斯普特尼克",
+          "text": "非常抱歉……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝克特",
+          "text": "原來斯普特尼克女士有個遠大的夢想，這可是個好事。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "傑洛",
+          "text": "上天的花費連那群該死的有錢人都要驚掉下巴，趁早死心吧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝克特",
+          "text": "你能不能別掃興？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "斯普特尼克",
+          "text": "兩位，請不要吵架了，也不必為我的夢想擔心，其實我一直有在賺錢。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "斯普特尼克",
+          "text": "大概再有五年我就能剛好賺夠！不出意外還能享受到員工價！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "傑洛",
+          "text": "賺夠錢飛上天？員工價？……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝克特",
+          "text": "……迪斯可球的待遇……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "傑洛",
+          "text": "……那麼好的嗎？"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 2012213,
+      "owner_episode_id": 2010102,
+      "trigger_episode_id": null,
+      "title": "最初的夥伴",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=2010102 and ChapterMapElement = 2010213",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "J",
+          "text": "嘿，這裡有一個——假人模特？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "J",
+          "text": "瞅瞅你，不應該待在高檔商店的櫥窗裡嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "假人",
+          "text": "您好，先生。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "J",
+          "text": "哈，你還會說話？我可沒料到這點。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "假人",
+          "text": "我想是的，這的確……很奇妙。我也還在適應。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "假人",
+          "text": "先生，或許您也已經注意到了，我的胳膊現在正卡在這堆垃圾裡頭，能勞駕您幫忙，幫我減輕點痛苦嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "J",
+          "text": "沒問題，但下次請我幫忙時你得改改那假客氣的語氣。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "J",
+          "text": "……你找的是這根嗎？夥計。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "假人",
+          "text": "正是！先生，四肢健全的自由感覺真好，我該怎麼報答您？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "J",
+          "text": "那就和我說說一個能說會動的假人是怎麼進到垃圾堆裡的，我現在就想知道這個。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "假人",
+          "text": "咳咳，好心的先生，兜售故事並不是我擅長的領域。這事兒真說起來，恐怕得講上三天三夜，而且，或許也遠沒有您想像中那麼有趣。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "J",
+          "text": "有不有趣得等我聽了再說，你只管講就是了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "假人",
+          "text": "既然如此，這件事恐怕得從去年聖誕開始講起……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "J",
+          "text": "等下，你真打算講三天？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "J",
+          "text": "你打算站著講我可沒打算站著聽，跟我來。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "J",
+          "text": "我知道家好餐館，能讓你圍著桌子說個夠，說不定還能幫你謀個新工作。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "假人",
+          "text": "感謝您，先生，您真是有一副熱心腸，請問我要怎麼稱呼您呢？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "J",
+          "text": "喬，這條街的夥計們都叫我J。你呢？你叫什麼？我的假人夥計。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "先驅者",
+          "text": "先驅者，先生，我想以後認識我的人都會叫我先驅者。"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "202003",
+      "internal_title": "【2.0】飞驰，明日之城02.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "唐老爹餐館"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "霍利克",
+          "text": "……所以，等我卸下來輪胎，就對集市裡那位憂心忡忡又闊綽的太太說——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "霍利克",
+          "text": "“您大可去整個海特街打聽打聽J和他的朋友，如果我有半點假話，就讓那幫敲詐你的傢伙打斷我的下巴。”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "吧台上，醉醺醺的修車漢搖搖晃晃，煞有介事地吆喝著。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "勤勞的圓形酒保，匆匆擦乾桌上的酒漬。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "斯普特尼克",
+          "text": "還請、請小心，霍利克先生……您不該再喝了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝克特",
+          "text": "哈哈哈哈，得了吧，霍利克。你才沒那麼有種。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝克特",
+          "text": "J可以替我作證，昨天你小子也就鼻子見了點血，就像個打完針的膽小鬼一樣哭哭啼啼的——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他用肘關節戳著一旁的男人，但對方毫無反應。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝克特",
+          "text": "嘿……J？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "J",
+          "text": "……什、什麼？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝克特",
+          "text": "這可不像你，有什麼事還能把你的魂魄從錢眼裡勾走？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "先驅者",
+          "text": "抱歉，貝克特先生……J可能有些事還沒想清楚，你知道的……關於“死人萊格斯”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "J",
+          "text": "噢，那你可是大錯特錯了，朋友！我才沒在想那檔事！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "J",
+          "text": "喏，抬頭。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "先驅者",
+          "text": "“絕對‘爆炸性’新聞：秘密錄影，真空彈恐將成為新的行刑手段？”——呃，當今好萊塢的天才們已經這麼瘋狂了嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "環狀水星",
+          "text": "我也曾見過這個奇怪影片的畫面……在被刪除的垃圾郵件、報紙的廣告插畫裡。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洋蔥頭",
+          "text": "……我們仍在找尋這名身中真空彈的女性，以證實影片的真實性，如若您有獨家消息，可致電：429-7234-7……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洋蔥頭",
+          "text": "讓我們來到下一則新聞——久無音訊的親人歸家，卻無人相認，這是一場群體癔症，還是盜取遺產繼承權的陰謀？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洋蔥頭",
+          "text": "近日，一位陌生男性突然拜訪退役士兵埃頓先生的家。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洋蔥頭",
+          "text": "據埃頓先生稱，該名男子冒充自己離家出走的兒子，並在他的膝下痛哭流涕。接下來，就讓我們——呲呲呲呲……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "老舊的電視機傳來了壽終正寢的殘喘。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "眾人",
+          "text": "噢嗚……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "先驅者",
+          "text": "唉，我還想聽她繼續說點有意思的胡話。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝克特",
+          "text": "嘿，嚴肅點！就算這檔節目曾預言“土撥鼠將佔領地球”，但說不定其他“胡話”裡真有其事呢？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "J",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "J",
+          "text": "不過，夥計們……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "J",
+          "text": "我確實在琢磨死人萊格斯那檔事，他是……什麼來頭？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "醉倒的修車漢打了一個激靈，像位被點名的士兵抬起了頭。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "霍利克",
+          "text": "我、我聽過……那是一個了不得的傢伙，警察的眼中釘，地痞流氓眼中的……呃，T-800！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "霍利克",
+          "text": "當時，就在獵人角的那片爛木頭林裡，有一群人把萊格斯當豬一樣宰！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "霍利克",
+          "text": "到最後，他們折磨到膩了，就賞了他的腦袋幾發子彈——嗚，太可怕了，就是拿槍頂著喉嚨口……“啪”一下從喉頭，直穿過後腦勺！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "霍利克",
+          "text": "結果，等警察來了，除了一地沾了血的牙齒，連半根頭髮都沒找見。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "霍利克",
+          "text": "唔……真是太嚇人，你們知道嗎？萊格斯可是一個徹頭徹尾的人類！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他繪聲繪色，指揮家般揮動著毛髮旺盛的手臂，最盡職的演員亦不過如此。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "但理智的批評家總是無處不在。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "先驅者",
+          "text": "……霍利克先生，你是不是最近看了《活死人出沒》？死而復生是好萊塢的陳詞濫調，你不應把它套在現實生活裡。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "霍利克被戳中了要害，面紅耳赤。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "先驅者",
+          "text": "我們理應考慮其他的可能性，比如——謀劃已久的謠傳。借助這則聳人聽聞的傳言，他的組織能吸引來更多臭名昭著的神秘學家……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "先驅者",
+          "text": "從魔藥癮君子、走私犯到賭場操盤手……也正因如此，他才能一步步蠶食舊金山。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "霍利克",
+          "text": "直到他踢到了我們這塊鋼板！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "先驅者",
+          "text": "……我們恐怕不是鋼板，先生。這場對峙將會比我們此前碰見過的所有，都要危險……況且他們已經與正盤踞在“新紀元集市”的那幫瘋子搭上了肩。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "環狀水星",
+          "text": "是的……已經連續幾天沒人參加我的冥想會。大家都簇擁在他們身旁，聚攏著一股……令我不安的喜悅。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "環狀水星",
+          "text": "他們一直在到處打探消息，試圖搜集一些聞所未聞的材料與書籍……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "先驅者",
+          "text": "正面衝突在當下是最愚蠢的選擇……J？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "J",
+          "text": "……我在聽。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "這是他不多有的沉默。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "J",
+          "text": "我們當然會繞開與他們的直接交鋒，夥計……但你我都知道這不現實，選擇權並不在我們手裡。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "J",
+          "text": "況且，海特街早就被那幫偽善的警察們拋之腦後……除了我們，誰會管這條街的死活？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "J",
+          "text": "先是流浪藝術家們的拖車營被燒毀，接著是一群占卜師連夜離開……而那幫瘋子，卻盤踞並扎下了根，無辜的神秘學家們受到蠱惑，秩序分崩離析……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他環視著眾人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "J",
+          "text": "我們當然該逃，我們應該關門大吉，然後買頭一班火車票……就像在聽見鄰居的女人被混帳揍得哀嚎時，大驚失色，然後逃之夭夭。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "J",
+          "text": "但我們沒有，不是嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "J",
+          "text": "況且，我們站在這裡，也不是因為什麼狗屁勇敢，而僅僅是因為——這是我們的家。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一旁的假人欲言又止——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "先驅者",
+          "text": "J，你誤會了我的意思，我是說這已遠超乎了我們的能力範疇。我們最好找——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "J",
+          "text": "停——！夥計！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他就像聽見了一位十年未見的窮朋友突如其來的寒暄，立馬敏銳地打斷了話頭。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "J",
+          "text": "我知道你想說什麼，但你也畏縮得太快了。用不著什麼都扯上他們吧？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "先驅者",
+          "text": "你得承認，他們雖然愛打官腔一些，但他們對神秘學家的事總是會很上心。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "先驅者",
+          "text": "J，基金會對我們而言，並非是一個差勁的選擇。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一陣恰到好處的沉默。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "吧台之下，圓溜溜的酒保探出了腦袋。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "斯普特尼克",
+          "text": "是的，J先生……我贊同先驅者先生的意見——同時，我、我也不想因為那些匪徒而失去現在的好工作。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "斯普特尼克",
+          "text": "……我很樂意替您指路！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "先驅者",
+          "text": "謝謝您，燈球女士，有您的幫助就再好不過了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "先驅者",
+          "text": "而且，J，保利娜就在聖洛夫基金會。你明白……說不定你妹妹會為你走走人情，省去一些——流程上的麻煩。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "J挪開了視線，就像躲開問題的孩子。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "J",
+          "text": "不不，我得再跟你聲明一遍，這是我們自己的事儿。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "J",
+          "text": "她決定加入那幫白袍子的時候，甚至都沒跟我事先聊過一句話——我們已經有好多年沒見過面了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "J",
+          "text": "她說她有自己的路子要走，當然也說話算話，從沒有回過頭。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "J",
+          "text": "她不喜歡咱們，你明白嗎？即便她是我唯一的家人，但她就愛那些大理石地磚，愛高高在上的品味，愛那份所謂的整潔與體面——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "J",
+          "text": "她早就不是以前那個追著我們打鬧的小傢伙了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "J",
+          "text": "你要我現在去求她幫忙，看她的冷眼，還不如讓我赤身裸體跟你一起站在百貨大樓的櫥窗裡。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "先驅者",
+          "text": "別這樣，認真考慮下我們的建議吧。這跟我給商人的交稅建議沒什麼不同——這些辦法可都算省事、輕鬆。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "J",
+          "text": "——呃，我要去拿一瓶汽水！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他喃喃著離開了吧台，逃離現場的速度堪比一隻被踩中尾巴的小狗。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "“砰。”——但誰也沒料到，一個矮小的身影不偏不倚地撞在了他的襠下。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "J",
+          "text": "噢！有什、麼……東西撞到我的——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他直立的身軀瞬間萎靡，跪倒在地。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "緊接著，一堆硬幣撒落下來。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "糟糕……快跑！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "慌亂的腳步聲從吧台鑽出。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "圓形酒保恍然意識到了什麼。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "斯普特尼克",
+          "text": "J先生，吧台裡的零錢——全都不見了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "J",
+          "text": "快、快，嗚……抓住那個小偷！"
+        }
+      ]
+    },
+    {
+      "script_id": "202004",
+      "internal_title": "【2.0】飞驰，明日之城02.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "吧台上的男人起身，擋住不走運的小偷，提起了他的後脖子。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他掀開小偷的兜帽。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝克特",
+          "text": "哈，我就知道，郊區拖車營的慣犯，貓眼維森。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝克特",
+          "text": "小子，你爸爸跟“啟明會”那幫人搭上關係又失蹤之後，你怎麼沒跟救濟所的那幫人走？那裡有吃有喝的，你是想念挨揍的滋味了嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貓眼維森",
+          "text": "噗——！你這個混球，有種把我放開！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一口唾沫啐在了貝克特的臉上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝克特",
+          "text": "呵，這種狗崽子遲早得放進警局裡讓那幫穿制服的傢伙管教管教——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝克特",
+          "text": "你的神秘學家老媽給你留下這麼好一雙貓眼，肯定想不到竟然被你用作扒竊去了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "貝克特抓住男孩的手，奪走他懷裡僅剩的硬幣。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "與此同時，男孩手背上露出了驚心觸目的煙蒂燙痕。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝克特",
+          "text": "……嘿，小子，我也知道你挺過了一段不容易的日子，但別認為全世界都欠著你。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝克特",
+          "text": "我被機器攪斷小拇指，被那幫寄生蟲一腳踢開的時候，可沒拿著槍、蒙著臉挨個搶商店……你這點痛苦又算得上什麼？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "環狀水星",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一旁，環狀水星拾取貝殼一般，撿起了髒兮兮的硬幣，迎面走了過來。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她拍了拍貝克特，示意把他放下來。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝克特",
+          "text": "嘿，你難道還想縱容這混小子嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "男孩還是被放了下來，兩腳癱軟在地。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "環狀水星蹲下身，輕輕打開他的手掌，把硬幣塞回了他髒兮兮的手心。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "環狀水星",
+          "text": "去吧，你的朋友還在外面等你呢。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他們望向門外。一群衣衫襤褸、蓬頭垢面的孩子發現了目光，連連畏畏縮縮地躲到了門後。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "斯普特尼克",
+          "text": "可，J先生……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "J",
+          "text": "……沒關係，給他們吧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "環狀水星",
+          "text": "這些都是在新紀元集市裡失去了家的孩子……他們的監護人丟下了他們，不知所蹤，留下他們四處遊蕩。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "J",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝克特",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "環狀水星",
+          "text": "貝克特先生，瞧瞧他們……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "環狀水星",
+          "text": "苦難是不會相形見絀的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "貓眼維森顫顫巍巍地站了起來，低下頭，喃喃著謝謝，走向門口。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一隻手搭在了男孩的肩膀上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "J",
+          "text": "我說，小子……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "J",
+          "text": "——你和你那幫跟班，想不想找點工作？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貓眼維森",
+          "text": "……！你的意思是——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貓眼維森",
+          "text": "謝……謝你，先生。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貓眼維森",
+          "text": "我的眼睛很敏銳！我能幹很多細活……我擅長數火車、數硬幣，我還可以看穿那些出千的發牌員，連水滴都能數清楚！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "J拍拍他的肩膀。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "J",
+          "text": "別著急，小子，先填飽肚子。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "J",
+          "text": "斯普特尼克女士，請替我給他們每人做一份熱呼呼的墨西哥捲，多放點肉——該死的，瞧瞧他的手腕，真是比唐人街的筷子還細。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "J",
+          "text": "還有，就當我改主意了吧，夥計——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他整個人趴在吧台上，對著一張老舊的合影長噗了口氣。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "那是一張過於熱情、充滿關切的臉，撞上了另一份渴望距離與自由，以及理想的冷漠。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "但不管如何——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "J",
+          "text": "唉……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "J",
+          "text": "不管如何，到時候她如果翹著腿坐在辦公桌前，給我擺出一副高高在上的架子——夥計，我保證，誰也攔不住我跨出那扇門！"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

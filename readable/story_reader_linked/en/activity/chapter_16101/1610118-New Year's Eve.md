@@ -1,6 +1,6 @@
 # New Year's Eve
 
-- Chapter: Notes on Shuòrì (`16101`)
+- Chapter: Notes on Shuori (`16101`)
 - Episode: `1610118`
 
 > Subtitle: Happiness should always be the focus of a celebration, or at least it should be.

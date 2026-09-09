@@ -1,6 +1,6 @@
 # The Beauty of Theatrics
 
-- Chapter: chapter_1902 (`1902`)
+- Chapter: The Master of Theatrics (`1902`)
 - Episode: `190206`
 
 > Subtitle: This is the end of one drama and the beginning of another.

@@ -1,4 +1,4 @@
-# Main Story · El oro de los tigres
+# Main Story · El Oro de los Tigres
 
 - [10401 An Old Umbrella](10401-An Old Umbrella.md) — You've had it before. The silent, old and familiar black.
 - [10402 The Outsider](10402-The Outsider.md) — Under the bricks and stones, few plants can vegetate here.

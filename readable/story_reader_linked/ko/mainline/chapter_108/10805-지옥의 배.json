@@ -1,0 +1,678 @@
+{
+  "episode_id": 10805,
+  "chapter_id": 108,
+  "chapter_title": "슬픈 열대",
+  "display_label": "",
+  "title": "지옥의 배",
+  "subtitle": "강은 곧 고향이고, 강은 곧 삶이다. 강이 주고, 강이 빼앗는다.",
+  "trails": [
+    {
+      "element_id": 1080501,
+      "owner_episode_id": 10805,
+      "trigger_episode_id": null,
+      "title": "붉은배 피라냐 떼",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=805",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "이래서 아마추어에게 총을 맡기면 안 돼. 일이 이렇게 되잖아."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "자, 호흡을 가다듬고, 기도에 이물질이 들어가지 않게 목구멍을 좁혀. 지난번 물에 빠졌을 때보다 낫네. 적어도 그렇게 처참하진 않아."
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "넌 누구야?",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "그게 중요한가? 우린 전쟁터에 있어. 총알이 날아다니고, 상처가 곪고, 장티푸스, 콜레라 등 최악의 상황이 벌어지는 전쟁터말이야. 생지옥 같은 전쟁터에서 명예가 있다고 생각하는 건 바보들뿐이지."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "이런 곳은 상황이 항상 빠르게 바뀌지. 그러니 보고하러 오는 사람이 항상 같은 사람일 거라는 생각은 안 하는 게 좋아."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "지금부터 내가 하는 말 잘 들어. 자네가 알아야 할 게 있어."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "그게 뭐지?",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "이번 폭발의 배후에는 조직화된 음모가 숨겨져 있었고, 서류의 앞면과 뒷면에 각각 조직 이름이 적혀 있었어. 하나는 너의 오랜 라이벌이고, 나머지 하나는 오늘 아침에 이미 그들에 대해 들어봤을거야."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "그들은 추종자들에게 남쪽으로 가겠다고 약속했고, 실제로 그렇게 했지. 제 3자의 물자를 확보한 후, 그들은 '해방자' 행세를 하며 마을을 돌아다니며 반대파라고 간주되는 사람들을 제거했어."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "그렇게 그들은 그 어떤 갱단이나 사이비 종교보다 더 많은 추종자를 거느리게 되었어."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "이제 그들은 ‘식인 물고기’ 붉은배 피라냐 떼처럼 온 땅을 휩쓸고 다니지. 항상 굶주린 채로 그들의 앞을 가로막는 모든 것을 갈기갈기 찢어버릴 준비가 되어 있어."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "다른 사람들은?",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "음.. 너가 무사한 것처럼 다른 사람들도 잘 지내고 있지 않을까?"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "아까 주사위 게임 중에 그 작은 사형집행인과 ‘자선가’ 도박꾼이 무슨 말을 나누었는지 들었으면 좋았을 텐데. 나중에 한번 물어봐."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "제대로 대답해.",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "난 전서구나 심부름꾼을 하러 온 게 아니니 정중하게 물어봐. 그리고..."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "지금 난 네게 계속 설명해야 할 의무는 없어."
+            }
+          ]
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1080502,
+      "owner_episode_id": 10805,
+      "trigger_episode_id": null,
+      "title": "수감 기록",
+      "description": "누군가는 단지 친구를 잘못 사귀어 감옥에 갔다. 물론 그녀에게는 선택의 여지가 없었다.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=805",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "특수 포로 수감 기록"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "이름: 미스 킴벌리\n수감 경위: 사도 형제단 거점 급습 중, 대상이 혼자 칠면조 다리를 먹고 있는 것을 로페라 소위가 직접 체포. 이후 심문과 조사 결과 대상은 재건의 손의 수행원으로 재건의 손에 대한 정보는 일반 추종자보다 부족함. 현지 반란에 참여하지 않았으며 카를로스 장군 암살 사건과 관련 없음. 따라서 다른 탈영병들과 함께 사형을 집행하지 않고 수감 처분하며 이고르 장군의 지시를 기다릴 것.\n\n내버려 둬."
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100806",
+      "internal_title": "第八章8-05.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "지옥의 배"
+        },
+        {
+          "kind": "title_card",
+          "text": "‘앨리게이터’호 크루즈"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "바람이 소녀의 손가락 사이를 스쳤다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "뱃머리에 모인 외국 여행객은 노를 저어 접근하는 현지 주민을 바라보았다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "유람선 탑승객",
+          "text": "저들은 상파울루의 거지들은 신경 쓰지 않아요. 동물원의 원숭이에게 바나나를 던져 먹이는 것 같은 ‘선의’를 쓰는 거죠."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "배에 탄 아이들은 두 손을 흔들고 소리치며 관광객의 관심을 끌기 위해 노력했다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "선원과 목사들은 던질 수 있는 자선 물품을 잘 포장하여 이 ‘관광 프로젝트’에 참여하려는 손님들에게 판매했다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "로페라",
+          "text": "굶주림 앞에서는 존엄성이 중요하지 않아. 방법이 어떻든 결국 뱃속에 들어가면 다 똑같은 거라고."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "낯선 관광객은 고개를 끄덕이긴 했지만 모든 말에 동의하는 것 같진 않았다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "유람선 탑승객",
+          "text": "사람은 음식으로만 사는 게 아니에요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "로페라",
+          "text": "사람은 음식이 없으면 살 수 없어."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "유람선 탑승객",
+          "text": "억양을 들어보니 현지인이 아닌 것 같군요, 아가씨. 상파울루에는 무슨 일로 가는 거죠? 사업? 저도 빈민가에서 장사를 하고 있어요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "로페라",
+          "text": "콜롬비아 출신이야. 상파울루의 베테랑 레지던스에 방문할 일이 있어서. 지낼 곳이 없으면 거기로 와. 내가 도와줄게."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "유람선 탑승객",
+          "text": "신경 써 주셔서 감사합니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "로페라는 턱을 괴고 지루하게 주사위를 던졌다 받기를 반복했다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "관광객의 눈빛이 주사위를 따라 위아래로 움직였다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "유람선 탑승객",
+          "text": "한 판 해보시겠습니까?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "로페라",
+          "text": "뭘 걸고?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그녀는 여행객 옆의 검은 여행 가방을 바라봤다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "유람선 탑승객",
+          "text": "우리 둘 사이의 선의를 걸도록 하죠."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "유람선 탑승객",
+          "text": "패자가 오늘 아이들에게 제공된 모든 음식의 비용을 부담하는 건 어떨까요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "유람선 탑승객",
+          "text": "물론 승자의 이름으로 기부하는 겁니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "천국의 문을 두드리는 양심을 위한, 관대함이 가득한 도박 한 판이다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "로페라",
+          "text": "가벼운 내기는 아니네, 아저씨. 그래, 좋아. 해보자고..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "낯선 여행객은 미소를 지으며 두 손을 벌렸다. 로페라의 손에서 주사위가 던져지고, 주사위는 빗방울처럼 테이블 위로 떨어진 후 나무컵 속에서 뒤엉켰다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "로페라",
+          "text": "아저씨 먼저 할래? 아니면 내가 먼저 할까? 1, 2, 3은 작은 숫자고, 4, 5, 6은 큰 숫자야."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "유람선 탑승객",
+          "text": "먼저 하시죠."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "로페라",
+          "text": "작은 숫자."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "유람선 탑승객",
+          "text": "6. 아니면 전부 당신이 이긴 걸로 하죠."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "나무 컵이 다시 흔들렸고, ‘체면 없는’ 그 주사위는 빙글 돌고서는 자신의 주인에게 승리를 가져다 주었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "유람선 탑승객",
+          "text": "자, 여기요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "유람선 탑승객",
+          "text": "제가 진 것 같군요. 신이 제게 저 불행한 아이들을 위해 무언가를 하라는 뜻을 전하신 겁니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "유람선 탑승객",
+          "text": "성함을 알려주시겠습니까? 아이들이 보시할 때 천국에 당신의 이름을 외칠 수 있도록 해야 하니까요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "로페라",
+          "text": "카를로타 로페즈 리베라야. 나중에 만나러 올 땐 ‘로페라’라는 이름으로 찾으면 돼."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "로페라, 상파울루의 로페라."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "패배한 관광객은 주사위를 들고 웃으며 이상한 점을 알아차렸다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그는 승리자의 손을 잡고 그 체면이라고는 없는 주사위를 주인에게 돌려주었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "유람선 탑승객",
+          "text": "아주 흥미로운 주사위를 갖고 계시네요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "로페라",
+          "text": "그냥 운이..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "로페라",
+          "text": "...무슨 일이지?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "강도",
+          "text": "모두 조용히하고 내 말 들어!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소더비",
+          "text": "앗! 저 녀석들은... ‘크로커다일 카우보이’인 건가?!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "아니, 저들은 강도야..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "소더비, 뒤로 물러나!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "뭘 원하는 거지?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "강도",
+          "text": "선장 어딨어! 어서 선장에게 배를 빈민가로 돌리라고 해!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "강도",
+          "text": "그렇지 않으면 모두 함께 죽게 될 줄 알아!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그는 성냥을 다이너마이트의 도화선 주변으로 가져다 대며 위협했다. 그는 무언가에 공포를 느끼고 당황하고 있었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "로페라",
+          "text": "...모두 비켜!!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "선장보다 더 빠르게 온 건 총을 뽑아 든 로페라였다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "하지만 혼잡한 인파가 앞을 가로막은 탓에 방아쇠를 당길 수 없었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "로페라, 여기서 총을 쏘면 안 돼!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "배에 기름통이 있어!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "로페라는 그제서야 인파 뒤에 쌓여 있는 기름통을 알아차렸다. 자칫하면 배 전체가 폭발하여 내일 아침 상파울루 조간 신문 헤드라인에 실릴 수 있었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "로페라",
+          "text": "쯧... 머리 좀 썼네."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그녀는 총을 거두고 맨손으로 상대하기 시작했다."
+        }
+      ]
+    },
+    {
+      "script_id": "100807",
+      "internal_title": "第八章8-05.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "로페라는 강도와 뒤엉켜 싸우기 시작했고, 주먹으로 상대의 콧등을 내리쳤다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그녀는 강도의 몸을 휘감은 폭약을 잡아당겼지만, 이로 인해 총을 빼앗겼다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "로페라!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "싸움은 순식간에 멈췄고, 강도의 손은 부들부들 떨렸다. 그 총구는 로페라를 겨누고 있었고, 그녀 뒤로 가까운 곳에는 기름통이 있었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "강도",
+          "text": "배를 빈민가로 돌려! 안 그러면 다 죽을 줄 알아!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "로페라",
+          "text": "빈민가... 사도 형제단이 돌아온 건가?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "강도",
+          "text": "...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "로페라",
+          "text": "그들이 널 협박한 거지?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "로페라",
+          "text": "‘오늘 크루즈를 빼앗아서 우리에게 가져 와.’"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "로페라",
+          "text": "그 나쁜 녀석들이 뭐라고 했을 지 뻔해. 미안하지만, ‘앨리게이터’호의 오늘 목적지는 상파울루야."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "강도는 눈을 크게 뜨고는 제자리에서 두 다리를 바들바들 떨었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "로페라의 말은 정확했다. 하지만 그 상대가 격렬하게 반응하도록 만들었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "해골처럼 빼빼 마른 손가락이 검은 방아쇠에 닿았다. 그리고 이를 꽉 다문 후 긴장과 무의식 속에서 힘을 주었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "......"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "로페라",
+          "text": "Estupidos(멍청한 녀석)!!!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "로페라",
+          "text": "모두 엎드려!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "총알은 그녀를 피했다. 대신 위험해 보이는 금속 기름통으로 향했다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "로페라",
+          "text": "고폭탄?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "폭발 섬광이 번쩍이고, 뒤이어 뜨거운 바람과 요란한 소리로 이어졌다. 주변에 있던 가연성 물건이 연달아 불타며 불길은 빠르게 번졌다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "기름통의 폭발로 배가 격렬하게 흔들렸고, 결국 선체에 균열이 생겨 침몰되기 시작했다. 그렇게 강물이 배로 밀려 들어왔다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "관광객",
+          "text": "세상에!!!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "배의 요리사",
+          "text": "구조선! 구조선을 찾아!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "관광객",
+          "text": "살려줘... 신이시여...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "모두가 황급하게 갑판 앞쪽으로 도망갔고, 크루즈는 허리 부분이 폭발로 끊어져 기울고 침몰하기 시작했다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "연이은 폭발로 인해 충격이 이어졌고 정신이 혼미해졌다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그 인파 사이에 킴벌리의 모습은 보이지 않았다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "로페라",
+          "text": "난간을 잡아!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "로페라의 외침이 강물을 가르고 들려왔다. 그녀는 부목 하나를 꽉 껴안고, 저 멀리 들릴 정도로 외쳤다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "중력은 모두를 강 중앙의 소용돌이로 몰았고, 갈수록 더 많은 갑판이 물 아래로 잠겼다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "소더비는 갑판의 난간을 꽉 붙잡았지만, 배는 거의 수직으로 서서 가라앉고 있었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "소더비! 로페라가 있는 쪽으로 뛰어!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "물에 빠진 사람들, 매달려 있는 사람들, 비명을 지르는 사람들... 죽음이 임박한 위험한 상황에서 눈 앞의 모든 것들이 멀게만 느껴졌다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "열기에 과숙된 오렌지처럼 선객들은 뜨겁게 달궈진 지지대를 놓치며 강물에 빠졌다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소더비",
+          "text": "버틴...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "불길이 금속의 난간을 훑고 지나가며 선상의 자재를 녹여버렸고, 폭발로 이명이 들리기 시작했다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "소더비는 눈을 감고 자신이 있는 곳으로 헤엄쳐 온 로페라를 향해 물로 뛰어들었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그녀는 운이 좋게도 동료가 그녀의 손을 빠르게 붙잡아 나무 판자 위로 올려 주었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소더비",
+          "text": "어서 버틴을 구해야 해!! 버틴이..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "‘그녀’는 아직 크루즈에 있었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "크루즈는 마지막 폭발음과 함께 완전히 침몰했다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그리고 눈 앞에 보이던 모든 것들이 물 속으로 빠져들어갔다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "......"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "수면 위에서 흔들리는 황금빛 햇살이 조금씩 멀어졌다..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "누구의 손이지?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "넌 여기에서 죽으면 안 돼."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "왜 너만 만나면 항상 이런 일이 생기는 걸까..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "이제... 초콜렛 스낵바 빚은 갚은 거야."
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

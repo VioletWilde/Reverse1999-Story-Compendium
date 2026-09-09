@@ -1,11 +1,11 @@
-# Event Stories · 1987 Космическая Увертюра
+# Event Stories · 1987 Cosmic Overture
 
 - [2710101 How to Find Shelter](2710101-How to Find Shelter.md) — The universe is far from innocent.
 - [2710102 The Voyagers](2710102-The Voyagers.md) — Three fallen stars.
 - [2710103 The Meaning of Meaning](2710103-The Meaning of Meaning.md) — It carries the weight of each individual; it raises the towering walls of every endeavor.
 - [2710104 Beautiful New Things](2710104-Beautiful New Things.md) — A small town shimmering with light and fireworks, a wandering friend once said. Come, take a chance.
 - [2710105 A Score of Time](2710105-A Score of Time.md) — Notes come together and dance, unaware they are about to become a complete song.
-- [2710106 What's Worse Than the Journey](2710106-What's Worse Than the Journey.md) — The second reason behind the urgent need to improve transport security.
+- [2710106 What's Worse than the Journey](2710106-What's Worse than the Journey.md) — The second reason behind the urgent need to improve transport security.
 - [2710107 The Wilds and the Garden](2710107-The Wilds and the Garden.md) — Don't feel guilty. Every flower once struggled just as you do now.
 - [2710108 When We Move Forward](2710108-When We Move Forward.md) — An expensive group photo. Usually found in a weathered old frame.
 - [2710109 To Former Strangers](2710109-To Former Strangers.md) — About the perfect moment to speak in defense of "me."
@@ -19,4 +19,4 @@
 - [2710117 The Measure of a Melusine](2710117-The Measure of a Melusine.md) — The little snakes eagerly flick their tongues at you, warm like another burning heart.
 - [2710118 Epitaph](2710118-Epitaph.md) — Beside a flowering grave, she left these.
 - [2710119 You Are Not Alone](2710119-You Are Not Alone.md) — 0.12 pixels, maybe smaller. You belong here, and so do I.
-- [2710120 As If Nothing Happened Up There](2710120-As If Nothing Happened Up There.md) — And yet, we remain forever on the road.
+- [2710120 As If Nothing Happened up There](2710120-As If Nothing Happened up There.md) — And yet, we remain forever on the road.

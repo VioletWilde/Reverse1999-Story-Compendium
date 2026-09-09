@@ -1,6 +1,6 @@
 # Wishing for Peace
 
-- Chapter: 他者的悲哀 (`113`)
+- Chapter: On Another's Sorrow (`113`)
 - Episode: `11322`
 
 > Subtitle: Please don't forget every dove that flies your way—and the olive branches they carry from afar.

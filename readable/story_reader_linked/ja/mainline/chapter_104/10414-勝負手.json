@@ -1,0 +1,390 @@
+{
+  "episode_id": 10414,
+  "chapter_id": 104,
+  "chapter_title": "群虎黄金",
+  "display_label": "",
+  "title": "勝負手",
+  "subtitle": "いい知らせ。あと10歩だ。",
+  "trails": [
+    {
+      "element_id": 1041401,
+      "owner_episode_id": 10414,
+      "trigger_episode_id": null,
+      "title": "小道① ハードな演習",
+      "description": "せっかくのチャンスだ。難易度マックスで行こう。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=10414",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1041402,
+      "owner_episode_id": 10414,
+      "trigger_episode_id": null,
+      "title": "パシリ",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=10414",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "……"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "目が覚めたばかり。何があったの？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "良く寝れたみたいだな、おい。よだれまみれで、危うく視界が汚されるとこだったぜ。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "財団にここまで複雑な団体関係があるとは思ってなかっただろう。傍から見れば理解し難いもんさ――もっと簡単な組織にして、ケーキのレイヤーみたいに分かりやすく区分できないのか？　って思うよな。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "別に面倒ごとはないから、来なくてもいいよ",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "そうか？　なぁ、面倒ごとがないって、１００パーセント確信できるのか？"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "おれはぐっすり眠ってた。久々にいい夢を見たぜ。夢の中で３人の女性と、ぼやけた白鳥たちと暮らしてた。それはそれは和んでいい感じだった。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "突然、もう助けはいらないから、ってバツの悪い奴に起こされちまったぜ。もうおれの助けはいらないってよ。はん！　まるで広場に捨てられた犬だ！　待ってろ。これからいや〜なオジサンがありとあらゆる文句を、おまえさんの無邪気な耳に向かって吐き出すからな。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "財団の組織に興味はあるか？　ご自慢の白い首で拒絶してるな――いいだろう。じゃあその拒絶したくなるほど興味がありそうな話題から始めよう！"
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "財団は混沌とした存在だ。いいか、財団は常に秩序と無秩序のはざまに揺れていて、無数の理想主義者と現実主義者を引き寄せているのさ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "「ストーム」の到来は、その渦の混沌をより激しいものにした。水面下にいた神秘学家たちはどんどん姿を表すようになった――レディ・Zが格好の例だ。彼女は人間のエリートたちと同じ会議テーブルに座るようにまでなった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "水面下には多くの者たちがうごめいている。自然資源グループ委員会、人類党、文教部門…奴らのメンバーは互いに混ざり合い、どこの馬の骨か知れたもんじゃない。奴らは利益のためだけでなく、体にまとわりついて離れない腐った毛糸のために忙しくしてる。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "分かったか？　絶えず、ずーっと分けに分けて――大きな団体を目標ごとになるべく小さな団体に仕分けてこそ、奴らに最も効率的かつ感情を持たないままリビングの嘔吐物を掃除させることができるんだ！"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100419",
+      "internal_title": "第四章4-14",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "勝負手"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "代表者",
+          "text": "差が大きくなってしまった。一枚や二枚の票だけでは逆転できない…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "ええ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "Ｄ９は下手だったわ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "代表者",
+          "text": "本来僕たちを支持しようとしてくれていた神秘学家たちすら、反対陣営についてしまった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "代表者",
+          "text": "弁論で情勢を読み違えてしまった…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "代表者",
+          "text": "チャンスを掴んで…先手を打つつもりが…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "彼女は返事をせず、部屋の中を歩き回った。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "先手を打つ…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "間違いではないわ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "縦と横に３８本の線、３６１個の目が、まるで星空のように目の前に浮かび上がった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "つまり、相手の攻めに対して「ヒキ」もせず、「トビ」もしない…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "未来の情勢を見据えて、陣地を攻め取る…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "彼女はなにか悟ったように、無意識に手を先方に伸ばした。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "白に、ツケる。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "そして…白がハネて黒はノビる。白がサガったら、黒は…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "オサエる。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "……！！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "なるほど…分かったわ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "Ｄ１１の一手で、相手の石十数個が取れるわ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "十手以内で、まだ勝算はある。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "マーク。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "代表者",
+          "text": "どうしたんだい？　何か方法でも？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "一人、影響力のある人物がほしいわ。十数人を説得できるリーダー格よ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "まだ態度を表明していないリーダー格に相応しい人物のファイルを探し出して。中立でなくてもかまわないわ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "代表者",
+          "text": "…分かった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "彼は少し困惑していたが、素早くファイルを取り出し、椅子の上で捲りだした。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "部屋の中はページを捲る音だけだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "代表者",
+          "text": "バーゼル。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "却下。彼はまだ経歴が浅いから説得力がないわ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "代表者",
+          "text": "ノニー。自然資源グループ委員会のリーダーだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "彼女のグループは３人しかいないわ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "代表者",
+          "text": "「センターフォワード」バーナード。人類党の党首…んー、彼はやめておこう。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "バーナード？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "いいえ、彼はいけるわ。雄弁だし、彼に信服している１１人の部下がいる。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "なぜ彼はいまだ意思表明をしていないの？　真っ先に投票しているかと思ったのに。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "代表者",
+          "text": "勝利が見えてるからじゃないか…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "彼の近況を調べてみて。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "代表者",
+          "text": "レディ・Z、本当に彼と手を組むつもりなのかい？　あまりにも馬鹿げてるよ、僕たちは違う陣営に仕えてるんだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "マーク、私たちは財団の未来を想い仕えている。立場は同じよ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "彼は今何を欲しているのか知りたい。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "代表者",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "代表者",
+          "text": "アメリカ・シカゴにある駐在所だ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "代表者",
+          "text": "彼はその選区を勢力範囲に入れたいみたいだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "代表者",
+          "text": "バーナードはそこの職員が重大な職務怠慢に陥ってると考えている。彼らは階級の異なった人類を差別待遇してて、当地の資本と結託し違法行為を行ってると指摘していた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "代表者",
+          "text": "最高裁判所はすでに人員を派遣して介入してる。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "代表者",
+          "text": "だが「ストーム」が原因で、外出による証拠の捜査はできない状態で…まだ結論は出てない。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "シカゴ駐在所……報告書を読んだことがあるわ…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "分かった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "よかった。私たちなら救いの手を差し伸べられる。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "代表者",
+          "text": "どうやって？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "ソネット。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "金曜に会う約束をしたわ…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "双方が勝利できるようになるかも。"
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

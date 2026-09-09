@@ -1,6 +1,6 @@
 # Concerto
 
-- Chapter: 1987 Космическая Увертюра (`27101`)
+- Chapter: 1987 Cosmic Overture (`27101`)
 - Episode: `2710112`
 
 > Subtitle: Hissing snakes, crackling sparks, measuring tapes, a crow, and a glass fish tank. A mess, but full of life and sound.

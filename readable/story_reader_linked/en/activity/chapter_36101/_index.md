@@ -13,4 +13,4 @@
 - [3610111 Open Sesame](3610111-Open Sesame.md) — A universal incantation and a useless defense.
 - [3610112 That Endless Green](3610112-That Endless Green.md) — One among countless in the world. One that belongs only to your memory.
 - [3610113 Fellow Travelers](3610113-Fellow Travelers.md) — We continue to walk the path of progress.
-- [3610114 Don't Look Back In Anger](3610114-Don't Look Back In Anger.md) — In a better place, or perhaps in the future.
+- [3610114 Don't Look Back in Anger](3610114-Don't Look Back in Anger.md) — In a better place, or perhaps in the future.

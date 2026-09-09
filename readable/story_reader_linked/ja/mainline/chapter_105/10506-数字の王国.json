@@ -1,0 +1,705 @@
+{
+  "episode_id": 10506,
+  "chapter_id": 105,
+  "chapter_title": "洞窟の囚人",
+  "display_label": "",
+  "title": "数字の王国",
+  "subtitle": "見ろ、あの数字たちはもう紙に縮こまってるだけじゃない。",
+  "trails": [
+    {
+      "element_id": 1050601,
+      "owner_episode_id": 10506,
+      "trigger_episode_id": null,
+      "title": "小道① 何時と何処",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=506",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "少しぼーっとしているみたいだねぇ。胃から逆流した海水も、まだ全部吐き終わってないだろう。リラックスして、ちゃんと横になりなさい！　急いで立ち上がろうとしなくていいからね。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "一般的に泥酔した酔っ払いや昏睡状態の患者たちが、目を覚ました時にする質問は二つだけ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "一つ、この土地は人々から何と呼ばれているのですか。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "もう一つは、この目立つ腕時計の時間合わせを手伝ってくれますか、とね。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "よし――ちょうどいい頃合いだ。口を開けて、聞きたい事も、吐き出したいものも、全部思い切りここに出しなさい。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "あなたは？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "ふふ、最初の謎解きとなって、長い間覚えられるなんて光栄だわね。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "しかし残念ながら――とくに恐ろしい物語なんて存在しない。一つの事実がもう一つの事実を覆っただけ。この歳にもなると、唯一話題は噛み慣れない硬いオートミールのことぐらい…"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "幸い私の耳は歯より頼もしいのさ。いつものようにおしゃべりだし、難しいとは言えない困惑を解いてあげられるし、無駄話をするだけのお人好しにもなれる。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "いつもの人は？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "おやおや、そうかっかしなさんな。ひとりぼっちの道で、話しかけてくれる声がいて、何気ない話をしてくれるだけでいいと思わないと。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "昨日の新聞紙みたいに読んだら忘れるという事に慣れれば――一つの事実が、もう一つの事実を覆っただけ。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "とにかく、私たちは暫くの間一緒さ。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "ここはどこ？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "やっと自分の置かれた立場に気がついたようだね。ここは一望しただけじゃ果てが見えない海面さ。あるのは足元の泥、ほかは海、海、海、海だけだよ…"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "助けを求める声は波にかき消され、どんなにたくましい足でも地面にがっしりと捕らわれてる。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "見ての通り、他に行ける場所なんてないのさ。この島の住民は礼儀正しいから、案内してもらうのもいいかもしれんね。座って時間を無駄にするよりはマシだろう。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "今の時間は？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "やっぱりそれを聞くんだねぇ。時間は常に一歩一歩着実に、前に進んでるって言われるだろう？　今は――２００７年さ。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "時間は秩序を取り戻し、本来あるべき場所へ戻った。雨粒はいつものように地面に落ちるし、古い時代に戻る人ももういない――過去の古き良き時代を懐かしむ人はいるけどね。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "へぇ…信じられないみたいだね？　それは疑ってる目だ。確かに、もし人生の大半を費やした結果が、単なる良くも悪くもない夢だったなんて言われたら、靴の片方を投げつけてやりたくもなる。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "真面目に話して",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "焦ってるのはよく分かるよ。でも「時間」を探すには、ちゃんと整理をしないと無理さ。片手だけで髪の毛をまとめるのと同じようなもんだよ。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "今の時間は小刻みに分けられたザッハトルテのようさ。一番大きな一切れの上には、２０世紀最後の楽しいひと時を示す白いチョコのプレートが刺さってる。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "紳士たちはよくある八字髭で、お嬢さんたちもまだ直線的なボディラインを追い求めていなかった。人々は自分のセンスを証明するため、どんどんコレクターズ・アイテムを買い漁り、家を博物館の陳列所にしようとしていた。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "「カフェ・サンマルコ」という喫茶店が正式に開業して、流行の先端にいた奴らがそこに集うようになった。彼らは楽しそうに議論を交わし、驚くことなど永遠になさそうだった。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "セルロイドフィルムと映写機は芸術家に無限のチャンスを与えた。一人の精神科医がブリーフケースを抱えて、うわ言をカフェに持ち込んだ。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "その頃、ヘルメットはまだ凹んでいなかったし、ガーゼは病院で一生を遂げていた。もちろん弾丸も血で染まっていなかったし、人を呑み込む硝煙もまだ燃えていなかった…"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "でもすぐ、もうすぐさ…落ちこぼれた若者は、尖った刀を持って群れとなり、自分に相応しい物を奪い返すと誓った。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "建物はぶるぶると震え、巨石は転がり、高い壁にぶつかろうとしていた。人々の喉には絶叫が埋め込まれ、一つの弾丸が最も偉大な勲章の名のもとに装填された。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "一つの黄金時代が幕を閉じようとしていた。血の匂いに満ちた渦巻きが、時代の航路でうろうろしている。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "美しい自然な曲線も、ハチの形をしたブローチも、フルーツポンチと羽毛布団も――全てがその瞬間、配当金が出ない保険証券と化す。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "このカフェも、意味なく転がっている石ころでしかなくなる。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "ほら、今、髪の毛がまとまったよ。これらは全て「時間」さ。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "ふふ、でも私の歳になってくると、時間に関する言い訳が信じられなくなる。\n目を閉じてる人は目を開けてる人とは違う。人殺しは足元でうろたえてる可哀想な人とは違う。たらふく食えてる人は、腹ペコの人とは違う…"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "もういい、もう充分言ったよ。さあ、立ち上がって、服についた砂を叩き落とすんだ――きっとこの時代に関する答えを自分で見つけられるさ。"
+            }
+          ]
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1050602,
+      "owner_episode_id": 10506,
+      "trigger_episode_id": null,
+      "title": "小道② 対峙する第三者",
+      "description": "イルカたちは陸の生物のコミュニケーションに興味津々だ。彼らはこの会話に加わろうとしている。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=506",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100508",
+      "internal_title": "第五章5-6.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "数字の王国"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "２００７…年？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "鼓動が速くなるのを感じる。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一生で一度きりのチャンスかもしれない。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "彼女は軽く頷いた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "…「ストーム」って知ってる？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "あなたたちは、あれを「ストーム」と呼んでるんだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "ここでは「エマネーション」と呼ばれているの。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "プネウマの海水は今なお流れ、集水してゆく。それらはやがて津波をもたらし、闇に満ちた現象界を粉々にするんだよ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "…よくわからない。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "彼女は顔を傾げ、同じく理解しがたいといった表情を浮かべた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "あなたも実数だから、わかるでしょう。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "３７",
+          "text": "わたしは３７。あなたの数字は？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "わたしはヴェルティ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "３７",
+          "text": "それじゃなくて、あなたの数字。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "３７",
+          "text": "教典によると、己の本質を理解できない者だけが無意味な音声記号で自己を表現してるんだって。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "３７",
+          "text": "うーん、そっか。あなたもまだ自分の数字がわからないんだね…じゃあ、ソフィアとおんなじだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "彼女の言葉はなんとも理解しがたいものだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "だが、目下最大の問題は別にあった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "ソネット、レグルス、リーリャ、ミス・ラジオ、そして「カミソリ」は…どこに？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "わたしの仲間を見なかった？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "３７",
+          "text": "もちろん見たよ！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "３７",
+          "text": "あなたが探しているのは整数？　分数？　無理数？　それとも虚数？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "…え？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "３７",
+          "text": "素晴らしい道徳心を持つ整数、理解経路が必要な分数、束縛なき自由な心の無理数、軸の向こう側に存在する虚数。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "３７",
+          "text": "あなたが探してるのはどれ？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "…質問を変えよう。ここはどこ？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "３７",
+          "text": "島。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "…なんていう島？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "３７",
+          "text": "ここ以外にも島があるの？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "はぁ…質問を変えるよ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "１９９９年、ウルドって名前の伝記作家がこの島を訪れなかった？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "彼女は考え込んだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "３７",
+          "text": "１９９９…ああ！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "３７",
+          "text": "可愛い中心つき三角数の１９９９ね。けど、終末論で濫用されすぎじゃない？　ようするに、みんなにおだてられすぎだってこと。１９９１と１９９３に比べれば、１９９９なんて大したことないのに…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "３７",
+          "text": "でも９９９は最高！　カプレカ数であり、回文数である上に、３桁の自然数における最大値なんだから…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "…話を遮るようで悪いけど、ウルドを知ってるか聞きたいだけ。彼女が１９９９年にこの島を訪れた記録が、旅行記『アペイロン漫歩』に載ってたんだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "何か覚えてる？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "３７",
+          "text": "いいえ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "彼女も同じように首を振った。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "３７",
+          "text": "現象界の塵埃については、何も知らないの。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "現象界の…塵埃…？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "レグルス",
+          "text": "だ…誰か！！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "慌ただしい怒鳴り声が後ろから聞こえた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "ゴホッ、船長…どうやらこの腕はもう…先に行ってください…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "レグルス",
+          "text": "いやいや、しっかりしろ！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "レグルス",
+          "text": "あっちいけ！　この忌ま忌ましいイルカどもめ！　APPLeは食いもんじゃない！　あたしのレコードもな！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "レグルス",
+          "text": "…あれ、ヴェルティ！？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "レグルス",
+          "text": "つったってないで、はやく手伝ってくれ！"
+        }
+      ]
+    },
+    {
+      "script_id": "100509",
+      "internal_title": "第五章5-6.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "レグルス",
+          "text": "ふぅ…助かったぜ、ヴェルティ〜！　危うくAPPLeとレコードがスターゲイジー・パイになっちゃうとこだった！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "ううん。おかげでわたしも助かったよ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "レグルス",
+          "text": "…あたし、なんかしたっけ？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "うん。コミュニケーションの自信を取り戻した。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "ソネットたち、見かけなかった？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "レグルス",
+          "text": "いんや。目を覚ましたら、イルカの背中の上だったからな。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "レグルス",
+          "text": "礼を言おうとした矢先、あいつら噛むわ叩くわ！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "３７",
+          "text": "それは、あなたが無理数だからだよ！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "レグルス",
+          "text": "うわっ、びっくりした！　このロングヘアの嬢ちゃんは誰だ？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "遠くから、聞き慣れた声がした。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "タイムキーパー！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "よかった…皆さんご無事で！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "ミス・リーリャももうすぐこちらへ来ます。あとは、隊長たちだけです…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "嬉しそうに報告をする彼女の傍らに、見知らぬ姿があった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "ソネット、そちらの方は…？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "彼らはアペイロン教団の信者です。沈没事故の後、私たちに救いの手を差し伸べてくれました。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "ローブ姿の者たちは黙って立っている。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "そのうちの一人がようやく口を開いた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "６",
+          "text": "いやはや、整数同士、当然のことをしたまでです。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "６",
+          "text": "ミス・ソネット、お仲間は全員見つかりましたか？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "はい。あとは「カミソリ」の隊員たちだけ…彼らも私たちと同じ、聖パブロフ財団に属していて…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "６",
+          "text": "虚数は私たちの救助対象者に含まれません。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "…虚数？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "６",
+          "text": "お仲間が見つかったのでしたら、あまり長居しない方がよいでしょう。すぐに船を手配します。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "６",
+          "text": "教団は招待客以外は歓迎できないので。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "お待ちください。お聞きしたいことが…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "…「エマネーション」に関する情報を提供すると言ったら？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "男性は一瞬立ちすくんだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "わたしたちは聖パブロフ財団の調査員。「ストーム」の情報を提供しましょう。…ここでは、「エマネーション」と言うべきかな。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "話し合いの場を要請します。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "タイムキーパー…？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "…あとで説明するから。今は信じてほしい、ソネット。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "ローブを着た者たちは、コソコソと話し合っている。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "６",
+          "text": "上陸を認めましょう。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "６",
+          "text": "ですが、整数と分数以外は接待いたしません。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "男はその指をレグルスに向けた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "６",
+          "text": "無理数は上陸を禁じます。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "６",
+          "text": "…海に放っておけ！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "レグルス",
+          "text": "…へ？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "レグルス",
+          "text": "ちょっ、待っ…おい！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "レグルス",
+          "text": "――！"
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

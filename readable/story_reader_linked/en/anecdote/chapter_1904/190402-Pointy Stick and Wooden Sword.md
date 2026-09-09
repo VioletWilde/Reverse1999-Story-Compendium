@@ -1,6 +1,6 @@
 # Pointy Stick and Wooden Sword
 
-- Chapter: chapter_1904 (`1904`)
+- Chapter: After the Good Dream (`1904`)
 - Episode: `190402`
 
 > Subtitle: Knowledge always clogs the throat, but fortunately, this story is both delectable and moving.

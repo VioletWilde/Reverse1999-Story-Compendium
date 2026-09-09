@@ -1,6 +1,6 @@
 # All Aboard!
 
-- Chapter: The  Best Band in Town (`1920`)
+- Chapter: The Best Band in Town (`1920`)
 - Episode: `192004`
 
 > Subtitle: The captain finds her crew.

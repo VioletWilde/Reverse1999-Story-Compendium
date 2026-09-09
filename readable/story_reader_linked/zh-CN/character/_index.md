@@ -10,12 +10,9 @@
 - [19603 犹在镜中](chapter_19603/_index.md) — 8/8 episodes with scripts
 - [20601 旧金山小子](chapter_20601/_index.md) — 5/5 episodes with scripts
 - [20603 第一千夜](chapter_20603/_index.md) — 8/8 episodes with scripts
-- [22911 chapter_22911](chapter_22911/_index.md) — 2/2 episodes with scripts
+- [22911 向雨林深处](chapter_22911/_index.md) — 2/2 episodes with scripts
 - [23501 太阳的背面](chapter_23501/_index.md) — 8/8 episodes with scripts
 - [23601 夜游十字街](chapter_23601/_index.md) — 8/8 episodes with scripts
 - [24501 河港与海之间](chapter_24501/_index.md) — 8/8 episodes with scripts
 - [30601 三重赋格](chapter_30601/_index.md) — 8/8 episodes with scripts
-- [34701 打虎记](chapter_34701/_index.md) — 8/8 episodes with scripts
-- [305101 翡冷翠之春](chapter_305101/_index.md) — 12/16 episodes with scripts
-- [305201 入雅典记](chapter_305201/_index.md) — 10/15 episodes with scripts
-- [385101 聚合浪潮](chapter_385101/_index.md) — 16/16 episodes with scripts
+- [34601 打虎记](chapter_34601/_index.md) — 8/8 episodes with scripts

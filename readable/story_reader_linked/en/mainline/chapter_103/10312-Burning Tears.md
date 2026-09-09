@@ -1,6 +1,6 @@
 # Burning Tears
 
-- Chapter: Nouvelles et Textes pour rien (`103`)
+- Chapter: Nouvelles et Textes pour Rien (`103`)
 - Episode: `10312`
 
 > Subtitle: A stroke of thick smoke attacked us. Soon we were choked with tears.

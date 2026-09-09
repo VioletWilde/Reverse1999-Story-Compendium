@@ -1,0 +1,453 @@
+{
+  "episode_id": 10111,
+  "chapter_id": 101,
+  "chapter_title": "われらの時代",
+  "display_label": "",
+  "title": "スイートな前菜",
+  "subtitle": "灯光の下、鮮血は最高の助燃剤とおかずである。",
+  "trails": [
+    {
+      "element_id": 1011101,
+      "owner_episode_id": 10111,
+      "trigger_episode_id": null,
+      "title": "小道① 迷宮の中の奇妙なもの",
+      "description": "自白剤は制限されたポーションの一種で、狡猾や虚言に対応できる。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=10110",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1011102,
+      "owner_episode_id": 10111,
+      "trigger_episode_id": null,
+      "title": "小道② バーでの雑談",
+      "description": "マヌス・ヴェンデッタのメンバーが手紙を携えてザ・ウォールデンの入口付近を徘徊している。とある方法でその手紙を手に入れることができる。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=10110",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "黒い粘液がついた手紙"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "「蝶が羽ばたくところから、混沌が始まる」\n\n　　　　　　　　  ―― ローレンツ研究所 ――\n       \n　「ストーム」の騒乱の中で生まれ、その存在を隠蔽しながら発展し、そしてラプラス計算科学研究センターの秘密結社として独立した。人類文明の科学機器への依存を排除し、神秘術を主体とした研究を推し進める。「万物に源泉あり」と主張し、世界各地で「ストーム」の発生前後に出現したカオス・エネルギーの捕獲に力を注ぎ、ストームを引き起こした「始まりの蝶（オリジンバタフライ）」を探している。\n　常に隠密行動をし、メンバー数は不明。世界各地において拠点を設けている。我々の先遣隊は何度かローレンツの調査員と手を交えたことがあるが、今に至ってもその拠点へ侵入する術を見つけられていない。"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100116",
+      "internal_title": "第一章1-12.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "スイートな前菜"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "ch bin wie eine Fahne von Fernen umgeben.\n遠くに取り巻く旗のように\nIch ahne die Winde, die kommen, und muß sie leben,\n風を予感し、もうすぐ到来するであろう全てを目に収めても、\nwährend die Dinge unten sich noch nicht rühren:\n日々の生活は変わらず――"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Ich bin wie eine Fahne von Fernen umgeben.\n                      遠くに取り巻く旗のように\n                      Ich ahne die Winde, die kommen, und muß sie leben,\n                      風を予感し、もうすぐ到来するであろう全てを目に収めても、\n                      während die Dinge unten sich noch nicht rühren：\n                      日々の生活は変わらず……\n\n\n                       die Kurse steigen noch sanft, und wir haben noch nicht Donnerstagnachmittag;\n                      株価は高騰、されど平和は続く。木曜の午後はまだ訪れていない\n                      das Gold bildet eine gebrochene Linie, und es steigt immer höher.\n                      金うねりながら、永久の高地へと昇っていく。\n                      Und werfe mich ab und bin ganz allein\n                      この身を万物に投げ込み、一人きり\n                      in dem großen Sturm.\n                      嵐の中に溶け込む。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "支援に来てくれてありがとう。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "隊長",
+          "text": "よほどのことがない限り、あなた様がレディ・Zにお願いなどしませんからね。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "嫌な予感がするだけ…ただの思い過ごしであればいいけど。ほかの隊員はもう定位置に？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "隊長",
+          "text": "ええ。集会の参加資格が得られた隊員は計８名、すでに各々入場しています。残りは各出入口で待機させています。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "隊長",
+          "text": "こちらは我々が収集した「ザ・ウォールデン」の情報です。なんでも今夜決闘ショーを催す予定だとか…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "隊長",
+          "text": "参加者は１００万ドル相当の株券がもらえるそうで、賭け金を支払った者には\n５〜１０倍の金利がつくそうです。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "…なんてことを。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "隊長",
+          "text": "タイムキーパー、これを。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "隊長",
+          "text": "計算科学研究センターが新たに開発した「エンジェル３４：７」です。ドカン虫の細胞液が添加されております。この翼部分を開き、１５秒間振ると回りに大きな衝撃波を放出します。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "隊長",
+          "text": "単一方向にのみ放出されますので、使用時は立ち位置に気を付けてください。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "ええ。「ザ・ウォールデン」に向いましょう。あなたはミスター・APPLeの後ろに続いて。くれぐれも目立たないように。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ミュオソティス",
+          "text": "ようこそ、お越しくださいました…"
+        },
+        {
+          "kind": "title_card",
+          "text": "ザ・ウォールデン"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ミュオソティス",
+          "text": "新しい移住者、神秘学家、道徳的な者と非道徳的な者、バーの反対連盟と民主改革主義派、自由思想と宗教信者の方々よ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ミュオソティス",
+          "text": "――ようこそ、あなた方の拠り所「ザ・ウォールデン」へ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ミュオソティス",
+          "text": "どうでしょう？　先ほどの酒を浴びた美女と大蛇の舞は、楽しんでいただけたでしょうか？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ミュオソティス",
+          "text": "それでは、今から会場にいる皆様に新しく調合した「パイソンスウィート」を振る舞いましょう。「ヤキヤキバーボン」を好むシカゴの皆さんなら、きっとこの味を認めてくれると断言できますよ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ミュオソティス",
+          "text": "おやおや、皆様チャートが気になって仕方ないようだ。どうかその期待を次の決闘にお向けください。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ミュオソティス",
+          "text": "…必ずや恐ろしいほどの報いが、得られますよ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "くっ、なんという人の数でしょう！　危うくお気に入りのボウタイが、取れてしまうところでしたぞ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "それにしても賑やかですな。とても不法の地とは思えませんが…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "隊長",
+          "text": "ここはアメリカ全土で唯一、取り締まられたことのないバーです。なんでもオーナーのミュオソティスが自ら調合したポーションドリンクは、口に含んで初めてアルコールと化すのだとか。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "隊長",
+          "text": "原料の仕入れから、医薬店許可書、蒸留や運輸、そして販売に至るまで、ギャングと手を組み安全を確保しており、証拠を一切残しておりません。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "隊長",
+          "text": "ここはどんな人でも受け入れ、救いの場を提供します。この一点だけ見れば、シカゴの地下バーにおける「ザ・ウォールデン」の地位がよくおわかりでしょう。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "彼とマヌス・ヴェンデッタの関係について、何かわかったことは？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "隊長",
+          "text": "ありません。ただ、個人情報が何者かに書き換えられていました。とはいえ、彼がこの時代の者であることは確かです。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "隊長",
+          "text": "ですが、彼がワシントンの政治家と接触した時期は、アメリカ金融市場における異常なブームの始まりに、かなり近いことがわかっています。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "隊長",
+          "text": "それ以降、「ザ・ウォールデン」は各神秘術関連の株価金融の取引きと、深く関わりを見せています。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ミュオソティス",
+          "text": "さて、皆様――！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ミュオソティス",
+          "text": "しー…ご静粛に。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ミュオソティス",
+          "text": "これより今夜の――スイートな前菜をお楽しみください。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ミュオソティス",
+          "text": "共にファイター・オブ・ザ・イヤーを歓迎しましょう！　たった１人で１０人もの\n神秘学家と人間の挑戦者をノックアウトし、不敗の誉を獲得したチャンピオンを！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "あの子は！？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "賓客たち",
+          "text": "ヒューー！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ミュオソティス",
+          "text": "さて、此度開かれる挑戦の舞台に立つ、幸運なゲストは果たして誰か！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "カウンター客",
+          "text": "１００万相当の株券だぞ！　舞台でボッコボコにされたところで、家で二ヶ月も寝てりゃあどうってことないさ！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "VIP客",
+          "text": "ふははは、わしは賭け手に回るよ。うまくいきゃあ、ハンプトンの別荘すら手に入るぞ！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ミュオソティス",
+          "text": "運命の挑戦者は、このスポットライトで選出されます――！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ミュオソティス",
+          "text": "運命の女神は貴方を選んだようですね。シルクハットをかぶったお嬢さん。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "……やられた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "賓客たち",
+          "text": "運がいい奴だぜ…！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "賓客たち",
+          "text": "早く行けよ、ほら！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ミュオソティス",
+          "text": "ただいま舞台におりますのは、去年のチャンピオンであるシュナイダー並びに聖パブロフ財団のタイムキーパー、ミス・ヴェルティです。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "隊長",
+          "text": "やられました…！　我々の情報が漏れたのでしょうか！？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "…行ってくる。安心して。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ミュオソティス",
+          "text": "それでは、決闘を――始めてください。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "シュナイダー",
+          "text": "ふふ…久しぶりね、政府の旦那。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "シュナイダー",
+          "text": "あたいの旦那は、どうしてもあたいがあんたを始末する姿を見たいらしいわ。…わざわざこんな場を設けるほどに、ね。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "シュナイダー",
+          "text": "「ダン――！！」"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "シュナイダー",
+          "text": "あら、外しちゃった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "シュナイダー",
+          "text": "あーあ、あんたたちそこまで無駄死にしたいの？　もしかして、それが財団の言う正義ってやつなのかしら？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "シュナイダー",
+          "text": "「ダン――！！」"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "シュナイダー",
+          "text": "財団に正義なんか存在しないのにねぇ…「ストーム」の存在すら公にできないじゃない。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "シュナイダー",
+          "text": "ばかげた嘘であたいの「家族」たちを拒絶するのも、あんたたちの正義なのかしら？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "シュナイダー",
+          "text": "「ダン！　ダン――！」"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "シュナイダー",
+          "text": "彼女から漂ってくるみかんの香りが、一気に濃くなった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "きみ、もしかして財団に？\n任務カプセルについていたみかんの香り…だから事前にガレージで、人質をさらうことができたんだ！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "シュナイダー",
+          "text": "んふふ。受け入れてもらえないのなら、引き続き旦那に命じられた任務を遂行するしかないじゃなぁい。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "シュナイダー",
+          "text": "やだぁ、油断しちゃった。それじゃあ、そろそろ本気で行くわよ！"
+        }
+      ]
+    },
+    {
+      "script_id": "100117",
+      "internal_title": "第一章1-12.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "カウンター客",
+          "text": "さいっこうだぜ――！　もっと賭け金を上げてやろう、あの…ヴェル…何とかいう娘に！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "VIP客",
+          "text": "頑張れ！　チャンピオンの嬢ちゃん！　あんたに全財産賭けてんだからな！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "来賓客",
+          "text": "うおぉ、ダウが３８１.１７に！？　…あ、あと五千上乗せさせてくれ…！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "シュナイダー",
+          "text": "あはっ…いいわ、最高よ。政府の旦那ったら、思ったより強いのね！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "シュナイダー",
+          "text": "ほかの財団のクズどもとは、大違いだわ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "なぜ財団に身を寄せようと？　ヴェンデッタでは満たせないの？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "シュナイダー",
+          "text": "んふふ…なぜって、この世に残ることを「許されない」あたいたちだって、生きたいからよ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "シュナイダー",
+          "text": "「ストーム」がもう目と鼻の先まで来てるのよ。雨宿りするための避難所が軒先だろうが、がれきだろうが…どうでもいいでしょう？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "シュナイダー",
+          "text": "言い終わるが否や、彼女は手を伸ばし、こちらの首を狙って振り下ろした――"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "もしわたしが、その避難所を提供すると言ったら？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "シュナイダー",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "シュナイダー",
+          "text": "…………"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "シュナイダー",
+          "text": "彼女の手は空で一瞬止まり、最後はやはり銃と化して前方に向けた――"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "シュナイダー",
+          "text": "あんたと同じ言葉を投げかけてきた人が、ちょうど今あたいたちの後ろでこの試合を鑑賞してるわ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "シュナイダー",
+          "text": "「ダン！　ダン――！」"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "来賓客",
+          "text": "ん？　いまダウが３１ポイント下がってないか？　 …見間違いか？"
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

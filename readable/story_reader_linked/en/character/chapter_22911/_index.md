@@ -1,4 +1,4 @@
-# Character Stories · chapter_22911
+# Character Stories · Into the Rainforest
 
-- [229111 Into the Rainforest](229111-Into the Rainforest.md) *(extra record)*
-- [229112 Into the Rainforest](229112-Into the Rainforest.md) *(extra record)*
+- [229111 Perilous Rainforest](229111-Perilous Rainforest.md) *(extra record)*
+- [229112 No Place to Go](229112-No Place to Go.md) *(extra record)*

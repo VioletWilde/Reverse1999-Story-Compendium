@@ -1,6 +1,6 @@
 # Homecoming Day
 
-- Chapter: 他者的悲哀 (`113`)
+- Chapter: On Another's Sorrow (`113`)
 - Episode: `11302`
 
 > Subtitle: A pure and pristine song.

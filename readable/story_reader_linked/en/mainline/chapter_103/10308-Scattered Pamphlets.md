@@ -1,6 +1,6 @@
 # Scattered Pamphlets
 
-- Chapter: Nouvelles et Textes pour rien (`103`)
+- Chapter: Nouvelles et Textes pour Rien (`103`)
 - Episode: `10308`
 
 > Subtitle: They fall like snowflakes, bringing with it horrible news and whispers of temptation.

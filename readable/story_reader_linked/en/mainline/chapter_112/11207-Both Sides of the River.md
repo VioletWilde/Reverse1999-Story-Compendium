@@ -1,6 +1,6 @@
 # Both Sides of the River
 
-- Chapter: 远征记 (`112`)
+- Chapter: The Campaign's Tale (`112`)
 - Episode: `11207`
 
 > Subtitle: They weep for the grain trampled under the boots of friend and foe alike.

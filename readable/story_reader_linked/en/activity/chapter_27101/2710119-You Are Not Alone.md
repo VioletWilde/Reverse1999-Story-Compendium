@@ -1,6 +1,6 @@
 # You Are Not Alone
 
-- Chapter: 1987 Космическая Увертюра (`27101`)
+- Chapter: 1987 Cosmic Overture (`27101`)
 - Episode: `2710119`
 
 > Subtitle: 0.12 pixels, maybe smaller. You belong here, and so do I.

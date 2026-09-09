@@ -1,0 +1,327 @@
+{
+  "episode_id": 10108,
+  "chapter_id": 101,
+  "chapter_title": "在我們的時代裡",
+  "display_label": "",
+  "title": "證券狂歡",
+  "subtitle": "永恆高地之上的吹笛人神采奕奕，他不需要睡眠與休憩。",
+  "trails": [
+    {
+      "element_id": 1010801,
+      "owner_episode_id": 10108,
+      "trigger_episode_id": null,
+      "title": "小徑① 你好，十四行詩",
+      "description": "在這裡，十四行詩與蘇芙比經歷了一場驚心動魄的相逢。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=10107",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1010802,
+      "owner_episode_id": 10108,
+      "trigger_episode_id": null,
+      "title": "小徑② 繳械技藝",
+      "description": "一段記載，關於如何使用繩與索。\n繳械效果將束縛敵方的攻擊類神秘術，阻礙敵方進攻，使戰局更有利。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=10107",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100112",
+      "internal_title": "第一章1-9",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "證券狂歡"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "終於結束了……我們安全了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "非常感謝你的幫助，槲寄生小姐……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "你向森林深處跑去，是想去尋找那位橘髮姑娘嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "是的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "我“看見”她擺脫了魔精，登上一輛墨綠色的賓利後向西北方駛去了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "森林知曉每一位來者的去處，或將其引入歧途，或將其引至輝光。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "而你的朋友，擁有一份好運氣。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "西北方向的出口……從地圖上看起來，離“瓦爾登湖”很近。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "你們要去“瓦爾登湖”？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "原來如此。你們也要去參加今晚的暴雨集會……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "……！暴雨集會是什麼？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "是一場召集各州菁英神秘學家參加的集會。除此以外，還邀請了酒吧老闆相熟的名流和普通常客。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "我想……流程應該就是常規的決鬥演出、過於喧鬧的宴會與一個“好消息”的傳播吧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "您知道“好消息”的具體內容嗎？槲寄生女士。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "抱歉。我對此不感興趣。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "嗯……但如果你們想瞭解“好消息”的內容，不妨帶上我的邀請函去看看。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "這是一場地下酒吧的秘密集會。准入門檻是邀請函……和5萬美金的股票持有券。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "股票？這個地下酒吧為何總是與金融證券有關聯……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "我們本來也有一份認購合同，不過……已經被我們的朋友燒毀了……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "……這樣啊，你們居然能空無一文地走到這裡。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "“1929年，股價已經立足於永恆的高地上”，你們聽說過這樣的言論嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "現在人們已經不用現金進行交易了。神秘學的介入，使股票的交易便利得令人訝異。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "新時代的城市群迅速擴張，就連魔精都失去了立足之地。能滿足這樣龐大的消費欲望的，只有借貸與無限高漲的股市。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "這與APPLe某所瞭解的歷史很相似。但似乎又有一些不同……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "……這是5萬美金持有券的贈予合同。如果你們仍想去參加集會，那就收下它吧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "你不去參加集會嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "謝謝你的關心，但我……暫時還不想離開這座森林。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "簽下真名",
+          "edge_label": "서명한다",
+          "branch": []
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "經紀人",
+          "text": "您好，我是您的證券交易經紀人。您的受贈申請已收到……申請已通過……帳戶已更新。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "經紀人",
+          "text": "感謝您對藍籌股的購買與支持。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "經紀人",
+          "text": "今日地產板塊行情火熱，以下是為您定制的進一步操作建議——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "不用了，謝謝。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "這條路的盡頭，三棵柏樹旁就是森林的出口。那麼，我們就此告別了。願林中祝禱賜予你們良運。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "對了……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "對了。如果你們見到了酒吧老闆，幫我向他傳達一聲問候。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "勿忘我老爺，今天過得挺好啊。"
+        },
+        {
+          "kind": "title_card",
+          "text": "“瓦爾登湖”酒吧"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "我需要的人，帶回來了？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "嗯哼……7個神秘學家，連根可愛的小腳指都沒少喔。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "他們都對重塑的教義很感興趣，很快啊，就能成為虔誠的亡命之徒了～"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "人家的任務完成得這麼圓滿……不知道會有什麼獎勵呢、啊哈哈。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "聽說你沒有解決掉多餘的人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "啊哈，咱好像不記得……你交代的任務裡，有濫殺平民的指令？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "還是說……對於你們來說，非純血的神秘學家就是這樣毫無價值？呵呵。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "就算我們是南邊幫派出身，但也是講情義的呢。可不能像“暴雨”那樣無情嗚……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "重塑對於特殊之人，自然有例外狀態。就像現在，我們仍在為斯奈德你尋找失蹤的姐姐。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "斯奈德",
+          "text": "那就有勞老爺們費心了～"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "斯奈德",
+          "text": "懶洋洋的身影向門外踱步而去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "若你的義姐瑪麗安知道你這般重情義，一定倍感欣慰。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "畢竟你只是格雷克家的養女……歸根結底，和他們這群人類，沒什麼血緣關係。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "斯奈德",
+          "text": "不管怎麼說，我們也是一起生活了十幾年的“家人”嘛。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "斯奈德",
+          "text": "不過，我好像從來沒有提過……失蹤的是哪一個姐姐呢。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "斯奈德",
+          "text": "媽媽。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "斯奈德",
+          "text": "媽媽，收拾行李。今晚離開這裡。"
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

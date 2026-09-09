@@ -1,0 +1,400 @@
+{
+  "episode_id": 10701,
+  "chapter_id": 107,
+  "chapter_title": "고독의 노래",
+  "display_label": "",
+  "title": "대각선의 비밀",
+  "subtitle": "물에 젖은 나뭇가지 또는 초월적인 천국, 그녀는 이 모든 것을 다 이룰 수 있다고 믿었다.",
+  "trails": [
+    {
+      "element_id": 1070101,
+      "owner_episode_id": 10701,
+      "trigger_episode_id": null,
+      "title": "상징 동물",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=10701",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "콩을 먹지 말라. 빵을 손으로 뜯지 말라. 흰 수탉을 보면 멀리해라. 이제 우리도 학파의 계율 몇 가지는 잘 숙지하고 있구나."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "이런 이야기를 나눈 지 정말 오랜만이네. 시간은 참 빨리 흘러. 이 늙은이의 머리로는 도저히 따라잡을 수 없어..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "촛불을 켜려면 새벽까지 기다렸어야지. 태양이 속아 모습을 드러내는 것을 늦췄을 테니 말이야. 그랬으면 우리가 더 많은 시간을 이야기할 수 있었을 텐데."
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "말도 안 돼",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "당연한 반응이야. 옛날 사람보다 자연의 법칙을 더 잘 아는 네가 촛불과 일출을 어떻게 연관 지을 수 있겠니. 그런데 말이다, 아주 오래전 사람들은 겪은 일들을 이렇게 생각했단다."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "추수 축제에 나팔을 채우니까 나무에서 열매가 맺히고, 들판에는 수확할 곡식으로 물결쳤네?"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "밤에 성냥을 켜니 달이 빛을 내네?"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "이렇게 세상을 이해하려는 것은 인간의 본능이야. 물론 그 당시에는 실수가 있었고, 잘못된 원인에 기인한 현상도 있고, 잘못된 추론에서 비롯된 이론도 있지."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "그렇게 ‘상징’은 광범위하게 사용되는 수단이 되었단다."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "예를 들면?",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "꽃은 축복과 수확을 상징하지. 우로보로스는 영원한 순환을, 독수리는 기민함과 지혜를, 흙은 안정감과 보호를 상징한단다."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "조금 더 간단한 것들을 볼까. 원은 보호를, 삼각형은 안정을, 삼중나선은 변화, 그리고 정신과 육체, 영혼의 통합을 상징하지."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "시간이 지나면서 비슷한 것들은 연관되어 점점 더 많은 상징이 만들어졌단다."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "너무 모호해",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "원인과 결과를 직접 눈으로 확인할 수 있기 때문에 어떤 것이 관련이 있고 어떤 것이 관련이 없는지 명확하게 알 수 있지. 만약 결과가 우리가 예상한 것과 다르다면 그 상징은 틀린 것이지."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "다시 말하자면, 물리적 형태가 잘못된 게 아니야. 물리적 사물은 절대 거짓말을 하지 않아. 잘못된 것은 그것에 부여된 의미와 개념이지."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "물건은 물건일 뿐, ‘본질’은 변하지 않아. 성냥이 달의 발광체가 아닌 성냥인 것처럼, 동물은 동물일 뿐이고, 원과 삼각형은 도형일 뿐이지..."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "그리고 ‘너’도 ‘너’일 뿐이고."
+            }
+          ]
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100701",
+      "internal_title": "第七章7-1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "고독의 노래"
+        },
+        {
+          "kind": "title_card",
+          "text": "대각선의 비밀"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "...엄마, 궁금한게 있어."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "왜 다들 ‘무리수’를 싫어하는 걸까?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "모래사장에 서 있던 여인이 몸을 돌려 어린 딸을 바라보았다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "77",
+          "text": "음... 너도 무리수가 싫니, 37?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "조금..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "37은 고개를 숙이고 발치에 있는 불규칙한 돌을 툭 찼다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "3을 셀 수 있고, 17도 셀 수 있지만 0.01001000100001... 이건 영원히 셀 수 없잖아. 그걸로 계산하는 건 더 말할 것도 없고."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "이런 비순환 소수는 결과를 엉망으로 만들어. 전체적인 공식의 간결함과 우아함을 망쳐서 싫어."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "77",
+          "text": "...하지만 네가 제일 좋아하는 도형 원의 둘레와 지름 비율도 무리수잖니, 안 그래?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "아니, π는 특수해. 난 그걸 얻는 방법과 거기에 담긴 뜻을 알고 있어. 그걸 계산에 넣을 수도 있고. e, log2, √2도..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "하지만 그건 소수의 무리수만 가능해."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "완전히 불규칙하고, 약분할 수 없어. 한없이 이어지는 숫자들은 적을 수도, 셀 수도 없고 계산도 불가능해."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "이상하게 수의 축만 차지하고 있어. 마치 신화에서 신에게 죽지 않는, 뱀의 다리를 가진 거인 기간테스처럼 말이야."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "77",
+          "text": "...하하."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "...엄마, 왜 웃어?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "77",
+          "text": "이렇게나 똑똑한데 또 가끔은 맹한 우리 딸 때문에 웃지."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "77",
+          "text": "넌 무리수를 싫어하는 게 아니야. 아직 잘 모르는 것뿐이지."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "늘씬한 여인이 몸을 숙이고 백사장 위에서 파도에 불어버린 나뭇가지 하나를 집어 들었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "부드러운 나뭇가지가 모래로 이루어진 집합을 만들어냈다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "길이가 같은 네 변, 교차하는 두 대각선."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "반듯한 사각형이었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "77",
+          "text": "자, 우리에게 익숙한 이 친구를 와서 보렴."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "77",
+          "text": "√2는 무리수로, 순수하게 산술로 얻을 수 있는 결론이지. ‘a와 b가 모두 정수인 상황에서 2는 (a/b)²의 형식으로 표현될 수 없다’와 같은 의미야."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "77",
+          "text": "우리는 무리수에 관한 그 어떤 지식이 없어도, 귀류법으로 이걸 증명할 수 있어."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "77",
+          "text": "하지만 정사각형의 대각선에서 이 불가산의 숫자를 쉽게 볼 수 있지. 이건..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "...나 알아!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "피타고라스가 정수비를 바탕으로 만든 수론은 미덥지 않다는 거지!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "77",
+          "text": "그래, 이건 간단명료하고 아름다운 정리이자 고대 수학의 훌륭한 업적 중 하나란다. 통약 불가능한 수는 수없이 많은데, √2가 그중 가장 눈에 띄는 것뿐이야."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "77",
+          "text": "이게 발견되면서 정수비로 세워진 고전 왕국이 무너졌어. 그리고 수학 분석의 현대화라는 획기적인 혁명을 일으키며 더 심오한 새로운 장을 열었지."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "77",
+          "text": "이것이 우리 발밑에 측량할 수 있는 단단한 대지뿐만 아니라 가늠할 수 없는 신비한 왕국이 있다는 걸 증명해 줬단다. 계량할 수 없고 통약 불가능하며 끝까지 파헤칠 수 없어."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "77",
+          "text": "...그리고 그 왕국을 여는 열쇠는 정사각형의 대각선에 당당하게 숨겨져 있지."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "무...리의 왕국?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "완전히 빠져든 소녀는 고개를 끄덕였다. 평소와 다름없이 아이는 이해가 무척 빨랐다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "나 알았어, 엄마. 우리의 인식에서 벗어나는 숫자는 언제나 존재한다... 이게 바로 무리수의 의미야."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "그러니까... 무리수에 대해 더 잘 알게 되면, 우리도 분명 무리수와 친구가 될 수 있을 거야!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "...그런데 엄마, 아직 대답해 주지 않은 게 있어. 섬사람들은 왜 무리수를 싫어하는 거야?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "77",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "엄마의 얼굴은 잘 보이지 않았다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그저 기억의 끝 장면만 떠오를 뿐이다. 부드럽게 휘어진 입가, 차분한 표정... 그것은 연민에 가까웠다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "...엄마?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소피아",
+          "text": "——!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소피아",
+          "text": "37... 깼어?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "침대 위의 소녀가 벌떡 일어나 앉더니 허공을 빤히 바라보았다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "내가 얼마나 누워있었어, 소피아?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소피아",
+          "text": "너 일주일 동안 의식이 없었어. 그동안..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "친구의 말이 끊겨 버렸다. 37은 휙 이불을 걷어내고 커튼이 늘어뜨려진 동굴 입구로 달려갔다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소피아",
+          "text": "잠깐만, 37, 너 아직 더 쉬어야 돼!!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "안 돼, 시간이 없어!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "6을 찾아야 해... 빨리, 빨리 모두에게 말해야 하는데!!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "...우리의 ‘원’이 깨졌어."
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

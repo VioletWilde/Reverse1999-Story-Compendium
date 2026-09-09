@@ -1,6 +1,6 @@
 # Green Oranges
 
-- Chapter: Tender is the Night (`102`)
+- Chapter: Tender Is the Night (`102`)
 - Episode: `10203`
 
 > Subtitle: You can pluck that green orange as easily as you take her life.

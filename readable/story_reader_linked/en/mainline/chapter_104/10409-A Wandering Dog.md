@@ -1,6 +1,6 @@
 # A Wandering Dog
 
-- Chapter: El oro de los tigres (`104`)
+- Chapter: El Oro de los Tigres (`104`)
 - Episode: `10409`
 
 > Subtitle: Ears low, tail down, she sidles back to the shadow of the house.

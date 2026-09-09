@@ -1,6 +1,6 @@
 # Popular Literature
 
-- Chapter: Tender is the Night (`102`)
+- Chapter: Tender Is the Night (`102`)
 - Episode: `10208`
 
 > Subtitle: Pleased to meet you again. I'm glad that everything is still useful.

@@ -1,6 +1,6 @@
 # The Departure and New England
 
-- Chapter: To Wennifred (`1909`)
+- Chapter: To Winnifred (`1909`)
 - Episode: `190907`
 
 > Subtitle: One roll of film, 23.7 kilograms, more than 70 years of struggle.

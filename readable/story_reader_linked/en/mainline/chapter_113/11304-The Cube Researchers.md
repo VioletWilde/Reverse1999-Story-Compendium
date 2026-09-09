@@ -1,6 +1,6 @@
 # The Cube Researchers
 
-- Chapter: 他者的悲哀 (`113`)
+- Chapter: On Another's Sorrow (`113`)
 - Episode: `11304`
 
 > Subtitle: Only by opening it can we know what's inside—but should we really?

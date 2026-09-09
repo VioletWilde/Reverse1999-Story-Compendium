@@ -1,0 +1,543 @@
+{
+  "episode_id": 3210107,
+  "chapter_id": 32101,
+  "chapter_title": "遷流的盛宴",
+  "display_label": "",
+  "title": "好夢，朋友",
+  "subtitle": "是的，輪到你了。",
+  "trails": [
+    {
+      "element_id": 3210202,
+      "owner_episode_id": 3210107,
+      "trigger_episode_id": null,
+      "title": "目擊記錄",
+      "description": "一則不顯眼的目擊記錄。太多怪奇的傳聞、謠言、小道消息，每個路人的口袋裡都揣著些。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=3210107",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "異域面具"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一位流浪漢提供情報，他在封閉的小巷內看見戴著螃蟹面具的人出沒，其穿著並不像無家可歸的人。據稱那面具上的表情變化得十分生動，好像蟹殼上的紋路就是面龐本身一樣。"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 3210305,
+      "owner_episode_id": 3210107,
+      "trigger_episode_id": null,
+      "title": "爭辯之聲",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=3210107",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "你正準備享用蒙布朗和香醇的咖啡，鄰座的辯論卻越來越激烈。雖然他們打擾了你，但其中一位的觀點你確實比較認同："
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "“離群索居者是在逃避社會責任。”",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "和被放逐沒什麼兩樣。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "“沒有惡，只有未被社會承認的善。”",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "標準總是在變化。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "“愛人是丟失在人間的一部分自己。”",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "噢，浪漫主義情調。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "“人要認識到自己從一開始就是完滿的。”",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "所以我們到底在追求什麼。"
+            }
+          ]
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 3210505,
+      "owner_episode_id": 3210107,
+      "trigger_episode_id": null,
+      "title": "爭辯之聲",
+      "description": "",
+      "action": "",
+      "unlock_condition": "ChapterMapElement=3210305",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "你正準備享用蒙布朗和香醇的咖啡，鄰座的辯論卻越來越激烈。雖然他們打擾了你，但其中一位的觀點你確實比較認同："
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "“離群索居者是在逃避社會責任。”",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "和被放逐沒什麼兩樣。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "“沒有惡，只有未被社會承認的善。”",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "標準總是在變化。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "“愛人是丟失在人間的一部分自己。”",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "噢，浪漫主義情調。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "“人要認識到自己從一開始就是完滿的。”",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "所以我們到底在追求什麼。"
+            }
+          ]
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "203210",
+      "internal_title": "【3.2】迁流的盛宴07.1",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "你還好嗎，西莉亞？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "友人疲憊地點頭，努力地平復呼吸。跑得太急了，她的臉色在燈光下格外蒼白。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "沒事就行，我相信你有分寸……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "阿黛拉鬆了一口氣，湊近車窗，看見幾道黑影被遠遠甩開，消失在身後的夜色中。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "哈——就算有四條腿，也跑不過四個輪子。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "文森特先生——沒錯吧？我們的車不久前“打過照面”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "多虧您出現得及時！不過，我還以為您會多休息一段時間……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "文森特",
+          "text": "法語裡沒有不可能這個詞！我的康復之日早已臨近！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "司機短促地笑了兩聲。他再一次加大油門。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "是嗎？祝您早日恢復健康。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "西莉亞",
+          "text": "阿黛拉……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "友人拍了拍阿黛拉的肩膀，但沒能立刻引起注意。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "您剛才在咖啡館門口見過其他人嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "文森特",
+          "text": "沒有。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "西莉亞",
+          "text": "阿黛拉，別再問了——我覺得——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "阿黛拉握了握她的手，向前傾身，離駕駛座近了些。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "我剛發現，您副駕駛車窗上的口紅痕跡，很像我的一個朋友留下的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "這太巧了。和她寫在我車上的句子一樣、位置一樣——連不小心抹掉的一個角都一樣！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "我早就把痕跡擦掉了。可它為什麼出現在你的車上？這真的是你的車嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "或者——這一切根本就是一個噩夢！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "西莉亞",
+          "text": "你一定是太累，才以為自己在做夢，問出這麼奇怪的話……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "夠了！難道你就不是我夢見的假貨嗎？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "西莉亞睜大眼睛，她看起來逐漸虛弱了，像一支無力燃燒的白蠟燭。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "西莉亞",
+          "text": "……啊。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "車已經沒有再往前行駛。它懸置在一片黑暗中。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "幼龍攀上了駕駛座的靠背，跳到司機肩上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "唯以真知煉化虛妄！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "在火焰灼燒之下，獸類的尖牙撕裂了屬於人的軀殼。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“文森特”",
+          "text": "——！"
+        }
+      ]
+    },
+    {
+      "script_id": "203211",
+      "internal_title": "【3.2】迁流的盛宴07.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "“文森特”跳出車窗，扭曲的身影立刻被夜色吞沒。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "阿黛拉感到胃裡一陣燒灼般的疼痛。她錯覺那片黑暗生有絨毛、尖牙，屬於一隻更龐大的獸類，從靠近的身軀上榨出黏稠的血。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "它守著滿腹飢餓等待許久，直至今日。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "西莉亞",
+          "text": "阿黛拉！阿黛拉——阿黛拉！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "你——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "在她回神前，幼龍的尾巴已經捲上西莉亞的手臂。但火焰只燃起了一瞬，比一道呼吸更短暫。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "你真的是——？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她沒來得及說完下文，西莉亞已經猛地握住了她的手。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "西莉亞",
+          "text": "聽我說！阿黛拉！我想起來了！我知道了“熱沃當的野獸”是怎麼回事——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "西莉亞",
+          "text": "“重塑之手”撬開了意象寶庫，導致了所有的癔症和失蹤案！再這樣下去，他們會毀掉整個巴黎！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "西莉亞",
+          "text": "不要相信羅西教授，不要急著來找我，你必須先做一件事——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "冰冷的物件落進阿黛拉手中。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "阿黛拉低下頭。她認識項鍊上綴著的這枚鑽石。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "它的光彩無可比擬，它早已變成一個難以觸及的傳說。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "這……這是法蘭西之藍？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "不可能……它一定是……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她所知的鑑別知識都告訴她，這是真的。\n但這太過突然……誰會相信驟然落入手中的稀世珍寶？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "西莉亞",
+          "text": "別考慮它的來歷了，意象寶庫絕不能被開啟！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "西莉亞用力握住她的手，幫她握緊了拳頭。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "西莉亞",
+          "text": "你一定要燒掉它——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "——西莉亞！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝麗爾",
+          "text": "——於此破暗歸真。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "腦海中沉重的黑暗被掃去。阿黛拉左右打量著周圍，感到太陽穴隱隱地抽痛。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "呃……我是在……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝麗爾",
+          "text": "請深呼吸，阿黛拉小姐。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "柔軟的沙發，明亮的水晶燈，溫和的香薰氣味，手中的鑽石。\n一切都和接受“淨化儀式”前的情景別無二致。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "就連坐在對面沙發的貝麗爾，都保持著和阿黛拉閉上眼睛前相同的姿勢。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "我……是做了一場夢？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝麗爾",
+          "text": "不完全是。你沉入了潛意識的深處，找出了盤踞在那裡的陰影。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "我的確看到了“熱沃當的野獸”……在花神咖啡館裡……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "所以淨化儀式成功……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她突然愣住了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "手中的鑽石。它本該是一顆煙晶。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "這不是我挑選的那顆水晶！是西莉亞在夢裡給我的……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "……法蘭西之藍？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "為什麼？為什麼它會出現在這裡？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "我還在那個噩夢中嗎？我……沒有醒來？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她聽到自己的聲音在顫抖。\n她下意識地望向貝麗爾，在場的、僅剩的、或許能夠幫助她的人……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "貝麗爾的臉上浮現出淡淡的疑惑。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝麗爾",
+          "text": "你在說什麼，阿黛拉小姐？你並未挑選過水晶。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝麗爾",
+          "text": "那顆鑽石——你從一開始就握在手中。"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

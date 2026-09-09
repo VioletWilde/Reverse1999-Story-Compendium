@@ -1,6 +1,6 @@
 # Jade or Stone
 
-- Chapter: Notes on Shuòrì (`16101`)
+- Chapter: Notes on Shuori (`16101`)
 - Episode: `1610117`
 
 > Subtitle: What distinguishes a gem from a rock?

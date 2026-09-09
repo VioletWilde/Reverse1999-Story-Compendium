@@ -1,6 +1,6 @@
 # Illusions of Light
 
-- Chapter: The  Best Band in Town (`1920`)
+- Chapter: The Best Band in Town (`1920`)
 - Episode: `192003`
 
 > Subtitle: Just a little trick of arcanum, hardly worth mentioning.

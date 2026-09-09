@@ -1,6 +1,6 @@
 # The Armistice
 
-- Chapter: 行于漫漫长路上 (`111`)
+- Chapter: A Long Long Way (`111`)
 - Episode: `11118`
 
 > Subtitle: History will remember this day.

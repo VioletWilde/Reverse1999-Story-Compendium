@@ -1,6 +1,6 @@
 # Legacy of the Era
 
-- Chapter: 远征记 (`112`)
+- Chapter: The Campaign's Tale (`112`)
 - Episode: `11210`
 
 > Subtitle: A worm frozen in resin, its body encased for hundreds of millions of years.<br>Is it the prisoner within this silent amber or a creation of eternity?

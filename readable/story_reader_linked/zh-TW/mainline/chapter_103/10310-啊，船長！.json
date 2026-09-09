@@ -1,0 +1,642 @@
+{
+  "episode_id": 10310,
+  "chapter_id": 103,
+  "chapter_title": "故事一無所有",
+  "display_label": "",
+  "title": "啊，船長！",
+  "subtitle": "天啊！我從未做過這樣大膽的事！也從未感到過……如此被人理解。",
+  "trails": [
+    {
+      "element_id": 1031001,
+      "owner_episode_id": 10310,
+      "trigger_episode_id": null,
+      "title": "小徑① 減法",
+      "description": "一個無名的方盒子，屹立在空地。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=10310",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "簡單到像是用線段構成的、純白的床，上面有個看上去未必能讓人做個好夢的白枕頭，以及半屋子滿滿當當的光。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "我討厭禁閉室",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "噢，你要是說得出喜歡，我就該建議你去瞧瞧腦子了。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "聽著，我不知道你對藝術有多少瞭解，不過最好的情況是像我一樣一竅不通——別他*的傻笑了！這毫無疑問是藝術，是60年代的又一場藝術革命。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "看上去不錯",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "哦，棒極了！現在你開始愛上禁閉室了！等我開上瓶啤酒……恭喜你！你也成了個瘋子，要麼就是成了個藝術家——無論哪個都值得慶祝！"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "你對此頗有造詣。想必現在已經等不及要和我解釋下為何唐納德·賈德不給自己的那些方盒子起名字了。"
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "這一切都是人類那顆理性大腦做的好事——哲學與美學交織成一個螺旋，跌跌撞撞地往前邁著步子，一直到今天……一直到“過去”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "簡單變得複雜，文明吞噬著文明。而後突然有一天，他們回頭向深處望去，見到了那副巨人觀。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "好在一切都為時未晚。解決的方法非常簡單——他們先是把形丟了出去，隨後又扔掉了概念，現在又拋卻了情緒與隱喻。一切開始變得純粹……最後正方形又變回了正方形，並且除此之外它什麼也不是。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "簡單的數學問題",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "甚至是連三歲的小屁孩都做得了的減法！"
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "極簡主義——不得不說，這是個好現象，它向宇宙證明了這些充滿智慧的靈長類並非那麼無藥可救。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "用藝術來抵禦痛苦與消費主義，這舉動像你的新後媽一樣溫柔。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "再過幾年，減到這顆星球重新長滿樹，猴子老老實實吃它們的果子——"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "就會回到過去？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "是前往新的未來，你個傻蛋。"
+            }
+          ]
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1031002,
+      "owner_episode_id": 10310,
+      "trigger_episode_id": null,
+      "title": "小徑② 綠意守衛",
+      "description": "孩子們的低語消散後，它們複歸此地，將拾獲的珍寶藏於身側。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=10310",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "被遺落的贈禮"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "剔透，富有光澤，顏色各異的小飾品，\n適於在十來歲的孩童手中\n作為友誼的見證傳遞，分享朋友的耳語。\n其持有者來自體面的神秘學家庭，且主動要求入學，\n理應享有無傷大雅的特權，免於細緻檢查。\n她將這些禮物藏於衣袋，等待著值得的時刻。\n如此緊張，如此期待，以至於未能發覺一枚水晶悄然跌落。"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100312",
+      "internal_title": "第三章3-10",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "啊，船長！"
+        },
+        {
+          "kind": "title_card",
+          "text": "喬治橡樹"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "沿著喬治橡樹灰褐色的枝幹向下望去，一個膨脹的，黝黑的樹洞，與凹陷的土地接壤，構建出了天然的堡壘。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "喬治橡樹生長於七百年前，它以一個長輩的身份，迎送了每一年學校的巡禮演出。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "樹洞裡常年居住著紅松鼠和啄木鳥，巨大的空間令“圈環”踢橡果的聲音都帶著特殊迴響。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“圈環”",
+          "text": "——你說會有人來嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“圈環”",
+          "text": "會不會，等到最後，都沒有一個人過來……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“圈環”",
+          "text": "他焦灼地踱步，將橡果踢得滿地都是。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“圈環”",
+          "text": "說不定根本沒有人在乎外面的事情，大家都對學校的教導很滿意……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "我猜至少能來兩個同學吧……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "伊莎貝拉……她剛進校的時候，一直哭著想回家。也許她會來……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "這種事情很難打包票。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "……只要來的不是教員就好了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“圈環”",
+          "text": "維爾汀！你看外面——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一兩個微弱得像螢火一樣的光芒出現在遠處。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "緊接著，是更多，更多的光點。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "它們像散落在夜空中的星星，安靜地前行，最後，匯成一條駛向這裡的星河。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“圈環”",
+          "text": "是他們——！天啊，他們、還有她們全都來了——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“圈環”",
+          "text": "怎麼會有這麼多人？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“圈環”",
+          "text": "那些都是熟悉的面孔。太陽正當空的時候，熟悉且沉默的面孔。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "竟然……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "小梅斯梅爾、伊莎貝拉、“便士”、瑪蒂爾達……你們都來了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "加上“圈環”的同學，這裡幾乎鑽進了半個班的學生。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "他們陸續地跳進來，巨大的樹洞一下變得很擁擠。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "學生眾",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "學生眾",
+          "text": "等所有人都安頓好後，氣氛變得緊張起來。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "學生眾",
+          "text": "人們面面相覷。這個集會是——應被嚴厲禁止的、違反道德而且邪惡的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "學生眾",
+          "text": "一個漫長的沉默過後，終於有人開始提問。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小梅斯梅爾",
+          "text": "——維爾汀……你把我們都喊到這裡來，是想要反抗校長嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "什麼……？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "當然不是。我從來沒想過！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小梅斯梅爾",
+          "text": "呼……那我就放心了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "學生Ⅰ",
+          "text": "嚇死我了。小梅斯梅爾你可真敢問！不過我也鬆了一口氣……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "學生Ⅱ",
+          "text": "要是造反的話我第一個就跑！我可沒想要和誰作對！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "學生Ⅱ",
+          "text": "人群裡傳來了此起彼伏的笑聲。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊莎貝拉",
+          "text": "那你想做什麼呢？我們……我們都是偷偷跑出來的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "我沒想到會有這麼多人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "學校裡居然會有這麼多人，和我與“圈環”一樣……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "都想要知道更多外面的事情……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“圈環”",
+          "text": "最近那些傳言……大家應該都聽說了吧？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“圈環”",
+          "text": "但我們不僅被禁止提到“那個詞”，還被禁止提到所有與外界有關的東西。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "我們的生活，只能圍繞著訓練、和平、人類，這三個東西轉。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "明明我們有不一樣的發色、說著不一樣的口音、使用著不一樣的神秘術。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "但《學生守則》卻要求我們忘記這一切，要我們磨平棱角，成為整齊劃一的模範。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“圈環”",
+          "text": "我們撿到了一些宣傳單，上面記錄了很多外面的詩歌。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“圈環”",
+          "text": "是我們課本上從來沒有學過的東西……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "那首詩歌讓我想到了很多東西……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "我們是被選中的孩子。我們註定要成為第一防線的砥柱。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "但是今天站在這裡的同學，一定對自己尚未被磨平的棱角，對外面的世界還抱有著好奇吧……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "我們無法離開學校，但我們能有另一種方式來瞭解真相。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "各位同學們，在入學之前……你曾過著怎麼樣的生活？住在什麼樣的地方？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "那裡的人也念咒語嗎？他們也像我們一樣，喜歡吃司康餅嗎……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "通過這些來自世界各地的回憶，我們一定能在這裡“復原”出外面世界真實的模樣！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "學生眾",
+          "text": "……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小梅斯梅爾",
+          "text": "原來還有這樣的方法……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“圈環”",
+          "text": "這是我們想到的最安全的辦法了。畢竟我們也不可能離開這裡——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "學生Ⅱ",
+          "text": "我、我這裡藏了一些撿到的傳單！還有離開了的教員送給我的彩色玻璃球！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "學生Ⅱ",
+          "text": "這些也算是外面的世界的東西吧！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪蒂爾達",
+          "text": "都別吵了，都別吵了！讓我瑪蒂爾達第一個來發言！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪蒂爾達",
+          "text": "我叫瑪蒂爾達·布翁尼！我是本校年齡最大的轉校生，是被特別批准進來的！所以呀，關於外面的事情，我比你們每個人都要清楚得多……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊莎貝拉",
+          "text": "我、我是伊莎貝拉，我4歲就被接進來了，所以我記得的不多……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊莎貝拉",
+          "text": "嗯，我記得院長媽媽喜歡穿灰藍色的花裙子，還有……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊莎貝拉",
+          "text": "我們那邊很少下雨，天像圓形的蓋子，上面沒有雲……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小梅斯梅爾",
+          "text": "我們家是神秘學界的心理學世家。“動物磁性”是我的祖父的祖父的……發明的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小梅斯梅爾",
+          "text": "不過我不是很喜歡神秘學家，他們都容易發瘋，最後還是要讓我們去治療——看起來很嚇人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小梅斯梅爾",
+          "text": "對了，我家那邊有個很大的足球訓練場，草皮總是光禿禿的。球門上還生銹了——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“圈環”",
+          "text": "說慢一點，說慢一點！足球是什麼？球門又是什麼？我記不過來了……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“圈環”",
+          "text": "“圈環”在記錄著這些回憶。小冊子上密密麻麻的，累成了好幾頁。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "每個人都被激起了懷舊、溫暖、甚至是團結的情緒。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他們從未感受到如此的融為一體。他們不同的過去，與現在匯成了如今的彼此。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊莎貝拉",
+          "text": "……這首詩寫得真好。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊莎貝拉",
+          "text": "伊莎貝拉拿著那張宣傳單，竊竊私語道。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊莎貝拉",
+          "text": "我都想把它唱出來了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊莎貝拉",
+          "text": "伊莎貝拉突然站起身來，把大家都嚇了一跳。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“圈環”",
+          "text": "你要唱歌？怎麼唱？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊莎貝拉",
+          "text": "用我們校歌的旋律！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊莎貝拉",
+          "text": "你看，這個拍子剛好能對的上！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“圈環”",
+          "text": "歡欣，平安，或是聲名，康健，又及敬佩與尊嚴，技巧同孔武……♪"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“圈環”",
+          "text": "——我的天，還真的對上了？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊莎貝拉",
+          "text": "都不關照順意而又盲從的牧群……♪"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪蒂爾達",
+          "text": "啟明的星，閃爍不見他們雙眼……♪"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊莎貝拉",
+          "text": "大家都紛紛站起來了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "學生Ⅱ",
+          "text": "天啊，一字不落地對上了……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪蒂爾達",
+          "text": "這難道是命運給我們的指示嗎？它是要我們、它是要我們——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊莎貝拉",
+          "text": "它是要我們在巡禮演出上唱出來！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "小梅斯梅爾",
+          "text": "怎麼可能，我們一定會被抓的！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“圈環”",
+          "text": "——但校長他們，就能聽到我們的心聲了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“圈環”",
+          "text": "他們就會知道，我們……我們也有自己的想法……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊莎貝拉",
+          "text": "他們會理解我們的，對嗎？維爾汀，他們可是看著我們長大的呀！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "他們也許會不高興，會批評我們……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "但是，讓我們試試吧！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "在這片黑暗中，大家的手默默地牽在了一起。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "這首歌……分明比之前的更動聽啊。"
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

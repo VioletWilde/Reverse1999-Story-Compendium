@@ -1,6 +1,6 @@
 # Campfire
 
-- Chapter: Away From Home (`1924`)
+- Chapter: On the Road (`1924`)
 - Episode: `192404`
 
 > Subtitle: Hearts of gold shine like a campfire in the dark night.

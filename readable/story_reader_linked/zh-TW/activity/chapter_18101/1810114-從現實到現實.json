@@ -1,0 +1,684 @@
+{
+  "episode_id": 1810114,
+  "chapter_id": 18101,
+  "chapter_title": "再見，來亞什基",
+  "display_label": "",
+  "title": "從現實到現實",
+  "subtitle": "從一種現實，到另一種現實。",
+  "trails": [
+    {
+      "element_id": 1811401,
+      "owner_episode_id": 1810114,
+      "trigger_episode_id": null,
+      "title": "裝卸區域",
+      "description": "故事由一支迴盪在勞作區域半空中的歌兒開頭。是的，這是新的一天。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=1810114",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1811402,
+      "owner_episode_id": 1810114,
+      "trigger_episode_id": null,
+      "title": "加快腳步",
+      "description": "加快腳步",
+      "action": "",
+      "unlock_condition": "ChapterMapElement=1811401",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "鎮民Ⅰ",
+          "text": "咱們得把找到的零件拿給哪位同志瞧瞧……我敢拿這麼些年頭的礦工經驗擔保，它們還能派上用場，肯定的！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "鎮民Ⅰ",
+          "text": "說不定裡頭是加了些盧恩礦石，瞧上去才嶄新著。總之，鋼材緊缺的時候，多找一點是一點……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "鎮民Ⅱ",
+          "text": "維拉同志這會兒大概和孩子們在一起，她可不會允許他們落下課程。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "鎮民Ⅱ",
+          "text": "在廢礦忙活的同志們興許回來了呢？我看，我們還是往旅館那邊趕近路，讓葉甫根尼同志來瞧個明白。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "鎮民Ⅰ",
+          "text": "行，就聽你的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "鎮民Ⅰ",
+          "text": "喂，你瞧。那幾個是芝諾的傢伙嗎？走在旅館前面的——噓，得小點聲。咱們這可是在背後議論別人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "鎮民Ⅱ",
+          "text": "瞧見了，我瞧著是挺像。葉甫根尼同志不是在和芝諾談判嗎？肯定是找他的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "鎮民Ⅰ",
+          "text": "他們走了，看樣子葉甫根尼同志不在。我們得晚點來。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "鎮民Ⅱ",
+          "text": "那就明天，或者後天。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "鎮民Ⅱ",
+          "text": "……老實說，讓我就這麼撤離鎮子，我是不願意。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "鎮民Ⅰ",
+          "text": "呿，頭些年鏟雪落的疤還在我腿上，家裡邊也才補過窗戶，說走，誰願意！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "鎮民Ⅱ",
+          "text": "但葉甫根尼同志說的是有些道理，他向來講實話……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "鎮民Ⅰ",
+          "text": "你是怕他聽著啦！這兒離會議室是挺近，但——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "鎮民Ⅱ",
+          "text": "不不，我要是怕什麼，當初就不會來這邊！拓荒咱們都沒怕過，我是想說，維拉同志的話正像是大夥兒擱拓荒那時候說的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "鎮民Ⅱ",
+          "text": "鎮子建起來了，住得久了，沒像以前那樣忙得慌了。這還是頭回拿出當時的幹勁，挺叫人高興！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "鎮民Ⅰ",
+          "text": "嗨，行！那再加把勁，走快些還趕得上回去幹活！"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "200822",
+      "internal_title": "【1.8】再见，来亚什基-14.1",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "數天后"
+        },
+        {
+          "kind": "title_card",
+          "text": "來亞什基·兒童廣場"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "尼娜",
+          "text": "維拉老師，大人們似乎一直在做奇怪的事。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "彼得森",
+          "text": "父親搬出了好多舊書，他每天晚上都在擺弄螺絲和圖紙。他告訴我：“這些都是拯救小鎮的關鍵。”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "彼得森",
+          "text": "可是，我看不明白那些書，也幫不上大人的忙……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "尼娜",
+          "text": "我的爸爸也是，他又開始搗鼓那些藏在床底下的玻璃瓶了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "尼娜",
+          "text": "不過這次，媽媽沒有再擰他的耳朵，還拿出了鎖在幾個櫃子裡的珍藏寶貝……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "尼娜",
+          "text": "馴鹿的斷角、胡鬧樺木的黏液、金齒海豹的鬍鬚……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "尼娜",
+          "text": "爸爸說，調製出來的藥劑能讓人一整天都充滿力氣。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "彼得森",
+          "text": "就連吝嗇鬼叔叔都拿出了他鎖在箱子裡的寶貝術杖呢！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "孩子們湊在維拉的身邊，好奇與疑惑寫滿了每一張稚嫩的臉。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維拉",
+          "text": "呵呵……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "維拉剛想說些什麼，急匆匆的腳步聲打斷了她。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "派特里基",
+          "text": "讓一讓，孩子們～"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "派特里基",
+          "text": "祝健康，維拉同志。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "遺憾的是，這支來自於公共食堂的急行軍顯然沒能如願行進。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他們成了孩子們的新目標。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "尼娜",
+          "text": "派特里基先生……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "尼娜",
+          "text": "您也在做奇怪的事嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "肩上扛著的書袋顯然逃不過孩子們的目光。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "它並非菜譜，而是某些更厚重的東西。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "尼娜",
+          "text": "《Э-050型挖掘機的使用及維修說明》《СК-1562型起重機操作指南》……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "尼娜",
+          "text": "上面有好多灰塵……它們看上去比我的年紀還要大呢～"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "派特里基",
+          "text": "哈哈，這些“老古董”可都是我們的學習資料。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "帕索諾",
+          "text": "大人們也要考試嗎……？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "派特里基",
+          "text": "這可比考試重要得多啦，孩子們。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "派特里基",
+          "text": "自打芝諾帶來了更新的設備，這些久經沙場的老將很久都沒派上用場了。大部分工人同志們對它們相當陌生。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "派特里基",
+          "text": "但現在，是時候揀起它們了。克努特同志每天都在組織我們學習這些“過時”的技術呢……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維拉",
+          "text": "是的，大人們被分成了很多個小組。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維拉",
+          "text": "克努特帶領著工程小組，帕索諾的叔叔加入了調查隊。而尼娜的爸爸，則是魔藥恢復小組的一員。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維拉",
+          "text": "每天傍晚，所有人都得參加模擬的魔精訓練，分享對付它們的經驗。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維拉",
+          "text": "為了重新開發我們的礦區，每一個人都在為之努力。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "孩子們高聲地詢問著，尋求身邊的每一位大人的去向。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "派特里基",
+          "text": "哈哈～沒有芝諾，咱們靠自己也能鑿出一片天來。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "彼得森",
+          "text": "維拉老師，我也想成為小鎮的驕傲！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "尼娜",
+          "text": "……我們能做些什麼呢？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "帕索諾",
+          "text": "我有很多鐵皮列車的玩具，它們能變成大機器人的零件嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "帕索諾",
+          "text": "它們也會打轉……還會像礦車一樣嗚嗚響！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維拉",
+          "text": "這是個很棒的想法，它一定能鼓舞更多人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "彼得森",
+          "text": "不行，先用我的！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "孩子們爭先恐後地舉手，像是一位位勇敢的戰士。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "派特里基",
+          "text": "別著急，孩子們……現在理應是我們付出的時候。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "派特里基",
+          "text": "但未來，總歸是你們的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "派特里基",
+          "text": "你們現在的工作，就是好好學習，成為來亞什基未來的支柱。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "派特里基",
+          "text": "明白了嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "尼娜",
+          "text": "可是，阿夫西維同學呢？我們都找不到他……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "尼娜",
+          "text": "如果他沒有得到自己的工作，他一定會很難過。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維拉",
+          "text": "呵呵～"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維拉",
+          "text": "別擔心，小尼娜……他也在為小鎮幫忙，以他的方式。"
+        },
+        {
+          "kind": "title_card",
+          "text": "來亞什基·廢棄礦區"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "基基圖克",
+          "text": "&*%#吱——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿夫西維",
+          "text": "耳朵！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一聲槍響後，一隻基基圖克迅速地逃竄開來。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "基基圖克",
+          "text": "嗚*/#……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿夫西維",
+          "text": "鬍鬚！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "而指揮家樂此不疲。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "接連不斷的振鳴，像是一首宛轉而悠揚的樂章。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "鎮民Ⅰ",
+          "text": "真不敢想像，這才幾個月的功夫，這兒就徹底成了那群怪物們的遊樂場。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "鎮民Ⅱ",
+          "text": "哈哈～多虧了這位古靈精怪的小同志，他總能發現那些不知從哪竄出來的小怪物們。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "鎮民Ⅰ",
+          "text": "不然的話，咱們的墾荒隊可沒法推進得這麼順利。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "鎮民Ⅱ",
+          "text": "要不是北方哨歌同志打包票，真不敢相信他還有這樣的才能。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "鎮民Ⅰ",
+          "text": "“別小瞧任何一位同志”，這話可不用我再複述了吧……？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "阿夫西維被緊緊地護在當中。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "北方哨歌",
+          "text": "你做得很好，阿夫西維……你保護了大家。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿夫西維",
+          "text": "保護……？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿夫西維",
+          "text": "可我明明在教授那些跳錯舞步的壞朋友呀……它們學得可真慢，一點兒也不聰明。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "北方哨歌",
+          "text": "是的，這正是你要做的——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "北方哨歌努力組織措辭，試圖跟上對方的理解。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "北方哨歌",
+          "text": "一場與基基圖克們的聯合演出。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "北方哨歌",
+          "text": "你的任務是，指出每一個掉隊的魔精……咳，朋友的不足之處。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "北方哨歌",
+          "text": "你擅長這個，不是嗎？像在旅館時一樣！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿夫西維",
+          "text": "噢——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿夫西維",
+          "text": "可是，如果它們做得很好呢？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "北方哨歌",
+          "text": "嗯……？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿夫西維",
+          "text": "那它們應該得到獎勵，對吧？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "是的，總有聰明的魔精能夠跟上隊伍。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "它們如影隨形，試圖趕走所有入侵者。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿夫西維",
+          "text": "謝爾吉同志，那位新朋友正在你的腳下……它希望親吻你的靴子，你願意和它跳舞嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "普通鎮民",
+          "text": "……什麼？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "北方哨歌",
+          "text": "小心！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "基基圖克",
+          "text": "吼吼&*%#——！"
+        }
+      ]
+    },
+    {
+      "script_id": "200823",
+      "internal_title": "【1.8】再见，来亚什基-14.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "“刺啦——”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "普通鎮民",
+          "text": "唔……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "葉甫根尼",
+          "text": "閃開！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "葉甫根尼衝上前來，白光穿過了最後一隻基基圖克的鼻腔。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "基基圖克",
+          "text": "——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "葉甫根尼甩開對方的屍體，任由鮮血滴落在雪地之上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他直勾勾地盯著北方哨歌。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "葉甫根尼",
+          "text": "這兒的魔精數量顯然超出了我們的應付能力。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "葉甫根尼",
+          "text": "很多人受傷了——我們必須撤出這裡。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "細微的呻吟聲從擔架上傳來，繃帶與血漬在雪地上堆成了一座小山。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "克努特",
+          "text": "這可是我們所有人的決定，葉甫根尼同志。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "克努特",
+          "text": "我們距離那片黑乎乎的地方越來越近了，可不能在這時候放棄！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "普通鎮民",
+          "text": "嘶……儘管大夥身上都掛了彩，但我們可不是毫無收穫的，不是嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "北方哨歌",
+          "text": "這是我的責任。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "克努特",
+          "text": "別這麼說，北方哨歌同志……你為我們提供了一個切實可行的方向，甚至還為我們發掘了一位同志的潛力，對吧！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他摸了摸阿夫西維的腦袋。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "葉甫根尼",
+          "text": "無論如何，他只是個孩子。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "克努特",
+          "text": "他同樣是我們的一份子，葉甫根尼同志。我們會照顧好他的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "克努特",
+          "text": "這可不是簡單的墾荒……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "克努特",
+          "text": "如果我們成功了，那大夥就不用離開這兒，不必擔心無家可歸，也不需要放棄任何一個人，不是嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "葉甫根尼",
+          "text": "哼……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "周圍響起了稀稀拉拉的掌聲，而後像拋入乾草堆的火苗，迅速地蔓延開來。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一杆杆翻新打磨的步槍，它們與礦鋤合奏，像是一首激昂的進行曲。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "克努特",
+          "text": "為了咱們所有人，這些傷根本算不上什麼。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "葉甫根尼",
+          "text": "我重申一次，我一點兒也不支持你們的莽撞。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他把腳下的雪塊踩得粉碎，頭也不回地離開了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "北方哨歌",
+          "text": "……！"
+        },
+        {
+          "kind": "title_card",
+          "text": "8#1"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

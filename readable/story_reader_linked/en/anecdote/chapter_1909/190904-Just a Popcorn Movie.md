@@ -1,6 +1,6 @@
 # Just a Popcorn Movie
 
-- Chapter: To Wennifred (`1909`)
+- Chapter: To Winnifred (`1909`)
 - Episode: `190904`
 
 > Subtitle: The popcorn is already crunchy and delicious, so there's no need to waste time finding a good movie to watch.

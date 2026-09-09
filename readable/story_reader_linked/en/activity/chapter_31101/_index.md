@@ -6,7 +6,7 @@
 - [3110104 The Midnight Piercer](3110104-The Midnight Piercer.md) — Wooo-wooo! Join us in our waltz along the banks of the Danube!
 - [3110105 Four and a Half Friends](3110105-Four and a Half Friends.md) — Ladies and gentlemen, kindly take your seats. The shadow play is about to begin!
 - [3110106 The Suspect's Testimony](3110106-The Suspect's Testimony.md) — "Danube Dawn" passenger, Thermanikian, arcanist, vampire.
-- [3110107 The "Danube Dawn"](3110107-The _Danube Dawn.md) — Operations Manual 101: The "Danube Dawn" is designed to serve all members of the public in the Danube basin.
+- [3110107 The Danube Dawn](3110107-The Danube Dawn.md) — Operations Manual 101: The "Danube Dawn" is designed to serve all members of the public in the Danube basin.
 - [3110108 The Railway Cat](3110108-The Railway Cat.md) — Vampire where's the vampire has he gone to stoke the fire?<br>We must find him or the train can't start.
 - [3110109 Do Not Enter](3110109-Do Not Enter.md) — The woods have eyes, and they see everything.
 - [3110110 Among the Dead](3110110-Among the Dead.md) — O child of shadow, within your mysterious tomb<br>I bid you to sleep in peace.

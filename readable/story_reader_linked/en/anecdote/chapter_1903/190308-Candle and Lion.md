@@ -1,6 +1,6 @@
 # Candle and Lion
 
-- Chapter: chapter_1903 (`1903`)
+- Chapter: The Long Night Singing Its Dirges (`1903`)
 - Episode: `190308`
 
 > Subtitle: The sun will surely rise. The sun always rises.

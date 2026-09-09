@@ -1,6 +1,6 @@
 # A Son's Confession
 
-- Chapter: 远征记 (`112`)
+- Chapter: The Campaign's Tale (`112`)
 - Episode: `11206`
 
 > Subtitle: Accept changing times, as farmers accept the coming of winter.

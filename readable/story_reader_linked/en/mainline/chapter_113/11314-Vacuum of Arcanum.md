@@ -1,6 +1,6 @@
 # Vacuum of Arcanum
 
-- Chapter: 他者的悲哀 (`113`)
+- Chapter: On Another's Sorrow (`113`)
 - Episode: `11314`
 
 > Subtitle: Still and unmoved.

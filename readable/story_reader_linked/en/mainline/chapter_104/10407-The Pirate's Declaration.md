@@ -1,6 +1,6 @@
 # The Pirate's Declaration
 
-- Chapter: El oro de los tigres (`104`)
+- Chapter: El Oro de los Tigres (`104`)
 - Episode: `10407`
 
 > Subtitle: Don't cut off power so quick, silly! You missed that song.

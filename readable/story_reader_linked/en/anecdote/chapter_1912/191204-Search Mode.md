@@ -1,6 +1,6 @@
 # Search Mode
 
-- Chapter: The Third Circumstance (`1912`)
+- Chapter: Semmelweis (`1912`)
 - Episode: `191204`
 
 > Subtitle: A blank mind is the best state for searching. That way, you won't miss any hidden clues.

@@ -1,4 +1,4 @@
-# Tortoise and the Hare
+# Tortoise and the Hare
 
 - Chapter: Silver Knot (`18603`)
 - Episode: `1860304`

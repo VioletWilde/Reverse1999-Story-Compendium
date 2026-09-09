@@ -1,0 +1,849 @@
+{
+  "episode_id": 11009,
+  "chapter_id": 110,
+  "chapter_title": "復楽園",
+  "display_label": "",
+  "title": "愚者と女教皇",
+  "subtitle": "内省者は狂人を装い、狂人は内省者のヴェールをまとう。",
+  "trails": [
+    {
+      "element_id": 101009,
+      "owner_episode_id": 11009,
+      "trigger_episode_id": null,
+      "title": "忠誠の度合い",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=1009",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "引き返せ、口と鼻を押さえろ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "心の準備ができていないなら、自分で確認するのはやめたほうがいい。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "素人のせいで、ここはひどい有様だ。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "どうなってるのか説明して",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "隠喩表現は得意じゃないが、まあいい。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "ショートケーキが壁に潰され、野犬に食いちぎられたパンが地面に散らかっている。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "あとはイチゴジャムだ。どこもかしこも、イチゴジャムにチリソース…チッ、腐ったブドウを踏み潰したかもしれん。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "ご覧の通り、ここにはたくさんの人がいたようだ。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "まぁ、今となっては、人数すら判断できないがな。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "少しでも正義感のある奴なら、こうなる前に止めようとしたはずだ。"
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "ずいぶん含みのある言い方だね",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "いや、私は命令に従うただの兵士だ。善悪を語る資格などない。だが、忠誠心についてなら語ることができる。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "指揮官が賢明なら、兵が忠誠心を保つのはそこまで難しいことじゃない。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "その代わり、そいつが無能か、捉えどころのない人物であれば、忠誠を誓うのが難しくなる。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "忠誠心を見せびらかしたいのなら、狂気じみた、愚かで無茶苦茶な指揮官に従い、そのうえで自分の行動を理解している必要がある。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "あの中尉は、絶対的な忠誠からは程遠いようだな。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "これを見たとき、彼女はきっと吐き気をこらえたことだろう。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "フッ、これだから若者は。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "自分の目で見たい",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "101011",
+      "internal_title": "第十章10-08.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "愚者と女教皇"
+        },
+        {
+          "kind": "title_card",
+          "text": "元ゼノミリタリーのある駐屯地"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "中尉は捕虜を拘束した時よりも緊張した面持ちで、通信機を握っている。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "モルダー",
+          "text": "はい、はい。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "モルダー",
+          "text": "ヘリに故障が発生しました。やむを得ない事情がない限り、ヘリを使って移動することはできません。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "モルダー",
+          "text": "物資と食料は十分にあります。持久戦の準備をしておきました。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "トランシーバー",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "モルダー",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "答えにくいことを聞かれたのか、彼女はしばらく黙り込んでから、きっぱりと答えた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "モルダー",
+          "text": "…財団の武装勢力は、今のところ確認されていません。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "モルダー",
+          "text": "ジョージ５世海岸は向こうが選んだ上陸地点ではない可能性も…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "トランシーバー",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "モルダー",
+          "text": "ヴィクトリアランドですか？　それは、あの場所の近くでは…？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "彼女の質問は相手に遮られた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "モルダー",
+          "text": "――は、はい。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "モルダー",
+          "text": "戦闘準備を整え、いかなる不審な目標も見逃しはしません。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "モルダーは通信を切った。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "穏やかに流れる磁性流体と護衛兵は、縄で縛られたまま、駐屯地の隅っこに座らせれていた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ウルリッヒ",
+          "text": "「はい」で始まり、「はい」で終わりましたね。一番大切な情報を…ボクのことを伝え忘れていませんか？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "モルダー",
+          "text": "あなたたちの武装はすでに解除済みよ。ＧＰＳもなければ、予想されていたような増援も見当たらない。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "モルダー",
+          "text": "あなたたちの存在はただのアクシデント。父は余計な情報を必要としないわ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ウルリッヒ",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ウルリッヒ",
+          "text": "余計な情報…それはエニグマ暗号機の３つのローターで組み上げられる数億通りの可能性のように、暗号が解かれたら無意味になる、ということですね。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ウルリッヒ",
+          "text": "本当に、交渉する余地はまったく残されていないのですか？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "ラプラスの班長は手錠で拘束された両手をあげ、彼女に見せた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "カシャッと、弾を装填する音が響く。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "この野営地での発言権を誰が握っているのか、そのたった一つの行動で証明された。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "モルダー",
+          "text": "条件交渉は捕虜のすることじゃないわ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "ウルリッヒは黙り込んだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ウルリッヒ",
+          "text": "軍人の忠誠心は揺らがない…そういうことですね。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ウルリッヒ",
+          "text": "ならば、なぜマヌス・ヴェンデッタについたのです？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "モルダー",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "雲の影が山の頂点から流れ落ちてくる。この場所では、時間も化石とともに氷漬けにされてしまっているようだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "モルダー",
+          "text": "「あなたには関係のない話」よ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ウルリッヒ",
+          "text": "では、全員がその決断に同意しているのですか？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "モルダー",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ウルリッヒ",
+          "text": "わかりました。派閥抗争の結果というやつですね。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "磁性流体はわざと風刺を込めた口調で話す。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ウルリッヒ",
+          "text": "忠実な追随者たちは無知な者を排除し、最も信頼できる部下を残します。しかし同時に、兵力の犠牲も伴っているのでしょう。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "モルダー",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "モルダー",
+          "text": "「無知な者」。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "モルダーは通信機を取った。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "モルダー",
+          "text": "曲を聞きにきた、のよね？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "モルダー",
+          "text": "父はそのレコードを気に入ると思うわ――あなたは探検用の装備以外、それしか持ってきていないようだし。ここへ来た目的に関わるものなんでしょう。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "モルダー",
+          "text": "ラプラス計算科学研究センターでは最近新たな研究成果が出せたようね。その成果の裏では、どれだけの犠牲が払われたのかしら？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "モルダー",
+          "text": "その犠牲と引き換えに得られたのは、完璧な成功を収めた事例？　それとも予期せぬ失敗の推論？　知るのが楽しみだわ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "元ゼノミリタリーの中尉は通信機を指で軽く叩きながら、怒りを隠そうとわざと余裕そうな素振りを見せる。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "彼女は磁性流体が怒りをみせると予想していたが、磁性流体はただガラス容器の中で揺れているだけだった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ウルリッヒ",
+          "text": "そういうあなたたちには、自分の行動結果をすべて正確に推測できるのですか？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "モルダー",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "通信機を操作していた指が止まった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ウルリッヒ",
+          "text": "仮面を被り狂人のように叫びながら、自分の目玉をくり抜いてしまう未来はないと、断言できるのですか？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ウルリッヒ",
+          "text": "それとも、マヌス・ヴェンデッタに協力して次々に「ストーム」を引き起こすこと――敵対者たちを一人残らず「ストーム」に放り込んで押し流すことが、キミたちの本来の目的なんです？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "護衛兵",
+          "text": "今は中尉を怒らせちゃダメだって、旦那！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "モルダー",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ウルリッヒ",
+          "text": "あなたたちは自分の手で、過去の努力をすべて無駄にしようとしています。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ウルリッヒ",
+          "text": "軍の規律はよく知りませんが、研究員としてはあるまじき行為ですよ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ウルリッヒ",
+          "text": "もしボクの実験方法が間違っていたとしても、課題を完全に諦めるのではなく、変数と方法を変えて実験を続けます。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ウルリッヒ",
+          "text": "計算科学研究センターのとある新人から、こんな話を聞きました。「世界には間違った課題など存在しない、あるのは再現性が証明されていない規律だけ」だと。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ウルリッヒ",
+          "text": "研究員は、失敗から逃げたりしません。しばらく現実に打ちのめされても、すぐに立ち直ります。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "モルダー",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ウルリッヒ",
+          "text": "それとも、あなたにとって軍令に従うことは、責任や決断から逃げるための手段だったりするんですか？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ウルリッヒ",
+          "text": "今、この海岸に隠れているように。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "モルダー",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "護衛兵",
+          "text": "やばい、旦那…本当に彼女を怒らせたかも。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "中尉は全員の視線から逃れるように、無意識に海岸へと顔を向けた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "深呼吸を繰り返してはいるものの、彼女の思考はふわふわとして落ち着かないようだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "モルダー",
+          "text": "――ジョージ５世海岸は攻めるには難く、守るには易しい。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "モルダー",
+          "text": "戦艦がロス海から向かってきているという情報が入ったわ。交戦状況から見ても、戦争の中心地はあちらのようね…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "今すぐ増援として、ヴィクトリアランドに向かわないと。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "モルダー",
+          "text": "使えるのは、かろうじて飛べる輸送ヘリだけ。とはいえ、訓練された軍隊にとってはそう遠くない距離のはず…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "モルダー",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "しかし…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "父はそのような指示を出していない。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "子どもたちに、「戦場から離れた棚氷の縁で引き続き待機しろ」としか伝えなかった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "護衛兵",
+          "text": "はあ、任務が最悪の形で失敗しそうだ…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "護衛兵",
+          "text": "あ〜…最後にもう一個だけ、チョコ味のレーションを食べてもいい？　旦那もどう？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ウルリッヒ",
+          "text": "…けっこうです。ボクには「咀嚼」という動きができないので。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "モルダー",
+          "text": "――ウルリッヒ班長。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "中尉は頭から考えを振り払うと、強気な瞳でウルリッヒを見た。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "モルダー",
+          "text": "マヌス・ヴェンデッタの南極での計画について、どれくらい知ってる？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "唐突な質問に、班長は困惑した。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ウルリッヒ",
+          "text": "記憶違いでなければ、あなたとはなんの合意も形成されていないはずですが。その下手な誘導尋問は、ゼノミリタリーアカデミーで教わったのですか？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "中尉は捕虜から視線を外した。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "モルダー",
+          "text": "そうね、私は昔から話術が得意じゃない。でも、あなたがここに現れた理由を引き出しておかないと――テラノバ湾に投げ込む前にね。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ウルリッヒ",
+          "text": "…ま、待ってください。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "磁性流体は慌て揺らめいた。体の電路から電流の音が響く。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "どうやら状況が好転したわけではなさそうだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "モルダー",
+          "text": "ホワイトグローブ隊長、フレヒトマン隊長。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "中尉の声に合わせ、二人の隊長が彼女の横についた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "モルダー",
+          "text": "観測基地に連行を。そこでなら、尋問もやりやすいわ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "元ゼノミリタリーの中尉が二本の指で合図を出すと、磁性流体は二人の隊長に引きずられていった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ウルリッヒ",
+          "text": "――待ってください！　あなた方は自分の行動を理解していません！　こんなの、間違っています！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "二人の隊長は動じることなく、意識覚醒者を引っ張り目的地へ向かい歩き出した。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "中尉は先導するように歩いている。彼女のブーツに付いた金色のタッセルが揺れていた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ウルリッヒ",
+          "text": "はぁ…わかっていましたよ。ボクは演説が得意ではありませんし、アドリブならなおさらです。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ウルリッヒ",
+          "text": "交渉決裂ですよ、護衛兵！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "飛んできたナイフが手を縛っている紐を切り裂いた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "解放された護衛兵は、すぐに光学神秘術によって隠されていた拳銃を手に取った。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "護衛兵",
+          "text": "足元に気をつけて。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "粉雪が舞い、銃弾が霧の中から襲いかかる。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "モルダー",
+          "text": "…ちっ、厄介な護衛ね。"
+        }
+      ]
+    },
+    {
+      "script_id": "101012",
+      "internal_title": "第十章10-08.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "再び取り押さえられた捕虜たちが、雪の上に一つひとつ足跡を残している。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "その前方では、中尉が堂々とした足取りでまっすぐ前を向き歩いていた。"
+        },
+        {
+          "kind": "title_card",
+          "text": "南極の平原"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "護衛兵",
+          "text": "旦那、緊急事態だし、アレの使用許可を…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "その小声は前を歩く中尉にも聞こえていたようだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "モルダー",
+          "text": "…これから死ぬかもしれないっていうのに、まったく気にならないみたいね。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "護衛兵は胸元についたトランシーバーを指で弾いてみせる。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "護衛兵",
+          "text": "戦時特権として、このトランシーバーは軍事部の長官に直接繋がるんだ。任務の失敗を意味することにはなるけど、このボタンを押せば、即座に長官へ座標を送れる。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "護衛兵",
+          "text": "そうなれば…あなたたち反乱軍がどうなるのか、わかるよな？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "中尉は振り返りもしなかった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "モルダー",
+          "text": "…なら、早く押せばいいでしょう？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "モルダー",
+          "text": "覚悟ならとっくにできてるわ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "中尉は基地のドアを押した。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "ドアの内側から、かすかなうめき声が絶え間なく聞こえてくる。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "モルダー",
+          "text": "ホワイトグローブ隊長、フレヒトマン隊長。外で待っていてちょうだい。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "モルダー",
+          "text": "二人と、きちんと話しておきたいことがあるの。"
+        },
+        {
+          "kind": "title_card",
+          "text": "臨時駐屯地の救護ステーション"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "古いスイッチが入る音とともに、薄暗い明かりが次々と灯ってゆく。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "護衛兵",
+          "text": "……？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "暗闇が照らされ、うめき声の正体も次第に姿を現していった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ウルリッヒ",
+          "text": "――これは…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "観測基地は野戦病院に改造されていた。ベッドの一つひとつに、弱った患者が横たわっている。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "モルダー",
+          "text": "――マヌス・ヴェンデッタが犯した罪の証よ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "中尉の顔は半分だけ、白熱灯に照らされていた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "モルダー",
+          "text": "南極観測基地を何箇所も襲ったの。殺された人のほかに、よくわからない理由で連れ去られた人もいるわ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "モルダー",
+          "text": "残りの、かろうじて生き残った人たちは…私たちが助けて、ここで休ませているの。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ウルリッヒ",
+          "text": "…すべて人間ですか？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "磁性流体の揺らめきから、怒りがハッキリと伝わってきた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "モルダー",
+          "text": "ほとんどね。一部、私たちの同志も含まれているわ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "中尉はベッドに近寄ると、そっと患者の手を暖かい布団の中に戻した。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "モルダー",
+          "text": "南極に到着してから、一部の隊員がマヌス・ヴェンデッタのアジト付近で何らかの影響を受けたようで――暴風雪のなかを長時間彷徨い…私たちが見つけた時には、すでに精神が崩壊していたわ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "モルダー",
+          "text": "父は「私たちを守る」と約束してくれた…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "モルダー",
+          "text": "なのに、アンドレイ小隊は全員おかしくなってしまった。私たちから離れ、狂った仮面の追随者になってしまったわ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "護衛兵",
+          "text": "…戦友を失う気持ちは、痛いほどわかるよ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "その口ぶりから他にも事情が隠されているように感じたが、護衛兵は切り込まなかった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "中尉は患者の状況を一通り確認してから、机の横で足を止めた。暖かいテーブルランプが、金色の明かりで彼女を包み込んだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "モルダー",
+          "text": "素直に話しましょう。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "モルダー",
+          "text": "現状は私たち双方にとって不利よ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ウルリッヒ",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "モルダー",
+          "text": "この状況を打開するためには、互いにとって実りある情報交換に踏み出すべきだわ。"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

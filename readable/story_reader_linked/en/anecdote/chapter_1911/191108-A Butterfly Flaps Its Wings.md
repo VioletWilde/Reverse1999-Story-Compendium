@@ -1,6 +1,6 @@
 # A Butterfly Flaps Its Wings
 
-- Chapter: Finding Xavier (`1911`)
+- Chapter: Eagle (`1911`)
 - Episode: `191108`
 
 > Subtitle: Donning new attire, shedding that thick cocoon—the day my shadow finally eclipses his.

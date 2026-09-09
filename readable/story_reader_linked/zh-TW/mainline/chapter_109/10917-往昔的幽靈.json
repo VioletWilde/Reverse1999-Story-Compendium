@@ -1,0 +1,776 @@
+{
+  "episode_id": 10917,
+  "chapter_id": 109,
+  "chapter_title": "瘋癲與文明",
+  "display_label": "",
+  "title": "往昔的幽靈",
+  "subtitle": "大地上，那些不曾擁有大理石與祭奠的幽靈們呼喚著她的名字。",
+  "trails": [
+    {
+      "element_id": 1091701,
+      "owner_episode_id": 10917,
+      "trigger_episode_id": null,
+      "title": "文學兵役",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=10917",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "咳咳……喘口氣，配給品的香煙已經抽完了，故事馬上迎來結局，這場“戰役”也要結束了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "一位作家終於離開了自己的疆域，只留下一地的創作物，就像那些戰壕裡留下的繃帶和半顆腦袋。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "讀下來很夠嗆。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "我讀不懂哪怕一點",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "我們達成了共識。我也慶幸自己的司令從來不是文學家，否則在我解讀完一首詩的指令前，就要被炸得稀巴爛了。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "那太好了，建議你兼任“文學加密通話組”的組長，並為你配給一本字典，用以對抗11.43毫米馬克沁機槍。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "相信在子彈穿過你的眉心之前，你朗誦的詩歌就能讓敵人腦袋開花。"
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "你似乎變幽默了",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "多虧這位貫徹詩人式流浪生活的作家，從智利到布宜諾斯艾利斯，她用她寶貴的、罕有的，洗碗工與露營地看守員的兼職經驗折服了我。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "她對文學的嚴肅性讓我的幽默感死而復生。你如果在戰友墓碑前聽過冷笑話，或許就能明白我說的。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "總而言之，她從自己為數不多的流浪與革命經歷中掏自肺腑，試圖將“文學”作以社會變革的偉大手段，一位意見領袖，一位精英知識份子。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "有人會說，她是拉丁美洲的角鬥士，而每個文字都是一顆子彈，一篇詩歌就是一架戰術轟炸機。"
+                }
+              ]
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "我不相信那些關於文學的話",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "很多人與你想法一樣，我也不例外。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "你從不將信將疑，還對一切充滿信任。這也許是好事。將軍總得相信自己的士兵，不然早該投降了。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "來吧，還是讓我跟你彙報個機密……"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "很多人、不計其數的人，以為拉下閘刀的是劊子手，擊發子彈的是火藥。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "可他們只說對了一半。戰壕上的坑洞，只是一場場思想與意識撞擊後的殘骸。早在火藥燃燒之前，思想就鑽進了槍膛。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "而至於文學……"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "確實沒必要相信那場始自於拉美的大爆炸，之前的報告你聽過就算了。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "但至少……聽我說，至少你可以篤信一點。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "書翻太快也會割到手。"
+                }
+              ]
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "我相信那些話是事實",
+              "edge_label": "",
+              "branch": []
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "我想我讀懂了",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100925",
+      "internal_title": "第九章9-17",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "往昔的幽靈"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "無人知曉的夜晚，風帶來了屬於沙漠的冰冷與荒涼。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "在那座藍色屋頂的茅屋裡，一個女孩夢見了一座環形的監獄。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "然後，她醒了過來。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "……真是一場混亂又荒唐的夢。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "那現實的味道，嘗起來如此的沉重和悲傷……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "但是它又充滿了精確的辯證，哈哈——那是我內心的投影嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她環視四周，打量著結了蜘蛛網的角落、堆上天花板的稿紙和落滿灰塵的墨水瓶。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "看來我真的是小說中的人物！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "噢！這棟最為神秘的藍色屋頂茅屋，原來是我的住所。那些幽靈們所說的可怖傳聞，果然只是以訛傳訛。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "歸來的青年作家走出了自己的家，來到了熟悉又陌生的沙漠小鎮街道。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "無數沒有名字的角色與幽靈都聞訊趕來，擠滿了道路與上空。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "銀行職員",
+          "text": "我親愛的作家朋友，你終於回到阿馬爾菲塔諾了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "謝謝你的歡迎，親愛的資本主義象徵。但我記得我明明摧毀了這本小說……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一名風塵僕僕、戴著帽子的女士走上前。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "能量擾動學家",
+          "text": "因為阿馬爾菲塔諾，是生與死的邊界，是超脫一切存在的存在。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "能量擾動學家",
+          "text": "因為這裡，是你內心的投影，它並不真實，自然也無從消亡。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "能量擾動學家",
+          "text": "因為文字是一條能跨越生與死的河流，它不受到時間所管轄。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "您不愧是我最喜愛的角色，總是能讓我領悟到生活另一面的答案。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "門檻旁的乞丐",
+          "text": "但很可惜，文學它只是無用的舉動。沒有人能看懂，也沒有人會記得你的文字！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "門檻旁的乞丐",
+          "text": "還記得那句俗語嗎？當我們從所有人的記憶中消失時，就是我們真正的死亡。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "門檻旁的乞丐",
+          "text": "哈哈，虛構集，你只能留在這個生與死的邊界！一旦離開了阿馬爾菲塔諾，你還是會迎來消亡的命運！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "乞丐先生，作為一個徹底的批判型角色，我一直非常欣賞您的批判性思維。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一雙粗糙的手握住了青年作家的手，來者摸索著她掌心的紋路。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "盲眼的織工",
+          "text": "沒關係的，虛構集。沒關係的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "盲眼的織工",
+          "text": "無論之前發生了什麼事情，你回到了這裡，這是最重要的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "盲眼的織工",
+          "text": "巴比倫之骰得以恢復正常，得以再次轉動，我們所有人都會迎來屬於自己的結局。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "在場的人都歡呼起來。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "趕驢人的幽靈",
+          "text": "快偵破那起發生在酒館的謀殺案，讓我的靈魂得以安息在這片大地！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "沙漠捕魚人",
+          "text": "快摧毀一直困囿著這座村莊的瘋狂，讓它不再受到古遠幽靈的侵擾！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "能量擾動學家",
+          "text": "快修正巴比倫之骰的隨機性，讓風中飄蕩的頻率不再為所有人帶來噩運！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "所有人",
+          "text": "快擲下最後一次骰子吧，虛構集！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "青年作家往前走了一步，所有人與幽靈都飽含期待地望著她。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "原來我一直在追求的，是那個“我”所未能給我的結局嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "那個不顧一切、投身於抗爭的“我”，那個忙於做怪人和獻祭者的“我”，那個終究離開了這片大陸的“我”……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "我終於找到了……我的結局……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她握住了那顆閃閃發亮的巴比倫之骰。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "而現在，只需最後一下骰子的轉動，一切都會結束……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "我的故事，小鎮中的一切，都會迎來真正的、我一直在追求的結尾……終於……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "但那場環形監獄的夢境，也會同時結束，對嗎……？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她停下了動作。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "銀行職員",
+          "text": "親愛的，那只是一場夢而已。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "門檻旁的乞丐",
+          "text": "你要為了一場虛無的夢，拋棄你窮盡一生的追求嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "趕驢人的幽靈",
+          "text": "在那場殘酷的夢中，沒有人能夠理解這部偉大的小說，理解發生在小鎮中的一切。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "盲眼的織工",
+          "text": "但在這裡，你是一位真正的作家。這裡才是你的故鄉，虛構集。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "但我想念我的朋友們了……那場夢境同這裡一樣，也仍然沒有結束。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "沙漠捕魚人",
+          "text": "虛構集，我們也是你的朋友！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "能量擾動學家",
+          "text": "……哪怕離開了阿馬爾菲塔諾，你有可能永遠地消散，你也要這麼做嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "青年作家放下了手中的骰子。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "那顆代表著一切終點的骰子，再次消失在了夾著沙的風中。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "朋友們，你們都知道的，我這一生，都在進行著一些愚蠢而不求回報的冒險……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "畢竟這就是我，不是嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "阿馬爾菲塔諾確實是一個理想的地方。一個適合流浪，也適合短暫停留，更適合迷失的地方。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "我親愛的虛構朋友們，我永遠喜愛你們……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "但我仍然需要回去我的夢境中看看，那些監獄中的朋友們，他們也同樣重要……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "聞言，小鎮的幽靈們都露出了釋懷的笑容。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "能量擾動學家",
+          "text": "是啊，你說得沒錯，虛構集……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "能量擾動學家",
+          "text": "我們一直都知道的，你就是這樣的人，這樣高尚而充滿熱烈情感的人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "門檻旁的乞丐",
+          "text": "哼，我們是你最好的朋友，沒有道理阻止你決定做的一切。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "所有人都為女孩讓出了道路。在她的面前，一條通往無邊虛空的路出現了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "盲眼的織工",
+          "text": "我們都祝福你，由衷地為你祈禱，虛構集。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "盲眼的織工",
+          "text": "晚安，親愛的——祝願這一次，你能夠獲得一個美好的夢境。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "謝謝你們，我的朋友們。我會永遠想你們的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "女孩擦乾眼角的淚痕，她義無反顧地邁入了黑暗之中。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "四周寂靜得像荒蕪之地的夜晚，只有輕盈的腳步聲在這廣袤又深邃的黑暗之中微弱迴響。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "編輯",
+          "text": "虛構集小姐，我已拜讀過你的作品了。坦白講，它還沒有達到足夠的深度或廣度。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "編輯",
+          "text": "它離現實社會的複雜性還有距離，應有的銳利視角也有所缺失。希望你繼續打磨，尋找讓它與現實產生更強共鳴的方法。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "編輯",
+          "text": "放開手做吧，年輕的作家。你正處在這樣一個好年紀，一個對社會無知、好奇而四處闖蕩的年紀！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "女孩第一次從虛無中感受到了自己的存在，她重拾回自己的言語。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "我……發生了什麼？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一千個，甚至無數張面孔的集合再一次浮現於眼前。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "哈，原來如此！《理性家族的崛起與衰落》就是“我”的故事……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "也許正是那些看過這篇小說的人，使得這個故事延續，而我也因此存在……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "編輯先生，很感謝你的意見！即使在廣袤又深邃的黑暗中，你也不忘傳達你那熱情的拒絕之辭！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "哪怕你其實並沒有理解我的小說，也永遠不會看懂。但謝謝你成為了我的讀者。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她在文字的迷宮與無限延展的水面中摸索著，黑暗如夜晚的海浪般向她湧來，使她的身影變得沉重。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "同行青年Ⅰ",
+          "text": "說實話，我覺得聽你講故事很有意思！但我實在搞不懂這些沒名字的角色之間的聯繫……它就不能像電影那樣清晰明瞭嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "同行青年Ⅱ",
+          "text": "哼，作家都是這副德性，喜歡賣弄技巧、故弄玄虛。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "嘿，瑪利亞，潘喬，你們是我遇到過最好的公路旅行同伴！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "即使未來的道路不同，但我們曾共同踏過草原、雪地與沙漠。我們留下了一條愉快的軌跡。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "同行青年Ⅰ",
+          "text": "我們也很喜歡你！你是個很有趣的傢伙。另外，辛勤勞動後的愜意陽光也是很棒的人生體驗，我們在葡萄莊園等你過來！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "熱情的青年們朝她揮揮手，頭也不回地向前走去。女孩的腳步不再虛無，每走一步，它們都變得更沉重和真實。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她在無限的鏡子與面具中逡巡，無限的宇宙讓她陷入迷茫與虛妄。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "理想家",
+          "text": "我在她的文學中感受到了嘗試的姿態——它熱情又破碎，混亂又詩意。但歸根結底，作品整體只是一類絢爛的幻影，徒有其表，缺少了穿透靈魂的精準性。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "理想家",
+          "text": "在她停止神話自己的青春之前，我是不會給出更多評價的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "獄醫",
+          "text": "坦白說，她的詞句是刻意的、扭曲的。每一個詞語都是一團含糊的感性泡沫。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "原來如此……阿萊夫，這些都是你的真心話嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿萊夫",
+          "text": "在每一個讀者的眼中，故事重生，人物變形，哈姆雷特不再是單一的存在，而是一千個、甚至無數張面孔的集合。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿萊夫",
+          "text": "奧秘終歸是不可被人的語言完全洞徹的。但我認為，《理性家族的崛起與衰落》是一個好故事。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "那顆屬於作家的心臟，真切地跳動起來。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "在藏有無盡人類歷史與奧秘的“天堂”中，她終於找到了那一面映照出真實的鏡子。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "噢，原來天堂還真長得跟圖書館差不多！還是說它只是我內心欲望的一種投影呢？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "我喜歡這裡，喜歡那種被文字包圍的感覺。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "但……我該回去了，回到現實中去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "門檻旁的乞丐先生，你說得對，文學的確是無用的舉動，但我相信它。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "來自基金會的女孩們鬆了口氣。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "女孩的出現就像她的消失一般過於突然，第一助手還沒有時間擦乾淨眼角的淚珠。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "虛構集……？你回來了？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "很高興看到你平安無事。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "嘿嘿！十四行詩，維爾汀！我很高興，原來我們有這麼熟！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "煥發新生的青年作家，將目光落在陷入頹喪的囚徒身上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "看到了嗎？事情並非如你所想的那樣，阿萊夫。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿萊夫",
+          "text": "阿馬爾菲塔諾消失了，一切都結束了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿萊夫",
+          "text": "虛構集，你與那些無家可歸的幽靈一樣，再也無法回到故鄉。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿萊夫",
+          "text": "即使你仍舊存在，你也再不能得到阿馬爾菲塔諾的結局了……你否定了它，讓這一切都失去了意義。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿萊夫",
+          "text": "很抱歉，我沒能解答你的問題。我又失敗了……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "屬於魔法師的骰子跌落在地上。它曾用來搭建了一個美妙的幻夢，但如今它已經消散了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿萊夫",
+          "text": "從阿馬爾菲塔諾到科馬拉，一切都是一個巨大的整體。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿萊夫",
+          "text": "當阿馬爾菲塔諾消逝後，科馬拉的一切也不需要存在……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "我很遺憾，阿萊夫先生。你知曉世間所有的奧秘，尋找一切問題的回答——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "但在這過程中，你唯獨遺忘了你自己。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "你能回答所有人的問題，但唯獨回答不了自己的問題。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "那個面具下的人，究竟是誰？他還存在嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿萊夫",
+          "text": "我……是誰？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "如此沉重的故事句號，讓被困於模糊幻境的囚徒感到疲憊不堪。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "科馬拉監獄發出沉重的聲響，如同年邁的水車不堪重負，開始變形、消失、徹底地瓦解在精神的水流之中。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "大家小心。這似乎是與獄醫和理想家精神崩潰時一樣的情況。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "但這次的動靜，比先前要大許多……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "我想……是阿萊夫主動讓科馬拉監獄的一切瓦解了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "倒塌的牆壁後，一個顫抖的人影隱約可見。他緊緊握著槍，漆黑的槍口隨著雙手晃動，朝向房間中的人群。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "……等等，你們都不要動！就站在原地！"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

@@ -1,0 +1,488 @@
+{
+  "episode_id": 10207,
+  "chapter_id": 102,
+  "chapter_title": "밤은 부드러워라",
+  "display_label": "",
+  "title": "희소식",
+  "subtitle": "이것은 용자에게 부여된 기회이며, \n엄청난 모험이자 전례 없는 도박이다.",
+  "trails": [
+    {
+      "element_id": 1020701,
+      "owner_episode_id": 10207,
+      "trigger_episode_id": null,
+      "title": "오솔길① 캐번디시에게",
+      "description": "이별",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=10207",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "정말 흥미진진한 장면이란 말이지. 캐번디시 씨가 꽤나 놀라겠어."
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "나도 놀랐는데",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "너도 봤어? 어두운 밤중에 벗겨진 여자의 얼굴과, 돌아서서 미친 듯이 기뻐하는 캐번디시가의 도련님을?"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "그 도련님은 민감하고 재능이 뛰어났었어. 정말 끝내주는 포션 제조 천재였지! 하지만 지금은... 그냥 뒷방 늙은이지 뭐. 이젠 아무것도 몰라."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "캐번디시 씨가 누구야?",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "아, 그냥 이름만 남은 가문이야. 역사의 뒤안길로 사라졌지. 네가 봤던, 팔팔한 캐번디시 도련님도 이젠 한물갔어."
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "'포겟미낫', 정말 유머 감각이 넘치는 바보 같은 이름이야. 창백한 얼굴의 도련님은 죽었어. 음흉한 겉모습은 나날이 성숙해졌고, 굶주림과 자살을 수도 없이 거쳐오며 결국 타락밖에 남지 않게 되었지."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "그녀는 포겟미낫에게 약속했고, 몇 마디 당부한 뒤 북쪽의 안개 속으로 사라졌어. 시카고는 그녀가 내팽개친 불필요한 혹이야."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "목에 총이 겨눠졌을 때가 되어서야 자기 머릿속에 뭐가 있는지 똑똑히 볼 수 있어. 그래서 녀석은 자신에게 복수, 복수, 복수! 그리고 죽음의 자유를 부여하지."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "이제 혹은 녀석의 차지야. 녀석은 그 위에 거대한 무대를 세우겠다고 맹세했어. 자신의 비열함, 광기, 떨림을 태양 아래에 두길 기다리지."
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100212",
+      "internal_title": "第二章2-7",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "희소식"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "드루비스",
+          "text": "이곳 경치가 참 좋네요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "포겟미낫",
+          "text": "네, 마침 당신의 숲이 다 내려다보이네요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "드루비스",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "드루비스",
+          "text": "제 결정에 대해 물어보러 오신 건가요?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "포겟미낫",
+          "text": "저희가 현지 정부와 접촉했는데, 당신의 숲에 관심이 많아 보이더군요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "포겟미낫",
+          "text": "지금은 '폭풍우'로 인해 환자가 급증하면서 의료 자원이 턱없이 부족한 상황이고요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "포겟미낫",
+          "text": "그들에게는 난민과 환자를 수용할 장소가 없습니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "포겟미낫",
+          "text": "당신의 숲은... 수용 공간이나 치료 술식 장소로 더할 나위 없이 적합한 곳입니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "포겟미낫",
+          "text": "그래서 말인데, 결정하셨습니까? 드루비스 씨..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "포겟미낫",
+          "text": "재건의 문은 당신에게 언제나 활짝 열려 있습니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "드루비스",
+          "text": "만약 제가 재건에 들어가면 절 위해 정부를 거절할 건가요?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "포겟미낫",
+          "text": "저희에겐 더 좋은 생각이 있습니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "포겟미낫",
+          "text": "그들은 숲속에 마도술 치료를 전문으로 하는 도시 유일의 대형 집중 치료센터를\n지을 예정입니다. 이는 곧..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "포겟미낫",
+          "text": "음식."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "포겟미낫",
+          "text": "자원."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "포겟미낫",
+          "text": "돈."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "포겟미낫",
+          "text": "그리고 우리 재건의 손이 일어서는 데 필요한 모든 것들을 의미하지요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "포겟미낫",
+          "text": "그들과는 이미 '협력'하기로 합의했습니다. 마도학 분야에서 저희보다 큰 도움을\n줄 수 있는 곳은 없을 테니까요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "드루비스",
+          "text": "그럼 난민들은요?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "포겟미낫",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "포겟미낫",
+          "text": "'폭풍우'에 의해 선별되지 못한 자들이 난민으로 전락하는 법이죠."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "포겟미낫",
+          "text": "당신은 난민이 되지 않을 겁니다. 제가 보증하죠."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "포겟미낫",
+          "text": "'난민 구제'의 날에 숲의 주인인 당신이 함께하며 필요한 지원을 해주시면 좋겠습니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "드루비스",
+          "text": "전 이미 그 숲의 주인이 아닌데요..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "포겟미낫",
+          "text": "언제든지 당신이 필요하다면 숲의 소유권을 양도해드릴 수 있습니다. 더군다나 숲이\n인정하는 유일한 주인은 언제나 당신뿐이니까요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "드루비스",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "포겟미낫",
+          "text": "어떤 기분인지 압니다. 당신이 가졌던 것들은... 제가 원래 가졌어야 하는\n것들이니까요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "포겟미낫",
+          "text": "대신 제가 숲을 잘 관리하겠습니다. '난민 구제' 계획이 진행되는 마지막 순간까지\n말이죠."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "드루비스",
+          "text": "감사합니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "드루비스",
+          "text": "포겟미낫이 자리를 뜬 지 한참이 지났다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "드루비스",
+          "text": "하지만 드루비스는 아직도 창밖에서 시선을 떼지 못하고 있다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "드루비스",
+          "text": "저 나무들은... 원래대로라면 싹을 틔워야 하는 걸까?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "드루비스",
+          "text": "미래를 향한다라..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "5시간 전"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "덩굴은 끝이 보이지 않았다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "점액은 끊임없이 흘러나왔다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "적이 근처에 있다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "퇴로는 막혀버렸다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "슈나이더",
+          "text": "젠장, 총알이 부족해... 마스터, 날 엄호해줘!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "아직 상처도 아물지 않았잖아. 더 이상 다치면 안 돼, 얼른 내 뒤로 와!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "이 새장은... 우릴 잡아두려는 거야! 두 시 방향에 마지막 출구가 보여! 나갈 수 있는\n마지막 기회야!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "슈나이더",
+          "text": "안돼, 마스터... 이미 늦었어..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "으윽...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "아파...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "가시덤불의 점액에 닿으면 몸이 굳어버려, 조심해...!!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "슈나이더",
+          "text": "모든 퇴로가 차단당했어. 이제 새장 안에 갇혀버렸네."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "...아니야. 이대로 갇힐 수는 없어, 내가 다시 해볼게!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "드루비스",
+          "text": "포기해요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "반짝이는 불꽃...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "윽!!... 튕겨 나오다니..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "어째서지? 가시덤불로 만든 새장이 이렇게 질기다고...?!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "드루비스",
+          "text": "끝났어요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "사라져라...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "윽..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "젠장! 대체 왜!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "슈나이더",
+          "text": "마스터... 당신도 순혈이 아니구나..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "... 나도 잘 모르겠어."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "슈나이더",
+          "text": "하하... 나랑 똑같네... 마도술도 제대로 쓰지 못하는 미천한 존재지."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "슈나이더",
+          "text": "아직도 모르겠어? 우리랑 순수 혈통의 마도학자들은 완전 하늘과 땅 차이라고..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "슈나이더",
+          "text": "우린 드루비스를 이길 수 없어. 이런 건 당신이 흰옷의 아줌마를 밀쳐냈을 때 미리\n깨달았어야지...."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "슈나이더",
+          "text": "우리가 아무리 발버둥 쳐도 결국엔 꼼짝없이 아르카나한테 보내질 거야."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "... 분명 방법은 있어, 단지 시간이 좀 필요할 뿐이야."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "슈나이더",
+          "text": "마스터, 당신은 내가 만났던 사람들보다 훨씬 용감해. 하지만... 그거론 부족해."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "슈나이더",
+          "text": "많이 부족해..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "슈나이더",
+          "text": "때가 되면 나를 죽여줘."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "뭐?!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "슈나이더",
+          "text": "왼쪽 가슴을 겨냥해."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "슈나이더",
+          "text": "재건은 우릴 놔주지 않을 거야. 죽고 죽이는 것은 녀석들이 가장 좋아하는\n오락거리니까."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "슈나이더",
+          "text": "당신은 나보다 훨씬 가치 있어... 마스터. 당신의 가치를 소중히 여기도록 해."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "...무슨 말을 하는 거야..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "슈나이더",
+          "text": "잘 들어, 때가 되면 내 가슴 왼쪽의 심장 쪽에 총을 쏴, 망설이지 말고."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "너무 무모한 계획이야. 게다가..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "슈나이더",
+          "text": "살아남고 싶다면... 다른 방법은 없어. 날 믿어, 마스터. 난 그 누구보다도 생명을\n소중하게 여긴다고... 콜록..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "하지만 방금 말한 건... 드루비스 씨가..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "전부 들어버렸어."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "드루비스",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "슈나이더",
+          "text": "하하... 마스터의 말대로야."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "슈나이더",
+          "text": "우리 운명은 녀석의 선택에 달렸어."
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

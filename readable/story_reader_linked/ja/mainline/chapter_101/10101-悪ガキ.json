@@ -1,0 +1,794 @@
+{
+  "episode_id": 10101,
+  "chapter_id": 101,
+  "chapter_title": "われらの時代",
+  "display_label": "",
+  "title": "悪ガキ",
+  "subtitle": "彼らには罰が必要だ。もちろん道徳と法律の範囲内で。",
+  "trails": [
+    {
+      "element_id": 1010101,
+      "owner_episode_id": 10101,
+      "trigger_episode_id": null,
+      "title": "サヤ取りとぺったんこのガム",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=10101",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "悪ガキたちは眠りについた。おまえさんは彼らの靴底にへばりつく、潰れたヒルのようなチューインガムに気づいた。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "チューインガムは何色だった？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "長時間噛まれてたため、樹液本来の淡い琥珀色になっている。一部しわがついた箇所は青っぽい。ミント味の可能性が高いな。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "巷で一番人気なミント味のガムといえば、リグレー球場にあるバブルガムマシーンのやつだ。狂ったように盛り上がった試合の後、思いっきりケツを蹴られた恥を忘れるため、スカッと爽やかな気分転換をしたい奴らがいるからな。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "でもよぉ。まだ気が付かないのか？　そのぺったんこになったガムベースには素敵な粒がついてるぞ。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "グレーの砂粒、ワックスコーティングされた弾性線維だ。サウスバンクで、そんな政治的象徴に満ちたグラウンドはたった一つしかない。聖パブロフ財団さ。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "チューインガムはどうなった？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "惨めな結末を迎えた。同情に値する境遇だな。そいつは己の使命を成し遂げた。だが、そんなことだぁれも気にしちゃいないのさ。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "しいて言えば、今一番人気があるミント味のガムだ。シカゴ人は泥酔する権利を失っちまって、こういう女々しいブルジョワの嗜みに走るしかねぇんだ。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "一番売れてるチューインガムはリグレー球場にあるバブルガムマシーンだ。ガキたちの靴底にへばりついてるのもそこで売ってるやつさ。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "ぺったんこになったガムベースには素敵な粒がついてるぞ。グレーの砂粒、ワックスコーティングされた弾性線維だ。サウスバンクで、そんな政治的象徴に満ちたグラウンドはたった一つしかない。聖パブロフ財団さ。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "チューインガムなんて、どうでもいい",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "だよなぁ？　同じ考えで嬉しいよ。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "捨てられた樹液について語ったところで、誰も興奮しない。じゃあ次のステージに行こうじゃないか。そのガムにひっついてる砂粒に気づいてるか？"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "グレーの砂粒、ワックスコーティングされた弾性線維だ。サウスバンクで、そんな政治的象徴に満ちたグラウンドはたった一つしかない。聖パブロフ財団さ。"
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "過去の毎日と同じで、広場の前は賑わってる。人間至上主義を掲げてる投機的な輩は、抗議デモを行って財団の注意を惹こうとしてる。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "そいつらは財団と共同戦線の立場だが、残念なことに財団はそいつらの望みを叶えるつもりはないようだ。適当にあしらうために娘っ子を送り込む始末さ。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "娘？　気になる話だね",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "あぁ、そうさその通りさ。この話に興味がない奴なんていない。彼女たちは蜜の色がかかっていて、カルフォルニアのまぶしい朝日のようだ。おれたちなんかにゃ到底追いつけない、雌ジカについた輝かしいヘイローみたいな存在さ。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "道徳観を強調するような偽善者にとって、少女という生き物は喉から手が出るほど欲しい肥えた肉だ。幸いなことに、その娘はそういうタイプじゃない。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "彼女は緊張してたが、慌てたりはしなかった。どうやら計算高い「政治家」たちの対処には、慣れてないようだったな。財団のミッションカプセルを熱くなるまで握りしめてた。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "そして広場の反対側には、黒いスーツを身にまとった娘が憂うつそうにこちらを覗いてる。彼女がいる場所は財団から吹く風がちょうど当たる。あの娘にお似合いだな。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "端っこの隅もいいとこな場所。２０世紀に属する移民第二世にピッタリだ。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "財団の少女について教えて",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "その娘はおまえさんがよく知ってるイイ子さ。オレンジ色の髪で、考えごとにふける時は、マジシャンが器用にジャグリングするように手元のペンをクルクルと回すんだ。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "彼女は自分を囲んできた輩に困惑してた。でも瞳の輝きは失われてなかった。まるで何かイイことが起きるのを、期待してるかのようだった。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "カプセルに入ったミッションをこれから実行するからか？　それとも今から会いに行く何者かを思い出したから？"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "彼女は頬をかすかに赤らめた。握りしめてた手もゆるんだようだ。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "黒いスーツを着た少女は誰？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "彼女はおまえさんがこれから出会う、とある人物さ。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "今の彼女は全身が震えあがっていて、豪雨の中で軒先やがれきの加護を求めるキンヒバリのようだ。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "彼女のか弱い体とは違い、瞳は罵り言葉に満ちている。直近で誰かから侮辱を受けたのか、拒絶されたばかりなのかもしれない。とにかく彼女は死を決意した戦士の様相で、広場の中心へ移動してる。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "彼女は気が進まない別の仕事をしなければならなかったのさ。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "そうこうしてたら、あの財団の臨時代表が人だかりの中で握っていたミッションカプセルを落とした。"
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "――これはチャンスだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "アフリカ大陸から来た暖かい風はトラーパニに吹いていった。そして、シチリア島全体が乾燥して暖かくなり、陽気に満ちた。周囲はジメジメとしていて、サンゴと野生のみかんの香りがする。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "それはこんな冬に起きるようなことではない。だがその光景はずっとスーツ娘の脳裏に焼きつき、さまよい、舞い踊った。生き続けろ、と彼女に囁いた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "彼女は絶望を味わったことがある。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "立て続けに起こる失敗の数々。だが彼女の旺盛な命はここで立ち止まったりしない。少なくともそれは今じゃない。"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100010",
+      "internal_title": "第一章1-1.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "われらの時代"
+        },
+        {
+          "kind": "title_card",
+          "text": "悪ガキ"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "「ガキ大将」トミー",
+          "text": "――す、スーツケースから人が！？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "「おかっぱ頭」ジミー",
+          "text": "うわあああ、気持ちわりぃ！　きっと黒魔術だ…逃げろ！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "それ、わたしのもの。返してくれない？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "「ガキ大将」トミー",
+          "text": "嫌だね！　触んな！　…このスーツケースは、お巡りさんに渡すんだ！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "「おかっぱ頭」ジミー",
+          "text": "ふへへへ、バーカバーカ！　腑抜けた蛇野郎――！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "…海賊のわたくしですら少々驚きました。子どもが窃盗など、するもんじゃありませんぞ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "「おかっぱ頭」ジミー",
+          "text": "うわあ！　りんごがしゃべった！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "「おかっぱ頭」ジミー",
+          "text": "…気持ちわりぃ！　石投げて、やっつけようぜ！！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "うっ…！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "随分と冷たい時代に来てしまったようですな。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "このままだと、あの中にいるレグルスが粉々になるのも時間の問題かな。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "ミスター・APPLe、頼んだよ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "承知しました。このAPPLeめが直々に、躾けし直してあげましょう…もちろん、『児童権利宣言』の範囲内で。"
+        }
+      ]
+    },
+    {
+      "script_id": "100009",
+      "internal_title": "第一章1-1.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "今度は樹洞に隠した。きっとそう容易には人目に触れないはず。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "40年前の神秘学家は、ずいぶん境遇が悪かったようですな。人間と言葉を交わす機会すらないほどに。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "きみたちのサブカルチャー運動によって、確かに一部の神秘学家たちの社会的地位は\n変化した。だが、20年代は…まだ不公平な出来事が多発していた時代だ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "…ミスター・APPLe、スーツケースが完全に見えなくなるまで、あとどれくらいかかる？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "あと三十分ほどですな。このAPPLeめ、ただいま光の角度がぴったりとハマる位置を探しております。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "先にお戻りください。船長がお楽しみを探し始めないか、このAPPLeめは非常に心配です…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "ウォッホン！　要するに、暇つぶしに何かしでかさないか、懸念しておるのですよ。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "わかった",
+          "edge_label": "알겠어",
+          "branch": []
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "レグルス？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "空虚な部屋に、声だけが鳴り響いた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "そこにレグルスの姿はない。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "電気すらついていない…他の部屋にでも、行ったのだろうか。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "窓の外にある湖から、歌声が聞こえてきた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "レグルス",
+          "text": "ハハハ…♪"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "レグルス――！　どうしてあんなところに！？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "窓の外の風景は、常に移り変わる。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "だがあの湖と半分欠けた糸車だけは、いつも変わらずそこにたたずんでいる。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "レグルス",
+          "text": "むぅ、レコード…あたしのレコード返して…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "なんだか様子がおかしい。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "早く彼女を連れ戻さないと。"
+        }
+      ]
+    },
+    {
+      "script_id": "100014",
+      "internal_title": "第一章1-1.3（新手引导湖泊场景）",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "ここには一度も足を踏み入れたことがない。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "レグルス！　レグルス――！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "見つからない…霧もだんだん濃く…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "よく見てみると、湖の中央に佇む欠けた糸車に奇妙な糸が絡まっている。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "…この糸、立体感がない？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "水位が上がった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "どんどん、どんどん水が溢れだす。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "あたり一面がストームの水で覆われた。それは水の姿をしているにも関わらず、あるべきはずの重さも潤いも、一切伝ってこない。ただゆっくりとその場を流れている。まるで…時間のように。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "時間…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "この光景、どこかで…確か…わたし――"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "手に握る糸…いや、この糸の感触を感じ取ることができない糸状の何かが、わたしの目の前で道を作った。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "そして、何者かがその道に導かれてやってくる。"
+        }
+      ]
+    },
+    {
+      "script_id": "100013",
+      "internal_title": "第一章1-1.4（新手引导湖泊场景）",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "…え？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "――タイムキーパー！？　やった！　コホン、ちょうど探していたんです。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "ここはどこですか？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "もしかして神秘術Ｎｏ．０００２６２６０３１００００８ 、「カミング」を使って私をこちらに…？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "いいえ、少し違うわ、この感じ…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "ソネット！？　どうして…まさかわたしがこの糸に…触れたから？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "ソネットが喜びに浸っていた時、微かにいびきが聞こえてきた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "レグルス",
+          "text": "ぐーぐー…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "レグルス",
+          "text": "霧は徐々に晴れ、石を抱いて熟睡しているレグルスが姿を表した。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "レグルス！？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "本当にあなた様の元にいたのですね！　レディ・Zがそう言っていたんです！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "えっ――！？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "レグルスは――あれ？　なんだか様子が変…です…ね…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "うーん、私も少しクラクラ…するような…？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "みんな気絶してしまった…なぜ？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "一体何が起きているんだろう？　わたしはなんともないみたいだけど…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "糸車はまだわずかに光を放っている。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "後でもう一度調査する必要がありそうだ。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "皆を連れて離れる",
+          "edge_label": "先带她们离开",
+          "branch": []
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "水の音は次第に遠くなっていった。"
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    },
+    {
+      "script_id": "100023",
+      "internal_title": "第一章1-1.5（图鉴1.3－新手引导湖泊场景）",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "ここには一度も足を踏み入れたことがない。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "レグルス！　レグルス――！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "見つからない…霧もだんだん濃く…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "よく見てみると、湖の中央に佇む欠けた糸車に奇妙な糸が絡まっている。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "…この糸、立体感がない？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "水位が上がった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "どんどん、どんどん水が溢れだす。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "あたり一面がストームの水で覆われた。それは水の姿をしているにも関わらず、あるべきはずの重さも潤いも、一切伝ってこない。ただゆっくりとその場を流れている。まるで…時間のように。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "時間…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "この光景、どこかで…確か…わたし――"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "手に握る糸…いや、この糸の感触を感じ取ることができない糸状の何かが、わたしの目の前で道を作った。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "そして、何者かがその道に導かれてやってくる。"
+        }
+      ]
+    },
+    {
+      "script_id": "100024",
+      "internal_title": "第一章1-1.6（图鉴1.4－新手引导湖泊场景）",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "…え？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "――タイムキーパー！？　やった！　コホン、ちょうど探していたんです。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "ここはどこですか？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "もしかして神秘術Ｎｏ．０００２６２６０３１００００８ 、「カミング」を使って私をこちらに…？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "いいえ、少し違うわ、この感じ…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "ソネット！？　どうして…まさかわたしがこの糸に…触れたから？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "レグルス",
+          "text": "ぐーぐー…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "レグルス",
+          "text": "霧は徐々に晴れ、石を抱いて熟睡しているレグルスが姿を表した。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "レグルス！？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "本当にあなた様の元にいたのですね！　レディ・Zがそう言っていたんです！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "えっ――！？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "レグルスは――あれ？　なんだか様子が変…です…ね…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "うーん、私も少しクラクラ…するような…？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "みんな気絶してしまった…なぜ？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "一体何が起きているんだろう？　わたしはなんともないみたいだけど…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "糸車はまだわずかに光を放っている。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "後でもう一度調査する必要がありそうだ。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "皆を連れて離れる",
+          "edge_label": "先带她们离开",
+          "branch": []
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "水の音は次第に遠くなっていった。"
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

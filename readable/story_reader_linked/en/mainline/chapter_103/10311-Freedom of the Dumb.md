@@ -1,6 +1,6 @@
 # Freedom of the Dumb
 
-- Chapter: Nouvelles et Textes pour rien (`103`)
+- Chapter: Nouvelles et Textes pour Rien (`103`)
 - Episode: `10311`
 
 > Subtitle: A song that is not allowed used to be sung here.

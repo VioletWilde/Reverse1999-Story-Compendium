@@ -1,0 +1,998 @@
+{
+  "episode_id": 10613,
+  "chapter_id": 106,
+  "chapter_title": "今夜星光燦爛",
+  "display_label": "",
+  "title": "島",
+  "subtitle": "“那黃金之島定是藝術與人文的樂土，屬於神秘學家的烏托邦。”",
+  "trails": [
+    {
+      "element_id": 100613,
+      "owner_episode_id": 10613,
+      "trigger_episode_id": null,
+      "title": "小徑① 維也納咖啡",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=10613",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "嗯——這天氣正適合坐在露天咖啡館歇一歇，我親愛的。這兒每家店的侍者手腳都麻利著，知道什麼時候該替你披上衣服，稱你“仁慈的女士”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "我到這種地方來隻為著做一件小事兒——悄悄地看看人們都在做什麼，聊什麼，好從中探聽到最近的新鮮東西。生意人總得把耳朵跟眼睛都放機靈些。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "喏，這就給我撞上了——別擔心，我們隔得遠著呢，瞧那位把頭上的羽毛晃個不停的綠姑娘。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "我認得她",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "當然，這不是那隻神氣活潑的小鳳頭鸚鵡嗎？您才見過的，她自稱是個心理醫師，卻簡直比羅賓漢還忙上許多。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "她周圍的那些人，嘖嘖，打領帶的、帶著金袖扣的、衣擺綴著補丁的……噢，興許他們都是住在利奧波德區的人——唔，八成如此！"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "畢竟我聽到了許多對當下情景的讚美，“黃金般的時代，那些噪音不過是一時間的——不過是聳人聽聞！”"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "利奧波德？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "或者您聽過它的一些別稱，又或者您曾在展覽品的資助名單上，一不留神瞥到過這個字眼？"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "歐洲的客廳裡坐得下全世界的公民，文化與藝術是最值得投奔的宗教，學校是通往美好國度的大門。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "這兒的許多人曾經相信自己是多數中的一小部分，稍微幸運一點兒的那部分。直到硝煙飄散，還努力地撿拾著黃金的殘渣。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "羽毛翠綠的鳥兒與他們來往並不出人意料，您瞧，她總是能看見被掩藏的東西，也情願為不被聽取的聲音嘰嘰喳喳，大喊大叫。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "我只是感到可惜，她也看漏了一些小小的、針眼兒似的細節。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "什麼事？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "被當作笑話的事兒，被願望和期待蓋過的事兒。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "風裡還摻著愉快的歌兒，鐘擺依舊在晃動，咖啡館裡的交談聚焦於分離派，聚焦於新的演出劇碼。沒有人在乎報紙上的幾句閒話，沒有人不對眼前的一切著迷。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "好醫生振動翅膀，替滿懷憂慮的小姐分擔她的緊張，又轉而飛向擠著不少下層人的咖啡館，鼓勵他們堅持下去。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "她聲稱人人具有自己的權利——她也畫出一個漂亮的圓圈，就像令人驕傲的環城大道，也像一面誠實的鏡子，圍繞著她的聽眾。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "好日子總會來的——喝著咖啡的人們如此說。但最終，誰都也只是咖啡杯裡被攪動的砂糖，杯底留下的一點兒碎末兒。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "親愛的，您的咖啡快涼了。"
+            }
+          ]
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100617",
+      "internal_title": "第六章6-13",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "島"
+        },
+        {
+          "kind": "title_card",
+          "text": "島嶼客房"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "低矮的石桌並不適宜寫作，但此刻別無所選。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "……感謝您在委員會內做出的斡旋，我同意您的判斷。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "貿然向島上增派人員只會加劇眼前的信任危機，而這正是阿爾卡納的目的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "目前局勢剛剛和緩，任何加碼都會讓這台岌岌可危的天平立刻傾斜。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "而我的想法是——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "落筆猶豫了一瞬，最終，它還是被付諸紙上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "——即使我們最終無法與阿派朗學派達成合作，也必須阻止他們倒向重塑之手。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "信件在指尖上停留片刻。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "然後，它扇動翅膀，像蝴蝶一般飛離客室，奔向聖洛夫基金會總部。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "門口響起了適時的敲擊聲。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "請進。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "來人掀開了簾子。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "阿派朗學派的客房並沒有房門。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "這只是照顧島外客人的一個禮節。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾塔",
+          "text": "早安，維爾汀小姐。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾塔",
+          "text": "我來詢問您是否有什麼需要幫助的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "能給我一些新的紙筆嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾塔",
+          "text": "當然，我們從不會疏於給予沉思者的養料。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "……謝謝您，瑪爾塔女士。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "您不問我寫信做什麼嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾塔",
+          "text": "即使發生了諸多不快之事，但您靈魂數字的正直是毋庸置疑的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "學派的使者靜靜矗立著，眼簾下並未映出她的目光。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "……基金會總部正在極力與外界進行協商，以和平的方式平息這起莫須有的領土糾紛。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "我們並未洩露島嶼的座標，也沒有任何擴大衝突的意圖。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "希望您代為傳達我們的誠意。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾塔",
+          "text": "……呵呵，您明明還只是個孩子，說話卻如此官方。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她輕輕歎了一口氣。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾塔",
+          "text": "我也只是一個沒有數字的修行者，在時代的風暴中漂至此處。時間並不比您長許久。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾塔",
+          "text": "我會傳達您的訴求，但我並沒有裁決價值的資格。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾塔",
+          "text": "——只是，以我對教義淺顯的瞭解，您的努力並非他們所關心的，維爾汀小姐。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "我不明白。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾塔",
+          "text": "因為現象世界的一切瑣碎，都是所有無足輕重中最為無關緊要的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "風自空洞處吹來。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "在海風拂來的方向，沙灘已經光復如新，不複數週前炮火打擊的痕跡。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾塔",
+          "text": "如果“流溢”降臨，一切都會被沖刷。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾塔",
+          "text": "戰爭也好。糾紛也好。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾塔",
+          "text": "人們最關心的是……如何一勞永逸地獲得“拯救”。"
+        },
+        {
+          "kind": "title_card",
+          "text": "傳道者之廳"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "爭論已經持續了數日。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "這座真理的殿堂已經被現實的喧囂佔據。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "教眾Ⅰ",
+          "text": "事實就是，我們正在誤入歧途！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "教眾Ⅰ",
+          "text": "1999年的“流溢”，令我們幾乎損失了所有在外的聯絡點。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "教眾Ⅰ",
+          "text": "四年前的事故後，我們徹底切斷了和外界的聯繫，在“流溢”中淪為一座孤島！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "教眾Ⅰ",
+          "text": "而這四年裡，對“流溢”的研究毫無進展，對“流溢”規律的純理論研究最終被證明為完全錯誤。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "教眾Ⅰ",
+          "text": "我們要這樣被動到什麼時候？到人類佔領這裡為止嗎？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "教眾Ⅰ",
+          "text": "基金會和重塑之手，肯定有一方要為這次的座標暴露負責！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "教眾Ⅱ",
+          "text": "“流溢”研究的負責人是37，你的質疑應當等她醒來，6已經在為她治療。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "教眾Ⅱ",
+          "text": "現在回顧四年前的方向選擇也沒有任何意義。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "教眾Ⅱ",
+          "text": "何況，基金會並未展露敵意，他們的確最小化了此次洩露事態的影響。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "教眾Ⅱ",
+          "text": "在我們因四年前的失敗陷入困難時，重塑之手也一直予以物資支持。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "教眾Ⅲ",
+          "text": "哈，37……！她只是個孩子，連自己的事都搞不清楚。自從她帶了那個外人去聖地，一切都變了……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "教眾Ⅳ",
+          "text": "那你又為何要攻擊一個尚在昏迷的孩子？！即使37做得不對，她也付出了代價！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "人們彼此瞪視，怒氣衝衝。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "這不是只待擲出卵石的正式表決，它甚至尚未得出明確的議題。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "僅僅是往日對真理的探討被現象世界的煙塵所攪亂。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "210",
+          "text": "不用如此惱火，我想42想說的其實很簡單。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "210",
+          "text": "“即使‘流溢’到來後，人類的軍隊全都會化為烏有，可是‘流溢’什麼時候會到來？”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "210",
+          "text": "“在模型失敗之後，我們應該如何得知此事？又如何應對後續的‘流溢’？”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "210",
+          "text": "“假如純理論研究註定是失敗的，我們必須向外探索，又得如何與外界重新建立聯繫？”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "210",
+          "text": "“選擇基金會，還是選擇重塑之手？”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "台下響起了旗幟鮮明的反對聲。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "教眾Ⅲ",
+          "text": "210，你的發言誘導性太強了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "教眾Ⅲ",
+          "text": "你是叫我們捨棄掉中立，捲入無止境的派系糾紛嗎？這違背學派的基本立場！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "教眾Ⅱ",
+          "text": "我也不能苟同您……真理應讓人遠離生之巨輪的流轉，而不是踏入。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "210",
+          "text": "我只是翻譯了一下42的潛臺詞。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "210",
+          "text": "況且，我們已經被迫捲入了生之巨輪的流轉——人類的炮彈在這裡落下過，是不爭的事實。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "210",
+          "text": "後續揚起的煙塵，以及為此追責的意願，只會讓我們在這條鏈條裡越陷越深。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "210",
+          "text": "可這鏈條的起源是什麼呢？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "210",
+          "text": "敬愛的兄弟姐妹們，你們都被那些揚起的碎片迷花了眼，以至忽略了“本質”。讓我來告訴你們吧——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "教眾Ⅳ",
+          "text": "你廢話太多了，210，我看是你被揚起的形容詞迷花了眼！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "教眾Ⅲ",
+          "text": "誰能去6的座位上拿一下石鐘？我今天非得敲暈他……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "修辭學家只是譏諷地敲了敲額頭，對同僚的不滿置若罔聞。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "210",
+          "text": "一切的起源是，我們自身在“流溢”研究上遭遇的失敗。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "210",
+          "text": "我們的非凡來源於我們的信仰。一旦真理的光輝棄絕了我們，我們獨立於世的基底便將不復存在。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "210",
+          "text": "但諸位智慧的同仁啊，請設想一下這種最壞的可能……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "210",
+          "text": "我們篤信自然之書是用數學寫成的，而每個數字都是居住於永恆天國上的超越存在。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "210",
+          "text": "通過數學，我們得以通達真理。通過對規律的找尋和計算，我們得以追尋世界最本質、最重要的知識：靈性的起源。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "210",
+          "text": "但如果那至高無上的存在就是無規律的呢？如果那靈性的潮汐湧動就是混沌無理的呢？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一片譁然。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "教眾Ⅲ",
+          "text": "210，你要否定所有人的信念嗎？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "教眾Ⅲ",
+          "text": "按照這個說法，我們此前取得的切實成果，難道只是一種湊巧嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "教眾Ⅲ",
+          "text": "古代數學應用至今的基礎定理，現代數學對世界的切實改造和應用，潛藏在原子鐘和葉脈序裡的數理規律……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "教眾Ⅲ",
+          "text": "先前每一個應驗了的“流溢”年代，難道都是一場大夢嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "210",
+          "text": "哎，我只是請諸位設想一下最壞的可能。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "210",
+          "text": "窮舉也是一種證明的思路。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "這句若有可無的辯解消失在激烈的聲討中。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "呼聲一陣高過一陣，以至於穿過了殿堂的石牆，抵達門外無資格的旁觀者耳中。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "蘇菲亞",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "蘇菲亞",
+          "text": "無限定者啊，請您幫幫我……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "蘇菲亞",
+          "text": "清除我們靈魂的錯誤，糾正我們過度的傾向……使心靈適度於軀體，意志適度於生命，使城邦免於動亂，使身體免於災厄……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "蘇菲亞",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "蘇菲亞揉去淚水。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "遠處的沙灘上，群鳥正張翅飛行。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "它們盤旋起舞，雙翼輕薄，像數隻蒼白的蝴蝶。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "蘇菲亞",
+          "text": "……是我看錯了嗎？那似乎不是海鷗……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "除錯師往前走去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "在一碧如洗的陽光中……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "屬於聖洛夫基金會特急信件的紅色火漆清晰可見。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "蘇菲亞",
+          "text": "這些全是……從島外發來的？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "蘇菲亞",
+          "text": "外面……又發生什麼了？"
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    },
+    {
+      "script_id": "306402",
+      "internal_title": "【2.1】挖掘艺术角色故事02",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "舶來品"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘藝術",
+          "text": "哈哈……我同意……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "如果知道未來是什麼樣子，那他絕不會說出這句話。\n這是令他後悔至今的一聲應和，遠甚於倫敦時的無數次失足被捕。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘藝術",
+          "text": "黏糊糊的、充滿了怪異氣味的面具……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘藝術",
+          "text": "讓人痛苦萬分的禁術……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘藝術",
+          "text": "永無止境的奔波……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "重塑使徒",
+          "text": "別再做這種無謂的嘗試了，沒有人能夠逃出重塑之手。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "重塑使徒",
+          "text": "所有的一切，在你戴上面具的那一刻，就已經註定會發生。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘藝術",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "重塑使徒",
+          "text": "不過，我有一個好消息要告訴你——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘藝術",
+          "text": "……什麼？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "重塑使徒",
+          "text": "別緊張，這次是貨真價實的好消息——至少沒那麼糟糕。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "重塑使徒",
+          "text": "下一次的行動，是在一座和平的島上，聽說那裡連警察都沒有。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "同伴並沒有如他預想的那樣驚喜起來。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "重塑使徒",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "重塑使徒",
+          "text": "……這不算好消息嗎？"
+        },
+        {
+          "kind": "title_card",
+          "text": "島"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘藝術",
+          "text": "摧毀和平……這就是我的任務。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "夕陽的餘暉浸染了無垠的海面，浪潮遵循著固定的節律，上升，回落。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他赤腳坐在海岸線上，將手伸入了金色的浪潮中。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘藝術",
+          "text": "這樣，就能把落日抓在手裡——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "潮水退去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘藝術",
+          "text": "它總是逃走得很快……就像孩子的童年。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘藝術",
+          "text": "連同著滿盈的月亮，盛放的鮮花，轉瞬即逝的喜悅與笑聲……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘藝術",
+          "text": "我為什麼會在這裡？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "而如今，藝術與詩歌都離他遠去了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘藝術",
+          "text": "我應當還在倫敦，為那些埋在順化或者西貢的死者發聲——這個世界不需要戰爭！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘藝術",
+          "text": "“戰爭意味著眼淚，從無數母親的眼中流出……”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘藝術",
+          "text": "“生命本因其短暫而珍貴，為何我們要用來互相殺伐？”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘藝術",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "沙沙的腳步聲由遠及近。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "紅髮的除錯師望著眼前的無理數。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "蘇菲亞",
+          "text": "你不應該在這裡。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘藝術",
+          "text": "噓——安靜些。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他看著不遠處在沙中踱步的海鷗。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘藝術",
+          "text": "它們很容易受驚飛走。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "蘇菲亞",
+          "text": "——你的外出根本沒有報備。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "蘇菲亞",
+          "text": "幾位整數，為了找到消失的無理數而徹夜未眠。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一陣短暫的沉默。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘藝術",
+          "text": "整數？無理數？這就是你們對人的稱呼嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘藝術",
+          "text": "如果我為了這些東西，而放棄這片海潮上的夕陽——那才是不可計數的損失。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "海鷗撲棱著翅膀，飛向了遠方。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "蘇菲亞",
+          "text": "但這些都是必要的——為了擺正你們趨於過度的靈魂……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘藝術",
+          "text": "……我不理解。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他的一再辯駁終於引起了少女輕微的惱怒。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "蘇菲亞",
+          "text": "……你是無理數，是無序和混亂的集合。你們必須接受真理的訓導，以接近有理數的範疇。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘藝術",
+          "text": "為什麼人要用數字來表達？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘藝術",
+          "text": "為什麼1是思想，2是意見，3代表智慧，4則是力量……？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘藝術",
+          "text": "你們難道沒有察覺到嗎？你們所有的選擇，都被框定在了一個小小的數字中。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘藝術",
+          "text": "沒有分岔路，沒有路邊的風景——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "蘇菲亞",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘藝術",
+          "text": "蘇菲亞小姐，你不能用數學解釋一切。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他伸手指向海平線。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘藝術",
+          "text": "你看，太陽快落下去了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘藝術",
+          "text": "寧靜的夜晚會讓人思緒繾綣，黃昏只有一瞬，卻帶來了永恆的追憶。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘藝術",
+          "text": "隨後，月亮帶著潮水的節律一同上升，海鷗會回到它們的巢，將頭埋在翅膀下睡眠……一切都靜悄悄的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘藝術",
+          "text": "數學裡不會有這些。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他瞇上了眼睛。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "潮水拍打著他的皮膚。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘藝術",
+          "text": "有貝殼撞到了我的腳趾……你們的島上，有數字可以用來形容這種感覺嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "蘇菲亞",
+          "text": "……貝殼？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "蘇菲亞",
+          "text": "那不是貝殼。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "挖掘藝術睜開雙眼，看向自己的腳趾。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "經過幾個眨眼，他虛焦的眼睛才終於看清了眼前之物。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘藝術",
+          "text": "——？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一把漆黑的勃朗寧手槍。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘藝術",
+          "text": "噢，糟糕，壞文明出現了——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挖掘藝術",
+          "text": "槍，槍，為什麼這裡會有一把槍？"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

@@ -1,0 +1,610 @@
+{
+  "episode_id": 10105,
+  "chapter_id": 101,
+  "chapter_title": "われらの時代",
+  "display_label": "",
+  "title": "薔薇に棘あり",
+  "subtitle": "彼女はハチミツよりも甘く、羽毛よりも軽い。彼女の赤い薔薇は、あなたの魂の胸に飾るのにちょうど良い。",
+  "trails": [
+    {
+      "element_id": 1010501,
+      "owner_episode_id": 10105,
+      "trigger_episode_id": null,
+      "title": "幕間の休憩",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=10104",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "何をしている？　どうしてこの肝心な時に、その冷たくて不透明な暗緑色のガラス瓶を拾いあげたんだ？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "ガレージ外の悲鳴、ブレーキプレートと車輪のこしきが摩擦する音、色褪せた映画のようなストーリー展開。どれもその瓶には及ばないらしい。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "見る限り、おまえさんはセンスがいいらしい。この時代でそれが珍しいもんだって分かってる。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "でもよ、どうして瓶の底をじっと見つめながら舌なめずりしたんだ？　もしかして、飲もうとでも思ってんのか？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "賢明だとは言い難いな。そのガラスは濁ってるから、中身の色が確認できない。お前さんが想像してるようなアイスワインやビール、農家の地酒じゃなく、"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "魔精の鼻水かもしれない。それでも飲もうってのか？"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "役に立たない話はもういい、飲ませて",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "おまえさんが今まで遭遇してきたカーバンクルたちですら、その勇気に関心するだろう。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "今、おまえさんの喉には冷たい液体が注がれてる。流れるスピードは早くないのは、濁ってるからかもしれない。だが喉ごしは想像してたよりなめらかだった。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "それからおまえさんは鼻からよもぎ、マルトース、レモンタイム、ココナッツシュガーのかすかな香りがするのを感じた。まるでニュージーランド生まれの神秘学家が贈ってくれたプレゼントみたいに美味だった。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "同時に、心臓が拡張して、気管に灼熱を感じた。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "おまえさんの視界はぼやけ始めた。ボトルの底に荒く刻まれた文字がぼんやりと見えた。「ポリポーションバー・ザ・ウォールデン」"
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "うぇっ…これは一体なに！？",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "もちろん、酒ではない！　酒は禁じられた不思議な言葉なんだ。しかし、それは酒と同じくおまえさんに勇気をくれる飲み物だ。死にたくなるほど鬱になる暮らしの中、生き続ける勇気をくれる。"
+                },
+                {
+                  "kind": "choice",
+                  "speaker": "",
+                  "text": "きみは誰？",
+                  "edge_label": "",
+                  "branch": [
+                    {
+                      "kind": "dialogue",
+                      "speaker": "？？？",
+                      "text": "おれのことか？　何者でもないし、何者であっても不思議じゃあない。"
+                    },
+                    {
+                      "kind": "dialogue",
+                      "speaker": "？？？",
+                      "text": "呑んだくれのだらしないじじいかもしれないし、ボロ宿の清掃人かもしれない。両目をギラギラとさせたファンドマネージャーでもいいし、回転し続けるかわいいクリスタルスカルでもいいさ。"
+                    },
+                    {
+                      "kind": "dialogue",
+                      "speaker": "？？？",
+                      "text": "今のおれはおまえさんと同じく、センスがいいのん兵衛だ。"
+                    },
+                    {
+                      "kind": "dialogue",
+                      "speaker": "？？？",
+                      "text": "そして、おれたちが正式に会う日はもうすぐ訪れる。"
+                    },
+                    {
+                      "kind": "dialogue",
+                      "speaker": "？？？",
+                      "text": "さあ、早くその重たいケツを上げて、素晴らしい旅の続きをしてきな。おれはいつでも現れる。おまえさんが期待してる時も、期待していない時も。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "この瓶を拾うべきじゃなかった",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "そうだ。拾うのは一瞬のひらめきで決まる。だがおまえさんは理由もなく無駄話をたくさん聞かねばならない。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "おまえさんが望んだような展開にならず残念だったな。幸いなことに、まだ誇れる理性が残ってるようだ。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "さあ、そのガラスの瓶を置くんだ。ソネットと空飛ぶリンゴがおまえさんの異常な挙動に気づく前に。まだ己のイメージを保つことができる。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "おれと一緒に彼らにこう挨拶しよう。「ハロー」。まるで酒に誘惑などされてなかったようにな。"
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "「ハロー」",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "おお、やあ！　今日はどうだった？"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "ハハハハハ、そりゃあいい。財団の訓練がどれほど有効的なのか、もうみんな分かったようだ。幸いなことに、「いい子」はみんなから好かれる。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "おまえさんと一緒にいるのはとても愉快だ。あの子よりずっと…いや、この話はもう続けるべきじゃないな。"
+                },
+                {
+                  "kind": "choice",
+                  "speaker": "",
+                  "text": "きみは一体何者？",
+                  "edge_label": "",
+                  "branch": [
+                    {
+                      "kind": "dialogue",
+                      "speaker": "？？？",
+                      "text": "おれのことか？　何者でもないし、何者であっても不思議じゃあない。"
+                    },
+                    {
+                      "kind": "dialogue",
+                      "speaker": "？？？",
+                      "text": "呑んだくれのだらしないじじいかもしれないし、ボロ宿の清掃人かもしれない。両目をギラギラとさせたファンドマネージャーでもいいし、回転し続けるかわいいクリスタルスカルでもいいさ。"
+                    },
+                    {
+                      "kind": "dialogue",
+                      "speaker": "？？？",
+                      "text": "今のおれはおまえさんと同じ、友好的な冒険者だ。"
+                    },
+                    {
+                      "kind": "dialogue",
+                      "speaker": "？？？",
+                      "text": "心配はいらないさ、おれたちが正式に会う日はもうすぐ訪れる。"
+                    },
+                    {
+                      "kind": "dialogue",
+                      "speaker": "？？？",
+                      "text": "さあ、早くその重たいケツを上げて、素晴らしい旅の続きをしてきな。おれはいつでも現れる。おまえさんが期待してる時も、期待していない時も。"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "本当に聞いてもらえるの？",
+              "edge_label": "",
+              "branch": []
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "おまえさんの成分をよーく検査してみたいもんだ！　全てのゲノムレポートを千切りにして腹に入れて、その理性がどっから来てるのかを徹底的に検査したいね！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "おまえさんみたいに理性的で感情をコントロールできる神秘学家なんていない。奴らは、奴らは…もし本当に存在したとしても、それは…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "おれはおまえさんのことをよーく知ってるぞ！　おまえさんの身分が純粋なことは否定できない！　無理だ！"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "きみは一体何者？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "おれのことか？　何者でもないし、何者であっても不思議じゃあない。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "呑んだくれのだらしないじじいかもしれないし、ボロ宿の清掃人かもしれない。両目をギラギラとさせたファンドマネージャーでもいいし、回転し続けるかわいいクリスタルスカルでもいいさ。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "今のおれはイタズラに失敗したゴム製のバカ野郎でしかねえ。せっかちなもんよ。そしてこのぶつけどころのない怒りは、太平洋にある一本の水草にすら影響を与えられないのさ。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "おまえさんと正式に会う日を楽しみにしてるぜ。その日が来れば…"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "早くその重たいケツを上げて、素晴らしい旅の続きをしてきな。おれはいつでも現れる。おまえさんが期待してる時も、期待していない時もだ！"
+            }
+          ]
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100107",
+      "internal_title": "第一章1-6.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "薔薇に棘あり"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "ジェームズ・クラーク。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ジェームズ",
+          "text": "……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "ピーター・グーゼンバーグ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ピーター",
+          "text": "うっ…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "――！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "フランク・グーゼンバーグ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "やめなさい――！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "どうして彼らを殺めるのですか！？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "……？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "どうしてって…この人たちが神秘学家を、殺そうとしてるからよ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "あんたたちも…このために来たんじゃなくて？　歴史を熟知する…政府の旦那たち。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "さてと、次の方は…アダム・ハイヤーね。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アダム",
+          "text": "うわああ、なぜ当たらないんだ…なぜ…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "タイムキーパー！"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "アダム・ハイヤーを助ける",
+          "edge_label": "营救亚当·埃耶尔",
+          "branch": []
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "あの銃にはお気をつけください。どうやら彼女が狙っているのは、我々の身体ではないようですぞ…！"
+        }
+      ]
+    },
+    {
+      "script_id": "100108",
+      "internal_title": "第一章1-6.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "あらまぁ、最後の人類が…助けられちゃった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アダム",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "もう大丈夫ですよ。このままあなたを安全な場所に…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アダム",
+          "text": "――お前らも神秘学家か？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アダム",
+          "text": "はは、あはははは…くたばれ！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "「ダン――！」"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "……！？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "…そ、そんな…なぜ自害を…！？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "頸動脈を貫通しています。もう助からないでしょう…。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "ざぁんねん。神秘学家のような穢れた者に助けられるくらいなら…死んだ方がマシなのかも？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "けど、命は貴重なものよ。それを自ら手放す者は、嫌いなのよね。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "シュナイダー",
+          "text": "「ダン――！」"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "やめなさい。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "きみの後ろで気絶しているのは…本来の被害者たちでしょう。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "彼らをマヌス・ヴェンデッタに連れて行くつもり？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "あんた…お隣にいる生真面目なおばさんよりかは、おもしろいわね。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "見た目も悪くない…うんうん、その髪の毛も、あたいが大好きな羽根の色にそっくり！　…んふふ、興奮しちゃう。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "質問に答えて。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "うぅ…こわーい。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "今回はたまたま獲物が同じだっただけよ。「ストーム」が訪れる前に、使い物になる輩を集めておきたいのはお互い様でしょ？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "こうしてみると、あたいたちの運命ってもしかして…きつく絡まっちゃったのかしらん？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "七人とも亡くなっています…あなたがどれだけ人類を憎んでいようと、こんなこと、許されません！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "…人類を憎む？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "なら聞くけど…この大虐殺事件で死ぬべき者は人間？　それとも神秘学家？"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "死んでいい者などいない",
+          "edge_label": "没有人该死",
+          "branch": []
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "…生まれながら持つ異端の力は、命を剥奪していい理由にはならない。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "ふふ。旦那の言う通りだわ。神秘学家も人類もあたいにとってはどうでもいいの。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "自分が生きられればね。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "あの光は…神秘術！？　大変です！　あの神秘学家たちを連れて行くつもりですよ！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "――！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "んふふ。あんたのこと、すっごく気に入ったわ。けどあたい、まだ任務が残ってるから…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "これ、代わりにアダムを始末してくれたお礼よ。あたいのこと、忘れないでね〜"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "に、逃げられました…何か投げ捨てて行ったようですが、これは…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "株式贈与契約書のようですな？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "なんて汚らわしいものを！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "ご安心を。すぐに処分しますので。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "待って。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "この契約書の調印に住所が入っている…ポリポーションバー、「ザ・ウォールデン」。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "ソネット、今すぐ本部に本件のいきさつを報告して。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "わかりました。では私たちは…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "次の目的地に向かおう。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "「ザ・ウォールデン」…そこに行けば、全ての謎が解けるかもしれない。"
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

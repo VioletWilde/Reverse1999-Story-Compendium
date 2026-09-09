@@ -1,0 +1,344 @@
+{
+  "episode_id": 10107,
+  "chapter_id": 101,
+  "chapter_title": "われらの時代",
+  "display_label": "",
+  "title": "ドルーヴィスⅢ",
+  "subtitle": "彼女はここにいる。誰かを待っているわけでも、偲んでいるわけでもなく。",
+  "trails": [
+    {
+      "element_id": 1010701,
+      "owner_episode_id": 10107,
+      "trigger_episode_id": null,
+      "title": "小道① スペル融合",
+      "description": "スペルの威力を強化する方法についての記載。融合してランクアップすることでスペルの威力が強化され、神秘術の効果が変わる。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=10106",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1010702,
+      "owner_episode_id": 10107,
+      "trigger_episode_id": null,
+      "title": "神秘のユニコーン",
+      "description": "サザビー宅には数千万点もの所蔵品がある。広間の高い場所に吊るされ、1本の角を持つ監視者の名前は？",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=10106",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100110",
+      "internal_title": "第一章1-8.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "ドルーヴィスⅢ"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "悪霊魔精",
+          "text": "――――！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "悪霊魔精",
+          "text": "シャー！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "まずい、数が多すぎる。これ以上はそう長くもたない…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "魔精たちがあの木の根元から絶え間なく現れて…もしやあそこが奴らの巣なのでは？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "悪霊魔精",
+          "text": "……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "また来た。気を付けて！"
+        }
+      ]
+    },
+    {
+      "script_id": "100111",
+      "internal_title": "第一章1-8.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "ゴホッ、ゴホッ…！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "タイムキーパー。私が地図に付けた印に目を通しましたか？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "ええ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "私の計算ではあそこが森の端に最も近い位置です。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "１分後、あなた方とは正反対の方向に敵をひきつけます！　いいですか、２マイル先に、魔精の追跡をまくのに適した坂がありますので！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "ミズ・ソネット、我々と共に行かないのですか？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "圧倒的な数の敵を前に、全員が逃げ切れる方法はありません！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "でも安心してください。一人の方が俊敏に動けますので。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "相手が亡霊でなければ…いいえ、たとえ亡霊だったとしても、逃げ延びて見せます。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "信じているよ",
+          "edge_label": "我相信你",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "ソネット",
+              "text": "ええ、信じていてください。昔…手を組んだ時のように。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "どこで落ち合う？",
+          "edge_label": "我们在哪里会合？",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "ソネット",
+              "text": "……"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "ソネット",
+              "text": "必ずあなた方と合流しますので。どうか今は早く撤退してください。"
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "行こう、ミスター・APPLe。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "…平和が我らと共にありますように。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "悪霊魔精",
+          "text": "――――！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "悪霊魔精",
+          "text": "――！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "奴らが…全員こちらに向かってきます…！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "…これでいい。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "わたしたちがひきつける側になっただけのこと。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "一人でもこの森を抜けることができれば、助かる希望は大きくなる。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "悪霊魔精",
+          "text": "――！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "坂を登る猶予はない。正面衝突の準備を！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "ミスター・APPLe、まだ戦えますか？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "たかがリンゴがこんなこと言うのもなんですが…最期までともに戦い抜きましょう！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "悪霊魔精",
+          "text": "……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "ミズ・ヴェルティ、危ない！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "ん？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "…失礼。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "それ、こちらによこしてくださるかしら？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "どうやらあなたの懐に落としてしまったみたい。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "…あなたは？",
+          "edge_label": "……你是谁？",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "ドルーヴィスⅢ",
+              "text": "わたしはこの森の主、ドルーヴィスⅢよ。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "…どうしてそんなところに？",
+          "edge_label": "……你为什么在这么高的地方？",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "ここはわたしの約束の地なの。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "ドルーヴィスⅢ",
+              "text": "初めまして、わたしはドルーヴィスⅢよ。"
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "…これ…どうぞ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ドルーヴィスⅢ",
+          "text": "ありがとう、これでやっと降りて後片付けをすることができるわ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ドルーヴィスⅢ",
+          "text": "裸足のまま大地を踏むのも構わないのだけど…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ドルーヴィスⅢ",
+          "text": "直接触れるのは好きではないの。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ドルーヴィスⅢ",
+          "text": "その不躾な魔精の侵入者たちにね。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "悪霊魔精",
+          "text": "……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "百を超える敵を一撃で！？　あのワンドの力なのでしょうか…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "いや、かなり古い神秘術ですな。きっと彼女はヨーロッパの神秘術と、何か関わりがあるのでしょう。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ドルーヴィスⅢ",
+          "text": "神秘学家の客人はずいぶん久しいわ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ドルーヴィスⅢ",
+          "text": "侵入者を追い払ってくれてありがとう。残りの魔精は…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ドルーヴィスⅢ",
+          "text": "森に佇むささやかな予言が如く、侵入者よ、森の静寂のため贄となれ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "わたしたちも手伝うよ。"
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

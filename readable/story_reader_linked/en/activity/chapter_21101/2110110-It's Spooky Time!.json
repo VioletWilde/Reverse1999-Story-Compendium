@@ -1,0 +1,698 @@
+{
+  "episode_id": 2110110,
+  "chapter_id": 21101,
+  "chapter_title": "Route 77: The Haunted Highway",
+  "display_label": "",
+  "title": "It's Spooky Time!",
+  "subtitle": "Unexpected surprises, or rather, scares.",
+  "trails": [
+    {
+      "element_id": 2110103,
+      "owner_episode_id": 2110110,
+      "trigger_episode_id": null,
+      "title": "Discipline, Discipline",
+      "description": "Hastily written lines in a standard-issue notebook, as clear and powerful as the lieutenant who wrote them.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=2110110",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "Accountability Record"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Date of Record: September 20, 1990\n\nRecorded By: Lieutenant Moldir\n\nSubject: Admiral Igor's Recent Actions\n\nThis week, Admiral Igor addressed the conduct of three subordinates and implemented the following measures:\n\nCaptain L. Harris\n\nTransgression: Ineffective leadership during training, resulting in subpar exercise performance.\n\nAdmiral Igor's Action: Issued a severe warning and reassigned from current position.\n\nSergeant K. Rodriguez\n\nTransgression: Breach of military discipline, unauthorized absence from duty.\n\nAdmiral Igor's Action: Gave a severe reprimand and imposed three days of confinement.\n\nLieutenant J. Davis:\n\nTransgression: Failure to complete assigned tasks within the designated timeframe.\n\nAdmiral Igor's Action: Issued a severe warning and assigned additional personnel to assist with the investigation.\n\nThe source of the leak has been identified as Stefen Garcia. Leaked content: Vacuum bomb explosion footage?\n\nEnd of record.\n\nNotes to self:\n\nIt is evident that the admiral's stringent measures are aimed at reinforcing military discipline. We must ensure that every officer and soldier adheres strictly to their duties and maintains a high level of readiness.\n\nSome officers believe he has been excessively harsh recently—discuss this with them.\n\nHigh command's perspective—arrange a meeting for the admiral.\n\nTracking target \"K\"—Texas, awaiting scout report."
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 2110104,
+      "owner_episode_id": 2110110,
+      "trigger_episode_id": null,
+      "title": "Small Town Tales",
+      "description": "Every town has its own story, some fit for prime time, others for filling slots.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=2110110",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "Leather-bound Diary"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "February 5th\n\nWell, ain't that odd? Pierce came back early this morning, scared out of his mind. I had never seen the kid so freaked out. He sped through town and only slammed on the brakes when he got to the front door, as if something was chasing him. That nut almost ran over Marita's little bulldog!\n\nOnly God knows what he ran into.\n\nFebruary 15th\n\nThe birds were chirping the whole night long. I had never seen so many of them gathered together. Oh boy, they were so noisy; I barely slept a wink.\n\nRuth was scared, she thought it was some kind of omen. What a joke.\n\nThose long-beaked birdies weren't afraid of shotguns, that's for sure. I fired a shot at them, but only a few got spooked enough to fly away.\n\nFather Morgan suggested hiring a \"bird control team\"—if such a thing exists in the big city, that is. But I still think we should assemble all the gun users in the town and kill all those birds once and for all, rather than scare them off.\n\nMarch 27th\n\nHad a nightmare, a very vivid one, though I can't for the life of me remember what it was all about now.\n\nRuth woke up scared too; I comforted her. It was just a nightmare, nothing more.\n\nMarch 30th\n\nPierce didn't come back from Houston, but the police sure did. They said Pierce's employer in Houston reported him missing, thinking he ran off with their money.\n\nI wouldn't put it past that sly fox.\n\nApril 10th\n\nAll night long, the birds were making that racket again. When I pulled back the curtains in the morning, I thought I was still dreaming, but it was real. There were so many birds they were blocking out the sun.\n\nIt was like a waking nightmare.\n\nApril 12th\n\nThe birds scattered.\n\nEveryone looked kind of strange. It had been ages since I saw Marita walking her dog, and Ruth started bawling over the most trivial things. It's unnerving.\n\nApril 17th\n\nJohnny's back in town, looking like his soul got swallowed up by the devil. I saw him running, screaming like a madman, then he just collapsed on the lawn all of a sudden, crying and begging for something to spare him.\n\nFather Morgan came, but he had this strange look about him.\n\nI heard what Johnny was saying. He was mumbling on and on about a \"motel.\"\n\nMay 13th\n\nI talked to a realtor. Yeah, it's come to that—I'm finally thinking about moving.\n\nWhy? I don't know. I guess you could call it a ... gut feeling? Maybe my mind can be eased a bit somewhere new."
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "202115",
+      "internal_title": "【2.1】77号往事-10.1",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A man lies in the grass just outside of town. He's strumming a guitar and humming to himself."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Zeno Soldier",
+          "text": "Ah, this is the life. A warm, beautiful night, a cold drink, and no one but me and the stars in the sky. Eh, maybe I'll just lie here till morning."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "It's a young Zeno soldier, his eyes hazy from intoxication. He raises his flask to the twinkling stars above."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Zeno Soldier",
+          "text": "A good night with good drinks! I wish every day could be like this."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A dark figure looms over him, but in his blurred vision, he can't make out who it is."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Zeno Soldier",
+          "text": "Hey, buddy, you're blocking my view."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Huh? Are you stargazing?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The soldier blinks. He knows that voice."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Zeno Soldier",
+          "text": "Has anyone ever told you that you sound awfully like Lieutenant Lilya?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Zeno Soldier",
+          "text": "The rider of Red 38. Heard of her? No one can fly like her."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Of course."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The soldier concentrates, getting the figure's face a little more into focus."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Zeno Soldier",
+          "text": "Oh, my! You even look like her."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Keep playing dumb, and I'll show you what it's like to have her kick your ass."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The soldier's drunken eyes finally focus to see Lilya herself, a look of displeasure on her face."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Zeno Soldier",
+          "text": "...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He stumbles to his feet, dropping the flask in his hand on the way up."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He tries to salute, but almost falls flat on his face in the attempt."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Zeno Soldier",
+          "text": "Lieutenant Lilya! Airman First Class Andreas at your service!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Luckily, he manages to complete the wobbly salute."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Are you the warehouse guard?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She looks at the soldier doubtfully."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Zeno Soldier",
+          "text": "Yes, ma'am!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Few would so eagerly admit to the dereliction of their duties. In a way, he possesses exceptional courage."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "On your feet, soldier. My Red 38 is in your warehouse for maintenance, and I need you to remove the gravity ritual from it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Zeno Soldier",
+          "text": "Gravity ritual?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "If you don't understand what I'm saying, go get someone who does. I need it today."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The soldier ponders, slowed by his inebriation. Just as Lilya is about to lose her patience, the soldier's eyes light up."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Zeno Soldier",
+          "text": "Oh, right, the gravity ritual!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Zeno Soldier",
+          "text": "Yes, yes, I know! Please, come with me. I'll take you to the warehouse!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Are you certain you can undo the ritual?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Zeno Soldier",
+          "text": "Yes, ma'am! They made sure I got the hang of it before they took off. Leave it to me!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Lead the way, soldier."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "They stand side by side in the factory, the wooden crate before them."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Open it."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Zeno Soldier",
+          "text": "Oh, I remember this package."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Zeno Soldier",
+          "text": "I thought it was some kind of joke, or someone with the same name as you sent the package. Who would've thought that you'd come to Texas yourself?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He rambles on. Lilya's patience is coming to an end."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Hurry it up, soldier."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Open the crate. Now."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Zeno Soldier",
+          "text": "Ma'am, I know you want to do this quick, but ... *burp*"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Zeno Soldier",
+          "text": "I haven't been authorized to undo this incantation."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "If you can't do it, find me someone who can. I won't say it a third time."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Zeno Soldier",
+          "text": "Truth be told, there's no one else to turn to. I'm the only one left."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Zeno Soldier",
+          "text": "I was made an Airman First Class to do this job. I was still in training before this, you see."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He proudly pats his chest."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Zeno Soldier",
+          "text": "The others were either transferred back to headquarters or just left."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Zeno Soldier",
+          "text": "I don't know where they are now."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Zeno Soldier",
+          "text": "But since they entrusted me with such an important task, I'm sure I have a bright future ahead of me."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Lilya's patience has officially run out."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "You just said you aren't authorized, not that you don't have the ability, right?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "I have two options for you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "One, remove the ritual now."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Or, two, I beat your ass, and then you remove the ritual."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Zeno Soldier",
+          "text": "Well ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Choose. No more gibbering."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She readies her fist."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Zeno Soldier",
+          "text": "I pick the second one."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Huh?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She is genuinely confused."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Zeno Soldier",
+          "text": "Haha. *burp* You see, I'm happy to get rid of the ritual for you, but I can't do it on my own initiative."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Zeno Soldier",
+          "text": "I'm only an Airman First Class. I can't make decisions about this stuff."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Zeno Soldier",
+          "text": "So, you have to beat me up to avoid future inquiries."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Zeno Soldier",
+          "text": "One day, after I'm promoted, I'll be able to better assist you, ma'am!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Zeno Soldier",
+          "text": "I mean, you're the best pilot I've ever seen! I even made a scrapbook of the reports on your flights."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Before he can finish what he's saying, Lilya has already clocked him."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Alright, no screaming, soldier. Let's do this."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Each hit seems to clear his head a little more."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "By the time his face is completely swollen, he has snapped back to reality."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Zeno Soldier",
+          "text": "Stop! Stop! This is plenty to prove my innocence!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Zeno Soldier",
+          "text": "I'll undo the ritual now."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He squats down and performs the necessary movements around the crate. There's a flash of light, and the crate opens."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Oof. You almost blinded me there."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She eagerly grabs the Red 38 and feels the familiar touch of the cold metal in her palm."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Thanks, soldier."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "There's one more thing."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Zeno Soldier",
+          "text": "Yes, ma'am!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Do you know why Zeno pulled out of here so suddenly?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Zeno Soldier",
+          "text": "Hmm."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "He squints, trying to remember."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Zeno Soldier",
+          "text": "They said it was an order from \"the top.\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "\"The top\"?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Zeno Soldier",
+          "text": "That's all I was told. But word is, it was because Admiral Igor got real mad about the video leak of the vacuum bomb."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Zeno Soldier",
+          "text": "But that's just a rumor. Ever since the evacuation, strange things have started to happen."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Such as?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Zeno Soldier",
+          "text": "We started getting visitors from this group called the Order of Enlightenment."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Zeno Soldier",
+          "text": "And now, the farmers have stopped tending their fields. The cattle and sheep have been abandoned in the wilderness. All the townsfolk do now is go to these gatherings, hoping that the Sufferer will bring them eternal joy."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Zeno Soldier",
+          "text": "I don't know who this Sufferer is, but he ain't doing any good here."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Where do those people stay? In the town?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Zeno Soldier",
+          "text": "Mm. It's a ways away, I think."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The soldier struggles to recall."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Zeno Soldier",
+          "text": "A place called Tuesday's Motel."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Damn! Vertin! I have to go back!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She clasps the Red 38 with both hands, the cool grooves of the metal settling into her grasp."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Let's get out of here, girl!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "With a victorious stance, she mounts the Red 38."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "A silver light traces an arc in the sky as the pilot leaves the factory and disappears into the night."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Zeno Soldier",
+          "text": "Safe travels, ma'am!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The young soldier calls out after her, his voice soon swallowed by the night."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Short-distance flights are no challenge for Lilya."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She lands near the motel, guided by its glowing sign. The shadows of the trees around it look like hunched human figures."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Tuesday's Motel."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She locks onto her destination and is about to proceed when she feels something tap her on the shoulder from behind."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Hello, can you give me a ride?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "I can't help you. Ask someone else."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Can you give me a ride?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "I said I can't help you!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The repeated questions are getting on her nerves. She swivels around, ready to give the questioner a piece of her mind, but freezes on the spot."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "There's a girl wearing an out-dated outfit. Her face has no discernible features, like it's been smoothed over with cement."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Oh, can I have some chocolate?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The faceless girl holds out a candy wrapper."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "I met a kind man who gave me some chocolate. I've never tasted anything so sweet."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "The hell—stay away from me!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Can I? Can I have that candy? More. I want more."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "She opens her mouth wide, revealing a row of razorsharp teeth."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "Stop asking me for candy. This isn't Halloween, idiot!"
+        }
+      ]
+    },
+    {
+      "script_id": "202116",
+      "internal_title": "【2.1】77号往事-10.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "*pant*"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tuesday",
+          "text": "Hey."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "The pilot relaxes her poised fists when she recognizes the person in front of her."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "It's you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tuesday",
+          "text": "Are you alright? You look pale."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Lilya",
+          "text": "You shouldn't sneak up on people like that. I could've hurt you."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Tuesday",
+          "text": "My apologies. But you're safe now that you're at the motel. No need to be frightened."
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

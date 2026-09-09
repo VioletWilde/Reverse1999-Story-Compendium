@@ -1,6 +1,6 @@
 # Concessions for Peace
 
-- Chapter: 行于漫漫长路上 (`111`)
+- Chapter: A Long Long Way (`111`)
 - Episode: `11113`
 
 > Subtitle: Could any treasure on earth possibly fill the void our losses have left?

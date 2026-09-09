@@ -1,6 +1,6 @@
 # Silent Meeting
 
-- Chapter: The Prisoner in The Cave (`105`)
+- Chapter: The Prisoner in the Cave (`105`)
 - Episode: `10509`
 
 > Subtitle: Silence is golden—we'd do well to possess this virtue.

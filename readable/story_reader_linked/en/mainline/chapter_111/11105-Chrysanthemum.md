@@ -1,6 +1,6 @@
 # Chrysanthemum
 
-- Chapter: 行于漫漫长路上 (`111`)
+- Chapter: A Long Long Way (`111`)
 - Episode: `11105`
 
 > Subtitle: Hollow brass tubes stack into mountains beyond counting.

@@ -1,0 +1,563 @@
+{
+  "episode_id": 3210102,
+  "chapter_id": 32101,
+  "chapter_title": "흘러가는 축제",
+  "display_label": "",
+  "title": "우호적인 목격자",
+  "subtitle": "혼란과 관계를 분명히 해야 한다. 가끔은 반대로 가야 할 때도 있다.",
+  "trails": [
+    {
+      "element_id": 3210302,
+      "owner_episode_id": 3210102,
+      "trigger_episode_id": null,
+      "title": "가면 아래",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=3210102",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "몽마르트 거리에서 가면무도회가 열렸다. 특정한 주제도 없었지만, 반드시 가면을 써야 참가할 수 있었다. 그래서 당신은 가면을 들었다."
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "맨질맨질한, 격식 있게 웃는 모습의 은 가면",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "격식은 모두에게 필요한 것이다."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "다소 야성이 느껴지는, 토템 문양이 그려진 나무 가면",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "가면도 ‘자연스러운 것’이 좋은 법"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "정교하게 제작된, 여러 색상의 깃털이 박힌 법랑 가면",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "아름다운 꽃이 주목을 받는 법이다."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "당신의 얼굴을 따라 제작된 생동감 넘치는 종이 가면",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "잠깐의 분장이지만 당신은 여전히 당신이다."
+            }
+          ]
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 3210502,
+      "owner_episode_id": 3210102,
+      "trigger_episode_id": null,
+      "title": "가면 아래",
+      "description": "",
+      "action": "",
+      "unlock_condition": "ChapterMapElement=3210302",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "몽마르트 거리에서 가면무도회가 열렸다. 특정한 주제도 없었지만, 반드시 가면을 써야 참가할 수 있었다. 그래서 당신은 가면을 들었다."
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "맨질맨질한, 격식 있게 웃는 모습의 은 가면",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "격식은 모두에게 필요한 것이다."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "다소 야성이 느껴지는, 토템 문양이 그려진 나무 가면",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "가면도 ‘자연스러운 것’이 좋은 법"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "정교하게 제작된, 여러 색상의 깃털이 박힌 법랑 가면",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "아름다운 꽃이 주목을 받는 법이다."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "당신의 얼굴을 따라 제작된 생동감 넘치는 종이 가면",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "잠깐의 분장이지만 당신은 여전히 당신이다."
+            }
+          ]
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "203202",
+      "internal_title": "【3.2】迁流的盛宴02",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "순경",
+          "text": "여러분, 이곳에서 나가주시길 바랍니다. 저쪽의 순경님을 따라 바깥에서 연락처를 남겨주시면 됩니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "점술 살롱에 있던 사람들이 울타리 속의 양처럼 잇따라 걸어 나갔는데, 수군대는 소리는 여전히 끊이지 않았다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "집회 참석자Ⅰ",
+          "text": "죽기 전의 그 모습... 정말 무서웠어. 오늘 밤은 악몽을 꿀 게 분명해..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "집회 참석자Ⅱ",
+          "text": "그러니까 내가 오지 말자고 했잖아! 점술은 무슨... 그런 건 재앙을 불러온다고!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "집회 참석자Ⅲ",
+          "text": "갑자기 병이 도진 걸까? 그 히스테리였나...?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "집회 참석자Ⅰ",
+          "text": "아, 그거? 파비오랑 프랑코가 며칠 전에 이야기한 걸 들었어! 자신을 리슐리외 추기경의 근위대라 주장하는 이웃이 빗자루를 타고 창문 밖으로 뛰어내렸대. 아직도 병원에 있다더라."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "집회 참석자Ⅱ",
+          "text": "아니면... 혹시 그 점술사가 한 말 기억해? 정말로 그것 때문일 수도 있어..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "집회 참석자Ⅰ",
+          "text": "...‘제보당의 괴수’?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "백 년 전의 소문이 또다시 섬뜩한 그림자를 드리우자, 모든 손님의 얼굴에 공포와 은밀한 흥분이 퍼져나갔다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "순경",
+          "text": "여러분!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "순경",
+          "text": "이 사건은 파리 경찰국에서 최우선적으로 수사할 예정이니, 소문을 퍼트려 공포를 확산하지 마시길 바랍니다! 시민의 안전은 저희가 지키겠습니다!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "사람들은 이야기를 멈췄지만, 표정을 보니 그 말은 큰 효과를 내기 어려워 보였다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "방을 꽉 채웠던 사람들이 떠나고, 중요한 ‘증인’만 몇 명 남았다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "이 일은 절대 내 탓이 아니야. 난 그 사람에게 닿은 적도 없다고! 펠리시엔느, 네가 증인이 되어 줄 거지...?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "펠리시엔느?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "아델이 고개를 돌리자, 바닥의 시신에 집중하면서 그 주위를 천천히 돌고 있는 고용주가 보였다. 그녀는 흥미진진한 듯 눈을 반짝이고 있었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "펠리시엔느",
+          "text": "이렇게 흥미로운 여흥 거리가 있을 줄이야..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "아! 너무 가까이 가면 안 돼! 그러다가 현장을 훼손하기라도 하면 어쩌려고 그래!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그녀는 제멋대로인 고용주 때문에 또다시 머리가 아팠지만, 다행히도 옆에 있는 순경의 주의는 다른 쪽에 가 있었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "순경",
+          "text": "하아, 또 ‘제보당의 괴수’라니..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "...또 라니? 그게 무슨 뜻이야, 뱅자맹?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "아델은 궁금하다는 듯 지인인 순경을 쳐다봤다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "순경",
+          "text": "어디서 시작된 소문인지 모르겠어. 애초에 말도 안 되는 이야기인데 파리 전역에 떠돌고 있다니까!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "순경",
+          "text": "‘제보당의 괴수’를 봤다고 신고하는 사람이 한둘이 아닌데, 가서 보면 흔적 하나 찾을 수 없어! 그 사람들 머리가 어떻게 된 게 아닌가 싶다니까!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "순경",
+          "text": "거리가 혼란스러워지면서 범죄도 늘어나고 있어. 지난번에 증거물 감정을 부탁했던 그 사건도 마찬가지야..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그는 관자놀이를 누르면서 한숨을 내뱉었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "순경",
+          "text": "요즘 안 그래도 바쁜데! 도시 절반이 파업 중인 데다, 공장에서는 파티까지 열리고 있어... 경찰이 할 일은 이미 넘쳐난다고!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "순경",
+          "text": "가끔 진심으로 네가 부럽기도 해, 아델. 매일 택시로 외지인을 데리고 여기저기 둘러보기만 하면 되잖아."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "하하... 뭐, 누구나 고민은 있기 마련이니까."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "아델은 펠리시엔느가 있는 곳을 힐끗 바라봤다... 그녀는 이미 그 시신에 흥미를 잃었는지, 어떤 생각에 잠겨 구석의 빈 의자를 노려보고 있었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "순경",
+          "text": "하, 그렇게 말할 줄 알았어."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "순경은 수첩과 펜을 꺼냈다. 다시 고개를 든 그에게서는 친한 지인을 대하던 분위기가 거의 느껴지지 않았다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "순경",
+          "text": "자, 그럼 시작해 볼까? 몇 가지 질문에 답해줬으면 해. 부디 협조해 줘."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "순경",
+          "text": "우리가 오랜 친구라고는 하지만, 공과 사는 구분해야지. 어찌 되었든 당시 그녀와 가장 가까이 있었던 사람은 너였으니까."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "물론이지. 이해한다고."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "증거물은 이미 수거해갔고, 법의학자가 바닥의 시신을 살펴보는 중이었다. 점술사는 흉측하고 끔찍한 상태로 죽어 있었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "순경",
+          "text": "푸른 입술에 확장된 동공, 손가락은 움츠러들고 척추는 경직되어 있었다... 비록 초기 판정이기는 하지만, 모든 증상이 너무 놀라서 사망에 이르렀다는 사실을 가리키고 있어."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "너무 놀라서 사망했다니? 그..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "순경",
+          "text": "혹시 당시 현장에서 뭐 특별한 일 없었어?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "내 점을 치고 있었어. 그런데 도중에 엄청 이상한 행동을 하더라고. 갑자기 나를 뚫어지게 쳐다보더니, 이해할 수 없는 말들을 줄줄이 늘어놓더라."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "여러 ‘예언’을 내뱉던 거였고, 그 후 ‘괴수’에 대해 뭔가 말하다가 바닥으로 쓰러졌지..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "순경",
+          "text": "그렇다면 점을 치다가 너한테서 ‘제보당의 괴수’를 보고... 놀라서 사망했다는 거야?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "믿기지 않겠지만, 내가 본 건 그래."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "두 사람은 잠시 서로의 얼굴을 멀뚱히 쳐다봤다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "펜을 든 순경의 손은 한참 동안 움직이지 않았는데... 그 헛소리 같은 말이 실제로 가치가 있는 정보인지 가늠하고 있는 게 분명했다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "결국 그는 수첩을 닫고, 어쩔 수 없다는 표정을 지었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "순경",
+          "text": "됐다. 고마워, 아델. 아무래도 도시를 시끄럽게 하는 소문과 함께 조사해 봐야겠어."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "순경",
+          "text": "따지고 보면 ‘제보당의 괴수’는 백 년 전에 떠돌던 소문이잖아. 왜 갑자기 지금 와서 영문도 모르게 떠돌기 시작한 거지?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "순경",
+          "text": "그 부분에 대한 문제가 한둘이 아니야. 파리뿐만 아니라 프랑스 전체가 그 일로 불안에 휩싸인 상태라고 할 수 있어. 그리고 혼란은 언제나 소문과 함께 찾아오지."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "그러네. 많은 사람이 그 소문을 이용해 무언가 하려 하겠지."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "예를 들어 ‘예언’을 남긴 이 점술사라던가 말이야. 어디서 우리 가문의 이야기를 들었는지, 나랑 전혀 상관없는 것으로 속이려 들 줄이야."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "순경",
+          "text": "너희 가문 사람들이 보물을 찾다가 불행하게 저주에 걸린다는 그 이야기 말이야?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "순경",
+          "text": "타베르니에 가문에 대해 조금만 신경 써서 알아보기만 해도 알 수 있는 거니, 비밀이라고 할 수는 없지."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "그렇지. 딱히 그녀의 말을 믿을 생각은 없어. 결국 ‘저주’에 관한 이야기는 가장 잘 알려진 몇몇 조상들로부터 생겨난 거니까."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "예를 들어, 우리 증증증증증증조부가 인도에서 유명한 ‘프렌치 블루’를 가져온 후 얼마 지나지 않아 목숨을 잃은 이야기라던가."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "또, 우리 증조부가 대혁명 기간에 도난당한 보물을 찾으러 해외로 나갔다가 바다에서 폭풍우를 만나 목숨을 잃은 이야기라던가..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "정말로 어떤 신비로운 힘에 의한 것이든, 우연으로 인한 것이든, 마음에 담아둘 필요는 없지."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "순경",
+          "text": "그렇긴 하지... 너희 부모님도 보석 사냥꾼이라고 했었지? 그분들은 괜찮으셔?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "아직도 해외 여기저기를 돌아다니고 있어. 가족이랑 만난 지도 정말 오래됐네."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "그래도 가끔 집으로 편지 보내는 걸 보면, 잘 지내고 계시는 것 같아."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "순경은 무거운 짐을 내려놓은 것처럼 숨을 내뱉었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "순경",
+          "text": "다행이네! 보석을 찾으러 세상을 떠돌다니... 정말 멋진 것 같아! 분명 나처럼 종일 한 곳에 틀어박혀 몇십 년 동안 같은 나날을 보내는 것보다는 훨씬 더 재미있겠지."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "순경",
+          "text": "넌? 언제쯤 부모님의 뒤를 따라 보석 사냥꾼이 될 생각이야?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "난 부모님과 달라. 반짝이는 것들에 별로 관심이 없어서."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "내가 원하는 건 평범한 하루하루를 보내는 거야. 돈은 쓸 만큼만 벌면 돼. 편안하고 자유로운 게 중요해. 너무 바쁘지 않고, 매일 눈이 저절로 떠질 때까지 자고, 지나치게 머리 쓸 필요도 없는 일이 최고야..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "그러다 친구랑 별생각 없이 채용 책자의 아무 페이지나 펼쳐보던 중에 처음 본 단어가 바로 ‘택시 운전 기사’였어. 딱 이거다 싶었지."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "순경",
+          "text": "하하! 확실히 너에게 어울리는 것 같아."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "순경은 고개를 끄덕이며 손에 든 수첩을 주머니에 다시 집어넣었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "순경",
+          "text": "됐다. 어떤 상황인지 대략 파악했어."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "순경",
+          "text": "너무 걱정할 필요 없어. 너에게는 동기도 수단도 없으니... 지금 봐서는 이 일과 관련 없는 것 같으니까."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "순경",
+          "text": "나중에 또 협조해야 할 일이 생기면 연락할게. 혹시 더 할 말 있어?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "고마워, 뱅자맹. 더 이상 없어..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "아! 잠깐만..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "한 가지 있어. 네게 도움이 될지는 모르겠지만... 수상한 여자를 봤어."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "너무 갑작스럽게 벌어진 일이다 보니 대부분 깜짝 놀랐는데, 그 여자만 아무렇지도 않게 자리에 앉아 있었거든... 심지어 웃기까지 했어."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "순경",
+          "text": "뭐? 그 사람이 어떻게 생겼는지 기억해?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "아델은 떠오르는 모습을 빠르게 묘사했다. 하지만 바짝 긴장했던 순경은 다 듣고 나자 오히려 표정이 누그러졌다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "순경",
+          "text": "아! 그 사람은 아마 베릴 부아닉 씨일 거야. 뤼 드 라 페의 수정 공방 주인이자 점술사지."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "순경",
+          "text": "이 사건을 신고한 것도 바로 그 사람이야. 이미 얘기해 봤어."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "그 사람이... 신고자라고?"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

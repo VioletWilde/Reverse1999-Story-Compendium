@@ -1,0 +1,1300 @@
+{
+  "episode_id": 11023,
+  "chapter_id": 110,
+  "chapter_title": "復楽園",
+  "display_label": "",
+  "title": "そして救世主が現れた",
+  "subtitle": "時間は私を押し流す洪水だ。だが、私もまたその流れの一部である。",
+  "trails": [
+    {
+      "element_id": 101023,
+      "owner_episode_id": 11023,
+      "trigger_episode_id": null,
+      "title": "洪水の中",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=11023",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1010231,
+      "owner_episode_id": 11023,
+      "trigger_episode_id": null,
+      "title": "エラ呼吸",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=11023 and ChapterMapElement=101023",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "終わりのない大雨が洪水を招く。当然の結果だ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "これが最後の報告だ。人と鳥の時代は終わった。これからは魚の時代が始まる。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "だが、魚たちはもう少し待つことになったようだ。君のせいで、世界の終末はおよそ１時間後に延期された。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "その１時間のために、世界中の人々から感謝されるだろう。とんでもない大きさの勲章を授けられるかもしれんな。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "きっと方法が残ってる",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "ああ。傘が役に立たないなら、箱舟がある。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "かつてのように、資格がある動物だけを箱舟に乗せ、力を温存すれば…"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "君はまだまだ戦える。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "聞きたくないのはわかるが、最後の任務くらいまっとうさせてくれ。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "万有引力のおかげで、高いところに住んでいる住民は少しだけ長く生き延びることができる。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "橙色の子犬と抱きしめ合いながら、思い出話を楽しむ時間もある。終末が地球の極点から、もう片方の極点へ向かう様子を眺めながらな。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "もしくは…軍人らしく、最期まで命令に従ってもいい。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "「あの作家を見つけろ」"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "この任務の重大さは、説明するまでもないだろう。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "黙ってて",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "101031",
+      "internal_title": "第十章10-22.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "そして救世主が現れた"
+        },
+        {
+          "kind": "title_card",
+          "text": "火山の神殿　祭壇"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アニムス",
+          "text": "ああ…この目で見届けられるとは…なんという幸せ、なんという光栄！　崇高なる神秘学の聖母よ――"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アニムス",
+          "text": "信者たちはあなたのお導きを心待ちにしております！　どうか大いなる御力をもって、すべてを包み込み、すべてを作り直し、原初の楽園への回帰を果たしたまえ！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "アルカナ…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アルカナ",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "復活を果たした神は無限にある腕の中の一本をあげ、空中でその指先をそっと押した。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "すると、井戸から噴き出していた液体がうねりはじめ、通り過ぎるものすべてを貪るように呑み込んだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ノーティカ",
+          "text": "あれは…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "液体に気をつけてください！　普通の水ではありません！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "井戸から湧き出すあの水は…まさか、「ストーム」！？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アニムス",
+          "text": "「ストーム」？　ほほっ…ふぁーっふぁっふぁっ！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アニムス",
+          "text": "悲しき羊よ。おぬしは、あのお方の偉大さをちっとも理解しておらん。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アニムス",
+          "text": "あれはただの「ストーム」ではない。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アニムス",
+          "text": "蘇生の母、秘なる伝授者が我々にもたらしたのは――"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アニムス",
+          "text": "――偉大なる、すべてを過去へ帰す「洪水」じゃ！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "……！"
+        },
+        {
+          "kind": "title_card",
+          "text": "南極の海域"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "軍艦兵士Ⅰ",
+          "text": "艦長！　ほ、報告します！　水が…水が上がってきました――！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "軍艦兵士Ⅰ",
+          "text": "デッキまで…いえ、我々の足元まで、水が上がってきています…！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艦長Ⅱ",
+          "text": "船倉が浸水しただけだ、慌てるな。ダメコンに浸水箇所を調べさせろ！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "軍艦兵士Ⅰ",
+          "text": "いえ、海水じゃありません、あれは…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "軍艦兵士Ⅱ",
+          "text": "艦長！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艦長Ⅱ",
+          "text": "なんだ！？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "軍艦兵士Ⅱ",
+          "text": "マヌス・ヴェンデッタです！　急に攻撃をやめて、何か呪文を唱えだしました…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艦長Ⅱ",
+          "text": "呪文？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "詠唱する声が、凍りついた海岸からかすかに聞こえる。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "教徒たち",
+          "text": "数知れない潮、渦巻く満ち引きに従いて"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "教徒たち",
+          "text": "冒涜を以て、天を汚す"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "教徒たち",
+          "text": "鎖を砕く者よ、すべてを支配する蘇生の母よ"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "教徒たち",
+          "text": "降臨せよ、崇高なる福音よ"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艦長Ⅱ",
+          "text": "各員、持ち場を離れるな！　冷静に対処しろ！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "艦長は注意を払いながら、船倉の内部から湧き出る水に近づいた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "軍艦兵士Ⅰ",
+          "text": "艦長！　この水、様子がおかしいです――"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "艦長の靴はすでに水に浸っていた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艦長Ⅱ",
+          "text": "…なに？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艦長Ⅱ",
+          "text": "俺の足が…消えた？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "水に浸かった箇所はあっという間に溶けだし、消え去り、洪水の一滴となる。彼の身体は接触したところから綺麗に切り取られ、血を流すこともなく、痛みもなく…まるで初めから存在していなかったかのように感じた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "目の前の「海」にはなんの影も映らない。かわりに映るのは十年、百年、千万年前の廃墟の景色だ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "無数の水鳥が狂ったように集まり、群れを成し、水へと突っ込む。それらはまるでマグマに呑まれるかのように洪水に焼かれ、無限に広がる水のなかに消えた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "軍艦兵士Ⅱ",
+          "text": "…うわああああ！！！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "悲鳴が聞こえた。心の弱い兵士が頭を抱え、叫びながら高い場所を目指して逃げ出したのだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "次の悲鳴が口から出るより先に、洪水に呑み込まれ、彼は消えた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "教徒たち",
+          "text": "来たる未来の恩典はついに顕現の時を迎え、我ら信者はこの時より祝福を得たり。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "教徒たち",
+          "text": "至高なる御身の、今一度地上に降臨なされることを、我らは心より願い奉る。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "教徒たち",
+          "text": "無窮にして偉大なる御力を以て、約束の地を再び築き上げたまえ！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "軍艦兵士Ⅰ",
+          "text": "――艦長！！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艦長Ⅱ",
+          "text": "これは普通の洪水じゃない。クレウス長官が言っていたあの…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艦長Ⅱ",
+          "text": "今すぐソーム元帥に連絡しろ！　全員、平衡傘をさせ！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "傘が次々と開く。傘の下からは強力な光が放たれていた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "艦長Ⅱ",
+          "text": "平衡傘は「ストーム」をかき消せる。だからきっと…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "しかし、言い終わる前に、洪水は人と平衡傘を等しく呑み込んでしまった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "痕跡すら残さず、それらは水に溶けた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "兵士が助けを求める声と、マヌス・ヴェンデッタが作り出した怪獣の咆哮が絶え間なく響き渡っていたが――あっという間に、すべての音が消え去った。"
+        },
+        {
+          "kind": "title_card",
+          "text": "元ゼノミリタリーのある駐屯地"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "イゴール元帥",
+          "text": "…１９９９年の出来事が再び繰り返された。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "元帥は遠くにある艦隊が沈みゆく様子を眺めていた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "イゴール元帥",
+          "text": "指令を下す者にとって、彼らはチェス盤におけるコマ、報告書に記された数字に過ぎない。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "イゴール元帥",
+          "text": "きたる災難にとって、彼らの力はないに等しい。しかし、彼らはそれすら知らず。それを知る者は、彼らの命など気にもせん。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "イゴール元帥",
+          "text": "投入され続ける命と情熱も、最後は無に帰すのだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "海面は速やかに上昇し、遠くあったはずの棚氷はすでに視界から消えていた。世界にはもはや洪水しか残らず、それは透明なヴェールのようにすべての不純物をかき消していた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "トレミー",
+          "text": "父さん。姉さんの軍隊と合流したよ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "イゴール元帥",
+          "text": "人数の点呼は終わったか？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "トレミー",
+          "text": "マヌス・ヴェンデッタの影響を受けた患者含め、全員の確認が終わった。リスト通りだったよ。ただし、ダニロフ機長と…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "トレミー",
+          "text": "姉さんが、いない。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "イゴール元帥",
+          "text": "わかった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "イゴール元帥",
+          "text": "行こう。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "トレミー",
+          "text": "どこへ？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "イゴール元帥",
+          "text": "洪水から我々を守る、奇跡の場所へ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "元帥は懐から黒い箱を取り出した。その箱は宙に浮かぶと、元帥の手の上でゆるゆると回り出す。それはかすかに金色の光を放っていた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "トレミー",
+          "text": "これが、マヌス・ヴェンデッタとの取引の成果？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "元帥は小さくうなずいた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "イゴール元帥",
+          "text": "もはや無意味な犠牲は不要だ。我々は新たな道へと突き進む。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "トレミー",
+          "text": "でも、姉さんが…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "イゴール元帥",
+          "text": "モルダーにもまた、自分が選んだ道があるだろう。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "元帥はまるで自分が来た道を見つめるかのように懐かしげな目で、遥か向こうにある雪山の頂きを眺めた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "イゴール元帥",
+          "text": "モルダーを信じよう。"
+        },
+        {
+          "kind": "title_card",
+          "text": "火山の神殿　山の坂"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ウルリッヒ",
+          "text": "騒ぐ魔精、異常な海水、急な雪崩…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ウルリッヒ",
+          "text": "――クソッ、マヌス・ヴェンデッタの儀式が始まってるに違いない！　一刻も早く対策を…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "護衛兵",
+          "text": "旦那！　今はそんなこと言ってる場合じゃないって！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "もぐナッツ",
+          "text": "雪崩がくるぞ！　路線変更だ――皆！　ついてこい！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "護衛兵は現状分析に没頭している研究員を担ぎ上げ、全力で走り出した。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "もぐナッツ",
+          "text": "まずい、雪が落ちてくる！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "護衛兵",
+          "text": "っ…！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "護衛兵は雪崩による激しい揺れのなかで踏ん張ろうとしたものの、あっけなく崩れ落ちた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "大きな雪の塊がウルリッヒに襲い掛かり、磁性流体を包んでいるガラス容器を吹き飛ばした。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ウルリッヒ",
+          "text": "くっ…！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "護衛兵",
+          "text": "――旦那、頭が！！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "容器は放物線を描き…人の手にしっかり受け止められた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "モルダー",
+          "text": "…ふぅ。間にあったようね。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "突風に吹かれる帽子の下から、黒い髪がはたはたと舞う。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "モルダー",
+          "text": "ダニロフ機長、高度を下げて、吊りはしごを出してちょうだい。援護するわよ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "モルダー",
+          "text": "みんな、こっちよ！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "激しい風の音のなかでも、彼女の声ははっきりと聞こえた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "もぐナッツ",
+          "text": "モルダー中尉！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "モルダー",
+          "text": "ごめん、遅れたわね。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "護衛兵は急いで意識覚醒者の身体をヘリの中へ押し込んだ。元ゼノミリタリー近衛兵団副官の助けを借り、二つの小隊はようやく合流を果たした。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "幸いにも、班長のガラス容器に少しヒビが入った以外、神秘学家やペンギンたちに怪我はなかった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "もぐナッツ",
+          "text": "来てくれて助かったよ、モルダー中尉！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "モルダー",
+          "text": "礼はけっこうよ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "モルダー",
+          "text": "水が上がってきているわ。これは普通の海水じゃない…「ストーム」以上の破壊力があるはずよ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "モルダー",
+          "text": "この「洪水」は、すべてを消し去る力がある。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ウルリッヒ",
+          "text": "マヌス・ヴェンデッタの儀式が始まったようです。なんとかしないと。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "研究員は頭を身体に固定しなおし、「非対称型ヌクレインＲ」の採取装置を取り出した。外の風がどれだけ激しくても、磁性流体は今までと変わらず容器の中を素早く流れる。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "採取装置はあっという間に金色の流体で満たされた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ウルリッヒ",
+          "text": "空気中で急速に上昇している非対称型ヌクレインＲの濃度と、「ストーム」に似た一連の現象から、ある結論に辿り着きました――"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ウルリッヒ",
+          "text": "「洪水」と「ストーム」には一定の関係性があります。もしくは、「洪水」は「ストーム」のもう一つの姿なのかもしれません。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "モルダー",
+          "text": "それじゃあ、あなたたちが言っていた「レグルス」というレコードが役に立ちそうかしら？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ウルリッヒ",
+          "text": "理解が早いですね、中尉。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ウルリッヒ",
+          "text": "このレコードに時代病の進行を遅らせる作用があるなら、儀式の進行にも効果があるかもしれません。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ウルリッヒ",
+          "text": "できるだけ早くレコードを流して、磁場を生成しましょう。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ウルリッヒ",
+          "text": "山奥の儀式現場を効果範囲内に収めるためにも、一秒でも早く山頂に向かわないと！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "モルダー",
+          "text": "ダニロフ機長！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "機長",
+          "text": "了解！　しっかり座っていてくださいね！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "息の合った軍人たちに余計な指示はいらない。「キャニス・ミノール号」はプロペラの轟音を響かせ、斜めに傾いたまま上昇を始めた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "モルダー",
+          "text": "海面の上がる速度からみて、間に合うかどうか…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ウルリッヒ",
+          "text": "マヌス・ヴェンデッタの儀式を止めようとしているのは、ボクたちだけではありません。タイムキーパーたちも頑張っているはずです。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "騒がしい風の音の中、磁性流体の声にこもった意志はハッキリと伝わってきた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ウルリッヒ",
+          "text": "モルダー中尉。これまでの無数の研究、無数の成功と失敗のなかで、ボクが気づいたもっとも大事なこと、それは――"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ウルリッヒ",
+          "text": "協力者を信じて、全力を尽くすこと。これにつきます。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "…水位が凄まじい速度で上がってる。このままだと、洪水にすべて呑み込まれてしまう。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "儀式を破壊して、洪水が広がるのを止めないと。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "儀式、霧、洪水――怪しい巨体には、そのすべてをまとっていた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "アルカナを攻撃して！　隙が出来るかもしれない！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ノーティカ",
+          "text": "う、うん！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "鉛でできた矢がよどむ空気を切り裂き、動こうとしたノーティカの足の先に突き刺さった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アニムス",
+          "text": "ふふ、たわけが。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アニムス",
+          "text": "世界が遡るのは必然よ。おぬしらのようなただの虫けらに、どうこうできるとでも思っておるのか？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アニムス",
+          "text": "おぬしらが言う「今」と、今起きているすべては――偽りの根に生えた罪の果実でしかない。そもそも存在すべきではないものじゃ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アニムス",
+          "text": "洪水がすべてを水没させる光景を見届けるがよい。罪がすべて消え、世界が原初の、あるべき姿へ戻る光景をな！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アルカナ",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "「アルカナ」の巨体が少し動いた。よく見えないその顔に、どこか懐かしい微笑みが浮かんだような気がした。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アニムス",
+          "text": "おお、おお！　崇高なる聖母よ！　我々は聞き、我々は理解した！　あなた様の教誨を、今こそ実行してみせようぞ！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アニムス",
+          "text": "その慈悲深き御力をもって――こ奴らを全員、ここに留めたまえ！"
+        }
+      ]
+    },
+    {
+      "script_id": "101032",
+      "internal_title": "第十章10-22.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "ミス・ノーティカ、黒い粘液の攻撃に気をつけてください！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ノーティカ",
+          "text": "ヴェルティ、ソネット、わたしにつかまって！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "飛鳥は翼を伸ばし、粘液でできた無数の矢に向かって突き進んだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "――！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "降り注ぐ矢の雨に突入する寸前に、ノーティカは翼をたたみ、矢と洪水の間をすり抜ける。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ノーティカ",
+          "text": "う、くっ…みんな、大丈夫？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "ミス・ノーティカ、火傷が！　今すぐ治療します！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ノーティカ",
+          "text": "だ、大丈夫だから、わたしにしっかりつかまって！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "でも、きみが傷を負ってまで、攻撃をいなし続けるのは違うよ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ノーティカ",
+          "text": "…わ、わかった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ノーティカ",
+          "text": "どうすべきか教えて、ヴェルティ！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ノーティカ",
+          "text": "この新しい力、まだ使いこなせないの。でも、あなたなら最善の方法を思いつくって信じてる！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "そうですね、どうか指揮をとってください、タイムキーパー。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "わかった。みんな、わたしに力を貸して。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "翼は再び空へ広がり、仲間も地面を固守し続けた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アニムス",
+          "text": "卑しい虫けらめ。どうあがこうとも、無駄じゃ！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アニムス",
+          "text": "「洪水」がもたらす空白時代の証人たちは、我々の呼び声に耳を傾けるじゃろう。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "身がすくむほどの不気味な言葉が投げかけられる。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アニムス",
+          "text": "貴様らも、神殿の上に忍び寄った虫けらどもも、過去が蘇るための礎になろうぞ！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "タイムキーパー、ウルリッヒ班長たちも危ないかもしれません！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "落ち着いて、ソネット。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "できるだけアニムスを攻撃してほしい。彼女の神秘術を止めることができたら、ウルリッヒ班長たちを助けられるかも。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "それから…できれば、ドクター・ドレスを探してほしい。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "わかりました、タイムキーパー。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ノーティカ",
+          "text": "ヴェルティ、水がどんどん上がってきてるよ！　このままだと、飛べるスペースすらなくなっちゃう！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "そうだね。できるだけ洪水から離れて、戦うためのスペースを作らなくちゃ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "ノーティカ、神殿を破壊できる？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ノーティカ",
+          "text": "し、神殿を破壊？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "うん。きみが初めて飛んだ時、横にあった壁の石を踏み砕いたでしょ？　あの感じで破壊してくれたら助かる。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "前方を見ると、怪しげな神の巨体は無数の黒い血管を通じて神殿全体と繋がっていた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "神殿はアルカナに力を供給してる。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "もし神殿に穴を開けられたら、アルカナを弱体化できるかもしれない。そうすれば、飛行スペースを確保できるし、落石で攻撃を仕掛けられる。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ノーティカ",
+          "text": "ふぅ、っ…わかった、任せて！"
+        }
+      ]
+    },
+    {
+      "script_id": "101033",
+      "internal_title": "第十章10-22.3",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "火山の神殿　山野"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "モルダー",
+          "text": "ここが神殿の真上よ、ウルリッヒ班長！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ウルリッヒ",
+          "text": "海面の上昇速度が早すぎます。時間がありません。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "ヘリコプターが着地するより前に中尉はヘリから飛び降り、すぐに意識覚醒者が降りるのを手伝った。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ウルリッヒ",
+          "text": "早速始めましょう。レコードプレーヤーを設置し、磁場を…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ウルリッヒ",
+          "text": "クソ！　地磁気状況が変化し続けている！　プレーヤーを理想的な状態に調整できない！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ウルリッヒ",
+          "text": "今まで行った２３００回の実験のどれとも違う。空気中に漂う非対称型ヌクレインＲの濃度は、想像以上だ！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ウルリッヒ",
+          "text": "変量が多すぎる。この状況で、「レグルス」が期待通りの効果をもたらしてくれるかどうか…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "磁性流体は混乱しながら自分を無数の点へと分解し、再び勢いよく一つにまとまった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ウルリッヒ",
+          "text": "とりあえず、環境内の非対称型ヌクレインＲ濃度を測り、実験数値に合わせて調整を行って…それから信号処理アルゴリズムを改善して、防護施設を…もし地磁気の変化の規則を見つけられたら…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ウルリッヒ",
+          "text": "クソ！　装置が寒さで壊れたっ！　誰か――"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "再び足元が揺れ、磁性流体は倒れそうになる。と同時に、頭上からオリティアウの叫び声が聞こえた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "モルダー",
+          "text": "気をつけて、ウルリッヒ班長。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "中尉は素早く研究員を支えた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "モルダー",
+          "text": "壊れたその環境測定装置は、私に任せてちょうだい。もぐナッツ、実験を妨害する魔物を排除して！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "もぐナッツ",
+          "text": "中尉、あれは普通のオリティアウなんかじゃない！　真んなかにいるのは…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "骨で構成された空を覆うほどの巨体をもつ生物が、発狂したオリティアウを引き連れ、山頂にいる一行に襲い掛かってきた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "もぐナッツ",
+          "text": "か〜〜っ！　厄介な奴め！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "モルダー",
+          "text": "…全員、戦闘準備を。実験が終わるまで、班長を援護するわ！"
+        }
+      ]
+    },
+    {
+      "script_id": "101034",
+      "internal_title": "第十章10-22.4",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "火山の神殿　山野"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "もぐナッツ",
+          "text": "くそったれ…鳥が次から次へと出てきやがる！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ペンギン",
+          "text": "ガア――"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "護衛兵",
+          "text": "精神錯乱も深刻な状況に…うわあ！　機長！　私の５倍圧縮チョコ味レーションを噛むな！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "モルダー",
+          "text": "ウルリッヒ班長、あとどれくらいかかるかしら！？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ウルリッヒ",
+          "text": "…神秘学材料設置完了。方位、確認。環境データ、確認。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ウルリッヒ",
+          "text": "――２１回目も失敗だ！　クソッ、磁場方位の数値がまたズレてる！　このままじゃレコードが効果を発揮できない！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ウルリッヒ",
+          "text": "最後にもう一度…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "護衛兵",
+          "text": "旦那、そろそろ行かないと！　――これ以上、ダニロフ機長を抑えられないよ！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "リス軍曹とペンギン歩兵は、モルダーによってヘリの中に押し込まれた。彼女は乗降口の縁に足をかけ、身を乗り出し、手を伸ばした。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "モルダー",
+          "text": "ウルリッヒ班長、私の手を掴んで！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ウルリッヒ",
+          "text": "デフォルト値調整、パラメータ設定完了。これが最後だ――！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "中尉が磁性流体の襟を掴み、飛び立とうとするその瞬間――磁性流体は再びレコードに針を落とした。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ウルリッヒ",
+          "text": "地磁場の激しい揺れが止まりました…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ウルリッヒ",
+          "text": "…成功です！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "モルダー",
+          "text": "見て――海面の上昇が止まったわ！"
+        },
+        {
+          "kind": "title_card",
+          "text": "火山の神殿　祭壇"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "聞こえますか、タイムキーパー？　レグルスがよく聴いているロックミュージックです！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "洪水が徐々に収まってきています。ウルリッヒ班長たちが、儀式の妨害に成功したようです。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "洪水の邪魔がなくなったこの隙に、ノーティカ！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "ロックミュージックにあわせて、鳥は神殿にある最後の柱を踏み砕いた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ノーティカ",
+          "text": "で、できた！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "やったね、ノーティカ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "神殿が崩れるよ！　気をつけて！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "鳥は落ちてくる石を避けながら飛んだ。激しい揺れによって、祭壇はあっという間にがれきと化す。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "落下する石がすべてを葬る。一番下にある巨大な石の下から、信者の黒い服が覗いていた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アニムス",
+          "text": "っ…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アニムス",
+          "text": "冒涜的な…奴らめ…っ！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "最後の石板が落ちる。老婆は血と息を噴き出し、二度と声を発することはなかった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ノーティカ",
+          "text": "…ここなら安全かな…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "ノーティカは洪水の届かない狭い空間で慎重に翼を広げると、二人をその安全地帯に下ろした。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "すべてが…がれきと洪水に葬られました…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "ですがアルカナは…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アルカナ",
+          "text": "おぞましい神の体はどんどんと溶け、やがてどこか見覚えのある人の形へと変わった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アルカナ",
+          "text": "それはつま先から水面に降り立つと、崩れゆく神殿を見上げた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アルカナ",
+          "text": "この終章、美しい挽歌が欠けているわね。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アルカナ",
+          "text": "しー…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "崩れつつあった神殿が一瞬で静まり返り、彼女の言葉だけが響く。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アルカナ",
+          "text": "曲の最後の音が消えたとき、洪水は再び湧き出すでしょう。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アルカナ",
+          "text": "古い時代は遡り、新しい秩序が生まれようとしている。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "アルカナは水のなかに佇み、一行に向かい微笑みかけた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アルカナ",
+          "text": "そなたの世界は終焉を迎えようとしているわ、「みんなを導く救世主」…残念だけれど、まだ立ち止まるときじゃない。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アルカナ",
+          "text": "また会いましょう、ヴェルティ…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アルカナ",
+          "text": "「われらの世界」でね。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "彼女の姿は湧き上がる水のなかに消えた。"
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

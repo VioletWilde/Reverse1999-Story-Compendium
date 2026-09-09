@@ -1,0 +1,684 @@
+{
+  "episode_id": 1810114,
+  "chapter_id": 18101,
+  "chapter_title": "さらば、ライヤシュキ",
+  "display_label": "",
+  "title": "現実から現実へ",
+  "subtitle": "ある現実から、別の現実へ。",
+  "trails": [
+    {
+      "element_id": 1811401,
+      "owner_episode_id": 1810114,
+      "trigger_episode_id": null,
+      "title": "荷卸し場",
+      "description": "労働エリアに反響する歌から、物語が始まった。そうだ、これは新しい一日だ。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=1810114",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1811402,
+      "owner_episode_id": 1810114,
+      "trigger_episode_id": null,
+      "title": "足を速める",
+      "description": "足を速める",
+      "action": "",
+      "unlock_condition": "ChapterMapElement=1811401",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "町民Ⅰ",
+          "text": "見つかった部品を同志たちに見てもらおう…ベテラン鉱夫の勘だが、これはまだまだ使えるぞ！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "町民Ⅰ",
+          "text": "今も新品みたいにピカピカしてるのは、ルーン鉱石が入ってるからかもしれんな。とにかく、今は合金の材料が厳しい。部品は多いに越したことはないからさ…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "町民Ⅱ",
+          "text": "ヴィラ同志なら、この時間は子どもたちといるんじゃないか？　子どもたちの授業を、何よりも大切にしてるからな。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "町民Ⅱ",
+          "text": "もしかしたら、廃鉱の同志たちが帰ってきてるかもしれないぜ？　近道を使って旅館に行って、エフゲニー同志に見てもらおうか。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "町民Ⅰ",
+          "text": "ああ、そうしよう。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "町民Ⅰ",
+          "text": "おい、見ろよ。あいつら、ゼノミリタリーの軍人か？　旅館の前にいるのは――しー…声が大きい。気づかれちまうだろう？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "町民Ⅱ",
+          "text": "ああ、多分軍人だろうな。エフゲニー同志は今ゼノミリタリーと談判してるから、彼に会いに来たんだろう。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "町民Ⅰ",
+          "text": "行ったな。どうやら、エフゲニー同志はいないようだ。また今度にするか。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "町民Ⅱ",
+          "text": "そうだな。明日、明後日にまた来よう。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "町民Ⅱ",
+          "text": "…正直言うと、このまま町から出ろって言われても、俺は納得できないよ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "町民Ⅰ",
+          "text": "ケッ、俺だって…ついこないだ雪かきでついた傷は今も消えてないし、家の窓を補修したばっかなんだ。納得してるやつなんかいねぇよ！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "町民Ⅱ",
+          "text": "でも、エフゲニー同志は一度も嘘をついたことがない。彼が言うなら…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "町民Ⅰ",
+          "text": "なんだ、聞かれるのが怖いのか？　確かにここは会議室から近いが、それにしても――"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "町民Ⅱ",
+          "text": "そうじゃない。怖かったら最初からここに来ねぇって！　開拓の時だって、誰一人怖いなんて言わなかっただろ？　俺が言いたいのは、ヴィラ同志が言ってたことは、開拓の時にみんなが思ってたことと同じだなって。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "町民Ⅱ",
+          "text": "町ができて、みんな住み慣れてきて、昔みたいにバタバタしなくなってからしばらく経って…こんなにやる気を出したのは久々だからさ。つい、嬉しくなってよ！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "町民Ⅰ",
+          "text": "ハハ、じゃあもうひと頑張りすっか！　まだ仕事が残ってんだから、さっさと現場に戻るぞ！"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "200822",
+      "internal_title": "【1.8】再见，来亚什基-14.1",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "数日後"
+        },
+        {
+          "kind": "title_card",
+          "text": "ライヤシュキ・児童広場"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ニーナ",
+          "text": "ヴィラ先生、大人たちがなんだかおかしなことをしてるみたいなの。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ピョートル",
+          "text": "父さんは古い本を掘りだして、毎晩ネジや図面と向き合ってる。「これは町を救う大事な鍵になるぞ」って言ってた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ピョートル",
+          "text": "でも、俺は父さんの本は理解できないし…力になれない…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ニーナ",
+          "text": "うちのパーパもね、最近ベッドの下に置いてたガラスの瓶をいじってるの。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ニーナ",
+          "text": "でも今回、マーマはパーパの耳をひねったりしなくなったよ。引き出しにある貴重な宝物をパーパに渡してたもん。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ニーナ",
+          "text": "トナカイの角、やんちゃ樺の粘液、金歯アザラシのヒゲ…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ニーナ",
+          "text": "調合した薬を飲めば、一日中元気になれるってパーパが言ってた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ピョートル",
+          "text": "ケチなおじさんですら、大事にしまってたお宝のワンドを出してくるぐらいだ！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "子どもたちはヴィラを囲んだ。幼い顔は好奇と困惑に満ちている。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴィラ",
+          "text": "ふふ…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "ヴィラが何かを言おうとしたその時、騒々しい足音が迫ってきた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "パトリッキ",
+          "text": "ガキたち、どいたどいた〜"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "パトリッキ",
+          "text": "またな、ヴィラ同志。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "しかし残念なことに、食堂から来た強行軍は願い通りに前進することはできなかった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "子どもたちの新しい的になったのだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ニーナ",
+          "text": "パトリッキおじさん…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ニーナ",
+          "text": "おじさんもおかしなことをしてるの？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "肩に背負った袋からは、本がはみ出していて目立つ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "それはレシピ本ではなく、もっと分厚く重たい何かだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ニーナ",
+          "text": "『Э-０５０型油圧ショベルの取扱説明書及び点検マニュアル』、『СК-１５６２型クレーンの操作ガイド』…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ニーナ",
+          "text": "ほこりまみれ…わたしより年上に見える〜"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "パトリッキ",
+          "text": "はは、確かに古い本だが、どれも大事な勉強資料なんだぞ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "パソノ",
+          "text": "大人にもテストがあるの…？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "パトリッキ",
+          "text": "テストよりずっと大事な勉強さ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "パトリッキ",
+          "text": "ここ最近、古い設備はまったく触ってないからな。作業員の多くは操作すらままならない状態だ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "パトリッキ",
+          "text": "それを再び使うときがきたのさ。クヌート同志は毎日、「時代遅れ」の技術を学ぶ勉強会を開いてくれてる…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴィラ",
+          "text": "大人たちは細かいチームに分かれたんです。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴィラ",
+          "text": "ミスター・クヌートは工事チームに、パソノのおじさんは調査隊に。そしてニーナのお父さんは、ポーション回復チームの一員です。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴィラ",
+          "text": "毎日夕方になると全員が模擬訓練に参加して、魔精への対処法を考えてます。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴィラ",
+          "text": "鉱山地帯を再び開発するために、みんな頑張ってるんです。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "子どもたちはもっと詳しく知ろうと、大声で質問を続ける。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "パトリッキ",
+          "text": "はっはっは、ゼノミリタリーがいなくたって、俺たちはちゃんと食っていけるさ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ピョートル",
+          "text": "ヴィラ先生、俺もこの町の自慢になりたい！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ニーナ",
+          "text": "…わたしたちにできることはある？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "パソノ",
+          "text": "僕は鉄でできた列車のおもちゃをたくさん持ってるよ。大きな機械の部品にできるかな？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "パソノ",
+          "text": "タイヤがくるくる動いて…トロッコみたいに「ウウーッ」って音を出すやつ！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴィラ",
+          "text": "とてもいい考えだと思います。多くの人が励まされることでしょう。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ピョートル",
+          "text": "ダメだ。まず俺のを使う！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "子どもたちは勇敢な戦士のように、遅れまいと先を争った。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "パトリッキ",
+          "text": "そう慌てるな、ガキども…今は俺たちがふんばるときなんだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "パトリッキ",
+          "text": "でも、未来はお前たちのもんさ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "パトリッキ",
+          "text": "お前たちが今やるべき仕事は、ちゃんと勉強をすることだ。それがいつか、ライヤシュキの未来につながる。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "パトリッキ",
+          "text": "わかったか？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ニーナ",
+          "text": "はい。でも、アヴグストくんは？　どこにいったんだろう…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ニーナ",
+          "text": "仕事をもらえなかったら、きっと悲しむよ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴィラ",
+          "text": "ふふっ…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴィラ",
+          "text": "心配はいりませんよ、ニーナ…彼も彼なりに、町のために頑張ってます。"
+        },
+        {
+          "kind": "title_card",
+          "text": "ライヤシュキ・廃棄鉱山"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "キキトゥク",
+          "text": "&*%#チュッ――！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アヴグスト",
+          "text": "耳！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "銃声のあと、一匹のキキトゥクが素早く逃走した。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "キキトゥク",
+          "text": "グッ*/#…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アヴグスト",
+          "text": "ヒゲ！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "掛け声のあとに銃声が続く。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "指揮者は疲れを感じていないようだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "町の住民Ⅰ",
+          "text": "数ヶ月経っただけで、怪物たちの遊園地と化すなんて…思ってもみなかったよ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "町の住民Ⅱ",
+          "text": "はっは〜しっかし、お茶目なチビっ子同志はすごいな。的確な指示のおかげで、神出鬼没の怪物にも対応できる。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "町の住民Ⅰ",
+          "text": "開拓チームの仕事が順調なのも、彼のおかげね。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "町の住民Ⅱ",
+          "text": "スヴィスティ同志の保証がなかったら、彼にこんな才能があるなんて、知らなかったぜ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "町の住民Ⅰ",
+          "text": "「どんな同志も見くびるな」、もう復唱する必要はないわね。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "大人たちはアヴグストをしっかりと囲み、守りながら談笑していた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "スヴィスティ",
+          "text": "よくやった、坊や…みんなを守れたぞ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アヴグスト",
+          "text": "守る…？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アヴグスト",
+          "text": "悪いお友だちに「ダンスを間違えてるよ」って教えてるだけなのに…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "スヴィスティ",
+          "text": "それが坊やの任務だ――"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "スヴィスティは相手の理解に追いつくよう、慎重に言葉を選んだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "スヴィスティ",
+          "text": "キキトゥクたちに踊りを教えてあげるんだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "スヴィスティ",
+          "text": "仲間とはぐれた魔精を見つけて、踊りを指摘してあげる…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "スヴィスティ",
+          "text": "得意だろう？　旅館のときと同じだ！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アヴグスト",
+          "text": "はぁい――！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アヴグスト",
+          "text": "でも、もしちゃんと踊れてたら？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "スヴィスティ",
+          "text": "ん…？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アヴグスト",
+          "text": "そのときはご褒美をあげないといけないよね？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "そう、仲間と一緒に行動できる賢い魔精もいる。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "彼らは力を合わせ、侵入者を追い払おうとする。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アヴグスト",
+          "text": "セルゲイ同志、新しいお友だちはきみの足元にいるよ…きみのブーツと接吻したがってる。一緒に踊ってあげられるかな？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "町の住民",
+          "text": "…へ？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "スヴィスティ",
+          "text": "危ない！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "キキトゥク",
+          "text": "ガォーッ&*%#――！"
+        }
+      ]
+    },
+    {
+      "script_id": "200823",
+      "internal_title": "【1.8】再见，来亚什基-14.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "「グサッ――」"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "町の住民",
+          "text": "えっ…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "エフゲニー",
+          "text": "どけ！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "エフゲニーが駆けつけた。白い光がキキトゥクの鼻に刺さる。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "キキトゥク",
+          "text": "――！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "エフゲニーはそのままキキトゥクの死体を蹴り、横にどけた。血が止めどなく、雪に流れる。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "彼はスヴィスティをまっすぐ睨みつけた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "エフゲニー",
+          "text": "数が多い。我々の対応能力を明らかに超えている。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "エフゲニー",
+          "text": "怪我人も続出している――撤退するべきだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "小さなうめき声が担架から聞こえる。包帯と血痕が雪原に小さな山を作っていた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "クヌート",
+          "text": "みんなで決めたことだぞ、エフゲニー同志。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "クヌート",
+          "text": "あの黒い場所にどんどん近づいてる。このタイミングで諦めるわけにはいかない！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "町の住民",
+          "text": "っ…みんな怪我してるけど、収穫がないわけじゃない。そうだろ？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "スヴィスティ",
+          "text": "私のせいだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "クヌート",
+          "text": "そう言うな、スヴィスティ同志…あんたは正しい道を示してくれたよ。おかげでチビっ子同志の隠れた才能も発掘できたしな！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "彼はアヴグストの頭を撫でた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "エフゲニー",
+          "text": "とはいえ、彼はまだ子どもだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "クヌート",
+          "text": "同時に俺たちの同志でもある。ちゃんと面倒は見るさ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "クヌート",
+          "text": "簡単な開拓じゃないことはわかってる…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "クヌート",
+          "text": "だが、成功すれば数々の心配がなくなるんだ。そうだろ？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "エフゲニー",
+          "text": "ふん…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "拍手が途切れ途切れに鳴りだす。やがて乾燥した草に火がついたかのように、燃え広がった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "修繕されたライフルが鍬と合奏を始める。その音はまるで行進曲のようだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "クヌート",
+          "text": "みんなのためを思えば、こんな怪我なんともない。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "エフゲニー",
+          "text": "もう一度言う。俺はこんな無鉄砲な行動、支持していないからな。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "彼は足元の雪塊を粉々に踏みつけ、去っていった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "スヴィスティ",
+          "text": "……！"
+        },
+        {
+          "kind": "title_card",
+          "text": "8#1"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

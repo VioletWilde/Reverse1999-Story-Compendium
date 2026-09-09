@@ -1,0 +1,694 @@
+{
+  "episode_id": 10712,
+  "chapter_id": 107,
+  "chapter_title": "孤独の歌",
+  "display_label": "",
+  "title": "豆パーティー",
+  "subtitle": "我食べる、ゆえに我あり。",
+  "trails": [
+    {
+      "element_id": 100701,
+      "owner_episode_id": 10712,
+      "trigger_episode_id": null,
+      "title": "瞑想域",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=712",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1071201,
+      "owner_episode_id": 10712,
+      "trigger_episode_id": null,
+      "title": "醸造の季節",
+      "description": "出所不明の詩の一節。古びた巻物に記されている。",
+      "action": "",
+      "unlock_condition": "ChapterMapElement=100701",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "醸造の季節"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "――バタン！\n遠くに、何かが倒れた。\n盃は酒を飲み干し、\n疲れた視線は太陽を燃やし尽くす。\n残された日々を握りしめ、\n肉体がその住人に語りかける。\n\n作り出す者はその同じ手で\nそれを壊し、岩壁を剥ぎ取る。\nその傷跡は完璧な円を描く。\n死というものが結びつけられ、そして\n――すべては終焉を迎える。\n\n最後に残るのは\n広き荒野だけ。\n事外のものが群がって寄ってきて、\nこうして底のある空を語り始める。"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100717",
+      "internal_title": "第七章7-12.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "豆パーティー"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一、豆を食べてはならない。\n二、落ちたものを拾ってはならない。\n三、白いおんどりに触れてはならない。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "うっ…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "ここは…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "長い闇を越え、再び意識が引き戻された。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "目の前に見知らぬ光景が広がる。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "…もしかして、島の地震の影響？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "確か３７と地下迷路にいたはず…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "…もしかして、壊れた？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "レグルス",
+          "text": "あ、ヴェルティ！　こんなとこにいたのか！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "遠くから、聞き慣れた声がした。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "レグルス",
+          "text": "みんなが待ってる！　パーティーが始まっちゃうぞ！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "パーティー…？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "レグルス",
+          "text": "ああ、今日は特別な日だろ！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "レグルス",
+          "text": "――ヴェンデッタをやっつけた上に、「ストーム」の免疫をつける方法を見つけたんだ！　それに、あの数字怪人たちを救ってやったんだぜ！　祝わなくちゃ！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "…え？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "レグルスは待ちきれない様子で前へと走る。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "レグルス",
+          "text": "早く来いよ、ヴェルティ。こんがり焼けたハニーローストウサギを食い損ねちまうぞ！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "彼女は一歩前へ飛ぶ。その足元から何かが割れる音がした。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "ちょっと待って。今、何か踏まなかった？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "レグルス",
+          "text": "えっと、これは…耕すときに牛につけるやつ？　誰だよこんなとこに放ったらかしにしたのは。危うく、この大海賊様が転ぶとこだったぞ！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "レグルス",
+          "text": "まあそんなのはどうでもいいや！　ついてきな、ヴェルティ！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "四、剣で火をかき混ぜてはならない。\n五、くびきを飛び越えてはならない。\n六、道中、薪割りをしてはならない。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "広場は人で賑わっていた。いつもの厳かな空気は、祭りの陽気さで塗り替えられている。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "焼きウサギの香りが漂う中、人々はブドウ酒を片手に、会話を交わしていた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "リーリャ",
+          "text": "おお、この酒、いい香りだな！　自分たちで醸造したのか？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "２１０",
+          "text": "少しは遠慮しろ。半年分の貯蔵量を、全部一人で飲み干しやがって。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "２１０",
+          "text": "それにしても物々交換とはなかなかいいもんだな――これがコーヒーか。実物は初めて見る。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "２１０",
+          "text": "――うへぇ、ゴホッ、にっが！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "リーリャ",
+          "text": "ははは、その程度でか？　人のこと言えねぇじゃん！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "リーリャは酒樽へ近づき、中を覗いた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "リーリャ",
+          "text": "おいおい、レグルス、お前の船員が――"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "リーリャ",
+          "text": "リンゴ酒になっちまってるぞ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "…ヒック。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "どうやら…このAPPLeめの禁酒計画は、またも失敗のようれすなぁ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "３７",
+          "text": "――ヴェルティ、やっときてくれた！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "３７はソフィアの腕を引きながら、嬉しそうにこちらに手を振った。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "３７",
+          "text": "ちょうど、みんなに重大な発表をしようと思ってたとこなの！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "３７",
+          "text": "ソフィアが魂の数字の証明を終えたんだよ！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "翼が羽ばたく音が頭上に響いた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "わっ！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "七、新しい衣服で会堂に入ってはならない。\n会堂に入る時は右側から入り、左側から出ること。\n八、部屋にツバメがいてはならない。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "３７",
+          "text": "あ、大丈夫！　ツバメたちはきっと６を呼びに行っただけだから！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "３７",
+          "text": "まだ伝道者の間で寝てるんだよ――集会に参加したくない時は、いっつもそう言うんだけどね。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソフィア",
+          "text": "そんなに焦らずとも、いずれわかるでしょう。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソフィア",
+          "text": "協力してくれてありがとう、ミス・ヴェルティ。あなた方のおかげで、無事に危機を乗り越えられたわ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソフィア",
+          "text": "今後も財団とはいい関係でいるつもりよ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "いったい、どうなって…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "九、神聖な塀の中で寝てはならない。\n十、寝床を離れる時は、それを丸め、就寝の痕跡を\nなくすこと…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "レグルス",
+          "text": "せっかくのパーティーでまで、そんなにかしこまるなって！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "ロックンロール海賊はウサギ肉を盛った皿を手に、リメカップに勝利したイングランドのような満面の笑みを浮かべた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "レグルス",
+          "text": "感謝しな。この心優しい船長が、特別にメインディッシュを持ってきてやったんだ――"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "――うっ！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "レグルスは歩いてきたソネットとぶつかり、食べ物を載せた皿ごと地面に倒れた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "すみません、レグルス。線形回帰直線の方程式に夢中で…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "レグルス",
+          "text": "いいって、どうせ焼いたのあたしじゃないし――金のウサギ、本日に限り食べ放題！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "レグルスは腰を折り、砂まみれの皿を拾いあげて横に置いた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "そういえば、ミス・ソフィアの数字っていくつなんでしょう？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "レグルス",
+          "text": "当ててみるか？　あたしは３の倍数だと思うぜ！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "うーん…わたしは１３９の倍数だと思います。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "３７",
+          "text": "先に言っておくけど、とってもいい数字だよ！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "３７",
+          "text": "わたしと６、２１０を足したものより百倍もいい数字なんだから！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ミス・ラジオ",
+          "text": "計算中。（３７＋６＋２１０）×１００は…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "２１０",
+          "text": "言っておくが、２５３００じゃないからな。いくらなんでも長すぎるだろう。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "コケッコケッ――！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "突然、おんどりの鳴き声が響いた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソフィア",
+          "text": "ああ、この子はアム。私が飼っている白いおんどりよ。みんなに見せるのは今日が初めてかもしれないわ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "ソフィアは身をかがめ、優しくアムの毛を撫でた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソフィア",
+          "text": "アム、おいで。みんなにご挨拶しなさい。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "三、白いおんどりに触れてはならない。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "…白い…おんどり？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "人々は喜び、笑顔で祝いの言葉を交わす。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "財団職員の一人が地面に落ちた身分証明書を拾っていた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "二、落ちたものを拾ってはならない。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "信者が道の真ん中で薪を割っている。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "六、道中、薪割りをしてはならない。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "彼らはヒヨコマメ入りのサラダを食べ、テーブルに切り分けられたパンを並べ、焚き火の火力を強くしようと剣の先で突いていた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一、豆を食べてはならない。\n四、剣で火をかき混ぜてはならない。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "炎が高々と燃え上がるも、周りのものは影を落とさなかった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "違う…なにかがおかしい！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "わたしはまだ、地底にいるはず！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "焦る気持ちが胸を締めつける。目の前の楽しい光景にもやがかかった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "一刻も早くここを離れないと――！"
+        }
+      ]
+    },
+    {
+      "script_id": "100718",
+      "internal_title": "第七章7-12.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "３７",
+          "text": "最初は円、二番目は正方形――"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "…３７？　きみなの？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "幼い子どもは、ただただ一心不乱に目の前の砂の城を整えている。声は届かなかったようだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "３７",
+          "text": "…三角には三角を、ひし形にはひし形を――"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "３７",
+          "text": "よし！　これで完璧！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "７７",
+          "text": "「エマネーション」…紊乱…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "７７",
+          "text": "…いいえ、そんなはずがない！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "７７",
+          "text": "なんて醜いの…ちっとも美しくないわ！　これは至高なる規律の啓示でしょう――それなのに、どうしてこんな答えが？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "７７",
+          "text": "こんな結果…みんなに教えるわけにはいかないわ。きっとなにかの間違いよ。証明しないと、まずは島の外に出て――"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "…あっ！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アルカナ",
+          "text": "…あら、ヴェルティ、わらわの可愛い子。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アルカナ",
+          "text": "そなたも砂遊びに来たのでしょう？　作っては崩し、作っては崩し…何度見ても飽きないわ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アルカナ",
+          "text": "そうよ、残念だけれど――"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アルカナ",
+          "text": "わらわはここを、崩す。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "……！！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "３７",
+          "text": "…ヴェルティ、大丈夫？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "突然、意識が現実に引き戻された。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "あの岩壁だらけの洞窟の中だ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "３７が目の前に立ち、首を傾げていた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "３７",
+          "text": "うーん、ものすごく最悪な夢を見た気がする…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "…どんな夢？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "３７",
+          "text": "レグルスが６の位置について、ここを無理数のロックンロール王国にすると宣言したんだよ。彼女はほくそ笑みながら、コーヒーを持って来て、無理やりわたしに飲ませようと…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "３７は頭を振り、そのバカげた光景を脳裏から追い出した。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "３７",
+          "text": "目覚めてよかった…もちろん、あなたもね！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "３７",
+          "text": "はやく無限定者から聞いた数字の真理を、みんなに伝えなきゃ――"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "彼女は飛び跳ねながら、悪夢から目覚めた喜びをかみしめ、そう言った。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "前方からわずかに外の光が差し込む。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "長い試練の旅が、ようやく終わろうとしていた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "３７",
+          "text": "ヴェルティ、聞こえる？　何だか賑やかだね！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "３７",
+          "text": "きっとソフィアたちが迎えに来たんだよ！　外で待っててって伝えたから。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "３７",
+          "text": "――ソフィア！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "少女はうれしそうに光の方向へと走った。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "すばしっこいツバメのように、視界の中を一瞬で通り過ぎる。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "待って、３７！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "彼女に追いつかなくては。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "ここを離れなくては。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "地下の全てを皆に伝えなくては。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "――ようやく、まばゆい空が目の前に広がった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "なんの予兆もなく目の前で爆風が巻き起こり、洞窟の出口にある幾何石が吹き飛ばされる。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "よく知る匂いが鼻をついた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "――戦争における硝煙の匂いだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "どう…して…？"
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

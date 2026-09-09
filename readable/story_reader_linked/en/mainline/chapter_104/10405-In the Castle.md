@@ -1,6 +1,6 @@
 # In the Castle
 
-- Chapter: El oro de los tigres (`104`)
+- Chapter: El Oro de los Tigres (`104`)
 - Episode: `10405`
 
 > Subtitle: Harder than the sands, warmer than the stones. Another shelter that you can count on.

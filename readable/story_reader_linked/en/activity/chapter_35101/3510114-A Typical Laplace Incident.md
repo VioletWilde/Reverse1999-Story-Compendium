@@ -1,6 +1,6 @@
 # A Typical Laplace Incident
 
-- Chapter: 绿松石蛇俱乐部 (`35101`)
+- Chapter: The Turquoise Serpent Club (`35101`)
 - Episode: `3510114`
 
 > Subtitle: From the moment the first drop of rain falls, you must never hesitate and never tire.

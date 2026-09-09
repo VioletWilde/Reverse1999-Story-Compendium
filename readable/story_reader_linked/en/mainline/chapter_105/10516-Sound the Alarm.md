@@ -1,6 +1,6 @@
 # Sound the Alarm
 
-- Chapter: The Prisoner in The Cave (`105`)
+- Chapter: The Prisoner in the Cave (`105`)
 - Episode: `10516`
 
 > Subtitle: Ultimately, there is always more than one weather forecaster.

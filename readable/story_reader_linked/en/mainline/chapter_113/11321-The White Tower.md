@@ -1,6 +1,6 @@
 # The White Tower
 
-- Chapter: 他者的悲哀 (`113`)
+- Chapter: On Another's Sorrow (`113`)
 - Episode: `11321`
 
 > Subtitle: Power and reason were pressed into white bricks, and the great statue built from them is unbreakable.

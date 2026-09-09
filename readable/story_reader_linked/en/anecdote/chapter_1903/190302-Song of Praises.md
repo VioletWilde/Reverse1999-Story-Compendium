@@ -1,6 +1,6 @@
 # Song of Praises
 
-- Chapter: chapter_1903 (`1903`)
+- Chapter: The Long Night Singing Its Dirges (`1903`)
 - Episode: `190302`
 
 > Subtitle: People praise the fragrance, the crimson liquid, and everything under its protection.

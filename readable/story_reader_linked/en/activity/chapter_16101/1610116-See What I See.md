@@ -1,6 +1,6 @@
 # See What I See
 
-- Chapter: Notes on Shuòrì (`16101`)
+- Chapter: Notes on Shuori (`16101`)
 - Episode: `1610116`
 
 > Subtitle: People trust their own judgment. It's no surprise.

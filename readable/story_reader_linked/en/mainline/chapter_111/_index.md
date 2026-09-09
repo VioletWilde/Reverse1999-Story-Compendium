@@ -1,4 +1,4 @@
-# Main Story · 行于漫漫长路上
+# Main Story · A Long Long Way
 
 - [11101 After the Flood](11101-After the Flood.md) — A new era bearing many marks of another time, caught in an endless spiral of war.
 - [11102 Old Boots](11102-Old Boots.md) — They once belonged to an unfortunate soul, but perhaps they will grant you better luck.

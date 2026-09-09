@@ -1,6 +1,6 @@
 # A Deep Sleep
 
-- Chapter: Nouvelles et Textes pour rien (`103`)
+- Chapter: Nouvelles et Textes pour Rien (`103`)
 - Episode: `10305`
 
 > Subtitle: Bodies breaking down into pieces, in tetrahedrons and cubes. Your head is a pretty octahedron.

@@ -1,0 +1,414 @@
+{
+  "episode_id": 10206,
+  "chapter_id": 102,
+  "chapter_title": "夜色溫柔",
+  "display_label": "",
+  "title": "不朽的盡頭",
+  "subtitle": "它能幫助逝者找到來生的道路，以免滯留世間，糾纏生者。",
+  "trails": [
+    {
+      "element_id": 1020601,
+      "owner_episode_id": 10206,
+      "trigger_episode_id": null,
+      "title": "小徑① 殘局",
+      "description": "棘手的殘局，醞釀自一場膠著已久的苦戰。等待著正確的指引讓他們得以解放。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=10206",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1020602,
+      "owner_episode_id": 10206,
+      "trigger_episode_id": null,
+      "title": "小徑② 澄清",
+      "description": "等待著新消息的魔精。比先前更鎮靜。在佈滿金塊的地方，他的表親已閱讀過他的傳單。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=10206",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "眼中的金梁木"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "盆友們！先別打電話！\n     我們或許，或許搞錯了什麼！人類不是那麼壞，壞壞壞壞到底的！請香信我，我的兄弟的姐姐的鄰居的嬸嬸親眼看到啦——\n     人類！在吃金子！\n\n     金子！金子！真的都是金子！\n     還有綠紙……鈔，鈔鈔鈔鈔票！可怕的、讓毛髮疼疼的、討厭的、詛咒的，金子！吃，吃吃，吃進胃裡！肚子裡！他們用火！用尖尖的刀切，但還是崩碎了牙——啊——齒！\n     我必吸快點告訴大家這一切，該對人類碗全改觀了！\n     是，是時候撇開偏劍啦！\n\n- Megrez δ魔藥書室誠制·靈譯藥方（基礎款）顯影成像，內容僅供參考 -"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1020603,
+      "owner_episode_id": 10206,
+      "trigger_episode_id": null,
+      "title": "一個花園小徑的門",
+      "description": "一扇纏繞著枯刺的木門，請勿擅自觸碰。荊棘會讓任何人，包括木門自己都受傷。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=10206",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "花園牆外"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "從一群人中往另一群人中去\n從一艘船上向另一艘船上去\n焦黢的冬由石綠所皸裂\n冰雪消融，焰火熄去\n狹而積雪的花園推開窄門\n過往皆為過往\n未來終是未來\n等待已久的春日雀躍歡騰\n橡木林的私語如同呼吸"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100210",
+      "internal_title": "第二章2-6.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "不朽的盡頭"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "維爾汀小姐看起來沒什麼食慾。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "難道說，你也想試試紅酒汁金條扒和水煮銀幣的味道嗎？"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "這就是這次暴雨症候的表現？",
+          "edge_label": "这就是这次暴雨症候的表现？",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "勿忘我",
+              "text": "暴雨症候？這是你們對這些社會原有惡習的稱呼？"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "勿忘我",
+              "text": "聽起來，基金會對原本社會的運轉方式感到相當滿意，以至於要稱現在的狀況為“症候”。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "維爾汀",
+              "text": "……"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "維爾汀",
+              "text": "暴雨症候竟把金錢變成了人們眼中的食物……太荒唐了。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "你們沒必要這樣做",
+          "edge_label": "你们没必要这样做",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "勿忘我",
+              "text": "不，你錯怪我們了。我們什麼都沒做，唯一做的僅是等待時間的流逝。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "勿忘我",
+              "text": "這正是維爾汀小姐最熟悉的“暴雨”前的“異變”，僅此而已。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "維爾汀",
+              "text": "而這次的“異變”，把金錢變成了人們眼中的食物……"
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "他們是如何吃下那些金條的？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "要切斷它們並不容易。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "當然不能與肉禽蔬菜相比。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "但人類確實不可小覷，這麼短的時間裡，就針對新的膳食體系推出了一系列的全新商品。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "能刮去金子表層糙面的水果刨，能迅速熔化金塊的噴槍，能在切菜時固定紙幣位置的砧板。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "我甚至還見過被熔化了的行走自由女神冰飲，售價只要50美分……哈哈哈，我都要忍不住發笑了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "但那些牛奶……卻被大量地倒掉了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "它們已經不再是食物了。我無法體驗那些被“暴雨”篩選掉的人的生活，真不知在他們眼中……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "究竟是以何物果腹，又是以何物交換流通？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "“暴雨”之下，竟仍是金錢決定了他們的生活……這真是這時代最諷刺的命題！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "為什麼要苛責他們？“暴雨”之下，本就沒有真正的生活。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "沒有真正的生活……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "維爾汀小姐，你看起來很悲傷。我不明白。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "維爾汀小姐，你看起來很悲傷。我不明白。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "這根燒焦的枯枝……原本應該來自於一棵花楸樹吧？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "我曾在愛爾蘭和英格蘭西南部見過這種樹。\n在那裡，它常被稱為“Quickbeam”，源自古老德語，意思是“活著”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "花楸的生命力旺盛，即使從遠歐移種到北美這裡，也能茁壯生長，綿延成一片廣袤的樹林。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "在凱爾特曆法公認最危險的日子裡，人們會佩戴起花楸的花環與漿果，以祈求它的護佑能帶來生機。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "只是一場突如其來的大火，燒毀了這一切。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "就像這場沒有理由的“暴雨”一樣。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "我不建議你再繼續說下去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "人們如同這根枯枝一般，被粗暴地終止了原有的生活；他們研發新廚具，他們費力地食用軟化的金條，他們變賣已無價值的食物……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "他們努力地用自己的邏輯來理解生活——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "因為人們只是想盡可能地活著，而不是回到過去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "注意你的言辭，維爾汀！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "但是……回到過去，為什麼就不是真正的生活？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "槲寄生小姐，這一小棵花楸枯枝，是在真正的活著嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "你用神秘術將它停留在了被燒毀的那一刻。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "如果你解除了它的神秘術，它一定不再是這個模樣。我想槲寄生小姐應該很清楚……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "每一棵樹木的命運，都是面向明天。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "夠了！你真是讓人厭惡……這裡不是給你打官腔說這些陳詞濫調的地方。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "既然你還沒習慣脫離當局的生活——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "不妨讓我們的信徒來指點指點你，助你更快地熟悉重塑的秩序。"
+        }
+      ]
+    },
+    {
+      "script_id": "100211",
+      "internal_title": "第二章2-6.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "唔……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "你竟敢……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "推搡之中，餐桌上的花瓶被打翻在地。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "枯枝落到一旁，仿佛掙脫了什麼咒語，焦皮上隱約溢出了濕淋淋的綠色。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "你不應碰觸他人的物品。看看你都做了些什麼！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "我聽說，花楸常被種在威爾士墓園旁，因為它能幫助逝者找到來生的道路，以免滯留世間，糾纏生者。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "而我之前卻希望……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "算了。它身上的神秘術已經解開。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "我不喜歡被人碰過的東西。你帶走吧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "……好。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "偌大的餐桌旁，只剩下兩個人影。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "那株枯枝你珍藏了很久。就這麼給她，沒關係嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "你讓我留下來，是有什麼事情想告訴我嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "……是的。我收到了引導之人的指示。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "我們接下來的計畫，與你有關。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "勿忘我",
+          "text": "跟我來。"
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

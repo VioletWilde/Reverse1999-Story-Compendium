@@ -1,0 +1,488 @@
+{
+  "episode_id": 10207,
+  "chapter_id": 102,
+  "chapter_title": "夜はやさし",
+  "display_label": "",
+  "title": "グッドニュース",
+  "subtitle": "これは勇敢な者にだけ与えられるチャンス。壮大な冒険。前代未聞の大博打。",
+  "trails": [
+    {
+      "element_id": 1020701,
+      "owner_episode_id": 10207,
+      "trigger_episode_id": null,
+      "title": "小道① キャベンディッシュ・Jr.宛",
+      "description": "別れ",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=10207",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "興味深いシーンだったな。キャベンディッシュの大旦那はきっとびっくりするだろう。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "わたしもびっくりした",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "おまえさんも見てたのか？　あの女が闇夜で剥がされた顔と、キャベンディッシュのお坊ちゃんが背中を向けて嬉しそうにしていたのを見たな？"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "かつての彼は異様に繊細で才能があった。ポーション作りに関してはとびっきりの天才だった！　でも今は…アイツはもう呑み込まれ、消化されちまった。そしてそのことに気づいちゃいない。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "キャベンディッシュの大旦那って？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "ああ、それは陳腐なほこりにまみれた苗字で、歴史に銃殺されてしまったのさ。かつてはおまえさんの目の前に座っていたキャベンディッシュのお坊ちゃんでさえ、その苗字を捨てたんだ。"
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "「ミュオソティス」。馬鹿げた名前だがユーモアに満ちてる。あの蒼白な顔をしたお坊っちゃんは死んだのさ。無数の飢餓と自殺の衝動に駆られながら、日に日に陰険で恐ろしそうな外見に成長していった。残ったのは自堕落さだけだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "あの女から約束をしてもらったのさ。彼女はミュオソティスに何か伝えてから、北の方へ向かい霧の中で姿を消した。彼女にとってウインディー・シティーはいらない肉腫でしかないからな、捨てられたんだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "喉元に銃を向けられた時、ようやく自分の脳裏に何があるか分かるもんだ。そして、彼は己に復讐、復讐、ふ、ふっ…ふ、復讐と、死ぬ自由を与えた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "今、肉腫は彼のもんだ。そこに巨大なステージを作ると誓ったのさ。己の卑劣と狂気と戦慄を太陽の下で見せられるタイミングを図っていた。"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100212",
+      "internal_title": "第二章2-7",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "グッドニュース"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ドルーヴィスⅢ",
+          "text": "ずいぶんいい眺めね。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ミュオソティス",
+          "text": "ええ。ちょうど貴方の樹林が見えるでしょう。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ドルーヴィスⅢ",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ドルーヴィスⅢ",
+          "text": "わたしの答えを聞きに来たのね？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ミュオソティス",
+          "text": "この地の政府と交渉してね。彼らはあの樹林が、よほど気に入ったらしい。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ミュオソティス",
+          "text": "現状、「ストーム」によって患者数が増える一方、医療物資は不足するばかりだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ミュオソティス",
+          "text": "彼らには難民や患者を避難させる場所すらない。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ミュオソティス",
+          "text": "貴方の樹林は…収容においても神秘術治療においても、最も適していると言えるでしょう。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ミュオソティス",
+          "text": "さぁ、貴方の答えは？　 ドルーヴィス嬢…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ミュオソティス",
+          "text": "ヴェンデッタはいつであろうと、貴方の加入を歓迎するよ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ドルーヴィスⅢ",
+          "text": "あなた方に加わっても、わたしのために政府を拒絶することはないでしょう？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ミュオソティス",
+          "text": "もっとすばらしい計画がある。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ミュオソティス",
+          "text": "彼らはあの林に、この市で唯一の神秘術治療を中心とした、大型集中治療所を立てるつもりなんだ。つまり…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ミュオソティス",
+          "text": "食品。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ミュオソティス",
+          "text": "物資。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ミュオソティス",
+          "text": "貨幣。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ミュオソティス",
+          "text": "そして、我々マヌス・ヴェンデッタを築くために必要なすべてが手に入る。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ミュオソティス",
+          "text": "すでに話はつけてあるよ。神秘学において、我々以上に心強い組織はいないからね。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ドルーヴィスⅢ",
+          "text": "あの難民たちはどうするの？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ミュオソティス",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ミュオソティス",
+          "text": "難民となるのは、「ストーム」にふるい落とされた者だけだよ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ミュオソティス",
+          "text": "貴方は難民にはならない。それは私が保証しよう。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ミュオソティス",
+          "text": "「難民救済」の日が訪れた時、森の主である貴方にはぜひとも、できるだけの支援をしてほしい。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ドルーヴィスⅢ",
+          "text": "わたしはすでにあの森の主ではないわ…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ミュオソティス",
+          "text": "貴方が望めば、いつでも森の所有権を貴方に戻そう。それに、あの森の主はいつまでも、唯一貴方だけだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ドルーヴィスⅢ",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ミュオソティス",
+          "text": "貴方の気持ちはよくわかる。貴方がかつて持っていたものは…私が本来、手に入れるべきものでもあったからね。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ミュオソティス",
+          "text": "私は「難民救済」の始まるその瞬間まで、貴方のために樹林を見守るよ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ドルーヴィスⅢ",
+          "text": "ありがとう。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ドルーヴィスⅢ",
+          "text": "ミュオソティスが離れてからずいぶん経つ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ドルーヴィスⅢ",
+          "text": "彼女はいつまでも窓の外を見つめている。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ドルーヴィスⅢ",
+          "text": "あの木々は…芽吹くべきだったのかしら。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ドルーヴィスⅢ",
+          "text": "明日に向かって、ね…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "５時間前"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "つるは果てしなく伸び、"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "粘液はとめどなく流れる。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "敵がすぐそこまでせまっている。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "逃げ道はすべて封じられた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "シュナイダー",
+          "text": "くっ、弾がなくなりそうだわ…旦那、援護をお願い！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "傷口がまだ塞がっていないし、これ以上ケガしたら大変だよ。わたしのうしろに隠れて！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "これは…檻？　まさか、わたしたちを捕まえる気！？　二時の方向に最後の出口が見える…最後に、もう一度試そう！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "シュナイダー",
+          "text": "いいえ、旦那…もう間に合わないわ…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "うあっ――！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "いっ…！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "あのいばらの粘液に触れると身体が固くなるみたい、気を付けて…！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "シュナイダー",
+          "text": "逃げ道はすべて塞がれたわ。あたいたちはもう籠の鳥よ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "…ううん。こんなところに、閉じ込められるわけにはいかない。もう一度試さないと！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ドルーヴィスⅢ",
+          "text": "諦めなさい。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "光よ導け！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "うぐっ――！　…跳ね返されるなんて…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "なぜ…いばらで編んだだけの檻が、こんなに硬いの――！？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ドルーヴィスⅢ",
+          "text": "もう終わりよ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "闇に染まれ！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "うう…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "くっ…なぜ――！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "シュナイダー",
+          "text": "旦那も…純血ではないわね…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "…わからない。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "シュナイダー",
+          "text": "ふふ…なら旦那もあたいと同じ…神秘術がへたっぴな粗悪品なのね。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "シュナイダー",
+          "text": "見ればわかるでしょう？　あたいたちと純血の神秘学家の間には、決して乗り越えられない壁があるのよ…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "シュナイダー",
+          "text": "ドルーヴィスには勝てないわ。あの白衣のおばさんを外に押し出した時点で、旦那もわかっていたはずでしょう…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "シュナイダー",
+          "text": "どんなにあがいても、あたいたちがアルカナの前につきだされる運命は、変わらないわ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "…きっと方法はあるはず。もう少し時間があれば。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "シュナイダー",
+          "text": "旦那はあたいが出会った誰よりも勇敢ね…でも、それだけじゃ無理。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "シュナイダー",
+          "text": "そう、無理なの…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "シュナイダー",
+          "text": "その時が来たら、あたいを殺してね。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "なにを言っているの！？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "シュナイダー",
+          "text": "左胸を狙って。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "シュナイダー",
+          "text": "ヴェンデッタはあたいたちを許さないわ。仲間同士の殺し合いは、彼らの最も好む出し物の一つよ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "シュナイダー",
+          "text": "あんたはあたいなんかよりもずっと価値があるわ…旦那。その価値をいつまでも大切にすることね。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "…なに、言っているの…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "シュナイダー",
+          "text": "いい？　その時が来たら、あたいの左胸の心臓を狙って、容赦なくやってちょうだい。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "そんな計画、危険すぎるよ！　それに…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "シュナイダー",
+          "text": "もし生きたいのなら…選択の余地はないわ。あたいを信じて、旦那。あたいってば、だれよりも命が惜しいんだから…ゴホッ…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "けど今の計画…すべて…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "彼女に、聞かれてる。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ドルーヴィスⅢ",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "シュナイダー",
+          "text": "んふふ…その通りよ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "シュナイダー",
+          "text": "あたいたちの運命は、彼女の決断にかかってるわ。"
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

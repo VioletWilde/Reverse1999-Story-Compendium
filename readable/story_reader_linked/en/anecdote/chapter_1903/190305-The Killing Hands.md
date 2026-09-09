@@ -1,6 +1,6 @@
 # The Killing Hands
 
-- Chapter: chapter_1903 (`1903`)
+- Chapter: The Long Night Singing Its Dirges (`1903`)
 - Episode: `190305`
 
 > Subtitle: Through the unconscious efforts of many, it has finally completed its mission.

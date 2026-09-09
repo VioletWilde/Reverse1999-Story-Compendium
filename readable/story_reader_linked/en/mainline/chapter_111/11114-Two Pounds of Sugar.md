@@ -1,6 +1,6 @@
 # Two Pounds of Sugar
 
-- Chapter: 行于漫漫长路上 (`111`)
+- Chapter: A Long Long Way (`111`)
 - Episode: `11114`
 
 > Subtitle: So long, hungry rats!

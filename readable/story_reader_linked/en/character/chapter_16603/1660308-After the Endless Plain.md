@@ -1,0 +1,176 @@
+# After the Endless Plain
+
+- Chapter: Flowing in the Wind (`16603`)
+- Episode: `1660308`
+
+## Transcript
+
+The tea is still warm; as if the people there had never left the room.
+
+**Leonid**: Phew. Home safe. No one's brain is permanently wrecked. Thank goodness.
+
+**Leonid**: But I'd never regret taking this journey with you, sir.
+
+**Leonid**: Earlier, you said your name was Yànpíng ... But you call yourself Gětiān, after your people, so what do I call you?
+
+**Getian**: If you don't mind, simply call me "Gětiān."
+
+He pauses for a moment, and solemnly speaks the young man's name.
+
+**Getian**: Leonid.
+
+**Leonid**: Yes? I'm listening.
+
+**Getian**: Is that your true name?
+
+**Leonid**: Oh. Like I said in the beginning, names aren't important. We use them only for the sake of communication ... Hope mine is not too tough to remember.
+
+**Leonid**: If you wish to know the name I usually go with ... My other colleagues always refer to me as "Name Day."
+
+A second introduction. Like a handshake from a friend.
+
+**Getian**: I see.
+
+**Name Day**: A toast to you, Mr. Gětiān.
+
+The young man raises his cup.
+
+**Name Day**: To peace.
+
+**Getian**: ... To peace.
+
+The bird extends his wing and pushes his cup towards the man. The man lowers his.
+
+The cups reach each other, making a single clink.
+
+**Name Day**: It's still nagging at me. When did you figure out that we were dreaming?
+
+**Getian**: The very moment you appeared as "Lǐzhèng."
+
+**Name Day**: How ... Did I do something wrong?
+
+**Getian**: No. It was only that you asked me about my friends' whereabouts.
+
+**Getian**: It was odd that you'd ask.
+
+**Getian**: And that besides, your bones were a poor match to his appearance.
+
+**Getian**: Illusions are difficult to perform, much like this Artificial Somnambulism. With diligent practice, you might become very good indeed.
+
+**Name Day**: Now you do sound like someone who's centuries old.
+
+**Name Day**: Let me get all the information sorted out, hopefully I will have some time left to show you around in the branch. The one in reality, of course.
+
+**Getian**: Take your time.
+
+But the man busily digging into his files seems not to hear him.
+
+**Name Day**: I'll put you down as ... "not hostile." In fact, you are kind, sensible, and very pleasant to converse with.
+
+**Name Day**: But I will have to ask that question again.
+
+**Name Day**: Please don't worry. My job is done, so your answer won't affect your assessment.
+
+**Getian**: I see. Finish what you have started.
+
+**Name Day**: When we first met, I asked you which was more important to you, the bone wand or the jade pendant.
+
+**Name Day**: At that time, I was only trying to figure out if you had a preference. One perhaps you shared with humans and arcanists.
+
+**Name Day**: But you already answered that through your stories: you treat them both as equals. Just as you value the wand and pendant.
+
+**Name Day**: Are you sure you value them equally? What if you have to give up either of them to survive one day?
+
+**Getian**: As we talked, I worried whether you might take the wand and the pendant from me.
+
+He looks into the young man's eyes.
+
+**Getian**: I told myself you meant no harm. You only wanted to learn more about me.
+
+**Getian**: From my story, you should know there is always a third option for me ...
+
+**Getian**: I would have traded my life for them.
+
+**Getian**: If I had to make a choice between the wand and the pendant, I would give you my bones.
+
+**Name Day**: Your bones.
+
+Slowly, he repeats the words and nods.
+
+**Name Day**: I didn't expect that answer.
+
+He closes his notebook, and rises to push the chair back under the table, before turning around.
+
+**Name Day**: Please wait another moment. I need to pause the Artificial Somnambulism program first and bring you back to the waking world as the protocol requested.
+
+**Name Day**: I wish you a wonderful journey from here on. Your registration documents will be issued shortly.
+
+**Name Day**: Not long before, we encountered a poet from an island. Perhaps you will see him too in the future; I think you'd have a great time together.
+
+**Getian**: I will look forward to it.
+
+**Name Day**: Also ... I didn't lie about my love of stories. Should you hear more during your journey, I hope you might share them with me.
+
+**Name Day**: Can you write with your wings? Like using a quill pen.
+
+**Getian**: I will attempt to do so.
+
+The bird raises his wing; performing something as close to a wave as he can do.
+
+**Getian**: Goodbye.
+
+Finally returning to his solitude. The bird preens himself while enjoying the peace of the moment.
+
+He has seen and heard so much since he left the mountain, but rarely took the time to look back on his stories.
+
+The tea, the ink, the paper. The metal pot, the wooden table, the stone paved road. So many things he had never seen in the mountains.
+
+He was a newborn chick, and the mountain, the brook, and the forest were his shell. Now the shell has been gently cracked, and he flows out into a bowl.
+
+That bowl might be roughly made, but the liquid inside is clear and good, reflecting the sky, the mountains, and everything ...
+
+**Getian**: Perhaps this explains why people in the human world love liquor.
+
+**Getian**: I should have drunk with them, when I had the chance.
+
+The bird closes his eyes.
+
+There is still time to enjoy the moment, before he wakes up from this dream.
+
+**Getian**: Life beyond the mountain is indeed chaotic.
+
+**Getian**: I never intended to stay long in the city after that transformation mystery was solved.
+
+**Getian**: But now, I'm even further away from home.
+
+**Getian**: Perhaps I will never return home again.
+
+**Getian**: Even so it was good to see it once more ... if only in a dream.
+
+Gětiān sits on the scholar tree, just as he had before. With the wind still blowing through his feathers.
+
+But he feels now that he is no longer as he was.
+
+**Getian**: If time went back to that day, I would still fly down the mountain.
+
+**Getian**: The owner of that tavern was young. Stubborn, because of her youth. But she has always been true to herself.
+
+**Getian**: She grew up in that city, growing close to her neighbors, she loved them like they were her own kin.
+
+**Getian**: If she did jump over that bridge, she must be a real Xiángruì now. She must be pleased.
+
+**Getian**: As for those two foreign merchants, they weren't scared away by all the trouble. They stayed till the very end.
+
+**Getian**: That day, I saw the lanterns floating down the river glowing brighter than ever before.
+
+**Getian**: And that Hexagram of Water and Fire. The choice to be made. Xū, with water above and sky below. The Hexagram of waiting.
+
+**Getian**: I hope they left the city with what they wanted. Till this day, I still wonder which path that lady with unreadable bones ultimately chose.
+
+**Getian**: That young man was another interesting person. I wonder whom I will meet next.
+
+**Getian**: How would I know the limits of the mountain if I didn't leave it? Yet the world turns out to be another bowl.
+
+**Getian**: Fine. I shall listen to the wind before anything comes up.
+
+> 【Title card】6#2

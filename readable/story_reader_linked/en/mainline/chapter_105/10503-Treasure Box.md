@@ -1,6 +1,6 @@
 # Treasure Box
 
-- Chapter: The Prisoner in The Cave (`105`)
+- Chapter: The Prisoner in the Cave (`105`)
 - Episode: `10503`
 
 > Subtitle: Among the dust and grass clippings lies a bright azure petal.

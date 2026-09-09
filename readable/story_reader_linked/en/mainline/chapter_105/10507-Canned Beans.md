@@ -1,6 +1,6 @@
 # Canned Beans
 
-- Chapter: The Prisoner in The Cave (`105`)
+- Chapter: The Prisoner in the Cave (`105`)
 - Episode: `10507`
 
 > Subtitle: In the pocket, there are green peas, flat beans, bitter beans ... It's not hard to tell them apart.

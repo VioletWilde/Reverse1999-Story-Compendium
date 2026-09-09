@@ -1,6 +1,6 @@
 # Towards the Stars
 
-- Chapter: Away From Home (`1924`)
+- Chapter: On the Road (`1924`)
 - Episode: `192401`
 
 > Subtitle: Goodbye, midnight fireflies.

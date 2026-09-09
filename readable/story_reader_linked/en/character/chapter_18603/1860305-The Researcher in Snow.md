@@ -1,4 +1,4 @@
-# The Researcher in Snow
+# The Researcher in Snow
 
 - Chapter: Silver Knot (`18603`)
 - Episode: `1860305`

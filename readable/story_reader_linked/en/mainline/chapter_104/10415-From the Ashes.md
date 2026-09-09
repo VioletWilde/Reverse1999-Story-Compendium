@@ -1,6 +1,6 @@
 # From the Ashes
 
-- Chapter: El oro de los tigres (`104`)
+- Chapter: El Oro de los Tigres (`104`)
 - Episode: `10415`
 
 > Subtitle: Be burnt, be torn, be hidden in the corner, then be pecked up by a bird.

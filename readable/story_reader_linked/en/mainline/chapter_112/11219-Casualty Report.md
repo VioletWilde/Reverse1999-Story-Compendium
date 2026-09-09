@@ -1,6 +1,6 @@
 # Casualty Report
 
-- Chapter: 远征记 (`112`)
+- Chapter: The Campaign's Tale (`112`)
 - Episode: `11219`
 
 > Subtitle: An eagle pierces through the thick black clouds of gunsmoke.

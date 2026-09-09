@@ -1,4 +1,4 @@
-# Queries in the Hall
+# Queries in the Hall
 
 - Chapter: Silver Knot (`18603`)
 - Episode: `1860301`

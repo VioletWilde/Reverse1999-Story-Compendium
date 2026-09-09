@@ -1,0 +1,575 @@
+{
+  "episode_id": 11316,
+  "chapter_id": 113,
+  "chapter_title": "他者の哀しみ",
+  "display_label": "",
+  "title": "光盲",
+  "subtitle": "案ずることはない。案内人は、まだそこにいる。",
+  "trails": [
+    {
+      "element_id": 1131601,
+      "owner_episode_id": 11316,
+      "trigger_episode_id": null,
+      "title": "市場の奪い合い",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=11316",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "こんなことになるなんて思ってもいなかったわ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "謎めいた言葉をぼやく役にまで、競争者がいるなんて。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "つまらないし、くだらない仕事なのに。彼にはそれなりの見返りがあるに違いないわ。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "きみには報酬がでるの？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "何も出ないわよ。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "むしろ話してたら喉が渇くから、追加でお茶を作らなくちゃいけないし。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "こんな趣味がある人なんているわけないでしょう。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "毎日酒場で時間を潰してるじじいどもなら話は別だけれど。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "あなたとここで駄弁っている唯一の理由は、選ぶ権利を持たないせいよ。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "ほかに何ができるっていうの？神でも大統領でもないわたしに。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "わたしはどこにでもいるような老婆よ。ある鈍感な若者にむりやり家に転がり込まれて、追い返そうにも追い返せないただの老婆。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "はぁ…もういいわ。生きている人間はよく他人の居場所を奪うものだから。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "古の埃の一粒でさえ、部屋になだれ込んできた石膏の塊には不快を抱くもの。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "まぁいいわ、今回はなかったことにしてあげる。もしまた彼が何か謎々を問いかけたい時がきたら、この仕事を譲ってあげてもいいわ。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "趣味でやっているのでは？",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "101328",
+      "internal_title": "第十三章13-16.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "光盲"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "…きみこそが、「奇跡」の作り手。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "そう、君が「奇跡」の真の所有者であるのと同じように。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "真の所有者？　なら、なぜ「奇跡」は最初にイゴールへ渡されたの？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "君は時間と運命の秘奥を知っているはずだ。それは、相応しいときに、相応しい人の手へと渡る。そして君もまた、相応しいときに、私の前へと辿り着いた。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "謎々は苦手だ",
+          "edge_label": "我不喜欢谜语",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "ヴェルティ",
+              "text": "いつか、きみに投げかけられた謎を解く日が来るかもしれない。でも今は、もっと直接的な答えがほしい。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "眠れる意志が呼び覚まされたとき、答えは自ずと姿を現す。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "君と真の答えの間には、ただ薄い霧が漂っているだけだ。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "時間と運命の秘奥なんて知らない",
+          "edge_label": "我不知道时间和命运的秘密",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "ヴェルティ",
+              "text": "わたしには、時間や運命がなんなのかなんて、分からない。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "衆生は流砂のごとく、時間の川へ沈む。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "黄金の糸を紡ぐ者だけが、小舟を浮かべることができる。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "わたしのことをどれだけ知ってる？",
+          "edge_label": "你对我了解多少？",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "ヴェルティ",
+              "text": "わたしのことをよく知っているみたいだけど…前に、会ったことある？"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "文明の神殿、その灰燼の下には、太古の記憶が埋もれている。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "しかし、君も私も、過去を追想するために会ったのではない。"
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "イゴールは庇護の約束を取り付けた。でも、その望みを果たすことはできなかった。わたしも…彼と同じように、騙されるの？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "その約束は、まだ効力を失っていない。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "ただ、凡人の両手では、砂丘一つを掬い上げることなどできぬだけ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "じゃあ…どうすれば、きみの言う砂丘を抱え上げることができる？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "私に問う必要はない。「奇跡」は、すでに君の手のなかにある。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "また、私は君に何かを授けているわけでもない。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "——Vekiĝu en la regno de mortemuloj."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "Vekiĝu en la regno de mortemuloj."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "……？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "流れるように舞う塵が、何かに吹き払われる。図書館の構造が、舞台セットのように組み替えられてゆく。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "だが、色彩は闇の中のまま、観測者に期待された形で戻ってくることはなかった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "タイムキーパー！？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "ソネット？　どこにいるの？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "タイムキーパー、まさか…私が見えないのですか？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "聴覚も方向を判別する機能を失っているようで、ソネットの声が四方八方から響く。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "…何も見えない。闇しか、見えないんだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "ソネット、どこに――"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "ひどく幼い手が、漂う意識を引き留める。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "ここです。あなたのすぐそばにいます。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "私たちは今、図書館にいます。でも、他には誰もいません…生徒も、先生も、マヌス・ヴェンデッタも。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "あなたが「奇跡」の扉に入ったあと、そのまま消えてしまって…私の背後に現れたことに気づいたのも、ついさっきのことです。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "その目は…どうなされたのですか？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "閃光弾を至近距離で浴びたみたいな感じ…心配しないで。たぶん、そのうち良くなると思う。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "それより…きみの声、少し違うような？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "私たちは今…子どもの姿になっているようです。学校に通っていた頃の年齢にまで、戻っています。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "わたしたちが小さくなったのか…どうやら、ここは現実じゃないようだ。琥珀の間のときと同じだね。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "時間が、何かにかき乱されてる。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "姿を現すまで、どちらにいらしていたのですか？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "わたしにも、どこなのかよくわからなくて…ただ、辺り一面が塵に覆われていて、それから、一つの声が、わたしに語りかけてきてた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "その声は言ったんだ。「奇跡」から庇護を得る方法は、すでにわたしが手にしているって。それから…呪文を一節唱えた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "それは…成功した、ということでしょうか？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "第一助手はぱちくりと瞬きをした。その表情には、喜びと、あまり見せることのない戸惑いが入り混じっている。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "自分がどれほどの時間、その場を彷徨っていたのかも分からぬまま――事態がそこまで進展したことが、にわかには信じられなかったのだろう。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "呪文は復唱した。でも、効いているかどうかは分からない。まずは、この時間が乱れた場所から出る方法を探さないと。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "時間…そう、時間といえば。一人の時に周囲を調べてみたのですが。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "幼い身体であることは、もはや最も取るに足らない問題となっていた。ソネットは、眉をひそめて考え込む。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "時計、カレンダー、年鑑…何が起きているのか確かめようとしましたが、「時間」に関するものは、すべて消されていました。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "それに、ほかの棟へ行こうとしても、なぜか必ず図書館に戻されるんです。まるで、あの迷路のようなコマラ刑務所みたいに…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "…待って、ソネット。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "どういたしました？　タイムキーパー。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "…金色の糸が、見えた気がする。彼女が…感じられる。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "彼女？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "手を伸ばし、金色の糸にそっと触れる。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "透き通った音が真空のような空間の中で震えた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "…メレルだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "私には…何も見えていません。どうしてタイムキーパーにだけ見えるのでしょう。それに、その糸がなぜメレルだと分かるのですか？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "なんでかは…分からない。今は…まだ…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "ソネットの視界の及ばぬ場所で――金の紡ぎ糸は暗がりの奥へとくねるように伸び、その先にある虚無の闇のなかで乱れた結び目を作っていた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "糸が…絡まってる。メレルは、たぶん厄介な状況にいるんだと思う。でも、その結び目は…わたしたちからすごく遠い。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "教えてソネット。今、わたしが向いている方角には何がある？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "第一助手は、視線の先を追った。窓枠の向こうに、高い塔の影が浮かび上がる。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "中央監視塔です。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "ですが…さっきも言った通り、図書館は私が外に出ることを拒んでいて…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "この糸が方向を示してくれるかもしれない。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "ソネット、手を握って。わたしが進むべき方向を示すから、きみには道中の障害を避ける手伝いをしてほしい。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "…わかりました。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "行こう。"
+        }
+      ]
+    },
+    {
+      "script_id": "101329",
+      "internal_title": "第十三章13-16.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "――！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "大理石の敷居を跨いだ瞬間、迷宮のような空間が崩れ落ちる。振り返ると、図書館はすでに百歩以上も距離がある場所にあった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "タイムキーパー、図書館を出られました！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "よかった。やっぱりこの糸は、正しい方向に導いてくれているみたいだね。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "金の糸は二階へと続く階段の上で行きつ戻りつして、やがて自らを絡め取るように一つの結び目となった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "本能に近い直感が、線へと身体を引き寄せる。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "story_option_guideslide|0#0#1#9999",
+          "edge_label": "",
+          "branch": []
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "糸をそっと弾いた瞬間、その結び目は、位相幾何学では説明できない仕方でほどけた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "金色の糸が、運命のように手の甲を流れてゆく。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "…解けた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "「カチ――」"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "その時、メレルの背後にある防爆扉が、澄んだ音を立てた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "メレル",
+          "text": "…開いた？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "メレル",
+          "text": "エミリア、一緒に押すよ！"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

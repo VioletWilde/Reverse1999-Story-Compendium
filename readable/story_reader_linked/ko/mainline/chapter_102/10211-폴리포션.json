@@ -1,0 +1,602 @@
+{
+  "episode_id": 10211,
+  "chapter_id": 102,
+  "chapter_title": "밤은 부드러워라",
+  "display_label": "",
+  "title": "폴리포션",
+  "subtitle": "안개가 저 밖을 맴돌며 자신이 가릴 수 있는 모든 것을 가리고 있다.",
+  "trails": [
+    {
+      "element_id": 1021101,
+      "owner_episode_id": 10211,
+      "trigger_episode_id": null,
+      "title": "오솔길① 차량 탈취·1",
+      "description": "성 파블로프 재단에서 온 작전 임무, 재건의 손의 자원 수송\n차량을 탈취하라.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=10211",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1021102,
+      "owner_episode_id": 10211,
+      "trigger_episode_id": null,
+      "title": "오솔길② 차량 탈취·2",
+      "description": "갓길에 주차된 수송차 한 대. 운전자의 행방은 알 수가 없고, 차량 위로 감겨 있는 덩굴만이 사람들에게 인사를 건넸다.",
+      "action": "",
+      "unlock_condition": "ChapterMapElement=1021101",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1021103,
+      "owner_episode_id": 10211,
+      "trigger_episode_id": null,
+      "title": "오솔길③ 차량 탈취·3",
+      "description": "성 파블로프 재단에서 온 작전 임무, 재건의 손의 자원 수송\n차량을 탈취하라.",
+      "action": "",
+      "unlock_condition": "ChapterMapElement=1021102",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1021104,
+      "owner_episode_id": 10211,
+      "trigger_episode_id": null,
+      "title": "오솔길④ 투견지간",
+      "description": "",
+      "action": "",
+      "unlock_condition": "ChapterMapElement=1021103",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "꽤나 긴장한 모양이네. 마치 큰일이 벌어질 걸 알고 있는 것처럼 말이야."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "이상한 생각으로 가득 찬... 너희들의 그 두뇌로 어렴풋이 느껴질 거야. 그건 바로 네 특별한 능력, 예민한 신경, 충만한 감정과 함께 오는 능력이지."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "일이 복잡해지자 새 친구와 옛 친구들이 하나둘씩 도착했고, 그리고 너희들은 모두 여기에 모였어."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "안개가 자욱하게 피어올라 검은 것과 흰 것이 나누어진 모습이 마치 투견 두 무리를 분리한 것 같지. 서로의 공간을 빙빙 돌며, 드러낸 엄니는 마치 자기 꼬리를 찢어버릴 것만 같아."
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "안개 속에서 무슨 일이 일어났지?",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "좋은 질문이야, 자기. 함께 여길 봐 보자, 바로 네 발아래 말이야..."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "넌 재건의 손의 영역을 돌아다녔고, 놈들의 눈꺼풀 아래에서 붉은 깃털과 핏자국 속의 슈나이더를 훔쳐냈어, 그리고 아름다운 드루이드에게 속삭였지."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "네 적들은 깨끗하지 못했어. 이 나무 상자들을 봐, 다들 모두 배고파 죽을 지경이지만 여기엔 솜, 솜, 그리고 솜밖에 없지."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "버터, 밀가루, 설탕, 달콤한 좋은 것들은 전부 검은손을 통해 시카고로 옮겨졌지. 그래도 괜찮아, 솜으로도 배를 채울 수 있으니까."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "자, 날 따라와. 저기 공기 중에 눈물이 고인 곳을 봐. 혼수상태의 죽어가는 아이를 안고 흐느끼고 있는 한 어머니가 있어. 그런데도 귀족 마나님들은 여전히 비단을 걱정하고, 보석에 진흙이 묻을까 걱정 중이지."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "안개 밖에서는 무슨 일이 일어났지?",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "그렇지, 그렇게 물어야지. 넌 밖에 나가지 않은 지 오래되어서 이들의 이야기를 전부 알진 못할 거야. 내가 너였어도 궁금했겠지."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "성 파블로프 재단의 똑똑한 사람들은 너처럼 재건의 손의 움직임을 감지했고, 운송을 차단하면서 안개를 향해 다가갔어."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "검은 수트를 입은 여자애는 네가 정해준 곳으로 이미 돌아갔고, 그들은 잘 정착할 수 있게 해줬어."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "그리고 네 충성스럽고 예쁜 친구는 널 위해 분투하고 있어. 곁에는 시끄러운 로커 소녀, 머리가 잘 돌아가는 젊은이, 그리고 붉은 열매가 있네."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "녀석은 널 구하러 가던 중에 전투의 계곡을 건넜어. 마치 왕자가 잠자는 성의 가시덤불을 지나는 것 같았으며, 마치 강아지가 기적적으로 불바다 속에 있는 주인을 끌어내는 것과 같았지."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "이 안개는 뭐야?",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "재미난 선택이군. 괴짜라는 네 신분과 꽤나 어울려."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "넌 남다른 두뇌를 가지고 있고, 그 안에 남다른 걸 담고 있어. 나쁘지 않으니 그대로 유지하며 잘 사용하도록 해."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "네 질문으로 돌아가자. 안개... 안개는 의심의 여지 없이 그 술집 주인이 만든 거야. 마치 술을 섞는 것처럼 이걸 좀 넣고, 저것도 좀 넣어서, 큰 도가니를 몇 번 휘저으면 원하는 게 자연스럽게 나오지."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "그것엔 안개의 원래 효과가 있어. 시야를 가리고, 비밀을 숨기고, 출입자의 속도를 늦추는 것 말이야. 안개에 없는 효과도 있어. 환각을 일으키는 독소가 흐르고, 영원히 안개 속 지도에 기록되지 않은 갈림길에서 길을 잃게 하는 것들이지."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "녀석은 똑똑하면서도 음흉해. 하지만 똑똑한 사람은 어딜 가든 있어, 특히 이런 곳은 더더욱."
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "우리가 할 일은 기다리고, 기다리고, 또 기다리는 거야.\n근데 오래는 기다리지 마, 그러면 바보가 되거든. 알겠어? 적당히 기다리는 거야, 적당히!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "멋진 공연이 곧 시작될 거야. 역사상 가장 성대한 공연을 보게 될걸! 오, 물론 너도 갈 수 있어. 한복판에서 네 예쁜 상자랑 우산 하나 들고 멋지게 싸워 봐."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "두고 봐, 검은 개와 흰 개 사이의 칸막이는 오래 못 버틸 거야. 물어뜯고 피 흘리는 것은 피할 수 없어."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "팝콘 잘 챙겨, 자기야.\n그리고... 똑바로 앉아서 잘 붙잡아. 네가 울거나 말거나 난 전혀 신경 안 쓰니까."
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100219",
+      "internal_title": "第二章2-11.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "폴리포션"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "이 가루약들은 독성이 없어."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "포겟미낫이 사용한 레시피에도 위험성이 딱히 없어 보여."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "포션에서 좋은 냄새가 나는데. 마치..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "어째서지? 진짜 병을 고칠 생각인가? 그럴 리가."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "노숙자",
+          "text": "비켜! 비키라고!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "윽...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "노숙자",
+          "text": "약을 어디다 숨겨 놓은 거지? 열, 열어서 봐야겠다...! 이 상자들은 뭐야!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "환자",
+          "text": "윽, 콜록... 이 물건들은 건드리면 안 됩니다. 군용 구호 물품이에요!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "노숙자",
+          "text": "솜, 솜... 아! 이불이잖아... 누가 이딴 게 필요하다고...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "긴급 구호 물품?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "그랬던 거였구나... 대량의 식량과 기름, 의료용품, 비상 물자, 임시 기반 시설 공구..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "재건의 손은 정부의 지원을 받지 않으니, 다른 시대에서 입지를 확보하려면 물자가 필요한 걸 거야."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "'폭풍우' 전야의 고요함이라는 건 물자를 빼돌리는 걸 덮기 위해서였군!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "안 되겠어. 10시까지 기다릴 때가 아니야, 반드시 그 전에 소네트 일행과 만나야 해!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "노숙자",
+          "text": "이봐! 포션을 들고 도망가는 거지? 내 포션 내놔...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "오해입니다. 전 여기서 일하는 사람이 아니에요. 다만 포션은 곧 올 겁니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "하지만 노숙자는 처량하게 울부짖었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "노숙자",
+          "text": "싫어! 날 속이지 마...! 불태워 죽여버린다!... 어서 내놔...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "큰일이다, 이러다 다른 사람들까지 이쪽으로 몰려들겠어! 얼른 무슨 수를 써야 해...!"
+        }
+      ]
+    },
+    {
+      "script_id": "100220",
+      "internal_title": "第二章2-11.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "...미안해요. 잠시 눈 좀 붙이세요. 이런 식으로 체력을 소모하시면 안 됩니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "관목숲을 헤치고 지나갔더니 인적 없는 오솔길이 펼쳐졌다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "사방에서 오래된 휘발유 타는 냄새가 느껴진다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "드루비스",
+          "text": "도망가려고요?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "드루비스 씨..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "마중 가려는 겁니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "드루비스",
+          "text": "그럼 다른 길로 가셔야 할 텐데요. 또 그때처럼 길을 잃으셨나요?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "드루비스",
+          "text": "이 길 앞에는 보초들이 깔려 있어요. 아까보다 훨씬 위험할 거예요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "드루비스",
+          "text": "그래도 계속 앞으로 가실 건가요?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "...물론이죠."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "'내일'을 직접 확인할 수 있을 때까지."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "드루비스 씨, 저랑 같이 가시겠습니까?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "드루비스",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "드루비스",
+          "text": "당신의 친구가 오고 있어요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "드루비스",
+          "text": "거대한 것들을 잔뜩 몰고 이쪽으로 오고 있는 게 보이네요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "드루비스",
+          "text": "'우리'가 그토록 원하던 것들은 옮겨지고, '우리'가 경멸하던 건 구원 받는 중이죠."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "드루비스",
+          "text": "하지만 '우리'의 적은 아직도 늘어나고 있어요. 남쪽에서 북쪽으로, 서쪽에서 \n동쪽으로요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "드루비스",
+          "text": "'폭풍우'가 닥쳐올 거예요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "드루비스",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "드루비스",
+          "text": "당신의 제안을 받아들일게요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "드루비스",
+          "text": "하지만 이건 공식적인 작별 인사예요. 전 제 숲의 마지막 모습을 기억해둬야 \n하거든요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그녀는 머리를 쓸어올리더니 치료센터 방향으로 걸어갔다."
+        },
+        {
+          "kind": "title_card",
+          "text": "검은 숲·깊은 곳"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소네트",
+          "text": "어때요? 이게 아마 우리가 포획한 세 번째 운송 트럭이죠?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소네트",
+          "text": "재건이 이목을 피하려고 물품 운송 경비원 수를 일부러 줄였어요. 분명 기습당할 \n거라곤 생각 못한 걸 거예요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소네트",
+          "text": "부대장, 지금 팀원들과 함께 이 수송차 세 대를 장원으로 호송하세요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소네트",
+          "text": "나머지 사람들은 저와 함께 계속 치료센터 쪽으로 전진합시다!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "사람들",
+          "text": "예!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "슈나이더",
+          "text": "최신 환각제는 완성됐나요~ 자신 있으면 제 입에 바로 부어주셔도 괜찮은데..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소더비",
+          "text": "내 실험 대상으로 자처해 줘서 고마워!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소더비",
+          "text": "근데 환각제가 만들어져도 너한텐 아무 효과가 없을 텐데."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소더비",
+          "text": "골드바가 먹고 싶은 것도 아니잖아..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "슈나이더",
+          "text": "흠? 제가 자원하는 게 마음에 안 드시나 봐요?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "슈나이더",
+          "text": "가족을 대신해서 먼저 시험해보겠다는데... 그것도 안 돼요? 아가씨 생각은 도통 \n이해하기 힘드네요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "슈나이더",
+          "text": "어쨌든 전 드루비스 손에서 도망친 여성이니까... 여러분에 비하면..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "슈나이더",
+          "text": "죽음이 어떤 건지~ 잘 알고 있답니다~"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소더비",
+          "text": "드루비스 씨가... 대체 누구야? 다들 맨날 얘기하던데 설마 나만 모르는 거야?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소네트",
+          "text": "드루비스에 관한 조사 보고서를 본 적 있는데, 워싱턴주 산림 재벌의 \n의붓딸이라더군요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "장원 집사",
+          "text": "와이어하우저가 말씀이십니까? 우리 주인님과 교류하던 사이였습니다만."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "장원 집사",
+          "text": "하지만 굉장히 불행한 일을 겪게 되었죠... 신문에도 나온 적 있습니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "장원 집사",
+          "text": "소련의 목재 가격 덤핑으로 인해 가문이 파산했습니다. 거스를 수 없는 시대의 \n운명이었지요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "장원 집사",
+          "text": "게다가 나중에는... 아니, 이쯤 하도록 하죠."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소더비",
+          "text": "카슨 씨, 왜 말을 자꾸 흐리는 거야!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "장원 집사",
+          "text": "아닙니다. 제 생각에 드루비스 씨는 옛일을 들추고 싶지 않으실 것 같아서 말입니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "장원 집사",
+          "text": "저 또한 다른 집안의 사적인 일을 입에 올려선 안 되고요. 마음에 두지 마십시오."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소네트",
+          "text": "다들 조심해요, 곧 치료센터 주변이에요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소더비",
+          "text": "와... 숲에 벌써 안개가 끼기 시작하네!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소더비",
+          "text": "콜록! 안개에서 이상한 냄새가 나, 몸이 마음대로 안 움직여!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소더비",
+          "text": "머리도 어지러워... 아..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소네트",
+          "text": "숨을 참고 이쪽으로 오세요. 이 안개는 치료센터를 은폐하기 위한 보호 주문일 거예요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소네트",
+          "text": "10시까지 35분 남았어요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소네트",
+          "text": "근처에 있는 난민의 상황이 좋지 않아요. 경비도 많이 강화됐어요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소네트",
+          "text": "지금부터는 움직일 때 신중에 신중을 기해야 합니다. 안개의 영향을 받지 않도록 \n하세요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소더비",
+          "text": "응... 콜록, 알겠어!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소더비",
+          "text": "버틴 씨를 만나기 전에 옮길 수 있는 데까진 최대한 옮겨 보자고!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소네트",
+          "text": "좋아요, 다시 한번 말해두죠. 우리의 목표는 물품을 옮기고 난민을 구하는 겁니다!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소네트",
+          "text": "움직이죠!"
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

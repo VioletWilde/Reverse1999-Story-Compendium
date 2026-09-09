@@ -1,4 +1,4 @@
-# Event Stories · Notes on Shuòrì
+# Event Stories · Notes on Shuori
 
 - [1610101 Safe Travel](1610101-Safe Travel.md) — Farewell, mother. Leave your resentments behind. This is as far as it goes; no need for goodbyes.
 - [1610102 Adagio](1610102-Adagio.md) — Raise your hand and settle this like civilized people.

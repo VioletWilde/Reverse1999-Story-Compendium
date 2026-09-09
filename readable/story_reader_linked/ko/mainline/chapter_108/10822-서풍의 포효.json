@@ -1,0 +1,477 @@
+{
+  "episode_id": 10822,
+  "chapter_id": 108,
+  "chapter_title": "슬픈 열대",
+  "display_label": "",
+  "title": "서풍의 포효",
+  "subtitle": "이곳에서 여름이 끝나고, 빙해가 펼쳐진다.",
+  "trails": [
+    {
+      "element_id": 1082201,
+      "owner_episode_id": 10822,
+      "trigger_episode_id": null,
+      "title": "선견과 계획",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=10822",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "네가 들으면 기뻐할 정보가 있어."
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "1분 줄게.",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "장담하건대, 1분만 더 있었으면 할 거야. 왜냐하면 우리 모두가 알고 있는 친구, 네가 계속해서 찾아 헤매던 그 친구와 관한 이야기이니까."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "그 의사, 아니 그 작가. 그녀에겐 이름이 아주 많아, 너나 나처럼. 안타까운 건 그녀의 머릿속에 남은 게 그리 많지 않다는 거지."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "그 전투 이후에 소수의 생존자만 그녀의 대단한 업적을 기억하고 있었던 것처럼 말이야."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "이제 이 마음씨 좋은 의사는 우리 사랑스러운 장군의 사악한 계획의 중요한 일부가 되었어."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "그가 또 알아?",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "지휘자가 없는 오케스트라는 교향곡을 제대로 연주할 수 없지. 장군은 그 없어진 중요한 부분을 알아차리고 주저 없이 기회를 잡았어."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "경험은 베테랑에게 상처를 주기도 하지만 지혜를 선물해 주기도 하지. 그는 이 일방적인 도박에서 자신이 우위를 점해야 한다는 것을 알고 있었어."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "나도 모르겠어. 이 보고서에 안 적혀 있네. 하지만 한 가지 추론은 할 수 있지."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "그 사고만 치는 녀석들은 기껏해야 사방에 혼란이라는 씨앗을 뿌리고, 폭탄 도화선에 바람을 불어넣었을 거야. 하지만 그들 모두 그 폭탄의 폭발력이나 폭발 범위 같은 건 생각해 본 적 없었겠지."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "이제 그들도 이건 통제할 수 없는 변수이자, 폭발만으로는 문제를 해결할 수 없다는 사실을 깨달았을 거야. 목적지에 도달하기 위해서는 이전보다 더 힘들고 위험하더라도 새로운 길을 개척해야 하지."
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "계속 말해봐",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "시간이 다 되었어. 참 빠르네, 그렇지?"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "새로운 소식이 있으면 다시 올게. 할 수 있으면 최선을 다해 살아남아. 네가 부디 오래 살아서 우리가 이렇게 더 오래 함께할 수 있으면 좋겠다."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "무슨 계획?",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1082202,
+      "owner_episode_id": 10822,
+      "trigger_episode_id": null,
+      "title": "옛 갈림길-닥터 델로스",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=10822",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "한 운명을 거스르려는 싸움에서 어느 의사의 유일한 무기였던 독특한 타자기."
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100835",
+      "internal_title": "第八章8-22",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "서풍의 포효"
+        },
+        {
+          "kind": "title_card",
+          "text": "서쪽 바람의 절벽"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "옳은 선택을 하셨어요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "이고르 장군",
+          "text": "우리는 모두 그의 지시를 따른 것이네, 전도자."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "이고르 장군",
+          "text": "안타깝게도 그 서큐버스는 데려오지 못했다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "이고르 장군",
+          "text": "하지만 우르드와 이걸 데려왔지. 자네에게 필요할 거라고 생각했네."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "전도자 소피아",
+          "text": "......"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "전도자 소피아",
+          "text": "아뇨, 장군. ‘제’가 필요한 게 아니라..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "전도자 소피아",
+          "text": "우리 모두가 필요한 것입니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "전도자 소피아",
+          "text": "우리 모두는 그분이 내린 기적이 필요해요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "이고르 장군",
+          "text": "내 부하들은 가면을 쓰지 않을거야. 시련도 받지 않을 거고."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "이고르 장군",
+          "text": "내 자식들의 충성심은 시련을 통해 확인하지 않아도 된다네, 전도자."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "이고르 장군",
+          "text": "우르드는 우선 내가 보호하고 있겠다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "전도자 소피아",
+          "text": "당신의 뜻을 따르겠습니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "전도자는 장군의 요청을 수락했다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "상관없었다... 아무래도 상관없었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그녀는 멀리 남쪽을 바라보았다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "전도자 소피아",
+          "text": "다음에 뵙겠습니다, 장군."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "전도자는 소생의 어머니가 세상에 남긴 흔적을 받아 들고 장군에게 작별인사를 전했다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "몰디르",
+          "text": "아버지..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "몰디르",
+          "text": "제가 로페라를 쐈습니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "총을 쏜 것도 그렇지만, 그 총알이 심장을 향한 건지 아니면 대지를 향한 건지, 그것 또한 중요한 부분이었다. 하지만 장군에게 그 모든 건 중요하지 않았다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "몰디르",
+          "text": "솔직히 말씀드려야겠어요, 아버지. 제 개인적인 관점으로는 아버지의 결정에 전적으로 동의할 순 없습니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "이고르 장군",
+          "text": "자네의 의견은 존중하네, 중위. 하지만 자네의 동의는 필요없어."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "몰디르",
+          "text": "복종이겠죠. 알아요, 아버지."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "이고르 장군",
+          "text": "맞아."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "몰디르",
+          "text": "처음부터 로페라가 안 올 거라고 예상했나요?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "이고르 장군",
+          "text": "그 아이는 중요하지 않다. 그 아이는 형제단에서 우르드를 데려왔어. 그게 내가 그 아이에게 바랐던 전부다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "몰디르",
+          "text": "하지만 형제단은... 솔직히 말씀드리겠습니다, 장군."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "몰디르",
+          "text": "그들이 재건의 손... ‘친구’와 관련이 있다고 들었습니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "한때 적이었던 사람을 '친구'라고 부르는 것은 쉽지 않았다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "변절은 씻을 수 없는 치욕이다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "이고르 장군",
+          "text": "난 네가 로페라와 같은 선택을 할 거라고 생각했다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "몰디르",
+          "text": "아뇨, 아버지. 전 아버지를 따를 겁니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "이고르 장군",
+          "text": "그 애가 원하는 대로 하게 해라."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "홀로 떨어진 갈매기가 따뜻한 북쪽을 향해 날아갔다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "노장군은 군 휘장을 단 딸의 어깨를 토닥였다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "이고르 장군",
+          "text": "닥터 도레스를 데려오거라."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "몰디르",
+          "text": "네, 아버지."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "부관은 맹인 의사를 데려온 후 말 없이 그 절벽을 떠났다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "닥터 도레스",
+          "text": "저를 다른 사람으로 착각하셨나 보군요. 전 당신을 몰라요, 장군님."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "이고르 장군",
+          "text": "아니, 착각했을 리 없다네."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "이고르 장군",
+          "text": "오랜 친구여..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "이고르 장군",
+          "text": "밀레니엄이 오기 며칠 전, 우리는 함께 싸웠었지."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "노인의 녹슬고 얼룩진 기억의 전당 속에서 과거의 기억이 떠올랐다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "이고르 장군",
+          "text": "돌이켜보면 그 전투는 실수였을지도 몰라."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "이고르 장군",
+          "text": "‘폭풍우’가 전 세계를 휩쓸었고, 혼란의 시대와 아버지를 잃은 고아들을 남겼지."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "이고르 장군",
+          "text": "우리는 미래를 잃었어."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "장군은 결코 희생을 위해 움직이지 않는다. 왜냐하면 이 모든 것은 승리와 더 위대한 목표를 위해 어쩔 수 없는 부분이기 때문이다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "이고르 장군",
+          "text": "하지만 이제 또 다른 길이 놓여 있어. 우리가 한때 모든 것을 걸고 반대했던 그 길 말이야."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "이고르 장군",
+          "text": "아르카나가 개척한 길이야."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "이고르 장군",
+          "text": "분쟁이 없는 세상으로 가는 길 말이야."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "이고르 장군",
+          "text": "내 오랜 친구여..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "안타깝게도 그 말 속에는 그녀가 이해할 수 있는 단편적인 정보조차 없었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그녀는 그냥 국경 없는 의사인 도레스였다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "이고르 장군",
+          "text": "재단이 자네에게 준 그 대리석 의자... 그 뒤에 숨겨진 비밀이 뭐지?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "이고르 장군",
+          "text": "그 버튼을 누른 후 무슨 일이 있었나?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "닥터 도레스",
+          "text": "아무 일도 없었어요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "이고르 장군",
+          "text": "하얀 방에 들어간 후 무슨 일이 있었는지 기억나나?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "닥터 도레스",
+          "text": "미안하지만 저는 아무것도 몰라요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그녀는 장군의 질문에 최대한 성실히 대답했지만 단호했다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "노장군은 한숨을 내쉬며 코트 속에서 잡지 한 권을 꺼냈다. 그는 의 독자도 아니었고, 딱히 큰 관심도 없었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "이고르 장군",
+          "text": "친애하는 우르드 씨."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "이고르 장군",
+          "text": "‘폭풍우’ 사이로 자네의 이름이 계속 나타났어."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "이고르 장군",
+          "text": "그동안 자네가 무엇을 만났고 무엇을 경험했는지 알지 못하네."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "이고르 장군",
+          "text": "하지만 자네의 존재 자체가 우리 모두의 운명을 바꾸려고 하지..."
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

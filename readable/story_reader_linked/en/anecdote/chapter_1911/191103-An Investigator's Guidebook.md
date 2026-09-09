@@ -1,6 +1,6 @@
 # An Investigator's Guidebook
 
-- Chapter: Finding Xavier (`1911`)
+- Chapter: Eagle (`1911`)
 - Episode: `191103`
 
 > Subtitle: Naive contemplation and solemn handwriting. A discourse of experience.

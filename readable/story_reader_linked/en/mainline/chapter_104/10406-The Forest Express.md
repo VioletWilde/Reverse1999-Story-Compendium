@@ -1,6 +1,6 @@
 # The Forest Express
 
-- Chapter: El oro de los tigres (`104`)
+- Chapter: El Oro de los Tigres (`104`)
 - Episode: `10406`
 
 > Subtitle: To welcome the unexpected good luck, clean your chimney so it won't get stuck.

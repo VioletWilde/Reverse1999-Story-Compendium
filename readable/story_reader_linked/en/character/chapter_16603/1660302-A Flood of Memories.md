@@ -1,0 +1,180 @@
+# A Flood of Memories
+
+- Chapter: Flowing in the Wind (`16603`)
+- Episode: `1660302`
+
+## Transcript
+
+**Getian's Clan Mate**: Life in the mountain is indeed carefree.
+
+**Getian's Clan Mate**: Listen, there's the wind, the rustling leaves, and the chirping birds, all much more beautiful than that awful racket that humans make.
+
+**Getian's Clan Mate**: Do you think so, Yànpíng?
+
+The bird called Yànpíng moves carefully to the trunk of the tree, so he could hide in the shadow.
+
+**Yanping**: I've never left the mountain. Which is more annoying, the noises made by humans, or those made by animals?
+
+**Getian's Clan Mate**: To you, I think they would both be annoying, just in different ways.
+
+**Getian's Clan Mate**: I admit, listening to the daily conversation of humans and their haggling in the market can sometimes be interesting.
+
+**Yanping**: Is that so?
+
+Birds like any intelligent creature can have different personalities and hobbies.
+
+One can tell the differences between them by listening carefully to their chirps. One might be loud and talkative, while the other makes only a few short sounds in reply.
+
+**Getian's Clan Mate**: They do invent many new and useful things, some that maybe you will need one day.
+
+**Getian's Clan Mate**: Like bricks. Our nests have been much better protected since they showed me how to make them.
+
+**Yanping**: That's true.
+
+**Getian's Clan Mate**: And the technique of making beautiful melodies with bamboo and wood with holes, or the doodles they draw that can hold their words ...
+
+**Getian's Clan Mate**: They can even measure time, using something they call a "calendar."
+
+**Getian's Clan Mate**: They can see into the essence of ordinary things and dream up wondrous creations from them.
+
+**Getian's Clan Mate**: If you look at the world like a human does, you will probably be shocked by its vastness.
+
+**Yanping**: It is.
+
+**Getian's Clan Mate**: ... Yànpíng.
+
+**Getian's Clan Mate**: I know you don't care about humans, but I feel I should tell you everything I want to say.
+
+Yànpíng moves back to where he had stood before, right next to the other bird. Their wings rubbing against each other, with feathers puffing out.
+
+**Yanping**: So ... you are leaving too.
+
+**Yanping**: Well, it's only a matter of time. Good luck.
+
+**Getian's Clan Mate**: Thank you.
+
+In a rare moment of silence in the tree. One of the birds stretches his wing to cover the other.
+
+**Getian's Clan Mate**: You're still unwilling to leave the mountain ... Is it because you can't bear to stay away from home?
+
+**Yanping**: I simply have not found a reason to leave.
+
+**Getian's Clan Mate**: Your time has not yet come, I guess, but that's fine, we need someone to take care of our nests and belongings ... I'll leave my books and instruments to you.
+
+**Getian's Clan Mate**: You are the first one born in the Central Plains after we migrated. I think you will adapt to the environment here faster than we do.
+
+**Getian's Clan Mate**: We are so used to living high in the sky. When we look down, both the cities and the people are no different from dirt piles. Only by living among them can we truly experience the prosperity described in the poems.
+
+**Getian's Clan Mate**: I think you will leave the mountain one day.
+
+**Yanping**: But not for now, at least.
+
+**Yanping**: It's not yet time for me to think of such things.
+
+**Getian's Clan Mate**: Just as well ... You glide slowly just like always.
+
+**Getian's Clan Mate**: Hopefully I'll be useful to our people one day. I don't want to become another lazy bone always snoozing beneath the tree ...
+
+The seasons changed, beasts and birds came and went away. And the traces they had left behind were gone in less than a day as the leaves fell.
+
+The stream flows downwards and the wind blows its course night and day as always.
+
+**Yanping**: You've returned.
+
+**Bone Collector**: Hmm, who ... Ah, it's you, Yànpíng.
+
+**Yanping**: Whose bones are these?
+
+**Bone Collector**: Not your friends', I'm afraid.
+
+**Bone Collector**: I will take them all to our temple. You may check them yourself should you wish.
+
+**Yanping**: I will.
+
+**Bone Collector**: Quite some time has passed. Yet, still you choose not to leave the mountain.
+
+**Bone Collector**: Well, given the situation of our race, I guess you will be the last one left to take care of our bones.
+
+**Bone Collector**: You will have to leave one day.
+
+**Yanping**: I thank you for the reminder. Now, please leave me alone.
+
+The bird robed in loose clothing stretches its wings and flies towards the point of a roof far away.
+
+**Yanping**: ... It is fine weather for a nap.
+
+**Yanping**: Both the mountain and the human world are between the sky and the earth. Are they really different?
+
+**Yanping**: Anyway, the breeze feels comfortable now. I should take a nap.
+
+**Yanping**: There are so many bones left in the temple. It could take a hundred years or even more to read through each one's stories.
+
+**Yanping**: I might have a long life, but I'd still rather spend that time on the things I'm actually interested in.
+
+**Yanping**: These stories have nothing to do with me.
+
+**Yanping**: There is no need for me to leave the mountain.
+
+The beasts in the mountain remained there for several generations, until the rocks in the stream had been polished smooth.
+
+But the scholar tree where the birds rested remained as green as ever.
+
+**Yanping**: Our kind has not had a new generation for a long time.
+
+**Yanping**: I don't think anyone will be able to collect my bones and move them to the temple if I die outside this mountain.
+
+**Yanping**: In that case, then the tombs here would eventually be buried by weeds.
+
+**Yanping**: We migrated and followed the humans. We studied from different cultures. We put so much effort into prolonging the lives of our people.
+
+**Yanping**: Yet it was all in vain, as I expected.
+
+What eventually led him to leave the mountain was a summoning. In layman's terms, it was like a wordless awareness or calling.
+
+Every member of his race would have felt it. Whenever it happened, they each would fold their wings and lower their heads, and the bone collector would set off to where the bones lay.
+
+**Yanping**: Better make it quick.
+
+**Yanping**: It's not far. Good, it's not too close to the human city. I won't be interrupted.
+
+**Yanping**: He must have been on his way back to the mountain ... but didn't make it.
+
+**Yanping**: No matter. I'll take him back.
+
+From his view high in the sky, spotting the white bones strewn across the green foliage was a simple matter.
+
+Seeing his target, he folded his wings and landed.
+
+**Yanping**: We meet again.
+
+He examined the skull beneath the cloth, and felt for a second it peered back at him. The wilderness was silent, as if the place were long abandoned.
+
+Like how they used to, he kept a bit of a distance, but this time the bones did not hop forward to meet him.
+
+One wing covered the other again.
+
+**Yanping**: You know, I often wondered why every bone collector would eventually leave the mountain, just as you did. Was it the scenery, the people ... something else?
+
+**Yanping**: You left to help humans build cities and bridges. You even sought out water sources and gave them your so-called advice.
+
+**Yanping**: What is your purpose?
+
+There was no reply. He hadn't cast the arcane skill that might allow the skull to speak.
+
+Yànpíng lowered his head and found a line of ants climbing through a hole in the skull.
+
+**Yanping**: To verify that you have learned the right knowledge? To offer help to the creatures similar to you?
+
+**Yanping**: ...
+
+**Yanping**: Or you just simply could not resist the desire to do so?
+
+Yànpíng stayed there with the silent bones for a long time. Before he took wing again.
+
+**Yanping**: No matter.
+
+**Yanping**: "All men, whether great or ordinary, will end up a pile of bones." There's nothing else I can say.
+
+**Yanping**: It's time to return.
+
+> 【Title card】6#1

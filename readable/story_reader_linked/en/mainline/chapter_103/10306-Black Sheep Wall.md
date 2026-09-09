@@ -1,6 +1,6 @@
 # Black Sheep Wall
 
-- Chapter: Nouvelles et Textes pour rien (`103`)
+- Chapter: Nouvelles et Textes pour Rien (`103`)
 - Episode: `10306`
 
 > Subtitle: So she mustered the courage and jumped high into the air. That was when the seed was planted in her heart.

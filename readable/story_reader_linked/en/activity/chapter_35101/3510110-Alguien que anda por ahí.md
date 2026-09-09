@@ -1,6 +1,6 @@
 # Alguien que anda por ahí
 
-- Chapter: 绿松石蛇俱乐部 (`35101`)
+- Chapter: The Turquoise Serpent Club (`35101`)
 - Episode: `3510110`
 
 > Subtitle: Dreams are tilting toward this shore.

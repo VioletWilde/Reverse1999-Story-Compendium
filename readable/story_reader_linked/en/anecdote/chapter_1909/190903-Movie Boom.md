@@ -1,6 +1,6 @@
 # Movie Boom
 
-- Chapter: To Wennifred (`1909`)
+- Chapter: To Winnifred (`1909`)
 - Episode: `190903`
 
 > Subtitle: We experience movies, dreams, and the constant movement of time.

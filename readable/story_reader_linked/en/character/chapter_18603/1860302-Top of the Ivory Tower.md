@@ -1,4 +1,4 @@
-# Top of the Ivory Tower
+# Top of the Ivory Tower
 
 - Chapter: Silver Knot (`18603`)
 - Episode: `1860302`

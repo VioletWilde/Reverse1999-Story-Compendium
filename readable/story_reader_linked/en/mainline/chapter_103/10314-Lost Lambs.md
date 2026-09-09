@@ -1,6 +1,6 @@
 # Lost Lambs
 
-- Chapter: Nouvelles et Textes pour rien (`103`)
+- Chapter: Nouvelles et Textes pour Rien (`103`)
 - Episode: `10314`
 
 > Subtitle: Dear, it's not their fault. All the kids need is proper guidance.

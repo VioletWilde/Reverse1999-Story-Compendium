@@ -1,6 +1,6 @@
 # Crank Up the Rock
 
-- Chapter: The  Best Band in Town (`1920`)
+- Chapter: The Best Band in Town (`1920`)
 - Episode: `192007`
 
 > Subtitle: Rocking all the way to the coast.

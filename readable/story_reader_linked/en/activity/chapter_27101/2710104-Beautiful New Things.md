@@ -1,6 +1,6 @@
 # Beautiful New Things
 
-- Chapter: 1987 Космическая Увертюра (`27101`)
+- Chapter: 1987 Cosmic Overture (`27101`)
 - Episode: `2710104`
 
 > Subtitle: A small town shimmering with light and fireworks, a wandering friend once said. Come, take a chance.

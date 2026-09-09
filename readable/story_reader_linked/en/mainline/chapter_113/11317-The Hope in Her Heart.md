@@ -1,6 +1,6 @@
 # The Hope in Her Heart
 
-- Chapter: 他者的悲哀 (`113`)
+- Chapter: On Another's Sorrow (`113`)
 - Episode: `11317`
 
 > Subtitle: A single candle's light cannot fill an empty room.

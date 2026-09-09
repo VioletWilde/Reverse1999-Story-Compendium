@@ -1,4 +1,4 @@
-# Self-exile
+# Self-Exile
 
 - Chapter: Back to Earth (`1906`)
 - Episode: `190603`

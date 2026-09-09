@@ -1,6 +1,6 @@
 # The Admiral and His Men
 
-- Chapter: 远征记 (`112`)
+- Chapter: The Campaign's Tale (`112`)
 - Episode: `11221`
 
 > Subtitle: They once traveled down the same road.

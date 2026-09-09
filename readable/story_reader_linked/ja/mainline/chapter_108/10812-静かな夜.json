@@ -1,0 +1,444 @@
+{
+  "episode_id": 10812,
+  "chapter_id": 108,
+  "chapter_title": "悲しき熱帯",
+  "display_label": "",
+  "title": "静かな夜",
+  "subtitle": "明日に別れを告げる夜に、我々に歌声が届く。どうか、平和があなたと共にありますように。",
+  "trails": [
+    {
+      "element_id": 1081201,
+      "owner_episode_id": 10812,
+      "trigger_episode_id": null,
+      "title": "感謝の壁",
+      "description": "世界には、こっそりいいことをする秘密の組織がある。その組織のメンバーの名前を壁に書いておこう。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=10812",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "ミスター・マーブルへ"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "ご寄付いただいた匿名の方へ。廃兵院一同、あなたのご厚情に感謝します。この困難な時期に、あなたからのご支援は私たちにとって大きな支えとなりました。ミスター・マーブルと呼ばせてもらいましょう。普段は金銭のみのご寄付でしたが、あの大理石の椅子を寄付されたということは、きっと大理石に何か特別な思いを抱いているのではないかと私は思います。もしここを通りすがり、この手紙を読んだのでしたら、隣の門から入ってください。廃兵院一同熱く歓迎しますから。きっとご援助いただいた廃兵院の温かい雰囲気を気に入っていただけると思います。そしてあの大理石の椅子に埋め込まれた、特別な赤いボタンの話を、私たちに聞かせてください。"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1081202,
+      "owner_episode_id": 10812,
+      "trigger_episode_id": null,
+      "title": "在りし日の分れ道・アンジョナナ",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=10812",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "汚れ一つない羽根があっても、永遠に川の向こう側に渡ることができない。"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100818",
+      "internal_title": "第八章8-12",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "静かな夜"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "ホワイトラムはファヴェーラから廃兵院までの航路をよく知っていた。何度も医者を乗せて往復していた道だ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ホワイトラム",
+          "text": "初めてここに若者を連れてくるわ、ロペラを除いたらだけどね。あと医者も――いや、彼女はもう若いと言える歳でもないか、アハハ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "……"
+        },
+        {
+          "kind": "title_card",
+          "text": "サンパウロ廃兵院"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ホワイトラム",
+          "text": "…ちょっと冗談が過ぎたかな？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "ううん。とても面白いよ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "ジョークを聞いたからには、相応の反応をするのがマナーだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ホワイトラム",
+          "text": "別に無理に合わせないでいいよ。誰も笑わないジョークこそ、最高のジョークだって言うしね。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "廃兵院のマダム・マリアンヌがお菓子を持ってきた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "ここにはリオデジャネイロ海岸に降り注ぐ太陽の光のように、無限とも言える量の砂糖がある。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "マダム・マリアンヌ",
+          "text": "またほらを吹いているのかい、シッピー。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "ホワイトラムと医者は昔、廃兵院に住んでいた時期があった。だが、今日帰ってきたのは彼女と新しい客人二名のみ。医者の姿はなかった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "お邪魔してすみません。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "マダム・マリアンヌ",
+          "text": "あんたら、ロペラの友人だろう？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "マダム・マリアンヌ",
+          "text": "もっと早くに来ていたら、ドクター・ドレスとダンカンに会えたんだけどねぇ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "マダム・マリアンヌ",
+          "text": "二人ともファヴェーラに行ったっきり、もう数日も帰ってないよ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "残念です。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "ミス・キンバリーは庭にどこか懐かしさを覚え、警戒しながら周囲を見渡す。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "マダム・マリアンヌ",
+          "text": "おや、その子…６０年頃だったか、彼女に似た子が、ここで働いていたことがあるわ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "マダム・マリアンヌ",
+          "text": "当時はぬくもりの館と呼ばれていたんだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "老人は懐に抱く猫の顎を撫でた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "マダム・マリアンヌ",
+          "text": "でも、もうどんな姿をしてたかはっきりとは思い出せないわ。あたしももう年だねぇ。何もかも忘れちまったんだから。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "ドクター・ドレスの部屋を少し見せてもらっても？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "マダム・マリアンヌ",
+          "text": "もちろん構わないよ。でも、勝手にあちこち触っちゃだめだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "マダム・マリアンヌ",
+          "text": "部屋に鍵はかかっちゃいないよ。普段は誰も入らないからねぇ。ほら、ここだよ――"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他の部屋と何ら違いはない。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "つる植物が屋根から垂れ下がり、まだら色の壁には遠い歳月を思わせる傷が刻まれている。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "なんの変哲もない部屋だ。ミス・キンバリーはその入口付近の壁に寄りかかり、猫を抱え、そのお腹を撫でていた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ミス・キンバリー",
+          "text": "きゃああ――！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "ん？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ミス・キンバリー",
+          "text": "なんて悪い子なのかしら！　よくも耳を噛んだわね！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "猫はミス・キンバリーの肩に飛び乗り、つるでできた緑のカーテンに爪をひっかけると、廃兵院の外へと逃げていく。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ミス・キンバリー",
+          "text": "あ…ちょっと、待ちなさいよ…！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "彼女は自分が思っていたほど柔軟ではなかった。猫の動きを見たせいで、彼女自身も動きが柔らかくなった気でいたのだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "実際はそれほど軽く動けず、埃が積もった木の扉を押し倒し、全身埃まみれになった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "扉が倒れた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ミス・キンバリー",
+          "text": "うっ、いたた…どうしてこんなことに…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ミス・キンバリー",
+          "text": "ちょっと、あんたいつからいたの！？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "最初からここに立ってたけど。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "新しい扉の開け方だね。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "中に入ってみよう。"
+        },
+        {
+          "kind": "title_card",
+          "text": "廃兵院の客室"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "ここもまた、なんの変哲もない客間だ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "部屋には白い大理石の椅子があり、手すりには赤いボタンが置かれていた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "…ん？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "その大理石の素材にはどこか見覚えがあるが、思い出せない。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "ミス・キンバリーの廃兵院に対する感覚と同じだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ミス・キンバリー",
+          "text": "赤い…ボタン？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "場に不釣り合いなボタンを見ると、押してみたくなる衝動に駆られる。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "ミス・キンバリーはその椅子に座り、恐る恐るボタンを押してみた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "――カチ。カチ、カチカチ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "傲慢な女伯爵のように繰り返しそのボタンを押したが、何も起こらなかった。彼女は怒り任せに組んでいた足を変える。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ミス・キンバリー",
+          "text": "もう…！　何よ、ただのお飾りだったのね！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "センスがまるで感じられない装飾品。なぜこの椅子が医者の部屋にあるのかすらわからない。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "わかるのは、押しても爆発や煙幕が現れないということだけ。ただの安全すぎる小さな装置であり…なんの役にも立たないガラクタだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "部屋の片隅にある医者の机に、原稿用紙が並べられていた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "未投稿の原稿…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "サンパウロの街道町の訪問記録、ファヴェーラの神秘学家の暮らし、ブラジル東北部の農園の景気調査…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ミス・キンバリー",
+          "text": "…あの人はとてもいい人よ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ミス・キンバリー",
+          "text": "わたし、あまりいい人に会ったことないの。でも、すぐにわかったわ…あの人はいい人だって。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "どうしてそう思うの？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ミス・キンバリー",
+          "text": "彼女はあなたを助けたわ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ミス・キンバリー",
+          "text": "重要なことだから言うけど――いい人はいい香りがするの。わたしは一度も嗅ぎ間違えたことないのよ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ミス・キンバリー",
+          "text": "だから、ヴェルティ…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "うん、必ず助けるよ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ミス・キンバリー",
+          "text": "…このタイプライター、随分使い込まれてるみたい。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "投稿記録は？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ミス・キンバリー",
+          "text": "わからない…ドクターの書いたもの、読めないのよね。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ミス・キンバリー",
+          "text": "あ、ここを見て！　サインがあるわ…でも、ドクターってこんな名前だったかしら？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "原稿には短い単語が残されていた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "ウルド。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "マリアンヌ――！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "庭の外から、懐かしい声が聞こえた。"
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

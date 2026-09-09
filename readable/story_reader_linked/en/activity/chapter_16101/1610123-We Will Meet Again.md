@@ -1,6 +1,6 @@
 # We Will Meet Again
 
-- Chapter: Notes on Shuòrì (`16101`)
+- Chapter: Notes on Shuori (`16101`)
 - Episode: `1610123`
 
 > Subtitle: Until we meet again, in another time, in another place.

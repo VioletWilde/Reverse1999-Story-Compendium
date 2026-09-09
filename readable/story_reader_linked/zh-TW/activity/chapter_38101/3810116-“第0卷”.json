@@ -1,0 +1,54 @@
+{
+  "episode_id": 3810116,
+  "chapter_id": 38101,
+  "chapter_title": "世纪末尺度",
+  "display_label": "",
+  "title": "“第0卷”",
+  "subtitle": "“砖，你喜欢成为什么？”\n“我喜欢成为拱。”",
+  "trails": [
+    {
+      "element_id": 3810109,
+      "owner_episode_id": 3810116,
+      "trigger_episode_id": null,
+      "title": "New Life",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=3810116",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 3810110,
+      "owner_episode_id": 3810116,
+      "trigger_episode_id": null,
+      "title": "The Wake",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=3810116",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "203823",
+      "internal_title": "【3.8】世纪末尺度16.1",
+      "items": []
+    },
+    {
+      "script_id": "203825",
+      "internal_title": "【3.8】世纪末尺度16.3",
+      "items": []
+    }
+  ],
+  "fallback_fields": [
+    "title",
+    "subtitle"
+  ]
+}

@@ -1,6 +1,6 @@
 # Both Sides of the Table
 
-- Chapter: El oro de los tigres (`104`)
+- Chapter: El Oro de los Tigres (`104`)
 - Episode: `10408`
 
 > Subtitle: Divide a circle into half, each curve has its own direction.

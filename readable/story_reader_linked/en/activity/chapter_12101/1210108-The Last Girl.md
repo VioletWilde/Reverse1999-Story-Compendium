@@ -1,6 +1,6 @@
 # The Last Girl
 
-- Chapter: Green Lake Nightmare (`12101`)
+- Chapter: A Nightmare at Green Lake (`12101`)
 - Episode: `1210108`
 
 > Subtitle: A courageous, wonderful, and noble spirit. My sweet savior, my final girl.

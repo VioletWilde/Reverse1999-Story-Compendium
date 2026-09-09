@@ -1,6 +1,6 @@
 # The Guests From Afar
 
-- Chapter: Notes on Shuòrì (`16101`)
+- Chapter: Notes on Shuori (`16101`)
 - Episode: `1610107`
 
 > Subtitle: May you, the esteemed guests, feel right at home.

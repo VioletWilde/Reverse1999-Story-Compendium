@@ -1,6 +1,6 @@
 # The Puppy Comes Home
 
-- Chapter: Finding Xavier (`1911`)
+- Chapter: Eagle (`1911`)
 - Episode: `191107`
 
 > Subtitle: A close call, but all's well that ends well.

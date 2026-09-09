@@ -1,0 +1,686 @@
+{
+  "episode_id": 10518,
+  "chapter_id": 105,
+  "chapter_title": "洞穴的囚徒",
+  "display_label": "",
+  "title": "洞穴之外",
+  "subtitle": "洞穴遮不住所有的雨，紙稿也一樣。",
+  "trails": [
+    {
+      "element_id": 1051801,
+      "owner_episode_id": 10518,
+      "trigger_episode_id": null,
+      "title": "小徑① 格格不入者",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=10518",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "來，把手放在這兒，摸摸它。這工藝可不多見，不是隨便在街邊拐進某扇門就能買著的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "這是真正的——最傳統，最細緻，最華貴的那種基里姆地毯。底色火紅，針腳細緻。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "它是從哪來的？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "和您一樣，自海上來。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "隨它一同到來的還有海泡石煙斗、玻璃罐和方糖，以及一個神色倉皇的孩子。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "他們真真正正地在這門工藝發源的土地上被編制而成，擁有同樣複雜的紋路和灼眼的底色。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "那個孩子是？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "噢，您好奇了？但我們還沒挑完毯子呢。出來轉悠總得捎帶點紀念品，日後好對著它們講故事，不是嗎？"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "看看這些華麗的手工織物……工匠們全神貫注地在垂直織機上拋擲生命，除了漂亮圖案外什麼都不想，才造就了這些分佈均勻的毛線結。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "——可她們也是人。倘若她們分心了呢？倘若這些毛線偏移了軌道，不合時宜地擁抱彼此呢？"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "那您就大難臨頭了！全宇宙的爛攤子接踵而至，場面會比一個千年帝國的官僚體系還糟糕。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "該死，該死，該死！",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "別著急，像您這樣無用而急躁的人到處都是。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "人們總是重複踏入一條名為錯誤的河流，因此他們提著尺規、扳手和修理箱，灰頭土臉地蹚著水來了。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "就不能補救嗎？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "我欣賞您的務實。這份務實定會為您的餘生增光添彩，人們會一股腦地湧上來讓您幫忙收拾爛攤子。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "噢，別生氣，有人製造麻煩，就有人得解決麻煩，事情總是如此。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "正如每個答案都等待著提問，每個錯誤也都等待著被發掘。因此我們得以認識他們。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "他們？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "除錯師，一個古老的職業。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "解開線頭，抹平皺褶，消除錯誤……驗算莎草紙上的小數點，檢驗電腦裡的打孔紙。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "倘若沒有捨己為人的精神，您就一點兒也做不了這活計。因為這就像是在毛線中找貓，光是抓住線頭是不夠的，您得時刻操心著那隻貓才行。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "而她，我們無措的，抱著毯子的紅頭髮小姑娘。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "她手裡的尺規尚且稚嫩，卻試圖理清每個線頭。於是貓兒們對她群起而攻之，令她的小腦瓜上爪痕遍佈，狼狽不堪。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "您瞧，這就是除錯師的困境：他們是消除錯誤之人，可一旦他們自己的存在也成了錯誤，又要何去何從？"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "……",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "噢，沒什麼大不了的。這世界上並非只有一台織機。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "她離開了那些繩結編織的複雜花紋，來到了一個僅屬數字的純淨國度。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "她此前從沒有見過這些。旋轉的幾何織機對她而言過於複雜難解，那些數字也很難在她腦中生成實際的圖樣。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "她看不見織物的全貌，唯一能依靠的只有努力，和反復的努力。這漫長的過程為她的指尖留下傷口，傷口又成為硬繭。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "終於，她的手不再柔軟，但也不再受傷——她找到了自己的立足之地。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "我為她感到高興",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "是的，她學得很快，甚至比島上的一些住民更快。但這不夠，她的玩伴才是永遠走在前頭的那個。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "那匹無需編制的，渾然天成的輕柔綢緞。它的花紋就是數學與幾何的凝萃，不需要任何織造就如此完整。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "為了能和它在同樣的地方被展示，為了——為了不偏移軌道，融入其中。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "她已盡了自己能盡的力。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "但是，但是！我們還是挑出了最特別的那塊毯子。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "多花些時間，每位先生或女士都能瞧出來的。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "但這並非錯誤",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "當然，這只是“不同”。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "因此她也只是繼續握緊手中的織機，直到有朝一日紡錘刺破硬繭，火光中一切都化為塵土。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "噓，接下去的話我就不該講了。您知道曾有位被投入水中的數學家嗎？只因他講出了不當說出口的話。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "不必在半道上劈柴，也不必旋開擰緊的蓋子。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "在不知道說些什麼的時候，最合適的、最通用的句子是——回頭見。"
+            }
+          ]
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100526",
+      "internal_title": "第五章5-18",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "洞穴之外"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "……我只是看到了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "萬事萬物的數字，它們只是那樣出現在我的眼前。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "我看到了，所以我說了出來，僅此而已。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "210告訴我，數字代表我們的命運。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "37的眉毛擰得更緊了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "不要聽他胡說，維爾汀！數位只是數位，我並不瞭解命運。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "唔，好吧……我想我討厭210，210也討厭我。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "因為我曾經說他是一個很差的數字。210=2*3*5*7，是1～10裡所有質數的乘積。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "看起來應有盡有，但缺乏真正的長處。他喜歡用修辭來矯飾，只有本質經不起檢驗的人才會醉心於這種文字遊戲。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "……的確是很極端的評價。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "6也是。每任阿派朗學派的領導者都是6。6是完美的數字。它的真因數相加等於其自身：1+2+3=6。但6其實並不完美，他沒有那麼特殊。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "那你的數字呢？37有什麼意義？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "……我不知道。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她抿了抿嘴唇。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "我是37，我一出生就知道了。所有人也都知道了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "別人會告訴我這個數字的意義。可是……我從來沒有做過關於自己的證明。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "我對人的命運一無所知，所以我常常想……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "如果我證明了其他人的本質，是否就代表我能更瞭解他們了呢？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "蘇菲亞",
+          "text": "37曾經想告訴我我的數字。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "蘇菲亞深深呼出一口氣。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "蘇菲亞",
+          "text": "她把數字放到一個瓶子裡，但我沒有勇氣打開。我不想知道答案。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "蘇菲亞",
+          "text": "我曾經在計算上犯下了不可赦免的錯誤。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "蘇菲亞",
+          "text": "所以我害怕……害怕我自己也是一個無藥可救的“錯誤”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "蘇菲亞",
+          "text": "後來，我將瓶子丟入了大海之中。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她停下了巡視的腳步，短暫地回過身來。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "蘇菲亞",
+          "text": "這就是我和37的差距。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "蘇菲亞",
+          "text": "我們所有人都是洞穴的囚徒。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "蘇菲亞",
+          "text": "但真正的智者會在得知真相後折返洞穴，幫助他身負鎖鏈的同伴們。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "蘇菲亞",
+          "text": "我是無知的囚徒，她是折返的賢人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "蘇菲亞",
+          "text": "我會被真理碾碎為塵土，而她因此熠熠生輝。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "是的，她曾在補習時聽過這個寓言故事，但從未聽過這樣一個版本。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "紅髮姑娘發出一聲歎息。她抬起頭，注視海上閃爍的夜幕。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "蘇菲亞",
+          "text": "真理就像天上無人性的星光。光耀奪目，但冷酷無情。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "蘇菲亞",
+          "text": "在我存在前，星星便閃耀著。在我不存在後，星星也依然如此。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "蘇菲亞",
+          "text": "它不會垂憐弱者，也永遠不會哀歎命運，它只是那樣存在著，永遠明亮，永遠無前。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "蘇菲亞",
+          "text": "逃避真理的人，沒有資格研究。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "蘇菲亞",
+          "text": "抱歉，我的解釋摻雜了過多的個人情緒。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "不……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "或許我理解你的心情，蘇菲亞小姐。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "但即使如此，也依然有著什麼是我們能做的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "我們或許不能直接觸及真理，卻能為開拓者的道路掃清塵埃。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "這就是我們的使命。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "蘇菲亞",
+          "text": "……你的觀念很有趣。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "蘇菲亞",
+          "text": "現在我理解37為什麼那麼喜歡你們了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "蘇菲亞",
+          "text": "那就讓我們繼續巡邏吧，先從掃清這些墓碑上的塵埃開始。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星銻",
+          "text": "好了好了，我已經受夠這些關於靈魂、靈性，還有隨便什麼虛無東西的討論了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "星銻",
+          "text": "讓我再看看你們的數學模型——哇，說真的，你們到底是怎麼做到的啊？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "星銻迫不及待地想要湊過來，37卻已經眼疾手快地關掉了機器。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "這個模型已經無效了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "……整整四年，我們都在不斷完善它。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "然而，1929年的“流溢”只持續了2天。我們的推算一敗塗地。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "這個模型和這台機器一樣，都是廢品。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "——也是我能給你們展示的全部。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "37神情落寞地垂下了頭。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "……不，這不是廢品。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "我想我知道你們模型失效的原因，37。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "……什麼？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "重塑之手人為改變了歷史。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "他們加速了歷史大事件的發生，從而讓1929年的“暴雨”提前落下——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "不可能。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "37猛地瞪大了眼睛，她的肩膀正微微顫抖著。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "人為操縱“流溢”……？通過改變外部世界的歷史？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "靈性是永恆超驗的，它不會聽從現象世界的呼喚，也不會因為這些碎屑而轉移！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "我沒有欺騙你，37。我曾親身踏足1929年的雨幕。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "你們的模型沒有失誤，只是缺失了重要的一環。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "你們不曾踏入“暴雨”落入的土壤，因此也不瞭解時代病變的症候。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "……正如你們也不瞭解重塑之手的真正面目。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "不！不應該有這樣的事。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "即使有控制“流溢”的手段，也不應該是這樣的方式……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "如果是這樣的話，那現象世界……無關緊要的現象世界……才是更加超越的嗎？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "媽媽的模型……是被這種東西打敗的嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她面色蒼白地抱緊了雙臂，似乎在下一個艱難的決心。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "最終，她艱難地開口了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "……維爾汀，你能夠提交這個證明嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "關於重塑之手加速歷史事件，開啟“流溢”的證明。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "……我能發誓我並未說謊。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "不，不是這種形式。是去無限定者那裡。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "我們的聖地，真理的殿堂，洞穴的最深處，在那裡，每個人都能看見世界的“本質”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "我請求你……像我們提交靈魂數字那樣，去提交你的證明。"
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

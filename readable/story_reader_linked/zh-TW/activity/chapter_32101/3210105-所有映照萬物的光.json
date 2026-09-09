@@ -1,0 +1,680 @@
+{
+  "episode_id": 3210105,
+  "chapter_id": 32101,
+  "chapter_title": "遷流的盛宴",
+  "display_label": "",
+  "title": "所有映照萬物的光",
+  "subtitle": "明亮得足以令一切消融，當然也包括自我。",
+  "trails": [
+    {
+      "element_id": 3210403,
+      "owner_episode_id": 3210105,
+      "trigger_episode_id": null,
+      "title": "預言之於人",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=3210105",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "灰調藍小姐最初的態度並不令我意外，占卜師常常遭到懷疑。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "有的人把我當作陰謀家和詐騙犯，比如夜巡特遣管理局，或許你和我的對話正處於他們的監聽之下。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "也有人相信預言卻畏懼它，於是對我敬而遠之，可又抑制不住好奇心。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "而那些乾脆對預言嗤之以鼻的人，我尊重他們的勇氣。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "灰調藍小姐則屬於第四種人，她試圖通過無視來擺脫宿命，結果回避得太刻意，反而顯得過於重視了。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "夜巡特遣管理局？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "哦？我提到他們了嗎？"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "是的，我在前不久擅自取走了五件神秘學藏品，他們一直在追究我的盜竊罪。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "但其實我已經支付了足夠的賠償金，也接受了應有的處罰。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "現在的我在他們眼中恐怕是知曉了不為人知的秘密，且醞釀著恐怖陰謀的預言家。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "這對我來說也是個問題。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "像你這樣，行走在雨與故事間的人，究竟站在什麼角度，以什麼方式對待著命運？"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "全世界中能與你換位思考的人恐怕不超過三個，多麼希望我也是其中一人。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "但我不過是命運的奴隸，只能基於有限的認知去行動。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "即使所見和所聞比常人多一些，也改變不了我無能為力的事實。"
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "意思是您身不由己？",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "我早就過了和命運唱反調的叛逆期。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "我會做的事與我實際想做的事早已並無任何差別，一切都合乎邏輯與情理。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "說到這裡，還有一個有趣的問題。究竟是命運註定了我會這麼做，還是我的性格決定了這一段命運？"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "在您看來，我屬於哪一類？",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "203206",
+      "internal_title": "【3.2】迁流的盛宴05.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "巴黎·和平街"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "芳登廣場上的人越來越多，從四面八方的街巷裡匯集的人流積聚於此。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "年輕的司機靠在車門邊，邊打量著過路人群，邊踢動腳下的小石子。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "費利西安說是今天在這裡見面，也不留個時間……我不會得等到晚上吧！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "難道她已經進去了？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她轉過頭，水晶工房那扇漂亮的雕花木門和兩三個小時前一樣緊閉著。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "再試一次，這個時間了，店裡總該有人在……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "您好——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "這次沒費多大力氣，木門剛被叩響，就順勢朝兩側敞開。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一條燈光昏暗的長廊等待著她。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "嗯？終於開門了。是我之前敲門的方式不對？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "也沒看到有店員在附近。算了，先進去問問。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她踏入走廊。腳步落下的瞬間，那一點兒僅有的光線也熄滅了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "幼龍的火焰勉強映亮了周圍，它沒精打采地甩動尾巴。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "我說，至少給新顧客留下些照明吧！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "你們好——有誰見到了一位趾高氣昂的小姐嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "阿黛拉伸手摸索著牆壁，憑藉剛才的記憶前進。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“小傢伙”",
+          "text": "——嗷！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "有新發現嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "循著幼龍仰起的腦袋望過去，前方閃動著幾個尖耳朵的透明身影。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "～♪"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "我怎麼會忘了，有占卜師在的地方，總有這種小東西！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "別和我搗亂，我現在可沒空瞭解你們又偷了些什麼！"
+        }
+      ]
+    },
+    {
+      "script_id": "203207",
+      "internal_title": "【3.2】迁流的盛宴05.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "妖精們尖叫著拍打身上的火焰。儘管並不會被灼傷，它們還是結結實實地嚇了一跳。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "你們成天惡作劇，也該嘗嘗被捉弄的滋味了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "給我帶路，聽到沒有？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "占卜妖精",
+          "text": "♮♭♮♯♭♯♮♯♭！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "阿黛拉沒理會它們的痛駡。妖精們將她領到了一扇小門前，從透著光的縫隙中擠了進去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她再次推門。"
+        },
+        {
+          "kind": "title_card",
+          "text": "水晶工房"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一間由光編織成的屋子。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "阿黛拉的腦中浮出這個念頭。她注視著那些剔透的、閃爍的、折射光芒的水晶，空氣中的塵埃在流光裡鍍金。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "在這間屋子裡，每呼吸一次，就咽下礦物的魂魄。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "……真美麗。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "我從來沒有見過這樣的工房……\n它……它們的擺放方式，不像是為了銷售或展覽……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她盡可能放輕了呼吸，來削減自己的存在，好融入這片光彩。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "是巧妙的燈光佈設讓這些水晶變得特別？或者……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "——哦，也許你想說的是……“輝耀”。它會藉由水晶顯現。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "遠處的聲音悅耳而明亮，像輕敲一隻玻璃杯。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "曾有人說，“輝耀”是神用來創造世界的工具，也是祂不可分割的一部分。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "十輝耀……是星界之光、燃燒荊棘的火焰、生命之樹頂端的光輝，是“數字”、“圓球”、“漫長的時代”——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "——也是萬事萬物。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "抱歉，您是……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "貝麗爾·布翁尼女士……？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "工房主人微笑著點頭。無需證明，見過她的人都會立刻明瞭她的身份。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她伸出手，用指尖輕觸一枚光芒柔和的靈擺。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝麗爾",
+          "text": "通過一些特定的物品、儀式，或是與生俱來的靈知與天性，我們偶爾可以捕捉那些光輝。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝麗爾",
+          "text": "水晶正是少數具有這種非凡性的存在之一。在它的幫助下，我們得以自意象的寶庫中，窺探世界靈魂的奧秘。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "柔和的話語使阿黛拉略微放鬆了一些。儘管她沒有注意分辨句子的內容。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "請問您……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝麗爾",
+          "text": "請先隨我到裡面的貴賓室去吧。這扇門本就是為你而留的。"
+        },
+        {
+          "kind": "title_card",
+          "text": "水晶工房·貴賓室"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "鬆軟的瑪德蓮蛋糕很好地撫平了阿黛拉的不安。\n她端起茶杯，嗅著大吉嶺茶的濃郁香氣，原本的緊張悄悄消退。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "您今天並沒有見到我以外的其他人……我明白了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "而您之所以出現在那間占卜沙龍，是為了追回流出工房的劣質水晶？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝麗爾",
+          "text": "近些日子我忙於海外的生意，這才放鬆了對工房的管理。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝麗爾",
+          "text": "我沒能注意到有人在偷賣應該廢棄的殘次品。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝麗爾",
+          "text": "雖然加工後足夠瞞過外行的眼睛，但毫無疑問會影響儀式的穩定性。我必須為顧客的安全和工房的聲譽負責。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她看向阿黛拉，笑容又柔和了一些。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝麗爾",
+          "text": "我需要再次向你表示感謝，塔沃尼爾小姐。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝麗爾",
+          "text": "你當時的舉動為我免去了許多麻煩。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "您叫我阿黛拉就可以。以及您不用向我道謝。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "畢竟我最開始也沒打算插手……正巧那位占卜師自己找上了我。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝麗爾",
+          "text": "噢。她的預言讓你有些困擾，是嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "您還記得？其實我本來打算聽聽就忘掉的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "命運——命運，其實就是看你願意信什麼，不信什麼，對吧？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝麗爾",
+          "text": "但你無法徹底忘記。因為其中有些模糊的話語令你心生懷疑。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "哈哈，您真的和那些占卜師不太一樣。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她再次舉起茶杯，朝椅背上靠去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "無意冒犯——我並非認為預言家都是騙子。\n只是一旦你知道它，多少就會被影響判斷。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "這種彷彿後腦勺時刻被人監視的感覺……讓我不太舒服。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "也許“命運”真的會在該來的時候來，但在那之前我可不想被它裹挾。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "我還年輕——我還有很多想做的事呢！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "工房主人輕笑著，似乎很樂於聽到這樣充滿活力的宣言。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝麗爾",
+          "text": "對我來說，命運只是某種既定的規律。就像水晶折射的光線、奔流不息的水流。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝麗爾",
+          "text": "有人說命運無常。有人認為它由始至終已被寫好。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝麗爾",
+          "text": "而在我看來，它存在著，但其中並無人們苦苦尋找的“意義”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝麗爾",
+          "text": "占卜告訴我你今天會來拜訪，然後你來了。事情如此發生，僅此而已。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "等等……那您有沒有在占卜裡看到我的朋友？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝麗爾",
+          "text": "我看見的只是你一個人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "好吧，她連來都沒來！放了我一天鴿子，她到底跑哪裡去了……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "阿黛拉困擾地念叨著。而貝麗爾已經拋出了下一個問題。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝麗爾",
+          "text": "你只是因為約定才來到這裡嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "這……我的確只是因為……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "貝麗爾的目光模糊而縹緲，似乎並非望向眼前的人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝麗爾",
+          "text": "你為你的疑惑而來。這份疑惑並非源於不信，而是因為相信它正要靈驗。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝麗爾",
+          "text": "你們家族中每一個人都知道的命運，塔沃尼爾的詛咒……抑或者是“塔沃尼爾的冒險”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝麗爾",
+          "text": "你懷疑現在正是它開啟的時刻，是嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "雷曼女士",
+          "text": "你註定逃不過宿命的感召！懷有私心的賢者將玩弄你的命運，死亡的深淵正等待你墜入……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "雷曼女士",
+          "text": "而那地之上的，終將等同那天之下的……你所有的終將消失，死亡亦將引導你最終的昇華……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "雷曼女士",
+          "text": "直到一切都回歸！回歸那——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "怪了，為什麼我這兩天遇到的所有占卜師都知道“塔沃尼爾的詛咒”……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "難道這真的有那麼出名嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "阿黛拉玩笑般拋出這句話。面對這個話題，她向來態度如此。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "比起恐懼，戲謔更好。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "而貝麗爾只點了點頭作為回應。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝麗爾",
+          "text": "某種意義上來說，雷曼女士當時確實窺見了命運——只是不小心看到了太多，招致了預料之外的不幸。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "什麼？您的意思是說——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她還是不願聽見這樣的答案。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "不不，應該不是我想的那樣吧……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "我還以為她是出現幻覺才活活嚇死的！\n你看，畢竟她死前還說著什麼“熱沃當的野獸”……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝麗爾",
+          "text": "別著急，阿黛拉小姐。我說了是“某種意義上”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "貝麗爾搖了搖頭，平和的語氣輕飄飄地托舉住了阿黛拉下墜的心。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "——隨後，卻又緊緊攥住了她不安跳動的心臟。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝麗爾",
+          "text": "她看見的“命運”並不完全屬於你——因為你的身上，正附著另一個陰影。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝麗爾",
+          "text": "阿黛拉小姐，你的確中了某種詛咒。"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

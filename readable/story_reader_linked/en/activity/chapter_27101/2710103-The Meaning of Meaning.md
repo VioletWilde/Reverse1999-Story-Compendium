@@ -1,6 +1,6 @@
 # The Meaning of Meaning
 
-- Chapter: 1987 Космическая Увертюра (`27101`)
+- Chapter: 1987 Cosmic Overture (`27101`)
 - Episode: `2710103`
 
 > Subtitle: It carries the weight of each individual; it raises the towering walls of every endeavor.

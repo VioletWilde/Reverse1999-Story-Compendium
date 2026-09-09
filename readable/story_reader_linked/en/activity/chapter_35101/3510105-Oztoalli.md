@@ -1,6 +1,6 @@
 # Oztoalli
 
-- Chapter: 绿松石蛇俱乐部 (`35101`)
+- Chapter: The Turquoise Serpent Club (`35101`)
 - Episode: `3510105`
 
 > Subtitle: The living walk through water, through caves, and through the land of the dead.

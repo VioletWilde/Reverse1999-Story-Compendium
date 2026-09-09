@@ -1,6 +1,6 @@
 # The Night Before War
 
-- Chapter: 远征记 (`112`)
+- Chapter: The Campaign's Tale (`112`)
 - Episode: `11214`
 
 > Subtitle: The fires of war burn ever nearer. Children of the Don, it's time to unite!

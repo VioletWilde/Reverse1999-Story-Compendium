@@ -1,6 +1,6 @@
 # The Middle of the Axis
 
-- Chapter: The Prisoner in The Cave (`105`)
+- Chapter: The Prisoner in the Cave (`105`)
 - Episode: `10513`
 
 > Subtitle: Neither biased nor neutral, neither positive nor negative, neither excessive nor deficient.

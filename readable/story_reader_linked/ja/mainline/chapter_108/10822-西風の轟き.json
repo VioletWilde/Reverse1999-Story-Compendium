@@ -1,0 +1,477 @@
+{
+  "episode_id": 10822,
+  "chapter_id": 108,
+  "chapter_title": "悲しき熱帯",
+  "display_label": "",
+  "title": "西風の轟き",
+  "subtitle": "夏はここで終わり、氷の海はここから始まる。",
+  "trails": [
+    {
+      "element_id": 1082201,
+      "owner_episode_id": 10822,
+      "trigger_episode_id": null,
+      "title": "1分間の報告",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=10822",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "君にとって、うれしいニュースを持ってきた。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "１分しか時間がない",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "その１分でも十分驚かせられると思う。この話は、私たちにとって共通の知り合いに関わるものだ。君がずっと探していた人だよ。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "医者であり、作家でもある彼女は、君や私のように多くの肩書きを持っている。しかし、今の彼女の頭に残っている記憶は限られているようだ。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "あの戦争のあと、彼女の素晴らしい偉業を覚えている者が、ほとんど残らなかったように。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "今、その心優しい医者は、邪悪な陰謀の重要な駒の一つとなってしまった。もちろん、我々の親愛なる元帥はそれをよく理解している。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "彼は何を知ってるの？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "指揮者のいないオーケストラは、まともに演奏ができない。その弱点に気づいた元帥は、迷わずチャンスを掴んだ。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "経験は傷跡を残すが、同時に知恵をも与える。彼はこの一方的な賭けで、優位に立つための切り札を手に入れたってわけだ。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "そこまではまだわからない。報告書には書かれていなかったからな。ただ、いくつか推測はできる。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "混乱を引き起こし、対立の火種を煽ることに夢中だった彼らは、それがどれほどの影響を与えるか考えていなかったんだ。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "しかし今、ようやくその違和感に気づいたのだろう。荒々しく、予測不可能な復讐では何も得られない。目的地に到達するためには、新たな道を切り開くしかないと。たとえそれが、今よりもっと険しい道になったとしてもだ。"
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "続けて",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "１分経ったようだ。時間が経つのは本当に早いな。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "進展があったら戻ってこよう。それまで、生き延びられるよう祈っておくよ。君のために報告書を読むのも、悪くないな。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "陰謀って？",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1082202,
+      "owner_episode_id": 10822,
+      "trigger_episode_id": null,
+      "title": "在りし日の分れ道・ドレス",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=10822",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "奇妙な形をしたタイプライター。ドクターが運命と闘うための唯一の武器である。"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100835",
+      "internal_title": "第八章8-22",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "西風の轟き"
+        },
+        {
+          "kind": "title_card",
+          "text": "西風海岸"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "あなたは正しい選択をしたわ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "イゴール元帥",
+          "text": "私たちは、あのお方のお導きを得るためにやってきたんだ、伝道者。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "イゴール元帥",
+          "text": "残念ながら、あのサキュバスを連れてくることはできなかったが。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "イゴール元帥",
+          "text": "あなたが必要であろうものは持ってきた。それとミス・ウルドもな。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伝道者・ソフィア",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伝道者・ソフィア",
+          "text": "いいえ、元帥。「私」ではなく…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伝道者・ソフィア",
+          "text": "私たちが必要なものよ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伝道者・ソフィア",
+          "text": "私たちはあのお方の奇跡を求めている。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "イゴール元帥",
+          "text": "だが、私は決して部下にあの仮面を着けさせない。彼らに試練を受けさせることもせん。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "イゴール元帥",
+          "text": "子どもたちの忠誠心を試す必要はないだろう、伝道者。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "イゴール元帥",
+          "text": "ミス・ウルドはしばらくこちらで保護する。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伝道者・ソフィア",
+          "text": "どうぞ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "伝道者は元帥の提案を全て承諾した。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "全ては取るに足らないことだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "彼女は遠い南を見つめる。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伝道者・ソフィア",
+          "text": "それではまたあとで、元帥。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "伝道者は蘇生の母がこの世に残した痕跡を受け取り、元帥に別れを告げた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "モルダー",
+          "text": "父さん…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "モルダー",
+          "text": "ロペラに発砲しました。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "銃弾が命中した先が心臓か地面かは、また別の問題だ。だが、元帥にとってはそれほど重要なことではなかった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "モルダー",
+          "text": "正直に申し上げますが、個人的に…あなたの選択には賛同し難い部分があります。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "イゴール元帥",
+          "text": "同意しなくてもかまわない、中尉。私が重視しているのはそれらではない。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "モルダー",
+          "text": "服従、ですよね。わかっています。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "イゴール元帥",
+          "text": "ならよい。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "モルダー",
+          "text": "ロペラが私たちと来ないと、最初からわかっていたのですか？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "イゴール元帥",
+          "text": "あの子は自分が起こした面倒事を解決し、「ブラザーズ」の騒動からウルドを救い出した。それだけで十分だ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "モルダー",
+          "text": "ですが、「ブラザーズ」は…失礼ながら、言わせてください。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "モルダー",
+          "text": "彼らもヴェンデッタと…「友好的」な関係を築いていると聞いています。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "彼女は言い淀む。かつての敵を「仲間」として接すること以上に、恥知らずな行為はない。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "裏切りは永遠に消えない屈辱だ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "イゴール元帥",
+          "text": "お前もあの子と同じ選択をすると思っていたがね。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "モルダー",
+          "text": "いいえ、私は父さんに従います。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "イゴール元帥",
+          "text": "あの子の好きにさせなさい。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "群れからはぐれたカモメが晴れた空を滑るように飛び、鳴き声をあげながら温かい北へと向かっていった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "元帥は娘の肩についた記章を叩く。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "イゴール元帥",
+          "text": "ドクター・ドレスを連れてこい。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "モルダー",
+          "text": "父さん。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "副官の女性は盲目の医者を連れてくると、静かに海岸から立ち去った。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ドクター・ドレス",
+          "text": "あなたとは初対面のはず。人違いよ、元帥。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "イゴール元帥",
+          "text": "いいや、人違いなものか。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "イゴール元帥",
+          "text": "友よ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "イゴール元帥",
+          "text": "ミレニアムカウントダウンの数日前まで、私たちは肩を並べた戦友だった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "過去の出来事が、老人の錆びついた記憶部屋から溢れ出る。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "イゴール元帥",
+          "text": "長い目で見れば、あれは過ちの行動だったのかもしれない。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "イゴール元帥",
+          "text": "「ストーム」の到来は、時代の混乱と父を失った孤児たちを残した。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "イゴール元帥",
+          "text": "私たちは未来を失った。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "元帥は犠牲があったとしても決して動じない。それは勝利と更に大きな目標のために必要不可欠なことだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "イゴール元帥",
+          "text": "だが今、ようやく別の道を歩む機会が訪れた。これは私たちがかつて頑なに拒んでいた道だ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "イゴール元帥",
+          "text": "アルカナが指示してくださる道――"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "イゴール元帥",
+          "text": "それは、世界の紛争を断つ道だ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "イゴール元帥",
+          "text": "我が友よ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "残念ながら――これらの言葉は、彼女には一字も理解できない。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "彼女はただの国境なき医師、ドレスだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "イゴール元帥",
+          "text": "財団があなたに送ったあの白い大理石の椅子には、どんな仕掛けがある？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "イゴール元帥",
+          "text": "あのボタンを押した時、あなたは何を感じた？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ドクター・ドレス",
+          "text": "何も感じなかったわ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "イゴール元帥",
+          "text": "その昔、あの白い部屋に入ったあとの出来事を覚えているか？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ドクター・ドレス",
+          "text": "申し訳ないけど、何を言っているのかわからないわ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "彼女は少し強気だが、元帥の質問には正直に答えた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "元帥はため息をつき、コートから雑誌の束を取り出した――彼本人は『ＵＴＴＵ』の読者でもなければ、その記事に興味すらない。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "イゴール元帥",
+          "text": "親愛なるミス・ウルドよ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "イゴール元帥",
+          "text": "あなたの名は、雨のとばりを何度も越えてきた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "イゴール元帥",
+          "text": "あなたの身に起こったことを私はなに一つ知らない。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "イゴール元帥",
+          "text": "――だが、あなたの存在は、我らの運命を変えるであろう。"
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

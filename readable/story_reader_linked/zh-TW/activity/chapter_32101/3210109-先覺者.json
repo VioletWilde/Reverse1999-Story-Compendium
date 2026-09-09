@@ -1,0 +1,778 @@
+{
+  "episode_id": 3210109,
+  "chapter_id": 32101,
+  "chapter_title": "遷流的盛宴",
+  "display_label": "",
+  "title": "先覺者",
+  "subtitle": "從現在起禁止談論命運——噢！別這麼快食言。",
+  "trails": [
+    {
+      "element_id": 3210304,
+      "owner_episode_id": 3210109,
+      "trigger_episode_id": null,
+      "title": "來自友人",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=3210109",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "你好心的朋友寄來一張占卜明信片，據稱卡片背面印製的圖案代表了你本週命運的關鍵。你把明信片反過來，看到了："
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "柔和纏繞的曲線",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "繞過每一個孑立的釘子。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "轉角尖銳的折線",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "連紙面都被刺痛了。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "缺了一角的正方形",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "仍是正方形，你看得出來。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "一個完整的圓",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "最完整、最無懈可擊的圖案。"
+            }
+          ]
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 3210404,
+      "owner_episode_id": 3210109,
+      "trigger_episode_id": null,
+      "title": "說到這個名字……",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=3210109",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "接著灰調藍小姐就這樣對著空無一物的副駕駛發話，大吼，對著她那位不存在的朋友。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "我記得是叫……弗里西亞？不對，好像是費利西安？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "嗯，是費利西安。我記得這個名字怎麼拼，正好我也和一位同名之人有過往來。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "是同一個人嗎？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "和貝麗爾、阿黛拉比起來，叫費利西安的人確實少見。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "可命運再敷衍也不至於如此。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "它不會用如此枯燥的理由聯繫起我與灰調藍，除非它急於證明自己有多荒誕。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "呵呵呵，你很會說笑，這個說法也很有趣。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "可惜費利西安並不是什麼屬於法國人的共同記憶。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "或許是之前的故事內容讓你有了這種想法，但現在下定論還為時尚早。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "而且我認識的那位費利西安，並不樂於被當作隨處可見的費利西安。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "因為她的血可不是一般人的血，恐怕直到第二次工業革命之前，那血脈都昂貴得無以復加……"
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "她似乎是名貴族",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "是的，她以家族流傳的雷電神秘術為傲，可憐她的家族在發電機誕生後徹底沒落，早就失去了在社交界的話語權。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "不過即便如此，家族的遺產也不是兩百年內能用盡的，足夠她一個人維持貴族生活到晚年了……"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "她把自己比作戰士、英雄，乃至雷電的祭司，這些都是她的家族在各個時代依靠神秘術贏得的頭銜。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "就算家族最後一份製鋁的工作被發電機奪走已有百年，她仍沒有忘記任何一段家族史。"
+                },
+                {
+                  "kind": "choice",
+                  "speaker": "",
+                  "text": "所以她是“暴雨”之前的人",
+                  "edge_label": "",
+                  "branch": [
+                    {
+                      "kind": "dialogue",
+                      "speaker": "？？？",
+                      "text": "你的推測完全正確，她出生時“暴雨”仍未發生。"
+                    },
+                    {
+                      "kind": "dialogue",
+                      "speaker": "？？？",
+                      "text": "但這並不是問題的關鍵，“暴雨”前的人仍可以認識不同時代的人，就像你與你的朋友們，以及我與灰調藍。"
+                    }
+                  ]
+                },
+                {
+                  "kind": "choice",
+                  "speaker": "",
+                  "text": "她被回溯了",
+                  "edge_label": "",
+                  "branch": [
+                    {
+                      "kind": "dialogue",
+                      "speaker": "？？？",
+                      "text": "是的，我所認識的費利西安，早就在“暴雨”落下時消失不見了。"
+                    },
+                    {
+                      "kind": "dialogue",
+                      "speaker": "？？？",
+                      "text": "所以除非奇跡發生，否則誰也見不到她了。"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "她一定有強大的神秘術",
+              "edge_label": "",
+              "branch": []
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "法國人都會認識費利西安？",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 3210504,
+      "owner_episode_id": 3210109,
+      "trigger_episode_id": null,
+      "title": "來自友人",
+      "description": "",
+      "action": "",
+      "unlock_condition": "ChapterMapElement=3210304",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "你好心的朋友寄來一張占卜明信片，據稱卡片背面印製的圖案代表了你本週命運的關鍵。你把明信片反過來，看到了："
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "柔和纏繞的曲線",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "繞過每一個孑立的釘子。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "轉角尖銳的折線",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "連紙面都被刺痛了。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "缺了一角的正方形",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "仍是正方形，你看得出來。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "一個完整的圓",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "最完整、最無懈可擊的圖案。"
+            }
+          ]
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "203213",
+      "internal_title": "【3.2】迁流的盛宴09",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "西莉亞？西莉亞？……果然不在。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "阿黛拉轉向了隔壁的門，從口袋中摸出一把鑰匙。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "只好先在我家找找了。"
+        },
+        {
+          "kind": "title_card",
+          "text": "公寓房間"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "公寓裡的物件比起水晶工房還要多，只是它們沒有水晶那般璀璨。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "未經打磨的原石、展覽會的宣傳冊、城市道路地圖和下水道地圖、修理機械的各種工具……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "嗯……讓我找找，西莉亞有不少東西是放在我這裡的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "在積木般整齊擺放的小玩意之中，貝麗爾的目光鎖定了一張被裝裱好的照片。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝麗爾",
+          "text": "這是你和西莉亞嗎？看上去，你們關係很好。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "黑白照片中的形象仍舊鮮活，一個小女孩興致勃勃，另一個則緊張得快跑出鏡頭。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "當然。老爸老媽忙於他們的大冒險，我倆差不多是一起長大。小時候我總出現在她家的飯桌上……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "阿黛拉一邊逐個拉開抽屜，一邊應答著貝麗爾的問題。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "西莉亞表面文靜，但我知道她其實比誰都勇敢。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "現在，比起我來，她的志向可遠大得多了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "怎麼回事，想找時一個東西也找不到……用這個行不行？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "阿黛拉從最下方的抽屜中抱出一摞信件。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "信件的郵票來自世界各處，信封卻差異不大，上面都寫著出奇工整的一行字。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "“女兒阿黛拉·塔沃尼爾收”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "貝麗爾拿起一封仔細端詳。郵票的邊角已經翹起，略微泛黃，與嶄新的信封格格不入。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "貝麗爾女士？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "阿黛拉忍不住催促。她不喜歡貝麗爾了然的神色，也不想在此時談論信件的來歷。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝麗爾",
+          "text": "這些信……好的，當然可以。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她看了看阿黛拉腳邊空著的抽屜。它在最常使用的書桌最不起眼的角落。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝麗爾",
+          "text": "你的父母很久沒有回到巴黎了。比起他們，你與西莉亞的確會更加熟悉。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "沒什麼大不了的，他們在我人生中存在的時間本就不多。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝麗爾",
+          "text": "我明白了。我會盡力為你找到你重要的朋友。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她開始一封封翻閱信件，只像是日常生活的一部分。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "直到雙眼開始失焦，她的動作也不曾停下，只是摸索過、閱覽過每一個字母，從中捕捉不可見的輝光。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "最終，光線落回了她的眼中。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝麗爾",
+          "text": "你的友人被這座城市吞沒，墜入幽暗的洞穴。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝麗爾",
+          "text": "大瘟疫的遺產，地下的另一個世界……與起舞的亡靈同在。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "吞沒……墜入……地下的另一個世界……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "計程車司機的眉頭緊緊擰著，隨後豁然開朗。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "噢，是地下墓穴！對了，她昨天說過要去研究死亡之舞！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "她現在一定在地下墓穴能觀察到那些骷髏壁畫的地方！該死，她以前就喜歡往這些地方跑……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "您的用詞真是嚇了我一跳，我還以為她是真去了另一個世界呢……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "確認目標的年輕人沒有躊躇，立刻奔向了公寓門。占卜師卻叫住了她。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝麗爾",
+          "text": "——我在她的命運中也見到了你，阿黛拉。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "嗯？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝麗爾",
+          "text": "如果你仍要前往，前方註定會有犧牲。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "這並非提醒，而是陳述。\n她隱約感覺到，貝麗爾似乎的確能看見一些遙遠的事物。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "但她只是笑了笑。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "從小到大，這種話我聽得太多了。\n我可不能為了一句縹緲的預示就放棄西莉亞，放棄我想弄明白的事。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "我尊重命運的方式，就是聽從自己的判斷。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "貝麗爾仍然平靜地看著她，那透明的目光讓阿黛拉有一種古怪的感覺。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "似乎貝麗爾的目光並不在當下，而是更加遙遠的某處。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "片刻後，她勾起嘴角，聲音一如平日的優雅。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝麗爾",
+          "text": "——是了，你是會如此回答。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "兩人回到了公寓樓下，司機逐漸放緩走向愛車的腳步，似乎這能讓時間變慢。\n雖然得到了好友的位置，但她心中的疑惑並未減少分毫。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "……貝麗爾女士，對占卜師而言，夢境是否可控？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝麗爾",
+          "text": "物質可以是劣化的精神，精神也可以只是較高的物質。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝麗爾",
+          "text": "而有形的物質終究是可以互動與干涉的，這個回答如何？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "那就是說，控制夢境，對您這樣的占卜師並不算難事。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "直逼核心的發問。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "貝麗爾偏過頭，神色如常。這句話遠不夠鋒利，無法劃破她的笑容。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝麗爾",
+          "text": "阿黛拉小姐，我不曾操縱過你的夢境。\n如果你不願相信，我們本也不必進行這番占卜。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "不。我沒有不相信您的意思。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "只是夢境成真這件事實在難以置信，而您又是對此最為瞭解的人。\n恰好，我最近只接觸過兩個占卜師，其中一個已經死了……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝麗爾",
+          "text": "沒關係。換做是我，也會有類似的懷疑。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "感謝您的理解……請上車吧。您住在哪裡？我一定為您規劃一條最快的線路——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她打開副駕駛的車門，盡到優秀司機的禮儀，卻發現已有人占了座位。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "費利西安？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "費利西安",
+          "text": "真是讓我好等！你想怎麼辯解？阿黛拉？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "另一位失蹤人士的及時出現令阿黛拉鬆了一口氣。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "我的大小姐，現在到處都在鬧罷工。你這樣滿身貴族氣質，可不能到處亂走了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "不對，你的項鍊從哪裡來的？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "費利西安",
+          "text": "別岔開話題。你把我忘到現在的理由呢？不說些什麼維護你的忠誠和名譽嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "大小姐輕巧地拿起一枚馬卡龍，舌頭則編織著苛刻的單詞。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "那是西莉亞給我的項鍊！怎麼會在你這裡？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "阿黛拉趕緊伸手摸入口袋，卻發現裡面空空如也。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "費利西安放下了手中的甜點，舉起了胸前的項鍊。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "費利西安",
+          "text": "哈？西莉亞給你的？難道你不是法國人？還是你真的蠢到無以復加？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "費利西安",
+          "text": "我再向你說明一次，給我好好刻在你的腦子裡。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "費利西安",
+          "text": "這是我的東西！我親自找回的寶物，是我一生中冒險的最高收穫。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "費利西安",
+          "text": "沒有被未來傷害的，巴隆家的宿願，那美好時代的遺物。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "費利西安",
+          "text": "這是我的寶石！明白嗎？我的，我的，我的！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "費利西安",
+          "text": "高傲的小姐將寶石一把握住。她注視著阿黛拉，憤怒的語氣卻沒有配上憤怒的視線。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "就像是發現了一件不堪用，甚至沒有資格承受怒火的工具。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "你說……什麼？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝麗爾",
+          "text": "阿黛拉小姐，你還好嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "貝麗爾從身後扶住了搖搖欲墜的司機。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝麗爾",
+          "text": "你還在擔心那位“費利西安”嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "什麼擔心？她就在這裡！你到底怎麼了，費利西安？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "……費利西安？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "貝麗爾順著她手指的方向望向副駕駛席。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "——她的聲音停頓了片刻。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝麗爾",
+          "text": "可是……阿黛拉小姐，你看。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝麗爾",
+          "text": "副駕駛席上並沒有任何人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "貝麗爾",
+          "text": "你打開車門之後，就一直在和空氣爭吵。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "半晌，阿黛拉才取回自己的聲音。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿黛拉",
+          "text": "………………咦？"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

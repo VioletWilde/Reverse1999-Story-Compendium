@@ -1,4 +1,4 @@
-# Won't Be Amused to Death
+# Won't Be Amused to Death
 
 - Chapter: Floor it! To the Golden City (`20101`)
 - Episode: `2010102`

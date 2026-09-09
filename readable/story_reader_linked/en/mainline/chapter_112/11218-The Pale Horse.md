@@ -1,6 +1,6 @@
 # The Pale Horse
 
-- Chapter: 远征记 (`112`)
+- Chapter: The Campaign's Tale (`112`)
 - Episode: `11218`
 
 > Subtitle: The warhorse is bridled, waiting for the coming tempest.

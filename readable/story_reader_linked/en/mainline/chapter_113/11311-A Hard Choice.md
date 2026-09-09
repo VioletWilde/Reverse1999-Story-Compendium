@@ -1,6 +1,6 @@
 # A Hard Choice
 
-- Chapter: 他者的悲哀 (`113`)
+- Chapter: On Another's Sorrow (`113`)
 - Episode: `11311`
 
 > Subtitle: Now each of us must find our own way forward.

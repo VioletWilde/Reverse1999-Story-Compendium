@@ -1,6 +1,6 @@
 # Chain of Peace
 
-- Chapter: The Prisoner in The Cave (`105`)
+- Chapter: The Prisoner in the Cave (`105`)
 - Episode: `10514`
 
 > Subtitle: He declares that the old standoff must end.

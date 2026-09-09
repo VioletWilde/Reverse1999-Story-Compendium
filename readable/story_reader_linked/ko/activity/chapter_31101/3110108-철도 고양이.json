@@ -1,0 +1,445 @@
+{
+  "episode_id": 3110108,
+  "chapter_id": 31101,
+  "chapter_title": "한밤의 기적소리",
+  "display_label": "",
+  "title": "철도 고양이",
+  "subtitle": "흡혈귀는 어디 있지? 눈보라 속에서 길을 잃은 거 아니야? 그를 찾아내기 전까지 열차는 출발할 수 없어.",
+  "trails": [
+    {
+      "element_id": 3110106,
+      "owner_episode_id": 3110108,
+      "trigger_episode_id": null,
+      "title": "떠보는 문장",
+      "description": "뛰어난 조사원은 매우 짧은 문장으로 최대한의 정보를 얻어낼 수 있다.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=3110108",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "승객 정보 노트"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "……\n\n소냐 60세 \n귀부인. 예민하고 까탈스러운 성격으로, 피난 중인 것으로 보인다.\n아마도 평생을 오만하게 살았기에 현실을 인정하지 못하는 것 같다.\n\n집사와 함께 떠날 계획이었으나, ‘도나우 여명호’의 표를 구하지 못하였다.\n전쟁의 여파는 귀족과 평민 모두에게 공평했다. 아니면 그녀의 가문이 그녀의 오만만큼 높은 지위를 갖추지 못했던 걸지도 모른다.\n\n식탁을 차려주고 치마 주름을 펴줄 집사도 없이 혼자 떠나야 한다고 10분 동안 불평하던 끝에, 그녀는 결국 혼자 열차에 올랐다고 한다.\n정말 누군가 평생을 바쳐 포크와 나이프를 완벽한 45도로 놓는 법을 연구할까? 어쨌든, 그녀는 치맛자락을 살짝 들어올리고 막 고전 유화에서 튀어나온 귀부인 같았다. 부디 피난길에서 고개 숙이는 법을 깨닫고 이 세상을 직시하기를 바란다.\n\n…………\n\n……\n\n아버스넛 45세 \n중산층, 평범한 ‘신사’다.\n성격과 행동에서 특별한 점을 찾아보기 힘들다. 자신의 신분에 매우 걸맞게 행동하는 평범한 사람이다.\n\n비즈니스맨으로, 동유럽 철도와 석유에 투자하고 있다.\n중요한 인프라 시설과 전략 자원에 대해 나름의 수완도 있고, 사업가의 안목도 보유하고 있다.\n\n전쟁으로 적지 않은 피해를 입었으며, 자신의 장래에 대해 걱정이 많다.\n특수한 시기에는 특수한 조치가 필요한 법. 그가 걱정하는 것은 자신의 목숨이나 생계 걱정이 아니라, 윤택한 삶을 잃어버리는 것이다.\n\n…………\n\n……"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "203110",
+      "internal_title": "【3.1】长夜鸣笛08",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "승객 객실"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "시간은 이미 한밤중이었다. 등록을 마친 승객은 연이어 각자의 객차로 돌아가 푹신한 침대에서 깊은 잠에 빠져 들었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "소란이 잦아들고 객차 안에 남은 건 마주 앉아 서로 침묵 중인 두 승객뿐이었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "제멜바이스",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "베리티",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "제멜바이스",
+          "text": "부인, 일단 펜을 좀 내려놔 주시죠. 지금 정보를 등록하는 중이라서요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "베리티",
+          "text": "베리티, 영국인, 마도학자. 커피와 은대구, 바람 부는 저녁을 좋아해요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "베리티",
+          "text": "싫어하는 건 마감일과 비 오는 날이죠."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "베리티",
+          "text": "자, 여기까지가 내가 줄 수 있는 정보의 전부예요. 이제 내 차례네요..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "에디터는 펜을 내려놓고 불쑥 다가왔다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "베리티",
+          "text": "찾았나요?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "제멜바이스",
+          "text": "무슨 말씀인지 잘 모르겠군요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "베리티",
+          "text": "못 찾았나 보네요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그녀는 흥미를 잃은 듯 조사원을 향해 손을 휘휘 저었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "베리티",
+          "text": "당신처럼 진지한 사람에겐 아무리 흥미로운 소재라도 따분한 파일 기록이 되겠죠."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "베리티",
+          "text": "그럼 이만. 건투를 빌게요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "조사원은 펜과 서류를 정리했지만 에디터는 문득 뭔가 떠오른 듯 다시 입을 열었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "베리티",
+          "text": "근데... 이렇게 고생하며 애쓰는 걸 보니 ‘떡밥’이라도 좀 던져주고 싶네요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "제멜바이스",
+          "text": "네?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "에디터는 바짝 다가와 꾀어내듯 조사원을 향해 눈을 찡긋했다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "베리티",
+          "text": "예전에... 밤이 되면 승객들이 울음소리를 들었대요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "제멜바이스",
+          "text": "울음소리? 어떤 울음소리죠?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "베리티",
+          "text": "음..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "베리티",
+          "text": "처음에는 아주 작게, 나중에는 쌕쌕, 길게 길게, 마치 한 가닥 선처럼... 그러다 다시 갑자기 콱 걸린 듯 멈춰버리는 거죠."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그녀가 천천히 자기 목을 조르며 조사원을 향해 미소 지었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "베리티",
+          "text": "...마치 목이 졸린 새끼 고양이처럼."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "제멜바이스",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "베리티",
+          "text": "어때요, 내 괴담이 마음에 드나요?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "제멜바이스",
+          "text": "아, 멋지군요. 당신 뒤에 뭔가 있는데, 허공에 걸린 게... 아무래도 그 목 졸린 새끼 고양이 같네요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그녀는 무표정한 얼굴로 형편없는 농담에 카운터펀치를 날렸다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "베리티",
+          "text": "아니, 당신은 아무것도 못 봤어요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "에디터는 등을 곧게 펴고 자신 있는 미소를 지어 보였다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "베리티",
+          "text": "가서 일 보세요. ‘아무것도 모르는’ 아가씨."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "등록 작업은 어쨌든 일단락됐다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "지쳐버린 조사원은 자기 좌석으로 천천히 돌아와 올 때 챙겼던 파일을 펼쳤다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "제멜바이스",
+          "text": "반도를 관통하는 몇 안 되는 열차 중 하나..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "제멜바이스",
+          "text": "정체불명의 승무팀 멤버와 유령 객차..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "제멜바이스",
+          "text": "승객은... 조금 전에 한 번씩 등록을 마쳤으니 신원을 대조해 볼 수 있을 거야."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "조사원은 파일을 챙겼다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "모든 게 흠잡을 데 없이 순조로웠다. 터무니없는 건 다 그 이유가 있다는 듯이. 하지만 또 뭔가 찝찝했다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "제멜바이스",
+          "text": "재건은 수면 위로 나올 수 없어. 아무래도 그 차장이 열쇠인 것 같은데..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "제멜바이스",
+          "text": "대체 뭘 숨기고 있는 거지?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "제멜바이스",
+          "text": "...멈췄어?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "승객Ⅱ",
+          "text": "저기요... 열차가 왜 갑자기 멈춘 건가요? 잠든 지 얼마 되지도 않았는데..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "승무원이 바쁘게 복도를 오가며 놀라서 깬 승객을 조용히 달랬다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "승무원",
+          "text": "여러분, 죄송하게도... 임시 정차하게 되었습니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "승무원",
+          "text": "폭설로 당장 선로 통행이 어려워서요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "승무원",
+          "text": "수습에 박차를 가하고 있으니 당황하지 마십시오."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "승무원",
+          "text": "여러분께 야식을 제공해 드릴 예정입니다. 라이프치히 종달새 타르트와 터키쉬 딜라이트를 준비했으며, 필요하신 게 있다면 언제든 손을 들고 불러주십시오..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "제멜바이스",
+          "text": "폭설?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "조사원이 슬쩍 커튼 한쪽을 걷었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "창밖으로 이따금 눈발이 날리며, 침묵하는 뭇 산의 사이로 스며들었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "제멜바이스",
+          "text": "훌륭한 핑곗거리네. 하지만 차를 멈출 정도는 아니야."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "하지만 이런 작은 소란은 멀리 열차 반대편에서 단잠에 빠진 소녀에게 아무 영향도 주지 못했다."
+        },
+        {
+          "kind": "title_card",
+          "text": "승무원 칸"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "루부스카",
+          "text": "쿨... 쿨..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "소파에 대자로 누운 루부스카에게서 유달리 고른 숨소리가 들려왔다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "하루 동안 너무 많은 일을 겪은 그녀에게 이야기를 듣고 달래주는 새 친구는 최고의 수면제였다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아이마",
+          "text": "이상하네. 밤에 자는 흡혈귀는 처음 봐..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아이마",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그녀는 손을 뻗어 소녀의 잠든 얼굴로 조금씩 다가갔다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아이마",
+          "text": "아! 시간 다 됐다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "승무원은 고개를 저으며 소녀의 뺨에서 잔머리를 정리해 주었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아이마",
+          "text": "이렇게 즐거운 듯 웃는 걸 보니, 단꿈을 꾸고 있나 보네요. 근데... 잠시 자리 좀 비울게요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그녀는 자리에서 일어나 조용히 문을 닫았다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "밖에서 흘러 들어온 불빛을 그림자가 서서히 삼켰다. 문이 완전히 닫히고, 방안이 어둠에 잠길 때까지."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아이마",
+          "text": "굿 나잇, 루비."
+        },
+        {
+          "kind": "title_card",
+          "text": "임시 정차 장소"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "공기 중엔 젖은 나무, 썩은 잎, 눈과 음모의 냄새가 가득했다. 소녀는 어두컴컴한 나무 그림자 사이를 오가며 숨바꼭질하듯 유령처럼 나무 사이를 걸어갔다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "일찌감치 열차에서 내린 차장은 눈밭에서 기다리며 손바닥 위로 떨어진 눈송이를 뭉갰다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "코르부스",
+          "text": "늦었네. 문제라도 있었어?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아이마",
+          "text": "죄송해요... 그 흡혈귀 소녀를 재우느라고요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "코르부스",
+          "text": "네가 열차에서 내린 걸 아는 사람은?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "고요한 숲에서 열차는 소리 없이 선로 위에 멈춰 있었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "눈은 아직도 천천히 내리는 중이었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아이마",
+          "text": "조심히 걸었으니 아무도 눈치채지 못했을 거예요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "코르부스",
+          "text": "좋아, 그럼 가자."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "코르부스",
+          "text": "그들이 너무 오래 기다리지 않게."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "두 사람은 앞뒤로 나란히 열차 끝을 향해 걸어갔고, 그렇게 눈 내리는 어두운 밤 속으로 빠르게 사라졌다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "눈밭 위, 다른 누군가의 발자국이 멀찌감치 뒤에서 따라오고 있었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "제멜바이스",
+          "text": "역시..."
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

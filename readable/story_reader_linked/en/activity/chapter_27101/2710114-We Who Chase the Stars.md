@@ -1,6 +1,6 @@
 # We Who Chase the Stars
 
-- Chapter: 1987 Космическая Увертюра (`27101`)
+- Chapter: 1987 Cosmic Overture (`27101`)
 - Episode: `2710114`
 
 > Subtitle: Those who departed from home are now wandering through tales.

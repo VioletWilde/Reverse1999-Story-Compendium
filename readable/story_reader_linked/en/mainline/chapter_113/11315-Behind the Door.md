@@ -1,6 +1,6 @@
 # Behind the Door
 
-- Chapter: 他者的悲哀 (`113`)
+- Chapter: On Another's Sorrow (`113`)
 - Episode: `11315`
 
 > Subtitle: A path cleared ahead of you.

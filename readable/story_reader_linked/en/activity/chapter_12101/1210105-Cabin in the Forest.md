@@ -1,6 +1,6 @@
 # Cabin in the Forest
 
-- Chapter: Green Lake Nightmare (`12101`)
+- Chapter: A Nightmare at Green Lake (`12101`)
 - Episode: `1210105`
 
 > Subtitle: I climbed the creaky wooden stairs to see the dusty treehouse.

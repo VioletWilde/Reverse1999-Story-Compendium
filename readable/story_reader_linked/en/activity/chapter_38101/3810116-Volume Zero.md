@@ -1,6 +1,6 @@
 # Volume Zero
 
-- Chapter: 世纪末尺度 (`38101`)
+- Chapter: The Temporal Scale (`38101`)
 - Episode: `3810116`
 
 > Subtitle: "What is it that you want to be, brick?"<br>"I want to be an arch."

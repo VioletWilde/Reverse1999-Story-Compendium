@@ -1,23 +1,22 @@
 # Anecdotes
 
-- [1901 chapter_1901](chapter_1901/_index.md) — 7/7 episodes with scripts
-- [1902 chapter_1902](chapter_1902/_index.md) — 6/6 episodes with scripts
-- [1903 chapter_1903](chapter_1903/_index.md) — 8/8 episodes with scripts
-- [1904 chapter_1904](chapter_1904/_index.md) — 8/8 episodes with scripts
-- [1905 Pulp Comedy Dirges](chapter_1905/_index.md) — 6/6 episodes with scripts
+- [1901 The Story of Oliver](chapter_1901/_index.md) — 7/7 episodes with scripts
+- [1902 The Master of Theatrics](chapter_1902/_index.md) — 6/6 episodes with scripts
+- [1903 The Long Night Singing Its Dirges](chapter_1903/_index.md) — 8/8 episodes with scripts
+- [1904 After the Good Dream](chapter_1904/_index.md) — 8/8 episodes with scripts
+- [1905 Pulp Comedy](chapter_1905/_index.md) — 6/6 episodes with scripts
 - [1906 Back to Earth](chapter_1906/_index.md) — 8/8 episodes with scripts
 - [1907 The Ninth Virtue](chapter_1907/_index.md) — 7/7 episodes with scripts
 - [1908 The Will of Gears](chapter_1908/_index.md) — 7/7 episodes with scripts
-- [1909 To Wennifred](chapter_1909/_index.md) — 8/8 episodes with scripts
-- [1910 The Winds OF Juhalerat](chapter_1910/_index.md) — 8/8 episodes with scripts
-- [1911 Finding Xavier](chapter_1911/_index.md) — 8/8 episodes with scripts
-- [1912 The Third Circumstance](chapter_1912/_index.md) — 6/6 episodes with scripts
-- [1916 Flower Power](chapter_1916/_index.md) — 4/4 episodes with scripts
+- [1909 To Winnifred](chapter_1909/_index.md) — 8/8 episodes with scripts
+- [1910 The Winds of Juhalerat](chapter_1910/_index.md) — 8/8 episodes with scripts
+- [1911 Eagle](chapter_1911/_index.md) — 8/8 episodes with scripts
+- [1912 Semmelweis](chapter_1912/_index.md) — 6/6 episodes with scripts
+- [1916 When Peace Blooms](chapter_1916/_index.md) — 4/4 episodes with scripts
 - [1918 A Night Without End](chapter_1918/_index.md) — 3/3 episodes with scripts
 - [1919 A Fool's Gold](chapter_1919/_index.md) — 8/8 episodes with scripts
-- [1920 The  Best Band in Town](chapter_1920/_index.md) — 7/7 episodes with scripts
+- [1920 The Best Band in Town](chapter_1920/_index.md) — 7/7 episodes with scripts
 - [1922 The Last Film](chapter_1922/_index.md) — 8/8 episodes with scripts
 - [1923 The Sea Breeze Still Whispers](chapter_1923/_index.md) — 8/8 episodes with scripts
-- [1924 Away From Home](chapter_1924/_index.md) — 8/8 episodes with scripts
+- [1924 On the Road](chapter_1924/_index.md) — 8/8 episodes with scripts
 - [1925 The Diamond Con](chapter_1925/_index.md) — 7/7 episodes with scripts
-- [19101 chapter_19101](chapter_19101/_index.md) — 2/6 episodes with scripts

@@ -1,0 +1,861 @@
+{
+  "episode_id": 11019,
+  "chapter_id": 110,
+  "chapter_title": "復樂園",
+  "display_label": "",
+  "title": "舊路新程",
+  "subtitle": "為被拯救所瘋狂的靈魂啊，你是否還將前行？",
+  "trails": [
+    {
+      "element_id": 101019,
+      "owner_episode_id": 11019,
+      "trigger_episode_id": null,
+      "title": "紙頁與沙盤",
+      "description": "薄薄的一頁中，成百上千人等待著命令與救援。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=1019",
+      "content_hints": [
+        "fragment",
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "作戰日"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "03/30 13:05\n特里格拉夫號從22KM外進行了第一發試射。炮彈命中海岸冰架，四分鐘後進行第二次跨射調準射擊諸元。再四分鐘後第三次跨射調整完畢。\n批覆：進攻開始。\n03/30 14:32\n偵測到馬格努斯觸碰自航水雷，確認兩艘驅逐艦遭到水下攻擊，一艘已經喪失作戰能力，行動受限。隨後馬格努斯浮水開始炮擊，該艦用船體阻攔攻擊。\n批覆：第二批五艘驅逐艦出動，配合清掃馬格努斯。芝諾空軍已派出十四人起飛偵測，注意配合。\n03/30 16:03\n馬格努斯已被擊潰。艦隊開始挺進，等待後勤艦隊建造人工港。\n批覆：監視伊戈爾叛軍，及時回傳態勢評估。\n03/30 19:25\n特里格拉夫號深入戰場。人工港初步完成。水下聲呐偵測到巨大不明信號。暫無伊戈爾軍動向。\n批覆：依託防禦工事組織火力，繼續監視敵主力動向。\n03/31 00:10\n奧利圖歐全數飛出，撤退的馬格努斯突然轉向進攻。兩艘驅逐艦被馬格努斯的平射火炮命中，喪失作戰能力，請求重火力支援。伊戈爾軍仍無參戰意圖。\n批覆：艦炮火力5分鐘後覆蓋你前方12海里區域，空中掩護20分鐘後抵達。伊戈爾來到重塑必有所圖，切勿放鬆警惕。\n03/31 02:34\n利維坦浮出水面，特里格拉夫號受到利維坦重創，即將引爆神秘術陣。\n批覆：各艦船回避冰區，重新組織防線。"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "101024",
+      "internal_title": "第十章10-18.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "舊路新程"
+        },
+        {
+          "kind": "title_card",
+          "text": "火山神殿·熔岩甬道"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "靜如墓地的巢穴內，僅是一點細微的震動就足以掀起巨大的波瀾。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "……“門”又一次打開了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "也是時候兌現你們的承諾了，傳道者。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "傳道者將目光從遠處收回。她摩挲著胸前的聖像，緩緩轉過身。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "傳道者·蘇菲亞",
+          "text": "使徒阿尼姆斯已經做好了主持儀式的準備。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "傳道者·蘇菲亞",
+          "text": "霧氣也才剛剛湧起，將軍。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "傳道者·蘇菲亞",
+          "text": "基金會的艦隊還在試圖登岸，這種時候，您不該在這裡。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "將軍站在陰影中，目光如炬。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "你知道我在這裡的理由。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "自赤道至極點，我的士兵隨我風雨兼程。他們的等待與犧牲應該止於此地。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "傳道者·蘇菲亞",
+          "text": "那該是您預料之中的犧牲。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "預料之中並不等同於理所當然。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "陰影中的將軍巋然不動。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "儀式的最後一環也已經湊齊，我們如約踐行了祂所傳達的一切期望。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "在最後的時刻到來前——我需要祂為我們降下“奇跡”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "傳道者看著將軍，似是審視著他的貢獻。片刻後，她點了點頭。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "傳道者·蘇菲亞",
+          "text": "好。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "傳道者·蘇菲亞",
+          "text": "如我們之前所談，這是我們的承諾。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "傳道者·蘇菲亞",
+          "text": "這就是您所期待的“奇跡”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "焰光閃爍。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "觸到盒子外壁的瞬間，神秘學能量的火光倏地撞入了虛無。神秘術沒能在盒子上留下絲毫痕跡。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "……如果……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "如果1999年我們能拿到它……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "傳道者搖了搖頭，伸手按在了盒子上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "傳道者·蘇菲亞",
+          "text": "將軍，潘朵拉之盒還沒到打開的時候。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "傳道者·蘇菲亞",
+          "text": "這的確是一份奇跡，但也僅此而已。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "傳道者看向將軍胸前閃爍著銀色寒光的軍徽。跨越數場“暴雨”，它依舊鋥亮如新。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "傳道者·蘇菲亞",
+          "text": "您應該已經決心摒棄過往的榮耀，踏上這條新的道路。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "……我已經做出了選擇，傳道者。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "傳道者·蘇菲亞",
+          "text": "那麼，希望您能堅定地走在正確的道路上，將軍。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "將軍別開傳道者的手，將“奇跡”收入懷中。他沒有絲毫留戀，轉身離開了冰冷的巢穴。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "通訊器如約響起。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德爾",
+          "text": "將軍。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "“交易”已經完成了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德爾",
+          "text": "收到。接下來的命令是？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "計畫可以進入下一階段了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德爾",
+          "text": "……我明白了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "聽筒對面，呼吸均勻。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德爾",
+          "text": "執行下一階段計畫前，我希望先完成一件個人事務。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "個人事務？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "將軍輕笑了一下。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾將軍",
+          "text": "當然，這是你的權利。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德爾",
+          "text": "是，父親。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "通訊切斷。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "將軍低頭摩挲著自己的手掌，上面的每一個繭他都認識。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "正如他熟悉自己的每一個“孩子”。"
+        },
+        {
+          "kind": "title_card",
+          "text": "前芝諾近衛團某駐地"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "結束通訊。中尉深吸一口氣，讓冰涼的空氣灌入肺部，迫使身體的每一寸都甦醒過來。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德爾",
+          "text": "白手套隊長，我們的等待結束了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "白手套隊長",
+          "text": "中尉，您的意思是……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "隊長看著自己的上級，從她的眼眸中看到了與其父親相似的堅毅神采。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德爾",
+          "text": "通知隊伍，清理之前探查出的重塑之手眼線，做好從據點撤離的準備。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德爾",
+          "text": "通訊員，按照之前的準備阻斷重塑之手所有的監聽信號，和托勒密那邊取得聯絡。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德爾",
+          "text": "對了，還有——丹尼洛夫機長呢？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "機長",
+          "text": "中尉，我正要向您彙報好消息。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "機長",
+          "text": "您的神秘術發揮了作用。各處都檢查完畢，直升機可以順利啟動了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德爾",
+          "text": "很好。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "迎著機長標準的軍禮，中尉踏雪步伐堅定地向著直升機走去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德爾",
+          "text": "既然已經選擇了腳下的道路，此刻唯有前進。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德爾",
+          "text": "“以卵擊石還是奇跡乍現”……我們將親身驗證最終的答案。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "漆黑的熔岩壁彰顯著它古老的可怖。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "靜如墓地的通道內，哪怕落針的聲音都顯得格外刺耳，闖入者只得將聲音放得更輕。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "司辰，“無名者”小姐和無線電小姐都已經進入箱中休息了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "辛苦你了，十四行詩。前面的路只會越來越危險，箱子裡更安全。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "關上卡扣，提起箱子。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "儘量不去回望身後可怖的神殿大門，而是向前看去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "穿過這條甬道後，恐怕就是儀式舉行的地方了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "如果發生最壞的情況，就按照我們之前商量好的對策執行。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "……好的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "對了，司辰……我想將它交給您。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "皺巴巴的手繪地圖，紅色的筆跡深深地刻印其上。除卻許久之前的記錄，又多了不少新的印記。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "它曾被人類探險家的汗漬和淚水打濕，最終來到了期許之地。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "——以不被期望的方式。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "沉默著接過地圖，將難言的情感化作向前的腳步。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "令人窒息的沉默之中，零星的腳步聲顯得格外刺耳。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "腳步聲越來越快、越來越快，直至為石子所絆，幾欲跌倒。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "唔——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "小心，十四行詩。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "……你在發抖嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "……我沒事，司辰。只是這裡有點冷。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "第一助手站直了身體，但手臂仍有些不自然地彎曲著。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "冷到連溫暖咒都無法生效。我不由得在想……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她停頓了一會，聲音顫抖起來。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "……諾諦卡走入門內的時候，是否也感受到了一樣的寒冷呢？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "十四行詩……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "司辰，我覺得諾諦卡很勇敢……要是我也能像她一樣勇敢就好了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "不、對不起……我不該在這時候說這個的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "忘了它吧。我明白，我們還有任務在身。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "第一助手深吸一口氣，抑制住自己顫抖的聲音。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "“我們該把精力放在最高使命上……”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她喃喃唸著，再度向前邁步。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "我們走吧，司辰。一定要阻止重塑之手的儀式才行。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "……嗯。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "急促腳步聲再次響起。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "然而這一次，它很快得到了來自甬道另一端的回應。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "赤足的腳步先停了下來，金屬飾物與衣料的摩擦聲迴盪了約1.414秒後，才消弭於空氣中。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "傳道者·蘇菲亞",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "……蘇菲亞小姐！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "甬道內的空氣近乎凝滯，傳道者的影子卻在岩壁上不斷跳躍。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "十四行詩。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "第一助手交換來一個眼神，她點了點頭，筆杖尖端凝聚起神秘術的能量。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "傳道者握緊了手中的聖像，染上漆色的光輝瞬間席捲而來。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "傳道者·蘇菲亞",
+          "text": "Διορθωθεί   το   σφάλμα!"
+        }
+      ]
+    },
+    {
+      "script_id": "101025",
+      "internal_title": "第十章10-18.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "就是現在！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "傳道者·蘇菲亞",
+          "text": "咳咳、咳……這是……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "粉紫色的煙霧瀰漫開來。煙塵散去的時候，傳道者眼前只剩下了一頂帽子。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "十四行詩，我們快走！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "第一助手應聲而動，從通道深處卻再度湧出了一股濃厚的霧氣，將她隔離在外。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "這不是迷障泡泡球的味道……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "這場霧無味、輕薄，卻又沉重得無處不在。正如那籠罩湖面，孤獨地試圖推動紡車的霧一般。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "別過來——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "隔著朦朧的霧，第一助手的身影猛地停了下來。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "這場霧和箱中湖泊的霧氣很像……還記得嗎，你曾差點暈倒在霧氣中。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "傳道者·蘇菲亞",
+          "text": "別想離開！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "漆黑的黏液再度追逐試圖離去者的腳步而來。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "Regna   sereno   intenso   ed   infinito!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "黏液被神秘術擋下。第一助手攔在傳道者身前，握緊了玻璃筆杖。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "……看來我只能走到這裡了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "司辰，請您繼續前進。我留在這裡掩護您。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "最後一次交換了眼神，腳步毅然地踩進了漸濃的霧中。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "我不會讓你阻攔司辰的道路，蘇菲亞小姐。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "你曾說過，下次見面時我們就是敵人了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "所以，你的對手是在這裡的我。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "神秘術的光輝在空中反覆碰撞又消逝。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "蘇菲亞小姐……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "我至今仍不明白，你為什麼要站到重塑之手那一方。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "究竟是怎樣的“使命”，能讓你離開曾經的家園，與過往的同伴為敵？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "傳道者·蘇菲亞",
+          "text": "……你變了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "傳道者·蘇菲亞",
+          "text": "在那座島上你更少說話，更多聆聽。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "傳道者·蘇菲亞",
+          "text": "這就是你想做的事嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "你想說什麼？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "傳道者漠然的目光投向甬道的盡頭。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "傳道者·蘇菲亞",
+          "text": "司辰已經離開你的監護範圍了。這樣好嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "傳道者·蘇菲亞",
+          "text": "比起在這裡阻攔我，牢牢看緊她才是你的首要任務吧？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "……司辰的使命是阻止儀式的舉行。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "而我要做的，是為她掃清前路的塵埃。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "攻擊的光輝每每發出都被傳道者周身的黏稠液體捕獲、吞沒。即便如此，十四行詩仍源源不斷地在空中書寫著神秘術式。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "我也想問你同樣的問題，蘇菲亞小姐。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "這就是你想做的事嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "我在那座島嶼上見過你戰鬥時的姿態，你那時使用的神秘術和現在截然不同。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "你的神秘術中不再有過往的信念了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "傳道者·蘇菲亞",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一道神秘術式化作的輝光終於穿越黏液的圍捕，切斷了幾縷傳道者鬢邊的紅髮。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "你會在這裡阻攔，是代表著我們已經接近儀式的核心了嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "德洛絲醫生……也在那裡嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "傳道者·蘇菲亞",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "迎著那沉默、堅定、絕不退讓的眼神，蘇菲亞向前一步，湧起的漆黑黏液再度化為了一道密不透風的屏障。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "傳道者·蘇菲亞",
+          "text": "德洛絲女士憑藉她的意志到達了這裡。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "傳道者·蘇菲亞",
+          "text": "那麼你呢，十四行詩？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "傳道者抬起手，身前的聖像隨著她的動作微微搖晃。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "傳道者·蘇菲亞",
+          "text": "你又是為什麼而前行？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她只是再度握住玻璃筆。\n像過往無數次一樣，在空中寫下術式。"
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

@@ -1,6 +1,6 @@
 # The Genius DJ
 
-- Chapter: The Rimet Cup (`11101`)
+- Chapter: The Theft of the Rimet Cup (`11101`)
 - Episode: `1110109`
 
 > Subtitle: She decides to change the tone. Things could be brighter, more exciting, like Rock  n' Roll.

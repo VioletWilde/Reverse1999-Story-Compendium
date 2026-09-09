@@ -1,6 +1,6 @@
-# Main Story · Nouvelles et Textes pour rien
+# Main Story · Nouvelles et Textes pour Rien
 
-- [10301 Chaldea Oracles](10301-Chaldea Oracles.md) — Hands up and answer the question. A delicate badge will be given to the best student.
+- [10301 Chaldean Oracles](10301-Chaldean Oracles.md) — Hands up and answer the question. A delicate badge will be given to the best student.
 - [10302 Frog and Toffee](10302-Frog and Toffee.md) — Pebbles, frogs, the attic with stinky socks... They're just a teeny tiny part of the whole world.
 - [10303 Stalkee](10303-Stalkee.md) — It is immoral to stalk others, and we all know that.
 - [10304 New Blood](10304-New Blood.md) — The new blood will rush into the gigantic body, making every effort to serve it.

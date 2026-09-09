@@ -1,6 +1,6 @@
 # Empty Pillbox
 
-- Chapter: Green Lake Nightmare (`12101`)
+- Chapter: A Nightmare at Green Lake (`12101`)
 - Episode: `1210118`
 
 > Subtitle: The cold metal tastes like toothless gums.

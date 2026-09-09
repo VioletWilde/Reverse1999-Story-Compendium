@@ -1,6 +1,6 @@
 # The Distrusted
 
-- Chapter: The Winds OF Juhalerat (`1910`)
+- Chapter: The Winds of Juhalerat (`1910`)
 - Episode: `191004`
 
 > Subtitle: His distrust of everything is precisely what makes him trustworthy.

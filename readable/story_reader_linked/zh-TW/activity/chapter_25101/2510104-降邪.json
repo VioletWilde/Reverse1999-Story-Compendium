@@ -1,0 +1,852 @@
+{
+  "episode_id": 2510104,
+  "chapter_id": 25101,
+  "chapter_title": "唐人街影話",
+  "display_label": "",
+  "title": "降邪",
+  "subtitle": "噓——電話已接通，它呼喚的是你的名字。",
+  "trails": [
+    {
+      "element_id": 2510104,
+      "owner_episode_id": 2510104,
+      "trigger_episode_id": null,
+      "title": "NG畫面",
+      "description": "幸好不是直播，這段待會剪輯一下。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=2510104",
+      "content_hints": [
+        "fragment",
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "嘉賓夜現場"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "“今晚我的首位嘉賓將是一位優秀的青年演員。你可能已經在很多地方見過她了，比如C07第一部、C07第二部，還有即將上映的C07第三部……為什麼我們不按序號叫它們C08和C09？總之讓我們有請奇星！”\n……\n“然後呢，你知道菲林士多怎麼說麼？她說‘反正要殺青了，我們就把炸藥都用上吧！’”\n“所以你那被爆炸震懵的表現不是演技？”\n“一半是演技，只有前半面是演技！那爆炸的推背感可真不是開玩笑的。”\n“那我猜C07第三部不會有大煙花了？因為你們在前一部用了太多。”\n“五十五十吧。”\n“嗯？”\n“五十五十吧，這電影要嘛放一個大煙花，要嘛變成撲街，那個莫名其妙的結……”\n“哇喔哇喔哇喔！我想我們遇到了未經許可的結局劇透！在菲林士多女士把我們告上法庭之前，讓我們進入廣告！”"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 2510105,
+      "owner_episode_id": 2510104,
+      "trigger_episode_id": null,
+      "title": "例行檢查",
+      "description": "現在開始各自檢查裝備，有遺失的立刻回報。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=2510104",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "看看這面鏡子，親愛的，這上面有好大一個污點。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "它已經碎了",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "是的，碎了，也許這正是它的主人想要的，要清除一個莫大的污點，你就只有用暴力去摘掉它。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "現在污點不見了，它的主人還得到了無數面小鏡子，我想這面應該是她不小心留下的。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "再仔細瞧瞧，親愛的，看看這兩條裂痕，想像它們延伸出去的交界處，那裡有一塊難以去除的污漬。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "它的主人以為這樣就可以把污漬去掉，現在卻只得到了一堆碎鏡子，污漬也躲到了她看不到的角落。"
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "它的主人是？",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "一位胸懷理想的女性，一心想要讓這個世界與自己和解，還會建議其他人加入自己，也因此擁有了無自覺的人格魅力。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "而她的哥哥恰好相反，一生的願望就是得到世界的諒解，會積極地適應世界，想盡辦法去融入他人，結果卻在決鬥中失去了一隻胳膊。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "但要我說，親愛的，他們都是一樣的，孤獨的人。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "兄妹倆就像是鏡子的兩面，她卻在看著另一個自己時忍不住地反感，總想著生活不該如此。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "而現在，另一個她撿起了尊嚴，找回了丟掉的胳膊。她為世界預約了無數次的大手術也終於有人來執行。她卻開始害怕術後創傷了。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "正如我所說，兄妹倆就是鏡子的兩面，親愛的。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "現在這面鏡子碎了，希望她可以承受得住七年的壞心情，真可憐，她不得不承受。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "我沒有看到污點",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "202506",
+      "internal_title": "【2.5】唐人街影话04.1",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "棍騙約翰",
+          "text": "不要過來，救命、救命！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "市政大廳再一次陷入了混亂，棍騙約翰尖叫著倉皇逃命，試圖遠離身後的煞星。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "男子",
+          "text": "讓開！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "青年警察",
+          "text": "呃……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "男子用鮮血淋漓的雙手，將試圖阻攔他的警員拋到一旁——那是他掙脫手銬時，掰斷自己的拇指流下的血。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他有如鬼神附體，不知從哪裡得來了一股怪力，數個警員一擁而上，竟然也被他輕鬆撞開。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "男子",
+          "text": "不要擋我的路！那個王八蛋……我要殺了你，我要殺了你！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "波蒂埃",
+          "text": "該死，那老兄是怎麼回事？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "他的樣子看起來明顯不對勁！\n那是……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "某種神秘術，和……某種邪祟之物的氣息。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "——波蒂埃教官，我想我能讓那位先生停下來！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "方才的不愉快已經被二人拋在了腦後。\n事態緊急，波蒂埃立刻點了頭。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "波蒂埃",
+          "text": "好吧，雖然我不知道你說的“邪祟之物”究竟是個什麼——但如果你覺得能做些什麼的話，就快做！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "明白。\n這正是我的使命所在。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "梁月鄭重點了點頭，向大廳中央的男子跑去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "男子",
+          "text": "我要殺了這個人渣。殺了他，殺了他……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "男子",
+          "text": "誰？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "請您不要緊張，先生。我身上沒有武器。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "我只是想要請您聽一通電話。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "男子",
+          "text": "什麼？……電話？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "是的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "一通電話。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "男子",
+          "text": "……電話那邊是誰？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "請不要著急，我現在撥通它。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "強梁既出，罔有不韙。斬殺凶咎——梟截不祥！"
+        }
+      ]
+    },
+    {
+      "script_id": "202507",
+      "internal_title": "【2.5】唐人街影话04.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "男子",
+          "text": "不！不……！\n我的頭……呃啊啊——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "男子",
+          "text": "對不起，媽……對不起……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "男子在留下幾句模糊不清的呢喃低語後栽倒在地。\n周圍的警員心有餘悸，一時仍然不敢靠近。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "青年警察",
+          "text": "……我們還要給他上手銬嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "我來吧。\n但我想比起警察局，我們應該先送他去醫院進行一番徹底的檢查。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "老警察",
+          "text": "那麼他能交給你們嗎？我們還得照看那個傢伙。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "梁月順著年長警官所指的方向看去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "不久前還不可一世的棍騙約翰此刻癱軟在地，細看還會發現他身著的下裝有一片不自然的深色印記。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "波蒂埃",
+          "text": "天呐，真是個沒膽的窩囊廢。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "波蒂埃冷笑一聲搖了搖頭後，便收回了目光。\n隨後她猶豫片刻，最終將視線投向了梁月。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "波蒂埃",
+          "text": "你知道我想說什麼，就是……那個，你知道的吧？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "……？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "回應波蒂埃的是一張滿是疑問的面孔。\n好吧，這也不能怪對方。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "波蒂埃",
+          "text": "好了……我很抱歉！\n這就是我想說的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "波蒂埃",
+          "text": "我同情那個夥計，但也沒有幫上什麼忙。如果不是你，我們就真的只有擊斃他了，而這可不是我想看到的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "波蒂埃",
+          "text": "我剛才說了點難聽的話，你就忘了吧。\n你幫了大忙——做得好。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她一氣呵成地說完了這番話，別過頭去不想看對方的表情。\n然而等了許久，波蒂埃卻沒有等到任何一句回覆。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "波蒂埃",
+          "text": "……說點什麼呀！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "撞進她視野中的是一張寫著意外的面孔。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "哦……當然，我……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "我並沒有在意，波蒂埃教官。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "波蒂埃",
+          "text": "……很好。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "噗……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "波蒂埃",
+          "text": "什……什麼人？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一聲輕笑從側旁傳來，波蒂埃像是一隻被踩了尾巴的貓一樣蹦了起來。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "抱歉，我並不是有意偷聽你們的對話，也並沒有取笑你們的意思。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "只是……你們的感情真好，讓我想起我從前的朋友們。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "您是方才的那位小姐。\n是我們疏忽了，我們還沒有向您表示過感謝。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "多虧了您幫忙安撫住犯人的情緒，事態才沒有惡化，我們也才能及時制服那位先生。謝謝您。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "你太客氣了，小小的見習執夜人小姐，我只是做了我力所能及的事。\n更何況，最後真正控制住場面的是你和你的夥伴。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "您真是謙虛。您……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "我是不是在哪裡見過您？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "梁月盯著女子看了許久，終於忍不住將這個疑問說出了口。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "也許她們的相會發生在某個“非現實”的地方——但那是哪裡？\n徘徊在嘴邊的答案，被對方先一步揭曉。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "沒想到時隔多年，還能遇到仍然記得那部電影的人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "貝雷帽下那人的眉眼，逐漸和記憶中另一張面孔重疊在一起。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "那張記憶中的面孔沒有面前女子身上的成熟與穩重，更多的則是意氣風發與神采飛揚。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "但不變的是那雙明亮的眼睛。它們就像是夜空中的星星，總是在銀幕或錄影廳電視機的小小螢幕上閃閃發光。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "我……想起來了，我見過您。\n在電影裡見過您。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "您是……您是那位——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "奇星",
+          "text": "是的。\n我是奇星，在《神秘警探C07》裡面演C07的那個。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "女子向目瞪口呆的二人眨了眨眼睛。"
+        },
+        {
+          "kind": "title_card",
+          "text": "醫院"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "值班醫生",
+          "text": "辛苦了，距離檢測結果出來還需要一段時間，請你們稍等。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "好的……麻煩您了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "波蒂埃",
+          "text": "那個劫犯隨身帶著證件，倒是為我們省了不少事。\n艾瑞克·黃，43歲，在唐人街附近經營一家蔬菜店。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "波蒂埃",
+          "text": "父母均已過世，但有個妻子麗蓮·劉，十年前來美，各種證件都沒有問題。\n全家上下沒有犯罪記錄，可以說都是清清白白的優秀市民。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "波蒂埃",
+          "text": "雖然因血統原因天生能夠使用強大的神秘術，但在這件事之前，他一次都沒有將這份能力用在過歪處。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "波蒂埃",
+          "text": "我們在案發地點附近找到了他的車，裡面裝滿了採購回來的馬鈴薯啦，胡蘿蔔什麼的……作為障眼法，這高明得有些多此一舉了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "波蒂埃",
+          "text": "無論如何，我們已經聯繫了他的家屬，應該過一會兒就能到，我們也許可以從他們的口中獲得一些線索。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "波蒂埃",
+          "text": "……菜鳥？你在聽嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "是啊……在……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "波蒂埃",
+          "text": "…………"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "答案顯然是否定的。波蒂埃深吸了一口氣——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "波蒂埃",
+          "text": "回神！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "哇？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "耳邊驟然炸開的吼聲讓神遊天外的梁驚得跳了起來。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "您……您做什麼，波蒂埃教官？\n這裡可是醫院！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "波蒂埃",
+          "text": "我也想要小聲，但我看要是聲音小了，就根本進不去你的大腦了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "波蒂埃",
+          "text": "你到底要發呆到什麼時候，不就是見到C07的演員了嗎？\n至於嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "我沒有發呆，您剛才說的話我都聽到了，我只是……只是在思考一些問題。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "波蒂埃",
+          "text": "哦？那你在思考什麼？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "……奇星小姐的事。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "波蒂埃",
+          "text": "你看吧？\n你說起那個導演的名字時那麼熟悉，我就覺得奇怪了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "波蒂埃",
+          "text": "原來我們的乖乖仔經常會瞞著父母去偷看電影，而且還是《C07》系列的粉絲。你早說嘛！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "波蒂埃",
+          "text": "我還一度擔心你是個假人，像上次拉普拉斯提供給警局貼罰單的機器人之類的，會偷偷在背地裡喝機油。看來我終於可以鬆一口氣了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "我……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "梁月起初似乎想要反駁，但話到嘴邊，她最終改變了主意。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "是的……我的確很喜歡奇星小姐飾演的C07系列電影。\n那個角色對我來說也有很重要的意義。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "波蒂埃",
+          "text": "難不成你是因為那部電影才選擇做執夜人的？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "……準確地說，是它讓我接受了自己只能成為警察。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "話扯得有些遠了，波蒂埃教官。\n我的確在思考關於奇星小姐的事，但那和我個人的喜惡無關。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "少女搖了搖頭，眼神變得凌厲，眉頭卻微微蹙起。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "製造連續襲擊案的“針人”擅長使用飛針型的攻擊性神秘術，而奇星小姐當年也正是以親身上陣實拍的“銀針”神秘術聞名。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "……這僅僅只是一個巧合嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "波蒂埃",
+          "text": "哈？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "警官擰緊了眉頭，就像聽到了一個差勁的腦筋急轉彎。\n但若有所思的梁月繼續說了下去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "以及……她剛才的話，我總感覺有些意味深長。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "約一小時前"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "很榮幸見到您，奇星小姐！\n我……我小的時候是看著您演的電影長大的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "您來這裡是做什麼呢？\n我的意思是說，如果方便問的話？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "奇星",
+          "text": "沒有什麼不方便的。我是來見一位老友的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "作為一名曾火遍大江南北的影星，奇星的態度卻十分親和。\n她說話的口吻如同與友人閒談，沒有絲毫的拿腔作調。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "您是說……菲林士多導演？\n我聽說她正在唐人街那邊拍戲。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "奇星",
+          "text": "是的，你也知道？\n我們已經很久沒見面了，這次因為一些契機，我決定找她聚一聚。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "原來是這樣，那真是……太好了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "馬上就是度朔節了，我聽說唐人街那邊也會舉辦社火遊行，一定會很熱鬧的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "波蒂埃",
+          "text": "……？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "波蒂埃疑惑地盯著話忽然多了起來的梁月，感覺自己的搭檔仿佛變成了另一個人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "奇星",
+          "text": "今年的社火遊行……也是，不知不覺又到這個時候了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "您不喜歡社火遊行嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "奇星",
+          "text": "不，怎麼會呢。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "奇星",
+          "text": "酬神、消災、祈福、歡祝……人們在熱鬧的慶典中迎接新一年的到來，祈禱來年風調雨順、合境平安。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "奇星",
+          "text": "社火遊行寄託著人們最樸實的願望，那樣純粹、又那樣美好，沒有人會不喜歡它。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "奇星",
+          "text": "……只是，每年的社火遊行總會讓我想到那個結局。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "波蒂埃",
+          "text": "結局？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "奇星搖了搖頭，似乎沒有進一步繼續這個話題的意思，梁月卻忽然福至心靈。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "難道您是說……C07系列電影最後一部的那個結局？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "看起來她猜對了，因為奇星略感意外地睜大了雙眼後，點了點頭。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "奇星",
+          "text": "是的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "奇星",
+          "text": "雖然有許多人對那個結局十分追捧，說它“反映現實”“悲劇比喜劇更能讓人記住”……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "奇星",
+          "text": "但坦白說，我並不喜歡當時的那個結局。\n壞人在最後並沒有得到懲罰，正義的英雄失敗了……這算什麼？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "奇星",
+          "text": "我們無法控制現實，但至少能夠決定電影裡的故事。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "奇星",
+          "text": "現實的世界已經足夠模棱兩可，荒謬不經。\n善有善報、惡有惡報，這才是大家走進電影院時期待看到的東西。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "作為一番由電影衍生出的討論，這名昔日影星的口吻顯然有些過於嚴肅了。\n但她所言之中仍然有些梁月頗有同感的地方。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "我……我有同感。\n我記得小時候的我覺得很奇怪，疑惑為什麼會是那種結局。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "也許現實的確就是這樣無法盡如人意，但我想……至少在電影裡，我還是想要看到純粹的“邪不勝正”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "梁月的回答似乎博得了奇星的好感，她的眼睛亮了起來。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "奇星",
+          "text": "見習執夜人小姐，我想請問您一個也許有些冒昧的問題。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "奇星",
+          "text": "您剛才呼喚出的那位夥伴讓人印象深刻，我想我在傳說中讀到過符合它特徵的記載。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "奇星",
+          "text": "“強梁既出，罔有不韙。斬殺凶咎，梟截不祥”……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "奇星",
+          "text": "您想必就是梁家的後人，並且是那少數受到了眷顧的孩子之一，對嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "奇星眼中的某種東西，讓梁月產生了被灼燒般的錯覺。\n但梁月仍然誠實地回答了對方的問題。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梁月",
+          "text": "我的確是十二侲子之一的梁家之後，我叫梁月。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "奇星",
+          "text": "梁月……梁月。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "奇星",
+          "text": "好的，我記住你了。"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

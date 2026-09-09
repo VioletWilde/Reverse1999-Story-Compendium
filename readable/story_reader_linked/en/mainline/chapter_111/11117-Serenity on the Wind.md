@@ -1,6 +1,6 @@
 # Serenity on the Wind
 
-- Chapter: 行于漫漫长路上 (`111`)
+- Chapter: A Long Long Way (`111`)
 - Episode: `11117`
 
 > Subtitle: If only this war had never begun ...

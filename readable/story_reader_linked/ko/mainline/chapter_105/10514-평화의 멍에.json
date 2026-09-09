@@ -1,0 +1,742 @@
+{
+  "episode_id": 10514,
+  "chapter_id": 105,
+  "chapter_title": "동굴 속의 죄수",
+  "display_label": "",
+  "title": "평화의 멍에",
+  "subtitle": "그가 낡은 대치를 선포했지만 이미 막이 내린 뒤였다.",
+  "trails": [
+    {
+      "element_id": 1051401,
+      "owner_episode_id": 10514,
+      "trigger_episode_id": null,
+      "title": "오솔길① 세 번째 갈림길",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=514",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "이게 뭐니, 우화 속에 나오는, 그 동굴에서 기어나와 얼굴이 먼지투성이인 야만인 같구나."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "그들이 너에게 이런저런 말을 했겠지. 그래도 네 앞에 시험지를 펼쳐놓고 직접 풀어보라고 시키지 않은 걸 다행으로 여겨야 할 거야."
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "아무 말도 못 들었는데",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "오호, 한눈팔기 전문가구나. 자네가 과거에 받은 영광스러운 훈장을 잊지 말아야겠어."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "그런 일이 있긴 했지",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "어머, 정말 겸손한걸. 개구리를 잡던 날들이 너에게 꽤나 큰 도움이 됐나 보구나."
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "기억들을 구석구석 잘 찾아보도록 하렴. 석조 테이블 앞에 서 있는 또 다른 사람들을 찾을 수 있을 거야."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "긴 옷, 하얀색 긴 옷을 입었어. 하얀색과 회색의 네모 무늬가 그려져 있지. 한 사람은 계단에 서서 길 잃은 이들을 불러 모았어. 음, 너희가 그를 뭐라고 부르더라..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "선생님, 지도 교수님... 그런 호칭이었어. 그들은 자신의 이름을 잊었지. 뭐, 깃발에 자기 이름을 적어 넣는 사람은 없으니까."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "그들은 단 한 번도 불평을 하지 않았어... 합리적인 것은 현실이고, 현실은 합리적인 법이지."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "그들은 네게 잘 정리된 큰 길을 보여주었어. 탄탄한 아스팔트 도로와 편안한 차, 밝게 빛나는 햇빛 그리고 일생의 사명이 있는 길을 말이야."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "모든 것은 마치 이제 막 세상에 탄생한 것처럼 분명하지. 잘 다듬어진 벽돌 위로 돌멩이 하나만 떨어져도, 그 소리가 모두의 귀에 선명히 들릴 정도야."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "또 다른 길은 인적이 매우 드문 숲길이지. 칠흑같이 어두운 그 길은 누군가에게 들킬 수도, 무언가를 증명해 낼 수도 없단다. 입에 담을 수 없는 혼란과 광증까지 도사리고 있지. 하지만 그곳은 초목이 무성하고 사람들에게 웃음을 피어나게 만들 아름다운 꽃이 가득한 풍경이 펼쳐져 있어."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "...너라면 어떤 길을 택하겠니?"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "큰길을 선택하겠어",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "물론 넌 그쪽을 많이 가봤겠지. 그렇기 때문에 다 안다고 자만하는 늙은이보다 더 잘 알 거야... 그 길의 불필요한 것들을 말이다. 안 그렇니?"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "아가, 익숙하다는 건 만족스럽다는 걸 뜻하진 않는단다."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "운 좋게도 다른 길이 더 있단다. 길을 잃고 싶지 않으면서도 이 숲의 풍경을 감상하고 싶은 사람을 위한 길이지."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "숲길이 좋겠군",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "쉽지 않은 선택이었을 텐데. 네 용기에 박수를 치고 싶지만, 안타깝게도 지금 내겐 꽃이 없구나. 있었다면 네게 한 송이 줄 수 있었을 텐데. 하지만 기억하렴, 안쪽은 조심해야 한다. 사람을 미치게 하는 것들은 결코 만만하지 않으니까..."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "너도 봤겠지. 많은 사람이 겁에 질린 채 꽁꽁 묶여 새장에 갇혔고, 자신의 무덤을 판 이들도 결코 적지 않아."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "후훗, 내가 말이 많았구나. 나 때문에 괜히 겁먹지 말아야 할 텐데."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "운 좋게도 다른 길이 더 있단다. 길을 잃고 싶지 않으면서도 이 숲의 풍경을 감상하고 싶은 사람을 위한 길이지."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "세 번째 길인가?",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "이 이야기를 들어본 적 있을 게야."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "사랑하는 사람의 영혼을 무사히 이승으로 데리고 올 수 있다. 하지만 절대 뒤 돌아봐서도 안 되고, 깊이 잠든 사이렌의 앞에서 그 어떤 소리도 내선 안 돼."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "가호를 받은 사람들은 발걸음을 옮겼어. 그들은 맨발로 깊고 어두운 숲에 들어갔지만, 평탄한 길을 걷는 것만 같았지."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "그들은 입을 꾹 닫고 먼 곳을 바라보며 절대 뒤돌아보지 않았어. 가져본 적 없던 물건도 절대 줍지 않았고, 금지된 곳은 절대 발 들이지 않았으며, 똑바로 쳐다봐서는 안 되는 위대한 존재도 절대 쳐다보지 않았지."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "그들은 욕망을 절제했어. 굶주림을 참고 인내심 있게 그 앞을 지나갔지. 아주 현명했단다."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "그래서 야수들은 그림자에 계속 숨어 있었어. 그들은 계속해서 숲을 걸었단다. 길도, 길을 알려주는 표식도 더 보이지 않을 때까지. 그리고 첫 번째로 고개를 돌린 사람이 소리를 내지르기 전까지."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "그게 합리적일까?",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "내가 했던 말을 떠올려 보렴... 현실은 모두 합리적이라는 말을 말이다."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "돌아보지 마! 소금기둥이 되고 싶지 않거든... 절대, 절대로 뒤돌아보지 말거라."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "아가야, 언제나 침착하게, 정신 똑바로 차리고 신중하게 살아가야 한단다."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "하지만 문제는 터지고 말았지... 과연 네가 그 여리고 아름다운 꽃들을 무시할 수 있겠니? 마음 깊은 곳에서 울리는 아름다운 노랫소리를 어디에 쏟아내겠니?"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "그러니 크게 외치고! 또 미친 듯이 춤을 출 거야! 맛 좋은 술을 들이켜며 더러운 모든 것들을 토해낼 거라고."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "어차피 그 엄청난 빛을 찾는 게 아니라면, 왜 그 숲에 들어가겠니?"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "좋은 일은 아닌 것 같네",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "그래. 그러니 이 일은 잊는 게 좋을 거다, 아가."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "잊으렴, 잊어 버려. 두 눈 꼭 감은 채 아무 말도 하지 말고 천천히 가."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "그렇게 하면 길가의 아름다운 풍경도, 향기도 더는 의미를 잃게 될 거야. 그렇게 넌 숲을 빠져나가고 그곳에 다다르게 되지."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "그렇게 하겠니? 괜찮단다, 우리에겐 아직 시간이 많으니까. 되돌아와서 언제든 너의 길을 다시 선택하렴."
+            }
+          ]
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1051402,
+      "owner_episode_id": 10514,
+      "trigger_episode_id": null,
+      "title": "이상한 동굴",
+      "description": "깊고 빛도 들지 않는 좁은 구멍 안에서 이상한 울림이 들려온다. 그 울림은 당신에게 증표를 요구하며 그 대가로 우화를 약속한다.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=514",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "중재자의 운명"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "태양에 관한 우화에서\n햇빛은 언제나 리듬이다.\n절대 습기에 젖어서는 안 되니\n우산을 만들고 배를 띄우거나 바가지 속에 들어가 이를 지키거나 실어야 한다.\n암초가 되어서는 안 되니\n타격을 받고 파도와 맞부딪치기도 한다.\n전복이나 좌초, 체류와 생존 모두 어떠한 이유가 될 수 없다.\n그 앞은 이끼도 막지 못하며\n꽃봉오리가 피어나지도 않는다.\n갖가지 색의 조화를 이루지만 서로를 침범하지도 않는다.\n\n빗물에 햇빛을 가리고\n구름이 허영을 삼키기 전에\n여전히 마지막 질문이 있다.\n마지막 정답,\n마지막 충돌의 해소법,\n마지막 중립자,\n그리고 마지막 방관."
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100521",
+      "internal_title": "第五章5-14",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "평화의 멍에"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "In this life there are three kinds of men,\n삶에는 세 부류의 사람이 있다.\njust as there are three sorts of people who come to the Olympic Games. \n당신이 올림픽 대회에서 본 세 부류의 사람처럼.\nThe lowest class is made up of those who come to buy and sell, \n가장 낮은 등급은 현장의 상인이며,\nand next above them are those who come to compete.\n상인보다 나은 건 참가 선수다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Best of all, however, are those who come to look on (θεωρεῖν).\n세 부류의 사람 중 가장 높은 경지는 바깥의 관찰자다.\nThe greatest purification of all is, therefore, science, \n만물 중에 가장 숭고한 것은 순수하게 추구하는 지식이다.\nand it is the man who devotes himself to that, the true philosopher, \n따라서 혼신을 다해 매진하는 사람, 이들이 진정한 철학가다.\nwho has most effectually released himself from the 'wheel of birth'. \n그들만이 '생의 수레바퀴'에서 완벽하게 벗어날 수 있다.\n\n                        John Burnet, Early Greek Philosophy\n                       존 버넷"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "6",
+          "text": "이 협상을 시작하기 전에, 두 분에게 유명한 일화를 하나 들려드리고 싶군요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "6",
+          "text": "수많은 이가 동굴에 갇혀 있었습니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "6",
+          "text": "그들 뒤엔 불이 타오르고 있고, 앞에는 거대한 벽이 있었죠."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "6",
+          "text": "그들은 다리와 목이 족쇄로 단단히 묶여 있었기 때문에 앞만 볼 수 있었습니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "6",
+          "text": "고개를 내리면 자신이 보이고, 고개를 들면 불에 의해 벽에 비친 사물의 그림자만 보였죠."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "6",
+          "text": "그들은 동굴을 떠난 적이 없었습니다. 그래서 벽에 비친 그림자를 실재로 여기고, 진짜에 대해서는 아무것도 알지 못했어요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "6",
+          "text": "그리고 어느 날, 한 사람이 동굴에서 도망쳤고, 그제야 처음으로 진짜 세계를 보게 되었습니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "6",
+          "text": "지금까지 그가 봤던 것은 전부 벽에 비친 거짓된 불빛이었던 거죠."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "6",
+          "text": "우리 세계는 쓰레기와 다를 바 없습니다, 버틴 씨."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "6",
+          "text": "현상 세계는 이 이야기 속 동굴과 같고, 만물은 벽에 비친 불완전한 그림자일 뿐입니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "6",
+          "text": "그것은 추하고 경박합니다. 쉽게 부패하고 더러우며 쇠락했죠. 무의미한 욕망과 기호의 다툼으로 가득 차 있습니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "6",
+          "text": "진정으로 지혜로운 자는 동굴에서 벗어나 진실한 세계를 볼 수 있어요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "6",
+          "text": "영원하고 초월적인 완벽한 왕국에서는 모든 존재가 가장 아름다운 모습을 하고 있죠."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "6",
+          "text": "그러니 이렇게 부탁드립니다. 성 파블로프 재단 대표, 버틴 씨 그리고 재건의 손 대표 아르카나 씨."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "6",
+          "text": "여러분이 매달리고 있는 건 우리에게 아무 의미 없는 잔재일 뿐, 언급할 가치도 없는 부스러기에 불과합니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "6",
+          "text": "우리가 해야 할 것은 단 하나입니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "6",
+          "text": "더 높은 차원의 지혜를 추구하고 자신의 성장을 꾀하는 것, 이것이 비범하게 태어난 우리의 사명입니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "6",
+          "text": "우리는 '폭풍우'가 지나간 토양을 밟은 적이 없습니다. 시대의 격류에 휩쓸린 적도 없죠."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "6",
+          "text": "그러니 여러분도 현상 세계의 파벌 싸움을 이 진리의 왕국에 끌고 오는 일이 없길 바랍니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아르카나",
+          "text": "...물론이죠."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아르카나",
+          "text": "진리의 전당을 더럽힐 생각은 해본 적도 없답니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "6",
+          "text": "...그럼 이런 일이 다시 벌어지지 않도록."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "6",
+          "text": "이 석제 팔찌에 이름을 새기고 피를 한 방울 떨어뜨려 주십시오."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "6",
+          "text": "그 팔찌는 끼고 나면 다시 뺄 수 없습니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "6",
+          "text": "이후로 이 섬에서 두 분과 서로의 진영은 상대를 향해 그 어떤 공격 행위도 먼저 해선 안 됩니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "6",
+          "text": "이를 어길 시, 그 팔찌가 두 분의 피를 모조리 빨아들일 겁니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "6",
+          "text": "이는 '영원히 개전하지 않는' 평화 협정입니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아르카나",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "아르카나가 손을 뻗어 팔찌 하나를 가져갔다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "...감사합니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "이 협정에 서명하도록 하죠."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "수장은 살짝 고개를 끄덕였다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그리고는 다시 단상에 시선을 주지 않고 빠른 걸음으로 자리를 떠났다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "석제 팔찌의 질감은 소박하고도 순수했다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "피비린내 나는 그 맹세와는 전혀 다르게."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "영원히 개전하지 않는 평화 협정이라..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그 순간, 누군가 정면에서 다가왔다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그래, 그녀는 아직 여기 있었다. 처음부터 끝까지 여기 있었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아르카나",
+          "text": "또 만났군요, 버틴."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아르카나",
+          "text": "당신의 친구도 잘 지냈으면 좋겠네요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "...그 애는 당신 덕분에 잘 지내고 있어."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아르카나",
+          "text": "후훗, 잘됐군요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아르카나",
+          "text": "그렇게 경계할 필요 없어요. 오늘 밤은 전과 상황이 다르니까."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아르카나",
+          "text": "마도학자의 피가 한 방울이라도 헛되이 사라지는 건 저도 보고 싶지 않거든요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "...그래서 슈나이더에겐 그렇게 주저 없이 방아쇠를 당겼나?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아르카나",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아르카나",
+          "text": "버틴, 가엾은 우리 아이."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아르카나",
+          "text": "잊었나요?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아르카나",
+          "text": "'내' 총알이 슈나이더의 가슴을 꿰뚫었던 적은 없어요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "......"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "...'재건의 손'은 무슨 목적으로 여기 온 거지?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아르카나",
+          "text": "고대의 지혜를 듣기 위해 왔어요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아르카나",
+          "text": "당신처럼 말이죠."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "살갗을 태울 것처럼 석제 팔찌가 은은하게 달아올랐다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아르카나",
+          "text": "후훗... 이런 거였군."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "배경 이미지-버틴의 어깨를 스치고 지나가는 아르카나"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아르카나",
+          "text": "버틴, 난 '폭풍우' 속에서 무표정한 당신의 모습이 참 마음에 들었는데..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아르카나",
+          "text": "정말 안타깝군요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아르카나",
+          "text": "비의 장막 아래에선 누구도 무사할 수 없어요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아르카나",
+          "text": "...당신조차도."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그녀의 말은 겨울의 매서운 바람 같았다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "마음이 메마른 나무 사이의 불길처럼 뜨겁게 타올랐지만 곧 차분히 가라앉았다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "...오리티우 기지에 남아 있던 상자에 내 이름이 새겨져 있던데."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "당신이 남긴 건가?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아르카나",
+          "text": "아쉽게도 그건 내 글씨가 아니에요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아르카나",
+          "text": "이걸로 당신의 의문이 해소되었으면 좋겠네요, 버틴."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "배경-섬-전도자의 강당 밖"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "아르카나의 모습은 나무 그림자 속으로 사라졌다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "손목의 팔찌에서 불에 덴 것 같은 통증이 옅게 느껴졌다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "...뜨거워."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그 순간, 근처 숲에서 부스럭거리는 소리가 들려왔다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "재건 추종자Ⅰ",
+          "text": "...아르카나 씨인가?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "재건 추종자Ⅰ",
+          "text": "아르카나 씨! 가지 마세요, 제발 우리 좀 살려주세요!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "재건 추종자Ⅱ",
+          "text": "예술도 살려줘요!!!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "초췌한 두 사람의 그림자가 헐레벌떡 눈앞을 지나갔다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "마치 괴물을 피해 도망치듯, 두 사람은 허겁지겁 수장의 뒤를 따라갔다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "뒤이어 아담한 그림자가 숲에서 불쑥 튀어나왔다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "안 돼, 돌아와! 돌아오라고!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "이 멍청한 이방인! 이제 막 벡터와 행렬 이야기를 시작했는데. 그게 제일 재밌는 부분이란 말이야!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "앗, 버틴!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "정말 잘됐다. 넌 항상 시간 맞춰 정확한 장소에 나타나는구나."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "37",
+          "text": "빨리 어떻게 해서든 저 가면 둘을 막아줘!"
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

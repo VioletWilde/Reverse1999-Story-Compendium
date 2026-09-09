@@ -1,0 +1,602 @@
+{
+  "episode_id": 2110119,
+  "chapter_id": 21101,
+  "chapter_title": "루트77: 유령의 도로",
+  "display_label": "",
+  "title": "바람",
+  "subtitle": "남쪽의 토양은 비옥하다. 그 바람 소리는 계속해서 멀리 불어온다.",
+  "trails": [
+    {
+      "element_id": 2110108,
+      "owner_episode_id": 2110119,
+      "trigger_episode_id": null,
+      "title": "위생 가이드",
+      "description": "여주인들은 언제나 청결을 가장 중시한다. 다행히도 이 사람의 청소 대상도 같은 생각을 갖고 있다.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=2110119",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "튜즈데이 모텔 청소 기록"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "4주차\n공식 청소\n105호 토사물로 더러워진 카펫\n108호 벽 위에 묻은 오염물과 지문\n205호 유리 파손, 배송 인원에게 연락하여 교체 필요\n\n5주차\n공식 청소\n105호 토사물로 더러워진 카펫 교육이 필요할 것 같다\n211호 새 샤워기 헤드 교체 필요\n205호 유리의 금이 사라졌네?\n\n8주차\n공식 청소\n프론트 테이블 수리 필요\n102호 바닥에 그을린 자국 잘못 본 게 아니었어\n그을린 자국이 지워졌다.\n\n10주차\n공식 청소\n105호 핏자국, 카펫 폐기 신청 벌금을 매길 때가 되었다\n202호 유리 완전 파손\n직접 수리 완료, 귀여운 녀석, 상을 줘야지\n오늘 밤에\n105, 당연히"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 2110109,
+      "owner_episode_id": 2110119,
+      "trigger_episode_id": null,
+      "title": "좋은 밤 좋은 꿈",
+      "description": "기록된 노래, 무수히 많은 밤의 꿈을 떠돌았다.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=2110119",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "자장가"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "눈을 감자, 눈을 감아, 나의 착한 아이야\n평온한 밤이 되었다\n요람 속에 찾아온 아름다운 꿈\n네게 손짓하네\n\n눈을 감자, 눈을 감아, 나의 착한 아이야\n부엉이의 즐거운 다람쥐 사냥\n하나씩 가지에 걸어두고\n자유롭게 식사를 만끽하네\n\n눈을 감자, 눈을 감아, 나의 착한 아이야\n황야의 검은 말이 배회하네\n말발굽 소리가 아무리 빨라도\n듣지 말고 겁내지 말아라\n\n눈을 감자, 눈을 감아, 나의 착한 아이야\n창고에 가득한 당황과 놀라움\n맛있는 냄새가 가득한 아침 식사가\n네가 일어나길 기다리네"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "202129",
+      "internal_title": "【2.1】77号往事-19",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "릴리아",
+          "text": "이건...?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "모텔 밖에선 포근한 아침 햇살이 대지를 비추고 있었다. 조종사는 약간 미심쩍은 눈으로 앞에 있는 이를 보았다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "릴리아",
+          "text": "대장, 괜찮아?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "이제 괜찮아."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "네가 자리 비운 사이에 좋은 소식과 나쁜 소식이 하나씩 있었는데..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "릴리아",
+          "text": "하나만 고르게 하지 말고 빨리 말해."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "좋은 소식은 우리가 바바라를 찾았다는 거야."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "그리고 나쁜 소식은 우리에게 새로운 골칫거리가 생겼다는 건데... 이 모텔이 생명력 넘치는 의식체였어. 계속해서 괴담을 만들어내고 공포를 확산시키지. 나중에 초자연적 마도학자가 될지도 몰라."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "철저히 감시하고 통제해야 해. 저 녀석이 여기서 멋대로 확장하게 둘 수 없어 재단의 도움이 필요한 상태야."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아르고스",
+          "text": "...보스, 내 임무는 끝났어. 이제 마을에 가서 케일라를 찾아야 해."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그녀는 더 먼 곳을 바라보았다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아르고스",
+          "text": "어... 그리고 어떤 청년한테 어머니를 찾아주겠다는 약속도 했거든..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아르고스",
+          "text": "먼저 가볼게."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "보수는 어떻게 보낼까요?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아르고스",
+          "text": "보수?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "용병이 호쾌하게 웃었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아르고스",
+          "text": "우린 친구잖아. 다른 건 필요 없어."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "작별 인사 후 그녀는 영원히 종착지가 없는 길을 향해 걸어갔다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "릴리아",
+          "text": "자, 대장, 우르드의 소식을 알아낸 거야?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "어린 양이 귀를 쫑긋거렸다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "바바라",
+          "text": "그게 여러분이 절 찾아온 이유인가요?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "바바라",
+          "text": "물론 제가 대신 물어봐 드릴 수 있어요. 별로 어려운 일도 아니거든요..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그녀는 그렇게 말하며 눈을 감았다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "릴리아",
+          "text": "...잠든 거야?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "마치 보이지 않는 거미줄이 그녀의 귓가를 오가듯, 들판에서 불어오는 산들바람이 그녀의 부드러운 귓가를 살포시 스쳐 갔다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "바바라",
+          "text": "듣고 있어요..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "바바라",
+          "text": "아... 들린다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "어린 양이 눈을 떴다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "바바라",
+          "text": "먼 곳의 바람이 알려줬어요. 최근에 우르드 씨의 기고를 받았는데, 상파울루의 상이군인 시설에서 보냈다고 하네요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "바바라",
+          "text": "참 훌륭한 글이긴 한데, 그 이외의 사실은 도 아는 바가 없다는군요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "...그래요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "바바라",
+          "text": "오늘 밤엔 여러분도 좋은 꿈을 꿀 수 있을 거예요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "바바라",
+          "text": "저도 이번 특집 인터뷰를 위해 자료를 충분히 모았거든요... 꽤 괜찮은 기사가 나올 겁니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "바바라",
+          "text": "그땐 편집란에 당신의 이름도 올릴게요... 튜즈데이 씨."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "튜즈데이",
+          "text": "저요? 전 아무것도 한 게 없는걸요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "바바라",
+          "text": "아니, 당신이 중요한 역할을 해주었어요... 당신이 아니었다면 제 내면에 숨겨져 있던 ‘연락 두절’에 관한 공포를 인지하지 못했을 거예요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "바바라",
+          "text": "직접 겪어보는 게 편집자에겐 최고의 자료거든요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "튜즈데이",
+          "text": "아, 계속 그렇게 말하시니, 당신을 풀어준 게 조금 후회되네요..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "바바라",
+          "text": "그럴 기회는 다시 없을 거예요... 인터뷰는 끝났으니까."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "새하얀 어린 양이 빨간색 노트를 덮었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "바바라",
+          "text": "별문제 없으면  다음 호에서 관련 칼럼을 읽어보실 수 있을 겁니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "바바라",
+          "text": "...저도 가봐야겠네요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "...또 보죠."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "릴리아",
+          "text": "좋아, 나도 이 성가시기 그지없는 망할 곳에서 빨리 떠나고 싶어."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "그러기엔 아직 일러."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "텍사스 재단 지부와 방금 연락했는데, 지금 그들이 전송 주문을 써서 이쪽으로 오고 있거든... 이 기이한 초자연적 존재를 바로 조사해야 해."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "릴리아",
+          "text": "...금방 오는 거 맞지?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "근처에서 전송 주문 파동이 느껴져. 분명..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "고개를 돌리자 낯선 이의 모습이 눈앞에 나타났다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "...음?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "눈앞의 소녀는 밤색 머리카락에 팔에는 라탄 바구니를 걸고 있었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "릴리아",
+          "text": "...성 파블로프 재단 사람은 아닐 거야, 대장. 마을에서 봤었거든. 이름은 케일라."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "...케일라?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "눈앞의 소녀가 빙긋 웃으며 쳐다봤다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "...아르고스란 사람을 아시나요?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "바구니를 팔에 건 소녀가 달콤한 미소를 지었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "케일라",
+          "text": "그런 이름은 들어본 적 없어요. 그런데 참 이상하네요. 어떻게 아이에게 백 개의 눈을 가진 거인의 이름을 붙여줄 수 있죠?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "케일라",
+          "text": "그냥 동명이인 같은데요... 케일라란 이름은 흔하잖아요. 엠마, 안나, 캐서린처럼. 약간 다르긴 해도 본질적으로 같아요. 오히려 당신이..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "소녀가 미소 지었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "케일라",
+          "text": "처음 보는 분이지만 굉장히 친근한 느낌이 드네요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "바구니에 손을 집어넣은 그녀가 잠시 후 꼬깃꼬깃한 꽃 한 송이를 꺼냈다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "흰색 나방 한 마리가 꽃잎 위에 내려앉았고, 날개를 가볍게 털자 가루가 흩날렸다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "케일라",
+          "text": "좋은 하루 보내시길 바랄게요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "...고마워요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "소녀가 그녀의 품에 꽃을 안겨주었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "여기 투숙객인가요?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "소녀가 작게 고개를 끄덕였다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "케일라",
+          "text": "여기서 무슨 일이 있었나요?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "성 파블로프 재단이 여기 모텔을 관리하게 됐어요... 위험한 사건들과 얽힌 곳이라 계속 여기 묵는 건 별로 권하지 않습니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "케일라",
+          "text": "어... 그럼 전 어쩌죠? 제 짐들이 아직 모텔에 있는데..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "잠시 후에 재단 직원이 와서 여기 문제를 처리할 거에요. 그들은 믿어도 됩니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "케일라",
+          "text": "일단 제 물건을 가져와도 될까요?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "재단 직원이 현장에 오면 그때 들어가는 게 좋을 것 같은데."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "케일라",
+          "text": "아아, 상냥한 아가씨, 그런 건 걱정하실 필요 없어요... 저에게 나름대로 방법이 있거든요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "소녀가 눈을 찡긋하며 굳게 닫힌 문을 밀었고, 이내 사람들의 시야에서 사라졌다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "릴리아",
+          "text": "저 애..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "한참 말이 없던 조종사가 입을 뗐다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "왜 그래?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "릴리아",
+          "text": "아니, 내 착각이겠지."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "멀지 않은 곳에서 전송 플로피 디스크의 눈 부신 빛이 번쩍했다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "재단 직원Ⅰ",
+          "text": "죄송합니다, 버틴 씨."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "재단 직원Ⅰ",
+          "text": "얼마 전까지 계속 이 모텔의 위치를 추적할 수가 없었거든요. 뭔가가 일부러 방해하는 것처럼..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "재단 직원이 정신없이 상황을 설명하는 사이, 모텔 안쪽에서 갑자기 희미한 울림이 다시 들려오기 시작했다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "튜즈데이",
+          "text": "어..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "——!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "문이 벌컥 열리고 푸른빛을 띤 새하얀 시체가 쓰레기와 뒤섞여 쏟아져 나왔다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "튜즈데이",
+          "text": "그렇게 충고하는데도 굳이 바닥의 쓰레기를 주워 먹다니... 아이들은 다 이런가요?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "릴리아",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "재단 직원Ⅰ",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "...이 사람은 스티븐입니다. 제노 소속 장교죠."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "재단 직원Ⅰ",
+          "text": "...스티븐이라, 들어본 이름 같은데."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "능숙하게 서류를 넘기던 직원이 곧 원하는 내용을 찾아냈다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "재단 직원Ⅰ",
+          "text": "확실히 사연이 있는 사람이군요. 자료에 따르면 제노의 고위 장교였는데 아르카나 진공 폭탄 영상 유출 후 행방이 묘연해졌다고 하네요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "재단 직원Ⅰ",
+          "text": "제노에서 수배령을 내렸는데, 그 현상금이 어마어마했죠... 아무래도 이고르 장군의 심기를 제대로 건드린 모양입니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "재단 직원Ⅰ",
+          "text": "아무도 이런 작은 모텔에 있을 거라곤 예상 못 했는데... 뜻밖의 수확이군요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "별로 운이 좋지 않았던 것 같네요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "재단 직원Ⅰ",
+          "text": "성가시게 해드려 죄송합니다, 버틴 씨. 이번 일은 이제 저희가 맡겠습니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "튜즈데이",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "튜즈데이",
+          "text": "눈앞의 메이드는 가만히 선 채 포대기만 가볍게 토닥였다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "...지부에서 그들의 절차를 마치고 나면 당신은 본부로 보내질 거야. 우리가 당신에 대해 더 본격적인 평가를 진행할 거고."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "튜즈데이",
+          "text": "...우리 아이와 같이 있을 수 있나요?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "지금은 그런 얘기를 할 때가 아니야."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "가자, 릴리아."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그녀가 여행 가방을 들었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "Z 씨에게 가서 우르드 씨의 소식을 보고해야 해."
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

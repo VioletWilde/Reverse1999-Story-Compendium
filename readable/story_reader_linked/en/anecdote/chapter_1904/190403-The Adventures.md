@@ -1,6 +1,6 @@
 # The Adventures
 
-- Chapter: chapter_1904 (`1904`)
+- Chapter: After the Good Dream (`1904`)
 - Episode: `190403`
 
 > Subtitle: I want to burrow into every tree hole, sneak through every night—I want to run, I want to scream, I want to jump higher!

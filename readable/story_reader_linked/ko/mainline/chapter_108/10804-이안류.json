@@ -1,0 +1,578 @@
+{
+  "episode_id": 10804,
+  "chapter_id": 108,
+  "chapter_title": "슬픈 열대",
+  "display_label": "",
+  "title": "이안류",
+  "subtitle": "그러면 당신의 목숨은 강물에 맡기고, 거친 강물을 헤쳐 나가야 한다.",
+  "trails": [
+    {
+      "element_id": 1080401,
+      "owner_episode_id": 10804,
+      "trigger_episode_id": null,
+      "title": "지연의 대가",
+      "description": "계속해서 미룬다고 해서 쌓인 문서들이 사라지지는 않는다. 그 부담은 결국 누군가가 짊어져야 한다.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=10804",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "대기 중인 문서 목록"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "·아페이론 학파와의 첫 공식 교류 보고서\n우선도 낮음. 단, 아페이론 학파 마도학자들의 등록 정보를 가급적 빨리 보충할 것. 등록이 불가능할 경우 이유를 명시하고 관련 증빙 자료를 제출할 것.\n\n·아페이론 학파 섬에서의 상세 행동 보고서\n우선도 높음. 제노와의 특별 공동 작전 관련 설명과 아르카나 사살 과정에 대한 상세 내용을 우선적으로 보충할 것.\n\n·탈것 ‘APPLeⅢ’ 신청 사유 보충 및 구체적 용도 설명\n우선도 낮음. 최종 기한까지 완료하면 됨.\n\n......\n\n·그린 레이크 캠프에서의 상세 행동 보고서\n우선도 높음. 마도학자 제시카에 대한 다각적 평가를 위해 사건 전말을 빠르게 제출할 것.\n\n......\n\n·77번 도로 임무 인수인계 서류 보충\n우선도 낮음. 최종 기한까지 완료하면 됨.\n\n·튜즈데이 모텔에서의 상세 행동 보고서\n우선도 높음. 마도학자 튜즈데이에 대한 다각적 평가를 위해 사건 전말을 빠르게 제출할 것.\n\n·소통이 어려운 마도학 의식체의 상자 보관의 안전성에 관한 설명\n우선도 높음. 상기 보고서와 함께 제출할 것.\n\n......"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100805",
+      "internal_title": "第八章8-04",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "이안류"
+        },
+        {
+          "kind": "title_card",
+          "text": "제노 기지"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "떠나기 전엔 언제나 작별 인사가 가득하다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "몰디르",
+          "text": "자, 이걸 가져가. 생각지 못한 상황이 되어도 내가 널 찾을 수 있어."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그녀는 작은 단추를 여동생의 옷깃 아래에 채워주었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "작은 단추는 두 사람을 단단히 연결했다. 위험에 빠지더라도 그녀들은 상대에게 도움의 손길을 청할 수 있었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "이후, 두 사람은 양 뺨에 입을 맞추며 작별 인사를 나눴다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "몰디르",
+          "text": "이번엔 아버지한테 기념품 가져다 드리는 거 잊지 않을 거지?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "몰디르",
+          "text": "그리고 조심하겠다고 약속해. 우리 로페라가 나보다 빨리 전역하지 않았으면 하거든."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "로페라",
+          "text": "내 걱정은 하지마, 언니. 그럴거면 배신자를 걱정해."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "로페라",
+          "text": "필요하다면 다 죽여버릴 거야. 하나도 빠짐없이 말이야."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "하나도 빠짐없이... 그녀는 ‘언니’의 귓가에 다시 한 번 강조했다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "릴리아",
+          "text": "휴... 무슨 인사가 이렇게 길어? 그냥 ‘안녕’이라는 말이면 충분하잖아."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "릴리아",
+          "text": "이게 진정한 제노의 속도인 건가."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "기지 밖, 크루즈에서 곧 있을 출발을 알리는 신호가 울려 퍼졌다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "소더비, 물건은 모두 챙겼지?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소더비",
+          "text": "흐음, 당연하지~ 그건 조금도 걱정하지 않아도 돼!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "몰디르",
+          "text": "배가 곧 출발하겠네요. 던컨 씨에 대한 정보는 당분간 제가 계속 알아보고 있을게요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "네, 부탁하겠습니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "로페라",
+          "text": "마을에 도착하면 그를 직접 만날 수 있을 거야. 던컨 씨랑 나는 아주 오래전부터 알고 지낸 사이거든..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "로페라",
+          "text": "그리고 상파울루에는 유리병 속에 넣어진 배도 있어... 말하는 배!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "네 친구들이 어떤 사람들일지 궁금하네."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "좋아, 이제 출발하자."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "릴리아, 이고르 장군과 함께 기지의 일을 부탁할게."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "릴리아",
+          "text": "걱정하지 마."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "릴리아",
+          "text": "Счастливого пути!"
+        },
+        {
+          "kind": "title_card",
+          "text": "이고르의 사무실"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "타임키퍼 일행을 보낸 후 부관은 장군의 사무실로 돌아와 전날 저녁에 일어난 예상 밖의 일을 보고했다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "몰디르",
+          "text": "장군, 탑에 갇혀 있던 죄수가 도망쳤습니다..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "부관은 보고를 해야만 하는 난처한 상황에 고개를 푹 숙였다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "몰디르",
+          "text": "우선 비밀로 하겠습니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "몰디르",
+          "text": "누군가 문의 봉인을 부쉈고, 현재 누가 연루됐는지 조사 중입니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "몰디르",
+          "text": "그리고... 어제, 타임키퍼와 로페라, 소더비가 탑 주변에 있었는데... 그들이 벌인 일 같지는 않습니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "부관은 어제 탑 주변에서 마주친 타임키퍼 일행을 떠올렸다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "이고르 장군",
+          "text": "......"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "이고르 장군",
+          "text": "타임키퍼는 그럴 이유가 없다. 로페라는 더욱 그럴 리 없고."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "탑에는 운 나쁜 죄수 한 명이 갇혀 있었다. 그녀는 곧 처형을 앞둔 양, 그리고 가을의 이삭이었고, 지금은 공교롭게도 도망친 탈주범이었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "이고르 장군",
+          "text": "죄수를 찾되 섣불리 체포하려 하지 마라. 우선 그녀가 누구와 연락하는지 지켜보자고."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "몰디르",
+          "text": "알겠습니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "이고르 장군",
+          "text": "그리고 다시는 이런 일이 일어나지 않길 바란다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "제노는 이런 모습이어서는 안 되었다. 장군은 이를 악물고 지도를 뚫어지게 보며 지원군의 움직임을 예상했다."
+        },
+        {
+          "kind": "title_card",
+          "text": "‘앨리게이터’호 크루즈"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "크루즈가 출항하자, 곧 강 위로 열 척이 넘는 작은 배가 따라붙었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소더비",
+          "text": "저 이상한 카우보이들 좀 봐! 저 갈고리로 뭘 하는 걸까? 설마... 철로 된 줄을 던져서 휙휙 올라오려는 건가!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "로페라",
+          "text": "응, 쇠갈고리를 뱃전에 걸어 우리 배에 올라오려는 거야."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그녀가 말한 것처럼 작은 배에서 갈고리를 던져 크루즈를 당겼고, 작은 보트에 탄 상인들이 급류를 헤치고 갑판 위로 올라왔다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "보트 상인들은 열심히 집에서 만든 물건들을 팔았고, 로페라는 정중하게 일일이 거절했다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "로페라",
+          "text": "타임키퍼, 이거 받아."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "이건...?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "로페라",
+          "text": "지도야. 혹시 모르잖아."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그녀는 지도 한 장을 건넸다. 그곳에는 3개 이상의 ‘안전 노선’이 표시되어 있었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "로페라",
+          "text": "지도를 보면 항구에서 베테랑 레지던스까지 가는 길을 알 수 있지. 그렇지만 지도만으로는 가장 안전한 길을 알 수 없어서 내가 필요해."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "로페라",
+          "text": "상파울루에 지하 질서란 건 없어. 이 도시가 다국적 기업의 통제를 받는다고 하는 양복 입은 사기꾼들의 말처럼 말이야."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "고마워. 그래도 필요한 상황이 안 생기는 게 가장 좋겠네."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "로페라",
+          "text": "응, 맞아. 즐거운 여행이 되었으면 좋겠네. 상파울루에 온 걸 환영해!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그녀는 손을 흔들며 작별인사를 하고는 분주히 뛰어다니는 상인을 피해 갑판의 다른 곳으로 향했다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그녀의 옆을 지나치는 상인은 마치 쥐 같았다. 물건을 사고 팔다가 요리사에게 달려가 먹을 걸 구걸했다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "배에서 음식까지 나눠 주다니..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "배의 요리사",
+          "text": "녀석, 새치기하지 말고 원래 자리로 돌아가!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "배의 요리사",
+          "text": "얌전히 뒤로 돌아가. 그렇지 않으면 오늘은 굶을 줄 알아."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "요리사는 조리도구를 두드리며 ‘규칙을 지키지 않는’ 녀석들을 원래 있어야 할 곳으로 돌려보냈다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그리고 소년은 그가 방심한 틈에 빵 몇 장을 집어 낡은 옷 속에 숨기고는 마치 음식을 훔치는 쥐처럼 급히 달아났다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소더비",
+          "text": "으윽...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "달아나던 소년은 소더비와 부딪히며, 옷 속에 숨겨두었던 ‘장물’과 함께 철제 갑판에 내동댕이쳐졌다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "배에 탄 꼬마",
+          "text": "이, 이봐, 길을 막으면 어떡해!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "소년은 빵을 다시 집어 들어 옷으로 가린 후 재빨리 갑판 반대편으로 도망쳤다. 회색의 눈동자는 마도술에 의해 반짝거리는 것 같았다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "소년은 마치 피리부는 사나이에 홀린 아이처럼 선실 한쪽으로 걸음을 옮겼다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소더비",
+          "text": "버틴... 저 남자애 봤어? 정말 이상하지 않았어?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "따라가자."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "여름 태양의 그늘 아래, 한 소녀가 숨어 있다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "다른 옷으로 바뀌었지만 낯익은 얼굴이다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "정말 그녀일까? 튜즈데이 모텔에서 만난 적 있는... ‘오랜 친구’ 말이다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "넌...?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "빵을 훔친 소년은 사라지고,"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "소년이 있던 구석에는 어떤 소녀가 몸을 웅크리고 손과 입을 모은 채 음식을 우걱우걱 먹고 있었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "움직임을 멈춘 그녀가 이곳을 바라봤다. 눈에는 놀라움이 가득했다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "미스 킴벌리",
+          "text": "어?! 버틴...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "미스 킴벌리",
+          "text": "왜... 여기에 있어?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "그건 내가 해야 할 말이야."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "지난 달 튜즈데이 모텔에서의 ‘작별’은 그리 유쾌하지 않았다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그리고 다시 만난 그녀는 무척 배가 고파 보였다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소더비",
+          "text": "새로운 친구야, 버틴? 만나서 반가워!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "소더비는 궁금한 지 가까이 다가와 놀란 표정의 킴벌리를 바라보았다. 킴벌리는 놀라 멈춰, 씹고 있던 빵이 입가로 조금 나온 상태였다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "같이 먹자."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "이럴때 초콜렛 스낵바가 그녀에게 도움이 될 것이다. 잠시 망설이던 그녀는 침을 꿀꺽 삼키고, 서둘러 입가로 가져가 먹기 시작했다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "미스 킴벌리",
+          "text": "고, 고마워..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "킴벌리는 굶주린 다람쥐처럼 손가락 끝의 작은 것까지 싹싹 핥아 먹었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "지난번에 잃어버린 건 찾았어?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "미스 킴벌리",
+          "text": "......"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "안색이 좋지 못한 것을 보니 찾지 못한 듯했다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "내가 도와줄까?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "미스 킴벌리",
+          "text": "고마워. 하지만 나 혼자 해결할 수 있어."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "미스 킴벌리",
+          "text": "자신이 잃어버린 건 직접 찾아야 하잖아."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그녀는 협조적이지는 않았지만, 그렇다고 적대적이지도 않았다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그저 기괴하고 모순적으로 행동하는 어린 아이, 재건의 경계에서 두려움에 떠는 것 같은 마도학자였다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "우린 상파울루로 갈 거야. 같이 가지 않을래?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "미스 킴벌리",
+          "text": "상파울루? 거긴 안 가..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "하지만 상파울루는 이 크루즈의 유일한 목적지였다. 그녀가 다른 곳에 갈 수 있을 리 만무했다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "미스 킴벌리",
+          "text": "거긴 갈 만한 곳이 못 돼. 상파울루는 비참함과 고통이 모여 있는 도시일 뿐이야. 무도회도, 파티도, 거긴 아무것도 없어."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그녀는 눈을 피했다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "‘거긴 아무것도 없어’."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "미스 킴벌리",
+          "text": "그냥 여기서 헤어지는 게 좋겠어. 그럼 나중에 또 봐! 버틴, 즐거운 여행이 되길 바랄게! 덕분에 잘 먹었어."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "미스 킴벌리",
+          "text": "아, 네 친구의 옷차림이 꼭 맛있는 케이크 같아. 음... 엄청 맛있어 보여."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그녀는 소더비를 바라보다 갑자기 손으로 그녀의 볼을 꼬집었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소더비",
+          "text": "아앗...! 아, 안돼. 이런 행동은... 숙녀의 예의에 어긋난다고~!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "킴벌리는 마치 아무 일도 없듯이 웃고는 사람들 사이로 사라졌다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "사막 반도에는 한 오래된 전설이 있다. 악마를 만나면 그것은 곧 나쁜 일이 닥칠 것이라는 징조다."
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

@@ -1,6 +1,6 @@
 # The Chew-Chew Potion
 
-- Chapter: Tender is the Night (`102`)
+- Chapter: Tender Is the Night (`102`)
 - Episode: `10210`
 
 > Subtitle: I wish that the felt and pearls won't be soiled. I pray that a down pillow can bring sweet dreams like it always did.

@@ -1,6 +1,6 @@
 # On the Road Again
 
-- Chapter: The  Best Band in Town (`1920`)
+- Chapter: The Best Band in Town (`1920`)
 - Episode: `192006`
 
 > Subtitle: Bubblegum? A gas station? Or ... a set of drums?

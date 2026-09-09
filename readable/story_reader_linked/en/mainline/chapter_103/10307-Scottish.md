@@ -1,6 +1,6 @@
 # Scottish
 
-- Chapter: Nouvelles et Textes pour rien (`103`)
+- Chapter: Nouvelles et Textes pour Rien (`103`)
 - Episode: `10307`
 
 > Subtitle: Grease, starch and meat. It's the fish and chips we all like.

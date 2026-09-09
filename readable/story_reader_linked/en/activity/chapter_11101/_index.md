@@ -1,4 +1,4 @@
-# Event Stories · The Rimet Cup
+# Event Stories · The Theft of the Rimet Cup
 
 - [1110101 The Leading Ones](1110101-The Leading Ones.md) — In days like this, nothing is more important than security.
 - [1110102 An Impromptu Party](1110102-An Impromptu Party.md) — The wet marks left by the bubble festival dry up and disappear under the sun, along with some strange encounters.
@@ -11,8 +11,8 @@
 - [1110109 The Genius DJ](1110109-The Genius DJ.md) — She decides to change the tone. Things could be brighter, more exciting, like Rock  n' Roll.
 - [1110110 A Small Gift](1110110-A Small Gift.md) — Don't mention it. It's the least he can do.
 - [1110111 Out of the Blue](1110111-Out of the Blue.md) — One ticket for multiple shows, you don't get such a good bargain everyday.
-- [1110112 Unbreakable Bubbles](1110112-Unbreakable Bubbles.md) — The most ideal composition of this photo would be having a bubble gently landing on the muzzle of the loaded gun.
+- [1110112 Bubbles Won't be Broken](1110112-Bubbles Won't be Broken.md) — The most ideal composition of this photo would be having a bubble gently landing on the muzzle of the loaded gun.
 - [1110113 The Channel of Freedom](1110113-The Channel of Freedom.md) — That impulse, like radio wave, is untouchable yet real.
-- [1110114 Information Overload](1110114-Information Overload.md) — No need for investigation or deduction. Open your eyes and the truth is here.
+- [1110114 Information Overload](1110114-Information Overload.md) — No need for investigation or deduction. Open your eyes and the truth is here.
 - [1110115 The Puppy's Choice](1110115-The Puppy's Choice.md) — Which way should we go at the crossroads, left or right? Which side do you call, heads or tails?
 - [1110116 As We Like It](1110116-As We Like It.md) — A farce, a victory and a celebration. When the dust has settled, the hero comes back to his sweet home.

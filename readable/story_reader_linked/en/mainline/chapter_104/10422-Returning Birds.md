@@ -1,6 +1,6 @@
 # Returning Birds
 
-- Chapter: El oro de los tigres (`104`)
+- Chapter: El Oro de los Tigres (`104`)
 - Episode: `10422`
 
 > Subtitle: Welcome back to your warm nest. Welcome back to a good ending.

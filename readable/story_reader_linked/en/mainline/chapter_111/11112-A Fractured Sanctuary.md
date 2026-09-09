@@ -1,6 +1,6 @@
 # A Fractured Sanctuary
 
-- Chapter: 行于漫漫长路上 (`111`)
+- Chapter: A Long Long Way (`111`)
 - Episode: `11112`
 
 > Subtitle: Legends say those stone statues come to life at night.

@@ -1,0 +1,326 @@
+{
+  "episode_id": 10106,
+  "chapter_id": 101,
+  "chapter_title": "우리들의 시대에",
+  "display_label": "",
+  "title": "타버린 숲",
+  "subtitle": "새까맣게 그을린 그들은 타오르는 불길 속에서 울부짖었다. 그들은 부서지지 \n않았고, 여전히 이곳에 있다.",
+  "trails": [
+    {
+      "element_id": 1010601,
+      "owner_episode_id": 10106,
+      "trigger_episode_id": null,
+      "title": "오솔길① 영감 상성",
+      "description": "사물 간 상성에 관한 기억.\n상성 공격은 추가 효과를 가져와 적군에게 \n더 많은 피해를 주어 상황을 유리하게 이끌어 간다.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=10105",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1010602,
+      "owner_episode_id": 10106,
+      "trigger_episode_id": null,
+      "title": "오솔길② 뉴스",
+      "description": "구겨진 공지서. 최신 '뉴스'가 적혀 있다.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=10105",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "공 지\n〔1929〕IL 17-14000-59-3호 \n\n루즈벨트 로드에 위치한 의 모회사, 오대호 \n미디어는 현재 분배 가능한 재산이 없다. 채무자 시어도어 잭슨\n(인간), 에밀리오 로버트 헝글(인간), 관리자 스티븐 쉐리던(인간)은\n합의 후 본 법원에 파산 절차 종결을 신청했다.\n\n마도학계 소식을 알리며 50만 부를 발행한 \n의 유명 기사로는 가 \n있다. 그러나 익명의 편지 제보와 라디오 방송국의 영향으로 1928년 \n9월 모회사 오대호 미디어는 의 발행을 중단\n했다.\n\n에 따라 본 법원은 1929년 2월 14일, 오대호 미디어의 \n파산 종결 결정을 내리는 바이다. \n\n이상.\n\n1929년 2월 14일\n\n\n공지\n·신규 회사 등록 정보 공시 목록·\n\n상호: 필드우드 미디어\n대표자: 인간-데이비드 크로버그\n운영 업무: 신문 매체 \n설립 일자: 1929년 2월 3일\n\n상호: 칼 엔터테인먼트\n대표자: 인간-빈스 던\n운영 업무: 신문 매체 \n설립 일자: 1929년 2월 3일\n\n상호: 해안 연합 출판사\n대표자: 인간-휴 마독스\n운영 업무: 신문 매체 \n설립 일자: 1929년 2월 5일\n\n...\n이상.\n\n1929년 2월 14일"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1010603,
+      "owner_episode_id": 10106,
+      "trigger_episode_id": null,
+      "title": "오솔길③ 무명의 손님Ⅰ",
+      "description": "활기찬 인사지만, 그리 익숙한 관계는 아니다.",
+      "action": "",
+      "unlock_condition": "ChapterMapElement=1010602",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100109",
+      "internal_title": "第一章1-7",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "타버린 숲"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "댁의 아가씨께서 '월든'에 기꺼이 왕림해 주시다니 참으로 영광입니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "지난번에 신경 써주신 덕에 새로운 금주 법안이 통과되기 전, 포션을 개발해낼 수 \n있었습니다. 물론 제시하신 가격대로 기한 맞춰 보내드리겠습니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "네, 요즘은 괜찮습니다... 아닙니다, 의회 쪽은 너무 염려 마세요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "믿고 맡겨 보시죠."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "사람들은 겉과 속이 다르긴 하지만, 다들 더 도덕적으로 보이는 쪽에 표를 주고 \n싶어 하죠."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "안심하세요. 아가씨께서 기분 좋은 하루를 보내실 수 있게 해드리죠."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "음... 날씨가 참 좋군."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "인상적인 '폭풍우'를 맞이하기 좋겠어."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "루이 스트롱의 2월 5일  사설에 따르면, 엘링턴 공작의 재즈 관현악단이 오늘 밤 '월든'에서 순회공연을 한다고 합니다!"
+        },
+        {
+          "kind": "title_card",
+          "text": "장원 객실"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "루이 스트롱의 2월 5일  사설에 따르면, 엘링턴 공작의 재즈 관현악단이 \n오늘 밤 '월든'에서 순회공연을 한다고 합니다!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "전례없이 좋은 소식이야! 야성적이고! 리듬도 있고! 게다가 화려하기까지! \n이게 바로 재즈 밴드가 갖춰야 할 모습이라고!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "장원 집사",
+          "text": "알겠습니다, 소더비 아가씨. 일부러 사설을 크게 낭독하지 않으셔도 됩니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "장원 집사",
+          "text": "영국에 계신 주인님도 외출을 허락하셨습니다. 그리고 저도 '월든'의 사장과 연락을 \n해두었구요..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소더비",
+          "text": "만세!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "장원 집사",
+          "text": "만세...? 명문가의 영애에게 어울리는 말은 아니군요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소더비",
+          "text": "카슨 씨, 소더비도 이제 어른이랍니다~"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소더비",
+          "text": "그리고 이번엔 놀러 가는 게 아닌 걸, 인명 구조라는 중대한 사명이 있단 말이야."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "장원 집사",
+          "text": "예, 예. 새로운 영양제 레시피를 판매하지만 않으시면 됩니다. 돌아와서 실망스러운 \n모습을 보면 무아상 선생님도 걱정하실 거예요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소더비",
+          "text": "... 그럼 이만!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "장원 집사",
+          "text": "그쪽이 아닙니다, 아가씨. 차는 정문에 세워 뒀습니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소더비",
+          "text": "아... 나, 난 경호원 필요 없어! 이번엔 혼자 가게 해주기로 약속했잖아~!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "장원 집사",
+          "text": "안전에 주의하셔야 합니다. 아가씨. 이번엔 아가씨를 지켜줄 경호원이 없으니까요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "장원 집사",
+          "text": "주점 주변의 숲은 위험하니 저희가 직접 모셔다드려야 안심이 될 것 같습니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "장원 집사",
+          "text": "아무튼 주점에 도착하시면 누군가 자리를 마련해드릴 겁니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "장원 집사",
+          "text": "구경만 하셔야 하는 점 명심하세요. 알코올이나 흥분제가 든 포션 음료 근처엔 얼씬도 하지 마시고, 낯선 사람과의 대화는 물론이고 블루스나 스윙 댄스는 더더욱 안 됩니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "장원 집사",
+          "text": "예? 아가씨?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소더비",
+          "text": "알! 았! 어!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "장원 집사",
+          "text": "휴..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "장원 집사",
+          "text": "\"끼익... 끼익...\""
+        },
+        {
+          "kind": "title_card",
+          "text": "보더랜드"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "장원 집사",
+          "text": "\"끼익... 끼익...\""
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소네트",
+          "text": "이 숲은... 음산하네요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소네트",
+          "text": "식물이 전부 죽어서 생기가 조금도 느껴지지 않아요. 나무줄기는 껍질까지 새까맣게 \n말라버렸어요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소네트",
+          "text": "마치 큰 산불이 할퀴고 지나간 것처럼 보이네요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소네트",
+          "text": "음, 반드시 지나가야 하는 게 아니었다면, 이 숲에는 절대 안 들어왔을 거예요..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "그런데 소네트, '화재'와 관련된 귀신 이야기를 들어본 적 있어?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소네트",
+          "text": "...?!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소네트",
+          "text": "아뇨, 못 들어봤어요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "그렇군. 20세기 초 워싱턴의 숲에서 엄청난 화재가 발생했었대."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "불행하게 죽은 사람들은 떠나지 못한 채 어둠의 숲을 떠도는 유령이 되고 말았지."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소네트",
+          "text": "흐윽..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "유령들은 여행자의 뒤를 조용히 따라다닌대. 사람들의 얼굴을 유심히 보기 위해서..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소네트",
+          "text": "아! 잘 안 들려요... 마른 잎사귀를 밟으며 걸어서 그런지 뒤에서 '사각' 소리만 \n시끄럽게 들리네요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "맞아요, 저도 큰 소리를 들었어요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소네트",
+          "text": "...응? 미스터 APPLe, 왜 제 앞에 있죠? 그럼..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소네트",
+          "text": "악! 유, 유령이다!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "다수의 미확인 생명체 확인. 소네트, 어서 내 뒤로 와!"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "다들 전투태세로!",
+          "edge_label": "다들 전투태세로!",
+          "branch": []
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "생명체 확인. 소네트, 어서 내 뒤로 와!"
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

@@ -1,0 +1,567 @@
+{
+  "episode_id": 10902,
+  "chapter_id": 109,
+  "chapter_title": "瘋癲與文明",
+  "display_label": "",
+  "title": "實質與環",
+  "subtitle": "首尾銜接的環？這遠不足以概括“命運”的實質。",
+  "trails": [
+    {
+      "element_id": 1090201,
+      "owner_episode_id": 10902,
+      "trigger_episode_id": null,
+      "title": "世界盡頭的烏蘇懷亞",
+      "description": "這裡是哪裡？這裡是文明的最遠端。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=10902",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "一場賭局在你不熟悉的地方開始了。不久後，你也會收到上桌的邀請。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "說說情況",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "呵……你的要求越來越明確了。首先你得知道，大多數賭局都有這麼一條規矩：中途上桌的人不能問東問西，否則將飽受針對和排擠。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "直到他輸上好幾把，交夠了“學費”，才會有資格得到問題的答案——比如對家的身份地位，比如莊家的發牌習慣，比如肥魚的下注比例。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "有的時候我就無法理解這種行為，怎麼會有人千里迢迢過來，只為了輸掉自己的錢。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "為了勝利",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "這不是個問題，不過你回答了我，向你致謝。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "是的，沒有人不喜歡勝利。當骰子在空中旋轉，賭徒就開始尋找好運——移動桌角、輕咳兩聲，再閉上眼做一次虔誠的祈禱……以為自己能左右命運。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "愚蠢，愚蠢又迷信，還有點可憐。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "嘖，你好像被什麼絆住了腳，但那絕不是一顆抬起腳就會爆炸的地雷。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "有的人離開了這些漂亮的字眼就活不下去。他們本身無足輕重，但只要討論起這些字眼，他們就有種自己成了大人物的錯覺。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "虛偽，甚至自欺欺人。"
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "反正賭局很公平",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "不。賭本不對等、獲勝條件不一致，甚至連比骰子的規則都在被單方面定義。這裡的公平需要被爭取，不擇手段地爭取。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "那些身穿白色西裝的職業牌手們步步為營，靠著四處下注來盈利，而披著黑袍的瘋子們正考慮該怎麼將桌子掀翻。"
+                }
+              ]
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "聰明的對策",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "那不是聰明，那只是愚蠢到了極點，而顯得任何改變都是對的。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "掀桌之後只會有一團亂，沒有人會有耐心把桌子扶起來，陪對方再來一局。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "為了得救",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100903",
+      "internal_title": "第九章9-02",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "實質與環"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "據《烏蘇懷亞新聞報》報導，大約一週前，烏蘇懷亞的碼頭被神秘術破壞，現在，所有的船隻都毀於一旦。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "司辰，這會和重塑之手，亦或叛變的芝諾部隊有關係嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "不能確定。但我們到達烏蘇懷亞已有數日，這裡平靜得超乎尋常。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "在自由海風號的事故之後，我們就丟失了重塑的蹤跡。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "重塑之手似乎隱匿在某個不為人知的角落，一個普通人不會輕易踏足的地方。亦或說，他們離開了烏蘇懷亞。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "他們再也不像往常一樣，在各地積極促進“暴雨”的進程……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "這並不是一個好消息。他們有可能在謀劃一些更為可怕的東西。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "如果目擊訊息屬實，我們就能印證基金會從飛蛾處得到的重要線索：德洛絲女士確實被叛變的伊戈爾一行人帶到了烏蘇懷亞。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "但是，司辰……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "第一助手欲言又止。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "自我們來到火地島以來，基金會並沒有足夠的時間對這裡展開詳盡調查。如果這裡和重塑有關係……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "離烏蘇懷亞最近的基金會分部，在布宜諾斯艾利斯，有3200公里……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "最新消息是，那裡目前正忙著處理伊戈爾養子叛變所留下的混亂。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "是的，重塑之手完全有能力在這段時間在這裡進行滲透——就像他們對待那個名為奇索斯的鎮子一樣。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "但尋找德洛絲女士的任務同樣緊迫。抱歉，我想我們沒有時間再等下去了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "烏蘇懷亞並不是一個特別大的城市。只要重塑之手在這裡活動過，我們肯定會發現線索的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "我明白了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "我們一定會完成任務的，司辰。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "經過一齣“亡命天涯”的鬧劇之後，咖啡館已恢復了往日的寧靜。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "好消息是，追緝虛構集的憲兵已經消失；壞消息是，連帶著她的同伴也不見蹤影。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "噢……他們真的走了。好吧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "“那就永別了，親愛的虛構集——”那根本算不上一個真正的道別！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "我們本可以互換最後一首詩歌，在咖啡館裡輪流念一遍，然後將它永遠銘記在淚水裡。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "但偉大的神秘學家詩人說得對——我們不應該慶祝離別這種不幸，這是不明智的……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "唔？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "沒什麼，兩位請坐。請給我們一壺加了薄荷的瑪黛茶！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "謝謝。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "虛構集頗有興趣地打量著基金會的女孩們，她們正小心翼翼地接過滾燙的茶水。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "你們正在尋找德洛絲女士嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "從你們的表情中，我能看出她對你們來說非常重要。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "是的。請您詳細描述一下，您與德洛絲女士遇見的經過吧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "當然可以。德洛絲女士與我相遇於一個太陽被陰雲遮蔽的下午……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "在玻利瓦爾省公寓外的街道，趕著去郵局寄信的我遇上了一位盲眼女士。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "在當時，那位女士突然把我叫住，那是一個奇妙的時刻——她走了上來，將我毛衣斷線的地方縫補好，彷彿這是一個神聖而包羅萬象的舉動。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "我幾乎沒能握住手中的信封。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "德洛絲",
+          "text": "這位小姐，你知道那裡是什麼地方嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "我看到了那位女士，她的手指精準地指向了一個方向。也就是說，她很清楚自己的目的地位於何處——這對一位盲人來說是多麼的神奇！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "女士，那裡是科馬拉監獄。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "難道那是您的目的地嗎？如果您想要去那裡，也許我可以為您引路。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "德洛絲",
+          "text": "謝謝你，小姑娘……但我想，我已經找到了我該走的路。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "神靈同時給予她書籍與黑夜，那可真是一個絕妙的諷刺。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "女士，我可以得知您的名字嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "德洛絲",
+          "text": "……？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "請放心，我不是什麼奇怪的人……我猜您是一位作家，是嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "恰好我也在進行小說的寫作……我總有一種預感，您很快就會出現在我的小說中！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "您也知道，靈感總是不請自來的，就像一些討人厭的訪客。我很難判斷該用什麼樣的東西招待它們——所以，最好的辦法就是全部記錄下來。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "德洛絲",
+          "text": "哈哈……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "時至今日，我還記得她的笑容——一個出奇的笑，一個遙遠的笑，一個跨越了時間、實質與世紀總和的笑。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "德洛絲",
+          "text": "也許比較突然，但……小姐，我有一個問題想要問你。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "德洛絲",
+          "text": "對你來說，“文學”代表著什麼？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "嗯？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "這可把我難住了——一個超乎創作範疇的問題！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "德洛絲",
+          "text": "你是一位具有文學追求的作家——但你是否想過，這種追求到底是從何而來？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "……實際上，我不知道怎麼回答您的問題，女士。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "就我個人的感受來說，也許文學只是文學，它不能替任何人回答問題……何況是一個關於它自身的問題。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "我想，也許文學能做到的只是從某種截然不同的角度拋出問題，而這也正是我貿然猜測您職業的緣由。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "德洛絲",
+          "text": "一個很有趣的說法，我明白了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "德洛絲",
+          "text": "那麼，它給你帶來了一種怎樣的感受呢？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "……感受嗎？有時我覺得自己像個學習口語的孩子，正努力地唸出書本第一頁的第一個詞彙。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "等等，這個比喻也許並不恰當，需要更為精妙、更為直觀的……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "就在糾結比喻措辭的時候，餘光裡的她輕飄飄地揮了揮手，隨後穿過烏蘇懷亞的細雪，朝監獄的方向走去了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "所以，德洛絲女士一定是往科馬拉監獄去了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "您是什麼時候遇到她的？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "應該是三天前。那天短暫地出了一陣太陽，街道上全是融化的雪水。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "如果有需要，我可以再為你們介紹一番科馬拉監獄——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她的暗示之意已經逐漸變成昭然若揭的明示了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "三天前……司辰，這意味著我們還有機會追上她。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "是的。我們應該立刻進入科馬拉監獄。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "對，就是這樣……不對，她竟然就這樣斬釘截鐵地說了出來……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "真是一位有魄力的人物！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "我能說什麼呢？當一個不可思議的巧合來得過於輕易的時候，我們總是會質疑作者的機械降神，覺得這是一個很爛的橋段。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她很快和自己還有作者和解了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "但不要緊，在一個白日只有四個小時的季節，一座以關押神秘學家作為歷史敘事的小鎮，發生什麼事情都不稀奇。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "感謝您的協助，這位——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "無需客氣，叫我虛構集就好。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "我是維爾汀。這位是十四行詩，我們來自聖洛夫基金會。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "您好，虛構集小姐。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "我很高興我能幫上忙，維爾汀，十四行詩。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "女孩狡黠地眨了眨眼睛。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "還有什麼比這更巧的事情呢？你們要去科馬拉監獄，我也要去科馬拉監獄。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "最終我們都會在科馬拉監獄裡相遇，也許這就是神秘學家的宿命……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "虛構集小姐，您為什麼要去科馬拉監獄呢？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "哈哈，那必然是出於一些文學方面的原因——總之，從現在起，我們是朋友了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "讓我們出發吧！我想，你們至少需要一個熟悉當地情況的人來帶路。"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

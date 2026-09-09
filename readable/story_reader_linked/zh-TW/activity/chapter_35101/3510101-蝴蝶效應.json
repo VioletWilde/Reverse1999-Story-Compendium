@@ -1,0 +1,690 @@
+{
+  "episode_id": 3510101,
+  "chapter_id": 35101,
+  "chapter_title": "綠松石蛇俱樂部",
+  "display_label": "",
+  "title": "蝴蝶效應",
+  "subtitle": "¡Lotería！",
+  "trails": [
+    {
+      "element_id": 3510101,
+      "owner_episode_id": 3510101,
+      "trigger_episode_id": null,
+      "title": "互相幫助",
+      "description": "一個熟悉的匣子，如今它變得更聰明，更難用。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=3510101",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "我毫不意外，我們又見面了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "你從西線來到東線的理由真是沒有驚喜可言。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "就像是隻剛破殼的雛鳥，只會追著成鳥的影子，或者其他會動的大東西跑。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "究竟什麼時候你才能獨立？十八歲生日之後嗎？"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "直到找到她為止",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "然後她又會在你眼前消失。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "我不認為你是不懂得思考的蠢人，為什麼你要不斷重複同樣的失敗？"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "或者你是那種必須重複無意義的工作才能感到幸福的人？"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "你戴著頂大禮帽，確實像是那種人。"
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "你似乎不理解親情？",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "你在胡說什麼？我當然也知道親情，知道愛。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "不過是曾有什麼東西給過你溫暖，尤其是在你還無法自立的時候，你為了活下去而理所當然地依賴她，討好她。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "然後有一天你失去了她，必須自己活下去，接著你開始懷念那段養尊處優的日子，每到做家務時就開始流淚。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "而她也不過是沉迷於掌握你生命的全能感中，就是如此膚淺的東西。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "我也曾擁有過這些，也給過其他人這些，我怎麼可能不理解？！"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "啊……"
+                }
+              ]
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "我對拯救世界的大話沒興趣。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "大人物嘴裡總是咀嚼著和平與未來，但結果都會變成笑話。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "而且沒有人會笑，因為耳朵好使的人都已經為他們而死了。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "我們就該吊死其中幾個蠢豬。和平不會因此降臨，但活著的人至少能有些寬慰……"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "請坐吧，我把你喜歡的那把椅子放在了朝東的位置。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "東面的風景稍微比西面好些，而且流動的河水會沖散屍臭味。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "她不只是一位母親",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 3510102,
+      "owner_episode_id": 3510101,
+      "trigger_episode_id": null,
+      "title": "絕對好運",
+      "description": "你有50%的機率能擲出你想要的那面，可她不一樣。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=3510101",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "《一日女巫》於墨西哥首次巡演"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "熱情美麗的好姑娘。\n被好運金幣親吻過的環球之星。\n《一日女巫》最受歡迎的老朋友——百夫長女士，將於本月15日現身墨西哥，墨西哥城。\n\n你能在白天的加里波第廣場上找到她。她和街頭樂手聊天，與宿醉的酒鬼碰杯。她記得每個人的名字，以及對方每一個未曾實現的願望、未能完成的冒險。她會把最精彩的故事帶上節目。當夜幕降臨，她將出現在賭桌前。若您看見她將金幣丟進憲法廣場附近的排水口，不必擔心——作為節目的例行環節，它遲早會回來。\n\n巡演途中，她將在索奇米爾科短暫停留，用辣醬與蘋果汁調製“本世紀最具挑戰性”的雞尾酒，隨後去往海港，從斷崖落下，與鯊魚共舞，在當地人的尖叫聲中，把“硬幣女孩”的傳說推向前所未有的高度。當然，我們亦不排除她會臨時登上一艘船，將整段航程變成一場即興冒險秀的可能。\n\n觀眾須知：\n在演出結束後，若您失去了對“好運”的基本判斷，那證明您已充分體驗了整場演出。"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 3510103,
+      "owner_episode_id": 3510101,
+      "trigger_episode_id": null,
+      "title": "節日訪客",
+      "description": "一份遺留在陽台上的報紙。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=3510101",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "《墨西哥城先驅週報》新聞一則"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "昨日下午，某國外交官抵達墨西哥城，其車隊沿布卡雷利街駛入城區，於憲法廣場稍作停留。彼時電車鈴聲此起彼伏，街頭花販正將成捆的萬壽菊分批陳列，為即將到來的諸靈節作準備。據悉，這位先生對阿茲特克神話、太陽石以及諸靈節的淵源，皆具備一定程度的瞭解。\n\n在隨後的行程中，他造訪聖卡洛斯學院，對近期引發討論的公共壁畫略作評價。他的目光並未僅僅停留於學院與畫室。在拉梅塞德市場一隅，我們的貴賓在多家小店櫥窗前駐足良久，細細端詳店內陳列的版畫、糖果頭骨與手工剪紙。這些物件雖製作簡單，卻都蘊含著豐富的情感。這其中，一個刻有諷刺詩句的骷髏偶人最為特別，令他反覆翻看，讚不絕口，哪怕隨行人員數次提醒行程在即，他都未作任何答覆。\n\n對於外交官接下來的行程，官方尚未公佈更多細節。然而，在這個亡者歸來、生者歡慶的節日裡，我們尊貴的來訪者，顯然並不滿足於走馬觀花，墨西哥城或將迎來一位不同尋常的藝術品鑑家。\n\n記者費茨威廉 報導"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "203501",
+      "internal_title": "【3.5】绿松石蛇俱乐部01.1",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "主持人",
+          "text": "窮人的外套。太陽。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "悶熱的酒館中，賭徒們屏住呼吸，面色漲紅地圍在牌桌旁。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "黑幫頭目",
+          "text": "太陽……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "黑幫頭目",
+          "text": "噢……在這裡。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他顫抖著手，在自己面前的塔布拉棋盤上放下一粒玉米。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "主持人",
+          "text": "羅西塔，羅莎拉，來吧，因為我現在需要你。玫瑰。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "賭局主持人從洗好的牌堆中翻出圖案。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挑戰者",
+          "text": "哈！足夠幸運。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挑戰者",
+          "text": "玫瑰，我有這個圖案。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "主持人",
+          "text": "路過墓地時，偶遇一個頭骨。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "隨著主持人不斷揭示新的卡牌，兩人面前的塔布拉棋盤逐漸被玉米粒填滿。顯而易見，勝利的天平正傾斜向挑戰者那方。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "黑幫手下Ⅰ",
+          "text": "這是最後一把，賭局快要結束了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "黑幫手下Ⅱ",
+          "text": "見鬼了，這個新來的女孩怎麼回事……？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "黑幫手下Ⅱ",
+          "text": "再這樣下去，特拉索爾先生要輸得血本無歸了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "黑幫手下Ⅰ",
+          "text": "我不明白，這裡的莊家明明都是特拉索爾先生的人……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "黑幫頭目",
+          "text": "……慢著。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "黑幫頭目",
+          "text": "挑戰者，你確定要繼續下去嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "黑幫頭目",
+          "text": "如果你現在認輸，我可以讓你帶著先前贏下的東西，安全地離開這裡。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挑戰者",
+          "text": "現在就中斷賭局的話，怎麼能算是一場豪賭呢？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挑戰者",
+          "text": "與之相反，我要押上我先前在這張桌子上贏的所有東西。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "挑戰者",
+          "text": "不，還不夠——押上我的全部財產，怎麼樣？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "黑幫頭目",
+          "text": "無知的女孩，你會後悔的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "頭目嗤笑一聲，看向一旁的主持人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "主持人",
+          "text": "我明白了，特拉索爾先生。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "主持人",
+          "text": "那麼二位，遊戲繼續。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "主持人",
+          "text": "下一張卡牌是——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "主持人將手放至牌堆上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "主持人",
+          "text": "回到人間，獲得重生。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "黑幫頭目",
+          "text": "等等！這是什麼，我從來沒有聽過這樣的詩句……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "足夠幸運的挑戰者在塔布拉棋盤上放下最後一顆玉米粒。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "百夫長",
+          "text": "回到人間，獲得重生。是蝴蝶！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "百夫長",
+          "text": "¡Lotería！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "T   h   e       T   u   r   q   u   o   i   s   e       S   e   r   p   e   n   t       C   l   u   b\n綠 松 石 蛇 俱 樂 部"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "虛構集 著"
+        },
+        {
+          "kind": "title_card",
+          "text": "卡洛塔酒館"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "賭局已定，四周的圍觀者們傳出一陣不可置信的喧鬧聲。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "黑幫手下Ⅰ",
+          "text": "已經是第三天了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "黑幫手下Ⅰ",
+          "text": "這三天裡，無論是俄羅斯轉盤、老虎機，還是墨西哥賓果，這幸運女孩從來沒有輸過。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "黑幫手下Ⅱ",
+          "text": "她已經擊敗了特拉索爾先生幫派裡的所有好手，現在就連特拉索爾先生本人也……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "黑幫手下Ⅱ",
+          "text": "真是不可思議。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "黑幫頭目",
+          "text": "這怎麼可能！！我不相信我會輸！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "議論聲的中心，黑幫頭目惱怒地把牌桌上的塔布拉和玉米粒都掃到地上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "黑幫頭目",
+          "text": "我從來沒有見過這張狗屁“蝴蝶”牌！這是怎麼回事！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "主持人",
+          "text": "我……先生，我不知道……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "主持人",
+          "text": "牌是您準備的，也是您親自洗的……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "百夫長",
+          "text": "夠了，先生。要我說多少遍，這真的只是運氣的問題！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "百夫長",
+          "text": "願賭服輸，就是賭桌的道理。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "百夫長",
+          "text": "畢竟這裡是你的地盤，你應該清楚，我是不可能出千的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "百夫長",
+          "text": "按照約定，請你在明天的這個時候，將我們立下的賭注都帶過來。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "百夫長",
+          "text": "一百萬的籌碼，還有什麼來著，俱樂部的什麼東西……？算了，反正你記得就行！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "幸運的冒險者大笑著離去了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "牌桌對面的男人癱倒在椅子上，這是他絕對支付不起的代價。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "黑幫手下Ⅰ",
+          "text": "特拉索爾先生，我全程都留神著，她確實沒有出千……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "黑幫頭目",
+          "text": "夠了，這不重要。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "黑幫頭目",
+          "text": "跟上她，不能讓她活著離開這裡。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "墨西哥，墨西哥城。天氣晴朗，街道兩側盡是低矮的平房。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "從酒館的後巷中走出，百賭百勝的挑戰者漫步在街道上。節慶將至，骨頭人偶、骷髏糖果、鮮花與剪紙……斑斕的色彩順著道路兩側蔓延。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "燥熱的空氣奇異地使肺部感到熨帖。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "百夫長",
+          "text": "回到家鄉果然會有好事發生。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "百夫長",
+          "text": "距離夜晚的巡演還有一段時間，哪裡還有刺激的冒險呢？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "身後鬼祟的腳步聲引起了她的注意。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "百夫長",
+          "text": "看來“冒險”自己送上門來了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "百夫長",
+          "text": "兩位先生，你們一路跟著我走到這裡，有什麼事嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "黑幫手下Ⅰ",
+          "text": "很抱歉，特拉索爾先生希望你能留下來聊聊。"
+        }
+      ]
+    },
+    {
+      "script_id": "203502",
+      "internal_title": "【3.5】绿松石蛇俱乐部01.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "行動代號，“被獻祭的人”？“伊茲帕帕洛特利”？——“死亡的九個試煉”？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "“死亡的九個試煉”不錯。我已經可以想像到拉普拉斯的傢伙們看到這個名字時的神情了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "行動人：洛倫茲蝴蝶。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛倫茲蝴蝶",
+          "text": "目標已進入華雷斯街道交叉路口處。啟動混沌干涉裝置。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "轟轟吼叫匣·X",
+          "text": "混沌干涉裝置已啟動。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "轟轟吼叫匣·X",
+          "text": "溫馨提示：轟轟吼叫匣已完成智慧升級。若產生任何使用上的問題，請在存活後致電開發者！：）"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛倫茲蝴蝶",
+          "text": "做得好，X。但聯繫的號碼呢？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛倫茲蝴蝶",
+          "text": "目標共二人，沒有其餘跟隨者。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛倫茲蝴蝶",
+          "text": "“這樣下去不行！得讓特拉索爾先生派更多的人來！”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛倫茲蝴蝶",
+          "text": "“攔住她……！！”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛倫茲蝴蝶",
+          "text": "聲音發抖，動作遲疑。對抗中慣性傾向右側，自那場讓你丟失了食指的打鬥後，你總會隨身攜帶一柄小刀，祈求它能給你帶來幸運——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛倫茲蝴蝶",
+          "text": "“停下！！”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛倫茲蝴蝶",
+          "text": "小刀果然賦予了你一絲勇氣。然而，當你惱火地衝至巷口時，圍欄上的蛀孔讓你想起了方才無論如何都無法擊中的子彈，這時，你後知後覺地害怕起來——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛倫茲蝴蝶",
+          "text": "你停住了腳步。對，沒錯，就是這裡。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "轟轟吼叫匣·X",
+          "text": "參照物參數已建立。環境變數在預測範圍內，呈現高度敏感依賴性。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "轟轟吼叫匣·X",
+          "text": "可進行短期行為預測。完美的環境！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛倫茲蝴蝶",
+          "text": "啟動初始條件擾動。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "黑幫手下Ⅰ",
+          "text": "這是什麼聲響？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "黑幫手下Ⅱ",
+          "text": "小心——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "塵埃落定，這場災難的“始作俑者”從頂樓一躍而下。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "毫髮無損的幸運女孩打量著來人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "百夫長",
+          "text": "是你。剛才在酒館裡的主持人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "百夫長",
+          "text": "不管怎麼樣，謝謝你的幫忙。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛倫茲蝴蝶",
+          "text": "不客氣。我聽說過你的名號，那個屬於“硬幣女孩”的傳奇故事。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛倫茲蝴蝶",
+          "text": "就算沒有我的幫忙，你也能憑藉自己的運氣解決一切。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "百夫長",
+          "text": "哈，你說得沒錯。但那樣絕不會解決得如此迅速——我就會錯過今晚的巡演了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "百夫長",
+          "text": "你想要什麼樣的答謝？數不清的利齒子兒、一頓地道的墨西哥大餐，還是驚掉人下巴的逃脫魔術表演……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "百夫長",
+          "text": "除了我手上的這枚硬幣，我都能給你。只要給我一晚上的時間。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛倫茲蝴蝶",
+          "text": "謝謝你的好意。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "對於百夫長大方的配合，苦心積慮的謀劃者滿意地瞇起了眼睛。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛倫茲蝴蝶",
+          "text": "你說得對，我確實想要你身上的某樣東西——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛倫茲蝴蝶",
+          "text": "那封你在賭桌上贏得的，來自綠松石蛇俱樂部的密信。"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

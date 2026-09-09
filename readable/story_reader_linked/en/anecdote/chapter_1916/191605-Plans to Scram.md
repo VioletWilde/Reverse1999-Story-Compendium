@@ -1,6 +1,6 @@
 # Plans to Scram
 
-- Chapter: Flower Power (`1916`)
+- Chapter: When Peace Blooms (`1916`)
 - Episode: `191605`
 
 > Subtitle: Perfection is his goal, but it remains just that—a goal.

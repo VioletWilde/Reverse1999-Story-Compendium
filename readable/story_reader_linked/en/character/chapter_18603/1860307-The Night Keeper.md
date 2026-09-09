@@ -1,4 +1,4 @@
-# The Night Keeper
+# The Night Keeper
 
 - Chapter: Silver Knot (`18603`)
 - Episode: `1860307`

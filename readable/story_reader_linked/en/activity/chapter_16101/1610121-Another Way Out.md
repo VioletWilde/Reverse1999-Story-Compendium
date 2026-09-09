@@ -1,6 +1,6 @@
 # Another Way Out
 
-- Chapter: Notes on Shuòrì (`16101`)
+- Chapter: Notes on Shuori (`16101`)
 - Episode: `1610121`
 
 > Subtitle: Leap across the chasm and rediscover the lost unknown.

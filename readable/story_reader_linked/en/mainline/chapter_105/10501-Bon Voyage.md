@@ -1,6 +1,6 @@
 # Bon Voyage
 
-- Chapter: The Prisoner in The Cave (`105`)
+- Chapter: The Prisoner in the Cave (`105`)
 - Episode: `10501`
 
 > Subtitle: Be it the Thames or the Aegean, one must navigate carefully.

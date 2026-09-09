@@ -1,6 +1,6 @@
 # Baby Teeth
 
-- Chapter: Green Lake Nightmare (`12101`)
+- Chapter: A Nightmare at Green Lake (`12101`)
 - Episode: `1210102`
 
 > Subtitle: They were taken away, leaving a bump in the smooth road.

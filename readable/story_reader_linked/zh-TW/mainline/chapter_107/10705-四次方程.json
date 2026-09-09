@@ -1,0 +1,545 @@
+{
+  "episode_id": 10705,
+  "chapter_id": 107,
+  "chapter_title": "孤獨之歌",
+  "display_label": "",
+  "title": "四次方程",
+  "subtitle": "步驟一，歸結為缺三次項的四次方程；步驟二……見鬼的數學！",
+  "trails": [
+    {
+      "element_id": 1070501,
+      "owner_episode_id": 10705,
+      "trigger_episode_id": null,
+      "title": "破譯小組人員名單",
+      "description": "謎題與破解者，現在，他們都在這兒了。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=705",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "破譯小組人員名單"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "※ 烏爾里希——通過\n    選拔理由：拉普拉斯中最擅長解密的神秘學家，同時是神秘術最為出彩的密碼專家。另外，其能耗比極為優秀，可以在兩次補給之間持續高品質工作72小時，推薦其擔任破譯小組組長。\n    組長點評：對我的評價有誤，這一紀錄現已刷新為360小時。但我答應了。   \n        \n        ※ 道金斯——通過\n    選拔理由：道金斯，語言學專家，在不瞭解咒語語源的情況下，我們需要大量這類人才。\n    組長點評：道金斯是個人才，但缺乏緊張感，這點可以從他不合時宜的冷笑話中看出來。不要讓他獨自工作，派一名嚴肅的職員去監管他，另外再調用一台防止冷笑話發生器，懲罰力度設置在3磅一個冷笑話。 \n\n        ※ 理查——通過\n    選拔理由：理查是名優秀的理論數學家，他可以在數學角度為我們提供意見。\n    組長點評：理查只在解數學題時謹慎，他平均每天撞到桌角三次。他同樣需要一名監督員，以防他在實驗中製造意外。\n\n        ※ 馬修——通過\n    選拔理由：馬修有著出色的決斷力，他的拼搏精神一定會為破譯工作帶來關鍵性的突破。\n    組長點評：他只是過於莽撞，我不建議讓他做決定，否則實驗室爆炸都算是小事。\n\n        ※ 威廉姆斯——通過\n    選拔理由：威廉姆斯的思維縝密，他擅長發現其他人不能發現的漏洞，或許他可以去輔佐馬修，防止馬修做出出格的舉動。\n    組長點評：我們管這個叫性格內向，他擅長發現不代表他擅長檢舉，應該讓他一個人去負責驗算。\n\n        ※ 維克托——通過\n    選拔理由：維克托有著跳躍性的思考模式，他可以保證研究不陷入無解的死局。\n    組長點評：維克托很好，就是想法讓人捉摸不透，不要讓他和道金斯一組，他絕對會出3磅讓道金斯講笑話，奇葩和冷笑話狂放在一起會出問題。\n\n        ※ 阿德勒——待定\n    選拔理由：舉薦阿德勒不只是因為他是名優秀的密碼學家，更因為這次破譯並不光是神秘學家的課題，我們需要來自人類的意見。\n    組長點評：我持保留意見，並不是說團隊中不需要人類，但不會是一個八年裡閉門不出的啞謎。"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100706",
+      "internal_title": "第七章7-5",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "四次方程"
+        },
+        {
+          "kind": "title_card",
+          "text": "22#0"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "研究員Ⅰ",
+          "text": "有眼無珠的**們，該死的、愚蠢的、狹隘的人類中心主義者們——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "研究員Ⅰ",
+          "text": "你們都瘋了！你們才是瘋子，而我，我會證明我是對的——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "研究員Ⅱ",
+          "text": "該死，快把馬修帶回康復中心去！他受那面具影響太深了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "研究員狂亂揮舞著手臂，在混亂之上製造新的混亂。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "泛著理性光澤的銀色地面上，一瓶被投擲的酒精瓶燃起藍色的火苗。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "而後，一雙鋼鐵的腳步邁過了它。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "露西",
+          "text": "有進展嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "破譯組長",
+          "text": "沒有。我們召集了所有破譯術式的專家，但他們沒有任何發現，甚至連唸咒後的不適感都沒有。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "破譯組長",
+          "text": "它不屬於任何一種已知的語言，也不符合尋常的拼寫規則。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "破譯組長",
+          "text": "不少人認為是咒文抄錯了，因為這項報告並不是資深調查員傳回的，而是一個新手調查員藉由自己的神秘術——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "門被推開了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "這個偌大的房間如今擠滿了人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "人群的最中央是一部電臺。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "聯絡員Ⅰ",
+          "text": "馬庫斯小姐，您聽寫的這份咒文確實屬實，對嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "馬庫斯",
+          "text": "我……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "聯絡員Ⅰ",
+          "text": "再次確認，您在一名純血神秘學家的顯像神秘術中看見了阿爾卡納施術的場景，對嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "馬庫斯",
+          "text": "是的，準確來說，是在卡卡尼亞小姐的鏡子神秘術中，看見了前重塑之手成員伊索爾德的回憶。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "聯絡員Ⅰ",
+          "text": "您能保證那名前重塑成員的回憶是準確的嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "馬庫斯",
+          "text": "……我不能。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "聯絡員Ⅰ",
+          "text": "您能保證卡卡尼亞小姐的鏡中成像是客觀、真實、未造成任何歪曲的嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "馬庫斯",
+          "text": "……我不知道。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "聯絡員Ⅰ",
+          "text": "您能保證自己的閱讀神秘術，是準確公正的，並且在摘錄時不會造成偏差嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "馬庫斯",
+          "text": "我，我也不知道……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "馬庫斯",
+          "text": "但是，我看到了畫面，我還聽到了她吟唱的聲音——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "馬庫斯",
+          "text": "我的確不知道那是什麼語言，但我標注的音標是準確的——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "聯絡員Ⅰ",
+          "text": "無需緊張，我們只是在核查當時的情況。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "聯絡員Ⅰ",
+          "text": "基金會已派遣特別行動隊趕往維也納，請您務必把咒文涉及的兩名神秘學家一併帶回。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "馬庫斯",
+          "text": "……我……明白。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "連線結束了，聯絡員摘下了耳機。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "這不是一個理想的結果，破譯小組成員的臉色並不比金屬更像人類。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "……所以，我們要解讀的就是這個？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一道刺耳的譏諷撥開空氣，唐突地擠到人群前列。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "啞謎",
+          "text": "“一個古老的奇跡，一個拯救的魔圈！”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "啞謎",
+          "text": "/eɪ u:.nə 'sa.kəʊ/ ... A tuna psycho?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "啞謎",
+          "text": "一句意義不明的，用神秘術閱讀的神秘術呈現的神秘學家回憶裡的神秘術咒文。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "啞謎",
+          "text": "神秘的四次方——多麼精妙啊。而你們竟然還在談論什麼“客觀還原”……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "啞謎",
+          "text": "試問，假如靈知可以交叉檢驗，還是交叉檢驗四次的話，它為什麼還沒替代科學呢？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "啞謎",
+          "text": "我們為什麼還沒有全部下崗，讓一群猴子來打字機上演奏莎士比亞呢？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "破譯組長",
+          "text": "阿德勒？！你應該不在破譯組的名單上——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "露西",
+          "text": "我讓他來的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "露西",
+          "text": "雖然他是人類，但他在密碼學上頗有建樹。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "破譯組長",
+          "text": "可是……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "男人陰沉地往前走了一步。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "啞謎",
+          "text": "為什麼我不能來？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "啞謎",
+          "text": "因為我的姐姐是格蕾塔·霍夫曼？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "啞謎",
+          "text": "而這是她——一個品行高潔的、富有獻身精神的調查員，為了人類神聖的使命，拼上性命從雨幕中拿到的術式？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "啞謎",
+          "text": "——噢，我忘了，她沒有拿到，是她的學生拿到了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "露西",
+          "text": "你還不是正式成員，隨時可以退出破譯小組。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "啞謎",
+          "text": "退出？為什麼？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "啞謎",
+          "text": "——我有權知道我姐姐為什麼而死！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "啞謎",
+          "text": "好啊，朋友們，解吧，來解這個神秘四次方的術式吧！看看我們最終會得到什麼——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "啞謎",
+          "text": "是拯救，還是虛無？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他冷笑著離開了，手中還揮舞著那張寫著咒文的紙條。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "這場鬧劇濺起的水花逐漸平息。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "破譯小組的成員們凝重地望向總負責人，似乎在等待一個結論。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "露西",
+          "text": "繼續破譯。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "露西",
+          "text": "在窮盡所有可能性之前，我們不能斷言這份免疫“暴雨”的咒文是無效的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "露西",
+          "text": "還有——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她平靜地轉過頭來。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "露西",
+          "text": "把阿德勒·霍夫曼加在破譯組的名單上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "破譯組長",
+          "text": "破譯組長的電路波動了一瞬。然後，它快步追出了門，緊隨著它新上任的組員離開。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "牆上的內線電話響了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "聯絡員Ⅰ",
+          "text": "你好，這裡是“暴雨”觀測與研究中心。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "聯絡員Ⅰ",
+          "text": "……明白了，我會轉達露西女士。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "聯絡員放下了電話，以某種徵詢的表情望向總負責人。她年輕的臉上有一絲微末的驚慌。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "露西",
+          "text": "發生什麼事了？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "聯絡員Ⅰ",
+          "text": "是康復中心的電話，關於之前重塑面具的研究……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "聯絡員Ⅰ",
+          "text": "……女士，我想您最好親自去看一看。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "助理希曼",
+          "text": "……好的，馬修研究員。現在請告訴我們，你還聽到了什麼？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "狹窄的走廊外站滿了警衛。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "這是警備級別最高的一間病房，和病患的一切交流都需隔著鋼化加固的三層玻璃進行。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "病房中坐著一個男人，一個戴著面具的男人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "研究員Ⅰ",
+          "text": "那些聲音——那些幾不可聞的呢喃，那些嗡嗡的、蠕動的、可怕的耳語，一直在我腦子裡！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "研究員Ⅰ",
+          "text": "我告訴過你們，我寫下過它們！可你們認為我只是罹患“狂躁症”的疾病……哈，哈哈哈哈！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "助理希曼",
+          "text": "所以你戴上了面具？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "研究員Ⅰ",
+          "text": "是的，我總得證實我的猜想！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "研究員Ⅰ",
+          "text": "——現在好了，我從未聽得這麼清楚過，那些聲音就在我的腦仁裡叫囂，就在這兒！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "研究員Ⅰ",
+          "text": "它誘惑我，給予我承諾，代價是把腦子拋在後頭！聆聽那位仁慈的、獨一無二的母親的聲音！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "研究員的手指用力地掐緊自己的皮肉，似乎在克制某種衝動。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "研究員Ⅰ",
+          "text": "我篤定我現在能寫出一篇最棒的論文！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "助理希曼",
+          "text": "“母親”指的是？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "玻璃被猛地拍響了。研究員驚恐地張開嘴，徒勞地在光滑的鏡面玻璃上磨礪指甲。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "研究員Ⅰ",
+          "text": "不，我不能再說了！它們注意到我了，它們朝著這兒過來了——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "研究員Ⅰ",
+          "text": "——你們得立刻殺了我！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "告誡已經太晚，男人的腦袋在玻璃之後突兀地炸開了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "鮮血和腦漿濺在了剛剛加固的玻璃上，一個新生者自他的軀體中出現。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "重塑·門徒",
+          "text": "ㄏㄡˇ——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "尖銳的警報聲響了起來。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "那裡，還在敲擊著玻璃的已是那手持三角鐵的門徒。他的口中哀鳴不止，猶如新生兒發出第一道啼哭。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "伴著玻璃的鈍響聲，助理結束了內線通訊，望向站在旁邊的總負責人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "露西",
+          "text": "立刻終止對重塑之手面具的一切研究，這一方向的危害程度已經超過了其潛在價值。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "露西",
+          "text": "永久封存所有相關用具，並將本次事件的脫敏資訊通報全員，以防再出現研究員私自佩戴它的情況。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "露西",
+          "text": "——然後，清理現場。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "拉普拉斯安全員",
+          "text": "收到。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "隨著氣密門的開啟，一隊裝備齊全的警衛冒著催眠煙霧衝進房間。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "鏡面玻璃的另一側，機器背過身去，將頭腦中又一堆標記著“‘暴雨’研究”的資料歸入了廢棄區域。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "露西",
+          "text": "嗯。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "露西",
+          "text": "又一個完全錯誤的方向。"
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

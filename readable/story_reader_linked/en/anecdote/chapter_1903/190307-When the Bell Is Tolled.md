@@ -1,6 +1,6 @@
 # When the Bell Is Tolled
 
-- Chapter: chapter_1903 (`1903`)
+- Chapter: The Long Night Singing Its Dirges (`1903`)
 - Episode: `190307`
 
 > Subtitle: Now, the high hanging sword has fallen.

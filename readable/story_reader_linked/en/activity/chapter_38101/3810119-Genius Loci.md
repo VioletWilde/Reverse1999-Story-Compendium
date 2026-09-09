@@ -1,9 +1,9 @@
 # Genius Loci
 
-- Chapter: 世纪末尺度 (`38101`)
+- Chapter: The Temporal Scale (`38101`)
 - Episode: `3810119`
 
-> Subtitle: But I remember such beautiful sights—I want to see the outside again!
+> Subtitle: But I've seen such beautiful views—I want to see the outside again!
 
 ## Transcript
 

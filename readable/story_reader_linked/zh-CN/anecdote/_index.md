@@ -1,9 +1,9 @@
 # 轶事
 
-- [1901 chapter_1901](chapter_1901/_index.md) — 7/7 episodes with scripts
-- [1902 chapter_1902](chapter_1902/_index.md) — 6/6 episodes with scripts
-- [1903 chapter_1903](chapter_1903/_index.md) — 8/8 episodes with scripts
-- [1904 chapter_1904](chapter_1904/_index.md) — 8/8 episodes with scripts
+- [1901 奥利弗的故事](chapter_1901/_index.md) — 7/7 episodes with scripts
+- [1902 戏剧与戏剧](chapter_1902/_index.md) — 6/6 episodes with scripts
+- [1903 直到长夜下旬](chapter_1903/_index.md) — 8/8 episodes with scripts
+- [1904 美梦后记](chapter_1904/_index.md) — 8/8 episodes with scripts
 - [1905 庸碌喜剧](chapter_1905/_index.md) — 6/6 episodes with scripts
 - [1906 重返人间](chapter_1906/_index.md) — 8/8 episodes with scripts
 - [1907 第九条美德](chapter_1907/_index.md) — 7/7 episodes with scripts
@@ -20,4 +20,3 @@
 - [1923 海风的往事](chapter_1923/_index.md) — 8/8 episodes with scripts
 - [1924 在路上](chapter_1924/_index.md) — 8/8 episodes with scripts
 - [1925 钻石游戏](chapter_1925/_index.md) — 7/7 episodes with scripts
-- [19101 chapter_19101](chapter_19101/_index.md) — 2/6 episodes with scripts

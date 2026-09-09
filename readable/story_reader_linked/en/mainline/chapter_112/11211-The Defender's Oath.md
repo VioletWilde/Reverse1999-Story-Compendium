@@ -1,6 +1,6 @@
 # The Defender's Oath
 
-- Chapter: 远征记 (`112`)
+- Chapter: The Campaign's Tale (`112`)
 - Episode: `11211`
 
 > Subtitle: An ancient proclamation arrives at a foreign city's gate, clad in blood and dust.

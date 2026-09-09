@@ -21,7 +21,7 @@
 - [11019 Same Road, Different Destinations](11019-Same Road, Different Destinations.md) — Poor soul, so eager for salvation—where will you go now?
 - [11020 The Weaving of Our Pasts](11020-The Weaving of Our Pasts.md) — Go and seek the Golden Fleece. In the land of endless peace.
 - [11021 The Way I Came](11021-The Way I Came.md) — Blood and tears become one, as she weeps in the dark.
-- [11022 By Their Unsullied Blood](11022-By Their Unsullied Blood.md) — When, with blood, the disordered threads are soothed, fate shall reclaim what was once eschewed.
+- [11022 By Their Untainted Blood](11022-By Their Untainted Blood.md) — When, with blood, the disordered threads are soothed, fate shall reclaim what was once eschewed.
 - [11023 And Then Came the Savior](11023-And Then Came the Savior.md) — The flood of time will take us all, but pray, let me find my own stream.
 - [11024 The Other Bank of the River](11024-The Other Bank of the River.md) — Go to the other ferry, back to the mouth of the River Tiber.
 - [11025 Apocalypsis cum figuris](11025-Apocalypsis cum figuris.md) — On the never-ending relentless march through time, the future will come again.

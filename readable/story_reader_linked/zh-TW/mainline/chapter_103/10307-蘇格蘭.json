@@ -1,0 +1,487 @@
+{
+  "episode_id": 10307,
+  "chapter_id": 103,
+  "chapter_title": "故事一無所有",
+  "display_label": "",
+  "title": "蘇格蘭",
+  "subtitle": "油脂、澱粉、肉類，我們都喜歡的炸魚薯條。",
+  "trails": [
+    {
+      "element_id": 1030701,
+      "owner_episode_id": 10307,
+      "trigger_episode_id": null,
+      "title": "小徑① 渾圓強盜",
+      "description": "食物的誘惑總是難以抵擋，它們也知曉炸魚與薯條的美味。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=10307",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1030702,
+      "owner_episode_id": 10307,
+      "trigger_episode_id": null,
+      "title": "廚房的炸魚薯條",
+      "description": "教員食堂是飽腹的最優選，目前距離炸魚薯條還有一份資訊的距離。",
+      "action": "",
+      "unlock_condition": "ChapterMapElement=1030701",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100308",
+      "internal_title": "第三章3-7",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "蘇格蘭"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "呼呼……總算把它們都趕到角落裡去了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "“咕——”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "有點餓了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "對了。看看這個掛鎖是什麼材質，能不能防住沙米爾的啃噬……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "對著光線一照。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "普通的金屬。常見的鐵鎖。鎖梁處生了點點鏽跡。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "原來如此。食物充足的沙米爾，並不會注意到高空的鐵製品。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "嘿嘿，該試試全新的菜單了，老紳士們。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "將鐵門關上。躡手躡腳地穿過走廊，這裡一片漆黑。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "走廊兩側各有兩間禁閉室。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "穿過這些房間，就能到達大門。那裡沒有額外的門鎖。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "噗嘶，噗嘶……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一個灰色眼睛的男孩從門窗上探出了頭。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "……你是誰？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“圈環”",
+          "text": "“圈環”。我能用圈環勾住任何東西。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“圈環”",
+          "text": "看！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他丟出一個指環大小的鐵圈。鐵圈滾了過來，系住了腳下鬆垮的鞋帶。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "真厲害！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“圈環”",
+          "text": "你是不是能把門打開？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "是的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“圈環”",
+          "text": "能幫幫我嗎？我發誓會為你效勞。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "怎麼幫？",
+          "edge_label": "How?",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "“圈環”",
+              "text": "再施展一次你的特別能力，把我的門鎖打開……"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "維爾汀",
+              "text": "然後你出來，頭也不回地離開？"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "“圈環”",
+              "text": "當然！我可不想再回到這裡。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "維爾汀",
+              "text": "那不行。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "沒門，兄弟",
+          "edge_label": "No way, mate. ",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "“圈環”",
+              "text": "行吧。我還以為我們是一條船上的。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "維爾汀",
+              "text": "如果我放了你出去，你還會回來嗎？"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "“圈環”",
+              "text": "當然不會！沒有人想在這裡多待一分鐘。"
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "如果你不在禁閉室，教員會給我們更嚴厲的懲罰。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "我只是出去找點吃的。我還會回來的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“圈環”",
+          "text": "…………"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "你想來點什麼？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“圈環”",
+          "text": "……炸魚薯條。可以的話，加點洋蔥醋。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "沒問題。我會連豌豆泥也一起帶來。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "三小時後"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“圈環”",
+          "text": "所以你是打敗了沙米爾才跑出來的？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "是的。你這裡呢？有什麼奇怪的東西嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“圈環”",
+          "text": "沒什麼特別的，這房間裡只有幾隻臭老鼠，很快就被我搞定了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他不以為然地聳了聳肩，大口吃起了炸魚。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“圈環”",
+          "text": "嚼嚼～教員食堂的炸魚薯條真不賴……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“圈環”",
+          "text": "二號食堂就差遠了！老是忘記搭配醬料，甚至炸的都不是鱈魚！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“圈環”",
+          "text": "唔……嚼嚼……說起來，你為什麼會被關進來？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "……我說了“那個詞”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“圈環”",
+          "text": "哪個詞？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "“那個詞”。我在巡禮動員大會上說了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“圈環”",
+          "text": "你是說，那個“S”開頭的詞嗎？你在動員大會上說出來了？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“圈環”",
+          "text": "哈哈哈哈哈哈……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“圈環”",
+          "text": "你竟然……哈哈哈……校長的鼻子肯定都氣歪了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "我不明白……他明明說什麼問題都可以問的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“圈環”",
+          "text": "你是從哪裡知道“那個詞”的？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "從我們宿舍的保潔員嘴裡，那是他說的最後一句話。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "我看到他被人押送到了校門外，上了一輛鐵皮車。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "他一路上都在喊：“暴雨要來了”、“暴雨要來了”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "呃，我說出來了——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "……糟了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“圈環”",
+          "text": "別管這個了，你繼續說。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "……我問了很多人，但沒有人理我。莫里斯大叔說保潔員在不適宜的時候離開了學校，看到了不該看的東西，要送去治療。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“圈環”",
+          "text": "我猜的果然沒錯。學校在封鎖消息。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "什麼意思？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“圈環”",
+          "text": "你看這個。這是我從教員辦公室裡拿到的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "《“暴雨”將改變世界：基金會掩蓋真相》？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“圈環”",
+          "text": "是的。報紙上說外面出現了一個叫“暴雨”的氣象，會危及所有人的生命。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“圈環”",
+          "text": "而基金會在隱瞞事實。我們都不被允許說“那個詞”，就是證據。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "報紙的質感很柔軟。文章的部分字跡印出了重影。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "它上面也沒有說清楚“那個詞”到底是什麼。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "文章末尾印了一行標粗的小字……“歡迎加入重塑之手”？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "什麼是重塑之手？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“圈環”",
+          "text": "不知道，我從沒聽說過。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "背面也印了一些東西。嗯，我來看看……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "歡欣，平安，或是聲名，康健"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "又及敬佩與尊嚴，技巧同孔武"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "都不關照順意而又盲從的牧群；"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“圈環”",
+          "text": "啟明的星，閃爍不見他們雙眼，\n               古舊的跡，遍滿布羞恥的蔭蔽，\n               明鏡不映詩歌，盲目高呼禮讚，\n\n           千百萬潮水，皆遵循潮汐奔流\n               以褻瀆不潔的姿態，玷污天幕。\n               以荒蠻禍亂的行跡，吞沒學識。\n\n               那牧鞭與其謙卑羔羊算得什麼？\n            人，要想成為人，須主宰自身\n           上建立的王廷，以自我所克制\n            的意識，平定他的渴求與懼怕\n               蠱惑，完全地成為他自己本人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "…………"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "………………"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "夜晚很平靜。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "只是，騷動不再蟄伏於黑暗。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "“吱吱——”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“圈環”",
+          "text": "怎麼回事！薯條的香味把另一群碩鼠引來了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“圈環”",
+          "text": "維爾汀？維爾汀！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“圈環”",
+          "text": "你怎麼愣在那兒了？快過來幫忙！"
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

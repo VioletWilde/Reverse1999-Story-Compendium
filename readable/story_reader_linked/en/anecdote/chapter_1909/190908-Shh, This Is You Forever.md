@@ -1,6 +1,6 @@
 # Shh, This Is You Forever
 
-- Chapter: To Wennifred (`1909`)
+- Chapter: To Winnifred (`1909`)
 - Episode: `190908`
 
 > Subtitle: A memorial page that is far from being a proper memorial.

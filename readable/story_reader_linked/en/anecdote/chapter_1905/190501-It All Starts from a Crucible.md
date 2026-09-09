@@ -1,6 +1,6 @@
-# It All Starts from a Crucible
+# It All Starts From a Crucible
 
-- Chapter: Pulp Comedy Dirges (`1905`)
+- Chapter: Pulp Comedy (`1905`)
 - Episode: `190501`
 
 > Subtitle: For the sake of a great cause, some must suffer.

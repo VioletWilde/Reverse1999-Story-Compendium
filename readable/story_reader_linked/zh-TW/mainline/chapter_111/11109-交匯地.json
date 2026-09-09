@@ -1,0 +1,581 @@
+{
+  "episode_id": 11109,
+  "chapter_id": 111,
+  "chapter_title": "行於漫漫長路上",
+  "display_label": "",
+  "title": "交匯地",
+  "subtitle": "窸窣的聲響，隱藏在轟鳴的災難之下。",
+  "trails": [
+    {
+      "element_id": 111009,
+      "owner_episode_id": 11109,
+      "trigger_episode_id": null,
+      "title": "告別蕪菁",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=1109",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "我只有燉蕪菁能招待客人，不過我在您的碗裡加了些碎香腸。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "請用，然後再見，現在這段和平的時間是您離開的最佳時機了。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "這就要再見了嗎？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "請問您還希望從我這得到什麼？"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "既然您如此喜歡在我這做客，乾脆帶走您屁股下的椅子吧。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "那把椅子跟著我熬過了一整齣鬧劇，即便在最寒冷的冬天也沒有被變成木柴。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "是的，您是個尊貴的體面人，不該接受這樣寒酸的招待，但可惜我已經擠不出一滴淚來為這碗湯調味了。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "如果有人能夠早些結束這場鬧劇，我或許可以有更多餘糧來招待您。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "醃豬肉、燉牛肉、鹽味捲餅、馬鈴薯泥、酸菜、或許還能有啤酒。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "然而在有些人看來，一口吃的遠比不上幾枚勳章。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "不過我可以趁著現在去採買些物資。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "如果您興趣獨特，堅持要留在這裡享受硝煙的餘味，那您可以再坐一會。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "運氣夠好的話，下一場鬧劇會把您長久地留在這裡。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "這可真是寒酸",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "101112",
+      "internal_title": "第十一章11-09",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "交匯地"
+        },
+        {
+          "kind": "title_card",
+          "text": "林地深處"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "夜幕降臨，並非一切事物都會在夜晚安歇。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“哨兵”",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "不遠處，還有另一道影子藏匿在林間。在夜色的掩映下，也許他會被當作一根枯瘦的樹幹。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "但石像鬼本就屬於黑夜，他們很輕鬆地在晦暗的環境中辨認出彼此。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "一個被視為有罪的人死在你的槍口之下，他未經審判，也不曾獲得懺悔的機會。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "扣下扳機的人，可以被稱作是正義的嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“哨兵”",
+          "text": "別來煩我，拉蒂斯。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她輕而易舉地把沉重的提問扔在地上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "拉蒂斯",
+          "text": "難道你真的從來不思考自己的所作所為？以殺戮中止殺戮就是你的正義之路？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“哨兵”",
+          "text": "你問錯了問題，我不在乎正義。你可以隨意把任何罪責加在我身上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "拉蒂斯",
+          "text": "我並非要加重你的負擔，而是不想讓你繼續被引誘上墮落的道路——我在乎的是你的靈魂，堂親。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "拉蒂斯",
+          "text": "我們是流淌著惡魔之血的族裔，即使已經歷經千餘年的苦修，仍然無法徹底滌淨血液中的污穢。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“哨兵”",
+          "text": "回答我一個問題，一萬人的死亡和十萬人的死亡相比，哪一個更好？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "拉蒂斯",
+          "text": "這個問題太過褻瀆——難道……你真的在聽取它的聲音？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“哨兵”",
+          "text": "你必須二選其一，否則我們的談話無法繼續。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "拉蒂斯眉頭緊蹙，他低下頭，以默禱來化解湧上鼻腔的哀苦。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“哨兵”",
+          "text": "在戰爭之中，你會面對無數比這更加痛苦的選擇，而你甚至不敢背負回答這個問題的負擔。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“哨兵”",
+          "text": "回教堂去吧，拉蒂斯。你有更適合自己的工作。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "拉蒂斯哀嘆著消失在夜色中，如同陰影融於黑夜。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "石像鬼士兵靠上樹幹以尋求短暫的休憩。從四肢末端開始，石化如浪潮般覆滿全身。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "你又在和他吵架了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "耳中有輕柔的聲音響起，而她身旁並無第二人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“哨兵”",
+          "text": "他總是這樣。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "拉蒂斯的學識比我們要多，如同你的膽量比我們兩個人加起來都要大。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“哨兵”",
+          "text": "我不否認。但這對於現狀並無助益。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "……可我也害怕有一天悔恨會將你壓倒，就像，我也害怕你會突然死去……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "馬塞爾，安托萬，還有拒絕入伍的伊馮娜……他們答應過我，但是再也沒有出現過……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“哨兵”",
+          "text": "如果我活下來，或許會有悔恨的那一天，但不能是現在。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“哨兵”",
+          "text": "……絕不能是現在。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“哨兵”",
+          "text": "也許是在和平最終降臨的那一天，到那時……你會回來吧？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "聲音在凌亂的風中消散了，她知道，這個夜晚它將不會再出現。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“哨兵”",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "休憩宣告結束。士兵拾起武器，向線索指引的下一個目的地走去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "帕拉維揚將一張周邊地區的地圖平鋪在桌面上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "刻雷烏斯拿起數枚子彈，將第一顆放在地圖上標記為蒙佩的點，隨後將剩餘的子彈握在手心裡。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "刻雷烏斯",
+          "text": "艾伯哈特後續回憶起了一些與重塑之手有關的地點，但內容很模糊，我們應該儘快開展實地調查。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "刻雷烏斯",
+          "text": "賈斯特，你去檢查這片林區，卡斯帕會在目標地點外圍接應你。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一顆子彈被立在一片被描繪為森林的地點。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "調查員Ⅰ",
+          "text": "我這就去找他。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "刻雷烏斯",
+          "text": "卡蜜拉，李，河道沿線交給你們。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "調查員Ⅱ",
+          "text": "我們很快就回。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "每下達一道指令，就有一顆新的子彈被立在桌面上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "刻雷烏斯",
+          "text": "查理斯，阿曼達，你們兩個一起去偵查299高地，這需要經過無人區。提前向前線軍隊表明身份，避開火力。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "調查員們",
+          "text": "瞭解。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "原本擁擠的房間內，人員逐漸走空。桌面上只剩下最後一顆彈殼。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "刻雷烏斯",
+          "text": "帕拉維揚。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“警官”",
+          "text": "在。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "刻雷烏斯",
+          "text": "農莊交給你。另外，把瑪爾紗帶上，她精通戰鬥和急救，你們可以互相掩護。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“警官”",
+          "text": "明白。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "帕拉維揚離開了房間，但此刻還有最後一個沒有被分配任何任務的人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "年輕士兵睜大眼與長官對視，努力掩飾內心的慶幸與雀躍。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾爾",
+          "text": "……也就是說，我留在蒙佩待命就好了，對嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "刻雷烏斯",
+          "text": "如果有重塑之手乘隙進攻蒙佩，你要負責守衛。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "梅蕾爾",
+          "text": "啊……啊？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "年輕士兵垂下頭顱，難過之情溢於言表。"
+        },
+        {
+          "kind": "title_card",
+          "text": "遺棄的農莊"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“警官”",
+          "text": "就是這裡了？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "應該沒錯，下車吧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "村莊被一片繁茂的原野環繞。戰爭爆發前，這裡的居民應該過著富庶而安寧的生活。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“警官”",
+          "text": "我走前面。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "二人取出武器，從側面進入村莊。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "調查者們沒有遭到任何阻攔，如果不是得到了情報的指示，他們只會把這裡當成一座孤零零的廢墟。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "一個人也沒有……真是一場災難。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“警官”",
+          "text": "時間還早，可以逐一檢查一下房屋。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "沒問題。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "……找到什麼了嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“警官”",
+          "text": "沒有，我在一個房間裡發現了一些寫著字的紙張，但應該只是當地人沒有寄出去的信件。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "我在一間地下室找到了一些槍械，不過是早就生鏽的獵槍，火藥也已經受潮。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "瑪爾紗神情凝重地盯著一座空空如也的倉庫。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "這裡已經被廢棄了很久，而且經歷過掠奪。村子裡的東西基本沒有價值，或者不太好搬走。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“警官”",
+          "text": "那對重塑之手來說，這裡有什麼價值呢？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "瑪爾紗沮喪地搖搖頭。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "我沒有完整接受過調查員的訓練，基金會很快就把我派到蒙佩來了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "也許我會漏掉一些細節。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "青年想要給予寬慰，展露的笑容卻顯得有些生澀。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“警官”",
+          "text": "這一切都會逐漸熟練起來的，刻雷烏斯長官對我說，實戰才是最好的訓練。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“警官”",
+          "text": "或許，這就像“烏鶇”——也就是梅蕾爾，你在蒙佩見過她的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“警官”",
+          "text": "雖然她也接受過訓練，但始終沒能適應戰爭。其實我知道，她連在南極的時候都一直擔驚受怕的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "戰場的確十分殘酷……三個星期的普通軍事訓練，是無法讓人成為一名真正的士兵的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "帕拉維揚順著話題，試探性地提出了一個自己關心了很久的問題。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“警官”",
+          "text": "我聽說……騎士團有一套獨特的傳統神秘術訓練方法？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“警官”",
+          "text": "恐懼、痛苦，甚至是同理心，都能通過某種方法“凍結”起來，直到戰鬥結束之後再釋放。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“警官”",
+          "text": "——這麼說對嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "差不太遠了。但我想，現在不太適合談這些。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“警官”",
+          "text": "抱歉——我明白了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "不，沒事……我們還漏掉了哪些地方嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“警官”",
+          "text": "——讓我想想……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“警官”",
+          "text": "他們藏起來的東西會是什麼呢？——槍械、化學武器、作戰計畫，還是某些不屬於這個時代的裝備？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "我對重塑之手的瞭解不太多，也不清楚你們所說的其他時代……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "刺耳的爆裂聲在耳畔炸響，一顆飛濺的石子在她的盔甲上敲出尖銳的聲音。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "瑪爾紗",
+          "text": "帕拉維揚——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“警官”",
+          "text": "——裝甲車，村莊西北面，200米！找掩護！"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

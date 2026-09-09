@@ -1,6 +1,6 @@
 # Raise A Glass!
 
-- Chapter: El oro de los tigres (`104`)
+- Chapter: El Oro de los Tigres (`104`)
 - Episode: `10404`
 
 > Subtitle: See, we are all experts in Vodka.

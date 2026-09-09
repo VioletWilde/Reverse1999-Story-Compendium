@@ -1,0 +1,833 @@
+{
+  "episode_id": 2410105,
+  "chapter_id": 24101,
+  "chapter_title": "지구에서의 마지막 밤",
+  "display_label": "",
+  "title": "【2.4】地球上最后的夜晚05",
+  "subtitle": "",
+  "trails": [
+    {
+      "element_id": 2410105,
+      "owner_episode_id": 2410105,
+      "trigger_episode_id": null,
+      "title": "폐막식",
+      "description": "세상에 끝나지 않는 운동회는 없다.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=2410105",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "어머, 얘! 그래, 바쁘게 가는 너 말이다. 바람처럼 빨리도 가는구나. 어딜 가는 거니?"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "연극을 빨리 보고 싶어!",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "연극이라, 연극! 오오, 이야기를 좋아하는 아이구나! 이곳은 빈이지. 그러니 이곳에 온 건 너무도 당연한 일이야."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "제대로 찾아왔단다. 이곳은 바닥이 금으로 장식되어 있고, 이야기에는 음악이 깔려 있지... 그 어떤 문외한도 호기심에 눈 똑바로 뜨고 결말까지 볼 수도 있단다."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "어머, 내 입이 말썽이구나! 물론 네가 문외한이라는 건 아니야... 넌 눈이 높은 감상가잖니... 그럼 네가 떠나기 전에 내가 문제 하나 내봐도 될까?"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "네가 제일 좋아하는 이야기는 몇 막이니?"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "1막",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "시작이 반이라는 말이 있지! 넌 언제나 핵심을 잘 캐치해내더구나. 일이 어떻게 시작되는지, 또 운명이 우리를 위해 계획해 둔 길을 언제 걷게 됐는지 잘 알아야 해."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "3막",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "클라이맥스라! 맞아, 3부는 자극을 주는 전환점으로 가득하지. 마치 껍질을 벗긴 잘 익은 호박처럼... 가장 맛있는 부분이, 네가 기다리는 모든 것들이 바로 이곳에 있단다!"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "5막",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "그래, 맞아. 좋은 결말, 완벽한 끝맺음. 기립 박수를 치거나, 고개를 숙이고 눈물을 훔치겠지... 그건 네가 중간에 잠들지 않았다는 것에 대한 보상이자, 최고의 공연값이란다."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "다 좋아해",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "하하, 이 욕심쟁이. 넌 언제나 선택을 어렵게 생각하는 것 같더구나, 그렇지 않니? 하지만 우리는 항상 선택의 기로에 서지."
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "그런데 말이다... 내가 가장 좋아하는 건 몇 막인지 아니? 1막도, 3막도, 5막도 아닌..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "6막이란다. 최고의 순간이지."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "바닥에 처박았던 머리를 들어 올리는 국왕, 가슴에 박힌 검을 뽑는 기사, 미소 띤 얼굴로 폭군을 끌어안는 반역자, 죽었던 자들이 먼지를 툭툭 털고 일어나 모두 함께 웃으며 일렬로 서 손을 흔들고 허리를 숙이는 6부 말이야..."
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "그건 공연이 끝난 후잖아",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "아니, 그렇지 않단다, 이 장난꾸러기 녀석아! 진짜 공연은 바로 그때부터 시작해."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "나한테 좋은 시나리오가 있는데. 잠깐만, 안경을 좀 껴야겠어... 어어... 여기, 그러니까 6막부터 이야기를 시작해 보자꾸나."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "우리의 공주, 국왕의 아이, 다이아몬드로 가득 수놓아진 밤꾀꼬리... 모두의 주목을 받는 오페라 가수가 무채색 방으로 들어가면서 이야기가 시작돼."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "\"무대가 영원한 막을 내리고 난 뒤에도 그녀는 침착한 미소 지은 채, 여전히 꿈속에 있었다.\""
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "\"그들은 그녀의 광기를 경계했다. 그러나 판결이 내려진 지금, 그녀는 마치 정박해 있는 한 척의 배처럼 온순해졌다.\""
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "\"그녀는 무채색 옷을 입은 신사들을 향해 고개를 끄덕이며 인사를 했다. 목에 있던 족쇄도 가장 눈부시게 빛나는 보석처럼 변했다.\""
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "다음 페이지... 아아."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "어떻게 됐어?",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "\"투명한 방, 24시간 쉬지 않고 켜져 있는 조명, 인간의 존엄은 마치 땅바닥에 버려진 손수건 같았다... 그녀의 왕관이 부서졌고, 그들은 그녀가 그녀의 광기에 대한 대가를 치르기를 바랐다.\""
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "그녀가 미친건가?",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "아니... 이제는 그렇지 않아."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "\"‘이제 그만 자요. 그녀가 내게 이렇게 말했다. 자자, 그럼 나는 깨어날 필요가 없다.’\""
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "\"눈부신 아이는 영원한 꿈나라로 들어갔다. 걸리적거리는 빛은 마치 무대의 조명 같았고, 아무도 없는 방에는 가장 아름다운 울림이 존재했다. 그녀는 이렇게 평온했던 적이 없었다. 아름다운 그 모든 것이 그녀에게 있었다.\""
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "완전히 미쳤나 보군",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "...완전한 평온을 얻은 걸지도 모르지."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "\"그녀의 세계는 하나의 공연이 되어 무대에 재연되었고, 그렇게 영원히 막을 내리지 않았다.\""
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "정말 좋은 가수야, 그렇지 않니?"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "좋은 이야기는 아니네... 무슨 뜻인지 모르겠어",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "하하하, 넌 정말이지 눈이 높은 감상가구나."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "연극의 한 막만으로는 좋은 이야기를 전달하기 부족하단다."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "어머, 널 붙잡고 잔소리를 늘어놓느라 금빛 막이 오른 것도 모르고 있었구나."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "마지막으로 옷깃 정리하고, 이제 네 여정을 시작하렴."
+            }
+          ]
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 2410106,
+      "owner_episode_id": 2410105,
+      "trigger_episode_id": null,
+      "title": "신분의 위기",
+      "description": "레굴루스, 로큰롤 해적 모방 대회에서 1등을 차지하다.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=2410105 and ChapterMapElement=2410105",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "콩을 먹지 말라. 빵을 손으로 뜯지 말라. 흰 수탉을 보면 멀리해라. 이제 우리도 학파의 계율 몇 가지는 잘 숙지하고 있구나."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "이런 이야기를 나눈 지 정말 오랜만이네. 시간은 참 빨리 흘러. 이 늙은이의 머리로는 도저히 따라잡을 수 없어..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "촛불을 켜려면 새벽까지 기다렸어야지. 태양이 속아 모습을 드러내는 것을 늦췄을 테니 말이야. 그랬으면 우리가 더 많은 시간을 이야기할 수 있었을 텐데."
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "말도 안 돼",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "당연한 반응이야. 옛날 사람보다 자연의 법칙을 더 잘 아는 네가 촛불과 일출을 어떻게 연관 지을 수 있겠니. 그런데 말이다, 아주 오래전 사람들은 겪은 일들을 이렇게 생각했단다."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "추수 축제에 나팔을 채우니까 나무에서 열매가 맺히고, 들판에는 수확할 곡식으로 물결쳤네?"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "밤에 성냥을 켜니 달이 빛을 내네?"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "이렇게 세상을 이해하려는 것은 인간의 본능이야. 물론 그 당시에는 실수가 있었고, 잘못된 원인에 기인한 현상도 있고, 잘못된 추론에서 비롯된 이론도 있지."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "그렇게 ‘상징’은 광범위하게 사용되는 수단이 되었단다."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "예를 들면?",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "꽃은 축복과 수확을 상징하지. 우로보로스는 영원한 순환을, 독수리는 기민함과 지혜를, 흙은 안정감과 보호를 상징한단다."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "조금 더 간단한 것들을 볼까. 원은 보호를, 삼각형은 안정을, 삼중나선은 변화, 그리고 정신과 육체, 영혼의 통합을 상징하지."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "시간이 지나면서 비슷한 것들은 연관되어 점점 더 많은 상징이 만들어졌단다."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "너무 모호해",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "원인과 결과를 직접 눈으로 확인할 수 있기 때문에 어떤 것이 관련이 있고 어떤 것이 관련이 없는지 명확하게 알 수 있지. 만약 결과가 우리가 예상한 것과 다르다면 그 상징은 틀린 것이지."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "다시 말하자면, 물리적 형태가 잘못된 게 아니야. 물리적 사물은 절대 거짓말을 하지 않아. 잘못된 것은 그것에 부여된 의미와 개념이지."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "물건은 물건일 뿐, ‘본질’은 변하지 않아. 성냥이 달의 발광체가 아닌 성냥인 것처럼, 동물은 동물일 뿐이고, 원과 삼각형은 도형일 뿐이지..."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "그리고 ‘너’도 ‘너’일 뿐이고."
+            }
+          ]
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "202408",
+      "internal_title": "【2.4】地球上最后的夜晚05",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "콘스탄틴",
+          "text": "좋은 오후입니다, 회장님."
+        },
+        {
+          "kind": "title_card",
+          "text": "재단의 고위직 사무실"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "콘스탄틴",
+          "text": "평화가 우리와 함께하길."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "회장",
+          "text": "평화가 우리와 함께하길. 친구여."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "콘스탄틴은 살짝 고개를 끄덕였고, 그녀의 시선은 더 깊은 어둠 속으로 떨어졌다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "콘스탄틴",
+          "text": "제노 군사 아카데미의 내부 조직 개편이 완료되었고, 예상대로 이고르의 극단적 지지자 일부를 제외한 대부분의 인원은 이번 변절 사건을 모르고 있었습니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "콘스탄틴",
+          "text": "계획대로 ‘이고르 장군’의 장례식은 그의 지위에 걸맞게 진행되었으며, 제노의 장례 규정에 따라 모든 관련 인원은 장례식을 위해 남기로 했습니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "콘스탄틴",
+          "text": "현재 새로운 장군 후보자를 선정하는 중입니다. 곧 후보자 명단을 알려드리겠습니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "콘스탄틴",
+          "text": "그리고 티에라델푸에고로 특수 조사팀을 파견하여 이고르의 행방을 추적하고 있습니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "회장",
+          "text": "좋군."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "회장",
+          "text": "그 여자 아이는?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "넥타이를 맨 사람이 잠시 머뭇거렸다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "콘스탄틴",
+          "text": "여자 아이라면... 로페라를 말씀하시는 겁니까?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "콘스탄틴",
+          "text": "이제 어느정도 안정되어 잠시 남미 지부에 머무르도록 했습니다. 물론 필요한 조사는 진행할 예정입니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "회장",
+          "text": "잘 지켜보도록."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "회장",
+          "text": "아, 그리고 그 노래 부르는 걸 좋아하는 새도."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "콘스탄틴",
+          "text": "......"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "콘스탄틴은 조용히 몇 걸음 다가가서 목소리를 낮추고 말했다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "콘스탄틴",
+          "text": "미스 킴벌리의 처분에 불만을 품은 제노 측에서 더 철저한 조사를 해야 한다고 주장하고 있습니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "콘스탄틴",
+          "text": "강하게 반발하면 그들이 극단적인 태도를 취할까 우려되어, 우선 동의했습니다..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "회장",
+          "text": "쯧, 군인들의 집요함이란..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "콘스탄틴",
+          "text": "물론 제노 측에서 미스 킴벌리에 대한 조사는 재단의 감독 아래에서 진행하겠다고 약속했습니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "콘스탄틴",
+          "text": "별다른 문제가 없다면 미스 킴벌리는 타임키퍼 소대에 합류해 다른 멤버들과 동일한 권한을 부여받고, 타임키퍼의 지휘를 받게 될 것입니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "회장",
+          "text": "좋아, 버틴을 너무 오래 기다리게 하면 안 되네."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "제노의 장기 말이 무사히 자리를 잡자, 콘스탄틴은 조용히 안도의 한숨을 내쉬었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "콘스탄틴",
+          "text": "전해드릴 소식이 더 있습니다. 타임키퍼 소대가 Z에게 새로운 정보를 보냈습니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "콘스탄틴",
+          "text": "타임키퍼가 시드니 항구에서 재건의 손 흔적을 발견했다고 합니다. ‘프리브리즈 호’라는 크루즈에 숨어 있을 가능성이 매우 높다고 하더군요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "콘스탄틴",
+          "text": "만약 그렇다면 현장 조사 팀이 조사에 애를 먹었던 이유도 설명이 됩니다. 재건이 이번에도 흔적을 잘 숨긴 것 같습니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "회장",
+          "text": "그 배의 목적지는 어디라고 하던가?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "콘스탄틴",
+          "text": "아직 확실하지 않지만, 나방의 첩보에 따르면 ‘프리브리즈 호’는 막 오세아니아 군도를 지나갔다고 합니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "회장",
+          "text": "흠, 꽤 놀라운 진전이군."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "콘스탄틴",
+          "text": "네."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "콘스탄틴의 말투에 알 수 없는 자신감이 느껴졌다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "회장",
+          "text": "잘 진행되고 있어서 다행이야."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "회장",
+          "text": "버틴에게 새로운 임무를 주지."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "콘스탄틴",
+          "text": "크루즈에 타라고 할까요?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "회장",
+          "text": "다 큰 아이를 언제까지 우리 밑에 둘 순 없잖아."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "콘스탄틴",
+          "text": "...알겠습니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "회의실은 다시 조용해졌다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "계단식 대리석 기둥과 창문 너머로 하얀 눈꽃이 흩날렸다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "하얀 비둘기가 회장의 손 위에 내려앉아 가볍게 그의 손을 쪼았다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "회장",
+          "text": "이보게 친구, 무슨 일이기에 직접 다녀온 건가?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그는 고개를 숙여 상대방이 그의 손끝을 문지르도록 두었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "회장",
+          "text": "아... 아... 음..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "회장",
+          "text": "......"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그 하얀 눈송이가 다시 나풀나풀 날아갔다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "회장",
+          "text": "라플라스가 재단에 ‘인공 폭풍우’의 지원을 요청했군?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "콘스탄틴",
+          "text": "네, 울리히가 이 프로젝트를 감독하고 있으며, 그가 비대칭 핵종 R을 라플라스 호주 지부에 제공해 줄 것을 재단에 요청했습니다. 많을수록 좋다면서요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "콘스탄틴",
+          "text": "또한 실험 환경에 맞는 장소 좌표를 찾는 데 저희 조사원들이 협력해 주길 원하고 있습니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "콘스탄틴",
+          "text": "연구 센터의 요구 사항을 충족하는 자료를 받았는데..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "콘스탄틴은 자기도 모르게 잠시 말을 멈추었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "콘스탄틴",
+          "text": "호주 지부에서 가장 가까운 실험 좌표는 ‘프리브리즈 호’입니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "회장",
+          "text": "무슨 말인지 알겠네."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "콘스탄틴",
+          "text": "재건의 손에 대한 우리의 현재 계획에 차질이 생길까 봐 걱정됩니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "회장",
+          "text": "연구 센터의 ‘인공 폭풍우’ 프로젝트를 전폭적으로 지원해 줘."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "예상하지 못한 결정이었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "콘스탄틴",
+          "text": "하지만 나방의 상태가 아직 명확하지 않습니다. 너무 성급하게 진행하면..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "콘스탄틴",
+          "text": "위험에 빠트릴 수 있습니다..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "회장의 눈에 상대방의 망설임이 포착되었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "회장",
+          "text": "흠, 자네라면 이런 상황이 올 거라고 예상했을 텐데."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "회장",
+          "text": "게임에서 이기려면 장기 말 몇 개는 희생해야 하지."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "회장",
+          "text": "자네는 그 누구보다 잘 알고 있지 않나?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "콘스탄틴",
+          "text": "......"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "콘스탄틴",
+          "text": "이것도 팍스 하우스의 결정입니까?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "회장",
+          "text": "그렇네..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "콘스탄틴",
+          "text": "알겠습니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "콘스탄틴",
+          "text": "타임키퍼와 울리히에게 임무를 전달하겠습니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "회장",
+          "text": "고맙네. 두 사람의 만남이 기대되는군."
+        },
+        {
+          "kind": "title_card",
+          "text": "‘폭풍우’ 팀 사무실"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "울리히",
+          "text": "또 만났네요, 타임키퍼."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "다시 만나서 반갑습니다, 울리히 씨. 레굴루스와 잘 만났다고 하던데요?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "울리히",
+          "text": "솔직히 말하자면, 과학의 발전에 대한 레굴루스의 열정과 헌신은 제 생각보다 훨씬 뛰어나더군요. 과장이 아니라, 우리 팀에 그런 사람이 있다는 게 정말 감사할 따름입니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "유리 어항의 자성 유체는 꽤 안정적이었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "방금의 말들이 진심이라는 걸 잘 알 수 있었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "......"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "‘프리브리즈 호’의 상황은 아직 불분명합니다. 아직 얼마나 많은 재건의 손 추종자들이 탑승했는지 알 수 없습니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "저희 계획은 일반 승객으로 크루즈에 탑승하는 것입니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "레굴루스가 ‘프리브리즈 호’에 친분이 있는 선원의 도움으로 저희의 승선 기록을 미리 수정했다고 합니다. 다른 사람의 이목을 끌지 않을 거예요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "울리히",
+          "text": "대단하네요! 음... 레굴루스 연구원이 신청한 그 엄청난 경비가 개인의 즐거움을 위한 게 아니었군."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "울리히는 혼잣말을 중얼거리며 다시 자신의 업무를 떠올렸다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "울리히",
+          "text": "시간차를 두고 탑승해야겠군요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "울리히",
+          "text": "재건의 손 행방을 발견하면 연락하겠습니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "울리히",
+          "text": "계속 연락하죠. 선내에서 뵙겠습니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "떠나기 전 자신 있게 가슴을 두드리던 모습에 한결 안심했다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "저희도 울리히 씨의 연구에 적극적으로 협조하겠습니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "울리히",
+          "text": "아뇨, 아뇨. 안 그래도 됩니다!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "울리히",
+          "text": "아, 오해하지 마세요. 다른 뜻은 없습니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "울리히",
+          "text": "사실 이 실험이 대외적으로는 기밀이라서요. ‘인공 폭풍우’ 프로젝트의 외부 기대와 리스크 제어를 생각해서, 저희의 연구는 비밀로 해주셨으면 합니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "울리히",
+          "text": "아, 그리고 ‘프리브리즈 호’에서 우리는 서로 모르는 사이인 겁니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "...좋아요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "울리히",
+          "text": "걱정하지 마세요. 잘 위장할 거니까요."
+        }
+      ]
+    }
+  ],
+  "fallback_fields": [
+    "title(internal)"
+  ]
+}

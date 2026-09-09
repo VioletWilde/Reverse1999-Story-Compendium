@@ -1,6 +1,6 @@
 # In the Toffee Jar
 
-- Chapter: Green Lake Nightmare (`12101`)
+- Chapter: A Nightmare at Green Lake (`12101`)
 - Episode: `1210107`
 
 > Subtitle: She licked the glittering wing dust from her hand, recalling the tooth fairy's taste as it burst in her mouth.

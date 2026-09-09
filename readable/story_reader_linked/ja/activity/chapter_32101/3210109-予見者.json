@@ -1,0 +1,778 @@
+{
+  "episode_id": 3210109,
+  "chapter_id": 32101,
+  "chapter_title": "うつろう饗宴",
+  "display_label": "",
+  "title": "予見者",
+  "subtitle": "今から、運命について語るのは禁止だ。おっと、これでは約束を破ってしまったな。",
+  "trails": [
+    {
+      "element_id": 3210304,
+      "owner_episode_id": 3210109,
+      "trigger_episode_id": null,
+      "title": "友人より",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=3210109",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "親切な友人から、占いの絵葉書が届いた。裏面の図柄が、今週のあなたの運命を決めるという。絵葉書を反転させたとき、目に飛び込んだのは："
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "優しく絡み合う曲線",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "孤立したすべての釘を避けて通る。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "角張りの鋭い折れ線",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "線の鋭さは、紙面を貫くほどだ。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "隅が欠けた正方形",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "形は欠けても、本質が正方形であることはわかる。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "完全無欠な円",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "最も完全で、最も非の打ち所のない図形。"
+            }
+          ]
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 3210404,
+      "owner_episode_id": 3210109,
+      "trigger_episode_id": null,
+      "title": "その名前…",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=3210109",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "その時、ミス・グレイッシュブルーは無人の助手席に向かって声を荒げたの。存在しないはずの友人に怒っていたのよ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "確か…フリシーア？　いいえ…フェリシエンヌ？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "間違いない、フェリシエンヌだわ。名前自体は覚えがあるの、同名の人との交流していた時期があったから。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "同一人物の可能性は？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "「ベリル」や「アデル」に比べると、確かにめずらしい名前ね。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "けれど、運命がどれだけいい加減だったとしても、そこまでいい加減なことはしないはずよ。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "そんなつまらない流れで、私とミス・グレイッシュブルーを結びつけたりはしないわ。運命が自らの滑稽さを証明するつもりがない限りはね。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "ふふふ。冗談がお上手ね。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "フェリシエンヌはフランス人共通の記憶じゃないわ。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "今までの物語があなたをそう思わせたのかもしれないけれど、結論を出すのはまだ早いわよ。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "それに、私が知っているフェリシエンヌも、どこにでもいる「フェリシエンヌ」だとは思われたくないでしょうね。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "彼女が引いている血は普通ではないもの。少なくとも第二次産業革命前までは、彼女の血脈そのものが高貴を意味していたから…"
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "貴族だったんだね",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "ええ。代々伝わる雷の神秘術を誇りにしていたけれど、発電機が発明された後、その一族は社交界での影響力をほぼ失ってしまったわ。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "それでも一族の遺産は２００年でも使い切れないほどだから、彼女が晩年まで貴族らしい生活を送るのには十分でしょう。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "戦士、英雄、雷の祭司…彼女はそう自分のことを誇っていたわ。すべては、一族が神秘術を使って、各時代で勝ち取ってきた肩書きよ。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "一族が経営していた最後のアルミニウム製造事業が発電機に奪われてから１００年以上も経っているのに、彼女は一族の歴史をすべて覚えていたの。"
+                },
+                {
+                  "kind": "choice",
+                  "speaker": "",
+                  "text": "ということは、彼女は「ストーム」前の人だ",
+                  "edge_label": "",
+                  "branch": [
+                    {
+                      "kind": "dialogue",
+                      "speaker": "？？？",
+                      "text": "正解よ。彼女が生まれた時には、「ストーム」はまだ発生していなかった。"
+                    },
+                    {
+                      "kind": "dialogue",
+                      "speaker": "？？？",
+                      "text": "でも大事なのはそこではなくて…「ストーム」が起きる前の人物でも、様々な時代の人と知り合えるのよ。あなたやあなたのお友だち…そして、私とグレイッシュブルーのようにね。"
+                    }
+                  ]
+                },
+                {
+                  "kind": "choice",
+                  "speaker": "",
+                  "text": "逆行したんだね",
+                  "edge_label": "",
+                  "branch": [
+                    {
+                      "kind": "dialogue",
+                      "speaker": "？？？",
+                      "text": "ええ。私が知っているフェリシエンヌは、「ストーム」が降ったあの時に消えたわ。"
+                    },
+                    {
+                      "kind": "dialogue",
+                      "speaker": "？？？",
+                      "text": "だからよほどの奇跡でも起きないと、彼女には会えないでしょう。"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "きっと強力な神秘術を扱うんだろうね",
+              "edge_label": "",
+              "branch": []
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "フランス人ならみんなフェリシエンヌを知ってる？",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 3210504,
+      "owner_episode_id": 3210109,
+      "trigger_episode_id": null,
+      "title": "友人より",
+      "description": "",
+      "action": "",
+      "unlock_condition": "ChapterMapElement=3210304",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "親切な友人から、占いの絵葉書が届いた。裏面の図柄が、今週のあなたの運命を決めるという。絵葉書を反転させたとき、目に飛び込んだのは："
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "優しく絡み合う曲線",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "孤立したすべての釘を避けて通る。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "角張りの鋭い折れ線",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "線の鋭さは、紙面を貫くほどだ。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "隅が欠けた正方形",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "形は欠けても、本質が正方形であることはわかる。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "完全無欠な円",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "最も完全で、最も非の打ち所のない図形。"
+            }
+          ]
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "203213",
+      "internal_title": "【3.2】迁流的盛宴09",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "アデル",
+          "text": "シーリア？　シーリア〜？　…やっぱりいない。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "アデルは隣の部屋の前へ立つと、ポケットからカギを取り出した。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アデル",
+          "text": "まずはあたしの家を探してみるしかないか。"
+        },
+        {
+          "kind": "title_card",
+          "text": "アパートの部屋"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "水晶工房ほどではないが、アパートの中はもので溢れ返っていた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "磨かれていない原石、展覧会のパンフレット、街と下水路の地図、機械を修理するための道具…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アデル",
+          "text": "えっと…ちょっと待ってくださいね。シーリアの物がいっぱいで…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "ベリルは積み木のように整然と並べられた小物の中から、フレームで飾られた一枚の写真を見つけた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ベリル",
+          "text": "これ、あなたとミス・シーリア？　ずいぶん仲が良さそうね。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "白黒の写真には二人の少女が鮮明に映っていた。一人は興味津々にカメラを見つめ、もう一人は緊張のせいか画面から飛び出しそうになっている。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アデル",
+          "text": "はい。うちの両親は冒険ばっかりで…シーリアと一緒に育ったようなものです。小さい頃は、よく彼女の家で食べさせてもらったりして…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "アデルは引き出しを一つ一つ開けながら言葉を続けた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アデル",
+          "text": "シーリアは大人しい子に見えるけど、誰よりも勇敢なんです。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アデル",
+          "text": "今じゃあたしなんかより、よっぽど立派な志を持っていて…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アデル",
+          "text": "ほしい時に限って見つからないもんだなぁ…これなら使えますか？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "アデルは一番下の引き出しから手紙の束を取り出した。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "ほぼほぼ同じに見える数々の封筒には、世界各地の切手が貼られ、きれいな筆跡で一行記されていた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "「わが娘　アデル・タヴェルニエへ」"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "ベリルはその中から一通を手に取り、じっくりと観察した。切手はめくれ上がり、微かに黄ばんではいるものの、封筒は真新しかった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アデル",
+          "text": "マダム・ベリル？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "アデルは我慢できずに声をかけた。何かを察したかのようなベリルの表情に不安を感じただけでなく、手紙の来歴についても突かれたくはなかったためだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ベリル",
+          "text": "この手紙は…ええ、もちろん使えるわ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "彼女はアデルの足元にある空になった引き出しを一瞥した。それは一番よく使われているであろう机の、一番目立たない場所にあった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ベリル",
+          "text": "ご両親はかなり前からパリに戻ってきていないようね。ミス・シーリアと仲良くなるのも理解できるわ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アデル",
+          "text": "そんな大したことじゃありませんけどね。そもそも一緒に過ごした時間のほうが少ないぐらいだし。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ベリル",
+          "text": "なるほど。あなたの大切な友人を探すため、全力を尽くしましょう。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "ベリルはあくまでいつも通りの態度で、手紙を一通一通めくっていった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "その瞳は徐々に焦点を失うが、手が止まることはなかった。文字を指で撫で続け、中に隠された輝きを探している。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "やがて、彼女の瞳に光が戻った。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ベリル",
+          "text": "ご友人はこの街に呑み込まれ、暗い洞穴へと落ちたわ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ベリル",
+          "text": "大ペストの負の遺産、地下にあるもう一つの世界…舞い踊る亡霊とともに。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アデル",
+          "text": "呑み込まれて…落ちて…地下にあるもう一つの世界に…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "運転手は眉をしかめていたが、すぐにある場所を思いついた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アデル",
+          "text": "あぁ、地下墓地のことだ！　そういえば昨日、死の舞踏の研究を進めるって言ってた！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アデル",
+          "text": "きっとドクロが描かれた壁画を観察できる、カタコンブにいるんだ！　ったくもう、昔からそういう場所にばっか行くんだから…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アデル",
+          "text": "急にすごい単語が飛び出してきたから、びっくりしましたよ。てっきり、本当に「もう一つの世界」に行ったのかと…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "目的地を得た若者はすぐさまアパートを出ようとするが、占い師に呼び止められた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ベリル",
+          "text": "――彼女の運命の中にあなたも見えたわ、ミス・アデル。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アデル",
+          "text": "え？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ベリル",
+          "text": "それでも向かうのなら、そこで犠牲者が出るわ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アデル",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "それはアドバイスではなく、明言だ。ベリルには確かに、遥か遠い何かが見通せるのだと、アデルは確信した。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "しかし、その事実に対しアデルは軽く微笑むだけだった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アデル",
+          "text": "そういう話は、小さい頃からよく聞かされてきましたよ。でもそんなふんわりとした予言を理由に、あたしが知りたいことを…シーリアを諦めるわけにはいきません。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アデル",
+          "text": "あたしなりの運命に対する敬意、それが自分の判断に従うことだから。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "ベリルはただ静かに彼女を見つめる。その透き通った視線を受け、アデルは妙な気分になった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "その視線は、今この瞬間を見ているのではなく、その先にあるどこか遠くを見ているような――"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "しばらくして、彼女は口角を曲げ、いつものように優雅な口調で答えた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ベリル",
+          "text": "――そうね。あなたならそう答えるでしょう。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "二人はアパートから出た。運転手の足取りは時間の流れを引き留めるかのように重い。親友の居場所が知れたが、彼女の疑問は少しも解決していなかった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アデル",
+          "text": "…マダム・ベリル。占い師にとって、夢はコントロールできるんですか？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ベリル",
+          "text": "劣化した精神が物質になれるように、上質な物質もまた精神になり得るわ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ベリル",
+          "text": "そして、形ある物質は常に交換と干渉が働く。答えになっているかしら？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アデル",
+          "text": "つまり、あなたほどの占い師にとって、夢をコントロールするのは難しいことじゃないと。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "彼女はかなり鋭く指摘した。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "しかしベリルの笑顔を破るにはまだ程遠く。占い師は振り向くと、いつもの表情でアデルを見つめた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ベリル",
+          "text": "ミス・アデル。あなたの夢を操ったことはないわ。それが信じられないのなら、そもそもこの占いを行う必要もなかったはずよ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アデル",
+          "text": "いえ、そんなつもりで言ったわけじゃないんです。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アデル",
+          "text": "ただ、夢が現実になるっていうのがどうしても信じられなくて。その仕組みは占い師が詳しそうだけど…最近会った占い師は二人しかいないし、一人は死んでしまったわけで…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ベリル",
+          "text": "かまわないわ。私があなただとしたら、きっと私を疑うもの。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アデル",
+          "text": "ご理解ありがとうございます…家はどの辺りですか？　一番早いルートでお送りします――"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "アデルは優良運転手らしい仕草で助手席のドアを開く。ところが、そこには他の人物が座っていた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アデル",
+          "text": "マドモアゼル？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "フェリシエンヌ",
+          "text": "待ちくたびれたわ！　どう説明するつもり、アデル？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "もう一人の失踪者が現れたことに、アデルはホッと胸を撫で下ろした。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アデル",
+          "text": "はぁ...あのですね、お嬢様。今はどこもかしこもストライキ真っ只中なんですから、あなたのような貴族のお嬢さんは勝手に歩き回らないほうが――"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アデル",
+          "text": "…って、そのネックレス！　どこで手に入れたんですか？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "フェリシエンヌ",
+          "text": "とぼけないで。今まで私を忘れていたことへの弁明は？　自分の忠誠心と名誉を守るための言い訳は？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "彼女はマカロンを手に取りながら、皮肉めいた言葉を吐いた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アデル",
+          "text": "それはシーリアがくれたネックレスなんです！　どうしてあなたが持ってるんですか！？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "アデルは急いでポケットを探ったが、そこには何もなかった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "フェリシエンヌはマカロンを置くと、首にかけているネックレスを指で持ち上げた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "フェリシエンヌ",
+          "text": "はあ？　シーリアが？　あなたにあげた？　笑わせるわね。こんな国家レベルのお宝が、あなたの友達のものであるはずがないでしょ？　馬鹿げた話はやめてもらえる？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "フェリシエンヌ",
+          "text": "一度説明するから、よーく肝に銘じておいて。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "フェリシエンヌ",
+          "text": "こ・れ・は・わたしのものよ！　わたしがこの手で取り戻した宝物、これまでの冒険の中で一番の収穫物よ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "フェリシエンヌ",
+          "text": "未来に傷つけられなかった、バロン家の宿願、かの美しき時代の遺物。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "フェリシエンヌ",
+          "text": "これはわたしのダイヤよ！　わかった？　誰のものでもない、わたしのものよ！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "フェリシエンヌ",
+          "text": "高慢な令嬢は宝石を握り締め、アデルを見つめた。その口調は確かに怒っているのに、目はこれっぽっちも怒っていない。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "まるで、自分が怒るに値しない、役立たずの道具を見ているかのようだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アデル",
+          "text": "え…？　何を…言ってます？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ベリル",
+          "text": "ミス・アデル、大丈夫？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "ベリルは今にも倒れそうな運転手を支えた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ベリル",
+          "text": "まだ「フェリシエンヌ」のことを心配しているの？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アデル",
+          "text": "心配？　心配もなにも、目の前にいるじゃないですか。それにしてもまったく、一体どうやってそのネックレスを手に入れたんです、マドモアゼル・フェリシエンヌ？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アデル",
+          "text": "…マドモアゼル・フェリシエンヌ？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "ベリルはアデルが指さす助手席を見て――"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "――少し黙り込んだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ベリル",
+          "text": "…ミス・アデル、よく見てちょうだい。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ベリル",
+          "text": "助手席には誰も座っていないわ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ベリル",
+          "text": "ドアを開けてから、あなたはずっと空気と言い争っていたのよ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "しばらくして、アデルはようやく声を発することができた。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "アデル",
+          "text": "…え？"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

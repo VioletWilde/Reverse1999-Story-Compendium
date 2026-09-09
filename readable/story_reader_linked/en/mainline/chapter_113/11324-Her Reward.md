@@ -1,6 +1,6 @@
 # Her Reward
 
-- Chapter: 他者的悲哀 (`113`)
+- Chapter: On Another's Sorrow (`113`)
 - Episode: `11324`
 
 > Subtitle: Walk free from the maze of lies and find a treasure as light as breath.

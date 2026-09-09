@@ -1,4 +1,4 @@
-# Anecdotes · To Wennifred
+# Anecdotes · To Winnifred
 
 - [190901 An Old Dream Left](190901-An Old Dream Left.md) — I often think of that place, with the lake water seeping through the cabin and the desk lamp calmly strolling amid cobwebs and beams.
 - [190902 Savior out of the Blue](190902-Savior out of the Blue.md) — She saved a potential embarrassment and salvaged a heart that couldn't let go.

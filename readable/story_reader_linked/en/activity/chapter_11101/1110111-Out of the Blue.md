@@ -1,6 +1,6 @@
 # Out of the Blue
 
-- Chapter: The Rimet Cup (`11101`)
+- Chapter: The Theft of the Rimet Cup (`11101`)
 - Episode: `1110111`
 
 > Subtitle: One ticket for multiple shows, you don't get such a good bargain everyday.

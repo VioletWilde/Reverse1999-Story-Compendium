@@ -1,0 +1,851 @@
+{
+  "episode_id": 11311,
+  "chapter_id": 113,
+  "chapter_title": "他者的悲哀",
+  "display_label": "",
+  "title": "歧路",
+  "subtitle": "事已至此，請自謀生路吧！",
+  "trails": [
+    {
+      "element_id": 1131101,
+      "owner_episode_id": 11311,
+      "trigger_episode_id": null,
+      "title": "花的密語",
+      "description": "花心流淌出蜜、眼淚與她的低語。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=1311",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "花香幽遠"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "[一朵隨“風”而來的花，花心飄散出蜜的香味與柔和的女聲]\n\n普萊瑪，伊戈爾與他的獅鷲軍救下了基金會的支援車隊，希望你能盡可能把他們拖在這裡，但也僅僅是拖住他們的腳步即可。\n不用好奇，我的確沒有答應參與這場行動，我也依然反對去襲擊學校，無謂的鬥爭與流血對神秘學家的未來並無益處……但，我畢竟還要履行我的職責，無論如何，我們都要為祂的大業盡心竭力。好了，我只負責傳遞這則消息，不必來尋找我，我很快就會離開。\n\n[芬芳的幽香和飄渺的聲音一同消失了]"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1131102,
+      "owner_episode_id": 11311,
+      "trigger_episode_id": null,
+      "title": "秘密通訊",
+      "description": "盟友之間總要有一些秘密的通訊方式。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=1311",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "閱後即焚"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "[一支突然開始發熱的羽毛筆被從軍裝大衣口袋中拿出，擱置於一張白紙之上，羽筆憑空而動，寫下一行行帶有燒焦痕跡的字跡]\n\n第一防線學校剛剛受到重塑之手的襲擊，我即將前往援助。事發突然，又值基金會擴大收容之時，目前總部內人員混雜，我懷疑重塑之手的計畫並不單純。如你方有額外相關情報，懇請共享必要資訊，萬分感謝。距離“暴雨”已不足3小時，務必謹慎行事。\n\n[當將軍閱讀完最後一個字，羽筆的光芒黯淡下來，所有字跡一同燃燒，將白紙瞬間吞噬，連一絲灰燼也沒有剩下]"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "101319",
+      "internal_title": "第十三章13-11.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "歧路"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛佩拉",
+          "text": "幫個忙，幫我把帕拉維揚拖過來——注意別走出我的煙霧！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "士兵們壓低身體，將一具沉重的軀體拖到掩體後方。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "從坩堝中湧出的煉金術迷霧為受困的第一梯隊提供了臨時的掩護。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛佩拉",
+          "text": "噢……他這個樣子看起來不太好。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "帕拉維揚",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "帕拉維揚",
+          "text": "放開我，我們完蛋了，我們……我們全都會死在這……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛佩拉",
+          "text": "你在說什麼呢，振作點！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "帕拉維揚",
+          "text": "我不想再參加什麼戰鬥了，無論輸贏都沒有意義。這個世界要完蛋了……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "帕拉維揚",
+          "text": "基金會，重塑之手，還是別的什麼東西，都算了吧……讓我躺在這裡，我起不來了……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛佩拉",
+          "text": "……你沒受很重的傷啊，怎麼會這樣？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "葉爾莫萊",
+          "text": "讓一讓！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "“獵犬”擠了過來，順便一腳把身旁的一具黑色的屍體踢下山坡。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他低下身子，把垂頭喪氣的帕拉維揚翻了個身。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛佩拉",
+          "text": "等等……他的傘上有個大洞！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "他低頭解開帕拉維揚腰間的扣具，為他換上新的平衡傘。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "葉爾莫萊",
+          "text": "我就猜到是這樣。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "葉爾莫萊",
+          "text": "這小子沒注意到自己的傘已經壞了，和沒有傘的人一樣受到了時代病的影響。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "葉爾莫萊",
+          "text": "我遇到的好幾個人有類似的情況——外表看不出來什麼變化，腦袋已經被失敗主義和絕望情緒給灌滿。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "葉爾莫萊",
+          "text": "這和1914年的那次“暴雨”造成的戰爭狂熱正好相反。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛佩拉",
+          "text": "你的新平衡傘哪裡來的？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "葉爾莫萊",
+          "text": "他的原主人已經用不上了，但帕拉維揚也許還有救。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛佩拉",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "葉爾莫萊",
+          "text": "一時半刻也好不了，先讓他躺在這裡。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛佩拉",
+          "text": "找到突圍的辦法了嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "葉爾莫萊",
+          "text": "沒有，神秘術支援小組的人還在嘗試尋找破解術陣的方法。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛佩拉",
+          "text": "我可以——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "葉爾莫萊",
+          "text": "每個人都有要做的事。你是神秘學家，但沒受過術陣專家那樣的訓練就別亂插手，這種事我一個人類都懂。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "葉爾莫萊",
+          "text": "奧斯本已經倒下了，按照職級序列，我現在就是臨時指揮。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "葉爾莫萊",
+          "text": "之前佈置你和帕拉維揚去做的事完成沒有？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛佩拉",
+          "text": "已經在收尾的階段，不過就是那個時候帕拉維揚變得很不配合……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "葉爾莫萊",
+          "text": "還能繼續嗎？需要多久？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛佩拉",
+          "text": "可以，我的煉金術迷霧還能撐幾分鐘，再給我這麼些時間就夠了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "葉爾莫萊",
+          "text": "那好，我會帶人掩護你……準備好之後給我信號。"
+        }
+      ]
+    },
+    {
+      "script_id": "101320",
+      "internal_title": "第十三章13-11.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "洛佩拉",
+          "text": "——我準備好了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "葉爾莫萊",
+          "text": "全體撤退！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "被打退的士兵們跌跌撞撞地向更狹窄的防線退縮。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "重塑·門徒",
+          "text": "ㄨ……！！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "重塑之手乘勝追擊，眼看就要佔領原本基金會方防守的陣地。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛佩拉",
+          "text": "唔啊——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "佈置在陣地上的煉金術炸彈接連起爆，洛佩拉和重塑之手的士兵一同摔在坡道上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "帕拉維揚",
+          "text": "洛佩拉，你還好嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "從時代病中掙脫的帕拉維揚從山坡上滑下，在濃煙中搜尋煉金術師的身影。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "洛佩拉從一陣泥濘中爬起來。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛佩拉",
+          "text": "我沒事，平衡傘也沒事。只是這爆炸的威力……我總是猜不準。你這麼快就清醒了？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "帕拉維揚",
+          "text": "抱歉，我不會再出差錯了……讓我來掩護你。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "在爆炸掀起的濃煙中，影影綽綽地出現了更多敵人的影子，如同黑色的潮水。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "重塑·門徒",
+          "text": "進……攻！ㄠ——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛佩拉",
+          "text": "重塑之手到底埋伏了多少人？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她掏出手槍，重新躲回掩體。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛佩拉",
+          "text": "別過來，帕拉維揚，敵人沖上來了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "帕拉維揚",
+          "text": "——我看到他們了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛佩拉",
+          "text": "……該死的！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛佩拉",
+          "text": "帕拉維揚？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛佩拉",
+          "text": "嗯？這是……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一些過分熟悉的符文在土地上閃爍著輝光。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛佩拉",
+          "text": "不、不會吧——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛佩拉",
+          "text": "——唔！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她剛想站起，卻再一次摔在地上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "無數呐喊聲在耳內混溶為尖銳的啼鳴。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "迫近的腳步聲向她撲來。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "身旁的聲音Ⅰ",
+          "text": "我看到了，還有一個活的。我去看看。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "身旁的聲音Ⅱ",
+          "text": "小心。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "身旁的聲音Ⅰ",
+          "text": "這是……一個女孩？中尉，快過來看看。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛佩拉",
+          "text": "誰……？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她不喜歡在危險臨近時束手無策的感覺。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "洛佩拉摸索著抓起摔在一旁的左輪手槍，準備最後一搏。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛佩拉",
+          "text": "你……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "身旁的聲音Ⅱ",
+          "text": "別開槍！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛佩拉",
+          "text": "——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她感覺自己被整個抱了起來。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德爾",
+          "text": "洛佩拉！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛佩拉",
+          "text": "莫莉……怎麼會，是你？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德爾",
+          "text": "別動，我馬上帶你去安全的地方……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾",
+          "text": "……咳。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "托勒密",
+          "text": "您還好嗎，父親？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "將軍審視著戰場。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾",
+          "text": "重塑之手短時間無法再發動攻擊了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾",
+          "text": "托勒密，你去聯繫基金會的人，告訴他們，我們不是敵人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "托勒密",
+          "text": "遵命。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "獅鷲軍的出現帶來的混亂很快平息了——眼下所有人都需面對更多亟待解決的問題。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "托勒密",
+          "text": "和您想的一樣，基金會的人很快就冷靜下來了，沒有鬧出人命。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾",
+          "text": "是我們救了他們，這點他們不會看不出來。他們的指揮官是誰？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "托勒密",
+          "text": "他們的臨時指揮官叫葉爾莫萊，還算識相，沒有費多少口舌就願意和我們合作。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "托勒密",
+          "text": "從裝備來看，這些人應該是基金會的應急反應部隊。重塑之手差點一口把他們都吃了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "托勒密",
+          "text": "我去把葉爾莫萊叫來，還有……洛佩拉想見您。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "托勒密敬禮，轉身離開。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "洛佩拉在莫莉德爾的監護下，從另一個方向走來。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德爾",
+          "text": "洛佩拉，剛才的爆炸可能給你造成了內傷。我們之後還有時間談談，你一定要現在——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛佩拉",
+          "text": "不要管我。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德爾",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "洛佩拉轉向獅鷲軍的領袖。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛佩拉",
+          "text": "……你為什麼會來？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾",
+          "text": "盡我所能。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾",
+          "text": "我本應該抵達基金會總部的，但重塑之手的神秘術干擾讓我的傳送目的地發生了一些錯誤。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾",
+          "text": "不過，這樣我剛好可以救下你們。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛佩拉",
+          "text": "救下我們，然後呢？想要帶著我們去進攻基金會總部嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾",
+          "text": "我的本意是阻止基金會遭受毀滅性的打擊。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛佩拉",
+          "text": "什麼？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "老將軍沉默片刻，撇開了話題。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾",
+          "text": "你們有足夠派發給每一個人的平衡傘嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛佩拉",
+          "text": "把丟失的車輛找回來就有了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾",
+          "text": "那就是沒有。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾",
+          "text": "你們想要在最後抽籤決定，有誰拿不到傘嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛佩拉",
+          "text": "我們要去的是第一防線學校。那裡有免疫區，把學校的敵人驅逐之後我們就能在原地避雨。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾",
+          "text": "你們被困住了。你們能保證自己在“暴雨”落下前的短時間內突破重塑之手的包圍嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾",
+          "text": "只有我能帶你們離開這裡。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛佩拉",
+          "text": "離開？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾",
+          "text": "我要對跟我來的士兵負責。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾",
+          "text": "獅鷲軍沒有足夠的免疫設備，我們是在沒有任何掩護的情況下在“暴雨”前展開機動的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛佩拉",
+          "text": "沒有……你瘋了？你帶來的這些人，他們都沒有免疫“暴雨”的裝置？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛佩拉",
+          "text": "難道莫莉也是？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德爾",
+          "text": "……只要能在回溯發生之前回到庇護所，那一切就還來得及。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德爾",
+          "text": "願意跟隨父親過來的人也都是出於自願。請相信我，洛佩拉，我們原本是想提供一些幫助。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛佩拉",
+          "text": "你們怎麼會知道基金會正在遭遇什麼？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德爾",
+          "text": "我們獲取了一些情報，但它們來得太遲，錯過了最佳時機……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莫莉德爾",
+          "text": "洛佩拉，下一次傳送不一定能帶我們抵達正確的目的地，我們失去了支援基金會總部的機會。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "洛佩拉",
+          "text": "我絕不會——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "葉爾莫萊",
+          "text": "好了，洛佩拉，拜託你安靜一下，這裡該由我負責談話。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "臨時指揮官被托勒密帶了過來。他看著莫莉德爾帶走憤怒的女孩，隨後轉向獅鷲軍的領袖。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "葉爾莫萊",
+          "text": "你的副手告訴我，不會有基金會的援軍了？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾",
+          "text": "不會了。基金會總部正在面臨比這更加嚴重的危機。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "葉爾莫萊",
+          "text": "我倒是盼望著這一天，但不是該死的今天。到底發生了什麼？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾",
+          "text": "現在沒有時間詳細解釋。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾",
+          "text": "在“回溯”發生之前，我的力量只夠再開啟一次通道，以突破術陣的迷惑。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾",
+          "text": "而這一次，我只能選擇回到獅鷲軍的庇護所，這是我在重塑之手的干擾下確定能抵達的目的地。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾",
+          "text": "獅鷲軍可以協助你們的隊伍嘗試突破重塑之手的圍困，直到“暴雨”落下前的最後一刻。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾",
+          "text": "到那時，你只剩兩個選擇：與我們一同離開，或者繼續留在重塑之手的陷阱中，讓你的隊伍被“暴雨”回溯。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "葉爾莫萊",
+          "text": "……而前者意味著我們全都會被打上“叛逃”的標記，成為和你一樣的基金會通緝犯。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "老將軍望向基金會的方向，並未否認這一後果。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "葉爾莫萊",
+          "text": "老天，我可不想下次和老同事見面是被他們用槍指著。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "伊戈爾",
+          "text": "現在不是說這個的時候，敵人的下一波攻勢就要來了。"
+        },
+        {
+          "kind": "title_card",
+          "text": "會長辦公室"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "飽滿的寧靜充斥著基金會總部大樓最頂層的房間。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "低樓層戰鬥的震顫傳到頂部時，剛好可以撼動會長辦公室內的一粒灰塵。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "秘書長",
+          "text": "……願和平與我們同在。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "會長",
+          "text": "祂來了？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "秘書長",
+          "text": "已經目擊到阿爾卡納進入了委員會大樓，按照現在我方抵抗的有效性，祂預計會在三十分鐘後抵達最高層。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "會長",
+          "text": "最近的部隊要多久才能回援？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "秘書長",
+          "text": "地面部隊需要九十分鐘——回援意味著他們要在行軍途中穿越“暴雨”，所以只有少數配備平衡傘的隊伍能夠緊急機動。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "秘書長",
+          "text": "部分飛行巫師正在趕回來的路上。他們的速度更快，但數量不足，對室內戰鬥的作用也不大。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "會長",
+          "text": "為基金會總部的人員開放所有樓層和工具的使用權限，盡可能為所有人提供可以用於抵抗的武裝。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "會長",
+          "text": "這樣應該能多拖延三十分鐘。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "秘書長",
+          "text": "我是否可以理解為，基金會無力憑藉自己的力量解決現在的危機？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "白衣人拋出了一個明知答案的問題。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "會長",
+          "text": "是。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "秘書長",
+          "text": "請問司辰現在情況如何？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "會長",
+          "text": "聯繫不到她。基金會和第一防線學校之間的通訊在一小時前就已經中斷。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "幾隻白鴿——光潔得不似俗物——冷漠地停在會長辦公桌的邊緣。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "基金會會長握起一隻鴿子，輕輕撫摸。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "會長",
+          "text": "要多久才能等到鴿子屋的回音？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "秘書長",
+          "text": "很快。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "秘書長",
+          "text": "哲人王已經知道祂來了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "會長",
+          "text": "這樣就足夠了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "會長將白鴿舉在窗邊。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "會長",
+          "text": "願和平與我們同在。"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

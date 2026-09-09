@@ -1,10 +1,10 @@
 # Character Stories · Flowing in the Wind
 
-- [1660301 【1.6】葛天玩法剧情01](1660301-【1.6】葛天玩法剧情01.md) *(extra record)*
-- [1660302 【1.6】葛天玩法剧情02](1660302-【1.6】葛天玩法剧情02.md) *(extra record)*
-- [1660303 【1.6】葛天玩法剧情03](1660303-【1.6】葛天玩法剧情03.md) *(extra record)*
-- [1660304 【1.6】葛天玩法剧情04](1660304-【1.6】葛天玩法剧情04.md) *(extra record)*
-- [1660305 【1.6】葛天玩法剧情05](1660305-【1.6】葛天玩法剧情05.md) *(extra record)*
-- [1660306 【1.6】葛天玩法剧情06](1660306-【1.6】葛天玩法剧情06.md) *(extra record)*
-- [1660307 【1.6】葛天玩法剧情07](1660307-【1.6】葛天玩法剧情07.md) *(extra record)*
-- [1660308 【1.6】葛天玩法剧情08](1660308-【1.6】葛天玩法剧情08.md) *(extra record)*
+- [1660301 Dripping Inside the Hourglass](1660301-Dripping Inside the Hourglass.md) *(extra record)*
+- [1660302 A Flood of Memories](1660302-A Flood of Memories.md) *(extra record)*
+- [1660303 Want Something](1660303-Want Something.md) *(extra record)*
+- [1660304 Part Ways](1660304-Part Ways.md) *(extra record)*
+- [1660305 Heart of Flesh](1660305-Heart of Flesh.md) *(extra record)*
+- [1660306 The Limited Sky in the Teapot](1660306-The Limited Sky in the Teapot.md) *(extra record)*
+- [1660307 No More Astray](1660307-No More Astray.md) *(extra record)*
+- [1660308 After the Endless Plain](1660308-After the Endless Plain.md) *(extra record)*

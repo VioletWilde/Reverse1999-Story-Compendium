@@ -1,6 +1,6 @@
 # You and Us
 
-- Chapter: The Winds OF Juhalerat (`1910`)
+- Chapter: The Winds of Juhalerat (`1910`)
 - Episode: `191006`
 
 > Subtitle: And yet, trust was never given to us—not once.

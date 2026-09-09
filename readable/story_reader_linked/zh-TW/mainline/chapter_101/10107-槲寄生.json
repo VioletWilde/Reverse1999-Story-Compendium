@@ -1,0 +1,344 @@
+{
+  "episode_id": 10107,
+  "chapter_id": 101,
+  "chapter_title": "在我們的時代裡",
+  "display_label": "",
+  "title": "槲寄生",
+  "subtitle": "她就在這裡。不為了等待誰，也不為了懷念誰。",
+  "trails": [
+    {
+      "element_id": 1010701,
+      "owner_episode_id": 10107,
+      "trigger_episode_id": null,
+      "title": "小徑① 咒語升階",
+      "description": "一段記載，關於如何讓咒語更具威懾。\n咒語的融合升階，將深化咒語的影響，亦能改變神秘術的效果。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=10106",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1010702,
+      "owner_episode_id": 10107,
+      "trigger_episode_id": null,
+      "title": "神奇獨角獸",
+      "description": "蘇芙比宅邸藏品數有千萬，其中高懸於廳堂、生有獨角、報以凝視者的名為？",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=10106",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100110",
+      "internal_title": "第一章1-8.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "槲寄生"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "惡靈魔精",
+          "text": "————！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "惡靈魔精",
+          "text": "嘶——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "不行，它們的數量太多了。我們最多只能抵擋一輪攻勢，但堅持不了多久。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "魔精一直源源不斷地從樹根裡冒出來……難道這裡是它們的老巢？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "惡靈魔精",
+          "text": "……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "又來了。小心！"
+        }
+      ]
+    },
+    {
+      "script_id": "100111",
+      "internal_title": "第一章1-8.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "咳咳、咳咳……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "司辰。您看到我在地圖上的標記了嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "看到了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "那是我測算的距森林邊緣最近的位置。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "一分鐘後，我會掩護你們朝相反方向行動！記住，兩英里外有個減緩魔精追擊速度的斜坡！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "十四行詩小姐，你不跟我們一起走嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "如此規模的敵人壓制下，我們不可能全身而退！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "別擔心，一個人的行動策略反而更加靈活。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "只要敵人不是幽靈……不，就算是幽靈，我也一定能脫險制勝。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "我相信你",
+          "edge_label": "我相信你",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "十四行詩",
+              "text": "請相信我。就像……我們以前合作的一樣。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "我們在哪裡會合？",
+          "edge_label": "我们在哪里会合？",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "十四行詩",
+              "text": "……"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "十四行詩",
+              "text": "我總會找到您的。請趕緊撤退。"
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "走吧，APPLe先生。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "願和平與我們同在。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "惡靈魔精",
+          "text": "————！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "惡靈魔精",
+          "text": "——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "它們……都追過來了……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "……是件好事。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "或許是我們掩護了十四行詩。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "只要有一個人能離開這座森林，剩下的人就有被救援的希望。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "惡靈魔精",
+          "text": "——！！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "來不及爬上斜坡了。做好正面衝突準備！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "APPLe先生，還能堅持多久？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "儘管這不像一顆蘋果該說的話……但APPLe某會與你奮戰到最後一刻！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "惡靈魔精",
+          "text": "……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "維爾汀，小心！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "嗯？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "……失禮了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "能將我的高跟鞋遞給我嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "它好像掉到你懷裡了。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "……你是誰？",
+          "edge_label": "……你是谁？",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "槲寄生",
+              "text": "我是這座森林的主人，槲寄生。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "……你為什麼在這麼高的地方？",
+          "edge_label": "……你为什么在这么高的地方？",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "這裡是我的應許之地。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "槲寄生",
+              "text": "我是槲寄生，很高興認識你。"
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "……這只鞋……給你。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "謝謝，這樣我便能下來收拾殘局了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "赤足著地也無妨。不過……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "我不喜歡直接碰觸到它們——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "這些魔精侵入者們。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "惡靈魔精",
+          "text": "…………！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "竟然一擊就擊倒了上百個敵人？！是術杖的力量嗎……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "不對，術式的印記也非常古老。她一定有來自歐洲的神秘學背景。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "我已經很久沒有見到神秘學家的來訪者了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "謝謝你們幫我驅趕了魔精入侵者。那麼，剩餘的魔精……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "如林中絮語的預言一般，入侵者們，你們將為獻祭以換森林的寧靜。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "請讓我們一起協助你！"
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

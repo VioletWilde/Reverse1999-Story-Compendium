@@ -1,0 +1,861 @@
+{
+  "episode_id": 3210103,
+  "chapter_id": 32101,
+  "chapter_title": "흘러가는 축제",
+  "display_label": "",
+  "title": "만남의 예법",
+  "subtitle": "호기심 많은 생물에게 경고했다. 물병 넘어뜨리지 마!",
+  "trails": [
+    {
+      "element_id": 3210306,
+      "owner_episode_id": 3210103,
+      "trigger_episode_id": null,
+      "title": "자아 응시",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=3210103",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "샹젤리에 거리의 쇼윈도 앞에서, 당신은 어떤 물건을 발견하고는 시간 가는 줄 모르고 바라보았다. 쇼윈도 속 물건은:"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "검은 액체가 흐르는 클라인 블루 정장",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "거부할 수 없는 스타일이다."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "고대 크리터의 복원도",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "녀석들은 옛날부터 시끄러웠을까?"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "절반으로 갈라진 담뱃대 절단면",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "나머지 절반은 어디 있는지 궁금해 죽겠다."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "바늘이 역전된 천문 시계",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "분명 더 깊은 은유가 있을 것이다."
+            }
+          ]
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 3210402,
+      "owner_episode_id": 3210103,
+      "trigger_episode_id": null,
+      "title": "사업에 관하여",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=3210103",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "당시 전 파리에서 수정 사업을 하고 있었어요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "간단한 장식품으로 시작해 영성을 가진 수정까지, 뭐든 다 팔았죠. 당신의 가방 속에도 제 단골 손님이 있을 거예요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "하지만 많은 손님이 제 가게에 찾아와 수정은 사지 않고 예언만 원했어요."
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "원하지 않는 사람이 드물 것 같은데.",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "운명은 파는 게 아니에요. 누가 무엇을 얻을지는 이미 정해진 일이고, 예언은 정해진 선물 목록일 뿐인걸요."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "전 쓸모없는 것을 팔고 싶지는 않았어요."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "그래서 구두로 규정을 하나 정했죠. 단골 손님에게만 미래에 대해 이야기하기로 말이에요."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "그건 안 돼요. 예언은 당연히 무료여야 해요. 바꿀 수 없는 내용을 사전에 알려봤자 아무 가치도 없는걸요."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "소설 내용이 표지와 제목에 완전히 드러나서는 안 되는 것과 같아요. 그런 부분은 홍보용으로만 쓸 수 있잖아요."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "그래서 전 정말로 물건을 구매하러 온 손님과 담소를 나눌 때만 가끔 예언을 들려주곤 했답니다..."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "그랬더니 사업이 잘되기 시작했죠. 당시 파리에 투자했던 초기 비용을 금방 회수할 수 있었어요."
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "그건 놀랍지 않네.",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "네. 항상 그랬죠. 너무나도 뻔했어요..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "예언을 팔면 되잖아.",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 3210506,
+      "owner_episode_id": 3210103,
+      "trigger_episode_id": null,
+      "title": "자아 응시",
+      "description": "",
+      "action": "",
+      "unlock_condition": "ChapterMapElement=3210306",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "샹젤리에 거리의 쇼윈도 앞에서, 당신은 어떤 물건을 발견하고는 시간 가는 줄 모르고 바라보았다. 쇼윈도 속 물건은:"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "검은 액체가 흐르는 클라인 블루 정장",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "거부할 수 없는 스타일이다."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "고대 크리터의 복원도",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "녀석들은 옛날부터 시끄러웠을까?"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "절반으로 갈라진 담뱃대 절단면",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "나머지 절반은 어디 있는지 궁금해 죽겠다."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "바늘이 역전된 천문 시계",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "",
+              "text": "분명 더 깊은 은유가 있을 것이다."
+            }
+          ]
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "203203",
+      "internal_title": "【3.2】迁流的盛宴03.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "택시 내부"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "시동이 걸리자, 엔진의 약한 진동과 함께 검은 택시가 규칙적인 소리를 내며 앞으로 나아갔다. 부모님이 보낸 풍경 기념품이 창 앞쪽에서 약하게 흔들렸다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "그렇게 됐어. 또 점술사일 줄이야."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "하지만 뱅자맹 경관에 의하면 그 부아닉 씨는 이미 조사를 마쳤다고 해. 결백하대."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "펠리시엔느",
+          "text": "결백? 그건 모르는 일이지."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "펠리시엔느",
+          "text": "베릴 부아닉... 평범한 사람이 그녀의 생각을 쉽게 꿰뚫어 볼 수 있을 리가 없지."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "조수석에 앉은 승객은 디저트를 입안으로 던져 넣으며 살짝 이를 가는 것처럼 씹었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "어? 아는 사람이야?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "아델은 깜짝 놀란 듯 힐끗 쳐다봤다. 펠리시엔느가 이렇게 불쾌한 표정을 짓는 건 처음이었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "펠리시엔느",
+          "text": "방금 그게 마지막인 것 같은데."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "...내가 준비를 소홀히 했을 리가 없잖아? 여기 더 있으니 마음껏 먹어."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "아델은 직업 정신을 발휘해 화제를 바꾼 것에 대해 이의 제기하지 않고, 좌석 옆쪽에서 정교하게 포장된 상자를 꺼냈다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "펠리시엔느",
+          "text": "머리는 잘 돌아가네."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "펠리시엔느",
+          "text": "그래... 바로 이 맛이지."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "디저트를 정말 좋아하나 보네."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "아델은 펠리시엔느의 디저트 씹는 소리에 왠지 살짝 긴장됐다. 그녀는 핸들을 꽉 움켜쥔 채 눈앞의 도로에만 집중하려 애썼다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "펠리시엔느",
+          "text": "그 경찰은 베릴 부아닉이 어디에 있다고 했지?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "뤼 드 라 뻬. 그곳에 부아닉 씨의 수정 공방이 있대."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "펠리시엔느",
+          "text": "차 돌려. 지금 바로 가보자."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "조수석에서 익숙한 명령조의 말이 전해졌다. 다행히도 아델은 이미 능숙하게 대처할 방법을 터득했다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "펠리시엔느, 미안하지만 지금은 안 돼."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "오늘 저녁에 친구랑 약속이 있다고 했잖아."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "펠리시엔느",
+          "text": "그럼 그 친구한테 뤼 드 라 페에서 기다리라 해."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "곧바로 날카로운 시선이 파고들었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "펠리시엔느",
+          "text": "오늘치 급료 2배로 줄 테니, 지금 바로 차 돌려. 그러니까 그 망할 곳이 있는 방향으로 말이야."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "하지만..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "펠리시엔느",
+          "text": "3배... 아니, 10배를 줄게."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "10배...?!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "아델은 \"급료에 넘어가지 마라. 노동자에게는 휴식이 필요하다.\"라고 쓰여 있는 홍보물을 최근에 읽었음에도 자신이 정말로 흔들렸다는 사실을 인정하고 싶지 않았다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "안... 크흠, 안 돼! 정말 안 돼. 셀리아가 모처럼 시간을 낸 거라고."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "그동안 논문 쓰느라 바빠서... 뭐였더라... ‘초심리학’ 연구였나? 아무튼 못 만난 지 정말 오래됐단 말이야. 바람맞히고 싶지 않아."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "내일 꼭 같이 가줄게. 부르면 바로 달려갈 테니까."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "펠리시엔느",
+          "text": "정말 재미없네."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "펠리시엔느가 불쾌한 듯 눈을 가늘게 떴다. 그런데 다음 말을 내뱉기도 전에 갑자기 조수석에서 몸을 앞으로 확 내밀었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "펠리시엔느",
+          "text": "...잠깐! 저기 봐! 그 사람이야!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "뭐? 누구?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "펠리시엔느",
+          "text": "베릴 부아닉 말이야. 바로 저기에 있어! 빨리 차 돌려!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "잠깐, 함부로 건드리지 마! 위험하..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "끼이익...!!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "아델의 차가 긴 곡선을 그린 끝에 겨우 멈춰 섰다. 한편, 맞은편에서 달려오던 다른 차량은 가로등에 \"쾅\"하고 충돌했다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "흥분한 운전 기사",
+          "text": "망할! 대체 누가 운전을 이따위로 하는 거야?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "운전석에서 간신히 기어 나온 운전 기사가 아델을 향해 삿대질했다. 고함 소리에 차창이 한 차례 떨렸다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "흥분한 운전 기사",
+          "text": "거기! 당장 내리지 못해!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "펠리시엔느",
+          "text": "......"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "............"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "펠리시엔느",
+          "text": "왜, 날 쳐다봐? 안 들려? 널 부르잖아."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "...돌아온 후에 보자!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "아델은 차 문을 열며, 자신이 그래도 빨리 반응한 덕분에 심각한 사고가 일어나지 않아 다행이라고 생각했다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "거리에 베릴 부아닉으로 보이는 사람은 없었다. 모든 일이 퇴근길에 엎친 데 덮친 불행한 사건에 불과해 보였다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "아무리 급해도 그렇지. 그렇게 핸들을 꺾는 게 얼마나 위험한데! 하아... 나의 무사고 기록은 이렇게 끝나는구나."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그녀는 이마를 문지르며 어쩔 수 없다는 듯 한쪽에서 화가 머리끝까지 난 젊은 남자를 향해 다가갔다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "미안. 아까는 잠깐 한눈을 팔아서..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "흥분한 운전 기사",
+          "text": "미안? 미안하다면 다야? 지금 상황 파악이 안 돼?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "흥분한 운전 기사",
+          "text": "국가의 존망이 걸린 중요한 순간이라고! 단 일 초도 늦어서는 안 돼!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "분노에 찬 그는 자신의 차를 내리쳤다. 안 그래도 살짝 찌그러진 트렁크 덮개가 처량하고도 공허하게 울부짖었다. 구경하는 사람들이 갈수록 늘어났다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "국가의... 존망이라니?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "음, 특별히 중요한 일이 있다는 뜻이야? 아니면... 새로운 파업 구호라도 돼?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "흥분한 운전 기사",
+          "text": "제국의 진정한 주인이 돌아오셨다고. 나폴레옹 황제께서 이미 구프 주앙에 상륙하셨어! 그분이 다시 승리와 영광을 가져다줄 거야!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "흥분한 운전 기사",
+          "text": "지금 파리를 향해 달려오고 있지만, 곁에 고작 수백의 병사밖에 없어... 그러니 바로 집결해 그분의 곁으로 가야 한다고!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "제국? 구프 주앙? 대체 무슨 말을 하는 거야?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "남자는 진지한 표정으로 보건데, 서투른 농담을 하는 것 같지는 않았다. 아델은 충격에 빠진 표정으로 그를 바라보면서 순간 무슨 말을 해야 할지 몰랐다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "하지만 그는 이러한 반응을 또 다른 뜻으로 해석한 것 같았다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "흥분한 운전 기사",
+          "text": "그래... 넌 부르봉 왕조와 루이 18세의 하수인이구나. 그렇지?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "흥분한 운전 기사",
+          "text": "아우스터리츠의 태양이 나를 부른다! 넌 절대로 날 막을 수 없다!"
+        }
+      ]
+    },
+    {
+      "script_id": "203204",
+      "internal_title": "【3.2】迁流的盛宴03.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "흥분한 운전 기사",
+          "text": "이거 놔! 난 황제의 곁으로... 가야 한다고!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "진정 좀 해! 저기! 누가 좀 도와줬으면 하는데!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "주변 사람들의 도움으로 아델은 운전 기사를 차 지붕에서 끌어 내리는 데 성공했지만, 소란으로 인해 더 많은 구경꾼이 몰려들었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "둘러싼 관중Ⅰ",
+          "text": "가엾게도. 또 히스테리가 도진 사람인가 보네."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "둘러싼 관중Ⅱ",
+          "text": "내가 봐도 그런 거 같아. 헛소리만 늘어놓으니 멀리 떨어지는 게 좋겠어... 백일천하라니, 그건 백 년 전에 이미 끝난 이야기라고!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "저기, 누가 구급차 좀 불러줄 수 있을까?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "혹시 이 사람을 아는 사람 있어? 난 따로 급하게 볼 일이 있어서..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그녀는 자신의 찌그러진 차와 그 안에서 심드렁한 표정을 짓고 있는 아가씨를 바라보며 난처해했다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "바로 그때 둘러싼 사람들 사이로 틈이 하나 생기면서 학자 차림을 한 몇 명의 사람들이 힘겹게 현장으로 다가왔다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "정말 죄송합니다, 아가씨! 저희 제자가 폐를 끼쳤군요. 제가 전부 배상하겠습니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "연락처만 남겨주시면, 이후 일은 책임지고 처리하겠습니다..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "40대쯤으로 보이는 남자 한 명이 마침내 인파를 뚫고 나왔다. 손수건으로 이마에 맺힌 땀을 닦아낸 그의 학자다운 얼굴에는 미안한 기색이 가득했다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "학생으로 보이는 젊은 사람 몇몇이 그의 뒤를 따랐는데, 그들을 이끄는 여자아이의 얼굴은 아델이 누구보다도 익숙한 얼굴이었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "셀리아?!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "셀리아",
+          "text": "아델? 세상에. 무사해서 정말 다행이야!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "황급히 달려온 여자아이는 아델과 운전 기사가 무사한지 자세히 확인한 후에야 몇 발짝 물러나 뒤에 있는 사람을 간단히 소개하기 시작했다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "셀리아",
+          "text": "이쪽은 내가 전에 이야기했던 로조 교수님이야... 교수님, 이쪽은 제 친구인 아델이에요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "셀리아",
+          "text": "오늘 저와 함께 저녁 식사를 하기로 한 그 친구 말이에요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "셀리아는 빠르게 말을 마친 후, 무거운 짐을 내려놓은 것처럼 친구의 어깨를 토닥였다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "셀리아",
+          "text": "아델, 빈센트를 막아줘서 정말 다행이야. 네가 아니었다면 분명 따라잡지 못했을 거야..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "로조 교수",
+          "text": "맞습니다. 아델 씨가 빠르게 대응해 준 덕분입니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "예상치 못한 감사 인사에 아델은 머리를 긁적이며, 여전히 헛소리하는 운전 기사 쪽으로 화제를 돌렸다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "이 사람은 왜 그러는 거야?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "셀리아",
+          "text": "말하자면 길어... 빈센트의 정신 상태는 최근 몇 주 동안 계속 안 좋았어."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "셀리아",
+          "text": "오늘 시간이 늦었는데도 안 보이길래 그의 아파트까지 찾아갔거든. 문이 안 잠겨 있어서 들어가 보니 엉망진창이더라고..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "로조 교수",
+          "text": "아아, 가엾게도. 결국은 제 잘못이 아닌가 싶습니다. 너무 스트레스를 준 건 아닌지..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "남자는 셀리아의 말을 끊고, 고개를 저으면서 자책하는 표정을 지었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "로조 교수",
+          "text": "더 이상 여러분의 시간을 빼앗아서는 안 되겠죠. 셀리아, 빈센트의 일은 제가 처리할 테니, 이 아가씨와 식사하러 가세요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "셀리아",
+          "text": "하지만..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "로조 교수",
+          "text": "괜찮으니 가보세요. 내일 현장 조사에는 늦지 말고요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "젊은 여학생은 옆에 있는 아델을 힐끗 보더니, 결국 교수님의 호의를 받아들였다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "일행이 그 가엾은 젊은이를 부축해 데려가자 구경하는 사람들도 서서히 흩어졌다. 그리고 때마침 밤이 찾아왔다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "셀리아",
+          "text": "아델, 네 차는 괜찮아? 로조 교수님이 배상해 주실 테니 너무 걱정하지 않아도 돼."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "괜찮아. 범퍼 쪽에 살짝 기스 난 거뿐이야. 그냥 좀 놀라서 그렇지..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "아, 셀리아, 잠깐만!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "방금 일어난 일련의 사건에 아델은 머리가 어지러웠다. 그러다 마침내 정신을 차린 그녀는 근처에 주차해 둔 자신의 푸조 201을 향해 달려갔다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "펠리시엔느 씨가 아직 차에 있다는 걸 잊고 있었어! 우선 그녀를 호텔에 데려다줘야 해."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "이렇게 오래 기다리게 했으니 또 화내게 생겼네..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "펠리시엔느 씨, 펠리... 어?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "차 안은 텅 비어 있었다. 조수석에 있던 승객은 온데간데없고, 그 대신 차창에 빨간색 글씨 한 줄만 남아 있었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "먼저 간다. 내일 뤼 드 라 페에서 봐."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "...설마 립스틱으로 쓴 건 아니겠지?!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "아델은 손수건을 꺼내 차창의 메모를 닦았지만, 아쉽게도 효과는 미미했다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "핸들 함부로 꺾은 것에 이것까지 더해서, 내일 꼭 세차 비용 청구해야겠어!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "셀리아",
+          "text": "무슨 일이야, 아델?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "친구도 다가와 차창 옆에 걸음을 멈췄다. 그녀는 궁금하다는 듯 고개를 내밀며 안쪽을 들여다봤다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "이 사소한 해프닝으로 오랫동안 기대해 왔던 저녁 식사를 망치고 싶지 않은 아델은 손을 흔들었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "아무것도 아니야. 가자! 항상 가던 곳으로 갈 거지? 센 강 쪽에 있는 그 식당 말이야. 아니면 색다른 곳을 찾아 볼까?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "학교 쪽 식당은 이미 질렸다고 항상 그랬잖아. 모처럼 만났으니 이번에는 네가 먹고 싶은 거 먹자."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "셀리아",
+          "text": "내가 먹고 싶은 거? 그럼... 집에 가서 간단히 해 먹자."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그녀는 즐거운 듯 손가락을 튕기며 메뉴를 줄줄이 읊었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "셀리아",
+          "text": "양파 스프, 치즈 퐁듀, 그라탱 도피누아... 그리고 방금 산 사과주도 있어, 어때?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "셀리아",
+          "text": "며칠 전에 자료를 가지러 집에 돌아갔다가, 너한테 청소 좀 도와달라고 할 생각이었거든. 근데 네가 없어서 테라스까지 혼자 다 했지 뭐야."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "마침 잘됐네! 타!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "생각이 척척 맞는 두 사람은 약속이라도 한 것처럼 푸조 201 양쪽으로 돌아가 거의 동시에 차 문을 당겨 열었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아델",
+          "text": "...똑바로 앉아. 출발할게!"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

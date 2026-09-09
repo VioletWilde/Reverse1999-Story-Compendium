@@ -1,6 +1,6 @@
 # Dad Jokes
 
-- Chapter: chapter_1901 (`1901`)
+- Chapter: The Story of Oliver (`1901`)
 - Episode: `190103`
 
 > Subtitle: One or several corny, boring jokes.

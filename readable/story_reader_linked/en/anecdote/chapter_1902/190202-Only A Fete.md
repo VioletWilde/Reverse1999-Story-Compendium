@@ -1,6 +1,6 @@
-# Only A Fete
+# Only a Fete
 
-- Chapter: chapter_1902 (`1902`)
+- Chapter: The Master of Theatrics (`1902`)
 - Episode: `190202`
 
 > Subtitle: The composition of all feasts is more or less the same.

@@ -1,0 +1,337 @@
+{
+  "episode_id": 10312,
+  "chapter_id": 103,
+  "chapter_title": "物語は何処にもあらず",
+  "display_label": "",
+  "title": "熱い涙",
+  "subtitle": "濃い煙がこちらに向かって押し寄せてくる。私たちはすぐにでも苦しくなって、むせび泣くことになるだろう。",
+  "trails": [
+    {
+      "element_id": 1031201,
+      "owner_episode_id": 10312,
+      "trigger_episode_id": null,
+      "title": "小道① ソネットのノート",
+      "description": "彼女の字はとてもきれいで、中でも数ページは非常に詳しく書かれている。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=10312",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "ソネットのノート"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "第1章\n第1節　哺乳類　四足種\n1. pp.13–14　ユニコーンピラソピ\n　　（インド種と英国本土種の間には明らかな違いがある）\n2. 角の特殊な三層構造――角質、角柱、真珠\n3.  丿 \n\nすみません、次のページを見てください\n\n第1章\n第1節　哺乳類\n四足種の分類鑑定（p.13）\n1. ユニコーンピラソピ：インド種は体長約40インチ、成体になると毛が赤くなる\n　　（ちょうどフィオナがくれたキャンディと同じ色。食べてはいないが…参考にはできる）\n　　英国本土種はより小さめで、体長は20～30インチほど、毛髪は濃い褐色。\n　　（ピラソピはこの先鑑定考察の対象とされる可能性がある。接触時は後頚部から下3インチほどの部位を撫でる。怖がらせないために撫でるのは4回まで。）\n\n2. ユニコーンの角は特殊な三層構造になっている：（オオシャコガイなどの殻の構造を参照）\n-  角質層：一番外側の層。主要成分はキチン。通常石灰色となっており、ピラソピの成長とともに成長する\n-  角柱層：真ん中の層。主要成分は炭酸カルシウムの結晶体\n-  真珠層：一番裏側の層。光沢あり。水平方向に配列された炭酸カルシウムの薄い鱗によって構成されている（2号食堂の左側の窓口で売っている焼きイカチップスを想像するとわかりやすい）\n\n3. ……\n\n…………\n親愛なる同窓へ\n　一日でも早い回復をお祈りいたします。"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1031202,
+      "owner_episode_id": 10312,
+      "trigger_episode_id": null,
+      "title": "逃走経路計画",
+      "description": "これは大きな山場になるかもしれない。慎重に対応する必要がある。",
+      "action": "",
+      "unlock_condition": "ChapterMapElement=1031201",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100315",
+      "internal_title": "第三章3-12",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "熱い涙"
+        },
+        {
+          "kind": "title_card",
+          "text": "財団連合委員会事務室"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "最前線学校の件については、すでに調査を終えました。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "ヴェンデッタのチラシに影響され、ヴェルティという名の女の子が約二十名の学生と共に、パレードセレモニーにて校歌に詩を当てはめて発表したそうです。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "校長のリチャードと安全管理責任者の口頭による阻止は失敗に終わり、特攻警備員とビターサイレント、催涙弾の使用を余儀なくされたとか。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "混乱の最中、催涙弾があやまってヴェルティの太ももに命中し、彼女は昏睡状態に陥りました。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "校内医療施設での治療により、いまは順調に回復しています。本日中には校舎に戻れるでしょう。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "コンスタンティン",
+          "text": "…とんだへまね。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "それは…どちらのことを言っているのですか？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "コンスタンティンは頭を振った。これ以上評価を述べるつもりはないようだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "コンスタンティン",
+          "text": "あの生徒たちの要求は？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "外の世界を知りたいと。…特に、「ストーム」について。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "コンスタンティン",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "コンスタンティン",
+          "text": "そのヴェルティという子は、私たちが知っているあのヴェルティかしら？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "コンスタンティン",
+          "text": "「ストーム」が訪れたとき、門の外に手を伸ばしてカエルを捕まえたという――あの、ヴェルティ？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "そうです。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "コンスタンティン",
+          "text": "覚えているわ。報告によれば、あの子は手に雨水がついたそうね。けれど、なんの反応もなかったとか。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "コンスタンティン",
+          "text": "それどころか、炎症も、肉が腐ることも、変形することも。普通なら起こりうるであろう症状がなに一つ出なかったそうね。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "コンスタンティン",
+          "text": "あの子はとても特別よ。彼女の母親を思い出すわ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "…私は残念ながら、あの子の母親には会ったことがありません。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "コンスタンティンはチェス盤の前に戻った。その瞳の奥に、なにやら光を秘めている。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "コンスタンティン",
+          "text": "学院全体を特殊監察体勢に、これからは財団委員会が全面的に受け持つとリチャードに伝えてちょうだい。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "なにをなさるおつもりですか？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "コンスタンティン",
+          "text": "この一手は私たちの劣勢よ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "コンスタンティン",
+          "text": "彼らはあまりにことを荒立てすぎたわ。あれじゃあ、直接子どもたちを対立する立場に押し出したようなものよ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "コンスタンティン",
+          "text": "疑心の種はもう子どもたちの心に植え付けられてしまった。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "コンスタンティン",
+          "text": "今回の波風による影響はかなり深い、ヴェンデッタがすぐにでも動き出すでしょう。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "コンスタンティン",
+          "text": "私の役目は…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "コンスタンティン",
+          "text": "ヴェルティを成長させること。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "コンスタンティン",
+          "text": "――私が最も好きなやり方でね。"
+        },
+        {
+          "kind": "title_card",
+          "text": "最前線学校"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "教員",
+          "text": "オリティアウは身に危険を感じると、自ら攻撃してくるわ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "教員",
+          "text": "この時私たちがすべきなのは、なるべく身体を突っ伏して、彼らを落ち着かせること…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "開かれたノートが、隣の机から静かに差し出された。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "今週一週間の授業内容だ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "こ…これ、必要でしょう。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "ありがとう",
+          "edge_label": "Thank you.",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "ソネット",
+              "text": "どういたしまして。ケガはもう平気なの？"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "ソネット",
+              "text": "二日も昏睡状態だったって聞いたわ。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "きみのほうから話しかけてくるなんて",
+          "edge_label": "It's rare that you would come and speak to me.",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "ソネット",
+              "text": "私…"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "ソネット",
+              "text": "あなたを少し誤解していたみたい。ごめんなさい…"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "ソネット",
+              "text": "体の調子は？　二日も寝たきりだったって聞いたけど。"
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "まあまあかな、もうそんなに痛くないよ。…催涙弾が燃え上がったときに比べたらね。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "ソネットは目を伏せた。何と言えばよいか迷っているようだ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "あの歌…とても素晴らしかったわ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "…きみにそう言ってもらえるなんて、うれしいよ。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "けどもう二度と歌うことはないよ。わたし以外の生徒は、きっとまだ監禁部屋にいるんだよね…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "ええ、あそこは環境がとても悪いって聞いたわ…なにか食べ物を持ちこもうとしたんだけど、先生に断られてしまって。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "けど、来週には監禁が解かれるそうよ…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ソネット",
+          "text": "私のノート、みんなに貸していいからね。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "ありがとう。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "ヴェルティ",
+          "text": "あれが役に立つといいんだけど。"
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

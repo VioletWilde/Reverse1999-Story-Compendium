@@ -1,6 +1,6 @@
 # Whistle at Dawn
 
-- Chapter: Away From Home (`1924`)
+- Chapter: On the Road (`1924`)
 - Episode: `192408`
 
 > Subtitle: Bound towards a new world.

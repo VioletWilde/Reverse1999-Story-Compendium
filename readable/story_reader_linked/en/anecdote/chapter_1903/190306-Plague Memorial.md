@@ -1,6 +1,6 @@
 # Plague Memorial
 
-- Chapter: chapter_1903 (`1903`)
+- Chapter: The Long Night Singing Its Dirges (`1903`)
 - Episode: `190306`
 
 > Subtitle: No one cares about an empty tomb, nor does anyone care about a lonely monument.

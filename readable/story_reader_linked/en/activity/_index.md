@@ -1,21 +1,24 @@
 # Event Stories
 
-- [11101 The Rimet Cup](chapter_11101/_index.md) — 16/16 episodes with scripts
-- [12101 Green Lake Nightmare](chapter_12101/_index.md) — 18/18 episodes with scripts
+- [11101 The Theft of the Rimet Cup](chapter_11101/_index.md) — 16/16 episodes with scripts
+- [12101 A Nightmare at Green Lake](chapter_12101/_index.md) — 18/18 episodes with scripts
 - [13101 Journey to Mor Pankh](chapter_13101/_index.md) — 17/17 episodes with scripts
 - [15101 Revival! The Uluru Games](chapter_15101/_index.md) — 15/15 episodes with scripts
-- [16101 Notes on Shuòrì](chapter_16101/_index.md) — 23/23 episodes with scripts
+- [16101 Notes on Shuori](chapter_16101/_index.md) — 23/23 episodes with scripts
 - [18101 Farewell, Rayashki](chapter_18101/_index.md) — 19/19 episodes with scripts
 - [20101 Floor it! To the Golden City](chapter_20101/_index.md) — 13/13 episodes with scripts
 - [21101 Route 77: The Haunted Highway](chapter_21101/_index.md) — 20/20 episodes with scripts
 - [23101 Chronicles of Uluru: London Dawning](chapter_23101/_index.md) — 20/20 episodes with scripts
 - [24101 Last Evenings on Earth](chapter_24101/_index.md) — 21/21 episodes with scripts
 - [25101 Showdown in Chinatown](chapter_25101/_index.md) — 22/22 episodes with scripts
-- [27101 1987 Космическая Увертюра](chapter_27101/_index.md) — 20/20 episodes with scripts
-- [28101 chapter_28101](chapter_28101/_index.md) — 1/5 episodes with scripts
+- [27101 1987 Cosmic Overture](chapter_27101/_index.md) — 20/20 episodes with scripts
+- [28101 Against the Flood](chapter_28101/_index.md) — 1/5 episodes with scripts
 - [31101 The Midnight Whistle](chapter_31101/_index.md) — 21/21 episodes with scripts
 - [32101 A Flowing Feast](chapter_32101/_index.md) — 20/20 episodes with scripts
 - [34101 Spring Unending](chapter_34101/_index.md) — 22/22 episodes with scripts
-- [35101 绿松石蛇俱乐部](chapter_35101/_index.md) — 21/21 episodes with scripts
+- [35101 The Turquoise Serpent Club](chapter_35101/_index.md) — 21/21 episodes with scripts
 - [36101 Last and First Principles](chapter_36101/_index.md) — 14/14 episodes with scripts
-- [38101 世纪末尺度](chapter_38101/_index.md) — 22/22 episodes with scripts
+- [38101 The Temporal Scale](chapter_38101/_index.md) — 22/22 episodes with scripts
+- [305101 La Primavera di Firenze](chapter_305101/_index.md) — 12/16 episodes with scripts
+- [305201 Drama in Athens](chapter_305201/_index.md) — 10/15 episodes with scripts
+- [385101 Polymerized Dreams](chapter_385101/_index.md) — 16/16 episodes with scripts

@@ -1,6 +1,6 @@
 # The Yellow Sand Road
 
-- Chapter: Notes on Shuòrì (`16101`)
+- Chapter: Notes on Shuori (`16101`)
 - Episode: `1610106`
 
 > Subtitle: With burning feet and a chill in our throats, we navigate the same unknown.

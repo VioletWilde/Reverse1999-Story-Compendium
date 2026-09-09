@@ -1,6 +1,6 @@
 # The Alumni
 
-- Chapter: 他者的悲哀 (`113`)
+- Chapter: On Another's Sorrow (`113`)
 - Episode: `11307`
 
 > Subtitle: Legends never belong to those who live them. No one knows what the ones that follow added to their story.

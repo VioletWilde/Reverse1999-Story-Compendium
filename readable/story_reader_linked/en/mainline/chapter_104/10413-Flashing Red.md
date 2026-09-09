@@ -1,6 +1,6 @@
 # Flashing Red
 
-- Chapter: El oro de los tigres (`104`)
+- Chapter: El Oro de los Tigres (`104`)
 - Episode: `10413`
 
 > Subtitle: Sharp and glaring. I can tell it's the color of warning.

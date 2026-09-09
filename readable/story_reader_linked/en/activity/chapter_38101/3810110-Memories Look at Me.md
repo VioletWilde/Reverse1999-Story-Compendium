@@ -1,6 +1,6 @@
 # Memories Look at Me
 
-- Chapter: 世纪末尺度 (`38101`)
+- Chapter: The Temporal Scale (`38101`)
 - Episode: `3810110`
 
 > Subtitle: How do people leave? Why do they leave? And where do they go?

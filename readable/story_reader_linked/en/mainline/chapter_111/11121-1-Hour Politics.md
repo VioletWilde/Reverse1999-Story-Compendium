@@ -1,6 +1,6 @@
 # 1-Hour Politics
 
-- Chapter: 行于漫漫长路上 (`111`)
+- Chapter: A Long Long Way (`111`)
 - Episode: `11121`
 
 > Subtitle: Practical results often hold more weight than following orders.

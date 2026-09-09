@@ -7,4 +7,4 @@
 - [192205 A Perfect Double](192205-A Perfect Double.md) — Look—her dream is nearly picture perfect.
 - [192206 A Beautiful Day](192206-A Beautiful Day.md) — When light strikes these films, silver halide undergoes a structural change, forming silver grains.
 - [192207 The Empty Box](192207-The Empty Box.md) — A riddle whose answer is determined by its solver.
-- [192208 貝蒂](192208-貝蒂.md) — 正如她的名字。 *(extra record)*
+- [192208 Bette](192208-Bette.md) — Just like her name. *(extra record)*

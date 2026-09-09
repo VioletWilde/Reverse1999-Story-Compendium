@@ -1,6 +1,6 @@
 # Arriving in Juhalerat
 
-- Chapter: The Winds OF Juhalerat (`1910`)
+- Chapter: The Winds of Juhalerat (`1910`)
 - Episode: `191001`
 
 > Subtitle: A bullet, the smell of gunpowder, and a dreadful journey.

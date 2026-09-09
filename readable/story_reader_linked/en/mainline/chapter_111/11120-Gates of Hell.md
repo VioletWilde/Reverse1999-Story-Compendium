@@ -1,6 +1,6 @@
 # Gates of Hell
 
-- Chapter: 行于漫漫长路上 (`111`)
+- Chapter: A Long Long Way (`111`)
 - Episode: `11120`
 
 > Subtitle: This marks the beginning of another tragedy.

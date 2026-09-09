@@ -1,6 +1,6 @@
 # Another Lady
 
-- Chapter: The Third Circumstance (`1912`)
+- Chapter: Semmelweis (`1912`)
 - Episode: `191205`
 
 > Subtitle: The sun is her treasured jewel, the night her woven skirt, adorning her only love, held ever tighter.

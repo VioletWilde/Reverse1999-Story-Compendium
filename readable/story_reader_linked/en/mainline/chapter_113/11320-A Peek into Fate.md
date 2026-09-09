@@ -1,6 +1,6 @@
 # A Peek into Fate
 
-- Chapter: 他者的悲哀 (`113`)
+- Chapter: On Another's Sorrow (`113`)
 - Episode: `11320`
 
 > Subtitle: Even the untouchable has a texture.

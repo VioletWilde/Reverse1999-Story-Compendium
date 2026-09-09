@@ -1,6 +1,6 @@
 # Beneath the Silence
 
-- Chapter: 远征记 (`112`)
+- Chapter: The Campaign's Tale (`112`)
 - Episode: `11204`
 
 > Subtitle: A newly emerging darkness covers the land.

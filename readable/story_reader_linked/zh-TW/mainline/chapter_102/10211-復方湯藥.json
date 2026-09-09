@@ -1,0 +1,602 @@
+{
+  "episode_id": 10211,
+  "chapter_id": 102,
+  "chapter_title": "夜色溫柔",
+  "display_label": "",
+  "title": "復方湯藥",
+  "subtitle": "迷霧盤旋在外，遮蓋它所能遮蓋的一切。",
+  "trails": [
+    {
+      "element_id": 1021101,
+      "owner_episode_id": 10211,
+      "trigger_episode_id": null,
+      "title": "小徑① 堵截車隊·一",
+      "description": "來自聖洛夫基金會的作戰任務，攔截重塑之手的資源運輸車隊。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=10211",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1021102,
+      "owner_episode_id": 10211,
+      "trigger_episode_id": null,
+      "title": "小徑② 堵截車隊·二",
+      "description": "一輛停在路邊的運輸車。駕駛者不知去向。藤蔓攀爬其上，向來人致以問候。",
+      "action": "",
+      "unlock_condition": "ChapterMapElement=1021101",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1021103,
+      "owner_episode_id": 10211,
+      "trigger_episode_id": null,
+      "title": "小徑③ 堵截車隊·三",
+      "description": "來自聖洛夫基金會的作戰任務，攔截重塑之手的資源運輸車隊。",
+      "action": "",
+      "unlock_condition": "ChapterMapElement=1021102",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 1021104,
+      "owner_episode_id": 10211,
+      "trigger_episode_id": null,
+      "title": "小徑④ 鬥犬之隔",
+      "description": "",
+      "action": "",
+      "unlock_condition": "ChapterMapElement=1021103",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "你們看起來很緊張，你們都知道將有大事發生。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "用你們——那個、那個充滿了古怪想法的腦瓜——你們冥冥之中能感受到這個，這是你們的特殊能力，和敏感的神經、充沛的情緒一同來的能力。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "事情混亂起來，新朋友與老朋友一個個到場，然後，你們都在這兒了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "一道霧氣就地升起，把黑與白隔開，就像是隔開兩群鬥犬。它們在兩側的空間內團團地轉，露出的獠牙幾乎要撕碎自己的尾巴。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "霧氣之內發生了什麼？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "問得很好，親愛的。讓我們一起看看這兒，就你的腳下——"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "你在重塑之手的地盤上行走，在他們眼皮子下偷去了紅羽毛與血漬裡的斯奈德，又對著那漂亮的德魯伊竊竊私語。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "而你的敵人手腳一樣也稱不上乾淨。瞧瞧這些木箱子，所有人都餓得快死了，可這裡頭只有棉花，棉花，還有棉花。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "黃油、麵粉、蔗糖，甜美的一切好東西在黑狗的手上一轉就奔向了芝加哥。但沒關係，棉花一樣能填滿肚子。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "來，跟我來，往那兒看，往空氣裡蓄滿了淚水的地方看，有母親正抱著她昏迷的孩子啜泣，她的孩子正在死去，而貴族老爺夫人們還在擔心綢緞，擔心寶石弄上了這兒的泥巴。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "霧氣之外發生了什麼？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "是的，你該這麼問的。你已經很久沒出去過了，他們的故事對你來說盡是未知。如果我是你，我也會一樣好奇。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "聖洛夫基金會裡的聰明人和你一樣察覺到了重塑之手的行動，他們一面攔截運輸，一面向著迷霧逼近。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "你穿黑西服的小姑娘已經回到了你所安排的地方，他們把她安頓得很好。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "而你那忠誠的漂亮朋友正為了你奮戰，她身邊帶著那個吵鬧的搖滾女孩兒、頭腦靈活的小夥子以及一枚紅果子。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "她正要來救你，她為你穿過一道道戰鬥的溝壑，就像是王子穿過沉睡之城的荊棘，就像是奇跡的小狗撕咬著拉出火海裡的主人。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "這道霧氣是什麼？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "有趣的選擇。這很符合你的身份，小怪胎。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "你有一個與眾不同的腦袋，裡面裝著與眾不同的東西。這不是壞處，保持這一點，常常使用它。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "讓我們回到你的問題，霧氣——關於霧氣，毫無疑問的，那個酒館老闆製作了它。就像是調酒那樣，加點這個，加點那個，大坩堝攪幾下，想要的東西自然出現。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "它有迷霧該有的效果，比如遮擋視線、隱藏秘密、阻礙進出者的速度。也有迷霧所不有的效用，像是致幻、湧動的毒素，讓人永遠迷失在霧中的、在地圖上從未記載的岔路。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "他是個精明的傢伙，也很陰險。但是哪兒都不缺聰明人，尤其是這種場合。"
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "我們要做的是等。等。等下去。\n但不等太久，那樣就犯傻了，知道嗎，適當地等-等一等！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "一場好戲就要上演了，你將看到有史以來最為盛大的表演！哦，當然，你也可以去，去站在正中間，然後帶著你的漂亮箱子，撐起一把傘，擺足了場面地耍帥鬥狠。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "等著瞧吧，黑狗與白狗間的隔板再撐不了多久，這兒逃不過撕咬，逃不過見血。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "拿好你的爆米花，親愛的。\n然後——坐穩、扶好，你可能會哭，也可能不會，我他*也不在乎。"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100219",
+      "internal_title": "第二章2-11.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "複方湯藥"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "這些藥粉沒有毒性。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "他正在熬製的配方也沒有任何明顯的危害性。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "湯藥的氣味很好聞，甚至就像是……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "為什麼？難道他真的想治病？這不可能。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "流浪漢",
+          "text": "讓開讓開！給我讓開！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "唔……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "流浪漢",
+          "text": "他們把藥藏到哪裡去了？拆開、拆開看看——！這些箱子是什麼！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "病人",
+          "text": "唔，咳咳……你不能動這些東西，這是軍官團的救災物資！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "流浪漢",
+          "text": "棉花、棉花……啊！是棉被……誰要這些鬼東西……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "急救物資？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "原來如此……大量的儲備糧油、醫療用品、應急物資和臨時基建工具……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "沒有官方背景支持的重塑之手，要在不同的時代下站穩腳跟，最不可缺的就是物資。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "所謂“暴雨”前的寧靜，都是為了掩蓋物資的轉移！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "不行。等不到10點了。必須提前跟十四行詩他們見上面！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "流浪漢",
+          "text": "喂！你想帶著湯藥逃走？把我的藥交出來……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "你們誤會了，我不是送藥人。但湯藥馬上就會送過來。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "他卻發出了淒厲的叫聲。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "流浪漢",
+          "text": "不！休想騙我……！你在怕我、你怕被燒死！……快給我……！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "不好，這樣下去會把其他人都吸引過來！得想辦法解決……！"
+        }
+      ]
+    },
+    {
+      "script_id": "100220",
+      "internal_title": "第二章2-11.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "……抱歉。先睡一會兒吧。你們不能再這樣消耗體力了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "撥開灌木叢，後面是一個無人看守的小徑。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "四周彌漫著一股陳舊的汽油焦糊味。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "你要逃走嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "槲寄生小姐……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "不，我要去接應。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "那你不應該選這條道。你還是像當初那樣迷路嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "這條道的前方有重兵把守，多得是比剛才更為嚴峻的危機。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "即使這樣，你也仍然要繼續前行嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "……是的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "直到我們能親眼見到“明天”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "槲寄生，你要不要跟我一起走？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "你的朋友正在路上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "我“看見”他們駕馭著許多龐然大物，在向這裡駛來。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "“我們”所渴求的，正在被遷移；“我們”所鄙夷的，正在被救助。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "但“我們”的仇敵還在增多。從南至北，從西到東。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "“暴雨”就要來了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "我接受你的邀請。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "槲寄生",
+          "text": "但這是一場正式的告别，我需要銘記我的森林最後的模樣。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她捋了捋發梢，向救治所的方向走去。"
+        },
+        {
+          "kind": "title_card",
+          "text": "焦木林·深處"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "如何？這應該是我們繳獲的第三輛運輸貨車了？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "重塑為了避人耳目，特意削減了運輸物資的守衛人數——他們一定沒想到會遭到偷襲。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "行動隊長，現在由你帶領分隊成員護送這三輛車回到莊園。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "其他人跟我繼續往救治所區域前進！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "眾",
+          "text": "明白！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "斯奈德",
+          "text": "大小姐，最新的幻劑做出來了嗎～有信心的話，就可以往咱嘴裡倒了喔……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "蘇芙比",
+          "text": "謝謝你願意做我的實驗體！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "蘇芙比",
+          "text": "但就算我的幻劑做成功了，你的身體也不會有什麼反應呀。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "蘇芙比",
+          "text": "你又不想吃金條……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "斯奈德",
+          "text": "哼？有人在質疑咱的付出？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "斯奈德",
+          "text": "人家願意替自己的家人先試試毒……這也不行嗎？大小姐的想法真難懂呢。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "斯奈德",
+          "text": "畢竟我可是從槲寄生手裡逃過一劫的女人……可比你們任何一個人……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "斯奈德",
+          "text": "都要更清楚死亡～是什麼滋味～"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "蘇芙比",
+          "text": "槲寄生小姐……到底是誰呀？你們總是提起她，難道就只有我不認識她嗎！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "我看過她的調查報告。她是華盛頓州林業大亨的繼女。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莊園管家",
+          "text": "您指的是韋耶豪瑟家族？我們的老爺曾與他們有過來往。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莊園管家",
+          "text": "不過，他們家遭遇了巨大的不幸……此事還登過時報。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莊園管家",
+          "text": "蘇聯木材的壓價導致了他們家族破產，這是無法抗拒的時代命運。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莊園管家",
+          "text": "更何況後來……不，就這樣吧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "蘇芙比",
+          "text": "卡森先生，你怎麼說話吞吞吐吐的！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莊園管家",
+          "text": "沒什麼，只是我想到，這樣的陳年舊事槲寄生小姐一定不願再提起。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "莊園管家",
+          "text": "在下也不該非議其他家族的私事。請別放在心上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "各位小心，我們已經進入救治所的範圍。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "蘇芙比",
+          "text": "哇……森林裡已經開始起霧了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "蘇芙比",
+          "text": "咳咳——！這個霧怎麼有股怪味道，我好像控制不了自己的方向了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "蘇芙比",
+          "text": "頭也有點暈……嗚……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "快過來！屏住呼吸。這層白霧應該是為了隱藏救治所的保護咒語。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "現在距10點還有35分鐘。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "附近難民的狀況很不樂觀，守衛也加強了不少。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "接下來的行動，請各位謹慎行事，確保不受濃霧的干擾。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "蘇芙比",
+          "text": "好……咳咳，沒問題！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "蘇芙比",
+          "text": "在見到維爾汀小姐前，我們能搬多少是多少！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "好。再重複一次目標：轉移物資，解救難民！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "行動！"
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

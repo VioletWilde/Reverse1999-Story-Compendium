@@ -1,6 +1,6 @@
 # Listen To Your Gut
 
-- Chapter: Finding Xavier (`1911`)
+- Chapter: Eagle (`1911`)
 - Episode: `191105`
 
 > Subtitle: Trust it, trust her! Trust ... him?

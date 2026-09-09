@@ -1,6 +1,6 @@
 # Savior out of the Blue
 
-- Chapter: To Wennifred (`1909`)
+- Chapter: To Winnifred (`1909`)
 - Episode: `190902`
 
 > Subtitle: She saved a potential embarrassment and salvaged a heart that couldn't let go.

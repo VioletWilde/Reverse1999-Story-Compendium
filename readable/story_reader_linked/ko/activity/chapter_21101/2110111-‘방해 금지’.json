@@ -1,0 +1,733 @@
+{
+  "episode_id": 2110111,
+  "chapter_id": 21101,
+  "chapter_title": "루트77: 유령의 도로",
+  "display_label": "",
+  "title": "‘방해 금지’",
+  "subtitle": "지금 이 순간 청소나 정리를 하는 건 좋지 않다.",
+  "trails": [
+    {
+      "element_id": 2110105,
+      "owner_episode_id": 2110111,
+      "trigger_episode_id": null,
+      "title": "구매 필요 누르기",
+      "description": "그녀는 책임감이 넘치고 섬세한 호텔 주인이다. 그녀는 언제나 가장 먼저 필요한 물자를 보충하고, 손님에게 필요하지 않은 그것들을...",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=2110111",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "모텔 구매 물품 목록"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "1989년 8월\n매입:\n블루버드 커피 원두 5파운드(필터 포함)\n밸리 브랜드 침대 시트 15세트 - 사용 속도가 너무 빠름, 대책 필요\n중고 텔레비전 1대 - 저렴하게 구매, ‘가끔 사람 실루엣이 나타남, 귀신 있는듯’, 앗!\n판매:\n카우보이 수리 공구 1세트\n\n1989년 10월\n매일:\n추수 감사절 장식 1세트\n히코리 랜드 공기 청정기 1대 - 핏자국이 너무 선명함. ‘그것’과 논의\n‘사우스 라이트’ 전구 1세트 - 품질이 다소 떨어지지만 저렴하여 유용함\n생크림 3파인트 - 올드 스튜어트 농장 제품, 좋음\n다음에 시럽을 사야 하려나?\n\n1989년 11월\n매입:\n텍사스 오솔길 캔디 5상자 - 맛있음\n매리골드 바디워시 1세트 - 향이 너무 강함\n\n1990년 1월\n매입:\n세븐 스타 티백 3상자\n농장 프레시 버터 15파운드\n밸리 브랜드 침대 시트 12세트 - 제발 이번엔 오래 가길\n판매:\n중고 텔레비전 1대 - 귀여운 텔레비전, 안타깝긴 하지만 이제 안녕"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "202117",
+      "internal_title": "【2.1】77号往事-11.1",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "용병이 스피커폰 버튼을 눌렀다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그러자 수화기 건너편에서 뭔가 두드리는 익숙한 소리가 들려왔다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "전화",
+          "text": "탁, 탁, 탁, 탁."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "전화",
+          "text": "탁."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "전화",
+          "text": "탁, 탁... 탁... 탁."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "도와줘【help】."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "전화",
+          "text": "탁... 탁, 탁."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "전화",
+          "text": "탁, 탁..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "Baa... 양 울음소리?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아르고스",
+          "text": "보스, 알아들었어?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아르고스",
+          "text": "분명 사람이 건 전화는 아니야... 어떤 동물이나 곤충이지."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "...동물이나 곤충?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아르고스",
+          "text": "유선 전화 위로 기어가는 소리나 먼지 위에 남은 발자국으로 봤을 때... 별로 몸집이 크지 않은 것 같아."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "용병이 갑자기 말을 멈췄다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아르고스",
+          "text": "잠시만, 보스."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "용병이 주머니에서 뭔가를 꺼내더니 입에 집어넣었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "탕약 캔디?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "마도술 사용 때문에 부담이 가는 거면 잠시 쉬죠."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아르고스",
+          "text": "임무가 아직 끝나지 않았잖아... 쉬려면 멀었어."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아르고스",
+          "text": "걱정할 거 없어, 보스. 이건 유전병이거든. 시니어 아르고스부터 주니어 아르고스까지, 누구도 벗어날 수 없지."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "부작용은 뭐죠?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아르고스",
+          "text": "나 참, 보스, 용병한테 약점을 말하라니... 우리가 아직 그 정도 사이는 아니잖아?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아르고스",
+          "text": "하지만 이건 말해줄 수 있어. 눈을 쓰는 한 그 부작용은 늘 따라다니거든... 다행히 요즘 과학 기술이 발전해서. 자, 이걸 봐."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그녀가 손에 든 사탕을 내보였다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아르고스",
+          "text": "안전하고, 고효율에... 가장 중요한 건 달콤하다는 거지."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "그건 사탕이 아니라 약이에요... 의사의 지시에 따라 사용해야 하죠. 그건 당신이 더 잘 알고 있을 텐데요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아르고스",
+          "text": "됐어, 보스. 의사의 예상 범위 안에서 위험한 일이 발생하진 않을 테니까."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아르고스",
+          "text": "약으로써 제대로 효과를 발휘해 주고, 그 덕에 한 번씩 사람들을 위험에서 구할 수 있지. 이거면 충분한 거 아니야?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "하지만..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그녀가 뭔가 더 말하려는 찰나, 용병이 조용히 하라고 손짓했다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아르고스",
+          "text": "쉿... 들려?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "...네?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "용병이 목소리를 낮췄다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아르고스",
+          "text": "심장 박동 소리야. 문밖에서 누가 몰래 듣고 있어."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "쿵, 쿵, 쿵."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "용병이 소리 없이 몸을 숙였다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "쿵쿵, 쿵쿵, 쿵쿵..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "탄환이 총에 장전되며 작게 소리가 울렸다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "쿵쿵쿵쿵쿵쿵쿵쿵쿵쿵..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "용병이 문손잡이를 홱 돌렸다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "——!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "문이 벌컥 열리면서, 엿듣고 있던 소녀가 하마터면 안으로 굴러들어 올 뻔했다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아르고스",
+          "text": "설명이 좀 필요하겠는데... 여기서 뭐 하는 거지, 미스 킴벌리?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아르고스",
+          "text": "당신한테는 스티븐이란 사람이 그렇게 매력적이었나? 이미 죽었는데도?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "미스 킴벌리",
+          "text": "앗... 그, 그런 거 아니야! 난 그냥 내 장난감을 찾으러 온 거라고... 그게 마침, 아마..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아르고스",
+          "text": "장난감?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아르고스",
+          "text": "무기도 없는 사람한테 총구를 들이대고 싶진 않은데. 하지만 때로는 그럴 필요가 있더라... 꼭 끝장을 봐야 뉘우치는 사람이 있어서."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아르고스",
+          "text": "5"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "미스 킴벌리",
+          "text": "말했잖아, 물건을 찾고 있다고..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아르고스",
+          "text": "4"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "미스 킴벌리",
+          "text": "...세상에! 왜 내 말을 안 믿는 거야!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "여성 투숙객이 초조한 듯 발을 동동 구르자 바닥이 쿵쿵 흔들렸다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아르고스",
+          "text": "3"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "미스 킴벌리",
+          "text": "나, 난 아니야..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그녀는 결심을 내린 듯, 눈을 질끈 감았다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아르고스",
+          "text": "2"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "미스 킴벌리",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아르고스",
+          "text": "1"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "용병은 주저 없이 방아쇠를 당겼다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "귓가에서 터진 굉음에 킴벌리의 얼굴에서 순식간에 핏기가 가셨다. 그녀는 몸을 웅크리고 더 작게 만들어 보려고 애썼다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "미스 킴벌리",
+          "text": "죽이지 마, 죽이지 마... 난 아무 짓도 안 했어..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그녀의 손가락이 주체할 수 없이 떨리며, 새카만 손톱이 손끝에서 뻗어 나왔다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "미스 킴벌리",
+          "text": "——!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그녀는 놀란 듯 자신의 새카맣고 예리한 손톱을 다급히 품에 넣었다... 그리고 안절부절못하며 두 사람을 쳐다봤다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "...마틸다가 보낸 보고서에서도 ‘킴벌리’란 이름이 나온 적 있어."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "그냥 우연인 줄 알았는데."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "...재건의 손 멤버인 미스 킴벌리, 맞지?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "미스 킴벌리",
+          "text": "나, 난 정말 아무 짓도 안 했어... 그 검은 옷을 입은 사람들이 나한테 동행이랑 같이 움직이라고 했을 뿐이야..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "말해, 그 동행은 누구지?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "미스 킴벌리",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "미스 킴벌리",
+          "text": "배가 고팠어. 계속 배가 고팠다고... 너희가 부러워... 음식을 저장해두기만 하면 오랫동안 배를 채울 수 있잖아..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "미스 킴벌리",
+          "text": "나무통에 빵과 물을, 곡식 창고에 식량을 저장할 수 있지. 목장에는 뛰어다니는 육류와 유제품이 있고... 하지만 내 식량은..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "미스 킴벌리",
+          "text": "맹세해, 난 잃어버린 걸 빨리 찾고 싶었을 뿐이야..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "겁먹을 거 없어. 우린 널 해치지 않을 테니까... 네가 그 이름만 말해준다면 말이지."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "소녀가 눈동자를 굴렸다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "미스 킴벌리",
+          "text": "그녀의 이름을 알려주면, 날 놔줄 거야?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아르고스",
+          "text": "네 성의를 봐서."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "미스 킴벌리",
+          "text": "...미스 그레이스야..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "여기엔 무슨 목적으로 왔는데?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "미스 킴벌리",
+          "text": "나야 당연히 모르지! 그 검은 옷을 입은 녀석들이 그레이스의 말만 들으라고 했는데... 여기 온 이후에 그녀는 나한테 아무 일도 안 시켰거든..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "미스 킴벌리",
+          "text": "그 구두쇠가 나 모르게 무슨 짓을 하는 게 분명해... 하지만 난 상관없어! 난 허기만 채우고 싶을 뿐이라고!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "소녀는 애절한 목소리로 말하며, 한 손으로 주머니에서 뭔가를 꺼냈다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "——!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "미스 킴벌리",
+          "text": "헤헤."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "소녀가 교활한 미소를 지으며 손에 든 걸 쥐고 터트리자 새카만 연기가 사방으로 퍼졌다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "미스 킴벌리",
+          "text": "짜증 나는 것들, 너희는 내 옷자락조차 건드리지 못할 거야! 날 잡겠다니, 꿈 깨시지!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "전송 술식이야!! 아르고스, 도와줘요! 도망치게 두면 안 돼요!"
+        }
+      ]
+    },
+    {
+      "script_id": "202118",
+      "internal_title": "【2.1】77号往事-11.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "탕!!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "연기가 걷히자, 미스 킴벌리의 모습은 이미 사라진 뒤였다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아르고스",
+          "text": "빨리도 튀었네."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "그래도 이제 몇 가지 결론을 내릴 수는 있겠군요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "재건의 손이 이 모텔을 노리고 있어요... ‘계명회’는 그들의 가명일지도 모르겠네요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "한동안 그들은 여길 거점으로 삼았고, 실패한 주문을 몇 가지 시도하다 결국 철수했죠."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아르고스",
+          "text": "재건의 손, 이름은 들어봤어. 악명 높은 마도학자 집단이잖아..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "용병이 근심 어린 표정을 지었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아르고스",
+          "text": "케일라가 그들의 수중에 넘어간 거면..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아르고스",
+          "text": "...분명 결과가 좋진 않겠지?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "걱정하지 말아요. 그들은 보통 순혈 마도학자만 불러 모으거든요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "아르고스",
+          "text": "...아, 그거 정말 다행이네. 내가 장담하는데, 케일라의 부모는 순혈 인간 그 자체거든."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "그런데 재건의 손이 이곳에 온 거라면..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "버틴",
+          "text": "...대체 목적이 뭘까요?"
+        },
+        {
+          "kind": "title_card",
+          "text": "튜즈데이 모텔 입구"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "밤의 장막이 내려앉은 들판에서 대화가 계속 이어졌다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "튜즈데이",
+          "text": "밤에 길을 못 찾으실까 봐 제가 일부러 로비의 조명을 켜두었답니다. 보세요, 불이 훤하니까 나방들이 막 날아다니네요. 정말 싫어요..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "릴리아",
+          "text": "헛소리 집어치워."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "릴리아",
+          "text": "버틴은 어디 있어?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "튜즈데이",
+          "text": "평소엔 저 등을 켤 일이 없어요... 우리 아이는 길을 잃은 적이 없으니까."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "메이드가 희미하게 미소 지었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "튜즈데이",
+          "text": "하지만 당신처럼 젊고 활달한 아이는 앞을 밝혀줄 등이 필요한 법이잖아요, 그렇죠?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "튜즈데이",
+          "text": "저 등이 지친 여행객에겐 모텔을 의미하고, 아이에겐 엄마를 뜻하죠. 그렇다면 당신에겐... 무엇을 뜻할까요?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "메이드의 얼굴이 붉게 달아올랐다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "튜즈데이",
+          "text": "어쨌든 사람들에겐 이런 조명이 필요해요. 등 뒤에서 바짝 따라오는 공포에서 벗어나기 위해, 안 그런가요?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "릴리아",
+          "text": "당신, ‘계명회’ 사람이야?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "튜즈데이",
+          "text": "‘계명회’요?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "튜즈데이",
+          "text": "...아, 그 꼴 보기 싫은 손님들 말씀이군요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "릴리아",
+          "text": "손님?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "메이드는 그녀의 질문을 들은 체 만 체하며 그저 말을 이어 나갔다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "튜즈데이",
+          "text": "전 그 사람들 마음에 안 들어요. 여기저기 낙서하고, 잘 꾸며놓은 방도 엉망으로 만든 데다... 우리 아이까지 아프게 했거든요..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "튜즈데이",
+          "text": "아... 겁내지 마. 겁낼 것 없단다, 우리 아가..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그녀가 포대기에 감싸인 아이를 작은 소리로 달래며 손으로 가만히 토닥였다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "릴리아",
+          "text": "그들이 아직 여기 있어?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "튜즈데이",
+          "text": "아... 그럼요. 그들은 제가 거절하지 못할 만큼의 사례를 했거든요..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "릴리아",
+          "text": "얼마를 줬는데?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "튜즈데이",
+          "text": "아아, 당신은 역시 아직 어린애군요. 세상엔 돈으로 살 수 없는 것도 많답니다..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "튜즈데이",
+          "text": "적절한 타이밍에 여행자의 앞에 모텔이 나타나 주지 않는 것처럼, 우는 아이가 엄마의 품을 돈 주고 살 수 없는 것처럼..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "튜즈데이",
+          "text": "하아... 그건 저도 살 수 없답니다. 어둠 속의 달콤하고 농도 짙은 그것을..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "정신이 이상한 듯한 메이드의 중얼거림에 그녀는 한없이 초조해졌다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "릴리아",
+          "text": "...됐어, 더 듣고 싶지 않아."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "릴리아",
+          "text": "당신이랑 계속 얘기할 수 없어... 더는..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "눈앞의 모든 게 흐릿해지며, 희미하게 웃고 있는 메이드의 모습이 어렴풋이 보였다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "튜즈데이",
+          "text": "...하."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "튜즈데이",
+          "text": "...♪"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그녀가 부드러운 목소리로 눈이 풀린 조종사를 달랬다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "튜즈데이",
+          "text": "침대에서 자요. 어른들 일에 더 끼어들 생각하지 말고... 그게 아이가 해야 할 일이랍니다..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "메이드가 뒤집은 도어 사인에는 ‘방해 금지’라고 적혀 있었다."
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

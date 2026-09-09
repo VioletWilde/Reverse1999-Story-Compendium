@@ -1,6 +1,6 @@
 # Roaring Stars
 
-- Chapter: Green Lake Nightmare (`12101`)
+- Chapter: A Nightmare at Green Lake (`12101`)
 - Episode: `1210104`
 
 > Subtitle: The last photograph of the best howler, it's dizzying and dotted with shining stars.

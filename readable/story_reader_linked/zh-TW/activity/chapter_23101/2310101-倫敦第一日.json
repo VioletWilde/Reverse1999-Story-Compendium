@@ -1,0 +1,693 @@
+{
+  "episode_id": 2310101,
+  "chapter_id": 23101,
+  "chapter_title": "聖火紀行：東區黎明",
+  "display_label": "",
+  "title": "倫敦第一日",
+  "subtitle": "熱情的火焰上蒙著一層古怪的灰黃。",
+  "trails": [
+    {
+      "element_id": 2310101,
+      "owner_episode_id": 2310101,
+      "trigger_episode_id": null,
+      "title": "開業日",
+      "description": "它被發給所有烏盧魯預選賽的期待者與參與者。顯然，詳細介紹都在傳單背面。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=2310101",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "烏盧魯來了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "遊戲，美食，還有最重要的烏盧魯！\n歡慶集市已開放，期待您的到來！\n-------------------------------------\n\n重要通知：“你心中的冠軍”投票已開啟！\n歡慶集市中心街道，每人限投一次，快來投票吧！\n\n驚喜！烏盧魯模擬賽 全面開放\n3大賽區：射擊、競速、球類運動，共計7個項目\n6便士即可暢玩！\n\n-------------------------------------\n店鋪特別推薦：維克多電影院\n《烏盧魯傳奇運動員》系列紀錄片  上映中！\n-------------------------------------\n\n特別驚喜：每週一、三、五晚，烏盧魯特別問答\n冠軍將獲得兩張指定項目觀賽票！\n\n-------------------------------------\n店鋪特別推薦：普克占卜店\n比賽預測、好運加持   就在普克占卜店\n-------------------------------------"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "202301",
+      "internal_title": "【2.3】东区黎明-01.1",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "我們走吧。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "司機",
+          "text": "好的，那我們就出發了，小姐。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "司機",
+          "text": "您以前來過倫敦嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "是的……在很久之前。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "司機",
+          "text": "五年？十年？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "要更久遠。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "司機",
+          "text": "能有多久呢！您看上去年紀並不大。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "呵呵。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "司機",
+          "text": "再過兩條街就是您要去的那家醫院了，噢，對了，順帶一提——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "司機",
+          "text": "——按照流程，您應該先和福葛先生見一面，之後他會帶您仔細參觀一遍這家醫院的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "我只是來看一眼，不用這麼大的陣仗。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "司機",
+          "text": "這倒是千真萬確，女士。如果讓服務於王室的老爺安排一場正式的訪問，這家醫院肯定會被裝點得像是要過聖誕節。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "嗯，謝謝你願意為此繞路。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "我會在參觀完後自己去福葛先生的辦公室，你不用等我了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "其實，我很願意見識一下倫敦出名的地鐵。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "司機",
+          "text": "地鐵？這可不行，女士，那東西和運煤車沒什麼區別，體面人從來不會坐地鐵。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "司機",
+          "text": "我就在這等您，別擔心我會沒事情做——我所有的精力都要用來克制我對一杯愛爾蘭威士忌的渴望。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "好吧，我很快就會結束。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "——！"
+        },
+        {
+          "kind": "title_card",
+          "text": "基金會辦公室"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "第一防線學校校醫院的生活還不算太糟吧，牙仙？聽說那些吵吵鬧鬧的學生們都很喜歡你。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "年紀小的孩子們總是比較好安撫，只要他們能聽話，我會給一顆他們喜歡的糖果。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "通常太妃糖就能起作用，其次是水果硬糖——都是一些能讓他們忘記牙仙味道的東西。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "適當分量的甜食能幫助你放鬆神經，不管對大人還是小孩都一樣。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "牙仙取出一枚白紙包的奶糖，輕輕放在Z女士裝滿特濃茶水的搪瓷杯旁。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "副會長身邊的麻煩事一定比校醫院要多，況且你還要關照我們新任的司辰——她是個愛闖禍的孩子。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "所以，我想你叫我來這間辦公室並不是為了一顆糖，以及一次閒聊。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Z剝開糖紙，將奶糖置於口腔中慢慢融化。與此同時，一沓規格不一的紙張被遞至牙仙面對的桌前。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "鑒於上一次“暴雨”中，基金會已經確定了時代動亂與“暴雨”的關聯性，各分部正在收集有關社會運動的報告。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "這是倫敦分部提交的一份報告，內容是剛剛在倫敦結束的罷工運動……不，你暫時不用關心有關罷工的細節。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "年輕的校醫迅速翻動文件，還未經指引，就已抓住了關鍵詞彙。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "肺結核。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "沒錯，附錄中的倫敦空氣污染和肺結核病例報告裡有一些異常的數據。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "比對史實資料來看，該時期倫敦的肺結核發病率不可能高到這種程度，這幾乎達到了1952年倫敦煙霧事件時的水準。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "而且，這個年代的“霧行者”福葛先生也聲稱，濃霧的成分有些異常。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "需要有一位對“暴雨”知情的人員前往倫敦，最好還有醫學背景……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "我明白了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "我知道你的冬季假期剛剛開始，但基金會仍舊處於人力不足的狀態中。我會為你的這次特別外勤申請額外津貼的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "不必擔心，我很樂意前往。或許此行能收集到一些在其他時代見不到的牙齒。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "祝你好運。等你到了倫敦，福葛先生會與你接洽——他奉王室之命，是英國政府與基金會之間溝通的橋樑。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "按照以往的流程，他會先帶你參觀倫敦市內收治呼吸系統疾病病人的醫院。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "在此之後，你可以自由決定如何行動。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "順帶一提，倫敦人對烏盧魯預選賽的熱情可能會影響到你的調查效率。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "烏盧魯？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "“烏盧魯倫敦預選賽開幕在即，十字街將為神秘學家舉辦預熱集市……”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "“……為你支持的運動員呐喊助威……”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "“……不列顛的運動員將帶著榮耀前往澳洲參加決賽。”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "司機",
+          "text": "澳洲？——我叔叔可是一邊哭著一邊登上了去澳大利亞的船，我們都認為一個人必須要打得過袋鼠才能在那地方安身立命。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "司機",
+          "text": "但要是倫敦街頭天天遇上剛才那樣，我絕對會把車賣了，去澳洲給我叔叔幫手——他可能打不過袋鼠。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "眉頭緊皺的乘客將偶然得到的傳單疊好，烏盧魯運動會並不是她現在正在關注的問題。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "我們剛剛遭遇的黑霧幾乎摧毀了一座醫院，而你好像不太驚訝。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "司機",
+          "text": "這算不得什麼大事，女士，每年光是煤氣管道爆炸都能掀翻好幾座屋子。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "司機",
+          "text": "見怪不怪是一種生活智慧，還是一種紳士風度，尤其是你出門喝杯茶，都能把全世界的神秘學家都遇上的時候。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "司機",
+          "text": "倫敦全是阿拉伯人、北非人、印度人，還有日本人……天知道他們會使些什麼神秘術呢？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "警察接管了事故現場，可我擔心他們能否做好肺結核醫院的善後工作。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "司機",
+          "text": "警察廳自有一套辦事方法……不算特別友善的那種。所以我說，這事您要儘早和福葛先生通氣。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "司機",
+          "text": "也就他還願意花時間和大人物費盡脣舌，就為了救濟院每天能多領到幾磅麵包配額。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "福葛先生得知消息的速度肯定會比我們去傳話更快。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "我仍然認為，對我們來說，最好的做法是沿著黑霧在街道上留下的裂痕繼續追蹤，說不定有機會追上它，或是它的主人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "司機",
+          "text": "如您所願，女士。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "汽車沉默地向東行進，經過一條又一條越來越狹窄的街道。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "司機",
+          "text": "……再往前走就是東區了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "司機",
+          "text": "東區，沒錯，女士，就是東區。酒鬼和流浪漢遊蕩的東區，開膛手傑克曾留下罪行的東區……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "一次全力以赴的急刹車，刹車片發出尖厲的哀嚎，車頭傳來不祥的撞擊感與孩子的驚叫。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "司機",
+          "text": "——臭小子！！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "太陽穴上的神經一陣刺痛，牙仙幾乎是跌跌撞撞地衝出車廂。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "司機從車窗裡探出頭，爭搶著為自己的失職辯解。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "司機",
+          "text": "女士，我絕沒碰一滴酒，但東區就是這個樣，好司機不會在這種地方開車，尤其還是這種大霧天。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "司機",
+          "text": "要嘛是你撞到了什麼人，留下一攤血跡，要嘛是被人用石子砸碎了車窗。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "司機",
+          "text": "……你看清我撞著什麼東西了嗎？告訴我吧，我承受得住。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "可……車前沒有人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "司機",
+          "text": "沒有人？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "向上看。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "司機",
+          "text": "小心頭頂，女士！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "牙仙仰起頭。漫天飛舞的紙片旋轉著下落，其中有一團色彩駁雜的布團格外顯眼，仿佛是被人遺棄的舊麻布袋。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“麻布袋”",
+          "text": "你想接住我嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "女孩的裙角被風鼓起，她如一朵水母般浮游於半空。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "空中的彩色紙片沿著漩渦的軌跡，緩緩匯集在女孩身邊——它們都是尚未散發的烏盧魯宣傳單。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "風……她毫不費力地用神秘術將自己的身體托了起來，在她這個年紀，可真少見。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "小麻布袋緩緩地降了下來，牙仙憑本能伸出雙手，可它忽然在空中飄向了另一個方向，輕巧地落在幾步之外的路肩上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“麻布袋”",
+          "text": "你輸了，你不是一個厲害的運動員。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "你受傷了嗎，孩子？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“麻布袋”",
+          "text": "我為什麼會受傷？我還沒有飛到和金絲綿雀的窩一樣高，只要輕輕地落下來就好了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“麻布袋”",
+          "text": "可是奇奇比翁受傷了，黑色的汽車把他的腰給撞斷了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "司機",
+          "text": "奇奇比翁？他是你的朋友嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“麻布袋”",
+          "text": "是的，他被撞到之後就跑開了。不過他很記仇，說不定馬上就會找回來了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "小麻布袋指向道路左側的暗巷，陰暗而多霧的角落中，有一對閃閃發光的眼睛掩藏在垃圾箱之後。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "“麻布袋”",
+          "text": "他就是奇奇比翁，而我是紙信圈兒。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "司機",
+          "text": "……叫你的朋友出來吧，我得為他的腰道歉。他或許這輩子也沒法去碼頭討生活了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "紙信圈兒",
+          "text": "他不用去碼頭做工，不過道歉是應該的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "紙信圈兒面向小巷，如招呼最親熱的好友那般向小巷深處揮著手。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "紙信圈兒",
+          "text": "奇奇比翁，快出來，這位先生想要向你道歉，也許他買了保險呢。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "藏在陰暗街角中的奇奇比翁蠢蠢欲動，它攪動著淡黃色的霧氣，突然躍出。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "奇奇比翁",
+          "text": "奇奇——嗡——嗡——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "司機",
+          "text": "這玩意——這玩意根本就沒有腰！它比袋鼠還大啊！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "紙信圈兒",
+          "text": "是你看不見他的腰！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "受驚的魔精很危險。退後。"
+        }
+      ]
+    },
+    {
+      "script_id": "202302",
+      "internal_title": "【2.3】东区黎明-01.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "司機",
+          "text": "哦！哦！哦！該死！該死！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "發動機再次啟動，活塞缸打著撤退的鼓點，帶著汽車遠離這片滿是髒汙的街區。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "紙信圈兒",
+          "text": "開車的先生像奇奇比翁一樣溜走了，他不和我們一起去玩嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "這位先生擔心留在這條街上會弄壞他的車，他不想因此丟掉工作。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "紙信圈兒",
+          "text": "丟掉工作？這個我明白，我也不想丟掉工作。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "小女孩極富同理心地點頭。可在更成熟的大人眼中，這個年紀的孩子和工作這一詞完全沒有關聯。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "紙信圈兒",
+          "text": "他一週賺的錢肯定比六便士更多，不然可買不起一輛車……他是做什麼存到這麼多錢的？我也能做到嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "你需要再長大些才行。來，張口。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "牙仙指尖出現了一份金光閃閃的藥膏——由金色仙子添加羊毛脂後研磨而成，用以避免初次生吞牙仙的恐懼。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "紙信圈兒",
+          "text": "這是什麼？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "藥膏。你受傷了，內服可以止痛，外用可以消炎。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "紙信圈兒",
+          "text": "我身上有些痛，可是消……炎？什麼是“瞎咬”？女巫小姐還沒教會我怎麼“瞎咬”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "總之，它能讓你變得更舒服。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "聽醫生的話，好嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "孩子的好奇心輕易戰勝了對未知事物的抵觸，她伸長脖子，一口吮住牙仙沾滿藥膏的手指。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "紙信圈兒",
+          "text": "唔……有點酸，還有點像發霉的覆盆子，但總的來說還是甜甜的，為什麼別的藥不像你的這樣甜？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "紙信圈兒",
+          "text": "你戴著很奇怪的金屬“面具”，胸前還有好多牙齒，罐子裡裝著金色的小精靈。你是巫醫，對嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "你也可以這麼認為。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "紙信圈兒",
+          "text": "那你一定是來參加烏盧魯歡慶集市的！看，你還帶著集市的宣傳單呢。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "我是來倫敦調查肺結核病的醫生，可是一道奇怪的黑霧摧毀了我正要造訪的醫院。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "我在追蹤這道煙霧的去向，所以才來到了這裡。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "紙信圈兒",
+          "text": "這裡沒有什麼黑霧，空氣一直都是黃乎乎的，又高高地飄在天上。只有紅磚廠的煙囪會冒黑煙，但那些廠房都不在十字街。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "紙信圈兒",
+          "text": "十字街上的人都在關心烏盧魯，這裡很多人都會神秘術，會神秘術的人都在慶祝將要到來的烏盧魯。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "紙信圈兒",
+          "text": "這裡有草藥師、通靈師、占星師、魔術師……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "牙仙",
+          "text": "我明白你的意思了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "如果不被打斷的話，紙信圈兒能把這條街上的每一份神秘學工作都唸一遍。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "紙信圈兒",
+          "text": "你明白就好了。我帶你去看看，你一定會喜歡的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "紙信圈兒拉住客人的手，把她往十字街的深處拽去。"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

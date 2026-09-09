@@ -1,6 +1,6 @@
 # New Blood
 
-- Chapter: Nouvelles et Textes pour rien (`103`)
+- Chapter: Nouvelles et Textes pour Rien (`103`)
 - Episode: `10304`
 
 > Subtitle: The new blood will rush into the gigantic body, making every effort to serve it.

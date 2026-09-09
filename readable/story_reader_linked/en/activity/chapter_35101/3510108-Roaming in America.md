@@ -1,6 +1,6 @@
 # Roaming in America
 
-- Chapter: 绿松石蛇俱乐部 (`35101`)
+- Chapter: The Turquoise Serpent Club (`35101`)
 - Episode: `3510108`
 
 > Subtitle: A journey through the structure of time and history.

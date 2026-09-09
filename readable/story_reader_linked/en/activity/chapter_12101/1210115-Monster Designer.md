@@ -1,6 +1,6 @@
 # Monster Designer
 
-- Chapter: Green Lake Nightmare (`12101`)
+- Chapter: A Nightmare at Green Lake (`12101`)
 - Episode: `1210115`
 
 > Subtitle: Slicing and stitching, new scratches, and old sores—my flawless creations.

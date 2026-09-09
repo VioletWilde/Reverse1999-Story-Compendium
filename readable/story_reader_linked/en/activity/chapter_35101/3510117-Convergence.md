@@ -1,6 +1,6 @@
 # Convergence
 
-- Chapter: 绿松石蛇俱乐部 (`35101`)
+- Chapter: The Turquoise Serpent Club (`35101`)
 - Episode: `3510117`
 
 > Subtitle: Avant-garde ideals, bonds forged through shared labor, and a kindred aesthetic vision.<br>All shared memories of the past.

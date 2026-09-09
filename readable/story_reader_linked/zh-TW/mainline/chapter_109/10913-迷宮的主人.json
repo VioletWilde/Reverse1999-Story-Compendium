@@ -1,0 +1,550 @@
+{
+  "episode_id": 10913,
+  "chapter_id": 109,
+  "chapter_title": "瘋癲與文明",
+  "display_label": "",
+  "title": "迷宮的主人",
+  "subtitle": "一具迷宮建造者的屍骸。他以此宣告：世上最完美的迷宮誕生了。",
+  "trails": [
+    {
+      "element_id": 1091301,
+      "owner_episode_id": 10913,
+      "trigger_episode_id": null,
+      "title": "流動的哲學",
+      "description": "基金會需要打卡上班嗎？",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=913",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "我有一些你聽了會高興的情報。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "我給你一分鐘。",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "你會希望這一分鐘夠長的。因為這情報涉及我們都熟悉的一位朋友，一位你一直在尋找的故人。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "那位醫生，那位作家。她有很多個好名字，就像你，就像我。遺憾的是，她腦子裡留存的東西可不算多。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "正如那場戰役之後，只有少數倖存者記得她的厲害手段。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "如今，那位心地善良的好醫生又成了陰謀中的一個必要部分，老將軍對此心知肚明。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "他又知道了？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "失去指揮家的管弦樂隊雖不至於崩斷了弦，但確實演不出像樣的交響樂了。老將軍抓住了這點，他知道對方現在急需什麼。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "經驗除了帶來傷疤，還饋贈一指甲蓋大小的智慧。在這場單方面的豪賭中，他率先抓住了最大的籌碼。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "我不知道，這份報告裡沒有寫。但我有一個推測。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "那些熱衷於搗亂的傢伙充其量只是在四處撒下混亂的種子，再順手給炸藥的引線煽把風，但他們都未曾懷疑過炸藥的當量和排布。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "現在，他們或許意識到了這是不可控的變數，光有爆炸不能解決問題。所以他們得另想辦法——即使會是一場長久而艱難的遷移性工程。"
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "說下去",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "一分鐘到了，我該走了，時間真是過得特別快，一如既往。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "我會在有進一步報告時回來，希望你能活得長久一點，這樣我們還能相處很長一段時間。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "什麼陰謀？",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100918",
+      "internal_title": "第九章9-13.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "迷宮的主人"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "寂靜的室內只餘心電監護儀的聲響。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "呼……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "獄醫先生，如果你真的是阿萊夫的話……我不知道你為什麼要這麼做，要利用我的小說來操縱監獄。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "但無論是小說還是現實，最終都無法達到你想要的效果。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "你說，想通過這種模式，讓所有人都成為科馬拉監獄的觀察者……但你有正視過科馬拉監獄現在真實的狀態嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "那些囚犯沒有因為這個所謂的實驗，而實行某種完美的紀律……相反，他們成為了一種可悲的存在，享受著來自瞭望塔的視線，進行著誇張的自我表演。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "本應根據病情分配的藥物與物資，變成了一場彰顯“命運的隨機性”的表演道具；瞭望塔與環形監獄，則成為了他們的舞臺。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "監獄並沒有因為這場表演而變得更好，應該得到救治的病人最終只會默默地死亡在角落。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "就連文學也是如此……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "這個監獄的一切，都是在這種“權力的視線”下誕生的怪物……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "阿萊夫，這就是你想要的答案嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "漫長的沉默後，獄醫彷彿被驚醒一般，他後退一步，失手碰掉了臺上的手術刀具。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "獄醫",
+          "text": "……什麼？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "獄醫",
+          "text": "這就是……我獲得的答案？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "獄醫",
+          "text": "你的意思是，在我不知曉的時刻，我的探索早已失敗了嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "獄醫",
+          "text": "不，這不可能。傅柯的理論是完美的！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "全盤否定的言辭讓他難以容忍。\n男人看似鎮定地在檯面上尋找著什麼，卻不小心將所有手術工具都清空到了地上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "獄醫",
+          "text": "我排除了所有的障礙，才讓這座監獄運作起來，它是如此的純粹，如此的獨立……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "獄醫",
+          "text": "我不斷評估、改變下屬的行為，只為了讓他們用最好的方法來監管這裡。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "獄醫",
+          "text": "……而你現在告訴我，我所做的一切，都早已失去了原本的意義？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "獄醫",
+          "text": "我奉行的理論，它早已被另一種權力模式取代？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "獄醫",
+          "text": "外來者，你只是妄圖阻礙紀律的運作……那些犯人，他們仍然處於完美的紀律之中！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "獄醫",
+          "text": "在這個優越的場所裡，任何情況都瞞不過我。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "終於，在不易察覺的角落中，他找到了那顆縈繞著黑霧的二十面骰。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "獄醫",
+          "text": "製造奇跡不易，我們一向知曉。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "獄醫",
+          "text": "我將親自確認一切。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "監獄掌控者所有的情緒，在將骰子握入手掌的瞬間消融。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "狹窄的手術室震顫著，彷彿回應掌控者的呼喚一般，發出扭曲的尖嘯。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "發生了什麼？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "獄醫",
+          "text": "來自另一個時代的訪客們，你們企圖憑藉語言傳播的疾病，將科馬拉的幽禁打破。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "獄醫",
+          "text": "但你們有認真凝視過腳下的每一片瓷磚、每一條裂縫、每一道水痕的消失與重現嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "獄醫",
+          "text": "從這個房間，到另一個房間，到每個房間。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "獄醫",
+          "text": "你們徘徊於此，認為它們一模一樣，認為它們是一個不可理喻的瘋人迷宮。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "獄醫",
+          "text": "但這裡並非奇妙幻想的空間，而是基於對秩序與權力的運用所誕生的天地。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "獄醫",
+          "text": "從一根在風中漂浮的蜘蛛絲開始，到活動場地走廊把手上的一粒鏽跡結束——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "獄醫",
+          "text": "我親手搭建了這座圓形的房子。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "獄醫",
+          "text": "在這顆無盡變幻的骰子裡，它的映射足以讓概念變成現實，讓思想成為物質。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "獄醫",
+          "text": "我觀察著每一件事物，時間每一分秒的流動：你們的腳步從來沒有走出過這個實驗的範圍。"
+        }
+      ]
+    },
+    {
+      "script_id": "100919",
+      "internal_title": "第九章9-13.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "在理想家先生遇襲的時候，我們也遇到過這樣的情況！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "原來從一開始，我們就身處骰子所構建的監獄之中嗎……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "這一切，都是獄醫所創造的場景……？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "監獄的扭曲逐漸嚴重了……我們要做好隨時戰鬥和撤退的準備。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "情況逐漸變得不受控制。手術室中，所有的一切都在尖嘯，扭曲，化作意義不明的黑白線條。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "拜託了，梅林先生，快停下來！！！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "獄醫",
+          "text": "不，你們的要求太荒唐了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "獄醫",
+          "text": "這種精心設計的概念不應該受到一絲外來影響就陷入紊亂……因為它是註定要傳遍整個社會機體的……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "獄醫",
+          "text": "但你失敗了，梅林。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "獄醫",
+          "text": "我沒有！我沒有！只要保證它不停地運作……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "獄醫擺弄著骰子，古怪地自言自語著。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "獄醫",
+          "text": "運作的只是骰子，而並非你的權力機制。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "獄醫",
+          "text": "它是巫術，是魔法，它不包含多種多樣的力量，並不是你所追求的權力物理學，也無法成為權力實驗室。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "獄醫",
+          "text": "它是重塑之手和軍政府給你的幻想，一個不存在的存在。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "重塑之手？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "你果然和重塑之手有關係。你們究竟想做些什麼？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "獄醫",
+          "text": "我……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "獄醫",
+          "text": "所以我也失敗了嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "獄醫",
+          "text": "就像追求本能現實主義的理想家、煉製永生之泉的帕拉塞爾蘇斯、尋找單面硬幣的扎希爾那樣，成為了一個在混亂紛蕪現實中迷失的可憐蟲。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "獄醫",
+          "text": "阿萊夫，一切都是從哪裡開始潰敗的？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "獄醫",
+          "text": "是從門把手的鬆動、囚犯潰爛的傷口、每日28毫克濃度的消毒水、牆壁上第二塊灰磚的裂縫擴至6毫米開始嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "獄醫",
+          "text": "還是說從典獄長達爾杜夫，帶著國家傅柯協會解散的消息離開烏蘇懷亞開始？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "獄醫",
+          "text": "我們這裡理應是精神分析的最佳實踐場所……為什麼他們不再探討這一切了？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "獄醫",
+          "text": "我們被舊時代和新時代同時放棄了，對嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿萊夫",
+          "text": "你為科馬拉設計了一切，每一處細節都經過了精心的雕琢和漫長的調整。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿萊夫",
+          "text": "但最終這一切細節也將你束縛在這個監獄中。梅林，你馬上就會丟失自己的名字，永遠成為一個被困於此處的“獄醫”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "獄醫",
+          "text": "我不能理解……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿萊夫",
+          "text": "這些虛假的時代，它本身就是一本無盡的書。在這本可怕的書裡尋找答案，本身就是錯誤的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿萊夫",
+          "text": "你和他們一樣，註定無法尋找到屬於自己的超限。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "獄醫",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "獄醫",
+          "text": "告訴我，阿萊夫，那個答案，它真的存在嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "那顆掌控一切的骰子重得讓他再也無法握住，它掉到了地上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "監獄的扭曲與震顫終於歸於寂靜，彷彿一道不可視的巨大脈搏停止了瞬息。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "受到揚起的煙塵影響，互相攙扶著站穩身形的女孩們並未留意到謎底的出現。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "咳咳……司辰，您還好嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "咳咳……我沒事，你呢？還有虛構集小姐，你還好嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "虛構集小姐……？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "煙霧散去，沒有人應答。被點名的少女只是震驚地望著眼前的人影。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "虛構集",
+          "text": "你……你是……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "烏托邦[Utopia]源自於希臘語，意思是“不存在的地方”。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "人們深信不疑，潛心琢磨這無休止的迷宮，探索人類的奧秘。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "同時，人們迷惑不解，亦感荒謬，信奉命運帶來的吉凶禍福。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "彷彿只需如此，世上所有的一切都會變得微不足道。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿萊夫",
+          "text": "在今日，極夜已經造訪南方。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "阿萊夫",
+          "text": "歡迎你的到來，我的筆友。"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

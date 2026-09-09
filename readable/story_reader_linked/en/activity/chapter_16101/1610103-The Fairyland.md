@@ -1,6 +1,6 @@
 # The Fairyland
 
-- Chapter: Notes on Shuòrì (`16101`)
+- Chapter: Notes on Shuori (`16101`)
 - Episode: `1610103`
 
 > Subtitle: This meadow is an anomaly in this environment, only possible during extreme temperature shifts. It could be caused by fungus or a mysterious creature passing through.

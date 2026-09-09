@@ -1,0 +1,638 @@
+{
+  "episode_id": 3610114,
+  "chapter_id": 36101,
+  "chapter_title": "사람은 어디로 가는가",
+  "display_label": "",
+  "title": "미련 없이 앞으로 나아가라",
+  "subtitle": "보다 아름다운 곳에서, 혹은 미래라 불리는 그곳에서.",
+  "trails": [
+    {
+      "element_id": 3610109,
+      "owner_episode_id": 3610114,
+      "trigger_episode_id": null,
+      "title": "착용 가이드",
+      "description": "파티에 참석할 때 가장 좋은 옷차림은 사람들과 어우러지는 옷차림이라는 걸 명심하세요.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=3610114",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "오늘 연회 공지"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "공지\n우주 팀 여러분! 이번 주 토요일에 축하 파티를 열 예정입니다. 모두 본인이 가진 가장 멋진 옷을 차려입고 오세요!\n                                                             히사베스\n공지\n메디슨 포켓이 새로운 탕약 캔디 디저트를 개발했어! 예쁜 납작 원형이니까 모두 시식하러 와!\n                                                                37\n공지\n장소 대관 문제로 이번 주 ‘노티카 씨와의 소통’ 시간은 토요일 15:00~17:00에서 금요일 동일 시간대로 변경되었습니다.\n                                                            에즈라\n공지\n 보고서를 데이터베이스에 업로드했습니다.\n                                                                X\n공지\n선생님을 따라 예법에 맞는 복장을 구매하러 갔다 올게요. 오늘 14:00~18:00 사이에는 사무실에 당직 인원이 없으니 방문 시 참고해 주세요.\n                                                          키페리나\n공지\n...이렇게까지 격식을 차려야 하나요? 알겠습니다. 제시간에 맞춰 가도록 하죠.\n                                                            네임데이\n공지\n이번 주 토요일부터 정식으로 라플라스 연구 센터의 책임자 직무를 수행하게 되었습니다. 숙지 바랍니다.\n                                                            아들러\n공지\n우주 팀 축하 파티 말입니다만, 그냥 오셔도 됩니다. 정장을 갖춰 입으라는 건 실비가 흥에 겨워 내뱉은 독단적인 요구일 뿐입니다.\n                                                              포인터"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "203621",
+      "internal_title": "【3.6】人们向何处去14",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "정말 상세한 보고서네."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "자네의 확고한 입장 표명까지 더해졌으니, 당분간 연구 센터가 골치 아픈 일에 휘말릴 일은 없겠어."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "비서실장이 손에 든 문서를 훑어보며 고개를 끄덕였다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "이니그마",
+          "text": "연구는 이 상자의 진실이 밝혀질 때까지 계속 진행될 거야."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "이니그마",
+          "text": "‘장난감 상자’ 연구팀이 정식으로 설립되면, 더 상세한 보고서를 제출하도록 하지. 지금 네 손에 있는 문서는 최종 결론이 아니야."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "이니그마",
+          "text": "...재단과의 협력 문제 역시 마찬가지고."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "취임을 앞둔 연구원은 타협 속에서도 자신의 의지를 관철하는 법을 익혔다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "숙고 없이 확답을 내놓는 자는 도박꾼 아니면 사기꾼이라고 하지."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "연구원으로서 자네의 신중함과 이성이 여전히 신뢰할 만해서 기쁘군."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "물론, 자네가 더 이상 단순한 연구원에 머물지 않기로 결심한 게 가장 기쁘지만 말이야."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "이니그마",
+          "text": "미안하지만, 난 아직도 자네의 선택을 온전히 이해하지 못하겠어."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "이니그마",
+          "text": "그리고, 조건이 하나 더 있어."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "...말해 봐."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "이니그마",
+          "text": "정식 취임 공문을 받기 전에, 타임키퍼를 한 번 만나고 싶군."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "이니그마",
+          "text": "재단의 입장이 타임키퍼의 입장을 완전히 대변하는 건 아니잖나. 안 그래?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "새로운 법안의 틀에서, 타임키퍼와 타임키퍼 소대는 확실히 더 큰 자율권을 행사하게 될 거야."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "모호하지만 충분히 교묘한 암시. 이 자율성 또한 결국 재단이 설계한 법적 테두리 안에 있음을 뜻했다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "어찌 됐든, 실현하기 어려운 요구는 아니군."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "라플라스의 연구 성과는 언제나 타임키퍼 작전에 큰 도움이 되고 있어. 이런 혼란스러운 국면일수록 서로의 신뢰를 재건하는 일은 필요하니까."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "이니그마",
+          "text": "자네, 이런 술책에 정말 능숙해졌군..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "이니그마",
+          "text": "...하, 나도 언젠가는 익숙해져야겠지."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "라플라스의 독립성 유지, 타임키퍼와의 회견. 그 외에 또 다른 요구사항 있어?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "이니그마가 잠시 침묵했다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "이니그마",
+          "text": "재단이 라플라스의 연구 성과를 사용할 때, 그 사유를 내게 미리 고지해줬으면 한다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "이니그마",
+          "text": "이 요구, 받아들일 수 있겠나?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "재단이 의도적으로 라플라스를 기만한 적은 없어. 자네들의 알 권리는 언제나 보장해 왔지."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "이니그마",
+          "text": "알 권리라. 하지만 그 사유라는 게 교묘한 반쪽짜리 진실이거나, 한참 뒤늦게 도착할 수도 있다는 게 문제지."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "이니그마",
+          "text": "너를 곤란하게 만들려는 게 아니야. 재단이 실제로 어떻게 돌아가는지는 네가 나보다 더 잘 알잖아."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "이니그마",
+          "text": "...자네 반응을 보니 역시 확답은 못 하겠군. 예상했던 대로야."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그녀는 긍정도, 부정도 하지 않았다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "이니그마",
+          "text": "다른 요구 사항은 없어."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그 긴 회의들이 드디어 그에게 도움이 되었다. 후퇴를 통해 전진하는 것. 그것은 이른바 ‘협상 전문가’들이 선호하는 전형적인 수법이었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "확정된 결과를 얻기 위해서가 아니라, 자신의 확고한 태도를 전달하기 위한 전략이었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "알겠어."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그녀가 잠시 멈칫했다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "일주일 내로 공식 임명 통지가 갈 거야. 그 후 모든 부처에 공표되겠지. 큰 이변이 없다면 말이야."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "말을 마치고, 그녀는 주변을 둘러보았다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "앞으로 처리해야 할 서류가 산더미 같을 텐데, 미리 정리 좀 해두는 게 어때?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "한 번 정리하고 나면 서류 뭉치가 조금은 얇아 보이거든. 이건 선배로서 해주는 조언이야."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "이니그마",
+          "text": "심리적 암시라도 거는 건가?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "효과만 있다면 말이지."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "비서실장이 문쪽으로 발걸음을 옮기고 작별 인사를 건넸다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "어쨌든, 축하해. 라플라스한테도 좋은 일이지."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "Z",
+          "text": "네 덕분에 이곳 사람들은 더욱 유익한 미래를 맞이할 거야."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "비서실장이 방을 나섰다. 암호학자는 서류로 쌓아 올린 ‘높은 벽’ 사이에 홀로 서서, 깊은 한숨을 내쉬었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "마르그리트",
+          "text": "회의실 입구, 이니그마가 발걸음을 멈춰 섰다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "이니그마",
+          "text": "마르그리트."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "라플라스는 거대한 조직이었기에 두 사람이 마주칠 일은 드물었다. 지난번에 보았을 때도 가벼운 목례를 나눈 것이 전부였다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그는 눈앞의 연구원을 진지하게 다시 살펴보았다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "어둠 속에서 차가운 금속 광채가 일렁였다. 마치 찢어진 천과 피부를 뚫고 나오는 나비 같았다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "이니그마",
+          "text": "당신..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "이니그마",
+          "text": "연구 결과는 훑어봤어. 꽤 훌륭하더군."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "연구원은 흠잡을 데 없는 완벽한 미소를 지었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "마르그리트",
+          "text": "고마워요, 아들러 씨."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "마르그리트",
+          "text": "그리고 축하드려요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "짧은 대화였지만, 그것으로 충분했다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그는 자신의 첫 공식 행보가 라플라스 내부에 돌이킬 수 없는 균열을 내는 일이 되기를 원치 않았다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "마르그리트",
+          "text": "들어가시죠, 아들러 씨. 모두가 당신을 기다리고 있으니까요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "모두",
+          "text": "생일 축하합니다!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "폭죽이 ‘펑!’하고 터지며, 이니그마의 머리 위로 형형색색의 종이 꽃가루가 쏟아졌다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "이니그마",
+          "text": "...도대체 다들 뭐 하는 거지?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "전혀 예상치 못한 광경이 펼쳐졌다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "분명 짧은 회의여야 했을 자리는, 문이 열림과 동시에 그의 통제를 완벽히 벗어나 버렸다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "X",
+          "text": "축하 파티예요, 이니그마 씨! 당신의 생일, 그리고 라플라스의 책임자가 되신 것을 기념하는 자리라고요!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "이니그마",
+          "text": "...오늘은 내 생일이 아닌데."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "히사베스",
+          "text": "어머, 그게 무슨 상관이야? 조금 앞당겨서 축하한다고 생각하면 되지."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "히사베스",
+          "text": "가장 중요한 건, 오늘이 그만큼 축하받아 마땅한 기쁜 날이라는 사실이니까!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "뱀Ⅰ",
+          "text": "쉬익, 케이크다! 이건 동물성 휘핑크림이야, 아니면 식물성 유지야?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "히사베스가 유쾌하게 다시 폭죽을 터뜨렸고, 자극적인 화약 냄새가 작은 뱀의 후각을 마비시켰다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "이니그마",
+          "text": "잠깐..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "울리히",
+          "text": "최근 공기 샘플 데이터로 봤을 때, 코티솔과 아드레날린 농도가 높아졌어."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "울리히",
+          "text": "최근 모두가 극심한 스트레스를 받고 있었다는 뜻이지. 특히 자네, 아들러 연구원. 자네의 수치는 그 누구보다 높았어."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "울리히",
+          "text": "이런 축하 파티는 모두의 긴장을 완화해주고, 나아가 앞으로 쏟아질 업무의 생산성을 높여줄 거야."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "자성 유체는 이번 파티에 대해 매우 ‘친절하게’ 이론적 근거를 뒷받침해주었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "메디슨 포켓",
+          "text": "자, 생일 파티잖아? 소원 빌어야지, 이니그마! 뭐라고? 나더러 대신 빌어달라고? 정 그렇다면야, 사양 안 할게."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "메디슨 포켓",
+          "text": "내 소원은 세상 그 무엇보다도... 오늘 내 신청서가 통과되는 거야! ‘장난감 상자’의 외벽 샘플이 좀 필요하거든."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "이니그마",
+          "text": "기각이야! 네 탕약나무 추출물 식용 연구도 억지로 통과해 줬잖아. ‘장난감 상자’는 구조적 안정을 유지해야 한다고."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "메디슨 포켓은 눈을 흘기며 흥미를 잃은 척, 슬그머니 테이블 위 ‘장난감 상자’ 쪽으로 다가갔다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "이니그마",
+          "text": "상자에서 떨어져... 안 돼..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "회의실 안의 파티는 이 천재들에게 오랜만에 마음껏 날뛸 수 있는 완벽한 구실이 되어주었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "이제는 아무도 이 모임이 원래 무엇을 위해 소집되었는지 따위는 신경 쓰지 않았다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "이니그마",
+          "text": "다들 내 말 좀 들어봐!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그는 못 이기는 척 목소리를 높였다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그의 천재 동료들이 드디어 그에게 시선을 집중하기 시작했다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "이니그마",
+          "text": "...알다시피, 앞으로 내가 라플라스의 책임자 자리를 맡게 됐다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "X",
+          "text": "오호~?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그리고 X가 휘파람을 불며 응원했다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "히사베스",
+          "text": "세상에! 정말 몰랐던 소식인걸."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "울리히",
+          "text": "그다지 놀라운 결정은 아니군."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "울리히",
+          "text": "자네는 이미 오래전부터 그 일을 해오고 있었으니까."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "울리히",
+          "text": "비록 자네가 적응하는 데 시간이 좀 걸리긴 했지만, 결국 루시 씨의 판단이 옳았다는 게 증명된 셈이지."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "이니그마",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그는 나름대로 할 말을 준비해 왔지만, 의사 결정권자가 어떤 방식으로 자신을 표현해야 하는지에 대해서는 거의 고민해 본 적이 없었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "이니그마",
+          "text": "...확실히 나도 쓸데없는 습관이 단단히 들어버린 모양이군."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "X",
+          "text": "무슨 말을 하고 싶은 거죠? 이니그마 씨?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그는 눈앞에 있는 동료들을 바라보았다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "객관적으로 그들은 천부적인 재능만큼이나 까다로운 성격의 소유자들이었고,"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "주관적으로는 구제 불능의 괴짜들이었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "마르그리트",
+          "text": "하지만 그들은 모두 단 하나의 신앙을 공유하고 있었다. 그것은 바로..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "과학."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그는 준비해 두었던 말들을 마음속으로 삼켜버렸다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "이니그마",
+          "text": "어쨌든, 잘 해보겠다고."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "이니그마",
+          "text": "이 자리에 더 어울리는 사람을 찾을 때까지 말이야."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "이니그마",
+          "text": "비에 휩쓸리지 않은 사람은 죽은 뒤 어디로 가는 걸까."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "이니그마",
+          "text": "...이건 아직 해답을 찾지 못한 문제야."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "낱말 퍼즐의 무수한 빈칸 중 하나이기도 했다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "이니그마",
+          "text": "나는 ‘신’의 존재를 믿지 않아. 천국이나 지옥이 있다고도 생각하지 않지."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "이니그마",
+          "text": "누나가 직접 내게 답해줬으면 좋겠어, 그레타."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "이니그마",
+          "text": "내가 직접... 누나에게 물어볼 수 있다면..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그는 방아쇠에 손가락을 걸고 천천히 당겼다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "이니그마",
+          "text": "‘탕’."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "호프만",
+          "text": "인류의 시대는 이미 끝나버렸다는 것을."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "호프만",
+          "text": "그래도 너는 여전히 살아갈 수 있어..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "정교한 권총 한 자루이자, 그것은 생일 선물이었고,"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "‘유품’이었으며,"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "하나의 시작이었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "호프만",
+          "text": "‘우리’들의 시대에서."
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

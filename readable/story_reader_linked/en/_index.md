@@ -2,19 +2,19 @@
 
 ## [Main Story](mainline/_index.md)
 
-- Main Story: 14 chapters, 302 episodes
+- Main Story: 13 chapters, 289 episodes
 
 ## [Event Stories](activity/_index.md)
 
-- Event Stories: 19 chapters, 349 episodes
+- Event Stories: 22 chapters, 396 episodes
 
 ## [Character Stories](character/_index.md)
 
-- Character Stories: 19 chapters, 166 episodes
+- Character Stories: 16 chapters, 119 episodes
 
 ## [Anecdotes](anecdote/_index.md)
 
-- Anecdotes: 21 chapters, 146 episodes
+- Anecdotes: 20 chapters, 140 episodes
 
 ## [Others](other/_index.md)
 

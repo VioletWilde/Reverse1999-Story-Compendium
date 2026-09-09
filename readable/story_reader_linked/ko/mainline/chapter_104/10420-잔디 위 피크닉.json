@@ -1,0 +1,831 @@
+{
+  "episode_id": 10420,
+  "chapter_id": 104,
+  "chapter_title": "호랑이들의 황금",
+  "display_label": "",
+  "title": "잔디 위 피크닉",
+  "subtitle": "햄과 빵, 음료수는 크리터들보다 맛이 \n좋을 것 같다.",
+  "trails": [
+    {
+      "element_id": 1042001,
+      "owner_episode_id": 10420,
+      "trigger_episode_id": null,
+      "title": "오솔길① 스포트라이트 바깥",
+      "description": "",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=420",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "이야기가 새로운 국면으로 접어들었어."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "이 이야기는 매우 감동적이고, 굳은 충성심, 절망에서 피어난 희망으로 가득하지, 심지어 약간의... 약간의 부적절한 자극적 요소도 섞여 있어."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "고개 들어, 우리의 머리 꼭대기가 이 휘황찬란하게 빛나는 무대등 때문에 벌써 화구 위의 프라이팬처럼 뜨거워졌어."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "우리는 입으로 중얼거리며, 중얼거리고, 중얼거리지... 마도학자를, 새로운 변화를, 굳은 지킴을, '폭풍우'를 중얼거리지. 오, 맞아, 바로 '폭풍우'야!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "'폭풍우'는 우리 쪽에선 이미 대수롭지 않은 소식이야. 이 이야기 속의 사람들은 모두 늘 폭풍우라는 단어를 입에 달고 살기 때문에 전혀 새롭게 느끼지 않지."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "일단 네가 카메라를 스포트라이트 밖으로 돌리면, 무대 위에 많은 사람이 서 있는 걸 발견할 거야. 아주 아주 많은 사람들."
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "그 사람들은 누구야?",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "또 다른 배우들이야. 너희랑은 다른 배우지."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "녀석들은 출연자 명단에 이름이 나오지 않아. 심지어 불쌍한 '성 파블로프 재단 소대장A'도 되지 못했지."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "그 사람들은 어디에서 왔어?",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "좋은 질문이야. 누구에게나 출처가 필요한 법이니까."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "그럼 나도 간단하게 대답해 줄게, 호기심 많은 녀석아... 녀석들은 다들 자기 엄마의 배 속에서 나왔어. 그리 어렵지 않지?"
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "다들 너희와 똑같은 사람들이야. 물론 차이가 있긴 하지만, 그 사람들의 배를 열면 간, 위, 비장, 폐, 심장을 전부 갖췄어."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "녀석들은 이목구비가 뚜렷해. 자세히, 자세히 봐. 오, 그중 한두 명은 너도 본 적이 있어."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "녀석들은 너와 같은 조직, 빛나는 성 파블로프 재단에서 왔어."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "프랑스 지부의 에바, 이집트 지부의 라, 러시아 지부의 마트료시카."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "그건 그렇고, 네가 가장 먼저 알아본 지부 친구, 빨간 코의 젊은이는 스코틀랜드 지부에서 온 켄이야. 하지만 왼쪽부터 오른쪽까지 둘러봐도 더 이상 보이지 않지."
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "켄은 어디로 갔어?",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "좋은 질문이야, 함께 녀석을 찾아보자."
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "계속해서 주변을 둘러보자, 좌우는 포기하고 머리 위를 봐... 그래, 위를 봐! 눈 부신 불빛을 두려워하지 마, 마치 눈이 멀어버릴 것처럼 바라봐!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "봤구나. 그건 네가 지금껏 봐온 어떤 우산보다 더 크고 넓은 하얀 우산이야. 네 눈동자 앞에 있는 따끔한 녹색 반점은 그걸 위해 치른 대가지."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "이 하얀 우산은 많은 비를 막아 주었고, 주황색 머리칼에 흰옷을 입은 여자애를 너에게 남겨줬어."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "'폭풍우'가 쏟아지는 곳, 가려지지 않은 장소들의 경우, 사람들이 어떻게 사라지는지 너는 직접 목격했어."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "네 친구들처럼, 그리고 스코틀랜드 지부의 켄처럼."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "내가 말했던 차이 기억나?"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "...",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "지금은 침묵하기 좋은 타이밍이야."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "네 풍부한 트라우마와 비참한 과거가 지금 이 순간 크게 폭발하며, 모든 이들의 심장을 아프게 할 거야."
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "하지만 다시 생각해 봐."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "만약 모든 사람이 진실을 알게 된다면, 현재가 허구이고 미래가 오지 않는 걸 알게 된다면, 나는 곧 신발을 먹어 치우고, 소행성이 곧 떨어져서... 사람들은 모두 미쳐버릴 거야."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "이성을 중시하는 '흰 비둘기'들은 당연히 그런 일을 원하지 않아."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "그래서 녀석들은 가장 합리적인 선택을 했어. 이 거대한 흰 우산은 늘 자신이 인정한 사람만 감싸주지."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "이제 팔짱을 끼고 도도한 태도로 \"너무 잔혹해\"라고 평가한 뒤 다시 생각해 보자."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "이 배가 사람들을 모두 데려가야 할까? 과연 해낼 수 있을까?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "네가 최대한 침착하게 이 질문을 던지면, 그 흥분한 녀석들은 마치 찬물을 끼얹은 뜨거운 냄비처럼 '치익'하는 소리와 함께 조용해질 거야."
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "...그 사람들의 심정은 어때?",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "그 사람들의 심정. 아! 에바, 라, 마트료시카를 말하는구나! 친구를 신경 쓰는 건 당연하지, 네 아름다운 성품은 어디 가지 않는다니까."
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "녀석들을 이해하려면 먼저 몸을 숙이고 손을 내밀어야 해. 맞아, 손을 뻗어 무대 아래의 어두운 구석을 만져봐."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "손가락이 가로막힐 때쯤이면 피부 끝에서 온화하고 부드러운 보따리가 느껴질 거야. 검은 벨벳이며, 아기 요람에 들려오는 어머니의 노랫소리처럼 아름답지."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "이게 바로 머리 꼭대기가 텅 빈 사람들이 지금 느끼는 거야."
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "...",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "또 한 번의 침묵이군. 넌 언제나 침묵의 타이밍을 잘 선택하는구나. 마치 나와 내 친구가 엘리베이터 안에서 소리 없는 방귀를 잘 뀌는 것처럼 말이야."
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "가식적이고 우둔한 친구야, 다른 각도로 생각해 봐."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "우리는 이 안에 쓰레기가 얼마나 있는지 몰라. 아마도 썩은 과자와 유제품이 뒤섞여 있고, 반질반질하고 꼬리가 긴 미국 바퀴벌레가 위를 기어다니고 있을 거야."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "진실이 안 보이는 게 행운이 아니라고 할 수는 없어."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "특히 네가 이 망할 곳을 떠날 수 없을 땐 말이야."
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "100434",
+      "internal_title": "第四章4-20.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "잔디 위 피크닉"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "레굴루스",
+          "text": "아..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "레굴루스",
+          "text": "양다리 구이... 비프웰링턴..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "레굴루스",
+          "text": "도네르 케밥..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "레굴루스",
+          "text": "아... 고기 먹고 싶다..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소더비",
+          "text": "응? 배고파?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소더비",
+          "text": "걱정 말라고. 여행 가방 안에 심어둔 감자의 줄기와 잎이 벌써 노랗게 변했거든!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소더비",
+          "text": "드루비스 씨가 지금쯤이면 감자를 수확할 수 있댔어~! 캐낸 감자로 모두에게 \n나눠줄 셰퍼드 파이를 만들자!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "레굴루스",
+          "text": "감자? 채소?... 아냐, 더 이상 그런 건 먹기 싫어."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "레굴루스",
+          "text": "벌써 한 달째 건강한 샐러드만 먹고 있다고!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "레굴루스",
+          "text": "난 고기가 먹고 싶어..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "레굴루스",
+          "text": "육즙이 풍부하고 두툼한 육질이 쫄깃쫄깃 씹히는 고기를 \n실컷 먹고 싶다고...!!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "레굴루스가 갑자기 펄쩍 뛰었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "레굴루스",
+          "text": "잠깐!... 좋은 냄새야, 맛있는 고기 냄새가 나는데!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "레굴루스",
+          "text": "이건 어디에서 흘러들어온 냄새지?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소더비",
+          "text": "오... 향긋한 냄새가 나는 것 같아..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "소더비는 발꿈치를 들어 냄새의 근원지를 찾아보려 했다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "레굴루스",
+          "text": "내가 찾아볼게!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "레굴루스는 배를 문지르며 등에 그녀의 배낭을 메고 밖으로 뛰쳐나갔다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소더비",
+          "text": "잠깐만, 레굴루스! 그쪽엔 크리터가 많이 살고 있는데...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "레굴루스",
+          "text": "크리터?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "레굴루스",
+          "text": "하하하, 걱정마! 크리터도 고기의 일종이잖아! 불에 구우면 엄청 맛있다고!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "레굴루스",
+          "text": "아, 냄새 좋다..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "레굴루스",
+          "text": "이쪽이군..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "레굴루스의 목소리가 점점 멀어졌다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소더비",
+          "text": "어, 어떡하지..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소더비",
+          "text": "아버지가 어떤 크리터들은 먹으면 환각 증상이나 배탈을 일으킬 수 있다고 하셨는데...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "소더비 씨, 무슨 일 있나요? 왜 혼자서 여길 맴돌고 계시는 거죠?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "APPLe이 공중에 떠다니며 사방을 내려다본다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "캡틴은 어디계시죠?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소더비",
+          "text": "아, 너희들 왔구나! 마침 잘 됐다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소더비",
+          "text": "레굴루스가 고기 냄새를 맡았다면서... 크리터를 잡으러 숲속으로 뛰어갔어!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "...맙소사."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "페퍼 콜라를 너무 오랫동안 마시지 않아서 캡틴이 결국 실성하셨나 보군요?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "드루비스",
+          "text": "어서 따라가죠."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "드루비스",
+          "text": "음식 냄새가 심상치 않네요. 저기엔 식물이 무성하게 자라 있어서 위험할지도 몰라요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "숲의 그늘에서 레굴루스의 모습이 점점 보이기 시작했다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "음식 냄새 역시 점점 진해졌다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소더비",
+          "text": "이상하네, 이건 도대체 어디서 나는 냄새지?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "레굴루스 역시 냄새의 출처를 찾고 있는 듯했다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "레굴루스는 고개를 숙이고 풀숲을 뒤적였다. 풀숲이 세차게 흔들리더니 검은 물체가 \n튀어나와 달려들었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "레굴루스",
+          "text": "아악...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소더비",
+          "text": "앗! 카벙클이다! 레굴루스, 저건 먹으면 안 돼!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "이어서 또 한 마리가 달려들었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "하나둘 계속해서 달려들었고, 결국 레굴루스의 품은 성난 카벙클 떼로 가득해졌다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "드루비스",
+          "text": "거기가 카벙클의 둥지군요. 녀석들이 놀랐나 봐요!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "레굴루스",
+          "text": "으악... 크리터 풍년이네..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "레굴루스",
+          "text": "어서 와서 도와줘!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "APPLe",
+          "text": "캡틴, 버티세요! 우리가 갑니다!"
+        }
+      ]
+    },
+    {
+      "script_id": "100435",
+      "internal_title": "第四章4-20.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "레굴루스",
+          "text": "흑흑... 얘넨 먹을 수 없는 거야?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "레굴루스",
+          "text": "분명히 향긋한 고기 냄새가 났는데..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "레굴루스",
+          "text": "바로 이 근처인데, 바로..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "릴리아",
+          "text": "오, 안녕."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "레굴루스",
+          "text": "으아아악...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "레굴루스",
+          "text": "넌 누구냐?!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "파헤쳐진 나무숲 사이로 건장한 그림자 하나가 서 있었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "드루비스",
+          "text": "릴리아?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "드루비스",
+          "text": "당신이 어떻게 여기에..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "릴리아가 어깨의 배낭을 바닥에 내던지자..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "은박지에 싸인 양다리 구이가 튀어나왔다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "릴리아",
+          "text": "너희 주려고 좋은 걸 좀 가져왔지."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "구운 족발, 수제 소시지, 블랙 포레스트 햄, 이름 모를 음료, 그리고 빵, 빵, 또 빵."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "레굴루스",
+          "text": "우와...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "레굴루스가 무섭게 달려들어 가방을 뒤적이더니, 양다리 구이를 입에 쑤셔 넣었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "레굴루스",
+          "text": "앗! 양다리다! 맛이... 끝내줘! 지방 본연의 맛이 어떤 건지 까먹을 뻔했다고, 흑흑흑..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "레굴루스",
+          "text": "쩝쩝... 위대하신 로큰롤의 신이시여, 돌봐주셔서 감사합니다! 이 해적님이 마침내 \n고기를 먹는구나!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "릴리아",
+          "text": "뭐? 감사받아야 할 사람은 나거든? 너희한테 곧 자유를 안겨줄 승리의 여신이지."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "드루비스",
+          "text": "우리에게 자유를 안겨다 줄 거라고요? 실례지만 그 말은... 어떻게 이해해야 하는 \n걸까요?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "릴리아",
+          "text": "하하."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "릴리아는 땅바닥에 털썩 주저앉았다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "그리곤 음료수 한 병을 따더니 바로 입으로 쭉 들이켰다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "릴리아",
+          "text": "마실래?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "드루비스는 건네받아 한 모금 맛보았다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "드루비스",
+          "text": "릴리아, 저희에게 물자를 지원해 주려 홀로 이곳까지 와주시고... 감사합니다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "드루비스",
+          "text": "그런데 왜 이곳에 오신 건지 궁금하네요."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "드루비스",
+          "text": "... Z 씨가 당신을 파견한 건가요?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "릴리아가 고개를 젓더니 네 손가락을 내밀었다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "릴리아",
+          "text": "4주 반이잖아, 그렇지?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "릴리아",
+          "text": "너희를 보러온 게 이번이 처음은 아니야."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "드루비스",
+          "text": "...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "드루비스",
+          "text": "지난번에 검은 그림자 속에 숨어있던 게... 당신이었나요?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "릴리아",
+          "text": "난 너희가 버틴을 위해 얼마나 버텨낼지 참 궁금하단 말이지."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "릴리아",
+          "text": "구호를 외치는 것과, 전쟁터에 나가는 건 차원이 다르다는 것만 알아둬."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "릴리아",
+          "text": "난 도망가는 군인들을 너무 많이 봤거든."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "릴리아",
+          "text": "질질 짜면서 부모를 찾거나, 바지에 오줌을 지리거나, 토끼 발을 물어뜯기도 하지..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "릴리아",
+          "text": "하지만 너흰 달라."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "릴리아",
+          "text": "너흰 정말 해냈어. 주둔지에 쳐들어가서 전선을 수비하고, 흰 가운들에게 압박도 \n가했지. 오늘까지, 그리고 4주 반의 마지막 날까지 말이야."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "릴리아",
+          "text": "그런 굳건한 정신이 난 마음에 들어."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "릴리아",
+          "text": "내가 오늘 오지 않았다면, 내일 가죽 신발을 뜯어먹을 계획은 아니었겠지?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "레굴루스",
+          "text": "당연히 아니지, 우리한텐 아직 감자가 있어. 곧 수확할 거야."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "소더비",
+          "text": "당근도 있어!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "릴리아",
+          "text": "하하하...!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "드루비스",
+          "text": "신세 많이 졌습니다, 릴리아 씨. 당신이 우리에게 좋은 소식을 가져다주러 왔다고 \n이해해도 될까요?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "드루비스",
+          "text": "Z 씨 법안의 결과가 나온 건가요?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "릴리아",
+          "text": "Z 씨가 아직 포기하지 않은 걸로 알고 있어."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "릴리아",
+          "text": "진지해질 때마다 사나운 사슴 같은 게 꼭 너희 같아."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "릴리아",
+          "text": "하지만 나한텐 더 기다릴 인내심이 남아 있지 않아."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "릴리아",
+          "text": "법안이 재단에서 통과된다 해도, 수립에서 시행되기까지 번거로운 절차가 남아 있어."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "릴리아",
+          "text": "버틴이 병실에 있는 한, 너희는 여전히 떠도는 섬에 불과해."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "릴리아",
+          "text": "누구에게나 짓밟을 권리가 있지."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "릴리아가 몸을 일으키더니 아무렇지 않게 엉덩이 쪽을 털어냈다."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "릴리아",
+          "text": "버틴 그 녀석이 나한테 보드카를 선물로 주면서..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "릴리아",
+          "text": "'필요한 때에 나 대신 그들을 돌봐줘'라고 그랬어."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "릴리아",
+          "text": "그 약속을 지킬 때가 왔군."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "드루비스",
+          "text": "무슨 위험한 일이라도 하시려고요?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "릴리아",
+          "text": "위험을 감수할 만한 일을 하나 벌이려고."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "릴리아",
+          "text": "난 이 순간을 오랫동안 기다려왔어."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "릴리아",
+          "text": "몇몇 사람들이 꿈에서 깨어날 때야."
+        },
+        {
+          "kind": "title_card",
+          "text": "TO BE CONTINUED…"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

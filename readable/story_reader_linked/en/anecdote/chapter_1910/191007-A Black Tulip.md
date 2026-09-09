@@ -1,6 +1,6 @@
 # A Black Tulip
 
-- Chapter: The Winds OF Juhalerat (`1910`)
+- Chapter: The Winds of Juhalerat (`1910`)
 - Episode: `191007`
 
 > Subtitle: From the dust he came, and to the dust he will return.

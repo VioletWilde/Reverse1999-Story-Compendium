@@ -1,6 +1,6 @@
 # The Measure of a Melusine
 
-- Chapter: 1987 Космическая Увертюра (`27101`)
+- Chapter: 1987 Cosmic Overture (`27101`)
 - Episode: `2710117`
 
 > Subtitle: The little snakes eagerly flick their tongues at you, warm like another burning heart.

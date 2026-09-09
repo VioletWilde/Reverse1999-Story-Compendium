@@ -1,6 +1,6 @@
 # The Newcomer
 
-- Chapter: The Third Circumstance (`1912`)
+- Chapter: Semmelweis (`1912`)
 - Episode: `191202`
 
 > Subtitle: A passerby lacking poetry, alone with her sunglasses, caught in the noonday sun.

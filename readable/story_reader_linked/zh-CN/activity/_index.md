@@ -12,10 +12,13 @@
 - [24101 地球上最后的夜晚](chapter_24101/_index.md) — 21/21 episodes with scripts
 - [25101 唐人街影话](chapter_25101/_index.md) — 22/22 episodes with scripts
 - [27101 1987宇宙组曲](chapter_27101/_index.md) — 20/20 episodes with scripts
-- [28101 chapter_28101](chapter_28101/_index.md) — 1/5 episodes with scripts
+- [28101 于洪流中](chapter_28101/_index.md) — 1/5 episodes with scripts
 - [31101 长夜鸣笛](chapter_31101/_index.md) — 21/21 episodes with scripts
 - [32101 迁流的盛宴](chapter_32101/_index.md) — 20/20 episodes with scripts
 - [34101 不老春](chapter_34101/_index.md) — 22/22 episodes with scripts
 - [35101 绿松石蛇俱乐部](chapter_35101/_index.md) — 21/21 episodes with scripts
 - [36101 人们向何处去](chapter_36101/_index.md) — 14/14 episodes with scripts
 - [38101 世纪末尺度](chapter_38101/_index.md) — 22/22 episodes with scripts
+- [305101 翡冷翠之春](chapter_305101/_index.md) — 12/16 episodes with scripts
+- [305201 入雅典记](chapter_305201/_index.md) — 10/15 episodes with scripts
+- [385101 聚合浪潮](chapter_385101/_index.md) — 16/16 episodes with scripts

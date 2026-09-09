@@ -1,6 +1,6 @@
 # Happy Hunting
 
-- Chapter: The Third Circumstance (`1912`)
+- Chapter: Semmelweis (`1912`)
 - Episode: `191206`
 
 > Subtitle: "One need not turn from darkness to light to uphold one's beliefs."

@@ -1,6 +1,6 @@
 # A Score of Time
 
-- Chapter: 1987 Космическая Увертюра (`27101`)
+- Chapter: 1987 Cosmic Overture (`27101`)
 - Episode: `2710105`
 
 > Subtitle: Notes come together and dance, unaware they are about to become a complete song.

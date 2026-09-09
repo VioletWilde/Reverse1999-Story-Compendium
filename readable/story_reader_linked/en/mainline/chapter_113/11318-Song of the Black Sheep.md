@@ -1,6 +1,6 @@
 # Song of the Black Sheep
 
-- Chapter: 他者的悲哀 (`113`)
+- Chapter: On Another's Sorrow (`113`)
 - Episode: `11318`
 
 > Subtitle: Gaze into the abyss.

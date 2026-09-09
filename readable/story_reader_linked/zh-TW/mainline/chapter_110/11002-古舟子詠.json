@@ -1,0 +1,554 @@
+{
+  "episode_id": 11002,
+  "chapter_id": 110,
+  "chapter_title": "復樂園",
+  "display_label": "",
+  "title": "古舟子詠",
+  "subtitle": "向前俯首，船行如飛，西風怒吼。\n我們一路向南逃亡。",
+  "trails": [
+    {
+      "element_id": 101002,
+      "owner_episode_id": 11002,
+      "trigger_episode_id": null,
+      "title": "鬼故事",
+      "description": "一位無線電愛好者的親身經歷，絕非弄虛作假。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=1002",
+      "content_hints": [
+        "fragment",
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "幽靈電臺"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "“嘿，我昨天晚上轉到了一個非常詭異的短波台。”\n“蜂鳴器？數字播報？也有可能是干擾音。”\n“不，有個女聲在拼讀字母，但是沒有任何意義。MYDA、SEVA……有時候還有一些很滲人的話。”\n“你錄下來了嗎？”\n“只有其中幾段。我播給你聽。”\n\n“Mike，Yankee，Delta，Alpha……【電流聲】”\n“Sierra，Echo……Victor，Abandon……這裡只剩下我了……這裡真的只剩下我了嗎？不、不能放棄，不……【電流聲】逃走！”\n“Mike……Yankee，Delta，嗚，什麼？【電流聲】嗡嗡……在耳朵裡的蟲子……嗡嗡……Buzz、Bless……Blasphemy！我們觸怒了魔鬼！這是褻瀆！！”\n“Starve，好餓……那東西能吃嗎？”\n“我已經離【電流聲】的結局不遠。”\n“一具冰屍、破爛的顱骨……我必……【電流聲】……找到地母……引導……【電流聲】”\n“……”\n“Hotel，Lima，Evil……Providence。電臺壞了，電臺……我要把電臺扔掉。地母保佑。”"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "101001",
+      "internal_title": "第十章10-01.1",
+      "items": [
+        {
+          "kind": "title_card",
+          "text": "古舟子詠"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "隊友Ⅰ",
+          "text": "已經進入冰區了！拿上望遠鏡，探險家們！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "隊友Ⅱ",
+          "text": "報告你所看見的每塊浮冰的位置，我們的船可不是鐵達尼號——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "隊友Ⅰ",
+          "text": "現在不是開這種玩笑的場合，考特！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "諾諦卡的日記",
+          "text": "……懷著極度興奮的心情，我們出發了。在接下來的一段時間內，我們以無可估量的勇氣和縝密充足的準備橫跨了德雷克海峽。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "諾諦卡的日記",
+          "text": "再猛烈的下降風都無法摧殘前進的意志。事實上，我們所遭遇的暴風與實驗室模擬過的相差無幾，船長很快就找到了抗衡自然的辦法。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "諾諦卡的日記",
+          "text": "我們駛入了南設德蘭群島，這裡除了黑色的冰磧外，只看得見成群的阿德利企鵝。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "諾諦卡的日記",
+          "text": "很顯然，要抵達我們預定展開探索的地方，需要更多跋涉。但我們信心滿滿，隊伍所有人都相信最深遠艱險之地是所有古老秘密的淵藪。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "諾諦卡的日記",
+          "text": "當天光再次亮起，我們看到地衣鋪滿埃特紹群島，赤紅色、藻綠色、赭石色，流動的顏色使遠方的“陸映光”失語。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "諾諦卡的日記",
+          "text": "在那一刻，我們發出感嘆，岩石是會流動的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "諾諦卡的日記",
+          "text": "我不禁聯想起著名的“戈文倫號”滿載而歸時，人們沐浴在整桶整桶的收穫所帶來的歡欣之下。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "諾諦卡的日記",
+          "text": "我們開了一桶啤酒，在霞光掩映下唱響故鄉的歌謠。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "眾考察隊員",
+          "text": "“富足的收成是人類的福音，盲童亦要被指引迷津。”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "眾考察隊員",
+          "text": "“地母古跡的光芒，引導我輩臣服於自然的律法。”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "諾諦卡的日記",
+          "text": "是的，我們是極地探險家，我們理應挑戰最不為人知的偉大。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "諾諦卡的日記",
+          "text": "於是懷著這樣的心情，我們向著更深的腹地進發。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "諾諦卡的日記",
+          "text": "今宵苦短，我感到我的人生中沒有一刻比此時更歡愉，更充實，更有價值。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "二衝程柴油機突突作響。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "嗞——嗞嗞——噗……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "隨著電火花的飛濺，無線電發報機發出一聲呻吟。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "諾諦卡",
+          "text": "一定要……一定要將這份電報發送出去……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "破爛顫抖、幾近瘋癲的聲音從考察站最裡端的黑暗角落中傳出。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她正對著一台報廢的設備顫抖，徒勞地發送著不再可能被送出的電報。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "諾諦卡",
+          "text": "噢……呼……放輕鬆，諾諦卡，放輕鬆……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "諾諦卡",
+          "text": "這裡是你的考察站，你和大家一起建立起來的考察站。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "諾諦卡",
+          "text": "你現在很安全。沒錯，“地母”會保護好你……你、你現在……很安全。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "諾諦卡",
+          "text": "呼……呼……你只需要再試一次，再試一次……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "手指反覆用力按下已然報廢的發報機電鍵，她的全身卻在不自控地顫抖。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "諾諦卡",
+          "text": "來吧，加油，它們不難，你沒有瘋，你完全正常，你知道所有字母對應的摩爾斯電碼。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "諾諦卡",
+          "text": "A、D、E、F、C，拼出警告訊息，然後發佈給世人，任何人……這不難，就像玩薩米板棋一樣，一點都不難……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "諾諦卡",
+          "text": "——來吧！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她發狠般地猛嚼了一口嘴裡的黑色膠質流體。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "諾諦卡",
+          "text": "寒冷……發霉的酸橙汁和難吃的冰藻……該死的凍瘡——以及，聞著血腥味等死！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "諾諦卡",
+          "text": "必須警告所有人，這裡不是人類最後的綠洲，也根本沒有什麼地心世界……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "諾諦卡",
+          "text": "可、可如果沒有親眼見證，不會有人相信我在說什麼的……沒有人會相信！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "諾諦卡",
+          "text": "就像……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "諾諦卡",
+          "text": "我自己曾經那樣……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "耳朵蟲",
+          "text": "“巨人人母之骨是必經之路，血染的苦痛使子民永生頓悟。”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "耳朵蟲",
+          "text": "“地母古跡的光芒，引導我輩臣服於自然的律法”"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "諾諦卡",
+          "text": "又開始鬧了……我的小耳朵蟲……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "諾諦卡",
+          "text": "地母保佑……求地母降下她的福祉與榮光保佑我這個弱小的人類能夠捱過去……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "“轟隆——”考察站外傳來如雷般的聲響。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "諾諦卡",
+          "text": "——！！！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "這小團蠕動的黑影被嚇了一跳。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她側身移動到窗戶旁，透過隔熱錫墊的邊緣看向外面。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "諾諦卡",
+          "text": "——是瘋、“瘋雪怪”的船！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "打擾了……我們……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "諾諦卡",
+          "text": "——！！！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "諾諦卡",
+          "text": "別過來，別過來，別過來……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "亮色頭髮的“瘋雪怪”闖入了探險家最後的棲息地。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "不好意思，我們注意到這裡是附近唯一的建築，想要尋求一些幫助……請問有人在嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "諾諦卡",
+          "text": "我、我已經是一具冰凍的破爛皮囊，你們休想打碎我的顱骨吸食我的血！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "請稍等一下，我想我們之間存在一些誤會……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "諾諦卡",
+          "text": "冰川裡的黑色疫病、地母腳下的蠕蟲、令人反胃的面具暴君！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "諾諦卡",
+          "text": "瘋雪怪！！我跟你們、跟你們拼了——！！！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "等、等一下——"
+        }
+      ]
+    },
+    {
+      "script_id": "101002",
+      "internal_title": "第十章10-01.2",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "諾諦卡",
+          "text": "……不是“瘋雪怪”？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "諾諦卡",
+          "text": "正常的言行舉止，沒有戴面具，會使用神神叨叨的“魔術”……對，暖和的魔術，我的手指不像之前凍得那樣僵了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "諾諦卡",
+          "text": "對，小耳朵蟲，他們確實……看上去不是壞人……\n至少不像“瘋雪怪”那麼壞。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "癲狂的黑影瑟縮了一下，終於又退回角落。但警惕的目光始終沒有從闖入者身上移開。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "兩位闖入者正小心翼翼地把桌椅推回原位，表現得正常而禮貌。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "根據阿萊夫先生提供的資訊，德洛絲女士應該就是在這一帶的海岸登陸的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "這處平原是通往腹地的必經之路，如果我們加快腳步，說不定還能追上她。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "不過我沒想到，路上居然有一座考察站。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "這裡確實不在任何我們能找到的南極地圖上，應當是最近半年才搭建起來的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "設施相當完備。柴油發電機、雪地摩托、無線電發報機……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "第一助手向前靠近了一步，一個空罐頭滾落在她的腳邊，罐底已經空無餘漬。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "不過，食物儲備已經告罄了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "視線投向了暗處角落瑟縮的人影。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "我們只是過路的旅人，希望得到來自考察站的一些幫助，無意傷害大家。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "被困百日的探險家站在角落裡，搓了搓鼻子。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "諾諦卡",
+          "text": "這、這裡沒有“我們”——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "諾諦卡",
+          "text": "只有我了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "請恕我直言，你看起來很糟糕……請允許我為你進行一次健康診斷。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "諾諦卡",
+          "text": "不——不必了！我很好，我是探險家，我對自己的身體狀況瞭若指掌……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "探險家拒絕之餘，更加防備地往牆角退了半步。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "諾諦卡",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "你……在吃什麼？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "年輕的探險家捧著一把滑溜溜的黑色物質，它像一團由纖維及黏液組成的非牛頓流體，正沿著手指的縫隙往下流——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "探險家舔了舔嘴唇，猛地把它吞進了肚子裡。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "諾諦卡",
+          "text": "這裡唯一能吃的。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "髮色明亮的基金會職員搖了搖頭。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "皮箱的金屬卡扣被打開，發出兩聲清脆的細響。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "十四行詩",
+          "text": "配方是牛肉高湯、蕪菁與馬鈴薯，希望能合你的胃口。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "食物。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "新鮮的食物。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "受困者顫抖地向前伸出手。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "諾諦卡",
+          "text": "那、那是魔術箱？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "她指了指神奇地變出食物來的手提箱。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "噢，一個神秘學箱子。裡邊比看起來更大，能裝下很多東西，食物、房間，甚至是神秘學家本身。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "諾諦卡",
+          "text": "所、所以你們是神秘學家！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "探險家蒼白的臉恢復了一點血色，她興奮地上下打量著兩位訪客。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "是的，我們是神秘學家。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "蛋白質馥鬱的香氣從錫罐中飄出。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "維爾汀",
+          "text": "我們打算深入南極腹地。或許，你願意為我們提供一些忠告嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "諾諦卡",
+          "text": "——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "罐頭在驚慌中被打翻，灑了一地湯汁。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "探險家瘋狂地顫抖。她下意識地不斷喃喃著，像是已經在腦海中重複過無數遍相似的話語。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "諾諦卡",
+          "text": "不要深入……不要深入南極……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "諾諦卡",
+          "text": "不要前進！！"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

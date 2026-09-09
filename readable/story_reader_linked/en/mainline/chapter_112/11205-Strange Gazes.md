@@ -1,6 +1,6 @@
 # Strange Gazes
 
-- Chapter: 远征记 (`112`)
+- Chapter: The Campaign's Tale (`112`)
 - Episode: `11205`
 
 > Subtitle: Soldiers. Heads lowered. Lips sealed with orders.

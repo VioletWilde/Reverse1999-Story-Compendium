@@ -1,6 +1,6 @@
 # Overexposed
 
-- Chapter: 他者的悲哀 (`113`)
+- Chapter: On Another's Sorrow (`113`)
 - Episode: `11316`
 
 > Subtitle: Don't worry—the guide hasn't gone anywhere.

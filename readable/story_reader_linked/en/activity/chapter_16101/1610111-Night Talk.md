@@ -1,6 +1,6 @@
 # Night Talk
 
-- Chapter: Notes on Shuòrì (`16101`)
+- Chapter: Notes on Shuori (`16101`)
 - Episode: `1610111`
 
 > Subtitle: We all walk and talk. We all have hair and eyes. We are ... not so different from each other.

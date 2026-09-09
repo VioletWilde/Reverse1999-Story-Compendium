@@ -1,6 +1,6 @@
 # Peace and Loss
 
-- Chapter: 他者的悲哀 (`113`)
+- Chapter: On Another's Sorrow (`113`)
 - Episode: `11323`
 
 > Subtitle: Can I see a falling tear, and not feel my sorrow's share?

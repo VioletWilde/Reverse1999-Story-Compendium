@@ -1,6 +1,6 @@
 # The Ruler's Help
 
-- Chapter: The Prisoner in The Cave (`105`)
+- Chapter: The Prisoner in the Cave (`105`)
 - Episode: `10511`
 
 > Subtitle: The perfect shape requires the help of a ruler, a compass, and a set square.

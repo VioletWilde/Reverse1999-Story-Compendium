@@ -16,7 +16,7 @@
 - [10814 The Sleepless Man](10814-The Sleepless Man.md) — Now, the die is cast.
 - [10815 The Northern Falcon](10815-The Northern Falcon.md) — A long-awaited reunion, a shocking betrayal.
 - [10816 "Family Reunion"](10816-Family Reunion.md) — "The call for slaughter has sounded, unleash the hounds of war!"
-- [10817 The Black Lamb](10817-The Black Lamb.md) — It's better to flee into the wilderness than to return to a cold flock.
+- [10817 The Black Lamb](10817-The Black Lamb.md) — It's better to flee into the wilderness than to return to a cold flock.
 - [10818 Eye of the Hurricane](10818-Eye of the Hurricane.md) — A bullet shot into the past.
 - [10819 The Gamble](10819-The Gamble.md) — The loser is left with nothing, the winner takes all.
 - [10820 Farewell, Pera](10820-Farewell, Pera.md) — Don't forget to bid the day farewell, and to honor yesterday.

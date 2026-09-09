@@ -1,6 +1,6 @@
 # Echoes in the Dark
 
-- Chapter: El oro de los tigres (`104`)
+- Chapter: El Oro de los Tigres (`104`)
 - Episode: `10417`
 
 > Subtitle: A sentence falls down in to a cave, and breaks into countless words.

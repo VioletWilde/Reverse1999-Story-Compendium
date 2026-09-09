@@ -1,0 +1,576 @@
+{
+  "episode_id": 2410109,
+  "chapter_id": 24101,
+  "chapter_title": "地球上最後的夜晚",
+  "display_label": "",
+  "title": "戰爭與和平",
+  "subtitle": "關於如何理解每一位拉普拉斯人。",
+  "trails": [
+    {
+      "element_id": 2410109,
+      "owner_episode_id": 2410109,
+      "trigger_episode_id": null,
+      "title": "學術交流",
+      "description": "交流歸交流，競爭歸競爭，不然還怎麼進步？",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=2410109",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "當心了，親愛的。這裡有一團火，一團熊熊燃燒的探求者之火，可千萬留神別吹滅了它。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "無數盜火者在這兒喝著咖啡猜著密碼，嘗試了無數個方向，就為了把蘆葦杆伸進海利歐斯的馬車輪之中。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "神在這方面可是很小氣的，他們總是不願意把自己的專利下放給凡人。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "這太自私了",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "哦呵呵，慷他人之慨可不是個好習慣，親愛的。懂得分享是一項難得的美德。懂得如何分享智慧就更難得了。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "其中最難的課題就是讓你的靈光乍現變成別人腦中的填料。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "天呐，難道有誰能複製自己過往的成功嗎？它就是這樣嗖一聲出現，再唰一下消失，又能有什麼辦法呢？"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "非常客觀的評價，每個習慣早起去麵包店門口等待開業的人都會這麼說。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "哪怕後來的人飢腸轆轆，先至者在時間序列上的優先順位也必須得到維護。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "當然，盜火者也總是前赴後繼的，看看這些穿著航太材料的怪咖們吧。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "愛好科技、喜歡擺弄螺絲與二極體的神秘學家和展望未來、腦子裡盡是奇怪靈感的人類科學家站到了一起。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "元素、閃電、原子，你可能不記得這些單詞的神秘學出處了，但你如果熱愛科學，你就肯定知道這些豐功偉績。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "這就是所謂進步了，親愛的。這群盜火者堅信著，只要時間的長河繼續向前，他們就能帶來一次又一次技術革命，第4次、第5次、第65535次……"
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "故事該出現轉折了",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "不要急，親愛的，我們才剛剛翻過序章。“但是”馬上就來。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "突如其來的一場雨澆滅了不少人的熱情，3.5英寸磁碟和聰明的頭腦一同進了水。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "一部分盜火者開始哀歎寶貝火種的丟失，他們悲鳴，他們憤怒，他們發誓要用剩下的積累找出回到正軌的方法。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "而另一部分呢？猜猜吧，親愛的。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "是的，沒錯。上了岸的腔棘魚又跳回了海中，他們重新回歸了混沌與神秘學的懷抱。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "丟下被時間拋棄的科學，看向更有未來的部分，也許是個正確的選擇？誰知道呢？"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "但是故事就到這裡了，親愛的，普羅米修斯接下來會遭到怎樣的磨難，緊隨火而來的小盒子裡究竟有沒有希望，現在還不是揭曉的時候。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "先到者先得",
+          "edge_label": "",
+          "branch": []
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    }
+  ],
+  "segments": [
+    {
+      "script_id": "202414",
+      "internal_title": "【2.4】地球上最后的夜晚09",
+      "items": [
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "“人工暴雨”專案非正式會議，於“自由海風號”啟航前"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "與會人員Ⅰ",
+          "text": "你瘋了嗎，烏爾里希？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "與會人員Ⅰ",
+          "text": "“暴雨”已經害死了那麼多人，你居然還打算搞出一場“人工暴雨”？！"
+        },
+        {
+          "kind": "title_card",
+          "text": "科算中心議事廳"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "烏爾里希",
+          "text": "別那麼緊張，喬納森！我會嚴格控制實驗區域與參與人員，你的名字不在上面。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "烏爾里希",
+          "text": "更何況，目前的技術處於瓶頸階段，我們尚有不少實驗難題需要解決。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "烏爾里希",
+          "text": "至少現在，我可以向你保證，這座大樓絕對安全！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "與會人員Ⅰ",
+          "text": "什麼——你已經在開展實驗了？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "與會人員Ⅱ",
+          "text": "烏爾里希，我必須警告你。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "與會人員Ⅱ",
+          "text": "自從解開“星銻望遠鏡”的謎題之後，你就把拉普拉斯的規章制度遠遠甩在了腦後！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "與會人員Ⅱ",
+          "text": "調用其他分部資料，徵用珍貴素材，私自實驗——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "烏爾里希",
+          "text": "停止你的污蔑，潘娜洛普！我關於“人工暴雨”的每一次行動，都按照現行的規定向總部的中心負責人提交了審批。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "與會人員Ⅰ",
+          "text": "該死的，你明知道那個鳥位置現在還空著！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "烏爾里希",
+          "text": "你看，我這不是還專程請來了代理負責人嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "它朝著一個陰沉的方位點頭致意。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "啞謎",
+          "text": "我再重申一次，我不是代理負責人！除了露西女士，現在沒人能坐那個位置。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "熟悉的敲桌聲又一次重重響起。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "啞謎",
+          "text": "收起這些不著邊際的話術吧，各位同僚。我們要在這裡討論的是關於“星銻望遠鏡”的處理方案，而不是針對烏爾里希個人的投訴大會。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "與會人員Ⅲ",
+          "text": "嘿嘿，這並不難，朋友們～"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "與會人員Ⅲ",
+          "text": "我們完全可以學普列謝茨克那群傢伙，就在第三次暴雨的時候來著——找上幾個勇敢的同事，“砰”地送到近地軌道上去！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "與會人員Ⅳ",
+          "text": "沒錯，既然我們能造一次天文望遠鏡，為什麼就不能造第二次呢？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "另一側突兀地響起了掌聲。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "兔毛手袋",
+          "text": "哇哦，多麼天才的想法啊～這也是為了對照組試驗對不對？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "兔毛手袋",
+          "text": "我猜你打算送的不止一顆衛星，而是搭載不同材料的幾十顆衛星！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "與會人員Ⅳ",
+          "text": "……這有什麼問題嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "兔毛手袋",
+          "text": "我倒是有個更省事的提議——或許我們可以再等一段時間，讓“暴雨”把我們帶回1995年。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "兔毛手袋",
+          "text": "“啪——”！我們的衛星就能直接出現在天上，甚至還能為我們節省一大筆經費。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "啞謎",
+          "text": "兔毛手袋研究員，請遵循學術交流的基本禮節。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "兔毛手袋",
+          "text": "如果他們不打算把拉普拉斯的經費消耗個乾淨的話，我倒是很願意這麼做。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "烏爾里希",
+          "text": "我贊成兔毛手袋研究員的異議。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "烏爾里希",
+          "text": "重新發射衛星毫無必要，我們應該把注意力放到“人工暴雨”專案上來——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "組長一拍桌子，將所有人的注意力拉回了一處。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "烏爾里希",
+          "text": "“人工暴雨”專案已經取得了相當的成果！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "眾人",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "烏爾里希",
+          "text": "我收集了“星銻望遠鏡”搭載清單上的全部材料，甚至包括普列謝茨克航太基地的太空種子——你們應該知道它們有多難搞到，甚至超過了星銻的唱片！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "啞謎",
+          "text": "不要試圖粉飾自己的偷竊行為，烏爾里希！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "與會人員Ⅴ",
+          "text": "我早就聽說了你的實驗進展，它根本沒有你吹噓的那麼順利！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "與會人員Ⅴ",
+          "text": "通過聲波發生器按照固定頻率促進非對稱核素R發生反應，以模擬“暴雨”環境。你的實驗方向看似美好——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "與會人員Ⅴ",
+          "text": "可結果呢？\n烏爾里希，你找到那種能夠免疫回溯的材料了嗎？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "烏爾里希",
+          "text": "你是對的，盧卡斯。目前的“人工暴雨”實驗流程存在嚴重缺陷。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "與會人員Ⅴ",
+          "text": "……？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "烏爾里希",
+          "text": "經過26次在實驗室環境下的“人工暴雨”反應，我確認了包括7種太空種子、天體攝譜儀、高速光度計、黑曜石晶體、澤蘭護符的材料效果。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "烏爾里希",
+          "text": "它們確實不具備免疫回溯的功能。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "與會人員Ⅴ",
+          "text": "那你是打算放棄了？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "烏爾里希",
+          "text": "當然不!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "組長尷尬地輕咳兩聲。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "烏爾里希",
+          "text": "……只是非對稱核素R的儲備嚴重不足了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "兔毛手袋",
+          "text": "什麼——？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "憤怒的研究員像是觸電般蹦到了桌上。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "啞謎",
+          "text": "冷靜點，兔毛手袋！——喬納森研究員，去調用最新材質的解壓彈力球！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "兔毛手袋",
+          "text": "拍桌子可不只是你的特權，代理負責人。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "烏爾里希面前的桌子幾乎快要震飛出去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "兔毛手袋",
+          "text": "見鬼，你把那些非對稱核素R都用了？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "烏爾里希",
+          "text": "這是必要的實驗耗材。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "兔毛手袋",
+          "text": "當然，畢竟你有源源不斷的耗材可以填進去，再愚蠢的學生把答題卡填滿內容也總會有矇中的時候。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "兔毛手袋",
+          "text": "再跑快幾步，你就能在錯誤的道路上躥得更遠了。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "烏爾里希",
+          "text": "你負責的是生物技術組，我不需要向你彙報我的工作。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "烏爾里希按住桌子，以減輕腦袋裡磁流體與桌子的共振。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "兔毛手袋",
+          "text": "那可不是一星半點！你幾乎把拉普拉斯和基金會所有分部的非對稱核素R庫存用掉了——"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "兔毛手袋",
+          "text": "就連我那聒噪的同事九個人都用不了這麼多非對稱核素R，而我填上幾十張那該死的申請表才能被批准用上堪堪幾滴——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "兔毛手袋的工作牌在某種強勁而瑣碎的咬合聲中吱呀作響。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "兔毛手袋",
+          "text": "要我說，如果你們一開始就把浪費的經費和非對稱核素R讓給我的專案，我很樂意在下一次“暴雨”時帶著那些需要驗證的材料去外面跑上幾圈！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "烏爾里希",
+          "text": "我們不會漠視任何一個實驗人員的生命安全。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "與會人員Ⅲ",
+          "text": "最安全的專案當然是重新發射一顆新的衛星。更何況，科算中心還能找到不少致力於太空研究的前輩。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "啞謎",
+          "text": "我否決這一提案，目前最瞭解太空的研究員還躺在拉普拉斯的病房裡。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "眾人",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "眼下的硝煙短暫地消散了，終於有人想起會議的正題。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "與會人員Ⅱ",
+          "text": "你打算如何推進下一步實驗，烏爾里希？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "烏爾里希",
+          "text": "當然是到外面去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "烏爾里希",
+          "text": "非對稱核素R儲備最豐富的地方絕不是我們的實驗室或是基金會的儲物間，而是整個世界！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "啞謎",
+          "text": "……？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "烏爾里希",
+          "text": "更重要的是，過往的“人工暴雨”研究忽略了純粹環境的影響。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "與會人員Ⅴ",
+          "text": "你只是在為你的失敗找藉口，烏爾里希！其他地方的研究所怎麼可能比我們的實驗室更加純淨呢？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "烏爾里希",
+          "text": "“暴雨”的象徵從來都不是純粹，而是混沌。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "與會人員Ⅴ",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "啞謎",
+          "text": "可你要怎麼翻遍全世界找到你聲稱的混沌環境，這是在大海撈針！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "會議室的天才們各不相讓，為自己的專案與研究預算而戰。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "烏爾里希",
+          "text": "夠了——！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "烏爾里希",
+          "text": "再這樣爭執下去，連那個鬼鬼祟祟的洛倫茲研究所的進度都要超過我們了！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "它重重地將一封蝴蝶紋樣的信封拍在桌上，為這團熱鬧的火又添了一把薪柴。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "啞謎",
+          "text": "洛倫茲……那個古怪的神秘學至上的秘密結社？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "兔毛手袋",
+          "text": "讓我瞧瞧，它們又寄了什麼挑釁信過來？！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "與會人員Ⅱ",
+          "text": "住嘴，兔毛手袋——我們有專業的碎紙機！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "急促的腳步踏入了這片紛亂的廢墟。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "希曼",
+          "text": "女士們，先生們，很抱歉打擾你們的腦力激盪，聖洛夫基金會方通過了最新的決議。"
+        }
+      ]
+    }
+  ],
+  "fallback_fields": []
+}

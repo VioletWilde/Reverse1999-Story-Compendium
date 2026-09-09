@@ -1,6 +1,6 @@
-# What's Worse Than the Journey
+# What's Worse than the Journey
 
-- Chapter: 1987 Космическая Увертюра (`27101`)
+- Chapter: 1987 Cosmic Overture (`27101`)
 - Episode: `2710106`
 
 > Subtitle: The second reason behind the urgent need to improve transport security.
