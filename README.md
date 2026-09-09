@@ -41,6 +41,11 @@
 
 维护者可以运行 `npm run build:ebooks`（需要 pandoc 与 typst）重新生成，产物位于 `dist/ebooks/`。
 
+## 更新说明（2026/9/9）
+- 增加了所有语言的所有章节的小径文本与索引。
+- 部分错漏进行了调整，目前放在[story_reader_linked](eadable/story_reader_linked)中，未添加进主要产物。
+- 增加了部分文本缺失的标题。删去了一些杂项。
+
 ## 收录说明
 
 - `readable`：面向读者的分语言、分章节版本，推荐从这里阅读。
