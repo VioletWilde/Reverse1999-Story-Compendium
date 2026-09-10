@@ -37,7 +37,7 @@
 - **PDF**：正文前有带页码的目录，阅读器侧边栏有完整书签大纲，适合电脑阅读或打印。
 
 鉴于可能存在网络波动，也提供相对应的网盘下载地址：
-[点击下载](https://pan.baidu.com/s/1HvLs7-QQH3qv33hdFgJxFQ?pwd=ksux)
+[点击下载](https://pan.baidu.com/s/1P14HOX3aTgKdA_smfOwwLg?pwd=kggh)
 
 维护者可以运行 `npm run build:ebooks`（需要 pandoc 与 typst）重新生成，产物位于 `dist/ebooks/`。
 
