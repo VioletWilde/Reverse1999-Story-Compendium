@@ -7,27 +7,129 @@
   "subtitle": "피부 위에서 불이 춤추고 흐려진 과거가 선명하게 보인다. 그것은 나의 진짜 이름이다.",
   "trails": [
     {
-      "element_id": 15101006,
+      "element_id": 15101008,
       "owner_episode_id": 1510106,
       "trigger_episode_id": null,
-      "title": "울루루 사막",
-      "description": "과거의 부름이 그녀를 인도했다. 그녀를 보호한 것은 한때 그녀가 구한 것이었다.",
+      "title": "샘으로 향하는 길",
+      "description": "샘으로 통하는 그 은밀한 오솔길에서 그녀는 불꽃을 찾았고 과거를 찾았고 자신을 찾았다.",
       "action": "",
-      "unlock_condition": "ChapterMapElement=15101004",
+      "unlock_condition": "ChapterMapElement=15101006",
       "content_hints": [],
       "content": [],
       "link_source": "supplement_episode_id"
     },
     {
-      "element_id": 15102004,
+      "element_id": 15104001,
       "owner_episode_id": 1510106,
       "trigger_episode_id": null,
-      "title": "횃불 호위대Ⅳ",
-      "description": "이곳에 잠시 멈춘 횃불의 반짝임은 강바닥 아래 오물의 분노를 자극했다.",
+      "title": "연구의 기점",
+      "description": "제자에게 주는 스승의 가르침.",
       "action": "",
-      "unlock_condition": "ChapterMapElement=15101008",
-      "content_hints": [],
-      "content": [],
+      "unlock_condition": "EpisodeFinish=1510106",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "또 같은 장소로 돌아왔구나."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "텔레파시일 수도, 유체 이탈일 수도, 어쩌면... 아무튼 넌 이곳으로 돌아왔어. 이 어두컴컴한 숲에서는 거대한 대왕참나무가 눈앞에서 갈라졌고, 건조하고 매캐한 연기가 끊임없이 계속 피어오르고 있어."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "화염은 많은 걸 집어삼킬 수 있지. 돈, 생명, 가족의 웃는 얼굴, 그리고 앞을 내다보는 눈."
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "이건 무슨 냄새지?",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "휘발유 냄새야. 이곳의 잔디는 거무스레하고 윤기가 있어, 뭉친 부분은 마치 거친 아스팔트 도로 같아."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "오랜 시간이 흘렀는데, 그러니까 거의 연 단위의 시간이 지났는데도, 마치 어제 일처럼 휘발유 향이 진하네. 여덟 시간도 안 되어서 눈이 따끔거릴 거야."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "나무가 끝없이 타올라. 어두운 밤과 검게 탄 숲을 구분할 수 없을 정도야. 이렇게 크고 멋진 화재를 일으키려면... 정말 휘발유 한 통만으로 충분할까?"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "아마 휘발유 오십 통으로도 부족할 거야."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "촉감이 마치...",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "죽은 피부. 죽은 생선, 비린내를 풍기며 뒤집힌 비늘. 끓어오르는 바닷물 속 수중 생물의 울부짖음 같지."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "넌 손바닥이 약간 따끔거리는 걸 느꼈어. 마치 놀란 고양이의 털처럼 거꾸로 우뚝 솟은 나무껍질은 죽음 앞에서 마지막 존엄성을 지키려 해. 네가 만지자 나무껍질이 후드득 떨어져. 깔끔하면서도 확실하게, 마치 오랫동안 준비한 듯이."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "나무들은 화재를 좋아하지 않아. 그렇다고 십자가에 오래 머무는 걸 좋아하는 것도 아니고."
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "넌 아직 녀석에게 물어보지 않은 게 많아."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "입을 열 새도 없이 전쟁이 시작되어 버렸지."
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "아직 물어볼 기회가 있어",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "난 네가 긍정적이어서 좋아. 그런 긍정적인 태도는 목표를 달성하거나, 범접하기 힘든 아가씨에게 접근하거나, 호구가 되는 것에도 도움이 되지, 게다가 가장 위대한 평화주의자가 될 수도 있고!"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "아, 내가 방금 아가씨만 언급했나? 혹시 모르니 더 추가해야겠어. 범접하기 힘든 아가씨, 남자아이, 노인, 트렌스젠더, 귀여운 라디오, 당나귀 인간... 잠깐."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "...됐어. 오늘 밤 우리끼리 한 얘긴 다른 사람한테 알리지 마."
+            }
+          ]
+        }
+      ],
       "link_source": "supplement_episode_id"
     }
   ],

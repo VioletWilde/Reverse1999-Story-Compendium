@@ -7,18 +7,6 @@
   "subtitle": "Shake hands, nod. Welcome, my friend.",
   "trails": [
     {
-      "element_id": 15101005,
-      "owner_episode_id": 1510105,
-      "trigger_episode_id": null,
-      "title": "Newsstand",
-      "description": "The commotion caused by the flames that night was reported as a bizarre and comical tabloid story. From reflections by the campfire to the anecdotes of old newspapers, over a thousand years have passed, and the public remains eager to derive pleasure from fiction.",
-      "action": "",
-      "unlock_condition": "ChapterMapElement=15101003",
-      "content_hints": [],
-      "content": [],
-      "link_source": "supplement_episode_id"
-    },
-    {
       "element_id": 15102003,
       "owner_episode_id": 1510105,
       "trigger_episode_id": null,
@@ -28,6 +16,234 @@
       "unlock_condition": "ChapterMapElement=15101005",
       "content_hints": [],
       "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 15108001,
+      "owner_episode_id": 1510105,
+      "trigger_episode_id": null,
+      "title": "\"Out of the Darkness and Into the Light\"",
+      "description": "The fight against the fake ticket scandal begins with a request to gather information.",
+      "action": "",
+      "unlock_condition": "ChapterMapElement=15101005",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Now those little brats are knocked out. You noticed that old gum sticking to the bottom of their shoes, like crushed leeches."
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "What color is the gum?",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Having been chewed for long, it took on the light amber color that the carbohydrate gum should have. Some folds were cyan. It's most likely mint-flavored."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "The sales champion of mint gum is the bubble gum machine near Wrigley Field. When a crazy game ends, there's always someone who needs something to chew in the mouth in order to take out the anger over the defeat."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "But ... Hey. Haven't you noticed yet? That wonderful mix of particles in the chewing gum base that's been squeezed into lumps?"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "The off-white sand. The synthetic waxed elastic fiber. In the South Bank, there is only one place where such a politically symbolic floor is laid—St. Pavlov Foundation."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "What happened to the gum?",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Tragedy. A sympathetic encounter. It has fulfilled its mission cautiously and conscientiously. But clearly, no one cares."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "I dare say it's the most popular mint gum now. When the Chicagoans lost their rights to get drunk, they could only turn to this nasty upstart stuff."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "The sales champion is the bubble gum machine near Wrigley Field. The old gum on the kids' soles also comes from there."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Some gravel mixed into the squeezed gum base. The off-white sand. The synthetic waxed elastic fiber. In the South Bank, there is only one place where such a politically symbolic floor is laid—St. Pavlov Foundation."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "What gum? I don't care!",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Who does? I'm very glad that we are on the same page on this."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Describing an abandoned carbohydrate gum won't give anyone pleasure. So, let's skip to the next subject—Have you noticed the gravel mixed into the gum base?"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "The off-white sand. The synthetic waxed elastic fiber. In the South Bank, there is only one place where such a politically symbolic floor is laid—St. Pavlov Foundation."
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "It's very lively here in the square, just like every day in the past. Speculators, who advocate mankind supremacy, are trying to get the attention of the Foundation through demonstrations."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "They are on the same side as the Foundation, but the Foundation has no intention to treat these protesters as allies and give them what they want. They even sent a little girl to go through the motions as a perfunctory response."
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "Little girls? An excellent topic.",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Yes. Yes. No one will ever ignore them. They are honey-colored. They are the morning sun in California. They are the dazzling spot on the doe that you'll never catch."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "For those hypocritical politicians, the little girls are the delicacies that they would drool over. Luckily, this little girl is not one of their prey."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "She is nervous but not panicked. She doesn't seem to be good at dealing with these slick \"politicians.\" The mission capsule of the Foundation grew hot in her tightly clutched fist."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "And on the other side of the square, another little girl in a black suit is looking over here gloomily. She stood by the Foundation's air outlet, the best place for her."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "The position that is too marginal to be further marginalized. That's the best portrayal of the second-generation immigrants in the 20th century."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "Tell me about that Foundation girl.",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "She is the good girl you already know. Orange hair. When she's deep in thought, she turns her pen like a nimble ball in a magician's hand."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "She is puzzled at the guys shouting around her. But there's light in her eyes, as if she's expecting something nice."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Is it because of the next task packed in the mission capsule? Or the people she is going to meet?"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Her cheeks are a little rosy now. The thing in her hands was loosened too."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "Who's the girl in a black suit?",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "She's someone you will know in the future."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Now she shudders and shivers, like a cricket desperate for shelter. She's looking for an eave or a piece of rubble in the \"Storm.\""
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Her figure might be frail, but her eyes are filled with cold anger. Maybe she had been rejected just now, or even insulted. She walked up to the square center with firm step, like a warrior."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "She had to perform another task she didn't like."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "At this moment, the capsule in the hand of the ad hoc representative of the Foundation dropped under the push of the crowd."
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "—This is a good chance."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "She feels a hot wind from Africa blow towards Trapani. Then, the whole of Sicily becomes dry, warm, and comes alive. The air smells like tropical corals and wild oranges."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "That wind is never supposed to be part of this cold winter. But the warm vibe lingering and dancing in her mind reminds her to live on."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "She used to be desperate."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Though all she has been through was failure after failure, her vigorous vitality won't fade away, at least not now."
+        }
+      ],
       "link_source": "supplement_episode_id"
     }
   ],

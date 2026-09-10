@@ -124,3 +124,7 @@ Spathodea holds the weak Ulu gently while holding the boy in her arms.
 - **Sports Field Opening Ceremony** (`element 15101013`)
   - Description: Let's make this a day to remember. Sing for me, and sing for yourself, too.
   - Unlock: `(ChapterMapElement=15101010 or ChapterMapElement=15101011) and EpisodeFinish=1510114`
+
+- **Face Yourself** (`element 15102008`)
+  - Description: The torch relay comes to a halt here. The flame is on the verge of losing control, but your hands are not as weak as they once were.
+  - Unlock: `ChapterMapElement=15101013`

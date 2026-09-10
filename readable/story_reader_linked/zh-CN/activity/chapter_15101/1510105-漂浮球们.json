@@ -7,18 +7,6 @@
   "subtitle": "握握手，点点头，欢迎加入，我的朋友。",
   "trails": [
     {
-      "element_id": 15101005,
-      "owner_episode_id": 1510105,
-      "trigger_episode_id": null,
-      "title": "报刊亭",
-      "description": "火焰在那一夜造成的骚动成为了报纸上一桩离奇而滑稽的谣传。从篝火旁的倒影，到旧报纸的逸闻，过了千余年，人们仍热衷于从虚构中获得欢愉。",
-      "action": "类型501",
-      "unlock_condition": "ChapterMapElement=15101003",
-      "content_hints": [],
-      "content": [],
-      "link_source": "supplement_episode_id"
-    },
-    {
       "element_id": 15102003,
       "owner_episode_id": 1510105,
       "trigger_episode_id": null,
@@ -28,6 +16,234 @@
       "unlock_condition": "ChapterMapElement=15101005",
       "content_hints": [],
       "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 15108001,
+      "owner_episode_id": 1510105,
+      "trigger_episode_id": null,
+      "title": "“弃暗投明”",
+      "description": "这场针对假票风波的反击始于一通探听情报的来电。",
+      "action": "对话",
+      "unlock_condition": "ChapterMapElement=15101005",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "暴躁的孩子们睡着了。你注意到他们的鞋底上沾着像蚂蟥一样的，被踩扁了的口香糖。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "口香糖是什么颜色的？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "经过长时间的咀嚼，它呈现出糖胶树胶应有的浅琥珀色。某些褶皱部分则是青色。它极有可能是薄荷味的。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "薄荷口味的口香糖销售冠军是瑞格利球场附近的泡泡糖机。在疯狂的球赛过后，总有人需要清清口气，忘掉被上一场赛绩狠狠揍了屁股的愤怒。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "但是，嘿，难道你还没有注意到？那被挤压成块的口香糖胶基中，混杂着的美妙的颗粒物？"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "灰白色的砂粒，合成的涂蜡的弹性纤维。在南岸，只有一个地方铺设了这样极具政治象征性意味的广场地面——圣洛夫基金会。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "口香糖现在怎么样了？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "非常悲惨。值得令人同情的遭遇。它兢兢业业地完成了自己的使命，但是很显然，没有人在乎这一切。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "我敢说它是现在最受欢迎的薄荷口味。芝加哥人在失去灌醉自己的权利后，就只能投靠向这娘娘腔的新贵阶级玩意儿了。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "口香糖销售冠军是瑞格利球场附近的泡泡糖机。孩子们鞋底的口香糖也来自于那里。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "被挤压成块的胶基中混杂着一些颗粒物。灰白色的砂粒，合成的涂蜡的弹性纤维。在南岸，只有一个地方铺设了这样极具政治象征性意味的广场地面——圣洛夫基金会。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "我对那见鬼的口香糖没兴趣！",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "谁又不是呢？很高兴在这件事情上我们能志同道合。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "描述被遗弃的糖胶树胶并不会令任何人感到高潮。因此让我们跳到下一个阶段——你有注意到口香糖底粘着的碎颗粒吗？"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "灰白色的砂粒，合成的涂蜡的弹性纤维。在南岸，只有一个地方铺设了这样极具政治象征性意味的广场地面——圣洛夫基金会。"
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "正如过去的每一天一样，广场前热闹非凡。推崇人类至上的投机分子，试图通过游行来引起基金会官方的注意。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "他们与基金会同属于一个阵线，可惜的是，基金会并不打算完全地迎合他们。甚至派出一个小姑娘来敷衍他们。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "小姑娘？这是个好话题",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "是的，是的，没有人不会对这个话题产生兴趣。她们是蜂蜜色的，是早晨加州的阳光，是你永远也追不到的母鹿上的耀眼光斑。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "对于某些道貌岸然的家伙来说，小姑娘就是垂涎在嘴边的肥肉。值得庆幸的是，这位小姑娘并不属于其中。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "她很紧张，但没有惊慌失措。她看起来并不擅长与油滑的“政治家们”打交道。一枚属于基金会的任务胶囊在她手里被捏得发烫。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "而在广场的另一侧，一位身着黑西装的小女孩正阴郁地望向这里。那里接近基金会的出风口，是个再适合她不过的好地方。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "一个边缘得不能再边缘的位置，正是20世纪第二代移民的最好写照。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "谈谈那个基金会小姑娘",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "她是你熟悉的那个好姑娘，橘红色的头发，思考的时候转笔就像在转魔术师手里的那个灵活的球。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "围着她叫嚷的那群家伙们使她感到困惑。但她眼里亮着光，好像在期盼着什么好事。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "是接下来要完成的那个任务胶囊中的使命？是因为她即将要去会见的某个人？"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "她的脸颊微微涨得发红。手心中的物件也因此松开了。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "黑西装小女孩是谁？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "她是你将来会认识的某个人。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "现在的她浑身打着冷战，像是一只急于寻求庇护的蛉虫，在寻找暴雨中的屋檐或一片瓦砾。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "与她孱弱的身躯不同，她的眼眶中准备好了脏话。或许她刚遭受了一场拒绝，甚至是侮辱。这一切使得她像个死士般地向广场中心移动。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "她不得不去执行另一个她并不情愿的任务了。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "正在这时，那位基金会临时代表手中的胶囊，在人群的推搡下松开了。"
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "——这是一个好机会。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "来自非洲大陆的暖风吹向特拉帕尼。接着，整个西西里岛都变得干燥，温暖，快活。四周弥漫着湿热的珊瑚和野生橘子的香气。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "这不是这个冬天应该发生的事。但它一直在西装女孩的脑中，徘徊，舞动，提醒她还要继续活下去。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "她曾经很绝望。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "失败接着失败。但她旺盛的生命力不会停止在这里，至少不是现在。"
+        }
+      ],
       "link_source": "supplement_episode_id"
     }
   ],

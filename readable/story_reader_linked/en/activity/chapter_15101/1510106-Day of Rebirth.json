@@ -7,27 +7,129 @@
   "subtitle": "Fire leaps upon my skin. A blurry past, now clear as day. That is my true identity.",
   "trails": [
     {
-      "element_id": 15101006,
+      "element_id": 15101008,
       "owner_episode_id": 1510106,
       "trigger_episode_id": null,
-      "title": "Uluru Desert",
-      "description": "Her guidance came from that which she had awakened long ago, and her protection came from that which she had once saved.",
+      "title": "The Path to the Spring's Source",
+      "description": "On the hidden path leading to the spring's mouth, she searched for flames, the past, and herself.",
       "action": "",
-      "unlock_condition": "ChapterMapElement=15101004",
+      "unlock_condition": "ChapterMapElement=15101006",
       "content_hints": [],
       "content": [],
       "link_source": "supplement_episode_id"
     },
     {
-      "element_id": 15102004,
+      "element_id": 15104001,
       "owner_episode_id": 1510106,
       "trigger_episode_id": null,
-      "title": "The Torch Guardians IV",
-      "description": "The torch relay comes to a halt here. The flickering flames have enraged the filth beneath the riverbed.",
+      "title": "Research Springboard",
+      "description": "A teacher shows his student the way.",
       "action": "",
-      "unlock_condition": "ChapterMapElement=15101008",
-      "content_hints": [],
-      "content": [],
+      "unlock_condition": "EpisodeFinish=1510106",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "You are back here again."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Maybe it's telepathy. Maybe your soul is out of your body. Maybe ... Anyway, you're back here. In the dark woods, the huge oak trees crack in front of you. Dry and pungent fumes billow out."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "Flames swallow a lot of things: a lot of money, a lot of lives, family laughters, and a pair of eyes that once looked to the future."
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "What's the smell?",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Gasoline. The turf here is tan and shiny. The clump looks like an uneven asphalt road."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "After so long, I mean, so many days, probably years, the fumes are still as pungent as yesterday. It won't take eight hours for your eyes to tingle."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "There's no boundary for the burned woods. You can hardly tell between the dark night and the scorched woods. To create such a huge, amazing fire ... will a small barrel of gasoline simply be enough?"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "I'm afraid even 50 barrels are barely enough."
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "It feels like …",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Dead skin. Dead fish. Upturning fishy scales. Desperate, the wailing wails of aquatic animals being boiled in the sea."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Your palm tingles as you caress the trunk. The tree trunks with hanging dried strips of bark look like frightened cats—this might be their last effort to retain their dignity before meeting their doom. The hanging bark falls to the ground at your touch. No muss. No fuss. As if they've prepared for the fall for a long time."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "The woods are no fan of the fire. But they don't like staying on the cross for a long time either."
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "You still have so many questions to ask her."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "But before you could, the battle has started."
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "I still got a chance to ask her.",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "I like you being positive. Your optimism will help you achieve your goals, get with the impossible girls, pay the bills, and probably become the greatest pacifist!"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Oh, did I just mention the girls? Just in case, I need to add a few more, so get with the impossible girls, boys, elders, transgenders, cute radios, ass heads …"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Enough. What we said tonight is just between you and me."
+            }
+          ]
+        }
+      ],
       "link_source": "supplement_episode_id"
     }
   ],

@@ -7,27 +7,75 @@
   "subtitle": "Fortunately, we're a couple of expert firefighters.",
   "trails": [
     {
-      "element_id": 15101009,
+      "element_id": 15101001,
       "owner_episode_id": 1510108,
       "trigger_episode_id": null,
-      "title": "Sports Field Entrance",
-      "description": "Stepping through the magnificent gate, we now embark on a new journey.",
+      "title": "City Street Corner",
+      "description": "What took place on this street corner became the defining moment of the entire story. Sparks flew as the fires of youth met on this spot.",
       "action": "",
-      "unlock_condition": "ChapterMapElement=15101007",
+      "unlock_condition": "EpisodeFinish=1510108",
       "content_hints": [],
       "content": [],
       "link_source": "supplement_episode_id"
     },
     {
-      "element_id": 15101010,
+      "element_id": 15101012,
       "owner_episode_id": 1510108,
       "trigger_episode_id": null,
-      "title": "Uluru Stadium",
-      "description": "They run excitedly, like guests drinking capriciously at a banquet, holding up their glasses to celebrate, but ending up hungover.",
+      "title": "Uluru Spring Source",
+      "description": "I know, I know—friction is inevitable. Conflict is the seed that sparks all growth.",
       "action": "",
-      "unlock_condition": "ChapterMapElement=15101008",
+      "unlock_condition": "ChapterMapElement=15101009",
       "content_hints": [],
       "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 15102006,
+      "owner_episode_id": 1510108,
+      "trigger_episode_id": null,
+      "title": "The Torch Guardians VI",
+      "description": "The torch relay comes to a halt here. The flickering flames have enraged the filth beneath the riverbed.",
+      "action": "",
+      "unlock_condition": "ChapterMapElement=15101009",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 15102007,
+      "owner_episode_id": 1510108,
+      "trigger_episode_id": null,
+      "title": "End of Rumors",
+      "description": "The torch relay comes to a halt here. The spark has been ignited, and now a mouth spewing deceitful words opens, casting a veil over the eyes of all.",
+      "action": "",
+      "unlock_condition": "ChapterMapElement=15101010",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 15108003,
+      "owner_episode_id": 1510108,
+      "trigger_episode_id": null,
+      "title": "A Box of Fake Tickets",
+      "description": "A divide still exists among the street gang on the issue of selling fake tickets.",
+      "action": "",
+      "unlock_condition": "ChapterMapElement=15101010",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "A Box of Fake Tickets"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Counterfeit Ticket Seizure Information\nJanuary 17th, 1991\n\nEucalyptus Brotherhood: 65 Tickets Seized\n\nJanuary 19th, 1991\n\nSlicky: 80 Tickets Seized\n\nSlicky was also remarkably unprofessional in this instance. Did they really think that printing \"Employee Ticket\" directly on the front of their counterfeits would make people think they were actually real? Moreover, the workmanship is of laughable quality.\n\nJanuary 21st, 1991\n\nLittle Scissors Jerry: 240 Tickets Seized\n\nAn increasing number of fake tickets are floating around on the market, and all I can do is try my best to confiscate as many of them as I can to prevent them from making their way into the hands of unsuspecting spectators.\n\nThe gangs have already put a target on my back. I need to make sure I draw less attention to myself next time."
+        }
+      ],
       "link_source": "supplement_episode_id"
     }
   ],

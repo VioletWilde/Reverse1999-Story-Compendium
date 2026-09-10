@@ -361,9 +361,45 @@ In an instant, she hurries her pace and jumps into the fire.
 
 ## Trail
 
-- **Uluru Desert** (`element 15101006`)
-  - Description: Her guidance came from that which she had awakened long ago, and her protection came from that which she had once saved.
-  - Unlock: `ChapterMapElement=15101004`
-- **The Torch Guardians IV** (`element 15102004`)
-  - Description: The torch relay comes to a halt here. The flickering flames have enraged the filth beneath the riverbed.
-  - Unlock: `ChapterMapElement=15101008`
+- **The Path to the Spring's Source** (`element 15101008`)
+  - Description: On the hidden path leading to the spring's mouth, she searched for flames, the past, and herself.
+  - Unlock: `ChapterMapElement=15101006`
+
+- **Research Springboard** (`element 15104001`)
+  - Description: A teacher shows his student the way.
+  - Unlock: `EpisodeFinish=1510106`
+
+  - **???**: You are back here again.
+
+  - **???**: Maybe it's telepathy. Maybe your soul is out of your body. Maybe ... Anyway, you're back here. In the dark woods, the huge oak trees crack in front of you. Dry and pungent fumes billow out.
+
+  - **???**: Flames swallow a lot of things: a lot of money, a lot of lives, family laughters, and a pair of eyes that once looked to the future.
+
+  - 【Choice】What's the smell?
+    - **???**: Gasoline. The turf here is tan and shiny. The clump looks like an uneven asphalt road.
+
+    - **???**: After so long, I mean, so many days, probably years, the fumes are still as pungent as yesterday. It won't take eight hours for your eyes to tingle.
+
+    - **???**: There's no boundary for the burned woods. You can hardly tell between the dark night and the scorched woods. To create such a huge, amazing fire ... will a small barrel of gasoline simply be enough?
+
+    - **???**: I'm afraid even 50 barrels are barely enough.
+
+
+  - 【Choice】It feels like …
+    - **???**: Dead skin. Dead fish. Upturning fishy scales. Desperate, the wailing wails of aquatic animals being boiled in the sea.
+
+    - **???**: Your palm tingles as you caress the trunk. The tree trunks with hanging dried strips of bark look like frightened cats—this might be their last effort to retain their dignity before meeting their doom. The hanging bark falls to the ground at your touch. No muss. No fuss. As if they've prepared for the fall for a long time.
+
+    - **???**: The woods are no fan of the fire. But they don't like staying on the cross for a long time either.
+
+
+  - **???**: You still have so many questions to ask her.
+
+  - **???**: But before you could, the battle has started.
+
+  - 【Choice】I still got a chance to ask her.
+    - **???**: I like you being positive. Your optimism will help you achieve your goals, get with the impossible girls, pay the bills, and probably become the greatest pacifist!
+
+    - **???**: Oh, did I just mention the girls? Just in case, I need to add a few more, so get with the impossible girls, boys, elders, transgenders, cute radios, ass heads …
+
+    - **???**: Enough. What we said tonight is just between you and me.

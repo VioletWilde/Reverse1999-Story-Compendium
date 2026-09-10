@@ -7,15 +7,27 @@
   "subtitle": "The light of reason shall one day shine upon the earth.",
   "trails": [
     {
-      "element_id": 15101011,
+      "element_id": 15105001,
       "owner_episode_id": 1510109,
       "trigger_episode_id": null,
-      "title": "Vertin's Suitcase",
-      "description": "You must leave the way you came. Familiarize yourself with the world after a thousand years, and understand how to master the flames.",
+      "title": "A Work Log",
+      "description": "A work log for municipal employees.",
       "action": "",
-      "unlock_condition": "ChapterMapElement=15101007",
-      "content_hints": [],
-      "content": [],
+      "unlock_condition": "EpisodeFinish=1510109",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "A Work Log"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "When they gave me this civil service job, I never thought I'd end up working with an emu one day.\n\nOr perhaps I should say that when I was drowning in those irrigation project application forms I couldn't finish last month (there are always so many applications I can't seem to finish), I never thought an emu formed of pixels would be of any use to me...\n\nBut... But \"Plappy\" really is something else. I'm not even sure if that's its name; I just heard that girl with the ponytail call it that.\n\nIt's quiet, strong, and has a strangely trustworthy air about it, so when I noticed it flipping through unapproved forms and trying to help with them, I didn't think to stop it.\n\nTo be honest, and I'm not sure if I'm just imagining this, but I think I can sense an aura of guilt radiating from Plappy.\n\nIt's like the kind of guilt a mother clad in a polka dot skirt feels after her child's soccer ball smashes through a glass window—the sense of guilt felt by a grandmother wearing a woolen beret after her grandchildren ride their bicycles over a beautiful flowerbed. Anyway, I can always count on it to bring me a basket of golden apples, appearing at my door, then bowing down—all the way to the ground.\n\nI know this all seems a little over-the-top, but whether it's true or my imagination, I have managed to calm down the \"Revival Squad\" formed by those rambunctious children.\n\nOh, that's right! I mustn't forget to return Kate's backpack. She left it at my house when she came to the housewarming party earlier. She took her sick leave immediately after and won't be at the office for two weeks straight. I saw her today—she looked good and seemed to be preparing for an interview... It's strange... Who would want to interview a civil servant? Maybe I should ask her the next time I see her."
+        }
+      ],
       "link_source": "supplement_episode_id"
     }
   ],

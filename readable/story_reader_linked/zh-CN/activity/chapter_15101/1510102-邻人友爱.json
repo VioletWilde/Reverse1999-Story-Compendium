@@ -7,13 +7,25 @@
   "subtitle": "拜访邻居的最佳方式从来都不是在深夜爬上她窗边的树梢。",
   "trails": [
     {
-      "element_id": 15101002,
+      "element_id": 15101003,
       "owner_episode_id": 1510102,
       "trigger_episode_id": null,
-      "title": "拉普拉斯会客厅",
-      "description": "这是一团火，它或许意味着谎言，又或许代表不可思议的奇迹。",
+      "title": "拉普拉斯诊疗室",
+      "description": "穿着银色制服的人们喷洒着袋鼠状泡沫，那是所有火的克星。好在，那团火焰并不孤单，她的同伴将她保护得很好。",
       "action": "类型501",
-      "unlock_condition": "ChapterMapElement=15101001",
+      "unlock_condition": "ChapterMapElement=15101002",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 15101004,
+      "owner_episode_id": 1510102,
+      "trigger_episode_id": null,
+      "title": "湖滨花园",
+      "description": "她们的距离第一次如此之近，近到彼此的火光可以被触碰，被照亮。",
+      "action": "类型501",
+      "unlock_condition": "ChapterMapElement=15101002",
       "content_hints": [],
       "content": [],
       "link_source": "supplement_episode_id"

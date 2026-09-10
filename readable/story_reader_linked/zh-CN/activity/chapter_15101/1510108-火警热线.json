@@ -7,27 +7,75 @@
   "subtitle": "还好，我们早已是一对熟练的灭火拍档。",
   "trails": [
     {
-      "element_id": 15101009,
+      "element_id": 15101001,
       "owner_episode_id": 1510108,
       "trigger_episode_id": null,
-      "title": "运动场的入口",
-      "description": "迈入一扇宏伟的门，我们重启一段新的征程。",
+      "title": "城市街角",
+      "description": "那场街角的意外成为了整篇故事的扉页，火花四溅，年轻的人们就此相遇。",
       "action": "类型501",
-      "unlock_condition": "ChapterMapElement=15101007",
+      "unlock_condition": "EpisodeFinish=1510108",
       "content_hints": [],
       "content": [],
       "link_source": "supplement_episode_id"
     },
     {
-      "element_id": 15101010,
+      "element_id": 15101012,
       "owner_episode_id": 1510108,
       "trigger_episode_id": null,
-      "title": "乌卢鲁运动场",
-      "description": "他们兴奋地奔跑，就像宴会上畅饮的宾客，高举酒杯庆贺，却落得宿醉的下场。",
+      "title": "乌卢鲁泉眼",
+      "description": "我知道，我知道，摩擦在所难免。碰撞是火花生长的根基。",
       "action": "类型501",
-      "unlock_condition": "ChapterMapElement=15101008",
+      "unlock_condition": "ChapterMapElement=15101009",
       "content_hints": [],
       "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 15102006,
+      "owner_episode_id": 1510108,
+      "trigger_episode_id": null,
+      "title": "火炬护卫队Ⅵ",
+      "description": "火炬的传递在此处停留，闪烁的火惹恼了河床下的秽物。",
+      "action": "教学记录",
+      "unlock_condition": "ChapterMapElement=15101009",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 15102007,
+      "owner_episode_id": 1510108,
+      "trigger_episode_id": null,
+      "title": "谣言的终结",
+      "description": "火炬的传递在此处停留，火种已经点燃，妖言惑众的口已张开，阻挡了人们的眼。",
+      "action": "教学记录",
+      "unlock_condition": "ChapterMapElement=15101010",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 15108003,
+      "owner_episode_id": 1510108,
+      "trigger_episode_id": null,
+      "title": "一盒假票",
+      "description": "在贩卖假票这件事上，街头团伙之间仍有高下之分。",
+      "action": "交互",
+      "unlock_condition": "ChapterMapElement=15101010",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "一盒假票"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "假票收缴明细\n1991年1月17日\n桉树兄弟会 65张\n\n1991年1月19日\n机灵鬼 80张\n机灵鬼也太不用心了吧。把“内部票”直接印在票面上真的会有人信吗？而且，做工也很劣质。\n\n1991年1月21日\n小剪刀杰瑞 240张\n\n市面上流通的假票越来越多了，我只能尽力收缴，不让假票流到不知情的观众手中。\n帮派们已经盯上了我，下次行动得更低调些。"
+        }
+      ],
       "link_source": "supplement_episode_id"
     }
   ],

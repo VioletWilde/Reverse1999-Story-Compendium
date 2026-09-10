@@ -7,27 +7,129 @@
   "subtitle": "火在我的皮膚上躍動，模糊的過往清晰可見，那是我真正的名諱。",
   "trails": [
     {
-      "element_id": 15101006,
+      "element_id": 15101008,
       "owner_episode_id": 1510106,
       "trigger_episode_id": null,
-      "title": "烏盧魯沙漠",
-      "description": "指引她的，正是她昔日喚醒的；保護她的，正是她曾拯救的。",
+      "title": "通向泉眼的道路",
+      "description": "在那條通往泉眼的隱蔽的小路上，她尋著了火焰，尋著了往日，尋著了自己。",
       "action": "",
-      "unlock_condition": "ChapterMapElement=15101004",
+      "unlock_condition": "ChapterMapElement=15101006",
       "content_hints": [],
       "content": [],
       "link_source": "supplement_episode_id"
     },
     {
-      "element_id": 15102004,
+      "element_id": 15104001,
       "owner_episode_id": 1510106,
       "trigger_episode_id": null,
-      "title": "火炬護衛隊Ⅳ",
-      "description": "火炬的傳遞在此處停留，閃爍的火惹惱了河床下的穢物。",
+      "title": "研究的起點",
+      "description": "導師對學生的教導。",
       "action": "",
-      "unlock_condition": "ChapterMapElement=15101008",
-      "content_hints": [],
-      "content": [],
+      "unlock_condition": "EpisodeFinish=1510106",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "你又回到了同樣的地方。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "或許是心靈感應，或許是靈魂出竅，或許是……總而言之，你回到了這裡。在這片晦暗不明的森林中，巨大的橡樹在你眼前裂開，乾燥而刺鼻的煙塵正不斷地冒出。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "火焰能吞沒很多東西。金錢、生命、家庭的歡笑，還有一雙會向前看的眼睛。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "這是什麼氣味？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "是汽油。這裡的草皮黝黑發亮，結塊的部位好像一條不平坦的柏油馬路。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "過了這麼久，我是說，過了這麼多，很可能是以年為單位計算的日子，這些汽油的味道卻仍然新鮮如昨日。不需要八個小時，你的眼睛就能感受到一陣刺痛。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "焚木沒有邊際。你幾乎很難分辨出夜晚與焦黑的樹林的界限。要創作這樣大，這樣精彩的火災……需要的，僅僅是一小桶汽油嗎？"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "恐怕是五十桶汽油也不夠。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "摸起來就像是——",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "死皮。死掉的魚，腥臭的翻起來的鱗。絕望的，在海中被煮沸的水生動物的哀嚎。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "你的掌心感到微微的刺痛。那些倒豎的，聳立的樹皮，就像受到驚嚇的貓，要在死亡面前留下最後的一點尊嚴。你的觸摸，讓樹皮刷拉拉地往下掉。乾脆，俐落，籌備良久。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "它們不喜歡火災。但它們也不喜歡長久地駐留在十字架上。"
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "你還有好多問題沒有問她。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "沒有來得及開口，戰爭就已經打響。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "我還有機會問她",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "我喜歡你的樂觀。這樣的樂觀能説明你實現目標，追到不可能的姑娘，支付超額的帳單，還可能成為最偉大的和平主義者！"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "噢，我剛剛是不是只提到了姑娘？保險起見，我要再補充幾點，追到不可能的姑娘、男孩、老人、跨性別者、可愛的收音機、驢頭人……等等。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "——夠了，今晚我們的對話不要告訴別人。"
+            }
+          ]
+        }
+      ],
       "link_source": "supplement_episode_id"
     }
   ],

@@ -7,27 +7,129 @@
   "subtitle": "火が皮膚の上で踊り、霧に包まれた過去がハッキリと姿を現した。あれは、わたしの本当の名だ。",
   "trails": [
     {
-      "element_id": 15101006,
+      "element_id": 15101008,
       "owner_episode_id": 1510106,
       "trigger_episode_id": null,
-      "title": "ウルル砂漠",
-      "description": "彼女を導いているのは、まさに彼女が呼び覚ました存在。彼女を守っているのは、まさに彼女がかつて救った存在。",
+      "title": "泉に通じる道",
+      "description": "あの泉へと通ずる隠された小道で、彼女は炎を、過去を、自分自身を見つけた。",
       "action": "",
-      "unlock_condition": "ChapterMapElement=15101004",
+      "unlock_condition": "ChapterMapElement=15101006",
       "content_hints": [],
       "content": [],
       "link_source": "supplement_episode_id"
     },
     {
-      "element_id": 15102004,
+      "element_id": 15104001,
       "owner_episode_id": 1510106,
       "trigger_episode_id": null,
-      "title": "トーチ護衛隊Ⅳ",
-      "description": "トーチの伝送が止まってしまった。煌めく炎が、川の中の穢れを刺激してしまった。",
+      "title": "研究の出発点",
+      "description": "教師から生徒への指導。",
       "action": "",
-      "unlock_condition": "ChapterMapElement=15101008",
-      "content_hints": [],
-      "content": [],
+      "unlock_condition": "EpisodeFinish=1510106",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "また同じ場所に戻った。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "テレパシーなのか幽体離脱なのか。それとも…とにかく、おまえさんはここに戻ってきた。この暗く視界不良な森の中、巨大なオークの木がおまえさんの目の前で破裂した。乾燥して鼻につく煙が、どんどん外に溢れ出てきやがる。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "炎は多くのものを呑み込むもんさ。金、命、家族の笑い…前向きな瞳。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "これはなんの匂いなの？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "ガソリンだ。ここの芝生は黒くテカってる。塊になった部分はゴツゴツなアスファルトの道みたいだ。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "気が遠くなるほどの間、恐らくは年単位で計算すべき月日が経ってるはずなのに、このガソリンの匂いはまるで昨日注がれたかのように新鮮だ。８時間もしないうちに、おまえさんの目はチクチクと痛みを感じるだろう。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "燃え焦げた木にどこまでも続いてる。夜と真っ黒に焦げた林の境目なんて分かりゃしないもんさ。こんな大規模でファビュラスな火災を創作するのに…１バレルのガソリンだけで足りると思うか？"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "恐らく５０バレルあっても足りないだろうな。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "触れてみると…",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "死んだ皮だ。死んだ魚の、生臭くて跳ね上がったウロコみたいだ。まるで海の中で沸騰して死んだ海洋生物の悲鳴だ。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "手のひらに少しチクチクと痛みを感じるだろ。逆さにそびえ立つ木の皮は、まるで死を目の前にして最後の尊厳を保とうとしてる、びくびく震える猫だ。おまえさんが触れたせいで、樹皮はサラサラと落ちてるぞ。きれいさっぱりだ。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "こいつらは火事が嫌いだ。十字架の上に釘付けにされるのも嫌がってる。"
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "彼女に聞いていない質問が、まだたくさんあるだろ？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "話す時間がないうちに、戦争が始まっちまった。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "まだ彼女と話すチャンスはある",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "おまえさんの楽観主義っぷりは好きだぜ。そのおかげで目標を実現して、おまえさんとは月とスッポンみたいな娘をモノにしたり、自分じゃ買えないような株を手に入れたりできる。あわよくばもっとも偉大な平和主義者になれるやもしれんな！"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "おっと、さっきは女の子の話しかしなかったな？　念のために補足しておこう。おまえさんとは月とスッポンみたいな娘、男、老人、トランスジェンダー、可愛らしいラジオ、ロバの頭をした奴…おっと。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "もういい。今夜の会話は誰にも言うんじゃないぞ。"
+            }
+          ]
+        }
+      ],
       "link_source": "supplement_episode_id"
     }
   ],

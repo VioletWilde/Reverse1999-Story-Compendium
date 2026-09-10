@@ -397,9 +397,88 @@ On the choppy water, several buoy balls are connected together. They are floatin
 
 ## Trail
 
-- **Newsstand** (`element 15101005`)
-  - Description: The commotion caused by the flames that night was reported as a bizarre and comical tabloid story. From reflections by the campfire to the anecdotes of old newspapers, over a thousand years have passed, and the public remains eager to derive pleasure from fiction.
-  - Unlock: `ChapterMapElement=15101003`
 - **The Torch Guardians III** (`element 15102003`)
   - Description: The torch relay comes to a halt here. The flickering flames have enraged the filth beneath the riverbed.
   - Unlock: `ChapterMapElement=15101005`
+
+- **"Out of the Darkness and Into the Light"** (`element 15108001`)
+  - Description: The fight against the fake ticket scandal begins with a request to gather information.
+  - Unlock: `ChapterMapElement=15101005`
+
+  - **???**: Now those little brats are knocked out. You noticed that old gum sticking to the bottom of their shoes, like crushed leeches.
+
+  - 【Choice】What color is the gum?
+    - **???**: Having been chewed for long, it took on the light amber color that the carbohydrate gum should have. Some folds were cyan. It's most likely mint-flavored.
+
+    - **???**: The sales champion of mint gum is the bubble gum machine near Wrigley Field. When a crazy game ends, there's always someone who needs something to chew in the mouth in order to take out the anger over the defeat.
+
+    - **???**: But ... Hey. Haven't you noticed yet? That wonderful mix of particles in the chewing gum base that's been squeezed into lumps?
+
+    - **???**: The off-white sand. The synthetic waxed elastic fiber. In the South Bank, there is only one place where such a politically symbolic floor is laid—St. Pavlov Foundation.
+
+
+  - 【Choice】What happened to the gum?
+    - **???**: Tragedy. A sympathetic encounter. It has fulfilled its mission cautiously and conscientiously. But clearly, no one cares.
+
+    - **???**: I dare say it's the most popular mint gum now. When the Chicagoans lost their rights to get drunk, they could only turn to this nasty upstart stuff.
+
+    - **???**: The sales champion is the bubble gum machine near Wrigley Field. The old gum on the kids' soles also comes from there.
+
+    - **???**: Some gravel mixed into the squeezed gum base. The off-white sand. The synthetic waxed elastic fiber. In the South Bank, there is only one place where such a politically symbolic floor is laid—St. Pavlov Foundation.
+
+
+  - 【Choice】What gum? I don't care!
+    - **???**: Who does? I'm very glad that we are on the same page on this.
+
+    - **???**: Describing an abandoned carbohydrate gum won't give anyone pleasure. So, let's skip to the next subject—Have you noticed the gravel mixed into the gum base?
+
+    - **???**: The off-white sand. The synthetic waxed elastic fiber. In the South Bank, there is only one place where such a politically symbolic floor is laid—St. Pavlov Foundation.
+
+
+  - **???**: It's very lively here in the square, just like every day in the past. Speculators, who advocate mankind supremacy, are trying to get the attention of the Foundation through demonstrations.
+
+  - **???**: They are on the same side as the Foundation, but the Foundation has no intention to treat these protesters as allies and give them what they want. They even sent a little girl to go through the motions as a perfunctory response.
+
+  - 【Choice】Little girls? An excellent topic.
+    - **???**: Yes. Yes. No one will ever ignore them. They are honey-colored. They are the morning sun in California. They are the dazzling spot on the doe that you'll never catch.
+
+    - **???**: For those hypocritical politicians, the little girls are the delicacies that they would drool over. Luckily, this little girl is not one of their prey.
+
+    - **???**: She is nervous but not panicked. She doesn't seem to be good at dealing with these slick "politicians." The mission capsule of the Foundation grew hot in her tightly clutched fist.
+
+    - **???**: And on the other side of the square, another little girl in a black suit is looking over here gloomily. She stood by the Foundation's air outlet, the best place for her.
+
+    - **???**: The position that is too marginal to be further marginalized. That's the best portrayal of the second-generation immigrants in the 20th century.
+
+
+  - 【Choice】Tell me about that Foundation girl.
+    - **???**: She is the good girl you already know. Orange hair. When she's deep in thought, she turns her pen like a nimble ball in a magician's hand.
+
+    - **???**: She is puzzled at the guys shouting around her. But there's light in her eyes, as if she's expecting something nice.
+
+    - **???**: Is it because of the next task packed in the mission capsule? Or the people she is going to meet?
+
+    - **???**: Her cheeks are a little rosy now. The thing in her hands was loosened too.
+
+
+  - 【Choice】Who's the girl in a black suit?
+    - **???**: She's someone you will know in the future.
+
+    - **???**: Now she shudders and shivers, like a cricket desperate for shelter. She's looking for an eave or a piece of rubble in the "Storm."
+
+    - **???**: Her figure might be frail, but her eyes are filled with cold anger. Maybe she had been rejected just now, or even insulted. She walked up to the square center with firm step, like a warrior.
+
+    - **???**: She had to perform another task she didn't like.
+
+    - **???**: At this moment, the capsule in the hand of the ad hoc representative of the Foundation dropped under the push of the crowd.
+
+
+  - **???**: —This is a good chance.
+
+  - **???**: She feels a hot wind from Africa blow towards Trapani. Then, the whole of Sicily becomes dry, warm, and comes alive. The air smells like tropical corals and wild oranges.
+
+  - **???**: That wind is never supposed to be part of this cold winter. But the warm vibe lingering and dancing in her mind reminds her to live on.
+
+  - **???**: She used to be desperate.
+
+  - **???**: Though all she has been through was failure after failure, her vigorous vitality won't fade away, at least not now.

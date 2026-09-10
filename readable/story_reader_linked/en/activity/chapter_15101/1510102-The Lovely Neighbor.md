@@ -139,9 +139,14 @@ Murmuring something, Desert Flannel unwillingly follows the team.
 
 ## Trail
 
-- **Laplace Reception Hall** (`element 15101002`)
-  - Description: This is a fire. It may signify a lie, or it may represent an incredible miracle.
-  - Unlock: `ChapterMapElement=15101001`
+- **Laplace Clinic** (`element 15101003`)
+  - Description: People in silver uniforms spray kangaroo-like foam, the bane of all flames. Fortunately, this flame is not alone, and her companions protect her completely.
+  - Unlock: `ChapterMapElement=15101002`
+
+- **Lakeside Garden** (`element 15101004`)
+  - Description: For the first time, they are so close—so close that each can touch the other's flames, and each can be illuminated.
+  - Unlock: `ChapterMapElement=15101002`
+
 - **The Torch Guardians I** (`element 15102001`)
   - Description: The torch relay comes to a halt here. The flickering flames have enraged the filth beneath the riverbed.
   - Unlock: `ChapterMapElement=15101002`

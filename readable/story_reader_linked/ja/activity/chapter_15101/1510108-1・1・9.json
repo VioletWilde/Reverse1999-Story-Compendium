@@ -7,27 +7,75 @@
   "subtitle": "熟練した火消しコンビがいてよかった。",
   "trails": [
     {
-      "element_id": 15101009,
+      "element_id": 15101001,
       "owner_episode_id": 1510108,
       "trigger_episode_id": null,
-      "title": "運動場の入口",
-      "description": "雄大な門に入ろう。そして、新しい旅路を再開しよう。",
+      "title": "都市の街角",
+      "description": "街角のアクシデントは物語の表紙となった。火花が飛び散り、若者たちは出会った。",
       "action": "",
-      "unlock_condition": "ChapterMapElement=15101007",
+      "unlock_condition": "EpisodeFinish=1510108",
       "content_hints": [],
       "content": [],
       "link_source": "supplement_episode_id"
     },
     {
-      "element_id": 15101010,
+      "element_id": 15101012,
       "owner_episode_id": 1510108,
       "trigger_episode_id": null,
-      "title": "ウルル運動場",
-      "description": "彼らは興奮して走った。まるでパーティーで盃を高く上げて祝いを捧げるように。可哀想に、みんな二日酔いになってしまった。",
+      "title": "ウルルの泉",
+      "description": "わかってるよ。衝突は火花の揺りかごなんだ。",
       "action": "",
-      "unlock_condition": "ChapterMapElement=15101008",
+      "unlock_condition": "ChapterMapElement=15101009",
       "content_hints": [],
       "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 15102006,
+      "owner_episode_id": 1510108,
+      "trigger_episode_id": null,
+      "title": "トーチ護衛隊Ⅵ",
+      "description": "トーチの伝送が止まってしまった。煌めく炎が、川の中の穢れを刺激してしまった。",
+      "action": "",
+      "unlock_condition": "ChapterMapElement=15101009",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 15102007,
+      "owner_episode_id": 1510108,
+      "trigger_episode_id": null,
+      "title": "ゴシップの終焉",
+      "description": "トーチの伝送が止まってしまった。火は点けられた。人心を惑わす口が開いて、人々の目を塞いでいる。",
+      "action": "",
+      "unlock_condition": "ChapterMapElement=15101010",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 15108003,
+      "owner_episode_id": 1510108,
+      "trigger_episode_id": null,
+      "title": "偽物のチケット",
+      "description": "偽チケット販売の件において、道端でたむろう集団の中には今でも上下関係があるようだ。",
+      "action": "",
+      "unlock_condition": "ChapterMapElement=15101010",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "偽物のチケット"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "偽チケットの回収明細\n1991年1月17日\nユーカリ兄弟の会　65枚\n\n1991年1月19日\nスマーティパンツ　80枚\nこいつらバカだな…「内部用」を直接チケットに印刷するやつがあるか。こんなもの、誰が信じるんだ？それに、雑な作りだな。\n\n1991年1月21日\nシザー会のジェリー　240枚\n\nますます多くの偽チケットが市場に出回っている。事情を知らない人が間違って手に取らないように、頑張って回収しなきゃ。\nもうギャングたちに目をつけられた。次はもっと慎重に行動しよう。"
+        }
+      ],
       "link_source": "supplement_episode_id"
     }
   ],

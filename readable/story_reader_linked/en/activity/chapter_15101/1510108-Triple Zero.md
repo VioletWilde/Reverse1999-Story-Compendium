@@ -159,9 +159,26 @@ Ezra turns to Vertin. They both remember what happened that night at the park.
 
 ## Trail
 
-- **Sports Field Entrance** (`element 15101009`)
-  - Description: Stepping through the magnificent gate, we now embark on a new journey.
-  - Unlock: `ChapterMapElement=15101007`
-- **Uluru Stadium** (`element 15101010`)
-  - Description: They run excitedly, like guests drinking capriciously at a banquet, holding up their glasses to celebrate, but ending up hungover.
-  - Unlock: `ChapterMapElement=15101008`
+- **City Street Corner** (`element 15101001`)
+  - Description: What took place on this street corner became the defining moment of the entire story. Sparks flew as the fires of youth met on this spot.
+  - Unlock: `EpisodeFinish=1510108`
+
+- **Uluru Spring Source** (`element 15101012`)
+  - Description: I know, I know—friction is inevitable. Conflict is the seed that sparks all growth.
+  - Unlock: `ChapterMapElement=15101009`
+
+- **The Torch Guardians VI** (`element 15102006`)
+  - Description: The torch relay comes to a halt here. The flickering flames have enraged the filth beneath the riverbed.
+  - Unlock: `ChapterMapElement=15101009`
+
+- **End of Rumors** (`element 15102007`)
+  - Description: The torch relay comes to a halt here. The spark has been ignited, and now a mouth spewing deceitful words opens, casting a veil over the eyes of all.
+  - Unlock: `ChapterMapElement=15101010`
+
+- **A Box of Fake Tickets** (`element 15108003`)
+  - Description: A divide still exists among the street gang on the issue of selling fake tickets.
+  - Unlock: `ChapterMapElement=15101010`
+
+  > 【Title card】A Box of Fake Tickets
+
+  - Counterfeit Ticket Seizure Information<br>January 17th, 1991<br><br>Eucalyptus Brotherhood: 65 Tickets Seized<br><br>January 19th, 1991<br><br>Slicky: 80 Tickets Seized<br><br>Slicky was also remarkably unprofessional in this instance. Did they really think that printing "Employee Ticket" directly on the front of their counterfeits would make people think they were actually real? Moreover, the workmanship is of laughable quality.<br><br>January 21st, 1991<br><br>Little Scissors Jerry: 240 Tickets Seized<br><br>An increasing number of fake tickets are floating around on the market, and all I can do is try my best to confiscate as many of them as I can to prevent them from making their way into the hands of unsuspecting spectators.<br><br>The gangs have already put a target on my back. I need to make sure I draw less attention to myself next time.

@@ -19,27 +19,355 @@
       "link_source": "supplement_episode_id"
     },
     {
-      "element_id": 15101008,
+      "element_id": 15101009,
       "owner_episode_id": 1510107,
       "trigger_episode_id": null,
-      "title": "The Path to the Spring's Source",
-      "description": "On the hidden path leading to the spring's mouth, she searched for flames, the past, and herself.",
+      "title": "Sports Field Entrance",
+      "description": "Stepping through the magnificent gate, we now embark on a new journey.",
       "action": "",
-      "unlock_condition": "ChapterMapElement=15101006",
+      "unlock_condition": "ChapterMapElement=15101007",
       "content_hints": [],
       "content": [],
       "link_source": "supplement_episode_id"
     },
     {
-      "element_id": 15101012,
+      "element_id": 15101010,
       "owner_episode_id": 1510107,
       "trigger_episode_id": null,
-      "title": "Uluru Spring Source",
-      "description": "I know, I know—friction is inevitable. Conflict is the seed that sparks all growth.",
+      "title": "Uluru Stadium",
+      "description": "They run excitedly, like guests drinking capriciously at a banquet, holding up their glasses to celebrate, but ending up hungover.",
       "action": "",
-      "unlock_condition": "ChapterMapElement=15101009",
+      "unlock_condition": "ChapterMapElement=15101008",
       "content_hints": [],
       "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 15101011,
+      "owner_episode_id": 1510107,
+      "trigger_episode_id": null,
+      "title": "Vertin's Suitcase",
+      "description": "You must leave the way you came. Familiarize yourself with the world after a thousand years, and understand how to master the flames.",
+      "action": "",
+      "unlock_condition": "ChapterMapElement=15101007",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 15102004,
+      "owner_episode_id": 1510107,
+      "trigger_episode_id": null,
+      "title": "The Torch Guardians IV",
+      "description": "The torch relay comes to a halt here. The flickering flames have enraged the filth beneath the riverbed.",
+      "action": "",
+      "unlock_condition": "ChapterMapElement=15101008",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 15102005,
+      "owner_episode_id": 1510107,
+      "trigger_episode_id": null,
+      "title": "The Torch Guardians V",
+      "description": "The torch relay comes to a halt here. The flickering flames have enraged the filth beneath the riverbed.",
+      "action": "",
+      "unlock_condition": "ChapterMapElement=15101012",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 15103001,
+      "owner_episode_id": 1510107,
+      "trigger_episode_id": null,
+      "title": "Event Program",
+      "description": "A list of sporting events for the Uluru Games.",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=1510107",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "List of Uluru Games Sporting Events (Provisional Version)"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "Arcanum-Themed Events\n\n[Track and Field] \n\n\n\nThe use of arcane skills, such as vaporization, blink, and flying, is permitted.\n\nPotions and special vehicles are strictly prohibited. Requires implementable drug testing procedures to be designed. For example, random sampling before the start of the competition and standardized drug testing procedures for the top six athletes in each event after the competition.\n\n\n\nThe world record for this event was set by Carlos Castillo, the Cuban flying mouse, in 1924. By the time of his retirement, he was still unable to break his own record.\n\nMr. Pavia once surpassed this height in training—I witnessed it with my own eyes! I'm really looking forward to seeing him perform out on the field.\n\n\n\nThere are still uncertainties regarding the distinctions between certain vehicle drivers and the vehicles themselves, such as participants racing in vehicles like UFOs, wooden horses, and artificial satellites.\n\nThe individual event rules will provide more detailed information on this situation to avoid any potential complications regarding the referee's decision-making duties.\n\n[Combat Events]\n\n\n\nThe competition venue needs to be set up next to a medical station.\n\nGuardrails and warning lines need to be placed around the arena to prevent excited spectators from entering the field of competition and disrupting the competition schedule.\n\n\n\nCompetitors must tame strange water beasts, mount them, and race them. Druids will be allowed to participate.\n\nAlgae needs to be planted at the water area's endpoint to maintain the physical condition and hemoglobin index of the beasts."
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 15108002,
+      "owner_episode_id": 1510107,
+      "trigger_episode_id": null,
+      "title": "The Sacred Flame of Legend",
+      "description": "Among the many stories my grandmother shared with me, I'll never forget the one she told me about fire.",
+      "action": "",
+      "unlock_condition": "ChapterMapElement=15101008",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "What are you doing? Why did you pick up that cold, opaque, opalescent glass wine bottle from the ground—at this most critical moment?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "The scream outside the parking lot, the friction between the brake pads and the wheel drums, or the story unfolding like Giallo films. Obviously, none of them are as impressive as this bottle."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "I can tell that you got good taste. You know it's not easy to get this stuff these days."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "But, why are you staring at the bottom and licking your lips? Tell me, you are not going to take a sip, are you?"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "This is not a wise choice. You can't see the color of the liquid inside the glass. Maybe it's not the ice wine, or beer, or any homemade alcohol."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "It's probably—very likely—just a critter's snot. Even so, do you still wanna give it a try?"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "Come off it. I'll take a shot.",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Every Carbuncle you've ever met will appreciate your courage."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Now, some cold liquid runs through your throat. It trickles slowly, most likely because it's thick. But the taste is much smoother than you think."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Then, a faint scent of absinthe greeted your nostril, and maltose, and lemon thyme, and coconut sugar. It's as delicious as a present from the arcanist from New Zealand."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "And at the same time, your heart swells, and you feel a scorching energy fill your windpipe."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Your vision begins to blur. You kinda see the rough letter on the bottom: The Walden Potion Bar."
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "What the F**k is this?",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "It's anything but alcohol! \"Alcohol\" is a taboo. But it will empower you to face the next damn reality."
+                },
+                {
+                  "kind": "choice",
+                  "speaker": "",
+                  "text": "Who are you?",
+                  "edge_label": "",
+                  "branch": [
+                    {
+                      "kind": "dialogue",
+                      "speaker": "???",
+                      "text": "Me? Ha, I am no one."
+                    },
+                    {
+                      "kind": "dialogue",
+                      "speaker": "???",
+                      "text": "But I can also be anyone—a drunken, slovenly old man, a cleaner in a run-down hotel, a fund manager greedy for more, or a cute spinning crystal skull."
+                    },
+                    {
+                      "kind": "dialogue",
+                      "speaker": "???",
+                      "text": "Now I'm a drunkard with good taste, just like you."
+                    },
+                    {
+                      "kind": "dialogue",
+                      "speaker": "???",
+                      "text": "And the day when we formally meet each other is coming soon."
+                    },
+                    {
+                      "kind": "dialogue",
+                      "speaker": "???",
+                      "text": "Now, lift your big ass and continue your wonderful journey. I will appear at any time, any moment, no matter you expect or not."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "I really shouldn't click this bottle.",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Right. It only took one moment for you to decide to click, while you had to stand so much nonsense for no reason."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "My apologies if the story didn't unfold as you expected. But luckily, you still have your sanity that you are always proud of."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Come here. Let's put down the bottle. Before Sonetto and that floating APPLe notice your unusual behavior, you still have a chance to restore your image."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "After me, say \"Hi\" to them. Pretend you've never been tempted by the bottle."
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "\"Hi.\"",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "Oh. Hi! How are you doing?"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "Hahahahaha. Excellent. Now we all know how effective the training of the Foundation is. Good news: everyone likes good kids."
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "???",
+                  "text": "It's so nice talking to you. You're better than your ... Oops, I should stop here."
+                },
+                {
+                  "kind": "choice",
+                  "speaker": "",
+                  "text": "Who the hell are you?",
+                  "edge_label": "",
+                  "branch": [
+                    {
+                      "kind": "dialogue",
+                      "speaker": "???",
+                      "text": "Me? Ha, I am no one."
+                    },
+                    {
+                      "kind": "dialogue",
+                      "speaker": "???",
+                      "text": "But I can also be anyone—a drunken, slovenly old man, a cleaner in a run-down hotel, a fund manager greedy for more, or a cute spinning crystal skull."
+                    },
+                    {
+                      "kind": "dialogue",
+                      "speaker": "???",
+                      "text": "Now I am a nice and friendly adventurer, just like you."
+                    },
+                    {
+                      "kind": "dialogue",
+                      "speaker": "???",
+                      "text": "Don't worry. The day when we formally meet each other is coming soon."
+                    },
+                    {
+                      "kind": "dialogue",
+                      "speaker": "???",
+                      "text": "Now, lift your big ass and continue your wonderful journey. I will appear at any time, any moment, no matter you expect or not."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "Are you sure they can hear it?",
+              "edge_label": "",
+              "branch": []
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "I really wanna find out what you're composed of! I'll chew and swallow all the gene analysis down to my stomach, so I can figure out ... how did you keep your sanity!"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "No arcanist is ever as rational and restrained as you. They should, they should ... If there is really one in the world, that should be ..."
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "???",
+          "text": "And I know so much about you. Too much about you! Even I cannot deny what you are. I can't!"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "Who the hell are you?",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Me? Ha, I am no one."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "But I can also be anyone—a drunken, slovenly old man, a cleaner in a run-down hotel, a fund manager greedy for more, or a cute spinning crystal skull."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "But now I'm only a rubber asshole whose mischief just failed. A desperate loser. My wrath can't even burn a weed in the Pacific Ocean."
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "I'm looking forward to the day we formally meet each other. Only then …"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "???",
+              "text": "Now, lift your big ass and continue your wonderful journey. I will appear at any time, any moment, no matter you expect or not!"
+            }
+          ]
+        }
+      ],
       "link_source": "supplement_episode_id"
     }
   ],

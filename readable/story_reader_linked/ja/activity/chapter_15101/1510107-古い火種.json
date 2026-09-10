@@ -19,27 +19,355 @@
       "link_source": "supplement_episode_id"
     },
     {
-      "element_id": 15101008,
+      "element_id": 15101009,
       "owner_episode_id": 1510107,
       "trigger_episode_id": null,
-      "title": "泉に通じる道",
-      "description": "あの泉へと通ずる隠された小道で、彼女は炎を、過去を、自分自身を見つけた。",
+      "title": "運動場の入口",
+      "description": "雄大な門に入ろう。そして、新しい旅路を再開しよう。",
       "action": "",
-      "unlock_condition": "ChapterMapElement=15101006",
+      "unlock_condition": "ChapterMapElement=15101007",
       "content_hints": [],
       "content": [],
       "link_source": "supplement_episode_id"
     },
     {
-      "element_id": 15101012,
+      "element_id": 15101010,
       "owner_episode_id": 1510107,
       "trigger_episode_id": null,
-      "title": "ウルルの泉",
-      "description": "わかってるよ。衝突は火花の揺りかごなんだ。",
+      "title": "ウルル運動場",
+      "description": "彼らは興奮して走った。まるでパーティーで盃を高く上げて祝いを捧げるように。可哀想に、みんな二日酔いになってしまった。",
       "action": "",
-      "unlock_condition": "ChapterMapElement=15101009",
+      "unlock_condition": "ChapterMapElement=15101008",
       "content_hints": [],
       "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 15101011,
+      "owner_episode_id": 1510107,
+      "trigger_episode_id": null,
+      "title": "ヴェルティのスーツケース",
+      "description": "千年後の世界を知った今、来た道を歩み、より上手に炎を扱う方法を心得るべきだ。",
+      "action": "",
+      "unlock_condition": "ChapterMapElement=15101007",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 15102004,
+      "owner_episode_id": 1510107,
+      "trigger_episode_id": null,
+      "title": "トーチ護衛隊Ⅳ",
+      "description": "トーチの伝送が止まってしまった。煌めく炎が、川の中の穢れを刺激してしまった。",
+      "action": "",
+      "unlock_condition": "ChapterMapElement=15101008",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 15102005,
+      "owner_episode_id": 1510107,
+      "trigger_episode_id": null,
+      "title": "トーチ護衛隊Ⅴ",
+      "description": "トーチの伝送が止まってしまった。煌めく炎が、川の中の穢れを刺激してしまった。",
+      "action": "",
+      "unlock_condition": "ChapterMapElement=15101012",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 15103001,
+      "owner_episode_id": 1510107,
+      "trigger_episode_id": null,
+      "title": "種目のリスト",
+      "description": "ウルル運動会の種目のリスト。",
+      "action": "",
+      "unlock_condition": "EpisodeFinish=1510107",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "ウルル運動会の種目リスト（暫定版）"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "神秘学限定試合\n\n【陸上競技】\n\n\n気化、瞬間移動、飛行などの神秘術を使用してもよい。ポーションと特殊な乗り物は一切の使用を禁ずる。\n現実的に実施可能な薬物検査プログラムを用意する必要がある。例えば、試合開始前にランダムで検査し、かつ、試合終了後に、種目の上位6名の選手に対して規定の検査を実施する、など。\n\n\nこの種目の世界記録は1924年、「キューバのムササビ」ことカルロス・カスティリョ氏によって達成された。彼は引退するまで、自身の最高記録を更新することができなかった。\nしかし、ミスター・パヴィアが練習中にこの高さを超えるジャンプを見せてくれた！試合での彼の活躍を期待している。\n\n\n一部において、乗り物のパイロットと乗り物自身の区別作業にまだ疑問点が残っている。例えば空飛ぶ円盤や木馬、人工衛星の参加者の参加区分について。\n審判員の困惑を減らすため、これに該当する場合の詳しい説明は種目別のルールの中に載っている。\n\n【対抗種目】\n\n\n試合会場は医務ステーションの近くに配置。\n興奮した観客が場内に乱入し、試合の進行を妨害しないように、ステージの周辺にはガードレールと区画線を設置する必要がある。\n\n\n初対面の水棲獣に乗ってゴールを目指す。ドルイドも参加可能。\n水棲獣の体力とヘモグロビン値の安定を保つため、ゴール付近の水域で水草を養殖する必要がある。"
+        }
+      ],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 15108002,
+      "owner_episode_id": 1510107,
+      "trigger_episode_id": null,
+      "title": "伝説の中の聖火",
+      "description": "祖母から聞かされたたくさんのお話の中で、あの火のお話はいつまでも忘れられない。",
+      "action": "",
+      "unlock_condition": "ChapterMapElement=15101008",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "何をしている？　どうしてこの肝心な時に、その冷たくて不透明な暗緑色のガラス瓶を拾いあげたんだ？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "ガレージ外の悲鳴、ブレーキプレートと車輪のこしきが摩擦する音、色褪せた映画のようなストーリー展開。どれもその瓶には及ばないらしい。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "見る限り、おまえさんはセンスがいいらしい。この時代でそれが珍しいもんだって分かってる。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "でもよ、どうして瓶の底をじっと見つめながら舌なめずりしたんだ？　もしかして、飲もうとでも思ってんのか？"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "賢明だとは言い難いな。そのガラスは濁ってるから、中身の色が確認できない。お前さんが想像してるようなアイスワインやビール、農家の地酒じゃなく、"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "魔精の鼻水かもしれない。それでも飲もうってのか？"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "役に立たない話はもういい、飲ませて",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "おまえさんが今まで遭遇してきたカーバンクルたちですら、その勇気に関心するだろう。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "今、おまえさんの喉には冷たい液体が注がれてる。流れるスピードは早くないのは、濁ってるからかもしれない。だが喉ごしは想像してたよりなめらかだった。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "それからおまえさんは鼻からよもぎ、マルトース、レモンタイム、ココナッツシュガーのかすかな香りがするのを感じた。まるでニュージーランド生まれの神秘学家が贈ってくれたプレゼントみたいに美味だった。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "同時に、心臓が拡張して、気管に灼熱を感じた。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "おまえさんの視界はぼやけ始めた。ボトルの底に荒く刻まれた文字がぼんやりと見えた。「ポリポーションバー・ザ・ウォールデン」"
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "うぇっ…これは一体なに！？",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "もちろん、酒ではない！　酒は禁じられた不思議な言葉なんだ。しかし、それは酒と同じくおまえさんに勇気をくれる飲み物だ。死にたくなるほど鬱になる暮らしの中、生き続ける勇気をくれる。"
+                },
+                {
+                  "kind": "choice",
+                  "speaker": "",
+                  "text": "きみは誰？",
+                  "edge_label": "",
+                  "branch": [
+                    {
+                      "kind": "dialogue",
+                      "speaker": "？？？",
+                      "text": "おれのことか？　何者でもないし、何者であっても不思議じゃあない。"
+                    },
+                    {
+                      "kind": "dialogue",
+                      "speaker": "？？？",
+                      "text": "呑んだくれのだらしないじじいかもしれないし、ボロ宿の清掃人かもしれない。両目をギラギラとさせたファンドマネージャーでもいいし、回転し続けるかわいいクリスタルスカルでもいいさ。"
+                    },
+                    {
+                      "kind": "dialogue",
+                      "speaker": "？？？",
+                      "text": "今のおれはおまえさんと同じく、センスがいいのん兵衛だ。"
+                    },
+                    {
+                      "kind": "dialogue",
+                      "speaker": "？？？",
+                      "text": "そして、おれたちが正式に会う日はもうすぐ訪れる。"
+                    },
+                    {
+                      "kind": "dialogue",
+                      "speaker": "？？？",
+                      "text": "さあ、早くその重たいケツを上げて、素晴らしい旅の続きをしてきな。おれはいつでも現れる。おまえさんが期待してる時も、期待していない時も。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "この瓶を拾うべきじゃなかった",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "そうだ。拾うのは一瞬のひらめきで決まる。だがおまえさんは理由もなく無駄話をたくさん聞かねばならない。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "おまえさんが望んだような展開にならず残念だったな。幸いなことに、まだ誇れる理性が残ってるようだ。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "さあ、そのガラスの瓶を置くんだ。ソネットと空飛ぶリンゴがおまえさんの異常な挙動に気づく前に。まだ己のイメージを保つことができる。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "おれと一緒に彼らにこう挨拶しよう。「ハロー」。まるで酒に誘惑などされてなかったようにな。"
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "「ハロー」",
+              "edge_label": "",
+              "branch": [
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "おお、やあ！　今日はどうだった？"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "ハハハハハ、そりゃあいい。財団の訓練がどれほど有効的なのか、もうみんな分かったようだ。幸いなことに、「いい子」はみんなから好かれる。"
+                },
+                {
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "おまえさんと一緒にいるのはとても愉快だ。あの子よりずっと…いや、この話はもう続けるべきじゃないな。"
+                },
+                {
+                  "kind": "choice",
+                  "speaker": "",
+                  "text": "きみは一体何者？",
+                  "edge_label": "",
+                  "branch": [
+                    {
+                      "kind": "dialogue",
+                      "speaker": "？？？",
+                      "text": "おれのことか？　何者でもないし、何者であっても不思議じゃあない。"
+                    },
+                    {
+                      "kind": "dialogue",
+                      "speaker": "？？？",
+                      "text": "呑んだくれのだらしないじじいかもしれないし、ボロ宿の清掃人かもしれない。両目をギラギラとさせたファンドマネージャーでもいいし、回転し続けるかわいいクリスタルスカルでもいいさ。"
+                    },
+                    {
+                      "kind": "dialogue",
+                      "speaker": "？？？",
+                      "text": "今のおれはおまえさんと同じ、友好的な冒険者だ。"
+                    },
+                    {
+                      "kind": "dialogue",
+                      "speaker": "？？？",
+                      "text": "心配はいらないさ、おれたちが正式に会う日はもうすぐ訪れる。"
+                    },
+                    {
+                      "kind": "dialogue",
+                      "speaker": "？？？",
+                      "text": "さあ、早くその重たいケツを上げて、素晴らしい旅の続きをしてきな。おれはいつでも現れる。おまえさんが期待してる時も、期待していない時も。"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "choice",
+              "speaker": "",
+              "text": "本当に聞いてもらえるの？",
+              "edge_label": "",
+              "branch": []
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "……"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "おまえさんの成分をよーく検査してみたいもんだ！　全てのゲノムレポートを千切りにして腹に入れて、その理性がどっから来てるのかを徹底的に検査したいね！"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "おまえさんみたいに理性的で感情をコントロールできる神秘学家なんていない。奴らは、奴らは…もし本当に存在したとしても、それは…"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "おれはおまえさんのことをよーく知ってるぞ！　おまえさんの身分が純粋なことは否定できない！　無理だ！"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "きみは一体何者？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "おれのことか？　何者でもないし、何者であっても不思議じゃあない。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "呑んだくれのだらしないじじいかもしれないし、ボロ宿の清掃人かもしれない。両目をギラギラとさせたファンドマネージャーでもいいし、回転し続けるかわいいクリスタルスカルでもいいさ。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "今のおれはイタズラに失敗したゴム製のバカ野郎でしかねえ。せっかちなもんよ。そしてこのぶつけどころのない怒りは、太平洋にある一本の水草にすら影響を与えられないのさ。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "おまえさんと正式に会う日を楽しみにしてるぜ。その日が来れば…"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "早くその重たいケツを上げて、素晴らしい旅の続きをしてきな。おれはいつでも現れる。おまえさんが期待してる時も、期待していない時もだ！"
+            }
+          ]
+        }
+      ],
       "link_source": "supplement_episode_id"
     }
   ],

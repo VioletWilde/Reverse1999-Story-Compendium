@@ -353,6 +353,10 @@ Huff, huff.
 
 ## Trail
 
-- **Vertin's Suitcase** (`element 15101011`)
-  - Description: You must leave the way you came. Familiarize yourself with the world after a thousand years, and understand how to master the flames.
-  - Unlock: `ChapterMapElement=15101007`
+- **A Work Log** (`element 15105001`)
+  - Description: A work log for municipal employees.
+  - Unlock: `EpisodeFinish=1510109`
+
+  > 【Title card】A Work Log
+
+  - When they gave me this civil service job, I never thought I'd end up working with an emu one day.<br><br>Or perhaps I should say that when I was drowning in those irrigation project application forms I couldn't finish last month (there are always so many applications I can't seem to finish), I never thought an emu formed of pixels would be of any use to me...<br><br>But... But "Plappy" really is something else. I'm not even sure if that's its name; I just heard that girl with the ponytail call it that.<br><br>It's quiet, strong, and has a strangely trustworthy air about it, so when I noticed it flipping through unapproved forms and trying to help with them, I didn't think to stop it.<br><br>To be honest, and I'm not sure if I'm just imagining this, but I think I can sense an aura of guilt radiating from Plappy.<br><br>It's like the kind of guilt a mother clad in a polka dot skirt feels after her child's soccer ball smashes through a glass window—the sense of guilt felt by a grandmother wearing a woolen beret after her grandchildren ride their bicycles over a beautiful flowerbed. Anyway, I can always count on it to bring me a basket of golden apples, appearing at my door, then bowing down—all the way to the ground.<br><br>I know this all seems a little over-the-top, but whether it's true or my imagination, I have managed to calm down the "Revival Squad" formed by those rambunctious children.<br><br>Oh, that's right! I mustn't forget to return Kate's backpack. She left it at my house when she came to the housewarming party earlier. She took her sick leave immediately after and won't be at the office for two weeks straight. I saw her today—she looked good and seemed to be preparing for an interview... It's strange... Who would want to interview a civil servant? Maybe I should ask her the next time I see her.

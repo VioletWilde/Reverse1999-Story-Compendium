@@ -391,6 +391,6 @@ Far faster than expected, the flame spreads over her, and her cry for help fades
 
 ## Trail
 
-- **Laplace Clinic** (`element 15101003`)
-  - Description: People in silver uniforms spray kangaroo-like foam, the bane of all flames. Fortunately, this flame is not alone, and her companions protect her completely.
-  - Unlock: `ChapterMapElement=15101002`
+- **Newsstand** (`element 15101005`)
+  - Description: The commotion caused by the flames that night was reported as a bizarre and comical tabloid story. From reflections by the campfire to the anecdotes of old newspapers, over a thousand years have passed, and the public remains eager to derive pleasure from fiction.
+  - Unlock: `ChapterMapElement=15101003`

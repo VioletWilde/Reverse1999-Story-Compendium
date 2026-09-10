@@ -7,27 +7,129 @@
   "subtitle": "火在我的皮肤上跃动，模糊的过往清晰可见，那是我真正的名讳。",
   "trails": [
     {
-      "element_id": 15101006,
+      "element_id": 15101008,
       "owner_episode_id": 1510106,
       "trigger_episode_id": null,
-      "title": "乌卢鲁沙漠",
-      "description": "指引她的，正是她昔日唤醒的；保护她的，正是她曾拯救的。",
+      "title": "通向泉眼的道路",
+      "description": "在那条通往泉眼的隐蔽的小路上，她寻着了火焰，寻着了往日，寻着了自己。",
       "action": "类型501",
-      "unlock_condition": "ChapterMapElement=15101004",
+      "unlock_condition": "ChapterMapElement=15101006",
       "content_hints": [],
       "content": [],
       "link_source": "supplement_episode_id"
     },
     {
-      "element_id": 15102004,
+      "element_id": 15104001,
       "owner_episode_id": 1510106,
       "trigger_episode_id": null,
-      "title": "火炬护卫队Ⅳ",
-      "description": "火炬的传递在此处停留，闪烁的火惹恼了河床下的秽物。",
-      "action": "教学记录",
-      "unlock_condition": "ChapterMapElement=15101008",
-      "content_hints": [],
-      "content": [],
+      "title": "研究的起点",
+      "description": "导师对学生的教导。",
+      "action": "对话",
+      "unlock_condition": "EpisodeFinish=1510106",
+      "content_hints": [
+        "dialog"
+      ],
+      "content": [
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "你又回到了同样的地方。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "或许是心灵感应，或许是灵魂出窍，或许是……总而言之，你回到了这里。在这片晦暗不明的森林中，巨大的橡树在你眼前裂开，干燥而刺鼻的烟尘正不断地冒出。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "火焰能吞没很多东西。金钱、生命、家庭的欢笑，还有一双会向前看的眼睛。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "这是什么气味？",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "是汽油。这里的草皮黝黑发亮，结块的部位好像一条不平坦的柏油马路。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "过了这么久，我是说，过了这么多，很可能是以年为单位计算的日子，这些汽油的味道却仍然新鲜如昨日。不需要八个小时，你的眼睛就能感受到一阵刺痛。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "焚木没有边际。你几乎很难分辨出夜晚与焦黑的树林的界限。要创作这样大，这样精彩的火灾……需要的，仅仅是一小桶汽油吗？"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "恐怕是五十桶汽油也不够。"
+            }
+          ]
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "摸起来就像是——",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "死皮。死掉的鱼，腥臭的翻起来的鳞。绝望的，在海中被煮沸的水生动物的哀嚎。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "你的掌心感到微微的刺痛。那些倒竖的，耸立的树皮，就像受到惊吓的猫，要在死亡面前留下最后的一点尊严。你的触摸，让树皮刷拉拉地往下掉。干脆，利落，筹备良久。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "它们不喜欢火灾。但它们也不喜欢长久地驻留在十字架上。"
+            }
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "你还有好多问题没有问她。"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "？？？",
+          "text": "没有来得及开口，战争就已经打响。"
+        },
+        {
+          "kind": "choice",
+          "speaker": "",
+          "text": "我还有机会问她",
+          "edge_label": "",
+          "branch": [
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "我喜欢你的乐观。这样的乐观能帮助你实现目标，追到不可能的姑娘，支付超额的账单，还可能成为最伟大的和平主义者！"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "噢，我刚刚是不是只提到了姑娘？保险起见，我要再补充几点，追到不可能的姑娘、男孩、老人、跨性别者、可爱的收音机、驴头人……等等。"
+            },
+            {
+              "kind": "dialogue",
+              "speaker": "？？？",
+              "text": "——够了，今晚我们的对话不要告诉别人。"
+            }
+          ]
+        }
+      ],
       "link_source": "supplement_episode_id"
     }
   ],

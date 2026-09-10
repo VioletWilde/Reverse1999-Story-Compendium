@@ -7,27 +7,75 @@
   "subtitle": "다행히 우리는 오래 전부터 숙련된 소방관 듀오이다.",
   "trails": [
     {
-      "element_id": 15101009,
+      "element_id": 15101001,
       "owner_episode_id": 1510108,
       "trigger_episode_id": null,
-      "title": "스타디움 입구",
-      "description": "웅장한 문으로 들어선 우리는 새로운 여정을 다시 시작한다.",
+      "title": "도시 길모퉁이",
+      "description": "길모퉁이에서 일어난 그 사고는 전체 이야기의 제목이 되었고, 불꽃이 튀는 가운데 젊은이들의 만남이 이루어졌다.",
       "action": "",
-      "unlock_condition": "ChapterMapElement=15101007",
+      "unlock_condition": "EpisodeFinish=1510108",
       "content_hints": [],
       "content": [],
       "link_source": "supplement_episode_id"
     },
     {
-      "element_id": 15101010,
+      "element_id": 15101012,
       "owner_episode_id": 1510108,
       "trigger_episode_id": null,
-      "title": "울루루 스타디움",
-      "description": "그들은 흥겨운 연회에 참가한 손님처럼 들뜬 마음으로 술잔을 높이 들고 뛰어다녔으나 결국 숙취에 빠졌다.",
+      "title": "울루루 샘",
+      "description": "마찰은 불가피하다는 것을 알아, 알고 있어. 충돌은 불씨를 피울 밑거름이지.",
       "action": "",
-      "unlock_condition": "ChapterMapElement=15101008",
+      "unlock_condition": "ChapterMapElement=15101009",
       "content_hints": [],
       "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 15102006,
+      "owner_episode_id": 1510108,
+      "trigger_episode_id": null,
+      "title": "횃불 호위대Ⅵ",
+      "description": "이곳에 잠시 멈춘 횃불의 반짝임은 강바닥 아래 오물의 분노를 자극했다.",
+      "action": "",
+      "unlock_condition": "ChapterMapElement=15101009",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 15102007,
+      "owner_episode_id": 1510108,
+      "trigger_episode_id": null,
+      "title": "헛소문의 끝",
+      "description": "이곳에 잠시 멈춘 횃불의 불씨는 타오르고 거짓으로 대중을 현혹하는 입은 사람들의 눈을 가렸다.",
+      "action": "",
+      "unlock_condition": "ChapterMapElement=15101010",
+      "content_hints": [],
+      "content": [],
+      "link_source": "supplement_episode_id"
+    },
+    {
+      "element_id": 15108003,
+      "owner_episode_id": 1510108,
+      "trigger_episode_id": null,
+      "title": "가짜 티켓 한 상자",
+      "description": "가짜 티켓 판매에 대해 거리의 조직 간에는 여전히 의견 차이가 있다.",
+      "action": "",
+      "unlock_condition": "ChapterMapElement=15101010",
+      "content_hints": [
+        "fragment"
+      ],
+      "content": [
+        {
+          "kind": "title_card",
+          "text": "가짜 티켓 한 상자"
+        },
+        {
+          "kind": "dialogue",
+          "speaker": "",
+          "text": "가짜 티켓 수령 내역\n1991년 1월 17일\n유칼립투스 형제회 65장\n\n1991년 1월 19일\n꾀돌이 80장\n꾀돌이도 너무 부주의한 거 아닌가? ‘내부표’를 그렇게 대놓고 찍어두면 누가 믿겠냐고. 게다가 상태도 너무 조악하잖아!\n\n1991년 1월 21일\n가위 제리 240장\n\n시중에 유통되는 가짜 티켓이 점점 많아지고 있어서 관중에게 유통되지 않도록 최선을 다해 압수하고 있다.\n패거리들이 이미 나를 주시하고 있으니 다음부터는 좀 더 조심스럽게 움직이자."
+        }
+      ],
       "link_source": "supplement_episode_id"
     }
   ],
