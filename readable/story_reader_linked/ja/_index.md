@@ -2,7 +2,7 @@
 
 ## [メインストーリー](mainline/_index.md)
 
-- メインストーリー: 13 chapters, 289 episodes
+- メインストーリー: 14 chapters, 295 episodes
 
 ## [イベントストーリー](activity/_index.md)
 
@@ -15,7 +15,3 @@
 ## [エピソード](anecdote/_index.md)
 
 - エピソード: 20 chapters, 140 episodes
-
-## [その他](other/_index.md)
-
-- その他: 1 chapters, 6 episodes

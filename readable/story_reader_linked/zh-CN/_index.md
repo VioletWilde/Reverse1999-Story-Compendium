@@ -2,7 +2,7 @@
 
 ## [主线](mainline/_index.md)
 
-- 主线：13 chapters, 289 episodes
+- 主线：14 chapters, 295 episodes
 
 ## [活动剧情](activity/_index.md)
 
@@ -15,7 +15,3 @@
 ## [轶事](anecdote/_index.md)
 
 - 轶事：20 chapters, 140 episodes
-
-## [其他](other/_index.md)
-
-- 其他：1 chapters, 6 episodes

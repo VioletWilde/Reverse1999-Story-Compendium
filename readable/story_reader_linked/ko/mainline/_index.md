@@ -5,6 +5,7 @@
 - [103 아무것도 아닌 이야기](chapter_103/_index.md) — 16/16 episodes with scripts
 - [104 호랑이들의 황금](chapter_104/_index.md) — 23/23 episodes with scripts
 - [105 동굴 속의 죄수](chapter_105/_index.md) — 21/21 episodes with scripts
+- [310 별 (메인 스토리 5장 SP)](chapter_310/_index.md) — 6/6 episodes with scripts
 - [106 별은 빛나건만](chapter_106/_index.md) — 24/24 episodes with scripts
 - [107 고독의 노래](chapter_107/_index.md) — 31/31 episodes with scripts
 - [108 슬픈 열대](chapter_108/_index.md) — 24/24 episodes with scripts

@@ -1,4 +1,4 @@
-# Others · The Star
+# Main Story · Chapter 5 SP · The Star
 
 - [31001 Lovely Meeting](31001-Lovely Meeting.md) — With a shake of her head, the little white duck finds the goldcrest.
 - [31002 Soaked Science](31002-Soaked Science.md) — After a terribly heavy downpour, it's hard to stay calm.

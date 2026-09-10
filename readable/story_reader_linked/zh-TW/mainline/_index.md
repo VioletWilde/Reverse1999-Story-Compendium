@@ -5,6 +5,7 @@
 - [103 故事一無所有](chapter_103/_index.md) — 16/16 episodes with scripts
 - [104 老虎的金黃](chapter_104/_index.md) — 23/23 episodes with scripts
 - [105 洞穴的囚徒](chapter_105/_index.md) — 21/21 episodes with scripts
+- [310 星（第五章 SP）](chapter_310/_index.md) — 6/6 episodes with scripts
 - [106 今夜星光燦爛](chapter_106/_index.md) — 24/24 episodes with scripts
 - [107 孤獨之歌](chapter_107/_index.md) — 31/31 episodes with scripts
 - [108 憂鬱的熱帶](chapter_108/_index.md) — 24/24 episodes with scripts

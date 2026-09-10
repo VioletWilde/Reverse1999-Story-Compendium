@@ -5,6 +5,7 @@
 - [103 物語は何処にもあらず](chapter_103/_index.md) — 16/16 episodes with scripts
 - [104 群虎黄金](chapter_104/_index.md) — 23/23 episodes with scripts
 - [105 洞窟の囚人](chapter_105/_index.md) — 21/21 episodes with scripts
+- [310 星（第5章SP）](chapter_310/_index.md) — 6/6 episodes with scripts
 - [106 星は光りぬ](chapter_106/_index.md) — 24/24 episodes with scripts
 - [107 孤独の歌](chapter_107/_index.md) — 31/31 episodes with scripts
 - [108 悲しき熱帯](chapter_108/_index.md) — 24/24 episodes with scripts

@@ -5,6 +5,7 @@
 - [103 Nouvelles et Textes pour Rien](chapter_103/_index.md) — 16/16 episodes with scripts
 - [104 El Oro de los Tigres](chapter_104/_index.md) — 23/23 episodes with scripts
 - [105 The Prisoner in the Cave](chapter_105/_index.md) — 21/21 episodes with scripts
+- [310 The Star (Chapter 5 SP)](chapter_310/_index.md) — 6/6 episodes with scripts
 - [106 E lucevan le stelle](chapter_106/_index.md) — 24/24 episodes with scripts
 - [107 Vereinsamt](chapter_107/_index.md) — 31/31 episodes with scripts
 - [108 Tristes Tropiques](chapter_108/_index.md) — 24/24 episodes with scripts
