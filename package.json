@@ -3,10 +3,6 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "build:reader": "node scripts/build_offline_reader.mjs",
-    "build:ebooks": "node scripts/build_ebooks.mjs"
-  },
-  "devDependencies": {
-    "marked": "17.0.5"
+    "build:ebooks": "node scripts/build_chapter_ebooks.mjs"
   }
 }

@@ -12,35 +12,35 @@ const buildDir = path.join(outputDir, '.build');
 
 const editions = [
   {
-    code: 'zh-CN', source: 'story_zh_CN_chapter_edition',
+    code: 'zh-CN', source: 'story_reader_linked/zh-CN',
     title: '《重返未来：1999》剧情文本档案（简体中文）',
     lang: 'zh-CN', mainfont: 'Microsoft YaHei',
     partTitles: { mainline: '主线', activity: '活动', character: '角色剧情', anecdote: '轶事', appendix_unbound: '未绑定旁支附录' },
     tocTitle: '目录'
   },
   {
-    code: 'zh-TW', source: 'story_zh_TW_chapter_edition',
+    code: 'zh-TW', source: 'story_reader_linked/zh-TW',
     title: '《重返未來：1999》劇情文本檔案（繁體中文）',
     lang: 'zh-TW', mainfont: 'Microsoft JhengHei UI',
     partTitles: { mainline: '主線', activity: '活動', character: '角色劇情', anecdote: '軼事', appendix_unbound: '未綁定旁支附錄' },
     tocTitle: '目錄'
   },
   {
-    code: 'en', source: 'story_en_chapter_edition',
+    code: 'en', source: 'story_reader_linked/en',
     title: 'Reverse: 1999 Story Archive (English)',
     lang: 'en', mainfont: 'Georgia',
     partTitles: { mainline: 'Main Story', activity: 'Event Stories', character: 'Character Stories', anecdote: 'Anecdotes', appendix_unbound: 'Unbound Appendix' },
     tocTitle: 'Contents'
   },
   {
-    code: 'ja', source: 'story_ja_chapter_edition',
+    code: 'ja', source: 'story_reader_linked/ja',
     title: '『リバース：1999』ストーリーテキストアーカイブ（日本語）',
     lang: 'ja', mainfont: 'Yu Gothic',
     partTitles: { mainline: 'メインストーリー', activity: 'イベントストーリー', character: 'キャラクターストーリー', anecdote: '逸話', appendix_unbound: '未分類付録' },
     tocTitle: '目次'
   },
   {
-    code: 'ko', source: 'story_ko_chapter_edition',
+    code: 'ko', source: 'story_reader_linked/ko',
     title: '《리버스: 1999》 스토리 텍스트 아카이브(한국어)',
     lang: 'ko', mainfont: 'Malgun Gothic',
     partTitles: { mainline: '메인 스토리', activity: '이벤트 스토리', character: '캐릭터 스토리', anecdote: '일화', appendix_unbound: '미분류 부록' },

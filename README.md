@@ -9,42 +9,30 @@
 
 | 语言 | 阅读入口 |
 | --- | --- |
-| 简体中文 | [进入简体中文剧情目录](readable/story_zh_CN_chapter_edition/README.md) |
-| 繁體中文 | [進入繁體中文劇情目錄](readable/story_zh_TW_chapter_edition/README.md) |
-| English | [Open the English story index](readable/story_en_chapter_edition/README.md) |
-| 日本語 | [日本語ストーリー目次を開く](readable/story_ja_chapter_edition/README.md) |
-| 한국어 | [한국어 스토리 목차 열기](readable/story_ko_chapter_edition/README.md) |
+| 简体中文 | [进入简体中文剧情目录](readable/story_reader_linked/zh-CN/README.md) |
+| 繁體中文 | [進入繁體中文劇情目錄](readable/story_reader_linked/zh-TW/README.md) |
+| English | [Open the English story index](readable/story_reader_linked/en/README.md) |
+| 日本語 | [日本語ストーリー目次を開く](readable/story_reader_linked/ja/README.md) |
+| 한국어 | [한국어 스토리 목차 열기](readable/story_reader_linked/ko/README.md) |
 
-阅读版按“主线、活动、角色剧情、轶事”分类。每篇正文的顶部和底部都有上一篇、返回目录与下一篇链接，手机浏览器也可以直接使用。
-
-## 离线网页阅读包
-
-不熟悉 Markdown 或希望离线阅读时，可以从 [Releases 发布页](https://github.com/VioletWilde/Reverse-1999-story-archive/releases) 下载 `Reverse-1999-Story-Reader.zip`。解压整个 ZIP 后，双击其中的 `开始阅读.html`，即可在浏览器中使用：
-
-- 简体中文、繁體中文、English、日本語、한국어切换
-- 按主线、活动、角色剧情和轶事浏览
-- 按章节名称或编号搜索
-- 上一篇、下一篇和返回目录
-- 浅色与深色阅读模式
-
-网页包不需要安装软件，也不需要联网。维护者可以运行 `scripts/build_offline_reader.ps1` 重新生成最新阅读包。
+阅读版按“主线、活动、角色剧情、轶事”分类，并在对应剧情单元内收录小径文本。每章正文的顶部和底部都有上一章、返回目录与下一章链接，手机浏览器也可以直接使用。
 
 ## 电子书版本（EPUB / PDF）
 
-如果希望在电纸书阅读器、手机阅读应用或打印场景中阅读，可以使用电子书版本。每种语言各有一册 EPUB 与一册 PDF，均按“主线、活动、角色剧情、轶事、未绑定旁支附录”编排，并带有可跳转的目录：
+如果希望在电纸书阅读器、手机阅读应用或打印场景中阅读，可以使用电子书版本：
 
-- **EPUB**：内置导航目录（分类 → 章节 → Part），适合各类阅读器；
-- **PDF**：正文前有带页码的目录，阅读器侧边栏有完整书签大纲，适合电脑阅读或打印。
+- `story_*.epub` 与 `story_*.pdf`：此前生成的五语整合册，作为历史版本保留，不再更新；
+- `by-chapter/`：当前剧情＋小径版本，每章分别提供一份 EPUB 和一份 PDF。可在release发布页获取
 
 鉴于可能存在网络波动，也提供相对应的网盘下载地址：
 [点击下载](https://pan.baidu.com/s/1P14HOX3aTgKdA_smfOwwLg?pwd=kggh)
 
-维护者可以运行 `npm run build:ebooks`（需要 pandoc 与 typst）重新生成，产物位于 `dist/ebooks/`。
+维护者可以运行 `npm run build:ebooks`（需要 pandoc 与 typst）重新生成分章电子书；该命令不会覆盖旧整合册。
 
-## 更新说明（2026/9/9）
-- 增加了所有语言的所有章节的小径文本与索引。
-- 部分错漏进行了调整，目前放在[story_reader_linked](readable/story_reader_linked)中，未添加进主要产物。
-- 增加了部分文本缺失的标题。删去了一些杂项。
+## 更新说明（2026/9/24）
+- 五种语言统一为剧情＋小径章节整合版，每章一份 Markdown 文档。
+- 章节及剧情单元标题采用“编号 · 标题”格式，并加入上一章、目录与下一章导航。
+- 简体中文已补充国服 3.9～4.0 的主线、活动、角色故事和轶事。
 
 ## 收录说明
 
@@ -67,6 +55,6 @@
 <details>
 <summary>给维护者与数据研究者</summary>
 
-阅读版由结构化数据生成。重新生成章节后，可运行 `scripts/update_reading_navigation.ps1` 更新 Markdown 导航，再运行 `scripts/build_offline_reader.ps1` 生成离线网页与 ZIP。运行 `npm run build:ebooks` 可生成 EPUB 与 PDF 电子书（`dist/ebooks/`，依赖 pandoc 和 typst）。
+阅读版由结构化数据生成。重新生成章节后，可运行 `scripts/update_reading_navigation.ps1` 更新 Markdown 导航，再运行 `npm run build:ebooks` 生成分章 EPUB 与 PDF（`dist/ebooks/by-chapter/`，依赖 pandoc 和 typst）。
 
 </details>

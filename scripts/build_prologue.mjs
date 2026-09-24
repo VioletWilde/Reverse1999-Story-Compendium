@@ -32,7 +32,7 @@ const localizedNames = {
 
 const editions = [
   {
-    code: 'zh-CN', langIndex: 0, dir: 'story_zh_CN_chapter_edition',
+    code: 'zh-CN', langIndex: 0, dir: 'story_reader_linked/zh-CN',
     fileName: '000-此即明日.md',
     metaLines: ['- 分类：主线', '- 章节 ID：`000`', '- 剧情单元：`6`'],
     tocHeading: '目录', partTitle: (n, stage) => `Part ${n} · ${localizedNames['zh-CN'].parts[n - 1]}`,
@@ -42,7 +42,7 @@ const editions = [
     choice: (text) => `- 【选项】${text}`
   },
   {
-    code: 'zh-TW', langIndex: 1, dir: 'story_zh_TW_chapter_edition',
+    code: 'zh-TW', langIndex: 1, dir: 'story_reader_linked/zh-TW',
     fileName: '000-此即明日.md',
     metaLines: ['- 分類: 主線', '- 章節 ID: `000`', '- 劇情單元: `6`'],
     tocHeading: '目錄', partTitle: (n, stage) => `Part ${n} · ${localizedNames['zh-TW'].parts[n - 1]}`,
@@ -52,7 +52,7 @@ const editions = [
     choice: (text) => `- **選項:** ${text}`
   },
   {
-    code: 'en', langIndex: 2, dir: 'story_en_chapter_edition',
+    code: 'en', langIndex: 2, dir: 'story_reader_linked/en',
     fileName: '000-This Is Tomorrow.md',
     metaLines: ['- Category: Main Story', '- Chapter ID: `000`', '- Story Units: `6`'],
     tocHeading: 'Contents', partTitle: (n, stage) => `Part ${n} · ${localizedNames['en'].parts[n - 1]}`,
@@ -62,7 +62,7 @@ const editions = [
     choice: (text) => `- **Choice:** ${text}`
   },
   {
-    code: 'ja', langIndex: 4, dir: 'story_ja_chapter_edition',
+    code: 'ja', langIndex: 4, dir: 'story_reader_linked/ja',
     fileName: '000-ディス・イズ・トゥモロー.md',
     metaLines: ['- 分類: メインストーリー', '- 章 ID: `000`', '- ストーリーユニット: `6`'],
     tocHeading: '目次', partTitle: (n, stage) => `Part ${n} · ${localizedNames['ja'].parts[n - 1]}`,
@@ -72,7 +72,7 @@ const editions = [
     choice: (text) => `- **選択肢:** ${text}`
   },
   {
-    code: 'ko', langIndex: 3, dir: 'story_ko_chapter_edition',
+    code: 'ko', langIndex: 3, dir: 'story_reader_linked/ko',
     fileName: '000-다가온 미래.md',
     metaLines: ['- 분류: 메인 스토리', '- 챕터 ID: `000`', '- 스토리 유닛: `6`'],
     tocHeading: '목차', partTitle: (n, stage) => `Part ${n} · ${localizedNames['ko'].parts[n - 1]}`,

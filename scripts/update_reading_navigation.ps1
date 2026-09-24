@@ -2,15 +2,16 @@
 
 $repositoryRoot = Split-Path -Parent $PSScriptRoot
 $readableRoot = Join-Path $repositoryRoot 'readable'
+$editionRoot = Join-Path $readableRoot 'story_reader_linked'
 $startMarker = '<!-- reading-navigation:start -->'
 $endMarker = '<!-- reading-navigation:end -->'
 
 $labels = @{
-    'story_zh_CN_chapter_edition' = @{ Previous = '上一篇'; Index = '返回目录'; Next = '下一篇' }
-    'story_zh_TW_chapter_edition' = @{ Previous = '上一篇'; Index = '返回目錄'; Next = '下一篇' }
-    'story_en_chapter_edition'    = @{ Previous = 'Previous'; Index = 'Story index'; Next = 'Next' }
-    'story_ja_chapter_edition'    = @{ Previous = '前へ'; Index = '目次へ戻る'; Next = '次へ' }
-    'story_ko_chapter_edition'    = @{ Previous = '이전'; Index = '목차로'; Next = '다음' }
+    'zh-CN' = @{ Previous = '上一章'; Index = '返回目录'; Next = '下一章' }
+    'zh-TW' = @{ Previous = '上一章'; Index = '返回目錄'; Next = '下一章' }
+    'en'    = @{ Previous = 'Previous chapter'; Index = 'Story index'; Next = 'Next chapter' }
+    'ja'    = @{ Previous = '前の章'; Index = '目次へ'; Next = '次の章' }
+    'ko'    = @{ Previous = '이전 챕터'; Index = '목차로'; Next = '다음 챕터' }
 }
 
 function Get-DocumentTitle([System.IO.FileInfo]$file) {
@@ -52,7 +53,7 @@ function ConvertTo-EncodedRelativeTarget([string]$target) {
     return $decoded.Replace(' ', '%20') + $fragment
 }
 
-foreach ($edition in Get-ChildItem -LiteralPath $readableRoot -Directory) {
+foreach ($edition in Get-ChildItem -LiteralPath $editionRoot -Directory) {
     if (-not $labels.ContainsKey($edition.Name)) { continue }
     foreach ($category in Get-ChildItem -LiteralPath $edition.FullName -Directory) {
         # All generated reading files begin with a numeric story/chapter ID. Sorting

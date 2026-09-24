@@ -5,8 +5,8 @@
 - 已链接到剧情脚本：605
 - 进入剧情阅读版：605（其余为无脚本地图/教学元件）
 - 有正文的小径已链接：458/458
-- [简中剧情＋小径阅读版](story_reader_linked/zh-CN/_index.md)
-- [英文剧情＋小径阅读版](story_reader_linked/en/_index.md)
+- [简中剧情＋小径阅读版](story_reader_linked/zh-CN/README.md)
+- [英文剧情＋小径阅读版](story_reader_linked/en/README.md)
 
 ## Chapter 101
 
