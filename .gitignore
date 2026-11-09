@@ -1,5 +1,14 @@
 # Generated offline reader packages
 dist/
 
+# Generated exports, documents and QA captures
+exports/
+output/
+tmp/
+web-reader/
+
+# Local audit notes
+analysis/
+
 # Local Node.js dependencies used by the reader builder
 node_modules/

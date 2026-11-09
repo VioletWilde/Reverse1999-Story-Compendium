@@ -1,7 +1,5 @@
-# Reverse: 1999 Story + Trail Reader
+# 《重返未来：1999》简体中文剧情阅读版
 
-- [简体中文](zh-CN/README.md)
-- [繁體中文](zh-TW/README.md)
-- [English](en/README.md)
-- [日本語](ja/README.md)
-- [한국어](ko/README.md)
+[打开简体中文剧情目录](zh-CN/README.md)
+
+当前主线只保留国服简体中文正文。国际服整理完成后，其他语言会按相同剧情 ID 追加到对应目录。
