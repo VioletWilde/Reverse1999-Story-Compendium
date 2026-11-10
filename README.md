@@ -4,6 +4,8 @@
 
 ## 阅读入口
 
+各语言的收录版本和数量见[阅读版总目录](readable/story_reader_linked/README.md)。
+
 | 语言 | 客户端来源 | 章节 |
 | --- | --- | ---: |
 | [简体中文](readable/story_reader_linked/zh-CN/README.md) | 国服 4.1 | 86 |
@@ -22,4 +24,4 @@
 - 本仓库是玩家维护的非官方、非商业剧情文本归档，与游戏开发商、发行商及其他权利人无隶属或合作关系。
 - 《重返未来：1999》的名称、角色、剧情文本及相关游戏内容的权利归其各自权利人所有。
 - 本仓库仅用于资料保存、检索与个人阅览，不主张对游戏原始内容享有权利，也不授权将其用于商业用途。
-- 若发现错字、缺句、标题或章节顺序错误，可以通过 [Issues](https://github.com/VioletWilde/Reverse-1999-story-archive/issues) 反馈。
+- 若发现错字、缺句、标题或章节顺序错误，可以通过 [Issues](https://github.com/VioletWilde/Reverse1999-Story-Compendium/issues) 反馈。

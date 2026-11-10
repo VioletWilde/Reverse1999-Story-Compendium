@@ -1,10 +1,10 @@
-# Reverse: 1999 Story + Trail Chapter Edition
+# Reverse: 1999 Story and Trail Reader
 
-Story and trail text are consolidated into one Markdown document per chapter.
+[Back to all languages](../README.md)
 
-- chapters — 77
-- story units — 993
-- trails — 614
+This edition uses the international 3.9.0 client with the November 10, 2026 update. Each chapter includes story text and its associated Trails.
+
+**77 chapters, 993 story units, and 614 Trails.** Of these, 14 story units contain stage information only, and 128 Trails contain metadata only. [Coverage and validation notes (Chinese)](../../../structured/story_global_3_9/README.md)
 
 ## Main Story (15)
 
@@ -14,7 +14,7 @@ Story and trail text are consolidated into one Markdown document per chapter.
 - [103 · Nouvelles et Textes pour Rien](mainline/103-Nouvelles%20et%20Textes%20pour%20Rien.md) — 16 story units · 21 trails
 - [104 · El Oro de los Tigres](mainline/104-El%20Oro%20de%20los%20Tigres.md) — 23 story units · 21 trails
 - [105 · The Prisoner in the Cave](mainline/105-The%20Prisoner%20in%20the%20Cave.md) — 21 story units · 18 trails
-- [310 · The Star](mainline/310-The%20Star.md) — 6 story units · 1 trails
+- [310 · The Star](mainline/310-The%20Star.md) — 6 story units · 1 trail
 - [106 · E lucevan le stelle](mainline/106-E%20lucevan%20le%20stelle.md) — 24 story units · 22 trails
 - [107 · Vereinsamt](mainline/107-Vereinsamt.md) — 31 story units · 23 trails
 - [108 · Tristes Tropiques](mainline/108-Tristes%20Tropiques.md) — 24 story units · 27 trails
