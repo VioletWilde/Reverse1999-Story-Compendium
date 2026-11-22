@@ -1,7 +1,7 @@
 # 1910 · The Winds of Juhalerat
 
 <!-- reading-navigation:start -->
-[← Previous chapter: To Winnifred](1909-To%20Winnifred.md) · [Story index](../README.md) · [Next chapter: Eagle →](1911-Eagle.md)
+[← Previous chapter: To Winnifred](1909-To%20Winnifred.md) · [Story index](../README.md) · [Next chapter: Finding Xavier →](1911-Eagle.md)
 <!-- reading-navigation:end -->
 
 - Story units：`8`
@@ -2331,5 +2331,5 @@ Inside, Aleksei eagerly awaits his fate, while Zeno eagerly awaits him.
 ---
 
 <!-- reading-navigation:start -->
-[← Previous chapter: To Winnifred](1909-To%20Winnifred.md) · [Story index](../README.md) · [Next chapter: Eagle →](1911-Eagle.md)
+[← Previous chapter: To Winnifred](1909-To%20Winnifred.md) · [Story index](../README.md) · [Next chapter: Finding Xavier →](1911-Eagle.md)
 <!-- reading-navigation:end -->

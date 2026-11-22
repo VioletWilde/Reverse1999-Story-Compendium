@@ -1,7 +1,7 @@
-# 1911 · Eagle
+# 1911 · Finding Xavier
 
 <!-- reading-navigation:start -->
-[← Previous chapter: The Winds of Juhalerat](1910-The%20Winds%20of%20Juhalerat.md) · [Story index](../README.md) · [Next chapter: Semmelweis →](1912-Semmelweis.md)
+[← Previous chapter: The Winds of Juhalerat](1910-The%20Winds%20of%20Juhalerat.md) · [Story index](../README.md) · [Next chapter: The Third Circumstance →](1912-Semmelweis.md)
 <!-- reading-navigation:end -->
 
 - Story units：`8`
@@ -1257,5 +1257,5 @@ Eagle shakes her head disapprovingly.
 ---
 
 <!-- reading-navigation:start -->
-[← Previous chapter: The Winds of Juhalerat](1910-The%20Winds%20of%20Juhalerat.md) · [Story index](../README.md) · [Next chapter: Semmelweis →](1912-Semmelweis.md)
+[← Previous chapter: The Winds of Juhalerat](1910-The%20Winds%20of%20Juhalerat.md) · [Story index](../README.md) · [Next chapter: The Third Circumstance →](1912-Semmelweis.md)
 <!-- reading-navigation:end -->

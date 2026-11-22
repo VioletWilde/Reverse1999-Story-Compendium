@@ -221,6 +221,25 @@ For a moment, the approaching deadline and her still blank pages seem like a fre
 
 - Element：`3410101`
 
+> **Title card：** Any travel guides to Zhu County?
+
+**Reedit · 23:34:05**：Hi everyone! I'll be visiting Zhu County soon. Any recommendations for scenic spots, local snacks, or arcane lore worth checking out? (^_^)
+
+**FragrantRice · 23:49:32**：Welcome to Zhu County!<br>Come check out my dessert stall—it's just north of the custom house.<br>I'll give you a discount!
+
+**feelin_blue · 09:11:31**：That signature—are you from UTTU? Zhu County's moving up in the world! You should check out the ancient city wall. It's remarkably well preserved.
+
+**shqj3744 · 09:46:01**：Speaking of which, don't go to Kangle Pedestrian Street at night. Don't say I didn't warn you.
+
+**when-pigs-fly · 10:10:53**：Or what? You'll stuff yourself till your belly bursts?
+
+**Reedit · 21:19:30**：By the way, does anyone here know wind-related arcane skills? I've been walking around, and the airflow in a lot of places feels ... sluggish.<br>Did anyone else notice this? Is there a story behind it?
+
+**internet_way_too_slow · 10:28:02**：I don't know much about arcane skills, but my family once hired a feng shui consultant when we were looking to buy a storefront on Renmin West Road. He said the Qi nearby was stagnant, and that we'd need a real master to fix it.<br>Would you happen to be a master, OP? Want to come take a look?
+
+**Reedit · 12:32:40**：LOL, thanks! But I don't actually do feng shui readings—I just use related arcane skills for work! (^_^)
+
+**CloudyHermit · 19:57:42**：OP's talking a load of nonsense. Zhu County is a place where wind gathers and Qi pools—one of the best feng shui locations in the whole country!<br>That's why it's thrived since ancient times!
 
 ---
 
@@ -373,10 +392,29 @@ The wind sweeps her up and pulls her toward the voice, then stops and plummets.
 
 - Element：`3410102`
 
+> **Title card：** Worried about this forum's future!
+
+**silent_snowfall · 20:34:59**：Something's been going on with Endless Stream lately, and I need to get this off my chest. I'm an old-timer here—been around since '92, back when the site first launched and you still had to queue up for a dial-up connection. Then in '94, L decided (he wasn't even the admin yet, haha) to upgrade the forum to what it is today. I was so excited I pulled an all-nighter helping him get it done. Now, even though I stepped down as a mod a while back, I still talk a lot with active users like wa, Wanderer, and Cloud, and I stay involved in all kinds of forum business. After a lot of thought, I've finally decided to write this post.<br><br>First, the technical side. Alt accounts have surged lately, especially spammers flooding the board with ads. If this keeps up, it'll put unnecessary strain on the server. On top of that, complaints about stolen accounts keep rolling in. Our Telnet setup is solid at this point, sure, but look overseas—HTTP-based forums are already gaining serious traction. If we just rely on our members' technical skills and don't keep up with the times, we'll be replaced by forums running on newer tech.<br><br>Second, the people. Internet forums today are what the agora was to ancient Greece and what salons and cafés were to 18th-century Paris. The arrival of the internet is sure to open up the world of thought like never before. We've got plenty of people here—we even ran a relay effort during last year's county-wide water outage. But lately, posts about gossip and celebrity drama hit 300 replies like it's nothing. And worse—people are out here pretending to be celebrities. I urge everyone to write quality posts and support the good ones. If we don't, Endless Stream will end up shallow and worthless!
+
+**Small-Mule-8148 · 20:35:44**：Well said!
+
+**silent_snowfall · 23:00:21**：You're just someone's alt, aren't you?
+
+**wa666666 · 04:03:20**：Bumping this. I've watched this forum grow from the start—of course I want to see it keep getting better.
+
 ### Trail · Strange News
 
 - Element：`3410103`
 
+> **Title card：** Please Be Kind to Animals!
+
+**EZ_BreeZ · 17:09:22**：I walked past the stadium today and noticed the woods out back have been fenced off with sheet metal. Someone told me it's a construction site now. I used to pick pinecones there with my classmates when I was a kid. Seeing it like that got me feeling a little sentimental, so I wanted to share a true story from my family.<br><br>My great-grandfather was a traveling merchant when he was young—he only came home for the New Year. One winter, heavy snowfall buried the roads. He couldn't tell which direction was which. By the time he'd eaten through all his rations, he still hadn't found the main road. He figured that was it for him: time to hide his goods in a thicket, then try to find some way to get word to his family. But just then, a chipmunk darted out of the brush, chattered at him a few times, and took off running.<br><br>Something told him to follow it. The chipmunk led him to a tree, hurried up the trunk, and vanished. He looked around and found a huge stash of pine nuts tucked beneath the roots. As soon as he'd gathered them up, another chipmunk appeared and led him to a cache of peanuts. Three chipmunks in all—and thanks to the food they led him to, he held out until the snow stopped. Eventually, a fellow traveler passed by, and my great-grandfather followed him home.<br><br>Now, this was nearly a hundred years ago. I'm definitely not saying people should go raiding a wild animal's winter stockpile. But because of what happened, our family started a tradition: every year after the winter solstice, we grab a handful of nuts, like peanuts, cashews, and almonds, and leave them out for the chipmunks in the nearest patch of woods. No incense, no prayer—just bury the nuts by the roots. I went with my grandfather once as a kid, and I swear I saw a chipmunk watching us from behind a branch.<br><br>Zhu County is booming these days, and new construction is a good thing. But there are way fewer groves and fields than when I was little. Where are the chipmunks, the hedgehogs, and the birds supposed to go? So if you don't mind me saying—if any of you have a chance, scatter a little millet on your balcony, and hang up a birdhouse. It might just help a few small lives. Not every animal is going to "repay the favor," but who knows? You might end up with a wonderful story of your own someday.
+
+**li555555555 · 19:37:03**：All things truly do have spirits. Who knows—maybe the next commenter will be an arcane chipmunk in disguise!
+
+**alvin-simon-and-theo · 19:39:55**：Wait, how did you know?!
+
+**sdfbf · 19:46:27**：Hold on—I actually found a pile of almonds in the woods once. Every single one was perfectly plump. So that's what was going on?!
 
 ---
 
@@ -633,6 +671,13 @@ She thinks of the calendar in her notebook. Over three hundred boxes, two-thirds
 
 - Element：`3410104`
 
+> **Title card：** All Things Qi (4) —20-Year Fengshui Master Shares Authentic Teachings. Easy Practice for Everyone!
+
+**CloudyHermit · 12:34:09**：Last time, we talked about how Qi is the fundamental substance behind all things with form—solid, liquid, or gas. The gathering and dispersal of Qi within matter is what drives the creation and dissolution of physical things. But how does this process actually work? This time, let's dig into how Qi transforms!<br>In fact, Qi is always in flux, just like the seasons—spring gives way to autumn, and the cycle never stops. You've all learned the 24 Solar Terms song in school, right? Each solar term is divided into three pentads, which means the climate shifts 72 times in a single year. Sound like a familiar number? That's exactly how many transformations Sun Wukong can perform!<br>And whether we're talking about Sun Wukong's 72 transformations or the 72 pentads of the year, from the perspective of Qi, they're really the same thing. The Qi that makes up all physical matter is constantly shifting. When the flow of Qi changes, the things it constitutes change with it. The third pentad of Awakening of Insects says, "hawks transform into cuckoos." The second pentad of Pure Brightness says, "field mice transform into quails." The climate shifts, so the animals shift along with it. It's the same principle behind trees budding in spring and bearing fruit in autumn. Nothing mysterious about it!<br>Unfortunately, the arcane energy in the world today is far weaker than it was in ancient times. So phenomena the ancients described, like the great Kun fish transforming into the Peng bird, aren't commonly seen these days. (Though if you're lucky, you might still catch withered grass spawning fireflies.) And lifespans like those of Dachun, the ancient tree, or Pengzu, the legendary elder, are long gone. But the transformations of Qi still act on every living thing. Sun Wukong originally sought out Master Puti to learn the 72 transformations because he sought longevity. If you can learn to regulate the flow of Qi within yourself, you may not be able to shapeshift like the Monkey King, but you can still achieve the goal of a longer, healthier life!<br>How exactly do you regulate your own Qi? Stay tuned for the next post! I'm typing as fast as I can!
+
+**mei-flower-road · 12:35:43**：Great read!
+
+**Rebellious-Orange · 12:50:20**：So based on your last post, sunlight, flames, and even electric currents are all manifestations of Qi. Does that mean if we learn to regulate Qi, we can control electricity and get free internet? LOL
 
 ---
 
@@ -803,6 +848,17 @@ Her thoughts sink first, spreading like roots digging into the earth. Then, a nu
 
 - Element：`3410105`
 
+> **Title card：** [Recruiting] Urgent: Stilted Parade Needs Substitute. Locals Preferred!
+
+**Wangmei_Village_Long · 10:17:49**：Interested in the ritual of banishing evil and praying for a bountiful year?<br>Ever dreamed of turning heads in a gorgeous traditional costume?<br>The Wangmei Village Stilt Team (Zhu County) is urgently looking for two substitutes for our White Horse Warriors! We're also looking for ten gong, drum, and suona players!<br>Requirements: Must know how to walk on stilts. Tall, strong, and presentable. To make sure we're ready to perform at next year's Spring Festival, you'll need to commit to regular rehearsals. Locals preferred. If you're a total beginner or the type who gives up after three days—please don't bother!<br>If you're interested, come find me at the open ground in front of the Wangmei Village shrine. Rain or shine, I'll be there waiting!
+
+**boundless_sky · 10:22:31**：Can I ask where the original White Horse Warriors went ...? I heard they got into a huge fight with the Red Horse performers that day.
+
+**Bonsai-Wholesale-1847 · 15:36:08**：What are you performing as this year?<br>Can I play Bao Sanniang?
+
+**SpringInBloom · 15:57:30**：Walking on stilts I can handle. But I heard you also have to put on armor while on the stilts, and wave command flags on top of that. That's way too hard.
+
+**duck_rabbit_problem · 18:16:05**：Can I come just to see Brother Long in action? ^o^
 
 ---
 
@@ -1521,6 +1577,17 @@ The warm orange light of sunset bathes Zhu County. Against the busy evening traf
 
 - Element：`3410106`
 
+> **Title card：** 4. Bureaucratic System
+
+**Dove-of-Peace · 19:40:48**：4.3.2 Commander<br>A commander was charged with the protection of a single city or fortress. Stationed at the city garrison, he commanded the local constables and answered to the Corps Leader and the Provincial Governor. The commander managed all military affairs within his city, including provisions, pay, and the administration of garrison farmland. Huanzhou frequently encountered trouble from Yaos, so the commander bore an additional duty: Yao disaster mitigation. This meant keeping them from infiltrating the county and stamping out any that caused trouble in the countryside. Working with the local soldiers, the commander investigated Yao-related incidents, arrested those who damaged farmland, and exterminated any violent Yao.
+
+**Dove-of-Peace · 19:58:24**：4.5.1 Constable<br>Patrol Bureaus were typically established in county towns and at key roads and river crossings. They answered to the local magistrate and the commander, and they followed military dispatch orders.<br>The head of a Patrol Bureau was the chief constable, a rank of the lowest ninth grade. The constable led a force of archer-conscripts drawn from local farmers. His primary duties were interrogating travelers, apprehending bandits, and guarding against Yao. The rank of constable was a humble one—most were promoted from minor clerks, as scholars and degree holders considered the post beneath them. Performance reviews were held every three years, with a full evaluation at nine. The standards were harsh, and promotions were rare.
+
+**asdfwow · 22:34:54**：This is exactly what I need for my grad school entrance exam!!! Amazing!!!<br>Thank you sooo much!!!!!!
+
+**Dove-of-Peace · 9:23:54**：You're welcome. Hope these help. Good luck on your exam! :)
+
+**Guest_3276 · 21:34:12**：Impressive work, thanks for putting this together. What about the middle sections though?
 
 ---
 
@@ -1751,3352 +1818,165 @@ Under the cover of night, under the gaze of many hundreds of eyes, a hundredfold
 
 > **Subtitle：** "Things are rarely as they appear at the scene of a crime."
 
-### Segment 1 · `script 200125`
+The candlelight fades and is soon replaced by the steady glow of modern incandescent bulbs.
 
-**Pickles**：Woof ... Woof woof! <Wait, there must be some misunderstandings!>
+Reed touches her head unconsciously, feeling blades of grass brush against her fingertips.
 
-**Pickles**：Woof ... woof! <Calm down, my friends.>
+**Reed**：So, Mayfly was given the Method of Longevity. Just like she wanted.
 
-**Wendy**：Woof woof!
+**Reed**：And that means that Paper Heron was the legendary immortal.
 
-**Pickles**：Woof woof ... woof woof! <Oh, please don't touch my tail ... Glasses either!>
+As if a reminder, another blade of grass tumbles down at her touch.
 
-**Police Dog**：Woof woof woof!
+**Reed**：Hmm ...
 
-**Pickles**：Woof woof … <Well, indeed, victory for puppies ...>
+**Reed**：Well, true or not, I better get this down before I forget any details.
 
-**Pickles**：Woof woof woof. <They are getting more and more excited.>
+She tucks the grass into her pocket and practically leaps toward her paper and pen.
 
-**Pickles**：Woof woof woof woof! <Hey ... Mutual, mutual understanding!>
+**Reed**："The distinctive melodies of Eastern opera, combined with the magical glow of candlelight, brought the atmosphere to its peak. When the immortal moved her fingers, the audience, including those who had doubts about longevity ..."
 
-Pickles's struggling and crying for help are swallowed by the festive realm. The hero puppy is surrounded by the excited crowd.
+**Reed**："... naturally came to believe in this miracle, including Mayfly, a herbaceous Yao whose life was about to end only a few months later."
 
-Together with the Rimet Cup.
+**Reed**："Based on accounts from local residents and my own experience, I feel I can make a bold assumption."
 
-**Charlton**：...
+**Reed**："After the opera was over, Paper Heron, the legendary immortal, taught the Method of Longevity to Mayfly to extend her life. Then, for some reason, she fell into a deep sleep beneath Zhu County."
 
-Charlton wakes up at this very moment. He awkwardly but happily accepts everything.
+The passage of time goes unnoticed as her pen glides from page to page. The sound of scribbling accompanied first by the silence of night, then gentle birdsong, and finally the bustle of a waking city.
 
-**Journalist**：Hello, sir. Are you the owner of this hero puppy?
+**Reed**：*stretch* Another day.
 
-**Charlton**：Not exactly. I'm his friend, best friend.
+One more square in her calendar is crossed out.
 
-**Journalist**：Um ... Would you mind telling us how you raised such a brilliant dog?
+Usually, she would leave a detailed journal of her day, a record for her next iteration. But today, she lets her pen rest.
 
-**Journalist**：I guess people will care about the puppy's daily life after the article's published.
+**Reed**：Maybe I won't need to leave a note for the next "me" this time.
 
-**Charlton**：Well, I often enjoy the symphony with him. Sometimes we'll discuss profound philosophical issues together.
+As the morning progresses, the storekeeper pulls up the shop's rolling shutters.
 
-**Charlton**：Yes. We have quite an extensive collection of books at home, for example, Meditationes de Prima Philosophia, The Republic, Rhetoric to Alexander ...
+Waiting outside, aside from the morning breeze, is a familiar face.
 
-**Pickles**：...
+**Storekeeper**：You're up early today. Did you get enough sleep?
 
-**Journalist**：That's an informative first-hand material.
+**Storekeeper**：Oh, and I was so busy last night, I forgot to give you your change. Hold on. Let me unlock the door first.
 
-**Journalist**：Thanks for your cooperation, Mr. Owner.
+Before she can even finish her words, Reed has returned to her glowing screen.
 
-**Charlton**：It's been a pleasure to be interviewed by you. Pickles, too.
+**Reed**：Sleep, shmeep, my article's almost finished. All I really need is a computer.
 
-**Pickles**：...
+**Reed**：Oh. Sorry, I got a little overexcited. I meant, would it be possible to use one?
 
-**Journalist**：That's beautiful. We may have further and more detailed interviews that need your cooperation. A constant stream of interviews, film shoots, and friendly matches with the England national football team will follow.
+**Storekeeper**：I can see that, haha. Go ahead. You can use that one. You know how to turn it on.
 
-**Journalist**：I'm sure the team would also like to thank the hero who guarded the cup in person.
+Reed takes a deep breath before typing the words she spent the night planning.
 
-**Journalist**：The puppy's heroic act may even be highly appealing to film investors.
+The odd pace of the typing draws the storekeeper's attention.
 
-**Charlton**：Really?!
+**Storekeeper**：Are you trying to put a hole in my mouse, or is the network down?
 
-**Pickles**：Woooof woooof. <Though I've foreseen all of this, it's still hard for me to accept the reality.>
+**Reed**：Huh?
 
-**Pickles**：Woof … <Help ...>
+**Reed**：Oh, no, the network's fine.
 
-People are not able to share happiness or divide sorrow, even if they stand in the same exhibition hall.
+It's only then that she notices that her whole arm has gone numb from the speed of her typing.
 
-On the other side of the hall, someone else is crying.
+**Reed**：Has anyone else come by recently?
 
-**Diggers**：Wandering is my destiny.
+**Storekeeper**：No, you're the only one. But I'll keep a spot open for you. Don't you worry.
 
-**Diggers**：After an unprecedented and unexpected soap bubble surprise party ...
+**Reed**：Oh, thank you!
 
-**Diggers**：None of them left anything improvised about Utopia!
+The frantic typing resumes as soon as their conversation ends.
 
-**Diggers**：Not even one of them mentioning my contribution! All the people ignored a pioneer who created a new era!
+> **Title card：** Central Park, Zhu County
 
-**Diggers**：A monumental event was shamefully compared to a puppy!
+In the daylight, Reed returns to reassess the leafy central park and the bustling construction site nearby.
 
-**Diggers**：...
+The words "Immortal Residence" decorating the impressive billboard gleam down at her in the sunlight.
 
-**Diggers**：Ahh! Art is dead.
+Far beneath it, the half-dead Mei tree that lies in the middle of the park looks dull by comparison.
 
-**???**：That's one of the stories I've come across, readers of UTTU.
+**Property Developer**：Another journalist? I already told the other ones we're not open for interviews.
 
-**???**：It's dramatic—full of misunderstandings, lovely animals, and terrifying intrigues, again providing us with a ludicrous ending.
+It seems she's spent too much time staring as a middle-aged man approaches in a huff.
 
-**???**：I'm glad to have the great honor to share this with you.
+**Property Developer**：I don't care who you write for. Get out of here, will you?
 
-**???**：Wherever you are, whatever you've been ... I hope this story will bring you a moment of joy.
+**Reed**：Oh! No, no, I'm not here for interviews. I'm just having a look around.
 
-**???**：And I am also sincerely looking forward to ... your stories.
+**Reed**：So, someone came around here then? Someone who looked like me?
 
-> **Title card：** THE END
+**Property Developer**：I'm not answering any questions! My building isn't haunted, and that's that!
 
-### Segment 2 · `script 200907`
+**Reed**：Not haunted? You mean ...
 
-> **Title card：** THE END
+Before Reed can ask anything more, a new voice draws away their attention.
 
-### Segment 3 · `script 300908`
+**Employee**：Sir! We've got a problem!
 
-> **Title card：** The Sixth Etiquette
+A young man, breathless from running, cuts her questioning short.
 
-> **Title card：** Sotheby's Dream
+**Property Developer**：What, and you want to hand it over to me?
 
-A cotton swab dipped in iodine is gently pressed against Sotheby's wound.
+**Employee**：It-It's Professor Zhāng. He said he—
 
-**Sotheby**：Ooh, ouch ...
+The property developer pulls his arm, gives a polite nod to Reed, and walks aside.
 
-**???**：Miss, please bear with me for a moment. It'll be over soon.
+Half a minute later, Reed hears shouting.
 
-**Sotheby**：Oh! N-No, I didn't mean it! It doesn't hurt. Keep going.
+**Property Developer**：Would you listen to yourself? What do you mean they were eaten by monsters?
 
-Moonlight streams through the floor-length windows and into the quiet room.
+**Employee**：Professor Zhāng said he found this in an ancient book. Should we just ignore him?
 
-The gentle sound of the piano fills the air.
+**Property Developer**：Damn him and his book! I go and call it the "Immortal Residence," and then it turns out people died here? If this gets out, I'll never sell the place!
 
-**???**：I admit music can distract from and alleviate pain, but even the most moving melody loses its charm when played repeatedly. Miss, perhaps you should try a different piece.
+The developer's voice rises, and Reed catches pieces of their argument on the wind.
 
-**Sotheby**：But I like playing this one.
+**Employee**：He gave us a copy of the book. Said he'd send one to the press unless he receives 100,000 yuan today. Do you want to look at it?
 
-**???**：In that case, you need to learn a new piece. I assure you, you'll enjoy playing something new.
+**Property Developer**：F**k him!
 
-**Sotheby**：Ouch!
+While they argue, Reed slips away toward the entrance of the park.
 
-**???**：I do apologize, Ms. Sotheby. Does the potion sting?
+Full of hope, she looks up at the Mei tree. Its dry branches hold many buds.
 
-**Sotheby**：Mr. Karson ...
+Under the tree, a mule chews on fresh green grass.
 
-**Mr. Karson**：Yes, my lady?
+**Reed**：...?
 
-**Sotheby**：If this tiny wound hurts this much, what does it feel like to die?
+**Reed**：OneWithFlow?
 
-**Mr. Karson**：Hmm. That's a good question, and you asked the right person.
+She calls out to the mule, not entirely convinced by her own conclusion.
 
-**Mr. Karson**：Are you afraid of death?
+**Mule**：Whinny.
 
-**Sotheby**：I-I wasn't afraid before. It was just a nightmare, a darkness or long sleep.
+The mule, startled, turns to flee. Reed immediately takes notice of the familiar pack, one she knows she's seen before.
 
-**Mr. Karson**：And now?
+**Reed**：You traveled with Paper Heron wherever she went!
 
-**Sotheby**：Now ...
+**Reed**：Wait.
 
-**Sotheby**：I'm a little scared.
+A strong wind blows. The rustling leaves drown out the mule's trotting hooves.
 
-**Mr. Karson**：Why?
+A pale page falls a half step before her.
 
-**Sotheby**：Because it'll take my friends away.
+**Reed**：At the time, the sun and moon hung together in the sky. The earth split in two at the gate of the School of Mei, opening a rift miles long that swallowed souls.
 
-**Sotheby**：Like they'll fall asleep and never wake up.
+**Reed**：When the governor had it investigated, they couldn't find a single human dead or alive, only clothes, dead plants, and animals.
 
-**Mr. Karson**：Alright, switch hands.
+**Reed**：Many believed the phenomenon was caused by the earth dragon?
 
-Sotheby extends her other hand, and Mr. Karson gently applies the cotton swab to the wound on it.
+**Reed**：...!!!
 
-**Mr. Karson**：Ultimately, you're afraid of loneliness.
+It's not just the records that surprise her.
 
-**Sotheby**：I'm not afraid of loneliness. Sotheby is not afraid of loneliness.
+Where the page fell, the wind spins in midair, leading her to a precise spot.
 
-**Mr. Karson**：It's quite alright, my lady. No one wants to be lonely.
+Another Wind Knot.
 
-**Mr. Karson**：But loneliness is not a monster; it's not enough to overwhelm a person.
+**Reed**：Only clothes, dead plants, and animals ... The earth dragon ...
 
-**Mr. Karson**：There are many people in this world who have done wrong in their lives, and oftentimes they don't even know why they do it.
-
-**Mr. Karson**：Ultimately, it's because they're afraid of being lonely.
-
-**Mr. Karson**：But the fact is, loneliness isn't that scary.
-
-**Mr. Karson**：Just as all monsters have an Achilles' heel, loneliness has its remedy.
-
-**Sotheby**：What is it?
-
-**Mr. Karson**：I think you may already know the answer, my lady.
-
-He puts down the cotton swab and carefully inspects Sotheby's wounds.
-
-**Mr. Karson**：I'm afraid I have to go now.
-
-**Mr. Karson**：I'll come and see you next time. I'm sure that by then, you'll be an even more trustworthy young lady.
-
-> **Title card：** Sotheby's Room
-
-**Sotheby**：Hmm ... huh ... did I fall asleep ...?
-
-A light knock raps on the door before it creaks open.
-
-**Eagle**：Can I come in?
-
-**Sotheby**：Hmm? Oh, it's you! Of course!
-
-The little Scout slowly shuffles in.
-
-**Eagle**：Ms. Sotheby, how's that potion coming along?
-
-**Sotheby**：Oh! The potion! Yes, it's all finished. They're in these test tubes over here.
-
-Sotheby proudly raises her head as she shows her friend her masterpiece.
-
-**Sotheby**：I already gave Ms. Cristallo a little bit. Once she wakes up, she can drink some more, and it'll work even better!
-
-Eagle stands by the door, wanting to come closer but feeling too timid to do so.
-
-Sotheby strides over to Eagle, takes her hand, and leads her to the experimentation table. She taps the test tubes.
-
-**Sotheby**：Listen. Don't they make a pretty sound?
-
-**Sotheby**："Ding ding dang dong," "boo bop du dop," such bright melodies!
-
-Eagle tentatively reaches out a finger and, like Sotheby, gently taps the test tubes.
-
-They sway like wind chimes, producing a series of crisp sounds.
-
-**Sotheby**：Hehe, do you like it? I love doing this on a quiet night. It's so much fun!
-
-**Eagle**：Yeah, I like it. It's interesting.
-
-She smiles shyly, but behind her eyes, it's clear to see that she has something to say.
-
-Sotheby looks at Eagle, places the test tube aside, and sits back on the bed, swinging her legs.
-
-**Sotheby**：Well, Ms. Eagle, I-I still want to play with her.
-
-**Sotheby**：I want to be with my friends forever and ever.
-
-She lowers her eyes.
-
-**Eagle**：No! No—I ...
-
-She plays with her fingers anxiously, not knowing what to say.
-
-**Eagle**：I, I'm actually here to apologize.
-
-**Sotheby**：...?
-
-**Eagle**：After you left, I kept thinking about what I said to you before.
-
-**Eagle**：I ... you see ... I ...
-
-**Eagle**：I shouldn't have said those things to you—not just about hoping you wouldn't play with her, but, many, many other things, too.
-
-**Eagle**：I don't even know why I said it.
-
-**Eagle**：Maybe it was because I also want to be friends with you, but I don't know how.
-
-Sotheby opens a small tin box that she pulled from the cabinet.
-
-**Sotheby**：Try this.
-
-**Sotheby**：When you described the Pop-a-Rock Rainbow Candy to me before, I thought, wouldn't it be nice if there was a candy that, after eating it, you could see a rainbow?
-
-Sotheby puts one in her mouth as well, and the two of them chew together.
-
-They chew and chew.
-
-And chew and chew some more.
-
-**Sotheby**：They're a bit tough, aren't they?
-
-The two look at each other. Sotheby is wincing, her hand on her aching jaw.
-
-They giggle.
-
-**Eagle**：Hey, I see it. There's a rainbow!
-
-Eagle points to the ceiling.
-
-There's nothing there.
-
-**Sotheby**：One, two, three ... seven, just like Heimdall said, seven colors!
-
-The two of them tilt their heads back, grinning at the empty ceiling.
-
-**Eagle**：Look! It's Typhon!
-
-**Eagle**：He's walking on the rainbow bridge. Hey! Where's he going?
-
-**Eagle**：Someone's stopping him. Who is that?
-
-**Sotheby**：That's Heimdall, the great hero who guards the rainbow bridge. He's giving Typhon directions!
-
-**Eagle**：Where's Typhon going?
-
-**Sotheby**：He's going to battle with Jupiter and his army!
-
-**Eagle**：Who's Jupiter?
-
-**Sotheby**：Oh, he's a really bad man. His minions are always giving Typhon trouble. They've even come to bother me, but I managed to drive them off!
-
-**Eagle**：Wow—that's amazing!
-
-**Eagle**：I hereby present you, Lady Sotheby, Captain of Typhon's army and leader in the victorious battle against Jupiter's army, with this first-class medal of honor.
-
-The little Scout wobbles as she sits up, unpins the badge from her chest, and solemnly pins it to Sotheby's dress.
-
-**Sotheby**：It is my honor, Commander!
-
-Sotheby wobbles as she sits up and gives Eagle a less-than-perfect salute.
-
-Eagle adjusts Sotheby's hand to the correct salute position, then lies back down.
-
-**Eagle**：Hehe! Hahaha!
-
-**Sotheby**：Hahaha!
-
-The two laugh together.
-
-The night is still long.
-
-The Lady's Code of Conduct: Revised Edition<br>Chapter 6 ...
-
-> **Title card：** The Hall in the Suitcase
-
-**Sonetto**：The results of Cristallo's examination are in. A coagulation dysfunction caused temporary asphyxiation, which led to her fainting. No plant toxins have been found in her body.
-
-**Vertin**：So the popcorn wasn't toxic after all.
-
-**Vertin**：We shouldn't have worried so much. She meticulously measured the herbal ingredients, ensuring they would cause no harm to humans.
-
-**Vertin**：If there is any effect at all, it's probably just a slight, pleasant hallucination.
-
-**Vertin**：There's no denying that she's skilled in managing toxins.
-
-**Sonetto**：Dale cow tongue isn't a part of a fictional creature, but an arcane herb known as "dyed pearl grass." It's used in basic potions for healing and good luck.
-
-**Sonetto**：The hoof of the four-legged beast is just a horse's hoof, and Jamaican pepper is also known as "allspice."
-
-**Sonetto**：Finally, an Immortal Flower is actually a naturally growing arcane plant called "thousand-spike crop." It's used in some unusual rituals.
-
-**Vertin**：She has her own understanding of things, but that doesn't mean the things she mentions don't exist.
-
-**Sonetto**：Although it won't cure Cristallo's condition, the potion will make her much more comfortable, and she won't faint anymore.
-
-As they speak, a little head peeks out from the wall.
-
-**Eagle**：Psst—Ms. Vertin, Ms. Sonetto, come over here.
-
-The little Scout presses her finger to her lips.
-
-With deliberately lowered voices, the children seem to be preparing something—either a prank or a surprise.
-
-**Sonetto**：What's the matter, Eagle?
-
-A large feathered hat also peeks out from the wall. Their two little heads are stacked one on top of the other. They both frown, their eyes bright and their expressions serious.
-
-**Sotheby**：Shh! Come here—and turn the lights off.
-
-**Sotheby**：Walk softly, hurry up!
-
-It feels like she had been in the dark for an eternity.
-
-As consciousness returns to her body, the pale girl slowly sits up, her hand on her forehead.
-
-The emptiness of the room makes her shudder. Before she slept, she was in the middle of the chaos, but now that she's woken up, she's alone again.
-
-**Cristallo**：Uh ...
-
-**Cristallo**：Where am I?
-
-**Cristallo**：...
-
-**Cristallo**：Oh, this is my room.
-
-**Cristallo**：I'm in my room.
-
-**Cristallo**：It's so quiet. Nothing like my dream.
-
-**Cristallo**：*shiver* It's a bit cold. Is the window open?
-
-**Cristallo**：Did someone come in?
-
-**Cristallo**：Sotheby, that's right. I remember now.
-
-**Cristallo**：She was talking to me, but I couldn't hear her. Then, I can't remember a thing.
-
-**Cristallo**：Hah.
-
-**Cristallo**：Seems like I fainted again.
-
-She lowers her head and sighs softly.
-
-**Cristallo**：It's so quiet.
-
-**Cristallo**：At night, when everyone else is asleep, I'm awake.
-
-**Cristallo**：And when everyone else is awake, I'm asleep.
-
-**Cristallo**：Hmm, maybe I scared her. Should I apologize?
-
-**Cristallo**："Sorry, I didn't hear what you said," "Sorry for suddenly fainting" ...?
-
-**Cristallo**：It's not like I haven't tried that before. Apologies don't work.
-
-**Cristallo**：Everyone leaves eventually, and I'll be alone once again.
-
-**Cristallo**：You scared her. She won't want to spend time with you anymore.
-
-...
-
-She sits in familiar silence.
-
-**Cristallo**：Alright, now let me see if I can close this window.
-
-**Cristallo**：*huff, huff* ...
-
-She struggles to prop herself up. As she turns, looking down at her feet dangling off the end of the bed, she notices something.
-
-A small black creature has popped its head out from under the bed.
-
-**Cristallo**：Ah! What is that?!
-
-It climbs onto the bed, an apologetic look on its face. It grabs her hand in a nervous attempt to comfort her.
-
-**Cristallo**：Who are ...?
-
-**Cristallo**：Are you Typhon?
-
-The little black creature nods excitedly, points to the window, and hops over to close it.
-
-**Cristallo**：Thank you, Typhon. Did Sotheby send you?
-
-Typhon nods.
-
-**Cristallo**：Where is she? Does she not want to see me?
-
-Typhon shakes its head frantically.
-
-It points outside the room.
-
-**Cristallo**：Is she out there?
-
-Typhon doesn't reply. It jumps down from the windowsill and hurries back to Cristallo's bedside, nearly stepping on its own tail on the way.
-
-Taking a deep breath, Typhon begins to grow larger.
-
-**Cristallo**：What are you doing? Hey!
-
-It doesn't respond, only growing larger and larger.
-
-Soon, it is so large that its inflated body starts to push Cristallo's bed toward the door.
-
-**Cristallo**：Where are you taking me?
-
-**Cristallo**：Typhon?
-
-**Cristallo**：I-I've never left my room! Just give me a moment to prepare!
-
-**Cristallo**：Hey! Typhon, don't scare me! Everyone's asleep! We shouldn't disturb ...
-
-**Cristallo**：Don't!
-
-The little black creature continues to manically push Cristallo's bed all the way down the hallway. She has to cling to its sides to balance herself.
-
-The door bursts open.
-
-There is a flash of white light, followed by a sudden, brief dizziness.
-
-Then, above her head, comes the continuous sound of popping. They're not loud, like an explosion, but gentle and fragrant, like a flower bursting open.
-
-*pop* *pop* *pop* The air is quickly filled with a sweet aroma.
-
-**Sotheby**：Ms. Cristallo!
-
-**Everyone**：Cristallo!
-
-The pale girl opens her eyes.
-
-**Twins Sleep**：Ms. Cristallo! Come and try some! Come and try some!
-
-**Cristallo**：Th-This is ...?
-
-**Sotheby**：Popping Candy Popcorn!
-
-**Sotheby**：I made it with real corn this time!
-
-**Cristallo**：Corn?! Did you find a cornfield?
-
-**Vertin**：Sotheby got some corn seeds from outside the suitcase, so we allocated a piece of land in the Wilderness to grow them on.
-
-**Vertin**：We used a growth potion to hasten the growing process.
-
-**Sotheby**：You should also thank Ms. Eagle! She came up with the brilliant idea of adding pepper candy to the popcorn—it's even more delicious now!
-
-**Eagle**：Pfft ... *cough* *cough* *cough*
-
-The little Scout blushes as she offers Cristallo a handshake.
-
-Cristallo smiles and takes her hand.
-
-Their hands shake firmly.
-
-**Sotheby**：Experiment number fifty-three is successful!
-
-**Sotheby**：You can draw a smiley face on the sticky note now, Ms. Cristallo!
-
-The popcorn is falling like flower petals.
-
-**Twins Sleep**：Lisa has grabbed a lot! Louise has grabbed a lot!
-
-**Ms. Moissan**：The blue ones taste like a stream.
-
-**Eagle**：The pink ones are the best! They're like flowers! Wait, no—the green ones are my favorite!
-
-**APPLe**：This APPLe prefers the red ones. They conjure up the image of parchment and a crackling fire, something you'd want to revisit on a winter night with the thrilling works of Christopher Marlowe.
-
-**Sonetto**：Timekeeper, may I ...?
-
-**Vertin**：Hmm. Try this one. You'll love it.
-
-**Sonetto**：...!
-
-**Eagle**：This snack is like nothing I've ever tasted! You can definitely tell it wasn't made in any ordinary factory!
-
-**Sotheby**：Really?! That's great!
-
-Sotheby, a sparkle in her eyes, raises her head and shouts with joy.
-
-**Sotheby**：Sotheby is so, so happy!
-
-The feathers on her hat bob happily as she makes her way around the group.
-
-**Sotheby**：Ms. Cristallo, you simply must try this!
-
-She hands over a piece of golden popcorn.
-
-Cristallo takes it and puts it in her mouth.
-
-**Cristallo**：Hmm, this is popcorn.
-
-**Sotheby**：Yes, this is popcorn.
-
-**Cristallo**：Popping Candy Popcorn.
-
-**Sotheby**：Yes, Popping Candy Popcorn.
-
-**Cristallo**：It's sweet.
-
-**Sotheby**：Yes.
-
-**Cristallo**：It's sweet.
-
-**APPLe**：Well, well, it seems our story has come to an end. But this is just one of many stories of our little lady making new friends.
-
-**APPLe**：It seems that she is becoming a true lady, isn't she?
-
-**APPLe**：Yes. A very, very good lady indeed.
-
-> **Title card：** THE END
-
-### Segment 4 · `script 303006`
-
-> **Title card：** Coins, Balloons, and Ribbons
-
-ONiON's show isn't quite over yet.
-
-Thankfully, the water level hasn't risen for quite some time.
-
-**X**：Hold on, everyone! We're almost there!
-
-A small boat bears its passengers gently toward the heart of the lake.
-
-**Sotheby**：Mr. X, your X-301 seems to be sinking by the second.
-
-**X**：Don't worry, Ms. Sotheby. This vessel is equipped with special sponges capable of absorbing an unusually high volume of water. By the time we've sunk to the bottom, this thing should've already absorbed at least 85% of the spring water.
-
-**X**：That'll be enough to ensure we don't drown.
-
-**Oliver Fog**：...
-
-**Oliver Fog**：I hope this doesn't take too long—there's only an hour and fifteen minutes left of the workday.
-
-**X**：Fingers crossed!
-
-As the boat continues to drift, the vast waves can no longer conceal a certain petite figure.
-
-Two other figures emerge.
-
-The two figures from the start of ONiON's tale.
-
-**La Source**：...!
-
-**Balloon Party**：I kept thinking about the party—thinking and thinking—but I kept thinking that my thinking was wrong. Like something was missing.
-
-**Balloon Party**：Now I know what it was! We need water! A big water wave for the party! And you're the best water wave maker I've ever seen! The very best!
-
-She takes La Source's hand, earnestly passing her a balloon.
-
-**La Source**：M-Me? I'm the best?
-
-**Balloon Party**：Would you like to help us throw a perfect party? I mean, we need more candy and streamers, and balloons, of course!
-
-**Balloon Party**：Oh, and more waves! Big ones!
-
-**Baby Blue**：We could make that "dragon" a little smaller so he can wear a garland!
-
-**La Source**：You ... you'd like me to join you?
-
-**Sotheby**：Ms. La Source!
-
-The sponge boat has finally reached its destination.
-
-The lake water has already reduced significantly.
-
-A crowd gathers around La Source. For her, this is quite an unusual honor.
-
-**La Source**：Ah! Are you here to make a wish?
-
-**Oliver Fog**：Actually, we've come to—
-
-He presents his meticulously drafted letter of protest.
-
-La Source doesn't even glance at it. She just shakes her head solemnly.
-
-**La Source**：Sorry, I don't have time to help you now!
-
-**La Source**：I've accepted an invitation from Baby Blue and Balloon Party! We're going to have the most spectacular, grandest party ever—with big water waves, too!
-
-The group looks on in surprise.
-
-**La Source**：Of course, if you'd like to join ...
-
-She starts to think again.
-
-**La Source**：Hmm, it's not really asking for something for nothing, so I can agree to that.
-
-X chuckles.
-
-**X**：So, you're saying that you have to pull all the spring water you used for wishes back into your pot in order to have your party?
-
-**La Source**：Exactly! You didn't think you'd get something for nothing forever, did you?!
-
-She clings to the pot, eyeing X warily.
-
-**Sotheby**：Ooh-ooh! I'd like to come, please!
-
-**Balloon Party**：Certainly, Ms. Sotheby.
-
-They dash off together, four bouncing balloons following in their wake.
-
-Obviously, they have more important things to attend to.
-
-The rest stand there, stunned.
-
-**X**：Well, I suppose that's that.
-
-**Oliver Fog**：Looks like I'll be able to clock out on time.
-
-**Oliver Fog**：But I have to say, we really must set up emergency plans and compensation for work stoppages in case something like this happens again.
-
-He opens his umbrella as he works to clear away the mist. Meanwhile, ONiON starts recording again.
-
-**X**：It seems you've got yourself some exciting new material, Ms. ONiON. Congratulations.
-
-He nods and makes his way.
-
-**ONiON**：Absolutely!
-
-**ONiON**：I'm planning to showcase another fantastic episode with an in-depth interview and analysis of the central figure! Well, the footage is ready. It just needs some final touches.
-
-**ONiON**：This'll be one for the ages!
-
-She excitedly fiddles with the camera equipment beside her, oblivious to the fact that X is long gone.
-
-The old video player rewinds slowly.
-
-*click*
-
-**ONiON**：Ladies and gentlemen. Brace yourselves, for you are about to witness—
-
-**ONiON**：The "Getting to Know You" episode of our Spring Elfin Special!
-
-**ONiON**：This segment's material was captured purely by accident. Nevertheless, I've decided to use it to conclude our story.
-
-**ONiON**：But trust me, this wasn't just a spur-of-the-moment decision—oop!
-
-**ONiON**：Shh, let's keep our voices down.
-
-Not far from the lakeside, Balloon Party, Baby Blue, and ONiON sit on the ground.
-
-The camera, its red light flashing, tilts toward the grass, revealing a figure hidden within.
-
-The child clutching the pot is repeating the same gesture.
-
-**La Source**：I-I am the Spring Elfin, La Source!
-
-**La Source**：Delighted to m-meet you!
-
-**La Source**：Trust me, I can fulfill your wishes! Lots and lots of wishes!
-
-**La Source**：If you're willing to be friends with me.
-
-*click*
-
-The last of the mist is drawn into Oliver Fog's umbrella, and he closes it up with a flourish.
-
-*click*
-
-A renewed calm is brought to the suitcase.
-
-**Oliver Fog**：*sigh* An elfin's mood is more unpredictable than the policies of the London authorities.
-
-**Oliver Fog**：And wasn't I just as naive as any common voter when I made my wish to her?
-
-**Oliver Fog**：I suppose, in the end, we can only depend on ourselves and the friends we hold dear.
-
-He shakes his head in resignation.
-
-**ONiON**：Ah, Mr. Fog, I'm glad you're still here. I'm cooking up a new exclusive interview, and I'd love to have you take part!
-
-**Oliver Fog**：I'm off duty.
-
-And just like that, the flood is dealt with.
-
-**John Titor**：...
-
-John Titor has yet to grasp the trouble that her wish put everyone through.
-
-She simply puts on her earmuffs and retreats into a world of hexadecimal codes.
-
-Perhaps it's best she stays this way—at least until the greatest party ever conceived has been put on.
-
-> **Title card：** THE END
-
-### Segment 5 · `script 306209`
-
-> **Title card：** Interview of the "New Humans"
-
-**Iverson**：... No doubt. This is a failure. A complete humiliation!
-
-**Iverson**：The shameless thief stole the exhibit, and sent it back in a package, as if our security was invisible!
-
-**Iverson**：But this is not a failure of Guidance on Security ... but a failure of us, of our security officers.
-
-**Iverson**：Guidance on Security gives us perfect strategies, but the securiy officers were sleepy and negligent ...
-
-**Iverson**：When the London Police entered the exhibition hall, they were all sound asleep!
-
-**Iverson**：New Humans shall not allow this to happen again!
-
-**Iverson**：We promise that human security officer is to be phased out from today, and something more rational, more efficient, and more rigorous is to be introduced—security robots!
-
-**Iverson**：Over the next three to five years, we are devoted to developing new types, so that human security officers are completely replaced.
-
-**Iverson**：We will lead by example and transform the security industry into a future-oriented, science-based, civilised and rational industry!
-
-Melania puts down the magazine, astonished.
-
-**Melania**：There are flaws in the Guidance, and their response was to fire everyone?
-
-**Melania**：Seems Mr. Iverson has completely ignored the Guidance on Security with comments enclosed in my letter ... I pulled two all-nighters for this!
-
-**Ms. Acey**：I've warned you. You should finish Prof. Claire's essay first.
-
-**Melania**：And there's not even a word about Ramirez retrieving the Mainedonty.<br>A lot of journalists were there to interview me ...
-
-**Fiennes**：Iverson has way better connections than ours, after all.
-
-**Fiennes**：A Ramirez retriving collection's report, at this time? The New Humans are suffering, they won't let it be reported.
-
-Melania stands up, alerted.
-
-**Melania**：Fiennes ... No. Mr. Sean the Great Thief.
-
-**Fiennes**：Call me Fiennes like the old days.<br>I am nothing special.
-
-**Melania**：You're being modest.
-
-**Melania**：You are the only international thief of the 20th century who has stolen in London and Paris at the same time.
-
-Her voice sounds cold as the winter Thames.<br>Obviously, there is no way this conversation can be that kind of awkward small talk they used to have.
-
-**Fiennes**：In my defence, I have never committed such a shocking crime.
-
-**Fiennes**：Just two guards lost the exhibits on the same day, and they used me as an excuse.
-
-**Melania**：... What?
-
-She frowns. It's not easy to tell if it's just another lie of "Sean".
-
-**Fiennes**：Use your brain, Melania. How would this ever make sense?
-
-**Fiennes**：If my arcane skill is that marvellous, why am I still just a thief?
-
-**Fiennes**：Some security guards make up those stories of international thieves to cover their malpractice.
-
-**Fiennes**：Their imagination can evenly match those of thieves in order not to lose their jobs.
-
-**Melania**：...
-
-Noticing her being nervous, the Great Thief gives her a smile.
-
-**Fiennes**：Relax. Well, to be fair, the Mainedonty you have stolen is also a counterfeit.
-
-This is not something she can let go of.
-
-Her jaw drops, but maybe too late.
-
-**Melania**：Wh-What?
-
-**Fiennes**：My arcane skill is to touch something and make a copy of it. Like what you just heard, it only works on one object once.
-
-**Fiennes**：I had copied countless fake antiques with my arcane skill, but at the same time, they would have my arcane mark.
-
-**Fiennes**：As their price gets higher and higher, I'm afraid someone will find out that they're all counterfeits. So I decided to steal my copies.
-
-**Fiennes**：Nothing could stop me back to the days I was in the auctions, exhibitions and museums. I quite enjoyed being unstoppable.
-
-**Fiennes**：Until your father showed up—My plans fell flat in front of him.
-
-**Melania**：...
-
-**Fiennes**：I thought and thought but still couldn't figure out how he predicted my plan.
-
-**Fiennes**：So I applied for Ramirez Security, but only to find that ... your father had no plan, no plan at all!
-
-**Fiennes**：I was the one with a plan in the whole little company!
-
-He lets out a long sigh, a sigh for mourning the time he wasted on his former rival.
-
-**Fiennes**：I worked as a security officer for 5 years with full passion.
-
-**Fiennes**：During that time, I formed an ultimate larceny plan, with all I had learnt from Ramirez.<br>This was going to be a great thievery that even your father couldn't stop.
-
-**Fiennes**：But before I can perform this plan, your father committed suicide. I was disappointed, and upset.
-
-**Fiennes**：However, I do know that he considered you as his successor ...
-
-**Melania**：... So, is that a revenge?
-
-**Melania**：You asked me to take over the company, and then you stole the exhibits from me, putting an end to Ramirez that almost closed down.
-
-Fiennes opens his mouth as if trying to defend himself.<br>But before he can say anything, Melania has already grabbed her notebook from the shoulder bag and turned to a certain page.
-
-**Melania**：Now it makes sense...!
-
-**Melania**：I didn't figure out how you stole the Mainedonty before ...<br>I thought I had an unconscious bias as the question was set by myself, until I heard about your arcane skill!
-
-**Melania**：You made a copy of Ms. Acey that night, right?<br>You copied my arcane skill! Then you swapped the exhibit like I did!
-
-**Fiennes**：Yes. I trade the Mainedonty with an ice cube in my coffee. After it melts, there was no trace of exchange.
-
-**Fiennes**：Usually, I can't imitate other arcanist's incantation. But I've worked hard for five years, and the effort paid off—I learnt how to do it once.
-
-**Fiennes**：I ought to thank you for that too, Melania, for demonstrating it in front of me.
-
-**Melania**：Oh my ... the answer is so simple!
-
-She drops into a chair, supporting her forehead with one hand.
-
-**Melania**：So you must have read my plan for The Football Match in the office.<br>I wrote it all down, and arranged the references alphabetically. Right there on the table!
-
-**Melania**：But you still came to the roof. I don't understand ...
-
-He shakes his head, interrupts the young girl's speech with a bitter smile on his face.
-
-**Fiennes**：You're like your father, Melania.
-
-**Melania**：Me ... Like him? That's not possible.
-
-**Fiennes**：He always said that the job of a security officer is to ensure the safety of the client's property. Nothing matters except that. His world is nothing but the challenge of attack and defence.
-
-**Fiennes**：You, however, after knowing the inside story of the security field and antique trade, you still focus on your "test questions."
-
-**Melania**：No. I'm just used to answering questions ...
-
-**Fiennes**：Most importantly, you all see this as a self-challange.
-
-Fiennes is caught up in his memory.
-
-**Fiennes**：Your father was a real artist. Everything became dull after he died.
-
-**Fiennes**：I have to say, at first it was an act of revenge on Ramirez ... but I changed my mind.
-
-**Fiennes**：Melania, you are smart, inquisitive and detail-oriented. You will not miss any chance.<br>These are valuable qualities, and that's why I went to the patio and met you.
-
-**Fiennes**：Would you fancy being a thief?
-
-**Melania**：Ah...?!
-
-**Fiennes**：You are talented.
-
-**Melania**：Mr. Fiennes, I have no interest in illegally possessing others' belongings!
-
-Melania blushes. Apparently, an offer of crime is not something she had ever expected.
-
-Fiennes shrugs. Apparently, this offer is just impromptu.
-
-**Fiennes**：Well, keep leading Ramirez is not a bad choice. You are an elite planner.
-
-**Melania**：... No. I'm neither a good question maker nor a business leader.
-
-**Fiennes**：Thinking from the aspect of a thief is not a common way.
-
-**Fiennes**：Your father always said, "respect your opponent, and they'll respect you." For that alone, he trumped countless Iversons.
-
-**Melania**：... But it's unfair.
-
-**Melania**：Father respected his opponents but was seen as an accomplice.<br>Both Ramirez and New Humans had lost their exhibits before. When we were seen as a humiliation to the industry, and Father was driven to commit suicide ... What for New Humans?
-
-**Melania**：No one ever pointed out the flaws in Guidance on Security ...! Everyone was convinced of his statements. They were drawn to the bumbling robots, while as security officer an ambulance would have been better.
-
-**Fiennes**：People are short-sighted, that's not new. They can only see the result.
-
-**Fiennes**：It doesn't matter whether Guidance on Security is flawless or not. It matters whether people believe it is.<br>If so, even when something goes wrong, Iverson can blame those idiots instead of the Guidance.
-
-**Melania**：But it's not the truth!
-
-**Fiennes**：It's the truth in people's eyes.
-
-**Fiennes**：They are the ones manipulating public opinions.<br>One success cannot save the credibility of Ramirez. One theft cannot shake the position of the New Humans.
-
-Once again, she grabs the handle of the bag tighter.
-
-**Melania**：Then I'll prove it to them ...!
-
-**Melania**：I'll point out the flaws in Guidance on Security, and I will show the flaws to everyone ... in the same way I did this time!
-
-**Melania**：If it happens only once, it may be ignored. But what if it happens twice, three times, and ten?
-
-**Melania**：No security style is better or worse than another, but truth and justice must be manifested. <br>The Guidance on Security is not the principles written once and for all ... I must bring it to light ...!
-
-This is an answer beyond Fiennes's imagination.
-
-**Fiennes**：Is that your choice?
-
-**Fiennes**：Then what would you be? The one who keeps writing the legend of Ramirez, or the one who rewrites it?
-
-**Melania**：No, Mr Fiennes ...
-
-**Melania**：I'm just a student.
-
-The Great Thief looks into the young student's eyes.
-
-The bell at the bar ends this silent competition.
-
-**Fiennes**：Unfortunately, it's time for me to head to the wharf.<br>By the way, I used your arcane skill to switch your recording tape. Don't even think about catching me, Melania.
-
-Melania opens her bag in a hurry ....
-
-And sadly finds that he is not lying. She immediately drops her shoulder.
-
-**Melania**：That's not fair, Mr. Sean. I bought it with my scholarship...
-
-**Fiennes**：You turned down my offer, so don't expect me to teach you any lessons.
-
-**Fiennes**：One last thing.
-
-**Fiennes**：Arcanists will leave an arcane mark on their works. Proud as your father was, he has no reason not to.
-
-**Fiennes**：I have nothing to do with the Rimet Cup case, but I suggest you not underestimate the "imagination of a security officer."
-
-She hops up, shocked.
-
-**Melania**：Wait. Are you suggesting that there's something else about my Father's case?
-
-**Fiennes**：I just want to see the legend continue.
-
-**Fiennes**：It should be tired as your father's daughter, am I right, Melania?
-
-He waved at her elegantly. The next second, he disappeared into the crowd.
-
-Sean the Great Thief has completed his revenge.
-
-**Ms. Acey**：He is strange.
-
-**Melania**：Yes. But free ...
-
-Melania takes a deep breath.
-
-**Melania**：Ms. Acey, I know what to do.
-
-**Melania**：I can't be like Father or Sean ... and I don't need to.<br>But I can try to understand them.
-
-**Melania**：One day, I will be back and set my own questions. But before that, I need practice, practice, and practice. <br>Until the day when I figure out everything.
-
-**Melania**：Could you help me?
-
-The shoulder bag gives her student a playful nibble.
-
-**Ms. Acey**：Anytime, Melania.
-
-Weeks later, Ramirez Security Company announces its dissolution.
-
-Meanwhile, an advance notice signed "The Great Thief Acey" was sent to many famous newpapers.
-
-Dear editorial board of Guidance on Security:
-
-Congratulations on the publication.
-
-In the past five years, you've been travelling together with us in the world of imagination.
-
-And now, you are trying to use a guide full of flaws to solve all problems once and for all.
-
-Security, however, shall be art. It requires courage, prudence, creativity and infinite passion.
-
-You respect us no more, so we will respond in the same way.
-
-5 p.m., Sunday, I shall arrive and claim the Light Cross in Naval Museum.
-
-Good luck setting up a perfect security arrangement according to the Guidance.
-
-Sincerely, <br>The Great Thief Acey
-
-**Melania**：Ms. Acey, if Father knew what I was going to do, would he still be proud of me?
-
-**Ms. Acey**：I think he would say, "Ace!"
-
-**Melania**：I bet he would.
-
-The young thief shoots the hook gun and jumps towards the building.
-
-In the exhibition hall full of miracles and legacies, countless shiny "test questions" await her challenge.
-
-> **Title card：** THE END
-
-### Segment 6 · `script 306308`
-
-> **Title card：** Party Transfer Ceremony
-
-**Pickles**：*special thinking noise* <No entry.>
-
-**Pickles**：*special thinking noise* <And the smell ... this is it.>
-
-**Pickles**：*special thinking noise*
-
-Creak—
-
-> **Title card：** Mechanical Room
-
-**Diggers**：Hm ...
-
-**Diggers**：Didn't have ... Sandwich ...
-
-**Pickles**：Woof, woof! <Unbelievable, he is still conscious!>
-
-**Pickles**：Woof. <Your curious constitution must have assisted your luck.>
-
-**Pickles**：Woof, woof. <Wake up, Mr. Bubbleman.>
-
-The dog pulls his kerchief.
-
-**Diggers**：Hm ...
-
-**Pickles**：Woof. <Physical stimulation doesn't seem to be effective.>
-
-**Pickles**：Woof. <You might need some moist stimuli.>
-
-**Pickles**：Hmm …
-
-**Pickles**：Woof, woo. <But I don't like the smell on you. It is too complex and overwhelming.>
-
-**Diggers**：Oh ... um ...
-
-**Diggers**：Is it the good rain of art ...?
-
-**Diggers**：...
-
-**Diggers**：But why does art smell like saliva?
-
-**Pickles**：Woof, woof. <Great, your eyes are open.>
-
-Diggers puts in a great effort to focus on the ceiling.
-
-**Diggers**：Oh the headache ... Where am I?
-
-**Diggers**：Inside the door of a new world?
-
-**Pickles**：Woof, woof. <I'm afraid not, you are inside the gate of the mechanical room.>
-
-**Pickles**：Woof ... <That violent knock on your head earlier probably has done some damage to your brain ...>
-
-**"Doggie"**：The puppy is worried about you.
-
-**Diggers**：Hm?
-
-**Diggers**：Hey! It's my comrade!
-
-**Diggers**：You are safe and sound!
-
-**Diggers**：Aha!!
-
-**Diggers**：Your safety has drawn the successful end of this great action led by this pioneer of the era!
-
-**Pickles**：Woof, woof. <You are such an optimistic person, this is great.>
-
-**Pickles**：Woof. <It should help your following actions.>
-
-**"Doggie"**：The puppy invites you.
-
-**Diggers**：Huh? Invite me?
-
-**Pickles**：Woof. <Apparently, the host hopes to bring something different to the audience.>
-
-**Pickles**：Woof. <Look what I found in the hallway.>
-
-**Diggers**：Oh ... A party ... about you?
-
-**Diggers**：HEY! It's not fair!! I was the enlightener, but I had never been invited to give a speech!!
-
-**Diggers**：People—they'd rather listen to a hound's barking?
-
-**Pickles**：Woo.
-
-**Pickles**：Woof, woof, woo. <But sir, if you like, you are more than capable of filling people's hearts with passion with your arcane skill.>
-
-**Pickles**：Woof, woo. <So that they may enjoy themselves there, instead of expecting me to entertain them.>
-
-**"Doggie"**：The puppy wants to transfer the party to you.
-
-**Pickles**：Woof, woof. <Thank you so much for being accurate at this crucial moment, Doggie.>
-
-**Diggers**：What? For real?! Holy moly!
-
-**Diggers**：A public solo speech that I have dreamed of ...
-
-He rubs the fist-size lump on his forehead.
-
-**Diggers**：Hell—This is perfect! Thanks for your generous act, my comrade!
-
-**Diggers**：But ... I hope I still have enough soap bubble solution ...
-
-**Pickles**：Woof. <This shouldn't be a problem.>
-
-An indigo gleam flashes in the dog's eyes.
-
-**Pickles**：Woof. <What happened this morning told me that I can be of help with that.>
-
-**"Doggie"**：The puppy is itching to try.
-
-**Diggers**：Oh, why are you so hyped?
-
-**Diggers**：Alright, alright!
-
-**Diggers**：Let's move, comrade!
-
-> **Title card：** Deck
-
-**Charlton**：Good girl, Wendy! Bring it here!
-
-**Wendy**：Woof woof!
-
-**Charlton**：Now this place is for us only! Everyone went to dinner.
-
-**Wendy**：Woof ...
-
-The bulldog sinks down next to Charlton.
-
-**Wendy**：Woof ...
-
-She doesn't seem to be interested in the game.
-
-**Charlton**：Hm? You hungry?
-
-**Charlton**：Just wait for a bit longer ... Pickles will be back any minute ...
-
-He hears the sound of quick, light footsteps from behind.
-
-**Charlton**：OH! Pickles!!
-
-**Charlton**：I knew you would come back you smart little guy!!
-
-He sticks his hands into his thick hair, just like what he has done hundreds of times.
-
-**Pickles**：Woof, woof. Woo? <Oh, it feels nice. More on the chin, please?>
-
-**Charlton**：All the staff went for you!
-
-**Charlton**：But don't you worry. If you want to hide until the evening ends, I'll do my best to help!
-
-**Pickles**：Woof, woo.
-
-**Pickles**：Woof ... Hm ... Woof. <They are enjoying their time ... umm ... in the "Dreamy Party for New Art.">
-
-**Pickles**：Woof, woof. <Probably I got the name wrong, but it is okay.>
-
-**Pickles**：Hm, woof. <Based on my experience, they will be pretty occupied throughout the entire time of our show.>
-
-**Charlton**：*Sigh*
-
-**Charlton**：I'm sorry that I didn't persuade them as I promised ...
-
-The evening sea breeze is blowing in their faces.
-
-**Charlton**：Haha, it's hard to know what you're thinking. I've never met anyone as special as you are.
-
-**Charlton**：Are you only attracted by those books I can't understand ...?
-
-**Pickles**：...
-
-**Pickles**：Woo.
-
-**Pickles**：Woof. <Perhaps one day I will learn to love sea bass canned food and throw-and-catch.>
-
-**Pickles**：Woof, woof ... Woof. <But for now, I'm satisfied with those books and your apple pie—though sometimes it tastes a bit too sour. >
-
-**Pickles**：Woo ...
-
-**Pickles**：Hm ... <Sitting in the sea breeze with you ... is almost as comfortable as I was when I read The Republic for a second time.>
-
-**Pickles**：Woo. <... is almost as comfortable as I was when I read The Republic for a second time.>
-
-**"Doggie"**：The puppy wants to sit with you.
-
-**Charlton**：Hm, can we even find a repair shop for this translator?
-
-**Pickles**：...
-
-**Charlton**：But if that's what you want, let's sit together!
-
-Wendy squeezes her head into Charlton's arms to join them.
-
-**Wendy**：Woof woof woof!
-
-**Charlton**：Alright girl! We'll grab some sandwiches downstairs very soon!
-
-**Charlton**：But for now—
-
-The moonlight sheds on the sea, giving the water a shimmering glow.
-
-**Charlton**：Let's just sit and enjoy the night!
-
-The noise of the happy cheering crowd faintly comes out from the cabin.
-
--- Seems like everyone has enjoyed their night to the fullest.
-
-**Pickles**：Woof!
-
-> **Title card：** THE END
-
-### Segment 7 · `script 306508`
-
-> **Title card：** The Young Investigator
-
-Marcus is like a book swept out to sea, floating directionless through the dead of night.
-
-Familiar pages flash rapidly through her mind.
-
-Echoes of the past ringing yet again in the present.
-
-**Marcus**：I remember now ... I wanted to make a choice of my own ...
-
-**Marcus**：So I joined the Foundation. I learned of the "Storm." I bade farewell to my era ... and my old dream ...
-
-**Marcus**：A choice of my own ... But did I really make one at all?
-
-A sudden agony almost tears the entire book apart.
-
-The spine of the book trembles as it struggles to turn a new page.
-
-**Marcus**：Yes, I made my choice. Now see where it's led me. I've ruined everything.
-
-**Marcus**：Lady Isolde held a grand exhibition where she made that speech ...
-
-**Isolde**：I wish for the arcanists to unite ...
-
-**Isolde**：And establish an independent kingdom of freedom, free from repression and oppression!
-
-**Marcus**：It's all my fault ... If only I hadn't violated the confidentiality agreement, she wouldn't have made that dangerous speech.
-
-**Marcus**：What I did not only failed to help the arcanists, but worse still it intensified the divide between us and humans.
-
-**Marcus**：Lady Isolde—and many other innocent arcanists deceived by Manus Vindictae—shouldn't have fallen into such a predicament ...
-
-**Marcus**：Political assassinations, ethnic conflicts, and civil turmoil have erupted all over the world ... History has been altered; the "Storm" was formed.
-
-**Marcus**：…
-
-**Marcus**：I shouldn't have—I should never have called out to Madam Hofmann that day ... I should have stayed on the Flannan Isles!
-
-**Marcus**：... Madam Hofmann?
-
-Then comes a clearer, more suffocating page.
-
-**Marcus**：No! Madam Hofmann!!!
-
-**Hofmann**：*coughs weakly* Don't cry, Marcus. I know what I'm doing.
-
-**Hofmann**：The future ... is yours.
-
-**Marcus**：No!
-
-This page seems agonizingly long.
-
-**Marcus**：What have I really achieved?
-
-Images bristling with pain and regret ruthlessly intertwine in Marcus's frantic thoughts.
-
-**Marcus**：Back on the island, I couldn't even stop my friends from fighting. How could I have thought I would be the one to change humanity's discrimination towards arcanists ...
-
-**Marcus**：After I made just that one choice, to join the Foundation, every choice afterward only seemed to magnify the number of people I hurt, even Madam Hofmann ...
-
-**Marcus**：I never once managed to live up to my aspiration ...
-
-**Marcus**：C-Could it be that I ...
-
-The cold abyss stretches out before her. Reality, naked of any illusions.
-
-**Marcus**：I've never left the Flannan Isles.
-
-The active cells within her body finally find an outlet amidst the surging pain.
-
-A strange scent invades the air, blurring Marcus's vision.
-
-**"Donald"**：M-Ms. Marcus, how did you end up here?
-
-**"James"**：Oh, poor lassie, you look miserable ... What sort of trouble have you been in?
-
-**"Thomas"**：Dinnae worry, mate. We've always been here for you, always ready to lend you a hand!
-
-The phantoms, as ever before, gather around her with great enthusiasm.
-
-**Marcus**：James ... Donald ... Thomas ...
-
-**Marcus**：I …
-
-Her long-suppressed emotions finally breach their confines, finding a soothing haven on the windless island.
-
-**Marcus**：Aren't you disappointed in me ...?
-
-**Marcus**：On the Flannan Isles, I tried to tell your story, but everyone only saw it as fiction. They praised its plot and suspense ... But none of the credit really belonged to me.
-
-**Marcus**：I failed to unravel the mysteries, and I failed to help people understand arcanum. My so-called dream ... was nothing more than an excuse to run from reality.
-
-**Marcus**：I had run, tail tucked, to the Foundation, and then to Vienna ...
-
-**Marcus**：In the end, it feels as though I've accomplished nothing.
-
-**Marcus**：I couldn't help Madam Hofmann stop Manus Vindictae. I couldn't find the incantation that might grant immunity from the "Storm" ...
-
-**Marcus**：I only ruin everything!
-
-Yet the bitter chill of remorse fails to tear her down ...
-
-For her loyal friends' warmth, even through the veil of death, can illuminate the darkest nights. Like a refuge on her dark seas.
-
-**"James"**：Lass, we don't know what kind of trouble you're facing now, but things are rarely as bad as you fear them to be. Take that on aged wisdom.
-
-**"Donald"**：Aye, I'm—no, we're all proud of you!
-
-**Marcus**：But ... I didn't do anything helpful for you ...
-
-**"Thomas"**：Right, now I won't have you slandering a friend of mine like that, eh? Or did you forget who wrote those wonderful stories what made people remember the Flannan Isles–and us–forever?
-
-**"James"**：That may well have been the cleverest thing I've heard you say yet.
-
-**Marcus**：But I didn't even uncover the truth behind your deaths. I've failed you all ...
-
-Her head hangs low, with an irrepressible shake lurching her forward and back.
-
-**"James"**：Heh heh ...
-
-A familiar touch of warmth reaches Marcus's shoulder again.
-
-**"James"**：Now don't be so hard on yourself, lass. How can we blame you if we haven't figured that out for ourselves! With a dozen years head start no less!
-
-**"James"**：We've always stayed here all this time, but we've never given up hope. We'll continue to seek out the truth, no matter how long it takes!
-
-**"James"**：Remember what Madam Hoffman told you, "Whether you find the truth or not, it is the journey that keeps us engaged."
-
-**Marcus**：…
-
-Suddenly, she is reminded of that edition.
-
-Why was it so loved by her readers?
-
-**"James"**：... You remember those letters from your readers?
-
-**"James"**：So many bright ideas, trying to fix the puzzle you set out for them. Nary a one got close, eh? But, remember the fun we had talking them over?
-
-**"James"**：Finding the answer is not what really matters, lass. What matters most is our perseverance—our courage to carry on.
-
-**Marcus**：...!
-
-Marcus finally lifts her head.
-
-**Marcus**：Madam Hofmann ... She understood that lesson all along and tried to pass it on to me.
-
-**Marcus**：... But do I really understand it now?
-
-**Marcus**：If I were to die today, would I know what I was supposed to do?
-
-**Marcus**：I think ... I do now.
-
-Standing up, she races forward, just like she did on the island coast that fateful day.
-
-**Marcus**："What really scared me was not death, but the possibility of dying ignorant."
-
-**Donald**：Marcus, d-did you hear that? It's s-some kind of strange noise ...
-
-**Marcus**：…
-
-She takes a deep breath and opens her eyes.
-
-**Marcus**：We ... we can still make this right.
-
-**Marcus**：Doctor, wait! There might be another way!
-
-> **Title card：** THE END
-
-### Segment 8 · `script 306611`
-
-> **Title card：** Endless Shoreline
-
-**Sophia**：I used to think other people's opinions didn't matter to 37.
-
-**Sophia**：Even in the most heated arguments, she never paid them much attention.
-
-**Sophia**：With ordinary eyes, it's difficult to perceive changes in the vastness beyond us.
-
-**Sophia**：But now I understand how to notice them. The faint scrape of fingers brushing over geometry, the different grains of sand I scoop up when I bend over.
-
-**Sophia**：The changes are slow and gradual, but they're there.
-
-Apollo's star had risen high, and the Star of Hermes's game had ended.
-
-It was time to head back to that room filled with scattered papers.
-
-**Sophia**：... ? 37, what's on your mind?
-
-37's steps were unusually slow. She wondered if the verdict had hit her harder than she predicted.
-
-The ever-scrupulous Corrector began to regret her decision—perhaps it would have been better for 6 to maintain the balance.
-
-**Thirty-seven**：... Sophia.
-
-37 started somberly, her words flatter than usual.
-
-**Thirty-seven**：I hope I didn't waste your time.
-
-**Thirty-seven**：Do you think it was all just a pointless game?
-
-The doubts spilled out of her, eagerly awaiting an answer.
-
-**Sophia**：Of course not! That song means a lot to me, it's a precious memory.
-
-**Sophia**：Are you upset, 37? You didn't seem so down when we listened to the song earlier.
-
-**Thirty-seven**：Well, that’s because it had such a lovely cadence, and you sang it so well!
-
-Her praise came sincerely and quickly, no doubt about it.
-
-**Thirty-seven**：But what surprised me was when you mentioned that proof about infinite primes ...
-
-**Thirty-seven**：I remember it, but I have no idea when I told you about it.
-
-**Sophia**：...
-
-**Sophia**：Of course, I remember, 37. It was a beautiful proof.
-
-**Sophia**：I’ll always remember it.
-
-But that didn't comfort her much. Distractedly, 37 grabbed at her hair.
-
-**Thirty-seven**：... So, have I messed up your memories of Hugh?
-
-**Thirty-seven**：Barging in disrupting your memories, and leaving a mess behind ...
-
-Sophia widened her eyes slightly.
-
-**Sophia**：...
-
-**Sophia**：37, are you still bothered by what 210 said?
-
-She averted her eyes—that was rare.
-
-**Sophia**：... Hahaha!
-
-**Thirty-seven**：Sophia, what's so funny!?
-
-**Sophia**：Sorry ...  I just never thought I'd see you care about something he said.
-
-**Sophia**：You're right, you really have changed a lot after all.
-
-**Thirty-seven**：Of course! Didn't I tell you that?
-
-**Thirty-seven**：It's not just my height ...  I've even changed where I sit at the table.
-
-**Thirty-seven**：As the distance between me and the table changes, so does the best angle for catching the sun.
-
-**Sophia**：I’m not talking about height or seats ...
-
-Sophia shook her head with a soft smile.
-
-It was a gentle, rare, loving gesture.
-
-**Sophia**：37, do you know why I've never forgotten that proof about infinite primes?
-
-**Sophia**：Because it made me ponder such distant things for the first time.
-
-**Sophia**：Before, I didn't care about what "eternity" meant; it felt like nothing. Some far away notion.
-
-**Sophia**：Now I stand here, fully aware that the island under our feet will one day disappear, washed away like sand by the tide.
-
-**Sophia**：—But I also believe some things will endure, like grains of gold buried in the silt.
-
-The island was vast enough to house an entire school of thought.
-
-Yet it was also so small, a speck in the waves.
-
-And we, living amidst it, could only remember fleeting moments.
-
-**Thirty-seven**：Yes, because the world we see is transient.
-
-37 nodded seriously; this topic was more familiar to her than discussing dinner plans.
-
-**Sophia**：You shared it with me because of the eternity and beauty that the infinite holds, and its universally true nature. From then on, I’ve seen the gold in the sands.
-
-**Sophia**：And in turn, I shared Hugh's song with you. If it brought you joy, that means it has meaning for you too.
-
-**Sophia**：Maybe it's not the transcendent essence you were seeking. But those who hear the song will feel it, remember it—maybe even hum it one day.
-
-**Sophia**：That is universal beauty too.
-
-**Thirty-seven**：... ! So that's it—I get it now!
-
-The confusion vanished from 37's face, and she returned all at once to her usual cheerful self.
-
-**Thirty-seven**：This song isn't just for Hugh and Sophia anymore because you shared it with us ...  right?
-
-**Thirty-seven**：So it's universal and belongs to everyone who hears it! Just like the proof I shared with you!
-
-**Thirty-seven**：... Why are you laughing again, Sophia?
-
-**Sophia**：... Oh, it’s nothing.
-
-**Sophia**：I’m just thinking about how you’re always turning everything into a proof to understand it ...
-
-**Sophia**：When it's as simple as enjoying music with friends.
-
-**Thirty-seven**：... Hmm!
-
-**Thirty-seven**：I suppose I still can't quite grasp this kind of simplicity ...
-
-37 thought hard about this, puzzling over it like a new problem.
-
-But thankfully, she soon had a new idea, as always.
-
-**Thirty-seven**："Sharing" is really a solid argument—I bet 210 would struggle to argue against it!
-
-**Thirty-seven**：I knew my viewpoint was right! I'm going to tell him right away!
-
-**Sophia**：...
-
-37 hurried off and caught up with 210, who was leafing through another magazine.
-
-**210**：What now? Sophia's declared I won and nothing can change that.
-
-**Thirty-seven**：You were just a spectator, making random guesses, while I uncovered a valuable song!
-
-**210**：Believe what you want—I've said enough today; I'd like a bit of peace and quiet now.
-
-He deliberately slowed down, trailing behind Sophia and 37.
-
-37 took it as 210 conceding, and her steps became light as air.
-
-**Thirty-seven**：Well, except for some trivial details, everything went smoothly today.
-
-**Thirty-seven**：It's the number "9", the trinity of peace, friendship, and harmony. Absolutely perfect.
-
-**Thirty-seven**：Oh, that’s right!
-
-37 turned to Sophia with a sudden recollection, a joyful smile spreading across her face.
-
-**Thirty-seven**：Come on, Sophia, give me your hand—
-
-**Thirty-seven**：This is for you.
-
-The feathers, shells, and pebbles formed a lovely decorative chain.
-
-There was a lone pebble next to it.
-
-**Sophia**：... Is this for me?
-
-**Thirty-seven**：Of course! And this one, I found it on the beach just now.
-
-**Thirty-seven**：The pattern forms a fantastic number! You can add it to the chain or, you know, give it a toss into the waves!
-
-**Sophia**：...
-
-**Sophia**：Thanks, 37.
-
-**Thirty-seven**：I came to the beach this morning to give it to you.
-
-**Thirty-seven**：But I found myself sidetracked and completely forgot ...
-
-**Sophia**：That's alright, 37, I really appreciate your gift.
-
-**Thirty-seven**：That's great! Shall we hang out again tomorrow, Sophia? I'll catch up with my research in no time.
-
-**Thirty-seven**：Oh, the day after tomorrow could work too. We could make this a regular island activity—
-
-**Sophia**：...
-
-Now was the time, relaxed and pleasant enough, for her to ask what she had left unsaid.
-
-**Sophia**：37, do all these numbers have this infinite meaning to you?
-
-**Thirty-seven**：Of course.
-
-37 answered without missing a beat.
-
-**Sophia**：So 37 is just one number in the infinite progression?
-
-**Thirty-seven**：If it's not, what else could it be?
-
-**Thirty-seven**：210, 37, 6 ...  Even if we're gone, these numbers won't disappear.
-
-**Thirty-seven**：Just like you don't need three seagulls, three stones, or three people to prove the number three exists.
-
-**Thirty-seven**：Numbers exist outside of all that.
-
-**Sophia**：...
-
-**Sophia**：Thanks, 37. I think I understand your answer.
-
-**Sophia**：I've got some other things to take care of. Let’s hang out later if there's time.
-
-**Thirty-seven**：Deal!
-
-**Thirty-seven**：Wait, I see 6 coming back!
-
-37 waved at the dot on the horizon, as a seagull swooped above them.
-
-She sprang up, greeting the leader.
-
-**Thirty-seven**：Good morning, 6! 210 and I had a disagreement over something ...
-
-**Thirty-seven**：But the sequence, it's connected to a song ...
-
-**Six**：I'm afraid I don't know much about songs.
-
-**Thirty-seven**：But it's only logical, isn't it?
-
-**Thirty-seven**：Is there any doctrine from our past that fits this situation?
-
-**Six**：...
-
-**Six**：Thinking things through can help purify one’s intellect.
-
-**Six**：Perhaps a period of quiet contemplation would be helpful.
-
-**Thirty-seven**：That doesn't suit me well, I'm afraid. Alright, I'll come up with more convincing new arguments on my own.
-
-It was clear that 37 wasn't satisfied with 6's suggestion.
-
-The debate would keep going in the coming days.
-
-**Sophia**：Watch your step, or you'll trip.
-
-**Thirty-seven**：Don’t worry. As long as I stick to the right order of steps, I won't fall!
-
-**210**：Don't forget, we've got to hurry or we'll miss mealtime.
-
-**210**：That seagull looks as starved as her.
-
-**Thirty-seven**：We could calculate the seagull's speed by counting steps ...
-
-**Thirty-seven**：Where did we stop counting?
-
-**210**：You can spend all day counting seagulls on the beach tomorrow.
-
-**210**：That could be the topic for my next essay.
-
-**Thirty-seven**：Planning to cover up a weak argument with a bunch of superfluous dribble again?
-
-**Sophia**：Alright, you two let's pick up the pace.
-
-**Sophia**：There are other ways to figure out its speed.
-
-**Six**：284 steps.
-
-**Thirty-seven**：Thanks, 6!
-
-**Thirty-seven**：And the time it took us to get here is ...
-
-> **Title card：** THE END
-
-### Segment 9 · `script 308308`
-
-> **Title card：** A Golden Key
-
-**Isolde**：I have a small room. It has a simple door.
-
-**Isolde**：The room is cramped. It's a truly tiny little room.
-
-**Isolde**：But besides that simple door, there are many, many other doors in this room. Big ones, small ones; hard ones, soft ones; mushy and wet ones; warm and furry ones.
-
-**Isolde**：They're in front of me. They're behind me. There are so many of them, and more keep coming. They squeeze me.
-
-**Isolde**：...
-
-**Isolde**：Do you know how that feels? To be squeezed by many, many doors?
-
-Isolde turns her eyes to you.
-
-**Isolde**：I suppose no one in the world has felt what it's like. No one would ever place so many doors in one room.
-
-**Isolde**：Door after door lies on me, compressing me until my skin, my flesh, and bones squeak under the pressure. I'm enveloped by endless pain, as if my flesh is being torn from my skeleton.
-
-**Isolde**：When I was a little girl, I read a story about a princess who tried to sleep on a hundred layers of mattresses yet was still kept awake by a single pea beneath them.
-
-**Isolde**：My father called her the true embodiment of a princess, a good maiden with noble virtue and the most delicate skin in the world. He said that I should be such a lady, both sensitive and polite.
-
-**Isolde**：But am I that princess?
-
-**Isolde**：Or that bothersome little pea under a hundred mattresses?
-
-**Evangeline**：Baby, my child, my darling ...
-
-Mother hugged me, as she always did when overtaken with despair. Theophil had grown up, and Trista was long gone, so I was her only choice.
-
-The day prior, her hysteria had burst out at a banquet, making her shame all the more potent. That's why she came to my room and held me close.
-
-**Evangeline**：You must always remember Mama's words. Don't you ever forget!
-
-**Evangeline**：You have to be careful. Don't allow others to see your vulnerability. Don't cry, don't scream, don't lose control ... Don't make a fool of yourself.
-
-**Evangeline**：Your true self is filthy. Reveal it, and it will hurt you—even kill you.
-
-Her hands squeezed my arms, quivering. I couldn't help but quiver with her.
-
-**Evangeline**：It will only make you suffer—keep you from your dreams and plunge you into nightmares ...
-
-**Evangeline**：It's a most frightful, terrible beast, and it will tear you apart! Just as it tore me, and your grandmother, and your great grandmother.
-
-**Evangeline**：You must conceal it, Isolde! Not one girl in our cursed family has been able to survive in this world without doing so. You must follow the rules of society.
-
-I didn't fully comprehend what she meant back then. Curses, rules, concealment ... It was all too complicated for a four-year-old child.
-
-So I asked her what it meant, what I should do.
-
-**Evangeline**：...
-
-There was a long silence before Mother spoke, so long that I almost fell asleep in her arms.
-
-In my semi-dreamlike state, I heard my mother's voice. It was soft and distant, as if floating down from a cloud.
-
-**Evangeline**：You must learn to play a "role" in life, my little Isolde ...
-
-She brushed my hair with her fingers, her face twisted in agony.
-
-She had been dancing in this pair of hot iron shoes for over twenty years, and in this moment, she presented them to me.
-
-**Evangeline**：You must learn to know what people expect from you. Then, do everything you can to meet those expectations.
-
-**Evangeline**：You'll have to work harder than anyone else to satisfy the people around you so as to make their "tolerance" of you worthwhile ...
-
-**Evangeline**：Smile despite your suffering and breakdowns, and walk steadily, even if your feet are crippled, even if the road ahead seems fine to others but in ruins to you ...
-
-She cupped my face in her hands, kissing my forehead and cheeks. Her tears fell on my face like rain.
-
-She was in so much pain—for me and for herself. It was terrifying to wear that pair of burning iron shoes like that. But it was the only way our ancestors survived. It was the only way we would survive.
-
-And that was the first time I saw a "door." It was small and blue, just the right size for a child like me to pass through.
-
-It squeezed into my room like a cat squeezes through a crack in a door. Eventually, I fell asleep in my mother's arms.
-
-It was not the door to the small room.
-
-**Karl**：A hundred times. That's right, scoop up the soup one hundred times.
-
-It was then that I saw the second door.
-
-**Karl**：You've done well, my child. See? Your hands have stopped shaking.
-
-Mr. Karl stood by that door. His figure was formidable.
-
-I kept my distance. I didn't like Mr. Karl.
-
-I respected him, but I feared him. He seemed so tall to me—grander than a palace, more oppressive than a mountain. He haunted my every nightmare.
-
-In those nightmares, he was an entrance to a wide, luxurious ballroom. It was filled with faceless people, all staring at me silently.
-
-Sometimes I was disheveled, barefoot, or naked. But I was always scrambling to cover myself up—to hide my shame.
-
-It's the door to the Dittarsdorf house, and I am the last remaining Dittarsdorf. It is mine alone. Of course it's in the room.
-
-It isn't the door to the small room, either.
-
-**Heinrich**：Literature.
-
-**Theophil**：Art.
-
-**Heinrich**：Poetry. Stage design.
-
-**Theophil**：Models. Romance.
-
-...
-
-I've never paid much attention to their conversations, but these words summarize the majority of their topics.
-
-**Theophil**：Oh? What do you think, Heinrich?
-
-Theophil is an enthusiastic and perhaps "kind-hearted" person.
-
-He understood himself to be a noble man and a brother. I cannot deny that he fulfilled his obligations, nor can I deny his foolishness. He spent his days indulging in his pleasures with blissful decadence.
-
-He brought me gifts, like Mayer's hound brought her its prey.
-
-And his eyes glittered just like the hound's did.
-
-I would thank him and take his gifts, which greatly inspired him to go on the hunt once more.
-
-As I'm sure you can tell, he was easily pleased. We had a simple relationship.
-
-**Heinrich**：Hey, why don't we start an organization together?
-
-**Heinrich**：I just thought of an excellent name—
-
-Is Heinrich a friend of mine or my brother? How did we even come to be friends?
-
-Our parents were close. He and Theophil grew up together. We'd spent long holidays on each other's estates since we were children.
-
-How time had flown. That little chatterbox had become taller than I.
-
-His fervor for conversation, although sometimes grating, was not without benefit, however. He introduced me to many new faces.
-
-**Klara**：That's a superb name! I'd love to join!
-
-It was he who introduced me to her—my new friend.
-
-**Playwright**：Salome ...
-
-...
-
-What can I say about her?
-
-My mother's therapist, the gardener, and Maggie the maid were all her and her father's moles.
-
-Who picked up the trash bags of old handkerchiefs, worn pajamas, and dirty bed sheets that were left outside the gate? Who ate the dead rabbit that signaled my birth?
-
-Does the answer really matter?
-
-They were quiet, sincere, even. They made no demands, no requests.
-
-Like a pebble lying at the bottom of a river or in the gaps of a railroad, they lived in their own world.
-
-They couldn't even stir up a wave, let alone become the straw that broke the camel's back. They impacted no one.
-
-But still, when Mr. Karl's ballroom pressed upon me, so, too, did she slip into my shoe. A small stone. A perpetual annoyance compounding my great pain.
-
-**Playwright**：My ... muse ...
-
-It's just as Father said.
-
-"Be generous, my daughter. It is an honor that they love you so much."
-
-"Be lenient. Let them be."
-
-**Evangeline**：Sleep, my darling, safe and sound ...
-
-This is how her story should end, don't you think?
-
-**Evangeline**：My darling baby ... Trista, Isolde ...
-
-**Evangeline**：I keep hearing things ... My heart is broken, my joints are screaming ... no, not my joints, my spleen. It feels as though it's ruptured, and there are a million voices shouting in my head ...
-
-**Evangeline**：What should I do? What should I do!? You need to help me! No, who can help me?
-
-She was in so much distress—so much pain.
-
-My mother, my Evangeline.
-
-She could no longer hold her baby. She could no longer live in the illusion of a forever young Apfelstrudel and Blume. She was like an overfilled glass of wine that finally spilled over, staining the clothes of everyone at the table.
-
-**Evangeline**：This is "salvation" ... My dear, dear ...
-
-**Evangeline**：The world is filthy. Just breathing is torturous ...
-
-When she dreamed about Trista, when she saw that sweet smile again, when she relived her death ...
-
-... Mother found the exit of her life.
-
-The door to freedom opened before her.<br>And she was far too kind to leave behind her husband and maids.
-
-Evangeline followed Trista. Theophil followed Evangeline.
-
-One in water, one in fire—they ended their lives.
-
-Not only had the curse taken Evangeline, but also the two remaining men of the Dittarsdorf family. The curse that had once only plagued my mother's family had truly taken over all the Dittarsdorfs.
-
-People started looking at me with pitiful and prying eyes. Of course, they would gaze at a tragic but wealthy and well-bred girl like that, especially those who had sons of marriageable age.
-
-**Karl**：Oh, my poor Isolde. Why is this happening to you?
-
-**Karl**：First your father, then your mother, and now Theophil ...
-
-Mr. Karl wiped his tears with a white hankie. His face ruddy and full, like a peach. The sincerity of his response made him almost charming.
-
-Was he always this way?<br>Where was that stern, harsh gentleman from my memory?
-
-I thanked him, I consoled him, and I shook his hand. This was the Karl my father saw, wasn't it?
-
-I was an adult then. He was treating me as such.
-
-**Kakania**：Isolde ... Are you alright?
-
-Luckily, there were some more welcome visitors.
-
-A different kind of friend. A friend who stood by my side, a sincere worried expression on her face.
-
-**Kakania**：Call me anytime, no matter how late it is. Don't hesitate, alright?
-
-...
-
-**Isolde**：By the way, when you were in the house just now, did you notice a door?
-
-**Kakania**：A door? What kind of door?
-
-**Isolde**：It's a door. One of the most common types. No one would notice it was placed in such a big, magnificent mansion.
-
-**Isolde**：It appeared on the evening of my thirteenth birthday.
-
-**Isolde**：I vomited on my bed that night. I couldn't digest all that cake and roast chicken. My stomach hurt.
-
-**Isolde**：Those wandering spirits bent over me, making funny faces and silently clapping as I heaved up my dinner.
-
-**Isolde**：The guests downstairs were waiting for me. I had to get myself together to go back and thank everyone for celebrating my birthday with me.
-
-**Isolde**：But I was too tired. I hadn't had a good night's sleep in months.
-
-**Isolde**：And that was when I came up with the idea.
-
-**Isolde**：I invited the spirits to fall upon me, whether they were willing or not.
-
-**Isolde**：I utilized the spirits' proficiencies to do what I couldn't do alone. They helped me flatter my guests, behave well, sing and dance, read and write literature ... They aided me in everything.
-
-**Isolde**：And I was able to rest.
-
-**Isolde**：I was finally able to rest.
-
-**Isolde**：...
-
-Theophil's funeral is over. More than half of the servants have been let go. Ms. Dittasdorf says she needs some time alone and refuses to receive any visitors.
-
-Isolde crosses the living room, walking straight to the sideboard.
-
-**Isolde**：Maggie isn't home, so there's no one to take care of Blume, Apfelstrudel, and the nightingale and swan ...
-
-She opens the drawer and takes out a metal box of arsenic powder.
-
-It has been the most deadly poison since the time of ancient Rome until today.
-
-**Isolde**：They're my responsibility now.
-
-**Isolde**：Here, Apfelstrudel, Blume, come have some ...
-
-She carries the box over to the tea table by the window and places the box on it.
-
-**Isolde**：Be graceful, be self-restrained, and be kind to others.
-
-She tilts the tea pot and watches the tea flow into the cup.
-
-**Isolde**：Be compassionate, especially towards the less privileged.
-
-**Isolde**：There's nothing to be afraid of. You have the right to leave this ruined world ...
-
-**Isolde**：We ... must be an example for our people.
-
-**Isolde**：Oh dear, you're twitching ... It's alright. I'll hold you.
-
-**Isolde**：We must ...
-
-Isolde drops her eyes. The arsenic powder dissolves in the hot tea as if it had never existed.
-
-She raises the tea cup and slightly lowers her head.
-
-**Isolde**：We must be virtuous and dignified, as befits our status, Theophil.
-
-In the tea cup, her charred brother gazes at her sorrowfully.
-
-**Isolde**：Ah ... How careless I am. I almost forgot the date today.
-
-She raises her head and throws the tea cup over her shoulder, splashing her brother's face on the floor.
-
-She picks up her coat from the hanger and walks toward the porch, muttering to herself.
-
-**Isolde**：My new doctor, my Kakania ... Dr. Kakania.
-
-> **Title card：** Clinic Doorway
-
-**Isolde**：Oh, it appears I've arrived a little early.
-
-It is good etiquette for a lady to arrive early to an appointment.
-
-**Isolde**：That's alright. I can wait. I have patience.
-
-**Isolde**：Ms. Kakania ... Oh, I suppose I should call her Dr. Kakania from now on.
-
-She looks up at the closed door.
-
-**Isolde**：There's no sign indicating that this is the consultation room ... Oh, right, she doesn't have a medical license.
-
-**Isolde**：Ah, so she's painted the door this color so that the patients can tell where she is. How very clever.
-
-As she waits, Isolde murmurs softly to herself.
-
-**Isolde**：There are so many doors in this world.
-
-**Isolde**：Is Dr. Kakania a door, too? What kind of door would she be, I wonder?
-
-**Isolde**：Would it be green or shining like silk? Perhaps ...
-
-She is interrupted by a familiar voice.
-
-**Kakania**：Hmm? Isolde?
-
-**Kakania**：Sorry, I'm late!
-
-Kakania trots over to her, her lively green skirt swaying with each step.
-
-**Kakania**：I was delayed. You know what I'm like. I swear I'd planned to return earlier to ensure this didn't happen! This is our first consultation, after all! Oh, I so wanted to have a good start to our doctor-patient relationship!
-
-**Kakania**：I'm really, very sorry. Have you been waiting long?
-
-**Kakania**：Are you tired? Oh, I shouldn't have kept you waiting under the sun ...
-
-As Kakania continues her apologies, she pulls a golden key with a green ribbon from her waist.
-
-A golden key to the golden lock on the door. She inserts it and turns it. The door opens.
-
-**Kakania**：Alright, come on in! I'll fetch you a cup of tea.
-
-Kakania enters the side room. Isolde can see her cheerful green dress reflected in the corner of the mirror as she busies herself with the tea.
-
-**Isolde**：I'm looking forward to it.
-
-There she is, reflected in the Vingler's Mirror, the daughter of a mirror seller. Klara. Dr. Kakania.
-
-She's not a door. I was wrong. Very wrong.
-
-She is a key.
-
-The key that will finally unlock my door.
-
-> **Title card：** THE END
-
-### Segment 10 · `script 311409`
-
-> **Title card：** Ruinas Gloriosas
-
-> **Title card：** Wasteland - Night
-
-On that pitch-black night, Recoleta sees no one.
-
-**Recoleta**：Why am I back in the desert? Where did Hunting go?
-
-**Gaucho Rider**：You've drunk the poisoned wine, Recoleta. A treacherous scheme of the cave dwellers.
-
-**Gaucho Rider**：It's the venom of the ouroboros's fangs, severing the cause-and-effect leading us to the Ruinas Gloriosas.
-
-In her mind, her own voice echoes.
-
-**Gaucho Rider**：They tried to stop us, but fortunately, they didn't know that we are one and the same.
-
-**Gaucho Rider**：I left Directrices de Metáforas in your notebook. It will lead you to the final ending.
-
-**Recoleta**：You took the poison for me? But why? Why did you sacrifice yourself? Haven't you longed to see the victory of our great movement?
-
-**Gaucho Rider**：No more questions. It was a necessary sacrifice.
-
-**Gaucho Rider**：I did it for us. Now, go. Save our comrades and see this journey through to the very end!
-
-**Recoleta**：I understand now. The comrade you're talking about is Hunting, isn't it?
-
-**Recoleta**：I need to find the Ruinas Gloriosas and free her.
-
-Recoleta snaps back to reality, pushes herself to her feet, and strides forward with determination.
-
-**Recoleta**："Cross the silent desert, follow the Gnostic River to its source. A forgotten river runs, its course to all untold ..."
-
-**Recoleta**："At the source of the Gnostic River, in shrouded darkness laid, within that mirror, the cave dweller hides, his ancient face displayed."
-
-**Recoleta**：So I just need to follow this river, right?
-
-> **Title card：** Gnostic River Source
-
-**Recoleta**：Phew, what a long night. Looks like I've finally found the source of the Gnostic River.
-
-**Recoleta**：And now? There's no other path forward.
-
-**Recoleta**：Wait. Could it be ...?
-
-"Within that mirror ..." Recoleta gazes at the black surface of the water.
-
-She pinches her nose shut and leaps in.
-
-Recoleta feels herself sliding downward through a cave, yet there is no sense of wetness or flowing water.
-
-**Recoleta**：Whoa ... Waaaah! ... Haha, waaah!
-
-**Recoleta**：Wee! Hahaha! This is actually kind of fun!
-
-> **Title card：** Cave
-
-She lands in a misty, damp cavern.
-
-**Recoleta**："Tread lightly, do not disturb those shadowed tribal dwellers. Their language is as unyielding as stone, their gazes deep as caverns."
-
-**Recoleta**：The cave dwellers ... Are they those figures wandering around?
-
-**Recoleta**：Can they really see me? Their eyes look completely vacant. Maybe I don't need to hide at all.
-
-**Cave Dweller I**：Grant me immortality!
-
-**Cave Dweller II**：Grant me glory!
-
-**Recoleta**：Aah! Stay away from me!
-
-Recoleta takes off running, ignoring everything as she sprints forward.
-
-After passing through countless identical caves, Recoleta finally stops to listen. No footsteps, only the sound of an inexplicable underground wind.
-
-**Recoleta**：Phew, finally lost them. That wasn't so bad.
-
-**Recoleta**：Let's see, the next line says ..."The ninth and tenth time darkness falls, Las Ruinas Gloriosas shall appear—to mark the journey's end, in ruined glory and radiance, clear."
-
-**Recoleta**：So, am I supposed to sleep down here for over a week to unlock the next puzzle?
-
-**Recoleta**：Wait. I see! This is a puzzle too!
-
-**Recoleta**：This place is still lit! So, to make "darkness fall," I need to extinguish all these braziers.
-
-The flames instantly go out, as if responding directly to Recoleta's thoughts.
-
-**Recoleta**：Alright, one more. On to the next cave.
-
-**Recoleta**：Hmm, if my count is right, this should be the tenth cave.
-
-There is no path ahead, only a thick, gray mist.
-
-**Recoleta**："To mark the journey's end"—so that mist must be it? I see. I need to complete the "ninth and tenth time" to reach the tenth night.
-
-**Recoleta**：But, "ninth and tenth" ... What does that even mean? What if I extinguish the last fire in this tenth cave?
-
-Recoleta sits cross-legged, staring at the final brazier.
-
-After a long pause, she suddenly laughs, then picks up the brazier with both hands.
-
-**Recoleta**：It must be this brazier! It marks the boundary between the ninth cave and the tenth.
-
-**Recoleta**：Wow. These metaphors and symbols really are hard to understand. I think I finally get why people struggle with my novels.
-
-With all her strength, she hurls the flames into the mist.
-
-**Recoleta**：Go! Bring forth the light!
-
-> **Title card：** The Ruinas Gloriosas
-
-The mist scatters. Ahead, four enormous phantoms loom.
-
-Behind them, she barely makes out a shackled figure in the darkness.
-
-**Recoleta**：Ms. Hunting?! Are you alright?
-
-Hunting seems to be speaking, but an unseen barrier muffles her voice.
-
-**"Numb"**：I tried to stop you, but you still came.
-
-**"Enlighten"**：Child, why must you seek the secret of the "Ageless"?
-
-**"Cheering"**：Executioner, your cruelty has broken my heart!
-
-**"Slighted"**：How amusing. I never thought you'd make it here.
-
-Countless voices echo in the ruins, mocking her powerlessness.
-
-And four voices rise in unison, forming a harmony.
-
-**Recoleta**：Step aside. I must rescue my comrade!
-
-Recoleta faces the phantom symbols like a knight, her pen wielded like a sword.
-
-**Recoleta**：Clearly, this battle isn't about strength. You are not the Minotaur guarding the labyrinth. You are mere obstacles, symbols created to hinder me.
-
-**Recoleta**：Las Ruinas Gloriosas—the answer's in the name, right?
-
-**Symbolic Chorus**：Clever little writer, what blocks your path is nothing but imaginary chains.
-
-**Symbolic Chorus**：With the mere flick of your pen, you may sever them. It is unbelievably simple!
-
-Recoleta lunges forward with her sword. In the darkness, the sounds of chains snapping ring out. But before long, more chains, newborn and endless, emerge from the abyss.
-
-**Recoleta**：What ... What's going on?!
-
-Recoleta slashes over and over again through the chains, but her efforts are in vain. Exhausted, she collapses to the ground.
-
-A flickering shadow catches the corner of her eye. It's Hunting, off in the distance. What is she doing?
-
-Hunting has abandoned words. She raises both hands above her head, outlining a rectangle.
-
-**Recoleta**：A rectangle. What's that supposed to mean?
-
-Hunting makes a motion as if embracing something, tracing the shape of the rectangle repeatedly in the air.
-
-**Recoleta**：A ... pillar? Wait ... the pillar from before!
-
-**Recoleta**：It's the pillar del Templo de la Metáfora!
-
-**Recoleta**：... The MacGuffin?!
-
-**Editor Hunting**："In crook stories, it is almost always the necklace ..."
-
-Those quoted words strike Recoleta like lightning in a spring storm.
-
-**Recoleta**：Yes, a necklace—a chain! Just like the Templo de la Metáfora. These chains are meaningless! I need to move past them and face the core of Ruinas Gloriosas head-on.
-
-Countless chains bind and drag Recoleta to the ground under their weight. She covers her ears, struggling as she steps into the four symbols.
-
-**Recoleta**：East, West, South, North!
-
-Recoleta swings her sword in all four directions. With each strike, she bears the weight of a thousand chains.
-
-The twisted laughter fades. Exhaustion and relief wash over her, and she collapses to the ground.
-
-Her eyelids feel unbearably heavy. Hunting's voice grows distant.
-
-> **Title card：** The Pampas Plain
-
-The cowboy gazes out the window at the prairie, the fresh green of spring filling her with an almost dreamlike sense of renewal.
-
-**Cowboy**：My head hurts a little. Maybe I slept too long.
-
-**Cowboy**：Those adventures seem hazy now.
-
-**Coachman**：It's alright. You've already written our adventures into a novel.
-
-**Coachman**：We escaped the Templo de la Metáfora, wandered for ages in the Symbolic Forest, and in the end, you saved me in the Ruinas Gloriosas.
-
-The cowboy feels as if she's in a dream, but she knows the coachman is right. Those images slowly resurface in her mind.
-
-**Cowboy**：Alright. And my novel? Is it finished?
-
-**Coachman**：Have you forgotten? We wrote an eternal masterpiece and even won a significant literary award!
-
-**Cowboy**：Where are we going?
-
-**Coachman**：We're heading home.
-
-**Coachman**：Back to Buenos Aires, back to the H.A. Publishing House for a grand award ceremony.
-
-**Coachman**：And then, our story will come to an end.
-
-The cowboy chuckles softly.
-
-She waves at the tall figure before her.
-
-As the carriage jostles forward, she throws open the door and leaps into the golden light of the sun.
-
-**Cowboy**：Goodbye, Ms. Hunting!
-
-**Cowboy**：Publishing novels, receiving awards ... None of that matters to me anymore.
-
-**Cowboy**：There's a whole beautiful world before me! Shouldn't I live like a poet and go out and experience its wonders under the glorious radiance of Apollo? Shouldn't I run free, feeling the grass and earth between my toes?
-
-**Cowboy**：After all, the story is far from over.
-
-Behind her, the coachman—Hunting—watches, relief and longing coloring her face.
-
-She waves at the soaring figure of freedom.
-
-**Editor Hunting**：You're as careless as ever, Recoleta! You forgot that, in the story, you're supposed to call me Coachman!
-
-**Editor Hunting**：But none of that matters now. Go, Recoleta!
-
-**Editor Hunting**：Like an invincible warrior, like a falcon soaring free, like a fearless Gaucho Knight! Go forth and conquer the boundless Pampas Plain!
-
-**Editor Hunting**：Good luck, rebellious, nameless writer who scorns fame and disregards all else!
-
-**Recoleta**：Blessed me, blessed me, my beating heart does drum—the fervent words of visceral realism, within my chest they thump.
-
-**Recoleta**：Come on home, spirits of the past!
-
-> **Title card：** Editorial Director's Office
-
-The seasons cycle once more.
-
-And a new winter arrives.
-
-Hunting sits at her desk, warming her hands with a cup of coffee as she flips through a manuscript.
-
-**Editor Hunting**：You need to dissect the salesman's psychology more deeply. Everything else is fine. If we're lucky, it might be published before spring.
-
-**Writer Thomas**：Hmm? In the past, you'd have said, "No one cares about a retired salesman's story."
-
-**Editor Hunting**：True. But things have changed. Just like Gregor Samsa in The Metamorphosis. You just need to write as well as Kafka, Tommy.
-
-**Writer Thomas**：May I ask—what made you leave such a high-paying job to start your own publishing house?
-
-**Editor Hunting**：That's a secret, a secret ... which has a little something to do with you.
-
-**Writer Thomas**：Oh? You mean my novel moved you that much?!
-
-A knock at the door interrupts the writer.
-
-**Publishing House Employee**：I'm sorry to intrude, Director. We received a package—an anonymous novel addressed to you.
-
-**Editor Hunting**：Let me take a look.
-
-The employee unwraps the package and gently places a thin booklet on the desk.
-
-**Writer Thomas**：Ah, Ruinas Gloriosas y Directrices de Metáforas by Recoleta—
-
-**Writer Thomas**：That's ...?
-
-**Writer Thomas**：Ms. Hunting, are you alright?
-
-**Editor Hunting**：... Phew.
-
-**Editor Hunting**：She put the dedication in the preface. Looks like she still remembers my advice.
-
-> **Title card：** THE END
-
-### Segment 11 · `script 600605`
-
-> **Title card：** Abandoned Village
-
-After a short rest, the team disperses into the abandoned village. The Manus followers have retreated quickly, as if they anticipated the current scene.
-
-**Semmelweis**：That's odd.
-
-How long ago had the singing stopped?
-
-When the long-lost silence descended again, it somehow felt a little ... out of place.
-
-**Semmelweis**：Did it disappear during the battle just now?
-
-Perhaps, for only then could it have disappeared without her noticing.
-
-The return of Emil interrupts Semmelweis’ pondering.
-
-**Emil**：Captain!
-
-**Semmelweis**：Did you find anything?
-
-**Emil**：Following your indications, we found a secret chamber nearby.
-
-**Emil**：The chamber bears traces of a traveler's brief stay. It's clear that the Manus Vindictae were there.
-
-**Semmelweis**：Take me there.
-
-**Emil**：Based on the traces of arcane skills, we believe they were rescued in the chaos of the battle just now.
-
-**Semmelweis**：Hmm ... Are there others who are trying to rescue the prisoner too?
-
-**Semmelweis**：I see ... The refugees used us.
-
-Despite this realization, Semmelweis’ face shows no sign of discontent.
-
-The room is modest, with only a small window connecting it to the outside world.
-
-It is simply decorated, with few noteworthy features.
-
-Semmelweis notices an envelope on the desk.
-
-**Semmelweis**：Is this ... a letter?
-
-**Semmelweis**：Did the Manus Vindictae leave it for me? Or perhaps it was ...
-
-**Semmelweis**：... the prisoner.
-
-The answer to this question is not hard to find; all she has to do is open the letter.
-
-Semmelweis reaches out and picks up the letter from the table.
-
-The ink has not yet dried. Clearly, the sender left not long ago.
-
-**Semmelweis**：...!
-
-The letter is not long—just a few lines.
-
-However, Semmelweis reads it several times, searching for any hint of the Manus Vindictae's whereabouts.
-
-**Semmelweis**：Is this ... some sort of hallucination?
-
-**Semmelweis**：—No, it can't be.
-
-If this was indeed a hallucination, it was so realistic as to be indiscernible from reality.
-
-Semmelweis takes a deep breath and calms herself. She doesn't want Emil to notice her heightened state.
-
-She examines the letter again, word by word.
-
-“Hello, unknown visitor.”
-
-“I know a way to cure your condition and keep you alive.”
-
-“That's right, I have a method to help you survive the affliction given to you by the infected.”
-
-“Please find me in Vienna. Then, you will find redemption and overcome impurity.”
-
-There is a signature at the bottom.
-
-**Semmelweis**：Lorelei from the Rhine.
-
-Who is this person? How does she know all this?
-
-Semmelweis' biggest secret is written so plainly, like an open menu awaiting the scrutiny of a customer.
-
-Countless questions begin to swirl in her mind.
-
-For a scholar, “the infected” is too broad a term. It encompasses countless failures and few survivors.
-
-Therefore, in arcanum, there is a more precise and direct way to refer to this disease that almost exclusively affects arcanists.
-
-The Beyond Disease.
-
-That is the true name of Semmelweis' affliction.
-
-**Emil**：Captain, what's wrong? You've been staring at that letter for a while ...
-
-**Semmelweis**：...
-
-**Semmelweis**：This letter contains certain classified information that I intend to pass on to the Foundation.
-
-Semmelweis calmly removes her comm from its case and calls Madam Lindsay.
-
-Seeing this, Emil asks no more questions. He leaves the room.
-
-**Madam Lindsay.**：Semmelweis, what's the status on the mission?
-
-**Semmelweis**：Everything went smoothly, Madam Lindsay. I was just about to report the details. We—
-
-**Madam Lindsay.**：No, the debriefing can be postponed.
-
-**Madam Lindsay.**：There's now an urgent mission of even greater importance.
-
-**Madam Lindsay.**：Investigator Hofmann in Vienna has requested the assistance of the Field Agent Administration.
-
-**Madam Lindsay.**：Unfortunately, the other squads are unable to reach Vienna in the required time.
-
-**Semmelweis**：Vienna...
-
-“Please find me in Vienna. Then, you will find redemption and overcome impurity.”
-
-**Semmelweis**：...
-
-**Semmelweis**：I understand. I have two “Teleport” arcane skill floppy disks. They'll help me reach Vienna quickly.
-
-**Madam Lindsay.**：I promise you, this is your last mission in this era.
-
-**Madam Lindsay.**：When you return, the medical department will talk to you again about your condition.
-
-**Semmelweis**：Madam Lindsay, Hofmann is my friend, too. I'm glad for the opportunity to help her.
-
-Upon ending the communication, Semmelweis places the communication device back into her backpack, just as she had done countless times before.
-
-**Semmelweis**：“Lorelei from the Rhine” ...
-
-—Semmelweis mutters, looking towards Vienna.
-
-**Semmelweis**：Is this also fate's doing?
-
-> **Title card：** THE END
-
-### Segment 12 · `script 600606`
-
-> **Title card：** Laplace Rehabilitation Center
-
-A familiar location.
-
-**Doctor**：We meet again.
-
-The doctor pushes up his glasses and smiles kindly.
-
-**Doctor**：You still haven’t given up?
-
-**Doctor**：You should know that your struggle is meaningless.
-
-**Doctor**：Neither the Foundation nor those witch doctor arcanists can do anything about your condition.
-
-**Doctor**：Even before the "Storm", the Foundation had few options for dealing with this condition.
-
-**Doctor**：They have even fewer now.
-
-**Semmelweis**：...
-
-**Doctor**：Perhaps you’d like me to recount the data?
-
-**Semmelweis**：I know perfectly well what’s happening now.
-
-**Semmelweis**：Arcanists infected with the Beyond Disease will face a physical and mental breakdown.
-
-**Semmelweis**：The hallucinations and pain will destroy them from the inside out. Less than 5% of arcanists survive the process.
-
-**Semmelweis**：Those arcanists who are lucky enough to make it through to the other side are called "the infected".
-
-**Semmelweis**：The majority of them will be plagued by mental illness for the rest of their lives.
-
-**Semmelweis**：Did I miss anything?
-
-**Doctor**：You seem to know what’s going on, “Rotten Wand”.
-
-**Doctor**：You should be grateful for your little bit of arcanist blood.
-
-**Doctor**：It's given you that 5% chance that you wouldn’t have if you were human.
-
-**Doctor**：But, should you really be grateful?
-
-**Doctor**：You’re like an ignorant hunter who greedily pursues the white stag, charging headlong into a swamp.
-
-**Doctor**：Isn’t it better to hurry back to the Foundation and accept your final moments?
-
-**Semmelweis**：The Foundation will help me. I've never questioned that.
-
-**Semmelweis**：Which is also why I can’t sit and wait for death there.
-
-**Semmelweis**：I'll use my remaining time to contribute to the Foundation and pay them back for all they’ve done for me.
-
-**Doctor**：It seems you're more inclined to die in the "Storm" like a stray dog than to enjoy your last moments in peace.
-
-**Doctor**：You’re in over your head, trying to fight destiny. Little do you know, your actions are just a line in the footnote of fate.
-
-**Semmelweis**：... Perhaps my mind has become deranged as a result of the infection; maybe I’ve snapped—
-
-**Semmelweis**：But you cannot shake my determination. After all, you’re just a hallucination.
-
-**Doctor**：A hallucination? No. You’ll understand soon. It’s not that simple.
-
-**Doctor**：You were never special, Semmelweis.
-
-**Doctor**：You’re just an ordinary person who can’t even use arcane skills.
-
-**Doctor**：What makes you think you’re special? What makes you think you can defeat destiny?
-
-**Doctor**：—You’ll simply disappear into history. Just like the scum who don’t survive to be called "infected".
-
-**Semmelweis**：...
-
-**Doctor**：Alright, you can go. Today’s treatment is finished.
-
-The scene shifts. By the time Semmelweis comes to her senses, she has left the hallucination.
-
-**Semmelweis**：... He was boring.
-
-She lowers her head to examine her hands.
-
-They're beginning to fade away, becoming transparent. She can see the light shining through her palms and hitting the ground beneath.
-
-Intense pain tears at the gaps between bone and flesh, as if the two are trying to rend themselves from one another.
-
-**Semmelweis**：The breakdown of my mind and body is accelerating.
-
-**Semmelweis**：Is it because of the singing ...?
-
-Since the singing started, the symptoms of the Beyond Disease have rapidly increased in intensity.
-
-**Emil**：Captain, are you ... Are you okay?
-
-Emil looks worried.
-
-**Emil**：Does the letter say anything special?
-
-**Emil**：Since you first looked at it, you’ve been in a daze—oh, I mean, thinking.
-
-Semmelweis looks down at the letter in her hand.
-
-“Hello, unknown visitor.”
-
-“I know a way to cure your condition and keep you alive.”
-
-“That's right, I have a method to help you survive the affliction given to you by the infected.”
-
-“Please find me in Vienna. Then, you will find redemption and overcome impurity.”
-
-Lorelei from the Rhine.
-
-After looking at the letter for a while, Semmelweis smiles.
-
-She grasps the paper on both sides ...
-
-... and tears it in half.
-
-**Emil**：Captain?!
-
-Fold, tear. Fold, tear. Fold, tear.
-
-She continues until the letter is nothing but an unreadable pile of scraps.
-
-**Semmelweis**：Emil.
-
-**Emil**：... C-Captain?
-
-Emil looks baffled. It isn't like Semmelweis to behave so irrationally.
-
-**Semmelweis**：I don’t care about your betrayal, Emil.
-
-**Emil**：W-what do you mean, Captain? I don’t understand.
-
-**Semmelweis**：As a field agent team captain, being prepared for betrayal from within is a must. I saw this coming.
-
-**Emil**：W-wait, Captain, are you joking? Was the rumor actually true?
-
-**Semmelweis**：Don’t worry, I don't intend on using “that method”. There's no need to go that far.
-
-**Semmelweis**：Evidence indicates that the prisoner, “Lorelei from the Rhine”, left during the battle with the Manus Vindictae.
-
-**Semmelweis**：In order for her to leave so smoothly, someone must have helped her.
-
-**Semmelweis**：And for someone to pull off this operation with such precision and leave a letter, they obviously knew where we were.
-
-**Emil**：Wait, Captain, surely you don't suspect me, do you?! Do you really think I’m passing information to “Lorelei from the Rhine”?
-
-**Emil**：Captain, I-I'm completely loyal to the Foundation. How could I do something like that?
-
-Semmelweis ignores him, her words calmly cutting through his wailing.
-
-**Semmelweis**：Therefore, when I saw this letter, I came to a conclusion.
-
-**Semmelweis**：There must be a spy on the team. One who is feeding information to the enemy.
-
-**Semmelweis**：And most of the refugees we're tracking are from your home country—Serbia.
-
-**Emil**：I, I ...
-
-**Emil**：Please believe me, Captain! I have no ill intent towards you! I just, I just—!
-
-**Semmelweis**：Though uncommon, this isn't unheard of in the Field Agent Association.
-
-**Emil**：Argh, I never should have helped them in the first place! This confounded letter ... Damn arcanists! Unreliable little—
-
-**Semmelweis**：So, are you one of these refugee rescuers?
-
-**Emil**：No, no, no! I’m not! I’m a human for crying out loud! How could I have anything to do with those arcanists?
-
-**Emil**：I just ... Just happened to assist them!
-
-**Emil**：I tipped them off, told them we were going to take care of this team of Manus followers, and that was it!
-
-**Emil**：I had no idea what they were up to!
-
-**Semmelweis**：Why did you do it? As you said, you’re a human and have no reason to help them.
-
-Emil is silent for a moment. Then he heaves a sigh.
-
-**Emil**：Along the way, I was thinking about what you said earlier.
-
-**Emil**：You said that neither the Foundation nor the Austro-Hungarian Empire could quickly eliminate the influence of Manus Vindictae on the refugees.
-
-**Emil**：Do you know what that means?
-
-**Emil**：It means the Austro-Hungarian Empire has to deal with the problems posed by the refugees as quickly as possible.
-
-**Semmelweis**：The Empire is well aware of the damage a group of unstable arcanists can do.
-
-**Semmelweis**：So, when the arcanist refugees can't be controlled, the Empire isn't averse to taking extreme measures.
-
-**Emil**：Just like they did in the past.
-
-**Emil**：After all, they bear no moral responsibility for them.
-
-**Semmelweis**：Yep. It's a common practice these days.
-
-**Emil**：They're my countrymen. I can't sit back and watch a tragedy like this unfold. I have to find a way to stop it.
-
-**Emil**：Believe me, I have no sympathy for arcanists. They're to blame for all of this.
-
-**Emil**：But even so, they shouldn't suffer such a fate.
-
-**Emil**：Even if they are Manus scum, they should be judged and punished by the law. Their fates shouldn’t be determined by the whims of old men!
-
-Emil spits on the ground, venting his discontent.
-
-**Emil**：I don’t know who “Lorelei from the Rhine” really is. But what I do know is that she can stop the refugees from turning to Manus Vindictae.
-
-**Emil**：And that’s enough.
-
-**Emil**：All this careful exploration and tolerance ... It's not making any difference! It's time to do something.
-
-**Semmelweis**：...
-
-**Semmelweis**：I understand your motivations.
-
-**Semmelweis**：I must say, your behavior surprises me a bit, Emil.
-
-**Semmelweis**：I thought you really hated arcanists.
-
-**Emil**：Everyone hates arcanists. But they're still people—people who live side by side in this world with me!
-
-**Semmelweis**：...
-
-**Semmelweis**：There’s something I neglected to tell you. I’m also an arcanist.
-
-Emil raises his head in disbelief.
-
-**Emil**：Impossible. Why would the Foundation send an arcanist to ...?
-
-Emil trails off, quickly realizing something much more important.
-
-**Emil**：Hang on! Captain, what I mean to say is ... Uh, arcanists are good people, too ...
-
-Semmelweis can’t help but laugh.
-
-**Semmelweis**：Look at me, Emil.
-
-**Emil**：Captain?
-
-**Semmelweis**：I’m not going to punish you.
-
-**Semmelweis**：While you have taken advantage of our organization, investigating Manus Vindictae falls within our scope of work.
-
-**Semmelweis**：Besides, this is rather important intelligence.
-
-**Semmelweis**：So, I'll hide what you’ve done from the higher-ups.
-
-**Emil**：C-captain—A-are you serious?
-
-**Semmelweis**：Reporting your actions would serve no purpose. It would only cost me a team member.
-
-**Emil**：T-thank you so much, Captain! I-I ...
-
-Semmelweis’ communication device buzzes.
-
-**Semmelweis**：Good timing. It’s a dispatch from the higher-ups.
-
-**Semmelweis**：If you’re worried, you can listen in on the call.
-
-**Emil**：N-no, I trust you, Captain!
-
-**Semmelweis**：...
-
-Semmelweis is not lying. She does not intend to report Emil’s actions to Madam Lindsay.
-
-To her, it makes no sense.
-
-**Semmelweis**：Everything went smoothly, Madam Lindsay. I was just about to report the details. We—
-
-The critical point of the era has emerged, which means the arrival of the "Storm" is imminent.
-
-Upon its arrival, the "Storm" will wipe out his existence completely.
-
-There is no need for her to do anything.
-
-**Semmelweis**：You mean Vienna?
-
-**Semmelweis**：...
-
-**Semmelweis**：I understand. I have two “Teleport” arcane skill floppy disks. They'll help me reach Vienna quickly.
-
-**Semmelweis**：Madam Lindsay, Hofmann is my friend, too. I'm glad for the opportunity to help her.
-
-Upon ending the communication, Semmelweis places the communication device back into her backpack, just as she had done countless times before.
-
-**Semmelweis**：“Lorelei from the Rhine”?
-
-—Semmelweis mutters, looking towards Vienna.
-
-**Semmelweis**：Perhaps ... It’s destiny.
-
-> **Title card：** THE END
-
-### Segment 13 · `script 100633`
-
-**Marcus**：Doctor, you must stop using the mirror!
-
-**Marcus**：You will both collapse if you continue to force her!
-
-**Kakania**：I'm running out of options.
-
-**Kakania**：I have to hypnotize her.
-
-**Isolde**：...!
-
-**Isolde**：Hypnotize me? Hahaha ... You, Ms. Klara, the doctor who resents hypnosis and had even fought a duel to stop it ... you are going to use it ... on me?!
-
-**Isolde**：Why? Because I'm a hysterical, irrational woman? The wicked witch? The cursed, inconsolable arcanist?!
-
-**Isolde**：Why, why are you like this to me?!
-
-**Kakania**：Please calm yourself, Isolde.
-
-**Kakania**：And fix your eyes on this watch.
-
-**Isolde**：Why?! Did I do something wrong again? Am I hopelessly incurable?
-
-**Isolde**：Why, why couldn't you, cure me?!
-
-**Isolde**：Can't you ... save me from despair ... one more time ...?
-
-She looks at the beautiful girl, her once-friend.
-
-But she doesn't know how to save her.
-
-**Kakania**：Sleep, Isolde.
-
-**Kakania**：To the peaceful place, to the home of night.
-
-**Isolde**：...
-
-**Isolde**：You're the cruelest of all ...
-
-**Isolde**：If you've made up your mind and think I'm guilty ... Why do you treat me so gently?
-
-**Isolde**：If this is the salvation you brought ...
-
-**Isolde**：I will ... embrace it with joy.
-
-She begins a familiar aria, singing with all her heart.
-
-Her voice at last not some guise or act, but her true self.
-
-**Isolde**：I adorned the Madonna's mantle with jewels.
-
-**Isolde**：And I gave my song to the stars, to the sky, which smiled more beautifully because of it.
-
-**Isolde**：In the hour of sorrow.
-
-Why, oh why, Lord.
-
-**Isolde**：Why do you repay me thus?
-
-The song never left her.
-
-**Isolde**：Look, doctor ...
-
-**Isolde**：The stars ... are shining ...
-
-**Kakania**：...
-
-**Kakania**：Now, tell me, Isolde.
-
-**Kakania**：What do you think of when you look at this painting?
-
-Images appear in the mirror.
-
-Clear, bright, and accompanied by the echo of the tide.
-
-**Arcana**：I am intrigued by the name of your little group. "The Circle" ...
-
-**Theophil**：Yes, unlike other animals, there's a power in every one of us. It's the source of our instinct. Following it, man survived the cruelty of nature.
-
-**Theophil**：In awe of this extraordinary power, the first of man drew a magical circle on the ground, symbolizing a higher power, and declaring that man would no longer be at the mercy of nature.
-
-**Theophil**：That was the first circle. The first magic, the first art!
-
-**Arcana**：Heh heh ...
-
-**Arcana**：An interesting take.
-
-**Arcana**：I happened to have a circle too.
-
-**Arcana**：This is also an ancient miracle, a circle of salvation.
-
-**Arcana**：It shelters the chosen ones from the falling rain,
-
-**Arcana**：and sees them to the promised land.
-
-A vague murmur emanates from the mirror.
-
-Like an ancient echo.
-
-**Marcus**：Yes! That's it!
-
-**Marcus**：I saw it! Doctor! I heard it!
-
-**Marcus**：I "read" the "Storm" immunity ritual! We did it!!!
-
-**Kakania**：...
-
-**Kakania**：Finally ...
-
-Kakania falls to the ground, exhausted.
-
-Marcus, ready now to face the communicator again, activates it.
-
-This time, though, it brings good news.
-
-**Lucy**：News from the frontline. They have sent home the "Storm" immunity ritual.
-
-**Lucy**：Get to work, people.
-
-**Lucy**：In the 22 hours before the "Storm" arrives, the whole world is our proving ground.
-
-> **Title card：** THE END
-
-### Segment 14 · `script 307911`
-
-The days that follow are calm.
-
-The believers, seeking truth and knowledge, sail out to explore a world of constantly changing phenomena.
-
-But the ship's return is far later than expected.
-
-**Believer I**：No ... impossible, they are already well past the maximum deviation possible. They must return today ...
-
-**Believer I**：As long as they are alive and on the ship, there’s no way they cannot be headed back ...
-
-They wait day and night by the coast, eagerly anticipating the return of their leader and the ship.
-
-Soon, they grow increasingly panicked.
-
-**Believer II**：Hey - look, that's the ship!
-
-Until one person shouts excitedly, jumping high with the joyful news.
-
-**Believer I**：I knew it, I knew they were alright!
-
-**Believer II**：I’m so glad–
-
-The ship returns from its voyage along its planned route, with no deviation in angle or speed.
-
-People run to the coast, waiting to welcome new insights from the outside world, believing these unprecedented ideas will illuminate the path of truth.
-
-**Sophia**：Dad—!
-
-Among them is Atticus's dear friend.
-
-**Sophia**：—
-
-The "emanation" descends upon them.
-
-Everyone is calling out; everyone is in an uproar. They scream, cry, and fall to the sandy ground.
-
-The ominous noise even reaches the roofed room.
-
-**Atticus**：...
-
-Ignoring his trembling fingers, Atticus takes the book and opens it on the table.
-
-Regardless of the worst outcome, this is what he had planned to do.
-
-**Atticus**："A voice from the above spoke to a man."
-
-**Atticus**：An important thing will happen to you.
-
-**Atticus**：What will it be? The man asked.
-
-**Atticus**：You will gain wealth, you will gain fame. You will walk in the garden of wisdom and happiness. The voice answered ...
-
-The reading voice stops. His fingers lingering on the page.
-
-At the same time, a geometric shape washes ashore.
-
-It's a beautiful tetrahedron, brilliant with a golden hue like Alma's shining blonde hair when she was in good health.
-
-—The "revelation" has knocked on his door.
-
-Countless ancient knowledge is conveyed through the imprint of the Soul Number 6.
-
-Moral, historical, empirical, abstract, mathematical, humanistic.
-
-This is the crystallization of wisdom passed down from generation to generation by the island's leaders, a glimpse of the mysteries transmitted through the bloodline by those who perceive the truth.
-
-Revelation, knowledge, wisdom —
-
-They surge so tumultuously and vastly that entire lifetimes of achievements and thoughts from mortals are like bottles of water compared to the mighty ocean.
-
-The boulder of fate has rolled down from its peak, and a new 6 is born.
-
-**Six**：...
-
-The reef remains unchanged. It has been hardened by the erosive force during the long night.
-
-The paused hand gently falls and turns the page.
-
-**Six**："Revelation" ...
-
-**Six**：It is just as simple as it is.
-
-> **Title card：** THE END
-
-### Segment 15 · `script 312011`
-
-**Nautika**：Áddjá, white bones ...
-
-**Rolf**：Look what you've found, ráhkis.
-
-Four weathered bone fragments lie amid the wild tundra grass.
-
-**Rolf**：Here's a vertebra, a rib, a small piece of leg bone ...
-
-**Nautika**：Áddjá, what was it?
-
-The lean scholar and his young grandchild stand together in a vast and silent expanse. He wipes his glasses with his sleeve, then moves closer to examine the bones.
-
-**Rolf**：Most of them have weathered away ... It's hard to say, but judging by their size, it could be a reindeer.
-
-**Nautika**：W-Why didn't the Mother Spirit protect it?
-
-He smiles at her naive question.
-
-**Rolf**：*chuckle* ... She doesn't work that way, ráhkis.
-
-**Rolf**：This is the cycle of life. See?
-
-Around the bones, where the flesh has rotted away, daisies now bloom. The wind has carried away the rest, scattering it across distant lands and seas.
-
-**Rolf**：Nautika, this is the world's smallest miracle ... and its greatest.
-
-**Nautika**：I know! It's from Tales of the Mother Spirit, the part that says ...
-
-**Nautika**：In death we freed our tired, tattered flesh; And return life's power to nature's mesh. The rain and wind, our heralds, call us home; To Mother's arms—we rest, no more to roam.
-
-**Nautika**：When I return to Her arms, I want to ask Her something.
-
-**Rolf**：About what?
-
-**Nautika**：I want to know how Her miracle works. How She keeps life turning in the endless cycle.
-
-**Rolf**：That curiosity of yours is admirable.
-
-**Rolf**：And what will you do once you know this information?
-
-The child pauses. Her innocence has left her unprepared for such a question.
-
-But then, a pure desire spills forth.
-
-**Nautika**：Then ... I'll learn Her secret and understand another part of Her.
-
-**Nautika**：In this reindeer's next life, I'll protect it.
-
-She stares at the reindeer's bones and, in the boundlessness of her imagination, makes a small wish.
-
-**Rolf**：Hahaha.
-
-**Rolf**：Very well, Nautika.
-
-**Rolf**：May the Mother Spirit guide you until your soul returns to Her embrace.
-
-**Nautika**：Áddjá ...
-
-**Reindeer**：...
-
-A long time passes before she realizes that she's no longer in a memory. Her grandfather's phantom hangs just out of reach.
-
-She staggers toward him, still holding on to hope.
-
-**Nautika**：Áddjá ... you knew, didn't you? You'd already seen the answer back then.
-
-**Rolf**：...
-
-**Nautika**：That's why you didn't want me to face this final ...
-
-**Nautika**：But that's the answer.
-
-**Nautika**：No matter what, that's the answer.
-
-**Nautika**：Even so, I will pursue the unknown no matter where it takes me.
-
-**Nautika**：I know you understand, Áddjá.
-
-**Nautika**：Because no one knows me like you do.
-
-The phantom doesn't stir. Until, after what feels like an eternity, a smile of relief crests his lips.
-
-He embraces her and whispers a single word.
-
-**Nautika**：...
-
-And the phantom is gone.
-
-**Nautika**：... Let's go.
-
-**Reindeer**：...
-
-**Nautika**：Will you stay with me till the end?
-
-**Nautika**：... Dagny?
-
-She moves toward the exit, while true memories drift back to her like snow settling in her open palms.
-
-**Reindeer**：...
-
-**Nautika**：Dagny ... Dagny.
-
-**Nautika**：Aase and Áddjá said that you wouldn't last long. But I refused to believe it. I thought if I gave you a name, we could keep you.
-
-**Nautika**：I carved a tag for you, whispered your name with every stroke—but by the time I tried to fasten it ... you were already gone.
-
-**Nautika**：Then the very next day, Áddjá and I buried you beneath the sapling. Then I carved your name again.
-
-Dagny remains still.
-
-**Nautika**：Yes, Dagny, my little reindeer. I never ate you, and we never won any race.
-
-**Nautika**：You followed the cycle—stayed with us for those last moments of your life, then left forever.
-
-**Nautika**：Even so, there were so many nights when I thought of you, so many days when your name came to me.
-
-**Nautika**：Oh, how I've missed you.
-
-**Nautika**：You were my first adventure. My missing piece, the forest fossil I never found.
-
-**Nautika**：The beginning of everything.
-
-**Reindeer**：...
-
-She speaks the truth of this long-departed friend, finding that her words have sound once more.
-
-The calf lingers, gazing into the distance. This is the final revelation.
-
-Then, she bows her head and dissolves into the darkness.
-
-**Nautika**：Goodbye ... Dagny.
-
-She turns to the last path.
-
-There, a pool blacker than darkness itself waits at the edge of the void.
-
-**Nautika**：...
-
-This time, she doesn't hesitate. She wades in, slow and resolute.
-
-She reaches the edge of the darkness and peers into the unfathomable water.
-
-**Nautika**：I crossed coastlines and glaciers, escaped a maze, climbed snowy mountains ...
-
-**Nautika**：I went beyond an illusion, refused a passage to the light, and walked free from false memories.
-
-**Nautika**：I came here ... for an answer. That's all.
-
-**Nautika**：The one true answer.
-
-She shivers. Her voice chokes.
-
-**Nautika**：The path we chose because of our longing, the destination we thought would fulfill our lives—
-
-**Nautika**：What's at the end of this road?
-
-She touches the darkness, waiting for its response.
-
-Only silence. Only darkness.
-
-Nothingness.
-
-**Nautika**：...
-
-**Nautika**：Aah ...
-
-**Nautika**：Ah ... ah ...
-
-When reality confirms her premonition, all that remains is pure sorrow.
-
-**Nautika**：So that's the answer ...
-
-Tears stream.
-
-Drop by drop, rippling in the pitch-black pool.
-
-**Nautika**：Áddjá ...
-
-**Nautika**：What we sought ...
-
-**Nautika**：Then ... I'll learn Her secret and understand another part of Her.
-
-**Nautika**：In this reindeer's next life, I'll protect it.
-
-**Nautika**：When I learn this secret ... when I know the answer ...
-
-**Nautika**：I'll understand a part of Her.
-
-Images appear in the dark water.
-
-**Nautika**：And now that I have ...
-
-**Nautika**：Now I've reached the edge of nothingness; now I've seen that the answer is emptiness itself ...
-
-**Nautika**：I became a part of it.
-
-The reflection in the water is clearer now. She wipes the tears from her eyes.
-
-**Nautika**：This isn't the end. Not anymore.
-
-**Nautika**：Not my end.
-
-**Nautika**：Not my final answer.
-
-**Nautika**：I have to keep going—to find a new answer, a new meaning ... for who I am now and for who I'll one day be.
-
-The reflection extends a wordless invitation to her.
-
-Even as she wipes her last tears away, fresh ones fall.
-
-**Nautika**：I'll keep moving forward ...
-
-**Nautika**：Even so, I will pursue the unknown no matter where it takes me.
-
-**Nautika**：Friele, Aase ...
-
-**Nautika**：You don't need to wander anymore. I'll be here.
-
-Tearfully, she smiles—just like the reflection in the water.
-
-**Nautika**：Come back to me ...
-
-**Nautika**：Come back into my arms.
-
-She's determined.
-
-Her consciousness breaks free from the eroding waves of darkness, flickering with a renewed, if faint, glow.
-
-A light that comes from within.
-
-Then, toward her reflection, she leaps into the depths of the pool.
-
-> **Title card：** THE END
-
-### Segment 16 · `script 600911`
-
-**Razor**：Phew ... Ugh ...
-
-**Razor**：Nicely done, Semmelweis.
-
-**Lorelei**：Oh, my friends! I'm so happy for you! You did it!
-
-**Razor**：Although it's clear you were holding back. Still, I couldn't have done it without you.
-
-**Semmelweis**：Forgive me, I need to save some energy in case I have to deal with the "Scorching Heart" arcane skill.
-
-**Madam Lindsay**：I won't do that. That would be tantamount to abandoning my colleagues in their time of need.
-
-**Semmelweis**：Actually, I'd prefer to take matters into my own hands, Madam Lindsay.
-
-**Semmelweis**：Need I remind you how you used the Field Agent Squads?
-
-**Madam Lindsay**：That was a necessary tactic.
-
-**Madam Lindsay**：Either way, you should be grateful.
-
-**Madam Lindsay**：I just received an order from the higher-ups at the Foundation.
-
-**Madam Lindsay**：The order states that I'm to take you and the arcanist called Lorelei back to the Foundation.
-
-**Madam Lindsay**：Wasn't that your goal, Semmelweis?
-
-**Semmelweis**：I simply demonstrated my and Lorelei's worth to the Foundation—a living Infected and an arcanist with a unique arcane skill ...
-
-**Semmelweis**：The Foundation would never give up such outstanding research subjects.
-
-**Madam Lindsay**：You were in the right place at the right time. Helping the "Razor" Squad has absolved you of some of your guilt. This order wouldn't have been made otherwise.
-
-**Semmelweis**：Then, may I consider myself reconciled with the Foundation, Madam Lindsay?
-
-**Madam Lindsay**：Of course.
-
-**Lorelei**：Oh, this is wonderful, little musical note! You've got your friends back!
-
-**Lorelei**：I have all kinds of friends, too. Even now, they're all around me!
-
-**Lorelei**：But I'm very sorry. I know you're trying to help me, but I can't go to the Foundation.
-
-**Lorelei**：There are still things I must do. Right, Mama and Papa?
-
-**Semmelweis**：Don't worry, Lorelei.
-
-Semmelweis pulls an item out of Lorelei's pocket.
-
-**Razor**：What ...?! What's that doing here?!
-
-**Semmelweis**：So this IS the treasure you were looking for?
-
-**Semmelweis**："Razor," I offer you a trade.
-
-**Semmelweis**：I'll give you this.
-
-**Semmelweis**：But in return, "Razor" Squad must give asylum to the members of my Field Agent Squad and as many civilians as possible.
-
-**Madam Lindsay**：What an unwise decision. If you hand that over to the Foundation without fuss, all your previous wrongdoings will be forgiven.
-
-**Madam Lindsay**：When did you become so soft?
-
-**Semmelweis**：... I never really cared about these people.
-
-**Lorelei**：But you do now, right? Well done, my dear. You must've realized what a joy it is to help others!
-
-**Semmelweis**：No. I'm afraid I've never found an ounce of pleasure in helping anyone.
-
-**Semmelweis**：I'm just a selfish person.
-
-**Lorelei**：But you ARE helping them! You shouldn't put yourself down like that.
-
-**Semmelweis**：I'm only helping them because that's what you want.
-
-**Semmelweis**：To me, they're just pawns—to ensure I get you.
-
-**Semmelweis**：If you don't come to the Foundation with me, I'll change my mind and leave these people to fend for themselves.
-
-**Semmelweis**：And, yes, that's a threat.
-
-**Lorelei**：Oh, so that's your plan!
-
-Lorelei tilts her head, thinking carefully.
-
-**Lorelei**：Mama, Papa, what do you think I should do?
-
-She looks off into the empty space before her, earnestly asking for her hallucinations' advice.
-
-**Lorelei**：But if I leave here with the little musical note, I'll never see you again.
-
-**Lorelei**：The "Flood" will wash away all traces of our lives, and the world I face will be totally different.
-
-**Lorelei**：...
-
-**Lorelei**：Hmm, I suppose that makes sense ...
-
-**Lorelei**：But Mama's right. You'll always be with me in my hallucinations.
-
-**Lorelei**：If that's the case, I shouldn't stay in this valley, right?
-
-Lorelei's question isn't directed at her hallucinations but at the silent Semmelweis beside her.
-
-**Semmelweis**：...
-
-**Semmelweis**：Right. Only by surviving will you have the chance to see a more beautiful and memorable valley, Lorelei.
-
-**Lorelei**：Alright. I'll go with you, my dear!
-
-**Lorelei**：Goodbye, Mama! Goodbye, Papa!
-
-Thanks to Lorelei's arcane skill, the previously crazed members of the "Razor" Squad are calmed. They fall into a deep sleep.
-
-A familiar voice echoes from the communication device.
-
-**Madam Lindsay**：Semmelweis, do you have a moment to talk?
-
-**Semmelweis**：Of course, Madam Lindsay.
-
-**Madam Lindsay**：I'm sorry for lying to you about Laplace.
-
-**Madam Lindsay**：But I have no regrets. As a member of the Foundation, I must do everything I can to preserve its strength.
-
-**Semmelweis**：I understand your motives, Madam Lindsay.
-
-**Semmelweis**：You hid the truth of the situation from me, just as I hid my true intentions from you.
-
-**Semmelweis**：In that regard, we're even.
-
-**Madam Lindsay**：In any case, I should congratulate you for surviving.
-
-**Semmelweis**：As my superior?
-
-**Madam Lindsay**：No, on a personal level. As a member of the Foundation, I have no comment on the matter.
-
-**Madam Lindsay**：I also want to congratulate you on saving that little girl and those humans ... That wasn't like you.
-
-**Semmelweis**：People change all the time, Madam Lindsay.
-
-**Semmelweis**：Honestly, when Lorelei made the decision, I was relieved.
-
-**Semmelweis**：I really had no clue which way she would go ... Ha, you never can know what an arcanist lunatic is thinking.
-
-**Madam Lindsay**：You're not much different.
-
-**Madam Lindsay**：Oh, and I suppose one last round of congratulations is in order. You are now a true arcanist—an arcanist I cannot understand.
-
-**Semmelweis**：...
-
-**Semmelweis**：Thank you.
-
-> **Title card：** THE END
-
+**Reed**：No way. Then the Yao didn't really become immortal?
 
 ---
 
@@ -5363,10 +2243,31 @@ Master Rén replies with a solemn nod.
 
 - Element：`3410107`
 
+> **Title card：** Help! I saw something using an arcane skill
+
+**roaring-thunder · 19:42:51**：We were cleaning out the family shrine today and found a set of nuo opera masks. My arcane skill lets me "see" things when I touch objects, so I went through them one by one. Here's what I got:<br><br>Jiazuo Mask: A faint image of a tall man. Looked full of energy, with a loud voice.<br><br>Qiongqi Mask: My uncle. (He used to wear this one all the time when I was little, and my brain just can't get past that, so I couldn't see anything about Qiongqi itself. Haha, don't mind me.)<br><br>Feiwei Mask: Someone reading a book. Looked like my middle school English teacher.<br><br>Tengjian Mask: Hard to make out. A humanoid shape, but not quite human—more like an animal or a monster of some kind.<br><br>Lanzhu Mask: This one was the strangest. With the others, I could at least make out a shadow of a figure. But with Lanzhu, nothing. All I saw was a street, kind of like the road leading to the central park. At the far end, a big round moon.<br><br>Qiangliang Mask: A blinding flash of lightning, and someone talking on the phone.<br><br>My dad took the rest before I could get to them, so that's all I've got.<br>Do these images mean anything? Ideas?
+
+**Guest_9031 · 19:59:07**：If you've got the names right, those all sound like Xiandao Beast masks. My guess? What you "saw" were the things they've eaten! LOL<br>Excluding your uncle, of course~
+
+**Dove-of-Peace · 22:22:04**：As far as I know, there are no records of Xiandao Beasts taking human form. The people you saw might be the Zhentong they were entrusted with? And if you couldn't see anyone ... maybe that means the Xiandao Beast has lost its Zhenzi for good.<br>Just guessing though! Would you be willing to tell us more about your arcane skill?
+
+**CloudyHermit · 23:50:21**：Your arcane skill is the real deal! Lanzhu gazing at the moon, Qiangliang with lightning—anyone who knows their stuff can tell from those two alone that you're not making it up.<br>There are a lot of different accounts of what Lanzhu looks like, but few people know that Lanzhu is actually a rhinoceros. In folk legend, the rhino was a general sent down from the heavens—and that's why it loves to gaze at the moon, longing for someone to bring it home.<br>They say Lanzhu's power can shake heaven and earth. A single roll of its body can trigger an earthquake. Back in the day, Fangxiangshi had to call upon the power of Dunzang, the God of Sheti, and wage a fierce battle before finally subduing it. But once subdued, Lanzhu just curled up underground and has been sleeping ever since. The laziest of all the Xiandao Beasts!
+
 ### Trail · Strange News
 
 - Element：`3410108`
 
+> **Title card：** [Repost] The World's Longest-Living Carp
+
+**duck_rabbit_problem · 16:14:54**：Source: Wuzhong Online<br>On the 9th of this month, a fisherman on Lake Taihu netted a South China carp weighing 189 jin and measuring 2.2 meters in length. Experts sampled its scales and determined that the fish is roughly 245 years old, making it the longest-lived carp on record. The local Water Environment Research Institute has purchased the carp from the fisherman and plans to release it back into the wild after further study.
+
+**Bonsai-Wholesale-2260 · 17:28:39**：If it lived long enough, would it turn into a loong?
+
+**JohnDoe · 18:41:35**：Whoa! What a giant fish! Imagine the size of the pot you'd need to stew that thing.
+
+**CloudyHermit · 21:37:04**：Carp are spiritual creatures, just like turtles, snakes, cats, and dogs. But this one must be something truly extraordinary—a spirit among spirits. It's likely found a method of cultivation, one that lets it sense the Way and even refine itself in accordance with the Way. That's how it's lived so long. If I'm not mistaken, when the experts release their findings, the patterns of its swimming will turn out to align with certain mathematical principles.<br>So what is the Way? The Way is an infinite existence and the sum of all natural laws. "That which is above form is called the Way." The Way is the origin of all things. Everything takes the Way as its foundation, and the Way in turn manifests within them all. Check out my other post for more details!
+
+**Dad_Bod_Dad_Mod · 23:33:32**：Really? That "Aliens in Sichuan" post was yours too, right?
 
 ---
 
@@ -5647,6 +2548,17 @@ He bows deeply, then straightens his posture.
 
 - Element：`3410109`
 
+> **Title card：** The Rats in Critters Clash are Too Weak (Experts Only)
+
+**zzrrrr · 3:45:24**：I'm a long-time fighting game player. Critters Clash is the hottest game right now, so I headed to the arcade to get a few rounds in.<br>I started with the Turtle. Tons of HP, but the attacks are painfully slow and the damage is laughable—not exactly a character built for someone at my level. So I switched to the Rat. The moves looked flashy, and I figured it had to hit hard, so I challenged one guy to a 1v1. He ran the Black Dog, and a single strike knocked me down to half HP. Two hits and the match was over. Ten rounds, ten losses.<br>He explained that HP is based on each animal's natural lifespan—turtles live a long time, so the Turtle has more HP. But these animals have all become Yaos. Every one of them can live for centuries. Why should the old lifespan distinction still matter?<br>Haha, can anyone actually win a match with the Rat???
+
+**Guest_4517 · 4:24:35**：Regular Yaos live just as long as their animal forms. The Rat's lifespan is only a few months—so naturally, its HP bar reflects that. Yaos aren't exactly common these days, so it's totally understandable that you didn't know.<br>The game stays true to the lore while still balancing the numbers so the HP gaps don't become unplayable. Solid design, IMO.
+
+**Dad_Bod_Dad_Mod · 4:37:15**：Haha, what a noob. You didn't even know how to chain your moves. No wonder you got stomped. With the Rat, input ↓A→↓↓→↓→D, cancel into →↘↓↙←↘→B. Do it properly and you've got an infinite combo.
+
+**zzrrrr · 4:41:56**：[This reply has been deleted by a moderator.]
+
+**uy8877[moderator] · 8:17:36**：Please keep it civil. You've been banned for one month.
 
 ---
 
@@ -5877,6 +2789,17 @@ She looks over to Master Rén as she continues her lesson and resolves herself t
 
 - Element：`3410110`
 
+> **Title card：** Anyone know about the White Horse School?
+
+**boundless_sky · 13:28:29**：My friends, do you practice Qi?<br>My grandma said that when her grandfather was young, everyone practiced Qi to develop their arcane skills. Over time, though, the Qi in the world grew thin, and the practice all but died out. Grandma is from Zhu County, and our family still has a little rhyme that was passed down. It opens with: "The White Horse School shows you the way to longevity. Let go worldly concerns and seek stillness." I've been curious about what this White Horse School actually is, but my grandma doesn't know either.<br>Any Zhu County folks out there who can shed some light?
+
+**Dove-of-Peace · 20:08:33**：I went to the library and did some digging. It looks like the sect dates back to the late Tang Dynasty. Some Song Dynasty records mention that its members practiced Inner Alchemy and had a unique way to subdue "evil beasts." The process was apparently exhausting, and the sect needed considerable time to recover after each one.
+
+**boundless_sky · 20:34:17**：Evil beasts? Could these be the legendary Xiandao Beasts? Several Zhenzi family lines have been lost, and their Xiandao Beasts have vanished along with them.
+
+**Dove-of-Peace · 18:11:44**：Hard to say. The White Horse School also shows up in records from the early Ming Dynasty. There were plenty of odes and poems written in its honor, and many officials donated money to build its temple ... Its leader even held an official post at one point. They were clearly held in high regard back then.<br>But all of these records are clustered within just a few years. After that, the White Horse School seems to have faded. Official documents began emphasizing that its members should only focus on self-cultivation and stay out of worldly affairs. The final record comes from the <i>Huanzhou Prefectural Gazette</i>: "A great earthquake struck Huanzhou. Bandits raided the White Horse School, seeking longevity. Many perished on that mountain." What exactly happened will take more digging to uncover :)
+
+**roaring-thunder · 10:44:32**：I'm from Zhu County and I've never heard of this. Sounds like something out of a wuxia novel.<br>##The road to preserving traditional culture is long##
 
 ---
 
@@ -6827,6 +3750,13 @@ She casts one final sneering glance at the scrawny Mei tree in the courtyard, th
 
 - Element：`3410111`
 
+> **Title card：** Selling a family sword :-)
+
+**Guest_9999 · 8:04:22**：My family has passed down a legendary sword—the very longevity treasure once wielded by the immortal of Huanzhou. The immortal sacrificed their life to save Zhu County and entrusted the sword to my ancestor.<br>The sword is white jade, with a blade forged from crystal, litharge, cinnabar, and fluorite using ancient arcane skills. Anyone in the know will tell you swords like this require repeated forging in a furnace, with heavy infusions of chalcanthite essence and specific arcane materials. When enough powerful materials are used, the blade can interact with Qi—what is known today as arcane energy.<br>The Longevity Sword in my possession does exactly that. A wielder with the right resonance can read and control Qi, and may even refine their own Qi to reach longevity. (No effect? Blame your lack of talent LOL.)<br>This sword is a priceless artifact. A comparable Qi-regulating vessel sold at auction in Shanghai not long ago for a hundred thousand Clear Drops!! I had no intention of selling, but my family has fallen on hard times and I'm in urgent need of funds. I'm willing to part with it below its true value. If anyone knows an auction house or a serious collector, leave me a message.
+
+**Small-Mule-8148 · 8:13:36**：That's a fake. The real one is mine. Not for sale!
+
+**feelin_blue · 17:59:05**：Locals all know this legend is a scam. The front page is full of ads like this. Don't get fooled.
 
 ---
 
@@ -7347,6 +4277,13 @@ Dazed by her assault, he nearly misses the slip of red paper drifting past him.
 
 - Element：`3410112`
 
+> **Title card：** (Repost) Partial Records of Local Earthquakes
+
+**wa666666 · 15:51:08**：Year     EQ Epicenter - Magnitude<br>1393            Huanzhou - 4 3/4<br>1425            Liu'anzhou - 5 3/4<br>1468            Huanzhou - 6<br>1481            Haozhou - 6<br>1491            Sizhou - 5<br>1497            Anqing - 4 3/4<br>1500            Chuzhou - 4 3/4<br>1514            Huanzhou - 6<br>1525            Haozhou - 5 1/2<br>1535            Chizhou - 4 3/4<br>1537            Fengyang - 5 1/2<br>1561            Chizhou - 4 3/4<br>1572            Huanzhou - 4 3/4<br>1585            Luzhou - 5 3/4<br>161?          Huanzhou - 6
+
+**burst_of_flavor · 0:01:34**：Was it 1572? What was the era name for that year? I vaguely remember there being funerals and celebrations. It was the first time I cleared a Qi blockage on my own.
+
+**Guest_3988 · 1:31:47**：Who hasn't had their heart broken? My heart is cold ... and so is the autumn wind against my cheek ... T_T
 
 ---
 
@@ -7493,6 +4430,13 @@ They exchange a quick glance. Chéng Héguāng turns and leaps back into the bur
 
 - Element：`3410113`
 
+> **Title card：** Urgent!! Zhu County Annals Needed!
+
+**Sweetie · 12:29:06**：First, I'd like to thank everyone for their help.<br>I'm a history graduate student currently researching the family history of the Lis of Huanzhou—a gentry family that produced many Imperial Scholars throughout the Ming Dynasty.<br>The Lis originally settled in Zhu County but relocated to Chun Town sometime after the seventeenth century. Their family rule states this was to escape a "disaster" in Zhu County. They received reliable advance warning and evacuated several days before it struck, sparing the family from casualties. The Lis weren't alone—the Lu, Chen, and Lee families of Huanzhou all have records of departing Zhu County around the same time, and cross-referencing their accounts confirms the timing aligns: all of them left in the period surrounding the "disaster."<br>The <i>Huanzhou Prefectural Gazette</i> records only official reassignments after the disaster. The county magistrate and the commander were both transferred elsewhere, and the fates of many other officials remain unknown. <i>Stories from Huanzhou</i> has a more specific and unsettling record: "At that time, the sun and the moon hung together in the sky. The earth split in two from the gate of the School of Mei, opening a rift miles long that swallowed souls. When the governor had it investigated, they couldn't find a single human dead or alive, only clothes, dead plants, and animals."<br>I suspect the <i>Zhu County Annual</i> may have more detailed records. Ming Dynasty annuals aren't easy to come by, though. Does anyone have access?
+
+**internet_way_too_slow · 16:15:16**：Great work! There might be an original copy in the Zhu County Library. I'll check for you.
+
+**Sweetie · 20:14:31**：Thank you. Only local officials and wealthy families evacuated. I believe there's more to the story.
 
 ---
 
@@ -8341,6 +5285,19 @@ One jumps up and vanishes away the moment it hits the water.
 
 - Element：`3410114`
 
+> **Title card：** [Breaking] That Mei Tree in the Central Park is Actually Haunted!!!!
+
+**HardWorkPaysOff · 11:32:52**：I have to share a supernatural experience!! That Mei tree in the central park is genuinely haunted!!<br>I've been working night shifts as a security guard at the central park—the one with that enormous Mei tree, right next to the "Immortal Residence."<br>One night I woke from a nap and spotted a mule staring at me outside the security room. O (≧口≦)O It had copper coins and red paper hanging from its body ... not the kind of thing you see nowadays. Creepy!! I froze, and eventually it wandered off. Honestly, it shook me up. But it was just a mule, so I pushed through and kept the job.<br>Then one day, every bud on the Mei tree dropped. That same night, while I was on patrol, I spotted a woman in red floating beside the tree from across the park!! She was humming a little tune and drifted right past me!! O (≧口≦)O I ran off. Told my supervisor the next day and he didn't believe a word of it—even accused me of slacking off.<br>After that, tourists showed up and the Mei tree bloomed again!! Last night I ran into something under the tree once more. This time it was a long-haired man. I heard him murmuring something about sleeping too long and asking what time it was ... Σ( ° △ °|||)︴ Scared me half to death!!
+
+**fantastic_fox · 18:03:41**：I've always thought that Mei tree looks like the core of an array—something sealing away a powerful evil. The blossoms falling means the array has broken. The tree blooming again means the evil energy is surging.<br>The further from the core, the weaker the seal—which is why the mule appeared at the outer edge of the park. Does anyone know anything about those two evil spirits? I doubt they'll be easy to deal with.
+
+**HardWorkPaysOff · 19:13:45**：O (≧口≦)O Is something terrible about to happen in Zhu County?
+
+**HardWorkPaysOff · 14:18:12**：Breaking news: officials have sealed off the central park. They say they're investigating arcane matters. I knew it—something was really there .............................. T_T
+
+**Cheng Heguang · 6:08:07**：Nonsense.
+
+**OneWithFlow · 10:21:34**：The blockage of Qi between heaven and earth has been cleared. The last of the Longevity Sword's Qi has been channeled into the Mei tree. Everything has come full circle. May that old tree flourish for another thousand years.
 
 ---
 

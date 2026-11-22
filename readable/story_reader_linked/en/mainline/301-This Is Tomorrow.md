@@ -21,6 +21,15 @@
 <a id="episode-30101"></a>
 ## 30101 · Rock 'n' Roll Radio
 
+**Opening cinematic epigraph**
+
+> IT ELUDED US THEN, BUT THAT'S NO MATTER—TOMORROW WE WILL RUN FASTER,
+> STRETCH OUT OUR ARMS FARTHER.... AND ONE FINE MORNING———
+>
+> SO WE BEAT ON, BOATS AGAINST THE CURRENT, BORNE BACK CEASELESSLY INTO THE PAST.
+>
+> — FRANCIS SCOTT KEY FITZGERALD
+
 **Regulus**：What's going on?! What happened?
 
 It's raining.

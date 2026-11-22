@@ -1,18 +1,554 @@
 # 1916 · When Peace Blooms
 
 <!-- reading-navigation:start -->
-[← Previous chapter: Semmelweis](1912-Semmelweis.md) · [Story index](../README.md) · [Next chapter: A Night Without End →](1918-A%20Night%20Without%20End.md)
+[← Previous chapter: The Third Circumstance](1912-Semmelweis.md) · [Story index](../README.md) · [Next chapter: A Night Without End →](1918-A%20Night%20Without%20End.md)
 <!-- reading-navigation:end -->
 
-- Story units：`4`
+- Story units：`7`
 - Trail：`0`
 
 ## Contents
 
+- [191601 · London's Calling](#episode-191601)
+- [191602 · From Abroad](#episode-191602)
+- [191603 · Creative Destruction](#episode-191603)
 - [191604 · Math Class](#episode-191604)
 - [191605 · Plans to Scram](#episode-191605)
 - [191606 · "Flower Child"](#episode-191606)
 - [191607 · Edge of the Cape](#episode-191607)
+
+---
+
+<a id="episode-191601"></a>
+## 191601 · London's Calling
+
+> **Subtitle：** And so he begins to miss everything about London, including its interrogation rooms and police stations.
+
+> **Title card：** When Peace Blooms
+
+> **Title card：** London's Calling
+
+**Policeman I**：Certainly, sir.
+
+**Policeman I**：We will fully respect your rights, but we expect you to give us a truthful account of these events.
+
+**Policeman I**：Yesterday afternoon, there was a disturbance on the Champs-Élysées.
+
+**Policeman I**：Witnesses reported seeing soap bubbles before they lost consciousness. Our investigation suggests you were behind this.
+
+**Policeman I**：Do you have anything to say?
+
+The interrogated man, hearing his native language after so long, raises his head in disbelief.
+
+**Diggers**：Hold up, you're English? No, your accent is French.
+
+**Diggers**：Still, thank goodness, officer! You're the first proper English speaker I've met since arriving in Paris!
+
+**Diggers**：The officer taps his pen on the desk impatiently.
+
+**Policeman I**：No passport, no record of entry, and no one to vouch for you. So, what exactly are you doing in France? Did you come just to stir up this trouble?
+
+**Diggers**：Stir up trouble? No! It wasn't meant to be trouble, officer!
+
+**Diggers**：I saw it. The people needed a celebration. They were gathered together, surrounded by this low-pressure atmosphere. My God, I can hardly believe it.
+
+**Policeman I**：...
+
+The officer wearily rubs his temples.
+
+**Policeman II**：Qu'est-ce qu'il a dit?
+
+Another officer chimes in.
+
+Muddled words, garbled speech in a language incomprehensible to him. It forms a cluttered mess in Diggers's ears.
+
+**Policeman I**：Je parle dans le vide.
+
+He grumbles under his breath, before continuing his questions.
+
+**Policeman I**：Sir, this is a police station, not a studio. If you feel you must express yourself, I may be able to put you in touch with a newspaper editor.
+
+**Policeman I**：I'm sure you can pour out your artistic vision on to that poor soul.
+
+**Policeman I**：But for now ...
+
+**Policeman I**：We must know what happened, without any artistic embellishment.
+
+Diggers's eyes widen in surprise, delighted to hear the officer's interest in his art, feigned or not.
+
+**Diggers**：You really mean it? You'd be willing to help me get in touch with an editor to spread my ideas?
+
+**Diggers**：What a generous offer. This feels like a dream!
+
+**Diggers**：This must really be Paris. The open, free, and inclusive international metropolis!
+
+**Policeman I**：...
+
+**Policeman I**：Are you having some trouble understanding me?
+
+He asks sincerely and in plain English.
+
+A sudden knock interrupts the officer's line of thought.
+
+**???**：Oh, this must be Monsieur Diggers? Your outfit is indeed quite unique. He wasn't wrong when he said you'll "stand out from the crowd."
+
+An uninvited guest enters the interrogation room.
+
+Before the officer could react, he whips out a business card from his briefcase and offers it to the officers.
+
+**Policeman I**：A lawyer?
+
+**Policeman I**：Et alors? Je ne vais pas laisser des avocats perturber l'interrogatoire!
+
+His colleague, however, takes a calmer tone.
+
+**Policeman II**：Oh, un instant. Êtes-vous là à la demande de « ce monsieur » ?
+
+**Lawyer**：Oui, monsieur. Si je ne me trompe pas, vous auriez dû être informé.
+
+The officer's frown relaxes, and they continue their conversation in French.
+
+Diggers looks on in confusion at the scene unfolding before him.
+
+**Diggers**：A lawyer? Woah, where did the lawyer come from? What is this, some kind of humanitarian service?
+
+He mutters to himself, as remains completely ignored by the others in the room.
+
+Diggers falls unusually silent, straining to find a hint of what is going on in their unfamiliar language.
+
+Until he catches a single word.
+
+**Diggers**：Manus Vindictae?
+
+Meanwhile, the conversation between the lawyer and the officers nears its conclusion.
+
+**Lawyer**：Je vous remercie de votre compréhension.
+
+**Lawyer**：Bonne journée.
+
+The lawyer tips his hat to the officers.
+
+Then, he escorts Diggers out from the police station.
+
+**Lawyer**：Congratulations, Mr. Diggers! You are free once more.
+
+**Lawyer**：Without the help of a lawyer, you may have faced a troublesome situation.
+
+**Diggers**：Oh, yeah, thank you so much for your help, but I don't have any money for you.
+
+The lawyer stares at him in surprise, then suddenly bursts into uncontrollable laughter.
+
+**Lawyer**：Hahaha. Monsieur, I believe you've misunderstood.
+
+**Lawyer**：The matter of money isn't of such great importance to some people.
+
+**Lawyer**：My client is one of those people. He'll discuss the details with you personally.
+
+**Lawyer**：But now isn't the time for that. Are you ready?
+
+He crushes a small object—some kind of arcanum item—and scatters it in the air.
+
+A wave of dizziness hits first. Then, everything around them begins to distort.
+
+**Diggers**：Oh, no.
+
+**Diggers**：What on earth is going on?!
+
+**Lawyer**：Hold on tight.
+
+The noise of passersby and honking cars fades, and the surrounding scenery twists and transforms.
+
+A darkened barroom with only a dim light shining from the top of the stairs.
+
+**Lawyer**：The client is waiting for you, sir. Through that door, you'll see him.
+
+**Diggers**：You're not going to introduce me?
+
+The lawyer smiles and shakes his head.
+
+**Lawyer**：There are other arcanists like you waiting to be rescued. Too many, so I must be going, sir.
+
+**Diggers**："To be rescued"? Are there that many of us facing issues with our art?
+
+**Lawyer**：Ha-ha, an artist through and through.
+
+The lawyer doesn't argue further; he tips his hat and leaves.
+
+**Diggers**：Weird, he'll help me, but still refuses to say anything.
+
+He walks toward the door, where a bright light re-illuminates his view.
+
+> **Title card：** "The Walden" Bar
+
+There aren't many patrons; but those present are chatting quietly, occasionally letting out soft laughter, their language immediately familiar.
+
+**Diggers**：English!
+
+**Diggers**：These signs, the menus, decorations. Am I in England?!
+
+**???**：Hah.
+
+**Forget Me Not**：Someone lets out a chuckle.
+
+**Forget Me Not**：Our flamboyant artist.
+
+**Forget Me Not**：The culprit of the chaos on Carnaby Street, the summoner of those reflective soap bubbles. You must be Diggers?
+
+**Diggers**：Yes, an artist! You're absolutely right! It's great to meet someone who shares my passion!
+
+Diggers's eyes light up.
+
+**Diggers**：As for Carnaby Street, that was a novel attempt to bring pop art into reality! Though the outcome wasn't quite what I'd planned.
+
+**Forget Me Not**：Clearly, your "art" failed.
+
+**Forget Me Not**：The inevitable fate of the projects of a narrow-minded egotist.
+
+**Diggers**：What? Egotist?
+
+The sudden accusation leaves him startled.
+
+**Forget Me Not**：Is that so hard to accept? "Peace and Love" man.
+
+**Forget Me Not**：The simple fact is undeniable: people don't appreciate your art.
+
+**Diggers**：...
+
+**Forget Me Not**：Indeed, a lack of aesthetic sense is a flaw of the times.
+
+**Diggers**：Oh, so, what is your organization, a gathering of artists?
+
+**Forget Me Not**："Art" is too narrow a definition for our goals. We seek something more profound.
+
+**Forget Me Not**：We bridge the oceans with nothing more than an arcane catalyst.
+
+**Forget Me Not**：That's what we are capable of.
+
+**Diggers**：So, like an arcanist-exclusive art collective?
+
+**Diggers**：I guess making travel easier would be good for artistic collaboration.
+
+Forget Me Not lets out a derisive laugh.
+
+**Diggers**：I don't want to join you.
+
+**Forget Me Not**：...
+
+**Diggers**：I've heard of you back in London, a bunch of renegades.
+
+**Diggers**：I do like your name though. Manus Vindictae, it sounds cool!
+
+**Diggers**：But I think my art style stands out better alone.
+
+**Forget Me Not**：...
+
+The man adjusts his smile slightly.
+
+**Forget Me Not**：As a matter of fact, we're planning a march in Europe with an anti-war theme.
+
+**Forget Me Not**：These kinds of movements usually don't end well, so I understand your reluctance.
+
+**Diggers**：An anti-war art march?
+
+**Forget Me Not**：That's our vision—a world without war.
+
+**Diggers**：Oh! Man, I can't believe I almost turned down something like that.
+
+**Diggers**：It's the kind of thing I was born to do!
+
+**Diggers**：I'm in!
+
+**Diggers**：It's the kind of thing I was born to do!
+
+---
+
+<a id="episode-191602"></a>
+## 191602 · From Abroad
+
+> **Subtitle：** Innumerable novelties, dangerous or not, all from across the sea.
+
+> **Title card：** From Abroad
+
+**Diggers**：Ha-ha, I agree.
+
+If he knew what the future held, he would never have said those words.
+
+**Diggers**：Sticky, foul-smelling mask.
+
+**Diggers**：Painful imprisonment spell.
+
+**Diggers**：Endless attempts.
+
+**Manus Apostle**：Stop this foolishness. Your attempts are futile. No one escapes Manus Vindictae.
+
+**Manus Apostle**：All is set in motion the moment you don that mask.
+
+**Diggers**：...
+
+**Manus Apostle**：But there is some good news to share.
+
+**Diggers**：What?
+
+**Manus Apostle**：Don't worry. This time, it's really good news. Well, let's just say, not so bad.
+
+**Manus Apostle**：Our next mission is on a peaceful island. I've heard they don't even have police there.
+
+Diggers doesn't seem to take the news as any relief.
+
+**Manus Apostle**：...
+
+**Manus Apostle**：Come now, isn't that good news?
+
+> **Title card：** The Island
+
+**Diggers**：Destroying peace—that's my mission.
+
+The sunset's glow bathes in vast and open sea, its waves crashing in a steady rhythm, rising and falling.
+
+He sits barefoot on the shoreline, reaching his hand into the gold-tinted waves.
+
+**Diggers**：So that I can catch the sunset in my hands.
+
+The tide recedes.
+
+**Diggers**：But the golden water slips away so quickly, like the sands of time.
+
+**Diggers**：Like the height of the moon or a blooming flower, like a moment of joy or laughter.
+
+**Diggers**：Why am I here?
+
+Now, art and poetry have both receded out, with tides moving far from him.
+
+**Diggers**：I should be in London, speaking out for the dead in Hue and Saigon. This world doesn't need more war!
+
+**Diggers**："War means tears shed by countless mothers."
+
+**Diggers**："Life is precious because it's short. Why do we waste it killing each other?"
+
+**Diggers**：...
+
+The sounds of footsteps gently crunch across the sand.
+
+A red-headed Corrector stares out toward the irrational number before her.
+
+**Sophia**：What is going on here? You shouldn't be here.
+
+**Diggers**：Shh—quiet.
+
+He watches the seagulls pacing the sand not far away.
+
+**Diggers**：They get startled easily.
+
+**Sophia**：You didn't report your outing at all.
+
+**Sophia**：Several integers were forced to search all night for a missing irrational number, that's unacceptable.
+
+A brief silence.
+
+**Diggers**：Integers? Irrational numbers? Is that what you people call people?
+
+**Diggers**：If I were to give up a sunset over these waves for your numbers, that would be an uncountable loss.
+
+The seagulls flap their wings and fly into the distance.
+
+**Sophia**：But it's necessary. There needs to be an alignment to your overly chaotic soul.
+
+**Diggers**：I don't get it.
+
+His incessant need to argue the point stirs up annoyance in the girl.
+
+**Sophia**：You are an irrational number, a collection of disorder and chaos. You must accept the Truth to approach the realm of rational numbers.
+
+**Diggers**：Why should people be expressed as numbers, rational or not?
+
+**Diggers**：How come 1 is thought, 2 is opinion, 3 is wisdom, and 4 is strength?
+
+**Diggers**：Haven't you noticed? All your choices are confined within a tiny number.
+
+**Diggers**：No branching paths, no sights along the way.
+
+**Sophia**：...
+
+**Diggers**：Miss Sophia, you can't explain everything with maths.
+
+He points toward the horizon.
+
+**Diggers**：Look, the sun is almost gone now.
+
+**Diggers**：The calm night will bring reflection, and although twilight is brief, it brings eternal memories.
+
+**Diggers**：Then, the moon will rise and pull back the tides. The seagulls will return to their nests and sleep with their heads tucked under their wings. Everything will be still and quiet.
+
+**Diggers**：Where are the numbers in all of that? Where's the maths?
+
+He closes his eyes.
+
+The water laps at his skin.
+
+**Diggers**：A seashell just touched my toe. Do you have a number to describe that feeling?
+
+**Sophia**：A seashell?
+
+**Sophia**：That's not a seashell.
+
+Diggers opens his eyes and looks down to his toes.
+
+After a few blinks, his unfocused eyes make out the object before him.
+
+**Diggers**：—?!
+
+A black Browning pistol.
+
+**Diggers**：Oh no, Bad Civilization is here.
+
+**Diggers**：A gun, why is there a gun here?
+
+---
+
+<a id="episode-191603"></a>
+## 191603 · Creative Destruction
+
+> **Subtitle：** A form of art that is devoid of compassion.
+
+> **Title card：** Creative Destruction
+
+Gun.
+
+It had been so long the word almost felt unfamiliar.
+
+**Child**：Haha!
+
+The child forms a gun with his thumb and forefinger, then flicks the "barrel" upward to blow away imaginary smoke.
+
+**Child**：Sophia! Why are you standing up?
+
+**Child**：I shot you. You're dead!
+
+Unable to get a response, the child stomps in frustration.
+
+**Child**：Cheater! I'm never playing with you again!
+
+It had been a thing fit only for a childhood game,
+
+back when "death" was still too distant a concept for her to grasp.
+
+**Sophia**：...
+
+She silently tightens her grip on the ruler in her hand.
+
+The irrational number beside her is shouting.
+
+**Diggers**：Gun! Gun! Gun!
+
+From his reaction, it seems as if the gun hadn't just touched his toe,
+
+but instead fell from several stories above, hitting him on the head. There is no other way to explain his current state.
+
+**Diggers**：Oh, no! &*%￥# …
+
+**Sophia**：...
+
+She loosens her grip on the ruler.
+
+**Diggers**：Look at it.
+
+He takes a deep breath and crouches down next to the gun.
+
+**Diggers**：This will bring Bad Civilization to the island.
+
+**Diggers**：If you ever see something like this on the shore again, make sure you—
+
+He lifts his foot.
+
+**Diggers**：Kick it far away!
+
+**Diggers**：Ow—!!!
+
+The gun flies off, and Diggers clutches his foot, howling in pain.
+
+**Diggers**：Sophia, did it make it to the sea?
+
+**Sophia**：It's approximately 10 meters away from you.
+
+**Diggers**：What?!
+
+**Diggers**：Fine, I just need to throw it farther, or …
+
+**Diggers**：Destroy it!
+
+**Sophia**：@
+
+A mysterious arcanum glow flickers on the surface of the sea as he looks at Sophia in disbelief.
+
+**Diggers**：Why?
+
+She doesn't offer an answer.
+
+**Sophia**：Sorry.
+
+**Diggers**：Don't you believe in "peace and love"?
+
+**Sophia**：In order to protect the peace on the island, I cannot let you touch that gun.
+
+He falls into the water, with both mouth and nose filled by the salty wash of the sea.
+
+A faint murmuring sound.
+
+**Manus Follower I**：His head must've been smashed in by that redhead.
+
+The man looks worried.
+
+**Manus Follower I**：I had wanted to copy his math homework.
+
+**Manus Follower II**：Don't copy ... too many mistakes.
+
+**Manus Follower I**：Oh, his eyes have opened.
+
+His strange, exaggerated shouts make Diggers's head hurt all the more.
+
+**Manus Follower II**：Quiet.
+
+The woman hands Diggers a glass of water wordlessly.
+
+The water is cold, matching the chilly appearance of the woman despite her generosity.
+
+**Diggers**：Thank you.
+
+**Manus Follower II**：There's ... no need for that.
+
+**Diggers**：...
+
+**Manus Follower I**：Did you find any escape routes?
+
+**Manus Follower I**：According to our previous surveys, occasionally, modern industrial products wash up on the island's shores. Therefore, there must be a normal human civilization on the other side of the sea.
+
+**Manus Follower I**：Diggers, tell me, is our hypothesis correct?
+
+**Manus Follower I**：You were spotted by that redhead while searching for an escape route.
+
+**Manus Follower I**：Then, it seems you two had a fierce battle, and you narrowly got away, right?
+
+It took him a moment to grasp what his companion was saying.
+
+**Diggers**：Oh, yeah, actually, I found a gun on the beach.
+
+**Manus Follower I**：A gun?!
+
+The follower's eyes light up.
+
+**Diggers**：Don't get too excited. It's useless now.
+
+**Manus Follower I**：Alright, did you learn anything else useful?
+
+**Manus Follower I**：The local geography, habits, and most importantly, their duty roster, if they even have one.
+
+Diggers thinks for a moment, then smiles.
+
+**Diggers**：The sunset there is beautiful. You really ought to go see it for yourselves.
+
+**Manus Follower I**：...
+
+**Manus Follower I**：Damn it! I knew I shouldn't have sent an artist to scout.
 
 ---
 
@@ -793,5 +1329,5 @@ The believer gives him a strange look.
 ---
 
 <!-- reading-navigation:start -->
-[← Previous chapter: Semmelweis](1912-Semmelweis.md) · [Story index](../README.md) · [Next chapter: A Night Without End →](1918-A%20Night%20Without%20End.md)
+[← Previous chapter: The Third Circumstance](1912-Semmelweis.md) · [Story index](../README.md) · [Next chapter: A Night Without End →](1918-A%20Night%20Without%20End.md)
 <!-- reading-navigation:end -->

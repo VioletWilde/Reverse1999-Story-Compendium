@@ -1303,8 +1303,181 @@ Lamplighter bright face darkens into a frown.
 <a id="episode-2360107"></a>
 ## 2360107 · Through the Darkness
 
-> The client has no dialogue transcript for this unit.
+### Segment 1 · `script 310513`
 
+**Lamplighter**：Watch out!
+
+**Lamplighter**：It's the Bananach! It's here!
+
+**Flutterpage**：Lamplighter, leg it—quick!
+
+And then ...
+
+Amid the endless darkness, something briefly flickers before her eyes.
+
+**Flutterpage**：What? That's ...
+
+**Lamplighter**：Don't come any closer, you beast of foulest darkness!
+
+Flutterpage barely registers what's happening before Lamplighter raises her stick and strikes the earth with incredible force.
+
+A brilliant light bursts forth, banishing the darkness for a fleeting moment. Lamplighter seizes Flutterpage by the wrist.
+
+**Lamplighter**：Let's get out of here!
+
+**Flutterpage**：No. I can't!
+
+**Lamplighter**：What are you talking about?! That thing'll be the end of you!
+
+**Flutterpage**：I saw it! My name! It's there.
+
+**Flutterpage**：In the depths of the dark! It's on the Bananach!
+
+**Lamplighter**：Wait, no! Flutterpage?!
+
+Lamplighter's call goes unanswered, as Flutterpage's trailing dress vanishes into the shadows.
+
+### Segment 2 · `script 310514`
+
+**Flutterpage**：Hey! Where are ya?!
+
+Her voice is consumed by the darkness, vanishing completely.
+
+**Flutterpage**：No answer. Not that I thought there'd be.
+
+Being a child full of questions, darkness is a pain. It always remains silent, as if it's saying, "Don't ask me nothing."
+
+**Flutterpage**：But I'll find ya.
+
+She moves across the grass, at first making every effort to step softly.
+
+But the silence around her is unnerving. Even the faintest crackle of crushed leaves beneath her shoes feels harsh and intrusive.
+
+**Flutterpage**：Right then, if that's the way it's gonna be.
+
+And so, she steps confidently into the enveloping darkness.
+
+**Flutterpage**：...!
+
+Something is indeed lurking in the dark as expected, bursting to life like an erupting spring.
+
+Crawling and seething, shadows spill out from every corner of the darkness.
+
+**Flutterpage**：They, they're coming! I ... What?!
+
+The slimy darkness fills Flutterpage's mouth and nose before she can resist. Even her sight is turning dark.
+
+She can't breathe, and all is black.
+
+**Flutterpage**：*coughs*
+
+Her consciousness begins to slip away.
+
+**Flutterpage**：*coughs*
+
+All around her, the darkness begins to ripple, and faint mocking laughter echoes from every side.
+
+**Voice in the Dark**：Look at her, poor child.
+
+**Voice in the Dark**：Why would you try so hard? What for?
+
+**Voice in the Dark**：You look ridiculous. You surely know that, don't you?
+
+**Flutterpage**：What? You're ...
+
+**Voice in the Dark**：Give it up. You don't need that name of yours as much as you think. It's nothing more than a title.
+
+**Voice in the Dark**：Just leave it to us. This is what you wanted, isn't it?
+
+**Flutterpage**：Give ... up ...?
+
+Indeed, someone provides her with the answer—the simplest solution.
+
+All she needs to do is give up, then she will no longer have to endure this suffering.
+
+And why shouldn't she?
+
+**!+*?%&#**：I ...
+
+The once again nameless girl drifts into a vast, unyielding void.
+
+The warm darkness promises her every answer she seeks. But she has no need to ask anymore.
+
+But just as her last bit of sense fades away, a beam of light breaks through.
+
+**!+*?%&#**：…?!
+
+**Flutterpage**：No.
+
+**Flutterpage**：This isn't the answer I want! I know what you're up to, and I won't fall for it this time!
+
+**Flutterpage**：Look out, I'm coming in!
+
+Flutterpage jumps into the depths of the dark, where the voice had come from.
+
+And then, she crashes straight to the ground.
+
+**Flutterpage**：Oof!
+
+**Flutterpage**：...
+
+She scrambles to her feet, paying no mind to the dirt and grass clinging to her clothes, and stares into the empty nothingness.
+
+Then, she laughs.
+
+**Flutterpage**：Haha. Hahaha!
+
+**Flutterpage**：I've got it. I knew I was right about you all along! Bananach, you—you ain't even got a body! Yer just an empty shell!
+
+**Voice in the Dark**：...
+
+The whispers trail into silence.
+
+The darkness thins out, revealing a sea of stars. The night sky is lit by fireflies.
+
+**Flutterpage**：Gotcha! The sixth letter.
+
+**Flutterpage**：What a riot, really. I was frightened of that thing for ages, and it weren't nothing!
+
+**Lamplighter**：Flutterpage! Are you alright?
+
+**Flutterpage**：I'm standin' here, ain't I? Right as rain.
+
+**Flutterpage**：Turns out, it was just me frightenin' myself all along. The Bananach mumbles a lot of odd things, but that's as far as it goes.
+
+**Flutterpage**：Whatever mumbles on about from now on, I won't let it bother me no more.
+
+Lamplighter's eyes grow wide, and after a short pause, she finally speaks.
+
+**Lamplighter**：You're amazing, Flutterpage. I knew you had it in you.
+
+**Lamplighter**：Hang on! Now's not the time for celebrating!
+
+**Lamplighter**：We've only found six letters, but the Administrator said there were seven altogether!
+
+**Lamplighter**：That means we're still missing one more, and we have no idea where those fairies hid it! We've gotta find it—fast!
+
+Despite Lamplighter's mounting anxiety, Flutterpage looks strangely relaxed.
+
+**Flutterpage**：The fireflies ain't flyin' no more.
+
+**Lamplighter**：Huh?
+
+**Flutterpage**：Look.
+
+**Lamplighter**：They've sunk down to the bottom of the pouch.
+
+**Lamplighter**：What's going on? Shouldn't they be able to sense where their friends are?
+
+**Lamplighter**：Now we're in for it. Dawn's almost breaking! M-Maybe we should hurry back and ask the Administrator?
+
+**Flutterpage**：I think I know the answer.
+
+Lamplighter stops in her tracks, a look of confusion settling on her face as she glances at Flutterpage.
+
+**Lamplighter**：What do you mean by "answer"?
+
+**Flutterpage**：The answer to everything.
 
 ---
 

@@ -4,11 +4,12 @@
 [← Previous chapter: Flying to the Past](19601-Flying%20to%20the%20Past.md) · [Story index](../README.md) · [Next chapter: The San Francisco Kids →](20601-The%20San%20Francisco%20Kids.md)
 <!-- reading-navigation:end -->
 
-- Story units：`8`
+- Story units：`9`
 - Trail：`0`
 
 ## Contents
 
+- [1960300 · The World of Yesterday](#episode-1960300)
 - [1960301 · Tristan Chord](#episode-1960301)
 - [1960302 · Empty Mirror](#episode-1960302)
 - [1960303 · In Deep Mud](#episode-1960303)
@@ -17,6 +18,43 @@
 - [1960306 · The Left and the Forgotten](#episode-1960306)
 - [1960307 · The Day of Rebirth](#episode-1960307)
 - [1960308 · The Story of Tomorrow](#episode-1960308)
+
+---
+
+<a id="episode-1960300"></a>
+## 1960300 · The World of Yesterday
+
+> **Title card：** The World of Yesterday
+
+What is lurking in the mirror? Grief.<br>What is stirring beyond the wall? Calamity.<br><br>—Anna Akhmatova
+
+**Kakania**：Just so ...
+
+**Kakania**：Look, it's no harder than tying a sailor's hitch.
+
+**Kakania**：*exhale*
+
+**Kakania**：Maybe, it can protect us from this disaster.
+
+**Kakania**：...
+
+**Kakania**：Yes, right.
+
+**Kakania**：It is as simple as this, right.
+
+**Kakania**：...
+
+She holds up the knot in her hand.
+
+But there are no cheers of jubilation.
+
+Despite the knots in their hands, the people around her have all started to melt away in the rising rain.
+
+**Kakania**：...
+
+She is the only survivor. Her arm drops to her lap, and she looks absently at the knot in her hand.
+
+This is the only thing she could do.
 
 ---
 

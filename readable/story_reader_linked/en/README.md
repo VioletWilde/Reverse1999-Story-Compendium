@@ -4,7 +4,9 @@
 
 This edition uses the international 3.9.0 client with the November 10, 2026 update. Each chapter includes story text and its associated Trails.
 
-**77 chapters, 993 story units, and 614 Trails.** Of these, 14 story units contain stage information only, and 128 Trails contain metadata only. [Coverage and validation notes (Chinese)](../../../structured/story_global_3_9/README.md)
+**77 chapters, 1,027 story units, and 614 Trails.** Of these, 13 story units contain stage information only, and 114 Trails contain metadata only. [Coverage and validation notes (Chinese)](../../../structured/story_global_3_9/README.md)
+
+Revised November 22, 2026: restored missing units, corrected script assignments and chapter titles, and added the Spring Unending forum Trails. Some restored text uses official multilingual scripts preserved in an earlier repository snapshot; forum posts use UTTU data. There are still 58 whole stories missing relative to the audited UTTU catalog. [Full audit and missing-story list (Chinese)](../../../structured/story_reader_audit_20261122/README.md)
 
 ## Main Story (15)
 
@@ -27,15 +29,15 @@ This edition uses the international 3.9.0 client with the November 10, 2026 upda
 ## Event Story (23)
 
 - [11101 · The Theft of the Rimet Cup](activity/11101-The%20Theft%20of%20the%20Rimet%20Cup.md) — 16 story units · 14 trails
-- [12101 · A Nightmare at Green Lake](activity/12101-A%20Nightmare%20at%20Green%20Lake.md) — 18 story units · 12 trails
+- [12101 · A Nightmare at Green Lake](activity/12101-A%20Nightmare%20at%20Green%20Lake.md) — 19 story units · 12 trails
 - [13101 · Journey to Mor Pankh](activity/13101-Journey%20to%20Mor%20Pankh.md) — 17 story units · 7 trails
 - [15101 · Revival! The Uluru Games](activity/15101-Revival%21%20The%20Uluru%20Games.md) — 15 story units · 39 trails
 - [16101 · Notes on Shuori](activity/16101-Notes%20on%20Shuori.md) — 23 story units · 0 trails
 - [18101 · Farewell, Rayashki](activity/18101-Farewell%2C%20Rayashki.md) — 19 story units · 32 trails
-- [20101 · Floor it! To the Golden City](activity/20101-Floor%20it%21%20To%20the%20Golden%20City.md) — 13 story units · 27 trails
+- [20101 · Floor it! To the Golden City](activity/20101-Floor%20it%21%20To%20the%20Golden%20City.md) — 22 story units · 27 trails
 - [21101 · Route 77: The Haunted Highway](activity/21101-Route%2077_%20The%20Haunted%20Highway.md) — 20 story units · 19 trails
 - [23101 · Chronicles of Uluru: London Dawning](activity/23101-Chronicles%20of%20Uluru_%20London%20Dawning.md) — 20 story units · 11 trails
-- [24101 · Last Evenings on Earth](activity/24101-Last%20Evenings%20on%20Earth.md) — 21 story units · 14 trails
+- [24101 · Last Evenings on Earth](activity/24101-Last%20Evenings%20on%20Earth.md) — 23 story units · 14 trails
 - [25101 · Showdown in Chinatown](activity/25101-Showdown%20in%20Chinatown.md) — 22 story units · 17 trails
 - [27101 · 1987 Cosmic Overture](activity/27101-1987%20Cosmic%20Overture.md) — 20 story units · 10 trails
 - [28101 · Against the Flood](activity/28101-Against%20the%20Flood.md) — 5 story units · 0 trails
@@ -54,17 +56,17 @@ This edition uses the international 3.9.0 client with the November 10, 2026 upda
 
 - [13904 · Of Mortals and Immortality](character/13904-Of%20Mortals%20and%20Immortality.md) — 8 story units · 0 trails
 - [13918 · Of All Ripples, the Quietest](character/13918-Of%20All%20Ripples%2C%20the%20Quietest.md) — 8 story units · 0 trails
-- [16601 · Light to the Tavern](character/16601-Light%20to%20the%20Tavern.md) — 8 story units · 0 trails
-- [16603 · Flowing in the Wind](character/16603-Flowing%20in%20the%20Wind.md) — 8 story units · 0 trails
+- [16601 · Light to the Tavern](character/16601-Light%20to%20the%20Tavern.md) — 9 story units · 0 trails
+- [16603 · Flowing in the Wind](character/16603-Flowing%20in%20the%20Wind.md) — 9 story units · 0 trails
 - [17701 · The Small Room](character/17701-The%20Small%20Room.md) — 8 story units · 0 trails
 - [17703 · The Tall Lighthouse](character/17703-The%20Tall%20Lighthouse.md) — 8 story units · 0 trails
-- [18601 · Dawn Arrives as Usual](character/18601-Dawn%20Arrives%20as%20Usual.md) — 8 story units · 0 trails
+- [18601 · Dawn Arrives as Usual](character/18601-Dawn%20Arrives%20as%20Usual.md) — 9 story units · 0 trails
 - [18603 · Silver Knot](character/18603-Silver%20Knot.md) — 8 story units · 0 trails
 - [19601 · Flying to the Past](character/19601-Flying%20to%20the%20Past.md) — 8 story units · 0 trails
-- [19603 · Through the Glass](character/19603-Through%20the%20Glass.md) — 8 story units · 0 trails
-- [20601 · The San Francisco Kids](character/20601-The%20San%20Francisco%20Kids.md) — 5 story units · 0 trails
+- [19603 · Through the Glass](character/19603-Through%20the%20Glass.md) — 9 story units · 0 trails
+- [20601 · The San Francisco Kids](character/20601-The%20San%20Francisco%20Kids.md) — 8 story units · 0 trails
 - [20603 · On the Thousandth Night](character/20603-On%20the%20Thousandth%20Night.md) — 8 story units · 0 trails
-- [22911 · Into the Rainforest](character/22911-Into%20the%20Rainforest.md) — 2 story units · 0 trails
+- [22911 · Into the Rainforest](character/22911-Into%20the%20Rainforest.md) — 9 story units · 0 trails
 - [23501 · Shadow of the Sun](character/23501-Shadow%20of%20the%20Sun.md) — 8 story units · 0 trails
 - [23601 · Night Escapades on Cross Street](character/23601-Night%20Escapades%20on%20Cross%20Street.md) — 8 story units · 0 trails
 - [24501 · Beyond the Coastline](character/24501-Beyond%20the%20Coastline.md) — 8 story units · 0 trails
@@ -83,10 +85,10 @@ This edition uses the international 3.9.0 client with the November 10, 2026 upda
 - [1908 · The Will of Gears](anecdote/1908-The%20Will%20of%20Gears.md) — 7 story units · 0 trails
 - [1909 · To Winnifred](anecdote/1909-To%20Winnifred.md) — 8 story units · 0 trails
 - [1910 · The Winds of Juhalerat](anecdote/1910-The%20Winds%20of%20Juhalerat.md) — 8 story units · 0 trails
-- [1911 · Eagle](anecdote/1911-Eagle.md) — 8 story units · 0 trails
-- [1912 · Semmelweis](anecdote/1912-Semmelweis.md) — 6 story units · 0 trails
-- [1916 · When Peace Blooms](anecdote/1916-When%20Peace%20Blooms.md) — 4 story units · 0 trails
-- [1918 · A Night Without End](anecdote/1918-A%20Night%20Without%20End.md) — 3 story units · 0 trails
+- [1911 · Finding Xavier](anecdote/1911-Eagle.md) — 8 story units · 0 trails
+- [1912 · The Third Circumstance](anecdote/1912-Semmelweis.md) — 6 story units · 0 trails
+- [1916 · When Peace Blooms](anecdote/1916-When%20Peace%20Blooms.md) — 7 story units · 0 trails
+- [1918 · A Night Without End](anecdote/1918-A%20Night%20Without%20End.md) — 8 story units · 0 trails
 - [1919 · A Fool's Gold](anecdote/1919-A%20Fool%27s%20Gold.md) — 8 story units · 0 trails
 - [1920 · The Best Band in Town](anecdote/1920-The%20Best%20Band%20in%20Town.md) — 7 story units · 0 trails
 - [1922 · The Last Film](anecdote/1922-The%20Last%20Film.md) — 8 story units · 0 trails

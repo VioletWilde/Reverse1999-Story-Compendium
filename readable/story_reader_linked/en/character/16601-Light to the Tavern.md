@@ -4,11 +4,12 @@
 [← Previous chapter: Of All Ripples, the Quietest](13918-Of%20All%20Ripples%2C%20the%20Quietest.md) · [Story index](../README.md) · [Next chapter: Flowing in the Wind →](16603-Flowing%20in%20the%20Wind.md)
 <!-- reading-navigation:end -->
 
-- Story units：`8`
+- Story units：`9`
 - Trail：`0`
 
 ## Contents
 
+- [1660100 · To The Town](#episode-1660100)
 - [1660101 · The Third and the Ninth](#episode-1660101)
 - [1660102 · What the Xiangruis Do](#episode-1660102)
 - [1660103 · Idle Time](#episode-1660103)
@@ -17,6 +18,49 @@
 - [1660106 · Festoons](#episode-1660106)
 - [1660107 · Difficult Is the Way](#episode-1660107)
 - [1660108 · Till the Last Drop](#episode-1660108)
+
+---
+
+<a id="episode-1660100"></a>
+## 1660100 · To The Town
+
+"A Xiángruì is not supposed to have any personal feelings. She fell because of you, because of the personal feeling. Remember that."
+
+"Stay in this city. Be their guardian. Be a Xiángruì."
+
+"Be a Xiángruì, and then you will understand her."
+
+> **Title card：** Gate
+
+Earthen ramparts and stone walls rise up on the horizon. The towering city gates loom ahead. Travelers come and go, pausing only briefly within the gate's shadow to undergo inspection before being granted entry into the city.
+
+A bullock cart, sandwiched within the procession, slowly advances. It is halted in its tracks.
+
+**Gate Guard**：Hey, stop there. What's in the cart?
+
+**Citizen IV**：Just some dried mushrooms I bought to sell, sir.
+
+Despite this claim, the thatched mat covering the cart is bulging unnaturally, as though something is hidden underneath. The guard prods it with the scabbard of his sword. A small figure springs out from beneath it, startling everyone in the vicinity.
+
+She is chewing on a piece of dried mushroom, mumbling under her breath.
+
+**Child Beggar**：To Pèi City ...
+
+**Citizen IV**：Who—who are you? Why are you in my cart? Hey, you're eating my mushrooms!
+
+**Child Beggar**：Mommy ... isn't here. The Daoist asked me to go to the city. Pèi City. I'm hungry ...
+
+**Gate Guard**：Perhaps she got separated from her family. What's your name? Where did you come from?
+
+The guard extends his hand to help her down from the cart. She rejects the offer, instead grabbing another handful of mushrooms and stuffing them into her mouth. Then, with a deft leap, she lands on the back of the ox pulling the cart.
+
+**Gate Guard**：Hey, kid!
+
+**Gate Guard**：Get down! NOW!
+
+The girl moves nimbly, like a little bouncing bean, striding with ease as she darts between the carts and horses. In the blink of an eye, she vanishes without a trace.
+
+> **Title card：** 6#1
 
 ---
 

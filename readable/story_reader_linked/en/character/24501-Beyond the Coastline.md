@@ -23,1312 +23,1474 @@
 <a id="episode-2450101"></a>
 ## 2450101 · VIP Barrel Seat
 
-> **Title card：** Slithering Snails
+> **Title card：** VIP Barrel Seat
 
-> **Title card：** ???, Practice Room
+> **Title card：** Deck, "Free Breeze" Cruise Ship
 
-**Coach**：Everything alright?
+**Cruise Ticket Seller**：Ladies and gentlemen, it's time to make your choice!
 
-**Charlotte**：*hiss* Ah, no. Not really, my leg's still painful. I probably overdid it when I was stretching.
+**Cruise Ticket Seller**：The clock's ticking! There is but half an hour left until tonight's performance. Hurry up and select your favorite pieces!
 
-**Coach**：No excuses. Charlotte, I'm giving you five more minutes to warm up.
+**Cruise Ticket Seller**：Admiring the scenery, eh, signore? You can leave your song request form with me, if you're ready.
 
-**Charlotte**：Five minutes ...
+**Guest**：It's all thanks to you! I almost missed it.
 
-**Coach**：If you want, I can send you off on a permanent break.
+**Guest**：The performances these past two days have been truly sublime. Honestly, I've never experienced concerts of this caliber anywhere else.
 
-A smirk appears on the young girl's face. She can hold her feelings back no longer.
+**Guest**：Here's my form.
 
-**Charlotte**：I followed the choreography to the letter.
+**Cruise Ticket Seller**：There's only a single word here. Are you sure about this, signore?
 
-**Coach**：Why? If you'd done that, we wouldn't be having this discussion right now, would we?
+**Guest**：The cruise is about to end. I must seize this opportunity.
 
-**Charlotte**：...
+**Guest**：This brilliant musicista ... One can only witness her talent aboard the "Free Breeze."
 
-**Coach**：Come on then, Charlotte, speak up. What is it? Cat got your tongue, or what?
+**Guest**：Is it really as they say that there is no music Barcarola cannot play?
 
-**Coach**：Your pathetic pride?
+**Guest**：If so, what I wrote there should not be a demanding request—merely broad in scope.
 
-**Charlotte**：I—
+**Cruise Ticket Seller**：Of course, signore. It is simply my job to confirm these things.
 
-**Coach**：I don't want to hear any excuses.
+The ticket seller places the form atop a stack of papers with a diligent smile.
 
-She waves her hand impatiently.
+**Cruise Ticket Seller**：On every voyage, we encounter five or six curious passengers like yourself, signore.
 
-**Coach**：Again! Don't let me think you're a failure now, Charlotte.
+**Cruise Ticket Seller**：But perhaps you should have written a few a little more, then you'd pose a real challenge for her, sì?
 
-She turns on the wire recorder, and the music pierces Charlotte's eardrums.
+**Guest**：Well, I'm not trying to make things difficult here. Aren't you curious to see which piece Signorina Barcarola will choose?
 
-The young Floor Ritualist takes a deep breath. When she lifts her head, a smile is plastered on her face.
+**Guest**：I'll listen closely what kind of melody she believes will fit my hometown.
 
-The music plays on.
+**Cruise Ticket Seller**：Then we must hurry, signore. Let's find you a seat up front.
 
-**Coach**：Raise your hand!
+**Guest**：Yes, I was a few minutes late yesterday and almost couldn't get in.
 
-She grabs her wrist and lifts it higher.
+**Guest**：I really hope she'll come ashore to perform in a concert hall someday. Tickets for the "Free Breeze" are getting harder to come by.
 
-**Coach**：Kick! With range, I say!
+> **Title card：** Atrium, "Free Breeze" Cruise Ship
 
-She points her toes as she extends her leg to capacity.
+**Excited Passenger**：How much longer? I've been waiting all day!
 
-**Coach**：Good.
+**Excited Passenger**：Will she begin with "Morning Mood" or "Symphonie Fantastique"? Or perhaps "Boléro"! The weather tonight is just perfect for it!
 
-An objective and fair assessment.
+**Crew Member I**：Or perhaps our musical genius will delight us with a little improvisation!
 
-She feels a bit relaxed and proceeds to the next move—the most crucial step of any Floor Ritual routine.
+**Guest**：Haha, it seems her audience remains as passionate as ever.
 
-The performer must integrate their understanding of arcanum into their performance, unifying body, mind, emotion, and arcane skill.
+**Guest**：But it is as I said, I can only imagine how popular Signorina Barcarola would be if she performed on land.
 
-For competitors, this is also the most challenging part.
+**Cruise Ticket Seller**：You will have to keep wondering. She prefers life on this ship. Perhaps she just enjoys the opportunity to travel.
 
-**Coach**：Wrong! Where's your arcane skill?!
+**Cruise Ticket Seller**：It might be that more would come to see her on land, but she is not one to be so tied down.
 
-**Coach**：Stop! Stop!
+**Crew Member II**：Good evening, signori!
 
-She turns off the wire recorder, bringing the practice to an immediate halt. She casts an ice-cold glare in the girl's direction.
+**Crew Member II**：Please take a seat right here. If you've come to applaud our beloved star, I'd be happy to sort out two "special seats" for you.
 
-**Coach**：You forgot the routine again, Charlotte.
+**Cruise Ticket Seller**：Come on, you really think a well-dressed fellow like him would want to sit on an old barrel with us?
 
-**Charlotte**：I didn't ...
+**Cruise Ticket Seller**：We're only sitting here so we can stay close by—to keep an eye on things, just in case ...
 
-**Coach**：Really now? Then why didn't you connect the elements? Why would you hesitate at the most important part of the whole bloody thing?! This element is worth at least 1.2 points!
+The dignified gentleman joins them on the barrel, turning his eyes toward the stage with intense focus.
 
-**Coach**：Do you understand what that means? 1.2 points could be the difference between first and fourth!
+**Guest**：The honor is mine.
 
-She lets out a deep sigh.
+**Cruise Ticket Seller**：It seems you're in for a truly novel experience tonight.
 
-**Coach**：You're a failure, Charlotte. I can't tell you how disappointed I am in you.
+**Guest**：I intend to fully enjoy it before my time on the cruise ends.
 
-**Charlotte**：But everything else up to then was perfect! My last coach told me my movements were the most standard she'd seen.
+**Guest**：I made sure I was first in line for the song requests, hours ahead of the concert, and now here I am—the closest spot in the house.
 
-The coach sneers.
+**Guest**：But for Signorina Barcarola, it is worth every effort.
 
-**Coach**：So where are you going to find those 1.2 points you just lost? In your old coach's mouth? You listen to me now, girlie, the competition rules don't bend to accommodate little girls who can't use their arcane skills.
+**Crew Member II**：Shh! I can see it! That's her Crackling Box.
 
-**Coach**：Don't get cocky, Charlotte. I've seen my fair share of Floor Ritualists in my time, and your arcane skills are by far the least impressive.
+How do you spot a musician in a crowd?
 
-**Coach**：Think about it. You need to have a long, hard think about what happened here today.
+Where Barcarola is concerned, the first thing that catches anyone's eye is her remarkable instrument.
 
-She murmurs this, as if she's almost speaking to herself, then sighs and leaves the training room.
+**Barcarola**：Welcome, welcome! Ladies and gentlemen, guests of the "Free Breeze," benvenuti! I welcome you aboard and thank you for joining us on our journey!
 
-**Charlotte**：...
+**Barcarola**：As the ship's musical conductor, I will be performing tonight's concert for you.
 
-**Charlotte**：I'm not a failure!
+An unusual instrument flashes from the cabin door.
 
-> **Title card：** Willow's House
+Riding atop a sea of applause and cheers, the petite girl takes the steps up to the stage with an air of musical grace.
 
-**Willow**：...
+**Barcarola**：As always, I've received all of your song requests.
 
-A terrible nightmare. She grits her teeth in the dim light of her bedroom.
+**Barcarola**：Tonight's performance will follow the sequence of your requests. However, I regret that I must once again affirm my rule that I will not be playing any piece twice during the entirety of this voyage.
 
-The clock on the wall inches toward 7 o'clock. It's almost time for her appointment. She slides her legs off the edge of the bed and attaches her prosthetic limb.
+**Barcarola**：As our musical director, I must ensure that each of you is able to embrace the true diversity of music and sound.
 
-Her stump is always slightly swollen due to the constant and prolonged pressure of her artificial appendage. As she moves, its creaking echoes through the otherwise silent room.
+**Cruise Ticket Seller**：I wonder what she will do. Does she have a tune already in mind, or maybe she'll improvise something new?
 
-*ring-ring-ring*
+**Guest**：Shh! Quiet, quiet!
 
-**Willow**：Bloody hell. Just perfect timing ...
+The man gestures for the crew to be quiet, straightening up as if a king seated on his barrel throne.
 
-She hastily fastens the leather strap of her prosthetic leg. As she stands, her poor fastening comes loose, causing her to fall heavily to the ground.
+The whole stack of request forms is displayed before Barcarola, before she retracts them close to her.
 
-**???**：Ms. Willow! I heard a loud bang just now. Have you taken a tumble?
+**Guest**：Good heavens, I've never been this nervous.
 
-A young voice echoes from the other side of the door.
+She picks up the first form, reading the handwriting with a careful and considered scan.
 
-**???**：Ms. Willow, could you open the door for me? One of the snails is about to crawl up my hand!
+Then she folds it.
 
-**Willow**：Oh, have a feckin' laugh, why don't you?!
+**Guest**：I'm ready. This is sure to be a phenomenal experience.
 
-She hops over to the door and opens it with a sullen expression on her face. Her prosthetic is left lying on the floor.
+She holds the paper, and then proceeds to leaf it back into the stack.
 
-**Flutterpage**：Here you go, Ms. Willow! Your snails for the week.
+Before lifting up the next form.
 
-**Willow**：...
+**Guest**：What?!
 
-**Flutterpage**：You alright?
+**Crew Member II**：Perhaps you requested a piece that has already been performed?
 
-**Willow**：Mind your own business, will you? Give me the snails.
+**Guest**：No, no, impossible! I—
 
-Flutterpage blinks, then holds the jar of snails up to Willow.
+**Guest**：All I wrote was a word, a place ... I had hoped that Signorina Barcarola would grace me with a melody that might remind me of it again!
 
-**Willow**：Hurry on to the letterbox and pick up your reward for the week.
+The "king" is so shocked. He nearly falls from his barrel throne.
 
-**Flutterpage**：Could you give me a different reward this week, Ms. Willow?
+But the performance does not pause for him. The music and words continue to flow.
 
-**Willow**：What?
+**Barcarola**：Okay, tonight's opening piece shall be Boléro.
 
-**Flutterpage**：I'm thinking ... For my reward, could you tell me what you do at home all day?
+**Barcarola**：Although we're lacking the space to give this piece a proper dance, I encourage everyone to join in and take a few steps!
 
-**Flutterpage**：Thompson says there are strange noises coming from this house every day, like a hundred frogs croakin' at the same time. Is that your arcane skill? Why's your arcane skill like that?
+**Guest**：I don't believe my ears!
 
-**Flutterpage**：Ms. Willow, can you tell me how-how I can—
+**Guest**：How could a great musician such as her be bested by so trivial a request.
 
-**Willow**：Get out of my garden!
+**Guest**：I must ask her. I need to know why she skipped my request.
 
-**Flutterpage**：But ...
+**Cruise Ticket Seller**：Easy there, signore.
 
-**Willow**：Did you hear me? I said:
+The crew members instinctively reach out in perfect sync, one to the left and one to the right, grasping at the guest as he rises from his seat.
 
-GET OUT OF HERE!
+**Cruise Ticket Seller**：Signorina Barcarola didn't throw away your request. She merely tucked it away.
 
-Before she even finishes her exclamation, she has already slammed the door shut.
+**Cruise Ticket Seller**：You've already seen several performances. You must realize that this doesn't mean that she won't play it.
 
+**Crew Member II**：Congratulations, signore. I believe this may mean you are in for a special delight!
+
+Anytime our Barcarola breaks from the norm, it can only be a sign of some particular stroke of genius.
+
+Their reassuring words have a silver-tongued sheen to them, coaxing the man's frustrations away.
+
+**Guest**：... Fine.
+
+But, before the man can retake his throne, he turns to see a child has usurped him. The dethroned king leans against the wall, sulking.
+
+And his two courtiers follow closely in his wake.
+
+**Cruise Ticket Seller**：We've been working alongside Signorina Barcarola for a while now. We're very familiar with her methods.
+
+**Cruise Ticket Seller**：Please, signore, wait. A little patience, and I assure you: you will have your satisfaction.
+
+**Crew Member II**：In her two years performing for the "Free Breeze," we've never received a single complaint or negative review!
+
+Light footsteps approach, and a voice joins the conversation at just the right moment.
+
+**Cruise Ship Musician**：Has she really been aboard the ship for that long now?
+
+**Cruise Ticket Seller**：It doesn't seem so long ago, does it? When she first came aboard, she had only wanted to observe and help out with the maintenance while we were at port.
+
+**Cruise Ticket Seller**：Whenever we returned, and we returned frequently. She was always there waiting for us, until she joined us officially.
+
+**Cruise Ticket Seller**：Everyone has chipped in at some point to help her scrape together some musical gear, cassette tapes, or various little gadgets.
+
+The rising sound of music begins to overtake their conversation in the corner of the hall.
+
+The ticket seller acknowledges the new participant in their conversation.
+
+**Cruise Ticket Seller**：Oh, you received a gift from her too, didn't you?
+
+**Cruise Ticket Seller**：I imagine that cassette is still tucked under your pillow.
+
+**Cruise Ship Musician**：Oh, yes.
+
+**Cruise Ship Musician**：A record of a treasured memory.
+
+**Guest**：Please, if I might ask—why did she decide to join the "Free Breeze"?
+
+**Guest**：I mean no disrespect. Only that, with her rare talent, it seems almost a waste that she be confined to just a single ship.
+
+**Cruise Ticket Seller**：Perhaps the only reason is that we were the first to invite her.
 
 ---
 
 <a id="episode-2450102"></a>
 ## 2450102 · Promised Destinations
 
-### Segment 1 · `script 310402`
+> **Title card：** Promised Destinations
 
-> **Title card：** Machine Lubricant
+> **Title card：** Inland Port, Cremona
 
-As the door closes, her solitary leg can no longer bear the weight of her body, and she falls to the ground in disgrace.
+**Cruise Ticket Seller**：Do you really mean that you won't join the "Free Breeze" Band, Signorina? If you were to join, I know the captain would be over the moon!
 
-**Willow**：Huff ...
+**Cruise Ticket Seller**：When we played him the song we recorded last time, he borrowed the tape on the spot and still hasn't given it back!
 
-She reaches for her prosthetic leg and closes the metal clasps around her stump. At least now she looks like an ordinary person.
+**Cruise Ship Musician**：Oh yes, please, Barcarola! Aren't you always talking about how much fun it would be to travel the world on a big ship?
 
-**Willow**：Alright, let's take a look at these snails. These footless little things.
+**Cruise Ship Musician**：I'll tell you right now, I'd much rather have you join us than some random musician off the street!
 
-**Willow**：Or I suppose their entire body is a foot. That's why they're called "gastropods."
+More and more fervent invitations leap up to overwhelm the young girl sitting on the ground.
 
-**Willow**：Anyway, the swelling in my leg has gone down since I started using their mucus as lubricant.
+**Barcarola**：Hmm ... I'm thinking ...
 
-One by one, she places the snails on a table, arranging them neatly side by side. As they crawl forward, they leave a trail of shiny mucus.
+**Barcarola**：Something's still missing. Oh! It's here!
 
-**Willow**：Good, just like that. Keep it up now.
+**Barcarola**：Astrictus!
 
-She closely monitors the snails as they make their way across the table, and its surface starts to shine with mucus.
+The subtle friction of the device's components forms a harmonious melody.
 
-**Willow**：You're falling behind, Number 3!
+As if accomplishing some momentous feat, the little girl rises with a beaming smile and announces loudly—
 
-The third snail has curled up inside its shell.
+**Barcarola**：It's fixed! The reeds inside the melodica were a bit loose, but I glued them up nice and securely!
 
-**Willow**：Number 5 is gaining speed, overtaking Number 1, but victory is still far off.
+**Barcarola**：Here you go. I think that I overcomplicated things at the start. I hope you didn't mind the wait ... scusa.
 
-The fifth snail extends its body, slowly overtaking snail Number 1.
+**Cruise Ticket Seller**：What does ten minutes matter? We're not setting sail until tomorrow anyway. This is downtime for us, and we can spend it however we want.
 
-**Willow**：Bloody hell! Honestly, Number 8, don't you know the rules? You can't climb on top of Number 5!
+**Cruise Ticket Seller**：But, you did fix up the melodica up properly, no?
 
-The two snails roll into a ball and fall off the edge of the table.
+**Barcarola**：Certo, I'd say it's set for a hundred years now! Maybe you can pass it down to your children as a family heirloom!
 
-**Willow**：I'm afraid you're both disqualified.
+**Barcarola**：Nothing else needs repairing, does it?
 
-Number 7 has crawled the farthest, but Willow says nothing. She simply looks down at it with a strange coldness in her eyes.
+**Cruise Ticket Seller**：No, no, nothing at all. We thought about going around breaking everything on the ship just to keep you around, but if the captain caught us, he'd have us swimming with the fishes.
 
-She waits until it reaches the other end of the table. If this were a real race, the timer would end now.
+**Cruise Ship Musician**：Don't exaggerate. The captain is a kind man. Barcarola, don't listen to his nonsense.
 
-**Willow**：Allow me to announce the results. The winner is—Number 1!
+**Cruise Ship Musician**：Will you accept that invitation? I really do hope that you'll join us!
 
-She declares the result, a hint of bitterness in her voice.
+**Barcarola**：I know—we could count the fishtails splashing out of the ocean together, listen to new songs in different ports, and earn the applause of passengers from everywhere in the world.
 
-**Willow**：But unfortunately, this isn't a real race. There'll be no gold medal waiting for you at the finish line.
+**Cruise Ticket Seller**：Not to mention sampling the specialties of each and every taverna along the way.
 
-**Willow**：I simply need as much mucus as possible. That's the only purpose of this.
+**Cruise Ship Musician**：We'll busk on the streets when the ship's docked to earn a little extra cash.
 
-She gathers the snails and tosses them into the jar before deftly collecting the mucus from the table.
+**Cruise Ship Musician**：We can come along to help you find new instruments! No more waiting around for us to come back.
 
-**Willow**：Snail mucus, swiftlet saliva, and a few catalysts.
+**Barcarola**：But the "Free Breeze" sails so far away.
 
-The translucent ointment in the crucible is smooth and docile. Willow scoops some of it up with a spatula. It catches the light through the window, scintillating with a charming luster.
+**Barcarola**：I worry for my parents. How would they feel if I was so far away where not even a postcard or phone call could reach me?
 
-**Willow**：A fine semifinished salve. All it needs now is a cooling incantation.
+Silence.
 
-**Willow**：Howling  winds  of  winter!
+Time after time, their invitations fell away to silence.
 
-The ointment solidifies, becoming a pale yellow.
+**Barcarola**：But maybe things will change. I haven't even finished my final exam! When I get first place, I'll be sure to let all of you know!
 
-As usual, she removes her prosthetic and applies the lubricant to the joints. She moves it around, ensuring that it no longer creaks.
+**Cruise Ship Musician**：Will you remember to tell me first?
 
-**Willow**：I suppose that'll do.
+**Barcarola**：Of course! You have the word of Cremona's number one up-and-coming music star!
 
-She fits the prosthetic once again and hops with a feigned lightness, the metal limb clanking on the floor as she does so.
+**Barcarola**：I swear, after I pass the exam, I'll quickly gather my things, dash off to the port, and hop onto the "Free Breeze," just like—*click*
 
-She lifts her good leg, using the prosthetic for support.
+**Cruise Ticket Seller**：Hah! More like "boom"! When you finally do come aboard, the weight of your luggage might just sink us all!
 
-**Kid I**：Hey. You hear that? It's coming from the hag's house!
+**Barcarola**：Oh, no special treatment for aspiring virtuosos?
 
-Children's voices seep in from outside.
+**Barcarola**：If you're worried my collection isn't compact enough, I'm close to solving that problem too.
 
-**Kid II**：I wonder what kind of curse she's cookin' up now.
+**Barcarola**：Whether it's the violin, saxophone, piano, or melodica—anything other instruments can do, my new invention will do it better.
 
-**Kid II**：My uncle told me to watch out for Irish witches. They have big red eyes and webbed toes like a frog's. Have you ever seen her feet, Thompson?
+**Barcarola**：My Crackling Box is going to shake the world of music to its roots!
 
-**Kid I**：No ...
+**Barcarola**：First things first. I believe you have a little something I requested.
 
-**Kid II**：Ugh. Booorin'.
+**Barcarola**：Now hand it over!
 
-The "hag" is far too busy to pay attention to these voices. She is attempting a complex Floor Ritual element. If executed perfectly, she would gain an additional 0.6 points in a competition.
+She extends an open expectant hand to her friends, her eyes gleaming.
 
-She tilts her body downward, lifting her steel limb high into the air, then presses down.
+**Cruise Ship Musician**：I chose the one with the most beautiful tone, just for you.
 
-Meanwhile, the argument outside intensifies.
+**Barcarola**：A clarinet. Hmm ... the maestro of the ensemble, extremely popular. Wide application, with adaptable tone changes.
 
-**Kid I**：I see. One of her feet makes a sound like a croaking frog. Ribbit, ribbit.
+**Barcarola**：Grazie mille! The timing is perfect. I will incorporate it into my Crackling Box!
 
-**Kid I**：Actually, it's just like the sound coming from her house right now!
+She grabs the clarinet and, with her other hand, offers a cassette tape.
 
-**Kid II**：What?
+**Barcarola**：All my best pieces I've come up with recently are all on here. Some are practice sessions, and a few melodies I composed myself.
 
-Even after lubrication, her prosthetic still makes a harsh scraping sound. Willow presses down with all her might until her spine and the steel groan together.
+**Barcarola**：Oh, and the sounds of footsteps on cobblestone streets, doves fluttering their wings, the waves on the river on a windy day, the sound of wood being polished in the bottega ...
 
-**Willow**：Not enough.
+**Barcarola**：This is the "essence" of Cremona. I even climbed the bell tower to record the breeze sweeping by from above.
 
-**Willow**：This is just the weight of the metal, not my own strength.
+**Cruise Ship Musician**：I'm almost done with mine. One thing I can tell you in advance—I recorded an especially unique performance on the streets of Sydney.
 
-She grits her teeth and presses her leg down lower. As her body extends, the metal prosthetic screeches louder.
+Vinyl records are slowly being phased out, and CDs are only now gaining popularity. This is the heyday for cassette tapes.
 
-*screech—screech*
+They can carry many things—a speech, pre-recorded music programs, sounds from around the world.
 
-**Willow**：Urgh!
+Some even faithfully record the heartbeat of a city, becoming gifts for cherished friends.
 
-She loses her balance and falls to the floor once again.
+**Cruise Ship Musician**：Next time, no, the time after that, which place would you like to hear next?
 
-**Kid I**：Perhaps she's caught someone! She's probably throwin' them in her cauldron as we speak!
+**Barcarola**：Melbourne or Perth, Brisbane, Fremantle ...
 
-**Kid I**：We have to go rescue them!
+**Barcarola**：I can contrast their sounds and try to add their unique characteristics into my songs.
 
-**Kid II**：Er—What should we do? Fetch some grownups?
+The friend accepts the gift, placing it into her pocket.
 
-**Kid I**：Pah! Grownups are all a bunch of chickens. They'll just tell us to stay away. No, it's down to us, Albert. We have to go save whoever the hag has caught before it's too late! Quick, grab some stones!
+**Cruise Ship Musician**：Alright, next time, I'll bring you two tapes—Sydney and Brisbane.
 
-The sound of hurried footsteps echoes through the garden.
+**Barcarola**：Deal! You must make it back in time. If I get them before the exam, I should have time to prepare.
 
-*crash* A stone smashes through the window and hits the floor near Willow's feet.
+**Cruise Ticket Seller**：Rest assured. The captain is familiar with this route. There won't be any mishaps. Don't worry.
 
-**Kid I**：You wicked old hag! Come out and catch me if you can!
+**Cruise Ticket Seller**：As for that exam, what was it again? Making a violin by hand and then performing on the spot—shouldn't that be a walk in the park for you?
 
-**Willow**：Bloody hell!
+**Barcarola**：It's not as easy for me as you think. Even though I've been putting most of my time into preparing for it.
 
-Another stone, and another crash of breaking glass.
+**Barcarola**：I plan to perform my own music.
 
-**Willow**：Scheming little devils!
+**Cruise Ship Musician**：You mean like the practice pieces on your tape?
 
-Ignoring the pain in her limb, she goes to the window to yell at them.
+**Barcarola**：It should be even more beautiful than them. I've been layering sounds from different instruments and places all around Cremona, arranging them meticulously into a complete composition.
 
-**Willow**：Get away with you!
+**Barcarola**：Violin and clarinet, French horn and timpani, saxophone, harp, even oud, tin whistle, pan flute ...
 
-**Kid II**：Waaahhh! It's the hag!
+**Barcarola**：The Crackling Box will be able to emulate the timbre of each and every instrument in the world!
 
-There it is again. Another wailing child.
+A bold and steadfast vow.
 
-**Willow**：Shut  your  mouth!
+**Barcarola**：There are pieces suitable for recording and others for live performance. Just as the music played in the piazza is quite different from what one plays in a church.
 
-Miraculously, the crying actually ceases.
+**Barcarola**：Some sounds are more beautiful when heard in specific environments, and some are hard to reproduce even with the finest instruments.
 
-**Willow**：All of you ...
+**Barcarola**：My dreams are larger than just playing the violin.
 
-**Willow**：Get  the  bloody  hell  out  of  my  garden!
+The words come out rehearsed, and they have been many times; still, they are not ready to be heard by the audience that matters.
 
-### Segment 2 · `script 310403`
+On the grass by the river, though, her true wishes flow out more easily.
 
-> **Title card：** Garden
+**Cruise Ship Musician**：Then you absolutely, positively have to join us on the "Free Breeze"!
 
-**Willow**：This is ...
+**Cruise Ticket Seller**：With this invention of yours, you'll be an entire one-woman orchestra. Tickets will sell like gelato on a hot day!
 
-Although an imitation, it is indeed a gold medal.
+**Cruise Ticket Seller**：Forget about being in the band. We might just make you captain!
 
-**Kid II**：Hey! Give me back my gold medal!
+**Barcarola**：Then my first order of business as capitano shall be to turn the ship into a maritime concert hall, and we'll return only three times per year—make that twice!
 
-Flames have been crudely carved upon its surface.
+**Barcarola**：But before that, I need to pass my exam.
 
-**Willow**：Where did you get this from?
+**Barcarola**：Until next time. I have to rush home before rehearsal ends so that I can lie in my room pretending to have a stomach ache.
 
-**Kid II**：Why should I tell you?
+**Cruise Ticket Seller**：As you wish, capitano!
 
-The child presses his lips tightly shut, a determined look in his eyes.
+**Cruise Ship Musician**：You'll do great, Barcarola!
 
-**Willow**：Tell me.
+The young musician runs off but doesn't forget to wave a heartfelt goodbye to her friends.
 
-**Kid II**：...
+> **Title card：** Barcarola's Home
 
-**Kid I**：That's a souvenir from the Uluru Games! Sister Martha gave it to us. She said it would bring us good luck.
+**Barcarola**：Made it! Looks like no one's back yet.
 
-**Kid II**：Thompson!
+**Barcarola**：Perfect! My new recording's theme will be "A Day in Cremona."
 
-**Kid I**：Th-That's everything I know. Can you let us go now?
+**Barcarola**：After all, they're always saying they appreciate a little soothing music from home to help them sleep while at sea.
 
-The "hag" gives a mocking sneer.
+The tune she plays is a familiar lullaby. According to her mother, everyone in the family has hummed its gentle melody to her at some point.
 
-**Willow**：Is that so? So the medal did bring you good luck after all.
+Barcarola's day used to begin with it.
 
-**Willow**：Go on, take it. Take it and ...
+She sets the instrument, now both a violin and clarinet together, in her hands and sits at the window, looking out down the river to the sea that lies far beyond the horizon.
 
-**Willow**：Get  Out!
+She breathes deeply, allowing the air to flow evenly and smoothly from her chest.
 
+**Barcarola**：On the sea glitters the silver star.
+
+**Barcarola**：Gentle the waves, favorable the winds.
+
+One more time.
+
+**Barcarola**：On the sea glitters the silver star ...
+
+One more time?
+
+**Barcarola**：Forget it. "Repeated failure leads to success" is too easy a trap to fall into.
+
+**Barcarola**：Somehow, it never sounds as good as when I was little.
+
+**Barcarola**：Perhaps the timbre has changed. Just as violins made from wood with different grains sound different.
+
+**Barcarola**：Or maybe it's because my environment has changed. Where did I use to sing this song?
+
+She slides her hand up fluidly from the wooden cabinet's edge to rest against her forehead.
+
+The corners of the furniture bear splashes of paint marks. Back then, she had to raise her left hand high and stretch out the brush to reach it. Now, she has to squat down to see her graffiti clearly.
+
+**Barcarola**：Varnishing violins is an art. How could a child possibly understand it?
+
+**Barcarola**：And naming things. Sigh, in the future, when they introduce me, they'll have to say, "This is the great musician Barcarola, and her treasured instrument, the Crackling Box."
+
+Today is the same as countless other afternoons in the past.
+
+Another lonely afternoon spent with her Crackling Box.
 
 ---
 
 <a id="episode-2450103"></a>
 ## 2450103 · A Monotonous Rondo
 
-> **Title card：** Fallen Swan
+### Segment 1 · `script 310803`
 
-The farce has come to an end.
+> **Title card：** A Monotonous Rondo
 
-The sparse vegetation in her garden has been left in disarray by the incident. The purple potato flowers lie scattered upon the soil.
+> **Title card：** Barcarola's Home
 
-**Grandma**：Nice! It's spud season again.
+**Barcarola's Mother**：Thank you all for taking the time to visit us.
 
-**Grandma**：Charlotte, I've made ye mashed tatties for breakfast today, with plenty of sweet cream—yer favorite.
+**Barcarola's Mother**：The violins used in this demonstration are merely samples. Next month, we will hold a formal concert with them.
 
-**Charlotte**：Coach says I can't eat this anymore. Floor Ritualists need to keep their figures trim. She says that if I want to win the gold, I need to—
+**Barcarola's Mother**：If you have any questions or suggestions, please feel free to share.
 
-**Grandma**：Oh, Charlotte. Now they've got ye worried about yer eating too?
+**Barcarola's Mother**：A violin that fits its player's habits is the best violin.
 
-**Grandma**：I know you're a good little thing, and you like yer Floor Ritual very much, but with all that training ye do, and with all this growing you've still to do, you have to eat properly, otherwise you'll wither away into nothing!
+Merchants, musicians, collectors, and a few curious researchers.
 
-**Grandma**：Just take one bite, eh? How about it?
+This house never lacks for enthusiastic visitors.
 
-**Charlotte**：One bite ...
+**Barcarola's Mother**：Oh, Federico is really very busy. The bottega always keeps him tied up.
 
-**Coach**：What did you have for breakfast?
+**Barcarola's Mother**：If you want to order a violin, you'll need to discuss it with him. We have several excellent apprentices, but if you insist on having him make it personally, I'm afraid you'll have to wait some time.
 
-Her eyes are fixed on the small clump of mashed potatoes left hanging on the girl's chest.
+**Barcarola's Mother**：I don't know when exactly. He's been eating and sleeping at the bottega these past few weeks. He's only been back once and even then just to grab something.
 
-**Coach**：Creamy mashed potatoes?
+The hostess smoothly handles the flurry of questions.
 
-Before the girl can react, she explodes.
+In a corner of the room, a small figure holds her breath, waiting for her moment.
 
-**Coach**：How many times have I told you?! If you want results, you can't eat rubbish like this!
+**Barcarola**：I'm about to nod off before the performance even begins.
 
-**Charlotte**：I was just trying to get a little energy.
+**Barcarola**：My parents never took my Crackling Box seriously. They always say my friends are only humoring me when they say they like it.
 
-They both know this is just an excuse.
+**Barcarola**：This time, we'll see how complete strangers react, and I'll know for sure.
 
-**Coach**：The Uluru qualifiers are in three days, Charlotte! Did you forget that little fact?
+Curled up in the cabinet, the girl holds her instrument tightly, careful not to let it get knocked around.
 
-**Coach**：Or do you think that pathetic speck of talent of yours gives you the right to get complacent? Eh?!
+**Barcarola's Mother**：Yes, an Amati-style violino delivers a mellower, more classical, and pure sound—like the sound of spring water.
 
-**Coach**：If that's what you think, then let me tell you now, Charlotte.
+**Barcarola's Mother**：But if you prefer a brighter sound, the next performance should satisfy you.
 
-A cruel smile spreads across her face.
+**Barcarola's Mother**：Stradivari violins have never failed their reputation in this regard.
 
-**Coach**：What a waste of space you are.
+Several apprentices have already positioned violins on their shoulders.
 
-**Coach**：There'll be no shortage of talent at the qualifiers.
+As soon as the hostess finishes speaking, a harmonious melody follows.
 
-**Charlotte**：Why? I know I shouldn't have done it, but you don't need to humiliate me like this!
+**Collector**：Bravo, bravo. In the music hall, I'm certain the sound quality will come through even more clearly.
 
-**Coach**：Humiliate you?
+**Collector**：That inclined neck is a stunning work of craftsmanship.
 
-She gives a sharp, cruel laugh.
+**Merchant**：Haha. I happen to have an order from an orchestra here. I know it will be a wait, but for this quality, even a year will be worth it.
 
-**Coach**：You're right. I don't need to humiliate you. Because the moment you walk out on that floor beside real athletes, you'll have already done it to yourself.
+Taking advantage of the quiet conversation, new notes quietly diffuse into the air.
 
-**Coach**：Go ahead. I won't stop you.
+### Segment 2 · `script 310804`
 
-She is casual in the face of this cruel remark.
+**Collector**：Oh, how novel! Besides violins, we will indeed need other timbres as a complement.
 
-**Charlotte**：...
+**Musician**：Of course, amici! Young children need such diversions to cultivate their musical sense.
 
-**Coach**：Go ahead and eat your creamy mashed potatoes if you love them so much. Oh, and Her Majesty needs her beauty sleep, too. Why not go ahead and cancel your morning training? In fact, why not take the whole day off?
+**Collector**：Hahahaha, who hasn't been there?
 
-**Coach**：Sports are just too exhausting, I know. Not only do you have to put up with your aching muscles, but you have to watch what you eat and deal with your bossy old coach. After all, you're Lady Charlotte, a fine noblewoman.
+The music ends, followed by sustained, enthusiastic applause.
 
-**Coach**：How could a noble be asked to sweat on the red land of Uluru? She should be sitting in the audience, yes, in the audience with a parasol and a cool drink, no?
+The hostess also offers a few begrudged words of praise.
 
-**Coach**：I shan't waste my energy on you any longer.
+**Merchant**：It appears this little surprise was arranged specially for us all. Now I'll really have to grit my teeth and order a few more violins.
 
-She turns and exits the training ground without a backward glance.
+**Merchant**：If possible, perhaps you would introduce us to our elusive performer?
 
-**Charlotte**：...
+**Barcarola's Mother**：My apologies. Troubling this particular performer might be quite overwhelming. Our giovane has a touch of stage fright.
 
-Charlotte slowly clenches her fists.
+**Barcarola's Mother**：But I believe you'll meet at next month's concert, signore.
 
-**Charlotte**：Feck!
+**Musician**：A giovane! I'll be sure to arrive on time then, signora.
 
-**Charlotte**：I'm not ...
+The small audience's discussion eventually fades into the distance.
 
-She punches the wall, and the pain in her knuckles fills her with bitterness.
+A hand raised in the dark gently falls on the Crackling Box.
 
-**Charlotte**：I am not Lady Charlotte!!
+**Barcarola**：I knew it. They adore you!
 
-She grits her teeth as her sinuses sting. She holds back her emotions, not letting the tears flow from her eyes.
+**Barcarola**：But this isn't some practice toy for bambinos! Hmm, perhaps because it was too sudden and unexpected. I'll need to prepare more.
 
-**Charlotte**：I will win that gold medal.
+**Barcarola**：Just—
 
-She presses her leg hard against the wall, her whole body bending into a gentle curve.
+Rapid footsteps draw near.
 
-She begins the routine she has practiced a thousand times before, but this time alone in the room. Her body traces arcs in the air as she leaps and lands through each element.
+**Barcarola's Mother**：Come out now, Barcarola.
 
-**Charlotte**：0.2, 0.5, 0.3, 0.7, 0.4 ...
+**Barcarola's Mother**：Like a thief in the night. Have all the good manners we taught you gone out the window?
 
-She silently records the score of each element as she goes.
+**Barcarola**：*gasp*
 
-Next comes the most important part—the arcane skill segment.
+**Barcarola's Mother**：Skipping practice, wasting time down at the river, and let us not mention that bow you made at the bottega—thoroughly unacceptable.
 
-**Charlotte**：Huff ... huff ...
+**Barcarola's Mother**：What good do all your gifts and intelligence do if they're so poorly utilized? Aren't there enough mad geniuses in the family already?
 
-She closes her eyes.
+**Barcarola**：That bow was custom-built! I made it for my instrument ...
 
-Invisible energy flows through the air.
+**Barcarola's Mother**：Come on out now! No more excuses.
 
-**Charlotte**：Phew. Eye of Day, Keeper of Balance. You are the Endless Well.
+**Barcarola**：Wait! Mamma!
 
-**Charlotte**：Healing Sulis, shining Sulis, holy Sulis, to us, you tell.
+**Barcarola**：Astrictus ...!
 
-A faint glow appears before her eyes.
+At this critical moment, her Astrictus heartlessly forsakes her.
 
-**Charlotte**：You warm our souls, heal our wounds, and grant us endless peace.
+Another minor blunder in her countless failed attempts.
 
-The light is as warm as spring. She reaches out her hand to it.
+Her mother's hand grasps her wrist, pulling her and the Crackling Box out together.
 
-**Charlotte**：If only I could touch the hem of your garment, that flowing, loving radiance ...
+**Barcarola**：Alright, mi dispiace, Mamma ...
 
-**Charlotte**：...!
+**Barcarola**：But they loved my performance! I heard their applause!
 
-**Charlotte**：Did I do something wrong? Why can't I see your radiance?
+**Barcarola**：They really praised it! It wasn't just to humor me. Didn't you hear them?
 
-The energy still flows beside her, stirring her hair and softly ruffling the feathers on her leotard.
+**Barcarola**：...
 
-**Charlotte**：Why can't I see you? Why do you reject me? How can I win your favor?
+**Barcarola**：I just don't want to only play the violin.
 
-In the endless darkness, her voice is the only echo.
+An inconvenient confession.
 
-**Charlotte**：I'll do anything—give you anything—just please, let me win that gold medal!
+**Barcarola's Mother**：Let me see your instrument.
 
-**Coach**：Hah.
+**Barcarola's Mother**：Why the hesitation? Always trust your own craftsmanship. Have you forgotten that too?
 
-That voice shouldn't be here. She opens her eyes, startled.
+This instrument is visibly different from every other violin, viola and cello in their workshop. In fact, it's barely recognizable as a violin at all.
 
-**Charlotte**：What are you—
+Its proportions are out of place and oddly shaped. The violin's neck is itself formed from what appears to be a clarinet.
 
-**Coach**：I came to get the wire recorder.
+**Barcarola's Mother**：...
 
-**Charlotte**：The wire recorder?
+**Barcarola's Mother**：Your father and I selected the best spruce and maple for your violin. It's not easy to find wood with such tight and even growth rings.
 
-But the wire recorder is for everyone to use. It's always in the training room. She's never seen anyone take it out of here before.
+**Barcarola's Mother**：I prepared the best varnish I've ever mixed for this.
 
-**Coach**：Charlotte, the cruelty of competitive sports is that even if you give everything, you're very likely to end up with nothing in return.
+**Barcarola's Mother**：We wanted to give you the most special gift we could—one that fits you best, an instrument you would love most of all.
 
-She continues, half speaking to herself.
+**Barcarola's Mother**：Do you like it?
 
-**Coach**：I thought you'd understand this. But, no, you're just a ridiculous, foolish little girl.
+**Barcarola**：Yes, Mamma. It has a name. It's my beloved Crackling Box.
 
-**Coach**：Think about those who came before you. Saoirse, for example. Everyone thought she'd win the games hands down, even her competitors.
+**Barcarola's Mother**：Despite these embellishments, you've done well for someone your age.
 
-**Coach**：But in the end, she injured herself before she could compete. She never even saw Uluru for herself, only heard those three haunting syllables repeated by everyone around her. Of course, you know better than I what happened to her after that.
+**Barcarola's Mother**：Take it.
 
-**Charlotte**：She jumped off London Bridge.
+Her mother's actions surprise her. The explanations she had prepared all slip away.
 
-**Coach**：What makes you think you won't be the next? That you won't end up like her?
+Ultimately, she can only inquire softly—
 
-**Charlotte**：I—
+**Barcarola**：You're not angry, Mamma?
 
-**Coach**：On your feet!
+**Barcarola**：Then you've finally embraced my idea? I'm so happy!
 
-An unexpected command.
+**Barcarola's Mother**：I'm not mad at you, Barcarola.
 
-**Coach**：The last element you just performed. Do it again.
+Her mother's words are gentle but coiled.
 
-**Coach**：The qualifiers are just around the corner, and you're still jumping like that? If you aren't able to bring forth your arcane skill, you absolutely cannot afford to make a single mistake in the rest of your routine.
+**Barcarola's Mother**：I'm just disappointed. I once believed you were talented enough to take over the family bottega or become a great musician in your own right.
 
+**Barcarola's Mother**：But who would ever take this Crackling Box of yours seriously? Who would buy such an instrument, and who in the world would ever wish to listen to it?
+
+**Barcarola's Mother**：For all that talent, do you really think that the people of Cremona will ever recognize you with this? That you can pass your exam with it?
+
+**Barcarola's Mother**：Without the Stradivari name behind you, would anyone applaud?
+
+Even in her mother's dulcet calm voice, the questions sink deep, and the smile disappears from Barcarola's face.
+
+**Barcarola**：No. I don't perform for their applause!
+
+**Barcarola**：All you care about is the violin. Is there really nothing else, no room for anything more?
+
+**Barcarola**：The violin botteghe aren't doing as well as they used to, Mamma. We have fewer and fewer workshops every year. Haven't you noticed?
+
+**Barcarola**：Why can't we make changes that go beyond adjusting shapes, wood, and varnish formulas?
+
+**Barcarola**：Must we continue like this until we're completely left behind by the rest of the world?
+
+She fires back with a barrage of questions, stepping back from her mother with each one until she's almost left the room.
+
+This marks her second failure of the day.
 
 ---
 
 <a id="episode-2450104"></a>
 ## 2450104 · Passion and Hesitation
 
-### Segment 1 · `script 310405`
+> **Title card：** Church, Cremona
 
-> **Title card：** Flickering Candlelight
+The city is dotted with many churches, and their unattended pews at times serve as sanctuaries for those seeking a place of solitude.
 
-> **Title card：** Uluru Qualifiers Stadium
+Amid the bustling streets of Cremona, there is one such pew in one such church—a small quiet spot that belongs to Barcarola alone.
 
-The day of the qualifiers is met with unfavorable weather, as a faint haze lingers in the air. Everyone agrees that today is not a good day for rituals.
+**Barcarola**：I've already recorded the reverberations inside the church. Ah, if only there were an organ here ...
 
-A familiar voice speaks beside her.
+**Barcarola**：The percussion might be unclear, though. Perhaps playing legato would be best.
 
-**Coach**：These are only the qualifiers, so I don't expect you to set a world record or anything. Just perform decently well, and you'll be sure to make it through to the next round.
+**Barcarola**：That's enough for today. I must find some time to visit the cathedral. With the differences in architecture and space, it's sure to have a unique acoustic quality.
 
-**Coach**：As long as you feel her on the floor, you'll be able to complete all the elements. Understand?
+The girl puts away the cassette tape and leans on a pew to observe her surroundings.
 
-**Charlotte**：...
+The stained glass reflects the sunlight in a dazzling array. When she was younger, she would run around catching those rays.
 
-The girl is too focused to speak. She gives a simple, vigorous nod.
+This empty church has kept many of her secrets, its saints the first audience to her compositions.
 
-**Coach**：Alright, go on then. Believe in yourself.
+It never opposed her vows and wishes, no matter how absurd they might sound, it gave her no confusion or doubt, it never responded at all.
 
-A warm hand pats her shoulder as she steps onto the floor.
+**Barcarola**：I shouldn't have told Mamma the world would leave her behind, should I?
 
-As the music starts, the darkest five minutes of her youth begin.
+**Barcarola**：She and Papà have to make violins, manage the bottega. They basically have to let the teachers take care of me most days. They certainly don't have time to travel.
 
-**???**：Oh! Congratulations, Caroline, on your victory on the floor.
+**Barcarola**：Did I mess up again?
 
-**Caroline Bartley**：Thank you.
+There are always exhibitions taking place at home, one after the other.
 
-Their voices are vague and distant, yet she cannot divert her attention from them.
+Anxious to prove herself, the child doesn't overlook this fact.
 
-**Caroline Bartley**：I must say, when I learned that Charlotte O'Hagan would be participating, I didn't expect to win first place, since we all know she's a world-class Floor Ritualist.
+She still lets the Crackling Box perform its melodies in them, she still earns the crowd's applause, and she is still prepared to be reprimanded by her parents.
 
-**Charlotte**：...
+But things are different now.
 
-**???**：Charlotte O'Hagan has finished in eighth, meaning she'll most likely miss the finals.
+**Barcarola's Mother**：You are right. We have indeed made some improvements to the traditional violin body.
 
-**???**：Floor Ritual has always had its roots in arcanum. If she's only here to compete for technical points, why doesn't she compete in another event?
+**Barcarola's Mother**：Such contours allow them to perform better in large concert halls.
 
-**Charlotte**：Feck!
+**Barcarola's Mother**：Yes, we test them many times to come as close to perfection as possible. The next exhibition is looking forward to your attendance.
 
-**Caroline Bartley**：I beg to differ.
+After seeing off the guests, the hostess turns back to the room.
 
-**Caroline Bartley**：Charlotte is an outstanding player. If you had observed her performance closely, you wouldn't be making light of her efforts.
+This time, without anyone pulling her out of the wardrobe, the girl stands steadily on her own two feet.
 
-**???**：But she made a huge mistake. She didn't even complete the ritual segment of her routine.
+**Barcarola's Mother**：What's wrong? Stellina.
 
-**???**：There was a critical failure in the stability of her ritual. Didn't you see? The clouds she summoned poured rain all over the judges' heads!
+**Barcarola's Mother**：Is there a problem with your classes?
 
-There is scattered laughter throughout the venue.
+**Barcarola**：No, Maestro Battista said I've made great progress with my vibrato technique.
 
-**Caroline Bartley**：...
+**Barcarola**：Mamma, I have something to ask you.
 
-**Caroline Bartley**：Sorry, sir, I will no longer answer any questions regarding Charlotte O'Hagan. I'm afraid your understanding of "sportsmanship" leaves much to be desired.
+Her mother's calm demeanor leaves her at a loss, forcing her to stammer through an explanation.
 
-**Charlotte**：...
+**Barcarola**：Maestro Battista said that music transcends race and status.
 
-Footsteps approach from behind her.
+**Barcarola**："It is another language that allows people to explore unknown worlds."
 
-**Coach**：What's on your mind, girl?
+**Barcarola**："Whoever you are, and wherever you go, it will always stir the depths of your soul."
 
-A brief silence ensues.
+**Barcarola**："As performers, we must fully comprehend the role we play. It is our duty to channel the emotions of music to the world."
 
-**Charlotte**：N-Nothing. I want to go home.
+**Barcarola**：I think the violin is great, but it can't express all my thoughts.
 
-She starts to lift herself up from her chair when a pair of hands presses her firmly back down.
+**Barcarola**：And in its current state, neither can my Crackling Box.
 
-**Coach**：Are you a coward?
+**Barcarola**：Violins can mimic human voices, but I want to find instruments that can imitate flowing water or the sound of fruit falling from trees.
 
-**Charlotte**：O-Of course not.
+**Barcarola**：I want to make the Crackling Box able to convey every sound in the world.
 
-**Charlotte**：I ... I don't want to be ... a coward.
+**Barcarola**：Do you think I'll succeed, Mamma?
 
-She bows her head deeply, her tears forming little puddles on the backs of her hands.
+**Cruise Ship Musician**：Did you manage to persuade your mother?
 
-**Charlotte**：But does it matter what I want? Will wanting to win a gold medal make it sprout wings and fly around my neck?
+**Cruise Ship Musician**：Wonderful, Barcarola! We're just about to set off!
 
-**Charlotte**：I can't control my arcane skill. No matter how strong I will it, the ritual energies won't heed my call. They just turned into wet clouds, and all I could do was stand there and watch them fly towards the judges' seats.
+**Barcarola**：It's like you're about to set off on a pirate adventure or something.
 
-**Charlotte**：Maybe I'm not cut out for this sport. Maybe it's just like that reporter said, and I shouldn't even be here.
+**Barcarola**：Anyway, this is for you.
 
-**Coach**：Listen, Charlotte.
+**Barcarola**：I know you wanted to listen to it, but I feel that the singing parts alone won't be enough to help you sleep!
 
-The coach's voice pulls her back to reality.
+**Barcarola**：So, I did a bit of research on the arrangement of lullabies.
 
-**Coach**：No one said you shouldn't be here.
+**Barcarola**：And I seized the opportunity to test the Crackling Box—nothing major, though.
 
-**Coach**：Do you know why you aren't able to perform the ritual?
+**Barcarola**：This one is called "A Day in Cremona." I went to the church yesterday specifically to record some quieter sounds.
 
-**Charlotte**：Why?
+As the girl introduces her new achievements, she finds herself unconsciously adopting a familiar tone.
 
-**Coach**：Because you care too much about your score.
+Just like a certain luthier proudly displaying the beautiful violins in her family workshop.
 
-**Charlotte**：But ...
+**Cruise Ship Musician**：I knew you'd have a surprise up your sleeve!
 
-**Coach**：Come with me.
+**Cruise Ship Musician**：And this is for you—two cassettes, just like you asked for.
 
-> **Title card：** Garden
+**Cruise Ship Musician**：I even met a guy from France with a Breton drum. It's got a really cool sound. I recorded a segment for you, right at the end of the tape.
 
-The garden is lush with thriving plants and blooming flowers.
+Their gift swap comes to an end, and the girls move on to discuss their lives.
 
-**Coach**：Energy flows constantly through the air around us. You have to think of it as a friend dancing along with you. After all, who would want to dance with an imaginary enemy?
+**Barcarola**：So, how's the "Free Breeze" been lately? You came back so quickly!
 
-**Coach**：Close your eyes.
+**Barcarola**：Was there some bad weather? No trouble this time, right?
 
-**Coach**：This isn't Uluru. The first thing you need to do is forget about the scoring rules.
+**Cruise Ship Musician**：Apparently, the captain had some personal matters to deal with. He didn't really explain it to us.
 
-**Coach**：Recite your prayer.
+**Cruise Ship Musician**：But we do have some big news. Notice how Brian didn't come back with us this time? He disembarked at a different port. We'll pick him up on the return trip.
 
-**Charlotte**：Eye of Day, Keeper of Balance. You are the Endless Well.
+**Cruise Ship Musician**：Every family has its skeletons.
 
-**Coach**：Go on. Don't worry about your pronunciation or delivery. Just imagine you're talking to an old friend.
+**Barcarola**：Do you ever get homesick? I mean, even if you're used to life on the ship, do you ever wish you could stay on land for a little longer?
 
-**Charlotte**：Healing Sulis, shining Sulis, holy Sulis, to us, you tell.
+**Barcarola**：Right now, I just feel like Cremona is stuck in a big violin case, trapping all other sounds inside.
 
-She raises her right hand high in the air.
+**Cruise Ship Musician**：Once you leave home, the novelty wears off quick, and you'll eventually start to miss that solid, grounded feeling of standing on terra firma.
 
-**Coach**：Feel her breath, feel her energy, feel all that she brings to you. Feel that primitive rhythm and flow, your emotions—that psychedelic rainbow of colors.
+**Cruise Ship Musician**：The captain told us he's planning on running the ship for another five or six years, then handing it over to someone else.
 
-**Charlotte**：...!
+**Cruise Ship Musician**：You know, make enough money, find a place he likes, and settle down, so he doesn't have to keep running around when he's older.
 
-**Charlotte**：Something lifted my hand!
+**Cruise Ship Musician**：But what about you, Barcarola? We know your dreams are bigger than this one town.
 
-**Coach**：Flames are their dance, and wind their breath. Through wind and fire are we born, and by the rain are we swaddled.
+At the sound of her friend's concern, Barcarola falls silent for a moment.
 
-**Coach**：Warmth and light they bring. So, why fear, pause, or stand by?
+If she leaves Cremona, will everything change?
 
-She chants, her voice aligned with some magnificent and ancient rhythm, and from the tips of her toes, a thousand shadows bloom like flowers.
+And if she were to leave the violin behind, will she find the freedom to express herself?
 
-**Coach**：Dance, Charlotte. Take my hand and dance.
+There are countless cities and instruments in the world. Cremona is just one small place in Italy, and Italy is just a small slice of the world.
 
-She reaches out her hand in invitation.
+She knows this land. She knows the bricks and mortar of it, the seasons as they change, and how it is sung about in folk songs.
 
-**Charlotte**：The flames are their steps, and wind their breath.
+**Barcarola**：I ...
 
-She follows the movements, each step sinking into a rhythm.
+**Barcarola's Mother**：I see what you're thinking, and I understand.
 
-**Charlotte**：Wind ... fire ... rain ...
+**Barcarola's Mother**：But you will not forget about your exam date. Remember your priorities.
 
-**Charlotte**：I am not afraid ...
+**Barcarola's Mother**：Children go through all kinds of hobbies and odd ideas. Ever since you were little, you've had such an imaginative mind.
 
-**Charlotte**：...!
+**Barcarola's Mother**：Your Astrictus has always been unpredictable, maybe because you think too much.
 
-She clasps her cheek in shock.
+**Barcarola's Mother**：Imagination should be a good fit for the Astrictus, though. This arcane skill only works if you can picture in your mind what the materials should look like once they're joined.
 
-**Coach**：What is it?
+**Barcarola's Mother**：You're as fickle as the weather.
 
-**Charlotte**：Something kissed me.
+**Barcarola's Mother**：Maybe you'll give up on this idea too.
 
-**Coach**：Keep dancing, Charlotte.
+**Barcarola**：...
 
-The woman releases her hand comfortingly.
+**Barcarola**：No, we already talked about this.
 
-**Coach**：You've already got a much better dance partner. Don't think too much. Just let her lead you.
+**Barcarola**：I'm leaving Cremona. Once I pass my exams, I'm boarding the "Free Breeze" and leaving this place.
 
-The girl closes her eyes, raising her hand high in an ancient ritual.
-
-**Coach**：It's a road destined to be lonely. Have you made up your mind?
-
-Her voice is so quiet that it is quickly swallowed by the wind.
-
-> **Title card：** ???, Practice Room
-
-**Charlotte**：Healing Sulis, shining Sulis, holy Sulis, to us, you tell.
-
-She arranges the catalysts in the dark of the room.
-
-**Charlotte**：My best friend, Sulis.
-
-She follows the guidance of an unseen force, her body gracefully flowing from one motion to the next.
-
-The candles surrounding her flicker, and the sound of distant wind rattles through the room.
-
-**Kid III**：What's going on with Charlotte these days?
-
-**Kid IV**：She must be feeling pretty down right now, what with all her practicing for the competition and all. She hasn't played with us for ages, and her coach is just horrible.
-
-**Kid IV**：Caroline told me her qualifier results were rather poor.
-
-**Kid IV**：My mum says that when a friend feels sad, you should try to make them feel better. We should do something nice for her!
-
-**Kid III**：I'm really worried she'll end up like Saoirse—Hey! What did you hit me for?
-
-**Kid IV**：Stop talking rubbish!
-
-The conversation outside continues, but Charlotte doesn't have the time to care. She feels Sulis's invitation to a realm beyond reality.
-
-In her trance, she sees shining blades of grass and gem-like flowers blooming in the distance. Golden flames burn in the sky, the sun melting into the mountaintop.
-
-**Charlotte**：Lugh, reborn from dark's embrace, I walk your path, in sacred space.
-
-**Charlotte**：Life's end is death, but bones to life ascend!
-
-*knock-knock-knock*
-
-**Kid III**：Charlotte, are you in?
-
-The ground trembles slightly. She looks at the distant golden light and feels something gently sting her ankle.
-
-*knock-knock-knock*
-
-**Kid IV**：Charlotte! Charlotte!
-
-**Charlotte**：Oh!
-
-The ground beneath her shakes violently, the shining blades of grass biting hard at her toes. She squats down in pain, watching bruises spread beneath her toenails.
-
-**Charlotte**：Why? What's wrong, Sulis?
-
-**Kid III**：That was Charlotte's voice. She's in there!
-
-The ground trembles still. She frowns, impatiently waving away the flies buzzing around her ears. They're making her irritable.
-
-**Kid IV**：Charlotte, open the door! We're worried about you!
-
-The sky is dense with white clouds and the ground is oozing blood. Her feet are stricken with a sharp pain.
-
-**Charlotte**：Enough! Stop bothering me!
-
-The shining grass fades, and she pulls the door open.
-
-### Segment 2 · `script 310406`
-
-**Charlotte**：I  never  want  to  see  you  again!
-
-**Kid III**：It's the hag's curse!
-
-**Kid IV**：Ahhh!
-
-Having driven away her old friends, the girl goes back inside.
-
-**Charlotte**：Healing Sulis, shining Sulis, holy Sulis, to us, you tell.
-
-She stands in the center of the house, taking a deep breath, a faint smile on her face.
-
-**Charlotte**：My friend. My only friend, Sulis.
-
+**Barcarola**：When that time comes, I'll sing a song that I could never record for you.
 
 ---
 
 <a id="episode-2450105"></a>
 ## 2450105 · The Indivisible
 
-> **Title card：** Phone Call
+### Segment 1 · `script 310806`
 
-The phone rings.
+> **Title card：** Practice Room
 
-**Willow**：Hello?
+The modest venue is packed with people all around, leaving only the central area free for the performers.
 
-**Caroline Bartley**：Charlotte, have you seen the results of the Foundation's latest evaluation?
+Among them, a young girl draws the most attention.
 
-The caution in Caroline's tone annoys her.
+**Barcarola**：Phew ... relax ...
 
-**Willow**：If you've got something to say, just say it. I'm not as fragile as you think.
+**Barcarola**：After today, I'll pack up my things and start counting the days until the ship comes back.
 
-**Willow**：Good lord, I hate the way you beat around the bush! Just spit it out, will you?
+**Barcarola**：Fingering, sheet music, posture ... nothing can go wrong.
 
-**Caroline Bartley**：...
+**Barcarola**：My instrument, nessun problema. My Crackling Box is in better shape than ever.
 
-There's a deep sigh from the other end of the line.
+The eyes of the crowd make her instrument feel somewhat heavier.
 
-**Caroline Bartley**：Charlotte, you might not be able to go to Uluru.
+But she's grown used to being watched. She straightens her back and steadies the instrument on her shoulder.
 
-**Willow**：That's impossible.
+**Barcarola**：My parents, and Maestro Battista, I just know they're going to be amazed by my new piece.
 
-**Caroline Bartley**：After the Foundation's evaluation, they still concluded that ... Well, that it's unfair.
+**Barcarola**：This song carries the scent of the sea breeze, just like a journey across the ocean to the faraway ports of Australia.
 
-**Willow**：Bollocks! I have one less leg than the rest of you, don't I? I'm a bloody cripple for crying out loud! How could they possibly think I have an advantage?!
+**Barcarola**：If we cannot travel, then at least I can bring the sounds from these distant places here.
 
-**Willow**：If they're afraid of competing with me because of this leg, then there's no need to compete with them at all.
+**Apprentice**：Next we have—Signora Barcarola!
 
-**Caroline Bartley**：No.
+**Apprentice**：Our youngest little musician, the pride of the Stradivari!
 
-She struggles to utter the subsequent words.
+**Apprentice**：I won't repeat the accomplishments she's made on her path to mastering the violin here. Remember, her playing once even made the fish in the River Po leap to shore.
 
-**Caroline Bartley**：Of course, judging only on past achievements, no one is more qualified than you to participate.
+**Barcarola**：Mamma mia! That was just a misunderstanding! And something of an exaggeration. It was about to rain that day, and ...
 
-**Caroline Bartley**：But the committee unanimously agrees that if you compete against able-bodied athletes, it would be unfair to YOU, Charlotte.
+**Apprentice**：Let's see if Signora Barcarola can take the top spot this year!
 
-**Willow**：What? So barring disabled people from competing is more fair?
+**Apprentice**：Please come forward and show us your violin. Let us admire its elegant neck, its gleaming surface, the pinnacle of craftsmanship from the legendary ...
 
-**Willow**：I can still stand, can't I? What right do they have to take this away from me? To strip me of my right to compete?!
+**Apprentice**：Is that really what you're playing with?
 
-**Willow**：I still remember what they said back then.
+**Barcarola**：Yes, this is my instrument.
 
-Her habitual sneer makes an appearance.
+This time, she doesn't hesitate, naturally holding her Crackling Box in her hands and raising it so that everyone, even in the farthest corners, can see it.
 
-**Willow**："Floor Ritual has always had its roots in arcanum. If she's only here to compete for technical points, why doesn't she compete in another event?"
+The crowd falls into an odd silence.
 
-**Willow**：Well, I can hardly rely on technical points now, can I? How could they use such a pathetic excuse to bar me from competing?!
+**Barcarola**：The wood chosen by my parents is the best there is. Its sound is rich and balanced.
 
-**Caroline Bartley**：...
+**Barcarola**：The varnish, the strings, the edges, the curvature of the body—these took quite some time to perfect.
 
-For what feels like an eternity, there is a dead silence between them.
+Most children taking the exam will follow their family's example and remake a violin from scratch.
 
-**Caroline Bartley**：I'm sorry, Charlotte.
+The other option is nearly impossible. But making small improvements to an existing instrument can be even more difficult than crafting a new instrument from nothing.
 
-**Willow**：Why are you apologizing?!
+**Barcarola**：No matter the standard, it's already perfect enough.
 
-**Caroline Bartley**：I'll help you apply for the finals again. I'll do everything I can.
+**Barcarola**：The best instrument is the one that truly suits the performer.
 
-**Willow**：I'm not an invalid!
+**Barcarola**：I didn't want to make just another beautiful copy, and I love my violin. It has always been with me.
 
-Anger bubbles forth.
+**Barcarola**：But, I've made a few modifications to make it more suited to my style.
 
-**Willow**：I can fight my own battles! I've fought harder on one leg than most do with two! So you can save your sanctimonious pity for someone else!
+**Barcarola**：It's not yet finished, and I'll continue trying to combine new instruments with it until it is.
 
-**Willow**：Oh, you want me to thank you, is that it? How exactly should I express my gratitude for this magnanimous favor of yours, eh? Let me remind you—I won the gold medal back then, not you!
+**Barcarola**：For now, though, I intend to perform a brand-new piece for you.
 
-**Caroline Bartley**：...
+Amid the stunned silence, she raises her bow.
 
-**Caroline Bartley**：I'm sorry, Charlotte.
+### Segment 2 · `script 310807`
 
-The phone call ends.
+**Musician**：How refreshing! I've never heard music like this, and I've certainly never seen a violin like that.
 
-**Willow**：...
+**Collector**：Our mischievous little ragazza has brought her precious toy to the stage. Quite adorable, don't you think?
 
-She grips the receiver tightly.
+**Collector**：Signor Cristiano, I'm certain you wouldn't have had the courage to do something like this at her age.
 
-**Willow**：Leave me alone!!
+**Musician**：Hahaha, when she grows up, she'll surely be an even better violinist than I am!
 
-She hurls the phone before sweeping her arm across the table, sending a collection of items clattering to the floor.
+After a moment, new sounds fill the room.
 
-**Willow**：Why? Why?!
+Applause breaks out, polite and measured.
 
-More objects fly around the room.
+From their courteous smiles, she can already read the results of her exam.
 
-**Willow**：Bloody hell!
+**Barcarola**：Juvenile, impractical, unsuitable ...
 
-No matter how much noise she makes, there is no one to answer her questions. Her neighbors have long learned to ignore the strange noises from this particular residence.
+**Barcarola**：They'll never take my Crackling Box seriously.
 
-She screams and crashes around her house. It's the only means she has to expend her energy. Then, her hand touches a small box.
+**Barcarola**：All they can think of is their traditions that no one would ever want to buy an instrument like this.
 
-**Willow**：...
+**Barcarola**：Is that all we can strive for as artisans—to sell as many of our instruments as we can?
 
-She halts and opens it with her pale, trembling hands.
+**Barcarola**：I don't belong here, not in this "City of Violins," not when there's no room for anything else.
 
-Inside, her medal lies quietly on its bed of velvet. There's a small dent on one side.
+The young girl curls up on her familiar pew, fiddling with her exam results, her mind somewhere else.
 
-**Willow**：...
+After folding it several times, it becomes a neat little paper airplane.
 
-She remembers. How could she forget?
+**Barcarola**：Your rustling sounds are actually quite interesting, but ...
 
+**Barcarola**：How can a piece of paper summarize my entire life so completely?
+
+**Barcarola**：I'm leaving Cremona, and you're going to stay here in some corner, forgotten.
+
+**Barcarola**：Three, two, one. Yah!
+
+The paper airplane glides smoothly out of the church doors, disappearing from Barcarola's sight.
+
+Along with it, the "unsatisfactory" results and her hesitation vanish.
+
+She stands up, the light from the stained glass blurring her vision for a moment, but she quickly steadies herself.
+
+**Barcarola**：Maybe I'll come back, maybe I won't.
+
+**Barcarola**：But first, I must spend some time away. Maybe the next time we come back to port, I'll visit.
+
+**Barcarola**：And it'll still be the "City of Violins," and the Stradivari will still be the greatest of their violin makers.
+
+**Barcarola**：Will they miss me? What will they say about me—the girl who doesn't quite belong?
+
+Her hand traces the old pew, feeling the deep grooves in the wood.
+
+**Barcarola**：No one will be there to cast incantations for your small repairs; no one will wish to record your voice and turn it into a song.
+
+**Barcarola**：Will you still be here? Will someone come and clean your pews and wipe your stained glass?
+
+**Barcarola**：It's time to say a proper goodbye.
+
+The church remains silent, save for the clacking of footsteps walking toward the door.
+
+**Cruise Ticket Seller**：Really? You mean it? You've really decided to join the "Free Breeze"?
+
+**Cruise Ticket Seller**：Oh, gosh! This is ...
+
+**Barcarola**：I know it's abrupt, and maybe you didn't think I was being serious before.
+
+**Barcarola**：But if the ship's still short of musicians, I'd like to join.
+
+**Cruise Ticket Seller**：That's amazing! I bet the others you'd join. Looks like I can buy lunch for the next few stops.
+
+**Cruise Ticket Seller**：I'll pay for you, too. No need to be shy. Call it a celebration of our newest musicista.
+
+**Barcarola**：Let's not forget, I'm only saying I've decided I want to join you.
+
+**Barcarola**：I haven't even spoken to the captain yet. What if I fail the audition?
+
+**Cruise Ship Musician**：Something on your mind, Barcarola? Is something getting you down?
+
+**Cruise Ship Musician**：Was it your exam?
+
+Her friend could tell her mood was off from the moment the conversation began.
+
+**Cruise Ship Musician**：It's just like you said, it doesn't prove anything. It's just a way for a violin maker to gain a bit of recognition.
+
+**Cruise Ship Musician**：That recognition is what keeps them going until they can run their own bottega.
+
+**Cruise Ship Musician**：But that was never your plan, was it? You don't need that kind of recognition.
+
+**Barcarola**：My parents and my teachers think I need it.
+
+**Barcarola**：They think I'm wasting my talent and that I'm not taking my gifts seriously enough.
+
+She moves her hand away from the violin's neck.
+
+The once odd and impractical shape has been smoothed into an elegant and beautiful violin.
+
+**Cruise Ticket Seller**：You took it apart?
+
+**Cruise Ship Musician**：What are you thinking, Barcarola?! You spent ages figuring out how to make your Crackling Box!
+
+**Barcarola**：I tried to do it before, but I couldn't bring myself to disassemble it.
+
+**Barcarola**：Now I understand that separating things stuck together with Astrictus is much harder than keeping them intact.
+
+**Barcarola**：This is actually an older violin, one I tried to make into a Crackling Box a long time ago.
+
+**Barcarola**：I was still set on inheriting the bottega at that time. I thought I was destined to become the next great violin maker in the Stradivari family—the next Antonio.
+
+**Barcarola**：If I leave it with my parents, they might accept my decision, and maybe they won't be too mad.
+
+**Barcarola**：I've proven I can do it. I just know now that I don't want to be what they wanted me to be.
+
+**Barcarola**：I'll explain everything to them tomorrow.
+
+**Barcarola**：But for now, I guess I just hope you'll cheer on my performance.
+
+**Barcarola**：Let's go. I have the perfect song to impress the captain.
 
 ---
 
 <a id="episode-2450106"></a>
 ## 2450106 · Into the Vast World
 
-### Segment 1 · `script 310408`
+**Barcarola's Mother**：I see you've already made up your mind.
 
-> **Title card：** Echoing Knocks
+**Barcarola's Mother**：Have you thought about what you're doing? What if something happens, we won't be there to help you? What if you get sick or hurt? You'll be so far away.
 
-> **Title card：** 1921, Locker Room
+**Barcarola**：Mamma, I'll be very careful.
 
-**Competitor I**：Come on now; don't be nervous.
+**Barcarola**：I'll write, and when the ship returns, I'll come back to Cremona again. I'll visit you.
 
-**Competitor II**：You can do this, you can do this!
+**Barcarola**：We won't be apart for too long—maybe three or five months at a time, and time will fly by.
 
-**Competitor III**：Breathe in ... breathe out … breathe in ...
+**Barcarola**：Hardly enough time to even build a violin.
 
-It's the moment before the finals. The preparation room is filled with anxious voices.
+**Barcarola's Mother**：Three or five months—that's time I won't know how you are and what you're doing, figlia mia.
 
-**Coach**：Everything alright?
+**Barcarola's Mother**：I was still expecting you to back down, just like those other times before.
 
-**Charlotte**：I'm fine, Coach.
+**Barcarola's Mother**：First, you said you wanted to take over the bottega. Then, you decided to become a musician. And now you're leaving Cremona to join a cruise band.
 
-**Charlotte**：Sulis responded to my prayers again yesterday.
+**Barcarola's Mother**：You wanted to use your Astrictus to build tiny houses, and then, the next day, you tore them apart and made them into windmills.
 
-**Coach**：And?
+**Barcarola's Mother**：When it came to your first family performance, you kept changing the song right up until the very moment you went on stage.
 
-She looks at her intently.
+**Barcarola's Mother**：You're as fickle as the weather. What if you get tired of the ship? What will you do then?
 
-**Charlotte**：This time, she took me to the heart of a forest. The leaves there had spots all over them, like eyes. They were watching me, just like you are now, without blinking.
+**Barcarola's Mother**：You won't be able to just walk away.
 
-**Charlotte**：I also heard a woman's voice. She was singing a slow song, something like ...
+**Barcarola**：The "Free Breeze" changes its route all the time, and there are always new passengers coming aboard.
 
-**Charlotte**：I can't quite remember the words.
+**Barcarola**：I'll see so many new things, and everyone will want to hear my new music. I won't quit that easily!
 
-**Coach**：...
+**Barcarola**：It's not like Cremona, where everything always stays the same, and where everyone's always telling me what I should do.
 
-**Charlotte**：But I remember the rhythm.
+There is no more need for rehearsing her words. She simply speaks her mind without hesitation.
 
-She jumps up and moves in time to it.
+And she has decided on her farewell gift.
 
-**Charlotte**：Healing Sulis, shining Sulis, holy Sulis, to us, you tell.
+**Barcarola**：This is for you, and for Papà.
 
-**Charlotte**：Do you know it? The grass there sparkled. If I stayed too long on it, the little blades of grass would pinch me.
+**Barcarola**：I once tried to make a violin just as good as the Crackling Box.
 
-**Charlotte**：All I could do was dance, dance, and keep dancing.
+**Barcarola**：But I changed my mind along the way.
 
-**Charlotte**：So, I suppose witches weren't necessarily all burned at the stake. Maybe they just stepped on that kind of grass, you know?
+**Barcarola**：Back then, I thought I'd finish it one day and make it just as good, maybe even better.
 
-She leaps high into the air and lands steadily.
+**Barcarola**：It wasn't long after I started taking performance lessons. I was fascinated by the sheer number of sounds, and I began to think about how to blend them into my music.
 
-**Charlotte**：Every time I jump, my shadowless friend lifts me just like this.
+**Barcarola**：That's what I really wanted to do, not what I thought I "should" do.
 
-Energy flows around her, rustling her hair and leotard.
+**Barcarola**：Even if my Astrictus kept failing, even if no one took my Crackling Box seriously.
 
-**Coach**：Keep dancing, just like this.
+**Barcarola**：I finished it because I wanted to prove to you that I did genuinely work hard through all those lessons.
 
-**Coach**：If you make it to the end of this path, you'll snatch the sun right out of the sky.
+**Barcarola**：Each time I performed with my Crackling Box in Cremona, people just saw me as a child playing with a toy.
 
-**Coach**：Don't be nervous, Charlotte. Just treat it like any ordinary practice session.
+**Barcarola**：No matter whether it was the instrument or the performance, the people here never really accepted me. They were always just waiting for me to grow up—to stop being childish, to get serious, and to return to the world of violins ... their world.
 
-**Charlotte**：Nervous?
+**Barcarola**：This isn't what I want.
 
-The girl looks at her palms to find a faint shimmer of sweat.
+**Barcarola**：I used to want to become a luthier, but now I know what I want to do. I want to play music for the people on that ship.
 
-**Charlotte**：I'm not nervous, Coach.
+Performers must fully comprehend the role they play. It is their duty to channel the emotions of music to the world.
 
-She lifts her head and gazes at the sun shining in the distance.
+The ship Barcarola speaks of is a place where she aims to play her role and fulfill her "duty."
 
-**Coach**：...
+**Barcarola's Mother**：This ...
 
-That shining golden sun.
+**Barcarola's Mother**：Its edge joints are a little rough, and the varnish is uneven.
 
-**Willow**：...
+**Barcarola's Mother**：And the neck is slightly straighter than the one we made for you. It won't sound as bright as your Crackling Box.
 
-And behind it, those dark and boundless shadows.
+**Barcarola's Mother**：You still have a long way to go before you can call yourself a luthier.
 
-*ring-ring-ring*
+**Barcarola's Mother**：But then, becoming a musicista should just about suit you for now.
 
-The doorbell interrupts her reminiscence.
+Her mother sighs, but the underlying encouragement in her words is evident.
 
-**Willow**：You've got the day wrong, girl.
+**Barcarola's Mother**：Go, then.
 
-She hobbles to the door and opens it with force.
+**Barcarola's Mother**：At least, our family name will open doors for you in any orchestra.
 
-**Willow**：Today isn't snail day—
+**Barcarola's Mother**：Or just tell them you're from Cremona and show them your instrument—they'll know.
 
-**Willow**：What are you doing here?!
+**Barcarola's Mother**：I won't worry too much about how you'll make a living, but just tell us if you run into any problems, va bene?
 
-The visitor before her comes as a surprise.
+**Barcarola**：No, Mamma.
 
-**Caroline Bartley**：Charlotte, I have some news I simply must tell you. You'll be utterly delighted to hear it, I'm sure.
+**Barcarola**：I won't travel as just another performer from Cremona or even a Stradivari luthier.
 
-**Willow**：What?
+**Barcarola**：Just "Barcarola."
 
-**Caroline Bartley**：The Foundation has decided that they'll let you participate in the competition ... as a special athlete.
+**Barcarola**：Don't worry, with or without the family name, I'll find a way.
 
-**Caroline Bartley**：You can return to the floor again!
+**Barcarola**：But I don't want to go as some famed musician traveling the world. I want to be just an ordinary girl leaving home for the first time.
 
-She chatters on.
+**Barcarola's Mother**：...
 
-**Willow**：Get out!
+**Barcarola's Mother**：When does your ship leave?
 
-**Caroline Bartley**：Why?
+**Barcarola**：In three days. The captain says we'll be heading to some new ports, and we'll pass Cremona again in a year or so.
 
-**Willow**：Oh, you want to know why?
+**Barcarola**：...
 
-She sneers through gritted teeth.
+**Barcarola**：I have to go now, to the bottega. Papà has been so busy lately. It's better that I go to see him.
 
-**Willow**：What is that you want? You wonder why I don't want to stroke your ego? To pump air into your already overinflated head?!
+**Barcarola**：A year really does go by in the blink of an eye.
 
-**Willow**：You're just here to brag about your achievements!
+Parting is never easy, but when a new life is so close at hand, all it takes is a step forward.
 
-**Willow**：Then, congratulations! You've done the job!
+The sadness will fade, overtaken by excitement for what's to come.
 
-**Willow**：Are you satisfied, Caroline? I'm a cripple—a failure. Not your competition, but the object of your pity. That's what you wanted, right?
+But the sound of her mother's voice will always tug her heart back.
 
-**Caroline Bartley**：I'd never thought of it that way.
+**Barcarola's Mother**：Stellina, just a little longer.
 
-She wants to argue, but in this moment, a word of comfort cuts sharper than any blade.
+**Barcarola's Mother**：There are still a few things I need to say.
 
-**Willow**：As if they'd invite me to perform in an "exhibition," like I'm some kind of monkey to be gawked at in a zoo. It's ridiculous!
+Day is breaking as the newest crew member steps onto the deck.
 
-**Willow**：Do I have to tell you it all, Caroline? How awful my life has been all these years? How people hate me? How my body has failed me?!
+Most of her luggage has been moved into the cabin already, but one last piece remains.
 
-**Willow**：Does it satisfy your ego?
+Placing the two instrument cases down, Barcarola takes a moment to take in her first real steps aboard.
 
-**Willow**：I don't want to see you ever again!
+**Barcarola**：Phew ... finally.
 
-**Caroline Bartley**：Charlotte!
+**Barcarola**：These are, after all, the things I couldn't leave behind.
 
-### Segment 2 · `script 310409`
+**Cruise Ship Musician**：Though thankfully you won't need to lug them around all the time!
 
-A document falls to the ground. It bears the logo of the St. Pavlov Foundation.
+**Cruise Ship Musician**：Here, let me take these to your room. You can take a walk around the ship and get used to things. We leave at noon, so there's plenty of time.
 
-**Willow**：This is ...
+**Cruise Ship Musician**：No need to thank me! I'm sure I'll be asking you to teach me some techniques soon enough!
 
-She unfolds the document.
+Her friend rushes off so quickly, she doesn't have a moment to reply.
 
-**Willow**："Regarding the Decision on the Participation of Ms. Charlotte O'Hagan ..."
+She pushes open the nearest door.
 
-**Willow**："Upon careful consideration and evaluation, we hereby consent to Ms. Charlotte O'Hagan competing as a Floor Ritualist in the finals of the Uluru Games."
+The bustling scene before her is unlike anything she has seen before.
 
-**Willow**：What's the meaning of this?
+Music and voices fill the air, drowning out both the wind outside and the rocking of the ship.
 
-She looks at Caroline in disbelief.
+Warm light streams down from above, reminding her of the light that shone through the church's stained-glass windows.
 
-**Caroline Bartley**：Perhaps I didn't make myself clear, but ...
+It is only now that she realizes she has left that world behind.
 
-**Caroline Bartley**：You're an athlete, not a performer. You won't be competing in an "exhibition." Nothing has changed, Charlotte.
+The church, the workshop, and the bell tower are all in the past now.
 
-Caroline holds Willow's trembling hands in her own.
+**Barcarola**：There are so many passengers.
 
-**Caroline Bartley**：I look forward to seeing you on the floor.
+**Barcarola**：I won't have to worry about not having an audience anymore.
 
+**Barcarola**：I'm glad it wasn't all in vain. Those two violin cases are quite heavy.
+
+Her mother's advice echoes in her ears.
+
+**Barcarola's Mother**：Take this violin with you too.
+
+**Barcarola's Mother**：There are pieces that only shine when played with the right instrument.
+
+**Barcarola's Mother**：Maybe the right piece for it is still out there waiting for you.
+
+**Barcarola's Mother**：If you find that piece, you can let me know when you come home to Cremona, va bene?
+
+**Barcarola's Mother**：It's been a long time since you've played it.
+
+**Barcarola's Mother**：But even so, it makes your Papà and I so happy to see how much you love your Crackling Box.
+
+**Barcarola's Mother**：Keep exploring. The best instrument will be the one that suits you best.
+
+What was once a proud declaration has now become a tender form of encouragement.
+
+She repeats the words she shared at the time of her exam.
+
+**Barcarola's Mother**：Good luck, Stellina.
+
+**Crew Member II**：Let's say goodbye now, Mamma. The ship is about to set sail.
+
+**Mother**：My child, I'm going to miss you. Let me hold you one more time, my child.
+
+**Crew Member II**：Mamma, don't be like that. I'll be back before you know it.
+
+The "Free Breeze" is scheduled to embark at noon. All those departing aboard it exchange their final goodbyes.
+
+**Barcarola**：Mamma mia! I—I forgot to give them a hug!
+
+**Barcarola**：And I didn't say goodbye to Maestro Battista either. I haven't even seen him since the exam!
+
+**Barcarola**：And there's still so many sounds left in Cremona.
+
+Suddenly, all those unrecorded sounds grow unbearably loud, like rolling thunder in a storm.
+
+The noise rushes over her, leaving her feeling suffocated and alone.
+
+Farewells can feel so cold, like iron and rain, like a violin string drawn taut and silent.
+
+**Barcarola**：...
+
+**Barcarola**：No, this can't be happening.
+
+In a panic, she turns around and dashes out through the door.
 
 ---
 
 <a id="episode-2450107"></a>
 ## 2450107 · Farewell, Cremona
 
-> **Title card：** Podium
+### Segment 1 · `script 310809`
 
-> **Title card：** 1921, Uluru Stadium
+Mamma, me and you.
 
-**Broadcast**：Congratulations, Charlotte O'Hagan!
+**Barcarola**：...!
 
-The weight of the medal presses on her neck as camera bulbs flash all around her, leaving her a little dazzled.
+**Barcarola**：There's still time.
 
-**Reporter I**：Quick—snap a picture of the scar on her foot!
+She steps over the threshold, walks out onto the deck, and descends the gangplank.
 
-**Reporter II**：Charlotte, congratulations on winning first place at the Uluru Games!
+Turning back, she gazes at the place she is leaving behind.
 
-**Reporter II**：That's a surprise. You've smashed the record, making history as the youngest ever winner of Floor Ritual. What was the process like to get to this point?
+We sit in a dark corner.
 
-**Charlotte**：...
+Take another good look at this city.
 
-She lowers her head, examining the shining gold medal hanging at her chest.
+Its crowded squares and its ancient alleys, all so full of music.
 
-**Charlotte**：I snatched the sun from the sky.
+Its gentle breath before dawn, its heartbeat resonating in the air, pulsing with the crowd.
 
-**Reporter II**：The sun?
+**Barcarola**：Mamma ... Papà ...
 
-The girl smiles and raises the gold medal.
+**Barcarola**：There are seeds sprouting on my windowsill.
 
-**Charlotte**：That's right. This is my sun!
+I wish I could share with you the story of a bird returning to its roost.
 
-**Reporter I**：Perfect angle, real front page material. Charlotte, could you lift the medal a bit higher?
+**Barcarola's Mother**：...
 
-The girl raises the medal higher. The camera flashes, making it shine even brighter.
+The hostess sits at the table and turns on a machine.
 
-**Reporter I**：Great. We plan on doing an exclusive interview next week.
+The tape begins to play, faithfully recounting all it has recorded.
 
-**Reporter III**：Hey, Philip, haven't you hogged enough of her time?
+**Barcarola**：This is your Stellina's farewell message.
 
-A reporter pushes his way toward Charlotte, his suit wrinkled from the jostling crowd.
+**Barcarola**：I know I won't be gone for long, but I already feel homesick.
 
-**Reporter III**：Finally! Alright. Charlotte, what's next for you?
+**Barcarola**：Papà and Mamma are busy at work, and it's really not my style to express these sentiments.
 
-The girl is overwhelmed by questions and flashing lights.
+**Barcarola**：So, I'll let this cassette tape—one of the greatest inventions in history—do the talking.
 
-The cacophony has come to an end.
+Like a quiet, drawn-out melody.
 
-**Charlotte**：Is that it ...?
+**Barcarola**：The sounds from within and outside of Cremona are all recorded on it.
 
-The medal rests heavy in her palm.
+**Barcarola**：You can listen to them when you have the time.
 
-**Charlotte**：I won, but now what?
+**Barcarola**：I love you.
 
-**Coach**：You're still so young.
+Like a soft and endless melody. Like my dearest, oldest friend.
 
-Familiar footsteps approach.
+> **Title card：** Street, Cremona
 
-**Coach**：The stories we tell always end with winning the gold.
+The old town seems so empty in the early dawn. All is silent and still.
 
-**Coach**：No one talks about what you're supposed to do after you win the medal. After all, life goes on much longer than any story.
+When it is so silent, the clatter off cobblestones ring out especially loud.
 
-**Charlotte**：But I did it! I got the gold!
+**Barcarola**：Not far now.
 
-She argues fiercely on her own behalf.
+**Barcarola**：Just two more alleys to go.
 
-**Charlotte**：I broke the record. I beat Caroline! I'm the youngest champion ever! There's never been an 11-year-old champion in all history!
+For a brief moment, she wishes she could take back every decision she'd made up till this point.
 
-**Coach**：So what?
+Let time move to that distant, sunny afternoon.
 
-**Charlotte**：My name will be in the newspapers. Everyone will remember who I am, and at the next Uluru Games, they'll all be cheering my name.
+The first time she tried mixing varnish for a violin, she used it to paint the wooden cabinet.
 
-**Charlotte**：And then ...
+Back to a childhood where no road led forward.
 
-**Coach**：Your name will become a symbol, a topic at every dinner table conversation, and, as even you fall prey to the illusion of fame and the past, it will become your prison.
+Like a weary bird returning to its nest just as life's journey now beckons me onward.
 
-**Coach**：And before long, you will have entirely forgotten who you thought you were.
+Her pace leaves her breathless.
 
-**Charlotte**：I—
+Or perhaps it's the thought of arriving at her destination that makes her hesitate.
 
-**Coach**：We all die one day, but the Floor Ritual will carry on. It's the symbol itself. How could someone possibly defeat something abstract?
+Is this yet another choice she will ultimately abandon?
 
-**Coach**：Today is the beginning of your tragedy.
+Will she really turn her back on the "Free Breeze"?
 
-She coldly announces her verdict.
+**Barcarola**：The ship doesn't leave until noon. I can still go back, pack, and explain everything to the captain and my friends.
 
-**Coach**：When you look directly into the sun, you must always remember that it's also the source of shadow.
+**Barcarola**：There's still time. If I'm quick, I'll be home in time for breakfast.
 
-**Charlotte**：I've sacrificed so much for this.
+**Barcarola**：Homemade jam and sausages ... fresh bread with golden crust ...
 
-She clutches the gold medal tightly.
+**Barcarola**：...
 
-**Charlotte**：I beat everyone to get it—the gold medal. I woke up at the crack of dawn, trained until I could train no more, just for a chance.
+She dabs her tear-filled eyes with her sleeve.
 
-**Charlotte**：And now, I've won.
+The morning light passes over her, but she still can't bring herself to make a choice.
 
-**Charlotte**：Do you think I can't see the desire in their eyes when they see it? They all want this medal.
+My place isn't here in Cremona. I must journey into the vast unknown.
 
-She bites her lip and musters the courage to look her coach in the eye. The face before her ripples, trembling slightly.
+> **Title card：** Piazza, Cremona
 
-**Charlotte**：If this is the source of tragedy, then why do we long for it?
+Even in the dawn, the piazza is as lively as ever, each corner claimed by merchants, visitors, and townsfolk.
 
-**Coach**：Heh.
+Same as it ever was—it's just another day.
 
-As she lets out a cold sneer, her features become clearer.
+**Barcarola**：Cremona ...
 
-**Coach**：It's the gold medal. That's why.
+**Barcarola**：The same old street musicians are still here, playing the same old songs.
 
-**Coach**：It's precisely because it's a gold medal that you kept going. Even if your feet were bleeding, you couldn't escape this self-inflicted sacrifice. Because this is what you desired!
+She moves closer, unable to resist, and one of the girls recognizes her.
 
-**Coach**：Isn't this the root of your tragedy?
+**Street Artist**：Barcarola! The genius violinist with her head in the clouds!
 
+**Street Artist**：Where are you off to now? Another performance, or are you working on something with your father?
+
+**Street Artist**：Care to play a song? Come on, it's been ages.
+
+The girl affectionately drapes her arm over Barcarola's shoulder and hands her the violin.
+
+She leans in and lowers her voice.
+
+**Street Artist**：Lend me a hand, will you? For old times' sake. Use your name to back me up here. Remember all the times we played together when we were kids?
+
+**Street Artist**：Look how busy the street is. It's the perfect time to pull in a crowd.
+
+**Street Artist**：Hey—Isn't that one of the Stradivaris?
+
+**Street Artist**：She's come down here just to play for us!
+
+With all the commotion, many eyes had been drawn their way.
+
+But that famous name being roared aloud is enough to spur them into motion, gathering around.
+
+**Barcarola**：I'll play just one piece.
+
+**Barcarola**：Though I'm kind of busy right now, so ... va bene, I'll get started.
+
+### Segment 2 · `script 310810`
+
+The applause is exactly as she anticipated.
+
+**Tourist**：Lucky me! I've been in Cremona for days now, but this is the first time I've seen a show like this!
+
+**Hawker**：Too right, signore, too right. And why not take this chance to pick up an instrument just as amazing as hers? Maybe your own darling child will grow up to be a gifted violinist!
+
+**Tourist**：Oh, really! You know, I've always hoped something would catch the little ones' attention!
+
+**Barcarola**：...
+
+No one mentions the music, no one praises the melody—not a single note of it.
+
+All they do is babble on about the violin she's holding.
+
+They try to guess what kind of wood was used, how it was crafted, and which luthier's name is etched into the sound box.
+
+**Barcarola**：Here you go.
+
+**Barcarola**：It's been a while since we hung out, what with classes and practice keeping me busy all the time.
+
+**Street Artist**：What's with this all of a sudden?
+
+**Street Artist**：Thanks. You're not the only one at fault here, I mean—I haven't come knocking for you either, recently.
+
+**Street Artist**：To tell the truth, I felt kind of embarrassed. Your family's so famous, so I was always worried I might be disturbing you.
+
+**Street Artist**：But then I heard you were planning to leave Cremona to join a cruise ship. Now that really took me by surprise.
+
+**Street Artist**：Anyways, I'm glad you're still here! You're a Stradivari! You couldn't possibly go off and do something so ridiculous.
+
+She gives Barcarola's shoulder a relieved pat.
+
+The girl's delicate shoulder trembles under the weight of each pat.
+
+**Barcarola**：...
+
+**Street Artist**：Come on. It's alright. We all do stupid things sometimes, don't we?
+
+**Street Artist**：The past is the past, my dear friend.
+
+**Barcarola**：Yeah, that's all over now.
+
+**Barcarola**：Addio. I'll see you later.
+
+She walks toward the alley.
+
+She retraces her steps across the ground, passing the stone steps where she briefly stopped.
+
+She finds a quiet spot and lowers herself to the ground.
+
+**Barcarola**：The monotony ... It's unbearable ...
+
+**Barcarola**：...
+
+I fear the coming daylight might just keep me here.
+
+Life's journey offers me poetry and song.
 
 ---
 
 <a id="episode-2450108"></a>
 ## 2450108 · Such a Serene Evening
 
-**Coach**：After winning the gold medal, you gave interviews, featured in columns, and became renowned among arcanists.
+The concert is almost over. The young woman on the stage releases the final notes from her Crackling Box, allowing them to flutter into the air.
 
-**Coach**：But so what?
+But just as the audience stands ready to head back to their cabins, she unfolds a piece of paper she had earlier tucked away.
 
-**Child**：Mum, that's Charlotte's house! It's been so long since she—
+**Barcarola**：The last song of the evening.
 
-**Woman**：Shh. Don't you go saying her name. She's a witch, understand?! A hag! It's written right there in her name!
+**Barcarola**：For a traveler, who shares my homeland.
 
-**Coach**：No one is willing to speak your name. No one even dares walk past your house.
+**Barcarola**：Please, everyone, hold on just a moment.
 
-**Coach**：Your garden no longer blooms. Only weeds sprout from the mud and dirt.
+She gently places the Crackling Box down, then walks briskly toward the stage's edge.
 
-**Charlotte**：So, then ...
+The sailor waiting there hands her a violin.
 
-**Coach**：Then, the war began.
+**Guest**：A violin?
 
-**Charlotte**：War?
+**Guest**：Could it be that she's from Cremona? Could this be a creation from Cremona's most famous bottega?
 
-**Coach**：That's right. You haven't seen it yet, but you will.
+**Cruise Ticket Seller**：Why don't you listen with your own ears and see if you can tell?
 
-**Coach**：Years ago, war destroyed your hometown, and you moved with your family to a new land.
+**Cruise Ticket Seller**：With your kind of expertise, it's no wonder that you'd recognize it.
 
-**Coach**：On the surface, it seemed like a safe place. You believed what everyone said, firmly convinced that there would be no fighting there.
+Whispers ripple through the crowd below.
 
-**Charlotte**：Isn't that a good thing?
+The audience directs their attention to the young musician standing at the center of the stage.
 
-**Coach**：I suppose you don't yet remember that day.
+What piece is most fitting for this violin?
 
-**Charlotte**：That day?
+It should be a song often heard in her homeland, one performed by musicians on the side of the street.
 
-**Coach**：Yes, that day.
+Flowing like a small boat drifting downstream, a memory of peace and serenity.
 
-**Coach**：By modern measures, that day was far from a good one. The air was heavy with the stench of gunpowder after the military dropped bomb after bomb in the area, leaving debris and dust in their wake.
+"Home."
 
-**Coach**：But luckily, your house was untouched, and you managed to survive the war.
+Upon hearing this word, the first thing to enter her mind is this melody.
 
-**Charlotte**：Then what?
+As this is to be the farewell song for the evening. The crew positions themselves at the exits, ready to usher the guests away.
 
-**Coach**：Look up.
+All applause and praise are hushed, not a single soul present daring to disturb the melody or drown out the notes.
 
-The girl looks up. There is a shining golden sun before her. She gazes in disbelief, then rubs her eyes.
+**Guest**：Ah, this is the song.
 
-**Charlotte**：How come I can see the sun in the training room?
+**Guest**：The first Neapolitan song ever translated into Italian. I heard it often as a child.
 
-**Coach**：You saw a similar sun in the sky on that day, too.
+**Guest**：At the time, I never thought of it as something so wondrous.
 
-**Coach**：That long-awaited peace seemed to finally be near. You hadn't heard the roaring of planes for a long while, and the desolate grasslands had started to show a hint of life.
+**Guest**：But now, so many years away from my hometown, I've never heard it performed like this.
 
-**Coach**：So, on that stretch of scorched earth, you began to dance.
+**Cruise Ticket Seller**：So, you might say you're satisfied with this performance, sì?
 
-**Coach**：Eye of Day, Keeper of Balance. You are the Endless Well.
+**Cruise Ticket Seller**：Be sure to recommend the "Free Breeze" to all your friends and family!
 
-**Charlotte**：Healing Sulis, shining Sulis, holy Sulis, to us, you tell.
+**Guest**：Naturally! I'll tell everyone I know about this ship and its talented musicians.
 
-**Coach**：Do you remember the origins of the Floor Ritual?
+**Guest**：I think I'll stay a bit longer before going back to my room. I don't want to miss a single note.
 
-**Charlotte**：Of course, I remember. Floor Rituals originate from ancient rituals. The shamans danced to avert strife, to implore Sulis's grace.
+**Guest**：I'll stay until the very last note.
 
-**Charlotte**：It was originally a dance for peace.
+**Cruise Ship Musician**：It's time for me to go and practice. The whole orchestra will be rehearsing tomorrow.
 
-**Coach**：So you thought at that time.
+**Cruise Ship Musician**：When Barcarola wakes up in the morning, we can rehearse again.
 
-**Coach**：You saw the glorious sun, the soil turning from lifeless to fertile, the tender green sprouts breaking through the earth.
+The two crew members step through the door, one after the other.
 
-**Coach**：That was the most successful dance of your life. For the first time, Sulis responded to your prayers. No one had ever done that at the Uluru Games before, not even you at your best.
+The deck is nearly empty, with only a few travelers remaining to enjoy the night air.
 
-**Coach**：You heard that sharp whistling for the first time—that sound that still haunts you in every nightmare, like Arachne cursed to forever make her web.
+**Cruise Ticket Seller**：Didn't you say you were leaving the band this week to go back to your hometown?
 
-**Coach**：Soon, an incendiary bomb exploded beside you.
+**Cruise Ticket Seller**：Have you mentioned it to the captain and the others yet?
 
-**Charlotte**：...!
+**Cruise Ship Musician**：I'm postponing my vacation. The captain shared something with me.
 
-**Coach**：So you lost your leg as a result. It seems that, in the end, the gods never favored you.
+**Cruise Ship Musician**：He found someone to take over the ship, and our new course has already been decided.
 
-**Coach**：Poor girl. Her beliefs have become a joke. If sacrificing everything yielded such results, it would be better if those so-called gods never even existed.
+**Cruise Ticket Seller**：Wherever the ship takes me, I'm happy to go.
 
-**Coach**：And it has caused you never-ending pain. How can one who no longer believes in the gods ever receive their favor again?
+**Cruise Ticket Seller**：I wonder if our new destination will have any decent taverne.
 
-She sneers mockingly.
+**Cruise Ship Musician**：Perhaps not, since it is quite a small island.
 
-**Charlotte**：No. That's not true. Sulis is my friend.
+**Cruise Ship Musician**：But I've heard that the people on the island have a special custom of wearing shells. Maybe we'll have a chance to drink from one!
 
-**Coach**：You poor little thing.
+**Cruise Ship Musician**：Or something like—hm?
 
-**Coach**：Look at that medal hanging around your neck.
+She hears a faint noise through the door and signals for her companion to be quiet.
 
-The girl lifts the medal to find a small dent in it.
+The sea breeze almost sweeps the gentle melody away.
 
-**Charlotte**：...!
+**Barcarola**：Inside the tents, putting aside supper.
 
-**Coach**：Do you remember how this dent got here?
+**Barcarola**：On such a quiet evening.
 
-**Charlotte**：This isn't my medal! My medal would never have a dent like this in it!
+**Barcarola**：Who wouldn't demand, who wouldn't desire?
 
-**Coach**：After you lost your leg, you threw your medal away as hard as you could, cursing through tears that you'd never set eyes on it again.
+**Barcarola**：Santa Lucia, Santa Lucia.
 
-**Coach**：Unfortunately, your curse didn't work.
+The bottega hostess listens to the entire song and rewinds the tape to the start.
 
-**Charlotte**：...
+Cremona is seldom this silent.
 
-There's a knock at the door.
+Where is her ship headed, and when will her next letter home arrive?
 
-**???**：Hello? Is anyone there?
+All she can do is wish her child well.
 
-**Charlotte**：Who is it?
+**Barcarola**：On the sea glitters the silver star.
 
-**???**：Ms. Willow? I've got this week's snails!
+**Barcarola**：Gentle the waves, favorable the winds.
 
-The voice is unfamiliar.
+**Barcarola**：Come into my nimble little boat.
 
-**Coach**：I'm here to say goodbye.
-
-**Charlotte**：Why?
-
-**Coach**：My snails have arrived. If I don't open the door, that little scamp will be kept waiting.
-
-**Coach**：A minute, ten minutes, an hour ... That girl's mind is a mystery. Who knows how long she'll wait?
-
-**Coach**：I need to answer the door.
-
-**Charlotte**：Will I see you again?
-
-**Coach**：If it were possible, I'd hope you never do.
-
-She shakes her head and reveals a helpless smile.
-
-**Coach**：But we will meet, Charlotte. Endings aren't always a matter of choice, nor can they be changed through will alone.
-
-**Coach**：Now, the time has come to say goodbye. Take good care of this medal, won't you? Don't take your anger out on it.
-
-She makes her way out of the room.
-
-Her movement is stiff and awkward, and her leg makes a strange scraping sound as she walks. Yet, still, she holds her neck high, like a black swan gliding on the water.
-
-**Charlotte**：...
-
-**Willow**：*sigh*
-
-**Flutterpage**：Ms. Willow, here are the snails for this week!
-
-The jar of snails is taken by a thin, gloved hand.
-
-**Willow**：Your payment's in the letterbox by the door.
-
-**Willow**：And ... thank you.
-
-**Flutterpage**：Wow, Ms. Willow! What was it you said just now? Did you say "thank you"?!
-
-**Flutterpage**：I ain't never heard you say that word before! Are you sure you're Ms. Willow?
-
-**Willow**：...
-
-She places the snails on the table as usual, their soft heads gently emerging from their shells.
-
-The weekly race begins, and after a long wait, the third snail is the first to reach the finish line.
-
-**Willow**：The victor is ... Number 3.
-
-**Willow**：You won.
-
-She gathers the snail mucus and works it into a light yellow salve. This should suffice for the trip.
-
-She prepares her luggage, reflecting on the many years since her last excursion.
-
-**Willow**：Australia ... The sun is relentless there. I should probably bring a larger hat.
-
-**Willow**：Still, I have a fair deal of lubricant remaining.
-
-**Willow**：Oh, and there's this too.
-
-She looks at the little box.
-
-Within it lies the gleaming gold medal with the dent on one side.
-
-**Willow**：...
-
-Flowers, applause, cheers, lubricant, the golden sun, and a thousand shadows.
-
-She gently kisses the dented edge of the medal.
-
-**Willow**：Good night, my friend.
-
+**Barcarola**：Santa Lucia, Santa Lucia.
 
 ---
 

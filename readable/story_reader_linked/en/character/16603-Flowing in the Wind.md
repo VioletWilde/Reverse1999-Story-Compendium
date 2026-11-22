@@ -4,11 +4,12 @@
 [← Previous chapter: Light to the Tavern](16601-Light%20to%20the%20Tavern.md) · [Story index](../README.md) · [Next chapter: The Small Room →](17701-The%20Small%20Room.md)
 <!-- reading-navigation:end -->
 
-- Story units：`8`
+- Story units：`9`
 - Trail：`0`
 
 ## Contents
 
+- [1660300 · The One Traveling Far](#episode-1660300)
 - [1660301 · Dripping Inside the Hourglass](#episode-1660301)
 - [1660302 · A Flood of Memories](#episode-1660302)
 - [1660303 · Want Something](#episode-1660303)
@@ -17,6 +18,81 @@
 - [1660306 · The Limited Sky in the Teapot](#episode-1660306)
 - [1660307 · No More Astray](#episode-1660307)
 - [1660308 · After the Endless Plain](#episode-1660308)
+
+---
+
+<a id="episode-1660300"></a>
+## 1660300 · The One Traveling Far
+
+**Getian**：A fine spot to rest.
+
+The bird perches in the nook of a tall tree, but not long after, he hears branches breaking beneath him. The sudden cracks startling him from his rest.
+
+After a brief search, he finds no sign of danger and returns to his roost. A moment passes and the forest is quiet once more.
+
+**Getian**：I was on the steppe, near the upper reaches of Pèilín River, when I met Yenisei and Bessmert.
+
+**Getian**：That being so, then I should be near there soon.
+
+**Getian**：...
+
+It is, of course, abundantly clear that this verdant forest is nowhere near the steppe he is looking for.
+
+Realizing his mistake, he sighs unconsciously. Then takes out a bone flute from his belt.
+
+**Getian**：... I must "go with the flow." That was what the Hexagram instructed.
+
+**Getian**：Yet ... one who is lost should not be afraid to seek help if necessary.
+
+As he gently flaps his wings, a melody trickles out from the flute.
+
+Soon the melody draws the attention of the forest's birds. They close in, landing on the branches around him.
+
+**Getian**：Please, I am in need of some help.
+
+**Getian**：I am traveling to the steppe that begins at the upper reaches of Pèilín River. Could you show me the way?
+
+**Bird**：Chirp, chirp chirp—chirp?
+
+**Getian**：No, no, I'm certain it's called "Yenisei River." But it is most strange that the river shares its name with my friend.
+
+**Getian**：So where is this river then?
+
+**Bird**：Chirp—chirp chirp chirp—chirp.
+
+**Getian**：That far, truly? How is it that I became so turned around ...
+
+**Getian**：Well it will take far too long to fly back now. I might as well take a look around here.
+
+**Getian**：I will "go with the flow."
+
+Gětiān lifts off with a bow, flying high into the sky to look for a new closer destination.
+
+The flourish of forest below shrinks until it's only a small stroke of green on a wide canvas.
+
+A mountain ridge is painted into the scene. One end sloping downward to the cut of a river, while the other end stretches out, coiling across the landscape to the steppe land that lies far in the distance.
+
+The trees below him grow more scattered and sparse. Those that remain tower tall and straight, with needles instead of broad leaves, standing out like tiny brown dots on the painting.
+
+Then icy fens ahead capture the blue of the sky and freeze it into ice. And a dusting of snow covers dry brown soil, as if it were salt sprinkled across a marble table.
+
+Among the boundless white caps and fields of snow, a handful of buildings sparkle with lights, drawing the bird's attention.
+
+**Getian**：What do I see here?
+
+Gětiān glides back down towards a desolate patch of ground.
+
+Someone has piled grain here ...
+
+He watches for a while, but sees only squirrels and hares moving about carrying out mouthfuls of looted grain.
+
+There seems to be nothing else around, no sign of a house, nor even a person.
+
+Perhaps he might stay the night and fill his empty belly.
+
+And so, Gětiān lands softly in the yard, and finds himself something to eat.
+
+> **Title card：** 6#1
 
 ---
 

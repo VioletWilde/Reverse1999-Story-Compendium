@@ -1,7 +1,7 @@
-# 1912 · Semmelweis
+# 1912 · The Third Circumstance
 
 <!-- reading-navigation:start -->
-[← Previous chapter: Eagle](1911-Eagle.md) · [Story index](../README.md) · [Next chapter: When Peace Blooms →](1916-When%20Peace%20Blooms.md)
+[← Previous chapter: Finding Xavier](1911-Eagle.md) · [Story index](../README.md) · [Next chapter: When Peace Blooms →](1916-When%20Peace%20Blooms.md)
 <!-- reading-navigation:end -->
 
 - Story units：`6`
@@ -1529,5 +1529,5 @@ The chocolate sways and melts on her tongue, causing a strange yet delightful ti
 ---
 
 <!-- reading-navigation:start -->
-[← Previous chapter: Eagle](1911-Eagle.md) · [Story index](../README.md) · [Next chapter: When Peace Blooms →](1916-When%20Peace%20Blooms.md)
+[← Previous chapter: Finding Xavier](1911-Eagle.md) · [Story index](../README.md) · [Next chapter: When Peace Blooms →](1916-When%20Peace%20Blooms.md)
 <!-- reading-navigation:end -->

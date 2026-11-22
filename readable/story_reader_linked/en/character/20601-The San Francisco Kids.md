@@ -4,16 +4,282 @@
 [← Previous chapter: Through the Glass](19603-Through%20the%20Glass.md) · [Story index](../README.md) · [Next chapter: On the Thousandth Night →](20603-On%20the%20Thousandth%20Night.md)
 <!-- reading-navigation:end -->
 
-- Story units：`5`
+- Story units：`8`
 - Trail：`0`
 
 ## Contents
 
+- [2060101 · "An Offer"](#episode-2060101)
 - [2060102 · A Friend From the East](#episode-2060102)
 - [2060103 · The One With an Umbrella](#episode-2060103)
 - [2060104 · Friendly Meeting](#episode-2060104)
 - [2060105 · Disco Party](#episode-2060105)
 - [2060106 · Me Again](#episode-2060106)
+- [2060107 · Grand Feast](#episode-2060107)
+- [2060108 · The Guys](#episode-2060108)
+
+---
+
+<a id="episode-2060101"></a>
+## 2060101 · "An Offer"
+
+**Antony**：It's totally worth it, boss! Seriously, trust me, I've checked it out—it's a done deal!
+
+**J**：Lucky us, pal. I splurged on my bike in L.A., and now we've got a big deal waitin' for us!
+
+**J**：When we seal this thing, we're gonna live it up, call the crew, and hit up the best spots in town!
+
+**J**：Well, check us out. Ain't we just like something outta the movies?
+
+**J**：A coupla good pals, on a dark rooftop, facing down some bald mooks in black suits. Badass hustlers making deals in the dark!
+
+**J**：Which one does the big man want? We've got a whole stockpile of blades.
+
+The young swordsmith has no lack for masterpieces, but has rarely found a buyer capable of appreciating them.
+
+After all, no matter how keen or balanced the blade, a bullet will always be faster and easier.
+
+**Antony**：Blades, yeah, blades. The boss wants our swords. He's already collected a bunch of fancy Chinese and Japanese ones.
+
+**Antony**：You're famous, man—it's your skills that got the big man interested in this deal in the first place!
+
+**Antony**：Here we are. According to their instructions, they'll pay a deposit after the deal's made, then we deliver ...
+
+**J**：I get it, buddy. But first, we need to make a flashy entrance. Can't have the bossman thinkin' we're small time.
+
+**J**：Evening, gentlemen!
+
+**J**：Haight Street J came out to meet you in person! And this here's my pal, Antony!
+
+**Antony**：Brought the head honcho to meet you, bossman.
+
+**???**：It appears seeing really is believing.
+
+**J**：Hold up, you didn't say you were bringing me to the Tung Ch'ing! What's the deal, Antony?
+
+**Antony**：Relax, boss, their money's good! Greenbacks—neat, crisp, lovely stacks of Benjamins!
+
+**???**：Indeed, as your associate Antony has stated, we always conduct our business in unmarked American bills.
+
+**Hung San**：Pleased to meet you, Mr. Brown. My name is Hung San, head of San Francisco's Tung Ch'ing Chamber of Commerce. I'm looking forward to working with you.
+
+Joe, Joe Brown, but in his circle, no one calls him that.
+
+On these streets, he's "J."
+
+The buyer reaches out his right hand, cracking a smile that holds neither warmth nor sentiment.
+
+**J**：Hey, yeah, pleasure to meet you too. But please, just call me "J." That's what I go by around here.
+
+J takes the man's hand. There is a power and firmness in his calloused fingers, just as tough and weathered as his own.
+
+**Hung San**：As you wish. Let us cut to the chase, Mr. J. I've invited you here to talk business.
+
+**Hung San**：The Tung Ch'ing Chamber of Commerce has been expanding its operations on Haight Street, and your name, I understand, is well-known in that district.
+
+**J**：Looks like you've already got the 411! It's true, everyone who's worth knowing on Haight Street knows J.
+
+**J**：But hold on a minute. Weren't you here looking to buy a sword?
+
+**Hung San**：A sword? Yes, that is precisely why I am here, but the sword I seek ...
+
+**Hung San**：Is you, Mr. J.
+
+**Hung San**：Yiqi facai, Mr. J.
+
+**J**：Antony, you gonna explain to me what an "itchy fat eye" is, or?
+
+**Antony**：It's like, we're all gettin' paid, and we're talkin' fat stacks!
+
+**Hung San**：Indeed, that is the basic sense of it. Now, Antony, if you would excuse us, we have business to discuss.
+
+Antony nods, turning to leave, but J's words halt him midway.
+
+**J**：You kicking out my guy but keeping yours around? Doesn't seem fair, does it, pal?
+
+**Hung San**：Oh, hah. No, of course, no problem.
+
+**Hung San**：Michael, John, take the men to the stairwell and keep Mr. Antony company. Leave two here. That should be enough to keep Mr. J and I secure while we converse.
+
+The boss signals, and his bodyguards follow Antony back into the dark stairwell, closing the heavy metal door from which they had made their entrance.
+
+**Hung San**：We are seeking to provide the people of Haight Street a new service providing superior entertainment, which once established, will allow us to all share in our city's economic boom together.
+
+A lie right out of the gate—not looking good. A guy like that only flashes cash, so he can pick your pocket.
+
+**Hung San**：But it seems the locals harbor some unfortunate misgivings about the chamber.
+
+**J**：Cut to the chase. How much are you offering?
+
+It appears the blacksmith has some misgivings of his own.
+
+Hung San laughs, clapping his hands together, as a briefcase is set down and slid over to J's feet.
+
+**Hung San**：This a token of goodwill, Mr. J. You and your friends are known for your generosity, so I assume this money will be put to good use.
+
+"Neat, crisp, lovely stacks of Benjamins" ...
+
+More than enough to buy off a typical greedy gangster, but nothing close to shaking a soul tempered in fire.
+
+**J**：You've got it all wrong, man.
+
+**J**：I mean, what kind of figures you throwin' at the locals?
+
+**Hung San**：The chamber has made generous offers to each resident, unfortunately, the people in your community have proved more obstinate than anticipated.
+
+**Hung San**：I admire you Americans. Both those born here and from faraway. In them, I see a commendable spirit of pragmatism, if a troublesome ... stubbornness.
+
+**Hung San**：Having only just taken over our dealings on Haight Street, I am still not yet familiar with the local customs. It seems there has been some miscommunication and unnecessary conflict.
+
+**Hung San**：But it is here, Mr. J, that I believe you would be most valuable. You and your organization could prove far more capable at "persuading" the locals.
+
+**Hung San**：I hope that you might convince them to accept the chamber's offer and transfer their shops and land.
+
+**J**：...
+
+**J**：So, let me ask again, what are you offering them? And is it more or less than what you're laying on me?
+
+**Hung San**：This is a matter of business. You must understand we seek to minimize our expenses. Still, it seems the locals are ignorant of the opportunity we are offering them.
+
+**Hung San**：Mr. J, the chamber must succeed in this business. Do you understand what I'm saying? To be frank—
+
+**Hung San**：If they accept the chamber's offer, all will be well. If not, we will have to proceed by necessity with more forceful measures.
+
+**J**：Oh, I hear ya.
+
+**J**：So, you're low-balling them for their stores, and you want me to help you muscle them into it?
+
+J glances down at the enticing green paper bricks in the case, then kicks it back.
+
+I'm not your guy.
+
+Banknotes flutter up from the open case, scattering over the floor.
+
+**J**：You think I'm just another blade-for-hire?
+
+**J**：That I'd turn on the streets that raised me? Have my people roll over and take your offer?
+
+**J**：You think I'm gonna wag my tail like a good little lapdog, then turn around to bite my friends?
+
+**J**：All for a few stacks of paper?
+
+**J**：Buddy, you don't know me.
+
+J turns to leave, making his way to the door where Anthony is waiting. But the two bodyguards move to step in his way. Only stopped by their leader's raised hand.
+
+**Hung San**：Let us remain civil. Mr. J, our dealings to today may have ended bitterly. But as I already told you, this was merely a gesture of friendship.
+
+The man springs forward to grasp J, his words dripping with a merchant's flattery and cunning, but his grip reveals his anger and his strength.
+
+**Hung San**：How could I possibly think of buying you? I have always admired men like you. Perhaps you don't understand our customs. This was a means of showing our sincerity in future dealings. A small gift for making your acquaintance.
+
+**J**：I'm all for making more friends, pal, but think I'll pass on someone like you.
+
+**J**：Antony, we're outta here.
+
+His old friend doesn't move. He waits, blocking the stairwell, shoulder to shoulder with the other guards.
+
+**Hung San**：So, you choose to turn down my hospitality and refuse our gesture of goodwill?
+
+**Hung San**：It seems that if Mr. J does not want the friendship of the chamber. He must experience a lesson in what it is to stand against us. Come, Michael, John ... Antony.
+
+Antony. He yells the name as though calling his own loyal dog.
+
+**J**：Antony, you?
+
+**Antony**：Sorry, boss, I know which way the wind is blowing. The Tung Ch'ing were just too generous with the dough.
+
+**J**：Why you dirty, low-down. I shoulda known you weren't worth a damn, you slimy little rat!
+
+J draws his weapon. The Bowie knife's cold edge as sharp and threatening as a wolf's fang under the moonlight.
+
+**J**：Alright, so you fellas wanna dance, do ya?
+
+**Hung San**：You would do well to think before you make a foolish decision.
+
+**Hung San**：It's not too late. The Chamber is known for its benevolence. This is but a small misunderstanding. Lay down your weapon, and we can still shake hands on this amicably.
+
+**Hung San**：There are only two ways down from here. I'll allow you a moment to reconsider my proposal—will you take the job and leave as our friend, or will you refuse and find yourself taking a ... shall we say "faster" way down? Hmm?
+
+J surveys his surroundings, weapon raised, taking small, slow steps back as he scans for some other means of escape.
+
+**Henchman**：Boss, don't waste your breath on this guy! We'll knock this punk out, tie him up, then work him over for a few days. He'll come around!
+
+**Hung San**：...
+
+**Hung San**：Do it. Make sure you don't bruise our "guest" too badly. We may still have use for him.
+
+**Henchman**：On it!
+
+**Antony**：Boss, maybe I can lean on the shops on the block a bit more, give it a few days, and maybe they'll ...
+
+**Hung San**：I'll handle these matters from here. You've done well, Antony.
+
+The two of them depart first, leaving their solitary guest on the rooftop to the hospitality of the remaining enforcers.
+
+**J**：Hey, big guy, yeah you, you're up first chrome dome.
+
+J's taunts come from behind the pointed edge of his knife. He's warming up, hopping in place, beckoning his opponent from his open left hand.
+
+The bald henchman steps forward and moves to seize J's knife hand, but J catches him off-guard, dipping low before swinging the blade upwards.
+
+The light whistle of steel slices through the air, followed by droplets of blood spattering across the cold, hard concrete.
+
+**Henchman**：...!
+
+**Henchman**：Damn! Don't let this guy move!
+
+Step by step, the bodyguards push J to the edge of the rooftop.
+
+**J**：Yo! Who's up next? My blade's thirsty—she's lookin' to guzzle down a whole lot more blood tonight!
+
+He raises his knife forward, stepping back until his heels hit the lip of the roof, nothing behind him now but the San Francisco skyline.
+
+There's nowhere left to go.
+
+J makes a quick scan of the gap behind him. The wind howls through the narrow alley, separating this building from the next.
+
+There is another way down—the cat's way—layer by layer, from ledge to railing, down to the ground. Only J isn't exactly a cat.
+
+**J**：You're not from around here, are you fellas? I'm guessing Antony hasn't told you much about our shortcuts.
+
+**J**：Thing is, they ain't for big gorillas like you, they're for ...
+
+J turns and leaps toward the lower railing of the next building.
+
+**J**：... jumping!
+
+He's midway through the air, waiting for the rush of falling, but his trip down ends short, as he swings head over heel, carried by momentum head first into the wall.
+
+**J**：Hey!
+
+J's body dangles upside down, his ankles seized by a surprisingly quick gorilla of the Tung Ch'ing.
+
+The unexpected collision leaves him bloodied, flailing ineffectively against the bodyguard's solid grasp.
+
+**J**：Get off me!
+
+He thrashes hard, attempting to put his captor off balance.
+
+**J**：Looks like it's your time to shine, baby!
+
+J reaches for the long sword strapped to his back; in a fluid motion, he swings the blade up, drawing a long red line across the enforcer's body.
+
+The grip is broken, and he falls headlong into gravity's embrace.
+
+**J**：Ahhhhh!!!
+
+He swings his blade out horizontally as it digs into the opposing walls of the narrow alley.
+
+It scrapes hard, letting out a shower of sparks, as the ground rushes up to meet him.
+
+**J**：Damn, where am I?
+
+**J**：That fall ... God, my leg ... Urghhh!
+
+**???**：J?
+
+**???**：Get in here!
 
 ---
 
@@ -1466,6 +1732,548 @@ J is silent for a moment. If not for the rotten stench, it might have given him 
 
 **J**：Just slippin' into some fresh threads!
 
+
+---
+
+<a id="episode-2060107"></a>
+## 2060107 · Grand Feast
+
+> **Title card：** Banquet Hall, Silver Gate Restaurant
+
+**Eternity**：Oh, your employer seems to have real class. Might he be interested in authentic miniature Hormuz pearls?
+
+**Eternity**：Crushed into powder, mixed into your bedtime milk, they ensure sweet dreams every night.
+
+She slips into the banquet with her eloquent charm and a dress that fits the occasion, weaving through tonight's guests like a darting blue fish in the ocean.
+
+Only to be jostled by the arrival of an ungainly shark and his remora.
+
+**Eternity**：Be careful, child, you've just bumped into a lady.
+
+**Eternity**：Hmm? Is that you two?
+
+They proceed as planned, the two friends feigning distraction, while the leader sneaks in.
+
+**Becket**：H-Hi, Miss Eternity!
+
+**Eternity**：What in the world are you two doing here?
+
+**Becket**：It's a long story, a long, long story. Hollick, Hollick, where are you?!
+
+**Eternity**：Hey, watch it, you're spilling your drink.
+
+Hollick is a one-man buffet table, carrying an assortment of good food in his hands, mouth, and even under his arms.
+
+His clothes are already so dotted with food stains. He more resembles a modern art piece than a guest at an elegant dinner.
+
+**Hollick**：Mhm, coming, coming!
+
+**Becket**：...
+
+Becket barely stifles a laugh, trying as best as he can to keep his mind on the mission.
+
+**Becket**：Take it easy on the grub, bro. Don't make us the center of attention so soon!
+
+**Hollick**：Becket! They've got lobsters! Little hotdogs! Suckling pig! I've never eaten so good!
+
+**Hollick**：All freakin' mine!
+
+**Banquet Guest**：How unsightly. Who let them in?
+
+**Becket**：We got invites, miss. We're Mr. Antony's plus-ones.
+
+**Becket**：Dude, ease up on the munching!
+
+**Hollick**：You can't just cut off a man's mealtime!
+
+**Becket**：I frickin' told ya to stop eating. You got cocktail in your ears? If people see us like this, we'll shame Boss Antony!
+
+**Hollick**：Antony's a bum.
+
+**Becket**：What? Bum? Say the boss is a bum one? More time, I dare ya!
+
+**Hollick**：If we can't stuff our faces, then what's the point sticking with him, huh?!
+
+**Hollick**：I can't get my fill?
+
+**Hollick**：Then nobody's gonna!
+
+Hollick's voice booms intentionally, capturing the attention of all the gathered elite of the city.
+
+And that of the security guards ostensibly here to maintain order at the banquet.
+
+**Eternity**：Ah! My Leipzig Larks!
+
+The poor little cake topples over along with the innocent table as Hollick inflames the scene.
+
+**Banquet Guest**：What in the world?!
+
+**Henchman**：Someone's causing trouble in the banquet hall. Send a few guys to check it out, but let's keep this low-key.
+
+**J**：Nicely done!
+
+All eyes converge on the chaotic scene unfolding, while an agile figure takes the chance to slip past the guards and ascends up to the second floor.
+
+...
+
+**Henchman**：Hey, what's going on down there?
+
+**J**：We're going to need a few more hands. Some big dude's stirring up trouble. Can't keep him down.
+
+Bewildered by his sheer confidence, the giant rushes down the stairs to join the scene. Everything's going smoother than expected.
+
+J feigns a calm step as he moves unhurriedly through the rooms, arriving at a lavishly decorated door.
+
+**J**：This looks like the place ...
+
+The infiltrator slips in after a single glance backward.
+
+> **Title card：** Office, Silver Gate Restaurant
+
+He closes the door and opens a window, his instincts telling him to leave an escape route handy.
+
+**J**：Damn! Antony didn't clue me in on what these things are supposed to look like!
+
+Paper, paper, and more paper, filled with incomprehensible writing.
+
+The words swirl in his head.
+
+**J**：What is all this stuff?
+
+He recognizes some words on the pages, at least most of them, but when strung into sentences, everything seems to jumble into nonsense.
+
+**J**：Guess I just take it all, and let someone with half a brain figure it out.
+
+He's about to stuff his clothes full of every piece of paper he can find when he's interrupted by the sound of approaching footsteps.
+
+J tries to return the "trash" to its place as neatly as he can, closing the drawer as he plans to bolt for the window.
+
+But then, he remembers the bug. Evidence, yes, evidence, he needs to eavesdrop on something worthwhile before leaving.
+
+The footsteps draw nearer. In his haste, he looks around, finding refuge in a large wooden cabinet.
+
+It's a tight fit. He has to scrunch up just to get the door closed in time.
+
+**???**：Close that window.
+
+**Hung San**：Who was on this door?
+
+**Henchman**：Taff, boss. That brat. I'll make sure to teach him a lesson.
+
+**???**：Let it go for now. It seems like nothing's out of place. We can't afford an unnecessary mess.
+
+**???**：How are things going with the new complex?
+
+**Hung San**：Everything's on track.
+
+Hung San's familiar voice is as smooth as ironed paper. He's confident—cocky, even. Assured that everything is going as planned.
+
+**Agent R**：Our employer does not wish his name to appear in any negative news reports, you understand.
+
+J's pocket bug silently records their words, as J struggles to hold himself still in his awkward position.
+
+**Agent R**：We must put more pressure on the rest of these mongrel shops.
+
+**Hung San**：We plan to do just that.
+
+**Agent R**：Once the new complex opens, that side of the business will be under your direction.
+
+**Agent R**：Leave two men here. We can't afford any unnecessary risks. The rest of you can go down and eat, but keep a low profile.
+
+**Hung San**：You heard him. You, you—you two stay, everyone else out!
+
+**Henchman**：Got it, boss.
+
+As most of the guards leave, there is a noticeable shift in the mood of the room.
+
+**Agent R**：You've been sloppy lately.
+
+**Agent R**：You were instructed to handle things gracefully. Instead, what do I hear? Fighting on the streets, kidnappings?
+
+**Agent R**：You're acting like a street gang!
+
+Hearing this, J stifles a laugh from his hiding spot.
+
+He seems to truly believe in the hype of the name, the Tung Ch'ing Chamber of Commerce. But it's a gang, no different than any other.
+
+**Hung San**：Say what you will, we've nearly completed our work. The finished contracts are in that cabinet, and we saved our employer more than a little money.
+
+His voice dripped with greed and violence. Those "savings" came wrenched out of people's livelihoods.
+
+**Hung San**：Allow me to get them for you.
+
+Footsteps inch closer to the cabinet door. There's no easy way out of this. He's got one chance, and it's coming fast.
+
+**J**：Closer, closer ...
+
+He clutches his knife. He can hear the metal's anxious tremor, just like the pounding of his own heart.
+
+**J**：Got a present for ya.
+
+...
+
+...!
+
+**Agent R**：What's that racket?
+
+A sudden, loud disturbance seems to grab the attention of both men, and the cabinet door remains closed.
+
+**Hung San**：No need for concern. We have more than enough security downstairs to handle any situation.
+
+**Henchman**：I'll go take a look, boss.
+
+**Henchman**：Let's go, bro. Time for a little workout!
+
+As the bodyguards are about to leave, the mysterious agent rubs his forehead, then waves his hand to stop them.
+
+**Agent R**：Stay put, if as you say, there are enough men downstairs, I need you here. And leave the cabinet alone, Hung San. I don't have time to read through every scribble. I only need to know it's done.
+
+**Hung San**：As you wish. But it is as I said, everything is taken care of.
+
+**Agent R**：Sure, sure. But are things being done properly? That is my concern—It already seems we've attracted unnecessary attention.
+
+Following his eyeline, Hung San looks out the window to a gathering mass of logo-covered white vans. Reporters by the dozen.
+
+**Hung San**：Reporters? That shouldn't be. We paid to keep their attention elsewhere.
+
+**Agent R**：...
+
+**Agent R**：I can't stay. Take care of our guests.
+
+J breathes a sigh of relief as Hung San's feet move away from the cabinet.
+
+**Agent R**：Go down to the first floor. Make sure things run smoothly.
+
+In a hurried fashion, the men and their bodyguards leave the room. As the lights switch out, J cautiously emerges from his hiding spot.
+
+**J**：That all?
+
+The pages are filled with dense legalese and text that far surpass J's comprehension.
+
+It might as well be a phone book to him, just another thing to practice cutting with his knife.
+
+**J**：Whatever the hell these things say, they're mine now.
+
+He pockets the documents, tucking them into his clothes, and moves to leave through the door. Only to find himself face-to-face with a returning guard.
+
+**Henchman**：Who're you?!
+
+**Henchman**：Somebody's here!
+
+**J**：Sorry, buddy!
+
+A punch lands squarely on his nose, followed swiftly by a second to the chin.
+
+Taking down one guard might only require two unexpected punches, but dealing with three or five more won't be so simple.
+
+**J**：That dude's head's like a rock.
+
+He shakes off the sting in his hands.
+
+His paths left and right are blocked by rushing guards, leaving only one way out.
+
+The room behind him, back to the window—now unfortunately closed.
+
+**J**：Later, fellas!
+
+He crashes shoulder-first into the window, tumbling down to the grass below. Thankfully, this time he isn't quite so far up. He dusts himself off, and proudly flips the bird toward the window sill.
+
+But before he makes his clean get-away, a bottle of wine spills down on him from above.
+
+**J**：Damn!
+
+The sheriff is waiting by the phone booth, as they agreed.
+
+**J**：Blackhand!
+
+J braces against the hood of a car stalled in traffic, leaping over expensive vehicles and leaving a trail of blaring horns in his wake as he arrives.
+
+**Sheriff Blackhand**：Seven forty-three. You're quick. I'll give you that, kid.
+
+**Sheriff Blackhand**：Doused again, though, at least this time you don't smell as bad.
+
+**J**：Some documents, the bug ... Is that it?
+
+The sheriff flips through the documents, a smile spreading across his rugged face.
+
+**J**：So what's all this scribble?
+
+**Sheriff Blackhand**：Hmm. Beneficiaries.
+
+**Sheriff Blackhand**：Stuff that could really ruin someone, but it's best to keep that bullet in the chamber for now.
+
+The sheriff pockets the papers and leans into his radio to notify his superiors.
+
+**Sheriff Blackhand**：We've got the evidence on him. Can we move in?
+
+The sheriff waits for a brief reply over the static.
+
+**J**：Is that your boss? They trustworthy?
+
+**Sheriff Blackhand**：It's always good to have a heavy hitter in your corner.
+
+**Sheriff Blackhand**：I owe you one, J.
+
+**J**：So, then you'll cut everyone loose? The ones in the slammer and the bums your guys ran off. Give 'em a break.
+
+**Sheriff Blackhand**：If and only if we can wrap up tonight's show with a nice little ribbon.
+
+**J**：And what about the shops that got snatched up?
+
+**Sheriff Blackhand**：Not my jurisdiction, J. They're going to need lawyers, but it's a good chance they'll get them back.
+
+**Sheriff Blackhand**：Apologies for interrupting the banquet, everyone.
+
+**Sheriff Blackhand**：But as San Francisco's good sheriff, it's my duty to make sure we keep law and order in this fair city.
+
+**Hung San**：Ah, Sheriff, perfect timing. I need you to arrest these two hooligans disrupting our banquet.
+
+**Sheriff Blackhand**：Not why I'm here, chief. I'm told there's some illegal activity going on, and I'm not talking about rude dinner guests.
+
+**Sheriff Blackhand**：Out of the way. We're going in.
+
+**Hung San**：Please, Sheriff, many respected figures from the city are attending this event. You might want to consider your re-election campaign.
+
+**Sheriff Blackhand**：Let's start with this one.
+
+**Hung San**：Me? No, perhaps there's been some misunderstanding.
+
+**Hung San**：Unhand me! I am not some common crook!
+
+**Sheriff Blackhand**：Not a common one, that's for sure. We'll discuss your charges in detail back at the precinct.
+
+**Hung San**：Hold on. Blackhand, I'm warning you! I have many connections in this city! Powerful connections!
+
+**Sheriff Blackhand**：And I'm warning you, those connections are going to dry up fast with the evidence I've got on you.
+
+As the red-faced gang leader's wrists are cuffed, he looks back to see a familiar face, with a wide and devilish grin.
+
+Beneath the spotlights now fixed on the hotel, J spies a figure quietly leaving under the escort of bodyguards with black umbrellas, slipping into a car by the side door.
+
+**J**：That must be our Agent R.
+
+**Good News Reporter**：Agent R? Is that ...?
+
+**Hung San**：J ...?
+
+**Hung San**：...
+
+**Hung San**：You'll regret this.
+
+**J**：Yeah, yeah. Enjoy the view from the slammer, oh, and say hi to all my pals. I'm sure they'll be happy to see you.
+
+**J**：You guys must have a ton to talk about.
+
+**J**：Since you're the one who put them in there.
+
+The dust settles, but the hero is still hungry.
+
+**Sheriff Blackhand**：J, where are you off to?
+
+**J**：Man, give me a break. I haven't hit the dinner table yet! There's a room full of top-notch grub and booze going to waste!
+
+---
+
+<a id="episode-2060108"></a>
+## 2060108 · The Guys
+
+**J**：Good, chill off now, be cool!
+
+**J**：I said cool it!
+
+Sparks fly. Each hammer strike lands with a whipping crack. J exerts all his strength to tame the restless metals, his muscular frame shedding sweat in the glow of the flames.
+
+Copper and tin, when combined, are temperamental and irritable, always reluctant to cooperate with J. The two metals bicker ceaselessly until they unite in the flames.
+
+Forging bronze, though, is not nearly as difficult as dealing with steel, which manages a temper all on its own.
+
+He must be forceful, seizing the moment, forcing the uncooperative metals to bond in the heat.
+
+Iron is prouder and more stubborn than the others. Taming it requires a touch more nobility and persuasion.
+
+He's drenched in sweat, each hammer strike echoing as the reverberations traverse his spine, his endurance eventually earning the metal's approval.
+
+Aluminum is light and playful, and gold is elegant and silent, never opposing his will.
+
+**J**：COOL IT!
+
+The metal resists purposefully, but after a decisive strike of J's hammer, all becomes still.
+
+Each and every metal eventually submits to him, like a wild horse accepting its master. A new sword is about to be born.
+
+**J**：Here's hoping you're not as bloodthirsty as some of your predecessors. A good sword should only come out when it's really needed, pal.
+
+J sets aside his tools, downs a jug of cool water, and wipes the sweat from his brow, before picking up a metal badge.
+
+**J**：Nice, very nice!
+
+A modest gift, intended for his old friends soon to be freed.
+
+A trinket of his own design that marks the wearer as a friend of J from Haight Street.
+
+**Becket**：J, someone's here for you.
+
+**J**：Another sword-buying bigwig?
+
+His last deal didn't exactly go as planned.
+
+The visitor enters the forge ahead of J, the sheriff greeting him with a warm smile.
+
+**Sheriff Blackhand**：Good morning, J. Hoo-whee, it is hot as hell in here!
+
+The forge is still blazing hot as he enters.
+
+**J**：Arming your boys with some fresh steel?
+
+**Sheriff Blackhand**：Haha, no. But if you're in the market for something, just let me know.
+
+**Sheriff Blackhand**：I'm going to cut to the chase before my eyebrows singe off. I need you to come down with me to the office, got some papers for you to sign.
+
+**J**：So, you putting in an order or not?
+
+**Sheriff Blackhand**：You wish. Nah, not buying anything. It's about your immigrant friends.
+
+The time has come for him to keep his promise.
+
+**Sheriff Blackhand**：I've worked something out between the Mayor's Office and INS. They'll let your friends stay, but only if they get a sponsor.
+
+**Sheriff Blackhand**：It's a formality, really. Just need to make sure we've got someone to blame if they get into trouble. So you'll have to watch out for them.
+
+**J**：Count on it. I'll be there for my friends.
+
+**J**：Come on, Becket, go get Hollick too. If he's snoozing, give him a kick.
+
+**J**：And grab that stack of those badges from the table.
+
+> **Title card：** Haight Street Police Station
+
+**J**：How many left?
+
+**Sheriff Blackhand**：It's one stack per head, J.
+
+J can't recall the last time he wrote this much. Would have to have been before he left school. Maybe never.
+
+Polly woulda left a trail of neat, pretty signatures. Not like his ugly scrawls.
+
+J can't help but think of his sister, Paulina. She probably does this much paperwork every day at her fancy "Foundation" job.
+
+**J**：All set?
+
+**Sheriff Blackhand**：All set. Now, I mean it. Don't let them get into trouble. I pulled all the strings I've got to get this done.
+
+**Sheriff Blackhand**：Stay put for a bit.
+
+The sheriff motions for him and his colleagues to depart, leaving the three companions waiting beside the mounds of paperwork.
+
+**J**：Wasn't the last time we were here to bail Hollick out?
+
+**Hollick**：It was Becket, after he slashed that dude's tires.
+
+**Becket**：I was trying to get you some extra work. You're welcome, buddy.
+
+**Hollick**：But all the extra dough I got just went to your bail ...
+
+**J**：Wait, how come I was left outta the loop on that little scheme?
+
+**Becket**：Well, it didn't work out, did it? So, I learned my lesson.
+
+**Hollick**：Only because you got busted.
+
+**Sheriff Blackhand**：Who got busted?
+
+The sheriff strides in, followed only by two uniformed deputies.
+
+**Becket**：Just saying how glad we were that our courageous sheriff busted up those Grant Avenue boys.
+
+**Sheriff Blackhand**：Sure, sure. But I can't take the credit on that one. You fellas did the legwork.
+
+**Sheriff Blackhand**：Of course, the bigwigs have already lawyered up. Looks like this time we're only going to nail the leftovers.
+
+**J**：But you're still going to honor our deal, right?
+
+**Sheriff Blackhand**：Yeah, it ain't your fault this city's rotten. Besides, they've been making a fuss since they heard you were here. Last thing I need is a riot.
+
+**Sheriff Blackhand**：But I can't exactly just have them go hooting and hollering out of the pen.
+
+**Sheriff Blackhand**：I'll get them out one by one when we've got time. We'll drop them off around Tang Ji's.
+
+**Sheriff Blackhand**：I'll play the good Samaritan and cover their lunch too.
+
+**J**：Just make sure they get these.
+
+The gleaming badges symbolizing J's friendship and his promise of protection.
+
+**Sheriff Blackhand**：You looking to be the sheriff of the underground, eh? Haha! Alright, I'll see to it that everyone pops up at your eatery wearing your little badge.
+
+**Sheriff Blackhand**：Just remember to whip up something tasty for them. They'll be needing it after a few days of holding pen grub.
+
+**J**：Don't you worry about that? I'll hook them up with jobs again and make sure everyone gets a decent meal!
+
+But first, the boys and I are gonna soak up some of that California sunshine.
+
+...
+
+**J**：Did it conk out?
+
+**Becket**：Weren't you the one who said this clunker was fixed?!
+
+**Hollick**：Well, when it came into the shop, it was just the tires that were shot. I sorted that out way back ...
+
+The tires might be the only thing on this wreck that isn't busted.
+
+**J**：Alright, so we stop wherever the car stops.
+
+**J**：Time for a photo op! To mark another triumph!
+
+**Becket & Hollick**：Another victory for J! A victory for Haight Street and for the diner gang!
+
+**J**：Now, let's hit the gas! Get moving!
+
+**J**：And if the car stalls, we bail out. This place ain't half bad. Take a look, guys, the bridge's right behind us!
+
+The Golden Gate Bridge looms up high behind them, crossing the bay that's launched a million dreams, and took just as many in.
+
+The trio steps out on the curb, unloading the trunk's contents.
+
+Cameras, tripods, beer, fried chicken, fruit ... After wrapping up a big job, it's only right to have a little fun.
+
+**Hollick**：Help me out, J. I ain't too sharp with this stuff.
+
+**J**：Stick the timer in the shutter, wind it up, give us ten seconds.
+
+**Hollick**：Twist, twist, then press it down, boom! J, we're good!
+
+The novice photographer isn't quite familiar with the device, a far cry from the hefty iron wrenches he's used to handling.
+
+**Hollick**：It's showtime, J.
+
+**J**：Move it, buddy! Get over here! Pick up the pace!
+
+Ten, nine, eight ...
+
+**J**：Seven, six, five ...
+
+**J**：Hollick!
+
+**J**：Hahaha! Watch it!
+
+The shutter captures the exact moment before their hefty friend takes a tumble.
+
+**J**：You okay, buddy?
+
+**Hollick**：Damn, who's the joker who tossed this banana peel here?!
+
+**Becket**：Yeah! We might be crooks, pals, but litterbugs?!
+
+The culprit feigns ignorance, rubbing off the remaining scent of banana in his pockets.
+
+**J**：Becket, show us your hands.
+
+**Becket**：Just had some fried chicken, boss—fried chicken! They're all greasy. You don't wanna see that.
+
+**Hollick**：Becket!
+
+**J**：Whoa, easy there, Hollick. Careful you don't take another spill!
 
 ---
 

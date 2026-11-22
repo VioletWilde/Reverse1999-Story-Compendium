@@ -4,7 +4,7 @@
 [← Previous chapter: Farewell, Rayashki](18101-Farewell%2C%20Rayashki.md) · [Story index](../README.md) · [Next chapter: Route 77: The Haunted Highway →](21101-Route%2077_%20The%20Haunted%20Highway.md)
 <!-- reading-navigation:end -->
 
-- Story units：`13`
+- Story units：`22`
 - Trail：`27`
 
 ## Contents
@@ -21,7 +21,16 @@
 - [2010110 · See You, Rats](#episode-2010110)
 - [2010111 · Ingle and Anvil](#episode-2010111)
 - [2010112 · Empty Coffin](#episode-2010112)
+- [2010113 · A Small Tip](#episode-2010113)
+- [2010114 · Hymns](#episode-2010114)
+- [2010115 · Don't Look at It](#episode-2010115)
+- [2010116 · Come with Me, Lost Lambs](#episode-2010116)
+- [2010117 · Parting Gift](#episode-2010117)
+- [2010118 · Alone](#episode-2010118)
+- [2010119 · Velvet Ribbon](#episode-2010119)
+- [2010120 · Letter Home](#episode-2010120)
 - [2010121 · Landlubber](#episode-2010121)
+- [2010122 · Unanswered Door](#episode-2010122)
 
 ---
 
@@ -3867,6 +3876,1626 @@ Until at last his heart gives way, beating its last.
 
 ---
 
+<a id="episode-2010113"></a>
+## 2010113 · A Small Tip
+
+> **Subtitle：** Right at the enemy's gates.
+
+### Segment 1 · `script 202017`
+
+**Market Guard I**：We thought she was a grandma, you know, like one of those little old ladies who uses a walker.
+
+**Market Guard I**：Boy was I wrong. She ran faster than a jackrabbit. So there she went, the goods still in her arms.
+
+**Market Guard II**：Shut up, Roth. And quit trying to get rich. I gotta take a leak.
+
+He waves his hand and darts into the small grove.
+
+Some time passes, and the other guard left behind grows wary.
+
+**Market Guard I**：Hey Cuco, you trying to piss up a lake or something?! Hurry up!
+
+No one answers.
+
+He cautiously peers forward, catching sight of someone leaning over a tree stump.
+
+> **Title card：** Forest, Suburbs
+
+**???**：Shoot! Don't come over here! My zipper's stuck! Gimme a sec!
+
+Despite the frantic tone of the pleading voice, the guard seems not to have detected anything.
+
+**Market Guard I**：Hahahaha, Cuco, you need scissors or something?
+
+**Cateye Wisen**：Mr. Pioneer, now!
+
+Behind the guard, another figure emerges in response.
+
+"Crack—"
+
+The wooden club comes crashing down on the guard's head, before splitting into two pieces.
+
+The would-be victim appears totally unharmed.
+
+**Market Guard I**：W-What the hell?!
+
+**Pioneer**：... I told you it wouldn't work. It isn't "handy" at all.
+
+He discards the wooden club, removes an arm, and clenches the hand into a fist.
+
+**Market Guard I**：Hey! Intruders over here! Come quick, you idiots!
+
+From afar footfalls rush toward them.
+
+**Pioneer**：I have a feeling this one will be a hard nut to crack.
+
+### Segment 2 · `script 202018`
+
+**Matilda**：I clearly saw Mr. Pioneer and Wisen draw the guards away. Where did they go?
+
+**J**：Don't worry about them. They're probably just hiding somewhere. We've already taken down most of the guards. They'll realize soon.
+
+The two late reinforcements scan the area.
+
+**Cateye Wisen**：*pants* I'm here, boss! Help, Mr. Pioneer has ...!
+
+The boy's desperate cry echoes from the lakeside.
+
+**Matilda**：Is that Mr. Pioneer's arm?!
+
+J kneels, pounding the ground in frustration.
+
+**J**：Pioneer! I'm sorry, man. I should've come earlier.
+
+J appears genuinely heartbroken at the thought he has arrived too late, fighting back messy tears.
+
+A stiff hand is laid gently on his trembling shoulder.
+
+The soothing words arrive just in time.
+
+**Pioneer**：Enough faffing around! Go get my arm! And don't make me repeat myself!
+
+**J**：Hey! Hey! Hey! Don't kick my butt!
+
+"Thud—"
+
+**J**：*pants* Damn! What's wrong with you, man?! I've never swum in my entire life! You almost killed me!
+
+**Pioneer**：Well, when new boys join us in the future, I'll tell them, "You know that famous J? He was drowned in a kiddie pool."
+
+**Pioneer**："May the rubber duck be with him."
+
+**Matilda**：Shh! Enough, you fools!
+
+She separates the pair, who have been standing side by side.
+
+**Matilda**：Move, get out of the way! According to Ms. Maich, the door is right where you're standing.
+
+She crouches down to examine the barren soil, stretching out her hand to measure its length.
+
+The other three mimic her actions.
+
+Yet apart from the solid earth, there is nothing in sight.
+
+**Pioneer**：But there's nothing here, Ms. Bouanich. No keyhole, no door frame. Is it buried underground? Perhaps we need to dig it up.
+
+**Matilda**：No. Since the very beginning, there's never been a specific door that leads to their lair. In other words, any door could take us there.
+
+**Matilda**：The key is a shortcut. It will take us directly to them.
+
+**Maich the Peddler**：I saw them go into the woods with dozens of believers. They went inside a tent.
+
+**Maich the Peddler**：I was worried about my friend, so I searched for any secret tunnels or cellars that they might've used. I thought I could follow the traces left by their arcane skills.
+
+She shakes her head.
+
+**Maich the Peddler**：But I found nothing.
+
+**Maich the Peddler**：At the same time, I heard that a door had been salvaged from the sunken Lady Elgin. The archaeologists found that the door didn't lead anywhere—it was useless.
+
+**Maich the Peddler**：Back on the ship, it was installed in front of a wall. I've read about these "meaningless" doors before in my brief study of archaeology.
+
+**Maich the Peddler**：When installed inside tombs, they serve as a decoration and a distraction against tomb raiders.
+
+**Maich the Peddler**：So, it dawned on me that perhaps it is not the "door" that matters.
+
+**Matilda**：It is the key that matters.
+
+**Matilda**：Doors are just a medium through which spaces are connected. It is the key that opens the way.
+
+**Matilda**：En conclusion, this key can make any door a shortcut to their lair.
+
+**Matilda**：Even without a door, there is still a path we can take. There is always a direct route that connects two points on the map of Gnosis.
+
+One line, two lines—their fingers sketch the outline of the door roughly on the ground.
+
+**Matilda**：We can take that path by touching the key and reciting the incantation.
+
+**Matilda**：All we need to do is draw an entrance.
+
+**J**：So ...
+
+**Pioneer**：...!
+
+**Matilda**：Hmph! I will send the coordinates to the Foundation. When the reinforcements arrive, they can come with us.
+
+**Matilda**：Before we enter, you must know. I only mastered the art of opening the door. The art of closing the door, however ... Well, only the Manus know how to do that.
+
+**Matilda**：Are you all aware of the risk? We may get locked in there and never come back.
+
+**J**：Alright, alright, enough talk. We've come this far. Nothing's gonna scare me off.
+
+**Matilda**：Fine. Over here, gentlemen!
+
+As the crowd gathers, one person is pulled away.
+
+**Cateye Wisen**：Boss, boss! What're you doing?! I can help, too! Just ask Mr. Pioneer!
+
+**J**：You're smarter than most kids I know, Wisen. That's why I got an even more important job for you—to stay here.
+
+The child's head nearly collapses in response. Feeling abandoned, he looks away in unwilling defeat.
+
+**J**：We'll need you soon. But not now.
+
+**Cateye Wisen**：Alright.
+
+They stand before the door lying at their feet, checking one another for any signs of hesitation.
+
+**J**：See you later, kid.
+
+Then all at once, they leap into the bottomless door.
+
+**All**：Whoa!
+
+Their center of gravity reverses, the sky hangs upside down, and a wave of intense dizziness passes through them from head to gut.
+
+There is a clamor of voices, rhythmic tap dancing ...
+
+Strange murmurs and whispers fill their ears, while others wail and sob.
+
+**Matilda**：Ah, crap! Wh-what's going on?! This was not part of the plan.
+
+**J**：Guys ...
+
+**Pioneer**：Damn it. Hey, where are we?! Please! Put my head back on. I can't see a thing!
+
+They lift his head, set it back on his neck, and re-adjust it.
+
+**Pioneer**：Now, calm down, fellas. It can't possibly be that ... bad ...
+
+Night and day reverse.
+
+An endless tide of bodies surges, engulfing them.
+
+In the distance, figures clad in black robes gather.
+
+The scene is overwhelming. Words catch in their throats.
+
+**Matilda**：If all these people are Manus followers, the Foundation's reinforcements will be far from sufficient!
+
+**Pioneer**：Ah. It appears we're already in the middle of their lair, Ms. Bouanich.
+
+Behind them, a familiar yet strange voice speaks out.
+
+**???**：*chuckles* Welcome, distinguished guests.
+
+---
+
+<a id="episode-2010114"></a>
+## 2010114 · Hymns
+
+> **Subtitle：** Our praises are reserved for Them alone.
+
+### Segment 1 · `script 202019`
+
+> **Title card：** Gathering Place, New Age Market
+
+**???**：What a pity. I thought you gentlemen would recognize me.
+
+Beneath the black hoods, faces are hard to distinguish.
+
+They instinctively take a step back, gripping their weapons.
+
+The woman removes her black robe, revealing an extravagant gown.
+
+**J**：Have we met before? Wait, I know, gimme a sec.
+
+He nudges Pioneer's elbow.
+
+**J**：Damn, when did I mess with this girl? She's gonna eat us alive if she finds out I don't remember her!
+
+Regarding J's overconfidence in his charms, Pioneer really wants to roll his eyes, but he lacks the ability—a heartbreaking defect of a mannequin.
+
+**Pioneer**：My apologies, ma'am. We simply didn't expect to see you. We're new here, and the sight of this place took us aback.
+
+**Eternity**：I see. Allow me to thank you again for your "alms." *chuckles* I can forgive your surprise. You're certainly not the first to react in such a way.
+
+**Eternity**：You don't look like merchants or believers, and even the way you were invited is unique. You must be the special guests of the ceremony.
+
+**J**：Th-that's exactly who we are! We got lost. That's why we look a bit messy. Haha.
+
+**Eternity**：*chuckles* What lovely young people! Now, may I see your invitation from the Order of Enlightenment?
+
+J's smile freezes in place.
+
+The question races through his head: "Is it merely a casual question or an order?"
+
+**Eternity**：Look at you! Hah hah! There are no invitations. It was just a joke, sweethearts. Relax.
+
+**Eternity**：I have no interest in those outdated rules. Where there are customers, there is business. Every coin I earn is as glorious as the last, no matter whose pocket it's from.
+
+**Eternity**：And, amidst your confusion, I smell a good deal.
+
+**Eternity**：On the other hand, it is good manners to notify our host of the arrival of new guests. I'm sure they'll provide a satisfying reward in return.
+
+**Eternity**：Hmm, you've given me quite the dilemma. What to do? I wonder ...
+
+A clear hint and a threat that can't be ignored.
+
+Unfortunately, whatever her toll might be, they can not afford it, or anything else at the moment.
+
+The two poor men look at each other, then turn to their only possible savior.
+
+**Matilda**：Wh-what?! Don't look at me! Where's your money? There's no room in my budget for any extra expenses!
+
+**Eternity**：In that case, how about another deal?
+
+She extends an unexpected olive branch.
+
+**Eternity**：I recognized that thing on your back the moment I saw it, young sir, and those calloused blacksmith's hands.
+
+**J**：...
+
+**Eternity**：Oh, look. You've wrapped it so tightly for fear of it being recognized, but that thing can't be hidden. Since you've lugged it all the way here, why not show it to me?
+
+He involuntarily takes a step back, hiding the shaft behind him.
+
+**J**：No. It's totally worthless.
+
+Matilda lets out an exasperated sigh as she makes up her mind to help.
+
+**Matilda**：Fine! I'll make the payment!
+
+**Eternity**：...
+
+The lady accepts the hefty bribe but, in an instant, loses her smile.
+
+She murmurs faintly to herself.
+
+**Eternity**：This crystal ribbon ... Ah, would you look at that? This is Beryl Bouanich's money. Then you, little lady, must be her daughter.
+
+**Eternity**：This will be quite a show!
+
+**Matilda**：Huh? What are you talking about? Anyway, I showed you my sincerity. Now it's your turn.
+
+The lady steps back, no longer interested in the trifles set before her.
+
+**J**：Hey, hey! Where do you think you're going? We haven't asked you anything yet!
+
+**Eternity**：No need, sweetheart. I already know what you're going to ask. *chuckles* A good merchant always knows what a customer needs.
+
+**Eternity**：Your friend has been waiting for a long time.
+
+**Eternity**：Oh, and here's some free advice: don't get too close to the altar.
+
+She points in the direction of the massing crowd, where the flames and revelry have come to an end.
+
+Flickering torches casting out distorted shadows.
+
+A chant rises above the shrieking of critters and stamping feet.
+
+**J**：Hey, what's that?
+
+**J**：...
+
+She vanishes into the crowded marketplace.
+
+He can only shrug.
+
+Leaving behind the fawning merchants, they venture deeper into the celebration.
+
+And the deeper they venture, the greater the joy on the crowd's faces. It is as if they were deaf to the mournful wails and cries echoing around them.
+
+**Pioneer**：Gosh, J. That's Madam Gloria, isn't it? I thought she went home after she lost her son. What is she doing here?
+
+**J**：Not just her. The artists from the trailer camp are here, too.
+
+**J**：And that's Reno, the gambler who ran away from home, and Caster, the human who sells fake divination. All our lost friends. They're all here.
+
+The missing people of the New Age Market huddle by the walls. Their faces are gaunt, yet smiling into the fire.
+
+Pioneer steps forward and drapes a filthy, floor-length blanket over a grieving woman.
+
+**Pioneer**：What are you doing here, ma'am?
+
+**Madam Gloria**：Oh, Mr. Pioneer. I haven't seen you for ages. What a joyful evening this is! Please, take a seat.
+
+Her smile is warm and inviting, yet tears stream down her face.
+
+The baby in the swaddling blanket is strangely calm.
+
+**Madam Gloria**：Come and see my lovely child, Mr. Pioneer. I'd prayed countless times to the Sufferer, and finally my wish was granted. He has returned to me from the land of the dead.
+
+**Pioneer**：But, Madam Gloria ...
+
+**Pioneer**：This is just a wooden statue! Can't you tell?!
+
+The smoke is spreading, drifting into Matilda's line of sight.
+
+**Matilda**：...!
+
+**Matilda**：Don't get any closer, Mr. Pioneer! There's no way to wake them up. They are lost in their own imaginations.
+
+**Matilda**：Look! There's hallucinogenic incense burning on the altar. Hold your breath! We have to get out of here—quickly. We can't help them if the hallucinations get to us too! We'll come back for them when we can!
+
+**Matilda**：J, what are you doing?! We need to go!
+
+Matilda pulls Pioneer back onto the main road, while J remains standing there, motionless.
+
+The believers notice the oddity and turn their heads.
+
+**Believer**：Why are you intruding on his joy?!
+
+**Believer**：Can you not see that he is enjoying the grace granted by the Sufferer?
+
+**Matilda**：Damn! J! J!!
+
+In the distance, J remains frozen.
+
+Her shouting proves futile, only drawing more attention to herself.
+
+**Believers**：Desecrator! Leave that faithful believer alone!
+
+**Matilda**：Damn! Damn!!
+
+### Segment 2 · `script 202020`
+
+The bonfire blazes hotter and hotter.
+
+The sound of the fallen hitting the ground merges into the thunderous footsteps of their advancing comrades, all going unheard.
+
+**Matilda**：J! Hey, J! What are you doing? We have to get out of here!
+
+She tugs at his arm, but J remains frozen.
+
+In the distance, the chanting becomes clearer.
+
+**Chanting**：Faced with sorrow, eyes shall be blinded.
+
+**Chanting**：Open your arms and offer us your senses as proof of devotion.
+
+**J**：Paulina?
+
+**J**：Are you ... Paulina?
+
+**Chanting**：Place your palms upon your eyes.
+
+**Chanting**：Feel joy and happiness. Become one with the Sufferer.
+
+**Paulina**：*coughs*
+
+**Paulina**：You're too late.
+
+**Chanting**：Recall the origin of your soul, and return to the one and only home.
+
+Elysium.
+
+---
+
+<a id="episode-2010115"></a>
+## 2010115 · Don't Look at It
+
+> **Subtitle：** It is only when your eyes are covered that you can truly see.
+
+**"Razor"**：According to the Foundation's assessment, this is a priority level A operation, which means it'll be as dangerous as the Walden operation. I hope you're fully aware of the risk.
+
+**"Razor" Soldier I**：We don't have enough men or supplies, Captain. We don't stand a chance!
+
+**"Razor" Soldier I**：They've refused to send us any support since the last mission. We can't do this without ...
+
+**"Razor"**：Enough, soldiers! An order is an order.
+
+**"Razor"**：Remember, the goal is not to fight a war. The Manus leaders are scattered all over the place. Our mission is to find them and finish them.
+
+**"Razor"**：The assassination of the Manus leaders is our top priority. The backup from the Foundation will not arrive until we've completed this mission.
+
+**"Razor" Soldier II**：In other words, if we fail, we're on our own, right?
+
+The hesitation lasts barely a moment, but everyone tacitly understands.
+
+**"Razor"**：Let's hope it doesn't come to that.
+
+**"Razor"**：Time to move, soldiers. We've almost arrived at Investigator Bouanich's coordinates.
+
+**"Razor"**：We're walking from here on out.
+
+**Helmeted Biker**：Hey! Get outta the way! Quit standing in the middle of the road!
+
+A motorcycle zooms past them.
+
+**"Razor" Soldier II**：Hey, are you blind or something?!
+
+**"Razor"**：Focus on the operation, Todd. Let's go.
+
+...
+
+**Madam Gloria**：Heh heh, just close your eyes, and it all becomes real.
+
+**Madam Gloria**：Close your eyes. Stop thinking. Then, you will be in paradise. Heh heh. Illusion is also part of reality, is it not?
+
+The old woman rocks her "child" in the swaddling blanket, softly kissing the wooden stick.
+
+She resembles a wounded fawn, gasping for breath.
+
+She is once again that child huddling under the covers, waiting—hoping he would come back.
+
+**Paulina**：*coughs* Why didn't you come for me? You should've come sooner.
+
+**J**：I'm sorry. I-I'm sorry.
+
+**Matilda**：Don't let the illusion confuse you, J! You must break away!
+
+Matilda's voice is cut off from the outside.
+
+Yet he knows better than anyone that he is on the brink of losing himself.
+
+**J**：I know you're only an illusion, a thought in my mind that I just can't shake, but even so, I wanna stay.
+
+**J**：There's something I've always wanted to know.
+
+**J**：Tell me, Paulina, do you wanna go back to Haight Street?
+
+The girl nods faintly.
+
+He steps forward and reaches out his hand.
+
+**J**：We'll stay in the restaurant like we used to, but there'll be no drunks looking for trouble this time.
+
+**J**：We can hop on my bike and go for a ride around San Francisco. Scare the heck outta any boys who try to hit on you.
+
+**J**：If the St. Pavlov Foundation invites you to join them again, I'll tell them to buzz off.
+
+She extends her hand to him.
+
+**Paulina**：Of course.
+
+"Zing!"
+
+The incense burner on the ground is split in two, and the illusion dissipates.
+
+He sheathes the Bowie knife, shaking his head.
+
+**J**：You're not Paulina. Tsk. Not even close. You didn't call me a jerk. You didn't have that sarcasm of hers when people looked down on her.
+
+**J**：Of course, I miss my sister. More than anything. She was proud of me. And when she packed her bags and left Haight Street ...
+
+**J**：She was proud of herself.
+
+Matilda, standing behind him, sighs with relief and pats his shoulder.
+
+**Matilda**：Good job, big guy. Team Matilda is proud of you!
+
+**J**：What do you mean, Team Matilda?! We should obviously be Team J!
+
+**Pioneer**：Oh, please, neither one of you has good taste.
+
+**???**：I'll tell you one thing: you got good noses. But it'll only bring you misfortune in this game.
+
+He steps out from the shadows, holding a gun in his hand.
+
+Other tall figures follow closely behind, gathering around them.
+
+**Legers**：Good evening, uninvited guests. The honorable Apostle and Ms. Mercuria have been expecting you.
+
+**Legers**：It's best not to keep them waiting. Don't you think?
+
+He presses the gun against J's chest, while another lackey rushes in from behind.
+
+**Gio**：A punch for a punch, "Vern." Remember me?
+
+The fist swings solidly into J's stomach, stirring him as it hits.
+
+**J**：*coughs*
+
+> **Title card：** Altar, New Age Market
+
+**Apostle Matheus**：Dear believers, we were once ignorant lambs led by false shepherds. We yearned for the so-called Truth—to satisfy our meaningless desires.
+
+**Apostle Matheus**：Those who we served deceived us; those who we believed in betrayed us. That is why we gather here today to embrace the grace of the Sufferer and live a new life.
+
+**Apostle Matheus**：Before the ceremony begins, I, Apostle Matheus, sincerely express my penitence for my past beliefs.
+
+**Apostle Matheus**：I came from an isle ruled by a school. The people there believed everything could be interpreted through numbers. Like a coward, I followed this method of thinking and held the same false beliefs within my heart.
+
+**Apostle Matheus**：We lived in a cave, thinking that we were well hidden from the outside world. We thought no one could reach us.
+
+He paces around the bonfire as all the worshipers kneel on the ground.
+
+**Apostle Matheus**：But then, the outsiders arrived. They massacred us, yet our beliefs availed us nothing!
+
+**Apostle Matheus**：Bombs were detonated, and my friends were blown to pieces. The entire isle was shrouded in the darkness of death.
+
+Holding a sharp sword, he makes a fierce black cut across his palm, leaving a deep scar.
+
+Next, he grabs J by the hair, drawing a line with his blood-smeared fingers along his neck.
+
+**J**：Urgh!
+
+**Apostle Matheus**：But that will never happen again. We have found the eternal paradise. The Sufferer has granted THEIR glory to us all. As THEIR children, our strength shall be gathered, and we will no longer face injustice.
+
+**Apostle Matheus**：Many, many fellow believers have joined us. We are whole. We are one step closer to reviving the Sufferer.
+
+Beside him, the bound girl stares wide-eyed.
+
+**Matilda**：These are all ... Oh dear! I've never seen so many Manus masks in one place!
+
+The Apostle picks up a mask from the ground, surrounded by countless others.
+
+**Apostle Matheus**：Brothers! Sisters! Don your masks! Join in the grace granted by the Sufferer, and repeat after me!
+
+**Apostle Matheus**：We praise, we rejoice.
+
+**Matilda**：No! Don't put them on! They will destroy you!
+
+**Matilda**：The illusions! They're blinding you! They're not real!
+
+The reports, acquired at the cost of countless sacrifices, scroll through her mind:
+
+"The mask of Manus Vindictae helps its bearers endure the 'storm' at the cost of losing their sanity."
+
+Faces of colleagues tortured and cursed in the mask's incantation experiments flash through her mind.
+
+"A cruel but necessary sacrifice for the benefit of mankind and arcanists."
+
+**Matilda**：Stop! Don't do it!
+
+Her cries pierce the silence but do not reach their ears.
+
+They remain expressionless.
+
+A pebble falls.
+
+With it, a torrent pours down.
+
+**Apostle Matheus**：We praise, we rejoice.
+
+**Believers**：We praise, we rejoice.
+
+**Apostle Matheus**：We punish, we cleanse, we awaken—we are one.
+
+**Believers**：We punish.
+
+**Believers**：We cleanse.
+
+**Believers**：We awaken.
+
+**Mercuria**：We awaken.
+
+**Believers**：We are one.
+
+**Mercuria**：We are one.
+
+---
+
+<a id="episode-2010116"></a>
+## 2010116 · Come with Me, Lost Lambs
+
+> **Subtitle：** To an exclusive abode to enjoy Their grace.
+
+### Segment 1 · `script 202022`
+
+The "Razor" Squad, always sharp as a scalpel, comes to an immediate halt.
+
+This doesn't match their mission intelligence.
+
+**"Razor"**：We've lost contact with Investigator Bouanich. Please reconfirm the coordinates.
+
+The contact device responds as an answer flashes on the screen.
+
+"Confirming Investigator Bouanich's final coordinates. Coordinates confirmed. Please proceed with the operation."
+
+**"Razor" Soldier I**：But, Captain, they're just normal arcanists and humans!
+
+Tourists, vendors, everything in front of them is unchanged.
+
+The crowds bustle noisily.
+
+**"Razor"**：Investigator Bouanich said that she left a door at the coordinates that will take us to the ceremony site.
+
+**"Razor"**：But ...
+
+The soil beneath their feet is trampled and bare.
+
+**"Razor" Soldier II**：According to the plan, she was supposed to meet us here!
+
+The captain crouches down to examine the soil.
+
+There are some fresh markings lightly obscured by footprints.
+
+**Peddler in the Corner**：...
+
+Matilda, Pioneer, and J are tightly bound and kneeling on the ground.
+
+The masked crowd has fallen into a dead silence.
+
+**Apostle Matheus**：I will leave these uninvited guests to you, Legers.
+
+**J**：Heh, what a hypocrite. Look who's the domesticated dog now, huh? You enjoy licking the boots of your owner?
+
+**Legers**：You got me, kiddo.
+
+J feels a sharp, gut-wrenching pain as Legers delivers him a heavy blow.
+
+**J**：Urgh!
+
+**Legers**：We're both eyeing the same prey, remember?
+
+"Bang—"
+
+A gunshot rings out, and blood seeps out from J's chest.
+
+**J**：...!
+
+His eyes go wide and unfocused as he collapses.
+
+...
+
+**Matilda**：J!
+
+The Apostle raises his hand, signaling for Legers to lower his gun.
+
+**Apostle Matheus**：Do not sully the sacred altar! Save your fighting. You may deal with these blasphemers after the ceremony.
+
+**Apostle Matheus**：We are about to close the door to Elysium forever, and this place will become the exclusive abode of the children of the Sufferer.
+
+**Apostle Matheus**：Now, let us enjoy THEIR grace.
+
+He raises the golden key up toward the altar.
+
+**Apostle Matheus**：We plead ...
+
+**Apostle Matheus**：Let not our joy dissipate;
+
+**Apostle Matheus**：Let our pain and sorrow fade;
+
+**Apostle Matheus**：Let our souls ...
+
+"Clink—"
+
+A sharp pain shoots through his palm.
+
+The key falls from his hand and plunges into the dense crowd below.
+
+**Apostle Matheus**：What?! The body ... What happened?!
+
+**Cateye Wisen**：Got it, boss!
+
+**J**：Thanks for making me one of "the dead" for a while, Legers.
+
+**J**：Sorry, Matilda. I lied to you.
+
+**J**：I said you have to be brave and decisive.
+
+**J**：But the truth is, being prepared is even more important.
+
+**Apostle Matheus**：Damn it! The key was your target from the very beginning!
+
+**Becket**：Get lost, dickwads!
+
+**J**：You've been declawed, grandpa.
+
+**J**：Now it's our turn. These "street rats" are gonna tear you apart.
+
+**J**：Good job, Wisen.
+
+Wisen waves the key from the back of Becket's arriving motorcycle.
+
+He has gathered together J's friends and allies just in time.
+
+**Cateye Wisen**：Thanks, boss! Took hours to get the plan through Becket's thick skull, but we nailed it!
+
+**J**：Put the key away. Mr. Tang once told me an old Eastern proverb, "shoot fish in a barrel."
+
+The rising and falling hum of motors drowns out the crackling torches.
+
+Dozens of motorcycles speed toward them, weaving through the mist.
+
+Their headlights beam through the darkened marketplace, like a row of spotlights.
+
+**Apostle Matheus**：Impossible! How did they get here?!
+
+He turns his hand to his most devoted believer.
+
+**Apostle Matheus**：You! How long have you been working with these blasphemers?!
+
+**Apostle Matheus**：Hah! Say goodbye to your precious "Legers"!
+
+Their leader stands in the distance, shaking his head as he ejects a blank cartridge from his gun.
+
+**Legers**：You're a little behind on the news, aren't you?
+
+**Legers**：I am the only "Legers" now, Apostle.
+
+His stare is intense.
+
+**Matilda**：What?! When did you plan all this?! No one told me a thing!
+
+**Pioneer**：Calm down, Ms. Bouanich. Time was against us, and we thought that your authentic reaction would be more convincing.
+
+**Pioneer**：Gio reached an agreement with J before we left.
+
+**J**：That punch felt pretty personal, though. You almost beat the crap out of me, Gio.
+
+**Gio**：Hah! I couldn't help myself.
+
+The rider next to J removes his helmet.
+
+**Hollick**：J, y-you want me to beat him up?
+
+**J**：No, Hollick! He's an ally now. We gotta look out for our friends, right?
+
+Becket spits on the ground, seemingly only half-convinced.
+
+**Becket**：Yeah, we're friends. Hah!
+
+**Becket**：Still, if these sons of b*****s don't pay up to fix the garage, I'll beat the s**t out of them!
+
+Their unexpectedly cordial exchange is yet another disruption in his plans. Yet the Apostle seems unfazed as he raises his hand with menace.
+
+**Apostle Matheus**：So be it. I have already prepared a surprise for you blasphemers.
+
+**Apostle Matheus**：Legers, I have exhausted my pity for you. It appears your loyalty is even more worthless than I expected.
+
+**Apostle Matheus**：Very well. The door to Elysium shall be shut tight. There will be no cracks for you rats to crawl through.
+
+**Apostle Matheus**：Chosen believers, prove your loyalty!
+
+His most devout believers cast off their black robes.
+
+**Manus Believer I**：*roars*
+
+**Manus Believer II**：*roars*
+
+**Pioneer**：This wasn't part of the plan, J!
+
+His newly-forged Bowie knife is drawn from its sheath.
+
+The blade's edge gleams in his eyes.
+
+**J**：Then make it part of the plan!
+
+### Segment 2 · `script 202023`
+
+Fallen believers have piled up around him.
+
+But many more remain standing.
+
+**J**：*pants* Heh. It was about time this knife tasted blood.
+
+Yet, like a forest of dead trees, these devout believers remain a foreboding threat.
+
+And there is no question—if they were to all rush forward, their remaining numbers would still overwhelm them.
+
+**Apostle Matheus**：I have guided the lost for the sake of the Sufferer. THEY have witnessed my loyalty and devotion.
+
+The Apostle feigns composure, but his steps are wavering and fearful.
+
+**Apostle Matheus**：This body, this life, is nothing, compared to THEIR great cause!
+
+**Apostle Matheus**：But we must make the blasphemers pay with their blood!
+
+**Apostle Matheus**：Children of the Sufferer, awaken your bodies and rip their heads from their necks!
+
+A figure emerges from behind him, moving with deliberate steps.
+
+Soon, one after another, more figures emerge from the shadowy crowd, all heading toward J.
+
+**Apostle Matheus**：You will die a miserable death! You will get no burial! No, your bones will be made to forever kneel to the supreme one!
+
+However, the masked figures never make their attack.
+
+They walk toward the forest.
+
+**Apostle Matheus**：My dear believers, where are you going?!
+
+**Apostle Matheus**：Is that ... our Priestess?!
+
+**J**：You thought we were finished, grandpa?
+
+**Legers**：Oh, did I forget to mention? The masks you gave me were old and dusty. I couldn't give them to my kids.
+
+**Legers**：So I got a new set of masks made, ones that you have no control over. You're welcome.
+
+In the distance, the "Priestess" removes the black robe and gives them a purposeful nod.
+
+**Mercuria**：In the depths of the woods, where whips and voices cannot reach.
+
+**Mercuria**：Who is calling?
+
+The voice beckons the figures into the mist.
+
+**Mercuria**：Not even the most bewitching voice can drown out the songs of the birds.
+
+**Mercuria**：Those who dance ...
+
+**Mercuria**：Those who are blinded ...
+
+**Mercuria**：Breathe in the fragrance of the medick ...
+
+**Mercuria**：And come with me.
+
+They find themselves within the drifting, elusive fog.
+
+---
+
+<a id="episode-2010117"></a>
+## 2010117 · Parting Gift
+
+> **Subtitle：** The sound of a whimper in a corner of the handbag.
+
+### Segment 1 · `script 202024`
+
+The Apostle's limbs fall, having lost all strength.
+
+He hunches over, crumpling as if to hide from the chaos.
+
+The lights draw closer, leaving only a single torch above his head. It casts a long shadow.
+
+**Apostle Matheus**：Everything, everything is ruined! I never should have trusted any of you!
+
+**???**：Thanks for the show. Your failure was magnificent. Your arrogance, your regret, and that look on your face when everything was ruined. They were all just perfect.
+
+**Apostle Matheus**：Damn it! Where have you been, Eternity?! You've defrauded us! Taken every Sharpodonty! Squeezed us of every drop of sweat and blood!
+
+**Apostle Matheus**：You swore the ceremony would go smoothly and that you'd pay your highest respects to the Inculcator of Arcanum, the great Sufferer!
+
+**Apostle Matheus**：You rotten, shameless liar! If I could only throw you into the depths of the Gorgon Current! I will crack your skull and make you bear the price of my pain!
+
+He stands grabbing a rock as a makeshift weapon.
+
+**Eternity**：*chuckles* I've almost forgotten about your Mediterranean roots. I must say, I didn't expect such courage from a coward who fled a battlefield.
+
+"Clink!" The rock shatters into pieces.
+
+The fragile noblewoman raises her small, delicate wand, pressing it against the Apostle's chin.
+
+**Eternity**：Psh! Your pitiful Sharpodonties are far from sufficient payment. No one would be stupid enough to go against the Foundation for so little profit. Besides, this was never part of the deal.
+
+**Eternity**：Do you have any idea who you're dealing with? That's Beryl Bouanich's daughter, and the weapon that boy carries ...
+
+The last of his courage has left him as he pleads.
+
+**Apostle Matheus**：But listen! If you don't help me escape, I'll never pay you the other half.
+
+She allows her hand to drop contemplatively and shakes her head.
+
+**Eternity**：It's true that the people at the Foundation are all misers; they're still more generous than you.
+
+**Apostle Matheus**：I-I can give you anything! Rare wands, alchemic materials, and jewelry! Lots and lots of jewelry! I got them from the believers!
+
+His panicking hands tremor as he reaches into his pocket.
+
+"Clink, clink—" A pile of glittering rings, pendants, and bangles falls to the ground at his feet.
+
+**Apostle Matheus**：Th-there's more! I-I keep them in a cellar that only I have the key to!
+
+**Eternity**：You're a dishonest customer, Apostle.
+
+**Eternity**：You're lucky that your pockets aren't empty.
+
+She retracts her wand and places it back into her pocket.
+
+**Eternity**：Pack your stuff. Let's—
+
+**Matilda**：Micare Might!
+
+A flickering light blocks the way.
+
+**Eternity**：Hey there, little lady. Nice to see you again.
+
+**Matilda**：Eternity! You're a Manus follower, too?
+
+**Eternity**：I have no interest in the Manus. I just have some business to finish. You know I'll work with anyone if the deal is sweet enough.
+
+**Eternity**：I'm a businesswoman. I always keep my word. I'm sure you understand that.
+
+**Matilda**：Ugh. You're right, but that incriminates you nonetheless! I cannot let you escape!
+
+**Matilda**：I will have to take the two of you to the Foundation! You can plead your case there.
+
+### Segment 2 · `script 202025`
+
+**Matilda**：*coughs* Was that a Misty Bubble Ball?! No, the smell is stronger. I can't even open my eyes! *coughs*
+
+**Matilda**：This probably came from the Foundation's logistics department! How did she get it?!
+
+The pink mist dissipates. Matilda manages to reopen her eyes.
+
+**Matilda**：What's this?
+
+She turns over the business card, which reads:
+
+"Dear Miss Matilda Bouanich—"
+
+"Please extend my warmest regards to your mother."
+
+"Note: Your crystal ball has a few cracks."
+
+"—Yours sincerely, Eternity."
+
+**Matilda**：I'm confused. How does she know Mama?
+
+...
+
+**Apostle Matheus**：*pants* Everything's here. I swear!
+
+He sweeps aside the dirt, revealing a wooden cellar door.
+
+**Apostle Matheus**：You have to make sure I get out of here safely! If you keep your word, I'll tell the Preacher about you, and we can do more business together!
+
+She opens the door, and a golden glow rises up to her eyes.
+
+Inside, a believer wielding a heavy hammer remains diligently at work.
+
+**Apostle Matheus**：Come out, believer! There's been a change of plan. Follow me. Eternity will get us out of here!
+
+**Cellar Guardian**：...?
+
+He climbs out from the cellar clumsily.
+
+**Eternity**：What a huge collection of valuables! And people just handed them over to you! Looks like religion is a profitable business.
+
+She closes the door, pocketing the key.
+
+**Apostle Matheus**：A-alright! Now escort me out of here!
+
+**Eternity**：I never promised any "escort," Apostle. Did you ever hear me utter such a word?
+
+**Eternity**：But ...
+
+She smiles.
+
+**Eternity**：I did say I'd get you out of here safely.
+
+She reaches into her handbag, slipping her hand fully into its narrow opening.
+
+Followed by most of her arm, which the tiny bag seems to accommodate without even a stretch.
+
+**Eternity**：Hmm. Let me see. If memory serves, that tricky little thing is—Ah, here it is!
+
+**Eternity**：There you go. It's from the St. Pavlov Foundation. One of a kind.
+
+**Eternity**：This gadget was stored in their headquarters. No one could lay a finger on it.
+
+**Eternity**：But when chaos broke out, it fell into the hands of an employee looking to make a profit.
+
+The Apostle eyes the clockwork toy with a pang of shame and confusion.
+
+**Apostle Matheus**：What's this? Some kind of wind-up toy?! How's this going to help me?! Do I look like a complete idiot to you?!
+
+She bursts into a fit of laughter.
+
+**Eternity**：*chuckles* Of course not, my dear customer.
+
+**Eternity**：Just wind it when you need to use it. That's all, Apostle.
+
+He is evidently suspicious.
+
+**Apostle Matheus**：What's it going to do—turn me into some kind of beast? A three-headed dog, or a crazed Bigfoot?
+
+**Eternity**：Haha, listen to yourself. Why would I do that to a customer? You won't turn into a monster, I promise. There's still plenty of business to be done between the two of us.
+
+Headlights beam forward in the distance.
+
+**Eternity**：Alright, time to say goodbye.
+
+She steps back slowly, merging with the darkness of the forest.
+
+**Eternity**：It's been a pleasure working with you.
+
+**Apostle Matheus**：W-wait! Wait!!
+
+The headlights come closer and closer, leaving him no other option.
+
+**Apostle Matheus**：Great Inculcator of Arcanum, please bless this child on his knees before you.
+
+**Apostle Matheus**：I am willing to sacrifice every drop of blood in my body so that you may be revived.
+
+He turns around without hesitation.
+
+**Apostle Matheus**：You, most devout believer! Wind this.
+
+He shoves the clockwork toy into the believer's hand.
+
+**Cellar Guardian**：Hmm?
+
+**Apostle Matheus**：Turn it. Understand? Wind the—
+
+He guides him to wind the toy, hand over hand.
+
+The befuddled believer grasps the technique at last, but none too soon—
+
+**Apostle Matheus**：Listen, I have to catch that woman. Those treasures belong to the great Inculcator of Arcanum. I must not let her take them away.
+
+**Apostle Matheus**：You stay here and take care of those gangsters!
+
+**Cellar Guardian**：*roars*
+
+**Apostle Matheus**：Very well.
+
+He turns, disappearing into the forest.
+
+"Creeeak, creak—" one turn, two turns …
+
+The believer's hand, driven by inertia, moves faster and faster.
+
+"Creeeak, creeeak, creeeak, creeeak—"
+
+**Cellar Guardian**：*roars* ...?! Hand ... hurts ...
+
+**Cellar Guardian**：Stop ... Stop ... *roars*?!
+
+His hand grips the toy unwillingly as his wrist and arm contort into an inhuman position.
+
+"Creeeak, creeeak—"
+
+His arm twists like a wrung wet cloth, spinning into a spiral of flesh.
+
+**Cellar Guardian**：*roars* Ugh ... Ah!
+
+His head shakes uncontrollably, and a searing, electric pain courses up from his spine to his brain.
+
+**Cellar Guardian**：*vomits*
+
+An urge, almost as if to vomit out his very soul, forces him to the ground.
+
+There his twitching eyes make out an engraving on the clockwork toy:
+
+"Ms. Kimberly."
+
+...
+
+The shadow of the believer, elongated by the firelight, lingers on the ground.
+
+It melts into the earth, forming a black mire, bubbling and roiling.
+
+Then, the blackness spills away, revealing a beautiful figure.
+
+Cold and silver moonlight sifts through the treetops.
+
+She opens her eyes and dully lifts her head.
+
+**???**：How may I serve you?
+
+---
+
+<a id="episode-2010118"></a>
+## 2010118 · Alone
+
+> **Subtitle：** Clench your fists, grit your teeth.
+
+### Segment 1 · `script 202026`
+
+**???**：I'll solve any problem for you, master.
+
+**???**：Would you like me to break your creditor's neck? Or seduce a politician? I will obey your every command.
+
+**???**：As ... As long as ...
+
+She lowers her head again, clenching her hands tightly.
+
+**???**：As long as you allow me to have a little bit of fresh.
+
+She appears calm yet frail and needy.
+
+The believer approaches her slowly. As she sees him, a look of joy comes over her face.
+
+**Cellar Guardian**：*roars* Kill ... Kill them ...
+
+**???**：That's it? Oh, I see. I've done countless jobs like this.
+
+**???**：But could you be more specific? Who are "them"?
+
+**Cellar Guardian**：Them ...!
+
+Before the burly believer can speak, a sudden elbow knocks him to the ground, kicking up a swirl of dust.
+
+**Cellar Guardian**：Urgh!
+
+**J**：You alright, lady?
+
+He reaches out but is met with a frustrated sound of rejection.
+
+**???**：...
+
+She lifts her chin, gazing up sharply at the newcomer.
+
+**???**：What do you think you're doing? Our conversation was finally getting somewhere.
+
+**Cellar Guardian**：*roars* Them. Kill them!
+
+The voice pierces her ears, his words putting an awaited stamp on their contract.
+
+**???**：As you wish, master.
+
+She lifts her hands in a passionless machine-like motion.
+
+**J**：What?!
+
+The Bowie knife slides against her crimson spike, producing a shrieking clamor.
+
+His blade shatters in an instant—pieces splintering and slicing across his cheek.
+
+**J**：?!
+
+His work reduced to nothing in an effortless moment.
+
+**???**：Hmm? I thought one blow would do it.
+
+**???**：There's no need to struggle. I am a merciful hunter. When I penetrate your skull with this needle, you'll die quickly. You'll hardly suffer.
+
+**???**：Or would you rather I use a more ancient method? I could extract your spine and store it in a jar of formalin.
+
+In the distance, the roaring of another motorcycle covers their voices.
+
+**Hollick**：J! She insisted on coming! She wouldn't take no for an answer!
+
+**Matilda**：Of course! This is Matilda's order! What are you still doing here? We have captured all the peddlers and believers in the lair. Everyone's waiting for you!
+
+**Matilda**：Did you catch the Apostle? He's crucial to our investigation.
+
+**???**：...
+
+**J**：Move!
+
+**Hollick**：?!
+
+**Matilda**：Umbra Umbo!
+
+**J**：Phew. You freaked me out, Frenchie. For a second there, I thought I'd have to rush you to the hospital.
+
+**Matilda**：Hmph! My arcane skill exam scores are second to none! Of course I can deal with such a simple trick!
+
+Yet J blocks her eager attempt.
+
+**J**：No. Matilda, Hollick, I need you to go and get all the arcanists who can still fight.
+
+He leans forward, his gaze never shifting from the peculiar girl.
+
+She looks out wearily at the crowd growing in front of her.
+
+**???**：I'm just trying to carry out my master's order. Don't waste my time.
+
+**???**：Hmm?
+
+A hand grasps her wrist.
+
+**Cellar Guardian**：*roars* Use ... this.
+
+**Cellar Guardian**：Kill them.
+
+Thick, swirling smoke rises from the familiar incense burner.
+
+Red mist sprawls out around it.
+
+**???**：Oh, this will be useful. Thank you for your help. Now then.
+
+**Matilda**：The smell! It's the Mandrake incense Ms. Mercuria used! With this density, we'll be unconscious within a minute!
+
+She raises her hand to her face, trying to cover her nose.
+
+**Matilda**：Cover your mouth and nose! Try and stay awake!
+
+However, J makes no effort to shield himself.
+
+His abdomen is painted in crimson red, and his every movement is bought with intense pain.
+
+**Hollick**：J, are you okay?
+
+**J**：I'm fine. It's nothing.
+
+**J**：Good thing is the pain's kept me awake, and I can still move my arms.
+
+In little time, the mist has enveloped the entire forest.
+
+Eternity hurries along, but stops after sensing something unusual behind her.
+
+**Eternity**：*chuckles* Looks like an exciting show. I wish I could sit down and watch.
+
+**Eternity**：Enjoy it, Miss!
+
+The mysterious girl leaps through the mist unnoticed, like a jungle cat.
+
+**Matilda**：Crap! The incense is invading our consciousness. That woman ... She's disappeared.
+
+**Matilda**：Prepare your weapons, boys.
+
+**Matilda**：Wait, J, what's wrong with your knife?!
+
+**J**：...
+
+He discards the remaining fragments of his Bowie knife.
+
+**J**：Fine. I'll use what I have.
+
+He kneels.
+
+**J**：Ugh. This sucks, Dad.
+
+**J**：My forging's not even close to your level.
+
+He removes the shaft he's long kept strapped to his back and places it on the ground.
+
+He inhales deeply as he closes his eyes.
+
+**Tang Ji**：In that moment, your father was ... Well, his arms were charred. There was nothing we could do.
+
+**Tang Ji**：He was dying, but he wouldn't let the sword go.
+
+**Tang Ji**：What I didn't know was that it wasn't he who was holding on to the sword, but the sword that was holding on to him.
+
+**Tang Ji**：The next day, the sword was gone.
+
+**Tang Ji**：And I saw you holding it in your arms, fast asleep in your bed.
+
+**Tang Ji**：Stay away from it, kid. You may not have chosen it.
+
+**Tang Ji**：...
+
+**Tang Ji**：But it has chosen you.
+
+**J**：*deep breath* Sorry, Mr. Tang.
+
+At last, he opens his eyes.
+
+Layer by layer, like bandages being slowly unwrapped from a wound, the blade is revealed.
+
+It shines like crystal in the glimmering moonlight.
+
+**J**：Long time no see, buddy.
+
+### Segment 2 · `script 202027`
+
+**J**：*coughs* Ugh. Hollick!
+
+Blood is flowing steadily from him now, soaking his waist.
+
+The two battered figures stand around helplessly.
+
+Meanwhile, stubborn Hollick lies prone, gripping her tightly.
+
+**J**：Let go. Just stay where you are!
+
+**J**：Hide yourself!
+
+The red mist has nearly drained the last of J's strength.
+
+The branch pierces his calf, pinning him to the ground.
+
+**???**：Just listen to him, will you? This is starting to become bothersome.
+
+She crouches down, looking at the fat man at her feet.
+
+Despite his mangled shoulder, he throws his full weight into her to keep hold of her foot.
+
+**Hollick**：No, no, no. I have to do this.
+
+**Hollick**：J ... *coughs* Tell Becket that I didn't, I didn't run away or cause any trouble this time.
+
+**Hollick**：I'm more useful than he thinks. Right, boss?
+
+**Hollick**：He'll never make fun of me again. Hahaha.
+
+Exhausting his last bit of strength, Hollick throws the object he is holding into the air.
+
+*swoosh*
+
+A sickly-sweet taste fills Hollick's throat.
+
+**Hollick**：Urgh!
+
+**J**：Damn it! Damn it!!
+
+A sharp spike has pierced through his throat, and his oil-stained hands fall limp.
+
+**Hollick**：Fire ...
+
+**J**：...!
+
+A new idea flashes through his mind.
+
+He grasps his sword and brings it down with force—
+
+The blade punctures the canister, and immediately, flames erupt around it.
+
+The canister has burst open, spewing licks of flame everywhere.
+
+In the dry woods, the fires quickly spread into an inferno.
+
+The blazing fire scours over trees and underbrush.
+
+The red mist mingles with dark gray smoke, forming a deep haze.
+
+**Matilda**：Are you going to ...?!
+
+**J**：*coughs* Ugh. Hollick ...
+
+**J**：It's the only way. Someone's gotta see the smoke.
+
+---
+
+<a id="episode-2010119"></a>
+## 2010119 · Velvet Ribbon
+
+> **Subtitle：** It was once associated with a delicate ideal.
+
+**Paulina**：Enough, J. I really don't give a crap about what you've learned "on the streets." I don't want to hear it.
+
+**Paulina**：I'd rather take my chances and die out there than stay here and never live at all.
+
+J kicks the door hard, smashing a hole straight through it.
+
+**J**：You really think you're gonna build connections with the government? Rub shoulders with the upper class? You think they'll take you seriously?
+
+**J**：You're no different from any of the "cannon fodder" at the bottom of their system! You're gonna be fighting a battle even tougher than the one on Haight Street!
+
+He stomps forward with a domineering presence, playing every bit the role of a stern father.
+
+**J**：Why do you think I kept those government suckups from finding you in the first place?
+
+**J**：Listen. It doesn't matter where you go, as long as it's not the St. Pavlov Foundation!
+
+**J**：You could go to college, join a company, a hospital. You'd live a better life than anyone else!
+
+She closes the suitcase, then looks up at him with a smile of genuine warmth.
+
+**Paulina**：Hah. "A better life than anyone else," huh? Listen to yourself. That's ridiculous!
+
+**Paulina**：You finally said what you really think, didn't you, J? Our righteous boss and kindhearted neighbor.
+
+**Paulina**：But you know what? I'm not interested in comparing myself to anyone else! I actually want to do something meaningful with my life. Something beyond you, beyond myself, beyond the whole of Haight Street!
+
+**Paulina**：And there is nothing you can do that is going to stop me from pursuing my dream.
+
+He sneers.
+
+**J**：But who's gonna help you when you're in danger? Those idiots in white robes? How can you entrust your life to the Foundation and not your family or friends? And all because of some dream you're not even sure you can realize?
+
+**J**：You know, one day, you'll come crawling home and cry about how the world is nothing like you imagined.
+
+**J**：And I'll just laugh and say I told you so.
+
+She looks at him coldly.
+
+**Paulina**：Fine, then laugh, J.
+
+**Paulina**：Some people are willing to deal with pain, even willing to sacrifice themselves if they have to.
+
+**Paulina**：If I die out there, it'll be because I chose to.
+
+**Paulina**：If that's the price I'll pay to protect everyone, then so be it.
+
+**J**：...
+
+His mocking expression falls away; he leans up against the wall and lets out a long, deep sigh.
+
+**J**：What happened, sis? Since when did we walk such different paths?
+
+**Paulina**：Ever since you beat up that voodooist who tricked me and laughed because I was a human, that's when. You beat him to a pulp, Joe. You forced him to beg on the street.
+
+**Paulina**：Everyone here is stuck in a vicious cycle. One person tortures another, then he tortures someone else, and so on and so on. It never ends!
+
+**Paulina**：Well, I think I've found a way to break the cycle, and I'm going to try it, even if I make mistakes. I know you think you can stop anything—bar fights, arguments—but you can't stop me.
+
+She pushes open the door.
+
+**J**：Bike's broken.
+
+**Paulina**：I'll take the Greyhound.
+
+**J**：They're not running today.
+
+**Paulina**：Then I'll walk.
+
+**Paulina**：I'll walk until I get there.
+
+"Thud ..."
+
+**J**：*coughs and vomits*
+
+Matilda stands in front of him, resolute and unshakable.
+
+The taste of blood and vomit mingles in his mouth, trickling out from behind his teeth.
+
+Throbbing agony sears through him from each movement.
+
+**???**：Alright, blondie. Ready for a formalin bath?
+
+**Matilda**：...
+
+She realizes in a moment of terror that she is completely unarmed.
+
+**Matilda**：As an investigator of the St. Pavlov Foundation, I, Matilda Bouanich, have a duty to protect the people, even at the cost of my life!
+
+Her voice wavers, and her legs buckle—barely holding.
+
+This is the responsibility that the SPDM has taught her.
+
+**Z**：Tell me, Matilda. When you confront the Manus, are you certain that you'll have the courage to come face-to-face with death?
+
+**Z**：Are you sure you're ready to serve as a field investigator?
+
+**Matilda**：I will do everything I can to protect everyone.
+
+**Matilda**：With honor and dignity, I will make the Bouanich family proud.
+
+J's eyelids feel chained down, dragging his consciousness downward with them.
+
+In his periphery, a jagged snake tail writhes and twists in the air.
+
+A slender figure stands before him.
+
+It is as if he sees that blue ribbon fluttering past his eyes again.
+
+He lets out a final deep cry.
+
+**J**：Run, you idiot. I don't need you to protect me! I don't need your sacrifice!
+
+**J**：I don't care about your duty or whatever the Foundation says! I don't f*****g  care!
+
+**J**：You don't get it, do you?! If you die like Hollick back there, everything you have—everything you've been through—will be gone for good.
+
+**J**：*coughs* Tell your boss that I got in trouble because I didn't follow the confidentiality agreement. Tell her I deserved it.
+
+**J**：And tell her that stupid big guy over there picked the wrong side and got himself killed.
+
+**J**：You've done your job. No one can blame you.
+
+**Matilda**：No. I decline your offer.
+
+**Matilda**：I will stand and fight until the reinforcements arrive!
+
+Her hand steadies and tightens into a fist.
+
+**J**：Just run ... *coughs*
+
+**J**：Forget about us. Save yourself.
+
+**Paulina**：Some people are willing to deal with pain, even willing to sacrifice themselves if they have to.
+
+**Paulina**：If I die out there, it'll be because I chose to.
+
+**Paulina**：If that's the price I'll pay to protect everyone, then so be it.
+
+**J**：I wish you could've lived a different life.
+
+**J**：I wish you'd been born into a happy family.
+
+**J**：That you'd had your own room with a huge bed and lived in a beautiful, fancy house.
+
+**J**：I wish you'd been a rich girl. I wish you'd been cherished by your parents and that everyone had been proud of you.
+
+**J**：I wish you'd never known about the poverty, disease, and war in the real world.
+
+**J**：I wish you could've slept in a room without a broken window and with a fireplace that kept you warm at night.
+
+**J**：I wish you didn't have to live in that run-down room I set up for you. I wish you could've worn new clothes that no one laughed at.
+
+**J**：I wish you could've been surrounded by kind and loyal friends.
+
+**J**：I wish ...
+
+**J**：... we'd never met.
+
+**???**：There they are!
+
+---
+
+<a id="episode-2010120"></a>
+## 2010120 · Letter Home
+
+> **Subtitle：** Confessions and realizations.
+
+**Anonymous Writer**：I don't want to write this letter.
+
+**Anonymous Writer**：But I promised myself that, once we could talk as equals, I would persuade you to accept my decision.
+
+**J**：*coughs* Sure is dusty in here.
+
+**J**：I gotta clean up.
+
+Dust on the ground shimmers in the sunlight.
+
+**Anonymous Writer**：I thought I would have the courage to confront you, then.
+
+**Anonymous Writer**：I thought I could tell you how foolish and selfish you were. I thought I could make you proud of me by going to places you've never been and seeing what you've never seen.
+
+**Anonymous Writer**：But now, when faced with a mission that could put my life at risk, I realize that I'm not as brave as I thought.
+
+**Anonymous Writer**：My hands are trembling. My body wants to run. I don't want to lose everything I have.
+
+**Anonymous Writer**：I don't want to die nameless, especially now that I'm so close to the life I've always wanted.
+
+**J**：Hmm? When did you get this hole? Ah, sorry, buddy.
+
+**J**：I shouldn't have kicked you.
+
+**Anonymous Writer**：I keep thinking about what I told you that day. About how some people would sacrifice themselves if they had to.
+
+**Anonymous Writer**：I remember the scared look on your face when you heard that. I was so proud of myself at the time.
+
+**Anonymous Writer**：I thought, "Finally, I managed to scare him."
+
+**Anonymous Writer**：But now I wish I could go back and stop myself. I know that scaring you is nothing to be proud of.
+
+**Anonymous Writer**：I only did it because I knew I was the only one in the world who could hurt you.
+
+**Anonymous Writer**：...
+
+"Knock, knock, knock ..."
+
+**Anonymous Writer**：And now that I've established myself, I can talk to you as an equal.
+
+**Anonymous Writer**：But I've found myself doubting my decision. When my colleague knocked on my door, urging me to prepare for our field mission ...
+
+**Anonymous Writer**：And he called out my name, "Paulina! Paulina!"
+
+**Anonymous Writer**：How I wished he were you.
+
+**Anonymous Writer**：How I wished for you to open that door and protect me.
+
+**Anonymous Writer**：But that thought only lasted for a moment. Then I understood where my fear came from, and why you were so scared when I talked about sacrifice.
+
+**Anonymous Writer**：I realized that even though countless people are suffering out there, even though my colleagues have sacrificed their lives, even though more and more children have become homeless ...
+
+**Anonymous Writer**：I'm not as brave as I want to be.
+
+**J**：Phew. All fixed, finally. You're looking much better now, buddy.
+
+The old hole in the door has been patched with wooden planks.
+
+**Sputnik**：Mr. J, are you really selling the restaurant?
+
+**J**：Don't worry about it. A new, even better guy will take over.
+
+**Anonymous Writer**：But I also understand that someone has to step forward and stop this tragedy. Otherwise, our world will fall apart, leaving nothing but sadness and pain.
+
+**Anonymous Writer**：A single drop of water can't form an ocean, a single piece of tile can't build a roof, nor can a single person put an end to a war.
+
+**Anonymous Writer**：For a long time, humans and arcanists have been on opposite ends of the spectrum.
+
+**Anonymous Writer**：Faced with this catastrophic event, we may all perish unless we stick together.
+
+**Anonymous Writer**：But in the grand scheme of things, I'm just a blip on the radar.
+
+**Anonymous Writer**：Yes, I'm just a weak, cowardly human.
+
+**Anonymous Writer**：But I'm also a member of the St. Pavlov Foundation.
+
+**Anonymous Writer**：I can finally truly say those words with conviction.
+
+**Anonymous Writer**："Some people are willing to deal with pain, even willing to sacrifice themselves if they have to."
+
+**J**：This is a good spot.
+
+**Anonymous Writer**：Piece by piece, we'll build a shelter. And one day, the rain will stop.
+
+**Anonymous Writer**：We can't save those we've lost, but I believe that one day we'll reach a new era.
+
+Someone waves from outside the door.
+
+**Legers**：We should go, J.
+
+**J**：...
+
+He takes down the photo, folds the letter, and smooths it out.
+
+Then, he slips both into his chest pocket.
+
+And just as she had once, he pushes the door open to leave.
+
+---
+
 <a id="episode-2010121"></a>
 ## 2010121 · Landlubber
 
@@ -4070,6 +5699,155 @@ From time to time, she glances back, trying to spot the toy on him ...
 
 Relying on the help of Ms. Maich, a citizen of the New Age Market, the support team successfully entered the "Underground Market." During the investigation, smoke from a fire suddenly rose from a forest 1.3 miles away from there. At the site, we found an injured Foundation investigator (Matilda Bouanich), a critically injured adult male arcanist (Joe Brown), a male human corpse (Harvey Hollick), and a female enemy suspected of belonging to Manus Vindictae (identity unknown).<br><br>    This woman's mystical abilities far exceeded our expectations. The spells she used were extremely dangerous and difficult to understand. We were engaged in an unprecedentedly fierce battle ... Fortunately, we can confirm that the battle with Matilda Bouanich, Joe Brown, and their group had significantly drained her energy; otherwise, we might have faced a deadly confrontation ... After a second round of attrition, her arcane skills weakened, and with the help of the people summoned by Joe Brown, we gained an initial advantage. We planned to carry out a feasible capture plan to extract important information about Manus Vindictae. However, Manus Vindictae retreated much faster than usual, leaving behind a few mindless followers who hindered our plan. Additionally, due to the fog and some unknown rare incantations, the tracking arcane skills we had prepared in advance were rendered ineffective at the site ...<br><br>"Razor" Squad<br><br>Reporter: Todd Smith
 
+
+---
+
+<a id="episode-2010122"></a>
+## 2010122 · Unanswered Door
+
+> **Subtitle：** Knock, knock. Who's not there?
+
+> **Title card：** Ruins
+
+A figure stands before the ruins.
+
+**Forget Me Not**：...
+
+He is silent as a gravestone, keeping all else at bay.
+
+Footsteps echo up from behind.
+
+**???**：Mr. Forget Me Not, there you are.
+
+**???**：The Guiding One said she didn't want you to come back to this manor.
+
+The figure remains silent.
+
+**???**：The St. Pavlov Foundation has destroyed another hidden outpost in San Francisco.
+
+**???**：Don't you want to go there yourself? Let those white robes see blood?
+
+In the distance, the figure turns slowly.
+
+There is no trace of longing in his eyes, only emptiness—a dark abyss that swallows up the sky.
+
+**Forget Me Not**：Can you see it? It was once a deserted land.
+
+**???**：What?
+
+**Forget Me Not**：Then countless arcanists—thousands of generations of them—sacrificed their blood and bones to build the tunnel.
+
+**Forget Me Not**：When it was complete, they were ecstatic. They kissed the earth in their jubilation.
+
+**Forget Me Not**：Yet, in the end, they found nothing.
+
+She notices the old, yellowed book in his hand.
+
+But the title is no longer discernible.
+
+**???**：I ... I'm not sure what you're talking about.
+
+**Forget Me Not**：...
+
+He turns his attention to something new—
+
+The trembling figure of the girl.
+
+**Forget Me Not**：Never mind.
+
+**Forget Me Not**：I know what you're going to say. The Preacher has ordered us to return.
+
+**Forget Me Not**：She has received a new oracle.
+
+In the distance, the girl nods dumbstruck.
+
+**Forget Me Not**：Let's go.
+
+They are leaving the quiet place.
+
+He stops again, returning his eyes to the ruins.
+
+For the last time.
+
+**Driver**：Ah, come on, baby, move! We're in the middle of nowhere! The towing fee will cost an arm and a leg!
+
+**Driver**：Ahh! Damn it, my baby's gonna be stuck here forever! And all for a bit of cash. *sobs*
+
+**Matilda**：The tires sink into the mud, spinning helplessly.
+
+**Matilda**：The man slumps back in his seat, completely indifferent to the anxious passenger in the back.
+
+**Matilda**：Hmm. The map says it's still a fair distance from the safety house.
+
+**Matilda**：*sighs* Looks like the Great Matilda must count on herself once again.
+
+**Driver**：Hey, wait, Miss! You haven't paid me!
+
+He climbs halfway out the window to reach out to her.
+
+**Matilda**：Three, five, eight ... twenty! And here's a tip, too. I hope it can make up for your loss, at least to some extent.
+
+**Matilda**：Hmph. A distinguished and generous passenger such as me must be a rarity!
+
+**Matilda**：I will walk the rest of the way. If you stay here and wait for me, I will show you my generosity again when I return!
+
+**Driver**：S-sure, Miss!
+
+He licks his fingers as he counts the bills, momentarily forgetting his worries.
+
+Matilda retrieves her suitcase, swaying with its weight as she departs.
+
+Following the narrow path into the forest, her silhouette vanishes beneath the dark branches.
+
+Naturally, the driver remains entirely unaware of the incantation she had cast on the engine.
+
+**Matilda**：The location of the safety house is classified. I must be very careful.
+
+**Matilda**：Vestigium Vanish!
+
+**Matilda**：Alright. Now I won't leave any footprints behind.
+
+**Matilda**：*sighs* If only I had an assistant with me. Then I wouldn't have to carry this suitcase all by myself. It would be even better if it were Sonet—Heh ... Mama would be happy to meet her.
+
+She mutters to herself as she steps forward, leaving a trail of deep footprints.
+
+**Matilda**：Hmm. I can't feel Mama's incantation at all.
+
+**Matilda**：I suppose that makes sense. The Laplace staff swore that this place was so hidden that not even a Glawackus could find it.
+
+**Matilda**：I hope she's doing well.
+
+She quickens her pace, pushing aside the thick growth.
+
+A house appears before her. To her eyes, it seems to glow with hope.
+
+**Matilda**：There it is! Hmph, I knew it! Those stupid Manus followers could never find her. She's one of the best diviners and crystal healers in the world! She must have foreseen all the possible circumstances and prepared for them.
+
+The light shining over the mountainside chases away the darkness, carrying her worries away with it.
+
+**Matilda**：Humph, but she will certainly be surprised when she sees that this visitor is her own outstanding daughter! It's been so long!
+
+**Matilda**：The SPDM canteen knows nothing about French cuisine. I can't wait to eat Mama's cooking again.
+
+**Matilda**：Most importantly, I need to have Mama pick a new orbuculum for me. *sighs* Not even the best crystal craftsman could do anything to repair the cracks in mine.
+
+In the distance, a light from the wooden cabin flickers.
+
+The door has been left slightly ajar, as if anticipating the arrival of a visitor.
+
+**Matilda**：Hmph. Dear Mrs. Bouanich, come and see who's here.
+
+She pushes the door open gently.
+
+Silence dominates the space.
+
+The wind roams in behind her recklessly, tearing at the curtains.
+
+Dozens, even hundreds of crystal spheres scatter to the floor, like pearls from a broken necklace.
+
+They fill the room, each one marred by a web of cracks.
+
+**Matilda**：Mama?!
 
 ---
 

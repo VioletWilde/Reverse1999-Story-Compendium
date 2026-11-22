@@ -4,7 +4,7 @@
 [← Previous chapter: Chronicles of Uluru: London Dawning](23101-Chronicles%20of%20Uluru_%20London%20Dawning.md) · [Story index](../README.md) · [Next chapter: Showdown in Chinatown →](25101-Showdown%20in%20Chinatown.md)
 <!-- reading-navigation:end -->
 
-- Story units：`21`
+- Story units：`23`
 - Trail：`14`
 
 ## Contents
@@ -14,6 +14,8 @@
 - [2410103 · Cryptography for Beginners](#episode-2410103)
 - [2410104 · Music of the Era](#episode-2410104)
 - [2410105 · The Day We Set Sail](#episode-2410105)
+- [2410106 · As Home Fades](#episode-2410106)
+- [2410107 · Music or Light](#episode-2410107)
 - [2410108 · An Old Song at Sea](#episode-2410108)
 - [2410109 · Science Salon](#episode-2410109)
 - [2410110 · Piracy—Not the Fun Kind](#episode-2410110)
@@ -1594,6 +1596,578 @@ Ulrich gives her a reassuring pat on the shoulder.
 
 **Captain**：And there's no need to worry about the broadcast room, I'm sure it'll be just fine.
 
+
+---
+
+<a id="episode-2410106"></a>
+## 2410106 · As Home Fades
+
+> **Subtitle：** On the other side of the sea, there lies peace and boundless hope.
+
+The main hall is packed with passengers. Their wine sways slightly, emitting an enchanting luster in the beautiful, familiar melody.
+
+Girls weave their way carefully through the excited crowd, like a school of nimble fish.
+
+The passengers nod politely to the girl at the front.
+
+**Guest I**：Ms. Barcarola! At last you've graced us with your presence!
+
+**Guest I**：Henry and I were just having a little wager on whether we'd see our musical star outside the spotlight. Looks like he'll be buying me the next round of whiskey, eh? Haha.
+
+**Barcarola**：Ah, well bet, sir! Allow me to pour you the first glass. How do you like your whiskey? On the rocks, perhaps?
+
+**Guest I**：Indeed, thank you, my dear.
+
+**Guest II**：*gasp* Over here, Mum! It's Ms. Barcarola!
+
+**Guest II**：Last time I saw her, she performed an entire symphony all by herself. She was the whole orchestra! I've never seen anything like it!
+
+**Barcarola**：It's good to see you again, my little friend.
+
+The woman beside her turns around and lovingly pats the boy on the head.
+
+**Guest III**：Ms. Barcarola, what a pleasure. I've heard so much about you.
+
+**Guest III**：My child hasn't stopped talking about you since you spoke to him about the didgeridoo at Sydney Harbor.
+
+**Guest III**：He was so excited by it that he begged us to bring one onboard.
+
+**Barcarola**：How lovely! The didgeridoo truly is an enchanting instrument.
+
+**Barcarola**：It's so resonant, don't you think? It almost feels like it's echoing from the depths of the earth itself. I've actually been experimenting with playing it alongside my Crackling Box. It's a wonderful match with the tin whistle and kalimba, and I'm sure a number of other instruments too!
+
+As she speaks, Barcarola's eyes sparkle with enthusiasm.
+
+The admiration surrounding her is so bright that it almost blinds the tourist standing nearby. Luckily, she's wearing sunglasses.
+
+**Regulus**：Looks like she's pretty popular, too!
+
+**Sonetto**：Too?
+
+**Regulus**：Have you forgotten, Sonetto? You're also looking at a popular public figure yourself! One that had half of London hunting, ah, oh, I mean, cheering for her.
+
+**Regulus**：Ah, the bittersweet burden of fame!
+
+**Vertin**：...
+
+Their attention is quickly turned to a quiet corner of the ship.
+
+There's a group of people dressed in brightly colored clothes. Crowns made of leaves and flowers adorn their heads, and their bronze skin is glowing under the warm lights.
+
+They stand in a circle, occasionally glancing around, the shells on their chests clinking together melodiously.
+
+**Vertin**：That group over there seems unusually uptight.
+
+Having absorbed all the adoration of the people around her, Barcarola makes her way over.
+
+She certainly wouldn't overlook the curiosity of any of her guests.
+
+**Barcarola**：Oh, those are the captain's special guests. They're from one of the Oceania archipelagos. Nukutaeao, I believe.
+
+**Barcarola**：They're probably just a bit nervous. I imagine they don't often find themselves among so many foreigners.
+
+After handling the small matter at hand, Barcarola is hurriedly called away by the distant voices of other guests.
+
+**Sonetto**：Nukutaeao ...
+
+**Sonetto**：I read about it in A History of Arcane Ethnicity back in the SPDM. It's a remote place, and its people hold a special kind of shell at the center of their beliefs. They've rarely made contact with the outside world.
+
+**Sonetto**：It's often been described as a peaceful paradise.
+
+**Sonetto**：I also read that the Nukutai almost never leave their homeland. Why are they here?
+
+Their hushed conversation clearly meets the ears of the nearby Nukutai.
+
+One young boy strides forward, his chest puffed up in indignation.
+
+**Toa**：The Nukutai will never abandon our homeland!
+
+**Toa**：J-Just wait. We'll find our way back when the new era comes!
+
+**Vertin**：The new era ...
+
+Though in a foreign accent, these words sound all too familiar.
+
+**Selone**：Toa, that's enough. Tutu told us not to talk with outsiders.
+
+An equally young girl stands protectively in front of the boy.
+
+**Toa**：But, someone had to tell them the truth!
+
+**Sonetto**：I apologize. I didn't mean to accuse you of anything. I was just curious.
+
+**Toa**：Well, next time keep your mouth shut. What could you possibly know about the Nukutai?
+
+The boy looks about ready to explode.
+
+Noticing the outburst, Barcarola breaks away from the other guests and hurries over.
+
+**Barcarola**：Please, everyone, no fighting.
+
+**Barcarola**：I'm Barcarola, the musical director. Is there anything I can help you with? I'll do all I can to ensure everyone has a pleasant experience.
+
+Before she can reach them, a crisp collision of shells stops Barcarola in her tracks.
+
+**Barcarola**：...!
+
+**Fatutu**：What's going on? What do you want?
+
+Her voice holds no restraint in its hostility.
+
+**Selone**：Tutu!
+
+**Fatutu**：Selone, Toa, stay back. These outsiders could be dangerous.
+
+**Barcarola**：Dangerous? Have you never heard of me before?
+
+Fatutu looks Barcarola over, eyeing the peculiar wooden contraption by her side.
+
+**Fatutu**：...
+
+Suppressing her curiosity about this unique object, she steadies her gaze once more.
+
+**Fatutu**：Whoever you are, I ask that you leave us in peace.
+
+**Barcarola**：I ... You ...
+
+Barcarola is lost for words. Clearly, her status as a musical star has made her unaccustomed to such remarks.
+
+Ignoring the now flushed girl before her, Fatutu and the other Nukutai retreat back to their corner.
+
+**Selone**：Tutu, thank the tides you came! I wasn't sure what to do.
+
+**Toa**：Hmph. So are we going to take Ms. Grace's offer or not? She promised it would bring our islands back.
+
+Toa casts a fierce glare at Fatutu.
+
+**Fatutu**：Enough, Toa! These outsiders don't need to know why we're here. And stop mentioning Ms. Grace. Could draw unwanted attention.
+
+**Toa**：But what's there to hide? There's no shame in wanting our home back.
+
+**Toa**：If we don't stand with Ms. Grace, we'll lose Nukutaeao forever!
+
+**Fatutu**：I want to go home too, probably more than anyone! I already miss Meli's red coral reefs, blue sea, and canoe races.
+
+**Fatutu**：We'll get through this, Toa. I promise we'll be neighbors again, picking breadfruit and coconut flowers together. But before we accept Ms. Grace's offer, there's a few things that need to be made clear.
+
+**Fatutu**：And remember, none of these passengers are to blame for what happened to our home, okay?
+
+**Selone**：But Ms. Grace has offered us a way home.
+
+**Selone**：We'll have our islands back, just as they were. Our promised land.
+
+**Fatutu**：We will go home, Selone. Trust me.
+
+**Fatutu**：I just need to figure out a few things first.
+
+**Fatutu**：Starting with this "wonderful new era" she keeps talking about.
+
+> **Title card：** Captain's Cabin
+
+**Ms. Grace**：...
+
+**Ms. Grace**：You seem a little on edge, Chief Kamuta.
+
+Kamuta is pacing back and forth in the cabin.
+
+**Kamuta**：Ms. Grace, how much longer do we have to wait for this new era to come?
+
+**Kamuta**：Many of our people have never left Nukutaeao before. We're struggling to adjust. Some have even fallen sick. We can't stay adrift on the sea like this much longer.
+
+**Kamuta**：Our spirits are low. The shells of some of my people have begun to crack.
+
+He lowers his head to the faintly glowing shells in his palm. They radiate warmth.
+
+**Kamuta**：Not everyone is strong enough to endure this journey. Please, Ms. Grace. You have to help us.
+
+**Ms. Grace**：While it pains me to hear this ...
+
+**Ms. Grace**：The journey must go on. You have nowhere to return to, after all. We still have some space below deck. You can use it to store your people's bodies should they die.
+
+Her gaze remains fixed on the crystalline shells in Kamuta's hand.
+
+**Kamuta**：That's not exactly what we're asking for.
+
+**Kamuta**：Please, show us another way. Help us like you did when you foresaw the destruction of Meli. I beg of you.
+
+Grace tilts her head, a glimmer of intrigue on her face as she observes the pained expression on Kamuta's face.
+
+**Ms. Grace**：I've already shown you a way, haven't I?
+
+**Kamuta**：...!
+
+A sudden pressure swells in his chest as a sticky black liquid silently drips onto his skin.
+
+**Kamuta**：You mean joining the Manus?
+
+**Kamuta**：...
+
+**Kamuta**：But the Nukutai haven't had a conflict with anyone for centuries. That's why we hid ourselves away from the world.
+
+**Kamuta**：Difficult to persuade my people to do this.
+
+**Kamuta**：All we want is for our people to return to familiar soil, to feel our spirits at home. Nothing more.
+
+**Ms. Grace**：But Meli is already gone.
+
+**Kamuta**：Yes, but that doesn't mean we should take revenge on the outside world. It was an act of the sea itself. It would be unjust to blame anyone for it.
+
+**Ms. Grace**：What about the torpedo test sites designated over Malaga and Vaipuna? Aren't there people who should answer for that?
+
+**Kamuta**：It was probably just a mistake.
+
+**Kamuta**：The area they chose was far from the main islands of Nukutaeao, and hardly anyone fishes there. They may not have realized that my people lived there.
+
+**Ms. Grace**：And the oil spill? The wastewater discharge? Were all those fish killed by pollution also just an "act of the sea"?
+
+**Kamuta**：I ... Please ... We're not looking for conflict.
+
+**Ms. Grace**：Of course you're not. After all, they've only stolen everything you've ever held dear ...
+
+Her voice drops abruptly, her next words delivered with the lightness of a feather.
+
+**Ms. Grace**：... and arrogantly assumed every inch of this planet is theirs to exploit.
+
+**Kamuta**：...
+
+**Ms. Grace**：War is inevitable, whether you want it or not, Nukutai.
+
+She gently pushes the mask forward. Its dark presence is unavoidable.
+
+**Ms. Grace**：But if you join us, you will have an invaluable ally: time.
+
+Grace glances at her pocket watch before slipping it lightly into her pocket.
+
+**Ms. Grace**：The window is closing.
+
+**Ms. Grace**：The sifting is about to begin.
+
+Both a prompt and a prophecy.
+
+**Kamuta**：...
+
+The Spirit Shells around Kamuta's neck burn. They cling to his chest as they twist with ferocity.
+
+**Kamuta**：Has it really come to this? To revenge?
+
+His eyes flash up to the jagged mask on the table.
+
+Dark tendrils extend from it, groping at the air in a silent invitation.
+
+His Spirit Shells are almost scorching.
+
+**Ms. Grace**：Oh no, it's quite the opposite. It's salvation.
+
+---
+
+<a id="episode-2410107"></a>
+## 2410107 · Music or Light
+
+> **Subtitle：** Which would you choose to fill your home with?
+
+### Segment 1 · `script 202410`
+
+> **Title card：** Main Hall
+
+The main hall is packed with people, yet there is no music to be heard. A peculiar scene indeed.
+
+Fortunately, the guests don't seem to mind. There is no stage in the world that offers a performance like this one.
+
+**Barcarola**：Ms. Regulus, as I'm sure you understand, there's a great deal of effort involved in creating a concerto, from the initial spark of inspiration to the careful arrangement of the music to the skill required to play it.
+
+**Barcarola**：The fact that any concerto has ever been performed at all is nothing short of a miracle!
+
+Barcarola's tone is solemn, like a steadily intensifying march.
+
+**Barcarola**：As musical director, it is my duty to select the perfect repertoire to bring delight to every listener.
+
+**Barcarola**：Then, the esteemed passengers of the "Free Breeze" can enjoy their dessert and wine with the finest musical accompaniment.
+
+**Regulus**：Oh, you can't be serious. Where's the fun in just sitting there and listening?
+
+**Regulus**：I promise you, this lot have had more than enough lazy jazz and swooning piano to last a lifetime!
+
+**Regulus**：We need to shake things up—make this voyage the greatest of the century!
+
+**Regulus**：How about some '60s rock?
+
+**Regulus**：And wouldn't you know it? This visionary former captain has a record player right here with her!
+
+She holds a stack of records high in the air.
+
+**Regulus**：Alright, people! Let me hear you cheer!
+
+**Regulus**：Music is freedom! It should stir the soul, anytime, anywhere!
+
+**Barcarola**：Stop, Regulus! I'm the musician here, not you!
+
+Barcarola's cheeks flush red.
+
+The audience claps, amused by the antics on stage. A small flower-adorned girl sits discreetly among them.
+
+**Fatutu**：These outsiders seem so full of life.
+
+**Fatutu**：They're nothing like what Ms. Grace described, "full of hatred and hostility."
+
+Fatutu remains alert, her eyes fixed on the stage.
+
+**Barcarola**：This is my performance! If you really must share your music with us, then, perhaps you should go to the captain and apply to be a cruise musician like me!
+
+**Regulus**：With all due respect, Ms. Barcarola.
+
+**Regulus**：The point I'm trying to make ...
+
+**Regulus**：... is that only a DJ knows what the crowd really wants!
+
+Before Barcarola can protest anymore, the cunning little lion presses the play button on the record player.
+
+In a moment, all the lights on the ship have gone out. Regulus had no idea her record player could produce such effects.
+
+**Regulus**：Huh?
+
+**Regulus**：Did I just shoot lightning bolts from my fingertips?
+
+**Barcarola**：Of course not!
+
+Barcarola finally manages to wrest the microphone from Regulus's hand, but a far more pressing issue than the content of the concert now faces them.
+
+Amid the darkness, discontent quickly arises.
+
+**Guest I**：Goddamn! Who's stepping on my brand-new leather shoes?!
+
+**Guest I**：Will you please watch yourself?!
+
+**Guest II**：I was just about to say the same thing! Let go of my jacket, you moron!
+
+**Guest III**：Could you all keep it down? I'm going deaf here!
+
+**Guest III**：Oh, no! My wine! And the cheese platter!
+
+The clamor of irritated voices quickly fills the space.
+
+**Barcarola**：This could turn to total chaos before long. No, I can't let that happen!
+
+**Barcarola**：I must go check on the master switch.
+
+Barcarola pushes through the crowd as she carves a path to the power room.
+
+**Regulus**：Hey! Ms. Barcarola!
+
+**Barcarola**：Uh. Please let me through, Ms. Elisabeth.
+
+Unfortunately, the guests can't tell a musician from a mechanic through the darkness.
+
+**Regulus**：Barcarola! Where are you going?!
+
+**Regulus**：Let me give you a hand!
+
+### Segment 2 · `script 202411`
+
+**Regulus**：Come on! There aren't as many of them this way!
+
+**Barcarola**：Unbelievable. It's like you're an escape artist or something!
+
+**Regulus**：Uh. I'll take that as a compliment.
+
+**Barcarola**：It is a compliment! Thank you so much, Ms. Regulus.
+
+A narrow path appears, and Barcarola unceremoniously pushes forward with all her might.
+
+But it seems the surprises for today are far from coming to an end.
+
+**Barcarola**：Ah!
+
+**???**：...!
+
+A faint light flickers across Barcarola's vision, then quickly falls to the ground.
+
+**Barcarola**：What was that?
+
+A piece of rough bark twisted into the shape of a lampshade, with a compass-like root burning warmly inside, shines through the darkness.
+
+**Selone**：Tutu. Are you okay?
+
+**Fatutu**：I'm fine. How's the Sea Mother's Eye?
+
+**Selone**：Solid as ever, of course. It takes more than a few knocks to damage Nukutai craftsmanship!
+
+**Toa**：*sneer* I knew getting too close to those oafs would bring trouble.
+
+**Barcarola**：Oafs?
+
+**Barcarola**：Are you calling me stupid?!
+
+Before the situation can escalate any further, Barcarola picks up the oddly shaped lamp.
+
+She is quickly basked in its glow.
+
+**Barcarola**：What's this?
+
+**Toa**：Hah! What did I say? Of course you have no idea what this is.
+
+**Fatutu**：We form palm bark into lampshades about the size of a coconut, then tie fat-soaked compass grass inside.
+
+**Fatutu**：We call it Sea Mother's Eye. Every Nukutai knows how to make one.
+
+**Toa**：They're way better than those noisy, buzzing lightbulbs!
+
+**Toa**：Wait, why are we even telling her this?
+
+**Fatutu**：Shh.
+
+Before he can say another word, Fatutu hastily pulls Toa aside.
+
+**Fatutu**：We need to lower their guard.
+
+**Toa**：Huh?
+
+Toa eyes Fatutu suspiciously.
+
+**Fatutu**：So that we can earn their trust.
+
+**Fatutu**：If we don't understand our enemies, how can we help Ms. Grace with her mission and rebuild our home?
+
+**Toa**：Oh ...
+
+**Fatutu**：Besides, we can't just leave them to shout and run around! It'll disturb our people's rest!
+
+Toa finally breathes a sigh of relief.
+
+**Fatutu**：Trust me. That girl will thank us for this later.
+
+**Fatutu**：And then, we can get all the information we need from her!
+
+**Toa**：Then, we should make more Sea Mother's Eyes and hand them out to the outsiders!
+
+**Fatutu**：Now you've got it.
+
+**Selone**：By the waves, Tutu, you really are clever! No wonder the elders always listen to you.
+
+Despite this praise, Fatutu turns away, a quiet look of doubt on her face.
+
+**Fatutu**：I ...
+
+**Fatutu**：Is this really the right thing to do?
+
+Regardless, the sound of bark scraping grows as her people get to work.
+
+One by one, the Sea Mother's Eyes light up.
+
+They are passed through rough and soft hands alike, illuminating bronze skin, flax-colored irises, and chestnut hair.
+
+As the warm lights make their way through the crowd, the clamor subsides. No more panicked shouts, no more arguments, only a unique harmony.
+
+**Crew Member I**：What peculiar little things. Reminds me of my days on the fishing boat. I always loved spotting the lighthouse on our way back. These look just like it.
+
+**Guest I**：The craftsmanship is remarkable. You'd be hard-pressed to find something of this standard in a factory these days.
+
+**Crew Member II**：They remind me of the things my grandma and I used to make when I was little.
+
+**Crew Member II**：Haha, she could even carve a whistle out of a parsnip!
+
+**Fatutu**：...
+
+**Fatutu**：They're sharing food and stories, just like we do on bonfire nights.
+
+Fatutu glances at her fellow Nukutai. Relived memories and longing are etched into their faces.
+
+**Fatutu**：I'm getting more and more confused by Ms. Grace's words.
+
+The guests lean on one another, chatting happily under the warm glow of the lamps.
+
+**Guest II**：Ms. Barcarola.
+
+The timid voice of a child reaches Barcarola's ears.
+
+**Guest II**：I ... I wanna go home.
+
+**Barcarola**：...
+
+The scene before her is a mess. This is certainly no time for a symphony performance.
+
+Among the crowd, she sees Regulus shaking her head.
+
+**Barcarola**：Is this one of the changes I must make to truly embrace music?
+
+**Barcarola**：♪ ...
+
+A single note drifts from her Crackling Box.
+
+Then, a harmonious melody of joyful, lively, and contrasting sounds.
+
+**Regulus**：Woah!!
+
+Their joy illuminated by the lamps, the guests start to clap along.
+
+**Broadcast**：Attention, passengers!
+
+**Broadcast**：The "Free Breeze" is currently experiencing a power outage due to a fuse blown by a cargo leak in the lower deck. We ask that everyone remain calm.
+
+**Broadcast**：We sincerely apologize for the inconvenience. To make your wait more comfortable, we'll be offering unlimited ice cream shortly.
+
+**Broadcast**：Additionally, since we're approaching the habitat of the Serres, we're expecting an increase in turbulence and noise as we work to ward them off.
+
+**Broadcast**：We appreciate your understanding.
+
+**Broadcast**：...
+
+The hall brightens again, and the guests bid one another farewell, the lamps still tightly held in their hands.
+
+Barcarola exhales deeply as Regulus approaches her, a smug look on her face.
+
+**Regulus**：See? What did I tell you?
+
+**Regulus**：Music works wonders, anytime, anywhere!
+
+**Barcarola**：You were right, Ms. Regulus.
+
+**Regulus**：You owe me one now. So, how about a little reciprocity?
+
+She rubs her fingers together mischievously.
+
+**Regulus**：Say, letting me have a rock session on the ship?
+
+**Barcarola**：Do you promise you won't cause any trouble?
+
+**Regulus**：Cross my heart!
+
+**Barcarola**：Alright, you can do it. But—
+
+Permission granted, Regulus doesn't wait to hear her extra condition. She's already dashed off, speaking as she goes.
+
+**Regulus**：Don't forget to thank the girl who made the lamp!
+
+**Barcarola**：...
+
+**Barcarola**：As if I need you to remind me! I'll have you know I was just about to head over to her.
+
+Barcarola gently paces over to the darkened corner that has become the gathering place of the Nukutai.
+
+**Toa**：...!
+
+**Toa**：Tutu was right! The stupid girl's back!
+
+**Selone**：Shh!
+
+**Barcarola**：...?
+
+**Barcarola**：I must say I don't appreciate being called an "oaf" or "stupid."
+
+**Barcarola**：But I would like to thank you for your help back there.
+
+**Toa**：What?
+
+**Barcarola**：On behalf of the whole crew, you have our respect.
+
+**Toa**：Oh. Uh, what do we do now?
+
+**Toa**：Tutu never said they'd be so friendly.
+
+The bewildered islanders exchange glances.
+
+**Selone**：Tutu?
+
+**Selone**：Where did she go?
 
 ---
 

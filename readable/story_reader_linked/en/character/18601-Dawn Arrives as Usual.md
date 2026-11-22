@@ -4,11 +4,12 @@
 [← Previous chapter: The Tall Lighthouse](17703-The%20Tall%20Lighthouse.md) · [Story index](../README.md) · [Next chapter: Silver Knot →](18603-Silver%20Knot.md)
 <!-- reading-navigation:end -->
 
-- Story units：`8`
+- Story units：`9`
 - Trail：`0`
 
 ## Contents
 
+- [1860100 · At Dusk](#episode-1860100)
 - [1860101 · Crushed Butterflies](#episode-1860101)
 - [1860102 · On the Shore](#episode-1860102)
 - [1860103 · Kitchen Conversations](#episode-1860103)
@@ -17,6 +18,107 @@
 - [1860106 · Reality](#episode-1860106)
 - [1860107 · Under the Warm Sun](#episode-1860107)
 - [1860108 · A Song for the Teacher](#episode-1860108)
+
+---
+
+<a id="episode-1860100"></a>
+## 1860100 · At Dusk
+
+**Radio Broadcaster I**：The Kaslinska University Hospital received a rare case today.
+
+**Radio Broadcaster I**：The patient's veins irreversibly transformed into electric wires. As of 18:00, all arterial, venous, and capillary tissues throughout the patient's body have undergone necrosis.
+
+**Radio Broadcaster I**：The director said they would invite more professionals to the consultation to decide on further research directions.
+
+**Radio Broadcaster I**：Global Variety News has claimed the case may become one of the greatest unsolved mysteries of the era.
+
+**Radio Broadcaster I**：They started a new column to analyze possible compatibilities between the patient's new wired veins and different appliances.
+
+The radio in the St. Pavlov Foundation's garbles out the news through a haze of static.
+
+Still, Vila listens to it carefully, trying to parse out every snippet of information.
+
+**Vila**：...
+
+Reaching out her arm, she gropes for the button and manages to silence the radio, whose sound has become more nuisance than news.
+
+> **Title card：** Guest Room, St. Foundation
+
+**Vila**：One hour and 50 minutes.
+
+**Vila**：He's late. Very late.
+
+She rubs her hands before balling them at her side. Patience, she reminds herself, is a universal virtue.
+
+Patience for a coming change, for a new opportunity, patience for salvation.
+
+A universal virtue, perhaps, but one being tested to its limits here.
+
+**Vila**：Mr. Name Day must have been stopped by some important business. Unable to send word because of its gravity. Of course.
+
+**Vila**：I should've gone with him. I could have seen the children sooner.
+
+**Vila**：I know this isn't Rayashki, and I have no say here.
+
+**Vila**：But I'd rather do something than just wait around like this.
+
+She looks around, her eyes landing on the television.
+
+Even a temporary guest room in the Foundation proves spacious, yet cozy. Everything here is more open and elegant than anything Vila has seen since she came ashore.
+
+This comfort comes included with a full range of amenities. For example, a real, functioning, personal TV.
+
+**Vila**：Phew, alright.
+
+**Vila**：Let me see.
+
+**Vila**：It should work the same as the TV in Rayashki's canteen.
+
+Though Vila isn't overly familiar with these appliances, a TV can't be too hard to use.
+
+After a click, pictures begin to stream onto the TV.
+
+**Vila**：A ballet set to a sweeping orchestral suite.
+
+**Vila**：Swan Lake.
+
+**Vila**：Haha, it is a classic. I'm not surprised to find even people in the Far East appreciate it.
+
+**Vila**：But, I'm not really in the mood for a ballet. I'd prefer something else.
+
+**Vila**：Instead of Swan Lake, or Swan Lake, or yet another Swan Lake ...
+
+**Vila**：Huh?
+
+**Vila**：What?
+
+**Vila**：How can these all be playing Swan Lake?
+
+There is nothing else, no other program but Swan Lake. With each switch of the channel, the show creeps closer to its end. A stuttering prince lowers onto one knee, reaching his arm out to the departing Odette.
+
+At this moment, she hears hurried footsteps coming from the corridor, followed by a knock on the door.
+
+**???**：Ms. Vila! Are you there?
+
+**Vila**：Yes! Please, come in.
+
+**???**：I'm so sorry, Ms. Vila ...
+
+**Vila**：What's wrong? Mr. Name Day, catch a breath.
+
+**Vila**：Is it the kids? Did something happen to the kids?
+
+**Name Day**：It's ...
+
+**Name Day**：It's the "Storm."
+
+**Vila**：The "Storm"? What do you mean—
+
+**Name Day**：And Avgust has gone missing ...
+
+**Vila**：!?
+
+> **Title card：** 8#1
 
 ---
 

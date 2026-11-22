@@ -801,14 +801,11 @@
           ],
           "subtitle": "language_10003507",
           "scripts": [
-            "100312",
             "100310",
-            "101304",
-            "100311",
-            "101305",
-            "302303"
+            "100311"
           ],
-          "binding": "cn_reader_segment_ids"
+          "binding": "reviewed_override",
+          "binding_source": "episode[10309] and UTTU main/chapter-3 part 9"
         },
         {
           "episode_id": 10310,
@@ -1043,10 +1040,10 @@
           ],
           "subtitle": "language_10003538",
           "scripts": [
-            "100409",
-            "302505"
+            "100409"
           ],
-          "binding": "cn_reader_segment_ids"
+          "binding": "reviewed_override",
+          "binding_source": "episode[10407] and UTTU main/chapter-4 part 7"
         },
         {
           "episode_id": 10408,
@@ -1971,10 +1968,10 @@
           ],
           "subtitle": "language_10033989",
           "scripts": [
-            "100617",
-            "306402"
+            "100617"
           ],
-          "binding": "cn_reader_segment_ids"
+          "binding": "reviewed_override",
+          "binding_source": "episode[10613] and UTTU main/chapter-6 part 13"
         },
         {
           "episode_id": 10614,
@@ -5303,6 +5300,23 @@
       "zh-CN": "绿湖噩梦",
       "episodes": [
         {
+          "episode_id": 1210100,
+          "zh-CN": "营地惊魂",
+          "trails": [],
+          "titles": {
+            "zh-CN": "营地惊魂",
+            "en": "Panic at the Campsite",
+            "ja": "戦慄のキャンプ場",
+            "ko": "패닉의 캠프",
+            "zh-TW": "營地驚魂"
+          },
+          "scripts": [
+            "200201"
+          ],
+          "binding": "reviewed_reader_unit",
+          "binding_source": "Script heading 00 and the UTTU chapter index"
+        },
+        {
           "episode_id": 1210101,
           "zh-CN": "陌生人来信",
           "trails": [],
@@ -6997,6 +7011,147 @@
           "binding": "reviewed_archive_binding"
         },
         {
+          "episode_id": 2010113,
+          "zh-CN": "小窍门",
+          "trails": [],
+          "titles": {
+            "zh-CN": "小窍门",
+            "en": "A Small Tip",
+            "ja": "小さなコツ",
+            "ko": "간단한 팁",
+            "zh-TW": "小竅門"
+          },
+          "scripts": [
+            "202017",
+            "202018"
+          ],
+          "binding": "client_episode_config",
+          "binding_source": "episode[2010113]"
+        },
+        {
+          "episode_id": 2010114,
+          "zh-CN": "赞颂诗",
+          "trails": [],
+          "titles": {
+            "zh-CN": "赞颂诗",
+            "en": "Hymns",
+            "ja": "讃美詩",
+            "ko": "찬양곡",
+            "zh-TW": "讚頌詩"
+          },
+          "scripts": [
+            "202019",
+            "202020"
+          ],
+          "binding": "client_episode_config",
+          "binding_source": "episode[2010114]"
+        },
+        {
+          "episode_id": 2010115,
+          "zh-CN": "眼中之物",
+          "trails": [],
+          "titles": {
+            "zh-CN": "眼中之物",
+            "en": "Don't Look at It",
+            "ja": "目に映るのは",
+            "ko": "보지 마세요",
+            "zh-TW": "眼中之物"
+          },
+          "scripts": [
+            "202021"
+          ],
+          "binding": "client_episode_config",
+          "binding_source": "episode[2010115]"
+        },
+        {
+          "episode_id": 2010116,
+          "zh-CN": "走吧，羔羊",
+          "trails": [],
+          "titles": {
+            "zh-CN": "走吧，羔羊",
+            "en": "Come with Me, Lost Lambs",
+            "ja": "行こう、子羊",
+            "ko": "함께 가자, 길 잃은 양들아",
+            "zh-TW": "走吧，羔羊"
+          },
+          "scripts": [
+            "202022",
+            "202023"
+          ],
+          "binding": "client_episode_config",
+          "binding_source": "episode[2010116]"
+        },
+        {
+          "episode_id": 2010117,
+          "zh-CN": "离别赠礼",
+          "trails": [],
+          "titles": {
+            "zh-CN": "离别赠礼",
+            "en": "Parting Gift",
+            "ja": "別れ際の贈り物",
+            "ko": "이별 선물",
+            "zh-TW": "離別贈禮"
+          },
+          "scripts": [
+            "202024",
+            "202025"
+          ],
+          "binding": "client_episode_config",
+          "binding_source": "episode[2010117]"
+        },
+        {
+          "episode_id": 2010118,
+          "zh-CN": "别无所依",
+          "trails": [],
+          "titles": {
+            "zh-CN": "别无所依",
+            "en": "Alone",
+            "ja": "頼れるものはなく",
+            "ko": "나홀로",
+            "zh-TW": "別無所依"
+          },
+          "scripts": [
+            "202026",
+            "202027"
+          ],
+          "binding": "client_episode_config",
+          "binding_source": "episode[2010118]"
+        },
+        {
+          "episode_id": 2010119,
+          "zh-CN": "绒丝带",
+          "trails": [],
+          "titles": {
+            "zh-CN": "绒丝带",
+            "en": "Velvet Ribbon",
+            "ja": "青いスカーフ",
+            "ko": "벨벳 리본",
+            "zh-TW": "絨絲帶"
+          },
+          "scripts": [
+            "202028"
+          ],
+          "binding": "client_episode_config",
+          "binding_source": "episode[2010119]"
+        },
+        {
+          "episode_id": 2010120,
+          "zh-CN": "信鸽",
+          "trails": [],
+          "titles": {
+            "zh-CN": "信鸽",
+            "en": "Letter Home",
+            "ja": "伝書鳩",
+            "ko": "전서구",
+            "zh-TW": "信鴿"
+          },
+          "scripts": [
+            "202029"
+          ],
+          "binding": "client_episode_config",
+          "binding_source": "episode[2010120]"
+        },
+        {
           "episode_id": 2010121,
           "zh-CN": "旱鸭子",
           "trails": [
@@ -7011,6 +7166,23 @@
             "202030"
           ],
           "binding": "reviewed_archive_binding"
+        },
+        {
+          "episode_id": 2010122,
+          "zh-CN": "门前足音",
+          "trails": [],
+          "titles": {
+            "zh-CN": "门前足音",
+            "en": "Unanswered Door",
+            "ja": "応えのない扉",
+            "ko": "문 앞의 발소리",
+            "zh-TW": "門前足音"
+          },
+          "scripts": [
+            "202031"
+          ],
+          "binding": "client_episode_config",
+          "binding_source": "episode[2010122]"
         }
       ]
     },
@@ -7758,6 +7930,41 @@
             "202408"
           ],
           "binding": "reviewed_archive_binding"
+        },
+        {
+          "episode_id": 2410106,
+          "zh-CN": "群岛已远",
+          "trails": [],
+          "titles": {
+            "zh-CN": "群岛已远",
+            "en": "As Home Fades",
+            "ja": "遠ざかる故郷",
+            "ko": "군도를 떠나",
+            "zh-TW": "群島已遠"
+          },
+          "scripts": [
+            "202409"
+          ],
+          "binding": "client_episode_config",
+          "binding_source": "episode[2410106]"
+        },
+        {
+          "episode_id": 2410107,
+          "zh-CN": "音乐或亮光",
+          "trails": [],
+          "titles": {
+            "zh-CN": "音乐或亮光",
+            "en": "Music or Light",
+            "ja": "音楽か光か",
+            "ko": "음악 혹은 빛",
+            "zh-TW": "音樂或亮光"
+          },
+          "scripts": [
+            "202410",
+            "202411"
+          ],
+          "binding": "client_episode_config",
+          "binding_source": "episode[2410107]"
         },
         {
           "episode_id": 2410108,
@@ -9600,24 +9807,10 @@
           ],
           "subtitle": "language_10110109",
           "scripts": [
-            "200125",
-            "200907",
-            "300908",
-            "303006",
-            "306209",
-            "306308",
-            "306508",
-            "306611",
-            "308308",
-            "311409",
-            "600605",
-            "600606",
-            "100633",
-            "307911",
-            "312011",
-            "600911"
+            "203414"
           ],
-          "binding": "cn_reader_segment_ids"
+          "binding": "reviewed_override",
+          "binding_source": "episode[3410109]"
         },
         {
           "episode_id": 3410110,
@@ -11989,6 +12182,23 @@
       "zh-CN": "曲香蒙求",
       "episodes": [
         {
+          "episode_id": 1660100,
+          "zh-CN": "入此城中",
+          "trails": [],
+          "titles": {
+            "zh-CN": "入此城中",
+            "en": "To The Town",
+            "ja": "町中厂",
+            "ko": "입성",
+            "zh-TW": "入此城中"
+          },
+          "scripts": [
+            "308100"
+          ],
+          "binding": "reviewed_reader_unit",
+          "binding_source": "activity[11605] opening script and the UTTU chapter index"
+        },
+        {
           "episode_id": 1660101,
           "zh-CN": "三与九",
           "trails": [],
@@ -12111,6 +12321,23 @@
       ],
       "zh-CN": "天下有风",
       "episodes": [
+        {
+          "episode_id": 1660300,
+          "zh-CN": "远行客",
+          "trails": [],
+          "titles": {
+            "zh-CN": "远行客",
+            "en": "The One Traveling Far",
+            "ja": "遠旅の客人",
+            "ko": "멀리 떠나는 나그네",
+            "zh-TW": "遠行客"
+          },
+          "scripts": [
+            "308400"
+          ],
+          "binding": "reviewed_reader_unit",
+          "binding_source": "activity[11606] opening script and the UTTU chapter index"
+        },
         {
           "episode_id": 1660301,
           "zh-CN": "更漏长",
@@ -12481,6 +12708,23 @@
       "zh-CN": "黎明依旧到来",
       "episodes": [
         {
+          "episode_id": 1860100,
+          "zh-CN": "日落时",
+          "trails": [],
+          "titles": {
+            "zh-CN": "日落时",
+            "en": "At Dusk",
+            "ja": "日没の刻",
+            "ko": "황혼",
+            "zh-TW": "日落時"
+          },
+          "scripts": [
+            "308700"
+          ],
+          "binding": "reviewed_reader_unit",
+          "binding_source": "activity[11806] opening script and the UTTU chapter index"
+        },
+        {
           "episode_id": 1860101,
           "zh-CN": "水泥蝴蝶",
           "trails": [],
@@ -12850,6 +13094,23 @@
       "zh-CN": "犹在镜中",
       "episodes": [
         {
+          "episode_id": 1960300,
+          "zh-CN": "昨日的世界",
+          "trails": [],
+          "titles": {
+            "zh-CN": "昨日的世界",
+            "en": "The World of Yesterday",
+            "ja": "昨日の世界",
+            "ko": "어제의 세계",
+            "zh-TW": "昨日的世界"
+          },
+          "scripts": [
+            "307400"
+          ],
+          "binding": "reviewed_reader_unit",
+          "binding_source": "activity[11909] opening script and localized title card"
+        },
+        {
           "episode_id": 1960301,
           "zh-CN": "无解决和弦",
           "trails": [],
@@ -12973,6 +13234,23 @@
       "zh-CN": "旧金山小子",
       "episodes": [
         {
+          "episode_id": 2060101,
+          "zh-CN": "“一桩生意”",
+          "trails": [],
+          "titles": {
+            "zh-CN": "“一桩生意”",
+            "en": "\"An Offer\"",
+            "ja": "「取引」",
+            "ko": "‘제안’",
+            "zh-TW": "“一樁生意”"
+          },
+          "scripts": [
+            "309401"
+          ],
+          "binding": "client_episode_config",
+          "binding_source": "episode[2060101]"
+        },
+        {
           "episode_id": 2060102,
           "zh-CN": "东方的朋友",
           "trails": [],
@@ -13041,6 +13319,40 @@
             "309406"
           ],
           "binding": "reviewed_archive_binding"
+        },
+        {
+          "episode_id": 2060107,
+          "zh-CN": "盛情晚宴",
+          "trails": [],
+          "titles": {
+            "zh-CN": "盛情晚宴",
+            "en": "Grand Feast",
+            "ja": "盛大な晩餐会",
+            "ko": "성대한 파티",
+            "zh-TW": "盛情晚宴"
+          },
+          "scripts": [
+            "309407"
+          ],
+          "binding": "client_episode_config",
+          "binding_source": "episode[2060107]"
+        },
+        {
+          "episode_id": 2060108,
+          "zh-CN": "伙计们",
+          "trails": [],
+          "titles": {
+            "zh-CN": "伙计们",
+            "en": "The Guys",
+            "ja": "相棒たち",
+            "ko": "사내 녀석들",
+            "zh-TW": "夥計們"
+          },
+          "scripts": [
+            "309408"
+          ],
+          "binding": "client_episode_config",
+          "binding_source": "episode[2060108]"
         }
       ]
     },
@@ -13177,6 +13489,59 @@
       "zh-CN": "向雨林深处",
       "episodes": [
         {
+          "episode_id": 2291100,
+          "zh-CN": "追捕行动",
+          "trails": [],
+          "titles": {
+            "zh-CN": "追捕行动",
+            "en": "Manhunt",
+            "ja": "追捕行動",
+            "ko": "추적",
+            "zh-TW": "追捕行動"
+          },
+          "scripts": [
+            "310200"
+          ],
+          "binding": "reviewed_reader_unit",
+          "binding_source": "activity[12204] opening script and localized title card"
+        },
+        {
+          "episode_id": 1220401,
+          "zh-CN": "骰子游戏",
+          "trails": [],
+          "titles": {
+            "zh-CN": "骰子游戏",
+            "en": "A Game of Dice",
+            "ja": "ダイスゲーム",
+            "ko": "주사위 게임",
+            "zh-TW": "骰子遊戲"
+          },
+          "scripts": [
+            "310201"
+          ],
+          "binding": "reviewed_reader_unit",
+          "binding_source": "activity168_episode/1220401 and script headings"
+        },
+        {
+          "episode_id": 1220402,
+          "zh-CN": "去找桑德罗",
+          "trails": [],
+          "titles": {
+            "zh-CN": "去找桑德罗",
+            "en": "Finding Sandro",
+            "ja": "サンドロを探して",
+            "ko": "산드로를 찾아서",
+            "zh-TW": "去找桑德羅"
+          },
+          "scripts": [
+            "310202",
+            "310203",
+            "310204"
+          ],
+          "binding": "reviewed_reader_unit",
+          "binding_source": "activity168_episode/1220402 and script headings"
+        },
+        {
           "episode_id": 229111,
           "zh-CN": "雨林毒雾",
           "trails": [],
@@ -13192,6 +13557,58 @@
           "binding": "cn_reader_segment_ids"
         },
         {
+          "episode_id": 1220404,
+          "zh-CN": "狂欢节礼炮",
+          "trails": [],
+          "titles": {
+            "zh-CN": "狂欢节礼炮",
+            "en": "Carnival Fireworks",
+            "ja": "カーニバルの礼砲",
+            "ko": "카니발 폭죽",
+            "zh-TW": "狂歡節禮炮"
+          },
+          "scripts": [
+            "310207",
+            "310208"
+          ],
+          "binding": "reviewed_reader_unit",
+          "binding_source": "activity168_episode/1220404 and script headings"
+        },
+        {
+          "episode_id": 1220405,
+          "zh-CN": "玛平瓜里",
+          "trails": [],
+          "titles": {
+            "zh-CN": "玛平瓜里",
+            "en": "Mapinguari",
+            "ja": "マピングアリ",
+            "ko": "마핑 구아리",
+            "zh-TW": "瑪平瓜里"
+          },
+          "scripts": [
+            "310209"
+          ],
+          "binding": "reviewed_reader_unit",
+          "binding_source": "activity168_episode/1220405 and script headings"
+        },
+        {
+          "episode_id": 1220406,
+          "zh-CN": "不稳定炼金术",
+          "trails": [],
+          "titles": {
+            "zh-CN": "不稳定炼金术",
+            "en": "Alchemy Accident",
+            "ja": "不安定な錬金術",
+            "ko": "불안정한 연금술",
+            "zh-TW": "不穩定煉金術"
+          },
+          "scripts": [
+            "310210"
+          ],
+          "binding": "reviewed_reader_unit",
+          "binding_source": "activity168_episode/1220406 and script headings"
+        },
+        {
           "episode_id": 229112,
           "zh-CN": "家的丧钟",
           "trails": [],
@@ -13205,6 +13622,23 @@
             "310212"
           ],
           "binding": "cn_reader_segment_ids"
+        },
+        {
+          "episode_id": 1220408,
+          "zh-CN": "岸上的人",
+          "trails": [],
+          "titles": {
+            "zh-CN": "岸上的人",
+            "en": "The Ones on the Bank",
+            "ja": "岸辺に立つ人",
+            "ko": "기슭의 사람",
+            "zh-TW": "岸上的人"
+          },
+          "scripts": [
+            "310213"
+          ],
+          "binding": "reviewed_reader_unit",
+          "binding_source": "activity168_episode/1220408 and script headings"
         }
       ]
     },
@@ -13441,9 +13875,12 @@
           ],
           "subtitle": "",
           "scripts": [
-            "310512"
+            "310512",
+            "310513",
+            "310514"
           ],
-          "binding": "client_episode_config"
+          "binding": "reviewed_override",
+          "binding_source": "episode[2360107] and the script headings 07.1–07.3"
         },
         {
           "episode_id": 2360108,
@@ -13480,9 +13917,10 @@
           ],
           "subtitle": "",
           "scripts": [
-            "310401"
+            "310801"
           ],
-          "binding": "reviewed_archive_binding"
+          "binding": "reviewed_override",
+          "binding_source": "activity179_episode/1240501"
         },
         {
           "episode_id": 2450102,
@@ -13494,10 +13932,10 @@
           ],
           "subtitle": "",
           "scripts": [
-            "310402",
-            "310403"
+            "310802"
           ],
-          "binding": "cn_reader_segment_ids"
+          "binding": "reviewed_override",
+          "binding_source": "activity179_episode/1240502"
         },
         {
           "episode_id": 2450103,
@@ -13509,9 +13947,11 @@
           ],
           "subtitle": "",
           "scripts": [
-            "310404"
+            "310803",
+            "310804"
           ],
-          "binding": "reviewed_archive_binding"
+          "binding": "reviewed_override",
+          "binding_source": "activity179_episode/1240503"
         },
         {
           "episode_id": 2450104,
@@ -13523,10 +13963,10 @@
           ],
           "subtitle": "",
           "scripts": [
-            "310405",
-            "310406"
+            "310805"
           ],
-          "binding": "cn_reader_segment_ids"
+          "binding": "reviewed_override",
+          "binding_source": "activity179_episode/1240504"
         },
         {
           "episode_id": 2450105,
@@ -13538,9 +13978,11 @@
           ],
           "subtitle": "",
           "scripts": [
-            "310407"
+            "310806",
+            "310807"
           ],
-          "binding": "reviewed_archive_binding"
+          "binding": "reviewed_override",
+          "binding_source": "activity179_episode/1240505"
         },
         {
           "episode_id": 2450106,
@@ -13552,10 +13994,10 @@
           ],
           "subtitle": "",
           "scripts": [
-            "310408",
-            "310409"
+            "310808"
           ],
-          "binding": "cn_reader_segment_ids"
+          "binding": "reviewed_override",
+          "binding_source": "activity179_episode/1240506"
         },
         {
           "episode_id": 2450107,
@@ -13567,9 +14009,11 @@
           ],
           "subtitle": "",
           "scripts": [
-            "310410"
+            "310809",
+            "310810"
           ],
-          "binding": "reviewed_archive_binding"
+          "binding": "reviewed_override",
+          "binding_source": "activity179_episode/1240507"
         },
         {
           "episode_id": 2450108,
@@ -13581,9 +14025,10 @@
           ],
           "subtitle": "",
           "scripts": [
-            "310411"
+            "310811"
           ],
-          "binding": "reviewed_archive_binding"
+          "binding": "reviewed_override",
+          "binding_source": "activity179_episode/1240508"
         }
       ]
     },
@@ -14983,7 +15428,7 @@
         "language_10005336",
         "Finding Xavier"
       ],
-      "zh-CN": "小春雀儿",
+      "zh-CN": "字母的研究",
       "episodes": [
         {
           "episode_id": 191101,
@@ -15097,7 +15542,14 @@
           ],
           "binding": "reviewed_archive_binding"
         }
-      ]
+      ],
+      "titles": {
+        "zh-CN": "字母的研究",
+        "en": "Finding Xavier",
+        "ja": "エグゼビア探し",
+        "ko": "알파벳 연구",
+        "zh-TW": "字母的研究"
+      }
     },
     {
       "chapter_id": 1912,
@@ -15106,7 +15558,7 @@
         "language_10024711",
         "The Third Circumstance"
       ],
-      "zh-CN": "塞梅尔维斯",
+      "zh-CN": "第三种苏醒",
       "episodes": [
         {
           "episode_id": 191201,
@@ -15192,7 +15644,14 @@
           ],
           "binding": "reviewed_archive_binding"
         }
-      ]
+      ],
+      "titles": {
+        "zh-CN": "第三种苏醒",
+        "en": "The Third Circumstance",
+        "ja": "三つ目の目覚め方",
+        "ko": "세 번째 각성",
+        "zh-TW": "第三種甦醒"
+      }
     },
     {
       "chapter_id": 1916,
@@ -15203,6 +15662,57 @@
       ],
       "zh-CN": "权利归花儿",
       "episodes": [
+        {
+          "episode_id": 191601,
+          "zh-CN": "伦敦呼叫",
+          "trails": [],
+          "titles": {
+            "zh-CN": "伦敦呼叫",
+            "en": "London's Calling",
+            "ja": "ロンドンコール",
+            "ko": "런던 콜링",
+            "zh-TW": "倫敦呼叫"
+          },
+          "scripts": [
+            "306401"
+          ],
+          "binding": "client_episode_config",
+          "binding_source": "episode[191601]"
+        },
+        {
+          "episode_id": 191602,
+          "zh-CN": "舶来品",
+          "trails": [],
+          "titles": {
+            "zh-CN": "舶来品",
+            "en": "From Abroad",
+            "ja": "舶来品",
+            "ko": "수입품",
+            "zh-TW": "舶來品"
+          },
+          "scripts": [
+            "306402"
+          ],
+          "binding": "client_episode_config",
+          "binding_source": "episode[191602]"
+        },
+        {
+          "episode_id": 191603,
+          "zh-CN": "爆炸与艺术",
+          "trails": [],
+          "titles": {
+            "zh-CN": "爆炸与艺术",
+            "en": "Creative Destruction",
+            "ja": "爆発と芸術",
+            "ko": "폭발과 예술",
+            "zh-TW": "爆炸與藝術"
+          },
+          "scripts": [
+            "306403"
+          ],
+          "binding": "client_episode_config",
+          "binding_source": "episode[191603]"
+        },
         {
           "episode_id": 191604,
           "zh-CN": "数学课",
@@ -15270,6 +15780,93 @@
       ],
       "zh-CN": "长夜未逝",
       "episodes": [
+        {
+          "episode_id": 191801,
+          "zh-CN": "回望",
+          "trails": [],
+          "titles": {
+            "zh-CN": "回望",
+            "en": "Recollection",
+            "ja": "振り返り",
+            "ko": "회상",
+            "zh-TW": "回望"
+          },
+          "scripts": [
+            "305701",
+            "305702"
+          ],
+          "binding": "client_episode_config",
+          "binding_source": "episode[191801]"
+        },
+        {
+          "episode_id": 191802,
+          "zh-CN": "被染病，被破灭的",
+          "trails": [],
+          "titles": {
+            "zh-CN": "被染病，被破灭的",
+            "en": "Severance",
+            "ja": "蝕まれた者、破滅を迎える者",
+            "ko": "병들고 파멸한 것",
+            "zh-TW": "被染病，被破滅的"
+          },
+          "scripts": [
+            "305703"
+          ],
+          "binding": "client_episode_config",
+          "binding_source": "episode[191802]"
+        },
+        {
+          "episode_id": 191803,
+          "zh-CN": "信仰玩笑",
+          "trails": [],
+          "titles": {
+            "zh-CN": "信仰玩笑",
+            "en": "Salvation",
+            "ja": "すがるもの",
+            "ko": "구원",
+            "zh-TW": "信仰玩笑"
+          },
+          "scripts": [
+            "305704"
+          ],
+          "binding": "client_episode_config",
+          "binding_source": "episode[191803]"
+        },
+        {
+          "episode_id": 191804,
+          "zh-CN": "嘘，别颤抖",
+          "trails": [],
+          "titles": {
+            "zh-CN": "嘘，别颤抖",
+            "en": "Consolation",
+            "ja": "しっ、震えないで",
+            "ko": "위로",
+            "zh-TW": "噓，別顫抖"
+          },
+          "scripts": [
+            "305705",
+            "305706"
+          ],
+          "binding": "client_episode_config",
+          "binding_source": "episode[191804]"
+        },
+        {
+          "episode_id": 191805,
+          "zh-CN": "献予人的花束",
+          "trails": [],
+          "titles": {
+            "zh-CN": "献予人的花束",
+            "en": "Funeral",
+            "ja": "誰が為の花束",
+            "ko": "누군가를 위한 꽃다발",
+            "zh-TW": "獻予人的花束"
+          },
+          "scripts": [
+            "305707"
+          ],
+          "binding": "client_episode_config",
+          "binding_source": "episode[191805]"
+        },
         {
           "episode_id": 191806,
           "zh-CN": "羊圈之外",
@@ -15462,10 +16059,10 @@
           ],
           "subtitle": "language_10062440",
           "scripts": [
-            "302501",
-            "307101"
+            "302501"
           ],
-          "binding": "cn_reader_segment_ids"
+          "binding": "reviewed_override",
+          "binding_source": "episode[192001] and UTTU anecdote/regulus part 1"
         },
         {
           "episode_id": 192002,
