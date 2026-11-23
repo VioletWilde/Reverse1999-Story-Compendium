@@ -7,8 +7,6 @@
 - Story units：`8`
 - Trail：`0`
 
-[UTTU](https://uttu.merui.net/story/character/lorentz_butterfly/en/?part=1)
-
 Hidden memories,
 unfinished journeys.
 Faces, neither real nor false,
@@ -32,7 +30,7 @@ only a single glance is given.
 <a id="episode-3591001"></a>
 ## 3591001 · A Soggy Ideal
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Laplace Scientific Computing Center
 
 **Laplace Researcher I:** Welcome to the LSCC headquarters.
@@ -218,7 +216,7 @@ Her frozen smile remains unwavering.
 A faint, concealed sorrow passes across the researcher's face.
 
 **Coalwall:** But, Marguerite, I need to know: what really happened to Annie?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -226,7 +224,7 @@ A faint, concealed sorrow passes across the researcher's face.
 <a id="episode-3591002"></a>
 ## 3591002 · What Is Pried
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Cambridge University
 
 Cambridge University, 1987.
@@ -474,7 +472,7 @@ The two Institutum infiltrators exchange a knowing glance, silently abandoning t
 **X:** Go ahead and keep playing with your boring circulation team, but when you're free, come help me test my jet-powered inverted glider.
 
 **Lorentz Butterfly:** I intend to be occupied for the foreseeable future.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -482,7 +480,7 @@ The two Institutum infiltrators exchange a knowing glance, silently abandoning t
 <a id="episode-3591003"></a>
 ## 3591003 · Verification of Possibility
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Hallway, Cambridge University
 
 **Annie:** Marguerite! Marguerite!
@@ -594,7 +592,7 @@ Rachel jumps to her feet and pulls the beeping communicator from the top shelf.
 **Marguerite:** The Timekeeper just issued the 24-hour countdown to the "Storm."
 
 **Marguerite:** This is our golden opportunity to observe circulation changes prior to the "Storm."
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -602,7 +600,7 @@ Rachel jumps to her feet and pulls the beeping communicator from the top shelf.
 <a id="episode-3591004"></a>
 ## 3591004 · "The Masses"
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Temporary Station, Coral Islands
 
 **Rachel:** Final equipment check.
@@ -856,7 +854,7 @@ The words hang for a heartbeat. Marguerite studies the depths of Rachel's pupils
 **Marguerite:** I see.
 
 **Marguerite:** That's admirable. Truly.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -864,7 +862,7 @@ The words hang for a heartbeat. Marguerite studies the depths of Rachel's pupils
 <a id="episode-3591005"></a>
 ## 3591005 · The Inevitable Sink
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 After finishing the installation of the elevated monitoring equipment, Coalwall returns to their temporary outpost.
 
 **Coalwall:** Where's Rachel?
@@ -1030,7 +1028,7 @@ She glances at her watch, then stares out toward the rolling sea.
 **Rachel:** Researcher Coalwall, Marguerite.
 
 **Rachel:** I'm going to dive down there and retrieve the probe.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1038,7 +1036,7 @@ She glances at her watch, then stares out toward the rolling sea.
 <a id="episode-3591006"></a>
 ## 3591006 · Conjecture and Proof
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Temporary Station, Coral Islands
 
 **Coalwall:** Have you lost your mind?!
@@ -1218,7 +1216,7 @@ The words don't land right. Too bitter for a joke, too genuine for a barb.
 **Rachel:** Farewell, dear Marguerite.
 
 Her path lies before her. She refuses to wait another second.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1226,7 +1224,7 @@ Her path lies before her. She refuses to wait another second.
 <a id="episode-3591007"></a>
 ## 3591007 · The Hidden Scar
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 A severed rope lies wet at the center of the table.
 
 It once tethered Rachel's diving suit.
@@ -1444,7 +1442,7 @@ And in return, she reads from her an unprecedented mixture of danger and exhilar
 **Coalwall:** A monster impossible to comprehend.
 
 **Lorentz Butterfly:** Well? What will you do?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1452,7 +1450,7 @@ And in return, she reads from her an unprecedented mixture of danger and exhilar
 <a id="episode-3591008"></a>
 ## 3591008 · A Single Flutter
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The "Storm" descends once more, eroding the remnants of 1987.
 
 Hallway, Laplace
@@ -1598,7 +1596,7 @@ The words bounce off of his glass exterior without understanding.
 Coalwall gazes at her sleeping companion beyond the glass in quiet contemplation.
 
 **Coalwall:** A genius, one unconstrained by rules, norms, maybe even basic manners. But a genius—that much no one can deny.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---

@@ -7,8 +7,6 @@
 - Story units：`4`
 - Trail：`0`
 
-[UTTU](https://uttu.merui.net/story/other/uttu1_4/en/?part=1)
-
 A gathering of arcanum.
 We read and we learn.
 
@@ -24,7 +22,7 @@ We read and we learn.
 <a id="episode-90002501"></a>
 ## 90002501 · Volume I
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 This should have been a quiet night.
 
 A moment of respite for those that tirelessly seek the truth.
@@ -126,7 +124,7 @@ Fortunately for him, the others seem not to catch his mumbling.
 **6:** ...
 
 6 sighs almost imperceptibly and places his fingers on the magazine's pages.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -134,7 +132,7 @@ Fortunately for him, the others seem not to catch his mumbling.
 <a id="episode-90002502"></a>
 ## 90002502 · Volume II
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Sophia:** The magazine's descriptions of our island are quite evocative.
 
 **Sophia:** Is this really how the island looks in the eyes of outsiders? I never would've thought...
@@ -164,7 +162,7 @@ Fortunately for him, the others seem not to catch his mumbling.
 **37:** The sea? But it's everywhere! It's no more interesting than a nonprime integer with an exponent of one!
 
 **Sophia:** Perhaps it's in seeing the same things with new eyes that we find the true joy of travel, 37.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -172,7 +170,7 @@ Fortunately for him, the others seem not to catch his mumbling.
 <a id="episode-90002503"></a>
 ## 90002503 · Volume III
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **210:** Sophia, you're the only one among us with any first-hand travel experience, do you have any travel advice?
 
 **Sophia:** Do you mean when I came to the island with Hugh?
@@ -200,7 +198,7 @@ Fortunately for him, the others seem not to catch his mumbling.
 **37:** Oh, so you'd follow in the footsteps of 77 and choose your destination by searching for the truth?
 
 **6:** I'm saying... I have no desire to travel at all.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -208,7 +206,7 @@ Fortunately for him, the others seem not to catch his mumbling.
 <a id="episode-90002504"></a>
 ## 90002504 · Volume IV
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **210:** How utterly lamentable.
 
 As he flips through the pages, 210 heaves a long sigh.
@@ -250,7 +248,7 @@ However, 210 has never been one to let silence of even this extreme degree deter
 Sophia at the edge of her patience at last, reluctantly closes her magazine, intent on resolving their dispute.
 
 **Sophia:** For all your boasting, you both seem to have evaded the obvious truth at the end of your noses. Neither of you were old enough to be mentioned when this article was published.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---

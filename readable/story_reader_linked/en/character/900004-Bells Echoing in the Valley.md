@@ -7,8 +7,6 @@
 - Story units：`8`
 - Trail：`0`
 
-[UTTU](https://uttu.merui.net/story/character/shamane/en/?part=1)
-
 As he fell into the abyss, he became lost in the ashes, thorns and his own memories,
 seeking pain like an endless gale howling against rugged stone.
 
@@ -31,7 +29,7 @@ he will choose to embrace nature with feet firmly planted on the ground.
 <a id="episode-90000401"></a>
 ## 90000401 · Last Echoes in the Forest
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 ***
 
 **Prologue: Last Echoes in the Forest**
@@ -249,7 +247,7 @@ Without any warning, his heavy eyelids droop—the sky draws its curtain.
 Freezing darkness swallows the hills, invading his body, and soon his consciousness sinks into a dense darkness.
 
 He collapses to the ground like a cut log. The faint sounds quickly are dispersed by the wind and snow, disappearing into the woods.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -257,7 +255,7 @@ He collapses to the ground like a cut log. The faint sounds quickly are disperse
 <a id="episode-90000402"></a>
 ## 90000402 · Reduced to Ashes
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 ***
 
 **Prologue: Reduced to Ashes**
@@ -491,7 +489,7 @@ Its figure slowly fades away.
 ...
 
 ...
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -499,7 +497,7 @@ Its figure slowly fades away.
 <a id="episode-90000403"></a>
 ## 90000403 · Fangs and Fists
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 ***
 
 **Prologue: Fangs and Fists**
@@ -713,7 +711,7 @@ A hunchbacked figure strides out of the forest, casually throwing the wolves som
 He turns his head slightly, his gaze sliding past the dagger on the ground and glancing at the figure standing at the edge of the cliff before heading into the forest without looking back.
 
 Shamane watches the hunchbacked figure leave further and further. Finally snapping out of shock, he jogs to catch up.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -721,7 +719,7 @@ Shamane watches the hunchbacked figure leave further and further. Finally snappi
 <a id="episode-90000404"></a>
 ## 90000404 · In Humility
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 ***
 
 **Prologue: In Humility**
@@ -993,7 +991,7 @@ Yet the door remains open.
 **Shamane:** ...!
 
 His troubled thoughts dissipate, and he quickened his steps up the steep slope.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1001,7 +999,7 @@ His troubled thoughts dissipate, and he quickened his steps up the steep slope.
 <a id="episode-90000405"></a>
 ## 90000405 · It Rains the Same Old Rain
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 ***
 
 **Prologue: It Rains the Same Old Rain**
@@ -1217,7 +1215,7 @@ The nightmares halted before his bed.
 Shamane stands at the forest entrance—he has one last item left.
 
 Fine rain scrapes his face, the forest drizzling, and he quickens his steps.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1225,7 +1223,7 @@ Fine rain scrapes his face, the forest drizzling, and he quickens his steps.
 <a id="episode-90000406"></a>
 ## 90000406 · Friendship with a Fluffball
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 ***
 
 **Prologue: Friendship with a Fluffball**
@@ -1473,7 +1471,7 @@ The furry creature leaps over, smacking him in the face.
 **Shamane:** I—Must save—
 
 The stones on the cliff can't bear their weight, falling alongside his shouts...
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1481,7 +1479,7 @@ The stones on the cliff can't bear their weight, falling alongside his shouts...
 <a id="episode-90000407"></a>
 ## 90000407 · At the End of the Forest
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 ***
 
 **Prologue: At the End of the Forest**
@@ -1695,7 +1693,7 @@ It puts down the body. It’s time ... to go back.
 ...
 
 ... ......
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1703,7 +1701,7 @@ It puts down the body. It’s time ... to go back.
 <a id="episode-90000408"></a>
 ## 90000408 · Dimming Embers
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 ***
 
 **Prologue: Dimming Embers**
@@ -1957,7 +1955,7 @@ Frowning, the scene before him is bewildering—
 Inside the envelope, the letter is blank.
 
 **Shamane:** It's from...Mor Pankh?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---

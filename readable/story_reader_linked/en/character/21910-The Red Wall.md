@@ -7,8 +7,6 @@
 - Story units：`8`
 - Trail：`0`
 
-[UTTU](https://uttu.merui.net/story/character/argus/en/?part=1)
-
 In the darkness, a burning gaze.
 There she lingers, in search of truth.
 Is what she sees reality, or is it a ruse?
@@ -29,7 +27,7 @@ Is what she sees reality, or is it a ruse?
 <a id="episode-2191001"></a>
 ## 2191001 · Near or Far
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 A Southern Town
 
 **???:** Phew ...
@@ -259,7 +257,7 @@ Not even a greenhorn could miss the shot at this range.
 **Argus:** No ...
 
 **Argus:** Chill, pal. Where's that Texan hospitality?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -267,7 +265,7 @@ Not even a greenhorn could miss the shot at this range.
 <a id="episode-2191002"></a>
 ## 2191002 · Not Visitors
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Argus:** There's gotta be ...
 
 **Argus:** Some kinda misunderstanding.
@@ -439,7 +437,7 @@ He drawls out each word as if intentionally playing up his accent, but raises hi
 **Deputy Flynn:** Try again, ma'am. You ain't the first to come 'round with that old excuse. No one's buying it.
 
 **Deputy Flynn:** So, how about you drop that gun and come quiet-like?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -447,7 +445,7 @@ He drawls out each word as if intentionally playing up his accent, but raises hi
 <a id="episode-2191003"></a>
 ## 2191003 · A Hat and a Pistol
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 ***
 
 **GAMEPLAY**
@@ -559,7 +557,7 @@ A pouch tied with red thread, clearly intended to hold files.
 There is a scarlet seal on the pouch. She has no clue what it is, or who it came from, but one thing's for sure. It's meant to keep you out.
 
 **Argus:** Looks like I've hit the jackpot.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -567,7 +565,7 @@ There is a scarlet seal on the pouch. She has no clue what it is, or who it came
 <a id="episode-2191004"></a>
 ## 2191004 · Just a Drink of Water
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Argus checks the pouch carefully.
 
 **Argus:** The deputy's name has been signed on the lower right corner for most files.
@@ -625,7 +623,7 @@ Veins run up her head and fists, like a nest of snakes ready to attack.
 **GAMEPLAY**
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -633,7 +631,7 @@ Veins run up her head and fists, like a nest of snakes ready to attack.
 <a id="episode-2191005"></a>
 ## 2191005 · Blood and Violence
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Argus:** Hah, "Sweet Strawberry."
 
 **Argus:** Let's hope it's a fitting name.
@@ -821,7 +819,7 @@ Radiance flashes in Argus's eyes, showing her the true color of the Red Wall.
 **Argus:** Blood?
 
 **Argus:** Why is there so much blood here?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -829,7 +827,7 @@ Radiance flashes in Argus's eyes, showing her the true color of the Red Wall.
 <a id="episode-2191006"></a>
 ## 2191006 · Never Enough
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The Red Wall
 
 **Argus:** Urgh!
@@ -981,7 +979,7 @@ She recalls the words again, as if she were savoring the candy's aftertaste.
 **Argus:** Whether the bastard's a merc or a skinwalker, I'll find it.
 
 **Argus:** Believe me, I will.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -989,7 +987,7 @@ She recalls the words again, as if she were savoring the candy's aftertaste.
 <a id="episode-2191007"></a>
 ## 2191007 · No One Cares
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Soon after the sun rises, Argus prepares to leave town.
 
 The fresh sheep blood was not part of the offerings. It was left by the hands of the one who touched the old stains.
@@ -1337,7 +1335,7 @@ She's taking a risk, but her goal is not to kill the target after all.
 **Argus:** You've got a lot of explaining to do to the deputy about ...
 
 The Red Wall.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1345,7 +1343,7 @@ The Red Wall.
 <a id="episode-2191008"></a>
 ## 2191008 · The Color of Apricots
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 ***
 
 **GAMEPLAY**
@@ -1597,7 +1595,7 @@ She still remembers the sticky feeling that oozed from the mirror. To prevent he
 **Argus:** The buses travel between cities and the countryside twice a day.
 
 **Argus:** Damn it, Kayla. Where on earth are you?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---

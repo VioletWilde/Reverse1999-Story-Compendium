@@ -7,8 +7,6 @@
 - Story units：`8`
 - Trail：`0`
 
-[UTTU](https://uttu.merui.net/story/character/charon/en/?part=1)
-
 A body weighs more than a shell, yet a name becomes lighter than the dust.
 Death moves among them without making a sound,
 Granting the same eternal stillness to both body and dust.
@@ -29,7 +27,7 @@ Granting the same eternal stillness to both body and dust.
 <a id="episode-3060101"></a>
 ## 3060101 · Exhaustion
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Trenches
 
 The cannon fire fades as the poison gas dissipates. They rise from the trenches, these men, not yet dead, but not quite alive.
@@ -235,7 +233,7 @@ She glances his way, her eyes a piercing blue.
 **Charon:** ... Partita.
 
 **Partita:** Paul ... why didn't you come home?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -458,7 +456,7 @@ Charon says nothing, but the woman doesn't seem to mind.
 <a id="episode-3060102"></a>
 ## 3060102 · From the Past
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Partita:** Why won't you answer me?
 
 **Charon:** I ... am still trying to understand the question.
@@ -660,7 +658,7 @@ A rare smile flickers across Franz's face.
 **Charon:** ... Thank you.
 
 **Franz:** If I didn't know you better, I'd take that "thank you" as a challenge.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -879,7 +877,7 @@ A rare smile flickers across Franz's face.
 <a id="episode-3060103"></a>
 ## 3060103 · Delirium of the Dying
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Forest Near the Field Hospital
 
 Shovels rise and fall as dirt is flung over shoulders.
@@ -1093,7 +1091,7 @@ The doctor gestures to Fabien with his clipboard.
 Fabien's murmuring begins to fade, then he gasps for breath, like he's choking back a sob.
 
 **Charon:** Yes.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1316,7 +1314,7 @@ Fabien's murmuring begins to fade, then he gasps for breath, like he's choking b
 <a id="episode-3060104"></a>
 ## 3060104 · Endurance
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The night shift has ended, and a wooden plank on the cart has just cracked.
 
 **Charon:** ... A new plank must be located.
@@ -1498,7 +1496,7 @@ Died in the fading of every spark. Died in every stirring of dust.
 Eberhard catches a faint shift in Charon's cloak. It seems as though he is nodding.
 
 **Charon:** It will be done.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1683,7 +1681,7 @@ Eberhard catches a faint shift in Charon's cloak. It seems as though he is noddi
 <a id="episode-3060105"></a>
 ## 3060105 · Fallen Dragonfly
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Field Hospital
 
 **Charon:** Fabien?
@@ -1893,7 +1891,7 @@ Charon tries to read her face, but all he sees is a brittle coldness.
 A long silence passes. When she speaks again, her voice is weary.
 
 **Partita:** I need time to think about all of this.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -2120,7 +2118,7 @@ A long silence passes. When she speaks again, her voice is weary.
 <a id="episode-3060106"></a>
 ## 3060106 · Dead Man Walking
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 No Man's Land
 
 **???:** I suppose you're Charon, right?
@@ -2334,7 +2332,7 @@ His voice is colder than ever.
 Thankfully, the bullet barely scraped Franz. He lifts his rifle and walks away alone.
 
 Charon stands in the undergrowth, his hand slowly dropping from his pocket.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -2563,7 +2561,7 @@ Charon stands in the undergrowth, his hand slowly dropping from his pocket.
 <a id="episode-3060107"></a>
 ## 3060107 · Burned to Ashes
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Partita:** You and Franz had a fight?
 
 **Charon:** He was wounded. I brought him back.
@@ -2797,7 +2795,7 @@ Charon sees the lieutenant colonel clutching his chest, red pouring out from bet
 Partita turns to Charon, her face now calm and distant.
 
 Both the living and the dead fall silent.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -3024,7 +3022,7 @@ Both the living and the dead fall silent.
 <a id="episode-3060108"></a>
 ## 3060108 · Fugue of Tragedies
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Eberhard:** Pride killed him in the end.
 
 **Charon:** His lies became the bullet that struck him down.
@@ -3198,7 +3196,7 @@ Fabien, Partita, countless others—the young, tortured faces of war.
 He walks alone to meet them, to carry out his last and only duty.
 
 He raises the shovel and plunges it into the earth.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>

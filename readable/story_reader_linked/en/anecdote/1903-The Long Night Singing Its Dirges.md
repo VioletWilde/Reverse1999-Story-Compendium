@@ -7,8 +7,6 @@
 - Story units：`8`
 - Trail：`0`
 
-[UTTU](https://uttu.merui.net/story/anecdote/dikke/en/?part=1)
-
 Inside the Penumbra Can,
 Covered in a layer of dust,
 Are stories buried in the depths of time.
@@ -31,7 +29,7 @@ Are stories buried in the depths of time.
 
 > She thrusts forward, dazzling and direct.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Monastery
 
 Within the monastery, a crowd eagerly gathered on both sides of the wide-open courtyard gate.
@@ -151,7 +149,7 @@ The daylight was blinding, yet she stubbornly raised her head into the sun, hold
 **Dikke:** Very well.
 
 **Michael:** May the Lord bless you.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -296,7 +294,7 @@ The daylight was blinding, yet she stubbornly raised her head into the sun, hold
 
 > People praise the fragrance, the crimson liquid, and everything under its protection.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Outside, Tavern
 
 The rowdy sounds from the tavern spilled out into the air.
@@ -534,7 +532,7 @@ He nodded fervently.
 **Dikke:** I thank you for your assistance.
 
 The cold metal blade dropped, as if finally satisfied.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -795,7 +793,7 @@ The cold metal blade dropped, as if finally satisfied.
 
 > A long-standing symptom, often appearing in every pious believer.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Living Area, Monastery
 
 The anxious monk scrunched his neck, his hands tightly gripping at his robe.
@@ -971,7 +969,7 @@ He swallowed hard.
 **George:** ......?!
 
 The hand flipping the notebook stopped abruptly.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1170,7 +1168,7 @@ The hand flipping the notebook stopped abruptly.
 
 > That affection, that greatness—it will eventually shine eternal.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **George:** My Lady, do we really have to do this?
 
 George looked around nervously, clutching a delicate glass bottle tightly, the crimson liquid swaying inside.
@@ -1312,7 +1310,7 @@ It was as if he didn't even realize what he was saying; muttering to himself unt
 **Dikke:** Maybe your sins will be forgiven.
 
 **Dikke:** But not right now, Father.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1477,7 +1475,7 @@ It was as if he didn't even realize what he was saying; muttering to himself unt
 
 > Through the unconscious efforts of many, it has finally completed its mission.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Dikke returned to the grimy room.
 
 A persistent smell of burning tar covered a hint of decay, set against the old files on the shelves, created a somber dread-filled backdrop.
@@ -1585,7 +1583,7 @@ The faithful man bowed his head, reciting his instructions earnestly.
 Tossing aside the old documents, she stood up.
 
 **Dikke:** "Render unto Caesar the things that are Caesar's, and unto God the things that are God's."
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1716,7 +1714,7 @@ Tossing aside the old documents, she stood up.
 
 > No one cares about an empty tomb, nor does anyone care about a lonely monument.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The monastery, usually quiet and empty, now hosted a throng encircling Dikke, their eyes wide with fear.
 
 **Dikke:** Quiet down.
@@ -1836,7 +1834,7 @@ He no sooner finished then he ran out the door.
 **George:** Last I checked!
 
 **Crowd:** Then, wait for us——!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1979,7 +1977,7 @@ He no sooner finished then he ran out the door.
 
 > Now, the high hanging sword has fallen.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The monastery was crowded far beyond its usual numbers.
 
 But those that had gathered there came neither for prayer nor to celebrate a holy day.
@@ -2113,7 +2111,7 @@ The dark cloaked lady ascended to the highest point in the room.
 **Dikke:** I will now pronounce judgment.
 
 **Dikke:** This was a silent murder to which all are guilty.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -2270,7 +2268,7 @@ The dark cloaked lady ascended to the highest point in the room.
 
 > The sun will surely rise. The sun always rises.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **George:** My Lady—My Lady—!
 
 **Dikke:** ...?
@@ -2356,7 +2354,7 @@ Some time had passed, and at last Dikke completed her records.
 The long night would eventually come to an end.
 
 And the sun would rise once more.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>

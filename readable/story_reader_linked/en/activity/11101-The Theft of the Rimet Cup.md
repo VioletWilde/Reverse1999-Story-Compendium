@@ -7,8 +7,6 @@
 - Story units：`16`
 - Trail：`14`
 
-[UTTU](https://uttu.merui.net/story/event/1_1/en/?part=1)
-
 A street comedy born from countless tiny coincidences.
 Soap bubble philosophy, wondrous gadgets, and thieves...
 Who shall claim the golden grail?
@@ -39,7 +37,7 @@ Who shall claim the golden grail?
 
 > In days like this, nothing is more important than security.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Newsboy:** Breaking news! Breaking news today!
 
 **Newsboy:** The New Humans Company announced they'd offer another reward for the 13th International Jewelry Show. The company claimed that the person who filches The Heart of London can collect a £1 million reward at No. 15 Bond Street.
@@ -259,7 +257,7 @@ Iverson snatches up the telephone from the robot's shoulder, like tearing up an 
 **Diggers:** ...
 
 The passionate speaker has noticed that it's a perfect chance to escape other than wasting time talking.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -525,7 +523,7 @@ At that time I was groping for my glasses on the floor. When I look up, I saw it
 
 > The wet marks left by the bubble festival dry up and disappear under the sun, along with some strange encounters.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **???:** It's beautiful!
 
 **???:** This is what Father used to protect.
@@ -777,7 +775,7 @@ After taking several more corners, she will arrive at the newly set destination�
 **Melania:** You're welcome, Mr. Charlton. I think the Stinky Mud Freshener would suit you better.
 
 **Melania:** God bless you to find your little Pickles soon.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1048,7 +1046,7 @@ After taking several more corners, she will arrive at the newly set destination�
 
 > The books, some alone time, the dog shampoo, and an appropriate amount of  tolerance to  humans.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 A black-and-white shepherd dog lies carefree on the unkempt lawn. He is perfectly covered by the weeds and wild flowers.
 
 Leisure is a treasure for Carnaby Street.
@@ -1228,7 +1226,7 @@ The sounds of a roaring engine, a collision, and a girl's screaming come from th
 **APPLe:** See you, puppy. Bark, bark!
 
 **Pickles:** Woof? \<Hmm?\>
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1442,7 +1440,7 @@ A STATEMENT OF APPRECIATION
 
 > You see, everybody can be world-famous for 15 minutes.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The farce in Regent Street seems to finish as the siren alarms. The street returns to its quiet status as usual.
 
 Except for a sneaking figure who tries to escape from the fire engine.
@@ -1644,7 +1642,7 @@ Either of them has to lose the game, sadly.
 **APPLe:** What?
 
 **Regulus:** "The Worst Beginning and the Best Ending—To Our Forever Ragged Lad"
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1907,7 +1905,7 @@ Lesson One: The Inappropriate Application of the Formula Sometimes Is Also Accep
 
 > She never cared to understand why "enough is enough."
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 A good beginning doesn't bring a happy ending.
 
 This theorem always holds true.
@@ -2083,7 +2081,7 @@ Melania pats the tombstone, just like comforting an old friend who is distressed
 **Melania:** Real protection is more than defense. It's about attack.
 
 **Melania:** Mr. Iverson needs to learn a harsher lesson.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -2307,7 +2305,7 @@ At 12pm today, the London police announced the new travel regulation Ban for Sai
 
 > It all leads to the same answer.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Newsboy:** Extra! Extra! The event about to change London!
 
 Someone suddenly appears from behind him and taps him gently on the shoulder.
@@ -2443,7 +2441,7 @@ Diggers leaves with excitement. The newspaper is tossed into the air, signaling 
 A well-trained pup will never miss a single chance to catch a flying ball.
 
 Of course, the newspaper in the air is included.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -2613,7 +2611,7 @@ There is no denying that accidents exist.
 
 > Taking turns in the maze ... We all have gone past the point of no return.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Wendy:** Woof woof!
 
 The little bulldog holds the newspaper in his mouth and turns round and round in front of his master, as if showing off his trophy.
@@ -2835,7 +2833,7 @@ He moves forward with difficulty in the dark, but he doesn't notice that somethi
 **Diggers:** Shoot! It-It's in my eyes. \*coughs\* Oh, it's itchy.
 
 **Diggers:** \*coughs\* Bless me, Talia. Hope the efficacy takes effect a bit slower.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -3106,7 +3104,7 @@ Lesson Five: Patience and Emergency Plan Are Humanity's Two Great Inventions
 
 > Don't spend too much time on physical fights. We have our own things to do, don't we?
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Someone leaves immediately like a player given the red card, while the other chooses a way that's more imperceptible.
 
 In a corner where nobody cares, Melania closes the door to the electric switch box gently. In her hand is a fuse that has just been replaced.
@@ -3322,7 +3320,7 @@ The war swiftly ends with Diggers's crushing defeat.
 **Melania:** Stay as far away as possible from the regulator valve behind you.
 
 **Diggers:** Ugh ...
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -3557,7 +3555,7 @@ The war swiftly ends with Diggers's crushing defeat.
 
 > She decides to change the tone. Things could be brighter, more exciting, like Rock  n' Roll.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Regulus's ship can sail everywhere she wants.
 
 Except where there is a security fence.
@@ -3661,7 +3659,7 @@ Regulus avoids the attacks in a rush.
 COMBAT:
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -3793,7 +3791,7 @@ Get over it. You have seen things like this before.
 
 > Don't mention it. It's the least he can do.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Charlton and the puppies arrive at the Rimet Cup Exhibition.
 
 It's supposed to be a happy family gathering. Everyone thinks so.
@@ -4017,7 +4015,7 @@ After a short assist, Pickles makes a perfect arc through the air and easily goe
 **APPLe:** Whoaa!
 
 **Pickles:** Woof woof … \<Thank you for the translator, Mr. APPLe.\>
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -4260,7 +4258,7 @@ After a short assist, Pickles makes a perfect arc through the air and easily goe
 
 > One ticket for multiple shows, you don't get such a good bargain everyday.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The eyes of the puppy shine indigo. He moves agilely and swiftly, avoiding all robots.
 
 This time, Pickles really hopes his instinct doesn't work.
@@ -4478,7 +4476,7 @@ Suddenly, there's a strange noise from the ceiling.
 **Pickles:** ...
 
 **Diggers:** Um, hi!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -4715,7 +4713,7 @@ Suddenly, there's a strange noise from the ceiling.
 
 > The most ideal composition of this photo would be having a bubble gently landing on the muzzle of the loaded gun.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The fans keep working and generate a continuous gale.
 
 Dust, fragments, and strange magnets stick to the cover of the ventilation. Some of them scatter and linger above Iverson's head.
@@ -4851,7 +4849,7 @@ Iverson grabs a robot's weapon forcefully. His "employees" have finally regained
 COMBAT:
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -5031,7 +5029,7 @@ Doctor Introduced Lobotomy Won Nobel Prize<br>The Little Known Dada work<br>Race
 
 > That impulse, like radio wave, is untouchable yet real.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Melania:** Brilliant. Although there were some unexpected hiccups ...
 
 **Melania:** Our plan went well. The fuse has been changed, bullets replaced, magnet installed ... Most robots have been paralysed.
@@ -5257,7 +5255,7 @@ The old fuse that was deliberately installed is finally blowing as the temperatu
 **Regulus:** Huh? Why is the power out?
 
 **Melania:** Uh huh. All is ready.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -5531,7 +5529,7 @@ The Funniest Game is in town! Thousands of fluffy athletes from hundreds of stre
 
 > No need for investigation or deduction. Open your eyes and the truth is here.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Iverson:** Go! Turn on the emergency light and go check the circuit!
 
 **Security Guard:** Copy that!
@@ -5675,7 +5673,7 @@ What remains is the exhibition name tag for the Rimet Cup, which appears again o
 **Passerby:** He found us the Rimet Cup!!
 
 **Pickles:** Woof? \<Hmm?\>
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -5870,7 +5868,7 @@ Lesson Nine: Congratulations. You Are A Qualified Thief Now
 
 > Which way should we go at the crossroads, left or right? Which side do you call, heads or tails?
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Pickles:** Woof .... woof … \<Remote ... Cup ...\>
 
 **Pickles:** Woof woof woof! \<There is a smell left on the cup! She is also an arcanist, and she's still around.\>
@@ -5964,7 +5962,7 @@ Those weird tools are displayed in front of Pickles. This is definitely an excep
 **Pickles:** …
 
 With the noisy ring in the hall, the story of a hero puppy eventually catches everyone's attention.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -6079,7 +6077,7 @@ With the noisy ring in the hall, the story of a hero puppy eventually catches ev
 
 > A farce, a victory and a celebration. When the dust has settled, the hero comes back to his sweet home.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Pickles:** Woof ... Woof woof! \<Wait, there must be some misunderstandings!\>
 
 **Pickles:** Woof ... woof! \<Calm down, my friends.\>
@@ -6167,7 +6165,7 @@ On the other side of the hall, someone else is crying.
 **???:** Wherever you are, whatever you've been ... I hope this story will bring you a moment of joy.
 
 **???:** And I am also sincerely looking forward to ... your stories.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>

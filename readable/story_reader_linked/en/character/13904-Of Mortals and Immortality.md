@@ -7,8 +7,6 @@
 - Story units：`9`
 - Trail：`0`
 
-[UTTU](https://uttu.merui.net/story/character/hedone/en/?part=1)
-
 The flame still burns.
 The past surges like the tide,
 with not a voice to be heard.
@@ -34,7 +32,7 @@ she draws her bow.
 <a id="episode-1390401"></a>
 ## 1390401 · The Histories
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Garden, Anaktoron
 
 The sun hangs overhead, the garden's trees thick and verdant beneath its blaze. It's the hottest time of year.
@@ -212,7 +210,7 @@ Hedone picks up the book filled with tabs and reads the epic's opening line alou
 "Let your song begin with that fateful landing, when warriors from afar came ashore and upon those outer islands first laid eyes on the volcano, which would spell both doom and glory."
 
 **Hedone:** ...
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -401,7 +399,7 @@ Hedone picks up the book filled with tabs and reads the epic's opening line alou
 <a id="episode-1390402"></a>
 ## 1390402 · Wisdom in Stone
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Thick black clouds gather on the far horizon. Red magma spews into the sky, accompanied by a terrible, rumbling thunder.
 
 Hedone stands high on the mountainside, gazing out to the sea and the violent storm which swells it.
@@ -679,7 +677,7 @@ The golden rings on her arms gleam brightly. Hedone flicks one, and it releases 
 She gets no answer.
 
 The cave stands empty save for the sleeping calf.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -687,7 +685,7 @@ The cave stands empty save for the sleeping calf.
 <a id="episode-1390403"></a>
 ## 1390403 · Words Over Wine
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 ???, Greece
 
 A man in scale armor is kicked deep into the cave, his broken shield and spear already tossed to the side.
@@ -943,7 +941,7 @@ The tip of the pen pauses for a moment.
 **Hedone:** Sailing through a storm is no easy feat, but then, my friends were extraordinarily skilled.
 
 **Hedone:** They steered the ship over towering waves, battled the tide and wind, until the furious Typhon whipped up a great whirlpool.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -951,7 +949,7 @@ The tip of the pen pauses for a moment.
 <a id="episode-1390404"></a>
 ## 1390404 · An Odyssey Aflame
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The wind and rain stop in an instant. A hint of daylight shines through the dark clouds above.
 
 The disheveled warriors exchange stunned glances with one another.
@@ -1237,7 +1235,7 @@ Letting emotion take over in the middle of a campaign is dangerous.
 **Hedone:** I have an ill feeling in my chest.
 
 The volcano's outline comes into clear view, its cliffs rising before them as if cut by the blades of the gods themselves.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1245,7 +1243,7 @@ The volcano's outline comes into clear view, its cliffs rising before them as if
 <a id="episode-1390405"></a>
 ## 1390405 · The Poem of Force
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The sun sinks toward the west, flooding the audience chamber in golden light.
 
 Hedone's retelling comes to a sudden halt.
@@ -1479,7 +1477,7 @@ The mouth of the volcano billows with white smoke, like the gates of the underwo
 **Hedone:** I'm coming for you!
 
 She leaps down, plummeting toward the heart of the earth.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1487,7 +1485,7 @@ She leaps down, plummeting toward the heart of the earth.
 <a id="episode-1390406"></a>
 ## 1390406 · The Thirteenth Labor
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Hedone:** You know well what happened after that.
 
 **Elma:** Yes, it was a brutal battle. Your companions followed you down into the volcano.
@@ -1735,7 +1733,7 @@ Then, she hears the sound of something cutting through the air behind her.
 **Hedone:** ...?!
 
 Before she can turn her head, an arrow pierces her left shoulder.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1743,7 +1741,7 @@ Before she can turn her head, an arrow pierces her left shoulder.
 <a id="episode-1390407"></a>
 ## 1390407 · Phronei Thneta
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Hedone spins around and sees Eurus nock another arrow to his bow.
 
 **Eurus:** The winner takes the volcano's power, is that not so?
@@ -1953,7 +1951,7 @@ He reaches up and takes hold of Hedone's golden bow.
 **Eurus:** Accept this power, a power like Typhon's, a god's power.
 
 **Eurus:** We cannot fight fate, not me, not you.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1961,7 +1959,7 @@ He reaches up and takes hold of Hedone's golden bow.
 <a id="episode-1390408"></a>
 ## 1390408 · Agon of the Ages
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The sky has long since cleared, but the sea still shows no sign of anyone's return. The Kymaions gather along the shore, waiting anxiously.
 
 **Clansman:** Why have they not returned?
@@ -2163,7 +2161,7 @@ Hedone pushes herself up and stretches her joints on the sofa.
 **Hedone:** Tell Apollo I'm on my way.
 
 **Hedone:** This time, I shall put a final end to what began all those years ago.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -2171,13 +2169,13 @@ Hedone pushes herself up and stretches her joints on the sofa.
 <a id="episode-1390409"></a>
 ## 1390409 · The Immortal Arrow
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 ***
 
 **GAMEPLAY ONLY**
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---

@@ -7,8 +7,6 @@
 - Story units：`6`
 - Trail：`0`
 
-[UTTU](https://uttu.merui.net/story/anecdote/charlie/en/?part=1)
-
 Inside the Penumbra Can,
 Covered in a layer of dust,
 Are stories buried in the depths of time.
@@ -29,7 +27,7 @@ Are stories buried in the depths of time.
 
 > The journey of an exile often signifies fate.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Charlie:** Hmmm... Mr. Fool, how much further do we have to go?
 
 **The Fool:** My dear Troupe Master Charlie, to which path are you referring?
@@ -125,7 +123,7 @@ A middle-aged man steps forward from among the soldiers.
 **Jeffrey:** The festival and your show will be held tomorrow. Until then, rest up and stay low.
 
 **Jeffrey:** I've arranged a place to stay and some provisions for you. Follow me.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -246,7 +244,7 @@ A middle-aged man steps forward from among the soldiers.
 
 > The composition of all feasts is more or less the same.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 As night descends the following day, the once tranquil streets burst into life, abuzz with activity.
 
 Bonfires crackled at the heart of the square, dispersing the chill and blending with the lively chatter, the scent of malt, and spices, to create a warmth that enveloped the whole crowd.
@@ -460,7 +458,7 @@ A breathless soldier, hurries to Jeffrey's side.
 **Soldier:** The Duke's cavalry are approaching!
 
 **Jeffrey:** What?!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -695,7 +693,7 @@ A breathless soldier, hurries to Jeffrey's side.
 
 > A strand of hair, a handful of lead powder, and a bag of Sharpodonty.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Jeffrey:** This can't be happening! The festival was supposed to be a secret...
 
 **Soldier:** It's true! Our reports say that the cavalry will be here soon!
@@ -787,7 +785,7 @@ The bursts of powder rising in the air as new makeup was applied caused a shimme
 A peculiar smile slipped through his mask.
 
 It carried a hint of mockery and sarcasm—emotions "The Fool" had rarely laid on her.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -902,7 +900,7 @@ It carried a hint of mockery and sarcasm—emotions "The Fool" had rarely laid o
 
 > Is it a monster––or the king's greed––that is imprisoned in the labyrinth of Daedalus?
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **The Fool:** Come now, if we don't tell them, there will be no escaping.
 
 **Charlie:** I just don't get it.
@@ -1050,7 +1048,7 @@ Charlie closed her eyes. Reopening them with a phoenix heart, ready to begin.
 **Charlie:** Mr. Fool, ring the bells to announce the start of our show to the audience!
 
 **Charlie:** —And, of course, don't forget to invite our "special guests."
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1221,7 +1219,7 @@ Charlie closed her eyes. Reopening them with a phoenix heart, ready to begin.
 
 > You and I both know that the bell signals the start of the show.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Cavalry:** Hurry! Don't let them slip away!
 
 A swift squad of knights races through the streets, their torches illuminating the night.
@@ -1445,7 +1443,7 @@ The soldiers meekly sheathed their weapons and retreated towards the city gate.
 Laughter erupted among the crowd.
 
 The soldiers' arrogance had given way to dejection, in stark contrast to their previous bravado.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1692,7 +1690,7 @@ The soldiers' arrogance had given way to dejection, in stark contrast to their p
 
 > This is the end of one drama and the beginning of another.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Charlie:** ...
 
 The cavalry left the town, dejected and broken.
@@ -1806,7 +1804,7 @@ It was the same look she always wore when she stepped onto the stage.
 **The Fool:** Oh, there's no need to answer. I believe deep down inside, you already know.
 
 **The Fool:** —But all this remaining the same, I hope you enjoyed the story.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>

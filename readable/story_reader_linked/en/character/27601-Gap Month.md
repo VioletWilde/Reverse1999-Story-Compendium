@@ -7,8 +7,6 @@
 - Story units：`9`
 - Trail：`0`
 
-[UTTU](https://uttu.merui.net/story/character/hissabeth/en/?part=1)
-
 A way of life that we strive to hold,
 Of me, of us, and of our dreams so bold;
 Yesterday's labor, tomorrow's gold.
@@ -30,7 +28,7 @@ Yesterday's labor, tomorrow's gold.
 <a id="episode-2760101"></a>
 ## 2760101 · An Unexpected Visitor
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Lobby, Laplace
 
 **Hissabeth:** Oh, you're here. Perfect. I have something to tell you.
@@ -144,7 +142,7 @@ The little snake peeks out from Hissabeth's hair and gently curls around the vis
 **Prismagreen:** Was it not I that was here for you when you first arrived at Laplace HQ—I that helped you during your first project? I came all the way to the Arctic just to see you!
 
 **Prismagreen:** And you—you can't even remember my name!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -152,7 +150,7 @@ The little snake peeks out from Hissabeth's hair and gently curls around the vis
 <a id="episode-2760102"></a>
 ## 2760102 · A Close Friend
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Hissabeth couldn't have truly forgotten her colleague, not her face certainly. Back when she had first joined the LSCC, it was Camille who first helped her sign the contract.
 
 **Prismagreen:** Here's your contract. Standard clauses, but I recommend giving it a proper read. Researcher Hissabeth, you're a Melusine? That's quite rare.
@@ -270,7 +268,7 @@ Their conversation once again veers entirely off-track. Thankfully, someone else
 **Prismagreen:** Oh, absolutely. Something very important indeed!
 
 **Prismagreen:** Look at this. Darling, have you given any thought to switching projects again?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -278,7 +276,7 @@ Their conversation once again veers entirely off-track. Thankfully, someone else
 <a id="episode-2760103"></a>
 ## 2760103 · Resort
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Prismagreen delivers her invitation with the exact type of direct and forward sensibility she knows appeals to her colleague, yet somehow Hissabeth manages to slip around it.
 
 **Hissabeth:** What do you mean? A new project? What happened to your old one?
@@ -436,7 +434,7 @@ The pause is longer this time. The computations growing even more complex.
 **Prismagreen:** But, what if it isn't her preferred field?
 
 Lacking any modeling to analyze this question, she offers only a very human shrug.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -444,7 +442,7 @@ Lacking any modeling to analyze this question, she offers only a very human shru
 <a id="episode-2760104"></a>
 ## 2760104 · What the Snake Said
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Family Meeting, Hissabeth's Mind
 
 **Hissabeth:** So, our meeting today has been called to discuss our possible transfer. The Laplace Office in Plesetsk is offering us a role in an aerospace-related research project.
@@ -638,7 +636,7 @@ In the process, she missed the perfect moment to ask her question.
 Yet a hint of curiosity lingers in her mind.
 
 **Kiperina:** Speaking of which, will you accept Miss Prismagreen's invitation?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -646,7 +644,7 @@ Yet a hint of curiosity lingers in her mind.
 <a id="episode-2760105"></a>
 ## 2760105 · The Proof in the Pudding
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Hissabeth:** So, let's return to the topic of our last meeting: do we join Prismagreen's new project, or stick with our own?
 
 **Snake V:** What is our current project again?
@@ -808,7 +806,7 @@ Hissabeth flips through eagerly, sparks flying between her eyes and the pages.
 **Hissabeth:** Just this line alone could keep us talking for three days straight!
 
 **Hissabeth:** But I'm leaving tomorrow. But it's cool. We can always exchange letters!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -816,7 +814,7 @@ Hissabeth flips through eagerly, sparks flying between her eyes and the pages.
 <a id="episode-2760106"></a>
 ## 2760106 · Weightless Wasteland
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 What makes a perfect vacation?
 
 Entertainment? Depends on the person. A change of scenery? Not everyone craves that. Local delicacies? Oh yes, the more the better.
@@ -994,7 +992,7 @@ The unexpected opening line quiets the snakes for a moment.
 **Snake I:** You nearly startled Three into speaking! Bien sûr, my points are always solid. But uhm, what is it that you agree with?
 
 **Hissabeth:** I would like to revise today's agenda. If there's no immediate launch planned, I propose we relocate the Plesetsk research project back to HQ.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1002,7 +1000,7 @@ The unexpected opening line quiets the snakes for a moment.
 <a id="episode-2760107"></a>
 ## 2760107 · Cognitive Bias
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Lobby, Laplace
 
 Though a bit regretful, Estelle is still pleased with her trip. Particularly because she finally has time to discuss her favorite topic to her heart's content.
@@ -1148,7 +1146,7 @@ Scanning the girl's expression, Pointer eventually comes to a more human underst
 Pointer brushes back her hair. The mechanical structure hums in precise motion—orderly, self-contained.
 
 **Pointer:** No one can change her mind. If that's what she wants to do, she'll do it.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1156,7 +1154,7 @@ Pointer brushes back her hair. The mechanical structure hums in precise motion�
 <a id="episode-2760108"></a>
 ## 2760108 · Au revoir, chers amis
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Pointer sits at her desk, going about her work as usual.
 
 **Hissabeth:** Hello.
@@ -1312,7 +1310,7 @@ Hissabeth looks unconvinced. Yet to head off the inevitable argument, Pointer ra
 **Kiperina:** To the end of the "Storm."
 
 **Hissabeth:** And to the stars.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1320,13 +1318,13 @@ Hissabeth looks unconvinced. Yet to head off the inevitable argument, Pointer ra
 <a id="episode-2760109"></a>
 ## 2760109 · Neuf Têtes-à-Têtes
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 ***
 
 **GAMEPLAY ONLY**
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---

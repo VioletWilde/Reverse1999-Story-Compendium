@@ -7,8 +7,6 @@
 - Story units：`15`
 - Trail：`9`
 
-[UTTU](https://uttu.merui.net/story/event/3_9/en/?part=1)
-
 The horn of the Aquatic Games now rings forth upon the waves—
 A ritual spanning millennia, a celebration of unbridled spectacle.
 
@@ -37,7 +35,7 @@ A ritual spanning millennia, a celebration of unbridled spectacle.
 
 > The distinction between work and rest is beginning to blur.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 A classic mix of '90s alt-rock drifts along the sea breeze.
 
 Aboard the APPLe
@@ -291,7 +289,7 @@ The wind carries her disappointment away and brings back a faint, hopeful voice.
 **???:** Are you ...
 
 **???:** ... looking for the island of Ephaistonos?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -557,7 +555,7 @@ Report on the Behavior of Arcane Creatures in the Waters of ■■■■■■�
 
 > You have to find the loose end first, dear.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Are you ...**
 
 **???:****Are you ...**
@@ -831,7 +829,7 @@ COMBAT:
 Left alone without his captain and crew, the chief mate APPLe spins in full circles, attempting to get his bearings.
 
 **APPLe:** No. This isn't good. This APPLe needs to get help.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · The Arcane Encyclopedia
 
@@ -856,7 +854,7 @@ Ninety Thousand Whys: Arcanist Taxons
 
 > No need to keep looking around! You're invited!
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Sonetto:** Urm ...
 
 **Sonetto:** Timekeeper ...
@@ -1188,7 +1186,7 @@ The token buys them a little patience from the sovereign.
 **Vertin:** We would like to see the Games revived, and we would also ask for your permission—
 
 **Vertin:** To compete against you.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1198,7 +1196,7 @@ The token buys them a little patience from the sovereign.
 
 > Whenever the feast begins, play the golden lyre.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Ritual Plaza
 
 The outsider's offer sets the whole crowd talking at once, chatter rising until it fills the entire plaza in a deafening clamor.
@@ -1470,7 +1468,7 @@ A brilliant light bursts from Themis's palm, bathing the contestants in its glow
 **???:** You've reached the LSCC. Our office is temporarily closed. Working hours will resume after the break. Please leave your message after the beep. "Beep."
 
 **???:** Oh? Is that you, Timekeeper?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · Major Sporting Event
 
@@ -1495,7 +1493,7 @@ Competition Schedule Venue: Uluru Stadium Floor Ritual, Days 1-6 Pig Toss, Days 
 
 > Better luck next time.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Laplace Office
 
 **X:** Haha. Good to hear that you all made it there in one piece.
@@ -1827,7 +1825,7 @@ A warm, golden light spills from behind the door, and light, rhythmic music puls
 **Hermes:** Maybe you'd like to join us too. We've got a little hideaway nearby. What do you say?
 
 The messenger extends a welcoming hand toward the passing heroes.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -2252,7 +2250,7 @@ Citizens of Ephaistonos, the annual sacred ritual is upon us! The winners of the
 
 > It needn't be so clear, it needn't be so detailed—it needn't be so real.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Bar Helicon
 
 The man behind the bar sets down the shaker he's just finished washing, dries his hands with practiced ease, and pushes up his glasses.
@@ -2480,7 +2478,7 @@ The messenger eyes the cards scattered across the bar, scratching his head throu
 **Vertin:** Thank you, Hermes. We'll do our best.
 
 **Themis:** See you on the field tomorrow, ladies.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · The Ritual at Hand
 
@@ -2519,7 +2517,7 @@ Ephaistonos Temple Work Log
 
 > The design must include a sufficient number of allusions. This is essential.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **???:** Testing, testing. Can you all hear and see me back there in the Suitcase?
 
 **ONiON:** Thanks to Ephaistonos's leader, Lady Hedone, we're coming to you live with exclusive sports coverage of the Aquatic Games.
@@ -2801,7 +2799,7 @@ The arrow she loosed at the very beginning falls from the sky and lands perfectl
 **Vertin:** A perfect score!
 
 **Hedone:** Hah! I do hope you'll cheer for my victory. Better that than to weep over your defeat.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · Advance Preparations
 
@@ -2850,7 +2848,7 @@ The arrow she loosed at the very beginning falls from the sky and lands perfectl
 
 > Our best-selling title is a multiplayer co-op game.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **ONiON:** What a spectacle, ladies and gentlemen! The leader of Ephaistonos, Lady Hedone, has claimed victory in the first round!
 
 **ONiON:** But win or lose, our very own Team Timekeeper completed their debut in truly epic style!
@@ -3156,7 +3154,7 @@ He offers an unconcerned shrug.
 The prophet lets out a small sigh.
 
 **Apollo:** Then I am grateful there are no such rules.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -3166,7 +3164,7 @@ The prophet lets out a small sigh.
 
 > Sincerity will suffice.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **ONiON:** Hello out there to new friends and long-time viewers. You're back with Headonion.
 
 **ONiON:** The response to our special coverage of the Aquatic Games has been nothing short of incredible. Everyone's excited for this incredible showcase of arcane talent.
@@ -3476,7 +3474,7 @@ Her smile is broad and genuine, yet something in it sends a shiver down their sp
 Hedone's cape rises with the wind around her to spectacular effect.
 
 **Hedone:** To prove my words, allow me to entertain you.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -3789,7 +3787,7 @@ Hedone's cape rises with the wind around her to spectacular effect.
 
 > To clumsiness, to courage, to you.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Voyager:** \*violin playing\*
 
 **Hedone:** My dear, is it true that you come to us from the cosmos?
@@ -4097,7 +4095,7 @@ Apollo offers her an all too familiar shrug.
 **Apollo:** Don't worry. The gods did not mean for them to be understood. At least, not in that way.
 
 **Apollo:** Their wisdom reveals itself in its own time.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -4107,7 +4105,7 @@ Apollo offers her an all too familiar shrug.
 
 > I believe our paths, however different, lead to the same end.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Ritual Plaza
 
 The Mediterranean sun blazes high in the sky, and the islanders' love for the Aquatic Games seems to burn just as hot.
@@ -4431,7 +4429,7 @@ Vertin: What's happening down there?Vertin: Not good. I don't have enough power 
 **Hedone:** Would that even the Walls of Ilium could hold you back!
 
 **Hedone:** You shouldn't be here! Not now!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -4441,7 +4439,7 @@ Vertin: What's happening down there?Vertin: Not good. I don't have enough power 
 
 > A silent cycle. The next turn comes, and then the next.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The Volcanic Vent
 
 A thick and steamy fog begins to envelop the island as the volcano roars to life.
@@ -4637,7 +4635,7 @@ All reason gone, Hedone hurls herself down into the magma-lit depths.
 **Vertin:** It's still alive.
 
 **Vertin:** The hunt hasn't finished.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · Solitude, by Choice
 
@@ -4662,7 +4660,7 @@ Foreword The King of Ithaca returned home with no one at his side. Another hero 
 
 > Now comes the test of composure.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The heat grows fiercer.
 
 **Narcissus:** Vertin!
@@ -4894,7 +4892,7 @@ The ritual is nearly complete.
 And I am pleased to see you have found a path solely your own.
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -4904,7 +4902,7 @@ And I am pleased to see you have found a path solely your own.
 
 > I have resolved to cast aside what matters most.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Typhon is dead.
 
 Its massive body melts back into the magma below, bubbling like a pot left to simmer.
@@ -5148,7 +5146,7 @@ She smiles.
 **Hedone:** You speak as if you're ready to go. After all these trials and tribulations, surely we can prolong our celebrations a little while yet?
 
 **Hedone:** For the rest of your stay on the island, and I believe, too, in the days and weeks to come, much merriment and mirth await you.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -5158,7 +5156,7 @@ She smiles.
 
 > To Ithaca—!
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Ritual Plaza
 
 **Themis:** Welcome, one and all, to the final ceremony of the Aquatic Games.
@@ -5438,7 +5436,7 @@ Smiling, Hedone rests a hand on top of Narcissus's head and slowly turns the Nym
 **Hedone:** But it seems I've come too late for your story.
 
 **Hedone:** You wouldn't mind starting from the "very beginning," would you?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · A Letter from an Old Friend
 

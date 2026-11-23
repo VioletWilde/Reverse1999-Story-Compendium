@@ -7,8 +7,6 @@
 - Story units：`7`
 - Trail：`0`
 
-[UTTU](https://uttu.merui.net/story/anecdote/oliver_fog/en/?part=1)
-
 Inside the Penumbra Can,
 Covered in a layer of dust,
 Are stories buried in the depths of time.
@@ -30,7 +28,7 @@ Are stories buried in the depths of time.
 
 > What lies beyond the exquisitely crafted cage of mist?
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 I can't remember when it was that I began to hate the fog.
 
 I can't remember when it was that I began to hate the fog.
@@ -170,7 +168,7 @@ Just as everyone leans in closer, listening ever more attentively to the knight'
 > **Choice 1：** I don't think he's very happy about having to work outside of his schedule.
 
 **Crowd:** I see...
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -333,7 +331,7 @@ Just as everyone leans in closer, listening ever more attentively to the knight'
 
 > It's a day that everyone deserves, but maybe it never really comes.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Sonetto:** All this because Mr. Knight proposed a mission plan that requires working through his day off?
 
 **Sotheby:** Does Mr. Fog really hate his work that much? If you really dislike your job, then why not quit?
@@ -465,7 +463,7 @@ He then freezes in place, like a Carbuncle eagerly emptying cans, only to find i
 **A Knight:** Sorry, everyone. Someone has an urgent matter to deal with and must leave immediately. Please forgive my uncouth and abrupt departure.
 
 **Sotheby:** Aww? Is that it for now? Thank you for sharing that wonderful story, Mr. Knight!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -620,7 +618,7 @@ He then freezes in place, like a Carbuncle eagerly emptying cans, only to find i
 
 > One or several corny, boring jokes.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Oliver Fog:** Well, that's everything done, more or less... Let me check my work schedule.
 
 **Oliver Fog:** Good. Then I can clock off now.
@@ -746,7 +744,7 @@ Yet more shadows emerge from the forest depths, like smoke spewing from factory 
 COMBAT:
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -889,7 +887,7 @@ Yet more shadows emerge from the forest depths, like smoke spewing from factory 
 
 > Perhaps he never came out of that fog.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 I'm afraid of the fog.
 
 That's right, the Fogwalker responsible for dealing with London's fog problem is in fact terrified by it. Is there anything in the world more ironic than that?
@@ -1049,7 +1047,7 @@ The Fogwalker's voice trembles slightly.
 COMBAT:
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1226,7 +1224,7 @@ The young man takes a deep breath and opens his umbrella once more, preparing to
 
 > This is a story about Oliver.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **A Knight:** Someone served with Oliver in our liege's army, and it was during one particular foray that we were ambushed by the enemy.
 
 **A Knight:** To cover the retreat of our main force, someone, along with Oliver, took on the duty of forming the rear guard.
@@ -1356,7 +1354,7 @@ The light from his sword was as sunlight, piercing through the fog of my memorie
 I suddenly remembered.
 
 I remembered why I wanted to become a Fogwalker.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1503,7 +1501,7 @@ Suddenly, the old suit of armor lifted his longsword, and a dazzling ball of lig
 
 > Step into the fog and break free from your prison.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 I had strayed from the main road and wandered into the fog.
 
 I wept, but the thick fog swallowed up my pleas for help.
@@ -1573,7 +1571,7 @@ I found myself weeping, the tears falling beyond my control.
 **A Knight:** Someone firmly believes that the day will come.
 
 **A Knight:** Or have you already forgetten someone told you of your potential as a knight?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1666,7 +1664,7 @@ I found myself weeping, the tears falling beyond my control.
 
 > Maybe nothing will change, or maybe something will.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Oliver Fog:** ...Good morning, Miss Vertin.
 
 > **Choice 1：** Good morning, Mr. Fog.
@@ -1784,7 +1782,7 @@ I found myself weeping, the tears falling beyond my control.
 **Oliver Fog:** Please tell him ... that perhaps I will never become a knight, but I will not rest until I become myself.
 
 **Oliver Fog:** Oliver Fog, the Fogwalker of London.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>

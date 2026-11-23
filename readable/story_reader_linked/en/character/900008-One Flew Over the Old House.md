@@ -7,8 +7,6 @@
 - Story units：`18`
 - Trail：`0`
 
-[UTTU](https://uttu.merui.net/story/character/jessica/en/?part=1)
-
 The mist and water.
 Her four limbs remember those cold and gentle feelings,
 just like her mind recalling the games, the moon, and the nest non-stop.
@@ -41,7 +39,7 @@ Within eleven days, she must complete a leap supported by six pairs of hands.
 <a id="episode-90000801"></a>
 ## 90000801 · Initial Event
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 ***
 
 **1st Playthrough - Intro I**
@@ -311,7 +309,7 @@ The guard looks at the oddly-behaving orange-haired girl and hesitantly opens hi
 **Jessica:** Turns out "Sonetto" is a useful title in a place like this!
 
 **Jessica:** ♪～♪～
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -319,7 +317,7 @@ The guard looks at the oddly-behaving orange-haired girl and hesitantly opens hi
 <a id="episode-90000802"></a>
 ## 90000802 · Extra
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 ***
 
 **Extra I**
@@ -395,7 +393,7 @@ After a while in the classroom.
 ***
 
 After a while in the classroom.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -403,7 +401,7 @@ After a while in the classroom.
 <a id="episode-90000803"></a>
 ## 90000803 · Take Classes
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 ***
 
 **Take Classes I \[Permanent\]**
@@ -491,7 +489,7 @@ As she stands up, the narrow chair remains stuck to the deer's body.
 **Jessica:** Oh, looks like the chair wants to be my friend, too!
 
 Sitting or standing, she has spent some time in the classroom.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -499,7 +497,7 @@ Sitting or standing, she has spent some time in the classroom.
 <a id="episode-90000804"></a>
 ## 90000804 · Rest
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 ***
 
 **Rest I \[Permanent\]**
@@ -537,7 +535,7 @@ Sitting or standing, she has spent some time in the classroom.
 **Jessica:** !!!
 
 **Jessica:** Oh, it was just a dream.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -545,7 +543,7 @@ Sitting or standing, she has spent some time in the classroom.
 <a id="episode-90000805"></a>
 ## 90000805 · Invite - Vertin
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 ***
 
 **Look Around I**
@@ -693,7 +691,7 @@ Stand in front of that giant mirror in the library, gently lift up its thin hand
 **Jessica:** Yeah. There are so few pictures in it, so it didn't take long!
 
 **Librarian:** ... I had no idea this was an ... illustrated book.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -701,7 +699,7 @@ Stand in front of that giant mirror in the library, gently lift up its thin hand
 <a id="episode-90000806"></a>
 ## 90000806 · Exam
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 ***
 
 **Look Around I**
@@ -775,7 +773,7 @@ With a flick of her hand, her long hair becomes short, and her little hooves tur
 **Jessica:** It's ... a medal with a chef hat pattern? Wait, it can be a cloud, or an explosion?
 
 **Jessica:** Who will like this medal ...?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -783,7 +781,7 @@ With a flick of her hand, her long hair becomes short, and her little hooves tur
 <a id="episode-90000807"></a>
 ## 90000807 · Look Around - Toilet
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 ***
 
 **Look Around I**
@@ -873,7 +871,7 @@ The notes coming from the flute are rough and harsh, and it is difficult to make
 **Poltergeist:** Ahhh! Stay away! Don't come near me!
 
 **Poltergeist:** I've got to, I've got to protect myself! Yeah, protect myself!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -881,7 +879,7 @@ The notes coming from the flute are rough and harsh, and it is difficult to make
 <a id="episode-90000808"></a>
 ## 90000808 · Look Around - Guardhouse
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 ***
 
 **Look Around I**
@@ -1029,7 +1027,7 @@ The tiny Shamir worm called "Andy" is squashed flat and no longer moves.
 **Jessica:** The "Andys" are biting me. Ouch, another bite!
 
 **Jessica:** That hurts! Stop biting me! Ouch!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1037,7 +1035,7 @@ The tiny Shamir worm called "Andy" is squashed flat and no longer moves.
 <a id="episode-90000809"></a>
 ## 90000809 · Look Around - Classroom
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 ***
 
 **Look Around I**
@@ -1185,7 +1183,7 @@ The sound of footsteps echoes clearly in the empty classroom.
 **Jessica:** But why are they laid out like this?
 
 **Jessica:** They don't look good at all this way ... Alright! Let me stack them on top of each other ...
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1193,7 +1191,7 @@ The sound of footsteps echoes clearly in the empty classroom.
 <a id="episode-90000810"></a>
 ## 90000810 · Look Around - Canteen
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 ***
 
 **Look Around I**
@@ -1323,7 +1321,7 @@ The critter gives a spin, as if expecting something.
 **Jessica:** \*sniffs\* It smells good as usual today!
 
 **Jessica:** Let's see what food there is today ...
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1331,7 +1329,7 @@ The critter gives a spin, as if expecting something.
 <a id="episode-90000811"></a>
 ## 90000811 · Invite - Sonetto
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 ***
 
 **Invite I**
@@ -1607,7 +1605,7 @@ and I know how to throw a moon!
 **Sonetto:** No. I should have given you enough time to really absorb these new things... No, I must have done something wrong in the teaching... Or maybe I just haven't yet found the beauty of this work...
 
 **Sonetto:** Hopefully her final result will be ... satisfactory.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1615,7 +1613,7 @@ and I know how to throw a moon!
 <a id="episode-90000812"></a>
 ## 90000812 · Invite - Blonney
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 ***
 
 **Invite I**
@@ -1919,7 +1917,7 @@ Tapes, one after another, disappear in the TV and get spitted out again. Nothing
 **Blonney:** Good ... Everyone loves a cute, innocent girl ...
 
 **Blonney:** But it still feels like something is missing ...
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1927,7 +1925,7 @@ Tapes, one after another, disappear in the TV and get spitted out again. Nothing
 <a id="episode-90000813"></a>
 ## 90000813 · Invite - Tooth Fairy
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 ***
 
 **Invite I**
@@ -2153,7 +2151,7 @@ Tapes, one after another, disappear in the TV and get spitted out again. Nothing
 **Tooth Fairy - Letter:** Dear Ms. Jessica, Thank you for the lovely gift. Your teeth are almost the same as those of humans. I will add them to my collection. Please take good care of yourself.
 
 **Tooth Fairy - Letter:** Sincerely Yours Tooth Fairy
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -2161,7 +2159,7 @@ Tapes, one after another, disappear in the TV and get spitted out again. Nothing
 <a id="episode-90000814"></a>
 ## 90000814 · Invite - Matilda
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 ***
 
 **Invite I**
@@ -2483,7 +2481,7 @@ She complacently pats on the red ticks on the exam paper.
 **Matilda:** I think ...
 
 **Matilda:** I should probably change my lesson plan ...
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -2491,7 +2489,7 @@ She complacently pats on the red ticks on the exam paper.
 <a id="episode-90000815"></a>
 ## 90000815 · Invite - Horropedia
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 ***
 
 **Invite I**
@@ -2729,7 +2727,7 @@ The barely fixed speaker is still trying to fulfill its duty, making protesting 
 **Horropedia:** It's okay. Maybe you can pass the final exam.
 
 **Horropedia:** Cunning exam-oriented student, go take your way to Rome! I'll be waiting at Vertin's!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -2737,7 +2735,7 @@ The barely fixed speaker is still trying to fulfill its duty, making protesting 
 <a id="episode-90000816"></a>
 ## 90000816 · Invite - Vertin
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 ***
 
 **Invite I**
@@ -2863,7 +2861,7 @@ On the other side of the door, the girl sitting in the room is fiddling with a t
 **Jessica:** Help ... me?
 
 **Jessica:** Thank you. I don't know what that means, but chatting is great. I like to chat!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -2871,7 +2869,7 @@ On the other side of the door, the girl sitting in the room is fiddling with a t
 <a id="episode-90000817"></a>
 ## 90000817 · Exam
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 ***
 
 **Mid-term Exam**
@@ -2993,7 +2991,7 @@ On the other side of the door, the girl sitting in the room is fiddling with a t
 **Instructor:** Please take a serious attitude to the test, and provide answers to the questions I ask.
 
 **Instructor:** Now, close your eyes. You will see a sheet of white light. Place your finger on the designated spot.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -3001,7 +2999,7 @@ On the other side of the door, the girl sitting in the room is fiddling with a t
 <a id="episode-90000818"></a>
 ## 90000818 · Result
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 > **Choice 1：** Graduation
 
 **Instructor:** Congratulations, Ms. Jessica, your final exam marks have met the graduation criteria.
@@ -3073,7 +3071,7 @@ Don't worry, we will come back.
 **Jessica:** Well, it might be monotonous and boring, and the stories you tell are always the same, but I'll keep playing.
 
 **Instructor:** ... Looks like we still have a long way to go.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---

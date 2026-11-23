@@ -7,8 +7,6 @@
 - Story units：`8`
 - Trail：`0`
 
-[UTTU](https://uttu.merui.net/story/anecdote/centurion/en/?part=1)
-
 Inside the Penumbra Can,
 Covered in a layer of dust,
 Are stories buried in the depths of time.
@@ -29,7 +27,7 @@ Are stories buried in the depths of time.
 <a id="episode-90001501"></a>
 ## 90001501 · Get It Going, Jefe!
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 11:20Clear
 
 Dim Room
@@ -266,7 +264,7 @@ The realization hits her at the same time as she hits the water. Accompanied by 
 
 One of the most popular extreme reality shows of the century. Some would say THE most popular. Featuring the boldest and greediest contestants relying on skill or luck to finish challenges, all so the winners can take home a mouthwateringly juicy cash prize. And yeah, sometimes people die chasing after that grand prize. But isn't that what the audience is tuning in for?
 
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -274,7 +272,7 @@ One of the most popular extreme reality shows of the century. Some would say THE
 <a id="episode-90001502"></a>
 ## 90001502 · Drawing Dead?
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 12:00
 
 Underwater
@@ -417,7 +415,7 @@ Centurion examines the coin, then she looks out across the land. It is barren an
 
 Centurion has always believed that 19 is her lucky number. "The best way to get through life is living on the 19th floor, putting 19 layers of hot sauce on everything, and winning 19 jackpots in a row!" On her 19th birthday, an old man with milky eyes found her. In his hand was a green potion.
 
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -425,7 +423,7 @@ Centurion has always believed that 19 is her lucky number. "The best way to get 
 <a id="episode-90001503"></a>
 ## 90001503 · Beginner's Luck
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 15:00Clear
 
 Westside Alley
@@ -648,7 +646,7 @@ After a long pause, a drunken voice slurs out words from within the crowd. All e
 
 "Juan, Juan." "Do not worry whether the garment is torn. Once it cradles the roses, it will hold only their fragrance."
 
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -656,7 +654,7 @@ After a long pause, a drunken voice slurs out words from within the crowd. All e
 <a id="episode-90001504"></a>
 ## 90001504 · The Hidden Card
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 16:00Clear
 
 Westside Outskirts
@@ -845,7 +843,7 @@ Centurion smiles.
 
 Studio rules say every child must have an adult guardian to visit the Witch for a Day set.
 
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -853,7 +851,7 @@ Studio rules say every child must have an adult guardian to visit the Witch for 
 <a id="episode-90001505"></a>
 ## 90001505 · Gambler's Intuition
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 16:30Clear
 
 Mint Entrance
@@ -955,7 +953,7 @@ Centurion steps on one of the blanks in the noisy metal shower and nearly loses 
 **Centurion:** "That was too close. But there's no cheating in this game."
 
 When she looks up, the man is already out the door, sprinting toward the city.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -963,7 +961,7 @@ When she looks up, the man is already out the door, sprinting toward the city.
 <a id="episode-90001506"></a>
 ## 90001506 · Blind Bet
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 17:00
 
 Westside Outskirts
@@ -1146,7 +1144,7 @@ He pulls out his revolver and points it squarely at Centurion.
 
 Wave of Unemployment: After the Golden Age, the workers were pushed out, and the factories shut down. Life without work lost its color and warmth. Politicians say the country is about to face a new wave of unemployment. They call it part of an economic cycle. But economies are made up of real people. And real people cannot understand why big, empty, condescending words mean their children go hungry.
 
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1154,7 +1152,7 @@ Wave of Unemployment: After the Golden Age, the workers were pushed out, and the
 <a id="episode-90001507"></a>
 ## 90001507 · Hard 16
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 17:20
 
 Westside Alley
@@ -1290,7 +1288,7 @@ Primal instinct kicks in. Without even a fraction of a second to spare, Centurio
 The lead shot continues onward, striking obliquely against the wall of the alley before it ricochets beneath the hands of the saint herself.
 
 The first gasps of surprise have barely had time to register what happened before the bullet rips through the man's body.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1298,7 +1296,7 @@ The first gasps of surprise have barely had time to register what happened befor
 <a id="episode-90001508"></a>
 ## 90001508 · High Roller
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 9:00
 
 Interrogation Room, Police Station
@@ -1488,7 +1486,7 @@ Somehow, she knows that flip of the coin will always be on her side.
 What else do you need? She tosses the gold coin toward the sky.
 
 If you've got luck, you don't need a goddamn thing.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---

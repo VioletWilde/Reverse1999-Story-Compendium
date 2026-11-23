@@ -7,8 +7,6 @@
 - Story units：`10`
 - Trail：`0`
 
-[UTTU](https://uttu.merui.net/story/character/anjo_nala/en/?part=1)
-
 Lost, frightened, searching
 Trapped in a labyrinth of memories
 Will the nightmare ever cease?
@@ -31,7 +29,7 @@ Will the nightmare ever cease?
 <a id="episode-2290001"></a>
 ## 2290001 · Papaya and Predators
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Cemetery near Heartfelt Home
 
 The air is damp with rain, leaving a slick dew on the leaves of a papaya tree, which shades the unkempt cemetery.
@@ -367,7 +365,7 @@ The misfit band of the wounded and the elderly trudge toward the house in the di
 **Elder I:** Are you saying we did?
 
 They trudge forward up the muddy hill, stopping to complain now and then, their rasping voices covered by birdsong.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -375,7 +373,7 @@ They trudge forward up the muddy hill, stopping to complain now and then, their 
 <a id="episode-2290002"></a>
 ## 2290002 · Parrots and Swamps
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Nala's Bedroom
 
 By noon the next day, her nightmare has passed.
@@ -667,7 +665,7 @@ swatting flies with a fan made of parrot feathers.
 ...
 
 **Elder I:** Does anyone know what that bird's actually saying?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -675,7 +673,7 @@ swatting flies with a fan made of parrot feathers.
 <a id="episode-2290003"></a>
 ## 2290003 · An Evening to Remember
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 A bullet is loaded.
 
 "Bang—"
@@ -1057,7 +1055,7 @@ Her face is vacant for a moment, then she nods.
 She blinks.
 
 As she steps outside the chapel, she spies something on the ground—a long-extinguished Green Papayas cigarette.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1065,7 +1063,7 @@ As she steps outside the chapel, she spies something on the ground—a long-exti
 <a id="episode-2290004"></a>
 ## 2290004 · A Star Fallen
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Dear Mr. President,
 
 Please accept our deepest greetings and well-wishes.
@@ -1363,7 +1361,7 @@ The colonel's mustache twitches.
 **Colonel:** That's your decision to make, not mine.
 
 He struggles to squeeze out the words.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1371,7 +1369,7 @@ He struggles to squeeze out the words.
 <a id="episode-2290005"></a>
 ## 2290005 · Sleeptalking
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Church of the Dragon-Slayer
 
 It is midnight, and Captain Moacir is preparing to go out when he sees the colonel sitting in the chapel, cleaning his gun.
@@ -1569,7 +1567,7 @@ Bastos turns and steps into the silent darkness.
 First, he raises one hand and waves behind him.
 
 Then, he lifts both hands above his head.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1577,7 +1575,7 @@ Then, he lifts both hands above his head.
 <a id="episode-2290006"></a>
 ## 2290006 · Fall of the Fortress
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Town Street
 
 The first rays of dawn break through the clouds, signaling the day of the procession, and some hope, the end of the rainy season.
@@ -1893,7 +1891,7 @@ And an unexpected question.
 **Anjo Nala:** Sister?
 
 **Anjo Nala:** Why?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1901,7 +1899,7 @@ And an unexpected question.
 <a id="episode-2290007"></a>
 ## 2290007 · Blood-Soaked Earth
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 All smiles freeze.
 
 From that second on, the world begins to rewind, rewind infinitely, back to its very inception, its first breath.
@@ -2225,7 +2223,7 @@ The colonel lies in the mud, reading the letter, pain searing through his body i
 **Colonel:** Shorty has been dead and buried for a long time.
 
 **Colonel:** And I can't imagine he ever would have come around to that nickname.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -2233,7 +2231,7 @@ The colonel lies in the mud, reading the letter, pain searing through his body i
 <a id="episode-2290008"></a>
 ## 2290008 · O, Mother
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Ten years later
 
 Ten years later
@@ -2441,7 +2439,7 @@ The girl's eyes are fixed on Old Quitéria.
 After a long while, she sniffles.
 
 **Anjo Nala:** Will it be warmer inside?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -2449,13 +2447,13 @@ After a long while, she sniffles.
 <a id="episode-2290009"></a>
 ## 2290009 · Hunters and Prey
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 ***
 
 **GAMEPLAY ONLY**
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -2463,7 +2461,7 @@ After a long while, she sniffles.
 <a id="episode-2290010"></a>
 ## 2290010 · The Job
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 ***
 
 **GAMEPLAY**
@@ -2527,7 +2525,7 @@ Bang—!
 **Anjo Nala:** ...
 
 **Anjo Nala:** …!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---

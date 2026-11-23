@@ -7,8 +7,6 @@
 - Story units：`9`
 - Trail：`0`
 
-[UTTU](https://uttu.merui.net/story/character/cornerstone/en/?part=1)
-
 Build. Elevate. Deconstruct.
 The old dream of yesterday
 Is thus remembered.
@@ -32,7 +30,7 @@ Greeting tomorrow's prelude.
 <a id="episode-3882001"></a>
 ## 3882001 · A Hundred Thousand Billion Sketches
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The lecturer dumps a towering pile of manuscripts onto the lectern, making an exaggerated display of wiping the sweat from her brow.
 
 **Cornerstone:** First, let me say how delighted I am to see so many of you still eager and bright-eyed for your final class in Modern Urban Planning.
@@ -224,7 +222,7 @@ She picks up a discarded draft and places it atop the mountain of paper beside h
 The sheer height of the stack finally catches up to her.
 
 **Grundriss:** Did she even sleep?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -232,7 +230,7 @@ The sheer height of the stack finally catches up to her.
 <a id="episode-3882002"></a>
 ## 3882002 · Burning from Both Ends
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Distant, professional, meticulous.
 
 The Foundation staff member before Cornerstone matches her initial impression to perfection; even the creases in her shirt seem to be intentionally parallel.
@@ -450,7 +448,7 @@ This is a dream, and the dreamer has no obligation to answer the questions of a 
 **Duvalle:** They were lost as well.
 
 **Duvalle:** Like a twig burning from both ends.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -458,7 +456,7 @@ This is a dream, and the dreamer has no obligation to answer the questions of a 
 <a id="episode-3882003"></a>
 ## 3882003 · Fifth Encounter
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Rossella:** Very well.
 
 **Rossella:** Ms. Cornerstone and I have entered the main building of the Foundation branch office.
@@ -666,7 +664,7 @@ Left unspoken is another much more painful reality.
 **Rossella:** But I haven't given up hope on our project here.
 
 **Cornerstone:** I appreciate it.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -674,7 +672,7 @@ Left unspoken is another much more painful reality.
 <a id="episode-3882004"></a>
 ## 3882004 · An Architectural Paradise
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Cornerstone:** "What is architecture?"
 
 **Cornerstone:** I imagine about half the students would answer, "Drawing pretty houses." Unfortunately, I thought the same thing back then.
@@ -910,7 +908,7 @@ The statement exposes an unspoken friction in how the two see each other.
 **Cornerstone:** Don't worry. My hands-on skills were top of the class at university.
 
 **Cornerstone:** Are you ready? Shall we go and see the world outside?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -918,7 +916,7 @@ The statement exposes an unspoken friction in how the two see each other.
 <a id="episode-3882005"></a>
 ## 3882005 · Vkhutemas's Tears
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Cornerstone:** Once the Foundation confirmed the year we had arrived in, there were two places I knew I had to visit.
 
 **Cornerstone:** The first was Marseille, of course. Le Corbusier's apartment building there had been granted architectural heritage status in this era, and I couldn't miss a spectacle like that.
@@ -1100,7 +1098,7 @@ Cornerstone turns toward the microphone floating in midair.
 Cornerstone gazes into the distance at the building, and the Foundation staff gathered around it, finally breathing a sigh of relief.
 
 **Cornerstone:** Architecture is eternal.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1108,7 +1106,7 @@ Cornerstone gazes into the distance at the building, and the Foundation staff ga
 <a id="episode-3882006"></a>
 ## 3882006 · The Birth of Architecture
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Kenna:** Ever since that last horrific Temporal Anomaly, we've been working hard to push administrative reforms.
 
 **Kenna:** Of course, we decided to call it the "Storm" now.
@@ -1318,7 +1316,7 @@ When she walked away from the stuffy cave and was caught in heavy rain on the ro
 When she broke off branches, built a rain shelter, and gazed through tender leaves at the world beyond ...
 
 The concept of "architecture" was born in that moment.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1326,7 +1324,7 @@ The concept of "architecture" was born in that moment.
 <a id="episode-3882007"></a>
 ## 3882007 · Do Not Be Cruel to Me
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Guest Room, Foundation
 
 **Grundriss:** I have one piece of good news and three or more pieces of bad news.
@@ -1490,7 +1488,7 @@ The "student's" face gradually blurs. Before the dream washes over the sea with 
 **???:** Goodbye.
 
 As the echo fades, the classroom begins to recede into illusion, and those faces grow blurred once more in memory.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1498,7 +1496,7 @@ As the echo fades, the classroom begins to recede into illusion, and those faces
 <a id="episode-3882008"></a>
 ## 3882008 · Please Watch over Us
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Bkornblume:** I think this must have been a terrible blow to her.
 
 Bkornblume shakes her head, holding the drawings in her hands with deep sorrow.
@@ -1638,7 +1636,7 @@ The gaudy lettering is lit by sunlight spreading across the floor, like a true r
 **Cornerstone:** I hope that you'll watch over us like them from above.
 
 **Cornerstone:** All my friends and family.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1646,13 +1644,13 @@ The gaudy lettering is lit by sunlight spreading across the floor, like a true r
 <a id="episode-3882009"></a>
 ## 3882009 · Talent's Game
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 ***
 
 **GAMEPLAY ONLY**
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---

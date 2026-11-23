@@ -7,8 +7,6 @@
 - Story units：`7`
 - Trail：`0`
 
-[UTTU](https://uttu.merui.net/story/anecdote/bkornblume/en/?part=1)
-
 Inside the Penumbra Can,
 Covered in a layer of dust,
 Are stories buried in the depths of time.
@@ -28,7 +26,7 @@ Are stories buried in the depths of time.
 <a id="episode-90001601"></a>
 ## 90001601 · Easter (1991-3-31)
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 0:00Night
 
 Broadcast Studio, Abendmuse Radio Station (Night)
@@ -197,7 +195,7 @@ Abendmuse Radio's origins go back to 1964, legendary for supposedly broadcasting
 
 Topic: Best Friends Caller: Lea Age: 23 Occupation: University Student
 
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -205,7 +203,7 @@ Topic: Best Friends Caller: Lea Age: 23 Occupation: University Student
 <a id="episode-90001602"></a>
 ## 90001602 · Wandelmonat (1991-4-7)
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 0:00Cloudy
 
 MFC Kitchen (Evening)
@@ -363,7 +361,7 @@ The cornflowers by her window stand lush against the backdrop of a night still c
 while dreamlike whispers drift away ♪"**
 
 **Bkornblume:****"Grow well, little flowers."**
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -371,7 +369,7 @@ while dreamlike whispers drift away ♪"**
 <a id="episode-90001603"></a>
 ## 90001603 · Summer Solstice (1991-6-21)
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 0:00Night
 
 Broadcast Studio, Abendmuse Radio Station (Night)
@@ -486,7 +484,7 @@ She pauses beneath a streetlamp and takes out her diary and turns to tomorrow's 
 
 Topic: The Future You're Hoping For Caller: Klaus Age: 52 Occupation: Electrician
 
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -494,7 +492,7 @@ Topic: The Future You're Hoping For Caller: Klaus Age: 52 Occupation: Electricia
 <a id="episode-90001604"></a>
 ## 90001604 · Erntemonat (1991-8-28)
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 0:00Night
 
 Bkornblume's Home (Afternoon)
@@ -598,7 +596,7 @@ The remaining cornflowers continue to thrive under the moonlight.
 **Bkornblume:****"♪ And now I should go rest too.
 
 Good night to you all ♪"**
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -606,7 +604,7 @@ Good night to you all ♪"**
 <a id="episode-90001605"></a>
 ## 90001605 · Unity Day (1991-10-3)
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 0:00Cloudy
 
 Moabit Prison
@@ -738,7 +736,7 @@ Ms. Schmitz gestures to the guard again. He takes a sealed envelope from an inne
 **Ms. Schmitz:** "So, if a day comes when you wish to live off more than just odd jobs, take this recommendation letter to the Berlin office."
 
 **Ms. Schmitz:** "They will know what to do with you."
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -746,7 +744,7 @@ Ms. Schmitz gestures to the guard again. He takes a sealed envelope from an inne
 <a id="episode-90001606"></a>
 ## 90001606 · Nebelmonat (1991-11-10)
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 0:00Rainy
 
 Bkornblume's Home (Afternoon)
@@ -874,7 +872,7 @@ But starting tomorrow, the streets will once again fill with festivalgoers.
 Choice Completed: Tending a Small Patch of Earth
 
 Next year, she thinks, she'll sow new seeds.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -882,7 +880,7 @@ Next year, she thinks, she'll sow new seeds.
 <a id="episode-90001607"></a>
 ## 90001607 · After the Month of Janus (1992-2-9)
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 0:00Night
 
 Broadcast Studio, Abendmuse Radio Station (Night)
@@ -1081,7 +1079,7 @@ Bkornblume hangs her coat and bag on the hook behind the door, then takes out a 
 
 Topic: None Caller: Helena Age: 26 Occupation: Pianist
 
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---

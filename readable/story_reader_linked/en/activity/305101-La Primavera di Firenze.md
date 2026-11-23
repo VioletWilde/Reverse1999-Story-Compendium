@@ -7,8 +7,6 @@
 - Story units：`16`
 - Trail：`9`
 
-[UTTU](https://uttu.merui.net/story/event/S01_1/en/?part=1)
-
 "It is a good life we lead, brother."
 "The best. May it never change."
 "And may it never change us."
@@ -39,7 +37,7 @@
 
 > So let my dog explain it to you. After all, he isn't one to rely on intuition.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Laboratory environment initialized
 
 Interferometer activated
@@ -327,7 +325,7 @@ Sub cadente fulgore, cadentia sanctuaria coniunguntur.
 Under the waning glow, the waning sanctuaries unite.
 
 **Leonardo:**Under the waning glow, the waning sanctuaries unite.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · The Actors Are in Place
 
@@ -352,7 +350,7 @@ Chapter One: General Concept of Chaos Particles and the Chaos FieldChapter Two: 
 
 > Held in great esteem by the peoples of Troy, Fiesole, and Rome.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 It looks like an apple, shiny and red, a magical key to what's ahead! When the sun sets low, the truth will start to show!
 
 Street, Florence
@@ -648,7 +646,7 @@ And with the sunset, her shadow extends until it has covered nearly half the cit
 Ezio gazes out at the perfect arc of the dome.
 
 **Ezio:** Finding this secret chamber is what truly matters.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -985,7 +983,7 @@ Ezio, We are still looking for information about the "Golden Apple," as what we 
 
 > The poet said: Lift your head and gaze upon the eternal dome—
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **APPLe:** Oh, I nearly forgot to introduce myself. My name is APPLe. I owe you my thanks, sir ...
 
 **Ezio:** Ezio Auditore. But just Ezio is fine.
@@ -1195,7 +1193,7 @@ The voice hints at an unexpected reunion.
 **Ezio:** But maybe I can explain later. The curfew will begin soon, and I'd like to avoid any further complications with the guards.
 
 **Ezio:** My friend must be worried about us already.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · Off Stage
 
@@ -1240,7 +1238,7 @@ END OF DIALOGUE
 
 > A tree that bears sweet and sour pears can never produce sweet figs!
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Come forth, prayers of the night!
 
 Our blood reddens the offering; our tears blacken the Arno.
@@ -1472,7 +1470,7 @@ She takes a deep breath to enjoy the moment. Taking in the pleasant smells of th
 **Vertin:** ...
 
 **Vertin:** I'm so glad I've finally found you, Sotheby.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1482,7 +1480,7 @@ She takes a deep breath to enjoy the moment. Taking in the pleasant smells of th
 
 > Veiled in sunlight, standing on the moon, wearing a crown of twelve stars—her ascension approaches.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Sotheby:** I see. Each of us seems to have had our own adventures after we arrived. How interesting and, and ...
 
 **Sotheby:** Wonderfully fun!
@@ -1550,7 +1548,7 @@ Vertin relaxes her stance, satisfied with the hooded man's answers.
 **Leonardo:** Miss Sotheby only borrowed it for us. We'll have to return it soon, so our time is short.
 
 **Leonardo:** Let's get started and see what clues we can find!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1745,7 +1743,7 @@ Leonardo winks and smiles, which suggests a surprise.
 
 > Those hinges ... they're in need of some refinements!
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Afternoon of the Next Day
 
 Afternoon of the Next Day
@@ -2111,7 +2109,7 @@ When he opens his eyes again he sees several discolored frescoes.
 In the middle of these silent figures, flowers, and birds; a blank space.
 
 **APPLe:** So, this is ... the secret chamber?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -2121,7 +2119,7 @@ In the middle of these silent figures, flowers, and birds; a blank space.
 
 > A qualified model should be cold, slick, and unmoving, like a block of ice.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 They said, "Come, let us build ourselves a city, with a tower that reaches to the heavens."
 
 They said, "Come, let us build ourselves a city, with a tower that reaches to the heavens."
@@ -2195,7 +2193,7 @@ The painter's eyes light up with surprise and delight.
 **Vertin:** Perhaps, Mr. Leonardo you could tell us more about your use of linear perspective? My understanding of it might differ from yours.
 
 **Leonardo:** With pleasure!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -2356,7 +2354,7 @@ Their silence is a silent affirmation.
 
 > Birds never talk much. They only sing of spring, of tears about to fall, and of poetry.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Chamber Entrance, Cathedral Interior
 
 **APPLe:** \*snore\*
@@ -2648,7 +2646,7 @@ The Assassin takes a step forward, directing his gaze toward another wave of Tem
 Their armor glints coldly in the waning sunlight, forming a restless, silver sea on the rooftop.
 
 **Ezio:** I have other work to do.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · A Colorful Story
 
@@ -2673,7 +2671,7 @@ March ■■Good heavens! I never thought linear perspective would be so hard to
 
 > Sadly, this was never about freedom. It was about order.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **APPLe:** Phew, I'm so relieved to see you safe and sound, Vertin!
 
 **APPLe:** We heard the sounds of fighting from below, and Ezio decided to check if any of you were in trouble.
@@ -2817,7 +2815,7 @@ Alberto steps to the window, looking down at the red-tiled rooftops below.
 **Alberto:** You will find we're also quite experienced—in dealing with assassins.
 
 **Alberto:** He will find his eternal rest here in Firenze this day.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -2827,7 +2825,7 @@ Alberto steps to the window, looking down at the red-tiled rooftops below.
 
 > Stay your blade from the flesh of an innocent. Hide in plain sight, be one with the crowd.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Blood.
 
 Blood.
@@ -3035,7 +3033,7 @@ An assassin does not fear the darkness any more than an eagle would fear the sky
 He closes the fallen priest's eyes with undue reverence.
 
 **Ezio:** Rest in peace.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · Beneath the Cathedral
 
@@ -3074,7 +3072,7 @@ END OF DIALOGUE
 
 > The brilliance and hope of the renaissance.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **APPLe:** Oh, thank heavens. No more befuddling riddles and clouds of sleeping gas. I've never loved this world as much as I do now!
 
 **APPLe:** You were quite clever to cooperate with Alberto to stall for time. But how did you know that Ezio was coming to save us?
@@ -3188,7 +3186,7 @@ Now is that moment.
 **Ezio:** Their story has come to a pause here. Now, let's finish it ...
 
 He lifts APPLe gently into the light, it reflects off his golden radiance as the Assassin walks toward the unfinished fresco.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -3381,7 +3379,7 @@ Dear Uccello, It's been too long since we parted. I heard you went back to Prato
 
 > I could never think of leaving. Let that song drift away to Tuscany!
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 What happened after that?
 
 Street, Florence
@@ -3705,7 +3703,7 @@ The gentle and warm memory scatters with the wind, eventually melting in the aft
 The young Auditore still remembers how they used to laugh and cry like innocent children; the entire world was waiting for them to explore.
 
 A Moment of Peace for the Auditore.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · Picnic Blanket
 
@@ -3730,13 +3728,13 @@ Observation Experiment Record
 
 > Bonus Stage: The war goes on and on, and you're not allowed to turn back.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 ***
 
 COMBAT:
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -3746,13 +3744,13 @@ COMBAT:
 
 > Bonus Stage: Arrows are always greedy—they are made to pierce through flesh and blood.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 ***
 
 COMBAT:
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -3762,13 +3760,13 @@ COMBAT:
 
 > Bonus Stage: They chase and bite as ordered, disregarding the wounds on their bodies.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 ***
 
 COMBAT:
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -3778,13 +3776,13 @@ COMBAT:
 
 > Bonus Stage: He grants the shining grace to whoever He wants.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 ***
 
 COMBAT:
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---

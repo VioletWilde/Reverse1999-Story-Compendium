@@ -7,8 +7,6 @@
 - Story units：`6`
 - Trail：`0`
 
-[UTTU](https://uttu.merui.net/story/anecdote/semmelweis/en/?part=1)
-
 Inside the Penumbra Can,
 Covered in a layer of dust,
 Are stories buried in the depths of time.
@@ -29,7 +27,7 @@ Are stories buried in the depths of time.
 
 > What she will be the day after tomorrow, even she doesn't know.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The choice for Semmelweis each morning is, in itself, rather simple: to awaken or not.
 
 And if she does choose to get up, the first thought in her mind would prescribe just what kind of "awakening" today will bring.
@@ -217,7 +215,7 @@ She folds the health report into her pocket, where her communicator has begun to
 **Semmelweis:** Correct. May I ask when will I be able to officially begin my work?
 
 **Female Foundation Staff:** Actually, that's why I'm calling. Before we get into details, I need to confirm with you about your rest days.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -430,7 +428,7 @@ She folds the health report into her pocket, where her communicator has begun to
 
 > A passerby lacking poetry, alone with her sunglasses, caught in the noonday sun.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Ring Road
 
 The sun has quickly followed the rain, causing humid vapor to rise up over the puddles on the road.
@@ -816,7 +814,7 @@ The rhythm of the shadow's movement changes in an instant, then silence.
 Suddenly the silence is broken in a burst of sound, as her eardrums register the shockwave of a shot, and a nickel-iron bullet comes flying straight towards her.
 
 **Semmelweis:** ...?!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1225,7 +1223,7 @@ Suddenly the silence is broken in a burst of sound, as her eardrums register the
 
 > This program has no need for boring themes—hand the camera to the fangs and flying bullets!
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Woods Near the Studio
 
 **Semmelweis:** ...?!
@@ -1477,7 +1475,7 @@ Pavia gestures.
 **Semmelweis:** Then for tonight, we lie low. I can't have our actions at this pivotal time be excessively scrutinized.
 
 **Semmelweis:** Goodbye.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1752,7 +1750,7 @@ Pavia gestures.
 
 > A blank mind is the best state for searching. That way, you won't miss any hidden clues.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Ring Road
 
 The crowds fill the streets in festive wear, the city buzzing with excitement.
@@ -2016,7 +2014,7 @@ The crowd cheers, the kid runs forward, disappearing from her scope's view, the 
 At that moment, she forgets her premonition, replacing it with another feeling—a sense of certainty.
 
 **Semmelweis:** Found you.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -2303,7 +2301,7 @@ At that moment, she forgets her premonition, replacing it with another feeling�
 
 > The sun is her treasured jewel, the night her woven skirt, adorning her only love, held ever tighter.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Outside Vienna
 
 Today has been a long and unlucky day for Nora Ostern.
@@ -2523,7 +2521,7 @@ Maybe when she wakes tomorrow, she will leave her house and walk into the mornin
 They would say "good morning" and mean it, and not see the scars, only her smile reflecting back to them.
 
 But tomorrow has yet to come. For now, she needs to leave, step outside, and welcome the sun's burning embrace.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -2766,7 +2764,7 @@ But tomorrow has yet to come. For now, she needs to leave, step outside, and wel
 
 > "One need not turn from darkness to light to uphold one's beliefs."
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Ring Road
 
 The serenity of dusk settles over the entire city, turning the voices from the communicator into distant whispers of fireworks.
@@ -2892,7 +2890,7 @@ The chocolate sways and melts on her tongue, causing a strange yet delightful ti
 **Semmelweis:** Is it? Well then, I'll try a different approach this time.
 
 **Emil:** Ha, looks like you are wide awake now. Well then, Captain, "Happy Hunting."
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>

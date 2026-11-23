@@ -7,8 +7,6 @@
 - Story units：`21`
 - Trail：`15`
 
-[UTTU](https://uttu.merui.net/story/event/3_1/en/?part=1)
-
 Secrets, the scent of blood, and shadows that "don't exist."
 The living disguised as the dead, the dead disguised as the living,
 They voyage beyond the other side, past "eternity," toward the light of dawn.
@@ -44,7 +42,7 @@ They voyage beyond the other side, past "eternity," toward the light of dawn.
 
 > The train will leave as scheduled, weather permitting. Please have your ticket ready for boarding.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 This is no ordinary train.From Istanbul to Vienna, each land it passes through still carries the echoes of gunshots and explosions.Before the war, it was a symbol of luxury. Now it is an ark, a way to outrun death, and everyone is scrambling for a ticket.They have no idea that when night falls and the train stops, death comes aboard too.On one such night, a group of passengers awoke to the sound of crying. They followed it. Then the crying turned to bawling, and the bawling to wailing, until they reached it—A door that wasn't there before. And there, in a carriage that never was, in that place that shouldn't even have existed, blood-red eyes blinked in the darkness.Before they could utter a scream, they were pulled into the darkness, doomed to join the wailing of the dead and dying in their accursed chorus.As the night fell and the last slivers of light gave in to the darkness, their cries faded ...And the blood of those sorry passengers trickled, sweet and warm, into the throats of the red-eyed monsters.Only when that last drop had been swallowed up did the conductress appear. Walking amidst the shredded flesh, counting off each passenger the way a butler might inspect a mess left behind from his master's feast."... 231, 232. The ceremony is complete, and this journey has come to an end.""We hope you had a pleasant trip, and we look forward to seeing you again aboard ...""The 'Danube Dawn'!"
 
 This is no ordinary train.
@@ -460,7 +458,7 @@ The investigator steps forward to grab her sole piece of evidence—a hat, plain
 **Semmelweis:** A vampire disguised as a normal person. Though far from perfectly. They could add her picture to the Big Book of Vampire Faces back at headquarters.
 
 If nothing else, it tells her the girl values a clean getaway over her disguise.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -886,7 +884,7 @@ Mission Number: XXX-1912-XX-13 Location: The "Danube Dawn" Security Level: Top S
 
 > She stumbled—but on what? The thread of fate?
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The full weight of the earlier travesty finally hits the crowd, as shrieks and shouts of horror divert the attention of even the most desperate.
 
 With one exception—a small and slight figure that darts between the gawking crowd.
@@ -1192,7 +1190,7 @@ She leans closer and lowers her voice with intent.
 Around them, the rich, the powerful, officers, and writers each settle into their seats, lively chatter filling the carriage with anticipation.
 
 **Semmelweis:** I don't think this train is anywhere near as safe as it first appears.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · Legend's Tale
 
@@ -1217,7 +1215,7 @@ The "Danube Dawn" was once the Versailles Palace on rails, gliding along the ban
 
 > You must have patience, madam.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Dinner arrives, and the tension eases. They hunch over their trays to eat, drink, and chatter, laughter rising and falling.
 
 Of course, there are a few "incidents."
@@ -1523,7 +1521,7 @@ She leans back, watching as the conductress and stewardess disappear from view.
 On the steps of the train, the conductress halts and waves her hand briskly.
 
 **Corvus:** Alert the station to begin sanding the tracks. We're departing soon.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1863,7 +1861,7 @@ File No.: XXX-1912-B (The Beyond - Vampire) Clearance Level: Top Secret The vamp
 
 > Wooo-wooo! Join us in our waltz along the banks of the Danube!
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 With a sharp whistle, the train surges forward, chugging with growing speed into the black expanse.
 
 With a sharp whistle, the train surges forward, chugging with growing speed into the black expanse.
@@ -2133,7 +2131,7 @@ Before leaving, the stewardess casts a final worried look at the mischievous pas
 And those impossibly brilliant crimson eyes.
 
 **Aima:** Rubuska ...
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · Innocence Sealed Away
 
@@ -2158,7 +2156,7 @@ Outside, it's as dark as if someone had spilled a whole bottle of ink. The glass
 
 > Ladies and gentlemen, kindly take your seats. The shadow play is about to begin!
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The train rocks as it plows through the winter storm.
 
 The investigator lets her vision glaze over the scene beyond the window, still pondering the meaning of the conductress's badge.
@@ -2404,7 +2402,7 @@ Her hand rests once more on Rubuska's shoulder, firm yet proper.
 **Corvus:** You're going to have to come with us.
 
 **Corvus:** I'm afraid that "Danube Dawn" security protocol dictates an immediate closed interrogation.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -2414,7 +2412,7 @@ Her hand rests once more on Rubuska's shoulder, firm yet proper.
 
 > "Danube Dawn" passenger, Thermanikian, arcanist, vampire.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Rubuska:** ...
 
 Who are you?
@@ -2594,7 +2592,7 @@ One dangles by her collar, the other nearly scraping the roof. Together, an inse
 **Rubuska:** I'll bite you! All of you! I swear ...
 
 If you ignore the faintest bit of noise, that is.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -2604,7 +2602,7 @@ If you ignore the faintest bit of noise, that is.
 
 > Operations Manual 101: The "Danube Dawn" is designed to serve all members of the public in the Danube basin.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Stewardess's Cabin
 
 **Rubuska:** This is illegal, you know? Criminal! Let me out.
@@ -2942,7 +2940,7 @@ She nods.
 Together, they rise and step out.
 
 A blizzard rages outside, buffeting the train as it speeds into the night.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · News or Rumor?
 
@@ -2967,7 +2965,7 @@ Vienna-Pannonian Railways announced yesterday that after a full year of maintena
 
 > Vampire where's the vampire has he gone to stoke the fire? We must find him or the train can't start.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Seating Carriage
 
 The hour is late and the lamps dim. Passengers return to their compartments one by one, the soft sway of the train soothing them to sleep like a lullaby.
@@ -3129,7 +3127,7 @@ The two move toward the rear of the train, vanishing into the heavy snow.
 Snow prints follow, another figure trailing them.
 
 **Semmelweis:** Just as I thought.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · Measured Words
 
@@ -3154,7 +3152,7 @@ Passenger Information Log
 
 > The woods have eyes, and they see everything.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Nearby Forest, Temporary Stop
 
 **Corvus:** Apologies for the wait.
@@ -3364,7 +3362,7 @@ When the steward leaves, his eyes roll, lips twitching with a guttural rasp.
 Low rumbles drown voices, shouts, any stray sound in the train.
 
 The "Danube Dawn" rolls on into the storm, laden with passengers.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -3374,7 +3372,7 @@ The "Danube Dawn" rolls on into the storm, laden with passengers.
 
 > O child of shadow, within your mysterious tomb I bid you to sleep in peace.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 I always have the same dream, a dream where time stands still. People never grow old, and the sunshine never fades.
 
 Because there, I can hear Mама's voice again.
@@ -3642,7 +3640,7 @@ Eyes flicker in the dark, like ghostly flames gathering in the night.
 **Rubuska:** Ugh, ahh! Mmff.
 
 Before she can scream, a hand clamps her mouth, dragging her into the eclipsing shadows.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -3943,7 +3941,7 @@ Listen, the wind is wailing in the distance. Look, the crimson moon is rising in
 
 > One carriage, two carriages ... Don't look too closely at the thirteenth.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Rubuska:** \*muffled\* Mmff. Get off me!
 
 **Deep Voice:** Alright, she's down! Bring the garlic, stake, and salt!
@@ -4203,7 +4201,7 @@ Yakov presses close to the door, peeking through the crack. His eyes suddenly br
 **Yakov:** You're right. It's the border checkpoint!
 
 **Yakov:** Good news, folks—by tomorrow, we'll be out of the country!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -4213,7 +4211,7 @@ Yakov presses close to the door, peeking through the crack. His eyes suddenly br
 
 > Three sips and the way home will be clear.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The train glides into a soft brake at the checkpoint.
 
 The steel beast breathes out a final belch of dark smoke before it stops.
@@ -4411,7 +4409,7 @@ He mutters complaints, then bends low, voice dropping.
 **Pyrrhos:** Shhh, this one's a secret. You'll see soon enough.
 
 With a wink and a lazy stretch, he trails after the conductress, out of sight.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · Echoes of the Past
 
@@ -4464,7 +4462,7 @@ END OF DIALOGUE
 
 > The darkness cuts their shadows from their heels. And at that empty door, their families mourn the whole night long.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Outside the carriage come heavy footsteps, followed by a wave of restless complaints.
 
 The Extra Carriage
@@ -4716,7 +4714,7 @@ Sorry, Mама ... But I'm not running again!
 Something's seriously wrong with her ...
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · Before the End
 
@@ -4775,7 +4773,7 @@ END OF DIALOGUE
 
 > She blew out the candle. Then darkness abounded.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 But see, amid the mimic rout,
 
 A crawling shape intrude!
@@ -4989,7 +4987,7 @@ She opens her palm, staring at the dull badge etched with the mark of Manus Vind
 **Semmelweis:** But he also made a fair point. With all these civilians in a confined space, if another Infected shows up, it'll be a massacre.
 
 **Semmelweis:** Is this what you wanted, Manus Vindictae?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -4999,7 +4997,7 @@ She opens her palm, staring at the dull badge etched with the mark of Manus Vind
 
 > Light as the wind, soft as a dream.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Maggots—so many of them—wriggling, squirming, biting.
 
 I know they've rotted away, that their bodies have melted into the mud. I know that.
@@ -5291,7 +5289,7 @@ His blood-red eyes gleam with unfathomable danger.
 **Pyrrhos:** You heard me. I can help you ...
 
 **Pyrrhos:** Become a real vampire.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · Meaningless Questions
 
@@ -5348,7 +5346,7 @@ END OF DIALOGUE
 
 > Put it out—put out the lights!
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Conductress's Cabin
 
 **Little William:** No. I'm not going with you! NEVER!
@@ -5726,7 +5724,7 @@ She takes a pistol down and tosses it to Semmelweis.
 **Corvus:** Silver bullets are more effective than arcane skill when dealing with vampires and their Infected.
 
 **Corvus:** Anyone old enough to handle a weapon, arm yourselves. We have a fierce battle ahead.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -5736,7 +5734,7 @@ She takes a pistol down and tosses it to Semmelweis.
 
 > Welcome aboard.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Damaged Carriage
 
 Gunfire erupts. In less than half an hour, the train turns into a battlefield.
@@ -6024,7 +6022,7 @@ The gentleman lunges into the pile with boyish glee.
 The old woman sighs, then hardens. Her gaze turns ice-cold.
 
 **Sonya:** Alright, just pick one for me. Something with some punch!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -6034,7 +6032,7 @@ The old woman sighs, then hardens. Her gaze turns ice-cold.
 
 > Light may fade at dusk, but promises never will.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Against the rattle of gunfire outside, the warehouse seems unnervingly quiet.
 
 Warehouse, Nika Checkpoint
@@ -6338,7 +6336,7 @@ Air floods back into her lungs. A familiar tall figure comes into focus.
 She crouches to reach the girl; glimpses of relief and concern pass over her patchwork face.
 
 **Corvus:** Finally. We've found you.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -6348,7 +6346,7 @@ She crouches to reach the girl; glimpses of relief and concern pass over her pat
 
 > Fight on, Iglika. Fight for our home.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 À travers la cité, comme dans un champ clos,
 
 Il s'en va, transformant les pavés en îlots,
@@ -6726,7 +6724,7 @@ When that day comes, the Danube will flow in peace once more, and lilacs will bl
 She lowers her weapon, turns on her heel, and walks away.
 
 **Corvus:** Farewell, Pyrrhos.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · No More Talks of "Humanitarianism"
 
@@ -6766,7 +6764,7 @@ Mission Number: 0073-MV Date: ████.██.██ Got the file on the new
 
 > Get up. The bloody night is over.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Aima:** Uncle Pyrrhos, how much farther do we need to go? I'm feeling a little dizzy.
 
 **Pyrrhos:** Not long now. The border's just on the other side of the mountain. We'll be there soon.
@@ -7072,7 +7070,7 @@ The two stand together speechless for a time, until the first light of dawn spil
 She turns toward the train, still halted, waiting like a slumbering iron giant.
 
 **Corvus:** The "Danube Dawn" is ready to set off once again.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · Third-Rate Novel
 
@@ -7097,7 +7095,7 @@ Today's tale doesn't start with "once upon a time." It begins in "a quiet, ordin
 
 > Thank you for traveling with us, and we wish you a safe journey ahead.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The bloody night is over.
 
 The train pushes west, weaving across snowy fields as it follows the path of the Danube.
@@ -7307,7 +7305,7 @@ Then her eyes fall on the illustrious, overlong, and entirely playful signature.
 "The youngest descendant of Arnold V, Voivode of Wallachia; true heir of Savonovic, first Duke of Arges; rightful lady of Castle Arges, daughter of Arnold VI ..."
 
 "... and the bravest vampire of the century, Rubuska, sends her regards!"
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · Echoes of the "Wind"
 

@@ -7,8 +7,6 @@
 - Story units：`8`
 - Trail：`0`
 
-[UTTU](https://uttu.merui.net/story/anecdote/eternity/en/?part=1)
-
 Inside the Penumbra Can,
 Covered in a layer of dust,
 Are stories buried in the depths of time.
@@ -31,7 +29,7 @@ Are stories buried in the depths of time.
 
 > I often think of that place, with the lake water seeping through the cabin and the desk lamp calmly strolling amid cobwebs and beams.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 My name is Brian Finn.
 
 A ... less than accomplished film director.
@@ -239,7 +237,7 @@ He gives in, sinking into slumber and returning to tranquility.
 **Brian:** After that, I fantasized countless times about meeting her again.
 
 **Brian:** Until ...
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -476,7 +474,7 @@ He gives in, sinking into slumber and returning to tranquility.
 
 > She saved a potential embarrassment and salvaged a heart that couldn't let go.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Brian:** The war came, forcing all of us to put aside childish things and grow up—myself included.
 
 **Brian:** It was a cruel and solemn mass farewell.
@@ -698,7 +696,7 @@ He places the business card into his breast pocket, carefully smoothing out the 
 **Brian:** But ...
 
 **Brian:** Did I really remember it all wrong?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -945,7 +943,7 @@ He places the business card into his breast pocket, carefully smoothing out the 
 
 > We experience movies, dreams, and the constant movement of time.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Brian:** Everything that happened that night vanished almost as abruptly as it appeared.
 
 **Brian:** Except for the card that remained pressed against my chest.
@@ -1109,7 +1107,7 @@ She earnestly haggles to herself.
 A heady silence fills the air.
 
 **Winnifred:** I'm truly sorry. As you can see, I've tried my best to recall.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1302,7 +1300,7 @@ A heady silence fills the air.
 
 > The popcorn is already crunchy and delicious, so there's no need to waste time finding a good movie to watch.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Brian returns the business card to its owner's hands.
 
 The card is severely worn. The bullet hole and scratches almost entirely obscure its original appearance.
@@ -1498,7 +1496,7 @@ Upon the exit of this guest, the day's filming ends as scheduled.
 **Brian:** But even then, I clung to my belief, hoping in vain to find what I so desperately wanted to be true.
 
 **Brian:** I continued to pour my heart into the documentary, the vessel of my vampiric passion.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1721,7 +1719,7 @@ Upon the exit of this guest, the day's filming ends as scheduled.
 
 > We have taken in many patients who, after giving up their dreams, are now living quite well.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The finished reels are piled up like a mountain.
 
 They reflect Brian's furrowed brow on their surfaces—his struggle and embarrassment laid bare on the mountainside.
@@ -1873,7 +1871,7 @@ Brian bows in her direction and departs without looking back.
 **Brian:** ...
 
 **Brian:** I couldn't really say whether I succeeded in my ideals or in my career.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -2048,7 +2046,7 @@ Brian bows in her direction and departs without looking back.
 
 > The work belongs to the production company, to the investors, and to the business plan, but not the author.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Newsboy:** Extra, extra!
 
 **Newsboy:** The highly anticipated movie New England Dream is about to hit the silver screen! Another masterpiece following in the grisly tradition of Nosferatu, Dracula, and The Curse of Frankenstein!
@@ -2210,7 +2208,7 @@ She runs her fingers along the aged Persian sofa, feeling the subtle textures un
 **Winnifred:** ...
 
 **Winnifred:** I need to step out for a moment.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -2403,7 +2401,7 @@ She runs her fingers along the aged Persian sofa, feeling the subtle textures un
 
 > One roll of film, 23.7 kilograms, more than 70 years of struggle.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Robin:** Dad's condition seems to be getting worse. I'm really worried he might—
 
 His sister shushes him.
@@ -2567,7 +2565,7 @@ A gentle sea breeze whispers by.
 **Brian:** ...?
 
 The breeze gently caresses Brian's stiff limbs.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -2754,7 +2752,7 @@ The breeze gently caresses Brian's stiff limbs.
 
 > A memorial page that is far from being a proper memorial.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 When does aging catch up with us?
 
 Is it when we can no longer leap two steps at a time up the stairs? Or when the past is quietly forgotten and the number of white bottles in the cabinet keeps growing?
@@ -2894,7 +2892,7 @@ A new page is presented. One bearing elegant handwriting in still-wet ink.
 "In memory of a brave old friend who steadfastly held to himself amid the raging rapids of time."
 
 **Winnifred:** "In memory of a brave old friend who steadfastly held to himself amid the raging rapids of time."
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>

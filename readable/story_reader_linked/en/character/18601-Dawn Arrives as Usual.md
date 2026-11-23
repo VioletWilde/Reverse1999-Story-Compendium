@@ -7,8 +7,6 @@
 - Story units：`9`
 - Trail：`0`
 
-[UTTU](https://uttu.merui.net/story/character/vila/en/?part=1)
-
 The paper birds and eternal souls
 The greetings that transcend
 the curtain of rain and gloom
@@ -31,7 +29,7 @@ And the sun that endures in defiance of it all
 <a id="episode-1860100"></a>
 ## 1860100 · At Dusk
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Radio Broadcaster I:** The Kaslinska University Hospital received a rare case today.
 
 **Radio Broadcaster I:** The patient's veins irreversibly transformed into electric wires. As of 18:00, all arterial, venous, and capillary tissues throughout the patient's body have undergone necrosis.
@@ -125,7 +123,7 @@ At this moment, she hears hurried footsteps coming from the corridor, followed b
 **Name Day:** And Avgust has gone missing ...
 
 **Vila:** !?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -133,7 +131,7 @@ At this moment, she hears hurried footsteps coming from the corridor, followed b
 <a id="episode-1860101"></a>
 ## 1860101 · Crushed Butterflies
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **???:** You shouldn't be here.
 
 **???:** The humans are near. You won't be able to face them all.
@@ -341,7 +339,7 @@ Vila holds her hand out to him. Not long after, the little boy reaches for it as
 **Vila:** Now, a mission for you, Comrade Avgust—tell me, where is Mr. Name Day?
 
 **Avgust:** He is with the others; they're going to see Comrade Blini! We will need to climb the stone stairs first.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -349,7 +347,7 @@ Vila holds her hand out to him. Not long after, the little boy reaches for it as
 <a id="episode-1860102"></a>
 ## 1860102 · On the Shore
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Canteen, Rayashki
 
 With little food to spare, few visit the canteen outside of mealtime. Yet, someone still must set the chairs and tablecloths.
@@ -555,7 +553,7 @@ His voice lingers in the falling of the waves.
 The two of them walk side-by-side to the town square,
 
 leaving the tides to wash over the shore.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -778,7 +776,7 @@ leaving the tides to wash over the shore.
 <a id="episode-1860103"></a>
 ## 1860103 · Kitchen Conversations
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Name Day:** Let me go over your requests.
 
 **Name Day:** You need a space for your most energetic kids to play.
@@ -950,7 +948,7 @@ Name Day breathes out, relaxing from his bracing stance.
 **Vila:** And the most important of which ...
 
 **Vila:** When will we be able to go home?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -958,7 +956,7 @@ Name Day breathes out, relaxing from his bracing stance.
 <a id="episode-1860104"></a>
 ## 1860104 · Letters Unsent
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Name Day:** ...
 
 **Vila:** Hmm?
@@ -1138,7 +1136,7 @@ Finally, he takes the letter from the top of the mountain and leaves with a tend
 A letter to an old friend.
 
 "To: Windsong"
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1333,7 +1331,7 @@ A letter to an old friend.
 <a id="episode-1860105"></a>
 ## 1860105 · As She Ponders
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 This sunny corridor, tucked away from the bustle of the office, now serves as a classroom where Vila holds classes for the children.
 
 Art, physical education, and the Foundation's general education courses.
@@ -1523,7 +1521,7 @@ He silently screams, realizing it's too late to hide either the letter or the te
 "The 'Storm' has changed everything."
 
 **Vila:** Go back to Rayashki?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1531,7 +1529,7 @@ He silently screams, realizing it's too late to hide either the letter or the te
 <a id="episode-1860106"></a>
 ## 1860106 · Reality
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Nothing can be hidden forever. A hard lesson for the struggling Name Day to accept as he scrambles across his desk.
 
 The typewriter is still working, and Vila is one step away.
@@ -1715,7 +1713,7 @@ Avgust doesn't know what he has found. To him, it's only a trophy, a means to an
 **Vila:** \*breathes out\*
 
 **Vila:** I suppose we're lucky you didn't send them. Now the children have some more paper.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1723,7 +1721,7 @@ Avgust doesn't know what he has found. To him, it's only a trophy, a means to an
 <a id="episode-1860107"></a>
 ## 1860107 · Under the Warm Sun
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Time seems to be frozen in the utility room.
 
 The sound of breathing is the only sign of its passage.
@@ -1895,7 +1893,7 @@ A moment later, she turns around.
 **Vila:** Thank you. That's thoughtful of you.
 
 **Vila:** But it won't be necessary.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1903,7 +1901,7 @@ A moment later, she turns around.
 <a id="episode-1860108"></a>
 ## 1860108 · A Song for the Teacher
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Avgust:** Look! A sea swallow!
 
 Avgust holds a half-crumpled paper plane over his head, imitating a bird in flight.
@@ -2095,7 +2093,7 @@ Then at the edge of her shadow, a familiar face.
 **Vila:** Now, let's go join the children.
 
 **Vila:** Like we used to do.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---

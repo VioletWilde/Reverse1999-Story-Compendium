@@ -7,8 +7,6 @@
 - Story units：`8`
 - Trail：`0`
 
-[UTTU](https://uttu.merui.net/story/anecdote/lilya/en/?part=1)
-
 Inside the Penumbra Can,
 Covered in a layer of dust,
 Are stories buried in the depths of time.
@@ -31,7 +29,7 @@ Are stories buried in the depths of time.
 
 > A bullet, the smell of gunpowder, and a dreadful journey.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Heavy footsteps echo down the hall.
 
 A shackled man is escorted into a room, where he sits onto the stool behind him.
@@ -199,7 +197,7 @@ Good. She's not a little "miss" anymore.
 **Interrogator II:** Tell us everything you know, starting from the moment you landed in Juhalerat.
 
 **Interrogator II:** We need the whole truth, every detail of what you saw and heard. Please, comrade.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -392,7 +390,7 @@ Good. She's not a little "miss" anymore.
 
 > The earth mocks the masses, bestowing dust and death as presents.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Lilya:** They wanted to send rookies into the war zone to get some hands-on experience. I signed up and proved myself better than most, so they let me go.
 
 **Lilya:** I was part of the third group.
@@ -682,7 +680,7 @@ The interrogator nods and turns to signal the clerk.
 **Lilya:** Anyway, that's what Bertolt told to me after; they were his real objective.
 
 **Lilya:** And those unlucky comrades were just regrettable, necessary losses.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -995,7 +993,7 @@ The interrogator nods and turns to signal the clerk.
 
 > In this place, the mountains have a voice that is beyond the power of words.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Lilya:** To save our comrades stranded in the mountains, we left the city by truck.
 
 **Lilya:** A road was built outside the city, with our outposts and supply stations scattered along its route.
@@ -1349,7 +1347,7 @@ Hassan sighs and slings his rifle back over his shoulder.
 **Lilya:** Our Aleksei is a good man, maybe even better than some of the other good men I know.
 
 **Lilya:** Hassan, on the other hand, was reliable and experienced. I couldn't help but wonder what he had been through.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1726,7 +1724,7 @@ Hassan sighs and slings his rifle back over his shoulder.
 
 > His distrust of everything is precisely what makes him trustworthy.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Interrogator III:** Bertolt, age ...
 
 **Bertolt:** Shall we skip the formalities and get started, comrade? Let's not waste each other's time.
@@ -2108,7 +2106,7 @@ The officer is troubled, wrestling with the dilemma at hand.
 **Bertolt:** Aleksei will stay here to tend to the wounded. Hassan will take a few who can still move to guard the watchtower.
 
 **Bertolt:** And come, Lilya. Let's talk, just the two of us.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -2477,7 +2475,7 @@ The officer is troubled, wrestling with the dilemma at hand.
 
 > Your mistakes will be your demise, my friend.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Bertolt:** We were forced to retreat to the village. The brave soldiers who bought us precious time ... we must not forget their names.
 
 **Interrogator III:** Understood, Lieutenant, submit a report later listing the fallen soldiers for Zeno to review.
@@ -2723,7 +2721,7 @@ The officer hesitates.
 He calmly lowers his head and pauses for a moment.
 
 **Bertolt:** Before long, I went looking for them. As soon as I heard gunshots on the road, I followed the sound with our men, but it was too late.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -2992,7 +2990,7 @@ He calmly lowers his head and pauses for a moment.
 
 > And yet, trust was never given to us—not once.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Interrogator II:** So, Lieutenant Bertolt briefed you on the real objective, and then you, Aleksei, and Hassan teamed up to carry out an independent operation. Is that correct?
 
 **Lilya:** Yes.
@@ -3326,7 +3324,7 @@ They find corpses with pus-filled wounds, flies feeding on the sickly yellow dis
 **Lilya:** Hassan closed the eyes of each body.
 
 **Lilya:** Whether they were friend or foe.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -3661,7 +3659,7 @@ They find corpses with pus-filled wounds, flies feeding on the sickly yellow dis
 
 > From the dust he came, and to the dust he will return.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Hassan:** I've got a really bad feeling about all this.
 
 **Aleksei:** Your wound is just a scratch, nothing serious. We'll fix you up in no time once we get back to base.
@@ -4007,7 +4005,7 @@ With a single shot, death claims its prey, who can no longer haunt the living wi
 **Lilya:** He'd found the stuff Zeno needed.
 
 **Lilya:** As a soldier of Zeno, Comrade Hassan had fulfilled his mission flawlessly.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -4374,7 +4372,7 @@ With a single shot, death claims its prey, who can no longer haunt the living wi
 
 > Things have settled down, but we still have business to take care of.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The sound of gunshots eventually draw in a set of footsteps.
 
 **Bertolt:** Lilya! Aleksei! Hassan! Is that you?
@@ -4526,7 +4524,7 @@ The officer turns and walks away, holding the keepsake tightly in his hand.
 The sound of a soldier's boots echoes down the hall. Lilya takes one last glance at the room where her comrade had seemed so relieved.
 
 Inside, Aleksei eagerly awaits his fate, while Zeno eagerly awaits him.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>

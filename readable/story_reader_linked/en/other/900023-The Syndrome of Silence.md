@@ -7,8 +7,6 @@
 - Story units：`5`
 - Trail：`0`
 
-[UTTU](https://uttu.merui.net/story/other/sos/en/?part=1)
-
 As the concerto unfolds, an adventure begins; hearts tremble, reshaping Coppélia's future and past
 A whisper, or a scream.
 
@@ -25,7 +23,7 @@ A whisper, or a scream.
 <a id="episode-90002301"></a>
 ## 90002301 · In Front of the Door
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The subtle fragrance of nectar works its way into your dream and wakes you from your sleep.
 
 Even with your eyes shut, you can tell this isn't the room you usually stay in.
@@ -67,7 +65,7 @@ Remember to say hello at the Paris base. Try to be polite.
 Don't mention Manus Vindictae to strangers.
 
 Have a pleasant trip, and stay safe.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -75,7 +73,7 @@ Have a pleasant trip, and stay safe.
 <a id="episode-90002302"></a>
 ## 90002302 · Encore Lesson
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The ritual has ended. Beneath the Arc de Triomphe, only two figures are left standing among several headless bodies scattered across the ground. A female figure approaches them.
 
 **Ustrina:** How fared the ritual? Where are the members of the Headless Society?
@@ -181,7 +179,7 @@ Meanwhile, her temporary guardians still don't understand what's wrong.
 **Taira:** Why couldn't it have been Lyra or ... ah, no matter.
 
 **Taira:** At least help me carry her back.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -189,7 +187,7 @@ Meanwhile, her temporary guardians still don't understand what's wrong.
 <a id="episode-90002303"></a>
 ## 90002303 · Upbeat of Humanity
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Coppélia sinks Taira's blade deep into his chest. His human body crumples to the ground, while the crab on his face continues to twitch. The Big Hats, who have been silently watching, begin to clap.
 
 **Big Hat:** Well done! You have claimed your autonomy, wresting free from your rulers.
@@ -249,7 +247,7 @@ The flowers on the woman's body playfully blink at Coppélia. She glances with m
 **???:** For now, just remember—there is always more than one place to shelter from the rain.
 
 **???:** Come with me. This time, we'll not return to that meaningless blue room.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -257,7 +255,7 @@ The flowers on the woman's body playfully blink at Coppélia. She glances with m
 <a id="episode-90002304"></a>
 ## 90002304 · Misinterpretation
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 By the time Coppélia breaks free from Ustrina's control, the ritual is already over.
 
 She staggers over to a Big Hat lying on the ground.
@@ -365,7 +363,7 @@ Rainwater streaks down her face. She looks back down at the hat, still held tigh
 **Bittersweet:** A decent amount. An old friend often visits me in dreams to talk about it. I can introduce you if you'd like.
 
 **Hummingbird:** I appreciate your generosity. Would you care to walk with me along the river? The evening is still young. We have plenty of time to talk.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -373,7 +371,7 @@ Rainwater streaks down her face. She looks back down at the hat, still held tigh
 <a id="episode-90002305"></a>
 ## 90002305 · Self-Transcendence
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 With a deafening rumble, the giant creature falls. It lies there motionless, save for the twitching metal pipes on its body.
 
 Voices from behind the door reach Coppélia before she can catch her breath. Fortunately, the concert hall offers plenty of places to hide.
@@ -445,7 +443,7 @@ Coppélia breathes in the calming fragrance. A pleasant haziness washes over her
 Coppélia tries to swing her arms to the beat of the chant, but she's stopped by Bittersweet's hands on her own.
 
 **Bittersweet:** Shh, don't let the wind hear you. We leave now. The further from the orchestra, the better—oh, you're not allergic to wax, are you?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---

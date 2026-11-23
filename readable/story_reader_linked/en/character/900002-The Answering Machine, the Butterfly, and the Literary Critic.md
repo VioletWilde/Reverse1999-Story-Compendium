@@ -7,8 +7,6 @@
 - Story units：`13`
 - Trail：`0`
 
-[UTTU](https://uttu.merui.net/story/character/aleph/en/?part=1)
-
 Alone in the room, he murmurs to his memory.
 
 ## Contents
@@ -32,7 +30,7 @@ Alone in the room, he murmurs to his memory.
 <a id="episode-90000201"></a>
 ## 90000201 · Uqbar I
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 At the far end of the corridor lies a cell filled with countless communication devices.
 
 A solitary figure, tall yet stooped, waits within his modern citadel, listening for the dormant voices of telephones, wireless sets, and phonographs to awaken.
@@ -128,7 +126,7 @@ The man in the wooden chair gradually lifts the receiver.
 **Tap any area to exit**
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -136,7 +134,7 @@ The man in the wooden chair gradually lifts the receiver.
 <a id="episode-90000202"></a>
 ## 90000202 · Uqbar II
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Satisfaction Surveyor:**Good morning, good afternoon, good evening, and good night! Your continued support is invaluable to us!
 
 **Satisfaction Surveyor:**Whether you're in Cuernavaca, Gómez Palacio, or beyond, you will always remain a valued client of the Uqbar Company!
@@ -190,7 +188,7 @@ The question is laid out like a trap. A test to reveal whether the prisoner is s
 **As it stands, our current understanding of reality is inadequate to unravel the mystery of this inexplicable call. We must anchor our objectivity in the solidity of being itself. Through thought and discourse, we will, in time, find our hands upon the door of transcendentality.**
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -198,7 +196,7 @@ The question is laid out like a trap. A test to reveal whether the prisoner is s
 <a id="episode-90000203"></a>
 ## 90000203 · Uqbar III
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 A single die appears upon the desk.
 
 A worn black twenty-sided die—a symbol of chance and fate. The solitary prisoner rolls it between his fingers; the cell itself shifts imperceptibly with the rhythm of his breath.
@@ -252,7 +250,7 @@ The static sharpens to the point of becoming unbearable. Then, in the unnatural 
 **Tap any area to exit**
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -260,7 +258,7 @@ The static sharpens to the point of becoming unbearable. Then, in the unnatural 
 <a id="episode-90000204"></a>
 ## 90000204 · Las Babas del Diablo I
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 A cluster of nerve pain tightens its grip on the man as he withers away in confinement.
 
 **Merlin:**There was no phone. I'm sure you realize that already, but I'll remind you. It wasn't there. Not until it started ringing.
@@ -312,7 +310,7 @@ His hand rises, hesitating for a moment before selecting a chat window that has 
 **We are aware of it now. But awareness is not enough—our theories are insufficient, our knowledge incomplete. We need more: more books, more truth, more reality ...**
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -320,7 +318,7 @@ His hand rises, hesitating for a moment before selecting a chat window that has 
 <a id="episode-90000205"></a>
 ## 90000205 · Las Babas del Diablo II
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Endless scrolls of messages spill across the small screen, like a nosy virtual neighbor, disregarding any notion of consent.
 
 **The Linguist:**There's something unusual in the way this dialogue is unfolding.
@@ -390,7 +388,7 @@ The prisoner orders and reorders the words in his mind, absent of ethical weight
 **Tap any area to exit**
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -398,7 +396,7 @@ The prisoner orders and reorders the words in his mind, absent of ethical weight
 <a id="episode-90000206"></a>
 ## 90000206 · Las Babas del Diablo III
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Two books rest upon the unpolished wooden table before him.
 
 One book bears the title **Meaning and Mental Phenomena** (Vienna first edition, 1921), the other, **Structural Analysis of Symbolic Systems** (Selected Philosophical Propositions, 1918).
@@ -482,7 +480,7 @@ A swarm of critters surges through the machine, shorting its circuits in an inst
 **Tap any area to exit**
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -490,7 +488,7 @@ A swarm of critters surges through the machine, shorting its circuits in an inst
 <a id="episode-90000207"></a>
 ## 90000207 · El Gusano I
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The other party's online indicator turns gray, never to light up again.
 
 **Zahir:**I rather enjoyed talking to our friends from the computing center. They're such a diverse bunch, always thoroughly interesting.
@@ -558,7 +556,7 @@ He adjusts the dial, sifting through the frequencies.
 **Now, doesn't that just feel great? Sink into it ...**
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -566,7 +564,7 @@ He adjusts the dial, sifting through the frequencies.
 <a id="episode-90000208"></a>
 ## 90000208 · El Gusano II
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 A soothing voice rises from the speaker, warping within the coils, reshaping itself into something that defies comprehension.
 
 **Panamerican Arcanist Radio:**To all you faithful arcanists out there, followers of the **Sufferer**, devotees of the mask—this is the Panamerican Broadcast, brought to you by the Manus Vindictae.
@@ -606,7 +604,7 @@ Through the static, a soft and steady breath emerges—quick, restless, and meas
 **Tap any area to exit**
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -614,7 +612,7 @@ Through the static, a soft and steady breath emerges—quick, restless, and meas
 <a id="episode-90000209"></a>
 ## 90000209 · El Gusano III
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The radio host's face is a mosaic of countless others.
 
 Kayla, Grace, Cecilie, Newman ... names without weight, faces without permanence. She drifts unseen, a colorless moth in the dark—an existence without self.
@@ -652,7 +650,7 @@ A sound hangs in the air, almost a sob. The young lady does not weep; she merely
 **Tap any area to exit**
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -660,7 +658,7 @@ A sound hangs in the air, almost a sob. The young lady does not weep; she merely
 <a id="episode-90000210"></a>
 ## 90000210 · The Southern Thruway I
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Falling back into his reverie, the Idealist idly presses the power switch, yet the broadcast's performance of disorder and delirium has already reached its end. The radio plays no more.
 
 **Paracelsus:**A name carried in whispers ... the Panopticon of Comala—where every question finds its answer.
@@ -722,7 +720,7 @@ In the end, he will vanish within his own story ...
 **It defies reason. Why haven't we reached transcendentality? Not even the door seems within sight. I ... I cannot fathom it. Is all of this meaningless? Are we condemned to stand on the edge of that which cannot be spoken? How does one bring about an end to the endless?**
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -730,7 +728,7 @@ In the end, he will vanish within his own story ...
 <a id="episode-90000211"></a>
 ## 90000211 · The Southern Thruway II
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The wind whistles.
 
 It cascades over the Atacama Plateau, scouring the sands along the highway.
@@ -780,7 +778,7 @@ It cascades over the Atacama Plateau, scouring the sands along the highway.
 **Tap any area to exit**
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -788,7 +786,7 @@ It cascades over the Atacama Plateau, scouring the sands along the highway.
 <a id="episode-90000212"></a>
 ## 90000212 · The Southern Thruway III
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The driest wind in the world.
 
 Salt mountains, desert, and an infinite horizon of red and brown.
@@ -868,7 +866,7 @@ A red sedan speeds down an unknown highway, shrinking from sight until it ultima
 **Tap any area to exit**
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -876,7 +874,7 @@ A red sedan speeds down an unknown highway, shrinking from sight until it ultima
 <a id="episode-90000213"></a>
 ## 90000213 · La Biblioteca de Babel I
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Aleph:**Again, another pursuit of the ultimate truth has been proven futile.
 
 Yet futility is but a part of the eternal cycle. In the endless stories and selfless reality, the cycle itself becomes one of its meanings.
@@ -888,7 +886,7 @@ Yet futility is but a part of the eternal cycle. In the endless stories and self
 **Aleph:**Hello.
 
 **La biblioteca de Babel has been reset. Tap anywhere to exit.**
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---

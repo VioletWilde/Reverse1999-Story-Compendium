@@ -1,6 +1,6 @@
 # 国服简体中文剧情增量
 
-> 后续更新：2026-11-23 已按 UTTU 可读取剧情完成补录。本文保留当时的来源、数量与核对结果；当前收录范围见 [UTTU 全量补录](../uttu_completion_20261123/README.md)。
+> 版本说明：国服与国际服按各自更新进度收录，当前资源基线分别为 4.1 和 3.9。后续补录见 [2026-11-23 补录说明](../story_reader_completion_20261123/README.md)。
 
 序章和 4.1 活动的剧情脚本来自 2026-11-09 从国服模拟器 VDI 提取的 `configs/story`。2026-11-10 从同一客户端的 Lua 配置包补提了关卡和小径数据，并逐个比对本目录中的 132 个剧情资源文件。
 
@@ -13,4 +13,4 @@
 
 4.1 配置还用于复核旧章中的独立对话小径。`standalone_trails_pre_4_1.json` 保留 59 条小径的元素、对话组和原始步骤，其中 16 条补入正文，43 条改回该元素实际引用的对话。《入雅典记》另有 3 条候选记录，解锁条件指向《翡冷翠之春》，引用的台词则与《复乐园》重复，暂待游戏内核对。
 
-旧篇目的正文和关卡修订见 [Issue #2 修订记录](../story_reader_corrections/README.md)。2026-11-22 的 [全量核对报告](../story_reader_audit_20261122/README.md) 另记四节串档、两篇轶事篇名及《不老春》论坛补录，并列出尚未收录的篇目。当前阅读版的数量和链接检查见 [目录校验](../../readable/story_reader_linked/validation.json)。
+旧篇目的正文和关卡修订见 [Issue #2 修订记录](../story_reader_corrections/README.md)。后续补录见 [2026-11-23 补录说明](../story_reader_completion_20261123/README.md)，当前数量与目录检查见 [阅读目录校验](../../readable/story_reader_linked/validation.json)。

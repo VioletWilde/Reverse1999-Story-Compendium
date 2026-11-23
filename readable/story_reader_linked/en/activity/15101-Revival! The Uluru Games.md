@@ -7,8 +7,6 @@
 - Story units：`15`
 - Trail：`39`
 
-[UTTU](https://uttu.merui.net/story/event/1_5/en/?part=1)
-
 On this red soil, there once was a dawn that burned through the night.
 It may fall silent, or it may be passed on through the cycles.
 Is there ... a new bearer of the flame here?
@@ -38,7 +36,7 @@ Is there ... a new bearer of the flame here?
 
 > A collision can spark the beginning of a story. It can also lead to a large medical bill.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Answering Machine:** G'day, you've reached Desert Flannel.
 
 **Answering Machine:** I'm not home right now, or I don't have time for calls. Please leave a message after the "beep."
@@ -258,7 +256,7 @@ Spathodea: \*coughs\* ... Ughhh ...Spathodea: \*vomits\*Spathodea: M-Mom ...Spat
 **Spathodea:** M-M-Mom never told me ... w-w-we are descendants of the Red Dragon ...
 
 **Spathodea:** No ... No no no no! I need to see the doctor right now!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · Laplace Reception Hall
 
@@ -547,7 +545,7 @@ END OF DIALOGUE
 
 > Let it be known, the best way to call on a neighbor has never been to climb the treetops and wait by her window late at night.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Laplace reception room
 
 **Vertin:** Now, let's summarize what happened.
@@ -675,7 +673,7 @@ Spathodea wipes off the tears in her eyes and keeps up with Vertin. But soon the
 Murmuring something, Desert Flannel unwillingly follows the team.
 
 **Desert Flannel:** Oi, you with the suitcase. Do you know how I can get a job here? Looks like they pay their employees well.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · Laplace Clinic
 
@@ -724,7 +722,7 @@ The scorching flames burn it down.
 
 > When they saw the fluorescence in the forest, the flickering inspiration, the essence of the human soul, they shouted as loudly as they desired.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Laplace clinic
 
 **Medical Staff:** Here is Ms. Spathodea's physical examination.
@@ -1106,7 +1104,7 @@ The sparkling flame starts devouring her palm bite by bite.
 **Spathodea:** Ah! The fire ... It's burning on me?! It feels different this time. It's so hot ...
 
 Far faster than expected, the flame spreads over her, and her cry for help fades into the burning red.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · Newsstand
 
@@ -1129,7 +1127,7 @@ You have completed the torch relay. The light of the flames illuminates the News
 
 > A beautiful strike. These flames always hit their mark.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Lakeside Garden
 
 **Desert Flannel:** Is this the Laplace fashion of dealing with emergencies?
@@ -1389,7 +1387,7 @@ A hideous smile forms on that floating face. Makower then disappears in the shad
 **Desert Flannel:** If you don't wanna be one of the "burning kangaroos" on the headline tomorrow, shut up and start running!
 
 **Vertin:** We have to stop him.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · Uluru Desert
 
@@ -1425,7 +1423,7 @@ The scorching flames burn it down.
 
 > Shake hands, nod. Welcome, my friend.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **???:** ...
 
 Collar raised and head lowered, standing silently by the side door of the newsstand.
@@ -1813,7 +1811,7 @@ In the room brimmed with wordless doubt and silence, a hand reaches up from bene
 Spathodea retracts her hand away from the burrito, in a movement so fast it blurs.
 
 On the choppy water, several buoy balls are connected together. They are floating towards the depths of the pool hand in hand.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · The Torch Guardians III
 
@@ -1881,7 +1879,7 @@ END OF DIALOGUE
 
 > Fire leaps upon my skin. A blurry past, now clear as day. That is my true identity.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Spathodea:** Mmm. Hey! I see it! Over there!
 
 **Spathodea:** It's beautiful, even more beautiful than the one I saw in my dream.
@@ -2235,7 +2233,7 @@ The flame is no longer the small flame as it was. Now, it is roaring like a beas
 Spathodea looks back and gives them a grin.
 
 In an instant, she hurries her pace and jumps into the fire.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -2670,7 +2668,7 @@ END OF DIALOGUE
 
 > Give the twentieth century a hug, my beautiful, fiery friend!
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Desert Flannel:** Spathodea! Spathodea! Where, where did she go?!
 
 **???:** It was like a long slumber, or a view of the garden behind the wall.
@@ -2910,7 +2908,7 @@ Surrounded by the fiery atmosphere, the girls raise an invisible glass to each o
 Desert Flannel grabs Spathodea's wrist and lifts it up like a referee, calling out to the suitcase, out of which more arcanists pour out.
 
 **Desert Flannel:** Now, people ... those of you who are not afraid of fire and wish to walk among the flames, please register here!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · Mural
 
@@ -3054,7 +3052,7 @@ END OF DIALOGUE
 
 > Fortunately, we're a couple of expert firefighters.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Ulu:** Good! You're doing great! Faster, higher!
 
 A grandma can be crazy about sports too. Give her time, and she will burn like the sun.
@@ -3208,7 +3206,7 @@ Ezra turns to Vertin. They both remember what happened that night at the park.
 COMBAT:
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · City Street Corner
 
@@ -3287,7 +3285,7 @@ A Box of Fake Tickets
 
 > The light of reason shall one day shine upon the earth.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 inside the suitcase
 
 **Vertin:** Desert Flannel's dizziness is in remission. She's already well enough to deal with her business on the fax machine. Will it do harm to her physical condition?
@@ -3635,7 +3633,7 @@ Huff, huff.
 COMBAT:
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · A Work Log
 
@@ -3662,7 +3660,7 @@ When they gave me this civil service job, I never thought I'd end up working wit
 
 > A delicious biscuit, adorned with snow-like sugar. This half is for you, and the other is for me. My friend... I miss you so much.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Everything is going smoother than expected.
 
 **Vertin:** Laplace has forwarded the Uluru Games application to the Foundation, and it has been moving smoothly in the system in the last two weeks. I heard that from Mr. Slouch Hat on the phone this morning.
@@ -3898,7 +3896,7 @@ The tiny Bunyip swiftly crawls up Makower's leg and winds around his finger. Sec
 **Makower:** Heh-heheheheheh ... \*coughs\* ...
 
 His body keeps trembling, trembling, and trembling, until he can't help but let out uncontrollable laughter.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -3908,7 +3906,7 @@ His body keeps trembling, trembling, and trembling, until he can't help but let 
 
 > Beautiful, resplendent, and impossible to ignore. It might not fit perfectly, but we don't have any other choice.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The door is closed.
 
 **Vertin:** Hi, it's Vertin.
@@ -4122,7 +4120,7 @@ She covers Ezra and rapidly moves backward, but behind them are still clicking c
 COMBAT:
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -4132,7 +4130,7 @@ COMBAT:
 
 > A path paved with tears and penitence. This time, you still have a chance.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Vertin:** Spathodea, it's not all your fault.
 
 The tools are scattered all over the place, but no one is working at the site. The young girl sits on the ground, leaning against the timber and burying her head into her palms.
@@ -4366,7 +4364,7 @@ The girl hesitates.
 But kids can never say no to a story.
 
 **Spathodea:** I'll listen to your story first, and I'll go talk to him right away!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -4619,7 +4617,7 @@ But kids can never say no to a story.
 
 > Don't ever talk about any of my plans like that again! Promise me... Promise me, my love!
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Spathodea:** Hmm ... Lights ... checked.
 
 **Spathodea:** Width of the entrance ... checked.
@@ -4987,7 +4985,7 @@ A wall of people stand at the exit.
 **Desert Flannel:** This is what we call "the hammer of justice."
 
 **Desert Flannel:** Take that, you s\*\*\*\*y little long-tongue pig. I will pull your tongue out through one of your eye sockets. You should have known better than to mess with me.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -4997,7 +4995,7 @@ A wall of people stand at the exit.
 
 > A warm flame adorned with honey-like tears. This half is for you, and this half is for me. My friend... I miss you so much.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Vertin:** The audience are all seated. No stampede or jostle, not to mention injury.
 
 **Ezra:** All the human athletes have registered, and their mixed sporting events with arcanist athletes have been properly planned and are ready to start in three days!
@@ -5109,7 +5107,7 @@ With a smile on his face, Ezra holds Spathodea's hand and lifts it in the air.
 **Spathodea&Ezra:** We shall run in the name of sportsmanship. We shall walk in the original form of men.
 
 **Spathodea&Ezra:** We shall compete against each other, not for victory but for participation.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -5266,7 +5264,7 @@ You control the scorching flames. The finish line is within reach.
 
 > A doctor, a writer, a newsstand owner, a taxi driver, a high school math teacher, and a smelter.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Ezra:** So, did Ms. Desert Flannel go to the hospital to visit Mr. Makower?
 
 **Spathodea:** Yeah! She bought all the magazines with that photo and brought them to ... Oh, wait, I guess you don't know the story between Desert Flannel and Makower.
@@ -5452,7 +5450,7 @@ they will remember the spirit and faith it has been conveying.
 Things will change in the unstoppable river of time,
 
 yet the Uluru Stadium shall remain forever.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---

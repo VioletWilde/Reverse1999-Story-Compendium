@@ -7,8 +7,6 @@
 - Story units：`10`
 - Trail：`0`
 
-[UTTU](https://uttu.merui.net/story/character/lopera/en/?part=1)
-
 Enter the jungle with caution and care
 Take a deep breath, and release your fear
 Keep your eyes open, for danger may be near
@@ -31,7 +29,7 @@ Keep your eyes open, for danger may be near
 <a id="episode-2291100"></a>
 ## 2291100 · Part 0
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Major's Office
 
 **Lopera:** Sorry, Sir, but I respectfully decline this operation.
@@ -187,7 +185,7 @@ Muffled sounds come from the receiver as the phone is handed over.
 There's nothing emptier than a promise awaiting suitable conditions.
 
 **Moldir:** Good luck with your mission, Pera.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -360,7 +358,7 @@ There's nothing emptier than a promise awaiting suitable conditions.
 <a id="episode-1220401"></a>
 ## 1220401 · A Game of Dice
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 River Cruise
 
 A sightseeing boat docks along a densely wooded riverbank. From the deck, it could be mistaken for the depths of the jungle. Excited tourists poke their heads out to look around.
@@ -576,7 +574,7 @@ Rodrygo doesn't seem bothered by her trick.
 **Rodrygo:** We must always be prepared for the worst.
 
 **Rodrygo:** Come, I'll take you to Sandro.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -809,7 +807,7 @@ Rodrygo doesn't seem bothered by her trick.
 <a id="episode-1220402"></a>
 ## 1220402 · Finding Sandro
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Rainforest Riverbank
 
 Bang—
@@ -1021,7 +1019,7 @@ The man puts on a smile.
 **Rodrygo:** But now is not that day. I still need to help you find this Sandro, don't I?
 
 **Lopera:** Right. We need to find Sandro fast.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1242,7 +1240,7 @@ The man puts on a smile.
 <a id="episode-229111"></a>
 ## 229111 · Perilous Rainforest
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Jungle Village
 
 Two heads, one big and one small, peek out from behind the damp, rotting planks.
@@ -1590,7 +1588,7 @@ Lopera's mind is swirling, still too chaotic to form her own plan. Rodrygo seems
 She nods.
 
 **Lopera:** Fine, we keep going.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1953,7 +1951,7 @@ She nods.
 <a id="episode-1220404"></a>
 ## 1220404 · Carnival Fireworks
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 After another harrowing battle, Lopera proves once again the capabilities of a loyal, first-class Zeno soldier.
 
 **Lopera:** Sandro ... isn't here either.
@@ -2187,7 +2185,7 @@ His eyes have grown increasingly cloudy, until they become like two indistinguis
 Lopera walks ahead of Rodrygo, leaving him staring at her blankly as if in a trance.
 
 **Lopera:** Come on now. We're not catching up to him in this mud.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -2436,7 +2434,7 @@ Lopera walks ahead of Rodrygo, leaving him staring at her blankly as if in a tra
 <a id="episode-1220405"></a>
 ## 1220405 · Mapinguari
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The shallow water ahead seems infested with mosquitoes of outrageous proportions. They hover across the surface, producing an audible buzz.
 
 **Rodrygo:** This is it. Captain Rodrygo's very own private lake.
@@ -2820,7 +2818,7 @@ Lopera cups her hands around a bullet hole in the door and shouts.
 She presses her ear to the door to hear the footsteps pause for a moment, then slowly return.
 
 **Rodrygo:** You won't see us again, you hear me! I can't lose him now. He's all I have left.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -2828,7 +2826,7 @@ She presses her ear to the door to hear the footsteps pause for a moment, then s
 <a id="episode-1220406"></a>
 ## 1220406 · Alchemy Accident
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Lopera:** Ugh, darn it! Open this door!
 
 Crack!
@@ -3012,7 +3010,7 @@ Her rescuers exchange glances. The mention of Admiral Igor forces them to set as
 Bang—
 
 **Major Kasyan:** Like ... that?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -3211,7 +3209,7 @@ Bang—
 <a id="episode-229112"></a>
 ## 229112 · No Place to Go
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Remote Manor
 
 **Lopera:** What ... What is this place?
@@ -3497,7 +3495,7 @@ A soldier rushes in, interrupting their conversation.
 **Zeno Soldier:** Gunshot wound, looks to be self-inflicted.
 
 **Major Kasyan:** My God, this is a dark day.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -3798,7 +3796,7 @@ A soldier rushes in, interrupting their conversation.
 <a id="episode-1220408"></a>
 ## 1220408 · The Ones on the Bank
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 War Cemetery
 
 The misty canopy of the forest blocks out the scorching tropic sun above, leaving the ground perpetually shaded and wet.
@@ -3970,7 +3968,7 @@ The admiral scrapes a leaf off his boot against a dew-coated rock.
 **Lopera:** I trust you, Father.
 
 Lopera looks up, only able to see her father's towering shoulders.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -4159,13 +4157,13 @@ Lopera looks up, only able to see her father's towering shoulders.
 <a id="episode-2291109"></a>
 ## 2291109 · Going All In
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 ***
 
 **GAMEPLAY ONLY**
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---

@@ -7,8 +7,6 @@
 - Story units：`9`
 - Trail：`0`
 
-[UTTU](https://uttu.merui.net/story/character/beryl/en/?part=1)
-
 She was born a ray of brilliance,
 Refracted in the arpeggios of fate's symphony,
 Between what's to come and what's already written.
@@ -30,7 +28,7 @@ Between what's to come and what's already written.
 <a id="episode-3250101"></a>
 ## 3250101 · The Unforeseen
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Street, Paris
 
 **Matilda:** Excusez-moi! Don't push me!
@@ -208,7 +206,7 @@ She looks at her mother in surprise—the usual gentle smile on Beryl's face is 
 **???:** And thou placed the "closed" sign early, just as the future instructed.
 
 **???:** —Yet here I am, utterly unpredicted.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -216,7 +214,7 @@ She looks at her mother in surprise—the usual gentle smile on Beryl's face is 
 <a id="episode-3250102"></a>
 ## 3250102 · To Answer the Unanswerable
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Matilda:** Hmph, just who does she think she is?!
 
 **Matilda:** Barging in here while I am having such an important conversation with Maman!
@@ -432,7 +430,7 @@ Beryl stared at the rain beyond the window, unable to look away.
 **???:** Madame Bouanich, thou mayest call me Arcana.
 
 **Arcana:** Pray tell, how dost thou view the "Storm"?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -440,7 +438,7 @@ Beryl stared at the rain beyond the window, unable to look away.
 <a id="episode-3250103"></a>
 ## 3250103 · Cracks and Splinters
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Countryside, Delhi
 
 A courtyard on the outskirts of Delhi. Few ever visit this place. It is so quiet it feels as though the sun itself has cooled.
@@ -632,7 +630,7 @@ Brume suddenly recalls where this scene occurred.
 Just earlier, between Beryl and Matilda.
 
 **Félicienne:** Beryl, what's got you so on edge of late?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -640,7 +638,7 @@ Just earlier, between Beryl and Matilda.
 <a id="episode-3250104"></a>
 ## 3250104 · "Me"
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The bluntness of the question cuts through the fragile calm.
 
 **Beryl:** On edge?
@@ -868,7 +866,7 @@ But she knows her mother is desperately hoping for good news.
 **Beryl:** Maman ...
 
 **Beryl:** Three months from now, your life will be taken in a robbery.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -876,7 +874,7 @@ But she knows her mother is desperately hoping for good news.
 <a id="episode-3250105"></a>
 ## 3250105 · To Look Upon Doom
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Beryl:** Monsieur Eloi's words had pierced my mother, allowing her weakness to pour from the wound.
 
 **Beryl:** Before then, she had never once asked me to read her fate.
@@ -1088,7 +1086,7 @@ The young diviner smiles faintly.
 **Beryl:** Beneath its glow, there is no difference between "me" and them. Thus, naturally, I have no need for "me."
 
 **Arcana:** How dost thou view the "Storm"?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1096,7 +1094,7 @@ The young diviner smiles faintly.
 <a id="episode-3250106"></a>
 ## 3250106 · Familiar Strangers
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 ***
 
 **GAMEPLAY**
@@ -1288,7 +1286,7 @@ Brume is struck speechless, while Beryl sinks into thought.
 Finally, a mocking voice breaks the stillness.
 
 **Félicienne:** Hah—so this is why you're on edge, Beryl!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1296,7 +1294,7 @@ Finally, a mocking voice breaks the stillness.
 <a id="episode-3250107"></a>
 ## 3250107 · Take No Sides
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Asiya:** Ms. Brume, are you really leaving now? But we still haven't found the demantoid you were looking for!
 
 **Brume:** I'm sorry, Asiya. But I have to go.
@@ -1432,7 +1430,7 @@ The same door where, all those years ago, Clairine stepped out and dove headfirs
 **Beryl:** But you must give me the payment I am owed ...
 
 **Beryl:** All information regarding the resurrection ritual.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1440,7 +1438,7 @@ The same door where, all those years ago, Clairine stepped out and dove headfirs
 <a id="episode-3250108"></a>
 ## 3250108 · Aria in the Rain
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Street, Ushuaia
 
 At the edge of the earth, at the southernmost point of human dwelling, eight hundred nautical miles south lies the white wasteland that covers the South Pole.
@@ -1754,7 +1752,7 @@ The ritual has drained everything from her. She is weaker than ever before.
 She smiles with quiet satisfaction, recalling the faint silhouette she saw in the water.
 
 **Beryl:** Once I recover, there is someone I must see.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1762,13 +1760,13 @@ She smiles with quiet satisfaction, recalling the faint silhouette she saw in th
 <a id="episode-3250109"></a>
 ## 3250109 · Your Life Story
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 ***
 
 **GAMEPLAY ONLY**
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---

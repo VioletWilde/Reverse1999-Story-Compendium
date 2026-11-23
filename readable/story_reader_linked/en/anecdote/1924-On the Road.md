@@ -7,8 +7,6 @@
 - Story units：`8`
 - Trail：`0`
 
-[UTTU](https://uttu.merui.net/story/anecdote/kanjira/en/?part=1)
-
 Inside the Penumbra Can,
 Covered in a layer of dust,
 Are stories buried in the depths of time.
@@ -31,7 +29,7 @@ Are stories buried in the depths of time.
 
 > Goodbye, midnight fireflies.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Chandigarh Police Station
 
 **Officer I:** Look, I've actually met a lot of honest folk ... Janardhan, I know hunger hurts more than punishment ever could. Morality only matters when people have full bellies, a place to stay, and a shred of dignity.
@@ -259,7 +257,7 @@ He's like a bear wounded while escaping from a trap. His victory is pyrrhic, and
 **Janardhan:** Ugh ... damn ...
 
 Soon, he blacks out.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -508,7 +506,7 @@ Soon, he blacks out.
 
 > Warning: always check the trunk when you lock your caravan.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Ajar:** Everyone, push hard! Boss has to get out before sunrise! If Ms. Sherjah or anyone else sees us, it's all over!
 
 **Kanjira:** Yeah, there's only one way out of the village. I need to leave before Uncle Chopra comes to set up his fish stall.
@@ -796,7 +794,7 @@ But the caravan dives down over the nearby rise, disappearing from her sight.
 Suddenly, rough hands grab her shoulders and slam her to the ground.
 
 **Young Master Salman:****Hold her down! Break her fingers one by one!**
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1105,7 +1103,7 @@ Suddenly, rough hands grab her shoulders and slam her to the ground.
 
 > A cornered rat always finds a hole.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Rough hands pin the girl down. Punji hisses from inside her sleeve.
 
 **Young Master Salman:** You dare stick your filthy hands into my pockets. Who are you? Just another low-born arcanist rat from Mor Pankh. What made you think you could steal from me on my own land?
@@ -1283,7 +1281,7 @@ He strokes his mustache, eyes glinting like he's spotted a fish nearing the hook
 **Officer:** Won't be long now, boy.
 
 **Officer:** We wait until the rat runs out of holes.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1482,7 +1480,7 @@ He strokes his mustache, eyes glinting like he's spotted a fish nearing the hook
 
 > Hearts of gold shine like a campfire in the dark night.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The lone caravan rolls down the vast, empty road.
 
 **Janardhan:** Kid, you do realize how ridiculous your plan is, right?
@@ -1846,7 +1844,7 @@ She meets his eyes, trying to see through the murk to whatever soul might be hid
 It almost seems as though the train will pass and she'll be left behind.
 
 Then she takes his hand.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1856,7 +1854,7 @@ Then she takes his hand.
 
 > The world may seem new, but it's never as different as you'd like it to be.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Passenger Car, Train
 
 **Critter Merchant:** Ladies and gentlemen, these young critters, a thousand times cheaper than NewBabel's, are the best guardians for your home!
@@ -2060,7 +2058,7 @@ And then, like greeting a brand-new world ...
 She lets out a raw and primal cry.
 
 **Kanjira:** Waaahhh—waaahhh—
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -2283,7 +2281,7 @@ She lets out a raw and primal cry.
 
 > A conspiracy plotted long ago.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Train Station
 
 **Officer I:** Keep your eyes on every exit! When that train stops, nothing gets through—not even a rat!
@@ -2435,7 +2433,7 @@ He shoves Kanjira aside and points his knife toward her.
 **Janardhan:** Not until we're safe!
 
 The jungle grows thicker around them. Wet leaves brush over them as they go.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -2608,7 +2606,7 @@ The jungle grows thicker around them. Wet leaves brush over them as they go.
 
 > Some mistake pain for a truth serum.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Chandigarh Police Station
 
 Janardhan sits slumped in a chair, bound tight. Blood dripping from his nose, over cracked lips, and through his teeth, mixing with spit at the corner of his mouth.
@@ -2704,7 +2702,7 @@ So I took another step—
 **Young Officer:** Also, a woman named Batia is here. She's asked to meet with the chief.
 
 **Young Officer:** He wants you in his office.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -2821,7 +2819,7 @@ So I took another step—
 
 > Bound towards a new world.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Rainforest, five hours before Janardhan's capture—
 
 **Kanjira:** Here. You must be dying of thirst.
@@ -3135,7 +3133,7 @@ At the end of the train, a small hand grips the rear guardrail.
 The train picks up speed. The tracks rattle. Birds scatter from the trees.
 
 Newborn sunlight streams through as the train bursts out of the tunnel, flooding the world in light.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>

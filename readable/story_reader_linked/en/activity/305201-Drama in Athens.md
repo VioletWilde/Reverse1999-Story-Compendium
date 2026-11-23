@@ -7,8 +7,6 @@
 - Story units：`15`
 - Trail：`0`
 
-[UTTU](https://uttu.merui.net/story/event/S01_2/en/?part=1)
-
 Bloodlines and schemes intertwine here.
 
 ## Contents
@@ -36,7 +34,7 @@ Bloodlines and schemes intertwine here.
 
 > The story turns to a new, clamorous chapter.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Bard:** O Dionysos, the source of all joy,
 
 **Bard:** From your sacred wine, we draw our strength.
@@ -214,7 +212,7 @@ The sudden strike to his head renders the man limp.
 She stuffs the "actor" into a thick cloth bag.
 
 As she ties up the bag with a knot, an eagle's cry pierces through the air.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -224,7 +222,7 @@ As she ties up the bag with a knot, an eagle's cry pierces through the air.
 
 > Let Athens be Athens.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Assembly
 
 A group of men has assembled in the Pnyx. The light of democracy shines upon the Athenians as they engage in a fierce discussion.
@@ -408,7 +406,7 @@ The mercenary pats the dust from her hands, tucks the file away, and strides off
 Her shard is soon made insignificant by the piling weight of those that follow.
 
 One shard after another is tossed into the urn, like raindrops falling on a tile roof.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -418,7 +416,7 @@ One shard after another is tossed into the urn, like raindrops falling on a tile
 
 > This tree will bear fruit, surprising though it may seem.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The hidden spectator's mind drifts away, still lost in the brilliance of the Oresteia.
 
 His breath, soft and steady, releases a gentle warmth.
@@ -574,7 +572,7 @@ Regulus's eyes light up with her reply. As memories of cheering crowds and singi
 **Regulus:** Just think, a like-minded rocker of the ancient world! We'll get on like jam on toast! And once we're thick as thieves, we'll get that information for a song.
 
 The "Legend of London" has found her groove once again, dashing off into the busy streets of the ancient city.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -584,7 +582,7 @@ The "Legend of London" has found her groove once again, dashing off into the bus
 
 > No pillars in the Caucasus here, but the basket is just as tightly bound.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Regulus:** What?!
 
 **Regulus:** 23 Drachmae?! You're having me on!
@@ -832,7 +830,7 @@ After a clear eagle cry, Kassandra is nowhere to be seen.
 **Kassandra:** I think I've found him.
 
 **Kassandra:** Unfortunately, it seems he is about to fulfill his duty to Dionysos, as one of the sacred offerings.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -842,7 +840,7 @@ After a clear eagle cry, Kassandra is nowhere to be seen.
 
 > Higher, faster, stronger.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **APPLe:** ...
 
 Mr. APPLe's flesh grows paler amidst the loud singing and wobbling fruit baskets.
@@ -990,7 +988,7 @@ Regulus finally arrives at the scene, still gasping for breath.
 Kassandra rushes over and covers Regulus's mouth.
 
 **Kassandra:** Shhh ... We have a situation.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1000,7 +998,7 @@ Kassandra rushes over and covers Regulus's mouth.
 
 > A craftsman's clattering inspiration does not end with the dark.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Inside the Temple
 
 Flickering lights dance over the temple's reliefs. Below them, figures dart between the Maenads and Satyrs.
@@ -1242,7 +1240,7 @@ She pats down her sleeves, trying not to give too much weight to her actions.
 **Kassandra:** I do think we work well together.
 
 Several hands are placed together in a moment of sincere warmth.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1252,7 +1250,7 @@ Several hands are placed together in a moment of sincere warmth.
 
 > He is dear to me, but dearer still is justice.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Kassandra:** Those so-called craftsmen were from the Cult of Kosmos.
 
 **Kassandra:** But they weren't here to destroy the temple. They only left some strange signs and patterns.
@@ -1518,7 +1516,7 @@ They all fix their sight on Domitius.
 **The Rookie "Actor":** Quit staring at me! I've figured out your game; I'm not talking!
 
 **The Rookie "Actor":** I won't tell you anything—!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1803,7 +1801,7 @@ They all fix their sight on Domitius.
 
 > We remember the doctrine, the order, and the meticulous reverence for the "Deimos."
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Secret Chamber, Cult of Kosmos
 
 Inside a dimly lit hall, a throng of people stands at attention. Their black armor and grotesque masks presenting a cold and ruthless atmosphere.
@@ -1975,7 +1973,7 @@ Regulus is, predictably, completely off-key, leading her friends to respond with
 **The Rookie "Actor":** Enough! Enough—
 
 **The Rookie "Actor":** Just let me die in here! I'm worm food either way!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1985,7 +1983,7 @@ Regulus is, predictably, completely off-key, leading her friends to respond with
 
 > On murals, on pottery, in life.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Theater Plaza
 
 Lively songs float across the open ground, while wine jugs and sacrifices are raised, weaving their way through the colorful crowd.
@@ -2137,7 +2135,7 @@ His offer of support rings like a melody in her ears. But it's his appearance th
 **Vertin:** I'll ask you to stop wriggling, Mr. APPLe. This paint is all we've got left from making our masks.
 
 **Regulus:** Fab! Oh, but you missed a spot, a little more gold over here, please!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -2147,7 +2145,7 @@ His offer of support rings like a melody in her ears. But it's his appearance th
 
 > To be misunderstood is the fate of every apple.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 A song descends from Olympus,Of an apple gold as the sun.For secrets held in Hesperides bough,Stirs to conflict the fairest and foul.APPLe: Must I really be up so high, Captain? Between the thin air and the fumes from this paint, I'm beginning to feel woozy.APPLe: Must I really be up so high, Captain? Between the thin air and the fumes from this paint, I'm beginning to feel woozy.Regulus: Well, whose fault is that for shaking off your old coat?Regulus: Though you do look smashing in gold, mate!Vertin: Mr. APPLe, are you high enough to be visible to the crowd?APPLe: ... I'm bloody well high enough to be sick.Vertin: Excellent, good luck!APPLe: !Regulus: Hello, Athens! Allow me to direct your eyes to the skies!Athenian I: By Zeus—is that a golden apple?!Athenian II: An offering like that might convince the gods to cleanse our city of its sorrow and pain ...Regulus: Oi! Wouldn't you like to be the first one to have their mitts on it? Too bad, I'm getting to it first!Regulus: Oi! Wouldn't you like to be the first one to have their mitts on it? Too bad, I'm getting to it first!Athenian III: We must offer that apple to the great Dionysos!Athenian I: After her! Don't let that strange foreigner steal our golden apple!Kassandra: Well done.
 
 A song descends from Olympus,
@@ -2381,7 +2379,7 @@ Yet the frantic mob chasing them does not yet seem to have diminished.
 **Vertin:** Keep a stiff upper lip you two, and if all goes well, I'll make sure to requisition some sherry and Dr. Papper to celebrate.
 
 **Vertin:** And a whole bunch of records!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -2554,7 +2552,7 @@ Yet the frantic mob chasing them does not yet seem to have diminished.
 
 > We look into the margins of history to watch the story again.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 ***
 
 **COMBAT ONLY**
@@ -2566,7 +2564,7 @@ Yet the frantic mob chasing them does not yet seem to have diminished.
 COMBAT:
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -2576,7 +2574,7 @@ COMBAT:
 
 > A figure shrouded in the darkness of night, exuding an aura of murderous intent.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 ***
 
 **COMBAT ONLY**
@@ -2588,7 +2586,7 @@ COMBAT:
 COMBAT:
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -2598,7 +2596,7 @@ COMBAT:
 
 > It comes with honey ... or a viperine snake.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 ***
 
 **COMBAT ONLY**
@@ -2610,7 +2608,7 @@ COMBAT:
 COMBAT:
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -2620,7 +2618,7 @@ COMBAT:
 
 > "Sing! Oh muses, of the anger of Phoebus Apollo, and the ills uncounted he brought upon the Achaeans!"
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 ***
 
 **COMBAT ONLY**
@@ -2632,7 +2630,7 @@ COMBAT:
 COMBAT:
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -2642,7 +2640,7 @@ COMBAT:
 
 > "With such grace did you thou, Phoebus Apollo, break the toils of the Achaeans."
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 ***
 
 **COMBAT ONLY**
@@ -2654,7 +2652,7 @@ COMBAT:
 COMBAT:
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---

@@ -7,8 +7,6 @@
 - Story units：`8`
 - Trail：`0`
 
-[UTTU](https://uttu.merui.net/story/anecdote/mesmer_jr./en/?part=1)
-
 Inside the Penumbra Can,
 Covered in a layer of dust,
 Are stories buried in the depths of time.
@@ -31,7 +29,7 @@ Are stories buried in the depths of time.
 
 > Looking at those still mottled traces, do you know why you came here?
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Only that day dawns to which we are awake.
 
 —Henry David Thoreau
@@ -313,7 +311,7 @@ She turns the page and reads the first line.
 "I had never treated a patient who was one of the Manus before."
 
 "His name was Jerry Wilson."
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -608,7 +606,7 @@ She turns the page and reads the first line.
 
 > Ah! Stop crying and stop laughing, stop wailing and stop screaming ...
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 I had never treated a patient who was one of the Manus before.
 
 His name was Jerry Wilson.
@@ -1072,7 +1070,7 @@ laughing and playing with his friends.
 Eventually, the anesthesia wore off.
 
 And the boy's heartbreaking cries wailed through the hospital.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1467,7 +1465,7 @@ And the boy's heartbreaking cries wailed through the hospital.
 
 > You mock it, you demean and insult it—oh, but you believe in it.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Healing and helping are only small parts of our work.
 
 The rehabilitation center houses a large number of mentally unstable patients. Besides protecting them, we must also protect ourselves.
@@ -1667,7 +1665,7 @@ I shrugged.
 She's reached the end.
 
 This is the last entry in the diary.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1888,7 +1886,7 @@ This is the last entry in the diary.
 
 > Pick it up, please—pick it up, gently lay it down, like the tip of a scalpel.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Office of Director, Laplace
 
 **Lucy:** Pedra from the St. Pavlov Foundation has passed down an order to the LSCC.
@@ -2066,7 +2064,7 @@ Her pen pauses.
 She stares at that name in silence.
 
 Then signs her name at the bottom.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -2255,7 +2253,7 @@ Then signs her name at the bottom.
 
 > They say her hands are empty, but who saw what she was really holding?
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Two days later
 
 Two days later
@@ -2417,7 +2415,7 @@ She tosses the floppy disk back into the box and checks the time.
 She stands up, straightens her clothes, and closes the door.
 
 It's as if she is leaving the funeral of a stranger.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -2427,7 +2425,7 @@ It's as if she is leaving the funeral of a stranger.
 
 > As they chew the juicier grass, wolves and fences are one and the same.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Central Plaza
 
 A misty rain covers the city.
@@ -2659,7 +2657,7 @@ The dreamcatcher hangs on the doorknob, awaiting the return of its owner.
 **Rehab Center Staff Member Danny:** Jerry Wilson, right? You're free to go.
 
 **Rehab Center Staff Member Danny:** Get out of Laplace.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -2906,7 +2904,7 @@ The dreamcatcher hangs on the doorknob, awaiting the return of its owner.
 
 > Those who carry no lamp still wander in the darkness.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Her body, along with her consciousness, plunges into the sea, falling and falling.
 
 A deep sleep is about to descend.
@@ -3068,7 +3066,7 @@ She looks back at the faces in the fog.
 **Mesmer Jr.:** Because ...
 
 **Mesmer Jr.:** I'm a Mesmer.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -3078,7 +3076,7 @@ She looks back at the faces in the fog.
 
 > It flows quietly, ever constant.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Running, running ... Through the grass, over the wall, and now in the depths of a tunnel.
 
 The free world outside the St. Pavlov Foundation is right before him.
@@ -3184,7 +3182,7 @@ He closes his eyes.
 **Patient Cobb:** Ah, d'you see it?
 
 **Patient Cobb:** My puppy—the one I lost—has been hidin' there by the riverbank all along.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---

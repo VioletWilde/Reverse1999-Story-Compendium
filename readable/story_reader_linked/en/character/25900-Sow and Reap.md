@@ -7,8 +7,6 @@
 - Story units：`8`
 - Trail：`0`
 
-[UTTU](https://uttu.merui.net/story/character/liang_yue/en/?part=1)
-
 The moon ascends and descends,
 The tides ebb and flow.
 From the distant horizon,
@@ -30,7 +28,7 @@ Comes a young, promising hero.
 <a id="episode-2590001"></a>
 ## 2590001 · Descent of Frost
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Things are neither entirely "this" nor entirely "that."
 
 By knowing yourself, you see them all.
@@ -268,7 +266,7 @@ The disheveled cadet stands frozen in place, staring out at the sky.
 **Liang Yue:** Qiángliáng.
 
 A deep, resonant call echoes from the depths of her memory.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -276,7 +274,7 @@ A deep, resonant call echoes from the depths of her memory.
 <a id="episode-2590002"></a>
 ## 2590002 · Commencement of Winter
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Liang Yue's Father:**Get up.
 
 **Liang Yue's Father:**Get up!
@@ -534,7 +532,7 @@ The air feels as thick as glue between them, smelling like a dull mix of old pap
 **Liang Yue:** I think you're making a mistake.
 
 **Liang Yue:** I'm just doing my duty as an officer of the law.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -542,7 +540,7 @@ The air feels as thick as glue between them, smelling like a dull mix of old pap
 <a id="episode-2590003"></a>
 ## 2590003 · Light Snow
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Liang Yue:** When I take on a case, I see it through.
 
 **Liang Yue:** Anything this might have to do with me is ... It's not important. You're just overthinking things.
@@ -800,7 +798,7 @@ There's a color of disappointment in his voice.
 **Deputy Chief Elden:** We need you.
 
 **Liang Yue:** Understood.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -808,7 +806,7 @@ There's a color of disappointment in his voice.
 <a id="episode-2590004"></a>
 ## 2590004 · Winter Solstice
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Eyewitness:** It was just here! It had this enormous tail, and it tore into the ground, sparks flying everywhere.
 
 **Eyewitness:** Oh, oh! My god, that's what's causing these tremors, isn't it?
@@ -1138,7 +1136,7 @@ A child hero with an unknown mission rides in from the horizon.
 **Poitier:** Thank God! You're awake!
 
 **Liang Yue:** What happened to me?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1146,7 +1144,7 @@ A child hero with an unknown mission rides in from the horizon.
 <a id="episode-2590005"></a>
 ## 2590005 · Severe Cold
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Arcane Affairs Officer I:** Alpha Team is in position. Initial scans suggest no risk of aftershocks. Permission granted to proceed with further support.
 
 **Arcane Affairs Officer II:** Case ID 2085C39570. Target is now under control. The Transport Team will deliver it to the lab for further analysis.
@@ -1398,7 +1396,7 @@ Fox nuts, poria, angelica, bupleurum—all weighed carefully, gram by gram, diss
 The ache in her throat connects both past and present.
 
 The bitterness lingers in her nose.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1406,7 +1404,7 @@ The bitterness lingers in her nose.
 <a id="episode-2590006"></a>
 ## 2590006 · Commencement of Spring
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Liang Yue:**It moved, Grandfather! Lift the pole!
 
 **Grandfather:**Oh, that's not a fish biting, just the wind picking up.
@@ -1624,7 +1622,7 @@ Fortunately, it also paves the way to deeper connections.
 As if trying to conceal some emotion, the instructor awkwardly twitched her nose.
 
 **Poitier:** Why certainly, Ms. Liáng.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1632,7 +1630,7 @@ As if trying to conceal some emotion, the instructor awkwardly twitched her nose
 <a id="episode-2590007"></a>
 ## 2590007 · Rain Water
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Liang Yue:** Uh, is this the switch?
 
 **Liang Yue:** Oh, the red light's on. That means it's working.
@@ -1828,7 +1826,7 @@ Thunder roars as silver streaks of lightning slither along the walls, and the he
 Part 7Rain Water
 
 Part 7Rain Water
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1836,7 +1834,7 @@ Part 7Rain Water
 <a id="episode-2590008"></a>
 ## 2590008 · Waking of Insects
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Open the way to peace everlasting.
 
 Open the way to peace everlasting.
@@ -2128,7 +2126,7 @@ Liang's Fatheras Himself
 Thank YouFor Watching
 
 Thank YouFor Watching
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---

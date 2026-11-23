@@ -7,8 +7,6 @@
 - Story units：`15`
 - Trail：`20`
 
-[UTTU](https://uttu.merui.net/story/main/chapter-2/en/?part=1)
-
 1929 · Don't forget me.
 
 ## Contents
@@ -36,7 +34,7 @@
 
 > They have been looking for you. Well, not just for chit chat, of course.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Sonetto:** Timekeeper ...
 
 **Sonetto:** Ahh ...
@@ -178,7 +176,7 @@ He looks at the cage made of thorns. Two people are locked inside, wordless.
 **???:** Shall we meet Lady Vertin as equals at the conference table?
 
 **???:** Better treatment she deserveth.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -362,7 +360,7 @@ Black Thursday
 
 > Everyone deserves their own home. The people here understand you, bond with you and always welcome you.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **???:** I have been seeking a chance to talk to you from an equal position.
 
 **???:** The name is Arcana.
@@ -490,7 +488,7 @@ She pulls out countless black lines of slime from her temple. The slime turns in
 **Arcana:** Thine eyes are not blinded, Lady Vertin.
 
 **Arcana:** Welcome home.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -652,7 +650,7 @@ Manus Vindictae is an infamous extremist organization. Holding a grudge against 
 
 > You can pluck that green orange as easily as you take her life.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Schneider:** F\*\*k ... It hurts …
 
 **Forget Me Not:** Can you stand up, Miss Schneider? Both your right hand and left leg are injured.
@@ -840,7 +838,7 @@ Pap!
 **Druvis Ⅲ:** Send her back to where she belongs.
 
 **Druvis Ⅲ:** So that they know Miss Vertin's choice.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1065,7 +1063,7 @@ Who killed the Snowy Dove? I, said the cricket. With my heart and musket I kille
 
 > D-Don 't worry! Sotheby's got everything in her mansion! You'll definitely get better!
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Special Action Team Captain:** How long before we get to the manor? Miss Sotheby, we've been driving for more than 40 minutes.
 
 **Sotheby:** Soon around the corner ahead and we're out, then ... huh!
@@ -1201,7 +1199,7 @@ Clang. Clang.
 **Sotheby:** You ...
 
 **Sotheby:** Why are you standing in front of our No. 18 vault?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1377,7 +1375,7 @@ IMPORTANT! Self-protecc Intel You Muss Not Miss!
 
 > Now I know why everyone's looking for a gastroenterologist.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Mr. Karson:** I am doing the weekly inventory check. I apologise for not welcoming you in time.
 
 **Mr. Karson:** Umm, however, what happened to your outfit, my lady?
@@ -1539,7 +1537,7 @@ COMBAT:
 **Sotheby:** I don't know what's wrong with you, Mr. Karson ... but these are not for dinner, not even food at all!
 
 **Sotheby:** These ... these ... are gold and money!!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1735,7 +1733,7 @@ COMBAT:
 
 > It helps the deceased find their way to the afterlife to keep them from lingering in the mortal world and away from the living.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Forget Me Not:** Ms. Vertin doesn't seem to have any appetite.
 
 **Forget Me Not:** Or, do you too, wonder how gold bar steak with wine and boiled silver coin tastes?
@@ -1865,7 +1863,7 @@ Only two are left at the large dining table.
 **Forget Me Not:** Our next plan concerns you.
 
 **Forget Me Not:** Follow me.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -2059,7 +2057,7 @@ Running from one crowd to another Hopping from one ship to another The green bud
 
 > This is an opportunity for the intrepid! An epic adventure and an unprecedented gamble!
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Druvis Ⅲ:** It's a nice view here.
 
 **Forget Me Not:** Indeed. Where your woods can just be seen.
@@ -2217,7 +2215,7 @@ And there is no way out.
 **Schneider:** Heh, heh, you are right, my lord.
 
 **Schneider:** Our destiny ... is her choice.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -2426,7 +2424,7 @@ To Lawrence Cavendish
 
 > Pleased to meet you again. I'm glad that everything is still useful.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Vertin:** The second, the first, and underground—altogether three secret chambers in the speakeasy. There are mainly material rooms, study rooms, and corridor on the second floor. Cross out.
 
 **Vertin:** The most likely place to park Schneider ... should be in one of the rooms on the other two floors.
@@ -2572,7 +2570,7 @@ tmr 10am. Heavy fog. Relief Shelter in the woods.
 **Vertin:** Don't open your eyes until you meet Sonetto.
 
 **Vertin:** I'll see you in the Relief Shelter.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -2809,7 +2807,7 @@ Long Night Trip
 
 > The kitty and puppy fight in the basket. Despite the constant grumbling, you know they actually don't hate each other.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Sotheby:** Okay, it's time to publish the lab results of the 42nd trial of The Chew-Chew Hallucinogen III!
 
 **Sotheby:** Tell me about what you saw?
@@ -2925,7 +2923,7 @@ COMBAT:
 **Schneider:** ...
 
 **APPLe:** She passed out! Take her inside for emergency medical attention!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -3077,7 +3075,7 @@ Everything went well, but the result doesn't seem to be what you want. Looks lik
 
 > I wish that the felt and pearls won't be soiled. I pray that a down pillow can bring sweet dreams like it always did.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Sotheby:** \*yawns\* ... So sleepy ... The Chew-Chew Hallucinogen IX is almost there ...
 
 **Sotheby:** What on earth is missing ...
@@ -3189,7 +3187,7 @@ The military officer gets angry as more and more people gather around here.
 **Forget Me Not:** You're surprised? He is just another stupid human.
 
 **Forget Me Not:** Enjoy the peace before "the Storm".
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -3335,7 +3333,7 @@ The threat has been neutralized.
 
 > The mist remained and covered everything that it could.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Vertin:** These powders are not poisonous.
 
 **Vertin:** Also the potion he's brewing doesn't do any obvious harm.
@@ -3493,7 +3491,7 @@ Depths, Scorched Woods
 **Sonetto:** Good. Repeat. **Transfer supplies. Rescue refugees**!
 
 **Sonetto:** Let's move!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -3767,7 +3765,7 @@ Fight of the bulldogs
 
 > Have the last wine before you leave. I saw the flames rising as the crowd cheered for the great festival and the wonderful heavens above.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **President Michel:** Oh, thank you, I've been starving for so long. Hmm ... not bad! Give me another potion.
 
 **Forget Me Not:** Of course, suit yourself please.
@@ -3959,7 +3957,7 @@ He gets out his wand and a disciple appears behind him.
 COMBAT:
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -4198,7 +4196,7 @@ More frightened than hurt.
 
 > The type 135 negative has appeared wherever conflict happens, from snow covered peaks to deep forests, and the wilderness within the soul.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Sonetto:** Why ... why can't the fog be cleared? ... How can we get in?
 
 **Sonetto:** I've already heard the Timekeeper's voice. She is close to us. She needs help!
@@ -4384,7 +4382,7 @@ People are coming here. This time, they are our companions.
 COMBAT:
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -4615,7 +4613,7 @@ More frightened than hurt.
 
 > Bark and fight within the confines of these muddy walls. We owe you eulogies and laurels for your bravery.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Sotheby:** Oh ...! It really hurts! I got hit!
 
 **Mr. Karson:** My Lady! Stand behind me!
@@ -4753,7 +4751,7 @@ COMBAT:
 **Vertin:** Sonetto ...
 
 **Vertin:** This time, I want to hear everyone's wishes.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -4912,7 +4910,7 @@ COMBAT:
 
 > Why left these clothes at the dining table and the floor? Someone should clean them up quickly.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Sotheby searches all over the place, and stops before the crucible.
 
 **Sotheby:** Wow ...! How could there be such a big crucible! Amazing!
@@ -5156,7 +5154,7 @@ She stands on her feet, runs towards Vertin and falls into her embrace gently. N
 **Schneider:** Don't forget me.
 
 **Schneider:** Don't forget my heartbeat on the right.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>

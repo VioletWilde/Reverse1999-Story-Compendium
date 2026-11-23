@@ -7,8 +7,6 @@
 - Story units：`4`
 - Trail：`0`
 
-[UTTU](https://uttu.merui.net/story/other/uttu1_1/en/?part=1)
-
 A gathering of arcanum.
 We read and we learn.
 
@@ -24,7 +22,7 @@ We read and we learn.
 <a id="episode-90002401"></a>
 ## 90002401 · Volume I
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Pickles:** Woof woof ... \<Wendy's bouncy ball should be here ...\>
 
 **Pickles:** Woo, woof ... \<Wait, I think I see it ...\>
@@ -140,7 +138,7 @@ The dog shakes his fur, a booklet tucked under his collar by one of the newsboys
 **Diggers:** I think he's trying to tell you ... "Here is one!"
 
 This is the beginning of the Flash Gathering and its readers.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -148,7 +146,7 @@ This is the beginning of the Flash Gathering and its readers.
 <a id="episode-90002402"></a>
 ## 90002402 · Volume II
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Pickles:** Woof woof ... \<The World Cup were canceled twice after that ...\>
 
 **Diggers:** Oh, the love for soccer would not be erased by warfare! It's true that I have never supported any of these teams, but I will stand with them till the end!
@@ -172,7 +170,7 @@ The dog clearly has no intention to interrupt the artist's moment of self-apprec
 **Pickles:** Woof woof ... \<So the World Cup is not just a "noisy group activity" ... \>
 
 **Pickles:** Mmm. \<This really broadens my horizon.\>
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -180,7 +178,7 @@ The dog clearly has no intention to interrupt the artist's moment of self-apprec
 <a id="episode-90002403"></a>
 ## 90002403 · Volume III
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Diggers:** Wow ...! Bravo! Nice shot!
 
 He yells and shouts, cheering enthusiastically. But there's no pitch, no players; only one book opened before him, pages fluttering.
@@ -232,7 +230,7 @@ The young lady gazes at the dazzling golden cup on the cover, her fingertips slo
 The paper flutters.
 
 **Melania:** Perhaps ... "Ramirez" has never left me.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -240,7 +238,7 @@ The paper flutters.
 <a id="episode-90002404"></a>
 ## 90002404 · Volume IV
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Pickles:** Mmm. \<This is the last page.\>
 
 **Pickles:** Woo, mm. \<Till this day, they have seen many wonders.\>
@@ -288,7 +286,7 @@ She watches the crowd slowly move to the street corner.
 **???** "From one winner to another, the glory stays on.
 
 **???** This is not yet the end of the story.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---

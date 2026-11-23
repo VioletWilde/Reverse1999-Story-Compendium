@@ -7,8 +7,6 @@
 - Story units：`6`
 - Trail：`1`
 
-[UTTU](https://uttu.merui.net/story/main/chapter-5sp/en/?part=1)
-
 1914 · Who led us to the exile in this cave.
 
 ## Contents
@@ -27,7 +25,7 @@
 
 > With a shake of her head, the little white duck finds the goldcrest.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 SPDM Library
 
 **Sotheby:** Wow! So this is the library in Vertin's school!
@@ -277,7 +275,7 @@ This monitor assistant, who always claims to have a cool head, has never panicke
 **Matilda:** It's a report written by someone who witnessed the "Storm"!
 
 **Matilda:** And it has recorded the "Storms" before Vertin became the Timekeeper?!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -550,7 +548,7 @@ This monitor assistant, who always claims to have a cool head, has never panicke
 
 > After a terribly heavy downpour, it's hard to stay calm.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Sotheby:** Before she became the Timekeeper?
 
 **Sotheby:** Whoa! So, Vertin wasn't born a Timekeeper!
@@ -656,7 +654,7 @@ She stops turning the pages.
 **Matilda:** Wait, wait.
 
 **Matilda:** A school of arcanists who survived the "Storm"?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -785,7 +783,7 @@ She stops turning the pages.
 
 > Most of the time, language barriers are the least significant obstacles between people.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Matilda:** A mixture of arcanum and mathematics, the ship on the Mediterranean ...
 
 **Matilda:** Unbelievable! Our investigator actually met this group of arcanists who believed in numbers and even left such a precious record down on paper.
@@ -945,7 +943,7 @@ An ambitious smile spreads over her face.
 **Matilda:** You've perfectly accomplished the task from me when you found this valuable report. Well done, Assistant Sotheby.
 
 **Matilda:** Now it's time for the Great Matilda to show a little bit of her greatness!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1128,7 +1126,7 @@ An ambitious smile spreads over her face.
 
 > You will meet countless great diviners before the real answer is revealed.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Laplace Scientific Computing Center
 
 There is no moonlight during the daytime.
@@ -1340,7 +1338,7 @@ This is where the vision leads them to—the room next to the Racket Ball Center
 Squeak—
 
 She opens the door with a slight push.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1629,7 +1627,7 @@ Rain Within Reach
 
 > That invisible hand, raised up high, easily plucks a star from the sky.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 ???
 
 The light is dim here.
@@ -1921,7 +1919,7 @@ She turns to the door with a faint smile.
 Click.
 
 The door is closed.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -2236,7 +2234,7 @@ The door is closed.
 
 > A new steam whistle sounds. By all means, board the ship.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The dramas have ended.
 
 All is profoundly hushed in this cold and dark room.
@@ -2372,7 +2370,7 @@ This is the last code he didn't give anyone.
 **Writer of the Report:** One thing is for sure now ...
 
 **Writer of the Report:** The age of humans has come to an end.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>

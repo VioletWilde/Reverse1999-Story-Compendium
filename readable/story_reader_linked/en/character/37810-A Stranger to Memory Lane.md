@@ -7,8 +7,6 @@
 - Story units：`9`
 - Trail：`0`
 
-[UTTU](https://uttu.merui.net/story/character/ms_stranger/en/?part=1)
-
 Sleep. Dissolve into scales, leaving only a moment of radiance.
 Waking. Discern the false memories, and find only a hollow blank.
 Existence. I confirm that I still exist.
@@ -30,7 +28,7 @@ Existence. I confirm that I still exist.
 <a id="episode-3781001"></a>
 ## 3781001 · Mental Autolysis
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Mesmer Jr.:** Relax. This is just a psych evaluation.
 
 Consultation Room, Rehab Center
@@ -236,7 +234,7 @@ Seeing she's getting nowhere, Mesmer Jr. cuts off the memory.
 **Ms. Stranger:** Because I met an alien that day.
 
 **Mesmer Jr.:** What?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -244,7 +242,7 @@ Seeing she's getting nowhere, Mesmer Jr. cuts off the memory.
 <a id="episode-3781002"></a>
 ## 3781002 · Artificial Metamorphosis
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Ms. Stranger:** That was ten years ago.
 
 ???
@@ -422,7 +420,7 @@ Silhouettes manifest around the red lights—the Mothmen.
 **Ms. Stranger:** But the Mothmen ... They are natural masters of espionage. Any Foundation official would be ecstatic to receive their "gift."
 
 **Ms. Stranger:** I proved it the minute I joined the Foundation.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -430,7 +428,7 @@ Silhouettes manifest around the red lights—the Mothmen.
 <a id="episode-3781003"></a>
 ## 3781003 · Ganglionic Control
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Banquet Hall
 
 **"Lily":** Thank you so much for inviting me today, Mr. Mountbatten.
@@ -594,7 +592,7 @@ The young agent doesn't hesitate. She reaches out and brushes a practiced hand a
 **Ms. Stranger:** As though I were living in the light parts of the Mothmen's cartoons, quiet and peaceful. A smile rarely left my face.
 
 **Ms. Stranger:** It was a happy memory, I'd say.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -602,7 +600,7 @@ The young agent doesn't hesitate. She reaches out and brushes a practiced hand a
 <a id="episode-3781004"></a>
 ## 3781004 · Hardly Herself
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Forget Me Not:** Are you ready, Ms. Grace?
 
 **Forget Me Not:** Don't be afraid when you put it on.
@@ -922,7 +920,7 @@ We'll deal with that when the time comes.
 **Ms. Stranger:** They might have been real to others, but not to me.
 
 **Ms. Stranger:** They weren't mine to have.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -930,7 +928,7 @@ We'll deal with that when the time comes.
 <a id="episode-3781005"></a>
 ## 3781005 · All Her Memories
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Countryside, Texas
 
 **Collaborator:** Grace, give me the toy!
@@ -1092,7 +1090,7 @@ Again, we'll deal with it when the time comes.
 **Ms. Stranger:** Or perhaps it was Grace, enjoying her life of status and privilege.
 
 **Ms. Stranger:** No matter when that interest began, or for whom, it died that day.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1100,7 +1098,7 @@ Again, we'll deal with it when the time comes.
 <a id="episode-3781006"></a>
 ## 3781006 · A Golem in the Cocoon
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Ms. Stranger:** Everything that happened afterwards, both on the "Free Breeze" and in Antarctica, is already documented in Vertin's reports.
 
 **Ms. Stranger:** That's all I remember from the first time I wore the mask.
@@ -1240,7 +1238,7 @@ Within the memory, she takes a deep, steadying breath.
 **Arcana:** Let us save the answer for next time, for the day of thy true return, my Stranger.
 
 **Ms. Stranger:** Harrrgh! \*cough\*
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1248,7 +1246,7 @@ Within the memory, she takes a deep, steadying breath.
 <a id="episode-3781007"></a>
 ## 3781007 · The Shem is Removed
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Ms. Stranger:** And that was the end of it. Arcana let me go because she expects me to come back and serve her regardless.
 
 **Mesmer Jr.:** \*sigh\*
@@ -1438,7 +1436,7 @@ An unexpected form of address.
 **Constantine:** Which identity is speaking right now?
 
 **Ms. Stranger:** There's only one person standing in front of you. She's called "Stranger."
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1446,7 +1444,7 @@ An unexpected form of address.
 <a id="episode-3781008"></a>
 ## 3781008 · Almost Herself
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The Wilderness's weather is unpredictable. Sometimes, endless snow falls in a single spot.
 
 **Ms. Stranger:** Pupa, an innocent, well-behaved child. By the time Madam Constantine met me, I was already ten.
@@ -1594,7 +1592,7 @@ Whether from the weight of this monumental decision or simply the cold, exhausti
 **Vertin:** You mustn't—not here!
 
 But in the end, there is no choice but to leave her dozing in the snow and alert some caretakers to her location.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1602,13 +1600,13 @@ But in the end, there is no choice but to leave her dozing in the snow and alert
 <a id="episode-3781009"></a>
 ## 3781009 · The Rustle of Moth Scales
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 ***
 
 **GAMEPLAY ONLY**
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---

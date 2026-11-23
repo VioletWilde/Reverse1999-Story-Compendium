@@ -7,8 +7,6 @@
 - Story units：`9`
 - Trail：`0`
 
-[UTTU](https://uttu.merui.net/story/character/tooth_fairy/en/?part=1)
-
 People name lasting wounds that never leave as scars, and call lasting memories that never fade as stories.
 And within this light yet weighted bag of woven yarn, one finds nothing but some teeth.
 
@@ -29,7 +27,7 @@ And within this light yet weighted bag of woven yarn, one finds nothing but some
 <a id="episode-90000901"></a>
 ## 90000901 · A Forgotten Place
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Vertin:** This is ...?
 
 **Vertin:** It's empty.
@@ -73,7 +71,7 @@ And within this light yet weighted bag of woven yarn, one finds nothing but some
 **Sonetto:** Ms. Tooth Fairy, we will do our best to keep an eye on those scattered teeth for you.
 
 **Vertin:** ... Mind the gap between your feet and the branches. Beware of those who slumber in the middle of the road.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -81,7 +79,7 @@ And within this light yet weighted bag of woven yarn, one finds nothing but some
 <a id="episode-90000902"></a>
 ## 90000902 · Route 66
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Horropedia:** 10.5 inches, fresh root, slightly decayed ... Oh! The saliva ... presumably it's from a ... or say, that giant carbuncle.
 
 **Horropedia:** But it could also be another speciality of Green Lake! For my personal taste, though, monster horror is obviously of a lower class.
@@ -247,7 +245,7 @@ Route 66 runs across the American continent. By then it has long been one of the
 When I think about it now ...
 
 I wish I had never got this blood-stained baby tooth.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -255,7 +253,7 @@ I wish I had never got this blood-stained baby tooth.
 <a id="episode-90000903"></a>
 ## 90000903 · Empty Glass Jar
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Tooth Fairy:** Huh ... Huh ...
 
 **Tooth Fairy:** ... Humerus ... and pelvis, fracture deformity ...
@@ -481,7 +479,7 @@ Gradually he's breathing well, and my nerves finally relaxed for a moment.
 I saw him turn over with difficulty under the quilt.
 
 **John:** Can you please ... meet my Mom later ...?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -489,7 +487,7 @@ I saw him turn over with difficulty under the quilt.
 <a id="episode-90000904"></a>
 ## 90000904 · Rearview Mirror
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **John:** Mom!
 
 **John's Mother:** John! Why did you ...
@@ -635,7 +633,7 @@ I saw the boy's figure in the rearview mirror getting smaller and smaller, and f
 That fake Ropen's tooth is still a treasure among my collections.
 
 Even for a while after that, it was worth more than anything else.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -643,7 +641,7 @@ Even for a while after that, it was worth more than anything else.
 <a id="episode-90000905"></a>
 ## 90000905 · Baby Tooth and Wisdom Tooth
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Motel is not a good place to take a break.
 
 In my experience, dreams that faithfully rebuild reality are no better than nightmares.
@@ -781,7 +779,7 @@ The whole process was quick, complete, and painless, along with the sweetness of
 At that time I decided on my own path, though not able to understand if it's right.
 
 But undoubtedly, it saved me from myself.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -789,7 +787,7 @@ But undoubtedly, it saved me from myself.
 <a id="episode-90000906"></a>
 ## 90000906 · Mellophine
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 DING RING …
 
 **Tooth Fairy:** Hm ... Hello?
@@ -971,7 +969,7 @@ Was it a hint given by fate? How else could everything have pushed me forward so
 **Tooth Fairy:** I'll submit the application to join the project as soon as possible. Probably ... by tomorrow afternoon.
 
 I heard the rough sound of my baby tooth rubbing against my wisdom tooth in the flannel pouch.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -979,7 +977,7 @@ I heard the rough sound of my baby tooth rubbing against my wisdom tooth in the 
 <a id="episode-90000907"></a>
 ## 90000907 · Volunteer
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Tooth Fairy:** Good ... No. 2 is in good state.
 
 **Tooth Fairy:** Healthy teeth.
@@ -1085,7 +1083,7 @@ Beneath its white fur lied a tiny tooth that came from nowhere.
 Now I might have had a million premonitions and suspicions.
 
 But back then I simply hung up the phone, and put it in my pouch.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1093,7 +1091,7 @@ But back then I simply hung up the phone, and put it in my pouch.
 <a id="episode-90000908"></a>
 ## 90000908 · Voicemail
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Crowd:** Whoo hoo ...!
 
 **Crowd:** To ... Mellophine!
@@ -1263,7 +1261,7 @@ Beep ...
 **Phone:** Oh, right ... this is ... this is John.
 
 **Phone:** Goodbye.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1271,7 +1269,7 @@ Beep ...
 <a id="episode-90000909"></a>
 ## 90000909 · Initial Invitation
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Professor Evan:** You're the one who submitted the interception application?!
 
 **Professor Evan:** It will come into the market soon ... with not even an objection from the head of FDA.
@@ -1423,7 +1421,7 @@ Campbell's House
 **Mrs. Campbell:** But I'll put it right here ... in case you change your mind.
 
 **Mrs. Campbell:** Take it any time as you wish.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---

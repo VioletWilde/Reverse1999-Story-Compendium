@@ -7,8 +7,6 @@
 - Story units：`16`
 - Trail：`8`
 
-[UTTU](https://uttu.merui.net/story/event/S02/en/?part=1)
-
 
 
 ## Contents
@@ -37,7 +35,7 @@
 
 > Stay curious and keep rolling. We have arrived in a new world.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 A researcher darts through the halls of a silvery-white building, leading his companions to the end of a corridor.
 
 **Mesmer Jr.:** "Stage in the Rain"?
@@ -187,7 +185,7 @@ She takes the communicator from X.
 **X:** Thank you, Madam Lucy. I'll endeavor to bring you back a souvenir.
 
 **Lucy:** I will look forward to it. Have a safe journey.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · X's Experiment Record
 
@@ -333,7 +331,7 @@ Authorized by: The Politburo
 
 > The skies are clear, no signs of rain.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Vortex Train
 
 A Maglev train glides along a thin track, feeling almost as if it were weaving through the air. Within the carriage of the Vortex, passengers converse among themselves in hushed tones.
@@ -567,7 +565,7 @@ Vertin: This place really is like what the prediction indicated—a world that c
 **Vertin:** I think I'm the only one that feels out of place here, "Doctors."
 
 **X:** Ah, well, here's to a pleasant trip.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -818,7 +816,7 @@ Six steel cables shoot out from the Bumblebee and attach to the Turbine, lifting
 
 > But something else lies beyond that distant horizon.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Turbine:** We have arrived at your destination, the Polymer Exhibition Hall. Please be careful when exiting the vehicle.
 
 Entrance, Polymer Exhibition Hall
@@ -1106,7 +1104,7 @@ Sechenov smiles with a nod before changing the topic back to the visitors.
 X pulls out the broken communicator.
 
 **X:** Do you have any idea where we could get this device fixed?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1116,7 +1114,7 @@ X pulls out the broken communicator.
 
 > Please mind your language in public.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Mechanical Voice:** Access granted.
 
 Assembly Room, Polymer Exhibition Hall
@@ -1398,7 +1396,7 @@ Right finishes speaking, and the two robots gracefully depart. The door slams cl
 **Mesmer Jr.:** ...
 
 **Mesmer Jr.:** \*sigh\* Why would I expect either of you to follow orders? I've done your psych evals.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1675,7 +1673,7 @@ Right finishes speaking, and the two robots gracefully depart. The door slams cl
 
 > The dead speak and are surprisingly calm about their predicament.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Hallway, Polymer Exhibition Hall
 
 After listening for any movement outside, the young visitors slip out of the assembly room.
@@ -1835,7 +1833,7 @@ Left gracefully picks up the deceased scientist.
 **Left:** Your theory is interesting, comrade. But further investigation will have to wait for now.
 
 **Left:** Please follow me, comrades. I will escort you somewhere safe.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1845,7 +1843,7 @@ Left gracefully picks up the deceased scientist.
 
 > A loyal soldier with a penchant for foul language and deep-fried critters.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Main Exhibition Hall, Polymer Exhibition Hall
 
 The trio follows Left into the exhibition hall's main gallery.
@@ -2027,7 +2025,7 @@ He opens his hand to reveal a teleport disk, flashing a devilish grin at the Twi
 As soon as the words leave his lips, a blinding light envelops the trio. Then just as quickly as it appeared, the light vanishes, taking the three visitors along with it.
 
 **P-3:** Errrr. Was that magic?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -2037,7 +2035,7 @@ As soon as the words leave his lips, a blinding light envelops the trio. Then ju
 
 > The dead are not truly gone so long as they are remembered.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 A flash of light materializes in empty space, sending three figures tumbling into a vast golden plain.
 
 **Vertin:** \*panting\*
@@ -2297,7 +2295,7 @@ Tamara sets the picture frame back down.
 Mesmer Jr. lifts the picture frame.
 
 **Mesmer Jr.:** We saw this person at the summit.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -2307,7 +2305,7 @@ Mesmer Jr. lifts the picture frame.
 
 > Purpose can be sustained by either love or hate.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Tamara:** You mean little Vanya? Are you sure?
 
 **Mesmer Jr.:** That journalist we met—he called himself Maxim—he had the same scar on his forehead.
@@ -2557,7 +2555,7 @@ X's Belyash stands up to see the kindhearted ladies off.
 **X:** Let's go, pup.
 
 **Belyash:** ...
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -2567,7 +2565,7 @@ X's Belyash stands up to see the kindhearted ladies off.
 
 > There's no time to mourn the past.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Assembly Room, Polymer Exhibition Hall
 
 Noise and chaos fill the exhibition hall again—as P-3 and the Twins deal with their escalating situation.
@@ -2831,7 +2829,7 @@ Mesmer Jr. and X have put on hazmat suits and safety goggles borrowed from the a
 Mesmer Jr. and X nod in unison and begin working on the THOUGHT Device.
 
 **P-3:** I guess that means the summit's back on.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -2841,7 +2839,7 @@ Mesmer Jr. and X nod in unison and begin working on the THOUGHT Device.
 
 > Make it simple for me.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Vertin:** ...
 
 The Twins run along a damaged corridor, followed by the visitor and the repurposed Belyash.
@@ -3025,7 +3023,7 @@ Mesmer shoots a sudden frown at X, already guessing at his plan.
 **X:** We extract a reduced dosage of the neurotoxin and inject it into me. Then we test out the antidotes systematically until one works.
 
 **Mesmer Jr.:** \*sigh\* You already sound insane.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -3035,7 +3033,7 @@ Mesmer shoots a sudden frown at X, already guessing at his plan.
 
 > A noble cause may call for sacrifice; vengeance demands it.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **P-3:** Gutsy move. But are you sure about this, kid?
 
 **P-3:** Besides, how do we know your device hasn't already triggered? If we inject more of that stuff into you, even an antidote might not be enough.
@@ -3213,7 +3211,7 @@ He draws a pistol out of his pocket.
 **Maxim:** One shot of lead to end the suffering of a hopeless man in this hopeless country!
 
 **Vertin:** Maxim! No!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -3223,7 +3221,7 @@ He draws a pistol out of his pocket.
 
 > There is strength in numbers, especially when you have a lot of windows to break.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Scientist VII:** Ugh ... Ugh ...
 
 One by one, the other scientists volunteer themselves. They come wordlessly and resigned to do or die for the good of all the others. The only sound in the room is the dull moaning of the insane.
@@ -3411,7 +3409,7 @@ The number of candidates dwindles.
 **X:** Appreciated, Vertin. I'll fortify the room as best as I can. We should be able to hold out for now.
 
 **Mesmer Jr.:** Alright, I'll guide you in.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -3421,7 +3419,7 @@ The number of candidates dwindles.
 
 > The depths of a soul trapped in the past.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Child:** Mama, when will you be back?
 
 **Doctor:** Before you know it, Vanya.
@@ -3697,7 +3695,7 @@ No ... Don't leave me alone ...
 We seem to be getting closer to the answer.
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -3707,7 +3705,7 @@ We seem to be getting closer to the answer.
 
 > Sink in or evaporate.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Maxim:** \*choke\*
 
 Countless Chirpers fall like raindrops, each playing a different voice.
@@ -3901,7 +3899,7 @@ As it does, the Twins begin to stir.
 **P-3:** Seems like a question for another time, though. You two should get yourselves repaired. I don't want the boss to blame me for you ladies falling apart.
 
 **P-3:** Damn. There is something familiar about that song, isn't there?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -3911,7 +3909,7 @@ As it does, the Twins begin to stir.
 
 > We must learn from those who have fallen or risk falling again.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Chelomey Complex
 
 As the launch day of Kollektiv 2.0 nears, Chelomey is decked out in festive decorations, and the people pour into the streets to celebrate.
@@ -4073,7 +4071,7 @@ As a gun salute sounds, countless balloons fly into the sky, and a great cheer g
 **Vertin:** Have you decided on a souvenir for Madam Lucy?
 
 **X:** Um, well ...
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -4083,7 +4081,7 @@ As a gun salute sounds, countless balloons fly into the sky, and a great cheer g
 
 > The future lies ahead, but will it bring new advancements or devastation?
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **X:** Hm ...
 
 **Vertin:** That is unexpected.
@@ -4161,7 +4159,7 @@ Soon the laboratory quiets down.
 Lucy removes her human mask, revealing her expressionless metallic face beneath. Yet the red light pulses, pondering the future.
 
 In that moment, standing on the bridge between two worlds, two forms of inorganic life discuss the very nature of being.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---

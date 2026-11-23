@@ -7,8 +7,6 @@
 - Story units：`16`
 - Trail：`21`
 
-[UTTU](https://uttu.merui.net/story/main/chapter-3/en/?part=1)
-
 1913 · Have a nice dream.
 
 ## Contents
@@ -37,7 +35,7 @@
 
 > Hands up and answer the question. A delicate badge will be given to the best student.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **???:** What arcanists regard to be more important is the knowledge from another pathway, which is often known as Gnosis. Compared with mankind's knowledge gained from reasoning, what are the features of Gnosis?
 
 **???:** Sonetto.
@@ -147,7 +145,7 @@ The instructor walks down from the podium.
 **Matilda:** Miiiiss, I know the answer!
 
 **Matilda:** It is Chaldean Oracles!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -388,7 +386,7 @@ Thorny, and pure-blooded.
 
 > Pebbles, frogs, the attic with stinky socks... They're just a teeny tiny part of the whole world.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The last class is over.
 
 Students leave the classroom with their friends in groups.
@@ -508,7 +506,7 @@ The ward becomes silent again. There are barely any other sounds except the slig
 She shakes her head; her eyes shift onto the screen.
 
 The psychube amplitude is leaping in a repeated, fixed pattern; Vertin doesn't give her response.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -697,7 +695,7 @@ The petite ones that are good at jumping often hang around lakes or groves. They
 
 > It is immoral to stalk others, and we all know that.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Sonetto:** Hello, this is Sonetto, the chief assistant of the Foundation's Timekeeper. My employee number is SF38000000801102Y. Could you please register a visit to Ward 1525 for me?
 
 **Receptionist:** Please present your ID.
@@ -847,7 +845,7 @@ Sonetto feels it is slipping away from her grasp, so she pulls out her wand ...
 COMBAT:
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1014,7 +1012,7 @@ Sonetto feels it is slipping away from her grasp, so she pulls out her wand ...
 
 > The new blood will rush into the gigantic body, making every effort to serve it.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Sonetto:** Ma-Matilda ...? It's you?
 
 **Sonetto:** I'm sorry! I-I ... thought it was someone suspicious, so ...
@@ -1148,7 +1146,7 @@ Madam Z places a stack of files on the desk.
 **Constantine:** I'm always the optimist in the room, and you know that, Ms. Z.
 
 **Constantine:** This won't so much be a dead plan if one day they can prove they are not some dumb puppets.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1305,7 +1303,7 @@ Madam Z places a stack of files on the desk.
 
 > Bodies breaking down into pieces, in tetrahedrons and cubes. Your head is a pretty octahedron.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Matilda:** \*deep breath\* Easy now, easy ...
 
 **Matilda:** I didn't follow anyone. I was just taking a walk in the hallway as usual. SHE was the ill-intentioned one ...
@@ -1467,7 +1465,7 @@ The screen suddenly lights up.
 Particle groups start to flow on the screen—it is a dream initiated by the owner of the body.
 
 **Mesmer Jr.:** Huh?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1677,7 +1675,7 @@ George the Oak, George the Oak. An acorn between the branches falls from above. 
 
 > So she mustered the courage and jumped high into the air. That was when the seed was planted in her heart.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Principal:** In 388 B.C., standing in the garden paths of the Athens, there was an academia of philosophers.
 
 **Principal:** Thirty-six human ideologists present that day were thinking about the ever-present old question, just as you are ...
@@ -1893,7 +1891,7 @@ This is when a handkerchief comes in handy. It would make a good mask and glove.
 COMBAT:
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -2143,7 +2141,7 @@ Hunger, silence, the dim light, and a little trouble. Aside from these elements,
 
 > Grease, starch and meat. It's the fish and chips we all like.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Vertin:** Finally, get them all to the corner.
 
 Grr—
@@ -2365,7 +2363,7 @@ Squeak, squeak.
 COMBAT:
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -2582,7 +2580,7 @@ Lemon and white vinegar are both good choices, but Atlantic cod is always necess
 
 > They fall like snowflakes, bringing with it horrible news and whispers of temptation.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Someone is at the door.
 
 **Z:** Madam Vice President.
@@ -2726,7 +2724,7 @@ As soon as Andrew lowers his head, Lilya's Su-01ве rips the Olitiaus' abdomina
 COMBAT:
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -2904,7 +2902,7 @@ An air combat broom of the Su-01ве (Witch) series for individual combat. With 
 
 > A beautiful tree that brings shade and reassuring blessing.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 A wrinkled note is passing in the class.
 
 It begins its journey from the second-to-last row, and soon visits every seat in the classroom.
@@ -3006,7 +3004,7 @@ Children scatter and run away.
 There's an empty classroom right next to her. A good place to hide.
 
 The clamor subsides. The hallway restores its peace gradually.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -3146,7 +3144,7 @@ Appendix to Foundation Potion Management Ⅱ
 
 > Gosh! I've never done anything this wild! And ... nobody has understood me this much.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 George the Oak
 
 There is a huge, dark hole in the trunk of George the Oak. The hole connects to the ground, creating a natural fortress for animals.
@@ -3336,7 +3334,7 @@ They all stood up with excitement.
 In the darkness, their hands join in silence.
 
 **Vertin:** The song ... sounds much better than it was before.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -3615,7 +3613,7 @@ These clear, glistening, rainbow-colored accessories are the favorable tokens of
 
 > A song that is not allowed used to be sung here.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Two weeks later
 
 Two weeks later
@@ -3781,7 +3779,7 @@ Pap!
 This is a song with a surprising opening and a forbidden ending.
 
 The end of the farce.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -3980,7 +3978,7 @@ The warm fur, the little feet, The orange color under the light spots, and the p
 
 > A stroke of thick smoke attacked us. Soon we were choked with tears.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Joint Committee of SF
 
 **Z:** We've investigated the event in the school.
@@ -4088,7 +4086,7 @@ Sonetto drops her head. She seems out of words.
 **Vertin:** Thank you for your kindness.
 
 **Vertin:** I hope they will have the chance to use them.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -4247,7 +4245,7 @@ Considering what you can do, it's perfect.
 
 > 7 days later, the lovely kids will face a brand new, completely different world.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 SPDM Library
 
 **Vertin:** Hello, I'm here to return this book.
@@ -4455,7 +4453,7 @@ Matilda wipes her eyes and runs towards the critters.
 COMBAT:
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -4674,7 +4672,7 @@ A horrifying tale, an ominous sign. An hatching egg. It was laid in the fire of 
 
 > Dear, it's not their fault. All the kids need is proper guidance.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Joint Committee of SF
 
 **Constantine:** You've done an excellent job, Mesmer Jr.
@@ -4814,7 +4812,7 @@ She wraps up the paper and steps away from Constantine. Her face is barely visib
 **Z:** Too bad, I'm just a scientist.
 
 **Vertin:** Change of plan. Emergency, change of plan!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -5065,7 +5063,7 @@ A plant. It was taken to the rehab center from the student dormitory. It has no 
 
 > Everyone has the right to choose their future, right?
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Vertin:** Years after, when I think of that escape ...
 
 **Vertin:** Still feels like I was in a chess game, playing against an invisible enemy.
@@ -5301,7 +5299,7 @@ A stone wall is slowly put down before Sonetto.
 Her face gradually disappears on the other side of the door.
 
 **Sonetto:** ... It was a pleasure to be your deskmate, Vertin.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -5562,7 +5560,7 @@ Red squirrels and woodpeckers
 
 > We smelled food, we heard thunder, we saw the world of freedom. Everything is cheering for you and me.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Student B:** Did you hear it? Did you hear it?
 
 **Student B:** It's the rain! It's raining outside!
@@ -5646,7 +5644,7 @@ Vertin.
 **Z:** Do you want to be ... the Timekeeper?
 
 **Constantine:** Heh, checkmate.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>

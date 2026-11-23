@@ -7,8 +7,6 @@
 - Story units：`8`
 - Trail：`0`
 
-[UTTU](https://uttu.merui.net/story/character/noire/en/?part=1)
-
 The lights are dim and the chairs are soft,
 Please, take a seat.
 Forget the spilled popcorn in the corner
@@ -32,7 +30,7 @@ This is a truth bittersweet.
 <a id="episode-2591000"></a>
 ## 2591000 · N/A
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Noire:** The art of storytelling in film began the moment directors realized the audience could weave meaning between scenes.
 
 **Noire:** Thus came in the technique of Montage.
@@ -88,7 +86,7 @@ After composing herself, Noire tilts to one side, her voice calm and low as she 
 **Noire:** Let's roll on over to Noire's Set.
 
 Two puppets on either side of her wheels move deftly in response, ushering Noire to her studio—"Noire's Set," as she calls it.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -96,7 +94,7 @@ Two puppets on either side of her wheels move deftly in response, ushering Noire
 <a id="episode-2591001"></a>
 ## 2591001 · Red
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 \*click\*
 
 Even in the pitch dark, Noire manages her way into the studio with ease.
@@ -354,7 +352,7 @@ Noire says as if confirming the obvious.
 **Noire:** It was my first hit, the one that really made a name for me in the industry. The film's last frame was a pure block of red. That's all it took for people to box me into a style.
 
 **Noire:** You could say that red gave me everything, but then it took it all away.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -362,7 +360,7 @@ Noire says as if confirming the obvious.
 <a id="episode-2591002"></a>
 ## 2591002 · Blue
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **???:** Ms. Noire?
 
 **???:** Vitals are stabilizing. We should begin immediate ...
@@ -650,7 +648,7 @@ Noire's brow tightens.
 **Noire:** No, it was green lights all the way. I'm sure of that.
 
 She turns to the window, catching sunlight reflecting from the trees.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -658,7 +656,7 @@ She turns to the window, catching sunlight reflecting from the trees.
 <a id="episode-2591003"></a>
 ## 2591003 · Green
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Cemetery
 
 A bundle of white paper is tossed into the brazier.
@@ -860,7 +858,7 @@ Blackened fragments of paper and gray ash intertwined with a ribbon of red below
 **Noire:** Show me what I need to see, just one last time.
 
 The heat lifts the sparks, sending them over the rich green and shimmering orange, until they vanish from view.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -868,7 +866,7 @@ The heat lifts the sparks, sending them over the rich green and shimmering orang
 <a id="episode-2591004"></a>
 ## 2591004 · Purple
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Office
 
 **Noire:** ...
@@ -1078,7 +1076,7 @@ There is palpable exhaustion in her voice.
 She stretches and, with a soft motion, taps the aqua-blue envelope.
 
 **Noire:** The doctor can wait. There's something more urgent I need to take care of.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1086,7 +1084,7 @@ She stretches and, with a soft motion, taps the aqua-blue envelope.
 <a id="episode-2591005"></a>
 ## 2591005 · Aqua
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Hospital
 
 In the bright, fragrant hallway, a nurse sets a cup of flower tea onto the low table before Noire.
@@ -1282,7 +1280,7 @@ The high heels and clacking wooden puppet steps fade away beyond an automatic do
 **Lin:** Oh, okay.
 
 There is some quiet satisfaction she takes in how her once tyrannical boss has become so dependent on her.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1290,7 +1288,7 @@ There is some quiet satisfaction she takes in how her once tyrannical boss has b
 <a id="episode-2591006"></a>
 ## 2591006 · Yellow
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Award Ceremony
 
 **Award Presenter:** And now, the films nominated for Best Director this year are—
@@ -1478,7 +1476,7 @@ Following Lin's words, Noire lets her eye mask slip down, settling down comforta
 The runway blurs beneath the plane as it speeds up, and after a fleeting moment of weightlessness, the pale dots of red and green below blur and vanish into the night.
 
 **Noire:** Goodbye, goodnight.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1486,7 +1484,7 @@ The runway blurs beneath the plane as it speeds up, and after a fleeting moment 
 <a id="episode-2591007"></a>
 ## 2591007 · White
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Mommy, watch me! I can ride a horse now!
 
 **Young Noire:**Mommy, watch me! I can ride a horse now!
@@ -1656,7 +1654,7 @@ Noire powers up the computer, and a blue glow washes over her face.
 **Noire:** Try as we might to disguise it. Stories are just lies with good marketing.
 
 **Noire:** And you are the observer to this little tale, so you alone have the power to judge.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---

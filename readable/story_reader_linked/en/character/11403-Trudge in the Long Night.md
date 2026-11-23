@@ -7,8 +7,6 @@
 - Story units：`10`
 - Trail：`0`
 
-[UTTU](https://uttu.merui.net/story/character/6/en/?part=1)
-
 He is perfect, but he is far from satisfied.
 
 ## Contents
@@ -29,7 +27,7 @@ He is perfect, but he is far from satisfied.
 <a id="episode-1140301"></a>
 ## 1140301 · The Challenger
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **210:** "A voice came from above and spoke to the man, 'An important thing will happen to you.'"
 
 The lecturer is young and proud, standing like a newly sprouted grapevine growing upright.
@@ -235,7 +233,7 @@ His speech is interrupted by a crisp clattering sound. He looks down to see a ne
 Atticus finally meets his gaze.
 
 **Atticus:** I don't have an answer to your question.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -243,7 +241,7 @@ Atticus finally meets his gaze.
 <a id="episode-1140302"></a>
 ## 1140302 · A Bottle
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 That time, we parted on poor terms.
 
 After a long while, I grew taller, the hem of my dress had risen from my ankles to my calves, and Atticus and I brought up that avoided debate again.
@@ -517,7 +515,7 @@ He turned back, nodding his head in acknowledgment.
 After that, I have never seen Atticus walking on the beach again.
 
 He began his long retreat.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -525,7 +523,7 @@ He began his long retreat.
 <a id="episode-1140303"></a>
 ## 1140303 · An Oyster Shell
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Believer :** It's time for us to go.
 
 I took a deep breath and adjusted the grapevine on my head, trying to make it look as symmetrical as possible.
@@ -807,7 +805,7 @@ This isn't what I want at all. My oyster has shriveled into a pebble.
 **Atticus:** 6s are always like that.
 
 He turns away, sidestepping my obstructing arm, and walks towards the exit, where light streams from beyond the grapevine arbor.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -815,7 +813,7 @@ He turns away, sidestepping my obstructing arm, and walks towards the exit, wher
 <a id="episode-1140304"></a>
 ## 1140304 · A Demonstration
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **37:** Ha-ha~
 
 **37:** This new dish tastes wonderful. Why has no one thought of putting fruit in sour yogurt before?
@@ -1117,7 +1115,7 @@ He's read many books, as many as a small mountain.
 His health is fine. He eats well and breathes evenly.
 
 I know nothing of his proof—but in any case, it seems to be a proof about himself.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1125,7 +1123,7 @@ I know nothing of his proof—but in any case, it seems to be a proof about hims
 <a id="episode-1140305"></a>
 ## 1140305 · The Book for Children
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Proof requires time.
 
 Atticus still hasn't fully gotten his own answer.
@@ -1271,7 +1269,7 @@ Their resentment towards one another boils past reconciliation.
 **210:** ... Fine, stick to your perspective then.
 
 210's departing footsteps intermingle with Atticus's calm narration, eventually merging into the sound of the wooden door slamming shut.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1279,7 +1277,7 @@ Their resentment towards one another boils past reconciliation.
 <a id="episode-1140306"></a>
 ## 1140306 · A House, a Shelter
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 After 210 left in anger, I heard the shouts of people as the ship set sail.
 
 This debate wasn’t planned; it inevitably disrupted the balance, like dropping a pinch of dust on one side of the scale.
@@ -1547,7 +1545,7 @@ So, I cover my ears and bend down.
 From then on, I no longer gaze at the boulder on the mountain nor look at the teetering bottle on the table.
 
 ... Until much later, when I have a brief conversation with a girl named Sophia.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1555,7 +1553,7 @@ From then on, I no longer gaze at the boulder on the mountain nor look at the te
 <a id="episode-1140307"></a>
 ## 1140307 · Method of Exhaustion
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Atticus:** Are you here to collect your sand again today?
 
 **Sophia:** Yes. The fine sand here is ideal for polishing lenses. My father's eyeglasses are just about ready.
@@ -1599,7 +1597,7 @@ It's a practical explanation—pragmatic and devoid of abstraction. This is her 
 **Atticus:** Thank you for the long talk, Sophia.
 
 A new path is carved out between the waters.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1607,7 +1605,7 @@ A new path is carved out between the waters.
 <a id="episode-1140308"></a>
 ## 1140308 · Pebbles
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Stories of fighting against fate are often not all that heart-stirring.
 
 In this story, there is no shepherd, no messenger, no Sphinx.
@@ -1653,7 +1651,7 @@ Can I withstand that transcendent force? Can I overcome its overwhelming will? I
 **Atticus:** ... But regardless, I will make my preparations.
 
 I sit at the table talking to myself.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1661,7 +1659,7 @@ I sit at the table talking to myself.
 <a id="episode-1140309"></a>
 ## 1140309 · Classical Unities
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 I see what lies behind the words.
 
 Knowledge flows from the minds of those who came before to the tips of their pens, then is inked across pages, bound into books, and preserved for the future.
@@ -1751,7 +1749,7 @@ Everything is crystal clear.
 **Atticus:** ... Now I know it all.
 
 **Atticus:** But what do I do next?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1759,7 +1757,7 @@ Everything is crystal clear.
 <a id="episode-1140310"></a>
 ## 1140310 · Underneath the Sea Level
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Since the night my mother passed away, I haven't set foot in the cemetery where she is buried.
 
 It's truly unsettling when fate presents itself in such a tangible form.
@@ -1905,7 +1903,7 @@ The paused hand gently falls and turns the page.
 **6:** "Revelation" ...
 
 **6:** It is just as simple as it is.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---

@@ -7,8 +7,6 @@
 - Story units：`8`
 - Trail：`0`
 
-[UTTU](https://uttu.merui.net/story/anecdote/зима/en/?part=1)
-
 Inside the Penumbra Can,
 Covered in a layer of dust,
 Are stories buried in the depths of time.
@@ -31,7 +29,7 @@ Are stories buried in the depths of time.
 
 > It hides so well that not even a dog can find it.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Library, Suitcase
 
 Two figures are reading, illuminated by the soft lights of the library.
@@ -129,7 +127,7 @@ Archives, Foundation
 **Sonetto:** ...?
 
 The file contains only a few pages, despite covering half of his life within it.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -252,7 +250,7 @@ The file contains only a few pages, despite covering half of his life within it.
 
 > The thick woods, glowing campfires, and plenty of agile and daring companions.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Sonetto stands under the overhead light, slowly reading aloud the words in her hands.
 
 **Sonetto:** "In 1912, the poet was charged with 'insulting the highest authorities.' He was sent to Eastern Siberia, then transferred through various prisons, and eventually exiled to a solitary island."
@@ -382,7 +380,7 @@ By now, she has fallen into a nearby chair and is sitting in contemplation. Her 
 "These quiet years lasted at least until the mid-1920s."
 
 "Until a human journalist from the government set foot in that land of the Far East."
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -511,7 +509,7 @@ By now, she has fallen into a nearby chair and is sitting in contemplation. Her 
 
 > We were not exiled. We volunteered to build our homeland far away.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Journalist:** It's so ... desolate.
 
 **Journalist:** Compared to this place, Tobolsk is like the Leningrad of Siberia.
@@ -637,7 +635,7 @@ There is a brief pause in their attack. Then, a figure leisurely steps out of th
 **???:** Sorry ...
 
 **???:** ... about ... your mother's brooch ...
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -786,7 +784,7 @@ There is a brief pause in their attack. Then, a figure leisurely steps out of th
 
 > Keep talking, just keep talking.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Journalist:** …
 
 **Journalist:**"... We grow, yet no one knows,"
@@ -936,7 +934,7 @@ Where did they come from? Is there anyone who remembers?
 **Зима:** ... \*sigh\*.
 
 **Зима:** Go back ... alone. I decline ... your offer.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1111,7 +1109,7 @@ Go back ... alone. I decline ... your offer.
 
 > There's nothing more to be said.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Зима:** …
 
 **Зима:** Please ... don't ... follow me again ...
@@ -1265,7 +1263,7 @@ The echoes reach the ears of a neatly uniformed duo, a little way away. They are
 **Investigator I:** …
 
 **Investigator I:** On those rocks up ahead.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1442,7 +1440,7 @@ The echoes reach the ears of a neatly uniformed duo, a little way away. They are
 
 > Somebody has to tell the truth, right?
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The two Foundation investigators trudge through the snow, like two cats with broken whiskers, making their way towards the rocks.
 
 **Investigator II:** It's rather crowded ... If we dug down right here, do you think we'd strike oil?
@@ -1560,7 +1558,7 @@ The howls of beasts and the cries of birds echo from the forest behind him.
 **Investigator I:** He must be. And now we know why.
 
 **Investigator I:** He's a poet.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1701,7 +1699,7 @@ The howls of beasts and the cries of birds echo from the forest behind him.
 
 > Listen, the sound of the heaven's flute draws near once more.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Beneath the cliff, a hidden conversation quietly unfolds.
 
 ... Provided that "conversation" is understood in the loosest sense of the word.
@@ -1849,7 +1847,7 @@ A distant, semi-circle; a fire held in the hands of the night, splitting sea fro
 It is bright enough to scorch the eyes, or at least enough to make them sting.
 
 Everything feels small before this vast horizon.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -2020,7 +2018,7 @@ Everything feels small before this vast horizon.
 
 > Don't worry, the future isn't all doom and gloom.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 "The poet accepted."
 
 "He completed the registration the next month, the only additional condition being that he would 'continue to stay on the island.'"
@@ -2186,7 +2184,7 @@ But a young voice says,
 A budding sprout, the branching veins of a leaf, ...
 
 The two signatures form a journey that has never been taken.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>

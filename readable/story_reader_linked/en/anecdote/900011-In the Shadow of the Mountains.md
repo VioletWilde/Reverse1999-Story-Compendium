@@ -7,8 +7,6 @@
 - Story units：`7`
 - Trail：`0`
 
-[UTTU](https://uttu.merui.net/story/anecdote/moldir/en/?part=1)
-
 Inside the Penumbra Can,
 Covered in a layer of dust,
 Are stories buried in the depths of time.
@@ -28,7 +26,7 @@ Are stories buried in the depths of time.
 <a id="episode-90001101"></a>
 ## 90001101 · Horseback Riding
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 17:00Clear
 
 Valley
@@ -147,7 +145,7 @@ While Igor fights on the front, his eldest child has been placed on another task
 
 It is said that the Akhal-Teke carries the blood of the first horses. They're stubborn, with a wild spirit. But once broken in, their loyalty is unshakable. In the East, old tales claim they could run for hundreds of miles in a single day, until their sweat turned red as blood.
 
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -155,7 +153,7 @@ It is said that the Akhal-Teke carries the blood of the first horses. They're st
 <a id="episode-90001102"></a>
 ## 90001102 · Night in the East
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 17:20Clear
 
 Military Camp
@@ -447,7 +445,7 @@ Her hand moves to her sidearm before she even thinks about it. It's a gesture lo
 **Moldir:** "I see my past."
 
 **Moldir:** "Everything that made me who I am."
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -455,7 +453,7 @@ Her hand moves to her sidearm before she even thinks about it. It's a gesture lo
 <a id="episode-90001103"></a>
 ## 90001103 · The Bullet and the Farewell
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 19:30Clear
 
 Military Camp
@@ -623,7 +621,7 @@ Two emotions cross her face and battle beneath the surface: nostalgia and regret
 **Moldir:** "The last time I saw her, we had raised our guns toward one another."
 
 **Moldir:** "She said goodbye with a bullet. It was her way of returning the one I shot at her in the rain."
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -631,7 +629,7 @@ Two emotions cross her face and battle beneath the surface: nostalgia and regret
 <a id="episode-90001104"></a>
 ## 90001104 · Golden Peaches
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 19:30Clear
 
 Military Camp
@@ -770,7 +768,7 @@ She casts a glance at the soldiers singing and dancing with the villagers.
 
 For months, she hasn't had a moment's rest, working to keep her people together, backing her father, and at times fretting over the sister who chose a different path.
 
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -778,7 +776,7 @@ For months, she hasn't had a moment's rest, working to keep her people together,
 <a id="episode-90001105"></a>
 ## 90001105 · The Rain
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 19:50Clear
 
 Military Camp
@@ -949,7 +947,7 @@ A fallen Zeno soldier. Lost at sea at 20 years of age after the Cape of Good Hop
 
 A fallen Zeno soldier. Killed in action at 22 years of age in the southern Balkans on November 25th, 1912.
 
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -957,7 +955,7 @@ A fallen Zeno soldier. Killed in action at 22 years of age in the southern Balka
 <a id="episode-90001106"></a>
 ## 90001106 · The Song
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 20:20Clear
 
 Military Camp
@@ -1109,7 +1107,7 @@ Decisive and resolute.
 **Moldir:** "Just like her dice games, she could lose every time and never regret it, no matter how badly she lost."
 
 **Moldir:** "Perhaps while I was away, she really grew up."
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1117,7 +1115,7 @@ Decisive and resolute.
 <a id="episode-90001107"></a>
 ## 90001107 · Autumn
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 8:00Clear
 
 Military Camp Office
@@ -1269,7 +1267,7 @@ The lieutenant's command cuts through the air. At the valley's edge, her soldier
 The troop falls into formation, silently waiting for whatever order comes next.
 
 **Moldir:** "Forward!"
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---

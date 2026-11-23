@@ -7,8 +7,6 @@
 - Story units：`6`
 - Trail：`0`
 
-[UTTU](https://uttu.merui.net/story/main/chapter-0/en/?part=1)
-
 1966 · The Storm is coming.
 
 ## Contents
@@ -25,7 +23,7 @@
 <a id="episode-30101"></a>
 ## 30101 · Rock 'n' Roll Radio
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 IT ELUDED US THEN, BUT THAT'S NO MATTER—TOMORROW WE WILL RUN FASTER,
 
 STRETCH OUT OUR ARMS FARTHER....AND ONE FINE MORNING———
@@ -137,7 +135,7 @@ She scrambles to dispel the mute incantation on the captives.
 **Regulus:** Ahh ...
 
 **Regulus:** Protect the records!!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -265,7 +263,7 @@ our love for freedom ever!
 <a id="episode-30102"></a>
 ## 30102 · King's Trail
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Sonetto:** Regulus's ship's been sunk.
 
 **Sonetto:** Landed ... Good. They landed safely.
@@ -483,7 +481,7 @@ We did it ...! We broke out of the enemy's encirclement …
 Thank you for your decisiveness, Timekeeper.
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -650,7 +648,7 @@ I'll help you out. Don't worry.
 <a id="episode-30103"></a>
 ## 30103 · Teleport
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Sonetto:** We've got some distance from them for now ...
 
 **Female Investigator:** Chief, are there any "Teleport" floppy disks left? We need to go now!
@@ -776,7 +774,7 @@ A beam of dim light flashes behind the rock in the distance.
 **Vertin:** It's nothing. I have my own mission ...
 
 **Vertin:** ... also in Kingly Court.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -899,7 +897,7 @@ We've got some distance from them for now ...
 <a id="episode-30104"></a>
 ## 30104 · Invisible Pirate
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 When did it start to rain?
 
 The cityscape is reflected in the puddle, swaying cheerfully with the ripples. The fashionable city, the optimistic people—looks as if the prosperity would last through all eras and never die.
@@ -1011,7 +1009,7 @@ This ... seems pretty dangerous.
 Do not worry, Timekeeper. I will keep things in check.
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1108,7 +1106,7 @@ The cityscape is reflected in the puddle, swaying cheerfully with the ripples. T
 <a id="episode-30105"></a>
 ## 30105 · The Storm Overture
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Regulus:** Ouch! It hurts ... really hurts ...
 
 Regulus jumps back and falls heavily to the ground. She seems to be hurt badly.
@@ -1254,7 +1252,7 @@ What?
 I'm not like them.
 
 I am here to protect you.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1417,7 +1415,7 @@ I am here to protect you.
 <a id="episode-30106"></a>
 ## 30106 · The Living Past
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Regulus:** I ... This is ...
 
 **Regulus:** I ... I don't get it ...
@@ -1569,7 +1567,7 @@ I am here to protect you.
 **Regulus:** I ... need some time to think about all this ...
 
 **Regulus:** About everything you said.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---

@@ -7,8 +7,6 @@
 - Story units：`24`
 - Trail：`18`
 
-[UTTU](https://uttu.merui.net/story/main/chapter-11/en/?part=1)
-
 1920 · We soldiers never had a choice.
 
 ## Contents
@@ -45,7 +43,7 @@
 
 > A new era bearing many marks of another time, caught in an endless spiral of war.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Everyone imagines their future.In most, they grow up, they make friends, get married, and hope to make their fathers and grandfathers proud.We entered this new era full of those same hopes for our future. We had no idea what lay in wait for us.We called it the triumphant opening to the "greatest era in history," a rite of passage for every man-to-be."Join us in an adventure side by side, bound by courage and loyalty! Return home victorious, and let your legend be told for generations to come!"That was the future we imagined.Now those sweet and fitting lies have melted away.Barely more than children, we find ourselves bound, not for adventure, but for an open grave of mud and ruin.Those of us who were lucky—or unlucky—to survive this battlefield were forged into something new.Numb.Cruel.Corrupted.The earth became fire and mud, and all of us devils.What was it that we wanted from this war?To be remembered, celebrated as heroes, or to forget and be forgotten?The answer may seem obvious, but the question itself lies at fault. Because death, meaningless death, came for thousands of us every day, and we knew ...We soldiers never had a choice.
 
 Everyone imagines their future.
@@ -331,7 +329,7 @@ Now is the time to ask the question that's been lingering in her mind.
 **Constantine:** He and a few others believe all attempts to restore peace are bound to fail unless we destroy the Manus first.
 
 **Constantine:** In short, he wants to do things the tough way.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -688,7 +686,7 @@ Yet Another War
 
 > They once belonged to an unfortunate soul, but perhaps they will grant you better luck.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Trenches
 
 Soldiers lay a corpse on a dry wooden plank, making an effort to place their fallen comrade in something resembling a peaceful pose.
@@ -932,7 +930,7 @@ In the mess of documents and maps, she finds the note she needs.
 After reading it, she looks northeast. Beyond the treeline lie the ruins of Montpaix.
 
 **???:** Today.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1210,7 +1208,7 @@ The Soldier "Back from the Dead"
 
 > Those who claim the pen is mightier than the sword rarely seem to live by their words.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Preparation Area
 
 **Lilya:** Are you sure you won't come with me, Captain?
@@ -1478,7 +1476,7 @@ Chaos drowns out all else.
 **Security Guard:** Medic! The colonel has been hit! We need a medic!
 
 **Security Guard:** Move! Get the colonel to the clinic!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1797,7 +1795,7 @@ Lieutenant Lilya's escape during the São Paulo incident was facilitated by Mold
 
 > Shrouded in shadows and fog.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Having parted ways with the curious gravedigger, the knight continues back to the Foundation's safe zone.
 
 Tangled branches rustle, sharpening her mind into alarm. But as her hand twitches to her sidearm, a small and timid creature hops out.
@@ -2021,7 +2019,7 @@ The Vice President sets a chess piece on the desk and flicks it. It rolls in a s
 **Z:** Understood.
 
 **Constantine:** Tell Creius he and his team will set off in two hours.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -2244,7 +2242,7 @@ The Vice President sets a chess piece on the desk and flicks it. It rolls in a s
 
 > Hollow brass tubes stack into mountains beyond counting.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 "Since the first grenade exploded in our trench, we've been dreaming of the moment when the guns fall silent and our commander calls out 'The war is over.'"
 
 "The marshals will attend the victory banquet in His Majesty's palace, the officers will pin shiny medals on their chests, and we will get to go home."
@@ -2466,7 +2464,7 @@ She pauses in thought, then traces a strange shape in the air.
 The ritual is over. The mourner turns and meets Marsha's guarded eyes.
 
 **???:** We meet again, young knight.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -2706,7 +2704,7 @@ Field Hospital Conversations​​
 
 > Inside the briefcase lies irrefutable evidence that peace is possible.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The stranger studies Marsha again.
 
 **Sentinel:** He that is slow to anger is better than the mighty, and he that ruleth his spirit than he that taketh a city.
@@ -2912,7 +2910,7 @@ He pulls in a deep breath.
 **Georg:** And we're willing to reach a ceasefire on certain conditions. I assure you I'm not just saying this because of my stance ...
 
 **Georg:** For the sake of my country and its people, this war must be stopped.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -3139,7 +3137,7 @@ He pulls in a deep breath.
 
 > The bullet spares neither the kind nor the cruel; all are caught in the same tragic fate.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 "In the first three months, I had no idea who I was fighting or what lay on the other side of the trenches. It was as if there were a black wall standing between us and our enemy."
 
 "They could attack at any time. I can't sleep. I don't want to die. I don't want to see their faces. I don't want to know what our enemy looks like. And worst of all, I don't know why."
@@ -3419,7 +3417,7 @@ All others stand stunned and silent as Charon departs with Major Braun in tow.
 **Erich:** Alright. Someone grab that deserter. I'll search him.
 
 **Erich:** Show's over. Move it, soldiers! That poor sap is still waiting. Get moving!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -3760,7 +3758,7 @@ A Mother's Rage
 
 > Both life and death are equally insignificant.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Heh. Don't worry so much, Paul! We'll find glory on the battlefield! No man can stop us as long as we stick together!
 
 Come on, let's join the war and prove ourselves to Mr. Mühlenberge. Think how proud your parents will be—their son, a war hero!
@@ -3992,7 +3990,7 @@ He removes his glasses and rubs his eyes.
 **Constantine:** We'll need more to verify that major's statement. Send investigators to search other regions and report everything they see. Creius, continue your investigation. Follow every possible lead.
 
 **Creius:** Understood. We'll dig up whatever they have buried.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -4245,7 +4243,7 @@ He removes his glasses and rubs his eyes.
 
 > Whispers of movement lost beneath the clamor of calamity.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Depths of the Forest
 
 Night falls, and creatures stir.
@@ -4459,7 +4457,7 @@ There's a breach in the armor, see? It's slowing down.
 This might be our only chance, Marsha!
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -4702,7 +4700,7 @@ The Last Turnip Stew
 
 > Sounds both gentle and harsh—the whispering wind and rustling grass.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Thick, acrid smoke billows from the wreckage of the armored vehicle.
 
 **Marsha:** \*cough\*
@@ -4932,7 +4930,7 @@ He saves the last bullet for himself.
 **Marsha:** Ms. Sentinel.
 
 **Marsha:** Ms. Sentinel!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -4942,7 +4940,7 @@ He saves the last bullet for himself.
 
 > No one can make sense of why this war drags on.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Captain: Fix bayonets!Captain: For Victory!Captain: Charge!Captain: Damn! Their cavalry's returned!Captain: Hold the line! I'll shoot any coward that runs!Captain: You, you're from the Arcane Support Company? Go get that monster!
 
 **Captain:** Fix bayonets!
@@ -5170,7 +5168,7 @@ Marsha lights up at her patient's declaration.
 **Sentinel:** Follow me.
 
 **Marsha:** Oh. Of course!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -5420,7 +5418,7 @@ Arcane Support Company Special Regulations
 
 > Legends say those stone statues come to life at night.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Office, Safe Zone
 
 **Pedra:** An armored vehicle?
@@ -5708,7 +5706,7 @@ Ladislas is stunned. He fights back tears and turns to face the altar. The light
 **Ladislas:** Hast thou forgotten our ancestral peril? Or the manifold names we have stricken from our line when they turned from the righteous path? The demon blood hath overtaken our kin before, as I fear it soon will overtake thee.
 
 **Ladislas:** I do not wish to blot out thy name as well ... Marianne.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -6032,7 +6030,7 @@ It was during the Merovingian dynasty that the Bishop of Rouen successfully subd
 
 > Could any treasure on earth possibly fill the void our losses have left?
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Merel:** \*sigh\*
 
 The bored and idle remnant of Squad "XII" carries out her as yet tedious orders.
@@ -6222,7 +6220,7 @@ An intuitive guess is assembled, drawing on the experience of prior contact with
 **Creius:** My thoughts exactly, Timekeeper.
 
 **Creius:** That said, securing peace is our top priority at the moment.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -6433,7 +6431,7 @@ An intuitive guess is assembled, drawing on the experience of prior contact with
 
 > So long, hungry rats!
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Georg:** Six years of war have deeply shaken the resolve and faith of our nation. It is clear to all that this war cannot continue any longer.
 
 **Georg:** Afraid of the loss of power that peace may bring to them, leaders across Europe elected to collaborate with the evil cult, Manus Vindictae, sacrificing countless young lives in meaningless carnage.
@@ -6727,7 +6725,7 @@ Charon doesn't resist. He nods and slowly rises to his feet.
 **Charon:** No. This must be done alone.
 
 **Charon:** There is a message, one that must be sent off.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -7042,7 +7040,7 @@ Charon doesn't resist. He nods and slowly rises to his feet.
 
 > They remembered an ancient verse, with whose meaning is lost to history.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Graveyard
 
 **Paul:** Here you are, Eberhard.
@@ -7190,7 +7188,7 @@ Paul stands and opens his notebook.
 This concludes the records of the soldier Paul Haumann.
 
 This concludes the records of the soldier Paul Haumann.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -7372,7 +7370,7 @@ Class 3 Students
 
 > Even now, her tears remain.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Ladislas hasn't spoken a word since news of the ceasefire reached their sanctuary.
 
 **Ladislas:** ...
@@ -7578,7 +7576,7 @@ Sentinel moves ahead of Marsha, turning her body sideways, and hardens into ston
 **Marsha:** Wow, what a beauty!
 
 **Sentinel:** A horse indeed. What brings it here?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -7820,7 +7818,7 @@ My Dearest Cousin Ladislas, How oft thou art in my prayers. I trust with all my 
 
 > If only this war had never begun ...
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **War Horse:** Neigh.
 
 **Marsha:** Here, come on out. That's a good boy.
@@ -7920,7 +7918,7 @@ She picks up the device. Again, it's an anonymous caller.
 **Marsha:** Who are you?
 
 **???:** We'll meet soon enough.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -8041,7 +8039,7 @@ She picks up the device. Again, it's an anonymous caller.
 
 > History will remember this day.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Half an hour earlier.
 
 **Georg:** Yes, Mr. Chancellor. The delegations have arrived in Montpaix. The armistice will be signed before dinnertime.
@@ -8315,7 +8313,7 @@ He says nothing about Merel's radio silence, as if he had anticipated it all alo
 **Creius:** Every plan has its surprises. We'll deal with it.
 
 **Creius:** Follow me. We're going to the front lines. You can fill me in on the details on the way.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · Dog Whistle
 
@@ -8359,7 +8357,7 @@ Dog Whistle
 
 > Only the dead have seen the end of war.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Rudolph:** What's that sound?
 
 Rudolph has set about packing his things. Like many in the trenches, he doesn't have much, but his greatest treasure is a pile of manuscripts and notes.
@@ -8587,7 +8585,7 @@ Creius stands solemn and sure, though he knows how absurd his request sounds.
 **Sentinel:** That's correct. So?
 
 **Creius:** So, we may be able to take a subtler approach. Please, come with me; my subordinate will give you the details.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -8827,7 +8825,7 @@ Reports continue to arrive from across the globe concerning arcanists operating 
 
 > This marks the beginning of another tragedy.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 No Man's Land
 
 They race through the mud and debris.
@@ -8987,7 +8985,7 @@ But as she turns, Charon's voice breaks through with sudden clarity.
 **Charon:** Yet, still, I feel a deep sadness for you.
 
 **Charon:** I am in no position to stop you from walking through the gates of hell.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -8997,7 +8995,7 @@ But as she turns, Charon's voice breaks through with sudden clarity.
 
 > Practical results often hold more weight than following orders.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Deep underground, darkness reigns.
 
 At first, she travels through cramped, unlit dirt tunnels until she reaches a poured concrete doorframe.
@@ -9213,7 +9211,7 @@ The young soldier watches Creius, waiting for orders with a dutiful stare.
 He casts a look toward Hill 299. The Manus Vindictae stronghold bristles with flashes of gunfire, yet to him it looks as if it were a slumbering beast.
 
 **Creius:** We stand our ground for an hour.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -9448,7 +9446,7 @@ He casts a look toward Hill 299. The Manus Vindictae stronghold bristles with fl
 
 > Past the borders of bloodshed, boundaries, and concepts of purity and corruption.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Though Agnès's voice has vanished, the sharp ringing in her ears remains.
 
 **Sentinel:** What's that sound?
@@ -9856,7 +9854,7 @@ Come on, pull yourself together!
 **Creius:** The Manus fortress has been destroyed, and the soldiers have been led in retreat to the rear.
 
 **Creius:** I understand. Thank you for your support in this critical time, Mr. Irinei.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -10217,7 +10215,7 @@ An Undelivered Letter​​
 
 > Coffee, pastries, family, memories of simpler times, and an ominous chain.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 After yet another night passes, the hidden chapel once again welcomes the light of day.
 
 Time passes, reaching near to midday, and the grassy courtyard holds its quiet with a patience born of humility.
@@ -10379,7 +10377,7 @@ The metal hangs in her hand; its weight feels far greater than its size would me
 **Sentinel:** Tell my father that I will not return.
 
 **Sentinel:** Until the true conflict is brought to an end.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -10577,7 +10575,7 @@ Marianne,​​ I hope you'll understand why I couldn't say goodbye properly, as
 
 > A tiny fraction of those names.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 A completed mountain. Though only a mere fraction of what death truly claims.
 
 **Charon:** ...
@@ -10845,7 +10843,7 @@ The message ends in a burst of static.
 **Vertin:** Could it be ... Igor? Lilya might be in trouble.
 
 **Vertin:** Sonetto, I think we'd better pay another visit to Madam Z.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>

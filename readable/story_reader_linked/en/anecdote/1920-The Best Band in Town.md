@@ -7,8 +7,6 @@
 - Story units：`7`
 - Trail：`0`
 
-[UTTU](https://uttu.merui.net/story/anecdote/regulus/en/?part=1)
-
 Inside the Penumbra Can,
 Covered in a layer of dust,
 Are stories buried in the depths of time.
@@ -30,7 +28,7 @@ Are stories buried in the depths of time.
 
 > Travel safe, and remember to hydrate.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Panners Road
 
 **Regulus:** Mark my words, Mr. APPLe, all we need to do is keep straight down this road, and we'll get where we need to be!
@@ -222,7 +220,7 @@ She sniffs, like a curious cub, trying to identify the strange scent wafting fro
 **Regulus:** I almost hit—!
 
 **Riley:** Hahaha, hang on back there. This jalopy's got some miles on it, but cut the old girl some slack.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -437,7 +435,7 @@ She sniffs, like a curious cub, trying to identify the strange scent wafting fro
 
 > Gold? No, there's none of that stuff here!
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Gold Dust
 
 From afar, she spots a hospital, a radio station, a motel, and a faint, chant-like melody drifting over the scene as they arrive to something unexpected.
@@ -607,7 +605,7 @@ Her crewmate remains motionless in her arms as they stand beneath the scorching 
 She relays the directions to the inn, giving the distinct impression that it will be exactly the kind of place she likes.
 
 **Riley:** I need to go find my friends. But I hope I'll see you later, pal!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -798,7 +796,7 @@ She relays the directions to the inn, giving the distinct impression that it wil
 
 > Just a little trick of arcanum, hardly worth mentioning.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Beetles Inn
 
 The hallway is a noisy din punctuated by chaotic guitar riffs.
@@ -960,7 +958,7 @@ She gives out a rebel yell—that falls neatly onto a mouthful of chocolate.
 **Regulus:** —!?
 
 **APPLe:** Captain, I do believe we've knocked out the power.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1143,7 +1141,7 @@ She gives out a rebel yell—that falls neatly onto a mouthful of chocolate.
 
 > The captain finds her crew.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Guests pour out from inside the inn, producing a bustling commotion livelier than when they first arrived.
 
 **APPLe:** Not sure I understand all the fuss. This seems like nothing more than a temporary outage.
@@ -1321,7 +1319,7 @@ The two kindred spirits lock eyes; there is no question in Regulus's mind.
 He bobs up and down in the air as a show of courtesy.
 
 **Riley:** Alright, catch you two later.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1520,7 +1518,7 @@ He bobs up and down in the air as a show of courtesy.
 
 > From now on, I call the shots here!
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Beetles Ballroom
 
 At night, they make their way through a secret passage beneath the hotel, traveling through layers of earthwork before arriving at an underground club.
@@ -1732,7 +1730,7 @@ She grabs the microphone—though it wasn't yet powered—and issues her first o
 **Regulus:** Alright, crew, grab your gear.
 
 **Regulus:** Let's set sail! Our destination: The Broadcast Theater!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1965,7 +1963,7 @@ She grabs the microphone—though it wasn't yet powered—and issues her first o
 
 > Bubblegum? A gas station? Or ... a set of drums?
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Flash Lianna:** Hey, um ... Captain, before we go, we don't really know much about you.
 
 She stamps out a spark at her feet. Not far away, the rest of the band is waving off some of the other kids from the club.
@@ -2115,7 +2113,7 @@ And on land or sea, any captain worth her salt knows what calms nerves on the ev
 **Riley:** It's just up ahead. Let's hop out here.
 
 **Regulus:** Brill! Now to give these knuckle-dragging jackboots a real blowout show.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -2286,7 +2284,7 @@ And on land or sea, any captain worth her salt knows what calms nerves on the ev
 
 > Rocking all the way to the coast.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Opera House Station
 
 **Regulus:** This place is pretty swank up close, I gotta say.
@@ -2594,7 +2592,7 @@ Sonetto nods faintly, then changes the subject.
 **Regulus:** Rock'n'roll isn't complicated, Sonetto.
 
 **Regulus:** Rock is rock. That's it. That's all.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>

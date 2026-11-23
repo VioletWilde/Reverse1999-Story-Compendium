@@ -7,8 +7,6 @@
 - Story units：`16`
 - Trail：`23`
 
-[UTTU](https://uttu.merui.net/story/main/chapter-1/en/?part=1)
-
 1929 · Leave the rest to me.
 
 ## Contents
@@ -37,7 +35,7 @@
 
 > They need to be punished. Of course, the penalties shall be kept within both ethical and legal boundaries.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Little Giant Tommy:** P-p-people come out from the suitcase?!
 
 **Pumpkin-Head Jame:** Agh, it's a weirdo's case! She knows dark magic. Run!
@@ -189,7 +187,7 @@ On the lake, the spinning wheel is still shimmering.
 > **Choice 1：** Take them away first.
 
 The sound of water is left behind her.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -512,7 +510,7 @@ The Opportunist and the Sticky Gum
 
 > Buying the loyalty of a great, inspiring, and legendary rock pirate is far easier than you think.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 ***
 
 **GAMEPLAY**
@@ -606,7 +604,7 @@ Over shoes, over boots.
 > **Choice 1：** Sure.
 
 Three of them leave the room.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -725,7 +723,7 @@ Over shoes, over boots.
 
 > An apple a day keeps the doctors away.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Vertin:** I'm sorry ...
 
 **APPLe:** Turns out the Foundation doesn't fully trust you. Just like you don't trust them.
@@ -817,7 +815,7 @@ Regulus and APPLe start whispering.
 **Sonetto:** Excuse me.
 
 **Sonetto:** Could I talk to you for a second, Timekeeper?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -932,7 +930,7 @@ Regulus and APPLe start whispering.
 
 > February 14, 1929. Lovebirds in Chicago kissed each other as the bell tolled. Nobody noticed the gunshots.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Sonetto:** I did not expect that there is such a big place in your suitcase. I never knew it before.
 
 > **Choice 1：** Not too late to know now.
@@ -1026,7 +1024,7 @@ Select a proper target for me, Timekeeper.
 Use an incantation that is strong against the enemy's Afflatus to defeat them more quickly. You can take it from here, Timekeeper.
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1123,7 +1121,7 @@ Use an incantation that is strong against the enemy's Afflatus to defeat them mo
 
 > A couple of gold coins, a severed finger, and a great deal of wine.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **APPLe:** Even the tree hole is not safe enough ...
 
 **Vertin:** ... We should go. I will carry it with me along the way.
@@ -1227,7 +1225,7 @@ Pap, pap, pap.
 **Sonetto:** Gunshots?! Wha ...? But the arcanists haven't got here ...
 
 **Vertin:** ... Damn it. Let's go!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1357,7 +1355,7 @@ Come to C.C Critter Pawnshop to make extra money!TEL: 847-6861XXX Are the cunnin
 
 > She was sweeter than honey and lighter than feathers. She brought a rose to pin on the chest of your soul.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **???:** James Clark.
 
 **James Clark:** ...!
@@ -1487,7 +1485,7 @@ Pap.
 **Vertin:** Let's move on to the next destination.
 
 **Vertin:** The Walden ... It may have the answer to all the questions.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1734,7 +1732,7 @@ Intermission
 
 > THEY are charred. THEY wept in the blaze. THEY remain unbroken. THEY still exist.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **???\_1:** It would be our honor to have the young lady's presence at The Walden.
 
 **???\_1:** Thanks to your kindness last time, we were able to invent the new potion before the National Prohibition Act was enacted. Of course, I will deliver what you had purposed on time.
@@ -1836,7 +1834,7 @@ Creaking ... Creaking ...
 COMBAT:
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -2002,7 +2000,7 @@ She seems to have screwed up the field battle test just now. Perhaps that overly
 
 > She stood here. She was not waiting for anyone, nor was she trying to remember anyone.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Critters:** \*appear\*
 
 **Critters:** Sss!
@@ -2128,7 +2126,7 @@ Druvis Ⅲ: ... These invaders.Critters: …!
 **Druvis Ⅲ:** Just as the woods prophesy in whisper—invaders, you shall offer your sacrifice for the peace.
 
 **Vertin:** Please allow us to assist you!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -2288,7 +2286,7 @@ Quiet Ravenheart
 
 > The Rattenfanger atop the Eternal Heights remained tireless. He needed no sleep nor rest.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **APPLe:** Finally, we are safe now.
 
 **Vertin:** Thank you very much for your help, Ms. Druvis.
@@ -2400,7 +2398,7 @@ She strolls lazily towards the door.
 **Schneider:** Mamma.
 
 **Schneider:** Mamma, pack up. Let's leave tonight.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -2565,7 +2563,7 @@ You have mastered the art of depriving others of their actions.
 
 > A first-time meeting of the young scientists. Let's shake hands and show respect to each other, dear friend. Do you wish to know more of the truth?
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Vertin:** Hello. Please get me Madam Z of St. Pavlov Foundation Committee.
 
 **Z:** Hmm. It's you. What's wrong?
@@ -2649,7 +2647,7 @@ St.Pavlov Foundation
 **Regulus:** ...
 
 **Regulus:** Vertin and Sonetto, what are they doing now ...
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -2821,7 +2819,7 @@ The streets are now at peace. The dazed critter can no longer make any noise and
 
 > Smarter than the Sphinx, hotter than the flames of Nirvana, and faster than Boreas, our chariot of war shall crush every lie and injustice.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Sonetto:** ...
 
 **Sotheby:** Dear Freddy, could you make the "Auto Island" move faster? Our Ms. Sonetto has something really urgent!
@@ -2947,7 +2945,7 @@ COMBAT:
 **Sotheby:** Okay. I already know where to go! Follow Sotheby. Let's go left!
 
 **Sonetto:** ... It shouldn't be a mistake. There is a human imprisoned by arcanum in this speakeasy. I have to report it to the Timekeeper as soon as possible.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -3106,7 +3104,7 @@ Chapter 1 Transfer Student of SF School of Primary Defense of Mankind Chapter 2 
 
 > Under the spotlight, freshly spilled blood is the best appetizer and agent for starting a fire.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 I'm surrounded by distances like a flag,
 
 sense the winds that are coming, I stand and must flutter,
@@ -3298,7 +3296,7 @@ Her hand halts in the air for a second. Yet eventually, she decides to point the
 Pap! Pap!
 
 **Thomas:** Huh? The trend is falling by 31 points. Is it me or ...?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -3507,7 +3505,7 @@ A Letter with Black Mucus
 
 > Those rats following him shrieked and threw themselves into the sea one after another.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Underground, The Walden
 
 **Sonetto:** There is no way ahead. It seems to be another dead end.
@@ -3673,7 +3671,7 @@ Silence named "Fear."
 **Forget Me Not:** You know this better than anyone else ... the countdown to the sifting, has already begun.
 
 **Vertin:** Correct. I finally got the answer.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -3900,7 +3898,7 @@ You'll get an answer from it. Do pay attention to lies. Many creatures are skill
 
 > You can now see everything unveiled here. Your option is to die or to apply yourself to the creation of a new order.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Institutum Lorentz Branch
 
 **X:** That's all for what we know about the "Storm".
@@ -3998,7 +3996,7 @@ Walden
 COMBAT:
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -4142,7 +4140,7 @@ Surrounded by imposing barriers, Epics never sing of those about to die. Look up
 
 > Make the walls taller to guard more secrets. While people busy themselves with their affairs, the aroma of orange forces its way home.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 A vortex, inside the bar, is whirling.
 
 A vortex full of compressed lips, dull eyes, and irrational words.
@@ -4246,7 +4244,7 @@ Underground, The Walden
 COMBAT:
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -4371,7 +4369,7 @@ The speakeasy is shaking.
 
 > Any exciting adventure needs at least one explosion.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **APPLe:** Not so many forks ahead! We are getting closer to the outer wall.
 
 **Vertin:** Yes. I heard the sounds of the street.
@@ -4577,7 +4575,7 @@ Schneider: Huh ...Vertin: ...???: ...
 Druvis Ⅲ: ... It's you?
 
 **Druvis Ⅲ:** ... It's you?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>

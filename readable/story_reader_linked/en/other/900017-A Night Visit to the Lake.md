@@ -7,8 +7,6 @@
 - Story units：`4`
 - Trail：`0`
 
-[UTTU](https://uttu.merui.net/story/other/uttu1_2/en/?part=1)
-
 A gathering of arcanum.
 We read and we learn.
 
@@ -24,7 +22,7 @@ We read and we learn.
 <a id="episode-90001701"></a>
 ## 90001701 · Volume I
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 "A Night Visit to the Lake" Flash Gathering
 
 Hope you have a great night at the expo, filled with screams and shrieks
@@ -134,7 +132,7 @@ Blonney fell limply against Fawn, who naturally caught her.
 **Horropedia:** No, what I'm saying is... It's different now.
 
 **Horropedia:** My guardians are no longer the faculty or the Foundation, but Vertin and the Tooth Fairy. We can go wherever we want.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -142,7 +140,7 @@ Blonney fell limply against Fawn, who naturally caught her.
 <a id="episode-90001702"></a>
 ## 90001702 · Volume II
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Lakeside
 
 **Jessica:** Hm... I don't think the bottom of the lake is a good place to sleep.
@@ -214,7 +212,7 @@ Lakeside
 **Jessica:** No, we have to find the guys in white and have them take it apart and sew it up.
 
 **Blonney:** Fine. It looks like I've taught you how to get into character. Next, we'll have to learn how to get you out.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -222,7 +220,7 @@ Lakeside
 <a id="episode-90001703"></a>
 ## 90001703 · Volume III
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Lakeside
 
 **Blonney:** I love the location and the elusive projection that appears in the magazine. It almost perfectly captures the history of horror.
@@ -268,7 +266,7 @@ The blonde girl pulled out her notebook and scribbled a few notes.
 Sitting down, the young girl patts her knees and opens her backpack.
 
 **Horropedia:** Luckily I always carry emergency rations in my backpack.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -276,7 +274,7 @@ Sitting down, the young girl patts her knees and opens her backpack.
 <a id="episode-90001704"></a>
 ## 90001704 · Volume IV
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Lakeside
 
 **Blonney:** This chapter is very well written.
@@ -370,7 +368,7 @@ Time to go back, she thinks.
 "In light of your passion for horror, we have decided to open up the ‘History of Horror Classics Re-release' Highlights Session."
 
 **Tooth Fairy:** ... They do know when to add fuel to the fire. Let the kids play a little longer.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---

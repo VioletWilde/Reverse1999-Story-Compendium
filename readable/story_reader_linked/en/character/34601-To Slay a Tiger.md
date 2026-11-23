@@ -7,8 +7,6 @@
 - Story units：`9`
 - Trail：`0`
 
-[UTTU](https://uttu.merui.net/story/character/cheng_heguang/en/?part=1)
-
 Saying goodbye to the
 black-tiled roofs of his home,
 he steps onto the road ahead,
@@ -31,7 +29,7 @@ going off into the bright world.
 <a id="episode-3470101"></a>
 ## 3470101 · The Cage
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Cheng's House, Ancient Zhu County
 
 The cold sky presses down on black tiles. Black tiles press down on white walls.
@@ -225,7 +223,7 @@ The crowd exchanges glances like a theater troupe interrupted mid-performance, u
 The gate is suddenly thrown open.
 
 **???:** What is going on out there?!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -233,7 +231,7 @@ The gate is suddenly thrown open.
 <a id="episode-3470102"></a>
 ## 3470102 · The Tiger
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Calm, unhurried footsteps emerge from the courtyard.
 
 **Cheng Heguang:** Seems they've had martial arts training.
@@ -441,7 +439,7 @@ Even so, he feels his grip beginning to falter.
 A heartbeat before his fingers give out, a thin silver thread slices through the air from the cliff edge.
 
 **Cheng Heguang:** That's—!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -449,7 +447,7 @@ A heartbeat before his fingers give out, a thin silver thread slices through the
 <a id="episode-3470103"></a>
 ## 3470103 · The Old Friend
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Mountaintop, Riverside Village
 
 The silver thread coils around Chéng's waist and drags him back onto the cliff.
@@ -673,7 +671,7 @@ To the assistant's surprise, Doctor Xiù smiles and looks up at Chéng, who is s
 **Doctor Xiu:** Perfect. We have just the man for handling a little heat.
 
 **Cheng Heguang:** ...?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -912,7 +910,7 @@ Doctor Xiù lets out a weary sigh and walks over to the old man's bed.
 <a id="episode-3470104"></a>
 ## 3470104 · The Silver Thread
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Doctor Xiu:** Now, Chéng, move the bowl of medicine on the table into my hand using only your family's technique.
 
 **Cheng Heguang:** Why?
@@ -1138,7 +1136,7 @@ Doctor Xiù draws in a slow breath, her face returning to its usual calm.
 **Doctor Xiu:** Your injury's healed, hasn't it?
 
 **Doctor Xiu:** Let's get started.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1146,7 +1144,7 @@ Doctor Xiù draws in a slow breath, her face returning to its usual calm.
 <a id="episode-3470105"></a>
 ## 3470105 · The Flying Leaves
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Mother:** Shuttlebones ... I remember her. She knew your father once.
 
 **Cheng Heguang:** Yes. The Yamen has confirmed she was the ringleader behind the raid on Zhu County that night.
@@ -1396,7 +1394,7 @@ The needle-fine metal shards freeze in midair, then scatter across the ground.
 **Cheng Heguang:** I'm not done here.
 
 **Doctor Xiu:** Yes, well, we can take care of that tomorrow.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1657,7 +1655,7 @@ The needle-fine metal shards freeze in midair, then scatter across the ground.
 <a id="episode-3470106"></a>
 ## 3470106 · The Night Raid
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Chéng sits on a mat, tending to his sword. The blade catches the light as it turns, casting a few bright reflections into Doctor Xiù's wine bowl.
 
 **Doctor Xiu:** \*sigh\* Always wound so tight. The real showdown is tomorrow, so why not relax a little? There'll be no coming back from this one.
@@ -1905,7 +1903,7 @@ Some time later, torchlight begins to flicker along the forest's edge. The villa
 Fine snow drifts down like fuzzy willow catkins.
 
 Winter is drawing to a close.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1913,7 +1911,7 @@ Winter is drawing to a close.
 <a id="episode-3470107"></a>
 ## 3470107 · The Celebration
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The final gasp of winter snow falls, eventually giving way to clear skies.
 
 For this impoverished village, such a celebration is rare. Every household gathers in Master Hú's courtyard, drinking deeply and eating meat by the mouthful.
@@ -2123,7 +2121,7 @@ Perhaps it was due to the tiger's strange Qi, but the effect of his arcane skill
 **Intermediary:** And I must say congratulations once more! You've made the right choice!
 
 **Intermediary:** May your home be blessed with peace, your family flourish, and wealth fill your halls!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -2348,7 +2346,7 @@ Perhaps it was due to the tiger's strange Qi, but the effect of his arcane skill
 <a id="episode-3470108"></a>
 ## 3470108 · The Cage
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Foundation Office
 
 A door at the far end of the hallway shuts, blocking out the muffled sounds of conversation.
@@ -2558,7 +2556,7 @@ A house consumed by fierce flames.
 **Cheng Heguang:** I could never find what I'm seeking in that home.
 
 **Cheng Heguang:** So I burned it down and left.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -2779,9 +2777,9 @@ A house consumed by fierce flames.
 <a id="episode-3460109"></a>
 ## 3460109 · The Final Cleave
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 > The source provides no separate story transcript.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---

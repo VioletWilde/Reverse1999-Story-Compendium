@@ -7,8 +7,6 @@
 - Story units：`8`
 - Trail：`0`
 
-[UTTU](https://uttu.merui.net/story/character/tuesday/en/?part=1)
-
 Through the keyhole,
 A glimpse of a fearful face.
 Tonight, the story continues ...
@@ -29,7 +27,7 @@ Tonight, the story continues ...
 <a id="episode-2190001"></a>
 ## 2190001 · Welcome!
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Countryside, Texas
 
 **???:** Thank you so much! I've been trying and trying, but no one was willing to give me a ride.
@@ -249,7 +247,7 @@ Tuesday puts her hand on Barbara's back. Barbara can't tell if she's trying to s
 **Tuesday:** Child, be—
 
 **Barbara:** What?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -257,7 +255,7 @@ Tuesday puts her hand on Barbara's back. Barbara can't tell if she's trying to s
 <a id="episode-2190002"></a>
 ## 2190002 · Velvet Heart
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Red Room, Tuesday's Motel
 
 **Barbara:** Ugh! Did I ... trip?
@@ -485,7 +483,7 @@ Once again, she's greeted with Tuesday's cold and lifeless body. How many times 
 Barbara steps closer and closer to the body, as if allured by it. But before she can reach out to touch her, she's interrupted.
 
 **Barbara:** Is that singing?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -493,7 +491,7 @@ Barbara steps closer and closer to the body, as if allured by it. But before she
 <a id="episode-2190003"></a>
 ## 2190003 · Lullaby
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Tuesday:** "Rock a bye baby on the tree top, when the wind blows the cradle will rock."
 
 **Tuesday:** "When the bough breaks the cradle will fall and down will come baby cradle and all."
@@ -627,7 +625,7 @@ The door beside her opens and spits out a spider.
 **Tuesday:** You've done well, little one. You can come with me.
 
 She disappears into the dark hallway.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -635,7 +633,7 @@ She disappears into the dark hallway.
 <a id="episode-2190004"></a>
 ## 2190004 · Silent Night
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Tuesday:** So, our sweet, silly little sheep girl still couldn't figure out what was going on.
 
 **Tuesday:** It's far more interesting than a simple motel murder.
@@ -909,7 +907,7 @@ She's also used to the sight of a dead person's eyes.
 **GAMEPLAY**
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -917,7 +915,7 @@ She's also used to the sight of a dead person's eyes.
 <a id="episode-2190005"></a>
 ## 2190005 · A Strange Guest
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Tuesday:** How many times have I told you not to eat things off the floor?
 
 **Tuesday:** Several guests have asked me where Mr. Jaden's gone. It's getting difficult to come up with excuses.
@@ -1101,7 +1099,7 @@ A door slams shut behind her.
 She ignores the motel's bad temper, putting the knife away and fixing her hem as if nothing has happened.
 
 Then she steps over her own body.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1109,7 +1107,7 @@ Then she steps over her own body.
 <a id="episode-2190006"></a>
 ## 2190006 · Christine's Baby
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **???:** And then? And then?
 
 **???:** Did they make up? Did they make up?
@@ -1395,7 +1393,7 @@ She picks it up.
 **Tuesday:** See? Fear isn't so scary.
 
 **Tuesday:** Good child. Good.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1403,7 +1401,7 @@ She picks it up.
 <a id="episode-2190007"></a>
 ## 2190007 · The Shepherdess
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Tuesday:** Story time's over, children.
 
 **Tuesday:** Close your eyes. I'm going to turn on the light.
@@ -1597,7 +1595,7 @@ The TV screens turn off in an instant.
 The dollhouse on the table shakes a little.
 
 \*knock\* \*knock\*
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1605,7 +1603,7 @@ The dollhouse on the table shakes a little.
 <a id="episode-2190008"></a>
 ## 2190008 · The Double-Sided Mirror
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Vertin:** This should be the right time.
 
 **Vertin:** Tuesday, are you there?
@@ -1727,7 +1725,7 @@ Or a pair of eyes gazing into the abyss and the abyss staring back?
 Or a pair of eyes gazing into the abyss and the abyss staring back?
 
 **Tuesday:** Whatever may come, I wish you all the best.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---

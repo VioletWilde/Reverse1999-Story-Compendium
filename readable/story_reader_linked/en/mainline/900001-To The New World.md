@@ -7,8 +7,6 @@
 - Story units：`14`
 - Trail：`0`
 
-[UTTU](https://uttu.merui.net/story/main/chapter-7sp/en/?part=1)
-
 1990 · Curtain call
 
 ## Contents
@@ -33,7 +31,7 @@
 <a id="episode-90000101"></a>
 ## 90000101 · 37
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 A genius has decided to leave behind her orderly and familiar realm to dive into the chaotic currents of a new world.
 
 She stands on the beach, lost in her thoughts, the waves gently lapping at her feet.
@@ -117,7 +115,7 @@ She notices your arrival, but her eyes are still fixed on the sea.
 > **Choice 3：** I should get going
 
 **37:** Mhm. I think we'll meet again soon.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -125,7 +123,7 @@ She notices your arrival, but her eyes are still fixed on the sea.
 <a id="episode-90000102"></a>
 ## 90000102 · APPLe
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 A red fruit is enjoying himself peacefully in the wine cellar.
 
 Its rosy hue looks incredibly vibrant today, perhaps due to the wine.
@@ -233,7 +231,7 @@ Its rosy hue looks incredibly vibrant today, perhaps due to the wine.
 > **Choice 3：** I should probably be off
 
 **APPLe:** Bon Voyage, Ms. Vertin.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -241,7 +239,7 @@ Its rosy hue looks incredibly vibrant today, perhaps due to the wine.
 <a id="episode-90000103"></a>
 ## 90000103 · X
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Laplace's unpredictable inventor is busy building another mysterious device on the island.
 
 It appears to resemble a catapult.
@@ -317,7 +315,7 @@ It appears to resemble a catapult.
 > **Choice 3：** I'd better get going
 
 **X:** I'll catch you later, I've got a couple of gadgets to tune up.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -325,7 +323,7 @@ It appears to resemble a catapult.
 <a id="episode-90000104"></a>
 ## 90000104 · Z
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Your direct supervisor chooses the perfect place to meet. It's not too eye-catching, nor is it so quiet that you can't find her easily.
 
 She's holding a medal in one hand and an award announcement speech in the other. Her thermos cup is left aside.
@@ -409,7 +407,7 @@ She puts the medal and speech in a folder and hands them to you.
 **Z:** Enjoy the company of your friends before you set out again.
 
 **Z:** Don't worry about the reports, I'll handle them. You've been busy ever since becoming the Timekeeper, and you deserve a break.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -417,7 +415,7 @@ She puts the medal and speech in a folder and hands them to you.
 <a id="episode-90000105"></a>
 ## 90000105 · Sonetto
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 You know your chief assistant will be here, just like she knows you'll come looking for her.
 
 It's been ages since you last saw her in anything other than the Foundation uniform.
@@ -523,7 +521,7 @@ Her tense shoulders fall with relief.
 **Sonetto:** It's okay, Timekeeper. Don't let me keep you. I'm not going anywhere.
 
 **Sonetto:** We can talk later, when you have time.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -531,7 +529,7 @@ Her tense shoulders fall with relief.
 <a id="episode-90000106"></a>
 ## 90000106 · Enigma
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The IDM has completed its mission, but its screen is still lit.
 
 Someone is still on the line.
@@ -635,7 +633,7 @@ Someone is still on the line.
 **Enigma:** So were you just here for small talk?
 
 **Enigma:** I was told it would help with my resocialization. Thanks.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -643,7 +641,7 @@ Someone is still on the line.
 <a id="episode-90000107"></a>
 ## 90000107 · Mesmer Jr.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The dream-builder stands perfectly still by the sea, unaware of her surroundings.
 
 A stack of gilded white umbrellas lies piled at her feet.
@@ -765,7 +763,7 @@ Her heavy eyelids slide closed again as she drifts into another dream.
 **Mesmer Jr.:** The faster you count, the sooner ... I can ... take a break.
 
 Her heavy eyelids slide closed again as she drifts into another dream.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -773,7 +771,7 @@ Her heavy eyelids slide closed again as she drifts into another dream.
 <a id="episode-90000108"></a>
 ## 90000108 · Ms. Radio
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The green radio is basking under the sun, bathing in its warmth.
 
 Since she doesn't have a human face to make expressions, it's hard to read her mood.
@@ -867,7 +865,7 @@ She shivers nervously, and the music seems to crackle along with her.
 **Ms. Radio:** In that case, why don't we enjoy a little pampering time together?
 
 **Ms. Radio:** We could slather ourselves in machine oil, bask in the sun, and let the rays zap our impurities away.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -875,7 +873,7 @@ She shivers nervously, and the music seems to crackle along with her.
 <a id="episode-90000109"></a>
 ## 90000109 · Regulus
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The long journey wears you down. It's only your force of will that has carried you this far.
 
 But the rockin' pirate is still filled to the brim with energy.
@@ -1003,7 +1001,7 @@ Why wouldn't you celebrate? There's no earthly reason to decline such a kind off
 **Regulus:** And we'll pop over to Leo and see if any aliens are up for some rock and roll!
 
 **Regulus:** Glad you enjoyed that. If you ever want more Dr. Papper, I'm here for you.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1011,7 +1009,7 @@ Why wouldn't you celebrate? There's no earthly reason to decline such a kind off
 <a id="episode-90000110"></a>
 ## 90000110 · Druvis III
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The druid is taking a stroll through the war-torn woods.
 
 She rests her hand on the scarred trunk of an olive tree, intently listening to its quiet whispers in the wind.
@@ -1113,7 +1111,7 @@ She rests her hand on the scarred trunk of an olive tree, intently listening to 
 > **Choice 3：** I should get going
 
 **Druvis III:** I would love to talk to the trees again, they are delightful. Farewell for now.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1121,7 +1119,7 @@ She rests her hand on the scarred trunk of an olive tree, intently listening to 
 <a id="episode-90000111"></a>
 ## 90000111 · Matilda
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Matilda:** Vertin!
 
 The voice's owner has found you before you could even look for her.
@@ -1213,7 +1211,7 @@ She sees the genuine look on your face, and her confidence starts to waver.
 **Matilda:** Which is ...? Not another ball without me, I should hope.
 
 **Matilda:** You're cleverer than this, Vertin! You know you can't fool me. I will be watching.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1221,7 +1219,7 @@ She sees the genuine look on your face, and her confidence starts to waver.
 <a id="episode-90000112"></a>
 ## 90000112 · Lilya
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 That 768-nautical-mile flight was barely a warmup for the pilot and her trusty broom.
 
 Perched at the highest point on the island, she takes a moment to fully savor her most recent flight.
@@ -1331,7 +1329,7 @@ She takes a deep swig from her canteen before shaking her head.
 **Lilya:** Bye. Maybe you can join me for another ride some time.
 
 **Lilya:** Not like the last time when you were sick, but in an actual air fight!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1339,7 +1337,7 @@ She takes a deep swig from her canteen before shaking her head.
 <a id="episode-90000113"></a>
 ## 90000113 · Sotheby
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The little lady is trudging along the beach, dragging a suitcase stuffed to the brim behind her.
 
 She rarely travels with much luggage, usually preferring to tuck everything into her dress.
@@ -1471,7 +1469,7 @@ It's better not to expose the films to open light. You take the case in your onl
 > **Choice 3：** You can leave the case to me I'll look for a room where we can play them
 
 **Sotheby:** I knew it, Vertin. You must really enjoy lugging suitcases around.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1479,7 +1477,7 @@ It's better not to expose the films to open light. You take the case in your onl
 <a id="episode-90000114"></a>
 ## 90000114 · Lucy
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 A lady sits in front of the IDM, her expression emotionless. She places a hand on her face, her fingers carefully running over her cheeks as if they were unfamiliar.
 
 For a brief moment, you can't quite place who she is. You recognize the metal torso and limbs, but her face seems unfamiliar.
@@ -1565,7 +1563,7 @@ For a brief moment, you can't quite place who she is. You recognize the metal to
 > **Choice 3：** I'll catch up with you later; we can discuss it then
 
 **Lucy:** See you soon, Timekeeper. Remember, we still need to complete the resting plan.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---

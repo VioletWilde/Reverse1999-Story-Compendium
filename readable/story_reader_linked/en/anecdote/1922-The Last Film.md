@@ -7,8 +7,6 @@
 - Story units：`8`
 - Trail：`0`
 
-[UTTU](https://uttu.merui.net/story/anecdote/bette/en/?part=1)
-
 Inside the Penumbra Can,
 Covered in a layer of dust,
 Are stories buried in the depths of time.
@@ -31,7 +29,7 @@ Are stories buried in the depths of time.
 
 > Awakening in another era.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Congratulations, Bette.
 
 **Bette:** For me?
@@ -273,7 +271,7 @@ The room is silent except for the rhythmic beeping of machines.
 At the sound of Bette's voice, the woman turns her head toward the window.
 
 Bette places her hand against the glass, and the screams begin to fade, replaced by shallow, raspy breaths.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -514,7 +512,7 @@ Bette places her hand against the glass, and the screams begin to fade, replaced
 
 > Only today and yesterday, stretching on forever.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Meeting Room, Foundation
 
 **Foundation Staff Member II:** The "Storm" is a temporal anomaly of unknown origin. Before it arrives, the world enters a state known as the Storm Syndrome ...
@@ -696,7 +694,7 @@ As the lights go out and the restaurant door is locked again, the owner turns an
 I never had a champagne tower to begin with.
 
 I never had a champagne tower to begin with.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -879,7 +877,7 @@ I never had a champagne tower to begin with.
 
 > The follies of time, emotion, and money.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Jones hasn't moved from the capsule-like bed; her face still hidden under layers of bandages. Right now, she is more suited to play a mummy than a princess.
 
 Bette catches the thought before letting it hit her.
@@ -1039,7 +1037,7 @@ Bette stares at the nurse in shock.
 **Laura:** I'm just saying, if you want some cash, reach out. Oh, and here's the process for reclaiming lost items.
 
 Laura pats Bette's shoulder as she leaves.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1216,7 +1214,7 @@ Laura pats Bette's shoulder as she leaves.
 
 > "Hope" lies on display within a glass case.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Bette:** ...
 
 **Bette:** The "Storm" ...
@@ -1424,7 +1422,7 @@ Outside that square box, I can protect your dreams too, Jones. You'll wake up, a
 **Bette:** Outside that square box, I can protect your dreams too, Jones. You'll wake up, and we'll finish this film together.
 
 **Bette:** This is the very last movie of the 1930s.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1643,7 +1641,7 @@ Reaching over the counter, Bette takes the camera. There are still splotches of 
 
 > Look—her dream is nearly picture perfect.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Jones's condition remains unstable. Most of the time, Bette just sits in the ward, rewriting the script from memory—the real one had been lost to the "Storm."
 
 Occasionally, Jones awakens for a brief moment.
@@ -1911,7 +1909,7 @@ Bette lets her fingertips rest against the glass chamber, mirroring Jones's hand
 **Jones:** Thank you.
 
 Bette shakes her head, then turns to leave wordlessly.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -2200,7 +2198,7 @@ Bette shakes her head, then turns to leave wordlessly.
 
 > When light strikes these films, silver halide undergoes a structural change, forming silver grains.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 In the days that follow, Jones's mood seems to perk up.
 
 She asks Bette to read the newspaper to her, take pictures of the park, and even turn the glass chamber so she could bask in the sun.
@@ -2346,7 +2344,7 @@ Jones parts her lips, uttering something far from pleasant.
 **Jones:** Suit yourself.
 
 The door shuts behind the nurse as she leaves.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -2509,7 +2507,7 @@ The door shuts behind the nurse as she leaves.
 
 > A riddle whose answer is determined by its solver.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Bette:** Jones.
 
 Around the usual time, Bette arrives at Jones's ward—only to find a neatly wrapped gift box tied with a silk ribbon sitting on her chair.
@@ -2769,7 +2767,7 @@ A sweet and eternal dream.
 THE END
 
 THE END
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -3042,7 +3040,7 @@ THE END
 
 > Just like her name.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Jones was buried outside the Foundation, lying alone in another era, destined to disappear with the passage of time.
 
 Since then, Bette has spent many days alone. Though, at least now, having joined the Foundation, she has endless tasks to distract her.
@@ -3228,7 +3226,7 @@ Bette shakes the film strip in her hand.
 The last film of the 1930s.
 
 The last film of the 1930s.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>

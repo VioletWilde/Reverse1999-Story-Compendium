@@ -7,8 +7,6 @@
 - Story units：`8`
 - Trail：`0`
 
-[UTTU](https://uttu.merui.net/story/anecdote/mercuria/en/?part=1)
-
 Inside the Penumbra Can,
 Covered in a layer of dust,
 Are stories buried in the depths of time.
@@ -31,7 +29,7 @@ Are stories buried in the depths of time.
 
 > A mother exits the cotton field, her son becomes an "outlaw."
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Sunday morning.
 
 Everything suggests that today is set to be a fine one.
@@ -195,7 +193,7 @@ A white-gloved hand makes contact with the letter, turning it over.
 The eyes of all present move from the envelope to Mercuria's face, but she betrays no hint of emotion beyond her calm determination.
 
 **Mercuria:** Yes, that's his address.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -380,7 +378,7 @@ The eyes of all present move from the envelope to Mercuria's face, but she betra
 
 > Hush, tread carefully with every choice—but at the same time, savor each one of them.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Processing Area, Prison
 
 Monday is the "busy period" at this prison intake center, as more offenders are offloaded and delivered into the prison system's clutches.
@@ -546,7 +544,7 @@ It beams back at the photographer, as if on the verge of charging forward with u
 **Mercuria:** Yes, it's in its belly—a genuine hoard of Rheingold.
 
 **Mercuria:** And whoever claims the Rheingold within shall find great fortune.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -731,7 +729,7 @@ It beams back at the photographer, as if on the verge of charging forward with u
 
 > It's high time the intricacies of Urban Traffic Code were taught far and wide.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Fingers:** How's it looking, pal? You watching that chick like I told you?
 
 **Voice on the Other End:** You mean Mercuria?
@@ -883,7 +881,7 @@ In the dark, a silent tracker stares out in shock.
 **"Doggie":** The puppy understands entirely.
 
 **ONiON:** What's going on? Hey, the signal's getting really weak! Whoa! Take it easy. Slow down!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1056,7 +1054,7 @@ In the dark, a silent tracker stares out in shock.
 
 > Little specks that glimmer on the silver lining.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Suburbs
 
 **ONiON:** So, who's going to fill me in on what's happened?
@@ -1196,7 +1194,7 @@ With the crisp sound of long grass snapping underfoot, she brushes aside the dea
 **Mercuria:** Hey—there you are.
 
 Hidden in the darkness, two small cunning eyes glint, peering at Mercuria through the crack in the rock.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1357,7 +1355,7 @@ Hidden in the darkness, two small cunning eyes glint, peering at Mercuria throug
 
 > The finest jokes are told gravely.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Mercuria:** Hello, Fingers.
 
 **Mercuria:** MacGuffin the Knife—I've found him.
@@ -1533,7 +1531,7 @@ Waxing poetic during a crisis is the signature of a second-rate literary nerd.
 **Fingers:** Tomorrow night, seven sharp, Black Iron Forest near the prison. Bring it here, and we'll wrap this up.
 
 Unfortunately, Mark Twain really did say those words.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1730,7 +1728,7 @@ Unfortunately, Mark Twain really did say those words.
 
 > Don't blink, life passes by in the blink of an eye.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Black Iron Forest
 
 A dark forest lies nestled in the unclaimed land behind the prison.
@@ -1868,7 +1866,7 @@ The Border Collie lifts its head, staring at the disoriented hitmen, Panzo and A
 **Pickles:** Woof, woof, woof, woof, woof, woof, whuh-woof. \<Under both ethical considerations and the framework of the law, your actions are thoroughly reprehensible.\>
 
 **"Doggie":** The puppy feels deep disgust and anger towards your behavior.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -2027,7 +2025,7 @@ The Border Collie lifts its head, staring at the disoriented hitmen, Panzo and A
 
 > There is nothing new under the sun.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Approximately three hours prior.
 
 Approximately three hours prior.
@@ -2255,7 +2253,7 @@ AJ signs wildly, looking as though he is on the verge of tears.
 **Panzo:** Quit making this damn dog suffer. Nothing's coming out.
 
 **Panzo:** That's just what he said.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -2502,7 +2500,7 @@ AJ signs wildly, looking as though he is on the verge of tears.
 
 > Feeling empty inside? Dine on the latest ads.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The Headonion Show
 
 **ONiON:** Later, your faithful journalist discovered the final diary entry of the leader of Fingers's gang, the Cheshire Cats, penned on his deathbed.
@@ -2778,7 +2776,7 @@ Mercuria softly says the last of her words, then begins to dance. As she does, a
 **ONiON:** In response to the overwhelming complaints alleging the content of this special to be illogical, irrational, or just plain false, let me take this moment to restate the end credits message.
 
 **ONiON:** Whether this program is rooted in real events is yet to be determined, its authenticity is left to the interpretation of the audience. More importantly, this program does not claim to hold the final truth concerning all related incidents.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>

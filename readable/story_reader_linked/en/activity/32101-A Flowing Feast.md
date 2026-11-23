@@ -7,8 +7,6 @@
 - Story units：`20`
 - Trail：`32`
 
-[UTTU](https://uttu.merui.net/story/event/3_2/en/?part=1)
-
 Grip the wheel. Hit the gas.
 Past the lights, the rain, the point of no return.
 A stone's adventure begins.
@@ -43,7 +41,7 @@ A stone's adventure begins.
 
 > Hurry, the prophecies need to be delivered—before they come to fruition.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Street, Paris
 
 **???:** Must we really sit here, Adèle? I have had quite enough—strikes and traffic everywhere!
@@ -319,7 +317,7 @@ Madame Raymond: ...!Madame Raymond: Monster! ... B-Beast!Madame Raymond: Urh—U
 **Adèle:** Wait ...
 
 **Adèle:** Is she smiling?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · Tell Me a Story
 
@@ -367,7 +365,7 @@ Madame Raymond: ...!Madame Raymond: Monster! ... B-Beast!Madame Raymond: Urh—U
 
 > Deny involvement all you like, you're still in the thick of it.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Police Officer:** Please, follow the officer outside and leave your contact details before you go.
 
 The shocked crowd file out like penned sheep, bleating and chattering with each step.
@@ -527,7 +525,7 @@ Adèle recounts the events as they happened. After hearing her out, the officer'
 **Police Officer:** She's the one who reported the case to us. Our officers have already spoken with her.
 
 **Adèle:** She reported the case?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · Under the Mask
 
@@ -582,7 +580,7 @@ A masquerade ball is taking place in Montmartre. It lacks a clear theme, but a m
 
 > Ever try telling a curious creature not to knock your cup off the table?
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Inside the Taxi
 
 The engine starts, churning into a rhythmic patter as the black taxi moves forward. A chime sways in the taxi—a gift from her parents.
@@ -838,7 +836,7 @@ She starts counting on her fingers, reciting a whole list of dishes.
 In perfect sync, the two circle to opposite sides of the Peugeot 201 and open the doors at once.
 
 **Adèle:** Buckle up, to home!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · Gaze Within
 
@@ -925,7 +923,7 @@ Before a shop window on the Champs-Élysées, you stop for a long time, so long 
 
 > At any given time, somewhere, somehow, someone is dreaming.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Interrogation Room, Vigiles Bureau
 
 **Vigil Officer:** The Tavernier curse—every member of your family is destined to hunt endlessly for treasure until they meet their end. Passed through blood relation, usually to the relative closest to them.
@@ -1149,7 +1147,7 @@ Her friend drifts off to sleep, wandering into some dream not yet connected to A
 **Brume:** Beryl Bouanich had foreseen my visit long before I arrived.
 
 **Brume:** Just as she had foreseen all that came afterward.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · \<i\>Arcanist Observer Journal\</i\>
 
@@ -1174,7 +1172,7 @@ In a recent report, Paris was named the most preferred city for arcanists seekin
 
 > It burns so bright that its radiance evaporates everything—including your ego.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Rue de la Paix, Paris
 
 A dizzying crowd has filled Place Vendôme, flowing in from every direction.
@@ -1394,7 +1392,7 @@ Beryl shakes her head. Somehow just that gesture alone is enough to lift her hea
 **Beryl:** The fate she saw was not entirely yours. There is a shadow which lingers on you.
 
 **Beryl:** In a way, it is true. You are indeed cursed.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · Prophecy and People
 
@@ -1448,7 +1446,7 @@ Beryl shakes her head. Somehow just that gesture alone is enough to lift her hea
 
 > Open only to those who haunt the hidden edges of night.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Beryl:** All things carry energy, and we are much more perceptive to it than we think.
 
 **Beryl:** Now, I would ask that you concentrate on the subtle changes around you. You will sense it; you simply need to feel.
@@ -1628,7 +1626,7 @@ She tries to turn, intending to buy Célia a few more seconds to escape, but the
 She yanks the car door open, shoves the dazed Célia inside, then jumps into the back seat.
 
 **Adèle:** Go! Go! Hit the gas!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1840,7 +1838,7 @@ A hotel security guard says he often hears a woman's sorrowful voice during his 
 
 > Yes, it's your turn now.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Adèle:** Are you alright?
 
 Her friend nods, catching her breath. But Adèle cannot help but notice how pale she is—far too pale—beneath the yellowy glow of the street lamps.
@@ -1986,7 +1984,7 @@ But a glimmer of genuine confusion passes over Beryl's face.
 **Beryl:** You must be confused. There was no other crystal.
 
 **Beryl:** That gem was already in your hand when you came in.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · Witness Report
 
@@ -2056,7 +2054,7 @@ You're just about to enjoy your Mont Blanc and a rich cup of coffee when the arg
 
 > Some say history turns in an endless loop.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Vigil Officer:** What did you know about Manus Vindictae at that time?
 
 A stack of photos slides across the table toward Adèle.
@@ -2240,7 +2238,7 @@ The driver is startled to see her offhand remark actually made Beryl pause to th
 She offers a polite smile as she locks the parlor entrance behind her.
 
 **Beryl:** Let's go. Let us see what your friend and my "employer" has in store for us.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · Alarms Ringing
 
@@ -2265,7 +2263,7 @@ Hello. Yes, I ... I need to report a missing person. My Aunt Mary. She's the you
 
 > Didn't you hear the rule? "No more talk of fate." ... Oh, I just broke it, didn't I?
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Adèle:** Célia? It's Adèle! Are you home? \*sigh\* I thought not.
 
 Adèle turns to the next door, pulling a key from her pocket.
@@ -2449,7 +2447,7 @@ Her voice catches.
 Adèle blanks, mind and tongue stammering at the colliding dissonance of what was and is.
 
 **Adèle:** How?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -2751,7 +2749,7 @@ A kind friend sends you a fortune-telling postcard, saying the pattern on the ba
 
 > No remedy exists to cure this mania—not even the warmth of a dreamy summer afternoon.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Adèle forces a broken smile to her face.
 
 **Adèle:** Madame Bouanich, as much as I appreciate your humor, now really isn't the time for it. Where did she go?
@@ -3029,7 +3027,7 @@ After a brief thought, she opens the car door again.
 **Beryl:** Thank you.
 
 The Peugeot 201 slips through the crowd, turning down a quiet street toward its destined end.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · Who's there?
 
@@ -3099,7 +3097,7 @@ Chants from marches and protests echo through the streets. You begin thinking ab
 
 > From the silent kingdom of the dead, a sliver of light escapes.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The Catacombs
 
 Bricks and soil several stories high shut out the sunlight above. Footsteps making dull echoes through the underground passage.
@@ -3327,7 +3325,7 @@ The shadow flickers and vanishes. Without even relighting her lamp, Adèle runs 
 **Professor Roseau:** Wait, miss! Please don't venture off alone!
 
 The light behind her fades, and with it the shouting of the professor.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · Witness Report
 
@@ -3352,7 +3350,7 @@ A boatman on the Seine says he saw unusual blue flames near the riverbank one ni
 
 > Restricted area—authorized access only.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Adèle:** Célia, wait! Why are you running from me?
 
 Chasing the blur, Adèle turns another corner and stops, startled.
@@ -3640,7 +3638,7 @@ Célia: Uhh—ughhh ...Adèle: Huh ...?Félicienne: How rude. You really ought t
 **Félicienne:** How rude. You really ought to reflect on your choice of friends, my darling.
 
 **Félicienne:** I've no patience for personal slander.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -3924,7 +3922,7 @@ During Louis XIV's reign, life for most nobles of the sword was tough. They had 
 
 > Bloodstains never wash off.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Adèle:** No. No! Célia!
 
 She falls to her knees beside her friend's body, the blood pooling around her, as a whisper slithers into her mind, growing louder and louder.
@@ -4106,7 +4104,7 @@ A firm hand falls on her shoulder, and at last she finds herself unable to resis
 Adèle hears herself agreeing softly—meekly. The necklace, heavy with its vivid blue diamond, hangs against her skin—tangible, real.
 
 As if it had always been there.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · Witness Report
 
@@ -4131,7 +4129,7 @@ Many mothers report that their children, scared and screaming, run back to them 
 
 > Horror! Gore! A play where both the actors and the audience pass out by the end—that's what makes a truly great performance!
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 A fine restaurant that requires reservations may not be an ideal spot for dinner after an adventure.
 
 The atmosphere brooks no laughter, no clinking glasses—just conversation restrained under the weight of etiquette.
@@ -4461,7 +4459,7 @@ The professor holds his stare on the pendulum in Beryl's hand, guessing she's on
 Prophecy is something to be revered and feared.
 
 **Professor Roseau:** So, tomorrow at dawn, we will perform the final ritual atop the Eiffel Tower.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · Depths of Myth
 
@@ -4486,7 +4484,7 @@ Everything is unfolding right now. No form of divination, prophecy, thought, or 
 
 > The "path of fate" seems like nothing more than fiction to those who cannot stand upon it.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Protester I:** Liberty, equality, fraternity! Deliver what was promised!
 
 **Protester II:** Hear our voice! Respect our demands!
@@ -4774,7 +4772,7 @@ It passes through the corridor, out the door, vanishing into the blinding daylig
 **Beryl:** Goodbye, Adèle. I look forward to seeing what comes of your actions.
 
 **Beryl:** To seeing another prove me wrong.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -5115,7 +5113,7 @@ It passes through the corridor, out the door, vanishing into the blinding daylig
 
 > Paris is a dream unto itself, and that dream is ending.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 She runs through the endless white, not knowing what she's searching for, nor where the path will end.
 
 **Adèle:** Streams of fate ... But how can I find them? Dowsing might be a little on the nose.
@@ -5341,7 +5339,7 @@ Enough ... Enough!! You're fired, Adèle!
 Took you long enough.
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · Witness Report
 
@@ -5366,7 +5364,7 @@ A painter sketching in a square remembers reaching a point where his artwork was
 
 > You will always have a place in my heart, ma chère amie.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The professor writes one last line, snaps his notebook shut, and reaches under his coat.
 
 His fingers grip his oldest friend—a "Le Protector" revolver.
@@ -5718,7 +5716,7 @@ The same smile she gave her long ago in that divination salon—the version of h
 **Beryl:** And in it, you are a remarkably stalwart droplet. Your struggle has at last reached its conclusion.
 
 **Beryl:** The rain ... It is about to fall.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · What a Cruel Fate
 
@@ -5766,7 +5764,7 @@ The same smile she gave her long ago in that divination salon—the version of h
 
 > We might just get what we wished for beneath its veil.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Without hesitation, Adèle rushes to Célia, trying to steady her friend.
 
 Célia weakly shakes her head, stopping her.
@@ -5986,7 +5984,7 @@ But this time her translucent gaze settles on Adèle.
 **Beryl:** What do you think, Adèle?
 
 **Beryl:** Should she be saved or pay for what she has done with her life?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -6238,7 +6236,7 @@ A report from a special investigator mentions that her sound measurement equipme
 
 > You are the protagonist, the star, the hero! Trust me, no one can resist the spotlight.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Adèle:** Sounds like you're just trying to pass the burden onto me.
 
 **Adèle:** Whether she lives or dies ... The weight ends up on my shoulders, doesn't it?
@@ -6444,7 +6442,7 @@ She leans back in the passenger seat and closes her eyes.
 The radio begins to play.
 
 **Beryl:** I hope that, when I awake, you will have reached your destination.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · On the Book Cover
 
@@ -6531,7 +6529,7 @@ In an old bookstore on Rue Saint-Honoré, a faded book draws your attention. Its
 
 > Sharing secrets is how conspiracies form.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Interrogation Room, Vigiles Bureau
 
 **Vigil Officer:** So, let me get this straight: The fifth "Storm" was brought forth by Manus Vindictae, and you witnessed the process firsthand.
@@ -6669,7 +6667,7 @@ You have seen the golden thread, have you not?
 AF l o w i n gF e a s t
 
 AF l o w i n gF e a s t
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>

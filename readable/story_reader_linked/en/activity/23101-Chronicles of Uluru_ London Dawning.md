@@ -7,8 +7,6 @@
 - Story units：`20`
 - Trail：`11`
 
-[UTTU](https://uttu.merui.net/story/event/2_3/en/?part=1)
-
 When the smog thickens, threatening to consume the light,
 Who shall stand firm? Who shall charge forth? Who shall raise their voice?
 Who shall become the flame bright enough to cut through the haze?
@@ -43,7 +41,7 @@ Who shall become the flame bright enough to cut through the haze?
 
 > The flames of passion, tinged with a strange shade of yellowish gray.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Tooth Fairy:** I'm ready to go.
 
 **Driver:** Please fasten your seat belt, Miss. We're setting off now.
@@ -323,7 +321,7 @@ Left to her own devices, Flutterpage could recite the job of every arcanist on t
 **Flutterpage:** Great! Then I'll show you 'round. You'll like it here.
 
 Flutterpage grabs Tooth Fairy's hand and drags her toward the heart of Cross Street.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · Opening Day
 
@@ -348,7 +346,7 @@ Fun, food, and the unforgettable **Uluru!** Come one, come all—the Uluru Fair 
 
 > Reach your hand into this long, dark pipe.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Flutterpage:** Welcome to Cross Street!
 
 Cross Street, London
@@ -570,7 +568,7 @@ She tucks the jar away in the folds of her clothing, then lightly grabs the hem 
 Flutterpage ponders for a moment before her eyes widen in realization.
 
 **Flutterpage:** Sure do. Actually, these snails are for her! You can tag along with me to see her, if you like.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · A Human ... Report!
 
@@ -595,7 +593,7 @@ Between the Pages
 
 > A recluse, shrouded in rumors.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Old House, Cross Street
 
 The smog in the garden feels unusually dense. It has taken on an almost milky, gelatinous quality.
@@ -823,7 +821,7 @@ Brimley, fleeing pursuit, eventually finds his way back.
 **Brimley:** Would you mind helping us with some of the sick?
 
 **Brimley:** After that black fog rolled through, patients with this "tuber-coal-sis" variant seem to be multiplying as fast as hares in the Great Artesian Basin!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -833,7 +831,7 @@ Brimley, fleeing pursuit, eventually finds his way back.
 
 > What has been engraved in your mind, seared into your sight, and etched onto your very being.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Through misty woods, on paths concealed by haze.**
 
 **He thrice died and thrice was born, in ancient days.**
@@ -1033,7 +1031,7 @@ Willow's prosthetic leg grinds and creaks as the joints rub up against each othe
 **Willow:** Fit for the rubbish now!
 
 **Willow:** Rubbish!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · Guide on Emergencies
 
@@ -1058,7 +1056,7 @@ Two Alternating Handwriting Styles
 
 > The wind, blowing through this place, has seen everything.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 As morning breaks, the rooster crows, announcing the start of another day of hard labor for the people of the East End.
 
 In this land of industry, shipyards, and factories, there is a dire need of coal, fuel, and the labor to sustain them.
@@ -1332,7 +1330,7 @@ She swiftly closes the patient's mouth, making him swallow her bizarre medicine 
 **Tooth Fairy:** What's wrong?
 
 **Flutterpage:** We've got to find a way to clear up the sky!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · That Thick, Stubborn ...
 
@@ -1357,7 +1355,7 @@ Notes on a Weather Chart
 
 > A self-portrait, a reflective depiction of oneself.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The oak door slowly creaks open, the inside air meeting the outside and stirring up a faint mist.
 
 **Willow:** ...
@@ -1645,7 +1643,7 @@ Flutterpage remains in place, her eyes suddenly filled with tears. Tooth Fairy s
 **Tooth Fairy:** ...
 
 They look on as Willow shakily walks into the smog, each step grinding away a little more of her dignity.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1655,7 +1653,7 @@ They look on as Willow shakily walks into the smog, each step grinding away a li
 
 > This gap—fill it up with tangible things, like warm hugs and heartfelt embraces.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Caroline Bartley:** The Floor Ritual is one of the most popular events of the Uluru Games. It has a bewitching style that generates a resonance between the dancer and audience.
 
 **Caroline Bartley:** Charlotte was a genius. She was born for it. And God has sent her a coach covered in dark feathers and skilled in ancient Celtic runes.
@@ -1947,7 +1945,7 @@ Willow pries Flutterpage's arm from around her waist, gently pushing her back.
 Tooth Fairy takes Flutterpage's hand, and, as they leave the room, the old house sinks back into silence. There is no sound save for the heavy ticking of the grandfather clock.
 
 **Willow:** She's seen too much of this embarrassing side of me.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · Life's Essentials
 
@@ -1972,7 +1970,7 @@ Lubricating Ointment Snail mucus, acacia sap (scraped), swiftlet saliva, vulture
 
 > What you need are sharp eyes to spot value, a touch of arcane skill, and a talking hat.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Radio Broadcast:** So, I dreamt of eating a marshmallow last night, but it tasted like rubber! And the next day, my wife asked me why I ate the cotton she had in her nose.
 
 **Radio Broadcast:** I said it's because the air was so dirty that I wanted to block up my throat. And she laughed.
@@ -2272,7 +2270,7 @@ The corner of Willow's mouth twitches.
 **Willow:** ...
 
 A blonde woman stands on the other side of the garden fence, her face half-covered by the curled stems of a carnivorous plant.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -2282,7 +2280,7 @@ A blonde woman stands on the other side of the garden fence, her face half-cover
 
 > You can always count on someone to be there for you, waiting to support you.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Tooth Fairy:** Be careful. Now you can spit it out. Right.
 
 **Patient I:** \*puke\*
@@ -2538,7 +2536,7 @@ Calm, steady footsteps grow nearer, and a large hand tousles the little girl's h
 **Little Lisa:** Mr. Fog!
 
 **Tooth Fairy:** Mr. Fog?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · Bygone Days
 
@@ -2563,7 +2561,7 @@ Calm, steady footsteps grow nearer, and a large hand tousles the little girl's h
 
 > She has been silent for far too long.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 \*drip-drip-drip\*
 
 **Flutterpage:** ...
@@ -2797,7 +2795,7 @@ The bold, crooked letters scrawled across the top proudly proclaim the letter's 
 **Caroline Bartley:** What?
 
 **Caroline Bartley:** You mean ...
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -2807,7 +2805,7 @@ The bold, crooked letters scrawled across the top proudly proclaim the letter's 
 
 > The relentless toil, all for the sake of their eyes.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Freddy the Rascal:** Outta the way, outta the way! I've found the perfect component for Mr. Fog's machine!
 
 The boy darts through the bustling alley, slipping between the hats in the smog, and landing among the crowd at the corner of the square.
@@ -3047,7 +3045,7 @@ She can't make out where they went through the thickness of the smog.
 Slightly fatigued, she pauses to tidy up her hair.
 
 **Tooth Fairy:** But what exactly was it?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · Research Log
 
@@ -3072,7 +3070,7 @@ London Air Pollution Auto-Detect Cleaner Research Notes
 
 > Quick, get out there before the cakes sell out.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Flutterpage:** Knock, knock! Which would make the world a better place, art or a heart of gold? Ha-ha! Neither! The little knocker-upper, Flutterpage, will!
 
 Flutterpage knocks on Willow's back door, but she receives no answer.
@@ -3398,7 +3396,7 @@ Flutterpage is still tugging Willow in the direction of the venue, but there see
 **Will:** The Foundation officers canceled the qualifiers.
 
 **Will:** Mr. Fog's so-called "biggest air purifier ever" doesn't work.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -3408,7 +3406,7 @@ Flutterpage is still tugging Willow in the direction of the venue, but there see
 
 > The crowd waited, then it began with a single spark.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 One hour earlier.
 
 **Police Constable I:** Please enter in an orderly manner, everyone. The ceremony will begin shortly.
@@ -3598,7 +3596,7 @@ Flutterpage lifts her head, her eyes meeting Tooth Fairy's.
 **Flutterpage:** Ms.-Ms. Tooth Fairy ...
 
 **Flutterpage:** Why?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · The Foundation's Note Slips
 
@@ -3623,7 +3621,7 @@ Note 1 It's hard to say which is more miserable—the pea soup in the air or the
 
 > And thus, salvation is obtained.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Patient I:** The black fog seems terrifying. If I'd been there, I'd have buried myself in the garden or jumped into the sewer before it reached me.
 
 **Patient II:** Thankfully, all the patients and nurses were fine. Only Leonard's daughter got a few bruises.
@@ -3831,7 +3829,7 @@ Flutterpage moves closer to get a better look at it.
 **Tooth Fairy:** It does. I suppose I'll keep this, then.
 
 Tooth Fairy produces a handkerchief, contentedly wraps the tooth, and stows it in her pocket.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -3841,7 +3839,7 @@ Tooth Fairy produces a handkerchief, contentedly wraps the tooth, and stows it i
 
 > A torch burns brightly, in the hearts of the people.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Radio Broadcast:** Let's listen again to the interview she had all those years ago.
 
 **Radio Broadcast:** "As the youngest Floor Ritual record holder of the century, you're just one step away from becoming the world champion. What else do you wish to achieve in your career?"
@@ -4063,7 +4061,7 @@ There is a resolute happiness in the air, as though no force could diminish thei
 **Flutterpage:** Since the qualifiers have been canceled, we'll just have to hold our own Games.
 
 **Flutterpage:** Ms. Tooth Fairy, I've found the right way to look at the fish tank.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · The Aftermath
 
@@ -4088,7 +4086,7 @@ To: The Foundation's London Branch
 
 > And now, we are both host and participant.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Mr. Fog:** So, you're going to join them?!
 
 **Brimley:** I ... You know me. I'll always jump brim first into the unknown.
@@ -4312,7 +4310,7 @@ The two of them remain silent as they observe the mayhem of the sports ground, w
 **Willow:** Hmph.
 
 Willow holds a crumpled registration form in her hand.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -4322,7 +4320,7 @@ Willow holds a crumpled registration form in her hand.
 
 > You are positively luminous, darling!
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Uncle Bill, Aunt Connie, Little Mary, Old Harold ...
 
 The people of Cross Street stand gathered at the front of the stage, hammers and saws in their hands. Old Harold discreetly moves a shovel out of sight.
@@ -4576,7 +4574,7 @@ Caroline gracefully strides onto the floor, pausing to give a gentle bow to the 
 **Broadcast:** Player No. 2406, Caroline Bartley, whenever you're ready.
 
 Caroline starts to dance. Receiving her channeled energy, the didgeriwood produces a rich, resonant sound.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · The Games Go On
 
@@ -4601,7 +4599,7 @@ Uluru London Qualifiers Athlete List (Partial)
 
 > ... Lifted up, by the hand of your former self.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Day 1
 
 Day 1
@@ -4817,7 +4815,7 @@ A number of spectators start to leave, while others stay put.
 **Tooth Fairy:** ...
 
 Tooth Fairy looks into the murky yellow smog and sighs.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -4827,7 +4825,7 @@ Tooth Fairy looks into the murky yellow smog and sighs.
 
 > Dance. Dance until the sky clears up.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Caroline Bartley:** Did you hear that? The Games have been suspended.
 
 **Willow:** Yes.
@@ -5019,7 +5017,7 @@ Unable to squeeze her way through, Flutterpage leaps over the crowd, waving to W
 **Willow:** ...
 
 Willow gives the two of them a subtle nod.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -5029,7 +5027,7 @@ Willow gives the two of them a subtle nod.
 
 > And so, they set off on a new adventure.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 One week later.
 
 \*knock-knock\*
@@ -5191,7 +5189,7 @@ Flutterpage's head sticks out from behind Willow.
 Dusk paints the world gold, and from a distant riverbank, a freighter sounds its horn.
 
 Today, the skies of London are clear.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · Daily Newspaper Excerpts
 

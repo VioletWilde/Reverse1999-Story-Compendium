@@ -7,8 +7,6 @@
 - Story units：`9`
 - Trail：`0`
 
-[UTTU](https://uttu.merui.net/story/character/barcarola/en/?part=1)
-
 On wings of melody, she takes flight,
 Embarking to lands beyond the ocean's sight.
 
@@ -29,7 +27,7 @@ Embarking to lands beyond the ocean's sight.
 <a id="episode-2450101"></a>
 ## 2450101 · VIP Barrel Seat
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Deck, "Free Breeze" Cruise Ship
 
 **Cruise Ticket Seller:** Ladies and gentlemen, it's time to make your choice!
@@ -223,7 +221,7 @@ The ticket seller acknowledges the new participant in their conversation.
 **Guest:** I mean no disrespect. Only that, with her rare talent, it seems almost a waste that she be confined to just a single ship.
 
 **Cruise Ticket Seller:** Perhaps the only reason is that we were the first to invite her.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -434,7 +432,7 @@ The ticket seller acknowledges the new participant in their conversation.
 <a id="episode-2450102"></a>
 ## 2450102 · Promised Destinations
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Inland Port, Cremona
 
 **Cruise Ticket Seller:** Do you really mean that you won't join the "Free Breeze" Band, Signorina? If you were to join, I know the captain would be over the moon!
@@ -640,7 +638,7 @@ The corners of the furniture bear splashes of paint marks. Back then, she had to
 Today is the same as countless other afternoons in the past.
 
 Another lonely afternoon spent with her Crackling Box.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -863,7 +861,7 @@ Another lonely afternoon spent with her Crackling Box.
 <a id="episode-2450103"></a>
 ## 2450103 · A Monotonous Rondo
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Barcarola's Home
 
 **Barcarola's Mother:** Thank you all for taking the time to visit us.
@@ -1047,7 +1045,7 @@ Even in her mother's dulcet calm voice, the questions sink deep, and the smile d
 She fires back with a barrage of questions, stepping back from her mother with each one until she's almost left the room.
 
 This marks her second failure of the day.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1246,7 +1244,7 @@ This marks her second failure of the day.
 <a id="episode-2450104"></a>
 ## 2450104 · Passion and Hesitation
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Church, Cremona
 
 The city is dotted with many churches, and their unattended pews at times serve as sanctuaries for those seeking a place of solitude.
@@ -1402,7 +1400,7 @@ She knows this land. She knows the bricks and mortar of it, the seasons as they 
 **Barcarola:** I'm leaving Cremona. Once I pass my exams, I'm boarding the "Free Breeze" and leaving this place.
 
 **Barcarola:** When that time comes, I'll sing a song that I could never record for you.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1410,7 +1408,7 @@ She knows this land. She knows the bricks and mortar of it, the seasons as they 
 <a id="episode-2450105"></a>
 ## 2450105 · The Indivisible
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Practice Room
 
 The modest venue is packed with people all around, leaving only the central area free for the performers.
@@ -1600,7 +1598,7 @@ The once odd and impractical shape has been smoothed into an elegant and beautif
 **Barcarola:** But for now, I guess I just hope you'll cheer on my performance.
 
 **Barcarola:** Let's go. I have the perfect song to impress the captain.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1608,7 +1606,7 @@ The once odd and impractical shape has been smoothed into an elegant and beautif
 <a id="episode-2450106"></a>
 ## 2450106 · Into the Vast World
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Barcarola's Mother:** I see you've already made up your mind.
 
 **Barcarola's Mother:** Have you thought about what you're doing? What if something happens, we won't be there to help you? What if you get sick or hurt? You'll be so far away.
@@ -1808,7 +1806,7 @@ Farewells can feel so cold, like iron and rain, like a violin string drawn taut 
 **Barcarola:** No, this can't be happening.
 
 In a panic, she turns around and dashes out through the door.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1816,7 +1814,7 @@ In a panic, she turns around and dashes out through the door.
 <a id="episode-2450107"></a>
 ## 2450107 · Farewell, Cremona
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Mamma, me and you.
 
 **Barcarola:** ...!
@@ -2008,7 +2006,7 @@ She finds a quiet spot and lowers herself to the ground.
 I fear the coming daylight might just keep me here.
 
 Life's journey offers me poetry and song.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -2016,7 +2014,7 @@ Life's journey offers me poetry and song.
 <a id="episode-2450108"></a>
 ## 2450108 · Such a Serene Evening
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The concert is almost over. The young woman on the stage releases the final notes from her Crackling Box, allowing them to flutter into the air.
 
 But just as the audience stands ready to head back to their cabins, she unfolds a piece of paper she had earlier tucked away.
@@ -2130,7 +2128,7 @@ All she can do is wish her child well.
 **Barcarola:** Come into my nimble little boat.
 
 **Barcarola:** Santa Lucia, Santa Lucia.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -2138,13 +2136,13 @@ All she can do is wish her child well.
 <a id="episode-2450109"></a>
 ## 2450109 · Free Mode
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 ***
 
 **GAMEPLAY ONLY**
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---

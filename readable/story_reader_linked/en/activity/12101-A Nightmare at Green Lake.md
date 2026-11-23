@@ -7,8 +7,6 @@
 - Story units：`19`
 - Trail：`12`
 
-[UTTU](https://uttu.merui.net/story/event/1_2/en/?part=1)
-
 A daytrip by a gloomy lake—prepare the mist, mycelium, and a multitude of tales.
 Watch as those dreams become realities here ... By a green lake still waiting for its friend.
 
@@ -39,7 +37,7 @@ Watch as those dreams become realities here ... By a green lake still waiting fo
 <a id="episode-1210100"></a>
 ## 1210100 · Panic at the Campsite
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Young Male:** Oh! It seems this is the entrance.
 
 Green Lake Campsite
@@ -137,7 +135,7 @@ The two young people who are away from the others are now in each other's arms.
 **???:** ...
 
 **Freddie:** Help! Help ...
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -258,7 +256,7 @@ The two young people who are away from the others are now in each other's arms.
 
 > The start of a tragedy, or maybe the beginning of an adventure.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Sonetto:** Timekeeper, now that we have given the reports,
 
 **Sonetto:** and Madam Z said we won't have any other assignments for a while ...
@@ -488,7 +486,7 @@ It is so decided.
 **Horropedia:** Now, let's take the hands of our two new partners. Journey on!
 
 **Sonetto:** Pl-Please … wait a minute!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -741,7 +739,7 @@ It is so decided.
 
 > They were taken away, leaving a bump in the smooth road.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Radio:** Thank you for the letter, Emily. Now we're bringing our driver friends the latest weather forecast.
 
 **Radio:** Ohio is having a sunny week, with a comfortable level of humidity and zero chance of rain.
@@ -853,7 +851,7 @@ COMBAT:
 **Vertin:** No problem, Ms. Tooth Fairy. I took the map with me before we got out. But there is smoke coming out of your car. Is it alright?
 
 **Tooth Fairy:** Don't worry, Vertin. My brother bought an insurance. The brokers will soon contact him.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · Old notebook
 
@@ -874,7 +872,7 @@ COMBAT:
 
 > The cold metal tastes like toothless gums.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Bonfire Camping Area
 
 **Sonetto:** This ... this must be the camp.
@@ -1000,7 +998,7 @@ Joint Committee of SF
 **Z:** ...
 
 **Z:** Hello, is it the Liaison Department of Zeno Armaments Academy? I am Z. Please put me through Lieutenant Vanya.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1010,7 +1008,7 @@ Joint Committee of SF
 
 > Hurry, friends! The raspberry party is about to begin!
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Blonney:**"AHHHHH!!!"
 
 **Anne:** What was that?! Did someone scream?!
@@ -1268,7 +1266,7 @@ The critter roars in pain, waving its huge claws wildly. The Recorder is hit and
 COMBAT:
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1545,7 +1543,7 @@ The critter roars in pain, waving its huge claws wildly. The Recorder is hit and
 
 > The last photograph of the best howler, it's dizzying and dotted with shining stars.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Tooth Fairy:** It escaped, taking my precious collection away.
 
 **Vertin:** Nah, there's no way to follow it. The trees it pushed down have blocked the path. This would take us some time.
@@ -1657,7 +1655,7 @@ The blonde girl falls silent for a brief moment and then storms away.
 **Tooth Fairy:** Kids, if you find any teeth, please pick them up and hand them to me.
 
 **Blonney:** Hurry up, Freddie. I'm freezing!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1811,7 +1809,7 @@ They push and shove each other, begrudgingly clearing the way for you.
 
 > I climbed the creaky wooden stairs to see the dusty treehouse.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Living area of the Cabin
 
 **Sonetto:** The lock has been broken. Those are bite marks from small critters. They might have nested inside.
@@ -2071,7 +2069,7 @@ The rest of them look at each other. Suddenly, Horropedia gasps and rubs his sho
 **Horropedia:** He said and did all the things you shouldn't be doing.
 
 **Horropedia:** We are in a horror movie. His actions are like taking some sleeping pills, putting the noose around his neck, and shooting himself in the head.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -2328,7 +2326,7 @@ The rest of them look at each other. Suddenly, Horropedia gasps and rubs his sho
 
 > First the "loner", then the "failed fugitive". Now more than ever, we must act together.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 No one talks while waiting for Jason. They lower their heads, hoping the torturous waiting would end soon.
 
 **Horropedia:** It has been 7 minutes and 25 seconds since our Bro the Brave took the one-man mission.
@@ -2442,7 +2440,7 @@ She throws the glittering glass jar to her friends and runs into the forest with
 COMBAT:
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -2586,7 +2584,7 @@ You add a rest to the movement.
 
 > She licked the glittering wing dust from her hand, recalling the tooth fairy's taste as it burst in her mouth.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Blonney:** Ugh!
 
 **Blonney:** My head, everywhere, hurts. Did I get pulled into pieces or ...
@@ -2812,7 +2810,7 @@ Blonney, shocked by what she heard, watches Tooth Fairy wrapping up her devices 
 **Tooth Fairy:** It seems I need to apologize to Vertin for letting out her secret.
 
 **Tooth Fairy:** But thank goodness, you are on her side now. Our negligence didn't cause much damage.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -3085,7 +3083,7 @@ Blonney, shocked by what she heard, watches Tooth Fairy wrapping up her devices 
 
 > A courageous, wonderful, and noble spirit. My sweet savior, my final girl.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Horropedia:** Hmm. "The Last Girls" normally has two categories.
 
 **Horropedia:** Anne is the exemplar of the first kind—pure, innocent, and mild, like a ...
@@ -3243,7 +3241,7 @@ A strong odor of beasts suddenly fills the air.
 **Horropedia:** Wow! A miracle, the brave heart, and the miserable death of the crazy criminal killed by his own weapon.
 
 **Horropedia:** This is The Last Girl.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -3422,7 +3420,7 @@ A strong odor of beasts suddenly fills the air.
 
 > A meeting of collectors.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Tooth Fairy:** …
 
 **Tooth Fairy:** A warehouse filled with bizarre little items.
@@ -3472,7 +3470,7 @@ Before the kindhearted girl finishes her words, someone else takes the boards fr
 COMBAT:
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -3482,7 +3480,7 @@ COMBAT:
 
 > Oh! My mind trembles at its ethereality!
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Horropedia:** You offered us the best odds. We have The Last Girl!
 
 **Anne:** Please don't say that. I'm not that good. It was pure luck.
@@ -3562,7 +3560,7 @@ But soon he sits up straight again and approaches the table eagerly.
 Tooth Fairy looks up at the dark attic.
 
 **Tooth Fairy:** Pity, I still haven't found a tooth.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -3665,7 +3663,7 @@ Tooth Fairy looks up at the dark attic.
 
 > It's time to cleanse anew, my darling.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The young staff of the Foundation are making deductions from the current situation.
 
 The city girl and the town girl lie on the sofa. They snuggle up to each other and fiddle with the clutter on the table.
@@ -3931,7 +3929,7 @@ It's a misjudgment of her own arcane ability—a mistake commonly made by rookie
 Horropedia shakes his hand, a grin spreading across his face.
 
 **Horropedia:** If you are willing to take advice from me, I would say don't overburden yourself.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -4216,7 +4214,7 @@ Horropedia shakes his hand, a grin spreading across his face.
 
 > A crisp outer shell with a tattered note inside. Everyone likes to read their fortune.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The ghost bride's flesh and wedding dress smash to the ground, emitting a beastly stench and turning into a pile of black fur.
 
 **Horropedia:** There's a note hidden inside, just like the one found in the butcher's corpse.
@@ -4420,7 +4418,7 @@ Anne seems to be shy. She scrunches up her chest and scratches her nose lightly.
 Anne reaches out a dry palm and points to the moon.
 
 **Anne:** That … the rain has stopped.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -4571,7 +4569,7 @@ Anne reaches out a dry palm and points to the moon.
 
 > You stand taller, yet you see no farther.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The humid Green Lake is shrouded in mist.
 
 **Horropedia:** That's right. This is where all the stories are leading to.
@@ -4677,7 +4675,7 @@ His arms folded, Horropedia walks half a circle around the box.
 That makes sense.
 
 Horropedia thinks for a few seconds. He raises his eyebrows in approval and opens the box.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -4806,7 +4804,7 @@ Horropedia thinks for a few seconds. He raises his eyebrows in approval and open
 
 > The poor, sweet girl and the terrifying monster are classic characters in horror movies.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Jennifer:** Today I'm going to read you The Frightening Hunter! I wrote it yesterday!
 
 **Deer Sockpuppet:** Read it! Read it!
@@ -4944,7 +4942,7 @@ Jessica: This is the last surprise I've prepared for you. Now, enjoy!
 COMBAT:
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -5097,7 +5095,7 @@ Jennifer, we gotta go. Where are you?
 
 > Slicing and stitching, new scratches, and old sores—my flawless creations.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Vertin:** The lighthouse is sinking. Everyone, move and leave now!
 
 **Blonney:** Anne ... She ...
@@ -5183,7 +5181,7 @@ The critters guarding the bank are roaring together.
 COMBAT:
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -5286,7 +5284,7 @@ The critters guarding the bank are roaring together.
 
 > And so the Red Sea parted to reveal the land.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Horropedia:** Honestly, can't we just show her our sincerity and care?
 
 **Horropedia:** To share something from the bottom of our hearts, to cure her agony caused by the antagonist's lonely childhood.
@@ -5612,7 +5610,7 @@ A familiar figure approaches them.
 **Vertin:** People from the "outside world." Don't worry. They won't hurt you.
 
 **Vertin:** You might receive some training for a period. It might be a bit boring, but I promise it won't last too long.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -5887,7 +5885,7 @@ A familiar figure approaches them.
 
 > The first photo from behind the scenes, inspiring vitriolic critique and deep slumber.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Tooth Fairy:** Are you suffering from the headache again?
 
 **Z:** Me? No, I'm not.
@@ -6033,7 +6031,7 @@ Tooth Fairy turns around, leans over her seat, and presses the shutter.
 The children are leaning against each other and sleeping in peace.
 
 That's the end of the horror story, which is not that horrible, though.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>

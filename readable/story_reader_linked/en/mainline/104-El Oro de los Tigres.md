@@ -7,8 +7,6 @@
 - Story units：`23`
 - Trail：`21`
 
-[UTTU](https://uttu.merui.net/story/main/chapter-4/en/?part=1)
-
 1913 · Happy birthday to you.
 
 ## Contents
@@ -44,7 +42,7 @@
 
 > You've had it before. The silent, old and familiar black.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Druvis Ⅲ:** ...!
 
 **Druvis Ⅲ:** Vertin ...
@@ -170,7 +168,7 @@ Familiar and unfamiliar ones bustle around in the hallway, holding proposals tha
 **Medical Staff I:** Your friend is waiting for you in the rehab center. Mesmer Jr., remember?
 
 **Medical Staff II:** Let us take you there, so you guys can catch up.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -334,7 +332,7 @@ Dear Z, the last person from who I'd expect a letter, I am glad to hear from you
 
 > Under the bricks and stones, few plants can vegetate here.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Foundation Staff:** Ms. Druvis, we are waiting for your response.
 
 **Druvis Ⅲ:** Now ... I am the last to be invited.
@@ -440,7 +438,7 @@ Constantine: You, who accidentally and rather luckily escaped from the "Storm" i
 **Constantine:** But ...
 
 **Constantine:** Don't keep me waiting for too long.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -567,7 +565,7 @@ There stands an unfinished card tower.
 
 > Hopping and bouncing, it marches forward with the pride of an alchemist and the manner of a lady.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Lobby, St. Foundation
 
 **Z:** ... Yes. I've received the report on the Chicago office.
@@ -777,7 +775,7 @@ More of the people in white are attracted by the noises in this room.
 The guard covered in odd slime tries to get up off the floor with great effort.
 
 **Guard I:** Achoo! Ugh ... It's good to see you here. W-we must apply for more guards for this room!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1044,7 +1042,7 @@ The Sun Also Rises
 
 > See, we are all experts in Vodka.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Laplace Rehabilitation Center
 
 Brisk, lively running footsteps echo between the walls of the empty hallway.
@@ -1236,7 +1234,7 @@ Someone has hit the nail on the head.
 **Z:** My senior asked me to make sure that you had a comforting tour.
 
 **Z:** I hope this tour is helpful for you.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1464,7 +1462,7 @@ At the meeting this morning, MP Callaghan and his great-grandson Dr. Callaghan J
 
 > Harder than the sands, warmer than the stones. Another shelter that you can count on.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Guest Room, St. Foundation
 
 **Guard I:** Where on earth do these seeds come from?
@@ -1602,7 +1600,7 @@ COMBAT:
 The woods always welcome their friends to come under their shelter while keep out the ill-intentioned. This has been their way in the past, and it will stay the same in the future.
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1753,7 +1751,7 @@ Twigs thicken into branches, and more new branches come out from them. And new l
 
 > To welcome the unexpected good luck, clean your chimney so it won't get stuck.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Guest Room, St. Foundation
 
 **X:** Alright, here are ... 30 cans of Dr. Papper, 20 bags of Happy Wedges, 11 bags of Big Foot Gummy, and a bottle of insect repellent for plants.
@@ -1947,7 +1945,7 @@ The oaks march on like waves. Their bud scales keep growing, extending, chasing,
 COMBAT:
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -2171,7 +2169,7 @@ Following the hissing noise of machine, the screen lights up.
 
 > Don't cut off power so quick, silly! You missed that song.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Lobby, St. Foundation
 
 The receptionist is confirming the name list just submitted by the House of Integratus.
@@ -2311,7 +2309,7 @@ Almost reluctantly, she forces herself to stop looking at the radio.
 **Regulus:** Sotheby, Mr. APPLe, you go downstairs first. I'll meet up with you once I bring the box down there!
 
 **Sotheby:** Alright! We will meet you at the entrance. Stay safe!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -2491,7 +2489,7 @@ Snacks of the New Era and the Rockin' Pirate
 
 > Divide a circle into half, each curve has its own direction.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The meeting room
 
 **Committee Member Ⅰ:** There is no need to hold an emergency meeting for this.
@@ -2591,7 +2589,7 @@ Constantine strides into the meeting room, throwing her folder on the table.
 **Constantine:** I can see you all have a great interest in this draft proposal.
 
 **Constantine:** Hope I didn't miss too much.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -2797,7 +2795,7 @@ A Ride on the Toboggan
 
 > Ears low, tail down, she sidles back to the shadow of the house.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Committee Member Ⅰ:** We are on page 21, section 3.
 
 **Committee Member Ⅰ:** Ms. Z insists on adopting this draft.
@@ -2975,7 +2973,7 @@ She looks up at Constantine, seeking confirmation from the look on her face.
 The stenographer quickly regains her composure and starts typing.
 
 "Pass"
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -3189,7 +3187,7 @@ The woods cannot shelter everyone. Some have to seek themselves a new home.
 
 > I've seen you when we were two boards, side by side, drifting on the sea.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Guest Room, St. Foundation
 
 **Matilda:** Silver divination stand, white silk, pearls soaked in night dew ...
@@ -3495,7 +3493,7 @@ The door is carefully closed behind her.
 **Matilda:** ...
 
 **Matilda:** !%$#...&\*...
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -3833,7 +3831,7 @@ Maybe it is a glimpse of what will happen in the future. Or it is just another s
 
 > Sweet and juicy. Everyone wants to take a bite.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Z:** Richard, tends to oppose.
 
 **Z:** Gloria, tends to support.
@@ -4091,7 +4089,7 @@ Druvis stands up.
 **Druvis Ⅲ:** Let's go back.
 
 **Druvis Ⅲ:** To the deep woods.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -4385,7 +4383,7 @@ Sightings of the "Nameless Angler"
 
 > Its creases and folds are smoothened carefully. The writer's seriousness and sincerity could be read between the lines.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Committee member Pedra walks out of the changing room.
 
 He sees Delegate Mark sitting in front of a mirror and shaping his sideburns into sharp summits with pomade.
@@ -4521,7 +4519,7 @@ It looks like a simple, usual letter.
 "Sincerely, Sonetto"
 
 **Z:** Good news.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -4695,7 +4693,7 @@ Artificial Somnambulism Guidance (V2.0.16)
 
 > Sharp and glaring. I can tell it's the color of warning.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Lilya:** Oh. You're also here?
 
 Sonetto hears her. She stops the practice.
@@ -4907,7 +4905,7 @@ She picks up her gloves and the canteen but hesitates. She pauses for a brief mo
 She waves at her and leaves without looking back.
 
 **Lilya:** So long, Sonetto. Hopefully there is good news for us next time I see you.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -5140,7 +5138,7 @@ She waves at her and leaves without looking back.
 
 > The good news is, 10 more moves to go.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Delegate:** We are falling behind even further. A vote or two won't help us turn this around ...
 
 **Z:** I know.
@@ -5246,7 +5244,7 @@ The room is in complete silence except for the slight noise of flipping pages.
 **Z:** I have a meeting with her on Friday ...
 
 **Z:** This may lead us to a win-win situation.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -5420,7 +5418,7 @@ Legwork
 
 > Be burnt, be torn, be hidden in the corner, then be pecked up by a bird.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Follower I:** Best wishes for the upcoming victory!
 
 **Follower II:** It will be the final vote soon. It's a stunning victory for us ... Cheers!
@@ -5536,7 +5534,7 @@ He raises one eyebrow.
 Madam Z holds the hand waiting in front of her.
 
 **Z:** Good luck making a better Chicago office, Bernard.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -5675,7 +5673,7 @@ Madam Z holds the hand waiting in front of her.
 
 > Friendship first, my friend.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Unlike the other days, Constantine isn't by her desk today.
 
 The light in the room stays off.
@@ -5807,7 +5805,7 @@ Committee Member Ⅱ: Heh heh ...Committee Member Ⅱ: I didn't expect you to co
 **Committee Member Ⅱ:** You have my vote, Madam Z.
 
 **Z:** Heh heh ... A vote is not the only thing I need, Katz.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -6033,7 +6031,7 @@ You received applause and admiration.
 
 > A sentence falls down in to a cave, and breaks into countless words.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Days later
 
 Days later
@@ -6165,7 +6163,7 @@ She supports herself by the file cabinet.
 **Constantine:** I have to admit I was surprised.
 
 **Constantine:** Thank you for telling me this.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -6406,7 +6404,7 @@ Dances with Fire
 
 > Footprints. Muddy, determined footprints in lines on the white marble floor are easily recognizable.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Sonetto:** As witness?
 
 **Z:** Yes. Your report means a lot to him.
@@ -6640,7 +6638,7 @@ White, hard, and of a skin texture different from any creature's.
 **Special Prosecutor:** Have you heard of the Supreme Court?
 
 **Special Prosecutor:** You should come when you are free.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -6852,7 +6850,7 @@ An undefiled scale, Sitting high up in the hall of judgement, with the listening
 
 > After a life-long moment of waiting, two pieces are carefully placed here.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Constantine:** I was told you have something important to share?
 
 **Chairwoman:** Yes, the filibuster is about to end.
@@ -6962,7 +6960,7 @@ So strange that she is almost certain that she is watching Constantine place a p
 **Z:** No. It's not the time to relax.
 
 **Z:** Just two more hours. Hang in there. It will end soon …
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -7110,7 +7108,7 @@ Based on the current circumstances, this interpretation is hereby given in accor
 
 > Ham, bread and drink ... I assume they taste much better than critters.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Regulus:** Ah ...
 
 **Regulus:** Roast leg of lamb ... Wellington steak ...
@@ -7330,7 +7328,7 @@ Lilya stands up and pats off the dust on her carelessly.
 **Lilya:** I've been waiting for this moment for so long.
 
 **Lilya:** Someone needs to wake up from the dream.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -7669,7 +7667,7 @@ Outside the Spotlight
 
 > The sunlight shed on our face — we've never been so close to the clouds.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Chairwoman: Final round of the vote.Chairwoman: Voters, please hurry up.Chairwoman: One minute to go.Mesmer Jr.: ...Chairwoman: Please be responsible to your votes in every round.Chairwoman: Vote as soon as possible.Debate Moderator: The draft-avocates have more votes now, but they still need more than that to meet the supermajoritarian requirement.Mesmer Jr.: What ...!Chairwoman: Please vote now.Chairwoman: Thirty seconds to go.Chairwoman: Final countdown.Chairwoman: Ten seconds to go.Chairwoman: This will be your last chance to vote. Please hurry up!Chairwoman: Voting closed.Chairwoman: Storm Reformation: Manpower and Discipline passed.Mesmer Jr.: ...!!Lilya: Bucket list, one less!Lilya: The glass is not as hard as I thought.Lilya: Hey, time to wake up, Vertin.Vertin: ...Senior Guard: What's that sound? What's going on?!
 
 **Chairwoman:** Final round of the vote.
@@ -7791,7 +7789,7 @@ It's a cloudless, sunny day outside.
 **Vertin:** What good weather.
 
 **Vertin:** My friends.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -7947,7 +7945,7 @@ A Clipping of Old Newspaper
 
 > Welcome back to your warm nest. Welcome back to a good ending.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Lilya: How do you feel?Lilya: Getting used to the light?Vertin: Hmm ...Vertin: The wind feels ... so good ...Lilya: Haha, this is just an appetizer. I'll be gentle since you are just "discharged."Vertin: Are they alright?Lilya: Good as new.Lilya: They stayed up all night, just to save you.Lilya: Haha, I guess you are the only one who has slept tight.Vertin: Haha ...Lilya: Madam Z, Druvis, Sonetto ...Lilya: From the bill, and the protesting, to countless debates, planning and ...Lilya: Everyone is holding their umbrellas for you, Vertin.Vertin: ...Lilya: The "Storm"...Lilya: It will pass, one day.Vertin: Thank you. Thank you all.Vertin: Yes. Everything is going to be alright.Lilya: Enough flying. Time to head back.Vertin: What are we doing next?Lilya: Hmm ... no idea. Meet your friends first.Lilya: Fight with your comrade in arms, fear no danger ahead.Lilya: Grab tight, I'm going to speed up.The wind flows through them like waves.Lilya: Charge! The great Red 38!Lilya: Long live Su-01ве!
 
 **Lilya:** How do you feel?
@@ -8151,7 +8149,7 @@ She suddenly notices the white dove on the tree and stops.
 **Constantine:** Heh heh ... Nothing peculiar.
 
 **Constantine:** It just means you have come to their notice.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -8391,7 +8389,7 @@ I once looked down at a brave young dog, It was gallant, the most courageous of 
 
 > Perhaps whipping cream only belongs to the past. Nowadays, they are soft and light, so unfamiliar.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 This is the end. Everything has been settled.
 
 Time flows by like water flows over a perfectly flat plain.
@@ -8477,7 +8475,7 @@ Happy birthday to you, happy birthday to you.
 May the good luck go with you. Happy birthday to you.
 
 \*blows out the candle\*
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>

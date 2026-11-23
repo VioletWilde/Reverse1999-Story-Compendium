@@ -7,8 +7,6 @@
 - Story units：`19`
 - Trail：`32`
 
-[UTTU](https://uttu.merui.net/story/event/1_8/en/?part=1)
-
 Venture to the land where the north wind howls
 To the fiery hearths of a nameless community
 To where unfamiliar hearts become one in unity
@@ -42,7 +40,7 @@ To where unfamiliar hearts become one in unity
 
 > A message that is less than ideal.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **???:** I once traveled to a small town called Rayashki.
 
 **???:** It was located high up within the Arctic Circle, and it was frigid cold all year long.
@@ -318,7 +316,7 @@ Avgust has been no small trouble in the past. Evgeni frowns, but Vila's determin
 **Vila:** He is only trying to understand the world in his own way.
 
 **Evgeni:** ...
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -328,7 +326,7 @@ Avgust has been no small trouble in the past. Evgeni frowns, but Vila's determin
 
 > Visitors often come unannounced and without warning.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Children's Square, Rayashki
 
 The question of where their curious little dreamer has disappeared soon becomes a true conundrum,
@@ -592,7 +590,7 @@ Windsong offers a pained gesture towards the boy.
 **Vila:** If our guest has any ill intentions, we will retaliate.
 
 **Windsong:** Umm.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -602,7 +600,7 @@ Windsong offers a pained gesture towards the boy.
 
 > The beautiful arctic foxes, the warm seawater, and the disgraceful needle-grass all claim their place here.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 People's Square, Rayashki
 
 The group, each harboring their own thoughts, returns toward the small town. Vila and Avgust humming out a sing-song tune.
@@ -864,7 +862,7 @@ Windsong looks out to them and meets the face of her unexpected friend. He waves
 **Windsong:** Thank you, Ms. Vila.
 
 She clasps her hand; it is colder than expected, but welcoming.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -874,7 +872,7 @@ She clasps her hand; it is colder than expected, but welcoming.
 
 > It's just a seed, yet it is a seed indeed.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Windsong:** The study of ley line sees the world as a clear map.
 
 **Windsong:** The cities look like squares to us, while natural landscapes appear to be curves overlapping one another.
@@ -1148,7 +1146,7 @@ The deep blue creature darts away.
 **Pyotr:** ...
 
 **Pyotr:** So, Ms. Windsong was not a liar.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1158,7 +1156,7 @@ The deep blue creature darts away.
 
 > The accordion sings, carrying its passion into the distance.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Port, Rayashki
 
 The warm current of the ocean is a stranger to this place.
@@ -1472,7 +1470,7 @@ A letter flutters out toward the anxious crowd.
 **???:** Thank you for your cooperation.
 
 **Vila:** What?!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1482,7 +1480,7 @@ A letter flutters out toward the anxious crowd.
 
 > The era can shape us, but it can also destroy us. So just relax and take it easy, everyone says.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Meeting Room, Rayashki
 
 **Bertolt:** I don't see the point of your reluctance.
@@ -1648,7 +1646,7 @@ He leans toward Vila, providing an unnecessary whisper.
 **Vila:** ...
 
 **Bertolt:** Good luck, my friend.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1658,7 +1656,7 @@ He leans toward Vila, providing an unnecessary whisper.
 
 > Fortune's blessings often come knocking on your door or window when you least expect them.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Hotel, Rayashki
 
 **Windsong:** The reserves of runium running dry, the appearance of new critters, the sudden snowstorm.
@@ -1946,7 +1944,7 @@ Their courage and solidarity overcome her long-standing hesitation.
 Her curiosity at them, at all of this, becomes a palpable force.
 
 One pulling her ever closer to Rayashki.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1956,7 +1954,7 @@ One pulling her ever closer to Rayashki.
 
 > A symphony of steel, forged by hard hats and furnaces.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Children's Square, Rayashki
 
 **Nina:** I'm happy that you let us show you around, Ms. Windsong.
@@ -2276,7 +2274,7 @@ Windsong clutches at a thin straw of salvation.
 **Bertolt:** Attention please. Tomorrow, at 8 in the morning, we will be holding our final hearing.
 
 **Bertolt:** In this meeting, we hope to finalize our next steps and answer any remaining questions. We look forward to seeing you there.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -2286,7 +2284,7 @@ Windsong clutches at a thin straw of salvation.
 
 > This place is already overflowing with treasures. Please bring something more substantial.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Meeting Room, Rayashki
 
 Bertolt leans back in his armchair, casting a fleeting glance forward before his head falls.
@@ -2602,7 +2600,7 @@ He braces the rifle as he motions her back and scans the near horizon.
 **Evgeni:** I will make them see it tomorrow at the hearing.
 
 **Windsong:** Ah!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -2612,7 +2610,7 @@ He braces the rifle as he motions her back and scans the near horizon.
 
 > Can life still go on?
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 People's Square, Rayashki
 
 People stream in from all directions.
@@ -2920,7 +2918,7 @@ Many blush with shame.
 Some of them quietly withdraw.
 
 **Windsong:** Huh, they might say they're just ordinary people, but they are so brave and noble.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -2930,7 +2928,7 @@ Some of them quietly withdraw.
 
 > On sleepless nights, she counts the stars alone.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Children's Square, Rayashki
 
 A lonely researcher aimlessly paces through Rayashki's square.
@@ -3134,7 +3132,7 @@ A burst of light steps leaps toward her once more.
 **Vila:** We can't let our worries stop us.
 
 **Windsong:** Okay.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -3144,7 +3142,7 @@ A burst of light steps leaps toward her once more.
 
 > The train chugs along, leaving no stragglers behind.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Classroom, Rayashki
 
 As the chalk marks its final stroke, the lecturer exhales a long breath.
@@ -3374,7 +3372,7 @@ Windsong blinks, half-wondering if her new friend has gone mad.
 And finding it madder still that she is reaching out to solemnly accept the invitation.
 
 **Windsong:** What an honor.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -3384,7 +3382,7 @@ And finding it madder still that she is reaching out to solemnly accept the invi
 
 > And before long, the snowfields were tranquil no more.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 People's Square, Rayashki
 
 The crowd has gathered together again.
@@ -3674,7 +3672,7 @@ The crowd rises, pulling in together. Windsong looks up and outward.
 More and more stars light up.
 
 They outshine the twinkling snow.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -3684,7 +3682,7 @@ They outshine the twinkling snow.
 
 > Moving from one reality to another.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Days Later
 
 Days Later
@@ -3908,7 +3906,7 @@ Rifles, refurbished and polished, rise in harmony with pickaxes and tools.
 He says nothing else, then turns to leave without looking back.
 
 **Windsong:** ...!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · Workshop Area
 
@@ -3977,7 +3975,7 @@ Resident I:Hey, alright! That's the attitude we need! If we walk a little faster
 
 > That's what they told me.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Evgeni:** It's me.
 
 **Windsong:** Oh, you!
@@ -4221,7 +4219,7 @@ Faint flickers of that fire seem to be there, somewhere in the man before her.
 Evgeni looks up with a complex expression.
 
 **Evgeni:** I, I will give it some thought, Ms. Wi- ... Comrade Windsong.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · Point of Divergence
 
@@ -4312,7 +4310,7 @@ Patrik:There are countless unsung heroes in Rayashki, a place filled with ordina
 
 > An epic composition about the countless unimportant people.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 New Mine, Rayashki
 
 The steel behemoths rumble.
@@ -4742,7 +4740,7 @@ Until one, and then many, trembling hands rise triumphantly into the sky.
 **Vila:** He flew into the future, child.
 
 **Vila:** The future we'll all reach one day.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -5218,7 +5216,7 @@ Miners, covered in a layer of dust and wielding their picks, hurry over as other
 
 > We're not even halfway through this journey, but we will press on.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 New Mine, Rayashki
 
 The unsupported ley energy returns to the earth.
@@ -5374,7 +5372,7 @@ Bertolt's hand awkwardly hangs in the air, unanswered.
 **Bertolt:** ...
 
 He shrugs and leaves without another word.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · Same as Before
 
@@ -5421,7 +5419,7 @@ Sometimes physical action is more practical than verbal communication.
 
 > Everything is changing.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 People's Square, Rayashki
 
 The people gather again.
@@ -5541,7 +5539,7 @@ In the boundless future ahead for Rayashki, these buildings will be like speckle
 **Windsong:** I'm so glad we will build it together.
 
 **Windsong:** Hello, Rayashki.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -5755,7 +5753,7 @@ Take another good look at the square. It hasn't changed much—a polar bear stan
 
 > What we leave behind, and what you will remember.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The river of time has moved swiftly in the passing months.
 
 Rayashki is bustling with the sounds of a busy and hopeful community.
@@ -5885,7 +5883,7 @@ Another letter is passed on.
 **???:** I sincerely hope all of us will be able to witness its history and its future.
 
 **???:** That's why I knew I must write down this story. In the hopes that their dream will remain in your heart forever.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · Damp Paperslip
 

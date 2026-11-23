@@ -7,8 +7,6 @@
 - Story units：`11`
 - Trail：`0`
 
-[UTTU](https://uttu.merui.net/story/character/sentinel/en/?part=1)
-
 At ease, attention, then back to the bloodshed.
 The gunfire fades into a future cloaked in silence.
 
@@ -31,7 +29,7 @@ The gunfire fades into a future cloaked in silence.
 <a id="episode-3092001"></a>
 ## 3092001 · La Belle Époque
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Countryside, Rouen
 
 The rural town of Rouen dozes in the afternoon sun. Inside the house, Agnès recites scripture in a steady, devout tone.
@@ -187,7 +185,7 @@ This "rebellious" family member voices her thoughts with ease.
 **Suzanne:** Come along. We have yet to see the Palace of Electricity at Champ de Mars!
 
 Marianne snaps out of her thoughts and follows her aunt back into the crowd.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -195,7 +193,7 @@ Marianne snaps out of her thoughts and follows her aunt back into the crowd.
 <a id="episode-3092002"></a>
 ## 3092002 · A Dress to Make
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Countryside, Rouen
 
 When she closes her eyes, that brief trip to Paris all those years ago appears as vivid as ever in Marianne's mind.
@@ -369,7 +367,7 @@ Perhaps time will honor the pious prayer of a young girl, and she will reach thi
 Perhaps, in another life, she would have.
 
 **Marianne:** Huh?!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -377,13 +375,13 @@ Perhaps, in another life, she would have.
 <a id="episode-3092003"></a>
 ## 3092003 · The Sweet Taste of Triumph
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 ***
 
 **GAMEPLAY ONLY**
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -391,7 +389,7 @@ Perhaps, in another life, she would have.
 <a id="episode-3092004"></a>
 ## 3092004 · The Sacred Way
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Tunnel de Rochebourg
 
 The bombardment of the Second Forlan Front hasn't let up.
@@ -563,7 +561,7 @@ She takes the paper, her fingers trembling, dread building in her chest.
 **Orders:** Command has decided you are needed in the next major offensive.
 
 **Orders:** You are to return in three days.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -571,13 +569,13 @@ She takes the paper, her fingers trembling, dread building in her chest.
 <a id="episode-3092005"></a>
 ## 3092005 · Marching Orders
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 ***
 
 **GAMEPLAY ONLY**
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -585,7 +583,7 @@ She takes the paper, her fingers trembling, dread building in her chest.
 <a id="episode-3092006"></a>
 ## 3092006 · Charge! Charge!
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Carolus Battleground
 
 **Officer:** Charge—!
@@ -815,7 +813,7 @@ We must be honest and righteous, for only by doing good may He smile upon us.
 Lies.
 
 Lies.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -823,7 +821,7 @@ Lies.
 <a id="episode-3092007"></a>
 ## 3092007 · Le Dormeur du Val
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Trenches
 
 A distant thunderclap breaks the silence that has fallen on the night. A declaration of the army's utter failure over the past two weeks.
@@ -1047,7 +1045,7 @@ The soldiers roar in agreement, spitting curses and protests.
 And slowly, all their voices chant a single line—
 
 **Marianne:** We refuse to cast away our lives!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1055,7 +1053,7 @@ And slowly, all their voices chant a single line—
 <a id="episode-3092008"></a>
 ## 3092008 · Si le grain ne meurt
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Within a week, mutiny has spread like a plague across every position along the river.
 
 Soldiers sit together in circles. One of them hums a quiet tune.
@@ -1249,7 +1247,7 @@ The bullets lodge in solid stone. In the instant before impact, she petrified he
 She staggers to her feet and runs as fast as her body will allow, stone chips breaking off her body as she goes.
 
 **Officer:** Her petrification can't withstand all of you! Fire!!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1257,7 +1255,7 @@ She staggers to her feet and runs as fast as her body will allow, stone chips br
 <a id="episode-3092009"></a>
 ## 3092009 · On the Run
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Countryside, Rouen
 
 A lone figure hurries down a deserted country path.
@@ -1439,7 +1437,7 @@ This church, not far from the village, is now her and Ladislas's refuge.
 **Marianne:** But Ladislas is learned in such things. His conviction must hold some truth I have yet to see ... right?
 
 Agnès remains frozen in stone. She can no longer provide any answers to her questions.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1447,7 +1445,7 @@ Agnès remains frozen in stone. She can no longer provide any answers to her que
 <a id="episode-3092010"></a>
 ## 3092010 · Vigilante Patriotism
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Far from the front, six months melt away like water.
 
 The freezing trench winters feel like a different life. Her days return to peaceful monotony.
@@ -1747,7 +1745,7 @@ The bullet hits him square between the eyes. He drops, his star-stamped epaulett
 Marianne wipes the tears from her face with her arm, her brow hardening into a look of determination.
 
 Then, she steps forward into the forest, no longer as just Marianne, but as Sentinel.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1755,13 +1753,13 @@ Then, she steps forward into the forest, no longer as just Marianne, but as Sent
 <a id="episode-3092011"></a>
 ## 3092011 · Echoes of the Battlegrounds
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 ***
 
 **GAMEPLAY ONLY**
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---

@@ -7,8 +7,6 @@
 - Story units：`6`
 - Trail：`0`
 
-[UTTU](https://uttu.merui.net/story/anecdote/la_source/en/?part=1)
-
 Inside the Penumbra Can,
 Covered in a layer of dust,
 Are stories buried in the depths of time.
@@ -29,7 +27,7 @@ Are stories buried in the depths of time.
 
 > A small coin goes unnoticed as countless figures pass by with joy.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Life inside the suitcase is tranquil and harmonious.
 
 Most of the time.
@@ -231,7 +229,7 @@ This conversation is too bizarre for La Source to handle.
 **Balloon Party:** Oh, okay. That's too bad.
 
 **Balloon Party:** See you soon, friend!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -241,7 +239,7 @@ This conversation is too bizarre for La Source to handle.
 
 > A portable computer, plaid patterns, some people you should always show respect for.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Bare feet scamper across the lake, across the wilderness, and finally come to rest in a more peaceful place.
 
 Balloons, brambles, blankets—they all vanish from sight, and a proud little chest rises once again.
@@ -407,7 +405,7 @@ The mist grows warm, as if the hall has become a hot spring.
 **La Source:** I CAN grant them! I just don't WANT to! Why should everyone keep getting something for nothing?!
 
 **La Source:** I'll show them what a Spring Elfin is really capable of!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -417,7 +415,7 @@ The mist grows warm, as if the hall has become a hot spring.
 
 > We offer our praises to the Spring Elfin, singing in her honor.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Bunny Bunny sits tensely in her chair. The smell of the food on her plate has hooked her senses.
 
 **Bunny Bunny:** No—Mamma don't like chubby girls. Gotta control myself.
@@ -553,7 +551,7 @@ She's taken aback by La Source's fervor.
 **La Source:** I, the greatest wish-granting elfin, am listening!
 
 **Charlie:** My wish is ...
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -563,7 +561,7 @@ She's taken aback by La Source's fervor.
 
 > Flood season may be approaching for this area. Please take the necessary precautions to ensure your safety.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The room in the suitcase is set up almost exactly like the real thing.
 
 It accommodates every guest, capturing their curiosity and imagination.
@@ -727,7 +725,7 @@ The Spring Elfin raises her head. A familiar figure stands in front of her.
 **???:** You've got a great party going. Let's work together to make it even better!
 
 **La Source:** And you are ...?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -737,7 +735,7 @@ The Spring Elfin raises her head. A familiar figure stands in front of her.
 
 > Discussion on the "Emergency Response Plan for Sudden Disasters."
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 People from all corners of the suitcase have gathered together in serious discussion.
 
 **X:** I believe you are all aware of our current predicament.
@@ -877,7 +875,7 @@ What's even sadder is that no one else seems to have been affected by the story 
 The group shakes their heads in resignation.
 
 **ONiON:** Wow, do people really have such a hard time accepting the truth of the world?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -887,7 +885,7 @@ The group shakes their heads in resignation.
 
 > You know, wishes can't always grant everything we desire.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 ONiON's show isn't quite over yet.
 
 Thankfully, the water level hasn't risen for quite some time.
@@ -1053,7 +1051,7 @@ John Titor has yet to grasp the trouble that her wish put everyone through.
 She simply puts on her earmuffs and retreats into a world of hexadecimal codes.
 
 Perhaps it's best she stays this way—at least until the greatest party ever conceived has been put on.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---

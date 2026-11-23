@@ -7,8 +7,6 @@
 - Story units：`6`
 - Trail：`0`
 
-[UTTU](https://uttu.merui.net/story/anecdote/sotheby/en/?part=1)
-
 Inside the Penumbra Can,
 Covered in a layer of dust,
 Are stories buried in the depths of time.
@@ -29,7 +27,7 @@ Are stories buried in the depths of time.
 
 > First ... then ... and finally, the order matters, the arrangement matters, and the material matters—wait, what was that you said, darling?
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The Lady's Code of Conduct: Revised Edition
 
 Chapter 1: Dining Etiquette
@@ -311,7 +309,7 @@ Lisa and Louise look at Cristallo, soot all over their faces.
 Sotheby is stunned by this statement.
 
 **Sotheby:** That's the most interesting thing I've heard for a while.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -321,7 +319,7 @@ Sotheby is stunned by this statement.
 
 > The destination we seek, the distant evening ahead, the long anticipated moment.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Popping Candy Popcorn—
 
 Once you put it in your mouth, it will dance, fight, drum, or do anything else it wants on your tongue!
@@ -595,7 +593,7 @@ Sotheby blinks.
 **Sotheby:** You mean those goons from Jupiter's army?
 
 A meteor streaks across the sky, and dandelion seeds gather their strength to fly. A secret is stirring in the air.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -605,7 +603,7 @@ A meteor streaks across the sky, and dandelion seeds gather their strength to fl
 
 > Shh, mom, there's obviously a secret here, one of us is bound to find it.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Sotheby:** Sotheby's Diary.
 
 **Sotheby:** April 14th, ☀.
@@ -1043,7 +1041,7 @@ She can distinctly feel her body weakening as she begins to lose consciousness.
 **Sotheby:** Then, how do people become friends?
 
 **Sotheby:** Hm? Cristallo!!!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1053,7 +1051,7 @@ She can distinctly feel her body weakening as she begins to lose consciousness.
 
 > Let's take a moment on this beautiful morning to honor the shy and reserved.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Private Ward
 
 **Vertin:** Alright, it looks like her condition has stabilized.
@@ -1435,7 +1433,7 @@ A few old houses stand in the distance. It looks like a farm.
 **Sotheby:** What a great idea! The clever Sotheby fears nothing!
 
 **Sotheby:** Huh? Where did Ms. Vertin's tracker go?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1445,7 +1443,7 @@ A few old houses stand in the distance. It looks like a farm.
 
 > Running and skipping along, through a burn and a familiar return, embracing an immeasurable transcendence.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The Hall in the Suitcase
 
 **Sonetto:** Timekeeper, we lost contact with Sotheby's tracking device two hours ago.
@@ -1941,7 +1939,7 @@ Chapter 5: Dressing Etiquette
 1. One must maintain a neat and tidy appearance and avoid dirtying or damaging clothes. In the case of an accident, change promptly.
 
 1. One must maintain a neat and tidy appearance and avoid dirtying or damaging clothes. In the case of an accident, change promptly.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1951,7 +1949,7 @@ Chapter 5: Dressing Etiquette
 
 > Give me a lumberjack's song, so I can find all the partners around the world.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Sotheby's Dream
 
 A cotton swab dipped in iodine is gently pressed against Sotheby's wound.
@@ -2403,7 +2401,7 @@ Cristallo takes it and puts it in her mouth.
 **APPLe:** It seems that she is becoming a true lady, isn't she?
 
 **APPLe:** Yes. A very, very good lady indeed.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---

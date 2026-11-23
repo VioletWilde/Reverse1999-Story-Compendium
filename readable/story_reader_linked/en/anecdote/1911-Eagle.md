@@ -7,8 +7,6 @@
 - Story units：`8`
 - Trail：`0`
 
-[UTTU](https://uttu.merui.net/story/anecdote/eagle/en/?part=1)
-
 Inside the Penumbra Can,
 Covered in a layer of dust,
 Are stories buried in the depths of time.
@@ -31,7 +29,7 @@ Are stories buried in the depths of time.
 
 > This is hardly a promised land for the ladies.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The morning sun falls through the window and onto the display cabinet.
 
 The badges stand in line, upright, like little toy soldiers.
@@ -127,7 +125,7 @@ As she carefully draws nearer to the source, the voice becomes clearer.
 **Scout Manual, Essential Virtues, Article III: "Be acute and seize opportunities."**
 
 **Eagle:** ...!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -248,7 +246,7 @@ Scout Manual, Essential Virtues, Article III: "Be acute and seize opportunities.
 
 > "Anytime, anywhere, always serious work!" "Shh, did you hear what he just said?"
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The worn-down factory welcomes a pair of neatly dressed visitors.
 
 Ignoring the workers and their looks, they walk over to an open space by a machine.
@@ -384,7 +382,7 @@ She grasps the pocket watch tighter, as if to gain courage from it.
 The light of her arcane skill shines as firmly as the caster's gaze.
 
 **Eagle:** I need to find Xavier before they do.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -543,7 +541,7 @@ The light of her arcane skill shines as firmly as the caster's gaze.
 
 > Naive contemplation and solemn handwriting. A discourse of experience.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Eagle:** There are arcane skill fluctuations all around here.
 
 It's unusual for there to be so many fluctuations out here in the suburbs.
@@ -723,7 +721,7 @@ He sighs. For a moment, he wants to hang up, but he stops himself.
 **???:** Maybe ... Hm? Who's that?
 
 **Eagle:** Sorry to interrupt. Are you Xavier?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -926,7 +924,7 @@ He sighs. For a moment, he wants to hang up, but he stops himself.
 
 > Humanity has survived through mutual aid, a fact no degree of modernity can erase.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **X:** ...
 
 **Eagle:** ...
@@ -1070,7 +1068,7 @@ She decides to seize this opportunity.
 **X:** First, help me get this thing up and running, then we'll talk about what to do next. Clock's ticking, understand? We don't have much time.
 
 **Eagle:** Copy that!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1237,7 +1235,7 @@ She decides to seize this opportunity.
 
 > Trust it, trust her! Trust ... him?
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 With the help of Eagle, a massive Rube Goldberg machine begins to take shape.
 
 The intricate machinery expands into the depths of the plant, with a dizzying amount of complexity.
@@ -1369,7 +1367,7 @@ Completely unaware of what's to come, she climbs up the cement chimney and stand
 **X:** Alright. Then—
 
 **X:** Let's get this show on the road.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1524,7 +1522,7 @@ Scout Manual, Essential Virtues, Article VIII: "Ask less, act more."
 
 > Explosion is a truly universal art.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The plant collapses in a catastrophic rumble, spewing up a cloud of dust.
 
 There was nothing in the Scout Manual that accounted for a circumstance like this. Her mouth lies open and slack-jawed.
@@ -1666,7 +1664,7 @@ The puppy barks back, as if confirming his identity.
 **"Xavier":** Woof!
 
 **X:** Oh.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1831,7 +1829,7 @@ The puppy barks back, as if confirming his identity.
 
 > A close call, but all's well that ends well.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The moment Xavier touches Eagle's feet, the dim lines around him disappear.
 
 He seems to notice it as well, chasing his tail as if looking for its invisible trace.
@@ -1975,7 +1973,7 @@ Its familiar scratches giving her the courage to speak.
 **Scout Leader:** Either way, don't ever mention your arcane skill again.
 
 **Scout Leader:** Don't waste my time.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -2142,7 +2140,7 @@ Its familiar scratches giving her the courage to speak.
 
 > Donning new attire, shedding that thick cocoon—the day my shadow finally eclipses his.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Eagle:** ...
 
 Alone in the cemetery, Eagle stands in front of her father's tombstone.
@@ -2306,7 +2304,7 @@ Eagle shakes her head disapprovingly.
 **X:** Because after that mission ...
 
 **X:** I think you shouldn't be looking for a puppy, but a butterfly.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>

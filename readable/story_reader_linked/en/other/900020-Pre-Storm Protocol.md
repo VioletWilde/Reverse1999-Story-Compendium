@@ -7,8 +7,6 @@
 - Story units：`5`
 - Trail：`0`
 
-[UTTU](https://uttu.merui.net/story/other/psp/en/?part=1)
-
 Join the simulation, explore infinite possibilities, and find the optimal balance between scientific progress and personnel safety.
 
 ## Contents
@@ -24,7 +22,7 @@ Join the simulation, explore infinite possibilities, and find the optimal balanc
 <a id="episode-90002001"></a>
 ## 90002001 · Scene I
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Laplace Researcher:** 77 114 46 32 85 108 114 105 99 104?
 
 **Laplace Researcher:** 84 104 101 114 101 39 115 32 97 32 102 111 120 32 104 101 114 101 32 116 111 32 115 101 101 32 121 111 117.
@@ -176,7 +174,7 @@ The ferrofluid trembles deeply in its tank—probably the equivalent to a deep b
 Enigma steps forward, a dark look on his face.
 
 **Enigma:** Considering how humanitarianism seems to overtake you at the worst possible times, it's safer if I handle it this time.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -184,7 +182,7 @@ Enigma steps forward, a dark look on his face.
 <a id="episode-90002002"></a>
 ## 90002002 · Scene II
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Enigma:** So the whole of Laplace can't figure out how to fix this ridiculous box problem once and for all?
 
 **Medicine Pocket:** Quit your whining, Adler. Got a letter for you.
@@ -238,7 +236,7 @@ It seems another trip into the toybox will be necessary. At least, this time, th
 **Enigma:** The best "support" you can offer us now is to get us all hard hats, since we'll all be in a construction zone soon.
 
 **Enigma:** Oh, and make sure to get an extra-extra-large one for yourself to fit over that fish tank of yours.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -246,11 +244,11 @@ It seems another trip into the toybox will be necessary. At least, this time, th
 <a id="episode-90002003"></a>
 ## 90002003 · Scene III
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **???:** They actually pulled it off. I thought they'd fail and seal it away. Next time, I'll need to be more subtle with the clues.
 
 **???:** Now then ... how should I explain this in my report to Lorentz?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -258,7 +256,7 @@ It seems another trip into the toybox will be necessary. At least, this time, th
 <a id="episode-90002004"></a>
 ## 90002004 · Scene IV
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 In the "Toybox"
 
 **Ulrich:** Wait a second, Researcher Regulus.
@@ -464,7 +462,7 @@ Both of Musae III's heads display cheerful expressions, totally unaware of the c
 The fox plushie adjusts the toybox with a smile, his tone as inviting as it is oddly sinister.
 
 **Musae III:** So, friends, who'd like to do the honors?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -472,7 +470,7 @@ The fox plushie adjusts the toybox with a smile, his tone as inviting as it is o
 <a id="episode-90002005"></a>
 ## 90002005 · Scene V
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The tower collapses.
 
 In the "Toybox"
@@ -638,7 +636,7 @@ The robot blinks cheerfully.
 **Enigma:** Goodbye, Madam Luc—
 
 **Enigma:** Wait, hold on, don't hang up! What did you just say?!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---

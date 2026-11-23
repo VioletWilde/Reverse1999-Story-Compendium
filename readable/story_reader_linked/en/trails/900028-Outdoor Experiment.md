@@ -7,8 +7,6 @@
 - Story units：`1`
 - Trail：`0`
 
-[UTTU](https://uttu.merui.net/story/trails/101039/en/?part=1)
-
 We suggest that every researcher continue regular exercise or else apply for an exoskeleton from their institution.
 
 ## Contents
@@ -22,7 +20,7 @@ We suggest that every researcher continue regular exercise or else apply for an 
 
 > ​​We suggest that every researcher continue regular exercise or else apply for an exoskeleton from their institution.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Mountainside, Sanctuary
 
 **Guard:** \*pant\* I knew this wouldn't exactly be a Sunday stroll. Urgh!
@@ -122,7 +120,7 @@ Circling Ulrich with paws still firmly behind his back, Buddy Fairchild sizes hi
 **Buddy Fairchild:** Mountain ain't no Everest, but it's sure as a storm in July to be a tough climb for ya'll big-n-tall'uns.
 
 **Buddy Fairchild:** Well, can't never could. Buckle up, folks! I don't wanna see no bodies tumblin' down the mountain, ya hear?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---

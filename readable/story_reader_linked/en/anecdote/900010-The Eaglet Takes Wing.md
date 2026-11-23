@@ -7,8 +7,6 @@
 - Story units：`8`
 - Trail：`0`
 
-[UTTU](https://uttu.merui.net/story/anecdote/silverwing_eagle/en/?part=1)
-
 Inside the Penumbra Can,
 Covered in a layer of dust,
 Are stories buried in the depths of time.
@@ -29,7 +27,7 @@ Are stories buried in the depths of time.
 <a id="episode-90001001"></a>
 ## 90001001 · A Newcomer's Guide
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 7:30Clear
 
 Intern Dormitory, Laplace
@@ -190,7 +188,7 @@ Laplace Scientific Computing Center · Intern Security Guidelines (2002, 17th Ed
 
 Built after the fourth "Storm," Laplace's "Storm" Observation Center tracks global "Storms," logs data, and pinpoints their critical points. Laplace can only locate the critical point of a "Storm" once the Timekeeper starts the countdown. Thanks to the Foundation's "Storm" Personnel Reform Initiative, the center now reports live to the Foundation. And yes, the paperwork is endless.
 
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -198,7 +196,7 @@ Built after the fourth "Storm," Laplace's "Storm" Observation Center tracks glob
 <a id="episode-90001002"></a>
 ## 90001002 · Putting It Into Practice
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 14:00Snow
 
 Street, Manchester
@@ -406,7 +404,7 @@ A guitar pick falls into Eagle's palm, gleaming with a tortoiseshell hue.
 **Regulus:** "Which makes you just the person to introduce them to it, since you're not one of them yet, right?" Regulus winks at her with a sly grin.
 
 **Eagle:** "You're right. Thank you, Ms. Regulus."
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -414,7 +412,7 @@ A guitar pick falls into Eagle's palm, gleaming with a tortoiseshell hue.
 <a id="episode-90001003"></a>
 ## 90001003 · Interpersonal Skills
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 9:00Clear
 
 "Storm" Observation Center, Laplace
@@ -500,7 +498,7 @@ Sensing Eagle's gaze, she glances back.
 **Eagle:** "So, Ms. Marguerite." Eagle mouths the words silently: See you later?
 
 Ms. Marguerite's eyes crinkle with a smile.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -508,7 +506,7 @@ Ms. Marguerite's eyes crinkle with a smile.
 <a id="episode-90001004"></a>
 ## 90001004 · On-Onboarding
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 9:30Clear
 
 Warehouse, Laplace
@@ -647,7 +645,7 @@ Eagle turns her attention back to the data.
 
 Every arcane phenomenon has a source. Institutum Lorentz believes the era-changing "Storm" was caused by the flapping wings of the Original Butterfly in ancient times, and that finding that primal Chaotic Energy is the key to uncovering the truth behind it. They theorize that years of buildup and change made the energy volatile, which sparked the various strange happenings of the present day.
 
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -655,7 +653,7 @@ Every arcane phenomenon has a source. Institutum Lorentz believes the era-changi
 <a id="episode-90001005"></a>
 ## 90001005 · Composite Flavor
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 8:00Clear
 
 Intern Dormitory, Laplace
@@ -853,7 +851,7 @@ Eagle takes the small object X has been clutching and examines it curiously.
 **X:** "Treasure it, Eagle."
 
 **Eagle:** "W-Wait, Mr. X!"
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -861,7 +859,7 @@ Eagle takes the small object X has been clutching and examines it curiously.
 <a id="episode-90001006"></a>
 ## 90001006 · Part-Time Detective
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 23:00Clear
 
 Institutum Lorentz
@@ -995,7 +993,7 @@ She suddenly remembers the dark red stain on Ms. Marguerite's cuff.
 **Eagle:** "Oh, I see now!"
 
 **Eagle:** "Ms. Marguerite has a side job as a detective! She must have uncovered some nefarious secrets about the Foundation!"
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1003,7 +1001,7 @@ She suddenly remembers the dark red stain on Ms. Marguerite's cuff.
 <a id="episode-90001007"></a>
 ## 90001007 · An Eaglet on the Trail
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 23:30Clear
 
 Factory, ???
@@ -1179,7 +1177,7 @@ Having finally ditched their pursuers, Lorentz Butterfly turns and smiles at her
 **Lorentz Butterfly:** "But before that, we need to escape. Ready to run?"
 
 **Eagle:** "W-Wait!"
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1187,7 +1185,7 @@ Having finally ditched their pursuers, Lorentz Butterfly turns and smiles at her
 <a id="episode-90001008"></a>
 ## 90001008 · A Day Like Any Other
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 9:00Clear
 
 "Storm" Observation Center, Laplace
@@ -1264,7 +1262,7 @@ But Eagle knows that every movement of this disorder stems entirely from her ini
 
 The world is a chaotic system, yet chaos always stems from an initial condition. For instance, that butterfly in Brazil that will forever beat its wings in every version of the theory. Or the little eagle who will soon learn to flap its wings and, in doing so, is bound to stir a storm of its own. —M
 
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---

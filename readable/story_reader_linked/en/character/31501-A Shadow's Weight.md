@@ -7,8 +7,6 @@
 - Story units：`8`
 - Trail：`0`
 
-[UTTU](https://uttu.merui.net/story/character/rubuska/en/?part=1)
-
 Sew wounds with shadows,
 Fill eyes with moonlight.
 In the dead of night, they awaken,
@@ -31,7 +29,7 @@ are reignited.
 <a id="episode-3150101"></a>
 ## 3150101 · Stewardess-in-Training
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 A train glides across snow-covered plains. The dim glow of a town beginning to emerge from the dark horizon ahead.
 
 The "Danube Dawn"
@@ -241,7 +239,7 @@ The enemy has occupied their town.
 The hammering continues, never frequent enough to become a rhythm, never rare enough to settle. She presses her hand over her daughter's eyes. Her wavering voice whispering a promise neither believes.
 
 **Rubuska's Mother:** It will be over soon ... Very soon.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -249,7 +247,7 @@ The hammering continues, never frequent enough to become a rhythm, never rare en
 <a id="episode-3150102"></a>
 ## 3150102 · Fate's Bitter Beans
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Rubuska:** But the end would come, sooner than we thought.
 
 **Rubuska:** Count Arnold VI and the Countess have, for now, fallen asleep ...
@@ -471,7 +469,7 @@ She kneels, letting her hands brush over each of their cold faces, straightening
 **Young Rubuska:** Mама, Dad, Kolyo, it will be alright; just sleep for now ...
 
 The rain starts again.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -479,7 +477,7 @@ The rain starts again.
 <a id="episode-3150103"></a>
 ## 3150103 · Dancing with Darkness
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Cemetery
 
 The cart creaks under its heavy load as it wheels toward a wide pit. There's no space left on the cemetery grounds.
@@ -679,7 +677,7 @@ She swears each promise in turn, but before her words are even finished, the sha
 He looks down at the poor arcanist child who has lost her entire family.
 
 There's no point in trying to comfort her. He just takes up his cart again and trudges away under the weight.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -687,7 +685,7 @@ There's no point in trying to comfort her. He just takes up his cart again and t
 <a id="episode-3150104"></a>
 ## 3150104 · Shadow Theater
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Rubuska:** And so, the great Rubuska discovered a way to speak with her kin, vampires enduring their trials in the darkness—through shadows.
 
 **Rubuska:** But this was only the beginning of her own challenge. Once again, she called on her uncanny wit, searching, sensing ...
@@ -877,7 +875,7 @@ They do not ask for eternal life. Just one final moment. One last meeting.
 **Young Rubuska:** Mама, Dad, you're right.
 
 At last, faint smiles and hope return to their pale faces. Before them, the girl stands as a symbol of salvation.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -885,7 +883,7 @@ At last, faint smiles and hope return to their pale faces. Before them, the girl
 <a id="episode-3150105"></a>
 ## 3150105 · What Was Lost Is Found
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Young Rubuska:** One, two, three, four, five, six ...
 
 **Young Rubuska:** Ah ...
@@ -1067,7 +1065,7 @@ Until a shot rips through the night.
 **Garrison Officer:** What are you doing here?!
 
 The shadows scatter with the sound, dissolving into the night. And the living jolt in panic as if being ripped from a dream.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1075,7 +1073,7 @@ The shadows scatter with the sound, dissolving into the night. And the living jo
 <a id="episode-3150106"></a>
 ## 3150106 · The Night It Burned
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Rubuska:** And so, the great vampire Rubuska began gathering more companions.
 
 **Rubuska:** Together they resisted the darkness, resisted eternal slumber ...
@@ -1183,7 +1181,7 @@ Black shadows rise—one, two, three ...
 They stand in silence, remaining beside their loved ones in another form.
 
 Her song becomes a requiem, mourning the perished and their homeland left in ruins.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1191,7 +1189,7 @@ Her song becomes a requiem, mourning the perished and their homeland left in rui
 <a id="episode-3150107"></a>
 ## 3150107 · "Resurrection"
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Rubuska's Home
 
 **Young Rubuska:** What's his name?
@@ -1375,7 +1373,7 @@ Her voice changes direction, echoing from far away.
 **Young Rubuska:** I will wait for you here on the next full moon.
 
 **Young Rubuska:** Don't forget to bring the "reward" with you ...
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1383,7 +1381,7 @@ Her voice changes direction, echoing from far away.
 <a id="episode-3150108"></a>
 ## 3150108 · By Blood I Swear
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The full moon rises as a troop of soldiers marches into the cemetery.
 
 **Garrison Officer:** Keep your nerves steady. This "vampire" may try to trick us.
@@ -1583,7 +1581,7 @@ She hugs the knitted red cloak tightly to her chest.
 **Rubuska:** I ... I'll never hang upside down in the carriage again.
 
 **Rubuska:** Cross my heart!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---

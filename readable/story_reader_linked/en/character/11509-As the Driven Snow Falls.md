@@ -7,8 +7,6 @@
 - Story units：`7`
 - Trail：`0`
 
-[UTTU](https://uttu.merui.net/story/character/ezra_theodore/en/?part=1)
-
 Ezra is a model of pure humanity.
 He is a bright sparkle on a snowy mountaintop.
 
@@ -27,7 +25,7 @@ He is a bright sparkle on a snowy mountaintop.
 <a id="episode-1150901"></a>
 ## 1150901 · The New Curator
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Assistant Curator:** Good morning, everyone! On behalf of the Laplace Museum, I’d like to welcome you to the "Snowy Mountain Ecology" exhibition!
 
 **Assistant Curator:** Make sure to head over to the main entrance hall in ten minutes for our opening ceremony.
@@ -133,7 +131,7 @@ Shifting their gaze, the young researcher nodded in satisfaction.
 **Mesmer Jr.:** Oh, it's nothing. I was just thinking—he really did it.
 
 **Mesmer Jr.:** I never thought he would succeed.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -141,7 +139,7 @@ Shifting their gaze, the young researcher nodded in satisfaction.
 <a id="episode-1150902"></a>
 ## 1150902 · Change of the Coils
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Ezra:** Hello, I'm here to check in. I made a reservation over the phone a couple of days ago.
 
 **Assistant Curator:** Mr. Theodore, right?
@@ -359,7 +357,7 @@ There in the darkness, she stared at the sickbed, as if examining an invisible p
 She shook her head forcefully, as if attempting to throw off some tainted mark.
 
 **Mesmer Jr.:** Where did I put the disinfectant?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -367,7 +365,7 @@ She shook her head forcefully, as if attempting to throw off some tainted mark.
 <a id="episode-1150903"></a>
 ## 1150903 · Circe's Plant
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Mesmer Jr.:** He found the Rutile?
 
 **Mesmer Jr.:** ...Alright, I understand. Prepare the remaining materials to enhance the divining rod for him. Is he still with you?
@@ -495,7 +493,7 @@ The package was light, containing two tubes of pale yellow hand cream in aluminu
 I noticed some wounds on your wrists; moisturizing them could help with healing. I don't know much when it comes to skincare products, but I hope you don't mind the scent.
 
 "Yours sincerely, Ezra."
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -503,7 +501,7 @@ I noticed some wounds on your wrists; moisturizing them could help with healing.
 <a id="episode-1150904"></a>
 ## 1150904 · Sailor of the World
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **X:** Ezra's a thoughtful kid; he seems to really care about you.
 
 **X:** In case you didn't realize—let me point it out—he's worried about your anxiety and notices everything about you.
@@ -821,7 +819,7 @@ Innocent as ever. X shrugged with a smile.
 **Medicine Pocket:** My current project isn't about pest control for plants—
 
 **Mesmer Jr.:** Let's put an end to this pointless argument and talk about what happened next.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -829,7 +827,7 @@ Innocent as ever. X shrugged with a smile.
 <a id="episode-1150905"></a>
 ## 1150905 · Old Acquaintance
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Ezra returned to the Computing Center and headed straight for X's office.
 
 **X:** Oh—it's you, you're back.
@@ -1075,7 +1073,7 @@ The kid wobbled into the hug before finding himself pushed toward the door.
 **Medicine Pocket:** I'll handle everything, alright?
 
 **Medicine Pocket:** Just grab that darn grass—pluck it, stuff it in a box, and bring it to me!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1083,7 +1081,7 @@ The kid wobbled into the hug before finding himself pushed toward the door.
 <a id="episode-1150906"></a>
 ## 1150906 · One Who Stole Fire
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Ezra:** As per the itinerary, it was supposed to be my final trek up the mountain.
 
 **Ezra:** I'd locate my most crucial specimens and procure the ingredient for the potion my friend needed.
@@ -1277,7 +1275,7 @@ One empty, the other full. An unopened syringe lay quietly beside the full one.
 It was as if a door had been opened.
 
 **Ezra:** ...I'll, pluck down those sparkling stars.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1285,7 +1283,7 @@ It was as if a door had been opened.
 <a id="episode-1150907"></a>
 ## 1150907 · Above the Snow
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Medicine Pocket:** That's the last thing I remember clearly.
 
 **Medicine Pocket:** After that, my consciousness, like young Ezra, became a snowflake lost in the mountains—vanished without a trace.
@@ -1409,7 +1407,7 @@ X and the girl picked it up, and only then did people begin to notice it.
 **Ezra:** "From today, from this moment."
 
 **Ezra:** The ideal kingdom will border the soil beneath the snow-capped mountains. One single spark on the edelweiss will spread and light up the sky.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---

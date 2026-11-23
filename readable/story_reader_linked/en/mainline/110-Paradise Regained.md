@@ -7,8 +7,6 @@
 - Story units：`25`
 - Trail：`15`
 
-[UTTU](https://uttu.merui.net/story/main/chapter-10/en/?part=1)
-
 1991 · Hic iacet revelatio; hic iacet finis.
 
 ## Contents
@@ -46,7 +44,7 @@
 
 > The sleigh, empty of its precious gifts, glides quickly towards the future.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 A sealed office, with a screen emitting white light.
 
 A dial tone echoes through the quiet space before the call is answered.
@@ -216,7 +214,7 @@ Yet beneath the silence roars an imperceptible foreboding.
 "This will be the place of revelation,
 
 and it will also be the place of conclusion."
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -431,7 +429,7 @@ Antarctic Landing
 
 > Forward with heads bowed The ship drove fast, loud roared the blast, The southward aye we fled.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Team Member I:** Entering the ice zone. Grab your telescopes, explorers.
 
 **Team Member II:** That's right. We need your eyes on every ice floe. Let's not make a second Titanic.
@@ -659,7 +657,7 @@ Her body shakes erratically, and she returns to a mantra of bizarre muttered hal
 **Nautika:** No. You mustn't. Do not go into Antarctica.
 
 **Nautika:** You mustn't go any further!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -899,7 +897,7 @@ Ghost Radio
 
 > Beneath the ice the answers lie—for them, for her, for you.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The true horror happened on the third day, when we reached the hinterland. An aurora australis appeared in the sky in the broad daylight.
 
 Solar flares and the coronal mass ejections that came with them caused the aurora to appear so bright that it was almost blinding.
@@ -1073,7 +1071,7 @@ The black-clad believers kneel and prostrate themselves before the blind woman, 
 Her sightless eyes seem to pierce through eternity before finally settling on the ritual's center.
 
 There stands a golden Spinning Wheel, locked in silent communion with her.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1262,7 +1260,7 @@ There stands a golden Spinning Wheel, locked in silent communion with her.
 
 > Come on, keep up—don't lag behind.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Sonetto:** Manus Vindictae is an extremist pure-blood arcanist organization. They used to act covertly to disrupt the world order in hopes of reviving arcanum.
 
 **Sonetto:** However, in the last year, they've become much more active, even encouraging ordinary people to wear their masks and endure their trial. It's suspected that they went high-profile in order to quickly attract more believers.
@@ -1484,7 +1482,7 @@ The guns inch into position, aiming to hit the water at six o'clock.
 COMBAT:
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1719,7 +1717,7 @@ The guns inch into position, aiming to hit the water at six o'clock.
 
 > Dear betrayer, have you claimed the gold you were promised?
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 \*whoosh\*
 
 A thin lead arrow hits a gallbladder, spilling bile and blood.
@@ -1867,7 +1865,7 @@ The soldiers respond in a disciplined harmony.
 She scans the ranks, then lowers her head.
 
 Blinking, she finds herself mesmerized by the strange, golden flurry dusting her combat boots.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -2118,7 +2116,7 @@ END OF DIALOGUE
 
 > Let's just be grateful that there are no traffic police in Antarctica.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Sonetto:** Timekeeper, are you sure this is the right direction?
 
 **Nautika:** Please trust me and my map. This is the way to the ruins. I promise.
@@ -2476,7 +2474,7 @@ Their snowmobile stands loyally in the clearing.
 The engine screams to life, throwing a spray of ice shards into the air as its treads churn—a glittering mist rising behind it.
 
 **Sled Dog:** Woof! Woof woof!!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -2843,7 +2841,7 @@ The engine screams to life, throwing a spray of ice shards into the air as its t
 
 > No, not a coronal mass ejection—just an unexpected firework.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Abandoned Research Station
 
 Another equally forgotten research station.
@@ -3071,7 +3069,7 @@ Blinded by the smoke rising from the fire, they make out a glowing mass that bri
 **Nautika:** No ...
 
 **Nautika:** That was our only means of transportation.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -3310,7 +3308,7 @@ Blinded by the smoke rising from the fire, they make out a glowing mass that bri
 
 > We hope someone found joy in the ride, even if just for a moment.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 They trudge upward through the deep snow.
 
 **Nautika:** Great Mother Spirit ...
@@ -3568,7 +3566,7 @@ She offers no explanation as she wrenches the now-harmless grenade from Ulrich's
 **Moldir:** For the last time, what is your purpose here?
 
 Is it about the Timekeeper, about Vertin?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -3847,7 +3845,7 @@ She offers no explanation as she wrenches the now-harmless grenade from Ulrich's
 
 > The introspective wields the blade of defiance, while the defiant veils herself in introspection.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Former Zeno Sentinel Unit Station
 
 Moldir's fingers tense around the intercom.
@@ -4145,7 +4143,7 @@ After inspecting each patient, Moldir halts at a square desk, her silhouette gil
 **Ulrich:** ...
 
 **Moldir:** We need to trade information if we want to stay in the game.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -4496,7 +4494,7 @@ The Measure of Loyalty
 
 > Instinct, faith, and a turn of fate—that's all it takes to succeed.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Nautika:** That's odd.
 
 Antarctic Plain
@@ -4664,7 +4662,7 @@ Their movement triggers something hidden, causing the snowfield around them to s
 **Sonetto:** Wait, there are critters hiding out nearby.
 
 **Sonetto:** There they are. Timekeeper, watch out!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -4849,7 +4847,7 @@ Their movement triggers something hidden, causing the snowfield around them to s
 
 > It's always darkest before the dawn.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Nautika:** Umm, guys ...
 
 Exhausted, Nautika finally breaks the silence of their long trek.
@@ -5009,7 +5007,7 @@ Their ice-cold hands clasp together.
 **Vertin:** Are you ready to walk in darkness, ladies?
 
 She closes her eyes.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -5320,7 +5318,7 @@ Metaphor in the Fresco
 
 > All is prepared. We are but a single step from a successful experiment.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 There was a saviour
 
 Rarer than radium,
@@ -5634,7 +5632,7 @@ His ferrofluid flickers a few times before he walks into the gathering powder sn
 Moldir snaps a salute to Ulrich.
 
 A few steps later, he looks back.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -6046,7 +6044,7 @@ Circling Ulrich with paws still firmly behind his back, Buddy Fairchild sizes hi
 - Description：​​We suggest that every researcher continue regular exercise or else apply for an exoskeleton from their institution.
 - Action：Go to the experimental site
 
-[UTTU · Outdoor Experiment](../trails/900028-Outdoor%20Experiment.md#episode-90002801)
+[Outdoor Experiment](../trails/900028-Outdoor%20Experiment.md#episode-90002801)
 
 ---
 
@@ -6055,7 +6053,7 @@ Circling Ulrich with paws still firmly behind his back, Buddy Fairchild sizes hi
 
 > Down, down, descend the stair, Step down, I say, to the devil's lair.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Vertin:** I see. Thank you, Mr. Ulrich. This is exactly the information we needed.
 
 **Vertin:** If everything's gone to plan, the Foundation's spy should already be in Antarctica.
@@ -6443,7 +6441,7 @@ Ms. Stranger reaches out a hand.
 **Ms. Stranger:** About Dr. Dores, or rather, Ms. Urd ...
 
 **Ms. Stranger:** I have the final piece of the puzzle that will lead you to her.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -6842,7 +6840,7 @@ Ms. Stranger reaches out a hand.
 
 > They shared it all—warmth in cold, cool in heat. But now, there is something she holds alone.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Former Zeno Sentinel Unit Station
 
 Moldir taps a code into the communicator before putting it back in her pocket.
@@ -7054,7 +7052,7 @@ A long-unfamiliar tightness rises in Moldir's throat.
 She blinks, breathes deep, and then exhales a misty stream into the air.
 
 **Moldir:** Those are our orders. Let's be sure we see them through.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -7289,7 +7287,7 @@ She blinks, breathes deep, and then exhales a misty stream into the air.
 
 > The mad often speak the truth.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 City Ruins
 
 Sonetto steps forward, her glasfeder aimed squarely at the Manus Apostle's chest.
@@ -7545,7 +7543,7 @@ Sweat drips down her temples as she swallows hard.
 **Nautika:** Wait for me, Friele.
 
 She lifts her foot, placing it precisely over the footprints in the snow.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -7839,7 +7837,7 @@ Tales of the Mother Spirit
 
 > I strain my eyes into the abyss, but darkness is all I see.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Sonetto:** Ms. Stranger, where are we now? Ms. Amundsen is a human. If she's been caught by Manus Vindictae ...
 
 **Ms. Stranger:** Shh, keep it down.
@@ -8259,7 +8257,7 @@ Animus steps onto the soft, viscous algae. That familiar, chewing sound grates a
 **Animus:** Has realization finally dawned in your darkened mind?
 
 **Animus:** Your friend is gone. She will never return from the gate.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -8702,7 +8700,7 @@ Animus steps onto the soft, viscous algae. That familiar, chewing sound grates a
 
 > All she wants, is to stand in the light forever
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Animus:** Your friend is gone. She will never return from the gate.
 
 Her eyes crinkle with pleasure, drinking deep from tears running over Nautika's face.
@@ -9022,7 +9020,7 @@ All eyes turn toward the deserted plaza, now strewn with the chilling aftermath.
 **Sonetto:** And it'll only open again ...
 
 **Vertin:** When we make another offering.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -9329,7 +9327,7 @@ All eyes turn toward the deserted plaza, now strewn with the chilling aftermath.
 
 > Goodbye, Máhtu.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Máhtu?**
 
 **Máhtu?**
@@ -9679,7 +9677,7 @@ The gate.
 **Sonetto:** ...
 
 Opens.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -10062,7 +10060,7 @@ A Debate on Religion
 
 > Poor soul, so eager for salvation—where will you go now?
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The way he came, not having marked return,
 
 Was difficult, by human steps untrod;
@@ -10414,7 +10412,7 @@ The Preacher raises a hand; the little idol sways gently against her chest.
 **Sonetto:** ...
 
 Her grip tightens around her glasfeder. Just as she has done countless times before, she raises it into the air.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -10778,7 +10776,7 @@ Operation Day
 
 > Go and seek the Golden Fleece. In the land of endless peace.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Lava Tube, Sanctuary
 
 **Vertin:** \*panting\*
@@ -11088,7 +11086,7 @@ More and more water rises.
 **Animus:** At last, we are no longer lost.
 
 **Animus:** For the Guiding One is risen!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -11407,7 +11405,7 @@ More and more water rises.
 
 > Blood and tears become one, as she weeps in the dark.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Altar, Sanctuary
 
 A lump of dark flesh pulsates like a heart, its flowing black fluid spilling into the well, mixed with rain with neither weight nor wetness.
@@ -11809,7 +11807,7 @@ The wind courses through and around, carrying soft whispers with it. Until, all 
 **Vertin:** And Arcana is its very heart.
 
 **Vertin:** I fear it's only a matter of time before she's fully resurrected.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -12226,7 +12224,7 @@ The wind courses through and around, carrying soft whispers with it. Until, all 
 
 > When, with blood, the disordered threads are soothed, fate shall reclaim what was once eschewed.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Lava Tube, Sanctuary
 
 Words fall alongside the arcane skill's radiance. Sonetto and the Preacher's pupils each reflect the other's form.
@@ -12388,7 +12386,7 @@ Animus: At last, the moment has come!Animus: The Sufferer is returned! For throu
 **Animus:** Let the ages begin anew! Return us to the Blank Era, where arcanists reign as masters of all!
 
 **Animus:** Return us to paradise! Restore the true utopia!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -12598,7 +12596,7 @@ END OF DIALOGUE
 
 > The flood of time will take us all, but pray, let me find my own stream.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Altar, Sanctuary
 
 **Animus:** Aah. What an honor it is to bear witness to Her return with my own eyes! Great Mother of Arcanum—
@@ -13078,7 +13076,7 @@ Arcana stands in the water, smiling all the same.
 **Arcana:** In a world that is rightfully ours.
 
 Then she disappears into the rising tide.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -13613,7 +13611,7 @@ Gill-Breathing
 
 > Go to the other ferry, back to the mouth of the River Tiber.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Altar, Sanctuary
 
 **Nautika:** She's gone? Just like that?
@@ -13849,7 +13847,7 @@ Then two, three ...
 The "Flood" recedes.
 
 And the "Storm" begins.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -14164,7 +14162,7 @@ Breathe Again
 
 > On the never-ending relentless march through time, the future will come again.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Antarctic Plain
 
 **Moldir:** This is ...
@@ -14316,7 +14314,7 @@ Find your home beneath your feet.
 Winter, spring, the years they turn.
 
 Let your heart grow brave and strong.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>

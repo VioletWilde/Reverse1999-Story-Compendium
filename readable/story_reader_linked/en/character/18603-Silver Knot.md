@@ -7,8 +7,6 @@
 - Story units：`8`
 - Trail：`0`
 
-[UTTU](https://uttu.merui.net/story/character/windsong/en/?part=1)
-
 Coat on, shake off that snow
 Hills and valleys, she has roamed
 Every step through high and low
@@ -29,7 +27,7 @@ Every step through high and low
 <a id="episode-1860301"></a>
 ## 1860301 · Queries in the Hall
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Lecture Hall, Laplace
 
 **Windsong:** 1, 2, 3, and 4. Good. They're all here.
@@ -239,7 +237,7 @@ She notices the first researcher's face. His eyes are fixed on her as he tries t
 **Windsong:** Don't worry. Take some time to think about it, and I'll come back to it at the end.
 
 **Windsong:** As I said earlier, I was enthralled by Lisov's enthusiasm and ambition and became a ley hunter. It was a remarkable time; under his guidance, we all had unwavering faith in this discipline.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -247,7 +245,7 @@ She notices the first researcher's face. His eyes are fixed on her as he tries t
 <a id="episode-1860302"></a>
 ## 1860302 · Top of the Ivory Tower
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 A simple world is an ignorant one.
 
 You may have grown accustomed to its ignorance, so much so that you don't see it anymore, like how your brain filters the nose from your sight.
@@ -447,7 +445,7 @@ Snapping back to the moment, Windsong's eyes turn to her professor again.
 She gives a solemn nod.
 
 She swiftly turns around and rushes to catch up with Old Nik.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -455,7 +453,7 @@ She swiftly turns around and rushes to catch up with Old Nik.
 <a id="episode-1860303"></a>
 ## 1860303 · Parasites
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Windsong:** The time is ... 8:29. Ekaterina. Clocked in.
 
 Windsong tosses the pen aside. It dangles from the string attaching it to the sign-in board.
@@ -667,7 +665,7 @@ She goes through them all again.
 **Windsong:** If we'd just worked together more, we'd probably have a wealth of knowledge by now.
 
 **Windsong:** No wonder Old Nik doesn't like it here.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -675,7 +673,7 @@ She goes through them all again.
 <a id="episode-1860304"></a>
 ## 1860304 · Tortoise and the Hare
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Mountain Cabin, Taryga
 
 The cold weather in Taryga clears all other thoughts from Windsong's mind, and the happenings of the research institute seem distant amid the snowy mountains.
@@ -1039,7 +1037,7 @@ He gestures toward the door.
 **Windsong:** Thank you, Professor.
 
 Too disappointed to say anything else, he just nods in response.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1047,7 +1045,7 @@ Too disappointed to say anything else, he just nods in response.
 <a id="episode-1860305"></a>
 ## 1860305 · The Researcher in Snow
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Snowfield, Yakutsk
 
 It's an ordinary morning in Lesnaya Forest, located in the coldest part of Yakutsk.
@@ -1281,7 +1279,7 @@ She walks to the window and looks at the snow outside.
 Following Sofia's gaze, Windsong peers out the window and scans the distant mountains.
 
 **Windsong:** I wonder if it's already started snowing at the institute.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1289,7 +1287,7 @@ Following Sofia's gaze, Windsong peers out the window and scans the distant moun
 <a id="episode-1860306"></a>
 ## 1860306 · After the Bubble Bursts
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Removal Worker:** Watch out! Make way, please!
 
 **Windsong:** What ...
@@ -1635,7 +1633,7 @@ She sets down her pen and relaxes her shoulders.
 **Windsong:** I'm not sure I would've had the courage to tell him if he ever had shown up, because if I had, he might never have come back again.
 
 **Windsong:** Regardless, he never came back in the first place.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1643,7 +1641,7 @@ She sets down her pen and relaxes her shoulders.
 <a id="episode-1860307"></a>
 ## 1860307 · The Night Keeper
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Windsong:** I'd lost count of the number of rejection letters I'd received. I had long since run out of money and had been sleeping in the office for some time.
 
 **Windsong:** That was my last day at the institute.
@@ -1839,7 +1837,7 @@ Her fingers ache from the clenching, but she is determined not to let go.
 Once again, she looks at the notice board.
 
 Her heart feels lighter. Finally, there is a new path before her.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1847,7 +1845,7 @@ Her heart feels lighter. Finally, there is a new path before her.
 <a id="episode-1860308"></a>
 ## 1860308 · Comrade
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The hall is silent as the researchers listen intently.
 
 Windsong takes a sip of water before speaking.
@@ -2063,7 +2061,7 @@ She takes a step forward and extends a hand.
 She smiles, looking into what she believes to be the robot's eyes.
 
 **Windsong:** I look forward to working with you, Comrade Lucy.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---

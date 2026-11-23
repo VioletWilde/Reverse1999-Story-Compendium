@@ -7,8 +7,6 @@
 - Story units：`6`
 - Trail：`0`
 
-[UTTU](https://uttu.merui.net/story/other/echoes/en/?part=1)
-
 In the meanwhile, the Field Agent Squad led by Semmelweis is tasked with investigating a Manus branch.
 Guided by a melody, she ventures into enemy territory.
 
@@ -26,7 +24,7 @@ Guided by a melody, she ventures into enemy territory.
 <a id="episode-90001901"></a>
 ## 90001901 · 1
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 White snow covers the distant peaks, and the warming climate has started to reveal the jagged lines of the stone beneath.
 
 However, the weather is still far from pleasant—in fact, the wet early spring has made the grasslands muddy and treacherous.
@@ -150,7 +148,7 @@ Semmelweis smiles to herself.
 **Emil:** Are we going to check it out, Captain?
 
 **Semmelweis:** Yes. Tatzelwurms don’t just appear for no reason. If it's ambushed some travelers, we need to lend a hand.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -158,7 +156,7 @@ Semmelweis smiles to herself.
 <a id="episode-90001902"></a>
 ## 90001902 · 2
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Forest, Foothill
 
 **Semmelweis:** The smell's getting stronger. It must be nearby. Prepare for battle.
@@ -388,7 +386,7 @@ The snow-covered mountaintops reflect the sunlight, emanating a brilliant white 
 **Semmelweis:** Have my hallucinations really become this real ...?
 
 **Semmelweis:** Looks like the condition is worse than I thought.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -396,7 +394,7 @@ The snow-covered mountaintops reflect the sunlight, emanating a brilliant white 
 <a id="episode-90001903"></a>
 ## 90001903 · 3
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Laplace Rehabilitation Center
 
 **Doctor:** I'm very sorry, but your condition ...
@@ -590,7 +588,7 @@ Semmelweis looks off into the distance. The sky is turning orange as the sun dip
 Semmelweis turns to leave.
 
 The glow of the sunset spills over her, casting a long shadow.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -598,7 +596,7 @@ The glow of the sunset spills over her, casting a long shadow.
 <a id="episode-90001904"></a>
 ## 90001904 · 4
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Forest, Foothill
 
 **Madam Lindsay.:** Progress report, Semmelweis.
@@ -682,7 +680,7 @@ She regains control of her body, and her expression grows serious.
 **Semmelweis:** Manus Vindictae's research on the critical point has been ahead of us from the start. They must have this information too.
 
 **Semmelweis:** My apologies, Madam Lindsay. I must hurry. Who knows what extreme measures the followers might take under these circumstances?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -690,7 +688,7 @@ She regains control of her body, and her expression grows serious.
 <a id="episode-90001905"></a>
 ## 90001905 · Ending I
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Abandoned Village
 
 After a short rest, the team disperses into the abandoned village. The Manus followers have retreated quickly, as if they anticipated the current scene.
@@ -830,7 +828,7 @@ Upon ending the communication, Semmelweis places the communication device back i
 —Semmelweis mutters, looking towards Vienna.
 
 **Semmelweis:** Is this also fate's doing?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -838,7 +836,7 @@ Upon ending the communication, Semmelweis places the communication device back i
 <a id="episode-90001906"></a>
 ## 90001906 · Ending II
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Laplace Rehabilitation Center
 
 A familiar location.
@@ -1130,7 +1128,7 @@ Upon ending the communication, Semmelweis places the communication device back i
 —Semmelweis mutters, looking towards Vienna.
 
 **Semmelweis:** Perhaps ... It’s destiny.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---

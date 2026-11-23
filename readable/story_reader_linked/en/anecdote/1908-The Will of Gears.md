@@ -7,8 +7,6 @@
 - Story units：`7`
 - Trail：`0`
 
-[UTTU](https://uttu.merui.net/story/anecdote/x/en/?part=1)
-
 Inside the Penumbra Can,
 Covered in a layer of dust,
 Are stories buried in the depths of time.
@@ -30,7 +28,7 @@ Are stories buried in the depths of time.
 
 > Farces always attract undue attention. How about a can of Dr. Papper?
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Lab, Suitcase
 
 **X:** Fantastic, Regulus! I've tried this experiment so many times, but I've never had such amazing results!
@@ -114,7 +112,7 @@ The atmosphere around Mesmer Jr. at this moment can only be compared to the sky 
 **Mesmer Jr.:** Never mind. You should know, I will be documenting my observations of this incident in a forthcoming report.
 
 The professionalism of her words comes in sharp contrast with her barely-concealed rage as she storms off.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -223,7 +221,7 @@ The professionalism of her words comes in sharp contrast with her barely-conceal
 
 > —An ounce of gold, or its equivalent in dollars.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Letter:** "In conclusion, Researcher X's continued study on mechanical devices poses significant safety risks …"
 
 **Letter:** "It is recommended that Researcher X undergo a thorough investigation for compliance, along with all of his mechanical devices …"
@@ -349,7 +347,7 @@ Sonetto takes the flyer.
 **Sonetto:** And if the proposed sale goes through … The price will be increased from $1 per capsule to …
 
 **Sonetto:** $550?!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -498,7 +496,7 @@ Sonetto takes the flyer.
 
 > To those who have, more will be given.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Wilson:** Well, what are you worried about?
 
 **Wilson:** We own the patent, so what we charge for it is our right! Doesn't matter whether it's sold for $1 or $1000. It's none of their d\*\*ned business.
@@ -640,7 +638,7 @@ Well, this mission just went from bad to worse.
 **X:** … I'd better get out of here before you two find more work to give me.
 
 **X:** See you later, my heartless friends.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -805,7 +803,7 @@ Well, this mission just went from bad to worse.
 
 > Beyond curiosity and imagination lies a little bit of vindictiveness.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 There's never much fun in waiting around.
 
 But I'll say one thing for her: She never wastes time.
@@ -939,7 +937,7 @@ The children begin to leave, heading back towards their waiting parents.
 X lets out a sigh and begins to dismantle his contraption, carefully removing each of the different donated pieces.
 
 **X:** I'll be just a minute.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1096,7 +1094,7 @@ X lets out a sigh and begins to dismantle his contraption, carefully removing ea
 
 > It's a law of physics. There are no exceptions.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Sonetto:** So, then, their parents are the protesters we encountered at the march …
 
 **X:** Yes. Their parents have been protesting outside Wilson Pharmaceuticals for days now. So I offered to watch their kids.
@@ -1200,7 +1198,7 @@ X lets out a sigh and begins to dismantle his contraption, carefully removing ea
 **Sonetto:** Happy to help!
 
 **Sonetto:** But what did you mean by "the initial point?"
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1327,7 +1325,7 @@ X lets out a sigh and begins to dismantle his contraption, carefully removing ea
 
 > "Ep=mgh"—this law also applies to social constructs.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Mr. Wilson's patent transfer has been delayed now for three days. Today is the last day to sign.
 
 **Sonetto:** According to the agreement, we will transfer Mr. Wilson to headquarters immediately after the contract is signed.
@@ -1461,7 +1459,7 @@ A sudden and unexpected accident.
 Perhaps it is only a momentary illusion. But it seems to Vertin that she has spied the fluctuation of an arcane skill not far way on an abandoned high-rise.
 
 Yet, a second look confirms there is no one to be seen.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1620,7 +1618,7 @@ Yet, a second look confirms there is no one to be seen.
 
 > "Everything in its place."
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Hallway, Foundation
 
 **Sonetto:** I'm terribly sorry, Timekeeper. We've failed our mission. I should have done something sooner …
@@ -1796,7 +1794,7 @@ X takes a sip of his coffee, marveling with pride at the words as he raises the 
 X taps the edge of his cup, beginning a series of outrageous mechanical movements, as Mesmer's stack of complaints is pulled one by one from his desk and funneled into the fireplace.
 
 Where they turn to ash, leaving not a single trace.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>

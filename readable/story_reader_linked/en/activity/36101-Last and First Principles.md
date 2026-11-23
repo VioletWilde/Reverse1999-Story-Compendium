@@ -7,8 +7,6 @@
 - Story units：`14`
 - Trail：`9`
 
-[UTTU](https://uttu.merui.net/story/event/3_6/en/?part=1)
-
 Spin the wheel,
 and time spins with it.
 In this seemingly real life,
@@ -39,7 +37,7 @@ there is always an answer.
 
 > Buried deep. No echoes return.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 A silent afternoon. Enigma sits at his desk, trying to picture a field of grass.
 
 But something else always pushes its way in—something bitter, something that tastes of rust. After several failed attempts, he pulls open the drawer and looks at what's inside.
@@ -215,7 +213,7 @@ Because I want to see the world you believed in.
 **Marcus:** I ...
 
 **Marcus:** ... will never forget what you've done for us. For me.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -225,7 +223,7 @@ Because I want to see the world you believed in.
 
 > Just a little detour.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Laplace Hallway
 
 **???:** Damn it, are you blind?!
@@ -439,7 +437,7 @@ Madam Z stands in the corridor, gazing up at the unfamiliar silver-white buildin
 **Z:** Can a scientist ...
 
 **Z:** ... become a politician?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · School Days
 
@@ -476,7 +474,7 @@ I am a human, but you are an arcanist. I hope you understand my pursuit of a per
 
 > Don't readily accept rehearsed stories.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **???:** There must be a theory that unifies everything in the universe.
 
 **???:** Because every puzzle has a solution.
@@ -666,7 +664,7 @@ He steps out and shuts the door behind him.
 **Ulrich:** ...
 
 **Enigma:** I'm trying to return this copy of your report that you "forgot."
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -905,7 +903,7 @@ Step 1: Swear you are more than six years old or at least no longer have a habit
 
 > Truth is correctness ... Hey, is anyone going to guarantee the truth of this statement?
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Forest, Toybox
 
 A "professional" expedition team of one investigator and two researchers trudges through the woods.
@@ -1125,7 +1123,7 @@ A giant bamboo shoot that looks like a green arrow grows at the end of the path 
 Oh! Our shortcut is just there, behind that big tree!
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1135,7 +1133,7 @@ Oh! Our shortcut is just there, behind that big tree!
 
 > A necessary choice in the midst of chance.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Medicine Pocket:** Go on, spit it out!
 
 **Medicine Pocket:** Or have all those long-winded administrative tasks totally destroyed your ability to get to the point?
@@ -1379,7 +1377,7 @@ Yoo #!dare mess wid uz? Then, face%￥ our#@ mite!
 ... Let's get this over with quickly.
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1642,7 +1640,7 @@ A moment later, he sets off down the same road.
 
 > And the old days carry the scent of mint.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Hofmann Family Home
 
 **???:** I'm heading out.
@@ -1850,7 +1848,7 @@ The communicator rings just in time, cutting off his lingering contempt for the 
 **Pointer:** We've made some new discoveries regarding the tower's core.
 
 **Pointer:** It changes when observed. We need to come up with a new plan.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -2113,7 +2111,7 @@ However, if you don't have much text, this can be difficult. In these situations
 
 > The world shifts under observation. Memories are but echoes in a glass tank.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Pointer:** As you can see, this is the toybox's core.
 
 The core is contained within a metallic frame. At its center, something between a cloud of fog and a jellyfish envelops matter and symbols too strange to name.
@@ -2385,7 +2383,7 @@ No, our time is limited. We should take a page from Medicine Pocket's book ...
 And take them apart.
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -2668,7 +2666,7 @@ Finally, he is pulled from the space. The tower collapses into a cone of light a
 
 > Wait for dawn at the mountain's peak.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Adler:** Going mountain climbing again?
 
 **Adler:** Where are you heading this time? Watzmann, Nebelhorn?
@@ -2866,7 +2864,7 @@ Enigma cuts in, stopping the argument before it starts.
 **Enigma:** Plus, since the data is restored after each reset of the toybox, we can start by assuming that the mishap with Ludwig has been fixed.
 
 **Enigma:** We start with a hypothesis, then we test it.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · Pending Report
 
@@ -2901,7 +2899,7 @@ After the tenth "Storm," new anomalies began appearing within the toybox. Resear
 
 > As the storyteller whispers, a soft shadow falls on the living and the dead.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Enigma:** After this reset, we need to limit the changes inside the toybox as much as possible.
 
 **Enigma:** That is to say, the fewer the people who enter the toybox, the better.
@@ -3119,7 +3117,7 @@ Kindly make your way into the reagent bottles!! We'll shake them to see if you'r
 Unfortunately for you, that's not enough to convince me to cooperate.
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -3129,7 +3127,7 @@ Unfortunately for you, that's not enough to convince me to cooperate.
 
 > Welcome to the other side of life.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Hissabeth:** We're all quite used to the "language disorder" by now, so that isn't much of a problem, and there isn't much need for him to communicate with anyone.
 
 **Hissabeth:** But what does concern me is that moving tower. A brand new variable ...
@@ -3395,7 +3393,7 @@ COMBAT:
 I don't want to deal with this kind of thing on the outside too.
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -3672,7 +3670,7 @@ In the deepest dark, there's a soft knock on a brick.
 
 > A universal incantation and a useless defense.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Enigma:** ...
 
 **Enigma:** What an absurd experience.
@@ -3914,7 +3912,7 @@ The consequences of clashing data ... I'd better establish some stable data tran
 Luckily, I still have some time.
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -4148,7 +4146,7 @@ Missing Bird Poster
 
 > One among countless in the world. One that belongs only to your memory.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 \*knock\*
 
 All for nothing.
@@ -4312,7 +4310,7 @@ In the real world, there is a note just like this in his drawer, taken from that
 Proof that she will walk this path every time, without exception. A prophecy written in data.
 
 **Enigma:** Ha. Arcanum.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · The Sound of Prejudice
 
@@ -4341,7 +4339,7 @@ and an imaginary wall.
 
 > We continue to walk the path of progress.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Enigma:** The Vigenère cipher. A multi-layered application of the Caesar cipher.
 
 **Enigma:** In this scenario, using Kasiski's test to reverse-engineer the key from known ciphertext is the most suitable approach.
@@ -4493,7 +4491,7 @@ Another flicker of her "eye." She runs her fingers over the letter on the desk.
 **Lucy:** I am still functioning. Thus, there are still people who seek answers to the world's unsolved mysteries, and those who work to uncover its unknown principles.
 
 **Lucy:** We continue to walk the path of progress.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -4662,7 +4660,7 @@ Another flicker of her "eye." She runs her fingers over the letter on the desk.
 
 > In a better place, or perhaps in the future.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Z:** This is a very thorough report.
 
 **Z:** And knowing where you stand, it's safe to say Laplace won't be facing many more problems for the time being.
@@ -4900,7 +4898,7 @@ A "memento."
 A beginning.
 
 In "our" new age.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>

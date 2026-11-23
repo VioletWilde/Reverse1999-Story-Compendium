@@ -7,8 +7,6 @@
 - Story units：`7`
 - Trail：`0`
 
-[UTTU](https://uttu.merui.net/story/anecdote/getian/en/?part=1)
-
 Inside the Penumbra Can,
 Covered in a layer of dust,
 Are stories buried in the depths of time.
@@ -28,7 +26,7 @@ Are stories buried in the depths of time.
 <a id="episode-90001201"></a>
 ## 90001201 · A Story Told by Candlelight
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 20:18Rainy
 
 ???
@@ -145,7 +143,7 @@ Under his audience's curious scrutiny, the musician takes a deep breath. This is
 
 An aged guqin, covered in fine cracks. The lacquer is old, but under the light it holds a shine that can only come from years spent in careful hands. Its strings tremble faintly, as if an unfinished melody still breathes within them.
 
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -153,7 +151,7 @@ An aged guqin, covered in fine cracks. The lacquer is old, but under the light i
 <a id="episode-90001202"></a>
 ## 90001202 · Like Old Friends
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 21:05Cloudy
 
 A Narrow Mountain Path
@@ -314,7 +312,7 @@ A plain, low thatched hut, with a few slabs of bluestone weighing down the ridge
 
 To humans, the Miemeng might as well be immortals. Arcanists with human faces and bird bodies, they dwell deep in mountains no ordinary mortal can reach, blessed with long lives. Yet what truly awes and tempts is their ability to alter one's bones, and with it, one's fate.
 
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -322,7 +320,7 @@ To humans, the Miemeng might as well be immortals. Arcanists with human faces an
 <a id="episode-90001203"></a>
 ## 90001203 · Footsteps in the Snow
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 22:20Cloudy
 
 A Narrow Mountain Path
@@ -483,7 +481,7 @@ Fortunately, the temple is just up ahead.
 
 Records of the Miemeng clan's history since their arrival in the central plains are kept in the Temple of Getian. If an archived copy of the lost score still exists somewhere on the mountain, it may well be there.
 
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -491,7 +489,7 @@ Records of the Miemeng clan's history since their arrival in the central plains 
 <a id="episode-90001204"></a>
 ## 90001204 · The Old Tree in the Yard
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 23:40
 
 A Temple in the Mountains
@@ -645,7 +643,7 @@ His lips move, but in the end, he only lets out another sigh.
 He unfastens the guqin and throws it to the ground. It lands with a heavy thud.
 
 **Musician:** "Please believe me, I have no ill intent."
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -653,7 +651,7 @@ He unfastens the guqin and throws it to the ground. It lands with a heavy thud.
 <a id="episode-90001205"></a>
 ## 90001205 · He Who Has Gone Astray
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 2:00
 
 A Temple in the Mountains
@@ -763,7 +761,7 @@ He lays his wings over the body of the guqin, falls silent for a moment, and beg
 **Getian:** "Long ago, there truly was such a Miemeng ..."
 
 A wisp of pale smoke slowly rises.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -771,7 +769,7 @@ A wisp of pale smoke slowly rises.
 <a id="episode-90001206"></a>
 ## 90001206 · A Tune That Lingers
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 4:00
 
 A Temple in the Mountains
@@ -986,7 +984,7 @@ Dawn is about to break. The extinguished candle gives off a faint trail of bluis
 
 The music of the Getian comprises eight songs: Carry the People, The Swallow, Nourish the Green, Raise the Five Grains, Honor the Way, Exalt the Divine, Trust the Earth's Virtue, and Bring All Things to Fullness.
 
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -994,7 +992,7 @@ The music of the Getian comprises eight songs: Carry the People, The Swallow, No
 <a id="episode-90001207"></a>
 ## 90001207 · The Long River
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 6:00Clear
 
 A Narrow Mountain Path
@@ -1226,7 +1224,7 @@ A cool breeze brushes past the Miemeng's wings and over the faintly vibrating st
 It is another very, very ordinary tune, hesitantly played for the first time.
 
 Tap to play the tune
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---

@@ -7,8 +7,6 @@
 - Story units：`5`
 - Trail：`0`
 
-[UTTU](https://uttu.merui.net/story/trails/800260x/en/?part=1)
-
 Chapter 9 - Special Trail
 
 ## Contents
@@ -26,7 +24,7 @@ Chapter 9 - Special Trail
 
 > Darkness has no form. The ever-shifting gaze seeps into every crevice.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Female Voice:** Oh? Looks like we've got a new arrival.
 
 **Male Voice:** It's pitch black in here. Can't be sure she's new just yet.
@@ -118,7 +116,7 @@ Comala Prison Perimeter
 **Roberta:** Come, come! I'm sure you'll fall in love with our salon!
 
 **García:** This … this has nothing to do with me. It's dark in here, but I suppose you've already grown used to walking in the dark. Sorry, I mean no offense.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -128,7 +126,7 @@ Comala Prison Perimeter
 
 > Towering walls, prisoners deep in the abyss paint pictures of the sky.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Hall of New Encounters
 
 **Inmate I:** I read in an article once that you Chileans don't like Baroque literature—something about it being too noisy. You sure are a quiet bunch.
@@ -246,7 +244,7 @@ She recalls the days of typing while looking out over the river, boats, and palm
 **Octavia:** And what kind of work are you planning to write? A nonfiction piece, I presume? About Comala Prison?
 
 **Dores:** Its theme is "Fate."
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -256,7 +254,7 @@ She recalls the days of typing while looking out over the river, boats, and palm
 
 > Rust fills the air, and an exiled bird has found a branch to rest upon.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Octavia:** Fate … yes. It looms over us, yet each of us may hold the power to steer its course.
 
 **Octavia:** Just like this nation of contradictions. Its fate should also be …
@@ -358,7 +356,7 @@ A rare opportunity.
 **The Idealist:** Ask away.
 
 **Dores:** Could you tell me about "Aleph"?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -368,7 +366,7 @@ A rare opportunity.
 
 > Fate is like a mirror; its strongest reflections are shaped by time.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Dores:** Up to this point, I have participated firsthand in several sessions of La Sociedad de Poetas de las Américas.
 
 **Dores:** Those literary experiments treated language as an advanced game, weaving reality and fiction into an invisible web, ensnaring everyone present in a maze of words.
@@ -494,7 +492,7 @@ Her sigh echoes through the circular building, and it is soon answered by a chor
 **Dores:** What would that force be for me?
 
 **Dores:** Looking back, I too began to reflect on myself—to contemplate "fate," that grand and irreversible force.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -504,7 +502,7 @@ Her sigh echoes through the circular building, and it is soon answered by a chor
 
 > The boundary shatters, and an astrologer glimpses an unspeakable truth.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Dores:** After that, I attended several more literary salons and wrote things I had never dared write before. Ms. Octavia, however, never made an appearance.
 
 **Dores:** I didn't see her for quite some time. That was until I followed some prisoners to a large hall and heard her voice among a group of unfamiliar inmates.
@@ -676,7 +674,7 @@ Though she is well used to death, the pain of Julio's passing still lingers in h
 As Octavia retreats, slowly fading into the distance, she quietly adds—
 
 **Dores:** ... and in your journey finding answers about "fate," too.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---

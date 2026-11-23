@@ -7,8 +7,6 @@
 - Story units：`9`
 - Trail：`0`
 
-[UTTU](https://uttu.merui.net/story/other/ulrich/en/?part=1)
-
 Beating signals, resonating thoughts.
 
 ## Contents
@@ -28,7 +26,7 @@ Beating signals, resonating thoughts.
 <a id="episode-90000300"></a>
 ## 90000300 · "Humanitarian" Management
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Ward, Rehab Center
 
 The alarm indicators on various monitoring devices flash steadily.
@@ -224,7 +222,7 @@ Satisfied with her successful persuasion, Lucy continues.
 **Lucy:** In fact, the actual number may be greater, as early spreadsheets only allowed for a three-digit maximum.
 
 **Lucy:** Until then, I will leave it to you to decide when you return. Enjoy your vacation, Ulrich.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -232,7 +230,7 @@ Satisfied with her successful persuasion, Lucy continues.
 <a id="episode-90000301"></a>
 ## 90000301 · A New Friend
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Thanks to jet engines and Bernoulli's principle, the distant journey doesn't take long to cover.
 
 Corridor, Branch Care Center
@@ -388,7 +386,7 @@ Before Ulrich can sink too deeply into self-pity, the receptionist reappears.
 **Branch Receptionist:** The welcome party's about to begin!
 
 **Ulrich:** Welcome party?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -396,7 +394,7 @@ Before Ulrich can sink too deeply into self-pity, the receptionist reappears.
 <a id="episode-90000302"></a>
 ## 90000302 · A Welcome Party
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Ulrich is ushered into a laboratory packed with computers.
 
 The thick smell of alcohol and an explosion of cheers fill the air.
@@ -610,7 +608,7 @@ Her gaze shifts past Ulrich's shoulder to the building behind him.
 **Windsong:** So, are you going back, or are you going to stay out here in the cold?
 
 **Ulrich:** Go on ahead. I'd prefer to stay here until all this nonsense is finished.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -618,7 +616,7 @@ Her gaze shifts past Ulrich's shoulder to the building behind him.
 <a id="episode-90000303"></a>
 ## 90000303 · Unwanted Noise
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Under the Stars
 
 Nightfall comes early.
@@ -782,7 +780,7 @@ Ulrich says nothing, turns around, and locks himself in his room.
 **Dmitry:** Leave him to his tantrums. Let's go.
 
 **Dmitry:** He'll never be one of us.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -790,7 +788,7 @@ Ulrich says nothing, turns around, and locks himself in his room.
 <a id="episode-90000304"></a>
 ## 90000304 · No More Idleness
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Office, Branch Care Center
 
 Months pass. Or, is it years?
@@ -956,7 +954,7 @@ The ferrofluid shoots upright, forming an exclamation mark.
 **Ulrich:** It's the "Storm." It's directly affecting it!
 
 **Ulrich:** Our holiday is over.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -964,7 +962,7 @@ The ferrofluid shoots upright, forming an exclamation mark.
 <a id="episode-90000305"></a>
 ## 90000305 · "Humanitarian" Approach
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Cryptography Room, Laplace
 
 It's an ordinary workday like any other.
@@ -1228,7 +1226,7 @@ Ulrich feels as though a rock has smashed through his tank.
 He instinctively pats the glass, checking that it's still intact.
 
 **Ulrich:** What exactly have you agreed to?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1236,7 +1234,7 @@ He instinctively pats the glass, checking that it's still intact.
 <a id="episode-90000306"></a>
 ## 90000306 · A Not-so-happy Birthday
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Adler's Office
 
 The door creaks open, stirring up a small cloud of dust. Luckily, this visitor has no need to breathe.
@@ -1406,7 +1404,7 @@ No one wants to blow out unlit birthday candles.
 **Research Assistant:** This ... but ...
 
 **Ulrich:** We've done all that we can. Let's go, Dora.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1414,7 +1412,7 @@ No one wants to blow out unlit birthday candles.
 <a id="episode-90000307"></a>
 ## 90000307 · Ergodicity
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Cryptography Room, Laplace
 
 Among the tedium of their daily work, the not-so-happy birthday party is gradually forgotten.
@@ -1516,7 +1514,7 @@ Clearly, today isn't an ordinary day. The alarms blare alongside the whining of 
 **Lucy:** We are in an emergency situation. Foundation investigator Marcus has sent back information from Vienna about the leader of Manus Vindictae's immunity to the "Storm."
 
 **Lucy:** The entire cryptography team is to focus on decoding the incantation. Effective immediately.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1524,7 +1522,7 @@ Clearly, today isn't an ordinary day. The alarms blare alongside the whining of 
 <a id="episode-90000308"></a>
 ## 90000308 · "Nebular Hypothesis"
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Office Square, Foundation
 
 **Foundation Staff Member I:** Look at this. He's still here!
@@ -1754,7 +1752,7 @@ Even these two rational scholars can't help but marvel at the surreal brilliance
 **Ulrich:** Something naturally immune to the "Storm," with no need for any input or modifications.
 
 **Ulrich:** Something that would undoubtedly help us decipher the "Storm" itself!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---

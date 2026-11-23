@@ -7,8 +7,6 @@
 - Story units：`22`
 - Trail：`16`
 
-[UTTU](https://uttu.merui.net/story/event/3_8/en/?part=1)
-
 Golden specks of dust drift in ribbons of light,
 Listening through cracks to the days left behind,
 To find the unspoken words neither remembered nor forgotten.
@@ -45,7 +43,7 @@ To find the unspoken words neither remembered nor forgotten.
 
 > From melancholy it came, and to melancholy it returns.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 \*ring\*
 
 **Hannah:** H-Hello?
@@ -343,7 +341,7 @@ He gives Grundriss an encouraging pat on the shoulder.
 **Irinei:** Stick to the job. No getting involved in unnecessary trouble.
 
 **Irinei:** You've always had a good head on your shoulders. I trust you'll follow it for this task, too.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -683,7 +681,7 @@ Kenna: Sending a boat out toward the Point Irreversible is the first step to mak
 
 > To remember where you come from is part of where you're going.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Grundriss:** The plan was to meet Cornerstone at this station so you could give us both the route to the building.
 
 **Grundriss:** But, of course, someone didn't show. Shall we go ahead without her?
@@ -957,7 +955,7 @@ Her silhouette somehow manages to both mirror and contrast with that of the drun
 **Cornerstone:** Good, enough heavy talk. Let's get moving, partner.
 
 **Cornerstone:** If you're interested, I can tell you a few childhood stories on the way.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -967,7 +965,7 @@ Her silhouette somehow manages to both mirror and contrast with that of the drun
 
 > If you step into silence, you'll hear it.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The two keep a bit of distance as they walk, one staying behind the other.
 
 **Grundriss:** I think the building is just up ahead.
@@ -1235,7 +1233,7 @@ She stows her gun and gives Cornerstone a reserved nod.
 **Bkornblume:** Ms. Cornerstone, it's a pleasure finally meeting you in person. I'm Bkornblume, your point of contact in Nowa Miedź.
 
 **Bkornblume:** I know you must have many questions, but please, come with me first.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · Start from Philosophy
 
@@ -1288,7 +1286,7 @@ She stows her gun and gives Cornerstone a reserved nod.
 
 > Poetically man dwells.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 They circle behind the stage and come to the other end of the building—silent, save for the echoes of their footsteps.
 
 **Grundriss:** Hm? The signal's been restored.
@@ -1550,7 +1548,7 @@ Cornerstone has moved it away to reveal a nest of Critters, who are now glaring 
 COMBAT:
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1560,7 +1558,7 @@ COMBAT:
 
 > You listen to those that dwell inside you, tuning yourself to their sounds as they ring out over and over again.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Critters:** —!!
 
 The Critters shriek and scurry away.
@@ -1810,7 +1808,7 @@ Honza hears chattering voices, which can only mean trouble is coming.
 The two unusual residents make themselves scarce.
 
 An icy silence hangs in the air.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -2116,7 +2114,7 @@ An icy silence hangs in the air.
 
 > "Do you consider yourself a postmodernist?" "As long as saying 'yes' will get people talking about architecture."
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Bkornblume rendezvouses with her companions, and together, they walk through the dilapidated building.
 
 **Bkornblume:** I've been here for almost a week now, but I've never once met this Olga.
@@ -2480,7 +2478,7 @@ Right as the world goes dark, she hears a response.
 **Amiable Old Lady:** I'm just a stand-in bartender. Sometimes, people call me "boss."
 
 **Olga:** But, if you like, yes, you can call me Olga.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · Read Something Fresh
 
@@ -2505,7 +2503,7 @@ Crossing most of that vast building—the long corridors, the broad staircases, 
 
 > Study nature. Love nature. Draw close to nature.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 19. April 1996.
 
 Cloudy.
@@ -2931,7 +2929,7 @@ Her brow furrows in confusion.
 **Everecho:** But ...
 
 **Everecho:** It's nothing like the one we had before.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -3314,7 +3312,7 @@ Her brow furrows in confusion.
 
 > Everything you've given me is light. Light, and nothing else.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 23. April 1996.
 
 Sunny.
@@ -3640,7 +3638,7 @@ Then, like a net, the shadow envelops the sleeping figure.
 **???:** ...
 
 **???:** Heh heh. Find it. Found it.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -4031,7 +4029,7 @@ The Stone Remembers a New Voice
 
 > I am the space I occupy.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **???:** How are things going in Nowa Miedź?
 
 **Bkornblume:** Less than ideal. They're really feeling the lack of experienced workers on site.
@@ -4181,7 +4179,7 @@ Her fingers apply the tiniest bit of pressure, just enough to feel coercive.
 COMBAT:
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -4342,7 +4340,7 @@ Her fingers apply the tiniest bit of pressure, just enough to feel coercive.
 
 > How do people leave? Why do they leave? And where do they go?
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Honza:** Heh-heh, nah-nah, you can't catch us!
 
 Everecho floats unhindered through the obstacles in her path, as if taunting Cornerstone's limited body.
@@ -4532,7 +4530,7 @@ She hands the saliva-covered weapon to Cornerstone.
 **Cornerstone:** ...
 
 **Cornerstone:** Actually, you can keep it. I've got a new one.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -4542,7 +4540,7 @@ She hands the saliva-covered weapon to Cornerstone.
 
 > Welcome, dear friends, to the new house. I've got hot tea waiting—raspberry.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 8. May 1996.
 
 Sunny.
@@ -4798,7 +4796,7 @@ Then she looks up into the warm glow above.
 **Everecho:** Ah, the flowing light ...
 
 **Everecho:** It's back.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · Childhood Fragment
 
@@ -4827,7 +4825,7 @@ We took the tram to see the new steel foundry. Emil and Andrzej wanted to see th
 
 > She came from silence, and to silence she longs to return.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 When the wind began to stir
 
 In the beginning, the world was silent.
@@ -4967,7 +4965,7 @@ She leans over and takes the pencil from Cornerstone's hand.
 Everecho looks up from the sketchbook, and her earnest eyes meet Cornerstone's.
 
 **Everecho:** There used to be so many daisies here.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -4977,7 +4975,7 @@ Everecho looks up from the sketchbook, and her earnest eyes meet Cornerstone's.
 
 > Shadowless, lightless, shadowless, lightless ...
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 3. June 1996.
 
 Cloudy.
@@ -5305,7 +5303,7 @@ Her words come out rushed, but her tone radiates confidence.
 A pause.
 
 **Simone:** All efforts to repair the dome should be terminated immediately.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -5510,7 +5508,7 @@ A pause.
 
 > To exist, only to exist.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Irinei:** "Under the joint command of the Foundation and Zeno, I led troops to hunt down Manus Vindictae across Central Asia following the Temporal Anomaly."
 
 **Irinei:** "With our intelligence network rendered deaf and blind by the enemy, we have had to rely solely on scattered scout reports. Over the past week, my troops have been ambushed three times."
@@ -5776,7 +5774,7 @@ But her quiet doubts don't reach Cornerstone. She continues summing up her thoug
 **Cornerstone:** The Foundation hasn't decided where they'll send us next.
 
 **Cornerstone:** So I still have the freedom to use my pencil as I please, don't I? Even if only for a day or an hour.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -5786,7 +5784,7 @@ But her quiet doubts don't reach Cornerstone. She continues summing up her thoug
 
 > A house is but a small city. A city is but a great house.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 9. June 1996.
 
 Partly Cloudy.
@@ -6152,7 +6150,7 @@ He extends his arm, and the last speckles of sunlight pass through his pale hand
 The warmth lasts only a moment, but it's enough to make him linger.
 
 **Lucjan:** Like you're finally under the sun again.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -6550,7 +6548,7 @@ At the end of the story, the old man said, "It's important to respect the materi
 
 > "What is it that you want to be, brick?" "I want to be an arch."
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Cornerstone:** When we first arrived, we talked about the building's geometry. Do you recall what I said then?
 
 **Grundriss:** It's a little hazy. Did you remember to re-bandage your hand today?
@@ -6922,7 +6920,7 @@ She lowers her gaze and opens her hand.
 The light flowing within dissipates and fades, leaving only a dim, semi-translucent silhouette.
 
 **Everecho:** He returned to the sea of light, the Sanctuary of Memories.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · New Life
 
@@ -6994,7 +6992,7 @@ The architect stepped forward and cleared her throat. The words caught there lik
 
 > In this stillest of silences, this alone remains.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 25. June 1996.
 
 Partly Cloudy.
@@ -7246,7 +7244,7 @@ Everecho's lips curve upward at the confirmation.
 **Everecho:** I see it now, Stasia.
 
 **Everecho:** Thank you.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -7485,7 +7483,7 @@ Everecho's lips curve upward at the confirmation.
 
 > The path I tread has never been clear.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 A knock at the door pulls Constantine from her latest pile of work.
 
 **Constantine:** Come in. Ah, Ms. Kenna, it's been a while.
@@ -7717,7 +7715,7 @@ Her eyes go wide.
 Perhaps their efforts haven't been for naught after all.
 
 **Bkornblume:** I'll be there right away.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -7960,7 +7958,7 @@ Perhaps their efforts haven't been for naught after all.
 
 > But I remember such beautiful sights—I want to see the outside again!
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 1. July 1996.
 
 Partly Cloudy.
@@ -8244,7 +8242,7 @@ Constantine waves a hand at the comment. Her gaze is entirely focused on the smi
 **Constantine:** I look at this project as a kind of seed.
 
 **Constantine:** You'll never know what it might grow into until you've put it in the ground. Isn't that so?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · Our Voices
 
@@ -8293,7 +8291,7 @@ Bkornblume: I know what you're going to ask. It's fine, I need to head back anyw
 
 > Be joyful, friends. Our journey ends here.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 15. July 1996.
 
 The construction team has been formed and trained. Key materials, including molds, rebars,
@@ -8675,7 +8673,7 @@ Every face turns to the woman seated at the end of the conference table, who has
 **Constantine:** Issue our highest-level alert immediately. Recall all field investigators at once.
 
 **Constantine:** We must preserve every possible resource.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -9022,7 +9020,7 @@ Name: Clappy Jelly Features: ① Monitors the local environment's energy levels 
 
 > Between silence and light, between beginning and end, shadows always linger.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **TV Presenter:** Breaking News: As of 4 AM this morning, Karolinska University Hospital has admitted a total of 37 patients showing symptoms of this inexplicable "wired vein" disease.
 
 **TV Presenter:** Medical facilities across the municipality are reporting overwhelmed emergency departments and surgical units.
@@ -9274,7 +9272,7 @@ She opens her eyes and smiles.
 **Cornerstone:** No wonder you always felt like an old friend.
 
 **Cornerstone:** It's as if we've known each other for a long, long time.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -9284,7 +9282,7 @@ She opens her eyes and smiles.
 
 > Sleep now, my child. The sun has already risen—
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Classroom
 
 **Cornerstone:** What you're looking at is the design sketch for our Nowa Miedź office.
@@ -9580,7 +9578,7 @@ As surely as light casts a shadow.
 ♫ You knew it true, it's me, my dear ♫
 
 ♫ You knew it true, it's me, my dear ♫
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>

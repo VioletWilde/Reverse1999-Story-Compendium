@@ -7,8 +7,6 @@
 - Story units：`17`
 - Trail：`7`
 
-[UTTU](https://uttu.merui.net/story/event/1_3/en/?part=1)
-
 The sound of bells and the smell of mangoes.
 An old train brings back stories from the subcontinent.
 As the festival approaches,
@@ -41,7 +39,7 @@ The stargazers and the wanderers converge.
 
 > A dream made of shards of reality, its edges are jagged and treacherous.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **???:** Hypotheses have been made regarding the quasars as follows ...
 
 The hall was packed with audience members.
@@ -181,7 +179,7 @@ But that person's face was indistinguishable, as if hidden in a thick black fog.
 **Kaalaa Baunaa:** KUMAR!
 
 **Kaalaa Baunaa:** ...!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -191,7 +189,7 @@ But that person's face was indistinguishable, as if hidden in a thick black fog.
 
 > To the left, to the right, an arc and a fleeting gaze.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Matilda:** Excuse me.
 
 **Matilda:** Let me get through!
@@ -541,7 +539,7 @@ Kanjira waves her hands as if she has made a big decision.
 Kanjira puts on a mysterious smile on her stained face.
 
 **Kanjira:** And I promise you, quick like flash!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -872,7 +870,7 @@ Kanjira puts on a mysterious smile on her stained face.
 
 > A small squad, revving engines, and a gloomy cave make for a story that never goes out of fashion.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Kanjira:** Woo-hoo! Alright, sit tight!
 
 **Kanjira:** Let's GO!!
@@ -1132,7 +1130,7 @@ Phew... Looks like this power won't last too long. No matter... At least it'll s
 Long press to view its effects
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1142,7 +1140,7 @@ Long press to view its effects
 
 > Look, Fate is woven from the threads of coincidence.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Matilda:** Aah, ouch, it hurts!
 
 **Matilda:** How ... how come there are so many of them!
@@ -1434,7 +1432,7 @@ Her gaze slides down the page and fixes on a word with a question mark next to i
 **Matilda:** Ah! Manus Vindictae?
 
 **Matilda:** What?!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1444,7 +1442,7 @@ Her gaze slides down the page and fixes on a word with a question mark next to i
 
 > Every person has a beginning and an end.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Kanjira:** Burp. What a good meal.
 
 **Kanjira:** Hmm? Still nothing happened after so long? She won't really be eaten by some monster, right?
@@ -1740,7 +1738,7 @@ As the silence goes on, Matilda notices the wallet in Sherjah's hand.
 **Matilda:** Hey!
 
 **Matilda:** That in your hand ... Is that my wallet?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · Noises from the Stone Cellar
 
@@ -1763,7 +1761,7 @@ It's a good thing we didn't exacerbate the issue.
 
 > The past has a familiar weight that rests on the shoulders of its heirs.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Old House
 
 Crowded by these many people, the old house seems even shabbier.
@@ -2103,7 +2101,7 @@ Instead of showing the sign as usual, the fog in the orb grows unexpectedly. It 
 Matilda snaps open her eyes.
 
 **Matilda:** The Manus already reached Mor Pankh?!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -2113,7 +2111,7 @@ Matilda snaps open her eyes.
 
 > Ding dong, cling clang. These sounds always come at such inopportune times.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Kanjira:** Hurry up, Ajar! Bring those guys, too! Take the tuk tuk to the train station. Here are a few spots in my caravan!
 
 **Ajar:** Yes, Boss!
@@ -2387,7 +2385,7 @@ As Kanjira looks up, the first thing that comes to her tearful, blurry sight is 
 COMBAT:
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -2397,7 +2395,7 @@ COMBAT:
 
 > The stone falls in, seeking an answer in the water's depths.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Courtyard of the Sharma Old House
 
 **Kanjira:** Ah, ouch. Is your medic skill really okay?
@@ -2655,7 +2653,7 @@ Then he blinks. He scratches his head, feeling a bit powerless.
 **Shamane:** We cannot bear to lose someone who is capable of putting this to an end.
 
 **Kaalaa Baunaa:** I will.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -2665,7 +2663,7 @@ Then he blinks. He scratches his head, feeling a bit powerless.
 
 > A small hand clutches a treasure tightly, so much that none may steal it.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 They gather before the ceramic vat in the yard.
 
 **Shamane:** Are you sure? To use this?
@@ -2867,7 +2865,7 @@ There is only an echo in the empty space. The illusion has gone.
 She looks up at the almost endless stairs.
 
 **Kaalaa Baunaa:** Keep moving.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · The sun rises and the moon veils its face. Life's gentle fingers guide each tender seedling, a hint of a different path free of monotony.
 
@@ -2920,7 +2918,7 @@ His family is a distant memory of the past.
 
 > The lambs know not the purpose of the fence.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Kaalaa Baunaa:** Whuu ... phew ...
 
 First, the child self, then the teenage self, and then the young adult self. Only in the Meditator's Realm can one face so many past selves ...
@@ -3084,7 +3082,7 @@ Kaalaa Baunaa feels her explanation is meaningless and stuck in her throat. She'
 **Kaalaa Baunaa:** ...!
 
 **Kumar:** Goodbye.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -3094,7 +3092,7 @@ Kaalaa Baunaa feels her explanation is meaningless and stuck in her throat. She'
 
 > Let the dust fall from the beard, the road stretches on ahead. She is not afraid to put every possibility to test.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Kanjira:** Hmm. My ankle hurts no more!
 
 Kanjira tries to move the tightly wrapped ankle.
@@ -3290,7 +3288,7 @@ Shamane turns around and rubs his hands, feeling a bit uneasy.
 COMBAT:…
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -3300,7 +3298,7 @@ COMBAT:…
 
 > This determination is pure and wholehearted, free of the shackles of rationality.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Street
 
 **Ms. Sherjah:** \*exhales\*
@@ -3558,7 +3556,7 @@ I'm afraid you'd have to put up with this for now. After all, you were the first
 This will be over soon, because we have an excellent young driver! The trip may be bumpy, but it won't take long!
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -3568,7 +3566,7 @@ This will be over soon, because we have an excellent young driver! The trip may 
 
 > An incantation is not always what opens the door to a cave of treasure.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Inside the Sharma Old House
 
 **Kaalaa Baunaa:** How is everything now?
@@ -3918,7 +3916,7 @@ She suddenly jumps up, as if she were burned by the bonfire.
 **Kaalaa Baunaa:** The Realm can never extract every word I've said. It's theoretically impossible.
 
 **Kaalaa Baunaa:** How ... Where-where did she hear that part?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -3928,7 +3926,7 @@ She suddenly jumps up, as if she were burned by the bonfire.
 
 > The darkness there is oppressive, the light of the stars cannot be seen on the clearest night.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Kaalaa Baunaa:** She was in the same room?
 
 **Kaalaa Baunaa:** How could it be?
@@ -4048,7 +4046,7 @@ COMBAT:
 The statue's attack has left a crack in the floor of the old house.
 
 **Kaalaa Baunaa:** It is empty down there.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -4058,7 +4056,7 @@ The statue's attack has left a crack in the floor of the old house.
 
 > Relax, this... is just an insignificant price to pay.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **???:** ♪
 
 **Radio:** The shower is estimated to fall at 4 a.m. today. By then, the comet will also ...
@@ -4168,7 +4166,7 @@ Kumar stands in the void, like standing in the middle of a grand stage.
 COMBAT:
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -4178,7 +4176,7 @@ COMBAT:
 
 > Yet the glamor of night shines as it always has.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Shamane:** \*pants\*
 
 **Shamane:** I-I'm gonna throw up. It feels strange in here.
@@ -4486,7 +4484,7 @@ I … have lost everything.
 I, I don't understand …
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -4496,7 +4494,7 @@ I, I don't understand …
 
 > At every night before the inevitable breaking of dawn, we have to face an ending of this sort.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Shamane:** It's about to collapse! Got to go now.
 
 **Kaalaa Baunaa:** Kumar! KUMAR!!
@@ -4690,7 +4688,7 @@ Kanjira: Ah! Meteor shower! So many of they as the news mention!Kanjira: Hmm. I 
 **Shamane:** Alright, people, don't be greedy! One wish only!
 
 **Kaalaa Baunaa:** Goodbye, Kumar.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>

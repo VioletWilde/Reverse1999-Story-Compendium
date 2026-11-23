@@ -7,8 +7,6 @@
 - Story units：`8`
 - Trail：`0`
 
-[UTTU](https://uttu.merui.net/story/character/moldir/en/?part=1)
-
 A path, a memory, a conviction,
 left unspoken, buried deep beneath the ice,
 crystallizing into a single snowflake.
@@ -29,7 +27,7 @@ crystallizing into a single snowflake.
 <a id="episode-2891001"></a>
 ## 2891001 · A Mission
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 At the world's end, upon the oldest, most merciless icefield, a blizzard blinds all onlookers.
 
 Former Zeno Sentinel Unit Station
@@ -211,7 +209,7 @@ Moldir blinks incredulously.
 Three penguins. Adélie penguins—natives of Antarctica. And standing in front of them, returning her stare with a cautious look—
 
 **Moldir:** A squirrel?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -219,7 +217,7 @@ Three penguins. Adélie penguins—natives of Antarctica. And standing in front 
 <a id="episode-2891002"></a>
 ## 2891002 · An Encounter
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 In the dead of night, the lieutenant stands inside her tent, weapon in hand, facing off against these bizarre intruders.
 
 She can't afford to lower her guard just because her opponents are a squirrel in an odd outfit and three penguins.
@@ -365,7 +363,7 @@ But her expression changes when she notices the squirrel has stopped walking. Hi
 **Buddy Fairchild:** Oh my stars! Lieutenant, yer face ... why's it leakin' black goo?!
 
 Moldir freezes. Her hand instinctively moves toward her backup sidearm—the one she chambered a round in the moment she stepped onto Antarctic soil.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -373,7 +371,7 @@ Moldir freezes. Her hand instinctively moves toward her backup sidearm—the one
 <a id="episode-2891003"></a>
 ## 2891003 · An Opportunity
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The squirrel flails his paws and waves the penguins behind him into formation.
 
 **Buddy Fairchild:** Get behind me, fellas! You see that there? That mask ... she's growin' a mask!
@@ -511,7 +509,7 @@ The squirrel tilts his head bashfully as the lieutenant speeds up her bandaging 
 **Moldir:** If we're going to work together, I need to determine what our plan of action looks like. You and your friends should feel free to rest here. I'll be back soon.
 
 She's promising more than the rules allow. But she knows she can handle it.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -519,7 +517,7 @@ She's promising more than the rules allow. But she knows she can handle it.
 <a id="episode-2891004"></a>
 ## 2891004 · A Cooperation
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 29 hours after Andrea's team went missing.
 
 29 hours after Andrea's team went missing.
@@ -669,7 +667,7 @@ The squirrel straightens up and circles the table's map on his tiny paws.
 The squirrel thumps his tail on the table, clearly impatient.
 
 **Buddy Fairchild:** We'll get to that later. The important thing's that yer folks're in trouble, and we best get movin' to save 'em.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -677,7 +675,7 @@ The squirrel thumps his tail on the table, clearly impatient.
 <a id="episode-2891005"></a>
 ## 2891005 · A Promise
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Plains, Antarctica
 
 Given the risks ahead, Moldir reorganizes her scouting teams before departure.
@@ -811,7 +809,7 @@ He stares down at the papers in his paw again.
 **Buddy Fairchild:** Hmph! She called me "mister," dangnabbit!
 
 He drops the papers and darts off after her.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -819,7 +817,7 @@ He drops the papers and darts off after her.
 <a id="episode-2891006"></a>
 ## 2891006 · A Betrayal
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 34 hours after Andrea's team went missing.
 
 34 hours after Andrea's team went missing.
@@ -1041,7 +1039,7 @@ Buddy has seen many an apology over the years, most of them good for nothing. Th
 **Buddy Fairchild:** ...
 
 **Buddy Fairchild:** I accept your apology, Lieutenant—but this is the end of our arrangement.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1049,7 +1047,7 @@ Buddy has seen many an apology over the years, most of them good for nothing. Th
 <a id="episode-2891007"></a>
 ## 2891007 · A Friendship
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Squad Outpost
 
 **Sergeant White Gloves:** Lieutenant, I still don't think it's a good idea to just let that squirrel and his crew walk away.
@@ -1217,7 +1215,7 @@ She seems lost in thought. Buddy begins to sense he's been turned down, but befo
 **Buddy Fairchild:** Sergeant Buddy Fairchild?
 
 **Buddy Fairchild:** My momma'd be so proud!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1225,7 +1223,7 @@ She seems lost in thought. Buddy begins to sense he's been turned down, but befo
 <a id="episode-2891008"></a>
 ## 2891008 · A Soldier
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 41 hours, 25 minutes.
 
 41 hours, 25 minutes.
@@ -1397,7 +1395,7 @@ He tips the flask and drips a few crystal-clear drops onto his tail, then gives 
 But the burn of liquor never comes. Instead, cool water soothes his throat.
 
 **Buddy Fairchild:** Huh ... Figures.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---

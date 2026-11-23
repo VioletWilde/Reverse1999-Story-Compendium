@@ -7,8 +7,6 @@
 - Story units：`8`
 - Trail：`0`
 
-[UTTU](https://uttu.merui.net/story/anecdote/erick/en/?part=1)
-
 Inside the Penumbra Can,
 Covered in a layer of dust,
 Are stories buried in the depths of time.
@@ -31,7 +29,7 @@ Are stories buried in the depths of time.
 
 > The island invites no one, with the exception of children.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Do not love half lovers
 
 Do not entertain half friends
@@ -175,7 +173,7 @@ Erick, her hands freed, picks up the letter from the table.
 **Erick:** Jason “the Slob's” workbook is still at my place, and there are two raid allowances I haven’t used this month...
 
 She sulks, cupping her cheeks, elbows on the table, her face puffed up like a blowfish.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -326,7 +324,7 @@ She sulks, cupping her cheeks, elbows on the table, her face puffed up like a bl
 
 > Knowledge always clogs the throat, but fortunately, this story is both delectable and moving.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 One month later
 
 One month later
@@ -712,7 +710,7 @@ Listening intently, Sancho and Eifer gradually lower themselves to the floor unt
 From the fading rays of the twilight sun to the silvery glow of moonlight, night gracefully arrives.
 
 Their eyes glow brightly. They swallow hard, absorbing the tales of greatness, wonder, and the incredible.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1113,7 +1111,7 @@ Their eyes glow brightly. They swallow hard, absorbing the tales of greatness, w
 
 > I want to burrow into every tree hole, sneak through every night—I want to run, I want to scream, I want to jump higher!
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Letter:** “Dear Harald—”
 
 **Letter:** “Grown-ups often say that torches will extinguish, great trees will wither, and even the endless feasts will eventually end in a great mess.”
@@ -1233,7 +1231,7 @@ Their eyes glow brightly. They swallow hard, absorbing the tales of greatness, w
 **Erick:** "Well, I'm off to sleep! This 'Introduction to Alchemy' book is as heavy as a rock and gives me a headache."
 
 **Erick:** "—Missing you, Erick."
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1370,7 +1368,7 @@ Their eyes glow brightly. They swallow hard, absorbing the tales of greatness, w
 
 > It's the sound of bells, the knocking of doors, the rumble of an approaching rain.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 "The children, soaring over sleepy houses and the sparkling sea, finally reach the dreamy island."
 
 "The tide loves them so much it rolls itself into a blanket to welcome them."
@@ -1542,7 +1540,7 @@ Eifer stands up.
 **Erick:** It was me.
 
 Erick stands up, arms dropping to her sides...
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1737,7 +1735,7 @@ Erick stands up, arms dropping to her sides...
 
 > A beautiful dream is better than words of truth.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Instructor:** We accepted you as per the ‘SPDM Listen-in Student Regulations,’ giving you the opportunity to study alongside top scoring students.
 
 Her eyes are as sharp as an eagle's.
@@ -1955,7 +1953,7 @@ She gives a puzzled look at the drops of dark red liquid on her palm.
 …
 
 **Vertin:** Erick!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -2194,7 +2192,7 @@ She gives a puzzled look at the drops of dark red liquid on her palm.
 
 > Slow down, child. I'm not going anywhere.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Laplace Rehabilitation Center
 
 **Mesmer Jr.:** She’s in a deep sleep. Unlike adults, who often relive traumatic memories during this time, children face the danger of never waking up from their dreams at all.
@@ -2554,7 +2552,7 @@ He-he %&... we'll meet again... Erick.
 ...
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -2887,7 +2885,7 @@ The dawn light spills through the gaps in the trees, illuminating her in pattern
 
 > Amid a gloaming so frigid, even one's heart begins to tremble.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Erick:** …
 
 **Sonetto:** Erick?!
@@ -3033,7 +3031,7 @@ He too leaves.
 **Mesmer Jr.:** Take a deep breath.
 
 **Mesmer Jr.:** There will be momentary pain in your wrist, but after 1 minute and 28 seconds, your arm will be completely numb.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -3202,7 +3200,7 @@ He too leaves.
 
 > Listen. A new bird is singing.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 "Pirates flee in terror. Children hold conches filled with honey and milk."
 
 "They fall asleep in groups on the damp deck."
@@ -3446,7 +3444,7 @@ She immediately shakes her head.
 **Erick:** But I want to see it for myself.
 
 She looks out the window, turning her gaze to the stormy sky.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>

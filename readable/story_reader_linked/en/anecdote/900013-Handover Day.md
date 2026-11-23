@@ -7,8 +7,6 @@
 - Story units：`8`
 - Trail：`0`
 
-[UTTU](https://uttu.merui.net/story/anecdote/matilda/en/?part=1)
-
 Inside the Penumbra Can,
 Covered in a layer of dust,
 Are stories buried in the depths of time.
@@ -29,7 +27,7 @@ Are stories buried in the depths of time.
 <a id="episode-90001301"></a>
 ## 90001301 · Unexpected, but Fated
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 8:00Clear
 
 Guest Room, St. Pavlov Foundation
@@ -162,7 +160,7 @@ The director shot Matilda a glare, her expression a mix of shock and fury.
 
 It's an extended learning curriculum launched by the SPDM in the past two years, sending students to explore Foundation branches, Laplace laboratories, and Zeno training grounds. While the options are limited, at least from now on, the students have one more event to look forward to besides the annual Parade Ceremony. It's said that the proposal for this extended learning curriculum went through a multi-year process before it was ultimately approved and executed.
 
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -170,7 +168,7 @@ It's an extended learning curriculum launched by the SPDM in the past two years,
 <a id="episode-90001302"></a>
 ## 90001302 · The Ideal Candidate
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 10:00Clear
 
 SPDM
@@ -303,7 +301,7 @@ Topic: Best Friends Caller: Lea Age: 23 Occupation: University Student
 
 A slight stinging sensation pulsed at the tip of her fingertip, but it was nothing next to the pain stabbing through her head. The blood drawn by the syringe dropped into the cup. After a long wait, however, the fern still remained a vibrant green. "Looks like ... I'm alright. Sorry, I'll head back to class now—" "Lie back down. Your face is as pale as a ghost!" She was gently pushed back into the bed. The person in front of her pulled a fountain pen from the pocket before smearing some ink into the leaf. "The leaf has changed color, indicating that you aren't feeling well. You should rest today." Noticing her stunned expression, the monitor assistant gave her a wink. "Heh, guess you didn't know! This is one of the most advanced testing methods available."
 
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -311,7 +309,7 @@ A slight stinging sensation pulsed at the tip of her fingertip, but it was nothi
 <a id="episode-90001303"></a>
 ## 90001303 · Before the Fall
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 10:15Clear
 
 Behind the School Building
@@ -455,7 +453,7 @@ No matter how Matilda questions them, they just mumble.
 Matilda can't bring herself to finish the sentence, but Lavender delivers the verdict coldly.
 
 **Lavender:** "The guardhouse."
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -463,7 +461,7 @@ Matilda can't bring herself to finish the sentence, but Lavender delivers the ve
 <a id="episode-90001304"></a>
 ## 90001304 · Curiosity Unspoiled
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 10:45Clear
 
 In Front of the School Building
@@ -583,7 +581,7 @@ The girl puffs up her cheeks and looks at Lavender, her fingers tightening aroun
 **Boy:** "Please!"
 
 All eyes fall on Matilda. She has no intention of saying no.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -591,7 +589,7 @@ All eyes fall on Matilda. She has no intention of saying no.
 <a id="episode-90001305"></a>
 ## 90001305 · An Unconventional Answer
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 11:15Clear
 
 Guardhouse
@@ -713,7 +711,7 @@ Unable to hold back the truth, her words draw a startled gasp. Matilda clenches 
 **Matilda:** "It's not easy. It will take the effort of everyone. And it will take yours too, when you're older, I mean."
 
 **Matilda:** "But once the crisis is over, I think, people should be free to do what they truly want."
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -721,7 +719,7 @@ Unable to hold back the truth, her words draw a startled gasp. Matilda clenches 
 <a id="episode-90001306"></a>
 ## 90001306 · The Reflections She Sees
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 11:30Clear
 
 Guardhouse
@@ -829,7 +827,7 @@ The orbuculum in her hands glows once more, lighting the children's faces with t
 **Matilda:** "So there is one thing I'm certain of. When that time comes ..."
 
 **Matilda:** "I know I will truly become the Great Matilda Bouanich!"
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -837,7 +835,7 @@ The orbuculum in her hands glows once more, lighting the children's faces with t
 <a id="episode-90001307"></a>
 ## 90001307 · Seizing the Opportunity
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 11:45Clear
 
 Guardhouse
@@ -1059,7 +1057,7 @@ A sudden wave of inspiration washes over her.
 **Matilda:** "Even if they can't go on the field trip, there is no rule saying they have to stay in the classroom for self-study, is there?"
 
 The director doesn't answer. It seems she guessed right.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1067,7 +1065,7 @@ The director doesn't answer. It seems she guessed right.
 <a id="episode-90001308"></a>
 ## 90001308 · The Undefined Good
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 17:00Clear
 
 Outside the School, SPDM
@@ -1191,7 +1189,7 @@ She doesn't read the rest. Holding the device close, her emotions soar like a ro
 Matilda leaps into her mother's arms, and their day ends with a hearty celebratory dinner.
 
 The next morning, Matilda Bouanich reports to the St. Pavlov Foundation, ready to receive her first mission as a level three investigator.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---

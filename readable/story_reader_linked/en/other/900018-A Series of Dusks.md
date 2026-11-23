@@ -7,8 +7,6 @@
 - Story units：`11`
 - Trail：`0`
 
-[UTTU](https://uttu.merui.net/story/other/asd/en/?part=1)
-
 Semmelweis, with her life hanging in the balance, must find "Lorelei from the Rhine" before it's too late.
 The "Storm" is eating away the world they've known, but there's a familiar song—a familiar song drifts through the chaos.
 Could this be her last hope?
@@ -32,7 +30,7 @@ Could this be her last hope?
 <a id="episode-90001801"></a>
 ## 90001801 · A Nightmare
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Secret Cabin
 
 **Team Member I:** Target not in Building 2!
@@ -316,7 +314,7 @@ Emil hands a few selected articles over to Semmelweis.
 Semmelweis turns to look out the window at the crowded street.
 
 **Semmelweis:** Lorelei ... what on earth is she trying to do?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -324,7 +322,7 @@ Semmelweis turns to look out the window at the crowded street.
 <a id="episode-90001802"></a>
 ## 90001802 · Second-Class Citizen
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The way to the Foundation is choked with demonstrations.
 
 Ring Road
@@ -568,7 +566,7 @@ Semmelweis is silent for a moment.
 **Bella:** You aren't so noble. You're just another person running from death, trying to change your fate.
 
 **Bella:** It's in your nature.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -576,7 +574,7 @@ Semmelweis is silent for a moment.
 <a id="episode-90001803"></a>
 ## 90001803 · Professional Ethics
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Kakania's Clinic
 
 **Semmelweis:** ...
@@ -756,7 +754,7 @@ Semmelweis steadies her still trembling hand as she reaches for the feather.
 Semmelweis puts the feather in her pocket and nods to Kakania.
 
 **Kakania:** Good luck, Miss Semmelweis!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -764,7 +762,7 @@ Semmelweis puts the feather in her pocket and nods to Kakania.
 <a id="episode-90001804"></a>
 ## 90001804 · Saluting Aachen, Part 1
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Vendor:** So you're looking to find Miss Valentina?
 
 **Semmelweis:** That's right.
@@ -1064,7 +1062,7 @@ Nothing happens.
 **Valentina:** But perhaps I should have given you more instruction.
 
 **Semmelweis:** Instruction ...?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1072,7 +1070,7 @@ Nothing happens.
 <a id="episode-90001805"></a>
 ## 90001805 · Saluting Aachen, Part 2
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Valentina:** These clothes fit you much better than that old Foundation uniform.
 
 **Semmelweis:** ...
@@ -1320,7 +1318,7 @@ Almost simultaneously, the Foundation communication device she is carrying start
 **Communicator:** The "Storm" will arrive in 24 hours.
 
 **Communicator:** All personnel must make their way to the nearest station and return to headquarters immediately.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1328,7 +1326,7 @@ Almost simultaneously, the Foundation communication device she is carrying start
 <a id="episode-90001806"></a>
 ## 90001806 · Fate in the Mirror
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Vienna Before the "Storm"
 
 Hysterical shouts pierce above the din of the mad crowd in the streets, punctuated by shattering glass, the sporadic hammering sound of gunfire.
@@ -1422,7 +1420,7 @@ Bella appears at Semmelweis' side, she seems so much more real than ever before.
 **Bella:** ...
 
 **Bella:** It seems you've made up your mind.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1430,7 +1428,7 @@ Bella appears at Semmelweis' side, she seems so much more real than ever before.
 <a id="episode-90001807"></a>
 ## 90001807 · Waves and Notes
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The Storm Syndrome spreads in a slow roll through the city. As people and buildings alike are transformed into a strange and colorful new image.
 
 **Soldier:** What do we do? There are too many people, I can't tell who the rioters are!
@@ -1938,7 +1936,7 @@ Lorelei speaks as if blissfully unaware of her impending death.
 **Bella:** I see. Then no one can change your mind. You're always like this.
 
 **Semmelweis:** We're always like this.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1946,7 +1944,7 @@ Lorelei speaks as if blissfully unaware of her impending death.
 <a id="episode-90001808"></a>
 ## 90001808 · Ending I: Wish Granted
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The "Storm" Is Coming
 
 **Semmelweis:** Here we are, Lorelei.
@@ -2066,7 +2064,7 @@ With the flash of an array, several personnel in Foundation uniforms appear befo
 **Semmelweis:** Come see for yourself. What better way to test the results of my transformation than through battle?
 
 **Lorelei:** I'll help you, little musical note.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -2074,7 +2072,7 @@ With the flash of an array, several personnel in Foundation uniforms appear befo
 <a id="episode-90001809"></a>
 ## 90001809 · Ending II: Melody of Dusk
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Razor:** Phew ... Ugh ...
 
 **Razor:** I'm surprised. I didn't expect an Infected with such newly acquired arcane skills to last so long against us.
@@ -2210,7 +2208,7 @@ Lorelei is humming and dancing a cheery dance, as if she's on her way to a pleas
 As she watches Lorelei leave, Semmelweis strokes the conch around her neck.
 
 **Semmelweis:** Madam Lindsay, "Razor," I surrender.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -2218,7 +2216,7 @@ As she watches Lorelei leave, Semmelweis strokes the conch around her neck.
 <a id="episode-90001810"></a>
 ## 90001810 · Ending III: The Mirrored Embrace
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The "Storm" Is Coming
 
 **Semmelweis:** Here we are, Lorelei.
@@ -2448,7 +2446,7 @@ Lorelei turns and smiles at her.
 **Semmelweis:** A wise decision, "Razor." I accept your proposal. I don't want to see our colleagues die under this monster's cannon fire either.
 
 **Lorelei:** Alright, alright. Let me help you!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -2456,7 +2454,7 @@ Lorelei turns and smiles at her.
 <a id="episode-90001811"></a>
 ## 90001811 · Ending IV: The Ultimate Joy
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Razor:** Phew ... Ugh ...
 
 **Razor:** Nicely done, Semmelweis.
@@ -2606,7 +2604,7 @@ A familiar voice echoes from the communication device.
 **Semmelweis:** ...
 
 **Semmelweis:** Thank you.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---

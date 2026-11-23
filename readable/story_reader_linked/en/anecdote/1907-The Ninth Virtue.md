@@ -7,8 +7,6 @@
 - Story units：`7`
 - Trail：`0`
 
-[UTTU](https://uttu.merui.net/story/anecdote/a_knight/en/?part=1)
-
 Inside the Penumbra Can,
 Covered in a layer of dust,
 Are stories buried in the depths of time.
@@ -30,7 +28,7 @@ Are stories buried in the depths of time.
 
 > There was one such knight.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Paimpont Forest
 
 The drizzle, which had fallen for several days without end, stopped just before dark.
@@ -196,7 +194,7 @@ An arrow has pierced through the young knight's throat. The light fades from his
 **Ganelon:** We're under attack!
 
 **Roland:** Knights, to your swords! Avenge our comrade!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -387,7 +385,7 @@ An arrow has pierced through the young knight's throat. The light fades from his
 
 > Aging circuitry? A faulty connection? Or perhaps ...
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Somewhere in the Suitcase
 
 In the hall, a slender plant stands, with green flower buds clinging to its stalk.
@@ -495,7 +493,7 @@ The orange light in the vision pulses slowly, like twilight in a memory.
 The pair look at each other.
 
 **Oliver Fog :** … Ms. An-an, do you know what era it is outside right now?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -626,7 +624,7 @@ The pair look at each other.
 
 > Indeed, he's never missed an opportunity for a quip.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Roland wrings out the water that is pooling on the hem of his clothes.
 
 **Roland:** Rain again …
@@ -998,7 +996,7 @@ The two of them barge through the door and tumble into the sunlit room.
 The knight's gauntlets spread and lower on both sides, approximating a theatrical bow.
 
 **A Knight:** Someone is pleased that you happened by.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1393,7 +1391,7 @@ The knight's gauntlets spread and lower on both sides, approximating a theatrica
 
 > They're not useless—they're an important part of the festive atmosphere.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **A Knight:** Since you're here, please take a seat. Someone could use a more ... enthusiastic audience for this tale.
 
 Just as Ms. Sotheby's room is filled with collector's edition Typhon dolls, and Ms. Eternity's TV plays "The Night Show" all night ...
@@ -1485,7 +1483,7 @@ Sunlight scatters against the floor as a breeze blows through the treetops.
 **A Knight:** In fact, Sir Roland was involved in the battle as well. Someone recalls it vividly. A dramatic tale, which Ms. Charlie herself suggested, may make a fine piece of theater.
 
 **A Knight:** If you would, Someone would very much like to perform it with you.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1600,7 +1598,7 @@ Sunlight scatters against the floor as a breeze blows through the treetops.
 
 > My fair blade lies tied at my waist.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **A Knight:** Lady Oder is a brave and wise woman … Someone thought it would be an ideal role for Ms. An-an.
 
 **A Knight:** The other character of this play is the brave knight called Roland.
@@ -1762,7 +1760,7 @@ A Knight looks around the room.
 **"Narrator":** A day that Someone returns to often in memory.
 
 **APPLe:** Aye-aye.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1947,7 +1945,7 @@ A Knight looks around the room.
 
 > Chase, chase, chase away, until the road's end is also left behind.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **"Roland":** "Hahaha, evil giant, tremble in fear, for today you shall meet Sir Roland in the field."
 
 **"Roland":** "Now your devil's luck has run thin!"
@@ -2069,7 +2067,7 @@ A Knight's little audience are clearly unhappy with this ending. A Knight seems 
 **Oliver Fog :** Even if I disagree with the institution of landed nobility on principle, I see no reason why she couldn't be knighted before she goes off on her travels.
 
 **An-an Lee:** And if nothing else, why was she never given a reward for killing that giant?! That's not fair!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -2214,7 +2212,7 @@ A Knight's little audience are clearly unhappy with this ending. A Knight seems 
 
 > An enduring joke from the 8th century.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The old story has ended, and a new one is about to begin.
 
 The undying flames of the candles cast warm yellow halos on the faces of the audience.
@@ -2474,7 +2472,7 @@ The young man's injuries are severe. His body growing colder and stiffer by the 
 "Humility, honesty, mercy, valor, justice, sacrifice, honor, soul."
 
 "And, of course, a bit of humor."
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>

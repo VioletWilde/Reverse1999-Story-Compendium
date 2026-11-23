@@ -7,8 +7,6 @@
 - Story units：`7`
 - Trail：`0`
 
-[UTTU](https://uttu.merui.net/story/anecdote/tennant/en/?part=1)
-
 Inside the Penumbra Can,
 Covered in a layer of dust,
 Are stories buried in the depths of time.
@@ -30,7 +28,7 @@ Are stories buried in the depths of time.
 
 > Stay sober. Stay focused.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Diamonds.
 
 It was in the 13th century when European merchants first re-encountered this fabled gem of kings.
@@ -188,7 +186,7 @@ Tennant slides one toward Adelita.
 Adelita lifts the glass but only breathes in its fragrance.
 
 **Adelita:** "Bloody Sunset"?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -369,7 +367,7 @@ Adelita lifts the glass but only breathes in its fragrance.
 
 > Practice the art of listening by allowing others to express their opinions before you make yours known.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Midnight Club
 
 **Tennant:** ... You can only taste this in Paris. Its name will never appear on any menu.
@@ -551,7 +549,7 @@ Tennant sets the diamond on the velvet, and Adelita snaps the lid shut.
 The clock strikes ten.
 
 **Tennant:** Come, Mr. Longen. Let's ask the manager for a safe.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -754,7 +752,7 @@ The clock strikes ten.
 
 > Don't flaunt your importance; let it speak for itself.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 VIP Room, Midnight Club
 
 **Drelome:** Fleming, where did you manage to find forty thousand francs overnight?
@@ -968,7 +966,7 @@ He tosses a diamond to Tennant.
 **Fleming:** Sit with me, Brette. I owe a loyal friend my thanks.
 
 **Fleming:** Didn't you say you were curious about my "typewriters"?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -978,7 +976,7 @@ He tosses a diamond to Tennant.
 
 > It is best to offer suggestions rather than commands. Always ensure that the other person is allowed to speak for themselves.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Inside the Car
 
 **Fleming:** I should've trusted you sooner, Brette. You really saved my bacon back there.
@@ -1110,7 +1108,7 @@ He breathes hard, squinting.
 Tennant takes a long moment to form her answer.
 
 **Tennant:** Ten million francs.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1263,7 +1261,7 @@ He breathes hard, squinting.
 
 > Never press others about personal matters. They always reveal themselves with time.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Pawnshop
 
 **Drelome:** Didn't expect to see you again so soon, Fleming.
@@ -1377,7 +1375,7 @@ Tennant watches as Fleming turns and disappears into the alley.
 **???:** Oh, so you think Brette's about to be exposed. How will she handle it?
 
 **Tennant:** With sincerity—always, sincerity is her greatest strength.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1512,7 +1510,7 @@ Tennant watches as Fleming turns and disappears into the alley.
 
 > Focus on subjects that build longing; leave greed to take hold on its own.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Inside the Car
 
 **Fleming:** "Since the 19th century, scholars have theorized diamonds could be made through industrial means."
@@ -1690,7 +1688,7 @@ His fist tightens around the synthetic diamond.
 **Fleming:** Absolutely. I'll get started on the plans.
 
 **Fleming:** You and me, Tennant! We're gonna turn the diamond market of Europe—no, the whole world—upside down!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1889,7 +1887,7 @@ His fist tightens around the synthetic diamond.
 
 > Always keep things nice and tidy.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Tennant:** What a beautiful view.
 
 **Tennant:** I'll miss the fields and villages outside Paris, but a journey like this comes with its own thrills.
@@ -1953,7 +1951,7 @@ Their laughter is carried on the wind down the French country road.
 **Tennant:** If you'll join me, we can lay low together for a while.
 
 **Tennant:** I know someone with a very special suitcase ...
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---

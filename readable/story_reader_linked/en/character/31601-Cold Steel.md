@@ -7,8 +7,6 @@
 - Story units：`9`
 - Trail：`0`
 
-[UTTU](https://uttu.merui.net/story/character/corvus/en/?part=1)
-
 Amidst the flying sparks,
 The once fragmented crimson,
 Piece by piece,
@@ -31,7 +29,7 @@ Stitched back together again.
 <a id="episode-3160101"></a>
 ## 3160101 · A Leaf on Blood-Stained Water
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Rundown Room
 
 **???:** How long will I stay this time?
@@ -311,7 +309,7 @@ Shepherd lurks at a distance, both eager and fearful, eyeing the new "doctor" in
 **Nusha:** We're going to make a little home of our own here.
 
 **Corvus:** To a little girl who grew up displaced, who never knew care from anyone else, that promise almost felt real.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -319,7 +317,7 @@ Shepherd lurks at a distance, both eager and fearful, eyeing the new "doctor" in
 <a id="episode-3160102"></a>
 ## 3160102 · The Sutures
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 It is a home, though it's neither warm nor safe.
 
 And after every skirmish, Iglika's room would end up looking worse than a battlefield.
@@ -595,7 +593,7 @@ Iglika half-jumps as she sniffs her clothes, but Nusha stops her and soon after 
 **Iglika:** They throw themselves into danger and death chasing after a dream.
 
 **Iglika:** A foolish excuse to pat themselves on the back.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -603,7 +601,7 @@ Iglika half-jumps as she sniffs her clothes, but Nusha stops her and soon after 
 <a id="episode-3160103"></a>
 ## 3160103 · Christmas Eve
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Snowy Woodland
 
 Winter blows cold and quickly, the evening snow binding this poor town to the endless distant east.
@@ -867,7 +865,7 @@ Iglika stares blankly toward the firelight. Through a blur of tears, she sees a 
 Nusha brushes her swollen cheek.
 
 **Nusha:** ... You'd know these hands of yours weren't made for killing.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -875,7 +873,7 @@ Nusha brushes her swollen cheek.
 <a id="episode-3160104"></a>
 ## 3160104 · Square One
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Iglika:** She was right. By the end of that night we'd lost over half our men, and the enemy was clearly prepared to return.
 
 **Nusha:** We'll fall back to Thermaniky.
@@ -1095,7 +1093,7 @@ From winter to summer, another kind of stitching began to spread across the recr
 Something that brought people together in trust.
 
 **Iglika:** They left far better scars than the other kind.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1103,7 +1101,7 @@ Something that brought people together in trust.
 <a id="episode-3160105"></a>
 ## 3160105 · Return to the Battlefield
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Iglika:** Through long days of training and scattered skirmishes, I began to accept what I had lost and what I would lose.
 
 **Iglika:** In the end I found my memories were like a hard stone. All I could do was wrap them in flesh and blood, leaving time and pressure to smooth their edges.
@@ -1477,7 +1475,7 @@ Iglika bows her head low. Covering her mouth, she forces herself to speak words 
 Iglika's nails dig hard into her cheek.
 
 **Iglika:** Let her rest ...
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1485,7 +1483,7 @@ Iglika's nails dig hard into her cheek.
 <a id="episode-3160106"></a>
 ## 3160106 · Together, We Stand
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Iglika:** For a while after, I still tried to pretend that body couldn't have been hers. It wasn't grief—not really.
 
 **Iglika:** It was because without her it felt like nothing could really change.
@@ -1737,7 +1735,7 @@ He smiles with satisfaction.
 **Iglika:** I never learned the final verdict.
 
 **Iglika:** I was already mired in skirmishes and battle plans; rumors from the city were few and far between.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1745,7 +1743,7 @@ He smiles with satisfaction.
 <a id="episode-3160107"></a>
 ## 3160107 · Thus the Decision Is Made
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Iglika:** I returned to that little border village, and I rebuilt that woodcutter's camp.
 
 **Iglika:** I even lived in that old gatehouse—this time, though, it wouldn't be a makeshift hospital.
@@ -1995,7 +1993,7 @@ He nods, unsure whether in hearing or in agreement.
 **Iglika:** It seemed I was only one step from our dream.
 
 **Iglika:** At least, that's what I believed.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -2003,7 +2001,7 @@ He nods, unsure whether in hearing or in agreement.
 <a id="episode-3160108"></a>
 ## 3160108 · A New Dawn
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Iglika:** But it was still just a dream.
 
 Office
@@ -2185,7 +2183,7 @@ Before he can act, he catches a glimpse through the doorway: a row of attendants
 Corvus steps to the rear window. The horizon glows pale with a new dawn.
 
 **Corvus:** No matter how many times it falls, the sun will rise again.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -2193,13 +2191,13 @@ Corvus steps to the rear window. The horizon glows pale with a new dawn.
 <a id="episode-3160109"></a>
 ## 3160109 · Ultimate Stitch
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 ***
 
 **GAMEPLAY ONLY**
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---

@@ -7,8 +7,6 @@
 - Story units：`9`
 - Trail：`0`
 
-[UTTU](https://uttu.merui.net/story/character/37/en/?part=1)
-
 She is the gold that glitters in the sand.
 
 ## Contents
@@ -28,7 +26,7 @@ She is the gold that glitters in the sand.
 <a id="episode-1140200"></a>
 ## 1140200 · Eternity From Long Ago
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Sophia:** 37, 37!
 
 **Sophia:** Look at the trail I made in the water!
@@ -250,7 +248,7 @@ Under the bright sunlight, the grains of sand of the beach gleamed like gold. As
 **Sophia:** ...
 
 **Sophia:** I couldn't find an answer to that question; all I could do was offer her my help, meager as it was.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -258,7 +256,7 @@ Under the bright sunlight, the grains of sand of the beach gleamed like gold. As
 <a id="episode-1140201"></a>
 ## 1140201 · A Children's Game
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Sophia:** The lab's light bulb needs changing, and we may need more paper for calculations ...
 
 **Sophia:** 37 mentioned last time that we need—
@@ -380,7 +378,7 @@ Her fingers skimmed the pages, capturing fleeting sparks of inspiration as she s
 **Sophia:** I hope this won't take too long ...
 
 **Sophia:** ... should I really let her waste time like this?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -388,7 +386,7 @@ Her fingers skimmed the pages, capturing fleeting sparks of inspiration as she s
 <a id="episode-1140202"></a>
 ## 1140202 · Beach Walking
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Strolling along the familiar path on the beach, everything looked as it did before.
 
 The sand was sand, rocks ...only rocks.
@@ -618,7 +616,7 @@ The red-haired Corrector nodded.
 Of course, not every question needed an answer.
 
 Now they all had their own tasks.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -626,7 +624,7 @@ Now they all had their own tasks.
 <a id="episode-1140203"></a>
 ## 1140203 · Answer in a Bottle
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **37:** How's it going? You’ve followed all the steps in order, right?
 
 **Believer II:** Yes, I've numbered them and made notes.
@@ -764,7 +762,7 @@ It was always so impossible to let go of that hand.
 **37:** Of course! Anyway, 6 is still walking around the island. We have time before he reaches four digits!
 
 **37:** Come on, Sophia, let's tackle the next question—
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -772,7 +770,7 @@ It was always so impossible to let go of that hand.
 <a id="episode-1140204"></a>
 ## 1140204 · Behind the Puzzle
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 ***
 
 **GAMEPLAY**
@@ -864,7 +862,7 @@ What did having such an ability really mean?
 And remember, not every question needs an answer.
 
 We have more important things to do now.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -872,7 +870,7 @@ We have more important things to do now.
 <a id="episode-1140205"></a>
 ## 1140205 · What Was Not Expressed
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Mornings on the beach were meant for quiet strolls and relaxation.
 
 Sophia's plan to arrive early and clear her mind seemed wise,
@@ -1058,7 +1056,7 @@ The Corrector felt the need to intervene.
 **210:** Go on, figure out how much this children's game is worth caring about.
 
 **210:** I'm eager to see the outcome.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1066,7 +1064,7 @@ The Corrector felt the need to intervene.
 <a id="episode-1140206"></a>
 ## 1140206 · Just Numbers
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The sight in front of them seemed much like it always did.
 
 The salty breeze and the grains of sand carried by it.
@@ -1300,7 +1298,7 @@ It would be too difficult to refuse the expectant gazes of her friends.
 **Sophia:** Fine, I'll make the judgement.
 
 **Sophia:** First, let me go over the game properly ...
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1308,7 +1306,7 @@ It would be too difficult to refuse the expectant gazes of her friends.
 <a id="episode-1140207"></a>
 ## 1140207 · Sand and Gold
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Sophia:** This island holds so many quirks ...
 
 **Sophia:** ... and 37 possesses the greatest of them all.
@@ -1500,7 +1498,7 @@ But over time, his name faded into obscurity, leaving behind only a sharp-edged 
 The disputes and differences dissolved in the soft breath of the breeze.
 
 The beach returned to silence; and only the melody lingered.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1508,7 +1506,7 @@ The beach returned to silence; and only the melody lingered.
 <a id="episode-1140208"></a>
 ## 1140208 · Endless Shoreline
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Sophia:** I used to think other people's opinions didn't matter to 37.
 
 **Sophia:** Even in the most heated arguments, she never paid them much attention.
@@ -1780,7 +1778,7 @@ The debate would keep going in the coming days.
 **37:** Thanks, 6!
 
 **37:** And the time it took us to get here is ...
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---

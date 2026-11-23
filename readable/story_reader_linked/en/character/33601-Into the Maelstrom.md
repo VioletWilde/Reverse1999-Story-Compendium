@@ -7,8 +7,6 @@
 - Story units：`8`
 - Trail：`0`
 
-[UTTU](https://uttu.merui.net/story/character/igor/en/?part=1)
-
 "Soldiers, soldiers,"
 The commander orders,
 "Face the golden steppe.
@@ -30,7 +28,7 @@ The commander orders,
 <a id="episode-3360101"></a>
 ## 3360101 · Furrowed by Hooves
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Igor:** Don't look back.
 
 **Igor:** Keep running. Don't look back.
@@ -200,7 +198,7 @@ Igor mounts. He looks over the ready white horse and the soldier holding its rei
 Grigory pulls his cap lower. The brim shadows his eyes.
 
 **Grigory:** Perhaps we are, sir.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -208,7 +206,7 @@ Grigory pulls his cap lower. The brim shadows his eyes.
 <a id="episode-3360102"></a>
 ## 3360102 · Righteous Sacrifices
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Command Post, Al Muntar
 
 1995, Al Muntar. Zeno's 9th Division. Officers sit in a ring in the yard of the temporary command post.
@@ -416,7 +414,7 @@ Their orders have not changed.
 **Igor:** Whatever it takes.
 
 **Officers:** Yes, sir!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -424,7 +422,7 @@ Their orders have not changed.
 <a id="episode-3360103"></a>
 ## 3360103 · Fill the First Cup
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Field, Steppe
 
 Igor takes the reins, his eyes narrowing as he stares up toward the North Star through reddened and weary eyes.
@@ -680,7 +678,7 @@ Andrea picks up his empty cup and steps back into the dark beyond the fire.
 Andrea nods, smiling as he points his finger to his temple like a gun.
 
 **Andrea:** Bang!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -688,7 +686,7 @@ Andrea nods, smiling as he points his finger to his temple like a gun.
 <a id="episode-3360104"></a>
 ## 3360104 · Harder than Armor
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Steppe Farmhouse
 
 **Farmer:** Bang! The bullet came that close to my skull.
@@ -874,7 +872,7 @@ And yet, through it all, he hears that song again, softly rising from hoarse thr
 **Officers:** ♫ With his last breath, the Cossack pleads. Build him a high grave mound where he'll be laid. ♫
 
 **Officers:** ♫ Like the soil of the homeland he used to know, where bright red hydrangeas shall grow. ♫
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -882,7 +880,7 @@ And yet, through it all, he hears that song again, softly rising from hoarse thr
 <a id="episode-3360105"></a>
 ## 3360105 · The Prisoner of Honor
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Grigory:** That old man's nose. It's nearly identical to my father's.
 
 The white horse prances forward a few steps, matching Perun's pace. The soldier's voice reaches Igor, clear and sharp.
@@ -1026,7 +1024,7 @@ Then he grins.
 **Vasily:** You must fear death, boy.
 
 **Vasily:** Not just your own. You must fear the death of every man.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1034,7 +1032,7 @@ Then he grins.
 <a id="episode-3360106"></a>
 ## 3360106 · The Living and the Dead
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Igor:** I had my sights on a hare. I asked the commander, "What do I do now?"
 
 **Igor:** He told me I was a good shot. Told me not to move; to stand my ground. And if any of our own ran back, to shoot them with my rifle.
@@ -1216,7 +1214,7 @@ The admiral stands before the 1999 "Storm" wall, looking at the young, familiar 
 **Igor:** I don't know.
 
 **Igor:** But I will find an answer.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1224,7 +1222,7 @@ The admiral stands before the 1999 "Storm" wall, looking at the young, familiar 
 <a id="episode-3360107"></a>
 ## 3360107 · Lingering No More
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The admiral and the soldier pause at the river's edge.
 
 Winter has been late to arrive, but when it came, it spread fast and fierce, turning the river's surface into brittle ice.
@@ -1352,7 +1350,7 @@ The bullet scrapes over the top of the soldier's head, knocking his military cap
 The white horse runs on, faster and faster, into the dreamy blue light.
 
 Igor hadn't aimed for the soldier's head.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1360,7 +1358,7 @@ Igor hadn't aimed for the soldier's head.
 <a id="episode-3360108"></a>
 ## 3360108 · An Order
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The military cap falls into the river, breaking the razor-thin ice. The pieces chime as they float away, carrying the cap away.
 
 He holds the rifle up. His hands are steady, but a hint of confusion lingers on his face. He can't recall when a scope has been mounted.
@@ -1560,7 +1558,7 @@ There has only ever been one order.
 His finger stays upon the trigger.
 
 Bang!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---

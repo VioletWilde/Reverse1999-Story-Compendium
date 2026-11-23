@@ -7,8 +7,6 @@
 - Story units：`8`
 - Trail：`0`
 
-[UTTU](https://uttu.merui.net/story/character/marsha/en/?part=1)
-
 Old bandages, the scent of blood,
 An inescapable gloom.
 Ancient oaths converge with future duty.
@@ -31,7 +29,7 @@ Bring comfort where there is pain.
 <a id="episode-3350101"></a>
 ## 3350101 · On the Inside
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Hohes Schloss
 
 **Marsha:** I, Marsha, before my brethren of the Order, do solemnly take this oath.
@@ -167,7 +165,7 @@ He shakes his head begrudgingly.
 **Marsha:** There must be some reason she is being so stubborn. I wonder what she is after ...
 
 Marsha keeps that question in mind as she takes her leave from "Razor" and walks from the station into the city.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -175,7 +173,7 @@ Marsha keeps that question in mind as she takes her leave from "Razor" and walks
 <a id="episode-3350102"></a>
 ## 3350102 · Where We Stand Now
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 ***
 
 **GAMEPLAY**
@@ -455,7 +453,7 @@ The emotions fall away, and reason takes over; something clicks in her mind.
 Adelheid's lips curve.
 
 **Adelheid:** Ach so, then you have come to me on behalf of your Foundation.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -463,7 +461,7 @@ Adelheid's lips curve.
 <a id="episode-3350103"></a>
 ## 3350103 · The First Lesson
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Marsha falls silent.
 
 She looks at Adelheid, and Adelheid looks back—measuring her.
@@ -615,7 +613,7 @@ Marsha lets out a long breath.
 **Marsha:** Please wait, Adelheid. I'll be ready in a minute.
 
 Soon, Marsha shoulders her first-aid crate and heads out with Adelheid.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -623,7 +621,7 @@ Soon, Marsha shoulders her first-aid crate and heads out with Adelheid.
 <a id="episode-3350104"></a>
 ## 3350104 · The Second Lesson
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Rejowa
 
 The two knights begin their journey across the war-torn countryside and reach Rejowa by nightfall.
@@ -849,7 +847,7 @@ He turns his head with difficulty, only to see a gun pressed against his partner
 The red-haired woman tightens her grip on his wrist.
 
 **Marsha:** Medicine? Who are you?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -857,7 +855,7 @@ The red-haired woman tightens her grip on his wrist.
 <a id="episode-3350105"></a>
 ## 3350105 · As Their Shield
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Marsha presses a piece of gauze to the man's cheek. A cut from the rough wall she pushed him into.
 
 Adelheid holsters her pistol and folds her arms, listening to the other man.
@@ -1073,7 +1071,7 @@ Marsha hugs her back just as tightly.
 Adelheid does not interrupt the reunion between comrades.
 
 She listens to Hildegard as the victorious warrior beams with yet more words of joy and knightly elan, drifting deep into thought.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1081,7 +1079,7 @@ She listens to Hildegard as the victorious warrior beams with yet more words of 
 <a id="episode-3350106"></a>
 ## 3350106 · Analgesic Method
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Hallway, Combat Hospital
 
 Although Manus Vindictae has been driven off, the battle has only worsened the hospital's condition.
@@ -1275,7 +1273,7 @@ Words fail to breach through her now-clattering teeth. Hot and cold slam into on
 **Adelheid:** Marsha!
 
 She falls back into the abyss.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1283,7 +1281,7 @@ She falls back into the abyss.
 <a id="episode-3350107"></a>
 ## 3350107 · The Eagle and the Firewood
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 ***
 
 **GAMEPLAY**
@@ -1499,7 +1497,7 @@ Marsha opens her hand, as if turning the pages of a book.
 Marsha glances around at the end of her words.
 
 **Marsha:** Hilde, where is Adelheid?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1507,7 +1505,7 @@ Marsha glances around at the end of her words.
 <a id="episode-3350108"></a>
 ## 3350108 · The Burden of Glory
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Outside, Combat Hospital
 
 Marsha finds the knight a short walk from the hospital, sitting in quiet contemplation at the edge of a field. She sits down near her without intruding.
@@ -1809,7 +1807,7 @@ The morning light shines on them, a promise of a new day, a new beginning.
 Marsha raises her hand before her eyes. The brilliant dawn spills in through her fingertips.
 
 **Marsha:** Hmm ... what a good day it is.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---

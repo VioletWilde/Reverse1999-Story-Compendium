@@ -7,8 +7,6 @@
 - Story units：`9`
 - Trail：`0`
 
-[UTTU](https://uttu.merui.net/story/character/recoleta/en/?part=1)
-
 Symbols, metaphors, and a literary labyrinth,
 She wanders through,
 The adventure never ends.
@@ -30,7 +28,7 @@ The adventure never ends.
 <a id="episode-2692001"></a>
 ## 2692001 · Editor of Genius
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Ruinas Gloriosas y Directrices de Metáforas
 
 This book is dedicated to Maria
@@ -250,7 +248,7 @@ She holds no high expectations for the young writer. After all, years of experie
 **Editor Hunting:** Best of luck. I'm heading home to warm up with a hot drink.
 
 **Recoleta:** Till next time, Ms. Hunting. I'll most certainly be back; believe you me.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -258,7 +256,7 @@ She holds no high expectations for the young writer. After all, years of experie
 <a id="episode-2692002"></a>
 ## 2692002 · Cowboy and Coachman
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Editor's Office - Afternoon
 
 The setting sun casts a deep orange glow in the office, causing Hunting to squint.
@@ -476,7 +474,7 @@ After a brief pause, she speaks.
 **Editor Hunting:** Even if everything goes smoothly, we need at least six months to finalize the manuscript. It might not even make next year's book fair.
 
 **Editor Hunting:** But what I do know is this: I can get your novel into the world, if you can finish it on time.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -484,7 +482,7 @@ After a brief pause, she speaks.
 <a id="episode-2692003"></a>
 ## 2692003 · Templo de la Metáfora
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Bedroom - Night
 
 It's a cold winter's night, but inside, the air feels warm and inviting.
@@ -718,7 +716,7 @@ And Hunting's instincts are rarely wrong.
 **Recoleta:** But it'll be a glorious one.
 
 In this young writer, she glimpses the lingering embers of a bygone era.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -726,7 +724,7 @@ In this young writer, she glimpses the lingering embers of a bygone era.
 <a id="episode-2692004"></a>
 ## 2692004 · Distant Quakes
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Bedroom - Night
 
 **Editor Hunting:** Single malt whisky, no ice, and a splash of water—the perfect spring companion. This is the life, my friend.
@@ -952,7 +950,7 @@ Editor's Office - Afternoon
 Their thoughts are like two frayed wires, unable to connect.
 
 For the first time, Recoleta finds herself struggling to follow Hunting's reasoning.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -960,7 +958,7 @@ For the first time, Recoleta finds herself struggling to follow Hunting's reason
 <a id="episode-2692005"></a>
 ## 2692005 · Charging the Windmill
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Apartment Rooftop
 
 Recoleta leans against the rusted railing of her apartment's rooftop, looking out over the blurred cityscape.
@@ -1152,7 +1150,7 @@ She turns over, burying her face in the couch cushion.
 As she drifts off, fragments of chaotic dreams claw at her mind.
 
 By the time everything settles into silence, the room has been nearly entirely swallowed by darkness.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1160,7 +1158,7 @@ By the time everything settles into silence, the room has been nearly entirely s
 <a id="episode-2692006"></a>
 ## 2692006 · Laberinto de Símbolos
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Forest North, Labyrinth
 
 **Recoleta:** I ... fell asleep?
@@ -1456,7 +1454,7 @@ A writer must have enduring resilience.
 A writer must have an innate perception.
 
 A writer must have unshakable arrogance.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1464,7 +1462,7 @@ A writer must have unshakable arrogance.
 <a id="episode-2692007"></a>
 ## 2692007 · Fable of the Failure
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Editor's Office - Morning
 
 **Publishing House Director:** Hunting, we've been talking for nearly an hour now. I need a conclusion.
@@ -1666,7 +1664,7 @@ Optimistic, reckless, an anonymous writer chasing the literary explosion era.
 **Recoleta:** At the very least, I'll earn a badge of honor, just like hers! Haha.
 
 **Recoleta:** Yes, and my novel will be that badge!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1674,7 +1672,7 @@ Optimistic, reckless, an anonymous writer chasing the literary explosion era.
 <a id="episode-2692008"></a>
 ## 2692008 · Meaningless Acts
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Corridor, H.A. Publishing House
 
 Spring has come, bringing a renewed energy with it.
@@ -1812,7 +1810,7 @@ Hunting knows this choice comes from an unnamed courage.
 And she chooses to believe in literature, in fate, in acts that seem meaningless.
 
 Just like Recoleta.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1820,7 +1818,7 @@ Just like Recoleta.
 <a id="episode-2692009"></a>
 ## 2692009 · Ruinas Gloriosas
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Wasteland - Night
 
 On that pitch-black night, Recoleta sees no one.
@@ -2102,7 +2100,7 @@ Dedicated to the writers of history, those remarkable, distant stars.
 Dedicated to the editors of history, the unsung geniuses who captured brilliance.
 
 Dedicated to you who are watching now, the wonderful players, viewers, and readers.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---

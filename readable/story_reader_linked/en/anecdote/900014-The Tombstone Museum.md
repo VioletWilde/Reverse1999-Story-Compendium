@@ -7,8 +7,6 @@
 - Story units：`7`
 - Trail：`0`
 
-[UTTU](https://uttu.merui.net/story/anecdote/necrologist/en/?part=1)
-
 Inside the Penumbra Can,
 Covered in a layer of dust,
 Are stories buried in the depths of time.
@@ -28,7 +26,7 @@ Are stories buried in the depths of time.
 <a id="episode-90001401"></a>
 ## 90001401 · She Who Hears the Dead
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 8:00Clear
 
 Liechtenstein
@@ -175,7 +173,7 @@ A museum for tombstones, situated in a country with no allegiances. The Principa
 
 This is the thirteenth package in the last three months. This package is as heavy as all the others and just as strange. It's made even stranger by the faint sounds coming from within. At times they seem ... almost as if they were a voice. Passersby find themselves staring at the package with concern. But the girl who comes to collect it seems to hear nothing.
 
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -183,7 +181,7 @@ This is the thirteenth package in the last three months. This package is as heav
 <a id="episode-90001402"></a>
 ## 90001402 · His Last Wish
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 8:12Clear
 
 The Tombstone Museum
@@ -374,7 +372,7 @@ The impassioned tombstone has no knowledge of the new timeline he has been carri
 
 A condition easily contracted by ghosts, where dreadful emotions spread like disease, usually tied to the manner of death.
 
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -382,7 +380,7 @@ A condition easily contracted by ghosts, where dreadful emotions spread like dis
 <a id="episode-90001403"></a>
 ## 90001403 · His Belief
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 16:00Wind
 
 Berlin
@@ -527,7 +525,7 @@ The tailor's neighbor waves a hand and slams the door shut.
 
 Ghosts bound to tombstones are rarely whole. They are fragmented, stripped of memory. The obsessions left behind are all that keep them tethered.
 
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -535,7 +533,7 @@ Ghosts bound to tombstones are rarely whole. They are fragmented, stripped of me
 <a id="episode-90001404"></a>
 ## 90001404 · The Whistle
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 19:00
 
 Berlin
@@ -631,7 +629,7 @@ Perhaps putting these two in the same box was a mistake from the start.
 A blaring horn halts their quarrel, followed by the screech of brakes.
 
 **Driver:** "St. Petersburg. We're here."
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -639,7 +637,7 @@ A blaring horn halts their quarrel, followed by the screech of brakes.
 <a id="episode-90001405"></a>
 ## 90001405 · The Old and the New
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 8:06Wind
 
 St. Petersburg
@@ -740,7 +738,7 @@ Perhaps the tragedy was decided from the very start of the war.
 
 That famous signing in the railway carriage seems to have been rewritten by Manus Vindictae.
 
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -748,7 +746,7 @@ That famous signing in the railway carriage seems to have been rewritten by Manu
 <a id="episode-90001406"></a>
 ## 90001406 · Peace
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 7:00Fog
 
 Scapa Flow
@@ -855,7 +853,7 @@ She gently wraps his tombstone in the old newspaper, not placing him in any ligh
 
 A great vessel built in the royal shipyard. Majestic, colossal, the very symbol of domination at sea.
 
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -863,7 +861,7 @@ A great vessel built in the royal shipyard. Majestic, colossal, the very symbol 
 <a id="episode-90001407"></a>
 ## 90001407 · The Museum
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 9:00Clear
 
 Liechtenstein
@@ -949,7 +947,7 @@ She opens the heavy doors and gazes gently upon the tombstones within.
 **Necrologist:** "What is the true meaning of this museum? To remember the regrets of the dead? Or to hold hope for the living?"
 
 **Necrologist:** "I don't know ... But I must believe that even death itself should be faced with reverence."
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---

@@ -7,8 +7,6 @@
 - Story units：`20`
 - Trail：`10`
 
-[UTTU](https://uttu.merui.net/story/event/2_7/en/?part=1)
-
 In the final count, the world falls silent.
 A streak ignites the frozen sky.
 One instant captured, forever immortalized.
@@ -43,7 +41,7 @@ One instant captured, forever immortalized.
 
 > The universe is far from innocent.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 ???: \*breathing\* Take a deep breath, and relax.???: This is my debut. I can't fail, not now. I have to do this for Mr. and Mrs. Kozlov and everyone in the circus. I must make them proud.???: Mrs. Kozlov told me that I must guide the air through my body until it finds its balance.???: Left, right. Good. Now, wave to the audience and say hello.???: Oh, no!???: I can do this. I'm almost there.Steady yourself. Find your footing on a strand-thin wire.Is it even there????: I can have this handled. First, I need to ...???: I ...???: There's no absolute direction up there. Up or down depends on the reference you choose.???: I think she has the right to know what the "Storm" really is.???: We will still need to cross the year 1999.???: Alia. Come home.
 
 **???:** \*breathing\* Take a deep breath, and relax.
@@ -243,7 +241,7 @@ A sheet of paper is held out to her.
 She places the paper neatly into her pocket, then returns to the glass to watch over the sleeping girl in the hospital bed.
 
 A few months ago, none of them could have imagined it would come to this.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -253,7 +251,7 @@ A few months ago, none of them could have imagined it would come to this.
 
 > Three fallen stars.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Radio:** "Not long ago, Voyager 2 successfully reached Uranus, marking the first-ever exploration of this planet in human history. It conducted an examination of Uranus's ring system as planned ..."
 
 **Radio:** "After a temporary orbital adjustment caused by its earlier visit to Titan, Voyager 1 continues its journey towards the edge of the solar system ..."
@@ -453,7 +451,7 @@ Agreement reached. Pointer lifts her right hand.
 A snake stretches forward to gently tap her palm with its head.
 
 Nice working with you.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -681,7 +679,7 @@ Public radio. Five minutes per person per day. Listen to whatever you want, but 
 
 > It carries the weight of each individual; it raises the towering walls of every endeavor.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 1987.05
 
 Институт космодрома Плесецк
@@ -949,7 +947,7 @@ Calm down, and relax ... it's just a simple performance, no different from all t
 Phew, good. Everything has gone according to plan.
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1212,7 +1210,7 @@ The circus barker's introduction booms above the blinding lights, followed by a 
 
 > A small town shimmering with light and fireworks, a wandering friend once said. Come, take a chance.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 1987.06
 
 Цирк Зоря Утренняя
@@ -1504,7 +1502,7 @@ Still, the show reminded her—sometimes it's worth taking that step forward, ev
 She doesn't hesitate this time.
 
 ... Hello?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1791,7 +1789,7 @@ She doesn't hesitate this time.
 
 > Notes come together and dance, unaware they are about to become a complete song.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Radio:** "We believe Voyager 1 will continue to explore the galaxy on and on ..."
 
 **Radio:** "Traveling into the depths of the universe, carrying with it humanity's spirit of exploration, it is likely to persist longer than life on Earth ..."
@@ -2007,7 +2005,7 @@ But Hissabeth's response carries a rare weight, different from her usual casual 
 **Hissabeth:** Don't be silly. It's just a friendly gesture. I believe you come from the same region, so I'll bet you two will get along quite famously. And he has an interesting nickname too. It was, umm, oh, right—
 
 Name Day.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · An Unexpected Encounter
 
@@ -2047,7 +2045,7 @@ We have the best stage on Earth, each show as unique as a flake of snow. We brin
 
 > The second reason behind the urgent need to improve transport security.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Ship models made of bone, delicate painted eggs, rusted parts, and yellowed scraps of draft paper.
 
 Old pieces hastily thrown together somehow form an unexpected harmony.
@@ -2287,7 +2285,7 @@ Surrounded by the vast expanse of white, people and buildings alike feel small.
 **Windsong:** Hello, gentlemen.
 
 **Windsong:** Welcome to Plesetsk.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · Have You Heard?
 
@@ -2312,7 +2310,7 @@ Have You Heard?
 
 > Don't feel guilty. Every flower once struggled just as you do now.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Windsong:** You arrived earlier than expected. Pointer and Hissabeth will be happy to know you got here safely.
 
 **Windsong:** Oh, FYI, Pointer was the researcher who introduced me to Laplace. You might have met her before in Rayashki. She's occupied with a few important visitors right now. We'll talk to her later.
@@ -2614,7 +2612,7 @@ He steps into the room, noticing immediately that Kiperina is fixated on the par
 **Kiperina:** Mr. Kozlov ...
 
 **Kiperina:** Will I ever have the chance to return to Utrennyaya?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -2624,7 +2622,7 @@ He steps into the room, noticing immediately that Kiperina is fixated on the par
 
 > An expensive group photo. Usually found in a weathered old frame.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Kiperina:** Will I ever have the chance to return to Utrennyaya?
 
 Hissabeth pushes the door open just in time to catch this scene. She lingers nearby, curious, watching the girl receive her answer.
@@ -2872,7 +2870,7 @@ Life should move forward, not stay stuck in the past.
 This time, she raises her cup first.
 
 To the brightest future.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · /lo/ - The Spread of Enigmafication
 
@@ -2897,7 +2895,7 @@ To the brightest future.
 
 > About the perfect moment to speak in defense of "me."
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 1987
 
 Институт космодрома Плесецк
@@ -3125,7 +3123,7 @@ Next time … I should be able to do a bit better.
 That's right, you did well. I'll make sure Miss Windsong hears of the good news.
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -3135,7 +3133,7 @@ That's right, you did well. I'll make sure Miss Windsong hears of the good news.
 
 > How could you possibly expect warm rain to fall inside a greenhouse?
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 1987
 
 Филиал ЛСКЦ Плесецк
@@ -3347,7 +3345,7 @@ But what if they put their lives in jeopardy and gain nothing from it?
 That is her answer—the only answer she needs to keep going.
 
 **Kiperina:** I ...
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -3357,7 +3355,7 @@ That is her answer—the only answer she needs to keep going.
 
 > I am grateful for the times I felt exhausted and uninspired, yet never put down my pen.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Silence has weight. Like sand piling, layer on layer, on one's chest, eventually it can suffocate.
 
 The sobs barely register—two or three, snuffed out before they can burst.
@@ -3583,7 +3581,7 @@ COMBAT:
 Perhaps even the stars in the cosmos have songs to sing, too.
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · To Camille
 
@@ -3608,7 +3606,7 @@ Dear Camille, How long has it been since we last spoke? The long tug-of-war with
 
 > Hissing snakes, crackling sparks, measuring tapes, a crow, and a glass fish tank. A mess, but full of life and sound.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 1987
 
 Институт космодрома Плесецк
@@ -3868,7 +3866,7 @@ Kiperina holds her stare on the pondering researcher, expectantly seeking her in
 **Hissabeth:** Oh, I think it may be necessary to implement a particular procedure that Ludwig mentioned.
 
 **Hissabeth:** A "humanitarian vacation."
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -3878,7 +3876,7 @@ Kiperina holds her stare on the pondering researcher, expectantly seeking her in
 
 > I have seen many kinds of flowers—in small towns, in laboratories, on hurried journeys. They bloom so well, and so fragrantly.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 1987
 
 Мирный
@@ -4148,7 +4146,7 @@ COMBAT:
 Everyone, listen up. It's time to pull out.
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -4158,7 +4156,7 @@ Everyone, listen up. It's time to pull out.
 
 > Those who departed from home are now wandering through tales.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The hardest person to convince is often yourself.
 
 Sensing Kiperina's disappointment, Name Day finally speaks up.
@@ -4368,7 +4366,7 @@ Hissabeth's voice feels like it's coming from far away.
 **Hissabeth:** Tomorrow might be our last free day before the "Storm." I guess it's fitting then to ask the age-old question:
 
 **Hissabeth:** If tomorrow was the last day of your life, what would you do?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · Cabinet of Wishes
 
@@ -4393,7 +4391,7 @@ Become Director. Drink endless wine. Succeed in projects. World peace. Conquer t
 
 > We can never find the perfect moment.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 1987
 
 Институт космодрома Плесецк
@@ -4617,7 +4615,7 @@ Pointer follows his eyes as he casts a look down the street. Bright fluorescent 
 The snow falls on both of their shoulders. It melts on Mr. Kozlov, but it settles in layers on Pointer's metallic frame.
 
 **Pointer:** I'm here to see if we missed anything.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -4627,7 +4625,7 @@ The snow falls on both of their shoulders. It melts on Mr. Kozlov, but it settle
 
 > It's just the inconvenience caused by instant noodles, vegetable packets, and some time theory yet to be debunked. You and I both understand.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 1987
 
 Мирный
@@ -4883,7 +4881,7 @@ The little snake's mouth is pinched shut, and the room falls silent. She listens
 The figure that bursts into the room is unmistakably familiar. Unexpected, yet somehow inevitable.
 
 **Hissabeth:** ...?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -4893,7 +4891,7 @@ The figure that bursts into the room is unmistakably familiar. Unexpected, yet s
 
 > The little snakes eagerly flick their tongues at you, warm like another burning heart.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Pointer is visibly winded. Her vehicle couldn't drive into the inner perimeter of the launch bay, so she had to run the last stretch.
 
 But she has to make the most of her time. She came back to say what needed to be said.
@@ -5127,7 +5125,7 @@ She knows that everyone here is committed to the end. She places her hand on the
 **Hissabeth:** One.
 
 **Hissabeth:** Ignition.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · The Story of Cepheus
 
@@ -5152,7 +5150,7 @@ Cepheus learned a wonderful way to live. Always keep your eyes on the future. Ke
 
 > Beside a flowering grave, she left these.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Kiperina:** Altitude rising. All systems normal.
 
 **Hissabeth:** Cool. Stay on comms.
@@ -5406,7 +5404,7 @@ Kiperina: My existence will be small and short. There are many, many others like
 **Kiperina:** I must keep going or die trying.
 
 **Monitor:** We have reached our designated coordinates.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -5416,7 +5414,7 @@ Kiperina: My existence will be small and short. There are many, many others like
 
 > 0.12 pixels, maybe smaller. You belong here, and so do I.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Kiperina:** I made it?
 
 No sound comes through the headset. Electronic devices can sometimes be more fragile than flesh.
@@ -5680,7 +5678,7 @@ Beneath the soft sheets of the hospital bed, another hand clasps Kiperina's.
 This is the best news.
 
 Welcome home.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -5690,7 +5688,7 @@ Welcome home.
 
 > And yet, we remain forever on the road.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Yard, Foundation
 
 A white stonewall divides the world into inside and outside.
@@ -5904,7 +5902,7 @@ Just as a star from afar changes you.
 **Космическая Увертюра**
 
 1987 Cosmic Overture
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · Party Highlights
 

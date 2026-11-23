@@ -7,8 +7,6 @@
 - Story units：`8`
 - Trail：`0`
 
-[UTTU](https://uttu.merui.net/story/character/spathodea/en/?part=1)
-
 The flame, a bodiless collection of heat, is held in the hands of this brave child.
 The story began with a long journey, a call from ancient times, and a cocoa-scented dream ...
 Back then, both she and she were just a small flame.
@@ -29,7 +27,7 @@ Back then, both she and she were just a small flame.
 <a id="episode-1150801"></a>
 ## 1150801 · Ignition
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Ulu:** The darkness is like a soft mattress. Sinking under me, folds enveloping me, drawing me ever deeper.
 
 **Ulu:** In the darkness, I find myself accompanied by unceasing, rhythmic sounds, like the beating of drums and wild cheers, echoing a time when I blazed over red earth.
@@ -203,7 +201,7 @@ What follows then is a kiss on her forehead that fuels the warm flames within he
 The little kangaroo bounces up with gusto and stands proudly on the bedroom floor to declare her intention.
 
 **Spathodea:** I will be—I must be an excellent boxer!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -211,7 +209,7 @@ The little kangaroo bounces up with gusto and stands proudly on the bedroom floo
 <a id="episode-1150802"></a>
 ## 1150802 · Clattering Pebbles
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Ulu:** The closer you get to the light, the clearer things become.
 
 **Ulu:** Those long, murky roads with no end in sight are far behind me. Now, I’m doing all I can to narrow the distance between her and me.
@@ -477,7 +475,7 @@ But a burning flame will use anything as fuel.
 Tickets to the pictures from doing the weekly chores, helping the lady next door walk her dog, and saving up for a few months to buy new boxing gloves. After eating up all of her vegetables, her mother kisses her forehead.
 
 These are the things gained through hard work and patience. For this passionate little flame, this is what it means to be a champion.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -485,7 +483,7 @@ These are the things gained through hard work and patience. For this passionate 
 <a id="episode-1150803"></a>
 ## 1150803 · The Ones Chasing the Flame
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Ulu:** Clench your fist, swing it, pull it back, swing again. Her arms are sore, but her palms are still burning.
 
 **Ulu:** I chased after her—watched her practice and practice, spending all her time and energy, making herself burn all over, like a real little flame.
@@ -695,7 +693,7 @@ Fatigue and muscle pain finally catch up with the lively girl.
 The choice she has to make will only be temporarily put on hold, it won't go away.
 
 Sooner or later, she'll have to make a decision.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -703,7 +701,7 @@ Sooner or later, she'll have to make a decision.
 <a id="episode-1150804"></a>
 ## 1150804 · Beyond the Flame
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Ulu:** I watched her become a bright flame—from the size of a small stone, swelling to the point where a single palm could no longer hold her.
 
 **Ulu:** Her flame is constantly changing, its outer glow flickering out an endless dance in an instant.
@@ -867,7 +865,7 @@ She endures the burning sensation in her stomach, trying to channel all of her e
 **Spathodea:** Sleep... Sleep...
 
 **Spathodea:** Sleep... Spathodea...
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -875,7 +873,7 @@ She endures the burning sensation in her stomach, trying to channel all of her e
 <a id="episode-1150805"></a>
 ## 1150805 · Within the Palm
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Ulu:** I saw her tripping over herself as she ran, her flames ready to blaze out of control.
 
 **Ulu:** All she needs is a little help to get that brightness back.
@@ -1183,7 +1181,7 @@ The young flame leaps gracefully through the doorway and bounds away into the di
 Her boxing gloves swung from her shoulders, their embroidery slightly crooked but dazzling in the sunlight.
 
 The golden pattern sparkling above the name "Spathodea" is sewn below, reflecting its own delicate light.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1191,7 +1189,7 @@ The golden pattern sparkling above the name "Spathodea" is sewn below, reflectin
 <a id="episode-1150806"></a>
 ## 1150806 · Sugar and Salt
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Ulu:** Almost... I've almost got her back now.
 
 **Ulu:** She will burn within me, and I will make her shine brighter than anything else in the world.
@@ -1479,7 +1477,7 @@ Tears flow down her face to her neck and into her collar. Seizing the collar, sh
 Sweat seeps between the lines in her palms and the spaces between her fingers, stinging her sore skin.
 
 Just like after every training session.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1487,7 +1485,7 @@ Just like after every training session.
 <a id="episode-1150807"></a>
 ## 1150807 · Morning Alarm
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Ulu:** Her tears were like rain.
 
 **Ulu:** They almost extinguished me completely. She’s the one who ignited me... I suppose she should be the one to put me out.
@@ -1617,7 +1615,7 @@ There the flame finds its rest and peacefully falls into a gentle, tired dream.
 **Spathodea:** My... My mummy...
 
 **Spathodea:** She never told me... W-W-We were descendants of the Red Dragon...!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1625,7 +1623,7 @@ There the flame finds its rest and peacefully falls into a gentle, tired dream.
 <a id="episode-1150808"></a>
 ## 1150808 · The Story of You and Me
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Ulu:** When I finally awakened completely, I told her everything.
 
 **Ulu:** From unspoken words in the past to words that should be spoken now.
@@ -1823,7 +1821,7 @@ Take another step forward.
 Step into the grounds of the Uluru Games. Go back to where you came from. Back to the fire...
 
 Return to that familiar place. The place you belong.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---

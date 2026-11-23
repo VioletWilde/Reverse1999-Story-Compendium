@@ -7,8 +7,6 @@
 - Story units：`31`
 - Trail：`29`
 
-[UTTU](https://uttu.merui.net/story/main/chapter-7/en/?part=1)
-
 1914, 1990 · We are all lonely.
 
 ## Contents
@@ -52,7 +50,7 @@
 
 > From softened branches to transcendent heavens, she thought she could grasp it all.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **37:** Mama, I have a question.
 
 **37:** Why don't people like the "irrational numbers"?
@@ -156,7 +154,7 @@ Her words are cut off as 37 jumps off the bed, rushing her way out.
 **37:** I have to find 6. I have to tell them now—
 
 **37:** Our "circle" has been broken.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -325,7 +323,7 @@ Animal Symbolism
 
 > From opposite ends of the prayer hall, wary eyes meet in a silent standoff.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The Hall of Apeiron
 
 **Vertin:** ...
@@ -505,7 +503,7 @@ This is it. The long-anticipated moment has finally arrived.
 **Vertin:** It's the "Storm."
 
 **Vertin:** The "Storm" of this era is here.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -723,7 +721,7 @@ This is it. The long-anticipated moment has finally arrived.
 
 > Boundaries are intangible, existing within the depths of every heart.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Believer II:** Ms. Vertin, did you just say the "Emanation" has happened?
 
 **Believer II:** Just now?
@@ -1111,7 +1109,7 @@ He leaves, ignoring the murmurs of shock.
 The gavel is thus brought down.
 
 The long debate has finally come to an end.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1535,7 +1533,7 @@ The symptoms of the current Storm Syndrome can be roughly summarized as oil pain
 
 > A wise man once said, "A good start is half the battle." However, he forgot to mention what completes the rest of the battle.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Sonetto:** The headquarters has issued a notice. The Critical Point of the "Storm" is in Vienna.
 
 The chief assistant puts down Ms. Radio and turns around with a somber expression.
@@ -1789,7 +1787,7 @@ This could be a chance to level the playing field against Manus Vindictae.
 **Vertin:** Will It answer my question?
 
 **Vertin:** If I asked for a way to become immune to the "Storm"?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -2066,7 +2064,7 @@ This could be a chance to level the playing field against Manus Vindictae.
 
 > The first step is to reduce it to a quartic equation without a cubic term. The second step ... Ugh, #$%@ this math!
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Researcher I:** Damn! You narcissistic, fat-headed, humanocentrist freaks!
 
 **Researcher I:** You are the crazy ones! And I, I will prove myself right!
@@ -2268,7 +2266,7 @@ On the other side of the glass, the robot turns away from the scene, categorizin
 COMBAT:
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -2504,7 +2502,7 @@ Decryption Team Personnel List
 
 > A chaotic duo found in chaotic minds.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Office of Director, Laplace
 
 An unknown incantation.
@@ -2838,7 +2836,7 @@ The researcher is astonished as the creature, with a texture similar to plaster,
 **Lucy:** Good.
 
 **Lucy:** Someone closer to the "limit" has given us aid.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -3258,7 +3256,7 @@ Conway Automaton V, also known as LifeGame V. It is the most popular mind expans
 
 > Hmm, have you found the thread?
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Lilya:** Any news from Zeno?
 
 **Sonetto:** They are moving as planned. The deployment will be complete within two hours.
@@ -3496,7 +3494,7 @@ She's confident that she can solve any problem that comes her way.
 She exclaims involuntarily.
 
 **37:** What kind of question is that?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -3741,7 +3739,7 @@ She exclaims involuntarily.
 
 > People don't disbelieve maxims, they just think they're the exception.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **37:** If my pursuit of Truth will be the destruction of my beliefs?
 
 She shakes her head repeatedly, looking more perplexed than when she checked the Manus followers' math homework.
@@ -3947,7 +3945,7 @@ Put the suitcase down, and breathe. Be ready for anything.
 **Vertin:** Will this really be the collapse of her world as she knew it, like 6 said? If that happens ...
 
 **Vertin:** I'll be here to hold the umbrella for her.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -4162,7 +4160,7 @@ Put the suitcase down, and breathe. Be ready for anything.
 
 > Unspeakable, indescribable. Untouchable, unsurpassable.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The cave is basked in warm, flickering candlelight. Preparations for the cleansing ceremony are finally complete.
 
 The integers are waiting for their leader to return.
@@ -4460,7 +4458,7 @@ In the face of chaos and turmoil, it falls on someone to step up and take action
 **Lucy:** No.
 
 **Lucy:** The incantation is indeed correct.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -4781,7 +4779,7 @@ In the face of chaos and turmoil, it falls on someone to step up and take action
 
 > Once representing abundance and life, it now holds the opposite meaning.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Cryptographer III:** What is going on?
 
 In other glass-walled rooms, researchers look up from their work in confusion.
@@ -4967,7 +4965,7 @@ She nods, having regained her clarity.
 **37:** The answer to my question, the solution to free us from the "Emanation," the response Apeiron promised me ...
 
 **37:** ... is a string of numbers.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -5189,7 +5187,7 @@ We regret to report tragic news today—a large number of researchers have been 
 
 > The weight, hanging high above, finally falls.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The winds died down. The cave is quiet again.
 
 The trial is over. As usual, the Star of Hermes has found her answer.
@@ -5473,7 +5471,7 @@ In the darkness, he lights up a torch.
 He trudges forward.
 
 With his back to the fearful crowd, he sets off again, onto the lonely road, into the long night.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -5815,7 +5813,7 @@ Assistant's Record
 
 > I eat, therefore I am.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **One, abstain from beans.
 
 Two, do not pick up what has fallen.
@@ -6115,7 +6113,7 @@ It is unmistakably the smoke of war.
 **Vertin:** ...
 
 **Vertin:** What?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -6413,7 +6411,7 @@ Wine Brewing Season
 
 > After the wave, what is left in its wake?
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Military Station, 1914
 
 **Soldier I:** F\*\*k! When do they give us the order to attack?
@@ -6683,7 +6681,7 @@ A piston spins at his feet.
 **Lucy:** Is that you, Adler?
 
 **Lucy:** Welcome.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -7010,7 +7008,7 @@ Seven Years of Bad Luck
 
 > A tiny grain of sand slips into the eye, causing tears to well up in response.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The piston rotates on the floor like a toy top.
 
 **Lucy:** Hmm. I am not in a suitable form to receive a guest.
@@ -7238,7 +7236,7 @@ The raging storm engulfs the robot's cold metal body, carrying her away with gre
 When the sand subsides, all that remains is an old piston, clattering to the ground.
 
 "Clang."
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -7487,7 +7485,7 @@ When the sand subsides, all that remains is an old piston, clattering to the gro
 
 > Even if there is no path, even if there is no destination.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Enigma:** ...
 
 A deathly silence.
@@ -7763,7 +7761,7 @@ It is more than enough for him to catch on.
 **Laboratory Technician:** Erm, yes, and by regulations we are not to leave. But, uhm ...
 
 **Laboratory Technician:** They said their new theory had to be verified in the "Storm."
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -8077,7 +8075,7 @@ Diagnosis Record - Awakened
 
 > Throw wide the gates.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Medicine Pocket:** Ha! Fresh air! Green grass! The dew, the mud! This is what I'm talking about! A better world!
 
 They kick the muddy ground with their boot in ecstasy.
@@ -8307,7 +8305,7 @@ Enigma makes his way to the airlock door.
 **Enigma:** It's me, Ulrich. Let me in. I need to see Madam Lucy!
 
 **Enigma:** Tell her—I found a way to transcend the limit.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -8560,7 +8558,7 @@ Enigma makes his way to the airlock door.
 
 > At the very least, we all now have a better understanding of how home appliances work.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Enigma:** We don't have time. I'll spare you the technicalities and explain it straight.
 
 He pops off the marker cap and draws a few lines on the board, exuding confidence with every stroke.
@@ -8754,7 +8752,7 @@ She wakes up on a cold piece of rock.
 **Sophia:** ...
 
 **Sophia:** ... Where ... What happened?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -8984,7 +8982,7 @@ Encrypted Record #832
 
 > Hearken, and be warned.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The smell of gunpowder hangs heavy in the air.
 
 The once magnificent columns are now reduced to rubble and irregular stones.
@@ -9356,7 +9354,7 @@ A detached figure looks on from the ruins of the beach, unperturbed by the chaos
 **Arcana:** Has the "Truth" not graced thee with its miracles?
 
 **Sophia:** ...!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -9683,7 +9681,7 @@ A detached figure looks on from the ruins of the beach, unperturbed by the chaos
 
 > Once you enter the temple, there's no turning back.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 37 stands dazed on the beach.
 
 She looks around at the familiar island.
@@ -10005,7 +10003,7 @@ One angry question after another. Sticky, slimy fluids seep through their masks.
 COMBAT:
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -10342,7 +10340,7 @@ One angry question after another. Sticky, slimy fluids seep through their masks.
 
 > Thus, people make the choices they ought to make, and walk the paths they ought to walk.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The world is a door,
 
 To a thousand ruins, desolate and cold.
@@ -10650,7 +10648,7 @@ However, one thing is for certain.
 **Vertin:** We should go now, Sonetto.
 
 **Vertin:** We have 15 more hours until the "Storm."
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -10944,7 +10942,7 @@ A fate has been forged for this purpose, A maxim, a preconception, A deliberate 
 
 > A multitude of hands overlap to salute the one and only Guide.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Liaison Staff II:** We've got signal. Zeno has restored communications with Team Timekeeper.
 
 **Assistant Simone:** Very well. We will leave you to it.
@@ -11216,7 +11214,7 @@ We did it, everyone.
 The observation room erupts in triumph.
 
 Arcana, deceased.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -11597,7 +11595,7 @@ Bullets and Calculus
 
 > Recognize the beauty and goodness of truth—free yourself from corruption, hatred, and evil.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Here, on the level sand,
 
 Between the sea and land,
@@ -11813,7 +11811,7 @@ A hint of hesitation appears in her eyes.
 **Assistant Simone:** We have updated her the progress of the study and the potential side effects of the incantation.
 
 **Assistant Simone:** But she insists on knowing the right pronunciation.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -12020,7 +12018,7 @@ A hint of hesitation appears in her eyes.
 
 > This may be the world's first trilingual dictionary.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Vertin:** No, we are not aware of that. 37 and I had just entered the cave when the investigator sent back the ritual.
 
 The transmission is weakening. Ms. Radio musters all her strength, struggling to hold on to the fleeting signal in the air.
@@ -12206,7 +12204,7 @@ The voice that always questions and doubts.
 **37:** Why not?
 
 **37:** We are seekers of Truth, are we not?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -12415,7 +12413,7 @@ The voice that always questions and doubts.
 
 > By the time people realize its true nature, it has already moved.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The Hall of Apeiron
 
 **888:** Heed my words, 37.
@@ -12765,7 +12763,7 @@ A myriad of thoughts flood the mind.
 **Vertin:** 37, I think I know what it says.
 
 **Vertin:** It means "the first circle."
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -13143,7 +13141,7 @@ Required Materials: A square sheet of metal Other shapes and materials can also 
 
 > Thus, the proof is complete.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Office of Director, Laplace
 
 The researchers on the receiving end quickly grasp the message.
@@ -13381,7 +13379,7 @@ Before the curse could get to her core, the fire thief flashes a smile.
 She needs to ensure the next message is clear on the radio.
 
 **Lucy:** It ... worked.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -13642,7 +13640,7 @@ She needs to ensure the next message is clear on the radio.
 
 > A mirror, a razor in green, and hands reaching into nothingness.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Enigma:** I never thought it would be the Timekeeper and the Apeiron arcanists who'd solve the problem. But now, even humans can cast this ritual.
 
 Laplace is now in a rare state of tranquility, for the researchers have done all they can; there's nothing left for them to do.
@@ -13912,7 +13910,7 @@ A ray of hope shines through the static.
 **Kakania:** ...!
 
 **Kakania:** Madam Lucy! Any progress on the research?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -14237,7 +14235,7 @@ I don't know if I'm crazy, maybe today is the end of the world, but I have to wr
 
 > So I will rejoice, dance freely, and savor my wine.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **37:** 6 is awake?
 
 Laboratory, Island
@@ -14581,7 +14579,7 @@ Tie the hair of Bistonian women
 With harmless knots made of serpents.
 
 With harmless knots made of serpents.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -14984,7 +14982,7 @@ The Art of Knots
 
 > Two numbers, each representing a pure essence of its own.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **37:** I, I don't understand.
 
 **37:** I should be giving them my blessings. They're brave enough to return to the essence. But instead, sadness washes over me.
@@ -15188,7 +15186,7 @@ She lets out a breath, clearing the tangle of emotions from her mind.
 A familiar smile lights up on her face.
 
 **37:** Because the nature of the universe flows in all things alike.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -15419,7 +15417,7 @@ A familiar smile lights up on her face.
 
 > It may not be important to remember an era, but it is important to remember the people.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 We are prisoners within these cavern walls,
 
 Our gazes held captive by the shadows' thrall.
@@ -15679,7 +15677,7 @@ The trees sway in the breeze and the sunlight streams through the leaves.
 It is a fine weather to set sail again.
 
 **Vertin:** Now we have two new ships.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -15932,7 +15930,7 @@ It is a fine weather to set sail again.
 
 > She brushes off the raindrops from her shoulders and steps into the new world.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The youth are sailing for a new world.
 
 While the old are saying goodbye to the world they knew.
@@ -16196,7 +16194,7 @@ The sunlight dances on her metallic surface, enveloping her in a golden aura.
 **Lucy:** I miss the Laplace chargers already.
 
 **Lucy:** There is a 230-volt bath at the resort, right?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>

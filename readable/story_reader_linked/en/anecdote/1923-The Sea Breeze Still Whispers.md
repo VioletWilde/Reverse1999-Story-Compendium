@@ -7,8 +7,6 @@
 - Story units：`8`
 - Trail：`0`
 
-[UTTU](https://uttu.merui.net/story/anecdote/fatutu/en/?part=1)
-
 Inside the Penumbra Can,
 Covered in a layer of dust,
 Are stories buried in the depths of time.
@@ -31,7 +29,7 @@ Are stories buried in the depths of time.
 
 > They've gone—to the depths of the sea.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Nukutaeao
 
 Waves lap gently at the reef, just as they always have, washing over the pristine white sands.
@@ -223,7 +221,7 @@ The Foundation's forms are painfully tedious. It's nothing short of remarkable t
 **Vertin:** As for our friend, Fatutu, if she wants to rid herself of memories she no longer wants to revisit, then I think there might be a better way than arcane skill or medication.
 
 **Vertin:** But it'll take time.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -438,7 +436,7 @@ The Foundation's forms are painfully tedious. It's nothing short of remarkable t
 
 > Give me a remedy that sends me into slumber, or better yet, back to the good old days.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Rehab Center, Laplace
 
 **Fatutu:** No! Toa, brother!
@@ -586,7 +584,7 @@ She leaps toward her like a dolphin sailing up over sunlit waves, in an irrepres
 **Fatutu:** ...!
 
 **Barcarola:** The trade season is just about to begin!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -755,7 +753,7 @@ She leaps toward her like a dolphin sailing up over sunlit waves, in an irrepres
 
 > Light the hall—let not the musician play in the dark.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Inside the Suitcase
 
 The festival of trade sparks a lively wave of chatter. The atmosphere shifts entirely.
@@ -895,7 +893,7 @@ Then, she throws her arms around her with an emotional hug, bursting into even l
 **Barcarola:** You—You're just—
 
 The words tumble out like notes from a melody she never quite finishes. In the end, she still can't say exactly what kind of girl this islander is.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1056,7 +1054,7 @@ The words tumble out like notes from a melody she never quite finishes. In the e
 
 > Our guide through storms and waves.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Bedroom, Suitcase
 
 Strips of palm bark cover the ground. Bundled Compassare, sealed jars of animal oil, and a basket of clean white shells.
@@ -1186,7 +1184,7 @@ She can see her friend is speaking with conviction.
 **Fatutu:** Let's finish these together, okay?
 
 **Fatutu:** Just like we did on the boat.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1337,7 +1335,7 @@ She can see her friend is speaking with conviction.
 
 > Like all good stories, this one has a wise druid too.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Bedroom, Suitcase
 
 The night is quiet.
@@ -1531,7 +1529,7 @@ Barcarola's feet answer faster than her mouth.
 She leaves behind only the sight of her retreating back and a voice drifting from afar.
 
 **Barcarola:** Of course, I would!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1746,7 +1744,7 @@ She leaves behind only the sight of her retreating back and a voice drifting fro
 
 > Why hasn't my Spirit Shell cracked yet?
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Lakeside
 
 The stillness of the girl sitting in front of her contrasts with the rush of her arrival.
@@ -1896,7 +1894,7 @@ It becomes a deep and sorrowful sob.
 **Fatutu:** Kamuta ... brother ... I ... I wish more than anything that what you said was true.
 
 **Fatutu:** I really, really do wish it were.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1906,7 +1904,7 @@ It becomes a deep and sorrowful sob.
 
 > Home is near.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Camp - Morning
 
 **Sonetto:** Timekeeper? Are these all the things you plan to trade at the Trade Fair?
@@ -2088,7 +2086,7 @@ Because it was always beneath their feet, behind them, or just ahead.
 **Fatutu:** Could it be? That's ...
 
 **Fatutu:** ... That's wonderful.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -2291,7 +2289,7 @@ Because it was always beneath their feet, behind them, or just ahead.
 
 > The sea breeze still whispers.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Lakeside
 
 **Fatutu:** Selone, did you finish your book?
@@ -2377,7 +2375,7 @@ And softly hums a tune.
 "The shell's warning keeps me on course. Its grooves show me the path."
 
 "I will return. I have returned."
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>

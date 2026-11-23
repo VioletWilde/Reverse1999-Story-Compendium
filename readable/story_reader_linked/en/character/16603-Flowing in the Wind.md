@@ -7,8 +7,6 @@
 - Story units：`9`
 - Trail：`0`
 
-[UTTU](https://uttu.merui.net/story/character/getian/en/?part=1)
-
 Hexagrams. Guidance. Fluttering Wings.
 Familiar rivers, mountains, and courtyard trees.
 A fateful encounter.
@@ -30,7 +28,7 @@ A fateful encounter.
 <a id="episode-1660300"></a>
 ## 1660300 · The One Traveling Far
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Getian:** A fine spot to rest.
 
 The bird perches in the nook of a tall tree, but not long after, he hears branches breaking beneath him. The sudden cracks startling him from his rest.
@@ -98,7 +96,7 @@ There seems to be nothing else around, no sign of a house, nor even a person.
 Perhaps he might stay the night and fill his empty belly.
 
 And so, Gětiān lands softly in the yard, and finds himself something to eat.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -106,7 +104,7 @@ And so, Gětiān lands softly in the yard, and finds himself something to eat.
 <a id="episode-1660301"></a>
 ## 1660301 · Dripping Inside the Hourglass
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **???:** ...
 
 **???:** ... I just ...
@@ -308,7 +306,7 @@ Yet the old man seems not to sense the implication at all. He heaves a sigh of r
 He slightly nods and signals to Yànpíng.
 
 **Lizheng:** Please.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -316,7 +314,7 @@ He slightly nods and signals to Yànpíng.
 <a id="episode-1660302"></a>
 ## 1660302 · A Flood of Memories
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Getian's Clan Mate:** Life in the mountain is indeed carefree.
 
 **Getian's Clan Mate:** Listen, there's the wind, the rustling leaves, and the chirping birds, all much more beautiful than that awful racket that humans make.
@@ -488,7 +486,7 @@ Yànpíng stayed there with the silent bones for a long time. Before he took win
 **Yanping:** "All men, whether great or ordinary, will end up a pile of bones." There's nothing else I can say.
 
 **Yanping:** It's time to return.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -496,7 +494,7 @@ Yànpíng stayed there with the silent bones for a long time. Before he took win
 <a id="episode-1660303"></a>
 ## 1660303 · Want Something
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Yanping:** For as long as we draw breath we're migrating, and then at the moment of our death, we are reduced to bones in an instant. Thus, we take our people's bones with us wherever we move. It is our way.
 
 **Yanping:** This wand not merely a tool to me.
@@ -670,7 +668,7 @@ There is always a motive behind a stranger's kindness.
 **Yanping:** What do you want? Wealth, fame, social status, or a new arcane skill?
 
 **Yanping:** People like you have similar purposes.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -678,7 +676,7 @@ There is always a motive behind a stranger's kindness.
 <a id="episode-1660304"></a>
 ## 1660304 · Part Ways
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The young man nods, looking much as the bird expected.
 
 Yet his barrage of questions catches Gětiān off-guard.
@@ -862,7 +860,7 @@ The young man's confusion seems more natural to his face than his smile.
 Taking a deep breath, the bird begins to tell the story.
 
 **Yanping:** This jade pendant belonged to two others before it came to me.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -870,7 +868,7 @@ Taking a deep breath, the bird begins to tell the story.
 <a id="episode-1660305"></a>
 ## 1660305 · Heart of Flesh
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Yanping:** In my homeland, the people living under the mountain had a preference for jade wares.
 
 **Yanping:** I can only scarcely remember when those delicate jade pendants first came into fashion in the city. They resembled their coins; rounded, with a hole in the center.
@@ -1068,7 +1066,7 @@ The jade, now broken, seems like little more than a mound of pebbles. But the bi
 **Yanping:** I decided to find out what really happened.
 
 **Yanping:** Turns out I am also part of the story.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1076,7 +1074,7 @@ The jade, now broken, seems like little more than a mound of pebbles. But the bi
 <a id="episode-1660306"></a>
 ## 1660306 · The Limited Sky in the Teapot
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Leonid:** So you repaired the pendant ... that's why it has these cracks?
 
 **Leonid:** I wouldn't have thought it possible with just a pair of wings. Holding it at a distance, you can hardly tell it was broken.
@@ -1260,7 +1258,7 @@ The bird's voice is calm as he continues.
 **Yanping:** I have also learned much from our conversation. But as I was once told, it is best to judge the heart by its deeds.
 
 **Yanping:** ... Which is why I'm taking control.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1268,7 +1266,7 @@ The bird's voice is calm as he continues.
 <a id="episode-1660307"></a>
 ## 1660307 · No More Astray
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Leonid:** Turns out I was the one who was left in the dark ...
 
 **Leonid:** Now I wonder why you let me guide you into these dreams. Weren't you afraid? As I'm afraid now. The Foundation won't go easy on me if they find out you operated the machine without training! And what if anything goes wrong, and we're stuck in here forever?
@@ -1366,7 +1364,7 @@ He looks around and gasps out of amazement.
 The temple is quiet. Words are unnecessary here, for they are useless to the dead.
 
 The only sounds in the room are Gětiān's feathers brushing across the scrolls.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1374,7 +1372,7 @@ The only sounds in the room are Gětiān's feathers brushing across the scrolls.
 <a id="episode-1660308"></a>
 ## 1660308 · After the Endless Plain
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The tea is still warm; as if the people there had never left the room.
 
 **Leonid:** Phew. Home safe. No one's brain is permanently wrecked. Thank goodness.
@@ -1542,7 +1540,7 @@ But he feels now that he is no longer as he was.
 **Getian:** How would I know the limits of the mountain if I didn't leave it? Yet the world turns out to be another bowl.
 
 **Getian:** Fine. I shall listen to the wind before anything comes up.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---

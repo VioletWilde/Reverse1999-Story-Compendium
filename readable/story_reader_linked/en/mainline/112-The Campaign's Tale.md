@@ -7,8 +7,6 @@
 - Story units：`25`
 - Trail：`20`
 
-[UTTU](https://uttu.merui.net/story/main/chapter-12/en/?part=1)
-
 1920 · They disappear into the golden grass, returning to the long, hard road they must walk.
 
 ## Contents
@@ -46,7 +44,7 @@
 
 > And quiet flows the river, and quickly flies the bullet.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Sergey:** Did you see the bandits?
 
 **Lilya:** Not even a sign; just some chipmunks.
@@ -306,7 +304,7 @@ It's too late. She's already pushed the broom beyond its limits. She's falling f
 **Lilya:** This is bad. Really bad.
 
 **Lilya:** Steady!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -617,7 +615,7 @@ Inside a Foundation office, the sound of a ringing communicator interrupts a bri
 
 > O golden hue, no longer a gift from the Sun, nor a symbol of the harvest.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Tent, Sich
 
 Downstream of the Don, on a stretch of flat meadow, a camp rises from mud-packed earth and stacked logs. It's no grand fortress, but it's enough to shelter an army at rest.
@@ -887,7 +885,7 @@ Merel shakily detaches the telescope she picked up in some ruins from her belt a
 **Merel:** Wah! Help!
 
 She hops in excitement and, as expected, loses her balance.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1193,7 +1191,7 @@ Weeping Wheat Glittering golden plains A gentle breeze passes, yet no grain danc
 
 > The currents converge here.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Perevoznaya
 
 **Young Villager:** You fell off your horse? Haha, I wouldn't worry. I bet even the mighty Ataman has fallen once or twice.
@@ -1541,7 +1539,7 @@ Only by stepping into the flood can one uncover the secrets hidden beneath the w
 As she turns, a soft sigh comes from behind her.
 
 **Z:** \*sigh\* You always follow your own judgment, Vertin. A precious quality in this era. I hope it never changes.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1975,7 +1973,7 @@ Dear Vertin, I hope this letter finds you well. I'm sorry I won't able to see yo
 
 > A newly emerging darkness covers the land.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Riverside, Steppe
 
 **Sergey:** Hey! I got something! Sasha, come give me a hand!
@@ -2261,7 +2259,7 @@ His cursing seems to be directed at some invisible onlooker rather than at Charo
 **Krutov:** And I am left to right their wrongs. It seems only I can.
 
 **Krutov:** I gave you your chance, freak.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -2568,7 +2566,7 @@ His cursing seems to be directed at some invisible onlooker rather than at Charo
 
 > Soldiers. Heads lowered. Lips sealed with orders.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Thousands of warhorses carrying fully armed cavalrymen travel to Tamarovka, their heavy hooves pounding the dirt road into hard-packed earth.
 
 The Cavalry Corps's reconnaissance team reaches the village first. The villagers are on alert, eyeing the soldiers from their doorways.
@@ -2926,7 +2924,7 @@ A sharp noise breaks the silence, startling the still-nervy Merel. She jerks her
 Marsha looks up too, but she shows no sign of alarm.
 
 **Marsha:** It's the Foundation's flight unit. They're here.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -3312,7 +3310,7 @@ Fiddler Crab Shapeshifting for Dummies —Call Number: F-4312-A —Category: Sha
 
 > Accept changing times, as farmers accept the coming of winter.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Lilya:** Faster!
 
 Lilya speeds low across the plain, the newest flying broomstick model cutting a narrow V shape through the grass.
@@ -3636,7 +3634,7 @@ They turn back to see a figure rushing toward them, arms flailing.
 **Commander Ivan:** What's the matter?
 
 **Sergey:** Th-They got too drunk. A brawl's broken out!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -3970,7 +3968,7 @@ Ms. Galina's Wartime Recipes
 
 > They weep for the grain trampled under the boots of friend and foe alike.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Several young men in Zeno cavalry uniforms surround the house, along with some boys not yet old enough to serve.
 
 A boy and a girl are trapped at the doorstep. Judging by their resemblance, they're siblings. The brother is covered in blood.
@@ -4228,7 +4226,7 @@ The commander's hand instinctively reaches for the gun at his waist. The cold me
 **Commander Ivan:** Retreat if attacked. Suffer no losses.
 
 **Lilya:** On it.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -4520,7 +4518,7 @@ To all Sentinel Unit members: Intelligence confirmed that former chief of staff 
 
 > It is simple to denounce the evildoer, and far more difficult to understand them.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 A shallow valley separates the two armies.
 
 The wind stirs seeds and dust. The warhorses grow restless under the eerie silence.
@@ -4792,7 +4790,7 @@ Across the plain, tens of thousands of soldiers still face one another in tense 
 **Igor:** If you agree, everything will be settled within a week. You have my word.
 
 **Igor:** The sunlight is fading, so is our time. I hope the deal can be made now.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -5096,7 +5094,7 @@ Timekeeper, Regarding the slips of paper covered in unknown symbols that were tu
 
 > Comrades may be united in loyalty or by other means—hatred will do.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Under the cover of night, the Zeno Cavalry Corps resumes its march toward Bereggrad.
 
 The Gryphon Legion holds position by the main road to the city. Both armies remain on high alert.
@@ -5390,7 +5388,7 @@ Before he even realizes it, he is bound with rope by the two soldiers behind him
 **Charon:** Why do you bind me? The ritualist has already limited my movement.
 
 **Krutov:** I have other plans for you.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -5705,7 +5703,7 @@ Before he even realizes it, he is bound with rope by the two soldiers behind him
 
 > A worm frozen in resin, its body encased for hundreds of millions of years. Is it the prisoner within this silent amber or a creation of eternity?
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Street, Bereggrad
 
 Bereggrad receives the thundering hooves of the cavalry in dead silence. It's as if the city has been deserted.
@@ -5993,7 +5991,7 @@ There is an almost pleading note in his voice.
 **Igor:** This is a door only you and Ms. Urd may open. Go. Walk through it.
 
 **Vertin:** I'm still not sure if you're telling the truth, but thank you for bringing me here, Igor.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -6349,7 +6347,7 @@ END OF DIALOGUE
 
 > An ancient proclamation arrives at a foreign city's gate, clad in blood and dust.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Laboratory Technician: How are you feeling, Ms. Urd?Urd?: Just as I have the many other times I've sat on this chair. And must you insist on calling me by my pen name?Laboratory Technician: Urd is your real name. If you want to find the true you, you need to accept it.Urd?: But I'm just a journalist, an occasional writer on hippies. Urd is simply a pseudonym for my submissions to a certain magazine.Urd?: I still don't understand the purpose of this experiment. Your claims of "world peace" sound no different from many of my interviewees on the street.Laboratory Technician: She's ready.Laboratory Technician: Vessel ensoulment test number 13, begin.Urd: Vertin?Vertin: Mum?Urd: It really is you, my child.Urd: It's been so, so very long. You're slighter than I'd imagined, but how wonderful it is to see how you've grown.Vertin: Why are you here? This isn't reality. I can feel it. Where are you really? Where can I find you?Urd: Don't cry, my child.Urd: This is but a moment from the past. I can only tell you what has already happened.
 
 **Laboratory Technician:** How are you feeling, Ms. Urd?
@@ -6615,7 +6613,7 @@ Marsha leans in close in an attempt to catch whatever sound his ruined body is s
 **Charon:** He swears to destroy Bereggrad, unless ...
 
 **Charon:** You hand over Igor.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -6937,7 +6935,7 @@ The Lost Diary of a Captive
 
 > Reforge scythe and plow into sword's edge. Let iron learn to leave its sheath. Let our enemy know the taste of hunger.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Militia Base, Bereggrad
 
 He does not feel pain as the living do, but it has left its mark all the same. He must have endured unimaginable torment.
@@ -7123,7 +7121,7 @@ Outside, arguments between the cavalrymen and citizens rise and fall along the s
 **Igor:** One thing is certain: this decisive battle will not be inside the city. We cannot stay here long.
 
 **Igor:** Let us leave together, Ivan. We will discuss our strategy on the way to camp.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -7330,7 +7328,7 @@ Outside, arguments between the cavalrymen and citizens rise and fall along the s
 
 > Mounting their horses and clenching the reins, young men bid farewell and head to war—a story as old as time.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Sternova:** So, you're saying you devised this plan with Igor?
 
 Sternova stands opposite the commander, the map table between them. Agitated, she shifts the markers representing the military forces back and forth.
@@ -7558,7 +7556,7 @@ The commander remains standing, as if waiting for something to arrive. Soon, the
 **Commander Ivan:** To protect our home and kin. That is why I stand with Igor's rebels.
 
 **Commander Ivan:** That will be my only answer to the tribunal.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -7822,7 +7820,7 @@ Colonel Sternova's Operation Order Brief
 
 > The fires of war burn ever nearer. Children of the Don, it's time to unite!
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Sonetto steps outside, looking out over the endless grassland and to the sky beyond. The afternoon wind rushes from across the steppe, carrying an unseasonable dryness.
 
 It gently rustles through her hair. The weariness from her relentless schedule, the weight of the coming war, and the tension she bears from her responsibilities are, for a brief moment, faintly eased.
@@ -8046,7 +8044,7 @@ This land, the great mother of the Cossacks, trembles beneath the vigor of her s
 At the commander's order, the cavalry formations make their march, the scouts at the front lifting their torches high.
 
 The flames of glory burn bright, setting the curtain of history ablaze.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -8291,7 +8289,7 @@ The flames of glory burn bright, setting the curtain of history ablaze.
 
 > Feel the moment. Feel your feelings. That's what matters most.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The militia camp is full of makeshift beds, sheltering the many civilians injured in the warlord's raid. The wails of pain echo in every corner.
 
 Still, they've managed to set aside one private room.
@@ -8509,7 +8507,7 @@ She stands.
 Merel watches her disappear behind a barricade. She moves with the strength of someone half her age.
 
 And she looks down at the dust still trapped between her fingers.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -8763,7 +8761,7 @@ A Disciplinary Decision Draft
 
 > She understood what the word means.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Militiaman:** You seem to know a thing or two about training horses. Impressive.
 
 **Militiaman:** Kids these days don't appreciate riding like they used to, complaining that the stables stink. Ungrateful brats! Forgotten the foundation of Cossack life, if you ask me.
@@ -9075,7 +9073,7 @@ We were never meant to kill.
 **Militiaman:** Three, two, one, push!
 
 **Merel:** Oh, oh, God. Marsha, you're hurt. And all these kids ... Hurry, she needs medical help!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -9442,7 +9440,7 @@ A Telegram to Cavalry Corps Headquarters
 
 > These horseshoes aren't yet rusty, lads!
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Zeno Cavalryman I:** The enemy's turned tail! Let's ride them down, Sergey!
 
 From horseback, the rider has a clear view. Upstream to the northeast, a few black figures are fleeing.
@@ -9716,7 +9714,7 @@ Sergey's thoughts have never been so clear. A wild excitement grabs him by the n
 The ritualist's arcane skill strangles the scream in Sergey's throat. His face contorts, his eyes bulging red as if possessed by some beast.
 
 In the red haze, his friends, his family, even his "heaven" all fall away.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · Knowledge Without Borders
 
@@ -9741,7 +9739,7 @@ Picrasma Tree Extract and Its Preparation Method
 
 > The warhorse is bridled, waiting for the coming tempest.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The flight unit makes a slow descent as they circle above the plains.
 
 **Lilya:** Hmm.
@@ -9905,7 +9903,7 @@ Blood wells up, flowing over taut muscle. But the hand holding the knife feels n
 The cold steel warms with blood as the gentle neighing of warhorses reaches their ears.
 
 **Commander Ivan:** But he's not used to the water beyond the steppe. Make sure you bring him home.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -10088,7 +10086,7 @@ The cold steel warms with blood as the gentle neighing of warhorses reaches thei
 
 > An eagle pierces through the thick black clouds of gunsmoke.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 They all know this aged face. He is the one who brought the gunfire and the one who now guards them.
 
 The militia allows Igor to pass, even guiding him to where the Gryphons are now quartered.
@@ -10244,7 +10242,7 @@ The "enemy radio station" crackles to life. Faint gunfire sounds in the backgrou
 **Igor:** We read you loud and clear.
 
 **Igor:** This is your commander. Report your status.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -10421,7 +10419,7 @@ The "enemy radio station" crackles to life. Faint gunfire sounds in the backgrou
 
 > They take to the saddle because this land raised them.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Levchuk:** Good to hear your voice, Admiral!
 
 **Ptolemy:** Is that Levchuk? You're still alive?
@@ -10551,7 +10549,7 @@ The commander looks back, meeting the heavy gaze of the rebel leader.
 His hands are noticeably quivering.
 
 But no one blames him for it.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -10749,7 +10747,7 @@ END OF DIALOGUE
 
 > They once traveled down the same road.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Battlefield, Tamarovka
 
 Heavy armor rolls into Tamarovka through the river shallows.
@@ -10955,7 +10953,7 @@ You've grown weak, Igor. You don't deserve the reverence you once held.
 Look, even the land itself turns on you!
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -11156,7 +11154,7 @@ Another blade stops just three inches from Krutov's chest.
 
 > The tattered banner still billows in the wind as the first snow falls.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The red willow that has watched over the Cossacks for over a century lies fractured.
 
 The ground that should have been firm and warm has turned to a sticky mire, trapping Igor by the legs.
@@ -11496,7 +11494,7 @@ And the living lift their eyes as the first snow falls.
 Time finds its rightful course once more. Winter has come.
 
 **Lilya:** Luckily, we won, for this round, at least.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -11785,7 +11783,7 @@ Time finds its rightful course once more. Winter has come.
 
 > The hammer of history strikes the anvil, yet the marks it makes will soon be smoothed away.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 My mission on the Eastern Front is over, but the battle that took place here has left an indelible impression on me. It still strikes me like lightning.
 
 **Marsha:** My mission on the Eastern Front is over, but the battle that took place here has left an indelible impression on me. It still strikes me like lightning.
@@ -11997,7 +11995,7 @@ Merel stands on tiptoes, wrapping her arms around Andreas's neck, and presses he
 Leading Andreas by the reins, Charon makes his way out of the city.
 
 They disappear into the winter grassland, returning to the long, hard road they must walk.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -12231,7 +12229,7 @@ END OF DIALOGUE
 
 > After the dust settles, he makes the decision.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The streets of Bereggrad are packed. The people hug and laugh, and the soldiers drink and sing to their hard-won victory.
 
 But deep below the church, in a room from another age, there is nothing but silence.
@@ -12439,7 +12437,7 @@ A gun muzzle presses to the back of Igor's head.
 **Lilya:** But being a half-decent father won't save you from the crimes you've committed or the lives you've taken.
 
 **Lilya:** I said it before, I'll say it again: I will personally escort you to the judgment seat.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -12706,7 +12704,7 @@ Invasion
 
 > Another bullet bearing another name falls into a tumbling brass bag.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Zeno Cavalryman I:** Raise your glass to the Zeno Cavalry Corps!
 
 **Sternova:** To the Corps! To the Flying Witches! And to Bereggrad!
@@ -12988,7 +12986,7 @@ Inside the Suitcase
 **Vertin:** I managed to recover documents detailing the experiment's main procedures. However ...
 
 **Vertin:** I didn't find anything signiﬁcant about Urd.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>

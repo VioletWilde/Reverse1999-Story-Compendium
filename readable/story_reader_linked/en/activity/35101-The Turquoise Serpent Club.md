@@ -7,8 +7,6 @@
 - Story units：`21`
 - Trail：`19`
 
-[UTTU](https://uttu.merui.net/story/event/3_5/en/?part=1)
-
 Dust, fractures,
 Remnants of a glorious past.
 Plaster builds up layer by layer,
@@ -47,7 +45,7 @@ Only a fleeting moment.
 
 > ¡Lotería!
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Croupier:** The blanket of the poor. The Sun.
 
 Inside the stuffy tavern, the gamblers hold their breath, faces flushed, crowded around a card table.
@@ -269,7 +267,7 @@ She narrows her eyes, satisfied with Centurion's willingness to cooperate.
 **Lorentz Butterfly:** There is something I want from you.
 
 **Lorentz Butterfly:** It was something you won at the table: a secret letter from the Turquoise Serpent Club.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · Mutual Assistance
 
@@ -344,7 +342,7 @@ Yesterday afternoon, a foreign diplomat arrived in Mexico City. His motorcade pr
 
 > A debate that has raged since the 19th century.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Carlota Bar
 
 Sometime during the next day, a strange atmosphere hangs over the tavern where the gamblers usually gather.
@@ -632,7 +630,7 @@ Wait! That's the Rumbling Roaring Box I borrowed from Mr. Ulrich!
 No ... You broke it!
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · Arrival and Departure
 
@@ -734,7 +732,7 @@ END OF DIALOGUE
 
 > A space for everyone—where challenges, negotiations, doubts, and quarrels unfold.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Vigiles Cadet I:** Did we get anything from the crime scene?
 
 **Vigiles Cadet II:** Similar to the last three cases. They're almost certainly serial murders.
@@ -956,7 +954,7 @@ Black Ibis offers a knowing smile.
 **Black Ibis's Cadet:** Is this that "political wisdom" you're always talking about? What was it? "Doctrine of the Mean"?
 
 **Black Ibis's Cadet:** And once again, my name's Alan.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · "This city is ours."
 
@@ -996,7 +994,7 @@ In early twentieth-century Mexico, no art form is more woven into everyday life 
 
 > Please keep your distance from the exhibits.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 On the outskirts of Mexico City lies a building in an overgrown and derelict hacienda.
 
 The uninvited "visitor" slips inside with little effort before taking a quick survey of her surroundings.
@@ -1316,7 +1314,7 @@ The forger draws a nervous breath.
 The woman examines his face, then provides a simple, satisfied smile.
 
 **Lorentz Butterfly:** Pleasure to work with you.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1682,7 +1680,7 @@ END OF DIALOGUE
 
 > The living walk through water, through caves, and through the land of the dead.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Cemetery
 
 Bleak wind sweeps through the quiet streets at the outskirts of the city. The still night has a foreboding gloom to it.
@@ -1900,7 +1898,7 @@ Having learned from last time, Loggerhead throws herself at the mercy of the exo
 **Loggerhead:** On behalf of the Timekeeper, I hereby thank you for your help. Oh, let me add it to my to-do list. Thank-you letter for Ramona.
 
 **Ramona:** Ay no.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · Fan Meetup
 
@@ -1935,7 +1933,7 @@ I need to be fully prepared for my trip to Mexico! Movies can certainly provide 
 
 > The sun sees the god of wind and says to the musician in heaven, "The one who answers will walk by his side."
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Vigiles Cadet I:** Another case? That makes five. And it's only been three days since the last.
 
 **Vigiles Cadet II:** The intervals are getting shorter.
@@ -2173,7 +2171,7 @@ A strange symbol surfaces from the still-warm ashes.
 Her revelation is dry and fatalistic, as if she were tugged unwillingly to the answer.
 
 **Ramona:** I know where to go.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · The City of Crystal
 
@@ -2259,7 +2257,7 @@ Online Neighbors
 
 > Please do take this.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 At dusk, the sun casts its last fading warmth.
 
 Deep in the alley, a bustling little shop hums as craftsmen prepare candy skulls for the upcoming festivities.
@@ -2459,7 +2457,7 @@ She places the candle in her palm and studies it closely. Then she puts it away.
 **Loggerhead:** What do you mean?
 
 **Ramona:** I'll get you something else to take home.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · Cleansing Notes
 
@@ -2484,7 +2482,7 @@ The "Necessary" Guide to Exorcism
 
 > A journey through the structure of time and history.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The night of the art auction.
 
 The night of the art auction.
@@ -2632,7 +2630,7 @@ The wind howls, swallowing her body and voice.
 **Loggerhead:** AHHHHHHH!!!
 
 **Loggerhead:** The Foundation really needs to start selling their teleport disks in these new eras!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · Ancient Calendar
 
@@ -2657,7 +2655,7 @@ The Aztec Sun Stone is often called the "Aztec Calendar." But it's really more o
 
 > The finest stage for crime.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 A line of pure energy flows along the earth toward a green land deep in the valley—their destination.
 
 A flash of light cuts through the darkness.
@@ -2895,7 +2893,7 @@ A faint noise emerges from the pile of notes.
 **???:** And how did she get back here? For God's sake, get her out of here!
 
 **Lorentz Butterfly:** Ha. Seems I've found the real Mr. Pérez.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · Small Notes
 
@@ -2920,7 +2918,7 @@ He's done for! Move! ———————————————————�
 
 > Dreams are tilting toward this shore.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The teleportation ritual drops them midair, leaving Loggerhead to tumble to the ground in a clatter of metal.
 
 The auction has just begun. Impassioned words from behind the screen heat up the atmosphere, drawing every eye to the stage.
@@ -3102,7 +3100,7 @@ This is our chance to gain control.
 But how can we make our game a little more fun?
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -3112,7 +3110,7 @@ But how can we make our game a little more fun?
 
 > We've got chaos, deceit, thrills, and arcanists—everything you could ask for!
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The reluctant detective strains to recall every detail amid the chaos.
 
 **Ramona:** The murderer's gotta be somewhere in the auction house. That's the only way they could control their arcane skill so exactly.
@@ -3316,7 +3314,7 @@ Realizing the futility of their situation, the tiny voices in the case finally f
 **Pigment Case:** ...
 
 **"Frightened Guest":** Thank you, sir.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -3326,7 +3324,7 @@ Realizing the futility of their situation, the tiny voices in the case finally f
 
 > Even a paintbox can brew a storm.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Performers and audience members leave one by one. The wild night falls back into silence.
 
 Under the dark sky, a person carrying secrets takes a careful, winding path before knocking on the side of a courtyard gate.
@@ -3618,7 +3616,7 @@ Each guess slides off of her unanswered.
 **???:** M—
 
 **???:** Marguerite.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · "Pride and Prejudice"
 
@@ -3643,7 +3641,7 @@ Calvaire - 1920.10.06 Ledru-Rollin - 1920.10.10 Richard Lenoir - 1920.10.13 Fitz
 
 > Yeah, just joking.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Mining Area, Chukotka
 
 **Hush Squad Commander:** Marguerite!
@@ -3895,7 +3893,7 @@ No answer comes. Faint burn marks on the door hint at a severe fire months ago.
 Suddenly, the sound of lab equipment crashing echoes from inside.
 
 **Enigma:** Umm, Mr. Ludwig?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · "The Original Her"
 
@@ -3920,7 +3918,7 @@ Encrypted Telegram
 
 > From the moment the first drop of rain falls, you must never hesitate and never tire.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The substitute director immediately considers many possibilities: a lab accident, time travel, unstable alchemical elements ...
 
 He pushes the door open and bursts inside.
@@ -4056,7 +4054,7 @@ The bird-headed scientist chooses to remain silent, but the cryptic response pro
 **Enigma:** Everyone's so doggedly determined. It's time I also mustered the strength to stay the course.
 
 **Enigma:** I will continue to monitor Ms. Latham's progress.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -4224,7 +4222,7 @@ Name: Ludwig Department: Laplace Staff Committee Reason: Out-of-body Experience 
 
 > Walking through this mysterious city, she sometimes feels frightened and lost—and other times, lucky.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The two accused "murderers" at last reach their safehouse to regroup.
 
 Somehow, this empty little hovel, bathed in moonlight in a deserted cemetery, manages to feel cozy and welcoming.
@@ -4530,7 +4528,7 @@ Ramona heads toward the street without hesitation.
 **Loggerhead:** Ramona, hold on.
 
 Loggerhead, limping, can't keep up.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -4540,7 +4538,7 @@ Loggerhead, limping, can't keep up.
 
 > Tonatiuh, bless the souls of the warriors. Let them break free from their cocoons. Let them return.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Family Ofrenda
 
 The night is made hazy with the smoke of an uncountable number of candles.
@@ -4718,7 +4716,7 @@ A quiet, stately building marks the end of the marigold trail.
 **Ramona:** You're kidding.
 
 **Ramona:** Of all the places ...
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -4728,7 +4726,7 @@ A quiet, stately building marks the end of the marigold trail.
 
 > Avant-garde ideals, bonds forged through shared labor, and a kindred aesthetic vision. All shared memories of the past.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 White smoke from burning copal fills the air, mixed with the scent of old books.
 
 **Ramona:** The Mexico City People's Library.
@@ -4956,7 +4954,7 @@ She reaches out and stirs the emotions before her. Joy and happiness fade at her
 She whispers the words, too difficult to speak aloud.
 
 **Teresita:** There's something—something long forgotten. I've got to find it.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · The Necessary Step
 
@@ -4981,7 +4979,7 @@ This is a land where traditions are told through murals. After the revolution, t
 
 > No eternity on earth, only a fleeting moment.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Is it real, our elusive existence?
 
 No eternity on earth, only a fleeting moment.
@@ -5331,7 +5329,7 @@ He raises a hand toward the bullet hole in the mural, as if soothing a scar that
 **Lorentz Butterfly:** I couldn't miss the grand finale.
 
 **Lorentz Butterfly:** Tell me, are you satisfied? You are the one who orchestrated it all.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -5640,7 +5638,7 @@ He raises a hand toward the bullet hole in the mural, as if soothing a scar that
 
 > The color of sacrifice, the color of symbolism, a color that never fades.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The man shows no fear as he turns toward the assassin.
 
 **Añil:** What do you make of this? Are we to have some sort of puppet master's tea party?
@@ -5832,7 +5830,7 @@ She emphasizes her words and extends a hand to him in as earnest a gesture as sh
 **Añil:** It's no easy task to craft this pigment now.
 
 **Lorentz Butterfly:** Ha, your contribution to science is appreciated.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -5842,7 +5840,7 @@ She emphasizes her words and extends a hand to him in as earnest a gesture as sh
 
 > A faithful keeper of all your secrets. The hand of fate closest to the living.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The commander's furious shouting snaps Marguerite back to reality.
 
 **Marguerite:** She's back.
@@ -5996,7 +5994,7 @@ She looks out over the snowy expanse. She can still just about spot the many foo
 **Marguerite:** One day, I'll figure out what Zeno, and a certain white house behind it, is really up to.
 
 She turns away, walking alone into the icy wilderness.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -6006,7 +6004,7 @@ She turns away, walking alone into the icy wilderness.
 
 > No guarantee of authenticity.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Hall, Foundation
 
 The gray and white tiled floor is polished smooth. It reflects people hurrying past.
@@ -6272,7 +6270,7 @@ Several mice work hard to lug over a cleaned painting and place it at her feet.
 **Lady by the Lake:** This may sound a little brash, but ...
 
 **Lady by the Lake:** Might I stay inside your Suitcase?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · Return
 

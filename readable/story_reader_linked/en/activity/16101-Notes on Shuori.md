@@ -7,8 +7,6 @@
 - Story units：`23`
 - Trail：`0`
 
-[UTTU](https://uttu.merui.net/story/event/1_6/en/?part=1)
-
 Whispers of the mysterious East.
 A team of investigators in a desolate land.
 Uncovering secrets within city walls.
@@ -46,7 +44,7 @@ Uncovering secrets within city walls.
 
 > Farewell, mother. Leave your resentments behind. This is as far as it goes; no need for goodbyes.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Bedroom, St. Petersburg
 
 "The smoke of the fatherland is sweet and pleasant to us," especially in the early morning when someone is about to travel far from home.
@@ -250,7 +248,7 @@ Yet, the two people, who put this very team together, did not anticipate such an
 **Yenisei:** ...
 
 This marks a moment of disagreement, when all the half-met measures sow the seeds of discord.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -260,7 +258,7 @@ This marks a moment of disagreement, when all the half-met measures sow the seed
 
 > Raise your hand and settle this like civilized people.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 There is neither a single voice of opposition nor one of support from their fellow travelers.
 
 If Bessmert could see their expressions, she might realize that this silent assent had actually been the sound of plotting minds.
@@ -506,7 +504,7 @@ The girl's eyes widen upon hearing these words—the expression of a hopeful epi
 Bessmert grips the glass bottle in her hand as though clinging on to one final trace of hope.
 
 **Bessmert:** They won't accept more days than that. If they won't even settle for this, I will convince them, like I did when I first got them on the team.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -516,7 +514,7 @@ Bessmert grips the glass bottle in her hand as though clinging on to one final t
 
 > This meadow is an anomaly in this environment, only possible during extreme temperature shifts. It could be caused by fungus or a mysterious creature passing through.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Bessmert did indeed succeed.
 
 On one hand, as she clearly points out the direction of her thinking and provides reasons and arguments for her judgment, her human companions are easily convinced.
@@ -768,7 +766,7 @@ Yet, through the difficulty of her present state of mind, she tries her best to 
 **Yenisei:** Please wait here. I will mark the direction and inform everyone of it.
 
 **Bessmert:** Sure.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -778,7 +776,7 @@ Yet, through the difficulty of her present state of mind, she tries her best to 
 
 > The walking man, the crouching animal. In the blink of an eye, in a fleeting moment.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The spring scenery of the steppes stretches out to the edge of the horizon.
 
 The expedition team continues to trek in the direction indicated by the river.
@@ -984,7 +982,7 @@ The outcome unfolds quite apart from everyone's expectations.
 Even though they acknowledge the untimely nature of their dispute, they are left to witness all hope of reconciliation disintegrate before them.
 
 Yenisei receives no answer, as the people standing in front of her now have lost the ability to reply.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -994,7 +992,7 @@ Yenisei receives no answer, as the people standing in front of her now have lost
 
 > A tower built of snow—how come no one has ever mentioned it before?
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Striped Horse?:** \*neighs\*
 
 **Yenisei:** No way ...
@@ -1326,7 +1324,7 @@ This time, there is no music. Yet the odd creatures follow closely in the wake o
 **Yenisei:** Do you still have the strength to walk? We need to hurry up and go after him ...
 
 Bessmert grabs Yenisei's arm and quickly chases after the piercing sound of the wind.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1336,7 +1334,7 @@ Bessmert grabs Yenisei's arm and quickly chases after the piercing sound of the 
 
 > With burning feet and a chill in our throats, we navigate the same unknown.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 In the battle between two legs and four, they find themselves on the back foot from the beginning.
 
 The burdenless horses gallop wildly as the giant bird flies further and further, leaving exhausted Bessmert and Yenisei far behind.
@@ -1448,7 +1446,7 @@ Yenisei pauses a brief moment, before she makes up her mind.
 **Yenisei:** I don't think they understand our language, even if we ask them to let us in ... Remember those herders? Almost impossible to communicate with them without an interpreter!
 
 **Bessmert:** Hope our "travel documents" can get us through that gate.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1458,7 +1456,7 @@ Yenisei pauses a brief moment, before she makes up her mind.
 
 > May you, the esteemed guests, feel right at home.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Gate
 
 According to Yenisei's description, the peculiar-looking city defenders are all clad in silver armor and bear sharp weapons in their hands.
@@ -1680,7 +1678,7 @@ He bows slightly, implying a subtle apology, and leads the two toward the city p
 **Yenisei:** Missing persons cases ...
 
 Between further topics of conversation, the two follow Lǐzhèng's guidance and, at last, pass through the city gates.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1690,7 +1688,7 @@ Between further topics of conversation, the two follow Lǐzhèng's guidance and,
 
 > Following a string of genuine exchanges, it becomes evident that honesty is essential.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Tower
 
 Lǐzhèng leads the two of them up the city wall to a connected inner chamber.
@@ -1992,7 +1990,7 @@ And the girl does not hesitate to write—
 **Lizheng:** Please hold on. I'll get it for you.
 
 The slow and steady footsteps gradually move away.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -2002,7 +2000,7 @@ The slow and steady footsteps gradually move away.
 
 > Restrain the ch-, err, restrain ... what?
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Lizheng:** This is great. With your drawing, we can issue wanted posters to find the feather man.
 
 **Yenisei:** ...
@@ -2312,7 +2310,7 @@ As she turns around, she seems to remember something and shows a remorseful look
 Everyone chuckles warmly, making way for Jiǔ Niángzǐ. Yenisei holds onto Bessmert to prevent her from falling behind.
 
 This time, they follow her without incident. Despite the strangers' otherwise eye-catching hair, everyone's attention seems focused intently on the Storyteller telling the legend.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -2322,7 +2320,7 @@ This time, they follow her without incident. Despite the strangers' otherwise ey
 
 > For your safety, do not accept invitations from strangers to visit their homes.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Not far away, Jiǔ Niángzǐ can be seen stopping near the post where the animals were tied, vaguely moving as if whispering something to them.
 
 **Jiu Niangzi:** Um, can you understand me?
@@ -2518,7 +2516,7 @@ She laughs, as though just the saying of it might render it true.
 **Jiu Niangzi:** Let's go then. Oh, the street looks beautiful later in the night. You can't miss the golden lanterns and bonfires lit on Dùshuò Festival! They light up the sky and the street as if it's daytime.
 
 **Jiu Niangzi:** Everything seems brighter at night.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -2528,7 +2526,7 @@ She laughs, as though just the saying of it might render it true.
 
 > We all walk and talk. We all have hair and eyes. We are ... not so different from each other.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 A breathtaking number of animals lie within the Zhící—a fact that only hinders their efforts to find their companions.
 
 After weighing their options, they decide to follow Jiǔ Niángzǐ and settle in at the tavern first. The weary travelers are more than eager to relieve their fatigue after journeying non-stop for so long.
@@ -2748,7 +2746,7 @@ She then watches Jiǔ Niángzǐ step onto the porch and run back into the hall a
 She takes a long breath and turns to look at the arid night sky.
 
 It seems even in a strange city like this, she can enjoy the same bright moonlight as the steppes.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -2758,7 +2756,7 @@ It seems even in a strange city like this, she can enjoy the same bright moonlig
 
 > Down the first cup, then the second, and the third. Don't stop drinking!
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The curtain of night has already fallen, but even after drinking another cup of tea promised to induce drowsiness, Yenisei finds that sleep evades her.
 
 In theory, someone so heavily fatigued, should fall fast asleep the very moment the opportunity presents itself. But not for her.
@@ -3068,7 +3066,7 @@ But Bessmert already understands.
 They decided to head towards the Zhící. Bessmert puts away the bone wand and follows Jiǔ Niángzǐ's footsteps carefully, one at a time.
 
 They leave the wooden doll standing in place, a sentinel atop the rest of the debris.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -3078,7 +3076,7 @@ They leave the wooden doll standing in place, a sentinel atop the rest of the de
 
 > After a thousand years, one finally returns to their rightful place.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Zhici
 
 Lǐzhèng is flipping through annual expense account records from previous years, worries written on his heart and wizened face.
@@ -3404,7 +3402,7 @@ The horse that had rushed into the crowd then just as immediately weaves back ou
 **Bessmert:** Ah!
 
 And it succeeds.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -3414,7 +3412,7 @@ And it succeeds.
 
 > People reminisce about the past, perhaps because they feel the present is getting worse.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Jiu Niangzi:** What, what just ran out of there?
 
 **Jiu Niangzi:** That "thing" took away the lady. What's going on?!
@@ -3680,7 +3678,7 @@ Fǎcáo rises nimbly while folding the documents, as he prepares to bid his fare
 **Lizheng:** Hopefully, the Yuān Temple, which worships the Zhíxú, will bring us good news.
 
 Having said his piece, leaving only a moment of silence. The two of them look out the window, toward the eaves of the broken bridge and the temple flickering in the misty rain.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -3690,7 +3688,7 @@ Having said his piece, leaving only a moment of silence. The two of them look ou
 
 > Truth and reflection.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The striped horse with its red mane charges through the pouring rain, carrying Bessmert.
 
 All the way, it runs with wild abandon, as if afraid of possible pursuers behind them, and perhaps to prevent the person on its back from jumping off should it slow down.
@@ -3858,7 +3856,7 @@ If the rain has stopped for good, this also means they'll need to keep moving to
 **Bessmert:** ...!
 
 **Yenisei:** Can you imagine that? He gained information by reading my bones, and then he actually told me something I didn't even know about myself.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -3868,7 +3866,7 @@ If the rain has stopped for good, this also means they'll need to keep moving to
 
 > People trust their own judgment. It's no surprise.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Yenisei:** Let me go! Where are you taking me?!
 
 **Yenisei:** You ...
@@ -4176,7 +4174,7 @@ Gětiān is startled, having never thought such an outcome might occur.
 **Yenisei:** You need to know that you are a suspect! Even though I know you are innocent, you need something absolutely persuasive to prove it.
 
 **Yenisei:** All in all, you must take me with you. My arcane skill will vindicate you.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -4186,7 +4184,7 @@ Gětiān is startled, having never thought such an outcome might occur.
 
 > What distinguishes a gem from a rock?
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Street, Inside the City - Night
 
 Only vagrants and outsiders wander the streets on the eve of the Dùshuò Festival.
@@ -4588,7 +4586,7 @@ Faced with such a scene, Gětiān is struck dumb. He can sense Yenisei's arcanis
 **Bessmert:** It's too soon to give up, Mr. Gětiān.
 
 **Bessmert:** Here ... It is your wand. Put it away, and please give this another thought.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -4598,7 +4596,7 @@ Faced with such a scene, Gětiān is struck dumb. He can sense Yenisei's arcanis
 
 > Happiness should always be the focus of a celebration, or at least it should be.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 In the tavern courtyard at night, the sky is still gloomy with the promise of rain yet to fall, and mist shrouds the heads of all present.
 
 But the festive atmosphere of the banquet seems unaffected, and the damp mist is easily dispersed by the clamor and high spirits.
@@ -4838,7 +4836,7 @@ Jiǔ Niángzǐ looks up into the air and stares straight at the looming figure o
 COMBAT:
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -4848,7 +4846,7 @@ COMBAT:
 
 > It is regrettable that such events occur in our time.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The uninvited guest is not willing to attack, even in his own defense. So a one-sided battle ensues. It is only natural that the side resigned to only evading will eventually lose.
 
 **Facao:** Surrender, and dispel your arcane skill. Turn the victims back to who they were.
@@ -5272,7 +5270,7 @@ At this point, the story has entered an unsolvable impasse.
 **Bessmert:** How many people have drunk Jiǔ Niángzǐ's liquor ...
 
 **Bessmert:** ... in the merry festival spirit?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -5282,7 +5280,7 @@ At this point, the story has entered an unsolvable impasse.
 
 > Clasp your hands, bow your head, and become a figure gazed upon.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 When the voice of this outsider fades, the fated hour also arrives. Those among the crowd who drank the liquor undergo a transformation amidst chaotic screams, as each and every one of them becomes a Lùshǔ.
 
 As Jiǔ Niángzǐ watches this irreversible scene, she is unaware that tears are already flowing down her face.
@@ -5530,7 +5528,7 @@ He rarely needs to say so much to others in such a short space of time. But sinc
 **Bessmert:** Mentioned what?
 
 **Getian:** Your bones. Among all the others, you are the only one for whom I do not recognize the markings on your bones.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -5540,7 +5538,7 @@ He rarely needs to say so much to others in such a short space of time. But sinc
 
 > Leap across the chasm and rediscover the lost unknown.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 This new discovery swiftly draws Bessmert's attention away from the broken bridge.
 
 **Bessmert:** Mm? What is that supposed to mean?
@@ -5790,7 +5788,7 @@ Without waiting for an answer, Yenisei waves from a distance and immediately run
 **Bessmert:** Bǎizǎi Nánféng Suìzhāochūn.
 
 **Bessmert:** It's indeed a rare occasion.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -5800,7 +5798,7 @@ Without waiting for an answer, Yenisei waves from a distance and immediately run
 
 > And so the river flowed.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Street, Inside the City
 
 **Storyteller:** Previously, we were at ...
@@ -5976,7 +5974,7 @@ Until at last she breaks her silence.
 **Bessmert:** Perhaps ...
 
 **Bessmert:** Perhaps we will meet again one day.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -5986,7 +5984,7 @@ Until at last she breaks her silence.
 
 > Until we meet again, in another time, in another place.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The party journeys along the river for a long time, but the night never falls.
 
 Most of them are in a hurry to leave—the same desire as before, but now much stronger than ever before, more than enough to bring the long-awaited harmony of a common purpose to the team.
@@ -6136,7 +6134,7 @@ She flips over a page and continues reading.
 **Sonetto:** And her name is ...
 
 **Sonetto:** Yenisei.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---

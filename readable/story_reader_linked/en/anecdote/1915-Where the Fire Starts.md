@@ -7,8 +7,6 @@
 - Story units：`6`
 - Trail：`0`
 
-[UTTU](https://uttu.merui.net/story/anecdote/blonney/en/?part=1)
-
 Inside the Penumbra Can,
 Covered in a layer of dust,
 Are stories buried in the depths of time.
@@ -29,7 +27,7 @@ Are stories buried in the depths of time.
 
 > The view from the back seat is just as nice.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 March 11, 17:26, rainy.
 
 March 11, 17:26, rainy.
@@ -245,7 +243,7 @@ A light breeze flutters up the threadbare curtains on her window.
 She cracks the window fully open, and a symphony pours in—the soft, rhythmic patter of rain, punctuated by yells, shattering glass, and the click-clack echoes of high heels coming from the restaurant.
 
 **Blonney:** Geez, can you all quiet the hell down!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -255,7 +253,7 @@ She cracks the window fully open, and a symphony pours in—the soft, rhythmic p
 
 > How could a show revolving around a mundane protagonist and insignificant side characters ever become a hit?
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 March 12, 18:22, rainy.
 
 March 12, 18:22, rainy.
@@ -473,7 +471,7 @@ A boy's face, identical to that of the boy in the photo.
 **Blonney:** ...!
 
 The boy's eyes glimmer in the darkness, as wide and black as a baby deer caught in the headlights.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -483,7 +481,7 @@ The boy's eyes glimmer in the darkness, as wide and black as a baby deer caught 
 
 > It is only when we fall to the level of fleas that we come closest to death.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 March 13, 00:04, cloudy.
 
 March 13, 00:04, cloudy.
@@ -657,7 +655,7 @@ Distant thunder rumbles, and heavy, wet raindrops begin to fall, drowning out th
 She is struck hard on the left side of her head, and her vision fades to black.
 
 **Blonney:** Ugh.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -667,7 +665,7 @@ She is struck hard on the left side of her head, and her vision fades to black.
 
 > Maintaining its essence, yet surpassing its kind, it shows them all what a true heartbeat is.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 March 13, 14:28, rainy.
 
 March 13, 14:28, rainy.
@@ -789,7 +787,7 @@ Hey, little guys.
 Please, you've gotta help me!
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -799,7 +797,7 @@ Please, you've gotta help me!
 
 > The fire fulfills its blazing duty, quietly humming a song of its own.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 March 13, 20:30, rainy.
 
 March 13, 20:30, rainy.
@@ -1005,7 +1003,7 @@ The car hums gently and rhythmically. Elizabeth Fraser's voice drifts through a 
 "Nine night of matter, black flowers blossom, fearless on my breath."
 
 As the car speeds away, fire bursts out from the windows of the Night Owl Inn, as if the building were sighing in long-awaited relief.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1015,7 +1013,7 @@ As the car speeds away, fire bursts out from the windows of the Night Owl Inn, a
 
 > When lips moisten, twilight plunges into the well of revelry.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The pulsating sounds of Massive Attack blare out from the radio, making the world around them vibrate. Despite the noise, Blonney finds her own rhythm.
 
 She races down the interstate. Her wheels grind on asphalt as primal screams snarl out from the back seat.
@@ -1153,7 +1151,7 @@ March 14, 18:00, clear.
 At the end of our film, the protagonist drives off into the sunset, alone, in a rented car.
 
 She knows—its loyal groans and the wind rushing past her will always be intertwined with those memories.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---

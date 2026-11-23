@@ -7,8 +7,6 @@
 - Story units：`9`
 - Trail：`0`
 
-[UTTU](https://uttu.merui.net/story/character/kiperina/en/?part=1)
-
 Farewell to a tomorrow swept by rain,
 Journeying forth on a long campaign,
 The past whispers of spring's refrain.
@@ -30,7 +28,7 @@ The past whispers of spring's refrain.
 <a id="episode-2770101"></a>
 ## 2770101 · Earthbound
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Again and again, she has been haunted by the same dream.
 
 In it, her eyes are clouded by mist, and when she tries to speak, her words come out garbled.
@@ -216,7 +214,7 @@ Kiperina closes the office door behind her and lets out a soft sigh.
 **Name Day:** Miss Kiperina, is something the matter?
 
 **Name Day:** I'm surprised to see our brave astronaut looking so glum.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -224,7 +222,7 @@ Kiperina closes the office door behind her and lets out a soft sigh.
 <a id="episode-2770102"></a>
 ## 2770102 · A Long Winter
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 A rather surprising duo approaches from the far end of the hallway.
 
 **Name Day:** I assumed Hissabeth summoned you to tell you about the banquet, yes?
@@ -346,7 +344,7 @@ Though he favors a more measured pace, it's clear the person across from him see
 **Hissabeth:** It's a good thing. It means she's tough, and I'd bet she's better than any of us at finding the right balance.
 
 **Hissabeth:** Before she sets sail, she needs to decide on her destination for herself.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -354,7 +352,7 @@ Though he favors a more measured pace, it's clear the person across from him see
 <a id="episode-2770103"></a>
 ## 2770103 · Doomsday
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Kiperina reaches the end of the hallway, wearing a heavy frown, then turns back, her steps tracing the same path again and again.
 
 **Kiperina:** Hmm.
@@ -590,7 +588,7 @@ At last, a voice rings out through the howling wind, different from the one she 
 **Woman:** Heavens! Come on, child, pick yourself up, please.
 
 As her last shred of consciousness fades, two arms—warm and strong, just like she remembered—wrap around her.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -598,7 +596,7 @@ As her last shred of consciousness fades, two arms—warm and strong, just like 
 <a id="episode-2770104"></a>
 ## 2770104 · A Warm Place in the North
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Kiperina:** Hmm?
 
 The soothing sound of a faint metallic clink reaches her dreams, and Kiperina stirs up from her slumber.
@@ -740,7 +738,7 @@ The sound of rummaging through boxes moves sporadically around until, after a mo
 Kiperina thinks for a moment before lifting the blanket from herself.
 
 **Kiperina:** Maybe I can fix it. Can I take a look?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -748,7 +746,7 @@ Kiperina thinks for a moment before lifting the blanket from herself.
 <a id="episode-2770105"></a>
 ## 2770105 · Days of Yore
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Han Zhang:** Yes! That's the ticket!
 
 After a few flickers, the lights inside the room come back on.
@@ -874,7 +872,7 @@ Pride shines in the woman's eyes, but her smile changes.
 **Woman:** Blood ran from the house all the way outside, and our child was gone.
 
 **Woman:** They called it a punishment from hell itself.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -882,7 +880,7 @@ Pride shines in the woman's eyes, but her smile changes.
 <a id="episode-2770106"></a>
 ## 2770106 · Between the Wind and Snow
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Kiperina is left speechless for a moment. She never imagined the story would take a turn like this.
 
 **Kiperina:** I'm so sorry. That's such a horrible thing to have happened to you.
@@ -1074,7 +1072,7 @@ Fortunately, the sound of the door opening breaks the pause before it looms too 
 **Boy:** I knew you were here, Mamma! But you didn't tell us this time.
 
 **Boy:** Uhm. Who's this lady?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1082,7 +1080,7 @@ Fortunately, the sound of the door opening breaks the pause before it looms too 
 <a id="episode-2770107"></a>
 ## 2770107 · Message from Afar
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Woman:** Anton, Yulia! How many times do I have to tell you? Why won't you ever listen to me?
 
 **Woman:** It's such a long journey here. What if something had happened to you during that storm?
@@ -1260,7 +1258,7 @@ She reaches into her pocket.
 **Kiperina:** Maybe I can take you there.
 
 **Kiperina:** To Utrennyaya.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1268,7 +1266,7 @@ She reaches into her pocket.
 <a id="episode-2770108"></a>
 ## 2770108 · The Days After
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Circus Member:** Welcome, welcome, distinguished guests!
 
 **Circus Member:** I guarantee today's performance will exceed your wildest expectations!
@@ -1542,7 +1540,7 @@ Kiperina laughs along.
 **Kiperina:** Yes, Ms. Hissabeth. Look.
 
 **Kiperina:** Spring is here already.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1550,13 +1548,13 @@ Kiperina laughs along.
 <a id="episode-2770109"></a>
 ## 2770109 · Challenge Stage
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 ***
 
 **GAMEPLAY ONLY**
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---

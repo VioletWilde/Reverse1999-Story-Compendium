@@ -7,8 +7,6 @@
 - Story units：`8`
 - Trail：`0`
 
-[UTTU](https://uttu.merui.net/story/character/nautika/en/?part=1)
-
 Rocks, curiosity, and an explorer's dreams—
 these form the foundations of her world,
 now the long-sought promise of another
@@ -30,7 +28,7 @@ spring lies before her, just within her grasp.
 <a id="episode-2890001"></a>
 ## 2890001 · Little Explorers
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Nautika:** \*panting\*
 
 **Friele:** Nautika, slow down. Wait for me.
@@ -284,7 +282,7 @@ Through the window, they see his granddaughter bent over her map, bobbing her he
 **Rolf:** We're going to Antarctica. Let's make sure this opportunity isn't wasted.
 
 **Rolf:** Make the preparations.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -292,7 +290,7 @@ Through the window, they see his granddaughter bent over her map, bobbing her he
 <a id="episode-2890002"></a>
 ## 2890002 · The Winner's Prize
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Bedroom - Night
 
 **Nautika:** Áddjá, are you going to go to that maze again? Are you going to break something off that big piece of rock this time?
@@ -528,7 +526,7 @@ Perhaps she had lingered too long at the edge of death to feel any joy in surviv
 Only her grandfather's voice, calling her name again and again, yanks her back from the dark's edge.
 
 **Nautika:** ...!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -536,7 +534,7 @@ Only her grandfather's voice, calling her name again and again, yanks her back f
 <a id="episode-2890003"></a>
 ## 2890003 · A Miraculous Journey
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 I'd never missed a single day before then, not since I first began writing in this diary. I wrote every detail of my life.
 
 But now, this habit scares me. I force myself to write down every detail … only to black it all out later.
@@ -848,7 +846,7 @@ The next second, he pushes himself upright, lifts his head, and raises one hand 
 A heavy silence falls, but Nautika steps forward, drawn to the stone despite the ravings of this man who only seems to resemble her grandfather.
 
 Her gaze holds on it.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -856,7 +854,7 @@ Her gaze holds on it.
 <a id="episode-2890004"></a>
 ## 2890004 · Empty Tales
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Everyone else concluded that Áddjá never really returned from Antarctica, but there were times when I still saw him—moments where he became himself again.
 
 Only Friele and I were there to see it. In those times, Áddjá told us about everything he discovered on his journey.
@@ -1084,7 +1082,7 @@ And in its glow, she finally sees where she is.
 A pulsing stomach filled with viscous black fluid. Countless souls have been digested here.
 
 She is simply one more.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1092,7 +1090,7 @@ She is simply one more.
 <a id="episode-2890005"></a>
 ## 2890005 · Confession of Failure
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Nautika:** ...
 
 **Nautika:** Is this ... the end?
@@ -1238,7 +1236,7 @@ Years of mental frenzy have long silenced the once wise and fearless expedition 
 They embrace, just as they did on their first adventure.
 
 Even though they know their journey will be unlike any before.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1246,7 +1244,7 @@ Even though they know their journey will be unlike any before.
 <a id="episode-2890006"></a>
 ## 2890006 · Passage to the Light
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Nautika:** ... They died. All of them.
 
 **Nautika:** They left me here alone.
@@ -1390,7 +1388,7 @@ The calf stops by the riverbank. The two of them look out across the water, seei
 The fathomless river blocks their way. The calf's hooves scuff against damp earth, hesitant.
 
 **Spirit I:** You have to turn back before you get completely lost.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1398,7 +1396,7 @@ The fathomless river blocks their way. The calf's hooves scuff against damp eart
 <a id="episode-2890007"></a>
 ## 2890007 · Crossroads
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Nautika:** You don't want to go through that gate either, do you?
 
 Her flickering form draws closer to the calf, trying to ignore the tender, urging calls whispering at the edge of her mind.
@@ -1528,7 +1526,7 @@ She surfaces from the black water—the illusion of home, the radiant gate, the 
 **Reindeer:** ...
 
 The silent calf remains, her guide back into the depths of darkness.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1536,7 +1534,7 @@ The silent calf remains, her guide back into the depths of darkness.
 <a id="episode-2890008"></a>
 ## 2890008 · Back to Me
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Nautika:** I'm still here ... I haven't vanished.
 
 In the darkness, she tries to confirm her own existence. She is weak and faint, but thought after thought still forms in her mind.
@@ -1814,7 +1812,7 @@ Her consciousness breaks free from the eroding waves of darkness, flickering wit
 A light that comes from within.
 
 Then, toward her reflection, she leaps into the depths of the pool.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---

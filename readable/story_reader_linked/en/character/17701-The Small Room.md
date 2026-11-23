@@ -7,8 +7,6 @@
 - Story units：`8`
 - Trail：`0`
 
-[UTTU](https://uttu.merui.net/story/character/isolde/en/?part=1)
-
 A small, narrow room with a plain door.
 A vase of violets sits on the table.
 No, there's nothing to see here at all.
@@ -29,7 +27,7 @@ No, there's nothing to see here at all.
 <a id="episode-1770101"></a>
 ## 1770101 · Dog Door
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Ring Road
 
 **Admirer I:** Sad news indeed. Ah, most unfortunate and disappointing news!
@@ -409,7 +407,7 @@ She draws a small circle on her chest, marking the location of the wound.
 **Trista:** ... She would've seen what I saw. Hundreds of soldiers lying dead on a battlefield, children orphaned before their very eyes, the endless explosions, and those golden rabbits ...
 
 **Trista:** I was this close to having a little sister who's just like me.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -806,7 +804,7 @@ She draws a small circle on her chest, marking the location of the wound.
 <a id="episode-1770102"></a>
 ## 1770102 · A Hundred Spoons
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Front Lobby
 
 **Dittarsdorf:** Glad to have you here, old friend.
@@ -1026,7 +1024,7 @@ He cuts through the cake with his fork, precisely avoiding the molding edge.
 He savors the cake, a smile growing on his face.
 
 **Karl:** Isolde is that new confectionary. Freshly out of the oven and waiting to be served.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1265,7 +1263,7 @@ He savors the cake, a smile growing on his face.
 <a id="episode-1770103"></a>
 ## 1770103 · Blissful Decadence
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Bedroom
 
 **Isolde:** ... Ha.
@@ -1595,7 +1593,7 @@ But her eyes flicker towards the door. With Theophil gone, it is shut again. Onl
 **Isolde:** Mother passed that talent down to me instead of her firstborn son. I suppose it's unfair to him.
 
 Under her father's silent gaze, Isolde turns and makes her way to the other end of the house.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1944,7 +1942,7 @@ Under her father's silent gaze, Isolde turns and makes her way to the other end 
 <a id="episode-1770104"></a>
 ## 1770104 · Mirror of Tears
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **???:** Hello, excuse me ... What is this place?
 
 A timid face appears in the dark. Bewildered and uneasy, its owner wipes her hands on her dress, where there once was an apron.
@@ -2152,7 +2150,7 @@ She is leaning forward so far that she is no longer sitting in her chair. This m
 Isolde takes her hand.
 
 **Isolde:** It's a privilege to make your acquaintance.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -2379,7 +2377,7 @@ Isolde takes her hand.
 <a id="episode-1770105"></a>
 ## 1770105 · Gray Eyes
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **???:** Yes, yes. She is Salome.
 
 **???:** She's mine ...
@@ -2789,7 +2787,7 @@ Trista's hand pulls you near.
 You look back. The gray door is still cloaked in darkness.
 
 In front of it, a gray eye, wet and hard like a pebble at the bottom of a river, is gazing at you.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -3218,7 +3216,7 @@ In front of it, a gray eye, wet and hard like a pebble at the bottom of a river,
 <a id="episode-1770106"></a>
 ## 1770106 · By the Curtains
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Front Lobby
 
 **Isolde:** Mother, I'm home! ... Mother?
@@ -3394,7 +3392,7 @@ Trista steps back, melting into the shadow just as she had appeared from it.
 **Trista:** There's another door. You should take a look.
 
 **Trista:** Go find it. It's right by you. Go on, look for it. I assure you, it's there.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -3589,7 +3587,7 @@ Trista steps back, melting into the shadow just as she had appeared from it.
 <a id="episode-1770107"></a>
 ## 1770107 · Ordinary Door
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 After a brief search, you find the door.
 
 A door of distress. There are white candles burning beside it. You hear the whimpering sobs of someone's friends and family.
@@ -3723,7 +3721,7 @@ She notices the green feathers in Kakania's hat flick in the crowd.
 Now the feathers jiggle cheerfully. Kakania swims against the current, returning to the gate.
 
 **Kakania:** You're my greatest friend in all Vienna! I'd be more than happy to help!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -3876,7 +3874,7 @@ Now the feathers jiggle cheerfully. Kakania swims against the current, returning
 <a id="episode-1770108"></a>
 ## 1770108 · A Golden Key
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Isolde:** I have a small room. It has a simple door.
 
 **Isolde:** The room is cramped. It's a truly tiny little room.
@@ -4230,7 +4228,7 @@ She's not a door. I was wrong. Very wrong.
 She is a key.
 
 The key that will finally unlock my door.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>

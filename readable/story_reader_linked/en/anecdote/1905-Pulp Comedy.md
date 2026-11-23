@@ -7,8 +7,6 @@
 - Story units：`6`
 - Trail：`0`
 
-[UTTU](https://uttu.merui.net/story/anecdote/alien_t/en/?part=1)
-
 Inside the Penumbra Can,
 Covered in a layer of dust,
 Are stories buried in the depths of time.
@@ -29,7 +27,7 @@ Are stories buried in the depths of time.
 
 > For the sake of a great cause, some must suffer.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Sotheby:** Mr. aliEn T, I'm back—
 
 **Sotheby:** Huh? Mr. aliEn T?
@@ -295,7 +293,7 @@ After aliEn T leaves, X, who has been standing behind the attic door, pokes his 
 **X:** You have to face reality, my friend. That little metal gentleman is going to get away.
 
 **X:** Enough chit-chat. Ladies and gentlemen of the tracking team, we must pick up the pace!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -584,7 +582,7 @@ After aliEn T leaves, X, who has been standing behind the attic door, pokes his 
 
 > Be quiet, my dear little wolf. Be still.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Mondlicht:** It smells like ... Vertin, and X, and Oliver Fog—achoo!
 
 **Mondlicht:** They smell like ... potions. Pungent.
@@ -856,7 +854,7 @@ There will be many lights illuminating sad faces tonight, and countless people w
 **aliEn T:** ... What kind of stalkers are these people?! I have to find a place to hide!
 
 **aliEn T:** Huh? Wait, this is ...
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1141,7 +1139,7 @@ There will be many lights illuminating sad faces tonight, and countless people w
 
 > A window can symbolize optimism, desire, a new beginning, and endless possibilities.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Messy Room
 
 **aliEn T:** ... where I was spotted earlier ... I didn't think the window would still be open.
@@ -1459,7 +1457,7 @@ Williams' furious shouts don't scare anyone; they just laugh even louder.
 **Mondlicht:** ... He left.
 
 **The police:** Alright, time to take your information, beginning with the little girl—what's your name?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1790,7 +1788,7 @@ Williams' furious shouts don't scare anyone; they just laugh even louder.
 
 > Everyone has a story to tell, and it's not unusual.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **aliEn T:** Maybe I should find some magazines to read. It'll help pass the time. I could even gather some information ...
 
 Having nowhere to go, he idly circles the room.
@@ -2030,7 +2028,7 @@ He tosses them out under the door.
 **Mondlicht:** I just need a moment ...
 
 **Mondlicht:** Found him. Come with me.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -2291,7 +2289,7 @@ He tosses them out under the door.
 
 > For a brief moment, I walked side by side with you.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **The police:** Captain Williams!!!
 
 At the other end of the corridor, the members of Williams' squad are climbing the old, rickety staircase.
@@ -2455,7 +2453,7 @@ His arm sways three times to the left and right, as if it is trembling from the 
 The last thing aliEn T sees is Williams' arm stretched straight up into the sky.
 
 —Goodbye, friend.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -2634,7 +2632,7 @@ The last thing aliEn T sees is Williams' arm stretched straight up into the sky.
 
 > A mixture of egg and milk, a special non-alcoholic drink for children. The only choice at the moment.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Sotheby:** Oh my! What a thrilling and exciting adventure you've had!
 
 **Sotheby:** If only I had gone along too! I'm sure the people there have never seen anything like Sotheby's Special Potions. I bet they would have been a big hit—and I could have been on television too!
@@ -2736,7 +2734,7 @@ aliEn T raises his glass in the air. Jazz music for a friend paired with a drink
 **aliEn T:** To my beautiful T-9910.2 ...
 
 **aliEn T:** To my sweet ... darling ... C-00138 ...
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>

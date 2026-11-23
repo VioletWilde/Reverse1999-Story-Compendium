@@ -7,8 +7,6 @@
 - Story units：`8`
 - Trail：`0`
 
-[UTTU](https://uttu.merui.net/story/character/kaalaa_baunaa/en/?part=1)
-
 There have always been those who reach out for the stars,
 though they lie light-years away,
 it might take tireless work,
@@ -31,7 +29,7 @@ but eventually the stars will stop twinkling before your eyes.
 <a id="episode-90000501"></a>
 ## 90000501 · The Procrastination Syndrome
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 ***
 
 **Prologue: The Procrastination Syndrome**
@@ -235,7 +233,7 @@ Inside the institution, the proposals you ignored are starting to groan ...
 They can no longer stand this deliberate neglect. Driven by hunger, they grow larger and larger as they search for the one to blame ...
 
 Until finally, they break the restraints of their vessel and come after you with ravenous intent...
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -243,7 +241,7 @@ Until finally, they break the restraints of their vessel and come after you with
 <a id="episode-90000502"></a>
 ## 90000502 · Twinkling Stars
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 ***
 
 **Prologue: Twinkling Stars**
@@ -395,7 +393,7 @@ You know that this is far from over, a nightmare still looms ahead, and you've o
 Your colleagues are about to wake up, yet what you need is a dream in quietude.
 
 You get into the car and isolate yourself. Soon you pass out and sink into the depths of your consciousness.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -403,7 +401,7 @@ You get into the car and isolate yourself. Soon you pass out and sink into the d
 <a id="episode-90000503"></a>
 ## 90000503 · Confrontation
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 ***
 
 **Prologue: Confrontation**
@@ -537,7 +535,7 @@ You can't help but heave a sigh of relief.
 You look outside and see the monster reduced to the size of a cat, purring with satisfaction—your speech was remarkably effective.
 
 The crowd disperses, but the next interrogation approaches. You don't have much time to compose yourself.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -545,7 +543,7 @@ The crowd disperses, but the next interrogation approaches. You don't have much 
 <a id="episode-90000504"></a>
 ## 90000504 · The Art of Defense
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 ***
 
 **Prologue: The Art of Defense**
@@ -685,7 +683,7 @@ Obviously, these suggestions are much more useful than their interrogations. It 
 **Kaalaa Baunaa:** Whew...
 
 So far you still have not noticed the black star floating above your head ...
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -693,7 +691,7 @@ So far you still have not noticed the black star floating above your head ...
 <a id="episode-90000505"></a>
 ## 90000505 · Either This or That
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 ***
 
 **Prologue: Either This or That**
@@ -857,7 +855,7 @@ Ironically, it reads "Kumar".
 But yet...she was always been the one who supported your predictions the most.
 
 The star hanging above your head wobbles and sways...
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -865,7 +863,7 @@ The star hanging above your head wobbles and sways...
 <a id="episode-90000506"></a>
 ## 90000506 · The Fading Stars
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 ***
 
 **Prologue: The Fading Stars**
@@ -1081,7 +1079,7 @@ The report burns. Words turn to ash and dissolve into the air...
 **Kaalaa Baunaa:** ...!
 
 You try to put out the fire, but what's left of the report turns to dust in the palm of your hand.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1089,7 +1087,7 @@ You try to put out the fire, but what's left of the report turns to dust in the 
 <a id="episode-90000507"></a>
 ## 90000507 · Celestial Bodies and Mythologies
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 ***
 
 **Prologue: Celestial Bodies and Mythologies**
@@ -1341,7 +1339,7 @@ Aside from avoiding the peaks of solar radio emissions, the radio telescope has 
 Your heart is being squeezed, as if you were holding it in your hand.
 
 **Kaalaa Baunaa:** So, the conclusion is ...
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1349,7 +1347,7 @@ Your heart is being squeezed, as if you were holding it in your hand.
 <a id="episode-90000508"></a>
 ## 90000508 · Dust and Stars
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 ***
 
 **Prologue: Dusts and Stars**
@@ -1523,7 +1521,7 @@ You point to the faded writing, as if she were still stubbornly inviting you to 
 You put a form on his desk.
 
 **Kaalaa Baunaa:** Have you...considered becoming formal researcher?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---

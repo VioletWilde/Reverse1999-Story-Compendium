@@ -7,8 +7,6 @@
 - Story units：`8`
 - Trail：`0`
 
-[UTTU](https://uttu.merui.net/story/anecdote/an-an_lee/en/?part=1)
-
 Inside the Penumbra Can,
 Covered in a layer of dust,
 Are stories buried in the depths of time.
@@ -31,7 +29,7 @@ Are stories buried in the depths of time.
 
 > All non-renters, please keep quiet.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Hallway, Deep in the Night
 
 Treading lightly through the maze of candles and piled paper, the team moves with deliberate caution, their steps barely making a sound.
@@ -157,7 +155,7 @@ The man's collar is stained yellow with neck grease. As he crouches, his grimy u
 One hand scratches an ankle to a foot jammed in a loose and tattered flip-flop.
 
 **An-an Lee:** Sifu?!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -167,7 +165,7 @@ One hand scratches an ankle to a foot jammed in a loose and tattered flip-flop.
 
 > A child who prefers midnight even more than a moth might.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Walled City
 
 In this dilapidated Walled City, newspapers once laid on the ground by the homeless now flutter and drift through the air.
@@ -353,7 +351,7 @@ He wrenches himself free from the small hand clinging to his clothes and slips i
 **Strange Man:** Go get your head checked at the department of neurology!
 
 **An-an Lee:** Wait!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -363,7 +361,7 @@ He wrenches himself free from the small hand clinging to his clothes and slips i
 
 > Look inside, and all you'll see is darkness rushing in like a tide.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Abandoned Cabin
 
 The floor is strewn with yellowed newspapers. Moths flutter around the lampshade in endless circles.
@@ -641,7 +639,7 @@ But the chain remains unmoved.
 **Demi-Divine Chen:** It's worth the risk. Who knows? Even a bicycle could turn into a motorcycle.
 
 ...
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -651,7 +649,7 @@ But the chain remains unmoved.
 
 > Untie the binding knots of fear.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 You can hear them, can't you?
 
 You can hear them, can't you?
@@ -857,7 +855,7 @@ With a final splutter of water, she takes a gasp of air.
 Clutched in her palm, wrapped in red binding thread, is a mysterious-looking ...
 
 Lily.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -867,7 +865,7 @@ Lily.
 
 > Playtime begins at midnight.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Blind Fortune Teller:** Some sixty or seventy years ago, archaeologists came across bamboo slips inscribed with talismans to drive away evil spirits hidden among the Eastern Han tombs, along with the dozens of sealed wells.
 
 **Blind Fortune Teller:** The story behind the sealed wells remains a mystery. The professors studying those ancient texts refuse to speak about them.
@@ -1345,7 +1343,7 @@ He knows An-an's heart well by now.
 He steps past the spirit-summoning banners stuck by the door, waves his hand, and exits.
 
 **Demi-Divine Chen:** You see that, you blind fool? I've outsmarted destiny.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1355,7 +1353,7 @@ He steps past the spirit-summoning banners stuck by the door, waves his hand, an
 
 > Worse than fear itself is what hasn't yet arrived.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Demi-Divine Chen:** The night before I left the country, I kept thinking, once I get there, I'll be able to break free from my calamity once and for all.
 
 **Demi-Divine Chen:** This time, I'll start fresh, open an exorcism agency in Los Angeles, and live a decent life—a life better than I've ever lived before.
@@ -1463,7 +1461,7 @@ I had to kill An-an Lee with my own two hands.
 **Demi-Divine Chen:** Hey, Ruth, Tony, it's Chen. You guys got time?
 
 **Demi-Divine Chen:** I have a way to help you clean up Chinatown. Meet me at the lighthouse tomorrow at 3 p.m.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1473,7 +1471,7 @@ I had to kill An-an Lee with my own two hands.
 
 > A draw isn't equal to half a loss!
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 She lifts her chin, finding a stubbled face and a pair of weary, sunken eyes before her.
 
 The man's collar is stained yellow with neck grease. As he crouches, his grimy underwear peeks out from his slouchy pants.
@@ -1695,7 +1693,7 @@ Sorry, but this is the last time.
 Heh … kiddo … good, very good …
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1705,7 +1703,7 @@ Heh … kiddo … good, very good …
 
 > With some proper etiquette, unexpected rewards may follow.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Joint Committee of SF
 
 **Horropedia:** We spoke to the other two members of the Paranormal Affairs Bureau, and they've confirmed that they were part of the trap your Sifu set up. He brought them in to force you out of Chinatown.
@@ -1847,7 +1845,7 @@ Leisurely footsteps echo from afar, accompanied by a casual whistling.
 **An-an Lee:** Huh? What's with all the commotion today? Ah! Looks like we've got some new business coming our way!
 
 **An-an Lee:** The Neo-Science Exorcism Office, action!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---

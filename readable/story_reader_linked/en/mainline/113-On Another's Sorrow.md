@@ -7,8 +7,6 @@
 - Story units：`25`
 - Trail：`24`
 
-[UTTU](https://uttu.merui.net/story/main/chapter-13/en/?part=1)
-
 1921 · Peace at a Price
 
 ## Contents
@@ -46,7 +44,7 @@
 
 > Before the dust settles.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Countdown to the "Storm" : 05:00
 
 Courtroom
@@ -282,7 +280,7 @@ Only once she's outside the ward does Merel allow the worry on her face to show.
 **Merel:** Got it. I hope the school shuttle's still running. I haven't been back since I graduated.
 
 **Vertin:** Take it as a good chance to revisit, then. Sonetto and I will join you soon.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -583,7 +581,7 @@ Complaints From a Part-Time Guard
 
 > A pure and pristine song.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Hallway, St. Pavlov Foundation
 
 **Captain Osborn:** Paravyan, Yermolai, front and center, please.
@@ -853,7 +851,7 @@ Matilda glances downward as she pulls a piece of paper from her pocket. She's do
 **Lavender:** Well, about that, I followed the instructions of your divination to the classroom building and dorm, but there was no sign of him at all.
 
 **Lavender:** And I received a new message from Ms. Fogel. She said there was another student missing during the attendance call at the opening ceremony.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1157,7 +1155,7 @@ Legends of the School Watchtowers
 
 > Some school traditions run older than the oak trees in the forest.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 George the Oak
 
 The passage of time has done little to change the face of the old oak. Years pass by as fleeting moments, but it remains as it ever was.
@@ -1411,7 +1409,7 @@ The office behind the opening door is barren of any identity, a symptom both of 
 The woman in question lifts her head from the neat stacks of files on her desk.
 
 **Ms. Stranger:** Long time no see, Timekeeper, Sonetto.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1735,7 +1733,7 @@ Improved Invisible Ink Formula
 
 > Only by opening it can we know what's inside—but should we really?
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Countdown to the "Storm" : 03:30
 
 **Vertin:** You still look pale, Ms. Stranger.
@@ -1953,7 +1951,7 @@ She produces a capsule-shaped item.
 **Marguerite:** Really? Either way, I'm sure being the Timekeeper has given you more than enough experience to handle it.
 
 Marguerite hands over the capsule with a practiced smile.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -2207,7 +2205,7 @@ Classification: High Patient Codename: Moth Medical Record: Examination reveals 
 
 > It seems they could stand there in silence forever.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Top Floor, Central Watchtower
 
 **Merel:** Whoa!
@@ -2475,7 +2473,7 @@ Her hand flits over the communicator as she switches lines.
 Marguerite interjects with an understated satisfaction.
 
 **Marguerite:** I may be able to help.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -2752,7 +2750,7 @@ Marguerite interjects with an understated satisfaction.
 
 > A bird flies on more than wings alone.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Matilda dodges nimbly around the cascade of rubble. She can see the cracks forming over the cement ceiling, leading to only one conclusion.
 
 **Matilda:** That explosion came from the top of the tower. No, it can't be. They must be targeting the Shelter Dove.
@@ -3080,7 +3078,7 @@ The captain of the First Squad comes over.
 **Lopera:** First Squad assembled. Captain Osborn, we're ready to go!
 
 **Captain Osborn:** Alright! Get moving!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -3408,7 +3406,7 @@ Running Out of Disks
 
 > Legends never belong to those who live them. No one knows what the ones that follow added to their story.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Team Timekeeper's Room
 
 **Regulus:** What in the name of Penny Lane is going on out there?
@@ -3714,7 +3712,7 @@ Lavender never imagined she'd run into so many "campus legends" all at once.
 **Vertin:** Could you tell me more about the situation here? We need all the details.
 
 **Lavender:** Of course, but it might be better to go somewhere that the other students can't hear us.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -4039,7 +4037,7 @@ Lavender never imagined she'd run into so many "campus legends" all at once.
 
 > Rockslides are just the beginning of their problems.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Study Room, Library
 
 **Lavender:** That's everything I know.
@@ -4249,7 +4247,7 @@ The ring of his communicator rescues "Razor" from an imminent clash of organizat
 **J:** You not coming with?
 
 **"Razor":** I've got new orders.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -4499,7 +4497,7 @@ The Wearable Equilibrium Umbrella is a compact version of the standard Equilibri
 
 > What could be more pressing than the work right in front of us?
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Foundation Office
 
 **Operation Team Leader I:** No comms from the First Squad?
@@ -4769,7 +4767,7 @@ Ms. Stranger raises her head.
 **Arcana:** Come hither, child. For I carry a gift that should have long ago been bestowed upon thee.
 
 **Ms. Stranger:** ...!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -5102,7 +5100,7 @@ The Everlasting Chaos
 
 > One must have the wisdom to adapt to endless change in the face of what never changes.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Countdown to the "Storm" : 01:35
 
 Courtroom
@@ -5432,7 +5430,7 @@ Ultimately, nothing on these shelves suits the cold-eyed woman.
 **Ms. Stranger:** Allow me to start with a list of the Manus's high-level figures and their basic information.
 
 **Ms. Stranger:** We can't be sure just how many of them are part of this attack, but if you run into any of them, please be extra careful.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -5778,7 +5776,7 @@ Manus Vindictae Leaders
 
 > Now each of us must find our own way forward.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Lopera:** Help me get Paravyan over here, and remember to keep yourself in my smoke at all times.
 
 They crouch low and drag Paravyan behind cover.
@@ -6094,7 +6092,7 @@ He picks one up and strokes it.
 The president holds the dove to the window.
 
 **President:** May the peace be with us.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -6463,7 +6461,7 @@ Burn After Reading
 
 > What you learn in school isn't always useless—run into enough trouble, and you'll find a moment to put it to use.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Book Stacks, Library
 
 **Merel:** Excuse me, miss. May I borrow this book?
@@ -6781,7 +6779,7 @@ A moment later, Lavender bursts into the study room.
 Lavender takes a deep breath and offers a solemn nod.
 
 Ten seconds pass. Then, a little blackbird clumsily flies from the library's north-facing window.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -7120,7 +7118,7 @@ Ten seconds pass. Then, a little blackbird clumsily flies from the library's nor
 
 > Life finds a way, as it always has.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Foundation Office
 
 **Soldier I:** Have you lost your mind? Get out from under there, now.
@@ -7432,7 +7430,7 @@ She smiles and hands over a mask that Ms. Stranger is all too familiar with.
 **Lorentz Butterfly:** A friendly warning: this may corrupt you, and without the Phototaxis's protection, its effects could be permanent.
 
 **Ms. Stranger:** Your warning is appreciated, truly, Researcher Marguerite.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -7833,7 +7831,7 @@ END OF DIALOGUE
 
 > Still and unmoved.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Countdown to the "Storm" : 01:10
 
 Countdown to the "Storm" : 01:00
@@ -8147,7 +8145,7 @@ Then, with a flick of her wrist, Arcana sends Nautika and all the people, object
 ...
 
 **Arcana:** At last, some peace and quiet.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -8493,7 +8491,7 @@ Dear and wonderful Ms. Nautika, Laplace Scientific Computing Center has taken a 
 
 > A path cleared ahead of you.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Countdown to the "Storm" : 00:45
 
 Countdown to the "Storm" : 01:10
@@ -8729,7 +8727,7 @@ Dust swirls in the air.
 **Vertin:** But you're not Arcana.
 
 **Vertin:** You are the true creator of this "boon."
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -8972,7 +8970,7 @@ Dust swirls in the air.
 
 > Don't worry—the guide hasn't gone anywhere.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Vertin:** You are the true creator of this "boon."
 
 **???:** And you are its rightful receiver.
@@ -9152,7 +9150,7 @@ The sound of salvation comes from the door behind them.
 **Merel:** Wait. It's open?
 
 **Merel:** Emilia, help me open this door.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -9389,7 +9387,7 @@ Competitive Business
 
 > A single candle's light cannot fill an empty room.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The council chamber on the fifth floor is nearly overflowing.
 
 **Pedra:** I never would have expected so many arcanists to risk their lives for the Foundation, even with their powers taken away from them.
@@ -9603,7 +9601,7 @@ His eyes betray his confident tone as he stares out at the smoke-filled hall. Ev
 Several minutes ago, a moth sent by Ms. Stranger had landed there.
 
 **Creius:** Ms. Stranger, you were right about her.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -9838,7 +9836,7 @@ Several minutes ago, a moth sent by Ms. Stranger had landed there.
 
 > Gaze into the abyss.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Countdown to the "Storm" : 00:40
 
 Countdown to the "Storm" : 00:30
@@ -10104,7 +10102,7 @@ She catches Ms. Stranger as she sinks to her knees.
 **Ms. Stranger:** The portal ... The Manus's portal is closed.
 
 **Ms. Stranger:** Mission complete.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -10328,7 +10326,7 @@ Queenside Attack
 
 > It's time to leave—ready or not.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 A door opens.
 
 **Merel:** \*pant\*
@@ -10476,7 +10474,7 @@ Sonetto can't see anything in the empty hall around them.
 **Sonetto:** You mean, at the school? Or at headquarters?
 
 **Vertin:** At headquarters, inside the Committee Building. I think I know why the Foundation never sent more reinforcements to the school.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -10645,7 +10643,7 @@ Sonetto can't see anything in the empty hall around them.
 
 > Even the untouchable has a texture.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Sonetto:** Then the attack on the SPDM was a diversion. They wanted to pull Foundation forces away from headquarters.
 
 **Sonetto:** Right now, Arcana has found her way into the Foundation, and the "Storm" is closing in on SPDM.
@@ -10953,7 +10951,7 @@ She casts aside her now-useless pistol and everything else weighing her down. Al
 **Merel:** I can survive this!
 
 She rushes into the rain.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -11278,7 +11276,7 @@ She rushes into the rain.
 
 > Power and reason were pressed into white bricks, and the great statue built from them is unbreakable.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Hallway, Committee Tower
 
 **Creius:** Fall back to the Spire.
@@ -11576,7 +11574,7 @@ On the floor before him lies a puddle of dark sludge.
 He turns toward the window.
 
 **President:** The SPDM should be secured by now.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -11981,7 +11979,7 @@ What are you lollygagging for, imbecile! Use a key or your arcane skill, I don't
 
 > Please don't forget every dove that flies your way—and the olive branches they carry from afar.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Countdown to the "Storm" : 00:03
 
 Countdown to the "Storm" : 00:05
@@ -12213,7 +12211,7 @@ Lavender: Everyone, stay together. Don't leave the light.Lavender: Gather around
 **Merel:** Don't leave me, Vert—
 
 **Vertin:** Merel! No!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -12477,7 +12475,7 @@ A Hint of Unease
 
 > Can I see a falling tear, and not feel my sorrow's share?
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Matilda:** ...
 
 **Matilda:** ...
@@ -12771,7 +12769,7 @@ Constantine doesn't continue her questioning. She pauses, reflecting on her subo
 **Constantine:** ...
 
 **Constantine:** I thought she'd prefer to forget it all.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -13088,7 +13086,7 @@ Constantine doesn't continue her questioning. She pauses, reflecting on her subo
 
 > Walk free from the maze of lies and find a treasure as light as breath.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The Committee Building's southern garden has, for the most part, been restored to its pre-battle state.
 
 The occasional staff members hurry across it, sending shivers down the branches of the newly planted saplings.
@@ -13250,7 +13248,7 @@ The board has been reset. A new game has begun.
 **Creius:** The attack may have thrown us off stride, but we'll regain control within the Foundation before long.
 
 **Creius:** If the Timekeeper won't work with us, then we proceed in our own way.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -13486,7 +13484,7 @@ Investigation Report from Ms. Stranger
 
 > People say that deep in the mountains, where birdsong echoes ...
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Tylwyth Teg Berry Garden
 
 **Sonetto:** "... They've lived in the orchards for generations, sharing their homes with rare, bird-like Critters and mostly keeping to themselves."
@@ -13818,7 +13816,7 @@ He grips her cloak with his sharp talons and takes flight, bringing her up into 
 **Rhiannon:** I think he's taking me to the nearest town. Once you're out, head north. You can't miss it. I'll see you there!
 
 Glyndŵr flies low with Rhiannon still in his grasp. Together, they soar off into the Welsh mountains beyond the Tylwyth Teg Berry garden.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>

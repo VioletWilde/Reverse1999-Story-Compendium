@@ -7,8 +7,6 @@
 - Story units：`24`
 - Trail：`27`
 
-[UTTU](https://uttu.merui.net/story/main/chapter-8/en/?part=1)
-
 1990 · The Die Is Cast.
 
 ## Contents
@@ -45,7 +43,7 @@
 
 > Facing the firing squad, you must hold onto your dignity, even as a traitor.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Lopera: Cowards, mutineers, traitors!Lopera: You've made your choices; now you'll learn the consequences.Lopera: Zeno never forgives!Lopera: Attention! Ready, aim—Lopera: Fire!
 
 **Lopera:** Cowards, mutineers, traitors!
@@ -217,7 +215,7 @@ He seems resigned. Zeno is just like this dilapidated base, a weakened shadow of
 **Admiral Igor:** Thank you.
 
 **Admiral Igor:** I should return to my work. Your comrades should be waiting for you in the meeting room with Lieutenant Moldir.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -427,7 +425,7 @@ Greetings! By the time you read this letter, I will already be on an auto island
 
 > In the reflection of the pooling rainwater, she sees an old friend.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Zeno Base
 
 Under the shadow of the colonnade, the orange-headed girl absentmindedly kicks at the ground, sipping a cold drink.
@@ -645,7 +643,7 @@ The two of them are met with a cold look from the admiral.
 **Admiral Igor:** ...
 
 **Lopera:** Sir ...
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -884,7 +882,7 @@ The two of them are met with a cold look from the admiral.
 
 > Following the thread's guidance, she finds the way out.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Meeting Room
 
 **Admiral Igor:** Lieutenant Moldir, about time. What was it? Did you stop for a picnic?
@@ -1092,7 +1090,7 @@ The wooden door creaks open a little, allowing an insect to fly in through the g
 Inside the tower, the sole prisoner has been quietly listening to their conversation: There's a ship leaving tomorrow morning.
 
 As the footsteps trail off, she gently pushes the door. The seal is indeed gone. She's free.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1336,7 +1334,7 @@ After discussions at the headquarters and based on the current global situation 
 
 > Then, your life is handed over to the river, and you are forced to struggle against the current.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Zeno Base
 
 A journey always starts with a farewell.
@@ -1548,7 +1546,7 @@ She reaches out and pinches Sotheby's cheek.
 Kimberly smiles, as if she has shed the baggage of their previous encounter, and disappears into the crowd.
 
 There's an old legend told in the desert peninsula: encountering a demon is always a sign of bad things to come.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1798,7 +1796,7 @@ Pending Documents
 
 > The river is both home and life. The river gives, the river takes.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Aboard the "Alligator"
 
 The wind blows through Lopera's hair.
@@ -2010,7 +2008,7 @@ Whose hand is that?
 **???:** \*sigh\* Why do we keep meeting in these awkward situations?
 
 **???:** Consider my debt paid.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -2296,7 +2294,7 @@ Prisoner Name: Ms. Kimberly Detention Process: During the raid on the Apostles B
 
 > While the stage shows the character in the script, it never truly reveals the person behind the role.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Riverbank
 
 **Galeno:** The Brotherhood just took a beating from Zeno. If they're caught up with their own trouble, then we might have a golden opportunity to turn the people against them.
@@ -2532,7 +2530,7 @@ Everything's in disarray. There's no way to contact the Timekeeper. They don't e
 **Mr. Duncan:** Let's head back to the city! Come on now. Trust good old Duncan.
 
 **Mr. Duncan:** Sorry, I mean Karson! Trust Karson to lead the way!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -2791,7 +2789,7 @@ Everything's in disarray. There's no way to contact the Timekeeper. They don't e
 
 > Considering your past actions, we hereby conclude and pronounce you ... guilty.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Chapel of Our Lady of Sorrows
 
 A man in black lifts a fallen statue.
@@ -3071,7 +3069,7 @@ He sheathes his knife and hands Galeno over to his new companion.
 **Mr. Duncan:** It will be my honor, Your Reverence.
 
 **Santos:** Marcando, you'll stay with them. Don't forget what I told you earlier.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -3414,7 +3412,7 @@ Who is the Savior?
 
 > In the midst of such prolonged suffering, happiness feels as far away as the sun in the sky.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Life and Death in São Paulo
 
 —The Friend from Afar
@@ -3606,7 +3604,7 @@ The doctor speaks to herself, or perhaps in reassurance to the unconscious girl.
 Kimberly catches up to the doctor, only now realizing how far they've walked.
 
 She steps into the doctor's "home."
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -3812,7 +3810,7 @@ She used to comfort those childlike elders with a siren song that made them forg
 
 > Live long enough, and you will see everything.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 A Shelter in the Favela
 
 A fan whirs loudly, yet the room is just as hot as the outside.
@@ -4090,7 +4088,7 @@ The boys scurry off, muttering under their breaths.
 **White Rum:** The Brotherhood always let their knives do the talking.
 
 **White Rum:** If there'd been any doubt of what you are, lass, that fight sure cleared it up.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -4402,7 +4400,7 @@ A roll of bandages, fighting back death's descent upon her patients, and extingu
 
 > Pursued yet eluded; seen yet unseen.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Favela
 
 **Marcando:** Listen up. We're the Apostles Brotherhood, not some worthless favela gang.
@@ -4578,7 +4576,7 @@ There's a shooting pain in her arm.
 Come on. On your feet.
 
 **White Rum:** Well, I may be just the ship to get you there, ladies.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -4775,7 +4773,7 @@ Come on. On your feet.
 
 > He dispenses justice, "São Paulo" style!
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Favela
 
 After instructing his men to take Doctor Dores to their chapel hideout, Marcando walks over to Duncan, who is watching over a group of hostages.
@@ -4991,7 +4989,7 @@ All hesitation leaves Lopera's body once she hears her father's name.
 **Mr. Duncan:** You've done us proud, kid. If I were king, I'd have made you a knight. Who knows, maybe the little lady could do that for us.
 
 **Mr. Duncan:** But first, young Galeno, we'll seek another deed worthy of knighthood. It's time we fight for our people!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -5236,7 +5234,7 @@ An ordinary-looking wrench, bursting with stories and the marks of time, just li
 
 > We hear the song every night we bid the day farewell. Wishing you peace, my dear.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The route from the favela to the Veterans' Residence is quite familiar to White Rum. She has ferried the doctor back and forth countless times.
 
 **White Rum:** You ever been to a Veterans' Residence? Not many young faces there, besides Lopera. As far as the doc goes, doubtful anyone knows her real age, and even the saltiest sailor knows better than to ask a lady her age!
@@ -5386,7 +5384,7 @@ Urd.
 **???:** Mariana!!
 
 A familiar voice echoes from outside.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -5582,7 +5580,7 @@ Those pristine wings, however, could never, ever fly across the riverbank.
 
 > Light a candle in memory of the departed.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Sao Paulo Veterans' Residence
 
 **Mamãe Mariana:** Oh, more visitors?
@@ -5828,7 +5826,7 @@ It's a cleanly written ransom note, signed "Santos."
 ...
 
 **Vertin:** Mamãe Mariana, please contact Admiral Igor. We need Zeno's help.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -6112,7 +6110,7 @@ Below is a recording of the interrogation of a member of the Order of Enlightenm
 
 > Now, the die is cast.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Igor's Office
 
 Admiral Igor rarely makes calls to Zeno headquarters, but the situation has become desperate.
@@ -6310,7 +6308,7 @@ A lucid dream, a living death, a perished immortality.
 **Moldir:** ...
 
 **Moldir:** I will always stand with you, Father.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -6573,7 +6571,7 @@ Gambling Etiquette
 
 > A long-awaited reunion, a shocking betrayal.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Igor's Office
 
 The old admiral picks up the file beside him and flips through the young pilot's records.
@@ -6815,7 +6813,7 @@ In a world of lies, the traitor's blade has been raised.
 **Prison Guard:** Don't worry, young comrade. Just hang in a little longer.
 
 **Lilya:** ...?!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -7106,7 +7104,7 @@ Good News and Bad News
 
 > "The call for slaughter has sounded, unleash the hounds of war!"
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Igor's Office
 
 After a long wait, father and daughter reconvene.
@@ -7348,7 +7346,7 @@ The two of them are still linked via the tracker button.
 **Admiral Igor:** There will be no alteration of the mission. Ptolemy, retrieve Kimberly.
 
 The order is non-negotiable. Ptolemy and Moldir board their boats and head to their respective destinations.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -7626,7 +7624,7 @@ Containment Code: Ms. Kimberly
 
 > It's better to flee into the wilderness than to return to a cold flock.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Sao Paulo Veterans' Residence
 
 The pieces are falling into place. Lopera has gone to the colonel's manor, as Admiral Igor planned.
@@ -7872,7 +7870,7 @@ She's sobbing.
 **Vertin:** Nala ...
 
 Aim ... at him ...
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -8147,7 +8145,7 @@ An intercepted telegram, secrets revealed. Another bullet casing left on the exe
 
 > A bullet shot into the past.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Anjo Nala:** Vertin?
 
 The bullet flies from the barrel, trailing a long, white streak through the air.
@@ -8323,7 +8321,7 @@ A familiar silhouette streaks across the sky.
 **Lilya:** Captain!
 
 Lilya descends, bearing bad news.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -8528,7 +8526,7 @@ An ugly little wind-up figure, and nothing more.
 
 > The loser is left with nothing, the winner takes all.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Chapel of Our Lady of Sorrows
 
 The master of the manor sighs.
@@ -8762,7 +8760,7 @@ She tries to speak, but the effects of the potion still hold her throat in a tig
 **Lopera:** We can talk after we get out of here.
 
 She hoists the doctor onto her back and carries her through the falling debris.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -9014,7 +9012,7 @@ A photograph from the 1961 peacekeeping mission in the Congo, with the photograp
 
 > Don't forget to bid the day farewell, and to honor yesterday.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The Colonel's Manor
 
 **Moldir:** Eliminate all hostiles.
@@ -9328,7 +9326,7 @@ He supports the weakened Lopera. She gives him a sad smile.
 She can't bring herself to finish the sentence.
 
 The sky clears, and the heat of the blazing sun washes over them once more.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -9633,7 +9631,7 @@ A pair of long-barreled revolvers that once accompanied sisters through countles
 
 > Farewell, Igor.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Sao Paulo Veterans' Residence
 
 Nala's tears have dried up. Lilya looks around and frowns.
@@ -9873,7 +9871,7 @@ We couldn't halt Igor's escape.
 More rebels came at us following the gunfire, and we were forced to flee the base.
 
 We failed.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -10139,7 +10137,7 @@ The headquarters has informed all branches that the Brazilian branch has experie
 
 > Summer ends here, the icy sea begins.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Clifftop, Tierra del Fuego
 
 **???:** You made the right choice.
@@ -10269,7 +10267,7 @@ The old admiral sighs and pulls a stack of UTTU magazines from his coat. They we
 **Admiral Igor:** I don't know what you've encountered, what you've experienced, in all this time.
 
 **Admiral Igor:** But your very existence is about to change the fate of us all.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -10468,7 +10466,7 @@ A strangely shaped typewriter; the only weapon this doctor had in her battle wit
 
 > Everything is a mess, everything has come to an end. Perhaps ... there's still a chance.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Guest Room, St. Pavlov Foundation
 
 **Sotheby:** Hehe! I never knew that so many people lived on the river!
@@ -10682,7 +10680,7 @@ She makes a bold guess.
 The "Storm" doesn't kill people? At least, not physically?
 
 **Vertin:** The "Storm" doesn't kill people? At least, not physically?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -10917,7 +10915,7 @@ She makes a bold guess.
 
 > A person is the total sum of their past.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Lopera picks up her gun and loads the bullets one by one.
 
 **Lopera:** One, two, three.
@@ -10993,7 +10991,7 @@ Anjo Nala: At the same crossroadAnjo Nala: When the warm days grow coldAnjo Nala
 **Anjo Nala:** You will find someone in your life
 
 **Anjo Nala:** You will find the love of your life
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>

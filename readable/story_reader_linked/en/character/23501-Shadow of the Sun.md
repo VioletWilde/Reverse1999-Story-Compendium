@@ -7,8 +7,6 @@
 - Story units：`8`
 - Trail：`0`
 
-[UTTU](https://uttu.merui.net/story/character/willow/en/?part=1)
-
 What is the worth of gold, or a medal's weight?
 Our aspirations soar far higher than this.
 Yet so often they are shackled by such constraints.
@@ -29,7 +27,7 @@ Yet so often they are shackled by such constraints.
 <a id="episode-2350101"></a>
 ## 2350101 · Slithering Snails
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 ???, Practice Room
 
 **Coach:** Everything alright?
@@ -179,7 +177,7 @@ GET OUT OF HERE!
 GET OUT OF HERE!
 
 Before she even finishes her exclamation, she has already slammed the door shut.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -344,7 +342,7 @@ Before she even finishes her exclamation, she has already slammed the door shut.
 <a id="episode-2350102"></a>
 ## 2350102 · Lubricant
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 As the door closes, her solitary leg can no longer bear the weight of her body, and she falls to the ground in disgrace.
 
 **Willow:** Huff ...
@@ -530,7 +528,7 @@ The "hag" gives a mocking sneer.
 **Willow:** Go on, take it. Take it and ...
 
 **Willow:**GetOut!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -723,7 +721,7 @@ The "hag" gives a mocking sneer.
 <a id="episode-2350103"></a>
 ## 2350103 · Fallen Swan
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The farce has come to an end.
 
 The sparse vegetation in her garden has been left in disarray by the incident. The purple potato flowers lie scattered upon the soil.
@@ -883,7 +881,7 @@ An unexpected command.
 **Coach:** The last element you just performed. Do it again.
 
 **Coach:** The qualifiers are just around the corner, and you're still jumping like that? If you aren't able to bring forth your arcane skill, you absolutely cannot afford to make a single mistake in the rest of your routine.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1060,7 +1058,7 @@ An unexpected command.
 <a id="episode-2350104"></a>
 ## 2350104 · Flickering Candlelight
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Uluru Qualifiers Stadium
 
 The day of the qualifiers is met with unfavorable weather, as a faint haze lingers in the air. Everyone agrees that today is not a good day for rituals.
@@ -1304,7 +1302,7 @@ Having driven away her old friends, the girl goes back inside.
 She stands in the center of the house, taking a deep breath, a faint smile on her face.
 
 **Charlotte:** My friend. My only friend, Sulis.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1555,7 +1553,7 @@ She stands in the center of the house, taking a deep breath, a faint smile on he
 <a id="episode-2350105"></a>
 ## 2350105 · Phone Call
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The phone rings.
 
 **Willow:** Hello?
@@ -1653,7 +1651,7 @@ Inside, her medal lies quietly on its bed of velvet. There's a small dent on one
 **Willow:** ...
 
 She remembers. How could she forget?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1661,7 +1659,7 @@ She remembers. How could she forget?
 <a id="episode-2350106"></a>
 ## 2350106 · Echoing Knocks
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 1921, Locker Room
 
 **Competitor I:** Come on now; don't be nervous.
@@ -1867,7 +1865,7 @@ She looks at Caroline in disbelief.
 Caroline holds Willow's trembling hands in her own.
 
 **Caroline Bartley:** I look forward to seeing you on the floor.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -2032,7 +2030,7 @@ Caroline holds Willow's trembling hands in her own.
 <a id="episode-2350107"></a>
 ## 2350107 · Podium
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 1921, Uluru Stadium
 
 **Broadcast:** Congratulations, Charlotte O'Hagan!
@@ -2136,7 +2134,7 @@ As she lets out a cold sneer, her features become clearer.
 **Coach:** It's precisely because it's a gold medal that you kept going. Even if your feet were bleeding, you couldn't escape this self-inflicted sacrifice. Because this is what you desired!
 
 **Coach:** Isn't this the root of your tragedy?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -2257,7 +2255,7 @@ As she lets out a cold sneer, her features become clearer.
 <a id="episode-2350108"></a>
 ## 2350108 · Goodbye, Friend
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Coach:** After winning the gold medal, you gave interviews, featured in columns, and became renowned among arcanists.
 
 **Coach:** But so what?
@@ -2439,7 +2437,7 @@ Flowers, applause, cheers, lubricant, the golden sun, and a thousand shadows.
 She gently kisses the dented edge of the medal.
 
 **Willow:** Good night, my friend.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---

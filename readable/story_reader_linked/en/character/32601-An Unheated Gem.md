@@ -7,8 +7,6 @@
 - Story units：`11`
 - Trail：`0`
 
-[UTTU](https://uttu.merui.net/story/character/brume/en/?part=1)
-
 When even the most dazzling
 brilliance begins to fade,
 You, who set forth once more,
@@ -33,7 +31,7 @@ will find the story meant for you.
 <a id="episode-3260101"></a>
 ## 3260101 · The Pyromancer
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Safe House
 
 With the sound of a creaking door and the slow patter of trudging footsteps, a young woman steps inside.
@@ -307,7 +305,7 @@ Interrupted by a familiar ring. A message from her employer in Paris.
 **Beryl:** Adèle, come back.
 
 **Beryl:** The "Storm" is coming.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -315,7 +313,7 @@ Interrupted by a familiar ring. A message from her employer in Paris.
 <a id="episode-3260102"></a>
 ## 3260102 · Playing God
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Street, Vienna
 
 The city bristles with anticipation for a war that will never come; the "Storm" is set to arrive in just three days.
@@ -477,7 +475,7 @@ She closes her hands around the handkerchief, holding the ring tightly.
 **Newlywed Woman:** Goodbye, Brume.
 
 The door opens. The passenger steps out into the rain, shrouded in mist.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -485,7 +483,7 @@ The door opens. The passenger steps out into the rain, shrouded in mist.
 <a id="episode-3260103"></a>
 ## 3260103 · Freedom, Dignity, Peace
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The car falls silent until a faint voice stirs.
 
 **Félicienne:** Hmph ... just what are you hoping to accomplish, Adèle?
@@ -687,7 +685,7 @@ Her gaze holds on the glittering slivers that have scattered across the surface 
 **Brume:** Gemstones do not change. Perhaps that holds more meaning than trying to save people lost in the "Storm."
 
 She lifts a shard and peers through it, her vision suddenly recolored to match its hue.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -695,7 +693,7 @@ She lifts a shard and peers through it, her vision suddenly recolored to match i
 <a id="episode-3260104"></a>
 ## 3260104 · A Business Opportunity
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Jewelers' Street, Delhi
 
 A busy street dedicated to the buying and selling of precious gems, a panoply of merchants and customers of every complexion and style mingle together.
@@ -905,7 +903,7 @@ The boy, really a young man, approaches, and Brume meets his eyes.
 **Brume:** Then I'm honored. I'll pay you your price—and something extra for the effort.
 
 **Brume:** But you must take me to your mine.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -913,7 +911,7 @@ The boy, really a young man, approaches, and Brume meets his eyes.
 <a id="episode-3260105"></a>
 ## 3260105 · Against the Inevitable
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Jewelers' Street, Delhi
 
 As the sun sets, the eager crowds that once filled the street begin to shrink away into the night.
@@ -1171,7 +1169,7 @@ In an instant, earth floods the shaft. The light blinks out.
 **Patel's Father:** Mine COLLAPSE!!!
 
 The miners begin shouting over each other as they rush toward the site of the collapse.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1179,7 +1177,7 @@ The miners begin shouting over each other as they rush toward the site of the co
 <a id="episode-3260106"></a>
 ## 3260106 · The Cursebreaker
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Mining Area
 
 Stifling heat.
@@ -1373,7 +1371,7 @@ It flails, chokes, and retreats frantically beneath her clothes.
 The rope tied to her waist begins to haul her up.
 
 The gem hunter emerges, dripping, empty-handed.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1381,7 +1379,7 @@ The gem hunter emerges, dripping, empty-handed.
 <a id="episode-3260107"></a>
 ## 3260107 · Why Gemstones Matter
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Patel's Father:** Find anything?
 
 His tone is dismissive, but he holds his stare, sharp and unblinking.
@@ -1537,7 +1535,7 @@ The orbuculum gleams. Someone bound to fate sends a message.
 **Beryl:** Adèle.
 
 **Beryl:** The "Storm" is coming.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1545,7 +1543,7 @@ The orbuculum gleams. Someone bound to fate sends a message.
 <a id="episode-3260108"></a>
 ## 3260108 · Another World Forsaken
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Jewelers' Street, Delhi
 
 **Mina:** Adèle!
@@ -1767,7 +1765,7 @@ The winds of a new world rise.
 **Brume:** I will rediscover the true meaning behind these gems.
 
 **Brume:** Sooner or later.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1775,13 +1773,13 @@ The winds of a new world rise.
 <a id="episode-3260109"></a>
 ## 3260109 · Jewel Hunter I
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 ***
 
 **GAMEPLAY ONLY**
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1789,13 +1787,13 @@ The winds of a new world rise.
 <a id="episode-3260110"></a>
 ## 3260110 · Jewel Hunter II
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 ***
 
 **GAMEPLAY ONLY**
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1803,13 +1801,13 @@ The winds of a new world rise.
 <a id="episode-3260111"></a>
 ## 3260111 · Jewel Hunter III
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 ***
 
 **GAMEPLAY ONLY**
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---

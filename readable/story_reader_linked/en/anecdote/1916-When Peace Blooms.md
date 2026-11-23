@@ -7,8 +7,6 @@
 - Story units：`7`
 - Trail：`0`
 
-[UTTU](https://uttu.merui.net/story/anecdote/diggers/en/?part=1)
-
 Inside the Penumbra Can,
 Covered in a layer of dust,
 Are stories buried in the depths of time.
@@ -30,7 +28,7 @@ Are stories buried in the depths of time.
 
 > And so he begins to miss everything about London, including its interrogation rooms and police stations.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Policeman I:** Certainly, sir.
 
 **Policeman I:** We will fully respect your rights, but we expect you to give us a truthful account of these events.
@@ -260,7 +258,7 @@ The man adjusts his smile slightly.
 **Diggers:** It's the kind of thing I was born to do!
 
 **Diggers:** I'm in!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -515,7 +513,7 @@ The man adjusts his smile slightly.
 
 > Innumerable novelties, dangerous or not, all from across the sea.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Diggers:** Ha-ha, I agree.
 
 If he knew what the future held, he would never have said those words.
@@ -649,7 +647,7 @@ A black Browning pistol.
 **Diggers:** Oh no, Bad Civilization is here.
 
 **Diggers:** A gun, why is there a gun here?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -804,7 +802,7 @@ A black Browning pistol.
 
 > A form of art that is devoid of compassion.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Gun.
 
 It had been so long the word almost felt unfamiliar.
@@ -942,7 +940,7 @@ Diggers thinks for a moment, then smiles.
 **Manus Follower I:** ...
 
 **Manus Follower I:** Damn it! I knew I shouldn't have sent an artist to scout.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1101,7 +1099,7 @@ Diggers thinks for a moment, then smiles.
 
 > Should we really be studying math at a time like this?
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The Hall of Apeiron
 
 The classroom is as usual, with the same mathematics being taught.
@@ -1325,7 +1323,7 @@ A flash of insight.
 He falls deep into thought.
 
 **Diggers:** The first thing we need to do is disguise ourselves as the island's inhabitants to find a way out.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1568,7 +1566,7 @@ He falls deep into thought.
 
 > Perfection is his goal, but it remains just that—a goal.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 A piece of cloth.
 
 Plain, simple, and smooth.
@@ -1718,7 +1716,7 @@ In the Corrector's hand is a bundle of wires, sensors, and a detonator.
 **Sophia:** ...
 
 **Sophia:** You're asking me to place a weapon back into the hands of our would-be attacker?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1889,7 +1887,7 @@ In the Corrector's hand is a bundle of wires, sensors, and a detonator.
 
 > We must believe in the power of belief.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The sudden commotion on the shore has drawn the attention of the Manus followers.
 
 **Manus Follower I:** Hey!
@@ -2109,7 +2107,7 @@ He skims past numerous sensational headlines and quickly finds the date of publi
 **Diggers:** What?
 
 **Diggers:** February 7th, 1966?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -2332,7 +2330,7 @@ He skims past numerous sensational headlines and quickly finds the date of publi
 
 > That's a dark shade of blue.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Night falls, and Diggers sits on a bench by the river, holding a cheap takeout box.
 
 He stuffs his mouth with food.
@@ -2494,7 +2492,7 @@ The believer gives him a strange look.
 **Diggers:** Take me with you. Please take me with you.
 
 **Diggers:** I believe that art isn't dead yet!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>

@@ -7,8 +7,6 @@
 - Story units：`8`
 - Trail：`0`
 
-[UTTU](https://uttu.merui.net/story/character/narcissus/en/?part=1)
-
 Filled with curiosity,
 drawn on by victory.
 Beyond the spring,
@@ -31,7 +29,7 @@ with a brave, restless heart.
 <a id="episode-1391801"></a>
 ## 1391801 · A Friend's Departure
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Spring Nymph I:** Doris ... Gentle, wise Doris ...
 
 **Spring Nymph I:** She lived her long life in peace. May flowers and flowing water carry her to that quiet shore.
@@ -237,7 +235,7 @@ Her voice softens.
 **Narcissus:** Doris was nearing the end of her life.
 
 **Narcissus:** However long a life may be, it will always come to an end.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -245,7 +243,7 @@ Her voice softens.
 <a id="episode-1391802"></a>
 ## 1391802 · Insatiable Curiosity
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Bar Helicon
 
 **Hermes:** Oh my, you're just letting her drink like this? And here I thought you were the most reliable prophet-bartender in all Ephaistonos!
@@ -449,7 +447,7 @@ And all her doubts, questions, and curiosity fade to nothing beside it.
 That day, the Coryphaeus she loved so deeply gave her no answer.
 
 She just smiled at her, there in a sea that was never meant for them.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -457,7 +455,7 @@ She just smiled at her, there in a sea that was never meant for them.
 <a id="episode-1391803"></a>
 ## 1391803 · A Stinging Experience
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Bar Helicon
 
 **Hermes:** So, you two went swimming in the sea together?
@@ -705,7 +703,7 @@ Hermes's words are true.
 **Apollo:** Doris must have told her something that enlightened her. We just don't know what.
 
 **Apollo:** It was she who brought about this change in Narcissus.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -968,7 +966,7 @@ Hermes's words are true.
 <a id="episode-1391804"></a>
 ## 1391804 · To Foreign Lands
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Cropfield
 
 **Narcissus:** How can I find it?
@@ -1216,7 +1214,7 @@ Her voice halts.
 Finding nothing but air beneath her foot, she drops like a stone.
 
 **Narcissus:** ARRGGHHH!!!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1477,7 +1475,7 @@ Finding nothing but air beneath her foot, she drops like a stone.
 <a id="episode-1391805"></a>
 ## 1391805 · Harbinger of the Sunrise
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Narcissus:** Ahhhhh!!!
 
 Narcissus screams at the top of her lungs.
@@ -1705,7 +1703,7 @@ Thalassa smooths Narcissus's hair.
 **Thalassa:** Tomorrow, at the theater downtown, I'll walk out on that stage.
 
 **Thalassa:** And I'll tell the world that I am the artist behind those works.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1713,7 +1711,7 @@ Thalassa smooths Narcissus's hair.
 <a id="episode-1391806"></a>
 ## 1391806 · On Foreign Shores
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Theater
 
 **Hermes:** I don't know, Narcissus. I'm still a little worried.
@@ -1919,7 +1917,7 @@ The two "fish" catch each other's eyes and laugh as they race on.
 Her friends from Ephaistonos arrive like a break in the clouds.
 
 **Hermes:** Narcissus, Thalassa, get in!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1927,7 +1925,7 @@ Her friends from Ephaistonos arrive like a break in the clouds.
 <a id="episode-1391807"></a>
 ## 1391807 · Be Thyself
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 A Secluded Residence
 
 The secluded underground residence has never hosted so many guests before.
@@ -2131,7 +2129,7 @@ Apollo is happy to be given a way out of Themis's probing.
 **Apollo:** All I can say is ...
 
 **Apollo:** Narcissus's story is far from over.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -2139,7 +2137,7 @@ Apollo is happy to be given a way out of Themis's probing.
 <a id="episode-1391808"></a>
 ## 1391808 · Dear Galene
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Lakeside, Ephaistonos
 
 **Narcissus:** Doris, I've always felt like my life wasn't supposed to be like this.
@@ -2327,7 +2325,7 @@ In that moment, her heart brims with anticipation, a lightness unlike anything s
 **Narcissus:** Before the final ripple comes ...
 
 **Narcissus:** I'll stir up as many great waves as I can!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---

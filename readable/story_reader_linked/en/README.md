@@ -2,11 +2,11 @@
 
 [Back to all languages](../README.md)
 
-Completed against all readable English UTTU story pages on November 23, 2026. All choices and responses are included. Client text that differs from UTTU remains available in a collapsible section in the same unit.
+The client resource baseline is international version 3.9. The CN and international editions follow different release schedules; chapters awaiting international release are outside the current international coverage. All choices and responses are included, with text variants in collapsible sections.
 
 **137 chapters, 1,509 story units, and 620 Trails.**
 
-[UTTU · 2026-11-23](../../../structured/uttu_completion_20261123/README.md)
+[November 23, 2026 update](../../../structured/story_reader_completion_20261123/README.md)
 
 ## Main Story (16)
 

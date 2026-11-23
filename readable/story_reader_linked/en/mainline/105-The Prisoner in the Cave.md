@@ -7,8 +7,6 @@
 - Story units：`21`
 - Trail：`18`
 
-[UTTU](https://uttu.merui.net/story/main/chapter-5/en/?part=1)
-
 1913 ~ 1914 (2007) · Who led us to the exile in this cave.
 
 ## Contents
@@ -42,7 +40,7 @@
 
 > Be it the Thames or the Aegean, one must navigate carefully.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Regulus:** Hold tight!
 
 **Lilya:** S\*\*t! There's nothing we can do!
@@ -162,7 +160,7 @@ Vertin: Well, she did try her best to pick the music.Vertin: Though no one is in
 **Vertin:** We need to slightly twiddle this knob.
 
 **Vertin:** To ... 1913.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -320,7 +318,7 @@ Just One Song Rock Around the Ship Please Please Sotheby ------------ Deck Clean
 
 > Secrets are hidden in the seams. Stretch out your hand, a bit further.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Joint Committee of SF
 
 **Vertin:** This is ...
@@ -514,7 +512,7 @@ Everyone, be careful!
 COMBAT:
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -723,7 +721,7 @@ Regulus halts and hesitates. Slowly, she turns her head.
 
 > Among the dust and grass clippings lies a bright azure petal.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **???:** Hold on, hold on!
 
 **???:** It was a misunderstanding, Timekeeper. We attacked to defend ourselves. We are not the enemy!
@@ -887,7 +885,7 @@ Unlike the long-abandoned Laplace instruments, it is not yet soaked by the rain 
 **Vertin:** This is ...
 
 **Vertin:** The Manus mask they used to stay immune to the "Storm"?!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1087,7 +1085,7 @@ Ms. Moissan's Personal Notebook
 
 > A wave has come crashing down. Grab your umbrella and hold on to the railing.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Mesmer Jr.:** I will explain all of these as briefly as possible.
 
 **Mesmer Jr.:** Good news.
@@ -1283,7 +1281,7 @@ The red 38 rocket takes off and speeds across the sky like a shooting star.
 COMBAT:
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1510,7 +1508,7 @@ Analysis Report on the "Storm" Sample
 
 > Now let's set the watch back to the right time.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Sonetto:**Ed è subito sera!
 
 A glow cuts through the air. The mainsail halyard breaks in a snap.
@@ -1662,7 +1660,7 @@ The numbers are now entirely different from the previous display.
 **???:** This is the year 2007, is it not?
 
 **Vertin:** ...!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1831,7 +1829,7 @@ The numbers are now entirely different from the previous display.
 
 > Look, those numbers are no longer curled up on the manuscript.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Vertin:** You are saying we are in 2007?
 
 The heart is pounding fast in the chest.
@@ -2017,7 +2015,7 @@ The man puts out a finger, directly pointing at Regulus.
 **Regulus:** Wait, now hold on a second! I said hol- …
 
 **Regulus:**...!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -2315,7 +2313,7 @@ Now you may continue with your conversation uninterrupted.
 
 > In the pocket, there are green peas, flat beans, bitter beans ... It's not hard to tell them apart.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Dungeon, Island
 
 **Sonetto:** Yes, all is well.
@@ -2481,7 +2479,7 @@ She returns to the corner, giving the floor to the rest of them.
 **Lilya:** Oh, finally, we have an ordinary person here.
 
 **Sophia:** Please, let's talk on the way to the outside.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -2683,7 +2681,7 @@ Villiers W5 Strategic Razor (Enhanced Version) Instructions for Use
 
 > Boundaries of propriety always tempt daring fingers.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Sophia:** We believe everything can be translated into numbers.
 
 **Sophia:** Things are made up of numbers. And mathematics is the key to opening the gate of truth. It is like the fire that lifts us from the darkness.
@@ -2893,7 +2891,7 @@ At the end of their path, there is a triangular stone statue standing among the 
 **Sophia:** Ms. Vertin, this is the place you've journeyed to visit—the Hall of Apeiron.
 
 **Sophia:** This is where we share our knowledge of pneuma, which is also the "Storm" you've been referring to.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -3124,7 +3122,7 @@ At the end of their path, there is a triangular stone statue standing among the 
 
 > Silence is golden—we'd do well to possess this virtue.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Sophia:** Before you enter the great hall, please place your right palm on the stone and swear to it solemnly.
 
 The girl closes her eyes and begins an emphatic prayer.
@@ -3306,7 +3304,7 @@ Yet the apparition has gone.
 COMBAT:
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -3513,7 +3511,7 @@ Enter right, exit left|right, left|right and left|enter from right, leave from l
 
 > Crossword King, hah, lucky for once.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Regulus:** Can somebody tell me …
 
 **Regulus:** Why I constantly get locked up ever since I've known Vertin?
@@ -3729,7 +3727,7 @@ Oh, and Lilya, who is looking grave.
 **Lilya:** Sonetto is in detention. They are planning to sentence her to death by giving her the poisoned wine.
 
 **Regulus:** They what?!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -4022,7 +4020,7 @@ Wonderful Coincidence
 
 > The perfect shape requires the help of a ruler, a compass, and a set square.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Sophia:** An old admonition is engraved here.
 
 **Sophia:** "Let No One Ignorant of Geometry or the Irrational Numbers Enter."
@@ -4172,7 +4170,7 @@ She puts down the file and leaves in a hurry.
 **37:** That's boring.
 
 **37:** Huh! Let's go, Vertin. The Assembly is about to start.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -4345,7 +4343,7 @@ She puts down the file and leaves in a hurry.
 
 > Between the jar and the seat, it picks up pebbles, one after another.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 In pairs and dozens, the Apeiron believers enter the venue.
 
 The plaintiff and the defendant are also seated.
@@ -4583,7 +4581,7 @@ I hereby demand to modify the criminal sentence that has been given to Sonetto!
 **37:** Yeah. I read her number, just now.
 
 **37:** Vertin's number is 0.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -4857,7 +4855,7 @@ Yes, yes, the deserved victor.
 
 > Neither biased nor neutral, neither positive nor negative, neither excessive nor deficient.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 There is an outbreak of muttering among the white robes.
 
 Even the solemn judge stands up.
@@ -4987,7 +4985,7 @@ The leader stands in the dark.
 **6:** 37's proof has passed the review. Your friend will now be exempt from the punishment for violating the rules. However, she has to take some catch-up lessons on the scripture.
 
 **6:** Please meet me at the hall tomorrow at noon. I would have words with you.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -5155,7 +5153,7 @@ This wording is hasty and reckless, Yet no offense is meant to your extraordinar
 
 > He declares that the old standoff must end.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 In this life there are three kinds of men,
 
 just as there are three sorts of people who come to the Olympic Games.
@@ -5367,7 +5365,7 @@ Following them, a petite figure rushes out of the woods.
 COMBAT:
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -5666,7 +5664,7 @@ In the fable of the sun, Sunlight is always rhythmic, Never to be dampened, Not 
 
 > The clamor has ceased. They settle on the treetops, enjoying a moment's rest.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Public Area, Island
 
 **Believer II:** Congratulations, Ms. Sonetto. You are the fastest learner of our doctrine among all the visitors in the past half-century.
@@ -5896,7 +5894,7 @@ Sonetto hesitates for a brief moment, then quickly goes after her.
 **Vertin:** I have a feeling …
 
 **Vertin:** We are coming closer to a big secret.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -6166,7 +6164,7 @@ Various Scraps of Colored Waste Paper
 
 > Ultimately, there is always more than one weather forecaster.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Laboratory, Island
 
 **Regulus:** What, what am I looking at?
@@ -6314,7 +6312,7 @@ After getting rid of the parasitic pests, the dusty behemoth begins to miraculou
 She tilts her head, looking genuinely confused.
 
 **37:** The Form, or the essence, is what's left of you after all the fakeness has been peeled off.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -6498,7 +6496,7 @@ IDM Maintenance Records
 
 > It returned as scheduled, yet empty-handed .
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Ms. Radio:** Now we are listening to the new year collection …
 
 **Ms. Radio:** ... The world-famous painting Mona Lisa was found and returned to Musée de Louvre in the afternoon of December 13th.
@@ -6696,7 +6694,7 @@ Her gaze is firm but distant.
 **Vertin:** I don't get it.
 
 **Vertin:** Why did you say my number is 0?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -6917,7 +6915,7 @@ Her gaze is firm but distant.
 
 > Caves cannot shield all rain, nor can paper manuscripts.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **37:** I just saw it.
 
 **37:** The numbers of everything and every being would just emerge in front of me.
@@ -7077,7 +7075,7 @@ Eventually, she speaks up again with great difficulty.
 **37:** Go to our sacred place, to the Hall of Truth, in the depths of the cave. There, everyone can see the essence of the world.
 
 **37:** I beg you. Give them your proof, just like how we submit the proof of our soul number.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -7354,7 +7352,7 @@ The Misfit
 
 > Refuse quick fixes, door-to -door sales, flip-to -the-answer pages, and the porch that can be reached in only one step.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Underground Cave, Island
 
 **Regulus:** Wait a second, ju-just a second!
@@ -7550,7 +7548,7 @@ But 37 has walked away.
 **Regulus:** Don't worry, I know this place well enough by now. After all, I've never been so "welcomed" in any other place ever.
 
 **Regulus:** Critters, monsters, creatures with strange heads, do your worse! This Pirate is not afraid of you!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -7780,7 +7778,7 @@ Now she can return home with peace of mind.
 
 > Reaching out, we are so close to the answer.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Thirty-seven: Apeiron, the Boundless, the beginning of all things.Thirty-seven: Everything originates from it and returns to it.Thirty-seven: Infinity has no start and no end. But nothing would come into existence if there's only infinity.Thirty-seven: Look up there, Vertin.Thirty-seven: Now, they are presenting in their true Forms.Thirty-seven: In their purest and newest Forms.The cave is bright as daytime, as if it's ready for a grand orchestra performance.37 stretches out her hands like a proud conductor.Thirty-seven: Our world was born from the wounds on "infinity" when it's cut by "finity." The patterns of the cuttings are what we call mathematics.Thirty-seven: Thus, the essences of numbers exist inside all beings, and the patterns of all numbers exist in all Matters.Thirty-seven: The length of a butterfly's wings and its body are in golden ratio, and plant leaves grow on their stems in the pattern of the Fibonacci spiral.Thirty-seven: This is the most primitive rhythm of "arcanum," and it is also the beginning of our extraordinary study.Thirty-seven: This is the essence.Vertin: And how do I submit my proof?Thirty-seven: Close your eyes, Vertin.Thirty-seven: Only when your eyes are closed will your mind open up.
 
 **37:** Apeiron, the Boundless, the beginning of all things.
@@ -8028,7 +8026,7 @@ The "form" of Manus Vindictae ... It's more distorted than I thought.
 ...It's all over.
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -8235,7 +8233,7 @@ The danger is close. One must act now.
 
 > That which obscures the sea, that which engulfs the clouds, comes heavily.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Regulus:** Vertin, finally!
 
 **Regulus:** The Manus suddenly emerged everywhere like ants! Lilya and I couldn't take them all down!
@@ -8329,7 +8327,7 @@ A fleet in black is breaking the waves and sailing toward the island.
 **Sophia:** Sonetto.
 
 **Sophia:** Did you bring the humans' army here?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>

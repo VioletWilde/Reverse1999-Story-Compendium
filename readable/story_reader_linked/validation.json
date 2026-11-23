@@ -1,79 +1,60 @@
 {
-  "format": "reverse1999-linked-reader-index-validation-v4",
+  "format": "reverse1999-linked-reader-index-validation-v5",
   "date": "2026-11-23",
   "editions": {
     "zh-CN": {
       "chapters": 147,
       "episodes": 1636,
       "trails": 671,
-      "source": "客户端 + UTTU",
-      "source_date": "2026-11-23",
-      "source_version": "mixed",
-      "client_baseline": "4.1"
+      "edition": "CN",
+      "version_baseline": "4.1",
+      "source_version": "4.1",
+      "source_date": "2026-11-10"
     },
     "en": {
       "chapters": 137,
       "episodes": 1509,
       "trails": 620,
-      "source": "客户端 + UTTU",
-      "source_date": "2026-11-23",
-      "source_version": "mixed",
-      "client_baseline": "3.9.0"
+      "edition": "Global",
+      "version_baseline": "3.9.0",
+      "source_version": "3.9.0",
+      "source_date": "2026-11-10"
     },
     "ja": {
       "chapters": 136,
       "episodes": 1505,
       "trails": 620,
-      "source": "客户端 + UTTU",
-      "source_date": "2026-11-23",
-      "source_version": "mixed",
-      "client_baseline": "3.9.0"
+      "edition": "Global",
+      "version_baseline": "3.9.0",
+      "source_version": "3.9.0",
+      "source_date": "2026-11-10"
     },
     "ko": {
       "chapters": 136,
       "episodes": 1505,
       "trails": 620,
-      "source": "客户端 + UTTU",
-      "source_date": "2026-11-23",
-      "source_version": "mixed",
-      "client_baseline": "3.9.0"
+      "edition": "Global",
+      "version_baseline": "3.9.0",
+      "source_version": "3.9.0",
+      "source_date": "2026-11-10"
     },
     "zh-TW": {
       "chapters": 136,
       "episodes": 1505,
       "trails": 620,
-      "source": "客户端 + UTTU",
-      "source_date": "2026-11-23",
-      "source_version": "mixed",
-      "client_baseline": "3.9.0"
+      "edition": "Global",
+      "version_baseline": "3.9.0",
+      "source_version": "3.9.0",
+      "source_date": "2026-11-10"
     }
   },
+  "version_scope": "国服与国际服分别按对应版本收录；国际服未上线版本不计为漏收或缺译。",
   "chapter_files_checked": 692,
-  "source_pages_checked": 686,
-  "source_units_checked": 7622,
-  "source_text_nodes_checked": 1362824,
-  "missing_source_chapters": 0,
-  "missing_source_units": 0,
-  "missing_source_trails": 0,
   "blank_titles": [],
   "broken_links": [],
   "missing_navigation": [],
-  "source_gameplay_units_without_text": 10,
-  "source_group_headers": 4,
-  "client_only_units_without_separate_script": 20,
-  "coverage_report": "../../structured/uttu_completion_20261123/README.md",
+  "coverage_report": "../../structured/story_reader_completion_20261123/README.md",
   "passed": true,
-  "relative_links_checked": 12753,
-  "readme_files_checked": 12,
-  "compressed_source_replay": {
-    "passed": true,
-    "story_units": 7622,
-    "trail_records": 3055,
-    "forum_posts": 460,
-    "text_nodes": 1362824
-  },
-  "renderer_unit_tests": {
-    "passed": true,
-    "tests": 5
-  }
+  "relative_links_checked": 12464,
+  "readme_files_checked": 12
 }

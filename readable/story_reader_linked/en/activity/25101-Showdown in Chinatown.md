@@ -7,8 +7,6 @@
 - Story units：`22`
 - Trail：`17`
 
-[UTTU](https://uttu.merui.net/story/event/2_5/en/?part=1)
-
 \*click-clack\* The film reel clicks to life,
 and familiar scenes appear on the screen.
 Detective C07 will be re-released soon.
@@ -46,7 +44,7 @@ We eagerly await your attendance.
 
 > Nothing like a cold welcome to greet a rookie.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 It is said that during the Shāng and Zhōu Dynasties, our land was plagued by malevolent creatures. They roamed the land, bringing havoc and leaving the nation and its people in endless suffering.
 
 On the emperor's order, Fāngxiàngshì the Wise sought the assistance of the twelve gods of Shètí. Bestowed with their divine might, Fāngxiàngshì bound the creatures and turned their monstrous power to the service of the people. These creatures became known as the Xiǎndào Beasts, guardians of the perilous path.
@@ -336,7 +334,7 @@ Poitier's eyes widen, but it's too late to act.
 Poitier can't help but mutter a curse under her breath.
 
 **Poitier:** Crap. Guess my day isn't getting any easier.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · This Is NOT a Business Ad
 
@@ -376,7 +374,7 @@ Your Close Companion is Here
 
 > Put down the donut, drop the radio, and lick the sugar off your fingers—this is no joke.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Poitier:** Here we are. Get out.
 
 Street, Los Angeles
@@ -658,7 +656,7 @@ The radio announcement cuts their get-to-know-you session short.
 **Liang Yue:** City Hall? We're close by, aren't we?
 
 **Poitier:** Pack up. Lunchtime's over.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · Spot Check
 
@@ -711,7 +709,7 @@ END OF DIALOGUE
 
 > The scale once tried to measure it all.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 City Hall
 
 **Old Police Officer:** Let go of the hostage, sir. This won't do you any good.
@@ -907,7 +905,7 @@ She lets out a frosty huff and turns away.
 The clamor of fearful voices cuts her off.
 
 **Young Police Officer:** No. Somebody stop him.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -917,7 +915,7 @@ The clamor of fearful voices cuts her off.
 
 > Shh, the device is connected—It's calling your name.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Johnny Three-Times:** Stay back!! Help me! Help!!!
 
 The City Hall has been plunged back into chaos. Johnny lets out a shriek, scrambling to get as far away as possible.
@@ -1229,7 +1227,7 @@ Something in Qí Xīng's gaze makes Liáng feel as though she's standing too clo
 **Qi Xing:** Liáng Yuè ... Liáng Yuè.
 
 **Qi Xing:** It's a good name, little vigil. I'll keep it in mind.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · Deleted Scene
 
@@ -1301,7 +1299,7 @@ END OF DIALOGUE
 
 > People generally prefer to maintain their distance before promises are made.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Liang Yue:** I read an article about the conflicts between Ms. Qí Xīng and the other two producers of the C07 series.
 
 **Liang Yue:** Before, I thought it was only rumors. But now, thinking over what she said, what if it's true?
@@ -1589,7 +1587,7 @@ The Arcanum Containment Department.
 **Matilda:** Ah. Voilà. I believe I am here.
 
 **Matilda:** Hmm, it is much brighter and more spacious than I expected.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1912,7 +1910,7 @@ Welcome to the Laplace Rehabilitation Center! We are the world's leading hospita
 
 > Cold drinks, fat bounties, and long holidays—shame it never works out that way.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Matilda:** Cabinets, cabinets, and more cabinets.
 
 **Matilda:** Who is in charge here? I was under the impression this was an important department, no? Where is the security?
@@ -2158,7 +2156,7 @@ Liáng pulls out the communication device often criticized by Foundation employe
 She opens the pinned email and scans through the attached files. Her expression turns serious.
 
 **Liang Yue:** Wait. Is this ...
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · Pieced Together
 
@@ -2183,7 +2181,7 @@ Although I don't usually keep a journal, I had to record today's encounter—I m
 
 > Remember, keep the cameras hidden—that's the secret.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Noire's Set
 
 **Crew Member:** Whose is this? It's blocking the camera's sightlines. Get it out of the way!
@@ -2417,7 +2415,7 @@ These murmurs, of course, don't escape Noire's and Liáng's notice. When she spe
 **Liang Yue:** So, as you can see, I have more than a strong reason to believe you are connected. And if this cursed reel is behind these recent incidents ...
 
 **Liang Yue:** I'm afraid that you may be the intended target of this curse.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -2427,7 +2425,7 @@ These murmurs, of course, don't escape Noire's and Liáng's notice. When she spe
 
 > The first principle is that what you see is real, but it might not be the truth.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Guangfu Restaurant
 
 **Poitier:** Hot damn, rookie. Who coulda guessed the famous director would be a part of her own real-life thriller.
@@ -2629,7 +2627,7 @@ She shakes her head.
 Scott's expression visibly relaxes.
 
 **Scott:** Oh. What a pity.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · Confidential Record
 
@@ -2654,7 +2652,7 @@ Noire, female, arcanist. Her arcane skill allows her to manipulate inanimate obj
 
 > Catch that speeding hamster!
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Female Storekeeper:** Have a good day!
 
 Before the owner can even say goodbye, Liáng has yanked Poitier out the front door.
@@ -2856,7 +2854,7 @@ But her feeble resistance has no effect on the officers. After sighing in unison
 **Liang Yue:** I've made a request for Ms. Latham's detailed records. But, I don't think she's lying.
 
 **Liang Yue:** Back at the hospital, the best lie she could come up with was "a hamster riding a stethoscope." I kind of doubt she's a master manipulator.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -2866,7 +2864,7 @@ But her feeble resistance has no effect on the officers. After sighing in unison
 
 > Dispel the fog, unravel the mystery, and they'll claim that this is the truth.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Liang Yue:** Let me sort things out.
 
 **Liang Yue:** Ms. Loggerhead, you said you could record and save your memories using a special type of film developed by Laplace.
@@ -3088,7 +3086,7 @@ She stops a few paces in front of the person in question.
 Noire blinks.
 
 **Noire:** Hmm. You surprise me again.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · Double Check
 
@@ -3147,7 +3145,7 @@ END OF DIALOGUE
 
 > Don't speak, don't blink, don't fidget, and definitely don't sneeze!
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Noire:** You mean to say that you're a stuntwoman? Seriously?
 
 Noire chuckles and shakes her head before turning her wheelchair in disinterest.
@@ -3475,7 +3473,7 @@ Noire ponders for a moment.
 She gives a slight shake of her head, but a flicker of contemplation passes through her downcast eyes.
 
 **Noire:** Well, I can tell you one thing that might interest you, though.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -3485,7 +3483,7 @@ She gives a slight shake of her head, but a flicker of contemplation passes thro
 
 > When the nose catches the scent of the cheese, that's when the tail gives it away.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Night has deepened, and the little restaurant on the corner outside of Chinatown is almost empty. The doorbell chimes, and two people walk in.
 
 **Loggerhead:** Scott, and Tall Officer, over here.
@@ -3661,7 +3659,7 @@ Scott heaves a sigh of relief, only for Liáng's next words to hit her like a th
 **Liang Yue:** You never had the intention of betraying him, nor were you working with us.
 
 **Liang Yue:** You simply gave him the item you wanted to sell. That's it.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -3671,7 +3669,7 @@ Scott heaves a sigh of relief, only for Liáng's next words to hit her like a th
 
 > Plans account for everything—except the unexpected, which never fails to arrive.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Loggerhead:** What? What do you mean?
 
 Loggerhead turns to her friend, then to Pug Dog, then back to Liáng. She remains totally expressionless.
@@ -3873,7 +3871,7 @@ Qí Xīng shows no surprise. She narrows her eyes a little, as if she foresaw th
 **Qi Xing:** That's the spirit. This should be fun with you here, little vigil.
 
 **Qi Xing:** Let's all play our roles, shall we?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · Calculated Maneuver
 
@@ -3898,7 +3896,7 @@ This letter was tucked inside a folder of interrogation records, it appears to h
 
 > An empty heart and a pair of longing eyes.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 ***
 
 COMBAT:
@@ -4128,7 +4126,7 @@ Liáng's head throbs. Dazed, she looks around, taking in the sterile white of th
 **Liang Yue:** ...
 
 **Poitier:** Alright, turn on the TV for me. I was bored out of my mind waiting for you to wake up.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · Syncing Up
 
@@ -4179,7 +4177,7 @@ END OF DIALOGUE
 
 > Silence and stillness are already the highest form of alert.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Loggerhead:** Tall Officer, are you up? I got you guys Chinese food. You must be hungry.
 
 **Poitier:** Shh.
@@ -4425,7 +4423,7 @@ She raises an eyebrow, a hint of mischief growing behind her smile.
 **Noire:** Saying "I want to know more about you" sounds rather beautiful. It's touching, really.
 
 **Noire:** I'll answer your questions, Ms. Liáng. Follow me.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · L.A. Efficiency
 
@@ -4450,7 +4448,7 @@ Based on the latest Vigiles Bureau guidelines on recent arcanum-related violence
 
 > Years later, all they remember is that empty stage.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Noire:** Our story began 11 years ago. Life was tough, as it is for all young artists.
 
 **Noire:** But, like the beginning of many stories, there was a kind of beauty in it.
@@ -4708,7 +4706,7 @@ Liáng's expression suddenly shifts.
 **Noire:** Your guess is as good as mine.
 
 They exchange a glance, then both turn their gaze to the image of the Shèhuǒ Parade printed on the poster in front of them.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · The Joy of Dushuo
 
@@ -4733,7 +4731,7 @@ Our reporter brings you an exclusive frontline update: "As the Dushuo Festival b
 
 > The fire they held high lit up the children's faces.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Enraged Man:** Wow, look at all these people! We should've come earlier. I can hardly see a thing from here.
 
 **Woman:** And whose fault is that? You're the one who took ages to get ready. Anyway, at least we haven't missed much. Looks like it just started.
@@ -4989,7 +4987,7 @@ Liáng waits quietly for Noire to speak, but she never does. She simply stares a
 Eventually, Liáng can wait no longer.
 
 **Liang Yue:** Why me, Ms. Noire?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -4999,7 +4997,7 @@ Eventually, Liáng can wait no longer.
 
 > The fruit taken must be returned to their branches.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The cheers and laughter of the Shèhuǒ Parade echo through the alley, muffled and distant.
 
 **Liang Yue:** You could've just told Elden about what happened between the three of you. You could've shown him the threatening letter.
@@ -5307,7 +5305,7 @@ They have no way of knowing that the one responsible for all this is standing ju
 **Qi Xing:** Sounds like you already know what this film reel is capable of. Good. Saves me the trouble of explaining it.
 
 **Qi Xing:** Now, bring me Noire.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · Truthful Exchange
 
@@ -5354,7 +5352,7 @@ END OF DIALOGUE
 
 > Between what people see and what they judge.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Arcane Affairs Officer I:** Target spotted. I repeat, target spotted.
 
 Within moments of the plainclothes officer's words, the arriving police evacuate the crowd and seal off the street.
@@ -5636,7 +5634,7 @@ Arcane Affairs Officer: Ammo's running low, sir.Deputy Chief Elden: They must be
 **Liang Yue:**Arise Qiángliáng, swift and fierce! Banish all evil and cleanse this place!
 
 **Qi Xing:** ...!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -5884,7 +5882,7 @@ Reel 1 – Scene 24 – Shot 9 – Take 3 Writer – He Rijun Scene Description:
 
 > The final spark in their eyes, fading slowly.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 A brilliant flash splits the darkened sky in two, and a thunderous roar scatters the shadows. All fear and unease are forgotten in an instant.
 
 Every head turns to the place where the lightning struck to see a colossal beast standing in solemn majesty. The crowd falls silent. Then, a single young voice cries out.
@@ -6180,7 +6178,7 @@ Liang Yue: Please, Qiángliáng, heed my call.Liang Yue: Ugh!Liang Yue: Th-This 
 **Liang's Father:** ... a Xiǎndào Beast would one day come to their aid, expelling the fiends and restoring peace and prosperity.
 
 **Liang Yue:** Qiángliáng, no!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -6190,7 +6188,7 @@ Liang Yue: Please, Qiángliáng, heed my call.Liang Yue: Ugh!Liang Yue: Th-This 
 
 > But you'll always love the story, for it remains there, unchanged.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The storm clouds gradually disperse, and sunlight streams into the ward. In the corner, the television broadcasts a news report.
 
 **Reporter:** Last night, the Chinatown Shèhuǒ Parade drew hundreds as tourists and locals gathered for the Eastern spectacle.
@@ -6458,7 +6456,7 @@ Noire's expression does not ease. It seems the title Vigiles Bureau doesn't brin
 **Noire:** Nothing's more important than a movie that's about to start. Let's go, vigil.
 
 They exchange a smile and enter the makeshift theater together.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · After the Show
 
@@ -6537,7 +6535,7 @@ END OF DIALOGUE
 
 > A bouquet left by the comforter, wilting away.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Hospital
 
 **Loggerhead:** Scott's ward, Scott's ward. Did I take a wrong turn?
@@ -6781,7 +6779,7 @@ She curls her lips into a smile and flicks the shard of glass from between her f
 **Black Ibis:** Like I said earlier, not bad at all.
 
 With that, the two figures in black vanish out the door.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---

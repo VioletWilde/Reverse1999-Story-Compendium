@@ -7,8 +7,6 @@
 - Story units：`22`
 - Trail：`27`
 
-[UTTU](https://uttu.merui.net/story/event/2_0/en/?part=1)
-
 Welcome to the rapidly changing 1990s!
 There's plenty to keep you busy.
 After all, their celebration is just around the corner.
@@ -45,7 +43,7 @@ After all, their celebration is just around the corner.
 
 > The disco ball and the pretty girl, get ready for a great time, friend!
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Ostrich Radio:** Goood afternoon, San Francisco, to my dazed-out junkies, my loud and proud mischief-makers, and all my beautiful little heartthrobs!
 
 **Ostrich Radio:** It's your oldest and dearest friend, with the straight shooting of your father and tender-loving just like your mama. It's your boy, Vincent, aka "The Old Ostrich"!
@@ -427,7 +425,7 @@ The man stands in place, lost in her words, until an alley cat leaps over his sh
 In his daze, he recalls the first time he fired a gun, the blood and brain matter, and the trembling midnight he spent hiding in the bathroom after.
 
 **Gio:** \*pukes\*
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -437,7 +435,7 @@ In his daze, he recalls the first time he fired a gun, the blood and brain matte
 
 > Grab the remote and crank up the volume.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Tang's Restaurant
 
 **Hollick:** So as I take off the tire, I notice the gal, some rich lady from the market's got a crazy look of worry on her face.
@@ -709,7 +707,7 @@ Regardless—
 **J:** \*sigh\*
 
 **J:** But get this straight: if I see her fold her arms and give me any of that snooty attitude, we're gone, out the door, no discussion!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · Returned to Sender
 
@@ -1407,7 +1405,7 @@ Pioneer:Pioneer, sir. I think people will call me Pioneer from now on.
 
 > It's not too light and not too heavy.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 An Old Room
 
 The wind sways the window shutters as it blows in through its gaps.
@@ -1759,7 +1757,7 @@ There is a wave of uneasy commotion in the hallway as people gathered in a thron
 A tall man moves through the crowd. As he passes, the throng goes silent.
 
 **Bernard:** Fiona, can you tell me what happened here?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1769,7 +1767,7 @@ A tall man moves through the crowd. As he passes, the throng goes silent.
 
 > ... Along with a new mission.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Guest Room, San Francisco Branch
 
 Neatly stacked clothes lie on the bed, the suitcase open and empty.
@@ -1969,7 +1967,7 @@ J flings the girl from his hand like a hot potato.
 COMBAT:
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1979,7 +1977,7 @@ COMBAT:
 
 > ... And an answer divined.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Tent Interior
 
 "Bang—!"
@@ -2221,7 +2219,7 @@ But he does nothing.
 In a swirling storm of grief, despair, and rage, he finds his center.
 
 Unnoticed by any present, a faint crack appears at the base of the crystal ball.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · Street Gossip
 
@@ -2260,7 +2258,7 @@ Market Diviner:So as long as they line our pockets with cash, that's all that re
 
 > The lost lambs shall wait and rejoice.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Her luggage is half-packed and already overstuffed. She's rushing, haphazardly throwing things in as she goes, unwilling to pause for even a moment.
 
 **Paulina:** That smug, know-it-all, manipulative bastard. How is it that I still need to learn not to trust anything that comes out of that-that stupid lying jerk's mouth?
@@ -2556,7 +2554,7 @@ The wind howls past as they pick up speed. Matilda sticks her head up to speak.
 A number of profanities tingle on his tongue, but for the moment, he swallows them back.
 
 **J:** Hold on to your socks, water ahead!!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -2566,7 +2564,7 @@ A number of profanities tingle on his tongue, but for the moment, he swallows th
 
 > The key to the promised land.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Grimy Alleyway
 
 The motorcycle slows as it enters the alley, having lost their mad pursuers.
@@ -2778,7 +2776,7 @@ He meets her eyes with a blank expression.
 Matilda stammers in bewilderment at their answers.
 
 **Matilda:** ...
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -2788,7 +2786,7 @@ Matilda stammers in bewilderment at their answers.
 
 > Go fetch, pet.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Chamber, Order of Enlightenment
 
 **Apostle Matheus:** Blood must be shed, and our blasphemers eliminated. You have proven your unwavering devotion.
@@ -2880,7 +2878,7 @@ The Apostle wipes the corner of his mouth with a handkerchief.
 **Apostle Matheus:** Speak to no one about this sacred mission.
 
 **Apostle Matheus:** Find the one worthy of our ceremony for us, and for yourself, Legers.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -2890,7 +2888,7 @@ The Apostle wipes the corner of his mouth with a handkerchief.
 
 > Two bags of gold in a cave.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Cooper the Healer:** So this lovely young lady is family all the way from France, Mecuria? Well, let me be her guide to the wonders of America! Look at her pretty outfit, add some crystal earrings and a stylish wand, I bet she'll be knock-out, am I right?
 
 **Matilda:** Umm, I appreciate your hospitality, madame, but I, I have a very important mission, a shopping mission! So much shopping to do. So, nice to meet you, Ms. Cooper.
@@ -3176,7 +3174,7 @@ Her eyelids grow heavy, and her limbs go weak and limp.
 **Mercuria:** Sweet dreams, Tildy.
 
 **Mercuria:** The road to "Elysium" is mine, and only mine.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -3186,7 +3184,7 @@ Her eyelids grow heavy, and her limbs go weak and limp.
 
 > Take a seat at the mobster's game.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Matilda:** Ugh ... Whoa!
 
 Matilda awakes from her stupor.
@@ -3562,7 +3560,7 @@ The crowd breaks apart slowly and wordlessly, until they've left only an empty, 
 He runs out to catch the crowd, but soon he too grasps his vulnerability.
 
 Like a straggling bird, left out from the flock.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -3572,7 +3570,7 @@ Like a straggling bird, left out from the flock.
 
 > Clang, clang, clang—the anvil rings with each decisive strike of the hammer.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The club's air is thick with smoldering ash and smoke.
 
 The "Open" sign swings forlornly at the door. Those few that still pass it on the street do so quickly, as if running past a graveyard.
@@ -3800,7 +3798,7 @@ The round bartender has polished the table to a shine, as if oblivious to the de
 He is already gone.
 
 "Buzz, buzz—buzz!"
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -3810,7 +3808,7 @@ He is already gone.
 
 > Putting on a convincing front.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Hidden Safehouse
 
 Jars and bottles line the table, with dried herbs bound with twine placed neatly in the corner.
@@ -4092,7 +4090,7 @@ Until at last his heart gives way, beating its last.
 **Legers:** He's gone. I won't blame Gio.
 
 **Legers:** And I see now why you all made your choice.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -4102,7 +4100,7 @@ Until at last his heart gives way, beating its last.
 
 > Right at the enemy's gates.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Market Guard I:** We thought she was a grandma, you know, like one of those little old ladies who uses a walker.
 
 **Market Guard I:** Boy was I wrong. She ran faster than a jackrabbit. So there she went, the goods still in her arms.
@@ -4302,7 +4300,7 @@ The scene is overwhelming. Words catch in their throats.
 Behind them, a familiar yet strange voice speaks out.
 
 **???:** \*chuckles\* Welcome, distinguished guests.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -4312,7 +4310,7 @@ Behind them, a familiar yet strange voice speaks out.
 
 > Our praises are reserved for Them alone.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Gathering Place, New Age Market
 
 **???:** What a pity. I thought you gentlemen would recognize me.
@@ -4510,7 +4508,7 @@ Chanting: Faced with sorrow, eyes shall be blinded.Chanting: Open your arms and 
 **Chanting:** Recall the origin of your soul, and return to the one and only home.
 
 Elysium.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -4520,7 +4518,7 @@ Elysium.
 
 > It is only when your eyes are covered that you can truly see.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **"Razor":** According to the Foundation's assessment, this is a priority level A operation, which means it'll be as dangerous as the Walden operation. I hope you're fully aware of the risk.
 
 **"Razor" Soldier I:** We don't have enough men or supplies, Captain. We don't stand a chance!
@@ -4710,7 +4708,7 @@ Believers: We praise, we rejoice.Apostle Matheus: We punish, we cleanse, we awak
 **Believers:** We are one.
 
 **Mercuria:** We are one.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -4720,7 +4718,7 @@ Believers: We praise, we rejoice.Apostle Matheus: We punish, we cleanse, we awak
 
 > To an exclusive abode to enjoy Their grace.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The "Razor" Squad, always sharp as a scalpel, comes to an immediate halt.
 
 This doesn't match their mission intelligence.
@@ -4968,7 +4966,7 @@ The voice beckons the figures into the mist.
 **Mercuria:** And come with me.
 
 They find themselves within the drifting, elusive fog.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -4978,7 +4976,7 @@ They find themselves within the drifting, elusive fog.
 
 > The sound of a whimper in a corner of the handbag.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The Apostle's limbs fall, having lost all strength.
 
 He hunches over, crumpling as if to hide from the chaos.
@@ -5214,7 +5212,7 @@ Cold and silver moonlight sifts through the treetops.
 She opens her eyes and dully lifts her head.
 
 **???:** How may I serve you?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -5224,7 +5222,7 @@ She opens her eyes and dully lifts her head.
 
 > Clench your fists, grit your teeth.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **???:** I'll solve any problem for you, master.
 
 **???:** Would you like me to break your creditor's neck? Or seduce a politician? I will obey your every command.
@@ -5510,7 +5508,7 @@ The red mist mingles with dark gray smoke, forming a deep haze.
 **J:** \*coughs\* Ugh. Hollick ...
 
 **J:** It's the only way. Someone's gotta see the smoke.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -5520,7 +5518,7 @@ The red mist mingles with dark gray smoke, forming a deep haze.
 
 > It was once associated with a delicate ideal.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Paulina:** Enough, J. I really don't give a crap about what you've learned "on the streets." I don't want to hear it.
 
 **Paulina:** I'd rather take my chances and die out there than stay here and never live at all.
@@ -5682,7 +5680,7 @@ J: Just run ... \*coughs\*J: Forget about us. Save yourself.Paulina: Some people
 **J:** ... we'd never met.
 
 **???:** There they are!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -5692,7 +5690,7 @@ J: Just run ... \*coughs\*J: Forget about us. Save yourself.Paulina: Some people
 
 > Confessions and realizations.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Anonymous Writer:** I don't want to write this letter.
 
 **Anonymous Writer:** But I promised myself that, once we could talk as equals, I would persuade you to accept my decision.
@@ -5790,7 +5788,7 @@ He takes down the photo, folds the letter, and smooths it out.
 Then, he slips both into his chest pocket.
 
 And just as she had once, he pushes the door open to leave.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -5800,7 +5798,7 @@ And just as she had once, he pushes the door open to leave.
 
 > The redemption of the duck.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Ward, Laplace Rehab Center
 
 **Cateye Wisen:** \*cries\* Boss! What's in it for you to join the Foundation?! You know they're all liars!
@@ -5988,7 +5986,7 @@ She knows that this is a chance for a new beginning.
 She picks up a long, curved branch, using it as makeshift reins to guide the believer to his "desired destination."
 
 From time to time, she glances back, trying to spot the toy on him ...
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · "New Age Market Incident" Report
 
@@ -6013,7 +6011,7 @@ Relying on the help of Ms. Maich, a citizen of the New Age Market, the support t
 
 > Knock, knock. Who's not there?
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Ruins
 
 A figure stands before the ruins.
@@ -6155,7 +6153,7 @@ Dozens, even hundreds of crystal spheres scatter to the floor, like pearls from 
 They fill the room, each one marred by a web of cracks.
 
 **Matilda:** Mama?!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>

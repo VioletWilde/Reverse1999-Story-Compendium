@@ -7,8 +7,6 @@
 - Story units：`4`
 - Trail：`0`
 
-[UTTU](https://uttu.merui.net/story/other/uttu1_3/en/?part=1)
-
 A gathering of arcanum.
 We read and we learn.
 
@@ -24,7 +22,7 @@ We read and we learn.
 <a id="episode-90002101"></a>
 ## 90002101 · Volume I
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The crowds in Chandigarh are gathered around a small roadside stall.
 
 **Kanjira:** My dear guest, which of these cards is the queen of spades?
@@ -140,7 +138,7 @@ Ajar flips over the card on the far right to reveal seven of diamonds. Beneath i
 **Kanjira:** Hmph! You is so short-sighted! This is just bait to reel a big catch in.
 
 **Kanjira:** Come on, keep up! I want to see what this "UTTU" is up to.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -148,7 +146,7 @@ Ajar flips over the card on the far right to reveal seven of diamonds. Beneath i
 <a id="episode-90002102"></a>
 ## 90002102 · Volume II
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Kanjira and Ajar hide themselves behind the corner of the street, observing a few familiar figures standing by the newsboy.
 
 **Ajar:** Kaalaa Baunaa, Matilda, Shamane! What are they ...
@@ -214,7 +212,7 @@ Ajar clams up and looks rather bemused, having not understood any of Kanjira's p
 **Matilda:** Not so fast! The venue is too elusive. We can only find it according to the hints in FLASH: FAME.
 
 **Kanjira:** Heh, not a big deal. Leave it to clever Kanjira here!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -222,7 +220,7 @@ Ajar clams up and looks rather bemused, having not understood any of Kanjira's p
 <a id="episode-90002103"></a>
 ## 90002103 · Volume III
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Kanjira:** These words ... Um ... They look like nothing I seen before.
 
 The girl nods and makes a fair comment.
@@ -290,7 +288,7 @@ Kaalaa Baunaa runs a hand over the wall beside her.
 **Kanjira:** A gathering like this ... More buildings, more stories, um ...
 
 **Kanjira:** Come on! I can't wait to read next chapter!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -298,7 +296,7 @@ Kaalaa Baunaa runs a hand over the wall beside her.
 <a id="episode-90002104"></a>
 ## 90002104 · Volume IV
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Kanjira:** The Demon King is unbelievable. He's got ten heads.
 
 **Kaalaa Baunaa:** The Nectar of Immortality has made the Demon King almost impossible to kill, and these ten heads represent his ten vices.
@@ -360,7 +358,7 @@ The group watches her disappear around the corner and sighs in resignation.
 The boy standing aside raises his eyebrows and bursts into laughter, as though he has realized something.
 
 **Ajar:** I think Boss is ready to "cut off the heads"!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---

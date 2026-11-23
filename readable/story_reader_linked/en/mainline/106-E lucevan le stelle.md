@@ -7,8 +7,6 @@
 - Story units：`24`
 - Trail：`22`
 
-[UTTU](https://uttu.merui.net/story/main/chapter-6/en/?part=1)
-
 1914 · We still have a show to enjoy.
 
 Performances under the golden ball. The stage, the mirrors, and the circles that encompass all.
@@ -47,7 +45,7 @@ Performances under the golden ball. The stage, the mirrors, and the circles that
 
 > A razor, impeccably sharp and dressed in green, that stands up for the people.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **???:** Ladies and gentlemen, welcome.
 
 Meeting Hall
@@ -235,7 +233,7 @@ The gentleman's face cracks with expression.
 **Kakania:** ...!
 
 **Kakania:** Get her off the chair! Now!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -588,7 +586,7 @@ Theater Impressions
 
 > The opening notes of a big crescendo.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Laplace Main Hall
 
 **Medicine Pocket:** Move, ugh, move!
@@ -824,7 +822,7 @@ The young student straightens up. Her mentor catches her emotion and replies uns
 **Hofmann:** Now just focus on our destination, Vienna.
 
 **Hofmann:** Time to get out. Grab your luggage.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1096,7 +1094,7 @@ Suggestion Box Samples
 
 > Lengthy procedures, excessive paperwork, and bureaucratic red tape.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Ring Road
 
 **Marcus:** Here it is ... the national treasure of Austria!
@@ -1402,7 +1400,7 @@ The apprentice halts her speech, cowed by Hofmann's warning.
 **Hofmann:** Put away your license. We need to catch up with Karl.
 
 **Hofmann:** Remember my words, Marcus: never trust anyone, even if they're a branch member of the Foundation.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1744,7 +1742,7 @@ St. Pavlov Foundation Vienna Branch Employee Notes
 
 > Must a fork always be paired with a cake? Must art always adhere to tradition?
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Marcus:** So this ... is the Vienna branch?!
 
 **Marcus:** It's ... splendid! Look at the walls, simple yet elegant ... It's like a temple of modern art!
@@ -2028,7 +2026,7 @@ Her eyes center on the door of the Secession Building.
 **Marcus:** I think it's ... it's a ...
 
 **Marcus:** ... ghost?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -2393,7 +2391,7 @@ The Mitosis
 
 > They lift chairs, smash furniture, and jump out of walls. And there's nothing you can do to stop them.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Heinrich:** ... Isolde? Isolde!
 
 **Guest I:** My God, she passed out again!
@@ -2585,7 +2583,7 @@ But before the door can close, a hand halts its motion.
 **Heinrich:** Kakania ... Hmm? You are from the Foundation, and ...
 
 **Heinrich:** Angelotti, and the Unknown Lady?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -2768,7 +2766,7 @@ But before the door can close, a hand halts its motion.
 
 > Oh, if only you could say the right name, everything would be so much easier.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Outside the temple of art, the mentor imparts a final set of admonitions to her apprentice.
 
 **Hofmann:** Remember, Marcus, the working staff of the Foundation branch will take care of the dispute in their fashion. We just need to follow him in.
@@ -3010,7 +3008,7 @@ Karl meets Hofmann's eyes in another overly affable attempt at good nature.
 **Hofmann:** ...
 
 **Hofmann:** Hm. We should leave.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -3319,7 +3317,7 @@ The Weight of a Name
 
 > A showdown for the future of a shining star.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Marcus:** Good day. I would like to check the date of a novel.
 
 **Marcus:** Yes, it is The Man Without Qualities, by Robert Musil.
@@ -3651,7 +3649,7 @@ Lead us if you want your pay, Illich!
 Got it. Follow me!
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -3983,7 +3981,7 @@ A Notebook Covered in Mud and Blood
 
 > You and I met, and the room was aglow with light.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Vendor I:** Kakania! This way! Over here!
 
 **Kakania:** Illich! Thanks a lot! The prop sure came in handy.
@@ -4271,7 +4269,7 @@ Ouch!
 \*pants\* I-I won!
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -4600,7 +4598,7 @@ Children of the Empire
 
 > Of doorways and brushing shoulders.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Marcus:** Phew. The reflections she created were real enough, but not perfect.
 
 **Marcus:** The reflections had neither shadows nor breath. Most importantly, they didn't have her passion and subtle movements.
@@ -4836,7 +4834,7 @@ She turns and hurries away, the door opening just in time.
 Marcus doesn't stop, nodding and gliding around the newcomer in a fast, fluid motion.
 
 **Isolde:** ...
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -5123,7 +5121,7 @@ Is there any satisfaction in waking up? Once you do, it's gone forever. You're l
 
 > Glimpses of the heart.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Two invitations, from the founder of "The Circle," no less.
 
 A precious opportunity—a rare and precious clue to the goings-on here.
@@ -5439,7 +5437,7 @@ They left ...
 It's okay. I'm here. You'll be alright ...
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -5719,7 +5717,7 @@ Front Page and Beyond
 
 > Two pairs of eyes, locked upon the selfsame star.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Kakania:** Feeling better now? Is anything still haunting you, talking to you?
 
 **Kakania:** Do you remember who you are, Isolde?
@@ -6029,7 +6027,7 @@ Kakania concludes her monologue, removing her hat to fastidiously straighten the
 **Kakania:** Yes. It is my pleasure.
 
 **Kakania:** Would you like a walk to the Vienna People's Opera? I think they put up new posters.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -6377,7 +6375,7 @@ Faltering Footsteps
 
 > Salvation shall be proclaimed.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 From a higher vantage, the view is much improved.
 
 **Marcus:** Reporter of New Free Press, editor-in-chief of the Pan ... The founder of The Torch ...
@@ -6617,7 +6615,7 @@ This tunnel leads to ...
 The Vienna branch ... of the Foundation?
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -6871,7 +6869,7 @@ Shoeshine Boys
 
 > "That golden island is undoubtedly a sanctuary for the arts, a utopia where all arcanists can thrive."
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Guest Room, Island
 
 The low stone table is ill-suited for writing, but there is little other choice for the moment.
@@ -7073,7 +7071,7 @@ Where the red wax seal of the St. Pavlov Foundation's express letter is clearly 
 **Sophia:** Are these all from the outside world?
 
 **Sophia:** What's happening out there?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -7344,7 +7342,7 @@ Viennese Coffee
 
 > A surge of passion, a genuine heart, and a single tear.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Kakania:** I'm looking for Isolde von Dittarsdorf.
 
 Two vigilant eyes appear from within the vent.
@@ -7520,7 +7518,7 @@ But then her face returns, now hidden behind a black mask.
 **Isolde:** I just ... want to give you the truth of the world.
 
 **Isolde:** I just want to give you back your dream.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -7717,7 +7715,7 @@ But then her face returns, now hidden behind a black mask.
 
 > Don't fall into darkness.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Hofmann:** Burn these letters, Marcus.
 
 **Hofmann:** Destroy them in accordance with the Field Mission Manual Article 341 so that no one else can read them.
@@ -7953,7 +7951,7 @@ Hofmann nods, loading more bullets into the chamber.
 **Hofmann:** The fog is cleared. Let's go.
 
 **Hofmann:** Now, we need to find Kakania.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -8264,7 +8262,7 @@ The Night before the Gunshot
 
 > "Seeking Silenus in the woods, I asked him."
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Kakania:** What are you talking about?
 
 **Kakania:** The "Storm," the war ...? I don't understand.
@@ -8536,7 +8534,7 @@ The young assistant clutches the doctor's sleeve tightly.
 **Marcus:** A catastrophe is about to sweep across the globe.
 
 **Marcus:** But there are still things we can do. If it goes smoothly ... perhaps we can save plenty of lives.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -8844,7 +8842,7 @@ Like stray locusts or straggling rats, weak and exposed.
 
 > And now, the most anticipated performance.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Vienna People's Opera
 
 **Hofmann:** ... The Field Agent Squad cannot make it this time. They have a more urgent mission.
@@ -9006,7 +9004,7 @@ The black-haired opera singer steps to the front of the stage.
 **Kakania:** Please, enjoy.
 
 **Kakania:** Even if the world ends tomorrow, we still have a show to enjoy.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -9191,7 +9189,7 @@ The black-haired opera singer steps to the front of the stage.
 
 > Applaud, applaud, applaud!
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 gundongzimu\_1#0.1#52
 
 **Marcus:** ... It is going smoothly.
@@ -9335,7 +9333,7 @@ It rings through the hall like a torrential downpour.
 **Hofmann:** Marcus, change of plan.
 
 **Hofmann:** We have a code red. Evacuate immediately.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -9517,7 +9515,7 @@ Venus, Venus, when your golden blood cascades upon us, Passing through the shimm
 
 > ... When all tides converge.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Marcus:** Their faces are distorting ... like those paintings ...
 
 **Marcus:** Is this also some kind of mass hysteria, or ...?
@@ -9705,7 +9703,7 @@ Cries echo from behind the curtain.
 She opens her eyes as another protagonist leaps onto the stage.
 
 **Isolde:** Doctor.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -9929,7 +9927,7 @@ Experiment Record
 
 > For whom does the bell toll?
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 I looked at it, the ring of life, the ring of all lives.
 
 Your hands form the ring, and the judgment is pronounced.
@@ -10189,7 +10187,7 @@ He points at Hofmann.
 **Heinrich:** The real terrorists are you, humans!
 
 **Heinrich:****It was you who started that war!**
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -10455,7 +10453,7 @@ Five days have passed since the Mărțișor. Grandma Jina received several amule
 
 > ... Doctor?
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The scent from backstage strikes her as odd.
 
 Something neglected within her stirs to life, pulsing in her chest—constantly pulsing, pulsing, pulsing.
@@ -10687,7 +10685,7 @@ As she smiles and raises her arm.
 The deadly firearm is aimed at her once-friend, with a straight baseline and graceful arc.
 
 **Isolde:** ... Goodbye, Heinrich.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -10955,7 +10953,7 @@ Hofmann's Investigation Files
 
 > Please don't ...
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Hofmann:** \*pants\*
 
 An unprecedented agony, like the bursting of a bullet in a chamber too small for it, only writ large to each vein across her body.
@@ -11195,7 +11193,7 @@ The third act, a bow, and then the curtain falls.
 The actors exit.
 
 This is the end of the story.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -11449,7 +11447,7 @@ I never step forward. In solitude, I never step forward. I merely stay in place,
 
 > The brother, the sister, and the evil witch.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Marcus:** ...
 
 Marcus holds Hofmann's hand all the while.
@@ -11665,7 +11663,7 @@ Wiping away her wild-eyed tears of joy.
 **Kakania:** Before we leave, I would like to take one last walk in this world.
 
 **Kakania:** Would you like to join me and walk to my clinic?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -11898,7 +11896,7 @@ Wiping away her wild-eyed tears of joy.
 
 > A circle, and time. No beginning, no end.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Isolde:** You have everything wrapped up.
 
 Kakania shuts the door, dimming the apocalyptic clamor outside.
@@ -12224,7 +12222,7 @@ This time, though, it brings good news.
 **Lucy:** Get to work, people.
 
 **Lucy:** In the 22 hours before the "Storm" arrives, the whole world is our proving ground.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>

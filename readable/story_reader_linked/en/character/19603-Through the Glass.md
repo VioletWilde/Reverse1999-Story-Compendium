@@ -7,8 +7,6 @@
 - Story units：`9`
 - Trail：`0`
 
-[UTTU](https://uttu.merui.net/story/character/kakania/en/?part=1)
-
 From an unmerciful destruction,
 From the fragments of yesteryear,
 Comes truth.
@@ -30,7 +28,7 @@ Comes truth.
 <a id="episode-1960300"></a>
 ## 1960300 · The World of Yesterday
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 What is lurking in the mirror? Grief.
 
 What is stirring beyond the wall? Calamity.
@@ -74,7 +72,7 @@ Despite the knots in their hands, the people around her have all started to melt
 She is the only survivor. Her arm drops to her lap, and she looks absently at the knot in her hand.
 
 This is the only thing she could do.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -121,7 +119,7 @@ This is the only thing she could do.
 <a id="episode-1960301"></a>
 ## 1960301 · Tristan Chord
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Laplace Rehabilitation Center
 
 **Kakania:** ...
@@ -339,7 +337,7 @@ She forces herself to look up. With a bitter smile, she presents the shard to Lu
 **Kakania:** My mirror is broken.
 
 **Kakania:** Believe it or not, I cannot use it to cast my arcane skills anymore.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -574,7 +572,7 @@ She forces herself to look up. With a bitter smile, she presents the shard to Lu
 <a id="episode-1960302"></a>
 ## 1960302 · Empty Mirror
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Kakania stares through the doorway that Lucy left open.
 
 The echos of their conversation are swimming in her mind.
@@ -772,7 +770,7 @@ She presses the intercom button above her bedstand.
 **Operator:** I see. Please stay on the line.
 
 **Operator:** We'll reroute you to our specialist to make the necessary arrangements.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -987,7 +985,7 @@ She presses the intercom button above her bedstand.
 <a id="episode-1960303"></a>
 ## 1960303 · In Deep Mud
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Mental Health Consultation Room, Laplace
 
 **Psychiatrist:** Welcome, Ms. Klara.
@@ -1211,7 +1209,7 @@ Her memories swirl in her mind, surrounding her like the fragments of broken gla
 **Kakania:** What on earth am I doing?
 
 **Kakania:** What on earth can I do?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1450,7 +1448,7 @@ Her memories swirl in her mind, surrounding her like the fragments of broken gla
 <a id="episode-1960304"></a>
 ## 1960304 · A Wisp of Wind
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Therapy Room, The Foundation
 
 **Psychiatrist:** Sorry, Ms. Klara.
@@ -1652,7 +1650,7 @@ Kakania furrows her brow.
 **Kakania:** Have I?
 
 **Kakania:** Have I looked at myself in my own mirror?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1871,7 +1869,7 @@ Kakania furrows her brow.
 <a id="episode-1960305"></a>
 ## 1960305 · A Good Time
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Kakania:** It reflects your inner thoughts, like a mind's endoscope. I cast an arcane skill on it to help your thoughts surface.
 
 **Kakania:** Look at it, and tell me what you see.
@@ -2045,7 +2043,7 @@ She hangs her head at this gentle accusation.
 **Psychiatrist:** At least give it a try.
 
 **Psychiatrist:** Take a look at yourself in your own mirror.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -2236,7 +2234,7 @@ She hangs her head at this gentle accusation.
 <a id="episode-1960306"></a>
 ## 1960306 · The Left and the Forgotten
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Kakania:** Have I looked at myself in my own mirror?
 
 **Kakania:** I haven't because the mirror broke. Or did I do so before it shattered?
@@ -2464,7 +2462,7 @@ It's the mirror that was once broken, but now it appears whole again.
 **Kakania:** ...!
 
 The hand mirror that she once held so tightly.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -2709,7 +2707,7 @@ The hand mirror that she once held so tightly.
 <a id="episode-1960307"></a>
 ## 1960307 · The Day of Rebirth
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Kakania:** This is ...
 
 **Kakania:** I see.
@@ -2921,7 +2919,7 @@ The staff member opens the door and is startled to see Kakania already standing 
 **Foundation Staff Member I:** Yes, here are the things to note:
 
 **Foundation Staff Member I:** First, please remove any items that might damage yourself or the experimentation field, such as jewelry.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -3150,7 +3148,7 @@ The staff member opens the door and is startled to see Kakania already standing 
 <a id="episode-1960308"></a>
 ## 1960308 · The Story of Tomorrow
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Joint Committee of SF
 
 **Kakania:** Sorry, I didn't ... What did you say?
@@ -3426,7 +3424,7 @@ She points through the gate. Outside, the moon tenderly climbs up the sky.
 She walks outside without looking back.
 
 **Kakania:** After all, the path before us is the only way ahead.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>

@@ -7,8 +7,6 @@
 - Story units：`9`
 - Trail：`0`
 
-[UTTU](https://uttu.merui.net/story/character/everecho/en/?part=1)
-
 Light filters through the gaps
 As she listens intently
 To the quiet whispers
@@ -31,7 +29,7 @@ Of the forgotten past.
 <a id="episode-3881001"></a>
 ## 3881001 · Shade Search
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Noon sunlight spills evenly across the room, the freshly painted gray-and-white checkerboard pattern reflecting its soft glow.
 
 The clerk behind the counter pushes yet another document in front of the architect.
@@ -235,7 +233,7 @@ The woman sighs and sits down on a peculiarly lustrous stone.
 **Zuzanna:** The going theory about these Shades is that they're people who develop an obsession with this building in some way.
 
 **Zuzanna:** When they die here, their spirits are bound to it in some way. Is that true? Does it sound like anyone here?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -243,7 +241,7 @@ The woman sighs and sits down on a peculiarly lustrous stone.
 <a id="episode-3881002"></a>
 ## 3881002 · Until We Meet Again
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Everecho:** It doesn't sound like anyone I know.
 
 As she says it, she recalls Cornerstone's question earlier.
@@ -495,7 +493,7 @@ A cartload of trash is dumped in a corner of the building. Scattered torn paper 
 A small wooden puppet shakes its head and peeks out from the trash heap.
 
 **Everecho:** I am ... Everecho?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -503,7 +501,7 @@ A small wooden puppet shakes its head and peeks out from the trash heap.
 <a id="episode-3881003"></a>
 ## 3881003 · The Metamorphosis
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Boy:** Boss! Over here! It's right here!
 
 **Boy:** Andrea and the others dumped a bunch of old puppets here yesterday. I saw it myself!
@@ -717,7 +715,7 @@ Atrium, New Office
 Everecho climbs out of bed and drifts over to meet him at the doorway.
 
 She sees the old man gazing up at the dome above the courtyard, where the same gentle sunlight from her memory is pouring down.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -725,7 +723,7 @@ She sees the old man gazing up at the dome above the courtyard, where the same g
 <a id="episode-3881004"></a>
 ## 3881004 · The Idiot
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Zuzanna:** Morning, Everecho. You're up earlier than I thought.
 
 Zuzanna catches sight of her from the end of the hallway. Everecho's eyes dart between her and the old man with confusion.
@@ -937,7 +935,7 @@ The puppeteer's cheeks flush, and she clenches her fists with renewed excitement
 **Puppeteer:** I've figured out my ending!
 
 **Puppeteer:** Our cosmonaut should leap bravely from the Earth, just like a fledgling bird!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -945,7 +943,7 @@ The puppeteer's cheeks flush, and she clenches her fists with renewed excitement
 <a id="episode-3881005"></a>
 ## 3881005 · An Unknown Familiarity
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 How long did they rehearse after that? Ten days, half a month, a month, or more?
 
 The memories blurred, moments passing through her mind without experience, like watching a broadcast from the corner of your eye.
@@ -1183,7 +1181,7 @@ Zuzanna stops for a moment, then hangs her head with a sigh.
 She reaches out and touches Zuzanna's cheek.
 
 **Everecho:** Then you won't have to be sad anymore.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1191,7 +1189,7 @@ She reaches out and touches Zuzanna's cheek.
 <a id="episode-3881006"></a>
 ## 3881006 · Disoriented
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Everecho pulls off her hand puppet and sets it down on the ground.
 
 **Everecho:** Come along.
@@ -1423,7 +1421,7 @@ She has some difficulty verbalizing the name.
 It's an ordinary overcast day. The soft patter of rain rustles against the window.
 
 **Everecho:** What should I do?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1431,7 +1429,7 @@ It's an ordinary overcast day. The soft patter of rain rustles against the windo
 <a id="episode-3881007"></a>
 ## 3881007 · Dream
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Everecho rises up toward the top of the dome, approaching the gray triangular panels.
 
 **Everecho:** Doesn't exist at all? If that's true, then why did Zuzanna and that old man even decide to come to this building?
@@ -1699,7 +1697,7 @@ Her hand comes to rest over the old man's eyes.
 **Everecho:** It's a sweet dream.
 
 **Everecho:** Sleep now. You'll live on in the past. You'll find your happiness.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1707,7 +1705,7 @@ Her hand comes to rest over the old man's eyes.
 <a id="episode-3881008"></a>
 ## 3881008 · The Cosmonaut
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Street, Nowa Miedź
 
 **Cornerstone:** Whew, I think that's everything moved.
@@ -1909,7 +1907,7 @@ The music swells then fades away, and the radio bids its audience farewell with 
 **Radio & Everecho:** ♫ Until, from far off in the light, an echo comes drifting back. ♫
 
 **Everecho:** ♫ You knew it true, it's me, my dear. ♫
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1917,13 +1915,13 @@ The music swells then fades away, and the radio bids its audience farewell with 
 <a id="episode-3881009"></a>
 ## 3881009 · Echoes' End
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 ***
 
 **GAMEPLAY ONLY**
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---

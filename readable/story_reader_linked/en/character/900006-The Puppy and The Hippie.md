@@ -7,8 +7,6 @@
 - Story units：`8`
 - Trail：`0`
 
-[UTTU](https://uttu.merui.net/story/character/pickles/en/?part=1)
-
 The hero puppy is always the center of attention,
 but the indigo part in him is always lonely.
 
@@ -28,7 +26,7 @@ but the indigo part in him is always lonely.
 <a id="episode-90000600"></a>
 ## 90000600 · A Warm Call
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Charlton's Home
 
 **Charlton:** ... Yes, of course. I totally understand how much you love our little Pickles.
@@ -98,7 +96,7 @@ The standing ears slowly droop.
 **Pickles:** \*special thinking noise\* \<Perhaps at this point ...\>
 
 **Pickles:** \*whimpers\* \<I shouldn't be surprised by his doings anymore.\>
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -106,7 +104,7 @@ The standing ears slowly droop.
 <a id="episode-90000601"></a>
 ## 90000601 · A Floating APPLe Pie
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Outside Charlton's Home
 
 **Charlton:** Alright, tooth brush ... Hmm, the red one is better ...
@@ -234,7 +232,7 @@ The bulldog chases after it strained to the apple, charging at full speed. She i
 This is a lot to ask for Wendy. What else can be a better target to chase after than a moving ball-like fruit that gives off great smell?
 
 **Pickles:** Woof, woof. \<Oh, we got problems.\>
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -242,7 +240,7 @@ This is a lot to ask for Wendy. What else can be a better target to chase after 
 <a id="episode-90000602"></a>
 ## 90000602 · Relativity of Misunderstanding
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Carnaby Street
 
 **APPLe:** Thank goodness.
@@ -500,7 +498,7 @@ A small swirl emerges in the middle of that colorful "cloud."
 Pickles flicks his furry ears. Even in a place noisy as this one, it captures a faint voice.
 
 **Pickles:** \*special thinking noise\* \<This is the noise of ... bursting soap bubbles?\>
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -508,7 +506,7 @@ Pickles flicks his furry ears. Even in a place noisy as this one, it captures a 
 <a id="episode-90000603"></a>
 ## 90000603 · Bubble Crash
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Wendy:** Woof woof!
 
 **Pickles:** Woof! \<It's Wendy!\>
@@ -734,7 +732,7 @@ The "cloud" parts and moves pass them.
 The man stands with his hands on his hips, checking on the mess and feeling exalted.
 
 **Diggers:** Now, where to find the key to open the gate of the capital of art?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -742,7 +740,7 @@ The man stands with his hands on his hips, checking on the mess and feeling exal
 <a id="episode-90000604"></a>
 ## 90000604 · A Shoe Left Behind
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The Dock
 
 **Diggers:** Phew ... finally here we are—the harbour!
@@ -1014,7 +1012,7 @@ He holds the poor bulldog in his arms; some wet, slimy marks soon appear on the 
 **Charlton:** He abandoned us ...
 
 **Wendy:** Woof?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1022,7 +1020,7 @@ He holds the poor bulldog in his arms; some wet, slimy marks soon appear on the 
 <a id="episode-90000605"></a>
 ## 90000605 · A Planner with No Plan
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Sergeant:** This block asks for help!
 
 **Sergeant:** Darn it! Why are these loafers so ...
@@ -1346,7 +1344,7 @@ He crawls out from under the fainted man and gives his head a gentle poke.
 He looks back at where they came from.
 
 **Pickles:** \*special thinking noise\* \<Now ... let's hope that the door to the deck is still open.\>
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1354,7 +1352,7 @@ He looks back at where they came from.
 <a id="episode-90000606"></a>
 ## 90000606 · Bouncey Ball
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Pickles:** \*special thinking noise\* \<I reckon this is the right way.\>
 
 Deck
@@ -1608,7 +1606,7 @@ The dog gets up.
 The Border Collie dashes out of the door without looking back.
 
 **Charlton:** Pickles!!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1616,7 +1614,7 @@ The Border Collie dashes out of the door without looking back.
 <a id="episode-90000607"></a>
 ## 90000607 · Transfer Ceremony
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Pickles:** \*special thinking noise\* \<No entry.\>
 
 **Pickles:** \*special thinking noise\* \<And the smell ... this is it.\>
@@ -1820,7 +1818,7 @@ The noise of the happy cheering crowd faintly comes out from the cabin.
 -- Seems like everyone has enjoyed their night to the fullest.
 
 **Pickles:** Woof!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---

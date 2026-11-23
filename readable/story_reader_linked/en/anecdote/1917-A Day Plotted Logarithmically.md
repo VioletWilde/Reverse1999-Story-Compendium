@@ -7,8 +7,6 @@
 - Story units：`8`
 - Trail：`0`
 
-[UTTU](https://uttu.merui.net/story/anecdote/37/en/?part=1)
-
 Inside the Penumbra Can,
 Covered in a layer of dust,
 Are stories buried in the depths of time.
@@ -31,7 +29,7 @@ Are stories buried in the depths of time.
 
 > The young attendees sit around a round table, discussing a chilling topic.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Rest Area, Laplace Museum
 
 **Visitor I:** Alright now, let me get a good look at this thing. So, the special exhibition area is located in Zone C. It looks like we need to take this path to get there.
@@ -307,7 +305,7 @@ Beneath the desk, next to a chair rendered an impromptu bookcase due to the pile
 **37:** So, it can be proven that when n is greater than 2, there are no positive integer solutions ...
 
 **37:** This proof is correct! But his method is different from ours. Incredible!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -317,7 +315,7 @@ Beneath the desk, next to a chair rendered an impromptu bookcase due to the pile
 
 > A beautiful hypothesis. Though unattainable, the heart yearns for it.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **37:** Yes, this proof is flawless, and even better. It's correct!
 
 **37:** Why didn't anyone on the island realize there was another way? I need to note this down. 6 will definitely want to know about this.
@@ -547,7 +545,7 @@ A blind spot emerges. Mesmer is not quite skilled at "relaxing" either.
 But by luck, the mold still growing silently in the room happens to be quite an expert in the field.
 
 **X:** Ladies, it appears you might require some advice. Would you like to hear my two cents?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -557,7 +555,7 @@ But by luck, the mold still growing silently in the room happens to be quite an 
 
 > Those mischievous little things always arrive unexpectedly.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **X:** And now, lucky me, I'm honored to serve as the escort for you two ladies.
 
 **Mesmer Jr.:** You're late.
@@ -859,7 +857,7 @@ The last two words have a predictable effect.
 **Medicine Pocket:** Now you're in for it. I want the full works.
 
 With the first breaking of the ice and the first scoop of ice cream, things become easier.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -869,7 +867,7 @@ With the first breaking of the ice and the first scoop of ice cream, things beco
 
 > Dots connect to lines, lines move to form faces. No coordinate goes without an invitation.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Medicine Pocket:** I want to make it completely clear that I'm not asking you to solve that freakin' number problem.
 
 **Medicine Pocket:** That's my job, and I'm confident I can solve it.
@@ -1195,7 +1193,7 @@ Medicine Pocket seems to have genuinely forgotten the ice cream shopkeeper was t
 **Shopkeeper:** It's just, I heard you say "next time," and, I'm glad you enjoyed yourselves, but ... I'm afraid there won't be any more ice cream next time.
 
 **Shopkeeper:** My shop, well, it's closing down.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1205,7 +1203,7 @@ Medicine Pocket seems to have genuinely forgotten the ice cream shopkeeper was t
 
 > You'll need an umbrella, or a reverse calculation of exponentiation.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 After the owner announces the closure, a brief silence ensues.
 
 **37:** Really?
@@ -1425,7 +1423,7 @@ The brain that solved the computing center's year-long sales problem in seconds 
 Returning to reality.
 
 **37:** I've got it!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1435,7 +1433,7 @@ Returning to reality.
 
 > Now we know how to measure its length.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **37:** Numbers tell us everything.
 
 At the round table, 37 gazes at the beautiful dodecagram treat in her hand, then at the long line of visitors outside the ice cream shop.
@@ -1713,7 +1711,7 @@ A story she heard long ago, when she was at the SPDM with her old friends.
 **Mesmer Jr.:** 37, do you know how Neptune was discovered?
 
 **37:** Huh?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1723,7 +1721,7 @@ A story she heard long ago, when she was at the SPDM with her old friends.
 
 > 1, 2 ... and next, of course, comes 3.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **37:** Mesmer Jr. told me the story of Neptune.
 
 **37:** Using the elegant formula of gravitational theory, people discovered Uranus. But they found that Uranus didn't follow its calculated trajectory.
@@ -1947,7 +1945,7 @@ Upon unfolding the letter, the young man unmistakably expresses his first sign o
 **Regulus:** Woah! Did you just smile? I thought that pale, gloomy expression was welded to your face.
 
 **Sonetto:** Regulus!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -1957,7 +1955,7 @@ Upon unfolding the letter, the young man unmistakably expresses his first sign o
 
 > One day we will know the answer to that number.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Sonetto:** Sorry, Regulus didn't mean to offend. We meant to say ...
 
 **6:** 37 mentioned preparing a gift for me.
@@ -2111,7 +2109,7 @@ Beyond the sea, a young girl is determined to calculate that very, very, very la
 **6:** 37 made this hypothesis herself. Now, she is trying to prove it.
 
 **6:** And until she disproves it herself, no attempt at telling the Truth from any of us will shake her from it.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---

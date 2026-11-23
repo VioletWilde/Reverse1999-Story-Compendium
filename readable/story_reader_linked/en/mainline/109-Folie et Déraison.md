@@ -7,8 +7,6 @@
 - Story units：`20`
 - Trail：`28`
 
-[UTTU](https://uttu.merui.net/story/main/chapter-9/en/?part=1)
-
 1991 · Our Mind Is a Prison.
 
 ## Contents
@@ -41,7 +39,7 @@
 
 > Our story begins on the evening of March 22, 1991.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 So the platonic year
 
 Whirls out new right and wrong,
@@ -289,7 +287,7 @@ As her vision clears, it becomes apparent that fate is not a perfect loop. At le
 **Recoleta:** You're not from around here, are you? Your accents and those clothes give you away.
 
 **Recoleta:** Come with me. I know a warmer place to talk.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -612,7 +610,7 @@ The tremors from the explosion at Ushuaia Port shook the surroundings for nearly
 
 > A ring that closes on itself? That is far from enough to define the essence of "fate."
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Sonetto:** According to these news reports from Ushuaia, there was an arcane attack on the pier about a week ago. All the ships in the port were destroyed.
 
 **Sonetto:** Could Manus Vindictae be responsible for this, or perhaps the Zeno rebels?
@@ -780,7 +778,7 @@ The girl winks playfully.
 **Recoleta:** Oh, it's a ... writer's mission. But anyway, we're friends now.
 
 **Recoleta:** If you're going to Comala, you'll need someone who knows the way.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1004,7 +1002,7 @@ END OF DIALOGUE
 
 > Excellent, everything is going according to plan. "Fate" will not reveal its hand—at least, for now.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Comala Prison Perimeter
 
 The gray riverbed winds through the frostbitten earth, disappearing into the distant horizon.
@@ -1122,7 +1120,7 @@ She murmurs.
 **Jailer:** Welcome to Comala Prison.
 
 **Jailer:** Apologies for my earlier behavior. It's been a while since we've had any official visitors.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1296,7 +1294,7 @@ END OF DIALOGUE
 
 > For a drifter, a stay behind an iron-barred window can feel like just another stretch of desert.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Día tras día, la Investigadora de Paracausalidad se escondía en
 
 la naturaleza fuera del pueblo de Amalfitano estudiando los
@@ -1560,7 +1558,7 @@ Recoleta tries her best to avoid the hard stare of the feline jailer by blending
 **Jailer:** ...
 
 **Jailer:** Please just stay close to me.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1750,7 +1748,7 @@ The Weaving of Shadows, Volume I
 - Description：Darkness has no form. The ever-shifting gaze seeps into every crevice.
 - Action：Enter the Darkness
 
-[UTTU · The Weaving of Shadows](../trails/900029-The%20Weaving%20of%20Shadows.md#episode-90002901)
+[The Weaving of Shadows](../trails/900029-The%20Weaving%20of%20Shadows.md#episode-90002901)
 
 ### Trail · To the Pen Pal I Never Met
 
@@ -1775,7 +1773,7 @@ Aleph, my dear pen pal, enclosed is the latest revision of my novel. In your las
 
 > A salute to a literary society born within a prison—no, a tribute to an impossible miracle.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Hall of New Encounters
 
 **Sonetto:** I didn't expect any of this from what we saw outside.
@@ -1991,7 +1989,7 @@ Relax, Jailer. No one—not even you—knows this prison better than I!
 But, Timekeeper ... I think we've just gone in a circle ...
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -2275,7 +2273,7 @@ The Weaving of Shadows, Volume II
 - Description：Towering walls, prisoners deep in the abyss paint pictures of the sky.
 - Action：Enter the Darkness
 
-[UTTU · The Weaving of Shadows](../trails/900029-The%20Weaving%20of%20Shadows.md#episode-90002902)
+[The Weaving of Shadows](../trails/900029-The%20Weaving%20of%20Shadows.md#episode-90002902)
 
 ---
 
@@ -2284,7 +2282,7 @@ The Weaving of Shadows, Volume II
 
 > Metallic sheen, rippling water, and shadows that peer back from within the dim reflection.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 La investigadora se despierta en su cueva en la duna, que le
 
 parecía tan vacía como una tumba. Era poco antes del amanecer.
@@ -2638,7 +2636,7 @@ The jailer's command causes a dramatic shift in the room.
 **Jailer:** ...
 
 The jailer furrows her brows and pulls out her weapon. The air tightens into an invisible thread.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -2956,7 +2954,7 @@ The Weaving of Shadows, Volume III
 - Description：Rust fills the air, and an exiled bird has found a branch to rest upon.
 - Action：Enter the Darkness
 
-[UTTU · The Weaving of Shadows](../trails/900029-The%20Weaving%20of%20Shadows.md#episode-90002903)
+[The Weaving of Shadows](../trails/900029-The%20Weaving%20of%20Shadows.md#episode-90002903)
 
 ### Trail · Typewriter Record #P5
 
@@ -2981,7 +2979,7 @@ Typewriter Record #P5
 
 > Open your eyes to see the night. Close them to see the light.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Jailer:** This is a serious violation of the rules. I'll have to report this to the Physician, and all of your treatments will need to be reassessed.
 
 **Jailer:** Until a new treatment plan is in place, all members of La Sociedad are confined to their cells without any of their usual privileges.
@@ -3211,7 +3209,7 @@ It is an artifact marked by patterns veiled in smoke, an object seemingly not me
 And now, it is stained in an utterly corrupted blackness.
 
 **???:** Heh. Just as I thought. You had it all along.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -3457,7 +3455,7 @@ The Weaving of Shadows, Volume IV
 - Description：Fate is like a mirror; its strongest reflections are shaped by time.
 - Action：Enter the Darkness
 
-[UTTU · The Weaving of Shadows](../trails/900029-The%20Weaving%20of%20Shadows.md#episode-90002904)
+[The Weaving of Shadows](../trails/900029-The%20Weaving%20of%20Shadows.md#episode-90002904)
 
 ---
 
@@ -3466,7 +3464,7 @@ The Weaving of Shadows, Volume IV
 
 > Open it, reread it. Witness firsthand the events that transpired within the desert.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Jailer:** Ladies, I must apologize for what happened back there.
 
 **Jailer:** We were caught off guard. There has never been a commotion of that scale before. I must report this to the Physician.
@@ -3744,7 +3742,7 @@ Recoleta stares blankly for a time before clumsily shifting the topic.
 COMBAT:
 
 ***
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -4052,7 +4050,7 @@ When they speak of "Manus Vindictae," their tone is always light, often laced wi
 
 > A silent and merciless order of ideals.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **García:** Easy, easy! It's me, García! We met at the gallery earlier.
 
 **García:** Please. I come in peace.
@@ -4288,7 +4286,7 @@ Aleph responds with indifference to the Physician's frustration, continuing his 
 **The Physician:** Time's ticking down. I can't afford any further mistakes. No one can be permitted to stop my experiment in the Panopticon.
 
 **The Physician:** I'll prove it to them that we've found the path to the ultimate answer.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · Prison Reform Notes
 
@@ -4328,7 +4326,7 @@ On Zeno Defectors
 
 > The truth is, no one can truly bend "fate."
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 La cabaña con el techo azul estaba
 
 silenciosa como siempre.
@@ -4616,7 +4614,7 @@ She looks around, realizing that her words—weighty as they seem to her—have 
 Recoleta rushes to the stage.
 
 **Jailer:** Wait, Ms. Recoleta! What are you doing?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -4936,7 +4934,7 @@ December 1 Numbers 704-733 Each person is uniformly allocated 1 dose of chlorpro
 
 > The goddess delights in toying with the piety of her believers.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 On the stage, Octavia remains the picture of serenity as she orchestrates the congress.
 
 **Octavia:** Ms. Recoleta, as a witness to the congress, you have the right to express your doubts—calmly.
@@ -5176,7 +5174,7 @@ For her part, the now vindicated writer follows at the end of the line, letting 
 **Recoleta:** If all of this is tied to The Rise and Fall of Sanity, then, as its creator ...
 
 **Recoleta:** I will get to the bottom of this.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -5440,7 +5438,7 @@ The Weaving of Shadows, Volume V
 - Description：The boundary shatters, and an astrologer glimpses an unspeakable truth.
 - Action：Enter the Darkness
 
-[UTTU · The Weaving of Shadows](../trails/900029-The%20Weaving%20of%20Shadows.md#episode-90002905)
+[The Weaving of Shadows](../trails/900029-The%20Weaving%20of%20Shadows.md#episode-90002905)
 
 ---
 
@@ -5449,7 +5447,7 @@ The Weaving of Shadows, Volume V
 
 > What disrupted this era? What unraveled time? The shadow lurking in the ruins answers: madness.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Central Tower Waiting Area
 
 An otherwise tidy room is covered in fine scratches and small unidentifiable stains. The smell of disinfectant lingers in the air, mixed with mildew.
@@ -5701,7 +5699,7 @@ Hearing this, the Physician stops.
 **Jailer:** ...
 
 The jaguar turns to leave, her face revealing an uncharacteristic sorrow as she lingers on the girls one last time. This time, she offers no words.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -5975,7 +5973,7 @@ In 1935, Professor António from Portugal became intrigued by a medical study do
 
 > Within the corpse of the labyrinth's builder, he proclaims: it is and has always been perfect.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Only the steady beeping of a heart monitor keeps the eerie silence at bay.
 
 **Recoleta:** \*deep breath\*
@@ -6165,7 +6163,7 @@ The smoke clears, but no one responds. The named girl simply stares in shock at 
 **Aleph:** And now, the polar night approaches.
 
 **Aleph:** How good it is to see you, pen pal.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -6403,7 +6401,7 @@ END OF DIALOGUE
 
 > Between two mirrors hangs a single object. One face, two faces ... cascading into the infinite.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Vertin:** Where did the Physician go? Wait.
 
 **Vertin:** Sir, are you ...?
@@ -6547,7 +6545,7 @@ Hearing this, the lonely prisoner fidgets with the die, looking puzzled.
 **Aleph:** The third line of your first letter.
 
 **Aleph:** You said you wanted to give The Rise and Fall of Sanity an ending.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -6742,7 +6740,7 @@ Regarding the ... (blurred by water stains) ritual: 1. A large number of Arcanis
 
 > The mournful, the grotesque, the sum of self and self.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Los registros históricos del Dado de Babilonia aún se pueden
 
 encontrar en la biblioteca de la Universidad Santa Teresa.
@@ -7024,7 +7022,7 @@ Sonetto's arcane energy gathers at the tip of her glasfeder. At this moment, the
 **Recoleta:** I said, enough!
 
 She shakes as she reveals the notebook that has never left her side.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · An Unsent Letter
 
@@ -7049,7 +7047,7 @@ Dear Ms. Recoleta, I have completed reading the sixth edition of The Rise and Fa
 
 > She does not hesitate.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Expo Guadalajara
 
 1990, Guadalajara, International Book Fair.
@@ -7271,7 +7269,7 @@ Everything is quiet.
 **Sonetto:** Did she really "cease to exist" like Aleph said?
 
 **Vertin:** Recoleta ...
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -7511,7 +7509,7 @@ B Section Works Guide: 1. The Bluebird, Watson Cruz, Children's Literature. Edit
 
 > Beneath the earth, those who were never granted marble nor memorials call out her name.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 En una noche misteriosa,
 
 el viento trajo la fría dureza del desierto.
@@ -7765,7 +7763,7 @@ Comala Prison groans, like an aging waterwheel struggling under its own weight, 
 Beyond the crumbling walls, a shivering figure is faintly visible. He grips a gun tightly. The black barrel, shaking in his hands, is aimed at the people in the room.
 
 **???:** F-Freeze! Stay where you are, all of you!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -8082,7 +8080,7 @@ Armed with Literature
 
 > A tiny boat adrift upon a sea of ideals, convinced it has hoisted its sail.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 A prisoner steps out from behind the wall, a weapon held in his shaking hand.
 
 **García:** I was just setting up my exhibit when everything started shaking. Then I realized it wasn't just my imagination.
@@ -8184,7 +8182,7 @@ The prisoner shifts his gaze to the other Foundation investigator.
 **Aleph:** Is that so?
 
 The prisoner, so used to answering others' questions, seems to have run into one of his own. But unfortunately, no one is here to answer it.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -8365,7 +8363,7 @@ Ship of Fools
 
 > Dreams are the first and last dance partner of madness.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Vertin:** "Dear Urd,"
 
 **Vertin:** "Why are you so interested in the Panopticon of Comala?"
@@ -8509,7 +8507,7 @@ The girls preparing to set sail turn to the young writer beside them.
 A thunderous crash echoes from behind them—the sound of a collapsing building.
 
 **Recoleta:** What was that? It came from the Panopticon!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -8689,7 +8687,7 @@ I return once more to Comala Prison. To me, this massive cage is no longer an in
 
 > As day breaks, the story ends where the ashes rest. In the end, the night is not eternal.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Blazing flames reflect in their eyes, just like the name of this island might suggest.
 
 A winter night stands sentinel over a great conflagration as every brick of Comala Prison crumbles and falls.
@@ -8903,7 +8901,7 @@ Goes to the barbarous clangour of a gong.
 W.B. Yeats—Nineteen Hundred and Nineteen
 
 W.B. Yeats—Nineteen Hundred and Nineteen
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>

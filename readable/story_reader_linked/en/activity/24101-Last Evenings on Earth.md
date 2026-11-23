@@ -7,8 +7,6 @@
 - Story units：`23`
 - Trail：`14`
 
-[UTTU](https://uttu.merui.net/story/event/2_4/en/?part=1)
-
 Have the strings ever plucked the heart's tune?
 In the night, waves drift south beneath the moon.
 In the distance, travelers sail, their home lost too soon.
@@ -46,7 +44,7 @@ In the distance, travelers sail, their home lost too soon.
 
 > We live in independence, yet we depend on others to survive.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 When the first proverb appears on the shell, we reach the shores of elsewhere—the island, the upturned palm of Mother Sea.
 
 The once drifting boat now beds itself in the golden sand.
@@ -484,7 +482,7 @@ The fast-drowning pirate is hoping for a life preserver.
 **Vertin:** Shall I give you a moment to get ready?
 
 **Regulus:** Noooooo!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -950,7 +948,7 @@ Excerpt from "A History of Arcane Ethnicity"
 
 > Ahh, the sea breeze, the freedom, and the last day of vacation, already slipping away.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Street, Sydney Harbour
 
 **APPLe:** Captain, we seem to have deviated from our route to Laplace.
@@ -1160,7 +1158,7 @@ Barcarola pulls out a marker and cries out after her.
 **Barcarola:** I hope we can see each other again. Preferably soon.
 
 **Regulus:** What?!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · Performance Review
 
@@ -1185,7 +1183,7 @@ Codename: Regulus Time Employed: 11 months Project Team: The "Storm" Research Gr
 
 > Just one of the many trivial obstacles our great captain must overcome.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 "Storm" Research Group
 
 The glass tank leans forward, the ferrofluid rippling around inside it.
@@ -1429,7 +1427,7 @@ The ferrofluid gives a stifled pang.
 **Ulrich:** Just for once, could you see the bigger picture here? We've been presented with an amazing opportunity.
 
 **Ulrich:** And all you can think about is your salary?!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1687,7 +1685,7 @@ Fish Tank Brainstorm
 
 > At the "Crater" Music Festival, the crowd moves in rhythm to the chorus of "Night of Revelry." What's this on the ground? Hey, look what I found!
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Regulus:** Achoo! Ugh, the dust in here! What, are we inside some kind of vacuum cleaner?
 
 **Regulus:** Is that why you always wear that fish tank on your head?
@@ -2067,7 +2065,7 @@ In the tree hollow, in the square, in the outdoors.
 **Vertin:** Sonetto, change of plan.
 
 **Vertin:** We need to contact the Foundation. Now.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -2459,7 +2457,7 @@ Procurement List - Project Regulus
 
 > When all flows converge at sea.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Constantine:** Good afternoon, Mr. President.
 
 Foundation Admin. Office
@@ -2641,7 +2639,7 @@ Ulrich gives her a reassuring pat on the shoulder.
 **Vertin:** I see.
 
 **Ulrich:** Don't you worry. I have a little disguise for myself, too.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · Closing Ceremony
 
@@ -2743,7 +2741,7 @@ END OF DIALOGUE
 
 > On the other side of the sea, there lies peace and boundless hope.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The main hall is packed with passengers. Their wine sways slightly, emitting an enchanting luster in the beautiful, familiar melody.
 
 Girls weave their way carefully through the excited crowd, like a school of nimble fish.
@@ -2997,7 +2995,7 @@ Dark tendrils extend from it, groping at the air in a silent invitation.
 His Spirit Shells are almost scorching.
 
 Oh no, it's quite the opposite. It's salvation.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -3270,7 +3268,7 @@ His Spirit Shells are almost scorching.
 
 > Which would you choose to fill your home with?
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Main Hall
 
 The main hall is packed with people, yet there is no music to be heard. A peculiar scene indeed.
@@ -3576,7 +3574,7 @@ The bewildered islanders exchange glances.
 **Selone:** Tutu?
 
 **Selone:** Where did she go?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -3586,7 +3584,7 @@ The bewildered islanders exchange glances.
 
 > A gritty song, infused with the hues of a coral reef and a hint of brine.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Fatutu:** I've learned so much about the outside world since I boarded this ship, so ...
 
 **Fatutu:** Why do I feel even more confused?
@@ -3862,7 +3860,7 @@ The ferrofluid swirls in a distorted arc.
 **Regulus:** Listen, there's no way I'm paying for even half an extra ticket. In fact, he should be paying for me!
 
 **Ulrich:** Well, this might take a while to explain.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · Last-Second Scramble
 
@@ -3887,7 +3885,7 @@ The ferrofluid swirls in a distorted arc.
 
 > On understanding each individual at Laplace.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 An unofficial meeting on the "Artificial Storm" project was held before the "Free Breeze" set sail from Australia.
 
 An unofficial meeting on the "Artificial Storm" project was held before the "Free Breeze" set sail from Australia.
@@ -4059,7 +4057,7 @@ He slams a butterfly-patterned envelope heavily onto the table, adding yet more 
 Hurried footsteps echo, and a clear voice cuts through the chaos.
 
 **Simone:** Ladies and gentlemen, my apologies for interrupting your debate. The St. Pavlov Foundation has passed a new resolution.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · Scholarly Exchange
 
@@ -4120,7 +4118,7 @@ END OF DIALOGUE
 
 > Err, this is a real game-changer for records.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Simone's statement is definitely a much more damaging bomb.
 
 **Attendee I:** Ms. Simone, did you just say something about the Foundation?
@@ -4262,7 +4260,7 @@ Ulrich's proud tone is cut off by Regulus's exclamation of surprise.
 **Ulrich:** ...
 
 **Ulrich:** Drastic times call for drastic measures. I hope you'll find it in your heart to forgive us, Regulus.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -4272,7 +4270,7 @@ Ulrich's proud tone is cut off by Regulus's exclamation of surprise.
 
 > Once tangled in a single arrangement, now unraveling in a sea of melodies.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Cumulus clouds drift slowly across the night sky like the rolling waves of the sea, the countless stars glinting gently behind them.
 
 Captain's Cabin
@@ -4572,7 +4570,7 @@ She has waited for Barcarola to be clearly out of sight before speaking.
 **Fatutu:** I was wondering how do you stay so determined?
 
 **Ms. Grace:** ...
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -4582,7 +4580,7 @@ She has waited for Barcarola to be clearly out of sight before speaking.
 
 > An opera house, a radio station, and the pulse of forgotten tunes.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The air is buzzing with anticipation.
 
 Regulus stands on stage, cheering and dancing in a lively twist.
@@ -4788,7 +4786,7 @@ As he comes into the light, she finds herself staring into a face that is both f
 Kamuta gently shakes his head. Inky black liquid drips from the seams of his mask.
 
 **Kamuta:** Fatutu, we have no choice.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · Medical Records
 
@@ -4813,7 +4811,7 @@ X/X, Wednesday Charlie, 43, seasickness. Administered dimenhydrinate. Janice, 29
 
 > A pitch-black ship, enveloped in storm, rain, and hatred.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The sound of scraping metal brings an end to the pumping rock music, painting a look of solemnity and fear on the faces of every guest.
 
 A lithe figure steps gracefully onto the stage.
@@ -5063,7 +5061,7 @@ Ms. Grace: ...Ms. Grace: Three.Ms. Grace: Two.Vertin: ...!Ms. Grace: One.Vertin:
 **Ms. Grace:** Here we are ...
 
 **Ms. Grace:** The last evening on earth.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -5073,7 +5071,7 @@ Ms. Grace: ...Ms. Grace: Three.Ms. Grace: Two.Vertin: ...!Ms. Grace: One.Vertin:
 
 > A bit of good news, and a lot of bad news.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The figure running down the corridor narrowly avoids another container, the ferrofluid violently swirling in his tank.
 
 **Ulrich:** Flux's sake, I can't work under these dim lights. Could this cheapskate cruise liner not spring for some decent halogens or fluorescents?
@@ -5451,7 +5449,7 @@ A violin.
 **Barcarola:** No!
 
 A sudden warmth bursts forth within her, urging her to push the mask aside.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · Manuscript Awaiting Publication
 
@@ -5476,7 +5474,7 @@ Abstract Chapter 1: Introduction 1.1 Research Background and Significance 1.2 Cu
 
 > Yes, my dear. It'll be a place that neither troubles you nor keeps you up at night.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Selone:** I-I'm confused, Toa. If these disbelievers are a danger to our vengeance, why are we only locking them up? Shouldn't we just toss them overboard?
 
 **Toa:** T-The chief wants Fatutu to decide how to deal with them! A test of her allegiance and her conviction.
@@ -5640,7 +5638,7 @@ The communication ends, leaving only the echo of the final words spoken through 
 Grace raises a pale hand and gently caresses the intricate patterns on the Spirit Shells.
 
 Silence fills the room.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · Evaluation Meeting
 
@@ -5665,7 +5663,7 @@ Accountability Measures
 
 > The oars are shaped here, and the waves crash here. Not every breeze is destined to last forever.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Sonetto:**\*Edèsübitosera——！
 
 **Sonetto:** It's no use. The cabin's wall is heavily reinforced. My arcane skills can barely scratch it.
@@ -5865,7 +5863,7 @@ The sailors exchange a glance, needing no words to make their decision.
 **Helmsman Esam:** Alright, gentlemen, enough with the words. It's time to take action. Ms. Barcarola, is there anything we can do?
 
 **Barcarola:** Yes, of course!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -5875,7 +5873,7 @@ The sailors exchange a glance, needing no words to make their decision.
 
 > A soul-stirring swell of noise, appreciated even by old-school rock fans.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Regulus:** Hey, the Nukutai nutjobs outside are gone! Don't tell me they've abandoned ship and left us here to starve!
 
 **Regulus:** Come back here, you yellow-bellied cowards! This pirate is not going to Davy Jones's locker without a fight!
@@ -6063,7 +6061,7 @@ Instead, he meticulously sorts through the materials he has spread on the table.
 **Regulus:** Ulrich!
 
 **Regulus:** I refuse to be a part of this!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -6073,7 +6071,7 @@ Instead, he meticulously sorts through the materials he has spread on the table.
 
 > Rock never dies!
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 In the cramped broadcasting room, the little lion and the lightbulb are at a face-off.
 
 **Ulrich:** What did you say?
@@ -6219,7 +6217,7 @@ This logical leap nearly causes Ulrich's circuits to crash.
 **Ulrich:** Experimenters: Ulrich and Regulus
 
 **Ulrich:** Our experiment will now commence.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · Data Supplementation
 
@@ -6244,7 +6242,7 @@ This logical leap nearly causes Ulrich's circuits to crash.
 
 > The Compassare swaying in the wind, the water wheel turning on the riverbank—these are the familiar scenes that people long for.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Helmsman Esam:** Ms. Vertin, it seems all the passengers are gathered in the lobby.
 
 The group has finally arrived at the cruise ship lobby. The place is a mess.
@@ -6522,7 +6520,7 @@ Wiping her tears, Fatutu gets to her feet and starts to gently collect her lost 
 **Kamuta:** Fatutu!
 
 Before the warmth of the Spirit Shells can fade, Kamuta strides into the lobby, his demeanor cold.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -6532,7 +6530,7 @@ Before the warmth of the Spirit Shells can fade, Kamuta strides into the lobby, 
 
 > We are not going anywhere.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Kamuta:** What are you doing?!
 
 **Kamuta:** How could you side with our enemies? Against your own people, against the ones who would rebuild our home?!
@@ -6812,7 +6810,7 @@ The room falls briefly silent.
 Then, it breaks into thunderous cheers and applause.
 
 **Tinnitus-Stricken Guest:** What?
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -6822,7 +6820,7 @@ Then, it breaks into thunderous cheers and applause.
 
 > What is the price one must pay for freedom, my dear?
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The joy of this declaration has reached the hearts of the crowd.
 
 Amid the cheers, more and more masks are cast aside.
@@ -6946,7 +6944,7 @@ Shivering from the cold, Barcarola remembers something.
 **Helmsman Charlie:** You're a natural-born captain!
 
 **Barcarola:** Everyone, follow me!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · Regular Procurement
 
@@ -6971,7 +6969,7 @@ Supply List
 
 > A fleeting beauty, vanishing in the water.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Unknown Location
 
 The room is cloaked in oppressive shadow, as if harboring a menacing spirit.
@@ -7099,7 +7097,7 @@ Surprised Guest: Oh, Ms. Barcarola, not your zanfona! I remember you telling us 
 **Emotional Guest:** You've turned them into boats! Ms. Barcarola, you're not just a great musician, you're a kind soul, too!
 
 **Emotional Guest:** You saved us!
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · Thoughts on the Solar Eclipse
 
@@ -7124,7 +7122,7 @@ According to the Timekeeper's statement provided to our personnel, the recent hi
 
 > She came from afar, with many names, and has never left you.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Seawater soaks the tips of her hair, the hem of her tweed skirt ripples among the waves.
 
 The violin once hidden within the Crackling Box nestles against her, its neck, body, and tailpiece interlocking ... a small boat from the past buoying her steadily.
@@ -7252,7 +7250,7 @@ A familiar ballad leaves Barcarola's lips.
 **Sonetto:** That's a Foundation helicopter!
 
 **Vertin:** That island ...
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---

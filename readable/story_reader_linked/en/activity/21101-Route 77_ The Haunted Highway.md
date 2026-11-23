@@ -7,8 +7,6 @@
 - Story units：`20`
 - Trail：`19`
 
-[UTTU](https://uttu.merui.net/story/event/2_1/en/?part=1)
-
 Indulging your curiosity is unwise.
 Nevertheless, Tuesday's Motel welcomes you.
 
@@ -42,7 +40,7 @@ Nevertheless, Tuesday's Motel welcomes you.
 
 > Where they lead, no one knows.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Countryside, Texas
 
 Rain-soaked soil. Shallow footprints.
@@ -352,7 +350,7 @@ A hard brake.
 \*bang\*
 
 Unfortunately, it's too late to stop the crash.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -362,7 +360,7 @@ Unfortunately, it's too late to stop the crash.
 
 > This is not an ideal day for a drive, regardless of the vehicle.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Vertin:** Before we left, TTT was telling me an urban myth about Texas.
 
 **Lilya:** Hah. Sounds about right. What's the story about?
@@ -552,7 +550,7 @@ The rear-seat passenger quietly fastens her seatbelt.
 **Lilya:** Let's go.
 
 She opens the door, and the thick fog outside rushes in like a tide.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · Tales and Journeys
 
@@ -577,7 +575,7 @@ Since our last column, we've been inundated with letters, tapes, and voice recor
 
 > The good news is we found a radio station. The bad news? The host hasn't learned to speak yet.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 They get out of the car and step onto the asphalt road.
 
 **Vertin:** ...
@@ -753,7 +751,7 @@ The walk isn't far, indeed. Before long, they're standing in front of the motel.
 Under the shade of the neem trees, the wooden porch awaits its owner, darkening in the fading sunlight.
 
 **Tuesday:** Welcome to Tuesday's Motel, ladies.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -763,7 +761,7 @@ Under the shade of the neem trees, the wooden porch awaits its owner, darkening 
 
 > "It is from the giver that honor derives, not the receiver."
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Front Desk, Tuesday's Motel
 
 The maid stands behind the front desk in the motel lobby. She's checking in her new guests.
@@ -1047,7 +1045,7 @@ She turns her attention to the mercenary.
 The mercenary's eye gleams as she turns the lock and enters her hard-won room.
 
 **Vertin:** Her arcane skill.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1358,7 +1356,7 @@ The mercenary's eye gleams as she turns the lock and enters her hard-won room.
 
 > In most cases, code is not suitable for human communication.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Room 207, Tuesday's Motel
 
 The door creaks as she opens it, and her nostrils are hit with the distinct scent of floor wax.
@@ -1628,7 +1626,7 @@ Argus slings her shotgun over her shoulder and crouches down beside the nightsta
 Argus shakes her head.
 
 **Argus:** Can't say for certain.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 <details>
 <summary>Client transcript</summary>
@@ -1933,7 +1931,7 @@ Argus shakes her head.
 
 > Don't forget this handy weapon in a brawl.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Armament Factory, Chisos
 
 The empty factory is cold and damp.
@@ -2125,7 +2123,7 @@ He takes a labored breath.
 **Lilya:** Hmph. Thanks.
 
 She steps over the unconscious man beside her and leaves the bar.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · Periodic Report
 
@@ -2150,7 +2148,7 @@ Report Number: XXXXXXXXXXXXX From: Field Investigation Team Leader Andreas Sylve
 
 > A magical medium, upon which every sentence written speaks a profound truth.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Argus:** We can't say for sure if this ritual was created by the last guest.
 
 **Argus:** Fact is, you can find all kinds of unusual markings in this motel—most of them less than a month old. Very recent indeed.
@@ -2288,7 +2286,7 @@ The mercenary pulls out the crumpled bill from her pocket, comparing the handwri
 **Argus:** I better go check it out, boss. Something don't seem right. You coming?
 
 **Argus:** That Kimberly must've run into something.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -2298,7 +2296,7 @@ The mercenary pulls out the crumpled bill from her pocket, comparing the handwri
 
 > Going through all those Miranda rights before an interrogation? Man, we ain't got time for that.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The thick carpet in the hallway is usually enough to dampen any sounds.
 
 But no amount of soundproofing could stop the sound of a gunshot from echoing through the place.
@@ -2614,7 +2612,7 @@ She points the barrel of her gun at Stefen's corpse.
 **Tuesday:** Anyway, I hope you can find that girl soon.
 
 Standing before the bloody corpse, she looks down and gently adjusts the baby in her arms.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -2624,7 +2622,7 @@ Standing before the bloody corpse, she looks down and gently adjusts the baby in
 
 > They depict everything without saying a word.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Vertin:** Why do you want to go to Stefen's room exactly? Is it related to our investigation?
 
 **Argus:** Of course, boss.
@@ -2834,7 +2832,7 @@ The mercenary doesn't respond. She's still staring at the strand of hair between
 **Argus:** Or at least someone who came into contact with her.
 
 The phone rings, cutting her off.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -2844,7 +2842,7 @@ The phone rings, cutting her off.
 
 > Unexpected surprises, or rather, scares.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 A man lies in the grass just outside of town. He's strumming a guitar and humming to himself.
 
 **Zeno Soldier:** Ah, this is the life. A warm, beautiful night, a cold drink, and no one but me and the stars in the sky. Eh, maybe I'll just lie here till morning.
@@ -3100,7 +3098,7 @@ The pilot relaxes her poised fists when she recognizes the person in front of he
 **Lilya:** You shouldn't sneak up on people like that. I could've hurt you.
 
 **Tuesday:** My apologies. But you're safe now that you're at the motel. No need to be frightened.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · Discipline, Discipline
 
@@ -3140,7 +3138,7 @@ February 5th Well, ain't that odd? Pierce came back early this morning, scared o
 
 > Not the best time for a cleanup.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **H**
 
 **E**
@@ -3438,7 +3436,7 @@ She gently soothes the dazed pilot.
 **Tuesday:** Sleep tight. Just leave everything to the adults. Yes, what a good child you are.
 
 She flips the sign on the door to "Do Not Disturb."
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · Necessary Buys
 
@@ -3463,7 +3461,7 @@ Motel Shopping List
 
 > Eyes forward, Argus—don't look back.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Argus:** Found his medication prescription, and, oh, is this his notebook?
 
 She pulls a crumpled piece of paper from her pocket.
@@ -3635,7 +3633,7 @@ Argus, Argus. You've come to me.
 **Argus:** ...
 
 **Argus:** Let this serve as a reminder to remain vigilant. If there were a "Deceitful Spirit of the Year" award, I'm sure that would win.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -3645,7 +3643,7 @@ Argus, Argus. You've come to me.
 
 > Again, again, and again.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Vertin:** Stefen Garcia, a Zeno captain, 36 years old.
 
 **Vertin:** For unknown reasons—likely connected to Manus Vindictae—he moved into this motel.
@@ -3739,7 +3737,7 @@ A soft voice plays through the speaker.
 **Vertin:** Who's this?
 
 **???:** This is Barbara.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -3749,7 +3747,7 @@ A soft voice plays through the speaker.
 
 > Whether child or lamb, they still deserve deliverance.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The voice on the other end continues.
 
 **Barbara:** Wonderful, I can talk over the phone now. The wind must still be wandering nearby.
@@ -3923,7 +3921,7 @@ She pulls a few pieces of candy from her pocket and places them in Argus's palm.
 **Vertin:** Us and Barbara will be out of here soon.
 
 **Vertin:** And you'll find some candy and Kayla in town.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · 20th Century Miracles
 
@@ -3948,7 +3946,7 @@ Experiment Report
 
 > Dial the number, and service swiftly follows. A good motel should offer nothing less.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 Red Room, Tuesday's Motel
 
 In the center of the red room stands a snow-white crib.
@@ -4102,7 +4100,7 @@ She looks at the pool of blood in the hallway where the officer's body once was.
 The bundle in her arms suddenly lets out a strange cry.
 
 **Tuesday:** There, there. Don't cry, sweetheart.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -4112,7 +4110,7 @@ The bundle in her arms suddenly lets out a strange cry.
 
 > If anything, it pleases the palate.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Vertin:** Is this the spot?
 
 **Argus:** Sure as shooting.
@@ -4340,7 +4338,7 @@ The maid presses her foot against Argus's fingers and steps down. Argus screams 
 **Tuesday:** There's no need to worry, Ms. Vertin. I've done this countless times.
 
 **Tuesday:** Now, allow me to peer into your dreams.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -4350,7 +4348,7 @@ The maid presses her foot against Argus's fingers and steps down. Argus screams 
 
 > The road ahead is long. Try not to let it soak your shoes.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The sounds of the world fade into total silence, and when she opens her eyes again, there is nothing but darkness.
 
 **Vertin:** Where am I?
@@ -4790,7 +4788,7 @@ And this hand is her only salvation—her escape from this labyrinth—so she gr
 **Argus:** She ain't Kayla.
 
 She declares this with absolute certainty.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · Chance Interview
 
@@ -4815,7 +4813,7 @@ Tuesday: An interview, huh? Well, I do declare, that is new ground for me, espec
 
 > No one wields greater power than she, for she is the mother.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 The motel hallway is as quiet as ever. The maid stands, smiling.
 
 **Tuesday:** Did you see it?
@@ -5051,7 +5049,7 @@ Lilya is sitting exhausted below. Their eyes meet.
 **Lilya:** Can you come down here, Captain? Talking like this hurts my neck.
 
 **Vertin:** Okay.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 
 ---
@@ -5061,7 +5059,7 @@ Lilya is sitting exhausted below. Their eyes meet.
 
 > The soil is moist and fertile in the south, where the song of the wind reaches far.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Lilya:** What's going on?
 
 Outside the motel, the rising dawn paints the earth a deep orange. Lilya looks confused as they approach.
@@ -5275,7 +5273,7 @@ The maid remains calm, gently patting the bundle in her arms.
 She picks up the suitcase.
 
 **Vertin:** We must report back to Madam Z about Urd.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · Hygiene Guide
 
@@ -5315,7 +5313,7 @@ Close your eyes, close your eyes, my darling little dear, The shining moon and p
 
 > Poor child, thinking a pitiful cry would lead to a warm embrace.
 
-<!-- uttu-body:start -->
+<!-- reader-body:start -->
 **Kayla:** Oh dear. It seems a lot transpired while I was away.
 
 **Kayla:** ...
@@ -5423,7 +5421,7 @@ She licks her lips.
 **Tuesday:** Fear doesn't frighten me. No, quite the contrary ...
 
 **Tuesday:** It excites me. I would embrace fear any day of the week.
-<!-- uttu-body:end -->
+<!-- reader-body:end -->
 
 ### Trail · Tuesday's Motel Incident Investigation Report (Excerpt)
 

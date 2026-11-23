@@ -4,30 +4,29 @@
 
 ## 阅读入口
 
-| 语言 | 章节 | 剧情单元 | 小径 |
-| --- | ---: | ---: | ---: |
-| [简体中文](readable/story_reader_linked/zh-CN/README.md) | 147 | 1,636 | 671 |
-| [English](readable/story_reader_linked/en/README.md) | 137 | 1,509 | 620 |
-| [日本語](readable/story_reader_linked/ja/README.md) | 136 | 1,505 | 620 |
-| [한국어](readable/story_reader_linked/ko/README.md) | 136 | 1,505 | 620 |
-| [繁體中文](readable/story_reader_linked/zh-TW/README.md) | 136 | 1,505 | 620 |
+| 语言 | 版本基线 | 章节 | 剧情单元 | 小径 |
+| --- | --- | ---: | ---: | ---: |
+| [简体中文](readable/story_reader_linked/zh-CN/README.md) | 国服 4.1 | 147 | 1,636 | 671 |
+| [English](readable/story_reader_linked/en/README.md) | 国际服 3.9 | 137 | 1,509 | 620 |
+| [日本語](readable/story_reader_linked/ja/README.md) | 国际服 3.9 | 136 | 1,505 | 620 |
+| [한국어](readable/story_reader_linked/ko/README.md) | 国际服 3.9 | 136 | 1,505 | 620 |
+| [繁體中文](readable/story_reader_linked/zh-TW/README.md) | 国际服 3.9 | 136 | 1,505 | 620 |
 
-## 收录范围与来源
+## 版本与收录范围
 
-2026 年 11 月 23 日按 [UTTU](https://uttu.merui.net/) 五类剧情目录和网站地图补齐，共覆盖 146 个剧情及独立小径地址、686 份可读取的语言页面、7,622 个分节。五种语言共新增 298 份章节文件、2,427 个剧情单元和 30 条小径；此前列出的整篇缺录已补入。
+国服与国际服分别更新，剧情开放进度不同。当前资源基线为国服 4.1 和国际服 3.9，各语言按对应版本整理。国际服尚未上线的版本待上线后补充，不列为漏收或缺译。
 
-正文包含对白、旁白、屏幕文字、全部选项及回应，并补录论坛帖子、私信、词条注释和弹窗文档。UTTU 与客户端文字有差异时，客户端原文保留在同节的折叠框内。原有章节路径、剧情锚点和小径均保留。
+2026 年 11 月 23 日补录了五种语言的剧情、选项分支、论坛帖子与私信、词条注释、弹窗文档和独立小径。现共收录 692 份章节文件、7,660 个剧情单元、3,151 条小径。原有章节路径和锚点保留，文本异文可在同节的折叠框中查看。
 
-- [本次补全清单、来源快照与校验](structured/uttu_completion_20261123/README.md)
-- [阅读版总目录](readable/story_reader_linked/README.md) · [目录与链接校验](readable/story_reader_linked/validation.json)
-- 客户端基线：[国服 4.1 来源](structured/story_text_repull_20261109/README.md) · [国际服 3.9 来源](structured/story_global_3_9/README.md)
-- 历史修订：[Issue #2](structured/story_reader_corrections/README.md) · [11 月 22 日核对快照](structured/story_reader_audit_20261122/README.md)
+- [阅读版总目录](readable/story_reader_linked/README.md) · [本轮补录说明](structured/story_reader_completion_20261123/README.md)
+- [国服 4.1 整理说明](structured/story_text_repull_20261109/README.md) · [国际服 3.9 整理说明](structured/story_global_3_9/README.md)
+- [Issue #2 修订](structured/story_reader_corrections/README.md) · [目录与链接检查](readable/story_reader_linked/validation.json)
 
-《Trophy of the Past Glory》在 UTTU 仅有可读取的英文页，其他四种语言地址返回 404，因此只收录英文。来源中的纯玩法关卡与分组标题按原目录保留；客户端额外收录的《于洪流中》前四关仍未提供独立正文，详情见本次补全说明。
+纯玩法关卡、章节分组标题及其他没有独立剧情的节点保留其关卡信息。各语言的收录数量可因版本进度和篇目形式而不同。
 
 ## 剧透与版权说明
 
 - 本仓库是玩家维护的非官方、非商业剧情文本归档，与游戏开发商、发行商及其他权利人无隶属或合作关系。
-- 《重返未来：1999》的名称、角色、剧情文本及相关游戏内容的权利归其各自权利人所有。UTTU 文本整理及注释保留来源链接。
+- 《重返未来：1999》的名称、角色、剧情文本及相关游戏内容的权利归其各自权利人所有。
 - 本仓库仅用于资料保存、检索与个人阅览，不主张对游戏原始内容享有权利，也不授权将其用于商业用途。
 - 若发现错字、缺句、标题或章节顺序错误，可以通过 [Issues](https://github.com/VioletWilde/Reverse1999-Story-Compendium/issues) 反馈。
