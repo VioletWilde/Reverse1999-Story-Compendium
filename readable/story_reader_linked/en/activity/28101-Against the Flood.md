@@ -1,7 +1,7 @@
 # 28101 · Against the Flood
 
 <!-- reading-navigation:start -->
-[← Previous chapter: 1987 Cosmic Overture](27101-1987%20Cosmic%20Overture.md) · [Story index](../README.md) · [Next chapter: The Midnight Whistle →](31101-The%20Midnight%20Whistle.md)
+[Previous chapter：Polymerized Dreams](385101-Polymerized%20Dreams.md) · [Story index](../README.md)
 <!-- reading-navigation:end -->
 
 - Story units：`5`
@@ -158,5 +158,5 @@ Then she disappears into the rising tide.
 ---
 
 <!-- reading-navigation:start -->
-[← Previous chapter: 1987 Cosmic Overture](27101-1987%20Cosmic%20Overture.md) · [Story index](../README.md) · [Next chapter: The Midnight Whistle →](31101-The%20Midnight%20Whistle.md)
+[Previous chapter：Polymerized Dreams](385101-Polymerized%20Dreams.md) · [Story index](../README.md)
 <!-- reading-navigation:end -->
