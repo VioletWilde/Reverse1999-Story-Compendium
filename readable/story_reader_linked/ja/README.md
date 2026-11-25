@@ -8,6 +8,8 @@
 
 [2026年11月23日更新](../../../structured/story_reader_completion_20261123/README.md)
 
+[2026年11月25日本文修正](../../../structured/story_reader_proofreading_20261125/README.md)
+
 ## メインストーリー (16)
 
 - [301 · ディス・イズ・トゥモロー](mainline/301-%E3%83%87%E3%82%A3%E3%82%B9%E3%83%BB%E3%82%A4%E3%82%BA%E3%83%BB%E3%83%88%E3%82%A5%E3%83%A2%E3%83%AD%E3%83%BC.md) — 6 · 0

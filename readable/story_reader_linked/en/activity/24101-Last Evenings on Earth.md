@@ -257,7 +257,7 @@ A row of sharp claws grazes Kamuta's back.
 
 **Toa:** What are all these Splintercats doing here?!
 
-**???:**!\*/% ...
+**???:** !\*/% ...
 
 The near-endless surge of critters starts to create an even greater panic.
 
@@ -285,7 +285,7 @@ Many are left wounded.
 
 **Kamuta:** Everyone, get to the Quick Spear!
 
-**Ghost-Face Crab:** Ένα ευθύγραμμο τμήμα σχηματίζεται όταν ενώσουμε δύο σημεία! #/(#—!
+**Ghost-Face Crab:**  Ένα ευθύγραμμο τμήμα σχηματίζεται όταν ενώσουμε δύο σημεία! #/(#—!
 
 **Fatutu:** This tsunami ... It's the worst I've ever seen.
 
@@ -295,7 +295,7 @@ Many are left wounded.
 
 From the shadows, a spiny claw swipes at Fatutu.
 
-**???:**\*Slæstu í djúpan dvala.
+**???:** \*Slæstu í djúpan dvala.
 
 An inky-black incantation flashes past her.
 
@@ -390,8 +390,6 @@ The tide grows more turbulent, crashing against rocks and shaking the foundation
 There's a series of crashes as coconut trees fall, and earth crumbles and falls into the sea.
 
 **Ms. Grace:** There it is. Our ship.
-
-Last Evenings on Earth
 
 Last Evenings on Earth
 
@@ -1286,35 +1284,35 @@ It's like she's descended into some kind of cursed land of numbers.
 
 You're taking a test, not going to war.
 
-**Ulrich:**You're taking a test, not going to war.
+**Ulrich:** You're taking a test, not going to war.
 
 Captain, this APPLe has an impression on this.
 
-**APPLe:**Captain, this APPLe has an impression on this.
+**APPLe:** Captain, this APPLe has an impression on this.
 
 Hmm. Maybe you were their target because you are an irrational number.
 
-**37:**Hmm. Maybe you were their target because you are an irrational number.
+**37:** Hmm. Maybe you were their target because you are an irrational number.
 
 Is it really a puzzle unsolvable?
 
-**APPLe:**Is it really a puzzle unsolvable?
+**APPLe:** Is it really a puzzle unsolvable?
 
 Are you scared?
 
-**37:**Are you scared?
+**37:** Are you scared?
 
 Captain!
 
-**APPLe:**Captain!
+**APPLe:** Captain!
 
 Follow me, Regulus.
 
-**37:**Follow me, Regulus.
+**37:** Follow me, Regulus.
 
 Best of luck, Researcher Regulus.
 
-**Ulrich:**Best of luck, Researcher Regulus.
+**Ulrich:** Best of luck, Researcher Regulus.
 
 **Regulus:** ...!
 
@@ -1773,18 +1771,6 @@ A few agile black shadows leap around the upper parts of the observation deck.
 The tremors free a note pinned to the wall, and it flutters down to the ground.
 
 The handwriting is all too familiar:
-
-"Investigator's Report: Multiple Tripodero attacks on humans have occurred
-
-in the area."
-
-"They seem to regard this abandoned facility as their territory, attacking
-
-any intruders."
-
-"Remember: Keep your movements quiet!!!"
-
-Ulrich
 
 "Investigator's Report: Multiple Tripodero attacks on humans have occurred
 
@@ -2892,7 +2878,7 @@ Toa casts a fierce glare at Fatutu.
 
 **Selone:** But Ms. Grace has offered us a way home.
 
-**Selone:**We'll have our islands back, just as they were. Our promised land.
+**Selone:** We'll have our islands back, just as they were. Our promised land.
 
 **Fatutu:** We will go home, Selone. Trust me.
 
@@ -3872,7 +3858,7 @@ The ferrofluid swirls in a distorted arc.
 
 "Encyclopedia of Nautical Lore—Sea Monster Edition"
 
-**Serres****Common Names:** Pig-toothed Ray, Anchor Fish, Deep Bass Disc, Hammerhead Ray. Back home, we call this thing a Sea Bat. That's not right! Sea Bats are a different species and they definitely don't smash your portholes at night!**Classification:** Subclass: Aquatic Primal Critter, Order: Oceanic, Family: Ray-form, Genus: Flying Ray. In my opinion, it should be classified as a bird.**Distinctive Features:** Broad wings, long tail, a pair of clawed fins, and curved ivory-white fangs. Hey, I just thought of a business idea! Could we pass these fangs off as ivory? Serres typically live in groups and feed on large fish, seabirds, and drifting debris. While they may look similar to Olitiau, their behavior couldn't be more different. While Olitiaus are generally non-aggressive, Serres are known for their fondness for challenging creatures larger than themselves—including sperm whales, baleen whales, megalodon sharks, and passing ships. Sometimes, they even mistake protruding rocky outcrops and coral reefs for foes. When a Serres spots a ship, it leaps from the water, attacking the vessel with its sharp wings and calling upon its companions. They seem to have a competitive nature; each Serres strives to soar higher and leave deeper marks on its target. Stay away from the windows. You never know how deep their wings can slice. Despite their large numbers, Serres communicate through a single method: sound. They can produce a wide range of calls within the 10-180Hz frequency range, ideal for underwater communication, and they can sense each other's vibrations through their wing membranes. The best way to deal with Serres is to disrupt their hearing. Shouts, bangs, and music can confuse them, while enough volume can physically irritate their auditory systems, causing them to flee in discomfort. Now that's more like it! My former captain tried using anti-Olitiau measures against them, which is why he's my "former captain."
+**Serres** **Common Names:** Pig-toothed Ray, Anchor Fish, Deep Bass Disc, Hammerhead Ray. Back home, we call this thing a Sea Bat. That's not right! Sea Bats are a different species and they definitely don't smash your portholes at night! **Classification:** Subclass: Aquatic Primal Critter, Order: Oceanic, Family: Ray-form, Genus: Flying Ray. In my opinion, it should be classified as a bird. **Distinctive Features:** Broad wings, long tail, a pair of clawed fins, and curved ivory-white fangs. Hey, I just thought of a business idea! Could we pass these fangs off as ivory? Serres typically live in groups and feed on large fish, seabirds, and drifting debris. While they may look similar to Olitiau, their behavior couldn't be more different. While Olitiaus are generally non-aggressive, Serres are known for their fondness for challenging creatures larger than themselves—including sperm whales, baleen whales, megalodon sharks, and passing ships. Sometimes, they even mistake protruding rocky outcrops and coral reefs for foes. When a Serres spots a ship, it leaps from the water, attacking the vessel with its sharp wings and calling upon its companions. They seem to have a competitive nature; each Serres strives to soar higher and leave deeper marks on its target. Stay away from the windows. You never know how deep their wings can slice. Despite their large numbers, Serres communicate through a single method: sound. They can produce a wide range of calls within the 10-180Hz frequency range, ideal for underwater communication, and they can sense each other's vibrations through their wing membranes. The best way to deal with Serres is to disrupt their hearing. Shouts, bangs, and music can confuse them, while enough volume can physically irritate their auditory systems, causing them to flee in discomfort. Now that's more like it! My former captain tried using anti-Olitiau measures against them, which is why he's my "former captain."
 
 - Description：Knowledge is power! Quickly, find the creature's weakness before you get killed!
 - Action：Open and Read
@@ -3886,8 +3872,6 @@ The ferrofluid swirls in a distorted arc.
 > On understanding each individual at Laplace.
 
 <!-- reader-body:start -->
-An unofficial meeting on the "Artificial Storm" project was held before the "Free Breeze" set sail from Australia.
-
 An unofficial meeting on the "Artificial Storm" project was held before the "Free Breeze" set sail from Australia.
 
 **Attendee I:** Did you wake up with a glitch this morning, Ulrich?
@@ -4747,7 +4731,7 @@ A flash of cold light streaks through the air.
 
 **Fatutu:** No!
 
-**Fatutu:**\*Popo protect!
+**Fatutu:** \*Popo protect!
 
 A shell-shaped ripple appears, deflecting the icy arrow.
 
@@ -4990,7 +4974,7 @@ Her cries cannot overpower the murmuring of the guests, nor can they quell the r
 
 And they certainly cannot stop another poison arrow.
 
-**Sonetto:**\*Edèsübitosera——！
+**Sonetto:** \*Ed è sübito sera——！
 
 **Sonetto:** This is getting out of hand. Be careful, Timekeeper. They're coming for us!
 
@@ -5664,7 +5648,7 @@ Accountability Measures
 > The oars are shaped here, and the waves crash here. Not every breeze is destined to last forever.
 
 <!-- reader-body:start -->
-**Sonetto:**\*Edèsübitosera——！
+**Sonetto:** \*Ed è sübito sera——！
 
 **Sonetto:** It's no use. The cabin's wall is heavily reinforced. My arcane skills can barely scratch it.
 
@@ -6441,11 +6425,11 @@ The wails, the cries, and the pounding rain outside nearly overwhelm her. Amidst
 
 She jumps at the sound.
 
-**???:**Stop playing with that atrocious toy of yours and pay attention to the class, Barcarola!
+**???:** Stop playing with that atrocious toy of yours and pay attention to the class, Barcarola!
 
-**???:**Music is a language that moves us on to a deeper level than any other, transcending both culture, place, and time.
+**???:** Music is a language that moves us on to a deeper level than any other, transcending both culture, place, and time.
 
-**???:**Whoever you are, and wherever you go, it will always stir the depths of your soul!
+**???:** Whoever you are, and wherever you go, it will always stir the depths of your soul!
 
 **Barcarola:** ...
 
@@ -6675,7 +6659,7 @@ She glances at the Foundation emblem on her chest.
 
 **Vertin:** Fatutu, watch out!
 
-**Ms. Grace:**\*Slæstuídjúpandvala.
+**Ms. Grace:** \*Slæstu í djúpan dvala.
 
 **Fatutu:** Brother! No!
 
@@ -6956,7 +6940,7 @@ Shivering from the cold, Barcarola remembers something.
 
 Supply List
 
-... - Meat, Vegetables, Fruits As always √ - Tobacco, Alcohol As always √ ... - Ice Cream As always √Under orders of the new captain, all pending deliveries have been canceled. ... - Ornamental Plants and Animals Got plenty more from Australia √ ... - First Aid Kits, Medications As always √ - Lifeboat Maintenance Maintenance complete, backup boats are empty √New captain orders maintenance for the backup boats as well.
+... - Meat, Vegetables, Fruits As always √ - Tobacco, Alcohol As always √ ... - Ice Cream As always √ Under orders of the new captain, all pending deliveries have been canceled. ... - Ornamental Plants and Animals Got plenty more from Australia √ ... - First Aid Kits, Medications As always √ - Lifeboat Maintenance Maintenance complete, backup boats are empty √ New captain orders maintenance for the backup boats as well.
 
 - Description：It's because of these necessities that we can never truly call the sea our home.
 - Action：Check List
@@ -7086,7 +7070,7 @@ She raises her Crackling Box high, her face flushing red.
 
 **Fatutu:** Barcarola, what have you done to your Crackling Box?
 
-**Barcarola:**\*Sinfonia gioiosa, dividetevi con grazia!
+**Barcarola:** \*Sinfonia gioiosa, dividetevi con grazia!
 
 Surprised Guest: Oh, Ms. Barcarola, not your zanfona! I remember you telling us how hard you worked to find it.Reminiscing Guest: I haven't seen one of those since my time in Galicia.Emotional Guest: You've turned them into boats! Ms. Barcarola, you're not just a great musician, you're a kind soul, too!Emotional Guest: You saved us!
 
@@ -7135,7 +7119,7 @@ Barcarola realizes a terrifying truth, one she has long ignored.
 
 —not too sharp or unbalanced—just like her."
 
-**???:**"Our cheeky little pumpkin's violin should have a rich and bright tone
+**???:** "Our cheeky little pumpkin's violin should have a rich and bright tone
 
 —not too sharp or unbalanced—just like her."
 
@@ -7143,21 +7127,21 @@ Barcarola realizes a terrifying truth, one she has long ignored.
 
 —the best that Cremona can offer!"
 
-**???:**"Let's ask Mr. Belli for some top-notch spruce or maple wood
+**???:** "Let's ask Mr. Belli for some top-notch spruce or maple wood
 
 —the best that Cremona can offer!"
 
 "We'll need some glue for the neck joint and plenty of varnish."
 
-**???:**"We'll need some glue for the neck joint and plenty of varnish."
+**???:** "We'll need some glue for the neck joint and plenty of varnish."
 
 "Of course. This is a Cremona violin we're talking about."
 
-**???:**"Of course. This is a Cremona violin we're talking about."
+**???:** "Of course. This is a Cremona violin we're talking about."
 
 "Most important of all, it will be a violin for our little Barcarola."
 
-**???:**"Most important of all, it will be a violin for our little Barcarola."
+**???:** "Most important of all, it will be a violin for our little Barcarola."
 
 The voices sound so close, as if they were spoken just yesterday.
 

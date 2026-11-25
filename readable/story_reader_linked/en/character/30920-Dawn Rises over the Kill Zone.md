@@ -322,7 +322,7 @@ Mr. Poiret's designs.
 
 My, what a boon that would be afore I finally go to Paris to become a fashion designer ...
 
-**Letter:**Dear Agnès, word reaches me that you have gone to Saint-Lizier again to recover.
+**Letter:** Dear Agnès, word reaches me that you have gone to Saint-Lizier again to recover.
 
 Though I hear no complaints from you, and I know you continue to pray through your
 
@@ -660,19 +660,13 @@ Two overlapping hands, either lifting or concealing. Its black sheen gives off a
 
 Marie, are you going to enlist?
 
-Marie, are you going to enlist?
-
 I must. The motherland calls. And if I do not, the atelier will be reduced to ash and rubble.
-
-I must. The motherland calls. And if I do not, the atelier will be reduced to ash and rubble.
-
-I truly believe this war will soon end. We shall continue our design work ere long!
 
 I truly believe this war will soon end. We shall continue our design work ere long!
 
 Liar.
 
-**Marianne:**Liar.
+**Marianne:** Liar.
 
 **Marianne:** Only those ignorant of the truth of war would dare speak of victory before it is won.
 
@@ -714,21 +708,13 @@ Marianne, if thou hast chosen to enlist,
 
 thou must sincerely turn to the Lord in far greater measure than thou ever hast.
 
-Marianne, if thou hast chosen to enlist,
-
-thou must sincerely turn to the Lord in far greater measure than thou ever hast.
-
-For only He may grant thee the faith, strength,
-
-and forgiveness to indulge in the sins of war and return unscathed.
-
 For only He may grant thee the faith, strength,
 
 and forgiveness to indulge in the sins of war and return unscathed.
 
 Liar.
 
-**Marianne:**Liar.
+**Marianne:** Liar.
 
 **Marianne:** My love for the motherland is true, my prayers sincere ...
 
@@ -764,23 +750,15 @@ Her mind races, her heart beating out of her chest. Darkness floods her sight.
 
 Soldiers, the enemy hides in the ridge, thinking they can break our will!
 
-Soldiers, the enemy hides in the ridge, thinking they can break our will!
-
-But they forget that you are the victors of Forlan!
-
 But they forget that you are the victors of Forlan!
 
 Today, we will put an end to their occupation!
-
-Today, we will put an end to their occupation!
-
-In 48 hours, we break their line and end this war!
 
 In 48 hours, we break their line and end this war!
 
 Liar!
 
-**Marianne:**Liar!
+**Marianne:** Liar!
 
 Finally, the shelling stops. The survivors slump in the trench.
 
@@ -798,10 +776,6 @@ The entire trench is filled with coughing and spluttering. The sounds of exhaust
 
 "Thou shalt not kill ... Thou shalt not bear false witness." The Lord spake it unto us, Marie.
 
-"Thou shalt not kill ... Thou shalt not bear false witness." The Lord spake it unto us, Marie.
-
-We must be honest and righteous, for only by doing good may He smile upon us.
-
 We must be honest and righteous, for only by doing good may He smile upon us.
 
 **Marianne:** Agnès, you carry every virtue the Lord cherishes. You are a true believer.
@@ -809,8 +783,6 @@ We must be honest and righteous, for only by doing good may He smile upon us.
 **Marianne:** I have received no letters from you for what feels like an age, yet still, the simple thought of you gives me strength to go on.
 
 **Marianne:** And I'm glad. Glad that you have not borne witness to all this—the endless tragedies of the battlefield.
-
-Lies.
 
 Lies.
 <!-- reader-body:end -->
@@ -1030,7 +1002,7 @@ For the first time, her eyes clearly discern good from evil.
 
 Liar!
 
-**Marianne:**Liar!
+**Marianne:** Liar!
 
 She snaps, unable to stomach another empty speech.
 

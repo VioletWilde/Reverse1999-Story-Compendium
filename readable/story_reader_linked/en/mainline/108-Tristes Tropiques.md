@@ -2237,39 +2237,39 @@ Whose hand is that?
 
 The Red-Bellied Piranhas
 
-???:So, things went sideways. That's what happens when you put guns in the hands of amateurs.
+???: So, things went sideways. That's what happens when you put guns in the hands of amateurs.
 
-???:But you handled the water better this time. You controlled your breathing, kept your airways clear, and this time you remembered to lie back and float.
+???: But you handled the water better this time. You controlled your breathing, kept your airways clear, and this time you remembered to lie back and float.
 
 > **Choice 1：** Who are you?
 
-???:Does it matter? I'm all you've got. We're at war—bullets flying, wounds festering, typhoid, cholera, and all the worst of it. It's a living hell, and only fools think there's any honor in it.
+???: Does it matter? I'm all you've got. We're at war—bullets flying, wounds festering, typhoid, cholera, and all the worst of it. It's a living hell, and only fools think there's any honor in it.
 
-???:You never expect to see a familiar face again, not in times like these.
+???: You never expect to see a familiar face again, not in times like these.
 
-???:Now I need you to listen. There's something you should know.
+???: Now I need you to listen. There's something you should know.
 
 > **Choice 1：** What things?
 
-???:The raid on the river was a ploy, and its mastermind is an old acquaintance. As for the ones who carried it out—you already heard about them this morning.
+???: The raid on the river was a ploy, and its mastermind is an old acquaintance. As for the ones who carried it out—you already heard about them this morning.
 
-???:They promised their followers they'd push south, and they did. With their supplies secured by a mysterious third party, they paraded through every town along the way, playing as "liberators" and taking out anyone they decided were their enemies.
+???: They promised their followers they'd push south, and they did. With their supplies secured by a mysterious third party, they paraded through every town along the way, playing as "liberators" and taking out anyone they decided were their enemies.
 
-???:They swelled in numbers, larger than any local gang or cult had ever gotten before.
+???: They swelled in numbers, larger than any local gang or cult had ever gotten before.
 
-???:Now they swarm across the land like a school of red-bellied piranhas. Always hungry, ready to tear apart anything that crosses their path.
+???: Now they swarm across the land like a school of red-bellied piranhas. Always hungry, ready to tear apart anything that crosses their path.
 
 > **Choice 1：** What happened to the others?
 
-???:Chances are they're doing fine, just like you.
+???: Chances are they're doing fine, just like you.
 
-???:Would've been nice if you caught what that little executioner and that "gold-hearted" gambler were talking about during their dice game. Guess you'll have to ask her later.
+???: Would've been nice if you caught what that little executioner and that "gold-hearted" gambler were talking about during their dice game. Guess you'll have to ask her later.
 
 > **Choice 1：** Why don't \*you\* tell me instead?
 
-???:Listen, I'm not here to run your errands or play your messenger boy, so ask nicely.
+???: Listen, I'm not here to run your errands or play your messenger boy, so ask nicely.
 
-???:There's nothing more I need to tell you. For now.
+???: There's nothing more I need to tell you. For now.
 
 ### Trail · Incarceration Record
 
@@ -3368,41 +3368,41 @@ He sheathes his knife and hands Galeno over to his new companion.
 
 Who is the Savior?
 
-???:This place was once known for its inexhaustible mines, the riches of its rainforests, and its brave and passionate people. But now, the first two are gone.
+???: This place was once known for its inexhaustible mines, the riches of its rainforests, and its brave and passionate people. But now, the first two are gone.
 
-???:Chaos and power struggles loom over the younger generation, while the rich and well-connected sit atop their piles of corpses and rubble and feast. Dining off golden plates with silver spoons, turning their noses up from the dogs at their feet.
+???: Chaos and power struggles loom over the younger generation, while the rich and well-connected sit atop their piles of corpses and rubble and feast. Dining off golden plates with silver spoons, turning their noses up from the dogs at their feet.
 
-???:But that gold has lost its shine and their silver spoons have tarnished, everyone can see them for what they really are. So, what now? Either the people save themselves or turn their fate over to the hands of the so-called "savior." What would you do, if it were you?
+???: But that gold has lost its shine and their silver spoons have tarnished, everyone can see them for what they really are. So, what now? Either the people save themselves or turn their fate over to the hands of the so-called "savior." What would you do, if it were you?
 
 > **Choice 1：** I'd save myself first.
 
-???:That's a smart choice. Now that the carnival's over, people have to deal with more than just their hangovers—they must figure out how to save their own skins.
+???: That's a smart choice. Now that the carnival's over, people have to deal with more than just their hangovers—they must figure out how to save their own skins.
 
-???:Most though will just run around like chickens with their heads cut off, begging for their pain to be taken away. But all they'll get is another morphine shot—nothing close to a real solution.
+???: Most though will just run around like chickens with their heads cut off, begging for their pain to be taken away. But all they'll get is another morphine shot—nothing close to a real solution.
 
-???:Fear spreads like a disease. Until an entire generation is out on the streets, hoping to find anything that will lift them out of their misery.
+???: Fear spreads like a disease. Until an entire generation is out on the streets, hoping to find anything that will lift them out of their misery.
 
 > **Choice 2：** Can this "savior" even save its own?
 
-???:Who's asking the questions here, me or you? But fine, I'll clue you in a little about this "savior".
+???: Who's asking the questions here, me or you? But fine, I'll clue you in a little about this "savior".
 
-???:I once met a kid from Buenos Aires who told me about the "hand of god" that gave them the World Cup. He saw it as proof there was a higher power, something men should follow and seek protection from.
+???: I once met a kid from Buenos Aires who told me about the "hand of god" that gave them the World Cup. He saw it as proof there was a higher power, something men should follow and seek protection from.
 
-???:Maybe he had a point, I don't know. Maybe there's truly something greater out there, or maybe it's just what we mortals need to believe.
+???: Maybe he had a point, I don't know. Maybe there's truly something greater out there, or maybe it's just what we mortals need to believe.
 
-???:These men from the Apostles Brotherhood used to be regular church-goers just like anybody else. But faced with an opportunity to rise above their own cruel realities, they all too readily turned away.
+???: These men from the Apostles Brotherhood used to be regular church-goers just like anybody else. But faced with an opportunity to rise above their own cruel realities, they all too readily turned away.
 
-???:They left their old altars and took communion with a new god. Will this new path save them? Is it worth all their efforts? I can't say.
+???: They left their old altars and took communion with a new god. Will this new path save them? Is it worth all their efforts? I can't say.
 
-???:But you wanted to know if this 'savior' can save its own. Well, I guess you've got your answer now.
+???: But you wanted to know if this 'savior' can save its own. Well, I guess you've got your answer now.
 
 > **Choice 1：** Are we going to be alright?
 
-???:No need to start panicking just yet. Things are still under control. Your lady friend has stepped up to solve this mess, and the veteran knows what he's doing.
+???: No need to start panicking just yet. Things are still under control. Your lady friend has stepped up to solve this mess, and the veteran knows what he's doing.
 
-???:This city is unlike any you've seen before. You must learn its secrets to survive—remember which street kids are from which alley and what intel they can be relied on for, learn the dates when the dealers bring their "medicine" into port, and figure out which water tanks hide the key to the local gang's safehouse.
+???: This city is unlike any you've seen before. You must learn its secrets to survive—remember which street kids are from which alley and what intel they can be relied on for, learn the dates when the dealers bring their "medicine" into port, and figure out which water tanks hide the key to the local gang's safehouse.
 
-???:Don't look at me for answers. It's none of my business.
+???: Don't look at me for answers. It's none of my business.
 
 
 ---
@@ -6525,43 +6525,43 @@ A lucid dream, a living death, a perished immortality.
 
 Gambling Etiquette
 
-???:A gambling game's been set up in a place unfamiliar to you. Soon, you'll be invited to join the table as well.
+???: A gambling game's been set up in a place unfamiliar to you. Soon, you'll be invited to join the table as well.
 
 > **Choice 1：** Give me more details.
 
-???:Hmph ... you seem to have grown quite assertive. But remember this: as a newcomer to the table, you have no privilege to make demands or probe for information unless you're looking to be targeted and isolated.
+???: Hmph ... you seem to have grown quite assertive. But remember this: as a newcomer to the table, you have no privilege to make demands or probe for information unless you're looking to be targeted and isolated.
 
-???:You have to lose a few rounds—pay your "entry fee." Only then can you start to learn the secrets of those at the table. The players' backgrounds, the dealer's habits, and the truth behind the highest-stakes gambler.
+???: You have to lose a few rounds—pay your "entry fee." Only then can you start to learn the secrets of those at the table. The players' backgrounds, the dealer's habits, and the truth behind the highest-stakes gambler.
 
-???:It's baffling to me. Why would anyone travel halfway across the world just to throw away their money?
+???: It's baffling to me. Why would anyone travel halfway across the world just to throw away their money?
 
 > **Choice 1：** They're seeking victory.
 
-???:That was a rhetorical question. But thanks for answering.
+???: That was a rhetorical question. But thanks for answering.
 
-???:You're right; the allure of winning is irresistible, even in a game of chance. People blow on the dice, clutch a rabbit's foot, or murmur a prayer, foolishly believing they can sway the outcome.
+???: You're right; the allure of winning is irresistible, even in a game of chance. People blow on the dice, clutch a rabbit's foot, or murmur a prayer, foolishly believing they can sway the outcome.
 
-???:How deluded. It's pathetic.
+???: How deluded. It's pathetic.
 
 > **Choice 2：** They're seeking salvation.
 
-???:Tsk, disappointing indeed. To think you're entangled in such empty words.
+???: Tsk, disappointing indeed. To think you're entangled in such empty words.
 
-???:Some are so captivated by these grandiose phrases that they feel empowered when using them. Despite their vapidity, it makes them feel important.
+???: Some are so captivated by these grandiose phrases that they feel empowered when using them. Despite their vapidity, it makes them feel important.
 
-???:Ha, hypocritical. Delusional, even.
+???: Ha, hypocritical. Delusional, even.
 
 > **Choice 1：** Nonetheless, it's a fair game.
 
-???:Oh, quite the opposite. The odds are rarely equal. Your opponents could have any number of advantages stuffed up their sleeves—a larger stack of chips, easier winning conditions, or even the power to change the rules. Want a fair game? You've got to fight for it, by any means necessary.
+???: Oh, quite the opposite. The odds are rarely equal. Your opponents could have any number of advantages stuffed up their sleeves—a larger stack of chips, easier winning conditions, or even the power to change the rules. Want a fair game? You've got to fight for it, by any means necessary.
 
-???:The white suits always play it safe, carefully hedging their bets, while the black robes plot to overturn the table.
+???: The white suits always play it safe, carefully hedging their bets, while the black robes plot to overturn the table.
 
 > **Choice 1：** Clever countermeasures.
 
-???:Clever? More like cretinous and atrocious.
+???: Clever? More like cretinous and atrocious.
 
-???:Once the table's flipped, there'll be nothing but chaos. Who would bother to set it right again? No one.
+???: Once the table's flipped, there'll be nothing but chaos. Who would bother to set it right again? No one.
 
 
 ---
@@ -7060,41 +7060,41 @@ In a world of lies, the traitor's blade has been raised.
 
 Good News and Bad News
 
-???:All it takes is one lie to set off a chain reaction, and I'm afraid the butterfly effect has reached you. I have bad news. You've been betrayed.
+???: All it takes is one lie to set off a chain reaction, and I'm afraid the butterfly effect has reached you. I have bad news. You've been betrayed.
 
-???:But there's good news, too: a certain flight lieutenant appears to be more loyal to you than to the organization she swore to serve.
+???: But there's good news, too: a certain flight lieutenant appears to be more loyal to you than to the organization she swore to serve.
 
 > **Choice 1：** Who's the traitor?
 
-???:You know him—the admiral who was pitted against an enemy he couldn't possibly defeat. This conflict has left an incurable ulcer in his once lofty heart.
+???: You know him—the admiral who was pitted against an enemy he couldn't possibly defeat. This conflict has left an incurable ulcer in his once lofty heart.
 
-???:Yet, as a leader, he must remain unyielding in both body and mind.
+???: Yet, as a leader, he must remain unyielding in both body and mind.
 
-???:Despite his continued victories on the front lines, he made a decision so counterintuitive that even his loyal adjutant found it questionable.
+???: Despite his continued victories on the front lines, he made a decision so counterintuitive that even his loyal adjutant found it questionable.
 
-???:The top brass always sees things differently, I suppose.
+???: The top brass always sees things differently, I suppose.
 
 > **Choice 1：** Things never end well for traitors.
 
-???:You must have heard the story of the Trojan Horse, right?
+???: You must have heard the story of the Trojan Horse, right?
 
-???:Greek soldiers sneaked past the walls of Troy inside a wooden horse. One Trojan priest tried to warn his people, but was executed by the gods themselves for doing so. Soon after, all the leaders of Troy were killed by the hidden invaders.
+???: Greek soldiers sneaked past the walls of Troy inside a wooden horse. One Trojan priest tried to warn his people, but was executed by the gods themselves for doing so. Soon after, all the leaders of Troy were killed by the hidden invaders.
 
-???:Being killed by your enemy is bad; being killed by your ally is worse. It was an honorless way to go.
+???: Being killed by your enemy is bad; being killed by your ally is worse. It was an honorless way to go.
 
 > **Choice 2：** Hopefully, he knows what he's doing.
 
-???:Don't get your hopes up. He's more like a desperate patient than anything. Weary from the pain of his ulcer, and frantically searching for a way out.
+???: Don't get your hopes up. He's more like a desperate patient than anything. Weary from the pain of his ulcer, and frantically searching for a way out.
 
-???:In his desperation, he has clutched at an opportunity presented by none other than the Preacher herself.
+???: In his desperation, he has clutched at an opportunity presented by none other than the Preacher herself.
 
-???:Deep down, he knows he's backed himself into a corner.
+???: Deep down, he knows he's backed himself into a corner.
 
 > **Choice 1：** I'm done hearing bad news.
 
-???:Great. I'm done reading reports anyway.
+???: Great. I'm done reading reports anyway.
 
-???:I look forward to your wise decisions. We need some good news for a change.
+???: I look forward to your wise decisions. We need some good news for a change.
 
 
 ---
@@ -10418,37 +10418,37 @@ The old admiral sighs and pulls a stack of UTTU magazines from his coat. They we
 
 A Minute to Spare
 
-???:I have some news you'll be happy to hear.
+???: I have some news you'll be happy to hear.
 
 > **Choice 1：** I'll spare you one minute.
 
-???:Trust me, you'll wish you had more than a minute for this. It involves a mutual friend of ours—a long-lost acquaintance you've been searching for.
+???: Trust me, you'll wish you had more than a minute for this. It involves a mutual friend of ours—a long-lost acquaintance you've been searching for.
 
-???:Doctor, writer ... she goes by many titles, just like you and I. Sadly, in her current state, her brain capacity is limited.
+???: Doctor, writer ... she goes by many titles, just like you and I. Sadly, in her current state, her brain capacity is limited.
 
-???:It's just like after that fateful battle ended. Few survived to remember her awe-inspiring feats.
+???: It's just like after that fateful battle ended. Few survived to remember her awe-inspiring feats.
 
-???:Now, this kind-hearted doctor has become a crucial part of another wicked scheme of which our dear admiral is well aware.
+???: Now, this kind-hearted doctor has become a crucial part of another wicked scheme of which our dear admiral is well aware.
 
 > **Choice 1：** What does he know?
 
-???:An orchestra without a conductor can barely play a symphony. Recognizing that missing, vital piece, the admiral seized the opportunity without hesitation.
+???: An orchestra without a conductor can barely play a symphony. Recognizing that missing, vital piece, the admiral seized the opportunity without hesitation.
 
-???:Experience gives a veteran his scars, yes, but also a scrap of wisdom. He knew he should gain the upper hand in this one-sided gamble.
+???: Experience gives a veteran his scars, yes, but also a scrap of wisdom. He knew he should gain the upper hand in this one-sided gamble.
 
 > **Choice 2：** What scheme?
 
-???:I don't know yet; there's no mention of it in the reports. I do have some speculations, however.
+???: I don't know yet; there's no mention of it in the reports. I do have some speculations, however.
 
-???:Those troublemakers have been focused on nothing but cultivating chaos and fanning the flames of conflict, paying little attention to the scale and extent of their intended retribution.
+???: Those troublemakers have been focused on nothing but cultivating chaos and fanning the flames of conflict, paying little attention to the scale and extent of their intended retribution.
 
-???:Now, it seems they've realized the uncertainty of this approach—drastic, volatile retribution won't get them anywhere. To reach their destination, they must forge a new path, even if it's more arduous and perilous than the last.
+???: Now, it seems they've realized the uncertainty of this approach—drastic, volatile retribution won't get them anywhere. To reach their destination, they must forge a new path, even if it's more arduous and perilous than the last.
 
 > **Choice 1：** Go on.
 
-???:Your minute's up. Time certainly does fly, doesn't it?
+???: Your minute's up. Time certainly does fly, doesn't it?
 
-???:I'll be back when there's a new development. Stay alive if you can. I'd like to keep reading reports for you.
+???: I'll be back when there's a new development. Stay alive if you can. I'd like to keep reading reports for you.
 
 ### Trail · Paths of the Past - Dr. Dores
 

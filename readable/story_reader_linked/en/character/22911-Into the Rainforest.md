@@ -2939,8 +2939,6 @@ Bang! More gunshots.
 
 Find Sandro.
 
-Find Sandro.
-
 **Lopera:** Sandro?
 
 **Lopera:** Sandro ... Where is he?

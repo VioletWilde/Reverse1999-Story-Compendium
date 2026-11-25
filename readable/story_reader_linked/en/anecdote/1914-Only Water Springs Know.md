@@ -66,7 +66,7 @@ Charlie raises her head.
 
 What meets her gaze is neither an Ogopogo nor some water-spraying fish.
 
-**Sotheby:****Coins!**
+**Sotheby:** **Coins!**
 
 **Sotheby:** Good heavens, there are so many coins here—almost as many as there are in Father's 385th vault!
 
@@ -398,7 +398,7 @@ The mist stabilizes.
 
 The mist grows warm, as if the hall has become a hot spring.
 
-**La Source:****That's not fair!**
+**La Source:** **That's not fair!**
 
 **La Source:** How could I not be able to grant wishes?!
 

@@ -33,53 +33,47 @@ Things are neither entirely "this" nor entirely "that."
 
 By knowing yourself, you see them all.
 
-Things are neither entirely "this" nor entirely "that."
-
-By knowing yourself, you see them all.
-
 All things, regardless of creation or destruction, ultimately return to unity.
 
-All things, regardless of creation or destruction, ultimately return to unity.
+**Grandfather:** A persimmon tree that's meant to bear fruit will bear fruit sooner or later.
 
-**Grandfather:**A persimmon tree that's meant to bear fruit will bear fruit sooner or later.
+**Grandfather:** The frost falls in autumn, the fields of grain wither, and the sweet potatoes rot.
 
-**Grandfather:**The frost falls in autumn, the fields of grain wither, and the sweet potatoes rot.
+**Grandfather:** But when it's time for it to bear fruit, it will bear fruit.
 
-**Grandfather:**But when it's time for it to bear fruit, it will bear fruit.
+**Liang Yue's Father:** Get up.
 
-**Liang Yue's Father:**Get up.
+**Liang Yue's Father:** I'm going to start counting now.
 
-**Liang Yue's Father:**I'm going to start counting now.
+**Liang Yue's Father:** Three peanuts.
 
-**Liang Yue's Father:**Three peanuts.
+**Liang Yue's Father:** Two peanuts.
 
-**Liang Yue's Father:**Two peanuts.
+**Liang Yue's Father:** One peanut.
 
-**Liang Yue's Father:**One peanut.
+**Liang Yue:** \*panting\*
 
-**Liang Yue:**\*panting\*
+**Liang Yue:** Before its matchless might ... \*cough\* all evil bends ...!
 
-**Liang Yue:**Before its matchless might ... \*cough\* all evil bends ...!
+**Liang Yue:** Ow, that hurts. Father ...
 
-**Liang Yue:**Ow, that hurts. Father ...
+**Liang Yue's Father:** Perhaps this is our true destiny.
 
-**Liang Yue's Father:**Perhaps this is our true destiny.
+**Liang Yue:** What?
 
-**Liang Yue:**What?
+**Liang Yue's Father:** You are no longer the master of Qiángliáng.
 
-**Liang Yue's Father:**You are no longer the master of Qiángliáng.
-
-**Liang Yue:**...?!
+**Liang Yue:** ...?!
 
 It no longer recognizes you.
 
-**Liang Yue's Father:**It no longer recognizes you.
+**Liang Yue's Father:** It no longer recognizes you.
 
-**Grandfather:**The withering of grass and trees, the retreat of hibernating insects—all these are the natural cycles of heaven and earth.
+**Grandfather:** The withering of grass and trees, the retreat of hibernating insects—all these are the natural cycles of heaven and earth.
 
-**Grandfather:**Only after you've truly experienced it all, hearing the faint sound of that which you seek drifting away in vain, will you understand—
+**Grandfather:** Only after you've truly experienced it all, hearing the faint sound of that which you seek drifting away in vain, will you understand—
 
-**Grandfather:**All things are one with me.
+**Grandfather:** All things are one with me.
 
 **Chameleon Comms:** ... causing structural collapse.
 
@@ -93,9 +87,7 @@ It no longer recognizes you.
 
 **Liang Yue:** I'm ready.
 
-Part 1Descent of Frost
-
-Part 1Descent of Frost
+Part 1 Descent of Frost
 
 **Poitier:** We figured at first that this could all be caused by drainage issues. After all the rain we got this year, it wouldn't surprise me.
 
@@ -275,11 +267,11 @@ A deep, resonant call echoes from the depths of her memory.
 ## 2590002 · Commencement of Winter
 
 <!-- reader-body:start -->
-**Liang Yue's Father:**Get up.
+**Liang Yue's Father:** Get up.
 
-**Liang Yue's Father:**Get up!
+**Liang Yue's Father:** Get up!
 
-**Liang Yue's Father:**Get … up …!
+**Liang Yue's Father:** Get … up …!
 
 Motel
 
@@ -297,7 +289,7 @@ Motel
 
 **Liang Yue:** Electrical failures … beastlike appearance …
 
-**Liang Yue:**The witness's statement lines up with what we should expect. Still, we can't rush to assumptions.
+**Liang Yue:** The witness's statement lines up with what we should expect. Still, we can't rush to assumptions.
 
 Her pen sputters, leaving blotches of ink on the paper as she records her thoughts.
 
@@ -379,9 +371,7 @@ Her gaze sharpens, and she hesitates for only a moment.
 
 **Liang Yue:** The case takes priority.
 
-Part 2Commencement of Winter
-
-Part 2Commencement of Winter
+Part 2 Commencement of Winter
 
 **Deputy Chief Elden:** So, you two just decided that taking this call was more important than your exam. Have I got that right?
 
@@ -623,9 +613,7 @@ The world turns empty.
 
 **Liang Yue:** Are you leaving?
 
-Part 3Light Snow
-
-Part 3Light Snow
+Part 3 Light Snow
 
 **Poitier:** Still awake, cadet? Come on, burning the midnight oil's not so bad, is it? Least this way we get a bit of a break before this place gets busy.
 
@@ -734,8 +722,6 @@ She stands in the center of it all, chest heaving.
 **Deputy Chief Elden:** This is the third time I've had to haul you in here, cadet. Why don't you just move in here? It'll save me some time!
 
 Elden slams a newspaper on the desk.
-
-"Menacing Mastermind?—Liang Yue and Qiangliang"
 
 "Menacing Mastermind?—Liang Yue and Qiangliang"
 
@@ -979,13 +965,7 @@ Deputy Chief Elden raises his right arm almost simultaneously.
 
 The wind roars.
 
-The wind roars.
-
 The candlelight flickers.
-
-The candlelight flickers.
-
-The silhouette of the beast dissolves like burnt salt, vanishing into endless emptiness.
 
 The silhouette of the beast dissolves like burnt salt, vanishing into endless emptiness.
 
@@ -1003,9 +983,7 @@ Poitier is the first to leap into the chasm, rushing towards her friend.
 
 **Poitier:** Liáng!!
 
-Part 4Winter Solstice
-
-Part 4Winter Solstice
+Part 4 Winter Solstice
 
 **Liang Yue:** One jump left, one jump right, jump into Peach Blossom Village.
 
@@ -1087,15 +1065,11 @@ The girl lifts her head from her arms, staring blankly at the flickering candlel
 
 Then, a chant appears softly and dimly at the corner of her mind, drifting in from everywhere and nowhere.
 
-**Liang Yue:**Before its matchless might, all evil bends.
+**Liang Yue:** Before its matchless might, all evil bends.
 
-**Liang Yue:**Wherever it strides, all terrors end.
-
-Arise Qiángliáng, swift and fierce!
+**Liang Yue:** Wherever it strides, all terrors end.
 
 Arise Qiángliáng, swift and fierce!
-
-Banish all evil and cleanse this place.
 
 Banish all evil and cleanse this place.
 
@@ -1241,9 +1215,7 @@ A short word and a long pause follow, broken by a deep breath.
 
 **Poitier:** For good.
 
-Part 5Severe Cold
-
-Part 5Severe Cold
+Part 5 Severe Cold
 
 One month later.
 
@@ -1349,41 +1321,41 @@ The scent of hot dogs wafts up from a nearby deli as she looks out toward the di
 
 Slowly, she reaches for the waiting phone.
 
-**Liang Yue:**Hello, hello? Can you hear me?
+**Liang Yue:** Hello, hello? Can you hear me?
 
 **Phone:** …
 
-**Liang Yue's Mother:**Hello? Hello! What a surprise. You're calling home today?
+**Liang Yue's Mother:** Hello? Hello! What a surprise. You're calling home today?
 
 The familiar voice travels across oceans, carried by electric currents.
 
 **Liang Yue:** …
 
-**Liang Yue's Mother:**Honey, stop reading and come here. Our darling Liáng Yuè is calling!
+**Liang Yue's Mother:** Honey, stop reading and come here. Our darling Liáng Yuè is calling!
 
-**Liang Yue's Mother:**I'll put you on speaker, so your dad can hear us too.
+**Liang Yue's Mother:** I'll put you on speaker, so your dad can hear us too.
 
-**Liang Yue's Mother:**He was just talking about you yesterday, saying he hadn't heard a word since you left.
+**Liang Yue's Mother:** He was just talking about you yesterday, saying he hadn't heard a word since you left.
 
 **Liang Yue:** …
 
 She took a deep breath.
 
-**Liang Yue:**My probation period is almost over. I've got most of my results already. Just need to wait for the final outcome.
+**Liang Yue:** My probation period is almost over. I've got most of my results already. Just need to wait for the final outcome.
 
-**Liang Yue:**I'm doing well. The food isn't so bad, and I've met lots of kind people and made many friends.
+**Liang Yue:** I'm doing well. The food isn't so bad, and I've met lots of kind people and made many friends.
 
-**Liang Yue:**Every day is fulfilling. The arcane cases here are quite different from those back home.
+**Liang Yue:** Every day is fulfilling. The arcane cases here are quite different from those back home.
 
 From the other end of the receiver comes an eager response, as even the smallest drops of information from her daughter are drunk in deep by her mother.
 
 **Liang Yue:** …
 
-**Liang Yue:**Mom.
+**Liang Yue:** Mom.
 
-**Liang Yue's Mother:**Hmm? What's wrong?
+**Liang Yue's Mother:** Hmm? What's wrong?
 
-**Liang Yue:**I lost Qiángliáng.
+**Liang Yue:** I lost Qiángliáng.
 
 A memory surfaces of her childhood visits to the herbal shop with her mother, the air thick with the bitter aroma of medicinal herbs.
 
@@ -1391,7 +1363,7 @@ A memory surfaces of her childhood visits to the herbal shop with her mother, th
 
 Fox nuts, poria, angelica, bupleurum—all weighed carefully, gram by gram, dissolving into water.
 
-**Liang Yue:**I lost Qiángliáng.
+**Liang Yue:** I lost Qiángliáng.
 
 The ache in her throat connects both past and present.
 
@@ -1405,45 +1377,45 @@ The bitterness lingers in her nose.
 ## 2590006 · Commencement of Spring
 
 <!-- reader-body:start -->
-**Liang Yue:**It moved, Grandfather! Lift the pole!
+**Liang Yue:** It moved, Grandfather! Lift the pole!
 
-**Grandfather:**Oh, that's not a fish biting, just the wind picking up.
+**Grandfather:** Oh, that's not a fish biting, just the wind picking up.
 
-**Liang Yue:**Oh, not a fish?
+**Liang Yue:** Oh, not a fish?
 
-**Grandfather:**The bobber going up and down like that is normal. When a real fish comes, you'll know.
-
-**Liang Yue's Mother:**…
-
-**Liang Yue:**That's … pretty much the situation.
+**Grandfather:** The bobber going up and down like that is normal. When a real fish comes, you'll know.
 
 **Liang Yue's Mother:** …
 
-**Liang Yue's Mother:**Yuè, your father wants to talk to you.
+**Liang Yue:** That's … pretty much the situation.
+
+**Liang Yue's Mother:** …
+
+**Liang Yue's Mother:** Yuè, your father wants to talk to you.
 
 **Liang Yue:** …
 
-**Liang Yue:**\*exhales\*
+**Liang Yue:** \*exhales\*
 
-**Liang Yue:**Hi Dad, go ahead.
+**Liang Yue:** Hi Dad, go ahead.
 
 **Liang Yue's Father:** …
 
-**Liang Yue's Father:**You're not hurt, are you?
+**Liang Yue's Father:** You're not hurt, are you?
 
-**Liang Yue:**…!
+**Liang Yue:** …!
 
-**Liang Yue:**I-I'm fine. I'm okay.
+**Liang Yue:** I-I'm fine. I'm okay.
 
-**Liang Yue's Father:**How far ahead is your rent paid? I need to know so I can book your flight.
+**Liang Yue's Father:** How far ahead is your rent paid? I need to know so I can book your flight.
 
-**Liang Yue's Father:**Morning arrival or afternoon?
+**Liang Yue's Father:** Morning arrival or afternoon?
 
-**Liang Yue's Father:**Maybe around mealtime? That way you can have some of your mom's dumplings while they're still warm.
+**Liang Yue's Father:** Maybe around mealtime? That way you can have some of your mom's dumplings while they're still warm.
 
 **Liang Yue:** …
 
-**Liang Yue:**Dad.
+**Liang Yue:** Dad.
 
 The receiver in her hand is damp with sweat.
 
@@ -1451,19 +1423,19 @@ The hallway is silent, save for distant cheers and clattering from the skate par
 
 Her shadow hangs at the edge of the light, unmoved by the sounds of joy or the creeping stillness of the night.
 
-**Liang Yue:**Do you remember the couplet we hung in the hallway before we moved?
+**Liang Yue:** Do you remember the couplet we hung in the hallway before we moved?
 
 **Liang Yue's Father:** …
 
-**Liang Yue:**The Han-Wei inscription said: "The paulownia blossoms stretch across the crimson mountain paths, and the young phoenix sings clearer than the old."
+**Liang Yue:** The Han-Wei inscription said: "The paulownia blossoms stretch across the crimson mountain paths, and the young phoenix sings clearer than the old."
 
 **Liang Yue's Father:** …
 
-**Liang Yue:**You said it was something meaningful to reflect on. You told me to read it often.
+**Liang Yue:** You said it was something meaningful to reflect on. You told me to read it often.
 
-**Liang Yue:**So I read it every day, over and over, until I started to wonder.
+**Liang Yue:** So I read it every day, over and over, until I started to wonder.
 
-**Liang Yue:**What if the paulownia blossoms don't bloom, and the phoenix doesn't sing? Then what?
+**Liang Yue:** What if the paulownia blossoms don't bloom, and the phoenix doesn't sing? Then what?
 
 …
 
@@ -1477,89 +1449,87 @@ The faint clatter suggests his hand had trembled, nearly spilling the cup.
 
 **Liang Yue's Father:** …
 
-**Liang Yue's Father:**We never told you. That day … was your grandfather's funeral.
+**Liang Yue's Father:** We never told you. That day … was your grandfather's funeral.
 
-**Liang Yue:**"That day"? You mean …?
+**Liang Yue:** "That day"? You mean …?
 
-**Liang Yue's Father:**Yes, the day of the Jingzhe festival when you were six.
+**Liang Yue's Father:** Yes, the day of the Jingzhe festival when you were six.
 
-**Liang Yue's Father:**It was also the day you met Qiángliáng.
+**Liang Yue's Father:** It was also the day you met Qiángliáng.
 
 Liáng Yuè raised her hand, studying an old scar.
 
-**Liang Yue's Father:**Your grandfather spent his whole life hoping to see Qiángliáng.
+**Liang Yue's Father:** Your grandfather spent his whole life hoping to see Qiángliáng.
 
-**Liang Yue's Father:**His mastery of arcane skills was the strongest in five generations of our family, yet he left this world filled with regret.
+**Liang Yue's Father:** His mastery of arcane skills was the strongest in five generations of our family, yet he left this world filled with regret.
 
 **Liang Yue's Father:** Even after all I suffered through, from his expectations and his disappointment, I can't find it in myself to hate him.
 
 **Liang Yue:** …
 
-**Liang Yue's Father:**That couplet. I remember it.
+**Liang Yue's Father:** That couplet. I remember it.
 
-**Liang Yue's Father:**I've packed it away.
+**Liang Yue's Father:** I've packed it away.
 
 Her father takes a deep breath, the weight of years laced with remorse finally granting an innocent prisoner their exoneration.
 
-**Liang Yue's Father:**That rain was never meant to fall on you, yet you bore it all.
+**Liang Yue's Father:** That rain was never meant to fall on you, yet you bore it all.
 
 Three chimes from the ancestral bell echo in her head, clearing a lifetime of doubt.
 
-**Liang Yue:**Grandfather, the fish still aren't biting.
+**Liang Yue:** Grandfather, the fish still aren't biting.
 
-**Grandfather:**Haha, patience is the key with fishing.
+**Grandfather:** Haha, patience is the key with fishing.
 
-**Grandfather:**Here, take this little stick. You can draw in the dirt while you wait with me.
+**Grandfather:** Here, take this little stick. You can draw in the dirt while you wait with me.
 
-**Liang Yue:**Draw … Hmm, what should I draw?
+**Liang Yue:** Draw … Hmm, what should I draw?
 
-**Grandfather:**Whatever you like. Fish, birds, anything you like.
+**Grandfather:** Whatever you like. Fish, birds, anything you like.
 
-**Liang Yue:**Something I like, oh, I know!
+**Liang Yue:** Something I like, oh, I know!
 
-**Liang Yue:**Grandfather, look!
+**Liang Yue:** Grandfather, look!
 
-**Grandfather:**What's this? It's not a tiger or a dragon.
+**Grandfather:** What's this? It's not a tiger or a dragon.
 
-**Liang Yue:**It's my secret friend.
+**Liang Yue:** It's my secret friend.
 
-**Grandfather:**A secret friend? Oh! Wait, I see it now. You're drawing Qiángliáng, aren't you?
+**Grandfather:** A secret friend? Oh! Wait, I see it now. You're drawing Qiángliáng, aren't you?
 
-**Liang Yue:**Yes.
+**Liang Yue:** Yes.
 
-**Grandfather:**Haha, Yuè, that's not a very easy thing to draw.
+**Grandfather:** Haha, Yuè, that's not a very easy thing to draw.
 
-**Grandfather:**Why don't you try something else? A bunny, a fox, or that stray cat we saw last time?
+**Grandfather:** Why don't you try something else? A bunny, a fox, or that stray cat we saw last time?
 
-**Liang Yue:**But I want to draw it.
+**Liang Yue:** But I want to draw it.
 
-**Liang Yue:**I just want to draw it.
+**Liang Yue:** I just want to draw it.
 
-**Liang Yue:**You said to draw what I like.
+**Liang Yue:** You said to draw what I like.
 
-**Liang Yue:**And I love it.
+**Liang Yue:** And I love it.
 
-**Liang Yue:**—!
+**Liang Yue:** —!
 
-**Liang Yue:**I …
+**Liang Yue:** I …
 
-**Liang Yue:**I … love it?
+**Liang Yue:** I … love it?
 
 Three more chimes from the ancestral bell.
 
-**Liang Yue:**I …
+**Liang Yue:** I …
 
-**Liang Yue:**I …
+**Liang Yue:** I …
 
-**Liang Yue:**I …
+**Liang Yue:** I …
 
 **Liang Yue:** I …
 
 **Liang Yue:** Father ...
 
-Part 6Commencement of Spring
-
-Part 6Commencement of Spring
+Part 6 Commencement of Spring
 
 **Liang Yue:** "I Love Los Angeles" T-shirts—ten in total. Besides family, one for the neighbor's kid, Huhu, too.
 
@@ -1665,7 +1635,7 @@ As if trying to conceal some emotion, the instructor awkwardly twitched her nose
 
 **Liang Yue:** Yes, Flight 243. I didn't mix it up. They always have last-minute delays.
 
-**Deputy Chief Elden:**Have a safe trip!
+**Deputy Chief Elden:** Have a safe trip!
 
 **Deputy Chief Elden:** How was that? I've been practicing my Chinese. I think I got it that time.
 
@@ -1687,7 +1657,7 @@ Liáng Yuè salutes her colleagues with a fond smile.
 
 Her friends and coworkers rise up and return her salute.
 
-**All Officers:**Have a safe trip!
+**All Officers:** Have a safe trip!
 
 **Liang Yue:** We used to come here all the time.
 
@@ -1701,47 +1671,39 @@ Her friends and coworkers rise up and return her salute.
 
 "A god wields a snake, bears a tiger's head and human body, and has four hoofs and long elbows. Its name is Jiangliang."
 
-"A god wields a snake, bears a tiger's head and human body, and has four hoofs and long elbows. Its name is Jiangliang."
-
 "Qiangliang and Zuming feed on Zhesi and Jisheng. Qiangliang is synonymous with Jiangliang, as ancient texts show."
-
-"Qiangliang and Zuming feed on Zhesi and Jisheng. Qiangliang is synonymous with Jiangliang, as ancient texts show."
-
-Blessed are the steadfast in the face of thunder and adversity, who can chase plague to the ends of the earth and bring peace to all.
 
 Blessed are the steadfast in the face of thunder and adversity, who can chase plague to the ends of the earth and bring peace to all.
 
 Open the way to peace everlasting.
 
-Open the way to peace everlasting.
+**Grandfather:** This is a document written in Bronze Script between the Shang and Zhou dynasties, recording events from ancient times.
 
-**Grandfather:**This is a document written in Bronze Script between the Shang and Zhou dynasties, recording events from ancient times.
-
-**Grandfather:**It's been badly damaged. Restoring it won't be easy.
+**Grandfather:** It's been badly damaged. Restoring it won't be easy.
 
 **Grandfather:** It's been out here for a hundred years. But aside from you and me, no one in this family knows it exists.
 
-**Grandfather:**You—you're a coincidence. You stumbled upon this book by sheer chance.
+**Grandfather:** You—you're a coincidence. You stumbled upon this book by sheer chance.
 
-**Grandfather:**And I … I'm the one tasked with rewriting it.
+**Grandfather:** And I … I'm the one tasked with rewriting it.
 
-**Grandfather:**It records the ancient ritual that is said to awaken Qiángliáng.
+**Grandfather:** It records the ancient ritual that is said to awaken Qiángliáng.
 
-**Grandfather:**It also lists every member of the Liáng family who underwent these trials.
+**Grandfather:** It also lists every member of the Liáng family who underwent these trials.
 
-**Grandfather:**Some of them were so drained by the rites that they needed years to recover.
+**Grandfather:** Some of them were so drained by the rites that they needed years to recover.
 
-**Grandfather:**Sometimes they never really recover at all.
+**Grandfather:** Sometimes they never really recover at all.
 
-**Grandfather:**So, let me ask you one last time: Are you sure you want to know what's written inside?
+**Grandfather:** So, let me ask you one last time: Are you sure you want to know what's written inside?
 
 To burn a single white candle.
 
-**Liang Yue:**Spring thunder stirs the insects. Life begins anew.
+**Liang Yue:** Spring thunder stirs the insects. Life begins anew.
 
 From a carved, black-lacquered agarwood chest, she retrieves a ceremonial dress.
 
-**Liang Yue:**It's been so long. I can hardly remember the year Qiángliáng appeared.
+**Liang Yue:** It's been so long. I can hardly remember the year Qiángliáng appeared.
 
 She dons the garment.
 
@@ -1771,18 +1733,6 @@ The Tool.
 
 The orioles fall silent. Plants bow to the earth.
 
-Step One:
-
-The Tool.
-
-The orioles fall silent. Plants bow to the earth.
-
-Step Two:
-
-The Priest.
-
-The censer's smoke rises. Ancestral spirits shine bright.
-
 Step Two:
 
 The Priest.
@@ -1795,23 +1745,17 @@ The Incantation.
 
 Winds surge in from all directions.
 
-Step Three:
-
-The Incantation.
-
-Winds surge in from all directions.
-
-**Liang Yue:**Step Four …
+**Liang Yue:** Step Four …
 
 Blood ...
 
-**Liang Yue:**Blood ...
+**Liang Yue:** Blood ...
 
 Things are neither entirely "this" nor entirely "that." By knowing yourself, you see them all.
 
-**Liang Yue:**If you've truly disappeared from this world …
+**Liang Yue:** If you've truly disappeared from this world …
 
-**Liang Yue:**Will you ever answer my call again?
+**Liang Yue:** Will you ever answer my call again?
 
 Her hands move in strange, ritualistic gestures, reminiscent of Nuó Dance. Sparks of electricity burst forth from her bloodied fingertips.
 
@@ -1823,9 +1767,7 @@ Thunder roars as silver streaks of lightning slither along the walls, and the he
 
 **Liang Yue:** Arise Qiángliáng, swift and fierce! Banish all evil and cleanse this place!
 
-Part 7Rain Water
-
-Part 7Rain Water
+Part 7 Rain Water
 <!-- reader-body:end -->
 
 
@@ -1837,23 +1779,21 @@ Part 7Rain Water
 <!-- reader-body:start -->
 Open the way to peace everlasting.
 
-Open the way to peace everlasting.
+**Liang Yue's Father:** The person who was entrusted with Qiángliáng took Liáng as their surname, passing this knowledge down through their descendants.
 
-**Liang Yue's Father:**The person who was entrusted with Qiángliáng took Liáng as their surname, passing this knowledge down through their descendants.
+**Liang Yue's Father:** But to this day, the Xiǎndào Beast, Qiángliáng, has not appeared to a Liáng family member for nearly a century.
 
-**Liang Yue's Father:**But to this day, the Xiǎndào Beast, Qiángliáng, has not appeared to a Liáng family member for nearly a century.
+**Liang Yue's Father:** If the mind wavers or selfish desires dominate, Qiángliáng may turn on its master.
 
-**Liang Yue's Father:**If the mind wavers or selfish desires dominate, Qiángliáng may turn on its master.
+**Liang Yue's Father:** You are destined to carry on the Liáng legacy and bring glory to our name!
 
-**Liang Yue's Father:**You are destined to carry on the Liáng legacy and bring glory to our name!
+**Liang Yue's Father:** For the 101st time, wipe off your sweat. It'll affect your vision.
 
-**Liang Yue's Father:**For the 101st time, wipe off your sweat. It'll affect your vision.
+**Liang Yue's Father:** Stand before the ancestors' tablets with steadfast posture and grounded breath!
 
-**Liang Yue's Father:**Stand before the ancestors' tablets with steadfast posture and grounded breath!
+**Liang Yue's Father:** That opening stance is feeble. Your crouching stance is too clumsy. Your entire form is haphazard and weak!
 
-**Liang Yue's Father:**That opening stance is feeble. Your crouching stance is too clumsy. Your entire form is haphazard and weak!
-
-**Liang Yue's Father:**Stand up! Again! Do it again!
+**Liang Yue's Father:** Stand up! Again! Do it again!
 
 **Liang Yue:** Do you hear their voices?
 
@@ -1911,37 +1851,37 @@ In the hazy moonlight, the sweat on the girl's nose glistens with a silver sheen
 
 First Move: Starting Form.
 
-**Liang Yue:**First Move: Starting Form.
+**Liang Yue:** First Move: Starting Form.
 
 Focus your breath in your core, feet skimming the ground, as though lifting a thousand pounds.
 
 Second Move: The Dance.
 
-**Liang Yue:**Second Move: The Dance.
+**Liang Yue:** Second Move: The Dance.
 
 The rain and wind serve as blades. Roars become bullhorns. Dance to the rhythm, the wilder, the better.
 
 Third Move: Pressing the Seal.
 
-**Liang Yue:**Third Move: Pressing the Seal.
+**Liang Yue:** Third Move: Pressing the Seal.
 
 Twelve-hour scripts, nine palaces, and eight trigrams. Fingers spin like scattered stars, reshaping the cosmos.
 
 Fourth Move: The Heavenly Step.
 
-**Liang Yue:**Fourth Move: The Heavenly Step.
+**Liang Yue:** Fourth Move: The Heavenly Step.
 
 Rise to the heavens, traverse the nine provinces, and roam the world. Starry pearls shine in the cosmos, eclipsing all beauty.
 
 Fifth Move: Stomping Fire.
 
-**Liang Yue:**Fifth Move: Stomping Fire.
+**Liang Yue:** Fifth Move: Stomping Fire.
 
 Thunder and fire collide. Swarms of cobalt blue damselflies gather and spread, becoming phosphorus flames and burning everything to ash.
 
 Sixth Move: Banishing Evil.
 
-**Liang Yue:**Sixth Move: Banishing Evil.
+**Liang Yue:** Sixth Move: Banishing Evil.
 
 Flames roll across her skin as the beast unleashes a deafening roar, retreating step by step against the tolling of the copper bells.
 
@@ -1959,29 +1899,29 @@ Copper bells chime, resonating through the tiled temple. The beast shudders unde
 
 Under the vast sky, the beast let out a painful wail.
 
-**Liang Yue's Mother:**Did you feel that?
+**Liang Yue's Mother:** Did you feel that?
 
-**Liang Yue's Mother:**It felt like an earthquake.
+**Liang Yue's Mother:** It felt like an earthquake.
 
 The rhythmic chopping slows to a stop.
 
 The elderly couple turns to look out the window.
 
-**Liang Yue's Father:**Listen closely. That sounded like a tiger's roar.
+**Liang Yue's Father:** Listen closely. That sounded like a tiger's roar.
 
-**Liang Yue's Mother:**The sound is so vivid. It's coming from the temple.
+**Liang Yue's Mother:** The sound is so vivid. It's coming from the temple.
 
 The two lock eyes, faces shifting into mutual realization.
 
 They have a bad feeling.
 
-**Liang Yue's Father:**We need to go.
+**Liang Yue's Father:** We need to go.
 
-**Liang Yue's Mother:**Huff … huff …
+**Liang Yue's Mother:** Huff … huff …
 
-**Liang Yue's Mother:**Yuè—?!
+**Liang Yue's Mother:** Yuè—?!
 
-**Liang Yue's Father:**Yuè? What are you doing here? Didn't you say your flight was delayed?
+**Liang Yue's Father:** Yuè? What are you doing here? Didn't you say your flight was delayed?
 
 The temple is tranquil now. Duckweed ripples gently in the cistern.
 
@@ -1991,15 +1931,15 @@ There standing in the moonlit courtyard is a girl.
 
 She turns to face them.
 
-**Liang Yue:**Father, Mother.
+**Liang Yue:** Father, Mother.
 
 **Liang Yue's Mother:** Why are you wearing ceremonial attire? What were you doing out here?
 
 The question is loaded with meaning. She never doubts her mother's intuition. But now isn't the time.
 
-**Liang Yue:**Oh! Nothing, I just came back early and thought I'd surprise you, so I didn't tell you.
+**Liang Yue:** Oh! Nothing, I just came back early and thought I'd surprise you, so I didn't tell you.
 
-**Liang Yue's Mother:**Surprise? Who surprises someone by coming to the temple and making a racket? That's ...
+**Liang Yue's Mother:** Surprise? Who surprises someone by coming to the temple and making a racket? That's ...
 
 She looks over to her husband, expecting a matching response.
 
@@ -2007,31 +1947,31 @@ He says nothing but gives his daughter a long and deep stare, filled with unspok
 
 Then, he reaches out for her.
 
-**Liang Yue's Father:**You look full of energy.
+**Liang Yue's Father:** You look full of energy.
 
-**Liang Yue:**That's because I'm your daughter.
+**Liang Yue:** That's because I'm your daughter.
 
 She gently takes her father's hand from her shoulder.
 
-**Liang Yue's Father:**Hahahaha!
+**Liang Yue's Father:** Hahahaha!
 
-**Liang Yue's Father:**Come on! Let's go home for dinner.
+**Liang Yue's Father:** Come on! Let's go home for dinner.
 
-**Liang Yue:**Wait a second, Father, Mother.
+**Liang Yue:** Wait a second, Father, Mother.
 
-**Liang Yue:**Can I invite a little friend to join us for dinner?
+**Liang Yue:** Can I invite a little friend to join us for dinner?
 
-**Liang Yue's Mother:**Of course! Why not?
+**Liang Yue's Mother:** Of course! Why not?
 
-**Liang Yue's Mother:**Who is it? A new friend you made in America? Or an old classmate from the academy?
+**Liang Yue's Mother:** Who is it? A new friend you made in America? Or an old classmate from the academy?
 
 Liáng Yuè shakes her head and takes out her phone, dialing a number.
 
 The beast appears before them.
 
-**Liang Yue:**Allow me to introduce you to my new colleague and friend.
+**Liang Yue:** Allow me to introduce you to my new colleague and friend.
 
-**Liang Yue:**Officer Qiángliáng.
+**Liang Yue:** Officer Qiángliáng.
 
 **Text Message:** "."
 
@@ -2055,19 +1995,19 @@ The beast hears her and shakes itself, lifting its chin to give Liáng Yuè a si
 
 Then, almost imperceptibly, it nods.
 
-**Liang Yue's Mother:**Qiángliáng wasn't really lost, was it?
+**Liang Yue's Mother:** Qiángliáng wasn't really lost, was it?
 
-**Liang Yue's Mother:**But ...
+**Liang Yue's Mother:** But ...
 
 Liáng Yuè wonders how to explain, but her mother's concern is cut short.
 
-**Liang Yue's Father:**Well, losing it wouldn't have been a bad thing, and keeping it isn't something to take for granted either.
+**Liang Yue's Father:** Well, losing it wouldn't have been a bad thing, and keeping it isn't something to take for granted either.
 
 His gaze lingers on his daughter for a moment longer, studying her with doubt until he looks away.
 
 He exhales deeply, releasing a breath that had been stuck in his chest.
 
-**Liang Yue's Father:**We're just glad you're alright.
+**Liang Yue's Father:** We're just glad you're alright.
 
 The coarse hand that had almost settled on her shoulder hesitates and falls to his side.
 
@@ -2077,13 +2017,13 @@ The stone steps silently crack open.
 
 The fissure runs upward along the pillars, past several beams, reaching the temple's roof ridge, where two Chīwěn statues perched.
 
-**Liang Yue:**—!
+**Liang Yue:** —!
 
 She swivels back to look back at the temple.
 
 In the cool night, it seems almost like a mirage, majestic and serene.
 
-**Liang Yue's Father:**What's wrong, Yuè?
+**Liang Yue's Father:** What's wrong, Yuè?
 
 Her father follows her eyes backward.
 
@@ -2091,41 +2031,27 @@ From behind the temple, a flock of white cranes takes flight.
 
 Their snow-white wings stretched wide under the boundless sky before folding back again, soft feathers gently floating down from above.
 
-**Liang Yue's Father:**What are you looking at?
+**Liang Yue's Father:** What are you looking at?
 
 It's a fleeting moment lost in a trance.
 
-**Liang Yue:**Nothing.
+**Liang Yue:** Nothing.
 
 She watches the flock of white cranes and smiles before stepping across the temple's threshold.
 
-Part 8Waking of Insects
+Part 8 Waking of Insects
 
-Part 8Waking of Insects
+Liang Yue as Herself
 
-Liang Yueas Herself
+Qiangliang as Itself
 
-Liang Yueas Herself
+Poitier as Herself
 
-Qiangliangas Itself
+Elden as Himself
 
-Qiangliangas Itself
+Liang's Father as Himself
 
-Poitieras Herself
-
-Poitieras Herself
-
-Eldenas Himself
-
-Eldenas Himself
-
-Liang's Fatheras Himself
-
-Liang's Fatheras Himself
-
-Thank YouFor Watching
-
-Thank YouFor Watching
+Thank You For Watching
 <!-- reader-body:end -->
 
 

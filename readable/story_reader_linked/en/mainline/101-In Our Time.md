@@ -424,83 +424,83 @@ The water rises.
 
 The Opportunist and the Sticky Gum
 
-???:Now those little brats are knocked out. You noticed that old gum sticking to the bottom of their shoes, like crushed leeches.
+???: Now those little brats are knocked out. You noticed that old gum sticking to the bottom of their shoes, like crushed leeches.
 
 > **Choice 1：** What color is the gum?
 
-???:Having been chewed for long, it took on the light amber color that the carbohydrate gum should have. Some folds were cyan. It's most likely mint-flavored.
+???: Having been chewed for long, it took on the light amber color that the carbohydrate gum should have. Some folds were cyan. It's most likely mint-flavored.
 
-???:The sales champion of mint gum is the bubble gum machine near Wrigley Field. When a crazy game ends, there's always someone who needs something to chew in the mouth in order to take out the anger over the defeat.
+???: The sales champion of mint gum is the bubble gum machine near Wrigley Field. When a crazy game ends, there's always someone who needs something to chew in the mouth in order to take out the anger over the defeat.
 
-???:But ... Hey. Haven't you noticed yet? That wonderful mix of particles in the chewing gum base that's been squeezed into lumps?
+???: But ... Hey. Haven't you noticed yet? That wonderful mix of particles in the chewing gum base that's been squeezed into lumps?
 
-???:The off-white sand. The synthetic waxed elastic fiber. In the South Bank, there is only one place where such a politically symbolic floor is laid—St. Pavlov Foundation.
+???: The off-white sand. The synthetic waxed elastic fiber. In the South Bank, there is only one place where such a politically symbolic floor is laid—St. Pavlov Foundation.
 
 > **Choice 2：** What happened to the gum?
 
-???:Tragedy. A sympathetic encounter. It has fulfilled its mission cautiously and conscientiously. But clearly, no one cares.
+???: Tragedy. A sympathetic encounter. It has fulfilled its mission cautiously and conscientiously. But clearly, no one cares.
 
-???:I dare say it's the most popular mint gum now. When the Chicagoans lost their rights to get drunk, they could only turn to this nasty upstart stuff.
+???: I dare say it's the most popular mint gum now. When the Chicagoans lost their rights to get drunk, they could only turn to this nasty upstart stuff.
 
-???:The sales champion is the bubble gum machine near Wrigley Field. The old gum on the kids' soles also comes from there.
+???: The sales champion is the bubble gum machine near Wrigley Field. The old gum on the kids' soles also comes from there.
 
-???:Some gravel mixed into the squeezed gum base. The off-white sand. The synthetic waxed elastic fiber. In the South Bank, there is only one place where such a politically symbolic floor is laid—St. Pavlov Foundation.
+???: Some gravel mixed into the squeezed gum base. The off-white sand. The synthetic waxed elastic fiber. In the South Bank, there is only one place where such a politically symbolic floor is laid—St. Pavlov Foundation.
 
 > **Choice 3：** Gum? I don't care about gum!
 
-???:Who does? I'm very glad that we are on the same page on this.
+???: Who does? I'm very glad that we are on the same page on this.
 
-???:Describing an abandoned carbohydrate gum won't give anyone pleasure. So, let's skip to the next subject—Have you noticed the gravel mixed into the gum base?
+???: Describing an abandoned carbohydrate gum won't give anyone pleasure. So, let's skip to the next subject—Have you noticed the gravel mixed into the gum base?
 
-???:The off-white sand. The synthetic waxed elastic fiber. In the South Bank, there is only one place where such a politically symbolic floor is laid—St. Pavlov Foundation.
+???: The off-white sand. The synthetic waxed elastic fiber. In the South Bank, there is only one place where such a politically symbolic floor is laid—St. Pavlov Foundation.
 
-???:It's very lively here in the square, just like every day in the past. Speculators, who advocate mankind supremacy, are trying to get the attention of the Foundation through demonstrations.
+???: It's very lively here in the square, just like every day in the past. Speculators, who advocate mankind supremacy, are trying to get the attention of the Foundation through demonstrations.
 
-???:They are on the same side as the Foundation, but the Foundation has no intention to treat these protesters as allies and give them what they want. They even sent a little girl to go through the motions as a perfunctory response.
+???: They are on the same side as the Foundation, but the Foundation has no intention to treat these protesters as allies and give them what they want. They even sent a little girl to go through the motions as a perfunctory response.
 
 > **Choice 1：** They sent little girls? Explain.
 
-???:Yes. Yes. No one will ever ignore them. They are honey-colored. They are the morning sun in California. They are the dazzling spot on the doe that you'll never catch.
+???: Yes. Yes. No one will ever ignore them. They are honey-colored. They are the morning sun in California. They are the dazzling spot on the doe that you'll never catch.
 
-???:For those hypocritical politicians, the little girls are the delicacies that they would drool over. Luckily, this little girl is not one of their prey.
+???: For those hypocritical politicians, the little girls are the delicacies that they would drool over. Luckily, this little girl is not one of their prey.
 
-???:She is nervous but not panicked. She doesn't seem to be good at dealing with these slick "politicians." The mission capsule of the Foundation grew hot in her tightly clutched fist.
+???: She is nervous but not panicked. She doesn't seem to be good at dealing with these slick "politicians." The mission capsule of the Foundation grew hot in her tightly clutched fist.
 
-???:And on the other side of the square, another little girl in a black suit is looking over here gloomily. She stood by the Foundation's air outlet, the best place for her.
+???: And on the other side of the square, another little girl in a black suit is looking over here gloomily. She stood by the Foundation's air outlet, the best place for her.
 
-???:The position that is too marginal to be further marginalized. That's the best portrayal of the second-generation immigrants in the 20th century.
+???: The position that is too marginal to be further marginalized. That's the best portrayal of the second-generation immigrants in the 20th century.
 
 > **Choice 1：** Tell me about that Foundation girl.
 
-???:She is the good girl you already know. Orange hair. When she's deep in thought, she turns her pen like a nimble ball in a magician's hand.
+???: She is the good girl you already know. Orange hair. When she's deep in thought, she turns her pen like a nimble ball in a magician's hand.
 
-???:She is puzzled at the guys shouting around her. But there's light in her eyes, as if she's expecting something nice.
+???: She is puzzled at the guys shouting around her. But there's light in her eyes, as if she's expecting something nice.
 
-???:Is it because of the next task packed in the mission capsule? Or the people she is going to meet?
+???: Is it because of the next task packed in the mission capsule? Or the people she is going to meet?
 
-???:Her cheeks are a little rosy now. The thing in her hands was loosened too.
+???: Her cheeks are a little rosy now. The thing in her hands was loosened too.
 
 > **Choice 2：** Who's the girl in a black suit?
 
-???:She's someone you will know in the future.
+???: She's someone you will know in the future.
 
-???:Now she shudders and shivers, like a cricket desperate for shelter. She's looking for an eave or a piece of rubble in the "Storm."
+???: Now she shudders and shivers, like a cricket desperate for shelter. She's looking for an eave or a piece of rubble in the "Storm."
 
-???:Her figure might be frail, but her eyes are filled with cold anger. Maybe she had been rejected just now, or even insulted. She walked up to the square center with firm step, like a warrior.
+???: Her figure might be frail, but her eyes are filled with cold anger. Maybe she had been rejected just now, or even insulted. She walked up to the square center with firm step, like a warrior.
 
-???:She had to perform another task she didn't like.
+???: She had to perform another task she didn't like.
 
-???:At this moment, the capsule in the hand of the ad hoc representative of the Foundation dropped under the push of the crowd.
+???: At this moment, the capsule in the hand of the ad hoc representative of the Foundation dropped under the push of the crowd.
 
-???:—This is a good chance.
+???: —This is a good chance.
 
-???:She feels a hot wind from Africa blow towards Trapani. Then, the whole of Sicily becomes dry, warm, and comes alive. The air smells like tropical corals and wild oranges.
+???: She feels a hot wind from Africa blow towards Trapani. Then, the whole of Sicily becomes dry, warm, and comes alive. The air smells like tropical corals and wild oranges.
 
-???:That wind is never supposed to be part of this cold winter. But the warm vibe lingering and dancing in her mind reminds her to live on.
+???: That wind is never supposed to be part of this cold winter. But the warm vibe lingering and dancing in her mind reminds her to live on.
 
-???:She used to be desperate.
+???: She used to be desperate.
 
-???:Though all she has been through was failure after failure, her vigorous vitality won't fade away, at least not now.
+???: Though all she has been through was failure after failure, her vigorous vitality won't fade away, at least not now.
 
 
 ---
@@ -1342,7 +1342,7 @@ Pap, pap, pap.
 
 An advertisement from the ads page of Wall Street Journal.
 
-Come to C.C Critter Pawnshop to make extra money!TEL: 847-6861XXX Are the cunning, ubiquitous critters annoying you again? Don't take that as bad news, because if you have a critter, you just found yourself enough money to pay your rent! We offer the best, the most precise, and the most honest pricing options you'll ever find! Our shop will buy any critters from the cheapest Carbuncles to the expensive yet delicious Rubberados that keep diners bouncing about! C.C swears on its name that every critter we buy will be treated like a family in compliance with internationally recognized standards of humane treatment!
+Come to C.C Critter Pawnshop to make extra money! TEL: 847-6861XXX Are the cunning, ubiquitous critters annoying you again? Don't take that as bad news, because if you have a critter, you just found yourself enough money to pay your rent! We offer the best, the most precise, and the most honest pricing options you'll ever find! Our shop will buy any critters from the cheapest Carbuncles to the expensive yet delicious Rubberados that keep diners bouncing about! C.C swears on its name that every critter we buy will be treated like a family in compliance with internationally recognized standards of humane treatment!
 
 - Description：Critters are everywhere. Though they are annoying and hard to catch, specialized pawnshops offer to buy them at a decent price. Critters are divided into the following varieties. Which one did you run into?
 - Action：Take a look
@@ -1632,97 +1632,97 @@ Pap.
 
 Intermission
 
-???:What are you doing? Why did you pick up that cold, opaque, opalescent glass wine bottle from the ground—at this most critical moment?
+???: What are you doing? Why did you pick up that cold, opaque, opalescent glass wine bottle from the ground—at this most critical moment?
 
-???:The scream outside the parking lot, the friction between the brake pads and the wheel drums, or the story unfolding like Giallo films. Obviously, none of them are as impressive as this bottle.
+???: The scream outside the parking lot, the friction between the brake pads and the wheel drums, or the story unfolding like Giallo films. Obviously, none of them are as impressive as this bottle.
 
-???:I can tell that you got good taste. You know it's not easy to get this stuff these days.
+???: I can tell that you got good taste. You know it's not easy to get this stuff these days.
 
-???:But, why are you staring at the bottom and licking your lips? Tell me, you are not going to take a sip, are you?
+???: But, why are you staring at the bottom and licking your lips? Tell me, you are not going to take a sip, are you?
 
-???:This is not a wise choice. You can't see the color of the liquid inside the glass. Maybe it's not the ice wine, or beer, or any homemade alcohol.
+???: This is not a wise choice. You can't see the color of the liquid inside the glass. Maybe it's not the ice wine, or beer, or any homemade alcohol.
 
-???:It's probably—very likely—just a critter's snot. Even so, do you still wanna give it a try?
+???: It's probably—very likely—just a critter's snot. Even so, do you still wanna give it a try?
 
 > **Choice 1：** You bet I will.
 
-???:Every Carbuncle you've ever met will appreciate your courage.
+???: Every Carbuncle you've ever met will appreciate your courage.
 
-???:Now, some cold liquid runs through your throat. It trickles slowly, most likely because it's thick. But the taste is much smoother than you think.
+???: Now, some cold liquid runs through your throat. It trickles slowly, most likely because it's thick. But the taste is much smoother than you think.
 
-???:Then, a faint scent of absinthe greeted your nostril, and maltose, and lemon thyme, and coconut sugar. It's as delicious as a present from the arcanist from New Zealand.
+???: Then, a faint scent of absinthe greeted your nostril, and maltose, and lemon thyme, and coconut sugar. It's as delicious as a present from the arcanist from New Zealand.
 
-???:And at the same time, your heart swells, and you feel a scorching energy fill your windpipe.
+???: And at the same time, your heart swells, and you feel a scorching energy fill your windpipe.
 
-???:Your vision begins to blur. You kinda see the rough letter on the bottom: The Walden Potion Bar.
+???: Your vision begins to blur. You kinda see the rough letter on the bottom: The Walden Potion Bar.
 
 > **Choice 1：** What the hell is this?
 
-???:It's anything but alcohol! "Alcohol" is a taboo. But it will empower you to face the next damn reality.
+???: It's anything but alcohol! "Alcohol" is a taboo. But it will empower you to face the next damn reality.
 
 > **Choice 1：** Who are you?
 
-???:Me? Ha, I am no one.
+???: Me? Ha, I am no one.
 
-???:But I can also be anyone—a drunken, slovenly old man, a cleaner in a run-down hotel, a fund manager greedy for more, or a cute spinning crystal skull.
+???: But I can also be anyone—a drunken, slovenly old man, a cleaner in a run-down hotel, a fund manager greedy for more, or a cute spinning crystal skull.
 
-???:Now I'm a drunkard with good taste, just like you.
+???: Now I'm a drunkard with good taste, just like you.
 
-???:And the day when we formally meet each other is coming soon.
+???: And the day when we formally meet each other is coming soon.
 
-???:Now, lift your big ass and continue your wonderful journey. I will appear at any time, any moment, no matter you expect or not.
+???: Now, lift your big ass and continue your wonderful journey. I will appear at any time, any moment, no matter you expect or not.
 
 > **Choice 2：** I really shouldn't have picked it up.
 
-???:Right. It only took one moment for you to decide to click, while you had to stand so much nonsense for no reason.
+???: Right. It only took one moment for you to decide to click, while you had to stand so much nonsense for no reason.
 
-???:My apologies if the story didn't unfold as you expected. But luckily, you still have your sanity that you are always proud of.
+???: My apologies if the story didn't unfold as you expected. But luckily, you still have your sanity that you are always proud of.
 
-???:Come here. Let's put down the bottle. Before Sonetto and that floating APPLe notice your unusual behavior, you still have a chance to restore your image.
+???: Come here. Let's put down the bottle. Before Sonetto and that floating APPLe notice your unusual behavior, you still have a chance to restore your image.
 
-???:After me, say "hi" to them. Pretend you've never been tempted by the bottle.
+???: After me, say "hi" to them. Pretend you've never been tempted by the bottle.
 
 > **Choice 1：** Hi.
 
-???:Oh. Hi! How are you doing?
+???: Oh. Hi! How are you doing?
 
-???:Hahahahaha. Excellent. Now we all know how effective the training of the Foundation is. Good news: everyone likes good kids.
+???: Hahahahaha. Excellent. Now we all know how effective the training of the Foundation is. Good news: everyone likes good kids.
 
-???:It's so nice talking to you. You're better than your ... Oops, I should stop here.
+???: It's so nice talking to you. You're better than your ... Oops, I should stop here.
 
 > **Choice 1：** Who the hell are you?
 
-???:Me? Ha, I am no one.
+???: Me? Ha, I am no one.
 
-???:But I can also be anyone—a drunken, slovenly old man, a cleaner in a run-down hotel, a fund manager greedy for more, or a cute spinning crystal skull.
+???: But I can also be anyone—a drunken, slovenly old man, a cleaner in a run-down hotel, a fund manager greedy for more, or a cute spinning crystal skull.
 
-???:Now I am a nice and friendly adventurer, just like you.
+???: Now I am a nice and friendly adventurer, just like you.
 
-???:Don't worry. The day when we formally meet each other is coming soon.
+???: Don't worry. The day when we formally meet each other is coming soon.
 
-???:Now, lift your big ass and continue your wonderful journey. I will appear at any time, any moment, no matter you expect or not.
+???: Now, lift your big ass and continue your wonderful journey. I will appear at any time, any moment, no matter you expect or not.
 
 > **Choice 2：** Are you sure they can hear it?
 
-???:...
+???: ...
 
-???:I really wanna find out what you're composed of! I'll chew and swallow all the gene analysis down to my stomach, so I can figure out ... how did you keep your sanity!
+???: I really wanna find out what you're composed of! I'll chew and swallow all the gene analysis down to my stomach, so I can figure out ... how did you keep your sanity!
 
-???:No arcanist is ever as rational and restrained as you. They should, they should ... If there is really one in the world, that should be ...
+???: No arcanist is ever as rational and restrained as you. They should, they should ... If there is really one in the world, that should be ...
 
-???:And I know so much about you. Too much about you! Even I cannot deny what you are. I can't!
+???: And I know so much about you. Too much about you! Even I cannot deny what you are. I can't!
 
 > **Choice 1：** Who the hell are you?
 
-???:Me? Ha, I am no one.
+???: Me? Ha, I am no one.
 
-???:But I can also be anyone—a drunken, slovenly old man, a cleaner in a run-down hotel, a fund manager greedy for more, or a cute spinning crystal skull.
+???: But I can also be anyone—a drunken, slovenly old man, a cleaner in a run-down hotel, a fund manager greedy for more, or a cute spinning crystal skull.
 
-???:But now I'm only a rubber asshole whose mischief just failed. A desperate loser. My wrath can't even burn a weed in the Pacific Ocean.
+???: But now I'm only a rubber asshole whose mischief just failed. A desperate loser. My wrath can't even burn a weed in the Pacific Ocean.
 
-???:I'm looking forward to the day we formally meet each other. Only then …
+???: I'm looking forward to the day we formally meet each other. Only then …
 
-???:Now, lift your big ass and continue your wonderful journey. I will appear at any time, any moment, no matter you expect or not!
+???: Now, lift your big ass and continue your wonderful journey. I will appear at any time, any moment, no matter you expect or not!
 
 
 ---
@@ -1974,7 +1974,7 @@ You have mastered the use of established laws.
 
 On Bankrupt Companies and Newly Registered Companies: February
 
-**Public Notice** (1929) IL 17-14000BD59-3 Great Lakes Media Company, located in Roosevelt Road, the parent company of the Moon Post of Arcanum, does not possess any distributable assets. The debtors Theodore Jackson (Human), Emilio Robert Henger (Human), and manager Steven Sheridan (Human) have applied for the termination of the bankruptcy proceedings following negotiations. The Moon Post of Arcanum specializes in reporting news of the arcanist world with a circulation of over 500,000 copies. Renowned articles include Conspiracy: Human Organ Trade and the Witch's Curse. Its parent company Great Lakes Media Company was forced to stop its publication in September 1928 due to anonymous reports to relevant authorities and the emergence of radio stations. Pursuant to the provisions of The Nelson Act, this Court has reached the verdict of terminating the bankruptcy proceedings of the Great Lakes Media Company in February 14, 1929. Declared on February 24, 1929 **Public Notice** ·List of Newly Registered Companies· Name: Feldwood Communications Company Legal Representative: David Clauberg (Human) Scope of business: Media publishing - Arcanum Global Weekly Date of establishment: February 3, 1929 Name: Karl Entertainment Publishing Company Legal representative: Vince Dayne (Human) Scope of business: Media publishing - American Wizard Entertainments Date of establishment: February 3, 1929 Name: Coast United Publishing Company Legal representative: Hugh Midax (Human) Scope of business: Media publishing - Evening News Date of establishment: February 5, 1929 …… Declared on February 14, 1929
+**Public Notice** (1929) IL 17-14000 BD59-3 Great Lakes Media Company, located in Roosevelt Road, the parent company of the Moon Post of Arcanum, does not possess any distributable assets. The debtors Theodore Jackson (Human), Emilio Robert Henger (Human), and manager Steven Sheridan (Human) have applied for the termination of the bankruptcy proceedings following negotiations. The Moon Post of Arcanum specializes in reporting news of the arcanist world with a circulation of over 500,000 copies. Renowned articles include Conspiracy: Human Organ Trade and the Witch's Curse. Its parent company Great Lakes Media Company was forced to stop its publication in September 1928 due to anonymous reports to relevant authorities and the emergence of radio stations. Pursuant to the provisions of The Nelson Act, this Court has reached the verdict of terminating the bankruptcy proceedings of the Great Lakes Media Company in February 14, 1929. Declared on February 24, 1929 **Public Notice** ·List of Newly Registered Companies· Name: Feldwood Communications Company Legal Representative: David Clauberg (Human) Scope of business: Media publishing - Arcanum Global Weekly Date of establishment: February 3, 1929 Name: Karl Entertainment Publishing Company Legal representative: Vince Dayne (Human) Scope of business: Media publishing - American Wizard Entertainments Date of establishment: February 3, 1929 Name: Coast United Publishing Company Legal representative: Hugh Midax (Human) Scope of business: Media publishing - Evening News Date of establishment: February 5, 1929 …… Declared on February 14, 1929
 
 - Description：A wrinkled public notice marked with the latest "news."
 - Action：Read
@@ -2754,49 +2754,49 @@ St.Pavlov Foundation
 
 From One Castle To Another
 
-???:Mrs. Greco puts down the phone. She is now as calm as any Italian mother you've ever met. You know, they're usually making a yummy pie before they pull out their guns.
+???: Mrs. Greco puts down the phone. She is now as calm as any Italian mother you've ever met. You know, they're usually making a yummy pie before they pull out their guns.
 
-???:There are enough people in black outside, enough to prevent any eavesdropping or violent conflict.
+???: There are enough people in black outside, enough to prevent any eavesdropping or violent conflict.
 
-???:Mrs. Greco glanced blandly over the one, two, three, four ... nine, ten, eleven children in front of her. This is a big family, and it has grown bigger and bigger over the past few years because of Schneider.
+???: Mrs. Greco glanced blandly over the one, two, three, four ... nine, ten, eleven children in front of her. This is a big family, and it has grown bigger and bigger over the past few years because of Schneider.
 
 > **Choice 1：** Who are they?
 
-???:They're Schneider's sisters. It's hard for the Grecos to tell them apart. But Schneider is different.
+???: They're Schneider's sisters. It's hard for the Grecos to tell them apart. But Schneider is different.
 
-???:But Schneider is different. She was born in an earthquake, all covered in blood, and didn't let out her first cry until two hours later. It wasn't until she was one year old that her father noticed that she had never been baptized.
+???: But Schneider is different. She was born in an earthquake, all covered in blood, and didn't let out her first cry until two hours later. It wasn't until she was one year old that her father noticed that she had never been baptized.
 
 > **Choice 2：** Who is Mrs. Greco?
 
-???:She's Schneider's biological mother. You see her furrowed face, like a hard stone wall, while inside the wall is all about a pious farmer's life.
+???: She's Schneider's biological mother. You see her furrowed face, like a hard stone wall, while inside the wall is all about a pious farmer's life.
 
-???:The Grecos are not good at dealing with gang affairs. They can't even figure out when their daughter has grown—grown into the backbone of the whole family.
+???: The Grecos are not good at dealing with gang affairs. They can't even figure out when their daughter has grown—grown into the backbone of the whole family.
 
-???:When Schneider took out 500 dollars from her pocket and put them on the table, they were completely shocked, and that's just the beginning.
+???: When Schneider took out 500 dollars from her pocket and put them on the table, they were completely shocked, and that's just the beginning.
 
-???:Schneider ... Schneider, the youngest daughter they seldom cared about. It's impossible to keep every child well-fed. Schneider could not even get a piece of bread in the Eucharist.
+???: Schneider ... Schneider, the youngest daughter they seldom cared about. It's impossible to keep every child well-fed. Schneider could not even get a piece of bread in the Eucharist.
 
-???:But a good daughter would not let anyone worry about her. She sat on the bench outside the church and hummed. She found a way out for herself. She walked to the underground market, fascinated by what she saw …
+???: But a good daughter would not let anyone worry about her. She sat on the bench outside the church and hummed. She found a way out for herself. She walked to the underground market, fascinated by what she saw …
 
-???:She announced her "new identity" one day.
+???: She announced her "new identity" one day.
 
 > **Choice 1：** What "new identity"?
 
-???:The identity you know now.
+???: The identity you know now.
 
-???:In the process, she lost something old but gained something new, no matter if she wished for it or not.
+???: In the process, she lost something old but gained something new, no matter if she wished for it or not.
 
 > **Choice 2：** What bread?
 
-???:The bread provided in some sacred religious ceremonies. According to different teachings, it's sometimes flatbread, sometimes fermented bread, or sometimes any kind of bread.
+???: The bread provided in some sacred religious ceremonies. According to different teachings, it's sometimes flatbread, sometimes fermented bread, or sometimes any kind of bread.
 
-???:"Now," Mrs. Greco said, "we live, or we die. If Schneider comes back safely tonight ... we will leave when the moon rises."
+???: "Now," Mrs. Greco said, "we live, or we die. If Schneider comes back safely tonight ... we will leave when the moon rises."
 
-???:"The doors are closing in front of us, one after another. But the benevolent Maria will give us the ultimate shelter. My children, remember today forever."
+???: "The doors are closing in front of us, one after another. But the benevolent Maria will give us the ultimate shelter. My children, remember today forever."
 
-???:Her words speak for her status. But Mrs. Greco's eyes never moved away from that small Madonna on the table. The hem of her clothes were soaked in tears.
+???: Her words speak for her status. But Mrs. Greco's eyes never moved away from that small Madonna on the table. The hem of her clothes were soaked in tears.
 
-???:4 p.m. A family is determined to start a new journey.
+???: 4 p.m. A family is determined to start a new journey.
 
 ### Trail · Trail ② Critter's Sheet
 
@@ -3092,7 +3092,7 @@ COMBAT:
 
 SF School of Primary Defense of Mankind
 
-Chapter 1 Transfer Student of SF School of Primary Defense of Mankind Chapter 2 The Tall and Mature Ms. Bouanich Chapter 3 Ms. Bouanich and Assistant Ms. Sonetto Chapter 4 Secrets of the Campus Citadel Chapter 5 Ms. BouanichandHerAssistantSonetto'sHappyVacation ... Chapter 17 Farewell after Graduation Chapter 18 Monitor Assistant?! Chapter 19 Special Field Task
+Chapter 1 Transfer Student of SF School of Primary Defense of Mankind Chapter 2 The Tall and Mature Ms. Bouanich Chapter 3 Ms. Bouanich and Assistant Ms. Sonetto Chapter 4 Secrets of the Campus Citadel Chapter 5 Ms. Bouanich and Her Assistant Sonetto's Happy Vacation ... Chapter 17 Farewell after Graduation Chapter 18 Monitor Assistant?! Chapter 19 Special Field Task
 
 - Description：This sheet is a school report and the signature block says "Matilda Bouanich." The score has been blackened on purpose, and you can only see a jotting: "The number of points I need to reach full marks is exactly the number implied by h-h-her name. Why? Why?!"<br>So what is Matilda Bouanich's score?
 
@@ -3105,24 +3105,6 @@ Chapter 1 Transfer Student of SF School of Primary Defense of Mankind Chapter 2 
 > Under the spotlight, freshly spilled blood is the best appetizer and agent for starting a fire.
 
 <!-- reader-body:start -->
-I'm surrounded by distances like a flag,
-
-sense the winds that are coming, I stand and must flutter,
-
-yet things below are not stirred:
-
-Stocks celebrate, and the prices emulate
-
-on a Thursday afternoon, when the sun shines as before.
-
-Gold forms the line, reaching a lasting high plateau.
-
-I know the storms and am excited like the sea.
-
-And I spread out and fall into myself
-
-and throw myself, all alone into the great storm.
-
 I'm surrounded by distances like a flag,
 
 sense the winds that are coming, I stand and must flutter,

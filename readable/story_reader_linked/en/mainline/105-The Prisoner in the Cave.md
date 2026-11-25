@@ -131,19 +131,19 @@ Without hesitation, Regulus pounces on Ms. Radio immediately.
 
 **???:** Please do not shake me \*@#...
 
-**???:**If ... If I broadcast How to Clean Kitchen Appliances for you now, will it brighten up your mood?
+**???:** If ... If I broadcast How to Clean Kitchen Appliances for you now, will it brighten up your mood?
 
-**Regulus:**Like hell, it will! Can't you see? My ship is going down! Along with my record collection and your battery cover! To the bottom of the sea! For good!
+**Regulus:** Like hell, it will! Can't you see? My ship is going down! Along with my record collection and your battery cover! To the bottom of the sea! For good!
 
-**Regulus:**Even John Lennon can't do anything about it now!
+**Regulus:** Even John Lennon can't do anything about it now!
 
 **???:** I'm terribly sorry. I can't see. I could only touch, hear, and imagine ...
 
 **???:** How about this program, Lesson 101: The Express Route to Heaven One Shouldn't Miss? I think it would serve you better.
 
-**Regulus:**Aaarrh! I can't stand this anymore!
+**Regulus:** Aaarrh! I can't stand this anymore!
 
-**Regulus:**My records, my Dr. Pappers, my pirate radio, my Rockin' APPLe Ⅱ!
+**Regulus:** My records, my Dr. Pappers, my pirate radio, my Rockin' APPLe Ⅱ!
 
 **Regulus:** For crying out loud, what have I done to deserve this!
 
@@ -305,7 +305,7 @@ A soothing song comes on the radio.
 
 Deck Decoration Group
 
-Just One Song Rock Around the Ship Please Please Sotheby ------------ Deck Cleaning and Maintenance  Tuesday!  Friday!!  Sunday ------------ **Crew Strength Ranking** First Place  Breaker of Bonds, Guardian of the Forest Plaza Landscaper, Leader of the Rebellion  —— The Elegant Lady Oak Salute to you, friend! Second Place  Communications Saboteur, Nightmare Crusher, Security Guard Nemesis  —— Cruising Witch The coolest guy who brings us roasted pork knuckles. The absolute coolest. Third Place  Rebel Spokesperson, Mighty War Proclaimer  —— Great Navigator with Excellent Musical Taste  Of course, also a Pacifist.
+Just One Song Rock Around the Ship Please Please Sotheby ------------ Deck Cleaning and Maintenance  Tuesday!   Friday!!  Sunday ------------ **Crew Strength Ranking** First Place  Breaker of Bonds, Guardian of the Forest Plaza Landscaper, Leader of the Rebellion  —— The Elegant Lady Oak Salute to you, friend! Second Place  Communications Saboteur, Nightmare Crusher, Security Guard Nemesis  —— Cruising Witch The coolest guy who brings us roasted pork knuckles. The absolute coolest. Third Place  Rebel Spokesperson, Mighty War Proclaimer  —— Great Navigator with Excellent Musical Taste  Of course, also a Pacifist.
 
 - Description：A decorative cluster that was carefully grown under the captain's care, now wilted on the ground due to the storm.
 - Action：Pick up
@@ -493,7 +493,7 @@ Regulus walks into the depths of the river valley.
 
 Regulus halts and hesitates. Slowly, she turns her head.
 
-**Regulus:**Whaaa! Ambush! Ambush! These prats nearly shot my hat off!
+**Regulus:** Whaaa! Ambush! Ambush! These prats nearly shot my hat off!
 
 **Lilya:** Lucky you. They hit the jackpot right away.
 
@@ -802,7 +802,7 @@ Not far away from them, Ms. Moissan is still talking to the investigators and ha
 
 **Vertin:** Regulus, wait, don't …
 
-**Regulus:**No one can stop a pirate from opening her fresh trophy!
+**Regulus:** No one can stop a pirate from opening her fresh trophy!
 
 Regulus immediately opens the box.
 
@@ -816,7 +816,7 @@ Then, she hears a bizarre static noise.
 
 **???:** The outcasts held the 11,231st pep rally in the Mammoth Cave, Kentucky. They eventually unanimously passed the principle of "dozing in spring, relaxing in summer, slacking off in autumn, and hibernating in winter."
 
-**???:**Practical Modern Incantations has now been reissued for the 77th time. We are now at the end of the 20th century. This book still remains the number one book on the list of "Most Regretful Purchase on Classic Score" by The New Yorker.
+**???:** Practical Modern Incantations has now been reissued for the 77th time. We are now at the end of the 20th century. This book still remains the number one book on the list of "Most Regretful Purchase on Classic Score" by The New Yorker.
 
 **???:** Biographer Urd has recently published her latest travel notes, Roaming in Apeiron, which has started a new round of craze for traveling in the Aegean Sea region.
 
@@ -848,7 +848,7 @@ She puts away her usual smile, the glowing light of a spell gathering at her fin
 
 In front of her, the fog parts, revealing two familiar figures.
 
-**The Manus Believer:****BLEEHHAA!!**
+**The Manus Believer:** **BLEEHHAA!!**
 
 **Ms. Moissan:** In such pouring rain, time is the best proof of identity.
 
@@ -1072,7 +1072,7 @@ Unlike the long-abandoned Laplace instruments, it is not yet soaked by the rain 
 
 Ms. Moissan's Personal Notebook
 
-**October 9, 19██** Ms. Sotheby seems to have lost some weight. The Foundation's diet is perhaps a bit monotonous ... Nuts & Cheese Crisp / Raspberry Protein Crisp Pudding260g light cream, 45g sugar, 100g milk, 150g raspberry jam,3 eggs, 1 vanilla pod, 15g gelatin sheets**October 16, 19██** Mission: Germany Branch ▪  Arcane Materials Catalog  ▪  Inventory of Remaining Arcane Goods  ▪  Inventory of Remaining Arcane Equipment  ▪  List of Senior Technical Personnels Contact: Ms. Mary SmithNew Identity: Nola Ward**November 5, 19██** Arrived at the branch. Is the number wrong? There were some problems getting on board. Ms. Smith is missing, and my name is not in their HQ contact book. The letter of introduction allayed some of their suspicions, but I still need to wait for the contact to confirm my identity with HQ. **\[A letter clipped to the log book\]** Ms. Moissan, The list and reports have been received; thank you for your efforts. The number of missing persons is fifteen percent higher than we expected. I will report this and might need your assistance in investigating this matter with HQ. I noticed Martin Moore is not on the list sent back this time. He is a top talent in the Germany Branch's drug research project, and I'm afraid we will need you to travel to Bavaria to find out the situation. Z From Foundation HQ **November 14, 19██** The German Branch can no longer provide aerial vehicles. **November 19, 19██** Ceramic workshop. I was probably only a few years old when I moved away ... but I still remember this spruce tree. They didn't recognize me.
+**October 9, 19██** Ms. Sotheby seems to have lost some weight. The Foundation's diet is perhaps a bit monotonous ...  Nuts & Cheese Crisp / Raspberry Protein Crisp Pudding 260g light cream, 45g sugar, 100g milk, 150g raspberry jam, 3 eggs, 1 vanilla pod, 15g gelatin sheets **October 16, 19██** Mission: Germany Branch ▪  Arcane Materials Catalog  ▪  Inventory of Remaining Arcane Goods  ▪  Inventory of Remaining Arcane Equipment  ▪  List of Senior Technical Personnels  Contact: Ms. Mary Smith New Identity: Nola Ward **November 5, 19██** Arrived at the branch. Is the number wrong? There were some problems getting on board. Ms. Smith is missing, and my name is not in their HQ contact book. The letter of introduction allayed some of their suspicions, but I still need to wait for the contact to confirm my identity with HQ. **\[A letter clipped to the log book\]** Ms. Moissan, The list and reports have been received; thank you for your efforts. The number of missing persons is fifteen percent higher than we expected. I will report this and might need your assistance in investigating this matter with HQ. I noticed Martin Moore is not on the list sent back this time. He is a top talent in the Germany Branch's drug research project, and I'm afraid we will need you to travel to Bavaria to find out the situation. Z From Foundation HQ **November 14, 19██** The German Branch can no longer provide aerial vehicles. **November 19, 19██** Ceramic workshop. I was probably only a few years old when I moved away ... but I still remember this spruce tree. They didn't recognize me.
 
 - Description：A notebook with elegant handwriting, accidentally left behind by someone.
 - Action：Pick it up
@@ -1494,7 +1494,7 @@ The red 38 rocket takes off and speeds across the sky like a shooting star.
 
 Analysis Report on the "Storm" Sample
 
-**Sample Name**: "Storm" Raindrop **Analyzed by**: Laplace Scientific Computing Center **Sampling Date**: \[Obscured by liquid stain\]/27 They asked a 12-year-old to collect samples?**Sample Quantity**: 5 ml **Objective**: Composition of "Storm" Raindrop **Analysis Results**: The sample contains water, sulfur dioxide, nitrogen dioxide, suspended solids (sediment particles, human hair, skin flakes, and dust), and unknown matter. Further observation of the unknown matter through arcane imaging shows that the substance presents a bifurcated structure with radial energy fluctuations, identified as an unstable unknown nuclide (temporarily named "Asymmetrical Nuclide R"). The substance disappeared 5 seconds after observation. In the image captured in the 4th second, the dispersion of surrounding energy was observed. No stable state of Asymmetrical Nuclide R was observed. A controlled experiment was conducted to explore the nature of Asymmetrical Nuclide R. Based on the results, it is believed that Asymmetrical Nuclide R is an important constituent in determining the characteristics of the "Storm." Further follow-up studies are recommended. **Appendix 1: Image of Asymmetrical Nuclide R** \[A black and white photograph taken during the experiment, in the center of which a white luminous "γ"-shaped substance can be distinguished.\] **Appendix 2: Experiment Recording #1** "For this direct contact experiment, 0.5 ml of raindrop was placed in contact with a laboratory mouse. Hair and skin tissue damage and deformation started from the contact site, with swelling observed around the wound. The wound spread outward ..." "Final depth of the wound ... about 3 mm, diameter ... about 11.5 mm." **Appendix 3: Experiment Recording #2** "For this direct contact experiment, 0.5 ml of remaining raindrop was placed in contact with a laboratory mouse after the disappearance of Asymmetrical Nuclide R." "No visible skin tissue damage, no wounds."
+**Sample Name**: "Storm" Raindrop **Analyzed by**: Laplace Scientific Computing Center **Sampling Date**: \[Obscured by liquid stain\]/27 They asked a 12-year-old to collect samples? **Sample Quantity**: 5 ml **Objective**: Composition of "Storm" Raindrop **Analysis Results**: The sample contains water, sulfur dioxide, nitrogen dioxide, suspended solids (sediment particles, human hair, skin flakes, and dust), and unknown matter. Further observation of the unknown matter through arcane imaging shows that the substance presents a bifurcated structure with radial energy fluctuations, identified as an unstable unknown nuclide (temporarily named "Asymmetrical Nuclide R"). The substance disappeared 5 seconds after observation. In the image captured in the 4th second, the dispersion of surrounding energy was observed. No stable state of Asymmetrical Nuclide R was observed. A controlled experiment was conducted to explore the nature of Asymmetrical Nuclide R. Based on the results, it is believed that Asymmetrical Nuclide R is an important constituent in determining the characteristics of the "Storm." Further follow-up studies are recommended. **Appendix 1: Image of Asymmetrical Nuclide R** \[A black and white photograph taken during the experiment, in the center of which a white luminous "γ"-shaped substance can be distinguished.\] **Appendix 2: Experiment Recording #1** "For this direct contact experiment, 0.5 ml of raindrop was placed in contact with a laboratory mouse. Hair and skin tissue damage and deformation started from the contact site, with swelling observed around the wound. The wound spread outward ..." "Final depth of the wound ... about 3 mm, diameter ... about 11.5 mm." **Appendix 3: Experiment Recording #2** "For this direct contact experiment, 0.5 ml of remaining raindrop was placed in contact with a laboratory mouse after the disappearance of Asymmetrical Nuclide R." "No visible skin tissue damage, no wounds."
 
 4|Four years|four years|4 year|4 years|Four Years|four-year|４
 
@@ -1509,7 +1509,7 @@ Analysis Report on the "Storm" Sample
 > Now let's set the watch back to the right time.
 
 <!-- reader-body:start -->
-**Sonetto:**Ed è subito sera!
+**Sonetto:** Ed è subito sera!
 
 A glow cuts through the air. The mainsail halyard breaks in a snap.
 
@@ -1926,7 +1926,7 @@ A scream comes from behind.
 
 **Regulus:** Huh, isn't that Vertin?!
 
-**Regulus:**Vertin! Are you done with the standing and staring?! Come give us a hand!
+**Regulus:** Vertin! Are you done with the standing and staring?! Come give us a hand!
 
 ***
 
@@ -1954,7 +1954,7 @@ COMBAT:
 
 A familiar voice calls from the distance.
 
-**Sonetto:**Timekeeper!
+**Sonetto:** Timekeeper!
 
 **Sonetto:** Thank goodness. You are all safe and sound!
 
@@ -2014,7 +2014,7 @@ The man puts out a finger, directly pointing at Regulus.
 
 **Regulus:** Wait, now hold on a second! I said hol- …
 
-**Regulus:**...!
+**Regulus:** ...!
 <!-- reader-body:end -->
 
 <details>
@@ -2220,77 +2220,77 @@ The man puts out a finger, directly pointing at Regulus.
 
 When and Where
 
-???:You still look confused … I know, darling, you haven't even vomited up the mouthfuls of sea water you ingested deep into your stomach. Just relax and lie where you are! You don't have to get back on your feet right away.
+???: You still look confused … I know, darling, you haven't even vomited up the mouthfuls of sea water you ingested deep into your stomach. Just relax and lie where you are! You don't have to get back on your feet right away.
 
-???:Usually, yes, usually, when those drunkards and patients wake up from a coma, just like you do right now, they only have two questions.
+???: Usually, yes, usually, when those drunkards and patients wake up from a coma, just like you do right now, they only have two questions.
 
-???:The first one will help you find out the name of the land you are lying on.
+???: The first one will help you find out the name of the land you are lying on.
 
-???:And the other will help you calibrate that bizarre watch on your wrist.
+???: And the other will help you calibrate that bizarre watch on your wrist.
 
-???:Alright, now it's finally the right time to make things clear. Open your mouth and throw up whatever you have, sea water, questions ... Just get them all out, right here.
+???: Alright, now it's finally the right time to make things clear. Open your mouth and throw up whatever you have, sea water, questions ... Just get them all out, right here.
 
 > **Choice 1：** Who on earth are you?
 
-???:Oh, darling, it's an honor to be your first question and the one haunting your mind.
+???: Oh, darling, it's an honor to be your first question and the one haunting your mind.
 
-???:But I'm going to let you down, I'm afraid. I don't have any breathtaking stories to tell, just one simple fact after another. You know, the most popular topic among women my age is the healthy oatmeal our teeth can barely handle.
+???: But I'm going to let you down, I'm afraid. I don't have any breathtaking stories to tell, just one simple fact after another. You know, the most popular topic among women my age is the healthy oatmeal our teeth can barely handle.
 
-???:Luckily, my ears are more reliable than my teeth. I can still nag like I always do, answer questions to my knowledge, and have a little chit chat with you sometimes. So, to summarize it, just consider me a kindhearted chatterbox.
+???: Luckily, my ears are more reliable than my teeth. I can still nag like I always do, answer questions to my knowledge, and have a little chit chat with you sometimes. So, to summarize it, just consider me a kindhearted chatterbox.
 
 > **Choice 2：** Where's the guy who used to talk to me?
 
-???:Oh darling, why not let it be? You're all on your own now. Don't ask for more when you already have someone to talk to, even if I'm only nagging most of the time.
+???: Oh darling, why not let it be? You're all on your own now. Don't ask for more when you already have someone to talk to, even if I'm only nagging most of the time.
 
-???:We gotta let the past be the past, like how we deal with old newspapers, because all I speak is one simple fact after another.
+???: We gotta let the past be the past, like how we deal with old newspapers, because all I speak is one simple fact after another.
 
-???:Anyways, we will keep each other company for quite a while.
+???: Anyways, we will keep each other company for quite a while.
 
 > **Choice 1：** Where am I?
 
-???:Finally, a question about yourself. In front of you is a boundless sea. All you can see, besides the beach you are lying on, is water, water, and water ...
+???: Finally, a question about yourself. In front of you is a boundless sea. All you can see, besides the beach you are lying on, is water, water, and water ...
 
-???:A cry for help will be drowned out by the waves, and even the strongest legs are tied to the ground here and cannot break free.
+???: A cry for help will be drowned out by the waves, and even the strongest legs are tied to the ground here and cannot break free.
 
-???:See? There's no way to leave, but it's a good opportunity to have an island tour. The locals have good manners, so I think you can ask them to show you around. That's at least better than just goofing off.
+???: See? There's no way to leave, but it's a good opportunity to have an island tour. The locals have good manners, so I think you can ask them to show you around. That's at least better than just goofing off.
 
 > **Choice 1：** What time is it now exactly?
 
-???:Not even you can avoid asking this question. But a kindhearted soul already told you that time is moving forward as it used to be, step by step. So, the time is ... the year 2007.
+???: Not even you can avoid asking this question. But a kindhearted soul already told you that time is moving forward as it used to be, step by step. So, the time is ... the year 2007.
 
-???:Yes, time is back on the right track, going where it's supposed to be. Raindrops literally drop again, and no one goes back to the past anymore ... Well, some miss the good old days, though.
+???: Yes, time is back on the right track, going where it's supposed to be. Raindrops literally drop again, and no one goes back to the past anymore ... Well, some miss the good old days, though.
 
-???:Oh ... You still doubt it, don't you? I can see it in your eyes. Don't get me wrong, I'm on your side. After all the hard times I have experienced, if anyone told me that my life was just a boring dream, one neither good nor bad, I would throw a shoe at them!
+???: Oh ... You still doubt it, don't you? I can see it in your eyes. Don't get me wrong, I'm on your side. After all the hard times I have experienced, if anyone told me that my life was just a boring dream, one neither good nor bad, I would throw a shoe at them!
 
 > **Choice 1：** Enough with the riddles.
 
-???:I can tell you are being burned by anxiety. But to find the "time" you want, we need to comb through the situation, like how you do with your hair.
+???: I can tell you are being burned by anxiety. But to find the "time" you want, we need to comb through the situation, like how you do with your hair.
 
-???:Time is like a Sachertorte, and now it has been divided into many pieces. On the largest piece stands the white chocolate card—yes, the last good days of the 20th century.
+???: Time is like a Sachertorte, and now it has been divided into many pieces. On the largest piece stands the white chocolate card—yes, the last good days of the 20th century.
 
-???:The gentlemen are still growing handlebar mustaches, and the ladies have not yet flattened the curves on their bodies. New money buys one art piece after another to show off their good taste. They don't even mind turning their homes into museums.
+???: The gentlemen are still growing handlebar mustaches, and the ladies have not yet flattened the curves on their bodies. New money buys one art piece after another to show off their good taste. They don't even mind turning their homes into museums.
 
-???:A cafe named San Marco officially opens, gathering the most outstanding intellectuals and writers of the time. They talk and laugh there, as if nothing could stand in their way.
+???: A cafe named San Marco officially opens, gathering the most outstanding intellectuals and writers of the time. They talk and laugh there, as if nothing could stand in their way.
 
-???:Then the cafe receives a neurologist whose briefcase carries the interpretation of dreams, and celluloid film and projectors become a new means of expression for artists.
+???: Then the cafe receives a neurologist whose briefcase carries the interpretation of dreams, and celluloid film and projectors become a new means of expression for artists.
 
-???:At this point, helmets remain intact in the warehouse, gauze only works in hospitals, bullets only fly in the firing range, and the flame that swallows lives is not even lit ...
+???: At this point, helmets remain intact in the warehouse, gauze only works in hospitals, bullets only fly in the firing range, and the flame that swallows lives is not even lit ...
 
-???:But soon, soon enough ... the young people who swore to retrieve their homeland will take up daggers and guns to fulfill their oath.
+???: But soon, soon enough ... the young people who swore to retrieve their homeland will take up daggers and guns to fulfill their oath.
 
-???:Buildings will shake like a leaf, and rocks will fall off and hit the walls. Screams will try to break free from people's throats. At that moment, a clip will be loaded secretly, in the name of supreme honor.
+???: Buildings will shake like a leaf, and rocks will fall off and hit the walls. Screams will try to break free from people's throats. At that moment, a clip will be loaded secretly, in the name of supreme honor.
 
-???:A golden age is about to end. A vortex of blood is already swirling in the river of time, waiting to devour everything that passes by.
+???: A golden age is about to end. A vortex of blood is already swirling in the river of time, waiting to devour everything that passes by.
 
-???:When that actually happens, all the beautiful curves derived from nature, the bee-shaped brooches, the punch, the eiderdown duvets, everything will be destroyed, leaving only an insurance contract behind, and it doesn't even work.
+???: When that actually happens, all the beautiful curves derived from nature, the bee-shaped brooches, the punch, the eiderdown duvets, everything will be destroyed, leaving only an insurance contract behind, and it doesn't even work.
 
-???:Even this cafe will be smashed into concrete pieces.
+???: Even this cafe will be smashed into concrete pieces.
 
-???:See? We have combed the hair now. Everything I just talked about is the "time" you want.
+???: See? We have combed the hair now. Everything I just talked about is the "time" you want.
 
-???:Heh heh, you wouldn't buy the nonsense about the fairness of time when you reach my age. It actually feels different between those who keep their eyes shut and those who keep theirs open; likewise, those who kill never share the same feeling with those who are killed; this is also true between those who have enough food to eat and those who are starving ...
+???: Heh heh, you wouldn't buy the nonsense about the fairness of time when you reach my age. It actually feels different between those who keep their eyes shut and those who keep theirs open; likewise, those who kill never share the same feeling with those who are killed; this is also true between those who have enough food to eat and those who are starving ...
 
-???:Alright, that's it. I've talked enough. Now get up, darling, and brush the sand off yourself. Trust me, you will find your own answer to this era.
+???: Alright, that's it. I've talked enough. Now get up, darling, and brush the sand off yourself. Trust me, you will find your own answer to this era.
 
 ### Trail · Trail② The Third Party in Confrontation
 
@@ -2438,7 +2438,7 @@ The Rockin' Pirate produces her treasure and waves a single bean around her mout
 
 **Regulus:** If I put one coffee bean in my mouth, will the vulture get me right away?
 
-**37:**No way!
+**37:** No way!
 
 **Regulus:** Whoa, easy, mate! Do you wanna get physical? This Pirate is not scared of you!
 
@@ -2668,7 +2668,7 @@ She returns to the corner, giving the floor to the rest of them.
 
 Villiers W5 Strategic Razor (Enhanced Version) Instructions for Use
 
-**I. Preparation**The Villiers W5 Strategic Razor (Enhanced Version) is issued to the Foundation Special Operations Teams (FSOT) and will be distributed along with other equipment during your initial gear issuance. Please carefully check the equipment receipt list to confirm that you have received the correct model and number of items. The Villiers W5 Strategic Razor (Enhanced Version) is developed by the Laplace Scientific Computing Center (LSCC). Designed for the daily mission needs of human team members, it does not require Arcane skills to operate. Before official use, proficiency in the correct use of this equipment is required, and the user must pass related practical training assessments. **II. Awakening and Linking**When first equipping the Villiers W5 Strategic Razor (Enhanced Version), please manually awaken and link the weapon by performing the following operations: ▪Sit with eyes closed and perform deep breathing in 10-second intervals until the body reaches a meditative state; ▪After opening your eyes, silently count to 5 seconds, then grasp the handle of the equipment with both hands. Release your hands after feeling a slight vibration, at which point the Villiers W5 Strategic Razor (Enhanced Version) will be awakened and successfully linked to you. **III. Parameter Setting**When first equipping the Villiers W5 Strategic Razor (Enhanced Version), please follow these steps and wait for the weapon to adjust its parameters according to your body data: ▪Grasp the handle of the equipment with both hands, quickly clench, and relax, repeating 3 times; ▪Place the equipment upright, with the tail end against the tip of your right foot, raise your chin, and wait for the razor to buzz once; ▪Place the equipment horizontally, lift the razor to shoulder height, turn your head left and right once each, and wait for the razor to buzz once; ▪Read clearly in a moderate voice: "Entities should not be multiplied unnecessarily." Wait for the razor to buzz once. **IV. Equipment Maintenance**The maintenance cycle for the Villiers W5 Strategic Razor (Enhanced Version) is 3 months. If you believe the weapon is exhibiting abnormalities, please contact the customer service personnel at the LSCC. Follow the instructions of the customer service personnel to send the weapon to the Computing Center, so that the center's technicians can check and debug your weapon's performance.
+**I. Preparation** The Villiers W5 Strategic Razor (Enhanced Version) is issued to the Foundation Special Operations Teams (FSOT) and will be distributed along with other equipment during your initial gear issuance. Please carefully check the equipment receipt list to confirm that you have received the correct model and number of items. The Villiers W5 Strategic Razor (Enhanced Version) is developed by the Laplace Scientific Computing Center (LSCC). Designed for the daily mission needs of human team members, it does not require Arcane skills to operate. Before official use, proficiency in the correct use of this equipment is required, and the user must pass related practical training assessments. **II. Awakening and Linking** When first equipping the Villiers W5 Strategic Razor (Enhanced Version), please manually awaken and link the weapon by performing the following operations: ▪Sit with eyes closed and perform deep breathing in 10-second intervals until the body reaches a meditative state; ▪After opening your eyes, silently count to 5 seconds, then grasp the handle of the equipment with both hands. Release your hands after feeling a slight vibration, at which point the Villiers W5 Strategic Razor (Enhanced Version) will be awakened and successfully linked to you. **III. Parameter Setting** When first equipping the Villiers W5 Strategic Razor (Enhanced Version), please follow these steps and wait for the weapon to adjust its parameters according to your body data: ▪Grasp the handle of the equipment with both hands, quickly clench, and relax, repeating 3 times; ▪Place the equipment upright, with the tail end against the tip of your right foot, raise your chin, and wait for the razor to buzz once; ▪Place the equipment horizontally, lift the razor to shoulder height, turn your head left and right once each, and wait for the razor to buzz once; ▪Read clearly in a moderate voice: "Entities should not be multiplied unnecessarily." Wait for the razor to buzz once. **IV. Equipment Maintenance** The maintenance cycle for the Villiers W5 Strategic Razor (Enhanced Version) is 3 months. If you believe the weapon is exhibiting abnormalities, please contact the customer service personnel at the LSCC. Follow the instructions of the customer service personnel to send the weapon to the Computing Center, so that the center's technicians can check and debug your weapon's performance.
 
 - Description：Related to one of the most advanced armaments in a bygone era.
 - Action：Read
@@ -2850,7 +2850,7 @@ The enemy is almost invincible.
 
 One of the Abraxases holds Regulus with its snake feet, like an eagle clutching a turtledove, leaving for the dungeon.
 
-**APPLe:**Captain!
+**APPLe:** Captain!
 
 **APPLe:** I can't leave her alone. This APPLe shall follow her!
 
@@ -2868,7 +2868,7 @@ APPLe follows the Abraxas. He looks weak and lonely in the air, like a left-behi
 
 **Sophia:** \*sighs\* What a mess!
 
-**Sophia:**Ένα ευθύγραμμο τμήμα σχηματίζεται όταν ενώσουμε δύο σημεία!
+**Sophia:**  Ένα ευθύγραμμο τμήμα σχηματίζεται όταν ενώσουμε δύο σημεία!
 
 Sophia gently touches the brass ruler on her waist. As the glow fades, the grassland has been flattened to its original state.
 
@@ -3281,7 +3281,7 @@ The mission matters the most.
 
 This is what she has been trained to believe and do.
 
-**Sonetto:**Regnaserenointenso ed infinito！
+**Sonetto:** Regna sereno intenso ed infinito！
 
 **210:** Who did that?
 
@@ -3524,7 +3524,7 @@ In a now neglected corner, the Rockin' Pirate is deep in thought.
 
 **Regulus:** Oh! What else could it be if Vertin weren't the jinx?!
 
-**Regulus:**Lads! I know what's going on! You got the wrong person! She is the most irrational number here!
+**Regulus:** Lads! I know what's going on! You got the wrong person! She is the most irrational number here!
 
 The dungeon gate remains tightly locked. The wood made of it wouldn't understand her words.
 
@@ -3534,7 +3534,7 @@ The dungeon gate remains tightly locked. The wood made of it wouldn't understand
 
 **Regulus:** Hmm. That's to say, I have to prove myself not an irrational number to get out of here?
 
-**Regulus:**Which is exactly what I've been trying to do, isn't it? Prat!
+**Regulus:** Which is exactly what I've been trying to do, isn't it? Prat!
 
 Her fist smashes against the wooden gate.
 
@@ -3572,7 +3572,7 @@ Regulus immediately gets off the ground.
 
 Pirate, the believer in liberty, walks in circles in front of the gate and suddenly starts to pull the loosened strips on the door.
 
-**Regulus:**I'm breaking out!!!
+**Regulus:** I'm breaking out!!!
 
 **APPLe:** Why am I not surprised? The captain quickly gives the sufficient and prerequisite condition to prove herself an irrational number.
 
@@ -3588,7 +3588,7 @@ Chief Mate APPLe floats out from the gaps of the "guest room," making a thorough
 
 **APPLe:** All Abraxases are flying in the same direction. Is this their habit? Or ...
 
-**Regulus:**Errrhh! The roof is about to collapse!
+**Regulus:** Errrhh! The roof is about to collapse!
 
 **Regulus:** \*coughs\* So far, this place has made the London Juvenile Detention Center a heaven on earth.
 
@@ -3962,55 +3962,55 @@ Oh, and Lilya, who is looking grave.
 
 Wonderful Coincidence
 
-???:As you can see, this school on the island lives in a box made by the truth. Even if they have a donut in their hands when they are hungry, they still see a topological space—like the cute ring attached to an initiation toy—it's not food anyways.
+???: As you can see, this school on the island lives in a box made by the truth. Even if they have a donut in their hands when they are hungry, they still see a topological space—like the cute ring attached to an initiation toy—it's not food anyways.
 
-???:But if you give them a puzzle, they will enjoy it like the best Kaiserschmarrn ... Oh, my apologies. I was not talking about the one you are holding.
+???: But if you give them a puzzle, they will enjoy it like the best Kaiserschmarrn ... Oh, my apologies. I was not talking about the one you are holding.
 
 > **Choice 1：** It doesn't taste good.
 
-???:No. With all due respect, that thing in your hand is pretty old: the mold on it seems to come from the 18th century, judging from the smell. I'm sure you know it will make you sick if eaten.
+???: No. With all due respect, that thing in your hand is pretty old: the mold on it seems to come from the 18th century, judging from the smell. I'm sure you know it will make you sick if eaten.
 
-???:But we have to admit, it is not just ordinary mold. It reminds us of the story in which, once, a merchant's son looked up at the night sky and found the answer to the stars for us.
+???: But we have to admit, it is not just ordinary mold. It reminds us of the story in which, once, a merchant's son looked up at the night sky and found the answer to the stars for us.
 
-???:The young man firmly believed that the movement of the stars and the sun follow certain laws, just like how the delicate gears in a watch work together.
+???: The young man firmly believed that the movement of the stars and the sun follow certain laws, just like how the delicate gears in a watch work together.
 
-???:And his point was even proven correct by Zeus's grandfather! When another gentleman observed the sky through the reflecting telescope he took great pains to make, a celestial body was exactly there.
+???: And his point was even proven correct by Zeus's grandfather! When another gentleman observed the sky through the reflecting telescope he took great pains to make, a celestial body was exactly there.
 
-???:What was it called ... Emm, 19.6, the eighth number in the sequence, the seventh planet in the solar system, and the legendary God of the Sky.
+???: What was it called ... Emm, 19.6, the eighth number in the sequence, the seventh planet in the solar system, and the legendary God of the Sky.
 
-???:If the world was not created by God, are there any theories we can use to explain such a beautiful law?
+???: If the world was not created by God, are there any theories we can use to explain such a beautiful law?
 
-???:Yes, the one that says it never actually exists. Anyone can see the breach in this number sequence. That is the planet, which is supposed to be the fifth number in the sequence. I mean, how come we have never seen it before, if it does exist?
+???: Yes, the one that says it never actually exists. Anyone can see the breach in this number sequence. That is the planet, which is supposed to be the fifth number in the sequence. I mean, how come we have never seen it before, if it does exist?
 
-???:Either God is wrong or we've been blind all this time. What do you think?
+???: Either God is wrong or we've been blind all this time. What do you think?
 
 > **Choice 1：** God is wrong.
 
-???:Oh, darling, I forgot that you are one of the boring people from the modern times.
+???: Oh, darling, I forgot that you are one of the boring people from the modern times.
 
-???:You need to understand that we are talking about a forgotten masterpiece from the 18th century. Back then, everyone still believed that the imaginary creatures living on the stars got to witness the birth of God's creations and the everlasting temperature changes up there were set to punish the exiles. How romantic.
+???: You need to understand that we are talking about a forgotten masterpiece from the 18th century. Back then, everyone still believed that the imaginary creatures living on the stars got to witness the birth of God's creations and the everlasting temperature changes up there were set to punish the exiles. How romantic.
 
 > **Choice 2：** We've been blind all this time.
 
-???:Yes, such a planet definitely exists, and as expected, it was discovered in the end. Yes, that's the Ceres. It only took that great mathematician an hour to find its orbit through calculation.
+???: Yes, such a planet definitely exists, and as expected, it was discovered in the end. Yes, that's the Ceres. It only took that great mathematician an hour to find its orbit through calculation.
 
-???:Oh, what great astronomy, what great mathematics, what great creation.
+???: Oh, what great astronomy, what great mathematics, what great creation.
 
-???:It was a beautiful dream, but it was still ended, eventually, by another discovery: the eighth planet.
+???: It was a beautiful dream, but it was still ended, eventually, by another discovery: the eighth planet.
 
-???:Not the Ceres, nor the Uranus, but a new planet. People found it through more precise astronomical data and calculation, proving that the number sequence found by the merchant's son was only a myth.
+???: Not the Ceres, nor the Uranus, but a new planet. People found it through more precise astronomical data and calculation, proving that the number sequence found by the merchant's son was only a myth.
 
-???:Now we are clear of what we've been talking about: it's an unsolvable puzzle. It makes no sense from the very beginning.
+???: Now we are clear of what we've been talking about: it's an unsolvable puzzle. It makes no sense from the very beginning.
 
-???:We found the Ceres because it happened to be there. It is real, and no one can deny its existence.
+???: We found the Ceres because it happened to be there. It is real, and no one can deny its existence.
 
-???:In other words, we can perfectly prove the rationality of mathematics because we INVENTED it.
+???: In other words, we can perfectly prove the rationality of mathematics because we INVENTED it.
 
-???:It's been a good dream, I suppose.
+???: It's been a good dream, I suppose.
 
-???:Now imagine that you're walking alone in the darkest valley ever, trying to drag your fragile body upward as much as possible before it is worn out. Hoarse cries squeeze their way out of your mouth to ask for response from the gods. Suddenly, an afflatus dawns on you. The next moment, a miracle happens: you are already at the top of the mountain, witnessing the rise of a huge celestial body from the skyline.
+???: Now imagine that you're walking alone in the darkest valley ever, trying to drag your fragile body upward as much as possible before it is worn out. Hoarse cries squeeze their way out of your mouth to ask for response from the gods. Suddenly, an afflatus dawns on you. The next moment, a miracle happens: you are already at the top of the mountain, witnessing the rise of a huge celestial body from the skyline.
 
-???:Even if it's only in your imagination, you have just witnessed the dawn of the Creation and the shock is real.
+???: Even if it's only in your imagination, you have just witnessed the dawn of the Creation and the shock is real.
 
 
 ---
@@ -4762,77 +4762,77 @@ It's about winning.
 
 Just the Right Pause
 
-???:Come closer. That's right. Take a few more steps and immerse yourself in the shadow, including that hat. You don't want those good ears to hear this private conversation.
+???: Come closer. That's right. Take a few more steps and immerse yourself in the shadow, including that hat. You don't want those good ears to hear this private conversation.
 
-???:That pad of paper from the miss, yes, the one wielding the ruler, is quite valuable. I can tell it is of a certain age and records quite a lot of anecdotes.
+???: That pad of paper from the miss, yes, the one wielding the ruler, is quite valuable. I can tell it is of a certain age and records quite a lot of anecdotes.
 
-???:One visitor to the island took out a baguette from his luggage. To share it with others, he made an attempt to parcel it off. Another visitor fell to the ground and happened to sit on a quart measure and break it ...
+???: One visitor to the island took out a baguette from his luggage. To share it with others, he made an attempt to parcel it off. Another visitor fell to the ground and happened to sit on a quart measure and break it ...
 
-???:You can learn the punishments for them from the paper: the former was thrown into the sea, while the latter, into the further sea.
+???: You can learn the punishments for them from the paper: the former was thrown into the sea, while the latter, into the further sea.
 
-???:Only God knows how this wine-dark sea holds so many visitors.
+???: Only God knows how this wine-dark sea holds so many visitors.
 
 > **Choice 1：** Perhaps they can also resort to the debate.
 
-???:Oh, the debate! That's really a pain in the neck for that logical, pragmatic assistant of yours, isn't it? People always tend to mark what they can't figure out as "arcanists' doings," as if things would make sense once they do so.
+???: Oh, the debate! That's really a pain in the neck for that logical, pragmatic assistant of yours, isn't it? People always tend to mark what they can't figure out as "arcanists' doings," as if things would make sense once they do so.
 
-???:But it won't change the fact that the debate is only a game involving sophistry, improvisation, and straw man fallacy. So what makes it superior to beans, if the Form is what they are really after?
+???: But it won't change the fact that the debate is only a game involving sophistry, improvisation, and straw man fallacy. So what makes it superior to beans, if the Form is what they are really after?
 
-???:Anyways, whoever fools the others first will win the game, no arcanum at all.
+???: Anyways, whoever fools the others first will win the game, no arcanum at all.
 
-???:And that argument of hers is the best attraction for the audience ... A special number, a "0."
+???: And that argument of hers is the best attraction for the audience ... A special number, a "0."
 
 > **Choice 1：** The boundary between positive and negative numbers, huh?
 
-???:You are neither positive nor negative, which means ... you don't belong to either side. Now imagine one side as an orderly line and the other as those wandering around. The wanderers can smell the abnormality in you, and of course, no one in that line sees you as one of them.
+???: You are neither positive nor negative, which means ... you don't belong to either side. Now imagine one side as an orderly line and the other as those wandering around. The wanderers can smell the abnormality in you, and of course, no one in that line sees you as one of them.
 
-???:In a restaurant, fruits are served without the seeds, but in a farm, the seeds are retained for the next harvest.
+???: In a restaurant, fruits are served without the seeds, but in a farm, the seeds are retained for the next harvest.
 
-???:Is there any value in the seeds? It depends on what you see when you look at them.
+???: Is there any value in the seeds? It depends on what you see when you look at them.
 
-???:The moment you realize that, you have come to the crossroad of fate.
+???: The moment you realize that, you have come to the crossroad of fate.
 
 > **Choice 2：** Perhaps "∞" is a better choice.
 
-???:That's ambitious, darling, and I love it! But you need to know that infinity is the most unfamiliar thing for the people, and that's why it triggers the most curiosity.
+???: That's ambitious, darling, and I love it! But you need to know that infinity is the most unfamiliar thing for the people, and that's why it triggers the most curiosity.
 
-???:Whoever tries to eat up this elephant with one bite will get all bloated and pinned by their own weight, waiting to die like a turtle upside down.
+???: Whoever tries to eat up this elephant with one bite will get all bloated and pinned by their own weight, waiting to die like a turtle upside down.
 
-???:By then, I guess you would be eager to throw up the elephant and turn back into the adorable, easygoing "0" we all like.
+???: By then, I guess you would be eager to throw up the elephant and turn back into the adorable, easygoing "0" we all like.
 
-???:See, just like you, people are always on the way to finding something that can satisfy them undoubtedly, as if what they already have was disappointing. They stare at the flame of the matches, read the tea leaves in the cup, and bustle around the instruments with star patterns ...
+???: See, just like you, people are always on the way to finding something that can satisfy them undoubtedly, as if what they already have was disappointing. They stare at the flame of the matches, read the tea leaves in the cup, and bustle around the instruments with star patterns ...
 
-???:Now, back to the number we just talked about ... Oh my, it's the prediction of your whole life. Can you believe that?
+???: Now, back to the number we just talked about ... Oh my, it's the prediction of your whole life. Can you believe that?
 
-???:You owe that spirited little genius a thank-you ... By the way, what do you see in her number?
+???: You owe that spirited little genius a thank-you ... By the way, what do you see in her number?
 
 > **Choice 1：** A clever trick.
 
-???:Oh yes, of course, 37 is larger than 0.
+???: Oh yes, of course, 37 is larger than 0.
 
-???:But it's not so stable as 0. These prime numbers, they are just hard to divide ... because they have very few things in common with others.
+???: But it's not so stable as 0. These prime numbers, they are just hard to divide ... because they have very few things in common with others.
 
-???:That's why she's always so energetic, highly and solely focused on what she takes an interest in. She has nothing like the characteristics of the ones you know in the gray and white house. Those people are proud of themselves for having kindhearted factors around them.
+???: That's why she's always so energetic, highly and solely focused on what she takes an interest in. She has nothing like the characteristics of the ones you know in the gray and white house. Those people are proud of themselves for having kindhearted factors around them.
 
-???:As their teaching goes, it's always dangerous to be unique.
+???: As their teaching goes, it's always dangerous to be unique.
 
-???:But some look up at her again and again exactly because they can sense the danger in her.
+???: But some look up at her again and again exactly because they can sense the danger in her.
 
-???:You are also a good example. You've been looking up, haven't you?
+???: You are also a good example. You've been looking up, haven't you?
 
 > **Choice 2：** A number, "37."
 
-???:I always know you're a quick learner. You're very good at noticing new things.
+???: I always know you're a quick learner. You're very good at noticing new things.
 
-???:That's right. 37 is only 37, a nice, unique prime number which equals the word "genius." At least everyone prefers to think this way.
+???: That's right. 37 is only 37, a nice, unique prime number which equals the word "genius." At least everyone prefers to think this way.
 
-???:Why not deify the one that is able to reach the truth when you have the chance? It's much easier to pin your hopes on others than to blame yourself.
+???: Why not deify the one that is able to reach the truth when you have the chance? It's much easier to pin your hopes on others than to blame yourself.
 
-???:I guess you also did that, right, darling?
+???: I guess you also did that, right, darling?
 
-???:It's okay. She never says no. She just lets the hopes pile up on her shoulder ... because she simply doesn't care at all.
+???: It's okay. She never says no. She just lets the hopes pile up on her shoulder ... because she simply doesn't care at all.
 
-???:What a good, good child.
+???: What a good, good child.
 
 ### Trail · Trail② Challenge Record
 
@@ -5161,24 +5161,6 @@ just as there are three sorts of people who come to the Olympic Games.
 The lowest class is made up of those who come to buy and sell,
 
 and next above them are those who come to compete.
-
-In this life there are three kinds of men,
-
-just as there are three sorts of people who come to the Olympic Games.
-
-The lowest class is made up of those who come to buy and sell,
-
-and next above them are those who come to compete.
-
-Best of all, however, are those who come to look on.
-
-The greatest purification of all is, therefore, science,
-
-and it is the man who devotes himself to that, the true philosopher,
-
-who has most effectually released himself from the "wheel of birth."
-
-—John Burnet, Early Greek Philosophy
 
 Best of all, however, are those who come to look on.
 
@@ -5560,89 +5542,89 @@ Following them, a petite figure rushes out of the woods.
 
 The Third Fork in the Road
 
-???:Oh, look at you, climbing out of the cave in the allegory, all dusty and dirty like a little savage.
+???: Oh, look at you, climbing out of the cave in the allegory, all dusty and dirty like a little savage.
 
-???:They must have tried to fill your little brain with long preachment, but you should feel lucky because at least they didn't give you a quiz right after that.
+???: They must have tried to fill your little brain with long preachment, but you should feel lucky because at least they didn't give you a quiz right after that.
 
 > **Choice 1：** I was not listening.
 
-???:Oh, that's our expert on absent-mindedness. Yes, we should bear in mind those glory days of yours back in school.
+???: Oh, that's our expert on absent-mindedness. Yes, we should bear in mind those glory days of yours back in school.
 
 > **Choice 2：** What they said is true.
 
-???:Oh, how modest you are. Looks like you didn't spend all your student days catching tree frogs.
+???: Oh, how modest you are. Looks like you didn't spend all your student days catching tree frogs.
 
-???:Try to reach the corners of your mind, if you would, and there you will find another bunch of people standing in front of a stone table.
+???: Try to reach the corners of your mind, if you would, and there you will find another bunch of people standing in front of a stone table.
 
-???:Yes, those people in gowns, white gowns with gray diamond patterns. One of them was standing on the stairs, gathering all the little vacant eyes to his side. What was he called? Give me a second ...
+???: Yes, those people in gowns, white gowns with gray diamond patterns. One of them was standing on the stairs, gathering all the little vacant eyes to his side. What was he called? Give me a second ...
 
-???:Teacher, instructor, tutor, educator ... Just titles like that, no names at all. No one gets to write down their names on that banner, after all.
+???: Teacher, instructor, tutor, educator ... Just titles like that, no names at all. No one gets to write down their names on that banner, after all.
 
-???:But they have nothing to complain about. You know what they say, "What is reasonable is real; that which is real is reasonable."
+???: But they have nothing to complain about. You know what they say, "What is reasonable is real; that which is real is reasonable."
 
-???:They showed you a broad avenue in their teachings, where you could enjoy a sense of security with all the solid ground, convenient automobiles, and warm sunshine. And at the end of the avenue even lies an inspiring mission, to which you are expected to devote your whole life.
+???: They showed you a broad avenue in their teachings, where you could enjoy a sense of security with all the solid ground, convenient automobiles, and warm sunshine. And at the end of the avenue even lies an inspiring mission, to which you are expected to devote your whole life.
 
-???:There is a distinction between good and bad here, and it's as clear as our innate sense of right and wrong, like a floor of black and white tiles. Any stains on it will be noticed immediately.
+???: There is a distinction between good and bad here, and it's as clear as our innate sense of right and wrong, like a floor of black and white tiles. Any stains on it will be noticed immediately.
 
-???:But in fact, there exists another path in the woods. It's much less traveled, leading to the unknown darkness which cannot be seen with eyes or proved false. You may even experience indescribable chaos and madness there. This path, however, has an excellent view, and it's one of a kind: the plants are thriving with bursting energy, and the flowers are blooming in a delightful atmosphere.
+???: But in fact, there exists another path in the woods. It's much less traveled, leading to the unknown darkness which cannot be seen with eyes or proved false. You may even experience indescribable chaos and madness there. This path, however, has an excellent view, and it's one of a kind: the plants are thriving with bursting energy, and the flowers are blooming in a delightful atmosphere.
 
-???:... So, which will you take?
+???: ... So, which will you take?
 
 > **Choice 1：** Perhaps the avenue.
 
-???:Oh, of course, as you've been on it all the time. But that's exactly why you know how ... inflexible it is. You know that even better than any of those old fellas who have spent decades on it, don't you?
+???: Oh, of course, as you've been on it all the time. But that's exactly why you know how ... inflexible it is. You know that even better than any of those old fellas who have spent decades on it, don't you?
 
-???:Just because you've been on it doesn't mean you can expect a comfortable journey, darling.
+???: Just because you've been on it doesn't mean you can expect a comfortable journey, darling.
 
-???:But luckily, there's still one more way you can take. It would be a good choice if you want to enjoy the scenery without getting lost in the darkness.
+???: But luckily, there's still one more way you can take. It would be a good choice if you want to enjoy the scenery without getting lost in the darkness.
 
 > **Choice 2：** I'm interested in the path.
 
-???:Oh, that's not an easy choice to make. This grandma must give you a round of applause. I would have even pinned a boutonniere to your suit if I had one. But I have to remind you, those things in there are not easy to deal with. They can drive you insane, and you have to be very careful ...
+???: Oh, that's not an easy choice to make. This grandma must give you a round of applause. I would have even pinned a boutonniere to your suit if I had one. But I have to remind you, those things in there are not easy to deal with. They can drive you insane, and you have to be very careful ...
 
-???:You've seen the living proof: many were freaked out after they came back, and people had to tie and lock them up; others even dug their own graves.
+???: You've seen the living proof: many were freaked out after they came back, and people had to tie and lock them up; others even dug their own graves.
 
-???:Oh my, that was a bit over the top. I hope I didn't scare you, darling.
+???: Oh my, that was a bit over the top. I hope I didn't scare you, darling.
 
-???:But luckily, there's still one more way you can take. It would be a good choice if you want to enjoy the scenery without getting lost in the darkness.
+???: But luckily, there's still one more way you can take. It would be a good choice if you want to enjoy the scenery without getting lost in the darkness.
 
 > **Choice 1：** Another way?
 
-???:I'm sure you know that myth.
+???: I'm sure you know that myth.
 
-???:"You shall take the soul of your love out of the underworld, yet you shall not look back." That's right. You shall pass by the sleeping sirens, yet you shall not make a sound.
+???: "You shall take the soul of your love out of the underworld, yet you shall not look back." That's right. You shall pass by the sleeping sirens, yet you shall not make a sound.
 
-???:The ones with a belief set off. They entered the dark woods barefooted, yet moved so smoothly as if they were walking on the avenue.
+???: The ones with a belief set off. They entered the dark woods barefooted, yet moved so smoothly as if they were walking on the avenue.
 
-???:They kept their mouths shut and eyes forward. They never turned back, never picked up what was not theirs, never set foot on the forbidden lands, and never looked straight at the sacred greatness.
+???: They kept their mouths shut and eyes forward. They never turned back, never picked up what was not theirs, never set foot on the forbidden lands, and never looked straight at the sacred greatness.
 
-???:They showed frugality, patience, and wisdom in the face of hunger and danger.
+???: They showed frugality, patience, and wisdom in the face of hunger and danger.
 
-???:So the beasts continued to lurk in the shadow, and the ones with a belief passed through the woods safely until the path disappeared along with the direction sign. Then the first one to look back gave an exclamation before being exiled.
+???: So the beasts continued to lurk in the shadow, and the ones with a belief passed through the woods safely until the path disappeared along with the direction sign. Then the first one to look back gave an exclamation before being exiled.
 
 > **Choice 1：** Is it really reasonable to take it?
 
-???:Think about what I just said, "That which is real is reasonable."
+???: Think about what I just said, "That which is real is reasonable."
 
-???:Never look back in the woods, darling! If you don't want to be turned into a pillar of salt which can do nothing but wail, then ... NEVER, EVER look back.
+???: Never look back in the woods, darling! If you don't want to be turned into a pillar of salt which can do nothing but wail, then ... NEVER, EVER look back.
 
-???:Yes, we'd better stay awake, stay calm, stay cautious all the time.
+???: Yes, we'd better stay awake, stay calm, stay cautious all the time.
 
-???:But then there comes the problem: how can anyone ... how can you ignore your love for those thriving plants and blooming flowers? How are you supposed to deal with the unstoppable feeling that overflows like a melody when it is stirred up by the beauty of the scenery?
+???: But then there comes the problem: how can anyone ... how can you ignore your love for those thriving plants and blooming flowers? How are you supposed to deal with the unstoppable feeling that overflows like a melody when it is stirred up by the beauty of the scenery?
 
-???:Of course, you will cry the loudest cry, dance the wildest dance, drink the strongest drink, and vomit all the filth inside you.
+???: Of course, you will cry the loudest cry, dance the wildest dance, drink the strongest drink, and vomit all the filth inside you.
 
-???:After all, there is no need to enter the woods if the soul-stirring scenery is not what you are after, right?
+???: After all, there is no need to enter the woods if the soul-stirring scenery is not what you are after, right?
 
 > **Choice 1：** It doesn't sound like a good way.
 
-???:No, so you'd better let it slip your mind, darling.
+???: No, so you'd better let it slip your mind, darling.
 
-???:Just let it go, and hurry forward. Remember to keep your eyes shut and hold your breath.
+???: Just let it go, and hurry forward. Remember to keep your eyes shut and hold your breath.
 
-???:When you do so, the scenery will no longer mean anything to you, nor will the fragrance of the flowers. You will get out of the woods and reach where the truth lies.
+???: When you do so, the scenery will no longer mean anything to you, nor will the fragrance of the flowers. You will get out of the woods and reach where the truth lies.
 
-???:Is that what you want? Don't worry. We have plenty of time. You may come back at any time and pick another way.
+???: Is that what you want? Don't worry. We have plenty of time. You may come back at any time and pick another way.
 
 ### Trail · Strange Cave
 
@@ -6483,7 +6465,7 @@ She tilts her head, looking genuinely confused.
 
 IDM Maintenance Records
 
-**November 8** Replaced punched paper cards. No equipment abnormalities. **November 9** Shutdown for 30 minutes to check the connector board. Inspection results: some wires slightly aged; no leakage or poor contact was detected. Reported and added wires to the monthly off-island purchase list. **November 10** Shutdown for 30 minutes to check the motor drive. Inspection results: performance good. **November 11** Shutdown for 30 minutes to check the indicator device. Inspection results: the needle of meter a1G4 was stuck; upon troubleshooting, the internal gears of meter a1G4 were corroded. Reported and added the indicator meter to the monthly off-island purchase list. **November 12** Replaced punched paper cards. No equipment abnormalities. **November 13** No equipment abnormalities. **November 14** No equipment abnormalities. **November 15** Shutdown for 1 hour 15 minutes to replace the meter. Also obtained a new type of connector board from off the island, scheduled to be replaced the next day. **November 16** Replaced punched paper cards. No equipment abnormalities. **November 17** Replaced the new connector board. Shutdown for 3 hours, replacement completed. **November 18** No equipment abnormalities. Disposal of the original connector board: I gave it to my daughter, Sophia, who is quite fond of studying these. The disposal has been approved.**November 19** No equipment abnormalities. **November 20** Replaced the punched paper cards. No equipment abnormalities.
+**November 8** Replaced punched paper cards. No equipment abnormalities. **November 9** Shutdown for 30 minutes to check the connector board. Inspection results: some wires slightly aged; no leakage or poor contact was detected. Reported and added wires to the monthly off-island purchase list. **November 10** Shutdown for 30 minutes to check the motor drive. Inspection results: performance good. **November 11** Shutdown for 30 minutes to check the indicator device. Inspection results: the needle of meter a1G4 was stuck; upon troubleshooting, the internal gears of meter a1G4 were corroded. Reported and added the indicator meter to the monthly off-island purchase list. **November 12** Replaced punched paper cards. No equipment abnormalities. **November 13** No equipment abnormalities. **November 14** No equipment abnormalities. **November 15** Shutdown for 1 hour 15 minutes to replace the meter. Also obtained a new type of connector board from off the island, scheduled to be replaced the next day. **November 16** Replaced punched paper cards. No equipment abnormalities. **November 17** Replaced the new connector board. Shutdown for 3 hours, replacement completed. **November 18** No equipment abnormalities. Disposal of the original connector board: I gave it to my daughter, Sophia, who is quite fond of studying these. The disposal has been approved. **November 19** No equipment abnormalities. **November 20** Replaced the punched paper cards. No equipment abnormalities.
 
 - Description：A page torn from a machine maintenance log, creased from having been repeatedly unfolded and folded.
 - Action：Check records
@@ -7256,93 +7238,93 @@ Eventually, she speaks up again with great difficulty.
 
 The Misfit
 
-???:Come here. Place your hand on it. Feel the texture. The craft is one of a kind, not some cheapie you can get from the flea market.
+???: Come here. Place your hand on it. Feel the texture. The craft is one of a kind, not some cheapie you can get from the flea market.
 
-???:I mean it. This is a kilim, and even the most traditional, delicate, and expensive kind. It has applied fiery red as the dominant color, and the stitches are perfectly neat.
+???: I mean it. This is a kilim, and even the most traditional, delicate, and expensive kind. It has applied fiery red as the dominant color, and the stitches are perfectly neat.
 
 > **Choice 1：** Where does it come from?
 
-???:From the sea, just like you, darling.
+???: From the sea, just like you, darling.
 
-???:It arrived with a meerschaum pipe, a glass jar, a pack of sugar cubes, and a child in panic.
+???: It arrived with a meerschaum pipe, a glass jar, a pack of sugar cubes, and a child in panic.
 
-???:Both she and the kilim were born on the land where the craft originated. Their appearances apply the same dominant color, and the patterns in them share similar complexity.
+???: Both she and the kilim were born on the land where the craft originated. Their appearances apply the same dominant color, and the patterns in them share similar complexity.
 
 > **Choice 1：** Who is the child?
 
-???:Oh, your curiosity is aroused? But we are not done with the carpets yet. You've always gotta get a souvenir or two every time you reach a new place, so you will have something to show when you tell the stories one day, right?
+???: Oh, your curiosity is aroused? But we are not done with the carpets yet. You've always gotta get a souvenir or two every time you reach a new place, so you will have something to show when you tell the stories one day, right?
 
-???:Look at these handmade fabrics. How splendid ... Those incredible patterns were the only thing on the craftswomen's minds when they made the carpets. It's safe to say they have spent their whole life improving their skills at using the vertical loom, and that's how we get these carpet knots arranged in beautiful lines.
+???: Look at these handmade fabrics. How splendid ... Those incredible patterns were the only thing on the craftswomen's minds when they made the carpets. It's safe to say they have spent their whole life improving their skills at using the vertical loom, and that's how we get these carpet knots arranged in beautiful lines.
 
-???:But they are just people like us. What if they get distracted? What if the carpet knots go off the right track and get tied to the wrong threads?
+???: But they are just people like us. What if they get distracted? What if the carpet knots go off the right track and get tied to the wrong threads?
 
-???:Then you will be in trouble, big trouble! All the problems in the universe will come at you, and the situation will be even worse than the bureaucratic system of a millennial empire.
+???: Then you will be in trouble, big trouble! All the problems in the universe will come at you, and the situation will be even worse than the bureaucratic system of a millennial empire.
 
 > **Choice 1：** Damn it! Damn it! DAMN IT!
 
-???:Calm down. Many swear like you do when there is nothing they can do.
+???: Calm down. Many swear like you do when there is nothing they can do.
 
-???:They always step into the same river named Mistake again and again. That's why we need THEM, those crossing the river with their rulers, spanners, tool boxes, and dusty faces.
+???: They always step into the same river named Mistake again and again. That's why we need THEM, those crossing the river with their rulers, spanners, tool boxes, and dusty faces.
 
 > **Choice 2：** Can't we do something to fix it?
 
-???:I like the pragmatic quality in you. I'm sure it will make your life even more wonderful. The people will be impressed and line up to tackle the problems for you.
+???: I like the pragmatic quality in you. I'm sure it will make your life even more wonderful. The people will be impressed and line up to tackle the problems for you.
 
-???:Oh, don't be mad. Some make troubles, and others deal with the troubles. That happens.
+???: Oh, don't be mad. Some make troubles, and others deal with the troubles. That happens.
 
-???:You know, every question has a questioner when they are raised. Likewise, every error has a corrector when they are corrected. That's how we get to know THEM.
+???: You know, every question has a questioner when they are raised. Likewise, every error has a corrector when they are corrected. That's how we get to know THEM.
 
 > **Choice 1：** Them?
 
-???:The Correctors, an ancient profession.
+???: The Correctors, an ancient profession.
 
-???:Their duty is to remove the loose threads and iron out the wrinkles on the carpets. In the language of this island, that is to check the calculations on the papyri and even the holes on the punched tapes.
+???: Their duty is to remove the loose threads and iron out the wrinkles on the carpets. In the language of this island, that is to check the calculations on the papyri and even the holes on the punched tapes.
 
-???:No one is capable of doing this job except the altruists, because it is similar to unraveling a ball of wool. Besides finding the end of the threads, you must always pay attention to the cats. Yes, the cats. They may jump on the ball and make things even worse.
+???: No one is capable of doing this job except the altruists, because it is similar to unraveling a ball of wool. Besides finding the end of the threads, you must always pay attention to the cats. Yes, the cats. They may jump on the ball and make things even worse.
 
-???:And she, the red-haired little girl with the carpet in her arms, was overwhelmed at the beginning.
+???: And she, the red-haired little girl with the carpet in her arms, was overwhelmed at the beginning.
 
-???:Not yet familiar with the ruler, she tried her best to find the end of the threads. So the cats took the opportunity to jump on her together and left countless scratches on that little forehead. Poor girl.
+???: Not yet familiar with the ruler, she tried her best to find the end of the threads. So the cats took the opportunity to jump on her together and left countless scratches on that little forehead. Poor girl.
 
-???:See, that's the problem every Corrector has to deal with: their job is to correct errors, but what if their own existence is also part of the errors?
+???: See, that's the problem every Corrector has to deal with: their job is to correct errors, but what if their own existence is also part of the errors?
 
 > **Choice 1：** ...
 
-???:Oh, it's no big deal. There is more than one loom in this world.
+???: Oh, it's no big deal. There is more than one loom in this world.
 
-???:She left the complicated patterns behind and came to this simple kingdom featuring numbers only.
+???: She left the complicated patterns behind and came to this simple kingdom featuring numbers only.
 
-???:There she made the first contact with the spinning loom named geometry. She had never seen anything like that before, and it was almost impossible for her to comprehend how it worked. She could hardly convert the numbers on the books into an actual diagram in her brain.
+???: There she made the first contact with the spinning loom named geometry. She had never seen anything like that before, and it was almost impossible for her to comprehend how it worked. She could hardly convert the numbers on the books into an actual diagram in her brain.
 
-???:Without a whole picture of what she was working on, she resorted to her hard work, and more hard work. Then a long time passed, leaving one wound after another on her fingers. Later, the wounds even became calluses.
+???: Without a whole picture of what she was working on, she resorted to her hard work, and more hard work. Then a long time passed, leaving one wound after another on her fingers. Later, the wounds even became calluses.
 
-???:In the end, her hands were no longer tender, but tough enough to resist the damage from the loom. Yes, she has won a place on this island for herself.
+???: In the end, her hands were no longer tender, but tough enough to resist the damage from the loom. Yes, she has won a place on this island for herself.
 
 > **Choice 1：** I am happy for her.
 
-???:Yes, she's a quick learner. She learned even faster than some of the locals, but that was not enough, because she has been outmatched by her playmate, the leading one in the field of mathematics on the island.
+???: Yes, she's a quick learner. She learned even faster than some of the locals, but that was not enough, because she has been outmatched by her playmate, the leading one in the field of mathematics on the island.
 
-???:That girl is like a perfect piece of satin born by nature. It is decorated by the beauty of mathematics and geometry, no manual work involved.
+???: That girl is like a perfect piece of satin born by nature. It is decorated by the beauty of mathematics and geometry, no manual work involved.
 
-???:In order to reach the showcase where that perfect piece lies, and ... to stay on the right track and fit into the school ...
+???: In order to reach the showcase where that perfect piece lies, and ... to stay on the right track and fit into the school ...
 
-???:She has done everything she could.
+???: She has done everything she could.
 
-???:But, BUT! She is still the most distinctive carpet there.
+???: But, BUT! She is still the most distinctive carpet there.
 
-???:Anyone can tell that as long as they spend some time on the island.
+???: Anyone can tell that as long as they spend some time on the island.
 
 > **Choice 1：** It's not wrong to be distinctive.
 
-???:Of course not. She's only a bit "different" from others.
+???: Of course not. She's only a bit "different" from others.
 
-???:So she will continue to weave on the loom until one day the spindle pierces her callus and the fire burns everything to the ground.
+???: So she will continue to weave on the loom until one day the spindle pierces her callus and the fire burns everything to the ground.
 
-???:Shh, I should stop here. You know that mathematician who was thrown into the sea? He died because he said something he shouldn't have.
+???: Shh, I should stop here. You know that mathematician who was thrown into the sea? He died because he said something he shouldn't have.
 
-???:Cut not wood on a public road; open not an unwanted bottle.
+???: Cut not wood on a public road; open not an unwanted bottle.
 
-???:I don't know what to say next. I guess the best line for this circumstance is, "See you later."
+???: I don't know what to say next. I guess the best line for this circumstance is, "See you later."
 
 
 ---
@@ -7969,7 +7951,7 @@ The danger is close. One must act now.
 
 ***
 
-COMBAT:…
+COMBAT:      …
 
 ***
 

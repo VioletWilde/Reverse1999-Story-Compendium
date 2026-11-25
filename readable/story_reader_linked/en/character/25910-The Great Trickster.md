@@ -167,9 +167,7 @@ She traces the curves of her hand, imagining a tiny fire resting within her palm
 
 **Noire:** This fire is what has kept me burning.
 
-Red1980
-
-Red1980
+Red 1980
 
 **Qi Xing:** Well, I'll be damned. You've actually got a professional setup going on here.
 
@@ -367,9 +365,7 @@ Noire says as if confirming the obvious.
 
 **???:** I'm sorry, but the patient is still unconscious. She can't answer your questions right now.
 
-Blue1982
-
-Blue1982
+Blue 1982
 
 Ward
 
@@ -601,7 +597,7 @@ Noire picks up the script and writes the word on the final blank page.
 
 Sympathy
 
-**Noire:**Sympathy
+**Noire:** Sympathy
 
 She says it again, scoffing this time.
 
@@ -669,9 +665,7 @@ The setting sun's light is refracted into countless golden streaks over its wave
 
 **Noire:** Looks like I'm late, Jun. It took longer than I expected to get from my wheelchair to the driver's seat.
 
-Green1982
-
-Green1982
+Green 1982
 
 **Qi Xing:** Looks like it took you a few months.
 
@@ -823,7 +817,7 @@ But "He Rijun" is etched on her tombstone. The name of her friend had died with 
 
 Could you help me out one more time, Jun?
 
-**Noire:**Could you help me out one more time, Jun?
+**Noire:** Could you help me out one more time, Jun?
 
 Noire is overwhelmed by a sudden impulse, a drive that almost seems to defy all reason.
 
@@ -893,9 +887,7 @@ High heels rapidly pounding the concrete draw near, followed by the spilling of 
 
 **Noire:** Oh? I always liked that one.
 
-Purple1984
-
-Purple1984
+Purple 1984
 
 **Noire:** Who was that on the phone just now?
 
@@ -1171,9 +1163,7 @@ Noire shuts her eyes, taking in a deep, steady breath.
 
 **Noire:** Aqua.
 
-Aqua1985
-
-Aqua1985
+Aqua 1985
 
 Noire's Set
 
@@ -1299,9 +1289,7 @@ Award Ceremony
 
 **Award Presenter:** Noire—Where Shadows Walk! Congratulations!
 
-Gold1988
-
-Gold1988
+Gold 1988
 
 Office
 
@@ -1487,7 +1475,7 @@ The runway blurs beneath the plane as it speeds up, and after a fleeting moment 
 <!-- reader-body:start -->
 Mommy, watch me! I can ride a horse now!
 
-**Young Noire:**Mommy, watch me! I can ride a horse now!
+**Young Noire:** Mommy, watch me! I can ride a horse now!
 
 Hmm, how wonderful.
 
@@ -1499,7 +1487,7 @@ Hmm, how wonderful.
 
 Look, Mommy, I drew this.
 
-**Young Noire:**Look, Mommy, I drew this.
+**Young Noire:** Look, Mommy, I drew this.
 
 That's lovely, my sweet girl.
 
@@ -1511,7 +1499,7 @@ That's lovely, my sweet girl.
 
 Mommy, can you listen to the new song I learned on the piano?
 
-**Young Noire:**Mommy, can you listen to the new song I learned on the piano?
+**Young Noire:** Mommy, can you listen to the new song I learned on the piano?
 
 You go ahead and play it, darling. Mommy still needs to finish chatting with your uncles and aunties. I'll be sitting in the living room listening.
 
@@ -1525,7 +1513,7 @@ You go ahead and play it, darling. Mommy still needs to finish chatting with you
 
 Mommy, I heard the aunties chatting in the kitchen this morning.
 
-**Young Noire:**Mommy, I heard the aunties chatting in the kitchen this morning.
+**Young Noire:** Mommy, I heard the aunties chatting in the kitchen this morning.
 
 Yes?
 
@@ -1535,7 +1523,7 @@ Yes?
 
 They said ...
 
-**Young Noire:**They said ...
+**Young Noire:** They said ...
 
 **Young Noire:** Her eyes were fixed on me, as if silently urging me to keep talking.
 
@@ -1545,7 +1533,7 @@ They said ...
 
 Auntie said that ... she lost her purse on her way to buy groceries this morning.
 
-**Young Noire:**Auntie said that ... she lost her purse on her way to buy groceries this morning.
+**Young Noire:** Auntie said that ... she lost her purse on her way to buy groceries this morning.
 
 Oh? And then?
 
@@ -1555,7 +1543,7 @@ Oh? And then?
 
 Auntie searched all along the way she'd walked, but in the end, she had to go to the police.
 
-**Young Noire:**Auntie searched all along the way she'd walked, but in the end, she had to go to the police.
+**Young Noire:** Auntie searched all along the way she'd walked, but in the end, she had to go to the police.
 
 Hmm ...
 
@@ -1567,13 +1555,13 @@ Hmm ...
 
 But then ...!
 
-**Young Noire:**But then ...!
+**Young Noire:** But then ...!
 
 **Young Noire:** I spoke louder to hold her attention. I had to think up something to change the course of the story.
 
 She saw that her pocket was torn, and her wallet slipped into the lining of her pants.
 
-**Young Noire:**She saw that her pocket was torn, and her wallet slipped into the lining of her pants.
+**Young Noire:** She saw that her pocket was torn, and her wallet slipped into the lining of her pants.
 
 So the wallet wasn't lost after all?
 
@@ -1583,7 +1571,7 @@ So the wallet wasn't lost after all?
 
 But ... actually ... it was all just a dream I had last night.
 
-**Young Noire:**But ... actually ... it was all just a dream I had last night.
+**Young Noire:** But ... actually ... it was all just a dream I had last night.
 
 **Young Noire:** I made it all up. I made up a lie to get her attention and then made up another one to keep it.
 
@@ -1595,7 +1583,7 @@ Oh, next time, you should tell me that part of the story first.
 
 But if I had told you that first, how would I have managed to hold your attention?
 
-**Young Noire:**But if I had told you that first, how would I have managed to hold your attention?
+**Young Noire:** But if I had told you that first, how would I have managed to hold your attention?
 
 **Noire:** As she walked away, it was like she was stepping into a heavy fog formed by her other responsibilities. Where she wasn't only a mother—she was a businesswoman, a leader, a manager ...
 
@@ -1603,15 +1591,13 @@ But if I had told you that first, how would I have managed to hold your attentio
 
 It's the best color to complement all the others.
 
-**Young Noire:**It's the best color to complement all the others.
+**Young Noire:** It's the best color to complement all the others.
 
 **Young Noire:** Without the white, we wouldn't be able to see the red clearly.
 
 **Young Noire:** Shh ... She hasn't even figured it out herself yet.
 
-White1991
-
-White1991
+White 1991
 
 Film Studio
 

@@ -1089,7 +1089,7 @@ Nothing happens.
 
 **Semmelweis:** One last time.
 
-**Semmelweis:**Scarlatum!
+**Semmelweis:** Scarlatum!
 
 **Semmelweis:** ...
 

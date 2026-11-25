@@ -333,7 +333,7 @@ Flutterpage grabs Tooth Fairy's hand and drags her toward the heart of Cross Str
 
 Uluru Fever!
 
-Fun, food, and the unforgettable **Uluru!** Come one, come all—the Uluru Fair is now open! ------------------------------------- **Important notice: The "Champion of the Borough" voting has begun!**Head to the central square of the Uluru Fair, one vote per person. Vote now!**Announcement: The Mock Uluru Games are open to all!**Offering three main categories: shooting, racing, and ball games, consisting of a grand total of 7 challenges!Enjoy the thrill of sports and entertainment, all for just 6 pence! ------------------------------------- **Recommended venue: Victor's Cinema**The "Legendary Uluru Athletes" documentary series is now in theaters! ------------------------------------- **Don't miss out on Uluru Trivia Night, held every Monday, Wednesday, and Friday!**Winners will be awarded two tickets to a featured event! ------------------------------------- **Recommended booth: Puck's Fortune Telling**Match predictions and good luck charms await you, at Puck's Fortune Telling! -------------------------------------
+Fun, food, and the unforgettable **Uluru!** Come one, come all—the Uluru Fair is now open! ------------------------------------- **Important notice: The "Champion of the Borough" voting has begun!** Head to the central square of the Uluru Fair, one vote per person. Vote now! **Announcement: The Mock Uluru Games are open to all!** Offering three main categories: shooting, racing, and ball games, consisting of a grand total of 7 challenges! Enjoy the thrill of sports and entertainment, all for just 6 pence! ------------------------------------- **Recommended venue: Victor's Cinema** The "Legendary Uluru Athletes" documentary series is now in theaters! ------------------------------------- **Don't miss out on Uluru Trivia Night, held every Monday, Wednesday, and Friday!** Winners will be awarded two tickets to a featured event! ------------------------------------- **Recommended booth: Puck's Fortune Telling** Match predictions and good luck charms await you, at Puck's Fortune Telling! -------------------------------------
 
 - Description：This brochure is issued to all Uluru Qualifier participants and enthusiasts. Full details are found on the back.
 - Action：Turn Over
@@ -838,7 +838,7 @@ Brimley, fleeing pursuit, eventually finds his way back.
 
 **Guide me rightly, that I may not stray.**
 
-**Willow:****Through misty woods, on paths concealed by haze.**
+**Willow:** **Through misty woods, on paths concealed by haze.**
 
 **He thrice died and thrice was born, in ancient days.**
 
@@ -848,9 +848,9 @@ By the willow fire, a witch is dancing in the ritual ground.
 
 She performs her dance alone. Only the shadows cast by the flames accompany her.
 
-**Willow:****Flowers bear fruit, and beasts give offspring's way.**
+**Willow:** **Flowers bear fruit, and beasts give offspring's way.**
 
-**Willow:****With eyes of fire, pierce through the cloudy maze!**
+**Willow:** **With eyes of fire, pierce through the cloudy maze!**
 
 **Willow:** Ugh! Failed again. Damn it!
 
@@ -978,7 +978,7 @@ Flutterpage is flung out the window and carried away like a kite with a broken s
 
 **Flutterpage:** Whoaa!
 
-**Willow:****Don't you never take another step into my house, never!**
+**Willow:** **Don't you never take another step into my house, never!**
 
 \*crash\*
 
@@ -1957,7 +1957,7 @@ Tooth Fairy takes Flutterpage's hand, and, as they leave the room, the old house
 
 Life's Essentials
 
-Lubricating Ointment Snail mucus, acacia sap (scraped), swiftlet saliva, vulture feather powder. —Vulture feather powder is hard to come by, and from the looks of it, it is not an essential ingredient. —Swiftlet saliva, however, is absolutely required. —Lanolin snails yield the best results. Sleeping Draught Hairy agrimony and elm leaves (crushed), oranges (juiced), winter bear's paw (fur dried in blue twilight), coarse salt. —Remember to buy hairy agrimony seedsBought. —Too much salt drastically affects both the taste and sleep induction. Special Pain Relief Balm Olive oil, Ead's tongue (soaked in cold water), petrified resin (softened), white crystal, dragon bone powder —Dragon bone? For everyday use?! Of course I can afford that! I'll just trade up **fifty bottles** of regular balm for **one meager ounce** of dragon bone powder, why bloody not? It is such a bargain! —Alternative substitute: ... Or, just use fifty bottles of regular balm and endure the pain until it subsides.
+Lubricating Ointment Snail mucus, acacia sap (scraped), swiftlet saliva, vulture feather powder. —Vulture feather powder is hard to come by, and from the looks of it, it is not an essential ingredient. —Swiftlet saliva, however, is absolutely required. —Lanolin snails yield the best results. Sleeping Draught Hairy agrimony and elm leaves (crushed), oranges (juiced), winter bear's paw (fur dried in blue twilight), coarse salt. —Remember to buy hairy agrimony seeds Bought. —Too much salt drastically affects both the taste and sleep induction. Special Pain Relief Balm Olive oil, Ead's tongue (soaked in cold water), petrified resin (softened), white crystal, dragon bone powder —Dragon bone? For everyday use?! Of course I can afford that! I'll just trade up **fifty bottles** of regular balm for **one meager ounce** of dragon bone powder, why bloody not? It is such a bargain! —Alternative substitute: ... Or, just use fifty bottles of regular balm and endure the pain until it subsides.
 
 - Description：A compilation of potion recipes from popular books such as the Common Household Potions Handbook and Anyone Can Be An Alchemist: Simple and Easy Brewing Techniques.
 - Action：Read List
@@ -2231,11 +2231,11 @@ The little girl's face blushes red.
 
 Old House, Cross Street
 
-**Willow:****Sulis, Sulis, all life's offerings I bring, as sacrifice to you, from the growing spring.**
+**Willow:** **Sulis, Sulis, all life's offerings I bring, as sacrifice to you, from the growing spring.**
 
-**Willow:****The light will sprout within the world's egg lay.**
+**Willow:** **The light will sprout within the world's egg lay.**
 
-**Willow:****Your endless quest brings parents' joyful day.**
+**Willow:** **Your endless quest brings parents' joyful day.**
 
 **Flutterpage:** Parents' joyful day ...
 
@@ -2548,7 +2548,7 @@ Calm, steady footsteps grow nearer, and a large hand tousles the little girl's h
 
 "Our Uluru Games" Cast Spotlight
 
-**Exclusive Interview: Meet the Floor Ritual Prodigy****Charlotte O'Hagan: "Claiming My Sunshine"** In a stunning performance at the Uluru Games' Floor Ritual event, 11-year-old Charlotte O'Hagan claimed the gold medal with her original move, the "Geranium Dance." This victory not only crowned her this year's champion but also broke a two-century-old record, making her the youngest winner in the event's documented history, with the previous record being set in 1802 by "Greenfingered Anna," who was 13 at the time. The O'Hagan lineage is steeped in the traditions of ritualistic Arcane Skills. Charlotte's great-grandfather, Douglas O'Hagan, who famously once entered the hidden stone gate at the Giant's Causeway, and authored the arcanist text The Gate of All Gates: Rituals of Unlocking and Summoning. Her grandmother, Elizabeth Baker O'Hagan, earned a bronze medal in the same Floor Ritual event back in 1866 ... ...... Charlotte shared her thoughts and experiences in a post-competition interview (See page 4 for the full interview).
+**Exclusive Interview: Meet the Floor Ritual Prodigy** **Charlotte O'Hagan: "Claiming My Sunshine"** In a stunning performance at the Uluru Games' Floor Ritual event, 11-year-old Charlotte O'Hagan claimed the gold medal with her original move, the "Geranium Dance." This victory not only crowned her this year's champion but also broke a two-century-old record, making her the youngest winner in the event's documented history, with the previous record being set in 1802 by "Greenfingered Anna," who was 13 at the time. The O'Hagan lineage is steeped in the traditions of ritualistic Arcane Skills. Charlotte's great-grandfather, Douglas O'Hagan, who famously once entered the hidden stone gate at the Giant's Causeway, and authored the arcanist text The Gate of All Gates: Rituals of Unlocking and Summoning. Her grandmother, Elizabeth Baker O'Hagan, earned a bronze medal in the same Floor Ritual event back in 1866 ... ...... Charlotte shared her thoughts and experiences in a post-competition interview (See page 4 for the full interview).
 
 - Description：An aged, delicate newspaper—a remnant of the distant and worn past.
 - Action：Revisit the Past
@@ -2584,7 +2584,7 @@ Dangling in midair, Willow wipes the beads of sweat from her face.
 
 \*drip-drip-drip\*
 
-**Willow:****With a heart that's pure, and a body lean, to the hunt I go, through forest green.**
+**Willow:** **With a heart that's pure, and a body lean, to the hunt I go, through forest green.**
 
 Her wand unexpectedly slips from her left hand and plummets to the floor.
 
@@ -2592,7 +2592,7 @@ Her wand unexpectedly slips from her left hand and plummets to the floor.
 
 **Willow:** The movement's correct. First spin, then run the geranium over the shoulder, let it slide down the back, and as it falls to the ground, step on it to hop into the air, then ...
 
-**Willow:****Sulis, Sulis, all life's offerings I bring, as sacrifice to you, from the growing spring ...**
+**Willow:** **Sulis, Sulis, all life's offerings I bring, as sacrifice to you, from the growing spring ...**
 
 **Willow:** Ack! This is all wrong!
 
@@ -2602,7 +2602,7 @@ She halts, wrinkling her brow.
 
 **Willow:** Alright, let's try this again.
 
-**Willow:****The sprouting light within the world's egg lays ...**
+**Willow:** **The sprouting light within the world's egg lays ...**
 
 \*thud\* She gracefully descends from the air, her mechanical prosthesis squeaking softly as she lands.
 
@@ -2618,7 +2618,7 @@ She halts, wrinkling her brow.
 
 \*drip-drip-drip\*
 
-**Willow:****Your endless quest brings parents' joyful days.**
+**Willow:** **Your endless quest brings parents' joyful days.**
 
 \*thud\* Her body has collapsed on this rotted wooden floor countless times today, and with the setting sun, each fall feels heavier than the last.
 
@@ -4586,7 +4586,7 @@ Caroline starts to dance. Receiving her channeled energy, the didgeriwood produc
 
 Uluru London Qualifiers Athlete List (Partial)
 
-**Note: This list has undergone a second review.** Winged Key Archery **\[Confirmed\]** - Peter Thomas (Kent) (Note: Event participants confirmed to be fewer than three. Permitted to continue as per regulations).**\[Withdrew\]** - Victoria White (Yorkshire) (Note: Found 12 days after having gone lost her direction in the smog during a London training session. Exhibits a severe screaming reaction to Winged Keys. Withdrew for safety reasons).**\[Withdrew\]** - Stanley Smith (London) (Note: Unable to make contact. Recorded as withdrawn). (Note: Found on the Paris qualifiers' final participant list. Verified as the same individual). ...... 1500m Weighted Run (15 kg Division) **\[Withdrew\]** - Bluebell Dove (Kent) (Note: Both entered and withdrew under an alias).**\[Withdrew\]\[Confirmed\]** - Charles Scott (Gwynedd) (Note: Originally in the 25 kg division. After withdrawing, re-registered for 15 kg division after low participation count was observed).**\[Confirmed\]** - Lily Morris (Glasgow) (Note: Honorary Scottish Shetland Pony Club member. Decided to continue competing after failing to transport her pony out of London in the middle of this fog). ... Floor Ritual **\[Confirmed\]** - Caroline Bartley (South Yorkshire) (Note: Qualified directly for the Uluru finals).**\[Withdrew\]\[Confirmed\]** - Anna Baldwin (Essex) (Note: Initially withdrew due to Caroline Bartley's entry. Rejoined after learning Bartley already qualified for finals).**\[Confirmed\]** - Willow (London) (Note: Registered under an alias). ...
+**Note: This list has undergone a second review.** Winged Key Archery **\[Confirmed\]** - Peter Thomas (Kent) (Note: Event participants confirmed to be fewer than three. Permitted to continue as per regulations). **\[Withdrew\]** - Victoria White (Yorkshire) (Note: Found 12 days after having gone lost her direction in the smog during a London training session. Exhibits a severe screaming reaction to Winged Keys. Withdrew for safety reasons). **\[Withdrew\]** - Stanley Smith (London) (Note: Unable to make contact. Recorded as withdrawn). (Note: Found on the Paris qualifiers' final participant list. Verified as the same individual). ...... 1500m Weighted Run (15 kg Division) **\[Withdrew\]** - Bluebell Dove (Kent) (Note: Both entered and withdrew under an alias). **\[Withdrew\]\[Confirmed\]** - Charles Scott (Gwynedd) (Note: Originally in the 25 kg division. After withdrawing, re-registered for 15 kg division after low participation count was observed). **\[Confirmed\]** - Lily Morris (Glasgow) (Note: Honorary Scottish Shetland Pony Club member. Decided to continue competing after failing to transport her pony out of London in the middle of this fog). ... Floor Ritual **\[Confirmed\]** - Caroline Bartley (South Yorkshire) (Note: Qualified directly for the Uluru finals). **\[Withdrew\]\[Confirmed\]** - Anna Baldwin (Essex) (Note: Initially withdrew due to Caroline Bartley's entry. Rejoined after learning Bartley already qualified for finals). **\[Confirmed\]** - Willow (London) (Note: Registered under an alias). ...
 
 - Description：No matter what comes after, these unprecedented qualifiers have already left a lasting impression on everyone.
 - Action：View the List
@@ -4600,8 +4600,6 @@ Uluru London Qualifiers Athlete List (Partial)
 > ... Lifted up, by the hand of your former self.
 
 <!-- reader-body:start -->
-Day 1
-
 Day 1
 
 Practice Room
@@ -4638,8 +4636,6 @@ Practice Room
 
 Day 7
 
-Day 7
-
 **Charlotte:** \*weep\* Ms. Raven, that hurts.
 
 **Coach Raven:** The path of pilgrimage is full of thorns. It offers no shortcuts. You must make your way, inch by inch.
@@ -4661,8 +4657,6 @@ Day 7
 **Coach Raven:** The tighter, the better!
 
 **Charlotte:** Yes, Miss ... Ah!
-
-Day 93
 
 Day 93
 
@@ -4695,8 +4689,6 @@ She traces a path from Charlotte's head to her toes with her finger.
 **Charlotte:** No.
 
 **Coach Raven:** Then what are you waiting for? Begin.
-
-Day 569
 
 Day 569
 
@@ -4884,19 +4876,19 @@ Willow strikes her beginning pose, a black swan in the smog, and the didgeriwood
 
 Willow: Palest yellow turns to godly light ...Willow: The sun births shadows, the moon shines bright!Willow: Lugh, reborn from dark's embrace, I walk your path, in sacred space.Willow: Life's end is death, but bones to life ascend!Willow: Lugh, before me, from underworld I wend.Willow: Lugh, gaze on me, I rise from shadows dark.Willow: Lugh, heed me, your power impart, as you are me, and I your counterpart!Spectator I: The smog ... It's clearing!Spectator III: Everyone, come back! The Games are on again!Spectator I: There's something there! There in the smog!Black Fog: \*roar\*
 
-**Willow:****Palest yellow turns to godly light ...**
+**Willow:** **Palest yellow turns to godly light ...**
 
-**Willow:****The sun births shadows, the moon shines bright!**
+**Willow:** **The sun births shadows, the moon shines bright!**
 
-**Willow:****Lugh, reborn from dark's embrace, I walk your path, in sacred space.**
+**Willow:** **Lugh, reborn from dark's embrace, I walk your path, in sacred space.**
 
-**Willow:****Life's end is death, but bones to life ascend!**
+**Willow:** **Life's end is death, but bones to life ascend!**
 
-**Willow:****Lugh, before me, from underworld I wend.**
+**Willow:** **Lugh, before me, from underworld I wend.**
 
-**Willow:****Lugh, gaze on me, I rise from shadows dark.**
+**Willow:** **Lugh, gaze on me, I rise from shadows dark.**
 
-**Willow:****Lugh, heed me, your power impart, as you are me, and I your counterpart!**
+**Willow:** **Lugh, heed me, your power impart, as you are me, and I your counterpart!**
 
 **Spectator I:** The smog ... It's clearing!
 

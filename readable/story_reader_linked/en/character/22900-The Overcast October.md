@@ -1070,12 +1070,6 @@ Please accept our deepest greetings and well-wishes.
 
 I hope you can look past the nasty nicknames we gave you. I am still your most loyal servant.
 
-Dear Mr. President,
-
-Please accept our deepest greetings and well-wishes.
-
-I hope you can look past the nasty nicknames we gave you. I am still your most loyal servant.
-
 **Old Quitéria:** Nala has some business today, so I'll be leading the poetry reading.
 
 A stir runs through the gathered elders.
@@ -1099,14 +1093,6 @@ Old Quitéria starts the poetry to stop the chatter, and the elders have no choi
 "Pitiful man and pitiful beast, together dwelling in this ravine of life.
 
 Sorrowful freedom binds you, mutating you into a beast."
-
-"Pitiful man and pitiful beast, together dwelling in this ravine of life.
-
-Sorrowful freedom binds you, mutating you into a beast."
-
-"Friend, oh friend, kisses and caresses, when did their faces change?
-
-Family, oh family, the warm bonfire turns into a man-eating demon."
 
 "Friend, oh friend, kisses and caresses, when did their faces change?
 
@@ -1678,21 +1664,21 @@ The procession moves from the home toward the square, with more and more people 
 
 Nala leads the line of white geese at the front, humming softly.
 
-**Anjo Nala:**At the same crossroad
+**Anjo Nala:** At the same crossroad
 
-**Anjo Nala:**When the warm days grow cold
+**Anjo Nala:** When the warm days grow cold
 
-**Anjo Nala:**Leaves are falling down
+**Anjo Nala:** Leaves are falling down
 
-**Anjo Nala:**To the ground
+**Anjo Nala:** To the ground
 
 People in the procession begin singing along quietly.
 
-**Anjo Nala:**Fire can't burn down
+**Anjo Nala:** Fire can't burn down
 
-**Anjo Nala:**My past into ashes
+**Anjo Nala:** My past into ashes
 
-**Anjo Nala:**By now
+**Anjo Nala:** By now
 
 More and more join in, their voices growing louder.
 
@@ -2234,8 +2220,6 @@ The colonel lies in the mud, reading the letter, pain searing through his body i
 <!-- reader-body:start -->
 Ten years later
 
-Ten years later
-
 ♪♫♪Fire cannot turn the past to ashes, even now.♪♫♪
 
 Even now.
@@ -2329,8 +2313,6 @@ But patience brings a reward, a memory of joy and laughter.
 **Old Quitéria:** She always knows what we need.
 
 No one pries further.
-
-Quitéria …
 
 Quitéria …
 
@@ -2488,23 +2470,11 @@ The future's.
 
 Empty.
 
-Empty.
-
-Empty?
-
 Empty?
 
 Empty.
 
-Empty.
-
 Empty, empty—empty!
-
-Empty, empty—empty!
-
-Empty.
-
-Empty.
 
 Empty.
 

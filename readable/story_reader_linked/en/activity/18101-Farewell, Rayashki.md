@@ -423,7 +423,7 @@ COMBAT:
 
 ***
 
-**Windsong:**Природа это числа и черты.
+**Windsong:** Природа это числа и черты.
 
 **Avgust:** Umm?
 
@@ -1885,7 +1885,7 @@ Windsong, struck by her sudden revelation, fixes on the Kikituk's head.
 
 Beneath its tufts of plush fur lie well-hidden ears of a deeper color.
 
-**Windsong:**Природа это числа и черты.
+**Windsong:** Природа это числа и черты.
 
 After a brief incantation, lines converge in a beam that hits precisely on its ear.
 
@@ -2457,9 +2457,9 @@ She surveys the expanse of boundless snow.
 
 **Windsong:** Before all that, I need to clear out this place.
 
-**Windsong:**Природа это числа и черты.
+**Windsong:** Природа это числа и черты.
 
-**Windsong:**Природа это мозаика цветов.
+**Windsong:** Природа это мозаика цветов.
 
 The soil churns in slurry waves along the seashore, a mix of mud, snow, and stone.
 
@@ -2859,7 +2859,7 @@ She lifts her head proudly, looking out in the direction of the crowd.
 
 **Windsong:** Their voice should be heard.
 
-**Windsong:**Природа это числа и черты.
+**Windsong:** Природа это числа и черты.
 
 The soil and snow under her feet becomes imbued with new life, rising up around her.
 
@@ -3685,8 +3685,6 @@ They outshine the twinkling snow.
 <!-- reader-body:start -->
 Days Later
 
-Days Later
-
 Children's Square, Rayashki
 
 **Nina:** Ms. Vila, they've been doing strange things.
@@ -3929,41 +3927,41 @@ Thanks to your help, everyone is one step closer to achieving their goal and tra
 
 Walk faster
 
-Resident I:We should take these components to the appropriate comrade. With my years of experience in mining, I can assure you that they are still usable and will be put to good use.
+Resident I: We should take these components to the appropriate comrade. With my years of experience in mining, I can assure you that they are still usable and will be put to good use.
 
-Resident I:Maybe they contain traces of runium, explaining their pristine appearance. In these times of steel shortages, every little contribution counts ...
+Resident I: Maybe they contain traces of runium, explaining their pristine appearance. In these times of steel shortages, every little contribution counts ...
 
-Resident II:I imagine Comrade Vila is with the children right now, making sure they don't miss their lessons.
+Resident II: I imagine Comrade Vila is with the children right now, making sure they don't miss their lessons.
 
-Resident II:Could it be that the miners have returned to the abandoned mine? Maybe we should take the shorter route to the hotel and let Comrade Evgeni investigate.
+Resident II: Could it be that the miners have returned to the abandoned mine? Maybe we should take the shorter route to the hotel and let Comrade Evgeni investigate.
 
-Resident I:Alright, let's do that.
-
-...
-
-Resident I:Shh, see those people walking in front of the hotel? Are they from Zeno? Let's not talk about them behind their backs.
-
-Resident II:Yeah, I see them. Isn't Comrade Evgeni negotiating with Zeno? They must be looking for him.
-
-Resident I:They left. It looks like Comrade Evgeni isn't there. We'll have to come back later.
-
-Resident II:Tomorrow or the day after, perhaps.
+Resident I: Alright, let's do that.
 
 ...
 
-Resident II:Honestly, this is not the way I want to leave this town.
+Resident I: Shh, see those people walking in front of the hotel? Are they from Zeno? Let's not talk about them behind their backs.
 
-Resident I:Ugh, I still have the scars from shoveling snow on my legs, and we just fixed the windows at home. Who wants to leave just like that?
+Resident II: Yeah, I see them. Isn't Comrade Evgeni negotiating with Zeno? They must be looking for him.
 
-Resident II:But what Comrade Evgeni said was reasonable, and he is always truthful ...
+Resident I: They left. It looks like Comrade Evgeni isn't there. We'll have to come back later.
 
-Resident I:You're afraid he'll hear you! We may be close to the meeting room, but—
+Resident II: Tomorrow or the day after, perhaps.
 
-Resident II:I'm not afraid, or I wouldn't have made the decision to come here. We weren't afraid in the pioneer days either. What Comrade Vila says is exactly what everyone said back then.
+...
 
-Resident II:The town has been built, and we have been living here for a while now. Our days are not as hectic as they used to be, but it is invigorating to see the resurgence of the pioneer spirit after such a long time!
+Resident II: Honestly, this is not the way I want to leave this town.
 
-Resident I:Hey, alright! That's the attitude we need! If we walk a little faster, we can still make it back to work on time!
+Resident I: Ugh, I still have the scars from shoveling snow on my legs, and we just fixed the windows at home. Who wants to leave just like that?
+
+Resident II: But what Comrade Evgeni said was reasonable, and he is always truthful ...
+
+Resident I: You're afraid he'll hear you! We may be close to the meeting room, but—
+
+Resident II: I'm not afraid, or I wouldn't have made the decision to come here. We weren't afraid in the pioneer days either. What Comrade Vila says is exactly what everyone said back then.
+
+Resident II: The town has been built, and we have been living here for a while now. Our days are not as hectic as they used to be, but it is invigorating to see the resurgence of the pioneer spirit after such a long time!
+
+Resident I: Hey, alright! That's the attitude we need! If we walk a little faster, we can still make it back to work on time!
 
 - Description：Walk faster
 
@@ -4229,31 +4227,31 @@ Evgeni looks up with a complex expression.
 
 Point of Divergence
 
-Bertolt:Hello, gentlemen.
+Bertolt: Hello, gentlemen.
 
-Resident I:Hello, comrade of Zeno.
+Resident I: Hello, comrade of Zeno.
 
-Resident II:Comrade.
+Resident II: Comrade.
 
-Resident II:If you're here to see Comrade Evgeni, we can wait a little. Or is there something else important you'd like to discuss?
+Resident II: If you're here to see Comrade Evgeni, we can wait a little. Or is there something else important you'd like to discuss?
 
-Bertolt:We talked, and Ms. Windsong was there.
+Bertolt: We talked, and Ms. Windsong was there.
 
-Resident I:Comrade Evgeni is doing what's best for everyone, we all know that. But I'll tell you, I personally don't want to leave this place. Even if he ...
+Resident I: Comrade Evgeni is doing what's best for everyone, we all know that. But I'll tell you, I personally don't want to leave this place. Even if he ...
 
-Bertolt:No, the lady turned down my proposal. And Comrade Evgeni didn't seem too invested in it either.
+Bertolt: No, the lady turned down my proposal. And Comrade Evgeni didn't seem too invested in it either.
 
-Bertolt:Isn't Zeno's help good news for all of you?
+Bertolt: Isn't Zeno's help good news for all of you?
 
-Bertolt:I can't comprehend the reasoning behind rejecting an abundance of food, a suitable climate, and comfortable housing.
+Bertolt: I can't comprehend the reasoning behind rejecting an abundance of food, a suitable climate, and comfortable housing.
 
-Resident I:It's not easy to leave something you've built with your own hands, comrade. I doubt you've ever experienced living in a home you built yourself, let alone living in this way!
+Resident I: It's not easy to leave something you've built with your own hands, comrade. I doubt you've ever experienced living in a home you built yourself, let alone living in this way!
 
-Resident II:Chances are you have never even touched freshly mined ore in your life!
+Resident II: Chances are you have never even touched freshly mined ore in your life!
 
-Bertolt:That's true, gentlemen. But why do you insist on doing everything yourself?
+Bertolt: That's true, gentlemen. But why do you insist on doing everything yourself?
 
-Bertolt:It seems that our conversation has come to an end. I will stay here until Evgeni arrives and gives an answer, which should be soon.
+Bertolt: It seems that our conversation has come to an end. I will stay here until Evgeni arrives and gives an answer, which should be soon.
 
 - Description：Point of Divergence
 
@@ -4278,27 +4276,27 @@ Snow covers all, including your grumpy neighbors.
 
 The Taste of Yesterday
 
-Patrik:Identical long tables, matching chairs, and potatoes, potatoes, and more potatoes.
+Patrik: Identical long tables, matching chairs, and potatoes, potatoes, and more potatoes.
 
-Patrik:In the past, we had access to tin cans and even jam and flour. It was a challenge to transport supplies, but fortunately the weather was cold enough that nothing spoiled during the trip. Time was not an issue in those days, we had an abundance of it.
+Patrik: In the past, we had access to tin cans and even jam and flour. It was a challenge to transport supplies, but fortunately the weather was cold enough that nothing spoiled during the trip. Time was not an issue in those days, we had an abundance of it.
 
-Patrik:The little ones used to come and ask for Alenka. While we couldn't indulge their every whim, a treat now and then was fine. Being too strict does no one any good.
+Patrik: The little ones used to come and ask for Alenka. While we couldn't indulge their every whim, a treat now and then was fine. Being too strict does no one any good.
 
-Patrik:Had I known the true value of Alenka, I would have been more careful about giving them away. Maybe I could have kept a few. Oh well, too late to regret now.
+Patrik: Had I known the true value of Alenka, I would have been more careful about giving them away. Maybe I could have kept a few. Oh well, too late to regret now.
 
-Patrik:At first, we gathered around a single table to portion out the canned food, meticulously sopping up every last drop of broth. But now, there are more tables, but a lot less variety in our meals. And it's not like we can go hunting for critters to supplement our meals.
+Patrik: At first, we gathered around a single table to portion out the canned food, meticulously sopping up every last drop of broth. But now, there are more tables, but a lot less variety in our meals. And it's not like we can go hunting for critters to supplement our meals.
 
-Patrik:Why can't people live off ore like they do?
+Patrik: Why can't people live off ore like they do?
 
-Patrik:I have an urge to give a detailed account of my past and present experiences because Rayashki is exceptional; it is the most remarkable town I've encountered, although my travels have been limited.
+Patrik: I have an urge to give a detailed account of my past and present experiences because Rayashki is exceptional; it is the most remarkable town I've encountered, although my travels have been limited.
 
-Patrik:But I'm worried that it will one day disappear.
+Patrik: But I'm worried that it will one day disappear.
 
-Patrik:That's for sure. If Comrade Evgeni agrees to Zeno's proposal, this place will soon be a land of snow again. The factories, the machines, everything will be covered with snow, just as it was when we first arrived ...
+Patrik: That's for sure. If Comrade Evgeni agrees to Zeno's proposal, this place will soon be a land of snow again. The factories, the machines, everything will be covered with snow, just as it was when we first arrived ...
 
-Patrik:I have to remember to write down all the details in case the kids ask me. I want to be able to tell them about everything that disappeared. Of course, it's not going to be written down in any textbooks ...
+Patrik: I have to remember to write down all the details in case the kids ask me. I want to be able to tell them about everything that disappeared. Of course, it's not going to be written down in any textbooks ...
 
-Patrik:There are countless unsung heroes in Rayashki, a place filled with ordinary people just trying to make ends meet. That's the reality of our lives here.
+Patrik: There are countless unsung heroes in Rayashki, a place filled with ordinary people just trying to make ends meet. That's the reality of our lives here.
 
 - Description：The Taste of Yesterday
 
@@ -4703,7 +4701,7 @@ Avgust: Wow, sea swallow, our brave friend!Evgeni: Comrades, I want you to know 
 
 **Evgeni:** Seize the opportunity, Vila, Windsong, my comrades!
 
-**Windsong:**Природа это числа и черты.
+**Windsong:** Природа это числа и черты.
 
 The trails of the old machines wore deep into the frozen ground, forming a raised pathway that led up and away from the scene.
 
@@ -5117,19 +5115,19 @@ Until one, and then many, trembling hands rise triumphantly into the sky.
 
 A Heartfelt Legacy
 
-Knut:You're here, Comrade Vila.
+Knut: You're here, Comrade Vila.
 
-Vila:Comrade Windsong and Comrade Raisa helped me take the children home; it took some time.
+Vila: Comrade Windsong and Comrade Raisa helped me take the children home; it took some time.
 
-Vila:What did you find?
+Vila: What did you find?
 
-Knut:Comrade Evgeni once mentioned that he kept some things in the cabinet in the meeting room.
+Knut: Comrade Evgeni once mentioned that he kept some things in the cabinet in the meeting room.
 
-Knut:He said to take them out when the time was right.
+Knut: He said to take them out when the time was right.
 
-Knut:...
+Knut: ...
 
-Knut:Here. This is all of it.
+Knut: Here. This is all of it.
 
 - Description：A Heartfelt Legacy
 
@@ -5167,29 +5165,29 @@ Your familiar neighbors reluctantly back away from the ore.
 
 Needles and Loaves
 
-Raisa:Comrade Vila frequents this place, always looking great in her poneva dress.
+Raisa: Comrade Vila frequents this place, always looking great in her poneva dress.
 
-Raisa:I taught her how to sew, and other comrades would bring piles of torn coats and socks for us to mend. This is something I have always done.
+Raisa: I taught her how to sew, and other comrades would bring piles of torn coats and socks for us to mend. This is something I have always done.
 
-Raisa:No matter how catchy our slogans are, we still need clothes to wear and bread to eat, right? The rest is not within my realm of concern.
+Raisa: No matter how catchy our slogans are, we still need clothes to wear and bread to eat, right? The rest is not within my realm of concern.
 
-Raisa:Thankfully, Comrade Vila has been diligently caring for the children. My main worry was that once the teachers were gone, there would be no one to check on them and ensure they were looked after.
+Raisa: Thankfully, Comrade Vila has been diligently caring for the children. My main worry was that once the teachers were gone, there would be no one to check on them and ensure they were looked after.
 
-Raisa:Leaving children to run amok on the streets will not lead to their healthy development.
+Raisa: Leaving children to run amok on the streets will not lead to their healthy development.
 
-Raisa:I'm very grateful that she's here.
+Raisa: I'm very grateful that she's here.
 
-Raisa:...
+Raisa: ...
 
-Raisa:This place has become a second home to me. Despite the challenges and endless tasks, I feel content knowing that our efforts benefit our fellow comrades.
+Raisa: This place has become a second home to me. Despite the challenges and endless tasks, I feel content knowing that our efforts benefit our fellow comrades.
 
-Raisa:This experience is priceless to me. Anyone who has ever sat at a long table, sharing butter and conversation with people from different countries and working together to form friendships would understand the value of this way of life.
+Raisa: This experience is priceless to me. Anyone who has ever sat at a long table, sharing butter and conversation with people from different countries and working together to form friendships would understand the value of this way of life.
 
-Raisa:It has a powerful effect, my friend. It reminds me of dark bread - rough, but filling.
+Raisa: It has a powerful effect, my friend. It reminds me of dark bread - rough, but filling.
 
-Raisa:Whether it is Comrade Vila or ... Comrade Evgeni, I trust in their abilities. This town will not simply disappear.
+Raisa: Whether it is Comrade Vila or ... Comrade Evgeni, I trust in their abilities. This town will not simply disappear.
 
-Raisa:Rayashki will always be here, steadfast and unwavering.
+Raisa: Rayashki will always be here, steadfast and unwavering.
 
 - Description：Needles and Loaves
 
@@ -5382,19 +5380,19 @@ He shrugs and leaves without another word.
 
 Same as Before
 
-Elena:I've always believed it! We can dig through the frozen layers and find ways to survive here. Even when the harsh northern winds gnash their teeth, we can overcome any challenge!
+Elena: I've always believed it! We can dig through the frozen layers and find ways to survive here. Even when the harsh northern winds gnash their teeth, we can overcome any challenge!
 
-Elena:Zeno will have its own specific guidelines that I doubt I'll be able to adapt to, but just like this particular component, we are already refined and capable enough!
+Elena: Zeno will have its own specific guidelines that I doubt I'll be able to adapt to, but just like this particular component, we are already refined and capable enough!
 
-Elena:Yes, we can live on our own without relying on other leaders.
+Elena: Yes, we can live on our own without relying on other leaders.
 
-Elena:...
+Elena: ...
 
-Elena:Let me be honest, I am not much of a fighter. The only tools I know how to use are a wrench and pliers. But when push comes to shove, I will make do with whatever I can get my hands on. We need weapons to defend ourselves, and we are not afraid to use them.
+Elena: Let me be honest, I am not much of a fighter. The only tools I know how to use are a wrench and pliers. But when push comes to shove, I will make do with whatever I can get my hands on. We need weapons to defend ourselves, and we are not afraid to use them.
 
-Elena:It is crucial for children to explore the world. I came here at a young age, on a whim with a friend. We had no experience in shaping workpieces or handling raw materials. Now, my skills are highly valued in this community.
+Elena: It is crucial for children to explore the world. I came here at a young age, on a whim with a friend. We had no experience in shaping workpieces or handling raw materials. Now, my skills are highly valued in this community.
 
-Elena:We did not come to Rayashki to have fun. They've got it all wrong.
+Elena: We did not come to Rayashki to have fun. They've got it all wrong.
 
 - Description：Same as Before
 
@@ -5680,23 +5678,23 @@ In the boundless future ahead for Rayashki, these buildings will be like speckle
 
 An Instant
 
-Knut:I stumbled across some components. Lately, it seems like everyone is looking for them in their spare time. These little things can definitely come in handy.
+Knut: I stumbled across some components. Lately, it seems like everyone is looking for them in their spare time. These little things can definitely come in handy.
 
-Knut:The little thing was hidden just behind the base of the statue. It seemed that our resilient bear had found a new home here. The old statue had to be moved to make way for it, but its base remained. I suspected it had left some of its components behind.
+Knut: The little thing was hidden just behind the base of the statue. It seemed that our resilient bear had found a new home here. The old statue had to be moved to make way for it, but its base remained. I suspected it had left some of its components behind.
 
-Knut:Comrade Evgeni ... he did not notice the changes in Rayashki, but change is inevitable and ongoing. He was still holding onto memories of when things were tough and rough.
+Knut: Comrade Evgeni ... he did not notice the changes in Rayashki, but change is inevitable and ongoing. He was still holding onto memories of when things were tough and rough.
 
-Knut:In those days, this square didn't even exist. We painstakingly dug it out with shovels and carried each stone ourselves.
+Knut: In those days, this square didn't even exist. We painstakingly dug it out with shovels and carried each stone ourselves.
 
-Knut:No one expected Rayashki to end up so beautiful. We were never ones for making plans or dreaming big; we simply rolled up our sleeves and got to work.
+Knut: No one expected Rayashki to end up so beautiful. We were never ones for making plans or dreaming big; we simply rolled up our sleeves and got to work.
 
-Knut:Now, Rayashki might change once more. What will it become? Everything is changing so fast. We have a pool and a school; it all seems to have been built in the blink of an eye.
+Knut: Now, Rayashki might change once more. What will it become? Everything is changing so fast. We have a pool and a school; it all seems to have been built in the blink of an eye.
 
-Knut:As soon as a project is completed, the difficulties and sacrifices made along the way are quickly forgotten. The immense sense of accomplishment makes us believe that all the hard work was worth it.
+Knut: As soon as a project is completed, the difficulties and sacrifices made along the way are quickly forgotten. The immense sense of accomplishment makes us believe that all the hard work was worth it.
 
-Knut:I don't want to leave. I'm afraid I'll change faster than this town did. Those who come back later feel like strangers themselves.
+Knut: I don't want to leave. I'm afraid I'll change faster than this town did. Those who come back later feel like strangers themselves.
 
-Knut:It's incredible, isn't it? How things can change in what feels like an instant ...
+Knut: It's incredible, isn't it? How things can change in what feels like an instant ...
 
 - Description：An Instant
 
@@ -5708,25 +5706,25 @@ Knut:It's incredible, isn't it? How things can change in what feels like an inst
 
 The Factory Spirit
 
-Adrian:Factories, ores, and Rayashki!
+Adrian: Factories, ores, and Rayashki!
 
-Adrian:To me, Rayashki seems almost like another name for Runium. Perhaps it is because I am the one responsible for sifting the ore.
+Adrian: To me, Rayashki seems almost like another name for Runium. Perhaps it is because I am the one responsible for sifting the ore.
 
-Adrian:While most people came here with grand ideals, I simply signed my name on the list without much thought. It wasn't long before I found myself stepping off the train and into this unfamiliar land. Fortunately, aside from the wild Critters roaming about and the stubborn terrain, life here has been relatively simple.
+Adrian: While most people came here with grand ideals, I simply signed my name on the list without much thought. It wasn't long before I found myself stepping off the train and into this unfamiliar land. Fortunately, aside from the wild Critters roaming about and the stubborn terrain, life here has been relatively simple.
 
-Adrian:Regardless, it's all laborious work. And I understand that even Critters have to eat and survive. I forgive them.
+Adrian: Regardless, it's all laborious work. And I understand that even Critters have to eat and survive. I forgive them.
 
-Adrian:But back to the here and now. The factory is finally complete, and we have surpassed our wildest expectations. These accomplishments are not gifts from some higher power, but of our own making!
+Adrian: But back to the here and now. The factory is finally complete, and we have surpassed our wildest expectations. These accomplishments are not gifts from some higher power, but of our own making!
 
-Adrian:These are true miracles, not bestowed by any divine entity but created by our own hard work and determination. Just take a look around!
+Adrian: These are true miracles, not bestowed by any divine entity but created by our own hard work and determination. Just take a look around!
 
-Adrian:There was a time when I felt nothing, just going through the motions of everyday life. But now I finally feel like I am making a difference. It may not be extraordinary, but it's more than most people achieve in their lives.
+Adrian: There was a time when I felt nothing, just going through the motions of everyday life. But now I finally feel like I am making a difference. It may not be extraordinary, but it's more than most people achieve in their lives.
 
-Adrian:Yes, I couldn't have done this alone. It's a rare opportunity to find others willing to work alongside you, swinging hammers and building something meaningful together.
+Adrian: Yes, I couldn't have done this alone. It's a rare opportunity to find others willing to work alongside you, swinging hammers and building something meaningful together.
 
-Adrian:I hope to turn our experiences here into a legend, like the stories of Comrade Evgeni. With a little exaggeration, of course. Young people need these legends to inspire them.
+Adrian: I hope to turn our experiences here into a legend, like the stories of Comrade Evgeni. With a little exaggeration, of course. Young people need these legends to inspire them.
 
-Adrian:So let's raise a glass to the new factory and all that we have accomplished here together!
+Adrian: So let's raise a glass to the new factory and all that we have accomplished here together!
 
 - Description：The Factory Spirit
 
@@ -5897,7 +5895,7 @@ Go to the factory and consult with the workers on ways to improve quality.
 
 Lost Export Plan Found at Port
 
-**Raw Coal:** Commonly used as a fuel for combustion. Suitable for heating and power generation. High priority for direct export (but can cause resource waste and air pollution). **Coal Gasification:** Can be converted into clean fuel gas for synthesis (related technology and facilities are expensive – consider collaborative production methods). **Coal Ash:** Produced from boiler combustion. Can be recycled for use in road construction. No need for export. **Coking Coal:** Important material for iron smelting (perhaps the ironworks could be rebuilt?). **In addition:** It is reported that there is technology to produce refined coal after it is washed, and there is a high demand for refined coal in the south. Should be prioritized. What is the source of this report? Who could have predicted that we would uncover a coal mine, or that we had been to the south?—Comrade Evgeni listed more than a dozen common uses and export directions for energy in his letter, and we found one that we could use.
+**Raw Coal:** Commonly used as a fuel for combustion. Suitable for heating and power generation. High priority for direct export (but can cause resource waste and air pollution). **Coal Gasification:** Can be converted into clean fuel gas for synthesis (related technology and facilities are expensive – consider collaborative production methods). **Coal Ash:** Produced from boiler combustion. Can be recycled for use in road construction. No need for export. **Coking Coal:** Important material for iron smelting (perhaps the ironworks could be rebuilt?). **In addition:** It is reported that there is technology to produce refined coal after it is washed, and there is a high demand for refined coal in the south. Should be prioritized. What is the source of this report? Who could have predicted that we would uncover a coal mine, or that we had been to the south? —Comrade Evgeni listed more than a dozen common uses and export directions for energy in his letter, and we found one that we could use.
 
 - Description：The writer must have been in a rush, leaving it to share space with crates and the cold wind.
 - Action：Open it
@@ -5925,7 +5923,7 @@ The silhouettes of the neighbors disappear into the depths of the mine.
 
 Miners' Code and Appendix
 
-**Part One: Standard Training** 1. Must complete safety knowledge training and pass a test before working. 2. Must be familiar with the site survey and operating procedures for the appropriate type of work. .... 9. Anyone under the age of 16 or over the age of 60 is absolutely prohibited from entering the mine. **Part Two: Practical Operations** 1. Arrive at the site on time for shift changes. 2. Check the safety of the site, the quantity and quality of materials, and remove any obstructions that may impede operations. .... 9. Prepare a written record of the mine's safety conditions prior to shift changes, and regularly update and review this record. **Part Three: Safety Instructions** 1. Must start engines according to standard procedures and perform reverse checks to ensure equipment reliability. 2. If abnormalities occur while operating winches, locomotives, or pickup vehicles, stop and investigate immediately. 3. Bring all necessary tools with you before entering the mine. Sharp tools must be carried in protective covers. ... 19. Fill out the logbook carefully and check it regularly. **Appendix - Index of Self-Manufacturable Components at the Factory** ... 17. Cross Slides (process temporarily missing) Comrade Evgeni extracted the method from the book. We have enough raw materials, approved for production. —I. I. NovikovIt's hard to make, but let's try anyway. —Bo. F. Braginskaya
+**Part One: Standard Training** 1. Must complete safety knowledge training and pass a test before working. 2. Must be familiar with the site survey and operating procedures for the appropriate type of work. .... 9. Anyone under the age of 16 or over the age of 60 is absolutely prohibited from entering the mine. **Part Two: Practical Operations** 1. Arrive at the site on time for shift changes. 2. Check the safety of the site, the quantity and quality of materials, and remove any obstructions that may impede operations. .... 9. Prepare a written record of the mine's safety conditions prior to shift changes, and regularly update and review this record. **Part Three: Safety Instructions** 1. Must start engines according to standard procedures and perform reverse checks to ensure equipment reliability. 2. If abnormalities occur while operating winches, locomotives, or pickup vehicles, stop and investigate immediately. 3. Bring all necessary tools with you before entering the mine. Sharp tools must be carried in protective covers. ... 19. Fill out the logbook carefully and check it regularly. **Appendix - Index of Self-Manufacturable Components at the Factory** ... 17. Cross Slides (process temporarily missing) Comrade Evgeni extracted the method from the book. We have enough raw materials, approved for production. —I. I. Novikov It's hard to make, but let's try anyway. —Bo. F. Braginskaya
 
 - Description：Plays a critical role in ensuring personal safety.
 - Action：Read Carefully
@@ -5951,47 +5949,47 @@ Everything is going smoothly, but it never hurts to be careful.
 
 Hey, Tomorrow!
 
-Illia:Kiril, it's time to get back to work! Please remind Bogina to come down from the forklift and stop playing Sudoku. We have to deliver the wood for reinforcing the mine roof by tonight.
+Illia: Kiril, it's time to get back to work! Please remind Bogina to come down from the forklift and stop playing Sudoku. We have to deliver the wood for reinforcing the mine roof by tonight.
 
-Illia:Oh, Knut! What brings you here? It's not yet time for the shift change.
+Illia: Oh, Knut! What brings you here? It's not yet time for the shift change.
 
-Knut:I'm not here for the shift change. I'm actually just dropping off some parts and a toolbox we found. Take a look, it's fully stocked.
+Knut: I'm not here for the shift change. I'm actually just dropping off some parts and a toolbox we found. Take a look, it's fully stocked.
 
-Knut:I couldn't help but notice Comrade Kiril standing off to the side, spinning in circles. It almost made me dizzy when I first arrived.
+Knut: I couldn't help but notice Comrade Kiril standing off to the side, spinning in circles. It almost made me dizzy when I first arrived.
 
-Illia:He's been acting like this since the lunch break started, while Bogina is engrossed in her usual game. I wonder what's going on with Kiril ...
+Illia: He's been acting like this since the lunch break started, while Bogina is engrossed in her usual game. I wonder what's going on with Kiril ...
 
-Kiril:Illia, you haven't had the chance to read Comrade Evgeni's letter, so you don't know.
+Kiril: Illia, you haven't had the chance to read Comrade Evgeni's letter, so you don't know.
 
-Knut:...
+Knut: ...
 
-Kiril:Looking at the stains on my hands from the coal dust, I can't help but think of his letter again. I find myself pacing back and forth, imagining how my comrades will lay me to rest when my time comes. It would be a great honor, but also ...
+Kiril: Looking at the stains on my hands from the coal dust, I can't help but think of his letter again. I find myself pacing back and forth, imagining how my comrades will lay me to rest when my time comes. It would be a great honor, but also ...
 
-Kiril:I can't help but feel that Comrade Evgeni deserved a different fate than this.
+Kiril: I can't help but feel that Comrade Evgeni deserved a different fate than this.
 
-Kiril:He did not deserve to end his journey in this place.
+Kiril: He did not deserve to end his journey in this place.
 
-Illia:Kiril ...
+Illia: Kiril ...
 
-???:Comrade Knut was the first to find the letter. Later we all took turns touching it, like passing around a flag, remember?
+???: Comrade Knut was the first to find the letter. Later we all took turns touching it, like passing around a flag, remember?
 
-???:You shouldn't talk like that to Illia, and you shouldn't think like that about comrade Evgeni.
+???: You shouldn't talk like that to Illia, and you shouldn't think like that about comrade Evgeni.
 
-Kiril:But you said the same thing earlier, Bogina.
+Kiril: But you said the same thing earlier, Bogina.
 
-Bogina:Yes, I said that. But I also said—
+Bogina: Yes, I said that. But I also said—
 
-Bogina:"Comrade Evgeni ended his journey here, but we must go on."
+Bogina: "Comrade Evgeni ended his journey here, but we must go on."
 
-Bogina:With only one square left to fill in the Sudoku, it's clear that this is the only way to go.
+Bogina: With only one square left to fill in the Sudoku, it's clear that this is the only way to go.
 
-Bogina:"Keep moving forward, to a better tomorrow."
+Bogina: "Keep moving forward, to a better tomorrow."
 
-Illia:This is not the end of our journey, Comrade Kiril.
+Illia: This is not the end of our journey, Comrade Kiril.
 
-Knut:Right ... I may not be good with words, but I wholeheartedly agree with comrade Bogina.
+Knut: Right ... I may not be good with words, but I wholeheartedly agree with comrade Bogina.
 
-Knut:This must have been Comrade Evgeni's true wish.
+Knut: This must have been Comrade Evgeni's true wish.
 
 - Description：Hey, Tomorrow!
 
@@ -6018,47 +6016,47 @@ To the town, she is a familiar figure. But to herself, everything is so drastica
 
 The Path Ahead
 
-Vila:It's good to see you again, Comrade Ulyana. I heard that you have returned.
+Vila: It's good to see you again, Comrade Ulyana. I heard that you have returned.
 
-Vila:Did you get a chance to go to see the children? They've been going on about you for so long.
+Vila: Did you get a chance to go to see the children? They've been going on about you for so long.
 
-Ulyana:It's been a while since I've been back to this town. How are the little ones doing? With you watching over them, I'm sure they're doing fine. You've always been such a caring teacher.
+Ulyana: It's been a while since I've been back to this town. How are the little ones doing? With you watching over them, I'm sure they're doing fine. You've always been such a caring teacher.
 
-Vila:But there is only so much that one person can do. It would be great to have another comrade to lend a hand.
+Vila: But there is only so much that one person can do. It would be great to have another comrade to lend a hand.
 
-Vila:So, will you stay this time, Comrade Ulyana?
+Vila: So, will you stay this time, Comrade Ulyana?
 
-Ulyana:Right. I wanted to talk to you about that ...
+Ulyana: Right. I wanted to talk to you about that ...
 
-Vila:We can take our time to talk, no need to rush. By the way, did little Vasya come with you?
+Vila: We can take our time to talk, no need to rush. By the way, did little Vasya come with you?
 
-Vila:Now that our supplies are fully stocked, we can take the children to the square tomorrow for some sketching ...
+Vila: Now that our supplies are fully stocked, we can take the children to the square tomorrow for some sketching ...
 
-Ulyana:It's just me this time, Comrade Vila.
+Ulyana: It's just me this time, Comrade Vila.
 
-Ulyana:...
+Ulyana: ...
 
-Ulyana:Back in Moscow, my thoughts kept returning to Rayashki. Those who have chosen to stay here are incredibly determined and tenacious. They are genuinely sincere and kind, but they are very stubborn in their beliefs. Does that make any sense?
+Ulyana: Back in Moscow, my thoughts kept returning to Rayashki. Those who have chosen to stay here are incredibly determined and tenacious. They are genuinely sincere and kind, but they are very stubborn in their beliefs. Does that make any sense?
 
-Ulyana:In Moscow, you don't have to worry about cold temperatures or lack of resources. If children need pencils, they can simply go to the nearest store and buy them.
+Ulyana: In Moscow, you don't have to worry about cold temperatures or lack of resources. If children need pencils, they can simply go to the nearest store and buy them.
 
-Vila:That sounds like a dream come true! We're doing everything we can to make Rayashki just that.
+Vila: That sounds like a dream come true! We're doing everything we can to make Rayashki just that.
 
-Ulyana:It was really beautiful, but when I sat next to Vasya's bed, when he was fighting his asthma, with the poplar fuzz in the air ... And then children's gravestones and coffins, so tiny and fragile, almost like toys ... I could hardly believe they were real.
+Ulyana: It was really beautiful, but when I sat next to Vasya's bed, when he was fighting his asthma, with the poplar fuzz in the air ... And then children's gravestones and coffins, so tiny and fragile, almost like toys ... I could hardly believe they were real.
 
-Ulyana:I clung to the hope that life would get better in Moscow. I believed that if I just endured and persevered a little longer, things would turn around.
+Ulyana: I clung to the hope that life would get better in Moscow. I believed that if I just endured and persevered a little longer, things would turn around.
 
-Ulyana:But that was not the way it turned out.
+Ulyana: But that was not the way it turned out.
 
-Vila:My sincerest condolences, Comrade Ulyana.
+Vila: My sincerest condolences, Comrade Ulyana.
 
-Ulyana:It's alright, I brought it up myself. When I was in the house in Moscow, I couldn't stop crying. But eventually I realized that I had to pull myself together and do something.
+Ulyana: It's alright, I brought it up myself. When I was in the house in Moscow, I couldn't stop crying. But eventually I realized that I had to pull myself together and do something.
 
-Ulyana:Is it still possible for me to reunite with everyone? Looking back, I regret leaving in such a selfish manner.
+Ulyana: Is it still possible for me to reunite with everyone? Looking back, I regret leaving in such a selfish manner.
 
-Vila:The future is unknown and unpredictable. All we can do is take one step at a time on the path that lies ahead of us.
+Vila: The future is unknown and unpredictable. All we can do is take one step at a time on the path that lies ahead of us.
 
-Vila:You will always have the ability to move forward on this path, with all of us.
+Vila: You will always have the ability to move forward on this path, with all of us.
 
 - Description：The Path Ahead
 
@@ -6070,41 +6068,41 @@ Vila:You will always have the ability to move forward on this path, with all of 
 
 Welcome Home!
 
-Vila:Don't all crowd around us at once, kids. Give us some space so that Miss Ulyana, your teacher, can greet you, okay?
+Vila: Don't all crowd around us at once, kids. Give us some space so that Miss Ulyana, your teacher, can greet you, okay?
 
-Nina:Hooray! We're super happy you're teaching again, Miss Ulyana! Tee-hee!
+Nina: Hooray! We're super happy you're teaching again, Miss Ulyana! Tee-hee!
 
-Pasono:Miss Ulyana! There are soo many new things in town that I can't wait to show you!
+Pasono: Miss Ulyana! There are soo many new things in town that I can't wait to show you!
 
-Pyotr:Me too! I know this town like the back of my hand, and I've got a sneaky shortcut to the mine to show you!
+Pyotr: Me too! I know this town like the back of my hand, and I've got a sneaky shortcut to the mine to show you!
 
-Ulyana:Of course, my little bears, my patient little comrades.
+Ulyana: Of course, my little bears, my patient little comrades.
 
-Avgust:Here. I received this as a gift from the square, and I want to share it with you. Vila always tells us to share with others.
+Avgust: Here. I received this as a gift from the square, and I want to share it with you. Vila always tells us to share with others.
 
-Ulyana:What a beautiful sunflower. Thank you, Avgust. Say, you seem much happier now.
+Ulyana: What a beautiful sunflower. Thank you, Avgust. Say, you seem much happier now.
 
-Avgust:I notice that my mom and everyone else around me are smiling, so I can't help but smile too.
+Avgust: I notice that my mom and everyone else around me are smiling, so I can't help but smile too.
 
-Avgust:You're smiling too, Ulyana.
+Avgust: You're smiling too, Ulyana.
 
-Ulyana:Haha, yes. I, I really missed you all.
+Ulyana: Haha, yes. I, I really missed you all.
 
-Vila:Aw, don't rub your eyes with your hands, kids. Here's some handkerchiefs for you ...
+Vila: Aw, don't rub your eyes with your hands, kids. Here's some handkerchiefs for you ...
 
-Vila:It took you kids a long time to come up with that welcome. Don't forget to actually say it to Miss Ulyana.
+Vila: It took you kids a long time to come up with that welcome. Don't forget to actually say it to Miss Ulyana.
 
-The Kids:—Welcome home, Miss Ulyana!
+The Kids: —Welcome home, Miss Ulyana!
 
-Ulyana:...!
+Ulyana: ...!
 
-Vila:The welcome and the celebration, all arranged on the same day ... Rayashki is slowly gaining momentum again, but there's still so much to do. I hope you don't mind.
+Vila: The welcome and the celebration, all arranged on the same day ... Rayashki is slowly gaining momentum again, but there's still so much to do. I hope you don't mind.
 
-Ulyana:No, not at all. How can I be of help? Just let me know.
+Ulyana: No, not at all. How can I be of help? Just let me know.
 
-Vila:Would you mind taking care of the children for a while? I have to go check on the port soon, and some friends from the Foundation are coming over for their regular lectures. Please make sure they are held to the same standards as our agreement. And finally ...
+Vila: Would you mind taking care of the children for a while? I have to go check on the port soon, and some friends from the Foundation are coming over for their regular lectures. Please make sure they are held to the same standards as our agreement. And finally ...
 
-Vila:Welcome home, Comrade Ulyana!
+Vila: Welcome home, Comrade Ulyana!
 
 - Description：Welcome Home!
 
@@ -6129,45 +6127,45 @@ Now that all the important tasks have been completed, it's time to celebrate.
 
 Toward the Distance
 
-Nina:I've finished folding it, Comrade Pyotr. It's time to make our paper planes fly. Can you move a little? Just a bit!
+Nina: I've finished folding it, Comrade Pyotr. It's time to make our paper planes fly. Can you move a little? Just a bit!
 
-Pyotr:Alright! Let's see whose plane can fly the farthest!
+Pyotr: Alright! Let's see whose plane can fly the farthest!
 
-Nina:Three, two, one!
+Nina: Three, two, one!
 
-Avgust:The swallow dives into the snow pile. Pyotr wins.
+Avgust: The swallow dives into the snow pile. Pyotr wins.
 
-Nina:He hasn't flown his yet, Comrade Avgust, maybe ...
+Nina: He hasn't flown his yet, Comrade Avgust, maybe ...
 
-Nina:Hey, Pasono, are you not going to play with us?
+Nina: Hey, Pasono, are you not going to play with us?
 
-Pasono:... I've been thinking about what Miss Vila said.
+Pasono: ... I've been thinking about what Miss Vila said.
 
-Pyotr:Are you scared? Don't you want to go out and see? After all, our parents agreed, and adults always know better than we do.
+Pyotr: Are you scared? Don't you want to go out and see? After all, our parents agreed, and adults always know better than we do.
 
-Pasono:I'm not scared! But... Miss Vila said she will not go with us, neither will Miss Ulyana.
+Pasono: I'm not scared! But... Miss Vila said she will not go with us, neither will Miss Ulyana.
 
-Avgust:Vila has a lot to do. After the slow turtles left, many new friends came to town. Vila wants to talk to them.
+Avgust: Vila has a lot to do. After the slow turtles left, many new friends came to town. Vila wants to talk to them.
 
-Nina:I don't think we need to worry so much. The teachers have allowed these friends of the Foundation to attend our classes, play with us, and take notes ...
+Nina: I don't think we need to worry so much. The teachers have allowed these friends of the Foundation to attend our classes, play with us, and take notes ...
 
-Nina:They don't seem like bad people. If they were bad, Miss Vila would shoo them away.
+Nina: They don't seem like bad people. If they were bad, Miss Vila would shoo them away.
 
-Pyotr:That's right, Pasono! Even Avgust isn't as anxious as you are!
+Pyotr: That's right, Pasono! Even Avgust isn't as anxious as you are!
 
-Avgust:I'm not nervous, I just want to learn how to transform things. Like turning a sunflower into a towering soldier or a bear with round ears ...
+Avgust: I'm not nervous, I just want to learn how to transform things. Like turning a sunflower into a towering soldier or a bear with round ears ...
 
-Avgust:We could turn snowmen into us to keep Vila company. Mom always said that when we miss her, we should build a snowman.
+Avgust: We could turn snowmen into us to keep Vila company. Mom always said that when we miss her, we should build a snowman.
 
-Avgust:—And Vila will definitely miss us when we're gone.
+Avgust: —And Vila will definitely miss us when we're gone.
 
-Pyotr:Yes, we should leave a gift for Miss Vila! Let's go make some snowmen!
+Pyotr: Yes, we should leave a gift for Miss Vila! Let's go make some snowmen!
 
-Nina:Alright!
+Nina: Alright!
 
-Pasono:Yes, let's find the prettiest twigs to decorate them with!
+Pasono: Yes, let's find the prettiest twigs to decorate them with!
 
-Pyotr:Let's go, everyone. Split up to find materials and come back as quickly as we can!
+Pyotr: Let's go, everyone. Split up to find materials and come back as quickly as we can!
 
 - Description：Toward the Distance
 
@@ -6261,63 +6259,63 @@ The next step is to sift through the information, a task best left to the experi
 
 To the Horizon Line
 
-Windsong:Wow. I'm getting a little nervous.
+Windsong: Wow. I'm getting a little nervous.
 
-Windsong:There are a lot of new faces here, quite unexpected. Well, hopefully a midday vodka will calm my nerves.
+Windsong: There are a lot of new faces here, quite unexpected. Well, hopefully a midday vodka will calm my nerves.
 
-Windsong:May I have your attention, please? Comrades and visitors, welcome to today's lecture on the study of ley lines.
+Windsong: May I have your attention, please? Comrades and visitors, welcome to today's lecture on the study of ley lines.
 
-Windsong:I am Windsong, your speaker for today.
+Windsong: I am Windsong, your speaker for today.
 
-Windsong:Now, I will present some practical examples on how the Study of Ley Lines can be applied to the mineral development in Rayashki ...
-
-...
-
-Laplace Researcher:This is undoubtedly beneficial to our research. Who cares about other people's opinions? Personally, I find Ley Lines very useful and relevant.
-
-Laplace Researcher:We definitely need to try this out and tell Ms. Lucy about it. I have no doubt she would be intrigued by this type of presentation ...
-
-Laplace Researcher:I'll take thorough notes. I'll be prepared in case there's a Q&A session later.
-
-Vila:Hello, there!
-
-Laplace Researcher:Uh? Oh. Hello, ma'am.
-
-Vila:If you need a seat closer to the front, I can take you to the visitor's seats over there.
-
-Laplace Researcher:No thank you, I'm not a typical guest like them. I'm here as a researcher.
-
-Laplace Researcher:Is there somewhere I can hear more clearly? Does Ms. Windsong have any other business to attend to? I have a list of questions written down, such as methods for identifying lines ...
-
-Vila:There will be a Q&A session after the presentation. Follow me and we'll see if there's a better location for you that's closer and more spacious.
+Windsong: Now, I will present some practical examples on how the Study of Ley Lines can be applied to the mineral development in Rayashki ...
 
 ...
 
-Windsong:Phew, I really need a drink. This is as tiring as any physical labor.
+Laplace Researcher: This is undoubtedly beneficial to our research. Who cares about other people's opinions? Personally, I find Ley Lines very useful and relevant.
 
-Windsong:I hope the Q&A session won't be met with dead silence. Just in case, I have prepared a couple of basic talking points ...
+Laplace Researcher: We definitely need to try this out and tell Ms. Lucy about it. I have no doubt she would be intrigued by this type of presentation ...
 
-Vila:Comrade Windsong, here.
+Laplace Researcher: I'll take thorough notes. I'll be prepared in case there's a Q&A session later.
 
-Windsong:Perfect. This glass of water couldn't have come at a better time.
+Vila: Hello, there!
 
-Windsong:The lecture went smoothly, and I still have time to make it to today's performance. As I promised to Avgust and the others, I have a little trick with ley lines that will surely amaze them.
+Laplace Researcher: Uh? Oh. Hello, ma'am.
 
-Vila:The Study of Ley Lines is much more than just a little trick, Comrade Windsong. We all know this to be true.
+Vila: If you need a seat closer to the front, I can take you to the visitor's seats over there.
 
-Vila:The woman from Laplace has technical inquiries for you. You might want to finish your drink, I have a feeling she has quite a few questions lined up.
+Laplace Researcher: No thank you, I'm not a typical guest like them. I'm here as a researcher.
 
-Windsong:She can ask all she wants about the subject. The truth is, I'll be researching Ley Lines for a long time to come.
+Laplace Researcher: Is there somewhere I can hear more clearly? Does Ms. Windsong have any other business to attend to? I have a list of questions written down, such as methods for identifying lines ...
 
-Windsong:What are your thoughts on this lecture? I welcome constructive criticism, so feel free to share your honest opinions, Comrade Vila.
+Vila: There will be a Q&A session after the presentation. Follow me and we'll see if there's a better location for you that's closer and more spacious.
 
-Vila:It brought back memories of a "line" I had seen before, although it's not exactly the same as your ley lines.
+...
 
-Vila:One morning I was floating on the surface of the water, admiring the distant shore. The horizon line seemed impossibly far away, with a soft glow radiating from it.
+Windsong: Phew, I really need a drink. This is as tiring as any physical labor.
 
-Vila:At that moment, I decided to go and see for myself. And so I arrived at Rayashki, my footprints leaving marks in the snow as I watched it transform into what it is today.
+Windsong: I hope the Q&A session won't be met with dead silence. Just in case, I have prepared a couple of basic talking points ...
 
-Vila:... It's remarkable how our dreams are gradually becoming a reality.
+Vila: Comrade Windsong, here.
+
+Windsong: Perfect. This glass of water couldn't have come at a better time.
+
+Windsong: The lecture went smoothly, and I still have time to make it to today's performance. As I promised to Avgust and the others, I have a little trick with ley lines that will surely amaze them.
+
+Vila: The Study of Ley Lines is much more than just a little trick, Comrade Windsong. We all know this to be true.
+
+Vila: The woman from Laplace has technical inquiries for you. You might want to finish your drink, I have a feeling she has quite a few questions lined up.
+
+Windsong: She can ask all she wants about the subject. The truth is, I'll be researching Ley Lines for a long time to come.
+
+Windsong: What are your thoughts on this lecture? I welcome constructive criticism, so feel free to share your honest opinions, Comrade Vila.
+
+Vila: It brought back memories of a "line" I had seen before, although it's not exactly the same as your ley lines.
+
+Vila: One morning I was floating on the surface of the water, admiring the distant shore. The horizon line seemed impossibly far away, with a soft glow radiating from it.
+
+Vila: At that moment, I decided to go and see for myself. And so I arrived at Rayashki, my footprints leaving marks in the snow as I watched it transform into what it is today.
+
+Vila: ... It's remarkable how our dreams are gradually becoming a reality.
 
 - Description：To the Horizon Line
 

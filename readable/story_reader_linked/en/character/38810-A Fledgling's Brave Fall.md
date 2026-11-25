@@ -150,11 +150,11 @@ A rush of whispers floods into Everecho's mind, drowning out her train of though
 
 Leave this place, leave this place ...
 
-**Shade:**Leave this place, leave this place ...
+**Shade:** Leave this place, leave this place ...
 
 Don't disturb us.
 
-**Shade:**Don't disturb us.
+**Shade:** Don't disturb us.
 
 She straightens up and shakes her head.
 
@@ -182,7 +182,7 @@ A tiny Shade is gnawing at the trespasser's pant leg.
 
 Leave ... Leave ...
 
-**Shade:**Leave ... Leave ...
+**Shade:** Leave ... Leave ...
 
 **???:** Isn't there a single Shade here who can understand human speech?
 
@@ -910,9 +910,9 @@ A few lines of blurred writing surface in Everecho's mind.
 
 To the esteemed ■■■■■■■■■■■■■■■■
 
-**???:**I am reporting ■■■■■■■■■■
+**???:** I am reporting ■■■■■■■■■■
 
-**???:**His ■■■■■■■■■■■■■ is nothing but complete slander.
+**???:** His ■■■■■■■■■■■■■ is nothing but complete slander.
 
 The setting sun shines into the building, plating the stonework in one last orange glow.
 
@@ -1504,11 +1504,11 @@ Everecho says nothing more.
 
 I don't know what to say.
 
-**Everecho:**I don't know what to say.
+**Everecho:** I don't know what to say.
 
 Please don't leave.
 
-**Everecho:**Please don't leave.
+**Everecho:** Please don't leave.
 
 **Everecho:** I can't go with you. Someone has to stay behind to speak for the others.
 
@@ -1560,11 +1560,11 @@ Just a bit of light you could find anywhere in the middle of the day.
 
 I never knew ...
 
-**Everecho:**I never knew ...
+**Everecho:** I never knew ...
 
 It could be so lonely.
 
-**Everecho:**It could be so lonely.
+**Everecho:** It could be so lonely.
 
 **???:** This won't do for doing, Everecho!
 
@@ -1584,7 +1584,7 @@ The light raises its own left hand. A small hand puppet waves his arms toward he
 
 A faded poster drifts into view before her eyes.
 
-**Everecho:**The Cosmonaut ...
+**Everecho:** The Cosmonaut ...
 
 **Everecho:** Yellow braids ... rainbow-colored light ... a dress ...
 
@@ -1598,7 +1598,7 @@ She takes a step forward, both feet touching the ground.
 
 Sound remembers. That's why you never change shape.
 
-**Everecho:**Sound remembers. That's why you never change shape.
+**Everecho:** Sound remembers. That's why you never change shape.
 
 Having listened to countless echoes of memory, she now knows where she came from.
 
@@ -1624,7 +1624,7 @@ A thin, frail boy takes a bite of bread and breaks into a smile.
 
 **You are Everecho, and you are everything.**
 
-**Everecho:****You are Everecho, and you are everything.**
+**Everecho:** **You are Everecho, and you are everything.**
 
 The wind sweeps across the glass of the dome, scraping out a harsh, grating sound.
 
@@ -1662,7 +1662,7 @@ She recognizes this face, a face resembling the Lucjan of her memory, a face far
 
 but they are gone now and will never come again.**
 
-**Everecho:****Those memories, glowing like light—I miss them dearly,
+**Everecho:** **Those memories, glowing like light—I miss them dearly,
 
 but they are gone now and will never come again.**
 
@@ -1670,7 +1670,7 @@ but they are gone now and will never come again.**
 
 Will you find your happiness once more?**
 
-**Everecho:****Will you forget those voices too?
+**Everecho:** **Will you forget those voices too?
 
 Will you find your happiness once more?**
 
@@ -1825,8 +1825,6 @@ The architect calls out to the girl, holding the car door open for her.
 She waves as she climbs into the car alongside Grundriss.
 
 The car turns the corner, and the building begins to shrink behind them.
-
-**Until we meet again.**
 
 **Until we meet again.**
 

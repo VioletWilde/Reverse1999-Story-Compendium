@@ -92,8 +92,6 @@ She scans her small force, her eyes sweeping over each soldier.
 
 20 hours after Andrea's team went missing.
 
-20 hours after Andrea's team went missing.
-
 **Moldir:** We can't go any farther. Turn back and head for the rendezvous point.
 
 **Soldier I:** But Lieutenant, we haven't reached our target location yet.
@@ -171,8 +169,6 @@ Moldir's lashes flicker.
 **Sergeant White Gloves:** Try to rest too, Lieutenant.
 
 **Moldir:** Thank you for your concern, Sergeant. I won't go against the protocols I set myself.
-
-It has now been 25 hours since Andrea's team went missing.
 
 It has now been 25 hours since Andrea's team went missing.
 
@@ -520,8 +516,6 @@ She's promising more than the rules allow. But she knows she can handle it.
 <!-- reader-body:start -->
 29 hours after Andrea's team went missing.
 
-29 hours after Andrea's team went missing.
-
 Squad Outpost
 
 Their rest has ended an hour early; the sergeant stands over a freshly drawn map with a look of genuine relief.
@@ -818,8 +812,6 @@ He drops the papers and darts off after her.
 ## 2891006 · A Betrayal
 
 <!-- reader-body:start -->
-34 hours after Andrea's team went missing.
-
 34 hours after Andrea's team went missing.
 
 Deep in Antarctica
@@ -1225,10 +1217,6 @@ She seems lost in thought. Buddy begins to sense he's been turned down, but befo
 
 <!-- reader-body:start -->
 41 hours, 25 minutes.
-
-41 hours, 25 minutes.
-
-Over four hours past the safe rescue window, but still well within the absolute survival limit.
 
 Over four hours past the safe rescue window, but still well within the absolute survival limit.
 

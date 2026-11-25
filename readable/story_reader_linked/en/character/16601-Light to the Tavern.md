@@ -255,7 +255,7 @@ Yielding to the moment, the child lies on the floor of the room. Tonight, there 
 
 With a rustling sound, a troop of wooden dolls materializes out of thin air. They frolick and cavort on the bed, the ground, and on Jiǔ's clothes.
 
-**Wooden Dolls:****\*chuckles\* New place! Fun!**
+**Wooden Dolls:** **\*chuckles\* New place! Fun!**
 
 **Wooden Dolls:** Liquor jars, liquor jars! Customers raising their cups!
 
@@ -267,13 +267,13 @@ One doll pushes through the others, leaping down from the bed to whisper into Ji
 
 **Jiu:** They're not personal feelings. You don't know anything.
 
-**Wooden Dolls:**Don't forget what the Daoist said.
+**Wooden Dolls:** Don't forget what the Daoist said.
 
 **Jiu:** You're annoying. I'm sleeping now.
 
 **Jiu:** I need to run a business tomorrow. Do you even know what "business" means?
 
-**Wooden Dolls:**No.
+**Wooden Dolls:** No.
 
 **Jiu:** Me neither. Maybe it means ... um ... I'll figure it out tomorrow.
 <!-- reader-body:end -->
@@ -720,19 +720,19 @@ The daylight hours fly by swiftly. Come nightfall, Jiǔ lies on her bed, sorenes
 
 In the darkness, the wooden dolls emerge once more, hopping onto the bed one after another and dancing beside her.
 
-**Wooden Dolls:**Lying down! Lying down!
+**Wooden Dolls:** Lying down! Lying down!
 
-**Wooden Dolls:**Working is exhausting; working is hard!
+**Wooden Dolls:** Working is exhausting; working is hard!
 
-**Wooden Dolls:**How was the "business"?
+**Wooden Dolls:** How was the "business"?
 
 **Jiu:** "Business" is tiring. But there are interesting things! Dirty Things, West Hair, Crazy Sir ...
 
 **Jiu:** These are very spicy liquors, you know.
 
-**Wooden Dolls:**Don't know at all. Where is Xiángruì?
+**Wooden Dolls:** Don't know at all. Where is Xiángruì?
 
-**Wooden Dolls:**Xiángruì, don't forget!
+**Wooden Dolls:** Xiángruì, don't forget!
 
 **Jiu:** Stop rushing me. I'll look for it! The people here know so many things, especially Ms. Xǔ.
 
@@ -1329,7 +1329,7 @@ Without Jiǔ Niángzǐ's help, it would not be possible to deliver rice buns to 
 
 Amidst her musings, a wooden doll peeks its head out from the sleeve of her garment.
 
-**Wooden Dolls:**And things about Xiángruì to ask. Don't forget!
+**Wooden Dolls:** And things about Xiángruì to ask. Don't forget!
 
 **Jiu Niangzi:** Oh right, Xiángruì. I need to ask around.
 
@@ -1918,21 +1918,21 @@ After returning to her room, Jiǔ Niángzǐ's thoughts linger on Ms. Xǔ. It see
 
 A familiar rustling emanates from the corners of the room, starting as a soft whisper and gradually swelling into song as the wooden dolls once again appear atop her bed.
 
-**Wooden Dolls:**Make buns, make buns!
+**Wooden Dolls:** Make buns, make buns!
 
-**Wooden Dolls:**Rice buns! Grow malt!
+**Wooden Dolls:** Rice buns! Grow malt!
 
 A wooden doll climbs up Jiǔ Niángzǐ's sleeve.
 
-**Wooden Dolls:**You have, personal feelings.
+**Wooden Dolls:** You have, personal feelings.
 
-**Wooden Dolls:**You treat her as family. You will never be a Xiángruì.
+**Wooden Dolls:** You treat her as family. You will never be a Xiángruì.
 
 **Jiu Niangzi:** Hey, stop! Shut up!
 
 **Jiu Niangzi:** I don't have any personal feelings, okay?! So just stop talking!
 
-**Wooden Dolls:**Can't be a Xiángruì! Can't go out of the city! Forever and ever.
+**Wooden Dolls:** Can't be a Xiángruì! Can't go out of the city! Forever and ever.
 
 **Jiu Niangzi:** I won't stay here forever ... I won't!
 
@@ -2346,7 +2346,7 @@ Jiǔ Niángzǐ shakes her head, then lifts her liquor bowl to examine it closely
 
 The little wooden dolls, timely as ever, clamber onto the table. They joke and giggle, adding a lively spirit to the previously peaceful courtyard.
 
-**Wooden Dolls:**Alone! Alone! All alone!
+**Wooden Dolls:** Alone! Alone! All alone!
 
 **Jiu Niangzi:** They said liquor could take all your worries away ...
 
@@ -2354,7 +2354,7 @@ The little wooden dolls, timely as ever, clamber onto the table. They joke and g
 
 **Jiu Niangzi:** Alright, alright! Have a drink if you want.
 
-**Wooden Dolls:**Want some! Want some!
+**Wooden Dolls:** Want some! Want some!
 
 Jiǔ Niángzǐ's eyes twinkle with joy as she brings forth a large bowl brimming with fine liquor.
 
@@ -2366,9 +2366,9 @@ Jiǔ Niángzǐ lifts her bowl and takes a sip. Then, mimicking the patrons of th
 
 **Jiu Niangzi:** Raise a toast, and don't say no.
 
-**Wooden Dolls:**By the flowers in the snow, raise a toast, and don't say no!
+**Wooden Dolls:** By the flowers in the snow, raise a toast, and don't say no!
 
-**Wooden Dolls:**You are having personal feelings now.
+**Wooden Dolls:** You are having personal feelings now.
 
 **Jiu Niangzi:** I'm not! I never have! ... I guess the Daoist was right. I need to become a Xiángruì, or I'll never leave Pèi City.
 
@@ -2518,7 +2518,7 @@ With an ease that comes from extensive practice, Jiǔ Niángzǐ breaks the clay 
 
 A sharp, splashing sound brings Jiǔ Niángzǐ back to reality. She looks down at the mouth of the liquor jar to see a few tiny wooden dolls swimming merrily in the brew.
 
-**Wooden Dolls:**Fine liquor! Tastes great!
+**Wooden Dolls:** Fine liquor! Tastes great!
 
 **Jiu Niangzi:** Hey, how did you—
 

@@ -429,7 +429,7 @@ Constantine: You, who accidentally and rather luckily escaped from the "Storm" i
 
 **Constantine:** Her suitcase will also be retrieved for research purposes after the meeting. As compensation for your displacement, we will arrange you a **more decent** room.
 
-**Constantine:**Ms. Z will show you around the headquarters tomorrow.
+**Constantine:** Ms. Z will show you around the headquarters tomorrow.
 
 **Constantine:** Go walk around and meet some people ... Perhaps it will help you see what the most beneficial choice to all of us will be.
 
@@ -1004,35 +1004,35 @@ The guard covered in odd slime tries to get up off the floor with great effort.
 
 The Sun Also Rises
 
-???:You fall back into the crowd. I understand. I can feel the desire and depression burning deep inside your brain: you are longing to be a part of an absurd, broken, bizarre arcanum story which is beyond your imagination and past experience.
+???: You fall back into the crowd. I understand. I can feel the desire and depression burning deep inside your brain: you are longing to be a part of an absurd, broken, bizarre arcanum story which is beyond your imagination and past experience.
 
-???:But sorry, I can't help laughing: you got into some trouble and have to run around blindly among those in white robes like a panicked ant.
+???: But sorry, I can't help laughing: you got into some trouble and have to run around blindly among those in white robes like a panicked ant.
 
-???:Come on. Close your eyes. Imagine inside a TV with static noise, a red-nosed bad guy opens his arms to you and says, "Welcome, to, the, human, world."
+???: Come on. Close your eyes. Imagine inside a TV with static noise, a red-nosed bad guy opens his arms to you and says, "Welcome, to, the, human, world."
 
 > **Choice 1：** I can't stand these commas!
 
-???:I know, dude! As puzzling as our usual big shots. They stand on the podium, with a mic in their hands, and everyone can see their uvula trembling from their wide-open mouths as they speak.
+???: I know, dude! As puzzling as our usual big shots. They stand on the podium, with a mic in their hands, and everyone can see their uvula trembling from their wide-open mouths as they speak.
 
-???:Hello, hello, testing, testing. Three, two, one, three, two, one. Comma, comma, comma. Everyone has to wait for what will happen with a full bladder and an empty stomach.
+???: Hello, hello, testing, testing. Three, two, one, three, two, one. Comma, comma, comma. Everyone has to wait for what will happen with a full bladder and an empty stomach.
 
 > **Choice 2：** But I'm already in the human world.
 
-???:Nice pun! But you don't understand what I’m saying, for now. When the day comes, you will find yourself, you will find me, you will find them ... Oh, thinking of that day, my damned heart is beating crazily like a dying reindeer's!
+???: Nice pun! But you don't understand what I’m saying, for now. When the day comes, you will find yourself, you will find me, you will find them ... Oh, thinking of that day, my damned heart is beating crazily like a dying reindeer's!
 
-???:But look at this moment, it's just fine. You know where you should be, and you don't have anything that you shouldn't have in your mind. You just crouch here with patience ...
+???: But look at this moment, it's just fine. You know where you should be, and you don't have anything that you shouldn't have in your mind. You just crouch here with patience ...
 
-???:Listen, this is not just a world of arcanists. Arcanists, arcanum creatures, and even arcanum itself are but insignificant existence hidden beneath all else.
+???: Listen, this is not just a world of arcanists. Arcanists, arcanum creatures, and even arcanum itself are but insignificant existence hidden beneath all else.
 
-???:You must learn about those who are in power at the present moment. They live on the other side of the earth, setting rules on the thrones in the scarcely populated wilderness.
+???: You must learn about those who are in power at the present moment. They live on the other side of the earth, setting rules on the thrones in the scarcely populated wilderness.
 
-???:Much has been done for the order, for the vision, for the ultimate goal which will satisfy the majority yet sacrifice the minority. They wage wars and strike deals, building a pyramid that symbolizes supreme power with skeletons of the commoners.
+???: Much has been done for the order, for the vision, for the ultimate goal which will satisfy the majority yet sacrifice the minority. They wage wars and strike deals, building a pyramid that symbolizes supreme power with skeletons of the commoners.
 
-???:No, I'm not telling a lame villain story. On the contrary, it's a boring documentary about those in power standing between the sky and the earth, seeking the real meaning of fairness and ideals.
+???: No, I'm not telling a lame villain story. On the contrary, it's a boring documentary about those in power standing between the sky and the earth, seeking the real meaning of fairness and ideals.
 
-???:There's still plenty of time! Go ahead. Keep moving, but don't jump to any conclusion. Just make sure you're always on the way, so you will learn more about humans, more and more.
+???: There's still plenty of time! Go ahead. Keep moving, but don't jump to any conclusion. Just make sure you're always on the way, so you will learn more about humans, more and more.
 
-???:Take the microscope with you and dig into the rotten history of those poor little things!
+???: Take the microscope with you and dig into the rotten history of those poor little things!
 
 
 ---
@@ -1449,7 +1449,7 @@ Someone has hit the nail on the head.
 
 206th LSCC Seminar - Note
 
-At the meeting this morning, MP Callaghan and his great-grandson Dr. Callaghan Jr. submitted the research report On Zebra Crossing, Lemon, Snow Leopard Pattern, and Transportation and Teleportation Arcanum Rituals in joint names. In the report, they mentioned an innovational point of view on the relations between zebra crossing and the crisis in human subconsciousness, and that between horse herds and the feeling of levitation. Supported by a considerable amount of experiment data, they were granted series D funding of level 1-11 by the LSCC Funding Channel. In the same meeting, Tchangues 1-07 Stable Release was displayed, which were given rounds of applause in the room for 17.8 seconds. There is no doubt that the display has won was a great success. It was a pair of artificial lower limbs. Its skin and blood vessels crafted through cell reproduction and monkey brain transplantation, and the bones and muscles made with branches, white crystal powder, woolen threads and golden privets from the southeast of France. It is capable of all kinds of movements including walking, running, jumping, and gymnastics moves. It could even spider-walk on the wall for 120.7 seconds. Just as its inventor Ms. Perotti said, "Centered on the rationality and efficiency, we learn from human civilization when we harness the unstable, everchanging arcanum technology, so we can provide real, stable help for more people." There is no doubt Tchangues is a good example of LSCC's core philosophy. Yes, this is the Laplace Scientific Computing Center. I think I am going to enjoy working here. 11:21, 09/19, Mesmer Jr.Laplace Minute Book M - Volume 01 - Page 01
+At the meeting this morning, MP Callaghan and his great-grandson Dr. Callaghan Jr. submitted the research report On Zebra Crossing, Lemon, Snow Leopard Pattern, and Transportation and Teleportation Arcanum Rituals in joint names. In the report, they mentioned an innovational point of view on the relations between zebra crossing and the crisis in human subconsciousness, and that between horse herds and the feeling of levitation. Supported by a considerable amount of experiment data, they were granted series D funding of level 1-11 by the LSCC Funding Channel. In the same meeting, Tchangues 1-07 Stable Release was displayed, which were given rounds of applause in the room for 17.8 seconds. There is no doubt that the display has won was a great success. It was a pair of artificial lower limbs. Its skin and blood vessels crafted through cell reproduction and monkey brain transplantation, and the bones and muscles made with branches, white crystal powder, woolen threads and golden privets from the southeast of France. It is capable of all kinds of movements including walking, running, jumping, and gymnastics moves. It could even spider-walk on the wall for 120.7 seconds. Just as its inventor Ms. Perotti said, "Centered on the rationality and efficiency, we learn from human civilization when we harness the unstable, everchanging arcanum technology, so we can provide real, stable help for more people." There is no doubt Tchangues is a good example of LSCC's core philosophy. Yes, this is the Laplace Scientific Computing Center. I think I am going to enjoy working here. 11:21, 09/19, Mesmer Jr. Laplace Minute Book M - Volume 01 - Page 01
 
 - Description：A neat, detailed note shows one's longing.
 - Action：Read it
@@ -2476,7 +2476,7 @@ You have made your voice heard. You have made your point known.
 
 Snacks of the New Era and the Rockin' Pirate
 
-◎ Rigabit: Yogurt Bullets Pink yogurt from Michigan which pops out like a bullet. **"Not so good as I thought it would be, but does feel novel ...****Hmm, well, mmm ... 5.6 out of 10."** ◎ K&K: Oatmeal Breakfast Bars Actually a candy bar with little oatmeal. **"Not bad, I'll give it an 8."** ◎ Kjeldson!!! Logger Cookies!!! Known for the rich butter within, it has a rough flavor of the logger style which is exactly the opposite of the royal style. **"What does logger style mean, dry as sawdust?!****I will put in on the Prohibited List of my ship and it's never getting removed! 1 out of 10!"** ◎Pota-ta-tato: Face Chips There are all kinds of facial expressions. I may look the same when deep fried. **"Too many crumbs. Can't taste the flavor of potato. BARBECUE WITH MUSTARD FLAVORED ...****Well, acceptable. 4.5 out of 10."** ◎ Cheetahs Cheetahs! Amazing Seeds! Puffed snack. CHEESE SURINAME TOAD JAM FLAVORED. **"When your product is buried in soil but can't grow into anything after 3 days of watering, 24 times in total by the way, you'd better not put the word 'Seed' in its name! 0!****CHECK, OUT, THIS, BIG, ZERO!"**
+◎ Rigabit: Yogurt Bullets Pink yogurt from Michigan which pops out like a bullet. **"Not so good as I thought it would be, but does feel novel ...** **Hmm, well, mmm ... 5.6 out of 10."** ◎ K&K: Oatmeal Breakfast Bars Actually a candy bar with little oatmeal. **"Not bad, I'll give it an 8."** ◎ Kjeldson!!! Logger Cookies!!! Known for the rich butter within, it has a rough flavor of the logger style which is exactly the opposite of the royal style. **"What does logger style mean, dry as sawdust?!** **I will put in on the Prohibited List of my ship and it's never getting removed! 1 out of 10!"** ◎Pota-ta-tato: Face Chips There are all kinds of facial expressions. I may look the same when deep fried. **"Too many crumbs. Can't taste the flavor of potato. BARBECUE WITH MUSTARD FLAVORED ...** **Well, acceptable. 4.5 out of 10."** ◎ Cheetahs Cheetahs! Amazing Seeds! Puffed snack. CHEESE SURINAME TOAD JAM FLAVORED. **"When your product is buried in soil but can't grow into anything after 3 days of watering, 24 times in total by the way, you'd better not put the word 'Seed' in its name! 0!** **CHECK, OUT, THIS, BIG, ZERO!"**
 
 - Description：You are surrounded by the clerks. Maybe they didn't catch your words just now.
 - Action：Say it out
@@ -2723,69 +2723,69 @@ At the moment, you are not too keen on accepting any invitations. You feel comfo
 
 A Ride on the Toboggan
 
-???:Sounds of different colors go into your left ear and slip out from your nostrils, just like a toboggan sliding down a soft piste from a cabin up the mountain to the finishing line at the foot, leaving nothing but excitement that doesn't even last.
+???: Sounds of different colors go into your left ear and slip out from your nostrils, just like a toboggan sliding down a soft piste from a cabin up the mountain to the finishing line at the foot, leaving nothing but excitement that doesn't even last.
 
 > **Choice 1：** Your opening line sucks.
 
-???:Errr ...
+???: Errr ...
 
-???:What did you say? I, I got bad signal here, oh, ba-bad signal indeed.
+???: What did you say? I, I got bad signal here, oh, ba-bad signal indeed.
 
-???:I mean, I may be different from all of you, but I have a conscience, OK? I never talk s\*\*t, that's the bottom line. What I said were all felicitous hints.
+???: I mean, I may be different from all of you, but I have a conscience, OK? I never talk s\*\*t, that's the bottom line. What I said were all felicitous hints.
 
 > **Choice 2：** So, a vacation? I'm ready.
 
-???:Yes. You're always so clever, with an excellent sense of humor! Now take all the cold-proof equipment you've got. The view is good here, but it's still dangerous as you are climbing a snow mountain after all.
+???: Yes. You're always so clever, with an excellent sense of humor! Now take all the cold-proof equipment you've got. The view is good here, but it's still dangerous as you are climbing a snow mountain after all.
 
-???:I'm sure you have noticed it. Between the glacier and the valley, between the snow mountain and the lake, stands a great building we're all familiar with.
+???: I'm sure you have noticed it. Between the glacier and the valley, between the snow mountain and the lake, stands a great building we're all familiar with.
 
-???:Close your eyes and feel the patterns of interlaced gray and white. The flow of the building, so balanced and symmetrical, is like a sophisticated symphony with beautiful melody.
+???: Close your eyes and feel the patterns of interlaced gray and white. The flow of the building, so balanced and symmetrical, is like a sophisticated symphony with beautiful melody.
 
-???:That may be your first impression of the Foundation. After that committee meeting, however, all I could see on your face was a terrible mess, like it was licked by a terrier which has just finished hunting.
+???: That may be your first impression of the Foundation. After that committee meeting, however, all I could see on your face was a terrible mess, like it was licked by a terrier which has just finished hunting.
 
-???:What the f\*\*k are they talking about? Who can explain their relations for me?
+???: What the f\*\*k are they talking about? Who can explain their relations for me?
 
-???:Good question! In this lonely, whirling, dark universe, I'm the only one who is willing to tell you all these stories on the cold bench in the park.
+???: Good question! In this lonely, whirling, dark universe, I'm the only one who is willing to tell you all these stories on the cold bench in the park.
 
 > **Choice 1：** So what functions does the Foundation have?
 
-???:Countless! Oh man, you gotta understand, an international political institution with great ambition is bound to make troubles and make up for them.
+???: Countless! Oh man, you gotta understand, an international political institution with great ambition is bound to make troubles and make up for them.
 
-???:The House of Integratus and the committee are in charge of lawmaking, not just in the Foundation, but in countries and even in the global society! Any affairs related to the human-arcanist relationship will be brought to their table, and they will handle each of the affairs with their properly manicured but muscle-torn hands.
+???: The House of Integratus and the committee are in charge of lawmaking, not just in the Foundation, but in countries and even in the global society! Any affairs related to the human-arcanist relationship will be brought to their table, and they will handle each of the affairs with their properly manicured but muscle-torn hands.
 
-???:Through the folds in their brains, people set this reasonable rule: delegates of the House of the Integratus are elected to take responsibility for their constituencies. As busy as bees, they submit countless proposals to the committee every year.
+???: Through the folds in their brains, people set this reasonable rule: delegates of the House of the Integratus are elected to take responsibility for their constituencies. As busy as bees, they submit countless proposals to the committee every year.
 
-???:Then the committee will choose one lucky proposal and send it to the next step: all the committee members would gather to debate and vote for the proposal, like what happened in a Medieval Fair.
+???: Then the committee will choose one lucky proposal and send it to the next step: all the committee members would gather to debate and vote for the proposal, like what happened in a Medieval Fair.
 
-???:Many would show up in the fair. There would be political parties, a moderator, dozens of expert groups, each with a different standpoint and goal. It's like a mental boxing, modern version! We will have to wait while listening to the war of words. After dozens of days, or even months, we will finally get to see who wins the championship belt.
+???: Many would show up in the fair. There would be political parties, a moderator, dozens of expert groups, each with a different standpoint and goal. It's like a mental boxing, modern version! We will have to wait while listening to the war of words. After dozens of days, or even months, we will finally get to see who wins the championship belt.
 
 > **Choice 2：** Who is the boss of the Foundation?
 
-???:You haven't met him yet. Actually, only a few have, as the opportunities are always fleeting like the falling stars.
+???: You haven't met him yet. Actually, only a few have, as the opportunities are always fleeting like the falling stars.
 
-???:But it's okay. The Foundation still works well without him! Our responsible Constantine, working without any complaint like an unbreakable lily, is trying hard to change the Foundation's direction to what she believes to be correct.
+???: But it's okay. The Foundation still works well without him! Our responsible Constantine, working without any complaint like an unbreakable lily, is trying hard to change the Foundation's direction to what she believes to be correct.
 
-???:Come on, let's look at the bigger picture. Humans have worked out with the brilliant folds in their brains that they need multiple parties to create a balance of power. So, bang! There come the committee, the House of the Integratus, and many other administration departments.
+???: Come on, let's look at the bigger picture. Humans have worked out with the brilliant folds in their brains that they need multiple parties to create a balance of power. So, bang! There come the committee, the House of the Integratus, and many other administration departments.
 
-???:The House of Integratus and the committee are in charge of lawmaking, not just in the Foundation, but in countries and even in the global society! Any affairs related to the human-arcanist relationship will be brought to their table, and they will handle each of the affairs with their properly manicured but muscle-torn hands.
+???: The House of Integratus and the committee are in charge of lawmaking, not just in the Foundation, but in countries and even in the global society! Any affairs related to the human-arcanist relationship will be brought to their table, and they will handle each of the affairs with their properly manicured but muscle-torn hands.
 
-???:The committee has the right to approve or reject the proposals from delegates. Well, of course, some of the delegates are very stubborn. They will keep submitting their proposals no matter how many times they have been rejected, just like a red-back shrike with fledglings repeatedly submitting rejected motions until they are exhausted.
+???: The committee has the right to approve or reject the proposals from delegates. Well, of course, some of the delegates are very stubborn. They will keep submitting their proposals no matter how many times they have been rejected, just like a red-back shrike with fledglings repeatedly submitting rejected motions until they are exhausted.
 
-???:When it comes to the formal debate, you will get to watch a dogfight full of polite yet viciously aggressive language. Everyone, including the president, the delegates, the parties and the expert groups, will turn into maniacs in the arena of power.
+???: When it comes to the formal debate, you will get to watch a dogfight full of polite yet viciously aggressive language. Everyone, including the president, the delegates, the parties and the expert groups, will turn into maniacs in the arena of power.
 
-???:After this stage, the final result depends on the white marble house. They seldom express their opinions, but they will sometimes.
+???: After this stage, the final result depends on the white marble house. They seldom express their opinions, but they will sometimes.
 
 > **Choice 1：** Are there more?
 
-???:Oh, yes, yes. Look how polite you are when you ask that question, like I'm some high school student working part-time in a mall selling local socks to you.
+???: Oh, yes, yes. Look how polite you are when you ask that question, like I'm some high school student working part-time in a mall selling local socks to you.
 
-???:And I'd be very nice and tell you, "Of course!" We must not ignore the other administration departments of the Foundation, as well as the headquarters' poor branches located in different countries and the humanitarian School of Primary Defense of Mankind that works like a poorhouse.
+???: And I'd be very nice and tell you, "Of course!" We must not ignore the other administration departments of the Foundation, as well as the headquarters' poor branches located in different countries and the humanitarian School of Primary Defense of Mankind that works like a poorhouse.
 
-???:Remember, the Foundation is managing the whole world! Of course, they need some rules that are hard to understand, so the wise will be wiser and the silly will be sillier, while those in the middle will show an innocent smile when they die!
+???: Remember, the Foundation is managing the whole world! Of course, they need some rules that are hard to understand, so the wise will be wiser and the silly will be sillier, while those in the middle will show an innocent smile when they die!
 
-???:Humans are experts on these things. My stupid arcanists, don't just complain; learn to see what they are after, okay? Catch the unspoken drifts between the lines! So one day you will understand ...
+???: Humans are experts on these things. My stupid arcanists, don't just complain; learn to see what they are after, okay? Catch the unspoken drifts between the lines! So one day you will understand ...
 
-???:Life is like a ride on the toboggan.
+???: Life is like a ride on the toboggan.
 
 
 ---
@@ -4370,7 +4370,7 @@ Druvis stands up.
 
 Sightings of the "Nameless Angler"
 
-**Sunday 07:21** Angelina of the Field Operation Squad passed by the east side of the Foundation Square and saw someone in white by the fountain. This is the earliest sighting of the target. **Same Sunday 15:10** Mary of the Medical Department took stock of the Picrasma Extract III in the warehouse, behind which she found a rubber fishing bucket with 3 suckermouth catfishes inside which were 3-4 inches long. **Same Sunday 15:22** Mary left the warehouse and the fishing bucket was gone. There were water spots and a little granite rubble left on the ground. **Monday 06:30-08:30** A cleaner found some abandoned fishhooks near the fountains as well as by multiple water sources (streams, estuaries). Most of the fishhooks were hung below treetops. **Same Monday 22:33** A patrol squad found a set of fishing gears near reception area 13. The gear set includes a carbon fishing rod with woolen core, a foldable rubber fishing bucket, a comfortable folding chair, and three buckled boxes of baits made with Carbuncle's tooth pulp. It is now taken to the Lost and Found. \* \* \* All right, it seems to be a "Nameless Angler" in the Foundation.We have collected some basic information after the first inquiry, but a lot still remain unknown.What does he want? Where does he come from?Is he a ghost? A spy sent by other political organizations? Or an arcane puppet made by someone that plans to wipe out all the suckermouth catfishes because they have a problem with the appearance of the race?Everything, everything remains unknown ...Hah! Let's move on to the next inquiry!
+**Sunday 07:21** Angelina of the Field Operation Squad passed by the east side of the Foundation Square and saw someone in white by the fountain. This is the earliest sighting of the target. **Same Sunday 15:10** Mary of the Medical Department took stock of the Picrasma Extract III in the warehouse, behind which she found a rubber fishing bucket with 3 suckermouth catfishes inside which were 3-4 inches long. **Same Sunday 15:22** Mary left the warehouse and the fishing bucket was gone. There were water spots and a little granite rubble left on the ground. **Monday 06:30-08:30** A cleaner found some abandoned fishhooks near the fountains as well as by multiple water sources (streams, estuaries). Most of the fishhooks were hung below treetops. **Same Monday 22:33** A patrol squad found a set of fishing gears near reception area 13. The gear set includes a carbon fishing rod with woolen core, a foldable rubber fishing bucket, a comfortable folding chair, and three buckled boxes of baits made with Carbuncle's tooth pulp. It is now taken to the Lost and Found. \* \* \* All right, it seems to be a "Nameless Angler" in the Foundation. We have collected some basic information after the first inquiry, but a lot still remain unknown. What does he want? Where does he come from? Is he a ghost? A spy sent by other political organizations? Or an arcane puppet made by someone that plans to wipe out all the suckermouth catfishes because they have a problem with the appearance of the race? Everything, everything remains unknown ... Hah! Let's move on to the next inquiry!
 
 - Description：Whispers could be heard everywhere. Someone has collected and written them down.
 - Action：Find it out
@@ -4434,7 +4434,7 @@ Debate Moderator: Alright, both sides are seated.Debate Moderator: Before we sta
 
 **Delegate:** With pleasure.
 
-**Delegate:**Storm Reformation and its advocators believe in such a goal:
+**Delegate:** Storm Reformation and its advocators believe in such a goal:
 
 **Delegate:** In this ever changing environment smitten by the "Storm," this draft will help the Foundation win the trust of a considerable number of arcanists who have different backgrounds and abilities, in a more efficient and stable way.
 
@@ -4724,7 +4724,7 @@ Lilya initiates the machine in front of her, unaware of her awkwardness.
 
 **Lilya:** Only God knows.
 
-**Lilya:**House Arrest may be a better name.
+**Lilya:** House Arrest may be a better name.
 
 **Sonetto:** ...
 
@@ -4784,7 +4784,7 @@ The helmet has cut off their vital fluids and diverted them to a pre-programmed 
 
 ***
 
-COMBAT:…
+COMBAT:      …
 
 ***
 
@@ -5384,31 +5384,31 @@ This is the victory you deserve.
 
 Legwork
 
-???:...
+???: ...
 
 > **Choice 1：** I just woke up. What happened?
 
-???:That was a good sleep, dude. You drooled everywhere. Almost glued my eyelids.
+???: That was a good sleep, dude. You drooled everywhere. Almost glued my eyelids.
 
-???:You didn’t expect there to be so many complicated, confusing factions in the Foundation—can’t they just make this institution simpler so that people can tell one group from another easily, like telling the difference between cake layers?
+???: You didn’t expect there to be so many complicated, confusing factions in the Foundation—can’t they just make this institution simpler so that people can tell one group from another easily, like telling the difference between cake layers?
 
 > **Choice 2：** I'm not having any trouble. Leave me be.
 
-???:Really? Dude, are you 100% sure that you are trouble-free?
+???: Really? Dude, are you 100% sure that you are trouble-free?
 
-???:I was sleeping like a baby, having a sweet sweet dream which has been long absent in my life. There were three ladies, a bevy of goofy swans, and I, living a harmonious life together in my dream.
+???: I was sleeping like a baby, having a sweet sweet dream which has been long absent in my life. There were three ladies, a bevy of goofy swans, and I, living a harmonious life together in my dream.
 
-???:Suddenly, a certain jinx woke me up, saying, “I have no trouble. Don’t come over.” How wonderful! I was like a stray dog sleeping on a square. You’ll see, this old man is going to shovel all his complaints into your pure, innocent ear.
+???: Suddenly, a certain jinx woke me up, saying, “I have no trouble. Don’t come over.” How wonderful! I was like a stray dog sleeping on a square. You’ll see, this old man is going to shovel all his complaints into your pure, innocent ear.
 
-???:How do you feel about the structure of the Foundation? I can see your cockily raised neck, showing your attitude of rejection. Well, perfect! Let’s start with this intriguing topic, then!
+???: How do you feel about the structure of the Foundation? I can see your cockily raised neck, showing your attitude of rejection. Well, perfect! Let’s start with this intriguing topic, then!
 
-???:The Foundation is a mess. Listen up, it drifts along the chaotic swirl between order and disorder, enticing countless idealists and realists to come over.
+???: The Foundation is a mess. Listen up, it drifts along the chaotic swirl between order and disorder, enticing countless idealists and realists to come over.
 
-???:The “Storm” exacerbates the chaos. Those arcanists who were snorkeling are now surfacing—You see, Ms. Z is a great example. She is even sitting at the same conference table with the human elites.
+???: The “Storm” exacerbates the chaos. Those arcanists who were snorkeling are now surfacing—You see, Ms. Z is a great example. She is even sitting at the same conference table with the human elites.
 
-???:The undercurrents, however, are still lurking. Natural Resource Committee, Mankind Caucus, Culture and Education Department ... Their members are hard to differentiate given the intricate backgrounds. They bustled for benefits and mired in countless trivial matters.
+???: The undercurrents, however, are still lurking. Natural Resource Committee, Mankind Caucus, Culture and Education Department ... Their members are hard to differentiate given the intricate backgrounds. They bustled for benefits and mired in countless trivial matters.
 
-???:You see? You need to divide them into groups, and divide and divide ... until you break a huge entity into small groups, as small as possible. That’s when they are able to clean the vomit on the living room floor effectively and emotionlessly!
+???: You see? You need to divide them into groups, and divide and divide ... until you break a huge entity into small groups, as small as possible. That’s when they are able to clean the vomit on the living room floor effectively and emotionlessly!
 
 
 ---
@@ -5954,61 +5954,61 @@ Katz turns her body to one side, striking the ball back confidently.
 
 Ball Game
 
-???:Ping, pong. Ping, pong. Ping pong ping pong ping, pong. Ping. Pong.
+???: Ping, pong. Ping, pong. Ping pong ping pong ping, pong. Ping. Pong.
 
 > **Choice 1：** It's too noisy.
 
-???:Yup. Agreed.
+???: Yup. Agreed.
 
-???:It's too noisy. You were looking at the little ball made of plastic. It hops from left to right, making an annoying sound.
+???: It's too noisy. You were looking at the little ball made of plastic. It hops from left to right, making an annoying sound.
 
-???:But all we can do to it is look at it, just like all you can do to me is tolerate my existence, for both of us have nowhere to go.
+???: But all we can do to it is look at it, just like all you can do to me is tolerate my existence, for both of us have nowhere to go.
 
 > **Choice 2：** An imitation show?
 
-???:Yes, an imitation show. A ball imitation show, little thing.
+???: Yes, an imitation show. A ball imitation show, little thing.
 
-???:You're imitating the Messiah, while I'm imitating an orange ball made of plastic.
+???: You're imitating the Messiah, while I'm imitating an orange ball made of plastic.
 
-???:Being pushed back and forth by two rackets, I have nowhere else to go. Once they apply a force on me, I can't help bouncing to the sky. You can see how the air flows across my dry, wrinkled skin ...
+???: Being pushed back and forth by two rackets, I have nowhere else to go. Once they apply a force on me, I can't help bouncing to the sky. You can see how the air flows across my dry, wrinkled skin ...
 
-???:Oh, what a coincidence! Aren't you in the same situation as mine now!
+???: Oh, what a coincidence! Aren't you in the same situation as mine now!
 
-???:Ha! Look at your frowning face—
+???: Ha! Look at your frowning face—
 
-???:Your face wrinkles from the eyebrows to the nose tip, but people can barely see those light furrows. We know what that means. You have a poker face, and it's never your fault.
+???: Your face wrinkles from the eyebrows to the nose tip, but people can barely see those light furrows. We know what that means. You have a poker face, and it's never your fault.
 
-???:But for now, your face is not the thing that matters. Well, maybe for someone it is, but still, it's not.
+???: But for now, your face is not the thing that matters. Well, maybe for someone it is, but still, it's not.
 
-???:You know what really matters? The game! Yes, it's the game, of course the game matters!
+???: You know what really matters? The game! Yes, it's the game, of course the game matters!
 
-???:Everyone loves the game. They gather at the stadium, yelling or roaring vehemently. They choose one team to become its fan and spend good money on a team uniform or an autographed ball.
+???: Everyone loves the game. They gather at the stadium, yelling or roaring vehemently. They choose one team to become its fan and spend good money on a team uniform or an autographed ball.
 
-???:Yet, it's just a ball. You see where I'm coming from?
+???: Yet, it's just a ball. You see where I'm coming from?
 
-???:Just a ball. Its outline, a circle, could be found in any geometry textbook and anywhere in this world.
+???: Just a ball. Its outline, a circle, could be found in any geometry textbook and anywhere in this world.
 
-???:When the first hominid picked up a coconut and threw it to the sky—and caught it—and threw it—and caught it—and threw it again, when she felt joy and yelped, had she ever thought of the future?
+???: When the first hominid picked up a coconut and threw it to the sky—and caught it—and threw it—and caught it—and threw it again, when she felt joy and yelped, had she ever thought of the future?
 
-???:The future where a simple ball has become so complicated and enchanting, now we call it the present.
+???: The future where a simple ball has become so complicated and enchanting, now we call it the present.
 
 > **Choice 1：** Complicated and enchanting?
 
-???:Hahahahahaha! Yes, sure! Complicated and enchanting!
+???: Hahahahahaha! Yes, sure! Complicated and enchanting!
 
-???:Use your silly and smart head to think about this ball game carefully.
+???: Use your silly and smart head to think about this ball game carefully.
 
-???:The complex scoring rules, the harsh requirements for reactive agility, the countless possible foul points ... Your fingers, your wrists, and arms, a correct way of using them will lead to victory!
+???: The complex scoring rules, the harsh requirements for reactive agility, the countless possible foul points ... Your fingers, your wrists, and arms, a correct way of using them will lead to victory!
 
-???:What matters more is, like every ball game, it focuses on how you serve the ball and hitting it back.
+???: What matters more is, like every ball game, it focuses on how you serve the ball and hitting it back.
 
-???:It's not an easy job as it sounds. When you are in the game, you need to concentrate. Where will the ball come from, and how will you return it to your opponent—you need to figure that out within half a second.
+???: It's not an easy job as it sounds. When you are in the game, you need to concentrate. Where will the ball come from, and how will you return it to your opponent—you need to figure that out within half a second.
 
-???:Use your power in a proper way, move your feet in a stable pace, inhale and exhale at the right timings.
+???: Use your power in a proper way, move your feet in a stable pace, inhale and exhale at the right timings.
 
-???:Ping. Pong. Ping. Pong. Ping. Pong. Ping. Pong ...
+???: Ping. Pong. Ping. Pong. Ping. Pong. Ping. Pong ...
 
-???:The sound will last forever and ever until that bouncing little thing falls to either side of the court.
+???: The sound will last forever and ever until that bouncing little thing falls to either side of the court.
 
 ### Trail · Trail ② Fair Play
 
@@ -6032,8 +6032,6 @@ You received applause and admiration.
 > A sentence falls down in to a cave, and breaks into countless words.
 
 <!-- reader-body:start -->
-Days later
-
 Days later
 
 Foundation Chamber
@@ -6314,87 +6312,87 @@ She supports herself by the file cabinet.
 
 Dances with Fire
 
-???:Look at where you are. Paulina also once stood here.
+???: Look at where you are. Paulina also once stood here.
 
 > **Choice 1：** Who is that?
 
-???:A human. A member of the St. Pavlov Foundation.
+???: A human. A member of the St. Pavlov Foundation.
 
-???:She started from here, took 33 steps and a half, turned left, opened the door, and then turned right, went on for another 5 meters. She stopped and opened the historical intelligence cabinet.
+???: She started from here, took 33 steps and a half, turned left, opened the door, and then turned right, went on for another 5 meters. She stopped and opened the historical intelligence cabinet.
 
 > **Choice 1：** What was she like?
 
-???:Human-like. A standard human. Grave-looking, rational-thinking, efficient-acting.
+???: Human-like. A standard human. Grave-looking, rational-thinking, efficient-acting.
 
-???:She was digging in the files. The only touch of bright color on her was across her neck—a blue polka dot scarf, tied in the French way.
+???: She was digging in the files. The only touch of bright color on her was across her neck—a blue polka dot scarf, tied in the French way.
 
-???:The scarf was there to cover up a nevus on her skin. A lonely, dark spot that lacks a symmetric counterpart on the other side of the neck. It's a mark too random and out of place to exist. She did not like it.
+???: The scarf was there to cover up a nevus on her skin. A lonely, dark spot that lacks a symmetric counterpart on the other side of the neck. It's a mark too random and out of place to exist. She did not like it.
 
 > **Choice 2：** Why was she there?
 
-???:For work, sweetheart. Most of the actions we took in most of the time were for our jobs, or for the sake of getting one.
+???: For work, sweetheart. Most of the actions we took in most of the time were for our jobs, or for the sake of getting one.
 
-???:She’s a good employee, the kind of person who sincerely wishes to contribute to society. Her dedication to work equally applied to events as big as maintaining peace and matters as trivial as looking through old files.
+???: She’s a good employee, the kind of person who sincerely wishes to contribute to society. Her dedication to work equally applied to events as big as maintaining peace and matters as trivial as looking through old files.
 
-???:It was the 1931 file, or the 1935 one. She hasn’t gotten there yet. But there is another folder which has caught her attention.
+???: It was the 1931 file, or the 1935 one. She hasn’t gotten there yet. But there is another folder which has caught her attention.
 
-???:On December 28, 1932, on the wonderful Day of the Holy Innocents in Mexico, 13 arcanist high school students attacked the crowd during the nighttime celebration.
+???: On December 28, 1932, on the wonderful Day of the Holy Innocents in Mexico, 13 arcanist high school students attacked the crowd during the nighttime celebration.
 
-???:They claimed the oracle had uttered to them, from the inside of a gigantic Cordia elaeagnoides, that they had to shoulder the responsibility to protect the people.
+???: They claimed the oracle had uttered to them, from the inside of a gigantic Cordia elaeagnoides, that they had to shoulder the responsibility to protect the people.
 
-???:So they took their wands and knives, carried bottles of potion of concocted Picric acid and Nitrocellulose and walked into the festival market like any regular happy young people.
+???: So they took their wands and knives, carried bottles of potion of concocted Picric acid and Nitrocellulose and walked into the festival market like any regular happy young people.
 
-???:Their attack led to 17 deaths. Six were injured, among which four were disabled for life.
+???: Their attack led to 17 deaths. Six were injured, among which four were disabled for life.
 
-???:One young girl among the attackers couldn’t physiologically stop her hysterical laughter even when she was under arrest. She quivered convulsively, with her hands twitching tightly on 31-cm-long pruning shears.
+???: One young girl among the attackers couldn’t physiologically stop her hysterical laughter even when she was under arrest. She quivered convulsively, with her hands twitching tightly on 31-cm-long pruning shears.
 
-???:She kept muttering the word “Bocote,” which is the common way to call the Cordia elaeagnoides among the lumber dealers. In the Aztec Civilization, it means “giant mouth.”
+???: She kept muttering the word “Bocote,” which is the common way to call the Cordia elaeagnoides among the lumber dealers. In the Aztec Civilization, it means “giant mouth.”
 
-???:“Any mouth can talk”—in this case of mass hysteria, this was the one true rule.
+???: “Any mouth can talk”—in this case of mass hysteria, this was the one true rule.
 
-???:Hysteria, madness, paranoia, hearing voices or seeing things ... these abnormalities are the sparks flying in the air, and arcanists are like dry cotton. The encounter of the two ... will cause a fire.
+???: Hysteria, madness, paranoia, hearing voices or seeing things ... these abnormalities are the sparks flying in the air, and arcanists are like dry cotton. The encounter of the two ... will cause a fire.
 
-???:Paulina complained quietly. She accused the danger of fire, the risk of heat. One can hardly hold no grudges against the flame, when it is hidden next to you, patiently waiting.
+???: Paulina complained quietly. She accused the danger of fire, the risk of heat. One can hardly hold no grudges against the flame, when it is hidden next to you, patiently waiting.
 
-???:She started to mutter something of a more extreme nature. She was carried away—forgot that each individual has their own right even in a collective body. She forgot what public opinion can do to subtly influence a community. Her eyes were fixed on the scarlet flame.
+???: She started to mutter something of a more extreme nature. She was carried away—forgot that each individual has their own right even in a collective body. She forgot what public opinion can do to subtly influence a community. Her eyes were fixed on the scarlet flame.
 
-???:Racist thoughts crept silently into her blonde-haired, beautiful head, like a cunning centipede.
+???: Racist thoughts crept silently into her blonde-haired, beautiful head, like a cunning centipede.
 
-???:Fortunately, this is not yet the end of the story. Paulina still had her chances to change.
+???: Fortunately, this is not yet the end of the story. Paulina still had her chances to change.
 
 > **Choice 1：** To change?
 
-???:Change. Yes. An alteration. Everybody has to change.
+???: Change. Yes. An alteration. Everybody has to change.
 
-???:You can improve your living standards. Pay for prettier white clothes, drive around in a limo painted in bright pink—anything to prove that you are as much of a man as those tough warriors in ancient Europe!
+???: You can improve your living standards. Pay for prettier white clothes, drive around in a limo painted in bright pink—anything to prove that you are as much of a man as those tough warriors in ancient Europe!
 
-???:Or you can try the bitter side of life. A life so bad that every weekend, you have nowhere to go but lie on a couch hollowed out by your dog and pick your nose. You pick it hard, just to locate and take out the hardest, largest booger that irritates your nasal membranes to stop the endless sneezing.
+???: Or you can try the bitter side of life. A life so bad that every weekend, you have nowhere to go but lie on a couch hollowed out by your dog and pick your nose. You pick it hard, just to locate and take out the hardest, largest booger that irritates your nasal membranes to stop the endless sneezing.
 
-???:The change of Paulina started from a question.
+???: The change of Paulina started from a question.
 
-???:A senior staff of the Foundation walked to her, flipping through the pages of the same folder, and asked, "But Paulina, how are you going to deal with the fire?"
+???: A senior staff of the Foundation walked to her, flipping through the pages of the same folder, and asked, "But Paulina, how are you going to deal with the fire?"
 
-???:On the next page, the survivors started a new life under the supportive measures, and the crazy children have left their poor family, leaving the violence and harassment behind, and moved into a sanatorium with white walls.
+???: On the next page, the survivors started a new life under the supportive measures, and the crazy children have left their poor family, leaving the violence and harassment behind, and moved into a sanatorium with white walls.
 
-???:The record of the follow-up visits showed that they have stayed mentally stable since. They learned to calm themselves and overcame drug addiction and alcohol abuse. Some of them were even married.
+???: The record of the follow-up visits showed that they have stayed mentally stable since. They learned to calm themselves and overcame drug addiction and alcohol abuse. Some of them were even married.
 
-???:Between the last two pages, there lies a thank-you letter. The names signed at the end of the letter went on for two lines, and the last name ends with a cheerful strike going up, like a smiley face.
+???: Between the last two pages, there lies a thank-you letter. The names signed at the end of the letter went on for two lines, and the last name ends with a cheerful strike going up, like a smiley face.
 
-???:“The fire is always there, Paulina. We need to find a way to live with it, not to extinguish it.”
+???: “The fire is always there, Paulina. We need to find a way to live with it, not to extinguish it.”
 
-???:“Keep them somewhere safe, like a high shelf, and away from the fuel. Watch over the temperature. Maybe teach them to burn in a manner that no one, including themselves, would be hurt.”
+???: “Keep them somewhere safe, like a high shelf, and away from the fuel. Watch over the temperature. Maybe teach them to burn in a manner that no one, including themselves, would be hurt.”
 
-???:“Division and confrontation have never taken this world to a better place, have they?”
+???: “Division and confrontation have never taken this world to a better place, have they?”
 
-???:They went on talking for a bit more—about the responsibilities of this job, about personal liabilities, about hatred, about the minorities, about the practices that ought to be taken to realize ideas.
+???: They went on talking for a bit more—about the responsibilities of this job, about personal liabilities, about hatred, about the minorities, about the practices that ought to be taken to realize ideas.
 
-???:Young Paulina had changed. Drops of tears seep out from the bottom of that pair of beautiful green eyes.
+???: Young Paulina had changed. Drops of tears seep out from the bottom of that pair of beautiful green eyes.
 
-???:I shed tears with her, of course. Sadly, I was busy sucking the flavoring powder on chips off my fingers and missed the right moment to wipe those tears off my face.
+???: I shed tears with her, of course. Sadly, I was busy sucking the flavoring powder on chips off my fingers and missed the right moment to wipe those tears off my face.
 
-???:Nevertheless, this is my favorite episode ... We should watch it again! Ahem ...
+???: Nevertheless, this is my favorite episode ... We should watch it again! Ahem ...
 
-???:... Look at where you are. Paulina also once stood here.
+???: ... Look at where you are. Paulina also once stood here.
 
 
 ---
@@ -7199,15 +7197,15 @@ One after another, until Regulus has an armful of angry Carbuncles.
 
 **Druvis Ⅲ:** That's the lair of Carbuncles. They've been stirred up!
 
-**Regulus:**Whoa ... a bumper harvest of critters ...
+**Regulus:** Whoa ... a bumper harvest of critters ...
 
-**Regulus:**Come and help!
+**Regulus:** Come and help!
 
 **APPLe:** Hold on, Captain! We're coming!
 
 ***
 
-COMBAT:…
+COMBAT:      …
 
 ***
 
@@ -7567,97 +7565,97 @@ Lilya stands up and pats off the dust on her carelessly.
 
 Outside the Spotlight
 
-???:The story has come to a new stage.
+???: The story has come to a new stage.
 
-???:It is fascinating. It has plots of unwavering loyalty, survival from the jaws of death, and even a little bit of ... unconventional excitement!
+???: It is fascinating. It has plots of unwavering loyalty, survival from the jaws of death, and even a little bit of ... unconventional excitement!
 
-???:Raise your head, and you will see this splendid spotlight grilling the top of our heads like a stove heating a frying pan.
+???: Raise your head, and you will see this splendid spotlight grilling the top of our heads like a stove heating a frying pan.
 
-???:We mumble, and mumble, and mumble ... something like arcanists, new changes, perseverance, and the "Storm." Right, that's it! The "Storm"!
+???: We mumble, and mumble, and mumble ... something like arcanists, new changes, perseverance, and the "Storm." Right, that's it! The "Storm"!
 
-???:The "Storm" is no longer something new here. Everyone in the story talks about the "Storm." People don't find it attractive anymore.
+???: The "Storm" is no longer something new here. Everyone in the story talks about the "Storm." People don't find it attractive anymore.
 
-???:Once you turn the camera out of the spotlight, you'll see many other people on the stage. Many, many other f\*\*\*\*\*g people.
+???: Once you turn the camera out of the spotlight, you'll see many other people on the stage. Many, many other f\*\*\*\*\*g people.
 
 > **Choice 1：** Who are they?
 
-???:The other actors. Actors who are different from you.
+???: The other actors. Actors who are different from you.
 
-???:Their name won't be listed in the cast at the end of the movie. Not even a poor "St. Pavlov Squad Leader A."
+???: Their name won't be listed in the cast at the end of the movie. Not even a poor "St. Pavlov Squad Leader A."
 
 > **Choice 2：** Where do they come from?
 
-???:Neat question. People always need a place to come from.
+???: Neat question. People always need a place to come from.
 
-???:Then I will give you a neat answer as well, you inquisitive little thing. They came from their mothers' tummies. Can you understand it? Is it too difficult for you?
+???: Then I will give you a neat answer as well, you inquisitive little thing. They came from their mothers' tummies. Can you understand it? Is it too difficult for you?
 
-???:They're a bunch of people, a bunch of people just like you, though there are still differences between you and them. Open their bellies, and you can find everything that should be there—the liver, the stomach, the spleen, the lungs, and the heart.
+???: They're a bunch of people, a bunch of people just like you, though there are still differences between you and them. Open their bellies, and you can find everything that should be there—the liver, the stomach, the spleen, the lungs, and the heart.
 
-???:Their faces are clear to be seen. Look at them carefully, carefully. Oh, you might have met one or two of them.
+???: Their faces are clear to be seen. Look at them carefully, carefully. Oh, you might have met one or two of them.
 
-???:They come from the same institution as yours, the St. Pavlov Foundation.
+???: They come from the same institution as yours, the St. Pavlov Foundation.
 
-???:Eve from the France branch, La from the Egypt branch, and the Matryoshka from the Russia branch.
+???: Eve from the France branch, La from the Egypt branch, and the Matryoshka from the Russia branch.
 
-???:Oh right, your first friend made in a branch, that—that young man with a red nose—Ken! Ken from the Scotland branch. You looked here, you looked there, you couldn't find him anywhere, however hard you tried.
+???: Oh right, your first friend made in a branch, that—that young man with a red nose—Ken! Ken from the Scotland branch. You looked here, you looked there, you couldn't find him anywhere, however hard you tried.
 
 > **Choice 1：** Where did he go?
 
-???:Good question. I'll help you find him.
+???: Good question. I'll help you find him.
 
-???:Let's keep looking around, but this time, vertically instead of horizontally. That's right! Upside vertical. Don't be afraid of that radiant spotlight, look there! Ignore the risk of blinding your eyes!
+???: Let's keep looking around, but this time, vertically instead of horizontally. That's right! Upside vertical. Don't be afraid of that radiant spotlight, look there! Ignore the risk of blinding your eyes!
 
-???:And you see it. A white umbrella, bigger and wider than any umbrella you have seen. Those green flashes stinging your eyes is the price you have to pay for finding it.
+???: And you see it. A white umbrella, bigger and wider than any umbrella you have seen. Those green flashes stinging your eyes is the price you have to pay for finding it.
 
-???:The white umbrella is a shelter from the rain, saving that Orange-hair girl in white for you.
+???: The white umbrella is a shelter from the rain, saving that Orange-hair girl in white for you.
 
-???:And you have witnessed how people standing in the pouring "Storm" without shelter fade away.
+???: And you have witnessed how people standing in the pouring "Storm" without shelter fade away.
 
-???:Like your little friends, and Ken from the Scotland branch.
+???: Like your little friends, and Ken from the Scotland branch.
 
-???:Remember the differences I just mentioned?
+???: Remember the differences I just mentioned?
 
 > **Choice 1：** ...
 
-???:A great time to keep silent.
+???: A great time to keep silent.
 
-???:Your ugly trauma, a mixture of your mental issues and miserable past, would burst out in the next second, making everyone's heart twitch.
+???: Your ugly trauma, a mixture of your mental issues and miserable past, would burst out in the next second, making everyone's heart twitch.
 
-???:But think otherwise.
+???: But think otherwise.
 
-???:If the truth were known to all—today's not real, and there's no tomorrow, I'm going to eat my shoes, and an asteroid is falling—then all of them would go crazy.
+???: If the truth were known to all—today's not real, and there's no tomorrow, I'm going to eat my shoes, and an asteroid is falling—then all of them would go crazy.
 
-???:Those "pigeons" valuing sense above anything won't sit aside and let this happen.
+???: Those "pigeons" valuing sense above anything won't sit aside and let this happen.
 
-???:So they made the most sensible choice. The huge white umbrella has only sheltered those qualified people. "Qualified" according to their standard.
+???: So they made the most sensible choice. The huge white umbrella has only sheltered those qualified people. "Qualified" according to their standard.
 
-???:Now, let's cross our arms and make an arrogant judgment like those cynics, "How cruel it is!" And then, you may start contemplating.
+???: Now, let's cross our arms and make an arrogant judgment like those cynics, "How cruel it is!" And then, you may start contemplating.
 
-???:Should they all go aboard the ark? Can this ark carry these many people?
+???: Should they all go aboard the ark? Can this ark carry these many people?
 
-???:Try to raise the question as peacefully and slowly as you can. And their enthusiasm will be dampened and let out a sound like what you hear when you pour water into a heated pan—sssss ...
+???: Try to raise the question as peacefully and slowly as you can. And their enthusiasm will be dampened and let out a sound like what you hear when you pour water into a heated pan—sssss ...
 
 > **Choice 1：** ... What about their feelings?
 
-???:Their feelings. Oh, they! You mean Eve, La, and the Matryoshka! Of course, you care about your friends. That's a virtue of yours I won't forget.
+???: Their feelings. Oh, they! You mean Eve, La, and the Matryoshka! Of course, you care about your friends. That's a virtue of yours I won't forget.
 
-???:In order to understand their feelings, you need to bend down and reach. That's right, reach for the dark corner under the stage.
+???: In order to understand their feelings, you need to bend down and reach. That's right, reach for the dark corner under the stage.
 
-???:Until your fingertip is wrapped by soft, warm, and considerate black velvet, as comfortable as a mother's singing to her baby in a crib.
+???: Until your fingertip is wrapped by soft, warm, and considerate black velvet, as comfortable as a mother's singing to her baby in a crib.
 
-???:That's what the people without a shelter above them are feeling now.
+???: That's what the people without a shelter above them are feeling now.
 
 > **Choice 1：** ...
 
-???:More silence. You are really good at finding the right timing for your silence, just like my friend and I are experts in farting soundlessly in the elevator cart.
+???: More silence. You are really good at finding the right timing for your silence, just like my friend and I are experts in farting soundlessly in the elevator cart.
 
-???:My hypocrite and dumb friend, think about it in a different way.
+???: My hypocrite and dumb friend, think about it in a different way.
 
-???:Who knows how much garbage there is under the stage? There may be liquid seeping out of rotten pastry and dairy products, intrusions of American cockroach with sleek abdomen crawling everywhere ...
+???: Who knows how much garbage there is under the stage? There may be liquid seeping out of rotten pastry and dairy products, intrusions of American cockroach with sleek abdomen crawling everywhere ...
 
-???:Who can say it's not a blessing to know nothing about the truth?
+???: Who can say it's not a blessing to know nothing about the truth?
 
-???:Especially when you can't leave this shitty place.
+???: Especially when you can't leave this shitty place.
 
 
 ---

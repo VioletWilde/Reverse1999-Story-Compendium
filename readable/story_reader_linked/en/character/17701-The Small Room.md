@@ -130,8 +130,6 @@ His eyes are red and bulging, just like the pair of distended ovaries he saw ins
 
 **She. Has. No. Choice!**
 
-**She. Has. No. Choice!**
-
 **???:** That was her first appearance in Vienna.
 
 **???:** A fanatic admirer bribed her mother's doctor, subsequently discovering her existence through a fluffy—and oddly bloody—pregnancy test.
@@ -156,7 +154,7 @@ The voice pauses, awaiting an answer.
 
 **???:** But my sister has never performed in a play. Not even once.
 
-**???:****She's there, but she also isn't.** She's many people, including me—my voice in her throat, my smile on her face …
+**???:** **She's there, but she also isn't.** She's many people, including me—my voice in her throat, my smile on her face …
 
 **???:** Upon the stage, many spirits wander.
 

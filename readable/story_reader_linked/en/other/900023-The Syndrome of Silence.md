@@ -55,16 +55,6 @@ Remember to say hello at the Paris base. Try to be polite.
 Don't mention Manus Vindictae to strangers.
 
 Have a pleasant trip, and stay safe.
-
-On the other side of this door is your homeland, though one you've never seen before.
-
-You may go around as you like until I return.
-
-Remember to say hello at the Paris base. Try to be polite.
-
-Don't mention Manus Vindictae to strangers.
-
-Have a pleasant trip, and stay safe.
 <!-- reader-body:end -->
 
 

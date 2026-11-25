@@ -128,7 +128,7 @@ She doesn't need her arcane skill to know this gem meets the standard.
 
 But a small dragon pokes its head out from behind her collar and crawls into position.
 
-**Brume:**Byfire,whatisfalseispurged.
+**Brume:** By fire, what is false is purged.
 
 **Feufeu:** \*roar\*
 
@@ -454,7 +454,7 @@ After a long while, she speaks again.
 
 **Brume:** It's genuine.
 
-**Brume:**Byfire,whatisfalseispurged.
+**Brume:** By fire, what is false is purged.
 
 ***
 
@@ -786,7 +786,7 @@ He waves his hand like shooing flies, showing no pity.
 
 Small, rough hands place a simply cut, unheated stone into her palm. It has real weight to it.
 
-**Brume:**Byfire,whatisfalseispurged.
+**Brume:** By fire, what is false is purged.
 
 ***
 

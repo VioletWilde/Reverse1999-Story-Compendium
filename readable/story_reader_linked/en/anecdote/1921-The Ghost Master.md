@@ -312,11 +312,11 @@ She charges forward without a second thought, only to be firmly restrained.
 
 **An-an Lee:** Huh?
 
-**Strange Man:**"... In the end, ghosts are just the product of collective imagination and mass hysteria."
+**Strange Man:** "... In the end, ghosts are just the product of collective imagination and mass hysteria."
 
-**Strange Man:**"They're nothing but a form of energy, shaped by what you imagine them to be, like wind, radiation, or even bad gas, just a kind of energy you can't see."
+**Strange Man:** "They're nothing but a form of energy, shaped by what you imagine them to be, like wind, radiation, or even bad gas, just a kind of energy you can't see."
 
-**Strange Man:**"That's why ghosts in different parts of the world are so distinct."
+**Strange Man:** "That's why ghosts in different parts of the world are so distinct."
 
 **Strange Man:** Got it?
 
@@ -652,13 +652,7 @@ But the chain remains unmoved.
 <!-- reader-body:start -->
 You can hear them, can't you?
 
-You can hear them, can't you?
-
 You're just like me—another poor thing they've cast aside.
-
-You're just like me—another poor thing they've cast aside.
-
-Another child left behind and forgotten.
 
 Another child left behind and forgotten.
 
@@ -671,8 +665,6 @@ The well's bottom is inescapable. The stones form a cramped, stifling cage.
 **An-an Lee:** Hold on! The moss ... Is it moving?
 
 As the moss creeps and crawls like a thousand centipedes, the wall fades away.
-
-Now, I can feel you, too.
 
 Now, I can feel you, too.
 
@@ -748,8 +740,6 @@ It's so boring.
 
 It's so boring.
 
-It's so boring.
-
 As everything darkens once more, the walls draw inward, curving and forming a ring around her.
 
 In the darkness, a soft glow emerges from the soil, sparkling in scattered clusters.
@@ -764,13 +754,7 @@ His thumbs are fastened together with a red rope.
 
 It's my job to figure out the fears of those who come down the well.
 
-It's my job to figure out the fears of those who come down the well.
-
 Dig up the dirt beneath you with your hands.
-
-Dig up the dirt beneath you with your hands.
-
-What you're looking for is right there.
 
 What you're looking for is right there.
 
@@ -888,8 +872,6 @@ He chooses not to respond to the blind fortune teller's words.
 
 Ten days later
 
-Ten days later
-
 This is the agreed meeting spot, deserted and lifeless. When you're among the dead, there is no one who can share your secrets.
 
 An-an sits on a rock opposite Chen, swinging her legs.
@@ -984,8 +966,6 @@ She holds the unblossomed lily close, squatting down like a devoted believer.
 
 Dawn
 
-Dawn
-
 Chen makes his way through the light morning mist, crossing the cemetery with eager anticipation in his steps.
 
 **Fading Spirit:** Please, I'm begging you, take her ... just take her away, please ...
@@ -1031,8 +1011,6 @@ She holds the delicate lily gently in her hand, as if holding a sleeping kitten.
 **Demi-Divine Chen:** Up to you, kiddo! I'll pick you up tomorrow. No, scratch that, in three days!
 
 He holds his bandaged head as he walks, wincing and muttering to himself as he goes.
-
-Three days later
 
 Three days later
 
@@ -1133,8 +1111,6 @@ The nurse enters with a tray, a slight look of surprise on her face.
 She bends down, wiping the tears and snot from his face.
 
 **Demi-Divine Chen:** \*sigh\*
-
-Three months later
 
 Three months later
 
@@ -1304,8 +1280,6 @@ Amidst the darkness, the flower bud begins to tremble.
 
 "... will it bloom."
 
-"... will it bloom."
-
 **???:** ...
 
 The bud gradually opens up, unveiling the "stigma" at its center.
@@ -1402,8 +1376,6 @@ Then, another round of laughter erupts.
 
 An-an Lee
 
-An-an Lee
-
 ...
 
 **Demi-Divine Chen:** I heard the whole thing from the doorway, but I knew I had no choice. So I made my way back to my place down the street.
@@ -1424,25 +1396,13 @@ Escape is the only way forward.
 
 Don't get comfortable. Don't ever think you're safe.
 
-Don't get comfortable. Don't ever think you're safe.
-
 Don't indulge in pleasure. It'll make you complacent and destroy you in the end.
-
-Don't indulge in pleasure. It'll make you complacent and destroy you in the end.
-
-Your punishment will come soon enough. Your calamity isn't over yet.
 
 Your punishment will come soon enough. Your calamity isn't over yet.
 
 It's just up ahead, always ahead, waiting for you to bump right into it.
 
-It's just up ahead, always ahead, waiting for you to bump right into it.
-
 Don't breathe.
-
-Don't breathe.
-
-You can't breathe yet.
 
 You can't breathe yet.
 

@@ -465,7 +465,7 @@ But none of it slows her down.
 
 **Kiperina:** I remember it so clearly. The circus was right over there, by that little lake.
 
-**???:**Hello! Hello!
+**???:** Hello! Hello!
 
 She hears a faint voice call out to her, but there's nothing behind her except the white snow.
 
@@ -499,7 +499,7 @@ Shards of frozen snow whip against her skin, and the wind's roar quietens Han Zh
 
 **Kiperina:** I can't hear you!
 
-**Han Zhang:**What I'm saying is—no more—don't—everything's—
+**Han Zhang:** What I'm saying is—no more—don't—everything's—
 
 The storm rages. The whipping snow covering the words of the tiny salamander.
 
@@ -545,9 +545,9 @@ Then the muffled impact of a heavy object falling into the snow.
 
 After a moment, her brain sluggishly registers. The "heavy object" was her.
 
-**Han Zhang:**I said, that's enough! You're freezing to death, kid. Keep going like this and you're done for!
+**Han Zhang:** I said, that's enough! You're freezing to death, kid. Keep going like this and you're done for!
 
-**Han Zhang:**Where are the other teleport disks? Hand them over. I'm taking you back.
+**Han Zhang:** Where are the other teleport disks? Hand them over. I'm taking you back.
 
 Something scrambles onto her chest, shouting words she can barely make out.
 

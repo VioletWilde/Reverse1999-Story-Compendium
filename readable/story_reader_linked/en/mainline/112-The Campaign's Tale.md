@@ -1904,51 +1904,51 @@ As she turns, a soft sigh comes from behind her.
 
 Imprint
 
-???:Ah, we meet again—though it isn't much of a surprise.
+???: Ah, we meet again—though it isn't much of a surprise.
 
-???:Your move from the Western Front to the eastern one is utterly predictable.
+???: Your move from the Western Front to the eastern one is utterly predictable.
 
-???:Running around like a lost chick, following after her mother hen—or really anything big enough to grab your attention.
+???: Running around like a lost chick, following after her mother hen—or really anything big enough to grab your attention.
 
-???:Will you ever learn to stand on your own? When will you grow up?
+???: Will you ever learn to stand on your own? When will you grow up?
 
 > **Choice 1：** When I find her.
 
-???:And then what? Watch her disappear again?
+???: And then what? Watch her disappear again?
 
-???:You're not an idiot, so why do you keep making the same mistakes?
+???: You're not an idiot, so why do you keep making the same mistakes?
 
-???:You aren't the type to find joy in running on a treadmill, are you?
+???: You aren't the type to find joy in running on a treadmill, are you?
 
-???:Then again—maybe you are that type after all, at least when it comes to chasing fashion.
+???: Then again—maybe you are that type after all, at least when it comes to chasing fashion.
 
 > **Choice 1：** Is the concept of family so strange to you?
 
-???:What's that supposed to mean? Of course I understand family. I know what "love" is!
+???: What's that supposed to mean? Of course I understand family. I know what "love" is!
 
-???:She attended to your every need when you were still wet behind the wings. You depended on her, clung to her—because your very survival demanded it.
+???: She attended to your every need when you were still wet behind the wings. You depended on her, clung to her—because your very survival demanded it.
 
-???:Then one day, she was gone from your life. You had to fly on your own, do your own chores. You wept over the "good old days" of comfort and being cared for—oh, poor birdie.
+???: Then one day, she was gone from your life. You had to fly on your own, do your own chores. You wept over the "good old days" of comfort and being cared for—oh, poor birdie.
 
-???:But the truth is, that care and affection were nothing more than her way of feeding a sick obsession with control. That's what "love" is—shallow as a birdbath!
+???: But the truth is, that care and affection were nothing more than her way of feeding a sick obsession with control. That's what "love" is—shallow as a birdbath!
 
-???:I was "loved" once. I "loved" others, too. I've experienced it firsthand, and I understand it as well as anyone!
+???: I was "loved" once. I "loved" others, too. I've experienced it firsthand, and I understand it as well as anyone!
 
-???:Ah...
+???: Ah...
 
 > **Choice 2：** She's more than just a mother.
 
-???:She's key to saving the world—that's what you're saying? I'm tired of it.
+???: She's key to saving the world—that's what you're saying? I'm tired of it.
 
-???:Tired of sick jokes like this, with self-important ideologues bragging about securing a bright future for everyone.
+???: Tired of sick jokes like this, with self-important ideologues bragging about securing a bright future for everyone.
 
-???:You hear any cheers or laughter? Nope—because everyone who believed in their causes already died fighting for them.
+???: You hear any cheers or laughter? Nope—because everyone who believed in their causes already died fighting for them.
 
-???:If you ask me, we should hang some of those "big shots" in public. It wouldn't bring peace, of course, but maybe the rest of us would feel a little relief ...
+???: If you ask me, we should hang some of those "big shots" in public. It wouldn't bring peace, of course, but maybe the rest of us would feel a little relief ...
 
-???:Come, take a seat. I've set your favorite chair facing east.
+???: Come, take a seat. I've set your favorite chair facing east.
 
-???:The view's better that way, not to mention that the river helps wash away the stench of corpses.
+???: The view's better that way, not to mention that the river helps wash away the stench of corpses.
 
 ### Trail · Attached Files
 
@@ -3297,7 +3297,7 @@ Marsha looks up too, but she shows no sign of alarm.
 
 SPDM Library Card
 
-Fiddler Crab Shapeshifting for Dummies —Call Number: F-4312-A —Category: Shapeshifting - Marine Critter Biology Branch **Borrowing Record**Sonetto: Returned after 2 hours and 36 minutes. Hans Levis: Returned after one week. ... Cyril Aman: Returned the following day at the same time (abandoned practice, claiming to hear the sound of tsunamis in their nightmares). Lark von Stuhr: Returned after 5 days and 6 hours. Merel: Returned after 2 days and 3 hours. \*Librarian's Note: Aside from Sonetto and Merel, all returns showed claw marks along the spine and traces of salt residue. Going forward, this book may only be borrowed under teacher supervision.
+Fiddler Crab Shapeshifting for Dummies —Call Number: F-4312-A —Category: Shapeshifting - Marine Critter Biology Branch **Borrowing Record** Sonetto: Returned after 2 hours and 36 minutes. Hans Levis: Returned after one week. ... Cyril Aman: Returned the following day at the same time (abandoned practice, claiming to hear the sound of tsunamis in their nightmares). Lark von Stuhr: Returned after 5 days and 6 hours. Merel: Returned after 2 days and 3 hours. \*Librarian's Note: Aside from Sonetto and Merel, all returns showed claw marks along the spine and traces of salt residue. Going forward, this book may only be borrowed under teacher supervision.
 
 - Description：I sincerely hope returning time doesn't become some new form of competition.
 - Action：Check records
@@ -6874,43 +6874,43 @@ Marsha leans in close in an attempt to catch whatever sound his ruined body is s
 
 Soothing Rest
 
-???:Seems you've got some iron beneath that calm surface.
+???: Seems you've got some iron beneath that calm surface.
 
-???:Not everyone would sleep so soundly in a stranger's house.
+???: Not everyone would sleep so soundly in a stranger's house.
 
-???:Honestly, you could've just made yourself at home and stayed the night. When I take out the trash later, I'll be sure to toss you out along with it.
+???: Honestly, you could've just made yourself at home and stayed the night. When I take out the trash later, I'll be sure to toss you out along with it.
 
 > **Choice 1：** I had a dream.
 
-???:Oh, spare me the details!
+???: Oh, spare me the details!
 
-???:I'm sure it was full of enviable warmth and radiance—just enough to scorch my miserable, frozen heart.
+???: I'm sure it was full of enviable warmth and radiance—just enough to scorch my miserable, frozen heart.
 
-???:Whatever you saw or did in that dream, do yourself a favor and let it go.
+???: Whatever you saw or did in that dream, do yourself a favor and let it go.
 
 > **Choice 2：** Did I miss dinner?
 
-???:You did—and I owe you my thanks.
+???: You did—and I owe you my thanks.
 
-???:Your sleep talking added a bit of flavor to my otherwise bland meal.
+???: Your sleep talking added a bit of flavor to my otherwise bland meal.
 
-???:I haven't had such an appealing appetizer in a long time.
+???: I haven't had such an appealing appetizer in a long time.
 
 > **Choice 1：** What about my meal?
 
-???:The soup's gone cold. That ship's sailed.
+???: The soup's gone cold. That ship's sailed.
 
-???:You may not like the reality served on your silver platter—no one does—but you'll have to swallow it.
+???: You may not like the reality served on your silver platter—no one does—but you'll have to swallow it.
 
-???:Blame this mess on the black robes if you want; those cowards keep trying to drag the world back to their "good old days."
+???: Blame this mess on the black robes if you want; those cowards keep trying to drag the world back to their "good old days."
 
-???:And the white robes preaching the future? No less clowns for their taste in uniforms—falling off their high horses again and again, brought down by their own arrogance.
+???: And the white robes preaching the future? No less clowns for their taste in uniforms—falling off their high horses again and again, brought down by their own arrogance.
 
-???:Who would have thought? The whole universe turned into one circus starring two troupes of fools.
+???: Who would have thought? The whole universe turned into one circus starring two troupes of fools.
 
-???:Why didn't that blind woman just let the world burn back then? It wouldn't have been worse than these chaotic times. And who asked her to play the martyr, anyway?
+???: Why didn't that blind woman just let the world burn back then? It wouldn't have been worse than these chaotic times. And who asked her to play the martyr, anyway?
 
-???:If you're lucky enough to find her, take her home—and make sure she stays there, quietly, for everyone's sake.
+???: If you're lucky enough to find her, take her home—and make sure she stays there, quietly, for everyone's sake.
 
 ### Trail · Sleep in the Sound of Bones
 
@@ -6922,7 +6922,7 @@ Soothing Rest
 
 The Lost Diary of a Captive
 
-\[An old diary with black, viscous stains smeared across its cover. The corners are torn and dog-eared. It seems the owner abandoned it recently.\]**November 11** Every night since my capture, I've heard terrifying, fragmented whispers coming from outside ... and screams—not just one or two people, but many, shrieking and wailing in pain. I can also smell something burning and rotting. Damn it, are those Manus dogs burning corpses? Or performing some twisted ritual? ... **November XX** I've lost track of the date. Time and life hold no meaning in this godforsaken place. I once saved lives as a doctor ... now, they've used my medical instruments to brutally murder Boyaryshkin, Artyom, and Malyekhov right in front of me. I don't care anymore. If they're going to come for me eventually, they might as well hurry and end it now. ... **November XX** I don't know how to write this. I actually survived that nightmare—which feels like a curse in itself. We were herded onto an empty clearing where a koldunya in black robes was chanting a song. I could barely make out the words: "... Inculcator of Arcanum, let me manifest decay anew." She pulled away the shroud covering the corpse. As the black mist dissipated, a broken body lay before us. She handed me my old scalpel: "Dissect it." I looked down at the remains exposed to the air. Male, early twenties. Mottled, wrinkled skin. Ribs collapsed and fractured. I didn't know what I was doing—fear made me forget everything I once believed. Standing beside her, I raised the blade and started cutting. The scraping of bone was monotonous, but I freed that soul from its mortal prison. When I lowered the knife, I realized we were surrounded by a black fog reeking of death. All the other captives had died, their faces twisted in agony. The koldunya seized my filthy hand and laughed: "Thank you, Charon! You helped me unravel death and command it, master Death, and aid its power!" ... **November XX** Boyaryshkin, Artyom, Malyekhov—they came for me! I didn't mean to! I'm sorry, I'm sorry, I'm sorry ... \[The remaining text is obscured by black, viscous stains.\]
+\[An old diary with black, viscous stains smeared across its cover. The corners are torn and dog-eared. It seems the owner abandoned it recently.\] **November 11** Every night since my capture, I've heard terrifying, fragmented whispers coming from outside ... and screams—not just one or two people, but many, shrieking and wailing in pain. I can also smell something burning and rotting. Damn it, are those Manus dogs burning corpses? Or performing some twisted ritual? ... **November XX** I've lost track of the date. Time and life hold no meaning in this godforsaken place. I once saved lives as a doctor ... now, they've used my medical instruments to brutally murder Boyaryshkin, Artyom, and Malyekhov right in front of me. I don't care anymore. If they're going to come for me eventually, they might as well hurry and end it now. ... **November XX** I don't know how to write this. I actually survived that nightmare—which feels like a curse in itself. We were herded onto an empty clearing where a koldunya in black robes was chanting a song. I could barely make out the words: "... Inculcator of Arcanum, let me manifest decay anew." She pulled away the shroud covering the corpse. As the black mist dissipated, a broken body lay before us. She handed me my old scalpel: "Dissect it." I looked down at the remains exposed to the air. Male, early twenties. Mottled, wrinkled skin. Ribs collapsed and fractured. I didn't know what I was doing—fear made me forget everything I once believed. Standing beside her, I raised the blade and started cutting. The scraping of bone was monotonous, but I freed that soul from its mortal prison. When I lowered the knife, I realized we were surrounded by a black fog reeking of death. All the other captives had died, their faces twisted in agony. The koldunya seized my filthy hand and laughed: "Thank you, Charon! You helped me unravel death and command it, master Death, and aid its power!" ... **November XX** Boyaryshkin, Artyom, Malyekhov—they came for me! I didn't mean to! I'm sorry, I'm sorry, I'm sorry ... \[The remaining text is obscured by black, viscous stains.\]
 
 - Description：This man has turned stiff, but the tears and stains on his notebook are fresh. Opening it sends a chill down your spine.
 - Action：Glance
@@ -7807,7 +7807,7 @@ The commander remains standing, as if waiting for something to arrive. Soon, the
 
 Colonel Sternova's Operation Order Brief
 
-**Operation Order Brief**\[In accordance with Zeno Military Security Protocol, this brief has been encrypted.\]**Operation Orders: #Operation Frozen Horseshoe - Ω. "Spear" Light Cavalry Division 0500****1. Mission** You are ordered to form a rapid strike team with the "Shashka" and "Shield" units, hereby designated "Ω". Strike Team "Ω" will coordinate with "Horse Hunter" forces and the "Old Citizen" unit to establish an "Ω Formation" battlefront. Advance upstream along the golden bank of the "Undercurrent" waterway to launch a surprise assault. Your core objective is to restrict enemy deployment space at all costs. **2. Enemy Intel** Our forces and "Horse Hunter" forces suffered infiltration attacks in "Southern Town." We have confirmed the enemy's new attack target. Enemy "Black Locust" forces are massing on the golden bank of the "Undercurrent" waterway. They are expected to cross in full strength and launch a general offensive against "Southern Town." According to reliable intelligence, enemy "Black Locust" forces are expected to mass for attack within the next 24 hours. However, the exact strength of the troops committed to the dark bank of the "Undercurrent" waterway remains unknown. **3. Execution** Rapidly ford the "Undercurrent" waterway. Before enemy forces complete assembly, execute a flanking maneuver from the narrow wing. Ambush and eliminate all encountered enemy units. Penetrate enemy rear positions and sever supply lines. All combat units must reach the Old Tree riverside sector and assemble before the autumn harvest. **4. Coordination**"Horse Hunter" forces and the "Old Citizen" unit have been integrated into the "Southern Town" defense network and will conduct diversionary attacks from the dark bank. "Long Tail" forces will provide supporting fire and clean-up. Following the extension of the offensive, your unit must immediately engage the enemy and coordinate with friendly forces for encirclement. If you encounter an enemy counterattack, you may request air support. Due to logistical constraints, the "Scout Shortsword" camp will assist in securing abandoned horses and equipment recovered during operations. **5. Command and Signals** Maintain "Status Quo" until next classified order is received.
+**Operation Order Brief** \[In accordance with Zeno Military Security Protocol, this brief has been encrypted.\] **Operation Orders: #Operation Frozen Horseshoe - Ω. "Spear" Light Cavalry Division 0500** **1. Mission** You are ordered to form a rapid strike team with the "Shashka" and "Shield" units, hereby designated "Ω". Strike Team "Ω" will coordinate with "Horse Hunter" forces and the "Old Citizen" unit to establish an "Ω Formation" battlefront. Advance upstream along the golden bank of the "Undercurrent" waterway to launch a surprise assault. Your core objective is to restrict enemy deployment space at all costs. **2. Enemy Intel** Our forces and "Horse Hunter" forces suffered infiltration attacks in "Southern Town." We have confirmed the enemy's new attack target. Enemy "Black Locust" forces are massing on the golden bank of the "Undercurrent" waterway. They are expected to cross in full strength and launch a general offensive against "Southern Town." According to reliable intelligence, enemy "Black Locust" forces are expected to mass for attack within the next 24 hours. However, the exact strength of the troops committed to the dark bank of the "Undercurrent" waterway remains unknown. **3. Execution** Rapidly ford the "Undercurrent" waterway. Before enemy forces complete assembly, execute a flanking maneuver from the narrow wing. Ambush and eliminate all encountered enemy units. Penetrate enemy rear positions and sever supply lines. All combat units must reach the Old Tree riverside sector and assemble before the autumn harvest. **4. Coordination** "Horse Hunter" forces and the "Old Citizen" unit have been integrated into the "Southern Town" defense network and will conduct diversionary attacks from the dark bank. "Long Tail" forces will provide supporting fire and clean-up. Following the extension of the offensive, your unit must immediately engage the enemy and coordinate with friendly forces for encirclement. If you encounter an enemy counterattack, you may request air support. Due to logistical constraints, the "Scout Shortsword" camp will assist in securing abandoned horses and equipment recovered during operations. **5. Command and Signals** Maintain "Status Quo" until next classified order is received.
 
 - Description：First Opening - Operation Order Brief - Top Secret.
 - Action：Accept Order
@@ -8748,7 +8748,7 @@ And she looks down at the dust still trapped between her fingers.
 
 A Disciplinary Decision Draft
 
-**Disciplinary Action for Vice Admiral Ivan Ivanovich Burakov's Violation of Military Regulations (Draft)** Ivan Ivanovich Burakov, holding the rank of Vice Admiral, currently serves as the commander of Zeno Arms Academy Cavalry Corps. He led forces in Operation Abadan, Operation Baikonur Cosmodrome, and others during the "Storm" war, earning numerous commendations for distinguished service. (Reply: Be clear on merits and demerits. List everything!) However, following the third "Storm," Vice Admiral Burakov deserted his post while on active duty and subsequently, on multiple occasions without authorization from superior command or consent from the individual, brought a human teacher Ms. Galina(Reply: Redact the name.) into Zeno Headquarters in Geneva. This conduct raised serious concerns among relevant human authorities, damaged the Cavalry Corps' reputation, and severely undermined peaceful relations between arcanists and humans.(Reply: Unnecessary.) Regarding Vice Admiral Ivan Ivanovich Burakov's unauthorized conduct in bringing a human into Zeno Arms Academy, following investigation by the oversight team and verification by the Military Discipline Department, the Zeno Arms Academy High Command has determined his actions constitute severe violations of the Latest Supplementary to Zeno Arms Academy Military Regulations (Draft). In light of Vice Admiral Burakov's repeated dereliction of duty and severe disruption of human life, having consecutively received three informal warnings, three formal warnings, and three severe warnings, Zeno High Command has decided to impose cumulative penalties sentence him to suspension without pay for twelve months. (Reply: Who authorized this? Are you desk officers going to command troops in the field?)The oversight team will dispatch personnel to supervise Vice Admiral Burakov's division to ensure compliance with this sentence.(Reply: Unnecessary. He follows orders.) Regarding Vice Admiral Burakov's violation of military regulations, all commanders and soldiers are urged to take this as a warning, strengthen their sense of duty, and strictly uphold Zeno military discipline. Zeno Arms Academy Office Signature: (Reply: I read it. Too much padding! Redraft for signature.) XX XX, XXXX
+**Disciplinary Action for Vice Admiral Ivan Ivanovich Burakov's Violation of Military Regulations (Draft)** Ivan Ivanovich Burakov, holding the rank of Vice Admiral, currently serves as the commander of Zeno Arms Academy Cavalry Corps. He led forces in Operation Abadan, Operation Baikonur Cosmodrome, and others during the "Storm" war, earning numerous commendations for distinguished service. (Reply: Be clear on merits and demerits. List everything!) However, following the third "Storm," Vice Admiral Burakov deserted his post while on active duty and subsequently, on multiple occasions without authorization from superior command or consent from the individual, brought a human teacher Ms. Galina (Reply: Redact the name.) into Zeno Headquarters in Geneva. This conduct raised serious concerns among relevant human authorities, damaged the Cavalry Corps' reputation, and severely undermined peaceful relations between arcanists and humans. (Reply: Unnecessary.) Regarding Vice Admiral Ivan Ivanovich Burakov's unauthorized conduct in bringing a human into Zeno Arms Academy, following investigation by the oversight team and verification by the Military Discipline Department, the Zeno Arms Academy High Command has determined his actions constitute severe violations of the Latest Supplementary to Zeno Arms Academy Military Regulations (Draft). In light of Vice Admiral Burakov's repeated dereliction of duty and severe disruption of human life, having consecutively received three informal warnings, three formal warnings, and three severe warnings, Zeno High Command has decided to impose cumulative penalties sentence him to suspension without pay for twelve months. (Reply: Who authorized this? Are you desk officers going to command troops in the field?) The oversight team will dispatch personnel to supervise Vice Admiral Burakov's division to ensure compliance with this sentence. (Reply: Unnecessary. He follows orders.) Regarding Vice Admiral Burakov's violation of military regulations, all commanders and soldiers are urged to take this as a warning, strengthen their sense of duty, and strictly uphold Zeno military discipline. Zeno Arms Academy Office Signature: (Reply: I read it. Too much padding! Redraft for signature.) XX XX, XXXX
 
 - Description：Discipline and merit—two ends of the scale. As for where the weights are placed, who can say?
 - Action：Read Document
@@ -9427,7 +9427,7 @@ END OF DIALOGUE
 
 A Telegram to Cavalry Corps Headquarters
 
-**Subject: Enemy Nighttime Infiltration and Assault****Summary: Beginning at dawn today, enemy forces infiltrated our southwestern defensive perimeter through unknown routes, intending to sabotage rear medical infrastructure. Our forces, with support from the Gryphon Legion, successfully contained and repelled the infiltrators.****Operational Results and Loss Assessment:** —Southern District: The southern district medical supply warehouse was breached. 25 crates of medical supplies, including morphine and bandages were confirmed lost. The 7th Block Militia Company defending the facility suffered heavy casualties: 59 KIA. The facility is non-operational. —Eastern Part of the Western District: Our counterattack succeeded. With support from Cavalry Corps medical personnel, Pokrov Children's Hospital was secured. The following supplies were recovered from enemy forces: Surgical instruments and medications: 33 crates; Children's clothing and bedding (winter): 4 crates; Medical equipment: 3 crates of incubators, 10 crates of steam inhalers and other devices. During defensive and counteroffensive operations, the 3rd Street Militia Company sustained 23 KIA. Hospital medical staff sustained 10 KIA, and the Foundation medical personnel sustained 1 WIA (critical). —Southern Part of the Western District: Enemy assault repelled by Igor's Gryphon Legion and main militia forces. The Sanatorium remains intact. Medical assets and wounded successfully secured. Detailed inventory of recovered supplies is undergoing final verification; will be submitted with a supplementary report. **Current Status:** City defense elevated to maximum alert. All critical facilities have received reinforcements to security. **Request:** Militia forces urgently require resupply of lost medical materials, particularly analgesics and bandages. We respectfully request that Cavalry Corps command provide material assistance and facilitate logistical transport. **Signed:** ████
+**Subject: Enemy Nighttime Infiltration and Assault** **Summary: Beginning at dawn today, enemy forces infiltrated our southwestern defensive perimeter through unknown routes, intending to sabotage rear medical infrastructure. Our forces, with support from the Gryphon Legion, successfully contained and repelled the infiltrators.** **Operational Results and Loss Assessment:** —Southern District: The southern district medical supply warehouse was breached. 25 crates of medical supplies, including morphine and bandages were confirmed lost. The 7th Block Militia Company defending the facility suffered heavy casualties: 59 KIA. The facility is non-operational. —Eastern Part of the Western District: Our counterattack succeeded. With support from Cavalry Corps medical personnel, Pokrov Children's Hospital was secured. The following supplies were recovered from enemy forces: Surgical instruments and medications: 33 crates; Children's clothing and bedding (winter): 4 crates; Medical equipment: 3 crates of incubators, 10 crates of steam inhalers and other devices. During defensive and counteroffensive operations, the 3rd Street Militia Company sustained 23 KIA. Hospital medical staff sustained 10 KIA, and the Foundation medical personnel sustained 1 WIA (critical). —Southern Part of the Western District: Enemy assault repelled by Igor's Gryphon Legion and main militia forces. The Sanatorium remains intact. Medical assets and wounded successfully secured. Detailed inventory of recovered supplies is undergoing final verification; will be submitted with a supplementary report. **Current Status:** City defense elevated to maximum alert. All critical facilities have received reinforcements to security. **Request:** Militia forces urgently require resupply of lost medical materials, particularly analgesics and bandages. We respectfully request that Cavalry Corps command provide material assistance and facilitate logistical transport. **Signed:** ████
 
 - Description：The channel is open on the other end. Because in the empty air, there's nothing else.
 - Action：View Contents
@@ -9699,7 +9699,7 @@ Krutov sniffs and waves a hand. The frozen ground holding the prisoners begins t
 
 The ritualist pulls a bottle of smelling salts from her sleeve.
 
-**Ritualist:**Blowtillthoubrustthywind!
+**Ritualist:** Blow till thou brust thy wind!
 
 Bitter powder scatters on the wind, swirling and twisting among the captives.
 
@@ -9726,7 +9726,7 @@ In the red haze, his friends, his family, even his "heaven" all fall away.
 
 Picrasma Tree Extract and Its Preparation Method
 
-**Project Title: Picrasma Tree Extract and Its Preparation Method****Abstract** ... **Technical Field** This project concerns the Picrasma Tree extract "Picrasmine" and its preparation method. **Background** Picrasma is a deciduous medicinal tree, found in both wild and cultivated settings. Its roots and fruits possess medicinal value, with the primary active extract being a fat-soluble resin. The primary pharmacological agent in Picrasma is Picrasmine, which activates cell populations throughout arcanists' brains and bodies and has shown no observed dependency effects. The Laplace Scientific Computing Center Medical Technology Division has included it in the pharmacopeia. ... Experimental findings indicate that standardized Picrasma extract—Picrasmine—exhibits toxicity to tissue cells in both the brain and body of individuals with less than one-quarter arcane lineage. This toxic response may correlate with specific metabolic dysfunctions in such populations. Single high-dose administration or prolonged intake of Picrasmine carries a significant risk of severe cardiac failure. Consequently, this project's findings must not be applied to general potion development and are strictly prohibited for use in pharmaceuticals intended for humans or mixed-blood humans. **Technical Content** To achieve the project's technical objectives, primary extraction procedures are outlined below. A process flow diagram is attached. ① Material sorting; ② Washing; ③ Drying; ④ Grinding; ⑤ Primary purification; ⑥ Filtration; ⑦ Concentration; ⑧ Drying and grinding; ⑨ Secondary purification; ⑩ Concentration and pulverization of secondary extract. **Diagram Description** The attached diagram illustrates the process flow for this project. (diagram) **Implementation** Case Examples: ... Notice: The preparation method and procedures outlined in this project must strictly comply with regulations issued by the Pax Security Council and must not be applied to pharmaceutical development for humans or mixed-blood humans.
+**Project Title: Picrasma Tree Extract and Its Preparation Method** **Abstract** ... **Technical Field** This project concerns the Picrasma Tree extract "Picrasmine" and its preparation method. **Background** Picrasma is a deciduous medicinal tree, found in both wild and cultivated settings. Its roots and fruits possess medicinal value, with the primary active extract being a fat-soluble resin. The primary pharmacological agent in Picrasma is Picrasmine, which activates cell populations throughout arcanists' brains and bodies and has shown no observed dependency effects. The Laplace Scientific Computing Center Medical Technology Division has included it in the pharmacopeia. ... Experimental findings indicate that standardized Picrasma extract—Picrasmine—exhibits toxicity to tissue cells in both the brain and body of individuals with less than one-quarter arcane lineage. This toxic response may correlate with specific metabolic dysfunctions in such populations. Single high-dose administration or prolonged intake of Picrasmine carries a significant risk of severe cardiac failure. Consequently, this project's findings must not be applied to general potion development and are strictly prohibited for use in pharmaceuticals intended for humans or mixed-blood humans. **Technical Content** To achieve the project's technical objectives, primary extraction procedures are outlined below. A process flow diagram is attached. ① Material sorting; ② Washing; ③ Drying; ④ Grinding; ⑤ Primary purification; ⑥ Filtration; ⑦ Concentration; ⑧ Drying and grinding; ⑨ Secondary purification; ⑩ Concentration and pulverization of secondary extract. **Diagram Description** The attached diagram illustrates the process flow for this project. (diagram) **Implementation** Case Examples: ... Notice: The preparation method and procedures outlined in this project must strictly comply with regulations issued by the Pax Security Council and must not be applied to pharmaceutical development for humans or mixed-blood humans.
 
 - Description："No advancement in biotechnology shall come at the cost of researcher safety." (This has been blacked out)
 - Action：For Reference
@@ -12664,37 +12664,37 @@ A gun muzzle presses to the back of Igor's head.
 
 Invasion
 
-???:Give me a minute; I'll go deal with the intruder.
+???: Give me a minute; I'll go deal with the intruder.
 
-???:Walking into my home with blood-soaked boots! Tsk. Such insolence. Does he think sending people to die makes him special?
+???: Walking into my home with blood-soaked boots! Tsk. Such insolence. Does he think sending people to die makes him special?
 
-???:He'll pay for this in blood!
+???: He'll pay for this in blood!
 
 > **Choice 1：** Just have him change shoes.
 
-???:That's nowhere near enough. He'll have to scrub every bloodstain off the floor.
+???: That's nowhere near enough. He'll have to scrub every bloodstain off the floor.
 
-???:I don't want to hear any excuses. This whole mess is his own fault.
+???: I don't want to hear any excuses. This whole mess is his own fault.
 
 > **Choice 2：** Please calm yourself!
 
-???:I AM calm. He brought the blood here, so he'll pay by cleaning up every drop.
+???: I AM calm. He brought the blood here, so he'll pay by cleaning up every drop.
 
-???:I won't even lend him a rag—he can use that fancy coat of his for all I care.
+???: I won't even lend him a rag—he can use that fancy coat of his for all I care.
 
-???:So he claims those "big shots" forced him to stain his hands, huh? How convenient.
+???: So he claims those "big shots" forced him to stain his hands, huh? How convenient.
 
-???:And this plan to "restore everything to how it was"? Utterly foolish.
+???: And this plan to "restore everything to how it was"? Utterly foolish.
 
-???:But the fact that he followed it to the letter makes him no different from the ones who devised it.
+???: But the fact that he followed it to the letter makes him no different from the ones who devised it.
 
-???:To realize their "grand vision," those so-called realists kept piling weight on one side of the scale ...
+???: To realize their "grand vision," those so-called realists kept piling weight on one side of the scale ...
 
-???:Sacrificing one innocent life after another just so someone could remember a name that wasn't hers anymore. Absurd.
+???: Sacrificing one innocent life after another just so someone could remember a name that wasn't hers anymore. Absurd.
 
-???:I have one thing to say to those arrogant megalomaniacs wanting to play gods: anyone who has forgotten their own name is as good as dead—and forcing them to wear it again won't change a thing.
+???: I have one thing to say to those arrogant megalomaniacs wanting to play gods: anyone who has forgotten their own name is as good as dead—and forcing them to wear it again won't change a thing.
 
-???:What happened has happened. Those bloody footprints can never truly be erased.
+???: What happened has happened. Those bloody footprints can never truly be erased.
 
 
 ---
@@ -12964,8 +12964,6 @@ The jar in Igor's hand flickers. A firefly dims and falls to the bottom.
 Lilya's aircraft has left a lingering line across the sky.
 
 **Commander Ivan:** They deserve to see the new spring.
-
-Five days later
 
 Five days later
 

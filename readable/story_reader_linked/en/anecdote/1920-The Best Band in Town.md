@@ -2513,8 +2513,6 @@ As Regulus, like a pirate queen of metal, grasps the microphone in her hands.
 
 One week later
 
-One week later
-
 The Suitcase
 
 **Sonetto:** ...

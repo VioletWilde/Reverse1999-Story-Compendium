@@ -109,7 +109,7 @@ Ulrich struggles to process the surreal scenario.
 
 **Buddy Fairchild:** Now let's get movin' 'fore the Manus get their ritual goin'!
 
-**Guard:**"Save the world"? I had no idea she thought so highly of us.
+**Guard:** "Save the world"? I had no idea she thought so highly of us.
 
 Buddy Fairchild clasps his hands behind his back, tapping the ground with his feet.
 

@@ -110,11 +110,7 @@ Trusting that luck is, as ever, on her side, the challenger places the final ker
 
 **Centurion:** ¡Lotería!
 
-TheTurquoiseSerpentClub
-
-TheTurquoiseSerpentClub
-
-Written by Recoleta
+T h e T u r q u o i s e S e r p e n t C l u b
 
 Written by Recoleta
 
@@ -1191,7 +1187,7 @@ The master forger leads the "bandit" into the gallery.
 
 **Añil:** This is his arcane artwork collection.
 
-**Lorentz Butterfly:**Portrait of the Twins, the final work of the exorcist John Doe, a sensation at the Sotheby art auction in the original 1920.
+**Lorentz Butterfly:** Portrait of the Twins, the final work of the exorcist John Doe, a sensation at the Sotheby art auction in the original 1920.
 
 **Lorentz Butterfly:** It's said the pearl necklace was painted with the tears of a black goat. Some even claim there's a pair of succubi, twins apparently, sealed within the frame.
 
@@ -1211,7 +1207,7 @@ The master forger leads the "bandit" into the gallery.
 
 Añil opens his mouth, but nothing comes out. She doesn't even bother to take her eyes off the paintings to look at him.
 
-**Lorentz Butterfly:**Madonna of the Carbuncles. In 1509, artist Richard Roe signed an agreement with his employer to color his cape and Carbuncles with petrified ultramarine and amber gold.
+**Lorentz Butterfly:** Madonna of the Carbuncles. In 1509, artist Richard Roe signed an agreement with his employer to color his cape and Carbuncles with petrified ultramarine and amber gold.
 
 **Lorentz Butterfly:** The former serves as a valuable alchemical material. The work has been stolen multiple times.
 
@@ -1259,7 +1255,7 @@ But their fight has drawn unnecessary attention. More patrollers close in.
 
 **Añil:** Follow me, if you will. There's a blind spot this way.
 
-**Añil:**Luzysombra,¡reforma!
+**Añil:** Luz y sombra, ¡reforma!
 
 In a split second, an arcane veil settles over the corner of the gallery where they stand, making it appear empty.
 
@@ -2140,9 +2136,9 @@ The flame flickers harder, as if caught in a strong wind yet refusing to snuff o
 
 **Ramona:** Shh.
 
-**Ramona:**Ilusiones,apartaos.Laverdadserevela.
+**Ramona:** Ilusiones, apartaos. La verdad se revela.
 
-**Ramona:**Estelugar,esteinstante.Reveladoantemí.Mostradoparamí.
+**Ramona:** Este lugar, este instante. Revelado ante mí. Mostrado para mí.
 
 Her voice is ethereal, as if speaking to another world entirely. The tiny flame settles, and the last wisp of smoke bends at an unnatural angle, pointing the way.
 
@@ -2483,8 +2479,6 @@ The "Necessary" Guide to Exorcism
 > A journey through the structure of time and history.
 
 <!-- reader-body:start -->
-The night of the art auction.
-
 The night of the art auction.
 
 It's already a quarter past twelve—fifteen minutes past their agreed meeting time. Yet the mysterious bandit is a no-show. Añil grows more anxious with every passing minute.
@@ -3231,7 +3225,7 @@ A gunshot rings out. A bullet skims across her metallic body.
 
 **Ramona:** Urgh!
 
-**Ramona:**¡DesvíoNeumático!
+**Ramona:** ¡Desvío Neumático!
 
 **Loggerhead:** Ramona, don't worry about me.
 
@@ -3263,7 +3257,7 @@ A gunshot rings out. A bullet skims across her metallic body.
 
 Flustered, she pulls that teleport disk from her pocket and thinks of a destination.
 
-**Loggerhead:**Teleport!
+**Loggerhead:** Teleport!
 
 They disappear all at once from the scene, leaving the club in an uproar.
 
@@ -3652,8 +3646,6 @@ Mining Area, Chukotka
 
 The year is 1987, just after the second "Storm."
 
-The year is 1987, just after the second "Storm."
-
 A cold wind sweeps across the Siberian ice fields, lifting snow from the frozen ground and carrying it far away.
 
 **Marguerite:** Nothing.
@@ -3905,7 +3897,7 @@ Suddenly, the sound of lab equipment crashing echoes from inside.
 
 Encrypted Telegram
 
-**Classification: Top Secret****From: Zeno Headquarters****To: Zeno Branches** Research confirms that the truth behind the "Storm" is very likely tied to a high-value target known as "Urd." Our primary objective is to locate and make contact with this individual—note: we are seeking the "original her," prior to any influence from the "Storm." The identity of any presently existing individual holds no research value. High command has established a facility known as the Loop Laboratory along the Don River, codename: "Amber Room." Its existence is classified at the highest level and is to be exempt from external inquiry of any kind. The Loop Laboratory has achieved structural immunity to the "Storm." Per orders, "deserters" have been transferred to the facility to undergo arcane experiments. All procedures are to be directed, documented, and overseen by our personnel only. All branches are hereby notified of the following resource allocations: ... Reminder: The Loop Laboratory is of the highest-priority. Any intelligence concerning the target Urd must be reported immediately. **——End of Telegram——**
+**Classification: Top Secret** **From: Zeno Headquarters** **To: Zeno Branches** Research confirms that the truth behind the "Storm" is very likely tied to a high-value target known as "Urd." Our primary objective is to locate and make contact with this individual—note: we are seeking the "original her," prior to any influence from the "Storm." The identity of any presently existing individual holds no research value. High command has established a facility known as the Loop Laboratory along the Don River, codename: "Amber Room." Its existence is classified at the highest level and is to be exempt from external inquiry of any kind. The Loop Laboratory has achieved structural immunity to the "Storm." Per orders, "deserters" have been transferred to the facility to undergo arcane experiments. All procedures are to be directed, documented, and overseen by our personnel only. All branches are hereby notified of the following resource allocations: ... Reminder: The Loop Laboratory is of the highest-priority. Any intelligence concerning the target Urd must be reported immediately. **——End of Telegram——**
 
 - Description：Beyond the spinning wheel, dust spins into a single thread.
 - Action：Intercept the Classified Report
@@ -3941,7 +3933,7 @@ COMBAT:
 
 ***
 
-**Ludwig:**Seelentausch!
+**Ludwig:** Seelentausch!
 
 An incantation is cast. The raven familiars lose their arcane connection, fading into mist and disappearing from the cluttered office.
 
@@ -4409,7 +4401,7 @@ She looks over the names, attempting to find some connection.
 
 Inside her mind, a map of the city lights up spot by spot.
 
-**Ramona:****Ledru-Rollin.** Stayed at Rosa's inn for three days. Booked it after burning down her kitchen.
+**Ramona:** **Ledru-Rollin.** Stayed at Rosa's inn for three days. Booked it after burning down her kitchen.
 
 **Ramona:** Rosa asked me to track him down using my "ancestral psychic ability." Hah, pretty disappointed when I told her I'm not a psychic, neither were my parents—frauds the both of 'em.
 
@@ -4417,13 +4409,13 @@ Inside her mind, a map of the city lights up spot by spot.
 
 **Loggerhead:** Maybe that's why he blew up Rosa's kitchen.
 
-**Ramona:****Diggers.** He's broken into more than one government facility, claiming he only wanted to see the works of the muralism movement up close.
+**Ramona:** **Diggers.** He's broken into more than one government facility, claiming he only wanted to see the works of the muralism movement up close.
 
 **Ramona:** The guards and patrol officers threw him out, of course. Got a friend in the government, Diago. He told me all about this guy.
 
 **Lady by the Lake:** Oh, that hip fellow! Still alive, is he? I haven't heard a word from him since he went to Tierra del Fuego with the Preacher.
 
-**Ramona:****Fitzwilliam.** A journalist. Recently published an article in El Semanario Heraldo de México, featuring his interview with a foreign diplomat.
+**Ramona:** **Fitzwilliam.** A journalist. Recently published an article in El Semanario Heraldo de México, featuring his interview with a foreign diplomat.
 
 **Ramona:** Style was totally bloated. Only made it into the city's best-selling paper 'cause of the diplomat's status. Rumor is he gave him all kinds of stuff to make sure he got the interview.
 
@@ -4994,20 +4986,6 @@ No eternity on earth, only a fleeting moment.
 
 —Cantares mexicanos
 
-Is it real, our elusive existence?
-
-No eternity on earth, only a fleeting moment.
-
-Be it as resilient as jade, it shatters;
-
-Be it as revered as gold, it crumbles;
-
-Be it as resplendent as quetzal plumes, it will fall away.
-
-No eternity on earth, only a fleeting moment.
-
-—Cantares mexicanos
-
 Guided by instinct, she moves forward, step by step.
 
 Finally, above this endless churning water, she sees a figure standing still as a statue, pallid as a ghost.
@@ -5289,10 +5267,6 @@ Perfect strokes of colorful paint wrap around him like a consuming fire.
 **Muriel:** Now the only thing left to do is to cross the tides of time and return to their warm embrace.
 
 A rare smile touches his lips, as if he were drifting into a warm and pleasant dream as he fades away.
-
-A rare smile touches his lips, as if he were drifting into a warm and pleasant dream as he fades away.
-
-Light, shadow, and color coalesce around him, shrinking as he disappears until all that's left is a single painted hummingbird. It flies up toward the mural and joins the circle.
 
 Light, shadow, and color coalesce around him, shrinking as he disappears until all that's left is a single painted hummingbird. It flies up toward the mural and joins the circle.
 
@@ -5977,7 +5951,7 @@ Marguerite looks into her commander's fading eyes as they take on a deathly glos
 
 **Marguerite:** I like that look on your face. It suits you.
 
-**Marguerite:**DrakoDrought.
+**Marguerite:** Drako Drought.
 
 Arcane fire burns away every trace of what transpired there, even the transport truck marked with Zeno symbols.
 

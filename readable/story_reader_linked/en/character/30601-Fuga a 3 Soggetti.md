@@ -2758,14 +2758,6 @@ Words enter Charon's mind in a stampede. The world starts to spin.
 
 "Walter is dead."
 
-"Walter is dead."
-
-"'Friendly fire,' they said. But nothing about it was friendly—not when they dropped it while we advanced!"
-
-"Verdammt! Why didn't I pull him into the crater when I had the chance? Verdammt nochmal! Verdammt!"
-
-"I could've had him—just one more second and he'd still be here!"
-
 "'Friendly fire,' they said. But nothing about it was friendly—not when they dropped it while we advanced!"
 
 "Verdammt! Why didn't I pull him into the crater when I had the chance? Verdammt nochmal! Verdammt!"
@@ -2775,14 +2767,6 @@ Words enter Charon's mind in a stampede. The world starts to spin.
 "Gott im Himmel ... what do I tell Partita? How do I tell his mother?"
 
 "I lived ... and Walter died?"
-
-"Gott im Himmel ... what do I tell Partita? How do I tell his mother?"
-
-"I lived ... and Walter died?"
-
-"Or should I tell them I'm sorry—that he should've been the one who lived?"
-
-"It's true ... it shouldn't have been him. He was the one who kept us going, kept us smiling."
 
 "Or should I tell them I'm sorry—that he should've been the one who lived?"
 

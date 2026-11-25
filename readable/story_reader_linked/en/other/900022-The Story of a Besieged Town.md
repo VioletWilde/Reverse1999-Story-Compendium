@@ -942,7 +942,7 @@ The blank white paper stands beside the hole in the wall, its crimson lips purse
 
 **Storyteller:** Exactly. She had been troubled by the repentance until the New Year's Eve. That night, her tutor straightened her out, and she was very grateful. After that, she bid him goodbye and went to the broken bridge alone.
 
-**Wooden Doll:****Ms. Mouth! Ms. Mouth!**
+**Wooden Doll:** **Ms. Mouth! Ms. Mouth!**
 
 The candles are dim. The place is clearly deserted.
 
@@ -950,7 +950,7 @@ As the paper floats into the room through the window, a wooden doll eagerly rush
 
 **Pandora Wilson:** Are you … Ms. Jiǔ's arcane creation?
 
-**Wooden Doll:****A message, a message.**
+**Wooden Doll:** **A message, a message.**
 
 The wooden doll jumps on a piece of paper.
 

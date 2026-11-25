@@ -52,18 +52,6 @@ Goes to the barbarous clangour of a gong.
 
 W.B. Yeats—Nineteen Hundred and Nineteen
 
-So the platonic year
-
-Whirls out new right and wrong,
-
-Whirls in the old instead;
-
-All men are dancers and their tread
-
-Goes to the barbarous clangour of a gong.
-
-W.B. Yeats—Nineteen Hundred and Nineteen
-
 It's the final days of March, and the daylight hours in Ushuaia are shrinking away.
 
 Past the busy season, the city is faded and quiet. At this moment, in a café at the end of the world, conversation and laughter are sealed within an airtight glass dome.
@@ -534,43 +522,43 @@ As her vision clears, it becomes apparent that fate is not a perfect loop. At le
 
 The Circling Ghost
 
-???:The moment armies start to march, the world stands still.
+???: The moment armies start to march, the world stands still.
 
-???:You fight or fall back, charge forward, or run. Those are the only rules on the battlefield.
+???: You fight or fall back, charge forward, or run. Those are the only rules on the battlefield.
 
-???:I don't see a start time on this report, nor does it state the reason for or the demands of this war.
+???: I don't see a start time on this report, nor does it state the reason for or the demands of this war.
 
 > **Choice 1：** That's because the war hasn't started yet.
 
-???:That's what you think. The scars left on the land may be the most obvious form of destruction, but the true devastation of war is one that develops gradually in the souls of people.
+???: That's what you think. The scars left on the land may be the most obvious form of destruction, but the true devastation of war is one that develops gradually in the souls of people.
 
 > **Choice 2：** Because this is a war waged with paper and pens.
 
-???:Ah, a literary war. Indeed, the violence enacted upon words is often just as devastating as an order on a battlefield.
+???: Ah, a literary war. Indeed, the violence enacted upon words is often just as devastating as an order on a battlefield.
 
-???:Words must fulfill their duties to their creators, just as soldiers must answer to their commanders.
+???: Words must fulfill their duties to their creators, just as soldiers must answer to their commanders.
 
 > **Choice 1：** I still don't see how this relates to what's happening now.
 
-???:You don't? Hmm. The young writers have been exiled—sent down a path with no signs to follow and no destination.
+???: You don't? Hmm. The young writers have been exiled—sent down a path with no signs to follow and no destination.
 
-???:In dark days of bloody conflict, soldiers often find comfort in scriptures and verses—or in letters from their loved ones.
+???: In dark days of bloody conflict, soldiers often find comfort in scriptures and verses—or in letters from their loved ones.
 
-???:They hold those words close—a fragile piece of home—a brief solace from the roaring of the battlefield.
+???: They hold those words close—a fragile piece of home—a brief solace from the roaring of the battlefield.
 
-???:But, as they fall one by one, they learn the bitter truth. No destiny awaits them but death, that bitter homesickness still weighing heavy in their hearts.
+???: But, as they fall one by one, they learn the bitter truth. No destiny awaits them but death, that bitter homesickness still weighing heavy in their hearts.
 
 > **Choice 1：** I hope they can at least find some peace in their dreams.
 
-???:In dreams? Maybe. Walking the streets of your hometown, spending a lazy afternoon at the writing desk—dreams can take you anywhere.
+???: In dreams? Maybe. Walking the streets of your hometown, spending a lazy afternoon at the writing desk—dreams can take you anywhere.
 
-???:But live there too long, and the lines between fiction and reality will blur, and soon you'll never wake up again.
+???: But live there too long, and the lines between fiction and reality will blur, and soon you'll never wake up again.
 
-???:Soldiers crawl through trenches, roll in the mud, and charge to their deaths again and again ...
+???: Soldiers crawl through trenches, roll in the mud, and charge to their deaths again and again ...
 
-???:... while words are forever trapped within the confines of poetry, made to live, die, and live again under the golden prophecy ...
+???: ... while words are forever trapped within the confines of poetry, made to live, die, and live again under the golden prophecy ...
 
-???:Ugh. I can't stand the way poets talk.
+???: Ugh. I can't stand the way poets talk.
 
 ### Trail · Buenos Aires Division: Intake Report
 
@@ -2206,59 +2194,59 @@ The man strikes a gesture somehow equally comedic and solemn.
 
 El Sur También Existe
 
-???:Let's take a step back—pull you out of that whirlwind of passion and dreams.
+???: Let's take a step back—pull you out of that whirlwind of passion and dreams.
 
-???:If you want to make the best call, you need to zero in on what really matters. So, what's your take on that big speech?
+???: If you want to make the best call, you need to zero in on what really matters. So, what's your take on that big speech?
 
 > **Choice 1：** The Latin American Boom.
 
-???:A sudden explosion that shook Latin American literary circles about 30 years ago. It was destructive—but also gave rise to new life.
+???: A sudden explosion that shook Latin American literary circles about 30 years ago. It was destructive—but also gave rise to new life.
 
-???:Lucky for us, we don't have to worry about shell shock in the literary world.
+???: Lucky for us, we don't have to worry about shell shock in the literary world.
 
 > **Choice 1：** You don't strike me as someone who knows about literature.
 
-???:It's not about knowing literature. Any soldier with a little experience can deliver a status report. Alright, eyes on the map.
+???: It's not about knowing literature. Any soldier with a little experience can deliver a status report. Alright, eyes on the map.
 
-???:As we speak, ships are lined up on the Spanish coast—but this time, they're poised to make a new kind of discovery, if you can call it that.
+???: As we speak, ships are lined up on the Spanish coast—but this time, they're poised to make a new kind of discovery, if you can call it that.
 
-???:And here are our new "Columbuses," heading to the docks to embark on their journey.
+???: And here are our new "Columbuses," heading to the docks to embark on their journey.
 
 > **Choice 1：** Who are these new "Columbuses"?
 
-???:Carmen and Carlos, the driving force behind this literary feast between Spain and Latin America.
+???: Carmen and Carlos, the driving force behind this literary feast between Spain and Latin America.
 
-???:Carmen, with an eye for opportunity and a mind for business, sought out the continent's literary gems and secured generous publishing deals for them.
+???: Carmen, with an eye for opportunity and a mind for business, sought out the continent's literary gems and secured generous publishing deals for them.
 
-???:Carlos, with his deep understanding of market dynamics, brought these works to the eyes of the European public.
+???: Carlos, with his deep understanding of market dynamics, brought these works to the eyes of the European public.
 
 > **Choice 1：** What happened then?
 
-???:Then? A golden era began. It all kicked off with a scandal at a military academy, and soon the entire world was captivated by the story of a baby with a pig's tail from a faraway land.
+???: Then? A golden era began. It all kicked off with a scandal at a military academy, and soon the entire world was captivated by the story of a baby with a pig's tail from a faraway land.
 
-???:But we mustn't forget the writers themselves. Fuentes, a towering figure of the Spanish-speaking world, and Cortázar, the writer ever seeing through the eyes of a child.
+???: But we mustn't forget the writers themselves. Fuentes, a towering figure of the Spanish-speaking world, and Cortázar, the writer ever seeing through the eyes of a child.
 
-???:And of course, Mario and Gabo—key players in this literary revolution—will forever be etched in the annals of history.
+???: And of course, Mario and Gabo—key players in this literary revolution—will forever be etched in the annals of history.
 
-???:They corresponded regularly, always expressing deep admiration for each other's work. In fact, one even wrote a doctoral thesis on the other.
+???: They corresponded regularly, always expressing deep admiration for each other's work. In fact, one even wrote a doctoral thesis on the other.
 
-???:Ah, friendship.
+???: Ah, friendship.
 
 > **Choice 1：** That must have been a proud time for them.
 
-???:It was.
+???: It was.
 
-???:But no matter how explosive the boom was, it couldn't escape its fleeting nature.
+???: But no matter how explosive the boom was, it couldn't escape its fleeting nature.
 
-???:With the second imprisonment and self-criticism of a Cuban poet, in came an inexplicable right hook, and bang!—silence.
+???: With the second imprisonment and self-criticism of a Cuban poet, in came an inexplicable right hook, and bang!—silence.
 
-???:The military junta had gripped the poets' throats. The verse of the pioneers was cut off, their voices no longer heard.
+???: The military junta had gripped the poets' throats. The verse of the pioneers was cut off, their voices no longer heard.
 
-???:The bond between two generations was broken, and for the younger of the two, the silence was intolerable.
+???: The bond between two generations was broken, and for the younger of the two, the silence was intolerable.
 
-???:They looked for a new theme, a new idea, a new voice—a new method to speak on their disappointment, their horror, and their anger.
+???: They looked for a new theme, a new idea, a new voice—a new method to speak on their disappointment, their horror, and their anger.
 
-???:And they became the new guerrillas.
+???: And they became the new guerrillas.
 
 ### Trail · The Weaving of Shadows, Volume II
 
@@ -4865,51 +4853,51 @@ Recoleta rushes to the stage.
 
 Gamble of Fate
 
-???:Few soldiers would appreciate the idea of taking orders from an accursed die. A skilled commander would never rely on luck to make decisions.
+???: Few soldiers would appreciate the idea of taking orders from an accursed die. A skilled commander would never rely on luck to make decisions.
 
-???:On the battlefield, the distance for every maneuver should be clear and precise—not two numbers with a "d" in the middle—unless you're looking to invite a mutiny.
+???: On the battlefield, the distance for every maneuver should be clear and precise—not two numbers with a "d" in the middle—unless you're looking to invite a mutiny.
 
-???:That said, if a die with such power were placed in a soldier's hand ...
+???: That said, if a die with such power were placed in a soldier's hand ...
 
-???:I'm pretty sure they'd roll it and let it decide their destiny.
+???: I'm pretty sure they'd roll it and let it decide their destiny.
 
 > **Choice 1：** Luck won't always be on your side.
 
-???:Exactly. There's no good luck without bad luck—just as a coin must have two sides. Luck essentially defines one's entire life.
+???: Exactly. There's no good luck without bad luck—just as a coin must have two sides. Luck essentially defines one's entire life.
 
-???:And whether it's make or break, life or death, the die will keep on rolling.
+???: And whether it's make or break, life or death, the die will keep on rolling.
 
-???:Of course, dice aren't the only tools used to "play" with fate—coins, lotteries, even shells on the beach can all serve the same purpose.
+???: Of course, dice aren't the only tools used to "play" with fate—coins, lotteries, even shells on the beach can all serve the same purpose.
 
-???:Thanks to the randomness of fate, a Babylonian may rise to be a proconsul one day and fall into slavery the next.
+???: Thanks to the randomness of fate, a Babylonian may rise to be a proconsul one day and fall into slavery the next.
 
 > **Choice 1：** Some tragedies could have been avoided.
 
-???:Well, that's where historians come in.
+???: Well, that's where historians come in.
 
-???:With a little creative editing of the history books, even the random rolls of a die can suddenly make sense.
+???: With a little creative editing of the history books, even the random rolls of a die can suddenly make sense.
 
-???:What were once "avoidable tragedies" are rebranded as "reasonable incidents" or even "desirable outcomes."
+???: What were once "avoidable tragedies" are rebranded as "reasonable incidents" or even "desirable outcomes."
 
 > **Choice 1：** At least the roll of a die is impartial.
 
-???:Hmph, you're starting to sound like a gambler.
+???: Hmph, you're starting to sound like a gambler.
 
-???:But even gamblers, after hitting a hot streak—or a losing spell—start to convince themselves that they've figured out the grand pattern behind games of chance.
+???: But even gamblers, after hitting a hot streak—or a losing spell—start to convince themselves that they've figured out the grand pattern behind games of chance.
 
-???:It isn't just gamblers, either. Witches tried to influence fate through rituals and charms. Ancient mathematicians calculated probabilities on paper. Some even wrote books on game theory.
+???: It isn't just gamblers, either. Witches tried to influence fate through rituals and charms. Ancient mathematicians calculated probabilities on paper. Some even wrote books on game theory.
 
-???:Meanwhile, others suspected there were cheaters among them.
+???: Meanwhile, others suspected there were cheaters among them.
 
-???:I just hope these high rollers unite to confront the demon who holds the laws of the universe—the past, present, and future—in its claws and give it a "Well done!" and a slap in the face.
+???: I just hope these high rollers unite to confront the demon who holds the laws of the universe—the past, present, and future—in its claws and give it a "Well done!" and a slap in the face.
 
 > **Choice 1：** You're talking in circles today.
 
-???:Haven't I always? It's just that today, the die rolled a peculiar number.
+???: Haven't I always? It's just that today, the die rolled a peculiar number.
 
-???:But all things considered, I prefer the other kind of commander.
+???: But all things considered, I prefer the other kind of commander.
 
-???:The die is cast. But regardless of what number has been rolled, it's time to cross the river.
+???: The die is cast. But regardless of what number has been rolled, it's time to cross the river.
 
 ### Trail · Treatments, Entry 303
 
@@ -8024,53 +8012,53 @@ Beyond the crumbling walls, a shivering figure is faintly visible. He grips a gu
 
 Armed with Literature
 
-???:Ahem ... Take a deep breath, soldier; the smoke's cleared now. This story—this "battle"—will soon come to an end.
+???: Ahem ... Take a deep breath, soldier; the smoke's cleared now. This story—this "battle"—will soon come to an end.
 
-???:A writer has departed from her domain, leaving her creations scattered behind her, like blood-soaked bandages and fragmented skulls in the trenches.
+???: A writer has departed from her domain, leaving her creations scattered behind her, like blood-soaked bandages and fragmented skulls in the trenches.
 
-???:What a garbled mess.
+???: What a garbled mess.
 
 > **Choice 1：** I don't understand it at all.
 
-???:Glad we're on the same page. Thank heavens my commander wasn't some kind of littérateur; else I'd have been blown to bits before I could decipher their poetic orders.
+???: Glad we're on the same page. Thank heavens my commander wasn't some kind of littérateur; else I'd have been blown to bits before I could decipher their poetic orders.
 
 > **Choice 2：** I think I understand.
 
-???:\*whistle\* How wonderful for you. You know what? You should be the leader of the Literature Encryption Communication Team. Just arm yourself with a dictionary, and even enemies with .45 Maxim machine guns won't stand a chance against you.
+???: \*whistle\* How wonderful for you. You know what? You should be the leader of the Literature Encryption Communication Team. Just arm yourself with a dictionary, and even enemies with .45 Maxim machine guns won't stand a chance against you.
 
-???:Because the poetry you recite will surely blow their minds before their bullets pierce yours.
+???: Because the poetry you recite will surely blow their minds before their bullets pierce yours.
 
 > **Choice 1：** You've developed a sense of humor.
 
-???:Well, it's all thanks to a certain writer, the embodiment of the wandering poet and traveler from Santiago to Buenos Aires. She impressed me with her precious experience as a cafe dishwasher and campground caretaker.
+???: Well, it's all thanks to a certain writer, the embodiment of the wandering poet and traveler from Santiago to Buenos Aires. She impressed me with her precious experience as a cafe dishwasher and campground caretaker.
 
-???:What really rekindled my sense of humor was her seriousness about her literary pursuits. You'd understand what I mean if you'd ever heard a cheesy joke at a comrade's graveside.
+???: What really rekindled my sense of humor was her seriousness about her literary pursuits. You'd understand what I mean if you'd ever heard a cheesy joke at a comrade's graveside.
 
-???:Drawing strength from her wanderings and rebellious exploits, she attempted to change society, wielding the sword of literature as a revolutionary intellectual and a leader of thought.
+???: Drawing strength from her wanderings and rebellious exploits, she attempted to change society, wielding the sword of literature as a revolutionary intellectual and a leader of thought.
 
-???:Some would hail her as a battle angel of Latin America, with words as piercing as bullets and poems as powerful as tactical bombers.
+???: Some would hail her as a battle angel of Latin America, with words as piercing as bullets and poems as powerful as tactical bombers.
 
 > **Choice 1：** I doubt literature has such a profound impact.
 
-???:Many share your doubt, myself included.
+???: Many share your doubt, myself included.
 
 > **Choice 2：** I believe in the power of literature.
 
-???:You stand firm in your beliefs, huh? Well, maybe that's a good thing. A commander has to trust their soldiers, or they'll be forced to surrender before long.
+???: You stand firm in your beliefs, huh? Well, maybe that's a good thing. A commander has to trust their soldiers, or they'll be forced to surrender before long.
 
-???:Here, come closer. Let me tell you a secret ...
+???: Here, come closer. Let me tell you a secret ...
 
-???:Many—if not all—people foolishly think it's the executioner who drops the guillotine blade, the powder that fires the bullet.
+???: Many—if not all—people foolishly think it's the executioner who drops the guillotine blade, the powder that fires the bullet.
 
-???:While they're half right, they're substantially inaccurate. The craters on the battlefield aren't the result of bombs, but of clashing ideologies—a trigger pulled long before the powder ever ignited in the barrel.
+???: While they're half right, they're substantially inaccurate. The craters on the battlefield aren't the result of bombs, but of clashing ideologies—a trigger pulled long before the powder ever ignited in the barrel.
 
-???:As for literature ...
+???: As for literature ...
 
-???:Well, it's probably best not to buy too much into the Latin American Boom. Forget about the status report from earlier.
+???: Well, it's probably best not to buy too much into the Latin American Boom. Forget about the status report from earlier.
 
-???:That said, at least there's one thing that's certain:
+???: That said, at least there's one thing that's certain:
 
-???:Books can bite back—and they'll leave scars.
+???: Books can bite back—and they'll leave scars.
 
 
 ---
@@ -8301,59 +8289,59 @@ The prisoner, so used to answering others' questions, seems to have run into one
 
 Ship of Fools
 
-???:Look, it's sinking. Corpses float on the planks, and the fleeing prisoners are swimming toward the shore. Time to abandon ship.
+???: Look, it's sinking. Corpses float on the planks, and the fleeing prisoners are swimming toward the shore. Time to abandon ship.
 
 > **Choice 1：** What ship?
 
-???:One that was exiled to a desolate corner of the ocean by the resplendent civilized world.
+???: One that was exiled to a desolate corner of the ocean by the resplendent civilized world.
 
-???:It's both a prison and a sanitarium. Are any of your friends aboard? If so, you might find the following report a little offensive.
+???: It's both a prison and a sanitarium. Are any of your friends aboard? If so, you might find the following report a little offensive.
 
-???:"Dregs of society" ... "Human scum" ... These are the terms used to describe its eccentric passengers.
+???: "Dregs of society" ... "Human scum" ... These are the terms used to describe its eccentric passengers.
 
-???:To be fair, they do lack discipline and independence.
+???: To be fair, they do lack discipline and independence.
 
-???:But that may well be a response to the heavy pain they've endured.
+???: But that may well be a response to the heavy pain they've endured.
 
-???:Some theorists suggest that they're innocent victims, trapped in the confines between rationality and irrationality, defined and redefined by historians as they please.
+???: Some theorists suggest that they're innocent victims, trapped in the confines between rationality and irrationality, defined and redefined by historians as they please.
 
-???:But let's ditch the theories and simplify things: the moment the shackle called "madness" was fastened around their necks—whether they were truly mentally ill or not—their lives were forever scarred.
+???: But let's ditch the theories and simplify things: the moment the shackle called "madness" was fastened around their necks—whether they were truly mentally ill or not—their lives were forever scarred.
 
-???:And now, the mad passengers are storming the shore.
+???: And now, the mad passengers are storming the shore.
 
 > **Choice 1：** A favorable outcome.
 
-???:I suppose it is. You can see the joy in their faces, even in the footprints they leave behind as they hop across the beach.
+???: I suppose it is. You can see the joy in their faces, even in the footprints they leave behind as they hop across the beach.
 
-???:Yes, freedom is favorable, indeed. The freedom to squander our lives, to trample on the dignity of others, the freedom to embrace absurdity and meaninglessness.
+???: Yes, freedom is favorable, indeed. The freedom to squander our lives, to trample on the dignity of others, the freedom to embrace absurdity and meaninglessness.
 
 > **Choice 2：** They're spreading their disease.
 
-???:But one can gain immunity through controlled infection—the disease can become its own vaccine.
+???: But one can gain immunity through controlled infection—the disease can become its own vaccine.
 
-???:Just beware of the ignorant commander who deifies a wandering lunatic in pursuit of a little knowledge.
+???: Just beware of the ignorant commander who deifies a wandering lunatic in pursuit of a little knowledge.
 
-???:Let's dig deeper—scavenge through the messy battlefield for dog tags—were these people born mad?
+???: Let's dig deeper—scavenge through the messy battlefield for dog tags—were these people born mad?
 
-???:After watching the inhabitants of this earth tear each other apart in one war after another, I've concluded this: only knowledge drives people to madness; ignorance does not.
+???: After watching the inhabitants of this earth tear each other apart in one war after another, I've concluded this: only knowledge drives people to madness; ignorance does not.
 
-???:Madness is a side effect of the sedative that is "knowledge." As long as those on land continue to consume it, this ship will never be short on recruits.
+???: Madness is a side effect of the sedative that is "knowledge." As long as those on land continue to consume it, this ship will never be short on recruits.
 
-???:This is a war between madness and civilization. Both sides have leveled accusations, spilled blood, and pummeled each other ...
+???: This is a war between madness and civilization. Both sides have leveled accusations, spilled blood, and pummeled each other ...
 
-???:... and soon, everyone will have leapt into the trenches and beaten and been beaten to a bloody pulp. Only a few can escape this fate.
+???: ... and soon, everyone will have leapt into the trenches and beaten and been beaten to a bloody pulp. Only a few can escape this fate.
 
 > **Choice 1：** Like who?
 
-???:Check your six.
+???: Check your six.
 
-???:The one leaning against the sunken ship, showing no signs of struggle or sorrow—García.
+???: The one leaning against the sunken ship, showing no signs of struggle or sorrow—García.
 
-???:The seawater has flooded his windpipe and reddened his eyes, yet there he is, staring blankly at the shore ...
+???: The seawater has flooded his windpipe and reddened his eyes, yet there he is, staring blankly at the shore ...
 
-???:He's in his home base. He holds no hope for forgiveness from his enemies—not in the slightest. He's a one-man army, fighting only for himself. Alone.
+???: He's in his home base. He holds no hope for forgiveness from his enemies—not in the slightest. He's a one-man army, fighting only for himself. Alone.
 
-???:Now, do a 360 and look again—he's been utterly defeated.
+???: Now, do a 360 and look again—he's been utterly defeated.
 
 
 ---
@@ -8880,25 +8868,13 @@ There, the prisoner who answers all questions awaits her arrival.
 
 So the platonic year
 
-So the platonic year
-
 Whirls out new right and wrong,
-
-Whirls out new right and wrong,
-
-Whirls in the old instead;
 
 Whirls in the old instead;
 
 All men are dancers and their tread
 
-All men are dancers and their tread
-
 Goes to the barbarous clangour of a gong.
-
-Goes to the barbarous clangour of a gong.
-
-W.B. Yeats—Nineteen Hundred and Nineteen
 
 W.B. Yeats—Nineteen Hundred and Nineteen
 <!-- reader-body:end -->

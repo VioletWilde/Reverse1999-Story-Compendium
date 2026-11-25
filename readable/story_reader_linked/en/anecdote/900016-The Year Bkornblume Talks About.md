@@ -210,11 +210,11 @@ MFC Kitchen (Evening)
 
 MFC Kitchen (Evening)
 
-**Bkornblume:**"Phew, done for the day! And no program tonight means I can head home early!"
+**Bkornblume:** "Phew, done for the day! And no program tonight means I can head home early!"
 
-**Bkornblume:**"Now then, what should I have for dinner?"
+**Bkornblume:** "Now then, what should I have for dinner?"
 
-**Bkornblume:**"In any case, I'm definitely stopping by the department store later. A hard day of work deserves a box of Lübeck marzipan!"
+**Bkornblume:** "In any case, I'm definitely stopping by the department store later. A hard day of work deserves a box of Lübeck marzipan!"
 
 Thoughts of recipes fill her mind as she packs her belongings into her bag.
 
@@ -248,19 +248,19 @@ Dusk falls, but there's no enjoying the sunset through all the clouds.
 
 Jogging the whole way, Bkornblume arrives home right before the first raindrop falls.
 
-**Bkornblume:**"Whew, made it! And I managed to pick up the pickles for dinner, plus my beloved Lübeck marzipan."
+**Bkornblume:** "Whew, made it! And I managed to pick up the pickles for dinner, plus my beloved Lübeck marzipan."
 
 The late spring rain has begun pounding on her window.
 
-**Bkornblume:**"Ah, April weather, predictably unpredictable. As the old song goes, 'April, April, it does what it will.'"
+**Bkornblume:** "Ah, April weather, predictably unpredictable. As the old song goes, 'April, April, it does what it will.'"
 
-**Bkornblume:**"I wonder if that little sparrow's nest will be alright."
+**Bkornblume:** "I wonder if that little sparrow's nest will be alright."
 
-**Bkornblume:**"And the wild daffodils that just bloomed beneath the bridge, too."
+**Bkornblume:** "And the wild daffodils that just bloomed beneath the bridge, too."
 
-**Bkornblume:**"I'll look in on them tomorrow while I'm out delivering the mail."
+**Bkornblume:** "I'll look in on them tomorrow while I'm out delivering the mail."
 
-**Bkornblume:**"April, April, do try to be kinder."
+**Bkornblume:** "April, April, do try to be kinder."
 
 She lingers by the window, absent-mindedly popping a piece of marzipan into her mouth before bringing the pickles to the kitchen.
 
@@ -268,11 +268,11 @@ This place is small, but it has everything she needs.
 
 Bkornblume skillfully prepares the ingredients before placing them into the pot one by one.
 
-**Bkornblume:**"It's nice being able to have marzipan whenever I want."
+**Bkornblume:** "It's nice being able to have marzipan whenever I want."
 
-**Bkornblume:**"Though I do miss the old Spreewaldgurken."
+**Bkornblume:** "Though I do miss the old Spreewaldgurken."
 
-**Bkornblume:**"Funny thing, taste. We long for the old while craving the new."
+**Bkornblume:** "Funny thing, taste. We long for the old while craving the new."
 
 She brings her modest but nourishing dinner to her desk, sits down, and opens her diary.
 
@@ -360,7 +360,7 @@ The cornflowers by her window stand lush against the backdrop of a night still c
 
 while dreamlike whispers drift away ♪"**
 
-**Bkornblume:****"Grow well, little flowers."**
+**Bkornblume:** **"Grow well, little flowers."**
 <!-- reader-body:end -->
 
 
@@ -478,7 +478,7 @@ The moment she pushes open the studio door, the warm early-summer air embraces h
 
 She pauses beneath a streetlamp and takes out her diary and turns to tomorrow's packed part-time schedule.
 
-**Bkornblume:**"What does the future I'm hoping for look like, I wonder?"
+**Bkornblume:** "What does the future I'm hoping for look like, I wonder?"
 
 #### Notes · Note
 
@@ -515,7 +515,7 @@ Bkornblume pauses in quiet reflection before picking up her pen again.
 
 Even so, I can't deny that I'm lucky enough to live a comfortable life.
 
-Just like Brecht's poem: **"It's simply luck
+Just like Brecht's poem:  **"It's simply luck
 
 That I've survived so many friends. But last night in a dream
 
@@ -561,17 +561,17 @@ As always, she sets about giving them a good watering before readying herself fo
 
 ***
 
-**Bkornblume:**"...!"
+**Bkornblume:** "...!"
 
-**Bkornblume:**"Wow! This one's a different color!"
+**Bkornblume:** "Wow! This one's a different color!"
 
 Her voice fills with surprise at the sight of it, only to sink a moment later.
 
-**Bkornblume:**"But autumn's almost here. No matter how beautiful it is, it's doomed to wither all the same."
+**Bkornblume:** "But autumn's almost here. No matter how beautiful it is, it's doomed to wither all the same."
 
-**Bkornblume:**"..."
+**Bkornblume:** "..."
 
-**Bkornblume:**"But perhaps I can cut and dry them to preserve them at their prettiest. I could even weave them into a wreath. That would make a lovely gift for a special friend, like my teacher. Yes! That's a perfect idea!"
+**Bkornblume:** "But perhaps I can cut and dry them to preserve them at their prettiest. I could even weave them into a wreath. That would make a lovely gift for a special friend, like my teacher. Yes! That's a perfect idea!"
 
 **Bkornblume:****"♪ Dear Sandman, it is not time just yet!
 
@@ -1027,7 +1027,7 @@ The closing indicator turns on. Bkornblume tidies the desk as usual, gives each 
 
 The brisk early winter wind plays with the ends of her scarf. She looks up and quickly finds Orion shining bright in the star-filled sky.
 
-**Bkornblume:****"And above us in the summer sky ..."**
+**Bkornblume:** **"And above us in the summer sky ..."**
 
 She stops beneath the streetlamp where she usually checks her part-time schedule. This time, though, she takes a piece of marzipan from her pocket and pops it into her mouth.
 
@@ -1035,17 +1035,17 @@ From her other pocket, she takes out the note with Helena's information.
 
 She smooths the note, folds it carefully, and stores it in one of her inner pockets, right against her heart.
 
-**Bkornblume:****"... was a cloud that caught my eye ..."**
+**Bkornblume:** **"... was a cloud that caught my eye ..."**
 
 Starlight faintly illuminates the room, and a night wind slips through the half-open window, stirring the pages of the diary laid open on the desk.
 
-**Bkornblume:****"It was white and so high up ..."**
+**Bkornblume:** **"It was white and so high up ..."**
 
 Bkornblume hangs her coat and bag on the hook behind the door, then takes out a newly bought packet of cornflower seeds and places it beside the flowerpot.
 
 On a blank page of her diary, she pastes the note and a dried cornflower.
 
-**Bkornblume:****"And when I looked up, it was no longer there."**
+**Bkornblume:** **"And when I looked up, it was no longer there."**
 
 **Bkornblume:** "This has been Cornflower. Thank you for tuning in. Good night!"
 
@@ -1059,19 +1059,19 @@ The closing indicator turns on. Bkornblume tidies the desk as usual, gives each 
 
 The brisk early winter wind plays with the ends of her scarf. She looks up and quickly finds Orion shining bright in the star-filled sky.
 
-**Bkornblume:****"And above us in the summer sky ..."**
+**Bkornblume:** **"And above us in the summer sky ..."**
 
 She stops beneath the streetlamp where she usually checks her part-time schedule. This time, though, she takes a piece of marzipan from her pocket and pops it into her mouth.
 
-**Bkornblume:****"... was a cloud that caught my eye ..."**
+**Bkornblume:** **"... was a cloud that caught my eye ..."**
 
 Starlight faintly illuminates the room, and a night wind slips through the half-open window, stirring the pages of the diary laid open on the desk.
 
-**Bkornblume:****"It was white and so high up ..."**
+**Bkornblume:** **"It was white and so high up ..."**
 
 Bkornblume hangs her coat and bag on the hook behind the door, then takes out a newly bought packet of cornflower seeds and places it beside the flowerpot.
 
-**Bkornblume:****"And when I looked up, it was no longer there."**
+**Bkornblume:** **"And when I looked up, it was no longer there."**
 
 **Bkornblume:** "This has been Cornflower. Thank you for tuning in. Good night!"
 

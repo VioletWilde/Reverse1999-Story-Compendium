@@ -40,16 +40,6 @@ Do not live half a life and do not die a half death
 
 — Kahlil Gibran, "Half is not Enough"
 
-Do not love half lovers
-
-Do not entertain half friends
-
-Do not indulge in works of the half talented
-
-Do not live half a life and do not die a half death
-
-— Kahlil Gibran, "Half is not Enough"
-
 **The "Great" Storyteller:** You've certainly heard your fair share of stories. From the bedtime tales your mom told you to the bragging from kids at school...
 
 **The "Great" Storyteller:** Or, or... like those smooth talkers you occasionally encounter in taverns.
@@ -325,8 +315,6 @@ She sulks, cupping her cheeks, elbows on the table, her face puffed up like a bl
 > Knowledge always clogs the throat, but fortunately, this story is both delectable and moving.
 
 <!-- reader-body:start -->
-One month later
-
 One month later
 
 School of Primary Defense of Mankind
@@ -1124,7 +1112,7 @@ Their eyes glow brightly. They swallow hard, absorbing the tales of greatness, w
 
 “They say, ‘don't climb too high.’”
 
-**Letter:**“They say, ‘don't climb too high.’”
+**Letter:** “They say, ‘don't climb too high.’”
 
 **Matilda:** Get down from that tree right now, you rascals. Or else... I'll make you fall!
 
@@ -1142,7 +1130,7 @@ Their eyes glow brightly. They swallow hard, absorbing the tales of greatness, w
 
 “They say, ‘don't think too much.’”
 
-**Letter:**“They say, ‘don't think too much.’”
+**Letter:** “They say, ‘don't think too much.’”
 
 **Erick:** ...Will the ghost really come? I'm getting sleepy.
 
@@ -1162,19 +1150,19 @@ Their eyes glow brightly. They swallow hard, absorbing the tales of greatness, w
 
 “They say, ‘don't run too fast.’”
 
-**Letter:**“They say, ‘don't run too fast.’”
+**Letter:** “They say, ‘don't run too fast.’”
 
 **Instructor:** In this lesson, you will learn how to deal with a glavakus. Now, I will release a domestically bred...
 
 **Erick:** Ahhhh— My cloak! Sailors, stop it!
 
-**Glawackus:**Roaaar!
+**Glawackus:** Roaaar!
 
-**Golden Key Sancho:**Jarl, quick! Stop now—!
+**Golden Key Sancho:** Jarl, quick! Stop now—!
 
-**Effie:**It follows loud, fast-moving things—!
+**Effie:** It follows loud, fast-moving things—!
 
-**Erick:**I can't—hear—you!
+**Erick:** I can't—hear—you!
 
 **Letter:** "Don't climb too high, don't think too much, don't run too fast, don't be too selfish, don't wander too far, don't go... on adventures!"
 
@@ -2393,9 +2381,9 @@ But there's no one there.
 
 **Harald:** Do you remember the day you climbed the "World Tree" and the carvings you found at the top?
 
-**Erick:**"The Eagle Feeder tops them all."
+**Erick:** "The Eagle Feeder tops them all."
 
-**Erick:**"The next kid to read these words will become the new master of the World Tree."
+**Erick:** "The next kid to read these words will become the new master of the World Tree."
 
 **Harald:** It was Ms. Sigrid who carved those words.
 
@@ -2930,7 +2918,7 @@ There is no longer doubt in her eyes.
 
 **Sonetto:** The SPDM's management committee has submitted your transfer application...
 
-**???:****What—?!**
+**???:** **What—?!**
 
 The bed frame begins to shake violently.
 
@@ -3211,11 +3199,11 @@ He too leaves.
 
 **Letter:** Harald... this is my last day at the SPDM.
 
-**Letter:**Harald... this is my last day at the SPDM.
+**Letter:** Harald... this is my last day at the SPDM.
 
 **Letter:** Harald, I had a good time here...
 
-**Letter:**Harald, I had a good time here...
+**Letter:** Harald, I had a good time here...
 
 **Letter:** Harald... If you can't see these letters, then what's the point of me writing them?
 
@@ -3291,7 +3279,7 @@ Erick leaps up from her chair.
 
 She runs to the door and makes a big funny face.
 
-**Erick:**Uh—ah! Just you wait!
+**Erick:** Uh—ah! Just you wait!
 
 She tosses aside her chair and charges down the hallway.
 
@@ -3401,25 +3389,11 @@ the daydreamers
 
 and those whose souls are free from the restrictions of their body.
 
-This story is dedicated to
-
-the daydreamers
-
-and those whose souls are free from the restrictions of their body.
-
-The Three Musketeers
-
 The Three Musketeers
 
 Who Is "Madam Ghost?"
 
-Who Is "Madam Ghost?"
-
 Erick the Fleet-Footed
-
-Erick the Fleet-Footed
-
--THE END-
 
 -THE END-
 

@@ -465,10 +465,6 @@ Banquet Hall
 
 Forget your name. You're no longer your parents' child.
 
-Forget your name. You're no longer your parents' child.
-
-You can be anyone.
-
 You can be anyone.
 
 **Ms. Stranger:** They taught me how to become someone else, and I used that skill in my work as a Foundation spy.

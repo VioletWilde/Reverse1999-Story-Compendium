@@ -59,19 +59,19 @@ Among the Xiǎndào Beasts, Qiángliáng, whose body was like a tiger with a ser
 
 The Zhènzǐ who was entrusted with Qiángliáng took Liáng as their surname, passing this knowledge down through their descendants.
 
-**Liang's Father:**Until today, while the world no longer suffers from the evil spirits of the past and the reputation of our family has lessened, we have never forgotten our ancestors' teaching.
+**Liang's Father:** Until today, while the world no longer suffers from the evil spirits of the past and the reputation of our family has lessened, we have never forgotten our ancestors' teaching.
 
-**Liang's Father:**That is, self-restraint, propriety, righteousness, and the art of banishing evil. Study our family's history, and you will find each generation has lived up to our family name and our motto. To practice restraint, seek justice and expel evil.
+**Liang's Father:** That is, self-restraint, propriety, righteousness, and the art of banishing evil. Study our family's history, and you will find each generation has lived up to our family name and our motto. To practice restraint, seek justice and expel evil.
 
-**Liang's Father:**Yet, Qiángliáng had not appeared to us for almost a hundred years.
+**Liang's Father:** Yet, Qiángliáng had not appeared to us for almost a hundred years.
 
-**Liang's Father:**That was, until you, my daughter—my pride, successfully summoned it after these long years.
+**Liang's Father:** That was, until you, my daughter—my pride, successfully summoned it after these long years.
 
-**Liang's Father:**Do you understand the weight of the expectations you now carry?
+**Liang's Father:** Do you understand the weight of the expectations you now carry?
 
 His hand rests on the girl's shoulder, its weight like that of the world.
 
-**Girl:**I understand. You can trust in me, Father.
+**Girl:** I understand. You can trust in me, Father.
 
 She has heard this story a thousand times, and for years, this answer has been engraved in her mind, for it is the only answer she has ever been allowed to give.
 
@@ -966,7 +966,7 @@ Enraged Man: Kill ... I must kill this bastard.Enraged Man: Who are you?!Liang Y
 
 **Liang Yue:** You'll soon find out.
 
-**Liang Yue:**Arise Qiángliáng, swift and fierce! Banish all evil and cleanse this place!
+**Liang Yue:** Arise Qiángliáng, swift and fierce! Banish all evil and cleanse this place!
 
 ***
 
@@ -1152,8 +1152,6 @@ The officer knits her brow as if she's just been hit with a bad joke. But Liáng
 
 One hour earlier
 
-One hour earlier
-
 **Liang Yue:** It's a great pleasure to meet you, Ms. Qí Xīng. I—I grew up watching your films.
 
 **Liang Yue:** But what are you doing here in L.A.? Um, I mean, if it's okay to ask?
@@ -1216,7 +1214,7 @@ This response seems to earn Qí Xīng's approval.
 
 **Qi Xing:** That beast you summoned was something else. It reminded me of a certain creature, a legendary beast from the north of China.
 
-**Qi Xing:**"Arise Qiángliáng, swift and fierce! Banish all evil and cleanse this place!"
+**Qi Xing:** "Arise Qiángliáng, swift and fierce! Banish all evil and cleanse this place!"
 
 **Qi Xing:** That must make you a descendant of the Liáng family, right?
 
@@ -3929,7 +3927,7 @@ Neither officer can risk injuring the other by firing their gun or using an arca
 
 **Liang Yue:** We're not going to last much longer. I have to do something. Poitier, cover me.
 
-**Liang Yue:**Arise Qiángliáng, swift and fierce!
+**Liang Yue:** Arise Qiángliáng, swift and fierce!
 
 With the ritual vessel of Qiángliáng in her hand, Liáng recites the ancient incantation, each syllable clear and deliberate.
 
@@ -3939,7 +3937,7 @@ Qí Xīng looks momentarily stunned.
 
 This is the beginning of an incantation. Liáng knows that more silver needles could come flying at her at any moment.
 
-**Liang Yue:**Banish all evil ...
+**Liang Yue:** Banish all evil ...
 
 For a brief moment, hesitation creeps over her.
 
@@ -5631,7 +5629,7 @@ Arcane Affairs Officer: Ammo's running low, sir.Deputy Chief Elden: They must be
 
 **Liang Yue:** And that's exactly why I have to stop you.
 
-**Liang Yue:**Arise Qiángliáng, swift and fierce! Banish all evil and cleanse this place!
+**Liang Yue:** Arise Qiángliáng, swift and fierce! Banish all evil and cleanse this place!
 
 **Qi Xing:** ...!
 <!-- reader-body:end -->

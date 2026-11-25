@@ -8,6 +8,8 @@ The client resource baseline is international version 3.9. The CN and internatio
 
 [November 23, 2026 update](../../../structured/story_reader_completion_20261123/README.md)
 
+[November 25, 2026 text corrections](../../../structured/story_reader_proofreading_20261125/README.md)
+
 ## Main Story (16)
 
 - [301 · This Is Tomorrow](mainline/301-This%20Is%20Tomorrow.md) — 6 · 0

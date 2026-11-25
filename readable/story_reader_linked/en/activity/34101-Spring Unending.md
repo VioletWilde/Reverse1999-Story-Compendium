@@ -939,7 +939,7 @@ Under the bell's power, the man transforms into a large yellow dog, its features
 
 **Mayfly:** Where's the Yao? Where?
 
-**Paper Heron:**Eightviewsmerge,themysteryofQi.Threelightsdarken,andalllosetheirway.
+**Paper Heron:** Eight views merge, the mystery of Qi. Three lights darken, and all lose their way.
 
 **Mayfly:** W-What?
 
@@ -2331,7 +2331,7 @@ The singer's melodious voice captures the crowd in a sudden rapture.
 
 The singing reaches the far end of the stage, where Chéng Héguāng and his men stand eyeing the proceedings suspiciously.
 
-**Cheng Heguang:**Legends of Handan? How could they choose this of all operas with these rumors going around?
+**Cheng Heguang:** Legends of Handan? How could they choose this of all operas with these rumors going around?
 
 **Du Liu:** What's it about, Chief?
 
@@ -5913,7 +5913,7 @@ She extends her hand a second time, offering Reed a sincere invitation.
 
 Reed reaches for the ending and answer she has yearned for. Her fingers meet the rough bark.
 
-**Reed:**Inthevastnessbetweenheavenandearth,allthingswillbowtomymeasure.
+**Reed:** In the vastness between heaven and earth, all things will bow to my measure.
 
 Frozen wind cascades from her fingertips, then begins to flow.
 
@@ -6053,9 +6053,9 @@ Reed: Lǎnzhū has awakened.Master Ren: The beast is weak. But my Qi, it flows o
 
 **Master Ren:** ...!
 
-**Paper Heron:**Eightviewsmerge,themysteryofQi.
+**Paper Heron:** Eight views merge, the mystery of Qi.
 
-**Paper Heron:**Threelightsdarken,andalllosetheirway.
+**Paper Heron:** Three lights darken, and all lose their way.
 <!-- reader-body:end -->
 
 

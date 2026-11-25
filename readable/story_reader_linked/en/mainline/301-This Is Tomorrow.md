@@ -370,7 +370,7 @@ our love for freedom ever!
 
 **Female Investigator:** Can we get back ... before the "Storm" ...?
 
-**The Manus Disciple:**\*roars\*
+**The Manus Disciple:** \*roars\*
 
 **Regulus:** Oh, sugar! Sugar!
 
@@ -386,11 +386,11 @@ our love for freedom ever!
 
 **Regulus:** My records! Pete Townshend! The John "Thunderfingers" live show!!!
 
-**Regulus:****I'm gonna kill you!!**
+**Regulus:** **I'm gonna kill you!!**
 
 **APPLe:** Captain, behind you!
 
-**The Manus Disciple:**\*roars\*
+**The Manus Disciple:** \*roars\*
 
 **Vertin:** Found them.
 
@@ -402,7 +402,7 @@ Sonetto: Ascoltare. Capire. Pregare. Perdonare.
 
 Sonetto: Ed è subito sera！
 
-**Sonetto:**Ed è subito sera！
+**Sonetto:** Ed è subito sera！
 
 As the light shines, the enemies disappear in the blink of an eye.
 
@@ -902,7 +902,7 @@ When did it start to rain?
 
 The cityscape is reflected in the puddle, swaying cheerfully with the ripples. The fashionable city, the optimistic people—looks as if the prosperity would last through all eras and never die.
 
-**Newsboy:**EXTRA! EXTRA! READ ALL ABOUT IT!
+**Newsboy:** EXTRA! EXTRA! READ ALL ABOUT IT!
 
 **Newsboy:** The story of The Hero Pickles will be brought to the big screen! Rule, Britannia!
 
@@ -958,7 +958,7 @@ A piece of bread is floating in the air above a table of the cafe's, disappearin
 
 Sonetto takes out her pen quickly and points it at the cup held by "the invisible one."
 
-**Sonetto:**Am himmel wechselt man die bühnenbilder!
+**Sonetto:** Am himmel wechselt man die bühnenbilder!
 
 **Regulus:** Whoa ...! Wh-what?!
 
@@ -1139,7 +1139,7 @@ Shocked for half a second, Regulus pushes Vertin away with great strength.
 
 "Bang!"
 
-**Sonetto:**Huh! Timekeeper ...!
+**Sonetto:** Huh! Timekeeper ...!
 
 **Vertin:** \*coughs\* ... Protect your eyes ...
 
@@ -1175,7 +1175,7 @@ But to the place which she never agreed to meet at.
 
 **Vertin:** Relax. I'm not going to take you to the Foundation. I simply ask that you go somewhere safe with me.
 
-**Vertin:** Regulus, I need you to **brave the "Storm"**with me.
+**Vertin:** Regulus, I need you to **brave the "Storm"** with me.
 
 **Regulus:** Brave the "Storm"?
 
@@ -1434,7 +1434,7 @@ I am here to protect you.
 
 **Vertin:** Say this with me ...
 
-**Vertin:**"Ne iru milde en tiun bonan nokton."
+**Vertin:** "Ne iru milde en tiun bonan nokton."
 
 **Vertin:** Hold my hand. Let me take you into the suitcase.
 

@@ -1414,7 +1414,7 @@ Sonetto takes a deep breath.
 
 Then, she lifts her arms high—
 
-**Sonetto:**Via Pellar!
+**Sonetto:** Via Pellar!
 
 A simple and harmless arcane skill.
 
@@ -1681,7 +1681,7 @@ Human action is the initial point for every mechanical device. The participants 
 
 Stable, controllable, and able to follow instructions.
 
-**Sonetto:**Via Pellar!
+**Sonetto:** Via Pellar!
 
 **X:** I don't know what you could possibly mean.
 

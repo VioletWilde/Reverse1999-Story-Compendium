@@ -449,7 +449,7 @@ More and more fervent invitations leap up to overwhelm the young girl sitting on
 
 **Barcarola:** Something's still missing. Oh! It's here!
 
-**Barcarola:**Astrictus!
+**Barcarola:** Astrictus!
 
 The subtle friction of the device's components forms a harmonious melody.
 

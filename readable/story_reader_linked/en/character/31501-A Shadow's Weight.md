@@ -70,7 +70,7 @@ She puts pointed weight on the word "stewardess."
 
 **Rubuska:** ... \*sigh\*
 
-**Rubuska:**But the passengers were all having so much fun ...
+**Rubuska:** But the passengers were all having so much fun ...
 
 She mutters the words under her breath, but nonetheless winds up the yarn, before returning the ball to her head.
 
@@ -352,7 +352,7 @@ Boots rush back inside, closing in on the source. The small wardrobe is flung op
 
 Kolyo is thrown to the floor. Rubuska sees it all, paralyzed with terror.
 
-**Young Rubuska:**Mама ... Kolyo ...
+**Young Rubuska:** Mама ... Kolyo ...
 
 The door slams shut.
 
@@ -740,11 +740,11 @@ Yet one shadow stays silent. It is small, curled up in the corner, with long hai
 
 She chooses a clear day to cut away her long hair.
 
-**???:**"In the light of the blood moon, they rise and stride under the veil of night ..."
+**???:** "In the light of the blood moon, they rise and stride under the veil of night ..."
 
-**???:**"Freely, they live, without fear of death ..."
+**???:** "Freely, they live, without fear of death ..."
 
-**???:**"For through blood they live forevermore."
+**???:** "For through blood they live forevermore."
 
 The shadow speaks in a childlike tone, retelling the words of their bedtime story for what feels like the thousandth time.
 

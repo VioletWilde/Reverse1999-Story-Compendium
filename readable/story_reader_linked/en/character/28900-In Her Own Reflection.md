@@ -723,20 +723,6 @@ Long before I ever set out on my own journey, before I began my lifelong search,
 
 And I was a part of his journey, too. A star to guide him home.
 
-I never thought I'd ever say something like that.
-
-Was it my brush with death that changed me? I had this gut feeling that Áddjá's Antarctic expedition wouldn't be what I imagined.
-
-It's not a pilgrimage to our spiritual homeland, nor some purely scientific mission to unravel geological mysteries.
-
-So, then, what is it?
-
-My passion for nature, my curiosity about the world, my pursuit of history—it all came from Áddjá.
-
-Long before I ever set out on my own journey, before I began my lifelong search, I prayed for his safe return—the man who walked the path I yearned to follow.
-
-And I was a part of his journey, too. A star to guide him home.
-
 **Nautika's Diary:** Long before I ever set out on my own journey, before I began my lifelong search, I prayed for his safe return—the man who walked the path I yearned to follow.
 
 **Nautika's Diary:** And I was a part of his journey, too. A star to guide him home.
@@ -787,12 +773,6 @@ Mother Spirit, maybe we never had your permission ... but we've never known how 
 
 I beg for your mercy. I know that we're foolish and weak, drowning in a swamp of ignorance as we struggle toward the light. But I can't believe that we're just born to die ...
 
-Antarctica is exactly as I imagined: cruel in its mystery. It never asks where its visitors are from. It doesn't care.
-
-Mother Spirit, maybe we never had your permission ... but we've never known how to stop, how to stifle our urge to explore.
-
-I beg for your mercy. I know that we're foolish and weak, drowning in a swamp of ignorance as we struggle toward the light. But I can't believe that we're just born to die ...
-
 **Nautika's Diary:** Antarctica is exactly as I imagined: cruel in its mystery. It never asks where its visitors are from. It doesn't care.
 
 **Nautika's Diary:** Mother Spirit, maybe we never had your permission ... but we've never known how to stop, how to stifle our urge to explore.
@@ -831,11 +811,11 @@ At last, he flashes them all an unhinged smile.
 
 **Rolf:** Everyone!
 
-**Rolf:**I did it ... I finally found it!
+**Rolf:** I did it ... I finally found it!
 
-**Rolf:**The stratum from the "Blank Era" ...!
+**Rolf:** The stratum from the "Blank Era" ...!
 
-**Rolf:**The relic of the outsiders, the true origin of life ...
+**Rolf:** The relic of the outsiders, the true origin of life ...
 
 The next second, he pushes himself upright, lifts his head, and raises one hand high. Light gathers in his palm as he clenches ... a stone.
 
@@ -855,10 +835,6 @@ Her gaze holds on it.
 ## 2890004 · Empty Tales
 
 <!-- reader-body:start -->
-Everyone else concluded that Áddjá never really returned from Antarctica, but there were times when I still saw him—moments where he became himself again.
-
-Only Friele and I were there to see it. In those times, Áddjá told us about everything he discovered on his journey.
-
 Everyone else concluded that Áddjá never really returned from Antarctica, but there were times when I still saw him—moments where he became himself again.
 
 Only Friele and I were there to see it. In those times, Áddjá told us about everything he discovered on his journey.
@@ -979,7 +955,7 @@ Everything there ... is not ...
 
 Just empty tales.
 
-**Rolf:**Just empty tales.
+**Rolf:** Just empty tales.
 
 **Nautika:** ...
 
@@ -1041,11 +1017,11 @@ The snow swallows her eyes. The world goes dark.
 
 ***
 
-**Nautika:**But ...
+**Nautika:** But ...
 
-**Nautika:**I don't know how to stop ...
+**Nautika:** I don't know how to stop ...
 
-**Nautika:**I just ... \*sniffle\* ... never learned how to.
+**Nautika:** I just ... \*sniffle\* ... never learned how to.
 
 Tears stream.
 
@@ -1109,13 +1085,13 @@ She seems to be nothing but consciousness now—if even that—yet she still clu
 
 Nearly dissolved into the sludge around her, she confesses her sins, though her repentance is far from pure.
 
-**Nautika:**I don't know ...
+**Nautika:** I don't know ...
 
-**Nautika:**But ... I won't stay here.
+**Nautika:** But ... I won't stay here.
 
-**Nautika:**Even after all this ... I have to see for myself ...
+**Nautika:** Even after all this ... I have to see for myself ...
 
-**Nautika:**I have to find the answer ...
+**Nautika:** I have to find the answer ...
 
 **Nautika:** I won't stop until I do.
 
@@ -1439,7 +1415,7 @@ Her voice, too, begins to fade. It is now heard only by the calf.
 
 **Nautika:** And if it's just what we choose, then reaching the end might not be—
 
-**Spirit I:**Nautika ... Don't let those thoughts poison your heart ...
+**Spirit I:** Nautika ... Don't let those thoughts poison your heart ...
 
 **Spirit II:** Nautika, your pursuit must have meaning ...
 
@@ -1748,8 +1724,6 @@ Nothingness.
 **Nautika:** Ah ... ah ...
 
 When reality confirms her premonition, all that remains is pure sorrow.
-
-So that's the answer ...
 
 So that's the answer ...
 

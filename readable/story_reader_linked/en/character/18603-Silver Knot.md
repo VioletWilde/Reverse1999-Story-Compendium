@@ -684,7 +684,7 @@ Today marks the 32nd day of our exploration.
 
 A new mine has been found at the pass of the mountain known by the locals as "Bear Mountain."
 
-**Windsong:**Today marks the 32nd day of our exploration.
+**Windsong:** Today marks the 32nd day of our exploration.
 
 A new mine has been found at the pass of the mountain known by the locals as "Bear Mountain."
 
@@ -694,25 +694,25 @@ She pulls the blanket tighter around her shoulders.
 
 Aside from that ...
 
-**Windsong:**Aside from that ...
+**Windsong:** Aside from that ...
 
 She dips her pen in the ink bottle.
 
 We also found a group of critters, which the locals refer to as "shamama," during our mining.
 
-**Windsong:**We also found a group of critters, which the locals refer to as "shamama," during our mining.
+**Windsong:** We also found a group of critters, which the locals refer to as "shamama," during our mining.
 
 After thoroughly examining their feathers and excrement and observing their habits and behaviors over a period of time,
 
 I believe these shamamas are a variant of the long-extinct critters, the "domovoy."
 
-**Windsong:**After thoroughly examining their feathers and excrement and observing their habits and behaviors over a period of time,
+**Windsong:** After thoroughly examining their feathers and excrement and observing their habits and behaviors over a period of time,
 
 I believe these shamamas are a variant of the long-extinct critters, the "domovoy."
 
 With much effort, we have successfully relocated them to a new reservation.
 
-**Windsong:**With much effort, we have successfully relocated them to a new reservation.
+**Windsong:** With much effort, we have successfully relocated them to a new reservation.
 
 **Windsong:** Thank you, Sofia. I wouldn't have been able to identify the shamamas without your help.
 
@@ -732,7 +732,7 @@ She pulls the letters closer to her and counts them one by one.
 
 Today's letter, however, is concise.
 
-**Windsong:**I've received news that my paper has been successfully published. Can't wait to catch up with you in Yakutsk.
+**Windsong:** I've received news that my paper has been successfully published. Can't wait to catch up with you in Yakutsk.
 
 Upon writing the last word, she sets the letter aside to let the ink dry.
 
@@ -1058,7 +1058,7 @@ A snowy owl turns its head, its large round eyes fixed on the figures in the sno
 
 **Sofia:** Shh!
 
-**Sofia:**You've found them.
+**Sofia:** You've found them.
 
 **Windsong:** The number of ovinniks in the area has reached the minimum viable population size you calculated.
 
@@ -1098,9 +1098,9 @@ But the silence comes too suddenly; they are immediately alert.
 
 Not far from them, behind a pile of snow-covered branches, the head of a white wolf emerges.
 
-**Windsong:**Sofia, look.
+**Windsong:** Sofia, look.
 
-**Sofia:**Stay low.
+**Sofia:** Stay low.
 
 The white wolf leaps over the wood pile. It is clearly starving. Each rib is visible beneath its fur.
 
@@ -1108,9 +1108,9 @@ The white wolf leaps over the wood pile. It is clearly starving. Each rib is vis
 
 It sniffs at the cave's opening, its tail gently brushing the ground.
 
-**Windsong:**It's looking for food.
+**Windsong:** It's looking for food.
 
-**Sofia:**It won't fit through the burrow's entrance.
+**Sofia:** It won't fit through the burrow's entrance.
 
 They watch the white wolf in the distance, neither one daring to move.
 
@@ -1122,17 +1122,17 @@ They gather before the cave, and the white wolf starts digging.
 
 The other wolves patrol the area, apparently looking for any other entrances to the burrow.
 
-**Sofia:**Don't.
+**Sofia:** Don't.
 
 She pushes Windsong back down.
 
 The white wolf has already made a hole the size of its upper body.
 
-**Sofia:**No.
+**Sofia:** No.
 
 Once again, she places her hand on Windsong's shoulder.
 
-**Windsong:**The wolves will get them!
+**Windsong:** The wolves will get them!
 
 A sudden commotion interrupts their hushed argument, an ovinnik dashes out of the burrow and springs onto the white wolf.
 
@@ -1146,7 +1146,7 @@ More wolves circle around, pushing and nipping at the ovinnik. Soon enough, it i
 
 Before Sofia can react, Windsong jumps up and charges toward the wolf pack.
 
-**Windsong:**Природа это числа и черты.
+**Windsong:** Природа это числа и черты.
 
 **Sofia:** You're not helping, you know.
 
@@ -1809,8 +1809,6 @@ After several moments of painful internal struggle, Windsong speaks again.
 Sofia's determined tone surprises her.
 
 **Windsong:** Sofia, you ...
-
-"You should focus on a more compelling subject."
 
 "You should focus on a more compelling subject."
 

@@ -94,10 +94,6 @@ She'd rather just finish her ice cream in peace, but it seems the task of tellin
 
 Mesmer Jr. begins her tale, and time is rewound to three days ago.
 
-Mesmer Jr. begins her tale, and time is rewound to three days ago.
-
-This is a story about a museum, ice cream, distant stars, and numbers.
-
 This is a story about a museum, ice cream, distant stars, and numbers.
 
 Lobby, Laplace
@@ -906,7 +902,7 @@ Both notebook and pen are emblazoned with the Laplace logo. Everyone present has
 
 Five shapes appear on the paper. 37 labels each one with its Schläfli symbol and begins to evaluate them.
 
-**37:**12/3 is too clumsy, 12/5 is too extreme.
+**37:** 12/3 is too clumsy, 12/5 is too extreme.
 
 **37:** —And the equilateral triangle is the most stable, making the shape it forms the best of the four regular dodecagrams.
 
@@ -950,7 +946,7 @@ The question comes both inevitably and unavoidably.
 
 **Mesmer Jr.:** Do I really have to choose one? Isn't this kind of juvenile? Fine, this one.
 
-**37:**12/2, a dodecagram made of two hexagons! I thought as much!
+**37:** 12/2, a dodecagram made of two hexagons! I thought as much!
 
 **Mesmer Jr.:** I just picked randomly.
 

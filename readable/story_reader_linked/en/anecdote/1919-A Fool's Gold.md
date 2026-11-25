@@ -56,8 +56,6 @@ The Headonion Show
 
 MacGuffin the Knife.
 
-MacGuffin the Knife.
-
 Lobby, Suitcase
 
 **Mercuria:** They usually stay around three to eight inches from your body.
@@ -456,8 +454,6 @@ Once again, he grinds his nails, their pointed tips dragging over the metal surf
 **Fingers:** What I need is for you to track it down.
 
 Fingers pulls out an old photograph.
-
-MacGuffin the Knife
 
 MacGuffin the Knife
 
@@ -2028,8 +2024,6 @@ The Border Collie lifts its head, staring at the disoriented hitmen, Panzo and A
 <!-- reader-body:start -->
 Approximately three hours prior.
 
-Approximately three hours prior.
-
 Inside the Car
 
 **Panzo:** This past month, we've hit up three gas stations, five convenience stores, and that one karaoke joint.
@@ -2731,8 +2725,6 @@ The TV shuts off with a loud "click." A towering figure in a police uniform bloc
 
 **WANTED**
 
-**WANTED**
-
 Wanted: Panzo and AJ.
 
 Lobby, Suitcase
@@ -2769,9 +2761,9 @@ Smoke rises, the pendulum sways, and the ceremony is about to begin.
 
 Mercuria softly says the last of her words, then begins to dance. As she does, a quiet tenderness and sadness flow from her movements, barely perceptible to most.
 
-**Subtitles:**This show is inspired by actual events. To protect the privacy of the individuals involved, their real names have been changed.
+**Subtitles:** This show is inspired by actual events. To protect the privacy of the individuals involved, their real names have been changed.
 
-**Subtitles:**All other content has not been altered.
+**Subtitles:** All other content has not been altered.
 
 **ONiON:** In response to the overwhelming complaints alleging the content of this special to be illogical, irrational, or just plain false, let me take this moment to restate the end credits message.
 

@@ -80,14 +80,6 @@ Thou art the Kingdom and the Power and the Glory.
 
 （ATAH MAKUTH VE-GEBURAH VE-GEDULAH)
 
-Thou art the Kingdom and the Power and the Glory.
-
-（ATAH MAKUTH VE-GEBURAH VE-GEDULAH)
-
-Forever. Amen.
-
-(LE-OLAHM AMEN)
-
 Forever. Amen.
 
 (LE-OLAHM AMEN)
@@ -242,7 +234,7 @@ She lifts the crystal and holds it up to the candlelight.
 
 A small dragon pokes its head out from her sleeve as if on cue.
 
-**Adèle:**Byfire,whatisfalseispurged.
+**Adèle:** By fire, what is false is purged.
 
 Flames flicker, yet the woman feels no heat. Though the once-beautiful crystal has been rendered into dull, broken shards.
 
@@ -323,39 +315,39 @@ Madame Raymond: ...!Madame Raymond: Monster! ... B-Beast!Madame Raymond: Urh—U
 
 - Element：`3210401`
 
-???:It was two years ago, or sixteen years hence, depending on which chronicle you follow.
+???: It was two years ago, or sixteen years hence, depending on which chronicle you follow.
 
-???:To me, it was as vivid as yesterday. But to young minds like yours, it seemed a kind of chaos unheard of.
+???: To me, it was as vivid as yesterday. But to young minds like yours, it seemed a kind of chaos unheard of.
 
-???:We should start from the beginning.
+???: We should start from the beginning.
 
-???:With the war coming to an end, France faced countless possibilities. Its people, weary yet filled with hope, longed for lasting peace.
+???: With the war coming to an end, France faced countless possibilities. Its people, weary yet filled with hope, longed for lasting peace.
 
-???:The economy flourished for a time, and people from all walks of life came to France.
+???: The economy flourished for a time, and people from all walks of life came to France.
 
-???:Still, the impacts of war inevitably surfaced. As the wartime factories closed, people struggled to survive. Their hardships gave rise to new demands, and before long, Paris became a swirl of competing ideas.
+???: Still, the impacts of war inevitably surfaced. As the wartime factories closed, people struggled to survive. Their hardships gave rise to new demands, and before long, Paris became a swirl of competing ideas.
 
 > **Choice 1：** And just how is this connected to your story?
 
-???:That very much depends on your perspective. If your only interest is in the story itself—not the context—you might think it irrelevant.
+???: That very much depends on your perspective. If your only interest is in the story itself—not the context—you might think it irrelevant.
 
-???:But I believe context matters. It keeps you from being thrown off by the details.
+???: But I believe context matters. It keeps you from being thrown off by the details.
 
-???:That said, neither the economy nor society is our chief concern today. What I share with you now is a story, hearsay really—
+???: That said, neither the economy nor society is our chief concern today. What I share with you now is a story, hearsay really—
 
 > **Choice 2：** A story about this taxi driver, I presume.
 
-???:You presume correctly. A taxi driver caught up in the whirlpool of ideas that spun within Paris.
+???: You presume correctly. A taxi driver caught up in the whirlpool of ideas that spun within Paris.
 
-???:A heroine born tied to a fate that promises adventure at the cost of her life, who only ever desired a quiet life in the city she loved.
+???: A heroine born tied to a fate that promises adventure at the cost of her life, who only ever desired a quiet life in the city she loved.
 
-???:But fate does not ask for permission.
+???: But fate does not ask for permission.
 
-???:And when this journey comes to a close, regret will be all that remains.
+???: And when this journey comes to a close, regret will be all that remains.
 
 > **Choice 1：** Sounds like this story doesn't have the happiest of endings.
 
-???:It ends, as all stories must—whether that end is a happy one. You will soon find out.
+???: It ends, as all stories must—whether that end is a happy one. You will soon find out.
 
 
 ---
@@ -866,33 +858,33 @@ There must be a deeper metaphor.
 
 - Element：`3210402`
 
-???:I was running a crystal parlor in Paris back then.
+???: I was running a crystal parlor in Paris back then.
 
-???:People came for all sorts of products—from ordinary crystal ornaments to the enchanted ones—I had them all. I recognized a few of my customers in your Suitcase.
+???: People came for all sorts of products—from ordinary crystal ornaments to the enchanted ones—I had them all. I recognized a few of my customers in your Suitcase.
 
-???:But many came seeking something I never put on the shelf—prophecy.
+???: But many came seeking something I never put on the shelf—prophecy.
 
 > **Choice 1：** I can imagine. Who wouldn't want to know their future?
 
-???:But our path through fate's garden is already set. No prophecy can change where it leads.
+???: But our path through fate's garden is already set. No prophecy can change where it leads.
 
-???:And I dislike putting a price on things that have no use.
+???: And I dislike putting a price on things that have no use.
 
-???:So I made myself a promise: that only those I trusted would get a glimpse of what lies ahead of them—a gift, nothing more.
+???: So I made myself a promise: that only those I trusted would get a glimpse of what lies ahead of them—a gift, nothing more.
 
 > **Choice 2：** So you sold prophecies too, then.
 
-???:I am afraid that was never an option for me. I could never put a price on it. Whether one knows about the future or not, their fate remains unchanged.
+???: I am afraid that was never an option for me. I could never put a price on it. Whether one knows about the future or not, their fate remains unchanged.
 
-???:A prophecy to fate is like a title to a book, and no bookseller should charge for the title alone.
+???: A prophecy to fate is like a title to a book, and no bookseller should charge for the title alone.
 
-???:So, I only offered the gift of prophecy to those who did not come seeking it.
+???: So, I only offered the gift of prophecy to those who did not come seeking it.
 
-???:To my surprise, it did something unexpected for my business. Word spread, and I recovered my investment soon enough.
+???: To my surprise, it did something unexpected for my business. Word spread, and I recovered my investment soon enough.
 
 > **Choice 1：** I'm not surprised.
 
-???:Nor was I. Few things in life have ever surprised me, and this was much the same.
+???: Nor was I. Few things in life have ever surprised me, and this was much the same.
 
 ### Trail · Gaze Within
 
@@ -1398,45 +1390,45 @@ Beryl shakes her head. Somehow just that gesture alone is enough to lift her hea
 
 - Element：`3210403`
 
-???:I saw doubt on Mademoiselle Brume's face. As a diviner, you encounter that look more often than people think.
+???: I saw doubt on Mademoiselle Brume's face. As a diviner, you encounter that look more often than people think.
 
-???:Some have called me a schemer, a fraud, as the Vigiles Bureau did. Perhaps they are watching me even now, listening in to our very conversation.
+???: Some have called me a schemer, a fraud, as the Vigiles Bureau did. Perhaps they are watching me even now, listening in to our very conversation.
 
-???:Some were frightened by what I could see but kept coming back to sate their own curiosity.
+???: Some were frightened by what I could see but kept coming back to sate their own curiosity.
 
-???:Some showed nothing but disdain—not for me, but for the very idea of a predetermined future. I admired their courage.
+???: Some showed nothing but disdain—not for me, but for the very idea of a predetermined future. I admired their courage.
 
-???:Brume was not any of these. She was a fourth kind—one who tries to ignore the prophecy but, in doing so, only finds herself carried further into its stream.
+???: Brume was not any of these. She was a fourth kind—one who tries to ignore the prophecy but, in doing so, only finds herself carried further into its stream.
 
 > **Choice 1：** The Vigiles Bureau?
 
-???:Oops. Have I let it slip?
+???: Oops. Have I let it slip?
 
-???:Well, I suppose there is no use pretending now. There was a disagreement about my decision to take a certain handful of arcane objects without consulting their rightful owners.
+???: Well, I suppose there is no use pretending now. There was a disagreement about my decision to take a certain handful of arcane objects without consulting their rightful owners.
 
-???:In the end, I paid all their penalties, among other not-so-charming consequences.
+???: In the end, I paid all their penalties, among other not-so-charming consequences.
 
-???:Not that it has done anything to prevent them from hounding me at every turn. To them, it seems I am only a fear-mongering schemer who knows secrets best left unknown.
+???: Not that it has done anything to prevent them from hounding me at every turn. To them, it seems I am only a fear-mongering schemer who knows secrets best left unknown.
 
 > **Choice 2：** What kind am I, then?
 
-???:Hmm. An excellent question.
+???: Hmm. An excellent question.
 
-???:Someone who walks between eras and through the "Storms," what is your view on fate?
+???: Someone who walks between eras and through the "Storms," what is your view on fate?
 
-???:Few people can imagine the nature of your position. No more than three, I would wager. And I wish I could say I was one of them.
+???: Few people can imagine the nature of your position. No more than three, I would wager. And I wish I could say I was one of them.
 
-???:Alas, I am but a puppet dangling at the end of fate's thread. My limited vision cages my imagination.
+???: Alas, I am but a puppet dangling at the end of fate's thread. My limited vision cages my imagination.
 
-???:Though I may still see a little more than most people, I cannot do as I was meant to.
+???: Though I may still see a little more than most people, I cannot do as I was meant to.
 
 > **Choice 1：** Your hands are tied—is that what you're saying?
 
-???:I have lived long enough to know better than to act against fate.
+???: I have lived long enough to know better than to act against fate.
 
-???:Though, in fact, what I would have done differs very little from what I was meant to do.
+???: Though, in fact, what I would have done differs very little from what I was meant to do.
 
-???:What do you think? Is it perhaps fate that determined my personality, or my personality determining my fate?
+???: What do you think? Is it perhaps fate that determined my personality, or my personality determining my fate?
 
 
 ---
@@ -1469,7 +1461,7 @@ A tea-brown crystal—mysterious, sacred, its smoke frozen within.
 
 **Beryl:** Now, close your eyes.
 
-Sevendoubles,sevengates—seveninallrevealtheSephirot.
+Seven doubles, seven gates—seven in all reveal the Sephirot.
 
 **Beryl:** Keep your breath steady and look into the darkness—search for the light.
 
@@ -1891,7 +1883,7 @@ The car isn't moving forward or backward now. It seems to simply hang suspended 
 
 Her dragon climbs up the seatback and leaps onto Adèle's shoulder.
 
-**Adèle:**Byfire,whatisfalseispurged.
+**Adèle:** By fire, what is false is purged.
 
 Under the flame's glare, the beast's fangs rip through the man's human shell.
 
@@ -1945,7 +1937,7 @@ Célia forces Adèle's palm closed around it.
 
 **Adèle:** Célia!
 
-**Beryl:**—Fromdarkness,light.
+**Beryl:** —From darkness, light.
 
 The heavy darkness in her mind lifts. Adèle looks around, her temples throbbing.
 
@@ -2670,55 +2662,55 @@ The most complete, most flawless pattern.
 
 - Element：`3210404`
 
-???:And there she was, glowering at the empty passenger seat, yelling as if quite alarmed by someone inside.
+???: And there she was, glowering at the empty passenger seat, yelling as if quite alarmed by someone inside.
 
-???:I believe she called her ... Félicie? No ... Félicienne.
+???: I believe she called her ... Félicie? No ... Félicienne.
 
-???:Yes. That was her name. Indeed, I once knew a Félicienne as well.
+???: Yes. That was her name. Indeed, I once knew a Félicienne as well.
 
 > **Choice 1：** Do you believe it's the same person?
 
-???:Well, it is far from a common name; that much is certain.
+???: Well, it is far from a common name; that much is certain.
 
-???:But then such a coincidence would border on ... theatrical, no?
+???: But then such a coincidence would border on ... theatrical, no?
 
-???:I should like to think that fate has more elegant ways of crossing my path with Brume's. Though, of course, it is possible that fate favors the comedy of the absurd.
+???: I should like to think that fate has more elegant ways of crossing my path with Brume's. Though, of course, it is possible that fate favors the comedy of the absurd.
 
 > **Choice 2：** Isn't this Félicienne rather important?
 
-???:Heh heh, you do know how to make me laugh.
+???: Heh heh, you do know how to make me laugh.
 
-???:But Félicienne is no Napoleon. She never became a household name.
+???: But Félicienne is no Napoleon. She never became a household name.
 
-???:Perhaps her demeanor and her air of self-assurance gave you that idea, but I advise you to look a little bit closer.
+???: Perhaps her demeanor and her air of self-assurance gave you that idea, but I advise you to look a little bit closer.
 
-???:That said, the Félicienne I knew would not take well to being mistaken for just any Félicienne.
+???: That said, the Félicienne I knew would not take well to being mistaken for just any Félicienne.
 
-???:Before the Second Industrial Revolution, the blood in her veins was more prized than liquid gold.
+???: Before the Second Industrial Revolution, the blood in her veins was more prized than liquid gold.
 
 > **Choice 1：** She's of noble birth, isn't she?
 
-???:Indeed. Her family was once renowned for their command over thunder and lightning. Though their influence faded when humans learned to harness electricity for themselves.
+???: Indeed. Her family was once renowned for their command over thunder and lightning. Though their influence faded when humans learned to harness electricity for themselves.
 
-???:Even so, the fortune her ancestors gathered would keep the family running for another two centuries. More than enough for our Félicienne to live a truly opulent lifestyle.
+???: Even so, the fortune her ancestors gathered would keep the family running for another two centuries. More than enough for our Félicienne to live a truly opulent lifestyle.
 
 > **Choice 2：** She's a powerful arcanist, isn't she?
 
-???:The Barons were known as fighters, heroes, Priests and Priestesses of Lightning. That legacy was passed down through generations.
+???: The Barons were known as fighters, heroes, Priests and Priestesses of Lightning. That legacy was passed down through generations.
 
-???:Even a century after the last aluminum furnace bearing their name went cold, she still remembers the heat of fame, of success, of envy.
+???: Even a century after the last aluminum furnace bearing their name went cold, she still remembers the heat of fame, of success, of envy.
 
 > **Choice 1：** So she comes from a time before the "Storm."
 
-???:Precisely. When she was born, the "Storm" had not yet begun.
+???: Precisely. When she was born, the "Storm" had not yet begun.
 
-???:Not that it matters much, you see. In times like these, those born before the "Storm" often still cross paths with those of another era. Just like you and your friends, and myself and Brume.
+???: Not that it matters much, you see. In times like these, those born before the "Storm" often still cross paths with those of another era. Just like you and your friends, and myself and Brume.
 
 > **Choice 1：** She's been reversed.
 
-???:Yes. The Félicienne I knew disappeared long ago.
+???: Yes. The Félicienne I knew disappeared long ago.
 
-???:Absent a miracle, I doubt anyone will ever see her again.
+???: Absent a miracle, I doubt anyone will ever see her again.
 
 ### Trail · From a Friend
 
@@ -5075,35 +5067,35 @@ It passes through the corridor, out the door, vanishing into the blinding daylig
 
 - Element：`3210405`
 
-???:It is true; I have held back many important details.
+???: It is true; I have held back many important details.
 
-???:Concerning matters like the nature of Félicienne and Brume's relationship, and Professor Roseau's true intentions.
+???: Concerning matters like the nature of Félicienne and Brume's relationship, and Professor Roseau's true intentions.
 
-???:But I believe it is not my place to disclose such things. People deserve to discover these things on their own.
+???: But I believe it is not my place to disclose such things. People deserve to discover these things on their own.
 
 > **Choice 1：** You've fooled everyone.
 
-???:And you have placed far too much importance on prophecy. The course of fate remains the same, whether I speak about it or not.
+???: And you have placed far too much importance on prophecy. The course of fate remains the same, whether I speak about it or not.
 
-???:In this kind of business, one must remain neutral—all of my clientele understand that.
+???: In this kind of business, one must remain neutral—all of my clientele understand that.
 
-???:I take no sides, only payments.
+???: I take no sides, only payments.
 
 > **Choice 2：** I need an explanation.
 
-???:The "Storm" has affected many things, including the Depths of Myth. One day, Laurent Roseau stumbled upon a rift that caused it to spill over, and his mind has been captured in its maelstrom ever since.
+???: The "Storm" has affected many things, including the Depths of Myth. One day, Laurent Roseau stumbled upon a rift that caused it to spill over, and his mind has been captured in its maelstrom ever since.
 
-???:As for Felicienne—she was a soul lost within the Depths of Myth. Thus, their streams of fate inevitably crossed.
+???: As for Felicienne—she was a soul lost within the Depths of Myth. Thus, their streams of fate inevitably crossed.
 
-???:With the villains in their proper places, Brume's story had truly begun.
+???: With the villains in their proper places, Brume's story had truly begun.
 
 > **Choice 3：** I'm more interested in the part involving Matilda.
 
-???:Ah, of course—and why not? My Matilda ... such a lovely, radiant girl. She has inherited my strength and added to it a vitality of her own. Those who speak with her often leave smiling.
+???: Ah, of course—and why not? My Matilda ... such a lovely, radiant girl. She has inherited my strength and added to it a vitality of her own. Those who speak with her often leave smiling.
 
-???:As for her future, I cannot share it with you here.
+???: As for her future, I cannot share it with you here.
 
-???:But I can assure you: her path is one worth looking forward to.
+???: But I can assure you: her path is one worth looking forward to.
 
 
 ---
@@ -5417,7 +5409,7 @@ Only the real remains. All falsehood will burn away to ash.
 
 This charade must finally be put to rest.
 
-**Adèle:**Byfire,whatisfalse—
+**Adèle:** By fire, what is false—
 
 **Félicienne:** Heh.
 
@@ -5659,7 +5651,7 @@ All the waiting, torment, pursuit, and struggle have come to an end. Every ounce
 
 She has no other choice.
 
-**Adèle:**Byfire,whatisfalseispurged.
+**Adèle:** By fire, what is false is purged.
 
 Flame is just another means of transformation, but now it must expose what's real.
 
@@ -5673,7 +5665,7 @@ But the French Blue doesn't vanish. The single gem becomes two. Image and matter
 
 **Adèle:** How can it still be here?
 
-**Adèle:**Byfire,whatisfalseispurged!
+**Adèle:** By fire, what is false is purged!
 
 In the blaze, falsehood crumbles and truth remains.
 
@@ -5722,39 +5714,39 @@ The same smile she gave her long ago in that divination salon—the version of h
 
 - Element：`3210406`
 
-???:What a cruel "Storm."
+???: What a cruel "Storm."
 
-???:So far, the story has followed along a classic direction—Brume walked "the Hero's Journey."
+???: So far, the story has followed along a classic direction—Brume walked "the Hero's Journey."
 
-???:But just as it seemed that it might end with triumph, down came the "Storm."
+???: But just as it seemed that it might end with triumph, down came the "Storm."
 
-???:This is the fifth joke fate has played on me.
+???: This is the fifth joke fate has played on me.
 
 > **Choice 1：** I have no love for the "Storm" either.
 
-???:I must be honest with you. There is something in it that I like.
+???: I must be honest with you. There is something in it that I like.
 
-???:As dreadful as it may be to stand before a future I cannot foresee, I feel something else. Perhaps you might call it hope.
+???: As dreadful as it may be to stand before a future I cannot foresee, I feel something else. Perhaps you might call it hope.
 
-???:For someone born with my abilities, there is a strange beauty in moments like these, to know how it feels to know nothing.
+???: For someone born with my abilities, there is a strange beauty in moments like these, to know how it feels to know nothing.
 
 > **Choice 2：** Well. I admit I saw it coming.
 
-???:Of course you did. You know the "Storm" better than most anyone.
+???: Of course you did. You know the "Storm" better than most anyone.
 
-???:I suspect you knew how it would end the moment I told you how it began.
+???: I suspect you knew how it would end the moment I told you how it began.
 
-???:Yet I cannot see beyond the "Storm," so it always takes me by surprise.
+???: Yet I cannot see beyond the "Storm," so it always takes me by surprise.
 
 > **Choice 1：** Are you hoping that the "Storm" will break fate's course?
 
-???:Yes, though I understand it may come at a great price.
+???: Yes, though I understand it may come at a great price.
 
-???:Ah! Perhaps that is why the Vigiles Bureau and the Foundation have kept such a keen eye on me.
+???: Ah! Perhaps that is why the Vigiles Bureau and the Foundation have kept such a keen eye on me.
 
-???:Perhaps they think me one of those "Storm" advocates.
+???: Perhaps they think me one of those "Storm" advocates.
 
-???:But why would I advocate for it? I have never asked for it. All I have done is try to understand it.
+???: But why would I advocate for it? I have never asked for it. All I have done is try to understand it.
 
 
 ---
@@ -6472,33 +6464,33 @@ Yes. A book that questions the nature of the world.
 
 - Element：`3210407`
 
-???:It was then that I decided to help Brume one last time.
+???: It was then that I decided to help Brume one last time.
 
-???:There was risk in my choice. I could not see what the consequences would be.
+???: There was risk in my choice. I could not see what the consequences would be.
 
-???:Still, I succeeded, and the rewards were most generous. Many suspected that I had planned it from the start—a common accusation made of diviners, of course.
+???: Still, I succeeded, and the rewards were most generous. Many suspected that I had planned it from the start—a common accusation made of diviners, of course.
 
 > **Choice 1：** You chose to let the villain live.
 
-???:Do you think I did not punish her enough?
+???: Do you think I did not punish her enough?
 
-???:She lives, true, but sealed inside a false diamond. I doubt that was the life she had intended.
+???: She lives, true, but sealed inside a false diamond. I doubt that was the life she had intended.
 
-???:Besides, Brume has the right to decide her fate. It was not my place to choose whether she lives or dies.
+???: Besides, Brume has the right to decide her fate. It was not my place to choose whether she lives or dies.
 
 > **Choice 2：** How's your vision?
 
-???:Thank you for your concern; I am doing well, though the future now comes to me through an ever-thickening haze.
+???: Thank you for your concern; I am doing well, though the future now comes to me through an ever-thickening haze.
 
-???:Though, I should say, I find myself welcoming the lack of clarity.
+???: Though, I should say, I find myself welcoming the lack of clarity.
 
-???:I am now able to watch my daughter grow, to observe her, and feel true surprise in every step she takes.
+???: I am now able to watch my daughter grow, to observe her, and feel true surprise in every step she takes.
 
-???:If there is anything to take away from Brume's story, I would suggest this:
+???: If there is anything to take away from Brume's story, I would suggest this:
 
-???:Sometimes, good can come from being blind to fate's path.
+???: Sometimes, good can come from being blind to fate's path.
 
-???:How exciting it must be to arrive in this world knowing nothing and, after a long, beautiful journey, realize just how much there is still to discover.
+???: How exciting it must be to arrive in this world knowing nothing and, after a long, beautiful journey, realize just how much there is still to discover.
 
 ### Trail · On the Book Cover
 
@@ -6664,9 +6656,7 @@ Her smile is warm and gentle, but her eyes don't match.
 
 You have seen the golden thread, have you not?
 
-AF l o w i n gF e a s t
-
-AF l o w i n gF e a s t
+A F l o w i n g F e a s t
 <!-- reader-body:end -->
 
 <details>

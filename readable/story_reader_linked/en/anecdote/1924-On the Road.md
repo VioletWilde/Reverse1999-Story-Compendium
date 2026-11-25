@@ -793,7 +793,7 @@ But the caravan dives down over the nearby rise, disappearing from her sight.
 
 Suddenly, rough hands grab her shoulders and slam her to the ground.
 
-**Young Master Salman:****Hold her down! Break her fingers one by one!**
+**Young Master Salman:** **Hold her down! Break her fingers one by one!**
 <!-- reader-body:end -->
 
 <details>
@@ -1533,7 +1533,7 @@ Patchy, bright-colored tents abound, cobbled together from scraps of cloth and s
 
 A coalition of drifters and outcasts.
 
-**Kanjira:**Is this place safe?
+**Kanjira:** Is this place safe?
 
 Countless wary eyes fix on the newcomer.
 

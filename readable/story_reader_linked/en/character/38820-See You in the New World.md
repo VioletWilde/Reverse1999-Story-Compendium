@@ -109,7 +109,7 @@ The architect, well accustomed to wandering through flights of fancy, adjusts he
 
 **Duvalle:** One more thing—
 
-**Duvalle:****Have you finished your design for the monument?**
+**Duvalle:** **Have you finished your design for the monument?**
 
 **Cornerstone:** Huh?
 
@@ -133,7 +133,7 @@ The architect rubs her aching back as she pulls herself up. As she adjusts her e
 
 Her colleague, evidently allergic to disorder, gathers up Cornerstone's "blanket" and begins leafing through the pages one by one.
 
-**Grundriss:**A Proposal Expressing the "Storm" Through Silk Thread and Beads, A Cemetery of Recumbent Monuments, An Umbrella Made to Shelter from the Rain ...
+**Grundriss:** A Proposal Expressing the "Storm" Through Silk Thread and Beads, A Cemetery of Recumbent Monuments, An Umbrella Made to Shelter from the Rain ...
 
 **Grundriss:** There are some strong contenders here, frankly.
 

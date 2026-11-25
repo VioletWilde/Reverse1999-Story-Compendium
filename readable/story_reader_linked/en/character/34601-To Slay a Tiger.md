@@ -1247,8 +1247,6 @@ Chéng stares at her back, confused, before deciding to follow after her.
 
 The Next Day
 
-The Next Day
-
 Fallen leaves scatter, turning into metallic blades as they tangle with silver thread.
 
 They streak through the air in a blur, impossible to make out.
@@ -1824,15 +1822,15 @@ As he probes further, the Qi grows cold and dense, as if it were closing in arou
 
 **Cheng Heguang:** It's cold, like winter.
 
-**???:**You fool of a boy! You are not to use your arcane skill again, do you hear me? Are you trying to get us all killed?
+**???:** You fool of a boy! You are not to use your arcane skill again, do you hear me? Are you trying to get us all killed?
 
-**???:**It's best you don't come to training tomorrow.
+**???:** It's best you don't come to training tomorrow.
 
-**???:**You're not selling the house anymore? Oh, I see. My condolences.
+**???:** You're not selling the house anymore? Oh, I see. My condolences.
 
-**???:**He's really dead?
+**???:** He's really dead?
 
-**???:**An accident. Who'd have thought a military officer would be so fragile!
+**???:** An accident. Who'd have thought a military officer would be so fragile!
 
 **Cheng Heguang:** No! No, no, no!
 
@@ -1854,7 +1852,7 @@ Héguāng, trust your sense of Qi.
 
 It will show you more than your eyes alone.
 
-**Father:**Héguāng, trust your sense of Qi.
+**Father:** Héguāng, trust your sense of Qi.
 
 It will show you more than your eyes alone.
 
@@ -2457,11 +2455,7 @@ And how can he leave before the walls are repainted white?
 
 "Just as the art enjoyed by the elite and the common folk differs, so does their etiquette. Outside the home, one listens to teachers and superiors; inside the home, one follows the manners of one's mother."
 
-"Just as the art enjoyed by the elite and the common folk differs, so does their etiquette. Outside the home, one listens to teachers and superiors; inside the home, one follows the manners of one's mother."
-
 The people of the county hold the works of sages and scholars as unquestionable truth.
-
-"One must hold compassion and kindness for others, even when in crisis. One must carry integrity, justice, and honesty, even when in poverty."
 
 "One must hold compassion and kindness for others, even when in crisis. One must carry integrity, justice, and honesty, even when in poverty."
 

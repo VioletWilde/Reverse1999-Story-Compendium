@@ -916,7 +916,7 @@ Professor Evan tapped me hard on the shoulder as he always did.
 
 **Professor Evan:** What do you think?
 
-**Tooth Fairy:** As you mentioned, if the project is guaranteed to move forward properly, and is successfully approved by FDA... the prospects are indeed immeasurably prosperous.
+**Tooth Fairy:** As you mentioned, if the project is guaranteed to move forward properly, and is successfully approved by FDA ... the prospects are indeed immeasurably prosperous.
 
 **Tooth Fairy:** It could even save tens of thousands of cancer patients.
 
@@ -1210,7 +1210,7 @@ I turned around to face my former mentor, who looked even strange to me at the m
 
 **Tooth Fairy:** You sent me the fake treatment reports of the volunteers.
 
-**Professor Evan:** FDA has approved it for marketing. There's no point ofquestioning me.
+**Professor Evan:** FDA has approved it for marketing. There's no point of questioning me.
 
 **Tooth Fairy:** That's a bribe.
 

@@ -78,7 +78,7 @@ Tuesday's cheeks flush red, perhaps from the effort of carrying the child in the
 
 Tuesday draws nearer, looking Barbara in the eye. The little sheep dares not look away. Her nose gives an involuntary twitch of fear.
 
-**Tuesday:****Oh, look!**
+**Tuesday:** **Oh, look!**
 
 She raises her arm and sweeps Barbara's shoulder.
 
@@ -224,7 +224,7 @@ It's a door like any other. It's painted a simple color and a little worn and ro
 
 Tuesday suddenly leans forward, staring at the wall between Barbara's door and the previous one.
 
-**Tuesday:****What's going on?!**
+**Tuesday:** **What's going on?!**
 
 **Barbara:** What is that ... Bonnette?!
 
@@ -762,7 +762,7 @@ it isn't outside the door.
 
 It's in his room.
 
-**Tuesday:**Whatever it is,
+**Tuesday:**  Whatever it is,
 
 it isn't outside the door.
 
@@ -804,13 +804,11 @@ She recognizes what's gripping her pinky finger as a child's hand.
 
 HIS EXACT FACE.
 
-**Tuesday:**HIS EXACT FACE.
+**Tuesday:**  HIS EXACT FACE.
 
 See? This time the fear comes from the known—the doubt of oneself—
 
-**Tuesday:**See? This time the fear comes from the known—the doubt of oneself—
-
-or at least something disguised as "oneself."
+**Tuesday:** See? This time the fear comes from the known—the doubt of oneself—
 
 or at least something disguised as "oneself."
 
@@ -1131,12 +1129,6 @@ Then she steps over her own body.
 **Tuesday:** I once found a notebook left by the previous owner.
 
 **Tuesday:** She got lost—wandered in here thinking it was just a haunted house. Poor girl had nowhere to go, so she decided to stay.
-
-Do NOT enter doors that appear out of nowhere.
-
-Do NOT reply to the voices. They aren't real.
-
-Do NOT answer late-night room service calls.
 
 Do NOT enter doors that appear out of nowhere.
 
@@ -1706,21 +1698,11 @@ Never is a strong word. It means not even once before, and not ever after.
 
 What is fear?
 
-What is fear?
-
-Is it a sound without a source, an indescribable creature,
-
-or a sword suspended by a single hair?
-
 Is it a sound without a source, an indescribable creature,
 
 or a sword suspended by a single hair?
 
 Is it a mirror?
-
-Is it a mirror?
-
-Or a pair of eyes gazing into the abyss and the abyss staring back?
 
 Or a pair of eyes gazing into the abyss and the abyss staring back?
 

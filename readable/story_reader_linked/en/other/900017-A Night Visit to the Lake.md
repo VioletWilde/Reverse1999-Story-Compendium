@@ -27,10 +27,6 @@ We read and we learn.
 
 Hope you have a great night at the expo, filled with screams and shrieks
 
-"A Night Visit to the Lake" Flash Gathering
-
-Hope you have a great night at the expo, filled with screams and shrieks
-
 **Horropedia:** ... What's this?
 
 **Horropedia:** I don't remember an ad like that in my subscription to Monster Weekly... Huh...?
@@ -317,7 +313,7 @@ It transforms into two black shadows and pounces on the crowd swiftly with a ter
 
 Jessica stares intently at the figure in front of her and gives a small but hard nod.
 
-**Vertin:**I am the King of the Living Dead!
+**Vertin:** I am the King of the Living Dead!
 
 **Horropedia:** ...
 
@@ -325,11 +321,11 @@ Jessica stares intently at the figure in front of her and gives a small but hard
 
 Blonney bowed her head and lowered her voice.
 
-**Blonney:**What are they doing...?
+**Blonney:** What are they doing...?
 
-**Horropedia:**... I'm guessing it's a "ghost imitation" prank.
+**Horropedia:** ... I'm guessing it's a "ghost imitation" prank.
 
-**Horropedia:**I know what Fawn is doing, but I don't understand what Vertin is doing. It seems like she's doing an interpretation of something, like...
+**Horropedia:** I know what Fawn is doing, but I don't understand what Vertin is doing. It seems like she's doing an interpretation of something, like...
 
 **Tooth Fairy:** It's like Little Pickles with Doggie.
 
@@ -349,7 +345,7 @@ Fawn stomps her feet impatiently on the other side.
 
 Taking a few deep breaths and putting her hands to her neck, Blonney shudders and falls to the ground.
 
-**Blonney:**AHHH--!
+**Blonney:** AHHH--!
 
 **Blonney:** Help me! It's--it's the King of the Living Dead!
 

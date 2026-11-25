@@ -38,14 +38,6 @@ For there you have been,
 
 And there you would return.
 
-And once you have tasted flight,
-
-You will walk the earth with your eyes turned skyward,
-
-For there you have been,
-
-And there you would return.
-
 Coast, Lisbon, 1835
 
 The air smells of lemon and bay leaves.
@@ -907,8 +899,6 @@ Her confidence fades.
 **Jimena:** Besides, this is my father's legacy, MY FATHER'S, not yours. You're only here because of him. This is my decision to make, it's my dream—our dream ...
 
 The words taste like a lie.
-
-She's scared.
 
 She's scared.
 
@@ -2509,8 +2499,6 @@ Their awards tell the story as well as she could, small incremental gains, itera
 
 It was an uplifting invitation.
 
-It was an uplifting invitation.
-
 **Joanna:** After two years, we're finally seeing the sparks take flame. Though it isn't much now. Just something for them to play around with.
 
 **Lucy:** You mean, you have actually made something of my designs?
@@ -2518,8 +2506,6 @@ It was an uplifting invitation.
 **Lucy:** How did you overcome the issues with fuel capacity?
 
 **Lucy:** Were you able to find a rigid material capable of withstanding the drag force? One that is still flexible enough to allow the pilot to pivot in the air?
-
-How long had she kept that ember? How many before them had thrown it away? But now, it seems that it is burning once more.
 
 How long had she kept that ember? How many before them had thrown it away? But now, it seems that it is burning once more.
 

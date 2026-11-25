@@ -223,9 +223,9 @@ Hearing the secret she'd only ever told her mother spoken back to her shatters w
 ## 3791002 · Comes a Gentle Wind
 
 <!-- reader-body:start -->
-**Aderyn:**HereIhumblystandatthecleftoftheearth,beseechingAnnwn'smercy.
+**Aderyn:** Here I humbly stand at the cleft of the earth, beseeching Annwn's mercy.
 
-**Aderyn:**Ioffermyfleshaspledge:grantmesightofthisworldandtheworldsbeyond!
+**Aderyn:** I offer my flesh as pledge: grant me sight of this world and the worlds beyond!
 
 Her eyes meet another's in the darkness, flashing with a golden hue.
 
@@ -747,7 +747,7 @@ She knows it's no use. A full-grown Adar Llwch Gwin can fly faster than even the
 
 **Aderyn:** \*whimper\*
 
-**Aderyn:**Ioffermyfleshaspledge:grantmesightofthisworldandtheworldsbeyond!
+**Aderyn:** I offer my flesh as pledge: grant me sight of this world and the worlds beyond!
 
 **Glyndŵr:** ...?!
 
@@ -1023,7 +1023,7 @@ As a daughter, she ought to defend her mother. But she knows Mrs. Owen is right.
 
 Trouble always comes without warning.
 
-**Aderyn:**ŜvebiStay!
+**Aderyn:** Ŝvebi Stay!
 
 The leaf-covered ground gives way, sending her plummeting into a pit. Only a quick burst of arcane energy keeps her from hitting the bottom.
 
@@ -1241,7 +1241,7 @@ Aderyn doesn't hesitate. A second Drako Drought is already charging in her wand.
 
 The poacher's hand flies to the weapon at his hip.
 
-**Aderyn:**DrakoDrought!
+**Aderyn:** Drako Drought!
 
 \*bang\*
 
@@ -1289,7 +1289,7 @@ Her fingers sink deep into the blackened earth in search of a pulse—of the las
 
 The arcane energy thins to the faintest threads, weaving through the scarred dirt and remnant ash to find a way up.
 
-**Aderyn:**Water,returntothisearthitsstolenpeace.
+**Aderyn:** Water, return to this earth its stolen peace.
 
 A low rumble rises from below.
 
@@ -1439,7 +1439,7 @@ The bond from that night—the one sealed by the order to leave her behind.
 
 **Aderyn:** \*whimper\*
 
-**Aderyn:**\*crying\*
+**Aderyn:** \*crying\*
 
 Tears cascade down her cheeks.
 

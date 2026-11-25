@@ -8,6 +8,8 @@
 
 [2026년 11월 23일 업데이트](../../../structured/story_reader_completion_20261123/README.md)
 
+[2026년 11월 25일 본문 수정](../../../structured/story_reader_proofreading_20261125/README.md)
+
 ## 메인 스토리 (16)
 
 - [301 · 다가온 미래](mainline/301-%EB%8B%A4%EA%B0%80%EC%98%A8%20%EB%AF%B8%EB%9E%98.md) — 6 · 0

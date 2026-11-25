@@ -57,7 +57,7 @@ But 37 seemed to be the more confused.
 
 **37:** Or do you want to test your passion and coordination? 5 would be better for that!
 
-**Sophia:** No, I’m not trying to test any number ...It's a game ...
+**Sophia:** No, I’m not trying to test any number ... It's a game ...
 
 The red-haired girl felt caught in the awkwardness of the moment.
 
@@ -65,7 +65,7 @@ She hadn’t been on the island for very long, and the seriousness with which th
 
 Thankfully, she had a companion who was well-versed in these matters.
 
-**37:** A game ...Oh, a game!
+**37:** A game ... Oh, a game!
 
 **37:** Like kottabos, where you fling wine dregs from two-handled cups at dinner parties?
 
@@ -109,7 +109,7 @@ The young girl's tone grew much more distant, even cynical, surprising Sophia.
 
 **Sophia:** No, I think ... well, it's not entirely like that ...
 
-**Sophia:** Sorry, 37 ...I'm new here, and there's a lot I don't understand. If I'm wrong—
+**Sophia:** Sorry, 37 ... I'm new here, and there's a lot I don't understand. If I'm wrong—
 
 The blue-haired girl was resting her chin in her hands,she had already drifted away in thought.
 
@@ -147,11 +147,11 @@ Sophia realized she was saying too much. It wasn’t the right context, nor did 
 
 Thankfully, prime numbers like 37 are nimble-minded—at least that is what she would say.
 
-**37:** I don't know how to explain it with words ...But I have the perfect example!
+**37:** I don't know how to explain it with words ... But I have the perfect example!
 
 **37:** It was Euclid who once proved that there are an infinite number of prime numbers.
 
-**Sophia:** Prime numbers ...Like how 37 is a prime number?
+**Sophia:** Prime numbers ... Like how 37 is a prime number?
 
 **37:** Yes, 13 is prime, 23 is prime, 37 is prime, and 337 is also prime! Their factors are only 1 and themselves. They cannot be divided by any other natural number.
 
@@ -167,7 +167,7 @@ Thankfully, prime numbers like 37 are nimble-minded—at least that is what she 
 
 **37:** △ represents the multiplication of all prime numbers in the queue, plus 1.
 
-**37:** Clearly, it cannot be divided by any of the listed prime numbers. The numbers 2, 3, 5 ...or any number represented by ○ will result in a remainder of 1.
+**37:** Clearly, it cannot be divided by any of the listed prime numbers. The numbers 2, 3, 5 ... or any number represented by ○ will result in a remainder of 1.
 
 **37:** If △ is not a prime number, it should be divisible by a prime number larger than ○.
 
@@ -179,7 +179,7 @@ Thankfully, prime numbers like 37 are nimble-minded—at least that is what she 
 
 37 finished writing, clapped her hands, shook off the sand, and stood up beaming.
 
-**Sophia:** I ...heard about this theorem at school. But I still don't understand what it means, really ...
+**Sophia:** I ... heard about this theorem at school. But I still don't understand what it means, really ...
 
 She couldn't grasp the transcendental meaning behind such specific mathematical theorems.
 
@@ -205,9 +205,9 @@ To her, they were strict, correct, but nothing more than chalk particles on a bl
 
 **37:** But I'm one of a set of infinite prime numbers. There will always be more, newer numbers; so I'm not truly special.
 
-**37:** But even if I am just 37 ...37 grains of sand on the beach ...I'm still encompassed within this infinite queue.
+**37:** But even if I am just 37 ... 37 grains of sand on the beach ... I'm still encompassed within this infinite queue.
 
-**37:** —And there are an infinite number of such sequences! Sequences of integers, sequences of fractions, sequences of irrational numbers ...Each and every one infinite!
+**37:** —And there are an infinite number of such sequences! Sequences of integers, sequences of fractions, sequences of irrational numbers ... Each and every one infinite!
 
 37 turned around, and now her eyes sparkled with the grains of sand in the sunlight.
 
@@ -227,7 +227,7 @@ Under the bright sunlight, the grains of sand of the beach gleamed like gold. As
 
 **Sophia:** But in that moment, I caught a fleeting glimpse of the beautiful brilliance of "eternity" in her eyes.
 
-**Sophia:** It was enchanting ...inspiring and admirable.
+**Sophia:** It was enchanting ... inspiring and admirable.
 
 **Sophia:** It became the seed that led me to embrace the school.
 
@@ -267,7 +267,7 @@ Under the bright sunlight, the grains of sand of the beach gleamed like gold. As
 
 **Sophia:** Not exactly, I’m just heading to the lab to check on 37's progress.
 
-**Believer II:** 37 ...It's been a while since she's made an appearance on the beach.
+**Believer II:** 37 ... It's been a while since she's made an appearance on the beach.
 
 **Believer I:** Perhaps she's still digging into those remaining records? No one else can handle them ...
 
@@ -295,7 +295,7 @@ Anyone would have been exhausted by such a sight.
 
 And amidst the panoply the lab director herself lay sprawled across a table, lost in her own head.
 
-**Sophia:** Umm ... 37 ...Have you considered tidying up this room?
+**Sophia:** Umm ... 37 ... Have you considered tidying up this room?
 
 She moved nimbly, stepping over scattered books, as she approached the long table.
 
@@ -311,7 +311,7 @@ After a few more pages, the content started relating to things on the island, in
 
 Finally, her fingers halted on a page with grids and a few math problems written on it.
 
-**37:** Oh ...Sophia? You're here!
+**37:** Oh ... Sophia? You're here!
 
 37 rubbed her eyes and quickly shifted her attention to the notebook Sophia was holding.
 
@@ -321,7 +321,7 @@ Finally, her fingers halted on a page with grids and a few math problems written
 
 37 straightened up, carefully inspecting the page Sophia was reading.
 
-**Sophia:** I remember this page ...I was so young then, standing on my tiptoes to reach my father's desk.
+**Sophia:** I remember this page ... I was so young then, standing on my tiptoes to reach my father's desk.
 
 **Sophia:** I told him how my friend seemed uninterested in games, and that I was struggling with math ...
 
@@ -333,7 +333,7 @@ She closed the notebook and turned to 37.
 
 **Sophia:** These are riddles for kids, far too simple for you.
 
-**Sophia:** Don't waste time on them ...Everyone's waiting for the next phase of your research.
+**Sophia:** Don't waste time on them ... Everyone's waiting for the next phase of your research.
 
 **Sophia:** I'll take this notebook with me.
 
@@ -389,7 +389,7 @@ Her fingers skimmed the pages, capturing fleeting sparks of inspiration as she s
 <!-- reader-body:start -->
 Strolling along the familiar path on the beach, everything looked as it did before.
 
-The sand was sand, rocks ...only rocks.
+The sand was sand, rocks ... only rocks.
 
 Earthly elements, far divorced from anything transcendental.
 
@@ -423,7 +423,7 @@ But as if to challenge her claim, a yawn escaped her.
 
 **Child Believer II:** Perhaps we should we start calling 37 the Star of Hermes, like 210 does?
 
-**Child Believer II:** I mean, it sounds like an honor doesn't it ...Anyway, good afternoon, 37!
+**Child Believer II:** I mean, it sounds like an honor doesn't it ... Anyway, good afternoon, 37!
 
 They passed a group of children who overtook them with curiosity and warm greetings.
 
@@ -433,7 +433,7 @@ Everyone had known of 37's curious methods for her research and so few were surp
 
 **Sophia:** Better move a bit further, or the waves will mess up your lines.
 
-**37:** Waves ...Each drop in the waves moves in a circular motion. When the crest of a wave exceed 120 degrees, they crash with a "whoosh."
+**37:** Waves ... Each drop in the waves moves in a circular motion. When the crest of a wave exceed 120 degrees, they crash with a "whoosh."
 
 **37:** But the answer sequence seems unrelated with these waves. What could it be then?
 
@@ -513,7 +513,7 @@ Finally, he resumed his interrupted walk, narrowly escaping 37's notice as she r
 
 **37:** He used to say the most interesting things, but now he's become naught but a walking scroll!
 
-**Sophia:** 6 has become the leader of the school, and our leaders need to be even-handed, objective, forthright ...flawless.
+**Sophia:** 6 has become the leader of the school, and our leaders need to be even-handed, objective, forthright ... flawless.
 
 **Sophia:** 6 has so many obligations. We all have our own tasks that need doing.
 
@@ -653,7 +653,7 @@ As soon as Sophia asked this, the woman recording the answers turned and gave he
 
 **Sophia:** I doubt his notebook could contain any of the transcendental meanings 37 is seeking.
 
-**Believer II:** Hmm ...Honestly, at first glance, you can easily see the results.
+**Believer II:** Hmm ... Honestly, at first glance, you can easily see the results.
 
 **Believer II:** The answers to each question form a ten-digit number, 6333434533.
 
@@ -733,7 +733,7 @@ But the most important answer had already been swept away by the waves, lost in 
 
 **Sophia:** ...
 
-**Sophia:** ... Sorry, 37 ...I don't know that I can answer you right now.
+**Sophia:** ... Sorry, 37 ... I don't know that I can answer you right now.
 
 **Sophia:** It's such a profound question, and I don't have an easy answer ...
 
@@ -757,7 +757,7 @@ But it wasn't so easy to turn and leave; 37 held Sophia's hand firmly.
 
 It was always so impossible to let go of that hand.
 
-**Sophia:** Alright ...But remember, you promised to finish before dinner.
+**Sophia:** Alright ... But remember, you promised to finish before dinner.
 
 **37:** Of course! Anyway, 6 is still walking around the island. We have time before he reaches four digits!
 
@@ -793,7 +793,7 @@ It was always so impossible to let go of that hand.
 
 **Sophia:** But in the here and now, they don't feel very practical, nor enlightening.
 
-**37:** Oh ...I see.
+**37:** Oh ... I see.
 
 **37:** No luck, it seems. What could we be missing?
 
@@ -835,7 +835,7 @@ Sophia sighed, once again realizing she was indulging 37.
 
 **37:** I feel it, if only vaguely. When Hugh jotted down these numbers, they contained a strong emotion ...
 
-**Sophia:** ...So, you're going with your intuition?
+**Sophia:** ... So, you're going with your intuition?
 
 **Sophia:** Intuition ...
 
@@ -857,7 +857,7 @@ What did having such an ability really mean?
 
 **Sophia:** ...
 
-**Sophia:** Ho ...Hold on, I'm coming!
+**Sophia:** Ho ... Hold on, I'm coming!
 
 And remember, not every question needs an answer.
 
@@ -905,19 +905,19 @@ Fortunately, the author was still identifiable.
 
 The towering Theorist just spread his hands out in an over-proud twist without confirming.
 
-**210:** Certainly it was no easy feat given our island's isolation, to get this published ...But where there is a will there is a way.
+**210:** Certainly it was no easy feat given our island's isolation, to get this published ... But where there is a will there is a way.
 
 **210:** Submitting these mathematical essays to outside publications is just the beginning of my many accomplishments to come.
 
 **Believer I:** I think he's over-blowing the difficulty of reaching out.
 
-**Sophia:** And is this really a mathematical treatise ...seems like a lot of words.
+**Sophia:** And is this really a mathematical treatise ... seems like a lot of words.
 
 Sophia flipped through the magazine quickly, it was nothing more than a common railway journal.
 
 210's essay was listed in the "Excerpts and Anecdotes" column.
 
-**Sophia:** To publish a paper on truth in a magazine like this ...Huh ...The editor's comment is, "Although the content is obscure, the wording is elegant and worth citing."
+**Sophia:** To publish a paper on truth in a magazine like this ... Huh ... The editor's comment is, "Although the content is obscure, the wording is elegant and worth citing."
 
 **Sophia:** That's impressive, nonetheless.
 
@@ -1087,7 +1087,7 @@ Together, the lines formed clumsy squares.
 
 **37:** That sounds fun!
 
-**37:** But I can't understand the meaning of the lines ...They don't form a pattern I can recognize.
+**37:** But I can't understand the meaning of the lines ... They don't form a pattern I can recognize.
 
 **37:** Maybe I need more time to understand their meaning.
 
@@ -1391,7 +1391,7 @@ At first stumbling and hoarse, soon the song became fluent, resonating across th
 
 **37:** I knew numbers could be music, but why didn't I think of it earlier—I was so close!
 
-**37:** A musical score ...but I've never heard of this notation method!
+**37:** A musical score ... but I've never heard of this notation method!
 
 37 didn't stay low for long; she quickly perked up, genuinely praising her companion's revelation.
 
@@ -1431,7 +1431,7 @@ This was a rare moment—37 was at a loss for words.
 
 Bewildered, she looked at Sophia with a furrowed brow, hoping to hear a judgment strong enough to defeat 210.
 
-**Sophia:** I agree ...210 has won.
+**Sophia:** I agree ... 210 has won.
 
 **37:** ... ?!
 
@@ -1443,7 +1443,7 @@ This time, 37 didn't perk up again.
 
 Instead she hung her head and kicked at some sand, before burying her head in her robe like a seabird.
 
-**Sophia:** It’s true ...This notebook doesn't contain the wondrous wisdom of the scriptures.
+**Sophia:** It’s true ... This notebook doesn't contain the wondrous wisdom of the scriptures.
 
 **Sophia:** The string of numbers could only be solved by me, because others didn’t know Hugh.
 
@@ -1573,13 +1573,13 @@ She averted her eyes—that was rare.
 
 **37:** Sophia, what's so funny!?
 
-**Sophia:** Sorry ...I just never thought I'd see you care about something he said.
+**Sophia:** Sorry ... I just never thought I'd see you care about something he said.
 
 **Sophia:** You're right, you really have changed a lot after all.
 
 **37:** Of course! Didn't I tell you that?
 
-**37:** It's not just my height ...I've even changed where I sit at the table.
+**37:** It's not just my height ... I've even changed where I sit at the table.
 
 **37:** As the distance between me and the table changes, so does the best angle for catching the sun.
 
@@ -1621,7 +1621,7 @@ And we, living amidst it, could only remember fleeting moments.
 
 The confusion vanished from 37's face, and she returned all at once to her usual cheerful self.
 
-**37:** This song isn't just for Hugh and Sophia anymore because you shared it with us ...right?
+**37:** This song isn't just for Hugh and Sophia anymore because you shared it with us ... right?
 
 **37:** So it's universal and belongs to everyone who hears it! Just like the proof I shared with you!
 
@@ -1709,7 +1709,7 @@ Now was the time, relaxed and pleasant enough, for her to ask what she had left 
 
 **37:** If it's not, what else could it be?
 
-**37:** 210, 37, 6 ...Even if we're gone, these numbers won't disappear.
+**37:** 210, 37, 6 ... Even if we're gone, these numbers won't disappear.
 
 **37:** Just like you don't need three seagulls, three stones, or three people to prove the number three exists.
 

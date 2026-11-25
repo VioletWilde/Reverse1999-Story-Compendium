@@ -630,53 +630,53 @@ Now is the time to ask the question that's been lingering in her mind.
 
 Yet Another War
 
-???:Ah, a visitor. How unexpected. There is nothing here now—only the ashes of war. What is it you want from a place like this?
+???: Ah, a visitor. How unexpected. There is nothing here now—only the ashes of war. What is it you want from a place like this?
 
-???:Run along now. Back to your schoolbooks ... or a swing in a playground, perhaps. This is no place for a girl like you.
+???: Run along now. Back to your schoolbooks ... or a swing in a playground, perhaps. This is no place for a girl like you.
 
 > **Choice 1：** I don't know you.
 
-???:Naturally. I am no celebrity.
+???: Naturally. I am no celebrity.
 
-???:I'd prefer to keep it that way.
+???: I'd prefer to keep it that way.
 
-???:Fame is of no interest to me. Just an opportunity for greater harassment.
+???: Fame is of no interest to me. Just an opportunity for greater harassment.
 
 > **Choice 2：** This scenery is bleak.
 
-???:Then you and I are in agreement.
+???: Then you and I are in agreement.
 
-???:The stench of rust and burnt flesh is quite unbearable.
+???: The stench of rust and burnt flesh is quite unbearable.
 
-???:Even the maggots squirming over the soldiers' corpses have summoned all their strength just to crawl away.
+???: Even the maggots squirming over the soldiers' corpses have summoned all their strength just to crawl away.
 
-???:But the entire world is in ruins now. I have nowhere else to go.
+???: But the entire world is in ruins now. I have nowhere else to go.
 
-???:And it seems you're stuck here with me. You poor sap.
+???: And it seems you're stuck here with me. You poor sap.
 
-???:You trekked to the end of the world, fought a pointless war, and for what? A broken spinning wheel?
+???: You trekked to the end of the world, fought a pointless war, and for what? A broken spinning wheel?
 
-???:Even that, they took away from you—along with the girl clinging to life by a thread—before sending you off to the next battleground.
+???: Even that, they took away from you—along with the girl clinging to life by a thread—before sending you off to the next battleground.
 
-???:I hope that rusty old thing holds SOME kind of secret—to saving the world, or ending this war.
+???: I hope that rusty old thing holds SOME kind of secret—to saving the world, or ending this war.
 
-???:Maybe then, you can take on another career before you die. A watchmaker, perhaps.
+???: Maybe then, you can take on another career before you die. A watchmaker, perhaps.
 
 > **Choice 1：** The war will end one day.
 
-???:I've nothing more to say. Would you kindly leave me alone for a while?
+???: I've nothing more to say. Would you kindly leave me alone for a while?
 
-???:I have no tea or snacks to offer. I can't even recall what they taste like.
+???: I have no tea or snacks to offer. I can't even recall what they taste like.
 
-???:Go on. Savor the war. There'll be another after this. No need to worry about things going exactly as you'd like.
+???: Go on. Savor the war. There'll be another after this. No need to worry about things going exactly as you'd like.
 
 > **Choice 2：** I have reasons to continue the fight.
 
-???:I've nothing more to say. Would you kindly leave me alone for a while?
+???: I've nothing more to say. Would you kindly leave me alone for a while?
 
-???:I have no tea or snacks to offer. I can't even recall what they taste like.
+???: I have no tea or snacks to offer. I can't even recall what they taste like.
 
-???:Go on. Savor the war. There'll be another after this. No need to worry about things going exactly as you'd like.
+???: Go on. Savor the war. There'll be another after this. No need to worry about things going exactly as you'd like.
 
 
 ---
@@ -1767,7 +1767,7 @@ Chaos drowns out all else.
 
 "XII" Squad Roster (Copy)
 
-Paravyan​​ - "Beagle" Age: 19 Race: Human Background: Graduated from Zeno Arms Academy, served as a Vigil Officer within the Vigiles Bureau under the direct command of Creius, and contributed to the resolution of multiple critical cases. Later transferred to "XII" Squad. The most devoted member of Creius's circle. He combines passion and bravery with a concerning level of idealism. This squad's morale would undoubtedly suffer if that loyalty were betrayed. Yermolai​​ - "Hound" Age: 37 Race: Human Background: Civilian, previously brought into Vigiles Bureau via Creius's personal recommendation, served as a Vigil Officer and participated in several classified operations. Later transferred to "XII" Squad. He has an extensive criminal background. It's no surprise that Creius keeps him on a tight leash. I wouldn't want to be the one who decided on his callsign. Merel - "Blackbird" Age: 16 Race: Arcanist Background: A "Storm" orphan taken in by the Foundation, educated at SPDM, and upon graduation, invited by Creius to intern at Vigiles Bureau. Later transferred to "XII" Squad. SPDM? He's never had much patience for rule-followers. Seems even Creius knows "XII" needs arcane talents. Though judging by her grades ... his standards aren't exactly demanding.P.S. Leave a few recruitment slots open for "XII."
+Paravyan​​ - "Beagle" Age: 19 Race: Human Background: Graduated from Zeno Arms Academy, served as a Vigil Officer within the Vigiles Bureau under the direct command of Creius, and contributed to the resolution of multiple critical cases. Later transferred to "XII" Squad. The most devoted member of Creius's circle. He combines passion and bravery with a concerning level of idealism. This squad's morale would undoubtedly suffer if that loyalty were betrayed. Yermolai​​ - "Hound" Age: 37 Race: Human Background: Civilian, previously brought into Vigiles Bureau via Creius's personal recommendation, served as a Vigil Officer and participated in several classified operations. Later transferred to "XII" Squad. He has an extensive criminal background. It's no surprise that Creius keeps him on a tight leash. I wouldn't want to be the one who decided on his callsign. Merel - "Blackbird" Age: 16 Race: Arcanist Background: A "Storm" orphan taken in by the Foundation, educated at SPDM, and upon graduation, invited by Creius to intern at Vigiles Bureau. Later transferred to "XII" Squad. SPDM? He's never had much patience for rule-followers. Seems even Creius knows "XII" needs arcane talents. Though judging by her grades ... his standards aren't exactly demanding. P.S. Leave a few recruitment slots open for "XII."
 
 - Description：Before assigning crucial tasks to your subordinates, it is essential to do thorough background checks.
 - Action：Make a copy
@@ -3714,41 +3714,41 @@ All others stand stunned and silent as Charon departs with Major Braun in tow.
 
 A Mother's Rage
 
-???:Look at these boys. They left home with puffed chests and confident smiles on their faces—
+???: Look at these boys. They left home with puffed chests and confident smiles on their faces—
 
-???:Thinking they'd go to the front, pull a few triggers, kill a few enemies, and come back as heroes.
+???: Thinking they'd go to the front, pull a few triggers, kill a few enemies, and come back as heroes.
 
-???:But when their feet hit the soil, they turned "pacifist," it seems, wounding their own hands rather than their enemies'.
+???: But when their feet hit the soil, they turned "pacifist," it seems, wounding their own hands rather than their enemies'.
 
-???:Their mothers should have begged them to stay, not waved their handkerchiefs to see them off.
+???: Their mothers should have begged them to stay, not waved their handkerchiefs to see them off.
 
 > **Choice 1：** They made a misjudgment.
 
-???:Ha, "misjudgment"—quite the convenient excuse.
+???: Ha, "misjudgment"—quite the convenient excuse.
 
-???:Soldiers follow orders, officers give them, higher-ups make them, parents send their children off to die ...
+???: Soldiers follow orders, officers give them, higher-ups make them, parents send their children off to die ...
 
-???:And not one of them will bear the weight of their "misjudgments." Only the dead must answer.
+???: And not one of them will bear the weight of their "misjudgments." Only the dead must answer.
 
 > **Choice 2：** They had no choice.
 
-???:Really? You think death is the only option?
+???: Really? You think death is the only option?
 
-???:What could possibly be the point in that?
+???: What could possibly be the point in that?
 
-???:Don't tell me you believe there's GLORY in dying on the battlefield? The thought makes me sick.
+???: Don't tell me you believe there's GLORY in dying on the battlefield? The thought makes me sick.
 
-???:Look there—at the lifeless body lying flat in the mud.
+???: Look there—at the lifeless body lying flat in the mud.
 
-???:He couldn't even muster the courage to flee, so he bribed a fellow soldier—a man he barely knew—with three cigarettes to surrender with him.
+???: He couldn't even muster the courage to flee, so he bribed a fellow soldier—a man he barely knew—with three cigarettes to surrender with him.
 
-???:He died—killed in a moment of pure, senseless hatred. And the other lived—saved by a flicker of mercy.
+???: He died—killed in a moment of pure, senseless hatred. And the other lived—saved by a flicker of mercy.
 
-???:Where should his mother aim her grief? At the officer who changed his mind just a moment too late? Hah!
+???: Where should his mother aim her grief? At the officer who changed his mind just a moment too late? Hah!
 
-???:The officer will be pardoned; they'll say he, too, was a victim of this endless, miserable cycle of hatred.
+???: The officer will be pardoned; they'll say he, too, was a victim of this endless, miserable cycle of hatred.
 
-???:So tell me—please, tell me—to whom this rage should go, and I will take this kitchen knife and plunge it into their heart!
+???: So tell me—please, tell me—to whom this rage should go, and I will take this kitchen knife and plunge it into their heart!
 
 
 ---
@@ -4664,33 +4664,33 @@ There's a sudden ear-splitting pop, followed by a thundering explosion as rocks 
 
 The Last Turnip Stew
 
-???:I'm afraid I only have turnip stew to serve you. I will add a few sausage scraps to your bowl, however.
+???: I'm afraid I only have turnip stew to serve you. I will add a few sausage scraps to your bowl, however.
 
-???:Here. Now go. It's best you leave before another battle breaks out.
+???: Here. Now go. It's best you leave before another battle breaks out.
 
 > **Choice 1：** Already?
 
-???:Is there something else you want from me?
+???: Is there something else you want from me?
 
-???:You know what? Since you're so fond of visiting ... take the chair you're sitting on.
+???: You know what? Since you're so fond of visiting ... take the chair you're sitting on.
 
-???:Even through the coldest winters, that chair was spared the fire. Perhaps it was meant for you.
+???: Even through the coldest winters, that chair was spared the fire. Perhaps it was meant for you.
 
 > **Choice 2：** It tastes a little bland.
 
-???:Ah, yes—a tragedy to serve such a dish to such an honorable guest, but I'm afraid I have no tears left to shed to season the thing.
+???: Ah, yes—a tragedy to serve such a dish to such an honorable guest, but I'm afraid I have no tears left to shed to season the thing.
 
-???:If this farce had ended sooner, perhaps I'd have treated you to a feast—
+???: If this farce had ended sooner, perhaps I'd have treated you to a feast—
 
-???:Bacon, beef stew, pretzels, mashed potatoes, sauerkraut, and a tankard of beer, of course.
+???: Bacon, beef stew, pretzels, mashed potatoes, sauerkraut, and a tankard of beer, of course.
 
-???:But the big men in the army disagreed. They valued shiny medals on their chests over food on their people's tables.
+???: But the big men in the army disagreed. They valued shiny medals on their chests over food on their people's tables.
 
-???:Right. Since you insist on staying, I will go to the market and see what I can find.
+???: Right. Since you insist on staying, I will go to the market and see what I can find.
 
-???:Sit here for a while longer, if you like. Prepare for a lifelong stay, even.
+???: Sit here for a while longer, if you like. Prepare for a lifelong stay, even.
 
-???:With any luck, this place will become your grave by the time the next farce ends.
+???: With any luck, this place will become your grave by the time the next farce ends.
 
 
 ---
@@ -4865,15 +4865,11 @@ Another bullet strikes her shoulder and glances off in another spray of stone.
 
 What hast thou done? The voice of thy brother's blood crieth unto me from the ground.
 
-What hast thou done? The voice of thy brother's blood crieth unto me from the ground.
-
 **Sentinel:** You who discord between nations and plot schemes for the undoing of man. Who then is your master?
 
 She steps closer.
 
 **Sentinel:** For if you do the devil's work, are you not a devil like me? I pity you. Repent and you may yet find mercy in the judgment of the Lord.
-
-And now art thou cursed from the earth,
 
 And now art thou cursed from the earth,
 
@@ -4885,13 +4881,9 @@ And now art thou cursed from the earth,
 
 Which hath opened her mouth to receive thy brother's blood from thy hand.
 
-Which hath opened her mouth to receive thy brother's blood from thy hand.
-
 **Sentinel:** Repent, and you may yet be saved. Speak.
 
 **Sterling:** What are you talking about? What do you want from me?
-
-When thou tillest the ground, it shall not henceforth yield unto thee her strength.
 
 When thou tillest the ground, it shall not henceforth yield unto thee her strength.
 
@@ -4912,8 +4904,6 @@ The prayer follows a pattern she knows by heart, yet the name he speaks is stran
 **Sterling:** Please have mercy on your humble servant. I pray for a miracle—a ladder into your eternal kingdom.
 
 **Sterling:** I hereby offer my life to you. Please save me from desperation and take me to the golden era.
-
-A fugitive and a vagabond shalt thou be in the earth.
 
 A fugitive and a vagabond shalt thou be in the earth.
 
@@ -7186,8 +7176,6 @@ Paul stands and opens his notebook.
 **Paul:** "With best regards. A dead man."
 
 This concludes the records of the soldier Paul Haumann.
-
-This concludes the records of the soldier Paul Haumann.
 <!-- reader-body:end -->
 
 <details>
@@ -7357,7 +7345,7 @@ This concludes the records of the soldier Paul Haumann.
 
 Class 3 Students
 
-**Dieterich Becker** ​died from shelling on 1916/4/27. **Baethke Zimmermann** ​died from shelling on 1916/4/27. **Simon Miller** was reported missing on 1916/6/11, then was confirmed dead. Miller's tag has been found.**Friedrich Bauer**​ died from machine-gun fire on 1916/8/12. ... **Finn Wagner** died from infection on 1916/11/7. **Elvin Neumann** died of trench fever on 1916/11/8. **Felix Zimmermann** ​died from shelling on 1916/12/8. **Julian Kruger** ​died from infection after being shot on 1916/12/13. **Ben Becker** died on 1916/12/14. Cause unclear. ... **Walter Schmidt** died from shelling on 1918/1/12. **Paul Haumann** died on 1918/3/11. ... **Eberhard Braun** died on 1920/11/10.
+**Dieterich Becker** ​died from shelling on 1916/4/27. **Baethke Zimmermann** ​died from shelling on 1916/4/27. **Simon Miller** was reported missing on 1916/6/11, then was confirmed dead. Miller's tag has been found. **Friedrich Bauer**​ died from machine-gun fire on 1916/8/12. ... **Finn Wagner** died from infection on 1916/11/7. **Elvin Neumann** died of trench fever on 1916/11/8. **Felix Zimmermann** ​died from shelling on 1916/12/8. **Julian Kruger** ​died from infection after being shot on 1916/12/13. **Ben Becker** died on 1916/12/14. Cause unclear. ... **Walter Schmidt** died from shelling on 1918/1/12. **Paul Haumann** died on 1918/3/11. ... **Eberhard Braun** died on 1920/11/10.
 
 - Description：What once represented new beginnings now only heralds an end.
 - Action：Listen to the past
@@ -8321,33 +8309,33 @@ He says nothing about Merel's radio silence, as if he had anticipated it all alo
 
 Dog Whistle
 
-???:The lapdogs are barking again.
+???: The lapdogs are barking again.
 
-???:Their masters remain quiet ... for the most part. And you know why.
+???: Their masters remain quiet ... for the most part. And you know why.
 
-???:But silence gives no orders.
+???: But silence gives no orders.
 
-???:So the masters whistle. Just a pitch. No words.
+???: So the masters whistle. Just a pitch. No words.
 
-???:And so, no words are heard—only the baying of dogs.
+???: And so, no words are heard—only the baying of dogs.
 
 > **Choice 1：** What do you mean, "I know why"?
 
-???:Perhaps you've forgotten the words echoed in that cave ... darling. Never mind.
+???: Perhaps you've forgotten the words echoed in that cave ... darling. Never mind.
 
-???:Forgetfulness can be a mercy. Especially in this dog fight.
+???: Forgetfulness can be a mercy. Especially in this dog fight.
 
-???:If only these hounds would forget their training ... then perhaps, at last, the barking would stop.
+???: If only these hounds would forget their training ... then perhaps, at last, the barking would stop.
 
 > **Choice 2：** You sound like a soldier I know.
 
-???:How dare you! To think I should speak like some slick-talking veteran!
+???: How dare you! To think I should speak like some slick-talking veteran!
 
-???:I'd slit my throat myself if I so much as uttered a word akin to those devils!
+???: I'd slit my throat myself if I so much as uttered a word akin to those devils!
 
-???:They're bastards—abominations! Every last one of them! I—
+???: They're bastards—abominations! Every last one of them! I—
 
-???:Ahem ... Please accept my apologies. Wounds are hard to heal when they are torn open time and time again.
+???: Ahem ... Please accept my apologies. Wounds are hard to heal when they are torn open time and time again.
 
 
 ---
@@ -11130,31 +11118,31 @@ The message ends in a burst of static.
 
 Time to Go
 
-???:I'm sorry, but I think it's time you left.
+???: I'm sorry, but I think it's time you left.
 
-???:There will be little more to see here.
+???: There will be little more to see here.
 
 > **Choice 1：** But the war isn't over yet.
 
-???:What difference does it make?
+???: What difference does it make?
 
-???:Earthquakes, floods, famine, plague, robbery, car crashes, a slip in the shower ...
+???: Earthquakes, floods, famine, plague, robbery, car crashes, a slip in the shower ...
 
-???:War is just one catastrophe among many.
+???: War is just one catastrophe among many.
 
-???:It's not worth your attention.
+???: It's not worth your attention.
 
-???:At least, this war is not.
+???: At least, this war is not.
 
 > **Choice 2：** See you next time.
 
-???:Next time? Are you so intrigued by the life of a pension-drawn widow?
+???: Next time? Are you so intrigued by the life of a pension-drawn widow?
 
-???:I would decline, but my upbringing demands otherwise. How unfortunate ...
+???: I would decline, but my upbringing demands otherwise. How unfortunate ...
 
-???:Well ... perhaps it's better to drink dirty water beneath the eaves than to eat dust on the battlefield.
+???: Well ... perhaps it's better to drink dirty water beneath the eaves than to eat dust on the battlefield.
 
-???:That is all. Hurry along to the eastern front. Check on your friend. I will pray for her.
+???: That is all. Hurry along to the eastern front. Check on your friend. I will pray for her.
 
 ### Trail · "Free" Intelligence
 

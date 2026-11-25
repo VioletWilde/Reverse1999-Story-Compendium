@@ -572,7 +572,7 @@ From beneath the bar, the round bartender floats up as if peeking.
 
 J looks away and huffs audibly. It's a childish, almost silly, display.
 
-**J:****No, no, no. I'm only gonna say this once, and it's for real: This is our OWN business. Nobody else's, especially not hers.**
+**J:** **No, no, no. I'm only gonna say this once, and it's for real: This is our OWN business. Nobody else's, especially not hers.**
 
 **J:** Paulina made her choice. She could've talked with me, she could have approached us, if that's what she wanted. She had the chance. She's had years, not a word.
 
@@ -719,7 +719,7 @@ Regardless—
 
 Returned to Sender
 
-April 3rd Hey, I heard you just arrived at the old headquarters of the St. Pavlov Foundation I bet you're disappointed by how they put on airs while talking so crass, ha-ha.How have you been? Everything alright? Talk soon, waiting for your good news, kiddo. April 20th Hollick is saving up to open a repair shop; the guy's finally coming to his senses. I still haven't got your reply, Polly. If you threw my letter in the trash or burned it, let the mailman know so I don't have to keep wasting paper. Are they keeping you so busy that you're at your wit's end? The restaurant's always ready to have you back. Take care of yourself, kiddo. …………
+April 3rd Hey, I heard you just arrived at the old headquarters of the St. Pavlov Foundation I bet you're disappointed by how they put on airs while talking so crass, ha-ha. How have you been? Everything alright? Talk soon, waiting for your good news, kiddo. April 20th Hollick is saving up to open a repair shop; the guy's finally coming to his senses. I still haven't got your reply, Polly. If you threw my letter in the trash or burned it, let the mailman know so I don't have to keep wasting paper. Are they keeping you so busy that you're at your wit's end? The restaurant's always ready to have you back. Take care of yourself, kiddo. …………
 
 - Description：A few simple letters, cleared of dust. The underlying concern is evident, but there are also hints of restraint.
 - Action：Pick up and look
@@ -1314,41 +1314,41 @@ END OF DIALOGUE
 
 Small Goals, Big Goals
 
-Ostrich Radio:Good afternoon, San Francisco! Good afternoon, all you wet-behind-the-ears punks out there!
+Ostrich Radio: Good afternoon, San Francisco! Good afternoon, all you wet-behind-the-ears punks out there!
 
-Ostrich Radio:Let's skip the rest of the intro because what comes next is out of this world!
+Ostrich Radio: Let's skip the rest of the intro because what comes next is out of this world!
 
-Ostrich Radio:The Hubble telescope is in good working order, and scientists estimate that it could orbit the Earth for another 40 years.
+Ostrich Radio: The Hubble telescope is in good working order, and scientists estimate that it could orbit the Earth for another 40 years.
 
-Ostrich Radio:In light of the recent Challenger disaster, this is some much needed good news!
+Ostrich Radio: In light of the recent Challenger disaster, this is some much needed good news!
 
-Ostrich Radio:But you might be thinking, what does a busted telescope floating outside the atmosphere have to do with you?
+Ostrich Radio: But you might be thinking, what does a busted telescope floating outside the atmosphere have to do with you?
 
-Ostrich Radio:Well, take a look at that magnificent sun of ours! Doesn't it remind you of a sparkling disco ball?
+Ostrich Radio: Well, take a look at that magnificent sun of ours! Doesn't it remind you of a sparkling disco ball?
 
-Ostrich Radio:Doesn't it make you want to party it up on Mercury, Venus, or any other planet out there? Let your imagination run wild, my listeners!
+Ostrich Radio: Doesn't it make you want to party it up on Mercury, Venus, or any other planet out there? Let your imagination run wild, my listeners!
 
-Sputnik:I do! I do! I want to fly out of the atmosphere and be a disco ball that lights up the Earth!
+Sputnik: I do! I do! I want to fly out of the atmosphere and be a disco ball that lights up the Earth!
 
-Nurse:Please keep quiet when visiting patients!
+Nurse: Please keep quiet when visiting patients!
 
-Sputnik:My apologies …
+Sputnik: My apologies …
 
-Becket:It turns out Madam Sputnik has a big dream—that's good news.
+Becket: It turns out Madam Sputnik has a big dream—that's good news.
 
-Gio:The cost of going to space would make even the filthy rich gasp, give it up already.
+Gio: The cost of going to space would make even the filthy rich gasp, give it up already.
 
-Becket:Can you not be such a killjoy?
+Becket: Can you not be such a killjoy?
 
-Sputnik:Ladies and gentlemen, please don't argue, and no need to worry about my dream. I've actually been saving up.
+Sputnik: Ladies and gentlemen, please don't argue, and no need to worry about my dream. I've actually been saving up.
 
-Sputnik:In about five years, I should have enough! And with any luck, I'll even get an employee discount!
+Sputnik: In about five years, I should have enough! And with any luck, I'll even get an employee discount!
 
-Gio:Saving enough to fly to space? An employee discount?
+Gio: Saving enough to fly to space? An employee discount?
 
-Becket:... Does a disco ball get such great benefits?
+Becket: ... Does a disco ball get such great benefits?
 
-Gio:... Do they really?
+Gio: ... Do they really?
 
 - Description：Our ultimate objective is to break free from the solar system. But for now, let me get a look at your hands!
 - Action：Receiving the Signal
@@ -1359,43 +1359,43 @@ Gio:... Do they really?
 
 The First Companion
 
-J:What's a mannequin doing all the way over here?
+J: What's a mannequin doing all the way over here?
 
-J:Look at you, shouldn't you be in the window of some fancy store?
+J: Look at you, shouldn't you be in the window of some fancy store?
 
-Mannequin:Greetings, sir.
+Mannequin: Greetings, sir.
 
-J:Whoa, you can talk? Wild, didn't see that coming.
+J: Whoa, you can talk? Wild, didn't see that coming.
 
-Mannequin:I suppose so, yes … It is rather unusual. I'm still getting used to it myself.
+Mannequin: I suppose so, yes … It is rather unusual. I'm still getting used to it myself.
 
-Mannequin:Sir, as you may have noticed, my arm is currently stuck in this pile of trash. Could you kindly lend a hand and help relieve my pain?
+Mannequin: Sir, as you may have noticed, my arm is currently stuck in this pile of trash. Could you kindly lend a hand and help relieve my pain?
 
-J:Sure, buddy, but the next time you ask for help, drop the phony politeness.
+J: Sure, buddy, but the next time you ask for help, drop the phony politeness.
 
-J:Is this what you are looking for?
+J: Is this what you are looking for?
 
-Mannequin:Exactly! Sir, the feeling of having all four limbs free is wonderful. How can I repay you?
+Mannequin: Exactly! Sir, the feeling of having all four limbs free is wonderful. How can I repay you?
 
-J:Tell me how a talking, moving mannequin ended up in a trash heap—that's what I'm curious about.
+J: Tell me how a talking, moving mannequin ended up in a trash heap—that's what I'm curious about.
 
-Mannequin:Ahem, kind sir, storytelling is not my forte. This tale, I'm afraid, could take three days to tell, and it may be far less interesting than you think.
+Mannequin: Ahem, kind sir, storytelling is not my forte. This tale, I'm afraid, could take three days to tell, and it may be far less interesting than you think.
 
-J:I'll be the judge of that.
+J: I'll be the judge of that.
 
-Mannequin:In that case, we shall begin with last Christmas ...
+Mannequin: In that case, we shall begin with last Christmas ...
 
-J:You really are gonna talk for three days, aren't you?
+J: You really are gonna talk for three days, aren't you?
 
-J:I have no intention of standing around while you do. Come with me.
+J: I have no intention of standing around while you do. Come with me.
 
-J:I know of a great restaurant where we can chat over a meal and maybe even help you find a new job.
+J: I know of a great restaurant where we can chat over a meal and maybe even help you find a new job.
 
-Mannequin:Thank you, sir. You truly have a kind heart. May I ask what I should call you?
+Mannequin: Thank you, sir. You truly have a kind heart. May I ask what I should call you?
 
-J:Joe, but the folks on this street call me J. And you? What's your name, my mannequin friend?
+J: Joe, but the folks on this street call me J. And you? What's your name, my mannequin friend?
 
-Pioneer:Pioneer, sir. I think people will call me Pioneer from now on.
+Pioneer: Pioneer, sir. I think people will call me Pioneer from now on.
 
 
 ---
@@ -1732,7 +1732,7 @@ His expression changes abruptly, rising up into a bitter scowl.
 
 He grabs Pioneer and runs off without looking back.
 
-**Fiona:** Sir!**SIR!**
+**Fiona:** Sir! **SIR!**
 
 **Fiona:** ...
 
@@ -1916,11 +1916,7 @@ It slithers up the man's arm, toward his face, roiling and coiling like a snake.
 
 Do you see it? A door surrounded by darkness.
 
-Do you see it? A door surrounded by darkness.
-
 **Gio:** Yes. The door is shaking, like something's behind it. No, it's scared.
-
-Don't try to picture it. Take away the shell. Just tell me by the impression: Where does it lead you?
 
 Don't try to picture it. Take away the shell. Just tell me by the impression: Where does it lead you?
 
@@ -2152,7 +2148,7 @@ A heavy mist rises, obscuring the inside of the ball.
 
 **Matilda:** Lift the fog. Reveal what existence lies hidden from us.
 
-**Matilda:**Give us your vision. Sight beyond sight!
+**Matilda:** Give us your vision. Sight beyond sight!
 
 **Matilda:** ...
 
@@ -2231,21 +2227,21 @@ Unnoticed by any present, a faint crack appears at the base of the crystal ball.
 
 Street Gossip
 
-Market Vendor:... I heard that they had a falling out with the clinic doctor, which led to the doctor quitting his job altogether.
+Market Vendor: ... I heard that they had a falling out with the clinic doctor, which led to the doctor quitting his job altogether.
 
-Market Vendor:Otherwise, why would they need so many rare herbs and injections?
+Market Vendor: Otherwise, why would they need so many rare herbs and injections?
 
-Market Vendor:Besides, we hear they're desperately seeking healers and doctors, supposedly because of a mysterious patient in need.
+Market Vendor: Besides, we hear they're desperately seeking healers and doctors, supposedly because of a mysterious patient in need.
 
-Market Diviner:Who'd have the balls to quit in front of Legers's gang? Unless, of course, by "quit" you mean they ended up dead.
+Market Diviner: Who'd have the balls to quit in front of Legers's gang? Unless, of course, by "quit" you mean they ended up dead.
 
-Market Diviner:If you ask me, gathering those people and things you mentioned is just the small part of their elaborate plan ...
+Market Diviner: If you ask me, gathering those people and things you mentioned is just the small part of their elaborate plan ...
 
-Market Diviner:But enough speculation; there are more eyes watching us now.
+Market Diviner: But enough speculation; there are more eyes watching us now.
 
-Market Diviner:In any case, they're generous customers, so whatever they're looking for—
+Market Diviner: In any case, they're generous customers, so whatever they're looking for—
 
-Market Diviner:So as long as they line our pockets with cash, that's all that really matters.
+Market Diviner: So as long as they line our pockets with cash, that's all that really matters.
 
 - Description：They look around, they whisper ... People love to keep secrets, to suspect and gossip.
 - Action：Listen Carefully
@@ -2515,7 +2511,7 @@ The magical critters snarl and bare their teeth from the cage, before bursting o
 
 **Matilda:** Glawackus?! No, they don't have such an acute sense of smell. It must be a kind of mutant they tamed!
 
-**J:**Knight in shining chrome; at your service. Just say the word.
+**J:** Knight in shining chrome; at your service. Just say the word.
 
 **Matilda:** Please keep your distance, sir. It is me they are after! You must keep yourself safe!
 
@@ -2527,7 +2523,7 @@ Her words feel strikingly familiar.
 
 And also familiar hurried steps.
 
-**Matilda:**Fuego Bu—
+**Matilda:** Fuego Bu—
 
 **Matilda:** Huh?!
 
@@ -3291,7 +3287,7 @@ J pulls out the paper from under the coaster, glancing at it from the corner of 
 
 As he removes it, the faint black ink has smeared beyond recognition.
 
-**Cateye Wisen:**I got sharp eyes! I can do lots of stuff! Counting coins, cars, finding water drops ... I'm great at spotting cheats and shady dealers!
+**Cateye Wisen:** I got sharp eyes! I can do lots of stuff! Counting coins, cars, finding water drops ... I'm great at spotting cheats and shady dealers!
 
 **J:** ...
 
@@ -3448,8 +3444,6 @@ And the revolver falls to the ground, still gripped by a severed arm.
 COMBAT:
 
 ***
-
-The Bowie knife is pointed at his throat.
 
 The Bowie knife is pointed at his throat.
 
@@ -5029,7 +5023,7 @@ She retracts her wand and places it back into her pocket.
 
 **Eternity:** Pack your stuff. Let's—
 
-**Matilda:**Micare Might!
+**Matilda:** Micare Might!
 
 A flickering light blocks the way.
 
@@ -5297,7 +5291,7 @@ In the distance, the roaring of another motorcycle covers their voices.
 
 **Hollick:** ?!
 
-**Matilda:**Umbra Umbo!
+**Matilda:** Umbra Umbo!
 
 **J:** Phew. You freaked me out, Frenchie. For a second there, I thought I'd have to rush you to the hospital.
 
@@ -6108,7 +6102,7 @@ Naturally, the driver remains entirely unaware of the incantation she had cast o
 
 **Matilda:** The location of the safety house is classified. I must be very careful.
 
-**Matilda:**Vestigium Vanish!
+**Matilda:** Vestigium Vanish!
 
 **Matilda:** Alright. Now I won't leave any footprints behind.
 

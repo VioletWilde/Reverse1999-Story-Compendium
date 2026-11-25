@@ -66,7 +66,7 @@ Page 3, oh, here it is. Did Kumar put it here for me?
 
 "Then there was neither existence nor non-existence; there was neither the realm of space nor the sky beyond."
 
-**???:**"Then there was neither death nor immortality; there was neither day nor night."
+**???:** "Then there was neither death nor immortality; there was neither day nor night."
 
 **???:** Inside the quasars, there is a violent activity occurring that is close to a supernova.
 
@@ -232,7 +232,7 @@ She rummages through the documents and moves close enough to read the poorly pri
 
 She turns over the poster.
 
-**Matilda:**"People in Mor Pankh hold the Dīpa Festival during the meteor shower period every year to seek the blessings of Vindre."
+**Matilda:** "People in Mor Pankh hold the Dīpa Festival during the meteor shower period every year to seek the blessings of Vindre."
 
 **Matilda:** Oh, so it's based on the meteor shower here! Vindre ... I think I have seen this name in the materials.
 
@@ -1053,19 +1053,19 @@ She turns the pages of the notebook quickly.
 
 **Matilda:** Found it! "Before the Serpent struck in night sky, the stone house of Asura rose to the north of the Head of Vindre."
 
-**Matilda:**"The master of the stone has acted, with countless feet, with countless eyes, to trip, to pry, in bringing the blessed house of men to rest."
+**Matilda:** "The master of the stone has acted, with countless feet, with countless eyes, to trip, to pry, in bringing the blessed house of men to rest."
 
 **Matilda:** Wow, impressive! Perhaps this is the origin of some arcane creature.
 
 **Matilda:** "The Serpent struck," that is to say, the best time to practice on the celestial energy is when the comet goes across the sky?
 
-**Matilda:**"Long darkness reaches the men as the Serpent's tail reveals itself. Some are sent down the great slopes and never return ..."
+**Matilda:** "Long darkness reaches the men as the Serpent's tail reveals itself. Some are sent down the great slopes and never return ..."
 
-**Matilda:**"... for desire is the infallible devourer. "
+**Matilda:** "... for desire is the infallible devourer. "
 
 **Matilda:** Desire, hmm, I should meditate before practice.
 
-**Matilda:**"The circle of everything ends at the tip of the great tail, all ..."
+**Matilda:** "The circle of everything ends at the tip of the great tail, all ..."
 
 THUD!
 
@@ -1183,7 +1183,7 @@ Kaalaa Baunaa: Well done, little diviner.Kaalaa Baunaa: &Matilda: My legs, they 
 
 **Matilda:** Wait. That, that was ...
 
-**Kaalaa Baunaa:**%
+**Kaalaa Baunaa:** %
 
 **Matilda:** \*pants\*
 
@@ -3285,7 +3285,7 @@ Shamane turns around and rubs his hands, feeling a bit uneasy.
 
 ***
 
-COMBAT:…
+COMBAT:      …
 
 ***
 <!-- reader-body:end -->
@@ -3443,7 +3443,7 @@ Matilda opens the door and urges them to get in.
 
 ***
 
-COMBAT:…
+COMBAT:      …
 
 ***
 
@@ -4367,7 +4367,7 @@ An almost gratified look appears on her face.
 
 **Kaalaa Baunaa:** A shattered mirror will never be pieced together again, if there are enough forces to break it. Am I right?
 
-**Kaalaa Baunaa:**"Then there was neither existence nor non-existence; there was neither the realm of space nor the sky beyond."
+**Kaalaa Baunaa:** "Then there was neither existence nor non-existence; there was neither the realm of space nor the sky beyond."
 
 **Kumar:** ...
 
@@ -4595,7 +4595,7 @@ She is his last kin.
 
 And he is going to respect her decision.
 
-**Kumar:**"Then there was neither death nor immortality; there was neither day nor night."
+**Kumar:** "Then there was neither death nor immortality; there was neither day nor night."
 
 **Kumar:** Everyone has a place to go back to. What a nice world to live in.
 

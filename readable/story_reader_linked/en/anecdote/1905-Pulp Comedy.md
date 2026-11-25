@@ -619,7 +619,7 @@ Behind a huge pane of glass, there is a pile of gray boxes, each with its own li
 
 They growl and run, drool glistening from the corners of their mouths. Their narrow eyes glint coldly. Then, all at once, they pounce towards the window!
 
-**Mondlicht:****Get out of the way!**
+**Mondlicht:** **Get out of the way!**
 
 **Passerby:** Ah— Mother—
 
@@ -1217,8 +1217,6 @@ aliEn T's unbridled joy temporarily overwhelms his anxiety about being trapped. 
 **aliEn T:** What's this? A family photo album?
 
 **aliEn T:** Oh, a picture—presumably this is his wife and daughter. It's just like my family!
-
-Several hours earlier ...
 
 Several hours earlier ...
 

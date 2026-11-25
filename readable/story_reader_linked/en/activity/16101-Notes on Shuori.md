@@ -523,8 +523,6 @@ On the other hand, all other concerns soon cease to be of significance—
 
 Two days later
 
-Two days later
-
 **Yenisei:** ...!!!
 
 The girl's eyes widen as she looks blinking at the flowing stream appearing seemingly from thin air not far from them—as though staring at it might restore it all to its original state.
@@ -703,21 +701,21 @@ Flowing water on a temperate plateau like this should naturally be cold. It gent
 
 She closes her eyes, trying to make herself unaware of the temperature.
 
-**Yenisei:**Sacred water, please flow and flow ...
+**Yenisei:** Sacred water, please flow and flow ...
 
-**Yenisei:**May your love and care drift far away with the flowing foam.
+**Yenisei:** May your love and care drift far away with the flowing foam.
 
-**Yenisei:**May you water the roots, moisten the grass, and sweeten the souls.
+**Yenisei:** May you water the roots, moisten the grass, and sweeten the souls.
 
-**Yenisei:**Like lifting a current from a reef where waves are breaking.
+**Yenisei:** Like lifting a current from a reef where waves are breaking.
 
 The light spots gather and gradually fill the empty glass bottle.
 
-**Yenisei:**And I ...
+**Yenisei:** And I ...
 
-**Yenisei:**I will go to that current.
+**Yenisei:** I will go to that current.
 
-**Yenisei:**Everything will be as I said.
+**Yenisei:** Everything will be as I said.
 
 **Yenisei:** ...
 
@@ -2783,7 +2781,7 @@ One step, another step ... As she descends, a rustling sound envelops her in the
 
 **Yenisei:** Where does it come from?
 
-**???:****By the flowers in the snow, raise a toast and don't say no.**
+**???:** **By the flowers in the snow, raise a toast and don't say no.**
 
 **Yenisei:** ...
 
@@ -2815,11 +2813,11 @@ The singing continues, almost freezing Yenisei in place. She turns around sharpl
 
 … by the group of wooden dolls who were in her cup earlier.
 
-**Wooden Dolls:****By the flowers in the snow, raise a toast and don't say no.**
+**Wooden Dolls:** **By the flowers in the snow, raise a toast and don't say no.**
 
 **Yenisei:** ...?
 
-**Wooden Dolls:****Fill your cup, fill your cup!**
+**Wooden Dolls:** **Fill your cup, fill your cup!**
 
 **Yenisei:** Are they ... asking me to drink?
 
@@ -2833,7 +2831,7 @@ They surround her, spinning, singing, and contorting, with bodies clearly posses
 
 Using this odd flexibility, they repeatedly lift their full cups toward Yenisei.
 
-**Wooden Dolls:****No turning down, no turning down!**
+**Wooden Dolls:** **No turning down, no turning down!**
 
 **Yenisei:** No ...
 
@@ -2929,23 +2927,23 @@ In the morning, Jiǔ Niángzǐ walks into the shambolic scene.
 
 A still-intact wooden doll bounces around, gathering the remains of its kind into a ball.
 
-**Wooden Doll:****Alas, alas. An arm is missing. Can't put them together, anymore.**
+**Wooden Doll:** **Alas, alas. An arm is missing. Can't put them together, anymore.**
 
 **Jiu Niangzi:** ...
 
-**Wooden Doll:****Late. You are late.**
+**Wooden Doll:** **Late. You are late.**
 
 **Jiu Niangzi:** What's going on?
 
 **Jiu Niangzi:** I told you to keep the house, not to tear it down.
 
-**Wooden Doll:****Being, a, good host. Offering, a drink.**
+**Wooden Doll:** **Being, a, good host. Offering, a drink.**
 
 **Jiu Niangzi:** Offer a drink to whom?
 
 **Jiu Niangzi:** Those two ladies should be soundly asleep upstairs.
 
-**Wooden Doll:****One, was downstairs, at night. Bird man, with her.**
+**Wooden Doll:** **One, was downstairs, at night. Bird man, with her.**
 
 **Jiu Niangzi:** Bird man ... You mean that feather man? He had been here?!
 
@@ -2953,13 +2951,13 @@ A still-intact wooden doll bounces around, gathering the remains of its kind int
 
 **Jiu Niangzi:** Humph. If I were the one treating him, I would ...
 
-**Wooden Doll:****He took one, with him.**
+**Wooden Doll:** **He took one, with him.**
 
 **Jiu Niangzi:** I would ... I, wait, what?
 
 **Jiu Niangzi:** Took whom with him??
 
-**Wooden Doll:****The scarlet. The brown, took away, the scarlet.**
+**Wooden Doll:** **The scarlet. The brown, took away, the scarlet.**
 
 **Jiu Niangzi:** Brown? Scarlet? What color is that?
 
@@ -5065,9 +5063,9 @@ Jiǔ Niángzǐ turns around and whistles. Immediately after, the sound of wooden
 
 **Jiu Niangzi:** Alright! You can talk now. It's okay ...
 
-**Wooden Doll:****They, trapped you.**
+**Wooden Doll:** **They, trapped you.**
 
-**Wooden Doll:****We, save you.**
+**Wooden Doll:** **We, save you.**
 
 **Jiu Niangzi:** What?
 
@@ -5075,7 +5073,7 @@ Jiǔ Niángzǐ turns around and whistles. Immediately after, the sound of wooden
 
 **Lizheng:** How could you be manipulated by them, Jiǔ Niángzǐ.
 
-**Wooden Dolls:****Save you. Save you!**
+**Wooden Dolls:** **Save you. Save you!**
 
 **Jiu Niangzi:** No-no! You're getting it wrong! Don't save me!
 
@@ -5097,15 +5095,15 @@ She turns her head to look at the patrolmen surrounding the entire courtyard, an
 
 **Jiu Niangzi:** If it requires liquor, I'll get it for you ...
 
-**Wooden Doll:****Way. No way. Once turned, no turning back.**
+**Wooden Doll:** **Way. No way. Once turned, no turning back.**
 
-**Wooden Doll:****The white-haired Daoist. The yellow drawing, on forehead. You forgot.**
+**Wooden Doll:** **The white-haired Daoist. The yellow drawing, on forehead. You forgot.**
 
 **Jiu Niangzi:** The Daoist? I didn't forget anything! And you ...
 
 **Jiu Niangzi:** I see. You must be messing with me, because I treated you badly this morning. This is your revenge, right? It's not the time for it. I really need you to ...
 
-**Wooden Doll:****No way.**
+**Wooden Doll:** **No way.**
 
 **Jiu Niangzi:** No, no! There must be a way! I must-I must be able to dispel my own craft ...
 
@@ -5123,15 +5121,15 @@ She makes a ritual gesture, attempting one final desperate act of self-salvation
 
 **Jiu Niangzi:** I can do it. I can do it without them ...
 
-**Wooden Doll:****No. It hurts. Very. Writhing pain.**
+**Wooden Doll:** **No. It hurts. Very. Writhing pain.**
 
 **Jiu Niangzi:** Urgh!!
 
 A dim light emanates from her forehead, like moonlight or the silver stripes on the Lùshǔ's skin in the dead of night.
 
-**Wooden Dolls:****Save you! We save you!**
+**Wooden Dolls:** **Save you! We save you!**
 
-**Wooden Dolls:****SAVE YOU!**
+**Wooden Dolls:** **SAVE YOU!**
 
 The sound of more wooden dolls leaping wildly rings out. They emerge from various corners of the courtyard, breaking through the encirclement of patrol soldiers and locals with unexpected force, heading straight toward Jiǔ Niángzǐ.
 

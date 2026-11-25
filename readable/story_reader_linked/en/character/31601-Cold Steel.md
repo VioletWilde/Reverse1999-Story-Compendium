@@ -800,11 +800,7 @@ One—an arm with two stitch marks. Dimitar.
 
 "Who rides faster than me? Look, she's a beauty ..."
 
-"Who rides faster than me? Look, she's a beauty ..."
-
 One—a left thigh shorter than the right. Bilyana.
-
-"Scum, wipe your damn face!"
 
 "Scum, wipe your damn face!"
 
@@ -812,11 +808,7 @@ One—thin arms, no wounds, but a tattoo. Kiril.
 
 "Ouch, boss, ouch, boss ..."
 
-"Ouch, boss, ouch, boss ..."
-
 One—with a thick brown beard ...
-
-"Where's my little sister ..."
 
 "Where's my little sister ..."
 
@@ -1610,13 +1602,13 @@ Below, the others stare up at Iglika and their captured leaders, uncertain.
 
 Nusha, what did your life buy us?
 
-**Iglika:**Nusha, what did your life buy us?
+**Iglika:** Nusha, what did your life buy us?
 
 **Iglika:** How many brothers and sisters did we lose at Czreszewo?
 
 And now your unfinished task falls to me.
 
-**Iglika:**And now your unfinished task falls to me.
+**Iglika:** And now your unfinished task falls to me.
 
 Dead silence.
 
@@ -1628,7 +1620,7 @@ Iglika's voice rises, ringing out.
 
 I can't let your death mean nothing ... I have to unite them, like you did.
 
-**Iglika:**I can't let your death mean nothing ... I have to unite them, like you did.
+**Iglika:** I can't let your death mean nothing ... I have to unite them, like you did.
 
 **Iglika:** Are we not all comrades? We eat from the same soil, drink from the same rivers.
 
@@ -1640,7 +1632,7 @@ Nusha had brought them together, filling the map.
 
 How could I watch that map fall apart?!
 
-**Iglika:**How could I watch that map fall apart?!
+**Iglika:** How could I watch that map fall apart?!
 
 **Iglika:** Look around you! Our enemies are not here. They're in Czreszewo, waiting for us.
 
@@ -2092,8 +2084,6 @@ But staring is useless. Iglika lifts the envelope from the desk and slices it op
 
 Run
 
-Run
-
 **Iglika:** ...
 
 **Iglika:** Aghh!
@@ -2125,8 +2115,6 @@ Just as she once gathered back her scattered comrades, one by one.
 **Iglika:** You chose wrong ... fire ...
 
 **Iglika:** Fire can't kill me.
-
-Three years later
 
 Three years later
 

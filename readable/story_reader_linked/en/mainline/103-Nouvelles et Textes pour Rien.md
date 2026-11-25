@@ -282,85 +282,85 @@ The instructor walks down from the podium.
 
 Opened Sandwich
 
-???:No, you are not awake yet. You are still drowned in this mire of meditation—sticky, swampy, and dark.
+???: No, you are not awake yet. You are still drowned in this mire of meditation—sticky, swampy, and dark.
 
 > **Choice 1：** Where am I?
 
-???:Welcome to nihility, Ms. Too Many Questions. You might be in an ocean, a well, the base of a ring finger ... whatever.
+???: Welcome to nihility, Ms. Too Many Questions. You might be in an ocean, a well, the base of a ring finger ... whatever.
 
-???:At that "warm invitation," you are rewarded with some mold-like bruises on your legs. "The paramecia" think this gift will force you to give in.
+???: At that "warm invitation," you are rewarded with some mold-like bruises on your legs. "The paramecia" think this gift will force you to give in.
 
-???:But for you, the invisible wounds are much more severe.
+???: But for you, the invisible wounds are much more severe.
 
-???:Don't worry. They are not gentle at all, but neither are you benign.
+???: Don't worry. They are not gentle at all, but neither are you benign.
 
 > **Choice 2：** Is this my memory?
 
-???:Memory? Good try! The logic you pride yourself on continues to serve you properly. It allows you to make some good deductions here, like a biologist analyzing the cause of a humpback appearing in a swamp.
+???: Memory? Good try! The logic you pride yourself on continues to serve you properly. It allows you to make some good deductions here, like a biologist analyzing the cause of a humpback appearing in a swamp.
 
-???:But the answer will disappoint you, unfortunately. This is just a dream, an illusion they shoved into your head. These people are very familiar with using coercive power.
+???: But the answer will disappoint you, unfortunately. This is just a dream, an illusion they shoved into your head. These people are very familiar with using coercive power.
 
 > **Choice 1：** They are ...?
 
-???:A group of people in gowns. Their gowns are made of white polyester and are over knee-length. There are seven, namely No. 1 to No. 7.
+???: A group of people in gowns. Their gowns are made of white polyester and are over knee-length. There are seven, namely No. 1 to No. 7.
 
-???:Probably only those odd-number guys are here. Or maybe No. 4 or 6 is also with them ... Damn it, I don't care.
+???: Probably only those odd-number guys are here. Or maybe No. 4 or 6 is also with them ... Damn it, I don't care.
 
-???:What matters is that your classmate is among them. No, not the gentle and loyal one who always stands by your side.
+???: What matters is that your classmate is among them. No, not the gentle and loyal one who always stands by your side.
 
-???:It is the other one—the one with indifferent outlines that makes her look like a refined machine.
+???: It is the other one—the one with indifferent outlines that makes her look like a refined machine.
 
-???:Let's skip her first name and only pay attention to her glorious family name, like what most people did.
+???: Let's skip her first name and only pay attention to her glorious family name, like what most people did.
 
-???:Like sherry cask whiskies to the alcoholic, Upmann Cedar Aged Robusto Cameroon to smokers ... and the Mesmers to the arcanists.
+???: Like sherry cask whiskies to the alcoholic, Upmann Cedar Aged Robusto Cameroon to smokers ... and the Mesmers to the arcanists.
 
 > **Choice 1：** I see ... boujee.
 
-???:Ha Ha Ha, you smart-ass. Love your humor. Yeah, you are right, boujee!
+???: Ha Ha Ha, you smart-ass. Love your humor. Yeah, you are right, boujee!
 
-???:Long ago, long long ago, you might have had the chance to experience such a period.
+???: Long ago, long long ago, you might have had the chance to experience such a period.
 
-???:At that time, humans just made their decision to live without prayers, and that's also the beginning of the long-term cooperation between Laplace and those ... heh, oh, "scholars," as they called themselves.
+???: At that time, humans just made their decision to live without prayers, and that's also the beginning of the long-term cooperation between Laplace and those ... heh, oh, "scholars," as they called themselves.
 
 > **Choice 2：** What do they do?
 
-???:Anything mystical. When they sit there and point at you with an iron stick, you'll pass out. When they put an iron ring around your neck, you'll feel burnt ...
+???: Anything mystical. When they sit there and point at you with an iron stick, you'll pass out. When they put an iron ring around your neck, you'll feel burnt ...
 
-???:You must be familiar with all these freaky tricks, because you are surrounded by freaky tricksters, like that little girl who protects others with her glass dipping pen or that floating apple dancing in the air.
+???: You must be familiar with all these freaky tricks, because you are surrounded by freaky tricksters, like that little girl who protects others with her glass dipping pen or that floating apple dancing in the air.
 
-???:The Mesmers know how to suffocate the flames of consciousness; they help you free fall internally to the bottom of the abyss ... as you are now.
+???: The Mesmers know how to suffocate the flames of consciousness; they help you free fall internally to the bottom of the abyss ... as you are now.
 
-???:It's really hard finding an arcanist who can freely master such skill. As you know, scarcity causes tragedy.
+???: It's really hard finding an arcanist who can freely master such skill. As you know, scarcity causes tragedy.
 
-???:That was the start of her nightmare: when the Child Labor Law was turned into a piece of wrinkled paper to wrap the sandwich.
+???: That was the start of her nightmare: when the Child Labor Law was turned into a piece of wrinkled paper to wrap the sandwich.
 
-???:The young daughter of the Mesmer family was led to a room when she was 12. Before she stepped in, she had sensed the messy magnetic field on the other side of the door, thanks to her acute perception.
+???: The young daughter of the Mesmer family was led to a room when she was 12. Before she stepped in, she had sensed the messy magnetic field on the other side of the door, thanks to her acute perception.
 
-???:Compared to humans, arcanists are much more emotionally vulnerable. It won't take much to overwhelm them and force them to regress to animals.
+???: Compared to humans, arcanists are much more emotionally vulnerable. It won't take much to overwhelm them and force them to regress to animals.
 
-???:The Mesmers are merciful and professional. They will never turn away any patient who comes to them for treatment.
+???: The Mesmers are merciful and professional. They will never turn away any patient who comes to them for treatment.
 
-???:... By then, you should realize the wrapping paper was never protecting the sandwich, but the hand.
+???: ... By then, you should realize the wrapping paper was never protecting the sandwich, but the hand.
 
-???:The mustard from an unknown bottle, the squeezed meatloaf, and rusty lettuce leaf, all were crushed and fell out from between the bread.
+???: The mustard from an unknown bottle, the squeezed meatloaf, and rusty lettuce leaf, all were crushed and fell out from between the bread.
 
-???:Just like the chaotic noises and the raspy screaming that fill her ears ... This filth contaminated the little girl's hands and corrupted the white polyester.
+???: Just like the chaotic noises and the raspy screaming that fill her ears ... This filth contaminated the little girl's hands and corrupted the white polyester.
 
 > **Choice 1：** ...
 
-???:Hmm, it is indeed a good time for silence.
+???: Hmm, it is indeed a good time for silence.
 
-???:Now you've noticed those exposed wounds on the machine, those marks from repeated washing and adjustments.
+???: Now you've noticed those exposed wounds on the machine, those marks from repeated washing and adjustments.
 
-???:Well, the traumata from childhood is usually hard to forget.
+???: Well, the traumata from childhood is usually hard to forget.
 
-???:Those memories are engraved in our heart and run through our veins ... Eventually, they contaminate every single neuron with mucous snot.
+???: Those memories are engraved in our heart and run through our veins ... Eventually, they contaminate every single neuron with mucous snot.
 
-???:Since then, every inch of growth is an extension of pain. New bones will be eroded and the condition can't be cured by cellular renewal.
+???: Since then, every inch of growth is an extension of pain. New bones will be eroded and the condition can't be cured by cellular renewal.
 
-???:Both you and her are familiar with this.
+???: Both you and her are familiar with this.
 
-???:Okay, take your suitcase. Now it's time ... Get lost!
+???: Okay, take your suitcase. Now it's time ... Get lost!
 
 - Description：A greasy piece of paper. It seems to have wrapped some food with rich grease.
 - Action：Pick up
@@ -2220,8 +2220,6 @@ He throws out an iron hoop, which is the size of a finger ring. The ring rolls o
 
 Three hours later
 
-Three hours later
-
 **“The Ring”:** So you managed to control the Shamirs and got out?
 
 **Vertin:** Yes. How about you? Any odd things in your room?
@@ -2272,7 +2270,7 @@ He shrugs his shoulders uncaringly and takes a good bite of the fish.
 
 **“The Ring”:** Look at this. I snuck this out from the staff office.
 
-**Vertin:**THE WORLD-CHANGING "STORM": TRUTH COVERED BY THE FOUNDATION?
+**Vertin:** THE WORLD-CHANGING "STORM": TRUTH COVERED BY THE FOUNDATION?
 
 **“The Ring”:** Yes. It wrote about a phenomenon called the "Storm," which will bring everybody in danger.
 
@@ -2318,7 +2316,7 @@ On vanquished will, quelling the challenges
 
 Of hopes and fears, being himself alone.
 
-**“The Ring”:**Their eyes see not one light of Bright Stars.
+**“The Ring”:**  Their eyes see not one light of Bright Stars.
 
 Men’s past ways are shaded by their shame,
 
@@ -3551,39 +3549,39 @@ They've never been so united before. They have different pasts, but now face the
 
 Subtraction
 
-???:A white bed, so plain and simple as if it were depicted solely in lines; a pale pillow that might not bring you sweet dreams; the light sheds in and fills half of the room.
+???: A white bed, so plain and simple as if it were depicted solely in lines; a pale pillow that might not bring you sweet dreams; the light sheds in and fills half of the room.
 
 > **Choice 1：** I hate the guardhouse.
 
-???:Oh, if you like it, I would suggest you go check your brain.
+???: Oh, if you like it, I would suggest you go check your brain.
 
-???:Listen, I don't know whether you have an eye for art. I'd say the best thing you can hope for is to know nothing about it like I do ... Stop laughing like a f\*\*\*\*\*g idiot! This undoubtedly is art. It's another art revolution in the 60s.
+???: Listen, I don't know whether you have an eye for art. I'd say the best thing you can hope for is to know nothing about it like I do ... Stop laughing like a f\*\*\*\*\*g idiot! This undoubtedly is art. It's another art revolution in the 60s.
 
 > **Choice 2：** Looks not bad.
 
-???:Oh, amazing! Now you fall in love with the guardhouse! Let me take another can of beer ... Congratulations! You are mad or artistic. Either of them deserves celebration.
+???: Oh, amazing! Now you fall in love with the guardhouse! Let me take another can of beer ... Congratulations! You are mad or artistic. Either of them deserves celebration.
 
-???:You are really a master. I'm sure you can't wait to explain why Donald Judd didn't name his boxes.
+???: You are really a master. I'm sure you can't wait to explain why Donald Judd didn't name his boxes.
 
-???:Look what humans have done with the help of their little rational brain. Their philosophy intertwines with aesthetics, and together the two subjects stagger ahead till today ... till "the past."
+???: Look what humans have done with the help of their little rational brain. Their philosophy intertwines with aesthetics, and together the two subjects stagger ahead till today ... till "the past."
 
-???:Then complexity replaced simplicity. One civilization prevailed another. Suddenly one day, when they looked back at where they came from, they found what was left behind has turned into a bloated cadaver.
+???: Then complexity replaced simplicity. One civilization prevailed another. Suddenly one day, when they looked back at where they came from, they found what was left behind has turned into a bloated cadaver.
 
-???:Fortunately, it's not too late. The solution is simple ... They first made light of the physical objects, then simplified concepts, and now they are wiping out emotions and forbidding metaphors. Everything has returned to the most substantial state ... Let a square be just a square, nothing else.
+???: Fortunately, it's not too late. The solution is simple ... They first made light of the physical objects, then simplified concepts, and now they are wiping out emotions and forbidding metaphors. Everything has returned to the most substantial state ... Let a square be just a square, nothing else.
 
 > **Choice 1：** Simple maths.
 
-???:Indeed, even a child knows how to do a subtraction this simple!
+???: Indeed, even a child knows how to do a subtraction this simple!
 
-???:Minimalism ... I have to say, this is a good thing. It proves to the entire universe that the intelligent primates are not that incurable.
+???: Minimalism ... I have to say, this is a good thing. It proves to the entire universe that the intelligent primates are not that incurable.
 
-???:It is adopted to shield us from agony and keep us away from the trap of consumerism. Minimalism is almost as nice as a vicious stepmother who tries to hide her ill intentions from the family.
+???: It is adopted to shield us from agony and keep us away from the trap of consumerism. Minimalism is almost as nice as a vicious stepmother who tries to hide her ill intentions from the family.
 
-???:You sit tight and watch. Within years, the result of this continuous subtraction will be seen all over the planet. There will be trees again, and the monkeys eat their fruits ...
+???: You sit tight and watch. Within years, the result of this continuous subtraction will be seen all over the planet. There will be trees again, and the monkeys eat their fruits ...
 
 > **Choice 1：** Return to the past?
 
-???:To a brand-new future, you dumbass.
+???: To a brand-new future, you dumbass.
 
 - Description：A nameless box standing in an open space.
 - Action：What's this?
@@ -3614,8 +3612,6 @@ These clear, glistening, rainbow-colored accessories are the favorable tokens of
 > A song that is not allowed used to be sung here.
 
 <!-- reader-body:start -->
-Two weeks later
-
 Two weeks later
 
 Today is the day of the Parade Ceremony.
@@ -3666,7 +3662,7 @@ The whispering words of encouragement go from one to another and go on.
 
 **Principal:** And now everyone, the first part of the ceremony—school song.
 
-**Principal:**"Peace Lives On."
+**Principal:** "Peace Lives On."
 
 ...
 
@@ -4219,7 +4215,7 @@ It is a copy of class notes for this week.
 
 Sonetto's Notebook
 
-Chapter 1 Section 1, Mammalia, Tetrapod 1. pp.13–14, Monoceros thevetii (the species in India has major differences from the local species in England) 2. 3 layers of the horn: keratin, prism, pearl 3.  丿 **Sorry, please see the next page** Chapter 1 Section 1, Mammalia Tetrapod Classification (p.13) 1. Monoceros thevetii: the species in India is about 40 inches long, and has red hair after reaching maturity. **(just the color of the candy from Fiona. Though I didn't ... just for reference)** The local species in England is smaller, about 20-35 inches long, and has dark brown hair. **(Monoceros thevetii may be included by the classification test in the future. Remember: stroke the spot 3 inches below the back of its neck, but keep it less than 4 times in case of panic)** 2. The horn consists of a structure of 3 layers: **(refer to the shell of tridacna gigas)** - Keratin layer: the external layer. Major component: chitin. Gray in most cases, it grows along with its owner; - Prism layer: the middle layer. Major component: calcium carbonate crystal - Pearl layer: the internal layer, composed of horizontally aligned calcium carbonate slices **(imagine the crispy roast fish slice you can get at the left window of the Second Canteen)** 3. ... ... **Dear classmate,****Wish you get well soon.**
+Chapter 1 Section 1, Mammalia, Tetrapod 1. pp.13–14, Monoceros thevetii (the species in India has major differences from the local species in England) 2. 3 layers of the horn: keratin, prism, pearl 3.  丿  **Sorry, please see the next page** Chapter 1 Section 1, Mammalia Tetrapod Classification (p.13) 1. Monoceros thevetii: the species in India is about 40 inches long, and has red hair after reaching maturity. **(just the color of the candy from Fiona. Though I didn't ... just for reference)** The local species in England is smaller, about 20-35 inches long, and has dark brown hair. **(Monoceros thevetii may be included by the classification test in the future. Remember: stroke the spot 3 inches below the back of its neck, but keep it less than 4 times in case of panic)** 2. The horn consists of a structure of 3 layers: **(refer to the shell of tridacna gigas)** - Keratin layer: the external layer. Major component: chitin. Gray in most cases, it grows along with its owner; - Prism layer: the middle layer. Major component: calcium carbonate crystal - Pearl layer: the internal layer, composed of horizontally aligned calcium carbonate slices **(imagine the crispy roast fish slice you can get at the left window of the Second Canteen)** 3. ... ... **Dear classmate,** **Wish you get well soon.**
 
 - Description：Her handwriting is neat, and some pages have extra details.
 - Action：Read
@@ -4284,14 +4280,6 @@ Isabella stops at a quiet corner. She starts to flip through the pages of Select
 
 ——"George the Oak was also zoned to the alert area. We need a new location for gathering. Better meet tonight."
 
-——"I have very important things to say to you."
-
-——"I've now obtained the map of the school, including the blocks around it. "
-
-——"But now we can't meet in public places, as there are students watching us."
-
-——"George the Oak was also zoned to the alert area. We need a new location for gathering. Better meet tonight."
-
 Isabella calmly leaves the book on the shelf next to her. Yet apparently, this is not where the book belonged.
 
 Ten minutes or so later, The Ring shows up on the same floor.
@@ -4305,20 +4293,6 @@ He wanders around casually and soon grabs a book that doesn't seem to fit his ch
 ——"We can walk there from the basement level 2 of the girls' dorm. There will be a gate but it opens at an easy push."
 
 ——"But it'll be a long way to walk, and we will have to walk through the basement level of the clinic."
-
-——"I know a place. It is right beneath this building."
-
-——"It was an air-raid tunnel under the library. No one would come down there ..."
-
-——"We can walk there from the basement level 2 of the girls' dorm. There will be a gate but it opens at an easy push."
-
-——"But it'll be a long way to walk, and we will have to walk through the basement level of the clinic."
-
-——"Nice. Girls' dorm, right? Don't worry. Easy enough for me."
-
-——"I also have some important info to share with you! See you at 7!"
-
-——"I'll bring along the others so don't you worry!"
 
 ——"Nice. Girls' dorm, right? Don't worry. Easy enough for me."
 
@@ -4977,63 +4951,63 @@ She wraps up the paper and steps away from Constantine. Her face is barely visib
 
 A Group Photo
 
-???:A discolored group photo with burned and brittle edges. It has been carefully preserved, but that was not enough to keep it from getting blurry as time passed.
+???: A discolored group photo with burned and brittle edges. It has been carefully preserved, but that was not enough to keep it from getting blurry as time passed.
 
-???:The faces of the people in the photo are hardly recognizable, but it's clear that they all have dark hair. At the top, there is a sentence ... perhaps written in an Eastern language.
+???: The faces of the people in the photo are hardly recognizable, but it's clear that they all have dark hair. At the top, there is a sentence ... perhaps written in an Eastern language.
 
 > **Choice 1：** These people are ...?
 
-???:You have no idea who they are or what they did. You have never met them ... You concluded firmly.
+???: You have no idea who they are or what they did. You have never met them ... You concluded firmly.
 
-???:Except for the third one from the right in the second row, you know her.
+???: Except for the third one from the right in the second row, you know her.
 
-???:She looks a bit younger in the photo than you remember. The two pigtail braids fall to the sides of her cheeks. The eyes behind that pair of black-frame glasses are as deep and composed as a deer's.
+???: She looks a bit younger in the photo than you remember. The two pigtail braids fall to the sides of her cheeks. The eyes behind that pair of black-frame glasses are as deep and composed as a deer's.
 
 > **Choice 1：** What's written there?
 
-???:"Commemoration for International Students at Imperial College London, 19\*\*–19\*\*" ... You can tell it was once bronzed.
+???: "Commemoration for International Students at Imperial College London, 19\*\*–19\*\*" ... You can tell it was once bronzed.
 
-???:All the critical information is here ... I mean, this is good news! Given what has been happening, who cares about what year the photo was taken?
+???: All the critical information is here ... I mean, this is good news! Given what has been happening, who cares about what year the photo was taken?
 
 > **Choice 1：** Where did she come from?
 
-???:The East, a vast land to the west coast of the Pacific. The ferry she took once crossed the Strait of Gibraltar and the Suez Canal.
+???: The East, a vast land to the west coast of the Pacific. The ferry she took once crossed the Strait of Gibraltar and the Suez Canal.
 
 > **Choice 2：** Where is this photo from?
 
-???:Do you have to be this nosy? It doesn't matter where it came from. What matters is where it has gone. The photo was really a warning for us all—don't end up being separated from the homeland.
+???: Do you have to be this nosy? It doesn't matter where it came from. What matters is where it has gone. The photo was really a warning for us all—don't end up being separated from the homeland.
 
 > **Choice 1：** Tell me, what else do you know?
 
-???:Hey, be careful the way you speak, little prick! This is not a bedtime story, and I am not your sweet grandfather.
+???: Hey, be careful the way you speak, little prick! This is not a bedtime story, and I am not your sweet grandfather.
 
-???:You know her, but you're not a close acquaintance of hers, neither am I ... There is someone else who knows her well.
+???: You know her, but you're not a close acquaintance of hers, neither am I ... There is someone else who knows her well.
 
-???:All I know is that she has cut her hair short and became a drop of dew on the lily petal, shaking underneath the calyx.
+???: All I know is that she has cut her hair short and became a drop of dew on the lily petal, shaking underneath the calyx.
 
 > **Choice 1：** What does that lily look like?
 
-???:It's pure white, with smooth petals and healthy, light-colored anthers. It feels ... cold and hard, like a piece of sharp marble, ready to pierce your hand.
+???: It's pure white, with smooth petals and healthy, light-colored anthers. It feels ... cold and hard, like a piece of sharp marble, ready to pierce your hand.
 
-???:The dew was brought here and cultivated by the lily. Undoubtedly, the lily is an excellent educator, while the dew is also a one-in-a-thousand candidate.
+???: The dew was brought here and cultivated by the lily. Undoubtedly, the lily is an excellent educator, while the dew is also a one-in-a-thousand candidate.
 
 > **Choice 2：** Why did she come here?
 
-???:Here? Technically speaking, her initial destination was not "here," not this gray-and-white building, nor under the umbrella, nor the calyx. She is an expert at theoretical physics and studies string theory.
+???: Here? Technically speaking, her initial destination was not "here," not this gray-and-white building, nor under the umbrella, nor the calyx. She is an expert at theoretical physics and studies string theory.
 
-???:She voyaged across the ocean in order to return to the land with vitality.
+???: She voyaged across the ocean in order to return to the land with vitality.
 
-???:Her plan, however, was interrupted by a sudden change. That lily always has her ways to navigate things to develop as she wanted.
+???: Her plan, however, was interrupted by a sudden change. That lily always has her ways to navigate things to develop as she wanted.
 
 > **Choice 1：** Will the dew be another lily?
 
-???:Good question. She has no thirst, nor desire. Homeland is awaiting ... How could a scientist become a politician?
+???: Good question. She has no thirst, nor desire. Homeland is awaiting ... How could a scientist become a politician?
 
-???:I hope I can answer you like this without hesitation … But you've also noticed it, right? You knew.
+???: I hope I can answer you like this without hesitation … But you've also noticed it, right? You knew.
 
-???:Now, the cat has been locked back in the chamber. The entrance has been tightly sealed. None of us can do anything about its fate. We can only wait outside, anxiously scratching our heads and placing our bets.
+???: Now, the cat has been locked back in the chamber. The entrance has been tightly sealed. None of us can do anything about its fate. We can only wait outside, anxiously scratching our heads and placing our bets.
 
-???:Tomorrow, or the day after tomorrow ... Hah! We'll lose it all!
+???: Tomorrow, or the day after tomorrow ... Hah! We'll lose it all!
 
 - Description：An old group photo. No one knows where it comes from.
 - Action：Try to recall
@@ -5069,8 +5043,6 @@ A plant. It was taken to the rehab center from the student dormitory. It has no 
 **Vertin:** Still feels like I was in a chess game, playing against an invisible enemy.
 
 **Vertin:** Back then, I knew nothing about chess, nor resigning, let alone the fact I was in the zugzwang.
-
-On the night of the 27th
 
 On the night of the 27th
 

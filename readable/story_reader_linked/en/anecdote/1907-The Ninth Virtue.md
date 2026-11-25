@@ -177,7 +177,7 @@ Then, in a booming practiced voice, he begins his joke.
 
 **Knight I:** There once was a knight both true and faithful, whose great deeds much envy provokes! But where others would boast, his friends were most grateful, that the worst of his faults were his jokes!
 
-**Knight I:****I speak, of course, of myself! Roland, your liege on the eve of our arrival in Brittany, for soon I will be named—**
+**Knight I:** **I speak, of course, of myself! Roland, your liege on the eve of our arrival in Brittany, for soon I will be named—**
 
 **Knight I:** That is this very day, I …
 
@@ -783,7 +783,7 @@ Roland has folded his hands together, shaping them like a spider, crawling throu
 
 **Oliver:** …
 
-**Oliver:**Ro-land!
+**Oliver:** Ro-land!
 
 Oliver cannot stand it anymore. He slams his fist down hard on the ground.
 
@@ -2343,28 +2343,6 @@ I wish you good spirits, humor, and happiness, always.
 
 A Knight
 
-Sir Roland:
-
-If you are reading this letter, then I have reached the end of my journey.
-
-I must confess a secret, for Oliver confided in me that he has always enjoyed
-
-our jokes.
-
-Please, don't be cross, Sir Oliver.
-
-I could not bear to go to my death without revealing a punchline.
-
-Roland, should you ever mention me to anyone,
-
-please make sure there is a fitting ending to my story,
-
-one fit for me—believe me, I'll hear about it.
-
-I wish you good spirits, humor, and happiness, always.
-
-A Knight
-
 **A Knight:** Sir APPLe as an educated fellow, you must have read the Greeks Tragedies. The greatest of them, the most tragic, came from those who made no mistake but suffered anyways.
 
 **A Knight:** Someone has always had a soft spot for tragedy. Something about the darkness of a true tragedy speaks to a young knight.
@@ -2441,7 +2419,7 @@ The young man's injuries are severe. His body growing colder and stiffer by the 
 
 "What do you say when you find a … a deer without any eyes?"
 
-**A Knight:**"What do you say when you find a … a deer without any eyes?"
+**A Knight:** "What do you say when you find a … a deer without any eyes?"
 
 **A Knight:** It was a terrible joke, and yet ... Someone laughed.
 
@@ -2464,10 +2442,6 @@ The young man's injuries are severe. His body growing colder and stiffer by the 
 **A Knight:** The festival date will be set on February 29.
 
 **A Knight:** Someone will eagerly await your reply.
-
-"Humility, honesty, mercy, valor, justice, sacrifice, honor, soul."
-
-"And, of course, a bit of humor."
 
 "Humility, honesty, mercy, valor, justice, sacrifice, honor, soul."
 

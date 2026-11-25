@@ -285,7 +285,7 @@ A brown bear beside him places a thick paw on his arm, making the parchment in h
 
 "Yet in his greed, he disregards it still."
 
-**Зима:**"Look not back on the path you did not take,"
+**Зима:** "Look not back on the path you did not take,"
 
 "Iron wings, a warning to the hunter makes."
 
@@ -333,7 +333,7 @@ Her dissent nearly knocks the poet off the rock upon which he is sitting.
 
 "How can we not love earth more than heaven?"
 
-**Зима:**"How can we not love earth more than heaven?"
+**Зима:** "How can we not love earth more than heaven?"
 
 **Зима:** Nature is the fabric of our world.
 
@@ -787,9 +787,9 @@ There is a brief pause in their attack. Then, a figure leisurely steps out of th
 <!-- reader-body:start -->
 **Journalist:** …
 
-**Journalist:**"... We grow, yet no one knows,"
+**Journalist:** "... We grow, yet no one knows,"
 
-**Journalist:**"Like poplars in the winter."
+**Journalist:** "Like poplars in the winter."
 
 **Journalist:** Did you write that?
 
@@ -2152,30 +2152,6 @@ What did you see?
 The rocks do not reply,
 
 But a young voice says,
-
-In one hundred feet of snow,
-
-A dead branch a quill will be, sufficient
-
-To write about the moon's passage both night and day;
-
-To write about the frosted needles caught in treetops, the sound of the wind;
-
-To write about the nothingness of night and the all-embracing sea.
-
-They light a bonfire,
-
-Crackling, flickering,
-
-And before the fire leaves their eyes, they sing,
-
-What did you see?
-
-The rocks do not reply,
-
-But a young voice says,
-
-"Humanity."
 
 "Humanity."
 

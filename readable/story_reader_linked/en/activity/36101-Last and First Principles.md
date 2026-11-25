@@ -942,7 +942,7 @@ Suddenly, a strange noise interrupts her.
 
 **Ulrich:** Is that a Critter?
 
-**???:** %￥ Ένα ευθύγραμμο τμήμα σχηματίζεται όταν ενώσουμε δύο σημεία!... \*# ...
+**???:** %￥ Ένα ευθύγραμμο τμήμα σχηματίζεται όταν ενώσουμε δύο σημεία! ... \*# ...
 
 **Enigma:** No, it's an arcanist using Critter-Speech.
 
@@ -3218,7 +3218,7 @@ Enigma feels a familiar irritation itch at him as the argument dredges up his ow
 
 The researcher suddenly draws a gun on his colleague. Perhaps he doesn't think of him as one.
 
-**Research Staff:** \<ERROR\> Are-are-are you done??!!Ένα ευθύγραμμο τμήμα σχηματίζεται όταν ενώσουμε δύο σημεία! # You're wasting Laplace resources!
+**Research Staff:** \<ERROR\> Are-are-are you done??!! Ένα ευθύγραμμο τμήμα σχηματίζεται όταν ενώσουμε δύο σημεία! # You're wasting Laplace resources!
 
 Bang. The staff member drops to the ground. Enigma isn't sure whether he should step forward and do something.
 
@@ -3753,7 +3753,7 @@ A constant stream of words flows from Ludwig's beak.
 
 **Enigma:** Enough chit-chat. You ...
 
-**Ludwig:** DukannstdasArkanumnichtbegreifen.
+**Ludwig:** Du kannst das Arkanum nicht begreifen.
 
 **Enigma:** Stop!
 
@@ -3763,7 +3763,7 @@ He has never sensed arcane fluctuations before. Not until now.
 
 Of course, he can't immediately detect the abnormalities quietly building around him.
 
-**Ludwig:** DarumkannstdudieseTürnichtöffnen.
+**Ludwig:** Darum kannst du diese Tür nicht öffnen.
 
 Enigma grabs the communicator and throws it at the raven, who effortlessly dodges with a flap of his wings.
 

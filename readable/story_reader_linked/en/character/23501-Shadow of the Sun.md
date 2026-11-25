@@ -174,8 +174,6 @@ Flutterpage blinks, then holds the jar of snails up to Willow.
 
 GET OUT OF HERE!
 
-GET OUT OF HERE!
-
 Before she even finishes her exclamation, she has already slammed the door shut.
 <!-- reader-body:end -->
 
@@ -395,7 +393,7 @@ The translucent ointment in the crucible is smooth and docile. Willow scoops som
 
 **Willow:** A fine semifinished salve. All it needs now is a cooling incantation.
 
-**Willow:**Howlingwindsofwinter!
+**Willow:** Howling winds of winter!
 
 The ointment solidifies, becoming a pale yellow.
 
@@ -473,13 +471,13 @@ Ignoring the pain in her limb, she goes to the window to yell at them.
 
 There it is again. Another wailing child.
 
-**Willow:**Shutyourmouth!
+**Willow:** Shut your mouth!
 
 Miraculously, the crying actually ceases.
 
 **Willow:** All of you ...
 
-**Willow:**Getthebloodyhelloutofmygarden!
+**Willow:** Get the bloody hell out of my garden!
 
 ***
 
@@ -527,7 +525,7 @@ The "hag" gives a mocking sneer.
 
 **Willow:** Go on, take it. Take it and ...
 
-**Willow:**GetOut!
+**Willow:** Get Out!
 <!-- reader-body:end -->
 
 <details>
@@ -1079,35 +1077,35 @@ A warm hand pats her shoulder as she steps onto the floor.
 
 As the music starts, the darkest five minutes of her youth begin.
 
-**???:**Oh! Congratulations, Caroline, on your victory on the floor.
+**???:** Oh! Congratulations, Caroline, on your victory on the floor.
 
-**Caroline Bartley:**Thank you.
+**Caroline Bartley:** Thank you.
 
 Their voices are vague and distant, yet she cannot divert her attention from them.
 
-**Caroline Bartley:**I must say, when I learned that Charlotte O'Hagan would be participating, I didn't expect to win first place, since we all know she's a world-class Floor Ritualist.
+**Caroline Bartley:** I must say, when I learned that Charlotte O'Hagan would be participating, I didn't expect to win first place, since we all know she's a world-class Floor Ritualist.
 
 **Charlotte:** ...
 
-**???:**Charlotte O'Hagan has finished in eighth, meaning she'll most likely miss the finals.
+**???:** Charlotte O'Hagan has finished in eighth, meaning she'll most likely miss the finals.
 
-**???:**Floor Ritual has always had its roots in arcanum. If she's only here to compete for technical points, why doesn't she compete in another event?
+**???:** Floor Ritual has always had its roots in arcanum. If she's only here to compete for technical points, why doesn't she compete in another event?
 
 **Charlotte:** Feck!
 
-**Caroline Bartley:**I beg to differ.
+**Caroline Bartley:** I beg to differ.
 
-**Caroline Bartley:**Charlotte is an outstanding player. If you had observed her performance closely, you wouldn't be making light of her efforts.
+**Caroline Bartley:** Charlotte is an outstanding player. If you had observed her performance closely, you wouldn't be making light of her efforts.
 
-**???:**But she made a huge mistake. She didn't even complete the ritual segment of her routine.
+**???:** But she made a huge mistake. She didn't even complete the ritual segment of her routine.
 
-**???:**There was a critical failure in the stability of her ritual. Didn't you see? The clouds she summoned poured rain all over the judges' heads!
+**???:** There was a critical failure in the stability of her ritual. Didn't you see? The clouds she summoned poured rain all over the judges' heads!
 
 There is scattered laughter throughout the venue.
 
 **Caroline Bartley:** ...
 
-**Caroline Bartley:**Sorry, sir, I will no longer answer any questions regarding Charlotte O'Hagan. I'm afraid your understanding of "sportsmanship" leaves much to be desired.
+**Caroline Bartley:** Sorry, sir, I will no longer answer any questions regarding Charlotte O'Hagan. I'm afraid your understanding of "sportsmanship" leaves much to be desired.
 
 **Charlotte:** ...
 
@@ -1289,7 +1287,7 @@ Go away! Stop pestering me!
 
 ***
 
-**Charlotte:**Ineverwanttoseeyouagain!
+**Charlotte:** I never want to see you again!
 
 **Kid III:** It's the hag's curse!
 
@@ -2260,9 +2258,9 @@ As she lets out a cold sneer, her features become clearer.
 
 **Coach:** But so what?
 
-**Child:**Mum, that's Charlotte's house! It's been so long since she—
+**Child:** Mum, that's Charlotte's house! It's been so long since she—
 
-**Woman:**Shh. Don't you go saying her name. She's a witch, understand?! A hag! It's written right there in her name!
+**Woman:** Shh. Don't you go saying her name. She's a witch, understand?! A hag! It's written right there in her name!
 
 **Coach:** No one is willing to speak your name. No one even dares walk past your house.
 

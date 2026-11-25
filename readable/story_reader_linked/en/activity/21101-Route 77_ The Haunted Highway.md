@@ -2237,27 +2237,27 @@ She fishes out a dusty sheepskin journal from the gap between the cabinet and th
 
 She flips through the pages.
 
-**Argus:**"We are the beginning and the original source of metals."
+**Argus:** "We are the beginning and the original source of metals."
 
-**Argus:**"Through us, the highest tincture of art is brewed."
+**Argus:** "Through us, the highest tincture of art is brewed."
 
-**Argus:**"There is neither a spring nor water like mine. I heal and help both the rich and the poor."
+**Argus:** "There is neither a spring nor water like mine. I heal and help both the rich and the poor."
 
-**Argus:**"Yet I am full of hurtful poison."
+**Argus:** "Yet I am full of hurtful poison."
 
 **Argus:** What the hell does that mean?
 
 **Vertin:** It's a quote from a text on alchemy.
 
-**Argus:**"All challenges will be resolved with the provision of sufficient and high quality materials and the precise execution of the array."
+**Argus:** "All challenges will be resolved with the provision of sufficient and high quality materials and the precise execution of the array."
 
-**Argus:**"But where do we find these materials?"
+**Argus:** "But where do we find these materials?"
 
 She continues to flick through the journal, releasing the accumulated alchemical residue on its pages into the air.
 
 On the last page, tortured words are scrawled on the paper. It looks like something a criminal would write in their final moments before their death sentence.
 
-**Argus:**"What was once sundered shall reunite."
+**Argus:** "What was once sundered shall reunite."
 
 **Vertin:** \*cough\*
 
@@ -3110,7 +3110,7 @@ The pilot relaxes her poised fists when she recognizes the person in front of he
 
 Accountability Record
 
-Date of Record: September 20, 1990 Recorded By: Lieutenant Moldir Subject: Admiral Igor's Recent Actions This week, Admiral Igor addressed the conduct of three subordinates and implemented the following measures: Captain L. Harris Transgression: Ineffective leadership during training, resulting in subpar exercise performance. Admiral Igor's Action: Issued a severe warning and reassigned from current position. Sergeant K. Rodriguez Transgression: Breach of military discipline, unauthorized absence from duty. Admiral Igor's Action: Gave a severe reprimand and imposed three days of confinement. Lieutenant J. Davis: Transgression: Failure to complete assigned tasks within the designated timeframe. Admiral Igor's Action: Issued a severe warning and assigned additional personnel to assist with the investigation. The source of the leak has been identified as Stefen Garcia. Leaked content: Vacuum bomb explosion footage? End of record. Notes to self: It is evident that the admiral's stringent measures are aimed at reinforcing military discipline. We must ensure that every officer and soldier adheres strictly to their duties and maintains a high level of readiness.Some officers believe he has been excessively harsh recently—discuss this with them.High command's perspective—arrange a meeting for the admiral.Tracking target "K"—Texas, awaiting scout report.
+Date of Record: September 20, 1990 Recorded By: Lieutenant Moldir Subject: Admiral Igor's Recent Actions This week, Admiral Igor addressed the conduct of three subordinates and implemented the following measures: Captain L. Harris Transgression: Ineffective leadership during training, resulting in subpar exercise performance. Admiral Igor's Action: Issued a severe warning and reassigned from current position. Sergeant K. Rodriguez Transgression: Breach of military discipline, unauthorized absence from duty. Admiral Igor's Action: Gave a severe reprimand and imposed three days of confinement. Lieutenant J. Davis: Transgression: Failure to complete assigned tasks within the designated timeframe. Admiral Igor's Action: Issued a severe warning and assigned additional personnel to assist with the investigation. The source of the leak has been identified as Stefen Garcia. Leaked content: Vacuum bomb explosion footage? End of record. Notes to self: It is evident that the admiral's stringent measures are aimed at reinforcing military discipline. We must ensure that every officer and soldier adheres strictly to their duties and maintains a high level of readiness. Some officers believe he has been excessively harsh recently—discuss this with them. High command's perspective—arrange a meeting for the admiral. Tracking target "K"—Texas, awaiting scout report.
 
 - Description：Hastily written lines in a standard-issue notebook, as clear and powerful as the lieutenant who wrote them.
 - Action：Read the Record
@@ -3448,7 +3448,7 @@ She flips the sign on the door to "Do Not Disturb."
 
 Motel Shopping List
 
-**August 1989** Bought: Blue Jay coffee beans, 5 lbs (with filters) River Valley bedsheets, 15 sets—Going through these too fast, need a countermeasure. Second-hand TV, 1 set—A good deal, "haunted, spooky shadows within," the seller said, hah! Sold: Cowboy brand toolkit, 1 set **October 1989** Bought: Thanksgiving decorations, 1 set Pecan Grove air fresheners, 1 dozen —Bloodstain trick is too simple. Need to have a word with "it." "Light of the South" bulbs, 1 dozen—Pretty crumby, but affordable and useful. Fresh cream, 3 pints—From Old Stewart's ranch, yum.Maybe get some candy next time?**November 1989** Bought: Texas trail candy, 5 boxes—Yum. Marigold body wash, 1 dozen—Smells too strong.**January 1990** Bought: Seven Star tea bags, 3 boxes Fresh ranch butter, 15 lbs River Valley bedsheets, 12 sets—Hope this batch lasts longer. Sold: Second-hand TV, 1 set—Sorry, darling, but it's time to say goodbye.
+**August 1989** Bought: Blue Jay coffee beans, 5 lbs (with filters) River Valley bedsheets, 15 sets—Going through these too fast, need a countermeasure. Second-hand TV, 1 set—A good deal, "haunted, spooky shadows within," the seller said, hah! Sold: Cowboy brand toolkit, 1 set **October 1989** Bought: Thanksgiving decorations, 1 set Pecan Grove air fresheners, 1 dozen —Bloodstain trick is too simple. Need to have a word with "it." "Light of the South" bulbs, 1 dozen—Pretty crumby, but affordable and useful. Fresh cream, 3 pints—From Old Stewart's ranch, yum. Maybe get some candy next time? **November 1989** Bought: Texas trail candy, 5 boxes—Yum. Marigold body wash, 1 dozen—Smells too strong. **January 1990** Bought: Seven Star tea bags, 3 boxes Fresh ranch butter, 15 lbs River Valley bedsheets, 12 sets—Hope this batch lasts longer. Sold: Second-hand TV, 1 set—Sorry, darling, but it's time to say goodbye.
 
 - Description：She's a reliable and attentive owner of the motel, always making sure her supplies are well-stocked, even those that her guests may not need ...
 - Action：Read List
@@ -3933,7 +3933,7 @@ She pulls a few pieces of candy from her pocket and places them in Argus's palm.
 
 Experiment Report
 
-**Methods** Through the aid of voluntary donations, the research team extracted a nucleus from a female arcanist (Genetic Mother A) and an enucleated egg cell from a female human (Genetic Mother B). The nucleus was cultivated and processed to enhance its receptivity to new genetic instructions. After injecting the donor cell nucleus into the enucleated egg cell, an electric pulse was used to fuse the nucleus with the egg cytoplasm, initiating cell division and forming embryonic cells. During this process, the ratio of arcanist to human genetic material was adjusted to be nearly equal. In Experiment No. 277, the embryo developed well, meeting the criteria for transplantation, and was implanted into the uterus of a Finn-Dorset ewe after formation. **Observations****0 Months Old** The subject was born through natural delivery, with 60.05% arcanist genetic material and 39.95% human genetic material, not achieving the expected complete balance, but still proving that the adult somatic cells of an arcanist can be programmed and adjusted through cloning technology. In appearance, the subject exhibits characteristics of both Genetic Mothers A and B; simultaneously, for unknown reasons, its head is highly similar to that of a Finn-Dorset, but brain development has not been affected. **2 Months Old** The subject's development is slower than that of contemporary human and arcanist infants. Mild symptoms of lung infection have been found. **4 Months Old** The subject's development is slower than that of contemporary human and arcanist infants, but it showed significant responses to music and human language, with consistent reactions to specific sounds. The cause of the lung infection was identified; the subject's lungs tested positive for the JSRV retrovirus, commonly found in sheep living indoors for extended periods. It was suggested that a veterinary team be brought in for consultation. **6 Months Old** The subject's physical development is slower than that of contemporary human and arcanist infants, and may stop developing prematurely. Sterile room staff reported that the subject began consciously mimicking communication behaviors, as expected. Educational classes and moral guidance videotapes were initiated. The lung infection worsened, and the subject showed a strong allergic reaction to chemical fiber products. ... **10 Months Old** The subject can engage in rudimentary communication, exhibiting good brain development. Multiple tests have confirmed that American country music is effective in alleviating the subject's allergic reactions, the cause of which is yet to be determined. ... **22 Months Old** The subject performed excellently in communication and intelligence tests, possessing the intelligence level of a 7-year-old human child. **23 Months Old** Bone tests indicated that the subject's physical development will cease completely by the age of 12.
+**Methods** Through the aid of voluntary donations, the research team extracted a nucleus from a female arcanist (Genetic Mother A) and an enucleated egg cell from a female human (Genetic Mother B). The nucleus was cultivated and processed to enhance its receptivity to new genetic instructions. After injecting the donor cell nucleus into the enucleated egg cell, an electric pulse was used to fuse the nucleus with the egg cytoplasm, initiating cell division and forming embryonic cells. During this process, the ratio of arcanist to human genetic material was adjusted to be nearly equal. In Experiment No. 277, the embryo developed well, meeting the criteria for transplantation, and was implanted into the uterus of a Finn-Dorset ewe after formation. **Observations** **0 Months Old** The subject was born through natural delivery, with 60.05% arcanist genetic material and 39.95% human genetic material, not achieving the expected complete balance, but still proving that the adult somatic cells of an arcanist can be programmed and adjusted through cloning technology. In appearance, the subject exhibits characteristics of both Genetic Mothers A and B; simultaneously, for unknown reasons, its head is highly similar to that of a Finn-Dorset, but brain development has not been affected. **2 Months Old** The subject's development is slower than that of contemporary human and arcanist infants. Mild symptoms of lung infection have been found. **4 Months Old** The subject's development is slower than that of contemporary human and arcanist infants, but it showed significant responses to music and human language, with consistent reactions to specific sounds. The cause of the lung infection was identified; the subject's lungs tested positive for the JSRV retrovirus, commonly found in sheep living indoors for extended periods. It was suggested that a veterinary team be brought in for consultation. **6 Months Old** The subject's physical development is slower than that of contemporary human and arcanist infants, and may stop developing prematurely. Sterile room staff reported that the subject began consciously mimicking communication behaviors, as expected. Educational classes and moral guidance videotapes were initiated. The lung infection worsened, and the subject showed a strong allergic reaction to chemical fiber products. ... **10 Months Old** The subject can engage in rudimentary communication, exhibiting good brain development. Multiple tests have confirmed that American country music is effective in alleviating the subject's allergic reactions, the cause of which is yet to be determined. ... **22 Months Old** The subject performed excellently in communication and intelligence tests, possessing the intelligence level of a 7-year-old human child. **23 Months Old** Bone tests indicated that the subject's physical development will cease completely by the age of 12.
 
 - Description：Details a significant event of the late 20th century. Essential reading.
 - Action：Read the Report
@@ -4149,7 +4149,7 @@ She stares intently at the maid, her gaze sharp as if she's finally caught the s
 
 **Argus:** Shame. Looks like negotiations are over.
 
-**Argus:**Andthencewecameforthtoseeagainthestars.
+**Argus:** And thence we came forth to see again the stars.
 
 After a brief moment, a glimmer of emerald light reignites in her eye.
 
@@ -5285,7 +5285,7 @@ She picks up the suitcase.
 
 Tuesday's Motel Cleaning Records
 
-Week 4 Routine Cleaning Room 105: Cleaned carpet stained with vomit. Room 108: Cleaned stains and fingerprints off walls. Room 205: Broken glass, contacted supplier for replacement. Week 5 Routine Cleaning Room 105: Cleaned carpet stained with vomit. A lesson needs to be taught. Room 211: Replaced showerhead. Cracks in the glass in room 205 disappeared? Week 8 Routine Cleaning Front desk: Table needs repair. Room 102: Floor scorched—I saw that, I'm sure of it.Scorch marks disappeared. That's a good baby. Week 10 Routine Cleaning Room 105: Bloodstains, carpet ruined. It's time for punishment. Room 202: Glass completely shattered. Repaired **all by itself**. An good baby deserves a reward.Tonight.Room 105, of course.
+Week 4 Routine Cleaning Room 105: Cleaned carpet stained with vomit. Room 108: Cleaned stains and fingerprints off walls. Room 205: Broken glass, contacted supplier for replacement. Week 5 Routine Cleaning Room 105: Cleaned carpet stained with vomit. A lesson needs to be taught. Room 211: Replaced showerhead. Cracks in the glass in room 205 disappeared? Week 8 Routine Cleaning Front desk: Table needs repair. Room 102: Floor scorched—I saw that, I'm sure of it. Scorch marks disappeared. That's a good baby. Week 10 Routine Cleaning Room 105: Bloodstains, carpet ruined. It's time for punishment. Room 202: Glass completely shattered. Repaired **all by itself**. An good baby deserves a reward. Tonight. Room 105, of course.
 
 - Description：For hostesses, cleanliness is next to godliness. Fortunately, the subject this hostess wishes to clean is all for it.
 - Action：Read the Record
@@ -5355,8 +5355,6 @@ There's a hint of anxiety in her voice.
 She smiles faintly.
 
 **Ms. Grace:** But I do look forward to seeing her again.
-
-Several days later.
 
 Several days later.
 
@@ -5442,45 +5440,45 @@ Tuesday's Motel Incident Investigation Report (Excerpt)
 
 - Element：`2110201`
 
-Trucker:Hey, is this some kinda interview? Are you journalists?
+Trucker: Hey, is this some kinda interview? Are you journalists?
 
-Trucker:Headin' all the way out here from the city, tryin' to dig up some dirt from the badlands ... You wanna hear those stories?
+Trucker: Headin' all the way out here from the city, tryin' to dig up some dirt from the badlands ... You wanna hear those stories?
 
-Trucker:Hey, girlie, listen up ... some of those rumors are true.
+Trucker: Hey, girlie, listen up ... some of those rumors are true.
 
-Trucker:You ever heard about that old town where everyone had a nervous breakdown, scared outta their wits by birds, shadows, and God knows what?
+Trucker: You ever heard about that old town where everyone had a nervous breakdown, scared outta their wits by birds, shadows, and God knows what?
 
-Trucker:And about those drivers who stayed at that motel, running for their lives at the crack of dawn, pedal to the metal?
+Trucker: And about those drivers who stayed at that motel, running for their lives at the crack of dawn, pedal to the metal?
 
-Trucker:They're my friends, my clients, my favorite bar owner ... How could I not believe them?
+Trucker: They're my friends, my clients, my favorite bar owner ... How could I not believe them?
 
-Trucker:We did what we could to spread the word—we wanted to get this thing covered in a small article in the Southern Voices.
+Trucker: We did what we could to spread the word—we wanted to get this thing covered in a small article in the Southern Voices.
 
-Trucker:That's exactly how these stories get around, see?
+Trucker: That's exactly how these stories get around, see?
 
 ### Trail · Party Time
 
 - Element：`2110202`
 
-Ranch Owner:Raise your glasses, friends! To an old-fashioned, genuine Texas hoedown!
+Ranch Owner: Raise your glasses, friends! To an old-fashioned, genuine Texas hoedown!
 
-Ranch Owner:It ain't the fancy newfangled kind, just real barbecued lamb and beer with friends old and new.
+Ranch Owner: It ain't the fancy newfangled kind, just real barbecued lamb and beer with friends old and new.
 
-Ranch Owner:So, folks, any news lately? Lemme tell ya, I heard a story ...
+Ranch Owner: So, folks, any news lately? Lemme tell ya, I heard a story ...
 
-Ranch Owner:Wait, why the sudden silence? What's with those faces?
+Ranch Owner: Wait, why the sudden silence? What's with those faces?
 
-Ranch Owner:I heard it straight from Big Matty, who heard it from Officer Harold while he was fixin' up his car.
+Ranch Owner: I heard it straight from Big Matty, who heard it from Officer Harold while he was fixin' up his car.
 
-Ranch Owner:And he swore on his dear mama's grave that this time, it ain't no tall tale but the real deal, scout's honor.
+Ranch Owner: And he swore on his dear mama's grave that this time, it ain't no tall tale but the real deal, scout's honor.
 
-Ranch Owner:Those folks that went missing on Route 77 might've fallen prey to the Tripodero!
+Ranch Owner: Those folks that went missing on Route 77 might've fallen prey to the Tripodero!
 
-Ranch Owner:...
+Ranch Owner: ...
 
-Ranch Owner:Oh? So you're just here for the barbecue, huh? You ain't interested in the real-life tales from the badlands?
+Ranch Owner: Oh? So you're just here for the barbecue, huh? You ain't interested in the real-life tales from the badlands?
 
-Ranch Owner:How about we move on to the next part—some real classy Texan music? Who's down for a little singalong?
+Ranch Owner: How about we move on to the next part—some real classy Texan music? Who's down for a little singalong?
 
 ### Trail · A Subtle Clue
 
@@ -5492,7 +5490,7 @@ Ranch Owner:How about we move on to the next part—some real classy Texan music
 
 Alligator Ranch Extravaganza
 
-**Get ready for the adventure of a lifetime! Hundreds of sharp-toothed stars with mouths open wide are eager to meet you, as Texas's behemoths converge right here!** Alligator Kingdom Parade: A grand spectacle like you've never seen before! One hundred alligators are here to welcome you into their wild world! Alligator Feeding Frenzy: This is a challenge that's not for the faint of heart, where your fingertips brush against giant, hungry jaws! Don't worry though! Our safety measures are flawless, ensuring a perfect blend of excitement and safety, seriously. Giant Exhibit: "Everything's bigger in Texas!" It's true, folks—come see for yourself! See the state's largest cowboy hat, boots, waterwheel, and a whole load of other colossal wonders you've never even dreamed of! Critter Corner: Come meet the latest little stars down on our ranch, captured by Texas's bravest hunters. From those invisible little pests making mischief on your fields to the true cryptid legends of the badlands, come and see them today, now here before your eyes! **Delay no more—come join the extravaganza today!**Scrawled Note: Damn, those creatures have escaped! Get an alligator hunter or critter expert on this, pronto!
+**Get ready for the adventure of a lifetime! Hundreds of sharp-toothed stars with mouths open wide are eager to meet you, as Texas's behemoths converge right here!** Alligator Kingdom Parade: A grand spectacle like you've never seen before! One hundred alligators are here to welcome you into their wild world! Alligator Feeding Frenzy: This is a challenge that's not for the faint of heart, where your fingertips brush against giant, hungry jaws! Don't worry though! Our safety measures are flawless, ensuring a perfect blend of excitement and safety, seriously. Giant Exhibit: "Everything's bigger in Texas!" It's true, folks—come see for yourself! See the state's largest cowboy hat, boots, waterwheel, and a whole load of other colossal wonders you've never even dreamed of! Critter Corner: Come meet the latest little stars down on our ranch, captured by Texas's bravest hunters. From those invisible little pests making mischief on your fields to the true cryptid legends of the badlands, come and see them today, now here before your eyes!  **Delay no more—come join the extravaganza today!** Scrawled Note: Damn, those creatures have escaped! Get an alligator hunter or critter expert on this, pronto!
 
 - Description：A color-printed flyer annotated with what seems to be explanations behind several urban legends.
 - Action：Read Flyer

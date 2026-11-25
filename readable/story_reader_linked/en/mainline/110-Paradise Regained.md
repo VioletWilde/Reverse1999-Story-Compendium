@@ -147,9 +147,7 @@ And yet she has more questions.
 
 She said ...
 
-P a r a d i s eR e g a i n e d
-
-P a r a d i s eR e g a i n e d
+P a r a d i s e R e g a i n e d
 
 **Vertin:** ...!
 
@@ -195,17 +193,9 @@ After days of covert detours, at last they stand on the sunlit deck, looking int
 
 Before them stretches a white field of ice.
 
-Before them stretches a white field of ice.
-
-Dazzling yet lifeless.
-
 Dazzling yet lifeless.
 
 A droning silence that gives up no hint of what may once have been.
-
-A droning silence that gives up no hint of what may once have been.
-
-Yet beneath the silence roars an imperceptible foreboding.
 
 Yet beneath the silence roars an imperceptible foreboding.
 
@@ -389,37 +379,37 @@ Yet beneath the silence roars an imperceptible foreboding.
 
 Antarctic Landing
 
-???:You made it. From the US to Brazil to Australia ...
+???: You made it. From the US to Brazil to Australia ...
 
-???:From a pleasure cruise across the South Pacific, through Argentina, and finally here, your feet firmly planted on the southernmost continent on Earth.
+???: From a pleasure cruise across the South Pacific, through Argentina, and finally here, your feet firmly planted on the southernmost continent on Earth.
 
-???:The enemy's been beaten back, retreated to this polar desert, and here you are too—all because of a single command:
+???: The enemy's been beaten back, retreated to this polar desert, and here you are too—all because of a single command:
 
-???:"Find that writer."
+???: "Find that writer."
 
-???:That's all you've got. No plan, no place or time, not even a full squad.
+???: That's all you've got. No plan, no place or time, not even a full squad.
 
-???:I can't help but wonder what pushes you forward. What gives you the eagerness of a newly enlisted rookie?
+???: I can't help but wonder what pushes you forward. What gives you the eagerness of a newly enlisted rookie?
 
 > **Choice 1：** I don't know.
 
-???:I'd say it's your instinct to follow the path laid out for you—to satisfy the desires of those who watch from afar.
+???: I'd say it's your instinct to follow the path laid out for you—to satisfy the desires of those who watch from afar.
 
-???:That IS your "arcane skill," isn't it?
+???: That IS your "arcane skill," isn't it?
 
 > **Choice 2：** Soldiers follow orders.
 
-???:But you're not a soldier. You're not even a Girl Scout.
+???: But you're not a soldier. You're not even a Girl Scout.
 
-???:You have no obligation to follow orders.
+???: You have no obligation to follow orders.
 
-???:Personally, I suggest you think twice before obeying a command.
+???: Personally, I suggest you think twice before obeying a command.
 
-???:After all, you're headed straight into the stronghold of the enemy.
+???: After all, you're headed straight into the stronghold of the enemy.
 
-???:In situations like these, those who blindly follow orders often end up as cannon fodder.
+???: In situations like these, those who blindly follow orders often end up as cannon fodder.
 
-???:So, keep this question in mind: Why are you looking for that writer?
+???: So, keep this question in mind: Why are you looking for that writer?
 
 
 ---
@@ -502,9 +492,9 @@ She munches down on a black gelatinous fluid in her mouth.
 
 **Nautika:** Because I used to be the same way.
 
-**Ear Worm Máhtu:**"Through Giant Mother's bones the path is laid. In bloody pain, eternal life is made."
+**Ear Worm Máhtu:** "Through Giant Mother's bones the path is laid. In bloody pain, eternal life is made."
 
-**Ear Worm Máhtu:**"The Mother Spirit's light, with ancient glow, guides us to the great current—nature's flow."
+**Ear Worm Máhtu:** "The Mother Spirit's light, with ancient glow, guides us to the great current—nature's flow."
 
 **Nautika:** Not now, little Máhtu.
 
@@ -524,7 +514,7 @@ She sidles to the window, peeking through the insulation's edge.
 
 **Nautika:** !!!
 
-**Nautika:**Please don't come over here, please, please, please.
+**Nautika:** Please don't come over here, please, please, please.
 
 A bright-haired "Snow Monster" has invaded the explorer's last refuge.
 
@@ -884,7 +874,7 @@ Her body shakes erratically, and she returns to a mantra of bizarre muttered hal
 
 Ghost Radio
 
-"So last night I picked up a really weird shortwave station." "Was it a buzzer? Or a numbers station? Could just be interference." "No, there was a woman's voice spelling letters, but it made no sense. MYDA, SEVA ... She also said something quite creepy." "Did you record it?" "Only got a few clips. Here, listen." "Mike, Yankee, Delta, Alpha ... \*static noise\*" "Sierra, Echo ... Victor, **Abandon** ... I'm the only one left ... Am I really the only one? No, I-I can't **give up**, no ... \*static noise\* Run away!" "Mike ... Yankee, Delta, ugh, what? \*static noise\* Buzzing ... the bug is in my ears ... buzz ... **Buzz, Bless ... Blasphemy**! We brought on the devil's wrath! This is **blasphemy**!"​ "Starve, **I'm so hungry** ... Is this thing edible?" "I'm close to the \*static noise\* end now." "A frozen corpse, a broken skull ... I must ... \*static noise\* ... find Mother Spirit ... guide ... \*static noise\*" "..." "Hotel, Lima, Evil ... **Providence**. The radio's not working, the radio ... I need to throw it away. **Mother Spirit, bless me**."
+"So last night I picked up a really weird shortwave station." "Was it a buzzer? Or a numbers station? Could just be interference." "No, there was a woman's voice spelling letters, but it made no sense. MYDA, SEVA ... She also said something quite creepy." "Did you record it?" "Only got a few clips. Here, listen." "Mike, Yankee, Delta, Alpha ... \*static noise\*" "Sierra, Echo ... Victor, **Abandon** ... I'm the only one left ... Am I really the only one? No, I-I can't **give up**, no ... \*static noise\* Run away!" "Mike ... Yankee, Delta, ugh, what? \*static noise\* Buzzing ... the bug is in my ears ... buzz ... **Buzz, Bless ... Blasphemy**! We brought on the devil's wrath! This is **blasphemy**!"​ "Starve,  **I'm so hungry** ... Is this thing edible?" "I'm close to the \*static noise\* end now." "A frozen corpse, a broken skull ... I must ... \*static noise\* ... find Mother Spirit ... guide ... \*static noise\*" "..." "Hotel, Lima, Evil ... **Providence**. The radio's not working, the radio ... I need to throw it away. **Mother Spirit, bless me**."
 
 - Description：This comes from the personal experience of a radio enthusiast, there's no way it could be false.
 - Action：Listen to her
@@ -932,11 +922,11 @@ Day 10.
 
 Day 15.
 
-**Nautika's Diary:**Day 15.
+**Nautika's Diary:** Day 15.
 
 Day 23.
 
-**Nautika's Diary:**Day 23.
+**Nautika's Diary:** Day 23.
 
 Day 30. Everyone is gone. Only Friele and I have survived.
 
@@ -1293,7 +1283,7 @@ She looks up with pure eagerness.
 
 **Sonetto:** Um, sorry, no.
 
-**Nautika:**N-No?
+**Nautika:** N-No?
 
 **Sonetto:** Please excuse us, miss. We have to leave now.
 
@@ -1319,13 +1309,13 @@ The station's creaking door reopens.
 
 **Nautika:** The heart of Antarctica, an arcane ritual, a vital role ...
 
-**Ear Worm Máhtu:**"The guide appears, then fades from human sight; If the devoted journey, let their songs unite."
+**Ear Worm Máhtu:** "The guide appears, then fades from human sight; If the devoted journey, let their songs unite."
 
 **Nautika:** Damn it, Nautika.
 
 **Nautika:** Little Máhtu is reciting a message from the Mother Spirit Herself. Focus!
 
-**Ear Worm Máhtu:**"The guide appears, then fades from human sight; If the devoted journey, let their songs unite."
+**Ear Worm Máhtu:** "The guide appears, then fades from human sight; If the devoted journey, let their songs unite."
 
 **Ms. Radio:** Um, hello? Can you hear me?
 
@@ -1386,8 +1376,6 @@ Nautika takes a timid step, shuffling forward like a penguin.
 She gulps a sharp breath of dry, cold air, and her voice quivers again.
 
 **Nautika:** And, wait a minute. Is there really a rescue team on the way?
-
-Meanwhile ...
 
 Meanwhile ...
 
@@ -2151,7 +2139,7 @@ As the world streaks past in a blur, panic creeps onto the backseat passenger's 
 
 **Nautika:** Fumarolic ice towers. Pull over!
 
-**Sonetto:**StŭpĕoSwift!
+**Sonetto:** Stŭpĕo Swift!
 
 **Ms. Radio:** ...
 
@@ -2429,7 +2417,7 @@ Suddenly, human-sized monstrosities swarm from unseen corners around them.
 
 The beasts snarl, breathing in and out with hungry and aggressive pants.
 
-**Sonetto:**Edèsubitosera!
+**Sonetto:** Ed è subito sera!
 
 ***
 
@@ -3555,7 +3543,7 @@ With a wave, Moldir signals her squad to hold position while she holsters her gu
 
 **Ulrich:** Are you out of your minds? This is a real grenade, you know. Powerful as 200 grams of TNT.
 
-**Moldir:**Что было, то и будет.
+**Moldir:** Что было, то и будет.
 
 The pin whips back into place. The spring retracts. Everything resets to its factory-new state.
 
@@ -4448,43 +4436,43 @@ After inspecting each patient, Moldir halts at a square desk, her silhouette gil
 
 The Measure of Loyalty
 
-???:Turn away. Cover your nose.
+???: Turn away. Cover your nose.
 
-???:Better not to look at this scene unless you're mentally prepared.
+???: Better not to look at this scene unless you're mentally prepared.
 
-???:What a mess. Surely the work of amateurs.
+???: What a mess. Surely the work of amateurs.
 
 > **Choice 1：** Then describe it in a digestible way.
 
-???:Metaphors aren't really my thing, but if you insist.
+???: Metaphors aren't really my thing, but if you insist.
 
-???:There's cream cake splattered on the wall and bread ripped and shredded all over the place.
+???: There's cream cake splattered on the wall and bread ripped and shredded all over the place.
 
-???:Then there's strawberry and chili jam—lots and lots of it. Damn! Is that a rotten grape I just stepped on?
+???: Then there's strawberry and chili jam—lots and lots of it. Damn! Is that a rotten grape I just stepped on?
 
 > **Choice 2：** Let me see for myself.
 
-???:Well, as you can see, there was more than one person here.
+???: Well, as you can see, there was more than one person here.
 
-???:How many is anybody's guess.
+???: How many is anybody's guess.
 
-???:Anyone with a sense of justice wouldn't let this happen.
+???: Anyone with a sense of justice wouldn't let this happen.
 
 > **Choice 1：** Are you mocking them?
 
-???:I'm just a soldier—a brainless follower of orders. I have no grounds to make judgments on morality. But loyalty, that I do know about.
+???: I'm just a soldier—a brainless follower of orders. I have no grounds to make judgments on morality. But loyalty, that I do know about.
 
-???:Anyone could pledge their allegiance to an undefeated commander. It's a no-brainer for most soldiers.
+???: Anyone could pledge their allegiance to an undefeated commander. It's a no-brainer for most soldiers.
 
-???:But give that commander a few heavy losses—a couple of misjudgments—and that loyalty becomes a whole lot harder to give.
+???: But give that commander a few heavy losses—a couple of misjudgments—and that loyalty becomes a whole lot harder to give.
 
-???:So, if you really want to prove how loyal you are, you should follow a stupid commander—the stupider the better. Just be sure you know what you're getting yourself into.
+???: So, if you really want to prove how loyal you are, you should follow a stupid commander—the stupider the better. Just be sure you know what you're getting yourself into.
 
-???:That lieutenant, though—she's a sure way off from being a loyal subordinate.
+???: That lieutenant, though—she's a sure way off from being a loyal subordinate.
 
-???:She must've been sick to the stomach when all this went down.
+???: She must've been sick to the stomach when all this went down.
 
-???:Heh. Just a kid.
+???: Heh. Just a kid.
 
 
 ---
@@ -4549,10 +4537,6 @@ The lead dog releases its companion's soggy tail and lowers its snout to sniff t
 
 The daylight that shines on this hinterland stretches into eternity.
 
-The daylight that shines on this hinterland stretches into eternity.
-
-Movement across the icy wastes seems meaningless without reference points, just as none could say how long the sled dogs run before their sudden halt.
-
 Movement across the icy wastes seems meaningless without reference points, just as none could say how long the sled dogs run before their sudden halt.
 
 Stone Labyrinth
@@ -4561,7 +4545,7 @@ Stone Labyrinth
 
 She pulls the harness, and the sled dogs obey in a steady and contented stop.
 
-**Ear Worm Máhtu:**"The guide appears, then fades from human sight; If the devoted journey, let their songs unite."
+**Ear Worm Máhtu:** "The guide appears, then fades from human sight; If the devoted journey, let their songs unite."
 
 **Nautika:** Máhtu was right. The Mother Spirit was right. It was the right decision to join you.
 
@@ -4932,7 +4916,7 @@ Snow and mist scatter enough light to see. The now-red sun lies hidden away.
 
 Her voice shakes as she looks into the distance, brimming with expectation.
 
-**Ear Worm Máhtu:**"Across this land the Mother's light is sown. And through all things, Her spirit clearly shown."
+**Ear Worm Máhtu:** "Across this land the Mother's light is sown. And through all things, Her spirit clearly shown."
 
 **Nautika:** This is what I came for.
 
@@ -5270,45 +5254,45 @@ Its silence an acknowledgment that they have passed the first trial.
 
 Metaphor in the Fresco
 
-???:Congratulations, you cleared the stage. Though I hardly thought it'd take you so long.
+???: Congratulations, you cleared the stage. Though I hardly thought it'd take you so long.
 
-???:The answer was right in front of you the whole time; just cover your eyes. Funny—you had to do the very thing the enemy wanted you to.
+???: The answer was right in front of you the whole time; just cover your eyes. Funny—you had to do the very thing the enemy wanted you to.
 
-???:That was your third lesson: Hands serve to control.
+???: That was your third lesson: Hands serve to control.
 
-???:As for the first and the second, well, you've already seen the digestive and excretory systems. Save us both the time and look over your logs if you're curious.
+???: As for the first and the second, well, you've already seen the digestive and excretory systems. Save us both the time and look over your logs if you're curious.
 
-???:Back to the topic. You almost died in there thanks to the false intel from your eye scouts.
+???: Back to the topic. You almost died in there thanks to the false intel from your eye scouts.
 
-???:Luckily, brain command reacted quickly enough to prevent the worst from happening.
+???: Luckily, brain command reacted quickly enough to prevent the worst from happening.
 
-???:You'd better set a second-in-command to avoid this kind of thing happening again.
+???: You'd better set a second-in-command to avoid this kind of thing happening again.
 
 > **Choice 1：** I choose my heart.
 
-???:Hmm. The ever-beating strategic center, the hub that every drop of blood must pass through, the violently beating when agitated.
+???: Hmm. The ever-beating strategic center, the hub that every drop of blood must pass through, the violently beating when agitated.
 
-???:The most reliable organ, besides the brain. Because it has to be.
+???: The most reliable organ, besides the brain. Because it has to be.
 
-???:If only it didn't have a mind of its own. That'll surely lead to destruction, whether it beats fast or slow.
+???: If only it didn't have a mind of its own. That'll surely lead to destruction, whether it beats fast or slow.
 
 > **Choice 2：** I believe my mouth can do it.
 
-???:The pass—the gate to the body, allowing thoughts to spill out and nutrition to enter.
+???: The pass—the gate to the body, allowing thoughts to spill out and nutrition to enter.
 
-???:And the minister of foreign affairs.
+???: And the minister of foreign affairs.
 
-???:But don't let it take too much charge. Otherwise, disputes and disease will fester in it.
+???: But don't let it take too much charge. Otherwise, disputes and disease will fester in it.
 
 > **Choice 1：** You should be a critic.
 
-???:It wasn't my intention to talk like a Renaissance artist.
+???: It wasn't my intention to talk like a Renaissance artist.
 
-???:But when you reflect on Michelangelo's painting on that grand ceiling, there's no choice but to do so.
+???: But when you reflect on Michelangelo's painting on that grand ceiling, there's no choice but to do so.
 
-???:The key to creating life could be either the hall of wisdom or the land of birth ...
+???: The key to creating life could be either the hall of wisdom or the land of birth ...
 
-???:So, you should understand art a little better now.
+???: So, you should understand art a little better now.
 
 
 ---
@@ -5411,7 +5395,7 @@ The captain stares out at the colossal creature as it looms closer and closer. I
 
 The captain presses the communicator on his chest.
 
-**Captain I:**Triglav to Operations—initiating detonation of the onboard array.
+**Captain I:** Triglav to Operations—initiating detonation of the onboard array.
 
 **Admiral Somme:** ...
 
@@ -5927,108 +5911,6 @@ A
 G
 
 H
-
-### Segment 2 · `script 101039`
-
-> **Title card：** Mountainside, Sanctuary
-
-**Guard**：*pant* I knew this wouldn't exactly be a Sunday stroll. Urgh!
-
-The guard pushes another obstructing boulder aside with effort.
-
-**Guard**：But I didn't think we'd literally be carving our own trail through the wilderness.
-
-**Guard**：Boss, at this rate, the world'll be in absolute bedlam by the time we reach the top.
-
-**Ulrich**：Hold on.
-
-**Ulrich**：Let me check the map Lieutenant gave me.
-
-**Guard**：Lieutenant Moldir ... As grateful as I am that she set us free—which I absolutely am—I have to say, this isn't exactly the type of freedom I imagined.
-
-There's a rustling sound.
-
-**Guard**：Who's there?
-
-The guard fumbles for her gun, only to smash her elbow against the very boulder she just moved.
-
-**Guard**：Tch! Ouch!
-
-Several critter-like creatures burst forth from the snow.
-
-**Penguins**：Gaaahh!
-
-**Penguins**：...
-
-**Guard**：...
-
-**Ulrich**：...
-
-**Ulrich**：Penguins? Here?
-
-The penguins charge toward the climbers, their beaks already pecking at the coats.
-
-**Guard**：Hey! Give that grenade back!
-
-**Guard**：Uhh. "No interference," right, boss? I mean, you're not going to make me fight a penguin, are you? Look at their little faces!
-
-**???**：All members of the Sentinel Unit Antarctic Advance Party, attention!
-
-**Ulrich**：...?
-
-The penguins wobble into a perfectly aligned row, like well-trained circus performers. Or perhaps even soldiers.
-
-**???**：Alrighty, let's see what we got here. Rookie guard, check.
-
-**???**：Awakened researcher with a fish tank for a head, check.
-
-**Buddy Fairchild**：Mr. Ulrich! Allow me to apologize for the shock my jits have given ya.
-
-**Buddy Fairchild**：They're jumpier 'n a spring cricket at the moment. Lot of 'em just lost some dear friends o' theirs after gettin' back from Florida—brutal, really.
-
-The little rodent standing before Ulrich snaps off a salute.
-
-**Ulrich**：Penguins in Florida?
-
-**Guard**：And a squirrel in Antarctica?
-
-**Buddy Fairchild**：Not just any squirrel—yer lookin' at a sergeant, missy! Sergeant Buddy Fairchild, reportin' for duty!
-
-**Buddy Fairchild**：We been waitin' here on account o' the lieutenant's order.
-
-**Buddy Fairchild**：I been tasked with bein' yer Official Antarctic guide, and it's a good thing too, 'cause ya sure ain't gon' find no one else to guide ya 'round these parts.
-
-**Guard**：The lieutenant ... You mean Moldir?
-
-**Buddy Fairchild**：Sure as shootin'. Her message came in earlier today—told me yer fixin' to scale that there mountain and gave me the job o' gettin' ya there.
-
-**Penguins**：Ga-gah!
-
-In unison, the entire penguin squad delivers a textbook Zeno salute.
-
-**Guard**：Ah, Moldir, I could kiss you!
-
-**Ulrich**：So, em, Sergeant Fairchild, you and these, uh, troops, are under Moldir's command?
-
-Ulrich struggles to process the surreal scenario.
-
-**Buddy Fairchild**：Let's skip the pleasantries, shall we? The lieutenant's orders were clear as the day is long.
-
-**Buddy Fairchild**：If ya really wanna help yer friends and save the world, then we better get yer bee-hinds up that mountain quicker 'n a cat on a hot tin roof and get that record playin'.
-
-**Buddy Fairchild**：Now let's get movin' 'fore the Manus get their ritual goin'!
-
-**Guard**："Save the world"? I had no idea she thought so highly of us.
-
-Buddy Fairchild clasps his hands behind his back, tapping the ground with his feet.
-
-**Buddy Fairchild**：Hmm. Now, let's see here.
-
-Circling Ulrich with paws still firmly behind his back, Buddy Fairchild sizes him up with a critical eye.
-
-**Buddy Fairchild**：Mountain ain't no Everest, but it's sure as a storm in July to be a tough climb for ya'll big-n-tall'uns.
-
-**Buddy Fairchild**：Well, can't never could. Buckle up, folks! I don't wanna see no bodies tumblin' down the mountain, ya hear?
 <!-- client-body:end -->
 
 </details>
@@ -6248,7 +6130,7 @@ After careful examination, Sonetto delicately extracts a manuscript from beneath
 
 **Sonetto:** He was a pioneer in ancient alchemy and medicine. Legend has it that he invented a potion that could revive the dead.
 
-REVIVETHEDEAD
+REVIVE THE DEAD
 
 A warning alarm sounds deep in her mind.
 
@@ -6935,7 +6817,7 @@ She nods and climbs into the cockpit.
 
 From her tool set, she draws out a small, arcane item.
 
-**Moldir:**Что было, то и будет.
+**Moldir:** Что было, то и будет.
 
 A stream of glimmering powder flows from her tweezers into the detached knob.
 
@@ -7388,7 +7270,7 @@ A break in her rhythm finally comes—this room holds life. Yet the occupant pos
 
 She drops into a crouch, tucking her legs in close to her chest, turning instantaneously from penguin to armadillo—in appearance, anyways.
 
-**Nautika:**Who ... Who was that?
+**Nautika:** Who ... Who was that?
 
 She summons every ounce of courage in her, forcing her head and vision up to the figure.
 
@@ -7532,9 +7414,9 @@ But beyond the door, there is only one spot of color—a pendant lying in the sn
 
 Shaking off snowflakes still clutching to her nose, she stares at the engraving.
 
-**Ear Worm Máhtu:**"Onward, child, follow the word of mouth."
+**Ear Worm Máhtu:** "Onward, child, follow the word of mouth."
 
-**Ear Worm Máhtu:**"To the Earth's edge, the land farthest south."
+**Ear Worm Máhtu:** "To the Earth's edge, the land farthest south."
 
 **Nautika:** "The Mother Spirit's light, with ancient glow, guides us to the great current—nature's flow."
 
@@ -8711,7 +8593,7 @@ Still held under the arcane skill, the believers remain frozen in place.
 
 Three figures burst in from the edge of the plaza.
 
-**Ms. Stranger:**Slæstuídjúpandvala.
+**Ms. Stranger:** Slæstu í djúpan dvala.
 
 Ms. Stranger charges through the believers, her fan-spell dazing the gate-guarding Apostle just long enough to reach back for the other two.
 
@@ -8719,7 +8601,7 @@ Ms. Stranger charges through the believers, her fan-spell dazing the gate-guardi
 
 **Vertin:** We can't just leave Nautika here! Sonetto!
 
-**Sonetto:**Edèsubitosera!
+**Sonetto:** Ed è subito sera!
 
 An incantation is cast from Sonetto's glasfeder, and Nautika's bonds begin to unwind.
 
@@ -8741,7 +8623,7 @@ Half-conscious, Nautika is tugged toward the sacred gate, her wavering vision br
 
 She sneers.
 
-**Animus:**Siemußtemichlebenlehrenodersterbenlehren.
+**Animus:** Sie mußte mich leben lehren oder sterben lehren.
 
 **Manus Believer:** \*roar\*
 
@@ -9330,10 +9212,6 @@ All eyes turn toward the deserted plaza, now strewn with the chilling aftermath.
 <!-- reader-body:start -->
 **Máhtu?**
 
-**Máhtu?**
-
-**Are you there?**
-
 **Are you there?**
 
 **Sonetto:** ...
@@ -9347,10 +9225,6 @@ All eyes turn toward the deserted plaza, now strewn with the chilling aftermath.
 **Ms. Stranger:** She's right. It's the only way to open the gate.
 
 **...**
-
-**...**
-
-**Máhtu, what are they talking about?**
 
 **Máhtu, what are they talking about?**
 
@@ -9396,25 +9270,13 @@ All eyes turn toward the deserted plaza, now strewn with the chilling aftermath.
 
 **Máhtu, do you hear them? What are they planning?**
 
-**Máhtu, do you hear them? What are they planning?**
-
 **What should we do? Should we join them?**
-
-**What should we do? Should we join them?**
-
-**Máhtu?**
 
 **Máhtu?**
 
 **I don't ... What's wrong? Why are you so quiet?**
 
-**I don't ... What's wrong? Why are you so quiet?**
-
 **Sing to me, speak to me like you used to, hum another verse of the Mother Spirit for me. Why don't you guide me?**
-
-**Sing to me, speak to me like you used to, hum another verse of the Mother Spirit for me. Why don't you guide me?**
-
-**It's because ... You were never there for me in the first place, were you?**
 
 **It's because ... You were never there for me in the first place, were you?**
 
@@ -9428,21 +9290,11 @@ All eyes turn toward the deserted plaza, now strewn with the chilling aftermath.
 
 **Máhtu, do you know where Friele went?**
 
-**Máhtu, do you know where Friele went?**
-
-**Oh, she's gone to see the Mother Spirit, hasn't she?**
-
 **Oh, she's gone to see the Mother Spirit, hasn't she?**
 
 **...**
 
-**...**
-
 **But, that woman, she said that there is no "Mother Spirit."**
-
-**But, that woman, she said that there is no "Mother Spirit."**
-
-**Then, where is Friele now?**
 
 **Then, where is Friele now?**
 
@@ -10018,39 +9870,39 @@ Opens.
 
 A Debate on Religion
 
-???:...
+???: ...
 
-???:Alright, moment of silence over.
+???: Alright, moment of silence over.
 
-???:Oh, I'm not a believer—not an atheist either. But I do respect her sacrifice.
+???: Oh, I'm not a believer—not an atheist either. But I do respect her sacrifice.
 
-???:Even if it was stupid and meaningless.
+???: Even if it was stupid and meaningless.
 
-???:But, as I said before, there's no greater proof of loyalty than to follow a fool.
+???: But, as I said before, there's no greater proof of loyalty than to follow a fool.
 
-???:At least she died for a cause—her family legacy, her spirit of exploration, even that children's fairytale.
+???: At least she died for a cause—her family legacy, her spirit of exploration, even that children's fairytale.
 
-???:She was stupid, but she was faithful.
+???: She was stupid, but she was faithful.
 
 > **Choice 1：** It happened so fast.
 
-???:Were you expecting a warning first? I thought you'd know better after what you've been through.
+???: Were you expecting a warning first? I thought you'd know better after what you've been through.
 
-???:Sorry, but you won't hear any praise from me for a sentimental commander.
+???: Sorry, but you won't hear any praise from me for a sentimental commander.
 
-???:If I were your superior, I'd tell you to rip out your own heart and let the others see what sentiment leads to.
+???: If I were your superior, I'd tell you to rip out your own heart and let the others see what sentiment leads to.
 
 > **Choice 2：** You're cold-blooded.
 
-???:Oh, come on. You and I both know this isn't the end for her.
+???: Oh, come on. You and I both know this isn't the end for her.
 
-???:For someone as devoted as her, death is nothing more than the achievement of eternal life.
+???: For someone as devoted as her, death is nothing more than the achievement of eternal life.
 
-???:She's not like those blind followers who cut off their tongues. In fact, at this very moment, I fear she's being confronted with her own beliefs.
+???: She's not like those blind followers who cut off their tongues. In fact, at this very moment, I fear she's being confronted with her own beliefs.
 
-???:Join her now, while the gate is still open.
+???: Join her now, while the gate is still open.
 
-???:Or she'll leave you behind for good.
+???: Or she'll leave you behind for good.
 
 
 ---
@@ -10129,7 +9981,7 @@ The Preacher studies him, as if weighing his contribution. After a moment, she n
 
 **Admiral Igor:** ...
 
-**Admiral Igor:**FlamoFlicker.
+**Admiral Igor:** Flamo Flicker.
 
 The moment her fingers touch the box's surface, arcane energy vanishes into void, leaving not a single mark behind.
 
@@ -10303,7 +10155,7 @@ Sonetto exchanges a glance with her, then nods, arcane energy coalescing at the 
 
 The Preacher tightens her grip on the idol, and radiance surges forth from it.
 
-**Sophia the Preacher:**Διορθωθείτοσφάλμα!
+**Sophia the Preacher:** Διορθωθεί το σφάλμα!
 
 ***
 
@@ -10337,7 +10189,7 @@ Through the mist, Sonetto jerks to an abrupt halt.
 
 The black mucus surges forward again, chasing after those attempting to flee.
 
-**Sonetto:**Regnaserenointensoedinfinito!
+**Sonetto:** Regna sereno intenso ed infinito!
 
 The arcane skill intercepts the creeping black. Sonetto steps in front of the Preacher, her glasfeder gripped tight.
 
@@ -10811,10 +10663,6 @@ A soft song tugs at the thread, guiding the way forward—the answers lie just a
 
 Come. Move forward. Step closer.
 
-Come. Move forward. Step closer.
-
-Until the memories deep within the mist are within reach.
-
 Until the memories deep within the mist are within reach.
 
 **Vertin:** What have I forgotten?
@@ -10944,8 +10792,6 @@ The hand lifts from her eyes. The figure at her bedside rises and leaves without
 No! She can't leave like this!
 
 Wake up. Shake off this warm, alluring slumber. Rise up to meet reality, harsh, but true. Try to catch that scattering wisp of wind.
-
-Wake up!
 
 Wake up!
 
@@ -11594,11 +11440,11 @@ Her feet carry her toward the sound, then stop.
 
 She turns. Faint murmurs beckon from another direction.
 
-**???:**Ver ...
+**???:** Ver ...
 
 And so she strides forward.
 
-**???:**Vertin ...
+**???:** Vertin ...
 
 **???:** Vertin!
 
@@ -12293,7 +12139,7 @@ The black liquid weaves a filament-thin net, straining to trap the soaring prey.
 
 **Nautika:** Ah! My tail! I-I can't fly!
 
-**Sonetto:**Iknowthemoon,andthisisanaliencity.
+**Sonetto:** I know the moon, and this is an alien city.
 
 A transparent shield forms in the air, blocking off the sizzling liquid.
 
@@ -13573,35 +13419,35 @@ Then she disappears into the rising tide.
 
 Gill-Breathing
 
-???:Heavy rain will eventually cause a flood. It's an obvious deduction.
+???: Heavy rain will eventually cause a flood. It's an obvious deduction.
 
-???:This is my final report. The era of mankind and birds is over, and the era of fish has begun.
+???: This is my final report. The era of mankind and birds is over, and the era of fish has begun.
 
-???:But the fish will have to wait a little longer. Because you've delayed the doomsday by about an hour.
+???: But the fish will have to wait a little longer. Because you've delayed the doomsday by about an hour.
 
-???:Every living person now owes you an hour of their lives. How big do you think your medal should be?
+???: Every living person now owes you an hour of their lives. How big do you think your medal should be?
 
 > **Choice 1：** There must be a way.
 
-???:Certainly. Even if the umbrellas don't work, you still have an ark.
+???: Certainly. Even if the umbrellas don't work, you still have an ark.
 
-???:Just as long as you only take the "qualified animals" with you, like in old times ...
+???: Just as long as you only take the "qualified animals" with you, like in old times ...
 
-???:You should be able to continue to fight.
+???: You should be able to continue to fight.
 
 > **Choice 2：** Just shut up.
 
-???:Please, let me finish my final report, even if you don't want to hear it.
+???: Please, let me finish my final report, even if you don't want to hear it.
 
-???:Thanks to gravity, those on higher ground live longer in a flood.
+???: Thanks to gravity, those on higher ground live longer in a flood.
 
-???:Which gives you plenty of time to cuddle up with your greyhound and watch the end of the world together.
+???: Which gives you plenty of time to cuddle up with your greyhound and watch the end of the world together.
 
-???:Or ... you could do what a soldier would and follow your orders till the very last moment.
+???: Or ... you could do what a soldier would and follow your orders till the very last moment.
 
-???:"Find that writer."
+???: "Find that writer."
 
-???:You know how important this mission is.
+???: You know how important this mission is.
 
 
 ---
@@ -13802,7 +13648,7 @@ The raging pool batters her slender frame, yet she and the Spinning Wheel keep b
 
 **Vertin:** ...
 
-**Vertin:**LazoLock!
+**Vertin:** Lazo Lock!
 
 An unusually successful arcane skill anchors her to the rock, defying the pull of the rushing water.
 
@@ -14102,57 +13948,57 @@ And the "Storm" begins.
 
 Breathe Again
 
-???:Another near-drowning. How nostalgic.
+???: Another near-drowning. How nostalgic.
 
-???:Take it easy. You can't move yet. Just stay right there and listen to the report.
+???: Take it easy. You can't move yet. Just stay right there and listen to the report.
 
 > **Choice 1：** Wasn't the last one the "final" report?
 
-???:Urgh …
+???: Urgh …
 
-???:Okay. You win.
+???: Okay. You win.
 
-???:You did it, noble savior. You turned the tide and saved the world at the last moment.
+???: You did it, noble savior. You turned the tide and saved the world at the last moment.
 
-???:And I didn't see it coming. There. Are you satisfied? Can we get to the report now?
+???: And I didn't see it coming. There. Are you satisfied? Can we get to the report now?
 
 > **Choice 2：** My cheek feels warm.
 
-???:It's your loyal greyhound licking your wounds. She's doing whatever she can to wake you up—another metaphor, of course. I'm sure I don't need to explain it.
+???: It's your loyal greyhound licking your wounds. She's doing whatever she can to wake you up—another metaphor, of course. I'm sure I don't need to explain it.
 
-???:Just another reason not to wake up yet. The salt water will get in your eyes ...
+???: Just another reason not to wake up yet. The salt water will get in your eyes ...
 
-???:And that'll just be embarrassing for everyone. So you just keep lying there and listen to me.
+???: And that'll just be embarrassing for everyone. So you just keep lying there and listen to me.
 
-???:You almost drowned again, but not because you're a bad swimmer.
+???: You almost drowned again, but not because you're a bad swimmer.
 
-???:No, it's because you'd rather die than let that spinning wheel go.
+???: No, it's because you'd rather die than let that spinning wheel go.
 
-???:But a spinning wheel is a spinning wheel, no matter how precious the thread it spins is—and you already have one.
+???: But a spinning wheel is a spinning wheel, no matter how precious the thread it spins is—and you already have one.
 
-???:What's the use in having two? You're the only spinner, after all.
+???: What's the use in having two? You're the only spinner, after all.
 
-???:And even if you tear it apart, its broken components can't be used to fix yours. Just because two things look alike doesn't mean they're interchangeable.
+???: And even if you tear it apart, its broken components can't be used to fix yours. Just because two things look alike doesn't mean they're interchangeable.
 
-???:This is a universal truth. Not just for spinning wheels, but for animals, fathers and sons—mothers and daughters.
+???: This is a universal truth. Not just for spinning wheels, but for animals, fathers and sons—mothers and daughters.
 
 > **Choice 1：** I need to wake up.
 
-???:Just wait a moment longer. The greyhound's looking for your hat.
+???: Just wait a moment longer. The greyhound's looking for your hat.
 
-???:This is the only thing she can think to do besides first aid measures.
+???: This is the only thing she can think to do besides first aid measures.
 
-???:It's cute, isn't it? Seeing her so naive and superstitious. We should play along for a little longer.
+???: It's cute, isn't it? Seeing her so naive and superstitious. We should play along for a little longer.
 
 > **Choice 2：** I'm done talking. Leave me alone.
 
-???:Sure, you deserve a moment of quiet, savior.
+???: Sure, you deserve a moment of quiet, savior.
 
-???:Forget about the mess out there. Take a break.
+???: Forget about the mess out there. Take a break.
 
-???:Don't rest for too long, though. The greyhound's on her way back with your hat.
+???: Don't rest for too long, though. The greyhound's on her way back with your hat.
 
-???:If you're not awake by the time she arrives, there's no telling what she'll do.
+???: If you're not awake by the time she arrives, there's no telling what she'll do.
 
 
 ---

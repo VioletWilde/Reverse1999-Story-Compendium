@@ -35,12 +35,6 @@ What is stirring beyond the wall? Calamity.
 
 —Anna Akhmatova
 
-What is lurking in the mirror? Grief.
-
-What is stirring beyond the wall? Calamity.
-
-—Anna Akhmatova
-
 **Kakania:** Just so ...
 
 **Kakania:** Look, it's no harder than tying a sailor's hitch.
@@ -1044,7 +1038,7 @@ She's taken back to her days in Vienna.
 
 **Zemfira:** Then please don't ever say that you'll give it back. And remember these words:
 
-**Zemfira:****"Disaster will fall on the shards of a broken mirror."**
+**Zemfira:** **"Disaster will fall on the shards of a broken mirror."**
 
 **Zemfira:** Don't forget.
 
@@ -1188,13 +1182,13 @@ They shake and crack, one after another, as Kakania falls back into her memories
 
 **Kakania:** ...
 
-**Middle-Aged Male:**What is this thing?
+**Middle-Aged Male:** What is this thing?
 
-**Middle-Aged Male:**It's pure blasphemy!
+**Middle-Aged Male:** It's pure blasphemy!
 
-**Middle-Aged Male:**This is hardly a mirror, let alone one to be associated with the Vingler name! It's an utter disgrace!
+**Middle-Aged Male:** This is hardly a mirror, let alone one to be associated with the Vingler name! It's an utter disgrace!
 
-**Middle-Aged Male:****Klara Vingler! What do you think you're doing?!**
+**Middle-Aged Male:** **Klara Vingler! What do you think you're doing?!**
 
 **Kakania:** ...
 
@@ -3307,7 +3301,7 @@ This table mirror has attended countless treatments, including Isolde's. Its cra
 
 **Kakania:** This belongs to you, Isolde.
 
-**Kakania:****Goodbye.**
+**Kakania:** **Goodbye.**
 
 The stand makes a noise as she puts the mirror on the marble floor, yet it doesn't wake the lucid dreamer.
 

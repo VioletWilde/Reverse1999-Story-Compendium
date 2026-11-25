@@ -30,8 +30,6 @@ Are stories buried in the depths of time.
 <!-- reader-body:start -->
 March 11, 17:26, rainy.
 
-March 11, 17:26, rainy.
-
 Route 77
 
 Our heroine stands next to the highway patrol officer, feeling a fleeting, but probing gaze laying on her.
@@ -254,8 +252,6 @@ She cracks the window fully open, and a symphony pours in—the soft, rhythmic p
 > How could a show revolving around a mundane protagonist and insignificant side characters ever become a hit?
 
 <!-- reader-body:start -->
-March 12, 18:22, rainy.
-
 March 12, 18:22, rainy.
 
 Our heroine, sheltering at the Night Owl Inn, endures a sleepless night, her mind entangled with rumors—woven from threads of misfortune, death, and crime.
@@ -484,8 +480,6 @@ The boy's eyes glimmer in the darkness, as wide and black as a baby deer caught 
 <!-- reader-body:start -->
 March 13, 00:04, cloudy.
 
-March 13, 00:04, cloudy.
-
 The storm subsides, and the moonlight casts a dark indigo hue over the horizon, like a bruise.
 
 The boy crawls out of the closet.
@@ -668,8 +662,6 @@ She is struck hard on the left side of her head, and her vision fades to black.
 <!-- reader-body:start -->
 March 13, 14:28, rainy.
 
-March 13, 14:28, rainy.
-
 The phone rings, and heavy steps echo across the empty lobby of the Night Owl Inn. He finds no clerk, only a note on the front desk in neat, flowing handwriting.
 
 He doesn't pick up the phone but waits for it to go to the answering machine.
@@ -798,8 +790,6 @@ Please, you've gotta help me!
 > The fire fulfills its blazing duty, quietly humming a song of its own.
 
 <!-- reader-body:start -->
-March 13, 20:30, rainy.
-
 March 13, 20:30, rainy.
 
 Just like in so many horror movies, the villain is never killed off right away, but he's weakened for the moment—a crucial moment.
@@ -1135,8 +1125,6 @@ She pulls a watch from her pocket and hands it to him.
 **Jack:** But Blonney, I'm not ...
 
 **Blonney:** Yes, you are, Jack.
-
-March 14, 18:00, clear.
 
 March 14, 18:00, clear.
 

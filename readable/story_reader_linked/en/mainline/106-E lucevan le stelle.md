@@ -54,7 +54,7 @@ Meeting Hall
 
 **Dr. Schwartz:** It is a great honor!
 
-**Dr. Schwartz:****As we can see, dear friends, the era of science has arrived, THE ERA OF MAN HAS ARRIVED! Today, we will share the honor of witnessing the advancement of technology, its contributions to medical science and even the world.**
+**Dr. Schwartz:** **As we can see, dear friends, the era of science has arrived, THE ERA OF MAN HAS ARRIVED! Today, we will share the honor of witnessing the advancement of technology, its contributions to medical science and even the world.**
 
 **Dr. Schwartz:** Now please allow me to introduce the patient again: Ms. Isolde von Dittarsdorf. This lady has selflessly volunteered for the experiment, and in return will receive a healthy mind in no time.
 
@@ -442,55 +442,55 @@ The gentleman's face cracks with expression.
 
 A Doctor Interpreting Dreams
 
-???:\*breath in\* \*breath out\* O-oh, you're here? Not a good time. As you can see, my eyes are barely open.
+???: \*breath in\* \*breath out\* O-oh, you're here? Not a good time. As you can see, my eyes are barely open.
 
-???:\*sighs\* In the blink of an eye, my dream slips away like a deer into the deep of the forest.
+???: \*sighs\* In the blink of an eye, my dream slips away like a deer into the deep of the forest.
 
 > **Choice 1：** You were dreaming? Really?
 
-???:Heh, what kind of question is that? You make it sound like me dreaming is the most ridiculous thing in the world!
+???: Heh, what kind of question is that? You make it sound like me dreaming is the most ridiculous thing in the world!
 
-???:I have to remind you, except for some out-dated wisdom, there is nothing different between your head and mine, dearie.
+???: I have to remind you, except for some out-dated wisdom, there is nothing different between your head and mine, dearie.
 
 > **Choice 1：** What did you dream of?
 
-???:I'm as curious about that as you are.
+???: I'm as curious about that as you are.
 
-???:You could always allow me to return to my soft bed to try to summon that dream again. But even then, it likely won't be the same dream.
+???: You could always allow me to return to my soft bed to try to summon that dream again. But even then, it likely won't be the same dream.
 
-???:See, we seldom remember our dreams, and even what we don't forget can be hard to understand. And that's why we need a dream interpreter.
+???: See, we seldom remember our dreams, and even what we don't forget can be hard to understand. And that's why we need a dream interpreter.
 
-???:A doctor that values Shakespeare above his patients, and cigars above his own career—a doctor like Sigmund Freud.
+???: A doctor that values Shakespeare above his patients, and cigars above his own career—a doctor like Sigmund Freud.
 
-???:He lures out forgotten memories from your past, through a technique called "free association." Through this, he can reveal what makes you who you are.
+???: He lures out forgotten memories from your past, through a technique called "free association." Through this, he can reveal what makes you who you are.
 
-???:All you need to do is to lie on the sofa, and spill out your thoughts like old milk.
+???: All you need to do is to lie on the sofa, and spill out your thoughts like old milk.
 
-???:Once you do that, your mental health will surely improve. The sleepwalkers stop falling out of their beds, the hysterical go back to their sewing, with enough time maybe Nietzsche could write a comedy.
+???: Once you do that, your mental health will surely improve. The sleepwalkers stop falling out of their beds, the hysterical go back to their sewing, with enough time maybe Nietzsche could write a comedy.
 
-???:"But what about the medical journals?" You may ask. He must have released them. Otherwise, how could we prove the effectiveness of his treatments?
+???: "But what about the medical journals?" You may ask. He must have released them. Otherwise, how could we prove the effectiveness of his treatments?
 
-???:And he has. You can read them in journals, in the text books, and hear them in the chattering of medical students—
+???: And he has. You can read them in journals, in the text books, and hear them in the chattering of medical students—
 
-???:Your name will be blacked out on the pages by then, but your dreams will become the latest gossip on everyone's lips.
+???: Your name will be blacked out on the pages by then, but your dreams will become the latest gossip on everyone's lips.
 
 > **Choice 1：** It's not good for the patients.
 
-???:Oh my dear, all medicine has side effects. The best medicine is bitter to the taste.
+???: Oh my dear, all medicine has side effects. The best medicine is bitter to the taste.
 
-???:It must be tolerated for the sake of the treatment. How else will these patients free themselves from their mental cages of unconscious desire and delusion?
+???: It must be tolerated for the sake of the treatment. How else will these patients free themselves from their mental cages of unconscious desire and delusion?
 
-???:It really is the smallest of prices—a mere coffee stain on your shirt, just telling a few people about an unlucky moment or two.
+???: It really is the smallest of prices—a mere coffee stain on your shirt, just telling a few people about an unlucky moment or two.
 
-???:Besides, the patient does not give a name. The true protagonist remains a secret between you and the doctor.
+???: Besides, the patient does not give a name. The true protagonist remains a secret between you and the doctor.
 
-???:Heh. Perhaps you're right. It's not the only way ...
+???: Heh. Perhaps you're right. It's not the only way ...
 
 > **Choice 1：** What's the other, then?
 
-???:Come, listen ... Do you hear that? That shrill, piercing sound of metal on the skull, the blood-cuddling screams ... Even the strongest soul would quake in fear.
+???: Come, listen ... Do you hear that? That shrill, piercing sound of metal on the skull, the blood-cuddling screams ... Even the strongest soul would quake in fear.
 
-???:But this is the other way. However, funny enough, some people prefer the pain. It ends faster than a hard talk with the doctor.
+???: But this is the other way. However, funny enough, some people prefer the pain. It ends faster than a hard talk with the doctor.
 
 ### Trail · Trail ① Theater Impressions
 
@@ -498,85 +498,85 @@ A Doctor Interpreting Dreams
 
 Theater Impressions
 
-???:Hey, you! Yes, you, my hurried child, you rush through the street like a cyclone ... Where are you going?
+???: Hey, you! Yes, you, my hurried child, you rush through the street like a cyclone ... Where are you going?
 
 > **Choice 1：** I can't be late for the show!
 
-???:A show, a show! So you came to Vienna for the love of stories. That's for sure.
+???: A show, a show! So you came to Vienna for the love of stories. That's for sure.
 
-???:Then this is just the right place for you. A place where the floors are decorated with gold, where music sings along with the stories ... Even a newcomer could be entranced here.
+???: Then this is just the right place for you. A place where the floors are decorated with gold, where music sings along with the stories ... Even a newcomer could be entranced here.
 
-???:Oh, listen to me! You must not be a newcomer, but a true connoisseur! Well, before you leave, may I ask a simple question?
+???: Oh, listen to me! You must not be a newcomer, but a true connoisseur! Well, before you leave, may I ask a simple question?
 
-???:Which act in a show do you prefer?
+???: Which act in a show do you prefer?
 
 > **Choice 1：** Act One.
 
-???:Oh! Well begun is half done! You're always right to the point. We should know how a story starts and when we have stepped onto the path of fate.
+???: Oh! Well begun is half done! You're always right to the point. We should know how a story starts and when we have stepped onto the path of fate.
 
 > **Choice 2：** Act Three.
 
-???:Haha! The rising action! The most thrilling part, like biting into the filling of an apple strudel—you're about to have the sweetest part!
+???: Haha! The rising action! The most thrilling part, like biting into the filling of an apple strudel—you're about to have the sweetest part!
 
 > **Choice 3：** Act Five.
 
-???:Yes, of course! The resolution, coming to its fated ending. We stand up and cheer, or stay in our seats and weep ... Our reward for not falling asleep during the intermission, worth every krone you've paid.
+???: Yes, of course! The resolution, coming to its fated ending. We stand up and cheer, or stay in our seats and weep ... Our reward for not falling asleep during the intermission, worth every krone you've paid.
 
 > **Choice 4：** Every part of it.
 
-???:Haha, so greedy. It's a tough choice, isn't it? But you can't escape from making decisions.
+???: Haha, so greedy. It's a tough choice, isn't it? But you can't escape from making decisions.
 
-???:Do you know which act I love the most? Not Act One, nor Three or Five ...
+???: Do you know which act I love the most? Not Act One, nor Three or Five ...
 
-???:But Six. Oh! Act Six, my dear, that's the best part.
+???: But Six. Oh! Act Six, my dear, that's the best part.
 
-???:The part in which the king picks up his fallen head; the knight pulls out the sword in his chest; the bodies stand up, dust their clothes and come to the front of the stage, bow to the audience and receive their applause ...
+???: The part in which the king picks up his fallen head; the knight pulls out the sword in his chest; the bodies stand up, dust their clothes and come to the front of the stage, bow to the audience and receive their applause ...
 
 > **Choice 1：** That's not really a part of the performance ...
 
-???:Yes, it is! My child, that is precisely when the real show begins.
+???: Yes, it is! My child, that is precisely when the real show begins.
 
-???:I have a good script here. Let me put on my glasses ... Hmm ... Let's start from ... from Act Six.
+???: I have a good script here. Let me put on my glasses ... Hmm ... Let's start from ... from Act Six.
 
-???:The princess, a nightingale decorated with diamonds, an opera singer taking center stage, steps into a building of gray-and-white diamond patterns.
+???: The princess, a nightingale decorated with diamonds, an opera singer taking center stage, steps into a building of gray-and-white diamond patterns.
 
-???:"And the curtain falls forever. The smile on her face seems too serene. She is still dreaming."
+???: "And the curtain falls forever. The smile on her face seems too serene. She is still dreaming."
 
-???:"Her madness keeps them all alert. But in the court, she seems so meek and mentally steady, like a docked boat on calm waters."
+???: "Her madness keeps them all alert. But in the court, she seems so meek and mentally steady, like a docked boat on calm waters."
 
-???:"Nodding elegantly to every gentleman she meets, she makes the shackle on her neck look like a piece of dazzling jewelry."
+???: "Nodding elegantly to every gentleman she meets, she makes the shackle on her neck look like a piece of dazzling jewelry."
 
-???:Next page ... oh.
+???: Next page ... oh.
 
 > **Choice 1：** What happened?
 
-???:"In a transparent room, under an unyielding limelight, her dignity is stomped on, like a silk handkerchief thrown on the ground. They smash her crown, forcing her to pay for her madness."
+???: "In a transparent room, under an unyielding limelight, her dignity is stomped on, like a silk handkerchief thrown on the ground. They smash her crown, forcing her to pay for her madness."
 
 > **Choice 1：** Is she mad?
 
-???:No ... not anymore.
+???: No ... not anymore.
 
-???:"'Sleep, she said to me, sleep. If that's what she said, then I don't need to wake up.'"
+???: "'Sleep, she said to me, sleep. If that's what she said, then I don't need to wake up.'"
 
-???:"That's when the star falls into an ever-lasting dream. The blinding light becoming a spotlight on the stage; the empty room carrying the best reverberations. She has never been so calm. Everything beautiful in her is there forever, frozen in time."
+???: "That's when the star falls into an ever-lasting dream. The blinding light becoming a spotlight on the stage; the empty room carrying the best reverberations. She has never been so calm. Everything beautiful in her is there forever, frozen in time."
 
 > **Choice 1：** I guess she went completely insane.
 
-???:Or found eternal peace.
+???: Or found eternal peace.
 
-???:"Her world has become the performance. A show that never ends."
+???: "Her world has become the performance. A show that never ends."
 
-???:I'll say she's a great actress, isn't she?
+???: I'll say she's a great actress, isn't she?
 
 > **Choice 1：** But this is not a good story. I think it needs more context.
 
-???:Hahaha, my dear. You are indeed a great connoisseur.
+???: Hahaha, my dear. You are indeed a great connoisseur.
 
-???:Only one act of a play can't tell a good story by itself.
+???: Only one act of a play can't tell a good story by itself.
 
-???:Oh, forgive my ramblings. The golden curtain has risen.
+???: Oh, forgive my ramblings. The golden curtain has risen.
 
-???:Fix your collar, darling, and keep moving forward.
+???: Fix your collar, darling, and keep moving forward.
 
 
 ---
@@ -1081,7 +1081,7 @@ The young student straightens up. Her mentor catches her emotion and replies uns
 
 Suggestion Box Samples
 
-**Title: Feedback on "Faces"****Submitter:**■■ **Content:**Who thought the Michael and Jason horror masks were a good idea? And what's with the creepy face of the little tank engine? Enough already, my heart can't take this!**Collection Point:**Laplace ■■ Department, First Floor. **Collection Date:**■/28 **Reply Received on ■/30:**This plan was recommended anonymously with the intention of using familiar characters to create a sense of closeness among employees. However, these masks failed to achieve the desired effect. Mask Plan Mark II has now been initiated. —————————— **Title: Fourth Floor, Keep an Eye on Your Test Animals!****Submitter:**Tom Evans **Content:**Stop letting your spiders run wild—they've already eaten six of our Madagascar hissing cockroaches! This is seriously affecting our progress! These are crucial pieces of experimental data and research that are at stake here!**Collection Point:**Laplace Headquarters, Fourth Floor. **Collection Date:**■/3 **Reply Received on ■/30:**Look, just because we're researching the Spider Tail doesn't mean we're responsible for any of this. Our Spider Tails don't even contain actual spider parts! Maybe you should ask the third floor instead, they're the ones studying the hydraulic legs. —————————— **Title: Sincere Advice for Madam Lucy****Submitter:**A person with a single letter for his name. **Content:**Given that Madam Lucy is an incredibly sophisticated computer with no emotional modules, and I am a carbon-based life form naturally equipped with such modules, I would like to make some modest suggestions. It could be beneficial for Madam Lucy to learn more about interacting with our carbon-based employees. This includes not entering their offices without prior notice, developing a better sense of humor, and not removing important components from their delicate machinery. **Collection Point:**Laplace Headquarters, next to the Director's office. **Collection Date:**■/■ **Reply Received on ■/31:**Hello, X. The set of devices you designed is unnecessarily complicated—the work it is doing far exceeds the joules needed to brew a pot of coffee under normal conditions, so I made some adjustments. As for your other points, I noticed today that my office wall is now covered with fake 230V sockets. Is this what you call a sense of humor?
+**Title: Feedback on "Faces"** **Submitter:** ■■ **Content:** Who thought the Michael and Jason horror masks were a good idea? And what's with the creepy face of the little tank engine? Enough already, my heart can't take this! **Collection Point:** Laplace ■■ Department, First Floor. **Collection Date:** ■/28 **Reply Received on ■/30:** This plan was recommended anonymously with the intention of using familiar characters to create a sense of closeness among employees. However, these masks failed to achieve the desired effect. Mask Plan Mark II has now been initiated. —————————— **Title: Fourth Floor, Keep an Eye on Your Test Animals!** **Submitter:** Tom Evans **Content:** Stop letting your spiders run wild—they've already eaten six of our Madagascar hissing cockroaches! This is seriously affecting our progress! These are crucial pieces of experimental data and research that are at stake here! **Collection Point:** Laplace Headquarters, Fourth Floor. **Collection Date:** ■/3 **Reply Received on ■/30:** Look, just because we're researching the Spider Tail doesn't mean we're responsible for any of this. Our Spider Tails don't even contain actual spider parts! Maybe you should ask the third floor instead, they're the ones studying the hydraulic legs. —————————— **Title: Sincere Advice for Madam Lucy** **Submitter:** A person with a single letter for his name. **Content:** Given that Madam Lucy is an incredibly sophisticated computer with no emotional modules, and I am a carbon-based life form naturally equipped with such modules, I would like to make some modest suggestions. It could be beneficial for Madam Lucy to learn more about interacting with our carbon-based employees. This includes not entering their offices without prior notice, developing a better sense of humor, and not removing important components from their delicate machinery. **Collection Point:** Laplace Headquarters, next to the Director's office. **Collection Date:** ■/■ **Reply Received on ■/31:** Hello, X. The set of devices you designed is unnecessarily complicated—the work it is doing far exceeds the joules needed to brew a pot of coffee under normal conditions, so I made some adjustments. As for your other points, I noticed today that my office wall is now covered with fake 230V sockets. Is this what you call a sense of humor?
 
 - Description：An effective way for interdepartmental communication and understanding the needs of all employees.
 - Action：Read Suggestions
@@ -1729,7 +1729,7 @@ The apprentice halts her speech, cowed by Hofmann's warning.
 
 St. Pavlov Foundation Vienna Branch Employee Notes
 
-**Procedure for Requesting the Dispelling of a Mute Incantation (Simplified Version)****1. Initiating the Application** The applicant must go to the administrative desk of the St. Pavlov Foundation, Vienna Branch - Austro-Hungarian Empire Internal Security Department - Austro-Hungarian Empire Public Security Bureau with a ticket to receive the Joint Processing Application Form. **2. Filling Out the Form** The applicant must fill out the application form truthfully and submit it to the administrative desk of the Austro-Hungarian Empire Public Security Bureau, where the administrative staff will conduct a preliminary review. **3. Commencement of the Dispelling Procedure** After the administrative staff has conducted a preliminary review, the form will be submitted to the Social Responsibility Monitoring Group of the St. Pavlov Foundation, Vienna Branch - Austro-Hungarian Empire Internal Security Department - Austro-Hungarian Empire Public Security Bureau for risk assessment. **4. Commencement of the Assessment** Members of the Social Responsibility Monitoring Group will conduct a detailed investigation and assessment of the applicant, fill out their review comments, and submit them to the team leader. **5. Secondary Approval** The team leader will then summarize the review comments and submit them to the director of the Public Affairs Bureau for a secondary approval, who will then submit the application to the Internal Affairs Department. **6. Completion of the Process** Upon approval, the director of the Public Affairs Bureau will initiate an interdepartmental collaboration process and send the comments of the secondary approval to the Harm Prevention Office, which will then issue a notification letter to the administrative desk. **7. Execution of the Dispel** Upon receipt of the notification letter, the administrative desk will archive it and issue another notification letter informing the applicant to participate in the mute incantation dispel ritual. Don't forget any of the steps or you'll regret it! This is my third @#&\* time starting over! D\*\*n it all. I don't ever want to fill out these d\*\*n forms again!
+**Procedure for Requesting the Dispelling of a Mute Incantation (Simplified Version)** **1. Initiating the Application** The applicant must go to the administrative desk of the St. Pavlov Foundation, Vienna Branch - Austro-Hungarian Empire Internal Security Department - Austro-Hungarian Empire Public Security Bureau with a ticket to receive the Joint Processing Application Form. **2. Filling Out the Form** The applicant must fill out the application form truthfully and submit it to the administrative desk of the Austro-Hungarian Empire Public Security Bureau, where the administrative staff will conduct a preliminary review. **3. Commencement of the Dispelling Procedure** After the administrative staff has conducted a preliminary review, the form will be submitted to the Social Responsibility Monitoring Group of the St. Pavlov Foundation, Vienna Branch - Austro-Hungarian Empire Internal Security Department - Austro-Hungarian Empire Public Security Bureau for risk assessment. **4. Commencement of the Assessment** Members of the Social Responsibility Monitoring Group will conduct a detailed investigation and assessment of the applicant, fill out their review comments, and submit them to the team leader. **5. Secondary Approval** The team leader will then summarize the review comments and submit them to the director of the Public Affairs Bureau for a secondary approval, who will then submit the application to the Internal Affairs Department. **6. Completion of the Process** Upon approval, the director of the Public Affairs Bureau will initiate an interdepartmental collaboration process and send the comments of the secondary approval to the Harm Prevention Office, which will then issue a notification letter to the administrative desk. **7. Execution of the Dispel** Upon receipt of the notification letter, the administrative desk will archive it and issue another notification letter informing the applicant to participate in the mute incantation dispel ritual. Don't forget any of the steps or you'll regret it! This is my third @#&\* time starting over! D\*\*n it all. I don't ever want to fill out these d\*\*n forms again!
 
 - Description：A crucial transcription, meticulously transcribed in bold for emphasis.
 - Action：Read
@@ -2329,59 +2329,59 @@ Her eyes center on the door of the Secession Building.
 
 The Mitosis
 
-???:Look at this, dearie. This kind of hand mirror has become the latest fashion. Oh, it's a trifling thing, but people like me have to stay in the loop to make a living.
+???: Look at this, dearie. This kind of hand mirror has become the latest fashion. Oh, it's a trifling thing, but people like me have to stay in the loop to make a living.
 
-???:Come here. Gaze into the mirror, and fix your hat. What do you see? Do you like what you see?
+???: Come here. Gaze into the mirror, and fix your hat. What do you see? Do you like what you see?
 
 > **Choice 1：** I feel as if I can see all of Vienna.
 
-???:A clever answer! I can tell you will fit right in here.
+???: A clever answer! I can tell you will fit right in here.
 
-???:But there is still much left to see beyond the mirror. Oh. The young folk step to an ever-changing waltz. If you want to follow their trends, you'll need perfect timing to join the swirling dance.
+???: But there is still much left to see beyond the mirror. Oh. The young folk step to an ever-changing waltz. If you want to follow their trends, you'll need perfect timing to join the swirling dance.
 
-???:Some have fallen behind. They lounge by the fountains of the park, bemoaning their lives and the price of rent. Come the next banquet and exhibition, they arrive wearing a new fine coat, but underneath their linens are ragged and old.
+???: Some have fallen behind. They lounge by the fountains of the park, bemoaning their lives and the price of rent. Come the next banquet and exhibition, they arrive wearing a new fine coat, but underneath their linens are ragged and old.
 
-???:The mirror's reflection held a silver sheen once. Now it's tarnished at the edges.
+???: The mirror's reflection held a silver sheen once. Now it's tarnished at the edges.
 
 > **Choice 2：** I, I ... I!
 
-???:Oh, look at our little artist in the mirror.
+???: Oh, look at our little artist in the mirror.
 
-???:Something of a narcissist, then? No, I'm not laughing at you. In this place, valuing one's uniqueness, one's own voice is much to be desired.
+???: Something of a narcissist, then? No, I'm not laughing at you. In this place, valuing one's uniqueness, one's own voice is much to be desired.
 
-???:You have to be loud enough, firm enough to show no fear, nor hesitation. So that at the end of the waltz, you will have the strength to break their instruments.
+???: You have to be loud enough, firm enough to show no fear, nor hesitation. So that at the end of the waltz, you will have the strength to break their instruments.
 
 > **Choice 3：** It's broken.
 
-???:Is that so? Oh, has something gone wrong? Did an old lady like me waste her money?
+???: Is that so? Oh, has something gone wrong? Did an old lady like me waste her money?
 
-???:Or, perhaps what it reflects is the "truth."
+???: Or, perhaps what it reflects is the "truth."
 
-???:The mirror shows reality, nothing more, nothing less. So, it may be that there is nothing to see, or it may be something that can't be seen.
+???: The mirror shows reality, nothing more, nothing less. So, it may be that there is nothing to see, or it may be something that can't be seen.
 
-???:But things change, darling, especially in this city. Like an avalanche taking everything in its path, changing them irrecoverably and inevitably.
+???: But things change, darling, especially in this city. Like an avalanche taking everything in its path, changing them irrecoverably and inevitably.
 
-???:So next time when you look into a mirror like this, you may just see something else. Be patient.
+???: So next time when you look into a mirror like this, you may just see something else. Be patient.
 
 > **Choice 1：** So?
 
-???:So, in the warmth of spring, the ice cracks deeper. One splinters into two, and each begins to splinter again.
+???: So, in the warmth of spring, the ice cracks deeper. One splinters into two, and each begins to splinter again.
 
-???:They set up the mirror and lift the cloth exposing to light—the good, the bad, and what lies beyond them both.
+???: They set up the mirror and lift the cloth exposing to light—the good, the bad, and what lies beyond them both.
 
-???:Then the factions split and then split again. "Secessionists," by their nature, are not in the business of keeping things together. They won't stop the fractures—they can't.
+???: Then the factions split and then split again. "Secessionists," by their nature, are not in the business of keeping things together. They won't stop the fractures—they can't.
 
-???:In lifting the cloth and seeing their reflection, they scatter themselves like dandelion seeds in the wind.
+???: In lifting the cloth and seeing their reflection, they scatter themselves like dandelion seeds in the wind.
 
 > **Choice 1：** Where are they going?
 
-???:Oh, I don't know where, but I do know what they're doing. Some of them still paint with gold leaf, others believe they must depict what is real, some depict the ravings of their dreams, some seek to change the streets into works of art, and others drive out all meaning from their work.
+???: Oh, I don't know where, but I do know what they're doing. Some of them still paint with gold leaf, others believe they must depict what is real, some depict the ravings of their dreams, some seek to change the streets into works of art, and others drive out all meaning from their work.
 
-???:The only time they ever reach an agreement is just before they lift the cloth from the mirror.
+???: The only time they ever reach an agreement is just before they lift the cloth from the mirror.
 
-???:Before the Potemkin village with all its empty facades moves somewhere else, some of them might just achieve their ends.
+???: Before the Potemkin village with all its empty facades moves somewhere else, some of them might just achieve their ends.
 
-???:To be like the golden cabbage sitting atop its dome over the Ring Road—to be recognized by everyone.
+???: To be like the golden cabbage sitting atop its dome over the Ring Road—to be recognized by everyone.
 
 
 ---
@@ -2470,7 +2470,7 @@ In the candlelight, Isolde's face is deathly pale.
 
 The woman pulls Kakania down by her collar.
 
-**Isolde:**Please look at me, Doctor! Help me? Please help me!
+**Isolde:** Please look at me, Doctor! Help me? Please help me!
 
 **Kakania:** I will, Isolde. Now let go of me first.
 
@@ -2893,7 +2893,7 @@ She turns, colliding with a pair of light-colored eyes.
 
 Despite the distance, it feels as though Isolde is gazing back at her.
 
-**Marcus:****People can be "read" too. That person, Ms. Isolde ...**
+**Marcus:** **People can be "read" too. That person, Ms. Isolde ...**
 
 A deep breath. The page unfolds before her eyes once again.
 
@@ -3269,45 +3269,45 @@ Karl meets Hofmann's eyes in another overly affable attempt at good nature.
 
 The Weight of a Name
 
-???:Let's start our conversation with a simple exercise. First, please repeat after me: Dittarsdorf.
+???: Let's start our conversation with a simple exercise. First, please repeat after me: Dittarsdorf.
 
-???:After all the days you've spent in Vienna, you should be familiar with the name. Tell me, how do you feel about it?
+???: After all the days you've spent in Vienna, you should be familiar with the name. Tell me, how do you feel about it?
 
 > **Choice 1：** Nothing worth mentioning.
 
-???:Nothing indeed. Well, you've become numb to it after hearing it so many times, on the street corners, in the cafes, every place you go.
+???: Nothing indeed. Well, you've become numb to it after hearing it so many times, on the street corners, in the cafes, every place you go.
 
-???:You can't blame them for that. Most at least speak kindly of them, so long as you don't pick up on the venom hiding in their words.
+???: You can't blame them for that. Most at least speak kindly of them, so long as you don't pick up on the venom hiding in their words.
 
-???:These days, to be an opera singer is more glorious than any noble title; it supersedes them all! The Dittarsdorfs are the true nobles, the ones who can create art through "channeling."
+???: These days, to be an opera singer is more glorious than any noble title; it supersedes them all! The Dittarsdorfs are the true nobles, the ones who can create art through "channeling."
 
 > **Choice 2：** Seems like it's a word as heavy as lead.
 
-???:Haha, you are making light of it again. But fair enough, you're new here, not as familiar with this name as those who live here, murmuring it in their dreams.
+???: Haha, you are making light of it again. But fair enough, you're new here, not as familiar with this name as those who live here, murmuring it in their dreams.
 
-???:Most of the time, it swirls invisibly through the conversations on the street; other times, it is tangible in the signatures of the exhibits, seen in the performances and the metal badges clinging to collars ... and always in the boys and girls who inherit the Dittarsdorf talents.
+???: Most of the time, it swirls invisibly through the conversations on the street; other times, it is tangible in the signatures of the exhibits, seen in the performances and the metal badges clinging to collars ... and always in the boys and girls who inherit the Dittarsdorf talents.
 
-???:And just like that, they are thrust into the role of the outstanding Dittarsdorfs, the lady songbird and the artistic painter.
+???: And just like that, they are thrust into the role of the outstanding Dittarsdorfs, the lady songbird and the artistic painter.
 
 > **Choice 1：** In truth, I don't know much at all about these "Dittarsdorf."
 
-???:Oh, of course. Well, then, high time to tell you about them.
+???: Oh, of course. Well, then, high time to tell you about them.
 
-???:Vienna, at present, is a splendid, crumbling house. Whenever the waltz starts playing, the roof trembles along with the music. While the dancing crowd—and funny that it is a crowd—none of them dare look up at it!
+???: Vienna, at present, is a splendid, crumbling house. Whenever the waltz starts playing, the roof trembles along with the music. While the dancing crowd—and funny that it is a crowd—none of them dare look up at it!
 
-???:The people here live in identical, pretty, little houses, the social classes smoothed out like butter on a cake. Now, works of art become their icons, and in their madness, they scramble to make these beautiful, dazzling things.
+???: The people here live in identical, pretty, little houses, the social classes smoothed out like butter on a cake. Now, works of art become their icons, and in their madness, they scramble to make these beautiful, dazzling things.
 
-???:The Dittarsdorfs, nobles who can perform channeling, are made to perform like dancing animals in a circus. Businessmen and nobles clamoring to sponsor their performances in order to glorify themselves.
+???: The Dittarsdorfs, nobles who can perform channeling, are made to perform like dancing animals in a circus. Businessmen and nobles clamoring to sponsor their performances in order to glorify themselves.
 
-???:The noble ladies prefer to curate the finest acts, highlighting their good taste and fashionability, while the lordlings seem to prefer new and hidden talents as some example of their virtue.
+???: The noble ladies prefer to curate the finest acts, highlighting their good taste and fashionability, while the lordlings seem to prefer new and hidden talents as some example of their virtue.
 
-???:How, then, could a good singer ever miss a performance? But she must, to take her chance, seizing the lovely bird in her hand—that poor, noble little bird, because people said that she was born with madness.
+???: How, then, could a good singer ever miss a performance? But she must, to take her chance, seizing the lovely bird in her hand—that poor, noble little bird, because people said that she was born with madness.
 
 > **Choice 1：** ...
 
-???:And it is in this act of "fighting against her madness" that she proves herself proper among the noble ladies.
+???: And it is in this act of "fighting against her madness" that she proves herself proper among the noble ladies.
 
-???:She knows better than anyone why a piece of art is valuable, and how to make it worth even more.
+???: She knows better than anyone why a piece of art is valuable, and how to make it worth even more.
 
 
 ---
@@ -3532,7 +3532,7 @@ A long, deep breath.
 
 Their collective gaze causes her voice to tremble slightly.
 
-**Marcus:**Err, ahh, the crowd ... shoot me, I want to go home ... Why oh why did you apply for this mission, Marcus ...
+**Marcus:** Err, ahh, the crowd ... shoot me, I want to go home ... Why oh why did you apply for this mission, Marcus ...
 
 Despite her mental turmoil, she extends her hand, attempting to ascend with some dignity intact, or at least without resorting to crawling.
 
@@ -3968,7 +3968,7 @@ Kakania leaps, alighting herself onto the window frame with the lightness of a b
 
 A Notebook Covered in Mud and Blood
 
-**Page One** Duels are not for the purpose of self-■■■■■■■■■■—they are to demonstrate one's chiv■■■■, to uphold the honor of one's lord or oneself. Do not initiate ■■■■■■■■ over trivial matters. ——————————————————————— **A duel! You don't want to miss it!** When one party is insulted, they may issue a challenge to the insulting party. The challenged party must either accept or ■■■■■■ like a little rat, humil■■■■■ in front of everyone. Challenge by mail ■■■■■■■■■, by throwing down the gauntlet (silk or leather), or by verbal ■■■■■■■■. ——————————————————————— **Maybe a verbal one is better ...****Page Two** Both parties of the duel should bring an assistant and a doctor. After agreeing on the terms and conditions of defeat (perhaps when one party is ■■■■■■■■■■■■■, or one party di■■, ■■■■■■■■ shall stop after firing three shots), the duel can officially begin. ——————————————————————— **Must so many people be involved?****Page Three** Pistolet Modèle 1733 **Expensive** Colt M1873 **Expensive** Smith & Wesson Model 1 **This one is good.**
+**Page One** Duels are not for the purpose of self-■■■■■■■■■■—they are to demonstrate one's chiv■■■■, to uphold the honor of one's lord or oneself. Do not initiate ■■■■■■■■ over trivial matters. ——————————————————————— **A duel! You don't want to miss it!** When one party is insulted, they may issue a challenge to the insulting party. The challenged party must either accept or ■■■■■■ like a little rat, humil■■■■■ in front of everyone. Challenge by mail ■■■■■■■■■, by throwing down the gauntlet (silk or leather), or by verbal ■■■■■■■■. ——————————————————————— **Maybe a verbal one is better ...**  **Page Two** Both parties of the duel should bring an assistant and a doctor. After agreeing on the terms and conditions of defeat (perhaps when one party is ■■■■■■■■■■■■■, or one party di■■, ■■■■■■■■ shall stop after firing three shots), the duel can officially begin. ——————————————————————— **Must so many people be involved?** **Page Three** Pistolet Modèle 1733 **Expensive** Colt M1873 **Expensive**  Smith & Wesson Model 1 **This one is good.**
 
 - Description：Includes muck, traces of blood, and expensive means of preserving one's dignity.
 - Action：Pick It Up
@@ -4110,9 +4110,9 @@ On the verge of tears, Marcus desperately falls back to the Field Mission Manual
 
 **Marcus:** ...
 
-**Marcus:**Now's my chance. I still have one "Spider Tail" Madam Hofmann left me.
+**Marcus:** Now's my chance. I still have one "Spider Tail" Madam Hofmann left me.
 
-**Marcus:**If I can find a chance to leave the Spider Tail on her ... Or in her place ...
+**Marcus:** If I can find a chance to leave the Spider Tail on her ... Or in her place ...
 
 The young assistant takes a deep breath.
 
@@ -4194,7 +4194,7 @@ And mirrors. Many, many mirrors.
 
 The clinic's curtains are tightly drawn, blocking out the day, yet her mirrors flash with light for a second.
 
-**Marcus:**Is this ... Kakania's arcane skill?
+**Marcus:** Is this ... Kakania's arcane skill?
 
 Marcus quickly covers her eyes with her hands, stepping back toward the door.
 
@@ -4526,69 +4526,69 @@ Kakania's tone remains gentle, as if soothing one of her patients.
 
 Children of the Empire
 
-???:The Danube, a river born from dewdrops grown into a mighty course. She is a mother to many children, and all are eager to be fed.
+???: The Danube, a river born from dewdrops grown into a mighty course. She is a mother to many children, and all are eager to be fed.
 
-???:Here is the empire founded by two of her strongest children—a rich and admirable duo.
+???: Here is the empire founded by two of her strongest children—a rich and admirable duo.
 
-???:There is an alluring charm to the music of Musikverein, captivating everyone who visits this place. I can talk about its art all day, and that's just the beginning!
+???: There is an alluring charm to the music of Musikverein, captivating everyone who visits this place. I can talk about its art all day, and that's just the beginning!
 
-???:There are 11 children in this empire. When bond together, they are invincible.
+???: There are 11 children in this empire. When bond together, they are invincible.
 
-???:Their enemies will face catastrophe.
+???: Their enemies will face catastrophe.
 
-???:See, the flourishing cities, the cheering citizens, even the chirping birds are singing a song of a land of freedom.
+???: See, the flourishing cities, the cheering citizens, even the chirping birds are singing a song of a land of freedom.
 
 > **Choice 1：** Something's not right.
 
-???:Heh heh ho. You're familiar with the devils in the detail.
+???: Heh heh ho. You're familiar with the devils in the detail.
 
 > **Choice 2：** Hmm ... What a promising picture.
 
-???:Ah. You're just buying everything I'm selling. Be smart, my dear.
+???: Ah. You're just buying everything I'm selling. Be smart, my dear.
 
-???:You'll see, if we dive deeper, you'll see something different.
+???: You'll see, if we dive deeper, you'll see something different.
 
-???:You'll see charity dances raising funds for the poor. The icing on the cake for the philanthropist, they said, though no one knows where the money goes.
+???: You'll see charity dances raising funds for the poor. The icing on the cake for the philanthropist, they said, though no one knows where the money goes.
 
-???:You'll see mice eating the bodies of the beggars, the arcanists being ousted from their arts, and poverty spreading its misery like an illness.
+???: You'll see mice eating the bodies of the beggars, the arcanists being ousted from their arts, and poverty spreading its misery like an illness.
 
-???:Except in the great duo, Austria and Hungary, in the vast and intimidating centers of power they've built together.
+???: Except in the great duo, Austria and Hungary, in the vast and intimidating centers of power they've built together.
 
-???:The other children, however, were shut out at the door. They may have their talents, but that alone cannot buy them a place at the table.
+???: The other children, however, were shut out at the door. They may have their talents, but that alone cannot buy them a place at the table.
 
-???:Bohemia, Moravia ... The empire has only the slightest sympathy to these forgotten children, nothing more than articles of fine words written in the newspapers.
+???: Bohemia, Moravia ... The empire has only the slightest sympathy to these forgotten children, nothing more than articles of fine words written in the newspapers.
 
-???:How funny it is. To see these poor humans now sharing in the same fate as the arcanists.
+???: How funny it is. To see these poor humans now sharing in the same fate as the arcanists.
 
-???:Do you think they will choose to hold together, even if left outside of the negotiation table?
+???: Do you think they will choose to hold together, even if left outside of the negotiation table?
 
 > **Choice 1：** Cooperation is the only way they can survive.
 
-???:That's no small task. A chain is only as strong as its weakest link. An age-old story.
+???: That's no small task. A chain is only as strong as its weakest link. An age-old story.
 
 > **Choice 2：** People are stubborn.
 
-???:Oh. So you're a pessimist. Then, I guess, you will enjoy the drama of this broken family.
+???: Oh. So you're a pessimist. Then, I guess, you will enjoy the drama of this broken family.
 
-???:The truth is, they will fight each other like rats in the barrel, until every one of them falls.
+???: The truth is, they will fight each other like rats in the barrel, until every one of them falls.
 
-???:Crack, crack. Did you hear it? It's the fracturing of a great empire, like the breaking of spring ice.
+???: Crack, crack. Did you hear it? It's the fracturing of a great empire, like the breaking of spring ice.
 
-???:In an army that speaks twenty different languages, who can a general trust to obey his commands?
+???: In an army that speaks twenty different languages, who can a general trust to obey his commands?
 
-???:Only those who speak the language he does.
+???: Only those who speak the language he does.
 
-???:You can already imagine it—a ridiculous beast with 11 limbs, each pulling in their own direction, limping across the battlefield until it gets shot ...
+???: You can already imagine it—a ridiculous beast with 11 limbs, each pulling in their own direction, limping across the battlefield until it gets shot ...
 
-???:Luckily, that time hasn't come yet.
+???: Luckily, that time hasn't come yet.
 
-???:The crying of the children is still being drowned out by the music playing in the theater, and the beating hearts within the dancers' chests.
+???: The crying of the children is still being drowned out by the music playing in the theater, and the beating hearts within the dancers' chests.
 
-???:The wails of suffering are silent in the newspapers, and the world sees only the silvery mirage of freedom and prosperity.
+???: The wails of suffering are silent in the newspapers, and the world sees only the silvery mirage of freedom and prosperity.
 
-???:Believing all these children can live in harmony.
+???: Believing all these children can live in harmony.
 
-???:But my darling, we know that the ice must break. It's as inevitable as the thaw of spring.
+???: But my darling, we know that the ice must break. It's as inevitable as the thaw of spring.
 
 
 ---
@@ -4619,7 +4619,7 @@ She lunges toward Marcus, who reflexively withdraws her hand.
 
 **Kakania:** I knew it! Your arcane skill is incredibly unique, you can discover what's on the inside by observing what's on the outside.
 
-**Kakania:**You are born to be a psychiatrist!
+**Kakania:** You are born to be a psychiatrist!
 
 **Marcus:** Huh?
 
@@ -5338,7 +5338,7 @@ Her voice becomes strange and sharp.
 
 The actress, ignoring her doctor's warnings, forcefully grips the edge of the mirror.
 
-**Isolde:****Who am I? Where am I?**
+**Isolde:** **Who am I? Where am I?**
 
 **Isolde:** Hello, is anybody there? Who is me? I am who? Greetings. Hello?
 
@@ -5810,7 +5810,7 @@ Kakania speaks as softly as possible despite her shock, with the intent not to d
 
 The woman begins to shake under the weight of revelation.
 
-**Isolde:** He was on fire, and running towards me. Doctor,**he ran at me!**
+**Isolde:** He was on fire, and running towards me. Doctor, **he ran at me!**
 
 She clenches her teeth, trying to squeeze out words, gripping her chest as if to squeeze out her insides—to open herself like a finely crafted wooden box, offering herself to her rescuer.
 
@@ -5832,7 +5832,7 @@ She lifts her head up towards the good doctor, tears flowing from her eyes.
 
 **Kakania:** ...
 
-**Isolde:****I killed Theophil!** It was me!
+**Isolde:** **I killed Theophil!** It was me!
 
 **Isolde:** I don't deserve the right to attend his funeral, or to hold his memorial art exhibit. I don't deserve any of the sympathy and kindness ...
 
@@ -6362,7 +6362,7 @@ Kakania concludes her monologue, removing her hat to fastidiously straighten the
 
 Faltering Footsteps
 
-**May 26, 1913** We can no longer pretend that nothing is happening here! The world is about to descend into chaos! The upper echelons of the empire were indeed harboring a Russian spy. Before this, everyone regarded him as a hero of the empire, but he turned out to be a secret operative, sending his own compatriots to the enemy's guillotine. Who knows how much intelligence he has sent back to Russia? Is our country just a naked fool in the eyes of the Russians? The whole of Europe is secretly in turmoil, wars are breaking out everywhere—everywhere! Even in Vienna, one can always hear whisperings of war, and the people no longer have the heart or the mind to appreciate art. The bullets of war have shattered the glass domes of Vienna, the sound of shattering echoes through the nights of beautiful dreams, scratching the phonograph records, and clogging the tubes of the horn. Is tonight the last time I will sit in the opera house? Oh, beautiful place, like a mother's womb, only here can my grief and panic about the war be alleviated. Perhaps I should transfer my family fortune, but where to? Or should I exchange it for gold bars and jewels, and hide them in a secret compartment under my bed? It was only two short years ago! How wonderful it was then—there was no constant call to war between nations, and mankind was as innocent as Adam and Eve before they left the Garden of Eden ... No ... No ... I shouldn't make such comparisons. I do not wish to face a fate of eternal damnation. Perhaps all this is just baseless speculation on my part. Perhaps I have been infected by those madmen who fantasize about the end of days. Now, there are few countries that even come close to the Austro-Hungarian Empire, and I cannot imagine scenes of war ravaging Vienna any time soon. Such a scene would indeed herald the end of the entire world ... \*A fine leather notebook! An expensive gold-plated pen! What's that embossed on its velvet box ...? "Fischer"?\*The good parts have already been ripped off! D\*\*n it! Just leave this broken book in the trash!
+**May 26, 1913** We can no longer pretend that nothing is happening here! The world is about to descend into chaos! The upper echelons of the empire were indeed harboring a Russian spy. Before this, everyone regarded him as a hero of the empire, but he turned out to be a secret operative, sending his own compatriots to the enemy's guillotine. Who knows how much intelligence he has sent back to Russia? Is our country just a naked fool in the eyes of the Russians? The whole of Europe is secretly in turmoil, wars are breaking out everywhere—everywhere! Even in Vienna, one can always hear whisperings of war, and the people no longer have the heart or the mind to appreciate art. The bullets of war have shattered the glass domes of Vienna, the sound of shattering echoes through the nights of beautiful dreams, scratching the phonograph records, and clogging the tubes of the horn. Is tonight the last time I will sit in the opera house? Oh, beautiful place, like a mother's womb, only here can my grief and panic about the war be alleviated. Perhaps I should transfer my family fortune, but where to? Or should I exchange it for gold bars and jewels, and hide them in a secret compartment under my bed? It was only two short years ago! How wonderful it was then—there was no constant call to war between nations, and mankind was as innocent as Adam and Eve before they left the Garden of Eden ... No ... No ... I shouldn't make such comparisons. I do not wish to face a fate of eternal damnation. Perhaps all this is just baseless speculation on my part. Perhaps I have been infected by those madmen who fantasize about the end of days. Now, there are few countries that even come close to the Austro-Hungarian Empire, and I cannot imagine scenes of war ravaging Vienna any time soon. Such a scene would indeed herald the end of the entire world ... \*A fine leather notebook! An expensive gold-plated pen! What's that embossed on its velvet box ...? "Fischer"? \*The good parts have already been ripped off! D\*\*n it! Just leave this broken book in the trash!
 
 - Description："Trash" that has lost the protection of a velvet box and leather envelope.
 - Action：Pick It Up
@@ -6500,7 +6500,7 @@ Before she can act, Isolde raises her hand as if holding out some drawn sword, r
 
 **Isolde:** I wish for the arcanists to unite ...
 
-**Isolde:****And establish an independent kingdom of freedom, free from repression and oppression!**
+**Isolde:** **And establish an independent kingdom of freedom, free from repression and oppression!**
 
 **Marcus:** —!
 
@@ -7294,45 +7294,45 @@ Where the red wax seal of the St. Pavlov Foundation's express letter is clearly 
 
 Viennese Coffee
 
-???:Ah ... A lovely day to rest at an outdoor cafe, isn't it, darling? Everyone working here is a capable server and knows how to address you properly with "my lady."
+???: Ah ... A lovely day to rest at an outdoor cafe, isn't it, darling? Everyone working here is a capable server and knows how to address you properly with "my lady."
 
-???:I'm here for one simple thing: information. With a careful ear to the goings-on, a shrewd businesswoman can gather all the latest news.
+???: I'm here for one simple thing: information. With a careful ear to the goings-on, a shrewd businesswoman can gather all the latest news.
 
-???:Oh, there she comes, that girl in green with the bouncing feathers in her hat. Don't worry. She can't hear us from here.
+???: Oh, there she comes, that girl in green with the bouncing feathers in her hat. Don't worry. She can't hear us from here.
 
 > **Choice 1：** I know her.
 
-???:Of course, you do. Isn't she our lively little cockatoo? She says she's a psychiatrist, but with all the work she does for the people, she's more like Vienna's own Robin Hood.
+???: Of course, you do. Isn't she our lively little cockatoo? She says she's a psychiatrist, but with all the work she does for the people, she's more like Vienna's own Robin Hood.
 
-???:Look at those people around her, tut-tut. With their gold cufflinks and patched sleeves ... Very likely they're from Leopoldstadt.
+???: Look at those people around her, tut-tut. With their gold cufflinks and patched sleeves ... Very likely they're from Leopoldstadt.
 
-???:You can hear them saying, "Our golden era is finally here! Forget all these melodramatic rumors!"
+???: You can hear them saying, "Our golden era is finally here! Forget all these melodramatic rumors!"
 
 > **Choice 1：** Leopoldstadt?
 
-???:Maybe you know it by a different name? Perhaps you caught a glimpse of it under the list of exhibit sponsors?
+???: Maybe you know it by a different name? Perhaps you caught a glimpse of it under the list of exhibit sponsors?
 
-???:Europe, at that time, welcomed people from all over the world; its culture and art held as their highest ideals; its institutions believed they held the keys to paradise.
+???: Europe, at that time, welcomed people from all over the world; its culture and art held as their highest ideals; its institutions believed they held the keys to paradise.
 
-???:They once believed that they were the lucky few. Blessed with the wisdom of a golden age, that's why they still linger here even after the smoke of war faded the glimmers of gold away.
+???: They once believed that they were the lucky few. Blessed with the wisdom of a golden age, that's why they still linger here even after the smoke of war faded the glimmers of gold away.
 
-???:It's not surprising to see our lady with them. See, she loves to seek these well-hidden things, and chirp along with the most overlooked voices.
+???: It's not surprising to see our lady with them. See, she loves to seek these well-hidden things, and chirp along with the most overlooked voices.
 
-???:But I feel sorry for her, because she herself overlooks some of these teeny-tiny things said at her own expense.
+???: But I feel sorry for her, because she herself overlooks some of these teeny-tiny things said at her own expense.
 
 > **Choice 1：** What things?
 
-???:Words taken as jokes. Ignored because her wishes and anticipation outweigh their sting.
+???: Words taken as jokes. Ignored because her wishes and anticipation outweigh their sting.
 
-???:But while songs are floating in the wind, the clock keeps ticking, people in the cafe talk about the secessionists and the newest plays in the same breath ... No one cares about the rumors trafficked in the newspapers. They're only concerned with what is in front of their eyes ...
+???: But while songs are floating in the wind, the clock keeps ticking, people in the cafe talk about the secessionists and the newest plays in the same breath ... No one cares about the rumors trafficked in the newspapers. They're only concerned with what is in front of their eyes ...
 
-???:Still, the good doctor comes to share the pain of that melancholy lady, and then, next to the cafe, to encourage the lower class to persevere.
+???: Still, the good doctor comes to share the pain of that melancholy lady, and then, next to the cafe, to encourage the lower class to persevere.
 
-???:She says that every man is entitled to the same rights. She'll draw a circle around them all, like the Ring Road or the round mirrors in her clinic.
+???: She says that every man is entitled to the same rights. She'll draw a circle around them all, like the Ring Road or the round mirrors in her clinic.
 
-???:"The good times will come again," so say the coffee sippers. But you know, in the end, they'll be like the undissolved sugar at the bottom of the cup.
+???: "The good times will come again," so say the coffee sippers. But you know, in the end, they'll be like the undissolved sugar at the bottom of the cup.
 
-???:My dear, your coffee is getting cold.
+???: My dear, your coffee is getting cold.
 
 
 ---
@@ -8206,53 +8206,53 @@ Hofmann nods, loading more bullets into the chamber.
 
 The Night before the Gunshot
 
-???:Darling, did you hear that? The sound of a match scraping against the box, igniting in a dark, silent alley ... and then, "BOOM!"
+???: Darling, did you hear that? The sound of a match scraping against the box, igniting in a dark, silent alley ... and then, "BOOM!"
 
-???:War, like an unstoppable train, hurtles down the track with its passengers, vanishing in the thick, black smoke.
+???: War, like an unstoppable train, hurtles down the track with its passengers, vanishing in the thick, black smoke.
 
-???:In the train, the elderly tremble in the corner, and the infants babble dreaming ...
+???: In the train, the elderly tremble in the corner, and the infants babble dreaming ...
 
-???:Ah, but the only young man aboard is filling coal into the furnace. Meanwhile, another train is hurtling down the same track, puffing the same black smoke ...
+???: Ah, but the only young man aboard is filling coal into the furnace. Meanwhile, another train is hurtling down the same track, puffing the same black smoke ...
 
-???:Alas. The two trains are destined to collide, in "a war to end all wars."
+???: Alas. The two trains are destined to collide, in "a war to end all wars."
 
 > **Choice 1：** Who are the passengers on the other train?
 
-???:Pay close attention. You'll see the banner reaching out above their train, and the bloodstains on it.
+???: Pay close attention. You'll see the banner reaching out above their train, and the bloodstains on it.
 
-???:Next, let's turn to where the train departed, to find the source of everything.
+???: Next, let's turn to where the train departed, to find the source of everything.
 
-???:Rewind the clock to before the whistle blew, before the furnace ignited ...
+???: Rewind the clock to before the whistle blew, before the furnace ignited ...
 
-???:And then, child, look somewhere far from here—in the Schönbrunn Palace, where the fine gentlemen of Austria-Hungary eagerly plan the extension of their national borders.
+???: And then, child, look somewhere far from here—in the Schönbrunn Palace, where the fine gentlemen of Austria-Hungary eagerly plan the extension of their national borders.
 
-???:But the Habsburgs value their "honor" so much that first they must find themselves some excuse to cross that border.
+???: But the Habsburgs value their "honor" so much that first they must find themselves some excuse to cross that border.
 
-???:Yet in another land, a humiliated people were gathering in secret. Their blood as hot as fire, ready to burn anyone and anywhere it was splattered.
+???: Yet in another land, a humiliated people were gathering in secret. Their blood as hot as fire, ready to burn anyone and anywhere it was splattered.
 
-???:Fate drove an open-topped car there, carrying an ill-fated couple. Their presence a crushing indignity that could not be endured.
+???: Fate drove an open-topped car there, carrying an ill-fated couple. Their presence a crushing indignity that could not be endured.
 
-???:An avenging bullet was sent to them as a gift from a luck-struck patriot.
+???: An avenging bullet was sent to them as a gift from a luck-struck patriot.
 
-???:In a moment, each party was granted their long-sought excuse. Boots had their excuse to kick down their doors, and guns their excuse to fire.
+???: In a moment, each party was granted their long-sought excuse. Boots had their excuse to kick down their doors, and guns their excuse to fire.
 
-???:A yearning furnace at last had its reason to burn, to steam toward its final destination.
+???: A yearning furnace at last had its reason to burn, to steam toward its final destination.
 
-???:My dear, it's not a story of hatred or anger. The footprints were laid down before you ever stepped forward into them.
+???: My dear, it's not a story of hatred or anger. The footprints were laid down before you ever stepped forward into them.
 
-???:Fresh-faced boys traded books and toys for rifles, and poets were buried in trenches, musicians deafened by explosions and the howls of death.
+???: Fresh-faced boys traded books and toys for rifles, and poets were buried in trenches, musicians deafened by explosions and the howls of death.
 
-???:But those war-starters? Those who doodled their ambitions on maps while supping their dessert, would lose nothing in their gamble.
+???: But those war-starters? Those who doodled their ambitions on maps while supping their dessert, would lose nothing in their gamble.
 
-???:The dew-fed river would still flow, and the facades of their great palaces would never be chipped or rocked by the guns they set off.
+???: The dew-fed river would still flow, and the facades of their great palaces would never be chipped or rocked by the guns they set off.
 
-???:Nothing stains their hands, save the cream from their cakes.
+???: Nothing stains their hands, save the cream from their cakes.
 
 > **Choice 1：** Is there nothing we can do to stop all this?
 
-???:Perhaps ... We wait. Wait for a pouring rain to douse the fires, a flood that might sweep the armies, wagered like betting chips, from their maps.
+???: Perhaps ... We wait. Wait for a pouring rain to douse the fires, a flood that might sweep the armies, wagered like betting chips, from their maps.
 
-???:Then perhaps that car will turn, and the fated dead will come back to life—But you know that will not be how the story ends.
+???: Then perhaps that car will turn, and the fated dead will come back to life—But you know that will not be how the story ends.
 
 
 ---
@@ -8467,13 +8467,13 @@ Out of nowhere, she recalls the words of that poem.
 
 A sharp question shoots up out of her skull.
 
-**???:**Kakania, you should be tried and punished!
+**???:** Kakania, you should be tried and punished!
 
 **Kakania:** Why?
 
-**???:**You gave your friends hope, prescribed them treatment, and vowed to stand by their side. But now you're silent and turning away. This is a betrayal!
+**???:** You gave your friends hope, prescribed them treatment, and vowed to stand by their side. But now you're silent and turning away. This is a betrayal!
 
-**???:**You betrayed your patient, you ran away from your kind. You are unfit to be a psychiatrist, you're not worthy to be a human being!
+**???:** You betrayed your patient, you ran away from your kind. You are unfit to be a psychiatrist, you're not worthy to be a human being!
 
 **Kakania:** What am I supposed to do then?!
 
@@ -8483,11 +8483,11 @@ A sharp question shoots up out of her skull.
 
 **Kakania:** How am I supposed to face the overwhelming madness and destruction on my own?!
 
-**???:**So, you're just someone who happens to stumble upon the truth, a bystander who happens to be watching from the shore!
+**???:** So, you're just someone who happens to stumble upon the truth, a bystander who happens to be watching from the shore!
 
-**???:**This is why you are a disgrace.
+**???:** This is why you are a disgrace.
 
-**???:**It's a sin to just stand by and watch; it's a sin to promise salvation but fail to bring them ashore; it's an even greater sin to ignore this tragedy and turn away!
+**???:** It's a sin to just stand by and watch; it's a sin to promise salvation but fail to bring them ashore; it's an even greater sin to ignore this tragedy and turn away!
 
 **Kakania:** ... Yes. I admit.
 
@@ -8507,13 +8507,13 @@ A sharp question shoots up out of her skull.
 
 The reply is a cold laugh.
 
-**???:**You already know, don't you?
+**???:** You already know, don't you?
 
-**???:**"Who shall vanish in the rain?"
+**???:** "Who shall vanish in the rain?"
 
-**???:**"Who shall be granted the eternal happiness, the grace from above—"
+**???:** "Who shall be granted the eternal happiness, the grace from above—"
 
-**???:**"And that emptiness, the cessation of existence?"
+**???:** "And that emptiness, the cessation of existence?"
 
 In a daze, she stands in the middle of the Ring Road, letting the chaos pass by around her.
 
@@ -9232,7 +9232,7 @@ Her focused state narrows her vision. Marcus can even feel the slight tremble of
 
 Tosca bows before the statue, brewing her revenge.
 
-**Scarpia:**And which road do you choose?
+**Scarpia:** And which road do you choose?
 
 **Marcus:** "The shortest one! Civitavecchia."
 
@@ -9246,7 +9246,7 @@ She picks up the dagger, plunging it into the heart of the police chief.
 
 Facing the man lying in a pool of blood, she laughs aloud and maniacally.
 
-**Isolde:**This is Tosca's kiss!
+**Isolde:** This is Tosca's kiss!
 
 **Marcus:** ...
 
@@ -9254,7 +9254,7 @@ Facing the man lying in a pool of blood, she laughs aloud and maniacally.
 
 **Marcus:** Wait. Something's wrong.
 
-**Isolde:**Are you choking on your blood?
+**Isolde:** Are you choking on your blood?
 
 **Marcus:** The man lying on the ground ...
 
@@ -9914,7 +9914,7 @@ She opens her eyes as another protagonist leaps onto the stage.
 
 Experiment Record
 
-**Sample No. 001** After consumption, symptoms of excitement appear, extraction efficiency increases by 20%, and the extracted substance is purer. After a second injection of the purification fluid, symptoms of rapid heart rate and high adrenaline secretion occur. Materials: 3 tables, 7 panes of glass, 2 researchers, and 30 baseball bats. **Sample No. 008** It has been confirmed that its efficacy is positively related to its freshness, and the biochemical substances resulting from the extraction of bodily fluids are in a high-energy state, with active molecular reactions resulting in variable properties. Attempts have been made to control the variables in order to determine a body fluid environment that might render the reagent relatively stable. \*Aside from me, don't even think about touching this thing, unless you want to end up like a certain person who nearly choked on vomit in the lab this morning.**Sample No. 019** After stripping the sucrose from the Picrasma tree leaves, the mixed Picrasma tree suspension is in a state of easy dissociation, and the molecular structure has also become distorted. Perhaps sucrose is one of the keys to stabilizing the output. **Sample No. 023** Sucrose is indeed useful, but its product has not yet reached the expected stability. Attempts have been made to remove alcohol-like compounds from the reagent. \*Stop rushing me, I've had the taste of Picrasma in my mouth for days now!**Sample No. 025**Sucrose, sucrose, sucrose, sucrose, sucrose, sucrose, sucrose, sucrose, alcohol, and Picrasma leaves ... Let's leave it at that for today. We'll see what happens tomorrow.\*Oh! It was preserved! But the effect is extremely weak. Maybe it's time to move the weights on the scale. ... ... ... **Sample No. 053** The ratio for maintaining the effective components of Picrasma sucrose has been basically mastered in an attempt to eliminate its toxicity to humans. **Sample No. 098-A** After dropping 25% Picrasma tree solution on the inner wrists of volunteers (pure humans), 3 volunteers developed itchy, swollen rashes, and 1 volunteer experienced skin ulceration. All recovered without further effects after treatment. **Sample No. 159-C**\*What is safe for the human body has no effect on arcanists!Don't even think about putting these things in human mouths! If you try to use this to pressure us for next year's funding, I'll slap this experiment notebook in your face!
+**Sample No. 001** After consumption, symptoms of excitement appear, extraction efficiency increases by 20%, and the extracted substance is purer. After a second injection of the purification fluid, symptoms of rapid heart rate and high adrenaline secretion occur. Materials: 3 tables, 7 panes of glass, 2 researchers, and 30 baseball bats. **Sample No. 008** It has been confirmed that its efficacy is positively related to its freshness, and the biochemical substances resulting from the extraction of bodily fluids are in a high-energy state, with active molecular reactions resulting in variable properties. Attempts have been made to control the variables in order to determine a body fluid environment that might render the reagent relatively stable. \*Aside from me, don't even think about touching this thing, unless you want to end up like a certain person who nearly choked on vomit in the lab this morning. **Sample No. 019** After stripping the sucrose from the Picrasma tree leaves, the mixed Picrasma tree suspension is in a state of easy dissociation, and the molecular structure has also become distorted. Perhaps sucrose is one of the keys to stabilizing the output. **Sample No. 023** Sucrose is indeed useful, but its product has not yet reached the expected stability. Attempts have been made to remove alcohol-like compounds from the reagent. \*Stop rushing me, I've had the taste of Picrasma in my mouth for days now! **Sample No. 025** Sucrose, sucrose, sucrose, sucrose, sucrose, sucrose, sucrose, sucrose, alcohol, and Picrasma leaves ... Let's leave it at that for today. We'll see what happens tomorrow. \*Oh! It was preserved! But the effect is extremely weak. Maybe it's time to move the weights on the scale. ... ... ... **Sample No. 053** The ratio for maintaining the effective components of Picrasma sucrose has been basically mastered in an attempt to eliminate its toxicity to humans. **Sample No. 098-A** After dropping 25% Picrasma tree solution on the inner wrists of volunteers (pure humans), 3 volunteers developed itchy, swollen rashes, and 1 volunteer experienced skin ulceration. All recovered without further effects after treatment. **Sample No. 159-C** \*What is safe for the human body has no effect on arcanists! Don't even think about putting these things in human mouths! If you try to use this to pressure us for next year's funding, I'll slap this experiment notebook in your face!
 
 - Description：Archived experiment records. The scent on the paper is familiar.
 - Action：Flip through the Records
@@ -9941,24 +9941,6 @@ Oh man! They inhabit the earth, waiting for the sky to fall.
 Yesterday turns into tomorrow, tomorrow reverts to yesterday.
 
 Who shall vanish in the rain?
-
-I looked at it, the ring of life, the ring of all lives.
-
-Your hands form the ring, and the judgment is pronounced.
-
-On the doomsday, at the dusk when history fades away.
-
-Oh world! Its head bites its feet, its knees touch its nose.
-
-Oh man! They inhabit the earth, waiting for the sky to fall.
-
-Yesterday turns into tomorrow, tomorrow reverts to yesterday.
-
-Who shall vanish in the rain?
-
-Who shall be granted the eternal happiness, the grace from above—
-
-And that emptiness, the cessation of existence?
 
 Who shall be granted the eternal happiness, the grace from above—
 
@@ -10106,7 +10088,7 @@ This next bullet fires true, but the air is so clouded with dust that the target
 
 **Heinrich:** ... we accelerated the "Storm" and made this era end earlier than expected?
 
-Aglow of arcane skill breaks through in response to his query.
+A glow of arcane skill breaks through in response to his query.
 
 Marcus raises her hand, the lamp dispelling some of the darkness.
 
@@ -10186,7 +10168,7 @@ He points at Hofmann.
 
 **Heinrich:** The real terrorists are you, humans!
 
-**Heinrich:****It was you who started that war!**
+**Heinrich:** **It was you who started that war!**
 <!-- reader-body:end -->
 
 <details>
@@ -10940,7 +10922,7 @@ The deadly firearm is aimed at her once-friend, with a straight baseline and gra
 
 Hofmann's Investigation Files
 
-※Theophil von Dittarsdorf Member of "The Circle," deceased, relationship to Manus Vindictae unclear. His posthumous work, The Salvation, reveals information about to the "Storm." Suspected of having had contact with members of Manus Vindictae during his lifetime. Hotel Sacher vs. Cafe Demel **Sachertorte**→ Which one? The timing can be decided **in advance**. ※Gus Klint A young man with a particular fondness for squares and diamonds. More interested in women than Manus Vindictae. ※Egan Hilde A **Dejected?**Young man. relationship to Manus Vindictae unclear. ※Heinrich Mentally unstable. \*Often accompanied by strange odors.
+※Theophil von Dittarsdorf Member of "The Circle," deceased, relationship to Manus Vindictae unclear. His posthumous work, The Salvation, reveals information about to the "Storm." Suspected of having had contact with members of Manus Vindictae during his lifetime. Hotel Sacher vs. Cafe Demel **Sachertorte** → Which one? The timing can be decided  **in advance**. ※Gus Klint A young man with a particular fondness for squares and diamonds. More interested in women than Manus Vindictae. ※Egan Hilde A **Dejected?** Young man. relationship to Manus Vindictae unclear. ※Heinrich Mentally unstable. \*Often accompanied by strange odors.
 
 - Description：The handwriting on it may be strong and hasty, but it is still neat and tidy.
 - Action：Open the Booklet
@@ -10962,21 +10944,11 @@ She tries to summon her reason, looking for a way out, but only shattered half-t
 
 Heinrich must be taken to the headquarters. He has vital information!
 
-Heinrich must be taken to the headquarters. He has vital information!
-
-The mission has failed. There will be no back-up. The "Storm" countdown has begun, everyone will be called back to the headquarters.
-
 The mission has failed. There will be no back-up. The "Storm" countdown has begun, everyone will be called back to the headquarters.
 
 This is the ninth "Storm"! How much longer will we have to wait if we miss this opportunity?!
 
-This is the ninth "Storm"! How much longer will we have to wait if we miss this opportunity?!
-
 Must leave at once. Marcus will have the Storm Syndrome if she stays here. She's losing herself!
-
-Must leave at once. Marcus will have the Storm Syndrome if she stays here. She's losing herself!
-
-Gun shot. Isolde, Kakania. Why are they here?
 
 Gun shot. Isolde, Kakania. Why are they here?
 
@@ -11014,25 +10986,13 @@ And—Isolde's gun pointed at Heinrich.
 
 You're out of your mind, Hofmann. Don't! There must be a better way.
 
-You're out of your mind, Hofmann. Don't! There must be a better way.
-
 But how long do we have to wait for another opportunity like this?! You think you can still make it back to the headquarters? You think there will be a second chance for you?
-
-But how long do we have to wait for another opportunity like this?! You think you can still make it back to the headquarters? You think there will be a second chance for you?
-
-Even if we fail, Marcus will be safe.
 
 Even if we fail, Marcus will be safe.
 
 The situation has changed. Kakania's decision is the key to victory.
 
-The situation has changed. Kakania's decision is the key to victory.
-
 Can't let the clues end here!
-
-Can't let the clues end here!
-
-This is the wisest decision.
 
 This is the wisest decision.
 
@@ -11124,7 +11084,7 @@ This last second between them becomes an age to itself.
 
 **Marcus:** No, no! There must be something I can do!
 
-**Marcus:****"Everything is a book. Everything can be read!"**
+**Marcus:** **"Everything is a book. Everything can be read!"**
 
 **Marcus:** The most immediate threat to her life ... is that potion ...
 
@@ -11550,23 +11510,19 @@ Now no one would make her decisions for her.
 
 "What really scared me was not the threat to my life, but the possibility of dying ignorant."
 
-"What really scared me was not the threat to my life, but the possibility of dying ignorant."
-
-She closes her eyes.
-
 She closes her eyes.
 
 All the information she has read in the past, along with the surging blood from the potion, converges before her eyes.
 
-**Marcus:**"If I succeed, I can prevent the death of someone who holds the clues."
+**Marcus:** "If I succeed, I can prevent the death of someone who holds the clues."
 
-**Marcus:**"Even if I die, I'll still turn Kakania completely against Isolde."
+**Marcus:** "Even if I die, I'll still turn Kakania completely against Isolde."
 
-**Marcus:**This was your plan, madam ...?
+**Marcus:** This was your plan, madam ...?
 
 "What really scared me was not the threat to my life, but the possibility of dying ignorant."
 
-**Marcus:**I know what to do now.
+**Marcus:** I know what to do now.
 
 She opens her eyes wide, calling out to the figure as she is about to leave.
 
@@ -11574,7 +11530,7 @@ She opens her eyes wide, calling out to the figure as she is about to leave.
 
 But Kakania does not listen. She has made up her mind.
 
-**Marcus:**... Don't fall into darkness!
+**Marcus:** ... Don't fall into darkness!
 
 **Kakania:** —!
 

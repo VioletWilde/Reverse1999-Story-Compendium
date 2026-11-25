@@ -73,7 +73,7 @@ He grumbles under his breath, before continuing his questions.
 
 **Policeman I:** But for now ...
 
-**Policeman I:****We must know what happened, without any artistic embellishment.**
+**Policeman I:** **We must know what happened, without any artistic embellishment.**
 
 Diggers's eyes widen in surprise, delighted to hear the officer's interest in his art, feigned or not.
 
@@ -566,9 +566,9 @@ Now, art and poetry have both receded out, with tides moving far from him.
 
 **Diggers:** I should be in London, speaking out for the dead in Hue and Saigon. This world doesn't need more war!
 
-**Diggers:**"War means tears shed by countless mothers."
+**Diggers:** "War means tears shed by countless mothers."
 
-**Diggers:**"Life is precious because it's short. Why do we waste it killing each other?"
+**Diggers:** "Life is precious because it's short. Why do we waste it killing each other?"
 
 **Diggers:** ...
 
@@ -853,7 +853,7 @@ He lifts his foot.
 
 **Diggers:** Kick it far away!
 
-**Diggers:****Ow—!!!**
+**Diggers:** **Ow—!!!**
 
 The gun flies off, and Diggers clutches his foot, howling in pain.
 
@@ -867,7 +867,7 @@ The gun flies off, and Diggers clutches his foot, howling in pain.
 
 **Diggers:** Destroy it!
 
-**Sophia:** Ένα ευθύγραμμο τμήμα σχηματίζεται όταν ενώσουμε δύο σημεία!
+**Sophia:**  Ένα ευθύγραμμο τμήμα σχηματίζεται όταν ενώσουμε δύο σημεία!
 
 A mysterious arcanum glow flickers on the surface of the sea as he looks at Sophia in disbelief.
 
@@ -1954,7 +1954,7 @@ His voice is full of concern.
 
 **Diggers:** It might misfire.
 
-**Sophia:** Ένα ευθύγραμμο τμήμα σχηματίζεται όταν ενώσουμε δύο σημεία!
+**Sophia:**  Ένα ευθύγραμμο τμήμα σχηματίζεται όταν ενώσουμε δύο σημεία!
 
 A geometric construct descends from the sky, binding his limbs.
 
@@ -1985,16 +1985,6 @@ Sophia does not give him the answer he is hoping for.
 **Sophia:** As for this bomb, I'll report it to the leader and let him decide accordingly.
 
 **Sophia:** Until a judgment is made, neither you nor your companions will be harmed.
-
-Under the influence of an arcane skill,
-
-he gradually loses consciousness.
-
-The light before his eyes flickers and changes, and scenes flash by.
-
-It is as if he were drowning in a spiritual current,
-
-as the last rays of the sunset fade away on the silent shore.
 
 Under the influence of an arcane skill,
 

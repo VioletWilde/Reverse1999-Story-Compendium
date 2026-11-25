@@ -391,8 +391,6 @@ A bullet, once fired, does not hesitate.
 
 There has only ever been one order.
 
-There has only ever been one order.
-
 Igor returns to the yard, where Andrea has Perun saddled and ready.
 
 His new leather saddle is riddled with silver trinkets fastened to the corners. A beautiful thing that seems out of place in a warzone.
@@ -1542,8 +1540,6 @@ He looks a long time before he knows the man before him.
 **Igor:** Is it the right path?
 
 The soldier and the admiral hold their distance together against the wind and snow, as Igor lets himself think the next moment through.
-
-There has only ever been one order.
 
 There has only ever been one order.
 

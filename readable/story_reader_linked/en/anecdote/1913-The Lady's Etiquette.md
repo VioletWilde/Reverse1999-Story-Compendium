@@ -32,12 +32,6 @@ The Lady's Code of Conduct: Revised Edition
 
 Chapter 1: Dining Etiquette
 
-The Lady's Code of Conduct: Revised Edition
-
-Chapter 1: Dining Etiquette
-
-1. When attending formal dining occasions, one must wear a hat and gloves.
-
 1. When attending formal dining occasions, one must wear a hat and gloves.
 
 The Hall in the Suitcase
@@ -74,8 +68,6 @@ She stops the alarm and dashes out the door.
 
 2. When attending important events, one must never be late or early.
 
-2. When attending important events, one must never be late or early.
-
 **Eagle:** Ms. Sotheby? Where's Ms. Sotheby's room?
 
 **Ms. Moissan:** Oh—goodness! Slow down, child!
@@ -99,10 +91,6 @@ Ms. Moissan checks her watch.
 **Ms. Moissan:** Generally, a formal dinner party starts at eight o'clock sharp. It's now 8:01. You'd be—
 
 Before she can finish her sentence, Eagle has already dashed off down the hallway.
-
-3. Cutlery must be arranged according to specific standards at any formal dinner party.
-
-Knives and spoons are placed on the right, while forks must be placed on the left.
 
 3. Cutlery must be arranged according to specific standards at any formal dinner party.
 
@@ -135,8 +123,6 @@ The hostess of the room spins around and stops in front of Eagle. The little Sco
 **Sotheby:** Oh! You're here! How wonderful it is to see you, my dear friend!
 
 She gives Eagle a welcoming smile.
-
-4. One must stand behind one's chair and wait for the host or hostess to sit first. When entering and leaving one's seat, one must enter from the left and exit from the right.
 
 4. One must stand behind one's chair and wait for the host or hostess to sit first. When entering and leaving one's seat, one must enter from the left and exit from the right.
 
@@ -431,12 +417,6 @@ Sotheby looks at her for a long time.
 The Lady's Code of Conduct: Revised Edition
 
 Chapter 2: Social Etiquette
-
-The Lady's Code of Conduct: Revised Edition
-
-Chapter 2: Social Etiquette
-
-1. Never lose composure while in company; one must always maintain a ladylike appearance.
 
 1. Never lose composure while in company; one must always maintain a ladylike appearance.
 
@@ -762,10 +742,6 @@ The Lady's Code of Conduct: Revised Edition
 
 Chapter 3: Manners and Etiquette
 
-The Lady's Code of Conduct: Revised Edition
-
-Chapter 3: Manners and Etiquette
-
 **Eagle:** I ... I ...
 
 **Eagle:** Although I like you very much, and you've helped us all a lot, I still have something I have to tell you.
@@ -781,8 +757,6 @@ The air suddenly feels thick.
 Sotheby has never been confronted with such doubt.
 
 **Sotheby:** But, I assure you, the refined and processed essence I use couldn't even harm a day-old Tatzelwurm!
-
-1. Always show calm and kindness towards others.
 
 1. Always show calm and kindness towards others.
 
@@ -888,13 +862,9 @@ A wind blows, ushering in silence once again.
 
 2. In social interactions, one must be mindful, moderate, and behave in a decent manner.
 
-2. In social interactions, one must be mindful, moderate, and behave in a decent manner.
-
 **Eagle:** And what is Typhon exactly?
 
 ...
-
-3. One must have a stable temper and never vent anger on others.
 
 3. One must have a stable temper and never vent anger on others.
 
@@ -1166,12 +1136,6 @@ The Lady's Code of Conduct: Revised Edition
 
 Chapter 4: Conversational Etiquette
 
-The Lady's Code of Conduct: Revised Edition
-
-Chapter 4: Conversational Etiquette
-
-1. One must always be judicious in speech, avoid harsh or extreme words, and conceal any overly strong emotions.
-
 1. One must always be judicious in speech, avoid harsh or extreme words, and conceal any overly strong emotions.
 
 **Sotheby:** Friends. You will have good friends.
@@ -1277,8 +1241,6 @@ Sotheby blinks and takes a deep breath.
 **Sotheby:** I understand.
 
 **Sotheby:** Sotheby is ready!!!
-
-2. Maintain eye contact and a sincere smile when engaged in conversation, as a smile enhances one's influence.
 
 2. Maintain eye contact and a sincere smile when engaged in conversation, as a smile enhances one's influence.
 
@@ -1932,12 +1894,6 @@ The Lady's Code of Conduct: Revised Edition
 
 Chapter 5: Dressing Etiquette
 
-The Lady's Code of Conduct: Revised Edition
-
-Chapter 5: Dressing Etiquette
-
-1. One must maintain a neat and tidy appearance and avoid dirtying or damaging clothes. In the case of an accident, change promptly.
-
 1. One must maintain a neat and tidy appearance and avoid dirtying or damaging clothes. In the case of an accident, change promptly.
 <!-- reader-body:end -->
 
@@ -2155,10 +2111,6 @@ Eagle adjusts Sotheby's hand to the correct salute position, then lies back down
 The two laugh together.
 
 The night is still long.
-
-The Lady's Code of Conduct: Revised Edition
-
-Chapter 6 ...
 
 The Lady's Code of Conduct: Revised Edition
 

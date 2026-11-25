@@ -871,7 +871,7 @@ If nothing else, it tells her the girl values a clean getaway over her disguise.
 
 St. Pavlov Foundation External Field Report: The "Danube Dawn"
 
-Mission Number: XXX-1912-XX-13 Location: The "Danube Dawn" Security Level: Top Secret **Intelligence Summary:****Key Report 1:** Multiple investigation records indicate that during the past three operation cycles (exact dates in encrypted attachment), abnormal arcanum energy traces were consistently detected inside the "Danube Dawn," the international train running between Istanbul and Vienna. These energy patterns closely match the activity signature of a known Beyond entity—the vampire (see encrypted attachment for detailed characteristics). **Key Report 2:** Meanwhile, a series of unexplained deaths and disappearances have occurred along the train's route. Preliminary examinations show that the victims suffered blunt-force trauma and displayed tissue mutations of unidentified form, differing from the pattern of known vampire "Infected." The upper division suspects direct contact with a new strain of vampire. Threat level has been classified as severe. All evidence suggests the presence of an anomalous vampire aboard the "Danube Dawn"—either active on a periodic cycle or as a vampire "Infected" with atypical traits.Squad members are to prioritize personal safety during the operation.**Mission Objectives:** Based on prior performance, Level Four Investigator Semmelweis is hereby assigned to the "Danube Dawn" investigation team. Objectives include: 1. Board the "Danube Dawn," confirm the authenticity and number of vampire entities, observe their activity pattern, and assess passenger threat level. 2. Investigate whether vampire activity correlates with newly observed vampire "Infected" incidents along the train's route. Record any newly discovered strains, their traits, and behavioral patterns. 3. Collect direct evidence of collaboration between "Manus Vindictae" and the vampire. Investigator Semmelweis is to rendezvous with four members of the Istros Operation Squad 77 after the "Danube Dawn" docks at Platform 3, Station G, 6:20 PM local time, November 30, 1912. They will supply all mission-critical resources and equipment. St. Pavlov Foundation November 2, 1912
+Mission Number: XXX-1912-XX-13 Location: The "Danube Dawn" Security Level: Top Secret **Intelligence Summary:** **Key Report 1:** Multiple investigation records indicate that during the past three operation cycles (exact dates in encrypted attachment), abnormal arcanum energy traces were consistently detected inside the "Danube Dawn," the international train running between Istanbul and Vienna. These energy patterns closely match the activity signature of a known Beyond entity—the vampire (see encrypted attachment for detailed characteristics). **Key Report 2:** Meanwhile, a series of unexplained deaths and disappearances have occurred along the train's route. Preliminary examinations show that the victims suffered blunt-force trauma and displayed tissue mutations of unidentified form, differing from the pattern of known vampire "Infected." The upper division suspects direct contact with a new strain of vampire. Threat level has been classified as severe. All evidence suggests the presence of an anomalous vampire aboard the "Danube Dawn"—either active on a periodic cycle or as a vampire "Infected" with atypical traits. Squad members are to prioritize personal safety during the operation. **Mission Objectives:** Based on prior performance, Level Four Investigator Semmelweis is hereby assigned to the "Danube Dawn" investigation team. Objectives include: 1. Board the "Danube Dawn," confirm the authenticity and number of vampire entities, observe their activity pattern, and assess passenger threat level. 2. Investigate whether vampire activity correlates with newly observed vampire "Infected" incidents along the train's route. Record any newly discovered strains, their traits, and behavioral patterns. 3. Collect direct evidence of collaboration between "Manus Vindictae" and the vampire. Investigator Semmelweis is to rendezvous with four members of the Istros Operation Squad 77 after the "Danube Dawn" docks at Platform 3, Station G, 6:20 PM local time, November 30, 1912. They will supply all mission-critical resources and equipment. St. Pavlov Foundation November 2, 1912
 
 - Description：What's not written in the Field Mission Manual is the real norm.
 - Action：Read the Files
@@ -4794,17 +4794,7 @@ The scenic solitude!
 
 It writhes!—it writhes!—with mortal pangs.
 
-But see, amid the mimic rout,
-
-A crawling shape intrude!
-
-A blood-red thing that writhes from out
-
-The scenic solitude!
-
-It writhes!—it writhes!—with mortal pangs.
-
-— Edgar Allan Poe,The Conqueror Worm
+— Edgar Allan Poe, The Conqueror Worm
 
 — Edgar Allan Poe, The Conqueror Worm
 
@@ -5267,8 +5257,6 @@ An undeniable bloodline. An undeniable identity.
 **Rubuska:** My family—my blood—they'll rise from the grave soon, you'll see! We'll be together again.
 
 She chokes and swallows the blood until her face and body are smeared with scarlet.
-
-A lie—that day will never come.
 
 A lie—that day will never come.
 
@@ -6207,8 +6195,6 @@ She crouches, inspecting the corpse with an investigator's eye.
 
 Moments earlier ...
 
-Moments earlier ...
-
 **Pyrrhos:** Well? What do you say?
 
 **Rubuska:** Yes.
@@ -6555,7 +6541,7 @@ Fleshy bat wings sprout from his back, spreading wide to block out the hazy moon
 
 **Pyrrhos:** Then I will drag every single man, woman, and child.
 
-**Pyrrhos:****To hell.**
+**Pyrrhos:** **To hell.**
 
 The monster lets out a shrill cry, eyes streaming blood.
 
@@ -6751,7 +6737,7 @@ No.██ Date: ████.██.██ Recorder: / 1. Objective: To study th
 
 Blood-Stained 0073-MV
 
-Mission Number: 0073-MV Date: ████.██.██ Got the file on the new colleague today—Semmelweis. According to her record, she's a sharp, calm, and reliable investigator. With her joining us, this "odd" case should go a lot smoother. Still, before she arrives, Squad 77 has to do its part—at least handle the groundwork properly. Can't have her looking down on us. I think I've got a lead. Been stationed here for a while, and I keep hearing rumors about that so-called mystic train. You'd be hard-pressed to find another line with so many vampire stories attached to it, unless you're in one of ████'s horror novels. The conductress never replies to our messages—not to inquiries, columns, or even official investigation requests. Highly suspicious. On my list, that puts it right at the top—extremely, ridiculously suspicious! (Suspect there's a syntax error here. Recommend revision before submission.)(I struck out your irrelevant rambling. Why do you always fill task logs with random digressions and pointless jokes?)(Okay, fine. Thanks. But you know this is just a draft — I'll rewrite the official report later.)(Then stop wasting the report forms. I couldn't even find a blank one last time and had to draw the format by hand ... I'll stake out the station tomorrow and see what I can learn about this "Danube Dawn.") Date: ████.██.██ Did we just hit the jackpot? Officer Pyrrhos from the Nika checkpoint invited us to "talk." Guess our "covert" investigation wasn't so covert after all—or maybe the man's just sharp as hell. After getting the invite, first thing I did was review our recent operation. I wouldn't say flawless, but definitely clean ... Uh, in the formal report maybe I'll write that we "intentionally leaked intel to lure them in." Depends how it plays out. Anyway, is it trap or cooperation? We'll only know once we go. Damn, I'm actually nervous. But the invite was polite ... and honestly, our investigation has been stalling. So yeah, let's go! I'm a proud member of Squad 77! My record's just as good as Semmelweis's, I'm just terrible at paperwork! Date: ████.██.██ Warehouse address: ████████████ stench heavy blood ████████ Invited by Officer Pyrrhos of Nika checkpoint we ███ him ████████ he's behind me he's searching ███████ this crate is a terrible hiding spot ████
+Mission Number: 0073-MV Date: ████.██.██ Got the file on the new colleague today—Semmelweis. According to her record, she's a sharp, calm, and reliable investigator. With her joining us, this "odd" case should go a lot smoother. Still, before she arrives, Squad 77 has to do its part—at least handle the groundwork properly. Can't have her looking down on us. I think I've got a lead. Been stationed here for a while, and I keep hearing rumors about that so-called mystic train. You'd be hard-pressed to find another line with so many vampire stories attached to it, unless you're in one of ████'s horror novels. The conductress never replies to our messages—not to inquiries, columns, or even official investigation requests. Highly suspicious. On my list, that puts it right at the top—extremely, ridiculously suspicious! (Suspect there's a syntax error here. Recommend revision before submission.) (I struck out your irrelevant rambling. Why do you always fill task logs with random digressions and pointless jokes?) (Okay, fine. Thanks. But you know this is just a draft — I'll rewrite the official report later.) (Then stop wasting the report forms. I couldn't even find a blank one last time and had to draw the format by hand ... I'll stake out the station tomorrow and see what I can learn about this "Danube Dawn.") Date: ████.██.██ Did we just hit the jackpot? Officer Pyrrhos from the Nika checkpoint invited us to "talk." Guess our "covert" investigation wasn't so covert after all—or maybe the man's just sharp as hell. After getting the invite, first thing I did was review our recent operation. I wouldn't say flawless, but definitely clean ... Uh, in the formal report maybe I'll write that we "intentionally leaked intel to lure them in." Depends how it plays out. Anyway, is it trap or cooperation? We'll only know once we go. Damn, I'm actually nervous. But the invite was polite ... and honestly, our investigation has been stalling. So yeah, let's go! I'm a proud member of Squad 77! My record's just as good as Semmelweis's, I'm just terrible at paperwork! Date: ████.██.██ Warehouse address: ████████████ stench heavy blood ████████ Invited by Officer Pyrrhos of Nika checkpoint we ███ him ████████ he's behind me he's searching ███████ this crate is a terrible hiding spot ████
 
 - Description：Before a mission, I like to line up every god I know and pray to them all.
 - Action：Check Note

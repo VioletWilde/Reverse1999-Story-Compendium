@@ -608,7 +608,7 @@ The deer girl has found a better way to get books than borrowing them.
 
 ***
 
-**Jessica:**Least of ... Arrrr ... Cream … (List of Global Arcanum Creatures) ... Hmm ... Can't find it ...
+**Jessica:** Least of ... Arrrr ... Cream … (List of Global Arcanum Creatures) ... Hmm ... Can't find it ...
 
 **Jessica:** Nor here ... Hmm?!
 

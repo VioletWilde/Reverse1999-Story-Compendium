@@ -34,10 +34,6 @@ Only that day dawns to which we are awake.
 
 —Henry David Thoreau
 
-Only that day dawns to which we are awake.
-
-—Henry David Thoreau
-
 Rehab Center Hallway, Laplace
 
 In the wake of the chaos, staff are pacing hurriedly between the wards and corridors.
@@ -81,8 +77,6 @@ This is an entirely different problem, one that belongs solely to her.
 **Mesmer Jr.:** \*sigh\*
 
 She picks it up for what feels like the hundredth time.
-
-"Patient 'Jerry Wilson' has undergone the required evaluation period. He may be discharged after a final examination by the attending physician."
 
 "Patient 'Jerry Wilson' has undergone the required evaluation period. He may be discharged after a final examination by the attending physician."
 
@@ -631,30 +625,6 @@ its administrative processes ...
 
 ... it means they are facing some urgent issues—a situation that cannot be delayed.
 
-I had never treated a patient who was one of the Manus before.
-
-His name was Jerry Wilson.
-
-In fact, I had never had the opportunity to.
-
-You see, I met him on my first day at the Laplace Rehabilitation Center.
-
-From submitting my application to my first day at the center,
-
-the process had been remarkably fast.
-
-I remember the night before I started, I was too anxious and excited to sleep.
-
-On one hand, I was thrilled to become an attending physician at the rehabilitation
-
-center, a pinnacle in the career of anyone in psychiatry.
-
-On the other hand, I understood that when a massive institution suddenly speeds up
-
-its administrative processes ...
-
-... it means they are facing some urgent issues—a situation that cannot be delayed.
-
 **Rehab Center Staff Member Danny:** Oxygen saturation's critically low, heart rate's plummeting, pupils are dilated ... Patient Wilson's fallen into a coma.
 
 We were rushing Jerry Wilson through the halls on a gurney. It was a race against time.
@@ -763,8 +733,6 @@ In fact, she was the calmest of us all.
 
 Two months later
 
-Two months later
-
 Rehab Center, Laplace
 
 **Dorothea:** Jerry Wilson?
@@ -843,21 +811,11 @@ But my mind was no longer fully present.
 
 I mean, what does "She's a Mesmer" even mean?
 
-I mean, what does "She's a Mesmer" even mean?
-
-I know the history of the Mesmer family, of course, and the contributions they've made to the fusion of arcanum and human science.
-
 I know the history of the Mesmer family, of course, and the contributions they've made to the fusion of arcanum and human science.
 
 I know about their grandeur and pride, and the endless debates over their conspiracy theories
 
 and scientific ethics, and I know about their secrecy.
-
-I know about their grandeur and pride, and the endless debates over their conspiracy theories
-
-and scientific ethics, and I know about their secrecy.
-
-But what does any of that have to do with a child? And with ...
 
 But what does any of that have to do with a child? And with ...
 
@@ -1016,22 +974,6 @@ She hadn't spoken her promise aloud, but I understood what she meant.
 I gave the nurse a nod.
 
 ...
-
-The more cruel cases we witness, the stronger, yet more fragile, we become.
-
-After I graduated and started working at the hospital, everyone around me said I was
-
-becoming less human.
-
-When my sister told me about her trivial school problems and tears streamed down
-
-her face ...
-
-I remembered the child whose eyes had been burned out by his parents' cigarettes,
-
-praying I'd perform some magic to restore his sight.
-
-But I could neither comfort nor save him.
 
 The more cruel cases we witness, the stronger, yet more fragile, we become.
 
@@ -2003,10 +1945,6 @@ The child paced beside the gurney, her chest soaked with blood.
 
 "Could you ... reduce the dose of the anesthetics today? I think I'm ready to dream."
 
-"Could you ... reduce the dose of the anesthetics today? I think I'm ready to dream."
-
-"Let him dream."
-
 "Let him dream."
 
 **Mesmer Jr.:** ...!
@@ -2256,8 +2194,6 @@ Then signs her name at the bottom.
 <!-- reader-body:start -->
 Two days later
 
-Two days later
-
 **Medicine Pocket:** Hey, Mesmer Jr.!
 
 Medicine Pocket is urgently knocking on her door.
@@ -2293,10 +2229,6 @@ Attaching the magnetic patch to her head, she lies down and closes her eyes.
 This is the first time she has initiated artificial somnambulism on herself.
 
 "Reading floppy disk. Please keep your eyes closed, and do not interrupt the process."
-
-"Reading floppy disk. Please keep your eyes closed, and do not interrupt the process."
-
-"Read successfully."
 
 "Read successfully."
 
@@ -2516,17 +2448,11 @@ He drops his umbrella, letting the rain soak his coat.
 
 Ah, I'm jealous. I've always been more on the figure-it-out-as-you-go train.
 
-Ah, I'm jealous. I've always been more on the figure-it-out-as-you-go train.
-
 **Elegy:** And besides, being part of this great plan is something the children funded by the Mesmer Foundation could only dream of.
 
 You know, humans like me always need something to rely on.
 
-You know, humans like me always need something to rely on.
-
 **Elegy:** She was just a small weight on the scale. She's fulfilled her purpose.
-
-I hope you have sweet dreams, Junior.
 
 I hope you have sweet dreams, Junior.
 
@@ -3007,17 +2933,9 @@ Tears roll down the children's faces.
 
 Why?
 
-Why?
-
-Weren't we the best of friends?
-
 Weren't we the best of friends?
 
 Did you forget our promise under George the Oak?
-
-Did you forget our promise under George the Oak?
-
-\*sniff\* We wanted to live, too.
 
 \*sniff\* We wanted to live, too.
 

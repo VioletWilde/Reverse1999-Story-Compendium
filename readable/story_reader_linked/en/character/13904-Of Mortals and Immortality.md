@@ -203,10 +203,6 @@ Hedone picks up the book filled with tabs and reads the epic's opening line alou
 
 "Sing, O goddess, of our heroine Hedone, sing of her wrath. Her wrath, which slew for us the great beast Typhon."
 
-"Sing, O goddess, of our heroine Hedone, sing of her wrath. Her wrath, which slew for us the great beast Typhon."
-
-"Let your song begin with that fateful landing, when warriors from afar came ashore and upon those outer islands first laid eyes on the volcano, which would spell both doom and glory."
-
 "Let your song begin with that fateful landing, when warriors from afar came ashore and upon those outer islands first laid eyes on the volcano, which would spell both doom and glory."
 
 **Hedone:** ...

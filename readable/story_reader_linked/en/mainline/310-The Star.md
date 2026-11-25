@@ -108,7 +108,7 @@ She looks away and clears her throat like a grown-up.
 
 **Matilda:** But in fact, there is still another reference room only known to the most outstanding monitor assistant.
 
-**Sotheby:****Hooray!**
+**Sotheby:** **Hooray!**
 
 Other students in the library cast disgruntled glances at them.
 
@@ -189,8 +189,6 @@ The monitor assistant takes a dusty file from the cabinet. The paper inside has 
 **Matilda:** Here's the key. Keep it safe. You can sit on the cushion there when you sort out the files. I-I don't want your dress to stain the stone bench.
 
 **Matilda:** I'll go see if I missed any files. Listen! This monitor assistant will test you on your familiarity with these files when she's back!
-
-Three Hours Later
 
 Three Hours Later
 
@@ -1571,53 +1569,53 @@ She opens the door with a slight push.
 
 Rain Within Reach
 
-???:If you look at the ground after the "rain," you can often see a wet, long trail like this one.
+???: If you look at the ground after the "rain," you can often see a wet, long trail like this one.
 
-???:At the end of the trail, there may be a snail slowly crawling forward. Yes, "forward." The snail marks the direction for us.
+???: At the end of the trail, there may be a snail slowly crawling forward. Yes, "forward." The snail marks the direction for us.
 
-???:But, what if we don't see any snails at either end? How are we going to distinguish the direction to the future from that to the past?
+???: But, what if we don't see any snails at either end? How are we going to distinguish the direction to the future from that to the past?
 
 > **Choice 1：** We need a criterion.
 
-???:"Criterion," well said, darling. To figure something out, you always need to make deductions based on facts and logical reasoning.
+???: "Criterion," well said, darling. To figure something out, you always need to make deductions based on facts and logical reasoning.
 
-???:What you see is not necessarily true, but what is logical is, because we haven't witnessed or experienced anything illogical so far. If something like that actually happens, it must be because we are too ignorant to understand it for the moment.
+???: What you see is not necessarily true, but what is logical is, because we haven't witnessed or experienced anything illogical so far. If something like that actually happens, it must be because we are too ignorant to understand it for the moment.
 
-???:This point was firmly believed by those researchers who worked in the house like canned sardines.
+???: This point was firmly believed by those researchers who worked in the house like canned sardines.
 
-???:It remained true to them until the first drop of rain rose. The sardines suddenly found that the knowledge they possessed couldn't support the point anymore. The can was opened, revealing a completely different thinking pattern to them.
+???: It remained true to them until the first drop of rain rose. The sardines suddenly found that the knowledge they possessed couldn't support the point anymore. The can was opened, revealing a completely different thinking pattern to them.
 
-???:Whatever they used to mend the can, there was still a crevice left between the inside and the outside, and it could be ripped open again at any time.
+???: Whatever they used to mend the can, there was still a crevice left between the inside and the outside, and it could be ripped open again at any time.
 
 > **Choice 2：** Sorry, but I have no idea.
 
-???:Oh, you just figured out how those researchers handled matters: face the ignorance and do everything they could to find the answers.
+???: Oh, you just figured out how those researchers handled matters: face the ignorance and do everything they could to find the answers.
 
-???:When the rain rose, they struggled to collect every component left, hoping to preserve the castle built by science. Unfortunately, the effort was in vain. Another wave washed away the castle and restored it to quicksand.
+???: When the rain rose, they struggled to collect every component left, hoping to preserve the castle built by science. Unfortunately, the effort was in vain. Another wave washed away the castle and restored it to quicksand.
 
-???:Even so, they still worked hard in that house like canned sardines to record what was happening, because they believed at least the can holding them was a safe place. Yet in the end, they found that the can was only another sandcastle on the beach.
+???: Even so, they still worked hard in that house like canned sardines to record what was happening, because they believed at least the can holding them was a safe place. Yet in the end, they found that the can was only another sandcastle on the beach.
 
-???:Everything they were familiar with disappeared when the first drop of rain rose.
+???: Everything they were familiar with disappeared when the first drop of rain rose.
 
 > **Choice 1：** What happened then?
 
-???:The chaos didn't last. If it really was the rain that swept away the snail and messed up time ... then, we should look at the silver lining.
+???: The chaos didn't last. If it really was the rain that swept away the snail and messed up time ... then, we should look at the silver lining.
 
-???:Does it mean we will find out the truth of time once the secret of the rain is revealed? There has never been a shortcut like this one, since time is only an intangible concept.
+???: Does it mean we will find out the truth of time once the secret of the rain is revealed? There has never been a shortcut like this one, since time is only an intangible concept.
 
-???:So then, observation stations were built all over the globe. The staff learned how to collect and keep the valuable samples efficiently in no time. The little boxes they used to store the raindrops are still being upgraded even now.
+???: So then, observation stations were built all over the globe. The staff learned how to collect and keep the valuable samples efficiently in no time. The little boxes they used to store the raindrops are still being upgraded even now.
 
-???:Order and silence were brought back to the labs. Every piece of gear was placed back on the right track.
+???: Order and silence were brought back to the labs. Every piece of gear was placed back on the right track.
 
-???:It was a grand feat, and no one could have accomplished it inside this huge, cumbersome machine except another machine. She took no sides and sought only predictable results.
+???: It was a grand feat, and no one could have accomplished it inside this huge, cumbersome machine except another machine. She took no sides and sought only predictable results.
 
-???:That's why she made a decision as soon as she read that report and its attachment on her desk. The former was about a delicate component which flapped like a butterfly in that huge machine, and the latter was a piece of paper full of circles and dots.
+???: That's why she made a decision as soon as she read that report and its attachment on her desk. The former was about a delicate component which flapped like a butterfly in that huge machine, and the latter was a piece of paper full of circles and dots.
 
-???:Then she stored the information on her hard disk and destroyed the report.
+???: Then she stored the information on her hard disk and destroyed the report.
 
-???:And the paper which claimed to have recorded the locations where the "Storm" might happen—yes, the one with the butterfly-like drawings—was retained for data comparison.
+???: And the paper which claimed to have recorded the locations where the "Storm" might happen—yes, the one with the butterfly-like drawings—was retained for data comparison.
 
-???:She seems satisfied with the result.
+???: She seems satisfied with the result.
 
 
 ---
@@ -1886,7 +1884,7 @@ The keywords give this young monitor assistant a giddy pleasure. She can't help 
 
 **Matilda:** I-I didn't accomplish it alone. Assistant Sotheby also played a significant role.
 
-**Sotheby:****Hooray!**
+**Sotheby:** **Hooray!**
 
 A loud cheer interrupts Matilda's mumbling.
 

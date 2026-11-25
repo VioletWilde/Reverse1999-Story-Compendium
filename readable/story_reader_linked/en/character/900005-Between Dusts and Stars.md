@@ -732,7 +732,7 @@ You touch it, imprinting the drawing in your mind, and close your eyes again.
 
 **Kaalaa Baunaa:** Phew... Now concentrate. Imagine the secondary star orbiting the white dwarf...
 
-The scenario of your dreams begins to play outin your mind.
+The scenario of your dreams begins to play out in your mind.
 
 A podium, dazzling spotlights. Kumar rises from her seat, and a shower of applause.
 

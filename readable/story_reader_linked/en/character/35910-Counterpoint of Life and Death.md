@@ -515,17 +515,11 @@ At last, she produces a smile identical to Annie's. A flawless imitation.
 
 An overabundance of empathy.
 
-An overabundance of empathy.
-
 **Marguerite:** And such selflessness.
 
 A kindness indiscriminate in its application.
 
-A kindness indiscriminate in its application.
-
 **Marguerite:** You think about others constantly.
-
-And therefore, easily overlooked and undervalued.
 
 And therefore, easily overlooked and undervalued.
 
@@ -1483,7 +1477,7 @@ It does not take her long to filter out the interference and reach the answer.
 
 She invokes an arcane skill, attempting to contact a faraway place.
 
-**Marguerite:**Whisperedwords,speak!
+**Marguerite:** Whispered words, speak!
 
 The first thing to emerge from the other end is a fragrance steeped in the scent of tears.
 
@@ -1587,7 +1581,7 @@ The words bounce off of his glass exterior without understanding.
 
 **Only through pneuma can we understand Chaotic Energy. Only by monitoring the ebb and flow of Chaotic Energy can we "measure" the "Storm."**
 
-**Lorentz Butterfly:****Only through pneuma can we understand Chaotic Energy. Only by monitoring the ebb and flow of Chaotic Energy can we "measure" the "Storm."**
+**Lorentz Butterfly:** **Only through pneuma can we understand Chaotic Energy. Only by monitoring the ebb and flow of Chaotic Energy can we "measure" the "Storm."**
 
 **Ulrich:** I don't entirely understand her methodology, but it may yet reveal the truth of our world.
 

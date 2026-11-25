@@ -1257,7 +1257,7 @@ The communicator emits the sound of irregular static. Just as everyone is about 
 
 The communication ends. Following the instructions on the device, X begins casting the arcane skill.
 
-**X:**MannerMender!
+**X:** Manner Mender!
 
 There's a flash of light. NORA's screen turns gold briefly before fading back to its usual black.
 

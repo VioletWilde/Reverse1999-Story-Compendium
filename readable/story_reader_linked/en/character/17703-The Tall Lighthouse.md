@@ -36,14 +36,6 @@ And now, a new chapter begins.
 
 "Where they should have long passed into memory."
 
-"I seem to have stood still for an eternity,"
-
-"Engulfed by a sea of thoughts, kept silent as a cemetery."
-
-"The three lighthouse keepers on the isles still remain,"
-
-"Where they should have long passed into memory."
-
 **Marcus:** …
 
 **Marcus:** So much has transpired here upon the Flannan Isles, each and every event etching itself into my consciousness ...

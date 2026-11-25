@@ -494,7 +494,7 @@ The passionate speaker has noticed that it's a perfect chance to escape other th
 
 > **Action：** Read
 
-"HEART OF THE OCEAN"COLLECTION OF SUSPICIOUS INFORMATION
+"HEART OF THE OCEAN" COLLECTION OF SUSPICIOUS INFORMATION
 
 {p}At that time I was groping for my glasses on the floor. When I look up, I saw it. The ominous, fleeting shadow. I also found an evidence of its appearance on the floor: a dark animal hair, different to humans'. Undoubtedly, our thief is a black animal, or some kind of a flying dragon. I've read about them from the books, they like shiny objects, like jewels or nicely decorated glasses. —A friendly tourist who has high myopia {p}According to my theory, the thief is an adult male who has very poor manners. He has a bewildered black beard which falls out easily. He has strong hands though, strong enough to knock over a robot. —An awkward detective trying a bit too hard to convince his listeners As it turns out, the security robots are far from reliable. These tin heads can never replace us. They are clumsy, and use up a lot of oil, which is hardly environmentally friendly, isn't it? The big men in the parliament should really look into this company and see if there is anything fishy. That's why we poor securities voted for them ... —An aggrieved security guard (former){img}
 
@@ -3153,7 +3153,7 @@ COMBAT:
 
 Once again, Melania dodges the detectors of the security robot and waits on its path.
 
-**Melania:**Eroj Exchange!
+**Melania:** Eroj Exchange!
 
 In a burst of light, the bullets hidden in the barrels of the security robot suddenly appear in Ms. Acey's stomach.
 
@@ -3904,7 +3904,7 @@ The security dog nods its head seriously.
 
 **Alice:** Woof.
 
-**Pickles:** Woof, woof woof.\<Okay, I smell funny things too ... Like burnt metal ... or a pile of saltpeter ...\>
+**Pickles:** Woof, woof woof. \<Okay, I smell funny things too ... Like burnt metal ... or a pile of saltpeter ...\>
 
 **Police Dog:** Woof woof woof, woof ...
 
@@ -5500,7 +5500,7 @@ The old fuse that was deliberately installed is finally blowing as the temperatu
 
 > **Action：** Read
 
-"FLURRY PUPPY GAMES"SPONSORSHIP RIGHTS INVITATION NOTICE
+"FLURRY PUPPY GAMES" SPONSORSHIP RIGHTS INVITATION NOTICE
 
 {p}The Funniest Game is in town! Thousands of fluffy athletes from hundreds of streets in dozens of blocks will gather here for the most exciting pet contest! {p}The Flurry Puppy Games has been held 4 times since 1961. From only hundreds of athletes of 3 suburbs taking part in the first Game to today's thousands of athletes from more than 28 suburbs showing up, great change has taken place. The Flurry Puppy Games has become an important event to promote pet sports and friendship. If you wish to donate or sponsor the game, please contact 01-723 6691.{img}
 
@@ -5544,17 +5544,9 @@ A spotlight casts down from the ceiling and focuses on the brightest place—the
 
 Flawless protection is just a disguise, while threatening is the essence.
 
-Flawless protection is just a disguise, while threatening is the essence.
-
-In such a dull and dreadful exhibition hall ...
-
 In such a dull and dreadful exhibition hall ...
 
 Does anyone still remember ...
-
-Does anyone still remember ...
-
-Those stories full of imagination and miracles?
 
 Those stories full of imagination and miracles?
 
@@ -5654,7 +5646,7 @@ This is a parting gift after all the failures.Melania: Eroj Exchange!Melania: So
 
 This is a parting gift after all the failures.
 
-**Melania:**Eroj Exchange!
+**Melania:** Eroj Exchange!
 
 **Melania:** Sorry, but it's better to destroy the remote control that will place our security at risk as early as possible, okay?
 

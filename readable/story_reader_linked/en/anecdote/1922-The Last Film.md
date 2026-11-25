@@ -46,13 +46,9 @@ Victim C
 
 What was that?
 
-What was that?
-
 No matter how hard she tries, Bette can never pinpoint where the chaos began.
 
 It feels like reality itself is caving in, as if someone had knocked over a dollhouse with one swift blow.
-
-What's going on?
 
 What's going on?
 
@@ -62,11 +58,11 @@ The scene flips. A woman's scream echos in her ears, sharp and frantic. But it i
 
 Have I gotten too deep into my role and forgotten where the script ends and reality begins?
 
-**Bette:**Have I gotten too deep into my role and forgotten where the script ends and reality begins?
+**Bette:** Have I gotten too deep into my role and forgotten where the script ends and reality begins?
 
 Or was it something the camera captured?
 
-**Bette:**Or was it something the camera captured?
+**Bette:** Or was it something the camera captured?
 
 She covers her mouth and nose with her hand, as if trying to suppress her rising panic.
 
@@ -249,8 +245,6 @@ Following the same eyeline, Bette turns toward something beyond her comprehensio
 The sky begins to take on a kaleidoscope-like panoply of colors, the phenomenon spreading out like a flood over the horizon.
 
 Reality begins to unravel around them, leaving the tower standing out like a strange island.
-
-Until it collapses.
 
 Until it collapses.
 
@@ -627,21 +621,9 @@ Her eyes readjust, falling on a figure in the front row as she tightens her grip
 
 1/3
 
-"Yes!"
-
-1/3
-
 "No!"
 
 2/3
-
-"No!"
-
-2/3
-
-"Ah—"
-
-3/3
 
 "Ah—"
 
@@ -690,8 +672,6 @@ As the lights go out and the restaurant door is locked again, the owner turns an
 **Restaurant Owner:** You're going to wake up every day to a champagne tower.
 
 **Bette:** I guess I should go see Jones, because ...
-
-I never had a champagne tower to begin with.
 
 I never had a champagne tower to begin with.
 <!-- reader-body:end -->
@@ -923,10 +903,6 @@ Bette opens her mouth, looking at Jones's frail state. She can't bear to part wi
 **Bette:** They're outside.
 
 Outside the Foundation.
-
-Outside the Foundation.
-
-Outside the era.
 
 Outside the era.
 
@@ -1310,8 +1286,6 @@ Cowboy William staggers from a gunshot, red spilling out from his body.
 Then, miraculously, he gets back up and pulls out a pie—baked rock-solid at the bottom by the heroine—from his vest.
 
 He knocks the villain flat with the pie and saves the heroine.
-
-THE END
 
 THE END
 
@@ -1718,7 +1692,7 @@ A young woman sits on the grass not far away, sketching the landscape. Bette tak
 
 **Bette:** Excuse me, miss.
 
-**Young Woman:**Oui, que voulez-vous ? (Yes, do you need some help?)
+**Young Woman:** Oui, que voulez-vous ? (Yes, do you need some help?)
 
 The woman lifts her hand to shield her eyes from the sunlight and squints up at Bette.
 
@@ -1726,7 +1700,7 @@ The woman lifts her hand to shield her eyes from the sunlight and squints up at 
 
 Bette stares at her lips, fully stunned as fluid, pearl-like words roll out—words she doesn't know in the slightest.
 
-**Young Woman:**Tu vas bien ? (Are you okay?)
+**Young Woman:** Tu vas bien ? (Are you okay?)
 
 The sound reaches Bette's ears, this time more familiar, but still indecipherable. She can at least tell from the woman's expression that she meant no harm.
 
@@ -1736,11 +1710,11 @@ Looking around, Bette doesn't see anyone else who might help. She has no choice 
 
 Bette gestures with her box camera.
 
-**Young Woman:**Est-ce que vous voulez que je prenne une photo ? (Do you want me to take a photo for you?)
+**Young Woman:** Est-ce que vous voulez que je prenne une photo ? (Do you want me to take a photo for you?)
 
 **Bette:** Photo! Yes!
 
-**Young Woman:**Bien sûr. (Of course.)
+**Young Woman:** Bien sûr. (Of course.)
 
 The woman gives her a small nod with a shy smile, and Bette thanks her.
 
@@ -1752,11 +1726,11 @@ Beforehand, she had practiced many angles in front of a mirror—this one proved
 
 The director's slightly upturned nose and thick, coarse eyebrows were his defining features. As long as they're visible, even he wouldn't be able to tell the difference.
 
-**Young Woman:**Ouah !
+**Young Woman:** Ouah !
 
 "Click!" The woman presses the shutter, capturing a photo so realistic it could fool anyone.
 
-**Young Woman:**Épatant ! (Amazing!)
+**Young Woman:** Épatant ! (Amazing!)
 
 **Bette:** Hold on, just a moment!
 
@@ -1764,7 +1738,7 @@ Bette rummages through her bag, pulling out another lead actor's costume. She sh
 
 "Click!" The woman presses the shutter again.
 
-**Young Woman:**C'est incroyable ! (That's incredible!)
+**Young Woman:** C'est incroyable ! (That's incredible!)
 
 As Bette continues changing outfits and forms, a few curious onlookers begin to gather around. In the distance, more people stop to watch.
 
@@ -2299,13 +2273,13 @@ Setting the film aside, she draws large, bold letters on a piece of paper.
 
 "Apple Core."
 
-**Bette:**"Apple Core."
+**Bette:** "Apple Core."
 
 Bette had peeled an apple for Jones, only to be ruthlessly teased for her knife skills.
 
 "Pharaoh's Night."
 
-**Bette:**"Pharaoh's Night."
+**Bette:** "Pharaoh's Night."
 
 A horror-style short Jones had asked Bette to shoot, where Jones, wrapped head to toe in bandages, bolted upright in bed—
 
@@ -2750,21 +2724,11 @@ The voice is a clear and crisp whisper.
 
 I hate this place.
 
-I hate this place.
-
-You haven't got my eyebrows right at all!
-
 You haven't got my eyebrows right at all!
 
 Now it's your role. Your movie ... Finish it ...
 
-Now it's your role. Your movie ... Finish it ...
-
 A sweet and eternal dream.
-
-A sweet and eternal dream.
-
-THE END
 
 THE END
 <!-- reader-body:end -->
@@ -3141,15 +3105,15 @@ She didn't star in her film. She didn't touch the film at all. When she buried J
 
 "Yes!"
 
-**Bette:**"Yes!"
+**Bette:** "Yes!"
 
 "No!"
 
-**Bette:**"No!"
+**Bette:** "No!"
 
 "Ah—"
 
-**Bette:**"Ah—"
+**Bette:** "Ah—"
 
 **Bette:** ...
 
@@ -3222,8 +3186,6 @@ She holds her stare at the engraved letters, the carved marks flowing like rippl
 Bette shakes the film strip in her hand.
 
 **Bette:** I promise—it will be spectacular.
-
-The last film of the 1930s.
 
 The last film of the 1930s.
 <!-- reader-body:end -->

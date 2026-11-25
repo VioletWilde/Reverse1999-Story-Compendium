@@ -238,13 +238,13 @@ Faster than Argus has no time to react.
 
 **Argus:** What are you ...
 
-**Bartender:****She's a f\*\*king merc!** Grab the deputy!
+**Bartender:** **She's a f\*\*king merc!** Grab the deputy!
 
 **Bartender:** I'll hold her here!
 
 **Argus:** No, what?!
 
-**Argus:****What the hell is going on?!**
+**Argus:** **What the hell is going on?!**
 
 **Bartender:** I'm sorry, ma'am. Like I said, the wall ain't no place of pilgrimage.
 
@@ -806,7 +806,7 @@ There is no time for chewing.
 
 **Argus:** \*deep breath\* Come on.
 
-**Argus:**And thence we came forth to see again the stars.
+**Argus:** And thence we came forth to see again the stars.
 
 Argus casts her arcane skill while moving forward.
 

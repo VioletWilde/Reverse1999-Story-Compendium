@@ -31,8 +31,6 @@ Are stories buried in the depths of time.
 <!-- reader-body:start -->
 I can't remember when it was that I began to hate the fog.
 
-I can't remember when it was that I began to hate the fog.
-
 This city, forever shrouded in fog, prompts the overwrought comparison between Sisyphus's endless struggle and our own.
 
 The fog that covers this absurdity and unsightliness is like a bell jar imprisoning a cricket.
@@ -59,7 +57,7 @@ How long has it been since I last saw the sun?
 
 **Oliver Fog:** Oh... Sorry, Miss Vertin. I lost myself for a moment there. What were we talking about just now?
 
-**Vertin:** That we hoped you would aid our cause two days from now. With the enemy well hidden within the fog;determining their location will be no easy feat. It looks like we'll be counting on you and your arcane skill to succeed.
+**Vertin:** That we hoped you would aid our cause two days from now. With the enemy well hidden within the fog; determining their location will be no easy feat. It looks like we'll be counting on you and your arcane skill to succeed.
 
 **Oliver Fog:** The day after tomorrow... That's a holiday, isn't it?
 

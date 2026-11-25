@@ -1424,9 +1424,9 @@ The rest of the pack follows, pouncing together—
 
 He kneels by the moose.
 
-**Shamane:**A feast has been given to us.
+**Shamane:** A feast has been given to us.
 
-**Shamane:**May it walk with you, mother nature.
+**Shamane:** May it walk with you, mother nature.
 
 Footprints trace the cliff's edge, startling the birds into flight...becoming food, and nurturing new life.
 
@@ -1664,7 +1664,7 @@ His eyes grow veiled.
 
 A black figure emerges in the mist.
 
-**Carbuncle:** @#$&!@#$&!
+**Carbuncle:** @#$&! @#$&!
 
 **Shamane:** ...
 

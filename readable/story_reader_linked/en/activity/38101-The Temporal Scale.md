@@ -68,17 +68,9 @@ To find the unspoken words neither remembered nor forgotten.
 
 "Foundation Headquarters collapsed. Our systems are paralyzed."
 
-"Foundation Headquarters collapsed. Our systems are paralyzed."
-
-"It is with deep regret that we confirm Laplace has lost its director. Monitoring will continue."
-
 "It is with deep regret that we confirm Laplace has lost its director. Monitoring will continue."
 
 "Manus Vindictae will not stop at this. Every necessary measure will be taken."
-
-"Manus Vindictae will not stop at this. Every necessary measure will be taken."
-
-"Based on available data, we believe this temporal anomaly to be persistent and irreversible."
 
 "Based on available data, we believe this temporal anomaly to be persistent and irreversible."
 
@@ -730,16 +722,6 @@ The river, the roads, the fog ... Maybe it's only a reflection of my mood, but t
 
 And I'm about to head to a presumably equally grim building to meet Bkornblume.
 
-18. April 1996.
-
-Cloudy.
-
-Day three in Nowa Miedź.
-
-The river, the roads, the fog ... Maybe it's only a reflection of my mood, but this whole place seems grim.
-
-And I'm about to head to a presumably equally grim building to meet Bkornblume.
-
 **Drunkard:** \*exhale\*
 
 There's a man sprawled out across the train station's lone intact bench. A bottle rolls over from his direction.
@@ -1136,21 +1118,21 @@ Then, a blinding light cuts through the shadows.
 
 **Puppet?:** The burn-song flaming; the ouch-tear's oof.
 
-**Everecho:**♫ The sighing song murmurs sure ♫
+**Everecho:** ♫ The sighing song murmurs sure ♫
 
 **Puppet?:** Raise your flappers, flip ■■■■ floppers!
 
 **Puppet?:** One step!
 
-**Everecho:**♫ To trace the steps my mother trod ♫
+**Everecho:** ♫ To trace the steps my mother trod ♫
 
 **Puppet?:** Two!
 
-**Everecho:**♫ I wander every distant sod ♫
+**Everecho:** ♫ I wander every distant sod ♫
 
 **???:** Three steps we go!
 
-**Everecho:**♫ Till an echo comes from the distant sun ♫
+**Everecho:** ♫ Till an echo comes from the distant sun ♫
 
 **Everecho:** So soft, so d■■■, these co■■■■ chambers ...
 
@@ -1347,8 +1329,6 @@ Familiar light. Familiar shadows. A familiar hallway.
 
 The exit is just up ahead.
 
-The exit is just up ahead.
-
 Cornerstone takes a deep breath and steps forward into that backdrop of so many of her dreams.
 
 Atrium, The Building
@@ -1498,14 +1478,6 @@ He pats the gray rubble piled up beside him.
 He lets out a huff through his nose and falls silent, but he doesn't leave.
 
 Meanwhile, Cornerstone crouches down to bring her ear to the stones.
-
-It's been so long.
-
-We've been doing well in Gdańsk. The sky is no longer dark.
-
-■■■ family has grown, a beautiful new daughter.
-
-I'm sure Lu■■■■ will be happy for us ...
 
 It's been so long.
 
@@ -2271,8 +2243,6 @@ And in the silence, an invisible force brings their emotions together to rise an
 
 An hour later …
 
-An hour later …
-
 Before they know it, it's already midnight.
 
 Thanks to the vodka, the lights have grown softer, their once-clear boundaries melting away. Now, everyone is chatting and clinking glasses like old friends.
@@ -2516,18 +2486,6 @@ The proposal has been formally submitted to the Foundation. I am certain it will
 
 P.S. I'm presently regretting every last sip of those cocktails.
 
-19. April 1996.
-
-Cloudy.
-
-Olga has agreed to help put together a construction team.
-
-It's only a few people, but for the early stage of the project, it will suffice.
-
-The proposal has been formally submitted to the Foundation. I am certain it will be the cause of many discussions and debates.
-
-P.S. I'm presently regretting every last sip of those cocktails.
-
 **Foundation Staff Member I:** Did you hear? Turns out the Point Irreversible in Nowa Miedź really is immune, and they think it's because of a building.
 
 **Foundation Staff Member II:** With a few more of these immune locations, even if the anomaly happens again ...
@@ -2742,14 +2700,6 @@ We've been doing well in Gdańsk. The sky is no longer dark.
 
 I'm sure Lu■■■■ will be happy for us ...
 
-It's been so long.
-
-We've been doing well in Gdańsk. The sky is no longer dark.
-
-■■■ family has grown, a beautiful new daughter.
-
-I'm sure Lu■■■■ will be happy for us ...
-
 Fragments of memories piece themselves together, forming a reality that looks both coincidental and perfectly rational.
 
 **Cornerstone:** Yesterday, I heard a woman's voice speaking from one of the Echo Stones. It sounded like—
@@ -2882,11 +2832,7 @@ It's empty, save for the lingering odor of liquor and smoke.
 
 ♫ When the wind began to stir ♫
 
-♫ When the wind began to stir ♫
-
 A voice, melodic and airy, finds its way in.
-
-♫ Mother rose and wandered afar ♫
 
 ♫ Mother rose and wandered afar ♫
 
@@ -2894,7 +2840,7 @@ The song continues, and the voice grows clearer.
 
 As it reaches its end, a colorful glow passes through a wall.
 
-**Everecho:**♫ You knew it true, it's me, my dear ♫
+**Everecho:** ♫ You knew it true, it's me, my dear ♫
 
 **Everecho:** Hmm. There's nobody here. Then I ...
 
@@ -3323,16 +3269,6 @@ Construction commences today. The schedule is as follows:
 
 8:00 AM: Site induction with the workers ...
 
-23. April 1996.
-
-Sunny.
-
-Construction commences today. The schedule is as follows:
-
-7:30 AM: Arrived on site, checked all safety measures, and ensured the hoardings and notices are up.
-
-8:00 AM: Site induction with the workers ...
-
 **Grundriss:** Right, everything's set. We're off to a smooth start!
 
 **Grundriss:** You can do this, Grundriss. It's just a job like any other.
@@ -3350,8 +3286,6 @@ The atrium is empty.
 A breeze whisks up a couple of yellowed leaves, smacking Grundriss square in the face.
 
 **Grundriss:** Did I get the time wrong?
-
-Four hours later …
 
 Four hours later …
 
@@ -3446,8 +3380,6 @@ She takes out a marker pen and draws an "X" on the Echo Stone.
 **Grundriss:** Next, there are a few safety rules to follow. Refusal to comply with any one of them—
 
 **Grundriss:** Will result in a penalty deducted directly from your salary.
-
-Two hours later …
 
 Two hours later …
 
@@ -4156,8 +4088,6 @@ In the end, she falls unconscious.
 
 \*thwack\*
 
-\*thwack\*
-
 **Everecho:** \*cough\*
 
 A palm comes down on her back, dislodging the eraser from her throat.
@@ -4443,17 +4373,9 @@ In its ruins,
 
 we find no peace.
 
-In its ruins,
-
-we find no peace.
-
 As if sensing something, the Echo Stones piled in the corner tremble and hum.
 
 The voices reverberate in the space, weaving into a sort of homogeneous, distant movement.
-
-The birds are gone. Winter has come.
-
-The voices are gone. The names have faded.
 
 The birds are gone. Winter has come.
 
@@ -4541,16 +4463,6 @@ She hands the saliva-covered weapon to Cornerstone.
 > Welcome, dear friends, to the new house. I've got hot tea waiting—raspberry.
 
 <!-- reader-body:start -->
-8. May 1996.
-
-Sunny.
-
-16 days into the project.
-
-Things have gotten bumpier. It turned out that the west wing had far less usable material than we initially hoped. Each wall only yielded a few intact stones.
-
-In the end, we had to take down walls from the residential wing to get the numbers we needed.
-
 8. May 1996.
 
 Sunny.
@@ -4703,7 +4615,7 @@ She removes part of the ceiling at the kitchen's center, revealing a grayish-blu
 
 So everyone at home could feel the sunlight?
 
-**Young Cornerstone:**So everyone at home could feel the sunlight?
+**Young Cornerstone:** So everyone at home could feel the sunlight?
 
 Her childhood was gray, a dream built from ashes.
 
@@ -4844,10 +4756,6 @@ She was their prayers. She was their testimonies. She was their memories.
 
 The daisy breathes soft in my ear
 
-The daisy breathes soft in my ear
-
-It saw the tears she shed that year
-
 It saw the tears she shed that year
 
 Whenever someone sang of her, she gained a new blood vessel, a new strand of light.
@@ -4866,21 +4774,9 @@ In a melody, I weave the duality of dawn—
 
 For only us in the blinding radiance, you and me.
 
-The sun rises, casting a golden glow across the cemetery.
-
-In a melody, I weave the duality of dawn—
-
-For only us in the blinding radiance, you and me.
-
 **Nascent Everecho:** U-Us ...
 
 **Nascent Everecho:** You ... Me ...
-
-Your steps dance, your eyes twinkle.
-
-Yet within them I see doubt and sorrow.
-
-Come. Let us walk hand in hand through the fields of daisies, unto your silent domain.
 
 Your steps dance, your eyes twinkle.
 
@@ -5088,12 +4984,6 @@ To the grandest, greatest, brightest tomorrow!
 
 Let our sacred pyramid rise on the horizon!
 
-The foolish declare: Forward, to the future!
-
-To the grandest, greatest, brightest tomorrow!
-
-Let our sacred pyramid rise on the horizon!
-
 The voices grow louder until all anyone can hear is their clamor.
 
 Their discordant rhythms send tremors through the Echo Stones.
@@ -5101,10 +4991,6 @@ Their discordant rhythms send tremors through the Echo Stones.
 **Cornerstone:** ...
 
 **Cornerstone:** Something isn't right. Everyone, get back!
-
-Alas, in the tomorrow you so desire—
-
-In the cemetery glowing gold, you shall die!
 
 Alas, in the tomorrow you so desire—
 
@@ -5118,17 +5004,9 @@ The model crumbles only for its remains to warp and reassemble. It grows larger,
 
 Until finally, its shadow dwarfs the onlookers.
 
-**Deformed Echo Stones:**Tomorrow ...
+**Deformed Echo Stones:** Tomorrow ...
 
-**Deformed Echo Stones:**Brightest tomorrow!
-
-Forward! No more fading sunsets.
-
-No more tears nor regret.
-
-No more echoes of the past.
-
-Forward! Never look back!
+**Deformed Echo Stones:** Brightest tomorrow!
 
 Forward! No more fading sunsets.
 
@@ -5647,13 +5525,7 @@ She's already seen many similar details throughout the building.
 
 Stasia, shhhh. Listen.
 
-Stasia, shhhh. Listen.
-
 Sounds like these can only be heard if we're as quiet as a whisper.
-
-Sounds like these can only be heard if we're as quiet as a whisper.
-
-It's like they've been waiting a long, long time to be found.
 
 It's like they've been waiting a long, long time to be found.
 
@@ -6755,13 +6627,7 @@ The light in her body recedes, flowing along Lucjan's translucent arm to infuse 
 
 O Giver of Light, immeasurable, omnipresent.
 
-O Giver of Light, immeasurable, omnipresent.
-
 Grant me the silence beyond compare, beyond imagination.
-
-Grant me the silence beyond compare, beyond imagination.
-
-Shadowless, lightless, shadowless, lightless ...
 
 Shadowless, lightless, shadowless, lightless ...
 
@@ -8027,8 +7893,6 @@ He catches her steely gaze and accepts that there's no changing her mind.
 
 The next day
 
-The next day
-
 **Grundriss:** Took you long enough.
 
 The fog lifts just enough to unveil the stall. Grundriss stands in front of it, tapping her foot.
@@ -8064,8 +7928,6 @@ She can't help but roll her eyes.
 **Grundriss:** I shouldn't have asked.
 
 **Grundriss:** Anyway, they'll definitely grab some attention.
-
-Two hours later …
 
 Two hours later …
 
@@ -8298,23 +8160,11 @@ The construction team has been formed and trained. Key materials, including mold
 
 and concrete, have been procured. Construction is to be restarted.
 
-15. July 1996.
-
-The construction team has been formed and trained. Key materials, including molds, rebars,
-
-and concrete, have been procured. Construction is to be restarted.
-
 **Grundriss:** Last and most important rule: don't be late.
 
 **Grundriss:** Work starts at 8 AM sharp. Even one minute later, and you'll be penalized.
 
 **Grundriss:** No exceptions. No excuses.
-
-20. September 1996.
-
-Dome frame construction and mold installation have been completed.
-
-Concrete pouring is about to begin.
 
 20. September 1996.
 
@@ -8334,21 +8184,11 @@ Concrete pouring is being carried out in stages. Due to the Echo Stones' unique 
 
 we're using self-leveling concrete to ensure a smooth and even surface.
 
-22. September 1996.
-
-Concrete pouring is being carried out in stages. Due to the Echo Stones' unique makeup,
-
-we're using self-leveling concrete to ensure a smooth and even surface.
-
 **Cornerstone:** See that? How the concrete follows the texture of the Echo Stones? How it fills every crevice?
 
 **Cornerstone:** They're becoming one, slowly, steadily. A true unification.
 
 **Cornerstone:** Hold it steady! Let the concrete set at its own pace.
-
-1. November 1996.
-
-With the concrete set, today, we remove the molds.
 
 1. November 1996.
 
@@ -8481,10 +8321,6 @@ Darkness descends.
 **Cornerstone:** Grundriss, any alerts from the equipment?
 
 A voice answers, but it's not the one she wants to hear.
-
-The horn is sounded.
-
-The moment is nigh.
 
 The horn is sounded.
 
@@ -8992,7 +8828,7 @@ Every face turns to the woman seated at the end of the conference table, who has
 
 Clappy Jelly User Manual
 
-Name: Clappy Jelly Features: ① Monitors the local environment's energy levels in real time, precisely detecting spatial fluctuations. ② Automatically triggers a continuous alarm when abnormal or dangerous energy signals appear. How to Use: ① Place Clappy Jelly at the center of the intended monitoring area. ② Massage its tentacles until the sensor pads glow green. ③ Pat the top of its head for about 3 seconds. It will power on and float up to its working height. ④ Clap hard once, and it will expand a spherical monitoring field, the range of which will increase over time. ⑤ Clap hard once more, and it will lock in the current sphere size and begin monitoring energy. ⑥ While the environment's energy stays stable, the Clappy Jelly will cruise through the air on its own. If it detects abnormal fluctuations, its tentacles will clap rapidly, much as a nervous person might, sounding the alarm with a frightened cry. ⑦ Sing Clappy Jelly a lullaby, and it will descend slowly, save its monitoring data, and drift off to sleep. Manufacturer: Institutum Lorentz **Notice:**Please do not forcibly power down this device during large-scale arcane rituals. Clappy Jellies are consummate professionals, but not especially brave. If startled, they may enter a prolonged alert state.
+Name: Clappy Jelly Features: ① Monitors the local environment's energy levels in real time, precisely detecting spatial fluctuations. ② Automatically triggers a continuous alarm when abnormal or dangerous energy signals appear. How to Use: ① Place Clappy Jelly at the center of the intended monitoring area. ② Massage its tentacles until the sensor pads glow green. ③ Pat the top of its head for about 3 seconds. It will power on and float up to its working height. ④ Clap hard once, and it will expand a spherical monitoring field, the range of which will increase over time. ⑤ Clap hard once more, and it will lock in the current sphere size and begin monitoring energy. ⑥ While the environment's energy stays stable, the Clappy Jelly will cruise through the air on its own. If it detects abnormal fluctuations, its tentacles will clap rapidly, much as a nervous person might, sounding the alarm with a frightened cry. ⑦ Sing Clappy Jelly a lullaby, and it will descend slowly, save its monitoring data, and drift off to sleep. Manufacturer: Institutum Lorentz **Notice:** Please do not forcibly power down this device during large-scale arcane rituals. Clappy Jellies are consummate professionals, but not especially brave. If startled, they may enter a prolonged alert state.
 
 - Description：Everyone knows: read the manual first, save your fingers later.
 - Action：Start Reading
@@ -9393,8 +9229,6 @@ A perfectly sunny and perfectly ordinary day.
 
 One year later
 
-One year later
-
 3. April 1987.
 
 Sunny.
@@ -9505,7 +9339,7 @@ She makes an awkward gesture as the memory replays in her mind.
 
 **Cornerstone:** And then she sang a song.
 
-**Grundriss:**Mother's Departure, right?
+**Grundriss:** Mother's Departure, right?
 
 **Cornerstone:** So you remember too. Hah. And here I thought I was the sentimental fool.
 
@@ -9553,8 +9387,6 @@ And in the tranquility, her mind finally finds respite.
 
 ♫ I wander every distant sod ♫
 
-♫ I wander every distant sod ♫
-
 **Cornerstone:** ...!
 
 **Cornerstone:** What is that?
@@ -9574,8 +9406,6 @@ A breeze rustles the flowers, setting light and shadow dancing.
 After all, the past can never truly fade, for its song echoes into eternity.
 
 As surely as light casts a shadow.
-
-♫ You knew it true, it's me, my dear ♫
 
 ♫ You knew it true, it's me, my dear ♫
 <!-- reader-body:end -->

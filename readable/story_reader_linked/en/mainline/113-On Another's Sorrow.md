@@ -1672,43 +1672,43 @@ The woman in question lifts her head from the neat stacks of files on her desk.
 
 Homecoming Day
 
-???:Such a lovely day, isn't it?
+???: Such a lovely day, isn't it?
 
-???:These noisy children are soon going to be locked behind the school gate, and I will say goodbye to you.
+???: These noisy children are soon going to be locked behind the school gate, and I will say goodbye to you.
 
-???:This war will be over as long as I close my eyes. It has lasted far too long.
+???: This war will be over as long as I close my eyes. It has lasted far too long.
 
-???:Finally ...
+???: Finally ...
 
 What are you doing standing around? Aren't you heading to school? Go on then. Children your age are SUPPOSED to be learning and playing.
 
 > **Choice 1：** I graduated long ago.
 
-???:College then. Get yourself a doctorate at least.
+???: College then. Get yourself a doctorate at least.
 
-???:Haven't you realized how precious peace is after coming back from the battlefield? Make your life count.
+???: Haven't you realized how precious peace is after coming back from the battlefield? Make your life count.
 
-???:I'm going to take a nap. Now, go and find something to keep yourself busy.
+???: I'm going to take a nap. Now, go and find something to keep yourself busy.
 
 > **Choice 2：** I'll miss you.
 
-???:Oh, please.
+???: Oh, please.
 
-???:Take a look at that tree. I think it must feed on the escape plans of students like you; how else could it grow two inches taller every year?
+???: Take a look at that tree. I think it must feed on the escape plans of students like you; how else could it grow two inches taller every year?
 
-???:I imagine it might even serve as something of a secret hideout for them.
+???: I imagine it might even serve as something of a secret hideout for them.
 
-???:But I wonder if anyone ever bothers to visit it again after they leave; likely not. A once beloved place all too quickly forgotten.
+???: But I wonder if anyone ever bothers to visit it again after they leave; likely not. A once beloved place all too quickly forgotten.
 
-???:Do you know why?
+???: Do you know why?
 
-???:Because they are too afraid to face the difficult truth.
+???: Because they are too afraid to face the difficult truth.
 
-???:That they wasted the most carefree days of their lives trying to escape from paradise into hell, and now there's no power in heaven or earth that can send them back.
+???: That they wasted the most carefree days of their lives trying to escape from paradise into hell, and now there's no power in heaven or earth that can send them back.
 
-???:You'll end up just as pathetic as them, unless you can go back there and prove your courage.
+???: You'll end up just as pathetic as them, unless you can go back there and prove your courage.
 
-???:You won't have anything like the fanfare your French classmate received—she was proud as a peacock when she walked through that gate. But you'll not chicken out, will you?
+???: You won't have anything like the fanfare your French classmate received—she was proud as a peacock when she walked through that gate. But you'll not chicken out, will you?
 
 ### Trail · Perfect Exchange
 
@@ -2843,17 +2843,11 @@ Several dull-looking shards have buried themselves in Matilda's clothes.
 
 **Thoughts bombard her from every direction, but whether it's the adrenaline or some spark of confidence, she finds her center.**
 
-**Thoughts bombard her from every direction, but whether it's the adrenaline or some spark of confidence, she finds her center.**
-
 **Merel:** First, hide Matilda somewhere safe. Second, get the backup Dove to protect us from the Storm Syndrome.
 
 **Merel:** Then, take Matilda to the central watchtower or the library and wait for rescue. That's the plan.
 
 **Her heart beats faster, stronger, but steady.**
-
-**Her heart beats faster, stronger, but steady.**
-
-**With deep breaths, she gets her trembling under control. Fear transforms into resolve, her mind and body reacting in sync like never before.**
 
 **With deep breaths, she gets her trembling under control. Fear transforms into resolve, her mind and body reacting in sync like never before.**
 
@@ -3393,7 +3387,7 @@ The captain of the First Squad comes over.
 
 Running Out of Disks
 
-**A Brief Overview of Teleport Disk Usage in the Current Era****1. General Situation** Headquarters's teleport disk supply across all departments is critically low. As a single-use item with a limited capacity per teleportation, emergency rationing remains in effect based on current inventory. Priority is given to frontline and core mission units. Requests for additional supplies will not be approved outside of special emergencies or critical needs. **2. Cause and Background** The only known source of the primary materials for teleport disks is located in the core conflict zone of the ongoing war. Extraction operations have been fully suspended, and supply routes remain blocked. As a result of these uncontrollable factors, teleport disk production has dropped significantly, inventory continues to decline, and resupply remains uncertain. **3. Conclusion** Due to the disruption of material supplies, teleport disk stocks have entered a critical shortage. The Laplace Scientific Computing Center is actively researching substitute materials. Headquarters requires all departments to strictly adhere to rationing standards and optimize usage strategy. All combat objectives must be carefully evaluated, with disks reserved for critical junctures capable of turning the tide of battle, in order to manage current and future supply pressures.
+**A Brief Overview of Teleport Disk Usage in the Current Era** **1. General Situation** Headquarters's teleport disk supply across all departments is critically low. As a single-use item with a limited capacity per teleportation, emergency rationing remains in effect based on current inventory. Priority is given to frontline and core mission units. Requests for additional supplies will not be approved outside of special emergencies or critical needs. **2. Cause and Background** The only known source of the primary materials for teleport disks is located in the core conflict zone of the ongoing war. Extraction operations have been fully suspended, and supply routes remain blocked. As a result of these uncontrollable factors, teleport disk production has dropped significantly, inventory continues to decline, and resupply remains uncertain. **3. Conclusion** Due to the disruption of material supplies, teleport disk stocks have entered a critical shortage. The Laplace Scientific Computing Center is actively researching substitute materials. Headquarters requires all departments to strictly adhere to rationing standards and optimize usage strategy. All combat objectives must be carefully evaluated, with disks reserved for critical junctures capable of turning the tide of battle, in order to manage current and future supply pressures.
 
 - Description：Soldiers, time to tighten our belts!
 - Action：Check Notice
@@ -3593,7 +3587,7 @@ Path, SPDM
 
 **Merel:** Sonetto!
 
-**Sonetto:**Regnaserenointensoedinfinito!
+**Sonetto:** Regna sereno intenso ed infinito!
 
 Light flows from the tip of her glasfeder, condenses, then cleaves through the air like a sword.
 
@@ -5054,43 +5048,43 @@ The footsteps grow sparser. It's time to go. She shouldn't push against the flow
 
 The Everlasting Chaos
 
-???:What's beneath your hat?
+???: What's beneath your hat?
 
 > **Choice 1：** My head.
 
-???:Just a head, no creepy black bones sticking out from your temples?
+???: Just a head, no creepy black bones sticking out from your temples?
 
-???:Thank goodness. I'm not sure I could handle another conversation with those lunatics.
+???: Thank goodness. I'm not sure I could handle another conversation with those lunatics.
 
-???:I do hope, if you ever find a bone stuck through your brain one day, that you won't hesitate to see a doctor.
+???: I do hope, if you ever find a bone stuck through your brain one day, that you won't hesitate to see a doctor.
 
 > **Choice 2：** My face.
 
-???:But why bother covering such a pretty face? You're young and good-looking.
+???: But why bother covering such a pretty face? You're young and good-looking.
 
-???:Don't be so shy to show it off. If that boneheaded lunatic doesn't bother to hide her face, you shouldn't either.
+???: Don't be so shy to show it off. If that boneheaded lunatic doesn't bother to hide her face, you shouldn't either.
 
-???:But seriously, if you do find a bone stuck through your brain one day, don't hesitate to see a doctor.
+???: But seriously, if you do find a bone stuck through your brain one day, don't hesitate to see a doctor.
 
-???:I don't call that woman a lunatic without good reason.
+???: I don't call that woman a lunatic without good reason.
 
 > **Choice 1：** I doubt I would survive it.
 
-???:So you say, but you know what happened to her: she died and came back.
+???: So you say, but you know what happened to her: she died and came back.
 
-???:That is a rare privilege. How many can say they had the same gift? Death tends to be terribly final for most.
+???: That is a rare privilege. How many can say they had the same gift? Death tends to be terribly final for most.
 
-???:She was the exception, and just look at what she's made of it.
+???: She was the exception, and just look at what she's made of it.
 
 > **Choice 2：** It might hurt a bit.
 
-???:Life is pain. Lately it seems like every bone in my body aches ... Worse, the pain seems to come no matter the weather.
+???: Life is pain. Lately it seems like every bone in my body aches ... Worse, the pain seems to come no matter the weather.
 
-???:But I wasn't rewarded with immortality for all my pains.
+???: But I wasn't rewarded with immortality for all my pains.
 
-???:It seems unfair that a privilege like that should be given to such a troublemaker.
+???: It seems unfair that a privilege like that should be given to such a troublemaker.
 
-???:This whole damned world is coming to an end!
+???: This whole damned world is coming to an end!
 
 
 ---
@@ -5763,7 +5757,7 @@ Ultimately, nothing on these shelves suits the cold-eyed woman.
 
 Manus Vindictae Leaders
 
-\[A flowing handwritten note; faint scale powder clings to the paper.\]**Taira** His true form is a crab that latches onto the faces of others. Through his arcane skills, he can control the movements of his host. The death of the host does not harm him. Always be wary of the crab. **Lyra** She can control—or amplify?—emotions through song. Her voice is highly mobile, and her wind-based arcane skills are wide-reaching and difficult to guard against. **Ustrina** The medium of her arcane skills is possibly a shadow in the shape of a sickle. She can use it to inflict mental damage, though her victims show no visible physical wounds or signs of pain. Evade the sickle, and use mental defense arcane skills if possible. **Hypothetik** He takes the form of a giant stitched puppet. His arcane skills allow him to implant emotions, beliefs, or fragments of consciousness into the minds of others—most commonly fear. Counter him the same way you would against Ustrina. **İlmek** No arcane skills have been observed, but her strength and endurance far exceed ordinary limits. Avoid engaging her up close. **Prima** Skilled in hypnosis and torture, and known for her brutal nature. Her mother, Animus, was a Manus Apostle and died during the Antarctic incident. ... No deeper contact has been made with the remaining leaders. Physical descriptions of suspected leaders are recorded in the appendix.
+\[A flowing handwritten note; faint scale powder clings to the paper.\] **Taira** His true form is a crab that latches onto the faces of others. Through his arcane skills, he can control the movements of his host. The death of the host does not harm him. Always be wary of the crab. **Lyra** She can control—or amplify?—emotions through song. Her voice is highly mobile, and her wind-based arcane skills are wide-reaching and difficult to guard against. **Ustrina** The medium of her arcane skills is possibly a shadow in the shape of a sickle. She can use it to inflict mental damage, though her victims show no visible physical wounds or signs of pain. Evade the sickle, and use mental defense arcane skills if possible. **Hypothetik** He takes the form of a giant stitched puppet. His arcane skills allow him to implant emotions, beliefs, or fragments of consciousness into the minds of others—most commonly fear. Counter him the same way you would against Ustrina. **İlmek** No arcane skills have been observed, but her strength and endurance far exceed ordinary limits. Avoid engaging her up close. **Prima** Skilled in hypnosis and torture, and known for her brutal nature. Her mother, Animus, was a Manus Apostle and died during the Antarctic incident. ... No deeper contact has been made with the remaining leaders. Physical descriptions of suspected leaders are recorded in the appendix.
 
 - Description：Those still fresh—and those you've grown tired of.
 - Action：View the List
@@ -6466,7 +6460,7 @@ Book Stacks, Library
 
 **Merel:** Excuse me, miss. May I borrow this book?
 
-**School Librarian:**Five Easy Recipes to Brew an Invisibility Potion? Are you sure you've picked the right book, dear? The final exams are coming up, and I doubt this appears anywhere on your syllabus.
+**School Librarian:** Five Easy Recipes to Brew an Invisibility Potion? Are you sure you've picked the right book, dear? The final exams are coming up, and I doubt this appears anywhere on your syllabus.
 
 **Merel:** No, it doesn't, but ...
 
@@ -6668,7 +6662,7 @@ Time. She needs time to calm her nerves.
 
 **Sonetto & Merel:** ...
 
-**Vertin:**Unlocktheleadensecret.
+**Vertin:** Unlock the leaden secret.
 
 The momentary chaos ends, and an empty, black gate manifests ahead.
 
@@ -9015,11 +9009,11 @@ Dust swirls in the air.
 
 **???:** I do not seek to bestow blessings, for you need none.
 
-**???:**Vekiĝu en la regno de mortemuloj.
+**???:** Vekiĝu en la regno de mortemuloj.
 
 **Vertin:** ...!
 
-**Vertin:**Vekiĝuenlaregnodemortemuloj.
+**Vertin:** Vekiĝu en la regno de mortemuloj.
 
 **Vertin:** ...?!
 
@@ -9349,35 +9343,35 @@ The sound of salvation comes from the door behind them.
 
 Competitive Business
 
-???:\*sigh\* I'm surprised, I must say.
+???: \*sigh\* I'm surprised, I must say.
 
-???:Why would anyone else want to talk to you in riddles the same way I do?
+???: Why would anyone else want to talk to you in riddles the same way I do?
 
-???:It's kind of a chore being this vague, to be honest. He has to be getting paid for this.
+???: It's kind of a chore being this vague, to be honest. He has to be getting paid for this.
 
 > **Choice 1：** Are you paid to talk to me?
 
-???:If only.
+???: If only.
 
-???:All I've received in compensation for our little talks is a dry tongue. I've already poured three pots of tea today.
+???: All I've received in compensation for our little talks is a dry tongue. I've already poured three pots of tea today.
 
 > **Choice 2：** Are you actually interested in talking to me?
 
-???:Do you think you're all that interesting a conversation partner?
+???: Do you think you're all that interesting a conversation partner?
 
-???:I'm not some retiree who has nothing else to do.
+???: I'm not some retiree who has nothing else to do.
 
-???:The only reason I talk to you is because you won't leave my house.
+???: The only reason I talk to you is because you won't leave my house.
 
-???:What else should I do? I'm not strong enough to throw you out.
+???: What else should I do? I'm not strong enough to throw you out.
 
-???:My only defense is a razor-sharp wit, though it seems to never cut you deep enough to matter. I swear at times I think you've been glued into that chair.
+???: My only defense is a razor-sharp wit, though it seems to never cut you deep enough to matter. I swear at times I think you've been glued into that chair.
 
-???:\*sigh\* Never mind. Sometimes we just have to accept the little disappointments in life.
+???: \*sigh\* Never mind. Sometimes we just have to accept the little disappointments in life.
 
-???:That old dust whines about the plaster figures intruding in his room. But that's all he's done so far.
+???: That old dust whines about the plaster figures intruding in his room. But that's all he's done so far.
 
-???:If he wants to take over for me, do let me know. If it means not having to come up with any more riddles, I'll even let him sit in my chair.
+???: If he wants to take over for me, do let me know. If it means not having to come up with any more riddles, I'll even let him sit in my chair.
 
 
 ---
@@ -9472,9 +9466,9 @@ Just as they're circling around Nautika, a moth appears and lands on Eagle's sho
 
 **Eagle:** A moth? Ms. Stranger, is that you?
 
-**Ms. Stranger:**I've found clues as to the Manus entry point.
+**Ms. Stranger:** I've found clues as to the Manus entry point.
 
-**Ms. Stranger:**Operation's going smoothly so far. Entrance should be located and closed down in no time.
+**Ms. Stranger:** Operation's going smoothly so far. Entrance should be located and closed down in no time.
 
 **"Razor":** Is she saying she's found the Manus entry point and she's on her way to close it?
 
@@ -9532,7 +9526,7 @@ The ritualist slumps against the wall as if utterly drained, though no more wors
 
 **Ritualist:** I ... I'll tear that blasphemous tongue from your mouth!
 
-**Ms. Stranger:**Descendintodreams.
+**Ms. Stranger:** Descend into dreams.
 
 **Ritualist:** ...!
 
@@ -9861,7 +9855,7 @@ She holds herself up against the building's coarse outer wall.
 
 So many donned this mask because of your lies. Do you remember their faces?
 
-**Ms. Grace:**So many donned this mask because of your lies. Do you remember their faces?
+**Ms. Grace:** So many donned this mask because of your lies. Do you remember their faces?
 
 You lured them in, broke them, and cast them into the abyss,
 
@@ -9869,7 +9863,7 @@ stood by and watched them surrender their souls to a goddess you never believed 
 
 never truly knew.
 
-**Ms. Grace:**You lured them in, broke them, and cast them into the abyss,
+**Ms. Grace:** You lured them in, broke them, and cast them into the abyss,
 
 stood by and watched them surrender their souls to a goddess you never believed in—
 
@@ -9881,13 +9875,13 @@ Now it's your turn to face the trial. You know what awaits you if you fail.
 
 Why not seek the forgiveness of the Mother of Resurrection?
 
-**Ms. Grace:**Now it's your turn to face the trial. You know what awaits you if you fail.
+**Ms. Grace:** Now it's your turn to face the trial. You know what awaits you if you fail.
 
 Why not seek the forgiveness of the Mother of Resurrection?
 
 She has spared you. She would embrace you once more, as any loving mother would a wayward child.
 
-**Ms. Grace:**She has spared you. She would embrace you once more, as any loving mother would a wayward child.
+**Ms. Grace:** She has spared you. She would embrace you once more, as any loving mother would a wayward child.
 
 **Ms. Stranger:** I won't. I'll never return to her.
 
@@ -9899,13 +9893,13 @@ Of course. You are no stranger to this mask.
 
 You've worn it before. But then, you still had the Phototaxis to protect you.
 
-**Ms. Grace:**Of course. You are no stranger to this mask.
+**Ms. Grace:** Of course. You are no stranger to this mask.
 
 You've worn it before. But then, you still had the Phototaxis to protect you.
 
 How daring of you to think you can master it alone this time.
 
-**Ms. Grace:**How daring of you to think you can master it alone this time.
+**Ms. Grace:** How daring of you to think you can master it alone this time.
 
 **Ms. Stranger:** At least my mind is still my own. That's all I need.
 
@@ -9919,7 +9913,7 @@ Arcanist soldiers—our brothers and sisters—they have put on the mask.
 
 From this day forth, they fight only for their own people.
 
-**Ms. Grace:**And do you see those people?
+**Ms. Grace:** And do you see those people?
 
 Arcanist soldiers—our brothers and sisters—they have put on the mask.
 
@@ -9933,7 +9927,7 @@ A gray and white tower stands not far off. Soldiers in black exit onto the path 
 
 Let's find out, shall we?
 
-**Ms. Grace:**Let's find out, shall we?
+**Ms. Grace:** Let's find out, shall we?
 
 **Ms. Stranger:** ...
 
@@ -9957,7 +9951,7 @@ Mycelia-like bodies playing bizarre music quiver in the air, their steady yet cr
 
 A passage that connects us all.
 
-**Ms. Grace:**A passage that connects us all.
+**Ms. Grace:** A passage that connects us all.
 
 Using limbs mutated into instruments, believers twist and writhe their bodies in resonance with the "Windweave's" deep tones.
 
@@ -9973,7 +9967,7 @@ From the location of its "throat" emerges another troop of shadowy figures.
 
 I'm sure you know what must be done.
 
-**Ms. Grace:**I'm sure you know what must be done.
+**Ms. Grace:** I'm sure you know what must be done.
 
 **Ms. Stranger:** Yes. I will end it here.
 
@@ -9983,7 +9977,7 @@ I'm sure you know what must be done.
 
 Hmph!
 
-**Ms. Grace:**Hmph!
+**Ms. Grace:** Hmph!
 
 **Ms. Stranger:** I'll just—Urgh!
 
@@ -9993,7 +9987,7 @@ Did it ever occur to you, in all the grandness of your mission,
 
 that using a Manus incantation might invite the mask deeper into your mind?
 
-**Ms. Grace:**Did it ever occur to you, in all the grandness of your mission,
+**Ms. Grace:** Did it ever occur to you, in all the grandness of your mission,
 
 that using a Manus incantation might invite the mask deeper into your mind?
 
@@ -10001,13 +9995,13 @@ that using a Manus incantation might invite the mask deeper into your mind?
 
 Your resistance is as pathetic as it is ungrateful in the face of the Guiding One's mercy.
 
-**Ms. Grace:**Your resistance is as pathetic as it is ungrateful in the face of the Guiding One's mercy.
+**Ms. Grace:** Your resistance is as pathetic as it is ungrateful in the face of the Guiding One's mercy.
 
 Come along home, dear. Lay down that heavy burden. You're no Foundation dog.
 
 You're with your own kind. You'll be safe. You can finally be free.
 
-**Ms. Grace:**Come along home, dear. Lay down that heavy burden. You're no Foundation dog.
+**Ms. Grace:** Come along home, dear. Lay down that heavy burden. You're no Foundation dog.
 
 You're with your own kind. You'll be safe. You can finally be free.
 
@@ -10017,7 +10011,7 @@ Too long to remember what it is to belong, to be happy, to be surrounded by fami
 
 Come back. We will all rejoice in your return.
 
-**Ms. Grace:**You've been away for far too long.
+**Ms. Grace:** You've been away for far too long.
 
 Too long to remember what it is to belong, to be happy, to be surrounded by family.
 
@@ -10025,9 +10019,9 @@ Come back. We will all rejoice in your return.
 
 You can have the life you want and a new name. Not "Grace," not "Moth," no longer a "Stranger."
 
-**Ms. Grace:**You can have the life you want and a new name. Not "Grace," not "Moth," no longer a "Stranger."
+**Ms. Grace:** You can have the life you want and a new name. Not "Grace," not "Moth," no longer a "Stranger."
 
-**Ms. Stranger:**Gohome,totheprimevalglaciers.
+**Ms. Stranger:** Go home, to the primeval glaciers.
 
 An incantation is chanted. The piercing hum bores through her eyeballs and into her brain like a fanged worm, devouring the tender flesh in its path.
 
@@ -10708,8 +10702,6 @@ The golden threads drift against the fingertips, like the strings of an instrume
 
 "You know the ways of time and fate."
 
-"You know the ways of time and fate."
-
 **Vertin:** ...
 
 The palm presses onto the sand table, which is nearly submerged in the black torrent.
@@ -10872,7 +10864,7 @@ Merel hoists them up and pushes them through the hole.
 
 **Emilia & Lucas:** Ah!
 
-**Merel:**ŜvebiStay!
+**Merel:** Ŝvebi Stay!
 
 **Emilia:** Merel!
 
@@ -13429,37 +13421,37 @@ The board has been reset. A new game has begun.
 
 Memorial Service
 
-???:It seems that just about everyone has accepted that death must inevitably follow the rain.
+???: It seems that just about everyone has accepted that death must inevitably follow the rain.
 
-???:But not you. How many loved ones have you lost? You keep count, don't you?
+???: But not you. How many loved ones have you lost? You keep count, don't you?
 
-???:The same tragedy has played out over and over again ever since your "Acting Principal" first brought you into that stark gray building. Do you really think anything can be done for them?
+???: The same tragedy has played out over and over again ever since your "Acting Principal" first brought you into that stark gray building. Do you really think anything can be done for them?
 
 > **Choice 1：** This will be the last time.
 
-???:It won't—not yet; this isn't the last golden thread you'll follow. More will come. More upon more until you can't see anything else.
+???: It won't—not yet; this isn't the last golden thread you'll follow. More will come. More upon more until you can't see anything else.
 
-???:Then you'll wind up just as blind as she was ...
+???: Then you'll wind up just as blind as she was ...
 
-???:But I don't say that to scare you. You're lucky. Someone will always be there to show you the way.
+???: But I don't say that to scare you. You're lucky. Someone will always be there to show you the way.
 
 > **Choice 2：** They're still alive somewhere.
 
-???:I've said it before: anyone who has forgotten their own name is as good as dead.
+???: I've said it before: anyone who has forgotten their own name is as good as dead.
 
-???:But that might not always be the case, if that's any comfort.
+???: But that might not always be the case, if that's any comfort.
 
-???:It's far easier to help someone remember what they've once forgotten than it is to bring the dead back to life.
+???: It's far easier to help someone remember what they've once forgotten than it is to bring the dead back to life.
 
-???:But that just means the burden on your shoulders is all the heavier.
+???: But that just means the burden on your shoulders is all the heavier.
 
-???:You'll carry that weight until it breaks you. So, why not just save the world instead?
+???: You'll carry that weight until it breaks you. So, why not just save the world instead?
 
-???:Dead or alive—drag them all into that magical Suitcase. It'll save you some trouble, and you'll get to be the savior you've always wanted to be.
+???: Dead or alive—drag them all into that magical Suitcase. It'll save you some trouble, and you'll get to be the savior you've always wanted to be.
 
-???:But if you can't save them all, the least you can do is remember their names for them.
+???: But if you can't save them all, the least you can do is remember their names for them.
 
-???:The rain has fallen on some more than others; each time it washes something away. In the end, who they are and who they become will be up to you.
+???: The rain has fallen on some more than others; each time it washes something away. In the end, who they are and who they become will be up to you.
 
 ### Trail · Ambush Strategy
 
@@ -13471,7 +13463,7 @@ Memorial Service
 
 Investigation Report from Ms. Stranger
 
-\[Top Secret | Authorized by the Pre-Storm Dispatch Center & Ad Hoc Investigation Committee\] \[Case ID: ███-██-████\] \[Date: █-█-█\]**Case Briefing and Jurisdiction Statement** This report documents the attack carried out by Manus Vindictae (hereafter "the Attacker") against Foundation headquarters and the SPDM (hereafter "the Targets") prior to the 11th "Storm." The investigation was conducted by the Pre-Storm Dispatch Center and the Ad Hoc Investigation Committee under the relevant clauses of the Emergency Defense Code of St. Pavlov Foundation to analyze and determine the attack's route of entry and the cause of the internal defense's collapse. ... **III. Attack Method and Scene Reconstruction** The Attacker used an unregistered arcane array (technical codename: "Windweave") to bypass all surveillance and defensive measures at the target site, striking directly at the facility's interior. Phase 1: A small advance unit led by "Lyra" arrived at the target site and began infiltration, lowering the guard of personnel inside through the following means: 1. False Support: A Manus Vindictae member (suspected to be "Lyra") used a false identity to approach multiple Foundation members and their close contacts, earning their trust. During the "Storm" countdown, she successfully manipulated several headquarters staff and individuals with prior refugee experience into following her instructions and opening access to the facility. Manus Vindictae members also used arcane skills to attack the personnel and facilities of the defense surveillance department, rendering the surveillance systems inoperative. 2. Defense Breach: Under arcane control by Manus Vindictae, captured personnel were turned and used as inside operatives, guiding the Attacker past the main defensive network and destroying the base defense systems, weapons stocks, and alarm systems. 3. Temporary Line: The advance unit and inside operatives set up the "Windweave" array within the target interior, completing preparations for the second wave of attack. Once the array was in place, the main force of Manus Vindictae arrived at the target ... ... **IV. Witness Testimony and Evidence Record** Witness #09 Testimony (Engineering Department, Senior Researcher): "I saw Nancy Sur standing in the doorway. It wasn't her shift, so I went over to ask about it. She started saying things like, 'Such beautiful weather, and yet we're still here—history really did get it wrong,' and 'Rewrite the score, sound the anthem, welcome humanity's rebirth' ..." Witness #47 Testimony (Human Resources Department, Clerk): "These traitors were among the finest when it came to justice and order ... but then again, maybe that's why they'd rather admit they were guilty than admit that surviving was just luck." ...
+\[Top Secret | Authorized by the Pre-Storm Dispatch Center & Ad Hoc Investigation Committee\] \[Case ID: ███-██-████\] \[Date: █-█-█\] **Case Briefing and Jurisdiction Statement** This report documents the attack carried out by Manus Vindictae (hereafter "the Attacker") against Foundation headquarters and the SPDM (hereafter "the Targets") prior to the 11th "Storm." The investigation was conducted by the Pre-Storm Dispatch Center and the Ad Hoc Investigation Committee under the relevant clauses of the Emergency Defense Code of St. Pavlov Foundation to analyze and determine the attack's route of entry and the cause of the internal defense's collapse. ... **III. Attack Method and Scene Reconstruction** The Attacker used an unregistered arcane array (technical codename: "Windweave") to bypass all surveillance and defensive measures at the target site, striking directly at the facility's interior. Phase 1: A small advance unit led by "Lyra" arrived at the target site and began infiltration, lowering the guard of personnel inside through the following means: 1. False Support: A Manus Vindictae member (suspected to be "Lyra") used a false identity to approach multiple Foundation members and their close contacts, earning their trust. During the "Storm" countdown, she successfully manipulated several headquarters staff and individuals with prior refugee experience into following her instructions and opening access to the facility. Manus Vindictae members also used arcane skills to attack the personnel and facilities of the defense surveillance department, rendering the surveillance systems inoperative. 2. Defense Breach: Under arcane control by Manus Vindictae, captured personnel were turned and used as inside operatives, guiding the Attacker past the main defensive network and destroying the base defense systems, weapons stocks, and alarm systems. 3. Temporary Line: The advance unit and inside operatives set up the "Windweave" array within the target interior, completing preparations for the second wave of attack. Once the array was in place, the main force of Manus Vindictae arrived at the target ... ... **IV. Witness Testimony and Evidence Record** Witness #09 Testimony (Engineering Department, Senior Researcher): "I saw Nancy Sur standing in the doorway. It wasn't her shift, so I went over to ask about it. She started saying things like, 'Such beautiful weather, and yet we're still here—history really did get it wrong,' and 'Rewrite the score, sound the anthem, welcome humanity's rebirth' ..." Witness #47 Testimony (Human Resources Department, Clerk): "These traitors were among the finest when it came to justice and order ... but then again, maybe that's why they'd rather admit they were guilty than admit that surviving was just luck." ...
 
 - Description：The fastest way to breach a fortress is to open the gate from the inside.
 - Action：Check Report
@@ -13589,7 +13581,7 @@ The mispronunciation prevents her arcane skill from taking full effect. The stra
 
 **Vertin:** ...
 
-**Sonetto:**StonoSwift!
+**Sonetto:** Stono Swift!
 
 With the gray bird now encased in stone, its caretaker scrambles over. She gently lifts it up and, as she pets it, dispels the petrification incantation.
 
@@ -13755,7 +13747,7 @@ She looks to the ground and mutters something to herself, but the flapping of an
 
 **Vertin:** I won't—
 
-**Rhiannon:**Dissolveintothe—
+**Rhiannon:** Dissolve into the—
 
 **Rhiannon:** ...!
 

@@ -233,7 +233,7 @@ This was clearly created using arcane skills.
 
 Semmelweis flips the mirror over. The back is engraved with an illumination incantation.
 
-**Semmelweis:**Imago Imprint!
+**Semmelweis:** Imago Imprint!
 
 Semmelweis recites the incantation.
 
@@ -806,8 +806,6 @@ Seeing this, Emil asks no more questions. He leaves the room.
 **Madam Lindsay.:** Unfortunately, the other squads are unable to reach Vienna in the required time.
 
 **Semmelweis:** Vienna...
-
-“Please find me in Vienna. Then, you will find redemption and overcome impurity.”
 
 “Please find me in Vienna. Then, you will find redemption and overcome impurity.”
 

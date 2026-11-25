@@ -1142,7 +1142,7 @@ A fear that is not her own, and she has to hide it.
 
 She raises the incense stick and, for the first time, chants toward a living person.
 
-**Ramona:**Ilusiones,apartaos.Laverdadserevela.
+**Ramona:** Ilusiones, apartaos. La verdad se revela.
 
 **Renée:** No!
 
@@ -1168,17 +1168,11 @@ A calming fragrance reaches "her," soothing the stabbing pain of her memories.
 
 A hand rests on "her" forehead—dry, warm—and the burning sensation fades.
 
-**Ramona:**Estelugar,esteinstante.Reveladoantemí.Mostradoparamí.
-
-"She" hears the incantation like a ringing bell. The scent of flowers drifts in the breeze, and "she" feels the warmth of a spring afternoon.
+**Ramona:** Este lugar, este instante. Revelado ante mí. Mostrado para mí.
 
 "She" hears the incantation like a ringing bell. The scent of flowers drifts in the breeze, and "she" feels the warmth of a spring afternoon.
 
 In "her" memory, "she" was sick, feverish. A doctor's white coat swayed before "her" eyes. A familiar figure entered the bedroom carrying flowers.
-
-In "her" memory, "she" was sick, feverish. A doctor's white coat swayed before "her" eyes. A familiar figure entered the bedroom carrying flowers.
-
-Who is that?
 
 Who is that?
 
@@ -1195,10 +1189,6 @@ Who is that?
 **Ramona:** ... that fragment of awareness carries powerful emotion.
 
 "She" feels surrounded by fragrant smoke, like a warm embrace.
-
-"She" feels surrounded by fragrant smoke, like a warm embrace.
-
-"She" remembers. The one who brought flowers was "her" father. He was always busy then, rarely able to stay by "her" side.
 
 "She" remembers. The one who brought flowers was "her" father. He was always busy then, rarely able to stay by "her" side.
 
@@ -1292,21 +1282,15 @@ She crushes the incense ash and sketches a circle on the floor.
 
 Not for purification, but for summoning. For someone who can't hear spirits, it's risky.
 
-**Ramona:**Verdadrevelada,disfracesdisipados.
+**Ramona:** Verdad revelada, disfraces disipados.
 
 Outside, insects continue to chirp.
-
-A deep nostalgia swells inside "her," as if this ordinary day belongs to a distant past.
 
 A deep nostalgia swells inside "her," as if this ordinary day belongs to a distant past.
 
 **Ramona:** The resonance is stronger.
 
 "She" cannot leave the house, not with this illness bringing "her" dizziness and nausea.
-
-"She" cannot leave the house, not with this illness bringing "her" dizziness and nausea.
-
-"She" feels lost. "She" wants to call "her" father. Like always.
 
 "She" feels lost. "She" wants to call "her" father. Like always.
 
@@ -1340,17 +1324,9 @@ An idea flashes across her mind. There are many coincidences in this world, and 
 
 The hymn carries the blessings of ancestors, wishing "her" a speedy recovery.
 
-The hymn carries the blessings of ancestors, wishing "her" a speedy recovery.
-
-"Her" spirit rides a paper airplane, leaving Mexico City—across northern plains, southern mountains, and over the ocean to the far side of the world.
-
 "Her" spirit rides a paper airplane, leaving Mexico City—across northern plains, southern mountains, and over the ocean to the far side of the world.
 
 The game of smashing candy jars that ran through "her" childhood, the flowers laid out to look like the sun every Day of the Dead ... "She" liked these things.
-
-The game of smashing candy jars that ran through "her" childhood, the flowers laid out to look like the sun every Day of the Dead ... "She" liked these things.
-
-"She" once forgot those joys, and the forgetting made "her" weaker, so her father spared no expense bringing "her" music, flowers, and games.
 
 "She" once forgot those joys, and the forgetting made "her" weaker, so her father spared no expense bringing "her" music, flowers, and games.
 
@@ -1392,17 +1368,9 @@ The circle on the floor is already distorted, and the forcibly summoned spirit h
 
 The girl sees "her" father turn transparent again, leaving to repay debts, compete with foreign merchants, and keep a failing business alive.
 
-The girl sees "her" father turn transparent again, leaving to repay debts, compete with foreign merchants, and keep a failing business alive.
-
-"She" is too young. "She" holds nothing but longing.
-
 "She" is too young. "She" holds nothing but longing.
 
 No ... no ... no!
-
-No ... no ... no!
-
-"She" doesn't want to stay here anymore, doesn't want to endure this loneliness!
 
 "She" doesn't want to stay here anymore, doesn't want to endure this loneliness!
 
@@ -1420,7 +1388,7 @@ She blows on the incense stick, sparks flashing as she pushes herself to keep th
 
 She presses her hand to Renée's forehead again.
 
-**Ramona:**Lasmentirassedesvanecen;laverdadsedesvela.
+**Ramona:** Las mentiras se desvanecen; la verdad se desvela.
 
 "She" hears another incantation. Shorter than before, but it seems to make "her" sight clearer.
 
@@ -1568,7 +1536,7 @@ She arranges the candles and flowers, setting up a small altar.
 
 With her preparations complete, she begins guiding the souls onward.
 
-**Ramona:**¡Abrazalaluz…hacialastierrasmásalládelamuerte!
+**Ramona:** ¡Abraza la luz… hacia las tierras más allá de la muerte!
 
 The flames flare in an instant, and petals lift into the wind, rising toward the night's sky.
 

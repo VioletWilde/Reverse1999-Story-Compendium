@@ -148,8 +148,6 @@ Nothing's there.
 
 One day earlier ...
 
-One day earlier ...
-
 **Sonetto:** Holiday ... Days off ... Sabbatical ...
 
 Island Beach
@@ -194,7 +192,7 @@ All three pairs of eyes rush to read it.
 
 **Vertin:** Its people came from a Greek city-state long ago. You would have my deepest gratitude should you take this token of their leader and journey to their island home—
 
-**Vertin:**Ephaistonos, as it is now called, and learn how they fare.
+**Vertin:** Ephaistonos, as it is now called, and learn how they fare.
 
 **Regulus:** Aquatic Games? That's not quite what I had in mind.
 
@@ -558,11 +556,11 @@ Report on the Behavior of Arcane Creatures in the Waters of ■■■■■■�
 <!-- reader-body:start -->
 **Are you ...**
 
-**???:****Are you ...**
+**???:** **Are you ...**
 
 **... looking for the island of Ephaistonos?**
 
-**???:****... looking for the island of Ephaistonos?**
+**???:** **... looking for the island of Ephaistonos?**
 
 Aboard the APPLe
 
@@ -995,7 +993,7 @@ The young man's voice sinks, and he reaches for a more hopeful explanation.
 
 Sonetto rifles through her mind for a relevant verse and begins to chant softly.
 
-**Sonetto:**"Liberty,scatteringcontagiousfireintothesky."
+**Sonetto:** "Liberty, scattering contagious fire into the sky."
 
 Shaped by her arcane skill, the imagery of breaking free takes form as an invisible pair of scissors.
 
@@ -5398,8 +5396,6 @@ Mr. APPLe gives his bow tie a knowing little shake.
 **APPLe:** But do not hurry the voyage at all. It is better to let it last for long years;
 
 **APPLe:** And if you find her poor, Ithaca has not defrauded you. With the great wisdom you have gained, with so much experience, you must surely have understood by then what Ithacas mean.
-
-Rekindled! Games of the Summer-Gold Sea
 
 Rekindled! Games of the Summer-Gold Sea
 

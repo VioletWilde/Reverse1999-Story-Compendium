@@ -223,7 +223,7 @@ The man lashes out with another strike, harmlessly cutting through the air above
 
 **Daoist:** \*sigh\* Not a talker, I see.
 
-**Daoist:**WiththeflowofQi,themindopenswide!
+**Daoist:** With the flow of Qi, the mind opens wide!
 
 ***
 
@@ -731,15 +731,13 @@ Pip looks around, her gaze darting between unfamiliar landmarks.
 
 An hour passes.
 
-An hour passes.
-
 **Pip:** Ah, we're back where we started. Heron, you don't know the way either!
 
 **Paper Heron:** Well, I always followed my seniors. I never had the need to learn how to find the way myself.
 
 **Paper Heron:** But since we're looking for the Qi stagnation, perhaps I can come up with a different solution to help guide us.
 
-**Paper Heron:**ChannelthepoweroftheWay!
+**Paper Heron:** Channel the power of the Way!
 
 Paper Heron opens her palm and blows, her breath gently lifting a paper swallow to the breeze.
 
@@ -1173,7 +1171,7 @@ Paper Heron puts two fingers together, takes in a shallow breath, and releases, 
 
 **Pip:** Wow!
 
-**Paper Heron:**WiththeflowofQi,themindopenswide!
+**Paper Heron:** With the flow of Qi, the mind opens wide!
 
 She draws a complex sign in the air—one Pip has neither seen before nor understands—then points toward the tree.
 
@@ -1357,11 +1355,7 @@ Like holding a familiar hand.
 
 A slight gasp escapes Paper Heron's lip as she reaches within herself to hold that hand.
 
-A slight gasp escapes Paper Heron's lip as she reaches within herself to hold that hand.
-
 **Paper Heron:** She always wielded arcane techniques with more precision than others.
-
-Her natural talent was nothing special; she had to rely on arcane techniques.
 
 Her natural talent was nothing special; she had to rely on arcane techniques.
 
@@ -1369,11 +1363,7 @@ Her natural talent was nothing special; she had to rely on arcane techniques.
 
 She was the most reliable one, so she was entrusted with managing the school's affairs.
 
-She was the most reliable one, so she was entrusted with managing the school's affairs.
-
 **Paper Heron:** She was also skilled in sensing the flow of Qi.
-
-A peer of the most observant, most caring kind.
 
 A peer of the most observant, most caring kind.
 
@@ -1557,7 +1547,7 @@ The wind brushes against Paper Heron's hair.
 
 **Paper Heron:** And from what books, pray tell, did you find this information?
 
-**Pip:**Legend of the Getian, The White Horse Immortal: A Tale of Medicine, and Three Years of Strange Dreams: A Collection.
+**Pip:** Legend of the Getian, The White Horse Immortal: A Tale of Medicine, and Three Years of Strange Dreams: A Collection.
 
 **Paper Heron:** So Legend of the Getian is still popular, even after two hundred years, eh? I remember a story about a mortal seeking the Way from the Getian clan. He descends the mountain, only to discover that a thousand years have passed.
 

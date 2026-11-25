@@ -138,13 +138,13 @@ At this moment, she hears hurried footsteps coming from the corridor, followed b
 
 **???:** Leave while you still can, Samodiva.
 
-**Samodiva?:**Last I checked, you were in no position to order me around.
+**Samodiva?:** Last I checked, you were in no position to order me around.
 
-**Samodiva?:**No one tells me what to do, especially not you, traitor. Remember this: I only spare you now because of your promise to "return to our people."
+**Samodiva?:** No one tells me what to do, especially not you, traitor. Remember this: I only spare you now because of your promise to "return to our people."
 
-**Samodiva?:**As for that scaleless, whether you've kept it alive for their "eternal soul" or whatever else, it'd better be a corpse next time I see it.
+**Samodiva?:** As for that scaleless, whether you've kept it alive for their "eternal soul" or whatever else, it'd better be a corpse next time I see it.
 
-**Samodiva?:**Or I will do that work for you.
+**Samodiva?:** Or I will do that work for you.
 
 **???:** ...
 
@@ -412,23 +412,23 @@ A large wave rises and then splashes onto the shore, accompanied by a melodious 
 
 Rayashki prides itself on welcoming everyone. Yet, this is an uninvited guest.
 
-**Samodiva:**Vila.
+**Samodiva:** Vila.
 
-**Samodiva:**Refresh my memory: Do we always start our conversations this way?
+**Samodiva:** Refresh my memory: Do we always start our conversations this way?
 
 **Vila:** You shouldn't be here.
 
-**Samodiva:**You should not presume to tell me where I can and cannot go, traitor.
+**Samodiva:** You should not presume to tell me where I can and cannot go, traitor.
 
 **Vila:** ...
 
-**Samodiva:**You've always stayed on the move, Vila. One place to the next, never tied down. Hopping from port to muddy little port, through the greatest of the scaleless cities.
+**Samodiva:** You've always stayed on the move, Vila. One place to the next, never tied down. Hopping from port to muddy little port, through the greatest of the scaleless cities.
 
-**Samodiva:**To think this would be the place you'd stay—an old dried-out shell you were too tired to shed off.
+**Samodiva:** To think this would be the place you'd stay—an old dried-out shell you were too tired to shed off.
 
-**Samodiva:**Here where the scaleless build their "home," scrounging under the landbed for scraps, like carrion crabs.
+**Samodiva:** Here where the scaleless build their "home," scrounging under the landbed for scraps, like carrion crabs.
 
-**Samodiva:**How pitiful, that we might be so easily mistaken for them.
+**Samodiva:** How pitiful, that we might be so easily mistaken for them.
 
 She'd run as far as she could, but still they found her. They were relentless. Her kin would stop at nothing to eliminate half-bloods—no stone unturned, no place too remote.
 
@@ -438,9 +438,9 @@ She'd run as far as she could, but still they found her. They were relentless. H
 
 **Vila:** Instead, you see what you want to see.
 
-**Samodiva:**Do you think it matters to me what you see in this crab nest? Tides take it. I'm here for you.
+**Samodiva:** Do you think it matters to me what you see in this crab nest? Tides take it. I'm here for you.
 
-**Samodiva:**You die today.
+**Samodiva:** You die today.
 
 **???:** Vila—Ms. Vila—
 
@@ -464,21 +464,21 @@ It was melodious but dark and irritated; the sound of an ancient language, one s
 
 More water arrows took shape, surrounding Samodiva, these ones distinctly less sharp.
 
-**Vila:**Don't do this.
+**Vila:** Don't do this.
 
 Blunt as these arrows might seem, they produce a thin red line across his neck.
 
-**Samodiva:**What?
+**Samodiva:** What?
 
-**Vila:**You can't take her life or the lives of anyone here. Their souls are not for you. These are my people now.
+**Vila:** You can't take her life or the lives of anyone here. Their souls are not for you. These are my people now.
 
-**Vila:**Harm them, and you'll spend the rest of your life in regretting it, short though it may be.
+**Vila:** Harm them, and you'll spend the rest of your life in regretting it, short though it may be.
 
-**Samodiva:**What? You little—
+**Samodiva:** What? You little—
 
-**Vila:**It is time for you to leave, Samodiva.
+**Vila:** It is time for you to leave, Samodiva.
 
-**Vila:**Don't make me tell you twice.
+**Vila:** Don't make me tell you twice.
 
 She holds her breath.
 
@@ -492,27 +492,27 @@ Silence. Minutes or seconds might have passed between them, until Samodiva's arr
 
 Even so, Vila does not let up. Her foe bares his fangs, hissing.
 
-**Samodiva:**Somehow, you've found a way to become something worse than a traitor.
+**Samodiva:** Somehow, you've found a way to become something worse than a traitor.
 
-**Samodiva:**You betray us, refuse to accept trial, escape from justice. And now, are you truly seeking this "eternal soul"?
+**Samodiva:** You betray us, refuse to accept trial, escape from justice. And now, are you truly seeking this "eternal soul"?
 
-**Samodiva:**You're so homesick that you'd choose any way to get back, even if that means chasing a myth.
+**Samodiva:** You're so homesick that you'd choose any way to get back, even if that means chasing a myth.
 
-**Samodiva:**You're insane.
+**Samodiva:** You're insane.
 
 **Vila:** How could you know that it's a myth?
 
-**Samodiva:**Even if it were real, it would not be a half-blood like you that would find it.
+**Samodiva:** Even if it were real, it would not be a half-blood like you that would find it.
 
-**Samodiva:**Go ahead, drown all the scaleless here, have them sign their souls away to the abyss, just see if that is enough—
+**Samodiva:** Go ahead, drown all the scaleless here, have them sign their souls away to the abyss, just see if that is enough—
 
-**Samodiva:**But you're never going to find it. You will never reach Atlantis.
+**Samodiva:** But you're never going to find it. You will never reach Atlantis.
 
 **Vila:** You know, I'm always open to trying new things.
 
-**Samodiva:**Heh.
+**Samodiva:** Heh.
 
-**Samodiva:**Then maybe you should start with the one calling your name.
+**Samodiva:** Then maybe you should start with the one calling your name.
 
 Vila tries to call out to Windsong, waving her away. But the Ley Lines researcher walks clumsily towards her unheeded.
 
@@ -526,9 +526,9 @@ Vila tries to call out to Windsong, waving her away. But the Ley Lines researche
 
 The researcher seems unaware of the battle that nearly transpired there. The sea behind them is quiet and still.
 
-**Samodiva:**It'd better be a corpse next time.
+**Samodiva:** It'd better be a corpse next time.
 
-**Samodiva:**Or—
+**Samodiva:** Or—
 
 Though she hasn't dropped her guard, she somehow misses the moment that Samodiva leaves.
 
@@ -1450,7 +1450,7 @@ And nothing seems to fit as an answer.
 
 **Avgust:** Vila, Pasono says we're running out of "eternal souls."
 
-**Avgust:** Could we give him other things that are like an "eternal soul"?Something he can fold into more sea swallows and other things.
+**Avgust:** Could we give him other things that are like an "eternal soul"? Something he can fold into more sea swallows and other things.
 
 **Vila:** Okay. I'll see what I can do.
 

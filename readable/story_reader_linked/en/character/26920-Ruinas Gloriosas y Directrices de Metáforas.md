@@ -291,11 +291,11 @@ Recoleta closes the door and confidently places her manuscript on the desk.
 
 An Andean valley breeze brushes over Hunting's weary eyelids as Recoleta begins her story.
 
-**Recoleta:**"The cowboy had never once considered going home. That was until he met the coachman. Like him, the coachman cast no shadow behind him."
+**Recoleta:** "The cowboy had never once considered going home. That was until he met the coachman. Like him, the coachman cast no shadow behind him."
 
-**Recoleta:**"He boarded that battered carriage and embarked on a long journey, crossing mountains and rivers until finally, he arrived home."
+**Recoleta:** "He boarded that battered carriage and embarked on a long journey, crossing mountains and rivers until finally, he arrived home."
 
-**Recoleta:**"Yet, that long-overdue joy failed to reach him. He came to a stop. He surveyed that land, familiar yet strangely unfamiliar, and a chill crept up his spine."
+**Recoleta:** "Yet, that long-overdue joy failed to reach him. He came to a stop. He surveyed that land, familiar yet strangely unfamiliar, and a chill crept up his spine."
 
 Hunting quickly realizes her eyelids have grown too heavy to lift.
 
@@ -551,11 +551,11 @@ Recoleta jumps up from the floor, handing over the freshly marked-up pages.
 
 **Editor Hunting:** Oh? Let's see. Last time, the protagonists escaped the fog-filled maze using their wit. Now, they're heading toward the temple's hidden chamber.
 
-**Editor Hunting:**"The whistling stopped. The cowboy and the coachman made their way toward the light beyond the fog. But, as the fog thickened, the sounds around them faded. With every step, the world grew more and more unfamiliar."
+**Editor Hunting:** "The whistling stopped. The cowboy and the coachman made their way toward the light beyond the fog. But, as the fog thickened, the sounds around them faded. With every step, the world grew more and more unfamiliar."
 
-**Editor Hunting:**"At last, they found the entrance. Inside, the temple was covered in ancient runes, its walls etched with unreadable symbols and paintings. An old man and a cowhand with his cow stood in the distance, as if waiting for them."
+**Editor Hunting:** "At last, they found the entrance. Inside, the temple was covered in ancient runes, its walls etched with unreadable symbols and paintings. An old man and a cowhand with his cow stood in the distance, as if waiting for them."
 
-**Editor Hunting:**"The wind carried a whisper like an ancient poem through the fog."
+**Editor Hunting:** "The wind carried a whisper like an ancient poem through the fog."
 
 Core, Templo de la Metáfora
 
@@ -683,7 +683,7 @@ Hunting reaches out, her fingers touching the radiant core before her. Light sur
 
 **Editor Hunting:** So beautiful. How did you write it?
 
-**Recoleta:**"It is the sum of countless meanings, everything life has to offer. It is sung by someone at the end of their life's journey, yet in truth, it is just a word—a word meaning 'miracle.'"
+**Recoleta:** "It is the sum of countless meanings, everything life has to offer. It is sung by someone at the end of their life's journey, yet in truth, it is just a word—a word meaning 'miracle.'"
 
 Bedroom - Night
 
@@ -842,8 +842,6 @@ Her brain and taste buds reach a swift truce.
 **Recoleta:** When hunger strikes, people always find a way to dress it up in poetic language to justify accepting nature's gifts.
 
 **Editor Hunting:** You're getting sharper, little genius.
-
-Two months pass ... By now, Hunting has taught Recoleta to appreciate the beauty of camping.
 
 Two months pass ... By now, Hunting has taught Recoleta to appreciate the beauty of camping.
 
@@ -1847,9 +1845,9 @@ In her mind, her own voice echoes.
 
 Recoleta snaps back to reality, pushes herself to her feet, and strides forward with determination.
 
-**Recoleta:**"Cross the silent desert, follow the Gnostic River to its source. A forgotten river runs, its course to all untold ..."
+**Recoleta:** "Cross the silent desert, follow the Gnostic River to its source. A forgotten river runs, its course to all untold ..."
 
-**Recoleta:**"At the source of the Gnostic River, in shrouded darkness laid, within that mirror, the cave dweller hides, his ancient face displayed."
+**Recoleta:** "At the source of the Gnostic River, in shrouded darkness laid, within that mirror, the cave dweller hides, his ancient face displayed."
 
 **Recoleta:** So I just need to follow this river, right?
 
@@ -1875,7 +1873,7 @@ Cave
 
 She lands in a misty, damp cavern.
 
-**Recoleta:**"Tread lightly, do not disturb those shadowed tribal dwellers. Their language is as unyielding as stone, their gazes deep as caverns."
+**Recoleta:** "Tread lightly, do not disturb those shadowed tribal dwellers. Their language is as unyielding as stone, their gazes deep as caverns."
 
 **Recoleta:** The cave dwellers ... Are they those figures wandering around?
 

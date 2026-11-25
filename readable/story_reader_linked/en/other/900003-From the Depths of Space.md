@@ -1013,15 +1013,15 @@ He carefully places it on the workbench.
 
 **Ulrich:** I have to admit, taking such a long holiday was an irresponsible act of negligence on my part.
 
-**Research Assistant:**No, Lead, I think—
+**Research Assistant:** No, Lead, I think—
 
 **Ulrich:** I'd like to apologize for my absence. There's no excuse for spending so much time at the retreat center and neglecting my work here.
 
-**Research Assistant:**It's ... it's fine!
+**Research Assistant:** It's ... it's fine!
 
 **Ulrich:** I've already submitted a request to Madam Lucy. For the next 36 months, I will forfeit all personal salary and benefits.
 
-**Research Assistant:**I knew it. Don't tell me—
+**Research Assistant:** I knew it. Don't tell me—
 
 **Ulrich:** And I'll compensate for the loss caused by my absence by doubling the work hours.
 

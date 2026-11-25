@@ -279,41 +279,41 @@ Her words are cut off as 37 jumps off the bed, rushing her way out.
 
 Animal Symbolism
 
-???:Now, we've learned some manners in Apeiron, haven't we? Namely, to abstain from beans, never parcel off a loaf, and stay away from the white roosters on the road.
+???: Now, we've learned some manners in Apeiron, haven't we? Namely, to abstain from beans, never parcel off a loaf, and stay away from the white roosters on the road.
 
-???:It's been so long since we last talked about these things. How time does fly! This rusty brain of mine is struggling to keep up ...
+???: It's been so long since we last talked about these things. How time does fly! This rusty brain of mine is struggling to keep up ...
 
-???:We should have waited until dawn to light the candles. The sun would have mistaken the day for night and delayed its appearance in the morning. That way, we would have had more time to talk.
+???: We should have waited until dawn to light the candles. The sun would have mistaken the day for night and delayed its appearance in the morning. That way, we would have had more time to talk.
 
 > **Choice 1：** I don't think that's possible.
 
-???:Indeed. You possess a far greater understanding of the laws of nature than your ancestors. It's only natural that you wouldn't relate candlelight to sunrise. But, for the people of earlier times, there was a commonly understood connection between the two.
+???: Indeed. You possess a far greater understanding of the laws of nature than your ancestors. It's only natural that you wouldn't relate candlelight to sunrise. But, for the people of earlier times, there was a commonly understood connection between the two.
 
-???:Did the trees not bear fruit after the Horn of Plenty was filled at the harvest festival? Did the field not wave with grain?
+???: Did the trees not bear fruit after the Horn of Plenty was filled at the harvest festival? Did the field not wave with grain?
 
-???:Does the lighting of a match not illuminate the moon?
+???: Does the lighting of a match not illuminate the moon?
 
-???:It's human nature to try to understand the world. Of course, at that time mistakes were made, and some phenomena were attributed to the wrong causes; some theories were developed from false facts.
+???: It's human nature to try to understand the world. Of course, at that time mistakes were made, and some phenomena were attributed to the wrong causes; some theories were developed from false facts.
 
-???:It was a time of symbols, you see.
+???: It was a time of symbols, you see.
 
 > **Choice 1：** Such as?
 
-???:The flower represented blessings and harvest, the ouroboros the eternal cycle, the hawk wit and astuteness, and the soil safety and protection.
+???: The flower represented blessings and harvest, the ouroboros the eternal cycle, the hawk wit and astuteness, and the soil safety and protection.
 
-???:Aside from nature, the circle symbolized protection, the triangle stability, and the triple helix ascendance, change, and the unity of mind, body, and soul.
+???: Aside from nature, the circle symbolized protection, the triangle stability, and the triple helix ascendance, change, and the unity of mind, body, and soul.
 
-???:As time went on, things became associated with one another, and more and more symbols were created.
+???: As time went on, things became associated with one another, and more and more symbols were created.
 
 > **Choice 1：** It's not a very methodological approach.
 
-???:You can see the cause and effect with your own eyes, dear. It's clear when something is related and when it isn't. If the outcome isn't what we expect, these symbols must be incorrect.
+???: You can see the cause and effect with your own eyes, dear. It's clear when something is related and when it isn't. If the outcome isn't what we expect, these symbols must be incorrect.
 
-???:But it's not their physical form that's wrong. Physical objects never lie. It's the meaning and concept given to them that are wrong, you see.
+???: But it's not their physical form that's wrong. Physical objects never lie. It's the meaning and concept given to them that are wrong, you see.
 
-???:Objects are just objects. A match is just a match, not the illuminator of the moon. An animal is just an animal; the circle and triangle are only shapes ...
+???: Objects are just objects. A match is just a match, not the illuminator of the moon. An animal is just an animal; the circle and triangle are only shapes ...
 
-???:... and "you" are just "you".
+???: ... and "you" are just "you".
 
 
 ---
@@ -1012,7 +1012,7 @@ She casually agrees, just as she did when asked to pledge on the stone bangles.
 
 6 bends down, laying his hand on 42's forehead.
 
-**6:**Μηδὲν ἄγαν.
+**6:** Μηδὲν ἄγαν.
 
 **Believer I:** ...
 
@@ -3189,49 +3189,49 @@ The researcher is astonished as the creature, with a texture similar to plaster,
 
 Fire Safety
 
-???:Be ever so careful, dear. The fiery thirst for knowledge is blazing bright within you; be careful not to put it out.
+???: Be ever so careful, dear. The fiery thirst for knowledge is blazing bright within you; be careful not to put it out.
 
-???:Once, many fire thieves sat here, sipping coffee, as they tried to decipher the best angle to hold up their reeds to jam the burning wheel of Helios and steal his flame.
+???: Once, many fire thieves sat here, sipping coffee, as they tried to decipher the best angle to hold up their reeds to jam the burning wheel of Helios and steal his flame.
 
-???:The gods are selfish. They're stingy with their might.
+???: The gods are selfish. They're stingy with their might.
 
 > **Choice 1：** Shouldn't the gods be more generous?
 
-???:That's easy to say when the power's not yours to give. Knowing how to share is a rare virtue. Knowing how to share knowledge is a rarer virtue still.
+???: That's easy to say when the power's not yours to give. Knowing how to share is a rare virtue. Knowing how to share knowledge is a rarer virtue still.
 
-???:"How can we transfer our wisdom into mortal minds?" The gods pondered.
+???: "How can we transfer our wisdom into mortal minds?" The gods pondered.
 
-???:Can inspiration be duplicated from one brain to another? It comes and goes like a gust of wind, so what can be done?
+???: Can inspiration be duplicated from one brain to another? It comes and goes like a gust of wind, so what can be done?
 
 > **Choice 2：** Some will receive it. First come, first served.
 
-???:True. I'm sure the early customers of the bakery share the same philosophy.
+???: True. I'm sure the early customers of the bakery share the same philosophy.
 
-???:The line must be respected, however hungry the latecomers may be.
+???: The line must be respected, however hungry the latecomers may be.
 
-???:There are many fire thieves in the field of science—many more than the bread buyers in the bakery. Take a look at these geeks in uniforms made of aerospace materials.
+???: There are many fire thieves in the field of science—many more than the bread buyers in the bakery. Take a look at these geeks in uniforms made of aerospace materials.
 
-???:Among them are arcanists in love with science who spend most of their time studying diodes and machines, and humans who are passionate about the future, always finding new inspirations ...
+???: Among them are arcanists in love with science who spend most of their time studying diodes and machines, and humans who are passionate about the future, always finding new inspirations ...
 
-???:Elements, lightning, atoms ... Perhaps you've forgotten their counterparts in arcanum, but you must be familiar with them as scientific discoveries.
+???: Elements, lightning, atoms ... Perhaps you've forgotten their counterparts in arcanum, but you must be familiar with them as scientific discoveries.
 
-???:These discoveries are the milestones of progress, sweetheart. The fire thieves firmly believed that they would be able to bring about many more technical revolutions: the fourth, the fifth, the 65535th ...
+???: These discoveries are the milestones of progress, sweetheart. The fire thieves firmly believed that they would be able to bring about many more technical revolutions: the fourth, the fifth, the 65535th ...
 
 > **Choice 1：** Sounds like a twist to the story is coming.
 
-???:Not yet, darling. We've only finished the prologue. However, there is a "but" waiting down the road.
+???: Not yet, darling. We've only finished the prologue. However, there is a "but" waiting down the road.
 
-???:A sudden rain dampened people's enthusiasm for the future. The floppy disks and many clever minds perished in it.
+???: A sudden rain dampened people's enthusiasm for the future. The floppy disks and many clever minds perished in it.
 
-???:Some of the fire thieves grieved the loss. They screamed and swore to retrieve what was lost.
+???: Some of the fire thieves grieved the loss. They screamed and swore to retrieve what was lost.
 
-???:What about the rest of them?
+???: What about the rest of them?
 
-???:They returned to primitive chaos, like coelacanths crawling back into the ocean after thousands of years of evolution. Once again, they became the proteges of arcanum.
+???: They returned to primitive chaos, like coelacanths crawling back into the ocean after thousands of years of evolution. Once again, they became the proteges of arcanum.
 
-???:Perhaps they made the right choice by leaving that useless science behind. Who knows?
+???: Perhaps they made the right choice by leaving that useless science behind. Who knows?
 
-???:The story of the fire thieves has only gone this far, darling. At this point, no one knows what will happen to Prometheus or what's inside Pandora's box.
+???: The story of the fire thieves has only gone this far, darling. At this point, no one knows what will happen to Prometheus or what's inside Pandora's box.
 
 ### Trail · Equipment Failure Repair Record
 
@@ -4429,7 +4429,7 @@ She trots over to the control station.
 
 The scrip is transposed onto the screen. The liaison meticulously checks every detail, ensuring that nothing is overlooked.
 
-**Liaison Staff I:**La unua ... cirklo ...
+**Liaison Staff I:** La unua ... cirklo ...
 
 She reads into the microphone, her voice confident and clear. With a final press of the send button, she turns away with a satisfied smile on her face.
 
@@ -4798,7 +4798,7 @@ At the same time, all of their screens light up simultaneously, indicating the a
 
 Despite the blaring alarms, the staff gathers around their screens, eagerly reading aloud the incantation that was just sent.
 
-**Cryptographer III:**La unua ... cirklo ...?
+**Cryptographer III:** La unua ... cirklo ...?
 
 Laplace Hallway
 
@@ -4926,7 +4926,7 @@ The robot's answer is concise and cold.
 
 Her tone is calm and gentle, yet with authority. The decision has been made.
 
-**Lucy:****Only arcanum can lift a curse of arcanum.**
+**Lucy:** **Only arcanum can lift a curse of arcanum.**
 
 **Vertin:** 37!
 
@@ -5410,17 +5410,9 @@ Amidst the chaos, the leader lowers his eyes and reads the verses prepared for t
 
 the constitution of both eternal gods and mortal men."
 
-"Once familiar with this practice, you will understand
-
-the constitution of both eternal gods and mortal men."
-
 **Sophia:** Uhm!
 
 **Sophia:** What happened? Did they not carry out the cleansing ceremony?
-
-"You will know the extent of all things, the boundaries
-
-of their entirety, and what connects them together."
 
 "You will know the extent of all things, the boundaries
 
@@ -5431,10 +5423,6 @@ of their entirety, and what connects them together."
 **Sonetto:** No. This is ...
 
 **Sonetto:** The large-scale ritual on this island is undoing itself!?
-
-"You will see, as you should, that the nature
-
-of the universe flows in all things alike."
 
 "You will see, as you should, that the nature
 
@@ -5758,37 +5746,37 @@ With his back to the fearful crowd, he sets off again, onto the lonely road, int
 
 Q&A
 
-???:Here is a well known question you must have heard: "What goes on four legs in the morning, two in the afternoon, and three in the evening?" it's so well "known" that no one finds it novel anymore.
+???: Here is a well known question you must have heard: "What goes on four legs in the morning, two in the afternoon, and three in the evening?" it's so well "known" that no one finds it novel anymore.
 
-???:But please do me a favor and answer me yourself.
+???: But please do me a favor and answer me yourself.
 
 > **Choice 1：** A human being.
 
-???:Correct! This is the same answer Oedipus gave to defeat Sphinx. Thus becoming a hero, but also starting him on his ill-fated destiny.
+???: Correct! This is the same answer Oedipus gave to defeat Sphinx. Thus becoming a hero, but also starting him on his ill-fated destiny.
 
-???:Raise a question, give an answer. This is the most fundamental ritual. Through this, we get nearer to God.
+???: Raise a question, give an answer. This is the most fundamental ritual. Through this, we get nearer to God.
 
 > **Choice 2：** Let's talk about the questioner instead.
 
-???:The Sphinx, an embodiment of mercy and nobility in Egypt, was seen as a mystery to the Greeks: a dangerous being that kept secrets, and delivered the punishments of the gods.
+???: The Sphinx, an embodiment of mercy and nobility in Egypt, was seen as a mystery to the Greeks: a dangerous being that kept secrets, and delivered the punishments of the gods.
 
-???:When the question is answered, the ritual is finished, and the answerer is granted the right to reach the treasure it guards.
+???: When the question is answered, the ritual is finished, and the answerer is granted the right to reach the treasure it guards.
 
 > **Choice 1：** Ritual?
 
-???:Yes, a ritual. Whether it is by pouring out wine; slaughtering a calf; or circling round a fire with a baby in your arms... It is an agreement; a question that demands an answer.
+???: Yes, a ritual. Whether it is by pouring out wine; slaughtering a calf; or circling round a fire with a baby in your arms... It is an agreement; a question that demands an answer.
 
-???:Every desire has a price. Whether it is paid in wine, blood, or fire, but sometimes that sacrifice is taken from you without it ever being noticed.
+???: Every desire has a price. Whether it is paid in wine, blood, or fire, but sometimes that sacrifice is taken from you without it ever being noticed.
 
-???:And the treasure you seek might be the undoing of your own desires.
+???: And the treasure you seek might be the undoing of your own desires.
 
-???:Let us take a look at another question: "Stranger, what's your name?" Cried Polyphemus.
+???: Let us take a look at another question: "Stranger, what's your name?" Cried Polyphemus.
 
-???:"Nobody!" Odysseus answered, and it allowed him to flee the cyclops' cave, safe and sound.
+???: "Nobody!" Odysseus answered, and it allowed him to flee the cyclops' cave, safe and sound.
 
-???:A human being and nobody, two answers that could not be more alike, yet both were bound to fate by their answer.
+???: A human being and nobody, two answers that could not be more alike, yet both were bound to fate by their answer.
 
-???:Alright, dear, time to call it a day. As for you? You'll get the answers you seek, you've already paid the price.
+???: Alright, dear, time to call it a day. As for you? You'll get the answers you seek, you've already paid the price.
 
 ### Trail · Assistant's Record
 
@@ -5800,7 +5788,7 @@ Q&A
 
 Assistant's Record
 
-※ Walking on the beach with Marta. She's almost done with her tour of the island, collecting material for her travelogue. I accompany her, also to remind her to avoid the important areas we don't want to be exposed to the outside world. She is hoping for even more reading recommendations. Fine, I'll consult 210 and Sophia. ※ There are too many outsiders here. That's not necessarily a bad thing, but it makes management more difficult. The leader's strategy isn't the best at the moment—we must make clearer decisions. We need to show some self-determination. By repeatedly emphasizing our united will, faith will also be strengthened. Relying on anyone won't work, nor can we put all our hopes in one child and then sit back in satisfaction ... It's impossible for the island to remain peaceful all the time; when it's necessary, it always falls to me to do something. ※ She should have noticed the error, or ... well, I don't believe that a person like 77 would not check the course again and calculate the angles. Even if she is too tired, 37 is still on the island ... Why didn't Hugh take his notebook with him? I saw it at Sophia's place. She left in such a hurry that even her reason for leaving seemed like an excuse. Could communicating with this supreme being really destroy a person's mind? **This is all so strange.** ※ This guy talks a lot. Fortunately, he's also pretty useful. And surprisingly, he thinks the same way as me. I thought he was the one who agreed most with the others. In fact, his speculations are closer to my own ... If I become an assistant, I might be able to learn more. This position has been vacant for too long... A shield without a sword is ultimately unreliable. Now is the time. No matter what they say, I will apply. **210 also believes that 77 has the answer.****What will the answer bring? (smudge marks)****—I need to get to the bottom of this.**
+※ Walking on the beach with Marta. She's almost done with her tour of the island, collecting material for her travelogue. I accompany her, also to remind her to avoid the important areas we don't want to be exposed to the outside world. She is hoping for even more reading recommendations. Fine, I'll consult 210 and Sophia. ※ There are too many outsiders here. That's not necessarily a bad thing, but it makes management more difficult. The leader's strategy isn't the best at the moment—we must make clearer decisions. We need to show some self-determination. By repeatedly emphasizing our united will, faith will also be strengthened. Relying on anyone won't work, nor can we put all our hopes in one child and then sit back in satisfaction ... It's impossible for the island to remain peaceful all the time; when it's necessary, it always falls to me to do something. ※ She should have noticed the error, or ... well, I don't believe that a person like 77 would not check the course again and calculate the angles. Even if she is too tired, 37 is still on the island ... Why didn't Hugh take his notebook with him? I saw it at Sophia's place. She left in such a hurry that even her reason for leaving seemed like an excuse. Could communicating with this supreme being really destroy a person's mind? **This is all so strange.** ※ This guy talks a lot. Fortunately, he's also pretty useful. And surprisingly, he thinks the same way as me. I thought he was the one who agreed most with the others. In fact, his speculations are closer to my own ... If I become an assistant, I might be able to learn more. This position has been vacant for too long... A shield without a sword is ultimately unreliable. Now is the time. No matter what they say, I will apply. **210 also believes that 77 has the answer.** **What will the answer bring? (smudge marks)** **—I need to get to the bottom of this.**
 
 - Description：Clear handwritten notes. The neat and forceful writing style reveals the writer's strong character.
 - Action：Read it
@@ -6970,35 +6958,35 @@ A piston spins at his feet.
 
 Seven Years of Bad Luck
 
-???:Look at this mirror, dear. There's a sizable stain on it.
+???: Look at this mirror, dear. There's a sizable stain on it.
 
 > **Choice 1：** It's broken.
 
-???:Yes, it is. Maybe its owner meant to break it so that the stain would be thoroughly removed.
+???: Yes, it is. Maybe its owner meant to break it so that the stain would be thoroughly removed.
 
-???:Now the stain is gone, and the owner has a collection of little mirrors. She must have accidentally left this one behind.
+???: Now the stain is gone, and the owner has a collection of little mirrors. She must have accidentally left this one behind.
 
 > **Choice 2：** I don't see any stains.
 
-???:Look closer, dear. You can no longer see the part that has broken off, but you can see where it once was. Right there, a sizable stain.
+???: Look closer, dear. You can no longer see the part that has broken off, but you can see where it once was. Right there, a sizable stain.
 
-???:The owner thought the stain would be removed if she smashed the mirror. Now she has a collection of little mirrors, and the stain has gone into hiding.
+???: The owner thought the stain would be removed if she smashed the mirror. Now she has a collection of little mirrors, and the stain has gone into hiding.
 
 > **Choice 1：** Whose mirror is this?
 
-???:A lady with great ambitions and an unconscious charm. A lady who wishes to make the rest of the world accept who she is, and has suggested that many others join her way of thinking.
+???: A lady with great ambitions and an unconscious charm. A lady who wishes to make the rest of the world accept who she is, and has suggested that many others join her way of thinking.
 
-???:Her brother, on the contrary, hopes to be taken in. In his attempt to act like everyone else, he lost an arm in a duel.
+???: Her brother, on the contrary, hopes to be taken in. In his attempt to act like everyone else, he lost an arm in a duel.
 
-???:If you ask me, dear, I'd say they're very alike. Equally lonely.
+???: If you ask me, dear, I'd say they're very alike. Equally lonely.
 
-???:The brother and sister are a mirror image of each other. She's often repulsed by the sight of him, unable to reconcile herself with all that he reminds her of.
+???: The brother and sister are a mirror image of each other. She's often repulsed by the sight of him, unable to reconcile herself with all that he reminds her of.
 
-???:Now, the brother has found his missing arm, along with his long-lost dignity. The surgery that the sister had been hoping would be done on this world has finally started. But all of a sudden, she's terrified of the incisions.
+???: Now, the brother has found his missing arm, along with his long-lost dignity. The surgery that the sister had been hoping would be done on this world has finally started. But all of a sudden, she's terrified of the incisions.
 
-???:As I said, despite their differences in approach, the brother and sister are mirror images of one another.
+???: As I said, despite their differences in approach, the brother and sister are mirror images of one another.
 
-???:But now the mirror is broken. I hope she can make it through the seven years of bad luck. Poor thing. There's no way around it.
+???: But now the mirror is broken. I hope she can make it through the seven years of bad luck. Poor thing. There's no way around it.
 
 
 ---
@@ -7141,7 +7129,7 @@ From her slightest movements to arcane fluctuations, nothing goes unnoticed.
 
 **Lucy:** ...
 
-**Lucy:**La unua ...
+**Lucy:** La unua ...
 
 **Enigma:** Wait. She's reciting it?
 
@@ -7191,7 +7179,7 @@ Ulrich's voice, full of animosity, comes from behind.
 
 **Cryptography Lead:** You insisted on being here. You demanded to see this.
 
-**Cryptography Lead:****Don't bring your pathetic, narrow-minded humanitarian values in here and tell us what to do. What do you know about us?**
+**Cryptography Lead:** **Don't bring your pathetic, narrow-minded humanitarian values in here and tell us what to do. What do you know about us?**
 
 Simone leans over to her. She speaks softly.
 
@@ -7207,7 +7195,7 @@ Fear ebbs away a little as she repeats those words.
 
 Her eyes close. She forces out the last word with great determination.
 
-**Lucy:**Cir ... klo.
+**Lucy:** Cir ... klo.
 
 It is done.
 
@@ -9019,7 +9007,7 @@ toward the excess.**
 
 She places a hand on the brass ruler at her waist and, as pious as ever, begins to recite the incantation.
 
-**Sophia:** Ένα ευθύγραμμο τμήμα σχηματίζεται όταν ενώσουμε δύο σημεία!
+**Sophia:**  Ένα ευθύγραμμο τμήμα σχηματίζεται όταν ενώσουμε δύο σημεία!
 
 Nothing happens.
 
@@ -9178,20 +9166,6 @@ Something needs to be done.
 **Because that is the salvation
 
 promised by the Truth.**
-
-But take heart, the race of man is also blessed with divinity.
-
-For nature has already revealed her secrets to them.
-
-Once you understand this blessing,
-
-You will easily achieve all that is set upon you.
-
-You will heal your soul,
-
-And be freed from evil and suffering.
-
-—The Golden Verses
 
 But take heart, the race of man is also blessed with divinity.
 
@@ -9966,7 +9940,7 @@ Their anger continues to escalate.
 
 **Manus Believer I:** Will it drive out the humans? Will it reclaim our home? Will it bring back our deceased friends?
 
-**Manus Believer I:**Πάσας τὰς ὀρθὰς γωνίας ἴσας ἀλλήλαις εἶναι!
+**Manus Believer I:** Πάσας τὰς ὀρθὰς γωνίας ἴσας ἀλλήλαις εἶναι!
 
 The man recites an incantation, a simple spell derived from the Truth that anyone in Apeiron could cast on their first day.
 
@@ -10351,16 +10325,6 @@ What you have lost are long in the void.
 
 —Vereinsamt by Friedrich Nietzsche
 
-The world is a door,
-
-To a thousand ruins, desolate and cold.
-
-For those who have lost,
-
-What you have lost are long in the void.
-
-—Vereinsamt by Friedrich Nietzsche
-
 The flames of war rage along the shore.
 
 Humans, Manus Vindictae, and Apeiron believers, all consumed by madness. The paints from their storm syndrome have bled into the sea, creating a disordered mixture of colors.
@@ -10441,7 +10405,7 @@ The pilot has spotted the two targets on the barren rocks below, with two explos
 
 Sophia does not flinch or retreat, instead her fingers wrap gently around the tiny idol.
 
-**Sophia:**Διορθωθεί το σφάλμα!
+**Sophia:** Διορθωθεί το σφάλμα!
 
 The bomber detonates in the sky, taking the young pilot with it.
 
@@ -10471,19 +10435,7 @@ and the next above them are those who come to compete."
 
 "But the most esteemed, however, are those who come to look on."
 
-"There are three kinds of people who come to the Olympic Games."
-
-"The lowest class is made up of those who come to buy and sell,
-
-and the next above them are those who come to compete."
-
-"But the most esteemed, however, are those who come to look on."
-
 "Only these wise pursuers of knowledge ..."
-
-"Only these wise pursuers of knowledge ..."
-
-"... may release themselves from the 'wheel of birth.'"
 
 "... may release themselves from the 'wheel of birth.'"
 
@@ -11079,7 +11031,7 @@ Sonetto shakes her head, her wand remains steady.
 
 The wand radiates an intense brilliance.
 
-**Sonetto:**Regna sereno intenso ed infinito!
+**Sonetto:** Regna sereno intenso ed infinito!
 
 ***
 
@@ -11507,49 +11459,49 @@ Arcana, deceased.
 
 Bullets and Calculus
 
-???:A bullet is among us, right under this roof. It serves no army, no country, only peace.
+???: A bullet is among us, right under this roof. It serves no army, no country, only peace.
 
-???:The heavy rain at the end of the century dissolved and washed away many of its comrades, but it was lucky enough to survive. Its pointy end still shines silver, ready to drill a hole into its enemy.
+???: The heavy rain at the end of the century dissolved and washed away many of its comrades, but it was lucky enough to survive. Its pointy end still shines silver, ready to drill a hole into its enemy.
 
-???:Sadly, its bulky colleague stole its thunder in this war. One push of the button, one big explosion. There was no need for the rest of the ammunition.
+???: Sadly, its bulky colleague stole its thunder in this war. One push of the button, one big explosion. There was no need for the rest of the ammunition.
 
 > **Choice 1：** Good, we saved a lot of bullets.
 
-???:It seems someone has become more budget-conscious after working with the mathematicians.
+???: It seems someone has become more budget-conscious after working with the mathematicians.
 
-???:Saving ten bullets is better than saving one. Saving a hundred bullets is better than saving ten. It's simple math.
+???: Saving ten bullets is better than saving one. Saving a hundred bullets is better than saving ten. It's simple math.
 
 > **Choice 2：** Good for them. They don't have to work for a while.
 
-???:Certainly, who doesn't want a life without the need to work? Few would hesitate to choose a life of freedom over the achievement and satisfaction of a job.
+???: Certainly, who doesn't want a life without the need to work? Few would hesitate to choose a life of freedom over the achievement and satisfaction of a job.
 
-???:Given the short lifespan of a bullet, why would it choose anything else?
+???: Given the short lifespan of a bullet, why would it choose anything else?
 
-???:But its boss, the general, has more to think about. What are they going to do next time? Will this bullet be put to use when the rain comes again?
+???: But its boss, the general, has more to think about. What are they going to do next time? Will this bullet be put to use when the rain comes again?
 
 > **Choice 1：** The general? Who's that?
 
-???:A big shot, dear. A wise man of the most insightful kind. You should talk to him if you have the chance.
+???: A big shot, dear. A wise man of the most insightful kind. You should talk to him if you have the chance.
 
-???:But he's been in a gloomy mood lately. Be careful not to mention anything related to the conservative battle tactics used in 1999, the missile that would have been launched, and especially anything about the bullets lost in that battle.
+???: But he's been in a gloomy mood lately. Be careful not to mention anything related to the conservative battle tactics used in 1999, the missile that would have been launched, and especially anything about the bullets lost in that battle.
 
-???:He has paid a great price for the future, but you see, the future is sneaky.
+???: He has paid a great price for the future, but you see, the future is sneaky.
 
-???:Every time you think you can grasp it, it takes a step away from you, nullifying every effort you've made to get near it. Even a bullet isn't fast enough to catch up.
+???: Every time you think you can grasp it, it takes a step away from you, nullifying every effort you've made to get near it. Even a bullet isn't fast enough to catch up.
 
 > **Choice 1：** Then we must keep pursuing.
 
-???:Pursuing the future. How romantic, dear. As long as we continue to close the gap between us and the future, it will eventually be reduced to zero.
+???: Pursuing the future. How romantic, dear. As long as we continue to close the gap between us and the future, it will eventually be reduced to zero.
 
-???:But know that, as time goes by, we are only moving slower and slower in the race. Technology is regressing, and we have switched from AKs to Mosin-Nagants. The bullets won't be as fast as they used to be. The future is drifting away from us, and the past is catching up.
+???: But know that, as time goes by, we are only moving slower and slower in the race. Technology is regressing, and we have switched from AKs to Mosin-Nagants. The bullets won't be as fast as they used to be. The future is drifting away from us, and the past is catching up.
 
 > **Choice 2：** Perhaps bullets won't be needed in the future?
 
-???:Shhhh ... Don't say such things out loud. Especially not near the general, sweetheart.
+???: Shhhh ... Don't say such things out loud. Especially not near the general, sweetheart.
 
-???:The bullets have paid a great price in order to find their way back to the future. If they hear you say they won't be needed anymore, you'll end up with quite the ammunition bill.
+???: The bullets have paid a great price in order to find their way back to the future. If they hear you say they won't be needed anymore, you'll end up with quite the ammunition bill.
 
-???:Alright, let's leave this bullet to itself. Solitude may help alleviate its anxiety about the future.
+???: Alright, let's leave this bullet to itself. Solitude may help alleviate its anxiety about the future.
 
 ### Trail · Lighthouse of Wisdom
 
@@ -11596,24 +11548,6 @@ Bullets and Calculus
 > Recognize the beauty and goodness of truth—free yourself from corruption, hatred, and evil.
 
 <!-- reader-body:start -->
-Here, on the level sand,
-
-Between the sea and land,
-
-What shall I build or write
-
-Against the fall of night?
-
-Tell me of runes to grave
-
-That hold the bursting wave,
-
-Or bastions to design
-
-For longer date than mine.
-
-—Alfred Housman
-
 Here, on the level sand,
 
 Between the sea and land,
@@ -12596,10 +12530,6 @@ COMBAT:
 
 To safely cast the immunity ritual, two conditions must be met.
 
-To safely cast the immunity ritual, two conditions must be met.
-
-(1) have the power to wield it
-
 (1) have the power to wield it
 
 **X:** Yes, Ms. Titor has derived the formula, and my team has finished designing the prototype converter.
@@ -12607,8 +12537,6 @@ To safely cast the immunity ritual, two conditions must be met.
 **X:** Now, we just need the bigwigs "upstairs" to approve the experiment application.
 
 **X:** This is an unprecedented chance to rob the "Storm" of its energy. I wouldn't miss this for anything.
-
-(2) minimize the side effects
 
 (2) minimize the side effects
 
@@ -12620,19 +12548,17 @@ To safely cast the immunity ritual, two conditions must be met.
 
 But this isn't enough.
 
-But this isn't enough.
-
 **Enigma:** How can we get humans to make use of this ritual?
 
 He stands up and paces around the cluttered room.
 
-**Enigma:****Ideally, the incantation is made into a **tool** like the Manus mask, or Laplace's incantation soft disk.**
+**Enigma:** **Ideally, the incantation is made into a **tool** like the Manus mask, or Laplace's incantation soft disk.**
 
 **Enigma:** However, this would require a thorough analysis and mastery of the ritual! Manus Vindictae could create the mask because Arcana is just that excellent of a caster.
 
 **Enigma:** But we don't have that kind of excellence or the time. That's why I came up with a clever alternative—to let everyone be a caster instead.
 
-**Enigma:****The problem is, humans can't cast at all to begin with! Ugh!**
+**Enigma:** **The problem is, humans can't cast at all to begin with! Ugh!**
 
 Logic is failing to produce the desired breakthroughs. Enigma sits back down at the table, holding his head in despair.
 
@@ -14940,39 +14866,39 @@ With harmless knots made of serpents.
 
 The Art of Knots
 
-???:My dear child, look at you, you're exhausted. I couldn't be of help then, but it's ok, the "party" is over now. At least let me brush your hair, darling.
+???: My dear child, look at you, you're exhausted. I couldn't be of help then, but it's ok, the "party" is over now. At least let me brush your hair, darling.
 
-???:Or your hair will get all knotted, and it will hurt you when you try to untangle them.
+???: Or your hair will get all knotted, and it will hurt you when you try to untangle them.
 
 > **Choice 1：** Indeed. It happened more than once.
 
-???:I'm not surprised. An old friend of ours, "knot." Often we learn our knots before we even know how to read and write.
+???: I'm not surprised. An old friend of ours, "knot." Often we learn our knots before we even know how to read and write.
 
-???:A knot could be an obstacle that breaks the consistency of a flow, and also a reminder of forgotten things.
+???: A knot could be an obstacle that breaks the consistency of a flow, and also a reminder of forgotten things.
 
-???:You can use just about anything on hand to make a knot: leaves of grass, the fur of an animal, even fallen hair ... But the sturdiest knots are tied with rope.
+???: You can use just about anything on hand to make a knot: leaves of grass, the fur of an animal, even fallen hair ... But the sturdiest knots are tied with rope.
 
-???:Knots are to be found in many stories. Signify promises, counting and measuring, an instrument of salvation and one of execution.
+???: Knots are to be found in many stories. Signify promises, counting and measuring, an instrument of salvation and one of execution.
 
 > **Choice 1：** What else can these knots really do?
 
-???:Oh, I could go on all day! The influence and power of knots can't be overstated...
+???: Oh, I could go on all day! The influence and power of knots can't be overstated...
 
-???:It is said that it was in the cutting of the Gordian Knot that Alexander became "the Great"; just touching the meters-long rope provides blessings to the faithful in Belem; and tiny knots on strings can carry the history of an entire people.
+???: It is said that it was in the cutting of the Gordian Knot that Alexander became "the Great"; just touching the meters-long rope provides blessings to the faithful in Belem; and tiny knots on strings can carry the history of an entire people.
 
-???:The ancient Inca called it "Quipu." The intricate variations of hundreds of fabrics, colors, and lengths of strings were used to record their stories through the ages. And to think, Shakespeare only had 26 letters to create his masterpieces.
+???: The ancient Inca called it "Quipu." The intricate variations of hundreds of fabrics, colors, and lengths of strings were used to record their stories through the ages. And to think, Shakespeare only had 26 letters to create his masterpieces.
 
 > **Choice 1：** Isn't there something a bit more practical?
 
-???:Just look around you: don't sailors use knots to mark depths and mend sails; or coachmen tying knots to rein their horses; and any respectable lady or gentleman knows the knots they must tie about their necks to stay in fashion.
+???: Just look around you: don't sailors use knots to mark depths and mend sails; or coachmen tying knots to rein their horses; and any respectable lady or gentleman knows the knots they must tie about their necks to stay in fashion.
 
-???:Or consider the knot-like helix structure of DNA, and the changes in states of matter ... Invisible to the naked eye, these knots carry some hint at a universal law.
+???: Or consider the knot-like helix structure of DNA, and the changes in states of matter ... Invisible to the naked eye, these knots carry some hint at a universal law.
 
-???:That there might be a string, like the Quipu, an endless rope that records in its knots everything in the world. One that can't be seen, yet there it is, everywhere, all at once.
+???: That there might be a string, like the Quipu, an endless rope that records in its knots everything in the world. One that can't be seen, yet there it is, everywhere, all at once.
 
-???:Maybe you can tie this knot yourself. Use your hair, then form a loop, pass the end through it, and tighten it up. There you go.
+???: Maybe you can tie this knot yourself. Use your hair, then form a loop, pass the end through it, and tighten it up. There you go.
 
-???:I hope you keep this knot as a record of the words we shared here.
+???: I hope you keep this knot as a record of the words we shared here.
 
 
 ---
@@ -15418,22 +15344,6 @@ A familiar smile lights up on her face.
 > It may not be important to remember an era, but it is important to remember the people.
 
 <!-- reader-body:start -->
-We are prisoners within these cavern walls,
-
-Our gazes held captive by the shadows' thrall.
-
-Until our hands clasped and our chains rattled,
-
-We united to break free from our shackles.
-
-The sightless joined forces with the soundless,
-
-And the voiceless uplifted the helpless,
-
-Together, we assembled a sliver of truth,
-
-A piece of the world hidden since youth.
-
 We are prisoners within these cavern walls,
 
 Our gazes held captive by the shadows' thrall.
@@ -16015,7 +15925,7 @@ He's already enraged, fists clenched in a ball.
 
 **Lucy:** This does not affect you. In fact, you may be promoted. Laplace is setting up a new department, and you and Ulrich should have been invited to head it.
 
-**Enigma:****Because this is damn unjust!**
+**Enigma:** **Because this is damn unjust!**
 
 **Enigma:** These people don't know you. They haven't worked with you or even listened to you, yet they happily reap the fruits of your labor while showing you no respect.
 

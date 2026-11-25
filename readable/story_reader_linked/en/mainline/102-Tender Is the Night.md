@@ -129,7 +129,7 @@ COMBAT:
 
 **Special Action Team Captain:** Let's move! Everyone sit tight, grab everything in your reach!
 
-**Sotheby:** These are the woods we passed before.Mr. Karson said there are many terrible things hiding here ...
+**Sotheby:** These are the woods we passed before. Mr. Karson said there are many terrible things hiding here ...
 
 **Sotheby:** Miss Sonetto was chased by a group of ghost-like monsters! Oh, I seem to have read about them in The Guide to Monsters with Good Temper.
 
@@ -443,7 +443,7 @@ She pulls out countless black lines of slime from her temple. The slime turns in
 
 **Arcana:** Shh. This is too much for her with a broken hand.
 
-**Arcana:** Then, the second question.The Foundation experiments on the orphans of arcanists. Is that true?
+**Arcana:** Then, the second question. The Foundation experiments on the orphans of arcanists. Is that true?
 
 **Vertin:** Yes. We are looking for the arcane antibody immune to the "Storm" ...
 
@@ -713,7 +713,7 @@ Arcana walks to Schneider.
 
 **Vertin:** Eh hey.
 
-**Schneider:** Uggh ... uggh ... huh... huh ...
+**Schneider:** Uggh ... uggh ... huh ... huh ...
 
 **Schneider:** My lord, it's not fair. You're shooting someone seriously injured ... Oh ...
 
@@ -739,7 +739,7 @@ Pap! Pap! Pap!
 
 **Vertin:** ...
 
-**Schneider:** Your back is bloody red ...Don't you feel the pain?
+**Schneider:** Your back is bloody red ... Don't you feel the pain?
 
 **Schneider:** That son of a b\*\*\*h! What the hell did she show you?
 
@@ -1362,7 +1362,7 @@ Showing those interlaced, wild teeth is how they express gratitude. The little o
 
 IMPORTANT! Self-protecc Intel You Muss Not Miss!
 
-**IMPORTANT! SUPER SUPER IMPORTANT!****Most important noos of the year that no critter shud miss!** critters! Still trying to avoid hooman kapture? Still looking out for every trep? Our friends keep diss-ah-peeling, never to be seen again! Dere is no peace for us, even if we hide ourselbs in the deepest holey hole of Braddock Heights! We muss STAND and FAIGHT teh hoomans!! We must KONTRIBOOT ESSENSHO POWERZ to protecc fellow creepz!! **Please call dis number if interested: 847-6861XXX** Hi frenz! I looked at the noospaper and copied dis down! My mother's aunt's sister's good frenz diss-ah-peeled for an entire week! It's terriBALL! Pls join me! FAIGHT TEH HOOMANS! FUR CRITTER FREEEEDOM! - Thanks to Megrez δ Potion Atelier's special mix - Magic Translation and Imaging Formula (Basic). Contents are for references only -
+**IMPORTANT! SUPER SUPER IMPORTANT!** **Most important noos of the year that no critter shud miss!** critters! Still trying to avoid hooman kapture? Still looking out for every trep? Our friends keep diss-ah-peeling, never to be seen again! Dere is no peace for us, even if we hide ourselbs in the deepest holey hole of Braddock Heights! We muss STAND and FAIGHT teh hoomans!! We must KONTRIBOOT ESSENSHO POWERZ to protecc fellow creepz!! **Please call dis number if interested: 847-6861XXX** Hi frenz! I looked at the noospaper and copied dis down! My mother's aunt's sister's good frenz diss-ah-peeled for an entire week! It's terriBALL! Pls join me! FAIGHT TEH HOOMANS! FUR CRITTER FREEEEDOM! - Thanks to Megrez δ Potion Atelier's special mix - Magic Translation and Imaging Formula (Basic). Contents are for references only -
 
 - Description：A noisy critter is wandering by the road giving out flyers, and you attempt to give it a hand. It doubts why, but does nothing else.
 - Action：Take a stack of flyers
@@ -1514,7 +1514,7 @@ COMBAT:
 
 **Mr. Karson:** Or would you like me to introduce them, my lady?
 
-**Mr. Karson:** The 1919 botrytised sweet wine,Moulis en Medoc from Chateau Chasse-Spleen, Creamy Orange Caramels with Toffee Pudding, Puffapod in Herring Soup.
+**Mr. Karson:** The 1919 botrytised sweet wine, Moulis en Medoc from Chateau Chasse-Spleen, Creamy Orange Caramels with Toffee Pudding, Puffapod in Herring Soup.
 
 **Mr. Karson:** Cream of Watercress Soup, Oysters with Mignonette Sauce, and Dill Barometz.
 
@@ -1740,7 +1740,7 @@ COMBAT:
 
 > **Choice 1：** So is it the symptom for the Storm Syndrome this time?
 
-**Forget Me Not:****Storm Syndrome**? That's how you call these pernicious habits from the old society?
+**Forget Me Not:** **Storm Syndrome**? That's how you call these pernicious habits from the old society?
 
 **Forget Me Not:** Sounds like ... the Foundation are so satisfied with how the old society works that you call the current situation a "syndrome".
 
@@ -2102,7 +2102,7 @@ Running from one crowd to another Hopping from one ship to another The green bud
 
 **Forget Me Not:** You will not. You have my word.
 
-**Forget Me Not:** We hope that on the "Relief Day",you'll show up as the owner of the woods, and offer your help.
+**Forget Me Not:** We hope that on the "Relief Day", you'll show up as the owner of the woods, and offer your help.
 
 **Druvis Ⅲ:** I am no longer the owner of the woods ...
 
@@ -2123,8 +2123,6 @@ She looks out of the window.
 Those trees ... shall sprout?
 
 **Druvis Ⅲ:** For tomorrow ...
-
-5 HOURS AGO
 
 5 HOURS AGO
 
@@ -2156,7 +2154,7 @@ And there is no way out.
 
 **Druvis Ⅲ:** Give it up.
 
-**Vertin:**Flamo Flicker!
+**Vertin:** Flamo Flicker!
 
 **Vertin:** Ugh!! ... It bounced back ...
 
@@ -2164,7 +2162,7 @@ And there is no way out.
 
 **Druvis Ⅲ:** It's over.
 
-**Vertin:**Aferoj Away!
+**Vertin:** Aferoj Away!
 
 **Vertin:** Umm ...
 
@@ -2394,25 +2392,25 @@ And there is no way out.
 
 To Lawrence Cavendish
 
-???:What an intriguing plot. Cavendish Sr. must be surprised.
+???: What an intriguing plot. Cavendish Sr. must be surprised.
 
 > **Choice 1：** I am surprised, too.
 
-???:Did you see it too? Did you see that woman's face eroded in the dark? The ecstasy on Cavendish Jr.'s face when he turned away from the others?
+???: Did you see it too? Did you see that woman's face eroded in the dark? The ecstasy on Cavendish Jr.'s face when he turned away from the others?
 
-???:He was once very sensitive and very talented. He was a real f\*\*\*\*\*g genius when he made potions! But now ... He has been swallowed and digested, and yet he knew nothing about it.
+???: He was once very sensitive and very talented. He was a real f\*\*\*\*\*g genius when he made potions! But now ... He has been swallowed and digested, and yet he knew nothing about it.
 
 > **Choice 2：** Cavendish?
 
-???:Oh, it's a surname buried in dust. It has been shot dead in history. Even Cavendish Jr., who was still alive and once sat in front of you, has taken off his family crown.
+???: Oh, it's a surname buried in dust. It has been shot dead in history. Even Cavendish Jr., who was still alive and once sat in front of you, has taken off his family crown.
 
-???:"Forget Me Not," what a hilarious, stupid name. That young master with a pale face died, and in his place, something sinister took shape. He battled hunger and suicide countless times, but in the end, he sank into decadence.
+???: "Forget Me Not," what a hilarious, stupid name. That young master with a pale face died, and in his place, something sinister took shape. He battled hunger and suicide countless times, but in the end, he sank into decadence.
 
-???:That woman gave him a promise. She said a few words to Forget Me Not, and then traveled north, and disappeared in the fog. The Windy City was an unwanted sarcoma which she left behind.
+???: That woman gave him a promise. She said a few words to Forget Me Not, and then traveled north, and disappeared in the fog. The Windy City was an unwanted sarcoma which she left behind.
 
-???:Only when the gun was pointed at his throat could he see clearly what had been on his mind. Therefore, he allows himself to revenge, revenge, re-re-re-revenge, and to die.
+???: Only when the gun was pointed at his throat could he see clearly what had been on his mind. Therefore, he allows himself to revenge, revenge, re-re-re-revenge, and to die.
 
-???:Now, the sarcoma belongs to him. He swears to build a magnificent stage there. He is patiently waiting ... to put his meanness, craziness, and quivers under the sun.
+???: Now, the sarcoma belongs to him. He swears to build a magnificent stage there. He is patiently waiting ... to put his meanness, craziness, and quivers under the sun.
 
 - Description：Farewell
 
@@ -2471,7 +2469,7 @@ It is a fork in the road.
 
 **The Manus Follower Ⅱ:** Yes. Mr. Forget Me Not told me so. We need to deliver tons of goods to the real "Sanctuary" of Manus Vindictae.
 
-**The Manus Follower Ⅱ:** Our safety is not fully guaranteed even with the masks.Only in the "Sanctuary" can we hide from the influence of the "Storm" ...
+**The Manus Follower Ⅱ:** Our safety is not fully guaranteed even with the masks. Only in the "Sanctuary" can we hide from the influence of the "Storm" ...
 
 **The Manus Follower Ⅱ:** And then, we set sail anew to the new age, to the new life!!! Just like Miss Vertin, our \*roar\* ...
 
@@ -2737,65 +2735,65 @@ It is a fork in the road.
 
 Long Night Trip
 
-???:Let's rewind the time to a few years ago.
+???: Let's rewind the time to a few years ago.
 
 > **Choice 1：** Why a few years ago?
 
-???:It's for your own good. Lying in front of you is a girl full of mysteries. She makes your mind spin like a top. You scratch your ears, trying to understand what happened exactly.
+???: It's for your own good. Lying in front of you is a girl full of mysteries. She makes your mind spin like a top. You scratch your ears, trying to understand what happened exactly.
 
-???:And all these damn things can be traced back to a long, long time ago, when the monkeys decided to stand on their feet …
+???: And all these damn things can be traced back to a long, long time ago, when the monkeys decided to stand on their feet …
 
 > **Choice 2：** I want to move to the future.
 
-???:Awesome! Your lofty ambition that a boxer would have is exactly what we need. But unfortunately, I can't take you to the future. Oops, I could, but now I can't.
+???: Awesome! Your lofty ambition that a boxer would have is exactly what we need. But unfortunately, I can't take you to the future. Oops, I could, but now I can't.
 
-???:Now, another person is going to do this. But before we solve this big mystery, I think it's necessary for us to sort out the principal contradiction—
+???: Now, another person is going to do this. But before we solve this big mystery, I think it's necessary for us to sort out the principal contradiction—
 
-???:Trust me, you won't regret listening to this story.
+???: Trust me, you won't regret listening to this story.
 
 > **Choice 1：** Fine. Let's start the bullshit.
 
-???:I will never be offended by your humor. Okay. The past is waiting for us to look back.
+???: I will never be offended by your humor. Okay. The past is waiting for us to look back.
 
 > **Choice 2：** No. I'm tired of you.
 
-???:But I will never be tired of you, baby.
+???: But I will never be tired of you, baby.
 
-???:I respect your decision. When you're ready for a story, go find your friends. They will tell you exactly what happened.
+???: I respect your decision. When you're ready for a story, go find your friends. They will tell you exactly what happened.
 
-???:... While I will wait for you at the next destination, humbly and patiently.
+???: ... While I will wait for you at the next destination, humbly and patiently.
 
-???:It's winter in the early 20th century. The gloomy rain never stops. The square on West Jackson Avenue is alive with people. There is an Italian Renaissance-styled basilica. You rarely see so many people get together without making a sound.
+???: It's winter in the early 20th century. The gloomy rain never stops. The square on West Jackson Avenue is alive with people. There is an Italian Renaissance-styled basilica. You rarely see so many people get together without making a sound.
 
-???:This is a black requiem mass. The priest is chanting the requiem, and the people mark a cross on their chests.
+???: This is a black requiem mass. The priest is chanting the requiem, and the people mark a cross on their chests.
 
 > **Choice 1：** He must be respectable.
 
-???:"He was a father. He dedicated to a sinner of ... Lord shall give him eternal peace." A woman in a black robe turns to you and whispers.
+???: "He was a father. He dedicated to a sinner of ... Lord shall give him eternal peace." A woman in a black robe turns to you and whispers.
 
 > **Choice 2：** He might be powerful.
 
-???:"What is power?" A solemn lady shakes her head at you, "Only Lord can forgive us for our sins and judge the right and the wrong, but he does not want power."
+???: "What is power?" A solemn lady shakes her head at you, "Only Lord can forgive us for our sins and judge the right and the wrong, but he does not want power."
 
-???:"Neither does the father." "He was our father. He dedicated to a sinner of ... Lord shall give him eternal peace."
+???: "Neither does the father." "He was our father. He dedicated to a sinner of ... Lord shall give him eternal peace."
 
-???:She turns back. Explaining this makes her unpleased. More and more people are queuing for the funeral. The square is alive with chants here and there.
+???: She turns back. Explaining this makes her unpleased. More and more people are queuing for the funeral. The square is alive with chants here and there.
 
-???:The Grecos are among them. They're covered by the dark cloud of long-handled umbrellas. Soon, their voices are replaced by whimpers. You can hardly tell whether they are pleased or sorrowful. But you can't find Schneider.
+???: The Grecos are among them. They're covered by the dark cloud of long-handled umbrellas. Soon, their voices are replaced by whimpers. You can hardly tell whether they are pleased or sorrowful. But you can't find Schneider.
 
 > **Choice 1：** Where is she?
 
-???:Look in the direction of Mr. Greco's broken left palm. Yes. Look from the bandage-wrapped end at his cuff.
+???: Look in the direction of Mr. Greco's broken left palm. Yes. Look from the bandage-wrapped end at his cuff.
 
-???:3390 feet away from the crowd, in the shadow of the church, stands the girl you want to see.
+???: 3390 feet away from the crowd, in the shadow of the church, stands the girl you want to see.
 
-???:She is pale and thin, as if she has just recovered from a serious, long illness.
+???: She is pale and thin, as if she has just recovered from a serious, long illness.
 
-???:But her fist clenches, her eyes burn, and her figure is an open defiance of the ubiquitous chants. You don't know why she looks so—so furious. Is she ... what, 11 years old?
+???: But her fist clenches, her eyes burn, and her figure is an open defiance of the ubiquitous chants. You don't know why she looks so—so furious. Is she ... what, 11 years old?
 
-???:And the mass is about to usher in the ultimate climax. It rains heavier. The priest opens his arms to embrace the sky, "The Lord be with you."
+???: And the mass is about to usher in the ultimate climax. It rains heavier. The priest opens his arms to embrace the sky, "The Lord be with you."
 
-???:"And also with you." Schneider responds in a voice that could hardly be heard. She puts her hand on her heart. This is the first time she responds to the Lord. And it will be the last.
+???: "And also with you." Schneider responds in a voice that could hardly be heard. She puts her hand on her heart. This is the first time she responds to the Lord. And it will be the last.
 
 - Description：A Catholic funeral.
 
@@ -2812,7 +2810,7 @@ Long Night Trip
 
 **Sotheby:** Tell me about what you saw?
 
-**Man In Black:** The Madonna, dagger, Portland cement blocks ...ahh yuck! It tastes like cement too.
+**Man In Black:** The Madonna, dagger, Portland cement blocks ... ahh yuck! It tastes like cement too.
 
 **Marian:** Wool, twine and scissors, pineapple cherry tomato pizza ...
 
@@ -3090,7 +3088,7 @@ Everything went well, but the result doesn't seem to be what you want. Looks lik
 
 **Z:** What the Manus wants are those supplies. So you need to adjust your plan.
 
-**Z:** Our first priority is to**stop them from grabbing the supplies and to rescue the refugees**.
+**Z:** Our first priority is to **stop them from grabbing the supplies and to rescue the refugees**.
 
 **Z:** There may well be a tough battle today. Just in case, we will send you some fresh crews.
 
@@ -3098,7 +3096,7 @@ Everything went well, but the result doesn't seem to be what you want. Looks lik
 
 **Z:** She knows what she is doing.
 
-**Z:** You will meet when the mission is completed,Sonetto.
+**Z:** You will meet when the mission is completed, Sonetto.
 
 **Sonetto:** ... Understood. I will do my best.
 
@@ -3705,57 +3703,57 @@ Manus Vindictae's supply transport team intercepted. The damage control team wil
 
 Fight of the bulldogs
 
-???:You look nervous, and you all know something's gonna happen.
+???: You look nervous, and you all know something's gonna happen.
 
-???:With your—that ... the brains full of weird ideas—somehow you can feel it. It's your special talent. The talent comes together with your sensitive nerves and rich emotions.
+???: With your—that ... the brains full of weird ideas—somehow you can feel it. It's your special talent. The talent comes together with your sensitive nerves and rich emotions.
 
-???:Things are getting messy. New friends and old friends showed up one after another. And, here you are.
+???: Things are getting messy. New friends and old friends showed up one after another. And, here you are.
 
-???:Fog rises. It separates the black and the white, just like separating two groups of bulldogs. They're turning around and around, revealing their fangs as if they're trying to tear their own tails apart.
+???: Fog rises. It separates the black and the white, just like separating two groups of bulldogs. They're turning around and around, revealing their fangs as if they're trying to tear their own tails apart.
 
 > **Choice 1：** What happened inside the fog?
 
-???:Good question, my dear. Let's take a look here, right under your feet—
+???: Good question, my dear. Let's take a look here, right under your feet—
 
-???:You walked in the area controlled by Manus Vindictae. You stole Schneider under their noses—that little girl who bathed in red feathers and blood. And you whispered to that pretty Druid.
+???: You walked in the area controlled by Manus Vindictae. You stole Schneider under their noses—that little girl who bathed in red feathers and blood. And you whispered to that pretty Druid.
 
-???:And your rivals are no better people than you are. Look at those wooden supply boxes. People are starving, but the only thing inside is cotton, and cotton, and cotton.
+???: And your rivals are no better people than you are. Look at those wooden supply boxes. People are starving, but the only thing inside is cotton, and cotton, and cotton.
 
-???:Butter, flour, sugar, and everything sweet were intercepted and sent to Chicago, thanks to those black dogs. But that's alright, cotton will feed you too.
+???: Butter, flour, sugar, and everything sweet were intercepted and sent to Chicago, thanks to those black dogs. But that's alright, cotton will feed you too.
 
-???:Come on. Follow me and look. Look at the place where the air becomes humid because tears are shed. Here's a sobbing mother, with an infant in her arms. Her child is dying, while those nobles are worrying about their silk clothing, checking if their jewelry gets stained with mud.
+???: Come on. Follow me and look. Look at the place where the air becomes humid because tears are shed. Here's a sobbing mother, with an infant in her arms. Her child is dying, while those nobles are worrying about their silk clothing, checking if their jewelry gets stained with mud.
 
 > **Choice 2：** What happened outside the fog?
 
-???:Yes, of course you'd wonder. You haven't been out there for so long that you know nothing about them or their stories. I'd be as curious if I were you.
+???: Yes, of course you'd wonder. You haven't been out there for so long that you know nothing about them or their stories. I'd be as curious if I were you.
 
-???:The smarties in the Foundation also noticed what Manus Vindictae has done. They stopped the transportation team while approaching the fog.
+???: The smarties in the Foundation also noticed what Manus Vindictae has done. They stopped the transportation team while approaching the fog.
 
-???:The girl in the black suit has returned to where you asked her to be. They take good care of her.
+???: The girl in the black suit has returned to where you asked her to be. They take good care of her.
 
-???:And your loyal, beautiful friend is fighting for you, together with that easily startled rocking girl, the quick-thinking boy, and a red fruit.
+???: And your loyal, beautiful friend is fighting for you, together with that easily startled rocking girl, the quick-thinking boy, and a red fruit.
 
-???:She's on her way to save you. She overcomes one obstacle after another, like a prince crossing the thorny land of a sleeping castle, like a legend puppy gripping its owner's clothes and pulling him from a flaming fire.
+???: She's on her way to save you. She overcomes one obstacle after another, like a prince crossing the thorny land of a sleeping castle, like a legend puppy gripping its owner's clothes and pulling him from a flaming fire.
 
 > **Choice 3：** What is the fog?
 
-???:You picked an interesting question, as interesting as yourself, little freak.
+???: You picked an interesting question, as interesting as yourself, little freak.
 
-???:You do have a distinguished brain, with so many distinguished things inside. It's not bad. Keep that. Use it more often.
+???: You do have a distinguished brain, with so many distinguished things inside. It's not bad. Keep that. Use it more often.
 
-???:Let's go back to your question. The fog—no doubt it's created by the barkeeper. It's like bartending, put this in, put that in, stir them in a crucible, and you get what you want.
+???: Let's go back to your question. The fog—no doubt it's created by the barkeeper. It's like bartending, put this in, put that in, stir them in a crucible, and you get what you want.
 
-???:It works like real fog; it blocks eyesight, hides secrets, and slows down those who wanna get in or get out. It also works differently from the real fog, for it is hallucinating, intoxicating, and getting people forever lost at the mysterious fork roads.
+???: It works like real fog; it blocks eyesight, hides secrets, and slows down those who wanna get in or get out. It also works differently from the real fog, for it is hallucinating, intoxicating, and getting people forever lost at the mysterious fork roads.
 
-???:He is shrewd and insidious. But smart guys are everywhere, especially now and here.
+???: He is shrewd and insidious. But smart guys are everywhere, especially now and here.
 
-???:What we have to do is wait. Wait. Wait for it. But not for too long, that'd be stupid. You know, a proper wait—wait for it!
+???: What we have to do is wait. Wait. Wait for it. But not for too long, that'd be stupid. You know, a proper wait—wait for it!
 
-???:The show is about to begin. You'll see the most magnificent performance of all time! Oh, of course, you can join it, stand in the center, bring your pretty suitcase, hold your umbrella, and give us a badass fight.
+???: The show is about to begin. You'll see the most magnificent performance of all time! Oh, of course, you can join it, stand in the center, bring your pretty suitcase, hold your umbrella, and give us a badass fight.
 
-???:Wait and see. The fog between black dogs and white dogs won't last for long. You can't turn away from those biting, tearing, and bleeding.
+???: Wait and see. The fog between black dogs and white dogs won't last for long. You can't turn away from those biting, tearing, and bleeding.
 
-???:Grab your popcorns, my love. Then sit tight, hold still. You may cry, or may not. I don't give a f\*\*k.
+???: Grab your popcorns, my love. Then sit tight, hold still. You may cry, or may not. I don't give a f\*\*k.
 
 
 ---
@@ -4170,7 +4168,7 @@ COMBAT:
 
 ■■■ Formula: 1920s
 
-I am so sick of him! An "arcanist" acting like the upper class! He even attended the parties in the lords' mansions. He is nothing like those who hide their identities: they know how to suck up to humans and cover up the ugly side. Look at him! A drink that turns into alcohol only when you drink it? He should be hung, and shot, and burned! Get out of our street! —Big Mouth Bulletin: From Readers, 1927, Issue 1224-1He must be a weird monster! I heard a woman married a snake and bore a horrible child. That must be him! That's why he hides everything about himself. The other day I saw with my own eyes he had scales under those long sleeves, one next to another embedded in his flesh. On the fourteenth night after that, I woke up with a start from the nightmare to find a woman with a strange head staring at me from the darkness outside the window. She didn't breathe or say a word, and just put her face against the window like some dead animal ... That must be his underling ... —Big Mouth Bulletin: From Readers, 1927, Issue 1224-1He gave me a hand when I needed help. —Big Mouth Bulletin: From Readers, 1927, Issue 1224-1His alcohol has bewitched too many people. That green stuff can open anyone's mouth: secrets of the Anti-Saloon League, plans of the Synagogue, and even rumors of the Congress, he knew them all. There's someone different behind him. I don't know who that is, but they must be unbelievably powerful. No one's going to believe my words. I don't know why he is still alive now. That's horrible. I mean it. —Big Mouth Bulletin: From Readers, 1927, Issue 1224-1Forget Me Not is the most celebrated mixologist of the early 20th century and a perfect embodiment of the American Dream. His real name is unknown to the public, and rumors about him abound. Some claim he's a wicked drug dealer, Satan reincarnate, a political spy, or even the love child of an evil serpent and a human. Although his background remains shrouded in mystery, it doesn't stop us from tasting heaven in his wonderful creations. —Big Mouth Bulletin: From Readers, 1927, Issue 1224, Epilogue
+I am so sick of him! An "arcanist" acting like the upper class! He even attended the parties in the lords' mansions. He is nothing like those who hide their identities: they know how to suck up to humans and cover up the ugly side. Look at him! A drink that turns into alcohol only when you drink it? He should be hung, and shot, and burned! Get out of our street! —Big Mouth Bulletin: From Readers, 1927, Issue 1224-1 He must be a weird monster! I heard a woman married a snake and bore a horrible child. That must be him! That's why he hides everything about himself. The other day I saw with my own eyes he had scales under those long sleeves, one next to another embedded in his flesh. On the fourteenth night after that, I woke up with a start from the nightmare to find a woman with a strange head staring at me from the darkness outside the window. She didn't breathe or say a word, and just put her face against the window like some dead animal ... That must be his underling ... —Big Mouth Bulletin: From Readers, 1927, Issue 1224-1 He gave me a hand when I needed help. —Big Mouth Bulletin: From Readers, 1927, Issue 1224-1 His alcohol has bewitched too many people. That green stuff can open anyone's mouth: secrets of the Anti-Saloon League, plans of the Synagogue, and even rumors of the Congress, he knew them all. There's someone different behind him. I don't know who that is, but they must be unbelievably powerful. No one's going to believe my words. I don't know why he is still alive now. That's horrible. I mean it. —Big Mouth Bulletin: From Readers, 1927, Issue 1224-1 Forget Me Not is the most celebrated mixologist of the early 20th century and a perfect embodiment of the American Dream. His real name is unknown to the public, and rumors about him abound. Some claim he's a wicked drug dealer, Satan reincarnate, a political spy, or even the love child of an evil serpent and a human. Although his background remains shrouded in mystery, it doesn't stop us from tasting heaven in his wonderful creations. —Big Mouth Bulletin: From Readers, 1927, Issue 1224, Epilogue
 
 - Description：A tabloid that can be seen everywhere. It describes what people in this city care about, including Mr. Forget Me Not of the Walden.
 - Action：Read

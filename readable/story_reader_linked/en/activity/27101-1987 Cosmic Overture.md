@@ -300,9 +300,9 @@ Let me introduce myself in a little more detail, in case you're shocked when you
 
 Hallway, Cosmodrome
 
-**Snake I:****Are we there yet? Drats! This is no way to travel! Let me just slither please.**
+**Snake I:** **Are we there yet? Drats! This is no way to travel! Let me just slither please.**
 
-**Snake V:****We don't have a choice. We're stuck with this most unfortunate mode of transportation.**
+**Snake V:** **We don't have a choice. We're stuck with this most unfortunate mode of transportation.**
 
 Introducing two of the nine siblings of the Dubois family, always loudly at odds and proud of it.
 
@@ -314,7 +314,7 @@ Footsteps grow nearer, prompting them to look around for their source.
 
 **Receptionist:** Your ID card, please.
 
-**Snake I:****Hiss.**
+**Snake I:** **Hiss.**
 
 **Receptionist:** Oh, my apologies!
 
@@ -354,7 +354,7 @@ The little golden-scaled snake flicks its tongue at her, and—was that a wink?
 
 The researcher disappears down the hall, and cheerful voices ring out again.
 
-**Snake I:****You know what, Two, I think the staff here are more accommodating than most types we meet.**
+**Snake I:** **You know what, Two, I think the staff here are more accommodating than most types we meet.**
 
 **Hissabeth:** Or, are you just being more of a jerk than usual?
 
@@ -2220,7 +2220,7 @@ A dark shape juts out of the snow—the odd appearance of the strange metal vess
 
 Name Day's blade lands right in time, stopping the hand reaching for the vessel.
 
-**Name Day:**\*Čабля.
+**Name Day:** \*Čабля.
 
 ***
 
@@ -2809,7 +2809,7 @@ Name Day swaps the food around the table, pushing two still-full plates to the m
 
 Cold scales press against Kiperina's wrist.
 
-**Snake I:****Feel like a drink? Here, we've got some hot milk or warm apple cider. Pick one.**
+**Snake I:** **Feel like a drink? Here, we've got some hot milk or warm apple cider. Pick one.**
 
 Dragging a cup behind it, the snake leaves splotches of spilled drink all across the table.
 
@@ -2829,7 +2829,7 @@ A turning point in any story or relationship, from a stranger to a colleague, an
 
 "Friend/Comrade."
 
-**All:**Cheers!
+**All:** Cheers!
 
 **Hissabeth:** Having said that, the odds are in our favor. Even though Laplace is no longer in its prime, it still has the best technology and the finest scientists.
 
@@ -3000,7 +3000,7 @@ As the clock strikes the hour, a small figure peeks in through the door.
 
 **Hissabeth:** Our last record matters, my friend.
 
-**Snake I:****Two, I don't think that's what Pointer meant when she told us to "learn from our mistakes."**
+**Snake I:** **Two, I don't think that's what Pointer meant when she told us to "learn from our mistakes."**
 
 Before Hissabeth can pinch its mouth shut, the little snake ducks back into her hair.
 
@@ -4452,10 +4452,6 @@ I remember what they called me:
 
 Alina Medvedeva. The girl like a bear.
 
-Alina Medvedeva. The girl like a bear.
-
-You must have a proper stage name for your performance.
-
 You must have a proper stage name for your performance.
 
 **Mr. Kozlov:** "Kiperina."
@@ -4564,13 +4560,7 @@ Even so, I hope one day, when they mention me, they will look up at the sky and 
 
 "A brave young astronaut walked among the stars."
 
-"A brave young astronaut walked among the stars."
-
 It's not about Mr. Kozlov's wishes for Alia, nor about her friends' expectations for Kiperina.
-
-It's not about Mr. Kozlov's wishes for Alia, nor about her friends' expectations for Kiperina.
-
-And she, Alina Medvedeva, made the choice to go herself.
 
 And she, Alina Medvedeva, made the choice to go herself.
 
@@ -4856,21 +4846,21 @@ To focus, she tries turning the noise in her head into spoken words.
 
 She presses down firmly on the fingerprint scanner, keeping her tone civil through gritted teeth.
 
-**Snake V:****Aren't those steps important for safety?**
+**Snake V:** **Aren't those steps important for safety?**
 
 **Hissabeth:** Yeah, yeah, probably, but the process is too complicated. I think Pointer was the only one that ever managed to remember each step in order.
 
-**Snake V:****Oh, so now you're thinking of her again?**
+**Snake V:** **Oh, so now you're thinking of her again?**
 
 **Hissabeth:** Yeah, whatever. I could use another hand, is all. She's probably still in the branch building, busy with her own stuff.
 
 **Hissabeth:** Besides—
 
-**Snake V:****Hey, you hear that?**
+**Snake V:** **Hey, you hear that?**
 
 Hurried footsteps approach the launch bay.
 
-**Snake V:****It's an intruder! Hurry, we've got to stop them!**
+**Snake V:** **It's an intruder! Hurry, we've got to stop them!**
 
 The little snake's mouth is pinched shut, and the room falls silent. She listens closely to the increasingly urgent steps.
 
@@ -5086,9 +5076,9 @@ There's a shift of weight on her shoe.
 
 Kiperina lowers her head. A familiar little snake looks back up at her.
 
-**Snake VIII:****My sister sent me to tell you it's time.**
+**Snake VIII:** **My sister sent me to tell you it's time.**
 
-**Snake VIII:****And that you shouldn't be afraid. You'll make one cool astronaut, ask any of us.**
+**Snake VIII:** **And that you shouldn't be afraid. You'll make one cool astronaut, ask any of us.**
 
 **Kiperina:** I'm not afraid.
 
@@ -5231,7 +5221,7 @@ The view around her has changed entirely. It feels more familiar and yet even ha
 
 She turns her head. In her hand, she's holding something strange and almost silly.
 
-**Doll:**‘@#%￥！&#%！
+**Doll:** ‘@#%￥！&#%！
 
 **Kiperina:** I don't understand! Please repeat!
 
@@ -5255,7 +5245,7 @@ She tries to orient herself, only for a flash of brightness to grab her attentio
 
 **Kiperina:** I can see the rise and fall of the landscape. It's so strange here.
 
-**Doll:**‘@#%￥！&#%！
+**Doll:** ‘@#%￥！&#%！
 
 **Kiperina:** Come back. I need to record what I'm seeing here.
 
@@ -5309,7 +5299,7 @@ This is the most she can manage.
 
 **Hissabeth:** Just keep hailing her. We have to put our trust in Kiperina.
 
-**Doll:**‘@#%￥！&#%！
+**Doll:** ‘@#%￥！&#%！
 
 **Kiperina:** Where are you going? It's dangerous there!
 
@@ -5449,16 +5439,6 @@ Poems to Natalya Shtempel
 
 —Osip Mandelstam
 
-That which was movement once shall be removed …
-
-Flowers are immortal, the sky is all-embracing,
-
-And what will be is no more than a promise.
-
-Poems to Natalya Shtempel
-
-—Osip Mandelstam
-
 She knows what she sees will be wiped away. Her country, her home, her past identity, the food she's tasted, the friends she's known—eventually they'll only live in memory.
 
 And memory, too, has a notoriously short shelf life. The stars remember nothing.
@@ -5577,9 +5557,9 @@ Ten seconds.
 
 **Name Day:** I hope there will still be weekends in the afterlife.
 
-**Hissabeth:**If there is anything after this, then we deserve overtime pay for all eternity.
+**Hissabeth:** If there is anything after this, then we deserve overtime pay for all eternity.
 
-**Han Zhang:**How can you be thinking of work right now!
+**Han Zhang:** How can you be thinking of work right now!
 
 One second.
 
@@ -5735,10 +5715,6 @@ When old age shall this generation waste,
 
 Thou shalt remain, in midst of other woe.
 
-When old age shall this generation waste,
-
-Thou shalt remain, in midst of other woe.
-
 **Hissabeth:** I know the piece. Pointer often plays that record in her office. She said it's a track from the Golden Record.
 
 **Hissabeth:** The same record that Voyager 1 carries.
@@ -5758,10 +5734,6 @@ Thou shalt remain, in midst of other woe.
 **Hissabeth:** To spend so much time and resources on something that won't respond to us after such a short time on a universal scale. It sounds even more useless than our arcane skills.
 
 When staring at the flickering lights above, it's hard to imagine that the planet beneath our feet is nothing more than a speck in the universe.
-
-Than ours, a friend to man, to whom thou say'st,
-
-"Beauty is truth, truth beauty."
 
 Than ours, a friend to man, to whom thou say'st,
 
@@ -5792,14 +5764,6 @@ A melody played for her teammates. A blessing and encouragement for a brave litt
 A reply from 6.4 billion light-years away.
 
 The message has been delivered. The recipient: a star that sings.
-
-That is all.
-
-Ye know on earth, and all ye need to know.
-
-Ode on a Grecian Urn
-
-—John Keats
 
 That is all.
 
@@ -5888,10 +5852,6 @@ Poverty and wealth, cruelty and nobility. The rise and fall of civilizations, th
 All on a single speck of dust in the Milky Way.
 
 **Voyager:** How beautiful ... the stars are.
-
-One seemingly useless exploration changes everything.
-
-Just as a star from afar changes you.
 
 One seemingly useless exploration changes everything.
 
